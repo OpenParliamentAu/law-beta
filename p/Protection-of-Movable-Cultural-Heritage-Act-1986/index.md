@@ -1,156 +1,158 @@
-![](http://www.comlaw.gov.au/Details/C2011C00238/Html/32ae77f4-2781-4c26-be10-509a3e48b40f_files/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="3B2A79363F6067D3CA256FB900227008/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Protection of Movable Cultural Heritage Act 1986
 
-**Act No. 11 of 1986 as amended**
+**Act No. 11 of 1986 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 3 March 2005
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary<span style="mso-tab-count: 1">                                                                                                                </span>**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Interpretation                                                                                        1
+[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[4](#4).            Act to bind Crown [_see_ Note 2]                                                           4
+[4](#4).            Act to bind Crown [_see_ Note 2]<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[5](#5).            Application                                                                                           4
+[5](#5).            Application<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[6](#6).            Extension to Territories                                                                        4
+[6](#6).            Extension to Territories<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[6A](#6A).         Application of the _Criminal Code_                                                        4
+[6A](#6A).         Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-**Part II—Control of Exports and Imports** 
+**Part II—Control of Exports and Imports<span style="mso-tab-count: 1">                                                                   </span>** 
 
-    **Division 1—Exports**
+    **Division 1—Exports<span style="mso-tab-count: 1">                                                                                                      </span>**
 
-[7](#7).            Movable cultural heritage of Australia                                                 5
+[7](#7).            Movable cultural heritage of Australia<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[8](#8).            National Cultural Heritage Control List                                                5
+[8](#8).            National Cultural Heritage Control List<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[9](#9).            Unlawful exports                                                                                 6
+[9](#9).            Unlawful exports<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[10](#10).          Grant of permits in respect of particular objects                                   8
+[10](#10).          Grant of permits in respect of particular objects<span style="mso-tab-count: 1 dotted">                                </span>
 
-[10A](#10A).       Grant of general permits for certain institutions                                   9
+[10A](#10A).       Grant of general permits for certain institutions<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[11](#11).          Permits                                                                                                 9
+[11](#11).          Permits<span style="mso-tab-count: 1 dotted">                                                                                               </span>
 
-[12](#12).          Certificates of exemption                                                                    10
+[12](#12).          Certificates of exemption<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[13](#13).          Variation etc  of conditions and period of permit or certificate           10
+[13](#13).          Variation etc  of conditions and period of permit or certificate<span style="mso-tab-count: 1 dotted">         </span>
 
-[13A](#13A).       Address for service of notices                                                            11
+[13A](#13A).       Address for service of notices<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-    **Division 2—Imports**
+    **Division 2—Imports<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[14](#14).          Unlawful imports                                                                               12
+[14](#14).          Unlawful imports<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-**Part III—Administration**
+**Part III—Administration<span style="mso-tab-count: 1">                                                                                                   </span>**
 
-[15](#15).          National Cultural Heritage Committee                                                14
+[15](#15).          National Cultural Heritage Committee<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[16](#16).          Functions of Committee                                                                     14
+[16](#16).          Functions of Committee<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[17](#17).          Constitution of Committee                                                                 14
+[17](#17).          Constitution of Committee<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[18](#18).          Removal and resignation                                                                    15
+[18](#18).          Removal and resignation<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[19](#19).          Remuneration and allowances                                                            16
+[19](#19).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[20](#20).          Disclosure of interests                                                                        16
+[20](#20).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[21](#21).          Meetings                                                                                            17
+[21](#21).          Meetings<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-[21A](#21A).       Conduct of meetings                                                                          17
+[21A](#21A).       Conduct of meetings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[21B](#21B).       Certain resolutions may be made without meetings                            18
+[21B](#21B).       Certain resolutions may be made without meetings<span style="mso-tab-count: 1 dotted">                          </span>
 
-[22](#22).          Register of expert examiners                                                              18
+[22](#22).          Register of expert examiners<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[23](#23).          Expert examiners                                                                                18
+[23](#23).          Expert examiners<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[24](#24).          Delegation                                                                                          19
+[24](#24).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-**Part IV—National Cultural Heritage Account**
+**Part IV—National Cultural Heritage Account<span style="mso-tab-count: 1">                                                     </span>**
 
-[25](#25).          Establishment of National Cultural Heritage Account                        20
+[25](#25).          Establishment of National Cultural Heritage Account<span style="mso-tab-count: 1 dotted">                      </span>
 
-[25A](#25A).       Credits to Account                                                                             20
+[25A](#25A).       Credits to Account<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[25B](#25B).       Purpose of Account                                                                           20
+[25B](#25B).       Purpose of Account<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[26](#26).          Taxation                                                                                             20
+[26](#26).          Taxation<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-**Part V—Enforcement of Act**
+**Part V—Enforcement of Act<span style="mso-tab-count: 1">                                                                                           </span>**
 
-[27](#27).          Interpretation                                                                                      21
+[27](#27).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[28](#28).          Inspectors                                                                                           21
+[28](#28).          Inspectors<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[29](#29).          Identity cards                                                                                      22
+[29](#29).          Identity cards<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[30](#30).          Search warrants                                                                                  22
+[30](#30).          Search warrants<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[31](#31).          Search warrants granted by telephone                                                24
+[31](#31).          Search warrants granted by telephone<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[32](#32).          Searches in emergencies                                                                     25
+[32](#32).          Searches in emergencies<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[33](#33).          Powers of arrest                                                                                 26
+[33](#33).          Powers of arrest<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[34](#34).          Seizure of protected objects                                                                27
+[34](#34).          Seizure of protected objects<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[35](#35).          Power of retention                                                                              27
+[35](#35).          Power of retention<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[36](#36).          Notice of seizure                                                                                27
+[36](#36).          Notice of seizure<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[37](#37).          Court proceedings                                                                              29
+[37](#37).          Court proceedings<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[38](#38).          Result of forfeiture                                                                             30
+[38](#38).          Result of forfeiture<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[39](#39).          Production of permit                                                                          30
+[39](#39).          Production of permit<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[40](#40).          Proof of authority                                                                               30
+[40](#40).          Proof of authority<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[41](#41).          Foreign country to request return of objects                                       31
+[41](#41).          Foreign country to request return of objects<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[43](#43).          Assistance of inspectors                                                                     31
+[43](#43).          Assistance of inspectors<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[46](#46).          Indictable offences                                                                             31
+[46](#46).          Indictable offences<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-**Part VI—Miscellaneous**
+**Part VI—Miscellaneous<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[47](#47).          Annual report                                                                                     33
+[47](#47).          Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[48](#48).          Administrative Appeals Tribunal                                                       33
+[48](#48).          Administrative Appeals Tribunal<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[49](#49).          Regulations                                                                                        33
+[49](#49).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
-## An Act to protect Australia’s heritage of movable cultural objects, to support the protection by foreign countries of their heritage of movable cultural objects, and for related purposes
 
-## Part I—Preliminary
+## An Act to protect <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s heritage of movable cultural objects, to support the protection by foreign countries of their heritage of movable cultural objects, and for related purposes
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+## Part I—Preliminary
+
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Protection of Movable Cultural Heritage Act 1986_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -160,13 +162,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aircraft"></a>**_aircraft_** means a machine or apparatus that can derive support in the atmosphere from the reactions of the air or from buoyancy.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
-                    <a name="australia"></a>**_Australia_** includes the external Territories other than Norfolk Island.
+                    <a name="australia"></a><st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Australia_**</st1:place></st1:country-region> includes the external Territories other than <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
                     <a name="australian-protect-object"></a>**_Australian protected object_** means a Class A object or a Class B object.
 
-                    <a name="certif"></a>**_certificate_** means a certificate in force under section 12.
+                    <a name="certif"></a>**_certificate_** means a certificate in force under section 12.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Committee.
 
@@ -174,35 +176,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="class-object"></a>**_Class B object_** means an object included in the class of Class B objects in the Control List.
 
-                    <a name="coastal-sea"></a>**_coastal sea_**, in relation to Australia, means:
+                    <a name="coastal-sea"></a>**_coastal sea_**, in relation to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, means:
 
-                     (a)  the territorial sea of Australia; and
+                     (a)  the territorial sea of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
 
-                     (b)  the sea on the landward side of the territorial sea of Australia.
+                     (b)  the sea on the landward side of the territorial sea of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-                    <a name="committe"></a>**_Committee_** means the National Cultural Heritage Committee established under section 15.
+                    <a name="committe"></a>**_Committee_** means the National Cultural Heritage Committee established under section 15.
 
                     <a name="condition"></a>**_condition_**, in relation to a permit, means a condition to which the permit is subject.
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
-                    <a name="control-list"></a>**_Control List_** means the National Cultural Heritage Control List in force under section 8.
+                    <a name="control-list"></a>**_Control List_** means the National Cultural Heritage Control List in force under section 8.
 
-                    <a name="expert-examin"></a>**_expert examiner_** means a person whose name is in the register kept under section 22.
+                    <a name="expert-examin"></a>**_expert examiner_** means a person whose name is in the register kept under section 22.
 
-                    <a name="export"></a>**_export_** means export from Australia.
+                    <a name="export"></a>**_export_** means export from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-                    <a name="import"></a>**_import_** means import into Australia.
+                    <a name="import"></a>**_import_** means import into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-                    <a name="inland-water-australia"></a>**_inland waters of Australia_** includes all waters on the landward side of the coastal sea of Australia.
+                    <a name="australia"></a><a name="inland-water"></a>**_inland waters of_**<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Australia_**</st1:place></st1:country-region> includes all waters on the landward side of the coastal sea of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-                    <a name="inspector"></a>**_inspector_** means a person who is an inspector by virtue of section 28.
+                    <a name="inspector"></a>**_inspector_** means a person who is an inspector by virtue of section 28.
 
                     <a name="member"></a>**_member_** means a member of the Committee.
 
-                    <a name="nation-cultur-heritag-account"></a>**_National Cultural Heritage Account_** means the Account established by section 25.
+                    <a name="nation-cultur-heritag-account"></a>**_National Cultural Heritage Account_** means the Account established by section 25.
 
-                    <a name="permit"></a>**_permit_** means a permit in force under section 11.
+                    <a name="permit"></a>**_permit_** means a permit in force under section 11.
 
                     <a name="princip-collect-institut"></a>**_principal collecting institution_** means:
 
@@ -222,9 +224,9 @@ established under a law of the Commonwealth, a State or a Territory.
 
                     <a name="structur"></a>**_structure_** includes a platform fixed to the seabed or otherwise operating in the sea.
 
-                    <a name="territori-sea"></a>**_territorial sea_**, in relation to Australia, has the same meaning as it has for the purposes of the _Seas and Submerged Lands Act 1973_.
+                    <a name="territori-sea"></a>**_territorial sea_**, in relation to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, has the same meaning as it has for the purposes of the _Seas and Submerged Lands Act 1973_.
 
-                    <a name="vessel"></a>**_vessel_** means anything capable of carrying persons or goods through or on water, and includes an air‑cushion vehicle or similar craft.
+                    <a name="vessel"></a>**_vessel_** means anything capable of carrying persons or goods through or on water, and includes an air-cushion vehicle or similar craft.
 
              (2)  A power conferred on a person by this Act may be exercised in the discretion of the person.
 
@@ -236,7 +238,7 @@ established under a law of the Commonwealth, a State or a Territory.
 
 being an offence that relates to an offence against that provision of this Act, or against this Act, as the case may be.
 
-          (3A)  A reference in this Act to an **_offence against this Act_** includes a reference to an offence against section 148.1, 148.2, 147.1 or 149.1 of the _Criminal Code_ that relates to this Act.
+          (3A)  A reference in this Act to an **_offence against this Act_** includes a reference to an offence against section 148.1, 148.2, 147.1 or 149.1 of the _Criminal Code_ that relates to this Act.
 
              (4)  For the purposes of the application of this Act in relation to a body corporate, but without prejudice to the liability of any person other than the body corporate:
 
@@ -250,19 +252,19 @@ being an offence that relates to an offence against that provision of this Act, 
 
                      (b)  any other prescribed reasons.
 
-             (6)  The provisions of this Act relating to the exportation or importation of an object apply notwithstanding that the object may have been brought into Australia from a country for the purpose of transportation to another country or as part of the stores or equipment of a vessel or aircraft.
+             (6)  The provisions of this Act relating to the exportation or importation of an object apply notwithstanding that the object may have been brought into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> from a country for the purpose of transportation to another country or as part of the stores or equipment of a vessel or aircraft.
 
-##### <a id="4"></a>4  Act to bind Crown [_see_ Note 2]
+##### <a id="4"></a>4  Act to bind Crown<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 2]</span>
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
 ##### <a id="5"></a>5  Application
 
-                   This Act applies both within and outside   Australia.
+                   This Act applies both within and outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 ##### <a id="6"></a>6  Extension to Territories
 
-                   This Act extends to every external Territory other than Norfolk Island.
+                   This Act extends to every external Territory other than <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.
 
 ##### <a id="6A"></a>6A  Application of the _Criminal Code_
 
@@ -270,23 +272,25 @@ being an offence that relates to an offence against that provision of this Act, 
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part II—Control of Exports and Imports
+<o:p> </o:p>
 
-### Division 1—Exports
+## Part II—Control of Exports and Imports
 
-##### <a id="7"></a>7  Movable cultural heritage of Australia
+### Division 1—Exports
 
-             (1)  A reference in section 8 to the movable cultural heritage of Australia is a reference to objects that are of importance to Australia, or to a particular part of Australia, for ethnological, archaeological, historical, literary, artistic, scientific or technological reasons, being objects falling within one or more of the following categories:
+##### <a id="7"></a>7  Movable cultural heritage of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>
+
+             (1)  A reference in section 8 to the movable cultural heritage of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is a reference to objects that are of importance to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or to a particular part of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, for ethnological, archaeological, historical, literary, artistic, scientific or technological reasons, being objects falling within one or more of the following categories:
 
                      (a)  objects recovered from:
 
-                              (i)  the soil or inland waters of Australia;
+                              (i)  the soil or inland waters of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                             (ii)  the coastal sea of Australia or the waters above the continental shelf of Australia; or
+                             (ii)  the coastal sea of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or the waters above the continental shelf of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                            (iii)  the seabed or subsoil beneath the sea or waters referred to in subparagraph (ii);
+                            (iii)  the seabed or subsoil beneath the sea or waters referred to in subparagraph (ii);
 
-                     (b)  objects relating to members of the Aboriginal race of Australia and descendants of the indigenous inhabitants of the Torres Strait Islands;
+                     (b)  objects relating to members of the Aboriginal race of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and descendants of the indigenous inhabitants of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Torres Strait</st1:placename> <st1:placetype>Islands</st1:placetype></st1:place>;
 
                      (c)  objects of ethnographic art or ethnography;
 
@@ -302,11 +306,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                       (j)  any other prescribed categories.
 
-             (2)  The generality of paragraph (1)(j) is not limited by any of the other paragraphs of subsection (1).
+             (2)  The generality of paragraph (1)(j) is not limited by any of the other paragraphs of subsection (1).
 
 ##### <a id="8"></a>8  National Cultural Heritage Control List
 
-             (1)  Subject to subsection (2), the regulations shall prescribe a list, to be known as the National Cultural Heritage Control List, of categories of objects that constitute the movable cultural heritage of Australia and are to be subject to export control.
+             (1)  Subject to subsection (2), the regulations shall prescribe a list, to be known as the National Cultural Heritage Control List, of categories of objects that constitute the movable cultural heritage of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and are to be subject to export control.
 
              (2)  The Control List shall divide such objects into 2 classes, namely:
 
@@ -314,7 +318,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  Class B objects, being objects that are not to be exported otherwise than in accordance with a permit or certificate.
 
-             (3)  Subsection (2) does not prevent the division of Class A objects and Class B objects into sub‑classes and other divisions or categories.
+             (3)  Subsection (2) does not prevent the division of Class A objects and Class B objects into sub-classes and other divisions or categories.
 
              (4)  Nothing in this section shall be taken to limit the application of subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
@@ -342,7 +346,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
           (3B)  A person who is convicted of an offence against subsection (3) or (3A) is punishable by:
 
-                     (a)  if the person is an individual—a fine not exceeding 1,000 penalty units or imprisonment for a period not exceeding 5 years, or both; or
+                     (a)  if the person is an individual—a fine not exceeding 1,000 penalty units or imprisonment for a period not exceeding 5 years, or both; or
 
                      (b)  if the person is a body corporate—a fine not exceeding 2,000 penalty units.
 
@@ -352,7 +356,7 @@ Note:          See subsection 46(4) for penalties that may be 
 
                      (a)  the object has been placed on board a ship or aircraft at a particular place in Australia with the intention that it be taken out of Australia by that ship or aircraft and the departure of the ship or aircraft from that place has commenced; or
 
-                     (b)  the object has been delivered as a postal article into the control of the Australian Postal Corporation at a particular place in Australia with the intention that it be sent out of Australia by post and the movement of the postal article from that place has commenced.
+                     (b)  the object has been delivered as a postal article into the control of the Australian Postal Corporation at a particular place in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> with the intention that it be sent out of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> by post and the movement of the postal article from that place has commenced.
 
              (5)  Without limiting the meaning of references in this section to a person attempting to export an object, a person shall be taken to attempt to export an object if the person conveys, or has possession of, the object with intent to export it or knowing that it is intended to be exported.
 
@@ -398,7 +402,7 @@ Note:          See subsection 46(4) for penalties that may be 
 
              (1)  A principal collecting institution may apply to the Minister for a permit to export a Class B object that is accessioned into the collection for which the institution is responsible.
 
-             (2)  If a principal collecting institution is not a body corporate, the person responsible for the institution’s operations may make an application under subsection (1).
+             (2)  If a principal collecting institution is not a body corporate, the person responsible for the institution’s operations may make an application under subsection (1).
 
              (3)  An application is to be made in writing in the prescribed form, or, if no form is prescribed, the form approved by the Minister.
 
@@ -422,9 +426,9 @@ Note:          See subsection 46(4) for penalties that may be 
 
 ##### <a id="11"></a>11  Permits
 
-             (1)  A permit granted under section 10 or 10A shall be in writing in the prescribed form, or if no form is prescribed, the form approved by the Minister.
+             (1)  A permit granted under section 10 or 10A shall be in writing in the prescribed form, or if no form is prescribed, the form approved by the Minister.
 
-             (2)  A permit granted under section 10 or 10A comes into force on the date on which it is granted and remains in force for an indefinite period or for a period specified in the permit.
+             (2)  A permit granted under section 10 or 10A comes into force on the date on which it is granted and remains in force for an indefinite period or for a period specified in the permit.
 
 ##### <a id="12"></a>12  Certificates of exemption
 
@@ -462,19 +466,21 @@ the person may apply to the Minister for a certificate authorising the exportati
 
                      (d)  revoke the permit or certificate.
 
-             (2)  A notice under subsection (1) takes effect when it is served on the holder of the permit or certificate or on such later date (if any) as is specified in the notice.
+             (2)  A notice under subsection (1) takes effect when it is served on the holder of the permit or certificate or on such later date (if any) as is specified in the notice.
 
-             (3)  The Minister shall not exercise a power under subsection (1) in relation to a permit or certificate except upon an application by the holder of the permit or certificate made in writing in the prescribed form, or, if no form is prescribed, the form approved by the Minister.
+             (3)  The Minister shall not exercise a power under subsection (1) in relation to a permit or certificate except upon an application by the holder of the permit or certificate made in writing in the prescribed form, or, if no form is prescribed, the form approved by the Minister.
 
 ##### <a id="13A"></a>13A  Address for service of notices
 
-             (1)  A person applying for a permit under section 10 or 10A or a certificate under section 12 must specify, as the person’s address for the purposes of this Part, an address in Australia.
+             (1)  A person applying for a permit under section 10 or 10A or a certificate under section 12 must specify, as the person’s address for the purposes of this Part, an address in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-             (2)  A person who has specified an address, under subsection (1) or through a previous application of this subsection, may, at any time, give to the Minister a written notice specifying, as the person’s address for the purposes of this Part, an address in Australia that is different from the address last specified.
+             (2)  A person who has specified an address, under subsection (1) or through a previous application of this subsection, may, at any time, give to the Minister a written notice specifying, as the person’s address for the purposes of this Part, an address in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> that is different from the address last specified.
 
              (3)  The last address specified by a person under this section is taken to be the person’s place of residence or business for the purpose of serving notices on the person under this Part.
 
-### Division 2—Imports
+<o:p> </o:p>
+
+### Division 2—Imports
 
 ##### <a id="14"></a>14  Unlawful imports
 
@@ -504,21 +510,23 @@ the person is guilty of an offence punishable, on conviction, by:
 
                      (a)  the importation takes place under an agreement between:
 
-                              (i)  the Commonwealth, a State, a Territory, a principal collecting institution or an exhibition co‑ordinator; and
+                              (i)  the Commonwealth, a State, a Territory, a principal collecting institution or an exhibition co-ordinator; and
 
                              (ii)  any other person or body (including a government); and
 
-                     (b)  the agreement provides for the object to be loaned, for a period not exceeding 2 years, to the Commonwealth, State, Territory, principal collecting institution or exhibition co‑ordinator, as the case may be, for the purpose of its public exhibition within Australia.
+                     (b)  the agreement provides for the object to be loaned, for a period not exceeding 2 years, to the Commonwealth, State, Territory, principal collecting institution or exhibition co-ordinator, as the case may be, for the purpose of its public exhibition within <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-             (4)  In subsection (3):
+             (4)  In subsection (3):
 
-                    <a name="exhibit-co-ordin"></a>**_exhibition co‑ordinator_** means a body that arranges for the conducting in Australia of public exhibitions of objects from collections outside Australia, and that achieves this by, from time to time:
+                    <a name="exhibit-co-ordin"></a>**_exhibition co-ordinator_** means a body that arranges for the conducting in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of public exhibitions of objects from collections outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, and that achieves this by, from time to time:
 
                      (a)  entering into an agreement with a person or body (including a government) for the importation of such objects on loan; and
 
-                     (b)  entering into an agreement with the Commonwealth, a State or a Territory under which the Commonwealth, State or Territory agrees to compensate the person or body referred to in paragraph (a) for any loss of or damage to the objects arising from, or connected with, the carrying out of the agreement referred to in that paragraph or the public exhibition of the objects in Australia.
+                     (b)  entering into an agreement with the Commonwealth, a State or a Territory under which the Commonwealth, State or Territory agrees to compensate the person or body referred to in paragraph (a) for any loss of or damage to the objects arising from, or connected with, the carrying out of the agreement referred to in that paragraph or the public exhibition of the objects in Australia.
 
-## Part III—Administration
+<o:p> </o:p>
+
+## Part III—Administration
 
 ##### <a id="15"></a>15  National Cultural Heritage Committee
 
@@ -534,15 +542,15 @@ the person is guilty of an offence punishable, on conviction, by:
 
                              (ii)  in relation to objects that should be included in, or removed from, the Control List;
 
-                            (iii)  in relation to the classification and re‑classification of objects so included; and
+                            (iii)  in relation to the classification and re-classification of objects so included; and
 
                             (iv)  in relation to the operation of the National Cultural  Heritage Account;
 
                      (b)  to furnish advice to the Minister pursuant to subsections 10(4) and 10A(5);
 
-                     (c)  to establish and maintain the register referred to in section 22; and
+                     (c)  to establish and maintain the register referred to in section 22; and
 
-                     (d)  to consult and co‑operate with appropriate authorities of the Commonwealth, of the States and of the Territories, and with other organisations, associations and persons, on matters related to its functions.
+                     (d)  to consult and co-operate with appropriate authorities of the Commonwealth, of the States and of the Territories, and with other organisations, associations and persons, on matters related to its functions.
 
 ##### <a id="17"></a>17  Constitution of Committee
 
@@ -550,27 +558,27 @@ the person is guilty of an offence punishable, on conviction, by:
 
                      (a)  4 persons, each of whom represents a different collecting institution;
 
-                     (b)  a member of The Australian Vice‑Chancellors’ Committee;
+                     (b)  a member of The Australian Vice-Chancellors’ Committee;
 
                      (c)  a nominee of the Minister for Aboriginal Affairs; and
 
-                     (d)  4 persons having experience relevant to the cultural heritage of Australia.
+                     (d)  4 persons having experience relevant to the cultural heritage of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-          (1A)  The member referred to in paragraph (1)(c) must be:
+          (1A)  The member referred to in paragraph (1)(c) must be:
 
-                     (a)  a person of the Aboriginal race of   Australia; or
+                     (a)  a person of the Aboriginal race of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                     (b)  a descendant of an indigenous inhabitant of the Torres Strait Islands.
+                     (b)  a descendant of an indigenous inhabitant of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Torres Strait</st1:placename> <st1:placetype>Islands</st1:placetype></st1:place>.
 
              (2)  A member of the Committee:
 
                      (a)  shall be appointed by the Minister;
 
-                     (b)  holds office on a part‑time basis;
+                     (b)  holds office on a part-time basis;
 
                      (c)  holds office for such period, not exceeding 4 years, as is specified in the instrument of appointment; and
 
-                     (d)  is eligible for re‑appointment.
+                     (d)  is eligible for re-appointment.
 
              (3)  The Minister shall designate, in writing, one of the members to be the Chairperson.
 
@@ -578,9 +586,9 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (5)  The exercise of a power or the performance of a function by the Committee is not invalidated by reason only that:
 
-                     (a)  there is a vacancy for a period of not more than 3 months in an office of a member referred to in paragraph (1)(b) or (c); or
+                     (a)  there is a vacancy for a period of not more than 3 months in an office of a member referred to in paragraph (1)(b) or (c); or
 
-                     (b)  the number of members referred to in paragraph (1)(a) or (d) falls below 4 for a period of not more than 3 months.
+                     (b)  the number of members referred to in paragraph (1)(a) or (d) falls below 4 for a period of not more than 3 months.
 
              (6)  For the purposes of this section, a person shall be taken to represent a collecting institution if the person holds a senior position in connection with the collecting functions of that institution.
 
@@ -600,7 +608,7 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (2)  The Minister may terminate the appointment of a member referred to in paragraph 17(1)(c) on the request of the Minister for Aboriginal Affairs.
 
-             (3)  If a member fails, without reasonable excuse, to comply with section 20, the Minister shall terminate the appointment of the member.
+             (3)  If a member fails, without reasonable excuse, to comply with section 20, the Minister shall terminate the appointment of the member.
 
              (4)  A member may resign the office of member by writing signed by the member and delivered to the Minister.
 
@@ -610,19 +618,19 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (2)  A member shall be paid such allowances as are prescribed.
 
-             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="20"></a>20  Disclosure of interests
 
              (1)  A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Committee shall, as soon as possible after the relevant facts have come to the knowledge of the member, disclose the nature of the interest at a meeting of the Committee.
 
-             (2)  A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Committee and the member shall not, unless the Minister or the Committee otherwise determines:
+             (2)  A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Committee and the member shall not, unless the Minister or the Committee otherwise determines:
 
                      (a)  be present during any deliberation of the Committee with respect to that matter; or
 
                      (b)  take part in any decision of the Committee with respect to that matter.
 
-             (3)  For the purpose of the making of a determination by the Committee under subsection (2) in relation to a member who has made a disclosure under subsection (1), a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates shall not:
+             (3)  For the purpose of the making of a determination by the Committee under subsection (2) in relation to a member who has made a disclosure under subsection (1), a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates shall not:
 
                      (a)  be present during any deliberation of the Committee for the purpose of making the determination; or
 
@@ -636,7 +644,7 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (3)  At a meeting, 5 members constitute a quorum.
 
-             (4)  Subject to subsection (5), the Chairperson shall preside at all meetings.
+             (4)  Subject to subsection (5), the Chairperson shall preside at all meetings.
 
              (5)  If the Chairperson is absent from a meeting, the members present shall elect one of their number to preside at the meeting.
 
@@ -648,23 +656,23 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (1)  The Committee may regulate the conduct of proceedings at its meetings as it considers appropriate.
 
-             (2)  Without limiting subsection (1), the Committee may permit members to participate in, and form part of the quorum at, a particular meeting, or at all meetings, of the Committee by any of the following methods of communication:
+             (2)  Without limiting subsection (1), the Committee may permit members to participate in, and form part of the quorum at, a particular meeting, or at all meetings, of the Committee by any of the following methods of communication:
 
                      (a)  telephone;
 
-                     (b)  closed‑circuit television;
+                     (b)  closed-circuit television;
 
                      (c)  any other method of communication determined by the Committee.
 
-             (3)  A member who is permitted to participate in a meeting under subsection (2) is regarded as being present at that meeting.
+             (3)  A member who is permitted to participate in a meeting under subsection (2) is regarded as being present at that meeting.
 
 ##### <a id="21B"></a>21B  Certain resolutions may be made without meetings
 
-             (1)  If all the members of the Committee (other than any member to whom subsection (3) applies) sign a document containing a statement that they support a recommendation or report made, in the terms set out in the document, in relation to an application made under section 10 or 10A, a recommendation or report in those terms is taken to have been adopted by a duly constituted meeting of the Committee held on the day the document was signed, or if the members sign the document on different days, on the last of those days.
+             (1)  If all the members of the Committee (other than any member to whom subsection (3) applies) sign a document containing a statement that they support a recommendation or report made, in the terms set out in the document, in relation to an application made under section 10 or 10A, a recommendation or report in those terms is taken to have been adopted by a duly constituted meeting of the Committee held on the day the document was signed, or if the members sign the document on different days, on the last of those days.
 
-             (2)  For the purposes of subsection (1), 2 or more separate documents containing statements in identical terms, each of which is signed by one or more members, are together taken to constitute one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.
+             (2)  For the purposes of subsection (1), 2 or more separate documents containing statements in identical terms, each of which is signed by one or more members, are together taken to constitute one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.
 
-             (3)  A member must not sign a document containing a statement in favour of the recommendation or report if it is in respect of a matter in which the member would, for the purposes of section 20, be taken to have a direct or indirect pecuniary interest.
+             (3)  A member must not sign a document containing a statement in favour of the recommendation or report if it is in respect of a matter in which the member would, for the purposes of section 20, be taken to have a direct or indirect pecuniary interest.
 
              (4)  This section does not apply to a document that less than 5 members of the Committee are eligible to sign.
 
@@ -672,11 +680,11 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (1)  The Committee shall, in accordance with the regulations, maintain a register of the names of persons determined by the Committee to be expert examiners for the purposes of this Act.
 
-             (2)  In subsection (1), **_person_** includes:
+             (2)  In subsection (1), **_person_** includes:
 
                      (a)  a body or association of persons, whether incorporated or not; and
 
-                     (b)  a person resident or domiciled outside Australia.
+                     (b)  a person resident or domiciled outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 ##### <a id="23"></a>23  Expert examiners
 
@@ -686,17 +694,19 @@ the person is guilty of an offence punishable, on conviction, by:
 
              (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by instrument in writing, delegate to:
 
-                     (a)  the person holding or performing the duties of the office of Secretary of the Department; or
+                     (a)  the person holding or performing the duties of the office of Secretary to the Department; or
 
                      (b)  an SES employee, or acting SES employee, in the Department;
 
-all or any of the Minister’s powers under this Act, other than this power of delegation or a power conferred by section 17 or 18, subsection 28(3), (4) or (5) or section 38 or 47.
+all or any of the Minister’s powers under this Act, other than this power of delegation or a power conferred by section 17 or 18, subsection 28(3), (4) or (5) or section 38 or 47.
 
              (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
 
              (3)  A delegation under this section does not prevent the exercise of a power by the Minister.
 
-## Part IV—National Cultural Heritage Account
+<o:p> </o:p>
+
+## Part IV—National Cultural Heritage Account
 
 ##### <a id="25"></a>25  Establishment of National Cultural Heritage Account
 
@@ -718,19 +728,21 @@ Note:          An Appropriation Act provides for amounts to be
 
 ##### <a id="25B"></a>25B  Purpose of Account
 
-                   Amounts standing to the credit of the National Cultural  Heritage Account may be expended for the purpose of facilitating the acquisition of Australian protected objects for display or safe‑keeping.
+                   Amounts standing to the credit of the National Cultural  Heritage Account may be expended for the purpose of facilitating the acquisition of Australian protected objects for display or safe-keeping.
 
 ##### <a id="26"></a>26  Taxation
 
                    The income and transactions of the National Cultural  Heritage Account are not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
-## Part V—Enforcement of Act
+<o:p> </o:p>
+
+## Part V—Enforcement of Act
 
 ##### <a id="27"></a>27  Interpretation
 
-             (1)  In this Part (except sections 35, 36, 37 and 38), **_forfeited_** includes liable to forfeiture.
+             (1)  In this Part (except sections 35, 36, 37 and 38), **_forfeited_** includes liable to forfeiture.
 
-             (2)  Where, at a particular time, an object is delivered by a Customs officer to an inspector under section 203A of the _Customs Act 1901_ or voluntarily surrendered to an inspector by the owner or person having possession, custody or control of the object, the object shall, for the purposes of this Part, be taken to be seized under this Act by the inspector at that time.
+             (2)  Where, at a particular time, an object is delivered by a Customs officer to an inspector under section 203A of the _Customs Act 1901_ or voluntarily surrendered to an inspector by the owner or person having possession, custody or control of the object, the object shall, for the purposes of this Part, be taken to be seized under this Act by the inspector at that time.
 
 ##### <a id="28"></a>28  Inspectors
 
@@ -758,7 +770,7 @@ is an inspector.
 
              (2)  A person who ceases to be an inspector shall forthwith return his or her identity card to the Minister.
 
-             (3)  A person who contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding $100.
+             (3)  A person who contravenes subsection (2) is guilty of an offence punishable on conviction by a fine not exceeding $100.
 
              (4)  Subsection (3) is an offence of strict liability.
 
@@ -774,7 +786,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  to seize any thing of that kind found there that he or she believes on reasonable grounds to be forfeited or connected with that offence.
 
-             (2)  A Magistrate shall not issue a warrant under subsection (1) unless:
+             (2)  A Magistrate shall not issue a warrant under subsection (1) unless:
 
                      (a)  the informant or some other person has given to the Magistrate, either orally or by affidavit, such further information (if any) as the Magistrate requires concerning the grounds on which the issue of the warrant is being sought; and
 
@@ -808,25 +820,25 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  Before so making application, an inspector shall prepare an information of a kind referred to in subsection 30(1) that sets out the grounds on which the issue of the warrant is being sought, but may, if it is necessary to do so, make the application before the information has been sworn.
 
-             (3)  Where a Magistrate is, upon application made under subsection (1), satisfied:
+             (3)  Where a Magistrate is, upon application made under subsection (1), satisfied:
 
-                     (a)  after having considered the terms of the information prepared in accordance with subsection (1); and
+                     (a)  after having considered the terms of the information prepared in accordance with subsection (1); and
 
                      (b)  after having received such further information (if any) as the Magistrate requires concerning the grounds on which the issue of the warrant is being sought;
 
-that there are reasonable grounds for issuing the warrant, the Magistrate shall complete and sign such a search warrant as the Magistrate would issue under section 30 if the application had been made to the Magistrate in accordance with that section.
+that there are reasonable grounds for issuing the warrant, the Magistrate shall complete and sign such a search warrant as the Magistrate would issue under section 30 if the application had been made to the Magistrate in accordance with that section.
 
-             (4)  Where a Magistrate signs a warrant under subsection (3):
+             (4)  Where a Magistrate signs a warrant under subsection (3):
 
                      (a)  the Magistrate shall inform the inspector of the terms of the warrant and the date on which and the time at which it was signed, and record on the warrant the reasons for granting the warrant; and
 
                      (b)  the inspector shall complete a form of warrant in the terms furnished by the Magistrate and write on it the name of the Magistrate and the date on which and the time at which the warrant was signed.
 
-             (5)  Where an inspector completes a form of warrant in accordance with subsection (4), the inspector shall, not later than the day next following the date of expiry of the warrant, forward to the Magistrate who signed the warrant the form of warrant completed by the inspector and the information duly sworn in connection with the warrant.
+             (5)  Where an inspector completes a form of warrant in accordance with subsection (4), the inspector shall, not later than the day next following the date of expiry of the warrant, forward to the Magistrate who signed the warrant the form of warrant completed by the inspector and the information duly sworn in connection with the warrant.
 
-             (6)  Upon receipt of the documents referred to in subsection (5), the Magistrate shall attach to them the warrant signed by the Magistrate and deal with the documents in the manner in which the Magistrate would have dealt with the information if the application for the warrant had been made in accordance with section 30.
+             (6)  Upon receipt of the documents referred to in subsection (5), the Magistrate shall attach to them the warrant signed by the Magistrate and deal with the documents in the manner in which the Magistrate would have dealt with the information if the application for the warrant had been made in accordance with section 30.
 
-             (7)  A form of warrant duly completed by an inspector in accordance with subsection (4) is, if it is in accordance with the terms of the warrant signed by the Magistrate, authority for any search, entry or seizure that the warrant so signed authorises.
+             (7)  A form of warrant duly completed by an inspector in accordance with subsection (4) is, if it is in accordance with the terms of the warrant signed by the Magistrate, authority for any search, entry or seizure that the warrant so signed authorises.
 
              (8)  Where it is material, in any proceedings, for a court to be satisfied that a search, entry or seizure was authorised in accordance with this section, and the warrant signed by a Magistrate in accordance with this section authorising the search, entry or seizure is not produced in evidence, the court shall assume, unless the contrary is proved, that the search, entry or seizure was not authorised by such a warrant.
 
@@ -844,9 +856,9 @@ and may seize any such thing found in the course of that search, or upon the lan
 
                      (d)  the search or entry is made in circumstances of such seriousness and urgency as to require and justify immediate search or entry without the authority or an order of a court or of a warrant issued under this Act.
 
-             (2)  An inspector may stop a person, vessel, aircraft or vehicle for the purposes of subsection (1).
+             (2)  An inspector may stop a person, vessel, aircraft or vehicle for the purposes of subsection (1).
 
-             (3)  Subsections 30(5) and (6) apply in relation to this section as they apply in relation to section 30.
+             (3)  Subsections 30(5) and (6) apply in relation to this section as they apply in relation to section 30.
 
 ##### <a id="33"></a>33  Powers of arrest
 
@@ -856,9 +868,9 @@ and may seize any such thing found in the course of that search, or upon the lan
 
                      (b)  that proceedings against the person by summons would not be effective.
 
-             (2)  Where a person is arrested under subsection (1), an inspector shall forthwith bring the person, or cause the person to be brought, before a Magistrate or other proper authority to be dealt with in accordance with law.
+             (2)  Where a person is arrested under subsection (1), an inspector shall forthwith bring the person, or cause the person to be brought, before a Magistrate or other proper authority to be dealt with in accordance with law.
 
-             (3)  Without limiting the generality of the meaning of any expression in subsection (1), where:
+             (3)  Without limiting the generality of the meaning of any expression in subsection (1), where:
 
                      (a)  an inspector requests a person whom the inspector finds committing, or whom the inspector believes on reasonable grounds to have committed, an offence against this Act, being a person whose full name or usual place of residence are unknown to the inspector, to state his or her full name or usual place of residence, as the case may be; and
 
@@ -868,7 +880,7 @@ and may seize any such thing found in the course of that search, or upon the lan
 
                              (ii)  whether or not in compliance, or purported compliance, with the request, states as his or her full name or usual place of residence a name or a place, as the case may be, that the inspector believes on reasonable grounds to be false or misleading in a material particular;
 
-the inspector shall be taken, for the purposes of paragraph (1)(b), to have reasonable grounds for believing that proceedings against the person by summons in respect of the offence will not be effective.
+the inspector shall be taken, for the purposes of paragraph (1)(b), to have reasonable grounds for believing that proceedings against the person by summons in respect of the offence will not be effective.
 
              (4)  Nothing in this section prevents the arrest of a person in accordance with any other law.
 
@@ -880,13 +892,13 @@ the inspector shall be taken, for the purposes of paragraph (1)(b), to have re
 
              (1)  A thing seized under this Act may be retained:
 
-                     (a)  in the case of a protected object seized on the grounds that it is forfeited by virtue of subsection 9(1)—until a court orders the return of the object or the object is disposed of under section 38;
+                     (a)  in the case of a protected object seized on the grounds that it is forfeited by virtue of subsection 9(1)—until a court orders the return of the object or the object is disposed of under section 38;
 
                      (b)  in the case of any other protected object—until a court orders the return of the object or the object is forfeited; or
 
                      (c)  in the case of any other thing—until the end of the period of 60 days after the seizure or, if proceedings involving the thing are instituted within that period, until those proceedings (including any appeal to a court in relation to those proceedings) are terminated.
 
-             (2)  The Minister may, by instrument in writing, authorise any thing seized under this Act (other than a protected object that is forfeited) to be released to the owner, or the person who had the possession, custody or control of the thing immediately before it was seized, and thereupon sections 36 and 37 do not apply, or cease to apply, as the case requires, in relation to the thing.
+             (2)  The Minister may, by instrument in writing, authorise any thing seized under this Act (other than a protected object that is forfeited) to be released to the owner, or the person who had the possession, custody or control of the thing immediately before it was seized, and thereupon sections 36 and 37 do not apply, or cease to apply, as the case requires, in relation to the thing.
 
 ##### <a id="36"></a>36  Notice of seizure
 
@@ -900,37 +912,37 @@ the inspector shall be taken, for the purposes of paragraph (1)(b), to have re
 
                      (c)  setting out the terms of the provisions of subsection 37(1); and
 
-                     (d)  where subsection (5) applies—setting out the terms of the provisions of that subsection and specifying, and setting out the address of, an appropriate person and stating that any notice under that subsection is to be given to that person.
+                     (d)  where subsection (5) applies—setting out the terms of the provisions of that subsection and specifying, and setting out the address of, an appropriate person and stating that any notice under that subsection is to be given to that person.
 
-             (3)  An inspector is not required to serve a notice under subsection (2) if, after making such inquiries as the inspector thinks appropriate, the inspector does not have sufficient information to do so.
+             (3)  An inspector is not required to serve a notice under subsection (2) if, after making such inquiries as the inspector thinks appropriate, the inspector does not have sufficient information to do so.
 
              (4)  Where:
 
-                     (a)  a notice under subsection (2) has not been served in respect of an object seized by an inspector under this Act; and
+                     (a)  a notice under subsection (2) has not been served in respect of an object seized by an inspector under this Act; and
 
                      (b)  within 30 days after the day on which the object was seized, a person who claims to be a person entitled to be served with such a notice gives an appropriate person sufficient information, in writing, to enable the notice to be served;
 
 the appropriate person shall forthwith convey that information to the inspector.
 
-             (5)  Where a protected object has been seized on the grounds that it is liable to forfeiture by virtue of subsection 9(2) or 14(1) and a notice under subsection (2) is served in respect of the object, the object is forfeited unless, within 30 days after the service of the notice, the owner, or the person who had possession, custody or control of the object immediately before it was seized:
+             (5)  Where a protected object has been seized on the grounds that it is liable to forfeiture by virtue of subsection 9(2) or 14(1) and a notice under subsection (2) is served in respect of the object, the object is forfeited unless, within 30 days after the service of the notice, the owner, or the person who had possession, custody or control of the object immediately before it was seized:
 
-                     (a)  gives notice, in writing, to the appropriate person specified in the notice under subsection (2) claiming the object; or
+                     (a)  gives notice, in writing, to the appropriate person specified in the notice under subsection (2) claiming the object; or
 
                      (b)  brings an action for recovery of the object.
 
              (6)  Where, at the end of the period of 30 days after the day on which a protected object was seized under this Act:
 
-                     (a)  a notice has not been served in respect of the object under subsection (2); and
+                     (a)  a notice has not been served in respect of the object under subsection (2); and
 
                      (b)  a person claiming to be a person entitled to be served with such a notice has not given an appropriate person sufficient information to enable the notice to be served;
 
 the object is forfeited.
 
-             (7)  Where notice is given under subsection (5) to the appropriate person, the appropriate person shall serve on the person who gave the notice a notice, in writing, setting out the terms of the provisions of subsection (8).
+             (7)  Where notice is given under subsection (5) to the appropriate person, the appropriate person shall serve on the person who gave the notice a notice, in writing, setting out the terms of the provisions of subsection (8).
 
              (8)  Where:
 
-                     (a)  a notice is given to a person under subsection (7) in relation to an object; and
+                     (a)  a notice is given to a person under subsection (7) in relation to an object; and
 
                      (b)  the person does not, within 4 months after the service of the notice, bring an action for recovery of the object;
 
@@ -942,7 +954,7 @@ the object is forfeited.
 
                      (a)  a protected object has been seized under this Act; and
 
-                     (b)  the object is not forfeited by section 36 or by or under this section;
+                     (b)  the object is not forfeited by section 36 or by or under this section;
 
 the owner, or the person who had the possession, custody or control of the object immediately before it was seized, may bring an action against the Commonwealth in a court of competent jurisdiction for the recovery of the object on the ground that the object is not forfeited or liable to be forfeited.
 
@@ -964,9 +976,9 @@ the object is forfeited.
 
 and the court:
 
-                     (c)  where paragraph (a) applies—shall reject the claim for recovery;
+                     (c)  where paragraph (a) applies—shall reject the claim for recovery;
 
-                     (d)  where paragraph (b) applies—shall order that the object is forfeited; or
+                     (d)  where paragraph (b) applies—shall order that the object is forfeited; or
 
                      (e)  in any other case—may order the return of the object.
 
@@ -986,7 +998,7 @@ and the court:
 
              (1)  An inspector may require any person whom the inspector suspects on reasonable grounds of intending to export, of exporting, or of having exported, an Australian protected object to produce a permit or certificate authorising the export or to produce evidence of the existence and contents of such a permit or certificate.
 
-             (2)  A person who fails to comply with a requirement made under subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
+             (2)  A person who fails to comply with a requirement made under subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
              (3)  Subsection (2) does not apply if the person has a reasonable excuse.
 
@@ -998,7 +1010,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="40"></a>40  Proof of authority
 
-                   An inspector (other than a member of a police force who is in uniform) is not entitled to exercise any powers under section 32, 33, 34, 39 or 43 in relation to a person unless:
+                   An inspector (other than a member of a police force who is in uniform) is not entitled to exercise any powers under section 32, 33, 34, 39 or 43 in relation to a person unless:
 
                      (a)  if the inspector is a member of a police force—the inspector produces, for inspection by the person, written evidence of the fact that the inspector is a member of that police force; or
 
@@ -1008,9 +1020,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  A power conferred by this Part shall not be exercised by an inspector in relation to a protected object of a foreign country unless the inspector believes on reasonable grounds that the Commonwealth has received from the Government of the country a request for the return of the object.
 
-             (2)  Proceedings for a contravention of section 14 in relation to a protected object of a foreign country shall not be instituted unless the Commonwealth has received from the Government of the country a request for the return of the object.
+             (2)  Proceedings for a contravention of section 14 in relation to a protected object of a foreign country shall not be instituted unless the Commonwealth has received from the Government of the country a request for the return of the object.
 
-             (3)  In any proceedings, the mere production of a document purporting to be signed by the Secretary of the Department and stating that the Commonwealth has received a request from the Government of a specified foreign country for the return of a specified protected object is _prima facie_ evidence of the facts stated.
+             (3)  In any proceedings, the mere production of a document purporting to be signed by the Secretary to the Department and stating that the Commonwealth has received a request from the Government of a specified foreign country for the return of a specified protected object is _prima facie_ evidence of the facts stated.
 
 ##### <a id="43"></a>43  Assistance of inspectors
 
@@ -1022,9 +1034,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  An offence against subsection 9(3), 9(3A) or 14(2) is an indictable offence.
 
-             (2)  An offence against section 43 is punishable on summary conviction.
+             (2)  An offence against section 43 is punishable on summary conviction.
 
-             (3)  Notwithstanding that an offence referred to in subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of the offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
+             (3)  Notwithstanding that an offence referred to in subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of the offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 
              (4)  If, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence referred to in subsection (1), the penalty that the court may impose is:
 
@@ -1032,11 +1044,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  if the person is a body corporate—a fine not exceeding 200 penalty units.
 
-## Part VI—Miscellaneous
+<o:p> </o:p>
+
+## Part VI—Miscellaneous
 
 ##### <a id="47"></a>47  Annual report
 
-             (1)  The Minister shall, as soon as practicable after 30 June in each year, cause to be prepared a report on the working of this Act during the year that ended on that 30 June.
+             (1)  The Minister shall, as soon as practicable after 30 June in each year, cause to be prepared a report on the working of this Act during the year that ended on that 30 June.
 
              (2)  The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives it.
 
@@ -1050,27 +1064,28 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  a decision by the Minister under subsection 11(2), 12(5) or 13(1).
 
-             (2)  Where a person is notified of a decision referred to in subsection (1), the Minister shall cause to be served on the person a notice stating that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal for review of the decision.
+             (2)  Where a person is notified of a decision referred to in subsection (1), the Minister shall cause to be served on the person a notice stating that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal for review of the decision.
 
-             (3)  A failure to comply with subsection (2) in relation to a decision does not affect the validity of the decision.
+             (3)  A failure to comply with subsection (2) in relation to a decision does not affect the validity of the decision.
 
 ##### <a id="49"></a>49  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Protection of Movable Cultural Heritage Act 1986_
+
+# Notes to the _<span style="mso-no-proof: yes">Protection of Movable Cultural Heritage Act 1986</span>_
 
 ### Note 1
 
-The _Protection of Movable Cultural Heritage Act 1986_ as shown in this compilation comprises Act No. 11, 1986 amended as indicated in the Tables below.
+The _Protection of Movable Cultural Heritage Act 1986_ as shown in this compilation comprises Act No. 11, 1986 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-The _Protection of Movable Cultural Heritage Act 1986_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (as amended) _see_ Table B.
+The _Protection of Movable Cultural Heritage Act 1986_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended) _see_ Table B.
 
 ### Table of Acts
 
@@ -1087,250 +1102,243 @@ The _Protection of Movable Cultural Heritage Act 1986_ was modified by the A.C.T
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td colspan="2">
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Protection of Movable Cultural Heritage Act 1986</div>
-  </td>
-  <td>
-    <div>11, 1986</div>
-  </td>
-  <td colspan="2">
-    <div>13 May 1986</div>
-  </td>
-  <td>
-    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S138)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Postal Services Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>126, 1988</div>
-  </td>
-  <td colspan="2">
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
-Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Environment, Tourism and Territories Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>88, 1990</div>
-  </td>
-  <td colspan="2">
-    <div>20 Nov 1990</div>
-  </td>
-  <td>
-    <div>Part 7 (ss. 14–23): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>179, 1991</div>
-  </td>
-  <td colspan="2">
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment and Territories Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>21, 1992</div>
-  </td>
-  <td colspan="2">
-    <div>10 Apr 1992</div>
-  </td>
-  <td>
-    <div>8 May 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td colspan="2">
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 123): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Protection of Movable Cultural Heritage Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>101, 1999</div>
-  </td>
-  <td colspan="2">
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 9)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td colspan="2">
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 752): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1–3, Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>5, 2001</div>
-  </td>
-  <td>
-    <div>20 Mar 2001</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 40–49): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 313, 314, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 7 (items 113, 114): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Protection of Movable Cultural Heritage Act 1986</div>
+    </td>
+    <td>
+      <div>11, 1986</div>
+    </td>
+    <td colspan="2">
+      <div>13 May 1986</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="1" month="7">1 July 1987</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1987, No. S138)</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Postal Services Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>126, 1988</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="14" month="12">14 Dec 1988</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4, 5, 9–11, 21(2) and 22(1): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="1" month="1">1 Jan 1989</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1988, No. S402) 
+Ss. 12, 21(3) and 22(2): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="30" month="6">30 June 1989</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1989, No. S216) 
+Remainder: Royal Assent 
 
-_(a)_     The _Protection of Movable Cultural Heritage Act 1986_ was amended by Part 7 (sections 
- 14–23) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Environment, Tourism and Territories Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>88, 1990</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="20" month="11">20 Nov 1990</st1:date></div>
+    </td>
+    <td>
+      <div>Part 7 (ss. 14–23): Royal Assent <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>179, 1991</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="25" month="11">25 Nov 1991</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="25" month="11">25 Nov 1991</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Sport, Environment and Territories Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>21, 1992</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="10" month="4">10 Apr 1992</st1:date></div>
+    </td>
+    <td>
+      <div>8 May 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="25" month="10">25 Oct 1996</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 123): Royal Assent <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Protection of Movable Cultural Heritage Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>101, 1999</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="16" month="7">16 July 1999</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="16" month="7">16 July 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 9)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 752): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 Nov 2000</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1–3, Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>5, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="20" month="3">20 Mar 2001</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (items 40–49): <i style="mso-bidi-font-style: normal">(d)</i></div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (items 313, 314, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
 
-                 (1)   Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.
+<o:p> </o:p>
 
-_(b)_     The _Protection of Movable Cultural Heritage Act 1986_ was amended by Schedule 4 (item 123) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+_(a)_     The _Protection of Movable Cultural Heritage Act 1986_ was amended by Part 7 (sections 
+14–23) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
 
-_(c)_     The _Protection of Movable Cultural Heritage Act 1986_ was amended by Schedule 1 (item 752) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+                 (1)   Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.
+
+_(b)_    The _Protection of Movable Cultural Heritage Act 1986_ was amended by Schedule 4 (item 123) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_     The _Protection of Movable Cultural Heritage Act 1986_ was amended by Schedule 1 (item 752) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1342,7 +1350,8 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
 
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
-         Item 15 commenced on 24 May 2001.
+         Item 15 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date>.
+
 
 ## Table of Amendments
 
@@ -1355,337 +1364,333 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990; No. 101, 1999; No. 137, 2000; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1988; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990; No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21B</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25A</div>
-  </td>
-  <td>
-    <div>ad. No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 25A(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25B</div>
-  </td>
-  <td>
-    <div>ad. No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 44, 45</div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000; No. 5, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 101, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1990</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part I <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990; No. 101, 1999; No. 137, 2000; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A </div>
+    </td>
+    <td>
+      <div>ad. No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part II</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 1</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9 </div>
+    </td>
+    <td>
+      <div>am. No. 126, 1988; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10A </div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13A </div>
+    </td>
+    <td>
+      <div>ad. No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part III</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990; No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19 </div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21A </div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21B </div>
+    </td>
+    <td>
+      <div>ad. No. 21, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part IV</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV </div>
+    </td>
+    <td>
+      <div>rs. No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>rs. No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25A </div>
+    </td>
+    <td>
+      <div>ad. No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 25A(2) </div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25B </div>
+    </td>
+    <td>
+      <div>ad. No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26 </div>
+    </td>
+    <td>
+      <div>am. No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part V</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29 </div>
+    </td>
+    <td>
+      <div>am. No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39 </div>
+    </td>
+    <td>
+      <div>am. No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42 </div>
+    </td>
+    <td>
+      <div>rep. No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 44, 45 </div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46 </div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000; No. 5, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part VI</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47 </div>
+    </td>
+    <td>
+      <div>am. No. 101, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48 </div>
+    </td>
+    <td>
+      <div>am. No. 88, 1990</div>
+    </td>
+  </tr>
+</tbody></table>
+
+<o:p> </o:p>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Protection of Movable Cultural Heritage Amendment Act 1999 
- (No. 101, 1999)_
+_Protection of Movable Cultural Heritage Amendment Act 1999 (No. 101, 1999)<o:p></o:p>_
 
-## Schedule 1
+## Schedule 1
 
-## 9  Application of items 7 and 8
+## 9  Application of items 7 and 8
 
-Whether this Act commences on 1 July 1999 or on a later date, the amendments of the _Protection of Movable Cultural Heritage Act 1986_ made by items 7 and 8 apply in relation to the financial year commencing on 1 July 1999 and each subsequent financial year.
+Whether this Act commences on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> or on a later date, the amendments of the _Protection of Movable Cultural Heritage Act 1986_ made by items 7 and 8 apply in relation to the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> and each subsequent financial year.
 
 * * *
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)<o:p></o:p>_
 
-## Schedule 2
+## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1695,9 +1700,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1705,13 +1710,13 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
-_Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001 (No. 5, 2001)_
+_Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001 (No. 5, 2001)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1721,7 +1726,7 @@ _Communications and the Arts Legislation Amendment (Application of Criminal Code
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -1737,22 +1742,24 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
+
 ## Table B
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self-Government (Consequential Provisions) Regulations<o:p></o:p>_
 
-Section 4—The _Protection of Movable Cultural Heritage Act 1986_ was modified by regulation 2 and Schedule 1 of the A.C.T. Self‑Government (Consequential Provisions) Regulations as amended. The modification of Schedule 1 is set out below and is not incorporated in this compilation.
+Section 4—The _Protection of Movable Cultural Heritage Act 1986_ was modified by regulation 2 and Schedule 1 of the A.C.T. Self-Government (Consequential Provisions) Regulations as amended. The modification of Schedule 1 is set out below and is not incorporated in this compilation.
 
-## Section 4:
+## Section 4:
 
-                   After “States,” insert “of the Australian Capital Territory,”. 
+                   After “States,” insert “of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>,”. 
 
- 
+
+<o:p> </o:p>
