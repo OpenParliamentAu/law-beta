@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2007C00107/Html/RemAndAllowAct90_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00068/Html/1E1D62F0E5E69061CA25713E001402F3/$FILE/image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 21 March 2007
- taking into account amendments up to Act No. 15 of 2007
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 111 of 2005 and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -42,7 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8A](#8A).         Regulations
 
-**Part 3—Amendments of Industrial Relations Act 1988** 
+**Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)** 
 
 **Schedule 1—Holders of Judicial and other offices** 
 
@@ -102,15 +104,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to certain remuneration and allowances
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Remuneration and Allowances Act 1990_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
              (1)  Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
@@ -158,7 +161,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6"></a>6  Remuneration and allowances of Senators and Members of the House of Representatives
 
-                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
+                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="7"></a>7  Ministers and office holders of the Parliament
 
@@ -176,20 +179,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 ## Part 3—Amendments of Industrial Relations Act 1988 (sections 9, 10)
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
 The amendments made by this Part are incorporated in the compilation on ComLaw.
 
 Industrial Relations Act 1988  
- \[now cited as<span class="CharPartText"> </span>_Workplace Relations Act 1996_]_._
+\[now cited as<span class="CharPartText"> </span>_Workplace Relations Act 1996_]
+_._
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.
+For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.</div>
 
-* * *
 
 # Schedule 1—Holders of Judicial and other offices
 
@@ -239,28 +243,30 @@ _Section 4_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Chief Justice of the High Court</div>
-  </td>
-  <td>
-    <div>170,503</div>
-  </td>
-  <td>
-    <div>180,733</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Justice of the High Court</div>
-  </td>
-  <td>
-    <div>154,991</div>
-  </td>
-  <td>
-    <div>164,290</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Chief Justice of the High Court</div>
+    </td>
+    <td>
+      <div>170,503</div>
+    </td>
+    <td>
+      <div>180,733</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Justice of the High Court</div>
+    </td>
+    <td>
+      <div>154,991</div>
+    </td>
+    <td>
+      <div>164,290</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 2
 
@@ -302,116 +308,118 @@ _Section 4_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Chief Justice of the Federal Court</div>
-  </td>
-  <td>
-    <div>143,789</div>
-  </td>
-  <td>
-    <div>152,416</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Justice of the Family Court</div>
-  </td>
-  <td>
-    <div>143,789</div>
-  </td>
-  <td>
-    <div>152,416</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Justice of the Supreme Court of the Australian Capital Territory</div>
-  </td>
-  <td>
-    <div>136,031</div>
-  </td>
-  <td>
-    <div>144,193</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Chief Justice of the Family Court</div>
-  </td>
-  <td>
-    <div>135,195</div>
-  </td>
-  <td>
-    <div>143,307</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judge of the Federal Court</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judge Administrator of the Family Court</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judge assigned to the Appeal Division of the Family Court</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Senior Judge of the Family Court</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Any other Judge of the Family Court</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judge of the Supreme Court of the Australian Capital Territory</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Chief Justice of the Federal Court</div>
+    </td>
+    <td>
+      <div>143,789</div>
+    </td>
+    <td>
+      <div>152,416</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Justice of the Family Court</div>
+    </td>
+    <td>
+      <div>143,789</div>
+    </td>
+    <td>
+      <div>152,416</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Justice of the Supreme Court of the Australian Capital Territory</div>
+    </td>
+    <td>
+      <div>136,031</div>
+    </td>
+    <td>
+      <div>144,193</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Chief Justice of the Family Court</div>
+    </td>
+    <td>
+      <div>135,195</div>
+    </td>
+    <td>
+      <div>143,307</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judge of the Federal Court</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judge Administrator of the Family Court</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judge assigned to the Appeal Division of the Family Court</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Senior Judge of the Family Court</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Any other Judge of the Family Court</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judge of the Supreme Court of the Australian Capital Territory</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 3
 
@@ -453,47 +461,49 @@ _Section 4_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>President of the Administrative Appeals Tribunal</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>President of the Australian Competition Tribunal</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>President of the Law Reform Commission</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-  <td>
-    <div>139,638</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Solicitor-General</div>
-  </td>
-  <td colspan="2">
-    <div>The salary and allowances payable to a Judge of the Federal Court of Australia</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>President of the Administrative Appeals Tribunal</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>President of the Australian Competition Tribunal</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>President of the Law Reform Commission</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+    <td>
+      <div>139,638</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Solicitor-General</div>
+    </td>
+    <td colspan="2">
+      <div>The salary and allowances payable to a Judge of the Federal Court of Australia</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 4
 
@@ -542,34 +552,36 @@ _Section 4_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Master, Supreme Court of the Australian Capital Territory</div>
-  </td>
-  <td>
-    <div>97,590</div>
-  </td>
-  <td>
-    <div>104,421</div>
-  </td>
-  <td>
-    <div>111,710</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judicial Registrar of the Family Court of Australia</div>
-  </td>
-  <td>
-    <div>88,988</div>
-  </td>
-  <td>
-    <div>96,463</div>
-  </td>
-  <td>
-    <div>104,729</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Master, Supreme Court of the Australian Capital Territory</div>
+    </td>
+    <td>
+      <div>97,590</div>
+    </td>
+    <td>
+      <div>104,421</div>
+    </td>
+    <td>
+      <div>111,710</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judicial Registrar of the Family Court of Australia</div>
+    </td>
+    <td>
+      <div>88,988</div>
+    </td>
+    <td>
+      <div>96,463</div>
+    </td>
+    <td>
+      <div>104,729</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 5
 
@@ -603,30 +615,32 @@ _Section 4_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>President, Australian Industrial Relations Commission</div>
-  </td>
-  <td>
-    <div>143,789</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy President, Australian Industrial Relations Commission</div>
-  </td>
-  <td>
-    <div>131,734</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commissioner, Australian Industrial Relations Commission</div>
-  </td>
-  <td>
-    <div>92,214</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>President, Australian Industrial Relations Commission</div>
+    </td>
+    <td>
+      <div>143,789</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy President, Australian Industrial Relations Commission</div>
+    </td>
+    <td>
+      <div>131,734</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commissioner, Australian Industrial Relations Commission</div>
+    </td>
+    <td>
+      <div>92,214</div>
+    </td>
+  </tr>
+</tbody></table>
 
 3.    <u>Additional Remuneration</u>
 
@@ -653,6 +667,7 @@ An annual leave loading is payable to:
 (b)   the holder of an office of Commissioner, Australian Industrial Relations Commission;
 
 on the same terms and conditions applying to persons engaged under the _Public Service Act 1999_.
+
 
 # Schedule 2—Secretaries of Departments and holders of public offices
 
@@ -690,38 +705,40 @@ _Section 5_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Chairperson, Industry Commission</div>
-  </td>
-  <td>
-    <div>98,536</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Executive Commissioner, Industry Commission</div>
-  </td>
-  <td>
-    <div>92,390</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commissioner, Industry Commission</div>
-  </td>
-  <td>
-    <div>88,533</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Associate Commissioner, Industry Commission</div>
-  </td>
-  <td>
-    <div>82,333</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Chairperson, Industry Commission</div>
+    </td>
+    <td>
+      <div>98,536</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Executive Commissioner, Industry Commission</div>
+    </td>
+    <td>
+      <div>92,390</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commissioner, Industry Commission</div>
+    </td>
+    <td>
+      <div>88,533</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Associate Commissioner, Industry Commission</div>
+    </td>
+    <td>
+      <div>82,333</div>
+    </td>
+  </tr>
+</tbody></table>
 
       (2)  The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
@@ -752,152 +769,154 @@ _Section 5_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Basic rate</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Defence</div>
-  </td>
-  <td>
-    <div>126,848</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of the Prime Minister and Cabinet</div>
-  </td>
-  <td>
-    <div>126,848</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of the Treasury</div>
-  </td>
-  <td>
-    <div>126,848</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Administrative Services</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Attorney-General’s Department</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of the Arts, Sport, the Environment, Tourism
-      and Territories</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Community Services and Health</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Employment, Education and Training</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Industrial Relations</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Finance</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Foreign Affairs and Trade</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Immigration, Local Government and Ethnic
-      Affairs</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Industry, Technology and Commerce</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Primary Industries and Energy</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Social Security</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Transport and Communications</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Secretary to the Department of Veterans’ Affairs</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Basic rate</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Defence</div>
+    </td>
+    <td>
+      <div>126,848</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of the Prime Minister and Cabinet</div>
+    </td>
+    <td>
+      <div>126,848</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of the Treasury</div>
+    </td>
+    <td>
+      <div>126,848</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Administrative Services</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Attorney-General’s Department</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of the Arts, Sport, the Environment, Tourism
+        and Territories</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Community Services and Health</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Employment, Education and Training</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Industrial Relations</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Finance</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Foreign Affairs and Trade</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Immigration, Local Government and Ethnic
+        Affairs</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Industry, Technology and Commerce</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Primary Industries and Energy</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Social Security</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Transport and Communications</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Secretary to the Department of Veterans’ Affairs</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 2—Secretaries of Parliamentary Departments
 
@@ -920,22 +939,24 @@ _Section 5_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>The Clerk of the Senate</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Clerk of the House of Representatives</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>The Clerk of the Senate</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Clerk of the House of Representatives</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## Part 3—Full-time holders of public offices
 
@@ -958,390 +979,392 @@ _Section 5_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Chief of the Defence Force</div>
-  </td>
-  <td>
-    <div>126,848</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Managing Director, Australian Broadcasting Corporation</div>
-  </td>
-  <td>
-    <div>126,848</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Managing Director, Australian Trade Commission</div>
-  </td>
-  <td>
-    <div>126,848</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Director of Public Prosecutions</div>
-  </td>
-  <td>
-    <div>124,367</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissioner, Royal Commission into Aboriginal Deaths in Custody</div>
-  </td>
-  <td>
-    <div>120,100</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Auditor-General for Australia</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairperson, Aboriginal and Torres Strait Islander Commission</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Australian Wheat Board</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairman, Australian Competition and Consumer Commission</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairperson, National Board of Employment, Education and Training</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Executive, Commonwealth Scientific and Industrial Research Organisation</div>
-  </td>
-  <td>
-    <div>Remuneration as determined in Determination No. 1 of 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Executive Officer, Civil Aviation Authority</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commissioner, Australian Federal Police</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commissioner of Taxation</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Ombudsman</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Comptroller-General of Customs</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>First Parliamentary Counsel</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Principal Member, Superannuation Fund Investment Trust</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Commissioner</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairperson, Industry Commission</div>
-  </td>
-  <td>
-    <div>117,258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Statistician</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairman, Commonwealth Grants Commission</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Executive Officer, Aboriginal and Torres Strait Islander Commission</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Executive Officer, Federal Airports Corporation</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief of Navy</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief of Army</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief of Air Force</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Managing Director, Australian Trade Commission</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy President (non-judicial), Administrative Appeals Tribunal</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Executive Director, Australian Nuclear Science and Technology Organisation</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Director-General, Australian Security Intelligence Organisation</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Director-General, Office of National Assessments</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights Commissioner</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Inspector-General of Intelligence and Security</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Insurance and Superannuation Commissioner</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Second Commissioner of Taxation</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Member, National Crime Authority</div>
-  </td>
-  <td>
-    <div>111,004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Albury-Wodonga Development Corporation</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commissioner for Community Relations</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Chairperson, National Board of Employment, Education and Training</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral Commissioner</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Director, Australian Institute of Criminology</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Executive Member, Pipeline Authority</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chief Executive, Parliament House Construction Authority</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>General Manager, Australia Council</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Executive Commissioner, Industry Commission</div>
-  </td>
-  <td>
-    <div>99,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commissioner, Industry Commission</div>
-  </td>
-  <td>
-    <div>92,333</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Associate Commissioner, Industry Commission</div>
-  </td>
-  <td>
-    <div>82,333</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Chief of the Defence Force</div>
+    </td>
+    <td>
+      <div>126,848</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Managing Director, Australian Broadcasting Corporation</div>
+    </td>
+    <td>
+      <div>126,848</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Managing Director, Australian Trade Commission</div>
+    </td>
+    <td>
+      <div>126,848</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Director of Public Prosecutions</div>
+    </td>
+    <td>
+      <div>124,367</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Royal Commissioner, Royal Commission into Aboriginal Deaths in Custody</div>
+    </td>
+    <td>
+      <div>120,100</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Auditor-General for Australia</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairperson, Aboriginal and Torres Strait Islander Commission</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Australian Wheat Board</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairman, Australian Competition and Consumer Commission</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairperson, National Board of Employment, Education and Training</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Executive, Commonwealth Scientific and Industrial Research Organisation</div>
+    </td>
+    <td>
+      <div>Remuneration as determined in Determination No. 1 of 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Executive Officer, Civil Aviation Authority</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commissioner, Australian Federal Police</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commissioner of Taxation</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Ombudsman</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Comptroller-General of Customs</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>First Parliamentary Counsel</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Principal Member, Superannuation Fund Investment Trust</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Commissioner</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairperson, Industry Commission</div>
+    </td>
+    <td>
+      <div>117,258</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Statistician</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairman, Commonwealth Grants Commission</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Executive Officer, Aboriginal and Torres Strait Islander Commission</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Executive Officer, Federal Airports Corporation</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief of Navy</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief of Army</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief of Air Force</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Managing Director, Australian Trade Commission</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy President (non-judicial), Administrative Appeals Tribunal</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Executive Director, Australian Nuclear Science and Technology Organisation</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Director-General, Australian Security Intelligence Organisation</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Director-General, Office of National Assessments</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights Commissioner</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Inspector-General of Intelligence and Security</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Insurance and Superannuation Commissioner</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Second Commissioner of Taxation</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Member, National Crime Authority</div>
+    </td>
+    <td>
+      <div>111,004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Albury-Wodonga Development Corporation</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commissioner for Community Relations</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Chairperson, National Board of Employment, Education and Training</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Electoral Commissioner</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Director, Australian Institute of Criminology</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Executive Member, Pipeline Authority</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chief Executive, Parliament House Construction Authority</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>General Manager, Australia Council</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Executive Commissioner, Industry Commission</div>
+    </td>
+    <td>
+      <div>99,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commissioner, Industry Commission</div>
+    </td>
+    <td>
+      <div>92,333</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Associate Commissioner, Industry Commission</div>
+    </td>
+    <td>
+      <div>82,333</div>
+    </td>
+  </tr>
+</tbody></table>
 
 4.    The rates of salary specified in clause 3 as applicable from 1 July 1990 are to be adjusted in accordance with:
 
@@ -1354,6 +1377,7 @@ _Section 5_
 6.    Where a Secretary of a Department or a holder of a full-time Public Office holds an office located in a region or district which is classified for the purposes of District Allowance, the holder of the office is to be paid a District Allowance at the rates and on the conditions prescribed for officers of the Australian Public Service.
 
 7.    The rates and conditions of payment of travelling allowance for the holders of offices specified in clause 3 are as determined in Part 4 of Determination No. 2 of 1990 and in Part 1 of Determination No. 18 of 1989 of the Remuneration Tribunal.
+
 
 # Schedule 3—Senators and Members of the House of Representatives
 
@@ -1423,7 +1447,7 @@ _Section 6_
 
              (1)  For the purposes of this Division, a fund or scheme is a **_complying superannuation fund_** at a particular time if, and only if:
 
-                     (a)  the fund or scheme is a complying superannuation fund for the purposes of the _Income Tax Assessment Act 1997_ in relation to the year of income in which the time occurs; and
+                     (a)  the fund or scheme is a complying superannuation fund for the purposes of Part IX of the _Income Tax Assessment Act 1936_ in relation to the year of income in which the time occurs; and
 
                      (b)  the fund or scheme is a superannuation fund as defined by subsection 6(1) of the _Income Tax Assessment Act 1936_.
 
@@ -1587,7 +1611,7 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
 
 ## Part 2—Electorate and other allowances
 
-##### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+##### <span style="FONT-SIZE: 8pt"> </span><span style="FONT-SIZE: 8pt"> </span>
 
 ##### <a id="2"></a>2  Electorate allowance
 
@@ -1610,49 +1634,52 @@ before the Commonwealth  makes a contribution as required by subclause (4) in 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Senator:</div>
-  </td>
-  <td>
-    <div>22,685</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Member:
-      electorate of less than 2,000 square kilometres
-    </div>
-  </td>
-  <td>
-    <div>22,685</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      electorate of 2,000 square kilometres or more but less than 5,000 square
-        kilometres
-    </div>
-  </td>
-  <td>
-    <div>26,975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      electorate of 5,000 square kilometres or more
-    </div>
-  </td>
-  <td>
-    <div>32, 895</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Senator:</div>
+    </td>
+    <td>
+      <div>22,685</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Member:
+        electorate of less than 2,000 square kilometres
+      </div>
+    </td>
+    <td>
+      <div>22,685</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        electorate of 2,000 square kilometres or more but less than 5,000 square
+          kilometres
+      </div>
+    </td>
+    <td>
+      <div>26,975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        electorate of 5,000 square kilometres or more
+      </div>
+    </td>
+    <td>
+      <div>32, 895</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="3"></a>3  Other allowances 
 
   A Senator or Member of the House of Representatives is also entitled to the allowances and entitlements provided for by Determination No. 14 of 1990 of the Remuneration Tribunal dated 23 May 1990 (other than clause 10.2), or by any subsequent Determination of the Remuneration Tribunal providing for equivalent allowances or entitlements or for any allowance in the nature of a Social Dislocation Allowance.
+
 
 # Schedule 4—Ministers and office holders of the Parliament
 
@@ -1683,405 +1710,407 @@ _Section 7_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Leader of the Opposition</div>
-  </td>
-  <td>
-    <div>48,343</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>President of the Senate</div>
-  </td>
-  <td>
-    <div>45,337</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Speaker of the House of Representatives</div>
-  </td>
-  <td>
-    <div>45,337</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Leader of the Opposition</div>
-  </td>
-  <td>
-    <div>31,817</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Leader of the Opposition in the Senate</div>
-  </td>
-  <td>
-    <div>31,817</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Leader of the Third Party in the House of Representatives</div>
-  </td>
-  <td>
-    <div>25,791</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Leader of a recognised non-Government party of at least 5 members not
-      otherwise specified herein</div>
-  </td>
-  <td>
-    <div>23,348</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairman of Committees in the Senate</div>
-  </td>
-  <td>
-    <div>12,440</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairman of Committees in the House of Representatives</div>
-  </td>
-  <td>
-    <div>12,440</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Leader of the Opposition in the Senate</div>
-  </td>
-  <td>
-    <div>11,942</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Government Whip in the House of Representatives</div>
-  </td>
-  <td>
-    <div>11,942</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Opposition Whip in the House of Representatives</div>
-  </td>
-  <td>
-    <div>10,802</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Government Whip in the Senate</div>
-  </td>
-  <td>
-    <div>10,305</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Opposition Whip in the Senate</div>
-  </td>
-  <td>
-    <div>10,305</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Third Party Whip in the House of Representatives</div>
-  </td>
-  <td>
-    <div>5,337</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Leader in the Senate of the National Party</div>
-  </td>
-  <td>
-    <div>5,337</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Government Whip in the House of Representatives</div>
-  </td>
-  <td>
-    <div>2,669</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Whip in the Senate of a recognised non-Government party of at least 5
-      members not otherwise specified herein</div>
-  </td>
-  <td>
-    <div>1,279</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Government Whip in the Senate</div>
-  </td>
-  <td>
-    <div>1,279</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Opposition Whip in the Senate</div>
-  </td>
-  <td>
-    <div>1,279</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Opposition Whip in the House of Representatives</div>
-  </td>
-  <td>
-    <div>1,279</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Chairman of Committees in the Senate</div>
-  </td>
-  <td>
-    <div>1,279</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deputy Chairman of Committees in the House of Representatives</div>
-  </td>
-  <td>
-    <div>1,279</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairs of Parliamentary Committees</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Joint Committee of Public Accounts and Audit</div>
-  </td>
-  <td>
-    <div>9,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chairman, Parliamentary Standing Committee on Public Works</div>
-  </td>
-  <td>
-    <div>9,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Joint Committee on Foreign Affairs, Defence and Trade</div>
-  </td>
-  <td>
-    <div>9,949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Joint Standing Committee on Electoral Matters</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Parliamentary Joint Committee on the National Crime Authority</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Parliamentary Joint Committee on ASIO, ASIS and DSD</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Community
-      Affairs</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Employment,
-      Education and Training</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Environment,
-      Recreation and the Arts</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Finance
-      and Public Administration</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Foreign
-      Affairs, Defence and Trade</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Industry,
-      Science and Technology</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Infrastructure</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, Senate Legislative and General Purpose Standing Committee on Legal
-      and Constitutional Affairs</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Aboriginal Affairs</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Community Affairs</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Environment, Recreation
-      and the Arts</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Employment, Education
-      and Training</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Finance and Public
-      Administration</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Industry, Science
-      and Technology</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Transport, Communications
-      and Infrastructure</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Legal and Constitutional
-      Affairs</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair, House of Representatives Standing Committee on Procedure</div>
-  </td>
-  <td>
-    <div>6,310</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chair of a Parliamentary Committee not otherwise specified in this clause</div>
-  </td>
-  <td>
-    <div>1,738</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Leader of the Opposition</div>
+    </td>
+    <td>
+      <div>48,343</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>President of the Senate</div>
+    </td>
+    <td>
+      <div>45,337</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Speaker of the House of Representatives</div>
+    </td>
+    <td>
+      <div>45,337</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Leader of the Opposition</div>
+    </td>
+    <td>
+      <div>31,817</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Leader of the Opposition in the Senate</div>
+    </td>
+    <td>
+      <div>31,817</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Leader of the Third Party in the House of Representatives</div>
+    </td>
+    <td>
+      <div>25,791</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Leader of a recognised non-Government party of at least 5 members not
+        otherwise specified herein</div>
+    </td>
+    <td>
+      <div>23,348</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairman of Committees in the Senate</div>
+    </td>
+    <td>
+      <div>12,440</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairman of Committees in the House of Representatives</div>
+    </td>
+    <td>
+      <div>12,440</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Leader of the Opposition in the Senate</div>
+    </td>
+    <td>
+      <div>11,942</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Government Whip in the House of Representatives</div>
+    </td>
+    <td>
+      <div>11,942</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Opposition Whip in the House of Representatives</div>
+    </td>
+    <td>
+      <div>10,802</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Government Whip in the Senate</div>
+    </td>
+    <td>
+      <div>10,305</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Opposition Whip in the Senate</div>
+    </td>
+    <td>
+      <div>10,305</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Third Party Whip in the House of Representatives</div>
+    </td>
+    <td>
+      <div>5,337</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Leader in the Senate of the National Party</div>
+    </td>
+    <td>
+      <div>5,337</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Government Whip in the House of Representatives</div>
+    </td>
+    <td>
+      <div>2,669</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Whip in the Senate of a recognised non-Government party of at least 5
+        members not otherwise specified herein</div>
+    </td>
+    <td>
+      <div>1,279</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Government Whip in the Senate</div>
+    </td>
+    <td>
+      <div>1,279</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Opposition Whip in the Senate</div>
+    </td>
+    <td>
+      <div>1,279</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Opposition Whip in the House of Representatives</div>
+    </td>
+    <td>
+      <div>1,279</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Chairman of Committees in the Senate</div>
+    </td>
+    <td>
+      <div>1,279</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Deputy Chairman of Committees in the House of Representatives</div>
+    </td>
+    <td>
+      <div>1,279</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairs of Parliamentary Committees</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Joint Committee of Public Accounts and Audit</div>
+    </td>
+    <td>
+      <div>9,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chairman, Parliamentary Standing Committee on Public Works</div>
+    </td>
+    <td>
+      <div>9,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Joint Committee on Foreign Affairs, Defence and Trade</div>
+    </td>
+    <td>
+      <div>9,949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Joint Standing Committee on Electoral Matters</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Parliamentary Joint Committee on the National Crime Authority</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Parliamentary Joint Committee on ASIO, ASIS and DSD</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Community
+        Affairs</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Employment,
+        Education and Training</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Environment,
+        Recreation and the Arts</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Finance
+        and Public Administration</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Foreign
+        Affairs, Defence and Trade</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Industry,
+        Science and Technology</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Infrastructure</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, Senate Legislative and General Purpose Standing Committee on Legal
+        and Constitutional Affairs</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Aboriginal Affairs</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Community Affairs</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Environment, Recreation
+        and the Arts</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Employment, Education
+        and Training</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Finance and Public
+        Administration</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Industry, Science
+        and Technology</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Transport, Communications
+        and Infrastructure</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Legal and Constitutional
+        Affairs</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair, House of Representatives Standing Committee on Procedure</div>
+    </td>
+    <td>
+      <div>6,310</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chair of a Parliamentary Committee not otherwise specified in this clause</div>
+    </td>
+    <td>
+      <div>1,738</div>
+    </td>
+  </tr>
+</tbody></table>
 
 4.    Whenever the annual rate of salary payable to Senators and Members of the House of Representatives is, after the commencement of this section, increased under Schedule 3 because of an increase in the minimum SES Band 2 annual salary as defined in that Schedule, the rate per annum of additional salary payable to the holders of offices specified in clause 3 is increased by the same proportion.
 
@@ -2094,6 +2123,7 @@ _Section 7_
 6.    In this Schedule:
 
                     <a name="parliamentari-committe"></a>**_parliamentary committee_** means a committee concerned with public affairs rather than the domestic affairs of Parliament.
+
 
 # Notes to the _Remuneration and Allowances Act 1990_
 
@@ -2125,11 +2155,13 @@ All other relevant information pertaining to application, saving or transitional
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2139,325 +2171,320 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Remuneration and Allowances Act 1990</div>
-  </td>
-  <td>
-    <div>71, 1990</div>
-  </td>
-  <td>
-    <div>20 June 1990</div>
-  </td>
-  <td>
-    <div>Part 3 (ss. 9, 10): 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Remuneration and Allowances (Amendment) Act 1990</div>
-  </td>
-  <td>
-    <div>72, 1990</div>
-  </td>
-  <td>
-    <div>20 June 1990</div>
-  </td>
-  <td>
-    <div>20 June 1990 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
-  </td>
-  <td>
-    <div>108, 1990</div>
-  </td>
-  <td>
-    <div>18 Dec 1990</div>
-  </td>
-  <td>
-    <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
- </i>s. 2(4) and <i>Gazette</i>1991, No. S18) 
+<tbody>
+  <tr>
+    <td>
+      <div>Remuneration and Allowances Act 1990</div>
+    </td>
+    <td>
+      <div>71, 1990</div>
+    </td>
+    <td>
+      <div>20 June 1990</div>
+    </td>
+    <td>
+      <div>Part 3 (ss. 9, 10): 1 July 1990 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Remuneration and Allowances (Amendment) Act 1990</div>
+    </td>
+    <td>
+      <div>72, 1990</div>
+    </td>
+    <td>
+      <div>20 June 1990</div>
+    </td>
+    <td>
+      <div>20 June 1990 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
+    </td>
+    <td>
+      <div>108, 1990</div>
+    </td>
+    <td>
+      <div>18 Dec 1990</div>
+    </td>
+    <td>
+      <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
+
+ </i>s. 2(4) and <i>Gazette</i>1991, No. S18) 
 Ss. 22–24: 1 Mar 1989 
 S. 26: 1 Jan 1990 
 S. 33: 25 Mar 1991 ( <i>see Gazette</i>1991, No. S73) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Remuneration and Allowances Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>52, 1992</div>
-  </td>
-  <td>
-    <div>22 June 1992</div>
-  </td>
-  <td>
-    <div>Part 3 (ss. 13, 14): 27 June 1991 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Remuneration and Allowances Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>52, 1992</div>
+    </td>
+    <td>
+      <div>22 June 1992</div>
+    </td>
+    <td>
+      <div>Part 3 (ss. 13, 14): 27 June 1991 
 Ss. 16 and 17(1): 20 June 1990 
 S. 17(2): 1 July 1990 
 S. 19(1): 1 Jan 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>158, 1994</div>
-  </td>
-  <td>
-    <div>15 Dec 1994</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Competition Policy Reform Act 1995</div>
-  </td>
-  <td>
-    <div>88, 1995</div>
-  </td>
-  <td>
-    <div>20 July 1995</div>
-  </td>
-  <td>
-    <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 42): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 3: 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1994</div>
+    </td>
+    <td>
+      <div>158, 1994</div>
+    </td>
+    <td>
+      <div>15 Dec 1994</div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Competition Policy Reform Act 1995</div>
+    </td>
+    <td>
+      <div>88, 1995</div>
+    </td>
+    <td>
+      <div>20 July 1995</div>
+    </td>
+    <td>
+      <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 42): Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td>
+      <div>1, 1997</div>
+    </td>
+    <td>
+      <div>19 Feb 1997</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 3: 
 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1144–1148): 1 Jan 1998 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 772–775): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>161, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 54, 55): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intelligence Services (Consequential Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>153, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Superannuation and Other Entitlements Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>87, 2004</div>
-  </td>
-  <td>
-    <div>25 June 2004</div>
-  </td>
-  <td>
-    <div>26 June 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
-  </td>
-  <td>
-    <div>45, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 119, 120) and Schedule 4: 1 July 2005 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>111, 2005</div>
-  </td>
-  <td>
-    <div>6 Sept 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 710): 
-1 Oct 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 276, 406(1)–(3)): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1144–1148): 1 Jan 1998 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 772–775): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>161, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 54, 55): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Intelligence Services (Consequential Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>153, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (items 7–9) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Superannuation and Other Entitlements Legislation Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>87, 2004</div>
+    </td>
+    <td>
+      <div>25 June 2004</div>
+    </td>
+    <td>
+      <div>26 June 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
+    </td>
+    <td>
+      <div>45, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 119, 120) and Schedule 4: 1 July 2005 ( <i>see</i>s. 2(1))</div>
+    </td>
+    <td>
+      <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>111, 2005</div>
+    </td>
+    <td>
+      <div>6 Sept 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 710): 
+1 Oct 2005 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 only of the _Industrial Relations Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
 
@@ -2495,92 +2522,6 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
 
          The other Schedules commenced on 10 December 1999.
 
-_(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Simplified Superannuation) Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2613,70 +2554,73 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 158, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004; No. 15, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>am. No. 158, 1994; No. 152, 1997; No. 161, 1999; No. 153, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 158, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 87, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>am. No. 108, 1990; No. 52, 1992; No. 88, 1995; No. 146, 1999; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1990; No. 88, 1995; Nos. 1 and 152, 1997; Nos. 146 and 161, 1999; Nos. 45 and 111, 2005; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 4</div>
+    </td>
+    <td>
+      <div>am. No. 158, 1994; No. 152, 1997; No. 161, 1999; No. 153, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2716,23 +2660,5 @@ Despite the repeal of Part VA:
 
 At the transfer time, any records that were in the custody, or under the control, of the old committee immediately before the transfer time are transferred to the new committee by force of this item.
 
-* * *
-
-_Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)_
-
-## Schedule 1
-
-## 406  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
-
-(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
-
-                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
-
-                     (b)  Divisions 301 to 307 of that Act.
 
  
