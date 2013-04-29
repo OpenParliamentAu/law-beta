@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00756/Html/4ff4085e-0d4b-4c20-ac8d-497770502519_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00174/Html/cd8dba15-af9d-4db7-ba0f-7df59ef627a2_files/image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 16 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 4 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -542,8 +542,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [190](#190).        Organisation or branch must not assist one candidate over another
 
-[191](#191).        Organisation to provide returning officer with copy of 
- register
+[191](#191).        Organisation to provide returning officer with copy of register
 
 [192](#192).        Declaration by secretary etc  of organisation
 
@@ -4023,7 +4022,7 @@ Secrecy of vote
 
 this fact must be included in the report.
 
-##### <a id="108"></a>108  Inquiries into irregularities
+##### <a id="108"></a>108  Inquiries into irregularities
 
              (1)  Not later than 30 days after the result of a ballot under this Part is declared, application may be made to FWA, as prescribed, for an inquiry by FWA into alleged irregularities in relation to the ballot.
 
@@ -4361,7 +4360,7 @@ holds the equivalent office in the newly registered organisation as if he or she
 
 ### Division 4—Validation
 
-##### <a id="126"></a>126  Validation of certain acts done in good faith
+##### <a id="126"></a>126  Validation of certain acts done in good faith
 
              (1)  Subject to this section and to section 128, an act done in good faith for the purposes of a proposed or completed withdrawal from amalgamation by:
 
@@ -5381,7 +5380,7 @@ Note:          If the General Manager consents to the alterati
 
                    In proceedings under this Act or the Fair Work Act, a copy of the rules of an organisation certified by the General Manager to be a true and correct copy is evidence of the rules of the organisation.
 
-##### <a id="162"></a>162  Powers of FWA
+##### <a id="162"></a>162  Powers of FWA
 
                    The powers of FWA under this Division are exercisable only by the President or a Deputy President.
 
@@ -5849,7 +5848,7 @@ Part 4 sets out the circumstances in which people are disqualified from holdin
 
 ## Part 2—Conduct of elections for office and other positions
 
-##### <a id="182"></a>182  Conduct by AEC
+##### <a id="182"></a>182  Conduct by AEC
 
 Elections for office
 
@@ -6925,7 +6924,7 @@ Division 7 provides for members’ access to the financial records of reportin
 
 ##### <a id="240"></a>240  Financial years—change in financial year
 
-                   Where the rules of an organisation change the period constituting the financial year of the organisation, the period between:
+                   Where the rules of an organisation change the period constituting the financial year of the organisation, the period between:
 
                      (a)  the commencement of the first financial year after the change; and
 
@@ -12014,23 +12013,6 @@ Schedule 22 (item 91): <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 583) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -43011,20 +42993,6 @@ Part XVII</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 583  Subsection 343A(3) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 16 September 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -44158,7 +44126,7 @@ The amendments made by items 4 and 5 of this Schedule apply only in relation t
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
-## 53  Application of items 8 and 9
+## 53  Application of items 8 and 9
 
 The amendments made by items 8 and 9 apply only in relation to waivers under section 371 of the _Workplace Relations Act 1996_ made on or after the commencement of this item.
 
@@ -44434,22 +44402,6 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
                      (a)  was a wage‑setting power of the AFPC under Division 2 of Part 7 of the _Workplace Relations Act 1996_, as in force immediately before the commencement time; and
 
                      (b)  is not a wage‑setting power of the AFPC under Division 2 of Part 7 of the _Workplace Relations Act 1996_, as amended by this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 Table showing Parts, Divisions, Subdivisions, Sections and Schedules of the _Fair Work (Registered Organisations) Act 2009_ after renumbering by the _Workplace Relations Amendment (Work Choices) Act 2005_ (No. 153, 2005).
 
