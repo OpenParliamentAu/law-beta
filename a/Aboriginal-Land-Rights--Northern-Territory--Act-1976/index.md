@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00123/Html/08c10a6d-91bd-4a7f-8faa-777f85133515_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00965/Html/3ff5bd43-8496-420c-bb3c-f475df16d42f_files/image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 20 December 2011
  taking into account amendments up to Act No. 188 of 2011
 
 [**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 
@@ -831,13 +831,13 @@ but does not include, when the expression is used in Part IV, any such lease, li
 
                    The Minister may, by writing, approve a person for the purposes of the definition of **_Commonwealth entity_** in subsection 3(1).
 
-Note:          Subsection 2C(1) of the _Acts Interpretation Act 1901_ provides that **_person_**includes a body corporate or body politic.
+Note:          Paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_**includes a body corporate or body politic.
 
 ##### <a id="3AA"></a>3AA  Approval of NT entities
 
              (1)  The Chief Minister of the Northern Territory may, by writing, approve a person for the purposes of the definition of **_NT entity_** in subsection 3(1).
 
-Note:          Subsection 2C(1) of the _Acts Interpretation Act 1901_ provides that **_person_**includes a body corporate or body politic.
+Note:          Paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_**includes a body corporate or body politic.
 
 Executive authority
 
@@ -2287,13 +2287,23 @@ Part‑time Executive Director
 
 ##### <a id="20J"></a>20J  Acting Executive Director
 
-                   The Minister may appoint a person to act as the Executive Director:
+             (1)  The Minister may appoint a person to act as the Executive Director:
 
                      (a)  during a vacancy in the office of the Executive Director (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Executive Director is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="20K"></a>20K  Leave of absence
 
@@ -3473,7 +3483,7 @@ Notice not a legislative instrument
 
              (1)  While a delegation from a Land Council to an Aboriginal and Torres Strait Islander corporation is in force under section 28, the Council cannot perform its functions or exercise its powers under this Act to the extent that they are covered by the delegation.
 
-             (2)  Subsection (1) applies despite paragraph 34AB(1)(d) of the _Acts Interpretation Act 1901_.
+             (2)  Subsection (1) applies despite paragraph 34AB(d) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="28E"></a>28E   Land Council to provide assistance to Aboriginal and Torres Strait Islander corporation
 
@@ -5047,7 +5057,7 @@ the Attorney‑General or the public servant may authorize, either unconditional
 
 ##### <a id="55"></a>55  Interests of Commissioner in any business
 
-                   A Commissioner shall, as soon as practicable, give written notice to the Minister of all direct and indirect pecuniary interests that he or she has or acquires in any business carried on in Australia or in any body corporate carrying on any such business or in any land in the Northern Territory.
+                   A Commissioner shall, as soon as practicable, give written notice to the Minister of all direct and indirect pecuniary interests that he or she has or acquires in any business carried on in Australia or in any body corporate carrying on any such business or in any land in the Northern Territory.
 
 ##### <a id="56"></a>56  Leave of absence
 
@@ -6395,7 +6405,7 @@ All that parcel of land containing an area of 965.6 hectares more or less, being
 
 FORSTER RANGE (STIRLING) LOCALITY
 
-All those parcels of land in the   Northern Territory containing an area of 3,690 hectares more or less:
+All those parcels of land in the Northern Territory containing an area of 3,690 hectares more or less:
 
 Firstly:
 
@@ -6467,7 +6477,7 @@ All that parcel of land containing an area of 1,340 hectares more or less, being
 
 Secondly:
 
-All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Territory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Ter  ritory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor‑General, Darwin.
 
 Thirdly:
 
@@ -20043,7 +20053,7 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of Australia 19 94 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25092,7 +25102,7 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
+        <b>Geocentric Datum of Australia 19 94 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -27240,7 +27250,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 26–31) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 26–31) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -27559,31 +27569,7 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 3AAA</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3AA</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3AA(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3AB</div>
+    <div>Ss. 3AA, 3AB</div>
   </td>
   <td>
     <div>ad. No. 93, 2006</div>
@@ -28099,22 +28085,6 @@ _(e)_     Subsection 2(1) (items 3 and 9) of the _Families, Community 
   </td>
   <td>
     <div>ad. No. 121, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 20J</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -28860,7 +28830,7 @@ No. 93, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 125, 2006; No. 46, 2011</div>
+    <div>am. No. 125, 2006</div>
   </td>
 </tr>
 <tr>
@@ -30344,6 +30314,42 @@ No. 93, 2006</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 26  Section 3AAA (note)
+
+Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
+
+## 27  Subsection 3AA(1) (note)
+
+Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
+
+## 28  Subsection 20J(1)
+
+Omit “(1)”.
+
+## 29  Subsection 20J(1) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 30  Subsection 20J(2)
+
+Repeal the subsection.
+
+## 31  Subsection 28D(2)
+
+Omit “paragraph 34AB(d)”, substitute “paragraph 34AB(1)(d)”.
+
+As at 20 December 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -30354,7 +30360,7 @@ _Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)_
 
 ## 31  Saving
 
-To avoid doubt, the amendments of section 12 of the _Aborigina  l__Land__Rights (Northern Territory) Act 1976_ made by this Schedule does not affect an agreement mentioned in subsection 12(2B) or (2C) of that Act before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
+To avoid doubt, the amendments of section 12 of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_ made by this Schedule does not affect an agreement mentioned in subsection 12(2B) or (2C) of that Act before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
 ## 33  Application provision
 
@@ -30486,7 +30492,7 @@ Land Trust authorisations
 
 The amendment made by item 60 applies in relation to contracts entered into after the commencement of that item.
 
-## 211  Transitional—Land Council delegations
+## 211  Transitional—Land Council delegations
 
 (1)       For the purposes of subsection 28(1) of the _Aboriginal__Land__Rights (Northern Territory) Act 1976_, the power of a Land Council to give consent under section 40 of that Act (as in force immediately before the commencement of the _Aboriginal__Land__Rights (Northern Territory) Amendment Act (No. 3) 1987_) is not delegable under that subsection.
 
@@ -30868,8 +30874,7 @@ The amendment made by item 3 applies in relation to leases granted after the c
 
 * * *
 
-_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 
- (No. 93, 2010)_
+_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
 
 ## Schedule 1
 
@@ -30884,6 +30889,8 @@ To avoid doubt:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
