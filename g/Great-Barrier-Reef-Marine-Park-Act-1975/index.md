@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00815/Html/1e19148d-58ab-43e6-882b-aa346d128453_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00149/Html/c91ac1f6-e3dc-404b-9dfb-2ac37e4e663e_files/image001.gif)
 
 # Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 4 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 29 March 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1322,7 +1322,7 @@ a person other than a person nominated by the Queensland Government may be appoi
 
              (8)  The appointment of a member is not invalidated and shall not be called in question by reason of a defect or irregularity in, or in connexion with, his or her selection or appointment.
 
-##### <a id="11"></a>11  Period of appointment of members of Authority
+##### <a id="11"></a>11  Period of appointment of members of Authority
 
              (1)  A member shall be appointed for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
 
@@ -1972,7 +1972,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (5)  This section applies despite any other law of the Commonwealth, a State or a Territory.
 
-##### <a id="38AB"></a>38AB  Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
+##### <a id="38AB"></a>38AB  Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
 
              (1)  A person must not engage in mining operations or geological storageoperations in the Great Barrier Reef Region unless the person is authorised to engage in the operations by:
 
@@ -2894,7 +2894,7 @@ Note:          Subsection (2) extends by a year the deadline
 
              (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person does not include imprisonment.
 
-##### <a id="38HD"></a>38HD  Conduct in the exclusive economic zone: Division 6 offences
+##### <a id="38HD"></a>38HD  Conduct in the exclusive economic zone: Division 6 offences
 
              (1)  This section applies in relation to an offence (a **_vicarious liability offence_**) committed by a person against a provision of Division 6 of this Part if:
 
@@ -5450,7 +5450,7 @@ a proper officer of the court shall issue to the Minister or the Authority, as t
 
 ## Part IX—Miscellaneous
 
-##### <a id="64"></a>64  Reconsideration of decisions
+##### <a id="64"></a>64  Reconsideration of decisions
 
              (1)  A person who is affected by a reviewable decision made by the Minister may request the Minister, in writing, to reconsider the decision.
 
@@ -6223,7 +6223,7 @@ Remainder: Royal Assent</div>
     <div>1 July 2007</div>
   </td>
   <td>
-    <div>Sch. 2 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 2 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -6260,7 +6260,7 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
     <div>19 Feb 2010</div>
   </td>
   <td>
-    <div>Schedule 10 (item 20): 20 Feb 2010</div>
+    <div>Schedule 10 (item 20): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -6277,7 +6277,7 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 60): <i>(m)</i></div>
+    <div>Schedule 5 (item 60): <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6294,27 +6294,10 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 59): Royal Assent</div>
+    <div>Schedule 1 (item 59): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 661–671) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -9709,64 +9692,6 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 661  Subsection 3(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 662  Subsection 3(1) (definition of _exclusive economic zone_)
-
-Repeal the definition.
-
-## 663  Subsection 3(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-## 664  Paragraph 15(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 665  Subsection 15(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 666  At the end of subsection 15(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 667  Subsection 15(2)
-
-Repeal the subsection.
-
-## 668  Paragraph 15(3)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 669  Subsection 15(3)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 670  At the end of subsection 15(3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 671  Subsections 15(4), (6) and (7)
-
-Repeal the subsections.
-
-As at 4 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -10176,21 +10101,5 @@ A reference in section 38EA or 38EB of the _Great Barrier Reef Marine Park Act
 ## 42  Liability of permission holder for conduct contravening permission (section 38FD)
 
 A reference in section 38FD of the _Great Barrier Reef Marine Park Act 1975_, as in force after the commencement of this Schedule, to a permission granted under the regulations for the purposes of a provision of the _Great Barrier Reef Marine Park Act 1975_ or of a zoning plan includes a reference to a permission that meets the conditions in item 27, 28, 29 or 31.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
