@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00304/Html/1123d7e2-8599-4bc4-8762-608e3a77c7e5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00561/Html/AusLinkNatLandTrans2005_image001.gif)
 
-# Nation Building Program (National Land Transport) Act 2009
+# AusLink (National Land Transport) Act 2005
 
 **Act No. 93 of 2005 as amended**
 
-This compilation was prepared on 7 July 2009
- taking into account amendments up to Act No. 56 of 2009
+This compilation was prepared on 24 October 2008
+ taking into account amendments up to Act No. 106 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -36,13 +36,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Publication
 
-**Part 3—Nation Building Program National Projects** 
+**Part 3—AusLink National Projects** 
 
-    **Division 1—Approval of projects as Nation Building Program National Projects**
+    **Division 1—Approval of projects as AusLink National Projects**
 
-[8](#8).            What is a Nation Building Program National Project?
+[8](#8).            What is an AusLink National Project?
 
-[9](#9).            Approval of Nation Building Program National Projects
+[9](#9).            Approval of AusLink National Projects
 
 [10](#10).          What projects are eligible for approval?
 
@@ -58,7 +58,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Provision of Commonwealth funding**
 
-[16](#16).          Commonwealth funding for Nation Building Program National Projects
+[16](#16).          Commonwealth funding for AusLink National Projects
 
 [17](#17).          Approval of provision of Commonwealth funding if no funding agreement
 
@@ -90,13 +90,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Determination of other conditions if no funding agreement
 
-**Part 4—Nation Building Program Transport Development and Innovation Projects** 
+**Part 4—AusLink Transport Development and Innovation Projects** 
 
-    **Division 1—Approval of projects as Nation Building Program Transport Development and Innovation Projects**
+    **Division 1—Approval of projects as AusLink Transport Development and Innovation Projects**
 
-[28](#28).          What is a Nation Building Program Transport Development and Innovation Project?
+[28](#28).          What is an AusLink Transport Development and Innovation Project?
 
-[29](#29).          Approval of Nation Building Program Transport Development and Innovation Projects
+[29](#29).          Approval of AusLink Transport Development and Innovation Projects
 
 [30](#30).          What projects are eligible for approval?
 
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Provision of Commonwealth funding**
 
-[36](#36).          Commonwealth funding for Nation Building Program Transport Development and Innovation Projects
+[36](#36).          Commonwealth funding for AusLink Transport Development and Innovation Projects
 
 [37](#37).          Approval of provision of Commonwealth funding if no funding agreement
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44](#44).          Determination of other conditions if no funding agreement
 
-**Part 5—Nation Building Program funding for land transport research entities**
+**Part 5—AusLink funding for land transport research entities**
 
 [45](#45).          Definitions
 
@@ -154,13 +154,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51](#51).          Relationship with Part 4
 
-**Part 6—Nation Building Program Off‑Network Projects** 
+**Part 6—AusLink Strategic Regional Projects** 
 
-    **Division 1—Approval of projects as Nation Building Program Off‑Network Projects**
+    **Division 1—Approval of projects as AusLink Strategic Regional Projects**
 
-[52](#52).          What is a Nation Building Program Off‑Network Project?
+[52](#52).          What is an AusLink Strategic Regional Project?
 
-[53](#53).          Approval of Nation Building Program Off‑Network Projects
+[53](#53).          Approval of AusLink Strategic Regional Projects
 
 [54](#54).          What projects are eligible for approval?
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Provision of Commonwealth funding**
 
-[60](#60).          Commonwealth funding for Nation Building Program Off‑Network Projects
+[60](#60).          Commonwealth funding for AusLink Strategic Regional Projects
 
 [61](#61).          Approval of provision of Commonwealth funding if no funding agreement
 
@@ -202,13 +202,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [68](#68).          Determination of other conditions if no funding agreement
 
-**Part 7—Nation Building Program Black Spot Projects** 
+**Part 7—AusLink Black Spot Projects** 
 
-    **Division 1—Approval of projects as Nation Building Program Black Spot Projects**
+    **Division 1—Approval of projects as AusLink Black Spot Projects**
 
-[69](#69).          What is a Nation Building Program Black Spot Project?
+[69](#69).          What is an AusLink Black Spot Project?
 
-[70](#70).          Approval of Nation Building Program Black Spot Projects
+[70](#70).          Approval of AusLink Black Spot Projects
 
 [71](#71).          What projects are eligible for approval?
 
@@ -224,7 +224,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Provision of Commonwealth funding**
 
-[77](#77).          Commonwealth funding for Nation Building Program Black Spot Projects
+[77](#77).          Commonwealth funding for AusLink Black Spot Projects
 
 [78](#78).          Approval of provision of Commonwealth funding if no funding agreement
 
@@ -252,13 +252,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [86](#86).          Determination of other conditions if no funding agreement
 
-**Part 8—Nation Building Program Roads to Recovery Program**
+**Part 8—AusLink Roads to Recovery Program**
 
-[87](#87).          Nation Building Program Roads to Recovery List
+[87](#87).          Minister to publish AusLink Roads to Recovery List
 
-[88](#88).          Variation of Nation Building Program Roads to Recovery List
+[88](#88).          Variation of AusLink Roads to Recovery List
 
-[89](#89).          Payments to persons and bodies specified in Nation Building Program Roads to Recovery List
+[89](#89).          Payments to persons and bodies specified in AusLink Roads to Recovery List
 
 [90](#90).          Conditions that apply to payments
 
@@ -284,7 +284,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Nation Building Program (National Land Transport) Act 2009_.
+                   This Act may be cited as the _AusLink (National Land Transport) Act 2005_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -394,9 +394,9 @@ Note:          This table relates only to the provisions of th
 
                     <a name="appropri-auditor"></a>**_appropriate auditor_** means:
 
-                     (a)  in relation to a person or body whose accounts are required by law to be audited by the Auditor‑General of a State—the Auditor‑General of the State; or
+                     (a)  in relation to a person or body whose accounts are required by law to be audited by the Auditor-General of a State—the Auditor-General of the State; or
 
-                     (b)  in relation to a person or body whose accounts are required by law to be audited by the Auditor‑General of the Commonwealth—the Auditor‑General of the Commonwealth; or
+                     (b)  in relation to a person or body whose accounts are required by law to be audited by the Auditor-General of the Commonwealth—the Auditor-General of the Commonwealth; or
 
                      (c)  in relation to any other person or body—a person (other than a director, officer or employee of the person or body) who is:
 
@@ -404,9 +404,25 @@ Note:          This table relates only to the provisions of th
 
                              (ii)  a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants.
 
-                    <a name="approved-fund-recipi"></a>**_approved funding recipient_**, in relation to a Nation Building Program National Project, a Nation Building Program Transport Development and Innovation Project, a Nation Building Program Off‑Network Project or a Nation Building Program Black Spot Project, means the eligible funding recipient identified in the project approval instrument.
+                    <a name="approved-fund-recipi"></a>**_approved funding recipient_**, in relation to an AusLink National Project, an AusLink Transport Development and Innovation Project, an AusLink Strategic Regional Project or an AusLink Black Spot Project, means the eligible funding recipient identified in the project approval instrument.
 
-                    <a name="approved-purpos"></a>**_approved purposes_**, in relation to a Nation Building Program National Project, a Nation Building Program Transport Development and Innovation Project, a Nation Building Program Off‑Network Project or a Nation Building Program Black Spot Project, means the purposes forming part of the project, other than any purposes that are excluded by the project approval instrument from being purposes on which funding may be expended.
+                    <a name="approved-purpos"></a>**_approved purposes_**, in relation to an AusLink National Project, an AusLink Transport Development and Innovation Project, an AusLink Strategic Regional Project or an AusLink Black Spot Project, means the purposes forming part of the project, other than any purposes that are excluded by the project approval instrument from being purposes on which funding may be expended.
+
+                    <a name="auslink-black-spot-project"></a>**_AusLink Black Spot Project_** has the meaning given by section 69.
+
+                    <a name="auslink-nation-project"></a>**_AusLink National Project_** has the meaning given by section 8.
+
+                    <a name="auslink-road-recoveri-fund-period"></a>**_AusLink Roads to Recovery funding period_** means:
+
+                     (a)  the period starting on 1 July 2005 and ending on 30 June 2009; or
+
+                     (b)  the period starting on 1 July 2009 and ending on 30 June 2014.
+
+                    <a name="auslink-road-recoveri-list"></a>**_AusLink Roads to Recovery List_** has the meaning given by subsection 87(1).
+
+                    <a name="auslink-strateg-region-project"></a>**_AusLink Strategic Regional Project_** has the meaning given by section 52.
+
+                    <a name="auslink-transport-develop-innov-project"></a>**_AusLink Transport Development and Innovation Project_** has the meaning given by section 28.
 
                     <a name="author-state"></a>**_authority of a State_** means a body:
 
@@ -420,7 +436,7 @@ but does not include a local government authority.
 
                      (a)  when used in relation to a railway or road, has a meaning affected by subsection (2); and
 
-                     (b)  when used in relation to an inter‑modal transfer facility, has a meaning affected by subsection (3).
+                     (b)  when used in relation to an inter-modal transfer facility, has a meaning affected by subsection (3).
 
                     <a name="corridor-strategi"></a>**_Corridor Strategy_** means a strategy (as updated from time to time) that:
 
@@ -452,11 +468,11 @@ but does not include a local government authority.
 
                      (b)  the Territory of Cocos (Keeling) Islands.
 
-                    <a name="inter-modal-transfer-facil"></a>**_inter‑modal transfer facility_** means a facility for the transfer of cargo or passengers from one mode of transport to another. At least one of the modes of transport must be road or rail.
+                    <a name="inter-modal-transfer-facil"></a>**_inter-modal transfer facility_** means a facility for the transfer of cargo or passengers from one mode of transport to another. At least one of the modes of transport must be road or rail.
 
                     <a name="local-govern-author"></a>**_local government authority_** means a body established for the purposes of local government by or under a law applying in a State or Territory.
 
-                    <a name="mainten"></a>**_maintenance_**, in relation to a road, railway or inter‑modal transfer facility, includes works and repairs to keep the road, railway or facility in a safe and useable  condition.
+                    <a name="mainten"></a>**_maintenance_**, in relation to a road, railway or inter-modal transfer facility, includes works and repairs to keep the road, railway or facility in a safe and useable  condition.
 
                     <a name="nation-land-transport-network"></a>**_National Land Transport Network_** means the National Land Transport Network, as in force from time to time, that is determined by the Minister under Part 2.
 
@@ -468,29 +484,17 @@ but does not include a local government authority.
 
                      (c)  sets priorities for expenditure on the National Land Transport Network.
 
-                    <a name="nation-build-program-black-spot-project"></a>**_Nation Building Program Black Spot Project_** has the meaning given by section 69.
-
-                    <a name="nation-build-program-nation-project"></a>**_Nation Building Program National Project_** has the meaning given by section 8.
-
-                    <a name="nation-build-program-off-network-project"></a>**_Nation Building Program Off‑Network Project_** has the meaning given by section 52.
-
-                    <a name="nation-build-program-road-recoveri-fund-period"></a>**_Nation Building Program Roads to Recovery funding period_** means the period starting on 1 July 2009 and ending on 30 June 2014.
-
-                    <a name="nation-build-program-road-recoveri-list"></a>**_Nation Building Program Roads to Recovery List_** means the list in force, immediately before the commencement of this definition, under subsection 87(1) of this Act for the period starting on 1 July 2009 and ending on 30 June 2014.
-
-                    <a name="nation-build-program-transport-develop-innov-project"></a>**_Nation Building Program Transport Development and Innovation Project_** has the meaning given by section 28.
-
                     <a name="project"></a>**_project_** includes a program.
 
                     <a name="project-approv-instrum"></a>**_project approval instrument_** means:
 
-                     (a)  in relation to a Nation Building Program National Project—the instrument approving the project under subsection 9(1); and
+                     (a)  in relation to an AusLink National Project—the instrument approving the project under subsection 9(1); and
 
-                     (b)  in relation to a Nation Building Program Transport Development and Innovation Project—the instrument approving the project under subsection 29(1); and
+                     (b)  in relation to an AusLink Transport Development and Innovation Project—the instrument approving the project under subsection 29(1); and
 
-                     (c)  in relation to a Nation Building Program Off‑Network Project—the instrument approving the project under subsection 53(1); and
+                     (c)  in relation to an AusLink Strategic Regional Project—the instrument approving the project under subsection 53(1); and
 
-                     (d)  in relation to a Nation Building Program Black Spot Project—the instrument approving the project under subsection 70(1).
+                     (d)  in relation to an AusLink Black Spot Project—the instrument approving the project under subsection 70(1).
 
                     <a name="public-util"></a>**_public utility_** has a meaning affected by subsection (4).
 
@@ -560,9 +564,9 @@ Meaning of **construction** in relation to a railway or road
 
 but does not include the maintenance of the railway or road.
 
-Meaning of **construction** in relation to an inter‑modal transfer facility
+Meaning of **construction** in relation to an inter-modal transfer facility
 
-(3)  In this Act, **_construction_**, when used in relation to an inter‑modal transfer facility, includes:
+(3)  In this Act, **_construction_**, when used in relation to an inter-modal transfer facility, includes:
 
                      (a)  the reconstruction of the facility; and
 
@@ -596,11 +600,11 @@ Meaning of **public utility**
 
                             (iii)  connecting 2 major centres of commercial activity; or
 
-                            (iv)  connecting a capital city or a major centre of commercial activity and an inter‑modal transfer facility; or
+                            (iv)  connecting a capital city or a major centre of commercial activity and an inter-modal transfer facility; or
 
                              (v)  in a capital city or a major centre of commercial activity that connect 2 or more roads covered by any of subparagraphs (i) to (iv); or
 
-                            (vi)  connecting a road covered by any of subparagraphs (i) to (v) and an inter‑modal transfer facility;
+                            (vi)  connecting a road covered by any of subparagraphs (i) to (v) and an inter-modal transfer facility;
 
                      (b)  existing and proposed railways:
 
@@ -610,19 +614,19 @@ Meaning of **public utility**
 
                             (iii)  connecting 2 major centres of commercial activity; or
 
-                            (iv)  connecting a capital city or a major centre of commercial activity and an inter‑modal transfer facility; or
+                            (iv)  connecting a capital city or a major centre of commercial activity and an inter-modal transfer facility; or
 
                              (v)  in a capital city or a major centre of commercial activity that connect 2 or more railways covered by any of subparagraphs (i) to (iv); or
 
-                            (vi)  connecting a railway covered by any of subparagraphs (i) to (v) and an inter‑modal transfer facility;
+                            (vi)  connecting a railway covered by any of subparagraphs (i) to (v) and an inter-modal transfer facility;
 
-                     (c)  existing and proposed inter‑modal transfer facilities which can be accessed by a road or railway covered by paragraph (a) or (b).
+                     (c)  existing and proposed inter-modal transfer facilities which can be accessed by a road or railway covered by paragraph (a) or (b).
 
-             (3)  The Minister must not include an existing or proposed road, railway or inter‑modal transfer facility in the National Land Transport Network unless the Minister is satisfied that the road, railway or facility is or will be important for either or both of the following:
+             (3)  The Minister must not include an existing or proposed road, railway or inter-modal transfer facility in the National Land Transport Network unless the Minister is satisfied that the road, railway or facility is or will be important for either or both of the following:
 
-                     (a)  the development of international, inter‑State or inter‑regional trade and commerce;
+                     (a)  the development of international, inter-State or inter-regional trade and commerce;
 
-                     (b)  the facilitation of international, inter‑State or inter‑regional travel.
+                     (b)  the facilitation of international, inter-State or inter-regional travel.
 
              (4)  An instrument determining the National Land Transport Network is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
 
@@ -640,17 +644,17 @@ Meaning of **public utility**
 
 Note:          This section applies in addition to the requirements of the _Legislative Instruments Act 2003_.
 
-## Part 3—Nation Building Program National Projects
+## Part 3—AusLink National Projects
 
-### Division 1—Approval of projects as Nation Building Program National Projects
+### Division 1—Approval of projects as AusLink National Projects
 
-##### <a id="8"></a>8  What is a Nation Building Program National Project?
+##### <a id="8"></a>8  What is an AusLink National Project?
 
-                   A **_Nation Building Program National Project_** is a project for which an approval by the Minister under subsection 9(1) is in force.
+                   An **_AusLink National Project_** is a project for which an approval by the Minister under subsection 9(1) is in force.
 
-##### <a id="9"></a>9  Approval of Nation Building Program National Projects
+##### <a id="9"></a>9  Approval of AusLink National Projects
 
-             (1)  The Minister may, in writing, approve a project as a Nation Building Program National Project if, and only if:
+             (1)  The Minister may, in writing, approve a project as an AusLink National Project if, and only if:
 
                      (a)  the Minister is satisfied that the project is eligible for approval (see section 10); and
 
@@ -660,21 +664,21 @@ Note:          This section applies in addition to the require
 
 ##### <a id="10"></a>10  What projects are eligible for approval?
 
-                   A project is eligible for approval as a Nation Building Program National Project if the project is for one or more of the following:
+                   A project is eligible for approval as an AusLink National Project if the project is for one or more of the following:
 
                      (a)  the construction or maintenance of an existing or proposed road that is included in the National Land Transport Network;
 
                      (b)  the construction or maintenance of an existing or proposed railway that is included in the National Land Transport Network;
 
-                     (c)  the construction  of an existing or proposed inter‑modal transfer facility that is included in the National Land Transport Network;
+                     (c)  the construction  of an existing or proposed inter-modal transfer facility that is included in the National Land Transport Network;
 
                      (d)  the acquisition or application of technology that will, or may, contribute to the efficiency, security or  safety of transport operations on the National Land Transport Network.
 
-Note:          The definition of **_construction_** in section 4  covers some kinds of work on an existing road, railway or inter‑modal transfer facility (hence the references above to the construction of an existing road, railway or inter‑modal transfer facility).
+Note:          The definition of **_construction_** in section 4  covers some kinds of work on an existing road, railway or inter-modal transfer facility (hence the references above to the construction of an existing road, railway or inter-modal transfer facility).
 
 ##### <a id="11"></a>11  Is it appropriate to approve a project?
 
-                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as a Nation Building Program National Project include, but are not limited to, the following matters:
+                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as an AusLink National Project include, but are not limited to, the following matters:
 
                      (a)  the National Land Transport Plan;
 
@@ -690,7 +694,7 @@ Note:          The definition of **_construction_** in section
 
 ##### <a id="12"></a>12  Submission of particulars of projects
 
-             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as Nation Building Program National Projects.
+             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as AusLink National Projects.
 
              (2)  An invitation may be given:
 
@@ -698,13 +702,13 @@ Note:          The definition of **_construction_** in section
 
                      (b)  by any method that the Minister considers appropriate.
 
-             (3)  Subject to section 9, the Minister may approve a project as a Nation Building Program National Project, whether or not particulars of the project were submitted in response to an invitation.
+             (3)  Subject to section 9, the Minister may approve a project as an AusLink National Project, whether or not particulars of the project were submitted in response to an invitation.
 
-             (4)  The Minister is not required to consider a project for approval as a Nation Building Program National Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
+             (4)  The Minister is not required to consider a project for approval as an AusLink National Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
 
 ##### <a id="13"></a>13  Matters specified in project approval instrument
 
-             (1)  The project approval instrument for a Nation Building Program National Project must:
+             (1)  The project approval instrument for an AusLink National Project must:
 
                      (a)  identify the project; and
 
@@ -714,7 +718,7 @@ Note:          The definition of **_construction_** in section
 
                      (d)  if the approval is conditional on a funding agreement being entered into with the eligible funding recipient—contain a statement to that effect.
 
-             (2)  The project approval instrument for a Nation Building Program National Project must state that the approval is conditional on a funding agreement being entered into with the eligible funding recipient, unless the recipient is:
+             (2)  The project approval instrument for an AusLink National Project must state that the approval is conditional on a funding agreement being entered into with the eligible funding recipient, unless the recipient is:
 
                      (a)  a State; or
 
@@ -732,11 +736,11 @@ Note:          The definition of **_construction_** in section
 
 Note:          This subsection does not prevent the project approval instrument from stating that the approval is conditional on a funding agreement being entered into with a funding recipient of a kind referred to in paragraph (a), (b), (c) or (d).
 
-             (3)  The project approval instrument for a Nation Building Program National Project may exclude one or more specified purposes from being purposes on which funding may be expended.
+             (3)  The project approval instrument for an AusLink National Project may exclude one or more specified purposes from being purposes on which funding may be expended.
 
 ##### <a id="14"></a>14  Requirements with which funding agreements must comply
 
-                   If the project approval instrument for a Nation Building Program National Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
+                   If the project approval instrument for an AusLink National Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
 
                      (a)  the total amount of funding that the agreement provides for must not exceed the maximum funding amount specified in the project approval instrument; and
 
@@ -744,7 +748,7 @@ Note:          This subsection does not prevent the project ap
 
 ##### <a id="15"></a>15  Variation or revocation of project approval instrument
 
-             (1)  The Minister may, in writing, vary or revoke the project approval instrument for a Nation Building Program National Project.
+             (1)  The Minister may, in writing, vary or revoke the project approval instrument for an AusLink National Project.
 
              (2)  A variation may be of a matter dealt with in the project approval instrument before the variation, or to include a new matter in the project approval instrument. The instrument as varied must be consistent with section 13.
 
@@ -756,9 +760,9 @@ Note:          For example, the project approval instrument ma
 
 ### Division 2—Provision of Commonwealth funding
 
-##### <a id="16"></a>16  Commonwealth funding for Nation Building Program National Projects
+##### <a id="16"></a>16  Commonwealth funding for AusLink National Projects
 
-             (1)  Commonwealth funding for a Nation Building Program National Project may be provided to the approved funding recipient:
+             (1)  Commonwealth funding for an AusLink National Project may be provided to the approved funding recipient:
 
                      (a)  in accordance with section 17; or
 
@@ -768,7 +772,7 @@ Note:          For example, the project approval instrument ma
 
 ##### <a id="17"></a>17  Approval of provision of Commonwealth funding if no funding agreement
 
-             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for a Nation Building Program National Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
+             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for an AusLink National Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
 
              (2)  The funding is to be provided in one or more instalments paid to the approved funding recipient. Subject to subsection (3), the amount and timing of an instalment are as determined by the Minister.
 
@@ -788,7 +792,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
 ##### <a id="18"></a>18  Sources of conditions
 
-             (1)  The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for a Nation Building Program National Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
+                   The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for an AusLink National Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
 
                      (a)  the mandatory conditions (see Subdivision B); and
 
@@ -797,8 +801,6 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
                               (i)  if the funding payment is provided in accordance with section 17—the conditions (if any) determined under Subdivision C; or
 
                              (ii)  if the funding payment is provided in accordance with a funding agreement—the conditions specified in the funding agreement.
-
-             (2)  A funding agreement may specify a condition by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
 
 #### Subdivision B—The mandatory conditions
 
@@ -848,19 +850,17 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
                      (b)  work that is to be carried out by a public utility; or
 
-                     (c)  work that the Minister has, by a written exemption relating to the project _,_ exempted from this condition because, in the Minister’s opinion:
+                     (c)  work that the Minister has, by a written exemption relating to the project _,_ exempted from this condition because, in the Minister’s opinion, the work:
 
-                              (i)  the work is urgently required because of an emergency; or
+                              (i)  is urgently required because of an emergency; or
 
-                             (ii)  the work is of such a minor nature that the invitation of tenders for the work would involve undue additional cost; or
+                             (ii)  is of such a minor nature that the invitation of tenders for the work would involve undue additional cost; or
 
-                            (iii)  the work is of a kind for which it is not practicable to prepare adequate tender specifications; or
+                            (iii)  is of a kind for which it is not practicable to prepare adequate tender specifications; or
 
-                            (iv)  the work is of a kind for which competitive tenders are unlikely to be received; or
+                            (iv)  is of a kind for which competitive tenders are unlikely to be received; or
 
-                             (v)  the work will contribute to employment in a region; or
-
-                            (vi)  the cost of the work is less than an amount prescribed by the regulations for the purposes of this subparagraph.
+                             (v)  will contribute to employment in a region.
 
              (2)  The Minister may, in writing, vary or revoke an exemption referred to in paragraph (1)(c).
 
@@ -870,7 +870,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
              (1)  If the funding recipient is a State or an authority of a State, and the recipient sells or disposes of an interest in land that was acquired using all or part of the funding payment—the recipient must, subject to subsection (2), pay to the Commonwealth an amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00304/Html/1123d7e2-8599-4bc4-8762-608e3a77c7e5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00561/Html/AusLinkNatLandTrans2005_image002.gif)
 
 where:
 
@@ -884,11 +884,11 @@ where:
 
                      (b)  the market value of the interest at the time of the sale or disposal.
 
-             (2)  The funding recipient may instead, with the written approval  of the Minister, spend an amount equal to the amount worked out under subsection (1) on approved purposes in relation to another Nation Building Program National Project.
+             (2)  The funding recipient may instead, with the written approval  of the Minister, spend an amount equal to the amount worked out under subsection (1) on approved purposes in relation to another AusLink National Project.
 
              (3)  The Minister may, in writing, vary or revoke an approval referred to in subsection (2).
 
-             (4)  If the funding recipient spends an amount in accordance with subsection (2) on another Nation Building Program National Project, then, for the purposes of the application of this Act in relation to that other project:
+             (4)  If the funding recipient spends an amount in accordance with subsection (2) on another AusLink National Project, then, for the purposes of the application of this Act in relation to that other project:
 
                      (a)  the funding recipient is taken to have received a payment of Commonwealth funding in relation to that other project equal to the amount so spent; and
 
@@ -920,19 +920,17 @@ where:
 
              (4)  An instrument determining, varying or revoking conditions is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
 
-             (5)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, an instrument determining or varying conditions may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
+## Part 4—AusLink Transport Development and Innovation Projects
 
-## Part 4—Nation Building Program Transport Development and Innovation Projects
+### Division 1—Approval of projects as AusLink Transport Development and Innovation Projects
 
-### Division 1—Approval of projects as Nation Building Program Transport Development and Innovation Projects
+##### <a id="28"></a>28  What is an AusLink Transport Development and Innovation Project?
 
-##### <a id="28"></a>28  What is a Nation Building Program Transport Development and Innovation Project?
+                   An **_AusLink Transport Development and Innovation Project_** is a project for which an approval by the Minister under subsection 29(1) is in force.
 
-                   A **_Nation Building Program Transport Development and Innovation Project_** is a project for which an approval by the Minister under subsection 29(1) is in force.
+##### <a id="29"></a>29  Approval of AusLink Transport Development and Innovation Projects
 
-##### <a id="29"></a>29  Approval of Nation Building Program Transport Development and Innovation Projects
-
-             (1)  The Minister may, in writing, approve a project as a Nation Building Program Transport Development and Innovation Project if, and only if:
+             (1)  The Minister may, in writing, approve a project as an AusLink Transport Development and Innovation Project if, and only if:
 
                      (a)  the Minister is satisfied that the project is eligible for approval (see section 30); and
 
@@ -942,7 +940,7 @@ where:
 
 ##### <a id="30"></a>30  What projects are eligible for approval?
 
-                   A project is eligible for approval as a Nation Building Program Transport Development and Innovation Project if the project is for either or both of the following:
+                   A project is eligible for approval as an AusLink Transport Development and Innovation Project if the project is for either or both of the following:
 
                      (a)  planning, research, investigations, studies or analysis of matters related to the present or future development or usage of the National Land Transport Network;
 
@@ -950,17 +948,17 @@ where:
 
 ##### <a id="31"></a>31  Is it appropriate to approve a project?
 
-                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as a Nation Building Program Transport Development and Innovation Project include, but are not limited to, the following matters:
+                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as an AusLink Transport Development and Innovation Project include, but are not limited to, the following matters:
 
                      (a)  the extent to which the project is likely to improve the efficiency, security or safety of transport operations on the National Land Transport Network;
 
                      (b)  the extent to which the project is likely to improve the economic, environmental or social impact or performance of the National Land Transport Network, or of transport operations on the Network;
 
-                     (c)  the extent to which the project is likely to assist better‑informed decision‑making in relation to future expenditure on Nation Building Program National Projects.
+                     (c)  the extent to which the project is likely to assist better-informed decision-making in relation to future expenditure on AusLink National Projects.
 
 ##### <a id="32"></a>32  Submission of particulars of projects
 
-             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as Nation Building Program Transport Development and Innovation Projects.
+             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as AusLink Transport Development and Innovation Projects.
 
              (2)  An invitation may be given:
 
@@ -968,13 +966,13 @@ where:
 
                      (b)  by any method that the Minister considers appropriate.
 
-             (3)  Subject to section 29, the Minister may approve a project as a Nation Building Program Transport Development and Innovation Project, whether or not particulars of the project were submitted in response to an invitation.
+             (3)  Subject to section 29, the Minister may approve a project as an AusLink Transport Development and Innovation Project, whether or not particulars of the project were submitted in response to an invitation.
 
-             (4)  The Minister is not required to consider a project for approval as a Nation Building Program Transport Development and Innovation Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
+             (4)  The Minister is not required to consider a project for approval as an AusLink Transport Development and Innovation Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
 
 ##### <a id="33"></a>33  Matters specified in project approval instrument
 
-             (1)  The project approval instrument for a Nation Building Program Transport Development and Innovation Project must:
+             (1)  The project approval instrument for an AusLink Transport Development and Innovation Project must:
 
                      (a)  identify the project; and
 
@@ -984,7 +982,7 @@ where:
 
                      (d)  if the approval is conditional on a funding agreement being entered into with the eligible funding recipient—contain a statement to that effect.
 
-             (2)  The project approval instrument for a Nation Building Program Transport Development and Innovation Project must state that the approval is conditional on a funding agreement being entered into with the eligible funding recipient, unless the recipient is:
+             (2)  The project approval instrument for an AusLink Transport Development and Innovation Project must state that the approval is conditional on a funding agreement being entered into with the eligible funding recipient, unless the recipient is:
 
                      (a)  a State; or
 
@@ -1002,11 +1000,11 @@ where:
 
 Note:          This subsection does not prevent the project approval instrument from stating that the approval is conditional on a funding agreement being entered into with a funding recipient of a kind referred to in paragraph (a), (b), (c) or (d).
 
-             (3)  The project approval instrument for a Nation Building Program Transport Development and Innovation Project may exclude one or more specified purposes from being purposes on which funding may be expended.
+             (3)  The project approval instrument for an AusLink Transport Development and Innovation Project may exclude one or more specified purposes from being purposes on which funding may be expended.
 
 ##### <a id="34"></a>34  Requirements with which funding agreements must comply
 
-                   If the project approval instrument for a Nation Building Program Transport Development and Innovation Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
+                   If the project approval instrument for an AusLink Transport Development and Innovation Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
 
                      (a)  the total amount of funding that the agreement provides for must not exceed the maximum funding amount specified in the project approval instrument; and
 
@@ -1014,7 +1012,7 @@ Note:          This subsection does not prevent the project ap
 
 ##### <a id="35"></a>35  Variation or revocation of project approval instrument
 
-             (1)  The Minister may, in writing, vary or revoke the project approval instrument for a Nation Building Program Transport Development and Innovation Project.
+             (1)  The Minister may, in writing, vary or revoke the project approval instrument for an AusLink Transport Development and Innovation Project.
 
              (2)  A variation may be of a matter dealt with in the project approval instrument before the variation, or to include a new matter in the project approval instrument. The instrument as varied must be consistent with section 33.
 
@@ -1026,9 +1024,9 @@ Note:          For example, the project approval instrument ma
 
 ### Division 2—Provision of Commonwealth funding
 
-##### <a id="36"></a>36  Commonwealth funding for Nation Building Program Transport Development and Innovation Projects
+##### <a id="36"></a>36  Commonwealth funding for AusLink Transport Development and Innovation Projects
 
-             (1)  Commonwealth funding for a Nation Building Program Transport Development and Innovation Project may be provided to the approved funding recipient:
+             (1)  Commonwealth funding for an AusLink Transport Development and Innovation Project may be provided to the approved funding recipient:
 
                      (a)  in accordance with section 37; or
 
@@ -1038,7 +1036,7 @@ Note:          For example, the project approval instrument ma
 
 ##### <a id="37"></a>37  Approval of provision of Commonwealth funding if no funding agreement
 
-             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for a Nation Building Program Transport Development and Innovation Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
+             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for an AusLink Transport Development and Innovation Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
 
              (2)  The funding is to be provided in one or more instalments paid to the approved funding recipient. Subject to subsection (3), the amount and timing of an instalment are as determined by the Minister.
 
@@ -1058,7 +1056,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
 ##### <a id="38"></a>38  Sources of conditions
 
-             (1)  The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for a Nation Building Program Transport Development and Innovation Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
+                   The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for an AusLink Transport Development and Innovation Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
 
                      (a)  the mandatory conditions (see Subdivision B); and
 
@@ -1067,8 +1065,6 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
                               (i)  if the funding payment is provided in accordance with section 37—the conditions (if any) determined under Subdivision C; or
 
                              (ii)  if the funding payment is provided in accordance with a funding agreement—the conditions specified in the funding agreement.
-
-             (2)  A funding agreement may specify a condition by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
 
 #### Subdivision B—The mandatory conditions
 
@@ -1128,9 +1124,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
              (4)  An instrument determining, varying or revoking conditions is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
 
-             (5)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, an instrument determining or varying conditions may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
-
-## Part 5—Nation Building Program funding for land transport research entities
+## Part 5—AusLink funding for land transport research entities
 
 ##### <a id="45"></a>45  Definitions
 
@@ -1142,7 +1136,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
                     <a name="fund-period"></a>**_funding period_**, in relation to a funding approval instrument, means the period identified in the instrument.
 
-                    <a name="land-transport-oper"></a>**_land transport operations_** means transport operations involving road or rail, including operations involving inter‑modal transfer facilities.
+                    <a name="land-transport-oper"></a>**_land transport operations_** means transport operations involving road or rail, including operations involving inter-modal transfer facilities.
 
                     <a name="land-transport-research-entiti"></a>**_land transport research entity_** means an eligible funding recipient whose functions include carrying out, arranging or assisting planning, research, investigations, studies or analysis of matters related to land transport operations.
 
@@ -1196,25 +1190,23 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
 ##### <a id="50"></a>50  Conditions of funding
 
-             (1)  The conditions that apply to a payment of funding under this Part are the conditions specified in the relevant funding agreement.
-
-             (2)  A funding agreement may specify a condition by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
+                   The conditions that apply to a payment of funding under this Part are the conditions specified in the relevant funding agreement.
 
 ##### <a id="51"></a>51  Relationship with Part 4
 
                    This Part does not limit, and is not limited by, Part 4.
 
-## Part 6—Nation Building Program Off‑Network Projects
+## Part 6—AusLink Strategic Regional Projects
 
-### Division 1—Approval of projects as Nation Building Program Off‑Network Projects
+### Division 1—Approval of projects as AusLink Strategic Regional Projects
 
-##### <a id="52"></a>52  What is a Nation Building Program Off‑Network Project?
+##### <a id="52"></a>52  What is an AusLink Strategic Regional Project?
 
-                   A **_Nation Building Program Off‑Network Project_** is a project for which an approval by the Minister under subsection 53(1) is in force.
+                   An **_AusLink Strategic Regional Project_** is a project for which an approval by the Minister under subsection 53(1) is in force.
 
-##### <a id="53"></a>53  Approval of Nation Building Program Off‑Network Projects
+##### <a id="53"></a>53  Approval of AusLink Strategic Regional Projects
 
-             (1)  The Minister may, in writing, approve a project as a Nation Building Program Off‑Network Project if, and only if:
+             (1)  The Minister may, in writing, approve a project as an AusLink Strategic Regional Project if, and only if:
 
                      (a)  the Minister is satisfied that the project is eligible for approval (see section 54); and
 
@@ -1224,7 +1216,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
 ##### <a id="54"></a>54  What projects are eligible for approval?
 
-                   A project is eligible for approval as a Nation Building Program Off‑Network Project if the project is for one or more of the following:
+                   A project is eligible for approval as an AusLink Strategic Regional Project if the project is for one or more of the following:
 
                      (a)  the construction of an existing or proposed road, in a State or Indian Ocean Territory, that is not included in the National Land Transport Network;
 
@@ -1236,23 +1228,25 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
                      (c)  the construction of an existing or proposed railway, in a State or Indian Ocean Territory, that is not included in the National Land Transport Network;
 
-                     (d)  the construction  of an existing or proposed inter‑modal transfer facility, in a State or Indian Ocean Territory, that is not included in the National Land Transport Network;
+                     (d)  the construction  of an existing or proposed inter-modal transfer facility, in a State or Indian Ocean Territory, that is not included in the National Land Transport Network;
 
                      (e)  the acquisition or application of technology that will, or may, contribute to the efficiency, security or  safety of transport operations in a State or Indian Ocean Territory.
 
-Note:          The definition of **_construction_** in section 4 covers some kinds of work on an existing road, railway or inter‑modal transfer facility (hence the references above to the construction of an existing road, railway or inter‑modal transfer facility).
+Note:          The definition of **_construction_** in section 4 covers some kinds of work on an existing road, railway or inter-modal transfer facility (hence the references above to the construction of an existing road, railway or inter-modal transfer facility).
 
 ##### <a id="55"></a>55  Is it appropriate to approve a project?
 
-                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as a Nation Building Program Off‑Network Project include, but are not limited to, the following matters:
+                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as an AusLink Strategic Regional Project include, but are not limited to, the following matters:
 
-                     (a)  the extent to which the project is likely to improve the ability of industries and communities to compete in international, inter‑State or inter‑regional trade and commerce;
+                     (a)  the extent to which the project is likely to improve the ability of regional industries and communities to compete in international, inter-State or inter-regional trade and commerce;
+
+                     (b)  the extent to which the project is likely to improve a road, railway or inter-modal transfer facility that is regionally significant;
 
                      (c)  the results of any assessment of the economic, environmental or social costs or benefits of the project;
 
                      (d)  the extent to which the project will improve the safety of transport operations;
 
-                     (e)  the extent to which the project is likely to improve access for communities to services and employment;
+                     (e)  the extent to which the project is likely to improve access for regional communities to services and employment;
 
                       (f)  for projects that relate to roads in areas for which no local government authority has responsibility—the extent to which the project will improve or maintain the serviceability of a road in such an area;
 
@@ -1260,7 +1254,7 @@ Note:          The definition of **_construction_** in section
 
 ##### <a id="56"></a>56  Submission of particulars of projects
 
-             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as Nation Building Program Off‑Network Projects.
+             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as AusLink Strategic Regional Projects.
 
              (2)  An invitation may be given:
 
@@ -1268,13 +1262,13 @@ Note:          The definition of **_construction_** in section
 
                      (b)  by any method that the Minister considers appropriate.
 
-             (3)  Subject to section 53, the Minister may approve a project as a Nation Building Program Off‑Network Project, whether or not particulars of the project were submitted in response to an invitation.
+             (3)  Subject to section 53, the Minister may approve a project as an AusLink Strategic Regional Project, whether or not particulars of the project were submitted in response to an invitation.
 
-             (4)  The Minister is not required to consider a project for approval as a Nation Building Program Off‑Network Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
+             (4)  The Minister is not required to consider a project for approval as an AusLink Strategic Regional Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
 
 ##### <a id="57"></a>57  Matters specified in project approval instrument
 
-             (1)  The project approval instrument for a Nation Building Program Off‑Network Project must:
+             (1)  The project approval instrument for an AusLink Strategic Regional Project must:
 
                      (a)  identify the project; and
 
@@ -1284,7 +1278,7 @@ Note:          The definition of **_construction_** in section
 
                      (d)  if the approval is conditional on a funding agreement being entered into with the eligible funding recipient—contain a statement to that effect.
 
-             (2)  The project approval instrument for a Nation Building Program Off‑Network Project must state that the approval is conditional on a funding agreement being entered into with the eligible funding recipient, unless the recipient is:
+             (2)  The project approval instrument for an AusLink Strategic Regional Project must state that the approval is conditional on a funding agreement being entered into with the eligible funding recipient, unless the recipient is:
 
                      (a)  a State; or
 
@@ -1302,11 +1296,11 @@ Note:          The definition of **_construction_** in section
 
 Note:          This subsection does not prevent the project approval instrument from stating that the approval is conditional on a funding agreement being entered into with a funding recipient of a kind referred to in paragraph (a), (b), (c) or (d).
 
-             (3)  The project approval instrument for a Nation Building Program Off‑Network Project may exclude one or more specified purposes from being purposes on which funding may be expended.
+             (3)  The project approval instrument for an AusLink Strategic Regional Project may exclude one or more specified purposes from being purposes on which funding may be expended.
 
 ##### <a id="58"></a>58  Requirements with which funding agreements must comply
 
-                   If the project approval instrument for a Nation Building Program Off‑Network Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
+                   If the project approval instrument for an AusLink Strategic Regional Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
 
                      (a)  the total amount of funding that the agreement provides for must not exceed the maximum funding amount specified in the project approval instrument; and
 
@@ -1314,7 +1308,7 @@ Note:          This subsection does not prevent the project ap
 
 ##### <a id="59"></a>59  Variation or revocation of project approval instrument
 
-             (1)  The Minister may, in writing, vary or revoke the project approval instrument for a Nation Building Program Off‑Network Project.
+             (1)  The Minister may, in writing, vary or revoke the project approval instrument for an AusLink Strategic Regional Project.
 
              (2)  A variation may be of a matter dealt with in the project approval instrument before the variation, or to include a new matter in the project approval instrument. The instrument as varied must be consistent with section 57.
 
@@ -1326,9 +1320,9 @@ Note:          For example, the project approval instrument ma
 
 ### Division 2—Provision of Commonwealth funding
 
-##### <a id="60"></a>60  Commonwealth funding for Nation Building Program Off‑Network Projects
+##### <a id="60"></a>60  Commonwealth funding for AusLink Strategic Regional Projects
 
-             (1)  Commonwealth funding for a Nation Building Program Off‑Network Project may be provided to the approved funding recipient:
+             (1)  Commonwealth funding for an AusLink Strategic Regional Project may be provided to the approved funding recipient:
 
                      (a)  in accordance with section 61; or
 
@@ -1338,7 +1332,7 @@ Note:          For example, the project approval instrument ma
 
 ##### <a id="61"></a>61  Approval of provision of Commonwealth funding if no funding agreement
 
-             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for a Nation Building Program Off‑Network Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
+             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for an AusLink Strategic Regional Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
 
              (2)  The funding is to be provided in one or more instalments paid to the approved funding recipient. Subject to subsection (3), the amount and timing of an instalment are as determined by the Minister.
 
@@ -1358,7 +1352,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
 ##### <a id="62"></a>62  Sources of conditions
 
-             (1)  The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for a Nation Building Program Off‑Network Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
+             (1)  The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for an AusLink Strategic Regional Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
 
                      (a)  the mandatory conditions (see Subdivision B); and
 
@@ -1368,9 +1362,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
                              (ii)  if the funding payment is provided in accordance with a funding agreement—the conditions specified in the funding agreement.
 
-             (2)  A funding agreement entered into with a local government authority, in relation to the provision of funding to the body for a Nation Building Program Off‑Network Project, must include a condition that requires the body to maintain the level of its expenditure on roads, so far as that expenditure comes from sources other than Commonwealth, State or Territory funding.
-
-             (3)  A funding agreement may specify a condition by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
+             (2)  A funding agreement entered into with a local government authority, in relation to the provision of funding to the body for an AusLink Strategic Regional Project, must include a condition that requires the body to maintain the level of its expenditure on roads, so far as that expenditure comes from sources other than Commonwealth, State or Territory funding.
 
 #### Subdivision B—The mandatory conditions
 
@@ -1432,19 +1424,17 @@ Note:          The Minister may, for example, determine a cond
 
              (4)  An instrument determining, varying or revoking conditions is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
 
-             (5)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, an instrument determining or varying conditions may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
+## Part 7—AusLink Black Spot Projects
 
-## Part 7—Nation Building Program Black Spot Projects
+### Division 1—Approval of projects as AusLink Black Spot Projects
 
-### Division 1—Approval of projects as Nation Building Program Black Spot Projects
+##### <a id="69"></a>69  What is an AusLink Black Spot Project?
 
-##### <a id="69"></a>69  What is a Nation Building Program Black Spot Project?
+                   An **_AusLink Black Spot Project_** is a project for which an approval by the Minister under subsection 70(1) is in force.
 
-                   A **_Nation Building Program Black Spot Project_** is a project for which an approval by the Minister under subsection 70(1) is in force.
+##### <a id="70"></a>70  Approval of AusLink Black Spot Projects
 
-##### <a id="70"></a>70  Approval of Nation Building Program Black Spot Projects
-
-             (1)  The Minister may, in writing, approve a project as a Nation Building Program Black Spot Project if, and only if:
+             (1)  The Minister may, in writing, approve a project as an AusLink Black Spot Project if, and only if:
 
                      (a)  the Minister is satisfied that the project is eligible for approval (see section 71); and
 
@@ -1454,17 +1444,19 @@ Note:          The Minister may, for example, determine a cond
 
 ##### <a id="71"></a>71  What projects are eligible for approval?
 
-                   A project is eligible for approval as a Nation Building Program Black Spot Project if:
+                   A project is eligible for approval as an AusLink Black Spot Project if:
 
                      (a)  the project is for the improvement of road safety of a site (being all or part of any road); and
 
                      (b)  the site is in a State; and
 
-                     (c)  the nature of the site has contributed to, or is likely to contribute to, serious motor vehicle crashes involving death or personal injury.
+                     (c)  the nature of the site has contributed to, or is likely to contribute to, serious motor vehicle crashes involving death or personal injury; and
+
+                     (d)  the site is not included in the National Land Transport Network.
 
 ##### <a id="72"></a>72  Is it appropriate to approve a project?
 
-                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as a Nation Building Program Black Spot Project include, but are not limited to, the following matters:
+                   The matters to which the Minister may have regard in deciding whether it is appropriate to approve a project as an AusLink Black Spot Project include, but are not limited to, the following matters:
 
                      (a)  the accident history of the site to which the project relates;
 
@@ -1476,7 +1468,7 @@ Note:          The Minister may, for example, determine a cond
 
 ##### <a id="73"></a>73  Submission of particulars of projects
 
-             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as Nation Building Program Black Spot Projects.
+             (1)  The Minister may invite the submission of particulars of projects for consideration for approval as AusLink Black Spot Projects.
 
              (2)  An invitation may be given:
 
@@ -1484,13 +1476,13 @@ Note:          The Minister may, for example, determine a cond
 
                      (b)  by any method that the Minister considers appropriate.
 
-             (3)  Subject to section 70, the Minister may approve a project as a Nation Building Program Black Spot Project, whether or not particulars of the project were submitted in response to an invitation.
+             (3)  Subject to section 70, the Minister may approve a project as an AusLink Black Spot Project, whether or not particulars of the project were submitted in response to an invitation.
 
-             (4)  The Minister is not required to consider a project for approval as a Nation Building Program Black Spot Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
+             (4)  The Minister is not required to consider a project for approval as an AusLink Black Spot Project unless such particulars of the project as the Minister requires have been submitted to the Minister.
 
 ##### <a id="74"></a>74  Matters specified in project approval instrument
 
-             (1)  The project approval instrument for a Nation Building Program Black Spot Project must:
+             (1)  The project approval instrument for an AusLink Black Spot Project must:
 
                      (a)  identify the project; and
 
@@ -1500,11 +1492,11 @@ Note:          The Minister may, for example, determine a cond
 
                      (d)  if the approval is conditional on a funding agreement being entered into with the eligible funding recipient—contain a statement to that effect.
 
-             (2)  The project approval instrument for a Nation Building Program Black Spot Project may exclude one or more specified purposes from being purposes on which funding may be expended.
+             (2)  The project approval instrument for an AusLink Black Spot Project may exclude one or more specified purposes from being purposes on which funding may be expended.
 
 ##### <a id="75"></a>75  Requirements with which funding agreements must comply
 
-                   If the project approval instrument for a Nation Building Program Black Spot Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
+                   If the project approval instrument for an AusLink Black Spot Project states that the approval is conditional on a funding agreement being entered into with the approved funding recipient:
 
                      (a)  the total amount of funding that the agreement provides for must not exceed the maximum funding amount specified in the project approval instrument; and
 
@@ -1512,7 +1504,7 @@ Note:          The Minister may, for example, determine a cond
 
 ##### <a id="76"></a>76  Variation or revocation of project approval instrument
 
-             (1)  The Minister may, in writing, vary or revoke the project approval instrument for a Nation Building Program Black Spot Project.
+             (1)  The Minister may, in writing, vary or revoke the project approval instrument for an AusLink Black Spot Project.
 
              (2)  A variation may be of a matter dealt with in the project approval instrument before the variation, or to include a new matter in the project approval instrument. The instrument as varied must be consistent with section 74.
 
@@ -1524,9 +1516,9 @@ Note:          For example, the project approval instrument ma
 
 ### Division 2—Provision of Commonwealth funding
 
-##### <a id="77"></a>77  Commonwealth funding for Nation Building Program Black Spot Projects
+##### <a id="77"></a>77  Commonwealth funding for AusLink Black Spot Projects
 
-             (1)  Commonwealth funding for a Nation Building Program Black Spot Project may be provided to the approved funding recipient:
+             (1)  Commonwealth funding for an AusLink Black Spot Project may be provided to the approved funding recipient:
 
                      (a)  in accordance with section 78; or
 
@@ -1536,7 +1528,7 @@ Note:          For example, the project approval instrument ma
 
 ##### <a id="78"></a>78  Approval of provision of Commonwealth funding if no funding agreement
 
-             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for a Nation Building Program Black Spot Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
+             (1)  The Minister may, in writing, approve the provision of Commonwealth funding for an AusLink Black Spot Project to the approved funding recipient. The Minister may, in writing, vary or revoke the approval.
 
              (2)  The funding is to be provided in one or more instalments paid to the approved funding recipient. Subject to subsection (3), the amount and timing of an instalment are as determined by the Minister.
 
@@ -1556,7 +1548,7 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
 ##### <a id="79"></a>79  Sources of conditions
 
-             (1)  The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for a Nation Building Program Black Spot Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
+                   The conditions that apply to a payment (the **_funding payment_**) of Commonwealth funding for an AusLink Black Spot Project (the **_funded project_**) to an eligible funding recipient (the **_funding recipient_**) are:
 
                      (a)  the mandatory conditions (see Subdivision B); and
 
@@ -1566,15 +1558,13 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
                              (ii)  if the funding payment is provided in accordance with a funding agreement—the conditions specified in the funding agreement.
 
-             (2)  A funding agreement may specify a condition by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
-
 #### Subdivision B—The mandatory conditions
 
 ##### <a id="80"></a>80  This Subdivision sets out the mandatory conditions
 
                    The mandatory conditions are as set out in this Subdivision.
 
-##### <a id="81"></a>81  Funding payment must be expended on the funded project
+##### <a id="81"></a>81  Funding payment must be expended on the funded project
 
                    The funding payment must be wholly expended on approved purposes in relation to the funded project.
 
@@ -1634,15 +1624,15 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
              (4)  An instrument determining, varying or revoking conditions is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
 
-             (5)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, an instrument determining or varying conditions may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
+## Part 8—AusLink Roads to Recovery Program
 
-## Part 8—Nation Building Program Roads to Recovery Program
+##### <a id="87"></a>87  Minister to publish AusLink Roads to Recovery List
 
-##### <a id="87"></a>87  Nation Building Program Roads to Recovery List
+             (1)  Before, or as soon as practicable after, the start of each AusLink Roads to Recovery funding period, the Minister must, by legislative instrument, determine a list (an **_AusLink Roads to Recovery List_**) for the funding period.
 
-                   The Nation Building Program Roads to Recovery List must:
+             (2)  The AusLink Roads to Recovery List must:
 
-                     (a)  specify the amounts of Commonwealth funding that are to be provided under the Nation Building Program Roads to Recovery Program during the funding period; and
+                     (a)  specify the amounts of Commonwealth funding that are to be provided under the AusLink Roads to Recovery Program during the funding period; and
 
                      (b)  in relation to each of those amounts, either:
 
@@ -1650,11 +1640,13 @@ is not a legislative instrument for the purposes of the _Legislative Instruments
 
                              (ii)  state that the amount is specified on account of a particular State, or a particular area of a State, but the persons or bodies that are to receive the amount have not yet been decided.
 
-##### <a id="88"></a>88  Variation of Nation Building Program Roads to Recovery List
+             (3)  Section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to a determination made under subsection (1).
+
+##### <a id="88"></a>88  Variation of AusLink Roads to Recovery List
 
              (1)  If:
 
-                     (a)  a person or body (the **_named recipient_**) specified in a Nation Building Program Roads to Recovery List ceases to exist before receiving the full amount (the **_named recipient’s amount_**) specified for the named recipient in the List; and
+                     (a)  a person or body (the **_named recipient_**) specified in an AusLink Roads to Recovery List ceases to exist before receiving the full amount (the **_named recipient’s amount_**) specified for the named recipient in the List; and
 
                      (b)  the Minister considers that one or more other persons or bodies have taken over the responsibilities of the named recipient;
 
@@ -1662,7 +1654,7 @@ the Minister may, in writing, vary the List to redirect some or all of the remai
 
              (2)  If the Minister considers that:
 
-                     (a)  the amount specified in a Nation Building Program Roads to Recovery List for a person or body (the **_named recipient_**) was wholly or partly on account of a particular area for which the named recipient was responsible; and
+                     (a)  the amount specified in an AusLink Roads to Recovery List for a person or body (the **_named recipient_**) was wholly or partly on account of a particular area for which the named recipient was responsible; and
 
                      (b)  before the named recipient receives the full amount (the **_named recipient’s amount_**) specified for the named recipient in the List, one or more other persons or bodies takes over responsibility for all or part of that area;
 
@@ -1670,25 +1662,23 @@ the Minister may, in writing, vary the List to redirect some or all of the remai
 
           (2A)  If:
 
-                     (a)  a Nation Building Program Roads to Recovery List includes a statement referred to in subparagraph 87(b)(ii) in relation to an amount; and
+                     (a)  an AusLink Roads to Recovery List includes a statement referred to in subparagraph 87(2)(b)(ii) in relation to an amount; and
 
                      (b)  the Minister considers that one or more persons or bodies are or will become responsible for all or part of the State or area referred to in the statement;
 
 the Minister may, in writing, vary the List to direct some or all of the amount to the person or body, or to one or more of the persons or bodies.
 
-          (2B)  If an amount is specified in a Nation Building Program Roads to Recovery List in relation to a person or body, the Minister may, in writing, vary the List to increase that amount.
+             (3)  The Minister may, in writing, vary an AusLink Roads to Recovery List to correct an error or to update the name of a person or body specified in the List.
 
-             (3)  The Minister may, in writing, vary a Nation Building Program Roads to Recovery List to correct an error or to update the name of a person or body specified in the List.
+             (4)  The Minister cannot vary an AusLink Roads to Recovery List except as permitted by subsection (1), (2), (2A) or (3).
 
-             (4)  The Minister cannot vary a Nation Building Program Roads to Recovery List except as permitted by subsection (1), (2), (2A), (2B) or (3).
+             (5)  An instrument varying an AusLink Roads to Recovery List is a legislative instrument, but section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the instrument.
 
-             (5)  An instrument varying a Nation Building Program Roads to Recovery List is a legislative instrument, but section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the instrument.
+             (6)  The Minister cannot revoke an AusLink Roads to Recovery List.
 
-             (6)  The Minister cannot revoke a Nation Building Program Roads to Recovery List.
+##### <a id="89"></a>89  Payments to persons and bodies specified in AusLink Roads to Recovery List
 
-##### <a id="89"></a>89  Payments to persons and bodies specified in Nation Building Program Roads to Recovery List
-
-             (1)  Subject to this section and to section 92, each amount specified in a Nation Building Program Roads to Recovery List for a Nation Building Program Roads to Recovery funding period is payable to the person or body (if any) specified in the List for that amount.
+             (1)  Subject to this section and to section 92, each amount specified in an AusLink Roads to Recovery List for an AusLink Roads to Recovery funding period is payable to the person or body (if any) specified in the List for that amount.
 
              (2)  The amount is payable in one or more instalments. The amounts and timing of instalments are as determined by the Minister.
 
@@ -1719,8 +1709,6 @@ the Minister may, in writing, vary the List to direct some or all of the amount 
              (5)  The Minister may, in writing, vary or revoke any of the conditions.
 
              (6)  An instrument determining, varying or revoking conditions is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_, but neither section 42 nor Part 6 of that Act applies to the instrument.
-
-             (7)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, an instrument determining or varying conditions may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
 
 ##### <a id="91"></a>91  Minister’s power to waive conditions etc.
 
@@ -1768,17 +1756,17 @@ the Minister may, in writing, vary the List to direct some or all of the amount 
 
 ##### <a id="96"></a>96  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Nation Building Program (National Land Transport) Act 2009_
+# Notes to the _AusLink (National Land Transport) Act 2005_
 
 ### Note 1
 
-The _Nation Building Program (National Land Transport) Act 2009_ as shown in this compilation comprises Act No. 93, 2005 amended as indicated in the Tables below.
+The _AusLink (National Land Transport) Act 2005_ as shown in this compilation comprises Act No. 93, 2005 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1848,24 +1836,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 4)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Nation Building Program (National Land Transport) Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>56, 2009</div>
-  </td>
-  <td>
-    <div>26 June 2009</div>
-  </td>
-  <td>
-    <div>27 June 2009</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-113–122)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1901,570 +1871,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 106, 2008; No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9–15</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 16</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16, 17</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24, 25</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 29</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29–35</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 36</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36, 37</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 5</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 6</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 6</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 52</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 53</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 53–59</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 60</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 60, 61</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 7</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 7</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 69</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 70</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70–76</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 77</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 77, 78</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
+    <div>am. No. 106, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2477,22 +1887,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 8</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 87</div>
-  </td>
-  <td>
-    <div>rs. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 87</div>
   </td>
   <td>
@@ -2501,50 +1895,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Ss. 88, 89</div>
   </td>
   <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 88</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 106, 2008; No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 89</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 106, 2008; No. 56, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2009</div>
+    <div>am. No. 106, 2008</div>
   </td>
 </tr></table>
 
@@ -2558,163 +1912,8 @@ _AusLink (National Land Transport) Amendment Act 2008 (No. 106, 2008)_
 
 ## 4  Saving
 
-(1)       This item applies if, immediately before the commencement of this item, an AusLink Roads to Recovery List made under section 87 of the _AusLink (National Land Transport) Act 2005_ was in force.
+(1)        This item applies if, immediately before the commencement of this item, an AusLink Roads to Recovery List made under section 87 of the _AusLink (National Land Transport) Act 2005_ was in force.
 
-(2)       The AusLink Roads to Recovery List has effect, from the commencement of this item, as if it had been made under that section, as amended by this Schedule, for the AusLink Roads to Recovery funding period starting on 1 July 2005 and ending on 30 June 2009.
-
-* * *
-
-_Nation Building Program (National Land Transport) Amendment Act 2009 
- (No. 56, 2009)_
-
-## Schedule 1
-
-## 113  Definitions
-
-In this Part:
-
-**_new law_** means the _Nation Building Program (National Land Transport) Act 2009_.
-
-**_old law_** means the _AusLink (National Land Transport) Act 2005_.
-
-## 114  Application—public tenders for certain work
-
-The amendments made by items 34 to 38 apply in relation to projects approved on or after the commencement of those items.
-
-## 115  Transitional—National Land Transport Network
-
-(1)       An instrument in force under section 5 of the old law  immediately before the commencement of this item has effect, on and after that commencement, as if it were an instrument in force under section 5 of the new law.
-
-(2)       Subitem (1) does not prevent a variation of that instrument on or after the commencement of this item.
-
-## 116  Transitional—National Projects
-
-Part 3 instruments
-
-(1)       An instrument in force under Part 3 of the old law  immediately before the commencement of this item in relation to a project that was an AusLink National Project has effect, on and after that commencement, as if:
-
-                     (a)  that project were a Nation Building Program National Project; and
-
-                     (b)  that instrument were in force under Part 3 of the new law in relation to that Nation Building Program National Project.
-
-(2)       Subitem (1) does not prevent a variation or revocation of that instrument on or after the commencement of this item.
-
-Funding agreement
-
-(3)       A funding agreement in force in relation to the AusLink National Project immediately before the commencement of this item has effect, on and after that commencement, as if it were a funding agreement in force in relation to the Nation Building Program National Project.
-
-(4)       Subitem (3) does not prevent a variation or termination of that agreement on or after the commencement of this item.
-
-Funding conditions
-
-(5)       The conditions that applied under section 18 of the old law to a payment of Commonwealth funding for the AusLink National Project that was made before the commencement of this item continue to apply on and after that commencement.
-
-## 117  Transitional—Transport Development and Innovation Projects
-
-Part 4 instruments
-
-(1)       An instrument in force under Part 4 of the old law  immediately before the commencement of this item in relation to a project that was an AusLink Transport Development and Innovation Project has effect, on and after that commencement, as if:
-
-                     (a)  that project were a Nation Building Program Transport Development and Innovation Project; and
-
-                     (b)  that instrument were in force under Part 4 of the new law in relation to that Nation Building Program Transport Development and Innovation Project.
-
-(2)       Subitem (1) does not prevent a variation or revocation of that instrument on or after the commencement of this item.
-
-Funding agreement
-
-(3)       A funding agreement in force in relation to the AusLink Transport Development and Innovation Project immediately before the commencement of this item has effect, on and after that commencement, as if it were a funding agreement in force in relation to the Nation Building Program Transport Development and Innovation Project.
-
-(4)       Subitem (3) does not prevent a variation or termination of that agreement on or after the commencement of this item.
-
-Funding conditions
-
-(5)       The conditions that applied under section 38 of the old law to a payment of Commonwealth funding for the AusLink Transport Development and Innovation Project that was made before the commencement of this item continue to apply on and after that commencement.
-
-## 118  Transitional—land transport research entities
-
-Part 5 instruments
-
-(1)       An instrument in force under Part 5 of the old law  immediately before the commencement of this item has effect, on and after that commencement, as if it were an instrument in force under Part 5 of the new law.
-
-(2)       Subitem (1) does not prevent a variation or revocation of that instrument on or after the commencement of this item.
-
-Funding agreement
-
-(3)       A funding agreement in force for the purposes of Part 5 of the old law immediately before the commencement of this item has effect, on and after that commencement, as if it were a funding agreement in force for the purposes of Part 5 of the new law.
-
-(4)       Subitem (3) does not prevent a variation or termination of that agreement on or after the commencement of this item.
-
-Funding conditions
-
-(5)       The conditions that applied under section 50 of the old law to a payment of funding under Part 5 of the old law that was made before the commencement of this item continue to apply on and after that commencement.
-
-## 119  Transitional—Strategic Regional Projects
-
-Part 6 instruments
-
-(1)       An instrument in force under Part 6 of the old law  immediately before the commencement of this item in relation to a project that was an AusLink Strategic Regional Project has effect, on and after that commencement, as if:
-
-                     (a)  that project were a Nation Building Program Off‑Network Project; and
-
-                     (b)  that instrument were in force under Part 6 of the new law in relation to that Nation Building Program Off‑Network Project.
-
-(2)       Subitem (1) does not prevent a variation or revocation of that instrument on or after the commencement of this item.
-
-Funding agreement
-
-(3)       A funding agreement in force in relation to the AusLink Strategic Regional Project immediately before the commencement of this item has effect, on and after that commencement, as if it were a funding agreement in force in relation to the Nation Building Program Off‑Network Project.
-
-(4)       Subitem (3) does not prevent a variation or termination of that agreement on or after the commencement of this item.
-
-Funding conditions
-
-(5)       The conditions that applied under section 62 of the old law to a payment of Commonwealth funding for the AusLink Strategic Regional Project that was made before the commencement of this item continue to apply on and after that commencement.
-
-## 120  Transitional—Black Spot Projects
-
-Part 7 instruments
-
-(1)       An instrument in force under Part 7 of the old law  immediately before the commencement of this item in relation to a project that was an AusLink Black Spot Project has effect, on and after that commencement, as if:
-
-                     (a)  that project were a Nation Building Program Black Spot Project; and
-
-                     (b)  that instrument were in force under Part 7 of the new law in relation to that Nation Building Program Black Spot Project.
-
-(2)       Subitem (1) does not prevent a variation or revocation of that instrument on or after the commencement of this item.
-
-Funding agreement
-
-(3)       A funding agreement in force in relation to the AusLink Black Spot Project immediately before the commencement of this item has effect, on and after that commencement, as if it were a funding agreement in force in relation to the Nation Building Program Black Spot Project.
-
-(4)       Subitem (3) does not prevent a variation or termination of that agreement on or after the commencement of this item.
-
-Funding conditions
-
-(5)       The conditions that applied under section 79 of the old law to a payment of Commonwealth funding for the AusLink Black Spot Project that was made before the commencement of this item continue to apply on and after that commencement.
-
-## 121  Transitional—Roads to Recovery Program
-
-1 July 2005 to 30 June 2009 funding period
-
-(1)       The old law, as in force immediately before the commencement of this item, continues to apply on and after that commencement in relation to a payment made under Part 8 of the old law during the AusLink Roads to Recovery funding period starting on 1 July 2005.
-
-_Note:       For example, this means that the conditions determined under section 90 of the old law would continue to apply to such a payment and amounts would be able to be recovered under section 92 of the old law._
-
-1 July 2009 to 30 June 2014 funding period
-
-(2)       The Nation Building Program Roads to Recovery List has effect as if the amounts of Commonwealth funding specified in it were amounts to be provided under the Nation Building Program Roads to Recovery Program during the Nation Building Program Roads to Recovery funding period.
-
-(3)       Conditions determined under section 90 of the old law before the commencement of this item to apply in relation to payments to be made under Part 8 of the old law during the period starting on 1 July 2009 and ending on 30 June 2014 continue to apply on and after that commencement as if they had been determined under section 90 of the new law to apply to payments under Part 8 of the new law during that period.
-
-(4)       Subitem (3) does not prevent a variation or revocation of those conditions on or after the commencement of this item.
-
-(5)       A notice in force under subsection 91(1) or (2) of the old law immediately before the commencement of this item in relation to a payment to be made to a person or body under Part 8 of the old law during the period starting on 1 July 2009 and ending on 30 June 2014 has effect, on and after that commencement, as if it were a notice in force under subsection 91(1) or (2) of the new law in relation to a payment to the person or body under Part 8 of the new law during that period.
-
-(6)       Subitem (5) does not prevent the revocation of an exemption, or the variation or revocation of a replacement condition, on or after the commencement of this item.
-
-## 122  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments made by this Act.
+(2)        The AusLink Roads to Recovery List has effect, from the commencement of this item, as if it had been made under that section, as amended by this Schedule, for the AusLink Roads to Recovery funding period starting on 1 July 2005 and ending on 30 June 2009.
 
  
