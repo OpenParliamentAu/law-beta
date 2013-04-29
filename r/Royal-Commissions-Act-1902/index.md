@@ -1,104 +1,106 @@
-![](http://www.comlaw.gov.au/Details/C2006C00707/Html/RoyalComm1902_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00446/Html/73CEAC6BD98471A5CA2571AE000CF97D/$FILE/image001.gif)
 
 # Royal Commissions Act 1902
 
 **Act No. 12 of 1902 as amended**
 
-This compilation was prepared on 14 December 2006
- taking into account amendments up to Act No. 167 of 2006
+This compilation was prepared on 13 July 2006
+taking into account amendments up to Act No. 86 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[1A](#1A).         Power to issue Royal Commission
+[1A](#1A).         Power to issue Royal Commission                                                      1
 
-[1B](#1B).         Definitions
+[1B](#1B).         Definitions                                                                                           1
 
-[1C](#1C).         Application of the _Criminal Code_
+[1C](#1C).         Application of the _Criminal Code_                                                       2
 
-[2](#2).            Power to summon witnesses and take evidence
+[2](#2).            Power to summon witnesses and take evidence                                  3
 
-[3](#3).            Failure of witnesses to attend or produce documents
+[3](#3).            Failure of witnesses to attend or produce documents                         4
 
-[4](#4).            Search warrants
+[4](#4).            Search warrants                                                                                    5
 
-[5](#5).            Application by telephone for search warrants
+[5](#5).            Application by telephone for search warrants                                    7
 
-[6](#6).            Penalty for refusing to be sworn or to give evidence
+[6](#6).            Penalty for refusing to be sworn or to give evidence                           7
 
-[6AA](#6AA).      Legal professional privilege
+[6AA](#6AA).      Legal professional privilege                                                                 7
 
-[6AB](#6AB).      Offences relating to claims for legal professional privilege
+[6AB](#6AB).      Offences relating to claims for legal professional privilege                  9
 
-[6A](#6A).         Self incrimination
+[6A](#6A).         Self incrimination                                                                                 9
 
-[6B](#6B).         Arrest of witness failing to appear
+[6B](#6B).         Arrest of witness failing to appear                                                    10
 
-[6C](#6C).         Acts or omissions on different days to constitute separate offences
+[6C](#6C).         Acts or omissions on different days to constitute separate offences 11
 
-[6D](#6D).         Rights of witness
+[6D](#6D).         Rights of witness                                                                               11
 
-[6DD](#6DD).      Statements made by witness not admissible in evidence against the witness
+[6DD](#6DD).      Statements made by witness not admissible in evidence against the witness          12
 
-[6F](#6F).          Power of Commission in relation to documents and other things
+[6F](#6F).          Power of Commission in relation to documents and other things     12
 
-[6FA](#6FA).       Examination of witnesses by counsel etc 
+[6FA](#6FA).       Examination of witnesses by counsel etc                                          13
 
-[6G](#6G).         Witness to be paid expenses
+[6G](#6G).         Witness to be paid expenses                                                              13
 
-[6H](#6H).         False or misleading evidence
+[6H](#6H).         False or misleading evidence                                                              14
 
-[6I](#6I).           Bribery of witness
+[6I](#6I).           Bribery of witness                                                                             14
 
-[6J](#6J).          Fraud on witness
+[6J](#6J).          Fraud on witness                                                                               15
 
-[6K](#6K).         Destroying documents or other things
+[6K](#6K).         Destroying documents or other things                                              16
 
-[6L](#6L).          Preventing witness from attending
+[6L](#6L).          Preventing witness from attending                                                    16
 
-[6M](#6M).        Injury to witness
+[6M](#6M).        Injury to witness                                                                               17
 
-[6N](#6N).         Dismissal by employers of witness
+[6N](#6N).         Dismissal by employers of witness                                                  17
 
-[6O](#6O).         Contempt of Royal Commission
+[6O](#6O).         Contempt of Royal Commission                                                       18
 
-[6P](#6P).          Commission may communicate information
+[6P](#6P).          Commission may communicate information                                     18
 
-[7](#7).            Protection to Commissioners etc 
+[7](#7).            Protection to Commissioners etc                                                       19
 
-[7AA](#7AA).      Commission may have concurrent functions and powers under State laws
+[7AA](#7AA).      Commission may have concurrent functions and powers under State laws            20
 
-[7A](#7A).         Effect of Royal Commissioner having authority to inquire under foreign law
+[7A](#7A).         Effect of Royal Commissioner having authority to inquire under foreign law        20
 
-[7B](#7B).         Commission may take evidence outside Australia
+[7B](#7B).         Commission may take evidence outside Australia                            21
 
-[7C](#7C).         Statements made by witness not admissible in evidence against the witness
+[7C](#7C).         Statements made by witness not admissible in evidence against the witness          21
 
-[7D](#7D).         Certain evidence before a State Commission inadmissible in Commonwealth proceedings
+[7D](#7D).         Certain evidence before a State Commission inadmissible in Commonwealth proceedings    22
 
-[8](#8).            Allowances to witnesses
+[8](#8).            Allowances to witnesses                                                                   23
 
-[9](#9).            Custody and use of records of Royal Commission
+    **LEGAL PROCEEDINGS**
 
-[10](#10).          Institution of proceedings in respect of other offences
+[10](#10).          Institution of proceedings in respect of other offences                     23
 
-[15](#15).          Costs
+[15](#15).          Costs                                                                                                  23
 
-[16](#16).          Evidence of issue of Commission etc 
+[16](#16).          Evidence of issue of Commission etc                                                23
 
-[17](#17).          Regulations
+[17](#17).          Regulations                                                                                        25
 
 **Notes** 
+
 
 ## An Act relating to Royal Commissions
 
@@ -108,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1A"></a>1A  Power to issue Royal Commission
 
-                   Without in any way prejudicing, limiting, or derogating from the power of the King, or of the Governor-General, to make or authorize any inquiry, or to issue any commission to make any inquiry, it is hereby enacted and declared that the Governor-General may, by Letters Patent in the name of the King, issue such commissions, directed to such person or persons, as he thinks fit, requiring or authorizing him or them or any of them to make inquiry into and report upon any matter specified in the Letters Patent, and which relates to or is connected with the peace, order, and good government of the Commonwealth, or any public purpose or any power of the Commonwealth.
+                   Without in any way prejudicing, limiting, or derogating from the power of the King, or of the Governor-General, to make or authorize any inquiry, or to issue any commission to make any inquiry, it is hereby enacted and declared that the Governor-General may, by Letters Patent in the name of the King, issue such commissions, directed to such person or persons, as he thinks fit, requiring or authorizing him or them or any of them to make inquiry into and report upon any matter specified in the Letters Patent, and which relates to or is connected with the peace, order, and good government of the Commonwealth, or any public purpose or any power of the Commonwealth.
 
 ##### <a id="1B"></a>1B  Definitions
 
@@ -386,13 +388,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The warrant shall authorize the apprehension of the witness and the witness being brought before the Commission, and the witness’ detention in custody for that purpose until he or she is released by order of the President or Chairman.
 
-             (3)  The warrant may be executed by any member of the Australian Federal Police or of the Police Force of a State or of the Northern   Territory, or by any person to whom it is addressed, and the person executing it shall have power to break and enter any place building or vessel for the purpose of executing it.
+             (3)  The warrant may be executed by any member of the Australian Federal Police or of the Police Force of a State or of the Northern Territory, or by any person to whom it is addressed, and the person executing it shall have power to break and enter any place building or vessel for the purpose of executing it.
 
              (4)  The apprehension of any witness under this section shall not relieve him or her from any liability incurred by the witness by reason of his or her non-compliance with the summons.
 
 ##### <a id="6C"></a>6C  Acts or omissions on different days to constitute separate offences
 
-                   Where any person has on any day done or omitted to do something, and the person’s act or omission amounts to an offence against section 3 or 6, and does or omits to do the same thing at any meeting of the Commission held on some other day, each such act or omission shall be a separate offence.
+                   Where any person has on any day done or omitted to do something, and the person’s act or omission amounts to an offence against section 3 or 6, and does or omits to do the same thing at any meeting of the Commission held on some other day, each such act or omission shall be a separate offence.
 
 ##### <a id="6D"></a>6D  Rights of witness
 
@@ -449,8 +451,6 @@ shall not be published, or shall not be published except in such manner, and to 
                             make copies of any documents that contain matter that is relevant to a matter into which the Commission is inquiring.
 
              (2)  Where the retention of a document or other thing by a Commission ceases to be reasonably necessary for the purposes of the inquiry to which the document or other thing is relevant, the Commission shall, if a person who appears to the Commission to be entitled to the document or other thing so requests, cause the document or other thing to be delivered to that person unless the Commission has furnished the document or other thing to a person or body referred to in paragraph 6P(1)(a), (aa), (c), (d), (da) or (e) or subsection 6P(2) or (2A).
-
-          (2A)  Subsection (2) has effect subject to subsection 9(10).
 
              (3)  In subsection (1), a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of that subsection by the President or Chairman of that Commission, or by the sole Commissioner, as the case may be.
 
@@ -590,7 +590,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  Where, in the course of inquiring into a matter, a Commission obtains information that relates, or that may relate, to a contravention of a law, or evidence of a contravention of a law, of the Commonwealth, of a State or of a Territory, the Commission may, if in the opinion of the Commission it is appropriate so to do, communicate the information or furnish the evidence, as the case may be, to:
 
-                     (a)  the Attorney-General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern   Territory; or
+                     (a)  the Attorney-General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory; or
 
                     (aa)  the Director of Public Prosecutions; or
 
@@ -714,218 +714,6 @@ the Commission may, in that other country, subject to any provision of the arran
 
              (2)  The claim to allowance of any such witness, certified by the President or Chairman of the Commission or by the sole Commissioner as the case may be, shall be paid by the Minister for Finance out of moneys to be provided by the Parliament for the purposes of the Commission.
 
-##### <a id="9"></a>9  Custody and use of records of Royal Commission
-
-Definitions
-
-             (1)  In this section:
-
-                    <a name="bodi"></a>**_body_** means a body (whether a body corporate or not) and includes:
-
-                     (a)  an agency within the meaning of the _Public Service Act 1999_; and
-
-                     (b)  a Department of State for, or an agency of, a State or a Territory.
-
-                    <a name="civil-penalti-proceing"></a>**_civil penalty proceeding_** means a proceeding for a civil penalty in relation to a contravention of a law of the Commonwealth, a State or a Territory.
-
-                    <a name="confisc-proceing"></a>**_confiscation proceeding_** means a proceeding under:
-
-                     (a)  the _Proceeds of Crime Act 1987_ or the _Proceeds of Crime Act 2002_; or
-
-                     (b)  a corresponding law within the meaning of either of those Acts;
-
-but does not include a criminal prosecution for an offence under either of those Acts or a corresponding law.
-
-                    <a name="custodian"></a>**_custodian_** of a Royal Commission record means a person who, or a body that, has custody of the record under:
-
-                     (a)  regulations made for the purposes of paragraph (2)(a); or
-
-                     (b)  a direction under subsection 22(3) of the _Archives Act 1983_.
-
-                    <a name="disciplinari-proceing"></a>**_disciplinary proceeding_**:
-
-                     (a)  means a proceeding of a disciplinary nature under a law of the Commonwealth, a State or a Territory; and
-
-                     (b)  includes action taken under Subdivision D of Division 5 of Part V of the _Australian Federal Police Act 1979_.
-
-                    <a name="law-enforc-purpos"></a>**_law enforcement purposes_** means the purposes of taking action to enforce a law of the Commonwealth, a State or a Territory and includes the following purposes:
-
-                     (a)  the purpose of bringing:
-
-                              (i)  a prosecution for an offence against a law of the Commonwealth, a State or a Territory; or
-
-                             (ii)  a civil penalty proceeding; or
-
-                            (iii)  a confiscation proceeding; or
-
-                            (iv)  a disciplinary proceeding;
-
-                     (b)  the purpose of investigating whether:
-
-                              (i)  an offence has been committed against a law of the Commonwealth, a State or a Territory; or
-
-                             (ii)  there has been a contravention of a law of the Commonwealth, a State or a Territory in relation to which civil penalty proceedings may be brought;
-
-                     (c)  the purpose of preparing the material necessary to prosecute a person for an offence against a law of the Commonwealth, a State or a Territory;
-
-                     (d)  the purpose of preparing the material necessary to bring civil penalty proceedings against a person for a contravention of a law of the Commonwealth, a State or a Territory;
-
-                     (e)  the purpose of preparing the material necessary to bring a confiscation proceeding;
-
-                      (f)  the purpose of preparing the material necessary to bring a disciplinary proceeding.
-
-                    <a name="public-author"></a>**_public authority_** means:
-
-                     (a)  an agency within the meaning of the _Public Service Act 1999_; or
-
-                     (b)  a Department of State for, or an agency of, a State or a Territory; or
-
-                     (c)  a body established or incorporated for a public purpose by or under a law of the Commonwealth, a State or a Territory.
-
-                    <a name="public-offic-holder"></a>**_public office holder_** means:
-
-                     (a)  a Minister of State for the Commonwealth, a State or a Territory; or
-
-                     (b)  the holder of an office established for a public purpose by or under a law of the Commonwealth, a State or a Territory.
-
-                    <a name="record"></a>**_record_** has the same meaning as in the _Archives Act 1983_.
-
-                    <a name="royal-commiss-record"></a>**_Royal Commission record_** means a record that:
-
-                     (a)  was produced by, given to or obtained by a Royal Commission; and
-
-                     (b)  is no longer required for the purposes of the Commission;
-
-and includes a copy of such a record.
-
-                    <a name="us"></a>**_use_** of a Royal Commission record includes use of information contained in the record.
-
-Regulations may provide for the custody, use or transfer of, or access to, Royal Commission records
-
-             (2)  The regulations:
-
-                     (a)  may, subject to subsection (3), provide for the custody in which some or all of the Royal Commission records of a Royal Commission are to be kept; and
-
-                     (b)  may specify either or both of the following:
-
-                              (i)  purposes for which a custodian of Royal Commission records may use some or all of those records;
-
-                             (ii)  purposes for which a custodian of Royal Commission records must not use some or all of those records; and
-
-                     (c)  may provide for the circumstances in which the custodian of Royal Commission records must, or may, give some or all of those records to other persons or bodies; and
-
-                     (d)  may provide for the circumstances in which the custodian of Royal Commission records must, or may, allow access to some or all of those records to other persons or bodies; and
-
-                     (e)  may specify either or both of the following:
-
-                              (i)  purposes for which persons or bodies to whom a custodian of Royal Commission records gives, or gives access to, those records may use some or all of those records;
-
-                             (ii)  purposes for which persons or bodies to whom a custodian of Royal Commission records gives, or gives access to, those records must not use some or all of those records.
-
-Regulations made for the purposes of paragraph (a) may provide for a person or body to have custody of Royal Commission records even if the person or body already has custody of those records under a direction under subsection 22(3) of the _Archives Act 1983_.
-
-             (3)  The persons and bodies who may be given custody of Royal Commission records by regulations made for the purposes of paragraph (2)(a) are the following:
-
-                     (a)  the Attorney-General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern   Territory;
-
-                     (b)  the Director of Public Prosecutions;
-
-                     (c)  a Special Prosecutor appointed under the _Special Prosecutors Act 1982_;
-
-                     (d)  the Commissioner of the Australian Federal Police or of the Police Force of a State or of the Northern Territory;
-
-                     (e)  the Australian Securities and Investments Commission;
-
-                      (f)  the Australian Competition and Consumer Commission;
-
-                     (g)  the Australian Crime Commission;
-
-                     (h)  the Australian Commission for Law Enforcement Integrity;
-
-                      (i)  the Secretary of the Department of the Prime Minister and Cabinet;
-
-                      (j)  the National Archives of Australia;
-
-                     (k)  a body or person responsible for the administration or enforcement of a law of the Commonwealth, a State or a Territory.
-
-Regulations may impose conditions
-
-             (4)  Regulations made for the purposes of subsection (2) in relation to Royal Commission records may impose conditions to be complied with by:
-
-                     (a)  the custodian of the records; or
-
-                     (b)  persons and bodies to whom the records are given or who are allowed access to the records.
-
-Effect of regulations under paragraph (2)(a)
-
-             (5)  If regulations are made for the purposes of paragraph (2)(a) in relation to particular Royal Commission records, the _Archives Act 1983_ has effect as if a direction to the same effect as the regulations were in force in relation to the records under subsection 22(3) of that Act at all times when the regulations are in force.
-
-Use of Royal Commission records
-
-             (6)  A custodian of Royal Commission records may use the records for:
-
-                     (a)  the purposes of the performance of the custodian’s functions and the exercise of the custodian’s powers; and
-
-                     (b)  any other purpose for which the custodian could use the records if the custodian had acquired the records in the performance of the custodian’s functions or the exercise of the custodian’s powers.
-
-             (7)  If:
-
-                     (a)  the custodian of a Royal Commission record gives a person or body (the **_recipient_**) the record or access to the record; and
-
-                     (b)  the recipient is a public office holder or a public authority;
-
-the recipient may use the record for:
-
-                     (c)  the purposes of the performance of the recipient’s functions and the exercise of the recipient’s powers; and
-
-                     (d)  any other purpose for which the recipient could use the record if the recipient had acquired the record in the performance of the recipient’s functions or the exercise of the recipient’s powers.
-
-             (8)  Subsections (6) and (7) have effect subject to any regulations that:
-
-                     (a)  specify purposes for which the custodian or the recipient must not use some or all of the records; or
-
-                     (b)  impose conditions to be complied with by the custodian or the recipient.
-
-Note:          See paragraphs (2)(b) and (e) and subsection (4).
-
-             (9)  The purposes referred to in subparagraphs (2)(b)(i) and (e)(i) and subsections (6) and (7) need not be purposes for which the Royal Commission concerned produced, obtained or was given the Royal Commission records.
-
-Custodian’s right to retain possession of records
-
-           (10)  A custodian of a Royal Commission record may retain possession of the record for so long as the custodian considers it desirable to do so for the purposes of the performance of any of the custodian’s functions or the exercise of any of the custodian’s powers, despite any request from the record’s owner for the return of the record.
-
-Records may be dealt with without consent, notice or opportunity to be heard
-
-           (11)  If regulations made for the purposes of paragraph (2)(a) provide that a person or body is to have custody of Royal Commission records:
-
-                     (a)  the custodian may, for law enforcement purposes:
-
-                              (i)  use the records under subsection (6); and
-
-                             (ii)  give the records to another person or body under regulations made for the purposes of paragraph (2)(c); and
-
-                            (iii)  allow another person or body access to the records under regulations made for the purposes of paragraph (2)(d); and
-
-                     (b)  a public office holder, or public authority, to whom the custodian gives the records, or access to the records, may, for law enforcement purposes, use the records under subsection (7);
-
-without obtaining the consent of, giving notice to, giving an opportunity to make submissions to or taking into account submissions made by the owner of the records or any other person.
-
-Operation of section 6DD not affected
-
-           (12)  Nothing in this section affects the operation of section 6DD in relation to Royal Commission records that are dealt with in accordance with:
-
-                     (a)  regulations made for the purposes of subsection (2); or
-
-                     (b)  a direction under subsection 22(3) of the _Archives Act 1983_.
-
-Legal professional privilege not affected
-
-           (13)  A Royal Commission record, or material in or referred to in a Royal Commission record, does not cease to be the subject of legal professional privilege merely because a person or body has custody of the record, or is given the record or access to the record, under:
-
-                     (a)  regulations made for the purposes of subsection (2); or
-
-                     (b)  a direction under subsection 22(3) of the _Archives Act 1983_.
-
 **LEGAL PROCEEDINGS**
 
 ##### <a id="10"></a>10  Institution of proceedings in respect of other offences
@@ -968,6 +756,7 @@ are the same or substantially the same as the matters specified in the Letters P
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Royal Commissions Act 1902_
 
 ### Note 1
@@ -995,11 +784,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1009,392 +800,382 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Royal Commissions Act 1902</div>
-  </td>
-  <td>
-    <div>12, 1902</div>
-  </td>
-  <td>
-    <div>8 Sept 1902</div>
-  </td>
-  <td colspan="2">
-    <div>8 Sept 1902</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissions Act 1912</div>
-  </td>
-  <td>
-    <div>4, 1912</div>
-  </td>
-  <td>
-    <div>19 Aug 1912</div>
-  </td>
-  <td colspan="2">
-    <div>19 Aug 1912</div>
-  </td>
-  <td>
-    <div>S. 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissions Act 1933</div>
-  </td>
-  <td>
-    <div>1, 1933</div>
-  </td>
-  <td>
-    <div>27 May 1933</div>
-  </td>
-  <td colspan="2">
-    <div>27 May 1933</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td colspan="2">
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td colspan="2">
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td colspan="2">
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>19, 1979</div>
-  </td>
-  <td>
-    <div>28 Mar 1979</div>
-  </td>
-  <td colspan="2">
-    <div>Parts II-XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 124</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td colspan="2">
-    <div>Part XXXIV (ss. 201–204): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissions Amendment Act 1982</div>
-  </td>
-  <td>
-    <div>139, 1982</div>
-  </td>
-  <td>
-    <div>24 Dec 1982</div>
-  </td>
-  <td colspan="2">
-    <div>1 Feb 1983 ( <i>see Gazette</i>1983, No. S17)</div>
-  </td>
-  <td>
-    <div>S. 8(2) (ad. by No. 91, 1983)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
-  </td>
-  <td>
-    <div>91, 1983</div>
-  </td>
-  <td>
-    <div>22 Nov 1983</div>
-  </td>
-  <td colspan="2">
-    <div><i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 2(14) and 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
-  </td>
-  <td>
-    <div>91, 1983</div>
-  </td>
-  <td>
-    <div>22 Nov 1983</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 20 Dec 1983 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Director of Public Prosecutions (Consequential Amendments) Act 1983</div>
-  </td>
-  <td>
-    <div>114, 1983</div>
-  </td>
-  <td>
-    <div>14 Dec 1983</div>
-  </td>
-  <td colspan="2">
-    <div>Part XIII (ss. 
-28–31):5 Mar 1984 ( <i>see</i>s. 2(1) and <i>Gazette</i>1984, No. S55) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Crime Authority (Consequential Amendments) Act 1984</div>
-  </td>
-  <td>
-    <div>42, 1984</div>
-  </td>
-  <td>
-    <div>15 June 1984</div>
-  </td>
-  <td colspan="2">
-    <div>1 July 1984 ( <i>see</i>s. 2 and <i>Gazette</i>1984, No. S245)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>120, 1987</div>
-  </td>
-  <td>
-    <div>16 Dec 1987</div>
-  </td>
-  <td colspan="2">
-    <div>Part IX (ss. 51, 52): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994</div>
-  </td>
-  <td>
-    <div>33, 1994</div>
-  </td>
-  <td>
-    <div>15 Mar 1994</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 53–56: Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>49, 2001</div>
-  </td>
-  <td>
-    <div>21 June 2001</div>
-  </td>
-  <td colspan="2">
-    <div>19 July 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissions and Other Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>166, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Crime Commission Establishment Act 2002</div>
-  </td>
-  <td>
-    <div>125, 2002</div>
-  </td>
-  <td>
-    <div>10 Dec 2002</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 2 (items 
-120–123): 1 Jan 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissions Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>52, 2006</div>
-  </td>
-  <td>
-    <div>14 June 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: 15 June 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 9) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>86, 2006</div>
-  </td>
-  <td>
-    <div>30 June 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 57–59): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Royal Commissions Amendment (Records) Act 2006</div>
-  </td>
-  <td>
-    <div>167, 2006</div>
-  </td>
-  <td>
-    <div>12 Dec 2006</div>
-  </td>
-  <td colspan="2">
-    <div>12 Dec 2006</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Royal Commissions Act 1902</div>
+    </td>
+    <td>
+      <div>12, 1902</div>
+    </td>
+    <td>
+      <div>8 Sept 1902</div>
+    </td>
+    <td colspan="2">
+      <div>8 Sept 1902</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Royal Commissions Act 1912</div>
+    </td>
+    <td>
+      <div>4, 1912</div>
+    </td>
+    <td>
+      <div>19 Aug 1912</div>
+    </td>
+    <td colspan="2">
+      <div>19 Aug 1912</div>
+    </td>
+    <td>
+      <div>S. 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Royal Commissions Act 1933</div>
+    </td>
+    <td>
+      <div>1, 1933</div>
+    </td>
+    <td>
+      <div>27 May 1933</div>
+    </td>
+    <td colspan="2">
+      <div>27 May 1933</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td colspan="2">
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td colspan="2">
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td colspan="2">
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>19, 1979</div>
+    </td>
+    <td>
+      <div>28 Mar 1979</div>
+    </td>
+    <td colspan="2">
+      <div>Parts II-XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 124</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td colspan="2">
+      <div>Part XXXIV (ss. 201–204): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Royal Commissions Amendment Act 1982</div>
+    </td>
+    <td>
+      <div>139, 1982</div>
+    </td>
+    <td>
+      <div>24 Dec 1982</div>
+    </td>
+    <td colspan="2">
+      <div>1 Feb 1983 ( <i>see Gazette</i>1983, No. S17)</div>
+    </td>
+    <td>
+      <div>S. 8(2) (ad. by No. 91, 1983)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+    </td>
+    <td>
+      <div>91, 1983</div>
+    </td>
+    <td>
+      <div>22 Nov 1983</div>
+    </td>
+    <td colspan="2">
+      <div><i>(b)</i></div>
+    </td>
+    <td>
+      <div>Ss. 2(14) and 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+    </td>
+    <td>
+      <div>91, 1983</div>
+    </td>
+    <td>
+      <div>22 Nov 1983</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 20 Dec 1983 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Director of Public Prosecutions (Consequential Amendments) Act 1983</div>
+    </td>
+    <td>
+      <div>114, 1983</div>
+    </td>
+    <td>
+      <div>14 Dec 1983</div>
+    </td>
+    <td colspan="2">
+      <div>Part XIII (ss. 
+28–31):5 Mar 1984 ( <i>see</i>s. 2(1) and <i>Gazette</i>1984, No. S55) <i>(d)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Crime Authority (Consequential Amendments) Act 1984</div>
+    </td>
+    <td>
+      <div>42, 1984</div>
+    </td>
+    <td>
+      <div>15 June 1984</div>
+    </td>
+    <td colspan="2">
+      <div>1 July 1984 ( <i>see</i>s. 2 and <i>Gazette</i>1984, No. S245)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>120, 1987</div>
+    </td>
+    <td>
+      <div>16 Dec 1987</div>
+    </td>
+    <td colspan="2">
+      <div>Part IX (ss. 51, 52): Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994</div>
+    </td>
+    <td>
+      <div>33, 1994</div>
+    </td>
+    <td>
+      <div>15 Mar 1994</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 53–56: Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>49, 2001</div>
+    </td>
+    <td>
+      <div>21 June 2001</div>
+    </td>
+    <td colspan="2">
+      <div>19 July 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Royal Commissions and Other Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>166, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td colspan="2">
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Crime Commission Establishment Act 2002</div>
+    </td>
+    <td>
+      <div>125, 2002</div>
+    </td>
+    <td>
+      <div>10 Dec 2002</div>
+    </td>
+    <td colspan="2">
+      <div>Sch. 2 (items 
+120–123): 1 Jan 2003 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Royal Commissions Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>52, 2006</div>
+    </td>
+    <td>
+      <div>14 June 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1: 15 June 2006 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 9) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>86, 2006</div>
+    </td>
+    <td>
+      <div>30 June 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 57–59): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Royal Commissions Act 1902_ was amended by Part XXXIV (sections 201–204) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(1) of which provides as follows:
 
@@ -1420,6 +1201,7 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
 
                  (1)   Except for subsection 15(1), this Act commences on the day on which it receives the Royal Assent.
 
+
 ## Table of Amendments
 
 <table>
@@ -1443,678 +1225,673 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1B</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 1982; No. 33, 1994; No. 125, 2002; No. 52, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1C</div>
-  </td>
-  <td>
-    <div>ad. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 4, 1912; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 166, 2001; No. 52, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 4, 1912; No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 4, 1912; No. 93, 1966; No. 139, 1982; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6AA, 6AB</div>
-  </td>
-  <td>
-    <div>ad. No. 52, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 52, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6B</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 1982; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6D</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1933; No. 93, 1966; No. 139, 1982; Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6DD</div>
-  </td>
-  <td>
-    <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6DD</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 26, 1982; No. 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 52, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6E</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6F</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1933</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; Nos. 52 and 167, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6FA</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 1933</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6G</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6H</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6I, 6J</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6K</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6L</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6M</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6N</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; Nos. 49 and 166, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6O</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 19, 1979; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6P</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; No. 125, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 4, 1912; No. 139, 1982; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7AA</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7A, 7B</div>
-  </td>
-  <td>
-    <div>ad. No. 26, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 7C</div>
-  </td>
-  <td>
-    <div>am. No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7C</div>
-  </td>
-  <td>
-    <div>ad. No. 26, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7D</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 13, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 167, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 10.....</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 19, 1979; No. 114, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12–14</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 139, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 4, 1912</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 26, 1982; No. 49, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 1982</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 1A</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1B</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 139, 1982; No. 33, 1994; No. 125, 2002; No. 52, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1C</div>
+    </td>
+    <td>
+      <div>ad. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 4, 1912; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 166, 2001; No. 52, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 3(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 4, 1912; No. 93, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 4, 1912; No. 93, 1966; No. 139, 1982; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6AA, 6AB</div>
+    </td>
+    <td>
+      <div>ad. No. 52, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 52, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6B</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 139, 1982; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6C</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6D</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1933; No. 93, 1966; No. 139, 1982; Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6DD</div>
+    </td>
+    <td>
+      <div>am. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6DD</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 26, 1982; No. 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 52, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6E</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6F</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 1, 1933</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; No. 52, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6FA</div>
+    </td>
+    <td>
+      <div>ad. No. 1, 1933</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6G</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6H</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6I, 6J</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6K</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6L</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6M</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6N</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; Nos. 49 and 166, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6O</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 19, 1979; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6P</div>
+    </td>
+    <td>
+      <div>ad. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001; No. 125, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 4, 1912; No. 139, 1982; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7AA</div>
+    </td>
+    <td>
+      <div>ad. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7A, 7B</div>
+    </td>
+    <td>
+      <div>ad. No. 26, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 7C</div>
+    </td>
+    <td>
+      <div>am. No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7C</div>
+    </td>
+    <td>
+      <div>ad. No. 26, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7D</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 13, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 19, 1979; No. 114, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 19, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12–14</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 139, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>ad. No. 4, 1912</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 26, 1982; No. 49, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>ad. No. 139, 1982</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ### Note 2
 
@@ -2146,7 +1923,8 @@ that, in the opinion of the Commission, relates or may relate to the performance
 
 Omit “or (2A)”, substitute “, (2A) or (2B)”.
 
-As at 14 December 2006 the amendments are not incorporated in this compilation.
+As at 13 July 2006 the amendments are not incorporated in this compilation.
+
 
 ## Table A
 
@@ -2160,7 +1938,9 @@ _Prime Minister and Cabinet Legislation Amendment (Application of Criminal Code)
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Royal Commissions Amendment Act 2006 (No. 52, 2006)_
 
@@ -2170,14 +1950,7 @@ _Royal Commissions Amendment Act 2006 (No. 52, 2006)_
 
 The amendments made by this Schedule apply, after the commencement of this Schedule, in relation to the proceedings of any Commission after that commencement, whether the Commission was established before or after that commencement.
 
-* * *
 
-_Royal Commissions Amendment (Records) Act 2006 (No. 167, 2006)_
-
-## Schedule 1
-
-## 3  Application of amendments
-
-The amendments made by this Schedule apply to the Royal Commission records of a Royal Commission even if the Royal Commission was established and reported before the commencement of this Act.
+ 
 
  
