@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C03201/Html/CrimesatSea2000_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03200/Html/CrimSea00_image001.gif)
 
 # Crimes at Sea Act 2000
 
-**Act No. 13 of 2000 as amended**
+**Act No. 13 of 2000 as amended**
 
-This compilation was prepared on 10 April 2003
- taking into account amendments up to Act No. 10 of 2003
+This compilation was prepared on 31 March 2001
+ taking into account amendments up to Act No. 25 of 2000
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -25,23 +25,23 @@ Prepared by the Office of Legislative Drafting,
 
 [4](#4).            Definitions                                                                                           2
 
-**Part 2—The cooperative scheme**
+**Part 2—The cooperative scheme**
 
 [5](#5).            Ratification of cooperative scheme                                                      4
 
-**Part 3—Application of criminal law outside adjacent area**
+**Part 3—Application of criminal law outside adjacent area**
 
 [6](#6).            Application of Australian criminal law outside the adjacent area       5
 
-**Part 3A—Cooperation between Australia and East Timor in the enforcement of criminal law**
+**Part 3A—Cooperation between Australia and East Timor in the enforcement of criminal law**
 
-[6A](#6A).         Criminal laws applicable in the Joint Petroleum Development Area  8
+[6A](#6A).         Criminal laws applicable in Area A of the Zone of Cooperation        8
 
 [6B](#6B).         Transit of persons accused of offences against the laws of East Timor  9
 
-[6C](#6C).         Agreements relating to enforcement of criminal laws in the Joint Petroleum Development Area           10
+[6C](#6C).         Agreements relating to enforcement of criminal laws in Area A of the Zone of Cooperation 10
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous**
 
 [7](#7).            Publication of intergovernmental agreement                                      12
 
@@ -49,13 +49,13 @@ Prepared by the Office of Legislative Drafting,
 
 [9](#9).            Regulations                                                                                        12
 
-**Schedule 1—The cooperative scheme** 
+**Schedule 1—The cooperative scheme** 
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
 [1](#1).            Definitions                                                                                         13
 
-**Part 2—Application of State criminal law to adjacent area**
+**Part 2—Application of State criminal law to adjacent area**
 
 [2](#2).            Application of State criminal law in adjacent area                             16
 
@@ -63,13 +63,13 @@ Prepared by the Office of Legislative Drafting,
 
 [4](#4).            Evidentiary presumption about the locus of an offence                    19
 
-**Part 3—The intergovernmental agreement**
+**Part 3—The intergovernmental agreement**
 
 [5](#5).            Intergovernmental agreement                                                             20
 
 [6](#6).            Effect of the agreement                                                                      20
 
-**Part 4—Limitations and exclusions**
+**Part 4—Limitations and exclusions**
 
 [7](#7).            Commonwealth Attorney-General’s consent required for certain prosecutions     21
 
@@ -77,15 +77,15 @@ Prepared by the Office of Legislative Drafting,
 
 [9](#9).            Exclusion of certain laws from ambit of this scheme                         22
 
-[10](#10).          Non-application of scheme to the Joint Petroleum Development Area  22
+[10](#10).          Non-application of scheme to Area A of the Zone of Cooperation  22
 
-**Part 5—Miscellaneous**
+**Part 5—Miscellaneous**
 
 [11](#11).          Interpretation                                                                                     23
 
 [12](#12).          Regulations                                                                                        23
 
-**Part 6—Adjacent areas**
+**Part 6—Adjacent areas**
 
 [13](#13).          Definitions                                                                                         24
 
@@ -93,15 +93,15 @@ Prepared by the Office of Legislative Drafting,
 
 [15](#15).          Baselines                                                                                            25
 
-[16](#16).          Indicative map                                                                                   26
+[16](#16).          Indicative map                                                                                   25
 
-**Appendix 1—Indicative map [_see_ Note 2]** 
+**Appendix 1—Indicative map** 
 
-**Schedule 2—Consequential amendments** 
+**Schedule 2—Consequential amendments**
+
+[Clauses 1 to 10](#Clauses 1 to 10).                                                                                                28
 
 **Notes** 
-
- 
 
 ## An Act to give effect to a cooperative scheme for dealing with crimes at sea, and for other purposes
 
@@ -125,23 +125,23 @@ Preamble
 
 The Parliament of Australia therefore enacts:
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Crimes at Sea Act 2000_.
+                   This Act may be cited as the _Crimes at Sea Act 2000_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Sections 1 and 2 commence on the day on which this Act receives the Royal Assent.
+             (1)  Sections 1 and 2 commence on the day on which this Act receives the Royal Assent.
 
-             (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
+             (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
 
-             (3)  If the provisions referred to in subsection (2) do not commence under that subsection within the period of 12 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
+             (3)  If the provisions referred to in subsection (2) do not commence under that subsection within the period of 12 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Schedule(s)
 
-                   Subject to section 2, each Act that is specified in Schedule 2 is amended or repealed as set out in the applicable items in that Schedule, and any other item in that Schedule has effect according to its terms.
+                   Subject to section 2, each Act that is specified in Schedule 2 is amended or repealed as set out in the applicable items in that Schedule, and any other item in that Schedule has effect according to its terms.
 
 ##### <a id="4"></a>4  Definitions
 
@@ -151,6 +151,8 @@ The Parliament of Australia therefore enacts:
 
                     <a name="adjac-area"></a>**_adjacent area_** means the whole of the area to which the cooperative scheme applies.
 
+                    <a name="area-zone-cooper"></a>**_Area A of the Zone of Cooperation_** has the same meaning as in the _Petroleum (Timor Gap Zone of Cooperation) Act 1990_.
+
                     <a name="australian-ship"></a>**_Australian ship_** means:
 
                      (a)  a ship registered in Australia; or
@@ -159,17 +161,25 @@ The Parliament of Australia therefore enacts:
 
                      (c)  a ship that belongs to an arm of the Defence Force.
 
-                    <a name="cooper-scheme"></a>**_cooperative scheme_** means the legislative and administrative scheme for applying and enforcing criminal law in the areas adjacent to the coast of Australia set out in Schedule 1.
+                    <a name="cooper-scheme"></a>**_cooperative scheme_** means the legislative and administrative scheme for applying and enforcing criminal law in the areas adjacent to the coast of Australia set out in Schedule 1.
+
+                    <a name="east-timor"></a>**_East Timor_**:
+
+                     (a)  during the period of the administration of the United Nations Transitional Administration in East Timor (**_UNTAET_**) means:
+
+                              (i)  when referred to in a geographic sense—the territory administered by UNTAET under United Nations Security Council Resolution 1272 (1999) of 25 October 1999 at New York; and
+
+                             (ii)  when referred to as a body politic—UNTAET; and
+
+                     (b)  after the territory ceases to be administered by UNTAET—has the meaning given by the regulations.
 
                     <a name="foreign-ship"></a>**_foreign ship_** means a ship other than an Australian ship.
 
-                    <a name="intergovernment-agreem"></a>**_intergovernmental agreement_** means the intergovernmental agreement entered into under clause 5 of the cooperative scheme.
+                    <a name="intergovernment-agreem"></a>**_intergovernmental agreement_** means the intergovernmental agreement entered into under clause 5 of the cooperative scheme.
 
-                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (Timor Sea Treaty) Act 2003_.
+                    <a name="law-crimin-investig-procur-evid"></a>**_law of criminal investigation, procedure and evidence_** has the same meaning as in clause 1 of Schedule 1.
 
-                    <a name="law-crimin-investig-procur-evid"></a>**_law of criminal investigation, procedure and evidence_** has the same meaning as in clause 1 of Schedule 1.
-
-                    <a name="petroleum"></a>**_petroleum_** has the same meaning as in the Treaty (within the meaning of the _Petroleum (Timor Sea Treaty) Act 2003_).
+                    <a name="petroleum"></a>**_petroleum_** has the same meaning as in the Treaty set out in Schedule 1 to the _Petroleum (Timor Gap Zone of Cooperation) Act 1990._
 
                     <a name="polic-offic"></a>**_police officer_** means a member or special member of the Australian Federal Police or a member of the police force or police service of a State or Territory.
 
@@ -179,15 +189,15 @@ The Parliament of Australia therefore enacts:
 
                      (b)  a hovercraft or other similar craft.
 
-                    <a name="substant-crimin-law"></a>**_substantive criminal law_** has the same meaning as in clause 1 of Schedule 1.
+                    <a name="substant-crimin-law"></a>**_substantive criminal law_** has the same meaning as in clause 1 of Schedule 1.
 
-## Part 2—The cooperative scheme
+## Part 2—The cooperative scheme
 
 ##### <a id="5"></a>5  Ratification of cooperative scheme
 
                    To the extent that it lies within the legislative competence of the Commonwealth to give the cooperative scheme the force of law, it has the force of law.
 
-## Part 3—Application of criminal law outside adjacent area
+## Part 3—Application of criminal law outside adjacent area
 
 ##### <a id="6"></a>6  Application of Australian criminal law outside the adjacent area
 
@@ -269,11 +279,11 @@ it is a defence to prove:
 
                     <a name="crimin-act"></a>**_criminal act_** means an act that would, if done in the Jervis Bay Territory, contravene the substantive criminal law of the Jervis Bay Territory.
 
-## Part 3A—Cooperation between Australia and East Timor in the enforcement of criminal law
+## Part 3A—Cooperation between Australia and East Timor in the enforcement of criminal law
 
-##### <a id="6A"></a>6A  Criminal laws applicable in the Joint Petroleum Development Area
+##### <a id="6A"></a>6A  Criminal laws applicable in Area A of the Zone of Cooperation
 
-             (1)  The provisions of the substantive criminal law in force in the Northern Territory from time to time apply to a criminal act done in the Joint Petroleum Development Area that is connected with, or arises out of, the exploration for, or exploitation of, petroleum resources as if the act had been done in the Northern Territory.
+             (1)  The provisions of the substantive criminal law in force in the Northern Territory from time to time apply to a criminal act done in Area A of the Zone of Cooperation that is connected with, or arises out of, the exploration for, or exploitation of, petroleum resources as if the act had been done in the Northern Territory.
 
              (2)  However, the relevant substantive criminal law does not apply to:
 
@@ -291,9 +301,9 @@ it is a defence to prove:
 
                      (c)  a competent authority of East Timor has decided not to prosecute the person for such an offence.
 
-             (4)  A prosecution for an offence against a law applied by subsection (1) may only be heard and determined if the Attorney-General consents in writing to the prosecution.
+             (4)  A prosecution for an offence against a law applied by subsection (1) may only be heard and determined if the Attorney-General consents in writing to the prosecution.
 
-             (5)  Although the Attorney-General has not consented to a prosecution under subsection (4):
+             (5)  Although the Attorney-General has not consented to a prosecution under subsection (4):
 
                      (a)  a person may be arrested for the offence, and a warrant for the arrest of a person for the offence may be issued and executed; and
 
@@ -301,7 +311,7 @@ it is a defence to prove:
 
                      (c)  a person charged with the offence may be remanded in custody or on bail.
 
-             (6)  The provisions of the laws of criminal investigation, procedure and evidence in force in the Commonwealth and the States from time to time apply to a criminal act done in the Joint Petroleum Development Area that is connected with, or arises out of, the exploration for, or exploitation of, petroleum resources in the same way as those provisions apply to maritime offences under clause 3 of Schedule 1.
+             (6)  The provisions of the laws of criminal investigation, procedure and evidence in force in the Commonwealth and the States from time to time apply to a criminal act done in Area A of the Zone of Cooperation that is connected with, or arises out of, the exploration for, or exploitation of, petroleum resources in the same way as those provisions apply to maritime offences under clause 3 of Schedule 1.
 
              (7)  In this section:
 
@@ -311,7 +321,7 @@ it is a defence to prove:
 
 ##### <a id="6B"></a>6B  Transit of persons accused of offences against the laws of East Timor
 
-             (1)  If East Timor wishes to transport in custody through Australia a person (the **_accused_**) who has been arrested for an offence against a criminal law in force in East Timor that applies in the Joint Petroleum Development Area, the following provisions apply:
+             (1)  If East Timor wishes to transport in custody through Australia a person (the **_accused_**) who has been arrested for an offence against a criminal law in force in East Timor that applies in Area A of the Zone of Cooperation, the following provisions apply:
 
                      (a)  the accused may be transported in custody through Australia; and
 
@@ -327,17 +337,17 @@ it is a defence to prove:
 
                              (v)  the Attorney-General may at any time direct a person having custody of the accused under this paragraph to release the accused; and
 
-                            (vi)  the total period of custody under subparagraphs (i) and (iii) must not exceed 96 hours.
+                            (vi)  the total period of custody under subparagraphs (i) and (iii) must not exceed 96 hours.
 
-             (2)  A police officer may, without warrant, arrest a person if the officer has reasonable grounds for believing that the person has escaped from custody authorised by subsection (1).
+             (2)  A police officer may, without warrant, arrest a person if the officer has reasonable grounds for believing that the person has escaped from custody authorised by subsection (1).
 
-             (3)  A person arrested under subsection (2) must be returned to custody.
+             (3)  A person arrested under subsection (2) must be returned to custody.
 
              (4)  For the purposes of this section, a place at which an aircraft or ship begins its journey or voyage is to be treated as a place at which the aircraft has landed, or the ship has called, as the case requires.
 
-##### <a id="6C"></a>6C  Agreements relating to enforcement of criminal laws in the Joint Petroleum Development Area
+##### <a id="6C"></a>6C  Agreements relating to enforcement of criminal laws in Area A of the Zone of Cooperation
 
-             (1)  The regulations may give effect to an agreement or arrangement between Australia and East Timor about the enforcement of criminal laws applying in the Joint Petroleum Development Area.
+             (1)  The regulations may give effect to an agreement or arrangement between Australia and East Timor about the enforcement of criminal laws applying in Area A of the Zone of Cooperation.
 
              (2)  The regulations may, for example:
 
@@ -345,23 +355,23 @@ it is a defence to prove:
 
                      (b)  provide for:
 
-                              (i)  the apprehension and detention in the Joint Petroleum Development Area, by authorities of East Timor, of persons accused of offences against criminal laws of Australia applied under this Part; and
+                              (i)  the apprehension and detention in Area A of the Zone of Cooperation, by authorities of East Timor, of persons accused of offences against criminal laws of Australia applied under this Part; and
 
-                             (ii)  the transport and surrender, in the Joint Petroleum Development Area or elsewhere, of the persons to Australian authorities; and
+                             (ii)  the transport and surrender, in Area A of the Zone of Cooperation or elsewhere, of the persons to Australian authorities; and
 
                      (c)  provide for:
 
-                              (i)  the apprehension and detention in the Joint Petroleum Development Area, by Australian authorities, of persons accused of offences against criminal laws in force in East Timor; and
+                              (i)  the apprehension and detention in Area A of the Zone of Cooperation, by Australian authorities, of persons accused of offences against criminal laws in force in East Timor; and
 
-                             (ii)  the transport and surrender, in the Joint Petroleum Development Area or elsewhere, of the persons to authorities of East Timor; and
+                             (ii)  the transport and surrender, in Area A of the Zone of Cooperation or elsewhere, of the persons to authorities of East Timor; and
 
                      (d)  prescribe the practice and procedure of magistrates in performing functions under regulations made for the purposes of this section.
 
              (3)  A provision for detention of a person under this section may only authorise detention until the time it first becomes practicable to surrender the person to an appropriate authority of Australia or East Timor.
 
-             (4)  A provision made under paragraph (2)(c) excludes the application of the _Extradition Act 1988_ from offences to which the provision applies.
+             (4)  A provision made under paragraph (2)(c) excludes the application of the _Extradition Act 1988_ from offences to which the provision applies.
 
-## Part 4—Miscellaneous
+## Part 4—Miscellaneous
 
 ##### <a id="7"></a>7  Publication of intergovernmental agreement
 
@@ -369,7 +379,7 @@ it is a defence to prove:
 
 ##### <a id="8"></a>8  No effect on _Crimes (Aviation) Act 1991_
 
-                   This Act and the cooperative scheme do not apply to an act to which section 15 of the _Crimes (Aviation) Act 1991_ applies.
+                   This Act and the cooperative scheme do not apply to an act to which section 15 of the _Crimes (Aviation) Act 1991_ applies.
 
 ##### <a id="9"></a>9  Regulations
 
@@ -381,19 +391,21 @@ it is a defence to prove:
 
              (2)  However, this section does not authorise the making of regulations for the purposes of the cooperative scheme.
 
-Note:          The Governor-General has power to make regulations for the purposes of the cooperative scheme under clause 12 of the scheme.
+Note:          The Governor-General has power to make regulations for the purposes of the cooperative scheme under clause 12 of the scheme.
 
-# Schedule 1—The cooperative scheme
+# Schedule 1—The cooperative scheme
 
-_Note:       See section 5_
+_Note:       See section 5._
 
-## Part 1—Preliminary
+Part 1—Preliminary
 
-##### <a id="1"></a>1  Definitions
+1  Definitions
 
              (1)  In this scheme:
 
-                    <a name="adjac-area"></a>**_adjacent area_** for a State has the meaning given by clause 14 of this Schedule.
+                    <a name="adjac-area"></a>**_adjacent area_** for a State has the meaning given by clause 14 of this Schedule.
+
+                    <a name="area-zone-cooper"></a>**_Area A of the Zone of Cooperation_** has the same meaning as in the _Petroleum (Timor Gap Zone of Cooperation) Act 1990_ (Commonwealth)_._
 
                     <a name="australian-ship"></a>**_Australian ship_** means:
 
@@ -403,7 +415,7 @@ _Note:       See section 5_
 
                      (c)  a ship that belongs to an arm of the Defence Force.
 
-                    <a name="baselin"></a>**_baseline_** for a State has the meaning given by clause 15 of this Schedule.
+                    <a name="baselin"></a>**_baseline_** for a State has the meaning given by clause 15 of this Schedule.
 
                     <a name="foreign-ship"></a>**_foreign ship_** means a ship other than an Australian ship.
 
@@ -415,9 +427,7 @@ _Note:       See section 5_
 
                      (b)  on the seaward side, but within 12 nautical miles from, the baseline for the State.
 
-                    <a name="intergovernment-agreem"></a>**_intergovernmental agreement_** means the agreement entered into under clause 5 of this Schedule.
-
-                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (Timor Sea Treaty) Act 2003_.
+                    <a name="intergovernment-agreem"></a>**_intergovernmental agreement_** means the agreement entered into under clause 5 of this Schedule.
 
                     <a name="law-crimin-investig-procur-evid"></a>**_law of criminal investigation, procedure and evidence_** means law (including unwritten law) about:
 
@@ -485,7 +495,7 @@ _Note:       See section 5_
 
              (2)  The law of criminal investigation, procedure and evidence of the Commonwealth includes provisions of State law on the relevant subjects applied under the _Judiciary Act 1903_ (Commonwealth).
 
-Part 2—Application of State criminal law to adjacent area
+Part 2—Application of State criminal law to adjacent area
 
 2  Application of State criminal law in adjacent area
 
@@ -501,7 +511,7 @@ Example: A law making it an offence to drive a motor vehicle at a speed exceedin
 
                      (b)  give a legal effect to a provision of a substantive criminal law that the provision does not have within the area of the State.
 
-Example: If the effect of a provision of the substantive criminal law of a State is limited under section 109 of the Constitution within the area of the State, the effect is similarly limited in the outer adjacent area for the State even though the provision applies in the outer adjacent area under the legislative authority of the Commonwealth.
+Example: If the effect of a provision of the substantive criminal law of a State is limited under section 109 of the Constitution within the area of the State, the effect is similarly limited in the outer adjacent area for the State even though the provision applies in the outer adjacent area under the legislative authority of the Commonwealth.
 
 3  Application of laws of criminal investigation, procedure and evidence
 
@@ -569,13 +579,13 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
              (4)  A Commonwealth or State law enacted or made after the commencement of this clause is to be construed as having effect subject to this clause, unless the law expressly overrides this clause.
 
-             (5)  The _Administrative Decisions (Judicial Review) Act 1977_ (Commonwealth) does not apply to a decision taken under a State law that applies to investigations, procedures and acts by authorities of the State under paragraph (b) of subclause (2).
+             (5)  The _Administrative Decisions (Judicial Review) Act 1977_ (Commonwealth) does not apply to a decision taken under a State law that applies to investigations, procedures and acts by authorities of the State under paragraph (b) of subclause (2).
 
 4  Evidentiary presumption about the locus of an offence
 
                    If, in proceedings for a maritime offence, an alleged act, omission or state of affairs, that is an element of the offence, is proved, an allegation in the information or complaint that the act, omission or state of affairs happened in the adjacent area, inner adjacent area, or outer adjacent area for a particular State is taken to be proved in the absence of proof to the contrary.
 
-Part 3—The intergovernmental agreement
+Part 3—The intergovernmental agreement
 
 5  Intergovernmental agreement
 
@@ -587,15 +597,15 @@ Part 3—The intergovernmental agreement
 
              (1)  A charge of a maritime offence must not be brought in a court contrary to the intergovernmental agreement.
 
-             (2)  If a charge of a maritime offence is brought in a court in contravention of subclause (1), the court must, on application by the Commonwealth Attorney-General or a participating State Minister, permanently stay the proceedings in that court.
+             (2)  If a charge of a maritime offence is brought in a court in contravention of subclause (1), the court must, on application by the Commonwealth Attorney-General or a participating State Minister, permanently stay the proceedings in that court.
 
              (3)  However:
 
-                     (a)  a contravention of subclause (1) does not affect a court’s jurisdiction; and
+                     (a)  a contravention of subclause (1) does not affect a court’s jurisdiction; and
 
-                     (b)  if a charge of a maritime offence is brought in a court, the court will not (except on an application under subclause (2)) be concerned to enquire into whether the intergovernmental agreement has been complied with.
+                     (b)  if a charge of a maritime offence is brought in a court, the court will not (except on an application under subclause (2)) be concerned to enquire into whether the intergovernmental agreement has been complied with.
 
-Part 4—Limitations and exclusions
+Part 4—Limitations and exclusions
 
 7  Commonwealth Attorney-General’s consent required for certain prosecutions
 
@@ -631,11 +641,11 @@ Part 4—Limitations and exclusions
 
                    This scheme does not apply to State and Commonwealth laws excluded by regulation from the ambit of the scheme.
 
-10  Non-application of scheme to the Joint Petroleum Development Area
+10  Non-application of scheme to Area A of the Zone of Cooperation
 
-                   This scheme does not apply to the Joint Petroleum Development Area.
+                   This scheme does not apply to Area A of the Zone of Cooperation.
 
-Part 5—Miscellaneous
+Part 5—Miscellaneous
 
 11  Interpretation
 
@@ -651,13 +661,13 @@ Part 5—Miscellaneous
 
              (2)  However, a regulation affecting the operation of this scheme in relation to the inner adjacent area for a State may only be made with the agreement of the participating State Minister for the relevant State.
 
-Part 6—Adjacent areas
+Part 6—Adjacent areas
 
 13  Definitions
 
                    In this Part:
 
-                    <a name="baselin-australia-territori-sea"></a>**_baseline of Australia’s territorial sea_** means the baseline from which the breadth of the territorial sea is to be measured under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth).
+                    <a name="baselin-australia-territori-sea"></a>**_baseline of Australia’s territorial sea_** means the baseline from which the breadth of the territorial sea is to be measured under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth).
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_ (Commonwealth).
 
@@ -665,37 +675,37 @@ Part 6—Adjacent areas
 
 14  Adjacent areas
 
-             (1)  The **_adjacent area_** for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
+             (1)  The **_adjacent area_** for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
 
              (2)  The **_adjacent area_** for Queensland is:
 
-                     (a)  so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to Queensland as is within the outer limits of the continental shelf; and
+                     (a)  so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to Queensland as is within the outer limits of the continental shelf; and
 
-                     (b)  the Coral Sea area (within the meaning of subsection (7) of section 5A of the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth)) other than the territorial sea within the Coral Sea area; and
+                     (b)  the Coral Sea area (within the meaning of subsection (7) of section 5A of the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth)) other than the territorial sea within the Coral Sea area; and
 
-                     (c)  the areas within the outer limits of the territorial sea adjacent to certain islands of Queensland as determined by proclamation on 4 February 1983 under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth); and
+                     (c)  the areas within the outer limits of the territorial sea adjacent to certain islands of Queensland as determined by proclamation on 4 February 1983 under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth); and
 
-                     (d)  the space above and below the areas described in paragraphs (a), (b) and (c).
+                     (d)  the space above and below the areas described in paragraphs (a), (b) and (c).
 
-             (3)  The **_adjacent area_** for Western Australia is so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to Western Australia as:
+             (3)  The **_adjacent area_** for Western Australia is so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to Western Australia as:
 
                      (a)  is within the outer limits of the continental shelf; and
 
-                     (b)  is not within the Joint Petroleum Development Area;
+                     (b)  is not within Area A of the Zone of Cooperation,
 
 and includes the space above and below that area.
 
              (4)  The **_adjacent area_** for the Northern Territory is:
 
-                     (a)  so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to the Northern Territory as:
+                     (a)  so much of the area described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth) in relation to the Northern Territory as:
 
                               (i)  is within the outer limits of the continental shelf; and
 
-                             (ii)  is not within the Joint Petroleum Development Area; and
+                             (ii)  is not within Area A of the Zone of Cooperation; and
 
-                     (b)  the adjacent area for the Territory of Ashmore and Cartier Islands (within the meaning of subsection (3) of section 5A of the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth)) other than the territorial sea within that area; and
+                     (b)  the adjacent area for the Territory of Ashmore and Cartier Islands (within the meaning of subsection (3) of section 5A of the _Petroleum (Submerged Lands) Act 1967_ (Commonwealth)) other than the territorial sea within that area; and
 
-                     (c)  the space above and below the areas described in paragraphs (a) and (b).
+                     (c)  the space above and below the areas described in paragraphs (a) and (b).
 
              (5)  However, the **_adjacent area_** for a State does not include any area inside the limits of any State or Territory.
 
@@ -709,11 +719,15 @@ and includes the space above and below that area.
 
              (2)  The map is intended to be indicative only. The provisions of this scheme and of the body of this Act prevail over the map if there is any inconsistency.
 
-# Appendix 1—Indicative map [_see_ Note 2]
+# Appendix 1—Indicative map
 
-![](http://www.comlaw.gov.au/Details/C2004C03201/Html/CrimesatSea2000_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03200/Html/CrimSea00_image002.gif)
 
-# Schedule 2—Consequential amendments
+ 
+
+# Schedule 2—Consequential amendments
+
+Clauses 1 to 10
 
 * * *
 
@@ -729,8 +743,7 @@ Nuclear Non-Proliferation (Safeguards) Act 1987
 
 Offshore Minerals Act 1994
 
-Petroleum (Timor Gap Zone of Cooperation) Act 1990 
- \[repealed by Act No. 10, 2003, Schedule 1, item 70]
+Petroleum (Timor Gap Zone of Cooperation) Act 1990
 
 Petroleum (Submerged Lands) Act 1967
 
@@ -738,11 +751,11 @@ Sea Installations Act 1987
 
 South Pacific Nuclear Free Zone Treaty Act 1986
 
-For access to the wording of the amendments made by this Schedule, click here [_Crimes at Sea Act 2000_ No. 13, 2000].
+For access to the wording of the amendments made by this Schedule, click here [_Crimes at Sea Act 2000_ No. 13, 2000].
 
 * * *
 
-## 11  Application of amendments
+11  Application of amendments
 
 (1)        The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
 
@@ -754,7 +767,7 @@ For access to the wording of the amendments made by this Schedule, click here [_
 
 ### Note 1
 
-The _Crimes at Sea Act 2000_ as shown in this compilation comprises Act No. 13, 2000 amended as indicated in the Tables below.
+The _Crimes at Sea Act 2000_ as shown in this compilation comprises Act No. 13, 2000 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -767,27 +780,25 @@ The _Crimes at Sea Act 2000_ as shown in this compilation comprises Act No. 13
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td>
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Crimes at Sea Act 2000</div>
@@ -800,7 +811,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 31 Mar 2001</div>
+Remainder: 31 Mar 2001</div>
   </td>
   <td>
     <div></div>
@@ -817,35 +828,16 @@ Remainder: 31 Mar 2001</div>
     <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 18–25): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>10, 2003</div>
-  </td>
-  <td>
-    <div>2 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–52, 54–75, 
-78–82): 20 May 2002 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (items 18-25): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (items 18–25) only of the _Timor Gap Treaty (Transitional Arrangements) Act 2000_, subsection 2(3) of which provides as follows:
+_(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (items 18-25) only of the _Timor Gap Treaty (Transitional Arrangements) Act 2000_, subsection 2(3) of which provides as follows:
 
-                 (3)   Items 18 to 25 of Schedule 2 commence immediately before the commencement of Schedule 1 to the _Crimes at Sea Act 2000_. 
+                 (3)   Items 18 to 25 of Schedule 2 commence immediately before the commencement of Schedule 1 to the _Crimes at Sea Act 2000_. 
 
 ## Table of Amendments
 
@@ -855,24 +847,22 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 1 (ss. 1-4)</div>
   </td>
   <td>
     <div></div>
@@ -880,7 +870,7 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div>Ss. 1–3</div>
+    <div>Ss. 1-3</div>
   </td>
   <td>
     <div></div>
@@ -891,12 +881,12 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 25, 2000; No. 10, 2003</div>
+    <div>am. No. 25, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div>Part 2 (s. 5)</div>
   </td>
   <td>
     <div></div>
@@ -912,7 +902,7 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div>Part 3 (s. 6)</div>
   </td>
   <td>
     <div></div>
@@ -928,7 +918,24 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div><b>Part 3A</b></div>
+    <div>Part 3A 
+(ss. 6A–6C)</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 6A–6C</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 4 (ss. 7-9)</div>
   </td>
   <td>
     <div></div>
@@ -936,79 +943,7 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6A</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6B</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6C</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
+    <div>Ss. 7-9</div>
   </td>
   <td>
     <div></div>
@@ -1016,18 +951,10 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div>Ss. 7–9</div>
+    <div>Schedule 1 (cc. 1-16)</div>
   </td>
   <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 25, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1035,12 +962,12 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
     <div>C. 1</div>
   </td>
   <td>
-    <div>am. No. 25, 2000; No. 10, 2003</div>
+    <div>am. No. 25, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Cc. 2–9</div>
+    <div>Cc. 2-16</div>
   </td>
   <td>
     <div></div>
@@ -1048,23 +975,15 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div>Heading to c. 10</div>
+    <div>Schedule 2 (cc. 1-11)</div>
   </td>
   <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 10</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
+    <div>am. No. 25, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Cc. 11–13</div>
+    <div>Cc. 1-6</div>
   </td>
   <td>
     <div></div>
@@ -1072,15 +991,15 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div>C. 14</div>
+    <div>Heading to c. 7</div>
   </td>
   <td>
-    <div>am. No. 10, 2003</div>
+    <div>am. No. 25, 2000</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Cc. 15, 16</div>
+    <div>C. 7</div>
   </td>
   <td>
     <div></div>
@@ -1088,39 +1007,11 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div>Appendix 1 to Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
+    <div>Cc. 8-11</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 25, 2000</div>
   </td>
 </tr></table>
-
-### Note 2
-
-Appendix 1 to Schedule 1—Schedule 1 (item 18) of the _Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003_ provides as follows: 
-
-Schedule 1
-
-18  Schedule 1 (legend of the map in Appendix 1)
-
-Omit “Area A of the Zone of Cooperation”, substitute “the Joint Petroleum Development Area”.
-
-This amendment is in force but has not been incorporated in this compilation.
 
  
