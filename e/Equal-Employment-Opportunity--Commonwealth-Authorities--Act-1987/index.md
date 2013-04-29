@@ -1,9 +1,8 @@
 
 Equal Employment Opportunity (Commonwealth Authorities) Act 1987
 Act No. 20 of 1987 as amended
-This compilation was prepared on 14 February 2003 taking into account amendments up to Act No. 127 of 2002
+This compilation was prepared on 19 January 2001 taking into account amendments up to Act No. 145 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
@@ -25,8 +24,7 @@ Part III—Reports by relevant authorities	7
 Part IV—Miscellaneous	10
 12	Directions by Minister	10
 15	Regulations	10
-Notes	11
-
+Notes		11
 An Act to require certain Commonwealth authorities to promote equal opportunity in employment for women and persons in designated groups and for related purposes
 Part I—Preliminary
   
@@ -69,9 +67,7 @@ program, in relation to a relevant authority, means an equal employment opportun
 	(b)	to promote equal opportunity for;
 women and persons in designated groups in relation to employment matters.
 relevant authority means an authority that employs 40 or more employees in Australia.
-responsible Minister, for a relevant authority, means:
-	(a)	if the regulations prescribe a Minister as responsible for the authority—that Minister; or
-	(b)	otherwise—the Minister responsible for the authority.
+responsible Minister, in respect of a relevant authority, means the Minister administering the law by or under which the authority is established or another Minister acting for and on behalf of that Minister.
 trade union means:
 	(a)	an organisation of employees registered pursuant to the Conciliation and Arbitration Act 1904; or
 	(b)	a trade union within the meaning of a State Act or law of a Territory.
@@ -181,20 +177,15 @@ Wool Services Privatisation Act 2000
 7 Dec 2000
 Schedule 1: 1 Jan 2001 (see Gazette 2000, No. S638)  Remainder: Royal Assent
 —
-Workplace Relations Legislation Amendment Act 2002
-127, 2002
-11 Dec 2002
-Schedule 3 (item 18): 14 Feb 2003 (see Gazette 2003, No. GN6)
-—
 (a)	The Equal Employment Opportunity (Commonwealth Authorities) Act 1987 was amended by Schedule 1 (items 424-433) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
-am. No. 146, 1999; No. 145, 2000; No. 127, 2002
+am. No. 146, 1999; No. 145, 2000
 S. 8	
 rep. No. 146, 1999
 Ss. 9, 10	
