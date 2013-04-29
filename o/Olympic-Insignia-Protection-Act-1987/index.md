@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2006C00623/Html/OlymipicInsigProtect198756_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00062/Html/CFCE842B077FF31ECA257130001A8EC8/$FILE/image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 9 October 2006
- taking into account amendments up to Act No. 106 of 2006
+This compilation was prepared on 13 March 2006
+taking into account amendments up to Act No. 7 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -72,7 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Validation of certain licences                                                             14
 
-[17](#17).          Application of the _Copyright Act 1968_                                             15
+[17](#17).          Application of the _Copyright Act 1968_                                             14
 
 [18](#18).          Protected designs not to be registered under the _Designs Act 1906_  16
 
@@ -226,6 +228,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to make provision for the protection of the olympic insignia, for the regulation of the commercial use of certain olympic expressions, and for related purposes
 
 # Chapter 1—Introduction
@@ -240,11 +243,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Chapter 2 of this Act
-
-protects the olympic insignia by:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Chapter 2 of this Act protects the olympic insignia by:</li>
 
                (a)     making the AOC the owner of copyright in the olympic symbol; and
 
@@ -252,13 +253,7 @@ protects the olympic insignia by:</li>
 
                (c)     providing that the olympic motto, the olympic symbol and certain other olympic images must not be registered as trade marks.
 
-<li class="BoxList" style="margin-left:21.25pt">•      Chapter 3 of this Act
-
-prohibits the commercial use of certain olympic expressions unless the user
-
-holds a licence granted by the AOC.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Chapter 3 of this Act prohibits the commercial use of certain olympic expressions unless the user holds a licence granted by the AOC.</li></div>
 
 # Chapter 2—Copyright and design protection
 
@@ -760,7 +755,7 @@ it is a defence if the defendant satisfies the court:
 
              (2)  Any compensation recovered in proceedings that are instituted under this section shall be taken into account in assessing damages or compensation or giving any other remedy in proceedings that are instituted otherwise than by virtue of this Chapter and that arise out of the same event or transaction.
 
-             (3)   Any damages or compensation recovered or other remedy given in proceedings that are instituted otherwise than by virtue of this Chapter shall be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.
+             (3)  Any damages or compensation recovered or other remedy given in proceedings that are instituted otherwise than by virtue of this Chapter shall be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.
 
              (4)  In this section, **_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
 
@@ -976,7 +971,7 @@ with the committee, games, team, section or individual concerned.
 
              (3)  An exchange mentioned in subsection (1) may be wholly or partly for the right mentioned in that subsection.
 
-##### <a id="30"></a>30  Use for commercial purposes
+##### <a id="30"></a>30  Use for commercial purposes
 
              (1)  This section sets out the 2 situations in which a person is said to use a protected olympic expression for commercial purposes.
 
@@ -1108,7 +1103,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
                             (iii)  a State/Territory institute or academy of sport;
 
-                            has been involved in preparing or training Olympians in relation to a Summer or Winter Olympic Games; and
+                            has been involved in preparing or training Olympians in relation to a Summer or Winter Olympic Games; and
 
                      (b)  the Games have ended; and
 
@@ -1454,7 +1449,7 @@ the AOC is taken to have given the consent.
 
                      (b)  a Sunday; or
 
-                     (c)  a public holiday in the Australian   Capital Territory.
+                     (c)  a public holiday in the Australian Capital Territory.
 
 ##### <a id="50"></a>50  Determinations about owners of goods
 
@@ -1686,11 +1681,11 @@ The court may also award damages for loss that the person aggrieved has suffered
 
                      (b)  the Supreme Court of a State;
 
-                     (c)  the Supreme Court of the Australian   Capital Territory;
+                     (c)  the Supreme Court of the Australian Capital Territory;
 
-                     (d)  the Supreme Court of the Northern   Territory;
+                     (d)  the Supreme Court of the Northern Territory;
 
-                     (e)  the Supreme Court of Norfolk  Island.
+                     (e)  the Supreme Court of Norfolk Island.
 
 ##### <a id="67"></a>67  Jurisdiction of Federal Court
 
@@ -1810,11 +1805,13 @@ Company names
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Schedule—Outline of the olympic symbol
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2006C00623/Html/OlymipicInsigProtect198756_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00062/Html/CFCE842B077FF31ECA257130001A8EC8/$FILE/image002.gif)
+
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -1822,7 +1819,7 @@ Subsection 2(1)
 
 The _Olympic Insignia Protection Act 1987_ as shown in this compilation comprises Act No. 27, 1987 amended as indicated in the Tables below.
 
-### Table of Acts
+# Table of Acts
 
 <table>
 <colgroup>
@@ -1840,11 +1837,13 @@ The _Olympic Insignia Protection Act 1987_ as shown in this compilation comprise
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1854,91 +1853,77 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Olympic Insignia Protection Act 1987</div>
-  </td>
-  <td>
-    <div>27, 1987</div>
-  </td>
-  <td>
-    <div>26 May 1987</div>
-  </td>
-  <td>
-    <div>23 June 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Olympic Insignia Protection Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>44, 1994</div>
-  </td>
-  <td>
-    <div>15 Mar 1994</div>
-  </td>
-  <td>
-    <div>15 Mar 1994</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Olympic Insignia Protection Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>156, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>7, 2006</div>
-  </td>
-  <td>
-    <div>7 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 9): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Intellectual Property Laws Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>106, 2006</div>
-  </td>
-  <td>
-    <div>27 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 12 (item 3): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Olympic Insignia Protection Act 1987</div>
+    </td>
+    <td>
+      <div>27, 1987</div>
+    </td>
+    <td>
+      <div>26 May 1987</div>
+    </td>
+    <td>
+      <div>23 June 1987</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Olympic Insignia Protection Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>44, 1994</div>
+    </td>
+    <td>
+      <div>15 Mar 1994</div>
+    </td>
+    <td>
+      <div>15 Mar 1994</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Olympic Insignia Protection Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>156, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Sports Anti-Doping Authority (Consequential and Transitional Provisions) Act 2006</div>
+    </td>
+    <td>
+      <div>7, 2006</div>
+    </td>
+    <td>
+      <div>7 Mar 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 9): 13 Mar 2006 ( <i>see</i>s. 2(1) and F2006L00764)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1963,643 +1948,608 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Chapt. 1</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1.1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>rep. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1.1 
-of Chapt. 1</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Chapt. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2.1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2.1 
-of Chapt. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2.2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2.2 
-of Chapt. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2.3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2.3 
-of Chapt. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7, 8</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2.4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>rep. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2.4 
-of Chapt. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1994; No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Chapt. 3</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3.1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24–27</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28–35</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3.2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36, 37</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3.3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38–40</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3.4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41–48</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49–63</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64, 65</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3.5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 66–69</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3.6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70–75</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Chapt. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4.1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4.1 of 
-Chapt.4</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22 
-Renumbered s. 76</div>
-  </td>
-  <td>
-    <div>
-No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Chapt. 1</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1.1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part I</div>
+    </td>
+    <td>
+      <div>rep. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 1.1 
+of Chapt. 1 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1A</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Chapt. 2</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2.1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2.1 
+of Chapt. 2 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2A</div>
+    </td>
+    <td>
+      <div>ad. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3, 4</div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2.2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>rep. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2.2 
+of Chapt. 2 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2.3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>rep. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2.3 
+of Chapt. 2 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rs. No. 44, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7, 8</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A</div>
+    </td>
+    <td>
+      <div>ad. No. 44, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rs. No. 44, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 44, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2.4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>rep. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2.4 
+of Chapt. 2 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15, 16</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 19</div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 44, 1994; No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Chapt. 3</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3.1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 24–27</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28–35</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3.2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36, 37</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3.3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38–40</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3.4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 41–48</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49–63</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 64, 65</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3.5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 66–69</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3.6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 70–75</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Chapter 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Chapt. 4</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4.1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 4.1 of 
+Chapt.4 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22 
+Renumbered s. 76 
+</div>
+    </td>
+    <td>
+      <div>
+No. 156, 2001 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Intellectual Property Laws Amendment Act 2006 (No. 106, 2006)_
-
-The following amendment commences on 27 March 2007 unless proclaimed earlier:
-
-## Schedule 12
-
-## 3  At the end of Part 2.3
-
-Add:
-
-##### <a id="14A"></a>14A  Doing act when Designs Office reopens after end of period otherwise provided for doing act
-
-             (1)  If the last day of a period provided by this Chapter (except this section), or regulations made for the purposes of this Chapter, for doing an act is a day when the Designs Office is not open for business, the act may be done in prescribed circumstances on the next day when the office is open for business.
-
-             (2)  For the purposes of this section, the Designs Office is taken not to be open for business on a day:
-
-                     (a)  declared by regulations to be a day on which the office is not open for business; or
-
-                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office is not open for business.
-
-Declarations
-
-             (3)  A declaration mentioned in paragraph (2)(a) or (b) may identify the day by reference to its being declared a public holiday by or under a law of a State or Territory. This does not limit the way the declaration may identify the day.
-
-             (4)  A declaration mentioned in paragraph (2)(b):
-
-                     (a)  may be made before, on or after the day; and
-
-                     (b)  is not a legislative instrument.
-
-Relationship with other law
-
-             (5)  This section has effect despite the rest of this Chapter.
-
-             (6)  Subsection 36(2) of the _Acts Interpretation Act 1901_ does not apply in relation to the act mentioned in subsection (1) of this section.
-
-Exception for prescribed act
-
-             (7)  This section does not apply to a prescribed act.
-
-Note:          Subsection 36(2) of the _Acts Interpretation Act 1901_ is relevant to a prescribed act.
-
-As at 9 October 2006 the amendment is not incorporated in this compilation.
 
  
