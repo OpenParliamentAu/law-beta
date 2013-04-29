@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00657/Html/e7bb53a8-af33-411c-8aea-321d0b632cc3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00328/Html/cbee340c-1998-4d1d-b312-3adb9ed0cf4f_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 16 August 2011
- taking into account amendments up to Act No. 89 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1284,9 +1284,9 @@ For all relevant information pertaining to application, saving or transitional p
 <colgroup>
   <col width="28%">
   <col width="15%">
-  <col width="17%">
+  <col width="16%">
   <col width="23%">
-  <col width="17%">
+  <col width="18%">
 </colgroup>
 
 <thead>
@@ -1512,40 +1512,6 @@ Remainder: 7 Apr 2006</div>
   </td>
   <td>
     <div>Schedule 6 (items 125–128): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 604, 605) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 605) and Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>89, 2011</div>
-  </td>
-  <td>
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2: \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2354,59 +2320,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 604  Subsection 58(2) (definition of _modifications_)
-
-Repeal the definition.
-
-As at 16 August 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Financial Framework Legislation Amendment Act (No. 1) 2011
- (No. 89, 2011)_
-
-The following amendments commence on 4 August 2012 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  At the end of section 20
-
-Add:
-
-Sunsetting and disallowance
-
-             (6)  A determination made under subsection (1) or (2) is a legislative instrument, but Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ does not apply to the determination.
-
-Note:          See section 22 for tabling and disallowance of a determination made under subsection (1) or (2).
-
-             (7)  A determination made under subsection (3) is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the determination.
-
-## 2  Paragraph 46(1)(b)
-
-Omit “and the internal and external auditors of the Agency”, substitute “, the internal auditors of the Agency and the Auditor‑General”.
-
-## 3  At the end of section 52
-
-Add:
-
-             (3)  An instruction is not a legislative instrument.
-
-## 4  Subsection 64(3)
-
-Repeal the subsection, substitute:
-
-             (3)  A guideline is a legislative instrument, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the guideline.
-
-As at 16 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2676,27 +2589,5 @@ The amendment made by item 54 applies in relation to:
                      (a)  Agencies that cease to exist on or after the commencement of that item; and
 
                      (b)  functions of an Agency that are transferred on or after the commencement of that item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 605  Saving of regulations
-
-The amendment made by item 604 does not affect the validity of regulations in force for the purposes of subsection 58(1) of the _Financial Management and Accountability Act 1997_ immediately before the commencement of that item.
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
