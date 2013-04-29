@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00691/Html/09c4ddb4-fc9a-4aaf-b8f8-b6760e58ab1c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00561/Html/056ffedd-3cb7-4232-bd94-0b4cf631841a_files/image001.gif)
 
 # Acts Publication Act 1905
 
 **Act No. 13 of 1905 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 107 of 2012
+This compilation was prepared on 4 December 2009
+ taking into account amendments up to Act No. 135 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -63,9 +64,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="compil"></a>**_compilation_**, of an Act that has been amended (whether by another Act or by a legislative instrument) with effect from a particular day, means the Act as so amended and in force on that day.
 
-                    <a name="first-parliamentari-counsel"></a>**_First Parliamentary Counsel_** means the person appointed to the position of First Parliamentary Counsel under subsection 4(1) of the _Parliamentary Counsel Act 1970_.
-
                     <a name="legisl-instrum"></a>**_legislative instrument_** has the same meaning as in the _Legislative Instruments Act 2003_.
+
+                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
 
 ## Part 2—Printed publication of Acts
 
@@ -89,7 +90,7 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 
                      (b)  made by section 6 of that Act.
 
-             (3)  In this Act, **_words_** includes Part, Division, Subdivision, heading, section, subsection, paragraph, sub‑paragraph, sub‑sub‑paragraph, clause, sub‑clause and Schedule.
+             (3)  In this Act, **_words_** includes Part, Division, Subdivision, heading, section, subsection, paragraph, sub-paragraph, sub-sub-paragraph, clause, sub-clause and Schedule.
 
 ##### <a id="3"></a>3  Reference to amending Act
 
@@ -99,15 +100,15 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 
 ##### <a id="4"></a>4  Acts database
 
-             (1)  The First Parliamentary Counsel may cause to be maintained an electronic database of:
+             (1)  The Secretary may cause to be maintained an electronic database of:
 
                      (a)  Acts as assented to; and
 
                      (b)  compilations of Acts.
 
-             (2)  The First Parliamentary Counsel may, in writing, declare a database maintained under this section to be an Acts database for the purposes of this Act.
+             (2)  The Secretary may, in writing, declare a database maintained under this section to be an Acts database for the purposes of this Act.
 
-             (3)  The First Parliamentary Counsel must cause steps to be taken to ensure that Acts and compilations of Acts in an Acts database are available to the public.
+             (3)  The Secretary must cause steps to be taken to ensure that Acts and compilations of Acts in an Acts database are available to the public.
 
              (4)  A declaration made under subsection (2):
 
@@ -151,13 +152,13 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 
 ##### <a id="8"></a>8  Rectification of an Acts database
 
-             (1)  The First Parliamentary Counsel must arrange for an Acts database to be altered to rectify an error as soon as possible after the First Parliamentary Counsel becomes aware of the error, if the First Parliamentary Counsel is satisfied that the error has the result that:
+             (1)  The Secretary must arrange for an Acts database to be altered to rectify an error as soon as possible after the Secretary becomes aware of the error, if the Secretary is satisfied that the error has the result that:
 
                      (a)  for an error concerning an Act—the electronic text of the Act as it appears in the database does not represent the text of the Act as assented to; or
 
                      (b)  for an error concerning a compilation of an Act—the electronic text of the compilation as it appears in the database does not represent the state of the law that the text purports to represent.
 
-             (2)  The First Parliamentary Counsel must arrange for the Acts database (as rectified) to be annotated to explain:
+             (2)  The Secretary must arrange for the Acts database (as rectified) to be annotated to explain:
 
                      (a)  the nature, day and time of the rectification; and
 
@@ -173,7 +174,7 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -184,8 +185,6 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 ### Note 1
 
 The _Acts Publication Act 1905_ as shown in this compilation comprises Act No. 13, 1905 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 22 July 2012 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -315,7 +314,7 @@ of Assent</div>
     <div>20 June 1983</div>
   </td>
   <td>
-    <div>S. 3: 18 July 1983</div>
+    <div>S. 3: 18 July 1983 <i>(a)</i></div>
   </td>
   <td>
     <div>S. 7(1)</div>
@@ -332,7 +331,7 @@ of Assent</div>
     <div>16 Dec 1985</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: <i>(b)</i></div>
   </td>
   <td>
     <div>S. 16</div>
@@ -349,7 +348,7 @@ of Assent</div>
     <div>17 Dec 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (item 9): <i>(a)</i></div>
+    <div>Schedule 1 (item 9): <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -371,26 +370,17 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Counsel and Other Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>107, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–7, 46, 47): 1 Oct 2012 ( <i>see</i>F2012L01963)</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 46, 47) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (item 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+_(a)_     The _Acts Publication Act 1905_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+_(b)_     The _Acts Publication Act 1905_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(c)_     Subsection 2(1) (item 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences on the day or at the time specified in column 2 of the table.
 
@@ -543,14 +533,6 @@ _(a)_     Subsection 2(1) (item 3) of the _Legislative Instruments (Tr
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 107, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -615,50 +597,10 @@ _(a)_     Subsection 2(1) (item 3) of the _Legislative Instruments (Tr
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 107, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
+    <div>Ss. 5–8</div>
   </td>
   <td>
     <div>ad. No. 135, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 107, 2012</div>
   </td>
 </tr>
 <tr>
@@ -685,28 +627,5 @@ _(a)_     Subsection 2(1) (item 3) of the _Legislative Instruments (Tr
     <div>ad. No. 135, 2008</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Parliamentary Counsel and Other Legislation Amendment Act 2012
- (No. 107, 2012)_
-
-## Schedule 2
-
-## 46  Definitions
-
-(1)       In this Part:
-
-**_Secretary_** means the Secretary of the Department.
-
-(2)       To avoid doubt, a reference in this Part to doing a thing includes a reference to making an instrument.
-
-## 47  Things done under the _Acts Publication Act 1905_
-
-(1)       If, before the commencement of this item, a thing was done by or in relation to the Secretary under a provision of the _Acts Publication Act 1905_ then, for the purposes of the operation of any law of the Commonwealth on and after the commencement of this item, the thing is taken to have been done by or in relation to the First Parliamentary Counsel under that provision as in force after the commencement of this item.
-
-(2)       Subitem (1) is not to be taken to change the time at which a thing was done by or in relation to the Secretary.
 
  
