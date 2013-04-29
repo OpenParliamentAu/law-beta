@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00323/Html/feb53cd8-7e12-4a5d-a59d-434262046f61_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image001.gif)
 
 # Competition and Consumer Act 2010
 
 **Act No. 51 of 1974 as amended**
 
-This compilation was prepared on 21 March 2012
+This compilation was prepared on 6 February 2012
  taking into account amendments up to Act No. 185 of 2011
 
 **Volume 1** includes:     Table of Contents
@@ -1744,7 +1744,7 @@ that first‑mentioned body corporate and that other body corporate shall, for t
 
                              (ii)  where that price exceeded the prescribed amount—the goods were of a kind ordinarily acquired for personal, domestic or household use or consumption or the goods consisted of a commercial road vehicle;
 
-                            and the person did not acquire the goods, or hold himself or herself out as acquiring the goods, for the purpose of 
+                            and the person did not acquire the goods, or hold himself or herself out as acquiring the goods, for the purpose of 
  re‑supply or for the purpose of using them up or transforming them, in trade or commerce, in the course of a process of production or manufacture or of repairing or treating other goods or fixtures on land; and
 
                      (b)  a person shall be taken to have acquired particular services as a consumer if, and only if:
@@ -2498,7 +2498,7 @@ Note:          Section 29BC sets out when such a law imposes
 
              (3)  The Council cannot perform a duty or function, or exercise a power, under a State/Territory energy law unless the conferral of the function or power, or the imposition of the duty, is in accordance with an agreement between the Commonwealth and the State or Territory concerned.
 
-##### <a id="29BB"></a>29BB  How duty is imposed
+##### <a id="29BB"></a>29BB  How duty is imposed
 
 Application
 
@@ -2722,7 +2722,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="32"></a>32  Terms and conditions of appointment
 
-                   Subject to this Part, a member of the Tribunal holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Governor‑General determines, but is eligible for re‑appointment.
+                   Subject to this Part, a member of the Tribunal holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Governor‑General determines, but is eligible for re‑appointment.
 
 ##### <a id="33"></a>33  Remuneration and allowances of members of Tribunal
 
@@ -2889,7 +2889,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="44AC"></a>44AC  This Part binds the Crown
 
-                   This Part binds the Crown in each of its capacities.
+                   This Part binds the Crown in each of its capacities.
 
 ##### <a id="44AD"></a>44AD  Extra‑territorial operation
 
@@ -4611,7 +4611,7 @@ Decision is not a legislative instrument
 
 #### Subdivision E—Review of decisions
 
-##### <a id="44LJ"></a>44LJ  Review of ineligibility decisions
+##### <a id="44LJ"></a>44LJ  Review of ineligibility decisions
 
 Application for review
 
@@ -5969,7 +5969,7 @@ Deemed final determination
 
                    For the purposes of a particular arbitration, the Commission is to be constituted by 2 or more members of the Commission nominated in writing by the Chairperson.
 
-##### <a id="44ZA"></a>44ZA  Member of the Commission presiding at an arbitration
+##### <a id="44ZA"></a>44ZA  Member of the Commission presiding at an arbitration
 
              (1)  Subject to subsection (2), the Chairperson is to preside at an arbitration.
 
@@ -8189,7 +8189,7 @@ Note:          **_Party_** has an extended meaning—see secti
 
                      (b)  a finding of guilt would be inconsistent with their acquittal.
 
-##### <a id="44ZZRI"></a>44ZZRI  Court may make related civil orders
+##### <a id="44ZZRI"></a>44ZZRI  Court may make related civil orders
 
                    If a prosecution against a person for an offence against section 44ZZRF or 44ZZRG is being, or has been, heard by a court, the court may:
 
@@ -11095,7 +11095,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  This diagram shows when this Division prevents an award of personal injury damages.
 
-![](http://www.comlaw.gov.au/Details/C2012C00323/Html/feb53cd8-7e12-4a5d-a59d-434262046f61_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image002.gif)
 
 ##### <a id="87G"></a>87G  Date of discoverability
 
@@ -11207,7 +11207,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
                      (b)  during a later year—the amount worked out (to the nearest multiple of $10) as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00323/Html/feb53cd8-7e12-4a5d-a59d-434262046f61_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image003.gif)
 
                             where:
 
@@ -11640,7 +11640,7 @@ the court must not award as personal injury damages for the services:
 
                    A court must not, in a proceeding to which this Part applies, award personal injury damages for economic loss due to the loss of employer superannuation contributions an amount that exceeds the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00323/Html/feb53cd8-7e12-4a5d-a59d-434262046f61_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00198/Html/a82a0f88-abde-4951-a76c-62361090a1ee_files/image004.gif)
 
 where:
 
@@ -12798,7 +12798,7 @@ Note:          Section 93AE deals with the withdrawal of a c
   </td>
 </tr></table>
 
-##### <a id="93AE"></a>93AE  Withdrawal of collective bargaining notice
+##### <a id="93AE"></a>93AE  Withdrawal of collective bargaining notice
 
 Withdrawal by corporation
 
@@ -13186,7 +13186,7 @@ When Commission may exclude information—no request made
 
              (2)  The Commission may consult with such persons as it considers reasonable and appropriate for the purposes of making its determination on the application.
 
-##### <a id="95AL"></a>95AL  Applicant may withdraw application
+##### <a id="95AL"></a>95AL  Applicant may withdraw application
 
                    The applicant may, by notice in writing to the Commission, withdraw the application at any time.
 
