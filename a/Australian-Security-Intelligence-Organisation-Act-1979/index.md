@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00364/Html/571e5f2c-abad-43f7-9856-564caa478a75_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00144/Html/9d461b55-5110-4ad8-8f9a-5720b5df8a59_files/image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 10 May 2011
+This compilation was prepared on 29 March 2011
  taking into account amendments up to Act No. 5 of 2011
 
 [**Note**: Division 3 of Part III ceases to be in force on 22 July 2016, 
@@ -376,8 +376,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="data-storag-devic"></a>**_data storage device_** means a thing (for example, a disk or file server) containing (whether temporarily or permanently), or designed to contain (whether temporarily or permanently), data for use by a computer.
 
-                    <a name="defenc-depart"></a>**_Defence Department_** means the Department of State that deals with defence and that is administered by the Minister administering section 1 of the _Defence Act 1903_.
-
                     <a name="deputi-director-gener"></a>**_Deputy Director‑General_** means an officer of the Organisation who holds office as Deputy Director‑General of Security.
 
                     <a name="digo"></a>**_DIGO_**has the meaning given by the _Intelligence Services Act 2001_.
@@ -408,11 +406,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the Office of National Assessments;
 
-                     (c)  that part of the Defence Department known as the Defence Imagery and Geospatial Organisation;
+                     (c)  that part of the Department of Defence known as the Defence Imagery and Geospatial Organisation;
 
-                     (d)  that part of the Defence Department known as the Defence Intelligence Organisation;
+                     (d)  that part of the Department of Defence known as the Defence Intelligence Organisation;
 
-                     (e)  that part of the Defence Department known as the Defence Signals Directorate.
+                     (e)  that part of the Department of Defence known as the Defence Signals Directorate.
 
                     <a name="judg"></a>**_Judge_** means a Judge of a court created by the Parliament.
 
@@ -482,7 +480,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (vi)  acts of foreign interference;
 
-                            whether directed from, or committed within, Australia or not; and
+                            whether directed from, or committed within, Australia or not; and
 
                     (aa)  the protection of Australia’s territorial and border integrity from serious threats; and
 
@@ -834,7 +832,7 @@ Note 2:       There are additional restrictions, in the _Telecommuni
 
 ##### <a id="22"></a>22  Interpretation
 
-                   In this Division, unless the contrary intention appears:
+                   In this Division, unless the contrary intention appears:
 
                     <a name="carrier"></a>**_carrier_** means:
 
@@ -3280,7 +3278,7 @@ Implied freedom of political communication
 
 ##### <a id="34ZV"></a>34ZV  Law relating to legal professional privilege not affected
 
-                   To avoid doubt, this Division does not affect the law relating to legal professional privilege.
+                   To avoid doubt, this Division does not affect the law relating to legal professional privilege.
 
 ##### <a id="34ZW"></a>34ZW  Jurisdiction of State and Territory courts excluded
 
@@ -3320,7 +3318,7 @@ Limit on assistance
 
 ##### <a id="34ZY"></a>34ZY  Instruments are not legislative instruments
 
-                   An instrument made under this Division (other than an instrument made by the Minister under section 34C) is not a legislative instrument.
+                   An instrument made under this Division (other than an instrument made by the Minister under section 34C) is not a legislative instrument.
 
 ##### <a id="34ZZ"></a>34ZZ  Cessation of effect of Division
 
@@ -3546,7 +3544,7 @@ and a reference in this section to information or a document shall be read as a 
 
 ##### <a id="86"></a>86  Conditions of employment
 
-                   Officers and employees of the Organisation are not subject to the _Public Service Act 1999_ but, subject to this Act, the terms and conditions upon which the Director‑General shall employ persons as officers, and the terms and conditions of employment applicable to temporary and casual employees, shall be such as are determined from time to time by the Director‑General.
+                   Officers and employees of the Organisation are not subject to the _Public Service Act 1999_ but, subject to this Act, the terms and conditions upon which the Director‑General shall employ persons as officers, and the terms and conditions of employment applicable to temporary and casual employees, shall be such as are determined from time to time by the Director‑General.
 
 ##### <a id="87"></a>87  Special provisions relating to existing employees
 
@@ -4790,7 +4788,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (items 10, 11): 19 Apr 2011</div>
+    <div>Schedule 6 (items 10, 11): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -5197,7 +5195,7 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010; Nos. 4 and 5, 2011</div>
+    <div>am. No. 122, 1986; No. 159, 1989; No. 75, 1990; No. 136, 1991; No. 139, 1991 (as am. by No. 182, 1994); No. 182, 1994; Nos. 146 and 161, 1999; No. 153, 2001; No. 77, 2003; Nos. 118, 128 and 144, 2005; No. 3, 2007; No. 50, 2010; No. 4, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7856,6 +7854,26 @@ _(s)_     Subsection 2(1) (items 2–4) of the _Law Enforcement (AFP P
     <div>am. No. 122, 1986; No. 161, 1999; No. 77, 2003; No. 54, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Statute Law Revision Act 2011 (No. 5, 2011)_
+
+The following amendments commence on 19 April 2011:
+
+## Schedule 6
+
+## 10  Section 4
+
+Insert:
+
+                    <a name="defenc-depart"></a>**_Defence Department_** means the Department of State that deals with defence and that is administered by the Minister administering section 1 of the _Defence Act 1903_.
+
+## 11  Section 4 (paragraphs (c), (d) and (e) of the definition of _intelligence or security agency_)
+
+Omit “Department of Defence”, substitute “Defence Department”.
+
+As at 29 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
