@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00054/Html/3caabbec-b0fd-4dec-bfb9-7b131aaf28a1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00724/Html/a152ed01-e956-4fbd-8abf-b58e1f5cd2a5_files/image001.gif)
 
 # Crimes at Sea Act 2000
 
 **Act No. 13 of 2000 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 6 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Indicative map
 
-**Appendix 1—Indicative map** 
+**Appendix 1—Indicative map [_see_ Note 2]** 
 
 **Schedule 2—Consequential amendments** 
 
@@ -264,7 +264,7 @@ it is a defence to prove:
 
                              (v)  the Territory of Ashmore and Cartier Islands;
 
-                            (vi)  the Coral Sea Island  s Territory.
+                            (vi)  the Coral Sea Islands Territory.
 
            (11)  In this section:
 
@@ -640,7 +640,7 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
 ##### <a id="11"></a>11  Interpretation
 
-                   The _Acts Interpretation Act 1901_ (Commonwealth) applies to this scheme in the same way as to a Commonwealth Act.
+                   The _Acts Interpretation Act 1901_ (Commonwealth) applies to this scheme in the same way as to a Commonwealth Act.
 
 ##### <a id="12"></a>12  Regulations
 
@@ -660,7 +660,11 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                     <a name="baselin-australia-territori-sea"></a>**_baseline of Australia’s territorial sea_** means the baseline from which the breadth of the territorial sea is to be measured under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth).
 
-##### <a id="14"></a>14  Adjacent areas
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_ (Commonwealth).
+
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_ (Commonwealth).
+
+##### <a id="14"></a>14  Adjacent areas
 
              (1)  The **_adjacent area_** for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
 
@@ -674,7 +678,7 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
                      (d)  the space above and below the areas described in paragraphs (a), (b) and (c).
 
-             (3)  The **_adjacent area_** for Western Australia is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to Western Australia as:
+             (3)  The **_adjacent area_** for Western Australia is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to   Western Australia as:
 
                      (a)  is within the outer limits of the continental shelf; and
 
@@ -706,9 +710,11 @@ and includes the space above and below that area.
 
              (2)  The map is intended to be indicative only. The provisions of this scheme and of the body of this Act prevail over the map if there is any inconsistency.
 
-# Appendix 1—Indicative map
+# Appendix 1—Indicative map [_see_ Note 2]
 
-![](http://www.comlaw.gov.au/Details/C2012C00054/Html/3caabbec-b0fd-4dec-bfb9-7b131aaf28a1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00724/Html/a152ed01-e956-4fbd-8abf-b58e1f5cd2a5_files/image002.gif)
+
+ 
 
 # Schedule 2—Consequential amendments
 
@@ -718,22 +724,24 @@ and includes the space above and below that area.
 
 The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-_Crimes Act 1914_
+Crimes Act 1914
 
-_Crimes at Sea Act 1979_
+Crimes at Sea Act 1979
  \[repealed by Act No. 13, 2000, Schedule 2, item 3]
 
-_Nuclear Non‑Proliferation (Safeguards) Act 1987_
+Nuclear Non‑Proliferation (Safeguards) Act 1987
 
-_Offshore Minerals Act 1994_
+Offshore Minerals Act 1994
 
-_Petroleum (Timor Gap Zone of Cooperation) Act 1990_\[repealed by Act No. 10, 2003, Schedule 1, item 70]
+Petroleum (Timor Gap Zone of Cooperation) Act 1990 
+ \[repealed by Act No. 10, 2003, Schedule 1, item 70]
 
-_Petroleum (Submerged Lands) Act 1967_\[repealed by Act No. 17, 2006, Schedule 1, item 1]
+Petroleum (Submerged Lands) Act 1967
+ \[repealed by Act No. 17, 2006, Schedule 1, item 1]
 
-_Sea Installations Act 1987_
+Sea Installations Act 1987
 
-_South Pacific Nuclear Free Zone Treaty Act 1986_
+South Pacific Nuclear Free Zone Treaty Act 1986
 
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 13, 2000.
 
@@ -799,7 +807,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 31 Mar 2001</div>
+Remainder: 31 Mar 2001</div>
   </td>
   <td>
     <div></div>
@@ -833,8 +841,8 @@ Remainder: 31 Mar 2001</div>
     <div>2 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–52, 
-54–75, 78–82): 20 May 2002 
+    <div>Schedule 1 (items 1–52, 54–75, 
+78–82): 20 May 2002 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -869,7 +877,7 @@ Remainder: Royal Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 14–17): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
+    <div>Schedule 2 (items 14–17): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
   </td>
   <td>
     <div>—</div>
@@ -903,10 +911,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 457, 458) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 457, 458) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -918,8 +926,8 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1043,26 +1051,10 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>C. 1</div>
   </td>
   <td>
     <div>am. No. 25, 2000; No. 10, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1083,22 +1075,6 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 13</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>C. 14</div>
   </td>
   <td>
@@ -1107,15 +1083,7 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
-    <div><b>Appendix 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Appendix 1</div>
+    <div>Appendix 1 to Schedule 1</div>
   </td>
   <td>
     <div>am. No. 10, 2003</div>
@@ -1138,6 +1106,36 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
   </td>
 </tr></table>
 
+### Note 2
+
+Appendix 1 to Schedule 1—Schedule 1 (item 18) of the _Petroleum (Timor Sea Treaty) (Consequential Amendments) Act 2003_ provides as follows: 
+
+## Schedule 1
+
+## 18  Schedule 1 (legend of the map in Appendix 1)
+
+Omit “Area A of the Zone of Cooperation”, substitute “the Joint Petroleum Development Area”.
+
+This amendment is in force but has not been incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 457  Clause 13 of Schedule 1 (definition of _continental shelf_)
+
+Repeal the definition.
+
+## 458  Clause 13 of Schedule 1 (definition of _territorial sea_)
+
+Repeal the definition.
+
+As at 6 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1146,13 +1144,15 @@ _Crimes Legislation Enhancement Act 2003 (No. 41, 2003)_
 
 ## Schedule 2
 
-## 4  Application
+##### <a id="4"></a>4  Application
 
-The amendments of the _Crimes at Sea Act 2000_ made by this Schedule apply in relation to conduct engaged in after the start of the day on which this Act receives the Royal Assent.
+                   The amendments of the _Crimes at Sea Act 2000_ made by this Schedule apply in relation to conduct engaged in after the start of the day on which this Act receives the Royal Assent.
 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
