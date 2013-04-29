@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00220/Html/CivilAviat1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00168/Html/CivilAviat1988_WD02_image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 3 June 2009
- taking into account amendments up to Act No. 33 of 2009
+This compilation was prepared on 6 April 2009
+ taking into account amendments up to Act No. 26 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -578,7 +578,7 @@ Note:          Some references to Australian aircraft may be a
 
                      (a)  the Defence Force;
 
-                     (b)  Customs;
+                     (b)  the Australian Customs Service;
 
                      (c)  the Australian Federal Police;
 
@@ -682,7 +682,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="director"></a>**_Director_** means the Director of Aviation Safety appointed under section 84.
 
-                    <a name="director"></a><a name="director-caa-new-zealand"></a>**_Director of CAA New Zealand_** has the same meaning as **_Director_** has in the Civil Aviation Act 1990 of New   Zealand.
+                    <a name="director"></a><a name="director-caa-new-zealand"></a>**_Director of CAA New Zealand_** has the same meaning as **_Director_** has in the Civil Aviation Act 1990 of New Zealand.
 
                     <a name="evidenti-materi"></a>**_evidential material_** means a thing that may be relevant to a civil aviation offence.
 
@@ -1178,7 +1178,7 @@ if the person is not permitted by or under the regulations to carry out that mai
 
              (4)  In this section, **_flight time_** has the same meaning as in the regulations.
 
-##### <a id="20AC"></a>20AC  Purported issue of authorisation
+##### <a id="20AC"></a>20AC  Purported issue of authorisation
 
              (1)  A person must not purport to give a civil aviation authorisation for the purposes of the regulations unless the person is authorised under those regulations to give the authorisation.
 
@@ -2229,7 +2229,7 @@ Note:          Section 11J of the Civil Aviation Act 1990 of
 
 Note:          CASA must consult the Director of CAA New Zealand if CASA proposes to take action that would or might affect ANZA activities in New Zealand (see section 26C).
 
-##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New   Zealand AOC with ANZA privileges
+##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New Zealand AOC with ANZA privileges
 
              (1)  The regulations may provide that specified regulations made under this Act do not apply in relation to all or specified ANZA activities in Australian territory authorised by a New Zealand AOC with ANZA privileges.
 
@@ -2781,7 +2781,7 @@ the holder produces a receipt from the prescribed person that identifies:
 
 ##### <a id="30DS"></a>30DS  Definitions
 
-                   In this Division:
+                   In this Division:
 
                     <a name="demerit-cancel-notic"></a>**_demerit cancellation notice_** means a notice under section 30EC.
 
@@ -2817,7 +2817,7 @@ the regulations may provide that the subsequent suspension or cancellation under
 
 #### Subdivision B—Incurring demerit points
 
-##### <a id="30DW"></a>30DW  When demerit points are incurred
+##### <a id="30DW"></a>30DW  When demerit points are incurred
 
                    The holder of a civil aviation authorisation incurs demerit points for a prescribed offence if:
 
@@ -4125,7 +4125,7 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
              (2)  Subsection (1) does not prevent investment of any surplus money of CASA under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="49"></a>49  Extra matters to be included in annual report 
+##### <a id="49"></a>49  Extra matters to be included in annual report 
 
              (2)  CASA must include the following particulars in each annual report prepared and submitted under section 9 of the _Commonwealth Authorities and Companies Act 1997_:
 
@@ -5238,325 +5238,310 @@ Remainder: 24 May 2001</div>
 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>143, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002</div>
-  </td>
-  <td>
-    <div>8, 2002</div>
-  </td>
-  <td>
-    <div>4 Apr 2002</div>
-  </td>
-  <td>
-    <div>5 Apr 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport Safety Investigation (Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>19, 2003</div>
-  </td>
-  <td>
-    <div>11 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4A, 5, 5A): <i>(s)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>83, 2003</div>
-  </td>
-  <td>
-    <div>6 Sept 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3, 8–18): 6 Sept 2004 
+<thead>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>143, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>2 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2002</div>
+    </td>
+    <td>
+      <div>8, 2002</div>
+    </td>
+    <td>
+      <div>4 Apr 2002</div>
+    </td>
+    <td>
+      <div>5 Apr 2002</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport Safety Investigation (Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>19, 2003</div>
+    </td>
+    <td>
+      <div>11 Apr 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 4A, 5, 5A): <i>(s)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>83, 2003</div>
+    </td>
+    <td>
+      <div>6 Sept 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–3, 8–18): 6 Sept 2004 
 Schedule 1 (items 4–7, 
 19–23): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>105, 2003</div>
-  </td>
-  <td>
-    <div>21 Oct 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 2, 4, 5, 9, 14–17) and Schedule 2 (item 1): <i>(t)</i> 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>105, 2003</div>
+    </td>
+    <td>
+      <div>21 Oct 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 2, 4, 5, 9, 14–17) and Schedule 2 (item 1): <i>(t)</i> 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Security Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>149, 2004</div>
-  </td>
-  <td>
-    <div>14 Dec 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 7–10): <i>(u)</i> 
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Security Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>149, 2004</div>
+    </td>
+    <td>
+      <div>14 Dec 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 7–10): <i>(u)</i> 
 Schedule 2 (item 3): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>86, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
+    </td>
+    <td>
+      <div>Sch. 2 (item 3) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>86, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 
 4–6) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Legislation Amendment (Mutual Recognition with New Zealand) Act 2006</div>
-  </td>
-  <td>
-    <div>102, 2006</div>
-  </td>
-  <td>
-    <div>16 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–19, 21–28, 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Legislation Amendment (Mutual Recognition with New Zealand) Act 2006</div>
+    </td>
+    <td>
+      <div>102, 2006</div>
+    </td>
+    <td>
+      <div>16 Sept 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–19, 21–28, 
 32–38): 30 Mar 2007 ( <i>see</i>F2007L00796) 
 Schedule 1 (items 20, 29–31): <i>(v)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>109, 2006</div>
-  </td>
-  <td>
-    <div>27 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 17–22): 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
+    </td>
+    <td>
+      <div>109, 2006</div>
+    </td>
+    <td>
+      <div>27 Sept 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 17–22): 
 Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Airspace (Consequentials and Other Measures) Act 2007</div>
-  </td>
-  <td>
-    <div>39, 2007</div>
-  </td>
-  <td>
-    <div>30 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854) 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Airspace (Consequentials and Other Measures) Act 2007</div>
+    </td>
+    <td>
+      <div>39, 2007</div>
+    </td>
+    <td>
+      <div>30 Mar 2007</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (2007 Measures No. 1) Act 2007</div>
-  </td>
-  <td>
-    <div>131, 2007</div>
-  </td>
-  <td>
-    <div>20 Aug 2007</div>
-  </td>
-  <td>
-    <div>21 Aug 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>79, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 14, 15): 24 Jan 2009 ( <i>see</i>F2008L04662)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (2008 Measures No. 1) Act 2008</div>
-  </td>
-  <td>
-    <div>86, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 8–10): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008</div>
-  </td>
-  <td>
-    <div>87, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 25) and Schedule 2 (items 1–28, 48, 49(1)–(6), 50(1)): 20 Mar 2009 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Legislation Amendment (2007 Measures No. 1) Act 2007</div>
+    </td>
+    <td>
+      <div>131, 2007</div>
+    </td>
+    <td>
+      <div>20 Aug 2007</div>
+    </td>
+    <td>
+      <div>21 Aug 2007</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Legislation Amendment (1999 Montreal Convention and Other Measures) Act 2008</div>
+    </td>
+    <td>
+      <div>79, 2008</div>
+    </td>
+    <td>
+      <div>12 July 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 14, 15): 24 Jan 2009 ( <i>see</i>F2008L04662)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Legislation Amendment (2008 Measures No. 1) Act 2008</div>
+    </td>
+    <td>
+      <div>86, 2008</div>
+    </td>
+    <td>
+      <div>20 Sept 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 8–10): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008</div>
+    </td>
+    <td>
+      <div>87, 2008</div>
+    </td>
+    <td>
+      <div>20 Sept 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 25) and Schedule 2 (items 1–28, 48, 49(1)–(6), 50(1)): 20 Mar 2009 
 Schedule 2 (items 51, 53): <i>(w)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 48, 49(1)–(6), 50(1), 53) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>19, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–25) and Schedule 3 (items 1–6): \[ <i>see</i>Note 2 and Table A] 
+    </td>
+    <td>
+      <div>Sch. 2 (items 48, 49(1)–(6), 50(1), 53) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Amendment Act 2009</div>
+    </td>
+    <td>
+      <div>19, 2009</div>
+    </td>
+    <td>
+      <div>26 Mar 2009</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–25) and Schedule 3 (items 1–6): \[ <i>see</i>Note 2 and Table A] 
 Schedule 2 (items 1–21, 23–28) and Schedule 3 (items 7–29): 27 Mar 2009 
 Schedule 2 (item 22): <i>(x)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 25), Sch. 2 (item 28) and Sch. 3 (items 28, 29) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport Safety Investigation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>20, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 70): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (2008 Measures No. 2) Act 2009</div>
-  </td>
-  <td>
-    <div>26, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (item 26): Royal Assent 
+    </td>
+    <td>
+      <div>Sch. 1 (item 25), Sch. 2 (item 28) and Sch. 3 (items 28, 29) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport Safety Investigation Amendment Act 2009</div>
+    </td>
+    <td>
+      <div>20, 2009</div>
+    </td>
+    <td>
+      <div>26 Mar 2009</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 70): \[ <i>see</i>Note 3]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aviation Legislation Amendment (2008 Measures No. 2) Act 2009</div>
+    </td>
+    <td>
+      <div>26, 2009</div>
+    </td>
+    <td>
+      <div>26 Mar 2009</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (item 26): Royal Assent 
 Schedule 1 (items 10, 11): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
-  </td>
-  <td>
-    <div>33, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 14): 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Civil Aviation Act 1988_ was amended by section 8 only of the _Transport Legislation Amendment Act 1989_, subsection 2(3) of which provides as follows:
 
@@ -6393,7 +6378,7 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 6, 1989; No. 25, 1990; Nos. 11, 101 and 173, 1991; No.  196, 1992 (as am. by No. 168, 1994); No. 5, 1994; No. 82, 1995; Nos. 14 and 130, 1997; No. 8, 2000; Nos. 83 and 105, 2003; No. 102, 2006; No. 39, 2007; No. 87, 2008; Nos. 19 and 33, 2009</div>
+    <div>am. No. 6, 1989; No. 25, 1990; Nos. 11, 101 and 173, 1991; No.  196, 1992 (as am. by No. 168, 1994); No. 5, 1994; No. 82, 1995; Nos. 14 and 130, 1997; No. 8, 2000; Nos. 83 and 105, 2003; No. 102, 2006; No. 39, 2007; No. 87, 2008; No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10341,7 +10326,7 @@ Insert:
 
                      (b)  whether a person who has, or is likely to have, effective control over the applicant’s operations is not a fit and proper person to have effective control over the applicant’s operations.
 
-As at 3 June 2009 the amendments are not incorporated in this compilation.
+As at 6 April 2009 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -10357,7 +10342,7 @@ Repeal the paragraph, substitute:
 
                      (a)  cooperating with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
 
-As at 3 June 2009 the amendment is not incorporated in this compilation.
+As at 6 April 2009 the amendment is not incorporated in this compilation.
 
 ### Note 4
 
@@ -10390,7 +10375,7 @@ Insert:
 
                             (iii)  the crew members in relation to the CVR information were notified in writing, before the cockpit voice recording was made, of the intention to copy or disclose the CVR information for the purposes of checking whether the equipment used to make the recording is functioning and reliable.
 
-As at 3 June 2009 the amendments are not incorporated in this compilation.
+As at 6 April 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
