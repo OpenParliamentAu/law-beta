@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00476/Html/d3544469-53c0-4f8b-b974-45d283b07d5d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00455/Html/66f00995-4e33-45c8-9011-93676e164817_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 1 June 2012
+This compilation was prepared on 21 May 2012
  taking into account amendments up to Act No. 47 of 2012
- and SLI 2012 No. 80
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -845,13 +844,13 @@ Note:          Schedule 3 identifies Acts of the States, the
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
+                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
 # Schedule 1—Classes of decisions that are not decisions to which this Act applies
 
 _Section 3_
 
-             (a)  decisions under the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, the _Workplace Relations Act 1996_, the _Building and Construction Industry Improvement Act 2005_ or the _Fair Work (Building Industry) Act 2012_;
+             (a)  decisions under the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, the _Workplace Relations Act 1996_ or the _Building and Construction Industry Improvement Act 2005_;
 
              (c)  decisions under the _Coal Industry Act 1946_, other than decisions of the Joint Coal Board;
 
@@ -1199,7 +1198,7 @@ The _Administrative Decisions (Judicial Review) Act 1977_ as shown in this compi
 
 The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Administrative Decisions (Judicial Review) Regulations (Statutory Rules 1981 No. 274). These Regulations were disallowed by the Senate on 23 March 1982.
 
-The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332), the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50) and the _Building and Construction Industry Improvement Amendment (Transition to Fair Work) Regulation 2012_(SLI 2012 No. 80). The amendments are incorporated in this compilation.
+The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332) and the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 The operation of the _Administrative Decisions (Judicial Review) Act 1977_ is affected by section 40 of the _Archives Act 1983_.
 
@@ -2078,7 +2077,7 @@ Remainder: Royal Assent</div>
     <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, Sch. \[item 17])</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, Sch. \[item 17])</div>
   </td>
 </tr>
 <tr>
@@ -2647,7 +2646,7 @@ Remainder: Royal Assent</div>
 Schedule 2 (items 1–5, 16): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 27) and Sch. 2 (item 16) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 27) and Sch. 2 (item 16) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4623,7 +4622,7 @@ _(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Asses
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012; SLI 2012 No. 80</div>
+    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4675,7 +4674,7 @@ Insert:
 
                    (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
 
-As at 1 June 2012 the amendment is not incorporated in this compilation.
+As at 21 May 2012 the amendment is not incorporated in this compilation.
 
 ### Note 3
 
@@ -4703,7 +4702,7 @@ The following amendment commences immediately after 1 July 2012:
 
 After “Part 3‑10”, insert “, 3‑15”.
 
-As at 1 June 2012 the amendments are not incorporated in this compilation.
+As at 21 May 2012 the amendments are not incorporated in this compilation.
 
 ### Note 4
 
@@ -4717,7 +4716,7 @@ The following amendment commences on 1 July 2012:
 
 Before “in Schedule 1 to that Act”, insert “or 4‑1”.
 
-As at 1 June 2012 the amendment is not incorporated in this compilation.
+As at 21 May 2012 the amendment is not incorporated in this compilation.
 
 ### Note 5
 
@@ -4731,7 +4730,7 @@ The following amendment commences on 1 July 2012:
 
 After “_Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_,”, insert “the _Road Safety Remuneration Act 2012_,”.
 
-As at 1 June 2012 the amendment is not incorporated in this compilation.
+As at 21 May 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5102,7 +5101,7 @@ _Renewable Energy (Electricity) Amendment Act 2006 (No. 90, 2006)_
 
 ## Schedule 1
 
-## 192  Application—assessments
+## 192  Application—assessments
 
 The amendment made by item 1 applies in relation to decisions made after the commencement of that item.
 
