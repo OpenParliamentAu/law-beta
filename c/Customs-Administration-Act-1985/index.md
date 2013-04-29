@@ -1,140 +1,76 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00088/Html/15a81970-aca6-4122-9686-bcea9614bf0e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00297/Html/44baca26-fe85-4f1e-abbd-73e1259beb24_files/image001.gif)
 
 # Customs Administration Act 1985
 
-No. 38, 1985 as amended
+**Act No. 38 of 1985 as amended**
 
-**Compilation start date:**15 February 2013
+This compilation was prepared on 14 March 2012
+ taking into account amendments up to Act No. 174 of 2011
 
-**Includes amendments up to:**Act No. 194, 2012
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
-This is a compilation of the _Customs Administration Act 1985_ as amended and in force on 15 February 2013\. It includes any amendment affecting the compiled Act to that date.
+# Contents
 
-This compilation was prepared on 27 February 2013.
+[1](#1).            Short title [_see_ Note 1]
 
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
+[2](#2).            Commencement [_see_ Note 1]
 
-**Uncommenced provisions and amendments**
+[3](#3).            Interpretation
 
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
+[3A](#3A).         Application of the _Criminal Code_
 
-**Application, saving and transitional provisions for amendments**
+[4](#4).            Australian Customs and Border Protection Service
 
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
+[4AA](#4AA).      Meaning of _Customs_
 
-**Modifications**
+[4A](#4A).         Minister may give directions to CEO
 
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
+[5](#5).            Appointment of CEO
 
-**Provisions ceasing to have effect**
+[6](#6).            Tenure of office
 
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
+[7](#7).            Employment outside official duties
 
-Contents
+[8](#8).            Remuneration and allowances
 
-[1](#1).            Short title                                                                                              1
+[9](#9).            Leave of absence
 
-[2](#2).            Commencement                                                                                    1
+[10](#10).          Resignation
 
-[3](#3).            Interpretation                                                                                        1
+[11](#11).          Disclosure of financial interests
 
-[3A](#3A).         Application of the _Criminal Code_                                                        4
+[12](#12).          Suspension and removal from office of CEO
 
-[3B](#3B).         Authorised officers                                                                              4
+[13](#13).          Acting CEO
 
-[3C](#3C).         Determination of consultants, contractors and subcontractors as Customs workers 4
+[14](#14).          Delegation
 
-[4](#4).            Australian Customs and Border Protection Service                             5
+[15](#15).          Staff
 
-[4AA](#4AA).      Meaning of _Customs_                                                                            5
+[16](#16).          Prohibition of disclosure of certain information
 
-[4A](#4A).         Minister may give directions to CEO                                                   5
+[16AA](#16AA).    Conduct by directors, employees and agents
 
-[4B](#4B).         CEO’s Orders                                                                                      6
+[17](#17).          Annual report
 
-[4C](#4C).         Self‑incrimination—CEO’s Orders relating to the reporting of serious misconduct etc           6
+[18](#18).          Regulations
 
-[5](#5).            Appointment of CEO                                                                           7
-
-[6](#6).            Tenure of office                                                                                    7
-
-[7](#7).            Employment outside official duties                                                      7
-
-[8](#8).            Remuneration and allowances                                                              7
-
-[9](#9).            Leave of absence                                                                                  7
-
-[10](#10).          Resignation                                                                                          8
-
-[11](#11).          Disclosure of financial interests                                                           8
-
-[12](#12).          Suspension and removal from office of CEO                                      8
-
-[13](#13).          Acting CEO                                                                                         9
-
-[14](#14).          Delegation                                                                                            9
-
-[15](#15).          Staff                                                                                                   10
-
-[15A](#15A).       Termination of employment of member of staff for serious misconduct  10
-
-[16](#16).          Prohibition of disclosure of certain information                                 12
-
-[16AA](#16AA).    Conduct by directors, employees and agents                                      21
-
-[16B](#16B).       Authorised officers may require Customs workers to undergo alcohol screening tests etc      22
-
-[16C](#16C).       Authorised officers may require Customs workers to undergo alcohol screening tests, alcohol breath tests or prohibited drug tests etc                                                                                      23
-
-[16D](#16D).       Alcohol screening tests, alcohol breath tests and prohibited drug tests after certain incidents  24
-
-[16E](#16E).        Alcohol screening tests etc —performing duties on board a Customs vessel           26
-
-[16F](#16F).        Regulations                                                                                        26
-
-[16G](#16G).       Admissibility of test results etc  in legal proceedings                         27
-
-[16H](#16H).       CEO may specify prohibited drugs                                                    27
-
-[17](#17).          Annual report                                                                                     28
-
-[18](#18).          Regulations                                                                                        28
-
-Endnotes    
-
-Endnote 1—Legislation history                                                                             29
-
-Endnote 2—Amendment history                                                                          35
-
-Endnote 3—Application, saving and transitional provisions                  37
-
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)              37
-
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)      37
-
-Australian Crime Commission Establishment Act 2002 (No. 125, 2002)       37
-
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)                                38
-
-Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)                 38
-
-Law Enforcement Integrity Legislation Amendment Act 2012 (No. 194, 2012) 39
-
-Endnote 4—Uncommenced amendments                                                        40
-
-Endnote 5—Misdescribed amendments                                                            41
+**Notes** 
 
 ## An Act to provide for an Australian Customs and Border Protection Service, and for purposes connected therewith
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Customs Administration Act 1985_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -142,83 +78,9 @@ Endnote 5—Misdescribed amendments               
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="alcohol-blood-test"></a>**_alcohol blood test_** means a test of a person’s blood to determine the amount of alcohol (if any) in the person’s blood.
-
-                    <a name="alcohol-breath-test"></a>**_alcohol breath test_** means a test of a person’s breath to determine the amount of alcohol (if any) in the person’s blood.
-
-                    <a name="alcohol-screen-test"></a>**_alcohol screening test_** means a test of a  person’s breath to determine whether alcohol is present in the person’s breath.
-
                     <a name="appoint"></a>**_appoint_** includes re‑appoint.
 
-                    <a name="authorised-offic"></a>**_authorised officer_**, in relation to a particular provision of this Act, means an officer of Customs authorised under section 3B to exercise the powers or perform the functions of an authorised officer under that provision.
-
-                    <a name="bodi-sampl"></a>**_body sample_** means any of the following:
-
-                     (a)  any human biological fluid;
-
-                     (b)  any human biological tissue (whether alive or otherwise);
-
-                     (c)  any human breath.
-
                     <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of Customs.
-
-                    <a name="ceo-order"></a>**_CEO’s Orders_** means orders under section 4B.
-
-                    <a name="engag-corrupt-conduct"></a><a name="corrupt-conduct"></a>**_corrupt conduct_**: see **_engages in corrupt conduct_**.
-
-                    <a name="custom-vessel"></a>**_Customs vessel_** means a vessel used, or for use, for the purposes of the Australian Customs and Border Protection Service.
-
-                    <a name="custom-worker"></a>**_Customs worker_** means:
-
-                     (a)  an officer of Customs; or
-
-                     (b)  a person who is:
-
-                              (i)  an employee of an Agency (within the meaning of the _Public Service Act 1999_); or
-
-                             (ii)  an officer or employee of a State or Territory; or
-
-                            (iii)  an officer or employee of an authority of the Commonwealth, a State or a Territory;
-
-                            and whose services are made available to the Australian Customs and Border Protection Service; or
-
-                     (c)  a person who is:
-
-                              (i)  engaged as a consultant or contractor to perform services for the Australian Customs and Border Protection Service; and
-
-                             (ii)  specified in a determination made by the CEO under section 3C; or
-
-                     (d)  a person who is:
-
-                              (i)  engaged or employed by a person to whom paragraph (c) or this paragraph applies; and
-
-                             (ii)  specified in a determination made by the CEO under section 3C.
-
-                    <a name="engag-corrupt-conduct"></a><a name="engag-corrupt-conduct"></a>**_engages in corrupt conduct_**: a Customs worker **_engages in corrupt conduct_** if the Customs worker, while a Customs worker, engages in:
-
-                     (a)  conduct that:
-
-                              (i)  involves; or
-
-                             (ii)  is engaged in for the purpose (or for purposes including the purpose) of;
-
-                            the Customs worker abusing his or her position as a Customs worker; or
-
-                     (b)  conduct that:
-
-                              (i)  perverts; or
-
-                             (ii)  is engaged in for the purpose (or for purposes including the purpose) of perverting;
-
-                            the course of justice; or
-
-                     (c)  conduct that, having regard to the duties and powers of the Customs worker as a Customs worker:
-
-                              (i)  involves; or
-
-                             (ii)  is engaged in for the purpose (or for purposes including the purpose) of;
-
-                            corruption of any other kind.
 
                     <a name="law-custom"></a>**_law of customs_** means:
 
@@ -232,43 +94,11 @@ Endnote 5—Misdescribed amendments               
 
                      (e)  any instrument (including rules, regulations, by‑laws or determinations) under this Act, under an Act to which paragraph (b) applies, under a provision to which paragraph (c) applies or under an Act or provision referred to in paragraph (d) in so far as it relates to a matter so referred to.
 
-                    <a name="offic-custom"></a>**_officer of Customs_** has the same meaning as in the _Customs Act 1901_.
-
-                    <a name="prohibit-drug"></a>**_prohibited drug_** means _:_
-
-                     (a)  a narcotic substance (within the meaning of the _Customs Act 1901_); or
-
-                     (b)  any drug specified in a legislative instrument under section 16H.
-
-                    <a name="prohibit-drug-test"></a>**_prohibited drug test_** means a test of a body sample of a person to determine the presence (if any) of a prohibited drug in the sample.
-
-                    <a name="seriou-misconduct"></a>**_serious misconduct_**, by a Customs worker, means:
-
-                     (a)  corruption, a serious abuse of power, or a serious dereliction of duty, by the Customs worker; or
-
-                     (b)  any other seriously reprehensible act or behaviour by the Customs worker, whether or not acting, or purporting to act, in the course of his or her duties as such a Customs worker.
-
 ##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
                    Chapter 2 of the _Criminal Code_(except Part 2.5) applies to all offences against this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-##### <a id="3B"></a>3B  Authorised officers
-
-                   The CEO may, in writing, authorise an officer of Customs to perform or exercise the functions or powers of an authorised officer under a particular provision of this Act.
-
-##### <a id="3C"></a>3C  Determination of consultants, contractors and subcontractors as Customs workers
-
-             (1)  The CEO may, by writing, determine that:
-
-                     (a)  a specified consultant or contractor engaged to perform services for the Australian Customs and Border Protection Service; or
-
-                     (b)  a specified person who is engaged or employed by a person to whom paragraph (c) or (d) of the definition of **_Customs worker_** applies;
-
-is a Customs worker.
-
-             (2)  A determination under subsection (1) is not a legislative instrument.
 
 ##### <a id="4"></a>4  Australian Customs and Border Protection Service
 
@@ -276,7 +106,7 @@ is a Customs worker.
 
              (2)  There shall be a Chief Executive Officer of Customs, who shall, under the Minister, control the Australian Customs and Border Protection Service.
 
-             (3)  The Australian Customs and Border Protection Service consists of the CEO and the staff referred to in section 15.
+             (3)  The Australian Customs and Border Protection Service consists of the CEO and the staff referred to in section 15.
 
              (4)  Where a person employed in the Australian Customs and Border Protection Service, or a person not so employed who is authorized in writing by the CEO to perform a function or functions of a person employed in the Australian Customs and Border Protection Service, performs a function or exercises a power under a law of customs, the person is, in the performance of that function or the exercise of that power, subject to the directions of the CEO.
 
@@ -284,49 +114,15 @@ is a Customs worker.
 
                    In any Act, unless the contrary intention appears:
 
-                    <a name="custom"></a>**_Customs_** means the agency continued in existence under subsection 4(1).
+                    <a name="custom"></a>**_Customs_** means the agency continued in existence under subsection 4(1).
 
 ##### <a id="4A"></a>4A  Minister may give directions to CEO
 
              (1)  The Minister may give written directions to the CEO with respect to the general policy to be pursued in relation to the administration of the Australian Customs and Border Protection Service.
 
-             (2)  If the Minister gives a direction under subsection (1), the Minister must cause a copy of the direction to be laid before each House of the Parliament within 15 sitting days of that House after giving the direction.
+             (2)  If the Minister gives a direction under subsection (1), the Minister must cause a copy of the direction to be laid before each House of the Parliament within 15 sitting days of that House after giving the direction.
 
-             (3)  The CEO must comply with all written directions given by the Minister under subsection (1).
-
-##### <a id="4B"></a>4B  CEO’s Orders
-
-CEO may issue orders
-
-             (1)  In the exercise of his or her powers under subsection 4(2), the CEO may, by writing, issue orders with respect to the control of the Australian Customs and Border Protection Service.
-
-             (2)  Without limiting subsection (1), the CEO may issue CEO’s Orders relating to the reporting, by Customs workers, of any of the following:
-
-                     (a)  serious misconduct by a Customs worker;
-
-                     (b)  corrupt conduct engaged in by a Customs worker;
-
-                     (c)  criminal activity involving a Customs worker;
-
-where the serious misconduct, corrupt conduct or criminal activity affects, or is likely to affect, the operations and responsibilities of the Australian Customs and Border Protection Service.
-
-             (3)  Subsection (1) does not limit subsection 4(4).
-
-Compliance with CEO’s Orders
-
-             (4)  A Customs worker must comply with CEO’s Orders.
-
-CEO’s Orders are not legislative instruments
-
-             (5)  CEO’s Orders are not legislative instruments.
-
-##### <a id="4C"></a>4C  Self‑incrimination—CEO’s Orders relating to the reporting of serious misconduct etc.
-
-             (1)  If a Customs worker is required by a CEO’s Order of the kind referred to in subsection 4B(2) to give information, answer a question or produce a document, the Customs worker is not excused from giving the information, answering the question or producing the document on the ground that the information, the answer to the question or the production of the document might tend to incriminate the Customs worker or expose the Customs worker to a penalty.
-
-             (2)  However, the information given, the answer given or the document produced is not admissible in evidence against the Customs worker in any proceedings.
-
-             (3)  Subsection (2) has effect subject to section 16G.
+             (3)  The CEO must comply with all written directions given by the Minister under subsection (1).
 
 ##### <a id="5"></a>5  Appointment of CEO
 
@@ -348,7 +144,7 @@ CEO’s Orders are not legislative instruments
 
              (2)  The CEO shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="9"></a>9  Leave of absence
 
@@ -372,7 +168,7 @@ CEO’s Orders are not legislative instruments
 
              (3)  Where the Governor‑General suspends the CEO, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
 
-             (4)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement was laid before that House, an address under subsection (1) has not been presented to the Governor‑General by each House of the Parliament, the suspension terminates.
+             (4)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement was laid before that House, an address under subsection (1) has not been presented to the Governor‑General by each House of the Parliament, the suspension terminates.
 
              (5)  The suspension of the CEO from office under this section does not affect any entitlement of the CEO to be paid remuneration and allowances.
 
@@ -380,9 +176,9 @@ CEO’s Orders are not legislative instruments
 
                      (a)  the CEO becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
-                    (aa)  the CEO fails, without reasonable excuse, to comply with a direction given under section 4A;
+                    (aa)  the CEO fails, without reasonable excuse, to comply with a direction given under section 4A;
 
-                     (b)  the CEO fails, without reasonable excuse, to comply with section 11;
+                     (b)  the CEO fails, without reasonable excuse, to comply with section 11;
 
                      (c)  the CEO engages, except with the approval of the Minister, in paid employment outside the duties of the office of CEO; or
 
@@ -406,13 +202,13 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="14"></a>14  Delegation
 
-             (1)  The CEO may, by signed instrument, delegate to an officer of Customs all or any of the functions and powers of the CEO under a law of customs or any other law of the Commonwealth (other than a function or power under section 15A).
+             (1)  The CEO may, by signed instrument, delegate to an officer of Customs all or any of the functions and powers of the CEO under a law of customs or any other law of the Commonwealth.
 
              (2)  A delegation under this section may be made subject to a power of review and alteration by the CEO, within a period specified in the instrument of delegation, of acts done under the delegation.
 
              (3)  A function or power so delegated, when performed or exercised by the delegate, shall, for the purposes of the law of customs, or the other law of the Commonwealth, under which the function was established or the power conferred, be taken to have been performed or exercised by the CEO.
 
-             (4)  Paragraph 34AB(1)(c) of the _Acts Interpretation Act 1901_ does not apply to a delegation under subsection (1).
+             (4)  Paragraph 34AB(1)(c) of the _Acts Interpretation Act 1901_ does not apply to a delegation under subsection (1).
 
              (5)  In this section:
 
@@ -427,62 +223,6 @@ Note:          For rules that apply to acting appointments, se
                      (a)  the CEO and the APS employees assisting the CEO together constitute a Statutory Agency; and
 
                      (b)  the CEO is the Head of that Statutory Agency.
-
-##### <a id="15A"></a>15A  Termination of employment of member of staff for serious misconduct
-
-CEO may make declaration
-
-             (1)  This section applies if the CEO terminates the employment of a member of the staff referred to in subsection 15(1) and the CEO believes, on reasonable grounds, that the staff member’s conduct or behaviour, or any part of it:
-
-                     (a)  amounts to serious misconduct by the staff member; and
-
-                     (b)  is having, or is likely to have, a damaging effect on:
-
-                              (i)  the professional self‑respect or morale of some or all of the members of the staff of the Australian Customs and Border Protection service; or
-
-                             (ii)  the reputation of the Australian Customs and Border Protection Service with the public, or any section of the public, or with an Australian or overseas government, or with a person or body (however described) to whom the CEO may authorise disclosure of information under section 16.
-
-Note:          See section 29 of the _Public Service Act 1999_ for termination of the employment of a member of the staff referred to in subsection 15(1) of this Act.
-
-             (2)  The CEO may, in accordance with subsection (5), make a declaration that he or she has the belief referred to in subsection (1) in relation to the staff member.
-
-Effect of declaration on Fair Work Act
-
-             (3)  If the CEO makes the declaration for the staff member, the _Fair Work Act 2009_ (other than Part 3‑1 and Division 9 of Part 3‑3 of that Act) does not apply in relation to:
-
-                     (a)  the termination of the staff member’s employment; or
-
-                     (b)  the making of the declaration.
-
-Note 1:       This means, for example, that the provisions of the _Fair Work Act 2009_ dealing with unfair dismissal, and notice of termination or payment in lieu, do not apply in relation to the staff member.
-
-Note 2:       Part 3‑1 of the _Fair Work Act 2009_ deals with general protections, and Division 9 of Part 3‑3 of that Act deals with payments relating to periods of industrial action.
-
-             (4)  To avoid doubt, subsection (3) applies despite section 8 of the _Public Service Act 1999_.
-
-Procedural requirements
-
-             (5)  The declaration must be:
-
-                     (a)  in writing; and
-
-                     (b)  made within 24 hours of the CEO’s decision to terminate the staff member’s employment.
-
-             (6)  The CEO must give the staff member a copy of the declaration.
-
-CEO to give report after making declaration
-
-             (7)  The CEO must give the Minister a written report containing the following, as soon as practicable after making the declaration:
-
-                     (a)  the grounds for the CEO’s belief referred to in subsection (1) in relation to the staff member;
-
-                     (b)  the nature and findings of any investigation of, or inquiry into, the staff member’s conduct or behaviour;
-
-                     (c)  details of any other matter the CEO considers relevant.
-
-Declaration not a legislative instrument
-
-             (8)  A declaration under subsection (2) is not a legislative instrument.
 
 ##### <a id="16"></a>16  Prohibition of disclosure of certain information 
 
@@ -538,7 +278,7 @@ Example:    In the case of a person who is employed by a State agency, the
 
                      (b)  any other international organisation prescribed by the regulations for the purposes of this paragraph.
 
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
+                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
 
                     <a name=""></a><a name="princip-offic"></a>**_principal officer_**, in relation to a Commonwealth agency or a State agency, means:
 
@@ -576,19 +316,19 @@ except:
 
 Authorised disclosure under this section
 
-             (3)  Subject to subsections (7), (8) and (10), a person is authorised by this section to carry out an act referred to in paragraph (2)(a) or (b) if it is carried out:
+             (3)  Subject to subsections (7), (8) and (10), a person is authorised by this section to carry out an act referred to in paragraph (2)(a) or (b) if it is carried out:
 
-                     (a)  in accordance with an authorisation by the CEO that is referred to in subsection (3A), (3B), (3C) or (3D); or
+                     (a)  in accordance with an authorisation by the CEO that is referred to in subsection (3A), (3B), (3C) or (3D); or
 
-                     (b)  as provided in subsection (3F), (3G) or (3H).
+                     (b)  as provided in subsection (3F), (3G) or (3H).
 
 CEO’s authorisation—Commonwealth agency
 
-          (3A)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
+          (3A)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
 
                      (a)   information or a class of information held by the Australian Customs and Border Protection Service will be used by a Commonwealth agency for the purposes of that agency’s functions; and
 
-                     (b)  the Commonwealth agency has undertaken not to use or further disclose such information or class of information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
+                     (b)  the Commonwealth agency has undertaken not to use or further disclose such information or class of information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
 
 the CEO may in writing:
 
@@ -598,11 +338,11 @@ the CEO may in writing:
 
 CEO’s authorisation—State agency for Commonwealth purposes
 
-          (3B)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
+          (3B)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
 
                      (a)  information or a class of information held by the Australian Customs and Border Protection Service will be used by a State agency for purposes relating to the carrying out of a Commonwealth function by that agency; and
 
-                     (b)  the State agency has undertaken not to use or further disclose such information or class of information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
+                     (b)  the State agency has undertaken not to use or further disclose such information or class of information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
 
 the CEO may in writing:
 
@@ -612,11 +352,11 @@ the CEO may in writing:
 
 CEO’s authorisation—State agency for State purposes
 
-          (3C)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
+          (3C)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
 
                      (a)  information or a class of information held by the Australian Customs and Border Protection Service will be used by a State agency for the purposes of the performance of the functions of the State agency; and
 
-                     (b)  the State agency has undertaken not to use or further disclose such information or class of information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
+                     (b)  the State agency has undertaken not to use or further disclose such information or class of information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
 
 the CEO may in writing:
 
@@ -626,7 +366,7 @@ the CEO may in writing:
 
 CEO’s authorisation—certain agreements
 
-          (3D)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
+          (3D)  Subject to subsections (3E), (7), (8) and (10), if the CEO is satisfied that:
 
                      (a)  information or a class of information held by the Australian Customs and Border Protection Service will be used in accordance with an agreement that has been entered into by the Commonwealth or a Commonwealth agency and one or more of any of the following:
 
@@ -636,7 +376,7 @@ CEO’s authorisation—certain agreements
 
                             (iii)  an international organisation; and
 
-                     (b)  the country, instrumentality, agency or organisation has undertaken not to use or further disclose that information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
+                     (b)  the country, instrumentality, agency or organisation has undertaken not to use or further disclose that information except for the purpose referred to in paragraph (d) or otherwise as required or authorised by law;
 
 the CEO may in writing:
 
@@ -646,21 +386,21 @@ the CEO may in writing:
 
 Specified purpose in an authorisation by the CEO
 
-          (3E)  The CEO may only specify a purpose for the disclosure of information or a class of information in an authorisation under subsection (3A), (3B), (3C) or (3D) that:
+          (3E)  The CEO may only specify a purpose for the disclosure of information or a class of information in an authorisation under subsection (3A), (3B), (3C) or (3D) that:
 
-                     (a)  in the case of subsection (3A)—is related to the performance of the functions of the Commonwealth agency concerned; and
+                     (a)  in the case of subsection (3A)—is related to the performance of the functions of the Commonwealth agency concerned; and
 
-                     (b)  in the case of subsection (3B)—is related to the performance of the Commonwealth function concerned; and
+                     (b)  in the case of subsection (3B)—is related to the performance of the Commonwealth function concerned; and
 
-                     (c)  in the case of subsection (3C)—is related to the performance of the functions of the State agency concerned; and
+                     (c)  in the case of subsection (3C)—is related to the performance of the functions of the State agency concerned; and
 
-                     (d)  in the case of subsection (3D)—is related to the purpose of the agreement concerned.
+                     (d)  in the case of subsection (3D)—is related to the purpose of the agreement concerned.
 
-Note:          The obligations under subsection (3E) is affected by paragraph (8)(b) if the information concerned contains personal information.
+Note:          The obligations under subsection (3E) is affected by paragraph (8)(b) if the information concerned contains personal information.
 
 Authorised disclosure because of threat to health or life
 
-           (3F)  A person may carry out an act referred to in paragraph (2)(a) or (b) if there are reasonable grounds for that person to believe that:
+           (3F)  A person may carry out an act referred to in paragraph (2)(a) or (b) if there are reasonable grounds for that person to believe that:
 
                      (a)  a serious and imminent threat to the health or life of a person or persons exists or might exist; and
 
@@ -704,7 +444,7 @@ Requirements applicable to disclosure of personal information
 
 Permissible purposes
 
-             (9)  A purpose specified in any of the following paragraphs is a permissible purpose for the purpose of subsection (8):
+             (9)  A purpose specified in any of the following paragraphs is a permissible purpose for the purpose of subsection (8):
 
                      (a)  the administration or enforcement of a law of the Commonwealth, of a Territory or of another country that relates to:
 
@@ -712,7 +452,7 @@ Permissible purposes
 
                              (ii)  a law imposing a pecuniary penalty or providing for the forfeiture of property;
 
-                     (b)  in relation to a law referred to in paragraph (a), the prevention of crime, or the detection or analysis of criminal conduct, in respect of that law;
+                     (b)  in relation to a law referred to in paragraph (a), the prevention of crime, or the detection or analysis of criminal conduct, in respect of that law;
 
                      (c)  the administration or enforcement of a law of a State that relates to:
 
@@ -720,7 +460,7 @@ Permissible purposes
 
                              (ii)  a law imposing a pecuniary penalty or providing for the forfeiture of property;
 
-                     (d)  in relation to a law referred to in paragraph (c), the prevention of crime, or the detection or analysis of criminal conduct, in respect of that law;
+                     (d)  in relation to a law referred to in paragraph (c), the prevention of crime, or the detection or analysis of criminal conduct, in respect of that law;
 
                      (e)  a purpose relating to the protection of public health, or the prevention or elimination of risks to the life or safety of an individual or a group of individuals;
 
@@ -752,7 +492,7 @@ Permissible purposes
 
 Additional requirements concerning classes of information
 
-           (10)  This subsection is complied with in relation to a disclosure of a class of information pursuant to an authorisation under subsection (3A), (3B), (3C) or (3D) as referred to in subsection (7) if:
+           (10)  This subsection is complied with in relation to a disclosure of a class of information pursuant to an authorisation under subsection (3A), (3B), (3C) or (3D) as referred to in subsection (7) if:
 
                      (a)  the disclosure is made to a Commonwealth agency, State agency, a foreign country, an instrumentality or agency of a foreign country or an international organisation, that is specified in the regulations; and
 
@@ -764,7 +504,7 @@ Additional requirements concerning classes of information
 
                      (a)  an offence created by a provision in this Act or the regulations; or
 
-                     (b)  an offence created by section 6 of the _Crimes Act 1914_, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a).
+                     (b)  an offence created by section 6 of the _Crimes Act 1914_, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a).
 
              (2)  If it is necessary to prove the state of mind of a body corporate in relation to particular conduct, it is enough to show that:
 
@@ -798,181 +538,11 @@ means the member, or any of the members, constituting the body.
 
                      (b)  the person’s reasons for the intention, opinion, belief or purpose.
 
-##### <a id="16B"></a>16B  Authorised officers may require Customs workers to undergo alcohol screening tests etc.
-
-             (1)  An authorised officer may require a Customs worker to undergo an alcohol screening test if:
-
-                     (a)  the Customs worker is in the course of performing his or her duties as a Customs worker; and
-
-                     (b)  the authorised officer reasonably suspects that the Customs worker is under the influence of alcohol.
-
-Compliance with direction
-
-             (2)  The Customs worker must comply with the requirement given to him or her under subsection (1).
-
-Test results
-
-             (3)  If the result of the alcohol screening test shows that alcohol is not present in the Customs worker’s breath, the Customs worker may return to his or her duties immediately.
-
-             (4)  This section does not limit the operation of section 16C.
-
-##### <a id="16C"></a>16C  Authorised officers may require Customs workers to undergo alcohol screening tests, alcohol breath tests or prohibited drug tests etc.
-
-             (1)  An authorised officer may give a Customs worker who is in the course of performing his or her duties as a Customs worker a written direction requiring the Customs worker to do one or more of the following:
-
-                     (a)  undergo an alcohol screening test;
-
-                     (b)  undergo an alcohol breath test;
-
-                     (c)  provide a body sample, of a kind specified in the direction, for a prohibited drug test;
-
-in accordance with the regulations.
-
-Providing blood sample if alcohol breath test indicates the presence of alcohol
-
-             (2)  If:
-
-                     (a)  a Customs worker undergoes an alcohol breath test in accordance with a direction under subsection (1); and
-
-                     (b)  the alcohol breath test indicates the presence of alcohol;
-
-he or she may provide a sample of his or her blood for the purpose of an alcohol blood test, in accordance with the regulations.
-
-Compliance with direction
-
-             (3)  A Customs worker must comply with a direction given to him or her under this section.
-
-##### <a id="16D"></a>16D  Alcohol screening tests, alcohol breath tests and prohibited drug tests after certain incidents
-
-Person killed or seriously injured in an incident involving a motor vehicle or vessel or while detained
-
-             (1)  An authorised officer may give a Customs worker a direction under subsection (3) if:
-
-                     (a)  either:
-
-                              (i)  a person is killed or seriously injured as a result of an incident involving a motor vehicle or vessel; or
-
-                             (ii)  an incident occurs in which a person is killed or seriously injured while the person is held in custody in relation to an arrest under the _Customs Act 1901_ or otherwise detained under that Act; and
-
-                     (b)  the Customs worker is directly involved in the incident in the course of performing his or her duties as a Customs worker.
-
-Person killed or seriously injured by a firearm discharging or physical force
-
-             (2)  An authorised officer may give a Customs worker a direction under subsection (3) if:
-
-                     (a)  all of the following apply:
-
-                              (i)  the Customs worker is an officer authorised to carry arms within the meaning of section 189A of the _Customs Act 1901_;
-
-                             (ii)  an incident occurs in which a person is killed or seriously injured as a result of the discharge of a firearm by the Customs worker;
-
-                            (iii)  the incident occurs in the course of the Customs worker performing his or her duties as a Customs worker; or
-
-                     (b)  all of the following apply:
-
-                              (i)  the Customs worker is an officer of Customs;
-
-                             (ii)  an incident occurs in which a person is killed or seriously injured as a result of the application of physical force by the Customs worker;
-
-                            (iii)  the incident occurs in the course of the Customs worker performing his or her duties as a Customs worker.
-
-Direction
-
-             (3)  The authorised officer may give the Customs worker a written direction requiring the Customs worker:
-
-                     (a)  to undergo an alcohol screening test; or
-
-                     (b)  to undergo an alcohol breath test; or
-
-                     (c)  to provide a body sample of a kind specified in the direction for a prohibited drug test;
-
-in accordance with the regulations.
-
-Note:          Such a direction may be given whether or not the Customs worker is still performing his or her duties as a Customs worker: see subsection (4).
-
-Direction to be given as soon as practicable after the incident
-
-             (4)  A direction under subsection (3) must be given by an authorised officer as soon as practicable after the incident concerned and may be given whether or not the Customs worker is still performing his or her duties as a Customs worker.
-
-Provision of blood or body sample while in hospital
-
-             (5)  If a Customs worker involved in an incident referred to in subsection (1) or (2) attends or is admitted to a hospital for examination or treatment because of the incident, an authorised officer may give the Customs worker a written direction requiring him or her:
-
-                     (a)  to provide a sample of his or her blood for an alcohol blood test; or
-
-                     (b)  to provide a body sample of a kind specified in the direction for a prohibited drug test;
-
-in accordance with the regulations.
-
-Compliance with direction
-
-             (6)  A Customs worker must comply with a direction given to him or her under this section.
-
-##### <a id="16E"></a>16E  Alcohol screening tests etc.—performing duties on board a Customs vessel
-
-                   If:
-
-                     (a)  a Customs worker is on board a Customs vessel throughout a period (the **_on board period_**); and
-
-                     (b)  at any time during the on board period, the Customs worker performs duties as a Customs worker;
-
-the Customs worker is taken, for the purposes of sections 16B, 16C and 16D, to be in the course of performing his or her duties as a Customs worker throughout the on board period.
-
-##### <a id="16F"></a>16F  Regulations
-
-                   For the purposes of sections 16B, 16C and 16D, the regulations may make provision for and in relation to the following:
-
-                     (a)  the authorisation of persons:
-
-                              (i)  to conduct alcohol screening tests, alcohol breath tests, alcohol blood tests or prohibited drug tests for the purpose of those sections; and
-
-                             (ii)  to operate equipment for that purpose;
-
-                     (b)  the provision of samples of blood for the purpose of alcohol blood tests under those sections;
-
-                     (c)  the provision of body samples for the purpose of prohibited drug tests under those sections;
-
-                     (d)  the conduct of alcohol screening tests, alcohol breath tests, alcohol blood tests or prohibited drug tests under those sections;
-
-                     (e)  the devices used in conducting alcohol screening tests, alcohol breath tests, alcohol blood tests or prohibited drug tests under those sections, including the calibration, inspection and testing of those devices;
-
-                      (f)  in the case of alcohol blood tests and prohibited drug tests—the accreditation of persons to conduct analyses in connection with such tests;
-
-                     (g)  the procedure for the handling and analysis of:
-
-                              (i)  samples of blood taken in connection with alcohol blood tests under those sections; or
-
-                             (ii)  body samples taken in connection with prohibited drug tests under those sections;
-
-                     (h)  the giving of the test results in certificates or other documents and the evidentiary effect of such certificates or other documents;
-
-                      (i)  the confidentiality of the test results.
-
-##### <a id="16G"></a>16G  Admissibility of test results etc. in legal proceedings
-
-                   The following:
-
-                     (a)  a certificate or other document recording the results of a test conducted under section 16B, 16C or 16D in relation to a Customs worker;
-
-                     (b)  any other information, answer to a question or document relevant to conducting such a test;
-
-is not admissible in evidence against the Customs worker in any proceedings other than the following:
-
-                     (c)  proceedings in relation to a decision of the CEO to terminate the employment or engagement of the Customs worker;
-
-                     (d)  proceedings under the _Safety, Rehabilitation and Compensation Act 1988_;
-
-                     (e)  proceedings in tort against the Commonwealth that are instituted by the Customs worker.
-
-##### <a id="16H"></a>16H  CEO may specify prohibited drugs
-
-                   The CEO may, by legislative instrument, specify drugs for the purposes of the definition of **_prohibited drug_** in section 3.
-
 ##### <a id="17"></a>17  Annual report
 
-             (1)  The CEO shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of the operations of the Australian Customs and Border Protection Service during the year that ended on that 30 June.
+             (1)  The CEO shall, as soon as practicable after 30 June in each year, prepare and furnish to the Minister a report of the operations of the Australian Customs and Border Protection Service during the year that ended on that 30 June.
 
-             (2)  The Minister shall cause a copy of a report furnished to the Minister under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
+             (2)  The Minister shall cause a copy of a report furnished to the Minister under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
 ##### <a id="18"></a>18  Regulations
 
@@ -982,912 +552,553 @@ is not admissible in evidence against the Customs worker in any proceedings othe
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-Endnotes
+# Notes to the _Customs Administration Act 1985_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Customs Administration Act 1985._
+The _Customs Administration Act 1985_ as shown in this compilation comprises Act No. 38, 1985 amended as indicated in the Tables below.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
-  <col width="14%">
-  <col width="14%">
-  <col width="26%">
-  <col width="20%">
+  <col width="30%">
+  <col width="15%">
+  <col width="17%">
+  <col width="1%">
+  <col width="22%">
+  <col width="15%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
+    </td>
+    <td colspan="2">
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Customs Administration Act 1985
-    </div>
+    <div>Customs Administration Act 1985</div>
   </td>
   <td>
-    <div>
-      38, 1985
-    </div>
+    <div>38, 1985</div>
   </td>
   <td>
-    <div>
-      29 May 1985
-    </div>
+    <div>29 May 1985</div>
+  </td>
+  <td colspan="2">
+    <div>10 June 1985 ( <i>see Gazette</i>1985, No. S194)</div>
   </td>
   <td>
-    <div>
-      10 June 1985 (
-        <i>see Gazette</i>1985, No. S194)
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs and Excise Legislation Amendment Act (No. 3) 1989
-    </div>
+    <div>Customs and Excise Legislation Amendment Act (No. 3) 1989</div>
   </td>
   <td>
-    <div>
-      78, 1989
-    </div>
+    <div>78, 1989</div>
   </td>
   <td>
-    <div>
-      21 June 1989
-    </div>
+    <div>21 June 1989</div>
+  </td>
+  <td colspan="2">
+    <div>S. 5(1)(c)–(g): 3 Mar 1989 
+Ss. 6, 8, 16 and 18: 19 July 1989 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      s. 5(1)(c)–(g): 3 Mar 1989
-    </div>
-    <div>
-      ss. 6, 8, 16 and 18: 19 July 1989
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 12(2)
-    </div>
+    <div>S. 12(2)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Taxation Laws Amendment Act (No. 3) 1989
-    </div>
+    <div>Taxation Laws Amendment Act (No. 3) 1989</div>
   </td>
   <td>
-    <div>
-      107, 1989
-    </div>
+    <div>107, 1989</div>
   </td>
   <td>
-    <div>
-      30 June 1989
-    </div>
+    <div>30 June 1989</div>
+  </td>
+  <td colspan="2">
+    <div>Part 6 (ss. 29, 30): 24 Nov 1988 ( <i>see</i>s. 2(2)) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Part 6 (ss. 29, 30): 24 Nov 1988 (
-        <i>see</i>s. 2(2))
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs and Excise Legislation Amendment Act (No. 4) 1989
-    </div>
+    <div>Customs and Excise Legislation Amendment Act (No. 4) 1989</div>
   </td>
   <td>
-    <div>
-      5, 1990
-    </div>
+    <div>5, 1990</div>
   </td>
   <td>
-    <div>
-      17 Jan 1990
-    </div>
+    <div>17 Jan 1990</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 1–3 and 25: Royal Assent 
+Ss. 4(1)(b), 16, 26(1)(b), (c) and 33 (in part): 1 July 1989 
+S. 15: 1 Aug 1989 
+Remainder: 1 Jan 1990</div>
   </td>
   <td>
-    <div>
-      ss. 1–3 and 25: Royal Assent
-    </div>
-    <div>
-      ss. 4(1)(b), 16, 26(1)(b), (c) and 33 (in part): 1 July 1989
-    </div>
-    <div>
-      s. 15: 1 Aug 1989
-    </div>
-    <div>
-      Remainder: 1 Jan 1990
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 2(2) and 34
-    </div>
+    <div>Ss. 2(2) and 34</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Industrial Relations Legislation Amendment Act 1991
-    </div>
+    <div>Industrial Relations Legislation Amendment Act 1991</div>
   </td>
   <td>
-    <div>
-      122, 1991
-    </div>
+    <div>122, 1991</div>
   </td>
   <td>
-    <div>
-      27 June 1991
-    </div>
+    <div>27 June 1991</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
+Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      ss. 4(1), 10(b) and 15–20: 1 Dec 1988
-    </div>
-    <div>
-      ss. 28(b)–(e), 30 and 31: 10 Dec 1991 (
-        <i>see Gazette</i>1991, No. S332)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 31(2)
-    </div>
+    <div>S. 31(2)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs Legislation Amendment Act 1992
-    </div>
+    <div>Customs Legislation Amendment Act 1992</div>
   </td>
   <td>
-    <div>
-      209, 1992
-    </div>
+    <div>209, 1992</div>
   </td>
   <td>
-    <div>
-      22 Dec 1992
-    </div>
+    <div>22 Dec 1992</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 4(a), 11, 12, 19, 20 and 22: 1 Sept 1992 
+Ss. 4(b), (c), 6–10, 13(2), 14, 15(d), 16, 17, 24, 25 and 27: 1 June 1993 ( <i>see Gazette</i>1993, No. GN17) 
+Ss. 5 and 23: 19 Jan 1993 
+S. 21: 18 Aug 1992 
+Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      ss. 4(a), 11, 12, 19, 20 and 22: 1 Sept 1992
-    </div>
-    <div>
-      ss. 4(b), (c), 6–10, 13(2), 14, 15(d), 16, 17, 24, 25 and 27: 1 June 1993
-        (
-        <i>see Gazette</i>1993, No. GN17)
-    </div>
-    <div>
-      ss. 5 and 23: 19 Jan 1993
-    </div>
-    <div>
-      s. 21: 18 Aug 1992
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Imported Food Control Act 1992
-    </div>
+    <div>Imported Food Control Act 1992</div>
   </td>
   <td>
-    <div>
-      221, 1992
-    </div>
+    <div>221, 1992</div>
   </td>
   <td>
-    <div>
-      24 Dec 1992
-    </div>
+    <div>24 Dec 1992</div>
+  </td>
+  <td colspan="2">
+    <div>15 June 1993 ( <i>see Gazette</i>1993, No. GN22)</div>
   </td>
   <td>
-    <div>
-      15 June 1993 (
-        <i>see Gazette</i>1993, No. GN22)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs, Excise and Bounty Legislation Amendment Act 1995
-    </div>
+    <div>Customs, Excise and Bounty Legislation Amendment Act 1995</div>
   </td>
   <td>
-    <div>
-      85, 1995
-    </div>
+    <div>85, 1995</div>
   </td>
   <td>
-    <div>
-      1 July 1995
-    </div>
+    <div>1 July 1995</div>
+  </td>
+  <td colspan="2">
+    <div>Ss. 7, 17 and 18: Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      ss. 7, 17 and 18: Royal Assent
-        <i>(a)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 17 and 18
-    </div>
+    <div>Ss. 17 and 18</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
+    <div>Statute Law Revision Act 1996</div>
   </td>
   <td>
-    <div>
-      43, 1996
-    </div>
+    <div>43, 1996</div>
   </td>
   <td>
-    <div>
-      25 Oct 1996
-    </div>
+    <div>25 Oct 1996</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (item 47): <i>(b)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 47):
-        <i>(b)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs Legislation Amendment Act (No. 1) 1999
-    </div>
+    <div>Customs Legislation Amendment Act (No. 1) 1999</div>
   </td>
   <td>
-    <div>
-      137, 1999
-    </div>
+    <div>137, 1999</div>
   </td>
   <td>
-    <div>
-      3 Nov 1999
-    </div>
+    <div>3 Nov 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2: 23 Mar 2000 ( <i>see</i> <i>Gazette</i>2000, No. S142) <i>(c)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2: 23 Mar 2000 (
-        <i>see Gazette</i>2000, No. S142)
-        <i>(c)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Public Employment (Consequential and Transitional) Amendment Act 1999
-    </div>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
   <td>
-    <div>
-      146, 1999
-    </div>
+    <div>146, 1999</div>
   </td>
   <td>
-    <div>
-      11 Nov 1999
-    </div>
+    <div>11 Nov 1999</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 356–358): 5 Dec 1999 ( <i>see</i> <i>Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 356–358): 5 Dec 1999 (
-        <i>see Gazette</i>1999, No. S584)
-        <i>(d)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs Legislation Amendment (Criminal Sanctions and Other Measures)
-        Act 2000
-    </div>
+    <div>Customs Legislation Amendment (Criminal Sanctions and Other Measures) Act 2000</div>
   </td>
   <td>
-    <div>
-      23, 2000
-    </div>
+    <div>23, 2000</div>
   </td>
   <td>
-    <div>
-      3 Apr 2000
-    </div>
+    <div>3 Apr 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Schedules 1–3: 26 May 2000 ( <i>see</i> <i>Gazette</i>2000,No. S269)Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedules 1–3: 26 May 2000 (
-        <i>see Gazette</i>2000, No. S269)
-    </div>
-    <div>
-      Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Law and Justice Legislation Amendment (Application of Criminal Code) Act
-        2001
-    </div>
+    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
   </td>
   <td>
-    <div>
-      24, 2001
-    </div>
+    <div>24, 2001</div>
   </td>
   <td>
-    <div>
-      6 Apr 2001
-    </div>
+    <div>6 Apr 2001</div>
+  </td>
+  <td colspan="2">
+    <div>S. 4(1), (2) and Schedule 22: <i>(e)</i></div>
   </td>
   <td>
-    <div>
-      s. 4(1), (2) and Schedule 22:
-        <i>(e)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4(1) and (2) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Taxation Laws Amendment (Excise Arrangements) Act 2001
-    </div>
+    <div>Taxation Laws Amendment (Excise Arrangements) Act 2001</div>
   </td>
   <td>
-    <div>
-      25, 2001
-    </div>
+    <div>25, 2001</div>
   </td>
   <td>
-    <div>
-      6 Apr 2001
-    </div>
+    <div>6 Apr 2001</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 7 (items 1–8): 4 May 2001 <i>(f)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 7 (items 1–8): 4 May 2001
-        <i>(f)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs Legislation Amendment and Repeal (International Trade Modernisation)
-        Act 2001
-    </div>
+    <div>Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001</div>
   </td>
   <td>
-    <div>
-      95, 2001
-    </div>
+    <div>95, 2001</div>
   </td>
   <td>
-    <div>
-      20 July 2001
-    </div>
+    <div>20 July 2001</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 3 (items 152–171): Royal Assent <i>(g)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 3 (items 152–171): Royal Assent
-        <i>(g)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
+    <div>as amended by</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
   <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Statute Law Revision Act 2002
-    </div>
+    <div>Statute Law Revision Act 2002</div>
   </td>
   <td>
-    <div>
-      63, 2002
-    </div>
+    <div>63, 2002</div>
   </td>
   <td>
-    <div>
-      3 July 2002
-    </div>
+    <div>3 July 2002</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (item 8): <i>(ga)</i></div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 8):
-        <i>(ga)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
-    </div>
+    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
   </td>
   <td>
-    <div>
-      159, 2001
-    </div>
+    <div>159, 2001</div>
   </td>
   <td>
-    <div>
-      1 Oct 2001
-    </div>
+    <div>1 Oct 2001</div>
+  </td>
+  <td colspan="2">
+    <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>
-      29 Oct 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 97) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Border Security Legislation Amendment Act 2002
-    </div>
+    <div>Border Security Legislation Amendment Act 2002</div>
   </td>
   <td>
-    <div>
-      64, 2002
-    </div>
+    <div>64, 2002</div>
   </td>
   <td>
-    <div>
-      5 July 2002
-    </div>
+    <div>5 July 2002</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 12: Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 12: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Australian Crime Commission Establishment Act 2002
-    </div>
+    <div>Australian Crime Commission Establishment Act 2002</div>
   </td>
   <td>
-    <div>
-      125, 2002
-    </div>
+    <div>125, 2002</div>
   </td>
   <td>
-    <div>
-      10 Dec 2002
-    </div>
+    <div>10 Dec 2002</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 39, 40, 226): 1 Jan 2003</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 39, 40, 226): 1 Jan 2003
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (item 226) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Anti‑Terrorism Act (No. 2) 2005
-    </div>
+    <div>Anti‑Terrorism Act (No. 2) 2005</div>
   </td>
   <td>
-    <div>
-      144, 2005
-    </div>
+    <div>144, 2005</div>
   </td>
   <td>
-    <div>
-      14 Dec 2005
-    </div>
+    <div>14 Dec 2005</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 10 (item 30): Royal Assent</div>
   </td>
   <td>
-    <div>
-      Schedule 10 (item 30): Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Customs Legislation Amendment (Name Change) Act 2009
-    </div>
+    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
   </td>
   <td>
-    <div>
-      33, 2009
-    </div>
+    <div>33, 2009</div>
   </td>
   <td>
-    <div>
-      22 May 2009
-    </div>
+    <div>22 May 2009</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1: 23 May 2009</div>
   </td>
   <td>
-    <div>
-      Schedule 1: 23 May 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2)
-        2010
-    </div>
+    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
   </td>
   <td>
-    <div>
-      4, 2010
-    </div>
+    <div>4, 2010</div>
   </td>
   <td>
-    <div>
-      19 Feb 2010
-    </div>
+    <div>19 Feb 2010</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 10 (item 17): 20 Feb 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 10 (item 17): 20 Feb 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
-    </div>
+    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
   </td>
   <td>
-    <div>
-      145, 2010
-    </div>
+    <div>145, 2010</div>
   </td>
   <td>
-    <div>
-      16 Dec 2010
-    </div>
+    <div>16 Dec 2010</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (item 9): 17 Dec 2010</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (item 9): 17 Dec 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Acts Interpretation Amendment Act 2011
-    </div>
+    <div>Acts Interpretation Amendment Act 2011</div>
   </td>
   <td>
-    <div>
-      46, 2011
-    </div>
+    <div>46, 2011</div>
   </td>
   <td>
-    <div>
-      27 June 2011
-    </div>
+    <div>27 June 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 2 (items 479–482) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 2 (items 479–482) and Schedule 3 (items 10, 11): 27 Dec 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (items 10, 11) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Crimes Legislation Amendment Act (No. 2) 2011
-    </div>
+    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
   </td>
   <td>
-    <div>
-      174, 2011
-    </div>
+    <div>174, 2011</div>
   </td>
   <td>
-    <div>
-      5 Dec 2011
-    </div>
+    <div>5 Dec 2011</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (items 1, 6): 6 Dec 2011</div>
   </td>
   <td>
-    <div>
-      Schedule 1 (items 1, 6): 6 Dec 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 6) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>
-      Law Enforcement Integrity Legislation Amendment Act 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      194, 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      12 Dec 2012
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2: 15 Feb 2013 (
-        <i>see</i>
-
-      F2013L00188)
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 2 (items 17, 20) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
-_(a)_             The _Customs Administration Act 1985_ was amended by the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
+_(a)_     The _Customs Administration Act 1985_ was amended by the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
-                   (1)  Subject to subsections (2), (3), (4), (5) and (6), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2), (3), (4), (5) and (6), this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_             The _Customs Administration Act 1985_ was amended by Schedule 2 (item 47) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+_(b)_     The _Customs Administration Act 1985_ was amended by Schedule 2 (item 47) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
-                   (2)  Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
-                  Item 47 is taken to have commenced immediately after the commencement of item 19 of Schedule 5 of the _Customs, Excise and Bounty Legislation Amendment Act 1995_.
+         Item 47 is taken to have commenced immediately after the commencement of item 19 of Schedule 5 of the _Customs, Excise and Bounty Legislation Amendment Act 1995_.
 
-                  Item 19 of Schedule 5 of the _Customs, Excise and Bounty Legislation Amendment Act 1995_ commenced on 1 July 1995.
+         Item 19 of Schedule 5 of the _Customs, Excise and Bounty Legislation Amendment Act 1995_ commenced on 1 July 1995.
 
-_(c)_              The _Customs Administration Act 1985_ was amended by Schedule 2 only of the _Customs Legislation Amendment Act (No. 1) 1999_, subsection 2(2) of which provides as follows:
+_(c)_     The _Customs Administration Act 1985_ was amended by Schedule 2 only of the _Customs Legislation Amendment Act (No. 1) 1999_, subsection 2(2) of which provides as follows:
 
-                   (2)  The items of Schedules 1 and 2 commence on a day or days to be fixed by Proclamation.
+                 (2)   The items of Schedules 1 and 2 commence on a day or days to be fixed by Proclamation.
 
-_(d)_             The _Customs Administration Act 1985_ was amended by Schedule 1 (items 356–358) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(d)_     The _Customs Administration Act 1985_ was amended by Schedule 1 (items 356–358) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                   (1)  In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                   (2)  Subject to this section, this Act commences at the commencing time.
+                 (2)   Subject to this section, this Act commences at the commencing time.
 
-_(e)_              The _Customs Administration Act 1985_ was amended by Schedule 22 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(e)_     The _Customs Administration Act 1985_ was amended by Schedule 22 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences at the later of the following times:
+                 (1)   Subject to this section, this Act commences at the later of the following times:
 
-                          (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
+                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
-                  Item 15 commenced on 24 May 2001.
+         Item 15 commenced on 24 May 2001.
 
-_(f)_              The _Customs Administration Act 1985_ was amended by Schedule 7 (items 1–8) only of the _Taxation Laws Amendment (Excise Arrangements) Act 2001_, subsection 2(1)(b) of which provides as follows:
+_(f)_      The _Customs Administration Act 1985_ was amended by Schedule 7 (items 1–8) only of the _Taxation Laws Amendment (Excise Arrangements) Act 2001_, subsection 2(1)(b) of which provides as follows:
 
-                   (1)  Subject to this section, this Act commences on the earlier of:
+                 (1)   Subject to this section, this Act commences on the earlier of:
 
-                          (b)   28 days after the day on which this Act receives the Royal Assent.
+                              (b)   28 days after the day on which this Act receives the Royal Assent.
 
-_(g)_             The _Customs Administration Act 1985_ was amended by Schedule 3 (items 152–171) only of the _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
+_(g)_     The _Customs Administration Act 1985_ was amended by Schedule 3 (items 152–171) only of the _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
 
-                   (1)  Sections 1 to 3, and items 82, 84, 109, 123 and 152 to 171 in Schedule 3, commence on the day on which this Act receives the Royal Assent.
+                 (1)   Sections 1 to 3, and items 82, 84, 109, 123 and 152 to 171 in Schedule 3, commence on the day on which this Act receives the Royal Assent.
 
-_(ga)_           The _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_ was amended by Schedule 2 (item 8) only of the _Statute Law Revision Act 2002,_ subsection 2(1) (item 37) of which provides as follows:
+_(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001_ was amended by Schedule 2 (item 8) only of the _Statute Law Revision Act 2002,_ subsection 2(1) (item 37) of which provides as follows:
 
-                   (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 <table>
 <colgroup>
@@ -1968,608 +1179,310 @@ _(ga)_           The _Customs Legislation Amendment and Repe
   </td>
   <td>
     <div>
-      20 July 2001
+      20 July 2001
     </div>
   </td>
 </tr></table>
 
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Customs Administration Act 1985__._
+## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="70%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>
-        ad. = added or inserted am. = amended rep. = repealed rs. = repealed and
-          substituted exp. = expired or ceased to have effect
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
 <tr>
-  <td>
-    <div>
-      Title....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 33, 2009
-    </div>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3......................................
-    </div>
+    <div>Provision affected</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995; No. 25, 2001; No. 194, 2012
-    </div>
+    <div>How affected</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3A...................................
-    </div>
+    <div>Title</div>
   </td>
   <td>
-    <div>
-      ad. No. 24, 2001
-    </div>
+    <div>am. No. 33, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3B...................................
-    </div>
+    <div>S. 3</div>
   </td>
   <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
+    <div>am. No. 85, 1995; No. 25, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 3C...................................
-    </div>
+    <div>S. 3A</div>
   </td>
   <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
+    <div>ad. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 4....................
-    </div>
+    <div>Heading to s. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 33, 2009
-    </div>
+    <div>am. No. 33, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4......................................
-    </div>
+    <div>S. 4</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995; No. 25, 2001; No. 33, 2009
-    </div>
+    <div>am. No. 85, 1995; No. 25, 2001; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4AA................................
-    </div>
+    <div>S. 4AA</div>
   </td>
   <td>
-    <div>
-      ad. No. 33, 2009
-    </div>
+    <div>ad. No. 33, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4A...................................
-    </div>
+    <div>S. 4A</div>
   </td>
   <td>
-    <div>
-      ad. No. 85, 1995
-    </div>
+    <div>ad. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 33, 2009
-    </div>
+    <div>am. No. 33, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4B...................................
-    </div>
+    <div>Heading to s. 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 4C...................................
-    </div>
+    <div>S. 5</div>
   </td>
   <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 5....................
-    </div>
+    <div>S. 6</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>am. No. 85, 1995; No. 23, 2000; No. 159, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 5......................................
-    </div>
+    <div>Ss. 7, 8</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 6......................................
-    </div>
+    <div>S. 9</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995; No. 23, 2000; No. 159, 2001
-    </div>
+    <div>rs. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 7, 8................................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>am. No. 85, 1995; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 9......................................
-    </div>
+    <div>Ss. 10, 11</div>
   </td>
   <td>
-    <div>
-      rs. No. 122, 1991
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 12</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995; No. 146, 1999
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      ss. 10, 11............................
-    </div>
+    <div>S. 12</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>am. No. 122, 1991; No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 12..................
-    </div>
+    <div>Heading to s. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 12....................................
-    </div>
+    <div>S. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 122, 1991; No. 85, 1995
-    </div>
+    <div>am. No. 85, 1995; No. 43, 1996; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 13..................
-    </div>
+    <div>Note to s. 13</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 13....................................
-    </div>
+    <div>S. 14</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995; No. 43, 1996; No. 46, 2011
-    </div>
+    <div>rs. No. 78, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Note to s. 13.......................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 46, 2011
-    </div>
+    <div>am. No. 5, 1990; No. 85, 1995; No. 25, 2001; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 14....................................
-    </div>
+    <div>S. 15</div>
   </td>
   <td>
-    <div>
-      rs. No. 78, 1989
-    </div>
+    <div>am. No. 85, 1995; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>Heading to s. 16</div>
   </td>
   <td>
-    <div>
-      am. No. 5, 1990; No. 85, 1995; No. 25, 2001; No. 46, 2011; No. 194, 2012
-    </div>
+    <div>rs. No. 95, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 15....................................
-    </div>
+    <div>Subheads. to s. 16(4)–(6).</div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995; No. 146, 1999
-    </div>
+    <div>ad. No. 137, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 15A.................................
-    </div>
+    <div>S. 16</div>
   </td>
   <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
+    <div>am. Nos. 209 and 221, 1992; No. 85, 1995; No. 137, 1999; Nos. 25 and 95, 2001; Nos. 64 and 125, 2002; No. 144, 2005; No. 33, 2009; No. 174, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 16..................
-    </div>
+    <div>S. 16AA</div>
   </td>
   <td>
-    <div>
-      rs. No. 95, 2001
-    </div>
+    <div>ad. No. 137, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Subheads. to s. 16(4)–(6)...
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 137, 1999
-    </div>
+    <div>am. No. 24, 2001; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 16....................................
-    </div>
+    <div>Heading to s. 16A</div>
   </td>
   <td>
-    <div>
-      am. Nos. 209 and 221, 1992; No. 85, 1995; No. 137, 1999; Nos. 25 and 95,
-        2001; Nos. 64 and 125, 2002; No. 144, 2005; No. 33, 2009; No. 174, 2011
-    </div>
+    <div>am. No. 85, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 16AA..............................
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      ad. No. 137, 1999
-    </div>
+    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div>S. 16A</div>
   </td>
   <td>
-    <div>
-      am. No. 24, 2001; No. 4, 2010
-    </div>
+    <div>ad. No. 107, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      Heading to s. 16A...............
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      am. No. 85, 1995
-    </div>
+    <div>am. No. 85, 1995; No. 25, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-
-    </div>
+    <div></div>
   </td>
   <td>
-    <div>
-      rep. No. 145, 2010
-    </div>
+    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>
-      s. 16A.................................
-    </div>
+    <div>S. 17</div>
   </td>
   <td>
-    <div>
-      ad. No. 107, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 85, 1995; No. 25, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 145, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16B.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16C.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16D.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16E.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16F..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16G.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 16H.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 194, 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 17....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 85, 1995; No. 33, 2009
-    </div>
+    <div>am. No. 85, 1995; No. 33, 2009</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+## Table A
 
-This endnote sets out applications, saving and transitional provisions for amendments of the _Customs Administration Act 1985__._
+### Application, saving or transitional provisions
 
-Application, saving and transitional provisions prior to 6 April 2001 are not included in this endnote.
-
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -2577,25 +1490,29 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (N
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)
+* * *
 
-## Schedule 1
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+
+## Schedule 1
 
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-Australian Crime Commission Establishment Act 2002 (No. 125, 2002)
+* * *
 
-## Schedule 2
+_Australian Crime Commission Establishment Act 2002 (No. 125, 2002)_
 
 ## 226  Transitional regulations
 
 (1)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
 
-(2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
@@ -2607,9 +1524,11 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
-Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)
+* * *
 
-## Schedule 1
+_Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
+
+## Schedule 1
 
 ## 6  Application
 
@@ -2624,29 +1543,5 @@ Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)
 **_corrupt conduct_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
 **_corruption issue_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-Law Enforcement Integrity Legislation Amendment Act 2012 (No. 194, 2012)
-
-## Schedule 2
-
-## 17  Application—CEO’s Orders relating to the reporting of serious misconduct etc.
-
-A CEO’s Order of the kind referred to in subsection 4B(2) of the _Customs Administration Act 1985_, as inserted by this Schedule, applies to serious misconduct, corrupt conduct and criminal activity, whether engaged in before, on or after the commencement of this item.
-
-## 20  Application—termination for serious misconduct
-
-Section 15A of the _Customs Administration Act 1985_, as inserted by this Schedule, applies in relation to a decision to terminate the employment of a member of staff that is made after the commencement of this item.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Customs Administration Act 1985_ that have not yet commenced.
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Customs Administration Act 1985_ that have been misdescribed.
-
-There are no misdescribed amendments.
 
  
