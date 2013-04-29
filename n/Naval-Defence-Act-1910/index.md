@@ -1,7 +1,7 @@
 
 Naval Defence Act 1910
 Act No. 30 of 1910 as amended 
-This compilation was prepared on 22 March 2002 taking into account amendments up to Act No. 141 of 2001
+This compilation was prepared on 19 April 2001 taking into account amendments up to Act No. 10 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -12,31 +12,58 @@ Part I—Introductory	1
 1	Short title [see Note 1]	1
 3	Interpretation	1
 5A	Extension of Act to Territories	1
-5B	Application of the Criminal Code	2
 6	Act does not appropriate money	2
-Part III—The Australian Navy	3
-19	Australian Navy	3
-20	Permanent Navy	3
-21	Naval Reserve	3
-24	Voluntary entry	3
-Part IV—The service of the Navy	4
-31	Service of the Permanent Navy	4
-32A	Service of the Naval Reserve	4
-33	Limits of service	5
-Part V—Cadets	6
-38	Establishment and constitution of Naval Reserve Cadets	6
-39	Administration of Naval Reserve Cadets	7
-Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment	8
-40	Interpretation	8
-42	Employment of persons in civil capacity	8
-42A	Determination of conditions of employment	8
-42C	Public Service Act not to apply	9
-42D	Transfer of persons where functions are to be performed by a Commonwealth authority	10
-Part VII—Miscellaneous	11
-44B	Delegation	11
-44E	Intoxicating liquor not to be supplied to Naval Reserve Cadets	12
-45	Regulations	12
-Notes		15
+Part II—Administration	3
+Division 1—Appointment, promotion and resignation of officers	3
+8	Appointment and promotion of naval officers	3
+9	Term of appointment of officers	4
+11	Extension and conversion of appointments	5
+12	Termination of probationary appointments	5
+13	Resignation of officers	5
+13A	Limited‑tenure promotions	7
+Division 2—Retirement and termination of appointment of officers	9
+13B	Definitions	9
+13C	Retirement of senior officers on expiry of appointment etc.	9
+13D	Retirement of other officers on expiry of appointment	10
+13E	Retirement of officers for incapacity etc.	10
+13F	Form and date of effect of transfer or retirement	11
+13G	Termination of appointment of officer for absence without leave	12
+13H	Termination of appointment on other grounds	12
+13J	Form and date of effect of termination	14
+13K	Offer of special benefit to officer	14
+13L	Notice of intention to begin retirement or transfer procedures	15
+13M	Retirement or transfer of officer without special benefit	16
+13N	Time not to run during certain periods	17
+17	Compulsory retirement on reaching prescribed age	17
+17A	Retired lists	17
+Division 2A—Transfer of officers to other arms of the Defence Force	18
+17B	Transfer of officers	18
+Division 3—Miscellaneous	20
+18	Notional ranks of chaplains	20
+Part III—The Australian Navy	21
+19	Australian Navy	21
+20	Permanent Naval Forces	21
+21	Naval Emergency Reserve Forces	21
+22	Australian Naval Reserve	21
+24	Voluntary entry	22
+Part IV—The service of the Navy	23
+31	Service of the Permanent Navy	23
+32A	Service of the Naval Reserve	23
+33	Limits of service	24
+Part V—Cadets	25
+38	Establishment and constitution of Naval Reserve Cadets	25
+39	Administration of Naval Reserve Cadets	26
+Part VI—Special powers in relation to Naval ships, Naval establishments and civil employment	27
+40	Interpretation	27
+42	Employment of persons in civil capacity	27
+42A	Determination of conditions of employment	27
+42C	Public Service Act not to apply	28
+42D	Transfer of persons where functions are to be performed by a Commonwealth authority	29
+Part VII—Miscellaneous	30
+44B	Delegation	30
+44E	Intoxicating liquor not to be supplied to Naval Reserve Cadets	31
+45	Regulations	31
+Notes		33
 
 An Act relating to Naval Defence
   
@@ -56,32 +83,255 @@ the Defence Act means the Defence Act 1903.
 time of defence emergency, time of war and war have the same meanings respectively as in the Defence Act.
 5A  Extension of Act to Territories
 		This Act extends to every Territory.
-5B  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 6  Act does not appropriate money
 		Nothing in this Act shall be taken as an appropriation of any public moneys.
+
+Part II—Administration
+Division 1—Appointment, promotion and resignation of officers
+8  Appointment and promotion of naval officers
+	(1)	The Governor‑General may, in accordance with such conditions and subject to such qualifications or requirements as are prescribed or provided for by the regulations, by instrument in writing:
+	(a)	appoint persons to be officers of the Navy; and
+	(b)	promote officers of the Navy;
+and, except in the case of subordinate officers, may issue commissions to persons so appointed.
+	(2)	The conditions, qualifications and requirements referred to in subsection (1) may be prescribed or provided for by the regulations with respect to:
+	(a)	appointments and promotions generally;
+	(b)	appointments or promotions:
+	(i)	to specified ranks;
+	(ii)	in specified parts of the Navy; or
+	(iii)	of a specified kind; and
+	(c)	persons or officers included within a specified class of persons or officers.
+	(3)	The regulations may provide that a prescribed condition, qualification or requirement does not apply, or may be dispensed with, in such cases or circumstances as are prescribed or otherwise provided for by the regulations.
+	(4)	Where a person is appointed to be an officer of the Navy, other than a subordinate officer, or was, before 9 February 1976, so appointed, he shall, whether or not he has been issued with a commission, be deemed to have been commissioned as such an officer on the date of his appointment.
+9  Term of appointment of officers
+	(1)	In appointing a person to be an officer, the Governor‑General (or his delegate under section 44B) shall specify the part of the Navy to which the appointment is made and:
+	(a)	may express the appointment to be for a specified period of service in that part of the Navy; or
+	(b)	may express the appointment to be for a specified period of service in one part of the Navy, to be followed by a specified period of service in another part of the Navy.
+	(3)	If the period of service in a part of the Navy for which an officer was appointed, or for which the term of his appointment is, under this section, to be deemed to have been extended, expires during a time of war, the term of his appointment as an officer of that part of the Navy shall be deemed to be extended until the end of the time of war.
+	(4)	If the period of service in the Permanent Naval Forces for which an officer was appointed, or for which the term of his appointment is, under this section, to be deemed to have been extended, expires during a time of defence emergency or a time for which the Naval Emergency Reserve Forces, or any part of those forces or of the Australian Naval Reserve, is called out for continuous full time service, the term of his appointment as an officer of the Permanent Naval Forces shall be deemed to be extended until the end of that time.
+	(5)	If the period of service in the Naval Emergency Reserve Forces or in the Australian Naval Reserve for which an officer was appointed, or for which the term of his appointment is, under this section, to be deemed to have been extended, expires during a time of defence emergency or a time for which the part of the force to which he belongs is called out for continuous full time service, the term of his appointment as an officer of the part of the Navy in which he is serving shall be deemed to be extended until the end of that time.
+	(6)	The preceding provisions of this section do not affect any power expressly or impliedly conferred by any other provision of this Act to transfer an officer from one part of the Navy to another part of the Navy or to terminate the appointment of an officer before the expiration of the term of his appointment.
+11  Extension and conversion of appointments
+	(1)	An officer appointed for a specified period of service may, on or before the expiration of that period, volunteer for a further period of service or for a permanent appointment, and the Chief of Navy may, by instrument in writing, extend the appointment for a further specified period of service or convert the appointment to a permanent appointment accordingly.
+	(2)	An officer on a permanent appointment may volunteer to convert the appointment to an appointment for a specified period, and the Chief of Navy may, by instrument in writing, convert the appointment accordingly.
+12  Termination of probationary appointments
+	(1A)	Where an officer holds an appointment as such an officer on probation, that appointment may be terminated at any time by the Chief of Navy.
+13  Resignation of officers
+	(1)	An officer may, by writing under his hand addressed to the Chief of Navy, tender the resignation of his naval office, but the resignation shall not be accepted, and is not effective, except as provided by this section.
+	(2)	The Chief of Navy may, without reference to the Governor‑General, by instrument in writing, reject the resignation of an officer if:
+	(a)	it is tendered in time of war or in time of defence emergency; or
+	(b)	acceptance of the resignation would, in the opinion of the Chief of Navy, seriously prejudice the ability of the Navy to carry out naval operations that it is carrying out or may be required to carry out; or
+	(ba)	in the case of an officer who holds the rank of Lieutenant‑Commander or a higher rank—the officer has not completed a period of 12 months’ service in the rank that the officer holds as a substantive rank, being a period commencing on the day on which the officer was promoted to that rank; or
+	(c)	in the case of an officer:
+	(i)	who is engaged in, or who has completed, a course of training, a period of employment on special duties or a period of service outside Australia; or
+	(ii)	who was appointed outside Australia and whose transport, or whose family’s transport, to Australia was at the expense of the Commonwealth;
+		the officer has not completed a period of service that, under a determination of the Chief of Navy, and in the circumstances, the officer is required to complete; or
+	(ca)	the officer has not completed a period of service that, under a determination of the Chief of Navy, the officer is required to complete in respect of the officer’s initial appointment as an officer; or
+	(d)	in the case of an officer of the Naval Emergency Reserve Forces or the Australian Naval Reserve—it is tendered during a period for which the part of the force to which the officer belongs is called out for continuous full time service.
+	(3)	The Chief of Navy:
+	(a)	in the case of a resignation by an officer of a rank not higher than the rank of Captain that has not been rejected in pursuance of subsection (2)—may, by instrument in writing, accept the resignation or forward the resignation to the Minister for submission to the Governor‑General; and
+	(b)	in the case of a resignation by an officer of a rank higher than the rank of Captain that has not been rejected in pursuance of subsection (2)—shall forward the resignation to the Minister for submission to the Governor‑General.
+	(4)	Where the Minister considers that the resignation of the officer should not be accepted unless and until the officer has complied with a condition, the officer’s resignation shall not be submitted to the Governor‑General for acceptance until the officer has complied with that condition.
+	(5)	The Governor‑General may, by instrument in writing, accept, or refuse to accept, the resignation of an officer.
+	(6)	Where the Governor‑General or the Chief of Navy accepts the resignation of an officer, the resignation becomes effective on the seventh day after the date on which it is accepted or on such other date as may be specified in the instrument of acceptance.
+13A  Limited‑tenure promotions
+	(1)	The Governor‑General may promote an officer of the Navy to a rank of Commander or a higher rank for a specified period (the term of the promotion).
+	(2)	The Governor‑General may extend the term of a promotion under this section.
+	(3)	Subject to this section, at the end of the term of a promotion under this section, the officer concerned is retired from the Navy by force of this subsection.
+	(4)	At any time before the end of the term of a promotion under this section the Chief of Navy may give written permission for the officer concerned, at the end of the term of the promotion, to revert to the rank he or she held immediately before promotion.
+	(5)	If permission is given under subsection (4), then, at the end of the term of the promotion:
+	(a)	the officer is not retired from the Navy by force of subsection (3); and
+	(b)	the officer reverts to the rank he or she held immediately before promotion.
+	(5A)	At any time before the end of the term of a promotion under this section, the officer concerned may notify the Chief of Navy in writing that the officer wishes to transfer to the Australian Naval Reserve at the end of the term of the promotion.
+	(5B)	If a notification is given by an officer to the Chief of Navy under subsection (5A), then, at the end of the term of the promotion:
+	(a)	the officer is not retired from the Navy by force of subsection (3); and
+	(b)	the officer is transferred to the Australian Naval Reserve by force of this paragraph.
+	(6)	An officer may decline promotion under this section.
+
+Division 2—Retirement and termination of appointment of officers 
+13B  Definitions
+		In this Division:
+relevant authority means:
+	(a)	in relation to an officer who holds the rank of Commodore or a higher rank—the Minister; or
+	(b)	in relation to any other officer—the Chief of Navy.
+senior officer means an officer who holds the rank of Rear‑Admiral or a higher rank.
+13C  Retirement of senior officers on expiry of appointment etc.
+	(1)	When the term of an appointment of an officer under section 9 or 9AA of the Defence Act 1903 ends, the Governor‑General must:
+	(a)	if, before that time, the officer has notified the Governor‑General in writing that he or she wishes to be transferred to the Australian Naval Reserve—transfer the officer to the Australian Naval Reserve; or
+	(b)	in any other case—retire the officer from the Navy;
+as soon as is reasonably practicable.
+	(2)	Subsection (1) does not apply if, before the term of the appointment ended, the officer concerned was appointed or re‑appointed to an office under section 9 or 9AA of the Defence Act 1903, whether or not the appointment or re‑appointment took effect immediately after the end of the term of the first‑mentioned appointment.
+	(3)	When a senior officer completes the period of service that, under section 9, represents the term of his or her appointment as an officer or that term as extended, the Governor‑General must retire the officer from the Navy as soon as is reasonably practicable.
+	(4)	Until an officer referred to in subsection (3) is retired, he or she remains an officer of the part of the Navy in which he or she is serving.
+13D  Retirement of other officers on expiry of appointment
+	(1)	This section applies to an officer other than a senior officer.
+	(2)	When an officer completes the period of service that, under section 9, represents the term of his or her appointment as an officer or that term as extended, the relevant authority must retire the officer from the Navy as soon as is reasonably practicable.
+	(3)	Until an officer referred to in subsection (2) is retired, he or she remains an officer of the part of the Navy in which he or she is serving.
+13E  Retirement of officers for incapacity etc.
+	(1)	The relevant authority may give an officer a retirement notice.
+	(2)	A retirement notice is a written notice that:
+	(a)	states that it is proposed that the officer be retired; and
+	(b)	states the ground on which the officer is to be retired; and
+	(c)	invites the officer to give the relevant authority a written statement of reasons why the officer should not be retired; and
+	(d)	specifies a period ending not less than 28 days after the giving of the notice as the period within which a statement of reasons must be given to the relevant authority; and
+	(e)	sets out particulars of the facts and circumstances constituting the ground specified in the notice sufficient to enable the officer to prepare a statement referred to in paragraph (c).
+	(3)	The following are the grounds on which an officer may be retired under this section:
+	(a)	that, as a result of physical or mental incapacity that it is not within the officer’s power to control, the officer is incapable of rendering effective service;
+	(b)	that the officer is inefficient or incompetent through causes not within his or her control.
+	(4)	If:
+	(a)	the relevant authority gives a senior officer a retirement notice; and
+	(b)	either:
+	(i)	the officer does not give the relevant authority, within the period specified in the retirement notice, a statement of reasons why the officer should not be retired; or
+	(ii)	having considered such a statement given by the officer, the Governor‑General is of the opinion that the ground of retirement specified in the retirement notice has been established;
+the Governor‑General must retire the officer.
+	(5)	If:
+	(a)	the relevant authority gives an officer (other than a senior officer) a retirement notice; and
+	(b)	either:
+	(i)	the officer does not give the relevant authority, within the period specified in the retirement notice, a statement of reasons why the officer should not be retired; or
+	(ii)	having considered such a statement given by the officer, the relevant authority is of the opinion that the ground of retirement specified in the retirement notice has been established;
+the relevant authority must retire the officer.
+13F  Form and date of effect of transfer or retirement
+	(1)	The transfer of an officer under subsection 13C(1), or the retirement of an officer under section 13C, 13D or 13E, must be in writing.
+	(2)	The document of transfer or retirement must specify the day on which the transfer or retirement is to take effect.
+	(3)	The day to be specified for the purpose of subsection (2) is a day:
+	(a)	not earlier than the day on which the officer is given a copy of the document of transfer or retirement; and
+	(b)	not later than 3 months after the day referred to in paragraph (a).
+	(4)	The transfer or retirement takes effect on the day specified in the document.
+13G  Termination of appointment of officer for absence without leave
+		The relevant authority may terminate the appointment of an officer who has been absent without leave for a continuous period of at least 3 months.
+13H  Termination of appointment on other grounds
+	(1)	The relevant authority may give an officer a termination notice.
+	(2)	A termination notice is a written notice that:
+	(a)	states that it is proposed that the appointment of the officer be terminated; and
+	(b)	states the ground on which the officer’s appointment is to be terminated; and
+	(c)	invites the officer to give the relevant authority a written statement of reasons why the officer’s appointment should not be terminated; and
+	(d)	specifies a period ending not less than 28 days after the giving of the notice as the period within which a statement of reasons must be given to the relevant authority; and
+	(e)	sets out particulars of the facts and circumstances constituting the ground specified in the notice sufficient to enable the officer to prepare a statement referred to in paragraph (c).
+	(3)	The following are the grounds on which the appointment of an officer may be terminated under this section:
+	(a)	that:
+	(i)	the officer has been convicted of an offence or a service offence; and
+	(ii)	the Chief of Navy has certified in writing that, having regard to the nature and seriousness of the offence, the retention of the officer is not in the interests of the Defence Force;
+	(b)	that the officer is inefficient or incompetent for reasons or causes within his or her own control;
+	(c)	that the officer’s behaviour has been such that the retention of the officer is not in the interests of the Defence Force;
+	(d)	that, for reasons or causes within the officer’s control, the officer’s performance is such that the retention of the officer is not in the interests of the Defence Force.
+	(4)	For the purpose of paragraph (3)(a), an officer is to be taken to have been convicted of an offence if a court or service tribunal, in proceedings relating to the offence, has made a finding that the officer committed the offence, whether or not the court or tribunal entered a conviction.
+	(5)	If:
+	(a)	the relevant authority gives a senior officer a termination notice; and
+	(b)	either:
+	(i)	the officer does not give the relevant authority, within the period specified in the termination notice, a statement of reasons why the officer’s appointment should not be terminated; or
+	(ii)	having considered such a statement given by the officer, the Governor‑General is of the opinion that the ground specified in the notice as the ground of termination of the officer’s appointment has been established;
+the Governor‑General must terminate the appointment of the officer.
+	(6)	If:
+	(a)	the relevant authority gives an officer (other than a senior officer) a termination notice; and 
+	(b)	either:
+	(i)	the officer does not give the relevant authority, within the period specified in the termination notice, a statement of reasons why the officer’s appointment should not be terminated; or
+	(ii)	having considered such a statement given by the officer, the relevant authority is of the opinion that the ground specified in the termination notice has been established;
+the relevant authority must terminate the appointment of the officer.
+13J  Form and date of effect of termination
+	(1)	The termination of the appointment of an officer must be in writing.
+	(2)	The document of termination must specify the day on which the termination is to take effect.
+	(3)	Subject to subsection (4), the day to be specified for the purpose of subsection (2) is a day:
+	(a)	not earlier than the day on which the officer is given a copy of the document of termination; and
+	(b)	not later than 3 months after the day referred to in paragraph (a).
+	(4)	In the case of termination of an appointment under section 13G, the day to be specified for the purpose of subsection (2) is a day not earlier than the day on which the document of termination is signed by the relevant authority.
+	(5)	The termination of the appointment of an officer takes effect on the day specified in the document of termination for the purpose of subsection (2).
+13K  Offer of special benefit to officer
+	(1)	The Chief of Navy may give to an officer a written notice stating that, if within a period specified in the notice, the officer:
+	(a)	retires from the Navy; or
+	(b)	notifies the Chief of Navy in writing that the officer wishes to transfer to the Australian Naval Reserve;
+the officer will be entitled to a special benefit in accordance with a determination under section 58B or 58H of the Defence Act 1903.
+	(2)	The period to be specified in a notice is a period of one month commencing not earlier than the day on which the notice is given to the officer.
+	(3)	If a notice is given to an officer under subsection (1):
+	(a)	the officer may retire from the Navy within the period specified in the notice even though he or she would not otherwise be entitled to retire; and
+	(b)	the officer is to be taken for all purposes to have been compulsorily retired from the Navy.
+	(4)	If:
+	(a)	a notice is given to an officer under subsection (1); and
+	(b)	a notification is given by the officer under paragraph (1)(b);
+the officer may transfer to the Australian Naval Reserve within the period specified in the notice given under subsection (1) even though he or she would not otherwise be entitled to transfer to the Australian Naval Reserve.
+13L  Notice of intention to begin retirement or transfer procedures
+	(1)	The Chief of Navy may not give an officer a notice under subsection 13K(1) unless:
+	(a)	the officer has been given written notice:
+	(i)	informing him or her that the Chief of Navy is considering the giving of a notice to the officer under subsection 13K(1); and
+	(ii)	stating the reasons why the Chief of Navy is considering the giving of such a notice; and
+	(iii)	inviting the officer, within a specified period, to give the Chief of Navy a written statement of reasons why the officer should not be retired from the Navy or transferred to the Australian Naval Reserve; and
+	(b)	either:
+	(i)	the officer has not given the Chief of Navy a statement in accordance with subparagraph (a)(iii); or
+	(ii)	the officer has given such a statement and the Chief of Navy has considered the reasons given in the statement.
+	(2)	The period specified for the purpose of subparagraph (1)(a)(iii) must be not less than 14 days and must commence no earlier than the day on which the notice is given to the officer.
+13M  Retirement or transfer of officer without special benefit
+	(1)	This section applies to an officer:
+	(a)	to whom a notice has been given under subsection 13K(1); and
+	(b)	who does not, within the period specified in the notice:
+	(i)	retire from the Navy; or
+	(ii)	transfer to the Australian Naval Reserve; and
+	(c)	in respect of whom the Chief of Navy considers it is necessary to take action under this section in the interests of the organisational effectiveness of the Navy.
+	(2)	The Chief of Navy may, at any time after the period specified in the notice given to the officer under subsection 13K(1), give a written notice to the officer stating that the Chief of Navy proposes to retire the officer at the end of a period (the relevant period) specified in the notice unless the officer notifies the Chief of Navy in writing within the relevant period that the officer wishes to transfer to the Australian Naval Reserve at or before the end of the relevant period.
+	(3)	The period specified in a notice given by the Chief of Navy to an officer under subsection (2) must be a period of not less than 13 months starting on the day on which the notice is given to the officer.
+	(4)	If the officer does not notify the Chief of Navy as mentioned in subsection (2), the Chief of Navy may retire the officer at the end of the relevant period.
+	(5)	The Chief of Navy retires an officer under subsection (4) by giving the officer a written notice stating that the officer is retired from the Navy at the end of the relevant period.
+	(6)	An officer of the Navy to whom a notice is given under subsection (5) is retired from the Navy, by force of this subsection, at the end of the relevant period.
+	(7)	An officer who is retired under subsection (6) is taken for all purposes to have been compulsorily retired from the Navy.
+13N  Time not to run during certain periods
+	(1)	For the purpose of ascertaining when a period referred to in this Division ends, any period during which a complaint made by an officer is being investigated is not to be taken into account.
+	(2)	Subsection (1) only applies to a complaint that:
+	(a)	is made by the officer concerned:
+	(i)	under regulations made under the Defence Act 1903; or
+	(ii)	to the Defence Force Ombudsman under the Ombudsman Act 1976; and
+	(b)	concerns action taken under section 13K, 13L or 13M in relation to the officer.
+17  Compulsory retirement on reaching prescribed age
+	(1)	The ages for the compulsory retirement of members of the Navy shall be as prescribed, but in special cases the Minister may, by instrument in writing, extend the prescribed age of retirement for a period not exceeding 2 years.
+	(2)	When a member of the Navy reaches the prescribed age of retirement of the member, he or she is retired from the Navy by force of this section.
+17A  Retired lists
+	(1)	The Chief of Navy may, by instrument in writing, place the names of officers or former officers on retired lists.
+	(2)	A person whose name has been placed on a retired list in pursuance of this section is not, by reason only of that placement, a member of the Navy or of the Defence Force.
+
+Division 2A—Transfer of officers to other arms of the Defence Force
+17B  Transfer of officers
+	(1)	The Chief of Navy may, by written instrument, transfer the appointment of an officer of the Navy to the Australian Army or the Australian Air Force if:
+	(a)	the officer consents to the transfer; and
+	(b)	the Chief of Army or the Chief of Air Force (as the case may be) approves the transfer.
+	(2)	The instrument must specify:
+	(a)	the day on which the transfer takes effect; and
+	(b)	the period of service for which the officer is appointed to the Australian Army or the Australian Air Force (as the case may be); and
+	(c)	the part of that arm of the Defence Force to which the officer is appointed; and
+	(d)	the rank that the officer is to hold in that arm of the Defence Force, and the officer’s seniority in that rank.
+	(3)	If the officer is required, under a determination referred to in paragraph 13(2)(c) or (ca), to complete a period of service:
+	(a)	that requirement continues to apply to the officer after the transfer takes effect; and
+	(b)	the Chief of Army or the Chief of Air Force (as the case may be) may, without reference to the Governor‑General, reject the officer’s resignation in the same way that the Chief of Navy could have rejected it under subsection 13(2).
+	(4)	For all purposes connected with the officer’s appointment or service as an officer of the Australian Army, service rendered by the officer as a member of the Navy before the transfer is taken to have been rendered as a member of the Australian Army.
+	(5)	For all purposes connected with the officer’s appointment or service as an officer of the Australian Air Force, service rendered by the officer as a member of the Navy before the transfer is taken to have been rendered as a member of the Australian Air Force.
+
+Division 3—Miscellaneous
+18  Notional ranks of chaplains
+For the purposes of Divisions 1 and 2, a person who is a chaplain is taken to have the rank ascertained in accordance with the regulations.
 
 Part III—The Australian Navy
   
 19  Australian Navy
-		The Australian Navy consists of 2 parts:
-	(a)	the Permanent Navy; and
-	(b)	the Naval Reserve.
-20  Permanent Navy
-		The Permanent Navy consists of:
-	(a)	officers appointed to, and sailors enlisted in, the Permanent Navy; and
-	(b)	officers and sailors transferred to the Permanent Navy from:
-	(i)	the Naval Reserve; or
-	(ii)	the Australian Army; or
-	(iii)	the Australian Air Force.
-21  Naval Reserve
-		The Naval Reserve consists of:
-	(a)	officers appointed to, and sailors enlisted in, the Naval Reserve; and
-	(b)	officers and sailors transferred to the Naval Reserve from:
-	(i)	the Permanent Navy; or
-	(ii)	the Australian Army; or
-	(iii)	the Australian Air Force.
+		The Navy consists of 3 parts, namely, the Permanent Naval Forces, the Naval Emergency Reserve Forces and the Australian Naval Reserve.
+20  Permanent Naval Forces
+		The Permanent Naval Forces consist of:
+	(a)	officers appointed to, and sailors enlisted in, those forces; and
+	(b)	officers and sailors transferred to those forces from:
+	(i)	the Naval Emergency Reserve Forces; or
+	(ii)	the Australian Naval Reserve; or
+	(iii)	the Australian Army; or
+	(iv)	the Australian Air Force.
+21  Naval Emergency Reserve Forces 
+		The Naval Emergency Reserve Forces consist of:
+	(a)	officers appointed to, and sailors enlisted in, those forces; and
+	(b)	officers and sailors transferred to those forces from:
+	(i)	the Permanent Naval Forces; or
+	(ii)	the Australian Naval Reserve; or
+	(iii)	the Australian Army; or
+	(iv)	the Australian Air Force.
+22  Australian Naval Reserve 
+		The Australian Naval Reserve consists of:
+	(a)	officers appointed to, and sailors enlisted in, that force; and
+	(b)	officers and sailors transferred to that force from:
+	(i)	the Permanent Naval Forces; or
+	(ii)	the Naval Emergency Reserve Forces; or
+	(iii)	the Australian Army; or
+	(iv)	the Australian Air Force.
 24  Voluntary entry
 		Except as provided by Part IV of the Defence Act, the Navy shall be kept up by the appointment to the Navy, or the enlistment in the Navy, of persons who volunteer and are accepted for service in the Navy.
 
@@ -163,7 +413,13 @@ and where, in a determination, provision is made in contravention of this subsec
 Part VII—Miscellaneous
   
 44B  Delegation 
-	(3)	The Chief of Navy may, by instrument in writing, delegate to an officer all or any of his powers under section 32A.
+	(1)	The Governor‑General may, by instrument in writing, delegate to the Chief of the Defence Force or to an officer all or any of his powers under section 8.
+	(1A)	The Governor‑General may, by written instrument, delegate to the Chief of the Defence Force or to the Chief of Navy all or any of his or her powers under section 13A.
+	(2)	The Minister may, by instrument in writing, delegate to an officer all or any of his powers under section 17.
+	(3)	The Chief of Navy may, by instrument in writing, delegate to an officer all or any of his powers under sections 11, 13, 17A, 28, 30, 32, 32AA and 32A.
+	(3A)	The Chief of Navy may, in writing, delegate to an officer who holds a rank not below the rank of Commodore his or her powers under sections 12, 13D, 13E, 13G, 13H, 13K, 13M, 17B and 30A.
+	(3B)	The Chief of Army may, by instrument in writing, delegate to an officer of the Army who holds a rank not below the rank of Brigadier his or her powers under sections 17B and 30A.
+	(3C)	The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force who holds a rank not below the rank of Air Commodore his or her powers under sections 17B and 30A.
 	(4)	The authorized person may, by instrument in writing, delegate to a person all or any of his powers under Part VI.
 	(5)	A delegation under this section may be made either generally or otherwise as provided in the instrument of delegation.
 	(6)	A power delegated under this section shall, when exercised by the delegate, be deemed, for the purposes of this Act, to have been exercised by the person who made the delegation.
@@ -173,14 +429,8 @@ Part VII—Miscellaneous
 	(9)	A document purporting to be a copy of an instrument of delegation under this section and purporting to bear the signature, or a facsimile of the signature, of the person who made the delegation and an endorsement in writing that the delegation is, or was on a specified date, in force, is, upon mere production in a court or otherwise for any purpose arising under this Act, prima facie evidence that the delegation was duly made in the terms set out in the document and is, or was on the date specified, in force.
 	(10)	In this section, authorized person has the same meaning as in section 40.
 44E  Intoxicating liquor not to be supplied to Naval Reserve Cadets
-	(1)	A person is guilty of an offence if:
-	(a)	the person sells or supplies intoxicating liquor to another person; and
-	(b)	the person is a member of the Naval Reserve Cadets, is under such age as is prescribed, and is in uniform.
-Maximum penalty:	$40.
-	(2)	Subsection (1) does not apply if the liquor is sold or supplied by direction of a duly qualified medical practitioner.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (2). See subsection 13.3(3) of the Criminal Code.
-	(3)	An offence under subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+		A person shall not sell or supply intoxicating liquor to a member of the Naval Reserve Cadets who is under such age as is prescribed and is in uniform, except by direction of a duly qualified medical practitioner.
+Penalty:	$40.
 45  Regulations
 	(1)	The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for securing the good government of the Navy, or for carrying out or giving effect to this Act, and in particular prescribing matters for or in relation to:
 	(a)	the good government of naval establishments;
@@ -452,13 +702,8 @@ Defence Legislation Amendment (Aid to Civilian Authorities) Act 2000
 Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001
 10, 2001
 22 Mar 2001 
-Schedule 2 (items 12‑15, 19, 27‑31, 67, 68, 75‑77): 22 Mar 2002 Schedule 3: 19 Apr 2001 (see s. 2(4)) Schedule 4: Royal Assent Remainder: 19 Apr 2001
+Schedule 2 (items 67, 68, 75‑77): [see (t) and Note 2] Schedule 2 (items 69‑74, 91‑95): 19 Apr 2001 (t)
 Sch. 2 (items 91‑95) [see Table A]
-Defence Legislation Amendment (Application of Criminal Code) Act 2001
-141, 2001
-1 Oct 2001
-S. 4 and Schedule 1 (items 107-109): 2 Oct 2001 (t)
-S. 4 and Sch. 1 (item 109) [see Table A]
 
 (a)	The Naval Defence Act 1910 was amended by sections 62‑89 only of the Defence Force Re‑Organization Act 1975, section 2 of which provides as follows:
 	2	This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
@@ -507,11 +752,10 @@ S. 4 and Sch. 1 (item 109) [see Table A]
 (s)	The Naval Defence Act 1910 was amended by Schedule 1 (items 687-691) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(t)	The Naval Defence Act 1910 was amended by Schedule 1 (items 107, 108) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(2) of which provides as follows:
-	(2)	Part 1 of Schedule 1 commences on the later of:
-	(a)	the day on which Chapter 2 of the Criminal Code commences; and
-	(b)	the day after the day on which this Act receives the Royal Assent.
-
+(t)	The Naval Defence Act 1910 was amended by Schedule 2 (items 67‑77) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsections 2(1)‑(3) of which provide as follows:
+	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
+	(2)	The following items of Schedule 2 commence on a day or days to be fixed by Proclamation: items 12 to 15, 19, 27 to 31, 67, 68 and 75 to 77. [see Note 2]
+	(3)	If a provision mentioned in subsection (2) does not commence under that subsection within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [see Note 2]
 Table of Amendments
 ad. = added or inserted    am. = amended     rep. = repealed     rs. = repealed and substituted
 Provision affected
@@ -544,30 +788,20 @@ S. 5A
 ad. No. 93, 1964
 
 am. No. 216, 1973
-S. 5B 	
-ad. No. 141, 2001
 S. 7	
 rep. No. 96, 1975
-Part II	 (ss. 8, 9, 11‑13, 13A‑13N,  17, 17A, 17B, 18)
-rep. No. 10, 2001
 Heading to Div. 1 of Part II	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 8	
 am. No. 45, 1918
 
 rs. No. 93, 1964
 
 am. No. 96, 1975; No. 133, 1979; No. 39, 1983
-
-rep. No. 10, 2001
 S. 9	
 rs. No. 93, 1964; No. 53, 1965
 
 am. No. 96, 1975; No. 61, 1981; No. 39, 1983; No. 65, 1987; No. 43, 1995
-
-rep. No. 10, 2001
 S. 10	
 rs. No. 93, 1964
 
@@ -584,106 +818,66 @@ am. No. 96, 1975
 rs. No. 39, 1983
 
 am. No. 1, 1997; No. 113, 2000
-
-rep. No. 10, 2001
 Heading to s. 12	
 rs. No. 43, 1995
-
-rep. No. 10, 2001
 S. 12	
 rs. No. 93, 1964
 
 am. No. 76, 1986; No. 43, 1995; No. 1, 1997
-
-rep. No. 10, 2001
 S. 13	
 rs. No. 93, 1964; No. 96, 1975
 
 am. No. 133, 1979; No. 39, 1983; No. 65, 1987; Nos. 100 and 104, 1988; No. 1, 1997; No. 113, 2000
-
-rep. No. 10, 2001
 S. 13A	
 ad. No. 43, 1995
 
 am. No. 1, 1997; No. 116, 1999; No. 113, 2000
-
-rep. No. 10, 2001
 Heading to Div. 2 of Part II	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 13B	
 ad. No. 43, 1995
 
 am. No. 1, 1997
-
-rep. No. 10, 2001
 S. 13C	
 ad. No. 43, 1995
 
 am. No. 116, 1999
-
-rep. No. 10, 2001
 S. 13D	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 13E	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 Heading to s. 13F	
 am. No. 116, 1999
-
-rep. No. 10, 2001
 S. 13F	
 ad. No. 43, 1995
 
 am. No. 116, 1999
-
-rep. No. 10, 2001
 S. 13G	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 13H	
 ad. No. 43, 1995
 
 am. No. 1, 1997
-
-rep. No. 10, 2001
 S. 13J	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 13K	
 ad. No. 43, 1995
 
 am. No. 1, 1997; No. 116, 1999
-
-rep. No. 10, 2001
 Heading to s. 13L	
 am. No. 116, 1999
-
-rep. No. 10, 2001
 S. 13L	
 ad. No. 43, 1995
 
 am. No. 1, 1997; No. 116, 1999
-
-rep. No. 10, 2001
 S. 13M	
 ad. No. 43, 1995
 
 am. No. 1, 1997
 
 rs. No. 116, 1999
-
-rep. No. 10, 2001
 S. 13N	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 14	
 am. No. 45, 1918
 
@@ -696,48 +890,32 @@ Ss. 15, 16
 rep. No. 93, 1964
 Heading to s. 17	
 rs. No. 43, 1995
-
-rep. No. 10, 2001
 S. 17	
 am. No. 216, 1973; No. 96, 1975; No. 133, 1979; No. 39, 1983; No. 43, 1995
-
-rep. No. 10, 2001
 S. 17A	
 ad. No. 96, 1975
 
 am. No. 61, 1981; No. 39, 1983;  No. 1, 1997
-
-rep. No. 10, 2001
 Div. 2A of Part II (s. 17B)	
 ad. No. 1, 1997
-
-rep. No. 10, 2001
 S. 17B	
 ad. No. 1, 1997
 
 am. No. 113, 2000
-
-rep. No. 10, 2001
 Div. 3 of Part II (s. 18)	
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 S. 18	
 am. No. 216, 1973; No. 96, 1975
 
 rep. No. 65, 1987
 
 ad. No. 43, 1995
-
-rep. No. 10, 2001
 Heading to Part III	
 am. No. 96, 1975
 S. 19	
 rs. No. 93, 1964
 
 am. No. 96, 1975; No. 133, 1979; No. 61, 1981
-
-rs. No. 10, 2001
 S. 20	
 rs. No. 93, 1964
 
@@ -746,8 +924,6 @@ am. No. 216, 1973
 rs. No. 65, 1987
 
 am. No. 1, 1997
-
-rs. No. 10, 2001
 S. 21	
 am. No. 21, 1912; No. 14, 1952
 
@@ -758,8 +934,6 @@ am. No. 216, 1973; No. 61, 1981
 rs. No. 65, 1987
 
 am. No. 1, 1997
-
-rs. No. 10, 2001
 S. 22	
 rs. No. 93, 1964
 
@@ -768,8 +942,6 @@ am. No. 216, 1973
 rs. No. 61, 1981; No. 65, 1987
 
 am. No. 1, 1997
-
-rep. No. 10, 2001
 S. 23	
 rep. No. 45, 1934
 
@@ -1006,7 +1178,7 @@ rep. No. 93, 1964
 
 ad. No. 39, 1983
 
-am. No. 164, 1984; No. 76, 1986; No. 65, 1987; No. 1, 1997; No. 116, 1999; No. 10, 2001
+am. No. 164, 1984; No. 76, 1986; No. 65, 1987; No. 1, 1997; No. 116, 1999
 S. 44C	
 ad. No. 72, 1949
 
@@ -1023,8 +1195,6 @@ S. 44E
 ad. No. 14, 1952
 
 am. No. 93, 1966; No. 96, 1975; No. 133, 1979
-
-rs. No. 141, 2001
 S. 45	
 am. No. 72, 1949; No. 14, 1952; No. 93, 1966; No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 39, 1983; No. 165, 1984
 The First and Second	 Schedules
@@ -1035,6 +1205,39 @@ ad. No. 93, 1964
 am. No. 216, 1973
 
 rep. No. 65, 1987
+Note 2
+Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)
+The following amendments commence on 22 March 2002 unless proclaimed earlier:
+Schedule 2
+67  Part II
+Repeal the Part.
+68  Sections 19, 20, 21 and 22
+Repeal the sections, substitute:
+19  Australian Navy
+		The Australian Navy consists of 2 parts:
+	(a)	the Permanent Navy; and
+	(b)	the Naval Reserve.
+20  Permanent Navy
+		The Permanent Navy consists of:
+	(a)	officers appointed to, and sailors enlisted in, the Permanent Navy; and
+	(b)	officers and sailors transferred to the Permanent Navy from:
+	(i)	the Naval Reserve; or
+	(ii)	the Australian Army; or
+	(iii)	the Australian Air Force.
+21  Naval Reserve
+		The Naval Reserve consists of:
+	(a)	officers appointed to, and sailors enlisted in, the Naval Reserve; and
+	(b)	officers and sailors transferred to the Naval Reserve from:
+	(i)	the Permanent Navy; or
+	(ii)	the Australian Army; or
+	(iii)	the Australian Air Force.
+75  Subsections 44B(1), (1A) and (2)
+Repeal the subsections.
+76  Subsection 44B(3)
+Omit “sections 11, 13, 17A, 28, 30, 32, 32AA and”, substitute “section”.
+77  Subsections 44B(3A), (3B) and (3C)
+Repeal the subsections.
+As at 19 April 2001 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Defence Legislation Amendment Act (No. 1) 1999 (No. 116, 1999)
@@ -1065,13 +1268,5 @@ Example:	Assume that, immediately before the commencement of this item, regulati
 (1)	The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 (2)	In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 (3)	Subitem (2) does not limit the scope of subitem (1).
-
-Defence Legislation Amendment (Application of Criminal Code) Act 2001 (No. 141, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-Schedule 1
-109  Saving—regulations
-Regulations that were in effect for the purposes of section 44E of the Naval Defence Act 1910 immediately before the commencement of this item continue to have effect after that time as if they had been made for the purposes of section 44E of that Act, as in force after that time.
 
 
