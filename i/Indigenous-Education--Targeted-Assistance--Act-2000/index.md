@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00455/Html/b05426ca-a905-4028-8a8b-3dfc375c6348_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00180/Html/d4694f52-599b-4995-8755-e04f2577debf_files/image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 14 April 2011
  taking into account amendments up to Act No. 14 of 2011
 
 The text of any of those amendments not in force
@@ -196,11 +196,13 @@ Note:          If there is only one such party, references in 
 
                     <a name="vocat-educ-train-institut"></a>**_vocational education and training institution_** means an institution in a State or Territory that:
 
-                            (a)   is a registered training organisation (within the meaning of the _National Vocational Education and Training Regulator Act 2011_); and
+                     (a)  is registered as an institution providing vocational education and training by the appropriate State or Territory authority; and
 
-                            (b)   provides VET courses (within the meaning of that Act); and
+                     (b)  is receiving or is eligible to receive funding from the appropriate State or Territory authority; and
 
-                            (c)   is not conducted for profit.
+                     (c)  provides courses that are accredited under State or Territory requirements for the accreditation of vocational education and training courses; and
+
+                     (d)  is not conducted for profit.
 
 ## Part 2—Objects of the Act
 
@@ -1003,7 +1005,7 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 55): <i>(b)</i></div>
+    <div>Schedule 1 (item 55): \[ <i>see</i> <i>(b)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1148,7 +1150,8 @@ _(b)_ Subsection 2(1) (item 10) of the _National Vocational Education and Traini
   </td>
   <td>
     <div>
-      1 July 2011
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -1186,18 +1189,10 @@ _(b)_ Subsection 2(1) (item 10) of the _National Vocational Education and Traini
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
+    <div>Ss. 3, 4</div>
   </td>
   <td>
     <div>am. No. 145, 2004; No. 142, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2004; No. 142, 2008; No. 14, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1418,6 +1413,28 @@ Part 3</div>
     <div>rs. No. 142, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_National Vocational Education and Training Regulator (Consequential Amendments) Act 2011 (No. 14, 2011)_
+
+The following amendment commences immediately after the commencement of section 3 of the _National Vocational Education and Training Regulator Act 2011_:
+
+## Schedule 1
+
+## 55  Section 4 (definition of _vocational education and training institution_)
+
+Repeal the definition, substitute:
+
+                    <a name="vocat-educ-train-institut"></a>**_vocational education and training institution_** means an institution in a State or Territory that:
+
+                            (a)   is a registered training organisation (within the meaning of the _National Vocational Education and Training Regulator Act 2011_); and
+
+                            (b)   provides VET courses (within the meaning of that Act); and
+
+                            (c)   is not conducted for profit.
+
+As at 14 April 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
