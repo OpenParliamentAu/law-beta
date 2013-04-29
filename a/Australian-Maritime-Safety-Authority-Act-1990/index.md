@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00542/Html/AustMaritSafeAuth90_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00246/Html/AustMaritSafeAuth90_WD02_image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 20 July 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 20 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -234,7 +234,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (3)  The question whether a company is a subsidiary of the Authority is to be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the _Companies Act 1981_.
 
-##### <a id="4"></a>4  Extension to external Territories
+##### <a id="4"></a>4  Extension to external Territories
 
                    This Act extends to all external Territories.
 
@@ -1509,23 +1509,6 @@ Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 27–31): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Maritime Safety Authority Act 1990_ was amended by Part 2 (sections 4–6) only of the _Transport Legislation Amendment Act 1991_, subsection 2(3) of which provides as follows:
@@ -2087,33 +2070,6 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>am. No. 95, 1995</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Australian Maritime Safety Authority Act 1990</h9>
-
-## 27  Subsection 47(2)
-
-## 28  Paragraph 47(4)(a)
-
-## 29  Subsection 47(5)
-
-## 30  Paragraph 47(7)(a)
-
-## 31  Subsection 47(10)
-
-As at 20 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
