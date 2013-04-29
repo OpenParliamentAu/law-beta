@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00928/Html/13dc7e5c-cbc7-4bff-a82b-a7db7ca50461_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00396/Html/647ff030-061f-4afc-b25d-611e310c4f3e_files/image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 20 December 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -71,6 +72,14 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [21](#21).          This Part to have effect despite Corporations Act
 
+**Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
+
+Sections 22, 23
+
+**Part 6—Repeal of the Qantas Empire Airways Act 1948 and the Australian National Airlines Act 1945**
+
+[24](#24).          Repeal of the _Qantas Empire Airways Act 1948_
+
 **Part 7—Transitional and saving provisions**
 
 [26](#26).          Transitional long service leave provisions relating to employees of Australian Airlines
@@ -93,6 +102,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part 8—Other provisions relating to the sale of Qantas**
 
+[36](#36).          Repeal of section 35
+
+[38](#38).          Repeal of section 37
+
 [39](#39).          Australian Airlines not to be established by or under an Act
 
 [40](#40).          Exemption from State and Territory taxes and charges
@@ -110,6 +123,18 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [48](#48).          Amendment of declaration under the SRC Act
 
 [49](#49).          Amendment of declaration under the _Superannuation Act 1976_
+
+[51](#51).          Repeal of section 50
+
+**Schedule—Amendments of Acts relating to Qantas or its subsidiaries** 
+
+**Part 1—Interim amendments to be made on or after the substantial minority sale day** 
+
+**Part 2—Permanent amendments to be made on or after the substantial minority sale day** 
+
+**Part 4—Permanent amendments to be made on or after 50% sale day** 
+
+**Part 5—Amendments to be made on or after 100% sale day reversing amendments made by Part 1 of the Schedule** 
 
 **Notes** 
 
@@ -159,7 +184,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (b)  a hire purchase contract.
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before 30 July 1995.
+                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the commencement of Part 5 of this Act.
 
                     <a name="mandatori-articl"></a>**_mandatory article_** means a provision included in Qantas’ articles of association in accordance with subsection 7(1).
 
@@ -635,11 +660,33 @@ by the Commonwealth.
 
                    This Part has effect despite any provision of the _Corporations Act 2001_ of a State or an internal Territory.
 
+## Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
+
+##### Sections <a id="22"></a>22, 23
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on ComLaw.
+
+_Long Service Leave (Commonwealth Employees) Regulations 1957_.
+
+For access to the wording of the amendments made by this Part _see_ Act No. 196, 1992.
+
+* * *
+
+## Part 6—Repeal of the Qantas Empire Airways Act 1948 and the Australian National Airlines Act 1945
+
+##### <a id="24"></a>24  Repeal of the _Qantas Empire Airways Act 1948_
+
+                   The _Qantas Empire Airways Act 1948_ is repealed.
+
 ## Part 7—Transitional and saving provisions
 
 ##### <a id="26"></a>26  Transitional long service leave provisions relating to employees of Australian Airlines
 
-             (1)  If, immediately before 30 July 1995, the period of service of an employee of Australian Airlines, for the purposes of the Long Service Leave Act, is less than 10 years, then, if:
+             (1)  If, immediately before the commencement of Part 5, the period of service of an employee of Australian Airlines, for the purposes of the Long Service Leave Act, is less than 10 years, then, if:
 
                      (a)  the employee continues to be employed by Qantas or a Qantas subsidiary (**_the employer_**) so that the employee’s period of service is at least 10 years; or
 
@@ -649,7 +696,7 @@ by the Commonwealth.
 
 the employer may, at any time, grant the employee long service leave on full salary for a period not exceeding the employee’s long service leave credit under subsection (3) at that time.
 
-             (2)  Subject to subsections (6) and (7), if, immediately before 30 July 1995, the period of service of an employee of Australian Airlines, for the purposes of the Long Service Leave Act, is less than 10 years, then, if:
+             (2)  Subject to subsections (6) and (7), if, immediately before the commencement of Part 5, the period of service of an employee of Australian Airlines, for the purposes of the Long Service Leave Act, is less than 10 years, then, if:
 
                      (a)  the employee ceases to be an employee of the employer, otherwise than because of the death of the employee, on or after the employee reaches the minimum retiring age and the employee’s period of service with the employer is not less than one year; or
 
@@ -665,9 +712,9 @@ the employer must make a payment to the employee of an amount equal to the amoun
 
                      (a)  beginning when the employee started his or her period of service; and
 
-                     (b)  ending immediately before 30 July 1995;
+                     (b)  ending immediately before the commencement of Part 5 of this Act;
 
-if it were assumed that the employee had been retrenched immediately before 30 July 1995.
+if it were assumed that the employee had been retrenched immediately before the commencement of Part 5 of this Act.
 
           (3A)  For the purposes of subsection (2), an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (3), reduced by any long service leave credit used under subsection (1).
 
@@ -681,7 +728,7 @@ if it were assumed that the employee had been retrenched immediately before 30�
 
              (8)  If:
 
-                     (a)  immediately before 30 July 1995, the period of service of an employee of the employer, for the purposes of the Long Service Leave Act, is less than 10 years; and
+                     (a)  immediately before the commencement of Part 5, the period of service of an employee of the employer, for the purposes of the Long Service Leave Act, is less than 10 years; and
 
                      (b)  the employee dies and the employee’s period of service with the employer before the employee’s death is not less than one year;
 
@@ -841,11 +888,11 @@ the employer must authorise payment to a dependant of the employee of an amount 
 
 ##### <a id="32"></a>32  Saving—Long Service Leave Act
 
-                   If, immediately before 30 July 1995, an employee of Australian Airlines has accrued rights under the Long Service Leave Act, then:
+                   If, immediately before the commencement of Part 5, an employee of Australian Airlines has accrued rights under the Long Service Leave Act, then:
 
                      (a)  despite the amendment of the Long Service Leave (Commonwealth Employees) Regulations by this Act, the employee’s accrued rights under that Act continue; and
 
-                     (b)  that Act has effect after the beginning of 30 July 1995 in relation to that employee as if Qantas or a Qantas subsidiary were an approving authority for the purposes of that Act.
+                     (b)  that Act has effect after the commencement of Part 5 in relation to that employee as if Qantas or a Qantas subsidiary were an approving authority for the purposes of that Act.
 
 ##### <a id="33"></a>33  Saving—_Superannuation Act 1922_
 
@@ -864,6 +911,14 @@ the employer must authorise payment to a dependant of the employee of an amount 
              (4)  For the purposes of subsection (3), a terminating event occurs if employment by Qantas or a Qantas subsidiary ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_.
 
 ## Part 8—Other provisions relating to the sale of Qantas
+
+##### <a id="36"></a>36  Repeal of section 35
+
+                   Section 35 is repealed.
+
+##### <a id="38"></a>38  Repeal of section 37
+
+                   Section 37 is repealed.
 
 ##### <a id="39"></a>39  Australian Airlines not to be established by or under an Act
 
@@ -963,7 +1018,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00928/Html/13dc7e5c-cbc7-4bff-a82b-a7db7ca50461_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00396/Html/647ff030-061f-4afc-b25d-611e310c4f3e_files/image002.gif)
 
 where:
 
@@ -985,7 +1040,7 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00928/Html/13dc7e5c-cbc7-4bff-a82b-a7db7ca50461_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00396/Html/647ff030-061f-4afc-b25d-611e310c4f3e_files/image003.gif)
 
 where:
 
@@ -1025,11 +1080,167 @@ where:
 
                     <a name="minist"></a>**_Minister_** has the same meaning as in the _Superannuation Act 1976_.
 
+##### <a id="51"></a>51  Repeal of section 50 
+
+                   Section 50 is repealed. 
+
+# Schedule—Amendments of Acts relating to Qantas or its subsidiaries
+
+## Part 1—Interim amendments to be made on or after the substantial minority sale day
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Archives Act 1983_
+
+_Audit Act 1901_
+
+_Australian Federal Police Act 1979_
+
+_Australian Heritage Commission Act 1975_
+
+_Australian Protective Service Act 1987_
+
+_Civil Aviation Act 1988_
+
+_Crimes (Aviation) Act 1991_
+
+_Crimes (Superannuation Benefits) Act 1989_
+
+_Director of Public Prosecutions Act 1983_
+
+_Environment Protection (Impact of Proposals) Act 1974_
+
+_Federal Airports Corporation Act 1986_
+
+_Freedom of Information Act 1982_
+
+_Naval Defence Act 1910_
+
+_Ombudsman Act 1976_
+
+_Prices Surveillance Act 1983_
+
+_Public Accounts Committee Act 1951_
+
+_Public Works Committee Act 1969_
+
+_Radiocommunications Act 1983_\[repealed by No. 167, 1992]
+
+_Resource Assessment Commission Act 1989_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+
+* * *
+
+## Part 2—Permanent amendments to be made on or after the substantial minority sale day 
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Administrative Decisions (Judicial Review) Act 1977_
+
+_Australian Airlines (Conversion to Public Company) Act 1988_
+
+_Australian Heritage Commission Act 1975_
+
+_Civil Aviation (Carriers’ Liability) Act 1959_
+
+_Crimes (Currency) Act 1981_
+
+_Crimes (Hostages) Act 1989_
+
+_Crimes (Internationally Protected Persons) Act 1976_
+
+_Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_
+
+_Nuclear Non‑Proliferation (Safeguards) Act 1987_
+
+_South Pacific Nuclear Free Zone Treaty Act 1986_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+
+* * *
+
+## Part 4—Permanent amendments to be made on or after 50% sale day 
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Australian Airlines (Conversion to Public Company) Act 1988_
+
+_Workplace Relations Act 1996_
+
+_Superannuation Act 1990_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+
+* * *
+
+## Part 5—Amendments to be made on or after 100% sale day reversing amendments made by Part 1 of the Schedule 
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Archives Act 1983_
+
+_Audit Act 1901_
+
+_Australian Federal Police Act 1979_
+
+_Australian Heritage Commission Act 1975_
+
+_Australian Protective Service Act 1987_
+
+_Civil Aviation Act 1988_
+
+_Crimes (Aviation) Act 1991_
+
+_Crimes (Superannuation Benefits) Act 1989_
+
+_Director of Public Prosecutions Act 1983_
+
+_Environment Protection (Impact of Proposals) Act 1974_
+
+_Federal Airports Corporation Act 1986_
+
+_Freedom of Information Act 1982_
+
+_Naval Defence Act 1910_
+
+_Ombudsman Act 1976_
+
+_Prices Surveillance Act 1983_
+
+_Public Accounts and Audit Committee Act 1951_
+
+_Public Works Committee Act 1969_
+
+_Resource Assessment Commission Act 1989_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+
+* * *
+
 # Notes to the _Qantas Sale Act 1992_
 
 ### Note 1
 
 The _Qantas Sale Act 1992_ as shown in this compilation comprises Act No. 196, 1992 amended as indicated in the Tables below.
+
+Sections 35, 37 and 50 are repealed, _see_ sections 36, 38 and 51.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1244,7 +1455,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 4–14 and Schedule 3 (items 444–457): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1315,23 +1526,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 53–61): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsections 2(2) and (6) of the _Qantas Sale Act 1992_ provide as follows:
@@ -1398,8 +1592,8 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1438,7 +1632,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 55, 2001; No. 136, 2012</div>
+    <div>am. No. 168, 1994; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1555,54 +1749,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 </tr>
 <tr>
   <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -1614,7 +1760,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 136, 2012</div>
+    <div>am. No. 168, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1646,7 +1792,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 136, 2012</div>
+    <div>am. No. 168, 1994</div>
   </td>
 </tr>
 <tr>
@@ -1675,14 +1821,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 37</div>
   </td>
   <td>
@@ -1695,14 +1833,6 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
   </td>
   <td>
     <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1779,10 +1909,10 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 </tr>
 <tr>
   <td>
-    <div>S. 51</div>
+    <div><b>Schedule</b></div>
   </td>
   <td>
-    <div>rep. No. 136, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1790,15 +1920,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. No. 192, 1992; Nos. 5 and 168, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
+    <div>am. Nos. 5 and 168, 1994</div>
   </td>
 </tr></table>
 
@@ -1814,7 +1936,7 @@ _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
-## 11  Transitional regulations
+## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
