@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00605/Html/f7c9a0ff-1b2f-4b5a-877a-e300267c7503_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00333/Html/PassMovtChAct1978_WD02_image001.gif)
 
 # Passenger Movement Charge Act 1978
 
 **Act No. 118 of 1978 as amended**
 
-This compilation was prepared on 15 August 2012
- taking into account amendments up to Act No. 94 of 2012
+This compilation was prepared on 17 July 2008
+ taking into account amendments up to Act No. 58 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,21 +14,19 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[4](#4).            Travel involving intermediate destinations                                          2
 
-[4](#4).            Travel involving intermediate destinations
+[5](#5).            Imposition of passenger movement charge                                          3
 
-[5](#5).            Imposition of passenger movement charge
-
-[6](#6).            Rate of passenger movement charge
+[6](#6).            Rate of passenger movement charge                                                    3
 
 **Notes** 
 
@@ -42,7 +40,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act shall come into operation on a date to be fixed by Proclamation. 
 
-##### <a id="3  Definitions"></a>3  Definitions
+**3  Definitions**
 
                    In this Act:
 
@@ -52,15 +50,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="extern-territori"></a>**_external Territory_** has the same meaning as in the Collection Act.
 
-                    <a name="territori"></a><a name="indian-ocean"></a>**_Indian Ocean_****_Territory_** means:
+                    <a name="territori"></a><a name=""></a><a name="indian-ocean"></a>**_Indian Ocean_****_Territory_** means:
 
                      (a)  the Territory of Christmas Island; or
 
-                     (b)  the Territory of Cocos (Keeling)  Islands.
+                     (b)  the Territory of Cocos (Keeling) Islands.
 
                     <a name="instal-joint-petroleum-develop-area"></a>**_installation in the Joint Petroleum Development Area_** means a resources installation, or a sea installation, that is attached to the seabed in the Joint Petroleum Development Area.
 
-                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (Timor Sea Treaty) Act 2003_.
+                    <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (__Timor  Sea__Treaty) Act 2003_.
 
                     <a name="resourc-instal"></a>**_resources installation_** has the same meaning as in subsection 4(1) of the _Customs Act 1901_.
 
@@ -76,7 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the person intends, at the time of the departure, to depart from that external Territory for another country, or for an installation in the Joint Petroleum Development Area, within 3 months after the departure from Australia;
 
-the first‑mentioned departure is taken to be a departure of the person from Australia for that other country or for that installation, as the case requires.
+the first-mentioned departure is taken to be a departure of the person from Australia for that other country or for that installation, as the case requires.
 
              (2)  For the purposes of this Act (including subsection (1)), if:
 
@@ -84,23 +82,23 @@ the first‑mentioned departure is taken to be a departure of the person from Au
 
                      (b)  the person intends, at the time of the departure, to depart from that other country, or from an installation in the Joint Petroleum Development Area, for an external Territory within 7 days after the departure from Australia;
 
-the first‑mentioned departure is taken to be a departure from Australia for that external Territory.
+the first-mentioned departure is taken to be a departure from Australia for that external Territory.
 
              (3)  For the purposes of this Act, if:
 
-                     (a)  a person departs from an Indian Ocean  Territory for another country or for an installation in the Joint Petroleum Development Area; and
+                     (a)  a person departs from an Indian   Ocean Territory for another country or for an installation in the Joint Petroleum Development Area; and
 
-                     (b)  the person intends, at the time of the departure, to depart from that other country, or from an installation in the Joint Petroleum Development Area, for a place in Australia other than that first‑mentioned Indian Ocean Territory within 7 days after the first‑mentioned departure;
+                     (b)  the person intends, at the time of the departure, to depart from that other country, or from an installation in the Joint Petroleum Development Area, for a place in Australia other than that first-mentioned Indian Ocean Territory within 7 days after the first-mentioned departure;
 
-the first‑mentioned departure is taken not to be a departure from Australia for another country or for an installation in the Joint Petroleum Development Area.
+the first-mentioned departure is taken not to be a departure from Australia for another country or for an installation in the Joint Petroleum Development Area.
 
              (4)  For the purposes of this Act, if:
 
                      (a)  a person departs from a part of Australia other than an Indian Ocean Territory for another country or for an installation in the Joint Petroleum Development Area; and
 
-                     (b)  the person intends, at the time of the departure, to depart from that other country, or from an installation in the Joint Petroleum Development Area, for an Indian Ocean Territory within 7 days after the first‑mentioned departure;
+                     (b)  the person intends, at the time of the departure, to depart from that other country, or from an installation in the Joint Petroleum Development Area, for an Indian Ocean Territory within 7 days after the first-mentioned departure;
 
-the first‑mentioned departure is taken not to be a departure from Australia for another country or for an installation in the Joint Petroleum Development Area.
+the first-mentioned departure is taken not to be a departure from Australia for another country or for an installation in the Joint Petroleum Development Area.
 
 ##### <a id="5"></a>5  Imposition of passenger movement charge
 
@@ -114,7 +112,7 @@ whether or not the person intends to return to Australia.
 
 ##### <a id="6"></a>6  Rate of passenger movement charge
 
-                   The rate of charge imposed by this Act in respect of the departure of a person from Australia is $55.
+                   The rate of charge imposed by this Act in respect of the departure of a person from Australia is $47.
 
 # Notes to the _Passenger Movement Charge Act 1978_
 
@@ -129,10 +127,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="23%">
-  <col width="15%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -167,7 +165,7 @@ of Assent</div>
     <div>29 Sept 1978</div>
   </td>
   <td>
-    <div>24 Oct 1978 ( <i>see Gazette</i>1978, No. S216)</div>
+    <div>24 Oct 1978 ( <i>see Gazette</i>1978, No. S216)</div>
   </td>
   <td>
     <div></div>
@@ -289,7 +287,7 @@ of Assent</div>
     <div>1 Jan 1999</div>
   </td>
   <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 2)</div>
   </td>
 </tr>
 <tr>
@@ -303,7 +301,7 @@ of Assent</div>
     <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>Ss. 4–6 and Schedule 2 (item 37): <i>(a)</i></div>
+    <div>Ss 4–6 and Schedule 2 (item 37): <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 4–6 
@@ -360,23 +358,6 @@ of Assent</div>
   <td>
     <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Passenger Movement Charge Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>94, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>1 July 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Passenger Movement Charge Act 1978_ was amended by Schedule 2 (item 37) only of the _Timor__Gap Treaty (Transitional Arrangements) Act 2000_, subsection 2(2) of which provides as follows:
@@ -387,8 +368,8 @@ _(a)_     The _Passenger Movement Charge Act 1978_ was amended by Schedu
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -491,7 +472,7 @@ _(a)_     The _Passenger Movement Charge Act 1978_ was amended by Schedu
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 131, 1981; No. 47, 1988; No. 77, 1991; No. 96, 1993; No. 146, 1994 ; No. 66, 1998; No. 79, 2001; No. 58, 2008; No. 94, 2012</div>
+    <div>am. No. 131, 1981; No. 47, 1988; No. 77, 1991; No. 96, 1993; No. 146, 1994 ; No. 66, 1998; No. 79, 2001; No. 58, 2008</div>
   </td>
 </tr></table>
 
@@ -515,7 +496,7 @@ _Timor Gap Treaty (Transitional Arrangements) Act 2000 (No. 25, 2000)_
 
                     <a name="transition-time"></a>**_transition time_** means 1.23 am Australian Central Standard Time on 26 October 1999.
 
-Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world‑wide web site.
+Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East  Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world-wide web site.
 
 * * *
 
@@ -544,19 +525,5 @@ The amendment made by item 1 applies in relation to the departure of a person 
                      (a)  the person departs using a ticket or equivalent authority; and
 
                      (b)  the ticket or authority was sold or issued before 1 July 2008.
-
-* * *
-
-_Passenger Movement Charge Amendment Act 2012 (No. 94, 2012)_
-
-## Schedule 1
-
-## 2  Application provision
-
-The amendment made by item 1 applies in relation to the departure of a person from Australia on or after 1 July 2012, unless:
-
-                     (a)  the person departs using a ticket or equivalent authority; and
-
-                     (b)  the ticket or authority was sold or issued before 1 July 2012.
 
  
