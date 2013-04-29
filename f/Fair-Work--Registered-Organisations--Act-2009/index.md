@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00055/Html/cd60d3ac-b72a-413e-a328-bffa04ac28f7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00800/Html/9261ce0d-ed38-45f5-9ff8-ff92b684192d_files/image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 5 December 2012
- taking into account amendments up to Act No. 175 of 2012
+This compilation was prepared on 8 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -545,8 +545,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [190](#190).        Organisation or branch must not assist one candidate over another
 
-[191](#191).        Organisation to provide returning officer with copy of 
- register
+[191](#191).        Organisation to provide returning officer with copy of register
 
 [192](#192).        Declaration by secretary etc  of organisation
 
@@ -1430,7 +1429,7 @@ Note:          Organisations registered under the _Workplace R
 
                      (b)  if paragraph (a) does not apply—an organisation of which the association has purported to function as a branch (including a division of a branch or a constituent part of a branch).
 
-##### <a id="10"></a>10  Forging and uttering
+##### <a id="10"></a>10  Forging and uttering
 
 Forging
 
@@ -2412,7 +2411,7 @@ Federation does not limit representation rights of organisations
 
 ### Division 3—Commencement of amalgamation procedure
 
-##### <a id="40"></a>40  Scheme for amalgamation
+##### <a id="40"></a>40  Scheme for amalgamation
 
              (1)  There is to be a scheme for every proposed amalgamation.
 
@@ -6502,7 +6501,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (6)  Without limiting the power of the Court to terminate a proceeding before it, the Court may, at any time after it begins an inquiry into an election, terminate the inquiry or the inquiry to the extent that it relates to specified matters.
 
-##### <a id="207"></a>207  General Manager to make arrangements for conduct of elections etc.
+##### <a id="207"></a>207  General Manager to make arrangements for conduct of elections etc.
 
                    Where the Federal Court makes an order under paragraph 206(4)(c) in relation to an election, the General Manager must arrange for the taking of the necessary steps in relation to the election, or for the conduct of the new election, as the case requires, by the AEC.
 
@@ -9270,7 +9269,7 @@ the person in contravention is liable to compensate the victim for the damage.
 
 ##### <a id="337J"></a>337J  Relief not limited to claim
 
-                   In making an order in proceedings under this Act, FWA is not restricted to the specific relief claimed by the parties concerned, but may include in the order anything which FWA considers necessary or expedient for the purposes of dealing with the proceedings.
+                   In making an order in proceedings under this Act, FWA is not restricted to the specific relief claimed by the parties concerned, but may include in the order anything which FWA considers necessary or expedient for the purposes of dealing with the proceedings.
 
 ##### <a id="337K"></a>337K  Publishing orders
 
@@ -9932,7 +9931,7 @@ FWA must, subject to subsection (10), approve the amalgamation and fix the day
 
 ##### <a id="368"></a>368  Exercise of FWA’s powers under this Part
 
-                   The powers of FWA under this Part are exercisable only by the President or a Deputy President.
+                   The powers of FWA under this Part are exercisable only by the President or a Deputy President.
 
 # Schedule 1—Transitionally recognised associations
 
@@ -10016,25 +10015,9 @@ _Note:       See section 5B._
 
                      (e)  it is not also an organisation, or a branch of an organisation.
 
-          (1A)  A State‑registered association may also apply to the General Manager for transitional recognition under this Schedule if:
-
-                     (a)  it has at least one member who is a transferring employee (within the meaning of the _Fair Work Act 2009_) and who is, or is likely to be, covered by a copied State instrument for the employee (within the meaning of that Act); and
-
-                     (b)  immediately before the employee’s termination time (within the meaning of that Act), it was entitled to represent the industrial interests of the employee in relation to the transferring work of the employee (within the meaning of that Act); and
-
-                     (c)  it is not also an organisation, or a branch of an organisation; and
-
-                     (d)  it is not, or has not been, transitionally recognised under this Schedule; and
-
-                     (e)  the application is made before:
-
-                              (i)  the fifth anniversary of the day the _Fair Work Amendment (Transfer of Business) Act 2012_ commenced; or
-
-                             (ii)  if the regulations prescribe a later day—that day.
-
              (2)  The application must be accompanied by:
 
-                     (a)  evidence to establish the fact that the association satisfies subclause (1) or (1A); and
+                     (a)  evidence to establish the fact that the association satisfies subclause (1); and
 
                      (b)  a copy of the current rules of the association; and
 
@@ -10046,7 +10029,7 @@ _Note:       See section 5B._
 
                             (iii)  the name and address of each person holding office in the association.
 
-             (3)  If the General Manager is  satisfied that the association satisfies subclause (1) or (1A), the General Manager must, by written instrument, grant the application and record the fact that he or she is so satisfied.
+             (3)  If the General Manager is  satisfied that the association satisfies subclause (1), the General Manager must, by written instrument, grant the application and record the fact that he or she is so satisfied.
 
              (4)  An instrument under subclause (3) is not a legislative instrument.
 
@@ -10116,8 +10099,6 @@ Cancellation by the Federal Court
 
                             (iii)  an interim injunction granted under section 545 of the Fair Work Act so far as it relates to conduct or proposed conduct that could be the subject of an injunction or order under a provision mentioned in subparagraph (i) or (ii).
 
-          (1A)  A reference in subclause (1), in relation to a transitionally recognised association that has been granted transitional recognition in relation to an application under subclause 2(1A), to the reform commencement is taken to be a reference to the day the _Fair Work Amendment (Transfer of Business) Act 2012_ commenced.
-
              (2)  The Court must give the association an opportunity to be heard.
 
              (3)  If the Court:
@@ -10160,7 +10141,7 @@ Cancellation by General Manager
 
 ##### <a id="6"></a>6  End of transitional recognition
 
-             (1)  The recognition under this Schedule of a transitionally recognised association that has been granted transitional recognition in relation to an application under subclause 2(1) ends:
+             (1)  The recognition under this Schedule of a transitionally recognised association ends:
 
                      (a)  when it is cancelled under clause 5; or
 
@@ -10174,27 +10155,13 @@ Cancellation by General Manager
 
                             (iii)  if FWA grants the association a further extension under subclause (3) of this clause—the seventh anniversary of that day.
 
-          (1A)  The recognition under this Schedule of a transitionally recognised association that has been granted transitional recognition in relation to an application under subclause 2(1A) ends:
-
-                     (a)  when it is cancelled under clause 5; or
-
-                     (b)  when the association becomes an organisation; or
-
-                     (c)  in any other case—at the end of the latest of the following days:
-
-                              (i)  the day (the **_default day_**) that is the later of the fifth anniversary of the day the _Fair Work Amendment (Transfer of Business) Act 2012_ commenced and a day prescribed by the regulations;
-
-                             (ii)  if FWA grants the association an extension under subclause (2)—the anniversary of the default day;
-
-                            (iii)  if FWA grants the association a further extension under subclause (3)—the second anniversary of the default day.
-
-             (2)  FWA may, on application by a transitionally recognised association, grant the association an extension for the purposes of subparagraph (1)(c)(ii) or (1A)(c)(ii) if FWA is satisfied that the association has made progress towards:
+             (2)  FWA may, on application by a transitionally recognised association, grant the association an extension for the purposes of subparagraph (1)(c)(ii) if FWA is satisfied that the association has made progress towards:
 
                      (a)  becoming an organisation; or
 
                      (b)  rationalising its internal affairs with those of its federal counterpart.
 
-             (3)  FWA may, on application by a transitionally recognised association, grant the association a further extension for the purposes of subparagraph (1)(c)(iii) or (1A)(c)(iii) if FWA is satisfied that:
+             (3)  FWA may, on application by a transitionally recognised association, grant the association a further extension for the purposes of subparagraph (1)(c)(iii) if FWA is satisfied that:
 
                      (a)  the association has made further progress towards:
 
@@ -12260,42 +12227,7 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>Schedule 1 (items 40–61): \[ <i>see</i>Note 2 and Table A]Remainder:Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 4, 10, 16–18, 24, 28, 37, 38, 58, 60) 
-Sch. 1 (item 39) (am. by 174, 2012, Sch. 9 \[item 1095]) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (item 1095): \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (items 4, 10, 16–18, 24, 28, 37–39, 58, 60) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -12310,42 +12242,6 @@ Sch. 1 (item 39) (am. by 174, 2012, Sch. 9 \[item 1095]) \[ <i>see</i>Tabl
   </td>
   <td>
     <div>Schedule 1 (items 51, 52): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 62): \[ <i>see</i>Note 3] 
-Schedule 8 (items 46–52) and Schedule 9 (items 896–1094, 1385, 1386): \[ <i>see</i>Note 3 and Table A] 
-Schedule 9 (item 1384): \[ <i>see</i> <i>(x)</i>and Note 3]</div>
-  </td>
-  <td>
-    <div>Sch. 9 (item 1386) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment (Transfer of Business) Act 2012</div>
-  </td>
-  <td>
-    <div>175, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 68–75): 5 Dec 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -13229,71 +13125,6 @@ _(w)_ Subsection 2(1) (items 3, 31 and 38) of the _Statute Law Revision Act 20
   <td>
     <div>
       1 March 2010
-    </div>
-  </td>
-</tr></table>
-
-_(x)_ Subsection 2(1) (item 7) of the _Fair Work Amendment Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 9, Part 3, item 1384
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the same time as the provision(s) covered by table item 4; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Part 2 of Schedule 1 to the
-        <i>Fair Work (Registered Organisations) Amendment Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
-    <div>
-      (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -36708,7 +36539,7 @@ No. 55, 2009</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2009; No. 175, 2012</div>
+    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -36788,7 +36619,7 @@ No. 55, 2009</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2009; No. 5, 2011; No. 175, 2012</div>
+    <div>am. No. 55, 2009; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -36812,7 +36643,7 @@ No. 55, 2009</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2008; No. 55, 2009; No. 175, 2012</div>
+    <div>am. No. 8, 2008; No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -44077,869 +43908,7 @@ Add:
 
 After “144(1)”, insert “or section 148D”.
 
-As at 5 December 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Fair Work Amendment Act 2012 (No. 174, 2012)_
-
-The following amendment commences on 1 July 2013:
-
-## Schedule 2
-
-## 62  Section 6 (definition of _FWC member_)
-
-Omit “a Minimum Wage Panel Member”, substitute “an Expert Panel Member”.
-
-The following amendments commence on 4 June 2013 unless proclaimed earlier:
-
-## Schedule 8
-
-## 46  Section 6
-
-Insert:
-
-                    <a name="vice-presid"></a>**_Vice President_** means a Vice President of the FWC.
-
-## 47  Section 33 (heading)
-
-After “**by President**”, insert “**, a Vice President**”.
-
-## 48  Sections 33, 37, 155 and 162
-
-After “the President”, insert “, a Vice President”.
-
-## 49  Subsection 163(12) (paragraph (a) of the definition of _appropriate authority_)
-
-After “the President”, insert “, a Vice President”.
-
-## 50  Section 279
-
-After “the President”, insert “, a Vice President”.
-
-## 51  Subparagraphs 340(1)(b)(i) and (ii)
-
-After “the President”, insert “, a Vice President”.
-
-## 52  Section 368
-
-After “the President”, insert “, a Vice President”.
-
-## Schedule 9
-
-## 896  Subsection 5(5) (note)
-
-Omit “FWA”, substitute “the Fair Work Commission”.
-
-## 897  Section 6 (definition of _Deputy President_)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 898  Section 6 (definition of _FWA_)
-
-Repeal the definition.
-
-## 899  Section 6 (definition of _FWA member_)
-
-Repeal the definition.
-
-## 900  Section 6
-
-Insert:
-
-                    <a name="fwc"></a>**_FWC_** means the Fair Work Commission.
-
-                    <a name="fwc-member"></a>**_FWC member_** has the same meaning as in the Fair Work Act, but does not include a Minimum Wage Panel Member (within the meaning of that Act).
-
-## 901  Section 6 (definition of _General Manager_)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 902  Section 6 (definition of _prescribed_)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 903  Section 6 (definition of _President_)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 904  Section 13 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 905  Subsection 13(1)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 906  Section 17
-
-Omit “FWA”, substitute “the FWC”.
-
-## 907  Subsection 19(1)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 908  Paragraph 19(1)(e)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 909  Subsections 19(2), (3) and (4)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 910  Subsection 19(5)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 911  Subsection 20(1)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 912  Paragraphs 20(1)(d) and (g)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 913  Subsection 20(1A)
-
-Omit “FWA” (first occurring), substitute “the FWC”.
-
-## 914  Subsection 20(1A) (note)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 915  Subsection 20(2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 916  Paragraph 21(4)(c)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 917  Subsection 25(1)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 918  Subsection 25(1)
-
-Omit “FWA” (second and third occurring), substitute “the FWC”.
-
-## 919  Subsection 26(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 920  Subparagraphs 28(1)(a)(i) and (ii)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 921  Subsection 30(1)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 922  Paragraph 30(1)(b)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 923  Paragraph 30(1)(c)
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 924  Subparagraph 30(1)(c)(i)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 925  Subsection 30(2)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 926  Subsection 30(3)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 927  Paragraphs 30(3)(a) and (b)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 928  Paragraph 30(4)(c)
-
-Omit “FWA’s”, substitute “FWC’s”.
-
-## 929  Paragraph 30(6)(c)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 930  Subsection 30(6)
-
-Omit “FWA” (second occurring), substitute “The FWC”.
-
-## 931  Subsection 30(6)
-
-Omit “FWA” (third occurring), substitute “the FWC”.
-
-## 932  Paragraphs 32(c) and (d)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 933  Part 4 of Chapter 2 (heading)
-
-Omit “**FWA’s**”, substitute “**FWC’s**”.
-
-## 934  Sections 33 and 34
-
-Omit “FWA”, substitute “the FWC”.
-
-## 935  Subsections 36(2), (3) and (4)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 936  Section 37 (heading)
-
-Omit “**FWA’s**”, substitute “**the** **FWC’s**”.
-
-## 937  Sections 37 and 38
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 938  Subsections 43(1), (3) and (4)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 939  Subsection 43(5)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 940  Subsection 43(5)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 941  Subsection 43(6)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 942  Subsection 43(6)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 943  Subsection 43(7)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 944  Subsection 43(9)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 945  Subsection 43(9)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 946  Subsection 43(10)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 947  Sections 44, 46, 47, 52, 53 and 54
-
-Omit “FWA”, substitute “the FWC”.
-
-## 948  Subsections 55(1), (2) and (3)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 949  Subsection 55(5) (heading)
-
-Omit “_FWA_”, substitute “_the FWC_”.
-
-## 950  Subsections 55(5) and (6)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 951  Subsection 55(7) (heading)
-
-Omit “_FWA_”, substitute “_the FWC_”.
-
-## 952  Subsections 55(7) and (8)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 953  Subsections 56(1) and (2)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 954  Subsection 56(4)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 955  Subsections 57(1), (2) and (3)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 956  Subsection 57(6) (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 957  Subsections 57(6) and (7)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 958  Subsection 57(8) (heading)
-
-Omit “_FWA_”, substitute “_the FWC_”.
-
-## 959  Subsections 57(8) and (9) and 58(1) and (2)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 960  Subsection 58(4)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 961  Section 59
-
-Omit “FWA”, substitute “the FWC”.
-
-## 962  Subsections 60(1) and (2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 963  Subsection 60(3)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 964  Subsection 60(5)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 965  Subsection 60(6) (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 966  Subsection 60(6)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 967  Subsection 60(7) (heading)
-
-Omit “_FWA_”, substitute “_the FWC_”.
-
-## 968  Subsection 60(7)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 969  Subsection 61(1)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 970  Subsection 61(4) (heading)
-
-Omit “_FWA_”, substitute “_the FWC_”.
-
-## 971  Subsections 61(4) and (5)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 972  Subsections 62(1) and (2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 973  Subsection 62(3)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 974  Sections 63, 64, 65, 67, 73, 75, 76 and 79
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 975  Section 94 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 976  Subsections 94(1) and (2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 977  Subsections 95(2) and (4)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 978  Subsections 96(1) and (2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 979  Subsection 96(3)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 980  Subsections 97(1) and (2)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 981  Subsection 97(3)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 982  Subsection 98(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 983  Subsection 98(2)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 984  Subsection 98(2)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 985  Subsection 100(1)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 986  Subsection 100(1)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 987  Subsections 100(2) and (3)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 988  Sections 104 and 108
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 989  Section 108A (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 990  Section 108A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 991  Section 113 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 992  Subsection 113(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 993  Section 132
-
-Omit “FWA”, substitute “the FWC”.
-
-## 994  Subsection 133(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 995  Subsection 133(2)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 996  Section 134
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 997  Section 134
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 998  Section 135 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 999  Section 135
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1000  Subsection 137A(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1001  Subsection 137A(2)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1002  Subsection 137A(3)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1003  Subsection 137A(3)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1004  Subsections 137A(5), (6) and (7)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1005  Section 137B (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1006  Sections 137B and 137C
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1007  Section 137F (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1008  Subsection 137F(1)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1009  Section 138 (heading)
-
-Omit “**FWA’s**”, substitute “**the FWC’s**”.
-
-## 1010  Sections 138, 138A, 141, 142 and 144
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1011  Subsections 151(2) and (4)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1012  Subsection 151(5)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1013  Subsection 151(5)
-
-Omit “FWA” (second, third and fourth occurring), substitute “the FWC”.
-
-## 1014  Subsections 151(8), (9) and (11)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1015  Subsections 152(3) and (5)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1016  Subsection 152(6)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1017  Subsection 152(6)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1018  Section 155 (heading)
-
-Omit “**FWA’s**”, substitute “**the FWC’s**”.
-
-## 1019  Section 155
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1020  Section 157 (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1021  Subsection 157(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1022  Subsection 157(1)
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 1023  Subsection 157(2)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1024  Subsection 158(1)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1025  Subsection 158(2)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1026  Subsection 158(2)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1027  Subsection 158(3)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1028  Subsection 158(3)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1029  Subsection 158(4)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1030  Subsection 158(4)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1031  Subsection 158(5)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1032  Subsection 158(6)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1033  Subsection 158(7)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1034  Paragraph 158(7)(a)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1035  Subsections 158(8), (9) and (10)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1036  Subsection 158A(1) (note)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1037  Subsections 159(1) and (2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1038  Section 162 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1039  Sections 162, 166, 180, 183, 187, 189, 192, 198, 203
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1040  Section 233 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1041  Sections 233, 237 and 261
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1042  Section 268 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1043  Sections 268, 269 and 270
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1044  Subsection 273(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1045  Subsections 273(2) and (3)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1046  Subsection 273(4)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1047  Sections 274, 275 and 276
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1048  Section 278 (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1049  Section 278
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1050  Section 279 (heading)
-
-Omit “**FWA**”, substitute “**the** **FWC**”.
-
-## 1051  Sections 279, 281, 294, 297, 298, 299, 300, 301, 302, 303, 303A, 305, 317, 332, 333, 335C
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1052  Subparagraph 337A(b)(ii)
-
-Omit “FWA” (first occurring), substitute “FWC”.
-
-## 1053  Subparagraph 337A(b)(ii)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1054  Part 4B of Chapter 11 (heading)
-
-Omit “**FWA**”, substitute “**the** **FWC**”.
-
-## 1055  Section 337F
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1056  Section 337G
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1057  Sections 337H and 337J
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1058  Subsection 337K(1)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1059  Subsection 337K(2)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1060  Subsection 337K(5)
-
-Omit “FWA” (first and second occurring), substitute “FWC”.
-
-## 1061  Paragraph 337K(5)(a)
-
-Omit “FWA” (first occurring), substitute “the FWC”.
-
-## 1062  Paragraphs 337K(5)(a) and (b)
-
-Omit “FWA member”, substitute “FWC member”.
-
-## 1063  Subsection 337K(5)
-
-Omit “seal of FWA”, substitute “seal of the FWC”.
-
-## 1064  Subsection 337K(5)
-
-Omit “FWA” (last occurring), substitute “FWC”.
-
-## 1065  Sections 343A, 347, 349, 353, 355 and 356
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1066  Paragraph 359(2)(e)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1067  Subsection 359(2) (note)
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 1068  Subsection 362(3)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1069  Section 363 (heading)
-
-Omit “**FWA**”, substitute “**the** **FWC**”.
-
-## 1070  Subsection 363(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1071  Subsection 363(2)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1072  Subsection 363(3)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1073  Subsection 367(2)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1074  Subsection 367(5)
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1075  Subsections 367(8) and (9)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1076  Subsection 367(10)
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1077  Subsection 367(10)
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1078  Division 5 of Part 7 of Chapter 11 (heading)
-
-Omit “**FWA’s**”, substitute “**the FWC’s**”.
-
-## 1079  Section 368 (heading)
-
-Omit “**FWA’s**”, substitute “**the FWC’s**”.
-
-## 1080  Section 368
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1081  Clause 4 of Schedule 1
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1082  Subclause 5(1) of Schedule 1
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1083  Subclause 5(5) of Schedule 1 (heading)
-
-Omit “_FWA_”, substitute “_the FWA_”.
-
-## 1084  Subclause 5(5) of Schedule 1
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1085  Paragraph 5(5)(b) of Schedule 1
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1086  Subparagraphs 6(1)(c)(ii) and (iii) of Schedule 1
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1087  Subclause 6(2) of Schedule 1
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1088  Subclause 6(2) of Schedule 1
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1089  Subclause 6(3) of Schedule 1
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1090  Subclause 6(3) of Schedule 1
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1091  Subparagraphs 3(1)(a)(i) and (ii) of Schedule 2
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1092  Subclause 3(5) of Schedule 2 (heading)
-
-Omit “_FWA_”, substitute “_the FWC_”.
-
-## 1093  Subclause 3(5) of Schedule 2
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1094  Paragraph 3(5)(b) of Schedule 2
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1385  Subparagraphs 6(1A)(c)(ii) and (iii) of Schedule 1
-
-Omit “FWA”, substitute “the FWC”.
-
-The following amendment commences immediately after the commencement of Part 2 of Schedule 1 to the _Fair Work (Registered Organisations) Amendment Act 2012_:
-
-## Schedule 9
-
-## 1384  Subsection 148D(1)
-
-Omit “FWA”, substitute “the FWC”.
-
-As at 5 December 2012 the amendments are not incorporated in this compilation.
+As at 8 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -45521,7 +44490,7 @@ Section 253ZW of the _Workplace Relations Act 1996_ applies to acts or omissio
 
 _Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
 
-##### <a id="18"></a>18  Referrals under the old SDA
+##### <a id="18"></a>18  Referrals under the old SDA
 
                    The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
 
@@ -45819,7 +44788,7 @@ The amendment of the Principal Act made by item 13 applies to:
 
                      (b)  proceedings referred to the Full Bench under that section on or after that commencement.
 
-## 32  Application of item 15
+## 32  Application of item 15
 
 The amendment of the Principal Act made by item 15 applies only in relation to a breach of a minimum term or condition of employment applicable to an employee under subsection 500(1) of that Act if that breach occurs on or after the commencement of that item.
 
@@ -46438,7 +45407,7 @@ The amendments of subsections 337(4) and (5) of the _Fair Work (Registered Organ
 
                      (b)  ending immediately before the commencement of Part 2 of this Schedule.
 
-## \[NOTE]  39  Transitional—alteration of rules (exemption from section 148C)
+## 39  Transitional—alteration of rules (exemption from section 148C)
 
 (1)       An organisation may lodge with FWA an application (an **_early application_**) under this item, for the purposes of section 148D of the _Fair Work (Registered Organisations) Act 2009_ as inserted by Part 2 of this Schedule, at any time during the period:
 
@@ -46493,36 +45462,6 @@ The following provisions commence on 29 June 2013 unless proclaimed earlier:
 (1)       This item applies to a person if, immediately before the commencement of this item, the person holds an office in an organisation or a branch of an organisation.
 
 (2)       Rules made under subsection 154D(2) of the _Fair Work (Registered Organisations) Act 2009_, as inserted by this Schedule, apply to the person as if the requirement to complete the training within 6 months after the person begins to hold the office were instead a requirement to complete the training within 6 months after the commencement of this item.
-
-_\[NOTE]:  Fair Work Amendment Act 2012 (No. 174, 2012)_
-
-The following amendment commences on 4 June 2013 unless proclaimed earlier and amends Schedule 1 (item 39) of the _Fair Work (Registered Organisations) Amendment Act 2012_ (No. 93, 2012) as follows:
-
-## Schedule 9
-
-## 1095  Subitem 39(1) of Schedule 1
-
-Omit “FWA”, substitute “the FWC”.
-
-As at 5 December 2012 the amendment is not incorporated in this compilation.
-
-* * *
-
-_Fair Work Amendment Act 2012 (No. 174, 2012)_
-
-The following provision commences on 4 June 2013 unless proclaimed earlier:
-
-## Schedule 9
-
-## 1386  Transitional provision—the _Fair Work (Registered Organisations) Act 2009_: identity cards
-
-(1)       This item applies in relation to an identity card that was:
-
-                     (a)  issued to a member of the staff of FWA under section 203 of the _Fair Work (Registered Organisations) Act 2009_; and
-
-                     (b)  in force immediately before the day this item commences.
-
-(2)       The card continues in force (and may be dealt with) on and after the day this item commences as if it had been issued to the member of staff as a member of the staff of the FWC under that section, as amended by this Schedule.
 
 Table showing Parts, Divisions, Subdivisions, Sections and Schedules of the _Fair Work (Registered Organisations) Act 2009_ after renumbering by the _Workplace Relations Amendment (Work Choices) Act 2005_ (No. 153, 2005).
 
