@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00735/Html/TelstraTransFullPrivOwner2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00661/Html/TelstraTransFullPrivOwner2005_image001.gif)
 
 # Telstra (Transition to Full Private Ownership) Act 2005
 
 **Act No. 118 of 2005 as amended**
 
-This compilation was prepared on 20 December 2006
+This compilation was prepared on 9 November 2006
 
 **\[This Act was amended by SLI 2006 No. 50; Act No. 192 of 1976 (as am. by Act No. 122 of 2006)]**
 
@@ -16,7 +16,7 @@ Schedule 21 (items 1 to 3) commenced on 27 March 2006]
 
 **Amendments from Act No. 192 of 1976 (as am. by Act No. 122 of 2006**
 
-\[Schedule 1 (item 1) repealed and substituted subsection 2(1) (table item 3) and inserted (table items 3A and 3B)
+\[Schedule 1 (item 1) repealed and substituted subsection 2(1) (table item 3) and inserted (table items 3A and 3B)
  Schedule 1 (item 2) amended item 59 of Schedule 1
  Schedule 1 (items 3–21) amended item 64 of Schedule 1
 
@@ -162,7 +162,7 @@ The Parliament of Australia enacts:
     <div>The designated day declared under section 3.</div>
   </td>
   <td>
-    <div>24 November 2006 (F2006L03997)</div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ The Parliament of Australia enacts:
     <div>The designated day declared under section 3.</div>
   </td>
   <td>
-    <div>24 November 2006 (F2006L03997)</div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@ Commonwealth may sell its remaining equity interest in Telstra.</li>
 
 Repeal the Division.
 
-## 9  Subsection 8AJ(1)
+## 9  Subsection 8AJ(1)
 
 Omit “and **_sale-scheme trust deed_**”, substitute “,**_sale-scheme trust deed_** and **_hybrid-security issuer company_**”.
 
@@ -1283,7 +1283,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 ##### <a id="9Q"></a>9Q  Saving—_Director of Public Prosecutions Act 1983_
 
-                   Even though the _Director of Public Prosecutions Act 1983_ ceases to apply to certain acts, omissions or proceedings in connection with a Telstra body because the Telstra body ceases to be an authority of the Commonwealth for the purposes of that Act, that Act continues on and after the designated day to apply in relation to:
+                   Even though the _Director of Public Prosecutions Act 1983_ ceases to apply to certain acts, omissions or proceedings in connection with a Telstra body because the Telstra body ceases to be an authority of the Commonwealth for the purposes of that Act, that Act continues on and after the designated day to apply in relation to:
 
                      (a)  acts or omissions in connection with a Telstra body that occurred before the designated day; and
 
@@ -1299,7 +1299,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00735/Html/TelstraTransFullPrivOwner2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00661/Html/TelstraTransFullPrivOwner2005_image002.gif)
 
 where:
 
