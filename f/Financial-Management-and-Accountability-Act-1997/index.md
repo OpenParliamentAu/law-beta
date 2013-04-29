@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00005/Html/8bd80544-47ab-4d0a-a4c0-ff74f16c5d10_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00705/Html/71e22c12-ad40-4518-82b2-94e82fbbf345_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 1 September 2011
  taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force 
@@ -1168,6 +1168,8 @@ If the Auditor‑General is not of that opinion, the Auditor‑General must stat
 
                     <a name="intellig-secur-agenc"></a>**_intelligence or security agency_** has the meaning given by section 85ZL of the _Crimes Act 1914_.
 
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
+
                     <a name="prescrib-law-enforc-agenc"></a>**_prescribed law enforcement agency_** means a law enforcement agency, within the meaning of section 85ZL of the _Crimes Act 1914_, that is prescribed by the regulations for the purposes of this definition.
 
 ##### <a id="60"></a>60  Misuse of Commonwealth credit card
@@ -1538,7 +1540,7 @@ Remainder: 7 Apr 2006</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 604, 605) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 604, 605) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 605) and Sch. 3 (items 10, 11)</div>
@@ -2296,7 +2298,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 58</div>
   </td>
   <td>
-    <div>am. No. 30, 2006; No. 46, 2011</div>
+    <div>am. No. 30, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2395,6 +2397,20 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>rep. No. 20, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 604  Subsection 58(2) (definition of _modifications_)
+
+Repeal the definition.
+
+As at 1 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -2595,7 +2611,7 @@ _Financial Framework Legislation Amendment Act (No. 1) 2007
 
 The amendment made by item 4 applies in relation to amounts received by the Commonwealth before or after the commencement of that item.
 
-## 15  Application—repayments to the Commonwealth
+## 15  Application—repayments to the Commonwealth
 
 The amendment made by item 6 applies in relation to amounts paid by the Commonwealth before or after the commencement of that item.
 
@@ -2670,6 +2686,8 @@ The amendment made by item 54 applies in relation to:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 2
 
