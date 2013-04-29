@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00726/Html/12e09eeb-313a-4f32-9155-575fe4e9d3b0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00704/Html/627cb8ea-a2d0-4b3d-b891-1335dfd905c1_files/image001.gif)
 
 # Human Rights (Parliamentary Scrutiny) Act 2011
 
 **Act No. 186 of 2011 as amended**
 
-This compilation was prepared on 10 October 2012
+This compilation was prepared on 22 September 2012
  taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
@@ -175,7 +175,7 @@ Note:          In 2011, the text of an international agreement
 
                    As soon as practicable after the commencement of the first session of each Parliament, a joint committee of members of the Parliament, to be known as the Parliamentary Joint Committee on Human Rights, is to be appointed according to the practice of the Parliament.
 
-##### <a id="5"></a>5  Membership of the Committee
+##### <a id="5"></a>5  Membership of the Committee
 
              (1)  The Committee is to consist of 10 members:
 
@@ -243,7 +243,7 @@ Note:          In 2011, the text of an international agreement
 
              (1)  The rule‑maker in relation to a legislative instrument to which section 42 (disallowance) of the _Legislative Instruments Act 2003_ applies must cause a statement of compatibility to be prepared in respect of that legislative instrument.
 
-Note:          The statement of compatibility must be included in the explanatory statement relating to the legislative instrument (see subsection 26(1A) of the _Legislative Instruments Act 2003_).
+Note:          The statement of compatibility must be included in the explanatory statement relating to the legislative instrument (see the definition of **_explanatory statement_** in section 4 of the _Legislative Instruments Act 2003_).
 
              (2)  A statement of compatibility must include an assessment of whether the legislative instrument is compatible with human rights.
 
@@ -328,7 +328,7 @@ Remainder: Royal Assent</div>
     <div>22 Sept 2012</div>
   </td>
   <td>
-    <div>Schedule 2: 23 Sept 2012</div>
+    <div>Schedule 2: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -390,22 +390,21 @@ Remainder: Royal Assent</div>
   <td>
     <div>am. No. 136, 2012</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9(1)</div>
-  </td>
-  <td>
-    <div>am. No. 135, 2012</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Legislative Instruments Amendment (Sunsetting Measures) Act 2012 
+ (No. 135, 2012)_
+
+The following amendment commences on 23 September 2012:
+
+## Schedule 2
+
+## 1  Subsection 9(1) (note)
+
+Omit “the definition of **_explanatory statement_** in section 4”, substitute “subsection 26(1A)”.
+
+As at 22 September 2012 the amendment is not incorporated in this compilation.
 
  
