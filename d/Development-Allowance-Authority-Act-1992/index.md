@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00746/Html/ec512203-f1c1-4427-a1f6-da1e2d07dab9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00821/Html/DevAllowanceAuth92_image001.gif)
 
 # Development Allowance Authority Act 1992
 
 **Act No. 99 of 1992 as amended**
 
-This compilation was prepared on 15 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -76,11 +76,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [93S](#93S).        Application for variation of conditions applying to a certificate
 
-[93T](#93T).        Criteria for variation of conditions applying to a certificate
+[93T](#93T).       Criteria for variation of conditions applying to a certificate
 
-[93TA](#93TA).     Conditions not to be varied if total tax payable reduced
+[93TA](#93TA).    Conditions not to be varied if total tax payable reduced
 
-[93TB](#93TB).     Reconsideration of pre‑commencement variations
+[93TB](#93TB).     Reconsideration of pre-commencement variations
 
 [93U](#93U).       Transfer of certificate
 
@@ -92,17 +92,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Cancellation**
 
-[93Z](#93Z).        Cancellation or termination—failure to comply with request to give information or provide report
+[93Z](#93Z).       Cancellation or termination—failure to comply with request to give information or provide report
 
-[93ZA](#93ZA).     Cancellation—false or misleading statements etc 
+[93ZA](#93ZA).    Cancellation—false or misleading statements etc 
 
-[93ZAA](#93ZAA).  Cancellation of certificate that applies to an indirect infrastructure borrowing etc —holder ceases to be a resident
+[93ZAA](#93ZAA). Cancellation of certificate that applies to an indirect infrastructure borrowing etc —holder ceases to be a resident
 
 [93ZAB](#93ZAB).  Cancellation of certificate that applies to an indirect infrastructure borrowing—transfer of rights etc 
 
 [93ZAC](#93ZAC).  Cancellation of certificate that applies to an indirect infrastructure borrowing—total repayment of related direct infrastructure borrowing
 
-[93ZAD](#93ZAD).  Cancellation of certificate that applies to an indirect infrastructure borrowing—partial repayment of related direct infrastructure borrowing
+[93ZAD](#93ZAD). Cancellation of certificate that applies to an indirect infrastructure borrowing—partial repayment of related direct infrastructure borrowing
 
 [93ZB](#93ZB).     Cancellation for contravention of conditions applying to certificate etc 
 
@@ -110,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [93ZC](#93ZC).     DAA may request person to give information or produce documents etc 
 
-[93ZD](#93ZD).     How DAA may deal with documents etc  produced by person
+[93ZD](#93ZD).    How DAA may deal with documents etc  produced by person
 
 [93ZE](#93ZE).     Certificate holder to provide annual progress reports
 
@@ -120,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 6—DAA’s power to facilitate issue or transfer of certificate**
 
-[93ZG](#93ZG).     DAA’s powers to facilitate issue or transfer of certificate
+[93ZG](#93ZG).    DAA’s powers to facilitate issue or transfer of certificate
 
 **Chapter 4—General** 
 
@@ -130,11 +130,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 2—Development Allowance Authority**
 
-[94](#94).          Creation of single‑person statutory office of Development Allowance Authority
+[94](#94).          Creation of single-person statutory office of Development Allowance Authority
 
 [95](#95).          Appointment of DAA
 
-[96](#96).          DAA may be full‑time or part‑time
+[96](#96).          DAA may be full-time or part-time
 
 [97](#97).          DAA’s term of office
 
@@ -144,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [102](#102).        DAA’s remuneration and allowances
 
-[103](#103).        Full‑time DAA’s leave of absence
+[103](#103).        Full-time DAA’s leave of absence
 
 [104](#104).        Resignation of DAA
 
@@ -162,17 +162,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [110](#110).        Commonwealth authorities may assist DAA
 
-**Part 4—Protection of commercial‑in‑confidence information**
+**Part 4—Protection of commercial-in-confidence information**
 
-[111](#111).        Application for protection of commercial‑in‑confidence information
+[111](#111).        Application for protection of commercial-in-confidence information
 
-[112](#112).        DAA may declare that information is to be treated as commercial‑in‑confidence information
+[112](#112).        DAA may declare that information is to be treated as commercial-in-confidence information
 
 [113](#113).        DAA may revoke declaration
 
-[114](#114).        Commercial‑in‑confidence information must not be disclosed
+[114](#114).        Commercial-in-confidence information must not be disclosed
 
-[114A](#114A).     Disclosure of commercial‑in‑confidence information obtained in breach of this Act
+[114A](#114A).     Disclosure of commercial-in-confidence information obtained in breach of this Act
 
 **Part 5—Reports by DAA**
 
@@ -254,7 +254,7 @@ Note:       As a result of amendments made by the _Taxation Laws Ame
 
 \[Step 1—proposal]
 
-             (2)  By December 1994, a non‑exempt public company has developed a proposal to construct a tollway in Australia that it intends to operate for at least 25 years after it becomes income‑producing. The estimated cost of the tollway is $600 million, of which the company intends to borrow $400 million by a public bond issue at 8% per annum over 10 years. The company intends to build the tollway in 2 stages:
+             (2)  By December 1994, a non-exempt public company has developed a proposal to construct a tollway in Australia that it intends to operate for at least 25 years after it becomes income-producing. The estimated cost of the tollway is $600 million, of which the company intends to borrow $400 million by a public bond issue at 8% per annum over 10 years. The company intends to build the tollway in 2 stages:
 
 ·<span style="font:7.0pt " new="">         </span>stage 1, commencing in November 1995 and continuing until November 1998, involving the major earthworks 
 
@@ -306,7 +306,7 @@ Note:       As a result of amendments made by the _Taxation Laws Ame
 
                     <a name="borrow"></a>**_borrowing_** means any form of borrowing, whether secured or unsecured, and includes the raising of funds by the issue of a bond, debenture, discounted security or other document evidencing indebtedness.
 
-                    <a name="borrow-cut-off-time"></a>**_borrowings cut‑off time_** means 12 pm, by legal time in the Australian Capital Territory, on 14 February 1997.
+                    <a name="borrow-cut-off-time"></a>**_borrowings cut-off time_** means 12 pm, by legal time in the Australian Capital Territory, on 14 February 1997.
 
                     <a name="certif"></a>**_certificate_** means a certificate issued under Part 3.
 
@@ -332,7 +332,7 @@ Note:       As a result of amendments made by the _Taxation Laws Ame
 
                             so much of the period of 25 years, following the first use of any of the facilities concerned after their construction or acquisition under the borrowing, as occurs after the transfer of the certificate to the holder.
 
-                    <a name="construct"></a>**_construct_** includes extend, improve or up‑grade.
+                    <a name="construct"></a>**_construct_** includes extend, improve or up-grade.
 
                     <a name="corpor-limit-partnership"></a>**_corporate limited partnership_** has the same meaning as in section 94D of the Tax Act.
 
@@ -358,7 +358,7 @@ if the lease, easement, right, power or privilege was granted by:
 
                      (a)  the Commonwealth, a State or a Territory; or
 
-                     (b)  a body to which section 50‑25 of the _Income Tax Assessment Act 1997_ applies; or
+                     (b)  a body to which section 50-25 of the _Income Tax Assessment Act 1997_ applies; or
 
                      (c)  an STB (within the meaning of Division 1AB of Part III of the _Income Tax Assessment Act 1936_) the income of which is wholly exempt from tax.  
 
@@ -370,13 +370,13 @@ if the lease, easement, right, power or privilege was granted by:
 
                     <a name="list-compani"></a>**_listed company_**  means a company any of the shares of which are listed for quotation in the official list of a stock exchange in Australia or elsewhere.
 
-                    <a name="non-exempt-resid-compani"></a>**_non‑exempt resident company_** means an incorporated body (not in the capacity of trustee), where:
+                    <a name="non-exempt-resid-compani"></a>**_non-exempt resident company_** means an incorporated body (not in the capacity of trustee), where:
 
                      (a)  the body is a resident; and
 
                      (b)  the body’s income is not exempt from income tax under the Tax Act because of a relevant exempting provision.
 
-                    <a name="non-exempt-resid-corpor-limit-partnership"></a>**_non‑exempt resident corporate limited partnership_**_,_ in relation to a year of income, means a corporate limited partnership (not in the capacity of trustee) in relation to the year of income, where:
+                    <a name="non-exempt-resid-corpor-limit-partnership"></a>**_non-exempt resident corporate limited partnership_**_,_ in relation to a year of income, means a corporate limited partnership (not in the capacity of trustee) in relation to the year of income, where:
 
                      (a)  the partnership is a resident; and
 
@@ -514,7 +514,7 @@ if the lease, easement, right, power or privilege was granted by:
 
                                         (A)  to dividends paid by the body; or
 
-                                        (B)  to distributions of capital of the body on winding‑up or otherwise; or
+                                        (B)  to distributions of capital of the body on winding-up or otherwise; or
 
                                         (C)  to vote at meetings of shareholders of the body; and
 
@@ -534,9 +534,9 @@ if the lease, easement, right, power or privilege was granted by:
 
 the borrower must be:
 
-                     (c)  a non‑exempt resident company at the time of the borrowing; or 
+                     (c)  a non-exempt resident company at the time of the borrowing; or 
 
-                     (d)  a non‑exempt resident corporate limited partnership in relation to the year of income in which the borrowing takes place.
+                     (d)  a non-exempt resident corporate limited partnership in relation to the year of income in which the borrowing takes place.
 
           (4B)  If the borrower is an incorporated company (not in the capacity of trustee) and the borrowing is:
 
@@ -544,7 +544,7 @@ the borrower must be:
 
                      (b)  a refinancing infrastructure borrowing that relates to an indirect infrastructure borrowing covered by paragraph (a);
 
-the borrower must, at the time of the borrowing, intend to be a non‑exempt resident company throughout the applicable borrower requirement period. For this purpose, the **_applicable borrower requirement period_** is the borrower requirement period in relation to the direct infrastructure borrowing.
+the borrower must, at the time of the borrowing, intend to be a non-exempt resident company throughout the applicable borrower requirement period. For this purpose, the **_applicable borrower requirement period_** is the borrower requirement period in relation to the direct infrastructure borrowing.
 
           (4C)  If the borrower is a corporate limited partnership (not in the capacity of trustee) in relation to the year of income in which the borrowing takes place and the borrowing is:
 
@@ -552,7 +552,7 @@ the borrower must, at the time of the borrowing, intend to be a non‑exempt res
 
                      (b)  a refinancing infrastructure borrowing that relates to an indirect infrastructure borrowing covered by paragraph (a);
 
-the borrower must, at the time of the borrowing, intend to be a non‑exempt resident corporate limited partnership in relation to each year of income in which any part of the applicable borrower requirement period occurs. For this purpose, the **_applicable borrower requirement period_** is the borrower requirement period in relation to the direct infrastructure borrowing.
+the borrower must, at the time of the borrowing, intend to be a non-exempt resident corporate limited partnership in relation to each year of income in which any part of the applicable borrower requirement period occurs. For this purpose, the **_applicable borrower requirement period_** is the borrower requirement period in relation to the direct infrastructure borrowing.
 
 \[Direct infrastructure borrowings by listed companies]
 
@@ -752,7 +752,7 @@ where the electricity generated, transmitted or distributed is to be principally
 
                               (i)  to reduce the damage caused by its disposal in the natural environment; or
 
-                             (ii)  to make any component of the things treated suitable for re‑use; or
+                             (ii)  to make any component of the things treated suitable for re-use; or
 
                      (b)  channels, drains or pipelines for carrying sewage, or other wastes in water, produced by the public to or from the equipment and structures covered by paragraph (a); or
 
@@ -782,11 +782,11 @@ where the electricity generated, transmitted or distributed is to be principally
 
              (3)  In the case of any infrastructure facility, a road, bridge, tunnel or railway to provide access to the infrastructure facility is not a related facility (or part of the infrastructure facility itself).
 
-\[Dry‑docks etc. excluded]
+\[Dry-docks etc. excluded]
 
              (4)  In the case of a seaport facility, the following are not related facilities (or part of the infrastructure facility itself):
 
-                     (a)  a dry‑dock or other facility for repair or maintenance of vessels;
+                     (a)  a dry-dock or other facility for repair or maintenance of vessels;
 
                      (b)  a vessel.
 
@@ -866,7 +866,7 @@ New applications not to be made
 
 Certain past applications ineffective
 
-             (8)  If a person applied to the DAA for a certificate under this Chapter during the period from the borrowings cut‑off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, the application has no effect, and is taken never to have had any effect _._
+             (8)  If a person applied to the DAA for a certificate under this Chapter during the period from the borrowings cut-off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, the application has no effect, and is taken never to have had any effect _._
 
 ##### <a id="93O"></a>93O  Criteria for issuing certificate
 
@@ -918,13 +918,13 @@ New advice not to be given
 
 Certain past advice ineffective
 
-             (5)  If the DAA gave advice to an applicant under subsection (1) during the period from the borrowings cut‑off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, that advice has no effect, and is taken never to have had any effect.
+             (5)  If the DAA gave advice to an applicant under subsection (1) during the period from the borrowings cut-off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, that advice has no effect, and is taken never to have had any effect.
 
 ##### <a id="93PA"></a>93PA  Termination of certificate issue provisions
 
-             (1)  After the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, the DAA must not issue a certificate under this Chapter unless it gave written advice to the applicant for the certificate in accordance with subsection 93P(1) of this Act before the borrowings cut‑off time.
+             (1)  After the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, the DAA must not issue a certificate under this Chapter unless it gave written advice to the applicant for the certificate in accordance with subsection 93P(1) of this Act before the borrowings cut-off time.
 
-             (2)  Any certificate issued by the DAA under this Chapter during the period from the borrowings cut‑off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_ has no effect, and is taken never to have had any effect, unless the DAA gave written advice to the applicant for the certificate in accordance with subsection 93P(1) of this Act before the borrowings cut‑off time.
+             (2)  Any certificate issued by the DAA under this Chapter during the period from the borrowings cut-off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_ has no effect, and is taken never to have had any effect, unless the DAA gave written advice to the applicant for the certificate in accordance with subsection 93P(1) of this Act before the borrowings cut-off time.
 
 ##### <a id="93Q"></a>93Q  Form of certificate etc.
 
@@ -1040,11 +1040,11 @@ Objections
 
              (6)  If the applicant is dissatisfied with the determination by the Commissioner, the applicant may object against it in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
 
-##### <a id="93TB"></a>93TB  Reconsideration of pre‑commencement variations
+##### <a id="93TB"></a>93TB  Reconsideration of pre-commencement variations
 
 Request to Commissioner
 
-             (1)  If, during the period from the borrowings cut‑off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, the DAA approved any variation of conditions applying to a certificate, the DAA must, as soon as practicable after the commencement of that Act, request the Commissioner of Taxation in writing to advise in accordance with subsection (2). 
+             (1)  If, during the period from the borrowings cut-off time until the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1997_, the DAA approved any variation of conditions applying to a certificate, the DAA must, as soon as practicable after the commencement of that Act, request the Commissioner of Taxation in writing to advise in accordance with subsection (2). 
 
 Commissioner to advise of determination
 
@@ -1204,9 +1204,9 @@ the DAA may, by written notice given to the holder, cancel the certificate.
 
                              (ii)  a refinancing infrastructure borrowing that relates to an indirect infrastructure borrowing covered by subparagraph (i); and
 
-                     (b)  at the time when the company became the holder of the certificate, the holder was a non‑exempt resident company; and
+                     (b)  at the time when the company became the holder of the certificate, the holder was a non-exempt resident company; and
 
-                     (c)  the holder has ceased to be a non‑exempt resident company before the end of the applicable borrower requirement period;
+                     (c)  the holder has ceased to be a non-exempt resident company before the end of the applicable borrower requirement period;
 
 the DAA is taken to have cancelled the certificate with effect from the time of the cessation. For this purpose, the **_applicable borrower requirement period_** is the borrower requirement period in relation to the direct infrastructure borrowing.
 
@@ -1218,9 +1218,9 @@ the DAA is taken to have cancelled the certificate with effect from the time of 
 
                              (ii)  a refinancing infrastructure borrowing that relates to an indirect infrastructure borrowing covered by subparagraph (i); and
 
-                     (b)  the holder was a non‑exempt resident corporate limited partnership in relation to the year of income in which the partnership became the holder of the certificate; and
+                     (b)  the holder was a non-exempt resident corporate limited partnership in relation to the year of income in which the partnership became the holder of the certificate; and
 
-                     (c)  the holder has ceased to be a non‑exempt resident corporate limited partnership in relation to a year of income in which any part of the applicable borrower requirement period occurs;
+                     (c)  the holder has ceased to be a non-exempt resident corporate limited partnership in relation to a year of income in which any part of the applicable borrower requirement period occurs;
 
 the DAA is taken to have cancelled the certificate with effect from the time of the cessation. For this purpose, the **_applicable borrower requirement period_** is the borrower requirement period in relation to the direct infrastructure borrowing.
 
@@ -1410,17 +1410,17 @@ report in writing to the DAA on things done, during the reporting year concerned
 
 ## Part 2—Development Allowance Authority
 
-##### <a id="94"></a>94  Creation of single‑person statutory office of Development Allowance Authority
+##### <a id="94"></a>94  Creation of single-person statutory office of Development Allowance Authority
 
                    There is to be a Development Allowance Authority (**_DAA_**).
 
 ##### <a id="95"></a>95  Appointment of DAA
 
-                   The DAA is to be appointed by the Governor‑General.
+                   The DAA is to be appointed by the Governor-General.
 
-##### <a id="96"></a>96  DAA may be full‑time or part‑time
+##### <a id="96"></a>96  DAA may be full-time or part-time
 
-                   The DAA may be appointed on a full‑time basis or a part‑time basis.
+                   The DAA may be appointed on a full-time basis or a part-time basis.
 
 ##### <a id="97"></a>97  DAA’s term of office
 
@@ -1432,11 +1432,11 @@ report in writing to the DAA on things done, during the reporting year concerned
 
                      (a)  an office of Commissioner of the Industry Commission; and
 
-                     (b)  the office of DAA (whether on a full‑time basis or a part‑time basis).
+                     (b)  the office of DAA (whether on a full-time basis or a part-time basis).
 
 ##### <a id="101"></a>101  DAA’s terms and conditions of appointment
 
-                   The DAA holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+                   The DAA holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="102"></a>102  DAA’s remuneration and allowances
 
@@ -1448,39 +1448,39 @@ report in writing to the DAA on things done, during the reporting year concerned
 
              (4)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="103"></a>103  Full‑time DAA’s leave of absence
+##### <a id="103"></a>103  Full-time DAA’s leave of absence
 
-             (1)  A full‑time DAA has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A full-time DAA has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time DAA leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+             (2)  The Minister may grant a full-time DAA leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="104"></a>104  Resignation of DAA
 
-                   The DAA may resign the office of DAA by signed instrument delivered to the Governor‑General.
+                   The DAA may resign the office of DAA by signed instrument delivered to the Governor-General.
 
 ##### <a id="105"></a>105  Termination of appointment of DAA
 
 \[Misbehaviour or physical or mental incapacity]
 
-             (1)  The Governor‑General may terminate the appointment of the DAA for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the DAA for misbehaviour or physical or mental incapacity.
 
 \[Bankruptcy, conflict of interest, absence from duty etc.]
 
-             (2)  The Governor‑General must terminate the appointment of the DAA if the DAA:
+             (2)  The Governor-General must terminate the appointment of the DAA if the DAA:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
                      (b)  fails, without reasonable excuse, to comply with section 107 (which deals with conflict of interest); or
 
-                     (c)  is appointed on a full‑time basis and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+                     (c)  is appointed on a full-time basis and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (d)  is appointed on a full‑time basis and engages in paid employment outside the duties of the office of DAA without the consent of the Minister; or
+                     (d)  is appointed on a full-time basis and engages in paid employment outside the duties of the office of DAA without the consent of the Minister; or
 
-                     (e)  is appointed on a part‑time basis and engages in paid employment that, in the opinion of the Minster, conflicts with the proper performance of his or her duties.
+                     (e)  is appointed on a part-time basis and engages in paid employment that, in the opinion of the Minster, conflicts with the proper performance of his or her duties.
 
-\[Insufficient workload to justify full‑time appointment]
+\[Insufficient workload to justify full-time appointment]
 
-             (3)  The Governor‑General must terminate the appointment of a full‑time DAA if the Minister issues a written determination stating that the Minister is of the opinion that the workload of the DAA is insufficient to justify a full‑time appointment.
+             (3)  The Governor-General must terminate the appointment of a full-time DAA if the Minister issues a written determination stating that the Minister is of the opinion that the workload of the DAA is insufficient to justify a full-time appointment.
 
 ##### <a id="106"></a>106  Acting DAA
 
@@ -1590,17 +1590,17 @@ a direction under subsection (3) in relation to that matter has no effect unle
 
              (3)  The authority may charge fees for the provision of the assistance.
 
-## Part 4—Protection of commercial‑in‑confidence information
+## Part 4—Protection of commercial-in-confidence information
 
-##### <a id="111"></a>111  Application for protection of commercial‑in‑confidence information
+##### <a id="111"></a>111  Application for protection of commercial-in-confidence information
 
-             (1)  An application under Part 3, 4, 5 or 6 of Chapter 2 or Part 3 of Chapter 3 may be accompanied by an application that certain information given in accordance with that Part (other than section 34) be treated as commercial‑in‑confidence information under this Part.
+             (1)  An application under Part 3, 4, 5 or 6 of Chapter 2 or Part 3 of Chapter 3 may be accompanied by an application that certain information given in accordance with that Part (other than section 34) be treated as commercial-in-confidence information under this Part.
 
-             (2)  The giving of information, or the production or giving of a document or copy, under section 34, Part 7 of Chapter 2 or Part 4 of Chapter 3 may be accompanied by an application that some or all of the information or of the contents of the document or copy be treated as commercial‑in‑confidence information under this Part.
+             (2)  The giving of information, or the production or giving of a document or copy, under section 34, Part 7 of Chapter 2 or Part 4 of Chapter 3 may be accompanied by an application that some or all of the information or of the contents of the document or copy be treated as commercial-in-confidence information under this Part.
 
              (3)  An application under subsection (1) or (2) must be in writing in the approved form.
 
-##### <a id="112"></a>112  DAA may declare that information is to be treated as commercial‑in‑confidence information
+##### <a id="112"></a>112  DAA may declare that information is to be treated as commercial-in-confidence information
 
 \[Declaration]
 
@@ -1610,7 +1610,7 @@ a direction under subsection (3) in relation to that matter has no effect unle
 
                      (b)  the prejudice outweighs the public interest in the publication of the information;
 
-the DAA may declare that the information is to be treated as commercial‑in‑confidence information for the purposes of this Part.
+the DAA may declare that the information is to be treated as commercial-in-confidence information for the purposes of this Part.
 
 \[Notification of decision on application]
 
@@ -1618,7 +1618,7 @@ the DAA may declare that the information is to be treated as commercial‑in‑c
 
 \[Confidential status maintained until reconsideration or review finalised]
 
-             (3)  For the purposes of this Part, if the DAA refuses an application under subsection 111(1) or (2) in relation to information, the information is treated as commercial‑in‑confidence information at a particular time if:
+             (3)  For the purposes of this Part, if the DAA refuses an application under subsection 111(1) or (2) in relation to information, the information is treated as commercial-in-confidence information at a particular time if:
 
                      (a)  the time is after the application is made but before the end of the period of 21 days after the giving of the notice of refusal; or
 
@@ -1642,7 +1642,7 @@ the DAA may declare that the information is to be treated as commercial‑in‑c
 
              (1)  If:
 
-                     (a)  there is in force a declaration under section 112 that information given by a person is to be treated as commercial‑in‑confidence information for the purposes of this Part; and
+                     (a)  there is in force a declaration under section 112 that information given by a person is to be treated as commercial-in-confidence information for the purposes of this Part; and
 
                      (b)  the DAA is satisfied that:
 
@@ -1672,7 +1672,7 @@ the DAA may, by written notice given to the entity, revoke the declaration with 
 
                      (b)  before the revocation takes effect, the person concerned requests the DAA to reconsider the decision to revoke the declaration;
 
-the information is treated as commercial‑in‑confidence information at a particular time after the revocation takes effect if that time is during the period when that reconsideration, or any subsequent application to the AAT, has not been finalised.
+the information is treated as commercial-in-confidence information at a particular time after the revocation takes effect if that time is during the period when that reconsideration, or any subsequent application to the AAT, has not been finalised.
 
 \[Reconsideration taken not to be finalised during period when AAT application can be made]
 
@@ -1686,15 +1686,15 @@ the information is treated as commercial‑in‑confidence information at a part
 
              (5)  If the DAA revokes a declaration, the notice of the revocation must set out the reasons for the revocation.
 
-##### <a id="114"></a>114  Commercial‑in‑confidence information must not be disclosed
+##### <a id="114"></a>114  Commercial-in-confidence information must not be disclosed
 
              (1)  A person who:
 
-                     (a)  has commercial‑in‑confidence information; and
+                     (a)  has commercial-in-confidence information; and
 
                      (b)  has it only because of performing duties or functions under this Act; and
 
-                     (c)  knows that the information is commercial‑in‑confidence information;
+                     (c)  knows that the information is commercial-in-confidence information;
 
 must not disclose any of the information.
 
@@ -1708,23 +1708,23 @@ must not disclose any of the information.
 
                      (c)  by order of a court; or
 
-                     (d)  with the consent of the person who applied to have the information treated as commercial‑in‑confidence information.
+                     (d)  with the consent of the person who applied to have the information treated as commercial-in-confidence information.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1A), see subsection 13.3(3) of the _Criminal Code_.
 
-             (2)  For the purposes of this section, information is commercial‑in‑confidence information at a particular time if, and only if, at that time:
+             (2)  For the purposes of this section, information is commercial-in-confidence information at a particular time if, and only if, at that time:
 
-                     (a)  there is in force a declaration under section 112 that the information is to be treated as commercial‑in‑confidence information for the purposes of this Part; or
+                     (a)  there is in force a declaration under section 112 that the information is to be treated as commercial-in-confidence information for the purposes of this Part; or
 
-                     (b)  the information is otherwise treated as commercial‑in‑confidence information for the purposes of this Part.
+                     (b)  the information is otherwise treated as commercial-in-confidence information for the purposes of this Part.
 
-##### <a id="114A"></a>114A  Disclosure of commercial‑in‑confidence information obtained in breach of this Act
+##### <a id="114A"></a>114A  Disclosure of commercial-in-confidence information obtained in breach of this Act
 
              (1)  A person commits an offence if the person:
 
                      (a)  makes a record of, discloses or otherwise makes use of information; and
 
-                     (b)  the information is commercial‑in‑confidence information for the purposes of section 114; and
+                     (b)  the information is commercial-in-confidence information for the purposes of section 114; and
 
                      (c)  the information was disclosed to or obtained by the person in breach of section 114; and
 
@@ -1829,7 +1829,7 @@ request the DAA to reconsider the decision.
 
                      (a)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision by the DAA in accordance with subsection 119(1); and  
 
-                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the DAA upon that reconsideration confirming or varying the first‑mentioned decision, make application to the AAT for review of the decision so confirmed or varied.
+                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the DAA upon that reconsideration confirming or varying the first-mentioned decision, make application to the AAT for review of the decision so confirmed or varied.
 
              (2)  If:
 
@@ -1861,7 +1861,7 @@ that notice must include a statement to the effect that the person may, subject 
 
 ##### <a id="123"></a>123  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1883,7 +1883,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -2129,7 +2129,7 @@ Schedule 3 (items 66, 67): ( <i>d</i>)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 387–389): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 387-389): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2237,23 +2237,6 @@ Schedule 3 (items 66, 67): ( <i>d</i>)</div>
   <td>
     <div>Sch. 2 (item 123(2)) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 533–535) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Development Allowance Authority Amendment Act 1992_ provides as follows:
@@ -2262,7 +2245,7 @@ _(a)_     Subsection 2(2) of the _Development Allowance Authority Amendm
 
          The _Development Allowance Authority Act 1992_ came into operation on 30 June 1992.
 
-_(b)_     The _Development Allowance Authority Act 1992_ was amended by the _Taxation Laws Amendment Act (No. 2) 1995_, subsections 2(1) and (4) of which provide as follows:
+_(b)_    The _Development Allowance Authority Act 1992_ was amended by the _Taxation Laws Amendment Act (No. 2) 1995_, subsections 2(1) and (4) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2275,7 +2258,7 @@ _(c)_     The _Development Allowance Authority Act 1992_ was amended by 
 
                  (3)   Schedule 3 is taken to have commenced on 30 October 1995.
 
-_(d)_     The _Development Allowance Authority Act 1992_ was amended by section 4 and Schedule 3 (items 66 and 67) only of the _Tax Law Improvement Act 1997_, subsections 2(1)–(3) of which provide as follows:
+_(d)_     The _Development Allowance Authority Act 1992_ was amended by section 4 and Schedule 3 (items 66 and 67) only of the _Tax Law Improvement Act 1997_, subsections 2(1)-(3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2367,7 +2350,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div>Chapt. 2.............................. ............................................</div>
+    <div>Chapt. 2............................... ............................................</div>
   </td>
   <td>
     <div>rep. No. 101, 2006</div>
@@ -2519,8 +2502,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of 
-Part 2</div>
+    <div>Heading to Div. 2 of Part 2 .</div>
   </td>
   <td>
     <div>am. No. 129, 1992</div>
@@ -4003,32 +3985,6 @@ No. 163, 1994</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 533  Subsection 106(1)
-
-Omit “(1)”.
-
-_Note:       The heading to subsection 106(1) is deleted._
-
-## 534  At the end of subsection 106(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 535  Subsection 106(5)
-
-Repeal the subsection.
-
-As at 15 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4039,9 +3995,9 @@ _Taxation Laws Amendment Act (No. 3) 1996 (No. 78, 1996)_
 
 ## 10  Application of amendments 
 
-(1)       Subsections 93I(4A), (4B) and (4C) and section 93ZAA of the _Development Allowance Authority Act 1992_ as amended by this Schedule apply to an indirect infrastructure borrowing or a refinancing infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
+(1)        Subsections 93I(4A), (4B) and (4C) and section 93ZAA of the _Development Allowance Authority Act 1992_ as amended by this Schedule apply to an indirect infrastructure borrowing or a refinancing infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
 
-(2)       Sections 93ZAB, 93ZAC and 93ZAD of the _Development Allowance Authority Act 1992_ as amended by this Schedule apply to an indirect infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
+(2)        Sections 93ZAB, 93ZAC and 93ZAD of the _Development Allowance Authority Act 1992_ as amended by this Schedule apply to an indirect infrastructure borrowing, where a certificate in respect of the borrowing was issued on or after 30 October 1995.
 
 * * *
 
@@ -4049,7 +4005,7 @@ _Tax Law Improvement Act 1997 (No. 121, 1997)_
 
 ## 4  Application of amendments
 
-An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997-98 income year and later income years, unless otherwise indicated in that Schedule.
 
 * * *
 
@@ -4082,7 +4038,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -4108,17 +4064,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -4157,24 +4113,8 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
 
 ## Schedule 2
 
-## 123  Application of amendments
+## 123  Application of amendments
 
-(2)       The amendment made by item 12 of this Schedule applies to records, disclosures and uses made on or after the commencement of that item (whenever the information was obtained).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        The amendment made by item 12 of this Schedule applies to records, disclosures and uses made on or after the commencement of that item (whenever the information was obtained).
 
  
