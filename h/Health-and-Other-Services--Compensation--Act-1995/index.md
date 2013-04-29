@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00264/Html/D34318726557419ACA2571790007A75A/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00596/Html/D5DF99642EF1D012CA2570890082C47B/$FILE/image001.gif)
 
 # Health and Other Services (Compensation) Act 1995
 
 **Act No. 130 of 1995 as amended**
 
-This compilation was prepared on 24 May 2006
-taking into account amendments up to Act No. 43 of 2006
+This compilation was prepared on 1 October 2005
+taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -104,6 +104,8 @@ Attorney-General’s Department, Canberra
 [33](#33).          Interest not payable on amount withheld
 
     **Division 2A—Advance payments to the Commonwealth**
+
+[33AA](#33AA).    Sunset provision
 
 [33A](#33A).       Notice of advance payment
 
@@ -365,6 +367,8 @@ that is made in respect of an injury to a person (whether or not the payment is 
                      (b)  a payment in the nature of criminal injuries compensation; or
 
                      (c)  an amount paid that is not required to be paid by or under an Australian law, other than such an amount the payment of which (whether on its own or in conjunction with other such payments) has the effect of extinguishing by agreement a claim for compensation; or
+
+                     (d)  an amount paid in respect of a fatal injury to a person, unless all or part of that amount relates to medical expenses or expenses incurred in respect of nursing home care or residential care for that person; or
 
                      (e)  a payment of a kind, or in circumstances, prescribed by the regulations made for the purposes of this paragraph.
 
@@ -644,7 +648,7 @@ Note:          A notice under this section can be given before
 
              (6)  The Medicare Australia CEO must comply with such a request:
 
-                     (a)  if the date on which the claimant suffered the injury is more than 5 years before the request was made—within 60 days after the request was made; or
+                     (a)  if the claim for compensation was made more than 5 years before the request—within 60 days after the request was made; or
 
                      (b)  otherwise—within 28 days after the request was made.
 
@@ -700,19 +704,7 @@ the amount of the excess is payable by the Commonwealth to the person.
 
              (9)  The Consolidated Revenue Fund is appropriated for the purposes of payments by the Commonwealth under subsection (8).
 
-Review of decision to refuse to give notice
-
-          (9A)  Application may be made to the Medicare Australia CEO for reconsideration of a decision by the Medicare Australia CEO to refuse to give a notice under subsection (7).
-
-          (9B)  The application must be made within 28 days after the claimant is notified of the decision to refuse to give the notice.
-
-          (9C)  If an application for reconsideration is made, the decision must be reconsidered by the Medicare Australia CEO or a delegate of the Medicare Australia CEO.
-
-          (9D)  The decision must not be reconsidered by the person who made the decision to refuse to give the notice.
-
-           (9E)  The person reconsidering the decision must affirm or vary the decision within 28 days after the application for reconsideration is made.
-
-           (10)  If a decision has been reconsidered, application may be made to the Administrative Appeals Tribunal for review of the decision as affirmed or varied at the reconsideration.
+           (10)  Application may be made to the Administrative Appeals Tribunal for review of a decision by the Medicare Australia CEO to refuse to give a notice under subsection (7).
 
 Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires the decision-maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
@@ -1258,6 +1250,20 @@ despite that law, the compensation payer or insurer is not liable to pay that in
 
 ### Division 2A—Advance payments to the Commonwealth
 
+##### <a id="33AA"></a>33AA  Sunset provision
+
+             (1)  This Division does not have effect in relation to a claim if judgment or settlement in respect of the claim is made on or after:
+
+                     (a)  1 July 2004; or
+
+                     (b)  a later date determined by the Minister under subsection (2).
+
+             (2)  The Minister may determine in writing a date no later than 1 July 2006 for the purposes of paragraph (1)(b).
+
+             (3)  A determination under subsection (2) must be made no later than 1 July 2004.
+
+             (4)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
 ##### <a id="33A"></a>33A  Notice of advance payment
 
              (1)  If a compensation payer or insurer intends to make an advance payment in respect of the compensation payable under a judgment or settlement, the compensation payer or insurer must notify the compensable person in writing.
@@ -1288,9 +1294,7 @@ despite that law, the compensation payer or insurer is not liable to pay that in
 
                      (c)  a notice under section 33A has been given; and
 
-                     (d)  the amount of the compensation payable under the judgment or settlement is not a small amount.
-
-Note:          For **_small amount_** see section 38.
+                     (d)  the amount of the compensation payable under the judgment or settlement is not less than $5,000 or such other amount as the Minister determines.
 
              (2)  The advance payment must be an amount equal to 10%, or such other percentage as the Minister determines, of the amount of compensation payable under the judgment or settlement.
 
@@ -1723,7 +1727,7 @@ of Assent
       <div>14 Nov 1995</div>
     </td>
     <td>
-      <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
+      <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
     </td>
     <td>
       <div></div>
@@ -1852,23 +1856,6 @@ Schedule 3 (items 3–7): <i>(c)</i>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Health and Other Services (Compensation) Amendment Act 2006</div>
-    </td>
-    <td>
-      <div>43, 2006</div>
-    </td>
-    <td>
-      <div>22 May 2006</div>
-    </td>
-    <td>
-      <div>22 May 2006</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 3)</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -1882,7 +1869,7 @@ _(b)_    The _Health and Other Services (Compensation) Act 1995_ was amend
 
                  (1)   Subject to this section, this Act commences immediately after the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act).
 
-         The _Aged Care Act 1997_ (other than Division 1) commenced on 1 October 1997 _._
+         The _Aged Care Act 1997_ (other than Division 1 of Chapter 1) commenced on 1 October 1997 (_see Gazette_ 1997, No. GN37).
 
 _(c)_     The _Health and Other Services (Compensation) Act 1995_ was amended by Schedule 1 and Schedule 3 (items 3–7) only of the _Health and Other Services (Compensation) Legislation Amendment Act 2001_, subsections 2(1) and (4)(a) of which provide as follows:
 
@@ -2032,7 +2019,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 114, 1997; No. 150, 2001; No. 43, 2006</div>
+      <div>am. No. 114, 1997; No. 150, 2001</div>
     </td>
   </tr>
   <tr>
@@ -2200,7 +2187,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
       <div>S. 17</div>
     </td>
     <td>
-      <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006</div>
+      <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2216,7 +2203,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
       <div>S. 18</div>
     </td>
     <td>
-      <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006</div>
+      <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2381,14 +2368,6 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
   </tr>
   <tr>
     <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 43, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 33A</div>
     </td>
     <td>
@@ -2408,15 +2387,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
       <div></div>
     </td>
     <td>
-      <div>am. No. 150, 2001; No. 84, 2003; No. 43, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 33B(1)</div>
-    </td>
-    <td>
-      <div>ad. No. 43, 2006</div>
+      <div>am. No. 150, 2001; No. 84, 2003</div>
     </td>
   </tr>
   <tr>
@@ -2713,20 +2684,6 @@ _Health Legislation Amendment Act (No. 1) 2003 (No. 84, 2003)_
 ## 39  Application
 
 The amendments made by this Part apply in relation to an amount of compensation fixed by a judgment or settlement if the judgment or settlement is made after the day this item commences.
-
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
-
-_Health and Other Services (Compensation) Amendment Act 2006 
-(No. 43, 2006)
-_
-
-## Schedule 1
-
-## 3  Application of amendment of paragraph 17(6)(a)
-
-The amendment of paragraph 17(6)(a) of the _Health and Other Services (Compensation) Act 1995_ made by this Schedule applies in relation to requests made on or after the commencement of this item.
 
 
  
