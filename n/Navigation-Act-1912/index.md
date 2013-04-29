@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00362/Html/Navigationvol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00038/Html/Navigationvol1_WD02_image001.gif)
 
 # Navigation Act 1912
 
 **Act No. 4 of 1913 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 22 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 **Volume 1** includes:        Table of Contents
  Sections 1–427
@@ -1135,7 +1135,7 @@ or in relation to its owner, master or crew.
 
                      (b)  ends at a port in that Territory.
 
-##### <a id="2A"></a>2A  Act to bind the Crown
+##### <a id="2A"></a>2A  Act to bind the Crown
 
                    This Act binds the Crown in right of the Commonwealth, of each of the States and of the Northern Territory.
 
@@ -1579,7 +1579,7 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                      (b)  is used or intended for use in, or in any operations or activities associated with or incidental to, exploring or exploiting the natural resources of any or all of the following, namely:
 
-                              (i)  the continental shelf of   Australia;
+                              (i)  the continental shelf of Australia;
 
                              (ii)  the seabed of the Australian coastal sea; and
 
@@ -1805,7 +1805,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
           (1A)  Without limiting the generality of subsection (1), regulations may give effect to the STCW Convention.
 
-          (1B)  Regulations giving effect to the STCW Convention are not intended to exclude the operation of a law of a State or of the Northern   Territory that gives effect to that Convention.
+          (1B)  Regulations giving effect to the STCW Convention are not intended to exclude the operation of a law of a State or of the Northern Territory that gives effect to that Convention.
 
              (2)  Without limiting the generality of subsection (1), the conditions specified in regulations made for the purposes of that subsection may include conditions as to age, character, health, nationality, citizenship or residence, and regulations made for the purposes of that subsection may make provision for and in relation to:
 
@@ -2981,4 +2981,1748 @@ a proper authority may take into his or her charge that money and those effects.
 
 ##### <a id="154"></a>154  Recovery of wages of seaman lost with ship
 
-             (1)  Where a seaman is lost with his or her ship, the Authority may recover the wages due to t
+             (1)  Where a seaman is lost with his or her ship, the Authority may recover the wages due to the seaman from the owner of the ship in the same Court and the same manner as that in which seamen’s wages are recoverable, and shall deal with those wages in the same manner as with the wages of other deceased seamen.
+
+             (2)  For the purposes of any proceedings in a court in relation to the wages of a seaman, a ship which was expected to arrive at a port at a time 6 months or more before the institution of the proceedings, but did not so arrive and has not been heard of since that time, shall be deemed to have been lost with all hands on board and the court may determine the date on which the ship shall be deemed to have been so lost.
+
+             (3)  Any official list of the crew, made out in accordance with this Act, or the certificate of a proper authority stating that certain seamen were shipped in the ship from a port outside Australia, shall, in the absence of proof to the contrary, be deemed sufficient evidence that they were on board the ship at the time of its loss.
+
+##### <a id="155"></a>155  Property of deceased seaman to be delivered to superintendent
+
+                   Where a seaman belonging to a ship dies, the master of the ship shall:
+
+                     (a)  if the ship is in a port in Australia at the time of death—within 48 hours after the death, pay and deliver to a superintendent any property of the seaman in the possession of the master; and
+
+                     (b)  in any other case—within 48 hours after the arrival of the ship at a port in Australia, pay and deliver to a superintendent any property of the seaman not paid or delivered to a proper authority under subsection 151(2).
+
+                    Penalty:  $1,000.
+
+##### <a id="155A"></a>155A  Transmission of money and effects to Authority
+
+                   A superintendent or other proper authority to whom the property of a deceased seaman is paid or delivered under the preceding provisions of this Division, or a proper authority who, under section 153, takes into his or her charge the property of a deceased seaman, shall transmit that property to the Authority.
+
+##### <a id="156"></a>156  Right of Authority to dispose of effects of deceased seaman
+
+             (1)  Where any property of a deceased seaman comes into the hands of the Authority, the Authority, after deducting such sum as it thinks proper for expenses incurred in respect of that seaman or of his or her property, shall, subject to the provisions of this Act, deal with the residue as follows:
+
+                     (a)  If the property exceeds in value $2,000, it shall pay and deliver the residue to the legal personal representative of the deceased;
+
+                     (b)  If the property does not exceed in value $2,000, it may either:
+
+                              (i)  pay or deliver the residue to any claimant who is proved to its satisfaction to to have been the deceased’s spouse or de facto partner immediately before the deceased’s death, to be a child of the deceased, or to be legally entitled to the personalty of the deceased, or to be a person entitled to take out representation, although no such representation has been taken out, and shall be thereby discharged from all further liability in respect of the residue so paid or delivered; or
+
+                             (ii)  require representation to be taken out, and pay and deliver the residue to the legal personal representative of the deceased;
+
+                     (c)  If the deceased was, at the time of his or her death, a subject of a country between which and Australia an international agreement exists relating to the disposal of the property of deceased seamen who are nationals of that country, and if the property does not exceed in value $2,000, the Authority may, in terms of that agreement, pay and deliver the residue to the consul of the country of which the deceased was a subject, and the Authority shall be thereby discharged from all further liability in respect of the residue so paid or delivered.
+
+             (2)  Every person to whom any such residue is so paid or delivered shall apply it in due course of administration.
+
+                    Penalty:  $1,000.
+
+             (3)  Moneys to which subsection (1) applies that, in the opinion of the Authority, cannot for the time being be dealt with as that subsection requires, may be invested by the Authority as prescribed.
+
+##### <a id="157"></a>157  Wills of deceased seamen
+
+             (1)  Where a deceased seaman has left a will, the Authority may refuse to pay or deliver the residue referred to in section 156:
+
+                     (a)  if the will was made on board ship—to any person claiming under the will, unless the will is in writing, and is signed or acknowledged by the testator in the presence of, and is attested by, the master or first or only mate of the ship; and
+
+                     (b)  if the will was not made on board ship—to any person claiming under the will, and not being a relative of the testator, unless the will is in writing and is signed or acknowledged by the testator in the presence of and is attested by 2 witnesses, one of whom is a proper authority, a justice or a minister of religion.
+
+             (2)  Where the Authority refuses under this section to pay or deliver the residue to a person claiming under a will, the residue shall be dealt with as if no will had been made.
+
+             (3)  The reference in paragraph (1)(b) to a relative of the testator includes a reference to the following (without limitation):
+
+                     (a)  a de facto partner of the testator;
+
+                     (b)  someone who is the child of the testator, or of whom the testator is the child, because of the definition of **_child_** in section 6;
+
+                     (c)  anyone else who would be a relative of the testator because someone mentioned in paragraph (a) or (b) is taken to be a relative of the testator.
+
+##### <a id="158"></a>158  Creditors’ claims
+
+             (1)  A creditor shall not be entitled to claim from the Authority any property of a deceased seaman by virtue of representation obtained as creditor.
+
+             (2)  A creditor shall not be entitled to obtain payment of his or her debt out of the property, if the debt accrued more than 3 years before the death of the deceased, or if the demand is not made within 2 years after the death.
+
+             (3)  The demand shall be made by the creditor delivering to the Authority an account in writing, in a form approved by the Authority by instrument in writing, and verified by a statutory declaration.
+
+             (4)  If, before the demand is made, any claim to the property of the deceased made by any person has been allowed, the Authority shall give notice to the creditor of the allowance of the claim.
+
+             (5)  If no claim has been allowed, the creditor shall satisfy the Authority as to the justice of his or her account, and the Authority may then pay over to the creditor such sum as it allows, and the Authority shall thereby be discharged from all further liability in respect of the money so paid; but otherwise the demand shall be disallowed.
+
+             (6)  In any case the Authority may delay the investigation of any demand made by a creditor for the payment of his or her debt for one year from the time of the first delivery of the demand; and if in the course of that time a claim to the property of the deceased is made by any person who was the deceased’s spouse or de facto partner immediately before the deceased’s death, or who is the deceased’s next of kin, or legatee, and allowed by the Authority under this Act, the Authority may pay and deliver it to that person.
+
+             (7)  Where the property has been paid and delivered by the Authority to any person who was the deceased’s spouse or de facto partner immediately before the deceased’s death, or who is the deceased’s next of kin, or legatee of the deceased or as consul of the country of which the deceased was a subject, whether before or after the demand made by the creditor, the creditor shall have the same rights and remedies against that person as if he or she had received the property as the legal personal representative of the deceased.
+
+             (8)  In determining for the purposes of subsections (6) and (7) whether a person is next-of-kin of another person, the following persons are also to be taken into account:
+
+                     (a)  someone who is the child of the person, or of whom the person is the child, because of the definition of **_child_** in this Act;
+
+                     (b)  anyone else who would be a relative of the person because someone mentioned in paragraph (a) is taken into account.
+
+##### <a id="158A"></a>158A  Sale of effects etc. by auction
+
+                   The Authority may, after the expiration of one year from the time when property not consisting of money comes into its hands under this Division and shall, not later than the expiration of 6 years from that time, cause any part of that property that has not been delivered to a person by the Authority under this Division to be sold by auction.
+
+##### <a id="159"></a>159  Disposal of effects when no claim
+
+                   Where no claim to the property of a deceased seaman is substantiated within 6 years after the receipt of the property by the Authority, the Authority may in its absolute discretion, if any subsequent claim is made, either allow or refuse the claim, and, subject to the allowance of any such claim, the property or the proceeds thereof shall be paid to the Commonwealth.
+
+##### <a id="160"></a>160  Giving false evidence in connection with deceased seamen’s property
+
+                   A person is guilty of an offence if:
+
+                     (a)  the person gives false evidence; and
+
+                     (b)  the person knows that the evidence is false; and
+
+                     (c)  the person does so for the purpose of obtaining, either for himself, herself or for another person, any property of a deceased seaman.
+
+                    Penalty:  20 penalty units or imprisonment for 12 months, or both.
+
+### Division 18—Relief to seamen’s families
+
+##### <a id="161"></a>161  Relief of families by public institutions
+
+             (1)  Where, during the absence of any seaman on a voyage, the wife or husband, de facto partner, or any of the children or step-children, of the seaman becomes chargeable to or obtains relief from any public body or institution for the relief of destitute persons in Australia, that institution shall be entitled to be reimbursed, out of the wages of the seaman earned during the voyage, any sums properly expended during the seaman’s absence in the maintenance of those members of the seaman’s family or any of them, so that the sums do not exceed the following proportions of the seaman’s wages, that is to say:
+
+                     (a)  If only one of those members is chargeable or obtains relief, one-half of the wages;
+
+                     (b)  If 2 or more of those members are chargeable or obtain relief, two-thirds of the wages.
+
+             (2)  If, during the absence of any seaman, any sums have been paid by the owner of his or her ship to or on behalf of any such member as aforesaid, under an allotment note made by the seaman in favour of the member, any claim for reimbursement shall be limited to the excess (if any) of the proportion of the wages hereinbefore mentioned over the sums so paid.
+
+##### <a id="162"></a>162  Reimbursement of institutions
+
+             (1)  For the purpose of obtaining reimbursement as aforesaid, the Authority may give to the owner or agent of the ship in which the seaman is serving a notice in writing stating the proportion of the seaman’s wages upon which it is intended to make a claim, and requiring the owner or agent to retain that proportion in his or her hands for a period not exceeding 21 days from the time of the seaman’s return to his or her port of discharge, and also requiring the owner or agent, immediately on the seaman’s return, to give notice in writing thereof to the official.
+
+             (2)  The owner or agent, after receiving any such notice, shall retain the said proportion of wages, and give notice of the seaman’s return accordingly, and shall likewise give to the seaman notice of the intended claim.
+
+             (3)  The institution may, upon the seaman’s return, apply to a court of summary jurisdiction for an order for reimbursement; and the Court may make a summary order for the reimbursement to the whole extent claimed, or to such lesser amount as, under the circumstances, it thinks fit; and the owner or agent shall pay to the institution out of the seaman’s wages the amount so ordered to be paid by way of reimbursement, and shall pay the residue of the wages to the seaman.
+
+             (4)  If no order for reimbursement is obtained within the period mentioned in the notice given to the owner or agent as aforesaid, the proportion of wages to be retained by the owner or agent shall immediately on the expiration of that period, and without deduction, be payable to the seaman.
+
+### Division 19—Relief and maintenance of distressed seamen
+
+##### <a id="163"></a>163  Interpretation
+
+             (1)  In this Division:
+
+                    <a name="distress-seaman"></a>**_distressed seaman_** means a person who, being or having been a seaman, is in distress at a place outside Australia by reason of having been discharged or left behind from, or having been shipwrecked in, a ship.
+
+                    <a name="seaman"></a>**_seaman_** includes master.
+
+             (2)  A reference in this Division to the relief and maintenance of distressed seamen shall be read as including a reference to:
+
+                     (a)  the conveyance of distressed seamen to their proper return ports;
+
+                     (b)  the conveyance of distressed seamen to port after shipwreck and their maintenance while being so conveyed; and
+
+                     (c)  the burial of distressed seamen who die outside Australia.
+
+##### <a id="163A"></a>163A  Regulations may make provision for relief and maintenance of distressed seamen
+
+             (1)  The regulations may make provision for and in relation to the relief and maintenance of distressed seamen.
+
+             (2)  Without in any way limiting the generality of subsection (1), the regulations made by virtue of that subsection:
+
+                     (a)  may prescribe the duties and functions of proper authorities in relation to the relief and maintenance of distressed seamen;
+
+                     (b)  may require the owner or master of a ship to provide a distressed seaman with a passage on the ship, and maintenance during the passage, in connexion with the conveyance of the seaman to his or her port;
+
+                     (c)  may prescribe the charges which the owner or master of a ship may make for providing a distressed seaman with a passage on the ship, and maintenance during the passage, in connexion with the conveyance of the seaman to his or her port; and
+
+                     (d)  may provide for the recovery of expenditure incurred by or on behalf of the Commonwealth for or in connexion with the relief and maintenance of a distressed seaman and of wages, if any, due to the seaman and, in particular, may provide that expenditure so incurred, or wages so due, shall be a charge upon the ship to which the distressed seaman belonged.
+
+### Division 20—The master
+
+##### <a id="164"></a>164  All ships may be searched
+
+             (1)  All ships (whether or not they are ships to which this Part applies) may be searched by any officer of Customs, or by any officer of police authorized in writing by the Authority.
+
+             (2)  No master of any ship (whether or not it is a ship to which this Part applies) shall:
+
+                     (a)  refuse to permit an officer of Customs or an authorized officer of police to thoroughly search the ship; or
+
+                     (b)  fail to cause the ship to be hove to when called upon or signalled in the prescribed manner so to do, by any such officer, for the purpose of enabling the officer to board the ship; or
+
+                     (c)  engage in conduct that results in the concealment of any person on board the ship.
+
+                    Penalty:  $5,000 or imprisonment for 2 years, or both.
+
+##### <a id="167"></a>167  Agreement to be produced
+
+             (1)  The master of a ship that arrives at a port in Australia from a place outside Australia shall, if required by a superintendent, immediately deliver to the superintendent:
+
+                     (a)  the articles of agreement of the ship; and
+
+                     (b)  the official log-book of the ship.
+
+                    Penalty:  $1,000.
+
+             (2)  The superintendent shall return the documents to the master within a reasonable time before his or her departure, with a certificate endorsed on the agreement stating the times when the documents were delivered and returned.
+
+             (3)  If it appears that any breach of this Part has taken place, the superintendent shall make an endorsement to that effect on the agreement.
+
+##### <a id="168"></a>168  Documents to be handed over to master’s successor
+
+             (1)  If during the progress of a voyage the master is removed or superseded, or for any other reason quits the ship, the master shall deliver to his or her successor the various documents in his or her custody relating to the navigation of the ship and to the crew thereof.
+
+                    Penalty:  $1,000.
+
+             (2)  The master’s successor shall, immediately on assuming the command of the ship, enter in the official log-book a list of the documents so delivered to him or her.
+
+                    Penalty:  $1,000.
+
+             (3)  For the purposes of this section, the papers containing the information required to be on board a ship under section 192B shall be deemed to be a document relating to the navigation of the ship.
+
+### Division 21—The log
+
+##### <a id="171"></a>171  Official log-book
+
+             (1)  The master of a ship shall keep an official log-book in the prescribed form and shall make, or cause to be made, such entries in that log-book as are prescribed.
+
+                    Penalty:  30 penalty units.
+
+             (4)  An entry required by this Act in an official log-book shall be:
+
+                     (a)  made as soon as possible after the occurrence to which it relates;
+
+                     (b)  made and dated so as to show the date of the occurrence and of the entry respecting it.
+
+                    Penalty:  30 penalty units.
+
+             (5)  No person shall, more than 24 hours after the arrival of a ship at its final port of discharge, make in the official log-book any entry of any occurrence which happened before its arrival.
+
+                    Penalty:  5 penalty units.
+
+             (6)  The regulations may make provision for or in relation to the signing of entries in the official log-book of a ship.
+
+             (7)  An entry in the official log-book of a ship is, in all courts, admissible in evidence.
+
+##### <a id="172"></a>172  Offences in relation to official log-book
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person does an act; and
+
+                     (b)  the act results in:
+
+                              (i)  the destruction or mutilation of an official log-book or an entry in an official log-book; or
+
+                             (ii)  an entry in an official log-book being rendered illegible.
+
+                    Penalty:  $5,000 or imprisonment for 2 years, or both.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person makes or signs an entry in an official log-book, knowing that the entry is false or fraudulent; or
+
+                     (b)  omits to make an entry in an official log-book, knowing that the omission will result in the log-book being false or fraudulent.
+
+                    Penalty:  $5,000 or imprisonment for 2 years, or both.
+
+##### <a id="172A"></a>172A  Report of matters recorded in official log-book
+
+             (1)  The master of a ship who is required by section 171 to keep an official log-book must, as soon as practicable after making an entry in relation to an occurrence under the code of conduct referred to in subsection 46(4A), report the recording of that occurrence to the Authority in accordance with regulations made under subsection (2).
+
+             (2)  The regulations may provide for the manner and time of reporting the making of an entry in the official log-book in relation to an occurrence referred to in subsection (1).
+
+                    Penalty:  10 penalty units.
+
+##### <a id="173"></a>173  Delivery of official log-book
+
+             (1)  The master of a ship who is required by section 171 to keep an official log-book shall, on the termination of the articles of agreement of the ship, deliver the official log-book to a proper authority.
+
+                    Penalty:  $1,000.
+
+             (2)  A proper authority, not being a superintendent, to whom an official log-book is delivered in pursuance of subsection (1) shall deal with that log-book in accordance with the directions, if any, of the Authority.
+
+##### <a id="174"></a>174  Transmission of log-book to superintendent
+
+             (1)  Where for any reason the official log-book ceases to be required in respect of a ship, the master or owner of the ship shall, if the ship is then in Australia within one month, and if it is elsewhere within 6 months, after the cessation transmit to a superintendent the official log-book made up to the time of the cessation.
+
+             (2)  If a ship is lost or abandoned, the master or owner thereof shall, if practicable, and as soon as possible, transmit to a superintendent the official log-book (if any) duly made out to the time of the loss or abandonment.
+
+                    Penalty (on master or owner):         $1,000.
+
+## Part III—Foreign seamen
+
+##### <a id="177"></a>177  Definition of seaman
+
+                   In this Part:
+
+                    <a name="seaman"></a>**_seaman_** means a seaman belonging to a ship to which Part II does not apply.
+
+##### <a id="178"></a>178  Apprehension of seaman
+
+                   If any seaman is absent from duty without leave whilst his or her ship is within Australia, any justice upon complaint on oath may issue a warrant for the apprehension of the seaman, and thereupon may, at the request of the consul of the country to which the ship belongs, and on proof of the absence without leave, order the seaman to be conveyed on board the ship, or delivered to the master or mate of the ship, or to the owner of the ship or his or her agent, to be so conveyed:
+
+Provided that, in the case of a seaman who is an Australian citizen, no such order shall be made without his or her consent.
+
+##### <a id="180"></a>180  Return to ship
+
+             (1)  The Authority may order to be put forcibly or otherwise on board his or her ship at any time:
+
+                     (a)  any seaman sentenced under this Part, or
+
+                     (b)  within 24 hours before the sailing of his or her ship, any seaman imprisoned on summary conviction for any offence (other than an offence under this Part) whose ship is about to leave Australia before the expiration of his or her sentence;
+
+and the master of the ship shall keep the seaman on board in custody until after the ship has left its final port of clearance in Australia:
+
+Provided that, in the case of a seaman who is an Australian citizen, no such order shall be made without his or her consent.
+
+             (2)  Such order shall be a sufficient warrant to the gaoler of any prison to deliver the seaman into custody for the purpose aforesaid.
+
+##### <a id="183"></a>183  Proceedings at instance of consul only
+
+                   No warrant shall be issued and no offence shall be punished under this Part unless either:
+
+                     (a)  the action is taken at the instance of the consul of the country to which the ship belongs; or
+
+                     (b)  the Authority has notified in the _Gazette_ that the government of that country has, in regard to seamen belonging to ships of that country, requested that this Part may be enforced.
+
+##### <a id="184"></a>184  Proof of agreement
+
+             (1)  In any prosecution under this Part it shall not be necessary, for the purpose of proving the articles of agreement by which any seaman has engaged to serve on board any ship, to call any subscribing or attesting witness thereto.
+
+             (2)  A copy of any articles of agreement, certified to be true by the consul of the country to which the ship belongs, shall be admissible in evidence in proof of the existence and contents thereof.
+
+##### <a id="185"></a>185  Expenses to be paid by consul
+
+                   All expenses incidental to the apprehension, imprisonment, and removal of any seaman, pursuant to this Part, shall be paid by the consul at whose instance the proceedings were instituted.
+
+##### <a id="186"></a>186  Expenses of returning foreign seamen left behind
+
+                   Where:
+
+                     (a)  a seaman is left behind at a port in Australia from a ship to which Part II does not apply without the consent of a consul in Australia of the country to which the ship belongs; and
+
+                     (b)  the Commonwealth incurs expense in sending the seaman to a place outside Australia;
+
+the Commonwealth may recover the amount of those expenses from the owner, agent or master of the ship in any court of competent jurisdiction as a debt due and payable by the owner, agent or master, as the case may be, to the Commonwealth.
+
+## Part IIIA—Pilotage
+
+### Division 1—General provisions applicable to pilotage
+
+##### <a id="186A"></a>186A  Application of Part
+
+             (1)  This Part applies only to pilots and pilotage in relation to ships:
+
+                     (a)  that are in, or in transit to or from, any waters of the Australian coastal sea that are specified in the regulations; or
+
+                     (b)  that are in any waters of Australia’s exclusive economic zone that are specified in the regulations.
+
+             (3)  This Part applies to all ships, including ships to which Part II does not apply.
+
+             (4)  Section 2 does not have effect in relation to a provision of this Part.
+
+             (5)  This Part is not intended to affect the operation of any law of a State or Territory governing pilots or pilotage in relation to a port in the State or Territory.
+
+##### <a id="186B"></a>186B  Definitions
+
+                   In this Part:
+
+                    <a name="certif"></a>**_certificate_** includes a licence issued to a pilot under regulations made under section 186C.
+
+                    <a name="licens-pilot"></a>**_licensed pilot_** means a person who is licensed as a pilot under this Act.
+
+                    <a name="pilotag-provid"></a>**_pilotage provider_** means a person who assigns or allocates a pilot to the transit of a ship through particular waters, irrespective of the legal relationship, contractual or otherwise, between that person and the pilot.
+
+##### <a id="186C"></a>186C  Qualifications of pilots etc.
+
+             (1)  For the purposes of this Part, the regulations may make provisions in relation to:
+
+                     (a)  standards of competence to be attained; and
+
+                     (b)  other conditions to be satisfied by a person in order to be licensed as a pilot under this Act; and
+
+                     (c)  licensing of pilots.
+
+             (2)  Without limiting subsection (1), the conditions may include conditions as to age, character, health, nationality, citizenship or residence.
+
+             (3)  Without limiting subsection (1), regulations made for the purposes of that subsection may make provision in relation to any of the following:
+
+                     (a)  the manner in which the attainment of a standard or the satisfaction of a condition is to be evidenced, including the obtaining of certificates and other documents to be held by pilots as evidence that they are licensed as pilots under this Act;
+
+                     (b)  the issue, recall, surrender, replacement, form and recording of such certificates and other documents;
+
+                     (c)  the duration, variation, renewal, suspension and cancellation of such certificates and other documents;
+
+                     (d)  the instruction, training and examination of pilots, including the gaining of sea service and other experience, the conduct of examinations, the conditions for admission to examinations and the appointment and remuneration of examiners;
+
+                     (e)  the recognition, for the purposes of this Act, in whole or in part and whether conditionally or unconditionally, of certificates and other documents granted or issued to or in respect of pilots under this Act as in force before this section’s commencement, or under the laws of a State or Territory;
+
+                      (f)  the reconsideration of decisions made under regulations made for the purposes of subsection (1);
+
+                     (g)  the exemption of persons, in whole or in part and whether conditionally or unconditionally, from any requirement under regulations made for the purposes of subsection (1).
+
+             (4)  In subsection (3), **_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+
+##### <a id="186D"></a>186D  Regulations may make other provisions relating to pilotage etc.
+
+                   For the purposes of this Part, the regulations may also make provisions in relation to:
+
+                    (aa)  the operations of a pilotage provider, including, but without limiting the foregoing:
+
+                              (i)  the duties of a pilotage provider and the manner of discharging those duties; and
+
+                             (ii)  the professional relationship between a pilotage provider and a licensed pilot; and
+
+                            (iii)  the making by the Authority of safety management codes for pilotage providers; and
+
+                            (iv)  the observation of such codes by a pilotage provider and by a licensed pilot under the control of a pilotage provider; and
+
+                             (v)  matters relating to pilotage safety management systems including the content and implementation of such systems; and
+
+                            (vi)  the keeping of records by a pilotage provider; and
+
+                           (vii)  training of pilots, and monitoring of their performance, by a pilotage provider; and
+
+                           (viii)  the professional liability of a pilotage provider and the limitation of that liability; and
+
+                     (a)  the duties of a licensed pilot and the manner in which a licensed pilot is to discharge his or her duties; and
+
+                     (b)  the professional relationship between a licensed pilot and the master or other officers of a ship, including provisions in relation to the professional liability of a licensed pilot and limitation of that liability; and
+
+                     (c)  the keeping and maintaining by a licensed pilot of records relating to pilotage carried out by the pilot.
+
+##### <a id="186E"></a>186E  Unqualified person performing duties of licensed pilot
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person makes a representation that the person is a licensed pilot; and
+
+                     (b)  the person is not a licensed pilot.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (2)  A person commits an offence if:
+
+                     (a)  the person performs duties; and
+
+                     (b)  the duties are those of a licensed pilot under the regulations; and
+
+                     (c)  the person is not a licensed pilot.
+
+                    Penalty:  50 penalty units.
+
+             (3)  Subsection (2) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (4)  Strict liability applies to paragraph (2)(b).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person takes a person into employment to perform duties; and
+
+                     (b)  the duties are those of a licensed pilot under the regulations; and
+
+                     (c)  the person is not a licensed pilot.
+
+                    Penalty:  50 penalty units.
+
+             (6)  Strict liability applies to paragraph (5)(b).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+##### <a id="186F"></a>186F  Abuse of alcohol and other drugs
+
+             (1)  If a licensed pilot is, while on board a ship, under the influence of alcohol or any other drug (whether medicinal or otherwise) to such an extent that the person’s capacity to carry out the person’s duties as pilot is impaired, the person is guilty of an offence.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (2)  If:
+
+                     (a)  a licensed pilot is, while on board a ship, under the influence of alcohol or any other drug (whether medicinal or otherwise) to such an extent that the person’s capacity to carry out the person’s duties as pilot is impaired; and
+
+                     (b)  the impairment causes or contributes to:
+
+                              (i)  the loss or destruction of, or damage to, the ship, its cargo or equipment; or
+
+                             (ii)  the loss or destruction of, or damage to, another ship, its cargo or equipment; or
+
+                            (iii)  death or injury to another person;
+
+the person is guilty of an offence.
+
+                    Penalty:  Imprisonment for 2 years.
+
+### Division 2—Compulsory pilotage
+
+##### <a id="186G"></a>186G  Definitions
+
+             (1)  In this Division:
+
+                    <a name="length-overal"></a>**_length overall_**, in relation to a ship, has the meaning given by subsection (2) or (3).
+
+                    <a name="navig-without-licens-pilot"></a>**_navigates without a licensed pilot_** has the meaning given by subsections (4) and (5).
+
+                    <a name="regul-ship"></a>**_regulated ship_** means any kind of ship:
+
+                     (a)  that is 70 metres or longer in length overall; or
+
+                     (b)  that is a loaded:
+
+                              (i)  oil tanker; or
+
+                             (ii)  chemical carrier; or
+
+                            (iii)  liquefied gas carrier.
+
+             (2)  Subject to subsection (3), the length overall of a ship is 110% of the length as shown on the ship’s load-line certification.
+
+             (3)  If the length overall of a ship cannot be worked out under subsection (2), the length is taken to be the distance between:
+
+                     (a)  a vertical line passing through a point that is the foremost part of the stem; and
+
+                     (b)  a vertical line passing through a point that is the aftermost part of the stern.
+
+             (4)  Subject to subsection (5), a ship **_navigates without a licensed pilot_** if the ship does not have a licensed pilot on board to assist the master in navigating it.
+
+             (5)  If:
+
+                     (a)  apart from this subsection, a ship navigates without a licensed pilot; and
+
+                     (b)  the ship is being towed by another vessel that is navigating with a licensed pilot;
+
+the ship under tow is to be treated as if it were navigating with a licensed pilot.
+
+##### <a id="186H"></a>186H  Regulations may provide for compulsory pilotage in certain circumstances
+
+             (1)  For the purposes of this Division, the regulations may make provision in relation to compulsory pilotage including provision specifying the waters that are compulsory pilotage areas for the purposes of this Division.
+
+             (2)  The waters that may be specified for the purposes of subsection (1) must be waters included within the waters referred to in subsection 186A(1).
+
+             (3)  This Division operates in addition to, and not in derogation from, any requirement for compulsory pilotage under the _Great   Barrier Reef__Marine__Park__Act 1975_ within the compulsory pilotage area under that Act.
+
+             (4)  A person is not liable to be prosecuted under this Act and the _Great Barrier Reef__Marine__Park__Act 1975_ in respect of the same act or omission.
+
+##### <a id="186I"></a>186I  Offence to navigate without a licensed pilot
+
+             (1)  If:
+
+                     (a)  a ship is a regulated ship; and
+
+                     (b)  the ship navigates in a compulsory pilotage area; and
+
+                     (c)  the ship navigates in that area without a licensed pilot;
+
+the master and the owner of the ship each commit an offence.
+
+                    Penalty:  500 penalty units.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine up to 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+             (2)  An offence against subsection (1) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  In any proceedings for an offence against subsection (1), it is a defence if the defendant proves:
+
+                     (a)  that the ship was exempted under section 186K from the requirement to navigate with a licensed pilot in the area; and
+
+                     (b)  that the navigation complied with the terms of the exemption.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (3). See section 13.4 of the _Criminal Code_.
+
+##### <a id="186J"></a>186J  Licensed pilots to issue certificates
+
+             (1)  If a licensed pilot has provided pilotage services for a regulated ship in a compulsory pilotage area, the licensed pilot must give the master of the ship a certificate in a form approved by the Authority.
+
+             (2)  The licensed pilot must provide the certificate to the master before disembarking from the ship after the navigation in the area.
+
+             (3)  The certificate must:
+
+                     (a)  identify the ship; and
+
+                     (b)  identify the area; and
+
+                     (c)  state that the licensed pilot has provided pilotage services for the ship in the area; and
+
+                     (d)  provide any other information specified by the Authority in the approval of the form of the certificate.
+
+##### <a id="186K"></a>186K  Exemption from requirement to navigate with a licensed pilot
+
+             (1)  The master or owner of a regulated ship may apply to the Authority for an exemption from the requirement to navigate with a licensed pilot in a compulsory pilotage area.
+
+             (2)  The application must:
+
+                     (a)  be in writing; and
+
+                     (b)  contain the prescribed information; and
+
+                     (c)  be made in a form approved by the Authority.
+
+             (3)  The Authority must, after consideration of the application:
+
+                     (a)  by instrument in writing, grant or refuse to grant the exemption applied for; and
+
+                     (b)  give the applicant a copy of the instrument, and, in the case of a refusal, a statement of the reasons for that refusal.
+
+             (4)  A refusal to grant the exemption applied for may be a refusal to grant the exemption at all or a refusal to grant the exemption as to a part of the ship’s proposed navigation in the compulsory pilotage area.
+
+             (5)  If the Authority grants an exemption, whether it is the exemption applied for or a lesser exemption, the exemption may be expressed to be subject to such conditions as are specified by the Authority in the instrument granting the exemption.
+
+             (6)  If:
+
+                     (a)  a regulated ship is navigating in a compulsory pilotage area; and
+
+                     (b)  the Authority has granted an exemption in respect of the proposed navigation by the ship in that area; and
+
+                     (c)  that exemption is subject to conditions; and
+
+                     (d)  the ship, in navigating in that area, fails to comply with those conditions;
+
+the master and the owner of the ship each commit an offence punishable on conviction by a fine not exceeding 500 penalty units.
+
+             (7)  An offence against subsection (6) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (8)  An instrument under this section granting or refusing an exemption is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+
+##### <a id="186L"></a>186L  Defence in proceedings for offences
+
+             (1)  In any proceedings for an offence against subsection 186I(1) or 186K(6), it is a defence if the master or owner (as the case may be) proves that the regulated ship navigated in a compulsory pilotage area because of stress of weather, saving life at sea or other unavoidable cause.
+
+             (2)  In any proceedings against the owner of a ship for an offence against subsection 186I(1) or 186K(6), it is a defence if the owner proves that the owner took all reasonable precautions and exercised due diligence to ensure that the ship would not navigate in a compulsory pilotage area in contravention of that subsection.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (1) or (2). See section 13.4 of the _Criminal Code_.
+
+## Part IV—Ships and shipping
+
+### Division 1—General
+
+##### <a id="187"></a>187  Application of Part
+
+             (1)  This Part shall, except where otherwise expressed, apply to all ships, including ships to which Part II does not apply.
+
+             (2)  Section 2 does not have effect in relation to a provision of this Part that gives effect to a provision of Chapter V of the Regulations contained in the Annex to the Safety Convention (other than Regulation 7 or 14 of that Chapter of those Regulations).
+
+             (3)  Provisions of this Act giving effect to the Safety Convention do not apply in relation to a ship referred to in paragraph 2(1)(a), (b), (c) or (d) to the extent that a law of a State or of the Northern Territory makes provision giving effect to the Safety Convention in relation to that ship.
+
+##### <a id="187AA"></a>187AA  Issue of certificates in respect of ships to which this Act does not apply
+
+             (1)  In this section, **_prescribed certificate_** means:
+
+                     (a)  a certificate referred to in section 194, 206D, 206E, 206F, 206G, 206H, 206J, 206K, 222, 223 or 405F; or
+
+                     (b)  a certificate prescribed for the purposes of this section.
+
+             (2)  The owner of a ship referred to in paragraph 2(1)(a), (b), (c) or (d) may apply, in the prescribed form or in a form approved by the Authority by instrument in writing, to the Authority for the issue of a prescribed certificate in respect of the ship.
+
+             (3)  Where an application is made under subsection (2) for the issue of a prescribed certificate in respect of a ship, section 2 does not have effect to the extent necessary to enable the application to be dealt with in accordance with this Act and to enable the prescribed certificate to be issued in respect of the ship.
+
+             (4)  Where a prescribed certificate is issued in respect of a ship by virtue of this section, section 2 does not have effect to the extent necessary to enable the provisions of this Act relating to such a prescribed certificate to apply in relation to the certificate so issued.
+
+##### <a id="187A"></a>187A  Interpretation
+
+             (1)  In this Part, unless the contrary intention appears:
+
+                    <a name="cargo-ship"></a>**_cargo ship_** means a ship other than a passenger ship.
+
+                    <a name="cargo-ship-safeti-certif"></a>**_cargo ship safety certificate_** means a certificate issued under section 206GA.
+
+                    <a name="cargo-ship-safeti-construct-certif"></a>**_cargo ship safety construction certificate_** means a certificate issued under section 206E.
+
+                    <a name="cargo-ship-safeti-equip-certif"></a>**_cargo ship safety equipment certificate_** means a certificate issued under section 206F.
+
+                    <a name="cargo-ship-safeti-radio-certif"></a>**_cargo ship safety radio certificate_** means a cargo ship safety radio certificate issued under section 206G.
+
+                    <a name="cargo-steamship"></a>**_cargo steamship_** means a steamship other than a passenger steamship.
+
+                    <a name="certif-equip"></a>**_certificate of equipment_** means:
+
+                     (a)  a certificate of equipment issued under subsection 194(4) or (5A); or
+
+                     (b)  a certificate, or a certificate in a class of certificates, recognised in a determination made under subsection 194(6) as equivalent to a certificate of equipment, or a class of certificates of equipment, issued under subsection 194(4).
+
+                    <a name="certif-survei"></a>**_certificate of survey_** means:
+
+                     (a)  a certificate of survey issued under subsection 194(4) or (5A); or
+
+                     (b)  a certificate, or a certificate in a class of certificates, recognised in a determination made under subsection 194(6) as equivalent to a certificate of survey, or a class of certificates of survey, issued under subsection 194(4).
+
+                    <a name="classif-certif"></a>**_classification certificate_** means a classification certificate issued by a survey authority and of a standard approved by the Authority under section 187BA.
+
+                    <a name="countri-safeti-convent-appli"></a>**_country to which the Safety Convention applies_** means a country specified in a notice under section 187B.
+
+                    <a name="declar-survei"></a>**_declaration of survey_** means a declaration made under this Act by a surveyor with respect to the survey of a ship.
+
+                    <a name="exempt-certif"></a>**_exemption certificate_** means a certificate issued under subsection 206H(1).
+
+                    <a name="intern-code-signal"></a>**_International Code of Signals_** means the Code of that name that is issued by the International Maritime Organization, as amended from time to time.
+
+                    <a name="intern-voyag"></a>**_international voyage_** means:
+
+                     (a)  for the purposes of Division 5, a voyage:
+
+                              (i)  from a port in Australia to a port outside Australia;
+
+                             (ii)  to a port in Australia from a port outside Australia;
+
+                            (iii)  from a port in a country that is a Load Line Convention country for the purposes of that Division to a port outside that country; or
+
+                            (iv)  to a port in a country that is a Load Line Convention country for the purposes of that Division from a port outside that country; and
+
+                     (b)  for the purposes of the provisions of this Part other than Division 5, a voyage:
+
+                              (i)  from a port in Australia to a port outside Australia;
+
+                             (ii)  to a port in Australia from a port outside Australia;
+
+                            (iii)  from a port in a country to which the Safety Convention applies to a port outside that country; or
+
+                            (iv)  to a port in a country to which the Safety Convention applies from a port outside that country;
+
+                            other than a voyage in the course of which the ship concerned:
+
+                             (v)  is not at any time more than 600 nautical miles from the nearest point on the coast of Australia; and
+
+                            (vi)  does not call at a port in a country other than Australia.
+
+                    <a name="nuclear-cargo-ship-safeti-certif"></a>**_nuclear cargo ship safety certificate_** means a certificate issued under section 206K.
+
+                    <a name="nuclear-passeng-ship-safeti-certif"></a>**_nuclear passenger ship safety certificate_** means a certificate issued under section 206J.
+
+                    <a name="passeng-certif"></a>**_passenger certificate_** means a passenger certificate issued under subsection 194(4) or (5A).
+
+                    <a name="passeng-ship"></a>**_passenger ship_** means a ship carrying more than 12 passengers.
+
+                    <a name="passeng-ship-safeti-certif"></a>**_passenger ship safety certificate_** means a certificate issued under subsection 206D(1) or (3).
+
+                    <a name="passeng-ship-short-voyag-safeti-certif"></a>**_passenger ship short voyage safety certificate_** means a certificate issued under subsection 206D(2) or (4).
+
+                    <a name="passeng-steamship"></a>**_passenger steamship_** means a steamship carrying more than 12 passengers.
+
+                    <a name="radio-instal"></a>**_radio installation_** means a radiotelegraphy or radiotelephony installation, but does not include a radio navigational aid.
+
+                    <a name="safeti-convent-certif"></a>**_Safety Convention certificate_** means a certificate issued in respect of a steamship, not being a ship registered in Australia, by or with the authority of the government of a country to which the Safety Convention applies in accordance with the Safety Convention or a law of that country that gives effect to the Safety Convention.
+
+                    <a name="safeti-convent-ship"></a>**_Safety Convention ship_** means a ship that is of a kind to which the Safety Convention applies and is entitled to fly the flag of a country to which the Safety Convention applies.
+
+                    <a name="short-intern-voyag"></a>**_short international voyage_** means an international voyage:
+
+                     (a)  in the course of which a ship is not any time more than 200 nautical miles from a port or place in which the passengers and crew could be placed in safety; and
+
+                     (b)  which does not exceed 600 nautical miles in length between the last port of call in the country in which the voyage begins and the final port of destination.
+
+                    <a name="subdivis-load-line"></a>**_subdivision load line_** means a load line indicating the depth to which a passenger steamship may be loaded having regard to the extent to which it is subdivided and to the space for the time being allotted to passengers.
+
+                    <a name="contain-convent"></a>**_the Container Convention_** means the International Convention for Safe Containers as corrected by the Procès-Verbal of Rectification dated 25 June 1976 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, is set forth in Schedule 5), as affected by:
+
+                     (a)  any amendment of the Convention, other than an amendment not accepted by Australia, made under Article IX of the Convention; and
+
+                     (b)  the amendments to Annex 1 dated 2 April 1981 (a copy of the English text of which is set forth in Schedule 5A) and any other amendment of the annexes to the Convention, other than an amendment objected to by Australia, made under Article X of the Convention.
+
+**_the Load Line Convention_** means the International Convention on Load Lines, 1966, as corrected by the Procès-Verbal of Rectification dated 30 January 1969 and the Procès-Verbal of Rectification dated 5 May 1969 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, other than the chart attached to Annex II, is set forth in Schedule 4):
+
+                     (a)  as affected, after the date on which the Protocol of 1988 relating to the Load Line Convention enters into force for Australia, by that Protocol; and
+
+                     (b)  as also affected by any amendment, other than an amendment not accepted by Australia, made under section 29 of the Convention.
+
+                    <a name="prevent-collision-convent"></a>**_the Prevention of Collisions Convention_** means the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (a copy of the English text of the articles of which is set forth in Schedule 3), together with the International Regulations for Preventing Collisions at Sea, 1972, constituted by the rules and other annexes attached to that Convention, as corrected by the Procès-Verbal of Rectification dated 1 December 1973 (a copy of the English text of which rules and other annexes, as so corrected, is also set forth in Schedule 3), as affected by any amendment, other than an amendment objected to by Australia, made under Article VI of that Convention.
+
+                    <a name="convent"></a><a name="prevent-pollution-ship-convent"></a>**_the Prevention of Pollution from Ships Convention_** has the same meaning as **_the Convention_** has in the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_.
+
+**_the Safety Convention_** means the International Convention for the Safety of Life at Sea, 1974 (a copy of the English text of the articles of which, and of the annex and appendix to which, is set forth in Schedule 1):
+
+                     (a)  as affected, after the respective dates on which:
+
+                              (i)  the Protocol of 1978 relating to the Safety Convention; and
+
+                             (ii)  the Protocol of 1988 relating to the Safety Convention;
+
+                            enter into force for Australia—by each of those Protocols; and
+
+                     (b)  as also affected by any amendment, other than an amendment objected to by Australia, made under Article VIII of that Convention.
+
+                    <a name="valid-safeti-convent-certif"></a>**_valid Safety Convention certificate_** means a Safety Convention certificate which complies with such requirements as are prescribed.
+
+             (2)  For the purposes of determining for the purposes of this Part whether a voyage is an international voyage, account shall not be taken of a deviation by a ship from an intended voyage if the deviation is due only to stress of weather or any other circumstance that neither the master nor the owner of the ship could have prevented or forestalled.
+
+             (3)  For the purposes of determining for the purposes of Division 5 whether a voyage is an international voyage, a territory for which the United Nations are the administering authority, or for the international relations of which Australia or any other country is responsible, shall be deemed to be a separate country.
+
+             (4)  Where an international voyage:
+
+                     (a)  is such that, in the course of the voyage, a ship is not at any time more than 200 nautical miles from a port or place in which the passengers and crew could be placed in safety; and
+
+                     (b)  exceeds 600 nautical miles, but does not exceed 1,200 nautical miles, in length between the last port of call in the country in which the voyage begins and the final port of destination;
+
+the Authority may, by instrument in writing, direct that, subject to such conditions as are specified in the direction, the voyage shall, for the purposes of this Act, be treated as if it were a short international voyage in relation to any ship:
+
+                     (c)  that is, or is included in a class of ships that is, specified in the direction; and
+
+                     (d)  in respect of which a passenger ship short voyage safety certificate is in force.
+
+             (5)  For the purposes of this Part, an unregistered ship entitled to fly the flag of a country shall be deemed to be registered in that country.
+
+##### <a id="187B"></a>187B  Declaration of countries to which the Safety Convention applies
+
+                   The Authority may, by notice published in the _Gazette_, declare that, for the purposes of this Part, a country, other than Australia, specified in the notice is a country to which the Safety Convention applies.
+
+##### <a id="187BA"></a>187BA  Approval of classification certificates
+
+                   The Authority may, for the purposes of this Part, approve, in writing, a standard of classification certificate issued by a survey authority.
+
+##### <a id="187C"></a>187C  When ships deemed to be overloaded
+
+             (1)  Where a ship is so loaded at any time that, if the ship were floating without a list in still salt water of a specific gravity of 1.025, the load line marked on either side of the ship that is the appropriate load line at that time would be submerged, the ship shall, for the purposes of this Part, be deemed to be overloaded, and, subject to subsection (4), to be overloaded to the extent to which that load line would be so submerged.
+
+             (2)  Where:
+
+                     (a)  a ship is at any time engaged on, or is about to engage on, a voyage during which, in the ordinary course, a load line marked on either side of the ship (not being a load line that is the appropriate load line at that time) would, at some later time during the voyage, become the appropriate load line; and
+
+                     (b)  the ship is so loaded at that first-mentioned time that, if the ship were floating without a list in still salt water of a specific gravity of 1.025 and there were unloaded from the ship the fuel and other material that would, in the ordinary course, be consumed or discharged before that later time, that load line would be submerged;
+
+the ship shall, for the purposes of this Part, be deemed to be overloaded and, subject to subsection (4), to be overloaded to the extent to which that load line would be so submerged.
+
+             (3)  Where a passenger ship is so loaded at any time that, if the ship were floating without a list in still salt water of a specific gravity of 1.025, the subdivision load line marked on either side of the ship that is the appropriate subdivision load line at that time would be submerged, the ship shall, for the purposes of this Part, be deemed to be overloaded, and subject to subsection (4), to be overloaded to the extent to which that subdivision load line would be so submerged.
+
+             (4)  Where:
+
+                     (a)  in any proceedings under this Act, it is proved that a ship is, by force of more than one subsection of this section, deemed to be overloaded; and
+
+                     (b)  the extent to which, under those subsections, the ship is deemed to be overloaded is not the same in each case;
+
+the ship shall, for the purposes of this Part, be deemed to be overloaded to the greatest extent to which it is deemed to be overloaded under those subsections.
+
+             (5)  For the purposes of this section, the load line or subdivision load line marked on a ship that is the appropriate load line or subdivision load line at any time shall be determined in accordance with the regulations and orders.
+
+##### <a id="187D"></a>187D  Certificate by Minister as to amendments of the Load Line Convention
+
+                   The Minister may, by writing under his or her hand, certify that the amendments, other than amendments not accepted by Australia, by which the Load Line Convention was affected as at such date as is specified in the certificate are set out in, or annexed to, the certificate, and such a certificate is, for all purposes, _prima facie_ evidence of the matters so certified.
+
+##### <a id="187E"></a>187E  Certificate by Minister as to amendments of the Safety Convention etc.
+
+                   The Minister may, by writing under his or her hand, certify that the amendments, other than amendments objected to by Australia, by which the Safety Convention was affected as at such date as is specified in the certificate are set out in, or annexed to, the certificate, and such a certificate is, for all purposes, _prima facie_ evidence of the matters so certified.
+
+##### <a id="188"></a>188  Exemptions
+
+             (1)  Where a ship (other than a nuclear ship) that is not ordinarily engaged on international voyages undertakes, in exceptional circumstances, a single international voyage, the Authority may, if it is satisfied that the ship complies with safety requirements that, in its opinion, are adequate for the voyage, exempt the ship or any person, in respect of that voyage, from compliance with any provision of this Act or the regulations or orders that gives effect to the Safety Convention.
+
+             (2)  The Authority may, in relation to a Safety Convention ship that is registered in Australia, exercise the right conferred on the Government of the Commonwealth by paragraph (b) of Regulation 4 of Chapter I contained in the Annex to the Safety Convention to exempt the ship from a provision of Chapter II-1, II-2, III or IV of the Regulations contained in that Annex, and a ship so exempted, and the master and owner of the ship, are exempt from compliance with any provision of this Act that gives effect to that provision.
+
+             (3)  An exemption under subsection (2) is subject to such safety requirements (if any) as are specified in the exemption.
+
+             (4)  If a safety requirement that is applicable to a ship by virtue of an exemption under subsection (3) is contravened, the master and the owner of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+
+             (5)  An offence under subsection (4) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+##### <a id="189"></a>189  All ships liable to survey and inspection
+
+                   All ships shall be liable to inspection and survey.
+
+##### <a id="190"></a>190  Appointment of surveyors
+
+                   The Authority may appoint a person who is skilled with regard to:
+
+                     (a)  wooden hulls and equipment, other than radio equipment;
+
+                     (b)  metal hulls and equipment, other than radio equipment;
+
+                     (c)  engines, boilers and machinery;
+
+                     (d)  radio installations; or
+
+                     (e)  radio navigational aids;
+
+to be a surveyor.
+
+##### <a id="190AA"></a>190AA  Powers of inspection of surveyors
+
+             (1)  A surveyor may at any reasonable time go on board a ship and inspect the ship and any part of the ship, including the hull, boilers, machinery and equipment of the ship, and may require the certificates of the master or of any officer of the ship, or any certificate or other document relating to the ship, to be produced to him or her.
+
+             (2)  Without limiting the generality of subsection (1), the powers of a surveyor under that subsection extend, subject to section 227E, to the inspection of a ship for the purpose of ascertaining whether the ship complies with such of the provisions of this Act and the regulations and orders relating to load lines as apply to the ship and whether the ship is overloaded, and to requiring the production to him or her of any certificate relating to load lines issued in respect of the ship.
+
+          (2A)  A person who fails to comply with any requirement made by a surveyor under subsection (1) or (2) commits an offence punishable on conviction by a fine not exceeding 60 penalty units.
+
+          (2B)  An offence against subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  Where the Authority receives the report of a surveyor who has carried out, or proposes to carry out, an inspection of a ship under this section, it may, if it considers it necessary so to do, require the ship to be taken into dock or otherwise dealt with so that a surveyor can inspect the hull, boilers, machinery or equipment of the ship.
+
+             (4)  If:
+
+                     (a)  the Authority requires a ship to be taken into dock or otherwise dealt with under subsection (3); and
+
+                     (b)  the person to whom the requirement was given does not comply with that requirement;
+
+the person commits an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
+
+             (5)  Subsection (2A) or (4) does not apply if the person has a reasonable excuse.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (5) (see subsection 13.3(3) of the _Criminal Code_).
+
+##### <a id="190AB"></a>190AB  Publication of information about ships
+
+             (1)  The Authority may publish, in the manner prescribed, such information derived about a ship:
+
+                     (a)  during an inspection or survey of that ship under section 190AA; or
+
+                     (b)  during an inspection or survey of that ship conducted otherwise than under this Act; or
+
+                     (c)  otherwise than by an inspection or survey;
+
+as is prescribed.
+
+             (2)  The regulations may make provision for:
+
+                     (a)  the manner in which information derived:
+
+                              (i)  during an inspection or survey; or
+
+                             (ii)  otherwise than by inspection or survey;
+
+                            will be published; and
+
+                     (b)  the nature of the information that will be published; and
+
+                     (c)  the time at which the publication of information will occur.
+
+##### <a id="190A"></a>190A  Alterations etc. of ships and cancellation of certificates
+
+             (1)  If:
+
+                     (a)  a certificate has been issued under Division 2 or Division 2B in respect of a ship; and
+
+                     (b)  the ship’s hull, equipment or machinery, or part of the ship’s hull, equipment or machinery:
+
+                              (i)  is altered, replaced or damaged so that the ship’s seaworthiness or efficiency is affected; or
+
+                             (ii)  becomes inefficient for some other reason;
+
+written notice of the alteration, replacement, damage or inefficiency must forthwith be given to the person prescribed in the form prescribed.
+
+          (1A)  If:
+
+                     (a)  a notice is required to be given under subsection (1); and
+
+                     (b)  such notice is not given;
+
+the master and the owner of the ship are each guilty of an offence in respect of each day during which the notice is not given (including the day on which the person is convicted under this subsection or any subsequent day).
+
+                    Penalty:  $1,000.
+
+          (1B)  An offence under subsection (1A) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  Where the Authority has reason to believe that:
+
+                     (a)  the report of a surveyor in respect of a ship was fraudulently or erroneously made or obtained;
+
+                     (b)  a certificate has been issued under Division 2 or Division 2B in respect of a ship upon false or erroneous information;
+
+                     (c)  since the last declaration of survey was made in respect of a ship, the hull, equipment or machinery, or a part of the hull, equipment or machinery, of the ship has been altered, replaced or damaged in a manner which affects the ship’s efficiency or seaworthiness or has become otherwise inefficient; or
+
+                     (d)  the owner of a ship has failed to comply with section 193 in respect of the ship;
+
+it may cancel any certificate issued in respect of the ship under Division 2 or Division 2B or detain the ship until it is satisfied that the ship can proceed to sea without danger to its crew or passengers.
+
+             (3)  Where the Authority cancels a certificate issued in respect of a ship under Division 2 or Division 2B, the certificate is of no force or effect after the Authority has given notice in writing of the cancellation to the owner, agent or master of the ship.
+
+             (4)  Where a certificate issued in respect of a ship under Division 2 or Division 2B has expired or been cancelled, the Authority may require the owner or master of the ship to deliver up the certificate to the Authority or to such other person as the Authority directs, and the Authority may detain the ship until the requirement is complied with.
+
+##### <a id="190B"></a>190B  Regulations relating to construction, surveys etc.
+
+             (1)  The regulations may:
+
+                     (a)  specify requirements with which the construction, hull, equipment and machinery of ships shall comply; and
+
+                     (b)  make provision for or in relation to the survey and inspection of ships.
+
+             (2)  Without limiting the generality of subsection (1), the regulations that may be made by virtue of that subsection include regulations for or in relation to:
+
+                     (a)  the assigning of subdivision load lines to, and the marking of subdivision load lines on, ships;
+
+                     (b)  the furnishing of reports and declarations of survey, and the issuing of certificates, under this Part; and
+
+                     (c)  the exempting of ships, other than nuclear ships, from any requirement of this Act that relates to the construction, hull, equipment or machinery of ships.
+
+##### <a id="191"></a>191  Regulations to give effect to Safety Convention
+
+             (1)  The regulations may make provision for or in relation to giving effect to the Safety Convention.
+
+             (2)  Where a provision of the convention applies only in relation to a particular class of ships or in relation to ships engaged on a particular class of voyages, any regulation that gives effect to that provision may be applied to ships of any other class or to ships engaged in any other class of voyages.
+
+             (3)  Section 2 does not have effect in relation to a regulation, or an order made in pursuance of the regulations, that gives effect to a provision of Chapter V of the Regulations contained in the Annex to the Convention (other than Regulation 7 or 14 of that Chapter of those Regulations).
+
+             (4)  Regulations and orders giving effect to the Convention do not apply in relation to a ship referred to in paragraph 2(1)(a), (b), (ba), (c) or (d) to the extent that a law of a State or of the Northern Territory makes provision giving effect to the Convention in relation to that ship.
+
+##### <a id="191A"></a>191A  Discretions relating to regulations giving effect to Conventions
+
+             (1)  Where, under this Act, the Governor-General is empowered to make regulations for the purpose of implementing or giving effect to any of the provisions of the Container Convention, the Safety Convention, the Prevention of Collisions Convention, the Prevention of Pollution from Ships Convention or the Load Line Convention, the requirement shall, in the case of a provision the terms of which are such as to vest in the several Governments who are parties to the Convention a discretion as to whether any, and if so what, action should be taken thereunder, be construed as an authority to the Governor-General to make by regulation such provision (if any) with respect to the matter in question as the Governor-General in the exercise of that discretion thinks proper.
+
+             (2)  Notwithstanding any regulation made under any provision of this Act for the purpose of giving effect to, or implementing, any provision of the Safety Convention, the Prevention of Collisions Convention, the Prevention of Pollution from Ships Convention or the Load Line Convention which requires a particular fitting, material, appliance or apparatus, or type thereof, to be fitted or carried in a ship, or any particular provision to be made in a ship, the Authority may allow any other fitting, material, appliance or apparatus, or type thereof, to be fitted or carried, or any other provision to be made if it is satisfied that that other fitting, material, appliance or apparatus, or type thereof, or provision, is at least as effective as that required by the Convention.
+
+##### <a id="191B"></a>191B  Offences with respect to subdivision load line marks
+
+             (1)  If a ship (other than a Safety Convention ship):
+
+                     (a)  has been marked in accordance with the regulations or orders with subdivision load lines; and
+
+                     (b)  the ship is not kept so marked;
+
+the owner and the master of the ship are each guilty of an offence in respect of each day during which the ship is not kept so marked 
+
+(including the day on which the person is convicted under this subsection, or any subsequent day).
+
+                    Penalty:  $2,000.
+
+          (1A)  Subsection (1) does not apply if the owner or master has reasonable cause.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
+
+          (1B)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  A person commits an offence if:
+
+                     (a)  a ship other than a Safety Convention ship has been marked with a subdivision load line mark; and
+
+                     (b)  the person engages in conduct; and
+
+                     (c)  the person’s conduct results in the concealment, removal, alteration, defacing or obliteration of any such mark.
+
+                    Penalty:  $5,000 or imprisonment for 2 years, or both.
+
+             (3)  Subsection (2) does not apply if the person has reasonable cause.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+
+##### <a id="192A"></a>192A  Detention of ships not registered in Australia
+
+             (1)  Where, under this Part, a ship to which Part II does not apply is detained or proceedings are taken against the owner or master of such a ship, the Authority shall forthwith give notice in writing, specifying the grounds on which the ship has been detained or the proceedings have been taken, to the consul for, or to another representative of, the country in which the ship is registered at or nearest to the port where, for the time being, the ship is.
+
+             (2)  Where notice of the detention of a ship is given to a consul or other representative under subsection (1), a person named by the consul or other representative may accompany any person directed to survey the ship while he or she is carrying out the survey.
+
+##### <a id="192B"></a>192B  Stability information
+
+                   The regulations may make provision for or in relation to the carrying on a ship of information with respect to the stability of the ship and, without limiting the generality of the foregoing, regulations so made may specify the tests or other data on which such information is to be based.
+
+##### <a id="192C"></a>192C  Nuclear ships
+
+             (1)  The regulations may make provision for ensuring that nuclear ships do not cause unreasonable radiation or other nuclear hazards to the crews or passengers of such ships, or to other persons, or to any waterways or food or water resources.
+
+             (2)  Without limiting the generality of subsection (1), the regulations that may be made by virtue of that subsection include regulations:
+
+                     (a)  making provision for or in relation to the preparation and the maintaining, in respect of a nuclear ship registered in Australia, of a Safety Assessment, that is to say, a document setting out prescribed information with respect to the ship and its power plant to enable an assessment to be made from time to time of the safety of the ship and of its power plant for the purpose of ensuring that there is no unreasonable radiation or other hazard to the crew or passengers of the ship or to other persons, or to waterways or food or water resources;
+
+                     (b)  making provision for or in relation to the preparation and the maintaining, in respect of a nuclear ship registered in Australia, of an Operating Manual, that is to say, a document setting out prescribed information with respect to the operation of the power plant of the ship;
+
+                     (c)  specifying requirements to be complied with in relation to a nuclear ship before it enters a port in Australia, including the giving of notice that the ship proposes to enter the port, the furnishing of prescribed information and the production of the Safety Assessment of the ship, or of a document that is issued by the government of another country in respect of the ship and corresponds with a Safety Assessment; and
+
+                     (d)  requiring the giving of notice by the master of a nuclear ship of any accident causing, or likely to cause, the existence of a hazard on, or in the vicinity of, the ship.
+
+             (3)  The owner or master of a nuclear ship shall not permit the ship to enter Australia unless a person authorized by the Authority for the purposes of this subsection has informed the owner or master of the ship that he or she is satisfied as to the safety of the ship with respect to radiation and other nuclear hazards.
+
+             (4)  A person who contravenes subsection (3) or a provision of the regulations made by virtue of this section is guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+
+### Division 2—Surveys of steamships and survey certificates
+
+##### <a id="193"></a>193  Steamships to be surveyed periodically
+
+             (1)  Subject to this Part, the owner of a steamship shall cause a part of the steamship that, under the regulations or orders, is subject to survey to be surveyed at least once during each prescribed period.
+
+                    Penalty:  $2,000.
+
+             (2)  For the purposes of subsection (1), **_prescribed period_**, in relation to a part of a steamship, means:
+
+                     (a)  a period of 12 months; or
+
+                     (b)  such longer period as, under the regulations or orders, is applicable to that part of the steamship.
+
+             (3)  The regulations may make provision for exempting, in whole or in part, from subsection (1) a steamship in respect of which there is in force a certificate under this Division or under Division 2B, a valid Safety Convention certificate or a classification certificate.
+
+##### <a id="194"></a>194  Surveyors’ reports and declarations, and issue of certificates
+
+             (1)  When a surveyor has made a survey of a steamship, in whole or in part, he or she shall furnish a report on the survey to the Authority.
+
+             (2)  If the surveyor is satisfied that it is proper for him or her so to do, the surveyor shall furnish to the Authority a declaration in the prescribed form in respect of the survey.
+
+             (3)  The surveyor shall state in the declaration:
+
+                     (a)  the voyages or class of voyages on which, in the opinion of the surveyor, having regard to the construction, equipment and machinery of the ship, so far as surveyed by him or her, the ship is fit to ply; and
+
+                     (b)  in the case of a passenger steamship which, in the opinion of the surveyor, is, so far as surveyed by him or her, fit to ply on international voyages while engaged in a special trade only, that the ship is so fit only while so engaged.
+
+             (4)  The Authority may, after taking into account any report or reports furnished to it in respect of the ship by a surveyor or surveyors, issue in respect of the ship, in the prescribed form, a certificate of survey, a passenger certificate or certificates of equipment.
+
+             (5)  The Authority may refuse to issue a certificate in respect of a ship under subsection (4) if it is not satisfied that the ship complies with any relevant requirement of this Act which relates to the construction, hull, equipment or machinery of ships.
+
+          (5A)  A survey authority may, after the survey of a steamship carried out by or on behalf of the survey authority, issue in respect of the ship, in the prescribed form, a certificate of survey, a passenger certificate or certificates of equipment.
+
+          (5B)  A survey authority may refuse to issue a certificate in respect of a ship under subsection (5A) if it is not satisfied that the ship complies with any relevant requirement of this Act which relates to the construction, hull, equipment or machinery of ships.
+
+             (6)  Where the Authority is of the opinion:
+
+                     (a)  that a certificate issued under the law of a State or Territory or of a country other than Australia is equivalent to a certificate of survey or certificate of equipment issued under subsection (4); or
+
+                     (b)  that a class of certificates issued under the law of a State or Territory or of a country other than Australia is equivalent to a class of certificates of survey or certificates of equipment issued under subsection (4);
+
+the Authority may determine, in writing:
+
+                     (c)  that the certificate or class of certificates is so recognised; or
+
+                     (d)  that, if specified conditions are satisfied in relation to the ship in respect of which the certificate was issued or in relation to a ship in respect of which a certificate in the class of certificates was issued, the certificate is so recognised.
+
+##### <a id="195"></a>195  Duration and extension of certificates
+
+             (1)  Subject to this Act, a certificate of survey, a passenger certificate or a certificate of equipment remains in force for such period as is prescribed, or, where a period is specified in the certificate, for that period.
+
+          (1A)  Where a ship in respect of which a certificate of survey, a passenger certificate or a certificate of equipment has been issued is not in an Australian port at the time when the certificate expires or is about to expire, the Authority may, if it appears proper and reasonable for it so to do, extend the certificate for a period not exceeding 5 months from the date of expiration of the certificate, for the purpose of allowing the ship to proceed to a port specified by the Authority to be surveyed.
+
+          (1B)  An extension of a certificate under subsection (1A) is of no further effect upon the arrival of the ship at the port so specified.
+
+             (2)  The Authority may, if it appears proper and reasonable so to do and it is satisfied that no danger to the ship or its crew or its passengers or cargo will arise from so doing, extend a certificate of survey, a passenger certificate or a certificate of equipment for such period, not exceeding one month, as it thinks fit.
+
+##### <a id="195A"></a>195A  Cancellation of certificates if ship ceases to be registered in Australia
+
+                   A certificate of survey, a passenger certificate or a certificate of equipment ceases to have effect if the ship in respect of which it was issued ceases to be registered in Australia.
+
+##### <a id="196"></a>196  Certificates to be made available for examination
+
+                   The master of a ship in respect of which a certificate of survey, a passenger certificate or a certificate of equipment has been issued must, while the certificate remains in force, ensure that a copy of the certificate is available at all reasonable times for examination on request by any person on board the ship.
+
+                    Penalty:  5 penalty units.
+
+##### <a id="202"></a>202  Overcrowding steamships
+
+             (1)  The owner or master of a steamship shall not receive or have on board the ship a number of passengers in excess of the number specified in the certificate of the ship as the number of passengers which the ship is fit to carry.
+
+                    Penalty:  $2,000 and an amount of $200 for each person on board in excess of the number specified in the certificate of the ship.
+
+             (2)  The owner, master or agent of a steamship shall not take payment of passage money from a number of persons in excess of the number specified in the certificate of the ship as the number of passengers which the ship is fit to carry.
+
+                    Penalty:  $1,000.
+
+             (3)  This section does not apply in relation to a voyage upon which, with the consent of the Authority, persons are carried for the purpose of enabling them to be moved from a place in consequence of a threat to their lives.
+
+             (4)  In this section, **_certificate_**, in relation to a ship, means the certificate of survey or passenger certificate, if any, issued in respect of the ship or any certificate issued in respect of the ship by or on behalf of the government of another country that specifies the number of passengers that the ship is fit to carry.
+
+##### <a id="203"></a>203  Alteration of certificates with respect to number of passengers
+
+             (1)  The owner of any steam-ship may at any time apply for an alteration of the certificate of survey or passenger certificate of the ship in regard to the number of passengers it may carry.
+
+             (2)  The Authority may, on receipt of the application, and after further survey, permit the certificate of survey or passenger certificate to be amended.
+
+##### <a id="204"></a>204  Inspection of ships exempt from survey
+
+             (3)  A person authorized in writing by the Authority to make inspections under this section may, at any time, inspect a ship which is wholly or partly exempt from survey under the regulations and shall, upon making such an inspection, forthwith report the result of the inspection to the Authority.
+
+             (4)  Upon the receipt by the Authority of a report under subsection (3), it may, subject to subsection (5), cancel the exemption of the ship from survey or suspend the operation, for the purposes of this Act, of a certificate in force in respect of the ship, and thereupon the ship becomes liable to survey.
+
+             (5)  The Authority shall not cancel the exemption from survey of a ship in respect of which a valid Safety Convention certificate is in force, or suspend the operation, for the purposes of this Act, of a valid Safety Convention certificate in force in respect of a ship, unless the Authority has reason to believe:
+
+                     (a)  that the condition of the ship, or of its equipment, does not substantially correspond with the certificate; and
+
+                     (b)  that the ship cannot proceed to sea without danger to its crew or passengers.
+
+##### <a id="204A"></a>204A  Non-application to certain ships
+
+                   Notwithstanding anything contained in this Act, any ship, not being bound to a port in Australia, which has been compelled, by stress of weather or _force majeure_, to take refuge in such a port, shall not be subject to any requirements of this Division, or of Division 6A, or of the regulations under section 215, or of the orders made under subsection 425(1AA) if, in the ordinary course of its voyage, the ship would have been exempt from that requirement.
+
+##### <a id="206"></a>206  Operation of watertight doors etc.
+
+                   The regulations may make provision for or in relation to the closing, and the periodical trial and operation, of watertight doors, side scuttles, valves and similar contrivances in ships.
+
+### Division 2A—Sailing ships
+
+##### <a id="206B"></a>206B  Application of Division 2 to sailing ships
+
+                   The provisions of Division 2, relating to steamships, shall, so far as they are applicable, be deemed to apply also to sailing ships over 50 tons gross tonnage to which Part II applies, and those provisions shall accordingly be read, for the purposes of this Division, as if such sailing ships were included in the word “steamships”.
+
+### Division 2B—Issue of safety certificates
+
+##### <a id="206C"></a>206C  Interpretation
+
+             (1)  In this Division:
+
+                    <a name="nuclear-cargo-ship"></a>**_nuclear cargo ship_** means a nuclear ship other than a nuclear passenger ship.
+
+                    <a name="nuclear-passeng-ship"></a>**_nuclear passenger ship_** means a nuclear ship carrying more than 12 passengers.
+
+                    <a name="steamship"></a>**_steamship_** does not include a nuclear ship.
+
+             (2)  Section 25C of the _Acts Interpretation Act 1901_ does not apply to a safety certificate issued under this Division in respect of a ship in accordance with the Safety Convention.
+
+##### <a id="206D"></a>206D  Passenger steamships—safety certificates
+
+             (1)  Where, on receipt of declarations of survey in respect of a steamship registered in Australia, the Authority is satisfied that the ship complies with the requirements of this Act that relate to the construction, equipment and machinery of passenger steamships engaged on international voyages, other than short international voyages, or with such of those requirements as are requirements from which it does not propose to exempt the ship, it may issue in respect of the ship, in the prescribed form, a passenger ship safety certificate.
+
+             (2)  Where, on receipt of declarations of survey in respect of a steamship registered in Australia, the Authority is satisfied that the ship complies with the requirements of this Act that relate to the construction, equipment and machinery of passenger steamships engaged on short international voyages, or with such of those requirements as are requirements from which it does not propose to exempt the ship, it may issue in respect of the ship, in the prescribed form, a passenger ship short voyage safety certificate.
+
+             (3)  If, after the survey of a steamship registered in Australia that is carried out by or on behalf of a survey authority, the survey authority is satisfied that the ship complies with:
+
+                     (a)  the requirements of this Act that relate to the construction, equipment and machinery of passenger steamships engaged on international voyages, other than short international voyages; or
+
+                     (b)  such of those requirements as are requirements from which the Authority has not exempted the ship;
+
+the survey authority may issue a passenger ship safety certificate in respect of the ship in the prescribed form.
+
+             (4)  If, after the survey of a steamship registered in Australia that is carried out by or on behalf of a survey authority, the survey authority is satisfied that the ship complies with:
+
+                     (a)  the requirements of this Act that relate to the construction, equipment and machinery of passenger steamships engaged on short international voyages; or
+
+                     (b)  such of those requirements as are requirements from which the Authority has not exempted the ship;
+
+the survey authority may issue a passenger ship short voyage safety certificate in respect of the ship in the prescribed form.
+
+##### <a id="206E"></a>206E  Cargo steamships—safety construction certificates
+
+             (1)  Where, on receipt of declarations of survey in respect of a steamship registered in Australia or a report on the survey of such a ship made by or on behalf of a survey authority, the Authority is satisfied that the ship complies with the requirements of this Act that relate to the construction, fixed equipment and machinery of cargo steamships engaged on international voyages or with such of those requirements as are requirements from which it does not propose to exempt the ship, it may issue in respect of the ship, in the prescribed form, a cargo ship safety construction certificate.
+
+             (2)  Where, after the survey of a steamship carried out by or on behalf of a survey authority, the survey authority is satisfied that the ship complies with the requirements of this Act that relate to the construction, fixed equipment and machinery of cargo steamships engaged on international voyages or with such of those requirements as are requirements from which the Authority has not exempted the ship, the survey authority may issue in respect of the ship, in the prescribed form, a cargo ship safety construction certificate.
+
+             (3)  In this section, **_fixed equipment_** means:
+
+                     (a)  electrical installations and electrical equipment, other than radio installations and radio equipment; and
+
+                     (b)  equipment for communicating between the bridge of a ship and the engine room.
+
+##### <a id="206F"></a>206F  Cargo steamships—safety equipment certificates
+
+             (1)  Where, on receipt of declarations of survey in respect of a steamship registered in Australia, the Authority is satisfied that the ship complies with the requirements of this Act that relate to the equipment (other than radio equipment or equipment that is fixed equipment for the purposes of section 206E) of cargo steamships engaged on international voyages, or with such of those requirements as are requirements from which it does not propose to exempt the ship, it may issue in respect of the ship, in the prescribed form, a cargo ship safety equipment certificate.
+
+             (2)  If, after a survey of a steamship carried out by or on behalf of a survey authority, the survey authority is satisfied that the ship complies with:
+
+                     (a)  the requirements of this Act that relate to the equipment (other than radio equipment or equipment that is fixed equipment for the purposes of section 206E) of cargo steamships engaged on international voyages; or
+
+                     (b)  such of those requirements as are requirements from which the Authority has not exempted the ship;
+
+the survey authority may issue a cargo ship safety equipment certificate in respect of the ship in the prescribed form.
+
+##### <a id="206G"></a>206G  Cargo steamships—safety radio certificates
+
+             (1)  Where, on receipt of declarations of survey in respect of a steamship registered in Australia, the Authority is satisfied that the ship complies with the requirements of this Act that relate to the radio equipment of cargo steamships engaged on international voyages, or with such of those requirements as are requirements from which it does not propose to exempt the ship, it may issue in respect of the ship, in the prescribed form, a cargo ship safety radio certificate.
+
+             (2)  If, after a survey of a steamship carried out by or on behalf of a survey authority, the survey authority is satisfied that the ship complies with:
+
+                     (a)  the requirements of this Act that relate to the radio equipment of cargo steamships engaged on international voyages; or
+
+                     (b)  such of those requirements as are requirements from which the Authority has not exempted the ship;
+
+the survey authority may issue a cargo ship safety radio certificate in respect of the ship in the prescribed form.
+
+##### <a id="206GA"></a>206GA  Cargo steamships—safety certificates
+
+             (1)  If, in respect of a steamship registered in Australia, the Authority is satisfied that it could issue:
+
+                     (a)  a cargo ship safety construction certificate under subsection 206E(1); and
+
+                     (b)  a cargo ship safety equipment certificate under section 206F; and
+
+                     (c)  a cargo ship safety radio certificate under section 206G;
+
+it may issue, in the prescribed form, a cargo ship safety certificate in respect of the ship.
+
+             (2)  If, in respect of a steamship registered in Australia, a survey authority is satisfied that it could issue:
+
+                     (a)  a cargo ship safety construction certificate under subsection 206E(2); and
+
+                     (b)  a cargo ship safety equipment certificate under subsection 206F(2); and
+
+                     (c)  a cargo ship safety radio certificate under subsection 206G(2);
+
+it may issue a cargo ship safety certificate in respect of the ship in the prescribed form.
+
+##### <a id="206H"></a>206H  Exemptions
+
+             (1)  Where, under the regulations or orders, the Authority exempts a ship from a requirement of this Act that relates to the construction, hull, equipment or machinery of ships engaged on international voyages, it may issue in respect of the ship, in the prescribed form, an exemption certificate specifying the requirement from which the ship is exempt and the conditions, if any, subject to which the ship is exempt.
+
+             (2)  Where an exemption certificate specifies conditions subject to which the ship is exempt from a requirement specified in the certificate and the conditions are not complied with, the master and owner of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+
+             (3)  An offence under subsection (2) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+##### <a id="206J"></a>206J  Nuclear passenger ships—safety certificates
+
+                   Where, on receipt of declarations of survey in respect of a nuclear ship registered in Australia, the Authority is satisfied that the ship:
+
+                     (a)  complies with the requirements of this Act that relate to:
+
+                              (i)  the construction, equipment and machinery of passenger steamships engaged on international voyages, other than such of those requirements as do not apply to nuclear passenger ships; and
+
+                             (ii)  the construction, equipment and machinery of nuclear passenger ships; and
+
+                     (b)  conforms to the Safety Assessment of the ship;
+
+it may issue in respect of the ship, in the prescribed form, a nuclear passenger ship safety certificate.
+
+##### <a id="206K"></a>206K  Nuclear cargo ships—safety certificates
+
+                   Where, on receipt of declarations of survey in respect of a nuclear ship registered in Australia, the Authority is satisfied that the ship:
+
+                     (a)  complies with the requirements of this Act that relate to:
+
+                              (i)  the construction, equipment and machinery of cargo steamships engaged on international voyages, other than such of those requirements as do not apply to nuclear cargo ships; and
+
+                             (ii)  the construction, equipment and machinery of nuclear cargo ships; and
+
+                     (b)  conforms to the Safety Assessment of the ship;
+
+it may issue in respect of the ship, in the prescribed form, a nuclear cargo ship safety certificate.
+
+##### <a id="206L"></a>206L  Authority may request Safety Convention countries to issue certificates
+
+             (1)  The Authority may request the government of a country to which the Safety Convention applies to issue or to authorise the issue of, or to endorse or to authorise the endorsement of, in respect of a ship registered in Australia, a certificate that:
+
+                     (a)  by virtue of the Safety Convention or a law of that country which gives effect to that Convention, the government of that country may issue or authorise the issue of, or endorse or authorise the endorsement of in respect of a ship registered in that country; and
+
+                     (b)  corresponds, or substantially corresponds, with a certificate which the Authority is empowered under this Division to issue in respect of that ship.
+
+             (2)  A certificate issued or endorsed in pursuance of such a request, and containing a statement that it has been so issued or endorsed, has effect, for the purposes of this Act, as if it were a certificate of the kind to which it corresponds issued or endorsed under this Division.
+
+##### <a id="206M"></a>206M  Safety Convention countries may request Authority to issue certificates
+
+             (1)  The Authority may, at the request of the government of a country to which the Safety Convention applies, issue or authorise the issue of, or endorse or authorise the endorsement of, in respect of a ship registered in that country a certificate that, under this Division, it could issue or authorise the issue of, or endorse or authorise the endorsement of, in respect of that ship if it were registered in Australia.
+
+             (2)  A certificate issued or endorsed under this section:
+
+                     (a)  shall contain a statement to the effect that it has been issued or endorsed at the request of the government of the country in which the ship is registered; and
+
+                     (b)  has effect, for the purposes of this Act, as if it had been issued or endorsed by the government which requested its issue or its endorsement.
+
+##### <a id="206N"></a>206N  Duration of certificates
+
+             (1)  Subject to this Act, a passenger ship safety certificate, a passenger ship short voyage safety certificate, a cargo ship safety construction certificate, a cargo ship safety equipment certificate, a cargo ship safety radio certificate, a cargo ship safety certificate, an exemption certificate, a nuclear passenger ship safety certificate or a nuclear cargo ship safety certificate remains in force for the period specified in the certificate.
+
+             (2)  The period specified in a certificate under subsection (1) must not exceed such period as is prescribed for that kind of certificate.
+
+##### <a id="206P"></a>206P  Extension of certificates
+
+                   The regulations may provide for the extension of certificates in a manner and for the duration set out in Regulation 14 of Chapter 1 of the Safety Convention.
+
+##### <a id="206PA"></a>206PA  Cancellation of certificates if ship ceases to be registered in Australia
+
+                   A certificate issued under this Division ceases to have effect if the ship in respect of which it was issued ceases to be registered in Australia.
+
+##### <a id="206Q"></a>206Q  Certificates to be made available for examination
+
+                   The master of a ship in respect of which a certificate has been issued under this Division must, while the certificate remains in force, ensure that a copy of the certificate is available at all reasonable times for examination on request by any person on board the ship.
+
+                    Penalty:  5 penalty units.
+
+### Division 2C—Survey and safety certificates required for ships
+
+##### <a id="206R"></a>206R  Interpretation
+
+                   In this Division, **_steamship_** does not include a nuclear ship.
+
+##### <a id="206S"></a>206S  Certificates required for Australian passenger steamships
+
+             (1)  The master or owner of a passenger steamship registered in Australia shall not take the ship to sea, or permit the ship to be taken to sea, on an international voyage unless there is in force in respect of the ship:
+
+                     (a)  a passenger ship safety certificate or, if the voyage is a short international voyage, a passenger ship short voyage safety certificate; and
+
+                     (b)  a passenger certificate;
+
+and any exemption certificate in force in respect of the ship applies to the voyage.
+
+             (2)  The master or owner of a passenger steamship registered in Australia shall not take the ship to sea, or permit the ship to be taken to sea, on a voyage other than an international voyage unless:
+
+                     (a)  there is in force in respect of the ship a certificate of survey appropriate to the voyage; or
+
+                     (b)  the master of the ship would not, if the voyage were an international voyage, commit an offence against subsection (1) if he or she took the ship to sea on the voyage.
+
+                    Penalty:  $10,000 or imprisonment for 4 years, or both.
+
+##### <a id="206T"></a>206T  Certificates required for Australian cargo steamships
+
+             (1)  The master or owner of a cargo steamship that:
+
+                    (aa)  is registered in Australia; and
+
+                    (ab)  is of 500 tons or more gross tonnage; and
+
+                    (ac)  is not a fishing vessel;
+
+must not take the ship to sea, or permit the ship to be taken to sea, on an international voyage unless:
+
+                     (a)  there is in force in respect of the ship a passenger ship safety certificate or, if the voyage is a short international voyage, a passenger ship short voyage safety certificate, and any exemption certificate in force in respect of the ship applies to the voyage; or
+
+                     (b)  there is in force in respect of the ship:
+
+                              (i)  a cargo ship safety construction certificate;
+
+                             (ii)  a cargo ship safety equipment certificate; and
+
+                            (iii)  a cargo ship safety radio certificate;
+
+                            and any exemption certificate in force in respect of the ship applies to the voyage.
+
+             (2)  The master or owner of a cargo steamship that:
+
+                    (aa)  is registered in Australia; and
+
+                    (ab)  either:
+
+                              (i)  is of less than 500 tons gross tonnage; or
+
+                             (ii)  is of 500 or more tons gross tonnage and is a fishing vessel;
+
+must not take the ship to sea, or permit the ship to be taken to sea, on an international voyage unless:
+
+                     (a)  there is in force in respect of the ship:
+
+                              (i)  a certificate of survey appropriate to the voyage; or
+
+                             (ii)  certificates of equipment appropriate to the voyage and a classification certificate; and
+
+                     (b)  if the ship is of 300 or more tons gross tonnage—there is in force in respect of the ship a cargo ship safety radiotelegraphy certificate or a cargo ship safety radiotelephony certificate, and any exemption certificate in force in respect of the ship applies to the voyage.
+
+             (3)  The master or owner of a cargo steamship registered in Australia shall not take the ship to sea, or permit the ship to be taken to sea, on a voyage other than an international voyage unless:
+
+                     (a)  there is in force in respect of the ship a certificate of survey appropriate to the voyage;
+
+                     (b)  there is in force in respect of the ship a cargo ship safety construction certificate and certificates of equipment appropriate to the voyage, and any exemption certificate in force in respect of the ship applies to the voyage;
+
+                     (c)  if the ship is less than 500 tons gross tonnage—there is in force in respect of the ship certificates of equipment appropriate to the voyage and a classification certificate; or
+
+                     (d)  the master of the ship would not, if the voyage were an international voyage, commit an offence against subsection (1) or (2) if he or she took the ship to sea on that voyage.
+
+                    Penalty:  $10,000 or imprisonment for 4 years, or both.
+
+##### <a id="206U"></a>206U  Certificates required for Australian nuclear ships
+
+             (1)  The master or owner of a nuclear ship registered in Australia shall not take the ship to sea, or permit the ship to be taken to sea, unless there is in force in respect of the ship:
+
+                     (a)  if the ship is a passenger ship—a nuclear passenger ship safety certificate; or
+
+                     (b)  if the ship is a cargo ship—a nuclear passenger ship safety certificate or a nuclear cargo ship safety certificate.
+
+                    Penalty:  $10,000 or imprisonment for 4 years, or both.
+
+##### <a id="206V"></a>206V  Documentary evidence of seaworthiness required for non-Safety Convention ships not registered in Australia
+
+                   The master or owner of a ship that is not registered in Australia and that is not a Safety Convention ship must not take the ship to sea, or permit the ship to be taken to sea, on a voyage from a port in Australia unless there is in force, in respect of the ship, a certificate or certificates, or other documentary evidence issued by or on behalf of the country in which the ship is registered, attesting to the seaworthiness of the ship.
+
+                    Penalty:  Imprisonment for 4 years.
+
+##### <a id="206W"></a>206W  Production of certificates or other documentary evidence
+
+             (1)  Where:
+
+                     (a)  application is made to an officer of Customs in respect of a ship, other than a Safety Convention ship, for a clearance under the Customs Act for a voyage from a port in Australia; and
+
+                     (b)  the master of the ship would contravene section 206S, 206T, 206U or 206V if he or she took the ship to sea on that voyage from that port without there being in force in respect of the ship a certificate or certificates, or, in the case of section 206V, other documentary evidence, as required by that section;
+
+the master of the ship must, if so required by an officer of Customs, produce to the officer of Customs:
+
+                     (c)  the certificate or certificates, or, in the case of section 206V, the other documentary evidence so required; and
+
+                     (d)  any exemption certificate in force in respect of the ship.
+
+             (2)  Where application is made to an officer of Customs in respect of a Safety Convention ship for a clearance under the Customs Act for a voyage from a port in Australia, the master of the ship shall, if so required by the officer of Customs, produce to the officer of Customs such valid Safety Convention certificate or valid Safety Convention certificates in respect of the ship as corresponds, or respectively correspond, with such certificate or certificates issued under Division 2B as the master could be required to produce under subsection (1) if:
+
+                     (a)  the ship were registered in Australia;
+
+                     (b)  the ship were proceeding on that voyage; and
+
+                     (c)  in a case where the voyage is not an international voyage, the voyage were such a voyage.
+
+             (3)  If an officer of Customs has required the master of a ship to produce to the officer:
+
+                     (a)  under subsection (1)—such certificate or certificates (including any exemption certificate in force in respect of the ship) and such other documentary evidence, if any, as are referred to in that subsection; or
+
+                     (b)  under subsection (2)—such Safety Convention certificate or Safety Convention certificates as are referred to in that subsection;
+
+then, until the certificate or certificates, or other documentary evidence is so produced, the officer of Customs may refuse to grant the clearance, and the ship may be detained.
+
+##### <a id="206X"></a>206X  Modification of certificates
+
+                   Where there is annexed to a valid Safety Convention certificate issued in respect of a ship a memorandum that:
+
+                     (a)  has been issued by or under the authority of the government of the country in which the ship is registered; and
+
+                     (b)  modifies, for the purpose of a particular voyage, by reason of the number of persons carried on that voyage, the particulars stated in the certificate with respect to life-saving appliances;
+
+the certificate has effect for the purpose of that voyage as if it were modified in accordance with the memorandum.
+
+### Division 3—Unseaworthy and substandard ships
+
+##### <a id="207"></a>207  Definition of seaworthy
+
+             (1)  Subject to subsection (2), a ship is to be treated as seaworthy under this Act if, and only if:
+
+                     (a)  it is in a fit state as to the condition of hull and equipment, boilers and machinery, the stowage of ballast or cargo, the number and qualifications of crew including officers, and in every other respect, to:
+
+                              (i)  encounter the ordinary perils of the voyage then entered upon; and
+
+                             (ii)  not pose a threat to the environment; and
+
+                     (b)  it is not overloaded.
+
+             (2)  If:
+
+                     (a)  it is proposed to take a Safety Convention ship to sea on a voyage from a port in Australia; and
+
+                     (b)  there is in force in respect of the ship the certificate or certificates that may be required to be produced under subsection 206W(2) in respect of the voyage;
+
+the ship is, for the purposes of this Act, to be treated as meeting the condition in subparagraph (1)(a)(i) in relation to that voyage so far as that condition relates to the condition of the ship and its equipment unless the condition of the ship or of its equipment does not correspond substantially with the particulars of that certificate or of any of those certificates.
+
+##### <a id="207A"></a>207A  Substandard ships
+
+             (1)  A ship is, for the purposes of this Act, substandard if the ship is seaworthy, but conditions on board the ship are clearly hazardous to safety or health.
+
+             (2)  In determining whether a ship is substandard, regard shall be had to such matters as are prescribed.
+
+##### <a id="208"></a>208  Sending unseaworthy ship to sea
+
+             (1)  Every person who sends any ship to sea in an unseaworthy state, so that the life of any person is likely to be thereby endangered, shall be guilty of an offence punishable on conviction by a fine not exceeding $20,000 or imprisonment for a period not exceeding 10 years, or both.
+
+          (1A)  It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that he or she used all reasonable means to ensure the seaworthiness of the ship.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (1A) (see section 13.4 of the _Criminal Code_).
+
+             (2)  Every master who takes a ship to sea, reckless as to whether the ship is in an unseaworthy state, so that the life of any person is likely to be thereby endangered, shall be guilty of an offence punishable on conviction by a fine not exceeding $20,000 or imprisonment for a period not exceeding 10 years, or both.
+
+             (4)  Nothing in this section shall subject the owner or master of a ship to any liability, by reason of the ship being sent or taken to sea in an unseaworthy state, where, owing to special circumstances, the sending of the ship to sea in that state was reasonable and justifiable.
+
+##### <a id="209"></a>209  Seaman may claim discharge from unseaworthy or substandard ship
+
+                   If a ship to which Part II applies is unseaworthy or substandard a seaman belonging to the ship shall not be deemed to have committed a breach of his or her agreement by reason of his or her having refused to sail in the ship while it is unseaworthy or substandard; and any seaman so refusing may claim his or her discharge unless the ship is made seaworthy or ceases to be substandard, as the case may be, within a reasonable time.
+
+##### <a id="210"></a>210  Detention of unseaworthy and substandard ships
+
+             (1)  If it appears to the Authority that a ship is unseaworthy or substandard, the Authority may order the ship to be provisionally detained.
+
+             (2)  The Authority shall immediately give the master of the ship notice of the provisional detention, together with a statement of the grounds of the detention.
+
+             (3)  The Authority shall direct a person to prepare a report as to whether the ship is unseaworthy or substandard.
+
+             (4)  The ship shall be surveyed by a surveyor if a survey is necessary for the preparation of the report.
+
+             (5)  Unless the Authority decides to order the ship to be unconditionally released, the Authority shall provide the master of the ship with a copy of the report.
+
+             (6)  On receipt of the report, the Authority may:
+
+                     (a)  order the ship to be finally detained; or
+
+                     (b)  order its release unconditionally or on such conditions as the Authority considers appropriate.
+
+             (7)  If an order for the final detention of the ship is made, the ship shall not be released until the Authority is satisfied that its further detention is no longer necessary, and orders its release.
+
+##### <a id="211"></a>211  Costs of detention
+
+             (1)  If it appears that there was no reasonable and probable cause for the provisional detention of the ship, the Authority shall be liable to pay to the owner of the ship his or her costs of and incidental to the detention and survey of the ship, and also compensation for any loss or damage sustained by the owner by reason of the detention or survey.
+
+             (2)  If:
+
+                     (a)  a ship is finally detained under this Division;
+
+                     (b)  a ship is provisionally detained under this Division and the ship was, at the time of detention, unseaworthy or substandard; or
+
+                     (c)  a ship is detained in pursuance of a provision of this Part which provides for the detention of a ship until a certain event occurs;
+
+the owner of the ship is liable to pay to the Authority the costs of and incidental to the detention and survey of the ship and those costs are recoverable by the Authority in a Court of summary jurisdiction.
+
+##### <a id="212"></a>212  Taking detained ship to sea
+
+                   If the master of any ship legally detained under this Division takes the ship to sea before it is duly released, the master shall be guilty of an offence punishable on conviction by a fine not exceeding $20,000 or imprisonment for a period not exceeding 10 years, or both.
+
+##### <a id="213"></a>213  Security for costs
+
+             (1)  Where a complaint is made to the Authority that a ship is unseaworthy or substandard, the Authority may, if it thinks fit, require the complainant to give security to its satisfaction for any costs and compensation which it may become liable to pay in consequence of the detention and survey of the ship.
+
+             (2)  Provided that where the complaint is made by 3 or more of the seamen belonging to the ship, and is not in the opinion of the Authority frivolous or vexatious, such security shall not be required, and the Authority shall, if the complaint is made in sufficient time before the sailing of the ship, take proper steps for ascertaining whether the ship ought to be detained.
+
+##### <a id="214"></a>214  Circumstances where complainant liable for costs of detention
+
+                   Where a ship is detained in consequence of any complaint, and the circumstances are such that the Authority or the Commonwealth would be liable to pay compensation or costs to the owner of the ship, the complainant shall pay to the Authority all costs incurred and compensation paid by it on account of the detention and survey of the ship.
+
+### Division 4—Life-saving appliances and fire protection
+
+##### <a id="215"></a>215  Regulations may make provision in relation to life-saving and fire prevention
+
+             (1)  The regulations may make provision for or in relation to:
+
+                     (a)  the saving of life at sea; and
+
+                     (b)  the prevention, detection and extinction of fire on ships.
+
+             (2)  Without limiting the generality of subsection (1), the regulations which may be made by virtue of that subsection include regulations for or in relation to:
+
+                     (a)  the appliances to be carried, and the measures to be observed, on ships for the saving of life at sea and the prevention, detection and extinction of fire on ships; and
+
+                     (b)  the exemption of ships from any requirement of this Act that relates to the saving of life at sea or the prevention, detection or extinction of fire on ships.
+
+##### <a id="216A"></a>216A  Modification of certificates in respect of life-saving appliances
+
+             (1)  If, on any international voyage, a passenger steamship, registered in Australia, in respect of which a passenger ship safety certificate or a passenger ship short voyage safety certificate is in force, has on board a total number of persons less than the number stated in that certificate to be the number for which the life-saving appliances on the steamship provide, the Authority or any person authorized by it for the purpose, may, at the request of the master of the steamship, issue a memorandum stating the total number of persons carried on the steamship on that voyage, and the consequent modifications which may be made for the purpose of that voyage in the particulars with respect to life-saving appliances stated in the certificate, and that memorandum shall be annexed to the certificate.
+
+             (2)  Every such memorandum shall be returned to the Authority at the end of the voyage to which it relates.
+
+##### <a id="217"></a>217  Offences as to appliances
+
+             (1)  If a ship that does not carry every prescribed life-saving appliance and every prescribed fire appliance goes to sea, the owner of the ship and the master of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+
+          (1A)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  If the owner of a ship or the master of a ship permits, through neglect, the loss of, or damage to, a life-saving appliance or a fire appliance carried by the ship, the owner or the master, as the case may be, is guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+
+             (3)  If:
+
+                     (a)  a life-saving appliance, or a fire appliance, that is carried by a ship is lost and is not replaced at the first opportunity;
+
+                     (b)  a life-saving appliance, or a fire appliance, carried by a ship suffers damage and is not repaired at the first opportunity; or
+
+                     (c)  at any time a life-saving appliance, or a fire appliance, that is carried by a ship is not fit and ready for use;
+
+the owner of the ship and the master of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+
+             (4)  An offence under subsection (3) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+### Division 5—Load lines
+
+##### <a id="218"></a>218  Interpretation
+
+             (1)  In this Division, unless the contrary intention appears:
+
+                    <a name="australian-load-line-certif"></a>**_Australian load line certificate_** means a certificate issued under paragraph 222(b).
+
+                    <a name="intern-load-line-certif"></a>**_international load line certificate_** means a certificate issued under paragraph 222(a).
+
+                    <a name="intern-load-line-exempt-certif"></a>**_international load line exemption certificate_** means a certificate issued under section 223.
+
+                    <a name="load-line"></a>**_load line_** means a load line other than a subdivision load line.
+
+                    <a name="load-line-convent-countri"></a>**_Load Line Convention country_** means a country or territory specified in a notice under section 219.
+
+                    <a name="non-australian-load-line-convent-ship"></a>**_non-Australian Load Line Convention ship_** means a ship that is registered in a Load Line Convention country and is a ship to which the Load Line Convention applies.
+
+                    <a name="ship-load-line-convent-appli"></a>**_ship to which the Load Line Convention applies_** means a ship to which, in accordance with Articles 4 and 5 of the Load Line Convention, that Convention applies.
+
+                    <a name="condition-assign"></a>**_the conditions of assignment_** means the regulations which give effect to Chapter II of Annex I to the Load Line Convention, including any application of those regulations to ships or a class of ships not engaged on international voyages or to which the Load Line Convention does not otherwise apply.
+
+                    <a name="valid-load-line-convent-certif"></a>**_valid Load Line Convention certificate_** means a certificate in the form of the International Load Line Certificate set out in Annex III to the Load Line Convention, being a certificate that:
+
+                     (a)  is issued in respect of a non-Australian Load Line Convention ship by or with the authority of the government of the country in which the ship is registered; and
+
+                     (b)  complies with such requirements as are prescribed.
+
+                    <a name="valid-load-line-convent-exempt-certif"></a>**_valid Load Line Convention exemption certificate_** means a certificate in the form of the International Load Line Exemption Certificate set out in Annex III to the Load Line Convention, being a certificate that:
+
+                     (a)  is issued in respect of a non-Australian Load Line Convention ship by or with the authority of the government of the country in which the ship is registered; and
+
+                     (b)  complies with such requirements as are prescribed.
+
+##### <a id="219"></a>219  Declaration of Load Line Convention countries
+
+                   The Authority may, by notice published in the _Gazette_, declare that, for the purposes of this Part, a country or territory, other than Australia, specified in the notice is a Load Line Convention country or territory.
+
+##### <a id="220"></a>220  Load line regulations
+
+             (1)  The regulations may make provision for and in relation to giving effect to the Load Line Convention and generally may make provision for and in relation to load lines, including the assigning of, and the survey of ships for the purpose of assigning, load lines to ships and the marking of load lines on ships.
+
+             (2)  Any regulations or orders that make provision for or in relation to giving effect to the Load Line Convention may be expressed to apply to a ship, or a class of ships, that is not engaged on international voyages or to which the Load Line Convention does not otherwise apply, and may be expressed so to apply without modification or with modifications specified in or to be determined under the regulations or orders, as the case may be.
+
+##### <a id="221"></a>221  Exemptions
+
+             (1)  The Authority may, in relation to a ship that is registered in Australia and is a ship to which the Load Line Convention applies, exercise the right conferred on the government of the Commonwealth by paragraph (1) of Article 6 of the Load Line Convention to exempt a ship from the provisions of the Convention, and a ship so exempted, and the master and owner of the ship, are exempt from compliance with any provision of this Division, or any provision of the regulations, that gives effect to the provisions of the Convention.
+
+          (1A)  An exemption granted by the Authority under subsection (1) may be granted subject to the condition that such safety requirements as are specified by the Authority in relation to the ship are complied with.
+
+          (1B)  The powers of the Authority under subsection (1) to grant an exemption in respect of a ship extend to granting exemptions in respect of ships included in a class of ships.
+
+          (1C)  Where safety requirements specified by the Authority under subsection (1A) in relation to a ship are not complied with, the master and owner of the ship are each guilty of an offence punishable on conviction by imprisonment for a period not exceeding 4 years.
+
+          (1D)  An offence under subsection (1C) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  The Authority may, in relation to a ship that is registered in Australia and is a ship to which the Load Line Convention applies, exercise the right conferred on the government of the Commonwealth by paragraph (2) of Article 6 of the Load Line Convention to exempt a ship from a provision of the Convention, and a ship so exempted, and the master and owner of the ship, are exempt from compliance with any provision of this Division, or any provision of the regulations or orders, that gives effect to that provision of the Convention.
+
+             (3)  An exemption granted by the Authority under subsection (2) may be granted subject to the condition that such safety requirements as are specified by the Authority in relation to the ship are complied with.
+
+             (4)  Where safety requirements specified by the Authority in relation to a ship under subsection (3) are not complied with, the master and the owner of the ship are each guilty of an offence punishable on conviction by imprisonment for a period not exceeding 4 years.
+
+          (4A)  An offence under subsection (4) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (5)  Where a ship registered in Australia, being a ship that is not ordinarily engaged on international voyages but would be a ship to which the Load Line Convention applies if it were engaged on international voyages, undertakes, in exceptional circumstances, a single international voyage, the Authority may, if it is satisfied that the ship complies with safety requirements that, in its opinion, are adequate for the voyage, exempt the ship or the master and owner of the ship, in respect of that voyage, from compliance with any provision of this Division, or any provision of the regulations or orders that relates to load lines.
+
+             (6)  Where the Authority is satisfied that it would be unreasonable or impracticable to apply this Division, or a provision of this Division or a provision of the regulations or orders that relates to load lines, to or in relation to a ship that is not a ship to which the Load Line Convention applies, it may, subject to such conditions as it thinks fit for ensuring the safety of the ship and the passengers and crew of the ship, exempt the ship, or the master and owner of the ship, from compliance with the provisions of this Division or from compliance with that provision of this Division or of that provision of the regulations or orders, as the case may be.
+
+             (7)  The powers of the Authority under subsection (6) to grant an exemption in respect of a ship extend to granting exemptions in respect of ships included in a class of ships.
+
+             (8)  Where a condition specified by the Authority under subsection (6) is not complied with in relation to a ship, the master and owner of the ship are each guilty of an offence punishable on conviction by imprisonment for a period not exceeding 4 years.
+
+             (9)  An offence under subsection (8) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+##### <a id="222"></a>222  Issue of load line certificates
+
+                   Where a ship, other than a non-Australian Load Line Convention ship, except to the extent of any exemption granted by the Authority under section 221, has been surveyed and marked in accordance with the regulations and orders and complies with the conditions of assignment applicable to the ship, the Authority, or a survey authority authorized in writing by the Authority to issue certificates under this section, may issue in respect of the ship:
+
+                     (a)  if the ship is registered in Australia and is a ship to which the Load Line Convention applies or would be such a ship if it were engaged on international voyages—a certificate in the form of the International Load Line Certificate set out in Annex III to the Load Line Convention; or
+
+                     (b)  in any other case—a load line certificate in a form approved by the Authority by instrument in writing.
+
+##### <a id="223"></a>223  Issue of exemption certificates
+
+                   Where, under subsection 221(2) or (5), a ship is exempted from compliance with a provision of this Division or a provision of the regulations or orders, the Authority shall issue in respect of the ship a certificate in the form of the International Load Line Exemption Certificate set out in Annex III to the Load Line Convention.
+
+##### <a id="224"></a>224  Duration, extension and cancellation of certificates
+
+             (1)  Subject to this Act, an international load line certificate, an international load line exemption certificate or an Australian load line certificate remains in force for the period specified in the certificate.
+
+          (1A)  The period specified in a certificate under subsection (1) must not exceed such period as is prescribed for that kind of certificate.
+
+             (2)  Provision may be made in the regulations for and in relation to:
+
+                     (a)  the extension, in accordance with paragraph (2) of Article 19 of the Load Line Convention, of an international load line certificate or an international load line exemption certificate issued in respect of an exemption granted under subsection 221(2); and
+
+                     (b)  the cancellation, in accordance with paragraph (3) of Article 19 of the Load Line Convention, of such a certificate.
+
+             (3)  An international load line certificate or an international load line exemption certificate ceases to have effect if the ship in respect of which it was issued ceases to be registered in Australia.
+
+             (4)  The regulations may specify circumstances in which an Australian load line certificate ceases to have effect and may make provision for and in relation to the extension or cancellation of an Australian load line certificate.
+
+             (5)  Where an international load line certificate, an international load line exemption certificate or an Australian load line certificate is cancelled, the certificate is of no force or effect after the Authority has given notice in writing of the cancellation to the owner, agent or master of the ship in respect of which the certificate was issued.
+
+             (6)  Where an international load line certificate, an international load line exemption certificate or an Australian load line certificate has expired or has been cancelled, the Authority may require the owner or master of the ship in respect of which the certificate was issued to deliver up the certificate to the Authority or to such other person as the Authority directs, and the ship may be detained until the requirement is complied with.
+
+##### <a id="225"></a>225  Particulars in certificate to be entered in log-book
+
+             (2)  The master of a ship in respect of which an international load line certificate or an Australian load line certificate has been issued shall enter in the official log-book of the ship particulars of the position of the deck line and load lines specified in the certificate.
+
+                    Penalty:  10 penalty units.
+
+##### <a id="226"></a>226  Authority may issue certificate at request of Load Line Convention country
+
+             (1)  Where:
+
+                     (a)  the government of a Load Line Convention country requests the Authority to issue or authorise the issue of, or to endorse or authorise the endorsement of, in respect of a ship that is registered in that country and is a ship to which the Load Line Convention applies, a certificate in the form of the International Load Line Certificate set out in Annex III to the Convention; and
+
+                     (b)  the Authority is satisfied that the ship complies with the provisions of the Convention;
+
+it may issue or authorise the issue of, or to endorse or authorise the endorsement of, in respect of the ship a certificate in that form.
+
+             (2)  A certificate issued or endorsed under this section:
+
+                     (a)  shall contain a statement to the effect that it has been issued or endorsed at the request of the government of the country in which the ship is registered; and
+
+                     (b)  has effect, for the purposes of this Division, as if it had been issued or endorsed by that government.
+
+##### <a id="227"></a>227  Authority may request Load Line Convention country to issue certificates
+
+             (1)  The Authority may request the government of a Load Line Convention country to issue, or cause to be is
