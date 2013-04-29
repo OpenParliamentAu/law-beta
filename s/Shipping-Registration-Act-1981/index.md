@@ -1,19 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2006C00573/Html/ShippingRegistration1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00192/Html/4015CBE27CBADE15CA2571560023F57D/$FILE/image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 6 October 2006
- taking into account amendments up to Act No. 24 of 2006
+This compilation was prepared on 13 April 2006
+taking into account amendments up to Act No. 24 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -247,6 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act providing for the registration of ships in Australia, and for related matters
 
 ## Part I—Preliminary
@@ -259,7 +261,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
-##### <a id="3"></a>3  Interpretation
+##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -429,7 +431,7 @@ but does not include a vessel, structure, vehicle or craft declared by the regul
 
 ##### <a id="5"></a>5  Act to bind the Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="6"></a>6  Application of Act
 
@@ -1089,7 +1091,7 @@ to indicate the closure of the registration of the ship, so far as it relates to
 
              (2)  Every caveat shall state the name and address of the caveator and shall contain a sufficient description to identify the ship or the share in the ship in which the caveator claims an interest and the interest claimed by the caveator and shall be signed by the caveator or by his or her solicitor or agent.
 
-             (3)  A caveat shall not be entered in the Register by the Registrar unless there is specified in the caveat an address in   Australia at which notices relating to the caveat or to proceedings in respect of the caveat may be served.
+             (3)  A caveat shall not be entered in the Register by the Registrar unless there is specified in the caveat an address in Australia at which notices relating to the caveat or to proceedings in respect of the caveat may be served.
 
              (4)  Where a person entitled to withdraw a caveat notifies the Registrar, by lodging a notice in the prescribed form, that the name of the caveator or the address for service of notices on the caveator has been changed from the name or address specified in the caveat, the Registrar shall record on the caveat and in the Register the name or address so notified and that name or address shall thereupon be the name of, or the address for service of notices on, the caveator.
 
@@ -1235,17 +1237,7 @@ and may at any time terminate such an appointment.
 
 ##### <a id="57"></a>57  Inspection of Register
 
-             (1)  The Register may be inspected at the Registration Office.
-
-Note:          Since 1992 all entries in the Register have been made electronically.
-
-             (2)  The Registrar may also, to the extent that the Register has been maintained in electronic form, provide for it to be inspected electronically otherwise than at the Registration Office by using the Internet or another communications network that is prescribed by the regulations.
-
-             (3)  A person may, on payment of the prescribed fee (if any), inspect the Register at any reasonable time during the hours when the Registration Office is open for business and, on payment of a prescribed fee, is entitled to be provided with a copy of, or an extract from, any entry on the Register.
-
-             (4)  If the Registrar has made provision for electronic inspection of the Register otherwise than at the Registration Office, a person may, on payment of the prescribed fee (if any), electronically inspect the Register and make a copy of any electronic entry in the Register.
-
-             (5)  The prescribed fee (if any) for inspection of the Register at the Registration Office may be different from the prescribed fee (if any) for electronic inspection of the Register otherwise than at the Registration Office.
+                   A person may, on payment of the prescribed fee (if any), inspect the Register at any reasonable time during the hours when the Registration Office, or branch office, as the case may be, is open for business and, on payment of the prescribed fee, is entitled to be furnished with a copy of, or extract from, any entry in the Register.
 
 ##### <a id="58"></a>58  Obsolete or incorrect entries in Register
 
@@ -1915,6 +1907,7 @@ or to do both, within a specified period (not being less than 30 days) after the
 
              (2)  The power to make regulations under subsection (1) extends to the making of regulations expressed to take effect on and from a date earlier than the date of the making of the regulations, not being a date earlier than the commencing date. 
 
+
 # Notes to the _Shipping Registration Act 1981_
 
 ### Note 1
@@ -1942,11 +1935,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1956,312 +1951,323 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Shipping Registration Act 1981</div>
-  </td>
-  <td>
-    <div>8, 1981</div>
-  </td>
-  <td>
-    <div>25 Mar 1981</div>
-  </td>
-  <td colspan="2">
-    <div>26 Jan 1982 ( <i>see Gazette</i>1981, No. G51, p. 2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 18 July 1983 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 7(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Shipping Registration Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>16, 1984</div>
-  </td>
-  <td>
-    <div>26 Apr 1984</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1 and 2: Royal Assent 
-S. 8: 1 Oct 1986 ( <i>see Gazette</i>1986, No. S491) 
-Remainder: 1 Oct 1985 ( <i>see Gazette</i>1985, No. S394)</div>
-  </td>
-  <td>
-    <div>Ss. 9(2) and 28</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
-  </td>
-  <td>
-    <div>165, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 6(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Reform Act 1984</div>
-  </td>
-  <td>
-    <div>63, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td colspan="2">
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 151(9)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
-  </td>
-  <td>
-    <div>193, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
-  </td>
-  <td>
-    <div>141, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Admiralty Act 1988</div>
-  </td>
-  <td>
-    <div>34, 1988</div>
-  </td>
-  <td>
-    <div>22 May 1988</div>
-  </td>
-  <td colspan="2">
-    <div>1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>57, 1988</div>
-  </td>
-  <td>
-    <div>15 June 1988</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 3(1), (2), 5, 6, 17 and 18: 1 July 1988 ( <i>see Gazette</i>1988, No. S193) 
-S. 7: 1 May 1989 ( <i>see Gazette</i>1989, No. S150) 
-Ss. 10–12, 14 and 15: 13 June 1986 ( <i>see</i>s. 2(2) and <i>Gazette</i>1986, No. S269) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 3(6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ANL (Conversion into Public Company) Act 1988</div>
-  </td>
-  <td>
-    <div>127, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td colspan="2">
-    <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Maritime Safety Authority Act 1990</div>
-  </td>
-  <td>
-    <div>78, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 35, 48, 62 and 63: 1 Jan 1991 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 63(1) and (2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 138–140): Royal Assent <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 815–817): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      <div>Shipping Registration Act 1981</div>
     </td>
     <td>
-      <div>143, 2001</div>
+      <div>8, 1981</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>25 Mar 1981</div>
     </td>
     <td colspan="2">
-      <div>2 Oct 2001</div>
+      <div>26 Jan 1982 ( <i>see Gazette</i>1981, No. G51, p. 2)</div>
     </td>
     <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Maritime Legislation Amendment Act 2006</div>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
     </td>
     <td>
-      <div>24, 2006</div>
+      <div>39, 1983</div>
     </td>
     <td>
-      <div>6 Apr 2006</div>
+      <div>20 June 1983</div>
     </td>
     <td colspan="2">
-      <div>Schedule 4 (items 1–5, 7–9): 7 Apr 2006 
-Schedule 4 (item 6): 6 Oct 2006</div>
+      <div>S. 3: 18 July 1983 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 7(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Shipping Registration Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>16, 1984</div>
+    </td>
+    <td>
+      <div>26 Apr 1984</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1 and 2: Royal Assent 
+S. 8: 1 Oct 1986 ( <i>see Gazette</i>1986, No. S491) 
+Remainder: 1 Oct 1985 ( <i>see Gazette</i>1985, No. S394) 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 9(2) and 28</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+    </td>
+    <td>
+      <div>165, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(b)</i></div>
+    </td>
+    <td>
+      <div>S. 6(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Reform Act 1984</div>
+    </td>
+    <td>
+      <div>63, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td colspan="2">
+      <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 151(9)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
+    </td>
+    <td>
+      <div>193, 1985</div>
+    </td>
+    <td>
+      <div>16 Dec 1985</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 16</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: <i>(e)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+    </td>
+    <td>
+      <div>141, 1987</div>
+    </td>
+    <td>
+      <div>18 Dec 1987</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Admiralty Act 1988</div>
+    </td>
+    <td>
+      <div>34, 1988</div>
+    </td>
+    <td>
+      <div>22 May 1988</div>
+    </td>
+    <td colspan="2">
+      <div>1 Jan 1989 ( <i>see Gazette</i>1988, No. S359)</div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
-</thead>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+  <tr>
+    <td>
+      <div>Transport Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>57, 1988</div>
+    </td>
+    <td>
+      <div>15 June 1988</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 3(1), (2), 5, 6, 17 and 18: 1 July 1988 ( <i>see Gazette</i>1988, No. S193) 
+S. 7: 1 May 1989 ( <i>see Gazette</i>1989, No. S150) 
+Ss. 10–12, 14 and 15: 13 June 1986 ( <i>see</i>s. 2(2) and <i>Gazette</i>1986, No. S269) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 3(6)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>ANL (Conversion into Public Company) Act 1988</div>
+    </td>
+    <td>
+      <div>127, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td colspan="2">
+      <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Maritime Safety Authority Act 1990</div>
+    </td>
+    <td>
+      <div>78, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 35, 48, 62 and 63: 1 Jan 1991 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 63(1) and (2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 5 (items 138–140): Royal Assent <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 815–817): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>143, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td colspan="2">
+        <div>2 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4 \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Maritime Legislation Amendment Act 2006</div>
+      </td>
+      <td>
+        <div>24, 2006</div>
+      </td>
+      <td>
+        <div>6 Apr 2006</div>
+      </td>
+      <td colspan="2">
+        <div>Schedule 4 (items 1–5, 7–9): 7 Apr 2006 
+Schedule 4 (item 6): \[ <i>see</i>Note 2] 
+</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr height="0">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</tbody></table>
+
 
 _(a)_     The _Shipping Registration Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
@@ -2271,7 +2277,7 @@ _(b)_    The _Shipping Registration Amendment Act 1984_ was amended by sec
 
                (24)   The amendments of the _Shipping Registration Amendment Act 1984_ made by this Act shall come into operation, or be deemed to have come into operation, as the case requires, on the commencement of section 20 of that Act.
 
- Section 20 commenced on1 October 1985 (_see Gazette_ 1985, No. S394).
+Section 20 commenced on1 October 1985 (_see Gazette_ 1985, No. S394).
 
 _(c)_     The _Shipping Registration Act 1981_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
@@ -2285,7 +2291,7 @@ _(d)_     The _Shipping Registration Act 1981_ was amended by section 
 
                (14)   The amendments of subsections 74(1) and (2) of the _Shipping Registration Act 1981_ made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after the commencement of section 23 of the _Shipping Registration Amendment Act 1984_.
 
- Sections 15, 18 and 23 commenced on 1 October 1985 (_see Gazette_ 1985, No. S394).
+Sections 15, 18 and 23 commenced on 1 October 1985 (_see Gazette_ 1985, No. S394).
 
 _(e)_     The _Shipping Registration Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsections 2(1), (22) and (23) of which provide as follows:
 
@@ -2295,9 +2301,9 @@ _(e)_     The _Shipping Registration Act 1981_ was amended by section 
 
                (23)   The amendment of subsection 47A(1) of the _Shipping Registration Act 1984_ made by this Act shall be deemed to have come into operation immediately after section 18 of the _Shipping Registration Amendment Act 1984_ came into operation.
 
- Section 8 commenced on 1 October 1986 (_see Gazette_ 1986, No. S491).
+Section 8 commenced on 1 October 1986 (_see Gazette_ 1986, No. S491).
 
- Section 18 commenced on 1 October 1985 (_see Gazette_ 1985, No. S394).
+Section 18 commenced on 1 October 1985 (_see Gazette_ 1985, No. S394).
 
 _(f)_      The _Shipping Registration Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
@@ -2316,6 +2322,7 @@ _(i)_      The _Shipping Registration Act 1981_ was amended by Schedul
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
+
 
 ## Table of Amendments
 
@@ -2340,614 +2347,638 @@ _(i)_      The _Shipping Registration Act 1981_ was amended by Schedul
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9, 10</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987; No. 78, 1990; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22B</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32, 33</div>
-  </td>
-  <td>
-    <div>rs. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36, 37</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37A</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 57, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 193, 1985; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 43, 44</div>
-  </td>
-  <td>
-    <div>rs. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47A, 47B</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47C</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 193, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47D, 47E</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1984; No. 78, 1990; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 52, 53</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 146, 1999; No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984 (as am. by No. 165, 1984); No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001; No. 24, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 78, 1990; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 68, 69</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 193, 1985; No. 141, 1987; No. 57, 1988; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 39, 1983; No. 16, 1984; No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 81, 82</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94A</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 34, 1988</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9, 10</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 141, 1987; No. 78, 1990; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22A</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22B</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>rep. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 32, 33</div>
+    </td>
+    <td>
+      <div>rs. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>rep. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36, 37</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37A</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 57, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 193, 1985; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 43, 44</div>
+    </td>
+    <td>
+      <div>rs. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 47A, 47B</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 76, 1986; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47C</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 193, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 47D, 47E</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 63, 1984; No. 78, 1990; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 52, 53</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 146, 1999; No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984 (as am. by No. 165, 1984); No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 65</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001; No. 24, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 78, 1990; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 68, 69</div>
+    </td>
+    <td>
+      <div>am. No. 141, 1987; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 74</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 193, 1985; No. 141, 1987; No. 57, 1988; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75</div>
+    </td>
+    <td>
+      <div>am. No. 141, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 39, 1983; No. 16, 1984; No. 78, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 81, 82</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 93</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 94A</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 34, 1988</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Maritime Legislation Amendment Act 2006 (No. 24, 2006)_
+
+The following amendment commences on 6 October 2006:
+
+## Schedule 1
+
+## 6  Section 57
+
+Repeal the section, substitute:
+
+##### <a id="57"></a>57  Inspection of Register
+
+             (1)  The Register may be inspected at the Registration Office.
+
+Note:          Since 1992 all entries in the Register have been made electronically.
+
+             (2)  The Registrar may also, to the extent that the Register has been maintained in electronic form, provide for it to be inspected electronically otherwise than at the Registration Office by using the Internet or another communications network that is prescribed by the regulations.
+
+             (3)  A person may, on payment of the prescribed fee (if any), inspect the Register at any reasonable time during the hours when the Registration Office is open for business and, on payment of a prescribed fee, is entitled to be provided with a copy of, or an extract from, any entry on the Register.
+
+             (4)  If the Registrar has made provision for electronic inspection of the Register otherwise than at the Registration Office, a person may, on payment of the prescribed fee (if any), electronically inspect the Register and make a copy of any electronic entry in the Register.
+
+             (5)  The prescribed fee (if any) for inspection of the Register at the Registration Office may be different from the prescribed fee (if any) for electronic inspection of the Register otherwise than at the Registration Office.
+
+As at 13 April 2006 the amendment is not incorporated in this compilation.
+
 
 ## Table A
 
@@ -2960,5 +2991,6 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
