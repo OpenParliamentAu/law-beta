@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00722/Html/Archives1983_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00382/Html/Archives1983_WD02_image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 June 2010
  taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
@@ -352,14 +352,6 @@ other than material (if any) that came to be so included by reason of a contrave
 
                     <a name="object"></a>**_object_** does not include a building or other structure or a vessel, aircraft or vehicle, other than a prescribed vessel, aircraft or vehicle.
 
-                    <a name="open-access-period"></a>**_open access period_**, in relation to a record, has the meaning given by the following provisions:
-
-                     (a)  for a Cabinet notebook—section 22A;
-
-                     (b)  for a record containing Census information—section 22B;
-
-                     (c)  for any other record—subsection (7) of this section.
-
                     <a name="parliamentari-depart"></a>**_Parliamentary Department_** means a Department of the Parliament established under the _Parliamentary Service Act 1999_.
 
                     <a name="person"></a>**_person_** includes a Commonwealth institution or an organization.
@@ -428,195 +420,9 @@ but do not include:
 
              (6)  The regulations may make provision under which, in specified cases or circumstances, records of which the Commonwealth or a Commonwealth institution has, or is entitled to have, possession are to be deemed to be Commonwealth records for the purposes of the provisions, or specified provisions, of this Act.
 
-             (7)  For the purposes of this Act, subject to sections 22A and 22B, work out when a record is in the **_open access period_** in accordance with the following table:
+             (7)  For the purposes of this Act, a record is in the open access period if a period of 30 years has elapsed since the end of the year ending on 31 December in which the record came into existence.
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="40%">
-  <col width="50%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Open access period for records</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If the record came into existence in any of the following years (ending
-          on 31 December):</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the record is in the open access period on and after the following day:</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>a year (the
-      <b>
-        <i>creation year</i>
-      </b>) before 1980</div>
-  </td>
-  <td>
-    <div>1 January in the year that is 31 years after the creation year.</div>
-    <div>Example: A record that came into existence in the year 1979 is in the open access period on and after 1 January 2010.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>1980 or 1981</div>
-  </td>
-  <td>
-    <div>1 January 2011.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>1982 or 1983</div>
-  </td>
-  <td>
-    <div>1 January 2012.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>1984 or 1985</div>
-  </td>
-  <td>
-    <div>1 January 2013.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>1986 or 1987</div>
-  </td>
-  <td>
-    <div>1 January 2014.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>1988 or 1989</div>
-  </td>
-  <td>
-    <div>1 January 2015.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>1990 or 1991</div>
-  </td>
-  <td>
-    <div>1 January 2016.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>1992 or 1993</div>
-  </td>
-  <td>
-    <div>1 January 2017.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>1994 or 1995</div>
-  </td>
-  <td>
-    <div>1 January 2018.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>1996 or 1997</div>
-  </td>
-  <td>
-    <div>1 January 2019.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>1998 or 1999</div>
-  </td>
-  <td>
-    <div>1 January 2020.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>2000</div>
-  </td>
-  <td>
-    <div>1 January 2021.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>a year (the
-      <b>
-        <i>creation year</i>
-      </b>) after 2000</div>
-  </td>
-  <td>
-    <div>1 January in the year that is 21 years after the creation year.</div>
-    <div>Example: A record that came into existence in the year 2001 is in the open access period on and after 1 January 2022.</div>
-  </td>
-</tr></table>
-
-Note:          Cabinet notebooks and records containing Census information have different open access periods (see sections 22A and 22B).
+Note:          Records containing Census information, and Cabinet notebooks, have different open access periods: see sections 22A and 22B.
 
              (8)  Nothing in this Act shall be taken to confer power on the Archives to affect the custody of:
 
@@ -942,196 +748,7 @@ concerning the application of those provisions to those records.
 
 ##### <a id="22A"></a>22A  Cabinet notebooks
 
-             (1)  For the purposes of this Act, work out when a Cabinet notebook is in the **_open access period_** in accordance with the following table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="40%">
-  <col width="50%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Open access period for Cabinet notebooks</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If the Cabinet notebook came into existence in any of the following years
-          (ending on 31 December):</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the Cabinet notebook is in the open access period on and after the following
-          day:</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>a year (the
-      <b>
-        <i>creation year</i>
-      </b>) before 1960</div>
-  </td>
-  <td>
-    <div>1 January in the year that is 51 years after the creation year.</div>
-    <div>Example: A Cabinet notebook that came into existence in the year 1959 is in the open access period on and after 1 January 2010.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>1960, 1961 or 1962</div>
-  </td>
-  <td>
-    <div>1 January 2011.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>1963, 1964 or 1965</div>
-  </td>
-  <td>
-    <div>1 January 2012.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>1966, 1967 or 1968</div>
-  </td>
-  <td>
-    <div>1 January 2013.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>1969, 1970 or 1971</div>
-  </td>
-  <td>
-    <div>1 January 2014.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>1972, 1973 or 1974</div>
-  </td>
-  <td>
-    <div>1 January 2015.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>1975, 1976 or 1977</div>
-  </td>
-  <td>
-    <div>1 January 2016.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>1978, 1979 or 1980</div>
-  </td>
-  <td>
-    <div>1 January 2017.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>1981, 1982 or 1983</div>
-  </td>
-  <td>
-    <div>1 January 2018.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>1984, 1985 or 1986</div>
-  </td>
-  <td>
-    <div>1 January 2019.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>1987, 1988 or 1989</div>
-  </td>
-  <td>
-    <div>1 January 2020.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>1990</div>
-  </td>
-  <td>
-    <div>1 January 2021.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>a year (the
-      <b>
-        <i>creation year</i>
-      </b>) after 1990</div>
-  </td>
-  <td>
-    <div>1 January in the year that is 31 years after the creation year.</div>
-    <div>Example: A Cabinet notebook that came into existence in the year 1991 is in the open access period on and after 1 January 2022.</div>
-  </td>
-</tr></table>
-
-Note:          Records that are not Cabinet notebooks have different open access periods (see subsection 3(7) (general records) and section 22B (records containing Census information)).
+             (1)  For the purposes of the application of this Act in relation to Cabinet notebooks, a Cabinet notebook is in the open access period if a period of 50 years has elapsed since the end of the year ending on 31 December in which the Cabinet notebook came into existence.
 
              (2)  Subsection 3(7) does not apply in relation to Cabinet notebooks.
 
@@ -1205,7 +822,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  A person is guilty of an offence if:
 
-                     (a)  a Commonwealth record has been in existence for more than 15 years; and
+                     (a)  a Commonwealth record has been in existence for more than 25 years; and
 
                      (b)  the person engages in conduct; and
 
@@ -1239,7 +856,7 @@ Note:          In certain circumstances a Commonwealth institu
 
                      (a)  if the record ceases to be a current Commonwealth record—as soon as practicable after the record ceases to be a current Commonwealth record; and
 
-                     (b)  in any event—within 15 years of the record coming into existence.
+                     (b)  in any event—within 25 years of the record coming into existence.
 
 ##### <a id="28"></a>28  Archives to have access to records
 
@@ -1331,7 +948,7 @@ the person so responsible may forthwith notify the Archives that he or she so co
 
 Note:          Arrangements under section 64 for a person (other than the Archives) to have custody of a Commonwealth record must enable the Archives to meet its obligations under this subsection.
 
-             (2)  A record that has been in existence for more than 15 years must not be made available to a Commonwealth institution under subsection (1) in a manner that involves its leaving the custody of the person who has the custody of the record, except as necessary for the proper conduct of the business of the Commonwealth institution.
+             (2)  A record that has been in existence for more than 25 years must not be made available to a Commonwealth institution under subsection (1) in a manner that involves its leaving the custody of the person who has the custody of the record, except as necessary for the proper conduct of the business of the Commonwealth institution.
 
 ##### <a id="30A"></a>30A  Non-disclosure of Census information
 
@@ -1399,13 +1016,7 @@ Note:          If the record is material of the Archives, the 
 
                      (a)  information or matter the disclosure of which under this Act could reasonably be expected to cause damage to the security, defence or international relations of the Commonwealth;
 
-                     (b)  information or matter:
-
-                              (i)  that was communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation (the **_foreign entity_**) to the Government of the Commonwealth, to an authority of the Commonwealth or to a person who received the communication on behalf of the Commonwealth or an authority of the Commonwealth (the **_Commonwealth entity_**); and
-
-                             (ii)  which the foreign entity advises the Commonwealth entity is still confidential; and
-
-                            (iii)  the confidentiality of which it would be reasonable to maintain;
+                     (b)  information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organization to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth, being information or matter the disclosure of which under this Act would constitute a breach of that confidence;
 
                      (c)  information or matter the disclosure of which under this Act would have a substantial adverse effect on the financial or property interests of the Commonwealth or of a Commonwealth institution and would not, on balance, be in the public interest;
 
@@ -1713,21 +1324,13 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                      (a)  the damage that could reasonably be expected to be caused to the security, defence or international relations of the Commonwealth if the record were made available for public access; or
 
-                     (b)  whether it would be reasonable to maintain the confidentiality of information or matter to which both of the following apply by not making the record available for public access:
-
-                              (i)  the information or matter was communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation (the **_foreign entity_**) to the Government of the Commonwealth, to an authority of the Commonwealth or to a person who received the communication on behalf of the Commonwealth or an authority of the Commonwealth (the **_Commonwealth entity_**);
-
-                             (ii)  the foreign entity advises the Commonwealth entity that the information or matter is still confidential.
+                     (b)  whether making the record available for public access would constitute a breach of confidence by disclosing information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
 
              (3)  Before determining that part of, or a copy of part of, the record is to be made available for public access under section 38, the Tribunal must request the Inspector-General to appear personally and give evidence on:
 
                      (a)  whether making that part, or a copy of that part, of the record available for public access could reasonably be expected to cause damage to the security, defence or international relations of the Commonwealth; or
 
-                     (b)  whether it would be reasonable to maintain the confidentiality of information or matter to which both of the following apply by not making that part, or a copy of that part, of the record available for public access:
-
-                              (i)  the information or matter was communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation (the **_foreign entity_**) to the Government of the Commonwealth, to an authority of the Commonwealth or to a person who received the communication on behalf of the Commonwealth or an authority of the Commonwealth (the **_Commonwealth entity_**);
-
-                             (ii)  the foreign entity advises the Commonwealth entity that the information or matter is still confidential.
+                     (b)  whether making that part, or a copy of that part, of the record available for public access would constitute a breach of confidence by disclosing information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
 
              (4)  Before hearing the evidence of the Inspector-General, the Tribunal must hear any evidence to be given or submissions to be made by or on behalf of:
 
@@ -2749,7 +2352,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 3 (items 1–6, 
-35–37, 40) and Schedule 7: <i>(r)</i></div>
+35–37, 40): \[ <i>see</i> <i>(r)</i>, Note 2 and Table A] 
+Schedule 7: <i>(r)</i></div>
   </td>
   <td>
     <div>Sch. 3 (item 40) \[ <i>see</i>Table A] 
@@ -2938,7 +2542,8 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr>
@@ -2961,7 +2566,8 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2 and Table A]
     </div>
   </td>
 </tr>
@@ -2984,7 +2590,7 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>
-      1 November 2010
+
     </div>
   </td>
 </tr></table>
@@ -3033,7 +2639,7 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007; No. 113, 2008; No. 102, 2009; No. 51, 2010</div>
+    <div>am. No. 109, 1988; No. 80, 1990; No. 196, 1992; No. 33, 1994; No. 10, 1995; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999; No. 30, 2000; No. 5, 2001; No. 135, 2003; No. 10, 2006; No. 158, 2007; No. 113, 2008; No. 102, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3042,14 +2648,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>ad. No. 10, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3238,14 +2836,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 22B</div>
   </td>
   <td>
@@ -3289,7 +2879,7 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 5, 2001; No. 51, 2010</div>
+    <div>am. No. 76, 1986; No. 5, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3298,14 +2888,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>rs. No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3346,14 +2928,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>rs. No. 113, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3409,7 +2983,7 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 10, 1995; No. 43, 1996; No. 125, 2002; No. 86, 2006; No. 51, 2010</div>
+    <div>am. No. 109, 1988; No. 10, 1995; No. 43, 1996; No. 125, 2002; No. 86, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3570,14 +3144,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
   <td>
     <div>ad. No. 99, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3757,6 +3323,461 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
 </tr></table>
 
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 3
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="open-access-period"></a>**_open access period_**, in relation to a record, has the meaning given by the following provisions:
+
+                     (a)  for a Cabinet notebook—section 22A;
+
+                     (b)  for a record containing Census information—section 22B;
+
+                     (c)  for any other record—subsection (7) of this section.
+
+## 2  Subsection 3(7)
+
+Repeal the subsection (including the note), substitute:
+
+             (7)  For the purposes of this Act, subject to sections 22A and 22B, work out when a record is in the **_open access period_** in accordance with the following table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="40%">
+  <col width="50%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Open access period for records</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If the record came into existence in any of the following years (ending
+          on 31 December):</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the record is in the open access period on and after the following day:</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>a year (the
+      <b>
+        <i>creation year</i>
+      </b>) before 1980</div>
+  </td>
+  <td>
+    <div>1 January in the year that is 31 years after the creation year.</div>
+    <div>Example: A record that came into existence in the year 1979 is in the open access period on and after 1 January 2010.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>1980 or 1981</div>
+  </td>
+  <td>
+    <div>1 January 2011.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>1982 or 1983</div>
+  </td>
+  <td>
+    <div>1 January 2012.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>1984 or 1985</div>
+  </td>
+  <td>
+    <div>1 January 2013.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>1986 or 1987</div>
+  </td>
+  <td>
+    <div>1 January 2014.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>1988 or 1989</div>
+  </td>
+  <td>
+    <div>1 January 2015.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>1990 or 1991</div>
+  </td>
+  <td>
+    <div>1 January 2016.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>1992 or 1993</div>
+  </td>
+  <td>
+    <div>1 January 2017.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>1994 or 1995</div>
+  </td>
+  <td>
+    <div>1 January 2018.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>1996 or 1997</div>
+  </td>
+  <td>
+    <div>1 January 2019.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>1998 or 1999</div>
+  </td>
+  <td>
+    <div>1 January 2020.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>2000</div>
+  </td>
+  <td>
+    <div>1 January 2021.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>a year (the
+      <b>
+        <i>creation year</i>
+      </b>) after 2000</div>
+  </td>
+  <td>
+    <div>1 January in the year that is 21 years after the creation year.</div>
+    <div>Example: A record that came into existence in the year 2001 is in the open access period on and after 1 January 2022.</div>
+  </td>
+</tr></table>
+
+Note:          Cabinet notebooks and records containing Census information have different open access periods (see sections 22A and 22B).
+
+## 3  Subsection 22A(1)
+
+Repeal the subsection, substitute:
+
+             (1)  For the purposes of this Act, work out when a Cabinet notebook is in the **_open access period_** in accordance with the following table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="40%">
+  <col width="50%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Open access period for Cabinet notebooks</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If the Cabinet notebook came into existence in any of the following years
+          (ending on 31 December):</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the Cabinet notebook is in the open access period on and after the following
+          day:</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>a year (the
+      <b>
+        <i>creation year</i>
+      </b>) before 1960</div>
+  </td>
+  <td>
+    <div>1 January in the year that is 51 years after the creation year.</div>
+    <div>Example: A Cabinet notebook that came into existence in the year 1959 is in the open access period on and after 1 January 2010.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>1960, 1961 or 1962</div>
+  </td>
+  <td>
+    <div>1 January 2011.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>1963, 1964 or 1965</div>
+  </td>
+  <td>
+    <div>1 January 2012.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>1966, 1967 or 1968</div>
+  </td>
+  <td>
+    <div>1 January 2013.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>1969, 1970 or 1971</div>
+  </td>
+  <td>
+    <div>1 January 2014.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>1972, 1973 or 1974</div>
+  </td>
+  <td>
+    <div>1 January 2015.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>1975, 1976 or 1977</div>
+  </td>
+  <td>
+    <div>1 January 2016.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>1978, 1979 or 1980</div>
+  </td>
+  <td>
+    <div>1 January 2017.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>1981, 1982 or 1983</div>
+  </td>
+  <td>
+    <div>1 January 2018.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>1984, 1985 or 1986</div>
+  </td>
+  <td>
+    <div>1 January 2019.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>1987, 1988 or 1989</div>
+  </td>
+  <td>
+    <div>1 January 2020.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>1990</div>
+  </td>
+  <td>
+    <div>1 January 2021.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>a year (the
+      <b>
+        <i>creation year</i>
+      </b>) after 1990</div>
+  </td>
+  <td>
+    <div>1 January in the year that is 31 years after the creation year.</div>
+    <div>Example: A Cabinet notebook that came into existence in the year 1991 is in the open access period on and after 1 January 2022.</div>
+  </td>
+</tr></table>
+
+Note:          Records that are not Cabinet notebooks have different open access periods (see subsection 3(7) (general records) and section 22B (records containing Census information)).
+
+## 4  Paragraph 26(1)(a)
+
+Omit “25 years”, substitute “15 years”.
+
+## 5  Paragraph 27(3)(b)
+
+Omit “25 years”, substitute “15 years”.
+
+## 6  Subsection 30(2)
+
+Omit “25 years”, substitute “15 years”.
+
+## 35  Paragraph 33(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  information or matter:
+
+                              (i)  that was communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation (the **_foreign entity_**) to the Government of the Commonwealth, to an authority of the Commonwealth or to a person who received the communication on behalf of the Commonwealth or an authority of the Commonwealth (the **_Commonwealth entity_**); and
+
+                             (ii)  which the foreign entity advises the Commonwealth entity is still confidential; and
+
+                            (iii)  the confidentiality of which it would be reasonable to maintain;
+
+## 36  Paragraph 50A(2)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  whether it would be reasonable to maintain the confidentiality of information or matter to which both of the following apply by not making the record available for public access:
+
+                              (i)  the information or matter was communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation (the **_foreign entity_**) to the Government of the Commonwealth, to an authority of the Commonwealth or to a person who received the communication on behalf of the Commonwealth or an authority of the Commonwealth (the **_Commonwealth entity_**);
+
+                             (ii)  the foreign entity advises the Commonwealth entity that the information or matter is still confidential.
+
+## 37  Paragraph 50A(3)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  whether it would be reasonable to maintain the confidentiality of information or matter to which both of the following apply by not making that part, or a copy of that part, of the record available for public access:
+
+                              (i)  the information or matter was communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation (the **_foreign entity_**) to the Government of the Commonwealth, to an authority of the Commonwealth or to a person who received the communication on behalf of the Commonwealth or an authority of the Commonwealth (the **_Commonwealth entity_**);
+
+                             (ii)  the foreign entity advises the Commonwealth entity that the information or matter is still confidential.
+
+As at 7 June 2010 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3894,6 +3915,8 @@ Note:          A certificate ceases to be in force if it is re
 * * *
 
 _Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following provision commences immediately after 1 November 2010:
 
 ## Schedule 3
 
