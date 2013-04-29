@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00246/Html/700fe0a6-761e-4ab9-abe4-290faf12cf4f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00365/Html/PortStatistics77_image001.gif)
 
 # Port Statistics Act 1977
 
 **Act No. 125 of 1977 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="port"></a>**_port_** includes any place (including a place at sea) at or near which facilities are provided for or in connexion with the loading or unloading of cargo into or from ships.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
                     <a name="ship"></a>**_ship_** includes any vessel. 
 
@@ -82,9 +82,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the loading of cargo into, and the unloading of cargo from, vehicles at a port, being cargo that has been unloaded from, or is to be loaded into, ships at that port, including:
 
-                              (i)  the employment of persons in or in connexion with the first‑mentioned loading or unloading; and
+                              (i)  the employment of persons in or in connexion with the first-mentioned loading or unloading; and
 
-                             (ii)  the availability of persons for employment in or in connexion with the first‑mentioned loading or unloading;
+                             (ii)  the availability of persons for employment in or in connexion with the first-mentioned loading or unloading;
 
                      (c)  the movement of ships into, from or within ports.
 
@@ -182,7 +182,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="10"></a>10  Regulations
 
-                   The Governor‑General may make regulations not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+                   The Governor-General may make regulations not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
 # Notes to the _Port Statistics Act 1977_
 
@@ -236,7 +236,7 @@ of Assent</div>
     <div>10 Nov 1977</div>
   </td>
   <td colspan="2">
-    <div>5 Dec 1977 ( <i>see</i>s. 2 and <i>Gazette</i>1977, No. S273)</div>
+    <div>5 Dec 1977 ( <i>see</i>s. 2 and <i>Gazette</i>1977, No S273)</div>
   </td>
   <td>
     <div> </div>
@@ -321,7 +321,7 @@ of Assent</div>
     <div>25 June 1984</div>
   </td>
   <td colspan="2">
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245, p 2) <i>(c)</i></div>
+    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245, p 2) <i>(c)</i></div>
   </td>
   <td>
     <div>S. 151(9)</div>
@@ -379,23 +379,6 @@ of Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 7 (item 110): 19 Apr 2011</div>
-    </td>
-    <td colspan="2">
-      <div>—</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -410,7 +393,7 @@ _(a)_     The _Census and Statistics Amendment Act (No. 2) 1981_ was a
 
                  (3)   Part XI shall come into operation, or shall be deemed to have come into operation, as the case requires, on the date of commencement of the _Census and Statistics Amendment Act (No. 2) 1981_.
 
-_(b)_     The _Port Statistics Act 1977_ was amended by Part LXXVII (section 280) only of _the Statute Law (Miscellaneous Amendments) Act (No. 2) 1982,_ subsection 2(1) of which provides as follows: 
+_(b)_    The _Port Statistics Act 1977_ was amended by Part LXXVII (section 280) only of _the Statute Law (Miscellaneous Amendments) Act (No. 2) 1982,_ subsection 2(1) of which provides as follows: 
 
                  (1)   Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -420,7 +403,7 @@ _(c)_     The _Port Statistics Act 1977_ was amended by subsection 151 (
 
 _(d)_     The _Port Statistics Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent. 
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent. 
 
 ## Table of Amendments
 
@@ -450,7 +433,7 @@ _(d)_     The _Port Statistics Act 1977_ was amended by section 3 only
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 80, 1982; No. 63, 1984; No. 65, 1985; No. 5, 2011</div>
+    <div>am. No. 80, 1982; No. 63, 1984; No. 65, 1985</div>
   </td>
 </tr>
 <tr>
