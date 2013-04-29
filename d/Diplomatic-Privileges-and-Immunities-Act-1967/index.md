@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00375/Html/DipPriImmAct1967_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00239/Html/DipPriImmAct1967_image001.gif)
 
 # Diplomatic Privileges and Immunities Act 1967
 
 **Act No. 16 of 1967 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
@@ -54,6 +54,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
 ## An Act relating to Diplomatic Privileges and Immunities, and for other purposes
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
@@ -75,6 +77,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="approved-form"></a>**_approved form_** has the meaning given by section 995-1 of the _Income Tax Assessment Act 1997_.
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** includes a person who, by virtue of regulations in force under the _Australian Citizenship Act 1948_, is, for the purposes of that Act, under the protection of the Australian Government.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
@@ -1056,13 +1060,14 @@ of Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 26): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
+
+ 
 
 _(a)_     The _Diplomatic Privileges and Immunities Act 1967_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
@@ -1116,7 +1121,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 41, 1980; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999; No. 21, 2007</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 41, 1980; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1247,6 +1252,21 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>rs. No. 65, 1985</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 26  Subsection 4(1) (definition of _Australian citizen_)
+
+Repeal the definition.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
