@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00840/Html/b4959bc1-0aac-43b1-b15d-624e66e7af3f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00078/Html/ProdStewardOil2000WD02_image001.gif)
 
 # Product Stewardship (Oil) Act 2000
 
 **Act No. 102 of 2000 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 24 March 2008
+ taking into account amendments up to Act No. 155 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -133,7 +133,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  to develop a product stewardship arrangement for used oils; and
 
-                     (b)  to ensure the environmentally sustainable management, re‑refining and reuse of used oil; and
+                     (b)  to ensure the environmentally sustainable management, re-refining and reuse of used oil; and
 
                      (c)  to support economic recycling options for used oil.
 
@@ -143,7 +143,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  States and Territories are bound
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island. However, it does not make the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island. However, it does not make the Crown liable to be prosecuted for an offence.
 
 ##### <a id="6"></a>6  Definitions
 
@@ -205,7 +205,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The Commissioner has the general administration of this Act.
 
-Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law. This means, for example, that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law.
 
 ## Part 2—Entitlement to product stewardship (oil) benefits
 
@@ -271,7 +271,7 @@ the claim is taken to have been made immediately after you are registered.
 
                      (b)  the amount of a benefit in respect of the sale or consumption of recycled oil, or of gazetted oil for a gazetted use, may be a nil amount.
 
-             (4)  Before the Governor‑General makes a regulation under subsection (1), the Minister must take into consideration:
+             (4)  Before the Governor-General makes a regulation under subsection (1), the Minister must take into consideration:
 
                      (a)  the total amount that it is estimated will be collected under relevant items in the _Customs Tariff Act 1995_ and the _Excise Tariff Act 1921_ in the relevant period; and
 
@@ -339,7 +339,7 @@ as in force or existing from time to time.
 
                      (d)  local government;
 
-                     (e)  the non‑government sector;
+                     (e)  the non-government sector;
 
                       (f)  national consumer issues;
 
@@ -385,7 +385,7 @@ as in force or existing from time to time.
 
                      (b)  resigns the office of Chair by written notice delivered to the Minister.
 
-             (5)  A person is eligible to be re‑appointed as the Chair.
+             (5)  A person is eligible to be re-appointed as the Chair.
 
              (6)  The Minister may terminate the Chair’s appointment if:
 
@@ -397,7 +397,7 @@ as in force or existing from time to time.
 
                    A member:
 
-                     (a)  is to be appointed on a part‑time basis; and
+                     (a)  is to be appointed on a part-time basis; and
 
                      (b)  holds office for such period (not exceeding 3 years) as is specified in the instrument of appointment.
 
@@ -579,7 +579,7 @@ the member must not:
 
              (2)  A delegate is, in the exercise of a power delegated under subsection (1), subject to the directions of the Secretary.
 
-##### <a id="34"></a>34  Delegation by Minister
+##### <a id="34"></a>34  Delegation by Minister
 
              (1)  The Minister may, by writing, delegate to:
 
@@ -625,7 +625,7 @@ to be undertaken within 4 years after the commencement of this Act and thereafte
 
 ##### <a id="37"></a>37  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -684,7 +684,7 @@ of Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div></div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -718,23 +718,6 @@ Remainder: 1 Dec 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN47)</div>
   <td>
     <div>Schedule 1: 24 Mar 2008 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 66): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -786,14 +769,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 79, 2003; No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
