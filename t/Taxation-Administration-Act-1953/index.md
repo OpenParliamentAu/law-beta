@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00744/Html/43a312c2-4c32-49ee-9046-bf3db0031468_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00552/Html/1cb11c8d-56c6-4f5e-8137-5ebaef2131d4_files/image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 9 September 2011
- taking into account amendments up to Act No. 93 of 2011
+This compilation was prepared on 15 July 2011
+ taking into account amendments up to Act No. 68 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1–18
@@ -122,13 +122,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 8AAZLAMethod 1—allocating the amount first to an RBA
 
-8AAZLBMethod 2—applying the amount first against a non‑RBA 
- tax debt
+8AAZLBMethod 2—applying the amount first against a non‑RBA tax 
+ debt
 
-8AAZLCRBA surplus and related credits must remain equivalent if 
- one or the other is applied
+8AAZLCRBA surplus and related credits must remain equivalent if one 
+ or the other is applied
 
-8AAZLDSpecial priority credits: FS assessment debts and compulsory repayment amounts
+8AAZLDSpecial priority credits: FS assessment debts and compulsory 
+ repayment amounts
 
 8AAZLEInstructions to Commissioner not binding
 
@@ -692,7 +693,7 @@ the Governor‑General shall remove the Commissioner or Second Commissioner, as 
 
              (4)  The exercise of a power, or the performance of a function, of the Commissioner under a taxation law by a Second Commissioner does not prevent the exercise of the power, or the performance of the function, by the Commissioner.
 
-##### <a id="7"></a>7  Deputy Commissioners of Taxation
+##### <a id="7"></a>7  Deputy Commissioners of Taxation
 
                    There shall be such Deputy Commissioners of Taxation as are required.
 
@@ -1782,7 +1783,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00744/Html/43a312c2-4c32-49ee-9046-bf3db0031468_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00552/Html/1cb11c8d-56c6-4f5e-8137-5ebaef2131d4_files/image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -2806,7 +2807,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00744/Html/43a312c2-4c32-49ee-9046-bf3db0031468_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00552/Html/1cb11c8d-56c6-4f5e-8137-5ebaef2131d4_files/image003.gif)
 
 where:
 
@@ -3088,7 +3089,7 @@ and the person may be charged with, and convicted of, the taxation offence as if
 
 Note:          This section does not apply as an averment. For averments, see section 8ZL of this Act and section 13.6 of the _Criminal Code_.
 
-##### <a id="8ZD"></a>8ZD  Conduct by servants or agents of corporations
+##### <a id="8ZD"></a>8ZD  Conduct by servants or agents of corporations
 
              (1)  Where, in a prosecution for a taxation offence constituted by an act done, or omitted to be done, by a corporation, it is necessary to establish the intention of the corporation, it is sufficient to show that a servant or agent of the corporation by whom the act was done or omitted to be done, as the case may be, had the intention.
 
@@ -3624,7 +3625,7 @@ relating to the taxation of debits made to accounts kept with financial institut
 
 ### Division 1—Interpretation
 
-##### <a id="14Q"></a>14Q  Interpretation
+##### <a id="14Q"></a>14Q  Interpretation
 
              (1)  In this Part, unless the contrary intention appears:
 
@@ -3995,6 +3996,12 @@ Note:          A person who objects against the Commissioner�
                    (ba)  if the taxation objection is an objection under subsection 359‑50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling—60 days after the end of the period of 30 days referred to in that subsection; or
 
                    (bb)  if the taxation objection is made under section 66 of the _Petroleum Resource Rent Tax Assessment Act 1987_ to an assessment under that Act—4 years after notice of the assessment is given to the person; or
+
+                   (bc)  if the taxation objection is made under subsection 73IA(2) of the _Income Tax Assessment Act 1936_:
+
+                              (i)  if item 2 or 3 of the table in subsection 170(1) of that Act would apply to an assessment of the person for the tax offset year referred to in section 73I of that Act—2 years after notice of the amount (if any) of a tax offset allowable to the person under section 73I of that Act is given to the person; or
+
+                             (ii)  otherwise—4 years after the notice concerned is given to the person; or
 
                    (bd)  if the taxation objection is made under section 20P of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ against a notice given to a superannuation provider under section 20C of that Act and the person is not the superannuation provider—2 years after the notice was given to the superannuation provider; or
 
