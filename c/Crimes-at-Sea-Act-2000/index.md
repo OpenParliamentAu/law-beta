@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00601/Html/CrimesatSea2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00191/Html/CrimesatSea2000_WD02_image001.gif)
 
 # Crimes at Sea Act 2000
 
 **Act No. 13 of 2000 as amended**
 
-This compilation was prepared on 25 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -666,19 +666,19 @@ Example 2: Suppose that a person is charged by a State authority in a South Aust
 
 ##### <a id="14"></a>14  Adjacent areas
 
-             (1)  The **_adjacent area_** for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
+             (1)  The **_adjacent area_** for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 1 to the _Offshore Petroleum Act 2006_ (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
 
              (2)  The **_adjacent area_** for Queensland is:
 
-                     (a)  so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to Queensland as is within the outer limits of the continental shelf; and
+                     (a)  so much of the area described in Schedule 1 to the _Offshore Petroleum Act 2006_ (Commonwealth) in relation to Queensland as is within the outer limits of the continental shelf; and
 
-                     (b)  the Coral Sea area (within the meaning of subsection 7(2) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth)) other than the territorial sea within the Coral  Sea area; and
+                     (b)  the Coral Sea area (within the meaning of subsection 7(2) of the _Offshore Petroleum Act 2006_ (Commonwealth)) other than the territorial sea within the Coral Sea area; and
 
                      (c)  the areas within the outer limits of the territorial sea adjacent to certain islands of Queensland as determined by proclamation on 4 February 1983 under section 7 of the _Seas and Submerged Lands Act 1973_ (Commonwealth); and
 
                      (d)  the space above and below the areas described in paragraphs (a), (b) and (c).
 
-             (3)  The **_adjacent area_** for Western   Australia is so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to   Western Australia as:
+             (3)  The **_adjacent area_** for Western   Australia is so much of the area described in Schedule 1 to the _Offshore Petroleum Act 2006_ (Commonwealth) in relation to Western Australia as:
 
                      (a)  is within the outer limits of the continental shelf; and
 
@@ -688,13 +688,13 @@ and includes the space above and below that area.
 
              (4)  The **_adjacent area_** for the Northern   Territory is:
 
-                     (a)  so much of the area described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth) in relation to the Northern Territory as:
+                     (a)  so much of the area described in Schedule 1 to the _Offshore Petroleum Act 2006_ (Commonwealth) in relation to the Northern Territory as:
 
                               (i)  is within the outer limits of the continental shelf; and
 
                              (ii)  is not within the Joint Petroleum Development Area; and
 
-                     (b)  the offshore area for the Territory  of Ashmore and Cartier Islands (within the meaning of subsection 7(1) of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ (Commonwealth)) other than the territorial sea within that area; and
+                     (b)  the offshore area for the Territory  of Ashmore and Cartier Islands (within the meaning of subsection 7(1) of the _Offshore Petroleum Act 2006_ (Commonwealth)) other than the territorial sea within that area; and
 
                      (c)  the space above and below the areas described in paragraphs (a) and (b).
 
@@ -712,7 +712,7 @@ and includes the space above and below that area.
 
 # Appendix 1—Indicative map [_see_ Note 2]
 
-![](http://www.comlaw.gov.au/Details/C2008C00601/Html/CrimesatSea2000_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00191/Html/CrimesatSea2000_WD02_image002.gif)
 
  
 
@@ -727,7 +727,6 @@ The amendments made by this Schedule are incorporated in the compilations on Com
 Crimes Act 1914
 
 Crimes at Sea Act 1979
- \[repealed by Act No. 13, 2000, Schedule 2, item 3]
 
 Nuclear Non-Proliferation (Safeguards) Act 1987
 
@@ -737,7 +736,6 @@ Petroleum (Timor Gap Zone of Cooperation) Act 1990
  \[repealed by Act No. 10, 2003, Schedule 1, item 70]
 
 Petroleum (Submerged Lands) Act 1967
- \[repealed by Act No. 17, 2006, Schedule 1, item 1]
 
 Sea Installations Act 1987
 
@@ -882,23 +880,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>117, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 6): 22 Nov 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (items 18–25) only of the _Timor__Gap Treaty (Transitional Arrangements) Act 2000_, subsection 2(3) of which provides as follows:
@@ -938,10 +919,50 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
+    <div>Ss. 1–3</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 4</div>
   </td>
   <td>
     <div>am. No. 25, 2000; No. 10, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1026,6 +1047,22 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
+    <div><b>Part 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 7–9</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div><b>Schedule 1</b></div>
   </td>
   <td>
@@ -1038,6 +1075,14 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
   </td>
   <td>
     <div>am. No. 25, 2000; No. 10, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 2–9</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1058,10 +1103,26 @@ _(a)_     The _Crimes at Sea Act 2000_ was amended by Schedule 2 (item
 </tr>
 <tr>
   <td>
+    <div>Cc. 11–13</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>C. 14</div>
   </td>
   <td>
-    <div>am. No. 10, 2003; No. 17, 2006; No. 117, 2008</div>
+    <div>am. No. 10, 2003; No. 17, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 15, 16</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
