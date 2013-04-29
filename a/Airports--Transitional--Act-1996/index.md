@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00769/Html/85be280b-246c-43ea-97ca-75bf80a32340_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00507/Html/6e8cc5f0-3baa-471b-8792-0c9b3d087440_files/image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 22 September 2011
- taking into account amendments up to Act No. 100 of 2011
+This compilation was prepared on 5 July 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -106,6 +106,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          Capital for the FAC following disposal of shares
 
+[39](#39).          Appropriation of Consolidated Revenue Fund
+
 **Part 7—Treatment of consideration payable by an airport‑lessee company that is not owned by the Commonwealth**
 
 [40](#40).          Simplified outline
@@ -198,6 +200,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69](#69).          Commonwealth may pay the FAC an amount equal to the amount owing
 
+[70](#70).          Appropriation of Consolidated Revenue Fund
+
     **Division 3—Other borrowing transactions**
 
 [71](#71).          Scope of Division
@@ -213,6 +217,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [76](#76).          Commonwealth takeover of obligations—payments by the FAC to the Commonwealth
 
 [77](#77).          Commonwealth may pay the FAC an amount to enable the FAC to discharge or extinguish its liability under a borrowing transaction
+
+[78](#78).          Appropriation of Consolidated Revenue Fund
 
 **Part 11—Prosecutions**
 
@@ -334,9 +340,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Introduction
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
-                   This Act may be cited as the _Airports (Transitional) Act 1996_.
+                   This Act may be cited as the _Airports (Transitional) Act 1996_.
 
 ##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
@@ -996,6 +1002,10 @@ the Commonwealth disposes of its shares in an airport‑lessee company:</li>
 
 (2)The Finance Minister may authorise the payment by the Commonwealth to the FAC of the specified amount.
 
+##### <a id="39"></a>39  Appropriation of Consolidated Revenue Fund
+
+                   The Consolidated Revenue Fund is appropriated for the purposes of this Part.
+
 ## Part 7—Treatment of consideration payable by an airport‑lessee company that is not owned by the Commonwealth
 
 ##### <a id="40"></a>40  Simplified outline
@@ -1324,7 +1334,7 @@ the company may apply to the DAA for a transfer of the benefits of the registrat
 
 ### Division 1—Simplified outline
 
-##### <a id="57"></a>57  Simplified outline
+##### <a id="57"></a>57  Simplified outline
 
                    The following is a simplified outline of this Part:
 
@@ -1548,6 +1558,10 @@ Note:          A loan may be specified by name, by inclusion i
 
              (4)  The amount payable under subsection (1) becomes part of the capital of the FAC.
 
+##### <a id="70"></a>70  Appropriation of Consolidated Revenue Fund 
+
+                   The Consolidated Revenue Fund is appropriated for the purposes of this Division.
+
 ### Division 3—Other borrowing transactions
 
 ##### <a id="71"></a>71  Scope of Division
@@ -1617,6 +1631,10 @@ Note:          A borrowing transaction may be specified by nam
              (3)  The amount is payable to the FAC subject to a condition that the amount is to be used by the FAC to discharge or extinguish the FAC’s liability under a borrowing transaction specified in the determination.
 
 Note:          A borrowing transaction may be specified by name, by inclusion in a specified class or in any other way.
+
+##### <a id="78"></a>78  Appropriation of Consolidated Revenue Fund 
+
+                   The Consolidated Revenue Fund is appropriated for the purposes of this Division.
 
 ## Part 11—Prosecutions
 
@@ -1884,7 +1902,7 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
-##### <a id="91"></a>91  Commonwealth records
+##### <a id="91"></a>91  Commonwealth records
 
              (1)  This Act does not authorise a Commonwealth record (within the meaning of the _Archives Act 1983_) to be transferred or otherwise dealt with except in accordance with the provisions of that Act. 
 
@@ -2270,7 +2288,7 @@ Definition
 
                    After the employee’s transfer time, the airport‑lessee company concerned must provide such reasonable co‑operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
 
-##### <a id="5"></a>5  Section 40 of the SRC Act 
+##### <a id="5"></a>5  Section 40 of the SRC Act 
 
                    After the employee’s transfer time, the airport‑lessee company concerned is taken to be the relevant employer of the employee for the purposes of section 40 of the _Safety, Rehabilitation and Compensation Act 1988_.
 
@@ -2522,7 +2540,7 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
     <div>19 Feb 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 24): <i>(h)</i></div>
+    <div>Schedule 2 (item 24): <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2539,7 +2557,7 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
+    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2596,32 +2614,15 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 11 (item 60) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(2) of which provides as follows:
 
-                 (2)   Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
+                 (2)    Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule 19, commence on a day or days to be fixed by Proclamation.
 
 _(b)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 12 (item 31) only of the _Tax Law Improvement Act 1997_, subsection 2(5) of which provides as follows:
 
-                 (5)   If there is no note specifying the commencement of an item in Schedule 12, the item commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
+                 (5)    If there is no note specifying the commencement of an item in Schedule 12, the item commences on 1 July 1997 immediately after the commencement of the _Income Tax Assessment Act 1997_.
 
 _(c)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 10 (items 58–63) only of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(1) of which provides as follows:
 
@@ -2936,14 +2937,6 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
     </td>
     <td>
       <div>am. No. 5, 2011</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 39</div>
-    </td>
-    <td>
-      <div>rep. No. 100, 2011</div>
     </td>
   </tr>
   <tr>
@@ -3285,14 +3278,6 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>rep. No. 100, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -3305,14 +3290,6 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </td>
   <td>
     <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>rep. No. 100, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3344,7 +3321,7 @@ The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
 Repeal the subsection.
 
-As at 22 September 2011 the amendment is not incorporated in this compilation.
+As at 5 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
