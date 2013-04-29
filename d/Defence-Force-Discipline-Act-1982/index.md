@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00495/Html/DefenceForceDiscipline1982_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00111/Html/DefenceForceDiscipline1982_image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 20 September 2008
+This compilation was prepared on 31 March 2008
  taking into account amendments up to Act No. 6 of 2008
 
 The text of any of those amendments not in force
@@ -224,7 +224,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [58](#58).          Unauthorised disclosure of information
 
-[59](#59).          Dealing in or possession of prohibited drugs
+[59](#59).          Dealing in or possession of narcotic goods
 
 [60](#60).          Prejudicial conduct
 
@@ -430,8 +430,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [108](#108).        Jurisdiction of subordinate summary authority
 
-[108A](#108A).     Disqualification of summary authority from trying a charge
-
 [109](#109).        Dealing with a charge by superior summary authority
 
 [110](#110).        Dealing with a charge by commanding officer
@@ -439,10 +437,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [111](#111).        Dealing with charge by subordinate summary authority
 
 [111A](#111A).     Proceedings by way of dealing with a charge
-
-[111B](#111B).     Accused person may elect to be tried by the Australian Military Court—election before commencement of trial
-
-[111C](#111C).     Decision by accused person whether to elect to be tried by the Australian Military Court—decision before commencement of trial
 
 [112](#112).        Discontinuance
 
@@ -478,21 +472,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Trial by summary authority**
 
-[129](#129).        Time within which trial must be commenced
-
 [130](#130).        Trial by summary authority
 
-[131](#131).        Accused person may elect to be tried by the Australian Military Court—election during trial
-
-[131AA](#131AA).  Decision by accused person whether to elect to be tried by the Australian Military Court—decision during trial
+[131](#131).        Election of trial or punishment
 
 [131A](#131A).     Reference of charge to Director of Military Prosecutions
 
 [131B](#131B).     Conviction by summary authority to have effect for service purposes only
 
     **Division 2—Trial by the Australian Military Court**
-
-[132](#132).        Application of Division
 
 [132A](#132A).     Trial of class 1 offences etc 
 
@@ -516,9 +504,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—General** 
 
-        **Subdivision A—General provisions relating to trials**
-
-[137A](#137A).     Application of Subdivision
+        **Subdivision A—General**
 
 [138](#138).        Procedural powers
 
@@ -540,9 +526,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [145A](#145A).     Notice of alibi
 
-[146](#146).        Evidence in trials by the Australian Military Court
-
-[146A](#146A).     Evidence etc  in proceedings before a summary authority
+[146](#146).        Rules of evidence
 
 [147](#147).        Judicial notice of service matters
 
@@ -568,91 +552,53 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [149A](#149A).     The Australian Military Court Rules
 
-**Part VIIIA—Review of proceedings of summary authorities** 
+**Part IX—Review of proceedings of summary authorities** 
 
-    **Division 1—Interpretation and application**
+    **Division 1—Appointment of reviewing authorities**
 
-[150](#150).        Meaning of _reviewing authority_ and _competent reviewing authority_
+[150](#150).        Appointment of reviewing authorities
 
-[150A](#150A).     Application of Part
+[150A](#150A).     Meaning of _competent reviewing authority_
 
-    **Division 2—Automatic review by reviewing authority**
+    **Division 2—Automatic and other reviews**
 
-[151](#151).        Review of proceedings of subordinate summary authority
+[151](#151).        Preliminary automatic review by commanding officer
 
-[152](#152).        Review of proceedings of superior summary authority or commanding officer
+[152](#152).        Automatic review by reviewing authority
 
-[153](#153).        Reviewing authority must request summary authority to reopen proceedings to correct punishment error
+[153](#153).        Review on petition to reviewing authority
 
-[153A](#153A).     Procedures for dealing with reopened proceedings
+[154](#154).        Report to be obtained before commencement of review
 
-[154](#154).        Effect on review of appeal to the Australian Military Court
+[155](#155).        Further review
 
-[155](#155).        Reviewing authority may recommend that convicted person appeal to the Australian Military Court
+    **Division 3—Action on review of proceedings that have resulted in a conviction**
 
-    **Division 3—Review of certain punishments and orders that are subject to approval by reviewing authority**
+[157](#157).        Interpretation
 
-[156](#156).        Application of Division
+[158](#158).        Quashing of conviction etc 
 
-[157](#157).        Reviewing authority must approve or not approve punishment or order
+[159](#159).        Person deemed to have been acquitted
 
-[158](#158).        Approved punishment or order to take effect as determined
+[160](#160).        New trial
 
-[159](#159).        Punishments or orders not approved to be quashed or revoked
+[161](#161).        Substitution of conviction of alternative offence
 
-**Part IX—Appeals to the Australian Military Court** 
+[162](#162).        Review of action under Part IV
 
-    **Division 1—Definitions**
+    **Division 5—Action on review of certain punishments and orders that are subject to approval by reviewing authority**
 
-[160](#160).        Definitions
+[167](#167).        Interpretation
 
-    **Division 2—Bringing of appeals**
+[168](#168).        Approved punishment or order to take effect as determined
 
-[161](#161).        Appeals to the Australian Military Court
-
-    **Division 3—Determination of appeals**
-
-[162](#162).        Quashing of conviction—conviction unreasonable etc 
-
-[163](#163).        Quashing of conviction—new evidence available
-
-[164](#164).        Quashing of conviction—person suffering from mental impairment
-
-[165](#165).        Australian Military Court may order new trial
-
-[165A](#165A).     Person taken to have been acquitted
-
-[166](#166).        Substitution of conviction for alternative offence
-
-[167](#167).        Powers of Court in an appeal against a punishment
-
-[167A](#167A).     Powers of Court in an appeal against a Part IV order
-
-[167B](#167B).     Frivolous or vexatious appeals
-
-    **Division 4—General provisions relating to appeals**
-
-[168](#168).        Representation of parties in an appeal
-
-[168A](#168A).     Hearings
-
-[168B](#168B).     Evidence
-
-[168C](#168C).     Judicial notice of service matters
-
-[168D](#168D).     Record of proceedings to be kept
-
-[168E](#168E).      Use of video and audio links
+[169](#169).        Punishments or orders not approved to be quashed or revoked
 
 **Part IXA—Special procedures relating to certain minor disciplinary infringements**
 
 [169A](#169A).     Definitions
 
 [169B](#169B).     Appointment of discipline officers
-
-[169BA](#169BA).  Service chief may exempt certain warrant officers
-
-[169BB](#169BB).   Relevant discipline officers
 
 [169C](#169C).     Jurisdiction of discipline officer
 
@@ -664,11 +610,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [169FA](#169FA).   Commencement of punishments
 
-[169FB](#169FB).   Consequences of punishments
-
 [169G](#169G).     Procedure before discipline officer
-
-[169GA](#169GA).  Report by discipline officer
 
 [169H](#169H).     Destruction of records
 
@@ -682,9 +624,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [172](#172).        Punishments and orders subject to approval
 
-[172A](#172A).     Suspension of operation of restitution orders and reparation orders made by a summary authority
-
-[173](#173).        Suspension of operation of restitution orders and reparation orders made by the Australian Military Court
+[173](#173).        Suspension of operation of restitution orders and reparation orders
 
 [174](#174).        Recovery of fines etc 
 
@@ -816,7 +756,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [188FM](#188FM).  Delegation
 
-**Part XIA—Director of Military Prosecutions** 
+    **Part XIA—Director of Military Prosecutions** 
 
     **Division 1—Establishment and functions of the Director of Military Prosecutions**
 
@@ -888,19 +828,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [197](#197).        Regulations
 
-**Schedule 1A—Certain disciplinary offences** 
-
 **Schedule 1—Corresponding punishments** 
 
 **Schedule 2—Punishments that may be imposed by the Australian Military Court** 
 
-**Schedule 3—Punishments that may be imposed by a summary authority**
-
-[1](#1).            Punishments that may be imposed by a superior summary authority
-
-[2](#2).            Punishments that may be imposed by a commanding officer
-
-[3](#3).            Punishments that may be imposed by a subordinate summary authority
+**Schedule 3—Punishments that may be imposed by a summary authority** 
 
 **Schedule 3A—Punishments that may be imposed by a summary authority on detainees convicted of certain offences** 
 
@@ -924,7 +856,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Defence Force Discipline Act 1982_.
 
@@ -1032,11 +964,11 @@ that relates to the first Territory offence.
 
                              (ii)  is not specified to be a class 1 offence or a class 2 offence in the table in clause 1 of Schedule 7.
 
-                    <a name="compet-review-author"></a>**_competent reviewing authority_** has the meaning given by subsection 150(2).
+                    <a name="compet-review-author"></a>**_competent reviewing authority_** has the meaning given by section 150A.
 
                     <a name="constabl"></a>**_constable_** means a member, or a special member, of the Australian Federal Police or a member of the police force of a State or Territory.
 
-                    <a name="convict-person"></a>**_convicted person_** means a person convicted of a service offence by a service tribunal or the Defence Force Discipline Appeal Tribunal.
+                    <a name="convict-person"></a>**_convicted person_** means a person convicted of a service offence by a service tribunal, a reviewing authority or the Defence Force Discipline Appeal Tribunal.
 
                     <a name="custodi-offenc"></a>**_custodial offence_** means:
 
@@ -1082,7 +1014,7 @@ that relates to the first Territory offence.
 
                     <a name="director-militari-prosecut"></a>**_Director of Military Prosecutions_** means the Director of Military Prosecutions appointed under section 188GF.
 
-                    <a name="elect-punish"></a>**_elective punishment_** means a punishment set out in column 2 of an item of Table B or C in Schedule 3.
+                    <a name="elect-punish"></a>**_elective punishment_** means a punishment set out in column 2 of Table A or B in Schedule 3.
 
                     <a name="enemi-person"></a>**_enemy person_** means a person who is:
 
@@ -1176,6 +1108,8 @@ that relates to the first Territory offence.
 
                      (b)  a sailor, soldier or airman who is a member of a police corps or service.
 
+                    <a name="prescrib-acquitt"></a>**_prescribed acquittal_** means an acquittal of a service offence by the Australian Military Court on the ground of unsoundness of mind.
+
                     <a name="previou-servic-law"></a>**_previous service law_** means the following laws as in force at any time during the period of 3 years that ended on the day immediately before the proclaimed date:
 
                      (a)  the _Naval Defence Act 1910_ and regulations in force under that Act;
@@ -1240,19 +1174,13 @@ that relates to the first Territory offence.
 
                     <a name="restitut-order"></a>**_restitution order_** means an order under section 83.
 
-                    <a name="review"></a>**_review_** means a review by a commanding officer or a reviewing authority, in accordance with Part VIIIA, of the proceedings of a summary authority.
+                    <a name="review"></a>**_review_** means a review by a commanding officer, by a reviewing authority, or by the Chief of the Defence Force or a service chief, in accordance with Part IX, of the proceedings of a service tribunal.
 
-                    <a name="review-author"></a>**_reviewing authority_** means a reviewing authority appointed under subsection 150(1).
+                    <a name="review-author"></a>**_reviewing authority_** means a reviewing authority appointed under section 150.
 
                     <a name="rule-procur"></a>**_rules of procedure_** means the Australian Military Court Rules and the Summary Authority Rules.
 
                     <a name="sailor"></a>**_sailor_** means a member of the Australian Navy, not being an officer.
-
-                    <a name="schule-1a-offenc"></a>**_Schedule 1A offence_** means:
-
-                     (a)  an offence specified in Schedule 1A; or
-
-                     (b)  an offence that is an ancillary offence in relation to an offence referred to in paragraph (a).
 
                     <a name="servic-chief"></a>**_service chief_** means the Chief of Navy, the Chief of Army or the Chief of Air Force.
 
@@ -3206,17 +3134,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (3). See section 13.4 of the _Criminal Code_.
 
-##### <a id="59"></a>59  Dealing in or possession of prohibited drugs
-
-Selling, dealing or trafficking in a prohibited drug—defence member or defence civilian outside Australia
+##### <a id="59"></a>59  Dealing in or possession of narcotic goods
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if the person:
 
                      (a)  is outside Australia; and
 
-                     (b)  sells, or deals or traffics in, a prohibited drug; and
+                     (b)  sells, or deals or traffics in, narcotic goods; and
 
-                     (c)  knows the nature of the drug.
+                     (c)  knows the nature of the goods.
 
                     Maximum punishment:        Imprisonment for 10 years.
 
@@ -3224,159 +3150,93 @@ Selling, dealing or trafficking in a prohibited drug—defence member or defence
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (2). See section 13.4 of the _Criminal Code_.
 
-Possessing a prohibited drug—defence member or defence civilian outside Australia
-
              (3)  A person who is a defence member or a defence civilian is guilty of an offence if the person:
 
                      (a)  is outside Australia; and
 
-                     (b)  is in possession of a prohibited drug; and
+                     (b)  is in possession of narcotic goods; and
 
-                     (c)  knows that he or she possesses that drug and knows its nature.
+                     (c)  knows that he or she possesses those goods and knows their nature.
 
-                    Maximum punishment:
+                    Maximum punishment:        
 
                      (d)  if the offence is committed in relation to:
 
-                              (i)  a prohibited drug other than cannabis; or
+                              (i)  a substance other than cannabis; or
 
-                             (ii)  a quantity of cannabis exceeding the prescribed quantity of that drug;
+                             (ii)  a quantity of cannabis exceeding 25 grams in mass;
 
                             imprisonment for 2 years; or
 
-                     (e)  if the offence is committed in relation to a quantity of cannabis not exceeding the prescribed quantity of that drug and the convicted person is a defence member:
+                     (e)  if the convicted person is a member of the Defence Force and the offence is committed in relation to a quantity of cannabis not exceeding 25 grams in mass:
 
-                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
+                              (i)  in the case of a first offence—a fine of the amount of the member’s pay for 14 days; or
 
-                             (ii)  for a second or later offence—dismissal from the Defence Force; or
+                             (ii)  in the case of a second or later offence—dismissal from the Defence Force; or
 
-                      (f)  if the offence is committed in relation to a quantity of cannabis not exceeding the prescribed quantity of that drug and the convicted person is a defence civilian—a fine of $100.
+                      (f)  in any other case—a fine of $100.
 
-             (4)  It is a defence to a charge under subsection (3) if the person proves that he or she had lawful authority for possessing the prohibited drug.
+             (4)  It is a defence to a charge under subsection (3) if the person proves that he or she had lawful authority for possessing the narcotic goods.
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (4). See section 13.4 of the _Criminal Code_.
-
-Administering a prohibited drug—defence member or defence civilian outside Australia
 
              (5)  A person who is a defence member or a defence civilian is guilty of an offence if the person:
 
                      (a)  is outside Australia; and
 
-                     (b)  administers, or causes or permits to be administered, to himself or herself, a prohibited drug.
+                     (b)  administers to himself or herself narcotic goods other than cannabis.
 
-                    Maximum punishment:
+                    Maximum punishment:        Imprisonment for 2 years.
 
-                     (c)  if the offence is committed in relation to a prohibited drug other than cannabis—imprisonment for 2 years; or
+             (6)  A person who is a defence member or a defence civilian is guilty of an offence if the person uses cannabis, whether within or outside Australia.
 
-                     (d)  if the offence is committed in relation to cannabis and the convicted person is a defence member:
+                    Maximum punishment:        
 
-                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
+                     (a)  if the convicted person is a member of the Defence Force:
 
-                             (ii)  for a second or later offence—dismissal from the Defence Force; or
+                              (i)  in the case of a first offence—a fine of the amount of the member’s pay for 14 days; or
 
-                     (e)  if the offence is committed in relation to cannabis and the convicted person is a defence civilian—a fine of $100.
+                             (ii)  in the case of a second or later offence—dismissal from the Defence Force; or
 
-          (5A)  It is a defence to a charge under subsection (5) if the person proves that he or she had lawful authority for the conduct mentioned in paragraph (5)(b).
-
-Administering a prohibited drug—defence member or defence civilian in Australia
-
-             (6)  A person who is a defence member or a defence civilian is guilty of an offence if the person:
-
-                     (a)  is in Australia; and
-
-                     (b)  administers, or causes or permits to be administered, to himself or herself a prohibited drug.
-
-                    Maximum punishment:
-
-                     (c)  if the offence is committed in relation to a prohibited drug other than cannabis and the convicted person is a defence member—imprisonment for 2 years; or
-
-                     (d)  if the offence is committed in relation to cannabis and the convicted person is a defence member:
-
-                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
-
-                             (ii)  for a second or later offence—dismissal from the Defence Force; or
-
-                     (e)  if the convicted person is a defence civilian—a fine of $100.
-
-          (6A)  It is a defence to a charge under subsection (6) if the person proves that he or she had lawful authority for the conduct mentioned in paragraph (6)(b).
-
-Possessing non-trafficable quantity of a prohibited drug—defence member in Australia
+                     (b)  in any other case—a fine of $100.
 
              (7)  A defence member is guilty of an offence if the member:
 
                      (a)  is in Australia; and
 
-                     (b)  is in possession of a quantity of a prohibited drug not exceeding the prescribed quantity of that drug; and
+                     (b)  is in possession of a quantity of cannabis not exceeding 25 grams in mass; and
 
-                     (c)  knows that he or she possesses that drug and knows its nature.
+                     (c)  knows that he or she possesses the cannabis and knows its nature.
 
-                    Maximum punishment:
+                    Maximum punishment:        
 
-                     (d)  if the offence is committed in relation to a prohibited drug other than cannabis—imprisonment for 2 years; or
+                     (d)  in the case of a first offence—a fine of the amount of the member’s pay for 14 days; or
 
-                     (e)  if the offence is committed in relation to cannabis:
+                     (e)  in the case of a second or later offence—dismissal from the Defence Force.
 
-                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
-
-                             (ii)  for a second or later offence—dismissal from the Defence Force.
-
-             (8)  It is a defence to a charge under subsection (7) if the member proves that he or she had lawful authority for possessing the prohibited drug.
+             (8)  It is a defence to a charge under subsection (7) if the member proves that he or she had lawful authority for possessing the cannabis.
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (8). See section 13.4 of the _Criminal Code_.
 
-Definitions
-
              (9)  In this section:
 
-                    <a name="cannabi"></a>**_cannabis_** means:
+                    <a name="cannabi"></a>**_cannabis_** means a cannabis plant, whether living or dead, and includes, in any form, any flower or fruiting tops, leaves, seeds, stalks or any other part of a cannabis plant or cannabis plants and any mixture of parts of a cannabis plant or cannabis plants, but does not include cannabis resin or cannabis fibre.
 
-                     (a)  a living cannabis plant; or
-
-                     (b)  cannabis resin; or
-
-                     (c)  any other form of cannabis (including flowering or fruiting tops, leaves, seeds or stalks, but not including cannabis fibre).
-
-                    <a name="control-drug"></a>**_controlled drug_** has the same meaning as in Part 9.1 of the _Criminal Code_.
-
-                    <a name="control-plant"></a>**_controlled plant_** has the same meaning as in Part 9.1 of the _Criminal Code_.
-
-                    <a name="prescrib-quantiti"></a>**_prescribed quantity_**, in relation to a prohibited drug, means:
-
-                     (a)  for a narcotic substance that is a controlled drug or a controlled plant in relation to which there is a trafficable quantity specified under the _Criminal Code_—the trafficable quantity so specified for that substance; or
-
-                     (b)  for any other prohibited drug—50 grams.
-
-                    <a name="prohibit-drug"></a>**_prohibited drug_** means:
-
-                     (a)  a narcotic substance (as defined by subsection 4(1) of the _Customs Act 1901_); or
-
-                     (b)  an anabolic steroid (within the meaning of Part 5 of the _Poisons and Drugs Act 1978_ of the Australian   Capital Territory).
+                    <a name="narcot-good"></a>**_narcotic goods_** has the same meaning as in the _Customs Act 1901_.
 
 ##### <a id="60"></a>60  Prejudicial conduct
 
-             (1)  A defence member is guilty of an offence if the member does an act that is likely to prejudice the discipline of, or bring discredit on, the Defence Force.
+             (1)  A defence member is guilty of an offence if the member engages in conduct that is likely to prejudice the discipline of, or bring discredit on, the Defence Force.
 
                     Maximum punishment:        Imprisonment for 3 months.
 
-          (1A)  A defence member is guilty of an offence if:
-
-                     (a)  the member omits to perform an act; and
-
-                     (b)  the omission is likely to prejudice the discipline of, or bring discredit on, the Defence Force.
-
-                    Maximum punishment:        Imprisonment for 3 months.
-
-             (2)  An offence against subsection (1) or (1A) is an offence of strict liability.
+             (2)  An offence under this section is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (3)  It is a defence to a charge under subsection (1) if the member proves that he or she had a reasonable excuse for the relevant act.
+             (3)  It is a defence if the member proves that he or she had a reasonable excuse for the relevant conduct.
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (3). See section 13.4 of the _Criminal Code_.
-
-             (4)  It is a defence to a charge under subsection (1A) if the member proves that he or she had a reasonable excuse for omitting to perform the relevant act.
-
-Note:          The defendant bears a legal burden in relation to the matter in subsection (4). See section 13.4 of the _Criminal Code_.
 
 ### Division 8—Offences based on Territory offences
 
@@ -3484,11 +3344,11 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
 ##### <a id="67"></a>67  Authorised punishments
 
-             (1)  Subject to sections 166, 167 and 167A, the Australian Military Court must not impose a punishment in respect of a conviction except in accordance with this Part and Schedule 2.
+             (1)  The Australian Military Court must not impose a punishment in respect of a conviction except in accordance with this Part and Schedule 2.
 
              (2)  A summary authority shall not impose a punishment in respect of a conviction except in accordance with this Part, Schedule 3 and Schedule 3A.
 
-##### <a id="68"></a>68  Scale of punishments
+##### <a id="68"></a>68  Scale of punishments
 
              (1)  Subject to sections 68A and 68C, the only punishments that may be imposed by a service tribunal on a convicted person are, in decreasing order of severity, as follows:
 
@@ -3620,11 +3480,11 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
              (1)  A service tribunal shall not impose a punishment of imprisonment on a member of the Defence Force whom it has convicted of a service offence unless the tribunal also imposes on that member in respect of that conviction the punishment of dismissal from the Defence Force.
 
-          (1A)  A service tribunal must not impose on a non-commissioned officer who has been convicted of a service offence a punishment of detention unless the tribunal also imposes the punishment of reduction in rank to a rank below non-commissioned rank.
+          (1A)  A service tribunal must not impose on a non-commissioned officer whom it has convicted of a service offence a punishment of detention unless the tribunal also imposes the punishment of reduction in rank to a rank below non-commissioned rank.
 
-             (2)  A service tribunal shall not impose a punishment of detention on a member of the Defence Force who has been convicted of a service offence if the member, at the time of conviction, had not attained the age of 18 years.
+             (2)  A service tribunal shall not impose a punishment of detention on a member of the Defence Force whom it has convicted of a service offence if the member, at the time of conviction, had not attained the age of 18 years.
 
-             (3)  A service tribunal shall not impose a punishment of detention on a member of the Defence Force who has been convicted of a service offence if it also imposes the punishment of dismissal from the Defence Force in respect of that conviction or another conviction.
+             (3)  A service tribunal shall not impose a punishment of detention on a member of the Defence Force whom it has convicted of a service offence if it also imposes the punishment of dismissal from the Defence Force in respect of that conviction or another conviction.
 
              (4)  A service tribunal shall not impose a custodial punishment on a person who is not a detainee.
 
@@ -3672,9 +3532,9 @@ then, notwithstanding anything contained in the _Crimes Act 1914_, the punishmen
 
                      (a)  a service tribunal convicts a person of 2 or more service offences and imposes 2 or more prescribed punishments;
 
-                     (b)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (not being a punishment that is wholly suspended) and, on that conviction, imposes another prescribed punishment;
+                     (b)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (not being a punishment that is suspended) and, on that conviction, imposes another prescribed punishment;
 
-                     (c)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended in whole or in part) and, on that conviction, revokes that suspension and also imposes another prescribed punishment; or
+                     (c)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended) and, on that conviction, revokes that suspension and also imposes another prescribed punishment; or
 
                      (d)  a service tribunal convicts a person of a service offence that was committed during the period to which an undertaking given by the person in accordance with subsection 75(2) relates and, on that conviction, imposes:
 
@@ -3690,9 +3550,9 @@ the punishments so imposed (including, where applicable, the punishment referred
 
                      (a)  a service tribunal convicts a person of 2 or more service offences and imposes 2 or more prescribed punishments that are of the same kind;
 
-                     (b)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (not being a punishment that is wholly suspended) and, on that conviction, imposes another prescribed punishment that is of the same kind as the prescribed punishment to which the person is already subject;
+                     (b)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (not being a punishment that is suspended) and, on that conviction, imposes another prescribed punishment that is of the same kind as the prescribed punishment to which the person is already subject;
 
-                     (c)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended in whole or in part) and, on that conviction, revokes that suspension and also imposes another prescribed punishment that is of the same kind as the suspended punishment; or
+                     (c)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended) and, on that conviction, revokes that suspension and also imposes another prescribed punishment that is of the same kind as the suspended punishment; or
 
                      (d)  a service tribunal convicts a person of a service offence that was committed during the period to which an undertaking given by the person in accordance with subsection 75(2) relates and, on that conviction, imposes:
 
@@ -3704,9 +3564,9 @@ the tribunal may order that all or any of the punishments so imposed (including,
 
           (4A)  Subject to this section, where:
 
-                     (a)  a summary authority convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended in whole or in part) and, on that conviction:
+                     (a)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended) and, on that conviction:
 
-                              (i)  recommends to a competent reviewing authority, under subsection 80(3), that the suspension be revoked by the reviewing authority; and
+                              (i)  recommends to a reviewing authority, under subsection 80(3), that the suspension be revoked by the reviewing authority; and
 
                              (ii)  imposes another prescribed punishment; and
 
@@ -3716,9 +3576,9 @@ the punishments so imposed (including the punishment the suspension of which is 
 
           (4B)  Subject to subsection (5), where:
 
-                     (a)  a summary authority convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended in whole or in part) and, on that conviction:
+                     (a)  a service tribunal convicts of a service offence a person who is already subject to a prescribed punishment (being a punishment that is suspended) and, on that conviction:
 
-                              (i)  recommends to a competent reviewing authority, under subsection 80(3), that the suspension be revoked by the reviewing authority;
+                              (i)  recommends to a reviewing authority, under subsection 80(3), that the suspension be revoked by the reviewing authority;
 
                              (ii)  imposes another prescribed punishment that is of the same kind as the suspended punishment; and
 
@@ -3728,9 +3588,7 @@ the punishments so imposed (including the punishment the suspension of which is 
 
 the reviewing authority may order that the punishments so imposed (including the punishment the suspension of which is revoked) shall be cumulative.
 
-             (5)  A service tribunal shall not order that prescribed punishments shall be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first-mentioned punishments) that the tribunal could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the tribunal.
-
-          (5A)  A reviewing authority that has revoked the suspension of the whole or a part of a punishment under subsection 80(4), on the recommendation of a summary authority, must not order that prescribed punishments are to be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first-mentioned punishments) that the summary authority could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the summary authority.
+             (5)  A service tribunal or a reviewing authority that has revoked a suspension of a punishment on the recommendation of a service tribunal shall not order that prescribed punishments shall be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first-mentioned punishments) that the tribunal could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the tribunal.
 
              (6)  Where:
 
@@ -3754,11 +3612,9 @@ that last-mentioned punishment shall commence at the expiration of the period of
 
                      (b)  a service tribunal convicts the person of a service offence that was committed during that period;
 
-the tribunal may, subject to subsection (3), if it is satisfied that, by reason of the person’s commission of that offence, the person has failed to be of good behaviour, take action under this Part in relation to the person for the service offence in relation to which that undertaking was given.
+the tribunal may, subject to section 131, if it is satisfied that, by reason of the person’s commission of that offence, the person has failed to be of good behaviour, take action under this Part in relation to the person for the service offence in relation to which that undertaking was given.
 
              (2)  A service tribunal, before taking action under subsection (1), shall hear evidence relevant to the determination of what action should be taken.
-
-             (3)  The only action that a service tribunal may take under this Part, in relation to a person for a service offence in relation to which an undertaking was given under subsection 75(2), is action that could have been taken under this Part in relation to the person by the service tribunal that convicted the person of the service offence.
 
 ##### <a id="77"></a>77  Taking other offences into consideration
 
@@ -3788,11 +3644,11 @@ an admission for the purposes of paragraph (1)(c) in relation to that service 
 
 ##### <a id="78"></a>78  Suspension of detention
 
-             (1)  Subject to this section, a service tribunal that imposes a punishment of detention may make an order suspending the whole or a part of that punishment.
+             (1)  Subject to this section, a service tribunal that imposes a punishment of detention may make an order suspending that punishment.
 
-             (2)  Where a service tribunal imposes on a person 2 or more punishments of detention in respect of 2 or more service offences, the service tribunal shall not make an order suspending the whole or a part of any of those punishments unless it also makes an order suspending the whole or a part of the other punishment or the other punishments.
+             (2)  Where a service tribunal imposes on a person 2 or more punishments of detention in respect of 2 or more service offences, the service tribunal shall not make an order suspending any of those punishments unless it also makes an order suspending the other punishment or the other punishments.
 
-             (3)  Where a service tribunal makes an order suspending the whole or a part of a punishment of detention, the punishment, or such part of the punishment as is suspended, does not begin, and shall not be put into execution, while the suspension remains in force.
+             (3)  Where a service tribunal makes an order suspending a punishment of detention, the punishment does not begin, and shall not be put into execution, while the suspension remains in force.
 
 ##### <a id="79"></a>79  Suspension of fines
 
@@ -3804,37 +3660,37 @@ an admission for the purposes of paragraph (1)(c) in relation to that service 
 
 ##### <a id="80"></a>80  Revocation of suspension of punishment
 
-             (1)  Subject to subsection (2), where a person convicted of a service offence by a service tribunal is already subject to a punishment that is suspended (whether in whole or in part), the tribunal may revoke the suspension and, in that event, the punishment, or such part of the punishment, that was suspended shall, subject to subsection 172(2), take effect as if it had been imposed at the time of the revocation.
+             (1)  Subject to subsection (2), where a person convicted of a service offence by a service tribunal is already subject to a punishment that is suspended, the tribunal may revoke the suspension and, in that event, the punishment that was suspended shall, subject to subsection 172(2), take effect as if it had been imposed at the time of the revocation.
 
-             (2)  A summary authority must not revoke the suspension of the whole or a part of a punishment if the authority would not have had power to impose the punishment if it had convicted the person of the service offence for which the punishment was imposed.
+             (2)  A service tribunal shall not revoke the suspension of a punishment if the tribunal would not have had power to impose the punishment if it had convicted the person of the service offence for which the punishment was imposed.
 
-             (3)  Where, by virtue of subsection (2), a summary authority is not empowered to revoke a suspension that it considers should be revoked, the summary authority may recommend to a competent reviewing authority that the suspension be revoked by that authority.
+             (3)  Where, by virtue of subsection (2), a service tribunal is not empowered to revoke a suspension that it considers should be revoked, the tribunal may recommend to a reviewing authority that the suspension be revoked by that authority.
 
-             (4)  Where, under subsection (3), a summary authority recommends to a competent reviewing authority that a suspension of the whole or a part of a punishment be revoked, the authority may revoke the suspension and, in that event, the punishment, or such part of the punishment, that was suspended shall, subject to subsection 172(2), take effect as if it had been imposed at the time of the revocation.
+             (4)  Where, under subsection (3), a service tribunal recommends to a reviewing authority that a suspension of a punishment be revoked, the authority may revoke the suspension and, in that event, the punishment that was suspended shall, subject to subsection 172(2), take effect as if it had been imposed at the time of the revocation.
 
 ##### <a id="81"></a>81  Remission of suspended punishment
 
              (1)  Where:
 
-                     (a)  a punishment imposed on a member of the Defence Force has been suspended in whole or in part and that suspension has not been revoked; and
+                     (a)  a punishment imposed on a member of the Defence Force has been suspended and that suspension has not been revoked; and
 
                      (b)  the member ceases to be a member of the Defence Force;
 
 that punishment is remitted.
 
-             (2)  Where a punishment of detention has been suspended in whole or in part and that suspension has not been revoked, that punishment, or such part of that punishment as has been suspended, is remitted at the expiration of:
+             (2)  Where a punishment of detention has been suspended and that suspension has not been revoked, that punishment is remitted at the expiration of:
 
                      (a)  a period of 12 months; or
 
                      (b)  a period equal to the period for which the punishment of detention was imposed;
 
-whichever is the greater period, commencing on the date of the order under subsection 78(1) suspending that punishment or that part of that punishment.
+whichever is the greater period, commencing on the date of the order under subsection 78(1) or 162(8) suspending that punishment.
 
              (3)  Where a punishment of a fine has been suspended in whole or in part and that suspension has not been revoked, that punishment, or so much of that punishment as is suspended, is remitted at the expiration of a period of 12 months commencing on the date of the order under section 79 suspending that punishment.
 
 ##### <a id="82"></a>82  Remission of punishment of detention on imprisonment
 
-                   Where a service tribunal imposes a punishment of imprisonment on a convicted person who is already subject to a punishment of detention (whether or not that punishment, or a part of that punishment, has been suspended), that punishment of detention, or such part of that punishment of detention as has not been served, is remitted.
+                   Where a service tribunal imposes a punishment of imprisonment on a convicted person who is already subject to a punishment of detention (whether or not that punishment has been suspended), that punishment of detention, or such part of that punishment of detention as has not been served, is remitted.
 
 ##### <a id="83"></a>83  Restitution orders
 
@@ -4254,7 +4110,7 @@ shall cause the imposition, variation or revocation to be notified to the person
 
 ##### <a id="99"></a>99  Suspension from duty after conviction
 
-             (1)  Where a summary authority imposes upon a member of the Defence Force a punishment that does not take effect unless it is approved by a reviewing authority, the summary authority or a reviewing authority may, by notice in writing served on the member, suspend the member from duty pending the decision of the reviewing authority.
+             (1)  Where a service tribunal imposes upon a member of the Defence Force a punishment that does not take effect unless it is approved by a reviewing authority, the service tribunal or a reviewing authority may, by notice in writing served on the member, suspend the member from duty pending the decision of the reviewing authority.
 
              (2)  Where a member of the Defence Force is convicted of a service offence, a civil court offence or an overseas offence, an authorized officer may, by notice in writing served on the member, suspend the member from duty pending a decision as to the termination of the member’s service.
 
@@ -4274,7 +4130,7 @@ shall cause the imposition, variation or revocation to be notified to the person
 
                      (a)  in the case of a suspension under subsection 98(1) or 99(2)—an authorised officer; or
 
-                     (b)  in the case of a suspension under subsection 99(1)—the summary authority by which the suspension was imposed or a reviewing authority.
+                     (b)  in the case of a suspension under subsection 99(1)—the service tribunal by which the suspension was imposed or a reviewing authority.
 
              (6)  A member of the Defence Force who is suspended from duty under subsection 98(1) or section 99 is entitled to engage in employment outside the Defence Force during any period of suspension in respect of which the member is not receiving remuneration.
 
@@ -5298,7 +5154,7 @@ and may seize any such thing found in the course of the search if:
 
 ##### <a id="103"></a>103  Courses open to Director of Military Prosecutions
 
-             (1)  Where a charge is referred to the Director of Military Prosecutions under section 101ZAA, subsection 105A(2), paragraph 109(b) or 110(1)(d), subsection 129(2) or 130(5), section 131A or subsection 141(8), 145(1) or (3) or 194(7), the Director of Military Prosecutions may:
+             (1)  Where a charge is referred to the Director of Military Prosecutions under section 101ZAA, subsection 105A(2), paragraph 109(b) or 110(1)(d), subsection 130(5) or 131(4), section 131A or subsection 141(8), 145(1) or (3) or 194(7), the Director of Military Prosecutions may:
 
                      (a)  direct that the charge be not proceeded with;
 
@@ -5308,13 +5164,21 @@ and may seize any such thing found in the course of the search if:
 
 Note:          See also paragraph 87(1)(c) for additional powers that may be exercised by the Director of Military Prosecutions in relation to a charge.
 
-             (2)  If, under the _Defence Force Discipline Appeals Act 1955_, the Defence Force Discipline Appeal Tribunal or the Federal Court of Australia orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge to the Australian   Military Court for trial.
+             (2)  Where:
 
-          (2A)  If, under section 165, the Australian Military Court orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge that was the subject of the proceedings to which the appeal relates to the Australian Military Court for a new trial.
+                     (a)  a reviewing authority under section 160 orders a new trial of a person; or
 
-             (3)  Nothing in subsection (2) or (2A) requires the Director of Military Prosecutions to proceed with a new trial of a person unless the Director of Military Prosecutions is satisfied that there is sufficient cogent evidence to justify a new trial of the person.
+                     (b)  the Defence Force Discipline Appeal Tribunal or the Federal Court of Australia, under the _Defence Force Discipline Appeals Act 1955_ orders a new trial of a person;
 
-             (4)  If under subsection 111C(1) or 131AA(1):
+the Director of Military Prosecutions may:
+
+                     (c)  if the charge is a charge that is within the jurisdiction of a superior summary authority or a commanding officer to try—refer the charge to the superior summary authority or the commanding officer for trial;
+
+                     (d)  request the Registrar to refer the charge to the Australian Military Court for trial.
+
+             (3)  Nothing in subsection (2) requires the Director of Military Prosecutions to proceed with a new trial of a person unless the Director of Military Prosecutions is satisfied that there is sufficient cogent evidence to justify a new trial of the person.
+
+             (4)  Where under section 131:
 
                      (a)  an accused person elects to be tried by the Australian Military Court; and
 
@@ -5322,9 +5186,17 @@ Note:          See also paragraph 87(1)(c) for additional powe
 
 the Director of Military Prosecutions may:
 
-                     (c)  direct that the charge be not proceeded with; or
+                     (c)  direct that the charge be not proceeded with;
 
                      (d)  request the Registrar to refer the charge to the Australian Military Court for trial.
+
+             (5)  If, under section 131:
+
+                     (a)  a convicted person elects to be punished by the Australian Military Court; and
+
+                     (b)  the summary authority refers the conviction to the Director of Military Prosecutions;
+
+the Director of Military Prosecutions must request the Registrar to refer the conviction to the Court to take action under Part IV in relation to the convicted person.
 
 ##### <a id="103A"></a>103A  Director of Military Prosecutions may decide that class 3 offence is to be tried by Military Judge alone
 
@@ -5370,7 +5242,7 @@ Note 3:       The maximum punishment that may be imposed on a person
 
              (2)  A commanding officer may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a subordinate summary authority.
 
-##### <a id="105A"></a>105A  Referral of charge to Director of Military Prosecutions before dealing with charge under section 109, 110 or 111
+##### <a id="105A"></a>105A  Referral of charge to Director of Military Prosecutions before dealing with charge under section 109, 110 or 111
 
              (1)  This section applies if:
 
@@ -5388,15 +5260,13 @@ Note:          Under paragraph 103(1)(b), the Director of Mili
 
                    A superior summary authority has jurisdiction to try a charge against:
 
-                     (a)  an officer who is 2 or more ranks junior to him or her, being an officer of or below the rank of rear admiral, major-general or air vice-marshal; or
+                     (a)  an officer who is 2 or more ranks junior to him or her, being an officer of or below the rank of lieutenant-commander, major or squadron-leader;
 
                      (b)  a warrant officer; or
 
                      (c)  a person who is not a member of the Defence Force;
 
 in respect of a service offence that is not a prescribed offence.
-
-Note:          A superior summary authority may be disqualified from trying a charge against a person because of subsection 108A(1).
 
 ##### <a id="107"></a>107  Jurisdiction of commanding officer
 
@@ -5410,8 +5280,6 @@ Note:          A superior summary authority may be disqualifie
 
 in respect of a service offence that is not a prescribed offence.
 
-Note:          A commanding officer may be disqualified from trying a charge against a person because of subsection 108A(1).
-
 ##### <a id="108"></a>108  Jurisdiction of subordinate summary authority
 
              (1)  A subordinate summary authority has jurisdiction to deal with a charge against a member of the Defence Force who is not an officer in respect of a service offence of a kind notified, in writing, to the authority by the commanding officer who appointed him or her.
@@ -5420,33 +5288,13 @@ Note:          A commanding officer may be disqualified from t
 
              (2)  A subordinate summary authority has jurisdiction to try a charge against a member of the Defence Force of, or below, the rank of leading seaman or corporal in respect of a service offence (other than a prescribed offence) of a kind notified, in writing, to the authority by the commanding officer who appointed him or her.
 
-Note:          A subordinate summary authority may be disqualified from trying a charge against a person because of subsection 108A(1).
-
              (3)  A subordinate summary authority has jurisdiction to try a charge against a prescribed officer in respect of a service offence (other than a prescribed offence) of a kind notified, in writing, to the authority by the commanding officer who appointed him or her.
-
-Note:          A subordinate summary authority may be disqualified from trying a charge against a person because of subsection 108A(1).
 
              (4)  In this section, **_prescribed officer_** means an officer who is:
 
                      (a)  included in a prescribed class of officers; and
 
                      (b)  receiving instruction or training.
-
-##### <a id="108A"></a>108A  Disqualification of summary authority from trying a charge
-
-             (1)  A summary authority must not try a charge of a service offence against a person if the summary authority was involved in:
-
-                     (a)  the investigation of the offence; or
-
-                     (b)  the issuing of a warrant for the arrest of the person; or
-
-                     (c)  charging the person with the offence.
-
-             (2)  If a summary authority is not permitted to try a charge of a service offence against a person because of subsection (1), the summary authority must refer the charge to another summary authority, being a summary authority who:
-
-                     (a)  has jurisdiction to try the charge; and
-
-                     (b)  is not prevented from trying the charge because of subsection (1).
 
 ##### <a id="109"></a>109  Dealing with a charge by superior summary authority
 
@@ -5488,89 +5336,7 @@ Note:          A subordinate summary authority may be disquali
 
              (1)  A summary authority may, if he or she thinks it desirable to do so, hear evidence in relation to a charge for the purpose of determining, under section 109, 110 or 111, the manner in which the charge is to be dealt with, but, if he or she does so, nothing in this subsection precludes him or her from trying the charge.
 
-Note:          A summary authority is not bound by the rules of evidence and may hear any evidence that it considers to be of assistance and relevance in proceedings for the purpose referred to in this subsection: see section 146A.
-
-             (2)  The regulations may make provision for and in relation to the admissibility, in proceedings before a service tribunal (including proceedings by way of trying a charge), of evidence adduced in proceedings before a summary authority for the purpose referred to in subsection (1).
-
-##### <a id="111B"></a>111B  Accused person may elect to be tried by the Australian Military Court—election before commencement of trial
-
-             (1)  At the commencement of dealing with a charge against an accused person, the summary authority must give the person an opportunity to elect, in accordance with section 111C, to have the charge tried by the Australian Military Court.
-
-Note 1:       If the summary authority is dealing with an accused person in respect of 2 or more charges (the **_linked charges_**) that arise from the same facts or circumstances, and the accused person makes an election to have one or more of the linked charges tried by the Australian Military Court, the summary authority must refer that charge or those charges and, unless the Director of Military Prosecutions agrees otherwise, any other linked charge to the Director of Military Prosecutions: see subsection 111C(3).
-
-Note 2:       If the summary authority is dealing with 2 or more accused persons together, the summary authority must give each accused person an opportunity to make an election in accordance with section 111C.
-
-Note 3:       If a charge is tried by the Australian Military   Court because of an election under subsection 111C(1), the charge will be tried by a Military Judge alone: see subsection 132AB(2A).
-
-             (2)  Subsection (1) does not apply in relation to:
-
-                     (a)  a charge of a prescribed offence; or
-
-                     (b)  a charge of any other service offence that:
-
-                              (i)  arises from the same facts and circumstances as a prescribed offence; and
-
-                             (ii)  is being dealt with together with that offence; or
-
-                     (c)  a charge of a Schedule 1A offence (other than a Schedule 1A offence covered by paragraph (b)), unless the accused person is:
-
-                              (i)  an officer of or below the rank of rear admiral but above the rank of lieutenant commander; or
-
-                             (ii)  an officer of or below the rank of major-general but above the rank of major; or
-
-                            (iii)  an officer of or below the rank of air vice-marshal but above the rank of squadron leader.
-
-             (3)  The accused person must be given an opportunity to obtain legal advice in relation to the election if a legal officer is reasonably available to give such advice.
-
-##### <a id="111C"></a>111C  Decision by accused person whether to elect to be tried by the Australian   Military Court—decision before commencement of trial
-
-When election decision must be made
-
-             (1)  If, under section 111B, a summary authority gives an accused person an opportunity to elect to have a charge tried by the Australian Military Court, the accused person must decide whether or not to make the election:
-
-                     (a)  within 24 hours after the opportunity to make the election is given; or
-
-                     (b)  if the exigencies of service do not permit the person to make the decision within that time—within such longer period (not exceeding 14 days) as the summary authority allows.
-
-             (2)  The summary authority must ensure that a decision under subsection (1) is recorded in writing.
-
-Decision to elect to have charge tried by the Australian   Military Court
-
-             (3)  If the accused person elects to have the charge tried by the Australian Military Court, the summary authority must:
-
-                     (a)  refer the charge (the **_first charge_**) to the Director of Military Prosecutions; and
-
-                     (b)  unless the Director of Military Prosecutions agrees otherwise, refer any other charge (including a charge in respect of a Schedule 1A offence) against the accused person that is linked to the first charge, and that is being dealt with together with the first charge, to the Director of Military Prosecutions; and
-
-                     (c)  inform the Registrar that the charge or charges have been referred to the Director of Military Prosecutions.
-
-             (4)  For the purposes of paragraph (3)(b), a charge (the **_first charge_**) against a person is linked to another charge against the person if the first charge and the other charge arise from the same facts or circumstances.
-
-Decision not to elect to have charge tried by the Australian   Military Court
-
-             (5)  If:
-
-                     (a)  the accused person:
-
-                              (i)  does not elect to have the charge tried by the Australian Military Court; or
-
-                             (ii)  does not make a decision within the time allowed under subsection (1); and
-
-                     (b)  the charge is not referred to the Director of Military Prosecutions under paragraph (3)(b);
-
-the summary authority must deal with the charge.
-
-Withdrawal of election
-
-             (6)  An accused person who has elected to have a charge tried by the Australian Military Court may withdraw the election at any time before a date is fixed for hearing by the Court.
-
-             (7)  If an accused person withdraws an election to have a charge tried by the Australian Military Court:
-
-                     (a)  the Director of Military Prosecutions must inform the Registrar; and
-
-                     (b)  the Director of Military Prosecutions must refer the charge, and any other charge referred to the Director of Military Prosecutions under paragraph (3)(b), to a summary authority; and
-
-                     (c)  the summary authority must deal with the charge or charges.
+             (2)  Without limiting the generality of subsection 146(2), regulations made by virtue of that subsection may make provision for and in relation to the admissibility, in proceedings before a service tribunal (including proceedings by way of trying a charge), of evidence adduced in proceedings before a summary authority for the purpose referred to in subsection (1).
 
 ##### <a id="112"></a>112  Discontinuance
 
@@ -5614,13 +5380,13 @@ Note 2:       The Australian Military Court is a service tribunal fo
 
              (2)  However, the Australian Military Court does not have jurisdiction to try a charge of a custodial offence.
 
-             (3)  The Australian Military Court has jurisdiction to hear and determine appeals from decisions of summary authorities (including a decision relating to a charge of a custodial offence).
+             (3)  The Australian Military Court has jurisdiction to take action under Part IV in relation to a convicted person if the conviction had been referred to the Court under subsection 103(5) for that purpose.
 
-Note:          Part IX deals with appeals to the Australian   Military Court.
+             (4)  Before taking action under subsection (3), the Australian Military Court must hear evidence relevant to the determination of what action should be taken.
 
 ##### <a id="116"></a>116  Exercise of jurisdiction
 
-             (1)  For the purposes of the exercise of the jurisdiction of the Australian Military Court (including the Court’s jurisdiction to hear and determine appeals from decisions of summary authorities), the Court is to be constituted by a single Military Judge.
+             (1)  For the purposes of the exercise of the jurisdiction of the Australian Military Court, the Court is to be constituted by a single Military Judge.
 
              (2)  The Australian Military Court constituted by a Military Judge may sit and exercise the jurisdiction of the Court even if the Court constituted by another Military Judge is at the same time sitting and exercising the jurisdiction of the Court.
 
@@ -5642,13 +5408,13 @@ Referral of charges
 
              (1)  The Registrar must refer a charge to the Australian   Military Court if the Director of Military Prosecutions requests the Registrar to do so.
 
-Nomination of Military Judge to try charge or hear appeal
+             (2)  The Chief Military Judge must nominate the Military Judge who is to try the charge.
 
-             (2)  The Chief Military Judge must nominate the Military Judge who is:
+Referral of convictions
 
-                     (a)  to try a charge referred to the Australian   Military Court; or
+             (3)  The Registrar must refer a conviction to the Australian Military Court to take action under Part IV in relation to a convicted person if the Director of Military Prosecutions requests the Registrar to do so.
 
-                     (b)  to hear and determine an appeal to the Australian Military Court.
+             (4)  The Chief Military Judge must nominate the Military Judge who is to take action in relation to the person.
 
 ##### <a id="119"></a>119  Seal of the Australian Military Court
 
@@ -5748,37 +5514,11 @@ Eligibility where accused is not an officer or a defence civilian
 
 ### Division 1—Trial by summary authority
 
-##### <a id="129"></a>129  Time within which trial must be commenced
-
-             (1)  The trial of a charge of a service offence that is to be tried by a summary authority:
-
-                     (a)  must be commenced:
-
-                              (i)  as soon as practicable within the period of 3 months after the accused person is charged with the service offence; or
-
-                             (ii)  if the exigencies of service or other circumstances do not permit the trial to be commenced within this period—within a longer period as allowed by a superior authority; and
-
-                     (b)  must be completed as soon as practicable.
-
-             (2)  If a summary authority that is to try a charge does not commence the trial within the period allowed under paragraph (1)(a), the summary authority must refer the charge to the Director of Military Prosecutions.
-
 ##### <a id="130"></a>130  Trial by summary authority
 
              (1)  A summary authority shall try a charge in accordance with the following provisions:
 
-                     (a)  if the accused person is present at the hearing:
-
-                              (i)  the authority, before hearing any evidence on the charge, must ask the accused person whether he or she pleads guilty or not guilty to the charge; and
-
-                             (ii)  if the accused person pleads guilty and the authority is satisfied that the accused person understands the effect of that plea—the authority must, subject to subsection 131(3), convict the accused person;
-
-                    (aa)  if:
-
-                              (i)  the accused person has pleaded guilty to the charge in writing; and
-
-                             (ii)  the authority has made an order under subsection 139(4) (permitting the accused person not to be present at the hearing);
-
-                            the authority must convict the accused person;
+                     (a)  the authority, before hearing any evidence on the charge, shall ask the accused person whether he or she pleads guilty or not guilty to the charge and, if the accused person pleads guilty and the authority is satisfied that the accused person understands the effect of that plea, the authority shall convict the accused person;
 
                      (b)  if the accused person pleads not guilty or the authority is not satisfied that the accused person, in pleading guilty, understands the effect of that plea, the authority shall record a plea of not guilty and proceed to hear the evidence on the charge;
 
@@ -5814,89 +5554,61 @@ Eligibility where accused is not an officer or a defence civilian
 
              (6)  Subsection (5) does not affect the operation of any other provision of this Act.
 
-##### <a id="131"></a>131  Accused person may elect to be tried by the Australian Military Court—election during trial
+##### <a id="131"></a>131  Election of trial or punishment
 
-             (1)  This section applies to a trial by a superior summary authority, or a commanding officer, of a charge of a Schedule 1A offence (other than a custodial offence).
-
-             (2)  However, this section does not apply in relation to an accused person who is an officer referred to in paragraph 111B(2)(c).
-
-             (3)  If, during the trial, the summary authority considers:
+             (1)  Where on a trial of a charge a summary authority is of opinion:
 
                      (a)  that the evidence adduced by the prosecution is sufficient to support the charge; and
 
-                     (b)  that, if the accused person were convicted, it would be appropriate to impose an elective punishment on the person;
+                     (b)  that, in the event of his or her convicting the accused person, he or she is likely to impose an elective punishment;
 
-the summary authority must, before making a finding in relation to the charge, give the accused person an opportunity to elect, in accordance with section 131AA, to have the charge tried by the Australian   Military Court.
+the summary authority shall give the accused person an opportunity to elect to be tried by the Australian Military Court.
 
-Note 1:       If the summary authority considers that it would be appropriate to impose elective punishments in relation to 2 or more charges that are being tried together, the summary authority must give the accused person an opportunity to make an election in relation to each charge. If the accused person makes an election to have one or more of those charges tried by the Australian Military Court, the summary authority must refer that charge or those charges and, unless the Director of Military Prosecutions agrees otherwise, any other linked charge to the Director of Military Prosecutions: see subsection 131AA(3).
+             (2)  Where:
 
-Note 2:       If the summary authority considers that it would be appropriate to impose, on 2 or more accused persons who are being tried together, elective punishments in relation to one or more charges, the summary authority must give each accused person an opportunity to make an election in relation to each of those charges.
+                     (a)  an accused person is given an opportunity, in accordance with subsection (1), to elect to be tried by the Australian Military Court but fails to do so; or
 
-Note 3:       If a charge is tried by the Australian Military   Court because of an election under subsection 131AA(1), the charge will be tried by a Military Judge alone: see subsection 132AB(2A).
+                     (b)  an accused person elects to be tried by the Australian Military Court but the summary authority considers that the exigencies of service do not permit such a trial without undue delay;
 
-Note 4:       See section 67 and Schedule 3 (in particular, subclauses 1(3) and (4) and 2(2) and (3) of that Schedule) in relation to the punishments that a superior summary authority or a commanding officer may impose on a person convicted of a Schedule 1A offence.
+the summary authority shall proceed with the trial of the accused person.
 
-             (4)  The accused person must be given an opportunity to obtain legal advice in relation to the election if a legal officer is reasonably available to give such advice.
+          (2A)  Where:
 
-##### <a id="131AA"></a>131AA  Decision by accused person whether to elect to be tried by the Australian   Military Court—decision during trial
+                     (a)  a summary authority convicts a person under paragraph 130(1)(a) of an offence; and
 
-When election decision must be made
+                     (b)  the summary authority is of the opinion that an elective punishment should be imposed on the person for the offence;
 
-             (1)  If, under section 131, a summary authority gives an accused person an opportunity to elect to have a charge of a Schedule 1A offence tried by the Australian Military Court, the accused person must decide whether or not to make the election:
+the summary authority shall give the person an opportunity to elect to be punished by the Australian Military Court for the offence.
 
-                     (a)  within 24 hours after the opportunity to make the election is given; or
+          (2B)  Where:
 
-                     (b)  if the exigencies of service do not permit the person to make the decision within that time—within such longer period (not exceeding 14 days) as the summary authority allows.
+                     (a)  a person convicted of an offence by a summary authority is given an opportunity, in accordance with subsection (2A), to elect to be punished by the Australian Military Court for the offence but fails to do so; or
 
-             (2)  The summary authority must ensure that a decision under subsection (1) is recorded in writing.
+                     (b)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by the Australian Military Court for the offence but the summary authority considers that the exigencies of service do not permit the reference of the conviction to the Court;
 
-Decision to elect to have charge tried by the Australian   Military Court
+the summary authority shall take action under Part IV in relation to the convicted person.
 
-             (3)  If the accused person elects to have the charge tried by the Australian Military Court, the summary authority must:
+             (3)  Where a summary authority proposes, in accordance with section 76, to impose on a person an elective punishment for a service offence in relation to which an undertaking was given by the person under subsection 75(2), the summary authority shall give the person an opportunity to elect to be punished by the Australian Military Court for that service offence and for the other service offence of which the person has been convicted by the summary authority.
 
-                     (a)  refer the charge (the **_first charge_**) to the Director of Military Prosecutions; and
+             (4)  Where an accused person makes an election under subsection (1), (2A) or (3), then, subject to paragraph (2)(b), the summary authority shall refer the charge or the conviction, as the case may be, to the Director of Military Prosecutions.
 
-                     (b)  unless the Director of Military Prosecutions agrees otherwise, refer any other charge against the accused person that is linked to the first charge, and that is being tried together with the first charge, to the Director of Military Prosecutions; and
+             (5)  A person who has elected to be tried or punished by the Australian Military Court may, by notice to the Registrar, withdraw his or her election at any time before a date is fixed for hearing by the Court.
 
-                     (c)  inform the Registrar that the charge or charges have been referred to the Director of Military Prosecutions.
+             (6)  Where, in accordance with subsection (5), a person withdraws an election to be tried by the Australian Military Court, the summary authority shall proceed with the trial of the person.
 
-             (4)  For the purposes of paragraph (3)(b), a charge (the **_first charge_**) against a person is linked to another charge against the person if the first charge and the other charge arise from the same facts or circumstances.
+             (7)  Where:
 
-Decision not to elect to have charge tried by the Australian   Military Court
+                     (a)  a summary authority proceeds with the trial of a person in accordance with subsection (2) or (6) and convicts the person;
 
-             (5)  If:
+                     (b)  a person convicted by a summary authority is given an opportunity, in accordance with subsection (2A) or (3), to elect to be punished by the Australian Military Court but fails to do so;
 
-                     (a)  the accused person:
+                    (ba)  a person convicted of an offence by a summary authority elects under subsection (2A) to be punished by the Australian Military Court for the offence but the summary authority considers that the exigencies of service do not permit the reference of the conviction to the Court; or
 
-                              (i)  does not elect to have the charge tried by the Australian Military Court; or
+                     (c)  in accordance with subsection (5), a person convicted by a summary authority withdraws an election to be punished by the Australian Military Court;
 
-                             (ii)  does not make a decision within the time allowed under subsection (1); and
+the summary authority may proceed to impose an elective punishment on the convicted person.
 
-                     (b)  the charge is not referred to the Director of Military Prosecutions under paragraph (3)(b);
-
-the summary authority must proceed with the trial of the charge.
-
-Withdrawal of election
-
-             (6)  An accused person who has elected to have a charge tried by the Australian Military Court may withdraw the election at any time before a date is fixed for hearing by the Court.
-
-             (7)  If an accused person withdraws an election to have a charge tried by the Australian Military Court:
-
-                     (a)  the Director of Military Prosecutions must inform the Registrar; and
-
-                     (b)  the Director of Military Prosecutions must refer the charge, and any other charge referred to the Director of Military Prosecutions under paragraph (3)(b), to the summary authority referred to in subsection 131(1); and
-
-                     (c)  the summary authority must proceed with the trial of the charge or charges.
-
-Punishments that may be imposed by summary authority
-
-             (8)  If:
-
-                     (a)  under subsection (5) or (7), a summary authority proceeds with the trial of a charge of a Schedule 1A offence; and
-
-                     (b)  the summary authority convicts the accused person of the offence;
-
-the summary authority may impose an elective punishment on the convicted person in respect of the offence.
+             (8)  A summary authority shall not impose an elective punishment except in accordance with this section.
 
 ##### <a id="131A"></a>131A  Reference of charge to Director of Military Prosecutions
 
@@ -5919,12 +5631,6 @@ the superior summary authority or commanding officer, as the case may be, shall 
              (2)  This section applies to a conviction by a summary authority whether the conviction occurs before or after the commencement of this section.
 
 ### Division 2—Trial by the Australian   Military Court
-
-##### <a id="132"></a>132  Application of Division
-
-                   This Division does not apply to an appeal to the Australian Military Court from a decision of a summary authority.
-
-Note:          Part IX deals with appeals to the Australian   Military Court.
 
 ##### <a id="132A"></a>132A  Trial of class 1 offences etc.
 
@@ -5956,9 +5662,7 @@ Note:          Part IX deals with appeals to the Australian 
 
 Note:          The maximum punishment that may be imposed on a person who is convicted of a class 3 offence that is tried by a Military Judge alone, because of a decision by the Director of Military Prosecutions under subsection 103A(2), is imprisonment for a period of 6 months: see clause 2 of Schedule 2.
 
-          (2A)  If the charge was referred to the Australian   Military Court for trial because of an election by the accused person under subsection 111C(1) or 131AA(1), the charge is to be tried by a Military Judge alone.
-
-             (3)  If neither subsection (2) nor (2A) applies to the charge, the trial is to be by a Military Judge alone, unless:
+             (3)  If subsection (2) does not apply to the charge, the trial is to be by a Military Judge alone, unless:
 
                      (a)  if one accused person only is to be tried—the accused person elects to have the charge, or (if 2 or more charges are to be tried together) all the charges, tried by a Military Judge and military jury; or
 
@@ -6074,13 +5778,7 @@ the Military Judge must record a plea of not guilty and proceed to hear the evid
 
 ### Division 3—General
 
-#### Subdivision A—General provisions relating to trials
-
-##### <a id="137A"></a>137A  Application of Subdivision
-
-                   This Subdivision does not apply to an appeal to the Australian Military Court from a decision of a summary authority.
-
-Note:          Part IX deals with appeals to the Australian   Military Court.
+#### Subdivision A—General
 
 ##### <a id="138"></a>138  Procedural powers
 
@@ -6104,31 +5802,9 @@ Note:          Part IX deals with appeals to the Australian 
 
 ##### <a id="139"></a>139  Accused person to be present at hearing
 
-General rule
-
-             (1)  Subject to subsections (2) and (5), a hearing before a service tribunal shall be held in the presence of the accused person.
+             (1)  Subject to subsection (2), a hearing before a service tribunal shall be held in the presence of the accused person.
 
              (2)  If a service tribunal considers that, by reason of the disorderly behaviour of the accused person, it is impossible to continue the hearing in his or her presence, the tribunal may order that the accused person be removed from the place of hearing and be held in custody elsewhere.
-
-Exception—trial by summary authority
-
-             (3)  If:
-
-                     (a)  a charge is to be tried by a summary authority; and
-
-                     (b)  because of exceptional circumstances, the accused person is unable to attend the hearing of the charge; and
-
-                     (c)  the accused person pleads guilty to the charge in writing before the hearing;
-
-the accused person may apply in writing to the summary authority for an order permitting the accused person not to be present at the hearing.
-
-             (4)  The summary authority may make an order permitting the accused person not to be present at the hearing if the authority:
-
-                     (a)  is satisfied that the accused person understands the effect of the plea; and
-
-                     (b)  considers that exceptional circumstances exist.
-
-             (5)  If the summary authority makes an order under subsection (4), the summary authority must proceed with the trial of the charge by considering, without holding a hearing, the documents or other material provided to the summary authority in relation to the charge.
 
 ##### <a id="140"></a>140  Public hearings by the Australian Military Court
 
@@ -6146,7 +5822,7 @@ the accused person may apply in writing to the summary authority for an order pe
 
                     <a name="secur-place"></a>**_secure place_** means a place the entry to which is controlled by guards who are constables or members of the Defence Force.
 
-##### <a id="141"></a>141  Applications and objections
+##### <a id="141"></a>141  Applications and objections
 
              (1)  At any time before an accused person is asked to plead at a trial by a service tribunal, the accused person:
 
@@ -6172,9 +5848,7 @@ the accused person may apply in writing to the summary authority for an order pe
 
                             (iv)  that the charge does not disclose a service offence or is otherwise wrong in law;
 
-                             (v)  that the service tribunal does not have jurisdiction;
-
-                            (vi)  in the case of a trial by a summary authority—that the summary authority is not permitted to try the charge because of subsection 108A(1).
+                             (v)  that the service tribunal does not have jurisdiction.
 
              (2)  At any time before a military jury is sworn or affirmed, the accused person may enter an objection to any member or reserve member of the military jury on the ground that the member:
 
@@ -6288,8 +5962,6 @@ the trial shall proceed as if the person:
 
              (1)  Where a person has been acquitted or convicted of a service offence, the person is not liable to be tried by a service tribunal for the same offence or for an offence that is substantially the same offence.
 
-Note:          If a person has been convicted of a service offence by a summary authority, the Australian Military Court may, in an appeal against the conviction, quash the conviction and order a new trial of the person for the offence: see section 165.
-
              (2)  Where, under section 77, the Australian Military Court has taken a service offence into consideration in relation to a convicted person, the person is not liable to be tried by a service tribunal for the same offence or for an offence that is substantially the same offence.
 
              (3)  Where:
@@ -6358,53 +6030,23 @@ unless, before the end of the period of 14 days commencing on the day the charge
 
              (6)  In this section, **_evidence in support of an alibi_** means evidence tending to show that by reason only of the presence of the accused person at a particular place, or in a particular area, at a particular time the accused person was not, or was unlikely to have been, at the place where the service offence is alleged to have been committed at the time of the alleged commission of the service offence.
 
-##### <a id="146"></a>146  Evidence in trials by the Australian Military Court
+##### <a id="146"></a>146  Rules of evidence
 
-             (1)  Subject to regulations in force under subsection (2), the rules of evidence in force in the Jervis Bay Territory apply to a trial by the Australian Military Court as if:
+             (1)  Subject to regulations in force under subsection (2), the rules of evidence in force in the Jervis Bay Territory apply to proceedings before a service tribunal as if:
 
-                     (a)  the Australian Military Court were a court exercising jurisdiction in or in relation to that Territory; and
+                     (a)  the tribunal were a court exercising jurisdiction in or in relation to that Territory; and
 
-                     (b)  the trial were a criminal proceeding in such a court.
+                     (b)  the proceedings were criminal proceedings in such a court.
 
-             (2)  The regulations may make rules of evidence to be applied in relation to trials by the Australian Military Court that are in addition to or in substitution for, or that modify, the rules of evidence that, apart from the regulations, would apply in relation to such trials by virtue of subsection (1).
-
-##### <a id="146A"></a>146A  Evidence etc. in proceedings before a summary authority
-
-             (1)  This section applies to proceedings before a summary authority (including proceedings for the purpose referred to in subsection 111A(1)).
-
-             (2)  The summary authority:
-
-                     (a)  must comply with:
-
-                              (i)  the rules of natural justice; and
-
-                             (ii)  the Summary Authority Rules; and
-
-                     (b)  consistently with those rules:
-
-                              (i)  must act with as little legal formality or legal technicality as possible, while ensuring fairness; and
-
-                             (ii)  is, subject to this Act, not bound by the rules of evidence (whether statutory or common law), but must comply with the basic principles of those rules relating to relevance, reliability, weight and probative value; and
-
-                            (iii)  may admit any documents or call any witnesses that the summary authority considers to be of assistance and relevance; and
-
-                            (iv)  may give such weight as the summary authority considers appropriate to any evidence admitted under subparagraph (iii), having regard to the importance of the evidence in the proceedings and its probative value.
-
-Note:          The Summary Authority Rules may make provision in relation to the giving of testimony and other evidence: see paragraph 149(aa).
-
-             (3)  Nothing in this section allows a person to be compelled to testify against himself or herself, or to give particular evidence, in proceedings before a summary authority, if doing so might tend to incriminate the person or expose the person to a penalty.
-
-             (4)  This section does not affect the law relating to legal professional privilege.
+             (2)  The regulations may make rules of evidence to be applied in relation to proceedings before a service tribunal that are in addition to or in substitution for, or that modify, the rules of evidence that, apart from the regulations, would apply in relation to such proceedings by virtue of subsection (1).
 
 ##### <a id="147"></a>147  Judicial notice of service matters
 
-             (1)  In addition to the matters of which judicial notice may be taken by a court under the rules of evidence referred to in section 146, the Australian Military Court must take judicial notice of all matters within the general service knowledge of:
+                   In addition to the matters of which judicial notice may be taken by a court under the rules of evidence referred to in section 146, a service tribunal must take judicial notice of all matters within the general service knowledge of:
 
-                     (a)  the Court; and
+                     (a)  the tribunal; or
 
                      (b)  if the proceedings are before a military jury—the jury.
-
-             (2)  In proceedings before a summary authority, the summary authority must take judicial notice of all matters within the general service knowledge of the summary authority.
 
 ##### <a id="148"></a>148  Record of proceedings to be kept
 
@@ -6536,7 +6178,7 @@ Eligible persons
 
 ##### <a id="148D"></a>148D  Putting documents to a person by video link or audio link
 
-                   If, in the course of an examination or appearance of a person by video link or audio link in accordance with this Subdivision, it is necessary to put a document to the person, the Australian   Military Court may direct or allow the document to be put to the person:
+                   If, in the course of an examination or appearance of a person by video link or audio link in accordance with this Subdivision, it is necessary to put a document to the person, the Australian Military Court may direct or allow the document to be put to the person:
 
                      (a)  if the document is physically present in the courtroom or other place where the Court is sitting:
 
@@ -6566,11 +6208,9 @@ Eligible persons
 
 ##### <a id="149"></a>149  The Summary Authority Rules
 
-                   The Chief Military Judge may, by legislative instrument, make rules, to be known as the Summary Authority Rules, providing for the practice and procedure to be followed by summary authorities and, in particular, providing for:
+                   The Judge Advocate General may, by legislative instrument, make rules, to be known as the Summary Authority Rules, providing for the practice and procedure to be followed by summary authorities and, in particular, providing for:
 
-                     (a)  the attendance and compellability of witnesses; and
-
-                    (aa)  the giving of testimony and other evidence; and
+                     (a)  the attendance of witnesses; and
 
                      (b)  the production of documents; and
 
@@ -6584,9 +6224,7 @@ Eligible persons
 
                      (g)  the manner and form of charges brought before a summary authority; and
 
-                     (h)  the recording of proceedings of a summary authority; and
-
-                      (i)  the reopening of proceedings of a summary authority on request by a reviewing authority.
+                     (h)  the recording of proceedings of a summary authority.
 
 ##### <a id="149A"></a>149A  The Australian Military Court Rules
 
@@ -6614,8 +6252,6 @@ Eligible persons
 
                              (x)  the manner and form of charges brought before the Court; and
 
-                           (xa)  matters relating to appeals to the Court; and
-
                             (xi)  the recording of proceedings of the Court; and
 
                            (xii)  the duties of the Registrar in respect of the practice and procedure of the Court; and
@@ -6626,473 +6262,221 @@ Eligible persons
 
                      (c)  any matter required or permitted by this Act to be prescribed by the Rules.
 
-## Part VIIIA—Review of proceedings of summary authorities
+## Part IX—Review of proceedings of summary authorities
 
-### Division 1—Interpretation and application
+### Division 1—Appointment of reviewing authorities
 
-##### <a id="150"></a>150  Meaning of _reviewing authority_ and _competent reviewing authority_
+##### <a id="150"></a>150  Appointment of reviewing authorities
 
-Appointment of reviewing authorities
+                   The Chief of the Defence Force or a service chief may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a reviewing authority for the purpose of reviewing proceedings of summary authorities and exercising any other powers and functions that are conferred on reviewing authorities by this Act or the regulations.
 
-             (1)  The Chief of the Defence Force or a service chief may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a **_reviewing authority_** for the purposes of:
+##### <a id="150A"></a>150A  Meaning of _competent reviewing authority_
 
-                     (a)  reviewing proceedings of summary authorities; and
+                   A reviewing authority is a **_competent reviewing authority_** for the purposes of reviewing the proceedings of a summary authority that relate to a particular charge only if the reviewing authority did not exercise any of the powers or perform any of the functions of a superior authority in relation to the charge.
 
-                     (b)  exercising any other powers and functions that are conferred on reviewing authorities by this Act or the regulations.
+### Division 2—Automatic and other reviews
 
-Competent reviewing authorities
+##### <a id="151"></a>151  Preliminary automatic review by commanding officer
 
-             (2)  A reviewing authority is a **_competent reviewing authority_** for the purposes of reviewing the proceedings of a summary authority only if the reviewing authority did not exercise any of the powers or perform any of the functions of a superior authority in relation to the charge that is the subject of the proceedings.
+             (1)  As soon as practicable after a subordinate summary authority convicts a person of a service offence, the authority shall transmit the record of the proceedings to the commanding officer of the authority.
 
-##### <a id="150A"></a>150A  Application of Part
+             (2)  Subject to this section, the commanding officer shall, as soon as practicable after receiving the record referred to in subsection (1), review the proceedings in accordance with this Part and, for that purpose, the commanding officer shall be deemed to be a reviewing authority.
 
-                   This Part applies in relation to proceedings of a summary authority that have resulted in a conviction of a person of a service offence.
+             (3)  The commanding officer may, but is not required to, obtain a report under section 154.
 
-### Division 2—Automatic review by reviewing authority
+             (4)  The commanding officer shall, as soon as practicable after completing the review of the proceedings, transmit the record of the proceedings and a report of the results of that review to a legal officer.
 
-##### <a id="151"></a>151  Review of proceedings of subordinate summary authority
+             (5)  The legal officer shall, as soon as practicable after receiving the record of the proceedings and the report referred to in subsection (4), consider that record and report and may, if the legal officer thinks fit, transmit that record and report to a reviewing authority.
 
-Powers and duties of commanding officer
+             (6)  If the legal officer does not transmit the record of proceedings and the report of the results of the review to a reviewing authority, the commanding officer must give written notice of the results of the review to the person who was convicted of the service offence.
 
-             (1)  As soon as practicable after a subordinate summary authority convicts a person of a service offence, the subordinate summary authority must give the record of the proceedings to the commanding officer of the subordinate summary authority.
+##### <a id="152"></a>152  Automatic review by reviewing authority
 
-             (2)  The commanding officer must review the proceedings in accordance with this Part and, for that purpose, the commanding officer is taken to be a reviewing authority.
+             (1)  As soon as practicable after a summary authority (other than a subordinate summary authority) convicts a person of a service offence, the summary authority must transmit the record of the proceedings to a competent reviewing authority.
 
-             (3)  The commanding officer may, but is not required to, obtain legal advice on the proceedings from a legal officer.
+             (2)  A reviewing authority shall, as soon as practicable after receiving a record of proceedings under subsection (1) or subsection 151(5), review the proceedings in accordance with this Part.
 
-             (4)  After completing the review of the proceedings, the commanding officer must give to a legal officer:
+             (3)  After reviewing the proceedings, the reviewing authority must give the person who was convicted of the service offence written notice of the results of the review.
 
-                     (a)  the record of the proceedings; and
+##### <a id="153"></a>153  Review on petition to reviewing authority
 
-                     (b)  a report setting out:
+             (1)  If a summary authority convicts a person of a service offence, the person may lodge with a competent reviewing authority a petition for review of the proceedings concerned.
 
-                              (i)  the results of the review; and
+          (1A)  The person must lodge the petition within 30 days after:
 
-                             (ii)  if the proceedings were reopened by the subordinate summary authority under section 153—the action taken by the subordinate summary authority in dealing with the reopened proceedings; and
+                     (a)  if a commanding officer reviews the proceedings of the summary authority under section 151 and gives the person notice of the results of the review under subsection 151(6)—the notice is given; or
 
-                            (iii)  the reasons for any delay in conducting the review.
+                     (b)  in any other case—the person is given notice of the results of the review under subsection 152(3);
 
-             (5)  The commanding officer must complete the review of the proceedings and give the documents referred to in paragraphs (4)(a) and (b) to a legal officer:
+unless the reviewing authority extends the period during which the petition may be lodged.
 
-                     (a)  within 30 days after the commanding officer receives the record referred to in subsection (1); or
+          (1B)  If the reviewing authority extends the period during which the petition may be lodged, the petition must be lodged within that extended period.
 
-                     (b)  if this is not possible due to the exigencies of service—as soon as practicable after the end of that period.
+             (3)  A petition under subsection (1) shall set out the grounds on which the petitioner relies for the exercise of the power of review in accordance with this Part.
 
-Powers and duties of legal officer
+             (4)  On receipt of a petition under subsection (1), a reviewing authority shall, as soon as practicable and, in any event, within 30 days after the receipt:
 
-             (6)  As soon as practicable after receiving the record of the proceedings and the report referred to in subsection (4), the legal officer:
+                     (a)  review the proceedings in accordance with this Part having regard to the grounds set out in the petition; and
 
-                     (a)  must consider the record and report; and
+                     (b)  notify the petitioner, in writing, of the result of that review.
 
-                     (b)  may, if the legal officer considers it appropriate, give the record and report to a competent reviewing authority.
+##### <a id="154"></a>154  Report to be obtained before commencement of review
 
-Further review by competent reviewing authority
+             (1)  A reviewing authority must not commence a review without first obtaining a report on the proceedings from a legal officer.
 
-             (7)  If the legal officer gives the record of the proceedings and the report to a competent reviewing authority under subsection (6), the reviewing authority:
+             (2)  Subject to subsection (4), a reviewing authority, in making a review, is bound by any opinion on a question of law set out in a report obtained under subsection (1).
 
-                     (a)  must, as soon as practicable after receiving the record and report, review the proceedings in accordance with this Part; and
+             (3)  A reviewing authority may refer a report obtained under subsection (1) to the Judge Advocate General or, if the Judge Advocate General so directs, to a Deputy Judge Advocate General.
 
-                     (b)  after reviewing the proceedings, must give written notice of the results of the review to:
+             (4)  On a reference under subsection (3) of a report, the Judge Advocate General or the Deputy Judge Advocate General may dissent from any opinion on a question of law set out in the report and, if he or she does so, he or she shall furnish to the reviewing authority, in writing, his or her own opinion on that question, which opinion is binding on the reviewing authority.
 
-                              (i)  the commanding officer; and
+##### <a id="155"></a>155  Further review
 
-                             (ii)  the person who was convicted of the service offence.
+             (1)  A review by a reviewing authority does not prevent a further review of the proceedings concerned by the Chief of the Defence Force or a service chief if it appears to the Chief of the Defence Force or the service chief that there are sufficient grounds for a further review.
 
-Note:          A reviewing authority may not, under paragraph (7)(a), request the subordinate summary authority to reopen the proceedings: see paragraph 153(1)(a).
+             (2)  Subject to subsection (3), the Chief of the Defence Force or a service chief shall conduct a further review under subsection (1) in accordance with this Part and, for that purpose, the Chief of the Defence Force or the service chief shall be deemed to be a reviewing authority.
 
-Notice of results of review
+             (3)  The Chief of the Defence Force or a service chief shall not commence a review without first obtaining a report on the proceedings from the Judge Advocate General or, if the Judge Advocate General so directs, from a Deputy Judge Advocate General.
 
-             (8)  A commanding officer who receives a notice under paragraph (7)(b) must, as soon as practicable after receiving the notice, give written notice of the results of the review to the subordinate summary authority.
+             (4)  The Chief of the Defence Force or a service chief, in making a review, is bound by any opinion on a question of law set out in a report obtained under subsection (3).
 
-             (9)  If the legal officer does not give the record of the proceedings and the report of the results of the review to a competent reviewing authority under subsection (6):
+### Division 3—Action on review of proceedings that have resulted in a conviction
 
-                     (a)  the legal officer must notify the commanding officer of this fact; and
+##### <a id="157"></a>157  Interpretation
 
-                     (b)  the commanding officer must give written notice of the results of the review to:
+                   In this Division, **_review_** means a review under this Part of proceedings of a summary authority that have resulted in a conviction.
 
-                              (i)  the subordinate summary authority; and
+##### <a id="158"></a>158  Quashing of conviction etc.
 
-                             (ii)  the person who was convicted of the service offence.
+             (1)  Subject to subsection (5), where in a review it appears to the reviewing authority:
 
-##### <a id="152"></a>152  Review of proceedings of superior summary authority or commanding officer
+                     (a)  that the conviction is unreasonable, or cannot be supported, having regard to the evidence;
 
-Powers and duties of reviewing authority
+                     (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction was wrong in law and that a substantial miscarriage of justice has occurred;
 
-             (1)  As soon as practicable after a summary authority (other than a subordinate summary authority) convicts a person of a service offence, the summary authority must give the record of the proceedings to a competent reviewing authority.
-
-             (2)  The reviewing authority must review the proceedings in accordance with this Part.
-
-             (3)  Before reviewing the proceedings, the reviewing authority must obtain legal advice on the proceedings from a legal officer.
-
-             (4)  The reviewing authority must complete the review:
-
-                     (a)  within 30 days after receiving the record referred to in subsection (1); or
-
-                     (b)  if this is not possible due to the exigencies of service—as soon as practicable after the end of that period.
-
-Notice of results of review
-
-             (5)  After reviewing the proceedings, the reviewing authority must give written notice of the results of the review to:
-
-                     (a)  the summary authority; and
-
-                     (b)  the person who was convicted of the service offence.
-
-Exception
-
-             (6)  This section does not apply to proceedings before a superior summary authority if the superior summary authority has no reviewing authority of a higher rank.
-
-Note:          In the case referred to in subsection (6), the convicted person could lodge an appeal to the Australian   Military Court under Part IX.
-
-##### <a id="153"></a>153  Reviewing authority must request summary authority to reopen proceedings to correct punishment error
-
-             (1)  This section applies to:
-
-                     (a)  a review, under section 151, by a commanding officer (the **_reviewing authority_**) of the proceedings of a subordinate summary authority; or
-
-                     (b)  a review, under section 152, by a competent reviewing authority of the proceedings of a superior summary authority or a commanding officer.
-
-             (2)  If the reviewing authority considers that the action taken by the summary authority under Part IV (whether the imposition of a punishment or the making of an order or both) in relation to the convicted person is beyond the power of the summary authority, the reviewing authority must request the summary authority, in writing, to reopen the proceedings.
-
-             (3)  If the reviewing authority requests the summary authority to reopen the proceedings, the summary authority must reopen the proceedings.
-
-##### <a id="153A"></a>153A  Procedures for dealing with reopened proceedings
-
-             (1)  This section applies if a summary authority reopens proceedings in response to a request by a reviewing authority under section 153.
-
-             (2)  The summary authority must notify the convicted person that the proceedings are to be reopened.
-
-             (3)  The summary authority must, as the case requires:
-
-                     (a)  impose a less severe punishment on the convicted person; or
-
-                     (b)  if the summary authority had made a reparation order (the **_original reparation order_**)—make a reparation order for an amount that is less than the amount of the original reparation order.
-
-             (4)  As soon as practicable after the summary authority completes dealing with the proceedings under subsection (3), the summary authority must give the record of the proceedings to the reviewing authority that requested the summary authority to reopen the proceedings.
-
-             (5)  Subject to subsection 161(4), this section does not affect the right of the convicted person to appeal to the Australian   Military Court in relation to the proceedings.
-
-Note:          Part IX deals with appeals to the Australian   Military Court.
-
-##### <a id="154"></a>154  Effect on review of appeal to the Australian Military Court
-
-                   If:
-
-                     (a)  a person who is convicted of a service offence by a summary authority lodges an appeal to the Australian   Military Court in relation to the proceedings; and
-
-                     (b)  the appeal is lodged before a reviewing authority has completed reviewing the proceedings under this Part;
-
-the reviewing authority must not request the summary authority to reopen the proceedings.
-
-Note:          Part IX deals with appeals to the Australian   Military Court.
-
-##### <a id="155"></a>155  Reviewing authority may recommend that convicted person appeal to the Australian   Military Court
-
-             (1)  This section applies to a review of the proceedings of a summary authority if the reviewing authority (including a commanding officer referred to in subsection 151(1)) considers:
-
-                     (a)  that, having regard to the evidence, the conviction is unreasonable or cannot be supported; or
-
-                     (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction was wrong in law and that a substantial miscarriage of justice has occurred; or
-
-                     (c)  that any action taken by the summary authority under Part IV (whether imposing a punishment or making an order or both) in relation to the convicted person is wrong in law or is excessive or otherwise unreasonable; or
-
-                     (d)  that there was a material irregularity in the course of the proceedings and that a substantial miscarriage of justice has occurred; or
-
-                     (e)  that, in all the circumstances of the case, the conviction is unsafe or unsatisfactory.
-
-             (2)  The reviewing authority must give a notice in writing to the convicted person:
-
-                     (a)  recommending that the person consider appealing to the Australian Military Court against the conviction, or any punishment imposed or order made under Part IV, as the case requires; and
-
-                     (b)  setting out the reasons for the recommendation.
-
-Note:          Part IX deals with appeals to the Australian   Military Court. If the convicted person is given a notice under this subsection, the convicted person has 14 days, beginning on the day on which the notice is given, to lodge an appeal to the Australian Military Court against the conviction or any punishment imposed or order made under Part IV: see subsection 161(5).
-
-             (3)  If the reviewing authority gives a notice to the convicted person under subsection (2), the reviewing authority must give a copy of the notice to the person’s commanding officer.
-
-             (4)  The convicted person must be given an opportunity to obtain legal advice in relation to an appeal if a legal officer is reasonably available to give such advice.
-
-### Division 3—Review of certain punishments and orders that are subject to approval by reviewing authority
-
-##### <a id="156"></a>156  Application of Division
-
-                   This Division applies to a review of the proceedings of a summary authority if the summary authority:
-
-                     (a)  has imposed a punishment referred to in subsection 172(2); or
-
-                     (b)  has made a restitution order or a reparation order.
-
-##### <a id="157"></a>157  Reviewing authority must approve or not approve punishment or order
-
-                   The reviewing authority must approve or not approve the punishment or order.
-
-##### <a id="158"></a>158  Approved punishment or order to take effect as determined
-
-                   If the reviewing authority approves the punishment or order, the reviewing authority must determine when the punishment or order is to take effect.
-
-##### <a id="159"></a>159  Punishments or orders not approved to be quashed or revoked
-
-             (1)  If the reviewing authority does not approve the punishment or order, the reviewing authority must quash the punishment or revoke the order, as the case may be.
-
-             (2)  If the reviewing authority quashes a punishment or revokes an order under subsection (1) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the person.
-
-             (3)  However, the reviewing authority must not do any of the following under subsection (2):
-
-                     (a)  impose a punishment that is more severe than the punishment that was imposed by the summary authority;
-
-                     (b)  if the punishment imposed by the summary authority was a custodial punishment—impose a punishment other than a custodial punishment;
-
-                     (c)  if the punishment imposed by the summary authority was not a custodial punishment—impose a custodial punishment;
-
-                     (d)  if the summary authority made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the summary authority.
-
-## Part IX—Appeals to the Australian   Military Court
-
-### Division 1—Definitions
-
-##### <a id="160"></a>160  Definitions
-
-                   In this Part:
-
-                    <a name="appeal"></a>**_appeal_** means an appeal to the Australian   Military Court under this Part.
-
-                    <a name="appel"></a>**_appellant_** means a person who has lodged an appeal.
-
-                    <a name="part-iv-order"></a>**_Part IV order_** means a restitution order, a reparation order or an order made under subsection 75(1).
-
-### Division 2—Bringing of appeals
-
-##### <a id="161"></a>161  Appeals to the Australian Military Court
-
-             (1)  A person who has been convicted of a service offence by a summary authority may appeal to the Australian Military   Court against:
-
-                     (a)  his or her conviction; or
-
-                     (b)  a punishment imposed, or a Part IV order made, by the summary authority in respect of his or her conviction.
-
-             (2)  An appeal to the Australian Military   Court:
-
-                     (a)  must specify the grounds on which the appeal is brought; and
-
-                     (b)  must be lodged with the Registrar or with such other person as is prescribed:
-
-                              (i)  within the appropriate period; or
-
-                             (ii)  within such longer period as the Court, either before or after the expiration of the appropriate period, allows.
-
-             (3)  For the purposes of subparagraph (2)(b)(i) and subject to subsections (4) and (5), the **_appropriate period_** is:
-
-                     (a)  if the appeal is against a conviction—the period of 14 days beginning on the day of the conviction; or
-
-                     (b)  if the appeal is against a punishment or a Part IV order—the period of 14 days beginning on the day on which the punishment or the Part IV order takes effect.
-
-Note:          Some punishments and orders under Part IV do not take effect unless they are approved by a reviewing authority: see subsections 172(2) and (3).
-
-             (4)  If a summary authority has reopened proceedings in response to a request by a reviewing authority under section 153:
-
-                     (a)  the convicted person may not appeal to the Australian Military Court in relation to the proceedings until after the summary authority has completed dealing with the reopened proceedings; and
-
-                     (b)  for the purposes of subparagraph (2)(b)(i), the **_appropriate period_** is:
-
-                              (i)  if the appeal is against the person’s conviction—the period of 14 days beginning on the day on which, under Part VIIIA, the person is given notice of the results of the review of the proceedings (including the reopening of the proceedings); or
-
-                             (ii)  if the appeal is against a punishment imposed on the person or a Part IV order made in relation to the person—the period of 14 days beginning on the day on which the punishment or the Part IV order takes effect.
-
-             (5)  If a reviewing authority gives a convicted person a notice under subsection 155(2) recommending that the person consider appealing to the Australian Military Court against the conviction, or any punishment imposed or order made under Part IV in respect of the conviction, then, for the purposes of subparagraph (2)(b)(i), the **_appropriate period_** is the period of 14 days beginning on the date on which the notice is given.
-
-### Division 3—Determination of appeals
-
-##### <a id="162"></a>162  Quashing of conviction—conviction unreasonable etc.
-
-                   If, in an appeal against a conviction by a summary authority, it appears to the Australian Military Court:
-
-                     (a)  that, having regard to the evidence, the conviction is unreasonable or cannot be supported; or
-
-                     (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction was wrong in law and that a substantial miscarriage of justice has occurred; or
-
-                     (c)  that there was a material irregularity in the course of the proceedings before the summary authority and that a substantial miscarriage of justice has occurred; or
+                     (c)  that there was a material irregularity in the course of the proceedings and that a substantial miscarriage of justice has occurred; or
 
                      (d)  that, in all the circumstances of the case, the conviction is unsafe or unsatisfactory;
 
-the Court must allow the appeal and quash the conviction.
+the reviewing authority shall quash the conviction.
 
-##### <a id="163"></a>163  Quashing of conviction—new evidence available
+             (2)  Subject to subsection (5), where in a review it appears to the reviewing authority that there is evidence that:
 
-             (1)  If, in an appeal against a conviction by a summary authority, it appears to the Australian Military Court that there is evidence that:
-
-                     (a)  was not reasonably available during the proceedings before the summary authority; and
+                     (a)  was not reasonably available during the proceedings;
 
                      (b)  is likely to be credible; and
 
-                     (c)  would have been admissible in the proceedings before the summary authority;
+                     (c)  would have been admissible in the proceedings;
 
-the Court must receive and consider that evidence.
+the reviewing authority shall receive and consider that evidence and, if the reviewing authority considers that the conviction cannot be supported having regard to that evidence, the reviewing authority shall quash the conviction.
 
-             (2)  If:
+             (3)  Subject to subsection (5), where in a review the reviewing authority is satisfied that, at the time of the act or omission the subject of the charge, the convicted person was suffering from such unsoundness of mind as not to be responsible, in accordance with law, for that act or omission, the reviewing authority shall:
 
-                     (a)  the Australian Military Court receives and considers evidence under subsection (1); and
+                     (a)  quash the conviction;
 
-                     (b)  it appears to the Court that the conviction cannot be supported having regard to that evidence;
+                     (b)  substitute for the conviction so quashed an acquittal on the ground of unsoundness of mind; and
 
-the Court must allow the appeal and quash the conviction.
+                     (c)  direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
-##### <a id="164"></a>164  Quashing of conviction—person suffering from mental impairment
+             (5)  A reviewing authority shall not quash a conviction under subsection (3) if there are grounds for quashing the conviction under subsection (1) or (2).
 
-             (1)  Subject to subsection (3), if, in an appeal against a conviction by a summary authority, it appears to the Australian   Military Court that the summary authority should have found that the appellant, by reason of mental impairment, was not able to understand the proceedings against him or her and, accordingly, was unfit to stand trial, the Court must:
+##### <a id="159"></a>159  Person deemed to have been acquitted
 
-                     (a)  allow the appeal; and
+                   For the purposes of this Act, where a reviewing authority quashes a conviction of a person of a service offence and does not order a new trial of the person for the offence, the person shall be deemed to have been acquitted of the offence.
 
-                     (b)  quash the conviction; and
+##### <a id="160"></a>160  New trial
 
-                     (c)  direct that the appellant be kept in strict custody until the pleasure of the Governor-General is known.
+             (1)  Where in a review the reviewing authority:
 
-             (2)  Subject to subsection (3), if, in an appeal against a conviction by a summary authority, it appears to the Australian Military Court that, at the time of the act or omission to which the conviction relates, the appellant was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the Court must:
+                     (a)  quashes a conviction that was recorded within the preceding 6 months; and
 
-                     (a)  allow the appeal and quash the conviction; and
+                     (b)  considers that, in the interests of justice, the person who was convicted should be tried again for the service offence of which the person was convicted;
 
-                     (b)  substitute for the conviction an acquittal on the ground of mental impairment; and
+the reviewing authority may order a new trial of the person for that offence.
 
-                     (c)  direct that the appellant be kept in strict custody until the pleasure of the Governor-General is known.
+             (2)  An order under subsection (1) for the new trial of a person lapses unless the new trial commences within a period of 6 months commencing on the day on which the order is made.
 
-             (3)  The Australian Military Court must not quash a conviction under this section if there are grounds for quashing the conviction under section 162 or 163.
+             (3)  Where a reviewing authority makes an order under subsection (1) for a new trial of a person, the reviewing authority may make such further orders for the custody of the person pending the new trial as the authority thinks appropriate.
 
-##### <a id="165"></a>165    Australian Military Court may order new trial
+##### <a id="161"></a>161  Substitution of conviction of alternative offence
 
-             (1)  If, in an appeal, the Australian Military   Court quashes a conviction of a person of a service offence, the Court may, if it considers that in the interests of justice the person should be tried again, order a new trial of the person for the service offence.
+             (1)  Where in a review the reviewing authority quashes the conviction of a person of a service offence (in this section referred to as **_the original offence_**) but considers:
 
-             (2)  If the Australian Military Court orders a new trial of a person under subsection (1), the trial must be by the Australian   Military Court.
-
-Note:          Division 2 of Part VIII deals with trials by the Australian Military Court.
-
-             (3)  If the Australian Military Court orders a new trial of a person under subsection (1), the Court must make such further orders for the custody of the person pending the new trial as the Court considers appropriate.
-
-##### <a id="165A"></a>165A  Person taken to have been acquitted
-
-                   For the purposes of this Act, if the Australian   Military Court quashes a conviction of a person of a service offence and does not order a new trial of the person for the offence, the person is taken to have been acquitted of the offence.
-
-##### <a id="166"></a>166  Substitution of conviction for alternative offence
-
-             (1)  If, in an appeal, the Australian Military   Court quashes a conviction of a person of a service offence (the **_original offence_**) but considers:
-
-                     (a)  that the summary authority that convicted the person could have found the person guilty of another offence, being:
+                     (a)  that the summary authority could in the proceedings have found the person guilty of another offence, being:
 
                               (i)  a service offence that is an alternative offence, within the meaning of section 142, in relation to the original offence; or
 
                              (ii)  a service offence with which the person was charged in the alternative and in respect of which the summary authority did not record a finding; and
 
-                     (b)  that the summary authority, because of its finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other offence;
+                     (b)  that the summary authority, by reason of the finding of the summary authority finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other offence;
 
-the Australian Military Court may substitute for the conviction of the original offence a conviction of the other offence.
+the reviewing authority may substitute for the conviction of the original offence a conviction of the other offence.
 
-             (2)  If, under subsection (1), the Australian Military Court substitutes for the conviction of the original offence a conviction of another service offence, the Court may take such action under Part IV, in relation to the convicted person, as the summary authority that convicted the person could have taken under that Part if the summary authority had convicted the person of the other service offence.
+             (2)  Where under subsection (1) a reviewing authority substitutes for the conviction of the original offence a conviction of another service offence, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the convicted person of the original offence if that summary authority had convicted him or her of that other service offence, but the reviewing authority:
 
-             (3)  However, the Australian Military Court must not do any of the following under subsection (2):
+                     (a)  shall not impose a punishment for that other service offence or make a reparation order with respect to that other service offence unless a punishment was imposed for the original offence or a reparation order was made with respect to the original offence, as the case may be; and
 
-                     (a)  impose a punishment for the other service offence unless the summary authority had imposed a punishment for the original offence;
+                     (b)  shall not impose a punishment for that other service offence that is more severe than the punishment that was imposed for the original offence and shall not make a reparation order with respect to that other service offence that is for an amount that exceeds the amount of the reparation order that was made with respect to the original offence.
 
-                     (b)  make a reparation order with respect to the other service offence unless the summary authority had made a reparation order with respect to the original offence;
+##### <a id="162"></a>162  Review of action under Part IV
 
-                     (c)  if the summary authority had imposed a punishment (the **_original punishment_**) for the original offence—impose a punishment for the other service offence that is more severe than the original punishment;
+             (1)  Where in a review it appears to the reviewing authority that the action taken by a summary authority under Part IV (whether by the imposition of a punishment or the making of an order or both) in relation to a convicted person:
 
-                     (d)  if the summary authority had made a reparation order (the **_original reparation order_**) with respect to the original offence—make a reparation order with respect to the other service offence that is for an amount that exceeds the amount of the original reparation order.
+                     (a)  is wrong in law; or
 
-##### <a id="167"></a>167  Powers of Court in an appeal against a punishment
+                     (b)  is excessive;
 
-             (1)  In an appeal by a convicted person against a punishment imposed on the person by a summary authority, the Australian Military Court, in its discretion, may confirm, quash or vary the punishment.
+the reviewing authority shall quash the punishment or revoke the order or both quash the punishment and revoke the order, as the case may be.
 
-             (2)  If the Australian Military Court quashes the punishment:
+             (3)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person otherwise than in accordance with section 131, the reviewing authority shall quash the punishment.
 
-                     (a)  the punishment does not take effect; and
+             (4)  Where in a review it appears to the reviewing authority that a summary authority:
 
-                     (b)  the Court may take such action under Part IV (including imposing a punishment or making an order or both) in relation to the convicted person as the summary authority could have taken under that Part in relation to the person.
+                     (a)  has continued a trial of a person under paragraph 131(2)(b) in circumstances where the exigencies of service would have permitted trial by the Australian Military Court without undue delay; and
 
-             (3)  If the Australian Military Court varies the punishment, the punishment takes effect as varied.
+                     (b)  as a result of that trial, has convicted the person of a service offence and imposed an elective punishment;
 
-             (4)  The Australian Military Court must not vary a punishment imposed on a convicted person by a summary authority in such a way that the varied punishment would not be a punishment that the summary authority could have imposed on the person under Part IV.
+the reviewing authority shall quash that punishment.
 
-##### <a id="167A"></a>167A  Powers of Court in an appeal against a Part IV order
+          (4A)  Where in a review it appears to the reviewing authority that a summary authority has imposed an elective punishment on a convicted person by virtue of paragraph 131(2B)(b) in circumstances where the exigencies of service would have permitted the reference of the conviction to the Australian Military Court, the reviewing authority shall quash that punishment.
 
-             (1)  In an appeal by a convicted person against a Part IV order made in relation to the person by a summary authority, the Australian Military Court, in its discretion, may confirm, revoke or vary the order.
+             (5)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1), (3), (4) or (4A) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
 
-             (2)  If the Australian Military Court revokes the Part IV order:
+                     (a)  impose a punishment that is more severe than the punishment that was imposed by the summary authority;
 
-                     (a)  the order does not take effect; and
+                     (b)  if the punishment imposed by the summary authority was a custodial punishment—impose a punishment other than a custodial punishment;
 
-                     (b)  the Court may take such action under Part IV (including imposing a punishment or making an order or both) in relation to the convicted person as the summary authority could have taken under that Part in relation to the person.
+                     (c)  if the punishment imposed by the summary authority was not a custodial punishment—impose a custodial punishment; or
 
-             (3)  If the Australian Military Court varies the Part IV order, the order takes effect as varied.
+                     (d)  if the summary authority made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the summary authority.
 
-             (4)  The Australian Military Court must not vary a Part IV order made in relation to a convicted person by a summary authority in such a way that the varied order would not be an order that the summary authority could have made in relation to the person under Part IV.
+             (8)  Where in a review it appears to the reviewing authority that a summary authority that has imposed a punishment of detention on a convicted person should have made an order under subsection 78(1) suspending that punishment, the reviewing authority may, if he or she thinks fit, make an order suspending that punishment or such part of that punishment as has not been served.
 
-##### <a id="167B"></a>167B  Frivolous or vexatious appeals
+             (9)  Where a reviewing authority makes an order suspending a punishment of detention or such part of a punishment of detention as has not been served, the punishment, or that part of the punishment, does not begin, and shall not be put into execution, while the suspension is in force.
 
-                   If the Australian Military Court dismisses an appeal on the grounds that the appeal was frivolous or vexatious, the Court may order that any punishment of detention imposed on the appellant in the proceedings in relation to which the appeal was brought must be taken to commence on the day the appeal is dismissed.
+### Division 5—Action on review of certain punishments and orders that are subject to approval by reviewing authority
 
-### Division 4—General provisions relating to appeals
+##### <a id="167"></a>167  Interpretation
 
-##### <a id="168"></a>168  Representation of parties in an appeal
+                   In this Division, **_review_** means a review of a punishment specified in section 172 or of an order specified in that section.
 
-             (1)  Subject to subsection (2), sections 136 and 137 apply in relation to an appeal as if:
+##### <a id="168"></a>168  Approved punishment or order to take effect as determined
 
-                     (a)  references to a trial were references to an appeal; and
+                   Where in a review the reviewing authority approves a punishment or an order, the reviewing authority shall determine when the punishment or order is to take effect.
 
-                     (b)  references to an accused person were references to an appellant.
+##### <a id="169"></a>169  Punishments or orders not approved to be quashed or revoked
 
-Note:          Section 188GB deals with appearances by or on behalf of the Director of Military Prosecutions in proceedings before the   Australian Military Court.
+             (1)  Where in a review the reviewing authority does not approve a punishment or an order, the reviewing authority shall quash the punishment or revoke the order, as the case may be.
 
-             (2)  Subsection 137(1) applies in relation to an appeal as if the reference to an accused person awaiting trial by the Australian Military Court were a reference to an appellant in an appeal before the Australian Military Court.
+             (2)  Where a reviewing authority quashes a punishment or revokes an order under subsection (1) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the convicted person of the service offence of which he or she was convicted, but the reviewing authority shall not:
 
-##### <a id="168A"></a>168A  Hearings
+                     (a)  impose a punishment that is more severe than the punishment that was imposed by the summary authority;
 
-             (1)  The Australian Military Court may determine an appeal:
+                     (b)  if the punishment imposed by the summary authority was a custodial punishment—impose a punishment other than a custodial punishment;
 
-                     (a)  by holding a hearing; or
+                     (c)  if the punishment imposed by the summary authority was not a custodial punishment—impose a custodial punishment; or
 
-                     (b)  by considering, without holding a hearing, the documents or other material provided to the Court in relation to the appeal.
-
-However, the Court must hold a hearing if it appears to the Court that the issues for determination cannot be adequately determined in the absence of the parties.
-
-             (2)  For the purpose of determining an appeal, the Australian Military Court may order a party to the appeal or the Director of Military Prosecutions to produce such documents or other information as the Court specifies in the order.
-
-             (3)  If the Australian Military Court decides to hold a hearing for the purpose of determining an appeal, the hearing must, subject to subsection (4), be held in the presence of the appellant.
-
-             (4)  If:
-
-                     (a)  the Australian Military Court decides to hold a hearing for the purpose of determining an appeal; and
-
-                     (b)  the Court considers that, by reason of the disorderly behaviour of the appellant, it is impossible to continue the hearing in his or her presence;
-
-the Court may order that the appellant be removed from the place of hearing and be held in custody elsewhere.
-
-##### <a id="168B"></a>168B  Evidence
-
-             (1)  Section 146A applies to an appeal in the same way as it applies to proceedings before a summary authority.
-
-             (2)  For the purposes of subsection (1):
-
-                     (a)  references to proceedings before a summary authority are to be read as references to an appeal before the Australian   Military Court; and
-
-                     (b)  references to a summary authority are to be read as references to the Australian Military Court; and
-
-                     (c)  in subsection 146A(1), the words “(including proceedings for the purpose referred to in subsection 111A(1))” are to be omitted.
-
-##### <a id="168C"></a>168C  Judicial notice of service matters
-
-                   In determining an appeal, the Australian   Military Court must take judicial notice of all matters within the general service knowledge of the Court.
-
-##### <a id="168D"></a>168D  Record of proceedings to be kept
-
-             (1)  The Australian Military Court:
-
-                     (a)  must keep a record of an appeal determined by the Court; and
-
-                     (b)  must include in that record such particulars as are required by the rules of procedure.
-
-             (2)  A record referred to in subsection (1) must not be made publicly available but may be published for service purposes in accordance with the rules of procedure.
-
-##### <a id="168E"></a>168E  Use of video and audio links
-
-                   Subdivision B of Division 3 of Part VIII applies to appeal proceedings before the Australian Military   Court.
+                     (d)  if the summary authority made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the summary authority.
 
 ## Part IXA—Special procedures relating to certain minor disciplinary infringements
 
@@ -7106,33 +6490,11 @@ the Court may order that the appellant be removed from the place of hearing and 
 
                      (b)  an offence against section 24 in relation to an absence without leave for a period not exceeding 3 hours.
 
-                    <a name="disciplin-offic"></a>**_discipline officer_** means a discipline officer appointed under section 169B.
-
-                    <a name="junior-offic"></a>**_junior officer_** means:
-
-                     (a)  in the Navy—an officer who holds a rank of or below the rank of lieutenant (other than a person who holds the rank of midshipman); or
-
-                     (b)  in the Army—an officer who holds a rank of or below the rank of captain; or
-
-                     (c)  in the Air Force—an officer who holds a rank of or below the rank of flight lieutenant.
-
                     <a name="offic-cadet"></a>**_officer cadet_** means a defence member who holds:
 
                      (a)  in the Navy—the rank of midshipman; or
 
                      (b)  in the Army or the Air Force—the rank of officer cadet.
-
-                    <a name="prescrib-defenc-member"></a>**_prescribed defence member_** means:
-
-                     (a)  in the Navy—a member of the Defence Force who holds a rank of or below the rank of lieutenant; or
-
-                     (b)  in the Army—a member of the Defence Force who holds a rank of or below the rank of captain; or
-
-                     (c)  in the Air Force—a member of the Defence Force who holds a rank of or below the rank of flight lieutenant;
-
-but does not include a warrant officer covered by a determination in force under section 169BA.
-
-                    <a name="relev-disciplin-offic"></a>**_relevant discipline officer_**, in relation to a prescribed defence member, has the meaning given by section 169BB.
 
                     <a name="relev-offic"></a>**_relevant officer_** means a member of the Defence Force who holds a rank of non-commissioned officer or a higher rank.
 
@@ -7140,95 +6502,11 @@ but does not include a warrant officer covered by a determination in force under
 
                    A commanding officer may, in writing, appoint officers or warrant officers to be discipline officers.
 
-##### <a id="169BA"></a>169BA  Service chief may exempt certain warrant officers
-
-             (1)  A service chief may determine, in writing, that a specified warrant officer, or a warrant officer included in a specified class of warrant officers, is not a **_prescribed defence member_** for the purposes of this Part.
-
-             (2)  A determination under subsection (1) is not a legislative instrument.
-
-##### <a id="169BB"></a>169BB  Relevant discipline officers
-
-                   The following table sets out who is a **_relevant discipline officer_** in relation to a prescribed defence member.
-
-<table>
-<colgroup>
-  <col width="12%">
-  <col width="43%">
-  <col width="44%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Prescribed defence member</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Relevant discipline officer</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Junior officer</div>
-  </td>
-  <td>
-    <div>Discipline officer who is at least one rank senior to the prescribed defence
-      member</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Officer cadet</div>
-  </td>
-  <td>
-    <div>Any discipline officer</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Warrant officer</div>
-    <div>Non-commissioned officer</div>
-  </td>
-  <td>
-    <div>Discipline officer who holds a rank not lower than lieutenant commander,
-      major or squadron leader</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Member below non-commissioned rank</div>
-  </td>
-  <td>
-    <div>Any discipline officer</div>
-  </td>
-</tr></table>
-
 ##### <a id="169C"></a>169C  Jurisdiction of discipline officer
 
-                   A relevant discipline officer, in relation to a prescribed defence member, has jurisdiction to deal with that member in respect of a disciplinary infringement if:
+                   A discipline officer has jurisdiction to deal with a defence member who is an officer cadet or holds a rank below non-commissioned rank in respect of a disciplinary infringement if:
 
-                     (a)  the member has not been charged under this Act with a service offence arising out of the act or omission that constitutes the infringement; and
+                     (a)  the defence member has not been charged under this Act with a service offence arising out of the act or omission that constitutes the infringement; and
 
                      (b)  the member has elected to be dealt with by a discipline officer; and
 
@@ -7238,7 +6516,7 @@ but does not include a warrant officer covered by a determination in force under
 
 ##### <a id="169D"></a>169D  Issue of infringement notice
 
-             (1)  If a relevant officer has reasonable grounds for believing that a prescribed defence member has committed a disciplinary infringement, the relevant officer may give the defence member an infringement notice in relation to the infringement.
+             (1)  If a relevant officer has reasonable grounds for believing that a defence member who is an officer cadet or holds a rank below non-commissioned rank has committed a disciplinary infringement, the relevant officer may give the defence member an infringement notice in relation to the infringement.
 
              (2)  An infringement notice is a notice that:
 
@@ -7256,107 +6534,43 @@ but does not include a warrant officer covered by a determination in force under
 
              (3)  An infringement notice must be in accordance with a form approved by the Chief of the Defence Force.
 
-             (4)  A relevant officer does not have authority to give an infringement notice to a prescribed defence member unless the relevant officer is authorised in writing by the commanding officer of the member to give such notices.
+             (4)  A relevant officer does not have authority to give an infringement notice to a defence member unless the relevant officer is authorised in writing by the commanding officer of the member to give such notices.
 
-             (5)  A relevant officer does not have authority to give an infringement notice to a prescribed defence member in relation to a disciplinary infringement unless the notice is given as soon as is reasonably practicable after the relevant officer first has reasonable grounds for believing that the member has committed the infringement.
+             (5)  A relevant officer does not have authority to give an infringement notice to a defence member in relation to a disciplinary infringement unless the notice is given as soon as is reasonably practicable after the relevant officer first has reasonable grounds for believing that the member has committed the infringement.
 
-##### <a id="169E"></a>169E  Election to be dealt with by discipline officer
+##### <a id="169E"></a>169E  Election to be dealt with by discipline officer
 
-             (1)  If a prescribed defence member has been given an infringement notice, the member may elect to be dealt with, in relation to the disciplinary infringement to which the notice relates, by a discipline officer.
+             (1)  If a defence member has been given an infringement notice, the member may elect to be dealt with, in relation to the disciplinary infringement to which the notice relates, by a discipline officer.
 
-             (2)  If a prescribed defence member elects to be dealt with, in relation to a disciplinary infringement, by a discipline officer, the member is to be taken, for the purpose of being so dealt with but for no other purpose, to have admitted the infringement.
+             (2)  If a defence member elects to be dealt with, in relation to a disciplinary infringement, by a discipline officer, the member is to be taken, for the purpose of being so dealt with but for no other purpose, to have admitted the infringement.
 
              (3)  An election may only be made within the period specified in the infringement notice.
 
              (4)  If:
 
-                     (a)  a prescribed defence member has been given an infringement notice in relation to a disciplinary infringement; and
+                     (a)  a defence member has been given an infringement notice in relation to a disciplinary infringement; and
 
                      (b)  the defence member has not made an election within the period specified in the notice;
 
 a relevant officer may refer the matter to an authorised member of the Defence Force to be dealt with according to section 87.
 
-             (5)  A prescribed defence member may, at any time before a punishment is imposed, withdraw an election.
+             (5)  A defence member may, at any time before a punishment is imposed, withdraw an election.
 
 ##### <a id="169F"></a>169F  Powers of discipline officer
 
-Punishments that may be imposed in respect of disciplinary infringements
+             (1)  A discipline officer may impose on a defence member, in respect of a disciplinary infringement, any one of the following punishments:
 
-             (1)  A relevant discipline officer, in relation to a prescribed defence member referred to in column 1 of an item of the following table, may impose on the prescribed defence member, in respect of a disciplinary infringement, a punishment set out in column 2 of that item.
+                     (a)  a fine not exceeding the amount of the member’s pay for one day;
 
-<table>
-<colgroup>
-  <col width="12%">
-  <col width="43%">
-  <col width="44%">
-</colgroup>
+                     (b)  restriction of privileges for a period not exceeding 2 days;
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Punishments that may be imposed in respect of disciplinary infringements</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>
-        <b>Prescribed defence member</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>
-        <b>Punishment</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Junior officer</div>
-    <div>Warrant officer</div>
-    <div>Non-commissioned officer</div>
-  </td>
-  <td>
-    <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
-    <div>Reprimand</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Officer cadet</div>
-    <div>Member below non-commissioned rank</div>
-  </td>
-  <td>
-    <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
-    <div>Restriction of privileges for a period not exceeding 2 days</div>
-    <div>Stoppage of leave for a period not exceeding 3 days</div>
-    <div>Extra duties for a period not exceeding 3 days</div>
-    <div>Extra drill for no more than 2 sessions of 30 minutes each per day for
-      a period not exceeding 3 days</div>
-    <div>Reprimand</div>
-  </td>
-</tr></table>
+                     (c)  stoppage of leave for a period not exceeding 3 days;
 
-Other powers
+                     (d)  extra duties for a period not exceeding 3 days;
+
+                     (e)  extra drill for not more than 2 sessions of 30 minutes each per day for a period not exceeding 3 days;
+
+                      (f)  a reprimand.
 
              (2)  A discipline officer may decide not to impose a punishment in respect of a disciplinary infringement that the discipline officer considers trivial.
 
@@ -7372,45 +6586,13 @@ Other powers
 
              (2)  A discipline officer who imposes a punishment for a specific period may impose the punishment for a period beginning on a specified day no later than 14 days after the day on which the punishment is imposed.
 
-##### <a id="169FB"></a>169FB  Consequences of punishments
-
-             (1)  The Chief of the Defence Force or a service chief may, by legislative instrument, make rules with respect to the consequences, in relation to a prescribed defence member, that are to flow from the imposition by a discipline officer on that member of any of the following punishments:
-
-                     (a)  restriction of privileges;
-
-                     (b)  stoppage of leave;
-
-                     (c)  extra duties;
-
-                     (d)  extra drill.
-
-             (2)  The commanding officer of a prescribed defence member who is subject to a punishment referred to in paragraph (1)(a) or (c) may moderate the consequences of that punishment in relation to the member in such manner as the commanding officer considers appropriate, having regard to the particular circumstances of the case and to any directions, in writing, of the Chief of the Defence Force or a service chief.
-
-             (3)  A direction made under subsection (2) is not a legislative instrument.
-
-             (4)  Even if a prescribed defence member is subject to a punishment of stoppage of leave, the commanding officer of the member may, if he or she is satisfied that it is appropriate to do so, grant leave of absence to the member.
-
 ##### <a id="169G"></a>169G  Procedure before discipline officer
 
              (1)  Subject to this section, the procedure followed by a discipline officer is to be in accordance with any requirements prescribed by the regulations.
 
-             (2)  A prescribed defence member who elects to be dealt with by a discipline officer is not to be represented before the discipline officer.
+             (2)  A defence member who elects to be dealt with by a discipline officer is not to be represented before the discipline officer.
 
-             (3)  A prescribed defence member who elects to be dealt with by a discipline officer may, when he or she appears before the discipline officer, call witnesses and present evidence in relation to anything relevant to the exercise by the discipline officer of his or her powers under subsection 169F(1), (2) or (3).
-
-##### <a id="169GA"></a>169GA  Report by discipline officer
-
-             (1)  As soon as practicable after the end of each month, a discipline officer must give a report in accordance with subsection (2) to the discipline officer’s commanding officer.
-
-             (2)  The report must be in writing and must contain the following information:
-
-                     (a)  the name of each prescribed defence member dealt with, in relation to a disciplinary infringement, by the discipline officer in the month to which the report relates;
-
-                     (b)  the nature of the disciplinary infringement in relation to which each prescribed defence member referred to in paragraph (a) was dealt with;
-
-                     (c)  the punishment (if any) that was imposed in respect of each of those disciplinary infringements.
-
-Note:          A report under this section is a **_relevant record_** for the purposes of section 169H.
+             (3)  A defence member who elects to be dealt with by a discipline officer may, when he or she appears before the discipline officer, call witnesses and present evidence in relation to anything relevant to the exercise by the discipline officer of his or her powers under subsection 169F(1), (2) or (3).
 
 ##### <a id="169H"></a>169H  Destruction of records
 
@@ -7418,7 +6600,7 @@ Note:          A report under this section is a **_relevant re
 
              (2)  Any part of a relevant record that relates, in any way, to:
 
-                     (a)  the making by a prescribed defence member of an election; or
+                     (a)  the making by a defence member of an election; or
 
                      (b)  anything done by a discipline officer under subsection 169F(1) or (2) as a result of the making of an election;
 
@@ -7426,7 +6608,7 @@ Note:          A report under this section is a **_relevant re
 
 ##### <a id="169J"></a>169J  This Part not a bar to action under other provisions
 
-                   A prescribed defence member is not prevented from being dealt with under any other Part in respect of a service offence merely because the offence arises out of an act or omission that constitutes a disciplinary infringement for the purposes of this Part.
+                   A defence member is not prevented from being dealt with under any other Part in respect of a service offence merely because the offence arises out of an act or omission that constitutes a disciplinary infringement for the purposes of this Part.
 
 ## Part X—Execution and enforcement of punishments and orders
 
@@ -7488,19 +6670,7 @@ Note:          A report under this section is a **_relevant re
 
              (5)  A person on whom a punishment of detention is imposed by a summary authority may be kept in custody pending approval under subsection (2) of the punishment and, if the punishment is approved, any day on which the person was so kept in custody counts as a day of that detention.
 
-##### <a id="172A"></a>172A  Suspension of operation of restitution orders and reparation orders made by a summary authority
-
-             (1)  The operation of a restitution order or a reparation order made by a summary authority is suspended:
-
-                     (a)  until the expiration of the period in which, under Part IX, an appeal to the Australian Military Court against the order, or the conviction in relation to which the order was made, may be lodged, but not in any case beyond the time specified in paragraph (b); and
-
-                     (b)  if such an appeal is lodged—until the appeal is finally determined or abandoned.
-
-             (2)  If, in relation to a restitution order, the summary authority is satisfied that the title to the property in relation to which the order is made is not in dispute, the summary authority may direct that subsection (1) is not to apply to the order.
-
-             (3)  If the operation of a restitution order or a reparation order is suspended under subsection (1), the order does not take effect if the conviction in relation to which the order is made is quashed on appeal.
-
-##### <a id="173"></a>173  Suspension of operation of restitution orders and reparation orders made by the Australian Military Court
+##### <a id="173"></a>173  Suspension of operation of restitution orders and reparation orders
 
              (1)  The operation of a restitution order or a reparation order made by the Australian Military Court is suspended:
 
@@ -7530,7 +6700,7 @@ Note:          A report under this section is a **_relevant re
 
              (4)  Nothing in this section affects any right or remedy that a person may have, apart from this section, in respect of any loss or damage occasioned by an offence.
 
-##### <a id="175"></a>175  Evidence of fine etc.
+##### <a id="175"></a>175  Evidence of fine etc.
 
              (1)  The Registrar, an authorized officer, or a person appointed or engaged under the _Public Service Act 1999_ performing duties in the Department, may issue a certificate stating that:
 
@@ -7546,9 +6716,9 @@ Note:          A report under this section is a **_relevant re
 
                      (a)  a summary authority has imposed a punishment on a convicted person; and
 
-                     (b)  the convicted person notifies the summary authority that he or she has appealed to the Australian Military Court under Part IX against the conviction or the punishment;
+                     (b)  the convicted person lodges a petition under section 153 with respect to the conviction or punishment;
 
-the summary authority must order that the execution of the punishment be stayed, in whole or in part, pending the determination of the appeal.
+the reviewing authority may order that the execution of the punishment is to be stayed in whole or in part pending the determination of the petition.
 
              (2)  If:
 
@@ -7566,7 +6736,7 @@ the Court may order that the execution of the punishment is to be stayed in whol
 
 ##### <a id="178"></a>178  Interpretation
 
-                   In this Part, **_member of the staff_**, in relation to a detention centre, means a member of the Defence Force on the staff of a detention centre.
+                   In this Part, **_member of the staff_**, in relation to a detention centre, means a member of the Defence Force on the staff of a detention centre.
 
 ##### <a id="178A"></a>178A  Search of detainees
 
@@ -7652,7 +6822,7 @@ the Court may order that the execution of the punishment is to be stayed in whol
 
              (3)  In this section:
 
-                    <a name="minist"></a>**_Minister_**, in relation to the Northern   Territory, means a person holding an office referred to in section 34 of the _Northern Territory__(Self-Government) Act 1978_.
+                    <a name="minist"></a>**_Minister_**, in relation to the Northern Territory, means a person holding an office referred to in section 34 of the _Northern   Territory__(Self-Government) Act 1978_.
 
 ##### <a id="183"></a>183  Terms and conditions of appointment etc.
 
@@ -8266,7 +7436,7 @@ Terms and conditions etc.
 
                      (c)  a person who is acting in a position usually occupied by a person with a classification level of the kind mentioned in paragraph (b).
 
-## Part XIA—Director of Military Prosecutions
+### Part XIA—Director of Military Prosecutions
 
 ### Division 1—Establishment and functions of the Director of Military Prosecutions
 
@@ -8296,15 +7466,15 @@ Terms and conditions etc.
 
 ##### <a id="188GB"></a>188GB  Appearances by and on behalf of Director of Military Prosecutions
 
-                   In proceedings before the Australian   Military Court, the Director of Military Prosecutions:
+                   In a trial of a charge by the Australian   Military Court, the Director of Military Prosecutions:
 
                      (a)  may appear in person; or
 
                      (b)  if the Director of Military Prosecutions so authorises, may be represented by:
 
-                              (i)  if the proceedings are held in Australia—a member of the Defence Force or a legal practitioner; or
+                              (i)  if the trial is held in Australia—a member of the Defence Force or a legal practitioner; or
 
-                             (ii)  if the proceedings are held in a place outside Australia—a person referred to in subparagraph (i) or a person qualified to practise before the courts of that place.
+                             (ii)  if the trial is held in a place outside Australia—a person referred to in subparagraph (i) or a person qualified to practise before the courts of that place.
 
 ##### <a id="188GC"></a>188GC  Right of Director of Military Prosecutions and staff to practise in their official capacity
 
@@ -8466,7 +7636,7 @@ Note:          The annual report prepared by the Director of M
 
              (3)  The disclosure must be by notice in writing given to the Minister as soon as practicable after the Director of Military Prosecutions becomes aware of the potential for conflict of interest.
 
-##### <a id="188GP"></a>188GP  Acting appointments
+##### <a id="188GP"></a>188GP  Acting appointments
 
              (1)  The Minister may appoint a person to act as the Director of Military Prosecutions:
 
@@ -8534,9 +7704,7 @@ Note:          The annual report prepared by the Director of M
 
                      (c)  the dismissal of a charge of an offence against a person under previous service law; or
 
-                     (d)  the taking of a service offence into consideration in relation to a person under section 77; or 
-
-                     (e)  the determination or dismissal of an appeal under Part IX.
+                     (d)  the taking of a service offence into consideration in relation to a person under section 77.
 
              (2)  A certificate purporting to be issued under subsection (1) and purporting to be signed by an authorized officer shall be received in evidence in any civil court or service tribunal without further proof and is _prima facie_ evidence of the facts stated in it.
 
@@ -8564,7 +7732,7 @@ in relation to an act done or omitted to be done in good faith in the exercise o
 
 ##### <a id="194"></a>194  Persons found to be of unsound mind
 
-             (1)  Where a direction has been given under section 145 or 164 that a person be kept in strict custody until the pleasure of the Governor-General is known, the Governor-General may, by writing signed by him or her, order that the person be detained in safe custody in such place and in accordance with such directions, if any, as the Governor-General specifies in the order.
+             (1)  Where a direction has been given under section 145 or 158 that a person be kept in strict custody until the pleasure of the Governor-General is known, the Governor-General may, by writing signed by him or her, order that the person be detained in safe custody in such place and in accordance with such directions, if any, as the Governor-General specifies in the order.
 
              (2)  The Governor-General may, from time to time, by writing signed by him or her, vary an order made under subsection (1), either as to the place specified in the order or the directions so specified, or as to both, in such manner as the person thinks fit.
 
@@ -8678,191 +7846,6 @@ during the year ending on that 31 December.
 
                      (b)  in any other case—a punishment referred to in paragraph 68(1)(h).
 
-# Schedule 1A—Certain disciplinary offences
-
-_Note:       See subsection 3(1)._
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="29%">
-  <col width="61%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Offence against:</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Subject matter</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Subsection 23(1)</div>
-  </td>
-  <td>
-    <div>Absence from duty</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Subsection 23(2)</div>
-  </td>
-  <td>
-    <div>Absence from duty</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Subsection 24(1)</div>
-  </td>
-  <td>
-    <div>Absence without leave</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Subsection 26(1)</div>
-  </td>
-  <td>
-    <div>Insubordinate conduct</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Subsection 26(2)</div>
-  </td>
-  <td>
-    <div>Insubordinate conduct</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Subsection 27(1)</div>
-  </td>
-  <td>
-    <div>Disobeying a lawful command</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Subsection 29(1)</div>
-  </td>
-  <td>
-    <div>Failing to comply with a general order</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Subsection 32(1)</div>
-  </td>
-  <td>
-    <div>Person on guard or on watch</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>Subsection 35(1)</div>
-  </td>
-  <td>
-    <div>Negligence in performance of a duty</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>Subsection 37(1)</div>
-  </td>
-  <td>
-    <div>Intoxicated while on duty etc.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>Subsection 54A(1)</div>
-  </td>
-  <td>
-    <div>Custodial offences</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>Subsection 54A(2)</div>
-  </td>
-  <td>
-    <div>Custodial offences</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>Subsection 60(1)</div>
-  </td>
-  <td>
-    <div>Prejudicial conduct</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>Subsection 60(1A)</div>
-  </td>
-  <td>
-    <div>Prejudicial conduct</div>
-  </td>
-</tr></table>
-
 # Schedule 1—Corresponding punishments
 
 _Section 65B_
@@ -8942,7 +7925,7 @@ Dismissal from Her Majesty’s Service</div>
   </td>
 </tr></table>
 
-# Schedule 2—Punishments that may be imposed by the Australian Military Court
+# Schedule 2—Punishments that may be imposed by the Australian   Military Court
 
 _Section 67_
 
@@ -9048,154 +8031,75 @@ Fine of an amount not exceeding $500.</div>
 
 # Schedule 3—Punishments that may be imposed by a summary authority
 
-_Note:       See section 67._
+[_see_ Table B]
 
-##### <a id="1"></a>1  Punishments that may be imposed by a superior summary authority
+_Section 67_
 
-Punishments that may be imposed on certain officers
+              1.  Subject to section 131, a superior summary authority may impose punishments on convicted persons in accordance with Table A in this Schedule.
 
-             (1)  A superior summary authority may impose a punishment set out in column 2 of an item of Table A of this Schedule on an officer referred to in column 1 of that item who has been convicted of an offence.
+              2.  Subject to section 131, a commanding officer may impose punishments on convicted persons in accordance with Table B in this Schedule.
 
-<table>
-<colgroup>
-  <col width="15%">
-  <col width="42%">
-  <col width="42%">
-</colgroup>
+              3.  A subordinate summary authority may impose punishments on convicted persons in accordance with Table C in this Schedule.
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Table A—Punishments that may be imposed by a superior summary authority
-          on certain officers</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>
-        <b>Convicted person</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>
-        <b>Punishment</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Officer:</div>
-    <div>(a) of or below the rank of rear admiral but above the rank of lieutenant
-      commander; or</div>
-    <div>(b) of or below the rank of major-general but above the rank of major;
-      or</div>
-    <div>(c) of or below the rank of air vice-marshal but above the rank of squadron
-      leader</div>
-  </td>
-  <td>
-    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
-    <div>Severe reprimand</div>
-    <div>Reprimand</div>
-  </td>
-</tr></table>
-
-Punishments that may be imposed on other persons
-
-             (2)  A superior summary authority may impose an elective punishment, or a punishment set out in column 3 of an item of Table B of this Schedule, on a person referred to in column 1 of that item who has been convicted of an offence (other than a Schedule 1A offence).
-
-             (3)  A superior summary authority may impose a punishment set out in column 3 of an item of Table B of this Schedule on a person referred to in column 1 of that item who has been convicted of a Schedule 1A offence.
-
-             (4)  A superior summary authority may impose an elective punishment on a person referred to in column 1 of an item of Table B of this Schedule who has been convicted of a Schedule 1A offence (other than a custodial offence) only in accordance with subsection 131AA(8).
+TABLE A—SUPERIOR SUMMARY AUTHORITY
 
 <table>
 <colgroup>
-  <col width="15%">
-  <col width="28%">
-  <col width="28%">
-  <col width="28%">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Table B—Punishments that may be imposed by a superior summary authority
-          on other persons</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>
-        <b>Convicted person</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>
-        <b>Elective punishment</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-      <div>
-        <b>Other punishment</b>
-      </div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
-    <div>1</div>
+    <div>
+      <b>Column 1</b>
+    </div>
   </td>
+  <td>
+    <div>
+      <b>Column 2</b>
+    </div>
+  </td>
+  <td>
+    <div>
+      <b>Column 3</b>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      <b>Convicted person</b>
+    </div>
+  </td>
+  <td>
+    <div>
+      <b>Elective punishment</b>
+    </div>
+  </td>
+  <td>
+    <div>
+      <b>Other punishment</b>
+    </div>
+  </td>
+</tr>
+<tr>
   <td>
     <div>Officer of or below the rank of lieutenant commander, major or squadron
-      leader</div>
-    <div>Warrant officer</div>
+      leader or warrant officer</div>
   </td>
   <td>
     <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
       not exceeding the amount of the convicted person’s pay for 14 days</div>
   </td>
   <td>
-    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
-    <div>Severe reprimand</div>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+      Severe reprimand</div>
     <div>Reprimand</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div>2</div>
-  </td>
   <td>
     <div>Person who is not a member of the Defence Force</div>
   </td>
@@ -9207,57 +8111,45 @@ Punishments that may be imposed on other persons
   </td>
 </tr></table>
 
-##### <a id="2"></a>2  Punishments that may be imposed by a commanding officer
-
-             (1)  A commanding officer may impose an elective punishment, or a punishment set out in column 3 of an item of Table C of this Schedule, on a person referred to in column 1 of that item who has been convicted of an offence (other than a Schedule 1A offence).
-
-             (2)  A commanding officer may impose a punishment set out in column 3 of an item of Table C of this Schedule on a person referred to in column 1 of that item who has been convicted of a Schedule 1A offence.
-
-             (3)  A commanding officer may impose an elective punishment on a person referred to in column 1 of an item of Table C of this Schedule who has been convicted of a Schedule 1A offence (other than a custodial offence) only in accordance with subsection 131AA(8).
+TABLE B—COMMANDING OFFICER
 
 <table>
 <colgroup>
-  <col width="15%">
-  <col width="28%">
-  <col width="28%">
-  <col width="28%">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="4">
-      <div>
-        <b>Table C—Punishments that may be imposed by a commanding officer on convicted
-          persons</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
     <td>
       <div>
         <b>Column 1</b>
-      </div>
-      <div>
-        <b>Convicted person</b>
       </div>
     </td>
     <td>
       <div>
         <b>Column 2</b>
       </div>
-      <div>
-        <b>Elective punishment</b>
-      </div>
     </td>
     <td>
       <div>
         <b>Column 3</b>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Convicted person</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Elective punishment</b>
+      </div>
+    </td>
+    <td>
       <div>
         <b>Other punishment</b>
       </div>
@@ -9266,12 +8158,8 @@ Punishments that may be imposed on other persons
 </thead>
 <tr>
   <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Officer of or below the naval rank of lieutenant, the rank of captain
-      in the Army or the rank of flight lieutenant</div>
-    <div>Warrant officer</div>
+    <div>Officer of or below the rank of lieutenant in the Navy, captain in the
+      Army or flight lieutenant or warrant officer</div>
   </td>
   <td>
     <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
@@ -9285,14 +8173,27 @@ Punishments that may be imposed on other persons
 </tr>
 <tr>
   <td>
-    <div>2</div>
+    <div>Non-commissioned officer of the Australian Navy</div>
   </td>
   <td>
-    <div>Non-commissioned officer</div>
+    <div>Reduction in rank by not more than one rank</div>
+    <div>Forfeiture of seniority</div>
   </td>
   <td>
-    <div>Reduction in rank by one rank or, in the case of a corporal of the Army,
-      reduction in rank by one or 2 ranks</div>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 28 days</div>
+    <div>Severe reprimand</div>
+    <div>Stoppage of leave for a period not exceeding 21 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Non-commissioned officer of the Australian Army or the Australian Air
+      Force</div>
+  </td>
+  <td>
+    <div>Reduction in rank by not more than one rank or, in the case of a corporal
+      of the Australian Army, reduction in rank by one or 2 ranks</div>
     <div>Forfeiture of seniority</div>
     <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
       not exceeding the amount of the convicted person’s pay for 14 days</div>
@@ -9305,12 +8206,30 @@ Punishments that may be imposed on other persons
 </tr>
 <tr>
   <td>
-    <div>3</div>
+    <div>Member below non-commissioned rank in the Navy</div>
   </td>
   <td>
-    <div>Member below non-commissioned rank who, at the time he or she committed
-      the service offence of which he or she has been convicted, was on active
-      service</div>
+    <div> </div>
+  </td>
+  <td>
+    <div>Detention for a period not exceeding 42 days</div>
+    <div>Reduction in rank</div>
+    <div>Forfeiture of seniority</div>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 28 days</div>
+    <div>Severe reprimand</div>
+    <div>Restriction of privileges for a period not exceeding 14 days</div>
+    <div>Stoppage of leave for a period not exceeding 21 days</div>
+    <div>Extra duties for a period not exceeding 7 days</div>
+    <div>Extra drill for not more than 2 sessions of 30 minutes each per day for
+      a period not exceeding 3 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Member below non-commissioned rank in the Army or the Air Force who, at
+      the time he or she committed the service offence of which he or she has
+      been convicted, was on active service</div>
   </td>
   <td>
     <div>Detention for a period exceeding 14 days but not exceeding 42 days</div>
@@ -9330,12 +8249,9 @@ Punishments that may be imposed on other persons
 </tr>
 <tr>
   <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Member below non-commissioned rank who, at the time he or she committed
-      the service offence of which he or she has been convicted, was not on active
-      service</div>
+    <div>Member below non-commissioned rank in the Army or the Air Force who, at
+      the time he or she committed the service offence of which he or she has
+      been convicted, was not on active service</div>
   </td>
   <td>
     <div>Detention for a period exceeding 7 days but not exceeding 28 days</div>
@@ -9355,9 +8271,6 @@ Punishments that may be imposed on other persons
 </tr>
 <tr>
   <td>
-    <div>5</div>
-  </td>
-  <td>
     <div>Person who is not a member of the Defence Force</div>
   </td>
   <td>
@@ -9368,44 +8281,45 @@ Punishments that may be imposed on other persons
   </td>
 </tr></table>
 
-##### <a id="3"></a>3  Punishments that may be imposed by a subordinate summary authority
-
-                   A subordinate summary authority may impose a punishment set out in column 2 of an item of Table D of this Schedule on a person referred to in column 1 of that item who has been convicted of an offence.
+TABLE C—SUBORDINATE SUMMARY AUTHORITY
 
 <table>
 <colgroup>
-  <col width="15%">
-  <col width="42%">
-  <col width="42%">
+  <col width="36%">
+  <col width="30%">
+  <col width="33%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="3">
-      <div>
-        <b>Table D—Punishments that may be imposed by a subordinate summary authority
-          on convicted persons</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
     <td>
       <div>
         <b>Column 1</b>
-      </div>
-      <div>
-        <b>Convicted person</b>
       </div>
     </td>
     <td>
       <div>
         <b>Column 2</b>
       </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Subordinate Summary Authority</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Convicted Person</b>
+      </div>
+    </td>
+    <td>
       <div>
         <b>Punishment</b>
       </div>
@@ -9414,7 +8328,42 @@ Punishments that may be imposed on other persons
 </thead>
 <tr>
   <td>
-    <div>1</div>
+    <div>A subordinate summary authority who is—</div>
+    <div>(a) an officer of the Navy of or above the rank of commander; or</div>
+    <div>(b) an officer of the Navy of or above the rank of lieutenant holding
+      an appointment of Executive Officer of a ship or naval establishment</div>
+  </td>
+  <td>
+    <div>Sailor of the rank of leading seaman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Stoppage of leave for a period not exceeding 21 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Sailor below the rank of leading seaman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Restriction of privileges for a period not exceeding 14 days</div>
+    <div>Stoppage of leave for a period not exceeding 21 days</div>
+    <div>Extra duties for a period not exceeding 7 days</div>
+    <div>Extra drill for not more than 2 sessions of 30 minutes each per day for
+      a period not exceeding 3 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Any subordinate summary authority</div>
   </td>
   <td>
     <div>Non-commissioned officer of, or below, the rank of leading seaman or corporal</div>
@@ -9427,7 +8376,7 @@ Punishments that may be imposed on other persons
 </tr>
 <tr>
   <td>
-    <div>2</div>
+    <div> </div>
   </td>
   <td>
     <div>Member below non-commissioned rank</div>
@@ -9796,28 +8745,6 @@ _Section 142_
   </td>
   <td>
     <div>Offence against subsection 36(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20A</div>
-  </td>
-  <td>
-    <div>Offence against section 36A</div>
-  </td>
-  <td>
-    <div>Offence against section 36B</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20B</div>
-  </td>
-  <td>
-    <div>Offence against section 36B</div>
-  </td>
-  <td>
-    <div>Offence against section 36A</div>
   </td>
 </tr>
 <tr>
@@ -11199,7 +10126,7 @@ The _Defence Force Discipline Act 1982_ as shown in this compilation comprises A
 
 All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-Schedule 3 of the _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulation__s 1__985_ (1985 No. 125). Schedule 3 was repealed and substituted by the _Defence Legislation Amendment Act 2008_(No. 6 of 2008). These modifications no longer apply.
+The _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulations 1985_ (1985 No. 125) _see_ Table B.
 
 ### Table of Acts
 
@@ -11813,7 +10740,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedule 1, Schedule 2 (items 1–20), Schedules 3–6 and Schedule 7 (items 18–26, 29, 30): 20 Sept 2008 
+    <div>Schedule 1, Schedule 2 (items 1–20), Schedules 3–6 and Schedule 7 (items 18–26, 29, 30): \[ <i>see</i>Note 2] 
 Schedule 7 (items 1–4, 15–17, 27, 28, 30A, 30B, 31–36, 40–44) and Schedule 8: Royal Assent 
 Schedule 7 (item 39): <i>(p)</i></div>
   </td>
@@ -13131,38 +12058,6 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 59</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 59(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 59(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 59(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 59</div>
   </td>
   <td>
@@ -13179,26 +12074,10 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 60</div>
   </td>
   <td>
     <div>rs. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -13278,7 +12157,7 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 159, 2006; No. 6, 2008</div>
+    <div>am. No. 164, 1984; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -13358,7 +12237,7 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 6, 2008</div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
@@ -13382,23 +12261,15 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
     <div>S. 74</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 6, 2008</div>
+    <div>am. No. 164, 1984; No. 43, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 75</div>
+    <div>Ss. 75, 76</div>
   </td>
   <td>
     <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -13407,14 +12278,6 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
   </td>
   <td>
     <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -13430,15 +12293,7 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
     <div>S. 80</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 159, 2006; No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 81, 82</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
+    <div>am. No. 164, 1984; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -13582,7 +12437,7 @@ _(p)_ Subsection 2(1) (item 10) of the _Defence Legislation Amendment Act 2008_ 
     <div>Ss. 99, 100</div>
   </td>
   <td>
-    <div>am. No. 43, 1995; No. 6, 2008</div>
+    <div>am. No. 43, 1995</div>
   </td>
 </tr>
 <tr>
@@ -14285,34 +13140,10 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 106</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
+    <div>Ss. 106, 107</div>
   </td>
   <td>
     <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 107</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14329,22 +13160,6 @@ No. 159, 2006</div>
   </td>
   <td>
     <div>am. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 108(2), (3)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14384,23 +13199,7 @@ No. 159, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 43, 1995 (as am. by No. 43, 1996); No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 111A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 111B, 111C</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
+    <div>am. No. 43, 1995 (as am. by No. 43, 1996)</div>
   </td>
 </tr>
 <tr>
@@ -14453,14 +13252,6 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 116</div>
   </td>
   <td>
@@ -14473,14 +13264,6 @@ No. 159, 2006</div>
   </td>
   <td>
     <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14521,14 +13304,6 @@ No. 159, 2006</div>
   </td>
   <td>
     <div>ad. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14797,22 +13572,6 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 129</div>
   </td>
   <td>
@@ -14825,14 +13584,6 @@ No. 159, 2006</div>
   </td>
   <td>
     <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14933,10 +13684,26 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 130</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 6, 2008</div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
@@ -14969,22 +13736,6 @@ No. 159, 2006</div>
   </td>
   <td>
     <div>am. No. 65, 1987; No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131AA</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15053,14 +13804,6 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 132A</div>
   </td>
   <td>
@@ -15077,26 +13820,10 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 132AA</div>
+    <div>Ss. 132AA, 132AB</div>
   </td>
   <td>
     <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132AB</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15189,14 +13916,6 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision A</b></div>
   </td>
   <td>
@@ -15205,44 +13924,27 @@ No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. A of Div. 3 
+    <div>Heading to Subdiv. A of Div. 2 
 of Part VIII</div>
   </td>
   <td>
-    <div>ad. No. 159, 2006 
-rs. No. 6, 2008</div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 137A</div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>ad. No. 6, 2008</div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 138</div>
+    <div>Ss. 138, 139</div>
   </td>
   <td>
     <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 139(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 139</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1995; No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15303,14 +14005,6 @@ rs. No. 6, 2008</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 144(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 145</div>
   </td>
   <td>
@@ -15335,26 +14029,10 @@ rs. No. 6, 2008</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 146</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 146</div>
   </td>
   <td>
-    <div>am. No. 28, 1991; No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 146A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
+    <div>am. No. 28, 1991</div>
   </td>
 </tr>
 <tr>
@@ -15362,7 +14040,7 @@ rs. No. 6, 2008</div>
     <div>S. 147</div>
   </td>
   <td>
-    <div>rs. No. 159, 2006; No. 6, 2008</div>
+    <div>rs. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -15432,14 +14110,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 149A</div>
   </td>
   <td>
@@ -15456,7 +14126,7 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part VIIIA</b></div>
+    <div><b>Part IX</b></div>
   </td>
   <td>
     <div></div>
@@ -15464,10 +14134,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div>Part VIIIA</div>
+    <div>Heading to Part IX</div>
   </td>
   <td>
-    <div>ad. No. 6, 2008</div>
+    <div>rs. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -15488,14 +14158,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 150A</div>
   </td>
   <td>
@@ -15508,14 +14170,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>am. No. 142, 2005; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15536,26 +14190,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 152</div>
   </td>
   <td>
     <div>am. No. 135, 2003; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15568,34 +14206,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 153A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 154</div>
   </td>
   <td>
     <div>am. No. 65, 1985; No. 43, 1995; No. 1, 1997; No. 135, 2003; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15608,34 +14222,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 155</div>
   </td>
   <td>
     <div>am. No. 43, 1995; No. 1, 1997 (as am. by No. 116, 1999); No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -15656,10 +14246,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>ad. No. 6, 2008</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -15672,66 +14262,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 158</div>
   </td>
   <td>
     <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 159</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IX</div>
-  </td>
-  <td>
-    <div>rs. No. 159, 2006; No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IX</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -15744,42 +14278,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 161</div>
   </td>
   <td>
     <div>am. No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -15792,10 +14294,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Div. 4 of Part IX</div>
   </td>
   <td>
-    <div>rs. No. 6, 2008</div>
+    <div>rep. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -15804,14 +14306,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15832,34 +14326,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 165</div>
   </td>
   <td>
     <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 165A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15880,66 +14350,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 167</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 167A, 167B</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part IX</div>
-  </td>
-  <td>
-    <div>rep. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 168</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 168A–168E</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15948,14 +14362,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>am. No. 164, 1984; No. 43, 1995; No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -15987,7 +14393,7 @@ Div. 3 of Part VIII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 135, 2003; No. 6, 2008</div>
+    <div>am. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -15996,14 +14402,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 169BA, 169BB</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16019,7 +14417,7 @@ Div. 3 of Part VIII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 135, 2003; No. 6, 2008</div>
+    <div>am. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -16028,22 +14426,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 169F(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16059,7 +14441,7 @@ Div. 3 of Part VIII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 135, 2003; No. 6, 2008</div>
+    <div>am. No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -16072,50 +14454,10 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 169FB</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169G</div>
+    <div>Ss. 169G, 169H</div>
   </td>
   <td>
     <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169GA</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169H</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16124,14 +14466,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>ad. No. 43, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16168,22 +14502,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 172A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 173</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 173</div>
   </td>
   <td>
@@ -16212,14 +14530,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>rs. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16712,7 +15022,7 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 188GA</div>
+    <div>Ss. 188GA, 188GB</div>
   </td>
   <td>
     <div>ad. No. 142, 2005</div>
@@ -16724,22 +15034,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>am. No. 159, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188GB</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -16843,7 +15137,7 @@ Div. 3 of Part VIII</div>
     <div>S. 191</div>
   </td>
   <td>
-    <div>am. No. 43, 1995; No. 159, 2006; No. 6, 2008</div>
+    <div>am. No. 43, 1995; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -16867,7 +15161,7 @@ Div. 3 of Part VIII</div>
     <div>S. 194</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006; No. 6, 2008</div>
+    <div>am. No. 164, 1984; No. 43, 1995; No. 142, 2005; No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -16960,22 +15254,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 1A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 2</b></div>
   </td>
   <td>
@@ -17012,14 +15290,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>am. No. 164, 1984; No. 43, 1995; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -17094,6 +15364,2345 @@ Div. 3 of Part VIII</div>
     <div>ad. No. 159, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Defence Legislation Amendment Act 2008 (No. 6, 2008)_
+
+The following amendments commence on 20 September 2008:
+
+## Schedule 1
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="schule-1a-offenc"></a>**_Schedule 1A offence_** means:
+
+                     (a)  an offence specified in Schedule 1A; or
+
+                     (b)  an offence that is an ancillary offence in relation to an offence referred to in paragraph (a).
+
+## 2  After section 111A
+
+Insert:
+
+##### <a id="111B"></a>111B  Accused person may elect to be tried by the Australian Military Court—election before commencement of trial
+
+             (1)  At the commencement of dealing with a charge against an accused person, the summary authority must give the person an opportunity to elect, in accordance with section 111C, to have the charge tried by the Australian Military Court.
+
+Note 1:       If the summary authority is dealing with an accused person in respect of 2 or more charges (the **_linked charges_**) that arise from the same facts or circumstances, and the accused person makes an election to have one or more of the linked charges tried by the Australian Military Court, the summary authority must refer that charge or those charges and, unless the Director of Military Prosecutions agrees otherwise, any other linked charge to the Director of Military Prosecutions: see subsection 111C(3).
+
+Note 2:       If the summary authority is dealing with 2 or more accused persons together, the summary authority must give each accused person an opportunity to make an election in accordance with section 111C.
+
+Note 3:       If a charge is tried by the Australian Military   Court because of an election under subsection 111C(1), the charge will be tried by a Military Judge alone: see subsection 132AB(2A).
+
+             (2)  Subsection (1) does not apply in relation to:
+
+                     (a)  a charge of a prescribed offence; or
+
+                     (b)  a charge of any other service offence that:
+
+                              (i)  arises from the same facts and circumstances as a prescribed offence; and
+
+                             (ii)  is being dealt with together with that offence; or
+
+                     (c)  a charge of a Schedule 1A offence (other than a Schedule 1A offence covered by paragraph (b)), unless the accused person is:
+
+                              (i)  an officer of or below the rank of rear admiral but above the rank of lieutenant commander; or
+
+                             (ii)  an officer of or below the rank of major-general but above the rank of major; or
+
+                            (iii)  an officer of or below the rank of air vice-marshal but above the rank of squadron leader.
+
+             (3)  The accused person must be given an opportunity to obtain legal advice in relation to the election if a legal officer is reasonably available to give such advice.
+
+##### <a id="111C"></a>111C  Decision by accused person whether to elect to be tried by the Australian   Military Court—decision before commencement of trial
+
+When election decision must be made
+
+             (1)  If, under section 111B, a summary authority gives an accused person an opportunity to elect to have a charge tried by the Australian Military Court, the accused person must decide whether or not to make the election:
+
+                     (a)  within 24 hours after the opportunity to make the election is given; or
+
+                     (b)  if the exigencies of service do not permit the person to make the decision within that time—within such longer period (not exceeding 14 days) as the summary authority allows.
+
+             (2)  The summary authority must ensure that a decision under subsection (1) is recorded in writing.
+
+Decision to elect to have charge tried by the Australian   Military Court
+
+             (3)  If the accused person elects to have the charge tried by the Australian Military Court, the summary authority must:
+
+                     (a)  refer the charge (the **_first charge_**) to the Director of Military Prosecutions; and
+
+                     (b)  unless the Director of Military Prosecutions agrees otherwise, refer any other charge (including a charge in respect of a Schedule 1A offence) against the accused person that is linked to the first charge, and that is being dealt with together with the first charge, to the Director of Military Prosecutions; and
+
+                     (c)  inform the Registrar that the charge or charges have been referred to the Director of Military Prosecutions.
+
+             (4)  For the purposes of paragraph (3)(b), a charge (the **_first charge_**) against a person is linked to another charge against the person if the first charge and the other charge arise from the same facts or circumstances.
+
+Decision not to elect to have charge tried by the Australian   Military Court
+
+             (5)  If:
+
+                     (a)  the accused person:
+
+                              (i)  does not elect to have the charge tried by the Australian Military Court; or
+
+                             (ii)  does not make a decision within the time allowed under subsection (1); and
+
+                     (b)  the charge is not referred to the Director of Military Prosecutions under paragraph (3)(b);
+
+the summary authority must deal with the charge.
+
+Withdrawal of election
+
+             (6)  An accused person who has elected to have a charge tried by the Australian Military Court may withdraw the election at any time before a date is fixed for hearing by the Court.
+
+             (7)  If an accused person withdraws an election to have a charge tried by the Australian Military Court:
+
+                     (a)  the Director of Military Prosecutions must inform the Registrar; and
+
+                     (b)  the Director of Military Prosecutions must refer the charge, and any other charge referred to the Director of Military Prosecutions under paragraph (3)(b), to a summary authority; and
+
+                     (c)  the summary authority must deal with the charge or charges.
+
+## 3  Section 131
+
+Repeal the section, substitute:
+
+##### <a id="131"></a>131  Accused person may elect to be tried by the Australian Military Court—election during trial
+
+             (1)  This section applies to a trial by a superior summary authority, or a commanding officer, of a charge of a Schedule 1A offence (other than a custodial offence).
+
+             (2)  However, this section does not apply in relation to an accused person who is an officer referred to in paragraph 111B(2)(c).
+
+             (3)  If, during the trial, the summary authority considers:
+
+                     (a)  that the evidence adduced by the prosecution is sufficient to support the charge; and
+
+                     (b)  that, if the accused person were convicted, it would be appropriate to impose an elective punishment on the person;
+
+the summary authority must, before making a finding in relation to the charge, give the accused person an opportunity to elect, in accordance with section 131AA, to have the charge tried by the Australian   Military Court.
+
+Note 1:       If the summary authority considers that it would be appropriate to impose elective punishments in relation to 2 or more charges that are being tried together, the summary authority must give the accused person an opportunity to make an election in relation to each charge. If the accused person makes an election to have one or more of those charges tried by the Australian Military Court, the summary authority must refer that charge or those charges and, unless the Director of Military Prosecutions agrees otherwise, any other linked charge to the Director of Military Prosecutions: see subsection 131AA(3).
+
+Note 2:       If the summary authority considers that it would be appropriate to impose, on 2 or more accused persons who are being tried together, elective punishments in relation to one or more charges, the summary authority must give each accused person an opportunity to make an election in relation to each of those charges.
+
+Note 3:       If a charge is tried by the Australian Military   Court because of an election under subsection 131AA(1), the charge will be tried by a Military Judge alone: see subsection 132AB(2A).
+
+Note 4:       See section 67 and Schedule 3 (in particular, subclauses 1(3) and (4) and 2(2) and (3) of that Schedule) in relation to the punishments that a superior summary authority or a commanding officer may impose on a person convicted of a Schedule 1A offence.
+
+             (4)  The accused person must be given an opportunity to obtain legal advice in relation to the election if a legal officer is reasonably available to give such advice.
+
+##### <a id="131AA"></a>131AA  Decision by accused person whether to elect to be tried by the Australian   Military Court—decision during trial
+
+When election decision must be made
+
+             (1)  If, under section 131, a summary authority gives an accused person an opportunity to elect to have a charge of a Schedule 1A offence tried by the Australian Military Court, the accused person must decide whether or not to make the election:
+
+                     (a)  within 24 hours after the opportunity to make the election is given; or
+
+                     (b)  if the exigencies of service do not permit the person to make the decision within that time—within such longer period (not exceeding 14 days) as the summary authority allows.
+
+             (2)  The summary authority must ensure that a decision under subsection (1) is recorded in writing.
+
+Decision to elect to have charge tried by the Australian   Military Court
+
+             (3)  If the accused person elects to have the charge tried by the Australian Military Court, the summary authority must:
+
+                     (a)  refer the charge (the **_first charge_**) to the Director of Military Prosecutions; and
+
+                     (b)  unless the Director of Military Prosecutions agrees otherwise, refer any other charge against the accused person that is linked to the first charge, and that is being tried together with the first charge, to the Director of Military Prosecutions; and
+
+                     (c)  inform the Registrar that the charge or charges have been referred to the Director of Military Prosecutions.
+
+             (4)  For the purposes of paragraph (3)(b), a charge (the **_first charge_**) against a person is linked to another charge against the person if the first charge and the other charge arise from the same facts or circumstances.
+
+Decision not to elect to have charge tried by the Australian   Military Court
+
+             (5)  If:
+
+                     (a)  the accused person:
+
+                              (i)  does not elect to have the charge tried by the Australian Military Court; or
+
+                             (ii)  does not make a decision within the time allowed under subsection (1); and
+
+                     (b)  the charge is not referred to the Director of Military Prosecutions under paragraph (3)(b);
+
+the summary authority must proceed with the trial of the charge.
+
+Withdrawal of election
+
+             (6)  An accused person who has elected to have a charge tried by the Australian Military Court may withdraw the election at any time before a date is fixed for hearing by the Court.
+
+             (7)  If an accused person withdraws an election to have a charge tried by the Australian Military Court:
+
+                     (a)  the Director of Military Prosecutions must inform the Registrar; and
+
+                     (b)  the Director of Military Prosecutions must refer the charge, and any other charge referred to the Director of Military Prosecutions under paragraph (3)(b), to the summary authority referred to in subsection 131(1); and
+
+                     (c)  the summary authority must proceed with the trial of the charge or charges.
+
+Punishments that may be imposed by summary authority
+
+             (8)  If:
+
+                     (a)  under subsection (5) or (7), a summary authority proceeds with the trial of a charge of a Schedule 1A offence; and
+
+                     (b)  the summary authority convicts the accused person of the offence;
+
+the summary authority may impose an elective punishment on the convicted person in respect of the offence.
+
+## 4  After subsection 132AB(2)
+
+Insert:
+
+          (2A)  If the charge was referred to the Australian   Military Court for trial because of an election by the accused person under subsection 111C(1) or 131AA(1), the charge is to be tried by a Military Judge alone.
+
+## 4A  Subsection 132AB(3)
+
+Omit “subsection (2) does not apply”, substitute “neither subsection (2) nor (2A) applies”.
+
+## 5  Before Schedule 1
+
+Insert:
+
+# Schedule 1A—Certain disciplinary offences
+
+_Note:       See subsection 3(1)._
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="29%">
+  <col width="61%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Offence against:</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Subject matter</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Subsection 23(1)</div>
+  </td>
+  <td>
+    <div>Absence from duty</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Subsection 23(2)</div>
+  </td>
+  <td>
+    <div>Absence from duty</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Subsection 24(1)</div>
+  </td>
+  <td>
+    <div>Absence without leave</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Subsection 26(1)</div>
+  </td>
+  <td>
+    <div>Insubordinate conduct</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Subsection 26(2)</div>
+  </td>
+  <td>
+    <div>Insubordinate conduct</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>Subsection 27(1)</div>
+  </td>
+  <td>
+    <div>Disobeying a lawful command</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>Subsection 29(1)</div>
+  </td>
+  <td>
+    <div>Failing to comply with a general order</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>Subsection 32(1)</div>
+  </td>
+  <td>
+    <div>Person on guard or on watch</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>Subsection 35(1)</div>
+  </td>
+  <td>
+    <div>Negligence in performance of a duty</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>Subsection 37(1)</div>
+  </td>
+  <td>
+    <div>Intoxicated while on duty etc.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>Subsection 54A(1)</div>
+  </td>
+  <td>
+    <div>Custodial offences</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>Subsection 54A(2)</div>
+  </td>
+  <td>
+    <div>Custodial offences</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>Subsection 60(1)</div>
+  </td>
+  <td>
+    <div>Prejudicial conduct</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>14</div>
+  </td>
+  <td>
+    <div>Subsection 60(1A)</div>
+  </td>
+  <td>
+    <div>Prejudicial conduct</div>
+  </td>
+</tr></table>
+
+## 6  Schedule 3
+
+Repeal the Schedule, substitute:
+
+# Schedule 3—Punishments that may be imposed by a summary authority
+
+_Note:       See section 67._
+
+##### <a id="1"></a>1  Punishments that may be imposed by a superior summary authority
+
+Punishments that may be imposed on certain officers
+
+             (1)  A superior summary authority may impose a punishment set out in column 2 of an item of Table A of this Schedule on an officer referred to in column 1 of that item who has been convicted of an offence.
+
+<table>
+<colgroup>
+  <col width="15%">
+  <col width="42%">
+  <col width="42%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Table A—Punishments that may be imposed by a superior summary authority
+          on certain officers</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Convicted person</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Punishment</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Officer:</div>
+    <div>(a) of or below the rank of rear admiral but above the rank of lieutenant
+      commander; or</div>
+    <div>(b) of or below the rank of major-general but above the rank of major;
+      or</div>
+    <div>(c) of or below the rank of air vice-marshal but above the rank of squadron
+      leader</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Reprimand</div>
+  </td>
+</tr></table>
+
+Punishments that may be imposed on other persons
+
+             (2)  A superior summary authority may impose an elective punishment, or a punishment set out in column 3 of an item of Table B of this Schedule, on a person referred to in column 1 of that item who has been convicted of an offence (other than a Schedule 1A offence).
+
+             (3)  A superior summary authority may impose a punishment set out in column 3 of an item of Table B of this Schedule on a person referred to in column 1 of that item who has been convicted of a Schedule 1A offence.
+
+             (4)  A superior summary authority may impose an elective punishment on a person referred to in column 1 of an item of Table B of this Schedule who has been convicted of a Schedule 1A offence (other than a custodial offence) only in accordance with subsection 131AA(8).
+
+<table>
+<colgroup>
+  <col width="15%">
+  <col width="28%">
+  <col width="28%">
+  <col width="28%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="4">
+      <div>
+        <b>Table B—Punishments that may be imposed by a superior summary authority
+          on other persons</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Convicted person</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Elective punishment</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3</b>
+      </div>
+      <div>
+        <b>Other punishment</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Officer of or below the rank of lieutenant commander, major or squadron
+      leader</div>
+    <div>Warrant officer</div>
+  </td>
+  <td>
+    <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
+      not exceeding the amount of the convicted person’s pay for 14 days</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Person who is not a member of the Defence Force</div>
+  </td>
+  <td>
+    <div>Fine exceeding $100 but not exceeding $250</div>
+  </td>
+  <td>
+    <div>Fine not exceeding $100</div>
+  </td>
+</tr></table>
+
+##### <a id="2"></a>2  Punishments that may be imposed by a commanding officer
+
+             (1)  A commanding officer may impose an elective punishment, or a punishment set out in column 3 of an item of Table C of this Schedule, on a person referred to in column 1 of that item who has been convicted of an offence (other than a Schedule 1A offence).
+
+             (2)  A commanding officer may impose a punishment set out in column 3 of an item of Table C of this Schedule on a person referred to in column 1 of that item who has been convicted of a Schedule 1A offence.
+
+             (3)  A commanding officer may impose an elective punishment on a person referred to in column 1 of an item of Table C of this Schedule who has been convicted of a Schedule 1A offence (other than a custodial offence) only in accordance with subsection 131AA(8).
+
+<table>
+<colgroup>
+  <col width="15%">
+  <col width="28%">
+  <col width="28%">
+  <col width="28%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="4">
+      <div>
+        <b>Table C—Punishments that may be imposed by a commanding officer on convicted
+          persons</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Convicted person</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Elective punishment</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3</b>
+      </div>
+      <div>
+        <b>Other punishment</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Officer of or below the naval rank of lieutenant, the rank of captain
+      in the Army or the rank of flight lieutenant</div>
+    <div>Warrant officer</div>
+  </td>
+  <td>
+    <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
+      not exceeding the amount of the convicted person’s pay for 14 days</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Non-commissioned officer</div>
+  </td>
+  <td>
+    <div>Reduction in rank by one rank or, in the case of a corporal of the Army,
+      reduction in rank by one or 2 ranks</div>
+    <div>Forfeiture of seniority</div>
+    <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
+      not exceeding the amount of the convicted person’s pay for 14 days</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Member below non-commissioned rank who, at the time he or she committed
+      the service offence of which he or she has been convicted, was on active
+      service</div>
+  </td>
+  <td>
+    <div>Detention for a period exceeding 14 days but not exceeding 42 days</div>
+    <div>Fine exceeding the amount of the convicted person’s pay for 14 days but
+      not exceeding the amount of the convicted person’s pay for 28 days</div>
+  </td>
+  <td>
+    <div>Detention for a period not exceeding 14 days</div>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 14 days</div>
+    <div>Severe reprimand</div>
+    <div>Restriction of privileges for a period not exceeding 14 days</div>
+    <div>Extra duties for a period not exceeding 7 days</div>
+    <div>Extra drill for not more than 2 sessions of 30 minutes each per day for
+      a period not exceeding 3 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Member below non-commissioned rank who, at the time he or she committed
+      the service offence of which he or she has been convicted, was not on active
+      service</div>
+  </td>
+  <td>
+    <div>Detention for a period exceeding 7 days but not exceeding 28 days</div>
+    <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
+      not exceeding the amount of the convicted person’s pay for 28 days</div>
+  </td>
+  <td>
+    <div>Detention for a period not exceeding 7 days</div>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days</div>
+    <div>Severe reprimand</div>
+    <div>Restriction of privileges for a period not exceeding 14 days</div>
+    <div>Extra duties for a period not exceeding 7 days</div>
+    <div>Extra drill for not more than 2 sessions of 30 minutes each per day for
+      a period not exceeding 3 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Person who is not a member of the Defence Force</div>
+  </td>
+  <td>
+    <div>Fine exceeding $100 but not exceeding $250</div>
+  </td>
+  <td>
+    <div>Fine not exceeding $100</div>
+  </td>
+</tr></table>
+
+##### <a id="3"></a>3  Punishments that may be imposed by a subordinate summary authority
+
+                   A subordinate summary authority may impose a punishment set out in column 2 of an item of Table D of this Schedule on a person referred to in column 1 of that item who has been convicted of an offence.
+
+<table>
+<colgroup>
+  <col width="15%">
+  <col width="42%">
+  <col width="42%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Table D—Punishments that may be imposed by a subordinate summary authority
+          on convicted persons</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Convicted person</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Punishment</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Non-commissioned officer of, or below, the rank of leading seaman or corporal</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 3 days</div>
+    <div>Severe reprimand</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Member below non-commissioned rank</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 3 days</div>
+    <div>Severe reprimand</div>
+    <div>Restriction of privileges for a period not exceeding 7 days</div>
+    <div>Stoppage of leave for a period not exceeding 7 days</div>
+    <div>Extra duties for a period not exceeding 7 days</div>
+    <div>Extra drill for not more than 2 sessions of 30 minutes each per day for
+      a period not exceeding 3 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr></table>
+
+## 7  Subsection 3(1) (definition of _elective punishment_)
+
+Omit “column 2 of Table A or B”, substitute “column 2 of an item of Table B or C”.
+
+## 8  Subsection 76(1)
+
+Omit “section 131”, substitute “subsection (3)”.
+
+## 9  At the end of section 76
+
+Add:
+
+             (3)  The only action that a service tribunal may take under this Part, in relation to a person for a service offence in relation to which an undertaking was given under subsection 75(2), is action that could have been taken under this Part in relation to the person by the service tribunal that convicted the person of the service offence.
+
+## 10  Subsection 103(1)
+
+Omit “or 131(4)”.
+
+## 11  Subsection 103(4)
+
+Omit “Where under section 131”, substitute “If under subsection 111C(1) or 131AA(1)”.
+
+## 12  At the end of paragraph 103(4)(c)
+
+Add “or”.
+
+## 13  Subsection 103(5)
+
+Repeal the subsection.
+
+## 14  Subsections 118(3) and (4)
+
+Repeal the subsections.
+
+## Schedule 2
+
+## 1  Subsection 67(1)
+
+Omit “The”, substitute “Subject to sections 166, 167 and 167A, the”.
+
+## 2  Subsections 115(3) and (4)
+
+Repeal the subsections, substitute:
+
+             (3)  The Australian Military Court has jurisdiction to hear and determine appeals from decisions of summary authorities (including a decision relating to a charge of a custodial offence).
+
+Note:          Part IX deals with appeals to the Australian   Military Court.
+
+## 3  Subsection 116(1)
+
+After “Australian Military Court”, insert “(including the Court’s jurisdiction to hear and determine appeals from decisions of summary authorities)”.
+
+## 4  Subsection 118(2)
+
+Repeal the subsection, substitute:
+
+Nomination of Military Judge to try charge or hear appeal
+
+             (2)  The Chief Military Judge must nominate the Military Judge who is:
+
+                     (a)  to try a charge referred to the Australian   Military Court; or
+
+                     (b)  to hear and determine an appeal to the Australian Military Court.
+
+## 5  Before section 132A
+
+Insert:
+
+##### <a id="132"></a>132  Application of Division
+
+                   This Division does not apply to an appeal to the Australian Military Court from a decision of a summary authority.
+
+Note:          Part IX deals with appeals to the Australian   Military Court.
+
+## 6  Subdivision A of Division 3 of Part VIII (heading)
+
+Repeal the heading, substitute:
+
+#### Subdivision A—General provisions relating to trials
+
+## 7  Before section 138
+
+Insert:
+
+##### <a id="137A"></a>137A  Application of Subdivision
+
+                   This Subdivision does not apply to an appeal to the Australian Military Court from a decision of a summary authority.
+
+Note:          Part IX deals with appeals to the Australian   Military Court.
+
+## 8  After subparagraph 149A(a)(x)
+
+Insert:
+
+                           (xa)  matters relating to appeals to the Court; and
+
+## 9  Part IX
+
+Repeal the Part, substitute:
+
+## Part IX—Appeals to the Australian   Military Court
+
+### Division 1—Definitions
+
+##### <a id="160"></a>160  Definitions
+
+                   In this Part:
+
+                    <a name="appeal"></a>**_appeal_** means an appeal to the Australian   Military Court under this Part.
+
+                    <a name="appel"></a>**_appellant_** means a person who has lodged an appeal.
+
+                    <a name="part-iv-order"></a>**_Part IV order_** means a restitution order, a reparation order or an order made under subsection 75(1).
+
+### Division 2—Bringing of appeals
+
+##### <a id="161"></a>161  Appeals to the Australian Military Court
+
+             (1)  A person who has been convicted of a service offence by a summary authority may appeal to the Australian Military   Court against:
+
+                     (a)  his or her conviction; or
+
+                     (b)  a punishment imposed, or a Part IV order made, by the summary authority in respect of his or her conviction.
+
+             (2)  An appeal to the Australian Military   Court:
+
+                     (a)  must specify the grounds on which the appeal is brought; and
+
+                     (b)  must be lodged with the Registrar or with such other person as is prescribed:
+
+                              (i)  within the appropriate period; or
+
+                             (ii)  within such longer period as the Court, either before or after the expiration of the appropriate period, allows.
+
+             (3)  For the purposes of subparagraph (2)(b)(i) and subject to subsections (4) and (5), the **_appropriate period_** is:
+
+                     (a)  if the appeal is against a conviction—the period of 14 days beginning on the day of the conviction; or
+
+                     (b)  if the appeal is against a punishment or a Part IV order—the period of 14 days beginning on the day on which the punishment or the Part IV order takes effect.
+
+Note:          Some punishments and orders under Part IV do not take effect unless they are approved by a reviewing authority: see subsections 172(2) and (3).
+
+             (4)  If a summary authority has reopened proceedings in response to a request by a reviewing authority under section 153:
+
+                     (a)  the convicted person may not appeal to the Australian Military Court in relation to the proceedings until after the summary authority has completed dealing with the reopened proceedings; and
+
+                     (b)  for the purposes of subparagraph (2)(b)(i), the **_appropriate period_** is:
+
+                              (i)  if the appeal is against the person’s conviction—the period of 14 days beginning on the day on which, under Part VIIIA, the person is given notice of the results of the review of the proceedings (including the reopening of the proceedings); or
+
+                             (ii)  if the appeal is against a punishment imposed on the person or a Part IV order made in relation to the person—the period of 14 days beginning on the day on which the punishment or the Part IV order takes effect.
+
+             (5)  If a reviewing authority gives a convicted person a notice under subsection 155(2) recommending that the person consider appealing to the Australian Military Court against the conviction, or any punishment imposed or order made under Part IV in respect of the conviction, then, for the purposes of subparagraph (2)(b)(i), the **_appropriate period_** is the period of 14 days beginning on the date on which the notice is given.
+
+### Division 3—Determination of appeals
+
+##### <a id="162"></a>162  Quashing of conviction—conviction unreasonable etc.
+
+                   If, in an appeal against a conviction by a summary authority, it appears to the Australian Military Court:
+
+                     (a)  that, having regard to the evidence, the conviction is unreasonable or cannot be supported; or
+
+                     (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction was wrong in law and that a substantial miscarriage of justice has occurred; or
+
+                     (c)  that there was a material irregularity in the course of the proceedings before the summary authority and that a substantial miscarriage of justice has occurred; or
+
+                     (d)  that, in all the circumstances of the case, the conviction is unsafe or unsatisfactory;
+
+the Court must allow the appeal and quash the conviction.
+
+##### <a id="163"></a>163  Quashing of conviction—new evidence available
+
+             (1)  If, in an appeal against a conviction by a summary authority, it appears to the Australian Military Court that there is evidence that:
+
+                     (a)  was not reasonably available during the proceedings before the summary authority; and
+
+                     (b)  is likely to be credible; and
+
+                     (c)  would have been admissible in the proceedings before the summary authority;
+
+the Court must receive and consider that evidence.
+
+             (2)  If:
+
+                     (a)  the Australian Military Court receives and considers evidence under subsection (1); and
+
+                     (b)  it appears to the Court that the conviction cannot be supported having regard to that evidence;
+
+the Court must allow the appeal and quash the conviction.
+
+##### <a id="164"></a>164  Quashing of conviction—person suffering from mental impairment
+
+             (1)  Subject to subsection (3), if, in an appeal against a conviction by a summary authority, it appears to the Australian   Military Court that the summary authority should have found that the appellant, by reason of mental impairment, was not able to understand the proceedings against him or her and, accordingly, was unfit to stand trial, the Court must:
+
+                     (a)  allow the appeal; and
+
+                     (b)  quash the conviction; and
+
+                     (c)  direct that the appellant be kept in strict custody until the pleasure of the Governor-General is known.
+
+             (2)  Subject to subsection (3), if, in an appeal against a conviction by a summary authority, it appears to the Australian Military Court that, at the time of the act or omission to which the conviction relates, the appellant was suffering from such mental impairment as not to be responsible, in accordance with law, for that act or omission, the Court must:
+
+                     (a)  allow the appeal and quash the conviction; and
+
+                     (b)  substitute for the conviction an acquittal on the ground of mental impairment; and
+
+                     (c)  direct that the appellant be kept in strict custody until the pleasure of the Governor-General is known.
+
+             (3)  The Australian Military Court must not quash a conviction under this section if there are grounds for quashing the conviction under section 162 or 163.
+
+##### <a id="165"></a>165    Australian Military Court may order new trial
+
+             (1)  If, in an appeal, the Australian Military   Court quashes a conviction of a person of a service offence, the Court may, if it considers that in the interests of justice the person should be tried again, order a new trial of the person for the service offence.
+
+             (2)  If the Australian Military Court orders a new trial of a person under subsection (1), the trial must be by the Australian   Military Court.
+
+Note:          Division 2 of Part VIII deals with trials by the Australian Military Court.
+
+             (3)  If the Australian Military Court orders a new trial of a person under subsection (1), the Court must make such further orders for the custody of the person pending the new trial as the Court considers appropriate.
+
+##### <a id="165A"></a>165A  Person taken to have been acquitted
+
+                   For the purposes of this Act, if the Australian   Military Court quashes a conviction of a person of a service offence and does not order a new trial of the person for the offence, the person is taken to have been acquitted of the offence.
+
+##### <a id="166"></a>166  Substitution of conviction for alternative offence
+
+             (1)  If, in an appeal, the Australian Military   Court quashes a conviction of a person of a service offence (the **_original offence_**) but considers:
+
+                     (a)  that the summary authority that convicted the person could have found the person guilty of another offence, being:
+
+                              (i)  a service offence that is an alternative offence, within the meaning of section 142, in relation to the original offence; or
+
+                             (ii)  a service offence with which the person was charged in the alternative and in respect of which the summary authority did not record a finding; and
+
+                     (b)  that the summary authority, because of its finding that the person was guilty of the original offence, must have been satisfied beyond reasonable doubt of facts that prove that the person was guilty of the other offence;
+
+the Australian Military Court may substitute for the conviction of the original offence a conviction of the other offence.
+
+             (2)  If, under subsection (1), the Australian Military Court substitutes for the conviction of the original offence a conviction of another service offence, the Court may take such action under Part IV, in relation to the convicted person, as the summary authority that convicted the person could have taken under that Part if the summary authority had convicted the person of the other service offence.
+
+             (3)  However, the Australian Military Court must not do any of the following under subsection (2):
+
+                     (a)  impose a punishment for the other service offence unless the summary authority had imposed a punishment for the original offence;
+
+                     (b)  make a reparation order with respect to the other service offence unless the summary authority had made a reparation order with respect to the original offence;
+
+                     (c)  if the summary authority had imposed a punishment (the **_original punishment_**) for the original offence—impose a punishment for the other service offence that is more severe than the original punishment;
+
+                     (d)  if the summary authority had made a reparation order (the **_original reparation order_**) with respect to the original offence—make a reparation order with respect to the other service offence that is for an amount that exceeds the amount of the original reparation order.
+
+##### <a id="167"></a>167  Powers of Court in an appeal against a punishment
+
+             (1)  In an appeal by a convicted person against a punishment imposed on the person by a summary authority, the Australian Military Court, in its discretion, may confirm, quash or vary the punishment.
+
+             (2)  If the Australian Military Court quashes the punishment:
+
+                     (a)  the punishment does not take effect; and
+
+                     (b)  the Court may take such action under Part IV (including imposing a punishment or making an order or both) in relation to the convicted person as the summary authority could have taken under that Part in relation to the person.
+
+             (3)  If the Australian Military Court varies the punishment, the punishment takes effect as varied.
+
+             (4)  The Australian Military Court must not vary a punishment imposed on a convicted person by a summary authority in such a way that the varied punishment would not be a punishment that the summary authority could have imposed on the person under Part IV.
+
+##### <a id="167A"></a>167A  Powers of Court in an appeal against a Part IV order
+
+             (1)  In an appeal by a convicted person against a Part IV order made in relation to the person by a summary authority, the   Australian Military Court, in its discretion, may confirm, revoke or vary the order.
+
+             (2)  If the Australian Military Court revokes the Part IV order:
+
+                     (a)  the order does not take effect; and
+
+                     (b)  the Court may take such action under Part IV (including imposing a punishment or making an order or both) in relation to the convicted person as the summary authority could have taken under that Part in relation to the person.
+
+             (3)  If the Australian Military Court varies the Part IV order, the order takes effect as varied.
+
+             (4)  The Australian Military Court must not vary a Part IV order made in relation to a convicted person by a summary authority in such a way that the varied order would not be an order that the summary authority could have made in relation to the person under Part IV.
+
+##### <a id="167B"></a>167B  Frivolous or vexatious appeals
+
+                   If the Australian Military Court dismisses an appeal on the grounds that the appeal was frivolous or vexatious, the Court may order that any punishment of detention imposed on the appellant in the proceedings in relation to which the appeal was brought must be taken to commence on the day the appeal is dismissed.
+
+### Division 4—General provisions relating to appeals
+
+##### <a id="168"></a>168  Representation of parties in an appeal
+
+             (1)  Subject to subsection (2), sections 136 and 137 apply in relation to an appeal as if:
+
+                     (a)  references to a trial were references to an appeal; and
+
+                     (b)  references to an accused person were references to an appellant.
+
+Note:          Section 188GB deals with appearances by or on behalf of the Director of Military Prosecutions in proceedings before the   Australian Military Court.
+
+             (2)  Subsection 137(1) applies in relation to an appeal as if the reference to an accused person awaiting trial by the Australian Military Court were a reference to an appellant in an appeal before the Australian Military Court.
+
+##### <a id="168A"></a>168A  Hearings
+
+             (1)  The Australian Military Court may determine an appeal:
+
+                     (a)  by holding a hearing; or
+
+                     (b)  by considering, without holding a hearing, the documents or other material provided to the Court in relation to the appeal.
+
+However, the Court must hold a hearing if it appears to the Court that the issues for determination cannot be adequately determined in the absence of the parties.
+
+             (2)  For the purpose of determining an appeal, the Australian Military Court may order a party to the appeal or the Director of Military Prosecutions to produce such documents or other information as the Court specifies in the order.
+
+             (3)  If the Australian Military Court decides to hold a hearing for the purpose of determining an appeal, the hearing must, subject to subsection (4), be held in the presence of the appellant.
+
+             (4)  If:
+
+                     (a)  the Australian Military Court decides to hold a hearing for the purpose of determining an appeal; and
+
+                     (b)  the Court considers that, by reason of the disorderly behaviour of the appellant, it is impossible to continue the hearing in his or her presence;
+
+the Court may order that the appellant be removed from the place of hearing and be held in custody elsewhere.
+
+##### <a id="168B"></a>168B  Evidence
+
+             (1)  Section 146A applies to an appeal in the same way as it applies to proceedings before a summary authority.
+
+             (2)  For the purposes of subsection (1):
+
+                     (a)  references to proceedings before a summary authority are to be read as references to an appeal before the Australian   Military Court; and
+
+                     (b)  references to a summary authority are to be read as references to the Australian Military Court; and
+
+                     (c)  in subsection 146A(1), the words “(including proceedings for the purpose referred to in subsection 111A(1))” are to be omitted.
+
+##### <a id="168C"></a>168C  Judicial notice of service matters
+
+                   In determining an appeal, the Australian   Military Court must take judicial notice of all matters within the general service knowledge of the Court.
+
+##### <a id="168D"></a>168D  Record of proceedings to be kept
+
+             (1)  The Australian Military Court:
+
+                     (a)  must keep a record of an appeal determined by the Court; and
+
+                     (b)  must include in that record such particulars as are required by the rules of procedure.
+
+             (2)  A record referred to in subsection (1) must not be made publicly available but may be published for service purposes in accordance with the rules of procedure.
+
+##### <a id="168E"></a>168E  Use of video and audio links
+
+                   Subdivision B of Division 3 of Part VIII applies to appeal proceedings before the Australian Military   Court.
+
+## 10  Section 188GB
+
+Omit “a trial of a charge by”, substitute “proceedings before”.
+
+## 11  Subparagraphs 188GB(b)(i) and (ii)
+
+Omit “trial is”, substitute “proceedings are”.
+
+## 12  At the end of subsection 191(1)
+
+Add:
+
+               ; or (e)  the determination or dismissal of an appeal under Part IX.
+
+## 13  Subsection 3(1) (definition of _prescribed acquittal_)
+
+Repeal the definition.
+
+## 14  Subsections 71(1A), (2) and (3)
+
+Omit “whom it has”, substitute “who has been”.
+
+## 15  After subsection 103(2)
+
+Insert:
+
+          (2A)  If, under section 165, the Australian Military Court orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge that was the subject of the proceedings to which the appeal relates to the Australian Military Court for a new trial.
+
+## 16  Subsection 103(3)
+
+After “(2)”, insert “or (2A)”.
+
+## 17  At the end of subsection 144(1)
+
+Add:
+
+Note:          If a person has been convicted of a service offence by a summary authority, the Australian Military Court may, in an appeal against the conviction, quash the conviction and order a new trial of the person for the offence: see section 165.
+
+## 18  After section 172
+
+Insert:
+
+##### <a id="172A"></a>172A  Suspension of operation of restitution orders and reparation orders made by a summary authority
+
+             (1)  The operation of a restitution order or a reparation order made by a summary authority is suspended:
+
+                     (a)  until the expiration of the period in which, under Part IX, an appeal to the Australian Military Court against the order, or the conviction in relation to which the order was made, may be lodged, but not in any case beyond the time specified in paragraph (b); and
+
+                     (b)  if such an appeal is lodged—until the appeal is finally determined or abandoned.
+
+             (2)  If, in relation to a restitution order, the summary authority is satisfied that the title to the property in relation to which the order is made is not in dispute, the summary authority may direct that subsection (1) is not to apply to the order.
+
+             (3)  If the operation of a restitution order or a reparation order is suspended under subsection (1), the order does not take effect if the conviction in relation to which the order is made is quashed on appeal.
+
+_Note:       The heading to section 173 is altered by adding at the end “made by the Australian Military Court”._
+
+## 19  Subsection 176(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If:
+
+                     (a)  a summary authority has imposed a punishment on a convicted person; and
+
+                     (b)  the convicted person notifies the summary authority that he or she has appealed to the Australian Military Court under Part IX against the conviction or the punishment;
+
+the summary authority must order that the execution of the punishment be stayed, in whole or in part, pending the determination of the appeal.
+
+## 20  Subsection 194(1)
+
+Omit “or 158”, substitute “or 164”.
+
+## Schedule 3
+
+## 1  At the end of subsection 111A(1)
+
+Add:
+
+Note:          A summary authority is not bound by the rules of evidence and may hear any evidence that it considers to be of assistance and relevance in proceedings for the purpose referred to in this subsection: see section 146A.
+
+## 2  Subsection 111A(2)
+
+Omit “Without limiting the generality of subsection 146(2), regulations made by virtue of that subsection”, substitute “The regulations”.
+
+## 3  Subsection 146(1)
+
+Omit “proceedings before a service tribunal”, substitute “a trial by the Australian Military Court”.
+
+_Note:       The heading to section 146 is replaced by the heading “Evidence in trials by the Australian Military Court”._
+
+## 4  Paragraph 146(1)(a)
+
+Omit “the tribunal”, substitute “the Australian Military Court”.
+
+## 5  Paragraph 146(1)(b)
+
+Omit “the proceedings were criminal proceedings”, substitute “the trial were a criminal proceeding”.
+
+## 6  Subsection 146(2)
+
+Omit “proceedings before a service tribunal”, substitute “trials by the Australian Military Court”.
+
+## 7  Subsection 146(2)
+
+Omit “such proceedings”, substitute “such trials”.
+
+## 8  After section 146
+
+Insert:
+
+##### <a id="146A"></a>146A  Evidence etc. in proceedings before a summary authority
+
+             (1)  This section applies to proceedings before a summary authority (including proceedings for the purpose referred to in subsection 111A(1)).
+
+             (2)  The summary authority:
+
+                     (a)  must comply with:
+
+                              (i)  the rules of natural justice; and
+
+                             (ii)  the Summary Authority Rules; and
+
+                     (b)  consistently with those rules:
+
+                              (i)  must act with as little legal formality or legal technicality as possible, while ensuring fairness; and
+
+                             (ii)  is, subject to this Act, not bound by the rules of evidence (whether statutory or common law), but must comply with the basic principles of those rules relating to relevance, reliability, weight and probative value; and
+
+                            (iii)  may admit any documents or call any witnesses that the summary authority considers to be of assistance and relevance; and
+
+                            (iv)  may give such weight as the summary authority considers appropriate to any evidence admitted under subparagraph (iii), having regard to the importance of the evidence in the proceedings and its probative value.
+
+Note:          The Summary Authority Rules may make provision in relation to the giving of testimony and other evidence: see paragraph 149(aa).
+
+             (3)  Nothing in this section allows a person to be compelled to testify against himself or herself, or to give particular evidence, in proceedings before a summary authority, if doing so might tend to incriminate the person or expose the person to a penalty.
+
+             (4)  This section does not affect the law relating to legal professional privilege.
+
+## 9  Section 147
+
+Repeal the section, substitute:
+
+##### <a id="147"></a>147  Judicial notice of service matters
+
+             (1)  In addition to the matters of which judicial notice may be taken by a court under the rules of evidence referred to in section 146, the Australian Military Court must take judicial notice of all matters within the general service knowledge of:
+
+                     (a)  the Court; and
+
+                     (b)  if the proceedings are before a military jury—the jury.
+
+             (2)  In proceedings before a summary authority, the summary authority must take judicial notice of all matters within the general service knowledge of the summary authority.
+
+## 10  Section 149
+
+Omit “Judge Advocate General”, substitute “Chief Military Judge”.
+
+## 11  Paragraph 149(a)
+
+After “attendance”, insert “and compellability”.
+
+## 12  After paragraph 149(a)
+
+Insert:
+
+                    (aa)  the giving of testimony and other evidence; and
+
+## Schedule 4
+
+## 1  At the end of section 149
+
+Add:
+
+              ; and (i)  the reopening of proceedings of a summary authority on request by a reviewing authority.
+
+## 2  After Part VIII
+
+Insert:
+
+## Part VIIIA—Review of proceedings of summary authorities
+
+### Division 1—Interpretation and application
+
+##### <a id="150"></a>150  Meaning of _reviewing authority_ and _competent reviewing authority_
+
+Appointment of reviewing authorities
+
+             (1)  The Chief of the Defence Force or a service chief may, by instrument in writing, appoint an officer, or each officer included in a class of officers, to be a **_reviewing authority_** for the purposes of:
+
+                     (a)  reviewing proceedings of summary authorities; and
+
+                     (b)  exercising any other powers and functions that are conferred on reviewing authorities by this Act or the regulations.
+
+Competent reviewing authorities
+
+             (2)  A reviewing authority is a **_competent reviewing authority_** for the purposes of reviewing the proceedings of a summary authority only if the reviewing authority did not exercise any of the powers or perform any of the functions of a superior authority in relation to the charge that is the subject of the proceedings.
+
+##### <a id="150A"></a>150A  Application of Part
+
+                   This Part applies in relation to proceedings of a summary authority that have resulted in a conviction of a person of a service offence.
+
+### Division 2—Automatic review by reviewing authority
+
+##### <a id="151"></a>151  Review of proceedings of subordinate summary authority
+
+Powers and duties of commanding officer
+
+             (1)  As soon as practicable after a subordinate summary authority convicts a person of a service offence, the subordinate summary authority must give the record of the proceedings to the commanding officer of the subordinate summary authority.
+
+             (2)  The commanding officer must review the proceedings in accordance with this Part and, for that purpose, the commanding officer is taken to be a reviewing authority.
+
+             (3)  The commanding officer may, but is not required to, obtain legal advice on the proceedings from a legal officer.
+
+             (4)  After completing the review of the proceedings, the commanding officer must give to a legal officer:
+
+                     (a)  the record of the proceedings; and
+
+                     (b)  a report setting out:
+
+                              (i)  the results of the review; and
+
+                             (ii)  if the proceedings were reopened by the subordinate summary authority under section 153—the action taken by the subordinate summary authority in dealing with the reopened proceedings; and
+
+                            (iii)  the reasons for any delay in conducting the review.
+
+             (5)  The commanding officer must complete the review of the proceedings and give the documents referred to in paragraphs (4)(a) and (b) to a legal officer:
+
+                     (a)  within 30 days after the commanding officer receives the record referred to in subsection (1); or
+
+                     (b)  if this is not possible due to the exigencies of service—as soon as practicable after the end of that period.
+
+Powers and duties of legal officer
+
+             (6)  As soon as practicable after receiving the record of the proceedings and the report referred to in subsection (4), the legal officer:
+
+                     (a)  must consider the record and report; and
+
+                     (b)  may, if the legal officer considers it appropriate, give the record and report to a competent reviewing authority.
+
+Further review by competent reviewing authority
+
+             (7)  If the legal officer gives the record of the proceedings and the report to a competent reviewing authority under subsection (6), the reviewing authority:
+
+                     (a)  must, as soon as practicable after receiving the record and report, review the proceedings in accordance with this Part; and
+
+                     (b)  after reviewing the proceedings, must give written notice of the results of the review to:
+
+                              (i)  the commanding officer; and
+
+                             (ii)  the person who was convicted of the service offence.
+
+Note:          A reviewing authority may not, under paragraph (7)(a), request the subordinate summary authority to reopen the proceedings: see paragraph 153(1)(a).
+
+Notice of results of review
+
+             (8)  A commanding officer who receives a notice under paragraph (7)(b) must, as soon as practicable after receiving the notice, give written notice of the results of the review to the subordinate summary authority.
+
+             (9)  If the legal officer does not give the record of the proceedings and the report of the results of the review to a competent reviewing authority under subsection (6):
+
+                     (a)  the legal officer must notify the commanding officer of this fact; and
+
+                     (b)  the commanding officer must give written notice of the results of the review to:
+
+                              (i)  the subordinate summary authority; and
+
+                             (ii)  the person who was convicted of the service offence.
+
+##### <a id="152"></a>152  Review of proceedings of superior summary authority or commanding officer
+
+Powers and duties of reviewing authority
+
+             (1)  As soon as practicable after a summary authority (other than a subordinate summary authority) convicts a person of a service offence, the summary authority must give the record of the proceedings to a competent reviewing authority.
+
+             (2)  The reviewing authority must review the proceedings in accordance with this Part.
+
+             (3)  Before reviewing the proceedings, the reviewing authority must obtain legal advice on the proceedings from a legal officer.
+
+             (4)  The reviewing authority must complete the review:
+
+                     (a)  within 30 days after receiving the record referred to in subsection (1); or
+
+                     (b)  if this is not possible due to the exigencies of service—as soon as practicable after the end of that period.
+
+Notice of results of review
+
+             (5)  After reviewing the proceedings, the reviewing authority must give written notice of the results of the review to:
+
+                     (a)  the summary authority; and
+
+                     (b)  the person who was convicted of the service offence.
+
+Exception
+
+             (6)  This section does not apply to proceedings before a superior summary authority if the superior summary authority has no reviewing authority of a higher rank.
+
+Note:          In the case referred to in subsection (6), the convicted person could lodge an appeal to the Australian   Military Court under Part IX.
+
+##### <a id="153"></a>153  Reviewing authority must request summary authority to reopen proceedings to correct punishment error
+
+             (1)  This section applies to:
+
+                     (a)  a review, under section 151, by a commanding officer (the **_reviewing authority_**) of the proceedings of a subordinate summary authority; or
+
+                     (b)  a review, under section 152, by a competent reviewing authority of the proceedings of a superior summary authority or a commanding officer.
+
+             (2)  If the reviewing authority considers that the action taken by the summary authority under Part IV (whether the imposition of a punishment or the making of an order or both) in relation to the convicted person is beyond the power of the summary authority, the reviewing authority must request the summary authority, in writing, to reopen the proceedings.
+
+             (3)  If the reviewing authority requests the summary authority to reopen the proceedings, the summary authority must reopen the proceedings.
+
+##### <a id="153A"></a>153A  Procedures for dealing with reopened proceedings
+
+             (1)  This section applies if a summary authority reopens proceedings in response to a request by a reviewing authority under section 153.
+
+             (2)  The summary authority must notify the convicted person that the proceedings are to be reopened.
+
+             (3)  The summary authority must, as the case requires:
+
+                     (a)  impose a less severe punishment on the convicted person; or
+
+                     (b)  if the summary authority had made a reparation order (the **_original reparation order_**)—make a reparation order for an amount that is less than the amount of the original reparation order.
+
+             (4)  As soon as practicable after the summary authority completes dealing with the proceedings under subsection (3), the summary authority must give the record of the proceedings to the reviewing authority that requested the summary authority to reopen the proceedings.
+
+             (5)  Subject to subsection 161(4), this section does not affect the right of the convicted person to appeal to the Australian   Military Court in relation to the proceedings.
+
+Note:          Part IX deals with appeals to the Australian   Military Court.
+
+##### <a id="154"></a>154  Effect on review of appeal to the Australian Military Court
+
+                   If:
+
+                     (a)  a person who is convicted of a service offence by a summary authority lodges an appeal to the Australian   Military Court in relation to the proceedings; and
+
+                     (b)  the appeal is lodged before a reviewing authority has completed reviewing the proceedings under this Part;
+
+the reviewing authority must not request the summary authority to reopen the proceedings.
+
+Note:          Part IX deals with appeals to the Australian   Military Court.
+
+##### <a id="155"></a>155  Reviewing authority may recommend that convicted person appeal to the Australian   Military Court
+
+             (1)  This section applies to a review of the proceedings of a summary authority if the reviewing authority (including a commanding officer referred to in subsection 151(1)) considers:
+
+                     (a)  that, having regard to the evidence, the conviction is unreasonable or cannot be supported; or
+
+                     (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction was wrong in law and that a substantial miscarriage of justice has occurred; or
+
+                     (c)  that any action taken by the summary authority under Part IV (whether imposing a punishment or making an order or both) in relation to the convicted person is wrong in law or is excessive or otherwise unreasonable; or
+
+                     (d)  that there was a material irregularity in the course of the proceedings and that a substantial miscarriage of justice has occurred; or
+
+                     (e)  that, in all the circumstances of the case, the conviction is unsafe or unsatisfactory.
+
+             (2)  The reviewing authority must give a notice in writing to the convicted person:
+
+                     (a)  recommending that the person consider appealing to the Australian Military Court against the conviction, or any punishment imposed or order made under Part IV, as the case requires; and
+
+                     (b)  setting out the reasons for the recommendation.
+
+Note:          Part IX deals with appeals to the Australian   Military Court. If the convicted person is given a notice under this subsection, the convicted person has 14 days, beginning on the day on which the notice is given, to lodge an appeal to the Australian Military Court against the conviction or any punishment imposed or order made under Part IV: see subsection 161(5).
+
+             (3)  If the reviewing authority gives a notice to the convicted person under subsection (2), the reviewing authority must give a copy of the notice to the person’s commanding officer.
+
+             (4)  The convicted person must be given an opportunity to obtain legal advice in relation to an appeal if a legal officer is reasonably available to give such advice.
+
+### Division 3—Review of certain punishments and orders that are subject to approval by reviewing authority
+
+##### <a id="156"></a>156  Application of Division
+
+                   This Division applies to a review of the proceedings of a summary authority if the summary authority:
+
+                     (a)  has imposed a punishment referred to in subsection 172(2); or
+
+                     (b)  has made a restitution order or a reparation order.
+
+##### <a id="157"></a>157  Reviewing authority must approve or not approve punishment or order
+
+                   The reviewing authority must approve or not approve the punishment or order.
+
+##### <a id="158"></a>158  Approved punishment or order to take effect as determined
+
+                   If the reviewing authority approves the punishment or order, the reviewing authority must determine when the punishment or order is to take effect.
+
+##### <a id="159"></a>159  Punishments or orders not approved to be quashed or revoked
+
+             (1)  If the reviewing authority does not approve the punishment or order, the reviewing authority must quash the punishment or revoke the order, as the case may be.
+
+             (2)  If the reviewing authority quashes a punishment or revokes an order under subsection (1) in relation to a convicted person, the reviewing authority may take such action in relation to the convicted person as could have been taken under Part IV by the summary authority that convicted the person.
+
+             (3)  However, the reviewing authority must not do any of the following under subsection (2):
+
+                     (a)  impose a punishment that is more severe than the punishment that was imposed by the summary authority;
+
+                     (b)  if the punishment imposed by the summary authority was a custodial punishment—impose a punishment other than a custodial punishment;
+
+                     (c)  if the punishment imposed by the summary authority was not a custodial punishment—impose a custodial punishment;
+
+                     (d)  if the summary authority made a reparation order—make a reparation order for an amount that exceeds the amount of the reparation order that was made by the summary authority.
+
+## 3  Subsection 3(1) (definition of _competent reviewing authority_)
+
+Omit “section 150A”, substitute “subsection 150(2)”.
+
+## 4  Subsection 3(1) (definition of _convicted person_)
+
+Omit “, a reviewing authority”.
+
+## 5  Subsection 3(1) (definition of _review_)
+
+Repeal the definition, substitute:
+
+                    <a name="review"></a>**_review_** means a review by a commanding officer or a reviewing authority, in accordance with Part VIIIA, of the proceedings of a summary authority.
+
+## 6  Subsection 3(1) (definition of _reviewing authority_)
+
+Omit “section 150”, substitute “subsection 150(1)”.
+
+## 7  Paragraph 74(4A)(a)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 8  Subparagraph 74(4A)(a)(i)
+
+Before “reviewing authority” (first occurring), insert “competent”.
+
+## 9  Paragraph 74(4B)(a)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 10  Subparagraph 74(4B)(a)(i)
+
+Before “reviewing authority” (first occurring), insert “competent”.
+
+## 11  Subsection 74(5)
+
+Omit “or a reviewing authority that has revoked a suspension of a punishment on the recommendation of a service tribunal”.
+
+## 12  After subsection 74(5)
+
+Insert:
+
+          (5A)  A reviewing authority that has revoked the suspension of the whole or a part of a punishment under subsection 80(4), on the recommendation of a summary authority, must not order that prescribed punishments are to be cumulative if the effect of the order would be that the person convicted would be subject to punishment for a total period that exceeds the period of operation of the most severe punishment (being a punishment of the same kind as the first-mentioned punishments) that the summary authority could impose on the person for the service offence, or any one of the service offences, of which the person has been convicted by the summary authority.
+
+## 13  Subsection 80(2)
+
+Omit “service tribunal shall”, substitute “summary authority must”.
+
+## 14  Subsection 80(2)
+
+Omit “the tribunal”, substitute “the authority”.
+
+## 15  Subsection 80(3)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 16  Subsection 80(3)
+
+Omit “the tribunal may recommend to a reviewing authority”, substitute “the summary authority may recommend to a competent reviewing authority”.
+
+## 17  Subsection 80(4)
+
+Omit “a service tribunal recommends to a reviewing authority”, substitute “a summary authority recommends to a competent reviewing authority”.
+
+## 18  Subsection 81(2)
+
+Omit “or 162(8)”.
+
+## 19  Subsection 99(1)
+
+Omit “service tribunal” (wherever occurring), substitute “summary authority”.
+
+## 20  Paragraph 100(5)(b)
+
+Omit “service tribunal”, substitute “summary authority”.
+
+## 21  Subsection 103(2)
+
+Repeal the subsection, substitute:
+
+             (2)  If, under the _Defence Force Discipline Appeals Act 1955_, the Defence Force Discipline Appeal Tribunal or the Federal Court of Australia orders a new trial of a person, the Director of Military Prosecutions may request the Registrar to refer the charge to the Australian   Military Court for trial.
+
+## Schedule 5
+
+## 1  Paragraph 59(1)(b)
+
+Omit “narcotic goods”, substitute “a prohibited drug”.
+
+_Note 1:    The heading to section 59 is altered by omitting “narcotic goods” and substituting “prohibited drugs”._
+
+_Note 2:    The following heading to subsection 59(1) is inserted “Selling, dealing or trafficking in a prohibited drug—defence member or defence civilian outside Australia”._
+
+## 2  Paragraph 59(1)(c)
+
+Omit “goods”, substitute “drug”.
+
+## 3  Paragraph 59(3)(b)
+
+Omit “narcotic goods”, substitute “a prohibited drug”.
+
+_Note:       The following heading to subsection 59(3) is inserted “Possessing a prohibited drug—defence member or defence civilian outside Australia”._
+
+## 4  Paragraph 59(3)(c)
+
+Omit “those goods and knows their”, substitute “that drug and knows its”.
+
+## 5  Subsection 59(3) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Maximum punishment:
+
+                     (d)  if the offence is committed in relation to:
+
+                              (i)  a prohibited drug other than cannabis; or
+
+                             (ii)  a quantity of cannabis exceeding the prescribed quantity of that drug;
+
+                            imprisonment for 2 years; or
+
+                     (e)  if the offence is committed in relation to a quantity of cannabis not exceeding the prescribed quantity of that drug and the convicted person is a defence member:
+
+                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
+
+                             (ii)  for a second or later offence—dismissal from the Defence Force; or
+
+                      (f)  if the offence is committed in relation to a quantity of cannabis not exceeding the prescribed quantity of that drug and the convicted person is a defence civilian—a fine of $100.
+
+## 6  Subsection 59(4)
+
+Omit “narcotic goods”, substitute “prohibited drug”.
+
+## 7  Paragraph 59(5)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  administers, or causes or permits to be administered, to himself or herself, a prohibited drug.
+
+_Note:       The following heading to subsection 59(5) is inserted “Administering a prohibited drug—defence member or defence civilian outside Australia”._
+
+## 8  Subsection 59(5) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Maximum punishment:
+
+                     (c)  if the offence is committed in relation to a prohibited drug other than cannabis—imprisonment for 2 years; or
+
+                     (d)  if the offence is committed in relation to cannabis and the convicted person is a defence member:
+
+                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
+
+                             (ii)  for a second or later offence—dismissal from the Defence Force; or
+
+                     (e)  if the offence is committed in relation to cannabis and the convicted person is a defence civilian—a fine of $100.
+
+## 9  Subsections 59(6) and (7)
+
+Repeal the subsections, substitute:
+
+          (5A)  It is a defence to a charge under subsection (5) if the person proves that he or she had lawful authority for the conduct mentioned in paragraph (5)(b).
+
+Administering a prohibited drug—defence member or defence civilian in Australia
+
+             (6)  A person who is a defence member or a defence civilian is guilty of an offence if the person:
+
+                     (a)  is in Australia; and
+
+                     (b)  administers, or causes or permits to be administered, to himself or herself a prohibited drug.
+
+                    Maximum punishment:
+
+                     (c)  if the offence is committed in relation to a prohibited drug other than cannabis and the convicted person is a defence member—imprisonment for 2 years; or
+
+                     (d)  if the offence is committed in relation to cannabis and the convicted person is a defence member:
+
+                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
+
+                             (ii)  for a second or later offence—dismissal from the Defence Force; or
+
+                     (e)  if the convicted person is a defence civilian—a fine of $100.
+
+          (6A)  It is a defence to a charge under subsection (6) if the person proves that he or she had lawful authority for the conduct mentioned in paragraph (6)(b).
+
+Possessing non-trafficable quantity of a prohibited drug—defence member in Australia
+
+             (7)  A defence member is guilty of an offence if the member:
+
+                     (a)  is in Australia; and
+
+                     (b)  is in possession of a quantity of a prohibited drug not exceeding the prescribed quantity of that drug; and
+
+                     (c)  knows that he or she possesses that drug and knows its nature.
+
+                    Maximum punishment:
+
+                     (d)  if the offence is committed in relation to a prohibited drug other than cannabis—imprisonment for 2 years; or
+
+                     (e)  if the offence is committed in relation to cannabis:
+
+                              (i)  for a first offence—a fine of the amount of the member’s pay for 14 days; or
+
+                             (ii)  for a second or later offence—dismissal from the Defence Force.
+
+## 10  Subsection 59(8)
+
+Omit “cannabis”, substitute “prohibited drug”.
+
+## 11  Subsection 59(9)
+
+Repeal the subsection, substitute:
+
+Definitions
+
+             (9)  In this section:
+
+                    <a name="cannabi"></a>**_cannabis_** means:
+
+                     (a)  a living cannabis plant; or
+
+                     (b)  cannabis resin; or
+
+                     (c)  any other form of cannabis (including flowering or fruiting tops, leaves, seeds or stalks, but not including cannabis fibre).
+
+                    <a name="control-drug"></a>**_controlled drug_** has the same meaning as in Part 9.1 of the _Criminal Code_.
+
+                    <a name="control-plant"></a>**_controlled plant_** has the same meaning as in Part 9.1 of the _Criminal Code_.
+
+                    <a name="prescrib-quantiti"></a>**_prescribed quantity_**, in relation to a prohibited drug, means:
+
+                     (a)  for a narcotic substance that is a controlled drug or a controlled plant in relation to which there is a trafficable quantity specified under the _Criminal Code_—the trafficable quantity so specified for that substance; or
+
+                     (b)  for any other prohibited drug—50 grams.
+
+                    <a name="prohibit-drug"></a>**_prohibited drug_** means:
+
+                     (a)  a narcotic substance (as defined by subsection 4(1) of the _Customs Act 1901_); or
+
+                     (b)  an anabolic steroid (within the meaning of Part 5 of the _Poisons and Drugs Act 1978_ of the Australian   Capital Territory).
+
+## 12  Subsection 60(1)
+
+Omit “engages in conduct”, substitute “does an act”.
+
+## 13  After subsection 60(1)
+
+Insert:
+
+          (1A)  A defence member is guilty of an offence if:
+
+                     (a)  the member omits to perform an act; and
+
+                     (b)  the omission is likely to prejudice the discipline of, or bring discredit on, the Defence Force.
+
+                    Maximum punishment:        Imprisonment for 3 months.
+
+## 14  Subsection 60(2)
+
+Omit “under this section”, substitute “against subsection (1) or (1A)”.
+
+## 15  Subsection 60(3)
+
+After “defence”, insert “to a charge under subsection (1)”.
+
+## 16  Subsection 60(3)
+
+Omit “conduct”, substitute “act”.
+
+## 17  At the end of section 60
+
+Add:
+
+             (4)  It is a defence to a charge under subsection (1A) if the member proves that he or she had a reasonable excuse for omitting to perform the relevant act.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (4). See section 13.4 of the _Criminal Code_.
+
+## 18  Schedule 6 (after table item 20)
+
+Insert:
+
+<table>
+<colgroup>
+  <col width="15%">
+  <col width="45%">
+  <col width="40%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>20A</div>
+  </td>
+  <td>
+    <div>Offence against section 36A</div>
+  </td>
+  <td>
+    <div>Offence against section 36B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>20B</div>
+  </td>
+  <td>
+    <div>Offence against section 36B</div>
+  </td>
+  <td>
+    <div>Offence against section 36A</div>
+  </td>
+</tr></table>
+
+## 19  Paragraph 74(2)(b)
+
+Before “suspended”, insert “wholly”.
+
+## 20  Paragraph 74(2)(c)
+
+After “suspended”, insert “in whole or in part”.
+
+## 21  Paragraph 74(4)(b)
+
+Before “suspended”, insert “wholly”.
+
+## 22  Paragraph 74(4)(c)
+
+After “is suspended”, insert “in whole or in part”.
+
+## 23  Paragraph 74(4A)(a)
+
+After “suspended”, insert “in whole or in part”.
+
+## 24  Paragraph 74(4B)(a)
+
+After “suspended”, insert “in whole or in part”.
+
+## 25  Subsection 78(1)
+
+After “suspending”, insert “the whole or a part of”.
+
+## 26  Subsection 78(2)
+
+After “suspending” (wherever occurring), insert “the whole or a part of”.
+
+## 27  Subsection 78(3)
+
+After “suspending”, insert “the whole or a part of”.
+
+## 28  Subsection 78(3)
+
+After “the punishment”, insert “, or such part of the punishment as is suspended,”.
+
+## 29  Subsection 80(1)
+
+After “is suspended”, insert “(whether in whole or in part)”.
+
+## 30  Subsection 80(1)
+
+After “the punishment”, insert “, or such part of the punishment,”.
+
+## 31  Subsection 80(2)
+
+After “suspension of”, insert “the whole or a part of”.
+
+## 32  Subsection 80(4)
+
+After “suspension of”, insert “the whole or a part of”.
+
+## 33  Subsection 80(4)
+
+After “the punishment”, insert “, or such part of the punishment,”.
+
+## 34  Paragraph 81(1)(a)
+
+After “suspended”, insert “in whole or in part”.
+
+## 35  Subsection 81(2)
+
+After “suspended”, insert “in whole or in part”.
+
+## 36  Subsection 81(2)
+
+After “that punishment” (first occurring), insert “, or such part of that punishment as has been suspended,”.
+
+## 37  Subsection 81(2)
+
+After “that punishment” (second occurring), insert “or that part of that punishment”.
+
+## 38  Section 82
+
+After “that punishment” (first occurring), insert “, or a part of that punishment,”.
+
+## Schedule 6
+
+## 1  Section 169A
+
+Insert:
+
+                    <a name="disciplin-offic"></a>**_discipline officer_** means a discipline officer appointed under section 169B.
+
+## 2  Section 169A
+
+Insert:
+
+                    <a name="junior-offic"></a>**_junior officer_** means:
+
+                     (a)  in the Navy—an officer who holds a rank of or below the rank of lieutenant (other than a person who holds the rank of midshipman); or
+
+                     (b)  in the Army—an officer who holds a rank of or below the rank of captain; or
+
+                     (c)  in the Air Force—an officer who holds a rank of or below the rank of flight lieutenant.
+
+## 3  Section 169A
+
+Insert:
+
+                    <a name="prescrib-defenc-member"></a>**_prescribed defence member_** means:
+
+                     (a)  in the Navy—a member of the Defence Force who holds a rank of or below the rank of lieutenant; or
+
+                     (b)  in the Army—a member of the Defence Force who holds a rank of or below the rank of captain; or
+
+                     (c)  in the Air Force—a member of the Defence Force who holds a rank of or below the rank of flight lieutenant;
+
+but does not include a warrant officer covered by a determination in force under section 169BA.
+
+## 4  Section 169A
+
+Insert:
+
+                    <a name="relev-disciplin-offic"></a>**_relevant discipline officer_**, in relation to a prescribed defence member, has the meaning given by section 169BB.
+
+## 5  After section 169B
+
+Insert:
+
+##### <a id="169BA"></a>169BA  Service chief may exempt certain warrant officers
+
+             (1)  A service chief may determine, in writing, that a specified warrant officer, or a warrant officer included in a specified class of warrant officers, is not a **_prescribed defence member_** for the purposes of this Part.
+
+             (2)  A determination under subsection (1) is not a legislative instrument.
+
+##### <a id="169BB"></a>169BB  Relevant discipline officers
+
+                   The following table sets out who is a **_relevant discipline officer_** in relation to a prescribed defence member.
+
+<table>
+<colgroup>
+  <col width="12%">
+  <col width="43%">
+  <col width="44%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Prescribed defence member</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Relevant discipline officer</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Junior officer</div>
+  </td>
+  <td>
+    <div>Discipline officer who is at least one rank senior to the prescribed defence
+      member</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Officer cadet</div>
+  </td>
+  <td>
+    <div>Any discipline officer</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Warrant officer</div>
+    <div>Non-commissioned officer</div>
+  </td>
+  <td>
+    <div>Discipline officer who holds a rank not lower than lieutenant commander,
+      major or squadron leader</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Member below non-commissioned rank</div>
+  </td>
+  <td>
+    <div>Any discipline officer</div>
+  </td>
+</tr></table>
+
+## 6  Section 169C
+
+Omit “A discipline officer has jurisdiction to deal with a defence member who is an officer cadet or holds a rank below non-commissioned rank”, substitute “A relevant discipline officer, in relation to a prescribed defence member, has jurisdiction to deal with that member”.
+
+## 7  Paragraph 169C(a)
+
+Omit “defence”.
+
+## 8  Subsection 169D(1)
+
+Omit “defence member who is an officer cadet or holds a rank below non-commissioned rank”, substitute “prescribed defence member”.
+
+## 9  Subsections 169D(4) and (5)
+
+Before “defence member”, insert “prescribed”.
+
+## 10  Subsections 169E(1) and (2)
+
+Before “defence member”, insert “prescribed”.
+
+## 11  Paragraph 169E(4)(a)
+
+Before “defence member”, insert “prescribed”.
+
+## 12  Subsection 169E(5)
+
+Before “defence member”, insert “prescribed”.
+
+## 13  Subsection 169F(1)
+
+Repeal the subsection, substitute:
+
+Punishments that may be imposed in respect of disciplinary infringements
+
+             (1)  A relevant discipline officer, in relation to a prescribed defence member referred to in column 1 of an item of the following table, may impose on the prescribed defence member, in respect of a disciplinary infringement, a punishment set out in column 2 of that item.
+
+<table>
+<colgroup>
+  <col width="12%">
+  <col width="43%">
+  <col width="44%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Punishments that may be imposed in respect of disciplinary infringements</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 1</b>
+      </div>
+      <div>
+        <b>Prescribed defence member</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2</b>
+      </div>
+      <div>
+        <b>Punishment</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Junior officer</div>
+    <div>Warrant officer</div>
+    <div>Non-commissioned officer</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
+    <div>Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Officer cadet</div>
+    <div>Member below non-commissioned rank</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
+    <div>Restriction of privileges for a period not exceeding 2 days</div>
+    <div>Stoppage of leave for a period not exceeding 3 days</div>
+    <div>Extra duties for a period not exceeding 3 days</div>
+    <div>Extra drill for no more than 2 sessions of 30 minutes each per day for
+      a period not exceeding 3 days</div>
+    <div>Reprimand</div>
+  </td>
+</tr></table>
+
+_Note:       The following heading to subsection 169F(2) is inserted “Other powers”._
+
+## 14  After section 169FA
+
+Insert:
+
+##### <a id="169FB"></a>169FB  Consequences of punishments
+
+             (1)  The Chief of the Defence Force or a service chief may, by legislative instrument, make rules with respect to the consequences, in relation to a prescribed defence member, that are to flow from the imposition by a discipline officer on that member of any of the following punishments:
+
+                     (a)  restriction of privileges;
+
+                     (b)  stoppage of leave;
+
+                     (c)  extra duties;
+
+                     (d)  extra drill.
+
+             (2)  The commanding officer of a prescribed defence member who is subject to a punishment referred to in paragraph (1)(a) or (c) may moderate the consequences of that punishment in relation to the member in such manner as the commanding officer considers appropriate, having regard to the particular circumstances of the case and to any directions, in writing, of the Chief of the Defence Force or a service chief.
+
+             (3)  A direction made under subsection (2) is not a legislative instrument.
+
+             (4)  Even if a prescribed defence member is subject to a punishment of stoppage of leave, the commanding officer of the member may, if he or she is satisfied that it is appropriate to do so, grant leave of absence to the member.
+
+## 15  Subsections 169G(2) and (3)
+
+Before “defence member”, insert “prescribed”.
+
+## 16  After section 169G
+
+Insert:
+
+##### <a id="169GA"></a>169GA  Report by discipline officer
+
+             (1)  As soon as practicable after the end of each month, a discipline officer must give a report in accordance with subsection (2) to the discipline officer’s commanding officer.
+
+             (2)  The report must be in writing and must contain the following information:
+
+                     (a)  the name of each prescribed defence member dealt with, in relation to a disciplinary infringement, by the discipline officer in the month to which the report relates;
+
+                     (b)  the nature of the disciplinary infringement in relation to which each prescribed defence member referred to in paragraph (a) was dealt with;
+
+                     (c)  the punishment (if any) that was imposed in respect of each of those disciplinary infringements.
+
+Note:          A report under this section is a **_relevant record_** for the purposes of section 169H.
+
+## 17  Paragraph 169H(2)(a)
+
+Before “defence member”, insert “prescribed”.
+
+## 18  Section 169J
+
+Before “defence member”, insert “prescribed”.
+
+## Schedule 7
+
+## 18  Paragraph 106(a)
+
+Omit “the rank of lieutenant-commander, major or squadron-leader;”, substitute “the rank of rear admiral, major-general or air vice-marshal; or”.
+
+## 19  At the end of section 106
+
+Add:
+
+Note:          A superior summary authority may be disqualified from trying a charge against a person because of subsection 108A(1).
+
+## 20  At the end of section 107
+
+Add:
+
+Note:          A commanding officer may be disqualified from trying a charge against a person because of subsection 108A(1).
+
+## 21  At the end of subsections 108(2) and (3)
+
+Add:
+
+Note:          A subordinate summary authority may be disqualified from trying a charge against a person because of subsection 108A(1).
+
+## 22  After section 108
+
+Insert:
+
+##### <a id="108A"></a>108A  Disqualification of summary authority from trying a charge
+
+             (1)  A summary authority must not try a charge of a service offence against a person if the summary authority was involved in:
+
+                     (a)  the investigation of the offence; or
+
+                     (b)  the issuing of a warrant for the arrest of the person; or
+
+                     (c)  charging the person with the offence.
+
+             (2)  If a summary authority is not permitted to try a charge of a service offence against a person because of subsection (1), the summary authority must refer the charge to another summary authority, being a summary authority who:
+
+                     (a)  has jurisdiction to try the charge; and
+
+                     (b)  is not prevented from trying the charge because of subsection (1).
+
+## 23  At the end of paragraph 141(1)(b)
+
+Add:
+
+                          ; (vi)  in the case of a trial by a summary authority—that the summary authority is not permitted to try the charge because of subsection 108A(1).
+
+## 24  Subsection 103(1)
+
+Before “130(5)”, insert “129(2) or”.
+
+## 25  Before section 130
+
+Insert:
+
+##### <a id="129"></a>129  Time within which trial must be commenced
+
+             (1)  The trial of a charge of a service offence that is to be tried by a summary authority:
+
+                     (a)  must be commenced:
+
+                              (i)  as soon as practicable within the period of 3 months after the accused person is charged with the service offence; or
+
+                             (ii)  if the exigencies of service or other circumstances do not permit the trial to be commenced within this period—within a longer period as allowed by a superior authority; and
+
+                     (b)  must be completed as soon as practicable.
+
+             (2)  If a summary authority that is to try a charge does not commence the trial within the period allowed under paragraph (1)(a), the summary authority must refer the charge to the Director of Military Prosecutions.
+
+## 26  Paragraph 130(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  if the accused person is present at the hearing:
+
+                              (i)  the authority, before hearing any evidence on the charge, must ask the accused person whether he or she pleads guilty or not guilty to the charge; and
+
+                             (ii)  if the accused person pleads guilty and the authority is satisfied that the accused person understands the effect of that plea—the authority must, subject to subsection 131(3), convict the accused person;
+
+                    (aa)  if:
+
+                              (i)  the accused person has pleaded guilty to the charge in writing; and
+
+                             (ii)  the authority has made an order under subsection 139(4) (permitting the accused person not to be present at the hearing);
+
+                            the authority must convict the accused person;
+
+## 29  Subsection 139(1)
+
+Omit “subsection (2)”, substitute “subsections (2) and (5)”.
+
+_Note:       The following heading to subsection 139(1) is inserted “General rule”._
+
+## 30  At the end of section 139
+
+Add:
+
+Exception—trial by summary authority
+
+             (3)  If:
+
+                     (a)  a charge is to be tried by a summary authority; and
+
+                     (b)  because of exceptional circumstances, the accused person is unable to attend the hearing of the charge; and
+
+                     (c)  the accused person pleads guilty to the charge in writing before the hearing;
+
+the accused person may apply in writing to the summary authority for an order permitting the accused person not to be present at the hearing.
+
+             (4)  The summary authority may make an order permitting the accused person not to be present at the hearing if the authority:
+
+                     (a)  is satisfied that the accused person understands the effect of the plea; and
+
+                     (b)  considers that exceptional circumstances exist.
+
+             (5)  If the summary authority makes an order under subsection (4), the summary authority must proceed with the trial of the charge by considering, without holding a hearing, the documents or other material provided to the summary authority in relation to the charge.
+
+As at 31 March 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -17274,7 +17883,7 @@ Trial by Defence Force magistrate
 
                               (i)  is taken to have withdrawn the request; and
 
-                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial; and
+                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial; and
 
                      (c)  on and after the commencement day, the new law applies in relation to the service offence as if the offence had been committed after the commencement day.
 
@@ -17416,7 +18025,7 @@ Trial by court martial
 
                               (i)  is taken to have withdrawn the request; and
 
-                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial; and
+                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial; and
 
                      (b)  after the request is made, the new law applies in relation to the service offence as if the offence had been committed after the commencement day.
 
@@ -17430,7 +18039,7 @@ Trial by Defence Force magistrate
 
                               (i)  is taken to have withdrawn the request; and
 
-                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial; and
+                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial; and
 
                      (b)  after the request is made, the new law applies in relation to the service offence as if the offence had been committed after the commencement day.
 
@@ -17685,5 +18294,241 @@ An appointment made under section 150 of the old DFDA that was in force immedi
 ## 8  Regulations may deal with transitional, saving or application matters
 
 The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments and repeals made by this Act.
+
+## Table B
+
+### Modifications
+
+_Defence Force Discipline Regulations 1985 (1985 No. 125)_
+
+##### <a id="33"></a>33  Members receiving instruction or training
+
+                   For the purposes of subsection 6(2) of the Act, Schedule 3 of the Act, so far as it relates to members receiving instruction or training, is modified:
+
+                     (a)  by inserting in Table B of Schedule 3 “(other than an officer cadet),” after “Officer”;
+
+                     (b)  by omitting from Table B of Schedule 3:
+
+<table>
+<colgroup>
+  <col width="3%">
+  <col width="35%">
+  <col width="3%">
+  <col width="28%">
+  <col width="3%">
+  <col width="26%">
+  <col width="3%">
+</colgroup>
+
+<tr>
+  <td colspan="2">
+    <div>“Officer of or below the rank of lieutenant in the Navy, captain in the
+      Army or flight lieutenant or warrant officer</div>
+  </td>
+  <td colspan="2">
+    <div>Fine exceeding the amount of the convicted person’s pay or 7 days but
+      not exceeding the amount of the convicted person’s pay for 14 days</div>
+  </td>
+  <td colspan="2">
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand Reprimand”</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <div>
+      and substituting:
+    </div>
+  </td>
+  <td colspan="2">
+    <div> </div>
+  </td>
+  <td colspan="2">
+    <div> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <div>“Officer of or below the rank of lieutenant in the Navy, captain in the
+      Army or flight lieutenant or warrant officer</div>
+  </td>
+  <td colspan="2">
+    <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
+      not exceeding the amount of the convicted person’s pay for 14 days</div>
+  </td>
+  <td colspan="2">
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand
+
+Reprimand</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div>Officer cadet</div>
+  </td>
+  <td colspan="2">
+    <div>Fine exceeding the amount of the convicted person’s pay for 7 days but
+      not exceeding the amount of the convicted person’s pay for 14 days</div>
+  </td>
+  <td colspan="2">
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand Restriction of privileges for a period not exceeding
+      14 days Stoppage of leave for a period not exceeding 21 days
+
+Extra duties for a period not exceeding 3 days
+
+Reprimand”;</div>
+  </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr></table>
+
+                     (c)  by omitting from Table C of Schedule 3:
+
+<table>
+<colgroup>
+  <col width="39%">
+  <col width="32%">
+  <col width="29%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>“A subordinate summary authority who is:</div>
+    <div>(a) an officer of the Navy of or above the rank of commander; or</div>
+    <div>(b) an officer of the Navy of or above the rank of lieutenant holding
+      an appointment of Executive Officer of a ship or naval establishment</div>
+  </td>
+  <td>
+    <div>Sailor of the rank of leading seaman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand Stoppage of leave for a period not exceeding 21 days
+
+Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Sailor below the rank of leading seaman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand Restriction of privileges for a period not exceeding
+      14 days Stoppage of leave for a period not exceeding 21 days
+
+Extra duties for a period not exceeding 3 days
+
+Reprimand”</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      and substituting:
+    </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div> </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>“A subordinate authority who is:</div>
+    <div>(a) an officer of the Navy of or above the rank of commander; or</div>
+    <div>(b) an officer of the Navy of or above the rank of lieutenant holding
+      an appointment of Executive Officer of a ship or naval establishment</div>
+  </td>
+  <td>
+    <div>Officer cadet of the rank of midshipman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 3 days
+
+Severe reprimand Restriction of privileges for a period not exceeding
+      7 days Stoppage of leave for a period not exceeding 7 days
+
+Extra duties for a period not exceeding 3 days
+
+Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Sailor of the rank of leading seaman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand Stoppage of leave for a period not exceeding 21 days
+
+Reprimand</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>Sailor below the rank of leading seaman</div>
+  </td>
+  <td>
+    <div>Fine not exceeding the amount of the convicted person’s pay for 7 days
+
+Severe reprimand Restriction of privileges for a period not exceeding
+      14 days Stoppage of leave for a period not exceeding 21 days
+
+Extra duties for a period not exceeding 3 days
+
+Reprimand”;</div>
+  </td>
+</tr></table>
+
+                   and
+
+                     (d)  by omitting from Table C of Schedule 3:
+
+                            “Member below non-commissioned rank”
+
+                            and substituting:
+
+                            “Officer cadet or member below non-commissioned rank”.
+
+ 
 
  
