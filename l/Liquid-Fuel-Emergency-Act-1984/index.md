@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00819/Html/7b2ad305-7c0e-4074-9bda-61f24fea3a4f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00016/Html/LiquidFuelEmergAct84_image001.gif)
 
 # Liquid Fuel Emergency Act 1984
 
 **Act No. 5 of 1984 as amended**
 
-This compilation was prepared on 5 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -166,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="aircraft"></a>**_aircraft_** means any machine or craft that can derive support in the atmosphere from the reactions of the air or from buoyancy but does not include an air‑cushion vehicle.
+                    <a name="aircraft"></a>**_aircraft_** means any machine or craft that can derive support in the atmosphere from the reactions of the air or from buoyancy but does not include an air-cushion vehicle.
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
@@ -202,11 +202,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  in relation to a State—the Minister of the State who, under a law of that State, is responsible, or principally responsible, for the administration of emergency measures relating to any liquid fuel shortage that might affect that State; and
 
-                    (aa)  in relation to the Australian Capital Territory—the person appointed as a Minister under section 41 of the _Australian Capital Territory (Self‑Government) Act 1988_ who, under a law of that Territory, is responsible, or principally responsible, for the administration of emergency measures relating to any liquid fuel shortage that might affect that Territory; and
+                    (aa)  in relation to the Australian Capital Territory—the person appointed as a Minister under section 41 of the _Australian Capital Territory (Self-Government) Act 1988_ who, under a law of that Territory, is responsible, or principally responsible, for the administration of emergency measures relating to any liquid fuel shortage that might affect that Territory; and
 
-                     (b)  in relation to the Northern Territory—the person holding Ministerial office under section 36 of the _Northern Territory (Self‑Government) Act 1978_ who, under a law of that Territory, is responsible, or principally responsible, for the administration of emergency measures relating to any liquid fuel shortage that might affect that Territory; and
+                     (b)  in relation to the Northern Territory—the person holding Ministerial office under section 36 of the _Northern Territory (Self-Government) Act 1978_ who, under a law of that Territory, is responsible, or principally responsible, for the administration of emergency measures relating to any liquid fuel shortage that might affect that Territory; and
 
-                     (c)  in relation to the Jervis Bay Territory and an external Territory (other than an external Territory referred to in paragraph (d))—the Minister administering the _Jervis__Bay Territory__Acceptance Act 1915_; and
+                     (c)  in relation to the Jervis Bay Territory and an external Territory (other than an external Territory referred to in paragraph (d))—the Minister administering the _Jervis__Bay__Territory__Acceptance Act 1915_; and
 
                      (d)  in relation to the Australian Antarctic Territory and the Territory of Heard Island and McDonald Islands—the Minister administering the _Australian Antarctic Territory Acceptance Act 1933_.
 
@@ -246,17 +246,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             that relates to an offence referred to in paragraph (a) or (b) of this definition.
 
-                    <a name="offic-australian-capit-territori"></a>**_officer of the Australian Capital Territory_** means:
+                    <a name="australian-capit-territori"></a><a name="offic"></a>**_officer of the_****_Australian   Capital Territory_** means:
 
-                     (a)  an officer or employee of the Australian Capital Territory; or
+                     (a)  an officer or employee of the Australian   Capital Territory; or
 
                      (b)  a member or special member of the Australian Federal Police providing police services in relation to the Australian Capital Territory; or
 
                      (c)  a person who constitutes, is a member of, or is employed by, an authority established by or under a law of the   Australian Capital Territory.
 
-                    <a name="offic-northern-territori"></a>**_officer of the Northern Territory_** means:
+                    <a name="northern-territori"></a><a name="offic"></a>**_officer of the_****_Northern Territory_** means:
 
-                     (a)  an officer or employee of the Northern Territory;
+                     (a)  an officer or employee of the Northern   Territory;
 
                      (b)  a member of the police force of the Northern Territory; or
 
@@ -310,7 +310,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                            (vii)  automotive distillate;
 
-                          (viii)  industrial diesel fuel;
+                           (viii)  industrial diesel fuel;
 
                             (ix)  liquid petroleum gas;
 
@@ -320,7 +320,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                            (xii)  naphtha;
 
-                          (xiii)  lubricating oil; or
+                           (xiii)  lubricating oil; or
 
                           (xiv)  lubricating grease;
 
@@ -356,7 +356,7 @@ whether or not that activity constitutes the sole or principal activity in which
 
                      (a)  any floating structure; and
 
-                     (b)  any air‑cushion vehicle.
+                     (b)  any air-cushion vehicle.
 
                     <a name="trade-corpor"></a>**_trading corporation_** means a trading corporation to which paragraph 51(xx) of the Constitution is applicable.
 
@@ -786,7 +786,7 @@ Note:          Section 14B sets out some procedural matters 
 
                      (d)  the information is maintained in compliance or purported compliance with the direction.
 
-                    Penalty for contravention of this subsection:        100 penalty units, or imprisonment for 2 years, or both.
+                    Penalty for contravention of this subsection: 100 penalty units, or imprisonment for 2 years, or both.
 
 Note:          Section 14B sets out some procedural matters relating to the prosecution of this offence.
 
@@ -880,9 +880,9 @@ What penalty court of summary jurisdiction may impose
 
                      (a)  a Minister of a State on behalf of that State; or
 
-                     (b)  a person appointed as a Minister under section 41 of the _Australian Capital Territory (Self‑Government) Act 1988_ on behalf of the Australian Capital Territory; or
+                     (b)  a person appointed as a Minister under section 41 of the _Australian Capital Territory (Self-Government) Act 1988_ on behalf of the Australian Capital Territory; or
 
-                     (c)  a person holding Ministerial office under section 36 of the _Northern Territory (Self‑Government) Act 1978_ on behalf of the Northern Territory; or
+                     (c)  a person holding Ministerial office under section 36 of the _Northern Territory (Self-Government) Act 1978_ on behalf of the Northern Territory; or
 
                      (d)  an authority established by or under a law of the Commonwealth or of a State or Territory;
 
@@ -894,9 +894,9 @@ for the carrying out of such measures (including preliminary measures) as the Mi
 
 ##### <a id="16"></a>16  Declaration of national liquid fuel emergency
 
-             (1)  Subject to this section, the Governor‑General may, by Proclamation, declare that a national liquid fuel emergency will exist during a period specified in the Proclamation.
+             (1)  Subject to this section, the Governor-General may, by Proclamation, declare that a national liquid fuel emergency will exist during a period specified in the Proclamation.
 
-             (2)  The Governor‑General shall not make a Proclamation under subsection (1) unless:
+             (2)  The Governor-General shall not make a Proclamation under subsection (1) unless:
 
                      (a)  the Minister is satisfied that it is necessary in the public interest to do so by reason that there is a shortage, or the likelihood of a shortage, of liquid fuel, being a shortage of such magnitude as to require the making of directions under all or any of the following provisions, namely, sections 17, 18, 19, 20, 21, 22, 23 and 24; and
 
@@ -906,7 +906,7 @@ for the carrying out of such measures (including preliminary measures) as the Mi
 
              (4)  The period specified in the Proclamation under subsection (1) shall be expressed to commence on a date not earlier than the date on which the Proclamation is published in the _Gazette_ and shall not exceed 3 months.
 
-             (5)  At any time during a period of national liquid fuel emergency specified in a Proclamation under subsection (1), the Governor‑General may, and if the Minister becomes satisfied that it is no longer in the public interest that that period of national liquid fuel emergency should continue, shall, by Proclamation, revoke the first‑mentioned Proclamation and, upon the revocation of the first‑mentioned Proclamation, the period of national liquid fuel emergency terminates.
+             (5)  At any time during a period of national liquid fuel emergency specified in a Proclamation under subsection (1), the Governor-General may, and if the Minister becomes satisfied that it is no longer in the public interest that that period of national liquid fuel emergency should continue, shall, by Proclamation, revoke the first-mentioned Proclamation and, upon the revocation of the first-mentioned Proclamation, the period of national liquid fuel emergency terminates.
 
 ##### <a id="17"></a>17  Minister may direct relevant fuel industry corporations to maintain reserves etc.
 
@@ -1518,7 +1518,7 @@ to provide the authorised person with reasonable facilities and assistance for t
 
                      (b)  the person breaches the requirement.
 
-                    Penalty for contravention of this subsection:        30 penalty units or imprisonment for 6 months, or both.
+                    Penalty for contravention of this subsection: 30 penalty units or imprisonment for 6 months, or both.
 
 ##### <a id="34"></a>34  Civil penalty orders
 
@@ -1600,7 +1600,7 @@ Ancillary contraventions
 
                      (b)  any person whose interests have been, are or would be affected by the conduct;
 
-grant an injunction restraining the first‑mentioned person from engaging in the conduct and, if, in the opinion of the Court, it is desirable to do so, requiring that person to do any act or thing.
+grant an injunction restraining the first-mentioned person from engaging in the conduct and, if, in the opinion of the Court, it is desirable to do so, requiring that person to do any act or thing.
 
              (2)  Where:
 
@@ -1614,7 +1614,7 @@ the Court may, on the application of:
 
                      (d)  any person whose interests have been, are or would be affected by that refusal or failure;
 
-grant an injunction requiring the first‑mentioned person to do that act or thing.
+grant an injunction requiring the first-mentioned person to do that act or thing.
 
              (3)  Where an application is made to the Court for an injunction under subsection (1), the Court may, if in the opinion of the Court it is desirable to do so, before considering the application, grant an interim injunction restraining the person from engaging in conduct of the kind referred to in that subsection pending the determination of the application.
 
@@ -1624,13 +1624,13 @@ grant an injunction requiring the first‑mentioned person to do that act or thi
 
                      (a)  if the Court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 
-                     (b)  if it appears to the Court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person engages in conduct of that kind.
+                     (b)  if it appears to the Court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
              (6)  Where an application is made to the Court for a grant of an injunction requiring a person to do a particular act or thing, the power of the Court to grant the injunction may be exercised:
 
                      (a)  if the Court is satisfied that the person has refused or failed to do that act or thing—whether or not it appears to the Court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
 
-                     (b)  if it appears to the Court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person refuses or fails to do that act or thing.
+                     (b)  if it appears to the Court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
              (7)  Where the Minister makes an application to the Court for the grant of an injunction under this section, the Court shall not require the Minister or any other person, as a condition of granting an interim injunction, to give any undertakings as to damages.
 
@@ -1724,7 +1724,7 @@ Note:          That subparagraph has the effect that anything 
 
                      (a)  may, if he or she is dissatisfied with the decision, seek a reconsideration of the decision by the Minister in accordance with subsection (2); and
 
-                     (b)  may, subject to the _Administrative Appeals Tribunal Act 1975_, if he or she is dissatisfied with a decision made by the Minister upon that reconsideration affirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so affirmed or varied.
+                     (b)  may, subject to the _Administrative Appeals Tribunal Act 1975_, if he or she is dissatisfied with a decision made by the Minister upon that reconsideration affirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so affirmed or varied.
 
              (8)  Where the Minister makes a decision under subsection (4) affirming or varying a reviewable decision, the notice given under subsection (5) in relation to that decision shall include a statement to the effect that a person affected by the decision so affirmed or varied may, subject to the _Administrative Appeals Tribunal Act 1975_, if he or she is dissatisfied with the decision so affirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
@@ -1772,7 +1772,7 @@ in relation to anything done, or omitted to be done, reasonably and in good fait
 
              (2)  Subject to subsection (1), the Supreme Court of each State is invested with federal jurisdiction and jurisdiction is conferred on the Federal Court of Australia and, to the extent that the Constitution permits, on the Supreme Court of each Territory, with respect to all matters arising under this Act.
 
-             (3)  The inferior courts of each State are invested with federal jurisdiction, and jurisdiction is conferred on the inferior courts of each Territory, within the limits, other than limits as to subject‑matter, of their several jurisdictions, with respect to matters arising under section 45 or 46.
+             (3)  The inferior courts of each State are invested with federal jurisdiction, and jurisdiction is conferred on the inferior courts of each Territory, within the limits, other than limits as to subject-matter, of their several jurisdictions, with respect to matters arising under section 45 or 46.
 
              (4)  An appeal lies to the Court from a judgment or order of a court of a State or Territory exercising jurisdiction under this Act.
 
@@ -1782,7 +1782,7 @@ in relation to anything done, or omitted to be done, reasonably and in good fait
 
              (7)  A reference in subsection (3) to an inferior court shall be read as a reference to:
 
-                     (a)  a County Court, District Court or Local Court; or
+                     (a)  a County Court, District Court or Local   Court; or
 
                      (b)  a court of summary jurisdiction exercising civil jurisdiction;
 
@@ -1832,7 +1832,7 @@ Ministerial arrangements
 
 ##### <a id="53"></a>53  Act not to confer powers on State or Territory Energy Ministers by implication
 
-                   Nothing in this Act shall be taken, by implication, to confer a power upon the Energy Minister for a State, the Energy Minister for the Australian Capital Territory or the Energy Minister for the Northern Territory.
+                   Nothing in this Act shall be taken, by implication, to confer a power upon the Energy Minister for a State, the Energy Minister for the Australian Capital Territory or the Energy Minister for the Northern   Territory.
 
 ##### <a id="55"></a>55  Repeal of _Liquid Fuel (Defence Stocks) Act 1949_
 
@@ -1840,7 +1840,7 @@ Ministerial arrangements
 
 ##### <a id="56"></a>56  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1858,12 +1858,12 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
+  <col width="18%">
   <col width="21%">
   <col width="0%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -2002,27 +2002,10 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 6 (items 1, 74): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 74): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 756) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -2036,9 +2019,9 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Liquid Fuel Emergency Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Liquid Fuel Emergency Act 1984_ was amended by the _Evidence (Transitional Provisions and Consequential Amendments) Act 1995_, subsections 2(1) and (13) of which provide as follows:
+_(b)_    The _Liquid Fuel Emergency Act 1984_ was amended by the _Evidence (Transitional Provisions and Consequential Amendments) Act 1995_, subsections 2(1) and (13) of which provide as follows:
 
                  (1)   This Part and Parts 2 and 3 commence on the day on which this Act receives the Royal Assent.
 
@@ -2522,20 +2505,6 @@ _(b)_     The _Liquid Fuel Emergency Act 1984_ was amended by the _Evide
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 756  Subsection 3(1) (definition of _document_)
-
-Repeal the definition.
-
-As at 5 October 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2556,24 +2525,8 @@ _Liquid Fuel Emergency Amendment Act 2007 (No. 86, 2007)_
 
 ## 99  Transitional regulations
 
-(1)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+(1)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
 
-(2)       Despite subsection 12(2) of the _Legislative Instruments Act 2003_, regulations made under this item may be expressed to take effect before the day they are registered under that Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        Despite subsection 12(2) of the _Legislative Instruments Act 2003_, regulations made under this item may be expressed to take effect before the day they are registered under that Act.
 
  
