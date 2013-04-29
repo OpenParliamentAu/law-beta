@@ -1,7 +1,7 @@
 
 Primary Industries Levies and Charges Collection Act 1991
 Act No. 25 of 1991 as amended
-This compilation was prepared on 16 October 2001 taking into account amendments up to Act No. 115 of 2001
+This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 145 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -13,7 +13,6 @@ Contents
 3	Objects	1
 4	Interpretation	1
 5	Act binds Crown	11
-5A	Application of the Criminal Code	11
 6	When levy or charge due for payment	11
 7	Liability of intermediaries	11
 8	Liability of intermediaries—ancillary provisions	14
@@ -21,33 +20,32 @@ Contents
 10	Collection agreements with States and Territories	20
 11	Collection agreements with collecting organisations	21
 12	Industry consultation	23
-13	Application of Financial Management and Accountability Act	24
+13	Application of Financial Management and Accountability Act	23
 14	Commonwealth not to discriminate or give preference	24
 15	Penalty for late payment	24
 16	Remission of penalty	26
 17	Recovery of levy, charge and other amounts	26
 18	Refund of levy, charge etc.	27
-19	Powers of authorised person in relation to premises	28
+19	Powers of authorised person in relation to premises	27
 19A	Offence of obstructing an authorised person acting under a warrant	28
 19B	Persons to assist authorised person acting under a warrant	28
-20	Warrant to enter premises	29
-21	Retention and return of seized property	30
+20	Warrant to enter premises	28
+21	Retention and return of seized property	29
 22	Identity cards	30
 23	Power to call for information	31
 24	Offences in relation to returns etc.	31
 24A	Offences in relation to weighing cattle carcases	32
 25	Conduct of directors, servants and agents	33
-26	Appointment of authorised persons	35
-27	Publishing of information	35
+26	Appointment of authorised persons	34
+27	Publishing of information	34
 28	Reconsideration and review of decisions	36
-29	Delegation by Secretary	38
+29	Delegation by Secretary	37
 29A	Associated Acts do not authorise the imposition of a tax on property of a State	38
 30	Regulations	38
 31	Orders	39
 Schedule 1—Acts that impose a charge	41
 Schedule 2—Acts that impose a levy	42
 Notes		43
-
 An Act relating to the collection of primary industries levies and charges imposed by various Acts
   
   
@@ -180,7 +178,7 @@ this Act includes the regulations.
 	(d)	a person who, under clause 4 of Schedule 17 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to live‑stock is taken to be the producer of the live‑stock; and
 	(e)	a person who, under clause 5 of Schedule 18 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to live‑stock is taken to be the producer of the live‑stock; and
 	(f)	a person who, under clause 3 of Schedule 2 to the Primary Industries (Excise) Levies Act 1999, is liable to pay levy in relation to buffaloes is taken to be the producer of the buffaloes.
-	(3)	A reference in this Act to a contravention of a provision of this Act includes a reference to an offence against section 6 of the Crimes Act 1914, or section 11.1. 11.4 or 11.5 of the Criminal Code, that relates to that provision.
+	(3)	A reference in this Act to a contravention of a provision of this Act includes a reference to an offence against section 6, 7 or 7A, or paragraph 86(1)(a) of the Crimes Act 1914 that relates to that provision.
 	(4)	Unless the contrary intention appears, for the purposes of the collection of a particular levy or charge, a word or expression contained in this Act that is not defined for the purposes of this Act but is defined in:
 	(a)	an associated Act for the purposes of the imposition of the levy or charge by that Act; or
 	(b)	a Schedule to an associated Act for the purposes of the imposition of the levy or charge by that Schedule; or
@@ -191,9 +189,6 @@ has the same meaning in this Act as in the associated Act, that Schedule or thos
 5  Act binds Crown
 	(1)	This Act binds the Crown in right of each of the States and of Norfolk Island.
 	(2)	Nothing in this Act renders the Crown liable to be prosecuted for an offence.
-5A  Application of the Criminal Code
-		Chapter 2 (other than Part 2.5) of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 6  When levy or charge due for payment
 		Amounts of levy or charge are due for payment as required by the regulations.
 7  Liability of intermediaries
@@ -389,15 +384,11 @@ the Secretary must, by determination in writing, order the amount paid to be ref
 	(b)	search the premises for, inspect, examine, take extracts from, and make copies of, any examinable documents; and
 	(c)	seize anything found during the course of the search that he or she believes, on reasonable grounds, will afford evidence of the contravention of this Act.
 19A  Offence of obstructing an authorised person acting under a warrant
-	(1)	A person must not obstruct or hinder an authorised person in the exercise of his or her power under section 19 if the authorised person is exercising the power in accordance with a warrant issued under section 20.
+		A person must not obstruct or hinder an authorised person in the exercise of his or her power under section 19 if the authorised person is exercising the power in accordance with a warrant issued under section 20.
 Penalty:	30 penalty units
-	(2)	In subsection (1), strict liability applies to the physical element of circumstance, that the exercise of the power by the authorised person is under section 19 in accordance with a warrant issued under section 20.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 19B  Persons to assist authorised person acting under a warrant
-	(1)	If an authorised person enters any premises under section 19 in accordance with a warrant issued under section 20, the occupier or the person in charge must, if required to do so by the authorised person, provide reasonable assistance to the authorised person in the exercise of his or her power under that section in relation to such premises.
+		If an authorised person enters any premises under section 19 in accordance with a warrant issued under section 20, the occupier or the person in charge must, if required to do so by the authorised person, provide reasonable assistance to the authorised person in the exercise of his or her power under that section in relation to such premises.
 Penalty:	30 penalty units
-	(2)	An offence under subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 20  Warrant to enter premises
 	(1)	If a magistrate, on application by an authorised person, is satisfied, by information on oath:
 	(a)	that there are reasonable grounds for believing:
@@ -426,23 +417,15 @@ the magistrate may issue a warrant authorising the authorised person to enter th
 	(a)	contain a recent photograph of the authorised person to whom it is issued; and
 	(b)	be in a form approved, in writing, by the Secretary.
 	 (3)	Where a person to whom an identity card has been issued ceases to be an authorised person, the person must immediately return the identity card to a person occupying such office in the Department as is designated, in writing, by the Secretary.
-	(4)	A person who contravenes subsection (3) is guilty of an offence punishable upon conviction by a fine not exceeding $100.
-	(4A)	Subsection (4) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (4A). See subsection 13.3(3) of the Criminal Code.
-	(4B)	An offence under subsection (4) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(4)	A person who, without reasonable excuse, contravenes subsection (3) is guilty of an offence punishable upon conviction by a fine not exceeding $100.
 	(5)	Where an authorised person proposes to enter premises otherwise than in accordance with a warrant issued under section 20, the authorised person must produce his or her identity card to the occupier or the person in charge of the premises for inspection and, if the authorised person fails to do so, the authorised person is not entitled to enter the premises under section 19.
 23  Power to call for information
 		An authorised person may, by notice in writing given to a person, require the person:
 	(a)	to give the authorised person, within such reasonable time as is specified in the notice, such return of information in relation to matters relevant to the operation of this Act as is specified in the notice; and
 	(b)	to verify any such return or information by statutory declaration.
 24  Offences in relation to returns etc.
-	(1)	A person must not refuse or fail to give a return or information that the person is required to give by or under this Act.
+	(1)	A person must not, without reasonable excuse, refuse or fail to give a return or information that the person is required to give by or under this Act.
 Penalty:	60 penalty units.
-	(1A)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (1A). See subsection 13.3(3) of the Criminal Code.
-	(1B)	An offence under subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(2)	A person is not excused from submitting a return or information on the ground that the return or information might tend to incriminate the person, but any return or information given, and any information or thing (including any document) obtained as a direct or indirect consequence of the giving of the return or information, is not admissible in evidence against the person in:
 	(a)	criminal proceedings other than proceedings for an offence against subsection (1) of this section or an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Act; or
 	(b)	proceedings for recovery of an amount payable by way of penalty under section 15.
@@ -456,13 +439,13 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(b)	if the abattoir is unable to determine the hot carcase weight of a carcase but is able to determine its cold carcase weight within the weighing period, that cold carcase weight is determined within that period.
 	(3)	If:
 	(a)	the abattoir is able to determine the hot carcase weight of a carcase but fails to do so; and
-	(b)	the failure is attributable to the proprietor having contravened subsection (2);
+	(b)	the failure is attributable to the proprietor having intentionally or recklessly contravened subsection (2);
 the proprietor is guilty of an offence.
 Penalty:	60 penalty units.
 	(4)	If:
 	(a)	the abattoir is unable to determine the hot carcase weight of a carcase; and
 	(b)	the abattoir is able to determine the cold carcase weight of the carcase within the weighing period but fails to do so; and
-	(c)	the failure is attributable to the proprietor having contravened subsection (2);
+	(c)	the failure is attributable to the proprietor having intentionally or recklessly contravened subsection (2);
 the proprietor is guilty of an offence.
 Penalty:	60 penalty units.
 Note:	The terms hot carcase weight, cold carcase weight and weighing period are defined in clause 1 of Schedule 1 to the Primary Industries (Excise) Levies Act 1999.
@@ -700,11 +683,6 @@ Wool Services Privatisation Act 2000
 7 Dec 2000
 Schedule 1: 1 Jan 2001 (see Gazette 2000, No. S638)  Remainder: Royal Assent
 —
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001
-115, 2001
-18 Sept 2001
-16 Oct 2001
-S. 4 [see Table A]
 
 (a)	The Primary Industries Levies and Charges Collection Act 1991 was amended by Schedule 3 only of the Primary Industries and Energy Legislation Amendment Act (No. 1) 1996, subsection 2(3) of which provides as follows:
 	(3)	Schedules 3, 4 and 8 commence on the day on which a notice is published in the Gazette under subsection 6(6) of the Poultry Industry Assistance Act 1965.
@@ -733,9 +711,7 @@ ad. = added or inserted      am. = amended      rep. = repealed      rs. = repea
 Provision affected
 How affected
 S. 4	
-am. Nos. 20, 59 and 247, 1992; No. 94, 1993; Nos. 117, 130 and 137, 1994; No. 79, 1995; No. 207, 1997; No. 31, 1998; Nos. 32 and 170, 1999; No. 115, 2001
-S. 5A	
-ad. No. 115, 2001
+am. Nos. 20, 59 and 247, 1992; No. 94, 1993; Nos. 117, 130 and 137, 1994; No. 79, 1995; No. 207, 1997; No. 31, 1998; Nos. 32 and 170, 1999
 S. 7	
 am. No. 94, 1993; No. 137, 1994; No. 79, 1995; No. 207, 1997; Nos. 32 and 170, 1999
 S. 8	
@@ -758,16 +734,14 @@ S. 19
 am. No. 170, 1999
 Ss. 19A, 19B 	
 ad. No. 170, 1999
-
-am. No. 115, 2001
 S. 22 	
-am. No. 170, 1999; No. 115, 2001
+am. No. 170, 1999
 S. 24	
-am. No. 43, 1996; No. 170, 1999; No. 137, 2000; No. 115, 2001
+am. No. 43, 1996; No. 170, 1999; No. 137, 2000
 S. 24A	
 ad. No. 137, 1994
 
-am. No. 32, 1999; No. 115, 2001
+am. No. 32, 1999
 Note to s. 24A	
 am. No. 32, 1999
 S. 26 	
@@ -841,9 +815,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
