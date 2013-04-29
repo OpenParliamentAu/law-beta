@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00009/Html/3c2fd750-60cb-402a-beec-094e2bddad13_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00402/Html/1b2f88b3-a981-485c-b460-685f31dabd41_files/image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 21 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -179,7 +180,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [40K](#40K).       Transferor ADI must give documents to transferee ADI
 
-[40L](#40L).        Compliant transferor ADIs released from retention obligations
+[40L](#40L).        Compliant transferor ADIs released from retention 
+ obligations
 
 [40M](#40M).      Retention obligations of transferee ADIs
 
@@ -187,7 +189,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [40N](#40N).       Transferor ADI may give documents to transferee ADI
 
-[40P](#40P).        Compliant transferor ADIs released from retention obligations
+[40P](#40P).        Compliant transferor ADIs released from retention 
+ obligations
 
 [40Q](#40Q).       Retention obligations of transferee ADIs
 
@@ -449,7 +452,7 @@ and, in Part VIA, includes:
 
                      (b)  business undertaken by a person, being an innkeeper or lodging‑house keeper, relating only to the person’s liability in respect of goods belonging to another person and in the possession or under the control of a guest at the inn or lodging‑house of which the first‑mentioned person is the innkeeper or lodging‑house keeper or deposited with the innkeeper or lodging‑house keeper for safe custody; or
 
-                     (c)  the business of insuring property of a registered religious institution (within the meaning of the _Fringe Benefits Tax Assessment Act 1986_) where the person carrying on the business does not carry on any other insurance business.
+                     (c)  the business of insuring property of a religious organisation where the person carrying on the business does not carry on any other insurance business.
 
                     <a name="insur-intermediari"></a>**_insurance intermediary_** means a person who:
 
@@ -1519,7 +1522,7 @@ the court may make such orders as it thinks fit in relation to that amount, incl
 
              (6)  An expression used in this section has the same meaning as in section 18.
 
-##### <a id="20"></a>20  Cash dealers to hold information
+##### <a id="20"></a>20  Cash dealers to hold information
 
              (1)  A cash dealer must maintain, in relation to each account, in a way that can be audited:
 
@@ -2563,7 +2566,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="40S"></a>40S  This Part does not limit any other retention obligations
+##### <a id="40S"></a>40S  This Part does not limit any other retention obligations
 
                    This Part does not limit any other obligation of a financial institution to retain documents.
 
@@ -4258,23 +4261,6 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 186): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Transaction Reports Act 1988_ was amended by sections 20–23 only of the _Crimes Legislation Amendment Act 1991_, subsections 2(1) and (2) of which provide as follows: 
@@ -5239,7 +5225,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and C
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 4 and 110, 1990; No. 188, 1991; No. 164, 1992; No. 170, 1994; Nos. 33, 62 and 160, 1997; No. 48, 1998; Nos. 44, 146 and 156, 1999; Nos. 55, 119, 123, 136 and 166, 2001; Nos. 86, 125 and 141, 2002; No. 122, 2003; No. 144, 2005; Nos. 86 and 170, 2006; Nos. 21, 32 and 52, 2007; No. 127, 2011; No. 169, 2012</div>
+    <div>am. Nos. 4 and 110, 1990; No. 188, 1991; No. 164, 1992; No. 170, 1994; Nos. 33, 62 and 160, 1997; No. 48, 1998; Nos. 44, 146 and 156, 1999; Nos. 55, 119, 123, 136 and 166, 2001; Nos. 86, 125 and 141, 2002; No. 122, 2003; No. 144, 2005; Nos. 86 and 170, 2006; Nos. 21, 32 and 52, 2007; No. 127, 2011</div>
   </td>
 </tr>
 <tr>
