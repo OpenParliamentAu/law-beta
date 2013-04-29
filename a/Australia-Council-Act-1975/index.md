@@ -1,9 +1,9 @@
 
 Australia Council Act 1975 
 Act No. 11 of 1975 as amended
-This compilation was prepared on 21 March 2000  taking into account amendments up to Act No. 156 of 1999)
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
+Consolidated as in force on 10 December 1999
+(includes amendments up to Act No. 146 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
   
@@ -184,7 +184,7 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Council
 	(2)	If:
 	(a)	a member of the Council:
 	(i)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
-	(ii)	fails without reasonable excuse to comply with his or her obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
+	(ii)	fails without reasonable excuse to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
 	(b)	a full‑time Chairperson of the Council:
 	(i)	engages, without the consent of the Minister, in any paid employment outside the duties of his or her office; or
 	(ii)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any period of 12 months; or
@@ -206,7 +206,7 @@ member of the Council does not include:
 	(a)	determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
 	(b)	at any time terminate such an appointment.
 	(5)	The appointment of a person under this section ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
-	(6)	At any time when a person is acting as Chairperson in accordance with this section, the person has, and may exercise, all the powers and shall perform all the functions of the Chairperson and, if the person is not a member of the Council, shall be deemed to be a member of the Council for the purposes of subsections 17(4) and (7) of this Act and sections 27F to 27L of the Commonwealth Authorities and Companies Act 1997.
+	(6)	At any time when a person is acting as Chairperson in accordance with this section, the person has, and may exercise, all the powers and shall perform all the functions of the Chairperson and, if the person is not a member of the Council, shall be deemed to be a member of the Council for the purposes of subsections 17(4) and (7) of this Act and section 21 of the Commonwealth Authorities and Companies Act 1997.
 	(7)	The validity of anything done by a person acting as Chairperson in accordance with this section shall not be called in question on the grounds that the occasion for the person’s appointment had not arisen or that the appointment had ceased to have effect.
 16  Deputies
 	(1)	A member of the Council, being the Chairperson of a Board, may, with the approval of the Minister, appoint a member of the board to be his or her deputy.
@@ -277,7 +277,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months;
 	(c)	is absent, except on leave granted by the Council or with the approval of the Council, from 3 consecutive meetings of the Council;
 	(d)	becomes bankrupt or applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
-	(e)	fails without reasonable excuse to comply with his or her obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
+	(e)	fails without reasonable excuse to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
 the Minister shall terminate the appointment of the General Manager.
 
 Part IV—Boards
@@ -327,7 +327,7 @@ and name those Boards as he or she thinks fit.
 	(a)	for misbehaviour or physical or mental incapacity;
 	(b)	if the member is absent, without the approval of the Board, from 3 consecutive meetings of the Board; or
 	(c)	where the member of the Board is the Chairperson of the Board—if the member is absent, without the approval of the Council, from 3 consecutive meetings of the Council.
-	(2)	If a member of a Board fails without reasonable excuse to comply with section 31 of this Act or with section 27F or 27J of the Commonwealth Authorities and Companies Act 1997, the Minister shall terminate the appointment of the member.
+	(2)	If a member of a Board fails without reasonable excuse to comply with section 31 of this Act or with section 21 of the Commonwealth Authorities and Companies Act 1997, the Minister shall terminate the appointment of the member.
 28  Acting Chairperson
 	(1)	The Minister may appoint a person to act as Chairperson of a Board:
 	(a)	during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
@@ -421,7 +421,7 @@ specified office means:
 	(1)	The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Notes to the Australia Council Act 1975
 Note 1
-The Australia Council Act 1975 as shown in this compilation comprises Act No. 11, 1975 amended as indicated in the Tables below. 
+The Australia Council Act 1975 as shown in this consolidation comprises Act No. 11, 1975 amended as indicated in the Tables below. 
 Table of Acts
 Act
 Number  and year
@@ -498,11 +498,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 107‑109): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
 —
-Corporate Law Economic Reform Program Act 1999
-156, 1999
-24 Nov 1999
-Schedule 10 (items 13‑16): 13 Mar 2000 (see Gazette 2000, No. S114) (g)
-—
 (a)	Subsections 2(2)‑(4) of the Australia Council Amendment Act 1980 provide as follows:
 	(2)	An amendment made by this Act shall not take effect until such date as is fixed by Proclamation with respect to that amendment.
 	(3)	A Proclamation under subsection (2) may relate to 2 or more, or to all, of the amendments made by this Act.
@@ -520,12 +515,6 @@ Schedule 10 (items 13‑16): 13 Mar 2000 (see Gazette 2000, No. S114) (g)
 (f)	The Australia Council Act 1975 was amended by Schedule 1 (items 107‑109) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provides as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(g)	The Australia Council Act 1975 was amended by Schedule 10 (items 13‑16) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2) of which provides as follows:
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
-	(a)	section 3;
-	(b)	the items in Schedules 1 to 7 (other than item 18 of Schedule 7);
-	(c)	the items in Schedules 10, 11 and 12. 
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -573,11 +562,11 @@ rs. No. 130, 1992
 S. 14	
 rs. No. 114, 1980
 
-am. Nos. 24 and 179, 1991; No. 130, 1992; No. 152, 1997; No. 156, 1999
+am. Nos. 24 and 179, 1991; No. 130, 1992; No. 152, 1997
 S. 15	
 rs. No. 113, 1976
 
-am. No. 24, 1991; No. 152, 1997; No. 156, 1999
+am. No. 24, 1991; No. 152, 1997
 S. 16	
 am. No. 113, 1976; No. 24, 1991; No. 146, 1999
 S. 17	
@@ -621,7 +610,7 @@ am. No. 114, 1980; No. 24, 1991
 S. 19F	
 ad. No. 113, 1976
 
-am. No. 114, 1980; Nos. 24 and 179, 1991; No. 130, 1992; No. 152, 1997; No. 156, 1999
+am. No. 114, 1980; Nos. 24 and 179, 1991; No. 130, 1992; No. 152, 1997
 S. 20	
 am. No. 114, 1980; No. 24, 1991 
 S. 21	
@@ -639,7 +628,7 @@ rep. No. 114, 1980
 S. 26	
 am. No. 24, 1991
 S. 27	
-am. No. 114, 1980; No. 24, 1991; No. 152, 1997; No. 156, 1999
+am. No. 114, 1980; No. 24, 1991; No. 152, 1997
 S. 28	
 am. No. 113, 1976; No. 114, 1980; No. 24, 1991
 S. 29	
