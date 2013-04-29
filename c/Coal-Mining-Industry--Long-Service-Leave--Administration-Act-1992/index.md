@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00322/Html/CoaMinIndLonSerLeaFunAct92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00085/Html/CoaMinIndLonSerLeaFunAct92_WD02_image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 15 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 28 March 2008
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -186,6 +186,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
+                    <a name="australian-fair-pai-condition-standard"></a>**_Australian Fair Pay and Conditions Standard_** has the meaning given by the _Workplace Relations Act 1996_.
+
                     <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
                     <a name="board"></a>**_Board_** means the Board of Directors of the Corporation.
@@ -200,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="elig-employe"></a>**_eligible employee_** means:
 
-                     (a)  a person employed in the black coal mining industry under a relevant industrial instrument, or the National Employment Standards, the duties of whose employment are carried out at or about a place where black coal is mined; or
+                     (a)  a person employed in the black coal mining industry under a relevant industrial instrument, or the Australian Fair Pay and Conditions Standard, the duties of whose employment are carried out at or about a place where black coal is mined; or
 
                      (b)  a person employed by a company that mines black coal the duties of whose employment (wherever they are carried out) are directly connected with the day to day operation of a black coal mine; or
 
@@ -220,9 +222,7 @@ but does not include:
 
                     <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40.
 
-                    <a name="industri-author"></a>**_industrial authority_** means the Coal Industry Tribunal, Fair Work Australia, the New South Wales Industrial Commission, the New South Wales Industrial Relations Commission, the Industrial Relations Commission of Queensland, the Western Australian Coal Industry Tribunal, the Western Australian Industrial Relations Commission or the Tasmanian Industrial Commission or any predecessor of, or successor to, any of those Tribunals or Commissions.
-
-                    <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
+                    <a name="industri-author"></a>**_industrial authority_** means the Coal Industry Tribunal, the Australian Industrial Relations Commission, the Workplace Authority Director, the Employment Advocate, the New South Wales Industrial Commission, the New South Wales Industrial Relations Commission, the Industrial Relations Commission of Queensland, the Western Australian Coal Industry Tribunal, the Western Australian Industrial Relations Commission or the Tasmanian Industrial Commission or any predecessor of, or successor to, any of those Tribunals or Commissions.
 
                     <a name="payrol-levi"></a>**_payroll levy_** means the levy imposed by the Payroll Levy Act and includes any amount of additional levy paid under section 7 of the Payroll Levy Collection Act.
 
@@ -234,13 +234,29 @@ but does not include:
 
                     <a name="relev-industri-instrum"></a>**_relevant industrial instrument_** means:
 
-                     (a)  an award made by, or registered with, an industrial authority; or
+                     (a)  an award made by, or registered with, an industrial authority, including, without limiting this paragraph:
+
+                              (i)  an award or transitional award within the meaning of the _Workplace Relations Act 1996_; and
+
+                             (ii)  a variation or order affecting an award or transitional award of that kind; or
 
                      (b)  a determination made by, or registered with, an industrial authority; or
 
                      (c)  an order given by, or registered with, an industrial authority; or
 
-                     (d)  an agreement approved by, or registered with, an industrial authority;
+                     (d)  an agreement approved by, or registered with, an industrial authority, including, without limiting this paragraph:
+
+                              (i)  a workplace agreement within the meaning given by the _Workplace Relations Act 1996_; and
+
+                            (ia)  an AWA within the meaning of Schedule 7A to that Act; and
+
+                             (ii)  a pre-reform certified agreement within the meaning given by that Act; and
+
+                            (iii)  a pre-reform AWA within the meaning given by that Act; or
+
+                     (e)  a preserved State agreement within the meaning given by the _Workplace Relations Act 1996_; or
+
+                      (f)  a notional agreement preserving State awards within the meaning given by the _Workplace Relations Act 1996_;
 
 that confers on employees in the black coal mining industry to whom the award, determination, order or agreement applies an entitlement to long service leave in circumstances set out in the award, determination, order or agreement, being an entitlement that continues to exist and accrue so long as the employees continue to be employed by any employer in that industry.
 
@@ -696,7 +712,7 @@ does not exceed $50,000 or, if a higher amount is prescribed, that higher amount
 
              (2)  For the purposes of subsection (1), the maximum reimbursable amount in respect of an eligible employee is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00322/Html/CoaMinIndLonSerLeaFunAct92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00085/Html/CoaMinIndLonSerLeaFunAct92_WD02_image002.gif)
 
 where:
 
@@ -1070,23 +1086,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 85–90): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by Schedule 2 (items 624–632) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -1106,94 +1105,6 @@ _(c)_     The _Coal Mining Industry (Long Service Leave Funding) Act 199
 _(d)_ The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by Schedule 3 (item 100) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-_(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      24\. Schedule 8, items 1 to 130
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1247,7 +1158,7 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; No. 54, 2009</div>
+    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1401,5 +1312,7 @@ _Workplace Relations Amendment (A Stronger Safety Net) Act 2007
 ## 33  Substitution of parties to proceedings
 
 From the commencement of this Schedule, the Workplace Authority Director is substituted for the Employment Advocate as a party in any proceedings that were pending in any court or tribunal immediately before that commencement.
+
+ 
 
  
