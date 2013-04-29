@@ -1,176 +1,180 @@
-![](http://www.comlaw.gov.au/Details/C2008C00338/Html/NaturalHeritTrustofAust1997WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="1BB6F15E83F5E749CA256FC1001DE9F6/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Natural Heritage Trust of Australia Act 1997
+# Natural Heritage Trust of <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> Act 1997<o:p></o:p>
 
-**Act No. 76 of 1997 as amended**
+**Act No. 76 of 1997 as amended<o:p></o:p>**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="3" month="3">3 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
+
 
 # Contents
 
-**Preamble** 
+**Preamble<span style="mso-tab-count: 1">                                                                                                                                       </span>** 
 
-**Part 1—Introduction**
+**Part 1—Introduction<span style="mso-tab-count: 1">                                                                                                              </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-**Part 2—The Natural Heritage Trust of Australia Account**
+**Part 2—The Natural Heritage Trust of Australia Account<span style="mso-tab-count: 1">                             </span>**
 
-[4](#4).            Natural Heritage Trust of Australia Account
+[4](#4).            Natural Heritage Trust of Australia Account<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[5](#5).            Nature of the Account
+[5](#5).            Nature of the Account<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[6](#6).            Investments and income of the Account
+[6](#6).            Investments and income of the Account<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[7](#7).            Amounts not held on trust
+[7](#7).            Amounts not held on trust<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-**Part 3—Purposes of the Account**
+**Part 3—Purposes of the Account<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[8](#8).            Purposes of the Account
+[8](#8).            Purposes of the Account<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[9](#9).            Debits of proceeds from the partial privatisation of Telstra and interest earned from the Account
+[9](#9).            Debits of proceeds from the partial privatisation of Telstra and interest earned from the Account<span style="mso-tab-count: 1">       </span>
 
-[10](#10).          Primary objective of the National Vegetation Initiative
+[10](#10).          Primary objective of the National Vegetation Initiative<span style="mso-tab-count: 1 dotted">                      </span>
 
-[11](#11).          Primary objective of the Murray-Darling 2001 Project
+[11](#11).          Primary objective of the Murray-Darling 2001 Project<span style="mso-tab-count: 1 dotted">                      </span>
 
-[12](#12).          Primary objectives of the National Land and Water Resources Audit
+[12](#12).          Primary objectives of the National Land and Water Resources Audit<span style="mso-tab-count: 1 dotted"> </span>
 
-[13](#13).          Primary objective of the National Reserve System
+[13](#13).          Primary objective of the National Reserve System<span style="mso-tab-count: 1 dotted">                             </span>
 
-[14](#14).          Primary objectives of the Coasts and Clean Seas Initiative
+[14](#14).          Primary objectives of the Coasts and Clean Seas Initiative<span style="mso-tab-count: 1 dotted">                 </span>
 
-[15](#15).          Meaning of _environmental protection_
+[15](#15).          Meaning of _environmental protection_<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[16](#16).          Meaning of _sustainable agriculture_
+[16](#16).          Meaning of _sustainable agriculture_<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[17](#17).          Meaning of _natural resources management_
+[17](#17).          Meaning of _natural resources management_<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[18](#18).          Meaning of _accounting transfer purpose_
+[18](#18).          Meaning of _accounting transfer purpose_<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[19](#19).          Grant of financial assistance to a State
+[19](#19).          Grant of financial assistance to a State<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[20](#20).          Grant of financial assistance to a person, or a body, other than a State
+[20](#20).          Grant of financial assistance to a person, or a body, other than a State<span style="mso-tab-count: 1">  </span>
 
-[21](#21).          Principles of ecologically sustainable development
+[21](#21).          Principles of ecologically sustainable development<span style="mso-tab-count: 1 dotted">                           </span>
 
-**Part 4—Crediting of amounts to the Account**
+**Part 4—Crediting of amounts to the Account<span style="mso-tab-count: 1">                                                       </span>**
 
-[22](#22).          $1 1 billion derived from the initial partial sale of Telstra
+[22](#22).          $1 1 billion derived from the initial partial sale of Telstra<span style="mso-tab-count: 1 dotted">                 </span>
 
-[22A](#22A).       $250 million derived from the subsequent partial sale of Telstra
+[22A](#22A).       $250 million derived from the subsequent partial sale of Telstra<span style="mso-tab-count: 1 dotted">      </span>
 
-[23](#23).          Budget appropriations
+[23](#23).          Budget appropriations<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[24](#24).          Gifts and bequests
+[24](#24).          Gifts and bequests<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[25](#25).          Repayments of grants
+[25](#25).          Repayments of grants<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[26](#26).          Commonwealth receipts under funding agreements
+[26](#26).          Commonwealth receipts under funding agreements<span style="mso-tab-count: 1 dotted">                          </span>
 
-[27](#27).          Income from assets acquired using amounts credited to the Account
+[27](#27).          Income from assets acquired using amounts credited to the Account<span style="mso-tab-count: 1 dotted"> </span>
 
-[28](#28).          Proceeds of disposal of assets acquired using amounts credited to the Account
+[28](#28).          Proceeds of disposal of assets acquired using amounts credited to the Account<span style="mso-tab-count: 1">    </span>
 
-[29](#29).          Income from projects and related activities funded with amounts credited to the Account
+[29](#29).          Income from projects and related activities funded with amounts credited to the Account<span style="mso-tab-count: 1">    </span>
 
-**Part 5—Natural Heritage Trust Advisory Committee**
+**Part 5—Natural Heritage Trust Advisory Committee<span style="mso-tab-count: 1">                                     </span>**
 
-[30](#30).          Establishment of Committee
+[30](#30).          Establishment of Committee<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[31](#31).          Functions of Committee
+[31](#31).          Functions of Committee<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[32](#32).          Appointment of Committee members
+[32](#32).          Appointment of Committee members<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[33](#33).          Procedures
+[33](#33).          Procedures<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[34](#34).          Disclosure of interests
+[34](#34).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[35](#35).          Remuneration and allowances
+[35](#35).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[36](#36).          Leave of absence
+[36](#36).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[37](#37).          Resignation
+[37](#37).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[38](#38).          Termination of appointment
+[38](#38).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[39](#39).          Other terms and conditions
+[39](#39).          Other terms and conditions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-**Part 6—Miscellaneous**
+**Part 6—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[40](#40).          Natural Heritage Ministerial Board
+[40](#40).          Natural Heritage Ministerial Board<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[41](#41).          Estimates
+[41](#41).          Estimates<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[42](#42).          Minimum balance in the Account after 30 June 2001
+[42](#42).          Minimum balance in the Account after 30 June 2001<span style="mso-tab-count: 1 dotted">                       </span>
 
-[43](#43).          Annual report about the Account
+[43](#43).          Annual report about the Account<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[44](#44).          Audit of annual financial statements of the Account
+[44](#44).          Audit of annual financial statements of the Account<span style="mso-tab-count: 1 dotted">                        </span>
 
-[45](#45).          Delegation by Minister
+[45](#45).          Delegation by Minister<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[46](#46).          Delegation by Minister for Primary Industries and Energy
+[46](#46).          Delegation by Minister for Primary Industries and Energy<span style="mso-tab-count: 1 dotted">              </span>
 
-[47](#47).          Acceptance of gifts etc 
+[47](#47).          Acceptance of gifts etc <span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[49](#49).          Appropriations for the purposes of the _Natural Resources Management (Financial Assistance) Act 1992_ and the _Rural Adjustment Act 1992_
+[49](#49).          Appropriations for the purposes of the _Natural Resources Management (Financial Assistance) Act 1992_ and the _Rural Adjustment Act 1992_<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[50](#50).          Regulations
+[50](#50).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[53](#53).          External Territories
+[53](#53).          External Territories<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[54](#54).          Interpretation
+[54](#54).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
-## An Act to establish the Natural Heritage Trust of Australia Account, and for related purposes
+
+## An Act to establish the Natural Heritage Trust of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> Account, and for related purposes
 
 ## Preamble
 
-                   The Parliament of Australia recognises the need for urgent action to redress the current decline, and to prevent further decline, in the quality of Australia’s natural environment.
+                   The Parliament of Australia recognises the need for urgent action to redress the current decline, and to prevent further decline, in the quality of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s natural environment.
 
                    There is a national crisis in land and water degradation and in the loss of biodiversity.
 
-                   There is a need to conserve Australia’s environmental infrastructure, to reverse the decline in Australia’s natural environment and to improve the management of Australia’s natural resources.
+                   There is a need to conserve <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s environmental infrastructure, to reverse the decline in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s natural environment and to improve the management of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s natural resources.
 
                    There is a need for the Commonwealth to provide national leadership and work in partnership with all levels of government and the whole community, recognising, among other things, that many environmental issues and problems are not limited by State and Territory borders.
 
-                   There is a need to integrate the objectives of environmental protection, sustainable agriculture and natural resources management consistent with the principles of ecologically sustainable development.
+                   There is a need to integrate the objectives of environmental protection, sustainable agriculture and natural resources management consistent with the principles of ecologically sustainable development.
 
                    It is essential that government leadership be demonstrated, and that the Australian community be involved, in relation to these matters.
 
                    The Commonwealth Government should work cooperatively with State governments to achieve effective outcomes in matters relating to environmental protection, natural resources management and sustainable agriculture. Those cooperative working relationships should involve entering into inter-governmental agreements which reflect the support of the States for the purposes of the Natural Heritage Trust of Australia Account and promote the development of complementary policies and programs.
 
-                   Australia’s rural community should have a key role in the ecologically sustainable management of Australia’s natural resources.
+                   <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s rural community should have a key role in the ecologically sustainable management of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s natural resources.
 
-                   Australia’s natural environment is central to Australia’s and Australians’ health and non-material well-being and to Australia’s present and future economic prosperity. Accordingly, present and future generations of Australians will benefit from the ecologically sustainable management of the natural environment.
+                   <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s natural environment is central to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s and Australians’ health and non-material well-being and to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s present and future economic prosperity. Accordingly, present and future generations of Australians will benefit from the ecologically sustainable management of the natural environment.
 
                    A comprehensive, integrated response to these matters is necessary. 
 
                    The above considerations are taken into account by the Parliament of Australia in enacting the law that follows.
 
-## Part 1—Introduction
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+## Part 1—Introduction
 
-                   This Act may be cited as the _Natural Heritage Trust of__Australia__Act 1997_.
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+                   This Act may be cited as the _Natural Heritage Trust of_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_Act 1997_.
+
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act commences on the day on which it receives the Royal Assent.
 
@@ -178,39 +182,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     This Act establishes the Natural Heritage Trust of Australia Account.</li>
 
-Act establishes the Natural Heritage Trust of Australia Account.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt; mso-list: none; mso-list-ins: waynel 20050307T1415">•     The main source of money for the Account is $1.35 billion from the partial sale of Telstra.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The main objective of the establishment of the Account is to conserve, repair and replenish <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s natural capital infrastructure.</li>
 
-main source of money for the Account is $1.35 billion from the partial sale of
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Amounts standing to the credit of the Account will be spent on the environment, sustainable agriculture and natural resources management.</li>
 
-Telstra.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Natural Heritage Trust Advisory Committee is established.</li></div>
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<o:p> </o:p>
 
-main objective of the establishment of the Account is to conserve, repair and
+## Part 2—The Natural Heritage Trust of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharPartText">Australia</span></st1:place></st1:country-region><span class="CharPartText"> Account</span>
 
-replenish Australia’s natural capital infrastructure.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Amounts
-
-standing to the credit of the Account will be spent on the environment,
-
-sustainable agriculture and natural resources management.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Natural Heritage Trust Advisory Committee is established.</li>
-
-* * *
-
-## Part 2—The Natural Heritage Trust of Australia Account
-
-##### <a id="4"></a>4  Natural Heritage Trust of Australia Account
+##### <a id="4"></a>4  Natural Heritage Trust of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> Account
 
                    There is continued in existence the Natural Heritage Trust of Australia Account.
 
@@ -234,15 +222,15 @@ Fixed income—uninvested amounts
 
 Fixed-income percentage
 
-             (3)  For the purposes of the application of subsection (2) to a particular financial year, the **_fixed-income percentage_** is:
+             (3)  For the purposes of the application of subsection (2) to a particular financial year, the **_fixed-income percentage_** is:
 
-                     (a)  if the financial year begins on or before 1 July 2001:
+                     (a)  if the financial year begins on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date>:
 
                               (i)  8%; or
 
                              (ii)  if the Finance Minister, by written instrument made within 28 days after the end of the financial year, determines a higher percentage—that higher percentage; or
 
-                     (b)  if the financial year begins on or after 1 July 2002:
+                     (b)  if the financial year begins on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="1" month="7">1 July 2002</st1:date>:
 
                               (i)  the percentage equal to the rate of interest earned by the Commonwealth as at the end of the financial year on deposits held with the Reserve Bank of Australia; or
 
@@ -272,6 +260,8 @@ an amount equal to the excess must be debited from the Account.
 
                    Amounts standing to the credit of the Account and amounts invested by debiting the Account are not held on trust (within the ordinary meaning of that expression).
 
+<o:p> </o:p>
+
 ## Part 3—Purposes of the Account
 
 ##### <a id="8"></a>8  Purposes of the Account
@@ -282,7 +272,7 @@ an amount equal to the excess must be debited from the Account.
 
                      (b)  the Murray-Darling 2001 Project;
 
-                     (c)  the National Land and Water Resources Audit;
+                     (c)  the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> and Water Resources Audit;
 
                      (d)  the National Reserve System;
 
@@ -308,17 +298,17 @@ an amount equal to the excess must be debited from the Account.
 
                      (b)  the Murray-Darling 2001 Project;
 
-                     (c)  the National Land and Water Resources Audit;
+                     (c)  the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> and Water Resources Audit;
 
                      (d)  the National Reserve System;
 
                      (e)  the Coasts and Clean Seas Initiative;
 
-                      (f)  environmental protection (as defined by section 15), being environmental protection that involves the carrying out of a project, or a program, the primary objective of which is to maintain or replenish Australia’s environmental infrastructure;
+                      (f)  environmental protection (as defined by section 15), being environmental protection that involves the carrying out of a project, or a program, the primary objective of which is to maintain or replenish Australia’s environmental infrastructure;
 
-                     (g)  supporting sustainable agriculture (as defined by section 16), being support that involves the carrying out of a project, or a program, the primary objective of which is to maintain or replenish Australia’s environmental infrastructure;
+                     (g)  supporting sustainable agriculture (as defined by section 16), being support that involves the carrying out of a project, or a program, the primary objective of which is to maintain or replenish Australia’s environmental infrastructure;
 
-                     (h)  natural resources management (as defined by section 17), being natural resources management that involves the carrying out of a project, or a program, the primary objective of which is to maintain or replenish Australia’s environmental infrastructure;
+                     (h)  natural resources management (as defined by section 17), being natural resources management that involves the carrying out of a project, or a program, the primary objective of which is to maintain or replenish Australia’s environmental infrastructure;
 
                       (i)  a purpose incidental or ancillary to any of the above purposes;
 
@@ -328,21 +318,21 @@ an amount equal to the excess must be debited from the Account.
 
 ##### <a id="10"></a>10  Primary objective of the National Vegetation Initiative
 
-                   For the purposes of this Act, the primary objective of the National Vegetation Initiative is to reverse the long-term decline in the extent and quality of Australia’s native vegetation cover by:
+                   For the purposes of this Act, the primary objective of the National Vegetation Initiative is to reverse the long-term decline in the extent and quality of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s native vegetation cover by:
 
                      (a)  conserving remnant native vegetation; and
 
-                     (b)  conserving Australia’s biodiversity; and
+                     (b)  conserving <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s biodiversity; and
 
-                     (c)  restoring, by means of revegetation, the environmental values and productive capacity of Australia’s degraded land and water.
+                     (c)  restoring, by means of revegetation, the environmental values and productive capacity of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s degraded land and water.
 
 ##### <a id="11"></a>11  Primary objective of the Murray-Darling 2001 Project
 
-                   For the purposes of this Act, the primary objective of the Murray-Darling 2001 Project is to contribute to the rehabilitation of the Murray-Darling Basin, with a view to achieving a sustainable future for the Basin, its natural systems and its communities.
+                   For the purposes of this Act, the primary objective of the Murray-Darling 2001 Project is to contribute to the rehabilitation of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Murray-Darling</st1:placename> <st1:placetype>Basin</st1:placetype></st1:place>, with a view to achieving a sustainable future for the Basin, its natural systems and its communities.
 
-##### <a id="12"></a>12  Primary objectives of the National Land and Water Resources Audit
+##### <a id="12"></a>12  Primary objectives of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> and Water Resources Audit
 
-                   For the purposes of this Act, the primary objectives of the National Land and Water Resources Audit are as follows:
+                   For the purposes of this Act, the primary objectives of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> and Water Resources Audit are as follows:
 
                      (a)  to estimate the direct and indirect causes and effects of land and water degradation on the quality of the Australian environment and to estimate the effects of land and water degradation on Australia’s economy;
 
@@ -352,39 +342,39 @@ an amount equal to the excess must be debited from the Account.
 
                    For the purposes of this Act, the primary objective of the National Reserve System is to assist with the establishment and maintenance of a comprehensive, adequate and representative system of reserves.
 
-##### <a id="14"></a>14  Primary objectives of the Coasts and Clean Seas Initiative
+##### <a id="14"></a>14  Primary objectives of the Coasts and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Clean</st1:placename> <st1:placetype>Seas</st1:placetype></st1:place> Initiative
 
                    For the purposes of this Act, the primary objectives of the Coasts and Clean Seas Initiative are as follows:
 
-                     (a)  to ameliorate pollution problems in Australia’s coastal areas;
+                     (a)  to ameliorate pollution problems in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s coastal areas;
 
-                     (b)  to protect the environment in Australia’s coastal areas;
+                     (b)  to protect the environment in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s coastal areas;
 
-                     (c)  to ameliorate threats to Australia’s marine biodiversity;
+                     (c)  to ameliorate threats to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s marine biodiversity;
 
-                     (d)  to develop an oceans policy for Australia.
+                     (d)  to develop an oceans policy for <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 ##### <a id="15"></a>15  Meaning of _environmental protection_
 
                    For the purposes of this Act, **_environmental protection_** means:
 
-                     (a)  maintaining, conserving, preserving or protecting components of the natural environment of Australia; or
+                     (a)  maintaining, conserving, preserving or protecting components of the natural environment of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                     (b)  restoring, improving or replenishing components of the natural environment of Australia; or
+                     (b)  restoring, improving or replenishing components of the natural environment of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                     (c)  conserving or restoring Australia’s biodiversity; or
+                     (c)  conserving or restoring <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s biodiversity; or
 
-                     (d)  developing or promoting waste minimisation in Australia; or
+                     (d)  developing or promoting waste minimisation in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                     (e)  developing or promoting clean production in Australia; or
+                     (e)  developing or promoting clean production in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                      (f)  preventing, combating or rectifying pollution of the environment (whether natural or otherwise) of Australia; or
+                      (f)  preventing, combating or rectifying pollution of the environment (whether natural or otherwise) of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
                      (g)  carrying on research, or disseminating information, about:
 
-                              (i)  the natural environment of Australia; or
+                              (i)  the natural environment of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
 
-                             (ii)  Australia’s biodiversity.
+                             (ii)  <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s biodiversity.
 
 ##### <a id="16"></a>16  Meaning of _sustainable agriculture_
 
@@ -394,7 +384,7 @@ an amount equal to the excess must be debited from the Account.
 
                      (b)  the social viability and well-being of rural communities;
 
-                     (c)  the ecologically sustainable use of Australia’s biodiversity;
+                     (c)  the ecologically sustainable use of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s biodiversity;
 
                      (d)  the natural resource base;
 
@@ -414,17 +404,17 @@ an amount equal to the excess must be debited from the Account.
 
                             (iii)  vegetation; or
 
-                     (b)  any activity relating to the management of the use, development or conservation of any other natural resources for the purposes of an activity mentioned in paragraph (a).
+                     (b)  any activity relating to the management of the use, development or conservation of any other natural resources for the purposes of an activity mentioned in paragraph (a).
 
 ##### <a id="18"></a>18  Meaning of _accounting transfer purpose_
 
                    For the purposes of this Act, each of the following is an **_accounting transfer purpose_**:
 
-                     (a)  making payments under section 5 of the _Natural Resources Management (Financial Assistance) Act 1992_;
+                     (a)  making payments under section 5 of the _Natural Resources Management (Financial Assistance) Act 1992_;
 
                      (b)  crediting amounts to the Natural Resources Management Account continued in existence under subsection 11(1) of the _Natural Resources Management (Financial Assistance) Act 1992_;
 
-                     (d)  making payments under agreements in force under Part 3 of the _Rural Adjustment Act 1992_, to the extent to which those payments are in connection with property management planning in relation to the farm unit.
+                     (d)  making payments under agreements in force under Part 3 of the _Rural Adjustment Act 1992_, to the extent to which those payments are in connection with property management planning in relation to the farm unit.
 
 ##### <a id="19"></a>19  Grant of financial assistance to a State
 
@@ -432,7 +422,7 @@ an amount equal to the excess must be debited from the Account.
 
              (2)  The terms and conditions on which that financial assistance is granted are to be set out in a written agreement between the Commonwealth and the State.
 
-             (3)  An agreement under subsection (2) may be entered into:
+             (3)  An agreement under subsection (2) may be entered into:
 
                      (a)  by either of the following Ministers on behalf of the Commonwealth:
 
@@ -446,7 +436,7 @@ an amount equal to the excess must be debited from the Account.
 
                              (ii)  the Minister for Primary Industries and Energy.
 
-             (4)  An agreement under subsection (2) may establish a framework under which the Commonwealth and the State are to work cooperatively to achieve both common and complementary outcomes in relation to:
+             (4)  An agreement under subsection (2) may establish a framework under which the Commonwealth and the State are to work cooperatively to achieve both common and complementary outcomes in relation to:
 
                      (a)  environmental protection; and
 
@@ -454,13 +444,13 @@ an amount equal to the excess must be debited from the Account.
 
                      (c)  sustainable agriculture.
 
-             (5)  Subsection (4) does not limit subsection (2).
+             (5)  Subsection (4) does not limit subsection (2).
 
-             (6)  This section does not affect the operation of Part 2 of the _Natural Resources Management (Financial Assistance) Act 1992._
+             (6)  This section does not affect the operation of Part 2 of the _Natural Resources Management (Financial Assistance) Act 1992._
 
-             (7)  This section does not affect the operation of Part 3 of the _Rural Adjustment Act 1992._
+             (7)  This section does not affect the operation of Part 3 of the _Rural Adjustment Act 1992._
 
-Note:          **_State_** is given an extended meaning by section 54.
+Note:          **_State_** is given an extended meaning by section 54.
 
 ##### <a id="20"></a>20  Grant of financial assistance to a person, or a body, other than a State
 
@@ -468,7 +458,7 @@ Note:          **_State_** is given an extended meaning by sec
 
              (2)  The terms and conditions on which that financial assistance is granted are to be set out in a written agreement between the Commonwealth and the person or body.
 
-             (3)  An agreement under subsection (2) may be entered into:
+             (3)  An agreement under subsection (2) may be entered into:
 
                      (a)  by either of the following Ministers on behalf of the Commonwealth:
 
@@ -482,9 +472,9 @@ Note:          **_State_** is given an extended meaning by sec
 
                              (ii)  the Minister for Primary Industries and Energy.
 
-             (4)  This section does not affect the operation of Part 3 of the _Rural Adjustment Act 1992._
+             (4)  This section does not affect the operation of Part 3 of the _Rural Adjustment Act 1992._
 
-Note:          **_State_** is given an extended meaning by section 54.
+Note:          **_State_** is given an extended meaning by section 54.
 
 ##### <a id="21"></a>21  Principles of ecologically sustainable development
 
@@ -523,6 +513,8 @@ Note:          **_State_** is given an extended meaning by sec
                            (vii)  decisions and actions should provide for broad community involvement on issues which affect the community.
 
 Note:          The principles of ecologically sustainable development that are set out in this subsection are based on the core objectives and guiding principles that were endorsed by the Council of Australian Governments in December 1992.
+
+<o:p> </o:p>
 
 ## Part 4—Crediting of amounts to the Account
 
@@ -602,13 +594,15 @@ Note:          The principles of ecologically sustainable deve
 
              (2)  An amount equal to the receipt is to be credited to the Account.
 
-## Part 5—Natural Heritage Trust Advisory Committee
+<o:p> </o:p>
+
+## Part 5—Natural Heritage Trust Advisory Committee
 
 ##### <a id="30"></a>30  Establishment of Committee
 
              (1)  There is to be a Natural Heritage Trust Advisory Committee, which is to consist of the following members:
 
-                     (a)  a Chair;
+                     (a)  a Chairman;
 
                      (b)  not more than 9, but not fewer than 5, other members.
 
@@ -638,7 +632,7 @@ Note:          The principles of ecologically sustainable deve
 
              (1)  The Committee members are to be appointed by the Natural Heritage Ministerial Board by written instrument.
 
-             (2)  A Committee member is to be appointed for the period specified in the instrument of appointment. The period must not exceed 3 years.
+             (2)  A Committee member is to be appointed for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
              (3)  A Committee member holds office on a part-time basis.
 
@@ -674,7 +668,7 @@ Note:          The principles of ecologically sustainable deve
 
 ##### <a id="36"></a>36  Leave of absence
 
-                   The Natural Heritage Ministerial Board or the Chair may grant leave to a Committee member to be absent from a meeting or meetings of the Committee.
+                   The Natural Heritage Ministerial Board or the Chairman may grant leave to a Committee member to be absent from a meeting or meetings of the Committee.
 
 ##### <a id="37"></a>37  Resignation
 
@@ -694,7 +688,7 @@ Note:          The principles of ecologically sustainable deve
 
                      (b)  a Committee member is absent, except on leave of absence, from 3 consecutive meetings of the Committee; or
 
-                     (c)  a Committee member fails, without reasonable excuse, to comply with section 34;
+                     (c)  a Committee member fails, without reasonable excuse, to comply with section 34;
 
 the Natural Heritage Ministerial Board may terminate the appointment of the Committee member.
 
@@ -702,7 +696,9 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                    A Committee member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Natural Heritage Ministerial Board.
 
-## Part 6—Miscellaneous
+<o:p> </o:p>
+
+## Part 6—Miscellaneous
 
 ##### <a id="40"></a>40  Natural Heritage Ministerial Board
 
@@ -716,7 +712,7 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                      (a)  to provide a forum in which the Minister and the Minister for Primary Industries and Energy are to consult with each other about all matters relating to the Account;
 
-                     (b)  to prepare estimates under section 41;
+                     (b)  to prepare estimates under section 41;
 
                      (c)  to monitor the effectiveness of the administration of this Act in achieving:
 
@@ -724,7 +720,7 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
                              (ii)  the primary objective of the Murray-Darling 2001 Project; and
 
-                            (iii)  the primary objectives of the National Land and Water Resources Audit; and
+                            (iii)  the primary objectives of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>National</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> and Water Resources Audit; and
 
                             (iv)  the primary objective of the National Reserve System; and
 
@@ -766,13 +762,13 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
              (4)  Money must not be debited from the Reserve for a purpose of the Account otherwise than in accordance with estimates prepared under this section.
 
-##### <a id="42"></a>42  Minimum balance in the Account after 30 June 2001
+##### <a id="42"></a>42  Minimum balance in the Account after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="30" month="6">30 June 2001</st1:date>
 
-             (1)  This section applies to a financial year that begins on or after 1 July 2001.
+             (1)  This section applies to a financial year that begins on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date>.
 
-             (2)  The Minister must take all reasonable steps to ensure that, throughout each financial year, the balance of the Account does not fall below the base amount for that year (worked out under subsection (3) or (4)).
+             (2)  The Minister must take all reasonable steps to ensure that, throughout each financial year, the balance of the Account does not fall below the base amount for that year (worked out under subsection (3) or (4)).
 
-             (3)  The **_base amount_** for the financial year that begins on 1 July 2001 is $300 million.
+             (3)  The **_base amount_** for the financial year that begins on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date> is $300 million.
 
              (4)  This is how to work out the **_base amount_** for a subsequent financial year:
 
@@ -784,23 +780,23 @@ the Natural Heritage Ministerial Board may terminate the appointment of the Comm
 
 ##### <a id="43"></a>43  Annual report about the Account
 
-             (1)  For the purposes of this Act, the Minister must, as soon as practicable after the end of 30 June in each year, cause to be prepared an annual report. The annual report must include (but is not limited to):
+             (1)  For the purposes of this Act, the Minister must, as soon as practicable after the end of 30 June in each year, cause to be prepared an annual report. The annual report must include (but is not limited to):
 
                      (a)  a report about the operations of the Account during the financial year ended on that date; and
 
                      (b)  financial statements relating to those operations; and
 
-                     (c)  the Auditor-General’s report or reports under section 44 on the financial statements; and
+                     (c)  the Auditor-General’s report or reports under section 44 on the financial statements; and
 
                      (d)  a report on the effectiveness of the administration of this Act during the financial year ended on that date in achieving the outcomes sought in agreements entered into under subsection 19(2).
 
-             (2)  The report mentioned in paragraph (1)(a) must comply with written guidelines issued by the Minister for Finance.
+             (2)  The report mentioned in paragraph (1)(a) must comply with written guidelines issued by the Minister for Finance.
 
              (3)  The financial statements must comply with written guidelines issued by the Minister for Finance.
 
              (4)  The Minister must cause copies of the annual report to be laid before each House of the Parliament within 15 sitting days of that House after the completion of the preparation of the annual report.
 
-             (5)  The Minister for Primary Industries and Energy must give the Minister such information as the Minister requires to enable the Minister to comply with the Minister’s obligations under subsection (1).
+             (5)  The Minister for Primary Industries and Energy must give the Minister such information as the Minister requires to enable the Minister to comply with the Minister’s obligations under subsection (1).
 
              (6)  The obligations imposed by this section are in addition to, and not instead of, obligations imposed by any other law of the Commonwealth.
 
@@ -838,11 +834,11 @@ If the Auditor-General is not of that opinion, the Auditor-General must state th
 
 all or any of the Minister’s powers under:
 
-                     (d)  this Act (other than section 40 or 41); or
+                     (d)  this Act (other than section 40 or 41); or
 
                      (e)  any other law of the Commonwealth, to the extent that that law relates to the Account.
 
-             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister.
+             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister.
 
 ##### <a id="46"></a>46  Delegation by Minister for Primary Industries and Energy
 
@@ -854,11 +850,11 @@ all or any of the Minister’s powers under:
 
 all or any of the powers conferred on the Minister for Primary Industries and Energy by:
 
-                     (c)  this Act (other than section 40 or 41); or
+                     (c)  this Act (other than section 40 or 41); or
 
                      (d)  any other law of the Commonwealth, to the extent that that law relates to the Account.
 
-             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister for Primary Industries and Energy.
+             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister for Primary Industries and Energy.
 
 ##### <a id="47"></a>47  Acceptance of gifts etc.
 
@@ -882,9 +878,9 @@ the advertisement must include a statement to the effect that the proceeds of th
 
              (2)  A reference in paragraph 11(4)(a) of the _Natural Resources Management (Financial Assistance) Act 1992_ to amounts appropriated from time to time by the Parliament includes a reference to an amount debited from the Account in accordance with paragraphs 8(k) and 18(b) of this Act.
 
-             (4)  A reference in subsection 20A(3) of the _Rural Adjustment Act 1992_ to money appropriated by the Parliament for the purposes mentioned in that subsection includes a reference to an amount debited from the Account in accordance with paragraphs 8(k) and 18(d) of this Act.
+             (4)  A reference in subsection 20A(3) of the _Rural Adjustment Act 1992_ to money appropriated by the Parliament for the purposes mentioned in that subsection includes a reference to an amount debited from the Account in accordance with paragraphs 8(k) and 18(d) of this Act.
 
-             (5)  A reference in subsection 21(1) of the _Rural Adjustment Act 1992_ to money appropriated by the Parliament for the purpose mentioned in that subsection includes a reference to an amount debited from the Account in accordance with paragraphs 8(k) and 18(d) of this Act.
+             (5)  A reference in subsection 21(1) of the _Rural Adjustment Act 1992_ to money appropriated by the Parliament for the purpose mentioned in that subsection includes a reference to an amount debited from the Account in accordance with paragraphs 8(k) and 18(d) of this Act.
 
 ##### <a id="50"></a>50  Regulations
 
@@ -894,7 +890,7 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-##### <a id="53"></a>53  External  Territories
+##### <a id="53"></a>53  <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>External</st1:placename> <st1:placetype>Territories</st1:placetype></st1:place>
 
                    This Act extends to all the external Territories.
 
@@ -904,7 +900,7 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                     <a name="account"></a>**_Account_** means the Natural Heritage Trust of Australia Account continued in existence by section 4.
 
-                    <a name="accounting-transfer-purpos"></a>**_accounting transfer purpose_** has the meaning given by section 18.
+                    <a name="accounting-transfer-purpos"></a>**_accounting transfer purpose_** has the meaning given by section 18.
 
                     <a name="agricultur"></a>**_agriculture_** includes:
 
@@ -918,23 +914,23 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                      (e)  horticulture.
 
-                    <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes:
+                    <a name="australia"></a><st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Australia_**</st1:place></st1:country-region>, when used in a geographical sense, includes:
 
                      (a)  the external Territories; and
 
                      (b)  the exclusive economic zone.
 
-                    <a name="committe"></a>**_Committee_** means the Natural Heritage Trust Advisory Committee established by section 30.
+                    <a name="committe"></a>**_Committee_** means the Natural Heritage Trust Advisory Committee established by section 30.
 
                     <a name="committe-member"></a>**_Committee member_** means a member of the Committee.
 
-                    <a name="environment-protect"></a>**_environmental protection_** has the meaning given by section 15.
+                    <a name="environment-protect"></a>**_environmental protection_** has the meaning given by section 15.
 
-                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** means the exclusive economic zone (within the meaning of the _Seas and Submerged Lands Act 1973_), adjacent to the coast of Australia or the coast of an external Territory.
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** means the exclusive economic zone (within the meaning of the _Seas and Submerged Lands Act 1973_), adjacent to the coast of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or the coast of an external Territory.
 
                     <a name="horticultur"></a>**_horticulture_** includes the production of a horticultural product (within the meaning of the _Horticulture Marketing and Research and Development Services Act 2000_).
 
-                    <a name="natur-heritag-ministeri-board"></a>**_Natural Heritage Ministerial Board_** means the Natural Heritage Ministerial Board established by section 40.
+                    <a name="natur-heritag-ministeri-board"></a>**_Natural Heritage Ministerial Board_** means the Natural Heritage Ministerial Board established by section 40.
 
                     <a name="natur-resourc-manag"></a>**_natural resources management_** has the meaning given by section 17.
 
@@ -950,19 +946,20 @@ the advertisement must include a statement to the effect that the proceeds of th
 
                      (b)  an amount received by the Commonwealth by way of the redemption of redeemable preference shares in Telstra held by the Commonwealth, where the redemption was in accordance with a Telstra sale scheme (within the meaning of the _Telstra Corporation Act 1991_).
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.
 
-                    <a name="sustain-agricultur"></a>**_sustainable agriculture_** has the meaning given by section 16.
+                    <a name="sustain-agricultur"></a>**_sustainable agriculture_** has the meaning given by section 16.
 
-                    <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
+                    <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
                     <a name="wast-minimis"></a>**_waste minimisation_** includes reduction of use, re-use and recycling.
 
-# Notes to the _Natural Heritage Trust of Australia Act 1997_
+
+# Notes to the _<span style="mso-no-proof: yes">Natural Heritage Trust of Australia Act 1997</span>_
 
 ### Note 1
 
-The _Natural Heritage Trust of__Australia__Act 1997_ as shown in this compilation comprises Act No. 76, 1997 amended as indicated in the Tables below.
+The _Natural Heritage Trust of_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_Act 1997_ as shown in this compilation comprises Act No. 76, 1997 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -977,185 +974,174 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="14%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>Natural Heritage Trust of Australia Act 1997</div>
-  </td>
-  <td>
-    <div>76, 1997</div>
-  </td>
-  <td>
-    <div>18 June 1997</div>
-  </td>
-  <td>
-    <div>18 June 1997</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1055): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telstra(Further Dilution of Public Ownership) Act 1999</div>
-  </td>
-  <td>
-    <div>53, 1999</div>
-  </td>
-  <td>
-    <div>5 July 1999</div>
-  </td>
-  <td>
-    <div>5 July 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
-  </td>
-  <td>
-    <div>92, 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 73): 16 July 2000 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 683–685): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
-  </td>
-  <td>
-    <div>163, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 3): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 211–255, 496); Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 393, 394): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>Natural Heritage Trust of <st1:country-region> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place> </st1:country-region>Act 1997</div>
+    </td>
+    <td>
+      <div>76, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="18" month="6">18 June 1997</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="18" month="6">18 June 1997</st1:date></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 1055): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Telstra(Further Dilution of Public Ownership) Act 1999</div>
+    </td>
+    <td>
+      <div>53, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="7">5 July 1999</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="7">5 July 1999</st1:date></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environmental Reform (Consequential Provisions) Act 1999</div>
+    </td>
+    <td>
+      <div>92, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="16" month="7">16 July 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 73): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="16" month="7">16 July 2000</st1:date> <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 683–685): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(c) <o:p></o:p> </i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
+    </td>
+    <td>
+      <div>163, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="21" month="12">21 Dec 2000</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 3): <i style="mso-bidi-font-style: normal">(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 211–255, 496); Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_     The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 2 (item 1055) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+<o:p> </o:p>
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
 
-_(b)_    The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 4 (item 73) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(a)_     The _Natural Heritage Trust of_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_Act 1997_ was amended by Schedule 2 (item 1055) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
+
+_(b)_    The _Natural Heritage Trust of_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_Act 1997_ was amended by Schedule 4 (item 73) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
-_(c)_     The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 1 (items 683–685) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(c)_     The _Natural Heritage Trust of_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_Act 1997_ was amended by Schedule 1 (items 683–685) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(d)_     The _Natural Heritage Trust of__Australia__Act 1997_ was amended by Schedule 2 (item 3) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
+_(d)_     The _Natural Heritage Trust of_<st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Australia_</st1:place></st1:country-region>_Act 1997_ was amended by Schedule 2 (item 3) only of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 
-Note:          See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.
+Note:<span style="mso-tab-count: 1">          </span>See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.<o:p></o:p>
 
-         The transfer day was 1 February 2001 (_see Gazette_ 2001, No. GN6).
+         The transfer day was <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="2">1 February 2001</st1:date> (_see Gazette_ 2001, No. GN6).
+
 
 ## Table of Amendments
 
@@ -1168,384 +1154,371 @@ Note:          See sections 12 and 13 for the transfer day, 
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed    rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b> Provision affected </b></div>
+      <div><b style="mso-bidi-font-weight: normal"> Provision affected <o:p></o:p>  </b></div>
     </td>
     <td>
-      <div><b> How affected </b></div>
+      <div><b style="mso-bidi-font-weight: normal"> How affected <o:p></o:p>  </b></div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 4, 5</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18–21</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 22</div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24–29</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40, 41</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 42</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 43</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. Nos. 92 and 146, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 52</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 163, 2000; No. 8, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Preamble </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 53, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2 </div>
+    </td>
+    <td>
+      <div>rs.  No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 4, 5 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 3 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18–21 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 4 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 22 </div>
+    </td>
+    <td>
+      <div>am. No. 53, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22 </div>
+    </td>
+    <td>
+      <div>am. No. 53, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22A </div>
+    </td>
+    <td>
+      <div>ad. No. 53, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 24–29 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 6 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 40, 41  </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 42 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 43 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 44 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45 </div>
+    </td>
+    <td>
+      <div>am. Nos. 92 and 146, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48 </div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51 </div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52 </div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 52 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 163, 2000; No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -1561,10 +1534,13 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
+## <o:p> </o:p>
+
+
+<o:p> </o:p>
