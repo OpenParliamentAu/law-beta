@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00507/Html/DirPubProsec1983_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00209/Html/DirPubProsec1983_WD02_image001.gif)
 
-# Director of Public Prosecutions Act 1983
+# Director of Public Prosecutions Act 1983 
 
 **Act No. 113 of 1983 as amended**
 
-This compilation was prepared on 11 November 2009
- taking into account amendments up to Act No. 106 of 2009
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
@@ -162,7 +162,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory.
 
              (2)  A reference in this Act to an appointment to prosecute offences against the laws of a State includes a reference to a commission or authority to prosecute such offences.
 
@@ -696,7 +696,7 @@ the Director may appear in person or may be represented:
 
                     <a name="state-territori-author"></a>**_State or Territory authority_** means the agency of a State or Territory Government that is responsible for commencing and carrying on prosecutions on indictment for breaches of State or Territory law.
 
-##### <a id="15A"></a>15A  Appearances on behalf of Director in summary or committal proceedings
+##### <a id="15A"></a>15A  Appearances on behalf of Director in summary or committal proceedings
 
                    Without limiting the class of persons who may represent the Director under section 15, in proceedings for the summary conviction of a person or for the commitment of a person for trial in respect of an indictable offence (whether the proceedings were instituted before or are instituted after the commencement of this section), the Director may be represented by a member of the Australian Federal Police, or a member of the police force of a State or Territory, whether or not the member concerned is a legal practitioner.
 
@@ -1786,23 +1786,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002 No. GN44)</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009</div>
-  </td>
-  <td>
-    <div>106, 2009</div>
-  </td>
-  <td>
-    <div>6 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Director of Public Prosecutions Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
@@ -2185,24 +2168,6 @@ _(n)_ The _Director of Public Prosecutions Act 1983_ was amended by Schedule 5
   </td>
 </tr></table>
 
-### Note 2
-
-_Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009 (No. 106, 2009)_
-
-The following amendment commences on 4 December 2009:
-
-## Schedule 1
-
-## 1  After subsection 6(2E)
-
-Insert:
-
-           (2F)  If a person is committed for trial before a court (the **_initial court_**) for one or more indictable offences against the laws of the Commonwealth, the Director may institute in another court (the **_later court_**) a prosecution of the person on indictment for any or all of the offences.
-
-          (2G)  Subsection (2F) applies even if the Director has instituted a prosecution (the **_initial prosecution_**) before the initial court for any or all of the offences. However, the Director must discontinue the initial prosecution in respect of each offence covered by the prosecution in the later court.
-
-As at 11 November 2009 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving and transitional provisions
@@ -2275,7 +2240,7 @@ _CSL Sale Act 1993 (No. 88, 1993)_
 
              (2)  In this section:
 
-                    <a name="dpp-act"></a>**_DPP Act_** means the _Director of Public Prosecutions Act 1983_.
+                    <a name="dpp-act"></a>**_DPP Act_** means the Director of Public Prosecutions Act 1983.
 
 * * *
 
