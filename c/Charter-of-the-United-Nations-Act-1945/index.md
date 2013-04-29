@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00147/Html/CharteroftheUnitedNations1945_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00080/Html/CharteroftheUnitedNations1945_WD02_image001.gif)
 
 # Charter of the United Nations Act 1945
 
 **Act No. 32 of 1945 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 24 March 2008
+ taking into account amendments up to Act No. 147 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -150,7 +150,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="charter-united-nation"></a>**_Charter of the United Nations_** means the Charter of the United Nations, done at San Francisco on 26 June 1945 \[1945] ATS 1.
 
-Note:          The text of the Charter of the United Nations is set out in Australian Treaty Series 1945 No. 1\. In 2007, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:          The text of the Charter of the United Nations is set out in Australian Treaty Series 1945 No. 1\. In 2007, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
                     <a name="commonwealth-entiti"></a>**_Commonwealth entity_** means:
 
@@ -434,7 +434,7 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
                      (a)  that the Security Council has made under Chapter VII of the Charter of the United Nations; and
 
-                     (b)  that Article 25 of the Charter requires Australia to carry out; and
+                     (b)  that Article 25 of the Charter requires   Australia to carry out; and
 
                      (c)  that relates to terrorism and dealings with assets; and
 
@@ -2544,7 +2544,7 @@ of Assent</div>
     <div>Ss. 4–14 and Schedule 3 (item 96): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -2558,7 +2558,7 @@ of Assent</div>
     <div>5 July 2002</div>
   </td>
   <td>
-    <div>13 Dec 2002 ( <i>see</i> <i>Gazette</i>2002, No. S471)</div>
+    <div>13 Dec 2002 ( <i>see</i> <i>Gazette</i>2002, No. S471)</div>
   </td>
   <td>
     <div>—</div>
@@ -2597,23 +2597,6 @@ of Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 7, 25) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 27): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2770,14 +2753,6 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
   </td>
   <td>
     <div>rs. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
