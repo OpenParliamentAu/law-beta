@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image001.gif)
 
 # Child Support (Assessment) Act 1989
 
 **Act No. 124 of 1989 as amended**
 
-This compilation was prepared on 30 June 2012
- taking into account amendments up to Act No. 98 of 2012
+This compilation was prepared on 1 June 2012
+ taking into account amendments up to Act No. 51 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -49,8 +49,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [10](#10).          Interpretation—meaning of _resident of Australia_
 
 [12](#12).          Interpretation—happening of child support terminating events
-
-[12A](#12A).       Use of computer programs to make decisions
 
 [13](#13).          Extension and application of Act in relation to maintenance of exnuptial children
 
@@ -1334,7 +1332,7 @@ Example—child support period for child support agreement setting child support
 
              (8)  If the child support agreement set the rate of child support payable for the next 2 years (so section 34A did not require the Registrar to make an administrative assessment on 20 October 2000 as described in subsection (5)), the child support period that started on 15 September 2000 would end 15 months later at the end of 14 December 2001 (unless Mary and Peter made another child support agreement to affect the rate of child support payable for a day before 15 December 2001).
 
-##### <a id="7B"></a>7B  Meaning of _eligible carer_
+##### <a id="7B"></a>7B  Meaning of _eligible carer_
 
              (1)  In this Act, **_eligible carer_**, in relation to a child, means a person who has at least shared care of the child.
 
@@ -1460,12 +1458,6 @@ Note:          Paragraph (1)(c) may be affected by section�
 
              (5)  A child support terminating event happens in relation to a child and the child’s parents if the parents become members of the same couple for a period of 6 months or more.
 
-##### <a id="12A"></a>12A  Use of computer programs to make decisions
-
-             (1)  The Secretary of the Department of which the Registrar is an employee may arrange for the use, under the Registrar’s control, of computer programs for any purposes for which the Registrar may make decisions under this Act.
-
-             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Registrar.
-
 ##### <a id="13"></a>13  Extension and application of Act in relation to maintenance of exnuptial children
 
 Extension of Act to States (except Western Australia)
@@ -1516,9 +1508,9 @@ Note:          See subsections (5A) and (5B) for the extensi
 
 Note:          If this Act is amended by one or more other Acts in relation to the maintenance of exnuptial children, unless and until one of the events mentioned in subsection (5A) occurs, there are effectively 2 versions of this Act that apply in Australia. This Act, as amended, applies:
 
-(a)    in all States and Territories in relation to children of marriages; and
+(a)           in all States and Territories in relation to children of marriages; and
 
-(b)    in all States and Territories, except Western Australia, in relation to exnuptial children.
+(b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
                    This Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made.
 
@@ -2098,9 +2090,9 @@ the child.</li>
 
 both parents’ incomes are taken into account in determining each parent’s
 
-capacity to meet the costs of their children, and each parent only has one child
+capacity to meet the costs of their children, and each parent only has one
 
-support case.</li>
+child support case.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Formulas 3 and 4 apply if
 
@@ -2180,7 +2172,7 @@ Step 7.   Work out the costs of the child for the day under sections 55G a
 
 Step 8.   If a parent has a positive child support percentage under step 6, the **_annual rate of child support_** payable by the parent for the child for the day is worked out using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image002.gif)
 
 * * *
 
@@ -2248,7 +2240,7 @@ Step 1A. Work out the costs of the child for the day under section 55HA.
 
 Step 1B. If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image002.gif)
 
 Step 2.   Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2272,7 +2264,7 @@ Note:          If a parent’s percentage of care for a child 
 
           (2B)  If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image003.gif)
 
              (3)  Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2332,7 +2324,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image004.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image004.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2370,7 +2362,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image005.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image005.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2410,7 +2402,7 @@ child support is payable to:
 
 then, the annual rate of child support for the child for a day in the child support period that each parent or non‑parent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image006.gif)
 
 Note:          Under section 40B, a non‑parent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
 
@@ -2502,7 +2494,7 @@ Single child support case—no relevant dependent children
 
 the parent’s **_child support income_** for the child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image007.gif)
 
 Single child support case—relevant dependent children
 
@@ -2514,7 +2506,7 @@ Single child support case—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image008.gif)
 
 Multiple child support cases—no relevant dependent children
 
@@ -2528,7 +2520,7 @@ Multiple child support cases—no relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image009.gif)
 
 Multiple child support cases—relevant dependent children
 
@@ -2542,7 +2534,7 @@ Multiple child support cases—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image010.gif)
 
 Negative result taken to be nil
 
@@ -2634,7 +2626,7 @@ Note:          This section does not limit the power under sec
 
                    A parent’s **_self‑support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image011.gif)
 
 Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
 
@@ -2662,7 +2654,7 @@ Step 4.   Work out the costs of the child for the day under sections 55G a
 
 Step 5.   Work out the following amount for the child for a day in the child support period:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image012.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image012.gif)
 
 * * *
 
@@ -2678,7 +2670,7 @@ _Method statement_
 
 Step 1.   Work out the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image013.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image013.gif)
 
 Step 2.   If the parent has a relevant dependent child, take the parent’s relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
 
@@ -3146,7 +3138,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
                    Work out each parent’s **_income percentage_** for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image014.gif)
 
 ##### <a id="55C"></a>55C  Working out cost percentages
 
@@ -3273,7 +3265,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (1)  Work out each parent’s **_child support percentage_** for a child for a day in the child support period using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image015.gif)
 
              (2)  A parent’s **_child support percentage_** for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
 
@@ -3289,7 +3281,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (2)  The parent’s **_multi‑case cap_** for the particular child for the day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image016.gif)
 
              (3)  For the purposes of paragraph (1)(c), a parent is taken to be assessed for a day in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child for the day under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -3599,7 +3591,7 @@ the Registrar may determine that the parent’s adjusted taxable income for the 
 
              (1)  The **_ATI indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image017.gif)
 
 where:
 
@@ -4575,7 +4567,7 @@ Note:          The annual rate of child support specified in s
 
              (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image018.gif)
 
           (4A)  For the purposes of subsection (4), if a parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction, then that child support is taken to be payable by the parent for those children under subsection (1).
 
@@ -4653,7 +4645,7 @@ Note:          The minimum annual rate of child support specif
 
 then the **_annual rate of child support_** payable by the parent for a day in the child support period for a particular child support case is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image019.gif)
 
           (6A)  For the purposes of subsection (6), if a parent is liable to pay child support for one or more children for a day under an administrative assessment under the law of a reciprocating jurisdiction, then the parent is taken to be assessed for the day in respect of the costs of children in a child support case.
 
@@ -4713,11 +4705,11 @@ Note:          If the Registrar refuses to grant an applicatio
 
              (3)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image020.gif)
 
           (3A)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image021.gif)
 
           (3B)  For the purposes of subsection (3A), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -5429,7 +5421,7 @@ Note:          Section 150A provides for the Registrar to sp
 
                    In determining whether an agreement made in relation to a child is an agreement referred to in paragraph 88(a), the Registrar may act on the basis of the application made to the Registrar for acceptance of the agreement, the documents accompanying the application and the agreement itself, and is not required to conduct any inquiries or investigations into the matter.
 
-##### <a id="92"></a>92  Decision on application
+##### <a id="92"></a>92  Decision on application
 
              (1)  Subject to this section, if the Registrar is satisfied that an application made to the Registrar for acceptance of an agreement made in relation to a child has been properly made, the Registrar must accept the agreement.
 
@@ -5919,7 +5911,7 @@ if a court has granted leave under section 112 for the determination to be mad
 
                    The parties to proceedings under this Part may, at any time before a determination is made in relation to the proceedings, enter into an agreement, purporting to be a child support agreement, in relation to the child support payable for the child in relation to whom the determination may be made.
 
-##### <a id="98U"></a>98U  Decision on child support agreement
+##### <a id="98U"></a>98U  Decision on child support agreement
 
              (1)  Subject to subsection (2), if the Registrar is satisfied that an agreement entered into by the parties to proceedings is a child support agreement, the Registrar must accept the agreement.
 
@@ -5987,11 +5979,11 @@ because the person is, or is not, a parent of the child.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A court may grant leave for
 
-the making of a departure determination under Part 6A, or a departure
+the making of a departure determination under Part 6A, or a departure order
 
-order under Division 4 of this Part, in relation to a period more than 18
+under Division 4 of this Part, in relation to a period more than 18 months
 
-months but less than 7 years earlier.</li>
+but less than 7 years earlier.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      In special circumstances, a
 
@@ -8341,7 +8333,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (2)  For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image022.gif)
 
 where:
 
@@ -8589,7 +8581,7 @@ request the person or authority to notify the Registrar, within 60 days and in t
 
 ##### <a id="162B"></a>162B  Regulations may prescribe manner of giving notices or other communications
 
-                   The regulations may provide for how a notice or other communication may be given to a person who is a resident of a reciprocating jurisdiction.
+                   The regulations may provide for how a notice or other communication may be given to a person who is a resident of a reciprocating jurisdiction.
 
 ##### <a id="162C"></a>162C  Requesting information for the purposes of a care percentage determination under the family assistance law
 
@@ -9693,7 +9685,7 @@ Remainder: Royal Assent</div>
     <div>S. 4, Sch. 1 (item 11), Sch. 2 (item 13), Sch. 3 (item 18) and Sch. 5 (items 
 18, 19, 21) 
 Sch. 5 (item 20) 
-(am. by 100, 2011, Sch. 1 \[item 4])</div>
+(am. by 100, 2011, Sch. 1 \[item 4])</div>
   </td>
 </tr>
 <tr>
@@ -9826,7 +9818,7 @@ Sch. 9 (ad. by 82, 2007, Sch. 1 \[item 21])</div>
     <div>Schedule 1 (items 1, 21, 80, 99, 100, 213, 214): ( <i>see</i>82, 2007 below)</div>
   </td>
   <td>
-    <div>Sch. 1 (item 80)</div>
+    <div>Sch. 1 (item 80)</div>
   </td>
 </tr>
 <tr>
@@ -9973,7 +9965,7 @@ S. 2(1) (am. by 73, 2008, Sch. 2 \[item 16])</div>
 Schedule 3 (items 32–49): 10 Dec 2008</div>
   </td>
   <td>
-    <div>Sch. 3 (items 11, 26, 29, 31, 49)</div>
+    <div>Sch. 3 (items 11, 26, 29, 31, 49)</div>
   </td>
 </tr>
 <tr>
@@ -10039,7 +10031,7 @@ Schedule 3 (items 32–49): 10 Dec 2008</div>
     <div>22 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 6 (items 14, 15) and Schedule 7 (item 33): 19 Apr 2011</div>
+    <div>Schedule 6 (items 14, 15) and Schedule 7 (item 33): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -10076,7 +10068,7 @@ Schedule 3 (items 32–49): 10 Dec 2008</div>
     <div>Schedule 2 (items 325–333) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -10113,24 +10105,6 @@ Schedule 4 (items 22–24): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 4 (items 2, 3, 18, 20, 21, 24)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>98, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 14–22): \[ <i>see</i>Note 3 and Table A] 
-Schedule 7 (item 16): 30 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item  22)</div>
   </td>
 </tr>
 <tr height="0">
@@ -11336,14 +11310,6 @@ _(sb)_   Subsection 2(1) (items 10 and 11) of the _Statute Law Revision Ac
   </td>
   <td>
     <div>ad. No. 120, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2012</div>
   </td>
 </tr>
 <tr>
@@ -17417,7 +17383,7 @@ Repeal the section, substitute:
 
                    A parent’s **_self‑support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image023.gif)
 
 Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
 
@@ -17469,7 +17435,7 @@ Repeal the subsection, substitute:
 
              (1)  The **_ATI indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00611/Html/32e93191-9edf-40da-82bb-c6a259ae8797_files/image024.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image024.gif)
 
 where:
 
@@ -17489,79 +17455,7 @@ where:
 
 Omit “September”, substitute “December”.
 
-As at 30 June 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 5
-
-## 14  Before subsection 51(2)
-
-Insert:
-
-2 percentages of care in relation to the responsible person
-
-## 15  Subsection 51(2)
-
-Omit “The”, substitute “Subject to subsection (5), the”.
-
-## 16  At the end of section 51
-
-Add:
-
-Single percentage of care in relation to the responsible person
-
-             (5)  If the Registrar is satisfied that special circumstances exist in relation to the child, the Registrar may determine, under section 49 or 50, a single percentage of care in relation to the responsible person.
-
-             (6)  The single percentage of care is to be:
-
-                     (a)  for a determination under section 49—0%; or
-
-                     (b)  for a determination under section 50—a percentage that corresponds with the actual care of the child that the Registrar is satisfied that the responsible person would be likely to have during the care period if the action referred to in paragraph (1)(d) were not to succeed.
-
-## 17  Before subsection 54C(1)
-
-Insert:
-
-2 percentages of care
-
-## 18  At the end of paragraph 54C(1)(b)
-
-Add “and”.
-
-## 19  After paragraph 54C(1)(b)
-
-Insert:
-
-                   (ba)  in accordance with subsection 51(2) or 52(2), 2 percentages of care are determined in relation to the responsible person;
-
-## 20  Subsection 54C(3)
-
-Omit “The”, substitute “Subject to subsection (5), the”.
-
-## 21  At the end of section 54C
-
-Add:
-
-             (5)  If the Registrar is satisfied that special circumstances exist in relation to the child, the day specified by the Registrar under subparagraph (2)(b)(i) may be a day that is earlier than the last day referred to in subsection (3).
-
-Single percentage of care
-
-             (6)  If:
-
-                     (a)  a determination of a responsible person’s percentage of care for a child is made under section 49 or 50; and
-
-                     (b)  section 51 applied in relation to the responsible person; and
-
-                     (c)  in accordance with subsection 51(5), a single percentage of care is determined in relation to the responsible person;
-
-the percentage of care applies to each day in a child support period on and from the application day unless a revocation of the determination under Subdivision C of this Division takes effect.
-
-As at 30 June 2012 the amendments are not incorporated in this compilation.
+As at 1 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -17994,7 +17888,7 @@ the Secretary may, under Division 1 of Part 5 of the _Social Security (Admin
 
                               (i)  having left Australia, the child has not returned before that date; or
 
-                             (ii)  having been born outside   Australia, the child has not subsequently come to Australia before that date;
+                             (ii)  having been born outside Australia, the child has not subsequently come to Australia before that date;
 
 the child is not, if that absence extends for a period of 3 years beginning on the first day of the absence, an FTB child at any time after the period of 3 years ends.
 
@@ -18448,7 +18342,7 @@ the service is treated as being an approved centre based long day care service u
 
 Family day care services
 
-(2)       If a childcare assistance agreement is in force in respect of a family day care service immediately before 1 July 2000, the service is treated as being an approved family day care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from  1 July 2000.
+(2)       If a childcare assistance agreement is in force in respect of a family day care service immediately before 1 July 2000, the service is treated as being an approved family day care service under section 195 of the Family Assistance Administration Act as amended by this Act with effect from 1 July 2000.
 
 Occasional care services
 
@@ -18672,9 +18566,9 @@ _Child Support Legislation Amendment (Reform of the Child Support Scheme—Initi
 
 Note:          If a Child Support Act is amended by this Act and any other later Act in relation to the maintenance of exnuptial children, unless and until one of the events mentioned in subsection (1) occurs, there are effectively 2 versions of the Child Support Act that apply in Australia. The Child Support Act, as amended, applies:
 
-(a)    in all States and Territories in relation to children of marriages; and
+(a)           in all States and Territories in relation to children of marriages; and
 
-(b)    in all States and Territories, except Western Australia, in relation to exnuptial children.
+(b)           in all States and Territories, except Western Australia, in relation to exnuptial children.
 
                    The Child Support Act continues to apply in Western Australia in relation to exnuptial children as if those amendments had not been made.
 
@@ -19522,18 +19416,6 @@ The following provision commences on 1 July 2013:
 ## 24  Application of amendments
 
 The amendments made by this Division apply in relation to child support periods starting on or after the commencement of this Division.
-
-* * *
-
-_Social Security and Other Legislation Amendment (2012 Budget and Other Measures) Act 2012 (No. 98, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 5
-
-## 22  Application provision
-
-The amendments made by items 14 to 21 apply in relation to care periods beginning on or after the commencement of those items (whether the care arrangement came into existence before, on or after that commencement).
 
 ## Table B
 
