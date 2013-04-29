@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00017/Html/MotorVehiclesStandards1989_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00571/Html/MotorVehiclesStandards1989_image001.gif)
 
 # Motor Vehicle Standards Act 1989
 
 **Act No. 65 of 1989 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 16 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Statement to accompany notice of decisions
 
-[41](#41).          Application of the Australian Consumer Law
+[41](#41).          Application of Trade Practices Act
 
 [42](#42).          Regulations
 
@@ -227,8 +227,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                      (a)  the Territory of Christmas Island; or
 
                      (b)  the Territory of Cocos (Keeling) Islands.
-
-                    <a name="australian-consum-law"></a>**_Australian Consumer Law_** means Schedule 2 to the _Competition and Consumer Act 2010_ as applied under Subdivision A of Division 2 of Part XI of that Act.
 
                     <a name="compon"></a>**_component_** includes an assembly.
 
@@ -1460,9 +1458,9 @@ the Federal Court may, on the application of the Minister or any other person, g
 
              (2)  Any contravention of subsection (1) in relation to a decision does not affect the validity of the decision.
 
-##### <a id="41"></a>41  Application of the Australian Consumer Law
+##### <a id="41"></a>41  Application of Trade Practices Act
 
-                   For the purpose of sections 106 and 122 (other than subsection 106(7)) of the Australian Consumer Law, a national standard (including a standard designed for a purpose referred to in paragraph (b) or (c) of the definition of **_vehicle standard_** in section 5 of this Act) is to be taken to be a safety standard (within the meaning of the Australian Consumer Law).
+                   For the purpose of sections 65C (other than subsection 65C(8)) and 65F of the _Trade Practices Act 1974_, a national standard (including a standard designed for a purpose referred to in paragraph (b) or (c) of the definition of **_vehicle standard_** in section 5 of this Act) is to be taken to be a prescribed consumer product safety standard.
 
 ##### <a id="42"></a>42  Regulations
 
@@ -1822,7 +1820,7 @@ Remainder: 24 May 2001</div>
       <div>13 July 2010</div>
     </td>
     <td>
-      <div>Schedule 6 (items 166–168): 1 Jan 2011</div>
+      <div>Schedule 6 (items 166–168): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -1934,7 +1932,7 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 23, 1990; No. 11, 1991 (as am. by No. 71, 1992); No. 104, 1992; No. 95, 1995; No. 8, 1999; Nos. 143 and 155, 2001; No. 103, 2010</div>
+    <div>am. No. 23, 1990; No. 11, 1991 (as am. by No. 71, 1992); No. 104, 1992; No. 95, 1995; No. 8, 1999; Nos. 143 and 155, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2659,18 +2657,10 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 41</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 23, 1990; No. 103, 2010</div>
+    <div>am. No. 23, 1990</div>
   </td>
 </tr>
 <tr>
@@ -2681,6 +2671,33 @@ _(h)_     The _Motor Vehicle Standards Act 1989_ was amended by Schedule
     <div>am. No. 95, 1995</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 166  Subsection 5(1)
+
+Insert:
+
+                    <a name="australian-consum-law"></a>**_Australian Consumer Law_** means Schedule 2 to the _Competition and Consumer Act 2010_ as applied under Subdivision A of Division 2 of Part XI of that Act.
+
+## 167  Section 41
+
+Omit “For the purpose of sections 65C (other than subsection 65C(8)) and 65F of the _Trade Practices Act 1974_”, substitute “For the purpose of sections 106 and 122 (other than subsection 106(7)) of the Australian Consumer Law”.
+
+_Note:       The heading to section 41 is altered by omitting “Trade Practices Act” and substituting “the Australian Consumer Law”._
+
+## 168  Section 41
+
+Omit “prescribed consumer product safety standard”, substitute “safety standard (within the meaning of the Australian Consumer Law)”.
+
+As at 16 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
