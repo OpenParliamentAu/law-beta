@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02560/Html/ScoutAss24_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02559/Html/ScoutAss24_image001.gif)
 
 # Scout Association Act 1924
 
 **Act No. 31 of 1924 as amended**
 
-This compilation was prepared on 16 October 2001
- taking into account amendments up to Act No. 140 of 2001
+This compilation was prepared on 20 February 2001
+ taking into account amendments up to Act No. 72 of 1984
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -17,23 +17,19 @@ Prepared by the Office of Legislative Drafting,
 
 [1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[1A](#1A).         Application of the _Criminal Code_                                                       1
-
-[2](#2).            Unauthorised use of name                                                                   2
+[2](#2).            Unauthorised use of name                                                                   1
 
 [3](#3).            Registration of uniforms                                                                      2
 
 [4](#4).            Unauthorised user of uniform                                                              2
 
-[5](#5).            No prosecution without consent of Minister                                      3
+[5](#5).            No prosecution without consent of Minister                                      2
 
 [6](#6).            Act not to apply to Lifesaving Scouts of Salvation Army                  3
 
 **Notes** 
 
- 
-
-## An Act to afford Protection to the Scout Association
+## An Act to afford Protection to the Scout Association 
 
 Preamble
 
@@ -50,12 +46,6 @@ BE it therefore enacted by the King’s Most Excellent Majesty, the Senate, and 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Scout Association Act 1924_.
-
-##### <a id="1A"></a>1A  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ##### <a id="2"></a>2  Unauthorised use of name
 
@@ -75,8 +65,6 @@ Provided that this section shall not authorise the use or registration of any un
 
                     Penalty:  Ten dollars 
 
-Note:          The defendant bears a legal burden in relation to the matter in this section, see section 13.4 of the _Criminal Code_.
-
 ##### <a id="5"></a>5  No prosecution without consent of Minister
 
                    No prosecution shall be instituted under this Act except with the consent of the Minister. 
@@ -90,8 +78,6 @@ Note:          The defendant bears a legal burden in relation 
 ### Note 1
 
 The _Scout Association Act 1924_ as shown in this compilation comprises Act No. 31, 1924 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -190,23 +176,6 @@ of Assent</div>
   <td>
     <div>S. 5(1)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>140, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_ By virtue of subsection 2(7) of the _Administrative Changes (Consequential Provisions) Act 1976_ the amendments made by that Act to the _Scout_ _Association Act 1924_ are deemed to have come into operation of 22 December 1975.
@@ -262,14 +231,6 @@ _(b)_    The _Scout Association Act 1924_ was amended by the Schedule only
 </tr>
 <tr>
   <td>
-    <div>S. 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 2</div>
   </td>
   <td>
@@ -294,31 +255,11 @@ _(b)_    The _Scout Association Act 1924_ was amended by the Schedule only
 </tr>
 <tr>
   <td>
-    <div>Note to s. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
     <div>am. No. 91, 1976</div>
   </td>
 </tr></table>
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
