@@ -1,77 +1,76 @@
 
+
 Environment Protection (Sea Dumping) Act 1981
+
 Act No. 101 of 1981 as amended
-This compilation was prepared on 17 July 2000 taking into account amendments up to Act No. 92 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Consolidated as in force on 30 October 1997
+(includes amendments up to Act No. 118 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+
 Contents
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Repeal	1
-4	Interpretation	1
-5	Exemption	5
-6	Operation of Act	5
-7	Act not to apply to Defence Force ships etc.	5
-8	Act to bind the Crown	5
-9	Declaration by Minister in relation to coastal waters of a State etc.	6
-9A	Dumping of radioactive material prohibited	7
-9B	Loading of radioactive material for dumping prohibited	7
-9C	Incineration at sea of radioactive material prohibited	7
-9D	Penalties for offence relating to radioactive material	7
-10	Dumping of wastes or other matter	8
-11	Dumping of vessels etc.	8
-12	Loading of wastes or other matter etc. for dumping etc.	8
-13	Penalties for certain offences	9
-14	Incineration at sea	9
-15	Defences to charge of an offence	10
-16	Restoration of environment	12
-17	Liability for expenses incurred by the Commonwealth resulting from dumping	12
-18	Application for permit	14
-19	Grant of permit	16
-20	Suspension and revocation of permits	20
-21	Conditions in respect of permits	21
-23	Applications to Minister to vary operation of permits	21
-24	Applications for review	22
-25	Matters to be published in Gazette	22
-26	Appointment of inspectors	22
-27	Inspectors ex officio	23
-28	Identity cards	23
-29	Boarding of vessels etc. by inspectors	23
-30	Access to premises	25
-31	Functions of inspector	26
-32	Powers of arrest of inspectors	26
-33	Injunction	27
-34	Delegation	28
-35	False statements	28
-36	Compliance with conditions of permit	29
-37	Indictable offences	29
-37A	No time limit for prosecution	30
-38	Evidence	30
-39	Evidence of analyst	31
-40	Fees	32
-41	 Regulations	33
-Schedule 1—Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter	34
-Schedule 2—Resolution adopted on 12 October 1978	48
-Schedule 3—Resolution adopted on 24 September 1980	56
-Schedule 3A—Amendments concerning phasing out sea disposal of industrial waste	58
-Schedule 3B—Amendments concerning incineration at sea	62
-Schedule 3C—Amendments concerning disposal at sea of radioactive wastes and other radioactive material	64
-Schedule 4—Protocol for the Prevention of Pollution of the South Pacific Region by Dumping	67
-Notes 		79
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Repeal	
+4	Interpretation	
+5	Exemption	
+6	Operation of Act	
+7	Act not to apply to Defence Force ships etc.	
+8	Act to bind the Crown	
+9	Declaration by Minister in relation to coastal waters of a State etc.	
+9A	Dumping of radioactive material prohibited	
+9B	Loading of radioactive material for dumping prohibited	
+9C	Incineration at sea of radioactive material prohibited	
+9D	Penalties for offence relating to radioactive material	
+10	Dumping of wastes or other matter	
+11	Dumping of vessels etc.	
+12	Loading of wastes or other matter etc. for dumping etc.	
+13	Penalties for certain offences	
+14	Incineration at sea	
+15	Defences to charge of an offence	
+16	Restoration of environment	
+17	Liability for expenses incurred by the Commonwealth resulting from dumping	
+18	Application for permit	
+19	Grant of permit	
+20	Suspension and revocation of permits	
+21	Conditions in respect of permits	
+23	Applications to Minister to vary operation of permits	
+24	Applications for review	
+25	Matters to be published in Gazette	
+26	Appointment of inspectors	
+27	Inspectors ex officio	
+28	Identity cards	
+29	Boarding of vessels etc. by inspectors	
+30	Access to premises	
+31	Functions of inspector	
+32	Powers of arrest of inspectors	
+33	Injunction	
+34	Delegation	
+35	False statements	
+36	Compliance with conditions of permit	
+37	Indictable offences	
+37A	No time limit for prosecution	
+38	Evidence	
+39	Evidence of analyst	
+40	Fees	
+41	Regulations	
+Schedule 1—Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter	
+Schedule 2—Resolution adopted on 12 October 1978	
+Schedule 3—Resolution adopted on 24 September 1980	
+Schedule 3A—Amendments concerning phasing out sea disposal of industrial waste	
+Schedule 3B—Amendments concerning incineration at sea	
+Schedule 3C—Amendments concerning disposal at sea of radioactive wastes and other radioactive material	
+Schedule 4—Protocol for the Prevention of Pollution of the South Pacific Region by Dumping	
 
 An Act providing for the protection of the environment by regulating the dumping into the sea, and the incineration at sea, of certain wastes and other matter and the dumping into the sea of certain other objects and by prohibiting the dumping into the sea, and the incineration at sea, of radioactive material, and for related purposes
 Do not delete : Chapter placeholder
 Do not delete : Part placeholder
 Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Environment Protection (Sea Dumping) Act 1981.
+This Act may be cited as the Environment Protection (Sea Dumping) Act 1981.
 2  Commencement [see Note 1]
-		This Act shall come into operation on a date to be fixed by Proclamation.
+This Act shall come into operation on a date to be fixed by Proclamation.
 3  Repeal
-		The following Acts are repealed: 
+The following Acts are repealed: 
 Beaches, Fishing Grounds and Sea Routes Protection Act 1932. Beaches, Fishing Grounds and Sea Routes Protection Act 1961.
 4  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
@@ -126,16 +125,16 @@ radioactive material means material that has an activity of more than 35 becquer
 SPREP Protocol means the Protocol for the Prevention of Pollution of the South Pacific Region by Dumping, a copy of the English text of which is set out in Schedule 4, as amended by any amendment to the SPREP Protocol that is accepted by Australia and a copy of the English text of which is set out in the regulations.
 territorial sea, in relation to Australia or to an external Territory, has the same meaning as it has for the purposes of the Seas and Submerged Lands Act 1973.
 	(2)	A reference in this Act to an offence shall be read as including a reference to an offence created by section 6, 7 or 7A of the Crimes Act 1914 in relation to this Act.
-	(3)	A reference in this Act to a member of the Australian Federal Police or to a member of a police force shall be read as including a reference to a special member of the Australian Federal Police.
+	 (3)	A reference in this Act to a member of the Australian Federal Police or to a member of a police force shall be read as including a reference to a special member of the Australian Federal Police.
 	(4)	Except so far as the contrary intention appears, an expression that is used both in this Act and in the Convention (whether or not a particular meaning is assigned to it by the Convention) has, in this Act, the same meaning as in the Convention.
 	(4A)	Except so far as the contrary intention appears, an expression that is used both in this Act and in the SPREP Protocol (whether or not a particular meaning is assigned to it by the SPREP Protocol) has, in this Act, the same meaning as in the SPREP Protocol.
 	(5)	For the purposes of this Act, where any matter or thing is disposed of from a vessel, an aircraft or a platform into part of the seabed or its subsoil, that matter or thing shall be taken to have been disposed of into the sea above that part.
 5  Exemption
-		This Act does not apply in relation to the disposal of wastes or other matter directly arising from, or related to, the exploration, exploitation and associated off-shore processing, of seabed mineral resources.
+This Act does not apply in relation to the disposal of wastes or other matter directly arising from, or related to, the exploration, exploitation and associated off-shore processing, of seabed mineral resources.
 6  Operation of Act
-		This Act applies both within and outside Australia and extends to every external Territory.
+This Act applies both within and outside Australia and extends to every external Territory.
 7  Act not to apply to Defence Force ships etc.
-		This Act does not apply in relation to a vessel, aircraft or platform belonging to an arm of the Defence Force or to the naval, military or air forces of a foreign country.
+This Act does not apply in relation to a vessel, aircraft or platform belonging to an arm of the Defence Force or to the naval, military or air forces of a foreign country.
 8  Act to bind the Crown
 	(1)	This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island but nothing in this Act renders the Commonwealth, a State, the Northern Territory or the Administration of Norfolk Island liable to be prosecuted for an offence.
 	(2)	Subsection (1) does not affect any liability of a person in charge of a vessel, aircraft or platform of which the Commonwealth, a State, the Northern Territory or the Administration of Norfolk Island is the owner to be prosecuted for an offence.
@@ -146,30 +145,30 @@ territorial sea, in relation to Australia or to an external Territory, has the s
 	(2)	Where a declaration is in force under subsection (1) in relation to the coastal waters of a State or of the Northern Territory, then, on and after the date specified in the declaration, a reference in this Act (other than section 9A, 9B, 9C, 9D, 12, 17 or 29) to Australian waters or to the sea shall be read as not including a reference to those coastal waters.
 	(3)	If, at any time on or after the date specified in a declaration in force under subsection (1) in relation to the coastal waters of a State or of the Northern Territory, the Minister is satisfied that the law of the State or of the Northern Territory, as the case may be, does not make provision for giving effect to the Convention and the SPREP Protocol in relation to those coastal waters, the Minister may, by notice published in the Gazette, revoke the declaration.
 9A  Dumping of radioactive material prohibited
-		Where any radioactive material:
+Where any radioactive material:
 	(a)	is dumped into Australian waters from any vessel or aircraft; or
 	(b)	is dumped into any part of the sea from any Australian vessel, Australian aircraft or Australian platform;
 the owner and the person in charge of the vessel, aircraft or platform and the owner of the material are each guilty of an offence against this section.
 9B  Loading of radioactive material for dumping prohibited
-		Where any radioactive material:
+Where any radioactive material:
 	(a)	is loaded on any vessel or aircraft in Australia or in Australian waters for the purpose of being dumped into the sea or being incinerated at sea; or
 	(b)	is loaded on any Australian vessel or Australian aircraft in, or in the territorial sea of, a foreign country for the purpose of being dumped into the sea or being incinerated at sea;
 the owner and the person in charge of the vessel or aircraft and the owner of the material are each guilty of an offence against this section.
 9C  Incineration at sea of radioactive material prohibited
-		Where the incineration of radioactive material is carried out on:
+Where the incineration of radioactive material is carried out on:
 	(a)	a vessel in Australian waters;
 	(b)	an Australian vessel in any part of the sea; or
 	(c)	an Australian platform;
 the owner and the person in charge of the vessel or platform and the owner of the material are each guilty of an offence against this section.
 9D  Penalties for offence relating to radioactive material
-		The penalty on conviction of an offence against section 9A, 9B or 9C is a fine not exceeding 500 penalty units.
+The penalty on conviction of an offence against section 9A, 9B or 9C is a fine not exceeding 500 penalty units.
 10  Dumping of wastes or other matter
-		Where, otherwise than in accordance with a permit, any wastes or other matter (other than radioactive material):
+Where, otherwise than in accordance with a permit, any wastes or other matter (other than radioactive material):
 	(a)	are, or is, dumped into Australian waters from any vessel or aircraft; or
 	(b)	are, or is, dumped into any part of the sea from any Australian vessel, Australian aircraft or Australian platform;
 the owner and the person in charge of the vessel, aircraft or platform and the owner of the wastes or other matter are each guilty of an offence against this section.
 11  Dumping of vessels etc.
-		Where, otherwise than in accordance with a permit:
+Where, otherwise than in accordance with a permit:
 	(a)	a vessel, aircraft or platform is dumped into Australian waters;
 	(b)	an Australian vessel, Australian aircraft or Australian platform is dumped into any part of the sea; or
 	(c)	a vessel, aircraft or platform is dumped into any part of the sea from an Australian vessel, Australian aircraft or Australian platform;
@@ -184,7 +183,7 @@ the owner and the person in charge of the vessel or aircraft and the owner of th
 	(a)	any wastes or other matter (other than radioactive material); or
 	(b)	any vessel, aircraft or platform.
 13  Penalties for certain offences
-		The penalty on conviction of an offence against section 10, 11 or 12 is a fine not exceeding:
+The penalty on conviction of an offence against section 10, 11 or 12 is a fine not exceeding:
 	(a)	where the offence relates to wastes or other matter to which Annex I to the Convention applies—500 penalty units; or
 	(b)	where the offence relates to wastes or other matter to which Annex II to the Convention applies—250 penalty units; or
 	(ba)	if the offence relates to wastes or other matter to which Annex I to the SPREP Protocol applies but neither Annex I nor II to the Convention applies—500 penalty units; or
@@ -224,7 +223,7 @@ and, in either case, that:
 	(c)	the dumping was so conducted as to minimize the likelihood of damage to human or marine life; and
 	(d)	a report of the dumping, setting out the prescribed information, was furnished to the Minister as soon as practicable after the occurrence of the dumping.
 16  Restoration of environment
-		Where:
+Where:
 	(a)	wastes or other matter are or is, or a vessel, aircraft or platform is, dumped into Australian waters; and
 	(b)	the Minister considers that that dumping is likely to:
 	(i)	cause an obstruction, or constitute a danger, to vessels;
@@ -266,12 +265,25 @@ the master and owner of the vessel or aircraft, as the case may be, are each gui
 	(5)	Where an applicant is required under subsection (4) to enter into an agreement with the Commonwealth providing for the undertaking of research or analysis as specified in the agreement, his or her application shall be deemed, for the purposes of section 19, not to have been duly made until the research or analysis, as the case may be, has been completed to the satisfaction of the Minister.
 19  Grant of permit
 	(1)	Subject to this section, the Minister may, in his or her discretion, grant, or refuse to grant, a permit to a person who has made an application in accordance with section 18.
-	(2)	The Minister must either grant or refuse to grant the permit within 90 days after the application is made.
-	(3)	However, if Subdivision A of Division 4 of Part 11 of the Environment Protection and Biodiversity Conservation Act 1999 applies in relation to the granting of the permit, the Minister must grant or refuse to grant the permit within whichever of the following periods ends later (or either of them if they end at the same time):
-	(a)	30 days after the day on which the Minister receives advice given under section 163 of that Act;
-	(b)	90 days after the application is made.
-Note:	Under Subdivision A of Division 4 of Part 11 of the Environment Protection and Biodiversity Conservation Act 1999, certain persons must get advice from the Minister administering that Subdivision before authorising an action. Under section 163 of that Act, that Minister must give advice within 30 days after receiving a report of an environmental assessment of the action.
-	(4)	Despite Subdivision A of Division 4 of Part 11 of the Environment Protection and Biodiversity Conservation Act 1999, that Subdivision does not apply in relation to the granting of a permit described in subsection (5) or (5A) if the Minister is of the opinion described in that subsection.
+	(2)	Subject to subsections (3), (4) and (4A), the Minister shall give a decision under subsection (1) on an application for a permit within 90 days after the application is made.
+	(3)	Where, within 90 days after an application for a permit is made, the Minister administering the Environment Protection (Impact of Proposals) Act 1974 directs that an inquiry be held under section 11 of that Act in relation to the conduct in respect of which the application is made, the Minister administering this Act shall give a decision under subsection (1) of this section on that application:
+	(a)	within 30 days after a report in relation to that inquiry is furnished under subsection 11(4) of that Act; or
+	(b)	within 90 days after the application is made;
+whichever period is the last to end.
+	(4)	Where:
+	(a)	within 90 days after an application for a permit is made, the Minister administering the Environment Protection (Impact of Proposals) Act 1974, in accordance with procedures approved for the purposes of that Act, directs the submission to him or her of an environmental impact statement in relation to the conduct in respect of which the application is made; and
+	(b)	subsection (3) is not applicable;
+the Minister administering this Act shall give a decision under subsection (1) on the application:
+	(c)	within 30 days after the completion of all procedures under the Environment Protection (Impact of Proposals) Act 1974 in connection with the environmental impact statement referred to in paragraph (a); or
+	(d)	within 90 days after the application is made;
+whichever period is the last to end.
+	(4A)	 Where:
+	(a)	within 90 days after an application for a permit is made, the Minister administering the Environment Protection (Impact of Proposals) Act 1974, in accordance with procedures approved for the purposes of that Act, directs the submission to him or her of a public environment report in relation to the conduct in respect of which the application is made; and
+	(b)	neither of subsections (3) and (4) is applicable;
+the Minister administering this Act must give a decision under subsection (1) on the application:
+	(c)	within 30 days after the completion of all procedures under the Environment Protection (Impact of Proposals) Act 1974 in connection with the public environment report referred to in paragraph (a); or
+	(d)	within 90 days after the application is made;
+		whichever period is the last to end.
 	(5)	A permit for dumping or loading shall not be granted in respect of any wastes or other matter to which Annex I to the Convention applies except where, in the opinion of the Minister, there is an emergency posing an unacceptable risk relating to human health and admitting of no other feasible solution.
 	(5A)	A permit for dumping or loading must not be granted in respect of any wastes or other matter to which Annex I to the SPREP Protocol applies except if, in the Minister’s opinion, there is an emergency posing an unacceptable risk relating to human health and admitting of no other feasible solution.
 	(6)	In considering the granting of a permit for dumping or loading, the Minister shall have regard to:
@@ -317,21 +329,21 @@ Note:	Under Subdivision A of Division 4 of Part 11 of the Environment Protection
 		as the case may be; or
 	(b)	if he or she is not so satisfied—refuse to grant the application.
 24  Applications for review
-	(1)	Applications may be made to the Administrative Appeals Tribunal for review of decisions by the Minister under section 19, 20, 21 or 23.
+	(1)	Applications may be made to the Administrative Appeals Tribunal for review of decisions by the Minister under section 19, 20, 21 or 23.
 	(2)	Subsection (1) does not apply in relation to:
-	(a)	a decision by the Minister under section 19 in connection with an application for a permit where an inquiry has been held under Part 8 of the Environment Protection and Biodiversity Conservation Act 1999 (as it applies of its own force or because of Subdivision A of Division 4 of Part 11 of that Act) in relation to the conduct in respect of which the application is made; or
+	(a)	a decision by the Minister under section 19 in connection with an application for a permit where an inquiry has been directed to be held under section 11 of the Environment Protection (Impact of Proposals) Act 1974 in relation to the conduct in respect of which the application is made; or
 	(b)	a decision by the Minister under section 19 refusing to grant a permit on the ground that such a refusal is required to comply with subsection 19(5) or (5A).
 25  Matters to be published in Gazette
-		The Minister shall cause to be published in the Gazette particulars of:
+The Minister shall cause to be published in the Gazette particulars of:
 	(a)	applications for permits;
 	(b)	permits granted and any conditions imposed in respect of those permits;
 	(c)	refusals to grant permits;
 	(d)	any revocation, suspension, or cancellation of the suspension, of a permit; and
 	(e)	any revocation, suspension or variation, or any cancellation of a suspension, of a condition imposed in respect of a permit.
 26  Appointment of inspectors
-		The Minister may, by instrument in writing, appoint a person as an inspector.
+The Minister may, by instrument in writing, appoint a person as an inspector.
 27  Inspectors ex officio
-		By force of this section, any member of the Australian Federal Police or of the police force of a Territory is an inspector.
+By force of this section, any member of the Australian Federal Police or of the police force of a Territory is an inspector.
 28  Identity cards
 	(1)	The Minister may cause to be issued to an inspector, other than a member of a police force, an identity card in a form approved by the Minister.
 	(2)	Where a person in possession of an identity card issued to him or her under subsection (1) ceases to be an inspector, he or she shall forthwith return the identity card to the Minister.
@@ -412,7 +424,7 @@ is guilty of an offence against this subsection punishable, on conviction by imp
 	(b)	furnishes to an inspector doing duty in relation to this Act a document that, to the knowledge of the person, contains information that is false or misleading in a material particular;
 is guilty of an offence against this subsection punishable, on conviction, by a fine not exceeding 10 penalty units.
 36  Compliance with conditions of permit
-		The holder of a permit who contravenes, or fails to comply with, a condition imposed in respect of the permit is guilty of an offence punishable, on conviction, by a fine not exceeding:
+The holder of a permit who contravenes, or fails to comply with, a condition imposed in respect of the permit is guilty of an offence punishable, on conviction, by a fine not exceeding:
 	(a)	if the person is a natural person—50 penalty units; or
 	(b)	if the person is a body corporate—500 penalty units.
 37  Indictable offences
@@ -420,9 +432,9 @@ is guilty of an offence against this subsection punishable, on conviction, by a 
 	(2)	Notwithstanding that an offence referred to in subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 	(3)	Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence against section 9A, 9B, 9C, 10, 11, 12 or 14 or subsection 17(5), the penalty that the court may impose is a fine not exceeding 20 penalty units.
 	(4)	Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence against subsection 35 (1), the penalty that the court may impose is imprisonment for a term not exceeding 12 months.
-	(5)	 For the purposes of this section, an offence created by section 7 of the Crimes Act 1914 shall, to the extent that it relates to an offence against a provision referred to in subsection (1), be deemed to be an offence against that provision.
+	 (5)	 For the purposes of this section, an offence created by section 7 of the Crimes Act 1914 shall, to the extent that it relates to an offence against a provision referred to in subsection (1), be deemed to be an offence against that provision.
 37A  No time limit for prosecution
-		A prosecution for an offence against this Act may be brought at any time.
+A prosecution for an offence against this Act may be brought at any time.
 38  Evidence
 	(1)	In any proceedings for an offence against this Act:
 	(a)	any record kept in pursuance of the regulations is admissible as prima facie evidence of the facts stated in the record;
@@ -441,7 +453,7 @@ and the certificate is prima facie evidence of the matters stated in it.
 39  Evidence of analyst
 	(1)	The Minister may appoint a person to be an analyst for the purposes of this Act.
 	(2)	Subject to subsection (4), a certificate signed by an analyst appointed under subsection (1) setting out, in relation to a substance, one or more of the following:
-	(a)	that he or she is appointed as the analyst under subsection (1);
+	(a)	that he or she is appointed as the analyst under subsection (1);
 	(b)	when and from whom the substance was received;
 	(c)	what labels or other means of identification accompanied the substance when it was received;
 	(d)	what container the substance was in when it was received;
@@ -465,6 +477,7 @@ is admissible in any proceeding for an offence against this Act as prima facie e
 	(a)	providing for the manner of service of notices under this Act; and
 	(b)	providing for the imposition of penalties not exceeding 10 penalty units.
 	(2)	Regulations under subsection (1) may declare that a specified area of sea on the seaward side of the territorial sea of Australia or the territorial sea of an external Territory is included in Australian waters for the purposes of this Act. 
+
 Schedule 1—Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter
 Section 4 
 THE CONTRACTING PARTIES TO THIS CONVENTION, 
@@ -663,8 +676,8 @@ C—General considerations and conditions
 2.	Possible effects on marine life, fish and shellfish culture, fish stocks and fisheries, seaweed harvesting and culture. 
 3.	Possible effects on other uses of the sea (e.g. impairment of water quality for industrial use, underwater corrosion of structures, interference with ship operations from floating materials, interference with fishing or navigation through deposit of waste or solid objects on the sea floor and protection of areas of special importance for scientific or conservation purposes). 
 4.	The practical availability of alternative land-based methods of treatment, disposal or elimination, or of treatment to render the matter less harmful for dumping at sea. 
-Schedule 2—Resolution adopted on 
-	12 October 1978 
+
+Schedule 2—Resolution adopted on 12 October 1978 
 Section 4 
 THE THIRD CONSULTATIVE MEETING, 
 RECALLING Article I of the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, which provides that Contracting Parties shall individually and collectively promote the effective control of all sources of pollution of the marine environment, 
@@ -771,7 +784,8 @@ Incineration Sites
 REGULATION 9 
 Notification 
 Contracting Parties shall comply with notification procedures adopted by the Parties in consultation. 
-Schedule 3—Resolution adopted on 24 September 1980
+
+Schedule 3—Resolution adopted on 24 September 1980
 Section 4 
 THE FIFTH CONSULTATIVE MEETING, 
 Recalling Article I of the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, which provides that Contracting Parties shall individually and collectively promote the effective control of all sources of pollution of the marine environment, 
@@ -791,6 +805,7 @@ Paragraph 5 of Annex I shall be amended as follows :
 	“5	Crude oil and its wastes, refined petroleum products, petroleum distillate residues, and any mixtures containing any of these, taken on board for the purposes of dumping.” 
 The following paragraph shall be added to Annex II : 
 	“F	Substances which, though of a non-toxic nature, may become harmful due to the quantities in which they are dumped, or which are liable to seriously reduce amenities.” 
+
 Schedule 3A—Amendments concerning phasing out sea disposal of industrial waste
 Note:	See section 4.
 ANNEX 3
@@ -841,6 +856,7 @@ ANNEX II
 	Materials which, though of a non-toxic nature, may become harmful due to the quantities in which they are dumped, or which are liable to seriously reduce amenities.
 Note:	A declaration dated 11 February 1994 was deposited for Australia with the Secretary‑General of the IMO on 15 February 1994 and stated the following:
 	“Australia accepts the prohibition on the dumping of industrial wastes at sea as from 1 January 1996 as envisaged in resolution LC.49(16) for all types of industrial wastes as defined by the resolution with the exception of jarosite waste for which it is necessary, for technical reasons which will be elaborated at future meetings of the London Convention, to retain the option of dumping at sea for a short period after the expiration of the deadline set down in resolution LC.49(16). Under no circumstances will the dumping at sea of jarosite be permitted by the Australian Government beyond 31 December 1997.”.
+
 Schedule 3B—Amendments concerning incineration at sea
 Note:	See section 4.
 ANNEX 4
@@ -865,6 +881,7 @@ The existing text of Annex I, paragraph 10 is replaced by the following:
 	(d)	For the purpose of this Annex:
 	(i)	“Marine incineration facility” means a vessel, platform, or other man-made structure operating for the purpose of incineration at sea.
 	(ii)	“Incineration at sea” means the deliberate combustion of wastes or other matter on marine incineration facilities for the purpose of their thermal destruction. Activities incidental to the normal operation of vessels, platforms or other man‑made structures are excluded from the scope of this definition.”
+
 Schedule 3C—Amendments concerning disposal at sea of radioactive wastes and other radioactive material
 Note:	See section 4.
 ANNEX 5
@@ -872,6 +889,7 @@ RESOLUTION LC.51(16)
 
 AMENDMENTS TO THE ANNEXES TO THE CONVENTION ON THE PREVENTION OF MARINE POLLUTION BY DUMPING OF WASTES AND OTHER MATTER, 1972 CONCERNING DISPOSAL AT SEA OF RADIOACTIVE WASTES AND OTHER RADIOACTIVE MATTER
 (London, 12 November 1993)
+
 THE SIXTEENTH CONSULTATIVE MEETING,
 RECALLING Articles I and II of the Convention on the Prevention of Marine Pollution by Dumping of Wastes and other Matter which state, inter alia, that Contracting Parties shall individually and collectively promote the effective control of all sources of pollution of the marine environment and that they shall harmonize their policies to prevent marine pollution caused by dumping,
 BEING AWARE that the dumping of high level radioactive wastes or other high level radioactive matter is prohibited under Article IV in connection with Annex I, paragraph 6 of the Convention,
@@ -904,6 +922,7 @@ ANNEX I
 “12.	Within 25 years from the date on which the amendment to paragraph 6 enters into force and at each 25 year interval thereafter, the Contracting Parties shall complete a scientific study relating to all radioactive wastes and other radioactive matter other than high level radioactive wastes or matter, taking into account such other factors as the Contracting Parties consider appropriate, and shall review the position of such substances in Annex I in accordance with the procedures set forth in Article XV.”
 ANNEX II
 The present text of Annex II, Section D is deleted and the subsequent sections are redesignated accordingly.
+
 Schedule 4—Protocol for the Prevention of Pollution of the South Pacific Region by Dumping 
 Section 4 
 THE PARTIES TO THE PROTOCOL,
@@ -911,7 +930,7 @@ BEING PARTIES to the Convention for the Protection of the Natural Resources and 
 RECOGNIZING the danger posed to the marine environment by pollution caused by the dumping of waste or other matter; 
 CONSIDERING that they have a common interest to protect the South Pacific Region from this danger, taking into account the unique environmental quality of the region; 
 DESIRING to enter into a regional agreement consistent with the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972 as provided in article VIII thereof according to which the Contracting Parties to that Convention have undertaken to endeavour to act consistently with the objectives and provisions of such regional agreement; 
-HAVE AGREED AS FOLLOWS: 
+	HAVE AGREED AS FOLLOWS: 
 Article 1 
 DEFINITIONS 
 For the purpose of this Protocol “Convention” means the Convention for the Protection of the Natural Resources and Environment of the South Pacific Region adopted in Noumea, New Caledonia on the twenty-fourth day of November in the year one thousand nine hundred and eighty-six. 
@@ -1030,6 +1049,7 @@ zinc
 
 
 
+
 and their compounds
 
 
@@ -1103,16 +1123,18 @@ a	the ability to accumulate to harmful levels in terms of toxicity to marine org
 b	the ability to accumulate through marine pathways to levels harmful in terms of carcinogenicity or mutagenicity to domestic animals or to man; or 
 c	the ability to cause interference with fisheries, amenities or other legitimate uses of the sea. 
 3.	Annex II substances are all those considered suitable for inclusion in the Annexes except for those allocated to Annex I. 
-Notes to the Environment Protection (Sea Dumping) Act 1981
-Note 1
-The Environment Protection (Sea Dumping) Act 1981 as shown in this compilation comprises Act No. 101, 1981 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
+
+NOTES
+1.	The Environment Protection (Sea Dumping) Act 1981 as shown in this reprint comprises Act No. 101, 1981 amended as indicated in the Tables below.
+	For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Environment Protection (Sea Dumping) Act 1981
 101, 1981
 24 June 1981
@@ -1147,26 +1169,20 @@ Environment Protection (Sea Dumping) Amendment Act 1993
 16, 1994
 19 Jan 1994
 19 Jan 1995
-Ss. 4(2)-(5)
+Ss. 4(2)-(5) [see Table A]
 Environment, Sport and Territories Legislation Amendment Act 1997
 118, 1997
 7 July 1997
 Schedule 1 (items 27-35): Royal Assent (b)
-Sch. 1 (item 30)
-Environmental Reform (Consequential Provisions) Act 1999
-92, 1999
-16 July 1999
-Schedule 3 (items 38-40): 16 July 2000 (c)
-
-Sch. 3 (item 40) 
+Sch. 1 (item 30) [see Table A]
 (a)	The Arts, Territories and Environment Legislation Amendment Act 1989 was amended by Schedule 3 (item 3) only of the Statute Law Revision Act 1996, subsection 2(3) of which provides as follows:
-	(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+	“(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.”
 (b)	The Environment Protection (Sea Dumping) Act 1981 was amended by Schedule 1 (items 27-35) only of the Environment, Sport and Territories Legislation Amendment Act 1997, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
-(c)	The Environment Protection (Sea Dumping) Act 1981 was amended by Schedule 3 (items 38 and 39) only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences when the Environment Protection and Biodiversity Conservation Act 1999 commences.
+	“(1)	Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.”
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 Provision affected
 How affected
 Title	
@@ -1198,7 +1214,7 @@ am. No. 141, 1986; No. 60, 1989; No. 16, 1994; No. 118, 1997
 S. 18	
 am. No. 118, 1997
 S. 19	
-am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 92, 1999
+am. No. 141, 1986; No. 16, 1994; No. 118, 1997
 S. 20	
 am. No. 118, 1997
 S. 22	
@@ -1206,7 +1222,7 @@ rep. No. 141, 1986
 S. 23	
 am. No. 118, 1997
 S. 24	
-am. No. 16, 1994; No. 92, 1999
+am. No. 16, 1994
 Ss. 28, 29	
 am. No. 16, 1994; No. 118, 1997
 Ss. 30-32	
@@ -1239,21 +1255,17 @@ Schedule 3C
 ad. No. 118, 1997
 Schedule 4	
 ad. No. 16, 1994 
-Table A
-Application, saving or transitional provisions
+TABLE A
+Application, Saving or Transitional Provisions
 Environment Protection (Sea Dumping) Amendment Act 1993 (No. 16, 1994)
 4  Declaration by Minister in relation to coastal waters of a State etc.
-	(2)	Subsections (3), (4) and (5) apply to a declaration in relation to a State or the Northern Territory in force under section 9 of the Principal Act immediately before the commencement of this section.
-	(3)	Subject to subsection (4), the declaration remains in force despite the amendments of section 9 of the Principal Act made by this section.
-	(4)	If, after the end of the period of 12 months beginning on the day on which this section commences, the Minister is not satisfied that the laws of the State or the Northern Territory have made provision for giving effect to the SPREP Protocol in relation to the coastal waters of that State or Territory, the Minister must, by notice in the Gazette, revoke the declaration.
-	(5)	Subsection (4) does not, by implication, limit the Minister’s power to revoke a declaration.
+(2)	Subsections (3), (4) and (5) apply to a declaration in relation to a State or the Northern Territory in force under section 9 of the Principal Act immediately before the commencement of this section.
+(3)	Subject to subsection (4), the declaration remains in force despite the amendments of section 9 of the Principal Act made by this section.
+(4)	If, after the end of the period of 12 months beginning on the day on which this section commences, the Minister is not satisfied that the laws of the State or the Northern Territory have made provision for giving effect to the SPREP Protocol in relation to the coastal waters of that State or Territory, the Minister must, by notice in the Gazette, revoke the declaration.
+(5)	Subsection (4) does not, by implication, limit the Minister’s power to revoke a declaration.
 
-Environment, Sport and Territories Legislation Amendment Act 1997 (No. 118, 1997)
+Environment, Sport and Territories Legislation Amendment Act 1997 (No. 118, 1997)
 Schedule 1
 30  Application of amendments made by items 28 and 29
-		The amendments made by items 28 and 29 do not apply to applications received before the commencement of those items.
+The amendments made by items 28 and 29 do not apply to applications received before the commencement of those items.
 
-Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)
-Schedule 3
-40  Application
-The amendments of the Environment Protection (Sea Dumping) Act 1981 made by this Schedule apply in relation to applications for permits under that Act made after the commencement of the Environment Protection and Biodiversity Conservation Act 1999.
