@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00612/Html/DevAllowanceAuth92_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00528/Html/DevAllowanceAuth92_image001.gif)
 
 # Development Allowance Authority Act 1992
 
 **Act No. 99 of 1992 as amended**
 
-This compilation was prepared on 4 October 2007
- taking into account amendments up to Act No. 164 of 2007
+This compilation was prepared on 25 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -294,7 +294,7 @@ Note:       As a result of amendments made by the _Taxation Laws Ame
 
                     <a name="associ"></a>**_associate_** has the same meaning as in subsection 26AAB(14) of the Tax Act.
 
-                    <a name="australia"></a>**_Australia_** has the same meaning as in Subdivision B of Division 3 of Part III of the Tax Act.
+                    <a name="australia"></a>**_Australia_** has the same meaning as in Subdivision B of Division 3 of Part III of the Tax Act.
 
                     <a name="borrow-requir-period"></a>**_borrower requirement period_**, in relation to a direct infrastructure borrowing, means the period from the time of the borrowing until:
 
@@ -358,7 +358,7 @@ if the lease, easement, right, power or privilege was granted by:
 
                      (b)  a body to which section 50-25 of the _Income Tax Assessment Act 1997_ applies; or
 
-                     (c)  an STB (within the meaning of Division 1AB of Part III of the _Income Tax Assessment Act 1936_) the income of which is wholly exempt from tax.  
+                     (c)  an STB (within the meaning of Division 1AB of Part III of the _Income Tax Assessment Act 1936_) the income of which is wholly exempt from tax.  
 
                     <a name="indirect-infrastructur-borrow"></a>**_indirect infrastructure borrowing_** has the meaning given by section 93G.
 
@@ -662,7 +662,7 @@ that person, or that person and the associates, must not intend, at the time of 
 
                      (b)  the ownership, use for gaining or producing assessable income and effective control will continue for at least 25 years after the first such use by the borrower of any of the facilities concerned after their construction or acquisition; and
 
-                     (c)  it will not do anything that will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned.
+                     (c)  it will not do anything that will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned.
 
 \[Intention to sell]
 
@@ -682,7 +682,7 @@ It is not necessary that the identity of the person be known by the borrower at 
 
                      (b)  it will then transfer all of its rights, interests and obligations in respect of the facilities to another person who will be able to satisfy the requirements of section 93V for the transfer of the borrower’s certificate; and
 
-                     (c)  it will not do anything during the period before the transfer that will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of those facilities.
+                     (c)  it will not do anything during the period before the transfer that will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of those facilities.
 
 It is not necessary that the length of the period or the identity of the person be known at the time of the borrowing.
 
@@ -978,11 +978,7 @@ Certain past advice ineffective
 
                                          (F)  any other matter; and
 
-                             (v)  if the certificate applies to a direct infrastructure borrowing—not do anything that:
-
-                                        (A)  will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned; or
-
-                                        (B)  would have caused section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned if the amendments made by Part 2 of Schedule 1 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_ had not been made; and
+                             (v)  if the certificate applies to a direct infrastructure borrowing—not do anything that will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned; and
 
                             (vi)  in any case—keep proper records in respect of all dealings by the holder with the borrowed money and the doing of all other things specified in the application (for example, in respect of things done in constructing any facility);
 
@@ -990,11 +986,7 @@ Certain past advice ineffective
 
                               (i)  own, use principally for gaining or producing assessable income and effectively control the use of, the facilities concerned (other than by leasing them) until at least 25 years after the first use of any of the facilities concerned after their construction or acquisition under the borrowing; and
 
-                             (ii)  not do anything that:
-
-                                        (A)  will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned; or
-
-                                        (B)  would have caused section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned if the amendments made by Part 2 of Schedule 1 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_ had not been made; and
+                             (ii)  not do anything that will cause section 51AD of the Tax Act or Division 16D of Part III of that Act to apply to any of the facilities concerned; and
 
                             (iii)  keep proper records in respect of the ownership, use and control of the facilities concerned.
 
@@ -1036,7 +1028,7 @@ Conditions not to be varied unless reduction unlikely
 
 Objections
 
-             (6)  If the applicant is dissatisfied with the determination by the Commissioner, the applicant may object against it in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
+             (6)  If the applicant is dissatisfied with the determination by the Commissioner, the applicant may object against it in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
 
 ##### <a id="93TB"></a>93TB  Reconsideration of pre-commencement variations
 
@@ -1050,7 +1042,7 @@ Commissioner to advise of determination
 
 Application of subsections 93TA(3) and (6) etc.
 
-             (3)  Subsections 93TA(3) and (6), and Part IVC of the _Taxation Administration Act 1953_, apply in the same way to the Commissioner’s advice as they do to a determination under subsection 93TA(2).
+             (3)  Subsections 93TA(3) and (6), and Part IVC of the _Taxation Administration Act 1953_, apply in the same way to the Commissioner’s advice as they do to a determination under subsection 93TA(2).
 
 Effect of advice
 
@@ -1378,7 +1370,7 @@ report in writing to the DAA on things done, during the reporting year concerned
 
                      (c)  all certificates cancelled; and
 
-                     (d)  all other matters relevant to the operation of Division 16L of Part III of the Tax Act.
+                     (d)  all other matters relevant to the operation of Division 16L of Part III of the Tax Act.
 
 ## Part 6—DAA’s power to facilitate issue or transfer of certificate
 
@@ -1402,7 +1394,7 @@ report in writing to the DAA on things done, during the reporting year concerned
 
                     <a name="partnership"></a>**_partnership_** has the same meaning as in section 6 of the _Income Tax Assessment Act 1936_.
 
-                    <a name="prosecut-provision"></a>**_prosecution provisions_** means Part III of the _Taxation Administration Act 1953_, in so far as that Part applies in relation to this Act.
+                    <a name="prosecut-provision"></a>**_prosecution provisions_** means Part III of the _Taxation Administration Act 1953_, in so far as that Part applies in relation to this Act.
 
                     <a name="review-decision"></a>**_reviewable decision_** means a decision of the DAA under Part 2, 3, 4, 5, 6 or 8 of Chapter 2, Part 3 of Chapter 3 or Part 4 of Chapter 4.
 
@@ -2181,23 +2173,6 @@ Schedule 3 (items 66, 67): ( <i>d</i>)</div>
     <div>Sch. 6 (items 1, 
 6–11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2007 Measures No. 5) Act 2007</div>
-  </td>
-  <td>
-    <div>164, 2007</div>
-  </td>
-  <td>
-    <div>25 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 25, 26): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Development Allowance Authority Amendment Act 1992_ provides as follows:
@@ -2227,7 +2202,7 @@ _(d)_     The _Development Allowance Authority Act 1992_ was amended by 
 
                  (3)   Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
 
-_(e)_     The _Development Allowance Authority Act 1992_ was amended by Schedule 1 (items 
+_(e)_     The _Development Allowance Authority Act 1992_ was amended by Schedule 1 (items 
  387–389) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
@@ -2263,7 +2238,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </thead>
 <tr>
   <td>
-    <div><b>Chapter 1</b></div>
+    <div><b>Chapter 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3247,7 +3222,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Chapter 3</b></div>
+    <div><b>Chapter 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3263,7 +3238,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3303,7 +3278,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3391,7 +3366,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3407,7 +3382,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3439,31 +3414,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div>S. 93Q</div>
-  </td>
-  <td>
-    <div>ad. No. 163, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93R</div>
-  </td>
-  <td>
-    <div>ad. No. 163, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93S</div>
+    <div>Ss. 93Q–93S</div>
   </td>
   <td>
     <div>ad. No. 163, 1994</div>
@@ -3535,7 +3486,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3583,7 +3534,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
     <div> </div>
@@ -3607,7 +3558,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
     <div></div>
@@ -3631,7 +3582,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
@@ -3655,7 +3606,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Chapter 4</b></div>
+    <div><b>Chapter 4</b></div>
   </td>
   <td>
     <div></div>
@@ -3679,7 +3630,7 @@ _(f)_ The _Development Allowance Authority Act 1992_ was amended by Schedule 4
 </tr>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3704,7 +3655,7 @@ Chapt. 4</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3761,7 +3712,7 @@ Chapt. 4</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3787,7 +3738,7 @@ No. 163, 1994</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
     <div></div>
@@ -3829,7 +3780,7 @@ No. 163, 1994</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
     <div></div>
@@ -3863,7 +3814,7 @@ No. 163, 1994</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
@@ -3897,7 +3848,7 @@ No. 163, 1994</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 7</b></div>
+    <div><b>Part 7</b></div>
   </td>
   <td>
     <div></div>
@@ -3979,7 +3930,7 @@ Except as mentioned in items 2 and 3, the repeals and amendments made by Sched
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
-## 6  Object
+## 6  Object
 
 The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
 
@@ -4003,15 +3954,15 @@ in relation to any act done or omitted to be done, any state of affairs existing
 
 Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
+                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
