@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00670/Html/e5987d66-3496-48db-b7fd-6bce9f47cc54_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00672/Html/b374dfcd-6969-4d04-81b4-ef635670814e_files/image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 18 September 2012
- taking into account amendments up to Act No. 79 of 2012
+This compilation was prepared on 24 August 2011
+ taking into account amendments up to Act No. 70 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -220,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Limit on stock and securities on issue
 
-             (1)  The total face value of stock and securities on issue under this Act and the _Loans Securities Act 1919_ at any time must not exceed $300 billion.
+             (1)  The total face value of stock and securities on issue under this Act and the _Loans Securities Act 1919_ at any time must not exceed $250 billion.
 
              (2)  In working out the total face value of that stock and securities, disregard:
 
@@ -262,7 +262,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    Stock shall be personal property.
 
-##### <a id="13A"></a>13A  Costs and expenses relating to issue and sale of stock
+##### <a id="13A"></a>13A  Costs and expenses relating to issue and sale of stock
 
                    The Consolidated Revenue Fund is appropriated to the extent necessary for the payment of:
 
@@ -450,11 +450,11 @@ may be appointed as a Registrar.
 
 Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property (including stock). See the following provisions of that Act:
 
-(a)    section 8 (interests to which the Act does not apply);
+(a)           section 8 (interests to which the Act does not apply);
 
-(b)    section 12 (meaning of **_security interest_**);
+(b)           section 12 (meaning of **_security interest_**);
 
-(c)    Chapter 9 (transitional provisions).
+(c)           Chapter 9 (transitional provisions).
 
 Note 2:       That Act provides for registration in respect of security interests in personal property, including stock (see Chapter 5 of that Act).
 
@@ -484,7 +484,7 @@ Note 2:       That Act provides for registration in respect of secur
 
              (3)  No person shall have any claim against the Commonwealth in respect of any transmission in pursuance of subsection (2), but nothing in this section shall relieve the person to whom the stock is transmitted from any liability to account for or deal with the stock in accordance with law.
 
-##### <a id="30"></a>30  Registration of transmission of legal interest
+##### <a id="30"></a>30  Registration of transmission of legal interest
 
                    If the Registrar at a Registry where particular stock is inscribed is satisfied that the provisions of this Act relating to the transmission of the legal interest in that stock have been complied with, the Registrar must register the transmission by entering particulars of it in the relevant Stock Ledger and inscribe the name of the person to whom the legal interest has been transmitted in the Stock Ledger as the owner of the stock.
 
@@ -1270,7 +1270,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 7 (items 19–21): <i>(g)</i></div>
   </td>
   <td>
-    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
   </td>
 </tr>
 <tr>
@@ -1336,7 +1336,7 @@ Remainder: 18 Jan 2001</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 320, 321): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    <div>Schedule 1 (items 320, 321): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1456,23 +1456,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>29 June 2011</div>
-  </td>
-  <td>
-    <div>Ss. 18 and 19: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 19 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Appropriation Act (No. 2) 2012‑2013</div>
-  </td>
-  <td>
-    <div>79, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
   </td>
   <td>
     <div>Ss. 18 and 19: Royal Assent</div>
@@ -1617,9 +1600,8 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
   <td>
     <div>
       15 December 2009
-    </div>
-    <div>
-      (paragraph (b) applies)
+
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -1748,7 +1730,7 @@ _(i)_      Subsection 2(1) (item 8) of the _Personal Property Securiti
     <div></div>
   </td>
   <td>
-    <div>am. No. 70, 2011; No. 79, 2012</div>
+    <div>am. No. 70, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2831,13 +2813,5 @@ _Appropriation Act (No. 2) 2011‑2012 (No. 70, 2011)_
              (2)  Section 13A of the _Commonwealth Inscribed Stock Act 1911_, as added by subsection 18(3), applies to costs and expenses incurred by the Commonwealth after the commencement of that subsection in relation to the issue or sale of stock and the management of stock that has been issued or sold, regardless of whether the stock was issued or sold before or after the commencement of that subsection.
 
              (3)  Section 13B of the _Commonwealth Inscribed Stock Act 1911_, as added by subsection 18(3), applies to costs and expenses incurred by the Commonwealth after the commencement of that subsection in repurchasing or redeeming stock, regardless of whether the stock was issued or sold before or after the commencement of that subsection.
-
-* * *
-
-_Appropriation Act (No. 2) 2012‑2013 (No. 79, 2012)_
-
-##### <a id="19"></a>19  Application
-
-                   The amendment made by section 18 applies to stock and securities on issue after the commencement of that section, regardless of whether the stock and securities were issued before or after the commencement of that section.
 
  
