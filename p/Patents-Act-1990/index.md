@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 6 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -909,7 +909,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -945,7 +945,7 @@ work
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image003.gif">
+    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image003.gif">
   </td>
 </tr>
 <tr>
@@ -967,7 +967,7 @@ refused</span></div>
 </tr>
 <tr>
   <td height="493"></td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image004.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image004.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1124,7 +1124,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1147,7 +1147,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image013.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image013.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1253,7 +1253,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2011C00028/Html/45e175c0-00ce-4307-b30d-e2231fa739d4_files/image021.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2010C00560/Html/528a6e68-8fec-4fdf-a3bd-ab049b31fce9_files/image021.gif)
 
 ##### <a id="5"></a>5  Associated applications
 
@@ -2536,7 +2536,7 @@ the Commissioner may, on an application made by the patentee, revoke the indepen
 
              (3)  An appeal lies to the Federal Court against a decision of the Commissioner refusing an application under this section.
 
-##### <a id="83"></a>83  Term of patent of addition
+##### <a id="83"></a>83  Term of patent of addition
 
 Usual term
 
@@ -2784,7 +2784,7 @@ the Commissioner must not continue the re‑examination.
 
              (3)  The applicant may appeal to the Federal Court against a decision of the Commissioner under this section.
 
-##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
+##### <a id="101"></a>101  Revocation of patent—re‑examination after grant
 
              (1)  Where the Commissioner makes an adverse report on a re‑examination under subsection 97(2), the Commissioner may, by notice in writing, revoke the patent, either wholly or so far as it relates to a particular claim, as the case requires.
 
@@ -3568,7 +3568,7 @@ Note:          Revocation proceedings under section 138 cann
 
                             (iii)  the patentee has given no satisfactory reason for failing to exploit the patent; or
 
-                     (b)  the patentee has contravened, or is contravening, Part IV of the _Competition and Consumer Act 2010_ or an application law (as defined in section 150A of that Act) in connection with the patent.
+                     (b)  the patentee has contravened, or is contravening, Part IV of the _Trade Practices Act 1974_ or an application law (as defined in section 150A of that Act) in connection with the patent.
 
              (3)  An order must direct that the licence:
 
@@ -3600,7 +3600,7 @@ and may direct that the licence is to be granted on any other terms specified in
 
                      (a)  such amount as is agreed between the patentee and the applicant; or
 
-                     (b)  if paragraph (a) does not apply—such amount as is determined by the Federal Court to be just and reasonable having regard to the economic value of the licence and the desirability of discouraging contraventions of Part IV of the _Competition and Consumer Act 2010_ or an application law (as defined in section 150A of that Act).
+                     (b)  if paragraph (a) does not apply—such amount as is determined by the Federal Court to be just and reasonable having regard to the economic value of the licence and the desirability of discouraging contraventions of Part IV of the _Trade Practices Act 1974_ or an application law (as defined in section 150A of that Act).
 
              (6)  The patentee or the Federal Court may revoke the licence if:
 
@@ -3620,7 +3620,7 @@ and may direct that the licence is to be granted on any other terms specified in
 
                              (ii)  the patentee has given no satisfactory reason for failing to exploit the patent; or
 
-                     (b)  the patentee is contravening Part IV of the _Competition and Consumer Act 2010_ or an application law (as defined in section 150A of that Act) in connection with the patent.
+                     (b)  the patentee is contravening Part IV of the _Trade Practices Act 1974_ or an application law (as defined in section 150A of that Act) in connection with the patent.
 
 ##### <a id="135"></a>135  Reasonable requirements of the public
 
@@ -4254,7 +4254,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    The Commissioner, each Deputy Commissioner and each employee must not disclose information about a matter that has been or is being dealt with under this Act or the 1952 Act unless required or authorised to do so by this Act, a written direction of the Commissioner or an order of a court.
 
-##### <a id="184"></a>184  Other unauthorised disclosures of information
+##### <a id="184"></a>184  Other unauthorised disclosures of information
 
                    A person to whom section 71 of the Safeguards Act applies must not disclose information about a matter that has been or is being dealt with under this Act or the 1952 Act unless required or authorised to do so by the Safeguards Act, this Act, a written direction of the Director or an order of a court.
 
@@ -5948,7 +5948,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 82): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 82): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -7463,7 +7463,7 @@ of Chapt. 6</div>
     <div>S. 133</div>
   </td>
   <td>
-    <div>am. No. 154, 1994; No. 140, 2000; No. 106, 2006; No. 103, 2010</div>
+    <div>am. No. 154, 1994; No. 140, 2000; No. 106, 2006</div>
   </td>
 </tr>
 <tr>
@@ -7479,7 +7479,7 @@ of Chapt. 6</div>
     <div>S. 134</div>
   </td>
   <td>
-    <div>am. No. 140, 2000; No. 106, 2006; No. 103, 2010</div>
+    <div>am. No. 140, 2000; No. 106, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8028,7 +8028,7 @@ Note 1:       The _Personal Property Securities Act 2009_ applies to
 
 Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
 
-As at 1 January 2011 the amendments are not incorporated in this compilation.
+As at 6 August 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8056,7 +8056,26 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 14 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 1 January 2011 the amendment is not incorporated in this compilation.
+As at 6 August 2010 the amendment is not incorporated in this compilation.
+
+### Note 4
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Patents Act 1990</h9>
+
+## 82  Paragraphs 133(2)(b) and (5)(b) and 134(2)(b)
+
+As at 6 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8507,127 +8526,4 @@ substitute
 
          (5)   If:
 
-                (a)    a PCT application has been amended under Article 19 of the PCT before the applicant meets the requirements of subsection (3); or
-
-               (b)    a PCT application has been rectified under Rule 91 of the Regulations mentioned in the definition of **_PCT_** in Schedule 1 before the applicant meets the requirements of subsection (3);
-
-then the description, drawings and claims contained in the application are, for the purposes of this Act, to be taken to have been amended:
-
-                (c)    on the day the amendment was made; or
-
-               (d)    unless the Commissioner disregards the rectification under Rule 91.3 (f) — on the day the rectification was effective.
-
-   (1BD)   After subsection 89 (5):
-
-insert
-
-                  (6)      Subject to subsection (7), where:
-
-              (a)      a PCT application in respect of which Australia has been elected under Chapter II of the PCT has been amended under Article 34 of the PCT; and
-
-              (b)      an international preliminary examination report is established before the applicant meets the requirements of subsection (3);
-
-the description, drawings and claims contained in the application are, for the purposes of this Act, to be taken to have been amended on the day on which the amendment was made.
-
-                  (7)      Subsection (6) does not apply if:
-
-              (a)      the Commissioner has reported under subsection 45 (1AA) or (1AB), or 48 (1AA) or (1AB), or under regulations made for the purpose of section 104, in relation to an application; and
-
-              (b)      the applicant elects under subparagraph 45 (1AC) (b) (ii) or 48 (1AC) (b) (ii), or under regulations made for the purpose of section 104, to abandon any amendments that may have been made under Article 34 of the PCT, or provides the advice mentioned in subparagraph 45 (1AC) (b) (i) or 48 (1AC) (b) (i) or in regulations made for the purpose of section 104.
-
-      (1C)   Paragraph 90 (a):
-
-omit
-
-subsection 92 (1) or (2)
-
-insert
-
-subsection 92 (2)
-
-      (1D)   Paragraph 90 (b):
-
-substitute
-
-                         (b)    where subsection 92 (3) applies — on the day on which the application is published under Article 21 of the PCT.
-
-      (1E)   Section 92:
-
-substitute
-
-92    Notice of publication
-
-(1)    Subsection (2) applies to a PCT application:
-
-(a)    that has not lapsed, or been withdrawn or refused; and
-
-(b)    that is to be treated as an application for a standard patent under this Act; and
-
-(c)    for which the applicant complies with subsection 89 (3) before the end of 18 months after the priority date of the application.
-
-(2)    The Commissioner must publish a notice in the _Official Journal_ stating that the PCT application is open to public inspection:
-
-(a)    if the applicant asks the Commissioner in writing to publish the notice; or
-
-(b)    in any case — as soon as practicable after the end of 18 months after the priority date of the application.
-
-(3)    If:
-
-(a)    the applicant does not comply with subsection 89 (3) within 18 months after the priority date of a PCT application; and
-
-(b)    the application is published under Article 21 of the PCT;
-
-the application is open to public inspection.
-
-(4)    If a PCT application is open to public inspection, any other prescribed documents are also open to public inspection.
-
-(5)    In this section: 
-
-**_priority date_**, for an international application, has the same meaning as in the PCT.
-
-         (2)   Section 141:
-
-omit the section, substitute:
-
-                 **‘141  Withdrawal of applications**
-
-               (1)    Subject to subsection (3), a patent application may be withdrawn at any time except during a period prescribed for the purposes of this section.
-
-               (2)    A patent application is to be treated as having been withdrawn if, and only if, the applicant lodges a written notice of withdrawal signed by the applicant.
-
-               (3)    A PCT application is to be treated as having been withdrawn if Article 11 (3) of the PCT ceases to have effect in Australia in relation to the application under Article 24 (1) (i) of the PCT.’.
-
-         (3)   Subsection 142 (2):
-
-Add at the end: 
-
-                  ‘; or (f)    Article 11 (3) of the PCT ceases to have effect in Australia in relation to the application under Article 24 (1) (ii) or (iii) or Article 39 (2) of the PCT’.
-
-         (4)   Section 223:
-
-After subsection (1) insert:
-
-‘(1A)          If, because of an error or omission by the receiving Office or the International Bureau, a relevant act that is required to be done within a certain time is not, or cannot be, done within that time, the Commissioner must extend the time for doing the act.’.
-
-         (5)   Schedule 1, definition of **_international filing date_**, including the cross‑reference to section 10:
-
-substitute
-
-‘**_international filing date_**, in relation to an international application, means:
-
-                (a)    the date given to the international application as its international filing date under Article 11 of the PCT; or
-
-               (b)    if that date is revised under Article 14 of the PCT — that international filing date as so revised; or
-
-                (c)    if the Commissioner has treated another date as the international filing date under Rule 82 _ter_ — that international filing date as so treated.
-
-_\[See also section 10]_’.
-
- 
-* * *
-
-<div id="ftn1">
-
-<span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[1]</span></span> This heading has been placed in the correct position.
-
-</div>
+                (a)    a PCT application has been amended under Article 19 of the PCT before the applicant m
