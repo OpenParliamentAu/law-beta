@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00508/Html/AgrVetChemCode1994_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00437/Html/AgrVetChemCode1994_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 19 July 2010
- taking into account amendments up to Act No. 113 of 2010
+This compilation was prepared on 6 July 2007
+ taking into account amendments up to Act No. 98 of 2007
 
 The text of any of those amendments not in force on that date is appended in the Notes section
 
@@ -37,13 +37,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule—Agricultural and Veterinary Chemicals Code** 
 
-        **Table of contents** 
+    **List of terms defined by section 3 of the Schedule** 
 
-        **List of terms defined by section 3 of the Schedule** 
-
-        **(The Agricultural and Veterinary Chemicals Code)** 
-
-        **Agricultural and Veterinary Chemicals Code** 
+    **(The Agricultural and Veterinary Chemicals Code)** 
 
 **Part 1—Preliminary**
 
@@ -109,19 +105,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Date of approval or registration
 
-[23](#23).          Conditions of approval or registration—active constituents and chemical products
-
-[23A](#23A).       Conditions of approval—labels
+[23](#23).          Conditions of approval or registration
 
 [24](#24).          Notice of approval or registration
 
 [25](#25).          Notice of refusal of application
 
 [26](#26).          Notice of incorrectly recorded or registered particulars
-
-    **Division 2A—Changes in certain relevant particulars**
-
-[26A](#26A).       Applying for a change in certain relevant particulars
 
     **Division 3—Application for variation of relevant particulars, or of conditions, of approval or registration**
 
@@ -593,6 +583,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [157](#157).        Samples to be given for analysis
 
+[158](#158).        Samples, or copies, of labels to be given
+
 [159](#159).        APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
 
 [160](#160).        Overseas trials or experiments
@@ -817,7 +809,7 @@ the Minister may, by signed writing, make orders with respect to that matter tha
 
 _Section 4_
 
-#### Table of contents
+Table of contents
 
 _Section_
 
@@ -883,19 +875,13 @@ _Section_
 
 22        Date of approval or registration
 
-23        Conditions of approval or registration—active constituents and chemical products
-
-23A     Conditions of approval—labels
+23        Conditions of approval or registration
 
 24        Notice of approval or registration
 
 25        Notice of refusal of application
 
 26        Notice of incorrectly recorded or registered particulars
-
-**Division 2A—Changes in certain relevant particulars**
-
-26A     Applying for a change in certain relevant particulars
 
 **Division 3—Application for variation of relevant particulars, or of conditions, of approval or registration**
 
@@ -1367,6 +1353,8 @@ _Section_
 
 157      Samples to be given for analysis
 
+158      Samples, or copies, of labels to be given
+
 159      APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
 
 160      Overseas trials or experiments
@@ -1425,9 +1413,9 @@ _Section_
 
 184      Existing notices requiring further information or samples
 
-#### List of terms defined by section 3 of the Schedule
+### List of terms defined by section 3 of the Schedule
 
-#### (The Agricultural and Veterinary Chemicals Code)
+### (The Agricultural and Veterinary Chemicals Code)
 
 <table>
 <colgroup>
@@ -1976,7 +1964,7 @@ _Section_
   </td>
 </tr></table>
 
-#### Agricultural and Veterinary Chemicals Code
+Agricultural and Veterinary Chemicals Code
 
 ## Part 1—Preliminary
 
@@ -1998,7 +1986,7 @@ _Section_
 
 ##### <a id="3"></a>3  Definitions
 
-             (1)  In this Code, unless the contrary intention appears:
+                   In this Code, unless the contrary intention appears:
 
                     <a name="acknowledg"></a>**_acknowledge_** an application made under section 10 or 27 has the meaning given in the table:
 
@@ -2081,9 +2069,7 @@ _Section_
 
                      (b)  would not be likely to have an effect that is harmful to human beings; and
 
-                     (c)  would not be likely to have an unintended effect that is harmful to animals, plants or things or to the environment; and
-
-                     (d)  would not unduly prejudice trade or commerce between Australia and places outside Australia.
+                     (c)  would not be likely to have an unintended effect that is harmful to animals, plants or things or to the environment.
 
                     <a name="agricultur-chemic-product"></a>**_agricultural chemical product_** has the meaning given by section 4.
 
@@ -2115,9 +2101,9 @@ _Section_
 
                               (i)  if that person is an individual residing, or a body corporate incorporated, in Australia—that person; or
 
-                             (ii)  in any case—an individual residing in Australia who, or a body corporate incorporated in Australia which, that person has authorised to make the application or request or to give the notice, consent, information, report, sample or other thing on that person’s behalf; or
+                             (ii)  in any case—an individual residing in Australia who, or a body corporate incorporated in Australia which, that person has notified the APVMA in writing is authorised to make the application or request or to give the notice, consent, information, report, sample or other thing on that person’s behalf; or
 
-                     (b)  in relation to the giving of a notice by the APVMA that affects a person who is the interested person in relation to an approved active constituent for a chemical product, a registered chemical product, a registered listed chemical product or an approved label for containers for a chemical product or is the holder of a permit or a licence—an individual residing in Australia who, or a body corporate incorporated in Australia which, that person has authorised to receive the notice on that person’s behalf.
+                     (b)  in relation to the giving of a notice by the APVMA that affects a person who is the interested person in relation to an approved active constituent for a chemical product, a registered chemical product, a registered listed chemical product or an approved label for containers for a chemical product or is the holder of a permit or a licence—an individual residing in Australia who, or a body corporate incorporated in Australia which, that person has notified the APVMA in writing is authorised by that person to receive the notice on that person’s behalf.
 
                     <a name="apvma"></a>**_APVMA_** means the Australian Pesticides and Veterinary Medicines Authority continued in existence by section 6 of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_.
 
@@ -2149,17 +2135,7 @@ _Section_
 
                              (ii)  relates to the manufacture, distribution or supply of the constituent or product; and
 
-                            (iii)  if it were disclosed, could unreasonably affect the person, organisation or undertaking in an adverse manner;
-
-but does not include:
-
-                     (d)  the making of an application for a permit for the use of an active constituent for a proposed or existing chemical product or for the use of a chemical product, if the use of the product proposed in the application is:
-
-                              (i)  a minor use; or
-
-                             (ii)  an emergency use; or
-
-                     (e)  any prescribed information relating to the making of an application for a permit, as mentioned in paragraph (d).
+                            (iii)  if it were disclosed, could unreasonably affect the person, organisation or undertaking in an adverse manner.
 
                     <a name="constitu"></a>**_constituent_**, in relation to a chemical product, means any constituent of the product, whether an active constituent or not.
 
@@ -2201,8 +2177,6 @@ to perform the functions of a co-ordinator under this Code.
 
                     <a name="elig-law"></a>**_eligible law_**, in relation to a jurisdiction, means a law, or a provision of a law, of that jurisdiction that is declared by a law of that jurisdiction to be an eligible law for the purposes of this Code.
 
-                    <a name="emerg-us"></a>**_emergency use_** has the same meaning as in the regulations.
-
                     <a name="environ"></a>**_environment_** includes all aspects of the surroundings of human beings, whether affecting them as individuals or in their social groupings.
 
                     <a name="established-standard"></a>**_established standard_** for a listable chemical product means a standard established for the product under Division 3 of Part 2A.
@@ -2212,8 +2186,6 @@ to perform the functions of a co-ordinator under this Code.
                     <a name="expiri-date"></a>**_expiry date_**, in relation to the contents of a container, means the month and year after which the contents should not be used.
 
                     <a name="fee"></a>**_fee_** includes a fee that is a tax.
-
-                    <a name="file"></a>**_file_** includes a file of information stored or recorded by means of a computer.
 
                     <a name="food-produc-speci"></a>**_food-producing species_** means an animal that produces food for human consumption or is used as food for human beings, and includes:
 
@@ -2292,8 +2264,6 @@ to perform the functions of a co-ordinator under this Code.
                     <a name="maximum-residu-limit-standard"></a>**_Maximum Residue Limits Standard_** means the Maximum Residue Limits Standard, made under the _Food Standards__Australia__New Zealand__Act 1991_, as in force from time to time, or any standard in force in substitution for that standard.
 
                     <a name="member-staff"></a>**_member of the staff_**, in relation to the APVMA, has the same meaning as in the _Agricultural and Veterinary Chemicals (Administration) Act 1992_.
-
-                    <a name="minor-us"></a>**_minor use_** has the same meaning as in the regulations.
 
                     <a name="occupi"></a>**_occupier_**, in relation to any premises or a part of any premises, means the person in occupation, charge or control of the premises or of that part of the premises, as the case may be.
 
@@ -2423,9 +2393,9 @@ but does not include information obtained only for the purpose of assessing the 
 
                      (c)  in relation to the listed registration of a chemical product—the notation, distinguishing number and other particulars that are required by paragraph 56M(2)(a) to be entered in the Register of Chemical Products; and
 
-                     (d)  in relation to the approval of a label for containers for a chemical product—the information required to be recorded in the relevant APVMA file by paragraph 21(2)(c);
+                     (d)  in relation to the approval of a label for containers for a chemical product—the distinguishing number, and the size and type of, and particulars contained on, the label kept in the relevant APVMA file as required by paragraph 21(2)(d);
 
-and includes, in relation to the approval of an active constituent or of a label or in relation to the registration or listed registration of a chemical product, particulars of a variation of relevant particulars that is made under paragraph 26A(4)(a) or 29(1)(h), subsection 34(5), section 34A, paragraph 56U(1)(e) or subsection 56Z(5).
+and includes, in relation to the approval of an active constituent or of a label or in relation to the registration or listed registration of a chemical product, particulars of a variation of relevant particulars that is made under paragraph 29(1)(h), subsection 34(5), section 34A, paragraph 56U(1)(e) or subsection 56Z(5).
 
                     <a name="repeal-act"></a>**_repealed Act_** means the _Agricultural and Veterinary Chemicals Act 1988_.
 
@@ -2513,7 +2483,7 @@ but does not include an excluded organism or part of an excluded organism, or ma
 
 and, for example, includes supply under a contract for work or labour that also involves the supply of any thing.
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory;
+                    <a name="territori"></a>**_Territory_** does not include the Northern Territory;
 
                     <a name="thing"></a>**_thing_**, except where used as an object of the verb “to do”, includes:
 
@@ -2542,8 +2512,6 @@ and, for example, includes supply under a contract for work or labour that also 
 in order to ensure that the product’s residues fall to or below the maximum limit that the APVMA permits.
 
                     <a name="work-dai"></a>**_working day_** means a day other than a Saturday, a Sunday or a day that is a public holiday in the place where the office of the APVMA is situated.
-
-             (2)  A regulation that prescribes information for the purposes of paragraph (e) of the definition of **_confidential commercial information_** is a legislative instrument.
 
 ##### <a id="4"></a>4  Definition of _agricultural chemical product_
 
@@ -2648,8 +2616,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                      (c)  the approval of labels for containers for chemical products.
 
              (2)  Division 2 deals with the giving of approvals and the granting of registrations.
-
-          (2A)  Division 2A deals with applications to vary a relevant particular if the relevant particular is of a kind set out in a legislative instrument made by the APVMA for the purposes of section 26A.
 
              (3)  Division 3 deals with applications to vary approvals or registrations or to vary the conditions of any approvals or registrations.
 
@@ -3035,21 +3001,19 @@ the APVMA may decide to approve the constituent, whether or not an application h
 
 ##### <a id="21"></a>21  How approval of label is effected
 
-             (1)  If the APVMA decides to approve a label for containers for a chemical product, the APVMA must give a distinguishing number to, and approve, the label in accordance with subsection (2), either unconditionally or subject to conditions as mentioned in section 23A.
+             (1)  If the APVMA decides to approve a label for containers for a chemical product, the APVMA must give a distinguishing number to, and approve, the label in accordance with subsection (2), either unconditionally or subject to conditions as mentioned in section 23.
 
              (2)  Approval of a label takes place by:
 
-                     (a)  determining the particulars, prescribed by the regulations, that are appropriate to be contained on the label; and
+                     (a)  determining (if appropriate) the size and type of the label; and
 
                      (b)  giving a distinguishing number to the label; and
 
-                     (c)  recording the following information in the relevant APVMA file:
+                     (c)  determining the particulars that are to be contained on the label (which must include the distinguishing number, the instructions for the use of the product and any particulars that are prescribed by the regulations); and
 
-                              (i)  the distinguishing number;
+                     (d)  placing a label of the determined size and type, and containing the particulars mentioned in paragraph (c), in the relevant APVMA file; and
 
-                             (ii)  the adequate instructions and any particulars that are to be contained on the label; and
-
-                     (d)  recording any conditions imposed on the approval by the APVMA under subsection 23A(2) in the relevant APVMA file.
+                     (e)  recording in that file any conditions of the approval.
 
 ##### <a id="22"></a>22  Date of approval or registration
 
@@ -3069,9 +3033,9 @@ the APVMA may decide to approve the constituent, whether or not an application h
 
 are varied pursuant to an application or request made under this Part, then, the date of the approval of the constituent, of the registration of the product, or of the approval of the label, as varied, or as subject to the varied conditions, is the date on which particulars of the variations are entered in the Record of Approved Active Constituents or in the Register of Chemical Products or are recorded in the relevant APVMA file, as the case may be.
 
-##### <a id="23"></a>23  Conditions of approval or registration—active constituents and chemical products
+##### <a id="23"></a>23  Conditions of approval or registration
 
-             (1)  The conditions of the approval of an active constituent for a proposed or existing chemical product or the registration of a chemical product are the conditions that the APVMA thinks appropriate.
+             (1)  The conditions of the approval of an active constituent for a proposed or existing chemical product, the registration of a chemical product or the approval of a label for containers for a chemical product are the conditions that the APVMA thinks appropriate.
 
              (2)  Without limiting subsection (1), registration of a chemical product may be granted:
 
@@ -3079,37 +3043,9 @@ are varied pursuant to an application or request made under this Part, then, the
 
                      (b)  on the condition that the product is not supplied in a container of a kind referred to in the condition or prescribed by the regulations.
 
-             (3)  Approval of an active constituent for a proposed or existing chemical product or the registration of a chemical product may be granted on the condition that the approval or registration remains in force only for a stated period that is not more than one year.
+             (3)  Approval of an active constituent for a proposed or existing chemical product, registration of a chemical product or approval of a label for containers for a chemical product may be granted on the condition that the approval or registration remains in force only for a stated period that is not more than one year.
 
              (4)  If the approval or registration is subject to a condition referred to in subsection (3) and the conditions of approval or registration have not been varied before the end of the period referred to in the condition, or the end of that period as previously extended under this subsection, so as to remove the condition, the APVMA may vary the condition so as to extend the period for a further period of not more than one year or for further periods each of which is not more than one year.
-
-##### <a id="23A"></a>23A  Conditions of approval—labels
-
-             (1)  The approval of a label for containers for a chemical product is subject to:
-
-                     (a)  the conditions prescribed by the regulations (whether or not the conditions are prescribed at the time the label is approved); and
-
-                     (b)  any conditions imposed on the approval by the APVMA under subsection (2).
-
-             (2)  At the time of approving a label for containers for a chemical product, the APVMA may impose conditions, as the APVMA considers appropriate, on the approval.
-
-             (3)  The conditions prescribed by the regulations may be expressed to apply in relation to:
-
-                     (a)  a label for containers for a particular chemical product; or
-
-                     (b)  a label for containers for a class of chemical products; or
-
-                     (c)  a label for containers for all chemical products.
-
-             (4)  Approval of a label for containers for a chemical product may be granted on the condition that the approval remains in force for a particular period. The period may not be more than one year.
-
-             (5)  If:
-
-                     (a)  the approval is subject to a condition referred to in subsection (4); and
-
-                     (b)  the conditions of approval have not been varied before the end of the period referred to in the condition, or the end of that period as previously extended under this subsection, so as to remove the condition;
-
-the APVMA may vary the condition so as to extend the period for a further period of not more than one year or for further periods each of which is not more than one year.
 
 ##### <a id="24"></a>24  Notice of approval or registration
 
@@ -3151,60 +3087,6 @@ Note:          For strict liability, see section 6.1 of the 
 
              (2)  If the APVMA is satisfied that the particular or condition entered in the Record or Register, or recorded in the APVMA file, in relation to the constituent, product or label is not correct, the APVMA must change the entry or record accordingly.
 
-### Division 2A—Changes in certain relevant particulars
-
-##### <a id="26A"></a>26A  Applying for a change in certain relevant particulars
-
-             (1)  An interested person in relation to:
-
-                     (a)  an approved active constituent for a proposed or existing chemical product; or
-
-                     (b)  a registered chemical product; or
-
-                     (c)  an approved label for containers;
-
-may apply to the APVMA for variation of a relevant particular of the approval or registration if the relevant particular is of a kind set out in a legislative instrument made by the APVMA for the purposes of this section.
-
-             (2)  An application must:
-
-                     (a)  be signed by an approved person; and
-
-                     (b)  be accompanied by the prescribed fee (if any); and
-
-                     (c)  be lodged with the APVMA.
-
-             (3)  Subsection (4) applies if:
-
-                     (a)  in the case of an application that relates to an active constituent or registration of a chemical product—the APVMA is satisfied that, if those particulars were varied in accordance with the application, the continued use of, or any other dealing with, the constituent or product in accordance with the instructions for its use or for such a dealing:
-
-                              (i)  would not be an undue hazard to the safety of people exposed to it during its handling or people using anything containing its residues; and
-
-                             (ii)  would not be likely to have an effect that is harmful to human beings; and
-
-                            (iii)  would not be likely to have an unintended effect that is harmful to animals, plants or things or to the environment; and
-
-                            (iv)  would not unduly prejudice trade or commerce between Australia and places outside Australia; or
-
-                     (b)  in the case of an application that relates to a label for containers for a chemical product—the APVMA is satisfied that, if those particulars were varied in accordance with the application, the use of the product in accordance with the instructions for its use would be effective according to criteria determined by the APVMA for the product.
-
-             (4)  If the APVMA is satisfied, as mentioned in subsection (3), the APVMA must:
-
-                     (a)  both:
-
-                              (i)  vary the relevant particulars; and
-
-                             (ii)  record in the relevant APVMA file the relevant particulars as varied and the date on which the record is made; and
-
-                     (b)  give the interested person a written notice that states that the relevant particulars have been varied.
-
-             (5)  If the APVMA is not satisfied, as mentioned in subsection (3), the APVMA must give the interested person a written notice that:
-
-                     (a)  states that the relevant particulars have not been varied; and
-
-                     (b)  sets out the reasons why the relevant particulars have not been varied; and
-
-                     (c)  states that the interested person may apply to have the relevant particulars varied under Division 3 of this Part.
-
 ### Division 3—Application for variation of relevant particulars, or of conditions, of approval or registration
 
 ##### <a id="27"></a>27  Who may apply
@@ -3227,13 +3109,13 @@ may apply to the APVMA for variation of the relevant particulars of the approval
 
                      (b)  contain, or be accompanied by, the information that the APVMA requires; and
 
+                    (ba)  if the application relates to a label—be accompanied by a proposed new label; and
+
                      (c)  be signed by an approved person; and
 
                      (d)  be accompanied by the prescribed fee (if any); and
 
                      (e)  be lodged with the APVMA.
-
-          (1A)  If an application is made under this Division and an application has previously been made for the same variation under Division 2A, the APVMA must set off the fee paid for the previous application against the fee payable (if any) under paragraph (1)(d).
 
              (2)  The APVMA may alter the application with the written consent of an approved person.
 
@@ -3283,7 +3165,7 @@ it must:
 
                               (i)  if the application was for a variation of the relevant particulars or the conditions of the approval of a constituent or the registration of a product—by entering in the relevant Record or Register particulars of the variation and the date on which the entry is made; or
 
-                             (ii)  if the application was for a variation of the relevant particulars of the approval of a label—by recording in the relevant APVMA file the relevant particulars as varied and the date on which the record is made; or
+                             (ii)  if the application was for a variation of the relevant particulars of the approval of a label—by placing in the relevant APVMA file a new label containing the relevant particulars as varied and recording in the file the date on which the new label is placed in the file; or
 
                             (iii)  if the application was for a variation of the conditions of approval of a label—by recording in the file the conditions as varied; or
 
@@ -3419,7 +3301,7 @@ the APVMA must as soon as practicable:
 
                               (i)  if the variation relates to the relevant particulars or the conditions of the approval of a constituent or the registration of a product—by entering in the relevant Record or Register particulars of the variation and the date on which the entry is made; or
 
-                             (ii)  if the variation relates to the relevant particulars of the approval of a label—by recording in the relevant APVMA file the relevant particulars as varied and the date on which the record is made; or
+                             (ii)  if the variation relates to the relevant particulars of the approval of a label—by placing in the relevant APVMA file a new label containing the relevant particulars as varied and recording in that file the date on which the new label is placed in the file; or
 
                             (iii)  if the variation relates to the conditions of the approval of a label—by recording in the relevant APVMA file particulars of the variation and the date on which the record is made; and
 
@@ -3429,7 +3311,9 @@ the APVMA must as soon as practicable:
 
                              (ii)  set out in the notice details of the variation.
 
-          (5A)  The APVMA may only vary a condition of the approval of a label that was imposed under subsection 23A(2).
+          (5A)  The APVMA may only vary the relevant particulars of the approval of a label if the interested person gives to the APVMA a new label containing the particulars as proposed to be varied.
+
+Note:          Subsection 40(2) provides for the suspension or cancellation of the approval of the label if the interested person does not give the APVMA a new label in accordance with a request by the APVMA.
 
           (5B)  If a variation of any relevant particulars or conditions under subsection (5) would affect any instructions for the use of an active constituent for an existing or proposed chemical product or for the use of a chemical product or any instructions on a label for containers for a chemical product, the APVMA must not make the variation until it has consulted each co-ordinator designated for a jurisdiction and taken into account any recommendations made by the co-ordinators.
 
@@ -3447,13 +3331,13 @@ the APVMA must as soon as practicable:
 
              (3)  If the APVMA considers that the particulars do not contain adequate instructions in relation to a matter, the APVMA must:
 
-                     (a)  both:
-
-                              (i)  vary the relevant particulars; and
-
-                             (ii)  record in the relevant APVMA file the relevant particulars as varied and the date on which the record is made; and
+                     (a)  vary the relevant particulars by placing in the relevant APVMA file a new label containing the relevant particulars as varied and recording in that file the date on which the new label is placed in the file; and
 
                      (b)  give written notice to the interested person in relation to the product, or to an approved person, setting out particulars of the variation.
+
+             (4)  The APVMA may only vary the relevant particulars of the approval of a label if the interested person gives to the APVMA a new label containing the particulars as proposed to be varied.
+
+Note:          Subsection 41(4) provides for the suspension or cancellation of the approval of the label if the interested person does not give the APVMA a new label in accordance with a request by the APVMA.
 
              (5)  Sections 30 to 34 do not apply to a reconsideration under this section.
 
@@ -3972,7 +3856,7 @@ the APVMA may suspend the registration of either or both of those products.
 
                      (a)  the APVMA is satisfied that the relevant particulars of the approval of the label can be varied in such a way that the requirements prescribed by the regulations for continued approval will be complied with (see subsection 34(5)); and
 
-                     (b)  the interested person does not satisfy the APVMA that a label, including the particulars as proposed to be varied by the APVMA, will be attached to the containers for the chemical product;
+                     (b)  the interested person does not give the APVMA a label containing the particulars as proposed to be varied in accordance with a request by the APVMA;
 
 the APVMA may suspend or cancel the approval.
 
@@ -3996,7 +3880,7 @@ the APVMA may suspend or cancel the approval.
 
                      (a)  the APVMA considers that the particulars on a label for containers for a chemical product do not contain adequate instructions relating to matters prescribed by the regulations for the purposes of subsection 34A(1); and
 
-                     (b)  the interested person does not satisfy the APVMA that a label, including the particulars as proposed to be varied by the APVMA, will be attached to the containers for the chemical product;
+                     (b)  the interested person does not give the APVMA a label containing the particulars as proposed to be varied in accordance with a request by the APVMA;
 
 the APVMA may suspend or cancel the approval of the label.
 
@@ -4126,11 +4010,7 @@ the approval of a label for containers for the product continues in force until 
 
              (5)  This section has effect subject to:
 
-                     (a)  any condition of a kind referred to in:
-
-                              (i)  subsection 23(3) to which an approval or registration is subject; or
-
-                             (ii)  subsection 23A(4) to which an approval of a label for containers for a chemical product is subject; and
+                     (a)  any condition of a kind referred to in subsection 23(3) to which an approval or registration is subject; and
 
                      (b)  subsection 43(2), which relates to suspension of an approval or registration; and
 
@@ -4554,7 +4434,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="56I"></a>56I  Application
 
-                   A person may apply to the APVMA for a chemical product:
+                   A person may apply to the APVMA for a chemical product:
 
                      (a)  that is a listable chemical product; and
 
@@ -5776,27 +5656,19 @@ Note:          The defendant bears a legal burden in relation 
 
              (1)  A person may only supply, or cause or permit to be supplied, a registered chemical product in a container if:
 
-                     (a)  the label attached to the container:
-
-                              (i)  states the relevant particulars; and
-
-                             (ii)  does not contain information that is contrary to the relevant particulars; or
+                     (a)  the label attached to the container is identical (except for particulars relating to the batch number, date of manufacture or expiry date of the product) to the approved label for containers for the product; or
 
                      (b)  the supply is authorised by a permit.
 
                     Penalty:  300 penalty units.
 
-             (2)  It is a defence to a prosecution of a person for an offence against subsection (1) if the person proves that, when the chemical product was supplied, or caused or permitted to be supplied, as the case may be, in the container, the person did not know, and could not reasonably be expected to have known, that the label attached to the container:
-
-                     (a)  did not state the relevant particulars; or
-
-                     (b)  contained information contrary to the relevant particulars.
+             (2)  It is a defence to a prosecution of a person for an offence against subsection (1) if the person proves that, when the chemical product was supplied, or caused or permitted to be supplied, as the case may be, in the container, the person did not know, and could not reasonably be expected to have known, that the label attached to the container was not identical to an approved label for the container for the product.
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (2). See section 13.4 of the _Criminal Code_.
 
              (3)  Subsection (1) does not apply to the supply of a registered chemical product in a container in the circumstances mentioned in that subsection if:
 
-                     (a)  the label attached to the container states the relevant particulars that were required to be stated on a label (the **_earlier approved label_**) that was an approved label for containers for the product at a time before the supply takes place; and
+                     (a)  the label attached to the container is identical (except for particulars relating to the batch number, date of manufacture or expiry date of the product) to a label (the **_earlier approved label_**) that was an approved label for containers for the product at a time before the supply takes place; and
 
                      (b)  the APVMA has determined that this subsection is to apply in respect of the earlier approved label; and
 
@@ -5902,49 +5774,21 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="86"></a>86  Labels not to be detached etc.
 
-             (1)  A person commits an offence if:
+             (1)  If a label attached to a container of a chemical product contains any matter (the **_approved matter_**) identical to any matter contained on an approved label for containers for the product or identical to any matter required by an established standard for the product to be included on a label for containers for the product, a person must not do, or cause or permit to be done, any of the following:
 
-                     (a)  either:
+                     (a)  detach or otherwise remove the label;
 
-                              (i)  a label attached to a container of a chemical product contains any relevant particular identical to any relevant particular contained on an approved label for containers for the product; or
+                     (b)  alter, deface, obliterate or destroy the approved matter;
 
-                             (ii)  a label attached to a container of a chemical product contains any relevant particular identical to any matter required by an established standard for the product to be included on a label for containers for the product; and
-
-                     (b)  the person:
-
-                              (i)  detaches or otherwise removes the label; or
-
-                             (ii)  alters, defaces, obliterates or destroys the relevant particular; or
-
-                            (iii)  attaches another label to, or endorses anything upon, the container that in either case has the effect of expressly or impliedly negating, varying, or in any way detracting from, qualifying or minimising the purport or effect of, the relevant particular.
+                     (c)  attach another label to, or endorse anything upon, the container that in either case has the effect of expressly or impliedly negating, varying, or in any way detracting from, qualifying or minimising the purport or effect of, the approved matter.
 
                     Penalty:  300 penalty units.
 
-             (2)  A person commits an offence if:
+             (2)  Paragraph (1)(b) does not apply to an alteration, defacing, obliteration or destruction of matter that is done by the destruction or disposal of the chemical product without otherwise contravening this Code.
 
-                     (a)  either:
+             (3)  Subsection (1) does not apply if the person has a reasonable excuse.
 
-                              (i)  a label attached to a container of a chemical product contains any relevant particular identical to any relevant particular contained on an approved label for containers for the product; or
-
-                             (ii)  a label attached to a container of a chemical product contains any relevant particular identical to any matter required by an established standard for the product to be included on a label for containers for the product; and
-
-                     (b)  the person causes or permits:
-
-                              (i)  the label to be detached or otherwise removed; or
-
-                             (ii)  the relevant particular contained on the label to be altered, defaced, obliterated or destroyed; or
-
-                            (iii)  another label to be attached to the container that has the effect of expressly or impliedly negating, varying, or in any way detracting from, qualifying or minimising the purport or effect of, the relevant particular; or
-
-                            (iv)  anything to be endorsed upon the container that has the effect of expressly or impliedly negating, varying, or in any way detracting from, qualifying or minimising the purport or effect of, the relevant particular.
-
-                    Penalty:  300 penalty units.
-
-             (3)  Subparagraphs (1)(b)(ii) and (2)(b)(ii) do not apply to an alteration, defacing, obliteration or destruction of a relevant particular that is done by the destruction or disposal of the chemical product without otherwise contravening this Code.
-
-             (4)  Subsections (1) and (2) do not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4). See subsection 13.3(3) of the _Criminal Code_.
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
 
 ##### <a id="87"></a>87  Chemical product to conform to standard
 
@@ -6434,7 +6278,7 @@ the APVMA may give written notice to any person (the **_notified person_**) who 
 
              (1)  If it appears to the APVMA:
 
-                     (a)  that labels attached to the containers of stocks of a registered chemical product, or of a particular batch of a registered chemical product, differ from the approved label for the product; or
+                     (a)  that labels attached to the containers of stocks of a registered chemical product, or of a particular batch of a registered chemical product, differ from the approved label kept in, or in conjunction with, the relevant APVMA file in relation to the product; or
 
                      (b)  that labels attached to the containers of stocks of a registered listed chemical product, or of a particular batch of a registered listed chemical product, differ from the label required by the relevant standard for the product;
 
@@ -6450,7 +6294,7 @@ the APVMA may give written notice to any person (the **_notified person_**) who 
 
                              (ii)  who has possession or custody of any such stocks directly or indirectly because of a supply by the notified person;
 
-                     (c)  to attach labels to the containers that are the same as the approved label for the product or the label required by the established standard for the product, as the case may be or to destroy any of those stocks or of that batch in the possession or custody of, or recovered by, the notified person or to deal with them as stated in the notice;
+                     (c)  to attach labels to the containers that are the same as the approved label kept in, or in conjunction with, the relevant APVMA file or the label required by the established standard for the product, as the case may be or to destroy any of those stocks or of that batch in the possession or custody of, or recovered by, the notified person or to deal with them as stated in the notice;
 
                      (d)  to report to the APVMA within a stated period on the action taken by the notified person under the notice.
 
@@ -7280,7 +7124,7 @@ the court may order that the inspector may keep the thing for a period stated in
 
              (3)  If the court thinks that notice of the application should be given to any person, it may require such a notice to be given before it hears the application.
 
-##### <a id="142"></a>142  Certain expenses to be recoverable by APVMA
+##### <a id="142"></a>142  Certain expenses to be recoverable by APVMA
 
              (1)  Any expense incurred by the APVMA under paragraph 131(1)(i) in respect of the destruction or making harmless of a chemical product is a debt due to the APVMA by the owner of the product.
 
@@ -7380,7 +7224,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ### Division 4—Miscellaneous enforcement provisions
 
-##### <a id="146"></a>146  Self-incrimination to be a reasonable excuse for non-compliance with requirement
+##### <a id="146"></a>146  Self-incrimination to be a reasonable excuse for non-compliance with requirement
 
                    It is a reasonable excuse for a person to refuse or fail to give information, produce a document or do any other thing that the person is required to do by or under this Code that the information, the production of the document or the doing of that other thing would tend to incriminate the person.
 
@@ -7562,7 +7406,19 @@ that the APVMA has directed.
 
              (3)  The applicant must pay to the APVMA the amount that the APVMA notifies the applicant in writing to be the cost of the analysis referred to in subsection (1), including the cost of packaging and transporting the sample or samples for analysis.
 
-##### <a id="159"></a>159  APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
+##### <a id="158"></a>158  Samples, or copies, of labels to be given
+
+             (1)  A person who makes an application that relates to a label for containers for a chemical product must give to the APVMA:
+
+                     (a)  the number of samples or copies of the label that the APVMA requires; and
+
+                     (b)  if the APVMA so requires, a sample of any adhesive or other substance or any device intended to be used in connection with the method or methods by which the label is to be attached to the containers.
+
+             (2)  A sample or copy of a label to be given to the APVMA under subsection (1) must be in a form that the APVMA reasonably requires.
+
+             (3)  A sample or copy of a label may contain matters that relate to the supply or use of the product in another jurisdiction.
+
+##### <a id="159"></a>159  APVMA or other authority may require, or require additional, information, report or sample in certain circumstances
 
              (1)  For the purposes of:
 
@@ -7820,11 +7676,7 @@ Note:          For strict liability, see section 6.1 of the 
 
            (12)  This section does not preclude the institution of an action or other civil proceeding against a person in respect of the disclosure, or the proposed, threatened or likely disclosure, by that person of confidential commercial information about an active constituent for a proposed or existing chemical product, or about a chemical product or any of its constituents.
 
-           (13)  A reference in this section to information about an active constituent for a proposed or existing chemical product, or about a chemical product, includes a reference to the fact that:
-
-                     (a)  an application has been made for approval of the constituent or registration of the product; or
-
-                     (b)  an application has been made for a permit in respect of the constituent or product, if the making of the application is confidential commercial information.
+           (13)  A reference in this section to information about an active constituent for a proposed or existing chemical product, or about a chemical product, includes a reference to the fact that an application has been made for approval of the constituent or registration of the product or the fact that an application has been made for a permit in respect of the constituent or product, as the case may be.
 
         (13A)  A reference in this section to information about:
 
@@ -7946,14 +7798,6 @@ the disclosing person:
 
                      (b)  a decision under Division 2 of Part 2 to approve an active constituent for a proposed or existing chemical product, to register a chemical product, or to approve a label for containers for a chemical product, subject to particular conditions;
 
-                  (baa)  a decision under section 26A to refuse to vary:
-
-                              (i)  relevant particulars of the approval of an active constituent for a proposed or existing chemical product; or
-
-                             (ii)  relevant particulars of the registration of a chemical product; or
-
-                            (iii)  relevant particulars of the approval of a label for containers for a chemical product;
-
                     (ba)  a decision under section 28A that the application does not comply with subsection 28(1);
 
                     (bb)  a decision under section 28A:
@@ -8064,7 +7908,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00508/Html/AgrVetChemCode1994_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00437/Html/AgrVetChemCode1994_WD02_image002.gif)
 
 where:
 
@@ -8556,7 +8400,7 @@ of Assent</div>
     <div>Ss. 4–14 and Schedule 3 (item 18): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14</div>
   </td>
 </tr>
 <thead>
@@ -8717,40 +8561,6 @@ Schedule 1 (item 5): Royal Assent</div>
     </td>
     <td>
       <div>Sch. 1 (items 77, 78)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-    </td>
-    <td>
-      <div>103, 2010</div>
-    </td>
-    <td>
-      <div>13 July 2010</div>
-    </td>
-    <td>
-      <div>Schedule 6 (items 1, 3, 153): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Agricultural and Veterinary Chemicals Code Amendment Act 2010</div>
-    </td>
-    <td>
-      <div>113, 2010</div>
-    </td>
-    <td>
-      <div>14 July 2010</div>
-    </td>
-    <td>
-      <div>15 July 2010</div>
-    </td>
-    <td>
-      <div>Sch. 1 (items 7B, 8)</div>
     </td>
   </tr>
 </thead></table>
@@ -9126,7 +8936,7 @@ _(i)_ Subsection 2(1) (item 6) of the _Food Standards__Australia__New__Zealand
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007; No. 113, 2010</div>
+    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9174,7 +8984,7 @@ _(i)_ Subsection 2(1) (item 6) of the _Food Standards__Australia__New__Zealand
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9439,7 +9249,7 @@ of Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9452,26 +9262,10 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 23</div>
-  </td>
-  <td>
-    <div>am. No. 113, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 113, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 113, 2010</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9488,30 +9282,6 @@ of Part 2</div>
   </td>
   <td>
     <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part2</div>
-  </td>
-  <td>
-    <div>ad. No. 113, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 113, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9544,7 +9314,7 @@ Part 2</div>
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9584,7 +9354,7 @@ Part 2</div>
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9672,7 +9442,7 @@ Part 2</div>
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9681,14 +9451,6 @@ Part 2</div>
   </td>
   <td>
     <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 113, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9704,7 +9466,7 @@ Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9713,14 +9475,6 @@ Part 2</div>
   </td>
   <td>
     <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 113, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9965,15 +9719,7 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 40, 41</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
+    <div>Ss. 40–42</div>
   </td>
   <td>
     <div>am. No. 13, 2003; No. 79, 2004</div>
@@ -10032,7 +9778,7 @@ Part 2</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 113, 2010</div>
+    <div>am. No. 13, 2003</div>
   </td>
 </tr>
 <tr>
@@ -11034,7 +10780,7 @@ Part 2A</div>
     <div>S. 81</div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11111,23 +10857,7 @@ Part 2A</div>
 </tr>
 <tr>
   <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001; No. 13, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 113, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
+    <div>Ss. 86, 87</div>
   </td>
   <td>
     <div>am. No. 115, 2001; No. 13, 2003</div>
@@ -11306,7 +11036,7 @@ Part 2A</div>
     <div>S. 103</div>
   </td>
   <td>
-    <div>am. No. 59, 1996; No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 59, 1996; No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11631,26 +11361,10 @@ Part 2A</div>
 </tr>
 <tr>
   <td>
-    <div>S. 157</div>
+    <div>Ss. 157, 158</div>
   </td>
   <td>
     <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 158</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 113, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11730,7 +11444,7 @@ Part 2A</div>
     <div>S. 162</div>
   </td>
   <td>
-    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 113, 2010</div>
+    <div>am. No. 115, 2001; No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11786,7 +11500,7 @@ Part 2A</div>
     <div>S. 167</div>
   </td>
   <td>
-    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 113, 2010</div>
+    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11862,30 +11576,6 @@ Part 2A</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Agricultural and Veterinary Chemicals Code Act 1994</h9>
-
-## 3  Section 100
-
-## 153  Section 106
-
-Omit “Section 65R of the _Trade Practices Act 1974_”, substitute “Section 128 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth,”.
-
-_Note:       The heading to section 106 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
-
-As at 19 July 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11950,99 +11640,6 @@ the members must include in the report:
                      (c)  in relation to the earlier applications—particulars of the matters mentioned in section 69 of the _Food Standards Australia New Zealand Act 1991_, as in force immediately before the commencement of Part 3 of this Schedule; and
 
                      (d)  in relation to the later applications—particulars of the matters mentioned in section 152 of that Act, as in force on commencement of item 71 of this Schedule.
-
-* * *
-
-_Agricultural and Veterinary Chemicals Code Amendment Act 2010
- (No. 113, 2010)_
-
-## Schedule 1
-
-## 7B  Labels approved under existing law
-
-(1)        If a label was, immediately before commencement, an approved label within the meaning of the old law, then:
-
-                     (a)  the label is taken, from commencement, to be an approved label within the meaning of the new law; and
-
-                     (b)  any particulars determined under paragraph 21(2)(c) of the old law are taken, from commencement, to be recorded on the relevant APVMA file; and
-
-                     (c)  any condition on the approval of the label imposed under section 23 of the old law is taken, from commencement, to be a condition imposed on the approval of the label under subsection 23A(2) of the new law; and
-
-                     (d)  any condition prescribed by regulations made under paragraph 23A(1)(a) of the new law is taken to be a condition imposed on the approval of the label.
-
-(2)        In this item:
-
-**_commencement_** means the day this item commences.
-
-**_new law_** means the _Agricultural and Veterinary Chemicals Code Act 1994_, as in force immediately after commencement.
-
-**_old law_** means the _Agricultural and Veterinary Chemicals Code Act 1994_, as in force immediately before commencement.
-
-## 8  Application
-
-(1)        The amendment made by item 2 of this Schedule applies in relation to:
-
-                     (a)  an application for approval of a label for containers for a chemical product under section 10 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ that is made on or after the day this item commences; and
-
-                    (aa)  an application for variation of the relevant particulars of the approval for a label for containers for a chemical product under section 26A of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_, as inserted by this Schedule, that is made on or after the day this item commences; and
-
-                     (b)  an application for variation of the relevant particulars or conditions of the approval for a label for containers for a chemical product under section 27 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ that is made on or after the day this item commences; and
-
-                     (c)  a reconsideration of the approval of a label for containers for a chemical product under section 34 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_, as amended by this Schedule, if:
-
-                              (i)  the APVMA has published a notice in respect of the label for containers for the chemical product under subsection 32(1) of the Schedule to that Act before, on or after the day this item commences; or
-
-                             (ii)  the APVMA had given written notice in respect of the label for containers for the chemical product under subsection 32(2) of the Schedule to that Act to an interested person or an approved person before the day this item commences and, on the day this item commences, the period stated in the notice has not expired; or
-
-                            (iii)  the APVMA gives written notice in respect of the label for containers for the chemical product under subsection 32(2) of the Schedule to that Act to an interested person or an approved person on or after the day this item commences; and
-
-                     (d)  a reconsideration of the approval of a label for containers for a chemical product under section 34A of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_, as amended by this Schedule, that began before, or begins on or after, the day this item commences; and
-
-                     (e)  a standard for a chemical product that is submitted to the Minister for approval under section 56D of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ on or after the day this item commences.
-
-(2)        The amendments made by items 3, 4, 5, 6 and 7 of this Schedule apply in respect of an application for a permit that is made on or after the day this item commences.
-
-(2A)     The amendments made by items 4A, 5A, 6B, 6C, 6D, 6E, 6F, 6H, 6K, 6L, 6M, 6N, 6P, 6Q, 6R, 6S, 6T, 6U, 6V, 6W, 6X, 6Y, 6Z and 7B of this Schedule apply in relation to:
-
-                     (a)  an application for approval of a label for containers for a chemical product under section 10 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ that is made on or after the day this item commences; and
-
-                     (b)  an application for variation of the relevant particulars of the approval for a label for containers for a chemical product under section 26A of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_, as inserted by this Schedule, that is made on or after the day this item commences; and
-
-                     (c)  an application for variation of the relevant particulars or conditions of the approval for a label for containers for a chemical product under section 27 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ that is made on or after the day this item commences; and
-
-                     (d)  a reconsideration of the approval of a label for containers for a chemical product under section 34 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_, as amended by this Schedule, if:
-
-                              (i)  the APVMA has published a notice in respect of the label for containers for the chemical product under subsection 32(1) of the Schedule to that Act before, on or after the day this item commences; or
-
-                             (ii)  the APVMA had given written notice in respect of the label for containers for the chemical product under subsection 32(2) of the Schedule to that Act to an interested person or an approved person before the day this item commences and, on the day this item commences, the period stated in the notice has not expired; or
-
-                            (iii)  the APVMA gives written notice in respect of the label for containers for the chemical product under subsection 32(2) of the Schedule to that Act to an interested person or an approved person on or after the day this item commences; and
-
-                     (e)  a reconsideration of the approval of a label for containers for a chemical product under section 34A of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_, as amended by this Schedule, that begins on or after the day this item commences; and
-
-                      (f)  a standard for a chemical product that is submitted to the Minister for approval under section 56D of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ on or after the day this item commences.
-
-(2B)     The amendments made by items 5B, 6A, 6G, 6J and 7A of this Schedule apply in respect of an application for a variation that is made on or after the day this item commences.
-
-(3)        In this item:
-
-**_approval_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-**_approved person_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_, as amended by this Schedule.
-
-**_chemical product_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-**_container_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-**_interested person_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-**_label_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-**_permit_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
-
-**_relevant particulars_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_, as amended by this Schedule.
-
-**_variations_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
 
  
 
