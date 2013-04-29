@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00312/Html/ef73135b-0a6c-404f-bea2-41c2cb63a7c5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00553/Html/92529167-7f4f-4c69-8a3d-fc943341b0a5_files/image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 20 March 2012
+This compilation was prepared on 18 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
@@ -126,8 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19N](#19N).       Discretion to investigate complaints as Commonwealth Ombudsman or as Postal Industry Ombudsman
 
-[19P](#19P).        Discretion to refer complaint to another statutory 
- office‑holder
+[19P](#19P).        Discretion to refer complaint to another statutory office‑holder
 
 [19Q](#19Q).       Discretion not to investigate certain complaints
 
@@ -2430,7 +2429,7 @@ Note:          For information, documents or other records giv
 
              (4)  A PPO is taken to be registered for the purposes of this Part from the time when the Postal Industry Ombudsman includes that PPO on the Register.
 
-##### <a id="19ZB"></a>19ZB  Information to be included in Register
+##### <a id="19ZB"></a>19ZB  Information to be included in Register
 
              (1)  The Postal Industry Ombudsman must include the following information in the register:
 
@@ -3171,21 +3170,33 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to that office; or
 
-                     (b)  during any period, or during all periods, when the Ombudsman is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Ombudsman is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
           (1A)  The Minister may appoint a person to act in an office of Deputy Commonwealth Ombudsman:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to that office; or
 
-                     (b)  during any period, or during all periods, when a Deputy Ombudsman is absent from duty or from Australia or is, for any other reason, unable to perform the functions of Deputy Ombudsman.
+                     (b)  during any period, or during all periods, when a Deputy Ombudsman is absent from duty or from Australia or is, for any other reason, unable to perform the functions of Deputy Ombudsman;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) or (1A) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
              (3)  If a Deputy Commonwealth Ombudsman is at any time appointed to act in the office of Commonwealth Ombudsman, his or her office shall, during the period of his or her appointment, be deemed, for the purposes of this section, to be vacant.
 
+             (4)  Where a person is acting in an office of Commonwealth Ombudsman or Deputy Commonwealth Ombudsman in accordance with paragraph (1)(b) or (1A)(b) and the office becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue to act in the office until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The Minister may terminate an appointment under subsection (1) or (1A) at any time.
+
+             (6)  The Minister may determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section.
+
              (7)  Sections 25 and 26 apply in relation to a person appointed under this section in like manner as they apply in relation to an Ombudsman.
+
+             (8)  Where a person is acting in an office in pursuance of an appointment under this section, he or she has, and may exercise, all the powers, and he or she may perform all the functions, of the holder of that office.
+
+             (9)  The validity of anything done by or in relation to a person purporting to act in an office under this section shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ### Division 2—Staff
 
@@ -4351,7 +4362,7 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -4770,9 +4781,8 @@ _(p)_     Subsection 2(1) (item 6) of the _Migration and Ombudsman Leg
     <div>
       The later of:
     </div>
-    <div>
-      (a) the start of the day on which this Act receives the Royal Assent;
-        and
+    <div>(
+      a) the start of the day on which this Act receives the Royal Assent; and
     </div>
     <div>
       (b) immediately after the commencement of item 11 of Schedule 1 to the
@@ -4780,7 +4790,7 @@ _(p)_     Subsection 2(1) (item 6) of the _Migration and Ombudsman Leg
     </div>
     <div>
       However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
+      in paragraph (b) does not occur.
     </div>
   </td>
   <td>
@@ -6053,23 +6063,7 @@ No. 49, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 168, 1986; No. 199, 1991; No. 33, 1994; No. 141, 2005; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 168, 1986; No. 199, 1991; No. 33, 1994; No. 141, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6266,6 +6260,48 @@ No. 49, 2001</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 894  Paragraph 29(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 895  Subsection 29(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 896  At the end of subsection 29(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 897  Paragraph 29(1A)(b)
+
+Omit “Deputy Ombudsman;”, substitute “Deputy Ombudsman.”.
+
+## 898  Subsection 29(1A)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 899  At the end of subsection 29(1A)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 900  Subsections 29(2), (4), (5), (6), (8) and (9)
+
+Repeal the subsections.
+
+As at 18 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6391,6 +6427,8 @@ The first report under section 19ZS of the _Ombudsman Act 1976_ relating to th
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
