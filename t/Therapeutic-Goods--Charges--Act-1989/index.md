@@ -1,344 +1,345 @@
-![](http://www.comlaw.gov.au/Details/C2008C00553/Html/TherapeuticGoodsCharges1989_image001.gif)
+**
 
-# Therapeutic Goods (Charges) Act 1989
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989 
+**
 
-**Act No. 22 of 1990 as amended**
 
-This compilation was prepared on 17 October 2008
- taking into account amendments up to Act No. 96 of 2008
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement
 
-[3](#3).            Incorporation
 
-[4](#4).            Charges
 
-[5](#5).            Regulations
 
-**Notes** 
 
-## An Act to impose an annual charge on the registration, listing and inclusion in the Register of therapeutic goods, and on the licensing of manufacturers of therapeutic goods
+**
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+###  Long Title 
+**
 
-                   This Act may be cited as the _Therapeutic Goods (Charges) Act 1989_.
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-##### <a id="2"></a>2  Commencement
+		This Act may be cited as the _Therapeutic Goods (Charges) Act 1989_.
 
-                   This Act commences on 1 July 1990.
+ </dl>
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989- SECT 2  Commencement 
+<dl compact="">
 
-##### <a id="3"></a>3  Incorporation
+		This Act commences on 1&#160;July 1990.
 
-             (1)  The _Therapeutic Goods Act 1989_ is incorporated, and is to be read as one, with this Act.
+ </dl>
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989- SECT 3  Incorporation 
+<dl compact="">
 
-             (2)  However, for the purposes of this Act, if a suspension of a kind of medical device, or any medical devices of a particular kind, has effect under Chapter 4 of the _Therapeutic Goods Act 1989_, that kind of medical device is taken to be included in the Register under that Chapter.
+<dt>(1)</dt><dd>The _Therapeutic Goods Act 1989_ is incorporated, and is to be read
 
-##### <a id="4"></a>4  Charges
+as one, with this Act.</dd> <dt>(2)</dt><dd>However, for the purposes of this Act, if a suspension of a kind of medical device, or any medical devices of a particular kind, has effect under Chapter&#160;4 of the _Therapeutic Goods Act 1989_, that kind of medical device is taken to be included in the Register under that Chapter. </dd> </dl>
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989- SECT 4  Charges 
+<dl compact="">
 
-             (1)  Annual charges of such amounts as are prescribed are payable in respect of the registration or listing of therapeutic goods, other than grouped therapeutic goods, that is in force at any time during a financial year.
+<dt>(1)</dt><dd>Annual charges of such amounts as are prescribed are payable in respect of
 
-          (1A)  If the registration or listing of one or more grouped therapeutic goods, being goods covered by a single registration or listing number, is in force at any time during a financial year, an annual charge of such amount as is prescribed is payable in respect of all of the registrations or listings concerned.
+the registration or listing of therapeutic goods, other than grouped
 
-          (1B)  Annual charges of such amounts as are prescribed are payable in respect of the inclusion of kinds of medical devices in the Register under Chapter 4 of the Therapeutic Goods Act that has effect at any time during a financial year.
+therapeutic goods, that is in force at any time during a financial year.</dd> <dt>(1A)</dt><dd>If the registration or listing of one or more grouped therapeutic goods, being goods covered by a single registration or listing number, is in force at any time during a financial year, an annual charge of such amount as is prescribed is payable in respect of all of the registrations or listings concerned.</dd> <dt>(1B)</dt><dd>Annual charges of such amounts as are prescribed are payable in respect of the inclusion of kinds of medical devices in the Register under Chapter&#160;4 of the Therapeutic Goods Act that has effect at any time during a financial year.</dd> <dt>(2)</dt><dd>An annual charge of such amount as is prescribed is payable in respect of a licence that is in force at any time during a financial year.</dd> <dt>(3)</dt><dd>If: </dd> </dl>
+<dl compact=""><dl compact="">
 
-             (2)  An annual charge of such amount as is prescribed is payable in respect of a licence that is in force at any time during a financial year.
+<dt>(a)</dt><dd>goods are included in the Register under subsection 6A(3) of the
 
-             (3)  If:
+Therapeutic Goods Act; and</dd>
 
-                     (a)  goods are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
+<dt>(b)</dt><dd>the goods are so included for the purposes of a provision of a
 
-                     (b)  the goods are so included for the purposes of a provision of a corresponding State law that provides for registration of therapeutic goods by the inclusion of the goods in the Register;
+corresponding State law that provides for registration of therapeutic goods by
 
-this section has effect as if the goods had been registered under Part 3-2 of the Therapeutic Goods Act.
+the inclusion of the goods in the Register;
 
-             (4)  If:
+</dd>
 
-                     (a)  goods are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
+</dl></dl>
+<dl compact="">
 
-                     (b)  the goods are so included for the purposes of a provision of a corresponding State law that provides for listing of therapeutic goods by the inclusion of the goods in the Register;
+<dt>(4)</dt><dd>If:
 
-this section has effect as if the goods had been listed under Part 3-2 of the Therapeutic Goods Act.
+</dd> </dl>
 
-          (4A)  If:
+Back to Top
 
-                     (a)  medical devices are included in the Register under subsection 6A(3) of the Therapeutic Goods Act; and
+<dl compact=""><dl compact="">
 
-                     (b)  the devices are so included for the purposes of a provision of a corresponding State law that provides for the inclusion of devices in the Register;
+<dt>(a)</dt><dd>goods are included in the Register under subsection 6A(3) of the
 
-this section has effect as if the devices had been included in the Register under Chapter 4 of the Therapeutic Goods Act.
+Therapeutic Goods Act; and</dd>
 
-             (5)  If:
+<dt>(b)</dt><dd>the goods are so included for the purposes of a provision of a
 
-                     (a)  a licence is issued by the Secretary by virtue of subsection 6A(1) of the Therapeutic Goods Act; and
+corresponding State law that provides for listing of therapeutic goods by the
 
-                     (b)  the licence is issued for the purposes of provisions of a corresponding State law that correspond to Part 3-3 of the Therapeutic Goods Act;
+inclusion of the goods in the Register;
 
-this section has effect as if the licence had been issued under Part 3-3 of the Therapeutic Goods Act.
+</dd>
 
-             (6)  In this section, **_Therapeutic Goods Act_** means the _Therapeutic Goods Act 1989_.
+</dl></dl>
+<dl compact="">
 
-##### <a id="5"></a>5  Regulations
+<dt>(4A)</dt><dd>If:
 
-             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing the amounts of charges.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (2)  The regulations may prescribe different charges in relation to:
+<dt>(a)</dt><dd>medical devices are included in the Register under subsection 6A(3) of the
 
-                     (a)  different classes of goods (including medical devices); or
+Therapeutic Goods Act; and</dd>
 
-                     (b)  in the case of annual licensing charges—different steps in the manufacture of goods.
+<dt>(b)</dt><dd>the devices are so included for the purposes of a provision of a
 
-             (3)  The regulations shall provide that annual charges in respect of the registration or listing of therapeutic goods, or the inclusion of kinds of medical devices in the Register under Chapter 4 of the _Therapeutic Goods Act 1989_, are not payable by persons whose turnover of those goods or devices is of low volume and low value. 
+corresponding State law that provides for the inclusion of devices in the
 
-# Notes to the _Therapeutic Goods (Charges) Act 1989_
+Register;
 
-### Note 1
+</dd>
 
-The _Therapeutic Goods (Charges) Act 1989_ as shown in this compilation comprises Act No. 22, 1990 amended as indicated in the Tables below.
+</dl></dl>
+<dl compact="">
 
-All relevant information pertaining to application, saving or transitional provisions prior to 3 October 2008 is not included in this compilation. For subsequent information _see_ Table A.
+<dt>(5)</dt><dd>If:
 
-### Table of Acts
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dt>(a)</dt><dd>a licence is issued by the Secretary by virtue of subsection 6A(1) of the
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+Therapeutic Goods Act; and</dd>
+
+<dt>(b)</dt><dd>the licence is issued for the purposes of provisions of a corresponding
+
+State law that correspond to Part&#160;3-3 of the Therapeutic Goods Act;
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(6)</dt><dd>In this section, _Therapeutic Goods Act_ means the
+
+_Therapeutic Goods Act 1989_.
+
+</dd> </dl>
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989- SECT 5  Regulations 
+<dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing the amounts of charges.</dd> <dt>(2)</dt><dd>The regulations may prescribe different charges in relation to: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>different classes of goods (including medical devices); or</dd>
+
+<dt>(b)</dt><dd>in the case of annual licensing charges&#151;different steps in the
+
+manufacture of goods.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(3)</dt><dd>The regulations shall provide that annual charges in respect of the
+
+registration or listing of therapeutic goods, or the inclusion of kinds of
+
+medical devices in the Register under Chapter&#160;4 of the _Therapeutic Goods Act 1989_, are not payable by persons whose turnover of those goods or
+
+devices is of low volume and low value.
+
+</dd> </dl>
+**
+
+###  THERAPEUTIC GOODS (CHARGES) ACT 1989<centreit>Notes to the _Therapeutic Goods (Charges) Act 1989_ </centreit>
+**
+Note 1
+Therapeutic Goods (Charges) Act 1989
+Table of Acts
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Therapeutic Goods (Charges) Act 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Therapeutic Goods (Charges) Act 1989_</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>22, 1990</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Jan 1990</div>
+
   </td>
-  <td>
-    <div>1 July 1990</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1990</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Therapeutic Goods (Charges) Amendment Act 1991</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Therapeutic Goods (Charges) Amendment Act 1991_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>85, 1991</div>
+
   </td>
-  <td>
-    <div>26 June 1991</div>
+  <td colspan="1" align="left">
+    <div>26&#160;June 1991</div>
+
   </td>
-  <td>
-    <div>26 June 1991 
-( <i>see</i>s. 2)</div>
+  <td colspan="1" align="left">
+    <div>26&#160;June 1991 
+( _see_s. 2)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 4 and 5</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Therapeutic Goods (Charges) Amendment Act 1993</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Therapeutic Goods (Charges) Amendment Act 1993_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>62, 1993</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3 Nov 1993</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3 Nov 1993</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Therapeutic Goods (Charges) Amendment Act 2002</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Therapeutic Goods (Charges) Amendment Act 2002_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25, 2002</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4 Apr 2002</div>
+
   </td>
-  <td>
-    <div>Schedule 1: 4 Oct 2002 ( <i>see s.</i>2(1))  
+  <td colspan="1" align="left">
+    <div>Schedule 1: 4 Oct 2002 ( _see s._2(1)) 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Therapeutic Goods Legislation Amendment (Annual Charges) Act 2008</div>
-  </td>
-  <td>
-    <div>96, 2008</div>
-  </td>
-  <td>
-    <div>3 Oct 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–6): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Table of Amendments
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-## Table of Amendments
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Title</div>
+
   </td>
-  <td>
-    <div>am. No. 25, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No. 25, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 25, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No. 25, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 85, 1991; No. 62, 1993; No. 25, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;85, 1991; No.&#160;62, 1993; No. 25, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 25, 2002</div>
+  <td colspan="1" align="left">
+    <div>am. No. 25, 2002</div>
+
   </td>
-</tr></table>
+</tr>
 
-### Note 2
 
-_Therapeutic Goods Legislation Amendment (Annual Charges) Act 2008 (No. 96, 2008)_
 
-The following amendments commence on 3 April 2009 unless proclaimed earlier:
 
-## Schedule 1
 
-## 4  Subsections 4(3) to (6)
 
-Repeal the subsections, substitute:
-
-Corresponding State laws
-
-             (3)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as registered goods, this section has effect as if the goods had been registered under Part 3-2 of that Act.
-
-             (4)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for goods known as listed goods, this section has effect as if the goods had been listed under Part 3-2 of that Act.
-
-             (5)  If, because of the operation of section 6AAE of the Therapeutic Goods Act, goods are included in the part of the Register for medical devices included under Chapter 4, this section has effect as if the goods had been included in the Register under Chapter 4 of that Act.
-
-             (6)  If:
-
-                     (a)  because of the operation of section 6AAA, 6AAB or 6AAC of the Therapeutic Goods Act, the Secretary issues a licence; and
-
-                     (b)  the licence is issued for the purposes of provisions of a corresponding State law that correspond to Part 3-3 of the Therapeutic Goods Act;
-
-this section has effect as if the licence had been issued under Part 3-3 of that Act.
-
-Definitions
-
-             (7)  In this section:
-
-                    <a name="amount"></a>**_amount_** includes a nil amount.
-
-                    <a name="therapeut-good-act"></a>**_Therapeutic Goods Act_** means the _Therapeutic Goods Act 1989_.
-
-## 5  Subsection 5(3)
-
-Repeal the subsection.
-
-As at 17 October 2008 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Therapeutic Goods Legislation Amendment (Annual Charges) Act 2008 (No. 96, 2008)_
-
-The following provision commences on 3 April 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 6  Saving
-
-Despite the repeal of subsection 5(3) of the _Therapeutic Goods (Charges) Act 1989_ made by this Act, that subsection continues to apply after the commencement of this item in relation to working out whether the annual charges mentioned in that subsection are payable by persons for the financial year beginning on 1 July 2008 and all earlier financial years.
-
- 
