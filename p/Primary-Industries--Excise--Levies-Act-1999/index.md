@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00754/Html/PrimIndExciseLevies1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00538/Html/PrimIndExciseLevies1999_WD02_image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 23 November 2010
- taking into account amendments up to Act No. 122 of 2010
+This compilation was prepared on 3 September 2007
+ taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2522,7 +2522,7 @@ may make recommendations to the Minister in relation to regulations to be made f
 
                    The rate of levy imposed by this Schedule is an amount in respect of each laying chicken equal to the sum of:
 
-                     (a)  such amount (not exceeding 30 cents) as is prescribed by the regulations for the purposes of this paragraph; and
+                     (a)  such amount (not exceeding 10 cents) as is prescribed by the regulations for the purposes of this paragraph; and
 
                      (b)  0.21 cent or, if another amount (not exceeding 0.33 cent) is prescribed by the regulations for the purposes of this paragraph, the other amount.
 
@@ -4314,24 +4314,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries (Excise) Levies Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>122, 2010</div>
-  </td>
-  <td>
-    <div>17 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 18 Nov 2010 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Primary Industries (Excise) Levies Act 1999_ was amended by the _Primary Industries (Excise) Levies (GST Consequential Amendments) Act 2000_, section 2 of which provides as follows:
@@ -4772,14 +4754,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 </tr>
 <tr>
   <td>
-    <div>C. 4</div>
-  </td>
-  <td>
-    <div>am. No. 122, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>C. 6</div>
   </td>
   <td>
@@ -4999,8 +4973,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 
 ### Application, saving or transitional provisions
 
-_Primary Industries (Excise) Levies Amendment (Dairy) Act 2003 
- (No. 31, 2003)_
+_Primary Industries (Excise) Levies Amendment (Dairy) Act 2003 (No. 31, 2003)_
 
 ## Schedule 1
 
@@ -5049,8 +5022,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 * * *
 
-_Primary Industries (Excise) Levies Amendment (Rice) Act 2005 
- (No. 84, 2005)_
+_Primary Industries (Excise) Levies Amendment (Rice) Act 2005 (No. 84, 2005)_
 
 ## Schedule 1
 
