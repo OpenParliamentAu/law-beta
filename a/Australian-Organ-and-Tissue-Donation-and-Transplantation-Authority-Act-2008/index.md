@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00051/Html/f085e550-40d5-44ef-b291-0a768552e047_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00682/Html/cdcac683-5424-433c-9f9c-d7c74cb14e63_files/image001.gif)
 
 # Australian Organ and Tissue Donation and Transplantation Authority Act 2008
 
 **Act No. 122 of 2008 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 26 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -512,11 +512,11 @@ Note:          For variation and revocation, see subsection 33
 
                    The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="16"></a>16  Acting appointments
 
-                   The Minister may appoint a person to act as the CEO:
+             (1)  The Minister may appoint a person to act as the CEO:
 
                      (a)  during a vacancy in the office of CEO (whether or not an appointment has previously been made to the office); or
 
@@ -526,7 +526,19 @@ Note:          The CEO  may be reappointed: see section 33AA
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Validation
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ### Division 3—Terms and conditions for the CEO
 
@@ -714,7 +726,7 @@ Note:          In this Act, **_Advisory Council_** means the A
 
              (3)  An Advisory Council member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          An Advisory Council member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (4)  An Advisory Council member holds office on a part‑time basis.
 
@@ -760,7 +772,7 @@ Note:          For variation and revocation, see subsection 33
 
              (3)  A direction given under subsection (2) is not a legislative instrument.
 
-##### <a id="36"></a>36  Acting appointments—Chair
+##### <a id="36"></a>36  Acting appointments—Chair
 
              (1)  The Minister may appoint a person to act as the Chair of the Advisory Council:
 
@@ -772,21 +784,45 @@ Note:          For variation and revocation, see subsection 33
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person is not eligible for appointment to act as the Chair of the Advisory Council unless the person is eligible for appointment as an Advisory Council member.
 
 Note:          See subsection 34(6).
+
+Validation
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="37"></a>37  Acting appointments—members other than the Chair
 
              (1)  The Minister may appoint a person to act as an Advisory Council member other than the Chair.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person is not eligible for appointment to act as an Advisory Council member unless the person is eligible for appointment as an Advisory Council member.
 
 Note:          See subsection 34(6).
+
+Validation
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See section 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="38"></a>38  Remuneration and allowances
 
@@ -828,7 +864,7 @@ Note:          A similar rule applies to an Advisory Council m
 
                    An Advisory Council member must give written notice to the Minister of all interests, pecuniary or otherwise, that the member has or acquires and that conflict or could conflict with the proper performance of the member’s functions.
 
-##### <a id="42"></a>42  Disclosure of interests to the Advisory Council
+##### <a id="42"></a>42  Disclosure of interests to the Advisory Council
 
              (1)  An Advisory Council member  who has an interest, pecuniary or otherwise, in a matter being considered or about to be considered by the Advisory Council must disclose the nature of the interest to a meeting of the Advisory Council.
 
@@ -878,7 +914,7 @@ Note:          For variation and revocation, see subsection 33
 
              (2)  An expert advisory committee member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          An expert advisory committee member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (3)  An expert advisory committee member holds office on a part‑time basis.
 
@@ -1020,7 +1056,7 @@ Terms and conditions
 
                      (b)  a standard or code of practice declared under paragraph 11(1)(b).
 
-##### <a id="56"></a>56  Grant to a person other than a State or Territory
+##### <a id="56"></a>56  Grant to a person other than a State or Territory
 
 Scope
 
@@ -1211,7 +1247,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 217–226) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 217–226) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1367,109 +1403,77 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   <td>
     <div>am. No. 8, 2010</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 34(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 36(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 37(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 46(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 217  Section 15 (note)
+
+Repeal the note, substitute:
+
+Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 218  Subsection 16(1)
+
+Omit “(1)”.
+
+## 219  At the end of subsection 16(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 220  Subsection 16(2)
+
+Repeal the subsection.
+
+## 221  Subsection 34(3) (note)
+
+Repeal the note, substitute:
+
+Note:          An Advisory Council member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 222  At the end of subsection 36(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 223  Subsection 36(3)
+
+Repeal the subsection.
+
+## 224  At the end of subsection 37(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 225  Subsection 37(3)
+
+Repeal the subsection.
+
+## 226  Subsection 46(2) (note)
+
+Repeal the note, substitute:
+
+Note:          An expert advisory committee member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+As at 26 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
