@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00338/Html/c243b6ad-7e94-48f2-a310-7be72a1e45ef_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00543/Html/3403cb55-67d1-4108-9a19-5e7ff1c5caa8_files/image001.gif)
 
 # National Blood Authority Act 2003
 
 **Act No. 29 of 2003 as amended**
 
-This compilation was prepared on 27 March 2012
+This compilation was prepared on 18 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _National Blood Authority_ _Act 2003_.
+                   This Act may be cited as the _National Blood Authority_ _Act 2003_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -375,7 +375,7 @@ Requirements to give information
 
 Note 1:       Sections 28A and 29 of the _Acts Interpretation Act 1901_ (which deal with service of documents) apply to a notice given under this section.
 
-Note 2:       For **_document_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note 2:       For **_document_**, see section 25 of the _Acts Interpretation Act 1901_.
 
              (2)  A notice given under subsection (1) must specify:
 
@@ -395,7 +395,7 @@ Who may be required to give information
 
                      (d)  a person specified in the regulations.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
 Information that may be required to be given
 
@@ -525,17 +525,23 @@ Compensation for giving documents
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as a Board member:
 
                      (a)  during a vacancy in the office of a Board member, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when a Board member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (3)  The Minister may only appoint a person to act as a Board member described in one of paragraphs 14(b) to (f) if the person is qualified to be appointed as the Board member described in the paragraph concerned.
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="18"></a>18  Members’ remuneration
 
@@ -559,7 +565,7 @@ Note:          A similar rule applies to a Board member who ha
 
              (5)  This section (except subsection (2)) has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="19"></a>19  Leave of absence
+##### <a id="19"></a>19  Leave of absence
 
              (1)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
 
@@ -653,13 +659,21 @@ Note:          A similar rule applies to a Board member who ha
 
 ##### <a id="29"></a>29  Acting appointments
 
-                   The Minister may appoint a person to act as the General Manager:
+             (1)  The Minister may appoint a person to act as the General Manager:
 
                      (a)  during a vacancy in the office of General Manager, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the General Manager is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="30"></a>30  General Manager’s remuneration
 
@@ -944,7 +958,7 @@ Remainder: Royal Assent</div>
     <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 80): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (item 80): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -978,10 +992,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 774–780) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 774–780) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -1093,8 +1107,8 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1146,46 +1160,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Note 2 to s. 10(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 17(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -1206,22 +1180,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1257,6 +1215,48 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 774  Subsection 10(1) (note 2)
+
+Omit “section 25”, substitute “section 2B”.
+
+## 775  Subsection 10(3) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+## 776  At the end of subsections 17(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 777  Subsection 17(4)
+
+Repeal the subsection.
+
+## 778  Subsection 29(1)
+
+Omit “(1)”.
+
+## 779  At the end of subsection 29(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 780  Subsection 29(2)
+
+Repeal the subsection.
+
+As at 18 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1286,6 +1286,8 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
