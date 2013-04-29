@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00266/Html/CorporationsFees2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00421/Html/CorporationsFees2001_WD02_image001.gif)
 
 # Corporations (Fees) Act 2001
 
 **Act No. 52 of 2001 as amended**
 
-This compilation was prepared on 1 April 2010
- taking into account amendments up to Act No. 27 of 2010
+This compilation was prepared on 4 July 2007
+ taking into account amendments up to Act No. 102 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -341,24 +341,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Fees) Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>27, 2010</div>
-  </td>
-  <td>
-    <div>25 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -425,58 +407,6 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Corporations (Fees) Amendment Act 2010 (No. 27, 2010)_
-
-The following amendments commence at the same time as Schedule 1 to the _Corporations Amendment (Financial Market Supervision) Act 2010_:
-
-## Schedule 1
-
-## 1  Subsection 4(1) (at the end of the definition of _chargeable matter_)
-
-Add:
-
-                  ; (m)  the performance by ASIC of its functions under Part 7.2A (Supervision of financial markets) of the _Corporations Act 2001_.
-
-## 2  Subsection 5(1)
-
-Omit “section 6”, substitute “sections 6 and 6A”.
-
-## 3  At the end of section 6
-
-Add:
-
-             (6)  This section does not apply in relation to a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1).
-
-## 4  After section 6
-
-Insert:
-
-##### <a id="6A"></a>6A  Matters relating to amount of fees for market supervision
-
-             (1)  The regulations may prescribe a fee for a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1):
-
-                     (a)  by specifying an amount as the fee; or
-
-                     (b)  by specifying a method for calculating the amount of the fee.
-
-             (2)  The fee prescribed under subsection (1) need not bear any relationship to the cost of providing any service that forms part of, or is related to, the chargeable matter.
-
-## 5  At the end of subsection 7(1)
-
-Add:
-
-                  ; (m)  for a chargeable matter referred to in paragraph (m) of that definition:
-
-                              (i)  person liable—the operator of a licensed market; and
-
-                             (ii)  time liability incurred—the time or times determined in accordance with the regulations.
-
-## 6  Section 8
-
-Omit “and 6”, substitute “, 6 and 6A”.
-
-As at 1 April 2010 the amendments are not incorporated in this compilation.
+ 
 
  
