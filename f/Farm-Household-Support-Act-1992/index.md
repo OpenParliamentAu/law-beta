@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image001.gif)
 
 # Farm Household Support Act 1992
 
 **Act No. 241 of 1992 as amended**
 
-This compilation was prepared on 6 April 2009
- taking into account amendments up to Act No. 27 of 2009
+This compilation was prepared on 23 February 2009
+ taking into account amendments up to Act No. 4 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1192,7 +1192,7 @@ disregard the off-farm salary and wages of the person, or if the person is a mem
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
 
                             where:
 
@@ -1206,7 +1206,7 @@ disregard the off-farm salary and wages of the person, or if the person is a mem
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
 
                             where:
 
@@ -1219,26 +1219,6 @@ disregard the off-farm salary and wages of the person, or if the person is a mem
 Farmers hardship bonus disregarded
 
              (8)  To avoid doubt, in calculating a rate referred to in subsection (1), any farmers hardship bonus under the _Social Security Act 1991_ is to be disregarded.
-
-Certain superannuation contributions disregarded
-
-             (9)  For the purposes of calculating a rate referred to in subsection (1) for a person who has not reached pension age, disregard contributions made by the person’s employer to a superannuation fund or RSA for the person’s benefit, other than contributions made by a company or trust if the person is:
-
-                     (a)  an attributable stakeholder of the company or trust; or
-
-                     (b)  an associate under paragraph 1207C(1)(e), (h), (i) or (j) of the _Social Security Act 1991_ of a person who is an attributable stakeholder of the company or trust.
-
-Note:          Those paragraphs of the _Social Security Act 1991_ cover a relative, a business partner, a spouse or child of a business partner and a trustee of a trust (where the person concerned can benefit from the trust).
-
-           (10)  In subsection (9):
-
-                    <a name="attribut-stakehold"></a>**_attributable stakeholder_** of a company or trust has the meaning given by section 1207X of the _Social Security Act 1991_.
-
-                    <a name="pension-ag"></a>**_pension age_** has the meaning given by section 23 of the _Social Security Act 1991_.
-
-                    <a name="rsa"></a>**_RSA_** has the meaning given by the _Retirement Savings Accounts Act 1997_.
-
-                    <a name="superannu-fund"></a>**_superannuation fund_** has the meaning given by section 10 of the _Superannuation Industry (Supervision) Act 1993_.
 
 ##### <a id="24AA"></a>24AA  Rate of exceptional circumstances relief payment—how worked out for small business operators
 
@@ -1290,7 +1270,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image002.gif)
 
                             where:
 
@@ -1314,7 +1294,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image003.gif)
 
                             where:
 
@@ -1327,10 +1307,6 @@ disregard the salary and wages of the person from other sources or, if the perso
 Farmers hardship bonus disregarded
 
            (10)  To avoid doubt, in calculating a rate referred to in subsection (1), any farmers hardship bonus under the _Social Security Act 1991_ is to be disregarded.
-
-Certain superannuation contributions disregarded
-
-           (11)  For the purposes of calculating a rate referred to in subsection (1) for a person who has not reached pension age (within the meaning of section 23 of the _Social Security Act 1991_), disregard contributions that are disregarded under subsection 24A(9).
 
 ### Division 3—Rate of farm help income support
 
@@ -1404,7 +1380,7 @@ Certain superannuation contributions disregarded
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image004.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1412,7 +1388,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image005.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1422,7 +1398,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image006.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1510,7 +1486,7 @@ the amount is to be increased by 0.5 cent.
 
              (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2009C00154/Html/FarmHouseholdSupport1992_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00094/Html/FarmHouseholdSupport1992_WD02HYP_image007.gif)
 
              (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
@@ -3093,23 +3069,6 @@ Remainder: Royal Assent</div>
       <div>Sch. 4 (item 1) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
-    </td>
-    <td>
-      <div>27, 2009</div>
-    </td>
-    <td>
-      <div>26 Mar 2009</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 3 (items 92, 93, 102(1)): 27 Mar 2009</div>
-    </td>
-    <td>
-      <div>Sch. 3 (item 102(1)) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -4270,7 +4229,7 @@ Div. 1 of Part 4</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 1 and 59, 1996; Nos. 22, 179 and 197, 1997; No. 93, 1998; No. 83,1999; No. 106, 2000; No. 69, 2005; No. 60, 2007; No. 39, 2008; Nos. 4 and 27, 2009</div>
+    <div>am. Nos. 1 and 59, 1996; Nos. 22, 179 and 197, 1997; No. 93, 1998; No. 83,1999; No. 106, 2000; No. 69, 2005; No. 60, 2007; No. 39, 2008; No. 4\. 2009</div>
   </td>
 </tr>
 <tr>
@@ -4302,7 +4261,7 @@ Div. 1 of Part 4</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 39, 2008; Nos. 4 and 27, 2009</div>
+    <div>am. No. 39, 2008; No. 4, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5723,7 +5682,7 @@ _Farm Household Support Amendment (Exceptional Circumstances Relief Payment) Act
 
 ## Schedule 1
 
-## 5  Transitional provision—existing exceptional circumstances certificates
+## 5  Transitional provision—existing exceptional circumstances certificates
 
 If:
 
@@ -6045,13 +6004,4 @@ may, by legislative instrument, determine a scheme under which household stimulu
 
 (5)        Payments under the scheme are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-* * *
-
-_Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
-
-## Schedule 3
-
-## 102  Application
-
-(1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
  
