@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00840/Html/e5606aae-a1d1-4237-bd32-10cce31758fa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00419/Html/86495d56-27fe-499c-8c66-50c652076d05_files/image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 21 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 April 2012
+ taking into account amendments up to Act No. 24 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -607,7 +608,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [217](#217).        Disclosure to Committee by Minister
 
-[218](#218).        Ombudsman to brief Committee about controlled operations
+[218](#218).        Ombudsman to brief committee about controlled operations
 
 **Part 15—Miscellaneous**
 
@@ -631,7 +632,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Law Enforcement Integrity Commissioner Act 2006_.
 
@@ -2448,7 +2449,7 @@ Representation
 
 #### Subdivision A—Reporting during investigation
 
-##### <a id="52"></a>52  Integrity Commissioner to keep person who referred corruption issue informed of progress of investigation
+##### <a id="52"></a>52  Integrity Commissioner to keep person who referred corruption issue informed of progress of investigation
 
 Minister
 
@@ -3708,7 +3709,7 @@ Determination of who may be present not a legislative instrument
 
 #### Subdivision C—Taking evidence at hearing
 
-##### <a id="87"></a>87  Evidence on oath or by affirmation
+##### <a id="87"></a>87  Evidence on oath or by affirmation
 
              (1)  At a hearing, the Integrity Commissioner may:
 
@@ -4936,9 +4937,9 @@ Additional matters for warrant in relation to person
 
                             (iv)  in any case—a thing relevant to an indictable offence; or
 
-                             (v)  in any case—any eligible seizable item;
-
                             if the authorised officer or the assisting officer believes on reasonable grounds that seizure of the thing is necessary to prevent its concealment, loss or destruction or its use in committing an offence.
+
+                             (v)  in any case—any eligible seizable item;
 
 Successive warrants
 
@@ -5888,7 +5889,7 @@ the head of the first agency must not give the information or document to the he
 
 ##### <a id="152"></a>152  Integrity Commissioner giving section 149 certified information to agency head or special investigator
 
-                   If:
+                   If:
 
                      (a)  either:
 
@@ -7369,7 +7370,7 @@ Opportunity to appear and make submissions
 
                      (c)  the Speaker of the House of Representatives; or
 
-                     (d)  the Deputy President and Chair of Committees of the Senate or the Deputy Speaker of the House of Representatives.
+                     (d)  the Deputy President and Chair of Committees of the Senate or the Chair of Committees of the House of Representatives.
 
              (4)  A member ceases to hold office:
 
@@ -7481,7 +7482,7 @@ Opportunity to appear and make submissions
 
 ##### <a id="217"></a>217  Disclosure to Committee by Minister
 
-             (1)  Subject to subsections (2) and (3), the Minister must comply with a request by the Committee to give the Committee information in relation to an investigation of an ACLEI corruption issue that a special investigator has conducted or is conducting.
+             (1)  Subject to subsections (2) and (3), the Minister must comply with a request by the Committee to give the Committee information in relation to an investigation of a corruption issue that a special investigator has conducted or is conducting.
 
              (2)  The Minister must not comply with the request if:
 
@@ -7495,7 +7496,7 @@ Opportunity to appear and make submissions
 
                      (b)  the public interest that would be served by giving the information to the Committee is outweighed by the prejudicial consequences that might result from giving the information to the Committee.
 
-##### <a id="218"></a>218  Ombudsman to brief Committee about controlled operations
+##### <a id="218"></a>218  Ombudsman to brief committee about controlled operations
 
              (1)  At least once in each year the Ombudsman must provide a briefing to the Committee about the Integrity Commissioner’s involvement in controlled operations under Part IAB of the _Crimes Act 1914_ during the preceding 12 months.
 
@@ -7792,57 +7793,6 @@ Schedule 9: Royal Assent</div>
     <div>Sch. 4 (items 
 54–59) and Sch. 9 (item 2)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 12): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 82–84): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
@@ -7939,62 +7889,6 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
     </div>
     <div>
       (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
-_(b)_ Subsection 2(1) (item 12) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      12\. Schedule 2, item 12
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the
-        <i>Crimes Legislation Amendment (Powers and Offences) Act 2012</i>received
-        the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      4 April 2012
     </div>
   </td>
 </tr></table>
@@ -8551,38 +8445,6 @@ Part 9</div>
   </td>
   <td>
     <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 14</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 213</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 217</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 218</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
   </td>
 </tr></table>
 
