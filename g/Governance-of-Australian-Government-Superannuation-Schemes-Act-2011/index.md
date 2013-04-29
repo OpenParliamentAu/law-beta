@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00009/Html/4c3733ea-f9d5-4535-887d-1cc3b80dfa3f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00823/Html/d556b32e-053f-41fa-93f9-997618c72618_files/image001.gif)
 
 # Governance of Australian Government Superannuation Schemes Act 2011
 
 **Act No. 59 of 2011 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 13 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1024,9 +1024,9 @@ Sub‑delegations
 
                      (b)  a person referred to in another of those paragraphs.
 
-             (6)  Section 34AA and paragraphs 34AB(1)(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (6)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
 
-             (7)  Section 34A and paragraphs 34AB(1)(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
+             (7)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
 
 ##### <a id="37"></a>37  Review of operation of Act
 
@@ -1124,8 +1124,8 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 653, 654): <i>(a)</i> 
-Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 653, 654): \[ <i>see (a)</i>and Note 2] 
+Schedule 3 (items 10, 11): \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1218,7 +1218,7 @@ _(a)_     Subsection 2(1) (items 2 and 4) of the _Acts Interpretation Am
   </td>
   <td>
     <div>
-      27 December 2011
+
     </div>
   </td>
 </tr>
@@ -1247,7 +1247,8 @@ _(a)_     Subsection 2(1) (items 2 and 4) of the _Acts Interpretation Am
   </td>
   <td>
     <div>
-      27 December 2011
+      \[
+        <i>see</i>Note 2]
     </div>
     <div>
       (paragraph (a) applies)
@@ -1255,59 +1256,31 @@ _(a)_     Subsection 2(1) (items 2 and 4) of the _Acts Interpretation Am
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence immediately after 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 653  Subsection 36(6)
+
+Omit “paragraphs 34AB(a)”, substitute “paragraphs 34AB(1)(a)”.
+
+## 654  Subsection 36(7)
+
+Omit “paragraphs 34AB(c)”, substitute “paragraphs 34AB(1)(c)”.
+
+As at 13 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
