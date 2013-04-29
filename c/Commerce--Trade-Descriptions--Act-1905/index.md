@@ -1,884 +1,209 @@
-![](http://www.comlaw.gov.au/Details/C2004C02829/Html/CommTradeDes05_image001.gif)
+**<b>
 
-# Commerce (Trade Descriptions) Act 1905
+### <center><name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - Updated as at 27 August 1993 (HISTACT CHAP 1761 #DATE 27:08:1993) </name></center>
+</b>** *1*  The Commerce (Trade Descriptions) Act 1905 as shown in this reprint comprises Act No. 16, 1905 amended as indicated in the Tables below.<lf>                             Table of Acts<lf>     Act             Date          Date of           Application<lf>     Number and      of assent     commencement      saving or<lf>     year                                            transitional<lf>                                                     provisions<lf>     Commerce (Trade Descriptions) Act 1905<lf>     16, 1905        8 Dec 1905    8 June 1906 (see Gazette<lf>                                   1906, p. 131)<lf>     Commerce (Trade Descriptions) Act 1926<lf>     37, 1926        11 Aug 1926   11 Aug 1926            -<lf>     Commerce (Trade Descriptions) Act 1930<lf>     15, 1930        18 July 1930  18 July 1930           -<lf>     Commerce (Trade Descriptions) Act 1933<lf>     13, 1933        24 July 1933  24 July 1933           -<lf>     Statute Law Revision Act 1950<lf>     80, 1950        16 Dec 1950   31 Dec 1950       Ss. 16 and 17<lf>     Statute Law Revision (Decimal Currency) Act 1966<lf>     93, 1966        29 Oct 1966   1 Dec 1966             -<lf>     Statute Law Revision Act 1973<lf>     216, 1973       19 Dec 1973   31 Dec 1973       Ss. 9 (1) and 10<lf>     Statute Law Revision Act 1981<lf>     61, 1981        12 June 1981  Part VIII (ss. 22<lf>                                   and 23): 12 June 1981<lf>                                   (a)               S. 23 (2)<lf>     Commerce (Trade Descriptions) Amendment Act 1981<lf>     151, 1981       26 Oct 1981   26 Oct 1981            -<lf>     Export Control (Miscellaneous Amendments) Act 1982<lf>     48, 1982        9 June 1982   1 Jan 1983 (see s. 2 and<lf>                                   Gazette 1982, No.G48)   -<lf>     Customs Administration (Transitional Provisions and Consequential<lf>     Amendments) Act 1985<lf>     39, 1985        29 May 1985   10 June 1985 (see s. 2<lf>                                   and Gazette 1985, No.<lf>                                   S194)             S. 4<lf>     Customs Administration (Transitional Provisions and Consequential<lf>     Amendments) Act 1986<lf>     10, 1986        13 May 1986   13 May 1986       Ss. 2 (2) and 4<lf>     Industry, Technology and Commerce Legislation Amendment Act 1992<lf>     168, 1992       11 Dec 1992   Part 5 (ss. 14, 15):<lf>                                   30 July 1975<lf>                                   Remainder:<lf>                                   Royal Assent            -<lf> (a) The Commerce (Trade Descriptions) Act 1905 was amended by Part VIII (sections 22 and 23) only of the Statute Law Revision Act 1981, subsection 2 (1) of which provides as follows:   "(1)  Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent."<lf>                         Table of Amendments<lf> ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected             How affected<lf>     Heading preceding s. 1         rep. No. 216, 1973<lf>     Heading to Part I              ad. No. 216, 1973<lf>     S. 1A                          ad. No. 39, 1985<lf>     S. 3                           am. No. 15, 1930; No. 13, 1933;<lf>                                    No. 80, 1950; No. 216, 1973;<lf>                                    No. 48, 1982<lf>     S. 4                           am. No. 15, 1930<lf>     Heading preceding s. 5         rep. No. 216, 1973<lf>     Heading to Part II             ad. No. 216, 1973<lf>     S. 5                           am. No. 15, 1930<lf>     S. 6                           am. No. 15, 1930; No. 13, 1933;<lf>                                    No. 80, 1950; No. 93, 1966;<lf>                                    No. 216, 1973; No. 48, 1982;<lf>                                    No. 168, 1992<lf>     Heading preceding s. 7         rep. No. 216, 1973<lf>     Heading to Part III            ad. No. 216, 1973<lf>     S. 7                           am. No. 15, 1930; No. 216, 1973;<lf>                                    No. 10, 1986<lf>     S. 8                           am. No. 15, 1930<lf>     S. 9                           am. No. 93, 1966<lf>                                    rs. No. 216, 1973<lf>                                    am. No. 168, 1992<lf>     S. 9A                          ad. No. 15, 1930<lf>     S. 10                          am. No. 216, 1973; No. 10, 1986<lf>     S. 10A                         ad. No. 48, 1982<lf>     Heading preceding s. 11        rep. No. 216, 1973<lf>     Heading to Part IV             ad. No. 216, 1973<lf>     S. 11                          am. No. 15, 1930; No. 13, 1933;<lf>                                    No. 80, 1950; No. 216, 1973;<lf>                                    No. 48, 1982<lf>     S. 12                          am. No. 93, 1966; No. 151, 1981;<lf>                                    No. 48, 1982; No. 168, 1992<lf>     S. 13                          am. No. 15, 1930; No. 13, 1933;<lf>                                    No. 80, 1950; No. 216, 1973;<lf>                                    No. 48, 1982<lf>     S. 15                          am. No. 37, 1926<lf>                                    rep. No. 15, 1930<lf>                                    ad. No. 61, 1981<lf>                                    am. No. 48, 1982; No. 10, 1986<lf>     Heading to Part V              ad. No. 216, 1973<lf>     Heading preceding s. 17        rep. No. 216, 1973<lf>     S. 18                          rep. No. 80, 1950<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-**Act No. 16 of 1905 as amended**
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This compilation was prepared on 16 October 2000
- taking into account amendments up to Act No. 85 of 1995
+## TABLE
+<tables> <tt>                    TABLE OF PROVISIONS<lf> Section<lf>                     PART I - PRELIMINARY<lf>     1\.  Short title and commencement<lf>     1A. General administration of Act in relation to imports<lf>     2\.  Incorporation<lf>     3\.  Interpretation<lf>     4\.  Application of trade description<lf>                PART II - INSPECTION OF IMPORTS AND EXPORTS<lf>     5\.  Inspection of imports and exports<lf>     6\.  Notice of intention to export<lf>                         PART III - IMPORTS<lf>     7\.  Prohibition of imports not bearing prescribed trade<lf>         description<lf>     8\.  Imported goods found in Australia without prescribed<lf>         trade description<lf>     9\.  Importation of falsely marked goods<lf>     9A. Imported Goods found in Australia with false trade<lf>         description<lf>    10\.  Forfeiture of falsely marked goods<lf>                        PART IV - EXPORTS<lf>    10A. Application of Part<lf>    11\.  Prohibition of exports not bearing the prescribed trade<lf>         description<lf>    12\.  Penalty for applying false trade description to exports<lf>    13\.  Exportation of falsely marked goods<lf>    14\.  Marking of goods for export<lf>                       PART V - MISCELLANEOUS<lf>    15\.  Review of decisions<lf>    16\.  Trade description disclosing trade secrets<lf>    17\.  Regulations<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - LONG TITLE </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+## SECT
+<sect>          An Act relating to Commerce with other Countries<lf> </lf></sect>
+**<b>
 
-# Contents
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - PART I  PART I - PRELIMINARY </name>
+</b>** 
+**<b>
 
-**Part I—Preliminary**
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 1 Short title and commencement </name>
+</b>** 
 
-[1](#1).            Short title and commencement [_see_ Note 1]                                        1
+## SECT
+<sect>   1\.  This Act may be cited as the Commerce (Trade Descriptions) Act 1905 and shall commence on a day to be fixed by proclamation not being earlier than six months after the passing of this Act.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-[1A](#1A).         General administration of Act in relation to imports                          1
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 1A General administration of Act in relation to imports </name>
+</b>** 
 
-[2](#2).            Incorporation                                                                                       1
+## SECT
+<sect>   1A.  The Comptroller-General of Customs has the general administration of this Act in so far as it relates to imports. </sect>
+**<b>
 
-[3](#3).            Interpretation                                                                                       1
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 2 Incorporation </name>
+</b>** 
 
-[4](#4).            Application of trade description                                                         2
+## SECT
+<sect>   2\.  This Act shall be incorporated and read as one with the Customs Act 1901\. </sect>
+**<b>
 
-**Part II—Inspection of imports and exports**
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 3 Interpretation </name>
+</b>** 
 
-[5](#5).            Inspection of imports and exports                                                      3
+## SECT
+<sect>   3\.  In this Act, unless the contrary intention appears:<lf>   "Officer" means an officer of Customs.<lf>   "Trade description," in relation to any goods, means any description, statement, indication, or suggestion, direct or indirect:<lf>   (a) as to the nature, number, quantity, quality, purity, class, grade, measure, gauge, size, or weight of the goods; or<lf>   (b) as to the country or place in or at which the goods were made or produced; or<lf>   (c) as to the manufacturer or producer of the goods or the person by whom they were selected, packed, or in any way prepared for the market; or<lf>   (d) as to the mode of manufacturing, producing, selecting, packing, or otherwise preparing the goods; or<lf>   (e) as to the material or ingredients of which the goods are composed, or from which they are derived; or<lf>   (f) as to the goods being the subject of an existing patent, privilege, or copyright;<lf> and includes a Customs entry relating to goods; and any mark which according to the custom of the trade or common repute is commonly taken to be an indication of any of the above matters shall be deemed to be a trade description within the meaning of this Act.<lf>   "False trade description" means a trade description which, by reason of anything contained therein or omitted therefrom, is false or likely to mislead in a material respect as regards the goods to which it is applied, and includes every alteration of a trade description, whether by way of addition, effacement, or otherwise, which makes the description false or likely to mislead in a material respect. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-[6](#6).            Notice of intention to export                                                               3
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 4 Application of trade description </name>
+</b>** 
 
-**Part III—Imports**
+## SECT
+<sect>   4\. (1)  A false trade description shall be deemed to be applied to goods if:<lf>   (a) it is applied to the goods themselves; or<lf>   (b) it is applied to any covering, label, reel, or thing used in connexion with the goods; or<lf>   (c) it is used in any manner likely to lead to the belief that it describes or designates the goods. 
 
-[7](#7).            Prohibition of imports not bearing prescribed trade description         5
+  (1A)  A trade description which is required by the regulations to be applied to any goods shall be deemed to be applied to the goods if:<lf>   (a) it is applied to the goods themselves; or<lf>   (b) it is used in relation to the goods in the manner prescribed. <p>  (2) "Covering" includes any stopper, glass, bottle, vessel, box, capsule, case, frame, or wrapper; and "label" includes any band or ticket. </p></lf></lf>
+</lf></lf></lf></sect>
+**<b>
 
-[8](#8).            Imported goods found in Australia without prescribed trade description   5
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - PART II  PART II - INSPECTION OF IMPORTS AND EXPORTS </name>
+</b>** 
+**<b>
 
-[9](#9).            Importation of falsely marked goods                                                   6
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 5 Inspection of imports and exports </name>
+</b>** 
 
-[9A](#9A).         Imported goods found in Australia with false trade description         6
+## SECT
+<sect>   5\. (1)  An officer may inspect and examine all prescribed goods which are imported, or which are entered for export or brought for export to any wharf or place or are in course of manufacture or preparation for export. 
 
-[10](#10).          Forfeiture of falsely marked goods                                                      6
+  (2)  The officer may where practicable take samples of any goods inspected by him pursuant to this section, and the samples so taken shall be dealt with as prescribed. 
 
-**Part IV—Exports**
+  (3)  For the purposes of this section an officer may enter any ship, wharf or place, and may open any packages, and may do all things necessary to enable him to carry out his powers and duties under this section. 
+</sect>
+**<b>
 
-[10A](#10A).       Application of Part                                                                              7
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 6 Notice of intention to export </name>
+</b>** 
 
-[11](#11).          Prohibition of exports not bearing the prescribed trade description   7
+## SECT
+<sect>   6\.  Every person who intends to export any goods of a kind or class required under this Act to be inspected or examined by an officer, shall, if required to do so by regulation, before the goods are shipped, give notice, in accordance with the regulations, to the Customs of his intention to export the goods and of the place where the goods may be inspected.<lf> Penalty: $1,000\. </lf></sect>
+**<b>
 
-[12](#12).          Penalty for applying false trade description to exports                      7
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - PART III  PART III - IMPORTS </name>
+</b>** 
+**<b>
 
-[13](#13).          Exportation of falsely marked goods                                                   8
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 7 Prohibition of imports not bearing prescribed trade description </name>
+</b>** 
 
-[14](#14).          Marking of goods for export                                                                9
+## SECT
+<sect>   7\. (1)  The regulations may prohibit the importation or introduction into Australia of any goods unless there is applied to them a trade description of such character, relating to such matters, and applied in such manner, as is prescribed. 
 
-**Part V—Miscellaneous**
+  (2)  All goods imported in contravention of any regulation under this section may be detained by the Collector and may by direction of the Comptroller-General be seized as forfeited to the Crown. 
 
-[15](#15).          Review of decisions                                                                           10
+  (3)  Subject to the regulations, the Comptroller-General may in any case, and if in his opinion the contravention has not occurred either knowingly or negligently shall permit any goods which are liable to be or have been seized as forfeited under this section to be delivered to the owner or importer upon security being given to the satisfaction of the Comptroller-General that the prescribed trade description will be applied to the goods or that they will be forthwith exported. 
 
-[16](#16).          Trade description disclosing trade secrets                                         10
+  (4)  No regulations under this section shall take effect until after the expiration of not less than three months from notification in the Gazette. 
+</sect>
+**<b>
 
-[17](#17).          Regulations                                                                                        10
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 8 Imported goods found in Australia without prescribed trade description </name>
+</b>** 
 
-**Notes** 
+## SECT
+<sect>   8\.  All imported goods to which a trade description is by the regulations required to be applied, and which are found in Australia without the prescribed trade description, shall until the contrary is proved be deemed, subject to the regulations, to have been imported in contravention of the regulations. </sect>
+**<b>
 
-## An Act relating to Commerce with other Countries
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 9 Importation of falsely marked goods </name>
+</b>** 
 
-## Part I—Preliminary
+## SECT
+<sect>   9\. (1)  A person shall not import any goods to which a false trade description is applied.<lf> Penalty: $10,000\. 
 
-##### <a id="1"></a>1  Short title and commencement [_see_ Note 1]
+  (2)  In a prosecution for an offence against subsection (1) it is a defence if the defendant proves that he did not knowingly import the goods in contravention of that subsection. 
+</lf></sect>
+**<b>
 
-                   This Act may be cited as the _Commerce (Trade Descriptions) Act 1905_ and shall commence on a day to be fixed by proclamation not being earlier than six months after the passing of this Act.
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 9A Imported goods found in Australia with false trade description </name>
+</b>** 
 
-##### <a id="1A"></a>1A  General administration of Act in relation to imports
+## SECT
+<sect>   9A.  All imported goods found in Australia which bear a false trade description shall, until the contrary is proved, be deemed to have been imported in contravention of this Act. </sect>
+**<b>
 
-                   The Chief Executive Officer of Customs has the general administration of this Act in so far as it relates to imports.
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 10 Forfeiture of falsely marked goods </name>
+</b>** 
 
-##### <a id="2"></a>2  Incorporation
+## SECT
+<sect>   10\.  All goods to which any false trade description is applied are hereby prohibited to be imported, and shall if imported be forfeited to the Crown.<lf> Provided that the Comptroller-General may, if he is satisfied that any goods which have been seized as forfeited under this section were not knowingly imported in contravention of this Act, permit the importer to correct the false trade description, and may, when the correction has been made to his satisfaction, order the release of the goods, subject to the payment by the importer to the Customs of the expenses of the seizure, and thereupon the forfeiture shall be remitted. </lf></sect>
+**<b>
 
-                   This Act shall be incorporated and read as one with the _Customs Act 1901_.
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - PART IV  PART IV - EXPORTS </name>
+</b>** 
+**<b>
 
-##### <a id="3"></a>3  Interpretation
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 10A Application of Part </name>
+</b>** 
 
-                   In this Act, unless the contrary intention appears:
+## SECT
+<sect>   10A.  This Part does not apply in relation to goods that are prescribed goods within the meaning of the Export Control Act 1982\. </sect>
+**<b>
 
-                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of Customs.
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 11 Prohibition of exports not bearing the prescribed trade description </name>
+</b>** 
 
-                    <a name="offic"></a>**_Officer_** means an officer of Customs.
+## SECT
+<sect>   11\. (1)  The regulations may prohibit the exportation of any goods, unless there is applied to them a trade description of such character, relating to such matters, and applied in such manner, as is prescribed. 
 
-                    <a name="trade-descript"></a>**_Trade description_**, in relation to any goods, means any description, statement, indication, or suggestion, direct or indirect:
+  (2)  All such goods to which the prescribed trade description is not applied, which are exported or entered for export or put on board any ship or boat for export or brought to any wharf or place for export, may be detained by the Collector or the Comptroller-General of Customs, and may by direction of the Minister be seized as forfeited to the Crown. 
 
-                     (a)  as to the nature, number, quantity, quality, purity, class, grade, measure, gauge, size, or weight of the goods; or
+  (3)  Subject to the regulations the Comptroller-General of Customs, or on appeal from him the Minister, may in any case, and if in his opinion the contravention has not occurred either knowingly or negligently shall permit any goods which are liable to be or have been seized as forfeited under this section to be delivered to the owner or exporter, upon security being given to the satisfaction of the Comptroller-General of Customs that the goods shall not be exported in contravention of the regulations. 
+</sect>
+**<b>
 
-                     (b)  as to the country or place in or at which the goods were made or produced; or
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 12 Penalty for applying false trade description to exports </name>
+</b>** 
 
-                     (c)  as to the manufacturer or producer of the goods or the person by whom they were selected, packed, or in any way prepared for the market; or
+## SECT
+<sect>   12\. (1)  No person shall:<lf>   (a) knowingly apply any false trade description to any goods intended or entered for export or put on any ship or boat for export, or brought to any wharf or place for the purpose of export; or<lf>   (b) knowingly export or enter for export or put on any ship or boat for export any goods to which a false trade description is applied. 
 
-                     (d)  as to the mode of manufacturing, producing, selecting, packing, or otherwise preparing the goods; or
+  (2)  A person who contravenes subsection (1) is guilty of an offence and is punishable on conviction by a fine not exceeding $10,000\. 
+</lf></lf></sect>
+**<b>
 
-                     (e)  as to the material or ingredients of which the goods are composed, or from which they are derived; or
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 13 Exportation of falsely marked goods </name>
+</b>** 
 
-                      (f)  as to the goods being the subject of an existing patent, privilege, or copyright;
+## SECT
+<sect>   13\.  All goods to which any false trade description is applied are hereby prohibited to be exported, and shall, if exported or entered for export or put on any ship or boat for export, or brought to any wharf or place for the purpose of export, be forfeited to the Crown.<lf> Provided that the Comptroller-General of Customs, or on appeal from him the Minister, may, if he is satisfied that the owner of any goods, which have been seized as forfeited under this section did not knowingly act in contravention of this Act, permit the correction of the false trade description, and may, when the correction has been made to his satisfaction, order the release of the goods, subject to the payment by the exporter of the expenses of the seizure, and thereupon the forfeiture shall be remitted. </lf></sect>
+**<b>
 
-and includes a Customs entry relating to goods; and any mark which according to the custom of the trade or common repute is commonly taken to be an indication of any of the above matters shall be deemed to be a trade description within the meaning of this Act.
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 14 Marking of goods for export </name>
+</b>** 
 
-                    <a name="fals-trade-descript"></a>**_False trade description_** means a trade description which, by reason of anything contained therein or omitted therefrom, is false or likely to mislead in a material respect as regards the goods to which it is applied, and includes every alteration of a trade description, whether by way of addition, effacement, or otherwise, which makes the description false or likely to mislead in a material respect.
+## SECT
+<sect>   14\.  Any goods intended for export which have been inspected in pursuance of this Act may in manner prescribed be marked with the prescribed trade description. </sect>
+**<b>
 
-##### <a id="4"></a>4  Application of trade description
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - PART V  PART V - MISCELLANEOUS </name>
+</b>** 
+**<b>
 
-             (1)  A false trade description shall be deemed to be applied to goods if:
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 15 Review of decisions </name>
+</b>** 
 
-                     (a)  it is applied to the goods themselves; or
+## SECT
+<sect>   15\. (1)  Applications may be made to the Administrative Appeals Tribunal for review of:<lf>   (a) decisions of the Comptroller-General of Customs under subsection 7 (3) or section 10; or<lf>   (b) decisions of the Comptroller-General of Customs under subsection 11 (3) or section 13, other than a decision in respect of which an appeal has been made to the Minister under that subsection or section, as the case may be. 
 
-                     (b)  it is applied to any covering, label, reel, or thing used in connexion with the goods; or
+  (2)  A person is not entitled to appeal to the Minister against a decision of the Comptroller-General of Customs under subsection 11 (3) or section 13 if an application has been made under subsection (1) of this section for a review of that decision. 
 
-                     (c)  it is used in any manner likely to lead to the belief that it describes or designates the goods.
+  (3)  In this section, "decision" has the same meaning as in the Administrative Appeals Tribunal Act 1975\. 
+</lf></lf></sect>
+**<b>
 
-          (1A)  A trade description which is required by the regulations to be applied to any goods shall be deemed to be applied to the goods if:
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 16 Trade description disclosing trade secrets </name>
+</b>** 
 
-                     (a)  it is applied to the goods themselves; or
+## SECT
+<sect>   16\.  The regulations under sections seven and eleven of this Act shall not prescribe a trade description which discloses trade secrets of manufacture or preparation, unless in the opinion of the Governor-General the disclosure is necessary for the protection of the health or welfare of the public. </sect>
+**<b>
 
-                     (b)  it is used in relation to the goods in the manner prescribed.
+### <name>COMMERCE (TRADE DESCRIPTIONS) ACT 1905 - SECT 17 Regulations </name>
+</b>** 
 
-             (2)  **_Covering_** includes any stopper, glass, bottle, vessel, box, capsule, case, frame, or wrapper; and **_label_** includes any band or ticket.
-
-## Part II—Inspection of imports and exports
-
-##### <a id="5"></a>5  Inspection of imports and exports
-
-             (1)  An officer may inspect and examine all prescribed goods which are imported, or which are entered for export or brought for export to any wharf or place or are in course of manufacture or preparation for export.
-
-             (2)  The officer may where practicable take samples of any goods inspected by him pursuant to this section, and the samples so taken shall be dealt with as prescribed.
-
-             (3)  For the purposes of this section an officer may enter any ship, wharf or place, and may open any packages, and may do all things necessary to enable him to carry out his powers and duties under this section.
-
-             (4)  Without limiting the generality of the power conferred on the CEO under subsection 4(4) of the _Customs Administration Act 1985_, the CEO may give directions in writing under that subsection concerning:
-
-                     (a)  the circumstances in which the powers under this section may be exercised; and
-
-                     (b)  the officers of Customs who are entitled to exercise those powers; and
-
-                     (c)  the manner and frequency of reporting to the CEO concerning the exercise of those powers.
-
-             (5)  A direction given for the purposes of subsection (4) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
-
-##### <a id="6"></a>6  Notice of intention to export
-
-                   Every person who intends to export any goods of a kind or class required under this Act to be inspected or examined by an officer, shall, if required to do so by regulation, before the goods are shipped, give notice, in accordance with the regulations, to the Customs of his intention to export the goods and of the place where the goods may be inspected.
-
-                    Penalty:  $1,000.
-
-## Part III—Imports
-
-##### <a id="7"></a>7  Prohibition of imports not bearing prescribed trade description
-
-             (1)  The regulations may prohibit the importation or introduction into Australia of any goods unless there is applied to them a trade description of such character, relating to such matters, and applied in such manner, as is prescribed.
-
-             (2)  Subject to subsection (3), goods imported in contravention of any regulation made for the purposes of subsection (1) are forfeited to the Crown.
-
-             (3)  If the CEO is satisfied that the contravention was not intentional or reckless:
-
-                     (a)  the CEO may, by notice in writing given to the owner or importer of the goods concerned, require the owner or importer:
-
-                              (i)  to apply the prescribed trade description; or
-
-                             (ii)  to export the goods;
-
-                            within a period specified in the notice; and
-
-                     (b)  if the owner or importer complies with the notice, subsection (2) does not apply in respect of the goods.
-
-             (4)  No regulations made for the purposes of this section shall take effect until after the expiration of not less than three months from notification in the _Gazette_.
-
-##### <a id="8"></a>8  Imported goods found in Australia without prescribed trade description
-
-                   All imported goods to which a trade description is by the regulations required to be applied, and which are found in Australia without the prescribed trade description, shall until the contrary is proved be deemed, subject to the regulations, to have been imported in contravention of the regulations.
-
-##### <a id="9"></a>9  Importation of falsely marked goods
-
-             (1)  A person shall not import any goods to which a false trade description is applied.
-
-                    Penalty:  $10,000.
-
-             (2)  In a prosecution for an offence against subsection (1) it is a defence if the defendant proves that he did not knowingly import the goods in contravention of that subsection.
-
-##### <a id="9A"></a>9A  Imported goods found in Australia with false trade description
-
-                   All imported goods found in Australia which bear a false trade description shall, until the contrary is proved, be deemed to have been imported in contravention of this Act.
-
-##### <a id="10"></a>10  Forfeiture of falsely marked goods
-
-             (1)  Goods to which a false trade description is applied are prohibited to be imported.
-
-             (2)  Subject to subsection (3), goods imported in contravention of subsection (1) are forfeited to the Crown.
-
-             (3)  If the CEO is satisfied that the contravention was not intentional or reckless:
-
-                     (a)  the CEO may, by notice in writing given to the owner or importer of the goods concerned, require the owner or importer to correct the false trade description within a period specified in the notice; and
-
-                     (b)  if the owner or importer complies with the notice, subsection (2) does not apply in respect of the goods.
-
-## Part IV—Exports
-
-##### <a id="10A"></a>10A  Application of Part
-
-                   This Part does not apply in relation to goods that are prescribed goods within the meaning of the _Export Control Act 1982_.
-
-##### <a id="11"></a>11  Prohibition of exports not bearing the prescribed trade description
-
-             (1)  The regulations may prohibit the exportation of any goods, unless there is applied to them a trade description of such character, relating to such matters, and applied in such manner, as is prescribed.
-
-             (2)  Subject to subsection (3), goods to which the prescribed trade description has not been applied that are entered for export, put on board any ship for export or brought to any wharf or place for export, are forfeited to the Crown.
-
-             (3)  If the CEO is satisfied that the entry for export, putting on board a ship for export, or bringing to a wharf or place for export, of goods to which the prescribed trade description had not been applied was not intentional or reckless:
-
-                     (a)  the CEO may, by notice in writing given to the owner or exporter of the goods concerned, require the owner or exporter:
-
-                              (i)  to apply the prescribed trade description to the goods before the exportation of the goods and within a period specified in the notice; or
-
-                             (ii)  to withdraw that entry, to remove the goods from that ship, or to remove the goods from that wharf or place, as the case requires, within the period so specified; and
-
-                     (b)  if the owner or exporter complies with the notice, subsection (2) does not apply in respect of the goods.
-
-##### <a id="12"></a>12  Penalty for applying false trade description to exports
-
-             (1)  No person shall:
-
-                     (a)  knowingly apply any false trade description to any goods intended or entered for export or put on any ship or boat for export, or brought to any wharf or place for the purpose of export; or
-
-                     (b)  knowingly export or enter for export or put on any ship or boat for export any goods to which a false trade description is applied.
-
-             (2)  A person who contravenes subsection (1) is guilty of an offence and is punishable on conviction by a fine not exceeding $10,000.
-
-##### <a id="13"></a>13  Exportation of falsely marked goods
-
-             (1)  Goods to which any false trade description is applied are prohibited to be exported.
-
-             (2)  Subject to subsection (3), goods to which a false trade description has been applied that are entered for export, put on board any ship for export or brought to any wharf or place for export, are forfeited to the Crown.
-
-             (3)  If the CEO is satisfied that entry for export, putting on board a ship for export or bringing to a wharf or place for export, of goods to which a false trade description has been applied was not intentional or reckless:
-
-                     (a)  the CEO may, by notice in writing given to the owner or exporter of the goods concerned, require the owner or exporter:
-
-                              (i)  to correct the false trade description before the exportation of those goods and within a period specified in the notice; or
-
-                             (ii)  to withdraw that entry, to remove the goods from that ship, or to remove the goods from that wharf or place, as the case requires, within the period so specified; and
-
-                     (b)  if the owner or exporter complies with the notice, subsection (2) does not apply in respect of the goods.
-
-##### <a id="14"></a>14  Marking of goods for export
-
-                   Any goods intended for export which have been inspected in pursuance of this Act may in manner prescribed be marked with the prescribed trade description.
-
-## Part V—Miscellaneous
-
-##### <a id="15"></a>15  Review of decisions
-
-             (1)  Applications can be made to the Administrative Appeals Tribunal for review of decisions of the CEO under subsection 7(3), 10(3), 11(3) or 13(3).
-
-             (2)  In this section:
-
-                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
-
-Note:          Subsection 3(3) of the _Administrative Appeals Tribunal Act 1975_ extends the ordinary meaning of decision.
-
-##### <a id="16"></a>16  Trade description disclosing trade secrets
-
-                   The regulations under sections seven and eleven of this Act shall not prescribe a trade description which discloses trade secrets of manufacture or preparation, unless in the opinion of the Governor-General the disclosure is necessary for the protection of the health or welfare of the public.
-
-##### <a id="17"></a>17  Regulations 
-
-                   The Governor-General may make regulations not inconsistent with this Act prescribing all matters and things required or permitted by this Act to be prescribed or which are necessary and convenient to be prescribed for carrying out or giving effect to this Act, and particularly for the analysis of samples taken under this Act, and the extent to which certificates of analysis shall be _prima facie_ evidence in proceedings under this Act of the facts therein stated.
-
-# Notes to the _Commerce (Trade Descriptions) Act 1905_
-
-### Note 1
-
-The _Commerce (Trade Descriptions) Act 1905_ as shown in this compilation comprises Act No. 16, 1905 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead></table>
-
-* * *
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>Commerce (Trade Descriptions) Act 1905</div>
-  </td>
-  <td>
-    <div>16, 1905</div>
-  </td>
-  <td>
-    <div>8 Dec 1905</div>
-  </td>
-  <td>
-    <div>8 June 1906 ( <i>see Gazette</i>1906, p. 131)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commerce (Trade Descriptions) Act 1926</div>
-  </td>
-  <td>
-    <div>37, 1926</div>
-  </td>
-  <td>
-    <div>11 Aug 1926</div>
-  </td>
-  <td>
-    <div>11 Aug 1926</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commerce (Trade Descriptions) Act 1930</div>
-  </td>
-  <td>
-    <div>15, 1930</div>
-  </td>
-  <td>
-    <div>18 July 1930</div>
-  </td>
-  <td>
-    <div>18 July 1930</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commerce (Trade Descriptions) Act 1933</div>
-  </td>
-  <td>
-    <div>13, 1933</div>
-  </td>
-  <td>
-    <div>24 July 1933</div>
-  </td>
-  <td>
-    <div>24 July 1933</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1950</div>
-  </td>
-  <td>
-    <div>80, 1950</div>
-  </td>
-  <td>
-    <div>16 Dec 1950</div>
-  </td>
-  <td>
-    <div>31 Dec 1950</div>
-  </td>
-  <td>
-    <div>Ss. 16 and 17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>Part VIII (ss. 22 and 23): 12 June 1981 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 23(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commerce (Trade Descriptions) Amendment Act 1981</div>
-  </td>
-  <td>
-    <div>151, 1981</div>
-  </td>
-  <td>
-    <div>26 Oct 1981</div>
-  </td>
-  <td>
-    <div>26 Oct 1981</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Export Control (Miscellaneous Amendments) Act 1982</div>
-  </td>
-  <td>
-    <div>48, 1982</div>
-  </td>
-  <td>
-    <div>9 June 1982</div>
-  </td>
-  <td>
-    <div>1 Jan 1983 ( <i>see</i>s. 2 and <i>Gazette</i>1982, No. G48)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985</div>
-  </td>
-  <td>
-    <div>39, 1985</div>
-  </td>
-  <td>
-    <div>29 May 1985</div>
-  </td>
-  <td>
-    <div>10 June 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S194)</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>10, 1986</div>
-  </td>
-  <td>
-    <div>13 May 1986</div>
-  </td>
-  <td>
-    <div>13 May 1986</div>
-  </td>
-  <td>
-    <div>Ss. 2(2) and 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Technology and Commerce Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>168, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 5 (ss. 14, 15): 30 July 1975 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs, Excise and Bounty Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>85, 1995</div>
-  </td>
-  <td>
-    <div>1 July 1995</div>
-  </td>
-  <td>
-    <div>S. 5 (items 1-7): 
-1 July 1995 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 11 (items 48- 
-50), 18 and 20: Royal Assent <i>(b)</i>Ss. 18 and 20</div>
-  </td>
-</tr></table>
-
-_(a)_     The _Commerce (Trade Descriptions) Act 1905_ was amended by Part VIII (sections 22 and 23) only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-
-_(b)_ The _Commerce (Trade Descriptions) Act 1905_ was amended by the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsections 2(1) and (5) of which provide as follows:
-
-                 (1)   Subject to subsections (2), (3), (4), (5) and (6), this Act commences on the day on which it receives the Royal Assent.
-
-                 (5)   Schedules 2 and 3, items 1, 26 to 45, 49 to 53 and 56 and 67 of Schedule 4, Schedule 6, items 6 to 11 of Schedule 7 and Schedules 8 and 10 commence on 1 July 1995.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Heading preceding s. 1</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930; No. 13, 1933; No. 80, 1950; No. 216, 1973; No. 48, 1982; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 5</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930; No. 13, 1933; No. 80, 1950; No. 93, 1966; No. 216, 1973; No. 48, 1982; No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930; No. 216, 1973; No. 10, 1986; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 10, 1986; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 48, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930; No. 13, 1933; No. 80, 1950; No. 216, 1973; No. 48, 1982; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 151, 1981; No. 48, 1982; No. 168, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1930; No. 13, 1933; No. 80, 1950; No. 216, 1973; No. 48, 1982; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 37, 1926</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 15, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 61, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 48, 1982; No. 10, 1986; No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 85, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 17</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rep. No. 80, 1950</div>
-  </td>
-</tr></table>
-
- 
+## SECT
+<sect>   17\.  The Governor-General may make regulations not inconsistent with this Act prescribing all matters and things required or permitted by this Act to be prescribed or which are necessary and convenient to be prescribed for carrying out or giving effect to this Act, and particularly for the analysis of samples taken under this Act, and the extent to which certificates of analysis shall be prima facie evidence in proceedings under this Act of the facts therein stated. </sect>
