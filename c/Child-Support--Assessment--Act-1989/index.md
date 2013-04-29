@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image001.gif)
 
 # Child Support (Assessment) Act 1989
 
 **Act No. 124 of 1989 as amended**
 
-This compilation was prepared on 1 June 2012
- taking into account amendments up to Act No. 51 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 53 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1702,7 +1702,7 @@ Note:          This provision applies even if the children are
 
 ### Division 2—Decision on application
 
-##### <a id="29"></a>29  How decision is to be made
+##### <a id="29"></a>29  How decision is to be made
 
              (1)  Subject to this section, in determining whether an application for administrative assessment of child support complies with sections 24, 25 and 25A, the Registrar may act on the basis of the application and the documents accompanying the application, and is not required to conduct any inquiries or investigations into the matter.
 
@@ -1988,7 +1988,7 @@ Note 2:       If the Registrar makes an assessment under this sectio
 
 ##### <a id="34C"></a>34C  Administrative assessments for child support periods not started by application or new agreement
 
-                   The Registrar must assess under this Act the annual rate of child support payable for a child for days in a child support period either before, or as soon as practicable after, the start of the period unless:
+                   The Registrar must assess under this Act the annual rate of child support payable for a child for days in a child support period either before, or as soon as practicable after, the start of the period unless:
 
                      (a)  the period starts when the application is made under Part 4; or
 
@@ -2090,9 +2090,9 @@ the child.</li>
 
 both parents’ incomes are taken into account in determining each parent’s
 
-capacity to meet the costs of their children, and each parent only has one
+capacity to meet the costs of their children, and each parent only has one child
 
-child support case.</li>
+support case.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Formulas 3 and 4 apply if
 
@@ -2172,7 +2172,7 @@ Step 7.   Work out the costs of the child for the day under sections 55G a
 
 Step 8.   If a parent has a positive child support percentage under step 6, the **_annual rate of child support_** payable by the parent for the child for the day is worked out using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image002.gif)
 
 * * *
 
@@ -2240,7 +2240,7 @@ Step 1A. Work out the costs of the child for the day under section 55HA.
 
 Step 1B. If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image002.gif)
 
 Step 2.   Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2264,7 +2264,7 @@ Note:          If a parent’s percentage of care for a child 
 
           (2B)  If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image003.gif)
 
              (3)  Work out each parent’s multi‑case cap (if any) for the child for the day (see section 55E).
 
@@ -2324,7 +2324,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image004.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image004.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2362,7 +2362,7 @@ Step 4.   If the parent is assessed in respect of the costs of another child
 
 Step 5.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image005.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image005.gif)
 
 Step 6.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -2402,7 +2402,7 @@ child support is payable to:
 
 then, the annual rate of child support for the child for a day in the child support period that each parent or non‑parent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image006.gif)
 
 Note:          Under section 40B, a non‑parent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
 
@@ -2494,7 +2494,7 @@ Single child support case—no relevant dependent children
 
 the parent’s **_child support income_** for the child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image007.gif)
 
 Single child support case—relevant dependent children
 
@@ -2506,7 +2506,7 @@ Single child support case—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image008.gif)
 
 Multiple child support cases—no relevant dependent children
 
@@ -2520,7 +2520,7 @@ Multiple child support cases—no relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image009.gif)
 
 Multiple child support cases—relevant dependent children
 
@@ -2534,7 +2534,7 @@ Multiple child support cases—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image010.gif)
 
 Negative result taken to be nil
 
@@ -2626,7 +2626,7 @@ Note:          This section does not limit the power under sec
 
                    A parent’s **_self‑support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image011.gif)
 
 Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
 
@@ -2654,7 +2654,7 @@ Step 4.   Work out the costs of the child for the day under sections 55G a
 
 Step 5.   Work out the following amount for the child for a day in the child support period:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image012.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image012.gif)
 
 * * *
 
@@ -2670,7 +2670,7 @@ _Method statement_
 
 Step 1.   Work out the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image013.gif)
+              ![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image013.gif)
 
 Step 2.   If the parent has a relevant dependent child, take the parent’s relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
 
@@ -3138,7 +3138,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
                    Work out each parent’s **_income percentage_** for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image014.gif)
 
 ##### <a id="55C"></a>55C  Working out cost percentages
 
@@ -3265,7 +3265,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (1)  Work out each parent’s **_child support percentage_** for a child for a day in the child support period using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image015.gif)
 
              (2)  A parent’s **_child support percentage_** for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
 
@@ -3281,7 +3281,7 @@ a child is capped by the parent’s multi‑case cap for the child.</li>
 
              (2)  The parent’s **_multi‑case cap_** for the particular child for the day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image016.gif)
 
              (3)  For the purposes of paragraph (1)(c), a parent is taken to be assessed for a day in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child for the day under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -3591,7 +3591,7 @@ the Registrar may determine that the parent’s adjusted taxable income for the 
 
              (1)  The **_ATI indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image017.gif)
 
 where:
 
@@ -4567,7 +4567,7 @@ Note:          The annual rate of child support specified in s
 
              (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image018.gif)
 
           (4A)  For the purposes of subsection (4), if a parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction, then that child support is taken to be payable by the parent for those children under subsection (1).
 
@@ -4645,7 +4645,7 @@ Note:          The minimum annual rate of child support specif
 
 then the **_annual rate of child support_** payable by the parent for a day in the child support period for a particular child support case is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image019.gif)
 
           (6A)  For the purposes of subsection (6), if a parent is liable to pay child support for one or more children for a day under an administrative assessment under the law of a reciprocating jurisdiction, then the parent is taken to be assessed for the day in respect of the costs of children in a child support case.
 
@@ -4705,11 +4705,11 @@ Note:          If the Registrar refuses to grant an applicatio
 
              (3)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image020.gif)
 
           (3A)  The amount for the purposes of this subsection is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image021.gif)
 
           (3B)  For the purposes of subsection (3A), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
 
@@ -5421,7 +5421,7 @@ Note:          Section 150A provides for the Registrar to sp
 
                    In determining whether an agreement made in relation to a child is an agreement referred to in paragraph 88(a), the Registrar may act on the basis of the application made to the Registrar for acceptance of the agreement, the documents accompanying the application and the agreement itself, and is not required to conduct any inquiries or investigations into the matter.
 
-##### <a id="92"></a>92  Decision on application
+##### <a id="92"></a>92  Decision on application
 
              (1)  Subject to this section, if the Registrar is satisfied that an application made to the Registrar for acceptance of an agreement made in relation to a child has been properly made, the Registrar must accept the agreement.
 
@@ -5563,9 +5563,9 @@ leave of a court under section 112.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The grounds for deciding
 
-whether to make a determination are the same as a court uses in deciding
+whether to make a determination are the same as a court uses in deciding whether
 
-whether to make an order under Division 4 of Part 7.</li>
+to make an order under Division 4 of Part 7.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If the Registrar is
 
@@ -5911,7 +5911,7 @@ if a court has granted leave under section 112 for the determination to be mad
 
                    The parties to proceedings under this Part may, at any time before a determination is made in relation to the proceedings, enter into an agreement, purporting to be a child support agreement, in relation to the child support payable for the child in relation to whom the determination may be made.
 
-##### <a id="98U"></a>98U  Decision on child support agreement
+##### <a id="98U"></a>98U  Decision on child support agreement
 
              (1)  Subject to subsection (2), if the Registrar is satisfied that an agreement entered into by the parties to proceedings is a child support agreement, the Registrar must accept the agreement.
 
@@ -5979,11 +5979,11 @@ because the person is, or is not, a parent of the child.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A court may grant leave for
 
-the making of a departure determination under Part 6A, or a departure order
+the making of a departure determination under Part 6A, or a departure
 
-under Division 4 of this Part, in relation to a period more than 18 months
+order under Division 4 of this Part, in relation to a period more than 18
 
-but less than 7 years earlier.</li>
+months but less than 7 years earlier.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      In special circumstances, a
 
@@ -6085,7 +6085,7 @@ for appeals to the Family Court from other courts.</li>
 
              (3)  The further evidence may be given by affidavit, by oral examination before the Family Court or a Judge or in such other manner as the Family Court directs.
 
-##### <a id="102"></a>102  Appeals to Full Court of Family Court from courts other than the Federal Magistrates Court and the Magistrates Court of Western Australia
+##### <a id="102"></a>102  Appeals to Full Court of Family Court from courts other than the Federal Magistrates C  ourt and the Magistrates Court of Western Australia
 
              (1)  An appeal lies, with the leave of a Full Court of the Family Court, to a Full Court from:
 
@@ -8333,7 +8333,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
              (2)  For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00079/Html/fa456ce0-d64a-4336-a178-fff0bdf4c0b7_files/image022.gif)
 
 where:
 
@@ -8364,6 +8364,8 @@ where:
                               (i)  the annualised MTAWE figure for the relevant September quarter; and
 
                              (ii)  any other amounts in items in the table that can be worked out using the annualised MTAWE figure.
+
+          (2A)  Before the end of each calendar year, the Secretary must publish in the _Gazette_ the AWE amount (within the meaning of subsection 58AA(1)) for the quarter ending on 30 September of that year.
 
              (3)  The instruments published under subsections (1), (2) and (2A) are not legislative instruments.
 
@@ -8581,7 +8583,7 @@ request the person or authority to notify the Registrar, within 60 days and in t
 
 ##### <a id="162B"></a>162B  Regulations may prescribe manner of giving notices or other communications
 
-                   The regulations may provide for how a notice or other communication may be given to a person who is a resident of a reciprocating jurisdiction.
+                   The regulations may provide for how a notice or other communication may be given to a person who is a resident of a reciprocating jurisdiction.
 
 ##### <a id="162C"></a>162C  Requesting information for the purposes of a care percentage determination under the family assistance law
 
@@ -10086,25 +10088,6 @@ Schedule 3 (items 32–49): 10 Dec 2008</div>
   </td>
   <td>
     <div>Sch. 3 (items 9–11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012</div>
-  </td>
-  <td>
-    <div>51, 2012</div>
-  </td>
-  <td>
-    <div>26 May 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 1–3): Royal Assent 
-Schedule 4 (items 4–21): \[ <i>see</i>Note 2 and Table A] 
-Schedule 4 (items 22–24): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 2, 3, 18, 20, 21, 24)</div>
   </td>
 </tr>
 <tr height="0">
@@ -17146,7 +17129,7 @@ Div. 6 of Part 7</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 53, 2011; No. 51, 2012</div>
+    <div>am. No. 53, 2011</div>
   </td>
 </tr>
 <tr>
@@ -17342,120 +17325,6 @@ Schedule 1</div>
     <div>am. No. 82, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No. 51, 2012)_
-
-The following amendments commence on 1 January 2013:
-
-## Schedule 4
-
-## 4  Subsection 5(1)
-
-Insert:
-
-                    <a name="relev-june-quarter"></a>**_relevant June quarter_** has the meaning given by subsection 5A(2).
-
-## 5  Subsection 5(1) (definition of _relevant September quarter_)
-
-Repeal the definition.
-
-## 6  Subsection 5A(1)
-
-Omit “September”, substitute “June”.
-
-## 7  Subsection 5A(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The **_relevant June quarter_**, in relation to a child support period, means the quarter ending on 30 June of the last calendar year ending before the child support period begins.
-
-## 8  Paragraph 5A(5)(a)
-
-Omit “September”, substitute “June”.
-
-## 9  Section 45
-
-Repeal the section, substitute:
-
-##### <a id="45"></a>45  Working out the self‑support amount
-
-                   A parent’s **_self‑support amount_** for a day in a child support period is:
-
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image023.gif)
-
-Note:          A parent’s self‑support amount can be varied by a determination or order under section 98S or 118.
-
-## 10  Paragraph 58(4)(d)
-
-Omit “September”, substitute “June”.
-
-## 11  Subsection 58(5)
-
-Omit “September”, substitute “June”.
-
-## 12  Subsection 58D(2)
-
-Omit “September”, substitute “June”.
-
-## 13  Subparagraph 98S(1)(e)(i)
-
-Omit “September”, substitute “June”.
-
-## 14  Subparagraph 118(1)(e)(i)
-
-Omit “September”, substitute “June”.
-
-## 15  Paragraph 155(2)(a)
-
-Omit “September”, substitute “June”.
-
-## 16  Subparagraph 155(2)(b)(i)
-
-Omit “September”, substitute “June”.
-
-## 17  After subsection 155(2)
-
-Insert:
-
-          (2A)  Before the end of each financial year, the Secretary must publish in the _Gazette_ the AWE amount (within the meaning of subsection 58AA(1)) for the quarter ending on 31 December of that year.
-
-## 19  Subclause 2(3) of Schedule 1
-
-Omit “September”, substitute “June”.
-
-The following amendments commence on 1 July 2013:
-
-## Schedule 4
-
-## 22  Subsection 58AA(1)
-
-Repeal the subsection, substitute:
-
-             (1)  The **_ATI indexation factor_** is:
-
-![](http://www.comlaw.gov.au/Details/C2012C00492/Html/98a11ee7-6bef-498d-a2a3-664745b52f7f_files/image024.gif)
-
-where:
-
-                    <a name="aw-amount"></a>**_AWE amount_** for a December quarter of a year of income means the amount published for the reference period in the quarter by the Australian Statistician in a document titled “Average Weekly Earnings, Australia” (or, if that title changes, in a replacement document) under the headings “Average Weekly Earnings—Trend—Persons—All employees total earnings” (or, if any of those headings change, under any replacement headings).
-
-                    <a name="decemb-quarter"></a>**_December quarter_** of a year of income means the quarter ending on 31 December of that year.
-
-                    <a name="refer-period"></a>**_reference period_** in a December quarter of a year of income means the period described by the Australian Statistician as the last pay period ending on or before the third Friday of the middle month of the quarter.
-
-                    <a name="tax-return-year"></a>**_tax return year_** means:
-
-                     (a)  if subsection 58(3) applies—the year of income before the last relevant year of income in relation to a child support period; or
-
-                     (b)  if subsection 58(4) applies—the earlier year of income that applies under paragraph 58(4)(c).
-
-## 23  Paragraph 58AA(3)(a)
-
-Omit “September”, substitute “December”.
-
-As at 1 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -19370,52 +19239,6 @@ If:
                      (b)  the determination was in force immediately before that commencement;
 
 the determination has effect, after that commencement, as if it had been made under section 58 of that Act as inserted by this Schedule.
-
-* * *
-
-_Social Security and Other Legislation Amendment (Disability Support Pension Participation Reforms) Act 2012 (No. 51, 2012)_
-
-## Schedule 4
-
-## 2  Transitional—publication of figures
-
-Subsection 155(2) of the _Child Support (Assessment) Act 1989_ applies in relation to the calendar year ending on 31 December 2012 as if the amendments of:
-
-                     (a)  section 5 of that Act; and
-
-                     (b)  section 5A of that Act; and
-
-                     (c)  subsection 155(2) of that Act;
-
-made by Division 2 of this Part had already commenced.
-
-## 3  Transitional—assessments for child support periods starting on or after 1 January 2013
-
-The _Child Support (Assessment) Act 1989_ applies in relation to the making or amendment, before 1 January 2013, of an administrative assessment for a child support period starting on or after 1 January 2013 as if the amendments of that Act made by Division 2 of this Part had already commenced.
-
-The following provisions commence on 1 January 2013:
-
-## Schedule 4
-
-## 18  Transitional—publication of figures
-
-Subsection 155(2A) of the _Child Support (Assessment) Act 1989_ applies in relation to the financial year ending on 30 June 2013 as if the amendments of section 58AA of that Act made by Division 3 of this Part had already commenced.
-
-## 20  Application of amendments
-
-The amendments made by items 6 to 16 apply in relation to child support periods starting on or after the commencement of this Division.
-
-## 21  Transitional—assessments for child support periods starting on or after 1 July 2013
-
-The _Child Support (Assessment) Act 1989_ applies in relation to the making or amendment, before 1 July 2013, of an administrative assessment for a child support period starting on or after 1 July 2013 as if the amendments of that Act made by Division 3 of this Part had already commenced.
-
-The following provision commences on 1 July 2013:
-
-## Schedule 4
-
-## 24  Application of amendments
-
-The amendments made by this Division apply in relation to child support periods starting on or after the commencement of this Division.
 
 ## Table B
 
