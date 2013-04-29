@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image001.gif)
 
 # Student Assistance Act 1973
 
 **Act No. 155 of 1973 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -210,7 +210,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [42A](#42A).       Recovery of amounts from financial institutions
 
-    **Division 3—Non‑recovery of debts**
+    **Division 3—Non-recovery of debts**
 
 [43](#43).          Secretary may write off debt
 
@@ -268,7 +268,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [311](#311).        Application for review by SSAT
 
-[313](#313).        Non‑reviewable decisions
+[313](#313).        Non-reviewable decisions
 
 [314](#314).        Secretary may continue payment pending outcome of application for review
 
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Student Assistance Act 1973_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -400,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="amount-outstanding"></a>**_amount outstanding_**, in relation to a financial supplement contract, has the meaning given by section 12X.
 
-                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
                     <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the Agency.
 
@@ -474,11 +474,11 @@ and includes a bank.
 
                     <a name="higher-educ-institut"></a>**_higher education institution_** means an educational institution in Australia that, in accordance with a determination by the Minister, is to be regarded as a higher education institution for the purposes of this Act.
 
-                    <a name="incom-tax"></a>**_income tax_** has the meaning given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
+                    <a name="incom-tax"></a>**_income tax_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name="incom-tax-law"></a>**_income tax law_** has the meaning given by section 14ZAAA of the _Taxation Administration Act 1953_.
 
-                    <a name="incom-year"></a>**_income year_** has the meaning given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
+                    <a name="incom-year"></a>**_income year_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name="index-number"></a>**_index number_**, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.
 
@@ -536,7 +536,7 @@ and includes a bank.
 
                     <a name="secondari-school"></a>**_secondary school_** means an educational institution in Australia that, in accordance with a determination by the Minister, is to be regarded as a secondary school for the purposes of this Act.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means Secretary to the Department.
 
                     <a name="servic-arrang"></a>**_service arrangements_** has the same meaning as in the Agency Act.
 
@@ -590,7 +590,7 @@ Note:          An application under the Student Financial Supp
 
                     <a name="subsidi"></a>**_subsidy_** means subsidy under an agreement referred to in section 12D.
 
-                    <a name="taxabl-incom"></a>**_taxable income_** has the meaning given by section 4‑15 of the _Income Tax Assessment Act 1997_.
+                    <a name="taxabl-incom"></a>**_taxable income_** has the meaning given by section 4-15 of the _Income Tax Assessment Act 1997_.
 
                     <a name="technic-further-educ-institut"></a>**_technical and further education institution_** means an educational institution in Australia that, in accordance with a determination by the Minister, is to be regarded as a technical and further education institution for the purposes of this Act.
 
@@ -628,7 +628,7 @@ Note:          An application under the Student Financial Supp
 
                              (ii)  the ready availability of publications containing clear statements about entitlements under this Act and procedural requirements;
 
-                            (iii)  the delivery of services under this Act in a fair, courteous, prompt and cost‑efficient manner;
+                            (iii)  the delivery of services under this Act in a fair, courteous, prompt and cost-efficient manner;
 
                             (iv)  a process of monitoring and evaluating delivery of programs with an emphasis on the impact of programs on people who receive benefits under this Act;
 
@@ -740,7 +740,7 @@ the person is, for the purposes of this section, taken to be undertaking that co
 
                      (b)  provides for the payment by the Commonwealth to the financial corporation, in respect of each amount of financial supplement paid by the corporation to a student that has not been repaid, or in respect of which the rights of the corporation have been assigned to the Commonwealth, of a subsidy of such amount or amounts, or at such rate or rates, and in respect of such period or periods, as are stated in the agreement.
 
-             (4)  Subject to subsection (5), the parties to an agreement referred to in subsection (2) (or such an agreement as previously amended) may enter into an agreement amending or terminating the first‑mentioned agreement (or that agreement as previously amended).
+             (4)  Subject to subsection (5), the parties to an agreement referred to in subsection (2) (or such an agreement as previously amended) may enter into an agreement amending or terminating the first-mentioned agreement (or that agreement as previously amended).
 
              (5)  The amendment or termination of an agreement does not affect any financial supplement contract that was in force immediately before the amendment or termination took effect.
 
@@ -820,7 +820,7 @@ the person is, for the purposes of this section, taken to be undertaking that co
 
                      (b)  an application by the person to a participating corporation for financial supplement in respect of that year or that part of that year is accepted by the corporation in accordance with section 12K;
 
-the benefit referred to in paragraph (a) is reduced by an amount equal to one‑half of the amount of the financial supplement paid to the person.
+the benefit referred to in paragraph (a) is reduced by an amount equal to one-half of the amount of the financial supplement paid to the person.
 
              (3)  If, apart from this subsection, the amount by which a benefit would be reduced by subsection (2) is an amount of dollars and cents and the cents include a half of one cent, the amount is increased by a half of one cent.
 
@@ -1068,13 +1068,13 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (b)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image002.gif)
 
                             and
 
                      (c)  no amount is taken to be outstanding under the contract after the notice is given but the student is liable to pay to the Commonwealth the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image003.gif)
 
              (3)  In the formula in paragraph (2)(c):
 
@@ -1094,7 +1094,7 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (c)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract as at the time when the corporation ceased to make payments under the contract or at the end of 4 weeks after the time the notice was given, whichever is the earlier, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image004.gif)
 
                      (d)  the indebtedness of the student to the Commonwealth under the contract as a result of the assignment is discharged by force of this paragraph.
 
@@ -1118,7 +1118,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (1)  Subject to this section, **_the amount outstanding_** under the contract at any time after the contract was entered into and before 1 June in the year next following the year in respect of which the contract was entered into is the amount worked out in relation to the contract, as at that time, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image005.gif)
 
              (2)  In subsection (1):
 
@@ -1132,7 +1132,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="amount-outstanding"></a>**_the amount outstanding_** under the contract is taken to be the amount worked out in relation to the period concerned using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image006.gif)
 
              (4)  For the purposes of the application of the formula in subsection (3) in relation to a time (**_the relevant time_**) within a period of 12 months beginning on 1 June (**_the relevant 12 months_**):
 
@@ -1144,7 +1144,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="index-factor"></a>**_indexation factor_** means the number worked out to 3 decimal places in relation to the relevant 12 months using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image007.gif)
 
                     <a name="later-refer-period"></a>**_later reference period_**means the period of 12 months immediately before the relevant 12 months.
 
@@ -1168,7 +1168,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the amount outstanding under the contract at the relevant time exceeds the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image002.gif)
 
 and the amount of the excess constitutes the indexation amount in relation to the contract at the relevant time.
 
@@ -1180,7 +1180,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  Subject to paragraphs 12QB(2)(d), 12QC(2)(d), 12S(2)(d) and 12U(2)(c), the student is not required during the contract period to make a repayment in respect of the amount outstanding under the contract.
 
-             (2)  Non‑payment by the student of the amount outstanding under the contract does not constitute a default under the contract for the purposes of any law of the Commonwealth, of a State or of a Territory.
+             (2)  Non-payment by the student of the amount outstanding under the contract does not constitute a default under the contract for the purposes of any law of the Commonwealth, of a State or of a Territory.
 
              (3)  Subject to subsection (4), the student may make to the corporation a repayment in respect of the amount outstanding under the contract at any time during the contract period.
 
@@ -1196,11 +1196,11 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (7)  If the student makes a repayment in respect of the amount outstanding under the contract that is less than the amount outstanding under the contract, the student is entitled for the purposes of this Part, in respect of the amount outstanding under the contract, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image008.gif)
 
           (7A)  If the student makes a repayment in respect of the amount outstanding under the contract that equals that amount, the student is entitled, for the purposes of this Act, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image009.gif)
 
              (8)  If, apart from this subsection, an amount worked out under subsection (7) or (7A) would be an amount of dollars and cents, the amount is to be rounded to the nearest dollar (rounding 50 cents upwards).
 
@@ -1274,7 +1274,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  If, at the end of the contract period in relation to a financial supplement contract between a participating corporation and another person, there was an amount outstanding under the contract, the person incurs on 1 June immediately following the end of that period a debt (**_FS debt_**) to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image010.gif)
 
 where:
 
@@ -1286,7 +1286,7 @@ where:
 
              (3)  If an FS debt or FS debts of a person that existed on 1 June in a year (**_the later date_**) are, or include, an FS debt or FS debts that existed on 1 June in the immediately preceding year (**_the earlier date_**), the person incurs on the later date an **_accumulated FS debt_** to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image011.gif)
 
 where:
 
@@ -1298,7 +1298,7 @@ where:
 
              (4)  The reference in subsection (3) to the adjusted accumulated FS debt of a person at the earlier date is a reference to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image012.gif)
 
 where:
 
@@ -1320,7 +1320,7 @@ where:
 
              (6)  The factor to be calculated for the purposes of the definition of **_indexation factor_** in subsection (1) or (3) in determining an FS debt or the accumulated FS debt of a person at 1 June in a year (**_the relevant year_**) is the number worked out to 3 decimal places using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image013.gif)
 
              (7)  If an indexation factor calculated in accordance with subsection (6) would end with a number greater than 4 if it were worked out to 4 decimal places, the indexation factor is increased by 0.001.
 
@@ -1394,7 +1394,7 @@ Note:          Interest is payable if the Commonwealth is late
 
              (1)  If:
 
-                     (a)  a person’s repayment income for the income year 2006‑07 or a subsequent income year exceeds the minimum repayment income for that income year; and
+                     (a)  a person’s repayment income for the income year 2006-07 or a subsequent income year exceeds the minimum repayment income for that income year; and
 
                      (b)  on 1 June immediately preceding the making of an assessment in respect of the person’s income for that income year, the person had an accumulated FS debt;
 
@@ -1432,7 +1432,7 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
 
 ##### <a id="12ZLA"></a>12ZLA  Minimum repayment income
 
-                   The **_minimum repayment income_** for the 2006‑07 income year or for a later income year is the amount worked out under paragraph 154‑10(b) of the _Higher Education Support Act 2003_ in respect of that income year.
+                   The **_minimum repayment income_** for the 2006-07 income year or for a later income year is the amount worked out under paragraph 154-10(b) of the _Higher Education Support Act 2003_ in respect of that income year.
 
 ##### <a id="12ZLB"></a>12ZLB  Repayable debt for an income year
 
@@ -1477,7 +1477,7 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
     </td>
     <td>
       <div>
-        <b>If the person’s repayment income for the 2006‑07 income year or a later
+        <b>If the person’s repayment income for the 2006-07 income year or a later
           income year is:</b>
       </div>
     </td>
@@ -1494,7 +1494,7 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
   </td>
   <td>
     <div>More than the minimum repayment income, but less than the amount determined
-      as set out in column 2 of item 2 of the table in section 154‑20 of the
+      as set out in column 2 of item 2 of the table in section 154-20 of the
       Higher Education Support Act 2003, in respect of that income year.</div>
   </td>
   <td>
@@ -1507,7 +1507,7 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
   </td>
   <td>
     <div>More than the amount under item 1, but less than the amount determined
-      as set out in column 2 of item 7 of the table in section 154‑20 of the
+      as set out in column 2 of item 7 of the table in section 154-20 of the
       Higher Education Support Act 2003, in respect of that income year.</div>
   </td>
   <td>
@@ -1528,7 +1528,7 @@ the person is liable to pay to the Commonwealth, in accordance with this Divisio
 
 ##### <a id="12ZLD"></a>12ZLD  Publishing indexed amounts
 
-             (1)  The Minister must cause to be published in the _Gazette_, before the start of the 2007‑08 income year or a later income year, a notice setting out:
+             (1)  The Minister must cause to be published in the _Gazette_, before the start of the 2007-08 income year or a later income year, a notice setting out:
 
                      (a)  the minimum repayment income; and
 
@@ -1550,13 +1550,13 @@ for that income year.
 
 ##### <a id="12ZN"></a>12ZN  Application of tax legislation
 
-                   Part IV of the _Income Tax Assessment Act 1936_, Division 5 of the _Income Tax Assessment Act 1997_ and Part IVC of, and Part 4‑15 in Schedule 1 to, the _Taxation Administration Act 1953_ apply, so far as they are capable of application and subject to this Division, in relation to an FS assessment debt of a person as if it were income tax assessed to be payable by a taxpayer by an assessment made under Part IV of the _Income Tax Assessment Act_ _1936_.
+                   Part IV of the _Income Tax Assessment Act 1936_, Division 5 of the _Income Tax Assessment Act 1997_ and Part IVC of, and Part 4-15 in Schedule 1 to, the _Taxation Administration Act 1953_ apply, so far as they are capable of application and subject to this Division, in relation to an FS assessment debt of a person as if it were income tax assessed to be payable by a taxpayer by an assessment made under Part IV of the _Income Tax Assessment Act_ _1936_.
 
-Note:          FS assessment debts are also collected through the Pay As You Go (PAYG) system of collecting income tax: see Parts 2‑1, 2‑5 and 2‑10 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          FS assessment debts are also collected through the Pay As You Go (PAYG) system of collecting income tax: see Parts 2-1, 2-5 and 2-10 in Schedule 1 to the _Taxation Administration Act 1953_.
 
 ##### <a id="12ZNA"></a>12ZNA  Charges and administrative penalties for failing to meet obligations
 
-             (1)  Part 4‑25 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if:
+             (1)  Part 4-25 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if:
 
                      (a)  any compulsory repayment amount of a person were income tax payable by the person in respect of the income year in respect of which the assessment of that debt was made; and
 
@@ -1566,7 +1566,7 @@ Note:          FS assessment debts are also collected through 
 
 ##### <a id="12ZNB"></a>12ZNB  Pay as you go (PAYG) withholding
 
-                   Part 2‑5 (other than section 12‑55 and Subdivisions 12‑E, 12‑F and 12‑G) in Schedule 1 to the _Taxation Administration Act 1953_ applies, so far as it is capable of application, in relation to the collection of amounts of a compulsory repayment amount of a person as if the compulsory repayment amount were income tax.
+                   Part 2-5 (other than section 12-55 and Subdivisions 12-E, 12-F and 12-G) in Schedule 1 to the _Taxation Administration Act 1953_ applies, so far as it is capable of application, in relation to the collection of amounts of a compulsory repayment amount of a person as if the compulsory repayment amount were income tax.
 
 ##### <a id="12ZNC"></a>12ZNC  Provisional tax
 
@@ -1846,7 +1846,7 @@ then:
 
                              (ii)  if subparagraph (a)(ii) applies—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image014.gif)
 
              (4)  Any amount paid to the Commonwealth by or under the authority of the person in relation to the recoverable amount is:
 
@@ -2022,7 +2022,7 @@ Note:          The defendant bears a legal burden in relation 
 
 any amount recovered by the Commonwealth from the institution in respect of the debt reduces any debt owed to the Commonwealth by any other person in respect of the amount or amounts of student assistance benefit.
 
-### Division 3—Non‑recovery of debts
+### Division 3—Non-recovery of debts
 
 ##### <a id="43"></a>43  Secretary may write off debt
 
@@ -2148,11 +2148,11 @@ Waiver where at least 80% of debt recovered and debtor cannot pay more
 
 the Secretary must waive the right to recover the remaining 20% or less of the value of the original debt.
 
-Agreement for part‑payment in satisfaction of outstanding debt
+Agreement for part-payment in satisfaction of outstanding debt
 
              (4)  If the Secretary and a debtor agree that the debtor’s debt will be fully satisfied if the debtor pays the Commonwealth an agreed amount less than the amount of the debt outstanding at the time of the agreement (the **_unpaid amount_**), the Secretary must waive the right to recover the difference between the unpaid amount and the agreed amount.
 
-Limits on agreement to accept part‑payment in satisfaction of outstanding debt
+Limits on agreement to accept part-payment in satisfaction of outstanding debt
 
              (5)  The Secretary must not make an agreement described in subsection (4) unless the Secretary is satisfied that:
 
@@ -2166,7 +2166,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image015.gif)
 
 where:
 
@@ -2186,7 +2186,7 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
 Result:        The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00198/Html/7995faec-0ca3-43cb-9aff-11b6a3944c54_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image016.gif)
 
                    As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
@@ -2318,7 +2318,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
                      (b)  the Assistance for Isolated Children Scheme; and
 
-                     (c)  the ABSTUDY Scheme (also known as the Aboriginal Study Assistance Scheme), other than in relation to the away‑from‑base element of that Scheme for mixed mode study;
+                     (c)  the ABSTUDY Scheme (also known as the Aboriginal Study Assistance Scheme), other than in relation to the away-from-base element of that Scheme for mixed mode study;
 
 is to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
@@ -2340,7 +2340,7 @@ Note:          Part 2 of Schedule 11 to the_Social Securit
 
 ##### <a id="56"></a>56  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which, by this Act, are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which, by this Act, are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  making provision in relation to the furnishing of information by applicants for benefits under a current special educational assistance scheme and by persons to whom such benefits have been granted; and
 
@@ -2634,7 +2634,7 @@ Period within which application for review by SSAT to be sought
 
 after the original decision was affirmed, varied or set aside by the Secretary or an authorised review officer.
 
-##### <a id="313"></a>313  Non‑reviewable decisions
+##### <a id="313"></a>313  Non-reviewable decisions
 
                    The Social Security Appeals Tribunal cannot review a decision:
 
@@ -3096,7 +3096,7 @@ Notices other than notices under Part 8 taken to have been given
 
                      (b)  left at the address of the place of residence or business of the person last known to the Secretary; or
 
-                     (c)  sent by pre‑paid post to the address of the place of residence or business of the person last known to the Secretary;
+                     (c)  sent by pre-paid post to the address of the place of residence or business of the person last known to the Secretary;
 
 notice of the decision is taken, for the purposes of this Act, to have been given to the person even if the Secretary is satisfied that the person did not actually receive the notice.
 
@@ -3120,7 +3120,7 @@ Effect of section
 
 ### Division 2—Information gathering
 
-##### <a id="342"></a>342  Application
+##### <a id="342"></a>342  Application
 
 Extraterritorial application
 
@@ -3196,7 +3196,7 @@ Secretary may require information etc. concerning debts under Act
 
                      (b)  that is relevant to the financial situation of a person referred to in paragraph (a);
 
-the Secretary may require the first‑mentioned person to give the information, or produce the document, to the Department.
+the Secretary may require the first-mentioned person to give the information, or produce the document, to the Department.
 
 Note:          A requirement under this section may be sent to a company as well as to a natural person—paragraph 22(1)(a) of the _Acts Interpretation Act 1901_ provides that **_person_** includes a body corporate.
 
@@ -3300,7 +3300,7 @@ Child support
 
 Protected information about ABSTUDY scheme schooling requirements
 
-             (4)  If protected information relates to the enrolment (or non‑enrolment) or the attendance (or non‑attendance) of a child at a school, a person may do any of the following:
+             (4)  If protected information relates to the enrolment (or non-enrolment) or the attendance (or non-attendance) of a child at a school, a person may do any of the following:
 
                      (a)  obtain the information;
 
@@ -3390,6 +3390,8 @@ Secretary may disclose information
 
                      (b)  disclose any such information to the Secretary of a Department of State of the Commonwealth or to the head of an authority of the Commonwealth for the purposes of that Department or authority; or
 
+                     (c)  disclose any such information to a contracted case manager within the meaning of the _Employment Services Act 1994_ for the purposes of that Act; or
+
                      (d)  disclose any such information to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it.
 
 Note:          A person to whom information is disclosed may commit an offence if the person uses the information without authority (see section 353).
@@ -3420,9 +3422,9 @@ Disallowable instrument
 
 ##### <a id="356A"></a>356A  Disclosure of information—education expenses tax offset
 
-             (1)  The Secretary may, for the purposes of the administration of the education expenses tax offset provided by Subdivision 61‑M of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation relevant information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under this Act.
+             (1)  The Secretary may, for the purposes of the administration of the education expenses tax offset provided by Subdivision 61-M of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation relevant information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under this Act.
 
-             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for purposes relating to the education expenses tax offset provided by Subdivision 61‑M of the _Income Tax Assessment Act 1997_.
+             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for purposes relating to the education expenses tax offset provided by Subdivision 61-M of the _Income Tax Assessment Act 1997_.
 
              (3)  This section does not limit the powers of the Secretary under section 355.
 
@@ -3434,9 +3436,9 @@ Disallowable instrument
 
                      (b)  the disclosure would be in contravention of this Division; and
 
-                     (c)  the first‑mentioned person knows or ought reasonably to know that the information is protected information;
+                     (c)  the first-mentioned person knows or ought reasonably to know that the information is protected information;
 
-then, whether or not any protected information is actually disclosed, the first‑mentioned person is guilty of an offence punishable on conviction by imprisonment for a period of not more than 2 years.
+then, whether or not any protected information is actually disclosed, the first-mentioned person is guilty of an offence punishable on conviction by imprisonment for a period of not more than 2 years.
 
 Note 1:       Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the resulting number by the amount of a penalty unit. The amount of a penalty unit is stated in section 4AA of that Act.
 
@@ -3507,6 +3509,8 @@ Note:          For **_officer_** see subsection 3(1).
 ##### <a id="361"></a>361  Freedom of Information Act not affected
 
                    The provisions of this Part that relate to the disclosure of information do not affect the operation of the _Freedom of Information Act 1982._
+
+ 
 
 # Notes to the _Student Assistance Act 1973_
 
@@ -4618,7 +4622,7 @@ Schedule 2 (items 12–25, 27): 1 July 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -4696,24 +4700,6 @@ Schedule 2 (items 12–25, 27): 1 July 2006</div>
   </td>
   <td>
     <div>Schedule 11 (items 19–22): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 112): Royal Assent 
-Schedule 7 (item 130): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4945,7 +4931,7 @@ The amendment history of the _Student Assistance Act 1973_ after renumbering by 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009; No. 148, 2010; No. 5, 2011</div>
+    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009; No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12400,7 +12386,7 @@ rep. No. 45, 1998</div>
 </tr>
 <tr>
   <td>
-    <div>S. 354</div>
+    <div>Ss. 354, 355</div>
   </td>
   <td>
     <div>ad. No. 183, 1994</div>
@@ -12412,22 +12398,6 @@ rep. No. 45, 1998</div>
   </td>
   <td>
     <div>am. No. 29, 1997; No. 45, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 355</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 29, 1997; No. 45, 1998; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12879,7 +12849,7 @@ _Tax Law Improvement Act 1997 (No. 121, 1997)_
 
 ## 4  Application of amendments
 
-An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997-98 income year and later income years, unless otherwise indicated in that Schedule.
 
 * * *
 
@@ -13107,7 +13077,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -13121,7 +13091,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -13129,9 +13099,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -13149,11 +13119,11 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
 (3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
@@ -13163,19 +13133,19 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
 (1)       For the purposes of this item, if:
 
@@ -13189,7 +13159,7 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
 (2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
@@ -13199,11 +13169,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -13215,7 +13185,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -13229,7 +13199,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 (1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)       The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -13267,7 +13237,7 @@ If, at any time before the commencement of the amendments of the _Student Assist
 
                      (a)  a person had an accumulated FS debt; and
 
-                     (b)  the person was, by virtue of the application of the provisions of that Act as in force at that time, under an obligation to make a payment in reduction of that debt in respect of an income year before the income year 2006‑07;
+                     (b)  the person was, by virtue of the application of the provisions of that Act as in force at that time, under an obligation to make a payment in reduction of that debt in respect of an income year before the income year 2006-07;
 
 the provisions of that Act as so in force continue to apply in respect of the payments required to be made in reduction of that debt in respect of that income year as if those items had never been enacted.
 
@@ -13282,7 +13252,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -13308,17 +13278,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -13358,7 +13328,7 @@ _Tax Laws Amendment (Education Refund) Act 2008 (No. 141, 2008)_
 
 ## 10  Application
 
-The amendments made by this Schedule apply to the 2008‑2009 income year and later years.
+The amendments made by this Schedule apply to the 2008-2009 income year and later years.
 
 * * *
 
