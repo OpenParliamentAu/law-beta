@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image001.gif)
 
 # Defence Home Ownership Assistance Scheme Act 2008
 
 **Act No. 27 of 2008 as amended**
 
-This compilation was prepared on 7 July 2010
- taking into account amendments up to Act No. 95 of 2010
+This compilation was prepared on 22 July 2009
+ taking into account amendments up to Act No. 46 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1808,7 +1808,7 @@ Note:          Part 5 provides for the administrative review
 
                    If subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period, the amount of subsidy (the subsidised borrower’s **_monthly subsidy_**) for each month during the period is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image002.gif)
 
 Note:          The average monthly interest is worked out under section 50.
 
@@ -1816,13 +1816,13 @@ Note:          The average monthly interest is worked out unde
 
              (1)  **_Average monthly interest_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image003.gif)
 
 Note:          The loan capital is worked out under section 51.
 
              (2)  The **_monthly repayment_**, for the formula in subsection (1), is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image004.gif)
 
 Note 1:       The loan capital is worked out under section 51.
 
@@ -2196,7 +2196,7 @@ Note 2:       If the subsidised borrower and another person (other t
 
              (1)  If a subsidy lump sum is payable to a subsidised borrower in relation to a subsidised loan, the amount of the subsidy lump sum is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00356/Html/DefHomeOwnerAssistScheme2008_image005.gif)
 
              (2)  The **_notional monthly subsidy_**, for the formula in subsection (1), is the amount of monthly subsidy that would have been payable to the subsidised borrower in relation to the loan under section 49 on the following assumptions:
 
@@ -3162,23 +3162,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (items 4, 7, 11, 21, 23)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2010</div>
-  </td>
-  <td>
-    <div>95, 2010</div>
-  </td>
-  <td>
-    <div>5 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4: \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 2)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -3405,20 +3388,6 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
-
-The following amendment commences on 2 August 2010:
-
-## Schedule 4
-
-## 1  Subsection 5(1)
-
-Omit “or appointment”, substitute “, appointment or transfer”.
-
-As at 7 July 2010 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3478,21 +3447,5 @@ Saving
 (2)        A delegation in force under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ immediately before the day the amendment made by this Part commences continues to have effect, on and after that day, as if it were a delegation under that subsection as amended by this Part.
 
 _Note:       The amendment commences 28 days after the day this Act receives the Royal Assent._
-
-* * *
-
-_Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
-
-The following provision commences on 2 August 2010:
-
-## Schedule 4
-
-## 2  Application
-
-The amendment made by item 1 of this Schedule applies in relation to:
-
-                     (a)  a decision in respect of the giving of a subsidy certificate under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_, if the decision is made on or after the commencement of this item; and
-
-                     (b)  the payment of subsidy to a person under that Act during an entitlement period, if the subsidy certificate to which the entitlement period relates was given to the person on or after the commencement of this item.
 
  
