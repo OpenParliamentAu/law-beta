@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image001.gif)
 
 # Medicare Levy Act 1986
 
 **Act No. 110 of 1986 as amended**
 
-This compilation was prepared on 1 July 2010
+This compilation was prepared on 2 July 2009
  taking into account amendments up to Act No. 41 of 2009
 
 The text of any of those amendments not in force
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="phase-limit"></a>**_phase-in limit_** means:
 
-                     (a)  for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$36,100; or
+                     (a)  for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$35,137; or
 
                      (b)  for a person who is entitled to a rebate under subsection 160AAA(2) of the Assessment Act—$29,763; or
 
@@ -90,7 +90,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="threshold-amount"></a>**_threshold amount_** means:
 
-                     (a)  for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$30,685; or
+                     (a)  for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$29,867; or
 
                      (b)  for a person who is entitled to a rebate under subsection 160AAA(2) of the Assessment Act—$25,299; or
 
@@ -160,7 +160,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -176,11 +176,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image004.gif)
 
 ##### <a id="4"></a>4  Incorporation
 
@@ -236,7 +236,7 @@ and the family income in relation to the person does not exceed the family incom
 
 and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image005.gif)
 
 where:
 
@@ -282,7 +282,7 @@ would, but for subsection 159J(1A) of the Assessment Act, be entitled to a rebat
 
              (6)  In the application of the definition of **_family income threshold_** in subsection (5) in determining the family income threshold in relation to a person in relation to a year of income, being a person who was not a married person on the last day of the year of income, the amount of $30,025 referred to in that definition shall not be increased on account of another person unless family tax benefit under the _A New Tax System (Family Assistance) (Administration) Act 1999_ was payable to the first-mentioned person in respect of that other person in respect of the whole or any part of the year of income.
 
-             (7)  Subsections (5) and (6) apply in relation to a person who is entitled for the year of income to a rebate under section 160AAAA of the Assessment Act as if each reference to $30,025 were a reference to $44,500.
+             (7)  Subsections (5) and (6) apply in relation to a person who is entitled for the year of income to a rebate under section 160AAAA of the Assessment Act as if each reference to $30,025 were a reference to $43,500.
 
 ##### <a id="8B"></a>8B  Levy surcharge—person without dependants who is not married during whole or part of a financial year
 
@@ -308,7 +308,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image006.gif)
 
 ##### <a id="8C"></a>8C  Levy surcharge—person with dependants who is not married during whole or part of a financial year
 
@@ -336,7 +336,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image007.gif)
 
 ##### <a id="8D"></a>8D  Levy surcharge—person who is married during whole or part of a financial year
 
@@ -366,7 +366,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
              (4)  The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image008.gif)
 
 if:
 
@@ -400,7 +400,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image009.gif)
 
 ##### <a id="8F"></a>8F  Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies 
 
@@ -416,7 +416,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image010.gif)
 
 ##### <a id="8G"></a>8G  Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies 
 
@@ -436,7 +436,7 @@ if:
 
              (3)  If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00425/Html/MedicareLevy1986_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00279/Html/MedicareLevy1986_WD02_image010.gif)
 
 if:
 
@@ -1278,7 +1278,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 7–10): 1 July 2008 
 Schedule 1 (items 17–20): 1 July 2009 
-Schedule 1 (items 27–30): 1 July 2010</div>
+Schedule 1 (items 27–30): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 10, 20, 30) \[ <i>see</i>Table A]</div>
@@ -1884,6 +1884,29 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
   </td>
 </tr></table>
 
+### Note 2
+
+_Tax Laws Amendment (Personal Income Tax Reduction) Act 2008
+ (No. 29, 2008)_
+
+The following amendments commence on 1 July 2010:
+
+## Schedule 1
+
+## 27  Subsection 3(1) (paragraph (a) of the definition of _phase-in limit_)
+
+Omit “$35,137”, substitute “$36,100”.
+
+## 28  Subsection 3(1) (paragraph (a) of the definition of _threshold amount_)
+
+Omit “$29,867”, substitute “$30,685”.
+
+## 29  Subsection 8(7)
+
+Omit “$43,500”, substitute “$44,500”.
+
+As at 2 July 2009 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2162,6 +2185,10 @@ The amendments made by this Part apply to assessments for the 2008-09 year of in
 ## 20  Application
 
 The amendments made by this Part apply to assessments for the 2009-10 year of income.
+
+The following provision commences on 1 July 2010:
+
+## Schedule 1
 
 ## 30  Application
 
