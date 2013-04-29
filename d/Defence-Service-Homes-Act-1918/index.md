@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image001.gif)
 
 # Defence Service Homes Act 1918
 
 **Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2004,7 +2004,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image002.gif)
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -4087,7 +4087,7 @@ The amount of Subsidy payable by the Commonwealth shall be calculated as set out
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image003.gif)
 
 where
 
@@ -4434,7 +4434,7 @@ For the purposes of this Clause, a South African or Namibian person is defined a
 
 19.2.5  Where stamp duty has been paid pursuant to Sub‑clause 19.2.4 and an objection, appeal or legal proceedings establishes that all or part of such stamp duty is not chargeable and the Bank receives a refund of stamp duty paid then the Bank shall forthwith reimburse the Commonwealth the amount of stamp duty not chargeable which has been paid by the Commonwealth, and pay to the Commonwealth any interest or like compensation received by the Bank in connection with that part of the refunded stamp duty paid by the Commonwealth.
 
-19.2.6  If the Commonwealth does not request the Bank to lodge any objection or appeal within the time period specified in Sub‑clause 19.2.2 or to commence legal proceedings after an unsuccessful objection or appeal  before the last day for payment of stamp duty prior to the Bank becoming liable to pay any fine or penalty, the Bank shall pay the stamp duty  assessed and, subject to Sub‑clause 19.2.8, the Commonwealth shall  reimburse the Bank within fourteen (14) days of a request for payment.
+19.2.6  If the Commonwealth does not request the Bank to lodge any objection or appeal within the time period specified in Sub‑clause 19.2.2 or to commence legal proceedings after an unsuccessful objection or appeal  before the last day for payment of stamp duty prior to the Bank becoming liable to pay any fine or penalty, the Bank shall pay the stamp duty  assessed and, subject to Sub‑clause 19.2.8, the Commonwealth shall  reimburse the Bank within fourteen (14) days of a request for payment.
 
 19.2.7  At the time of informing the Commonwealth of the outcome of any legal proceedings under Sub‑clause 19.2.3 (e), the Bank shall, where it is  determined that stamp duty is payable, notify the Commonwealth of the  remaining amount payable under the indemnity given by the Commonwealth pursuant to Sub‑clause 19.2.3\. Upon receipt of such notification, the Commonwealth shall pay the Bank the amount payable under the indemnity and, subject to Sub‑clause 19.2.8, such stamp duty.
 
@@ -4574,9 +4574,9 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image004.gif)
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image005.gif)
 
 **SCHEDULE “A”**
 
@@ -4735,7 +4735,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image006.gif)
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4747,7 +4747,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image007.gif)
 
 Open/Closed dates
 
@@ -5202,9 +5202,9 @@ This Supplementary Agreement may not be assigned in whole or in part by either p
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image008.gif)
 
-![](http://www.comlaw.gov.au/Details/C2011C00906/Html/6a72037a-2cef-4a5d-8ac4-14f40b2091d1_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00301/Html/534c7c58-f404-4824-acd9-bbe2c7199e68_files/image009.gif)
 
 **SCHEDULE OF AMENDMENTS TO AGREEMENT**
 
@@ -7735,23 +7735,6 @@ Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
   </td>
   <td>
     <div>Schedule 5 (items 102–105), Schedule 6 (items 34, 35) and Schedule 7 (items 50, 51): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 21): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -11416,22 +11399,6 @@ The amendment history of the repealed provisions of the _Defence Service Homes A
     <div>rep. No. 124, 1988</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 21  Paragraph 50A(2)(d)
-
-Repeal the paragraph, substitute:
-
-                     (d)  uses as a business name (within the meaning of the _Business Names Registration Act 2011_) or part of a business name;
-
-As at 11 November 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
