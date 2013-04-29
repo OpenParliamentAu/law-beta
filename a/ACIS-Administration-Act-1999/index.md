@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image001.gif)
 
 # ACIS Administration Act 1999
 
 **Act No. 139 of 1999 as amended**
 
-This compilation was prepared on 26 May 2009
- taking into account amendments up to Act No. 33 of 2009
+This compilation was prepared on 23 March 2007
+ incorporating amendments up to Act No. 25 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Consequential amendments** 
 
-Customs Act 1901                                                                                                    110
+Customs Act 1901                                                                                                    111
 
 **Notes** 
 ## An Act to promote competitiveness, and encourage investment, in the automotive industry, and for related purposes
@@ -1809,7 +1809,7 @@ Note:          Unmodulated type J investment credit is worked 
 
              (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit to be issued to the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image002.gif)
 
 where:
 
@@ -1821,7 +1821,7 @@ Note:          The definition of **_production value_** refers
 
              (2)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated capped production credit for the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image003.gif)
 
 where:
 
@@ -1837,7 +1837,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type A investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image004.gif)
 
 where:
 
@@ -1853,7 +1853,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type B investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image005.gif)
 
 where:
 
@@ -1869,7 +1869,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type C investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image006.gif)
 
 where:
 
@@ -1887,7 +1887,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type D investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image007.gif)
 
 where:
 
@@ -1903,7 +1903,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type E investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image008.gif)
 
 where:
 
@@ -1921,7 +1921,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type F investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image009.gif)
 
 where:
 
@@ -1937,7 +1937,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type G investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image010.gif)
 
 where:
 
@@ -1955,7 +1955,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type H investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image011.gif)
 
 where:
 
@@ -1971,7 +1971,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type I investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00211/Html/ACISAdmin1999_WD02_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00119/Html/ACISAdmin1999_WD02HYP_image012.gif)
 
 where:
 
@@ -2128,7 +2128,7 @@ then, in determining amounts to be entered in the ACIS ledger under subsection 5
 
                     <a name="ucl-amount"></a>**_UCL amount_** means the amount of a liability imposed under the _ACIS (Unearned Credit Liability) Act 1999_, including amounts received, or likely to be received, as offsets of particular duty credit against this liability.
 
-##### <a id="54"></a>54  5% of sales limit on participants 
+##### <a id="54"></a>54  5% of sales limit on participants 
 
 5% of sales value limit on participants to whom paragraph 16(1)(a), 17(1)(a) or (2)(a), 18(1)(a) or 19(1)(a) applied
 
@@ -3230,9 +3230,9 @@ the AAT’s decision can only be given effect to if:
 
              (1)  The Secretary may, by signed writing, delegate to an SES employee in the Department all or any of the Secretary’s powers under this Act.
 
-             (2)  The Secretary may, by signed writing, delegate to the Chief Executive Officer of Customs the power to amend the ledger under paragraph 66(a) (when duty credit is applied by a person in respect of the importation of eligible imports) or paragraph 66(aa) (when duty credit is applied against previously paid duty).
+             (2)  The Secretary may, by signed writing, delegate to the Chief Executive Officer of the Australian Customs Service the power to amend the ledger under paragraph 66(a) (when duty credit is applied by a person in respect of the importation of eligible imports) or paragraph 66(aa) (when duty credit is applied against previously paid duty).
 
-             (3)  If the Secretary delegates a power mentioned in subsection (2) to the Chief Executive Officer of Customs, the Chief Executive Officer may, by writing, sub-delegate the power to an officer of Customs (within the meaning of the _Customs Act 1901_).
+             (3)  If the Secretary delegates a power mentioned in subsection (2) to the Chief Executive Officer of the Australian Customs Service, the Chief Executive Officer may, by writing, sub-delegate the power to an officer of Customs (within the meaning of the _Customs Act 1901_).
 
              (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply in relation to the sub-delegation in a corresponding way to the way in which they apply to a delegation.
 
@@ -3500,25 +3500,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
-  </td>
-  <td>
-    <div>33, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 
-(item 1): 23 May 
-2009</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -4412,7 +4393,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 115</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 21, 2003; No. 33, 2009</div>
+    <div>am. No. 146, 1999; No. 21, 2003</div>
   </td>
 </tr>
 <tr>
