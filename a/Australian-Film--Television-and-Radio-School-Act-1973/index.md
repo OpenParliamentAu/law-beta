@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00019/Html/c6415ff9-c76f-4c1a-ada1-f0429d5499e1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00701/Html/1727370b-6332-4351-9f0c-de01c5632fc4_files/image001.gif)
 
 # Australian Film, Television and Radio School Act 1973
 
 **Act No. 95 of 1973 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 31 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -316,7 +316,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (6)  A document purporting to be a certificate mentioned in subsection (5) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
 
-##### <a id="13"></a>13  Chair and Deputy Chair of Council
+##### <a id="13"></a>13  Chair and Deputy Chair of Council
 
              (1)  Subject to subsection (3), the Governor‑General shall appoint a member of the Council to be the Chair of the Council.
 
@@ -488,13 +488,27 @@ the Governor‑General shall remove the Director from office.
 
                      (b)  during any period, or during all periods, when the Director is, or is about to be, absent from duty or from Australia or, for any reason, unable to perform the functions of the Director’s office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Governor‑General may:
 
                      (a)  subject to this Act, on the recommendation of the Council, determine the terms and conditions of appointment of an Acting Director; and
 
                      (b)  at any time terminate such an appointment.
+
+             (3)  Where a person is acting as the Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs or the vacancy is filled.
+
+             (4)  The appointment of an Acting Director ceases to have effect if the Acting Director resigns the appointment by writing signed by the Acting Director and delivered to the Governor‑General.
+
+             (5)  While the appointment of an Acting Director remains in force, the Acting Director has, and may exercise, all the powers and shall perform all the functions of the Director.
+
+             (7)  Anything done by or in relation to a person purporting to act as the Director under subsection (1) is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ## Part VI—Staff
 
@@ -715,7 +729,7 @@ of Assent</div>
     <div>5 June 1985</div>
   </td>
   <td>
-    <div>S. 3: 3 July 1985</div>
+    <div>S. 3: 3 July 1985 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -732,7 +746,7 @@ of Assent</div>
     <div>24 June 1986</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>S. 9</div>
@@ -749,8 +763,8 @@ of Assent</div>
     <div>19 June 1989</div>
   </td>
   <td>
-    <div>Ss. 11 and 13: 7 Dec 1988 
-Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
+    <div>Ss. 11 and 13: 7 Dec 1988 
+Part 5 (ss.14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -785,8 +799,7 @@ Remainder: Royal Assent</div>
     <div>12 Apr 1995</div>
   </td>
   <td>
-    <div>Schedule (items 
-2–5): Royal Assent</div>
+    <div>Schedule (items 2–5): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -803,7 +816,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 22, 23): Royal Assent</div>
+    <div>Schedule 4 (items 22, 23): Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -820,7 +833,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 238–246): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    <div>Schedule 2 (items 238–246): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -837,7 +850,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 173): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
+    <div>Schedule 1 (item 173): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -854,7 +867,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 24, 25): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(c)</i></div>
+    <div>Schedule 10 (items 24, 25): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -922,7 +935,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 24, 25): 19 Apr 2011</div>
+    <div>Schedule 5 (items 24, 25): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -939,24 +952,40 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 154, 155) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 154, 155) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_     The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 2 (items 238–246) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Australian Film, Television and Radio School Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(b)_     The _Australian Film, Television and Radio School Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(c)_     The _Australian Film, Television and Radio School Act 1973_ was amended by the Schedule (items 2–5) only of the _Communications and the Arts Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(d)_     The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 4 (items 22 and 23) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_     The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 2 (items 238–246) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 1 (item 173) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(f)_      The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 1 (item 173) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(c)_     The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 10 (items 24 and 25) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(g)_     The _Australian Film, Television and Radio School Act 1973_ was amended by Schedule 10 (items 24 and 25) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -1198,7 +1227,7 @@ _(c)_     The _Australian Film, Television and Radio School Act 1973_ wa
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 60, 1989; No. 32, 1995; No. 152, 1997</div>
+    <div>am. No. 76, 1986; No. 60, 1989; No. 32, 1995; No. 152, 1998</div>
   </td>
 </tr>
 <tr>
@@ -1294,15 +1323,7 @@ _(c)_     The _Australian Film, Television and Radio School Act 1973_ wa
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 110, 1976; No. 76, 1986; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 110, 1976; No. 76, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1482,6 +1503,26 @@ _(c)_     The _Australian Film, Television and Radio School Act 1973_ wa
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 154  At the end of subsection 31(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 155  Subsections 31(3) to (7)
+
+Repeal the subsections.
+
+As at 31 August 2011 the amendments are not incorporated in this compilation.
+
 Table A
 
 ### Application, saving or transitional provisions
@@ -1507,6 +1548,8 @@ Despite the amendment made by item 1, regulations in force for the purposes of
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
