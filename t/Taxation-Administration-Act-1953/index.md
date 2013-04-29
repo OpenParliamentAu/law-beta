@@ -1,32 +1,31 @@
-![](http://www.comlaw.gov.au/Details/C2011C00396/Html/b55d066d-d78e-40ca-b90a-023063aa3363_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00855/Html/TaxAdmin53Vol1_WD02_image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 22 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
-**Volume 1** includes:     Table of Contents
+**Volume 1** includes:       Table of Contents
                                      Sections 1–18
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
-**Volume 2** includes:      First and Second Schedules
+**Volume 2** includes:       First and Second Schedules
                                      Schedule 1
-                                     Note 1
+                                     Note 1
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2–5
+                                     Notes 2–4
                                      Tables A and B
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -96,7 +95,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Preliminary**
 
-[8AAZA](#8AAZA). Definitions
+8AAZA Definitions
 
 [8AAZB](#8AAZB). Trustee to be treated as separate entity for each capacity
 
@@ -104,13 +103,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AAZC](#8AAZC). Establishment of RBAs
 
-[8AAZD](#8AAZD). Allocation of tax debts to RBAs
+8AAZD Allocation of tax debts to RBAs
 
 [8AAZF](#8AAZF). General interest charge on RBA deficit debt
 
-[8AAZG](#8AAZG). RBA statements
+8AAZG RBA statements
 
-[8AAZH](#8AAZH). Liability for RBA deficit debt
+8AAZH Liability for RBA deficit debt
 
 [8AAZI](#8AAZI).  RBA statement to be evidence
 
@@ -120,33 +119,36 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AAZL](#8AAZL). Amounts covered by this Division
 
-8AAZLA  Method 1—allocating the amount first to an RBA
+8AAZLAMethod 1—allocating the amount first to an RBA
 
-8AAZLB  Method 2—applying the amount first against a non‑RBA tax debt
+8AAZLBMethod 2—applying the amount first against a non-RBA tax 
+ debt
 
-8AAZLC  RBA surplus and related credits must remain equivalent if one or the other is applied
+8AAZLCRBA surplus and related credits must remain equivalent if one 
+ or the other is applied
 
-8AAZLD  Special priority credits: FS assessment debts and compulsory repayment amounts
+8AAZLDSpecial priority credits: FS assessment debts and compulsory 
+ repayment amounts
 
-[8AAZLE](#8AAZLE).                                            Instructions to Commissioner not binding
+8AAZLEInstructions to Commissioner not binding
 
-    **Division 3A—Refunds of RBA surpluses and credits**
+    **Division 3A—Refunds of RBA surpluses and credits** 
 
-[8AAZLF](#8AAZLF).                        Commissioner must refund RBA surpluses and credits
+8AAZLFCommissioner must refund RBA surpluses and credits
 
-8AAZLG  Retaining refunds until information or notification given
+8AAZLGRetaining refunds until information or notification given
 
-8AAZLH  How refunds are made
+8AAZLHHow refunds are made
 
     **Division 4—Miscellaneous provisions about tax debts**
 
-8AAZM When payments are treated as received
+[8AAZM](#8AAZM).                                                When payments are treated as received
 
-8AAZMA  Electronic payment of tax debts
+8AAZMAElectronic payment of tax debts
 
-8AAZMB  Saturdays, Sundays and public holidays
+8AAZMBSaturdays, Sundays and public holidays
 
-[8AAZN](#8AAZN). Overpayments made by the Commissioner under taxation laws
+8AAZN Overpayments made by the Commissioner under taxation laws
 
 **Part III—Prosecutions and offences** 
 
@@ -196,7 +198,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8S](#8S).          Election to treat offence otherwise than as prescribed taxation offence
 
-[8T](#8T).          Incorrectly keeping records with intention of deceiving or misleading etc 
+[8T](#8T).         Incorrectly keeping records with intention of deceiving or misleading etc 
 
 [8U](#8U).         Falsifying or concealing identity with intention of deceiving or misleading etc 
 
@@ -218,37 +220,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8Y](#8Y).         Liability of officers etc  of corporations
 
-[8Z](#8Z).          Evidentiary certificate relating to previous convictions
+[8Z](#8Z).         Evidentiary certificate relating to previous convictions
 
     **Division 3—Prosecution of taxation offences**
 
-[8ZA](#8ZA).       Prosecution of taxation offences
+[8ZA](#8ZA).      Prosecution of taxation offences
 
 [8ZB](#8ZB).       Prosecution may be commenced at any time
 
 [8ZC](#8ZC).       Place where offence committed
 
-[8ZD](#8ZD).       Conduct by servants or agents of corporations
+[8ZD](#8ZD).      Conduct by servants or agents of corporations
 
 [8ZE](#8ZE).       Civil penalty not payable if prosecution instituted
 
 [8ZF](#8ZF).       Penalties for corporations
 
-[8ZG](#8ZG).       Enforcement of orders for payment
+[8ZG](#8ZG).      Enforcement of orders for payment
 
-[8ZH](#8ZH).       Penalties not to relieve from tax
+[8ZH](#8ZH).      Penalties not to relieve from tax
 
     **Division 4—Prescribed taxation offences**
 
 [8ZJ](#8ZJ).        Prosecution of prescribed taxation offences
 
-[8ZK](#8ZK).       Protection of witnesses
+[8ZK](#8ZK).      Protection of witnesses
 
 [8ZL](#8ZL).       Averment
 
-[8ZM](#8ZM).      Evidence of authority to institute proceedings
+[8ZM](#8ZM).     Evidence of authority to institute proceedings
 
-[8ZN](#8ZN).       Costs
+[8ZN](#8ZN).      Costs
 
     **Division 5—Service of summons for prescribed taxation offences**
 
@@ -272,13 +274,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13CA](#13CA).    Setting aside etc  of conviction or order on application of Commissioner
 
-**Part IIIA—Co‑operation between Commonwealth and State taxation authorities** 
+**Part IIIA—Co-operation between Commonwealth and State taxation authorities** 
 
     **Division 1—Interpretation**
 
 [13D](#13D).       Interpretation
 
-    **Division 2—Trans‑border investigations**
+    **Division 2—Trans-border investigations**
 
 [13E](#13E).        State taxation officers may refer matters to Commissioner for investigation
 
@@ -306,7 +308,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14S](#14S).        Departure prohibition orders
 
-[14T](#14T).        Revocation and variation of departure prohibition orders
+[14T](#14T).       Revocation and variation of departure prohibition orders
 
 [14U](#14U).       Departure authorisation certificates
 
@@ -322,9 +324,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Enforcement**
 
-[14Z](#14Z).        Powers of authorised officers
+[14Z](#14Z).       Powers of authorised officers
 
-[14ZA](#14ZA).     Certain tax debtors to produce authority to depart etc 
+[14ZA](#14ZA).    Certain tax debtors to produce authority to depart etc 
 
 **Part IVC—Taxation objections, reviews and appeals** 
 
@@ -332,17 +334,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14ZL](#14ZL).     Part applies to taxation objections
 
-[14ZM](#14ZM).    Division 2—Interpretive
+[14ZM](#14ZM).   Division 2—Interpretive
 
-[14ZN](#14ZN).     Division 3—Taxation objections
+[14ZN](#14ZN).    Division 3—Taxation objections
 
-[14ZO](#14ZO).     Division 4—Tribunal review
+[14ZO](#14ZO).    Division 4—Tribunal review
 
 [14ZP](#14ZP).     Division 5—Federal Court appeals
 
     **Division 2—Interpretive provisions**
 
-[14ZQ](#14ZQ).     General interpretation provisions
+[14ZQ](#14ZQ).    General interpretation provisions
 
 [14ZR](#14ZR).     Taxation decisions covered by single notice to be treated as single decision
 
@@ -350,7 +352,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Taxation objections**
 
-[14ZU](#14ZU).     How taxation objections are to be made
+[14ZU](#14ZU).    How taxation objections are to be made
 
 [14ZV](#14ZV).     Limited objection rights in the case of certain amended taxation decisions
 
@@ -358,7 +360,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14ZW](#14ZW).    When taxation objections are to be made
 
-[14ZX](#14ZX).     Commissioner to consider applications for extension of time
+[14ZX](#14ZX).    Commissioner to consider applications for extension of time
 
 [14ZY](#14ZY).     Commissioner to decide taxation objections
 
@@ -372,25 +374,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14ZZA](#14ZZA).  Modified AAT Act to apply
 
-[14ZZB](#14ZZB).   Sections 27, 28, 41 and 44A of the AAT Act not to apply to certain decisions
+[14ZZB](#14ZZB).  Sections 27, 28, 41 and 44A of the AAT Act not to apply to certain decisions
 
-[14ZZC](#14ZZC).   Modification of section 29 of the AAT Act
+[14ZZC](#14ZZC).  Modification of section 29 of the AAT Act
 
 [14ZZD](#14ZZD).  Modification of section 30 of the AAT Act
 
-[14ZZE](#14ZZE).   Hearings before Tribunal other than Small Taxation Claims Tribunal to be held in private if applicant so requests
+[14ZZE](#14ZZE).  Hearings before Tribunal other than Small Taxation Claims Tribunal to be held in private if applicant so requests
 
-[14ZZF](#14ZZF).   Modification of section 37 of the AAT Act
+[14ZZF](#14ZZF).  Modification of section 37 of the AAT Act
 
 [14ZZG](#14ZZG).  Modification of section 38 of the AAT Act
 
-[14ZZJ](#14ZZJ).    Modification of section 43 of the AAT Act
+[14ZZJ](#14ZZJ).   Modification of section 43 of the AAT Act
 
-[14ZZK](#14ZZK).   Grounds of objection and burden of proof
+[14ZZK](#14ZZK).  Grounds of objection and burden of proof
 
-[14ZZL](#14ZZL).   Implementation of Tribunal decisions
+[14ZZL](#14ZZL).  Implementation of Tribunal decisions
 
-[14ZZM](#14ZZM).  Pending review not to affect implementation of taxation decisions
+[14ZZM](#14ZZM). Pending review not to affect implementation of taxation decisions
 
     **Division 5—Federal Court appeals against objection decisions**
 
@@ -398,11 +400,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14ZZO](#14ZZO).  Grounds of objection and burden of proof
 
-[14ZZP](#14ZZP).   Order of Federal Court on objection decision
+[14ZZP](#14ZZP).  Order of Federal Court on objection decision
 
 [14ZZQ](#14ZZQ).  Implementation of Federal Court order in respect of objection decision
 
-[14ZZR](#14ZZR).   Pending appeal not to affect implementation of taxation decisions
+[14ZZR](#14ZZR).  Pending appeal not to affect implementation of taxation decisions
 
 [14ZZS](#14ZZS).   Transfer of certain proceedings to Family Court
 
@@ -428,7 +430,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Taxation Administration Act 1953_.
 
@@ -442,7 +444,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means any Deputy Commissioner of Taxation.
 
-                    <a name="director-gener-secur"></a>**_Director‑General of Security_** means the Director‑General of Security holding office under the _Australian Security Intelligence Organisation Act 1979_.
+                    <a name="director-gener-secur"></a>**_Director-General of Security_** means the Director-General of Security holding office under the _Australian Security Intelligence Organisation Act 1979_.
 
                     <a name="engag-conduct"></a>**_engage in conduct_** means:
 
@@ -452,7 +454,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="excis-law"></a>**_excise law_** has the meaning given by the _Income Tax Assessment Act 1997_.
 
-                    <a name="exempt-australian-govern-agenc"></a>**_exempt Australian government agency_** has the meaning given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
+                    <a name="exempt-australian-govern-agenc"></a>**_exempt Australian government agency_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
                     <a name="failur-notifi-penalti"></a>**_failure to notify penalty_** means the penalty worked out under Division 2 of Part IIA.
 
@@ -478,11 +480,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="offic"></a>**_officer_** means a person appointed or engaged under the _Public Service Act 1999_.
 
-                    <a name="privat-ancillari-fund"></a>**_private ancillary fund_** has the meaning given by section 426‑105 in Schedule 1.
+                    <a name="privat-ancillari-fund"></a>**_private ancillary fund_** has the meaning given by section 426-105 in Schedule 1.
 
                     <a name="privat-indirect-tax-rule"></a>**_private indirect tax ruling_** means a private ruling, to the extent that it relates to an indirect tax law (other than the fuel tax law).
 
-                    <a name="privat-rule"></a>**_private ruling_** has the meaning given by section 359‑5 in Schedule 1.
+                    <a name="privat-rule"></a>**_private ruling_** has the meaning given by section 359-5 in Schedule 1.
 
                     <a name="regist-tax-agent-ba-agent"></a>**_registered tax agent or BAS agent_** has the same meaning as in the _Tax Agent Services Act 2009_.
 
@@ -496,7 +498,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="tribun"></a>**_Tribunal_** means the Administrative Appeals Tribunal or, in appropriate circumstances, the Small Taxation Claims Tribunal.
 
-             (2)  Despite the definition of **_taxation law_** in subsection (1), an Excise Act (as defined in subsection 4(1) of the _Excise Act 1901_) is not a taxation law for the purposes of Part III of, and Subdivision 284‑B in Schedule 1 to, this Act.
+             (2)  Despite the definition of **_taxation law_** in subsection (1), an Excise Act (as defined in subsection 4(1) of the _Excise Act 1901_) is not a taxation law for the purposes of Part III of, and Subdivision 284-B in Schedule 1 to, this Act.
 
 ##### <a id="2A"></a>2A  Application of the _Criminal Code_
 
@@ -536,7 +538,7 @@ Note:          An effect of this provision is that people who 
 
                      (b)  set out:
 
-                              (i)  the number of occasions (if any) during the year on which a request was made to disclose information under subsection 355‑55(1) in Schedule 1 (about disclosures to Ministers); and
+                              (i)  the number of occasions (if any) during the year on which a request was made to disclose information under subsection 355-55(1) in Schedule 1 (about disclosures to Ministers); and
 
                              (ii)  the number of occasions (if any) during the year on which information was disclosed under that subsection; and
 
@@ -544,15 +546,15 @@ Note:          An effect of this provision is that people who 
 
                      (c)  set out:
 
-                              (i)  the number of occasions (if any) during the year on which a request was made to disclose information under subsection 355‑70(1) in Schedule 1 (about disclosures for law enforcement and related purposes); and
+                              (i)  the number of occasions (if any) during the year on which a request was made to disclose information under subsection 355-70(1) in Schedule 1 (about disclosures for law enforcement and related purposes); and
 
                              (ii)  the number of occasions (if any) during the year on which information was disclosed under that subsection; and
 
                             (iii)  the types of entities and the names of the courts and tribunals to which the information was disclosed; and
 
-                            (iv)  if the information was disclosed under table item 1 or 6 in subsection 355‑70(1)—the general categories of offences in relation to which the information was disclosed; and
+                            (iv)  if the information was disclosed under table item 1 or 6 in subsection 355-70(1)—the general categories of offences in relation to which the information was disclosed; and
 
-                     (d)  set out the number (if any) of * taxation officers found guilty of the offence in section 355‑25 in Schedule 1 (about disclosure of protected information).
+                     (d)  set out the number (if any) of * taxation officers found guilty of the offence in section 355-25 in Schedule 1 (about disclosure of protected information).
 
           (1B)  Subsection (1) does not apply in relation to Part III and sections 15 and 15A insofar as that Part and those sections apply in relation to the _Development Allowance Authority Act 1992_.
 
@@ -570,7 +572,7 @@ Note:          An effect of this provision is that people who 
 
 ##### <a id="4"></a>4  Commissioner and Second Commissioners of Taxation
 
-                   There shall be a Commissioner of Taxation and 3 Second Commissioners of Taxation, who shall be appointed by the Governor‑General.
+                   There shall be a Commissioner of Taxation and 3 Second Commissioners of Taxation, who shall be appointed by the Governor-General.
 
 ##### <a id="4A"></a>4A  Statutory Agency etc. for purposes of Public Service Act
 
@@ -584,7 +586,7 @@ Note:          An effect of this provision is that people who 
 
 ##### <a id="5"></a>5  Tenure of Commissioner and Second Commissioners
 
-             (1)  The Commissioner of Taxation and each Second Commissioner of Taxation shall be appointed for terms of 7 years respectively and shall be eligible for re‑appointment.
+             (1)  The Commissioner of Taxation and each Second Commissioner of Taxation shall be appointed for terms of 7 years respectively and shall be eligible for re-appointment.
 
              (3)  The Commissioner of Taxation and the Second Commissioners of Taxation are not subject to the _Public Service Act 1999_.
 
@@ -604,7 +606,7 @@ Note:          An effect of this provision is that people who 
 
 ##### <a id="6A"></a>6A  Resignation
 
-                   The Commissioner or a Second Commissioner may resign his or her office by writing signed by the Commissioner or Second Commissioner, as the case may be, and delivered to the Governor‑General.
+                   The Commissioner or a Second Commissioner may resign his or her office by writing signed by the Commissioner or Second Commissioner, as the case may be, and delivered to the Governor-General.
 
 ##### <a id="6B"></a>6B  Acting appointments
 
@@ -644,13 +646,13 @@ Note:          An effect of this provision is that people who 
 
 ##### <a id="6C"></a>6C  Suspension and removal from office of Commissioner or Second Commissioner
 
-             (1)  The Governor‑General may remove the Commissioner or a Second Commissioner from office on an address praying for the removal of the Commissioner or the Second Commissioner, as the case may be, on the ground of proved misbehaviour or physical or mental incapacity being presented to the Governor‑General by each House of the Parliament in the same session of the Parliament.
+             (1)  The Governor-General may remove the Commissioner or a Second Commissioner from office on an address praying for the removal of the Commissioner or the Second Commissioner, as the case may be, on the ground of proved misbehaviour or physical or mental incapacity being presented to the Governor-General by each House of the Parliament in the same session of the Parliament.
 
-             (2)  The Governor‑General may suspend the Commissioner or a Second Commissioner from office on the ground of misbehaviour or physical or mental incapacity.
+             (2)  The Governor-General may suspend the Commissioner or a Second Commissioner from office on the ground of misbehaviour or physical or mental incapacity.
 
-             (3)  Where the Governor‑General suspends the Commissioner or a Second Commissioner, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
+             (3)  Where the Governor-General suspends the Commissioner or a Second Commissioner, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
 
-             (4)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement was laid before that House, an address under subsection (1) has not been presented to the Governor‑General by each House of the Parliament, the suspension terminates.
+             (4)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement was laid before that House, an address under subsection (1) has not been presented to the Governor-General by each House of the Parliament, the suspension terminates.
 
              (5)  The suspension of the Commissioner or a Second Commissioner from office under this section does not affect any entitlement of the Commissioner or Second Commissioner, as the case may be, to be paid remuneration and allowances.
 
@@ -662,9 +664,9 @@ Note:          An effect of this provision is that people who 
 
                      (c)  the Commissioner or a Second Commissioner is absent from duty, except on leave of absence, for 14 consecutive days or 28 days in any 12 months;
 
-the Governor‑General shall remove the Commissioner or Second Commissioner, as the case may be, from office.
+the Governor-General shall remove the Commissioner or Second Commissioner, as the case may be, from office.
 
-             (7)  The Governor‑General may, with the consent of the Commissioner or a Second Commissioner, retire the Commissioner or Second Commissioner, as the case may be, from office on the ground of physical or mental incapacity.
+             (7)  The Governor-General may, with the consent of the Commissioner or a Second Commissioner, retire the Commissioner or Second Commissioner, as the case may be, from office on the ground of physical or mental incapacity.
 
              (8)  The Commissioner or a Second Commissioner shall not be suspended, removed or retired from office except as provided by this section.
 
@@ -771,7 +773,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>102UP</div>
   </td>
   <td>
-    <div>payment of trustee beneficiary non‑disclosure tax</div>
+    <div>payment of trustee beneficiary non-disclosure tax</div>
   </td>
 </tr>
 <tr>
@@ -823,7 +825,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>31</div>
   </td>
   <td>
-    <div>271‑80 of Schedule 2F</div>
+    <div>271-80 of Schedule 2F</div>
   </td>
   <td>
     <div>payment of family trust distribution tax</div>
@@ -870,7 +872,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>1AA</div>
   </td>
   <td>
-    <div>162‑100</div>
+    <div>162-100</div>
   </td>
   <td>
     <div>
@@ -883,7 +885,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>1AB</div>
   </td>
   <td>
-    <div>168‑10</div>
+    <div>168-10</div>
   </td>
   <td>
     <div>
@@ -896,7 +898,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>1AD</div>
   </td>
   <td>
-    <div>25‑10</div>
+    <div>25-10</div>
   </td>
   <td>
     <div>
@@ -948,7 +950,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>2AAA</div>
   </td>
   <td>
-    <div>5‑15</div>
+    <div>5-15</div>
   </td>
   <td>
     <div>
@@ -961,7 +963,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>2AA</div>
   </td>
   <td>
-    <div>197‑75</div>
+    <div>197-75</div>
   </td>
   <td>
     <div>
@@ -974,7 +976,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>2A</div>
   </td>
   <td>
-    <div>214‑155</div>
+    <div>214-155</div>
   </td>
   <td>
     <div>
@@ -987,7 +989,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>2B</div>
   </td>
   <td>
-    <div>292‑390</div>
+    <div>292-390</div>
   </td>
   <td>
     <div>
@@ -1000,7 +1002,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>2C</div>
   </td>
   <td>
-    <div>345‑115</div>
+    <div>345-115</div>
   </td>
   <td>
     <div>
@@ -1013,7 +1015,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>2D</div>
   </td>
   <td>
-    <div>840‑810</div>
+    <div>840-810</div>
   </td>
   <td>
     <div>
@@ -1136,7 +1138,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
   </td>
   <td>
     <div>
-      <i>Superannuation (Government Co‑contribution for Low Income Earners) Act
+      <i>Superannuation (Government Co-contribution for Low Income Earners) Act
         2003</i>
     </div>
   </td>
@@ -1302,7 +1304,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17B</div>
   </td>
   <td>
-    <div>16‑80 in Schedule 1</div>
+    <div>16-80 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1315,7 +1317,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17E</div>
   </td>
   <td>
-    <div>45‑80 in Schedule 1</div>
+    <div>45-80 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1328,7 +1330,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17F</div>
   </td>
   <td>
-    <div>45‑230 in Schedule 1</div>
+    <div>45-230 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1341,7 +1343,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17GA</div>
   </td>
   <td>
-    <div>45‑232 in Schedule 1</div>
+    <div>45-232 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1354,7 +1356,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17G</div>
   </td>
   <td>
-    <div>45‑235 in Schedule 1</div>
+    <div>45-235 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1367,7 +1369,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17H</div>
   </td>
   <td>
-    <div>45‑600 and 45‑620 in Schedule 1</div>
+    <div>45-600 and 45-620 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1380,7 +1382,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17J</div>
   </td>
   <td>
-    <div>45‑870 and 45‑875 in Schedule 1</div>
+    <div>45-870 and 45-875 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1393,7 +1395,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17K</div>
   </td>
   <td>
-    <div>105‑80 in Schedule 1</div>
+    <div>105-80 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1406,7 +1408,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17L</div>
   </td>
   <td>
-    <div>263‑30 in Schedule 1</div>
+    <div>263-30 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1419,7 +1421,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>17M</div>
   </td>
   <td>
-    <div>268‑75 in Schedule 1</div>
+    <div>268-75 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1432,7 +1434,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>18</div>
   </td>
   <td>
-    <div>298‑25 in Schedule 1</div>
+    <div>298-25 in Schedule 1</div>
   </td>
   <td>
     <div>
@@ -1502,7 +1504,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
 
              (1)  The **_general interest charge rate_** for a day is the rate worked out by adding 7 percentage points to the base interest rate for that day, and dividing that total by the number of days in the calendar year.
 
-             (2)  The **_base interest rate_** for a day depends on which quarter of the year the day is in. For each day in a quarter in the second column of the table, it is the monthly average yield of 90‑day Bank Accepted Bills published by the Reserve Bank of Australia for the month in the third column of the table.
+             (2)  The **_base interest rate_** for a day depends on which quarter of the year the day is in. For each day in a quarter in the second column of the table, it is the monthly average yield of 90-day Bank Accepted Bills published by the Reserve Bank of Australia for the month in the third column of the table.
 
 <table>
 <colgroup>
@@ -1532,7 +1534,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     </td>
     <td>
       <div>
-        <b>the monthly average yield of 90‑day Bank Accepted Bills for this month
+        <b>the monthly average yield of 90-day Bank Accepted Bills for this month
           applies...</b>
       </div>
     </td>
@@ -1583,7 +1585,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
   </td>
 </tr></table>
 
-             (3)  If the monthly average yield of 90‑day Bank Accepted Bills for a particular month in the third column of the table in subsection (2) is not published by the Reserve Bank of Australia before the beginning of the relevant quarter, assume that it is the same as the last monthly average yield of 90‑day Bank Accepted Bills published by the Reserve Bank of Australia before that month.
+             (3)  If the monthly average yield of 90-day Bank Accepted Bills for a particular month in the third column of the table in subsection (2) is not published by the Reserve Bank of Australia before the beginning of the relevant quarter, assume that it is the same as the last monthly average yield of 90-day Bank Accepted Bills published by the Reserve Bank of Australia before that month.
 
              (4)  The base interest rate must be rounded to the second decimal place (rounding .005 upwards).
 
@@ -1591,7 +1593,7 @@ A person is only liable to pay the charge if a provision of an Act makes the per
 
                    The general interest charge for a day is due and payable to the Commissioner at the end of that day.
 
-Note:          For provisions about collection and recovery of the charge, see Part 4‑15 in Schedule 1.
+Note:          For provisions about collection and recovery of the charge, see Part 4-15 in Schedule 1.
 
 ##### <a id="8AAF"></a>8AAF  Notification by Commissioner
 
@@ -1649,7 +1651,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00396/Html/b55d066d-d78e-40ca-b90a-023063aa3363_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00855/Html/TaxAdmin53Vol1_WD02_image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -1659,7 +1661,7 @@ Note:          For provisions about collection and recovery of
 
                    In this Part, unless the contrary intention appears:
 
-                    <a name="compani"></a>**_company_** includes any body or association (whether or not it is incorporated), but does not include a partnership or a non‑entity joint venture.
+                    <a name="compani"></a>**_company_** includes any body or association (whether or not it is incorporated), but does not include a partnership or a non-entity joint venture.
 
                     <a name="compulsori-repay-amount"></a>**_compulsory repayment amount_** has the same meaning as in the _Higher Education Support Act 2003_.
 
@@ -1667,7 +1669,7 @@ Note:          For provisions about collection and recovery of
 
                      (a)  an amount that the Commissioner must pay to a taxpayer under a taxation law (other than the _Product Grants and Benefits Administration Act 2000_, the _Tax Bonus for Working Australians Act (No. 2) 2009_ or Division 18 (refunds) of the _A New Tax System (Luxury Car Tax) Act 1999_), whether or not described as a credit; and
 
-                     (b)  an amount received by the Commissioner in respect of a taxpayer as a result of the Commissioner having made a claim that is similar in nature to a foreign revenue claim (as defined in section 263‑10 in Schedule 1).
+                     (b)  an amount received by the Commissioner in respect of a taxpayer as a result of the Commissioner having made a claim that is similar in nature to a foreign revenue claim (as defined in section 263-10 in Schedule 1).
 
                     <a name="entiti"></a>**_entity_** means any of the following:
 
@@ -1683,7 +1685,7 @@ Note:          For provisions about collection and recovery of
 
                       (f)  any other person.
 
-                    <a name="excess-non-rba-crite"></a>**_excess non‑RBA credit_** means a credit that arises under section 8AAZLA or 8AAZLB.
+                    <a name="excess-non-rba-crite"></a>**_excess non-RBA credit_** means a credit that arises under section 8AAZLA or 8AAZLB.
 
                     <a name="f-assess-debt"></a>**_FS assessment debt_** means an FS assessment debt under:
 
@@ -1691,9 +1693,9 @@ Note:          For provisions about collection and recovery of
 
                      (b)  the _Student Assistance Act 1973_ as in force at a time on or after 1 July 1998.
 
-                    <a name="non-entiti-joint-ventur"></a>**_non‑entity joint venture_** has the meaning given by subsection 995‑1(1) of the _Income Tax Assessment Act 1997_.
+                    <a name="non-entiti-joint-ventur"></a>**_non-entity joint venture_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-                    <a name="non-rba-tax-debt"></a>**_non‑RBA tax debt_** means a tax debt other than an RBA deficit debt.
+                    <a name="non-rba-tax-debt"></a>**_non-RBA tax debt_** means a tax debt other than an RBA deficit debt.
 
                     <a name="primari-tax-debt"></a>**_primary tax debt_** means any amount due to the Commonwealth directly under a taxation law (other than, except in Division 4, the _Product Grants and Benefits Administration Act 2000_), including any such amount that is not yet payable.
 
@@ -1793,7 +1795,7 @@ Definition
 
              (1)  If there is an RBA deficit debt on an RBA at the end of a day, the tax debtor is liable to pay to the Commonwealth the amount of the debt. The amount is due and payable at the end of that day.
 
-Note:          For provisions about collection and recovery of the amount, see Part 4‑15 in Schedule 1.
+Note:          For provisions about collection and recovery of the amount, see Part 4-15 in Schedule 1.
 
              (2)  If there are several tax debtors, their liability for the debt is of the same kind as their liability for the tax debts that were allocated to the RBA.
 
@@ -1835,25 +1837,25 @@ Example:    If the tax debtors are jointly and severally liable for the ta
 
                      (a)  a payment the Commissioner receives in respect of a current or anticipated tax debt or tax debts of an entity;
 
-                     (b)  a credit (including an excess non‑RBA credit) that an entity is entitled to under a taxation law;
+                     (b)  a credit (including an excess non-RBA credit) that an entity is entitled to under a taxation law;
 
                      (c)  an RBA surplus of an entity.
 
              (2)  The Commissioner must treat each such amount using the method set out in section 8AAZLA or 8AAZLB (but not both).
 
-Note:          In either case, section 8AAZLC has some additional rules that apply to RBA surpluses and to certain excess non‑RBA credits.
+Note:          In either case, section 8AAZLC has some additional rules that apply to RBA surpluses and to certain excess non-RBA credits.
 
              (3)  However, the Commissioner does not have to treat an amount using either of those methods if doing so would require the Commissioner to apply the amount against a tax debt:
 
                      (a)  that is:
 
-                              (i)  not a BAS amount (as defined in subsection 995‑1(1) of the _Income Tax Assessment Act 1997_); and
+                              (i)  not a BAS amount (as defined in subsection 995-1(1) of the _Income Tax Assessment Act 1997_); and
 
                              (ii)  due but not yet payable; or
 
-                     (b)  in respect of which the taxpayer has complied with an arrangement under section 255‑15 to pay the debt by instalments; or
+                     (b)  in respect of which the taxpayer has complied with an arrangement under section 255-15 to pay the debt by instalments; or
 
-                     (c)  in respect of which the Commissioner has agreed to defer recovery under section 255‑5.
+                     (c)  in respect of which the Commissioner has agreed to defer recovery under section 255-5.
 
 ##### <a id="8AAZLA"></a>8AAZLA  Method 1—allocating the amount first to an RBA
 
@@ -1865,17 +1867,17 @@ Note:          In either case, section 8AAZLC has some addit
 
                      (b)  general interest charge on such tax debts.
 
-             (3)  To the extent that the amount is not applied under subsection (2), it gives rise to an **_excess non‑RBA credit_** in favour of the entity that:
+             (3)  To the extent that the amount is not applied under subsection (2), it gives rise to an **_excess non-RBA credit_** in favour of the entity that:
 
                      (a)  is equal to the part of the amount that is not applied; and
 
                      (b)  relates to the RBA to which the amount was allocated.
 
-##### <a id="8AAZLB"></a>8AAZLB  Method 2—applying the amount first against a non‑RBA tax debt
+##### <a id="8AAZLB"></a>8AAZLB  Method 2—applying the amount first against a non-RBA tax debt
 
-             (1)  The Commissioner may, in the manner he or she determines, apply the amount against a non‑RBA tax debt of the entity or, if the entity is a member of an RBA group, against a non‑RBA tax debt of another member of the group.
+             (1)  The Commissioner may, in the manner he or she determines, apply the amount against a non-RBA tax debt of the entity or, if the entity is a member of an RBA group, against a non-RBA tax debt of another member of the group.
 
-             (2)  If the non‑RBA tax debt is:
+             (2)  If the non-RBA tax debt is:
 
                      (a)  a tax debt that has been allocated to an RBA; or
 
@@ -1883,13 +1885,13 @@ Note:          In either case, section 8AAZLC has some addit
 
 the Commissioner must then also allocate the amount to that RBA.
 
-             (3)  To the extent that the amount is not applied under subsection (1), it gives rise to an **_excess non‑RBA credit_** in favour of the entity that is equal to the part of the amount that is not applied.
+             (3)  To the extent that the amount is not applied under subsection (1), it gives rise to an **_excess non-RBA credit_** in favour of the entity that is equal to the part of the amount that is not applied.
 
-             (4)  The excess non‑RBA credit relates to the RBA (if any) that the Commissioner determines and the balance of that RBA is adjusted in the entity’s favour by the amount of that credit.
+             (4)  The excess non-RBA credit relates to the RBA (if any) that the Commissioner determines and the balance of that RBA is adjusted in the entity’s favour by the amount of that credit.
 
 Separate RBAs for one entity
 
-             (5)  If the non‑RBA tax debt mentioned in subsection (1) has been allocated to 2 or more RBAs, the Commissioner must allocate the amount applied between those RBAs in the proportions in which the tax debt was allocated.
+             (5)  If the non-RBA tax debt mentioned in subsection (1) has been allocated to 2 or more RBAs, the Commissioner must allocate the amount applied between those RBAs in the proportions in which the tax debt was allocated.
 
 Note:          Separate RBAs may be established for different businesses or undertakings conducted by the same entity, for different parts of the same business or undertaking or for different periods: see subsection 8AAZC(5).
 
@@ -1897,15 +1899,15 @@ Note:          Separate RBAs may be established for different 
 
 RBA surpluses
 
-             (1)  If an RBA surplus is allocated or applied under this Division, the Commissioner must reduce by the same amount excess non‑RBA credits that relate to the RBA.
+             (1)  If an RBA surplus is allocated or applied under this Division, the Commissioner must reduce by the same amount excess non-RBA credits that relate to the RBA.
 
-Excess non‑RBA credits
+Excess non-RBA credits
 
-             (2)  If, under this Division, an excess non‑RBA credit that relates to an RBA (the **_related RBA_**) is:
+             (2)  If, under this Division, an excess non-RBA credit that relates to an RBA (the **_related RBA_**) is:
 
                      (a)  allocated to an RBA; or
 
-                     (b)  applied against a non‑RBA tax debt;
+                     (b)  applied against a non-RBA tax debt;
 
 the related RBA is adjusted in the Commissioner’s favour by the same amount.
 
@@ -1917,7 +1919,7 @@ the related RBA is adjusted in the Commissioner’s favour by the same amount.
 
                      (b)  then against any FS assessment debt of the entity;
 
-before applying it against other non‑RBA tax debts of the entity.
+before applying it against other non-RBA tax debts of the entity.
 
 ##### <a id="8AAZLE"></a>8AAZLE  Instructions to Commissioner not binding
 
@@ -1931,23 +1933,23 @@ before applying it against other non‑RBA tax debts of the entity.
 
                      (a)  an RBA surplus of the entity; or
 
-                     (b)  a credit (including an excess non‑RBA credit) in the entity’s favour;
+                     (b)  a credit (including an excess non-RBA credit) in the entity’s favour;
 
 as the Commissioner does not allocate or apply under Division 3.
 
 Voluntary payments only to be refunded on request
 
-             (2)  However, the Commissioner is not required to refund an RBA surplus or excess non‑RBA credit that arises because a payment is made in respect of an anticipated tax debt of an entity unless the entity later requests, in the approved manner, that the Commissioner do so.
+             (2)  However, the Commissioner is not required to refund an RBA surplus or excess non-RBA credit that arises because a payment is made in respect of an anticipated tax debt of an entity unless the entity later requests, in the approved manner, that the Commissioner do so.
 
              (3)  On receiving such a request, the Commissioner must refund so much of the amount as the Commissioner does not allocate or apply under Division 3.
 
 Effect of refunding RBA surplus
 
-             (4)  If the Commissioner refunds an RBA surplus under this section, the Commissioner must reduce by the same amount excess non‑RBA credits that relate to the RBA.
+             (4)  If the Commissioner refunds an RBA surplus under this section, the Commissioner must reduce by the same amount excess non-RBA credits that relate to the RBA.
 
 Effect of refunding credit that relates to an RBA
 
-             (5)  If, under this section, the Commissioner refunds an excess non‑RBA credit that relates to an RBA, the RBA is adjusted in the Commissioner’s favour by the same amount.
+             (5)  If, under this section, the Commissioner refunds an excess non-RBA credit that relates to an RBA, the RBA is adjusted in the Commissioner’s favour by the same amount.
 
 ##### <a id="8AAZLG"></a>8AAZLG  Retaining refunds until information or notification given
 
@@ -1955,15 +1957,15 @@ Effect of refunding credit that relates to an RBA
 
                      (a)  that affects or may affect the amount that the Commissioner refunds to the entity; and
 
-                     (b)  that the entity is required to give the Commissioner under any of the BAS provisions (as defined in subsection 995‑1(1) of the _Income Tax Assessment Act 1997_).
+                     (b)  that the entity is required to give the Commissioner under any of the BAS provisions (as defined in subsection 995-1(1) of the _Income Tax Assessment Act 1997_).
 
              (2)  The Commissioner may retain the amount until the entity has given the Commissioner that notification or the Commissioner makes an assessment of the amount, whichever happens first.
 
 Note:          Interest is payable under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_ if the Commissioner is late in making the payment under subsection (2).
 
-##### <a id="8AAZLH"></a>8AAZLH  How refunds are made
+##### <a id="8AAZLH"></a>8AAZLH  How refunds are made
 
-             (1)  This section applies to refunds payable to an entity of RBA surpluses, or excess non‑RBA credits that relate to an RBA, if primary tax debts arising under any of the BAS provisions (as defined in subsection 995‑1(1) of the _Income Tax Assessment Act 1997_) have been allocated to that RBA.
+             (1)  This section applies to refunds payable to an entity of RBA surpluses, or excess non-RBA credits that relate to an RBA, if primary tax debts arising under any of the BAS provisions (as defined in subsection 995-1(1) of the _Income Tax Assessment Act 1997_) have been allocated to that RBA.
 
              (2)  The Commissioner must pay those refunds to the credit of a financial institution account nominated in the approved form by the entity. The account nominated must be maintained at a branch or office of the institution that is in Australia.
 
@@ -1993,9 +1995,9 @@ Note:          Interest is payable under the _Taxation (Intere
 
 ##### <a id="8AAZMA"></a>8AAZMA  Electronic payment of tax debts
 
-             (1)  An entity that, under subsection 33‑10(2) of the _A New Tax System (Goods and Services Tax) Act 1999_, is required to pay a net amount for a tax period electronically must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that period.
+             (1)  An entity that, under subsection 33-10(2) of the _A New Tax System (Goods and Services Tax) Act 1999_, is required to pay a net amount for a tax period electronically must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that period.
 
-             (2)  A large withholder that, under subsection 16‑85(1) in Schedule 1, is required to pay an amount electronically in a particular month must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that month.
+             (2)  A large withholder that, under subsection 16-85(1) in Schedule 1, is required to pay an amount electronically in a particular month must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that month.
 
 ##### <a id="8AAZMB"></a>8AAZMB  Saturdays, Sundays and public holidays
 
@@ -2163,7 +2165,7 @@ Note:          Subsection 2(2) specifies laws that are not tax
 
                      (h)  to comply with a requirement under subsection 45A(2) of the _Product Grants and Benefits Administration Act 2000_; or
 
-                      (i)  to comply with subsection 82‑10F(4) of the _Income Tax (Transitional Provisions) Act 1997_;
+                      (i)  to comply with subsection 82-10F(4) of the _Income Tax (Transitional Provisions) Act 1997_;
 
 is guilty of an offence.
 
@@ -2207,7 +2209,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  the court before which the person is convicted is satisfied that the person has previously been convicted of a relevant offence;
 
-the penalty that the court may impose in respect of the first‑mentioned offence is a fine not exceeding 40 penalty units.
+the penalty that the court may impose in respect of the first-mentioned offence is a fine not exceeding 40 penalty units.
 
              (3)  Where:
 
@@ -2217,7 +2219,7 @@ the penalty that the court may impose in respect of the first‑mentioned offenc
 
                      (c)  the court before which the person is convicted is satisfied that the person has previously been convicted of 2 or more relevant offences;
 
-the penalty that the court may impose in respect of the first‑mentioned offence is a fine not exceeding 50 penalty units or imprisonment for a period not exceeding 12 months, or both.
+the penalty that the court may impose in respect of the first-mentioned offence is a fine not exceeding 50 penalty units or imprisonment for a period not exceeding 12 months, or both.
 
 ##### <a id="8F"></a>8F  Election to treat offence otherwise than as prescribed taxation offence
 
@@ -2237,7 +2239,7 @@ in relation to the refusal or failure of the person to comply (whether in whole 
 
                      (c)  the requirement; and
 
-                     (d)  such other requirements made, or that could be made, in relation to the person under or pursuant to the taxation law as the court considers necessary to ensure the effectiveness of the first‑mentioned requirement;
+                     (d)  such other requirements made, or that could be made, in relation to the person under or pursuant to the taxation law as the court considers necessary to ensure the effectiveness of the first-mentioned requirement;
 
 within a specified time or at a specified place and time.
 
@@ -2283,7 +2285,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
                      (b)  such other documents (if any) as are prescribed.
 
-                    <a name="account"></a>**_accounts_** means ledgers, journals, profit and loss accounts and balance‑sheets, and includes statements, reports and notes attached to, or intended to be read with, any of the foregoing.
+                    <a name="account"></a>**_accounts_** means ledgers, journals, profit and loss accounts and balance-sheets, and includes statements, reports and notes attached to, or intended to be read with, any of the foregoing.
 
                     <a name="data-process-devic"></a>**_data processing device_** means any article or material from which information is capable of being reproduced with or without the aid of any other article or device.
 
@@ -2305,21 +2307,21 @@ but does not include a statement made in a document produced pursuant to:
 
                     (ga)  paragraph 93ZC(1)(b) or (c) of the _Development Allowance Authority Act 1992_;
 
-                   (ha)  paragraph 128(1)(c) of the _Fringe Benefits Tax Assessment Act 1986_; or
+                    (ha)  paragraph 128(1)(c) of the _Fringe Benefits Tax Assessment Act 1986_; or
 
                      (k)  paragraph 264(1)(b) or 264A(1)(d) or (e) of the _Income Tax Assessment Act 1936_(including that paragraph as applied by subsection 4(1) of the _Trust Recoupment Tax Assessment Act 1985_); or
 
                   (kaa)  subparagraph 451(2)(c)(ii) or paragraph 453(1)(e) of the _Income Tax Assessment Act 1936_;
 
-                  (ma)  paragraph 108(1)(c) of the _Petroleum Resource Rent Tax Assessment Act 1987_; or
+                   (ma)  paragraph 108(1)(c) of the _Petroleum Resource Rent Tax Assessment Act 1987_; or
 
-                  (mb)  paragraph 42(2)(b) or (c) of the _Product Grants and Benefits Administration Act 2000_; or
+                   (mb)  paragraph 42(2)(b) or (c) of the _Product Grants and Benefits Administration Act 2000_; or
 
-                   (nb)  paragraph 76(1)(c) of the _Superannuation Guarantee (Administration) Act 1992_; or
+                    (nb)  paragraph 76(1)(c) of the _Superannuation Guarantee (Administration) Act 1992_; or
 
                      (p)  paragraph 13G(1)(c) of this Act; or
 
-                   (pa)  paragraph 353‑10(1)(c) in Schedule 1 to this Act.
+                    (pa)  paragraph 353-10(1)(c) in Schedule 1 to this Act.
 
           (2A)  If a document is given on a data processing device, or by way of electronic transmission, by a registered tax agent or BAS agent on behalf of a taxpayer, then, for the purposes of this Subdivision, each statement in the document is taken to have been made by the taxpayer unless the taxpayer can show that the taxpayer did not authorise the statement.
 
@@ -2525,7 +2527,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  the court before which the person is convicted is satisfied that the person has previously been convicted of a relevant offence;
 
-the penalty that the court may impose in respect of the first‑mentioned offence is a fine not exceeding 40 penalty units.
+the penalty that the court may impose in respect of the first-mentioned offence is a fine not exceeding 40 penalty units.
 
 ##### <a id="8N"></a>8N  Recklessly making false or misleading statements
 
@@ -2553,7 +2555,7 @@ the penalty that the court may impose in respect of the first‑mentioned offenc
 
                      (b)  the person keeps the accounts or records; and
 
-                   (ba)  the accounts or records do not correctly record and explain the matters, transactions, acts or operations to which they relate; and
+                    (ba)  the accounts or records do not correctly record and explain the matters, transactions, acts or operations to which they relate; and
 
                      (c)  the person is reckless as to whether the accounts or records correctly record and explain the matters, transactions, acts or operations to which they relate.
 
@@ -2563,7 +2565,7 @@ the penalty that the court may impose in respect of the first‑mentioned offenc
 
                      (b)  the person makes the record; and
 
-                   (ba)  the record does not correctly record the matter, transaction, act or operation; and
+                    (ba)  the record does not correctly record the matter, transaction, act or operation; and
 
                      (c)  the person is reckless as to whether the record correctly records the matter, transaction, act or operation.
 
@@ -2583,7 +2585,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the court before which the person is convicted is satisfied that the person has previously been convicted of a relevant offence;
 
-the penalty that the court may impose in respect of the first‑mentioned offence is a fine not exceeding 50 penalty units or imprisonment for a period not exceeding 12 months, or both.
+the penalty that the court may impose in respect of the first-mentioned offence is a fine not exceeding 50 penalty units or imprisonment for a period not exceeding 12 months, or both.
 
 ##### <a id="8S"></a>8S  Election to treat offence otherwise than as prescribed taxation offence
 
@@ -2653,7 +2655,7 @@ with any of the following intentions, namely:
 
                      (b)  the court before which the person is convicted is satisfied that the person has previously been convicted of a relevant offence;
 
-the penalty that the court may impose in respect of the first‑mentioned offence is a fine not exceeding 100 penalty units or imprisonment for a period not exceeding 2 years, or both.
+the penalty that the court may impose in respect of the first-mentioned offence is a fine not exceeding 100 penalty units or imprisonment for a period not exceeding 2 years, or both.
 
 ##### <a id="8W"></a>8W  Court may order payment of amount in addition to penalty
 
@@ -2675,25 +2677,25 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1B)  For the purposes of paragraph (1)(b), a decision made by the Development Allowance Authority under Division 1 of Part 3 of Chapter 3 of the _Development Allowance Authority Act 1992_ is taken to form part of the process of making assessments of income tax.
 
-          (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
+          (1C)  If the conditions in section 705-315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00396/Html/b55d066d-d78e-40ca-b90a-023063aa3363_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00855/Html/TaxAdmin53Vol1_WD02_image003.gif)
 
 where:
 
                     <a name="adjusted-reset-cost-base-asset-set-amount"></a>**_adjusted reset cost base asset setting amount_** means:
 
-                     (a)  the * tax cost setting amount, worked out under Division 705 of the _Income Tax Assessment Act 1997_, for all assets of a kind referred to in section 705‑35 of that Act as reset cost base assets that the * head company of the relevant group held continuously from the time when the * subsidiary member referred to in subsection 705‑315(2) of that Act joined the group until the start of the head company’s income year in which the Commissioner became aware of the errors mentioned in section 705‑315 of that Act;
+                     (a)  the * tax cost setting amount, worked out under Division 705 of the _Income Tax Assessment Act 1997_, for all assets of a kind referred to in section 705-35 of that Act as reset cost base assets that the * head company of the relevant group held continuously from the time when the * subsidiary member referred to in subsection 705-315(2) of that Act joined the group until the start of the head company’s income year in which the Commissioner became aware of the errors mentioned in section 705-315 of that Act;
 
 less:
 
-                     (b)  the head company’s deductions under Division 40 (except under Subdivision 40‑F, 40‑G, 40‑H or 40‑I) or Subdivision 328‑D of the _Income Tax Assessment Act 1997_ for those assets for all income years before the earliest income year for which the Commissioner could amend the head company’s assessment to correct any of the errors.
+                     (b)  the head company’s deductions under Division 40 (except under Subdivision 40-F, 40-G, 40-H or 40-I) or Subdivision 328-D of the _Income Tax Assessment Act 1997_ for those assets for all income years before the earliest income year for which the Commissioner could amend the head company’s assessment to correct any of the errors.
 
                     <a name="origin-reset-cost-base-asset-set-amount"></a>**_original reset cost base asset setting amount_** means the * tax cost setting amount, worked out under Division 705 of the _Income Tax Assessment Act 1997_, for all reset cost base assets that the * subsidiary member held at the time it joined the group, other than assets that the * head company no longer held at the start of the earliest income year for which the Commissioner could amend the head company’s assessment to correct any of the errors.
 
                     <a name="tax-capit-gain"></a>**_tax on capital gain_** means the product of:
 
-                     (a)  the * capital gain that the * head company makes as a result of * CGT event L6 happening as mentioned in section 104‑525 of the _Income Tax Assessment Act 1997_; and
+                     (a)  the * capital gain that the * head company makes as a result of * CGT event L6 happening as mentioned in section 104-525 of the _Income Tax Assessment Act 1997_; and
 
                      (b)  the * corporate tax rate in respect of taxable income for the income year in which that CGT event happens.
 
@@ -2751,9 +2753,9 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
                      (a)  provision is made by or under a taxation law or legislation described in paragraph 202(e) of the _Income Tax Assessment Act 1936_ for the person to quote the number; or
 
-                     (b)  the first‑mentioned person requires or requests the number to be quoted in connection with that person exercising powers or performing functions under, or in relation to, or complying with an obligation imposed by, a taxation law or a law of the Commonwealth of the kind referred to in paragraph 202(c), (d), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (kb), (la) or (m) of the _Income Tax Assessment Act 1936_; or
+                     (b)  the first-mentioned person requires or requests the number to be quoted in connection with that person exercising powers or performing functions under, or in relation to, or complying with an obligation imposed by, a taxation law or a law of the Commonwealth of the kind referred to in paragraph 202(c), (d), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (kb), (la) or (m) of the _Income Tax Assessment Act 1936_; or
 
-                     (c)  the first‑mentioned person requires or requests the number to be quoted in connection with the first‑mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
+                     (c)  the first-mentioned person requires or requests the number to be quoted in connection with the first-mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1AA), see subsection 13.3(3) of the _Criminal Code_.
 
@@ -2785,9 +2787,9 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  to the extent required or permitted by, or reasonably necessary in order to comply with an obligation imposed by, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
 
-                     (b)  in connection with the first‑mentioned person exercising powers or performing functions under, or in relation to, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
+                     (b)  in connection with the first-mentioned person exercising powers or performing functions under, or in relation to, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
 
-                     (c)  in connection with the first‑mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
+                     (c)  in connection with the first-mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1A), see subsection 13.3(3) of the _Criminal Code_.
 
@@ -2807,13 +2809,13 @@ Note:          A defendant bears an evidential burden in relat
 
                             it would be reasonable to conclude that the person became such an investor in that manner for the sole or dominant purpose of ensuring, or attempting to ensure that:
 
-                            (iii)  although the person has not, under Part VA of the _Income Tax Assessment Act 1936_, quoted the person’s tax file number in connection with those investments (in this subparagraph called the **_non‑TFN investments_**):
+                            (iii)  although the person has not, under Part VA of the _Income Tax Assessment Act 1936_, quoted the person’s tax file number in connection with those investments (in this subparagraph called the **_non-TFN investments_**):
 
-                                        (A)  amounts would not be deducted under Division 3B of that Act, or withheld under section 12‑140 or 12‑145 in Schedule 1 to this Act, from income in respect of one or more of the non‑TFN investments; and
+                                        (A)  amounts would not be deducted under Division 3B of that Act, or withheld under section 12-140 or 12-145 in Schedule 1 to this Act, from income in respect of one or more of the non-TFN investments; and
 
-                                        (B)  amounts would not be paid to the Commissioner under section 14‑5 in Schedule 1 to this Act, in relation to income in respect of one or more of the non‑TFN investments; and
+                                        (B)  amounts would not be paid to the Commissioner under section 14-5 in Schedule 1 to this Act, in relation to income in respect of one or more of the non-TFN investments; and
 
-                                        (C)  TFN withholding tax would not be payable under section 14‑55 in Schedule 1 to this Act in respect of one or more of the non‑TFN investments; or
+                                        (C)  TFN withholding tax would not be payable under section 14-55 in Schedule 1 to this Act in respect of one or more of the non-TFN investments; or
 
                             (iv)  the investments are not referred to in a report under the regulations made under that Act;
 
@@ -2869,9 +2871,9 @@ Note 2:       Subsection (2) does not apply in relation to a prose
 
                      (b)  a receiver and manager of property of the corporation;
 
-                   (ba)  an administrator, within the meaning of the _Corporations Act 2001_, of the corporation;
+                    (ba)  an administrator, within the meaning of the _Corporations Act 2001_, of the corporation;
 
-                   (bb)  an administrator of a deed of company arrangement executed by the corporation under Part 5.3A of that Act;
+                    (bb)  an administrator of a deed of company arrangement executed by the corporation under Part 5.3A of that Act;
 
                      (d)  a liquidator of the corporation appointed in a voluntary winding up of the corporation; or
 
@@ -2891,7 +2893,7 @@ Note 2:       Subsection (2) does not apply in relation to a prose
 
                              (ii)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
 
-                            being an offence that relates to an offence of a kind referred to in paragraph (a) or (b) of this subsection; or
+                            being an offence that relates to an offence of a kind referred to in paragraph (a) or (b) of this subsection; or
 
                      (d)  the conviction of a person of an offence against section 134.1, 134.2, 135.1, 135.2 or 135.4 of the _Criminal Code_, being an offence that relates to a tax liability; or
 
@@ -2993,7 +2995,7 @@ then (whether or not the prosecution is withdrawn):
 
                      (d)  any amount paid, or applied by the Commissioner, in total or partial discharge of that liability is to be refunded to the person, or applied by the Commissioner in total or partial discharge of another tax liability of the person.
 
-Note:          An example of a penalty referred to in paragraph (a) is a penalty payable under section 284‑75 in Schedule 1.
+Note:          An example of a penalty referred to in paragraph (a) is a penalty payable under section 284-75 in Schedule 1.
 
 ##### <a id="8ZF"></a>8ZF  Penalties for corporations
 
@@ -3149,7 +3151,7 @@ the prosecution shall, by force of this subsection and without any order of the 
 
           (1A)  Subsection (1) has effect without prejudice to any other method of service provided for under any other law of the Commonwealth or under a law of a State or Territory.
 
-             (2)  Where a summons is served in the manner permitted by subsection (1), the court may require the summons to be re‑served if the court has reasonable cause to believe that the summons has not come to the notice of the person to whom it is directed.
+             (2)  Where a summons is served in the manner permitted by subsection (1), the court may require the summons to be re-served if the court has reasonable cause to believe that the summons has not come to the notice of the person to whom it is directed.
 
 ##### <a id="11"></a>11  Notice of conviction _in absentia_
 
@@ -3225,7 +3227,7 @@ make an application in writing to the court, or to another court of summary juri
 
                               (i)  the defendant did not receive notice of the proceedings in which the conviction or order was made, or did not receive such notice in sufficient time to enable the defendant to attend the proceedings; or
 
-                             (ii)  the defendant failed to attend the proceedings in which the conviction or order was made for reasons that, in the opinion of the court, render it desirable, in the interests of justice, that the conviction or order be set aside and the matter re‑heard; or
+                             (ii)  the defendant failed to attend the proceedings in which the conviction or order was made for reasons that, in the opinion of the court, render it desirable, in the interests of justice, that the conviction or order be set aside and the matter re-heard; or
 
                      (b)  in the case of an application under subsection (2):
 
@@ -3235,13 +3237,13 @@ make an application in writing to the court, or to another court of summary juri
 
                                         (B)  did not receive notice of the conviction or order, or did not receive such notice in sufficient time to enable the defendant to apply, within the time specified in paragraph (1)(a), for an order setting aside the conviction or order; or
 
-                             (ii)  the defendant failed to attend the proceedings in which the conviction or order was made, and failed to make an application in accordance with subsection (1) in relation to the notice served on the defendant under section 11 in relation to the conviction or order, for reasons that, in the opinion of the court, render it desirable, in the interests of justice, that the conviction or order be set aside and the matter re‑heard;
+                             (ii)  the defendant failed to attend the proceedings in which the conviction or order was made, and failed to make an application in accordance with subsection (1) in relation to the notice served on the defendant under section 11 in relation to the conviction or order, for reasons that, in the opinion of the court, render it desirable, in the interests of justice, that the conviction or order be set aside and the matter re-heard;
 
 the court shall set aside the conviction or order and shall:
 
-                     (c)  proceed forthwith to re‑hear and determine the matter; or
+                     (c)  proceed forthwith to re-hear and determine the matter; or
 
-                     (d)  adjourn the proceedings for re‑hearing the matter to such time and place as the court thinks fit.
+                     (d)  adjourn the proceedings for re-hearing the matter to such time and place as the court thinks fit.
 
              (5)  Where an application is made to a court (in this subsection referred to as the **_relevant court_**) under this section for the setting aside of a conviction or order of a court, the proper officer of the relevant court shall forthwith:
 
@@ -3249,7 +3251,7 @@ the court shall set aside the conviction or order and shall:
 
                      (b)  where the conviction or order was made by a court other than the relevant court—cause notice of the making of the application to be given to that other court.
 
-             (6)  Where, under subsection (4), a court sets aside a conviction or order of another court, the proper officer of the first‑mentioned court shall forthwith cause notice of the setting aside of that conviction or order to be given to the other court.
+             (6)  Where, under subsection (4), a court sets aside a conviction or order of another court, the proper officer of the first-mentioned court shall forthwith cause notice of the setting aside of that conviction or order to be given to the other court.
 
 ##### <a id="13B"></a>13B  Proof of service of summons or notice
 
@@ -3313,7 +3315,7 @@ the proper officer of the quashing court shall without delay cause notice of the
 
            (10)  This section is in addition to, and not in derogation of, any other law of the Commonwealth or any law of a State or Territory.
 
-## Part IIIA—Co‑operation between Commonwealth and State taxation authorities
+## Part IIIA—Co-operation between Commonwealth and State taxation authorities
 
 ### Division 1—Interpretation
 
@@ -3321,7 +3323,7 @@ the proper officer of the quashing court shall without delay cause notice of the
 
              (1)  In this Part, unless the contrary intention appears:
 
-                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis Bay Territory.
+                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis  Bay Territory.
 
                     <a name="offic"></a>**_officer_** means:
 
@@ -3335,7 +3337,7 @@ the proper officer of the quashing court shall without delay cause notice of the
 
                      (a)  in relation to a State other than the Northern Territory—a Minister of the Crown of the State; or
 
-                     (b)  in relation to the Northern Territory—a Minister of the Northern Territory.
+                     (b)  in relation to the Northern   Territory—a Minister of the Northern Territory.
 
                     <a name="state-tax-law"></a>**_State tax law_** means a law of a State relating to taxation.
 
@@ -3359,7 +3361,7 @@ the proper officer of the quashing court shall without delay cause notice of the
 
              (3)  A reference in Division 3 or 4 to a State taxation officer includes a reference to a Territory taxation officer.
 
-### Division 2—Trans‑border investigations
+### Division 2—Trans-border investigations
 
 ##### <a id="13E"></a>13E   State taxation officers may refer matters to Commissioner for investigation
 
@@ -3381,7 +3383,7 @@ the proper officer of the quashing court shall without delay cause notice of the
 
              (4)  The occupier of land entered or proposed to be entered by an officer under subsection (2) shall provide the officer with all reasonable facilities and assistance for the effective exercise of powers under this section.
 
-                    Penalty for a contravention of this subsection:     10 penalty units.
+                    Penalty for a contravention of this subsection:    10 penalty units.
 
 ##### <a id="13G"></a>13G  Commissioner may obtain information and evidence
 
@@ -3465,13 +3467,13 @@ shall be received in all courts and tribunals in proceedings arising out of a ta
 
                     <a name="account"></a>**_accounts_**, in relation to a financial institution, includes accounts kept by way of withdrawable share capital in, or money deposited with, the financial institution.
 
-                    <a name="co-oper-hous-societi"></a>**_co‑operative housing society_** means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
+                    <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.
 
                     <a name="financi-institut"></a>**_financial institution_** includes:
 
-                     (a)  a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_; and
+                     (a)  a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_; and
 
-                     (b)  a co‑operative housing society; and
+                     (b)  a co-operative housing society; and
 
                      (c)  a registered entity under the _Financial Sector (Collection of Data) Act 2001_.
 
@@ -3757,13 +3759,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  subsection 220(3) of the _Income Tax Assessment Act 1936_(including that subsection as applied by any other Act); or
 
-                     (g)  subsection 260‑145(5) in Schedule 1 (because of paragraph (a) of that subsection).
+                     (g)  subsection 260-145(5) in Schedule 1 (because of paragraph (a) of that subsection).
 
                     <a name="delai-administr-truste-object"></a>**_delayed administration (trustee) objection_** means a taxation objection made under:
 
                      (a)  subsection 220(7) of the _Income Tax Assessment Act 1936_(including that subsection as applied by any other Act); or
 
-                     (b)  subsection 260‑145(5) in Schedule 1 (because of paragraph (b) of that subsection).
+                     (b)  subsection 260-145(5) in Schedule 1 (because of paragraph (b) of that subsection).
 
                     <a name="extens-time-refus-decision"></a>**_extension of time refusal decision_** means a decision of the Commissioner under subsection 14ZX(1) to refuse a request by a person.
 
@@ -3835,7 +3837,7 @@ then, this Part has effect, in relation to any review or appeal, as if so much o
 
                      (c)  state in it, fully and in detail, the grounds that the person relies on.
 
-Note:          A person who objects against the Commissioner’s failure to make a private ruling must lodge a draft private ruling with the objection: see subsection 359‑50(4).
+Note:          A person who objects against the Commissioner’s failure to make a private ruling must lodge a draft private ruling with the objection: see subsection 359-50(4).
 
 ##### <a id="14ZV"></a>14ZV  Limited objection rights in the case of certain amended taxation decisions
 
@@ -3857,33 +3859,33 @@ Note:          A person who objects against the Commissioner�
 
                   (aaa)  if the taxation objection is made under section 78A of the _Fringe Benefits Tax Assessment Act 1986_ or former section 160AL of the _Income Tax Assessment Act 1936_—4 years after notice of the taxation decision to which it relates has been given to the person; or
 
-                  (aab)  if the taxation objection is made under section 292‑245 of the _Income Tax Assessment Act 1997_—4 years after notice of the assessment concerned is given to the person; or
+                  (aab)  if the taxation objection is made under section 292-245 of the _Income Tax Assessment Act 1997_—4 years after notice of the assessment concerned is given to the person; or
 
-                   (ab)  if the taxation objection is a delayed administration (beneficiary) objection made under subsection 260‑145(5) in Schedule 1 (because of paragraph (a) of that subsection) or subsection 220(3) of the _Income Tax Assessment Act 1936_(not including that subsection as applied by any other Act)—4 years after notice of the taxation decision to which it relates has been first published; or
+                    (ab)  if the taxation objection is a delayed administration (beneficiary) objection made under subsection 260-145(5) in Schedule 1 (because of paragraph (a) of that subsection) or subsection 220(3) of the _Income Tax Assessment Act 1936_(not including that subsection as applied by any other Act)—4 years after notice of the taxation decision to which it relates has been first published; or
 
-                    (ac)  if the taxation objection is a delayed administration (trustee) objection made under subsection 260‑145(5) in Schedule 1 (because of paragraph (b) of that subsection) or subsection 220(7) of the _Income Tax Assessment Act 1936_(not including that subsection as applied by any other Act)—4 years after probate of the will, or letters of administration of the estate, of the deceased person concerned has been granted; or
+                    (ac)  if the taxation objection is a delayed administration (trustee) objection made under subsection 260-145(5) in Schedule 1 (because of paragraph (b) of that subsection) or subsection 220(7) of the _Income Tax Assessment Act 1936_(not including that subsection as applied by any other Act)—4 years after probate of the will, or letters of administration of the estate, of the deceased person concerned has been granted; or
 
                      (a)  if the taxation objection is a delayed administration (beneficiary) objection to which paragraph (ab) does not apply—60 days after notice of the taxation decision to which it relates has been first published; or
 
                      (b)  if the taxation objection is a delayed administration (trustee) objection to which paragraph (ac) does not apply—60 days after probate of the will, or letters of administration of the estate, of the deceased person concerned has been granted; or
 
-                   (ba)  if the taxation objection is an objection under subsection 359‑50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling—60 days after the end of the period of 30 days referred to in that subsection; or
+                    (ba)  if the taxation objection is an objection under subsection 359-50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling—60 days after the end of the period of 30 days referred to in that subsection; or
 
-                   (bb)  if the taxation objection is made under section 66 of the _Petroleum Resource Rent Tax Assessment Act 1987_ to an assessment under that Act—4 years after notice of the assessment is given to the person; or
+                    (bb)  if the taxation objection is made under section 66 of the _Petroleum Resource Rent Tax Assessment Act 1987_ to an assessment under that Act—4 years after notice of the assessment is given to the person; or
 
-                   (bc)  if the taxation objection is made under subsection 73IA(2) of the _Income Tax Assessment Act 1936_:
+                    (bc)  if the taxation objection is made under subsection 73IA(2) of the _Income Tax Assessment Act 1936_:
 
                               (i)  if item 2 or 3 of the table in subsection 170(1) of that Act would apply to an assessment of the person for the tax offset year referred to in section 73I of that Act—2 years after notice of the amount (if any) of a tax offset allowable to the person under section 73I of that Act is given to the person; or
 
                              (ii)  otherwise—4 years after the notice concerned is given to the person; or
 
-                   (bd)  if the taxation objection is made under section 20P of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ against a notice given to a superannuation provider under section 20C of that Act and the person is not the superannuation provider—2 years after the notice was given to the superannuation provider; or
+                    (bd)  if the taxation objection is made under section 20P of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ against a notice given to a superannuation provider under section 20C of that Act and the person is not the superannuation provider—2 years after the notice was given to the superannuation provider; or
 
-                   (be)  if the taxation objection is made under section 20P of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ against a decision under Division 4 or 5 of Part 3A of that Act and the person is not a superannuation provider (as defined in that Act)—2 years after the person was given notice of the decision; or
+                    (be)  if the taxation objection is made under section 20P of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ against a decision under Division 4 or 5 of Part 3A of that Act and the person is not a superannuation provider (as defined in that Act)—2 years after the person was given notice of the decision; or
 
                      (c)  in any other case—60 days after notice of the taxation decision to which it relates has been served on the person.
 
-    (1AAA)  The person must lodge the taxation objection against a reviewable indirect tax decision (within the meaning of section 105‑40 in Schedule 1) before the end of whichever of the following ends last:
+     (1AAA)  The person must lodge the taxation objection against a reviewable indirect tax decision (within the meaning of section 105-40 in Schedule 1) before the end of whichever of the following ends last:
 
                      (a)  the 60 days after notice of the decision was served on the person;
 
@@ -3923,7 +3925,7 @@ the person must lodge the taxation objection before the end of whichever of the 
 
                      (d)  the 60 days after the notice of the amended assessment or amended determination to which the taxation objection relates has been served on the person. 
 
-       (1BA)  If:
+        (1BA)  If:
 
                      (a)  section 14ZV applies to a taxation objection; and
 
@@ -3969,7 +3971,7 @@ the person must lodge the taxation objection within that longer period.
 
                      (b)  disallow it.
 
-          (1A)  If the taxation objection is an objection under subsection 359‑50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling, the Commissioner must:
+          (1A)  If the taxation objection is an objection under subsection 359-50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling, the Commissioner must:
 
                      (a)  make a private ruling in the same terms as the draft ruling lodged with the objection; or
 
@@ -3981,15 +3983,15 @@ the person must lodge the taxation objection within that longer period.
 
 ##### <a id="14ZYA"></a>14ZYA  Person may require Commissioner to make an objection decision
 
-             (1)  This section applies if the taxation objection (other than one under subsection 359‑50(3) in Schedule 1) has been lodged with the Commissioner within the required period and the Commissioner has not made an objection decision by whichever is the later of the following times:
+             (1)  This section applies if the taxation objection (other than one under subsection 359-50(3) in Schedule 1) has been lodged with the Commissioner within the required period and the Commissioner has not made an objection decision by whichever is the later of the following times:
 
-                     (a)  the end of the period (in this section called the **_original 60‑day period_**) of 60 days after whichever is the later of the following days:
+                     (a)  the end of the period (in this section called the **_original 60-day period_**) of 60 days after whichever is the later of the following days:
 
                               (i)  the day on which the taxation objection is lodged with the Commissioner;
 
                              (ii)  if the Commissioner decides under section 14ZX to agree to a request in relation to the taxation objection—the day on which the decision is made;
 
-                     (b)  if the Commissioner, by written notice served on the person within the original 60‑day period, requires the person to give information relating to the taxation objection—the end of the period of 60 days after the Commissioner receives that information.
+                     (b)  if the Commissioner, by written notice served on the person within the original 60-day period, requires the person to give information relating to the taxation objection—the end of the period of 60 days after the Commissioner receives that information.
 
              (2)  The person may give the Commissioner a written notice requiring the Commissioner to make an objection decision.
 
@@ -3997,7 +3999,7 @@ the person must lodge the taxation objection within that longer period.
 
 ##### <a id="14ZYB"></a>14ZYB  Requiring Commissioner to make a private ruling
 
-             (1)  This section applies if the taxation objection is an objection under subsection 359‑50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling and the Commissioner has not made an objection decision by the end of 60 days after the later of these days:
+             (1)  This section applies if the taxation objection is an objection under subsection 359-50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling and the Commissioner has not made an objection decision by the end of 60 days after the later of these days:
 
                      (a)  the day on which the taxation objection was lodged with the Commissioner;
 
@@ -4059,7 +4061,7 @@ subject to the modifications set out in this Division.
 
                    Section 30 of the AAT Act applies in relation to a reviewable objection decision or an extension of time refusal decision as if subsection (1A) of that section were omitted and the following subsection were substituted:
 
-        “(1A)  If an application has been made by a person to the Tribunal for the review of a reviewable objection decision or an extension of time refusal decision:
+         “(1A)  If an application has been made by a person to the Tribunal for the review of a reviewable objection decision or an extension of time refusal decision:
 
                      (a)  any other person whose interests are affected by the decision may apply, in writing, to the Tribunal to be made a party to the proceeding; and
 
@@ -4123,9 +4125,9 @@ is to be in private if the party who made the application requests that it be in
 
 as if the following subsections were inserted after subsection (2B):
 
-        “(2C)  If a hearing of a proceeding for the review of a decision or an AAT extension application is not conducted in public, that fact does not prevent the Tribunal from publishing its reasons for the decision.
+         “(2C)  If a hearing of a proceeding for the review of a decision or an AAT extension application is not conducted in public, that fact does not prevent the Tribunal from publishing its reasons for the decision.
 
-        “(2D)  If:
+         “(2D)  If:
 
                      (a)  a hearing of a proceeding for the review of a decision or an AAT extension application is not conducted in public; and
 
@@ -4353,7 +4355,7 @@ the amount is payable out of the Consolidated Revenue Fund, which is appropriate
 
                                         (A)  a general administration provision; or
 
-                                        (B)  a provision prescribed for the purposes of this sub‑subparagraph; or
+                                        (B)  a provision prescribed for the purposes of this sub-subparagraph; or
 
                              (ii)  by way of the repayment, whether in whole or in part, to the person of an amount paid to the Commonwealth;
 
@@ -4389,7 +4391,7 @@ the amount shall be taken, for the purposes of subsection (1), to be an amount
 
 ##### <a id="16B"></a>16B  Certain liabilities to be reduced to nearest multiple of 5 cents
 
-                   If the amount of a tax‑related liability that arises by way of penalty or because it is assessed by the Commissioner (other than an RBA deficit or a liability to pay the general interest charge) is not a multiple of 5 cents, the amount is decreased to the nearest multiple of 5 cents.
+                   If the amount of a tax-related liability that arises by way of penalty or because it is assessed by the Commissioner (other than an RBA deficit or a liability to pay the general interest charge) is not a multiple of 5 cents, the amount is decreased to the nearest multiple of 5 cents.
 
 ##### <a id="17"></a>17  Powers of taxation officers in relation to references to currency etc.
 
@@ -4443,6 +4445,6 @@ shall be calculated on the basis of the equivalents specified in subsection 8(4)
 
 ##### <a id="18"></a>18  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for giving effect to this Act, and, in particular, prescribing penalties not exceeding a fine of 5 penalty units for offences against the regulations.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for giving effect to this Act, and, in particular, prescribing penalties not exceeding a fine of 5 penalty units for offences against the regulations.
 
  
