@@ -1,7035 +1,3568 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02679/Html/Cheques86_image001.gif)
 
-###  CHEQUES ACT 1986 
-**
+# Cheques Act 1986
 
+**Act No. 145 of 1986 as amended**
 
-**
+This compilation was prepared on 26 July 2001 
+ taking into account amendments up to Act No. 55 of 2001
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part I—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
+[3](#3).            Interpretation                                                                                       1
 
-**
+[4](#4).            Application of rules in bankruptcy, laws of States and Territories and rules of the common law    3
 
-###  Long Title 
-**
-**
+[5](#5).            Cheques a financial institution draws on itself                                    4
 
-###  CHEQUES ACT 1986<part>Part&#160;I&#151;Preliminary </part>
-**
-###  CHEQUES ACT 1986- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Cheques Act 1986_.
+[6](#6).            Certain rights, duties and liabilities under Act may be altered by agreement            4
 
- 
-###  CHEQUES ACT 1986- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on such day as is, or on such respective
+[7](#7).            Application of Act                                                                              5
 
-days as are, fixed by Proclamation.
+[8](#8).            Extension of Act to external Territories                                              5
 
- 
-###  CHEQUES ACT 1986- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+[9](#9).            Act to bind Crown                                                                               5
 
-</dd> 
-<dl compact=""><dl compact="">
+**Part II—Cheques** 
 
-_action_ includes a counter-claim and set-off. _agency cheque_ means a cheque to which subsection 100(2) applies.  </dl></dl>
+    **Division 1—Form**
 
-<dl compact=""><dl compact="">
+[10](#10).          Cheque defined                                                                                    6
 
-Note:	Under section&#160;100A, subsection 100(2) may, in
+[11](#11).          Order to pay                                                                                        6
 
-specified circumstances, apply to a cheque even if the customer's signature on
+[12](#12).          Unconditional order to pay                                                                 6
 
-the cheque is not authorised.
+[13](#13).          Order addressed to a financial institution                                            7
 
- </dl></dl>
+[14](#14).          Order to pay on demand                                                                      7
 
-<def><dl compact=""><dl compact="">
+[15](#15).          Order to pay a sum certain                                                                  7
 
-_Australia_ includes the external Territories. _bearer_ means the person in possession of a cheque payable to bearer. _delivery_, in relation to a cheque, means the transfer of possession of the cheque from one person to another. _drawee institution_, in relation to a cheque, means the financial institution on which the cheque is drawn. _FCA institution_ means a body that is:  </dl></dl>
+[16](#16).          Date of cheque etc                                                                               8
 
-<dl compact=""><dl compact=""><dl compact="">
+[17](#17).           Optional stipulations                                                                          8
 
-<dt>(a)</dt><dd>a registered entity under the _Financial Sector (Collection of Data) Act 2001_; and</dd>
+[18](#18).          Inchoate instruments                                                                           9
 
-<dt>(b)</dt><dd>prescribed for the purposes of this definition.
+    **Division 2—Order and bearer cheques**
 
-</dd>
+[19](#19).          Meaning of specification of person in cheque as payee or indorsee 10
 
-</dl></dl></dl>
+[20](#20).          Cheques either payable to order or to bearer                                     10
 
-<def><dl compact=""><dl compact="">
+[21](#21).          Cheques payable to order                                                                  10
 
-_financial institution_ means:
+[22](#22).          Cheques payable to bearer                                                                 10
 
- </dl></dl>
+[23](#23).          Conversion of cheque payable to bearer into cheque payable to order 11
 
-<dl compact=""><dl compact=""><dl compact="">
+[24](#24).          Cheques payable to order of specified person                                  11
 
-<dt>(a)</dt><dd>the Reserve Bank of Australia; or</dd>
+    **Division 3—Delivery**
 
-<dt>(b)</dt><dd>a body corporate that is an ADI (authorised deposit-taking institution)
+[25](#25).          Delivery essential for drawing or indorsement                                  12
 
-for the purposes of the _Banking Act 1959_; or</dd>
+[26](#26).          Requisites for effective delivery                                                        12
 
-<dt>(d)</dt><dd>a person who carries on State banking within the meaning of paragraph
+[27](#27).          Drawing or indorsement may be shown to be ineffective                 12
 
-51(xiii) of the Constitution; or</dd>
+[28](#28).           Presumption of effective delivery                                                    12
 
-<dt>(e)</dt><dd>a person (other than a person referred to in paragraph&#160;(a), (b) or
+[29](#29).          Delivery of cheque payable to bearer                                                13
 
-(d)) who carries on the business of banking outside Australia.
+    **Division 4—Capacity**
 
-</dd>
+[30](#30).          Capacity to incur liability on cheque                                                 14
 
-</dl></dl></dl>
+    **Division 5—Signature**
 
-<center>Back to Top</center>
+[31](#31).          Signature essential to liability on cheque                                           15
 
-<def><dl compact=""><dl compact="">
+[32](#32).          Unauthorised signature                                                                      15
 
-_holder_ means:
+[33](#33).          Person signing as agent or in representative capacity                        16
 
- </dl></dl>
+[34](#34).          Procuration signature                                                                         17
 
-<dl compact=""><dl compact=""><dl compact="">
+    **Division 6—Consideration**
 
-<dt>(a)</dt><dd>in relation to a cheque payable to order&#151;the payee or an indorsee who is
+[35](#35).          Valuable consideration defined                                                          18
 
-in possession of the cheque as payee or indorsee, as the case may be; and</dd>
+[36](#36).          Presumption of value                                                                         18
 
-<dt>(b)</dt><dd>in relation to a cheque payable to bearer&#151;the bearer.
+[37](#37).          Holder taking cheque for which value has been given                        18
 
-</dd>
+[38](#38).          Holder having lien                                                                              18
 
-</dl></dl></dl>
+**Part III—Negotiability of cheques** 
 
-<def><dl compact=""><dl compact="">
+    **Division 1—Transfer by negotiation**
 
-_issue_, in relation to a cheque, means the first delivery of the
+[39](#39).          Every cheque transferable by negotiation                                          19
 
-cheque to a person who takes the cheque as holder. _possession_, in relation to a cheque, means possession (whether actual or constructive) of the cheque. _to or to the order of_ has the meaning given by subsection&#160;(1A). _value_ means valuable consideration as defined by section&#160;35\.  </dl></dl>
+[40](#40).          Transfer of cheque by negotiation                                                     19
 
-<dl compact="">
+[41](#41).          Requisites for indorsement                                                                19
 
-<dt>(1A)</dt><dd>For the purposes of this Act, a cheque is payable _to or to the order of_ a person or persons if:
+[42](#42).          Transfer of order cheque without indorsement                                 20
 
-</dd> </dl>
+[43](#43).          Indorsement of order cheque payable jointly to 2 or more persons  20
 
-<dl compact=""><dl compact=""><dl compact="">
+[44](#44).          Indorsement where payee or indorsee misdescribed                         21
 
-<dt>(a)</dt><dd>it is expressed to be payable:
+[45](#45).          Conditional indorsement                                                                    21
 
-</dd>
+[46](#46).          Transfer of stale or dishonoured cheque by negotiation                    21
 
-</dl></dl></dl>
+[47](#47).          Transfer by negotiation back to drawer or indorser                          22
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+[48](#48).          Order of indorsements                                                                       22
 
-<dt>(i)</dt><dd>to the person or persons; or</dd>
+[49](#49).          Rights acquired by transfer by negotiation                                        22
 
-<dt>(ii)</dt><dd>to the order of the person or persons (or words to that effect); or</dd>
+    **Division 2—Holder in due course**
 
-<dt>(iii)</dt><dd>to the person or persons or to the order of the person or persons (or
+[50](#50).          Holder in due course defined                                                             24
 
-words to that effect); and
+[51](#51).          Presumption that holder is holder in due course                               24
 
-</dd>
+[52](#52).          Holder deriving title through holder in due course                             25
 
-</dl></dl></dl></dl>
+    **Division 3—Crossings**
 
-<dl compact=""><dl compact=""><dl compact="">
+[53](#53).          Crossing and crossed cheque defined                                                 26
 
-<dt>(b)</dt><dd>it is not also expressed to be payable to bearer.
+[54](#54).          Effect of crossing on payment of cheque                                          26
 
-</dd>
+[55](#55).          Effect of taking cheque crossed _not negotiable_                                  26
 
-</dl></dl></dl>
+[56](#56).          Persons who may add crossing to cheque                                         26
 
-<dl compact="">
+[57](#57).          Multiple crossings                                                                             27
 
-<dt>(2)</dt><dd>A reference in this Act to an act or thing being done in good faith is a
+**Part IV—Presentment and dishonour** 
 
-reference to the act or thing being done honestly, whether or not the act or
+    **Division 1—Presentment**
 
-thing is done negligently.</dd> <dt>(3)</dt><dd>Where a person obtains a cheque: </dd> </dl>
+[58](#58).          Drawer and indorsers of cheque not liable unless cheque presented 28
 
-<dl compact=""><dl compact=""><dl compact="">
+[59](#59).          When presentment dispensed with                                                   28
 
-<dt>(a)</dt><dd>by fraud, duress or other unlawful means; or</dd>
+[60](#60).          Effect of failure to present within reasonable time                            28
 
-<dt>(b)</dt><dd>for an illegal consideration;
+[61](#61).          Due presentment defined                                                                   29
 
-</dd>
+[61A](#61A).       Presentment by financial institution                                                  30
 
-</dl></dl></dl>
+[62](#62).          External presentment by financial institution                                    30
 
-the person's title to the cheque is defective.
+[62A](#62A).       Internal presentment by drawee institution                                      34
 
-<dl compact="">
+[63](#63).          Presentment by person other than financial institution                    36
 
-<dt>(4)</dt><dd>Subsection&#160;(3) shall not be taken to limit by implication the
+[64](#64).          Proper place                                                                                       36
 
-circumstances in which the title of a person to a cheque is defective.</dd> <dt>(5)</dt><dd>Where, at any time, a cheque appears on its face to have been drawn more than 15 months before that time, the cheque is, at that time, a stale cheque.</dd> <dt>(6)</dt><dd>A reference in this Act to a signature or indorsement being written or placed on a cheque without the authority of the person whose signature or indorsement it purports to be includes a reference to the forging of the signature or indorsement.</dd> <dt>(7)</dt><dd>A reference in this Act to a cheque, or a copy of a cheque, being exhibited to a person includes a reference to the cheque or the copy, as the case may be, being delivered to the person.</dd> <dt>(8)</dt><dd>An alteration of a cheque is a material alteration if it alters, in any respect, a right, duty or liability of the drawer, an indorser or the drawee institution. </dd> </dl>
+[65](#65).          External presentment of cheques by financial institutions—designated places and designated exhibition places       36
 
-**
+[65A](#65A).       Internal presentment of cheques by financial institutions—notified places             38
 
-###  CHEQUES ACT 1986- SECT 4  Application of rules in bankruptcy, laws of States and Territories and rules of the common law 
-**
+[66](#66).          Deposit institution to present cheques promptly                             39
 
-<dl compact="">
+[67](#67).          Drawee institution to pay or dishonour promptly                           40
 
-<dt>(1)</dt><dd>Nothing in this Act affects the application in relation to cheques of the
+[68](#68).          How paid cheque to be dealt with                                                     42
 
-rules in bankruptcy in force under the _Bankruptcy Act 1966_ or the law of
+    **Division 2—Dishonour**
 
-an external Territory.</dd> <dt>(2)</dt><dd>The laws of the States and Territories and the rules of the common law (including the law merchant), except in so far as they are inconsistent with the express provisions of this Act, continue to apply in relation to cheques.</dd> <dt>(3)</dt><dd>The rules of the common law (including the law merchant) that apply to cheques drawn on banks also apply (by force of this subsection) to cheques drawn on financial institutions other than banks, as if those institutions were banks. </dd> </dl>
+[69](#69).          Dishonour defined                                                                             46
 
-<center>Back to Top</center>
+[70](#70).          Drawer and indorsers of cheque liable whether or not given notice of dishonour     46
 
-**
+    **Division 3—Turnback of cheques drawn on failed financial institutions**
 
-###  CHEQUES ACT 1986- SECT 5  Cheques a financial institution draws on itself 
-**
+[70A](#70A).       Certain cheques taken to be dishonoured                                          47
 
- <dl compact="">
+[70B](#70B).       Consequences of cheque being taken to be dishonoured                   48
 
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), a reference in this Act to a cheque
+**Part V—Liabilities on cheques** 
 
-includes a reference to a cheque that a financial institution draws on
+    **Division 1—Liabilities of parties**
 
-itself.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) does not apply to a reference to a cheque in a provision in which a contrary intention appears, or in any of the following provisions: </dd> </dl>
+[71](#71).          Liability of drawer                                                                             49
 
-<dl compact=""><dl compact=""><dl compact="">
+[72](#72).          Estoppel against drawer                                                                    49
 
-<dt>(a)</dt><dd>sections&#160;10, 11, 12, 13, 14 and 15;</dd>
+[73](#73).          Liability of indorser                                                                           49
 
-<dt>(b)</dt><dd>subsection 17(3);</dd>
+[74](#74).          Estoppels against indorser                                                                 50
 
-<dt>(c)</dt><dd>subparagraph 59(b)(i);</dd>
+[75](#75).          Stranger signing cheque liable as indorser                                          50
 
-<dt>(d)</dt><dd>subsections 60(1), 62(12) and 62A(8);</dd>
+[76](#76).          Measure of damages on dishonour                                                    51
 
-<dt>(e)</dt><dd>sections&#160;88, 89, 90 and 91.
+[77](#77).          Transferor by delivery                                                                       51
 
-</dd>
+    **Division 2—Discharge of liabilities of parties**
 
-</dl></dl></dl>
+[78](#78).          When cheque discharged                                                                    53
 
-<dl compact="">
+[79](#79).          Payment in due course                                                                       53
 
-<dt>(3)</dt><dd>Nothing in this Act (other than section&#160;92, subsection 93(2) and
+[80](#80).          Renunciation of rights against drawer or all persons liable on cheque 53
 
-section&#160;94) is to be taken to affect any liability that, but for this Act,
+[81](#81).          Cancellation of cheque or drawer’s signature                                    53
 
-a financial institution would have in relation to a cheque drawn by it on
+[82](#82).           Effect of discharge of cheque                                                            54
 
-itself.</dd> <dt>(4)</dt><dd>A reference in subsection&#160;(1) or (3) to a cheque drawn by a financial institution on itself is a reference to an instrument that would be a cheque if the drawer and drawee were not the same person. </dd> </dl>
+[83](#83).          When indorser discharged                                                                  55
 
-**
+[84](#84).          Renunciation of rights against indorser                                              55
 
-###  CHEQUES ACT 1986- SECT 6  Certain rights, duties and liabilities under Act may be altered by agreement 
-**
+[85](#85).          Cancellation of indorser’s signature                                                   55
 
-<dl compact="">
+[86](#86).          Effect of discharge of indorser                                                           55
 
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), nothing in this Act shall be taken to
+[87](#87).          Effect of payment by drawer or indorser                                          56
 
-prevent 2 or more persons negating, inverting or otherwise altering, by
+**Part VI—Duties and liabilities of financial institutions** 
 
-agreement, their rights, duties and liabilities in relation to one another
+    **Division 1—The drawee institution**
 
-under this Act.</dd> <dt>(2)</dt><dd>Section&#160;5, this section and sections&#160;7 to 16 (inclusive), 19 to 24 (inclusive), 30 to 32 (inclusive), 39 to 41 (inclusive), 43 to 45 (inclusive), 53 to 57 (inclusive), 61, 61A, 62, 62A, 64 to 67 (inclusive), 79, 88, 90 to 95 (inclusive), 97, 98, 100, 115 and 116 have effect notwithstanding any agreement to the contrary. </dd> </dl>
+[88](#88).          Cheque not assignment of funds                                                        57
 
-**
+[89](#89).          Stale cheque                                                                                       57
 
-###  CHEQUES ACT 1986- SECT 7  Application of Act 
-**
+[90](#90).          Countermand of payment and notice of death or mental incapacity 57
 
- <dl compact="">
+[91](#91).          Protection of drawee institution paying improperly raised cheque  58
 
-<dt>(1)</dt><dd>This Act applies only in relation to cheques drawn on or after the day on
+[92](#92).          Protection of drawee institution paying crossed cheque in accordance with crossing           58
 
-which this Act comes into operation.</dd> <dt>(2)</dt><dd>Where a cheque is dated, the cheque shall be conclusively presumed, for the purposes of subsection&#160;(1), to have been drawn on that day.</dd> <dt>(3)</dt><dd>Where a cheque is undated, the cheque shall, unless the contrary is proved, be presumed, for the purposes of subsection&#160;(1), to have been drawn on or after the day on which this Act comes into operation.</dd> <dt>(4)</dt><dd>Where the drawer of an instrument that is signed, but is otherwise wanting in a material particular necessary for the instrument to be, on its face, a complete cheque, delivers the instrument to another person, on or after the day on which this Act comes into operation, in order that the instrument may be filled up as a complete cheque, this Act applies in relation to the filling up of the instrument. </dd> </dl>
+[93](#93).          Payment of crossed cheque otherwise than in accordance with crossing     58
 
-**
+[94](#94).          Protection of drawee institution paying cheque lacking indorsement or with irregular or unauthorised indorsement                                                                                                           59
 
-###  CHEQUES ACT 1986- SECT 8  Extension of Act to external Territories 
-**
+    **Division 2—The collecting institution**
 
- <dl compact="">
+[95](#95).          Protection of institution collecting cheque for customer or another institution        61
 
-		This Act extends to every external Territory.
+[96](#96).          Rights of institution collecting order cheque not indorsed by payee 62
 
- </dl>
+**Part VII—Special provisions relating to FCA institutions and agency cheques** 
 
-**
+    **Division 1—Presentment and collection of cheques by FCA institutions**
 
-###  CHEQUES ACT 1986- SECT 9  Act to bind Crown 
-**
+[97](#97).          FCA institution to ensure cheques presented promptly                   64
 
- <dl compact="">
+[98](#98).          Protection of FCA financial institution collecting cheque for customer       65
 
-		This Act binds the Crown in right of the Commonwealth, of each of the States,
+[99](#99).          Rights of FCA financial institution collecting order cheque not indorsed by payee 66
 
-of the Northern Territory and of Norfolk Island.
+    **Division 2—Agency cheques**
 
- </dl>
+[100](#100).        Agency cheques                                                                                 67
 
-<center>**
+[100A](#100A).     Unauthorised signature                                                                      68
 
-###  CHEQUES ACT 1986<part>Part&#160;II&#151;Cheques </part>
-**</center>
+**Part IX—Miscellaneous**
 
-<center>**
+[113](#113).        Payment of unindorsed order cheque as evidence of receipt by payee 69
 
-###  CHEQUES ACT 1986<division>Division&#160;1&#151;Form <center>[Back to Top](#top)</center> </division> 
-**</center>
+[114](#114).        Signature                                                                                            69
 
-**
+[115](#115).        Replacement of lost or destroyed cheque                                          69
 
-###  CHEQUES ACT 1986- SECT 10  Cheque defined  
-**
+[116](#116).        Action on lost or destroyed cheque                                                   72
 
- <dl compact="">
+[117](#117).        Conflict of laws                                                                                 72
 
-<dt>(1)</dt><dd>A cheque is an unconditional order in writing that:
+[118](#118).        Dividend warrants                                                                             74
 
-</dd> </dl>
+[119](#119).        Regulations                                                                                        74
 
-<dl compact=""><dl compact=""><dl compact="">
+**Notes** 
 
-<dt>(a)</dt><dd>is addressed by a person to another person, being a financial institution;
+## An Act relating to cheques and certain other negotiable instruments
 
-and</dd>
+## Part I—Preliminary
 
-<dt>(b)</dt><dd>is signed by the person giving it; and</dd>
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-<dt>(c)</dt><dd>requires the financial institution to pay on demand a sum certain in money.
+                   This Act may be cited as the _Cheques Act 1986_.
 
-</dd>
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-</dl></dl></dl>
+                   This Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-<dl compact=""><dl compact="">
+##### <a id="3"></a>3  Interpretation 
 
-Note:	In this Act, _financial institution_ has a
+             (1)  In this Act, unless the contrary intention appears:
 
-restricted meaning&#151;see the definition in subsection 3(1).
+                    <a name="action"></a>**_action_** includes a counter-claim and set-off.
 
- </dl></dl>
+                    <a name="agenc-chequ"></a>**_agency cheque_** means a cheque to which subsection 100(2) applies.
 
-<dl compact="">
+Note:          Under section 100A, subsection 100(2) may, in specified circumstances, apply to a cheque even if the customer’s signature on the cheque is not authorised.
 
-<dt>(2)</dt><dd>An instrument that does not comply with subsection&#160;(1), or that
+                    <a name="australia"></a>**_Australia_** includes the external Territories.
 
-orders any act to be done in addition to the payment of money, is not a cheque.
+                    <a name="bearer"></a>**_bearer_** means the person in possession of a cheque payable to bearer.
 
-</dd> </dl>
+                    <a name="deliveri"></a>**_delivery_**, in relation to a cheque, means the transfer of possession of the cheque from one person to another.
 
-**
+                    <a name="drawe-institut"></a>**_drawee institution_**, in relation to a cheque, means the financial institution on which the cheque is drawn.
 
-###  CHEQUES ACT 1986- SECT 11  Order to pay 
-**
+                    <a name="fca-institut"></a>**_FCA institution_** means a body that is:
 
- <dl compact="">
+                     (a)  a registered corporation under the _Financial Corporations Act 1974_; and
 
-		An order to pay must be more than an authorization or request to pay.
+                     (b)  prescribed for the purposes of this definition.
 
- </dl>
+                    <a name="financi-institut"></a>**_financial institution_** means:
 
-**
+                     (a)  the Reserve Bank of Australia; or
 
-###  CHEQUES ACT 1986- SECT 12  Unconditional order to pay  
-**
+                     (b)  a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_; or
 
- <dl compact="">
+                     (d)  a person who carries on State banking within the meaning of paragraph 51(xiii) of the Constitution; or
 
-<dt>(1)</dt><dd>An order to pay on a contingency is not an unconditional order to pay and
+                     (e)  a person (other than a person referred to in paragraph (a), (b) or (d)) who carries on the business of banking outside Australia.
 
-the happening of the event does not make the order an unconditional order to
+                    <a name="holder"></a>**_holder_** means:
 
-pay.</dd> <dt>(2)</dt><dd>An order to pay shall not be taken not to be an unconditional order to pay by reason only that the order is coupled with either or both of the following: </dd> </dl>
+                     (a)  in relation to a cheque payable to order—the payee or an indorsee who is in possession of the cheque as payee or indorsee, as the case may be; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  in relation to a cheque payable to bearer—the bearer.
 
-<dt>(a)</dt><dd>an indication of a particular account to be debited by the financial
+                    <a name="issu"></a>**_issue_**, in relation to a cheque, means the first delivery of the cheque to a person who takes the cheque as holder.
 
-institution to which the order is addressed;</dd>
+                    <a name="possess"></a>**_possession_**, in relation to a cheque, means possession (whether actual or constructive) of the cheque.
 
-<dt>(b)</dt><dd>a statement of the transaction giving rise to the order.
+                    <a name="order"></a>**_to or to the order of_** has the meaning given by subsection (1A).
 
-</dd>
+                    <a name="valu"></a>**_value_** means valuable consideration as defined by section 35.
 
-</dl></dl></dl>
+          (1A)  For the purposes of this Act, a cheque is payable **_to or to the order of_** a person or persons if:
 
-**
+                     (a)  it is expressed to be payable:
 
-###  CHEQUES ACT 1986- SECT 13  Order addressed to a financial institution 
-**
+                              (i)  to the person or persons; or
 
- <dl compact="">
+                             (ii)  to the order of the person or persons (or words to that effect); or
 
-<dt>(1)</dt><dd>An order to pay is not addressed to a financial institution unless:
+                            (iii)  to the person or persons or to the order of the person or persons (or words to that effect); and
 
-</dd> </dl>
+                     (b)  it is not also expressed to be payable to bearer.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  A reference in this Act to an act or thing being done in good faith is a reference to the act or thing being done honestly, whether or not the act or thing is done negligently.
 
-<dt>(a)</dt><dd>the order is addressed to a financial institution and to no other
+             (3)  Where a person obtains a cheque:
 
-person;</dd>
+                     (a)  by fraud, duress or other unlawful means; or
 
-<dt>(b)</dt><dd>the order is addressed to one financial institution only; and</dd>
+                     (b)  for an illegal consideration;
 
-<dt>(c)</dt><dd>the financial institution is named, or otherwise indicated with reasonable
+the person’s title to the cheque is defective.
 
-certainty, in the instrument containing the order.
+             (4)  Subsection (3) shall not be taken to limit by implication the circumstances in which the title of a person to a cheque is defective.
 
-</dd>
+             (5)  Where, at any time, a cheque appears on its face to have been drawn more than 15 months before that time, the cheque is, at that time, a stale cheque.
 
-</dl></dl></dl>
+             (6)  A reference in this Act to a signature or indorsement being written or placed on a cheque without the authority of the person whose signature or indorsement it purports to be includes a reference to the forging of the signature or indorsement.
 
-<dl compact="">
+             (7)  A reference in this Act to a cheque, or a copy of a cheque, being exhibited to a person includes a reference to the cheque or the copy, as the case may be, being delivered to the person.
 
-<dt>(2)</dt><dd>An order to pay may be an order to pay addressed to a financial
+             (8)  An alteration of a cheque is a material alteration if it alters, in any respect, a right, duty or liability of the drawer, an indorser or the drawee institution.
 
-institution notwithstanding that a person other than the financial institution
+##### <a id="4"></a>4  Application of rules in bankruptcy, laws of States and Territories and rules of the common law 
 
-on which the instrument containing the order is drawn, the payee or the drawer
+             (1)  Nothing in this Act affects the application in relation to cheques of the rules in bankruptcy in force under the _Bankruptcy Act 1966_ or the law of an external Territory.
 
-is specified in the instrument.
+             (2)  The laws of the States and Territories and the rules of the common law (including the law merchant), except in so far as they are inconsistent with the express provisions of this Act, continue to apply in relation to cheques.
 
-</dd> </dl>
+             (3)  The rules of the common law (including the law merchant) that apply to cheques drawn on banks also apply (by force of this subsection) to cheques drawn on financial institutions other than banks, as if those institutions were banks.
 
-**
+##### <a id="5"></a>5  Cheques a financial institution draws on itself
 
-###  CHEQUES ACT 1986- SECT 14  Order to pay on demand 
-**
+             (1)  Subject to subsection (2), a reference in this Act to a cheque includes a reference to a cheque that a financial institution draws on itself.
 
- <dl compact="">
+             (2)  Subsection (1) does not apply to a reference to a cheque in a provision in which a contrary intention appears, or in any of the following provisions:
 
-<dt>(1)</dt><dd>Subject to subsections&#160;(2) and (3), an order to pay is an order to
+                     (a)  sections 10, 11, 12, 13, 14 and 15;
 
-pay on demand if:
+                     (b)  subsection 17(3);
 
-</dd> </dl>
+                     (c)  subparagraph 59(b)(i);
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  subsections 60(1), 62(12) and 62A(8);
 
-<dt>(a)</dt><dd>the order is expressed to require payment on demand, at sight or on
+                     (e)  sections 88, 89, 90 and 91.
 
-presentation; or</dd>
+             (3)  Nothing in this Act (other than section 92, subsection 93(2) and section 94) is to be taken to affect any liability that, but for this Act, a financial institution would have in relation to a cheque drawn by it on itself.
 
-<dt>(b)</dt><dd>no time for payment is expressed in the instrument containing the order.
+             (4)  A reference in subsection (1) or (3) to a cheque drawn by a financial institution on itself is a reference to an instrument that would be a cheque if the drawer and drawee were not the same person.
 
-</dd>
+##### <a id="6"></a>6  Certain rights, duties and liabilities under Act may be altered by agreement
 
-</dl></dl></dl>
+             (1)  Subject to subsection (2), nothing in this Act shall be taken to prevent 2 or more persons negating, inverting or otherwise altering, by agreement, their rights, duties and liabilities in relation to one another under this Act.
 
-<dl compact="">
+             (2)  Section 5, this section and sections 7 to 16 (inclusive), 19 to 24 (inclusive), 30 to 32 (inclusive), 39 to 41 (inclusive), 43 to 45 (inclusive), 53 to 57 (inclusive), 61, 61A, 62, 62A, 64 to 67 (inclusive), 79, 88, 90 to 95 (inclusive), 97, 98, 100, 115 and 116 have effect notwithstanding any agreement to the contrary.
 
-<dt>(2)</dt><dd>Subject to subsection 16(3), an order to pay is not an order to pay on
+##### <a id="7"></a>7  Application of Act
 
-demand if the order is expressed to require, or requires by implication,
+             (1)  This Act applies only in relation to cheques drawn on or after the day on which this Act comes into operation.
 
-payment otherwise than on demand, at sight or on presentation.</dd> <dt>(3)</dt><dd>Without limiting the generality of subsection&#160;(2), an order to pay is not an order to pay on demand if the order is expressed to require, or requires by implication, payment only: </dd> </dl>
+             (2)  Where a cheque is dated, the cheque shall be conclusively presumed, for the purposes of subsection (1), to have been drawn on that day.
 
-<center>Back to Top</center>
+             (3)  Where a cheque is undated, the cheque shall, unless the contrary is proved, be presumed, for the purposes of subsection (1), to have been drawn on or after the day on which this Act comes into operation.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (4)  Where the drawer of an instrument that is signed, but is otherwise wanting in a material particular necessary for the instrument to be, on its face, a complete cheque, delivers the instrument to another person, on or after the day on which this Act comes into operation, in order that the instrument may be filled up as a complete cheque, this Act applies in relation to the filling up of the instrument.
 
-<dt>(a)</dt><dd>at or before a particular time; or</dd>
+##### <a id="8"></a>8  Extension of Act to external Territories
 
-<dt>(b)</dt><dd>where the instrument containing the order is presented at or before a
+                   This Act extends to every external Territory.
 
-particular time.
+##### <a id="9"></a>9  Act to bind Crown
 
-</dd>
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
 
-</dl></dl></dl>
+## Part II—Cheques
 
-**
+### Division 1—Form
 
-###  CHEQUES ACT 1986- SECT 15  Order to pay a sum certain 
-**
+##### <a id="10"></a>10  Cheque defined 
 
- <dl compact="">
+             (1)  A cheque is an unconditional order in writing that:
 
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), an order to pay is not an order to pay a
+                     (a)  is addressed by a person to another person, being a financial institution; and
 
-sum certain unless the sum ordered to be paid is specified with reasonable
+                     (b)  is signed by the person giving it; and
 
-certainty in the instrument containing the order.</dd> <dt>(2)</dt><dd>Where more than one sum is expressed to be payable in an instrument containing an order to pay, the lesser or least, as the case may be, of the sums so expressed to be payable shall be taken to be the only sum ordered to be paid by the instrument.</dd> <dt>(3)</dt><dd>An order to pay may be an order to pay a sum certain notwithstanding that the order requires a sum to be paid according to a rate of exchange specified in, or to be ascertained as directed by, the instrument containing the order.</dd> <dt>(4)</dt><dd>Where an instrument contains: </dd> </dl>
+                     (c)  requires the financial institution to pay on demand a sum certain in money.
 
-<dl compact=""><dl compact=""><dl compact="">
+Note:          In this Act, **_financial institution_** has a restricted meaning—see the definition in subsection 3(1).
 
-<dt>(a)</dt><dd>an order to pay a specified sum; and</dd>
+             (2)  An instrument that does not comply with subsection (1), or that orders any act to be done in addition to the payment of money, is not a cheque.
 
-<dt>(b)</dt><dd>an order to pay not more than a specified sum;
+##### <a id="11"></a>11  Order to pay
 
-</dd>
+                   An order to pay must be more than an authorization or request to pay.
 
-</dl></dl></dl>
+##### <a id="12"></a>12  Unconditional order to pay 
 
-the instrument shall be taken to require payment of the lesser of the sums so specified. 
+             (1)  An order to pay on a contingency is not an unconditional order to pay and the happening of the event does not make the order an unconditional order to pay.
 
-**
+             (2)  An order to pay shall not be taken not to be an unconditional order to pay by reason only that the order is coupled with either or both of the following:
 
-###  CHEQUES ACT 1986- SECT 16  Date of cheque etc. 
-**
+                     (a)  an indication of a particular account to be debited by the financial institution to which the order is addressed;
 
- <dl compact="">
+                     (b)  a statement of the transaction giving rise to the order.
 
-<dt>(1)</dt><dd>Where a cheque, or any indorsement of a cheque, is dated, the date shall,
+##### <a id="13"></a>13  Order addressed to a financial institution
 
-unless the contrary is proved, be presumed to be the day on which the cheque
+             (1)  An order to pay is not addressed to a financial institution unless:
 
-was drawn or the indorsement made, as the case may be.</dd> <dt>(2)</dt><dd>A cheque is not invalid by reason only that: </dd> </dl>
+                     (a)  the order is addressed to a financial institution and to no other person;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  the order is addressed to one financial institution only; and
 
-<dt>(a)</dt><dd>it is not dated;</dd>
+                     (c)  the financial institution is named, or otherwise indicated with reasonable certainty, in the instrument containing the order.
 
-<dt>(b)</dt><dd>it is antedated or post-dated; or</dd>
+             (2)  An order to pay may be an order to pay addressed to a financial institution notwithstanding that a person other than the financial institution on which the instrument containing the order is drawn, the payee or the drawer is specified in the instrument.
 
-<dt>(c)</dt><dd>the date it bears is a Sunday.
+##### <a id="14"></a>14  Order to pay on demand
 
-</dd>
+             (1)  Subject to subsections (2) and (3), an order to pay is an order to pay on demand if:
 
-</dl></dl></dl>
+                     (a)  the order is expressed to require payment on demand, at sight or on presentation; or
 
-<dl compact="">
+                     (b)  no time for payment is expressed in the instrument containing the order.
 
-<dt>(3)</dt><dd>For the purpose of determining whether a post-dated instrument is a
+             (2)  Subject to subsection 16(3), an order to pay is not an order to pay on demand if the order is expressed to require, or requires by implication, payment otherwise than on demand, at sight or on presentation.
 
-cheque, the fact that the instrument is post-dated shall be disregarded.</dd> <dt>(4)</dt><dd>A cheque is not incomplete or irregular on its face by reason only that it is post-dated (whether or not the date has arrived). </dd> </dl>
+             (3)  Without limiting the generality of subsection (2), an order to pay is not an order to pay on demand if the order is expressed to require, or requires by implication, payment only:
 
-**
+                     (a)  at or before a particular time; or
 
-###  CHEQUES ACT 1986- SECT 17  Optional stipulations 
-**
+                     (b)  where the instrument containing the order is presented at or before a particular time.
 
- <dl compact="">
+##### <a id="15"></a>15  Order to pay a sum certain
 
-<dt>(1)</dt><dd>The drawer of a cheque may, by an express stipulation written on the
+             (1)  Subject to subsection (2), an order to pay is not an order to pay a sum certain unless the sum ordered to be paid is specified with reasonable certainty in the instrument containing the order.
 
-cheque, waive, as regards the drawer, the right to presentment of the cheque.</dd> <dt>(2)</dt><dd>An indorser of a cheque may, by an express stipulation written on the cheque: </dd> </dl>
+             (2)  Where more than one sum is expressed to be payable in an instrument containing an order to pay, the lesser or least, as the case may be, of the sums so expressed to be payable shall be taken to be the only sum ordered to be paid by the instrument.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  An order to pay may be an order to pay a sum certain notwithstanding that the order requires a sum to be paid according to a rate of exchange specified in, or to be ascertained as directed by, the instrument containing the order.
 
-<dt>(a)</dt><dd>negative or limit the indorser's liability on the cheque; or</dd>
+             (4)  Where an instrument contains:
 
-<dt>(b)</dt><dd>waive, as regards the indorser, the right to presentment of the cheque.
+                     (a)  an order to pay a specified sum; and
 
-</dd>
+                     (b)  an order to pay not more than a specified sum;
 
-</dl></dl></dl>
+the instrument shall be taken to require payment of the lesser of the sums so specified.
 
-<dl compact="">
+##### <a id="16"></a>16  Date of cheque etc.
 
-<dt>(3)</dt><dd>A stipulation written on a cheque, being a stipulation of the kind
+             (1)  Where a cheque, or any indorsement of a cheque, is dated, the date shall, unless the contrary is proved, be presumed to be the day on which the cheque was drawn or the indorsement made, as the case may be.
 
-referred to in subsection&#160;(1), shall not be taken to affect the rights,
+             (2)  A cheque is not invalid by reason only that:
 
-duties and liabilities of the drawer and the drawee institution in relation to
+                     (a)  it is not dated;
 
-one another.
+                     (b)  it is antedated or post-dated; or
 
-</dd> </dl>
+                     (c)  the date it bears is a Sunday.
 
-**
+             (3)  For the purpose of determining whether a post-dated instrument is a cheque, the fact that the instrument is post-dated shall be disregarded.
 
-###  CHEQUES ACT 1986- SECT 18  Inchoate instruments 
-**
+             (4)  A cheque is not incomplete or irregular on its face by reason only that it is post-dated (whether or not the date has arrived).
 
- <dl compact="">
+##### <a id="17"></a>17   Optional stipulations
 
-<dt>(1)</dt><dd>Where the drawer of an instrument that is signed, but is otherwise wanting
+             (1)  The drawer of a cheque may, by an express stipulation written on the cheque, waive, as regards the drawer, the right to presentment of the cheque.
 
-in a material particular necessary for the instrument to be, on its face, a
+             (2)  An indorser of a cheque may, by an express stipulation written on the cheque:
 
-complete cheque, delivers the instrument to another person in order that the
+                     (a)  negative or limit the indorser’s liability on the cheque; or
 
-instrument may be filled up as a complete cheque, any person in possession of
+                     (b)  waive, as regards the indorser, the right to presentment of the cheque.
 
-the instrument shall be presumed, unless the contrary is proved, to have
+             (3)  A stipulation written on a cheque, being a stipulation of the kind referred to in subsection (1), shall not be taken to affect the rights, duties and liabilities of the drawer and the drawee institution in relation to one another.
 
-authority to fill up the instrument as a complete cheque in any way the person
+##### <a id="18"></a>18  Inchoate instruments
 
-sees fit.</dd> <dt>(2)</dt><dd>Subject to subsection&#160;(4), an instrument to which subsection&#160;(1) applies is not enforceable against the drawer or a person who becomes an indorser of the instrument before the instrument is filled up as a complete cheque unless the instrument is filled up within a reasonable time and strictly in accordance with the authority given.</dd> <dt>(3)</dt><dd>Reasonable time, for the purposes of subsection&#160;(2), is a question of fact.</dd> <dt>(4)</dt><dd>An instrument of the kind referred to in subsection&#160;(1) that has been filled up as a complete cheque shall, as regards a holder in due course, be conclusively presumed: </dd> </dl>
+             (1)  Where the drawer of an instrument that is signed, but is otherwise wanting in a material particular necessary for the instrument to be, on its face, a complete cheque, delivers the instrument to another person in order that the instrument may be filled up as a complete cheque, any person in possession of the instrument shall be presumed, unless the contrary is proved, to have authority to fill up the instrument as a complete cheque in any way the person sees fit.
 
-<center>Back to Top</center>
+             (2)  Subject to subsection (4), an instrument to which subsection (1) applies is not enforceable against the drawer or a person who becomes an indorser of the instrument before the instrument is filled up as a complete cheque unless the instrument is filled up within a reasonable time and strictly in accordance with the authority given.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  Reasonable time, for the purposes of subsection (2), is a question of fact.
 
-<dt>(a)</dt><dd>to have been delivered to another person in order that the instrument
+             (4)  An instrument of the kind referred to in subsection (1) that has been filled up as a complete cheque shall, as regards a holder in due course, be conclusively presumed:
 
-might be filled up as a complete cheque; and</dd>
+                     (a)  to have been delivered to another person in order that the instrument might be filled up as a complete cheque; and
 
-<dt>(b)</dt><dd>to have been filled up within a reasonable time and strictly in accordance
+                     (b)  to have been filled up within a reasonable time and strictly in accordance with the authority given.
 
-with the authority given.
+### Division 2—Order and bearer cheques
 
-</dd>
+##### <a id="19"></a>19  Meaning of specification of person in cheque as payee or indorsee
 
-</dl></dl></dl>
+             (1)  A person shall not be taken to be specified in a cheque as payee or indorsee unless the person:
 
-<center>**
+                     (a)  is named, or otherwise indicated with reasonable certainty, in the cheque; and
 
-###  CHEQUES ACT 1986<division>Division&#160;2&#151;Order and bearer cheques </division> 
-**</center>
+                     (b)  is not a fictitious or non-existing person.
 
-**
+             (2)  Where the holder for the time being of an office is specified in a cheque as payee or indorsee, the person who is the holder for the time being of the office shall be taken to be named in the cheque as payee or indorsee, as the case may be.
 
-###  CHEQUES ACT 1986- SECT 19  Meaning of specification of person in cheque as payee or indorsee 
-**
+##### <a id="20"></a>20  Cheques either payable to order or to bearer
 
-<dl compact="">
+                   A cheque is either payable to order or payable to bearer.
 
-<dt>(1)</dt><dd>A person shall not be taken to be specified in a cheque as payee or
+##### <a id="21"></a>21  Cheques payable to order 
 
-indorsee unless the person:
+                   A cheque is payable to order if the cheque is expressed, whether originally or by indorsement, to require the drawee institution to pay the sum ordered to be paid by the cheque to or to the order of:
 
-</dd> </dl>
+                     (a)  a person specified in the cheque as payee or indorsee; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  2 or more persons specified in the cheque, jointly or in the alternative, as payee or indorsee.
 
-<dt>(a)</dt><dd>is named, or otherwise indicated with reasonable certainty, in the cheque;
+##### <a id="22"></a>22  Cheques payable to bearer
 
-and</dd>
+                   Where a cheque is not payable to order, the cheque:
 
-<dt>(b)</dt><dd>is not a fictitious or non-existing person.
+                     (a)  is a cheque payable to bearer; and
 
-</dd>
+                     (b)  shall be taken to require the drawee institution to pay the sum ordered to be paid by the cheque to bearer.
 
-</dl></dl></dl>
+##### <a id="23"></a>23  Conversion of cheque payable to bearer into cheque payable to order
 
-<dl compact="">
+             (2)  Where the only, or the last, indorsement of a cheque requires the drawee institution to pay the sum ordered to be paid by the cheque to bearer, the holder may, using the signature of the indorser, convert the cheque into a cheque payable to order by adding to, or altering, the indorsement so that the cheque is expressed to require the drawee institution to pay the sum ordered to be paid by the cheque to or to the order of:
 
-<dt>(2)</dt><dd>Where the holder for the time being of an office is specified in a cheque
+                     (a)  a person specified in the cheque as indorsee; or
 
-as payee or indorsee, the person who is the holder for the time being of the
+                     (b)  2 or more persons specified in the cheque, jointly or in the alternative, as indorsee.
 
-office shall be taken to be named in the cheque as payee or indorsee, as the
+##### <a id="24"></a>24  Cheques payable to order of specified person
 
-case may be.
+                   Where a cheque is expressed, whether originally or by indorsement, to be payable to the order of a person specified in the cheque as payee or indorsee and not to or to the order of the person, the cheque is nevertheless payable to the person or to the person’s order, at the person’s option.
 
-</dd> </dl>
+### Division 3—Delivery
 
-**
+##### <a id="25"></a>25  Delivery essential for drawing or indorsement
 
-###  CHEQUES ACT 1986- SECT 20  Cheques either payable to order or to bearer 
-**
+                   A contract arising out of the drawing or an indorsement of a cheque is incomplete and revocable until delivery of the cheque.
 
- <dl compact="">
+##### <a id="26"></a>26  Requisites for effective delivery
 
-		A cheque is either payable to order or payable to bearer.
+                   The delivery of a cheque is not effective to complete a contract arising out of the drawing or an indorsement of the cheque unless the delivery is made by the drawer or indorser, as the case may be, in order to give effect to the drawing or indorsement, as the case may be.
 
- </dl>
+##### <a id="27"></a>27  Drawing or indorsement may be shown to be ineffective
 
-**
+                   Subject to section 28, the delivery of a cheque by the drawer or an indorser may be shown to have been conditional, or for a special purpose only, and not in order to issue the cheque or transfer it by negotiation, as the case may be.
 
-###  CHEQUES ACT 1986- SECT 21  Cheques payable to order  
-**
+##### <a id="28"></a>28   Presumption of effective delivery
 
- <dl compact="">
+             (1)  The drawer of a cheque shall:
 
-		A cheque is payable to order if the cheque is expressed, whether originally
+                     (a)  as regards a holder in due course—be conclusively presumed to have made an effective delivery of the cheque so as to complete the drawer’s contract on the cheque; and
 
-or by indorsement, to require the drawee institution to pay the sum ordered to
+                     (b)  as regards a holder who is not a holder in due course—be presumed, unless the contrary is proved, to have made an effective delivery of the cheque so as to complete the drawer’s contract on the cheque.
 
-be paid by the cheque to or to the order of:
+             (2)  An indorser of a cheque shall:
 
- </dl>
+                     (a)  as regards a holder in due course:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  where the holder in due course took the cheque from the indorser—be presumed, unless the contrary is proved, to have made an effective delivery of the cheque so as to complete the indorser’s contract on the cheque; or
 
-<dt>(a)</dt><dd>a person specified in the cheque as payee or indorsee; or</dd>
+                             (ii)  in any other case—be conclusively presumed to have made an effective delivery of the cheque so as to complete the indorser’s contract on the cheque; and
 
-<dt>(b)</dt><dd>2 or more persons specified in the cheque, jointly or in the alternative,
+                     (b)  as regards a holder who is not a holder in due course—be presumed, unless the contrary is proved, to have made an effective delivery of the cheque so as to complete the indorser’s contract on the cheque.
 
-as payee or indorsee.
+             (3)  Nothing in this section affects the operation of subsection 18(1) or (4) in relation to an instrument of the kind referred to in that first-mentioned subsection.
 
-</dd>
+##### <a id="29"></a>29  Delivery of cheque payable to bearer
 
-</dl></dl></dl>
+                   Where the holder of a cheque payable to bearer delivers the cheque to another person (whether or not the holder also indorses the cheque), the delivery of the cheque is effective to transfer the cheque by negotiation, whether or not the holder delivered the cheque to the other person in order to transfer the cheque by negotiation.
 
-**
+### Division 4—Capacity
 
-###  CHEQUES ACT 1986- SECT 22  Cheques payable to bearer 
-**
+##### <a id="30"></a>30  Capacity to incur liability on cheque
 
- <dl compact="">
+             (1)  Capacity to incur liability on a cheque is co-extensive with capacity to contract.
 
-		Where a cheque is not payable to order, the cheque:
+             (2)  Subsection (1) does not enable a corporation to incur liability on a cheque if, but for that subsection, it would not have capacity to incur liability on the cheque.
 
- </dl>
+             (3)  Where a cheque is drawn or issued by a person who does not have capacity or power to incur liability on a cheque, the cheque is nevertheless a valid cheque.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (4)  Where a cheque is indorsed by a person who does not have capacity or power to incur liability on a cheque, the indorsement is nevertheless effective as an indorsement of the cheque.
 
-<dt>(a)</dt><dd>is a cheque payable to bearer; and</dd>
+### Division 5—Signature
 
-<dt>(b)</dt><dd>shall be taken to require the drawee institution to pay the sum ordered to
+##### <a id="31"></a>31  Signature essential to liability on cheque
 
-be paid by the cheque to bearer.
+             (1)  Subject to this section and section 75, a person is not liable as the drawer or an indorser of a cheque unless the person signs the cheque as the drawer or an indorser, as the case may be.
 
-</dd>
+             (2)  Where a person signs a cheque in the person’s business name or trade name or in a name other than the person’s own name, the person is liable on the cheque as if the person had signed it in the person’s own name.
 
-</dl></dl></dl>
+             (3)  The signature of the name of a firm on a cheque shall be deemed to be the signature, by the person signing, of the names of all persons liable as partners in the firm.
 
-**
+             (4)  Nothing in subsection (1) affects the liability, under any other law of the Commonwealth or under a law of a State or Territory, of a person who signs, issues or authorizes to be signed or issued on behalf of a company a cheque, or an indorsement on a cheque, on which the name of the company does not appear in legible characters.
 
-###  CHEQUES ACT 1986- SECT 23  Conversion of cheque payable to bearer into cheque payable to order 
-**
+##### <a id="32"></a>32  Unauthorised signature
 
-<dl compact="">
+             (1)  Where a signature is written or placed on a cheque as that of the drawer without the authority of the person whose signature it purports to be (in this subsection referred to as the **_relevant person_**), the signature is wholly inoperative as that of the relevant person unless:
 
-<dt>(2)</dt><dd>Where the only, or the last, indorsement of a cheque requires the drawee
+                     (a)  the person against whom it is sought to assert a right on the cheque is estopped from denying the genuineness of the signature or the existence of authority for the signature, as the case requires; or
 
-institution to pay the sum ordered to be paid by the cheque to bearer, the
-
-holder may, using the signature of the indorser, convert the cheque into a
-
-cheque payable to order by adding to, or altering, the indorsement so that the
-
-cheque is expressed to require the drawee institution to pay the sum ordered to
-
-be paid by the cheque to or to the order of:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person specified in the cheque as indorsee; or</dd>
-
-<dt>(b)</dt><dd>2 or more persons specified in the cheque, jointly or in the alternative,
-
-as indorsee.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 24  Cheques payable to order of specified person 
-**
-
- <dl compact="">
-
-		Where a cheque is expressed, whether originally or by indorsement, to be
-
-payable to the order of a person specified in the cheque as payee or indorsee
-
-and not to or to the order of the person, the cheque is nevertheless payable to
-
-the person or to the person's order, at the person's option.
-
- </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;3&#151;Delivery </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 25  Delivery essential for drawing or indorsement 
-**
-
- <dl compact="">
-
-		A contract arising out of the drawing or an indorsement of a cheque is
-
-incomplete and revocable until delivery of the cheque.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 26  Requisites for effective delivery 
-**
-
- <dl compact="">
-
-		The delivery of a cheque is not effective to complete a contract arising out
-
-of the drawing or an indorsement of the cheque unless the delivery is made by
-
-the drawer or indorser, as the case may be, in order to give effect to the
-
-drawing or indorsement, as the case may be.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 27  Drawing or indorsement may be shown to be ineffective 
-**
-
- <dl compact="">
-
-		Subject to section&#160;28, the delivery of a cheque by the drawer or an
-
-indorser may be shown to have been conditional, or for a special purpose only,
-
-and not in order to issue the cheque or transfer it by negotiation, as the case
-
-may be.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 28  Presumption of effective delivery 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The drawer of a cheque shall:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>as regards a holder in due course&#151;be conclusively presumed to have made
-
-an effective delivery of the cheque so as to complete the drawer's contract on
-
-the cheque; and</dd>
-
-<dt>(b)</dt><dd>as regards a holder who is not a holder in due course&#151;be presumed, unless
-
-the contrary is proved, to have made an effective delivery of the cheque so as
-
-to complete the drawer's contract on the cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>An indorser of a cheque shall:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>as regards a holder in due course:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>where the holder in due course took the cheque from the indorser&#151;be
-
-presumed, unless the contrary is proved, to have made an effective delivery of
-
-the cheque so as to complete the indorser's contract on the cheque; or</dd>
-
-<dt>(ii)</dt><dd>in any other case&#151;be conclusively presumed to have made an effective
-
-delivery of the cheque so as to complete the indorser's contract on the cheque;
-
-and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>as regards a holder who is not a holder in due course&#151;be presumed, unless
-
-the contrary is proved, to have made an effective delivery of the cheque so as
-
-to complete the indorser's contract on the cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Nothing in this section affects the operation of subsection 18(1)
-
-or&#160;(4) in relation to an instrument of the kind referred to in that
-
-first-mentioned subsection.
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 29  Delivery of cheque payable to bearer 
-**
-
- <dl compact="">
-
-		Where the holder of a cheque payable to bearer delivers the cheque to another
-
-person (whether or not the holder also indorses the cheque), the delivery of
-
-the cheque is effective to transfer the cheque by negotiation, whether or not
-
-the holder delivered the cheque to the other person in order to transfer the
-
-cheque by negotiation.
-
- </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;4&#151;Capacity </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 30  Capacity to incur liability on cheque 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Capacity to incur liability on a cheque is co-extensive with capacity to
-
-contract.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) does not enable a corporation to incur liability on a cheque if, but for that subsection, it would not have capacity to incur liability on the cheque.</dd> <dt>(3)</dt><dd>Where a cheque is drawn or issued by a person who does not have capacity or power to incur liability on a cheque, the cheque is nevertheless a valid cheque.</dd> <dt>(4)</dt><dd>Where a cheque is indorsed by a person who does not have capacity or power to incur liability on a cheque, the indorsement is nevertheless effective as an indorsement of the cheque. </dd> </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;5&#151;Signature </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 31  Signature essential to liability on cheque 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to this section and section&#160;75, a person is not liable as the
-
-drawer or an indorser of a cheque unless the person signs the cheque as the
-
-drawer or an indorser, as the case may be.</dd> <dt>(2)</dt><dd>Where a person signs a cheque in the person's business name or trade name or in a name other than the person's own name, the person is liable on the cheque as if the person had signed it in the person's own name.</dd> <dt>(3)</dt><dd>The signature of the name of a firm on a cheque shall be deemed to be the signature, by the person signing, of the names of all persons liable as partners in the firm.</dd> <dt>(4)</dt><dd>Nothing in subsection&#160;(1) affects the liability, under any other law of the Commonwealth or under a law of a State or Territory, of a person who signs, issues or authorizes to be signed or issued on behalf of a company a cheque, or an indorsement on a cheque, on which the name of the company does not appear in legible characters. </dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 32  Unauthorised signature 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a signature is written or placed on a cheque as that of the drawer
-
-without the authority of the person whose signature it purports to be (in this
-
-subsection referred to as the _relevant person_), the signature is
-
-wholly inoperative as that of the relevant person unless:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person against whom it is sought to assert a right on the cheque is
-
-estopped from denying the genuineness of the signature or the existence of
-
-authority for the signature, as the case requires; or</dd>
-
-<dt>(b)</dt><dd>the signature is ratified or adopted by the relevant person;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the signature is ratified or adopted by the relevant person;
 
 but the signature operates as the signature of the person who wrote or placed it on the cheque in favour of any person who, in good faith and without notice that it had been written or placed on the cheque without the authority of the relevant person, pays the cheque or takes the cheque for value.
 
-<dl compact="">
+             (2)  Subject to sections 74 and 92, subsection 93(2), section 94 and subsections 95(1) and (3) and 98(1), where a signature is written or placed on a cheque otherwise than as that of the drawer without the authority of the person whose signature it purports to be (in this subsection referred to as the **_relevant person_**), the signature is wholly inoperative as that of the relevant person unless:
 
-<dt>(2)</dt><dd>Subject to sections&#160;74 and 92, subsection 93(2), section&#160;94 and
+                     (a)  the person against whom it is sought to assert a right on the cheque is estopped from denying the genuineness of the signature or the existence of authority for the signature, as the case requires; or
 
-subsections 95(1) and (3) and 98(1), where a signature is written or placed on
+                     (b)  the signature is ratified or adopted by the relevant person;
 
-a cheque otherwise than as that of the drawer without the authority of the
+but the signature operates as the signature of the person who wrote or placed it on the cheque in favour of any person who, in good faith and without notice that it had been written or placed on the cheque without the authority of the relevant person, pays the cheque or takes the cheque for value.
 
-person whose signature it purports to be (in this subsection referred to as
+##### <a id="33"></a>33  Person signing as agent or in representative capacity
 
-the _relevant person_), the signature is wholly inoperative as that
+             (1)  Where:
 
-of the relevant person unless:
+                     (a)  a person (in this subsection referred to as the **_signer_**) signs a cheque for or on behalf of a principal or in a representative capacity;
 
-</dd> </dl>
+                     (b)  the signer adds words to the signature indicating that the signer signs for or on behalf of a principal or in a representative capacity; and
 
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person against whom it is sought to assert a right on the cheque is
-
-estopped from denying the genuineness of the signature or the existence of
-
-authority for the signature, as the case requires; or</dd>
-
-<dt>(b)</dt><dd>the signature is ratified or adopted by the relevant person;
-
-</dd>
-
-</dl></dl></dl>
-
-but the signature operates as the signature of the person who wrote or placed it on the cheque in favour of any person who, in good faith and without notice that it had been written or placed on the cheque without the authority of the relevant person, pays the cheque or takes the cheque for value. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 33  Person signing as agent or in representative capacity 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person (in this subsection referred to as the _signer_)
-
-signs a cheque for or on behalf of a principal or in a representative
-
-capacity;</dd>
-
-<dt>(b)</dt><dd>the signer adds words to the signature indicating that the signer signs
-
-for or on behalf of a principal or in a representative capacity; and</dd>
-
-<dt>(c)</dt><dd>the person for or on whose behalf the signer signs the cheque is named, or
-
-otherwise indicated with reasonable certainty, in the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the person for or on whose behalf the signer signs the cheque is named, or otherwise indicated with reasonable certainty, in the cheque;
 
 the signer is not personally liable on the cheque.
 
-<dl compact="">
+             (2)  Where:
 
-<dt>(2)</dt><dd>Where:
+                     (a)  a person (in this subsection referred to as the **_signer_**) signs a cheque and adds words to the signature indicating that the signer signs for or on behalf of a principal or in a representative capacity, but:
 
-</dd> </dl>
+                              (i)  the signer does not in fact sign for or on behalf of the principal or in the representative capacity, as the case may be; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  the person for or on whose behalf the signer signs the cheque is not named, or otherwise indicated with reasonable certainty, in the cheque; or
 
-<dt>(a)</dt><dd>a person (in this subsection referred to as the _signer_)
+                    (b)    a person (in this subsection also referred to as the **_signer_**) signs a cheque and merely adds words to the signature describing the signer as an agent or as having a representative capacity;
 
-signs a cheque and adds words to the signature indicating that the signer signs
+the addition of those words does not prevent the signer from being personally liable on the cheque.
 
-for or on behalf of a principal or in a representative capacity, but:
+##### <a id="34"></a>34  Procuration signature
 
-</dd>
+                   Where an agent writes or places a signature by procuration on a cheque:
 
-</dl></dl></dl>
+                     (a)  the signature operates as notice that the agent has only limited authority to sign for the agent’s principal; and
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (b)  the principal is not bound by the signature unless the agent, in signing the cheque, acts within the limits of the agent’s actual authority.
 
-<dt>(i)</dt><dd>the signer does not in fact sign for or on behalf of the principal or in
+### Division 6—Consideration
 
-the representative capacity, as the case may be; or</dd>
+##### <a id="35"></a>35  Valuable consideration defined
 
-<dt>(ii)</dt><dd>the person for or on whose behalf the signer signs the cheque is not
+             (1)  Valuable consideration for a cheque may be constituted by:
 
-named, or otherwise indicated with reasonable certainty, in the cheque; or
+                     (a)  any consideration sufficient to support a simple contract; or
 
-</dd>
+                     (b)  an antecedent debt or liability.
 
-</dl></dl></dl></dl>
+             (2)  An antecedent debt or liability may constitute valuable consideration for a cheque whether or not the cheque is post-dated.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="36"></a>36  Presumption of value
 
-<dt>(b)</dt><dd>a person (in this subsection also referred to as the _signer_)
+                   The drawer and each indorser of a cheque shall, unless the contrary is proved, be presumed to have received value for the cheque.
 
-signs a cheque and merely adds words to the signature describing the signer as
+##### <a id="37"></a>37  Holder taking cheque for which value has been given
 
-an agent or as having a representative capacity;
+                   Where value has at any time been given for a cheque, the holder shall, as regards the drawer and indorsers who became indorsers before that time, be conclusively presumed to have taken the cheque for value.
 
-</dd>
+##### <a id="38"></a>38  Holder having lien
 
-</dl></dl></dl>
+                   A holder of a cheque who has a lien on the cheque (whether arising from contract or by operation of law) shall, to the extent of the amount for which the holder has the lien, be conclusively presumed to have taken the cheque for value.
 
-the addition of those words does not prevent the signer from being personally liable on the cheque. 
+## Part III—Negotiability of cheques
 
-**
+### Division 1—Transfer by negotiation
 
-###  CHEQUES ACT 1986- SECT 34  Procuration signature 
-**
+##### <a id="39"></a>39  Every cheque transferable by negotiation
 
- <dl compact="">
+             (1)  Every cheque may be transferred by negotiation until it is discharged.
 
-		Where an agent writes or places a signature by procuration on a cheque:
+             (2)  Subsection (1) has effect in relation to a cheque notwithstanding anything written or placed on the cheque.
 
- </dl>
+             (3)  Without limiting the generality of subsection (2), the crossing of a cheque does not affect the transferability of the cheque by negotiation.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (4)  Nothing in this section affects the transferability of a cheque otherwise than by negotiation.
 
-<dt>(a)</dt><dd>the signature operates as notice that the agent has only limited authority
+##### <a id="40"></a>40  Transfer of cheque by negotiation
 
-to sign for the agent's principal; and</dd>
+             (1)  The transfer of a cheque by negotiation is the transfer of the cheque from the holder to another person in such manner as to constitute the other person the holder.
 
-<dt>(b)</dt><dd>the principal is not bound by the signature unless the agent, in signing
+             (2)  A cheque payable to order is transferred by negotiation if:
 
-the cheque, acts within the limits of the agent's actual authority.
+                     (a)  it is indorsed by the holder; and
 
-</dd>
+                     (b)  the cheque is delivered so as to complete the contract arising out of the indorsement.
 
-</dl></dl></dl>
+             (3)  A cheque payable to bearer is transferred by negotiation if it is delivered by the holder to another person (whether or not the cheque is indorsed by the holder).
 
-<center>**
+##### <a id="41"></a>41  Requisites for indorsement
 
-###  CHEQUES ACT 1986<division>Division&#160;6&#151;Consideration </division> 
-**</center>
+             (1)  An indorsement of a cheque is not effective to transfer the cheque by negotiation unless:
 
-**
+                     (a)  the indorsement is written or placed on the cheque and signed by the indorser; and
 
-###  CHEQUES ACT 1986- SECT 35  Valuable consideration defined 
-**
+                     (b)  the indorsement is an indorsement of the entire cheque.
 
- <dl compact="">
+             (2)  An indorsement written or placed on an allonge to a cheque shall be taken to be written or placed, as the case may be, on the cheque.
 
-<dt>(1)</dt><dd>Valuable consideration for a cheque may be constituted by:
+             (3)  A mere signature on a cheque is, in point of form, sufficient for an indorsement of the cheque.
 
-</dd> </dl>
+             (4)  Without limiting the generality of paragraph (1)(b), an indorsement of a cheque that purports to transfer a part only of the sum ordered to be paid by the cheque is not effective to transfer the cheque by negotiation.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="42"></a>42  Transfer of order cheque without indorsement
 
-<dt>(a)</dt><dd>any consideration sufficient to support a simple contract; or</dd>
+             (1)  Where the holder of a cheque payable to order, without indorsing the cheque, delivers the cheque, for value, to another person in order to transfer the cheque by negotiation, the other person, by virtue of the delivery:
 
-<dt>(b)</dt><dd>an antecedent debt or liability.
+                     (a)  receives the title that the holder had in the cheque; and
 
-</dd>
+                     (b)  acquires the right to have the holder indorse the cheque to the other person.
 
-</dl></dl></dl>
+             (2)  Without limiting the generality of subsection 17(2), where a person is under an obligation by virtue of subsection (1) to indorse a cheque as an agent or in a representative capacity, the person may indorse the cheque in terms negativing the person’s own liability on the cheque.
 
-<center>Back to Top</center>
+##### <a id="43"></a>43  Indorsement of order cheque payable jointly to 2 or more persons
 
-<dl compact="">
+                   Where a cheque payable to order is expressed to require the drawee institution to pay the sum ordered to be paid by the cheque jointly to or to the order of 2 or more payees or indorsees who are not partners, all those persons must indorse the cheque in order to transfer the cheque by negotiation unless the person indorsing has, or the persons indorsing between them have, authority to sign for the person, or all the persons, not indorsing the cheque.
 
-<dt>(2)</dt><dd>An antecedent debt or liability may constitute valuable consideration for
+##### <a id="44"></a>44  Indorsement where payee or indorsee misdescribed
 
-a cheque whether or not the cheque is post-dated.
+                   Where, in a cheque payable to order:
 
-</dd> </dl>
+                     (a)  the payee or an indorsee is wrongly designated; or
 
-**
+                     (b)  the name of the payee or an indorsee is misspelt;
 
-###  CHEQUES ACT 1986- SECT 36  Presumption of value 
-**
+the payee or indorsee, as the case may be (in this section referred to as the **_relevant person_**), may indorse the cheque in accordance with section 41, but using the designation or spelling in the cheque. The relevant person may also add his or her proper signature, but this is not necessary for the indorsement to be effective.
 
- <dl compact="">
+##### <a id="45"></a>45  Conditional indorsement
 
-		The drawer and each indorser of a cheque shall, unless the contrary is
+                   Where an indorsement of a cheque purports to be conditional:
 
-proved, be presumed to have received value for the cheque.
+                     (a)  the indorsement is effective as an indorsement of the cheque, whether or not the condition is fulfilled;
 
- </dl>
+                     (b)  a person paying the cheque may disregard the condition and may pay the cheque to the indorsee or a subsequent holder, whether or not the condition is fulfilled; and
 
-**
+                     (c)  the fact that the indorsement purports to be conditional shall be disregarded for the purpose of determining whether the holder is a holder in due course.
 
-###  CHEQUES ACT 1986- SECT 37  Holder taking cheque for which value has been given 
-**
+##### <a id="46"></a>46  Transfer of stale or dishonoured cheque by negotiation
 
- <dl compact="">
+             (1)  Where a stale cheque is transferred by negotiation to a person, the person:
 
-		Where value has at any time been given for a cheque, the holder shall, as
+                     (a)  takes the cheque subject to any defect of title affecting the cheque at the time when the cheque became a stale cheque; and
 
-regards the drawer and indorsers who became indorsers before that time, be
+                     (b)  does not receive, and is not capable of giving, a better title to the cheque than the title that the person from whom the first-mentioned person took the cheque had.
 
-conclusively presumed to have taken the cheque for value.
+             (2)  Where:
 
- </dl>
+                     (a)  a cheque that has been dishonoured is transferred by negotiation to a person who takes the cheque with notice of the dishonour; and
 
-**
-
-###  CHEQUES ACT 1986- SECT 38  Holder having lien 
-**
-
- <dl compact="">
-
-		A holder of a cheque who has a lien on the cheque (whether arising from
-
-contract or by operation of law) shall, to the extent of the amount for which
-
-the holder has the lien, be conclusively presumed to have taken the cheque for
-
-value.
-
- </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<part>Part&#160;III&#151;Negotiability of cheques </part>
-**</center>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;1&#151;Transfer by negotiation </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 39  Every cheque transferable by negotiation 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Every cheque may be transferred by negotiation until it is discharged.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) has effect in relation to a cheque notwithstanding anything written or placed on the cheque.</dd> <dt>(3)</dt><dd>Without limiting the generality of subsection&#160;(2), the crossing of a cheque does not affect the transferability of the cheque by negotiation.</dd> <dt>(4)</dt><dd>Nothing in this section affects the transferability of a cheque otherwise than by negotiation. </dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 40  Transfer of cheque by negotiation 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The transfer of a cheque by negotiation is the transfer of the cheque from
-
-the holder to another person in such manner as to constitute the other person
-
-the holder.</dd> <dt>(2)</dt><dd>A cheque payable to order is transferred by negotiation if: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>it is indorsed by the holder; and</dd>
-
-<dt>(b)</dt><dd>the cheque is delivered so as to complete the contract arising out of the
-
-indorsement.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>A cheque payable to bearer is transferred by negotiation if it is
-
-delivered by the holder to another person (whether or not the cheque is
-
-indorsed by the holder).
-
-</dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 41  Requisites for indorsement 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>An indorsement of a cheque is not effective to transfer the cheque by
-
-negotiation unless:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the indorsement is written or placed on the cheque and signed by the
-
-indorser; and</dd>
-
-<dt>(b)</dt><dd>the indorsement is an indorsement of the entire cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>An indorsement written or placed on an allonge to a cheque shall be taken
-
-to be written or placed, as the case may be, on the cheque.</dd> <dt>(3)</dt><dd>A mere signature on a cheque is, in point of form, sufficient for an indorsement of the cheque.</dd> <dt>(4)</dt><dd>Without limiting the generality of paragraph&#160;(1)(b), an indorsement of a cheque that purports to transfer a part only of the sum ordered to be paid by the cheque is not effective to transfer the cheque by negotiation. </dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 42  Transfer of order cheque without indorsement 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the holder of a cheque payable to order, without indorsing the
-
-cheque, delivers the cheque, for value, to another person in order to transfer
-
-the cheque by negotiation, the other person, by virtue of the delivery:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>receives the title that the holder had in the cheque; and</dd>
-
-<dt>(b)</dt><dd>acquires the right to have the holder indorse the cheque to the other
-
-person.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Without limiting the generality of subsection 17(2), where a person is
-
-under an obligation by virtue of subsection&#160;(1) to indorse a cheque as an
-
-agent or in a representative capacity, the person may indorse the cheque in
-
-terms negativing the person's own liability on the cheque.
-
-</dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 43  Indorsement of order cheque payable jointly to 2 or more persons 
-**
-
-<dl compact="">
-
-		Where a cheque payable to order is expressed to require the drawee
-
-institution to pay the sum ordered to be paid by the cheque jointly to or to
-
-the order of 2 or more payees or indorsees who are not partners, all those
-
-persons must indorse the cheque in order to transfer the cheque by negotiation
-
-unless the person indorsing has, or the persons indorsing between them have,
-
-authority to sign for the person, or all the persons, not indorsing the cheque.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 44  Indorsement where payee or indorsee misdescribed 
-**
-
- <dl compact="">
-
-		Where, in a cheque payable to order:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the payee or an indorsee is wrongly designated; or</dd>
-
-<dt>(b)</dt><dd>the name of the payee or an indorsee is misspelt;
-
-</dd>
-
-</dl></dl></dl>
-
-the payee or indorsee, as the case may be (in this section referred to as the _relevant person_), may indorse the cheque in accordance with section&#160;41, but using the designation or spelling in the cheque. The relevant person may also add his or her proper signature, but this is not necessary for the indorsement to be effective. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 45  Conditional indorsement 
-**
-
- <dl compact="">
-
-		Where an indorsement of a cheque purports to be conditional:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the indorsement is effective as an indorsement of the cheque, whether or
-
-not the condition is fulfilled;</dd>
-
-<dt>(b)</dt><dd>a person paying the cheque may disregard the condition and may pay the
-
-cheque to the indorsee or a subsequent holder, whether or not the condition is
-
-fulfilled; and</dd>
-
-<dt>(c)</dt><dd>the fact that the indorsement purports to be conditional shall be
-
-disregarded for the purpose of determining whether the holder is a holder in
-
-due course.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 46  Transfer of stale or dishonoured cheque by negotiation 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a stale cheque is transferred by negotiation to a person, the person:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>takes the cheque subject to any defect of title affecting the cheque at
-
-the time when the cheque became a stale cheque; and</dd>
-
-<dt>(b)</dt><dd>does not receive, and is not capable of giving, a better title to the
-
-cheque than the title that the person from whom the first-mentioned person took
-
-the cheque had.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque that has been dishonoured is transferred by negotiation to a
-
-person who takes the cheque with notice of the dishonour; and</dd>
-
-<dt>(b)</dt><dd>the cheque is not a stale cheque at the time of the transfer;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the cheque is not a stale cheque at the time of the transfer;
 
 the person takes the cheque subject to any defect of title affecting the cheque at the time when the cheque was dishonoured.
 
-<dl compact="">
+             (3)  Where a cheque is a stale cheque, every transfer of the cheque by negotiation shall, unless the contrary is proved, be presumed to have been effected before the cheque became a stale cheque.
 
-<dt>(3)</dt><dd>Where a cheque is a stale cheque, every transfer of the cheque by
+##### <a id="47"></a>47  Transfer by negotiation back to drawer or indorser
 
-negotiation shall, unless the contrary is proved, be presumed to have been
+             (1)  Where a cheque is transferred by negotiation back to the drawer, the drawer:
 
-effected before the cheque became a stale cheque.
+                     (a)  may strike out the indorsements (if any) of the cheque; and
 
-</dd> </dl>
+                     (b)  may, whether or not the indorsements have been struck out, re-issue the cheque, but is not entitled to enforce payment against any person to whom the drawer was previously liable.
 
-**
+             (2)  Where a cheque is transferred by negotiation back to an indorser, the indorser:
 
-###  CHEQUES ACT 1986- SECT 47  Transfer by negotiation back to drawer or indorser 
-**
+                     (a)  may strike out the indorser’s own indorsement and subsequent indorsements (if any); and
 
- <dl compact="">
+                     (b)  may, whether or not the indorser’s own indorsement and subsequent indorsements have been struck out, further transfer the cheque by negotiation, but is not entitled to enforce payment against any person to whom the indorser was previously liable.
 
-<dt>(1)</dt><dd>Where a cheque is transferred by negotiation back to the drawer, the
+##### <a id="48"></a>48  Order of indorsements
 
-drawer:
+                   Where there are 2 or more indorsements of a cheque, the indorsements shall, unless the contrary is proved, be presumed to have been made in the order (if any) in which they appear on the cheque.
 
-</dd> </dl>
+##### <a id="49"></a>49  Rights acquired by transfer by negotiation
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The holder of a cheque may sue on the cheque in the holder’s own name.
 
-<dt>(a)</dt><dd>may strike out the indorsements (if any) of the cheque; and</dd>
+             (2)  A holder of a cheque who is a holder in due course:
 
-<dt>(b)</dt><dd>may, whether or not the indorsements have been struck out, re-issue the
+                     (a)  holds the cheque free from any defect in the title of prior parties as well as from mere personal defences available to prior parties against one another; and
 
-cheque, but is not entitled to enforce payment against any person to whom the
+                     (b)  may enforce payment of the cheque against any person liable on the cheque.
 
-drawer was previously liable.
+             (3)  Where:
 
-</dd>
+                     (a)  the title of the holder of a cheque is defective; and
 
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Where a cheque is transferred by negotiation back to an indorser, the
-
-indorser:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>may strike out the indorser's own indorsement and subsequent indorsements
-
-(if any); and</dd>
-
-<dt>(b)</dt><dd>may, whether or not the indorser's own indorsement and subsequent
-
-indorsements have been struck out, further transfer the cheque by negotiation,
-
-but is not entitled to enforce payment against any person to whom the indorser
-
-was previously liable.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 48  Order of indorsements 
-**
-
- <dl compact="">
-
-		Where there are 2 or more indorsements of a cheque, the indorsements shall,
-
-unless the contrary is proved, be presumed to have been made in the order (if
-
-any) in which they appear on the cheque.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 49  Rights acquired by transfer by negotiation 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The holder of a cheque may sue on the cheque in the holder's own name.</dd> <dt>(2)</dt><dd>A holder of a cheque who is a holder in due course: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>holds the cheque free from any defect in the title of prior parties as
-
-well as from mere personal defences available to prior parties against one
-
-another; and</dd>
-
-<dt>(b)</dt><dd>may enforce payment of the cheque against any person liable on the cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the title of the holder of a cheque is defective; and</dd>
-
-<dt>(b)</dt><dd>the holder transfers the cheque by negotiation to a holder in due course;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the holder transfers the cheque by negotiation to a holder in due course;
 
 the holder in due course receives a good and complete title to the cheque.
 
-<center>**
+### Division 2—Holder in due course
 
-###  CHEQUES ACT 1986<division>Division&#160;2&#151;Holder in due course </division> 
-**</center>
+##### <a id="50"></a>50  Holder in due course defined
 
-**
+             (1)  The holder of a cheque is a holder in due course if:
 
-###  CHEQUES ACT 1986- SECT 50  Holder in due course defined 
-**
+                     (a)  the cheque was transferred by negotiation to the holder and, at the time when the holder took the cheque, the cheque:
 
- <dl compact="">
+                              (i)  was complete and regular on the face of it;
 
-<dt>(1)</dt><dd>The holder of a cheque is a holder in due course if:
+                             (ii)  was not a stale cheque; and
 
-</dd> </dl>
+                            (iii)  did not bear a crossing of the kind referred to in paragraph 53(1)(b); and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  the holder took the cheque:
 
-<dt>(a)</dt><dd>the cheque was transferred by negotiation to the holder and, at the time
+                              (i)  in good faith;
 
-when the holder took the cheque, the cheque:
+                             (ii)  for value; and
 
-</dd>
+                            (iii)  without notice:
 
-</dl></dl></dl>
+                                        (A)  of any dishonour of the cheque; or
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                                        (B)  of any defect in the title of the person who transferred the cheque to the holder or that the person who transferred the cheque to the holder had no title to the cheque.
 
-<dt>(i)</dt><dd>was complete and regular on the face of it;</dd>
+             (2)  Without limiting the generality of paragraph (1)(b), the holder of a cheque shall, for the purposes of that paragraph, be deemed to have taken the cheque with notice of a defect in the title of the person who transferred the cheque to the holder if the holder took the cheque with notice that the person transferred the cheque to the holder in breach of faith or under circumstances amounting to a fraud.
 
-<dt>(ii)</dt><dd>was not a stale cheque; and</dd>
+##### <a id="51"></a>51  Presumption that holder is holder in due course
 
-<dt>(iii)</dt><dd>did not bear a crossing of the kind referred to in paragraph 53(1)(b);
+             (1)  Subject to subsection (2), the holder of a cheque shall, unless the contrary is proved, be presumed to be a holder in due course.
 
-and
+             (2)  Where, in an action or proceeding on a cheque, it is admitted or proved that the drawing or issue, or a transfer by negotiation, of the cheque is affected by fraud, duress or illegality, the holder shall not be presumed, by virtue of subsection (1), to be a holder in due course unless and until the holder proves that, after the alleged fraud, duress or illegality, value was, in good faith, given for the cheque.
 
-</dd>
+##### <a id="52"></a>52  Holder deriving title through holder in due course
 
-</dl></dl></dl></dl>
+                   A holder of a cheque (whether or not the holder took the cheque for value) who:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  derives title to the cheque through a holder in due course; and
 
-<dt>(b)</dt><dd>the holder took the cheque:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in good faith;</dd>
-
-<dt>(ii)</dt><dd>for value; and</dd>
-
-<dt>(iii)</dt><dd>without notice:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	of any dishonour of the cheque; or
- 	(B)	of any defect in the title of the person who transferred the cheque to the holder or that the person who transferred the cheque to the holder had no title to the cheque.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Without limiting the generality of paragraph&#160;(1)(b), the holder of a
-
-cheque shall, for the purposes of that paragraph, be deemed to have taken the
-
-cheque with notice of a defect in the title of the person who transferred the
-
-cheque to the holder if the holder took the cheque with notice that the person
-
-transferred the cheque to the holder in breach of faith or under circumstances
-
-amounting to a fraud.
-
-</dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 51  Presumption that holder is holder in due course 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), the holder of a cheque shall, unless the
-
-contrary is proved, be presumed to be a holder in due course.</dd> <dt>(2)</dt><dd>Where, in an action or proceeding on a cheque, it is admitted or proved that the drawing or issue, or a transfer by negotiation, of the cheque is affected by fraud, duress or illegality, the holder shall not be presumed, by virtue of subsection&#160;(1), to be a holder in due course unless and until the holder proves that, after the alleged fraud, duress or illegality, value was, in good faith, given for the cheque. </dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 52  Holder deriving title through holder in due course 
-**
-
- <dl compact="">
-
-		A holder of a cheque (whether or not the holder took the cheque for value)
-
-who:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>derives title to the cheque through a holder in due course; and</dd>
-
-<dt>(b)</dt><dd>is not a party to any fraud, duress or illegality affecting the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  is not a party to any fraud, duress or illegality affecting the cheque;
 
 has, as regards the drawer and the indorsers prior to the holder in due course, all the rights of the holder in due course.
 
-<center>Back to Top</center>
+### Division 3—Crossings
 
-<center>**
+##### <a id="53"></a>53  Crossing and crossed cheque defined
 
-###  CHEQUES ACT 1986<division>Division&#160;3&#151;Crossings </division> 
-**</center>
+             (1)  Where a cheque clearly bears across the front of the cheque the addition of:
 
-**
+                     (a)  2 parallel transverse lines; or
 
-###  CHEQUES ACT 1986- SECT 53  Crossing and crossed cheque defined 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a cheque clearly bears across the front of the cheque the addition
-
-of:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>2 parallel transverse lines; or</dd>
-
-<dt>(b)</dt><dd>2 parallel transverse lines with the words _not negotiable_
-
-between, or substantially between, the lines;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  2 parallel transverse lines with the words **_not negotiable_**  between, or substantially between, the lines;
 
 the addition is a crossing of the cheque, and the cheque is a crossed cheque.
 
-<dl compact="">
+             (2)  Nothing written or placed on a cheque, other than an addition of a kind referred to in subsection (1), is effective as a crossing of the cheque.
 
-<dt>(2)</dt><dd>Nothing written or placed on a cheque, other than an addition of a kind
+             (3)  Without limiting the generality of subsection (2), the addition of the words **_not negotiable_** to a cheque otherwise than between, or substantially between, 2 parallel transverse lines across the front of the cheque is not effective as a crossing of the cheque.
 
-referred to in subsection&#160;(1), is effective as a crossing of the cheque.</dd> <dt>(3)</dt><dd>Without limiting the generality of subsection&#160;(2), the addition of the words _not negotiable_ to a cheque otherwise than between, or substantially between, 2 parallel transverse lines across the front of the cheque is not effective as a crossing of the cheque. </dd> </dl>
+##### <a id="54"></a>54  Effect of crossing on payment of cheque
 
-**
+                   A crossing of a cheque has effect as a direction by the drawer to the drawee institution not to pay the cheque otherwise than to a financial institution.
 
-###  CHEQUES ACT 1986- SECT 54  Effect of crossing on payment of cheque 
-**
+##### <a id="55"></a>55  Effect of taking cheque crossed _not negotiable_ 
 
- <dl compact="">
+                   Where a cheque that bears a crossing of the kind referred to in paragraph 53(1)(b) is transferred by negotiation to a person, the person does not receive, and is not capable of giving, a better title to the cheque than the title that the person from whom the first-mentioned person took the cheque had.
 
-		A crossing of a cheque has effect as a direction by the drawer to the drawee
+##### <a id="56"></a>56  Persons who may add crossing to cheque
 
-institution not to pay the cheque otherwise than to a financial institution.
+                   A crossing may be added to a cheque by:
 
- </dl>
+                     (a)  the drawer; or
 
-**
+                     (b)  any other person in possession of the cheque.
 
-###  CHEQUES ACT 1986- SECT 55  Effect of taking cheque crossed _not negotiable_  
-**
+##### <a id="57"></a>57  Multiple crossings
 
- <dl compact="">
+             (1)  A person in possession of a cheque may add a crossing to the cheque notwithstanding that, when the cheque came into the person’s possession, a crossing had already been added to the cheque.
 
-		Where a cheque that bears a crossing of the kind referred to in paragraph
+             (2)  A person in possession of a cheque that, when it came into the person’s possession, bore across the front of the cheque 2 parallel transverse lines, without the words **_not negotiable_** between, or substantially between, the lines, may add those words between, or substantially between, the lines.
 
-53(1)(b) is transferred by negotiation to a person, the person does not
+## Part IV—Presentment and dishonour
 
-receive, and is not capable of giving, a better title to the cheque than the
+### Division 1—Presentment
 
-title that the person from whom the first-mentioned person took the cheque had.
+##### <a id="58"></a>58  Drawer and indorsers of cheque not liable unless cheque presented
 
- </dl>
+                   Subject to section 59, a person who is the drawer or an indorser of a cheque is not liable on the cheque unless the cheque is duly presented for payment.
 
-**
+##### <a id="59"></a>59  When presentment dispensed with
 
-###  CHEQUES ACT 1986- SECT 56  Persons who may add crossing to cheque 
-**
+                   Presentment of a cheque for payment is dispensed with:
 
- <dl compact="">
+                     (a)  where the cheque cannot, with the exercise of reasonable diligence, be duly presented; or
 
-		A crossing may be added to a cheque by:
+                    (aa)  if the drawee institution has become a failed financial institution within the meaning of subsection 70A(2); or
 
- </dl>
+                     (b)  as regards the drawer, in the following cases, namely:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  where:
 
-<dt>(a)</dt><dd>the drawer; or</dd>
+                                        (A)  the drawee institution is not, as between the drawer and itself, under an obligation to pay the cheque; and
 
-<dt>(b)</dt><dd>any other person in possession of the cheque.
+                                        (B)  the drawer had no reason to believe, at the time of the issue of the cheque, that the cheque would be paid if duly presented;
 
-</dd>
+                             (ii)  where the drawer has, expressly or by implication, waived the right to presentment; or
 
-</dl></dl></dl>
+                     (c)  as regards an indorser, where the indorser has, expressly or by implication, waived the right to presentment.
 
-**
+##### <a id="60"></a>60  Effect of failure to present within reasonable time
 
-###  CHEQUES ACT 1986- SECT 57  Multiple crossings 
-**
+             (1)  Where:
 
- <dl compact="">
+                     (a)  a cheque is not duly presented for payment within a reasonable time after its issue;
 
-<dt>(1)</dt><dd>A person in possession of a cheque may add a crossing to the cheque
+                     (b)  the drawee institution becomes insolvent after the issue of the cheque;
 
-notwithstanding that, when the cheque came into the person's possession, a
+                     (c)  the drawer is, by reason of the insolvency of the drawee institution, unable to obtain payment from the drawee institution of the whole or a part of funds maintained with the drawee institution to meet the cheque; and
 
-crossing had already been added to the cheque.</dd> <dt>(2)</dt><dd>A person in possession of a cheque that, when it came into the person's possession, bore across the front of the cheque 2 parallel transverse lines, without the words _not negotiable_ between, or substantially between, the lines, may add those words between, or substantially between, the lines. </dd> </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<part>Part&#160;IV&#151;Presentment and dishonour </part>
-**</center>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;1&#151;Presentment </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 58  Drawer and indorsers of cheque not liable unless cheque presented 
-**
-
-<dl compact="">
-
-		Subject to section&#160;59, a person who is the drawer or an indorser of a
-
-cheque is not liable on the cheque unless the cheque is duly presented for
-
-payment.
-
- </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 59  When presentment dispensed with 
-**
-
- <dl compact="">
-
-		Presentment of a cheque for payment is dispensed with:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>where the cheque cannot, with the exercise of reasonable diligence, be
-
-duly presented; or</dd>
-
-<dt>(aa)</dt><dd>if the drawee institution has become a failed financial institution
-
-within the meaning of subsection 70A(2); or</dd>
-
-<dt>(b)</dt><dd>as regards the drawer, in the following cases, namely:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>where:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	the drawee institution is not, as between the drawer and itself, under an obligation to pay the cheque; and
- 	(B)	the drawer had no reason to believe, at the time of the issue of the cheque, that the cheque would be paid if duly presented;
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(ii)</dt><dd>where the drawer has, expressly or by implication, waived the right to
-
-presentment; or
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>as regards an indorser, where the indorser has, expressly or by
-
-implication, waived the right to presentment.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 60  Effect of failure to present within reasonable time 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque is not duly presented for payment within a reasonable time after
-
-its issue;</dd>
-
-<dt>(b)</dt><dd>the drawee institution becomes insolvent after the issue of the cheque;</dd>
-
-<dt>(c)</dt><dd>the drawer is, by reason of the insolvency of the drawee institution,
-
-unable to obtain payment from the drawee institution of the whole or a part of
-
-funds maintained with the drawee institution to meet the cheque; and</dd>
-
-<dt>(d)</dt><dd>the drawer assigns to the holder the drawer's rights against the drawee
-
-institution in respect of those funds or that part of those funds, as the case
-
-may be;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  the drawer assigns to the holder the drawer’s rights against the drawee institution in respect of those funds or that part of those funds, as the case may be;
 
 the drawer is not liable on the cheque to the extent of those funds or that part of those funds, as the case may be.
 
-<dl compact="">
+             (2)  Due presentment of a cheque for payment is not effective to render an indorser liable on the cheque unless the presentment is effected within a reasonable time after its indorsement by the indorser.
 
-<dt>(2)</dt><dd>Due presentment of a cheque for payment is not effective to render an
+             (3)  In determining what is a reasonable time for the purposes of subsection (1) or (2), regard shall be had to:
 
-indorser liable on the cheque unless the presentment is effected within a
+                     (a)  the fact that the instrument is a cheque and that it is reasonable to expect a cheque to be presented for payment promptly;
 
-reasonable time after its indorsement by the indorser.</dd> <dt>(3)</dt><dd>In determining what is a reasonable time for the purposes of subsection&#160;(1) or (2), regard shall be had to: </dd> </dl>
+                     (b)  usage in relation to the presentment of cheques, including usage of trade and of financial institutions; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the facts of the particular case, including:
 
-<dt>(a)</dt><dd>the fact that the instrument is a cheque and that it is reasonable to
+                              (i)  the nature of the cheque and, in particular, but without limiting the generality of the foregoing, the date of the cheque (if any) and the sum ordered to be paid by the cheque; and
 
-expect a cheque to be presented for payment promptly;</dd>
+                             (ii)  whether any delay in presenting the cheque for payment was:
 
-<dt>(b)</dt><dd>usage in relation to the presentment of cheques, including usage of trade
+                                        (A)  caused by circumstances beyond the control of the holder; and
 
-and of financial institutions; and</dd>
+                                        (B)  not imputable to default, misconduct or negligence on the part of the holder.
 
-<dt>(c)</dt><dd>the facts of the particular case, including:
+##### <a id="61"></a>61  Due presentment defined
 
-</dd>
+             (1)  Subject to subsection (2), a cheque is duly presented for payment if a demand for payment of the cheque is made, in accordance with section 62, 62A or 63, on the drawee institution by or on behalf of the holder.
 
-</dl></dl></dl>
+             (2)  Where a demand for payment of a cheque is made before the date of the cheque arrives, the cheque shall not, by reason of the demand, be taken to have been duly presented for payment.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+##### <a id="61A"></a>61A  Presentment by financial institution
 
-<dt>(i)</dt><dd>the nature of the cheque and, in particular, but without limiting the
+                   A financial institution may present a cheque for payment in either of the following ways:
 
-generality of the foregoing, the date of the cheque (if any) and the sum
+                     (a)  by making an **_external presentment_** of the cheque (see section 62);
 
-ordered to be paid by the cheque; and</dd>
+                     (b)  by making an **_internal presentment_** of the cheque (see section 62A).
 
-<dt>(ii)</dt><dd>whether any delay in presenting the cheque for payment was:
+##### <a id="62"></a>62  External presentment by financial institution
 
-</dd>
+             (1)  A financial institution (the **_collecting institution_**) makes an external presentment of a cheque if the collecting institution makes a demand for payment of the cheque on the drawee institution (which is not the same institution as the collecting institution) on behalf of a customer, another financial institution or otherwise and the demand:
 
-</dl></dl></dl></dl>
+                     (a)  is made:
 
-	(A)	caused by circumstances beyond the control of the holder; and
- 	(B)	not imputable to default, misconduct or negligence on the part of the holder. 
+                              (i)  by exhibiting the cheque to the drawee institution at the proper place in relation to the cheque; and
 
-<center>Back to Top</center>
+                             (ii)  at a reasonable hour on a day on which the drawee institution is open for business at that place; or
 
-**
+                     (b)  is made:
 
-###  CHEQUES ACT 1986- SECT 61  Due presentment defined 
-**
+                              (i)  by exhibiting the cheque to the drawee institution at a place that is a designated exhibition place in relation to the cheque for the purposes of this subsection; and
 
- <dl compact="">
+                             (ii)  at a time that is a designated time for the drawee institution at that place; or
 
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), a cheque is duly presented for payment if
+                     (c)  is made:
 
-a demand for payment of the cheque is made, in accordance with section&#160;62,
+                              (i)  otherwise than by exhibiting the cheque; and
 
-62A or 63, on the drawee institution by or on behalf of the holder.</dd> <dt>(2)</dt><dd>Where a demand for payment of a cheque is made before the date of the cheque arrives, the cheque shall not, by reason of the demand, be taken to have been duly presented for payment. </dd> </dl>
+                             (ii)  at a place that is a designated place in relation to the cheque for the purposes of this subsection; and
 
-**
+                            (iii)  at a time that is a designated time for the drawee institution at that place; and
 
-###  CHEQUES ACT 1986- SECT 61A  Presentment by financial institution 
-**
+                            (iv)  using a means of communication that is a designated means of communication for the drawee institution at that place.
 
- <dl compact="">
+Note 1:       Section 64 defines **_proper place_**.
 
-		A financial institution may present a cheque for payment in either of the
+Note 2:       Section 65 defines **_designated exhibition place_**, **_designated time_** and **_designated means of communication_**.
 
-following ways:
+             (3)  Where the cheque is not exhibited to the drawee institution, the demand shall:
 
- </dl>
+                     (a)  identify the cheque with reasonable certainty; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  be in a form that is intelligible to, or readily decipherable by, the drawee institution.
 
-<dt>(a)</dt><dd>by making an _external presentment_ of the cheque (see
+          (3A)  The demand must also specify, in a form that is intelligible to, or readily decipherable by, the drawee institution:
 
-section&#160;62);</dd>
+                     (a)  a place as the nominated place in relation to the cheque for the purposes of subsection (6); and
 
-<dt>(b)</dt><dd>by making an _internal presentment_ of the cheque (see
+                     (b)  the days on which, and the hours during which, the collecting institution will be open for business at the place; and
 
-section&#160;62A).
+                     (c)  the means by which communications may be made to the collecting institution at the place.
 
-</dd>
+             (4)  Without limiting the generality of subsection (3), the demand shall, for the purposes of that subsection, be taken to identify the cheque with reasonable certainty if:
 
-</dl></dl></dl>
+                     (a)  the sum ordered to be paid by the cheque;
 
-**
+                     (b)  the cheque number;
 
-###  CHEQUES ACT 1986- SECT 62  External presentment by financial institution 
-**
+                     (c)  the account against which the cheque is drawn; and
 
- <dl compact="">
-
-<dt>(1)</dt><dd>A financial institution (the _collecting institution_) makes
-
-an external presentment of a cheque if the collecting institution makes a
-
-demand for payment of the cheque on the drawee institution (which is not the
-
-same institution as the collecting institution) on behalf of a customer,
-
-another financial institution or otherwise and the demand:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>is made:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>by exhibiting the cheque to the drawee institution at the proper place in
-
-relation to the cheque; and</dd>
-
-<dt>(ii)</dt><dd>at a reasonable hour on a day on which the drawee institution is open for
-
-business at that place; or
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>is made:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>by exhibiting the cheque to the drawee institution at a place that is a
-
-designated exhibition place in relation to the cheque for the purposes of this
-
-subsection; and</dd>
-
-<dt>(ii)</dt><dd>at a time that is a designated time for the drawee institution at that
-
-place; or
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>is made:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>otherwise than by exhibiting the cheque; and</dd>
-
-<dt>(ii)</dt><dd>at a place that is a designated place in relation to the cheque for the
-
-purposes of this subsection; and</dd>
-
-<dt>(iii)</dt><dd>at a time that is a designated time for the drawee institution at that
-
-place; and</dd>
-
-<dt>(iv)</dt><dd>using a means of communication that is a designated means of
-
-communication for the drawee institution at that place.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-Note 1:	Section&#160;64 defines _proper place_. Note 2:	Section&#160;65 defines _designated exhibition place_, _designated time_ and _designated means of communication_.  </dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where the cheque is not exhibited to the drawee institution, the demand
-
-shall:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>identify the cheque with reasonable certainty; and</dd>
-
-<dt>(b)</dt><dd>be in a form that is intelligible to, or readily decipherable by, the
-
-drawee institution.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3A)</dt><dd>The demand must also specify, in a form that is intelligible to, or
-
-readily decipherable by, the drawee institution:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a place as the nominated place in relation to the cheque for the purposes
-
-of subsection&#160;(6); and</dd>
-
-<dt>(b)</dt><dd>the days on which, and the hours during which, the collecting institution
-
-will be open for business at the place; and</dd>
-
-<dt>(c)</dt><dd>the means by which communications may be made to the collecting
-
-institution at the place.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>Without limiting the generality of subsection&#160;(3), the demand shall,
-
-for the purposes of that subsection, be taken to identify the cheque with
-
-reasonable certainty if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the sum ordered to be paid by the cheque;</dd>
-
-<dt>(b)</dt><dd>the cheque number;</dd>
-
-<dt>(c)</dt><dd>the account against which the cheque is drawn; and</dd>
-
-<dt>(d)</dt><dd>the proper place in relation to the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  the proper place in relation to the cheque;
 
 are specified in the demand or are readily ascertainable by the drawee institution from the demand.
 
-<dl compact="">
+          (4A)  A time is a **_nominated time_** for the collecting institution at a particular place if the time is covered by the specification in the demand of the days on which, and the hours during which, the collecting institution will be open for business at that place.
 
-<dt>(4A)</dt><dd>A time is a _nominated time_ for the collecting institution
+          (4B)  A means of communication is a **_nominated means of communication_** for the collecting institution at a particular place if the demand specifies the means as a means by which communications may be made to the collecting institution at that place.
 
-at a particular place if the time is covered by the specification in the demand
+             (5)  Where the cheque is not exhibited to the drawee institution, the drawee institution:
 
-of the days on which, and the hours during which, the collecting institution
+                     (a)  may request the collecting institution to furnish specified further particulars in relation to the cheque to it; or
 
-will be open for business at that place.</dd> <dt>(4B)</dt><dd>A means of communication is a _nominated means of communication_ for the collecting institution at a particular place if the demand specifies the means as a means by which communications may be made to the collecting institution at that place.</dd> <dt>(5)</dt><dd>Where the cheque is not exhibited to the drawee institution, the drawee institution: </dd> </dl>
+                     (b)  may, whether or not a request has been made by virtue of paragraph (a), request the collecting institution to exhibit the cheque, or a copy of the cheque of a specified kind, to it.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (6)  The request must be made:
 
-<dt>(a)</dt><dd>may request the collecting institution to furnish specified further
+                     (a)  to the collecting institution at a place that is a nominated place in relation to the cheque for the purposes of this subsection; and
 
-particulars in relation to the cheque to it; or</dd>
+                     (b)  at a time that is a nominated time for the collecting institution at that place; and
 
-<dt>(b)</dt><dd>may, whether or not a request has been made by virtue of
+                     (c)  using a means of communication that is a nominated means of communication for the collecting institution at that place.
 
-paragraph&#160;(a), request the collecting institution to exhibit the cheque,
+Note 1:       Subsection (3A) defines **_nominated place_**.
 
-or a copy of the cheque of a specified kind, to it.
+Note 2:       Subsection (4A) defines **_nominated time_**.
 
-</dd>
+Note 3:       Subsection (4B) defines **_nominated means of communication_**.
 
-</dl></dl></dl>
+             (7)  The request shall:
 
-<dl compact="">
+                     (a)  identify the cheque with reasonable certainty; and
 
-<dt>(6)</dt><dd>The request must be made:
+                     (b)  be in a form that is intelligible to, or readily decipherable by, the collecting institution.
 
-</dd> </dl>
+             (8)  Without limiting the generality of subsection (7), the request shall, for the purposes of that subsection, be taken to identify the cheque with reasonable certainty if:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the sum ordered to be paid by the cheque;
 
-<dt>(a)</dt><dd>to the collecting institution at a place that is a nominated place in
+                     (b)  the cheque number;
 
-relation to the cheque for the purposes of this subsection; and</dd>
+                     (c)  the account against which the cheque is drawn; and
 
-<dt>(b)</dt><dd>at a time that is a nominated time for the collecting institution at that
-
-place; and</dd>
-
-<dt>(c)</dt><dd>using a means of communication that is a nominated means of communication
-
-for the collecting institution at that place.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-Note 1:	Subsection&#160;(3A) defines _nominated place_. Note 2:	Subsection&#160;(4A) defines _nominated time_. Note 3:	Subsection&#160;(4B) defines _nominated means of communication_.  </dl></dl>
-
-<dl compact="">
-
-<dt>(7)</dt><dd>The request shall:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>identify the cheque with reasonable certainty; and</dd>
-
-<dt>(b)</dt><dd>be in a form that is intelligible to, or readily decipherable by, the
-
-collecting institution.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(8)</dt><dd>Without limiting the generality of subsection&#160;(7), the request shall,
-
-for the purposes of that subsection, be taken to identify the cheque with
-
-reasonable certainty if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the sum ordered to be paid by the cheque;</dd>
-
-<dt>(b)</dt><dd>the cheque number;</dd>
-
-<dt>(c)</dt><dd>the account against which the cheque is drawn; and</dd>
-
-<dt>(d)</dt><dd>the proper place in relation to the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  the proper place in relation to the cheque;
 
 are specified in the request or are readily ascertainable by the collecting institution from the request.
 
-<dl compact="">
+             (9)  If the drawee institution makes a request in relation to the cheque, the collecting institution must:
 
-<dt>(9)</dt><dd>If the drawee institution makes a request in relation to the cheque, the
+                     (a)  in the case of a request for further particulars—give the drawee institution those further particulars:
 
-collecting institution must:
+                              (i)  at a place that is a designated place in relation to the cheque for the purposes of this subsection; and
 
-</dd> </dl>
+                             (ii)  at a time that is a designated time for the drawee institution at that place; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                            (iii)  using a means of communication that is a designated means of communication for the drawee institution at that place; or
 
-<dt>(a)</dt><dd>in the case of a request for further particulars&#151;give the drawee
+                     (b)  in the case of a request to exhibit the cheque or a copy of the cheque of a specified kind—exhibit the cheque or the copy to the drawee institution:
 
-institution those further particulars:
+                              (i)  at the proper place in relation to the cheque, at a reasonable hour on a day on which the drawee institution is open for business at that place; or
 
-</dd>
+                             (ii)  at a place that is a designated exhibition place in relation to the cheque for the purposes of this subsection, at a time that is a designated time for the drawee institution at that place.
 
-</dl></dl></dl>
+Note 1:       Section 64 defines **_proper place_**.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+Note 2:       Section 65 defines **_designated exhibition place_**, **_designated place_**, **_designated time_** and **_designated means of communication_**.
 
-<dt>(i)</dt><dd>at a place that is a designated place in relation to the cheque for the
+           (11)  In furnishing the further particulars, the collecting institution shall:
 
-purposes of this subsection; and</dd>
+                     (a)  identify the request with reasonable certainty; and
 
-<dt>(ii)</dt><dd>at a time that is a designated time for the drawee institution at that
-
-place; and</dd>
-
-<dt>(iii)</dt><dd>using a means of communication that is a designated means of
-
-communication for the drawee institution at that place; or
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>in the case of a request to exhibit the cheque or a copy of the cheque of
-
-a specified kind&#151;exhibit the cheque or the copy to the drawee institution:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>at the proper place in relation to the cheque, at a reasonable hour on a
-
-day on which the drawee institution is open for business at that place; or</dd>
-
-<dt>(ii)</dt><dd>at a place that is a designated exhibition place in relation to the
-
-cheque for the purposes of this subsection, at a time that is a designated time
-
-for the drawee institution at that place.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-Note 1:	Section&#160;64 defines _proper place_. Note 2:	Section&#160;65 defines _designated exhibition place_, _designated place_, _designated time_ and _designated means of communication_.  </dl></dl>
-
-<dl compact="">
-
-<dt>(11)</dt><dd>In furnishing the further particulars, the collecting institution shall:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>identify the request with reasonable certainty; and</dd>
-
-<dt>(b)</dt><dd>provide the further particulars;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  provide the further particulars;
 
 in a form that is intelligible to, or readily decipherable by, the drawee institution.
 
-<dl compact="">
+           (12)  Where a cheque is presented for payment otherwise than by exhibiting it to the drawee institution, nothing in this section shall be taken to relieve the drawee institution from any liability to which the drawee institution would have been subject in relation to the cheque if it had been presented by being exhibited to the drawee institution.
 
-<dt>(12)</dt><dd>Where a cheque is presented for payment otherwise than by exhibiting it
+##### <a id="62A"></a>62A  Internal presentment by drawee institution
 
-to the drawee institution, nothing in this section shall be taken to relieve
+             (1)  The drawee institution in relation to a cheque makes an **_internal presentment_** of the cheque if:
 
-the drawee institution from any liability to which the drawee institution would
+                     (a)  the drawee institution, on behalf of a customer, another financial institution or otherwise, makes a demand for payment of the cheque on itself; and
 
-have been subject in relation to the cheque if it had been presented by being
+                     (b)  either:
 
-exhibited to the drawee institution.
+                              (i)  the demand is made by exhibiting the cheque to itself at:
 
-</dd> </dl>
+                                        (A)  the proper place in relation to the cheque; or
 
-<center>Back to Top</center>
+                                        (B)  a place that is a notified place in relation to the cheque for the purposes of this subsection; or
 
-**
+                             (ii)  the demand is made otherwise than by exhibiting the cheque and is so made at:
 
-###  CHEQUES ACT 1986- SECT 62A  Internal presentment by drawee institution 
-**
+                                        (A)  the proper place in relation to the cheque; or
 
- <dl compact="">
+                                        (B)  a place that is a notified place in relation to the cheque for the purposes of this subsection.
 
-<dt>(1)</dt><dd>The drawee institution in relation to a cheque makes an _internal presentment_ of the cheque if:
+Note 1:       Section 64 defines **_proper place_**.
 
-</dd> </dl>
+Note 2:       Section 65A defines **_notified place_**.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  If the demand is made:
 
-<dt>(a)</dt><dd>the drawee institution, on behalf of a customer, another financial
+                     (a)  otherwise than by exhibiting the cheque; and
 
-institution or otherwise, makes a demand for payment of the cheque on itself;
-
-and</dd>
-
-<dt>(b)</dt><dd>either:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the demand is made by exhibiting the cheque to itself at:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	the proper place in relation to the cheque; or
- 	(B)	a place that is a notified place in relation to the cheque for the purposes of this subsection; or
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(ii)</dt><dd>the demand is made otherwise than by exhibiting the cheque and is so made
-
-at:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	the proper place in relation to the cheque; or
- 	(B)	a place that is a notified place in relation to the cheque for the purposes of this subsection.
-
-<dl compact=""><dl compact="">
-
-Note 1:	Section&#160;64 defines _proper place_. Note 2:	Section&#160;65A defines _notified place_.  </dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>If the demand is made:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>otherwise than by exhibiting the cheque; and</dd>
-
-<dt>(b)</dt><dd>at the proper place in relation to the cheque, or at a place that is a
-
-notified place for the purposes of subsection&#160;(1);
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  at the proper place in relation to the cheque, or at a place that is a notified place for the purposes of subsection (1);
 
 the drawee institution may:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  request itself to exhibit the cheque, or a copy of the cheque of a specified kind, to itself at a specified place; or
 
-<dt>(c)</dt><dd>request itself to exhibit the cheque, or a copy of the cheque of a
+                     (d)  request itself to provide specified further particulars in relation to the cheque to itself at a specified place.
 
-specified kind, to itself at a specified place; or</dd>
+Note 1:       Section 64 defines **_proper place_**.
 
-<dt>(d)</dt><dd>request itself to provide specified further particulars in relation to the
+Note 2:       Section 65A defines **_notified place_**.
 
-cheque to itself at a specified place.
+             (3)  The specified place must be:
 
-</dd>
+                     (a)  the proper place in relation to the cheque; or
 
-</dl></dl></dl>
+                     (b)  a place that is a notified place in relation to the cheque for the purposes of this subsection.
 
-<dl compact=""><dl compact="">
+Note 1:       Section 64 defines **_proper place_**.
 
-Note 1:	Section&#160;64 defines _proper place_. Note 2:	Section&#160;65A defines _notified place_.  </dl></dl>
+Note 2:       Section 65A defines **_notified place_**.
 
-<dl compact="">
+             (4)  The request must be made at the proper place in relation to the cheque, or at a place that is a notified place in relation to the cheque for the purposes of this subsection.
 
-<dt>(3)</dt><dd>The specified place must be:
+Note 1:       Section 64 defines **_proper place_**.
 
-</dd> </dl>
+Note 2:       Section 65A defines **_notified place_**.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (5)  The request must:
 
-<dt>(a)</dt><dd>the proper place in relation to the cheque; or</dd>
+                     (a)  identify the cheque with reasonable certainty; and
 
-<dt>(b)</dt><dd>a place that is a notified place in relation to the cheque for the
+                     (b)  be in a form that is intelligible to, or readily decipherable by, the drawee institution.
 
-purposes of this subsection.
+             (6)  Without limiting the generality of subsection (5), the request is taken, for the purposes of that subsection, to identify the cheque with reasonable certainty if:
 
-</dd>
+                     (a)  the sum ordered to be paid by the cheque; and
 
-</dl></dl></dl>
+                     (b)  the cheque number; and
 
-<dl compact=""><dl compact="">
+                     (c)  the account against which the cheque is drawn; and
 
-Note 1:	Section&#160;64 defines _proper place_. Note 2:	Section&#160;65A defines _notified place_.  </dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>The request must be made at the proper place in relation to the cheque, or
-
-at a place that is a notified place in relation to the cheque for the purposes
-
-of this subsection.
-
-</dd> </dl>
-
-<dl compact=""><dl compact="">
-
-Note 1:	Section&#160;64 defines _proper place_. Note 2:	Section&#160;65A defines _notified place_.  </dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(5)</dt><dd>The request must:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>identify the cheque with reasonable certainty; and</dd>
-
-<dt>(b)</dt><dd>be in a form that is intelligible to, or readily decipherable by, the
-
-drawee institution.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(6)</dt><dd>Without limiting the generality of subsection&#160;(5), the request is
-
-taken, for the purposes of that subsection, to identify the cheque with
-
-reasonable certainty if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the sum ordered to be paid by the cheque; and</dd>
-
-<dt>(b)</dt><dd>the cheque number; and</dd>
-
-<dt>(c)</dt><dd>the account against which the cheque is drawn; and</dd>
-
-<dt>(d)</dt><dd>the proper place in relation to the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  the proper place in relation to the cheque;
 
 are specified in the request or are readily ascertainable by the drawee institution from the request.
 
-<dl compact="">
+             (7)  If the drawee institution makes a request, the drawee institution must exhibit the cheque or copy to itself at the place specified in the request.
 
-<dt>(7)</dt><dd>If the drawee institution makes a request, the drawee institution must
+             (8)  If a cheque is presented for payment otherwise than by exhibiting it to the drawee institution, nothing in this section is taken to relieve the drawee institution from any liability to which the drawee institution would have been subject in relation to the cheque if it had been presented by being exhibited to the drawee institution.
 
-exhibit the cheque or copy to itself at the place specified in the request.</dd> <dt>(8)</dt><dd>If a cheque is presented for payment otherwise than by exhibiting it to the drawee institution, nothing in this section is taken to relieve the drawee institution from any liability to which the drawee institution would have been subject in relation to the cheque if it had been presented by being exhibited to the drawee institution. </dd> </dl>
+##### <a id="63"></a>63  Presentment by person other than financial institution
 
-**
+                   A person other than a financial institution may present a cheque for payment by exhibiting the cheque, in person, to the drawee institution at the proper place in relation to the cheque at a reasonable hour on a day on which the drawee institution is open for business at the place at which the cheque is exhibited.
 
-###  CHEQUES ACT 1986- SECT 63  Presentment by person other than financial institution 
-**
+##### <a id="64"></a>64  Proper place
 
- <dl compact="">
+                   The proper place in relation to a cheque is:
 
-		A person other than a financial institution may present a cheque for payment
+                     (a)  in a case where there is specified in the cheque a place of business of the drawee institution—that place; or
 
-by exhibiting the cheque, in person, to the drawee institution at the proper
+                     (b)  in any other case—the place of business of the branch of the drawee institution at which the account on which the cheque is drawn is maintained.
 
-place in relation to the cheque at a reasonable hour on a day on which the
+##### <a id="65"></a>65  External presentment of cheques by financial institutions—designated places and designated exhibition places
 
-drawee institution is open for business at the place at which the cheque is
+          (1A)  The object of this section is to identify the following for the purposes of the rules about external presentment of cheques by financial institutions:
 
-exhibited.
+                     (a)  designated places;
 
- </dl>
+                     (b)  designated exhibition places;
 
-**
+                     (c)  designated times;
 
-###  CHEQUES ACT 1986- SECT 64  Proper place 
-**
+                     (d)  designated means of communication.
 
- <dl compact="">
+             (1)  A financial institution may, by notice in the prescribed form published in the _Gazette_, specify a place as a designated place in relation to cheques for the purposes of this Act.
 
-		The proper place in relation to a cheque is:
+             (2)  The notice shall specify:
 
- </dl>
+                     (a)   either or both of the following, namely:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)   the cheques in relation to which the place is to be a designated place for the purpose of subsection 62(1);
 
-<dt>(a)</dt><dd>in a case where there is specified in the cheque a place of business of
+                            (iii)   the cheques in relation to which the place is to be a designated place for the purpose of subsection 62(9);
 
-the drawee institution&#151;that place; or</dd>
+                     (b)  the days on which, and the hours during which, the financial institution will be open for business at the place; and
 
-<dt>(b)</dt><dd>in any other case&#151;the place of business of the branch of the drawee
+                     (c)  the means by which communications may be made to the financial institution at the place.
 
-institution at which the account on which the cheque is drawn is maintained.
+          (2A)  If the notice specifies:
 
-</dd>
+                     (a)  the cheques in relation to which the place is to be a designated place for the purposes of subsection 62(1); and
 
-</dl></dl></dl>
+                     (b)  **_exhibition_** as the means, or one of a number of means, by which communications may be made to the financial institution at that place;
 
-**
+the place is a **_designated exhibition place_** in relation to the cheques for the purposes of that subsection.
 
-###  CHEQUES ACT 1986- SECT 65  External presentment of cheques by financial institutions&#151;designated places and designated exhibition places 
-**
+          (2B)  If the notice specifies:
 
-<dl compact="">
+                     (a)  the cheques in relation to which the place is to be a designated place for the purposes of subsection 62(9); and
 
-<dt>(1A)</dt><dd>The object of this section is to identify the following for the purposes
+                     (b)  **_exhibition_** as the means, or one of a number of means, by which communications may be made to the financial institution at that place;
 
-of the rules about external presentment of cheques by financial institutions:
+the place is a **_designated exhibition place_** in relation to the cheques for the purposes of that subsection.
 
-</dd> </dl>
+          (2C)  A time is a **_designated time_** for the financial institution at a particular place if the time is covered by the specification of the days on which, and the hours during which, the financial institution will be open for business at that place.
 
-<dl compact=""><dl compact=""><dl compact="">
+          (2D)  A means of communication is a **_designated means of communication_** for the financial institution at a particular place if the notice specifies the means as a means by which communications may be made to the financial institution at that place.
 
-<dt>(a)</dt><dd>designated places;</dd>
+             (3)  The notice has effect on and from the day on which the notice is published in the _Gazette_ or such later day as is specified in the notice.
 
-<dt>(b)</dt><dd>designated exhibition places;</dd>
+             (4)  If the notice is varied or revoked, the _Gazette_ notice of the variation or revocation must specify a day as the day on which the variation or revocation takes effect. The specified day must not be earlier than 30 days after the date of the _Gazette_ notice of variation or revocation.
 
-<dt>(c)</dt><dd>designated times;</dd>
+##### <a id="65A"></a>65A  Internal presentment of cheques by financial institutions—notified places 
 
-<dt>(d)</dt><dd>designated means of communication.
+             (1)  The object of this section is to identify notified places for the purposes of the rules about internal presentment of cheques by financial institutions.
 
-</dd>
+             (2)  A financial institution may, by written notice, specify a place as a notified place in relation to cheques for the purposes of this Act. The notice must be given to the eligible authority.
 
-</dl></dl></dl>
+Note:          Subsection (6) defines **_eligible authority_**.
 
-<dl compact="">
+             (3)  The notice must specify:
 
-<dt>(1)</dt><dd>A financial institution may, by notice in the prescribed form published in
+                     (a)  one or more of the following, namely:
 
-the _Gazette_, specify a place as a designated place in relation to
+                              (i)  the cheques in relation to which the place is to be a notified place for the purposes of subsection 62A(1);
 
-cheques for the purposes of this Act.</dd> <dt>(2)</dt><dd>The notice shall specify: </dd> </dl>
+                             (ii)  the cheques in relation to which the place is to be a notified place for the purposes of subsection 62A(3);
 
-<center>Back to Top</center>
+                            (iii)  the cheques in relation to which the place is to be a notified place for the purposes of subsection 62A(4); and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  the days on which, and the hours during which, the financial institution will be open for business at the place.
 
-<dt>(a)</dt><dd>either or both of the following, namely:
+          (3A)  The place is a **_notified place_** in relation to particular cheques for the purposes of subsection 62A(1), (3) or (4) if the notice specifies that the place is a notified place in relation to the cheques for the purposes of that subsection.
 
-</dd>
+             (4)  If the notice is varied or revoked, the notice of variation or revocation must specify a day as the day on which the variation or revocation takes effect. The specified day must not be earlier than 30 days after the notice of variation or revocation is given to the eligible authority.
 
-</dl></dl></dl>
+             (5)  The regulations may make provision for and in relation to the keeping of a register of notices under this section by the eligible authority. In particular, the regulations may make provision for:
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (a)  the register to be kept in such form and manner as the eligible authority directs; and
 
-<dt>(i)</dt><dd>the cheques in relation to which the place is to be a designated place
+                     (b)  persons to inspect the register; and
 
-for the purpose of subsection 62(1);</dd>
+                     (c)  persons to obtain information contained in the register; and
 
-<dt>(iii)</dt><dd>the cheques in relation to which the place is to be a designated place
+                     (d)  fees to be charged by the eligible authority for such an inspection or for providing such information.
 
-for the purpose of subsection 62(9);
+             (6)  In this section:
 
-</dd>
+                    <a name="elig-author"></a>**_eligible authority_** means:
 
-</dl></dl></dl></dl>
+                     (a)  Australian Payments Clearing Association Limited; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  if another person is approved in writing by the Minister for the purposes of this section—that other person.
 
-<dt>(b)</dt><dd>the days on which, and the hours during which, the financial institution
+##### <a id="66"></a>66  Deposit institution to present cheques promptly
 
-will be open for business at the place; and</dd>
+             (1)  Subject to sections 59 and 70B, where the holder of a cheque lodges the cheque with a financial institution (the **_deposit institution_**) for collection for the holder, the deposit institution shall duly present the cheque for payment itself, or ensure that the cheque is duly presented for payment on its behalf, as soon as is reasonably practicable and, if the deposit institution fails to do so, it is liable to the holder for any loss that the holder thereby suffers.
 
-<dt>(c)</dt><dd>the means by which communications may be made to the financial institution
+             (2)  Where the drawee institution makes a request under subsection 62(5) or 62A(2) in relation to the cheque, the cheque shall, for the purposes of subsection (1), be deemed not to have been duly presented for payment unless, and until, the request is complied with.
 
-at the place.
+             (3)  In determining, for the purposes of subsection (1), whether the deposit institution failed to duly present the cheque for payment itself, or to ensure that the cheque was duly presented for payment on its behalf, as soon as was reasonably practicable, regard shall be had to:
 
-</dd>
+                     (a)  the fact that the instrument is a cheque and that it is reasonable to expect a cheque to be presented for payment promptly;
 
-</dl></dl></dl>
+                     (b)  the means that were available to it for duly presenting the cheque itself and the means that were available to it for having the cheque duly presented on its behalf;
 
-<dl compact="">
+                     (c)  the relative speed, reliability and cost of those means;
 
-<dt>(2A)</dt><dd>If the notice specifies:
+                     (d)  the usage of financial institutions in relation to the presentment of cheques;
 
-</dd> </dl>
+                     (e)  in a case where a request under subsection 62(5) or 62A(2) was made in relation to the cheque—the following matters, namely:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  the making of the request;
 
-<dt>(a)</dt><dd>the cheques in relation to which the place is to be a designated place for
+                             (ii)  the nature of the request;
 
-the purposes of subsection 62(1); and</dd>
+                            (iii)  whether the request was made to the deposit institution or to another financial institution acting on its behalf in relation to the presentment of the cheque;
 
-<dt>(b)</dt><dd>_exhibition_ as the means, or one of a number of means, by
+                            (iv)  if the request was made to another financial institution acting on its behalf in relation to the presentment of the cheque—whether or not the other financial institution had actual possession of the cheque;
 
-which communications may be made to the financial institution at that place;
+                             (v)  whether or not the request was complied with;
 
-</dd>
+                            (vi)  if the request was complied with—the time within which the request was complied with and the means by which the request was complied with;
 
-</dl></dl></dl>
+                           (vii)  the means that were available for complying with the request;
 
-the place is a _designated exhibition place_ in relation to the cheques for the purposes of that subsection.
+                           (viii)  the relative speed, reliability and cost of those means;
 
-<dl compact="">
+                            (ix)  the usage of financial institutions in relation to requests under subsection 62(5) or 62A(2); and
 
-<dt>(2B)</dt><dd>If the notice specifies:
+                      (f)  any other facts of the particular case, including:
 
-</dd> </dl>
+                              (i)  the nature of the cheque and, in particular, but without limiting the generality of the foregoing, the date of the cheque (if any) and the sum ordered to be paid by the cheque; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  whether any delay in presenting the cheque was:
 
-<dt>(a)</dt><dd>the cheques in relation to which the place is to be a designated place for
+                                        (A)  caused by circumstances beyond the control of the deposit institution; and
 
-the purposes of subsection 62(9); and</dd>
+                                        (B)  not imputable to default, misconduct or negligence on the part of the deposit institution.
 
-<dt>(b)</dt><dd>_exhibition_ as the means, or one of a number of means, by
+##### <a id="67"></a>67  Drawee institution to pay or dishonour promptly
 
-which communications may be made to the financial institution at that place;
+             (1)  Where a cheque is duly presented for payment, the drawee institution shall either pay or dishonour the cheque as soon as is reasonably practicable and, if the drawee institution fails to do so, then, unless it has become aware of a defect in the holder’s title or that the holder has no title to the cheque, the drawee institution:
 
-</dd>
+                     (a)   may not dishonour the cheque; and
 
-</dl></dl></dl>
+                     (b)   is liable to pay the cheque to the holder.
 
-the place is a _designated exhibition place_ in relation to the cheques for the purposes of that subsection.
+             (2)  In determining, for the purposes of subsection (1), whether the drawee institution failed to pay or dishonour the cheque as soon as was reasonably practicable, regard shall be had to:
 
-<dl compact="">
+                     (a)  the fact that the instrument is a cheque and that it is reasonable to expect a cheque that has been duly presented for payment to be either paid or dishonoured promptly;
 
-<dt>(2C)</dt><dd>A time is a _designated time_ for the financial institution
+                     (b)  the means by which, and the place at which, the cheque was presented;
 
-at a particular place if the time is covered by the specification of the days
+                     (c)  the means that were available to it for paying or dishonouring the cheque;
 
-on which, and the hours during which, the financial institution will be open
+                     (d)  the relative speed, reliability and cost of those means;
 
-for business at that place.</dd> <dt>(2D)</dt><dd>A means of communication is a _designated means of communication_ for the financial institution at a particular place if the notice specifies the means as a means by which communications may be made to the financial institution at that place.</dd> <dt>(3)</dt><dd>The notice has effect on and from the day on which the notice is published in the _Gazette_ or such later day as is specified in the notice.</dd> <dt>(4)</dt><dd>If the notice is varied or revoked, the _Gazette_ notice of the variation or revocation must specify a day as the day on which the variation or revocation takes effect. The specified day must not be earlier than 30 days after the date of the _Gazette_ notice of variation or revocation. </dd> </dl>
+                     (e)  the usage of financial institutions in relation to the payment and dishonour of cheques;
 
-**
+                      (f)  in a case where a request under subsection 62(5) or 62A(2) was made by it in relation to the cheque—the following matters, namely:
 
-###  CHEQUES ACT 1986- SECT 65A  Internal presentment of cheques by financial institutions&#151;notified places 
-**
+                              (i)  the making of the request;
 
-<dl compact="">
+                             (ii)  the nature of the request;
 
-<dt>(1)</dt><dd>The object of this section is to identify notified places for the purposes
+                            (iii)  the time within which the request was made;
 
-of the rules about internal presentment of cheques by financial institutions.</dd> <dt>(2)</dt><dd>A financial institution may, by written notice, specify a place as a notified place in relation to cheques for the purposes of this Act. The notice must be given to the eligible authority. </dd> </dl>
+                            (iv)  the means by which the request was made;
 
-<dl compact=""><dl compact="">
+                             (v)  the means that were available to it for making the request;
 
-Note:	Subsection&#160;(6) defines _eligible authority_.
+                            (vi)  the relative speed, reliability and cost of those means;
 
- </dl></dl>
+                           (vii)  whether or not the request was complied with;
 
-<dl compact="">
+                           (viii)  if the request was complied with—the time within which the request was complied with;
 
-<dt>(3)</dt><dd>The notice must specify:
+                            (ix)  if the request was a request to furnish further particulars and the request was complied with—the nature of the particulars furnished to it;
 
-</dd> </dl>
+                             (x)  the usage of financial institutions in relation to the making of requests under subsection 62(5) or 62A(2); and
 
-<center>Back to Top</center>
+                     (g)  any other facts of the particular case, including:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  the nature of the cheque; and
 
-<dt>(a)</dt><dd>one or more of the following, namely:
+                             (ii)  whether any delay in paying or dishonouring the cheque was:
 
-</dd>
+                                        (A)  caused by circumstances beyond the control of the drawee institution; and
 
-</dl></dl></dl>
+                                        (B)  not imputable to default, misconduct or negligence on the part of the drawee institution.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (3)  Subsection (1) does not prejudice any rights that the drawee institution may have to debit the drawer’s account with the amount of the cheque.
 
-<dt>(i)</dt><dd>the cheques in relation to which the place is to be a notified place for
+##### <a id="68"></a>68  How paid cheque to be dealt with
 
-the purposes of subsection 62A(1);</dd>
+             (1)  Where:
 
-<dt>(ii)</dt><dd>the cheques in relation to which the place is to be a notified place for
+                     (a)  a cheque, other than an agency cheque, is duly presented for payment by exhibiting the cheque to the drawee institution; and
 
-the purposes of subsection 62A(3);</dd>
-
-<dt>(iii)</dt><dd>the cheques in relation to which the place is to be a notified place for
-
-the purposes of subsection 62A(4); and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the days on which, and the hours during which, the financial institution
-
-will be open for business at the place.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3A)</dt><dd>The place is a _notified place_ in relation to particular
-
-cheques for the purposes of subsection 62A(1), (3) or (4) if the notice
-
-specifies that the place is a notified place in relation to the cheques for the
-
-purposes of that subsection.</dd> <dt>(4)</dt><dd>If the notice is varied or revoked, the notice of variation or revocation must specify a day as the day on which the variation or revocation takes effect. The specified day must not be earlier than 30 days after the notice of variation or revocation is given to the eligible authority.</dd> <dt>(5)</dt><dd>The regulations may make provision for and in relation to the keeping of a register of notices under this section by the eligible authority. In particular, the regulations may make provision for: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the register to be kept in such form and manner as the eligible authority
-
-directs; and</dd>
-
-<dt>(b)</dt><dd>persons to inspect the register; and</dd>
-
-<dt>(c)</dt><dd>persons to obtain information contained in the register; and</dd>
-
-<dt>(d)</dt><dd>fees to be charged by the eligible authority for such an inspection or for
-
-providing such information.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(6)</dt><dd>In this section:
-
-</dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_eligible authority_ means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Australian Payments Clearing Association Limited; or</dd>
-
-<dt>(b)</dt><dd>if another person is approved in writing by the Minister for the purposes
-
-of this section&#151;that other person.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 66  Deposit institution to present cheques promptly 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to sections&#160;59 and 70B, where the holder of a cheque lodges
-
-the cheque with a financial institution (the _deposit institution_)
-
-for collection for the holder, the deposit institution shall duly present the
-
-cheque for payment itself, or ensure that the cheque is duly presented for
-
-payment on its behalf, as soon as is reasonably practicable and, if the deposit
-
-institution fails to do so, it is liable to the holder for any loss that the
-
-holder thereby suffers.</dd> <dt>(2)</dt><dd>Where the drawee institution makes a request under subsection 62(5) or 62A(2) in relation to the cheque, the cheque shall, for the purposes of subsection&#160;(1), be deemed not to have been duly presented for payment unless, and until, the request is complied with.</dd> <dt>(3)</dt><dd>In determining, for the purposes of subsection&#160;(1), whether the deposit institution failed to duly present the cheque for payment itself, or to ensure that the cheque was duly presented for payment on its behalf, as soon as was reasonably practicable, regard shall be had to: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the fact that the instrument is a cheque and that it is reasonable to
-
-expect a cheque to be presented for payment promptly;</dd>
-
-<dt>(b)</dt><dd>the means that were available to it for duly presenting the cheque itself
-
-and the means that were available to it for having the cheque duly presented on
-
-its behalf;</dd>
-
-<dt>(c)</dt><dd>the relative speed, reliability and cost of those means;</dd>
-
-<dt>(d)</dt><dd>the usage of financial institutions in relation to the presentment of
-
-cheques;</dd>
-
-<dt>(e)</dt><dd>in a case where a request under subsection 62(5) or 62A(2) was made in
-
-relation to the cheque&#151;the following matters, namely:
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the making of the request;</dd>
-
-<dt>(ii)</dt><dd>the nature of the request;</dd>
-
-<dt>(iii)</dt><dd>whether the request was made to the deposit institution or to another
-
-financial institution acting on its behalf in relation to the presentment of
-
-the cheque;</dd>
-
-<dt>(iv)</dt><dd>if the request was made to another financial institution acting on its
-
-behalf in relation to the presentment of the cheque&#151;whether or not the other
-
-financial institution had actual possession of the cheque;</dd>
-
-<dt>(v)</dt><dd>whether or not the request was complied with;</dd>
-
-<dt>(vi)</dt><dd>if the request was complied with&#151;the time within which the request was
-
-complied with and the means by which the request was complied with;</dd>
-
-<dt>(vii)</dt><dd>the means that were available for complying with the request;</dd>
-
-<dt>(viii)</dt><dd>the relative speed, reliability and cost of those means;</dd>
-
-<dt>(ix)</dt><dd>the usage of financial institutions in relation to requests under
-
-subsection 62(5) or 62A(2); and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(f)</dt><dd>any other facts of the particular case, including:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the nature of the cheque and, in particular, but without limiting the
-
-generality of the foregoing, the date of the cheque (if any) and the sum
-
-ordered to be paid by the cheque; and</dd>
-
-<dt>(ii)</dt><dd>whether any delay in presenting the cheque was:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	caused by circumstances beyond the control of the deposit institution; and
- 	(B)	not imputable to default, misconduct or negligence on the part of the deposit institution. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 67  Drawee institution to pay or dishonour promptly 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a cheque is duly presented for payment, the drawee institution shall
-
-either pay or dishonour the cheque as soon as is reasonably practicable and, if
-
-the drawee institution fails to do so, then, unless it has become aware of a
-
-defect in the holder's title or that the holder has no title to the cheque, the
-
-drawee institution:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>may not dishonour the cheque; and</dd>
-
-<dt>(b)</dt><dd>is liable to pay the cheque to the holder.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In determining, for the purposes of subsection&#160;(1), whether the
-
-drawee institution failed to pay or dishonour the cheque as soon as was
-
-reasonably practicable, regard shall be had to:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the fact that the instrument is a cheque and that it is reasonable to
-
-expect a cheque that has been duly presented for payment to be either paid or
-
-dishonoured promptly;</dd>
-
-<dt>(b)</dt><dd>the means by which, and the place at which, the cheque was presented;</dd>
-
-<dt>(c)</dt><dd>the means that were available to it for paying or dishonouring the
-
-cheque;</dd>
-
-<dt>(d)</dt><dd>the relative speed, reliability and cost of those means;</dd>
-
-<dt>(e)</dt><dd>the usage of financial institutions in relation to the payment and
-
-dishonour of cheques;</dd>
-
-<dt>(f)</dt><dd>in a case where a request under subsection 62(5) or 62A(2) was made by it
-
-in relation to the cheque&#151;the following matters, namely:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the making of the request;</dd>
-
-<dt>(ii)</dt><dd>the nature of the request;</dd>
-
-<dt>(iii)</dt><dd>the time within which the request was made;</dd>
-
-<dt>(iv)</dt><dd>the means by which the request was made;</dd>
-
-<dt>(v)</dt><dd>the means that were available to it for making the request;</dd>
-
-<dt>(vi)</dt><dd>the relative speed, reliability and cost of those means;</dd>
-
-<dt>(vii)</dt><dd>whether or not the request was complied with;</dd>
-
-<dt>(viii)</dt><dd>if the request was complied with&#151;the time within which the request was
-
-complied with;</dd>
-
-<dt>(ix)</dt><dd>if the request was a request to furnish further particulars and the
-
-request was complied with&#151;the nature of the particulars furnished to it;</dd>
-
-<dt>(x)</dt><dd>the usage of financial institutions in relation to the making of requests
-
-under subsection 62(5) or 62A(2); and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(g)</dt><dd>any other facts of the particular case, including:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the nature of the cheque; and</dd>
-
-<dt>(ii)</dt><dd>whether any delay in paying or dishonouring the cheque was:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	caused by circumstances beyond the control of the drawee institution; and
- 	(B)	not imputable to default, misconduct or negligence on the part of the drawee institution.
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Subsection&#160;(1) does not prejudice any rights that the drawee
-
-institution may have to debit the drawer's account with the amount of the cheque.
-
-</dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 68  How paid cheque to be dealt with 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque, other than an agency cheque, is duly presented for payment by
-
-exhibiting the cheque to the drawee institution; and</dd>
-
-<dt>(b)</dt><dd>the drawee institution pays the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the drawee institution pays the cheque;
 
 the drawee institution has, as against the person who presented the cheque, the right to possession of the cheque.
 
-<dl compact="">
+             (2)  Where:
 
-<dt>(2)</dt><dd>Where:
+                     (a)  a cheque, other than an agency cheque, is duly presented for payment by a financial institution (the **_collecting institution_**) otherwise than by exhibiting the cheque to the drawee institution;
 
-</dd> </dl>
+                     (b)  the cheque is exhibited to the drawee institution pursuant to a request under subsection 62(5); and
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque, other than an agency cheque, is duly presented for payment by a
-
-financial institution (the _collecting institution_) otherwise than
-
-by exhibiting the cheque to the drawee institution;</dd>
-
-<dt>(b)</dt><dd>the cheque is exhibited to the drawee institution pursuant to a request
-
-under subsection 62(5); and</dd>
-
-<dt>(c)</dt><dd>the drawee institution pays the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the drawee institution pays the cheque;
 
 the drawee institution has, as against the collecting institution and any financial institution or FCA institution on whose behalf the collecting institution duly presented the cheque, the right to possession of the cheque.
 
-<dl compact="">
+          (2A)  If:
 
-<dt>(2A)</dt><dd>If:
+                     (a)  an agency cheque is duly presented for payment by a financial institution (the **_collecting institution_**); and
 
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an agency cheque is duly presented for payment by a financial institution
-
-(the _collecting institution_); and</dd>
-
-<dt>(b)</dt><dd>the drawee institution pays the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the drawee institution pays the cheque;
 
 the financial institution or FCA institution that is the drawer of the cheque (disregarding the effect of subsection 100(2)) has, as against the drawee institution, the collecting institution and any institution on whose behalf the collecting institution duly presented the cheque, the right to possession of the cheque.
 
-<dl compact="">
+             (3)  Where:
 
-<dt>(3)</dt><dd>Where:
+                     (a)  a relevant cheque is duly presented for payment by a financial institution (the **_collecting institution_**) otherwise than by exhibiting the cheque to the drawee institution;
 
-</dd> </dl>
+                     (b)  the cheque is not exhibited to the drawee institution pursuant to a request under subsection 62(5);
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the drawee institution pays the cheque; and
 
-<dt>(a)</dt><dd>a relevant cheque is duly presented for payment by a financial institution
+                     (d)  the cheque is in the actual possession of the collecting institution or another financial institution or an FCA institution on whose behalf the collecting institution duly presented the cheque;
 
-(the _collecting institution_) otherwise than by exhibiting the
+the collecting institution, or the other financial institution or the FCA institution, as the case requires (in subsections (4) and (5) referred to as the **_relevant financial institution_**), shall, subject to subsection (4), retain the cheque, or a copy of the cheque, on behalf of the entitled institution, for the period ending 7 years after the date of the cheque.
 
-cheque to the drawee institution;</dd>
+For this purpose, the **_entitled institution_** is the drawee institution, unless the cheque is an agency cheque. If the cheque is an agency cheque, the **_entitled institution_** is the financial institution or FCA institution that is the drawer of the cheque (disregarding the effect of subsection 100(2)).
 
-<dt>(b)</dt><dd>the cheque is not exhibited to the drawee institution pursuant to a
+          (3A)  If:
 
-request under subsection 62(5);</dd>
+                     (a)  the drawee institution obtains possession of a relevant cheque; and
 
-<dt>(c)</dt><dd>the drawee institution pays the cheque; and</dd>
+                     (b)  the drawee institution pays or has paid the cheque; and
 
-<dt>(d)</dt><dd>the cheque is in the actual possession of the collecting institution or
+                     (c)  the cheque is not an agency cheque;
 
-another financial institution or an FCA institution on whose behalf the
+the drawee institution must retain the cheque (subject to subsection (5)), or a copy of the cheque, for the period ending 7 years after the date of the cheque.
 
-collecting institution duly presented the cheque;
+       (3AA)  If:
 
-</dd>
+                     (a)  a financial institution or an FCA institution obtains possession of a relevant cheque, being an agency cheque; and
 
-</dl></dl></dl>
+                     (b)  the institution is the drawer of the cheque (disregarding the effect of subsection 100(2)); and
 
-<center>Back to Top</center>
+                     (c)  the drawee institution has paid the cheque;
 
-the collecting institution, or the other financial institution or the FCA institution, as the case requires (in subsections&#160;(4) and (5) referred to as the _relevant financial institution_), shall, subject to subsection&#160;(4), retain the cheque, or a copy of the cheque, on behalf of the entitled institution, for the period ending 7 years after the date of the cheque.
- For this purpose, the _entitled institution_ is the drawee institution, unless the cheque is an agency cheque. If the cheque is an agency cheque, the _entitled institution_ is the financial institution or FCA institution that is the drawer of the cheque (disregarding the effect of subsection 100(2)).
+the institution must retain the cheque (subject to subsection (5)), or a copy of the cheque, for the period ending 7 years after the date of the cheque.
 
-<dl compact="">
+          (3B)  Where a financial institution, pursuant to a request under subsection (4), obtains possession of a copy of a relevant cheque drawn on it, it shall retain a copy of the cheque for the period ending 7 years after the date of the cheque.
 
-<dt>(3A)</dt><dd>If:
+             (4)  The entitled institution referred to in subsection (3) may, at any time while the cheque, or a copy of the cheque, is being retained by the relevant financial institution on behalf of the entitled institution in accordance with subsection (3) or otherwise, request the relevant financial institution to deliver up the cheque, or the copy, to it and the relevant financial institution shall forthwith comply with the request.
 
-</dd> </dl>
+             (5)  Nothing in this section shall be taken to affect:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  any right that a person (including the drawer) has, against the drawee institution or relevant financial institution, to possession of the cheque; or
 
-<dt>(a)</dt><dd>the drawee institution obtains possession of a relevant cheque; and</dd>
+                     (b)  any obligation that the relevant financial institution would have, apart from this section, to retain the cheque.
 
-<dt>(b)</dt><dd>the drawee institution pays or has paid the cheque; and</dd>
+             (6)  Where a cheque is paid otherwise than by the drawee institution, the person paying the cheque has, as against the person paid, the right to possession of the cheque.
 
-<dt>(c)</dt><dd>the cheque is not an agency cheque;
+             (7)  A financial institution or an FCA institution that fails to retain a cheque, or a copy of a cheque, as required by subsection (3), (3A), (3AA) or (3B), is guilty of an offence against this section punishable, upon conviction, by a fine not exceeding $10,000.
 
-</dd>
+             (8)  A reference in this section to the date of a cheque is, in the case of a cheque that is undated, a reference to the date of issue of the cheque.
 
-</dl></dl></dl>
+             (9)  In this section:
 
-the drawee institution must retain the cheque (subject to subsection&#160;(5)), or a copy of the cheque, for the period ending 7 years after the date of the cheque.
+                    <a name="copi"></a>**_copy_**, in relation to a cheque, includes a document in which there is recorded the information contained in the cheque.
 
-<dl compact="">
+                    <a name="public-author"></a>**_public authority_** means an authority or body, whether a body corporate or not, established or incorporated for a public purpose by a law of the Commonwealth or of a State and includes a body corporate incorporated under a law of the Commonwealth or of a State being a body corporate in which the Commonwealth or a State has a controlling interest.
 
-<dt>(3AA)</dt><dd>If:
+                    <a name="relev-chequ"></a>**_relevant cheque_** means a cheque other than:
 
-</dd> </dl>
+                     (a)   a cheque drawn by a public authority; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  a cheque whose amount does not exceed $200 or such higher amount as is specified by the regulations for the purposes of this definition.
 
-<dt>(a)</dt><dd>a financial institution or an FCA institution obtains possession of a
+                    <a name="state"></a>**_State_** includes the Northern Territory.
 
-relevant cheque, being an agency cheque; and</dd>
+### Division 2—Dishonour
 
-<dt>(b)</dt><dd>the institution is the drawer of the cheque (disregarding the effect of
+##### <a id="69"></a>69  Dishonour defined
 
-subsection 100(2)); and</dd>
+                   A cheque is dishonoured if the cheque is duly presented for payment and payment is refused by the drawee institution, being a refusal that is communicated by the drawee institution to the holder or the person who presented the cheque on the holder’s behalf.
 
-<dt>(c)</dt><dd>the drawee institution has paid the cheque;
+Note:          A cheque may be taken to be dishonoured in certain circumstances (see section 70A).
 
-</dd>
+##### <a id="70"></a>70  Drawer and indorsers of cheque liable whether or not given notice of dishonour
 
-</dl></dl></dl>
+                   A person who is the drawer or an indorser of a cheque that has been dishonoured is liable on the cheque whether or not the person is given notice by any person of the dishonour.
 
-the institution must retain the cheque (subject to subsection&#160;(5)), or a copy of the cheque, for the period ending 7 years after the date of the cheque.
+### Division 3—Turnback of cheques drawn on failed financial institutions
 
-<dl compact="">
+##### <a id="70A"></a>70A  Certain cheques taken to be dishonoured
 
-<dt>(3B)</dt><dd>Where a financial institution, pursuant to a request under
+             (1)  A cheque that is lodged for collection with a financial institution that is not the drawee institution is taken to be dishonoured if the drawee institution becomes a failed financial institution:
 
-subsection&#160;(4), obtains possession of a copy of a relevant cheque drawn on
+                     (a)  after the cheque is lodged; and
 
-it, it shall retain a copy of the cheque for the period ending 7 years after
-
-the date of the cheque.</dd> <dt>(4)</dt><dd>The entitled institution referred to in subsection&#160;(3) may, at any time while the cheque, or a copy of the cheque, is being retained by the relevant financial institution on behalf of the entitled institution in accordance with subsection&#160;(3) or otherwise, request the relevant financial institution to deliver up the cheque, or the copy, to it and the relevant financial institution shall forthwith comply with the request.</dd> <dt>(5)</dt><dd>Nothing in this section shall be taken to affect: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>any right that a person (including the drawer) has, against the drawee
-
-institution or relevant financial institution, to possession of the cheque;
-
-or</dd>
-
-<dt>(b)</dt><dd>any obligation that the relevant financial institution would have, apart
-
-from this section, to retain the cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(6)</dt><dd>Where a cheque is paid otherwise than by the drawee institution, the
-
-person paying the cheque has, as against the person paid, the right to
-
-possession of the cheque.</dd> <dt>(7)</dt><dd>A financial institution or an FCA institution that fails to retain a cheque, or a copy of a cheque, as required by subsection&#160;(3), (3A), (3AA) or (3B), is guilty of an offence against this section punishable, upon conviction, by a fine not exceeding $10,000.</dd> <dt>(8)</dt><dd>A reference in this section to the date of a cheque is, in the case of a cheque that is undated, a reference to the date of issue of the cheque.</dd> <dt>(9)</dt><dd>In this section: </dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_copy_, in relation to a cheque, includes a document in which there
-
-is recorded the information contained in the cheque. _public authority_ means an authority or body, whether a body corporate or not, established or incorporated for a public purpose by a law of the Commonwealth or of a State and includes a body corporate incorporated under a law of the Commonwealth or of a State being a body corporate in which the Commonwealth or a State has a controlling interest. _relevant cheque_ means a cheque other than:  </dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque drawn by a public authority; or</dd>
-
-<dt>(b)</dt><dd>a cheque whose amount does not exceed $200 or such higher amount as is
-
-specified by the regulations for the purposes of this definition.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_State_ includes the Northern Territory.
-
- </dl></dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;2&#151;Dishonour </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 69  Dishonour defined 
-**
-
- <dl compact="">
-
-		A cheque is dishonoured if the cheque is duly presented for payment and
-
-payment is refused by the drawee institution, being a refusal that is
-
-communicated by the drawee institution to the holder or the person who
-
-presented the cheque on the holder's behalf.
-
- </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	A cheque may be taken to be dishonoured in certain
-
-circumstances (see section&#160;70A).
-
- </dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 70  Drawer and indorsers of cheque liable whether or not given notice of dishonour 
-**
-
-<dl compact="">
-
-		A person who is the drawer or an indorser of a cheque that has been
-
-dishonoured is liable on the cheque whether or not the person is given notice
-
-by any person of the dishonour.
-
- </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;3&#151;Turnback of cheques drawn on failed financial institutions </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 70A  Certain cheques taken to be dishonoured 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A cheque that is lodged for collection with a financial institution that
-
-is not the drawee institution is taken to be dishonoured if the drawee
-
-institution becomes a failed financial institution:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>after the cheque is lodged; and</dd>
-
-<dt>(b)</dt><dd>at a time when the cheque has not been settled.
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  at a time when the cheque has not been settled.
 
 The dishonour is taken to occur at the time when the drawee institution becomes a failed financial institution.
 
-<dl compact=""><dl compact="">
+Note 1:       For when the drawee institution becomes a failed financial institution, see subsection (2).
 
-Note 1:	For when the drawee institution becomes a failed
+Note 2:       For when a cheque has not been settled, see subsections (3) and (4).
 
-financial institution, see subsection&#160;(2). Note 2:	For when a cheque has not been settled, see subsections&#160;(3) and (4).  </dl></dl>
+             (2)  For the purposes of this section, a drawee institution becomes a failed financial institution if, and only if:
 
-<dl compact="">
+                     (a)  the institution becomes a body corporate that is an externally administered body corporate within the meaning of the _Corporations Act 2001_ because the institution is, or is likely to become, insolvent; or
 
-<dt>(2)</dt><dd>For the purposes of this section, a drawee institution becomes a failed
+                     (b)  someone takes control of the institution’s property for the benefit of the institution’s creditors because the institution is, or is likely to become, insolvent; or
 
-financial institution if, and only if:
+                     (c)  the Australian Prudential Regulation Authority:
 
-</dd> </dl>
+                              (i)  appoints a person to investigate the affairs of the institution, takes control of the business of the institution or appoints an administrator to take control of the business of the institution under section 13A of the _Banking Act 1959_; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  determines, in writing, that the institution is to be treated as a failed financial institution for the purposes of this Division.
 
-<dt>(a)</dt><dd>the institution becomes a body corporate that is an externally
+             (3)  For the purposes of this section, a cheque has not been settled if, and only if:
 
-administered body corporate within the meaning of the _Corporations Act 2001_ because the institution is, or is likely to become, insolvent; or</dd>
+                     (a)  it has not been exchanged for settlement under a settlement system that is recognised under subsection (4); or
 
-<dt>(b)</dt><dd>someone takes control of the institution's property for the benefit of the
+                     (b)  it has been exchanged for settlement under a settlement system that is so recognised but the drawee institution’s liability in respect of the settlement for the exchange that includes the cheque has not been discharged under that system.
 
-institution's creditors because the institution is, or is likely to become,
+             (4)  The Reserve Bank of Australia may determine that a settlement system is a recognised settlement system for the purposes of this section. A determination:
 
-insolvent; or</dd>
+                     (a)  must be given in writing; and
 
-<dt>(c)</dt><dd>the Australian Prudential Regulation Authority:
+                     (b)  is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-</dd>
+The Reserve Bank of Australia is to take the public interest into account in determining that a settlement system is a recognised settlement system, and, in doing so, is to have regard to the rules that govern the system.
 
-</dl></dl></dl>
+##### <a id="70B"></a>70B  Consequences of cheque being taken to be dishonoured
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                   If a cheque that has been lodged with a financial institution (the **_collecting financial institution_**) for collection is taken to be dishonoured under section 70A (the **_deemed dishonour_**) then:
 
-<dt>(i)</dt><dd>appoints a person to investigate the affairs of the institution, takes
+                     (a)  the deemed dishonour has the same consequences as if the cheque had been duly presented for payment and had been dishonoured in accordance with section 69; and
 
-control of the business of the institution or appoints an administrator to take
+                     (b)  if the cheque has not been duly presented for payment, the requirement in section 66 to duly present the cheque for payment does not apply; and
 
-control of the business of the institution under section&#160;13A of the
+                     (c)  if the collecting financial institution has made a provisional credit to an account in respect of the cheque, it may reverse that provisional credit; and
 
-_Banking Act 1959_; and</dd>
+                     (d)  if the drawee institution has made a provisional debit to an account in respect of the cheque, the provisional debit is taken to be reversed, by force of this section, immediately after the deemed dishonour.
 
-<dt>(ii)</dt><dd>determines, in writing, that the institution is to be treated as a failed
+## Part V—Liabilities on cheques
 
-financial institution for the purposes of this Division.
+### Division 1—Liabilities of parties
 
-</dd>
+##### <a id="71"></a>71  Liability of drawer
 
-</dl></dl></dl></dl>
+                   Subject to subsection 17(1), section 59 and subsection 60(1), the drawer of a cheque, by drawing the cheque, undertakes:
 
-<center>Back to Top</center>
+                     (a)  that, on due presentment for payment, the cheque will be paid according to its tenor as drawn; and
 
-<dl compact="">
+                     (b)  that:
 
-<dt>(3)</dt><dd>For the purposes of this section, a cheque has not been settled if, and
+                              (i)  if the cheque is dishonoured when duly presented for payment; or
 
-only if:
+                             (ii)  if presentment of the cheque for payment is dispensed with by virtue of paragraph 59(a) or (aa) and the cheque is unpaid after its date has arrived;
 
-</dd> </dl>
+                            the drawer will compensate the holder or an indorser who is compelled to pay the cheque.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="72"></a>72  Estoppel against drawer
 
-<dt>(a)</dt><dd>it has not been exchanged for settlement under a settlement system that is
+                   The drawer of a cheque, by issuing the cheque, is estopped from denying to a holder in due course that the cheque was, at the time when the cheque was issued, a valid cheque.
 
-recognised under subsection&#160;(4); or</dd>
+##### <a id="73"></a>73  Liability of indorser
 
-<dt>(b)</dt><dd>it has been exchanged for settlement under a settlement system that is so
+                   Subject to subsection 17(2), section 59 and subsection 60(2), an indorser of a cheque, by indorsing the cheque, undertakes:
 
-recognised but the drawee institution's liability in respect of the settlement
+                     (a)  that, on due presentment for payment, the cheque will be paid according to its tenor as indorsed by the indorser; and
 
-for the exchange that includes the cheque has not been discharged under that
+                     (b)  that:
 
-system.
+                              (i)  if the cheque is dishonoured when duly presented for payment; or
 
-</dd>
+                             (ii)  if presentment of the cheque for payment is dispensed with by virtue of paragraph 59(a) or (aa) and the cheque is unpaid after its date has arrived;
 
-</dl></dl></dl>
+                            the indorser will compensate the holder or a subsequent indorser who is compelled to pay the cheque.
 
-<dl compact="">
+##### <a id="74"></a>74  Estoppels against indorser
 
-<dt>(4)</dt><dd>The Reserve Bank of Australia may determine that a settlement system is a
+             (1)  An indorser of a cheque, by indorsing the cheque, is estopped:
 
-recognised settlement system for the purposes of this section. A determination:
+                     (a)  from denying to a holder in due course the genuineness and regularity, in all respects, of the drawer’s signature and all previous indorsements; and
 
-</dd> </dl>
+                     (b)  from denying to the indorsee to whom the indorser indorsed the cheque or a subsequent indorsee or to a holder who is not an indorsee:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  that the cheque was, at the time when the indorser indorsed it, a valid and undischarged cheque; and
 
-<dt>(a)</dt><dd>must be given in writing; and</dd>
+                             (ii)   that the indorser had, at that time, a good title to the cheque.
 
-<dt>(b)</dt><dd>is a disallowable instrument for the purposes of section&#160;46A of the
+             (2)  The reference in paragraph (1)(a) to a holder in due course includes a reference to a person who, but for a signature being written or placed on the cheque without the authority of the person whose signature it purports to be, would be a holder in due course.
 
-_Acts Interpretation Act 1901_.
+##### <a id="75"></a>75  Stranger signing cheque liable as indorser
 
-</dd>
+             (1)  Where a person signs a cheque, otherwise than as the drawer or an indorser, intending to become liable on the cheque, the provisions of this Act (other than sections 25, 26 and 27 and subsection 28(2)) apply, _mutatis mutandis_, to the person as if the person were an indorser and the person’s signature were an indorsement.
 
-</dl></dl></dl>
+             (2)  A person who signs a cheque shall, for the purposes of subsection (1):
 
-The Reserve Bank of Australia is to take the public interest into account in determining that a settlement system is a recognised settlement system, and, in doing so, is to have regard to the rules that govern the system. 
+                     (a)  as regards a holder in due course—be conclusively presumed to have signed the cheque intending to become liable on the cheque; or
 
-**
+                     (b)  as regards a holder who is not a holder in due course—be presumed, unless the contrary is proved, to have signed the cheque intending to become liable on the cheque;
 
-###  CHEQUES ACT 1986- SECT 70B  Consequences of cheque being taken to be dishonoured 
-**
+unless it is apparent, on the face of the cheque, that the person did not sign the cheque intending to become liable on the cheque.
 
- <dl compact="">
+##### <a id="76"></a>76  Measure of damages on dishonour
 
-		If a cheque that has been lodged with a financial institution (the
+             (1)  Subject to subsection (2), where a cheque is dishonoured, the holder may recover as damages from any person liable on the cheque, and an indorser who has been compelled to pay the cheque may recover as damages from the drawer or a prior indorser:
 
-_collecting financial institution_) for collection is taken to be
+                     (a)  if the cheque is dishonoured in Australia:
 
-dishonoured under section&#160;70A (the _deemed dishonour_) then:
+                              (i)  the sum ordered to be paid by the cheque; and
 
- </dl>
+                             (ii)  the amount of any interest that, in accordance with the regulations, is payable in respect of that sum; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  if the cheque is dishonoured outside Australia:
 
-<dt>(a)</dt><dd>the deemed dishonour has the same consequences as if the cheque had been
+                              (i)  the amount of the re-exchange of the cheque; and
 
-duly presented for payment and had been dishonoured in accordance with
+                             (ii)  the amount of any interest that, in accordance with the regulations, is payable in respect of that amount.
 
-section&#160;69; and</dd>
+             (2)  Where an action or proceeding is brought in a court for the recovery of damages under subsection (1), the court may, if it is of the opinion that justice so requires, direct that interest payable under that subsection be withheld in whole or in part.
 
-<dt>(b)</dt><dd>if the cheque has not been duly presented for payment, the requirement in
+             (3)  Damages recoverable under subsection (1) shall be deemed to be liquidated damages.
 
-section&#160;66 to duly present the cheque for payment does not apply; and</dd>
+##### <a id="77"></a>77  Transferor by delivery
 
-<dt>(c)</dt><dd>if the collecting financial institution has made a provisional credit to
+             (1)  A transferor by delivery is a holder of a cheque payable to bearer who transfers the cheque by negotiation without indorsing the cheque.
 
-an account in respect of the cheque, it may reverse that provisional credit;
+             (2)  A transferor by delivery is not liable on the cheque.
 
-and</dd>
+             (3)  Where the person to whom a transferor by delivery transfers the cheque by negotiation takes the cheque for value, the transferor by delivery warrants to the person:
 
-<dt>(d)</dt><dd>if the drawee institution has made a provisional debit to an account in
+                     (a)  that the cheque is what it purports to be;
 
-respect of the cheque, the provisional debit is taken to be reversed
+                     (b)  that the transferor by delivery has the right to transfer the cheque by negotiation; and
 
-,
+                     (c)  that the transferor by delivery is not, at the time of the transfer, aware of any fact that renders the cheque valueless.
 
-by force of this section, immediately after the deemed dishonour.
+### Division 2—Discharge of liabilities of parties
 
-</dd>
+##### <a id="78"></a>78  When cheque discharged
 
-</dl></dl></dl>
+             (1)  A cheque is discharged if:
 
-<center>**
+                     (a)  the cheque is paid in due course by the drawee institution;
 
-###  CHEQUES ACT 1986<part>Part&#160;V&#151;Liabilities on cheques </part>
-**</center>
+                     (b)  subject to section 80, the holder, at any time, absolutely and unconditionally renounces the holder’s rights against the drawer or all persons liable on the cheque; or
 
-<center>**
+                     (c)  subject to subsection 81(1), the holder intentionally cancels the cheque or the drawer’s signature and the cancellation is apparent from the cheque.
 
-###  CHEQUES ACT 1986<division>Division&#160;1&#151;Liabilities of parties </division> 
-**</center>
+             (2)  A cheque is also discharged if the cheque is fraudulently and materially altered by the holder.
 
-**
+             (3)  Nothing in this section affects the discharge of a cheque otherwise than in accordance with this section.
 
-###  CHEQUES ACT 1986- SECT 71  Liability of drawer 
-**
+##### <a id="79"></a>79  Payment in due course
 
- <dl compact="">
+                   A cheque is paid in due course if the cheque is paid to the holder in good faith and without notice of any defect in the holder’s title or that the holder had no title to the cheque.
 
-		Subject to subsection 17(1), section&#160;59 and subsection 60(1), the drawer
+##### <a id="80"></a>80  Renunciation of rights against drawer or all persons liable on cheque
 
-of a cheque, by drawing the cheque, undertakes:
+                   The renunciation by the holder of a cheque of the holder’s rights against the drawer or all persons liable on the cheque does not discharge the cheque unless the renunciation is completed by delivery of the cheque to the drawer by the holder in order to give effect to the renunciation.
 
- </dl>
+##### <a id="81"></a>81  Cancellation of cheque or drawer’s signature
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The cancellation of a cheque, or the drawer’s signature on a cheque, does not discharge the cheque if the cancellation is made under a mistake of fact.
 
-<dt>(a)</dt><dd>that, on due presentment for payment, the cheque will be paid according to
+             (2)  Where a cheque, or the drawer’s signature on a cheque, has been cancelled, the cancellation shall, unless the contrary is proved, be presumed:
 
-its tenor as drawn; and</dd>
+                     (a)  to have been made intentionally by a holder; and
 
-<dt>(b)</dt><dd>that:
+                     (b)  not to have been made under a mistake of fact.
 
-</dd>
+##### <a id="82"></a>82   Effect of discharge of cheque
 
-</dl></dl></dl>
+             (1)  Subject to subsections (2) and (3), where a cheque is discharged under subsection 78(1) or (2), all rights on the cheque are extinguished.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (2)  Where:
 
-<dt>(i)</dt><dd>if the cheque is dishonoured when duly presented for payment; or</dd>
+                     (a)  a cheque is discharged by virtue of paragraph 78(1)(b) by the renunciation of the holder’s rights against the drawer or all persons liable on the cheque;
 
-<dt>(ii)</dt><dd>if presentment of the cheque for payment is dispensed with by virtue of
+                     (b)  a person takes the cheque without notice of the renunciation; and
 
-paragraph 59(a) or (aa) and the cheque is unpaid after its date has arrived;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		the drawer will compensate the holder or an indorser who is compelled to pay
-
-the cheque.
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 72  Estoppel against drawer 
-**
-
- <dl compact="">
-
-		The drawer of a cheque, by issuing the cheque, is estopped from denying to a
-
-holder in due course that the cheque was, at the time when the cheque was
-
-issued, a valid cheque.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 73  Liability of indorser 
-**
-
- <dl compact="">
-
-		Subject to subsection 17(2), section&#160;59 and subsection 60(2), an
-
-indorser of a cheque, by indorsing the cheque, undertakes:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that, on due presentment for payment, the cheque will be paid according to
-
-its tenor as indorsed by the indorser; and</dd>
-
-<dt>(b)</dt><dd>that:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>if the cheque is dishonoured when duly presented for payment; or</dd>
-
-<dt>(ii)</dt><dd>if presentment of the cheque for payment is dispensed with by virtue of
-
-paragraph 59(a) or (aa) and the cheque is unpaid after its date has arrived;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		the indorser will compensate the holder or a subsequent indorser who is
-
-compelled to pay the cheque.
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 74  Estoppels against indorser 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>An indorser of a cheque, by indorsing the cheque, is estopped:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>from denying to a holder in due course the genuineness and regularity, in
-
-all respects, of the drawer's signature and all previous indorsements; and</dd>
-
-<dt>(b)</dt><dd>from denying to the indorsee to whom the indorser indorsed the cheque or a
-
-subsequent indorsee or to a holder who is not an indorsee:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>that the cheque was, at the time when the indorser indorsed it, a valid
-
-and undischarged cheque; and</dd>
-
-<dt>(ii)</dt><dd>that the indorser had, at that time, a good title to the cheque.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The reference in paragraph&#160;(1)(a) to a holder in due course includes
-
-a reference to a person who, but for a signature being written or placed on the
-
-cheque without the authority of the person whose signature it purports to be,
-
-would be a holder in due course.
-
-</dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 75  Stranger signing cheque liable as indorser 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a person signs a cheque, otherwise than as the drawer or an
-
-indorser, intending to become liable on the cheque, the provisions of this Act
-
-(other than sections&#160;25, 26 and 27 and subsection 28(2)) apply, _mutatis mutandis_, to the person as if the person were an indorser and the person's
-
-signature were an indorsement.</dd> <dt>(2)</dt><dd>A person who signs a cheque shall, for the purposes of subsection&#160;(1): </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>as regards a holder in due course&#151;be conclusively presumed to have signed
-
-the cheque intending to become liable on the cheque; or</dd>
-
-<dt>(b)</dt><dd>as regards a holder who is not a holder in due course&#151;be presumed, unless
-
-the contrary is proved, to have signed the cheque intending to become liable on
-
-the cheque;
-
-</dd>
-
-</dl></dl></dl>
-
-unless it is apparent, on the face of the cheque, that the person did not sign the cheque intending to become liable on the cheque. 
-
-<center>Back to Top</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 76  Measure of damages on dishonour 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), where a cheque is dishonoured, the holder
-
-may recover as damages from any person liable on the cheque, and an indorser
-
-who has been compelled to pay the cheque may recover as damages from the drawer
-
-or a prior indorser:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the cheque is dishonoured in Australia:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the sum ordered to be paid by the cheque; and</dd>
-
-<dt>(ii)</dt><dd>the amount of any interest that, in accordance with the regulations, is
-
-payable in respect of that sum; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>if the cheque is dishonoured outside Australia:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the amount of the re-exchange of the cheque; and</dd>
-
-<dt>(ii)</dt><dd>the amount of any interest that, in accordance with the regulations, is
-
-payable in respect of that amount.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Where an action or proceeding is brought in a court for the recovery of
-
-damages under subsection&#160;(1), the court may, if it is of the opinion that
-
-justice so requires, direct that interest payable under that subsection be
-
-withheld in whole or in part.</dd> <dt>(3)</dt><dd>Damages recoverable under subsection&#160;(1) shall be deemed to be liquidated damages. </dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 77  Transferor by delivery 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A transferor by delivery is a holder of a cheque payable to bearer who
-
-transfers the cheque by negotiation without indorsing the cheque.</dd> <dt>(2)</dt><dd>A transferor by delivery is not liable on the cheque.</dd> <dt>(3)</dt><dd>Where the person to whom a transferor by delivery transfers the cheque by negotiation takes the cheque for value, the transferor by delivery warrants to the person: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that the cheque is what it purports to be;</dd>
-
-<dt>(b)</dt><dd>that the transferor by delivery has the right to transfer the cheque by
-
-negotiation; and</dd>
-
-<dt>(c)</dt><dd>that the transferor by delivery is not, at the time of the transfer, aware
-
-of any fact that renders the cheque valueless.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;2&#151;Discharge of liabilities of parties </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 78  When cheque discharged 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A cheque is discharged if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the cheque is paid in due course by the drawee institution;</dd>
-
-<dt>(b)</dt><dd>subject to section&#160;80, the holder, at any time, absolutely and
-
-unconditionally renounces the holder's rights against the drawer or all persons
-
-liable on the cheque; or</dd>
-
-<dt>(c)</dt><dd>subject to subsection 81(1), the holder intentionally cancels the cheque
-
-or the drawer's signature and the cancellation is apparent from the cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A cheque is also discharged if the cheque is fraudulently and materially
-
-altered by the holder.</dd> <dt>(3)</dt><dd>Nothing in this section affects the discharge of a cheque otherwise than in accordance with this section. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 79  Payment in due course 
-**
-
- <dl compact="">
-
-		A cheque is paid in due course if the cheque is paid to the holder in good
-
-faith and without notice of any defect in the holder's title or that the holder
-
-had no title to the cheque.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 80  Renunciation of rights against drawer or all persons liable on cheque 
-**
-
-<dl compact="">
-
-		The renunciation by the holder of a cheque of the holder's rights against the
-
-drawer or all persons liable on the cheque does not discharge the cheque unless
-
-the renunciation is completed by delivery of the cheque to the drawer by the
-
-holder in order to give effect to the renunciation.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 81  Cancellation of cheque or drawer's signature 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The cancellation of a cheque, or the drawer's signature on a cheque, does
-
-not discharge the cheque if the cancellation is made under a mistake of fact.</dd> <dt>(2)</dt><dd>Where a cheque, or the drawer's signature on a cheque, has been cancelled, the cancellation shall, unless the contrary is proved, be presumed: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to have been made intentionally by a holder; and</dd>
-
-<dt>(b)</dt><dd>not to have been made under a mistake of fact.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 82  Effect of discharge of cheque 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsections&#160;(2) and (3), where a cheque is discharged
-
-under subsection 78(1) or (2), all rights on the cheque are extinguished.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque is discharged by virtue of paragraph 78(1)(b) by the renunciation
-
-of the holder's rights against the drawer or all persons liable on the
-
-cheque;</dd>
-
-<dt>(b)</dt><dd>a person takes the cheque without notice of the renunciation; and</dd>
-
-<dt>(c)</dt><dd>the person would, but for the discharge of the cheque, be a holder in due
-
-course of the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the person would, but for the discharge of the cheque, be a holder in due course of the cheque;
 
 the person may enforce payment of the cheque as if the cheque had not been discharged.
 
-<dl compact="">
+             (3)  Where a cheque is discharged under subsection 78(2) by an alteration of the cheque, then:
 
-<dt>(3)</dt><dd>Where a cheque is discharged under subsection 78(2) by an alteration of
+                     (a)  a person who, but for the discharge of the cheque, would be the holder may enforce payment of the cheque, according to the tenor of the cheque as altered, against:
 
-the cheque, then:
+                              (i)  the person who made the alteration;
 
-</dd> </dl>
+                             (ii)  a person who authorized or agreed to the alteration; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                            (iii)  a person who indorsed the cheque after the alteration was made;
 
-<dt>(a)</dt><dd>a person who, but for the discharge of the cheque, would be the holder may
+                            as if the cheque had not been discharged; and
 
-enforce payment of the cheque, according to the tenor of the cheque as altered,
+                     (b)  in a case where the alteration is not apparent—a person who, but for the discharge of the cheque, would be a holder in due course may enforce payment of the cheque, according to the original tenor of the cheque, against any other person as if the cheque had not been discharged.
 
-against:
+             (4)  Subsection (1) shall not be taken to limit by implication the effects of the discharge of a cheque.
 
-</dd>
+##### <a id="83"></a>83  When indorser discharged
 
-</dl></dl></dl>
+             (1)  An indorser of a cheque is discharged if:
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (a)  subject to section 84, the holder, at any time, absolutely and unconditionally renounces the holder’s rights against the indorser; or
 
-<dt>(i)</dt><dd>the person who made the alteration;</dd>
+                     (b)  subject to subsection 85(1), the holder intentionally cancels the indorser’s signature and the cancellation is apparent from the cheque.
 
-<dt>(ii)</dt><dd>a person who authorized or agreed to the alteration; or</dd>
+             (2)  Where an indorser is discharged by virtue of paragraph (1)(a) or (b), any indorser who would have had a right of recourse against the first-mentioned indorser is also discharged.
 
-<dt>(iii)</dt><dd>a person who indorsed the cheque after the alteration was made;
+             (3)  Nothing in this section affects the discharge of an indorser otherwise than in accordance with this section.
 
-</dd>
+##### <a id="84"></a>84  Renunciation of rights against indorser
 
-</dl></dl></dl></dl>
+                   The renunciation by the holder of a cheque of the holder’s rights against an indorser does not discharge the indorser unless the renunciation is in writing signed by the holder.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="85"></a>85  Cancellation of indorser’s signature
 
-		as if the cheque had not been discharged; and
+             (1)  The cancellation of the signature of an indorser does not discharge the indorser if the cancellation is made under a mistake of fact.
 
-<dt>(b)</dt><dd>in a case where the alteration is not apparent&#151;a person who, but for the
+             (2)  Where the signature of an indorser has been cancelled, the cancellation shall, unless the contrary is proved, be presumed:
 
-discharge of the cheque, would be a holder in due course may enforce payment of
+                     (a)  to have been made intentionally by a holder; and
 
-the cheque, according to the original tenor of the cheque, against any other
+                     (b)  not to have been made under a mistake of fact.
 
-person as if the cheque had not been discharged.
+##### <a id="86"></a>86  Effect of discharge of indorser
 
-</dd>
+             (1)  Subject to subsection (2), where an indorser is discharged under subsection 83(1) or (2), all rights on the cheque against the indorser are extinguished.
 
-</dl></dl></dl>
+             (2)  Where:
 
-<dl compact="">
+                     (a)  an indorser is discharged:
 
-<dt>(4)</dt><dd>Subsection&#160;(1) shall not be taken to limit by implication the effects
+                              (i)  by virtue of paragraph 83(1)(a) by the renunciation of the holder’s rights against the indorser; or
 
-of the discharge of a cheque.
+                             (ii)  under subsection 83(2) by the renunciation of the holder’s rights against an indorser against whom the first-mentioned indorser would have had a right of recourse; and
 
-</dd> </dl>
+                     (b)  a person takes the cheque without notice of the renunciation;
 
-<center>Back to Top</center>
+the person may enforce payment of the cheque as if the first-mentioned indorser had not been discharged.
 
-**
+##### <a id="87"></a>87  Effect of payment by drawer or indorser
 
-###  CHEQUES ACT 1986- SECT 83  When indorser discharged 
-**
+             (1)  Where a cheque is paid by the drawer or an indorser (in this subsection referred to as the **_relevant party_**), the cheque is not discharged and, if the cheque is a cheque payable to order and the cheque is not indorsed to the relevant party, the relevant party acquires the right to have the person who was paid indorse the cheque to the relevant party so as to transfer the cheque by negotiation to the relevant party.
 
- <dl compact="">
+             (2)  The reference in subsection (1) to the drawer of a cheque does not include a reference to a drawer of a cheque who is also the drawee institution.
 
-<dt>(1)</dt><dd>An indorser of a cheque is discharged if:
+## Part VI—Duties and liabilities of financial institutions
 
-</dd> </dl>
+### Division 1—The drawee institution
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="88"></a>88  Cheque not assignment of funds
 
-<dt>(a)</dt><dd>subject to section&#160;84, the holder, at any time, absolutely and
+                   The drawing of a cheque does not, of itself, operate as an assignment of funds that are available, in the hands of the drawee institution, for the payment of the cheque.
 
-unconditionally renounces the holder's rights against the indorser; or</dd>
+##### <a id="89"></a>89  Stale cheque
 
-<dt>(b)</dt><dd>subject to subsection 85(1), the holder intentionally cancels the
+             (1)  Subject to subsections (2) and (3), the drawee institution may refuse payment of a stale cheque.
 
-indorser's signature and the cancellation is apparent from the cheque.
+             (2)  The drawee institution must not refuse payment of a stale cheque if:
 
-</dd>
+                     (a)  the drawee institution is obliged, by an agreement with the drawer, to pay the cheque notwithstanding that it is a stale cheque; or
 
-</dl></dl></dl>
+                     (b)  the drawer directs the drawee institution to pay the cheque notwithstanding that it is a stale cheque.
 
-<dl compact="">
+             (3)  The drawee institution must refuse payment of a stale cheque if:
 
-<dt>(2)</dt><dd>Where an indorser is discharged by virtue of paragraph&#160;(1)(a) or (b),
+                     (a)  the drawee institution is obliged, by an agreement with the drawer, not to pay the cheque after it has become stale; or
 
-any indorser who would have had a right of recourse against the first-mentioned
+                     (b)  the drawer directs the drawee institution not to pay the cheque after it has become stale.
 
-indorser is also discharged.</dd> <dt>(3)</dt><dd>Nothing in this section affects the discharge of an indorser otherwise than in accordance with this section. </dd> </dl>
+##### <a id="90"></a>90  Countermand of payment and notice of death or mental incapacity
 
-**
+             (1)  Subject to subsection (2), the duty and authority of the drawee institution to pay a cheque are terminated by:
 
-###  CHEQUES ACT 1986- SECT 84  Renunciation of rights against indorser 
-**
+                     (a)  countermand of payment;
 
- <dl compact="">
+                     (b)   notice of the drawer’s mental incapacity to incur liability on a cheque; or
 
-		The renunciation by the holder of a cheque of the holder's rights against an
+                     (c)   notice of the drawer’s death.
 
-indorser does not discharge the indorser unless the renunciation is in writing
+             (2)  Paragraph (1)(c) does not apply in relation to a cheque if:
 
-signed by the holder.
+                     (a)  not more than 10 days have elapsed since the day on which the drawee institution received notice of the customer’s death; and
 
- </dl>
+                     (b)  it has not received a countermand of payment from a person who claims that the person is, or will be:
 
-**
+                              (i)  entitled to administer the drawer’s estate; or
 
-###  CHEQUES ACT 1986- SECT 85  Cancellation of indorser's signature 
-**
+                             (ii)  a beneficiary of the drawer’s estate.
 
- <dl compact="">
+##### <a id="91"></a>91  Protection of drawee institution paying improperly raised cheque
 
-<dt>(1)</dt><dd>The cancellation of the signature of an indorser does not discharge the
+                   Where:
 
-indorser if the cancellation is made under a mistake of fact.</dd> <dt>(2)</dt><dd>Where the signature of an indorser has been cancelled, the cancellation shall, unless the contrary is proved, be presumed: </dd> </dl>
+                     (a)  a cheque is fraudulently altered so as to increase the sum ordered to be paid by the cheque;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  the alteration is the only material alteration of the cheque made fraudulently; and
 
-<dt>(a)</dt><dd>to have been made intentionally by a holder; and</dd>
+                     (c)  the drawee institution, in good faith and without negligence, pays the cheque to the holder;
 
-<dt>(b)</dt><dd>not to have been made under a mistake of fact.
+the drawee institution may, without prejudice to any other rights that it may have against the drawer, debit the drawer’s account according to the tenor of the cheque as drawn.
 
-</dd>
+##### <a id="92"></a>92  Protection of drawee institution paying crossed cheque in accordance with crossing
 
-</dl></dl></dl>
+                   Subject to subsection 32(1), where the drawee institution, in good faith and without negligence, pays a crossed cheque to a financial institution, the drawee institution is taken to have paid the cheque in due course.
 
-**
+##### <a id="93"></a>93  Payment of crossed cheque otherwise than in accordance with crossing
 
-###  CHEQUES ACT 1986- SECT 86  Effect of discharge of indorser 
-**
+             (1)  Subject to subsection (2), where the drawee institution pays a crossed cheque otherwise than to a financial institution, the drawee institution is liable to the true owner of the cheque for any loss the true owner suffers as a result of the cheque having been paid otherwise than to a financial institution.
 
- <dl compact="">
+             (2)  Subject to subsection 32(1), where:
 
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), where an indorser is discharged under
+                     (a)  a crossed cheque is presented for payment to the drawee institution;
 
-subsection 83(1) or (2), all rights on the cheque against the indorser are
+                     (b)  the cheque, at the time of presentment, does not appear, on its face, to be, or at any time to have been, a crossed cheque; and
 
-extinguished.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an indorser is discharged:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>by virtue of paragraph 83(1)(a) by the renunciation of the holder's rights
-
-against the indorser; or</dd>
-
-<dt>(ii)</dt><dd>under subsection 83(2) by the renunciation of the holder's rights against
-
-an indorser against whom the first-mentioned indorser would have had a right of
-
-recourse; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>a person takes the cheque without notice of the renunciation;
-
-</dd>
-
-</dl></dl></dl>
-
-the person may enforce payment of the cheque as if the first-mentioned indorser had not been discharged. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 87  Effect of payment by drawer or indorser 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a cheque is paid by the drawer or an indorser (in this subsection
-
-referred to as the _relevant party_), the cheque is not discharged
-
-and, if the cheque is a cheque payable to order and the cheque is not indorsed
-
-to the relevant party, the relevant party acquires the right to have the person
-
-who was paid indorse the cheque to the relevant party so as to transfer the
-
-cheque by negotiation to the relevant party.</dd> <dt>(2)</dt><dd>The reference in subsection&#160;(1) to the drawer of a cheque does not include a reference to a drawer of a cheque who is also the drawee institution. </dd> </dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  CHEQUES ACT 1986<part>Part&#160;VI&#151;Duties and liabilities of financial institutions </part>
-**</center>
-
-<center>**
-
-###  CHEQUES ACT 1986<division>Division&#160;1&#151;The drawee institution </division> 
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 88  Cheque not assignment of funds 
-**
-
- <dl compact="">
-
-		The drawing of a cheque does not, of itself, operate as an assignment of
-
-funds that are available, in the hands of the drawee institution, for the
-
-payment of the cheque.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 89  Stale cheque 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsections&#160;(2) and (3), the drawee institution may refuse
-
-payment of a stale cheque.</dd> <dt>(2)</dt><dd>The drawee institution must not refuse payment of a stale cheque if: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the drawee institution is obliged, by an agreement with the drawer, to pay
-
-the cheque notwithstanding that it is a stale cheque; or</dd>
-
-<dt>(b)</dt><dd>the drawer directs the drawee institution to pay the cheque
-
-notwithstanding that it is a stale cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>The drawee institution must refuse payment of a stale cheque if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the drawee institution is obliged, by an agreement with the drawer, not to
-
-pay the cheque after it has become stale; or</dd>
-
-<dt>(b)</dt><dd>the drawer directs the drawee institution not to pay the cheque after it
-
-has become stale.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 90  Countermand of payment and notice of death or mental incapacity 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), the duty and authority of the drawee
-
-institution to pay a cheque are terminated by:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>countermand of payment;</dd>
-
-<dt>(b)</dt><dd>notice of the drawer's mental incapacity to incur liability on a cheque;
-
-or</dd>
-
-<dt>(c)</dt><dd>notice of the drawer's death.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Paragraph&#160;(1)(c) does not apply in relation to a cheque if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>not more than 10 days have elapsed since the day on which the drawee
-
-institution received notice of the customer's death; and</dd>
-
-<dt>(b)</dt><dd>it has not received a countermand of payment from a person who claims that
-
-the person is, or will be:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>entitled to administer the drawer's estate; or</dd>
-
-<dt>(ii)</dt><dd>a beneficiary of the drawer's estate.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 91  Protection of drawee institution paying improperly raised cheque 
-**
-
-<dl compact="">
-
-		Where:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque is fraudulently altered so as to increase the sum ordered to be
-
-paid by the cheque;</dd>
-
-<dt>(b)</dt><dd>the alteration is the only material alteration of the cheque made
-
-fraudulently; and</dd>
-
-<dt>(c)</dt><dd>the drawee institution, in good faith and without negligence, pays the
-
-cheque to the holder;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-the drawee institution may, without prejudice to any other rights that it may have against the drawer, debit the drawer's account according to the tenor of the cheque as drawn. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 92  Protection of drawee institution paying crossed cheque in accordance with crossing 
-**
-
-<dl compact="">
-
-		Subject to subsection 32(1), where the drawee institution, in good faith and
-
-without negligence, pays a crossed cheque to a financial institution, the
-
-drawee institution is taken to have paid the cheque in due course.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 93  Payment of crossed cheque otherwise than in accordance with crossing 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection&#160;(2), where the drawee institution pays a
-
-crossed cheque otherwise than to a financial institution, the drawee
-
-institution is liable to the true owner of the cheque for any loss the true
-
-owner suffers as a result of the cheque having been paid otherwise than to a
-
-financial institution.</dd> <dt>(2)</dt><dd>Subject to subsection 32(1), where: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a crossed cheque is presented for payment to the drawee institution;</dd>
-
-<dt>(b)</dt><dd>the cheque, at the time of presentment, does not appear, on its face, to
-
-be, or at any time to have been, a crossed cheque; and</dd>
-
-<dt>(c)</dt><dd>the drawee institution, in good faith and without negligence, pays the
-
-cheque otherwise than to a financial institution;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the drawee institution, in good faith and without negligence, pays the cheque otherwise than to a financial institution;
 
 the drawee institution:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  does not, in paying the cheque, incur any liability by reason only of its failure to pay the cheque to a financial institution; and
 
-<dt>(d)</dt><dd>does not, in paying the cheque, incur any liability by reason only of its
+                     (e)  shall be deemed to have paid the cheque in due course.
 
-failure to pay the cheque to a financial institution; and</dd>
+##### <a id="94"></a>94  Protection of drawee institution paying cheque lacking indorsement or with irregular or unauthorised indorsement
 
-<dt>(e)</dt><dd>shall be deemed to have paid the cheque in due course.
+             (1)  Subject to subsection 32(1), where:
 
-</dd>
+                     (a)  the drawee institution, in good faith and without negligence, pays a cheque, whether or not to a financial institution; and
 
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 94  Protection of drawee institution paying cheque lacking indorsement or with irregular or unauthorised indorsement 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection 32(1), where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the drawee institution, in good faith and without negligence, pays a
-
-cheque, whether or not to a financial institution; and</dd>
-
-<dt>(b)</dt><dd>an indorsement has been written or placed on the cheque without the
-
-authority of the person whose indorsement it purports to be;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  an indorsement has been written or placed on the cheque without the authority of the person whose indorsement it purports to be;
 
 the drawee institution:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  does not, in paying the cheque, incur any liability by reason only of:
 
-<dt>(c)</dt><dd>does not, in paying the cheque, incur any liability by reason only of:
+                              (i)  the indorsement having been written or placed on the cheque without the authority of the person whose indorsement it purports to be; or
 
-</dd>
+                             (ii)  its failure to concern itself with the genuineness of, or the existence of authority for, the indorsement; and
 
-</dl></dl></dl>
+                     (d)  shall be deemed to have paid the cheque in due course.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (2)  Subject to subsection 32(1), where:
 
-<dt>(i)</dt><dd>the indorsement having been written or placed on the cheque without the
+                     (a)  the drawee institution, in good faith and without negligence, pays a cheque to a financial institution; and
 
-authority of the person whose indorsement it purports to be; or</dd>
-
-<dt>(ii)</dt><dd>its failure to concern itself with the genuineness of, or the existence
-
-of authority for, the indorsement; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>shall be deemed to have paid the cheque in due course.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subject to subsection 32(1), where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the drawee institution, in good faith and without negligence, pays a
-
-cheque to a financial institution; and</dd>
-
-<dt>(b)</dt><dd>the cheque is not indorsed or is irregularly indorsed;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
+                     (b)  the cheque is not indorsed or is irregularly indorsed;
 
 the drawee institution:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  does not, in paying the cheque, incur any liability by reason only of the absence of, or the irregularity in, the indorsement; and
 
-<dt>(c)</dt><dd>does not, in paying the cheque, incur any liability by reason only of the
+                     (d)  shall be deemed to have paid the cheque in due course.
 
-absence of, or the irregularity in, the indorsement; and</dd>
+### Division 2—The collecting institution
 
-<dt>(d)</dt><dd>shall be deemed to have paid the cheque in due course.
+##### <a id="95"></a>95  Protection of institution collecting cheque for customer or another institution
 
-</dd>
+             (1)  Where:
 
-</dl></dl></dl>
+                     (a)  a financial institution (the **_collecting institution_**), in good faith and without negligence:
 
-<center>**
+                              (i)  receives payment of a cheque for a customer; or
 
-###  CHEQUES ACT 1986<division>Division&#160;2&#151;The collecting institution </division> 
-**</center>
+                             (ii)  receives payment of a cheque and, before or after receiving payment, credits a customer’s account with the sum ordered to be paid by the cheque; and
 
-**
-
-###  CHEQUES ACT 1986- SECT 95  Protection of institution collecting cheque for customer or another institution 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a financial institution (the _collecting institution_), in
-
-good faith and without negligence:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>receives payment of a cheque for a customer; or</dd>
-
-<dt>(ii)</dt><dd>receives payment of a cheque and, before or after receiving payment,
-
-credits a customer's account with the sum ordered to be paid by the cheque; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the customer has no title, or has a defective title, to the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the customer has no title, or has a defective title, to the cheque;
 
 the collecting institution does not incur any liability to the true owner by reason only of having received payment of the cheque.
 
-<dl compact="">
+             (2)  Where:
 
-<dt>(2)</dt><dd>Where:
+                     (a)  a financial institution (the **_collecting institution_**):
 
-</dd> </dl>
+                              (i)  receives payment of a cheque for a customer; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  receives payment of a cheque and, before or after receiving payment, credits a customer’s account with the sum ordered to be paid by the cheque;
 
-<dt>(a)</dt><dd>a financial institution (the _collecting institution_):
+                     (b)  the cheque is a cheque drawn payable to order that has not been transferred by negotiation; and
 
-</dd>
+                     (c)  the name specified in the cheque as the name of the payee:
 
-</dl></dl></dl>
+                              (i)  is the same as the name of the customer;
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                             (ii)  is the same as a business name or trade name of the customer; or
 
-<dt>(i)</dt><dd>receives payment of a cheque for a customer; or</dd>
+                            (iii)  is so similar to the name of the customer, or a business name or trade name of the customer, that it is reasonable in all the circumstances for the collecting institution to have assumed that the customer was the person intended by the drawer to be the payee;
 
-<dt>(ii)</dt><dd>receives payment of a cheque and, before or after receiving payment,
+the collecting institution shall not be treated, for the purposes of subsection (1), as having been negligent by reason only of its failure to concern itself with the absence of, or irregularity in, an indorsement of the cheque.
 
-credits a customer's account with the sum ordered to be paid by the cheque;
+             (3)  Where a financial institution (the **_collecting agent_**), in good faith and without negligence:
 
-</dd>
+                     (a)  receives payment of a cheque for another financial institution or for an FCA institution; or
 
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the cheque is a cheque drawn payable to order that has not been
-
-transferred by negotiation; and</dd>
-
-<dt>(c)</dt><dd>the name specified in the cheque as the name of the payee:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>is the same as the name of the customer;</dd>
-
-<dt>(ii)</dt><dd>is the same as a business name or trade name of the customer; or</dd>
-
-<dt>(iii)</dt><dd>is so similar to the name of the customer, or a business name or trade
-
-name of the customer, that it is reasonable in all the circumstances for the
-
-collecting institution to have assumed that the customer was the person
-
-intended by the drawer to be the payee;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-the collecting institution shall not be treated, for the purposes of subsection&#160;(1), as having been negligent by reason only of its failure to concern itself with the absence of, or irregularity in, an indorsement of the cheque.
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where a financial institution (the _collecting agent_), in
-
-good faith and without negligence:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>receives payment of a cheque for another financial institution or for an
-
-FCA institution; or</dd>
-
-<dt>(b)</dt><dd>receives payment of a cheque and, before or after receiving payment, pays
-
-another financial institution or an FCA institution the sum ordered to be paid
-
-by the cheque;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
+                     (b)  receives payment of a cheque and, before or after receiving payment, pays another financial institution or an FCA institution the sum ordered to be paid by the cheque;
 
 the collecting agent does not incur any liability to the true owner by reason only of having received payment of the cheque.
 
-<dl compact="">
+             (4)  Where:
 
-<dt>(4)</dt><dd>Where:
+                     (a)  a financial institution (the **_collecting agent_**):
 
-</dd> </dl>
+                              (i)  receives payment of a cheque for another financial institution or for an FCA institution; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  receives payment of a cheque and, before or after receiving payment, pays another financial institution or an FCA institution the sum ordered to be paid by the cheque; and
 
-<dt>(a)</dt><dd>a financial institution (the _collecting agent_):
+                     (b)  the cheque is a cheque drawn payable to order that has not been transferred by negotiation;
 
-</dd>
+the collecting agent shall not be treated, for the purposes of subsection (3), as having been negligent by reason only of its failure to concern itself with the absence of, or irregularity in, an indorsement of the cheque.
 
-</dl></dl></dl>
+##### <a id="96"></a>96  Rights of institution collecting order cheque not indorsed by payee 
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                   Where:
 
-<dt>(i)</dt><dd>receives payment of a cheque for another financial institution or for an
+                     (a)  the payee of a cheque payable to order, without indorsing the cheque, lodges the cheque with a financial institution (the **_collecting institution_**) for collection for the payee; and
 
-FCA institution; or</dd>
-
-<dt>(ii)</dt><dd>receives payment of a cheque and, before or after receiving payment, pays
-
-another financial institution or an FCA institution the sum ordered to be paid
-
-by the cheque; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the cheque is a cheque drawn payable to order that has not been
-
-transferred by negotiation;
-
-</dd>
-
-</dl></dl></dl>
-
-the collecting agent shall not be treated, for the purposes of subsection&#160;(3), as having been negligent by reason only of its failure to concern itself with the absence of, or irregularity in, an indorsement of the cheque. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 96  Rights of institution collecting order cheque not indorsed by payee 
-**
-
-<dl compact="">
-
-		Where:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the payee of a cheque payable to order, without indorsing the cheque,
-
-lodges the cheque with a financial institution (the _collecting institution_) for collection for the payee; and</dd>
-
-<dt>(b)</dt><dd>the collecting institution gives value for, or has a lien on, the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the collecting institution gives value for, or has a lien on, the cheque;
 
 the collecting institution has such rights (if any) as it would have had if, before the lodgment of the cheque with it, the payee had indorsed the cheque in blank.
 
-<center>**
+## Part VII—Special provisions relating to FCA institutions and agency cheques
 
-###  CHEQUES ACT 1986<part>Part&#160;VII&#151;Special provisions relating to FCA institutions and agency cheques </part>
-**</center>
+### Division 1—Presentment and collection of cheques by FCA institutions
 
-<center>**
+##### <a id="97"></a>97  FCA institution to ensure cheques presented promptly
 
-###  CHEQUES ACT 1986<division>Division&#160;1&#151;Presentment and collection of cheques by FCA institutions </division> 
-**</center>
+             (1)  Subject to sections 59 and 70B, where the holder of a cheque lodges the cheque with an FCA institution for collection for the holder, the FCA institution shall ensure that the cheque is duly presented for payment on its behalf as soon as is reasonably practicable and, if the FCA institution fails to do so, it is liable to the holder for any loss that the holder thereby suffers.
 
-**
+             (2)  Where the drawee institution makes a request under subsection 62(5) in relation to the cheque, the cheque shall, for the purposes of subsection (1), be deemed not to have been duly presented for payment unless, and until, the request is complied with.
 
-###  CHEQUES ACT 1986- SECT 97  FCA institution to ensure cheques presented promptly 
-**
+             (3)  In determining, for the purposes of subsection (1), whether the FCA institution failed to ensure that the cheque was duly presented for payment on its behalf as soon as was reasonably practicable, regard shall be had to:
 
- <dl compact="">
+                     (a)  the fact that the instrument is a cheque and that it is reasonable to expect a cheque to be presented for payment promptly;
 
-<dt>(1)</dt><dd>Subject to sections&#160;59 and 70B, where the holder of a cheque lodges
+                     (b)  the means that were available to it for having the cheque duly presented on its behalf;
 
-the cheque with an FCA institution for collection for the holder, the FCA
+                     (c)  the relative speed, reliability and cost of those means;
 
-institution shall ensure that the cheque is duly presented for payment on its
+                     (d)  the usage of financial institutions and FCA institutions in relation to the presentment of cheques;
 
-behalf as soon as is reasonably practicable and, if the FCA institution fails
+                     (e)  in a case where a request under subsection 62(5) was made in relation to the cheque—the following matters, namely:
 
-to do so, it is liable to the holder for any loss that the holder thereby
+                              (i)  the making of the request;
 
-suffers.</dd> <dt>(2)</dt><dd>Where the drawee institution makes a request under subsection 62(5) in relation to the cheque, the cheque shall, for the purposes of subsection&#160;(1), be deemed not to have been duly presented for payment unless, and until, the request is complied with.</dd> <dt>(3)</dt><dd>In determining, for the purposes of subsection&#160;(1), whether the FCA institution failed to ensure that the cheque was duly presented for payment on its behalf as soon as was reasonably practicable, regard shall be had to: </dd> </dl>
+                             (ii)  the nature of the request;
 
-<dl compact=""><dl compact=""><dl compact="">
+                            (iii)  whether or not the financial institution to which the request was made had actual possession of the cheque;
 
-<dt>(a)</dt><dd>the fact that the instrument is a cheque and that it is reasonable to
+                            (iv)  whether or not the request was complied with;
 
-expect a cheque to be presented for payment promptly;</dd>
+                             (v)  if the request was complied with—the time within which the request was complied with and the means by which the request was complied with;
 
-<dt>(b)</dt><dd>the means that were available to it for having the cheque duly presented
+                            (vi)  the means that were available for complying with the request;
 
-on its behalf;</dd>
+                           (vii)  the relative speed, reliability and cost of those means;
 
-<dt>(c)</dt><dd>the relative speed, reliability and cost of those means;</dd>
+                           (viii)  the usage of financial institutions and FCA institutions in relation to requests under subsection 62(5); and
 
-<dt>(d)</dt><dd>the usage of financial institutions and FCA institutions in relation to
+                      (f)  any other facts of the particular case, including:
 
-the presentment of cheques;</dd>
+                              (i)  the nature of the cheque and, in particular, but without limiting the generality of the foregoing, the date of the cheque (if any) and the sum ordered to be paid by the cheque; and
 
-<dt>(e)</dt><dd>in a case where a request under subsection 62(5) was made in relation to
+                             (ii)  whether any delay in presenting the cheque was:
 
-the cheque&#151;the following matters, namely:
+                                        (A)  caused by circumstances beyond the control of the FCA institution; and
 
-</dd>
+                                        (B)  not imputable to default, misconduct or negligence on the part of the FCA institution.
 
-</dl></dl></dl>
+##### <a id="98"></a>98  Protection of FCA financial institution collecting cheque for customer
 
-<center>Back to Top</center>
+             (1)  Where:
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (a)  an FCA institution, in good faith and without negligence:
 
-<dt>(i)</dt><dd>the making of the request;</dd>
+                              (i)  receives payment of a cheque for a customer; or
 
-<dt>(ii)</dt><dd>the nature of the request;</dd>
+                             (ii)  receives payment of a cheque and, before or after receiving payment, credits a customer’s account with the sum ordered to be paid by the cheque; and
 
-<dt>(iii)</dt><dd>whether or not the financial institution to which the request was made
-
-had actual possession of the cheque;</dd>
-
-<dt>(iv)</dt><dd>whether or not the request was complied with;</dd>
-
-<dt>(v)</dt><dd>if the request was complied with&#151;the time within which the request was
-
-complied with and the means by which the request was complied with;</dd>
-
-<dt>(vi)</dt><dd>the means that were available for complying with the request;</dd>
-
-<dt>(vii)</dt><dd>the relative speed, reliability and cost of those means;</dd>
-
-<dt>(viii)</dt><dd>the usage of financial institutions and FCA institutions in relation to
-
-requests under subsection 62(5); and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(f)</dt><dd>any other facts of the particular case, including:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the nature of the cheque and, in particular, but without limiting the
-
-generality of the foregoing, the date of the cheque (if any) and the sum
-
-ordered to be paid by the cheque; and</dd>
-
-<dt>(ii)</dt><dd>whether any delay in presenting the cheque was:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	caused by circumstances beyond the control of the FCA institution; and
- 	(B)	not imputable to default, misconduct or negligence on the part of the FCA institution. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 98  Protection of FCA financial institution collecting cheque for customer 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an FCA institution, in good faith and without negligence:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>receives payment of a cheque for a customer; or</dd>
-
-<dt>(ii)</dt><dd>receives payment of a cheque and, before or after receiving payment,
-
-credits a customer's account with the sum ordered to be paid by the cheque; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the customer has no title, or has a defective title, to the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the customer has no title, or has a defective title, to the cheque;
 
 the FCA institution does not incur any liability to the true owner by reason only of having received payment of the cheque.
 
-<dl compact="">
+             (2)  Where:
 
-<dt>(2)</dt><dd>Where:
+                     (a)  an FCA institution:
 
-</dd> </dl>
+                              (i)  receives payment of a cheque for a customer; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  receives payment of a cheque and, before or after receiving payment, credits a customer’s account with the sum ordered to be paid by the cheque;
 
-<dt>(a)</dt><dd>an FCA institution:
+                     (b)  the cheque is a cheque drawn payable to order that has not been transferred by negotiation; and
 
-</dd>
+                     (c)  the name specified in the cheque as the name of the payee:
 
-</dl></dl></dl>
+                              (i)  is the same as the name of the customer;
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                             (ii)  is the same as a business name or trade name of the customer; or
 
-<dt>(i)</dt><dd>receives payment of a cheque for a customer; or</dd>
+                            (iii)  is so similar to the name of the customer, or a business name or trade name of the customer, that it is reasonable in all the circumstances for the FCA institution to have assumed that the customer was the person intended by the drawer to be the payee;
 
-<dt>(ii)</dt><dd>receives payment of a cheque and, before or after receiving payment,
+the FCA institution shall not be treated, for the purposes of subsection (1), as having been negligent by reason only of its failure to concern itself with the absence of, or irregularity in, an indorsement of the cheque.
 
-credits a customer's account with the sum ordered to be paid by the cheque;
+##### <a id="99"></a>99  Rights of FCA financial institution collecting order cheque not indorsed by payee
 
-</dd>
+                   Where:
 
-</dl></dl></dl></dl>
+                     (a)  the payee of a cheque payable to order, without indorsing the cheque, lodges the cheque with an FCA institution for collection for the payee; and
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the cheque is a cheque drawn payable to order that has not been
-
-transferred by negotiation; and</dd>
-
-<dt>(c)</dt><dd>the name specified in the cheque as the name of the payee:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>is the same as the name of the customer;</dd>
-
-<dt>(ii)</dt><dd>is the same as a business name or trade name of the customer; or</dd>
-
-<dt>(iii)</dt><dd>is so similar to the name of the customer, or a business name or trade
-
-name of the customer, that it is reasonable in all the circumstances for the
-
-FCA institution to have assumed that the customer was the person intended by
-
-the drawer to be the payee;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-the FCA institution shall not be treated, for the purposes of subsection&#160;(1), as having been negligent by reason only of its failure to concern itself with the absence of, or irregularity in, an indorsement of the cheque. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 99  Rights of FCA financial institution collecting order cheque not indorsed by payee 
-**
-
-<dl compact="">
-
-		Where:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the payee of a cheque payable to order, without indorsing the cheque,
-
-lodges the cheque with an FCA institution for collection for the payee; and</dd>
-
-<dt>(b)</dt><dd>the FCA institution gives value for, or has a lien on, the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the FCA institution gives value for, or has a lien on, the cheque;
 
 the FCA institution has such rights (if any) as it would have had if, before the lodgment of the cheque with it, the payee had indorsed the cheque in blank.
 
-<center>**
+### Division 2—Agency cheques
 
-###  CHEQUES ACT 1986<division>Division&#160;2&#151;Agency cheques </division> 
-**</center>
+##### <a id="100"></a>100  Agency cheques
 
-**
+             (1)  Where:
 
-###  CHEQUES ACT 1986- SECT 100  Agency cheques 
-**
+                     (a)  the drawer of a cheque (the **_issuing institution_**) is a financial institution or an FCA institution; and
 
- <dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the drawer of a cheque (the _issuing institution_) is a
-
-financial institution or an FCA institution; and</dd>
-
-<dt>(b)</dt><dd>the cheque was, at a time when it was wanting in a material particular
-
-necessary for it to be, on its face, a complete cheque, delivered by the
-
-issuing institution to a customer pursuant to an agreement under which the
-
-customer was authorised to fill up the cheque;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the cheque was, at a time when it was wanting in a material particular necessary for it to be, on its face, a complete cheque, delivered by the issuing institution to a customer pursuant to an agreement under which the customer was authorised to fill up the cheque;
 
 then, unless the cheque is signed by the customer:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  the customer is not liable on the cheque; and
 
-<dt>(c)</dt><dd>the customer is not liable on the cheque; and</dd>
+                     (d)  the customer’s account with the issuing institution may not be debited with the sum ordered to be paid by the cheque.
 
-<dt>(d)</dt><dd>the customer's account with the issuing institution may not be debited
+             (2)  If the cheque is signed by the customer, then:
 
-with the sum ordered to be paid by the cheque.
+                     (a)  as regards the holder or an indorser, the following provisions apply, namely:
 
-</dd>
+                              (i)  the issuing institution shall be taken:
 
-</dl></dl></dl>
+                                        (A)   not to have drawn the cheque; and
 
-<dl compact="">
+                                        (B)   not to have signed the cheque;
 
-<dt>(2)</dt><dd>If the cheque is signed by the customer, then:
+                             (ii)  the customer shall be taken:
 
-</dd> </dl>
+                                        (A)  to have drawn the cheque; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                                        (B)  to have signed the cheque as drawer; and
 
-<dt>(a)</dt><dd>as regards the holder or an indorser, the following provisions apply,
+                     (b)  as regards the customer, the issuing institution shall be taken to have the same duties and liabilities, and the same rights, in relation to the cheque as it would have had if:
 
-namely:
+                              (i)  the customer had drawn the cheque; and
 
-</dd>
+                             (ii)  the cheque were addressed by the customer to the issuing institution; and
 
-</dl></dl></dl>
+                            (iii)  the cheque were drawn against the customer’s account with the issuing institution; and
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                            (iv)  if the issuing institution is an FCA institution—the issuing institution were a financial institution; and
 
-<dt>(i)</dt><dd>the issuing institution shall be taken:
+                             (v)  in a case where the drawee institution pays the cheque to a person—the issuing institution had paid the cheque to the person; and
 
-</dd>
+                            (vi)  in a case where the drawee institution dishonours the cheque—the issuing institution had dishonoured the cheque.
 
-</dl></dl></dl></dl>
+##### <a id="100A"></a>100A  Unauthorised signature
 
-	(A)	 not to have drawn the cheque; and
- 	(B)	 not to have signed the cheque;
+             (1)  A signature that is written or placed on a cheque as that of a customer of an FIC institution or an FCA institution without the authority of the customer whose signature it purports to be, only operates as the customer’s signature for the purposes of section 100 if:
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (a)  the person against whom it is sought to assert a right on the cheque is estopped from denying the genuineness of the signature or the existence of authority for the signature; or
 
-<dt>(ii)</dt><dd>the customer shall be taken:
+                     (b)  the signature is ratified or adopted by the customer.
 
-</dd>
+             (2)  Subsection 32(1) does not apply to the signature.
 
-</dl></dl></dl></dl>
+## Part IX—Miscellaneous
 
-	(A)	to have drawn the cheque; and
- 	(B)	to have signed the cheque as drawer; and
+##### <a id="113"></a>113  Payment of unindorsed order cheque as evidence of receipt by payee
 
-<dl compact=""><dl compact=""><dl compact="">
+                   A cheque drawn payable to order that:
 
-<dt>(b)</dt><dd>as regards the customer, the issuing institution shall be taken to have
+                     (a)  has not been indorsed by the payee; and
 
-the same duties and liabilities, and the same rights, in relation to the cheque
+                     (b)  appears to have been paid by the drawee institution;
 
-as it would have had if:
+is evidence of the receipt by the payee of the sum ordered to be paid by the cheque.
 
-</dd>
+##### <a id="114"></a>114  Signature
 
-</dl></dl></dl>
+             (1)  A person is taken to sign a cheque or other instrument if:
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (a)  the person’s signature is written on the cheque or instrument by the person or by another person acting under the first person’s authority; or
 
-<dt>(i)</dt><dd>the customer had drawn the cheque; and</dd>
+                     (b)  the person’s signature is placed on the cheque or instrument, as provided in subsection (2), by the person or by another person acting under the first person’s authority.
 
-<dt>(ii)</dt><dd>the cheque were addressed by the customer to the issuing institution;
+             (2)  A financial institution, or an FCA institution, and a customer of the institution, may agree that the customer’s signature may be placed on a cheque or other instrument drawn on or by the institution by a stamp or other mechanical means as provided for in the agreement.
 
-and</dd>
+##### <a id="115"></a>115  Replacement of lost or destroyed cheque
 
-<dt>(iii)</dt><dd>the cheque were drawn against the customer's account with the issuing
+             (1)  Where:
 
-institution; and</dd>
+                     (a)  a cheque (in this section referred to as the **_original cheque_**) is lost or destroyed; and
 
-<dt>(iv)</dt><dd>if the issuing institution is an FCA institution&#151;the issuing institution
+                     (b)  the original cheque had not, at the time of its loss or destruction, been presented for payment or discharged;
 
-were a financial institution; and</dd>
+a person (in this section referred to as the **_former holder_**) who was the holder of, or otherwise lawfully in possession of, the original cheque at the time of its loss or destruction may, by notice in writing given to the drawer of the original cheque, request the drawer to give the former holder a replacement cheque to the same tenor as the original cheque.
 
-<dt>(v)</dt><dd>in a case where the drawee institution pays the cheque to a person&#151;the
+             (2)  The notice is not effective for the purposes of this section unless it contains sufficient particulars of the original cheque to enable the drawer to:
 
-issuing institution had paid the cheque to the person; and</dd>
+                     (a)  identify the original cheque with reasonable certainty; and
 
-<dt>(vi)</dt><dd>in a case where the drawee institution dishonours the cheque&#151;the issuing
+                     (b)  draw a replacement cheque to the same tenor as the original cheque.
 
-institution had dishonoured the cheque.
+             (3)  The drawer may, by notice in writing given to the former holder within 14 days after the day on which the notice under subsection (1) is given to the drawer, request the former holder to give the drawer an indemnity in respect of any loss and expenses that the drawer may reasonably incur by reason of the drawing of a replacement cheque to the same tenor as the original cheque, and may also request the former holder to provide adequate security for the indemnity.
 
-</dd>
+             (4)  The drawer shall:
 
-</dl></dl></dl></dl>
+                     (a)  in a case where the drawer requests the former holder, by notice under subsection (3), to give the drawer an indemnity and also to provide security for the indemnity—within 14 days after the day on which the indemnity is given to the drawer or the day on which the security is provided, whichever last occurs;
 
-<center>Back to Top</center>
+                     (b)  in a case where the drawer requests the former holder, by notice under subsection (3), to give the drawer an indemnity, but does not also request the former holder to provide security for the indemnity—within 14 days after the day on which the indemnity is given to the drawer; or
 
-**
-
-###  CHEQUES ACT 1986- SECT 100A  Unauthorised signature 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A signature that is written or placed on a cheque as that of a customer of
-
-an FIC institution or an FCA institution without the authority of the customer
-
-whose signature it purports to be, only operates as the customer's signature
-
-for the purposes of section&#160;100 if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person against whom it is sought to assert a right on the cheque is
-
-estopped from denying the genuineness of the signature or the existence of
-
-authority for the signature; or</dd>
-
-<dt>(b)</dt><dd>the signature is ratified or adopted by the customer.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subsection 32(1) does not apply to the signature.
-
-</dd> </dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<part>Part&#160;IX&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  CHEQUES ACT 1986- SECT 113  Payment of unindorsed order cheque as evidence of receipt by payee 
-**
-
-<dl compact="">
-
-		A cheque drawn payable to order that:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>has not been indorsed by the payee; and</dd>
-
-<dt>(b)</dt><dd>appears to have been paid by the drawee institution;
-
-</dd>
-
-</dl></dl></dl>
-
-is evidence of the receipt by the payee of the sum ordered to be paid by the cheque. 
-
-**
-
-###  CHEQUES ACT 1986- SECT 114  Signature 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person is taken to sign a cheque or other instrument if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person's signature is written on the cheque or instrument by the
-
-person or by another person acting under the first person's authority; or</dd>
-
-<dt>(b)</dt><dd>the person's signature is placed on the cheque or instrument, as provided
-
-in subsection&#160;(2), by the person or by another person acting under the
-
-first person's authority.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A financial institution, or an FCA institution, and a customer of the
-
-institution, may agree that the customer's signature may be placed on a cheque
-
-or other instrument drawn on or by the institution by a stamp or other
-
-mechanical means as provided for in the agreement.
-
-</dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 115  Replacement of lost or destroyed cheque 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a cheque (in this section referred to as the _original cheque_) is lost or destroyed; and</dd>
-
-<dt>(b)</dt><dd>the original cheque had not, at the time of its loss or destruction, been
-
-presented for payment or discharged;
-
-</dd>
-
-</dl></dl></dl>
-
-a person (in this section referred to as the _former holder_) who was the holder of, or otherwise lawfully in possession of, the original cheque at the time of its loss or destruction may, by notice in writing given to the drawer of the original cheque, request the drawer to give the former holder a replacement cheque to the same tenor as the original cheque.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The notice is not effective for the purposes of this section unless it
-
-contains sufficient particulars of the original cheque to enable the drawer to:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>identify the original cheque with reasonable certainty; and</dd>
-
-<dt>(b)</dt><dd>draw a replacement cheque to the same tenor as the original cheque.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>The drawer may, by notice in writing given to the former holder within 14
-
-days after the day on which the notice under subsection&#160;(1) is given to
-
-the drawer, request the former holder to give the drawer an indemnity in
-
-respect of any loss and expenses that the drawer may reasonably incur by reason
-
-of the drawing of a replacement cheque to the same tenor as the original
-
-cheque, and may also request the former holder to provide adequate security for
-
-the indemnity.</dd> <dt>(4)</dt><dd>The drawer shall: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in a case where the drawer requests the former holder, by notice under
-
-subsection&#160;(3), to give the drawer an indemnity and also to provide
-
-security for the indemnity&#151;within 14 days after the day on which the indemnity
-
-is given to the drawer or the day on which the security is provided, whichever
-
-last occurs;</dd>
-
-<dt>(b)</dt><dd>in a case where the drawer requests the former holder, by notice under
-
-subsection&#160;(3), to give the drawer an indemnity, but does not also request
-
-the former holder to provide security for the indemnity&#151;within 14 days after
-
-the day on which the indemnity is given to the drawer; or</dd>
-
-<dt>(c)</dt><dd>in any other case&#151;within 14 days after the day on which the notice under
-
-subsection&#160;(1) is given to the drawer;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  in any other case—within 14 days after the day on which the notice under subsection (1) is given to the drawer;
 
 draw a replacement cheque to the same tenor as the original cheque and give the replacement cheque to the former holder.
 
-<dl compact="">
+             (5)  Where the original cheque had been indorsed before its loss or destruction, the former holder may give the replacement cheque to the indorser and request the indorser, by notice in writing, to indorse the replacement cheque to the same tenor as the indorser’s indorsement of the original cheque.
 
-<dt>(5)</dt><dd>Where the original cheque had been indorsed before its loss or
+             (6)  The indorser may, by notice in writing given to the former holder within 14 days after the day on which the notice under subsection (5) is given to the indorser, request the former holder to give the indorser an indemnity in respect of any loss and expenses that the indorser may reasonably incur by reason of the indorsing of the cheque to the same tenor as the indorser’s indorsement of the original cheque, and may also request the former holder to provide adequate security for the indemnity.
 
-destruction, the former holder may give the replacement cheque to the indorser
+             (7)  The indorser shall:
 
-and request the indorser, by notice in writing, to indorse the replacement
+                     (a)  in a case where the indorser requests the former holder, by notice under subsection (6), to give the indorser an indemnity and also to provide security for the indemnity—within 14 days after the day on which the indemnity is given to the indorser or the day on which the security is provided, whichever last occurs;
 
-cheque to the same tenor as the indorser's indorsement of the original
+                     (b)  in a case where the indorser requests the former holder, by notice under subsection (6), to give the indorser an indemnity, but does not also request the former holder to provide security for the indemnity—within 14 days after the day on which the indemnity is given to the indorser; or
 
-cheque.</dd> <dt>(6)</dt><dd>The indorser may, by notice in writing given to the former holder within 14 days after the day on which the notice under subsection&#160;(5) is given to the indorser, request the former holder to give the indorser an indemnity in respect of any loss and expenses that the indorser may reasonably incur by reason of the indorsing of the cheque to the same tenor as the indorser's indorsement of the original cheque, and may also request the former holder to provide adequate security for the indemnity.</dd> <dt>(7)</dt><dd>The indorser shall: </dd> </dl>
+                     (c)  in any other case—within 14 days after the day on which the notice under subsection (5) is given to the indorser;
 
-<dl compact=""><dl compact=""><dl compact="">
+indorse the replacement cheque to the same tenor as the indorser’s indorsement of the original cheque and give the replacement cheque so indorsed to the former holder.
 
-<dt>(a)</dt><dd>in a case where the indorser requests the former holder, by notice under
+             (8)  Where the drawer or indorser refuses or fails to comply with subsection (4) or (7), as the case requires, the former holder may apply to a court of competent jurisdiction for an order directing:
 
-subsection&#160;(6), to give the indorser an indemnity and also to provide
+                     (a)  the drawer to draw a replacement cheque to the same tenor as the original cheque and give the replacement cheque to the former holder; or
 
-security for the indemnity&#151;within 14 days after the day on which the indemnity
-
-is given to the indorser or the day on which the security is provided,
-
-whichever last occurs;</dd>
-
-<dt>(b)</dt><dd>in a case where the indorser requests the former holder, by notice under
-
-subsection&#160;(6), to give the indorser an indemnity, but does not also
-
-request the former holder to provide security for the indemnity&#151;within 14 days
-
-after the day on which the indemnity is given to the indorser; or</dd>
-
-<dt>(c)</dt><dd>in any other case&#151;within 14 days after the day on which the notice under
-
-subsection&#160;(5) is given to the indorser;
-
-</dd>
-
-</dl></dl></dl>
-
-indorse the replacement cheque to the same tenor as the indorser's indorsement of the original cheque and give the replacement cheque so indorsed to the former holder.
-
-<dl compact="">
-
-<dt>(8)</dt><dd>Where the drawer or indorser refuses or fails to comply with
-
-subsection&#160;(4) or (7), as the case requires, the former holder may apply
-
-to a court of competent jurisdiction for an order directing:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the drawer to draw a replacement cheque to the same tenor as the original
-
-cheque and give the replacement cheque to the former holder; or</dd>
-
-<dt>(b)</dt><dd>the indorser to indorse the replacement cheque to the same tenor as the
-
-indorser's indorsement of the original cheque and give the replacement cheque
-
-so indorsed to the former holder;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the indorser to indorse the replacement cheque to the same tenor as the indorser’s indorsement of the original cheque and give the replacement cheque so indorsed to the former holder;
 
 as the case may be.
 
-<center>Back to Top</center>
+             (9)  Where an application is made to a court of competent jurisdiction for an order of a kind referred to in subsection (8), the court may make the order on such terms and conditions as it considers just and equitable.
 
-<dl compact="">
+           (10)  In this section:
 
-<dt>(9)</dt><dd>Where an application is made to a court of competent jurisdiction for an
+                    <a name="court-compet-jurisdict"></a>**_court of competent jurisdiction_**, in relation to an application for an order of a kind referred to in subsection (8) in relation to a replacement cheque, includes an inferior court of a State or Territory that has jurisdiction for the recovery of debts up to an amount not less than the sum (if any) that is, or it is claimed should be, ordered to be paid by the replacement cheque.
 
-order of a kind referred to in subsection&#160;(8), the court may make the
+                    <a name="inferior-court"></a>**_inferior court_** means:
 
-order on such terms and conditions as it considers just and equitable.</dd> <dt>(10)</dt><dd>In this section: </dd> </dl>
+                     (a)  a County Court, District Court or Local Court; or
 
-<def><dl compact=""><dl compact="">
+                     (b)  a court of summary jurisdiction exercising civil jurisdiction.
 
-_court of competent jurisdiction_, in relation to an application
+##### <a id="116"></a>116  Action on lost or destroyed cheque
 
-for an order of a kind referred to in subsection&#160;(8) in relation to a
+                   Where an action or proceeding is brought in a court on a cheque that has been lost or destroyed, the court may, on such terms and conditions as it considers just and equitable, order that the loss or destruction of the cheque not be set up.
 
-replacement cheque, includes an inferior court of a State or Territory that has
+##### <a id="117"></a>117  Conflict of laws
 
-jurisdiction for the recovery of debts up to an amount not less than the sum
+             (1)  Where a cheque drawn in one country is:
 
-(if any) that is, or it is claimed should be, ordered to be paid by the
+                     (a)  payable in another country; or
 
-replacement cheque. _inferior court_ means:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a County Court, District Court or Local Court; or</dd>
-
-<dt>(b)</dt><dd>a court of summary jurisdiction exercising civil jurisdiction.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 116  Action on lost or destroyed cheque 
-**
-
- <dl compact="">
-
-		Where an action or proceeding is brought in a court on a cheque that has been
-
-lost or destroyed, the court may, on such terms and conditions as it considers
-
-just and equitable, order that the loss or destruction of the cheque not be set
-
-up.
-
- </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 117  Conflict of laws 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a cheque drawn in one country is:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>payable in another country; or</dd>
-
-<dt>(b)</dt><dd>transferred by negotiation in another country;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  transferred by negotiation in another country;
 
 the rights, duties and liabilities of the drawer, indorsers and holder shall be ascertained in accordance with this section.
 
-<dl compact="">
+             (2)  Subject to subsections (4), (5) and (6), the validity, as regards requisites in form, of a cheque shall be determined in accordance with the law of the place of issue.
 
-<dt>(2)</dt><dd>Subject to subsections&#160;(4), (5) and (6), the validity, as regards
+             (3)  Without limiting the generality of subsection (2), the question whether a particular instrument is a cheque shall be determined in accordance with the law of the place of issue.
 
-requisites in form, of a cheque shall be determined in accordance with the law
+             (4)  A cheque issued outside Australia is not invalid by reason only that it is not stamped or properly stamped in accordance with the law of the place of issue or any other law.
 
-of the place of issue.</dd> <dt>(3)</dt><dd>Without limiting the generality of subsection&#160;(2), the question whether a particular instrument is a cheque shall be determined in accordance with the law of the place of issue.</dd> <dt>(4)</dt><dd>A cheque issued outside Australia is not invalid by reason only that it is not stamped or properly stamped in accordance with the law of the place of issue or any other law.</dd> <dt>(5)</dt><dd>A cheque issued in Australia and payable outside Australia that is not stamped or properly stamped in accordance with the law of the place of issue or any other law: </dd> </dl>
+             (5)  A cheque issued in Australia and payable outside Australia that is not stamped or properly stamped in accordance with the law of the place of issue or any other law:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  is not invalid by reason only that it is not so stamped; and
 
-<dt>(a)</dt><dd>is not invalid by reason only that it is not so stamped; and</dd>
+                     (b)  may be received in evidence if the proper duty and penalty (if any) is paid.
 
-<dt>(b)</dt><dd>may be received in evidence if the proper duty and penalty (if any) is
+             (6)  A cheque issued outside Australia that conforms, as regards requisites in form, to the law of Australia is, for the purpose of enforcing payment of the cheque, valid as between all persons who, in Australia, transfer the cheque by negotiation or hold or become indorsers of the cheque.
 
-paid.
+             (7)  The validity as regards requisites in form, of a supervening contract on a cheque shall be determined in accordance with the law of the place where the contract is made.
 
-</dd>
+             (8)  Subject to subsection (10), the effects of a transfer of a cheque by negotiation shall be determined in accordance with the law of the place where the cheque is transferred by negotiation.
 
-</dl></dl></dl>
+             (9)  The capacity of a person to incur liability on a contract on a cheque shall be determined in accordance with the law of the place where the contract is made.
 
-<dl compact="">
+           (10)  Subject to subsections (12), (13) and (14), a contract on a cheque shall be interpreted and have effect in accordance with the law of the place where the contract is to be performed.
 
-<dt>(6)</dt><dd>A cheque issued outside Australia that conforms, as regards requisites in
+           (11)  Without limiting the generality of subsection (10), where a cheque is dishonoured, the amount (if any) recoverable as damages in respect of a contract on the cheque shall be determined in accordance with the law of the place where the contract is to be performed.
 
-form, to the law of Australia is, for the purpose of enforcing payment of the
+           (12)  The necessity for presentment for payment, and the sufficiency of a presentment for payment, in relation to a cheque shall be determined in accordance with the law of the place where the cheque is payable.
 
-cheque, valid as between all persons who, in Australia, transfer the cheque by
+           (13)  Where a cheque is dishonoured the necessity for, and the sufficiency of, a notice of dishonour, and any other act, in relation to the dishonour shall be determined in accordance with the law of the place where the cheque is payable.
 
-negotiation or hold or become indorsers of the cheque.</dd> <dt>(7)</dt><dd>The validity as regards requisites in form, of a supervening contract on a cheque shall be determined in accordance with the law of the place where the contract is made.</dd> <dt>(8)</dt><dd>Subject to subsection&#160;(10), the effects of a transfer of a cheque by negotiation shall be determined in accordance with the law of the place where the cheque is transferred by negotiation.</dd> <dt>(9)</dt><dd>The capacity of a person to incur liability on a contract on a cheque shall be determined in accordance with the law of the place where the contract is made.</dd> <dt>(10)</dt><dd>Subject to subsections&#160;(12), (13) and (14), a contract on a cheque shall be interpreted and have effect in accordance with the law of the place where the contract is to be performed.</dd> <dt>(11)</dt><dd>Without limiting the generality of subsection&#160;(10), where a cheque is dishonoured, the amount (if any) recoverable as damages in respect of a contract on the cheque shall be determined in accordance with the law of the place where the contract is to be performed.</dd> <dt>(12)</dt><dd>The necessity for presentment for payment, and the sufficiency of a presentment for payment, in relation to a cheque shall be determined in accordance with the law of the place where the cheque is payable.</dd> <dt>(13)</dt><dd>Where a cheque is dishonoured the necessity for, and the sufficiency of, a notice of dishonour, and any other act, in relation to the dishonour shall be determined in accordance with the law of the place where the cheque is payable.</dd> <dt>(14)</dt><dd>Where a cheque drawn in one country is payable in another country, the date on and after which the cheque may be paid by the drawee institution shall be determined in accordance with the law of the place where the cheque is payable.</dd> <dt>(15)</dt><dd>In this section: </dd> </dl>
+           (14)  Where a cheque drawn in one country is payable in another country, the date on and after which the cheque may be paid by the drawee institution shall be determined in accordance with the law of the place where the cheque is payable.
 
-<center>Back to Top</center>
+           (15)  In this section:
 
-<def><dl compact=""><dl compact="">
+                    <a name="contract"></a>**_contract_**, in relation to a cheque, includes:
 
-_contract_, in relation to a cheque, includes:
+                     (a)  a contract or warranty arising out of the drawing; and
 
- </dl></dl>
+                     (b)  a supervening contract in relation to the cheque.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="superven-contract"></a>**_supervening contract_**, in relation to a cheque, includes a contract or warranty arising out of:
 
-<dt>(a)</dt><dd>a contract or warranty arising out of the drawing; and</dd>
+                     (a)  an indorsement; or
 
-<dt>(b)</dt><dd>a supervening contract in relation to the cheque.
+                     (b)  a transfer by negotiation.
 
-</dd>
+##### <a id="118"></a>118  Dividend warrants
 
-</dl></dl></dl>
+             (1)  A reference in this Act to a cheque includes a reference to a warrant for payment of dividend.
 
-<def><dl compact=""><dl compact="">
+             (2)  Nothing in this Act affects the validity of any usage relating to, or to the indorsement of, warrants for payment of dividend.
 
-_supervening contract_, in relation to a cheque, includes a
+##### <a id="119"></a>119  Regulations
 
-contract or warranty arising out of:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
- </dl></dl>
+                     (a)  required or permitted by this Act to be prescribed; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-<dt>(a)</dt><dd>an indorsement; or</dd>
+# Notes to the _Cheques Act 1986_
 
-<dt>(b)</dt><dd>a transfer by negotiation.
+### Note 1
 
-</dd>
+The _Cheques Act 1986_ as shown in this compilation comprises Act No. 145, 1986 amended as indicated in the Tables below.
 
-</dl></dl></dl>
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-**
+All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
-###  CHEQUES ACT 1986- SECT 118  Dividend warrants 
-**
+### Table of Acts
 
- <dl compact="">
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="1%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
-<dt>(1)</dt><dd>A reference in this Act to a cheque includes a reference to a warrant for
-
-payment of dividend.</dd> <dt>(2)</dt><dd>Nothing in this Act affects the validity of any usage relating to, or to the indorsement of, warrants for payment of dividend. </dd> </dl>
-
-**
-
-###  CHEQUES ACT 1986- SECT 119  Regulations 
-**
-
- <dl compact="">
-
-		The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing matters:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
-
-<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
-
-to this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  CHEQUES ACT 1986<centreit>Notes to the _Cheques Act 1986_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Cheques Act 1986_ as shown in this compilation comprises Act No.&#160;145,&#160;1986 amended as indicated in the Tables below.
- For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
- All relevant information pertaining to application, saving or transitional provisions prior to 29&#160;June 1998 is not included in this compilation. For subsequent information _see_ Table A.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td colspan="2">
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Cheques and Payment Orders Act 1986</i></div>
-
+<tr>
+  <td>
+    <div>Cheques and Payment Orders Act 1986</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>145, 1986</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Dec 1986</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>1&#160;July 1987 ( <i>see Gazette</i>1987, No.&#160;S131)</div>
-
+  <td colspan="2">
+    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S131)</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Proceeds of Crime (Miscellaneous Amendments) Act 1987</i></div>
-
+<tr>
+  <td>
+    <div>Proceeds of Crime (Miscellaneous Amendments) Act 1987</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>73, 1987</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>5&#160;June 1987</div>
-
+  <td>
+    <div>5 June 1987</div>
   </td>
-  <td colspan="1" align="left">
-    <div>5&#160;June 1987 ( <i>see&#160;</i>s.&#160;2)</div>
-
+  <td colspan="2">
+    <div>5 June 1987 ( <i>see</i>s. 2)</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act 1987</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>141, 1987</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1987</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td colspan="2">
     <div>S. 3: Royal Assent <i>(a)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 5(1)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Law and Justice Legislation Amendment Act 1994</i></div>
-
+<tr>
+  <td>
+    <div>Law and Justice Legislation Amendment Act 1994</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>84, 1994</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>23&#160;June 1994</div>
-
+  <td>
+    <div>23 June 1994</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Part&#160;4 (ss. 9-34): 16&#160;Dec 1994 ( <i>see Gazette</i>1994, No.&#160;S435) <i>(b)</i></div>
-
+  <td colspan="2">
+    <div>Part 4 (ss. 9-34): 16 Dec 1994 ( <i>see Gazette</i>1994, No. S435) <i>(b)</i></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 10, 21-23, 33 and 34</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law Revision Act 1996</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>43, 1996</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 Oct 1996</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;2 (item&#160;22): <i>(c)</i></div>
-
+  <td colspan="2">
+    <div>Schedule 2 (item 22): <i>(c)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Financial Sector Reform (Consequential Amendments) Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>48, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>29&#160;June 1998</div>
-
+  <td>
+    <div>29 June 1998</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (item&#160;26): 1&#160;July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(d)</i></div>
-
+  <td colspan="2">
+    <div>Schedule 1 (item 26): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(d)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Cheques and Payment Orders Amendment Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Cheques and Payment Orders Amendment Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>76, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>2&#160;July 1998</div>
-
+  <td>
+    <div>2 July 1998</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;1 (items&#160;1-26, 28-69, 83-133), Schedules&#160;2 and 3: 1 Dec 1998 ( <i>see Gazette</i>, 1998, S371) Schedule 1 (items 27, 70-78, 81, 82): 1 Dec 1998 
-Remainder: Royal Assent</div>
-
+  <td colspan="2">
+    <div>Schedule 1 (items 1-26, 28-29 and 82-130) and Schedule 2: 1 Dec 1998 ( <i>see Gazette</i>, 1998, S371) <i>(e)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>Sch 1 (items 
-131-133) and Sch. 2 (items&#160;6, 11, 31) \[ <i>see</i>Table A]</div>
+  <td>
+    <div>Sch 1 (Part 3) \[ <i>see</i>Table A] 
+Sch. 2 (items 6, 11 and 31) \[ <i>see</i>Table A] 
 
+</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Cheques and Payment Orders Amendment (Turnback of Cheques) Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Cheques and Payment Orders Amendment (Turnback of Cheques) Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>77, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>2&#160;July 1998</div>
-
+  <td>
+    <div>2 July 1998</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1 (items 1-5, 7, 8): 22 July 1998 ( <i>see Gazette</i>1998, No. S365) 
-Schedule&#160;1 (item&#160;6): <i>(e)</i> 
-Remainder: Royal Assent</div>
-
+  <td colspan="2">
+    <div>Schedule 1 (item 6): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(f)</i> 
+Remainder: 22 July 1998 ( <i>see Gazette</i>1998, No. S365)</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Financial Sector Reform (Amendments and Transitional Provisions) Act (No.&#160;1) 1999</i></div>
-
+<tr>
+  <td>
+    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>44, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>17&#160;June 1999</div>
-
+  <td>
+    <div>17 June 1999</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;7 (items&#160;5-14): 1&#160;July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(f)</i></div>
-
+  <td colspan="2">
+    <div>Schedule 7 (items 5-14): 1 July 1999 \[ <i>see Gazette</i>1999, No. S283) <i>(g)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>Sch. 8 (items&#160;22, 23) \[ <i>see</i>Table A]</div>
-
+  <td>
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4]) 
+Sch. (items 22, 23)</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Corporations (Repeals, Consequentials and Transitionals) Act 2001</i></div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>160, 2000</div>
+  </td>
+  <td>
+    <div>21 Dec 2000</div>
+  </td>
+  <td colspan="2">
+    <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+  </td>
+  <td>
     <div>55, 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>28 June 2001</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Ss. 4-14 and Schedule 3 (item 97): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(g)</i></div>
-
+  <td colspan="2">
+    <div>Ss. 4-14 and Schedule 3 (item 97): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 4-14</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Financial Sector (Collection of Data&#151;Consequential and Transitional Provisions) Act 2001</i></div>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr></table>
 
+ 
+
+_(a)_     The _Cheque Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(b)_    The _Cheques Act 1986_ was amended by Part 4 (sections 9-34) only of the _Law and Justice Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
+
+                 (3)   Part 4 commences on a day to be fixed by Proclamation.
+
+_(c)_     The _Cheques Act 1986_ was amended by Schedule 2 (item 22) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+
+         Item 22 is taken to have commenced immediately after the commencement of Part III of the _Proceeds of Crime (Miscellaneous Amendments) Act 1987_.
+
+         Part III of the _Proceeds of Crime (Miscellaneous Amendments) Act 1987_ came into operation on 5 June 1987.
+
+_(d)_     The _Cheques Act 1986_ was amended by Schedule 1 (item 26) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(5) of which provides as follows:
+
+                 (5)   If item 2 of Schedule 1 to the _Cheques and Payment Orders Amendment Act 1998_ commences on or before the commencement of the _Australian Prudential Regulation Authority Act 1998_, item 26 of Schedule 1 to this Act does not commence.
+
+_(e)_     The _Cheques Act 1986_ was amended by the _Cheques and Payment Orders Amendment  Act 1998_, subsection 2(2) of which provides as follows:
+
+                 (2)   Subject to subsection (3), the items in Schedule 1, other than item 27 and items 70 to 82, and the items of Schedules 2 and 3, commence on a day to be fixed by Proclamation.
+
+_(f)_      The _Cheques Act 1986_ was amended by the _Cheques and Payment Orders Amendments (Turnback of Cheques) Act 1998_, subsections 2(2) and (4)(a) of which provide as follows:
+
+                 (2)   Subject to subsection (3), the items of Schedule 1, other than item 6, commence on a day to be fixed by Proclamation.
+
+                 (4)   Item 6 of Schedule 1 commences as follows:
+
+                              (a)   if the _Australian Prudential Regulation Authority Act 1998_ commences before, or at the same time as, the items to which subsection (2) applies—item 6 commences immediately after the commencement of the items to which subsection (2) applies;
+
+_(g)_ The _Cheques Act 1986_ was amended by Schedule 7 (items 5-14) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(2)(e) and (16) of which provides as follows:
+
+                 (2)   The following provisions commence on the transfer date:
+
+                      (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
+
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+
+_(h)_ The _Cheques Act 1986_ was amended by Schedule 3 (item 97) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
   </td>
-  <td colspan="1" align="left">
-    <div>121, 2001</div>
-
+</tr>
+<tr>
+  <td>
+    <div>Provision affected</div>
   </td>
-  <td colspan="1" align="left">
-    <div>24 Sept 2001</div>
-
+  <td>
+    <div>How affected</div>
   </td>
-  <td colspan="1" align="left">
-    <div>Ss. 1-3: Royal Assent 
-Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</div>
-
+</tr>
+<tr>
+  <td>
+    <div>Citation</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. Nos. 48 and 76, 1998; No. 44, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 13</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 21-23</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 43, 44</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. Nos. 76 and 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994; No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 61A</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61A</div>
+  </td>
+  <td>
+    <div>ad. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994; No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 62A</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62A</div>
+  </td>
+  <td>
+    <div>ad. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 62A(4)</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 63</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994; No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65A</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65A</div>
+  </td>
+  <td>
+    <div>ad. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 66</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994; Nos. 76 and 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 67</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994; No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 73, 1987; No. 43, 1996; No. 76, 1998; No. 44, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 69</div>
+  </td>
+  <td>
+    <div>ad. No. 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of Part IV</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part IV 
+(ss. 70A, 70B)</div>
+  </td>
+  <td>
+    <div>ad. No. 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70A</div>
+  </td>
+  <td>
+    <div>ad. No. 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 76 and 77, 1998; No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70B</div>
+  </td>
+  <td>
+    <div>ad. No. 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 73</div>
+  </td>
+  <td>
+    <div>am. No. 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 88-90</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 91</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 92, 93</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 94</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 94</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 95</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987; No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 96</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 96</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VII</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998; No. 44, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part VII</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 97</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 97</div>
+  </td>
+  <td>
+    <div>am. Nos. 76 and 77, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 98</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 98</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 99</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998; No. 44, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100A</div>
+  </td>
+  <td>
+    <div>ad. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIII 
+(ss. 101-104, 105, 105A, 106, 106A, 107-109, 109A, 110-112)</div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 101-104</div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105A</div>
+  </td>
+  <td>
+    <div>ad. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106A</div>
+  </td>
+  <td>
+    <div>ad. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 107, 108</div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109A</div>
+  </td>
+  <td>
+    <div>ad. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987; No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111</div>
+  </td>
+  <td>
+    <div>am. No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112</div>
+  </td>
+  <td>
+    <div>am. No. 73, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 113</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114</div>
+  </td>
+  <td>
+    <div>rs. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117</div>
+  </td>
+  <td>
+    <div>am. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule</div>
+  </td>
+  <td>
+    <div>am. No. 141, 1987; No. 84, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 76, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr></table>
 
-<center>Back to Top</center>
+ 
 
-_(a)_	The _Cheque Act 1986_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+Table A
 
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+### Application, saving or transitional provisions
 
-_(b)_	The _Cheques Act 1986_ was amended by Part&#160;4 (sections&#160;9-34) only of the _Law and Justice Legislation Amendment Act 1994_, subsection 2(3) of which provides as follows:
+_Cheques and Payment Orders Amendment Act (No. 76, 1998)_
 
-	(3)	Part&#160;4 commences on a day to be fixed by Proclamation.
+## Part 3—Transitional provisions
 
-_(c)_	The _Cheques Act 1986_ was amended by Schedule&#160;2 (item&#160;22) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+## 131  Definitions
 
-	(2)	Each item in Schedule&#160;2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+In this Part:
 
-	Item&#160;22 is taken to have commenced immediately after the commencement of Part&#160;III of the _Proceeds of Crime (Miscellaneous Amendments) Act 1987_.
- 	Part&#160;III of the _Proceeds of Crime (Miscellaneous Amendments) Act 1987_ commenced on 5&#160;June 1987.
- _(d)_	The _Cheques Act 1986_ was amended by Schedule&#160;1 (item&#160;26) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+                    <a name="amended-act"></a>**_amended Act_** means the _Cheques Act 1986_ as in force after the commencement of this Part.
 
-	(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+                    <a name="non-bank-financi-institut"></a>**_non-bank financial institution_** has the same meaning as in the old Act.
 
-_(e)_	Subsection 4(a) of the _Cheques and Payment Orders Amendments (Turnback of Cheques) Act 1998_ provides as follows:
+                    <a name="old-act"></a>**_old Act_** means the _Cheques and Payment Orders Act 1986_ as in force immediately before the commencement of this Part.
 
-	(4)	Item&#160;6 of Schedule&#160;1 commences as follows:
-
-	(a)	if the _Australian Prudential Regulation Authority Act 1998_ commences before, or at the same time as, the items to which subsection&#160;(2) applies&#151;item&#160;6 commences immediately after the commencement of the items to which subsection&#160;(2) applies;
-
-	The items to which subsection (2) applies commenced on 22 July 1998.
- _(f)_ The _Cheques Act 1986_ was amended by Schedule&#160;7 (items&#160;5-14) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(2)(e) and (16) of which provides as follows:
-
-	(2)	The following provisions commence on the transfer date:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(e)</dt><dd>subject to subsection&#160;(12), Schedule 7, other than items 43, 44, 118,
-
-205 and 207 (the commencement of those items is covered by subsections (10),
-
-<dt>(11)</dt><dd>and (13)).
-
-</dd></dd>
-
-</dl></dl></dl>
-
-	(16)	The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
-
-_(g)_ The _Cheques Act 1986_ was amended by Schedule 3 (item 97) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-	(3)	Subject to subsections&#160;(4) to (10), Schedule&#160;3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-**Table of Amendments**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 1</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. Nos. 48 and 76, 1998; No.&#160;44, 1999; No. 121, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 4</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 6</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 10</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 13</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 13</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 17</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 21-23</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 32</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;141, 1987</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 43, 44</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 49</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 54</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 59</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. Nos. 76 and 77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 60</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 61</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994; No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 61A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 61A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 62</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994; No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 62A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 62A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Note to s. 62A(4)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Notes 1, 2 to s. 62A(4)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 63</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 63</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 64</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 65</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 65</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994; No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 65A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 65A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 66</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 66</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994; Nos. 76 and 77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 67</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 67</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994; No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 68</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;73, 1987; No.&#160;43, 1996; No.&#160;76, 1998; No.&#160;44, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 69</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Note to s. 69</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Div. 3 of Part&#160;IV</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Div. 3 of Part&#160;IV 
-(ss. 70A, 70B)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 70A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. Nos. 76 and 77, 1998; No. 55, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 70B</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 71</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 73</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 78</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 87</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Part&#160;VI</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Div. 1 of Part&#160;VI</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 88-90</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 91</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 91</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 92</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 93</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 94</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 94</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Div. 2 of Part&#160;VI</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 95</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 95</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;141, 1987; No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 96</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 96</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Part&#160;VII</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998; No.&#160;44, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Div. 1 of Part&#160;VII</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 97</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 97</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. Nos. 76 and 77, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 98</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 98</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to s. 99</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 99</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 100</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998; No.&#160;44, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 100A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Part&#160;VIII 
-(ss. 101-104, 105, 105A, 106, 106A, 107-109, 109A, 110-112)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 101-104</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 105</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 105A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 106</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 106A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 107, 108</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 109</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 109A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 110</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;141, 1987; No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 111</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 112</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;73, 1987</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 113</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 114</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;44, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 115</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;141, 1987</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 117</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Schedule</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;141, 1987; No.&#160;84, 1994</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;76, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr></table>**Table <center>Back to Top</center> A**
-
-**Application, saving or transitional provisions**
-
-_Cheques and Payment Orders Amendment Act 1998_(No.&#160;76, 1998 _)_
-
-**Schedule 1** **131  Definitions** In this Part:
-
-<def><dl compact=""><dl compact="">
-
-**_amended Act_** means the _Cheques Act 1986_ as in force after
-
-the commencement of this Part. **_non-bank financial institution_** has the same meaning as in the old Act. **_old Act_** means the _Cheques and Payment Orders Act 1986_ as in force immediately before the commencement of this Part.  </dl></dl>
-
-**132  Old Act continues to apply to certain payment orders**
+## 132  Old Act continues to apply to certain payment orders
 
 The old Act, as modified by the Schedule to that Act, continues to apply to:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  payment orders completed before the commencement of this Part; and
 
-<dt>(a)</dt><dd>payment orders completed before the commencement of this Part; and</dd>
+                     (b)  payment orders completed partly before and partly after the commencement of this Part; and
 
-<dt>(b)</dt><dd>payment orders completed partly before and partly after the commencement
+                     (c)  payment orders completed after the commencement of this Part using forms issued to customers of non-bank financial institutions before that commencement.
 
-of this Part; and</dd>
+## 133  Preservation of regulations prescribing institutions
 
-<dt>(c)</dt><dd>payment orders completed after the commencement of this Part using forms
+Regulations in force immediately before the commencement of this Part for the purposes of paragraph (b) of the definition of **_non-bank financial institution_** in subsection 3(1) of the old Act have effect, after that commencement, as if they were regulations for the purposes of paragraph (b) of the definition of **_FCA institution_** in subsection 3(1) of the amended Act.
 
-issued to customers of non-bank financial institutions before that commencement.
+## Schedule 2—Other amendments of the Cheques and Payment Orders Act 1986
 
-</dd>
+## 6  Cheques already converted under subsection 23(1) continue to be cheques payable to order
 
-</dl></dl></dl>
+A cheque that, on the commencement of item 5, was a cheque payable to order as a result of a conversion under the subsection repealed by that item continues to be a cheque payable to order after that commencement despite the repeal of that subsection.
 
-**133  Preservation of regulations prescribing institutions**
+## 11  Application of amendment made by item 10
 
-Regulations in force immediately before the commencement of this Part for the purposes of paragraph&#160;(b) of the definition of **_non-bank financial institution_** in subsection 3(1) of the old Act have effect, after that commencement, as if they were regulations for the purposes of paragraph&#160;(b) of the definition of **_FCA institution_** in subsection 3(1) of the amended Act.
+The amendment made by item 10 applies to cheques that are issued after the commencement of that item.
 
-**Schedule&#160;2** **6  Cheques already converted under subsection 23(1) continue to be cheques payable to order** A cheque that, on the commencement of item&#160;5, was a cheque payable to order as a result of a conversion under the subsection repealed by that item continues to be a cheque payable to order after that commencement despite the repeal of that subsection.
+## 31  Amendments of section 89 apply to cheques that become stale after amendments commence
 
-**11  Application of amendment made by item&#160;10**
+The amendments made by items 28, 29 and 30 apply to cheques that become stale after the commencement of those items.
 
-The amendment made by item&#160;10 applies to cheques that are issued after the commencement of that item.
+* * *
 
-**31  Amendments of section&#160;89 apply to cheques that become stale after amendments commence**
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999  (No. 44, 1999)_
 
-The amendments made by items&#160;28, 29 and 30 apply to cheques that become stale after the commencement of those items.
+## Schedule 8
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_(No.&#160;44, 1999)
+## 22  Regulations may deal with transitional, saving or application matters
 
-**Schedule&#160;8** **22  Regulations may deal with transitional, saving or application matters** (1)	The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
-<dt>(a)</dt><dd>the transition from the application of provisions of the replaced
+                     (b)  the transition, for The Cairns Cooperative Weekly Penny Savings Bank Limited, from the application of provisions of the _Financial Intermediaries Act 1996_ of Queensland to the application of provisions of any of the Acts referred to in paragraph (a); or
 
-legislation to the application of provisions of the _Banking Act 1959_,
+                     (c)  the amendments and repeals made by the Schedules to this Act.
 
-the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
-the _Australian Prudential Regulation Authority Act 1998_; or</dd>
+                     (a)  by applying (with or without modifications) to the matter:
 
-<dt>(b)</dt><dd>the transition, for The Cairns Cooperative Weekly Penny Savings Bank
+                              (i)  provisions of a law of the Commonwealth, or of a State or Territory; or
 
-Limited, from the application of provisions of the _Financial Intermediaries Act 1996_ of Queensland to the application of provisions of any of the Acts
+                             (ii)  provisions of a repealed or amended law of the Commonwealth, or of a State or Territory, in the form that those provisions took before the repeal or amendment; or
 
-referred to in paragraph&#160;(a); or</dd>
+                            (iii)  a combination of provisions referred to in subparagraphs (i) and (ii);
 
-<dt>(c)</dt><dd>the amendments and repeals made by the Schedules to this Act.
+                     (b)  by otherwise specifying rules for dealing with the matter;
 
-</dd>
+                     (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-</dl></dl></dl>
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(2)	Without limiting subitem&#160;(1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
-<dt>(a)</dt><dd>by applying (with or without modifications) to the matter:
+                     (b)  the purpose for which a thing done or instrument made, or a class of things done or instruments made, is to continue to have effect;
 
-</dd>
+                     (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-</dl></dl></dl>
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
-<dt>(i)</dt><dd>provisions of a law of the Commonwealth, or of a State or Territory; or</dd>
+                     (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-<dt>(ii)</dt><dd>provisions of a repealed or amended law of the Commonwealth, or of a
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-State or Territory, in the form that those provisions took before the repeal or
+(7)        In this item:
 
-amendment; or</dd>
+                    <a name="replac-legisl"></a>**_replaced legislation_** means:
 
-<dt>(iii)</dt><dd>a combination of provisions referred to in subparagraphs&#160;(i) and
+                     (a)  the AFIC Codes; and
 
-(ii);
+                     (b)  the Financial Institutions Codes; and
 
-</dd>
+                     (c)  the Friendly Societies Codes; and
 
-</dl></dl></dl></dl>
+                     (d)  the _Australian Financial Institutions Commission Act 1992_ of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 21 of the _Australian Financial Institutions Commission Act 1992_ of Queensland; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (e)  the _Financial Institutions (Queensland) Act 1992_ of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 30 of the _Financial Institutions (Queensland) Act 1992_ of Queensland; and
 
-<dt>(b)</dt><dd>by otherwise specifying rules for dealing with the matter;</dd>
+                      (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-<dt>(c)</dt><dd>by specifying a particular consequence of the matter, or of an outcome of
+                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
 
-the matter, for the purposes of a law of the Commonwealth.
+                     (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
-</dd>
-
-</dl></dl></dl>
-
-(3)	Without limiting subitems&#160;(1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
- (4)	Without limiting subitem&#160;(3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the identification of a thing done or instrument made, or a class of
-
-things done or instruments made, that is to continue to have effect;</dd>
-
-<dt>(b)</dt><dd>the purpose for which a thing done or instrument made, or a class of
-
-things done or instruments made, is to continue to have effect;</dd>
-
-<dt>(c)</dt><dd>any modifications subject to which an instrument made, or a class of
-
-instruments made, is to continue to have effect.
-
-</dd>
-
-</dl></dl></dl>
-
-(5)	Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>may be expressed to take effect from a date before the regulations are
-
-notified in the _Gazette_; and</dd>
-
-<dt>(b)</dt><dd>may provide for a determination of a kind referred to in subitem&#160;(4)
-
-to take effect from a date before the determination is made (including a date
-
-before the regulations are notified in the _Gazette_).
-
-</dd>
-
-</dl></dl></dl>
-
-(6)	In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
- (7)	In this item:
-
-<def><dl compact=""><dl compact="">
-
-**_replaced legislation_** means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the AFIC Codes; and</dd>
-
-<dt>(b)</dt><dd>the Financial Institutions Codes; and</dd>
-
-<dt>(c)</dt><dd>the Friendly Societies Codes; and</dd>
-
-<dt>(d)</dt><dd>the _Australian Financial Institutions Commission Act 1992_ of
-
-Queensland, and any Act of another State or of a Territory that provides for
-
-the application, as a law of the State or Territory, of the Code set out in
-
-section&#160;21 of the _Australian Financial Institutions Commission Act 1992_ of Queensland; and</dd>
-
-<dt>(e)</dt><dd>the _Financial Institutions (Queensland) Act 1992_ of Queensland, and
-
-any Act of another State or of a Territory that provides for the application,
-
-as a law of the State or Territory, of the Code set out in section&#160;30 of
-
-the _Financial Institutions (Queensland) Act 1992_ of Queensland; and</dd>
-
-<dt>(f)</dt><dd>the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act
-
-of another State or of a Territory that provides for the application, as a law
-
-of the State or Territory, of the Code set out in the Schedule to the
-
-**Friendly Societies (Victoria) Act 1996**of Victoria; and</dd>
-
-<dt>(g)</dt><dd>the _Friendly Societies (Western Australia) Act 1999_; and</dd>
-
-<dt>(h)</dt><dd>any other law of a State or Territory prescribed by the regulations for
-
-the purposes of this definition.
-
-</dd>
-
-</dl></dl></dl>
-
-**23  Power to make regulations**
+## 23  Power to make regulations
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
-</def></def>
-
-</def></def>
-
-</def>
-
-</def>
-
-</def>
-
-</def>
-
-</def></def>
-
-</def></def>
-
-
+ 
