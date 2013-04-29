@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00531/Html/b98b8f9d-c3a8-4102-b2a8-ae725211f671_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00062/Html/d9ca9633-1d20-484b-8a45-da5404e85bd4_files/image001.gif)
 
 # Building and Construction Industry Improvement Act 2005
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 14 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 8 February 2010
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,209 +14,209 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Chapter 1—Preliminary**
+**Chapter 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                    1
 
-[3](#3).            Main object of Act
+[3](#3).            Main object of Act                                                                               2
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           3
 
-[5](#5).            Definition of _building work_
+[5](#5).            Definition of _building work_                                                                  9
 
-[6](#6).            Definition of _office_
+[6](#6).            Definition of _office_                                                                             10
 
-[7](#7).            Extension to Christmas Island
+[7](#7).            Extension to Christmas Island                                                            11
 
-[8](#8).            Act to bind Crown
+[8](#8).            Act to bind Crown                                                                             11
 
 **Chapter 2—Australian Building and Construction Commissioner** 
 
 **Part 1—Australian Building and Construction Commissioner**
 
-[9](#9).            ABC Commissioner and Deputy ABC Commissioners
+[9](#9).            ABC Commissioner and Deputy ABC Commissioners                    12
 
-[10](#10).          Functions of ABC Commissioner
+[10](#10).          Functions of ABC Commissioner                                                      12
 
-[11](#11).          Minister’s directions to ABC Commissioner
+[11](#11).          Minister’s directions to ABC Commissioner                                     13
 
-[12](#12).          Minister may require reports
+[12](#12).          Minister may require reports                                                              14
 
-[13](#13).          Delegation by ABC Commissioner
+[13](#13).          Delegation by ABC Commissioner                                                    14
 
-[14](#14).          Annual report
+[14](#14).          Annual report                                                                                     14
 
 **Part 2—Administrative provisions**
 
-[15](#15).          Appointment
+[15](#15).          Appointment                                                                                      16
 
-[16](#16).          Acting ABC Commissioner
+[16](#16).          Acting ABC Commissioner                                                               16
 
-[17](#17).          Remuneration
+[17](#17).          Remuneration                                                                                     17
 
-[18](#18).          Application of the Judges’ Pensions Act to a former Judge of the Federal Court who becomes the ABC Commissioner
+[18](#18).          Application of the Judges’ Pensions Act to a former Judge of the Federal Court who becomes the ABC Commissioner                                                                                                           17
 
-[19](#19).          Application of the Judges’ Pensions Act to a former member of the AIRC who becomes the ABC Commissioner
+[19](#19).          Application of the Judges’ Pensions Act to a former member of the AIRC who becomes the ABC Commissioner                                                                                                           17
 
-[20](#20).          Leave
+[20](#20).          Leave                                                                                                  18
 
-[21](#21).          Engaging in other paid employment etc 
+[21](#21).          Engaging in other paid employment etc                                              18
 
-[22](#22).          Disclosure of interests
+[22](#22).          Disclosure of interests                                                                        19
 
-[23](#23).          Resignation
+[23](#23).          Resignation                                                                                        19
 
-[24](#24).          Termination of appointment
+[24](#24).          Termination of appointment                                                               19
 
-[25](#25).          Staff and consultants
+[25](#25).          Staff and consultants                                                                          20
 
-[26](#26).          Office of the Australian Building and Construction Commissioner
+[26](#26).          Office of the Australian Building and Construction Commissioner   21
 
 **Chapter 3—The Building Code**
 
-[27](#27).          Minister to issue Building Code
+[27](#27).          Minister to issue Building Code                                                         22
 
-[28](#28).          Building industry participants to report on compliance with Code
+[28](#28).          Building industry participants to report on compliance with Code     22
 
 **Chapter 4—Occupational health and safety** 
 
 **Part 1—Federal Safety Commissioner**
 
-[29](#29).          Federal Safety Commissioner
+[29](#29).          Federal Safety Commissioner                                                            24
 
-[30](#30).          Functions of Federal Safety Commissioner
+[30](#30).          Functions of Federal Safety Commissioner                                       24
 
-[31](#31).          Minister’s directions to Federal Safety Commissioner
+[31](#31).          Minister’s directions to Federal Safety Commissioner                       25
 
-[32](#32).          Delegation by Federal Safety Commissioner
+[32](#32).          Delegation by Federal Safety Commissioner                                     25
 
-[33](#33).          Acting Federal Safety Commissioner
+[33](#33).          Acting Federal Safety Commissioner                                                 25
 
-[34](#34).          Consultants
+[34](#34).          Consultants                                                                                        26
 
 **Part 2—Accreditation scheme for Commonwealth building work**
 
-[35](#35).          Accreditation scheme
+[35](#35).          Accreditation scheme                                                                         27
 
 **Chapter 5—Industrial action etc.** 
 
 **Part 1—Preliminary**
 
-[36](#36).          Definitions
+[36](#36).          Definitions                                                                                         29
 
 **Part 2—Unlawful industrial action**
 
-[37](#37).          Definition of _unlawful industrial action_
+[37](#37).          Definition of _unlawful industrial action_                                             32
 
-[38](#38).          Unlawful industrial action prohibited
+[38](#38).          Unlawful industrial action prohibited                                                 32
 
-[39](#39).          Injunction against unlawful industrial action
+[39](#39).          Injunction against unlawful industrial action                                      32
 
 **Part 3—Protected industrial action**
 
-[40](#40).          Action involving extraneous participants
+[40](#40).          Action involving extraneous participants                                           34
 
 **Part 4—Miscellaneous**
 
-[42](#42).          Payments in relation to periods of building industrial action
+[42](#42).          Payments in relation to periods of building industrial action              35
 
 **Chapter 6—Discrimination, coercion and unfair contracts**
 
-[43](#43).          Coercion in relation to engagement etc  of building employees and building contractors
+[43](#43).          Coercion in relation to engagement etc  of building employees and building contractors         36
 
-[44](#44).          Coercion of persons to make, vary, terminate etc  enterprise agreements etc 
+[44](#44).          Coercion of persons to make, vary, terminate etc  enterprise etc            36
 
-[45](#45).          Discrimination against employer in relation to industrial instruments
+[45](#45).          Discrimination against employer in relation to industrial instruments 37
 
-[46](#46).          Coercion in relation to superannuation
+[46](#46).          Coercion in relation to superannuation                                               38
 
 **Chapter 7—Enforcement** 
 
 **Part 1—Contravention of civil penalty provisions**
 
-[48](#48).          Definitions
+[48](#48).          Definitions                                                                                         40
 
-[49](#49).          Penalties etc  for contravention of civil penalty provision
+[49](#49).          Penalties etc  for contravention of civil penalty provision                  40
 
-[50](#50).          Multiple proceedings for same conduct
+[50](#50).          Multiple proceedings for same conduct                                              42
 
-[51](#51).          Evidence given in proceedings for penalty not admissible in criminal proceedings
+[51](#51).          Evidence given in proceedings for penalty not admissible in criminal proceedings  42
 
 **Part 2—Compliance etc. powers** 
 
     **Division 1—ABC Commissioner’s powers to obtain information etc.**
 
-[52](#52).          ABC Commissioner’s powers to obtain information etc 
+[52](#52).          ABC Commissioner’s powers to obtain information etc                    43
 
-[53](#53).          Certain excuses not available in relation to section 52 requirements
+[53](#53).          Certain excuses not available in relation to section 52 requirements   45
 
-[54](#54).          Protection from liability
+[54](#54).          Protection from liability                                                                      45
 
-[55](#55).          Retention and copying etc  of documents
+[55](#55).          Retention and copying etc  of documents                                           46
 
-[56](#56).          ABC Commissioner may make and keep copies of documents
+[56](#56).          ABC Commissioner may make and keep copies of documents         47
 
     **Division 2—Powers of ABC Inspectors**
 
-[57](#57).          Australian Building and Construction Inspectors
+[57](#57).          Australian Building and Construction Inspectors                               48
 
-[58](#58).          Identity cards for ABC Inspectors
+[58](#58).          Identity cards for ABC Inspectors                                                     48
 
-[59](#59).          Power to enter premises etc 
+[59](#59).          Power to enter premises etc                                                                49
 
     **Division 3—Powers of Federal Safety Officers**
 
-[60](#60).          Federal Safety Officers
+[60](#60).          Federal Safety Officers                                                                      53
 
-[61](#61).          Identity cards for Federal Safety Officers
+[61](#61).          Identity cards for Federal Safety Officers                                          53
 
-[62](#62).          Powers to enter premises etc  to ascertain compliance with Building Code
+[62](#62).          Powers to enter premises etc  to ascertain compliance with Building Code              54
 
-[63](#63).          Powers to enter premises etc  to ascertain compliance with accreditation scheme
+[63](#63).          Powers to enter premises etc  to ascertain compliance with accreditation scheme     56
 
 **Chapter 8—Miscellaneous**
 
-[64](#64).          Project agreements not enforceable
+[64](#64).          Project agreements not enforceable                                                    60
 
-[65](#65).          Protection of confidentiality of information
+[65](#65).          Protection of confidentiality of information                                        60
 
-[66](#66).          Reports not to include information relating to an individual’s affairs
+[66](#66).          Reports not to include information relating to an individual’s affairs 63
 
-[67](#67).          ABC Commissioner to publicise non‑compliance
+[67](#67).          ABC Commissioner to publicise non-compliance                              64
 
-[68](#68).          Delegation by Minister
+[68](#68).          Delegation by Minister                                                                       64
 
-[69](#69).          Building association responsible for conduct of members etc 
+[69](#69).          Building association responsible for conduct of members etc            65
 
-[70](#70).          Capacity, state of mind etc  of person being coerced etc 
+[70](#70).          Capacity, state of mind etc  of person being coerced etc                     65
 
-[71](#71).          ABC Commissioner intervention in court proceedings
+[71](#71).          ABC Commissioner intervention in court proceedings                      66
 
-[72](#72).          ABC Commissioner may make submissions in FWA proceedings
+[72](#72).          ABC Commissioner may make submissions in FWA proceedings   66
 
-[73](#73).          ABC Commissioner or ABC Inspector may institute proceedings under the FW Act, etc 
+[73](#73).          ABC Commissioner or ABC Inspector may institute proceedings under the FW Act, etc       66
 
-[73A](#73A).       ABC Commissioner or ABC Inspector may institute proceedings under the _Independent Contractors Act 2006_
+[73A](#73A).       ABC Commissioner or ABC Inspector may institute proceedings under the _Independent Contractors Act 2006_   67
 
-[74](#74).          General Manager of FWA must keep ABC Commissioner informed
+[74](#74).          General Manager of FWA must keep ABC Commissioner informed 68
 
-[75](#75).          Jurisdiction of courts
+[75](#75).          Jurisdiction of courts                                                                          68
 
-[75A](#75A).       Exercising jurisdiction in the Fair Work Division of the Federal Court
+[75A](#75A).       Exercising jurisdiction in the Fair Work Division of the Federal Court 70
 
-[75B](#75B).       Exercising jurisdiction in the Fair Work Division of the Federal Magistrates Court
+[75B](#75B).       Exercising jurisdiction in the Fair Work Division of the Federal Magistrates Court                71
 
-[76](#76).          Court not to require undertaking as to damages
+[76](#76).          Court not to require undertaking as to damages                                 71
 
-[77](#77).          ABC Commissioner etc  not liable for conduct in good faith
+[77](#77).          ABC Commissioner etc  not liable for conduct in good faith             71
 
-[78](#78).          Regulations
+[78](#78).          Regulations                                                                                        72
 
 **Notes** 
 
@@ -490,7 +490,7 @@ whether or not those rules also allow membership by other persons.
 
                      (b)  a workplace agreement;
 
-                     (c)  a pre‑reform certified agreement or a pre‑reform AWA;
+                     (c)  a pre-reform certified agreement or a pre-reform AWA;
 
                      (d)  an order of the AIRC;
 
@@ -509,8 +509,6 @@ whether or not those rules also allow membership by other persons.
                      (a)  a corporation to which paragraph 51(xx) of the Constitution applies; or
 
                      (b)  a body corporate that is incorporated in a Territory.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="deputi-abc-commission"></a>**_Deputy ABC Commissioner_** means a Deputy Australian Building and Construction Commissioner referred to in section 9.
 
@@ -542,11 +540,11 @@ whether or not those rules also allow membership by other persons.
 
                     <a name="feral-safeti-offic"></a>**_Federal Safety Officer_** means a Federal Safety Officer referred to in section 60.
 
-                    <a name="full-time-commission"></a>**_full‑time Commissioner_** means:
+                    <a name="full-time-commission"></a>**_full-time Commissioner_** means:
 
                      (a)  the ABC Commissioner; or
 
-                     (b)  a Deputy ABC Commissioner appointed on a full‑time basis.
+                     (b)  a Deputy ABC Commissioner appointed on a full-time basis.
 
                     <a name="fwa"></a>**_FWA_** has the same meaning as in the FW Act.
 
@@ -606,15 +604,15 @@ and includes:
 
                     <a name="organis"></a>**_organisation_** has the same meaning as in the _Fair Work (Registered Organisations) Act 2009_.
 
-                    <a name="part-time-commission"></a>**_part‑time Commissioner_** means a Deputy ABC Commissioner appointed on a part‑time basis.
+                    <a name="part-time-commission"></a>**_part-time Commissioner_** means a Deputy ABC Commissioner appointed on a part-time basis.
 
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
                     <a name="premis"></a>**_premises_** has the same meaning as in the FW Act.
 
-                    <a name="pre-reform-awa"></a>**_pre‑reform AWA_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="pre-reform-awa"></a>**_pre-reform AWA_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
-                    <a name="pre-reform-certifi-agreem"></a>**_pre‑reform certified agreement_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+                    <a name="pre-reform-certifi-agreem"></a>**_pre-reform certified agreement_** has the same meaning as in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
                     <a name="protect-industri-action"></a>**_protected industrial action_** has the same meaning as in the FW Act.
 
@@ -648,17 +646,17 @@ and includes:
 
                      (b)  the construction, alteration, extension, restoration, repair, demolition or dismantling of railways (not including rolling stock) or docks;
 
-                     (c)  the installation in any building, structure or works of fittings forming, or to form, part of land, including heating, lighting, air‑conditioning, ventilation, power supply, drainage, sanitation, water supply, fire protection, security and communications systems;
+                     (c)  the installation in any building, structure or works of fittings forming, or to form, part of land, including heating, lighting, air-conditioning, ventilation, power supply, drainage, sanitation, water supply, fire protection, security and communications systems;
 
                      (d)  any operation that is part of, or is preparatory to, or is for rendering complete, work covered by paragraph (a), (b) or (c), for example:
 
-                              (i)  site clearance, earth‑moving, excavation, tunnelling and boring;
+                              (i)  site clearance, earth-moving, excavation, tunnelling and boring;
 
                              (ii)  the laying of foundations;
 
                             (iii)  the erection, maintenance or dismantling of scaffolding;
 
-                            (iv)  the prefabrication of made‑to‑order components to form part of any building, structure or works, whether carried out on‑site or off‑site;
+                            (iv)  the prefabrication of made-to-order components to form part of any building, structure or works, whether carried out on-site or off-site;
 
                              (v)  site restoration, landscaping and the provision of roadways and other access works;
 
@@ -670,13 +668,13 @@ but does not include any of the following:
 
                      (g)  any work that is part of a project for:
 
-                              (i)  the construction, repair or restoration of a single‑dwelling house; or
+                              (i)  the construction, repair or restoration of a single-dwelling house; or
 
-                             (ii)  the construction, repair or restoration of any building, structure or work associated with a single‑dwelling house; or
+                             (ii)  the construction, repair or restoration of any building, structure or work associated with a single-dwelling house; or
 
-                            (iii)  the alteration or extension of a single‑dwelling house, if it remains a single‑dwelling house after the alteration or extension.
+                            (iii)  the alteration or extension of a single-dwelling house, if it remains a single-dwelling house after the alteration or extension.
 
-             (2)  Paragraph (1)(g) does not apply if the project is part of a multi‑dwelling development that consists of, or includes, the construction of at least 5 single‑dwelling houses.
+             (2)  Paragraph (1)(g) does not apply if the project is part of a multi-dwelling development that consists of, or includes, the construction of at least 5 single-dwelling houses.
 
              (3)  Subject to subsection (4), **_building work_** includes any activity that is prescribed by the regulations for the purposes of this subsection.
 
@@ -720,7 +718,7 @@ In this subsection, **_association_** means an organisation or branch of an orga
 
              (2)  In this Act, a reference to an **_office_** in an organisation or industrial association includes a reference to an office in a branch of the organisation or association.
 
-##### <a id="7"></a>7  Extension to Christmas Island
+##### <a id="7"></a>7  Extension to Christmas Island
 
              (1)  This Act extends to the Territory of Christmas Island.
 
@@ -846,9 +844,9 @@ Note:          See also section 66, which restricts the disc
 
              (2)  The appointment:
 
-                     (a)  is to be on a full‑time basis for the ABC Commissioner; and
+                     (a)  is to be on a full-time basis for the ABC Commissioner; and
 
-                     (b)  is to be on a full‑time basis or part‑time basis for a Deputy ABC Commissioner.
+                     (b)  is to be on a full-time basis or part-time basis for a Deputy ABC Commissioner.
 
              (3)  The Minister must not appoint a person as a Commissioner unless the Minister is satisfied that the person:
 
@@ -928,17 +926,17 @@ the provisions of the _Judges’ Pensions Act 1968_ (including provisions relati
 
 ##### <a id="20"></a>20  Leave
 
-             (1)  A full‑time Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A full-time Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant a full-time Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-             (3)  The Minister may grant a part‑time Commissioner leave of absence (including recreation leave) on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (3)  The Minister may grant a part-time Commissioner leave of absence (including recreation leave) on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
 ##### <a id="21"></a>21  Engaging in other paid employment etc.
 
-             (1)  A full‑time Commissioner must not engage in paid employment outside the duties of his or her office without the Minister’s  approval.
+             (1)  A full-time Commissioner must not engage in paid employment outside the duties of his or her office without the Minister’s  approval.
 
-             (2)  A part‑time Commissioner must not engage in any paid employment that conflicts or may conflict with the proper performance of the Commissioner’s duties.
+             (2)  A part-time Commissioner must not engage in any paid employment that conflicts or may conflict with the proper performance of the Commissioner’s duties.
 
 ##### <a id="22"></a>22  Disclosure of interests
 
@@ -964,7 +962,7 @@ the provisions of the _Judges’ Pensions Act 1968_ (including provisions relati
 
                      (b)  the Commissioner fails, without reasonable excuse, to comply with section 21 or 22; or
 
-                     (c)  the Commissioner is a full‑time Commissioner and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
+                     (c)  the Commissioner is a full-time Commissioner and is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months.
 
              (2)  Subject to subsections (3), (4) and (5), the Minister may terminate the appointment of a Commissioner on the ground of misbehaviour or physical or mental incapacity.
 
@@ -974,7 +972,7 @@ the provisions of the _Judges’ Pensions Act 1968_ (including provisions relati
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given a certificate under section 54C of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (4)  If a Commissioner:
 
@@ -982,15 +980,15 @@ his or her appointment cannot be terminated on the ground of physical or mental 
 
                      (b)  is under 60 years of age;
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given a certificate under section 13 of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
              (5)  If a Commissioner:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given an approval and certificate under section 43 of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="25"></a>25  Staff and consultants
 
@@ -1152,7 +1150,7 @@ This subsection does not apply to building work prescribed by the regulations.
 
                      (a)  pays for, or otherwise funds or finances, the building work (whether directly or indirectly); or
 
-                     (b)  facilitates the carrying out of the building work by entering into, or otherwise funding or financing (whether directly or indirectly), a pre‑construction agreement that relates to the building work.
+                     (b)  facilitates the carrying out of the building work by entering into, or otherwise funding or financing (whether directly or indirectly), a pre-construction agreement that relates to the building work.
 
              (6)  If another Commonwealth provision is inconsistent with subsection (4), subsection (4) prevails to the extent of the inconsistency unless the other provision expressly refers to this section.
 
@@ -1168,7 +1166,7 @@ This subsection does not apply to building work prescribed by the regulations.
 
                     <a name="commonwealth-provision"></a>**_Commonwealth provision_** means a provision of a law of the Commonwealth.
 
-                    <a name="pre-construct-agreem"></a>**_pre‑construction agreement_** means an agreement to lease or transfer land, a building or a part of a building on the condition, or on conditions that include the condition, that building work will be carried out on the land, the building or the part of the building.
+                    <a name="pre-construct-agreem"></a>**_pre-construction agreement_** means an agreement to lease or transfer land, a building or a part of a building on the condition, or on conditions that include the condition, that building work will be carried out on the land, the building or the part of the building.
 
 # Chapter 5—Industrial action etc.
 
@@ -1206,7 +1204,7 @@ but does not include:
 
 Note:          See also subsection (2), which deals with the burden of proof of the exception in paragraph (g) of this definition.
 
-                    <a name="constitution-connect-action"></a>**_constitutionally‑connected action_** means building industrial action that satisfies at least one of the following conditions:
+                    <a name="constitution-connect-action"></a>**_constitutionally-connected action_** means building industrial action that satisfies at least one of the following conditions:
 
                      (a)  the action is taken by an organisation;
 
@@ -1220,7 +1218,7 @@ Note:          See also subsection (2), which deals with the
 
                     <a name="excluded-action"></a>**_excluded action_** means building industrial action that is protected industrial action (as affected by Part 3 of this Chapter).
 
-                    <a name="industri-motiv"></a>**_industrially‑motivated_** means motivated by one or more of the following purposes, or by purposes that include one or more of the following purposes:
+                    <a name="industri-motiv"></a>**_industrially-motivated_** means motivated by one or more of the following purposes, or by purposes that include one or more of the following purposes:
 
                      (a)  supporting or advancing claims against an employer in respect of the employment of employees of that employer;
 
@@ -1260,9 +1258,9 @@ The employer referred to in paragraphs (a) and (b) need not be the employer wh
 
                    Building industrial action is **_unlawful industrial action_** if:
 
-                     (a)  the action is industrially‑motivated; and
+                     (a)  the action is industrially-motivated; and
 
-                     (b)  the action is constitutionally‑connected action; and
+                     (b)  the action is constitutionally-connected action; and
 
                      (c)  the action is not excluded action.
 
@@ -1322,13 +1320,13 @@ then the court may grant an injunction in such terms as the court considers appr
 
 ##### <a id="42"></a>42  Payments in relation to periods of building industrial action
 
-             (1)  Division 9 of Part 3‑3 of the FW Act (which deals with payments for periods of industrial action) applies in relation to building work with the following modifications:
+             (1)  Division 9 of Part 3-3 of the FW Act (which deals with payments for periods of industrial action) applies in relation to building work with the following modifications:
 
-                     (a)  references in that Division to industrial action are to be read as references to building industrial action that is industrially‑motivated and constitutionally‑connected;
+                     (a)  references in that Division to industrial action are to be read as references to building industrial action that is industrially-motivated and constitutionally-connected;
 
                      (b)  if the person who contravenes a civil remedy provision to which table item 21, 22, 23 or 24 of the table set out in section 539 of the FW Act relates is a body corporate—then, for the purposes of paragraph 546(2)(b) of that Act, the pecuniary penalty must not be more than 1,000 penalty units.
 
-             (2)  Division 9 of Part 3‑3 of the FW Act (which deals with payments for periods of industrial action) does not apply to building work except as provided by this section.
+             (2)  Division 9 of Part 3-3 of the FW Act (which deals with payments for periods of industrial action) does not apply to building work except as provided by this section.
 
 # Chapter 6—Discrimination, coercion and unfair contracts
 
@@ -1432,7 +1430,7 @@ Note:          Grade A civil penalty.
 
              (4)  Subsection (1) does not apply unless:
 
-                     (a)  the industrial instrument referred to in that section is an award, transitional award, workplace agreement, pre‑reform certified agreement, pre‑reform AWA or fair work instrument; or
+                     (a)  the industrial instrument referred to in that section is an award, transitional award, workplace agreement, pre-reform certified agreement, pre-reform AWA or fair work instrument; or
 
                      (b)  the first person is an organisation or a constitutional corporation; or
 
@@ -2160,15 +2158,15 @@ Definitions
 
              (2)  For the purposes of applying paragraph (1)(b) to information relating to a particular individual’s affairs, the context in which the information appears, and information that is otherwise publicly available, must be taken into account (as well as any other relevant matter).
 
-##### <a id="67"></a>67  ABC Commissioner to publicise non‑compliance
+##### <a id="67"></a>67  ABC Commissioner to publicise non-compliance
 
                    If the ABC Commissioner considers that it is in the public interest to do so, the ABC Commissioner may publish details of:
 
-                     (a)  non‑compliance with the Building Code, including the names of the persons who have failed to comply; and
+                     (a)  non-compliance with the Building Code, including the names of the persons who have failed to comply; and
 
-                     (b)  non‑compliance by a building industry participant with this Act, including the names of the participants who have failed to comply; and
+                     (b)  non-compliance by a building industry participant with this Act, including the names of the participants who have failed to comply; and
 
-                     (c)  non‑compliance by a building industry participant with the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, including the names of the participants who have failed to comply.
+                     (c)  non-compliance by a building industry participant with the _Independent Contractors Act 2006_, the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, including the names of the participants who have failed to comply.
 
 ##### <a id="68"></a>68  Delegation by Minister
 
@@ -2450,7 +2448,7 @@ then the court cannot require the ABC Commissioner, the ABC Inspector or any oth
 
 ##### <a id="78"></a>78  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2641,40 +2639,6 @@ Schedule 8 (items 2–84,
     <div>S. 4 and Sch. 8 (items 
 155–158)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 314–317) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 26, 27): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
@@ -2753,13 +2717,14 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -2771,68 +2736,14 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
-
-_(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -2873,7 +2784,7 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009; No. 58, 2011</div>
+    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2913,7 +2824,7 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3294,34 +3205,6 @@ of Chapt. 5</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 314  Subsection 7(3)
-
-Repeal the subsection.
-
-## 315  Subsection 16(1)
-
-Omit “(1)”.
-
-## 316  At the end of subsection 16(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 317  Subsection 16(2)
-
-Repeal the subsection.
-
-As at 14 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3372,21 +3255,5 @@ Despite the repeal of paragraph 64(1)(d) of the _Building and Construction Indus
 (2)       Section 74 of the _Building and Construction Industry Improvement Act 2005_, as in force immediately before the WR Act repeal day, continues to apply in relation to an application lodged before that day.
 
 (3)       Subsection 77(2) of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a protected person.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
