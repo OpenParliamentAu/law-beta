@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00031/Html/4fe02a25-5741-4235-b3b8-1244c02d1101_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00662/Html/bc1a9c44-b8b1-4029-9e34-f52d38e952cc_files/image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 22 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -282,7 +282,7 @@ to provide hearing services to voucher‑holders.</li>
 
              (3)  The Minister may, by writing, determine that a specified person is an **_eligible person_** for the purposes of this Act. The determination has effect accordingly.
 
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
 
              (4)  A determination under subsection (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -1028,7 +1028,7 @@ Governor‑General may make regulations for the purposes of this Act.</li>
 
 ##### <a id="46"></a>46  Application of _Criminal Code_
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
 ##### <a id="47"></a>47  Treatment of partnerships
 
@@ -1137,10 +1137,10 @@ of Assent</div>
     <div>159, 1997</div>
   </td>
   <td>
-    <div>11 Nov 1997</div>
+    <div>11 Nov, 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 35–37): Royal Assent</div>
+    <div>Schedule 1 (items 35–37): Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1243,12 +1243,16 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 684) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 684) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
+
+_(a)_     The _Hearing Services Administration Act 1997_ was amended by Schedule 1 (items 35–37) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -1295,14 +1299,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(3)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1426,6 +1422,20 @@ of Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 684  Subsection 5(3) (note)
+
+Omit “subsection 46(2) of the _Acts Interpretation Act 1901_”, substitute “subsection 13(3) of the _Legislative Instruments Act 2003_”.
+
+As at 22 August 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1441,6 +1451,8 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
