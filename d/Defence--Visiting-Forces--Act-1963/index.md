@@ -1,9 +1,10 @@
 
 Defence (Visiting Forces) Act 1963
 Act No. 81 of 1963 as amended
-Consolidated as in force on 1 September 1999
-(includes amendments up to Act No. 7 of 1999)
-Prepared by the Office of Legislative Drafting Attorney General’s Department, Canberra
+Consolidated as in force on 4 June 1999
+(includes amendments up to Act No. 7, 1999)
+This Act has uncommenced provisions and amendments For uncommenced provisions and amendments see the endnotes.
+Prepared by the Office of Legislative Drafting  Attorney General’s Department, Canberra
 Contents
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
@@ -26,12 +27,15 @@ Part II—Visiting Forces	5
 18	Evidence for the purposes of this Part	16
 Part V—Miscellaneous	18
 27	Proof of facts by certificate	18
-28	 Delegation of powers and functions	19
+28	 Delegation of powers and functions [see Note 2]	19
 29	Orders	20
 30	Regulations	20
-The Schedule—Offences against the person	21
+The Schedule—Offences Against The Person	21
+Offences Against Property	21
+General	21
 Notes 		23
 An Act to make provision with respect to Naval, Military and Air Forces of other countries visiting Australia, and for other purposes
+Do not delete : Chapter placeholder
 Do not delete : Chapter placeholder
 Part I—Preliminary
 Do not delete : Division placeholder
@@ -209,8 +213,9 @@ Do not delete : Division placeholder
 	(3)	Where in a certificate given for the purposes of this Act reference is made to a person by name and that certificate includes a description of the person named by reference to his physical characteristics and a court is satisfied that a person before it is a person having that name and answering to the description in the certificate, the certificate shall be deemed to refer to that person, unless the contrary is proved.
 	(4)	A document purporting to be a certificate, request or notification given or made for the purposes of a provision of this Act, and to be signed by an authority or person specified in the document, shall, upon its production in any proceedings in a court, be received in evidence and shall, unless the contrary is proved, be deemed to be a certificate, request or notification given or made by that authority or person.
 	(5)	Where under a provision of this Act a certificate, request or notification is required or permitted to be given or made by the designated authority of a country, and a certificate, request or notification purports to be signed by a person described in that document as the designated authority of a country, that person shall, in any proceedings in a court, be deemed to be the designated authority of that country for the purposes of that provision, unless the contrary is proved.
-28   Delegation of powers and functions
-	(1)	The Attorney‑General may, in relation to a matter, or to a State, Territory or other part of Australia, delegate in writing all or any of the Attorney‑General’s powers and functions under this Act to an officer holding or performing the duties of a Senior Executive Service office in the Attorney‑General’s Department.
+28   Delegation of powers and functions [see Note 2]
+	(1)	Subject to the next succeeding subsection, the Attorney-General may, in relation to a matter or class of matters, or to a State, Territory or other part of Australia, by writing under his hand, delegate all or any of his powers and functions under this Act, except this power of delegatio
+	(2)	The Attorney-General shall not delegate any of his powers and functions in relation to a State except to the Secretary to the Attorney-General’s Department or to a person authorized under subsection 55E(4) of the Judiciary Act 1903.
 	(3)	Subject to subsection (4), the Chief of the Defence Force or a service chief may, in relation to a matter or class of matters, or to a State, Territory, or other part of Australia, another country or part of another country, by writing signed by him, delegate to an officer who holds a rank not below the rank of Captain in the Australian Navy, Colonel in the Australian Army or Group Captain in the Australian Air Force all or any of his powers or functions under this Act, other than this power of delegation.
 	(4)	The Chief of the Defence Force or a service chief shall not delegate his power to make general orders for the purposes of subsection (7) of section 8 except to an officer who holds a rank not below the rank of Rear-Admiral in the Australian Navy, Major-General in the Australian Army or Air Vice-Marshal in the Australian Air Force.
 	(5)	A power or function delegated under this section may be exercised or performed by the delegate in accordance with the instrument of delegation.
@@ -224,7 +229,7 @@ with an endorsement in writing that the delegation, order or written authority i
 		Orders made in pursuance of a provision of this Act shall be deemed not to be statutory rules within the meaning of the Rules Publication Act 1903-1939.
 30  Regulations
 		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect  to this Act.
-The Schedule—Offences against the person
+The Schedule—Offences Against The Person
 Section 9 
 	1.	For the purposes of section 9, the expression offence against the person means any offence that is punishable under the law of Australia or of a State or Territory and an essential element of which is an act or omission that causes, or tends to cause, death, danger to life, bodily harm or apprehension of harm.
 	2.	Without limiting the generality of the last preceding paragraph, the expression offence against the person includes murder, manslaughter, infanticide, any other form of unlawful homicide, unlawful wounding, assault, robbery with violence or threat of violence, rape and other offences against women and girls, unnatural or indecent acts or conduct, unlawful abortion, incest, abduction, kidnapping and false imprisonment, as provided by the law in force in that part of Australia in which the offence is committed.
@@ -233,14 +238,15 @@ Offences Against Property
 General
 	4.	A reference in the preceding paragraphs of this Schedule to a particular offence shall be read as including a reference to any offence (by whatever name called or however described in the law of Australia or of the State or Territory concerned) that is substantially similar to that offence.
 Notes to the Defence (Visiting Forces) Act 1963
-Note 1
 The Defence (Visiting Forces) Act 1963 as shown in this consolidation comprises Act No. 81, 1963 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Defence (Visiting Forces) Act 1963
 81, 1963
 31 Oct 1963
@@ -269,7 +275,7 @@ Australian Federal Police (Consequential Amendments) Act 1980
 Defence Acts Amendment Act 1981
 178, 1981
 8 Dec 1981
-S. 6(2): 30 Sept 1983 (see s. 2(2) and Gazette 1983, No. S222) Ss. 8 and 12-18: 15 Aug 1983 (see Gazette 1983, No. S169) S. 10: 3 July 1985 (see s. 2(4) and Gazette 1985, No. S255) Remainder: Royal Assent
+S. 6(2): 30 Sept 1983 (see s. 2(2) and Gazette 1983, No. S222) Ss. 8 and 12-18: 15 Aug 1983 (see Gazette 1983, No. S169) S. 10: 3 July 1985 (see s. 2(4) and Gazette 1985, No. S255) Remainder: Royal Assent
 Ss. 17(2) and 18
 Defence Force (Miscellaneous Provisions) Act 1982
 153, 1982
@@ -289,15 +295,19 @@ Schedule 2 (items 27, 84, 110 and 131-134) (c)
 Judiciary Amendment Act 1999
 7, 1999
 31 March 1999
-Schedules 1-3: 1 Sept 1999 (see Gazette 1999, No. S395) Remainder: Royal Assent
+Schedule 3 (items 6, 7): (see (d) and Note 2)
 —
 (a)	The Defence (Visiting Forces) Act 1963 was amended by sections 103-110 only of the Defence Force Re-organization Act 1975, section 2 of which provides as follows: 
 	2.	This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 (b)	The Defence (Visiting Forces) Act 1963 was amended by section 3 only of the Australian Government Solicitor (Consequential Amendments) Act 1984, subsection 2(2) of which provides as follows:
-	(2)	If subsection 8(1) of the Director of Public Prosecutions (Consequential Amendments) Act 1983 does not come into operation before the commencement of section 7 of the Judiciary Amendment Act (No. 2) 1984, the amendment of the Crimes Act 1914 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of that subsection.
+	(2)	 If subsection 8(1) of the Director of Public Prosecutions (Consequential Amendments) Act 1983 does not come into operation before the commencement of section 7 of the Judiciary Amendment Act (No. 2) 1984, the amendment of the Crimes Act 1914 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of that subsection.
 (c)	The Defence (Visiting Forces) Act 1963 was amended by Schedule 2 (items 27, 84, 110, 131-134) only of the Defence Legislation Amendment Act (No. 1) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+(d)	The Defence (Visiting Forces) Act 1963 was amended by Schedule 3 (items 6, 7), only of the Judiciary Amendment Act 1999, subsections 2(2)and (3) of which provide as follows:
+	(2)	Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
+	(3)	If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [see Note 2]
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -344,7 +354,18 @@ rep. No. 178, 1981
 S. 27 	
 am. No. 178, 1981
 S. 28 	
-am. No. 96, 1975; No. 178, 1981; No. 10, 1984; No. 1, 1997; No. 7, 1999
+am. No. 96, 1975; No. 178, 1981; No. 10, 1984; No. 1, 1997
 The Schedule 	
 am. No. 96, 1975
+Note 2
+The Defence (Visiting Forces) Act 1963 was amended by Schedule 3 (items 6 and 7) only of the Judiciary Amendment Act 1999. The applicable provisions provide as follows: 
+6  Subsection 28(1)
+Repeal the subsection, substitute:
+	(1)	The Attorney‑General may, in relation to a matter, or to a State, Territory or other part of Australia, delegate in writing all or any of the Attorney‑General’s powers and functions under this Act to an officer holding or performing the duties of a Senior Executive Service office in the Attorney‑General’s Department.
+7  Subsection 28(2)
+Repeal the subsection.
+Subsections 2(2) and (3) of the Judiciary Amendment Act 1999 provide as follows:
+	(2)	Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
+	(3)	If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+As at 4 June 1999 no date had been fixed and the amendments are not incorporated in this consolidation.
 
