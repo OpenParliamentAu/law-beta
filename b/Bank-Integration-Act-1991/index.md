@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00397/Html/eae8c9a2-adf6-48ac-b60f-10bd96a77983_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00901/Html/53ecee46-33be-493b-a542-45cd2fbf1e26_files/image001.gif)
 
 # Bank Integration Act 1991
 
 **Act No. 210 of 1991 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -58,7 +58,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [17](#17).          Legal proceedings and evidence
 
-[18](#18).          Permitted business names [_see_ Note 2]
+[18](#18).          Permitted business names
 
 [19](#19).          Employment unaffected
 
@@ -354,7 +354,7 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
 
              (3)  Where, before the succession day for a receiving bank and the relevant transferring bank, documentary or other evidence would have been admissible for or against the interests of the transferring bank, that evidence is admissible, on or at any time after that day, for or against the interests of the receiving bank.
 
-##### <a id="18"></a>18  Permitted business names [_see_ Note 2]
+##### <a id="18"></a>18  Permitted business names
 
              (1)  For a period of 6 months beginning on the succession day in relation to a transferring bank whose name is included in Column 1 of Schedule 2, the relevant receiving bank may operate in a State or Territory under any name (in this section called a **_permitted business name_** in relation to that receiving bank) that is included in Column 2 of that Schedule opposite the name of that transferring bank.
 
@@ -363,6 +363,10 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
                      (a)  operating in a State or Territory under a name other than a permitted business name; or
 
                      (b)  registering a name under a law of a State or Territory.
+
+             (3)  In this section:
+
+                    <a name="oper-permit-busi-name"></a>**_operate under a permitted business name_**, in relation to a particular State or Territory, includes engage in any conduct in respect of which, for the purpose of the law of that State or Territory relating to the registration of business names, that permitted business name would, apart from the operation of this section, have been required to be registered.
 
 ##### <a id="19"></a>19  Employment unaffected
 
@@ -820,8 +824,6 @@ The _Bank Integration Act 1991_ as shown in this compilation comprises Act No.�
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For application, saving or transitional provisions made by Schedule 1 (item 2) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
-
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -1004,7 +1006,7 @@ of Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 8, 9): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 8, 9): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1056,42 +1058,10 @@ _(d)_ The _Bank Integration Act 1991_ was amended by Schedule 3 (item 79) on
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
     <div>am. No. 46, 1998; No. 146, 1999; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 127, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1120,26 +1090,10 @@ _(d)_ The _Bank Integration Act 1991_ was amended by Schedule 3 (item 79) on
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 25</div>
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1153,7 +1107,9 @@ _(d)_ The _Bank Integration Act 1991_ was amended by Schedule 3 (item 79) on
 
 ### Note 2
 
-Paragraph 18(2)(b)—Schedule 2 (item 8) of the _Business Names Registration (Transitional and Consequential Provisions) Act 2011_(No. 127, 2011) provides as follows:
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
 
 ## Schedule 2
 
@@ -1161,7 +1117,11 @@ Paragraph 18(2)(b)—Schedule 2 (item 8) of the _Business Names Registration (Tr
 
 Omit “under a law or a State or Territory”, substitute “on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
 
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+## 9  Subsection 18(3)
+
+Repeal the subsection.
+
+As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
