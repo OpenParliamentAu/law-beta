@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00606/Html/c659a87a-8680-4776-96bf-d107307a1233_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00337/Html/81896a6d-34ea-4aca-9d14-9e4d2ccd7f75_files/image001.gif)
 
 # Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007
 
 **Act No. 118 of 2007 as amended**
 
-This compilation was prepared on 25 July 2011
+This compilation was prepared on 3 May 2011
  taking into account amendments up to Act No. 25 of 2011
 
 The text of any of those amendments not in force
@@ -753,7 +753,7 @@ Repeal the paragraph, substitute:
 
                    (da)  a decision by the Secretary under section 219Q or subsection 219QA(2) to pay an amount in respect of fee reduction; or
 
-## 57  Paragraphs 109B(2)(d) and (e)
+## 57  Paragraphs 109B(2)(d) and (e)
 
 Repeal the paragraphs, substitute:
 
@@ -1297,7 +1297,7 @@ Insert:
 
                     Penalty:  60 penalty units.
 
-## 89  Section 219P
+## 89  Section 219P
 
 Repeal the section, substitute:
 
@@ -1581,9 +1581,9 @@ has not passed on any amount in reduced fees during the period.
 
 **_closing day_**, in relation to an approved child care service, means the last day of the second reporting period immediately following the reporting period in which the service’s application day falls.
 
-## 97B  Debts arising under this Part may be set off against payments required by this Part
+## 97B  Debts arising under this Part may be set off against payments required by this Part<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
 
-(1)       A debt arising under item 96A, item 97 or item 97A may be recovered (wholly or partly) by setting the debt off against a payment required by:
+(1)       A debt arising under item 96A or 97 may be recovered (wholly or partly) by setting the debt off against a payment required by:
 
                      (a)  item 97 or item 97A; or
 
@@ -1595,7 +1595,7 @@ has not passed on any amount in reduced fees during the period.
 
 **_item 97A_** means item 97A of this Schedule as modified by the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Regulations 2009_.
 
-## 97C  Payments under items 97 and 97A subject to set off<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 3]</span>
+## 97C  Payments under items 97 and 97A subject to set off<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 4]</span>
 
 (1)       Subitem 97(5) and subitem 97A(5) are subject to section 219RE of the Family Assistance Administration Act (about setting off business continuity payments).
 
@@ -1641,7 +1641,7 @@ has not passed on any amount in reduced fees during the period.
 
 (5)       If an approved child care service is required to give a report under this item for a relevant period, it is not required to give a report under section 219N, as in force immediately before the commencement of this Schedule, containing the information set out in subsection (5) of that section, for that period. However, it is a condition for the continued approval of the service that the service comply with this item.
 
-## 99  Information other than protected information obtained for the purposes of the Child Care Management System Pilot
+## 99  Information other than protected information obtained for the purposes of the Child Care Management System Pilot
 
 (1)       A person may obtain information other than protected information for the purposes of the Child Care Management System Pilot.
 
@@ -2528,10 +2528,10 @@ The _Family Assistance Legislation Amendment (Child Care Management System and O
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="19%">
   <col width="21%">
-  <col width="14%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -2594,40 +2594,6 @@ Schedule 6: 14 Apr 2010</div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>79, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 35): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
   </td>
   <td>
@@ -2637,15 +2603,15 @@ Schedule 6: 14 Apr 2010</div>
     <div>21 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 15): \[ <i>see (b)</i>and Note 2] 
-Schedule 3 (item 9): \[ <i>see</i>Note 3]</div>
+    <div>Schedule 2 (item 15): \[ <i>see (a)</i>and Note 3] 
+Schedule 3 (item 9): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (item 3) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+_(a)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2716,62 +2682,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Family Assistance and Other Legislation
 <tr>
   <td>
     <div>
-      3\. Schedule 1, Part 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Family Assistance Legislation Amendment (Child Care) Act 2010</i>for the
-        commencement of item 5 of Schedule 5 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      16 May 2009
-    </div>
-  </td>
-</tr></table>
-
-_(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
       25\. Schedule 2, Part 1
     </div>
   </td>
@@ -2802,7 +2712,7 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
   <td>
     <div>
       \[
-        <i>see</i>Note 2]
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -2811,8 +2721,8 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2883,7 +2793,7 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
     <div></div>
   </td>
   <td>
-    <div>am. No. 34, 2010 (as am. by No. 79, 2011)</div>
+    <div>am. No. 34, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2905,10 +2815,22 @@ _(b)_     Subsection 2(1) (items 25 and 27) of the _Family Assistance Le
 
 ### Note 2
 
+Schedule 1 (item 97B)—Schedule 5 (item 5) of the _Family Assistance Legislation Amendment (Child Care) Act 2010_ (No. 34, 2010) provides as follows:
+
+## Schedule 5
+
+## 5  Subitem 97B(1) of Schedule 1
+
+Omit “or item 97”, substitute “, item 97 or item 97A”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 3
+
 _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011
  (No. 25, 2011)_
 
-The following amendment commences immediately after 26 July 2011:
+The following amendment commences immediately after the commencement of Part 1 of Schedule 1 to the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ (still a Bill):
 
 ## Schedule 2
 
@@ -2918,9 +2840,9 @@ Insert:
 
                    (ba)  subsection 219QD(3) of that Act (about set off where amount of weekly child care rebate reduced on recalculation); and
 
-As at 25 July 2011 the amendment is not incorporated in this compilation.
+As at 3 May 2011 the amendment is not incorporated in this compilation.
 
-### Note 3
+### Note 4
 
 Paragraph 97C(1)(b) of Schedule 1—Schedule 3 (item 9) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ (No. 25, 2011) provides as follows:
 
