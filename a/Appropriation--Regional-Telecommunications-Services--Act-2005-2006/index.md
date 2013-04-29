@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00157/Html/2df2751c-af5d-481f-a589-ed48cb393809_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00040/Html/AppropriationRegTelecommServ20052006_image001.gif)
 
-# Appropriation (Regional Telecommunications Services) Act 2005‑2006
+# Appropriation (Regional Telecommunications Services) Act 2005-2006
 
 **Act No. 115 of 2005 as amended**
 
-This compilation was prepared on 5 June 2008
- taking into account amendments up to _FMA Act Determination 2008/26 — Section 32 (Transfer of Functions from the former DCITA to DBCDE)_
+This compilation was prepared on 15 January 2008
+ taking into account amendments up to _FMA Act Determination 2007/11 – Section 32 (Transfer from the Department of Communications, Information Technology and the Arts to the Department of Broadband, Communications and the Digital Economy)_
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Appropriation of the Consolidated Revenue Fund
 
-**Schedule 1—Services for which money is appropriated** 
+**Schedule 1—Services for which money is appropriated [_see_ Note 2]** 
 
 **Notes** 
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Appropriation (Regional Telecommunications Services) Act 2005‑2006_.
+                   This Act may be cited as the _Appropriation (Regional Telecommunications Services) Act 2005-2006_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -108,7 +108,7 @@ Note:          The amounts set out opposite outcomes, under th
 
                     <a name="item"></a>**_item_** means an administered item or a departmental item.
 
-                    <a name="portfolio-budget-statem"></a>**_Portfolio Budget Statements_** means the Portfolio Budget Statements that were tabled in the Senate or the House of Representatives in relation to the Bill for the _Appropriation Act (No. 1) 2005‑2006_ and the Bill for the _Appropriation Act (No. 2) 2005‑2006_.
+                    <a name="portfolio-budget-statem"></a>**_Portfolio Budget Statements_** means the Portfolio Budget Statements that were tabled in the Senate or the House of Representatives in relation to the Bill for the _Appropriation Act (No. 1) 2005-2006_ and the Bill for the _Appropriation Act (No. 2) 2005-2006_.
 
                     <a name="portfolio-supplementari-estim-statem"></a>**_Portfolio Supplementary Estimates Statements_** means the Portfolio Supplementary Estimates Statements that were tabled in the Senate or the House of Representatives in relation to the Bill for this Act.
 
@@ -136,7 +136,7 @@ Note:          This section applies, for example, to a “paym
 
                    The total of the items specified in Schedule 1 is $219,218,000.
 
-Note 1:       Items in Schedule 1 can be increased under Part 3 of this Act and under section 13 of the _Appropriation Act (No. 1) 2005‑2006_ (as modified by section 11 of this Act).
+Note 1:       Items in Schedule 1 can be increased under Part 3 of this Act and under section 13 of the _Appropriation Act (No. 1) 2005-2006_ (as modified by section 11 of this Act).
 
 Note 2:       See also section 30A of the _Financial Management and Accountability Act 1997_, which provides for adjustment of appropriations to take account of GST.
 
@@ -216,9 +216,9 @@ Note:          The acquisition of new administered assets will
 
 ##### <a id="11"></a>11  Comcover receipts
 
-                   After the commencement of this Act, section 13 of the _Appropriation Act (No. 1) 2005‑2006_ has effect as if the reference to an **_available item_**included a reference to an item in Schedule 1 to this Act.
+                   After the commencement of this Act, section 13 of the _Appropriation Act (No. 1) 2005-2006_ has effect as if the reference to an **_available item_**included a reference to an item in Schedule 1 to this Act.
 
-Note:          Section 13 of the _Appropriation Act (No. 1) 2005‑2006_ provides for amounts to be added to available items for an Agency in respect of Comcover payments to the Agency.
+Note:          Section 13 of the _Appropriation Act (No. 1) 2005-2006_ provides for amounts to be added to available items for an Agency in respect of Comcover payments to the Agency.
 
 ## Part 4—Miscellaneous
 
@@ -230,7 +230,7 @@ Note:          Section 13 of the _Appropriation Act (No. 1
 
                    The Consolidated Revenue Fund is appropriated as necessary for the purposes of this Act.
 
-# Schedule 1—Services for which money is appropriated
+# Schedule 1—Services for which money is appropriated [_see_ Note 2]
 
 _Note:       See sections 6 and 13._
 
@@ -409,9 +409,9 @@ _Note:       See sections 6 and 13._
 
 Summary
 
-Supplementary Appropriation (bold figures) — 2005‑2006
+Supplementary Appropriation (bold figures) — 2005-2006
 
-_Budget Appropriation (italic figures) — 2005‑2006_
+_Budget Appropriation (italic figures) — 2005-2006_
 
 <table>
 <colgroup>
@@ -496,13 +496,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Agriculture, Fisheries and Forestry</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -535,16 +535,16 @@ _Budget Appropriation (italic figures) — 2005‑2006_
 </tr>
 <tr>
   <td>
-    <div>Attorney‑General’s</div>
+    <div>Attorney-General’s</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -622,13 +622,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Defence</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -664,13 +664,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Education, Science and Training</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -706,13 +706,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Employment and Workplace Relations</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -748,13 +748,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Environment and Heritage</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -790,13 +790,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Family and Community Services</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -832,13 +832,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Finance and Administration</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -874,13 +874,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Foreign Affairs and Trade</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -916,13 +916,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Health and Ageing</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -958,13 +958,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Immigration and Multicultural and Indigenous</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1000,13 +1000,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Industry, Tourism and Resources</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1042,13 +1042,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Prime Minister and Cabinet</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1083,9 +1083,9 @@ _Budget Appropriation (italic figures) — 2005‑2006_
 
 Summary
 
-Supplementary Appropriation (bold figures) — 2005‑2006
+Supplementary Appropriation (bold figures) — 2005-2006
 
-_Budget Appropriation (italic figures) — 2005‑2006_
+_Budget Appropriation (italic figures) — 2005-2006_
 
 <table>
 <colgroup>
@@ -1170,13 +1170,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Transport and Regional Services</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1212,13 +1212,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Treasury</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1278,232 +1278,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
   </td>
 </tr></table>
 
-BROADBAND, COMMUNICATIONS AND THE DIGITAL ECONOMY 
-
-PORTFOLIO
-
-Supplementary Appropriation (bold figures) — 2005‑2006
-
-<table>
-<colgroup>
-  <col width="2%">
-  <col width="48%">
-  <col width="17%">
-  <col width="17%">
-  <col width="17%">
-</colgroup>
-
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Departmental</div>
-  </td>
-  <td>
-    <div>Administered</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Outputs</div>
-  </td>
-  <td>
-    <div>Expenses</div>
-  </td>
-  <td>
-    <div>Total</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>$'000</div>
-  </td>
-  <td>
-    <div>$'000</div>
-  </td>
-  <td>
-    <div>$'000</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div><b>DEPARTMENT OF BROADBAND, COMMUNICATIONS AND THE DIGITAL ECONOMY</b></div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div><b>Outcome 1 ‑</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Development of services and provision of a</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>regulatory environment which encourages a sustainable and effective communications sector for the benefit of all Australians and an internationally competitive information economy and Information and Communications Technology industry</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div><b>Total: Department of Broadband,</b></div>
-  </td>
-  <td>
-    <div><b>3,459</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div><b>Communications and the</b></div>
-    <div><b>Digital Economy</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
-
-_Note 1:    The table has been inserted by a Determination under section 32 of the FMA Act. That determination has inserted only the actual appropriation items:_
-
-(a)   for departmental items, the actual appropriation item is the “Total” amount in relation to an entity under the heading “Departmental Outputs”; and
-
-(b)   for administered items, the actual appropriation item is the amount set out opposite an Outcome of an entity under the heading “Administered Expenses”. 
-
-_No other amounts in the table have been inserted._
-
-_Note 2:    FMA Act Determination 2008/26 inserted the amount alongside Total: Department of Broadband, Communications and the Digital Economy, under the heading Departmental Outputs, to transfer an amount from the former Department of Communications, Information Technology and the Arts._
-
 COMMUNICATIONS, INFORMATION TECHNOLOGY AND THE ARTS PORTFOLIO
 
 Summary
 
-Supplementary Appropriation (bold figures) — 2005‑2006
+Supplementary Appropriation (bold figures) — 2005-2006
 
-_Budget Appropriation (italic figures) — 2005‑2006_
+_Budget Appropriation (italic figures) — 2005-2006_
 
 <table>
 <colgroup>
@@ -1630,13 +1411,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australia Council</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1647,7 +1428,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 149,248</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 149,248</i></div>
@@ -1672,13 +1453,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Broadcasting Authority</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1689,7 +1470,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 17,270</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 17,270</i></div>
@@ -1714,13 +1495,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Broadcasting Corporation</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1731,7 +1512,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 773,488</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 773,488</i></div>
@@ -1756,13 +1537,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Communications Authority</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1773,7 +1554,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 57,172</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 57,172</i></div>
@@ -1798,13 +1579,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Film Commission</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1815,7 +1596,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 51,991</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 51,991</i></div>
@@ -1840,13 +1621,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Film, Television and Radio School</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1857,7 +1638,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 19,690</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 19,690</i></div>
@@ -1882,13 +1663,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian National Maritime Museum</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1899,7 +1680,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 23,314</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 23,314</i></div>
@@ -1924,13 +1705,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Sports Commission</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1941,7 +1722,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 168,631</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 168,631</i></div>
@@ -1966,13 +1747,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Australian Sports Drug Agency</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -1983,7 +1764,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 9,169</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 9,169</i></div>
@@ -2008,13 +1789,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>National Archives of Australia</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -2025,7 +1806,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 66,381</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 66,381</i></div>
@@ -2050,13 +1831,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>National Gallery of Australia</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -2067,7 +1848,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 40,657</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 40,657</i></div>
@@ -2092,13 +1873,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>National Library of Australia</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -2109,7 +1890,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 58,786</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 58,786</i></div>
@@ -2134,13 +1915,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>National Museum of Australia</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -2151,7 +1932,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 39,784</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 39,784</i></div>
@@ -2176,13 +1957,13 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div>Special Broadcasting Service Corporation</div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
   <td>
-    <div><b>‑</b></div>
+    <div><b>-</b></div>
   </td>
 </tr>
 <tr>
@@ -2193,7 +1974,7 @@ _Budget Appropriation (italic figures) — 2005‑2006_
     <div><i> 176,975</i></div>
   </td>
   <td>
-    <div><i> ‑</i></div>
+    <div><i> -</i></div>
   </td>
   <td>
     <div><i> 176,975</i></div>
@@ -2244,11 +2025,11 @@ _Budget Appropriation (italic figures) — 2005‑2006_
 
 COMMUNICATIONS, INFORMATION TECHNOLOGY AND THE ARTS PORTFOLIO
 
-Supplementary Appropriation (bold figures) — 2005‑2006
+Supplementary Appropriation (bold figures) — 2005-2006
 
-Budget Appropriation (italic figures) — 2005‑2006
+Budget Appropriation (italic figures) — 2005-2006
 
-Actual Available Appropriation (light figures) — 2004‑2005
+Actual Available Appropriation (light figures) — 2004-2005
 
 <table>
 <colgroup>
@@ -2343,7 +2124,7 @@ Actual Available Appropriation (light figures) — 2004‑2005
 </tr>
 <tr>
   <td colspan="2">
-    <div><b>Outcome 3 ‑</b></div>
+    <div><b>Outcome 3 -</b></div>
   </td>
   <td>
     <div></div>
@@ -2428,7 +2209,7 @@ Actual Available Appropriation (light figures) — 2004‑2005
     <div><b>Total: Department of Communications,</b></div>
   </td>
   <td>
-    <div><b>-</b></div>
+    <div><b>3,459</b></div>
   </td>
   <td>
     <div><b>215,759</b></div>
@@ -2452,23 +2233,13 @@ Actual Available Appropriation (light figures) — 2004‑2005
   </td>
 </tr></table>
 
-_Note 1:    The table has been amended by a Determination under section 32 of the FMA Act. That determination has amended only the actual appropriation items:_
-
-(a)   for departmental items, the actual appropriation item is the “Total” amount in relation to an entity under the heading “Departmental Outputs”; and
-
-(b)   for administered items, the actual appropriation item is the amount set out opposite an Outcome of an entity under the heading “Administered Expenses”. 
-
-_No other amounts in the table have been amended._
-
-_Note 2:    FMA Act Determination 2008/26 amended the amount alongside Total: Department of Communications, Information Technology and the Arts, under the heading Departmental Outputs, to transfer an amount to the Department of Broadband, Communications and the Digital Economy._
+ 
 
 # Notes to the _Appropriation (Regional Telecommunications Services) Act 2005-2006_
 
 ### Note 1
 
 The _Appropriation (Regional Telecommunications Services) Act 2005-2006_ as shown in this compilation comprises Act No. 115, 2005 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts/Instruments
 
@@ -2536,85 +2307,68 @@ of Assent or Date of FRLI registration</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>as repealed by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>FMA Act Determination 2008/26 — Section 32 (Transfer of Functions from the former DCITA to DBCDE)</div>
-  </td>
-  <td>
-    <div>2008/26</div>
-  </td>
-  <td>
-    <div>30 May 2008 ( <i>see</i>F2008L01965)</div>
-  </td>
-  <td>
-    <div>3 Dec 2007</div>
-  </td>
-  <td>
-    <div>Cc. 12 and 13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>FMA Act Determination 2008/26 — Section 32 (Transfer of Functions from the former DCITA to DBCDE)</div>
-  </td>
-  <td>
-    <div>2008/26</div>
-  </td>
-  <td>
-    <div>30 May 2008 ( <i>see</i>F2008L01965)</div>
-  </td>
-  <td>
-    <div>3 Dec 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
+
+Schedule 1—The following amendments from Schedule 6 of the _FMA Act Determination 2007/11 – Section 32 (Transfer from the Department of Communications, Information Technology and the Arts to the Department of Broadband, Communications and the Digital Economy)_ provide as follows:
+
+## Schedule 6
+
+Schedule 1, in relation to the Department of Communications, Information Technology and the Arts, departmental item, omit “3,459”, and substitute “-”.
+
+_Note_   refer page 15 of _Appropriation (Regional Telecommunications Services) Act 2005-2006_
+
+Schedule 1, insert a new page 15A. On page 15A insert the following table:
 
 <table>
 <colgroup>
-  <col width="34%">
-  <col width="66%">
+  <col width="50%">
+  <col width="17%">
+  <col width="33%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    <td colspan="3">
+      <div>Broadband, Communications and the Digital Economy PORTFOLIO</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div></div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>Departmental</div>
+      <div>Outputs</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>$'000</div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div><b>Schedule 1</b></div>
+    <div><b>DEPARTMENT OF BROADBAND, COMMUNICATIONS AND THE DIGITAL ECONOMY</b></div>
+  </td>
+  <td>
+    <div> </div>
   </td>
   <td>
     <div></div>
@@ -2622,27 +2376,59 @@ of Assent or Date of FRLI registration</div>
 </tr>
 <tr>
   <td>
-    <div>Schedule 1</div>
+    <div> </div>
   </td>
   <td>
-    <div>am. No. 2008/26</div>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2">
+    <div><b>Total: Department of Broadband, Communications and the Digital Economy</b></div>
+  </td>
+  <td>
+    <div><b>3,459</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr></table>
 
-## Table A
+_Note_   insert after page 15 of _Appropriation (Regional Telecommunications Services) Act 2005-2006_
 
-### Application, saving or transitional provisions
-
-_FMA Act Determination 2008/26 — Section 32 (Transfer of Functions from the former DCITA to DBCDE)_
-
-<a id="12            Revocation of Previous Instrument"></a>12            Revocation of Previous Instrument
-
-<a id="This Determination revokes and replaces the Financial Management and Accountability Act 1997 Determination 2007/11 – Section 32 (Transfer from the Department of Communications, Information Technology and the Arts to the Department of Broadband, Communications and the Digital Economy) made on 21 December 2007."></a>This Determination revokes and replaces the Financial Management and Accountability Act 1997 Determination 2007/11 – Section 32 (Transfer from the Department of Communications, Information Technology and the Arts to the Department of Broadband, Communications and the Digital Economy) made on 21 December 2007.
-
-<a id="13"></a>13            <a id="Savings"></a>Savings
-
-<a id="(a)    Nothing in clause 12 affects the validity of anything done under the Financial Management and Accountability Act 1997 Determination 2007/11 – Section 32 (Transfer from the Department of Communications, Information Technology and the Arts to the Department of Broadband, Communications and the Digital Economy)."></a>(a)    Nothing in clause 12 affects the validity of anything done under the Financial Management and Accountability Act 1997 Determination 2007/11 – Section 32 (Transfer from the Department of Communications, Information Technology and the Arts to the Department of Broadband, Communications and the Digital Economy).
-
-<a id="(b)    Nothing in this Determination affects the validity of expenditure under an appropriation that existed at the time of the expenditure"></a>(b)    Nothing in this Determination affects the validity of expenditure under an appropriation that existed at the time of the expenditure
+The proposed amendments were misdescribed and are not incorporated in this compilation.
 
  
