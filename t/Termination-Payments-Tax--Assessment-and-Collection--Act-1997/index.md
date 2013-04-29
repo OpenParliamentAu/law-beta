@@ -1,7 +1,7 @@
 
 Termination Payments Tax (Assessment and Collection) Act 1997
 Act No. 73 of 1997 as amended 
-This compilation was prepared on 31 May 2000  taking into account amendments up to Act No. 44 of 2000
+This compilation was prepared on 1 May 2000  taking into account amendments up to Act No. 179 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -9,42 +9,42 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
 Contents
 Part 1—Preliminary	1
-1  Short title [see Note 1]	1
-2  Commencement [see Note 1]	1
-3  Act to bind Crown	1
-4  Extension to Territories	1
-5  Object of Act	1
-6  Outline of Act	2
+1	Short title [see Note 1]	1
+2	Commencement [see Note 1]	1
+3	Act to bind Crown	1
+4	Extension to Territories	1
+5	Object of Act	1
+6	Outline of Act	2
 Part 2—Liability to surcharge	3
-7  Application	3
-8  Termination payments surcharge	3
-9  Surcharge payable only on part of certain termination payments	4
-10  Surcharge threshold	5
+7	Application	3
+8	Termination payments surcharge	3
+9	Surcharge payable only on part of certain termination payments	4
+10	Surcharge threshold	5
 Part 3—Assessment and collection of surcharge	8
-11  Assessment of liability to pay surcharge	8
-11A  Periods within which assessments may be amended	9
-12  Amendment of assessments	12
-13  Payment of general interest charge if liability increased by amended assessment	13
-14  Commissioner may use tax file numbers for the purposes of this Act	14
-15  Objections against assessments	14
+11	Assessment of liability to pay surcharge	8
+11A	Periods within which assessments may be amended	9
+12	Amendment of assessments	12
+13	Payment of general interest charge if liability increased by amended assessment	13
+14	Commissioner may use tax file numbers for the purposes of this Act	14
+15	Objections against assessments	14
 Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty	15
-16  Penalty for non‑payment of surcharge	15
-16A  Additional liability to pay general interest charge	15
+16	Penalty for non‑payment of surcharge	15
+16A	Additional liability to pay general interest charge	15
 Part 5—Administration	17
-21  General administration of Act	17
-22  Annual report	17
-23  Secrecy	17
+21	General administration of Act	17
+22	Annual report	17
+23	Secrecy	17
 Part 6—Miscellaneous	21
-24  Authorised officers	21
-25  Evidence	21
-26  Access to premises etc.	22
-27  Obtaining information and evidence	23
-28  Records to be kept and retained by employer	23
-29  Application of the Criminal Code	24
-30  Regulations	25
+24	Authorised officers	21
+25	Evidence	21
+26	Access to premises etc.	22
+27	Obtaining information and evidence	23
+28	Records to be kept and retained by employer	23
+29	Application of the Criminal Code	24
+30	Regulations	25
 Part 7—Interpretation	26
-31  Definitions	26
-Notes to the Termination Payments Tax (Assessment and Collection) Act 1997	29
+31	Definitions	26
+Notes		29
 An Act relating to the assesment and collection of termination payments tax, and for related purposes
 Part 1—Preliminary
   
@@ -144,7 +144,6 @@ Commissioner to assess surcharge
 	(c)	if the adjusted taxable income is equal to or less than the surcharge threshold—states that a nil amount of surcharge is payable.
 When surcharge is payable
 	(2)	Surcharge assessed under subsection (1) is payable within one month after the day on which the assessment is made.
-Note:	For provisions about collection and recovery of termination payments surcharge and other related amounts, see Part 4‑15 in Schedule 1 to the Taxation Administration Act 1953.
 Notice of assessment
 	(3)	When an assessment (including an amended assessment) is made, the Commissioner must, subject to subsection (4), give notice of the assessment to the taxpayer.
 No notice if nil amount assessed
@@ -454,11 +453,6 @@ A New Tax System (Tax Administration) Act 1999
 22 Dec 1999
 Schedule 2 (items 108‑110, 130, 132): (g)
 Sch. 2 (items 130, 132)
-A New Tax System (Tax Administration) Act (No. 1) 2000
-44, 2000
-3 May 2000
-Schedule 3 (item 69): (h)
-—
 (a)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (Item 44) only of the Taxation Laws Amendment Act (No. 3) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (aa)	The Taxation Laws Amendment Act (No. 3) 1997 was amended by Schedule 6 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(4) of which provides as follows:
@@ -478,10 +472,7 @@ Schedule 3 (item 69): (h)
 	(2)	Subject to this section, this Act commences at the commencing time.
 (g)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 2 (items 108‑110) only of the A New Tax System (Tax Administration) Act 1999, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the A New Tax System (Pay As You Go) Act 1999.
-	Section 1 commenced on 22 December 1999.
-(h)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 3 (item 69) only of the A New Tax System (Tax Administration) Act (No. 1) 2000, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the A New Tax System (Tax Administration) Act 1999.
-	Section 1 commenced on 22 December 1999.
+	Section 1 of the A New Tax System (Pay As You Go) Act 1999 commenced on 22 December 1999.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -492,8 +483,6 @@ S. 7
 am. No. 147, 1997 (as am. by No. 131, 1999)
 S. 11	
 am. No. 131, 1999
-Note to s. 11(2)	
-ad. No. 44, 2000
 S. 11A	
 ad. No. 131, 1999
 S. 12	
