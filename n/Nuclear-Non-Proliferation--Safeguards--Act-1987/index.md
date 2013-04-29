@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00247/Html/9b9b68f6-06d4-4a03-addb-c152311ee104_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00846/Html/b1f22914-6119-48a7-b193-2466d9818c74_files/image001.gif)
 
 # Nuclear Non‑Proliferation (Safeguards) Act 1987
 
 **Act No. 8 of 1987 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 20 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -1630,13 +1630,37 @@ the Governor‑General shall terminate the appointment of the Director.
 
 ##### <a id="50"></a>50  Acting Director
 
-                   The Minister may appoint a person to act as Director:
+             (1)  The Minister may appoint a person to act as Director:
 
                      (a)  during a vacancy in the office of Director, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Director is absent from Australia or is, for any reason, unable to perform the duties of the office of Director.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  An appointment to act as Director may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  A person appointed under subsection (1) to act during a vacancy in the office of Director shall not continue so to act for more than 12 months.
+
+             (4)  Where a person is acting as Director otherwise than by reason of a vacancy in the office of Director and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurs expires, whichever first occurs.
+
+             (5)  While a person is acting as Director, that person may exercise all the powers, and shall perform all the duties, of the Director.
+
+             (6)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed to act as Director; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (7)  A person appointed to act as Director may resign the appointment by writing signed by the person and delivered to the Minister.
+
+             (8)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="51"></a>51  Annual report by Director
 
@@ -2278,6 +2302,8 @@ As used in this Statute:
 
 3.    The term **_source material_** means uranium containing the mixture of isotopes occurring in nature; uranium depleted in the isotope 235; thorium; any of the foregoing in the form of metal, alloy, chemical compound, or concentrate; any other material containing one or more of the foregoing in such concentration as the Board of Governors shall from time to time determine; and such other material as the Board of Governors shall from to time to time determine. 
 
+ 
+
 # Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons
 
 _Section 4_
@@ -2377,6 +2403,8 @@ Nothing in this Treaty affects the right of any group of States to conclude regi
 **Article XI**
 
 This Treaty, the English, Russian, French, Spanish and Chinese texts of which are equally authentic, shall be deposited in the archives of the Depositary Governments. Duly certified copies of this Treaty shall be transmitted by the Depositary Governments to the Governments of the signatory and acceding States. 
+
+ 
 
 # Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons
 
@@ -3074,7 +3102,7 @@ The number, intensity, duration, timing and mode of routine inspections in respe
 
 (b)   For facilities, other than reactors or sealed storage installations, involving plutonium or uranium enriched to more than 5%, the maximum total of routine inspection per year shall be determined by allowing for each such facility 305ÖE man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms. The maximum established for any such facility shall not, however, be less than 1.5 man‑years of inspection; and 
 
-(c)   For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man‑year of inspection plus 0.4![](http://www.comlaw.gov.au/Details/C2012C00247/Html/9b9b68f6-06d4-4a03-addb-c152311ee104_files/image002.gif)E man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
+(c)   For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man‑year of inspection plus 0.4![](http://www.comlaw.gov.au/Details/C2011C00846/Html/b1f22914-6119-48a7-b193-2466d9818c74_files/image002.gif)E man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
 
 Australia and the Agency may agree to amend the figures for the maximum inspection effort specified in this Article, upon determination by the Board that such amendment is reasonable.
 
@@ -3333,6 +3361,8 @@ For AUSTRALIA: J. R. ROWLAND (signed).
 For the INTERNATIONAL ATOMIC ENERGY AGENCY: JOHN A. HALL 
 
 (signed). 
+
+ 
 
 # Schedule 4—Convention on the physical protection of nuclear material
 
@@ -3777,6 +3807,8 @@ d       Although this level of protection is recommended, it would b
 
 e        Other fuel which by virtue of its original fissile material content is classified as Category I and II before irradiation may be reduced one category level while the radiation level from the fuel exceeds 100 rads/hour at one metre unshielded. 
 
+ 
+
 # Schedule 5—Prescribed international agreements
 
 _Section 4_
@@ -3963,6 +3995,8 @@ Title</i></div>
   <td></td>
   <td></td>
 </tr></table>
+
+ 
 
 # Notes to the _Nuclear Non-Proliferation (Safeguards) Act 1987_
 
@@ -4251,77 +4285,79 @@ Remainder: 24 May 2001</div>
     <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Non‑Proliferation Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>132, 2003</div>
-  </td>
-  <td>
-    <div>12 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 13 Dec 2003 
+<thead>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Non‑Proliferation Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>132, 2003</div>
+    </td>
+    <td>
+      <div>12 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: 13 Dec 2003 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 2, 22, 27, 33, 46, 60, 64, 70) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Non‑Proliferation Legislation Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>50, 2007</div>
-  </td>
-  <td>
-    <div>10 Apr 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–27, 29–54): 11 Apr 2007 
+    </td>
+    <td>
+      <div>Sch. 1 (items 2, 22, 27, 33, 46, 60, 64, 70) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Non‑Proliferation Legislation Amendment Act 2007</div>
+    </td>
+    <td>
+      <div>50, 2007</div>
+    </td>
+    <td>
+      <div>10 Apr 2007</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–27, 29–54): 11 Apr 2007 
 Schedule 1 (item 28): \[ <i>see</i> s. 2(1) and Note 2] 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 53,54) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 875–877) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>Sch. 1 (items 53,54) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Acts Interpretation Amendment Act 2011</div>
+    </td>
+    <td>
+      <div>46, 2011</div>
+    </td>
+    <td>
+      <div>27 June 2011</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 875–877) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
 
@@ -4822,22 +4858,6 @@ _(e)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was am
 </tr>
 <tr>
   <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 50</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -5035,7 +5055,31 @@ Repeal the definition, substitute:
 
                     <a name="nuclear-facil"></a>**_nuclear facility_** has the same meaning as in the Physical Protection Convention.
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 20 October 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 875  Subsection 50(1)
+
+Omit “(1)”.
+
+## 876  At the end of subsection 50(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 877  Subsections 50(2) to (8)
+
+Repeal the subsections.
+
+As at 20 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5140,7 +5184,7 @@ Section 26A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies
 
 Section 31A of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ applies to conduct occurring at or after the commencement of this Schedule, whether the permit described in paragraph 31A(1)(b) of that Act was granted before or after that commencement.
 
-## 60  Saving of Register
+## 60  Saving of Register
 
 The amendments of section 69 of the _Nuclear Non‑Proliferation (Safeguards) Act 1987_ made by this Schedule do not affect the validity at or after the commencement of this Schedule of the Register as it was in force immediately before that commencement.
 
@@ -5171,6 +5215,8 @@ The amendment made by item 19 applies in relation to communications made after
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
