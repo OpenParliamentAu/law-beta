@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00172/Html/OlymipicInsigProtect198756_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00123/Html/OlymipicInsigProtect198756_image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 27 March 2007
+ taking into account amendments up to Act No. 106 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -728,7 +728,7 @@ it is not an infringement of the copyright in the artistic work to apply a desig
 
              (2)  The Register may be maintained by electronic means.
 
-             (3)  The Register is to be made available for inspection on the internet.
+             (3)  The Register is to be made available for inspection on the Internet.
 
 ##### <a id="19"></a>19  Certain marks not to be registered under the _Trade Marks Act 1995_
 
@@ -828,7 +828,7 @@ An advertisement may:
 
                      (e)  be broadcast on radio or television; or
 
-                      (f)  be placed on a website; or
+                      (f)  be placed on an Internet site; or
 
                      (g)  be in any other form.
 
@@ -1254,7 +1254,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
                              (ii)  in a broadcast; or
 
-                            (iii)  on the internet; or
+                            (iii)  on the Internet; or
 
                             (iv)  in a video recording or a film.
 
@@ -1308,7 +1308,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
              (2)  The Register may be maintained by electronic means.
 
-             (3)  The Register is to be made available for inspection on the internet.
+             (3)  The Register is to be made available for inspection on the Internet.
 
 ## Part 3.4—Enforcement
 
@@ -1350,7 +1350,7 @@ the application of the statement is to be disregarded for the purposes of this C
 
              (1)  If, on the application of the AOC, a prescribed court is satisfied that a person has engaged in conduct constituting a contravention of section 36, the court may make an order requiring the person:
 
-                     (a)  by such means (including a broadcast or internet publication) as the court thinks fit; and
+                     (a)  by such means (including a broadcast or Internet publication) as the court thinks fit; and
 
                      (b)  at the person’s own expense; and
 
@@ -1848,7 +1848,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2010C00172/Html/OlymipicInsigProtect198756_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00123/Html/OlymipicInsigProtect198756_image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -1971,134 +1971,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 76): Royal Assent 
-Schedule 5 (item 137(a)): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="25%">
-  <col width="52%">
-  <col width="23%">
-  <col width="0%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td colspan="2">
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td colspan="2">
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr></table>
 
@@ -2444,14 +2316,6 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 19</div>
   </td>
   <td>
@@ -2535,7 +2399,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 2006; No. 8, 2010</div>
+    <div>am. No. 7, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2556,26 +2420,10 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 28–34</div>
+    <div>Ss. 28–35</div>
   </td>
   <td>
     <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2604,26 +2452,10 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 38, 39</div>
+    <div>Ss. 38–40</div>
   </td>
   <td>
     <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2644,31 +2476,7 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 41, 42</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 44–48</div>
+    <div>Ss. 41–48</div>
   </td>
   <td>
     <div>ad. No. 156, 2001</div>
