@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00451/Html/FishAdmin1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00111/Html/5FA07B9B8167128ECA2571470023C885/$FILE/image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 9 July 2007
- taking into account amendments up to Act No. 104 of 2007
+This compilation was prepared on 29 March 2006
+taking into account amendments up to Act No. 8 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -287,6 +288,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [114](#114).        Regulations
 
 **Notes** 
+
 
 ## An Act to establish an Australian Fisheries Management Authority and a Fishing Industry Policy Council, and for related purposes
 
@@ -676,11 +678,11 @@ it is a condition of the person’s holding office under this Act that the perso
 
                     <a name="parliam"></a>**_Parliament_** means:
 
-                     (a)  in relation to the Australian   Capital Territory—the Legislative Assembly for the Australian Capital   Territory; and
+                     (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Australian Capital Territory; and
 
-                     (b)  in relation to the Northern   Territory—the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the Northern Territory—the Legislative Assembly of the Northern Territory.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
 ##### <a id="18"></a>18  Leave of absence
 
@@ -2014,6 +2016,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
                      (b)  necessary or convenient to be prescribed in carrying out or giving effect to this Act.
 
+
 # Notes to the _Fisheries Administration Act 1991_
 
 ### Note 1
@@ -2040,11 +2043,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2054,249 +2059,240 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Fisheries Administration Act 1991</div>
-  </td>
-  <td>
-    <div>161, 1991</div>
-  </td>
-  <td>
-    <div>10 Nov 1991</div>
-  </td>
-  <td>
-    <div>3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>129, 1994</div>
-  </td>
-  <td>
-    <div>21 Oct 1994</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>120, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 12)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 784-793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
-  </td>
-  <td>
-    <div>102, 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>30 July 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>143, 1999</div>
-  </td>
-  <td>
-    <div>3 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1: 16 Dec 1999 ( <i>see Gazette</i>1999, No. S623) 
+<tbody>
+  <tr>
+    <td>
+      <div>Fisheries Administration Act 1991</div>
+    </td>
+    <td>
+      <div>161, 1991</div>
+    </td>
+    <td>
+      <div>10 Nov 1991</div>
+    </td>
+    <td>
+      <div>3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
+    </td>
+    <td>
+      <div>129, 1994</div>
+    </td>
+    <td>
+      <div>21 Oct 1994</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>120, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>Sch. 3 (item 12)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 784-793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
+    </td>
+    <td>
+      <div>102, 1998</div>
+    </td>
+    <td>
+      <div>30 July 1998</div>
+    </td>
+    <td>
+      <div>30 July 1998</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>143, 1999</div>
+    </td>
+    <td>
+      <div>3 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1: 16 Dec 1999 ( <i>see Gazette</i>1999, No. S623) 
 Schedule 2: 11 Dec 2001 ( <i>see Gazette</i>2001, No. S485) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 84): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment Act (No.1) 2000</div>
-  </td>
-  <td>
-    <div>50, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 1 Aug 2000 ( <i>see Gazette</i>2000, No. S415) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other Matters) Act 2004</div>
-  </td>
-  <td>
-    <div>28, 2004</div>
-  </td>
-  <td>
-    <div>1 Apr 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1: 6 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S321) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment (High Seas Fishing Activities and Other Matters) Act 2004</div>
-  </td>
-  <td>
-    <div>29, 2004</div>
-  </td>
-  <td>
-    <div>2 Apr 2004</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 20 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S343) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 119–123, 174): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 174)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment (International Obligations and Other Matters) Act 2005</div>
-  </td>
-  <td>
-    <div>99, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): 7 July 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment (Cooperative Fisheries Arrangements and Other Matters) Act 2006</div>
-  </td>
-  <td>
-    <div>8, 2006</div>
-  </td>
-  <td>
-    <div>23 Mar 2006</div>
-  </td>
-  <td>
-    <div>23 Mar 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>104, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (item 84): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment Act (No.1) 2000</div>
+    </td>
+    <td>
+      <div>50, 2000</div>
+    </td>
+    <td>
+      <div>3 May 2000</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 1 Aug 2000 ( <i>see Gazette</i>2000, No. S415) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other Matters) Act 2004</div>
+    </td>
+    <td>
+      <div>28, 2004</div>
+    </td>
+    <td>
+      <div>1 Apr 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1: 6 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S321) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 6)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment (High Seas Fishing Activities and Other Matters) Act 2004</div>
+    </td>
+    <td>
+      <div>29, 2004</div>
+    </td>
+    <td>
+      <div>2 Apr 2004</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 20 Aug 2004 ( <i>see</i> <i>Gazette</i>2004, No. S343) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 119–123, 174): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 174)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment (International Obligations and Other Matters) Act 2005</div>
+    </td>
+    <td>
+      <div>99, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1, 2): 7 July 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fisheries Legislation Amendment (Cooperative Fisheries Arrangements and Other Matters) Act 2006</div>
+    </td>
+    <td>
+      <div>8, 2006</div>
+    </td>
+    <td>
+      <div>23 Mar 2006</div>
+    </td>
+    <td>
+      <div>23 Mar 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Fisheries Administration Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
@@ -2307,6 +2303,7 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12\. 
+
 
 ## Table of Amendments
 
@@ -2331,366 +2328,289 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1997; No. 143, 1999; No. 29, 2004; No. 8, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28, 29</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64A</div>
-  </td>
-  <td>
-    <div>ad No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1997; No. 28, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994; No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 129, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 83, 84</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 50, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 88</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 88(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88A</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 120, 1997; No. 8, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 102, 1998</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997; No. 143, 1999; No. 29, 2004; No. 8, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 7</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 10(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28, 29</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58</div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64A</div>
+    </td>
+    <td>
+      <div>ad No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997; No. 28, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994; No. 120, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81</div>
+    </td>
+    <td>
+      <div>am. No. 129, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 83, 84</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87</div>
+    </td>
+    <td>
+      <div>am. No. 50, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 88</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 88(2)</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88A</div>
+    </td>
+    <td>
+      <div>ad. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>am. No. 120, 1997; No. 8, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. No. 102, 1998</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Fisheries Legislation Amendment Act 2007 (No. 104, 2007)_
-
-The following amendments commence on 26 July 2007:
-
-## Schedule 1
-
-## 1  After paragraph 7(1)(ab)
-
-Insert:
-
-                    (ac)  to advise and assist in relation to the exercise of powers and the performance of functions under the _Torres  Strait__Fisheries Act 1984_;
-
-## 2  Paragraph 7(1)(ea)
-
-After “on board”, insert “boats used for commercial fishing, including”.
-
-## 3  Paragraph 7(1)(gb)
-
-Repeal the paragraph, substitute:
-
-                  (gaa)  in addition to the collection of information in the exercise or performance of its other powers and functions—to collect, as authorised (within the meaning of subsection (4)), information relating to the following:
-
-                              (i)  possible breaches of the laws of Australia or of a foreign country;
-
-                             (ii)  the control and protection of Australia’s borders;
-
-                            (iii)  the administration and management of fisheries or marine environments;
-
-                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
-
-                    (gb)  to disclose, as authorised (within the meaning of subsection (4)), information, including personal information, relating to the following:
-
-                              (i)  possible breaches of the laws of Australia or of a foreign country;
-
-                             (ii)  the control and protection of Australia’s borders;
-
-                            (iii)  the administration and management of fisheries or marine environments;
-
-                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments;
-
-## 4  Subsection 7(3)
-
-Omit “or in authorising the disclosure of such information,”.
-
-## 5  Paragraph 7(3)(a)
-
-After “by the”, insert “person or”.
-
-## 6  Subsection 7(4)
-
-Repeal the subsection, substitute:
-
-             (4)  Collection or disclosure of information is **_authorised_** for the purposes of paragraph (1)(gaa) or (gb) if it is done in accordance with:
-
-                     (a)  this Act, the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_; or
-
-                     (b)  regulations made under an Act mentioned in paragraph (a).
-
-## 7  After subsection 12(4)
-
-Insert:
-
-          (4A)  However, the requirements of subsection (4) do not have to be met in relation to a director if the Minister appoints the director:
-
-                     (a)  in the period starting on 1 July 2008 and ending on 30 June 2009; and
-
-                     (b)  for a period not exceeding 9 months.
-
-## 8  After section 93
-
-Insert:
-
-##### <a id="93A"></a>93A  Delegations under the _Torres Strait__Fisheries Act 1984_
-
-                   The Managing Director may arrange for a person employed by the Authority to exercise powers and perform functions under a delegation under the _Torres Strait__Fisheries Act 1984_.
-
-As at 9 July 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2708,7 +2628,9 @@ _Fisheries Legislation Amendment Act 1997 (No. 120, 1997)_
 
 (3)     If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Fisheries Legislation Amendment (Compliance and Deterrence Measures and Other Matters) Act 2004 (No. 28, 2004)_
 
@@ -2739,6 +2661,7 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
 
  
 
