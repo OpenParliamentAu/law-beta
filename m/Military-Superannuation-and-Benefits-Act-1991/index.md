@@ -1,15 +1,14 @@
 
 Military Superannuation and Benefits Act 1991
 Act No. 135 of 1991 as amended
-This compilation was prepared on 18 November 2003 taking into account amendments up to Act No. 111 of 2003
+This compilation was prepared on 30 October 2001 taking into account amendments up to Act No. 141 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
   
 Contents
-Part 1—Preliminary	1
+Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
@@ -35,7 +34,7 @@ Part 6—The Military Superannuation and Benefits Board of Trustees No. 1	10
 18	Establishment	10
 19	Incorporation etc.	10
 20	Functions etc.	10
-21	Membership of Board	11
+21	Membership of Board	10
 22	Defective appointment not invalid etc.	11
 23	Trustee Act of ACT to apply	11
 24	Exemption from taxation	11
@@ -73,8 +72,155 @@ Part 9—Miscellaneous	27
 51A	Transitional—MSB Instrument No. 3 of 1993 to have retrospective effect	30
 52	Regulations	31
 Part 10—Amendments of the Defence Force Retirement and Death Benefits Act 1973	33
+53-61	Amendments of the Defence Force Retirement and Death Benefits Act 1973	33
 Schedule—Form of Trust Deed	34
-Notes	143
+Military Superannuation and Benefits Rules	42
+Part 1—Preliminary	42
+Rule	42
+Part 2—Contributions	42
+Part 3—Members’ Benefits	42
+Division 3—Person Rejoining the Scheme	43
+Part 4—Spouses’ and Children’s Benefits	44
+Division 1—Death of Member	44
+Division 2—Death of Retirement Pensioner	44
+Division 3—Death of Spouse	44
+Division 4—Miscellaneous	44
+Part 5—Payment of Preserved Benefits	44
+Part 6—Increases in Maximum Benefit Limits, Pensions and Certain Unfunded Preserved Benefits	45
+Division 1—Increases in Maximum Benefit Limits	45
+Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits	45
+Part 7—Candidates at Parliamentary Elections	45
+Part 8—General Provisions Applicable to Contributions and Benefits	45
+Part 9—Reconsideration of Decisions	46
+Military Superannuation and Benefits Rules	48
+Part 1—Preliminary	48
+Citation	48
+Definitions and interpretation	48
+Part 2—Contributions	51
+Contributions by members	51
+Amount of contributions	51
+Cessation of contributions on reaching maximum benefit limit	52
+Contributions while on leave without pay in connection with birth of child etc.	53
+Contributions while on other leave without pay	53
+General conditions applicable to contributions under rules 6 and 7	54
+Member contributions to be paid to Board	55
+Liability of Department to pay employer contributions	55
+Payment of contributions into Fund	55
+Part 3—Members’ Benefits	56
+Division 1—Benefits other than Invalidity Benefits	56
+Benefits on retirement before reaching 55 years of age or earlier retiring age, otherwise than for redundancy or retrenchment etc.	56
+Benefits on retirement for redundancy or retrenchment or on attaining retiring age of less than 55 years	56
+Benefits on retirement on or after attaining age of 55 years	57
+Payment of benefits where rule 12 applies and person has less than 12 months’ eligible service	58
+Limitation on certain benefits in case of certain transferees who retire before completing 731 days’ service after 30 September 1991	59
+Division 2—Invalidity Benefits	60
+Subdivision A—Incapacity Classification	60
+Establishment of Incapacity Classification Committee	60
+Membership of Committee	60
+Functions of Committee	60
+Proceedings of Committee	60
+Decisions by Committee	60
+Classification in respect of incapacity	61
+Reclassification in respect of incapacity	61
+Decision as to classification or reclassification to be notified to invalidity retiree	63
+Power of Board to require persons to be medically examined etc.	63
+Subdivision B—Invalidity Benefits	66
+Entitlement to invalidity benefits	66
+Invalidity benefits for person classified as Class A	66
+Invalidity benefits for person classified as Class B	66
+Effect of change of invalidity classification on pension and preserved benefit	67
+Person may be treated as having been retired on ground of invalidity	67
+Subdivision C—Invalidity Benefits Not Payable	68
+Person classified as Class C	68
+Pre-existing condition	68
+Invalidity due to intentional act	68
+Invalidity arising during absence without leave exceeding 21 days	69
+Division 3—Person Rejoining the Scheme	70
+Suspension of pension of retirement pensioner other than invalidity retiree	70
+Cancellation of pension etc. of invalidity retiree	70
+Continuation of previous election to cease paying contributions	70
+Part 5—Spouses’ and Children’s Benefits	71
+Division 1—Death of a Member	71
+Applicability of benefits	71
+Payment of deceased member’s member benefit	71
+Payment of deceased member’s employer benefit	71
+Division 2—Death of Retirement Pensioner	74
+Applicability of benefits	74
+Pensions payable	74
+Final benefit payable in relation to deceased retirement pensioner	74
+Death in certain cases due to retirement disabilities	75
+Effect of death of invalidity pensioner while pension suspended	76
+Division 3—Death of Spouse	77
+Child’s benefit upon death of spouse	77
+Division 4—Miscellaneous	78
+Entitlements where two spouses	78
+Payment of balance of benefit where pension becomes payable to child in certain cases	78
+Part 5—Payment of Preserved Benefits	80
+Drawing on member benefit included in preserved benefit	80
+Fee for payment of part of person’s member benefit	80
+Payment of employer benefit included in preserved benefit before person attains age of 55 years	80
+Payment of employer benefit included in preserved benefit to person who has attained 55 years of age	81
+Compulsory payment of preserved benefit to person on attaining 65 years of age	82
+Payment of deceased former member’s preserved benefit	82
+Part 6—Increases in Maximum Benefit Limits, Pensions and Certain Unfunded Preserved Benefits	84
+Division 1—Increases in Maximum Benefit Limits	84
+Increases in maximum benefit limits	84
+Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits	85
+Increases in pensions and certain unfunded preserved benefits	85
+Application of increase to suspended pension	86
+Proportionate increase for part of a year	86
+Adjustment in connection with invalidity reclassification	88
+Date of effect of increase	89
+Interpretation	89
+Part 7—Candidates at Parliamentary Elections	91
+Re-instated member	91
+Death or physical or mental incapacity of person	91
+Part 8—General Provisions Applicable to Contributions and Benefits	92
+Provisions applicable to elections under the Rules	92
+Rate of pension where lump sum converted into pension	93
+Benefits in unusual or exceptional circumstances	93
+Instalments of pensions	93
+Set off against pension in certain cases	94
+Interest payable where payment of benefit delayed	94
+Payment of benefit otherwise than to person entitled	95
+Withholding payment of benefit where required information not provided	96
+Part 9—Reconsideration of Decisions	97
+Establishment of Reconsideration Advisory Committees	97
+Membership of Committee	97
+Functions of Committee	97
+Proceedings of Committee	97
+Reconsideration of decision made by delegate	97
+Reconsideration of decision made by Board	98
+Content of statements of reasons for decisions	99
+Interpretation	99
+Schedule 1—Glossary	100
+Part 1—Definitions	100
+Part 2—Resign to contest an election	105
+Part 3—Retirement	106
+Part 4—Retiring age	107
+Part 5—Spouse	108
+Part 6—Parts of speech and grammatical forms	111
+Part 7—Number	112
+Part 8—Reckoning of time	113
+Part 9—Attainment of particular age	114
+Schedule 2—Prescribed periods for the purposes of rule 4	115
+Schedule 3—Calculation of maximum benefit limits	117
+Schedule 4—Percentage of employer benefit or deceased pensioner’s pension applicable to spouse or eligible child	118
+Schedule 5—Calculation of rate of pension by conversion of employer benefit	119
+Schedule 6—Calculation of eligible service	120
+Schedule 7—Calculation of final average salary	122
+Schedule 8—Calculation of employer benefit	123
+Part 1—Calculation of employer benefit of person with not less than 7 years’ eligible service or Invalidity Retiree or 1973 Scheme Recipient Member (other than 1973 Scheme Re-Entrant or 1991 Scheme Re‑Entrant or MBL Member or Foreign Service Member)	123
+Part 2—Calculation of Employer Benefit of Person with less than 7 years’ eligible service (other than Invalidity Retiree or 1973 Scheme Recipient Member or 1973 Scheme Re-Entrant or 1991 Scheme Re-Entrant or Foreign Service Member)	125
+Part 3—Calculation of Employer Benefit of 1973 Scheme Re-Entrant, 1991 Scheme Re‑Entrant or Foreign Service Member, with not less than 7 years’ aggregated service	127
+Part 4—Calculation of Employer Benefit of 1973 Scheme Re-Entrant or Foreign Service Member, with less than 7 years’ aggregated service (other than Invalidity Retiree)	129
+Part 5—Calculation of employer benefit of MBL Member	131
+Part 6—Interpretation	133
+Schedule 9—Calculation of member benefit	134
+Schedule 10—Transfer value	135
+Schedule 11—Rates of interest applicable in respect of certain unfunded amounts	136
+Notes		139
+
 An Act to make provision for and in relation to an occupational superannuation scheme for, and the payment of other benefits to, members of the Defence Force, and for related purposes
   
 Part 1—Preliminary
@@ -117,16 +263,6 @@ Part 2—The Trust Deed
 	(2)	The deed must be in the form set out in the Schedule.
 5  Amendment of Trust Deed
 	(1)	The Minister may, by signed instrument, amend the Trust Deed.
-	(1AA)	Without limiting subsection (1), the Minister may amend the Trust Deed to:
-	(a)	authorise the Board to:
-	(i)	accept particular kinds of amounts in respect of particular kinds of people who are not members of the Scheme; and
-	(ii)	deal with those amounts under the Deed; and
-	(b)	define the functions of the Board in relation to those amounts; and
-	(c)	include provisions in the Rules dealing with:
-	(i)	the manner in which those amounts will be dealt with; and
-	(ii)	the benefits that are to become payable in relation to those amounts; and
-	(iii)	the circumstances in which entitlements to receive those benefits will arise; and
-	(iv)	any other matter relating to those amounts or those benefits.
 	(1A)	The Minister may not amend the Trust Deed unless:
 	(a)	the Board has consented to the amendment; or
 	(b)	the amendment:
@@ -144,8 +280,8 @@ Part 3—Members of Superannuation Scheme
 6  Membership of Superannuation Scheme
 	(1)	Subject to subsection (2), each of the following persons is, by force of this section, a member of the Scheme:
 	(a)	a member of the Permanent Forces;
-	(b)	a member of the Reserves who is rendering continuous full‑time service under an undertaking to serve for a period of not less than 12 months;
-	(c)	a member of the Reserves who is rendering continuous full‑time service under an undertaking to serve for a period of less than 12 months unless that member has elected not to become a member of the Scheme under section 61B of the DFRDB Act.
+	(b)	a member of the Reserves who is rendering continuous full-time service under an undertaking to serve for a period of not less than 12 months;
+	(c)	a member of the Reserves who is rendering continuous full-time service under an undertaking to serve for a period of less than 12 months unless that member has elected not to become a member of the Scheme under section 61B of the DFRDB Act.
 	(2)	In spite of subsection (1), a person is not a member of the Scheme if the person is an eligible member of the Defence Force for the purposes of the DFRDB Act.
 8  Cases where person taken not to have ceased to be a member
 		Where a person ceases to be a member and, immediately after so ceasing, again becomes a member, the person is taken, for the purposes of this Act, not to have ceased to be a member.
@@ -226,7 +362,7 @@ Part 6—The Military Superannuation and Benefits Board of Trustees No. 1
 	(1)	The Board is to consist of:
 	(a)	a Chairperson; and
 	(b)	4 other trustees;
-appointed on a part‑time basis.
+appointed on a part-time basis.
 	(2)	The trustees are appointed, and hold office, as provided in the Trust Deed.
 22  Defective appointment not invalid etc.
 	(1)	The appointment of a person:
@@ -267,19 +403,19 @@ Penalty for contravention of subsection (3):  Imprisonment for 6 months
 	(b)	report to the Minister the results of the inspection and audit.
 	(2)	The Auditor‑General may, however, decide to dispense with all or any part of the detailed inspection of the accounts and records.
 	(3)	The Auditor‑General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection that the Auditor‑General thinks is sufficiently important to be reported.
-Note:	For the information‑gathering powers of the Auditor‑General, see Part 5 of the Auditor‑General Act 1997.
+Note:	For the information-gathering powers of the Auditor‑General, see Part 5 of the Auditor‑General Act 1997.
 26  Annual report and financial statements
 	(1)	The Board must, as soon as practicable after the end of each financial year commencing after the commencement of this Act, prepare and give to the Minister:
 	(a)	a report on the performance of its functions during that year; and
 	(b)	financial statements in respect of the management of the Fund during that year in such form as is approved by the Minister and by the Board.
-	(2)	Before giving the financial statements to the Minister, the Board must submit them to the Auditor‑General, who must report to the Minister:
+	(2)	Before giving the financial statements to the Minister, the Board must submit them to the Auditor-General, who must report to the Minister:
 	(a)	whether the statements are based on proper accounts and records; and
 	(b)	whether the statements are in agreement with the accounts and records and show fairly the financial transactions and the state of the Fund; and
 	(c)	whether the receipt of money into the Fund, and the payment of money out of the Fund and the investment of money standing to the credit of the Fund, during the year have been in accordance with this Act and the Trust Deed; and
-	(d)	as to such other matters arising out of the statements as the Auditor‑General considers should be reported.
-	(3)	The Minister must cause a copy of the report, and of the financial statements, prepared by the Board, together with a copy of the report of the Auditor‑General in respect of those financial statements, to be laid before each House of the Parliament within 15 sitting days of that House after the receipt of whichever of those documents was last received by the Minister.
+	(d)	as to such other matters arising out of the statements as the Auditor-General considers should be reported.
+	(3)	The Minister must cause a copy of the report, and of the financial statements, prepared by the Board, together with a copy of the report of the Auditor-General in respect of those financial statements, to be laid before each House of the Parliament within 15 sitting days of that House after the receipt of whichever of those documents was last received by the Minister.
 	(4)	Where the Board has not complied with subsection (1) within a period of 6 months after the end of a financial year, the Board must, within 14 days after the end of that period, give to the Minister an interim report on the performance of its functions during that year together with interim financial statements in respect of the management of the Fund during that year.
-	(5)	The financial statements given to the Minister under subsection (4) must be in the form approved by the Minister and the Board for the purposes of subsection (1) but need not be accompanied by a report of the Auditor‑General.
+	(5)	The financial statements given to the Minister under subsection (4) must be in the form approved by the Minister and the Board for the purposes of subsection (1) but need not be accompanied by a report of the Auditor-General.
 	(6)	Where the Board gives a report and financial statements to the Minister under subsection (4), the Minister must cause a copy of the report and a copy of the financial statements to be laid before each House of the Parliament within 15 sitting days of that House after their receipt by the Minister.
 
 Part 7—Commissioner for Superannuation
@@ -394,7 +530,7 @@ retention benefit is payable to the member.
 	(3)	In subsection (1):
 recognised medical practitioner means a medical practitioner who:
 	(a)	is a member of the Defence Force; or
-	(b)	has been approved by the Surgeon‑General of the Defence Force for the purposes of this section.
+	(b)	has been approved by the Surgeon-General of the Defence Force for the purposes of this section.
 36  Suspension of payment of retention benefit
 	(1)	Where:
 	(a)	a member who elects under section 33 to receive retention benefit has been charged with, or is standing trial on a charge of, a service offence (within the meaning of the Defence Force Discipline Act 1982) or a civil court offence (within the meaning of that Act); and
@@ -432,7 +568,7 @@ there is payable to the member an amount, calculated in the manner determined by
 		Any payment of retention benefit is to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
 40  Partial repayment of retention benefit
 	(1)	If, before the end of the period of prospective service of a member to whom retention benefit has been paid:
-	(a)	the member ceases to be an eligible member while continuing to render continuous full‑time service in the Defence Force; or
+	(a)	the member ceases to be an eligible member while continuing to render continuous full-time service in the Defence Force; or
 	(b)	the member:
 	(i)	being an officer, resigns from office; or
 	(ii)	being a sailor, soldier or airman, is discharged on request; or
@@ -518,7 +654,7 @@ Definition
 	(5)	In this section:
 MSB Instrument No. 3 of 1993 means Instrument No. 3 of 1993 made under subsection 5(1) on 19 April 1993 and notified in the Gazette on 22 April 1993.
 52  Regulations
-	(1)	The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that:
+	(1)	The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that:
 	(a)	are required or permitted to be prescribed by this Act; or
 	(b)	are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 	(2)	Regulations may not be made after the commencement of this subsection unless:
@@ -532,10 +668,8 @@ MSB Instrument No. 3 of 1993 means Instrument No. 3 of 1993 made under subsect
 
 Part 10—Amendments of the Defence Force Retirement and Death Benefits Act 1973
   
-Sections 53–61
-Note:
-The amendments made by this Part are incorporated in the compilation on SCALEplus.
-For access to the wording of the amendments made by this Part, see Act No. 135, 1991.
+53-61  Amendments of the Defence Force Retirement and Death Benefits Act 1973 
+		[published separately]
 Schedule—Form of Trust Deed
   
   
@@ -564,7 +698,7 @@ Functions and powers of the Board
 (c)	to determine interest rates for the purposes of the Superannuation Scheme.
 (2)	The Board has power in Australia and elsewhere to do all things necessary or convenient to be done for, or in connection with, the performance of its functions and, in particular, may:
 (a)	give guarantees;
-(b)	underwrite or sub‑underwrite any form of investment including the underwriting or sub‑underwriting of the issue of shares, debentures or units in a unit trust;
+(b)	underwrite or sub-underwrite any form of investment including the underwriting or sub-underwriting of the issue of shares, debentures or units in a unit trust;
 (c)	borrow moneys and give security over the whole or any part of the assets of the Fund;
 (d)	appoint agents and attorneys;
 (e)	act as agent for other persons;
@@ -582,7 +716,7 @@ Appointment of Trustees
 (b)	2 of the Trustees shall be members of the Defence Force nominated by the Chief of the Defence Force, one being an officer and the other a member, other than an officer.
 (2)	The 5th Trustee, who will also be the Chairperson of the Board, shall be appointed by the Minister after consultation with the Minister for Finance in relation to the appointment.
 (3)	The Chairperson and the Trustees nominated by the Chief of the Defence Force shall be appointed for such period, not exceeding 3 years, as the Minister specifies in the instrument of appointment. The Trustees referred to in subclause 4 (1) (a) shall hold office at the Minister’s pleasure.
-(4)	A Trustee shall be eligible for re‑appointment.
+(4)	A Trustee shall be eligible for re-appointment.
 (5)	A Trustee shall hold office on such terms and conditions as are determined by the Minister.
 (6)	The performance of the functions, or the exercise of the powers, of the Board shall not be affected by reason of there being a vacancy in the membership of the Board.
 (7)	The Trustees shall be paid such remuneration and allowances as are determined by the Remuneration Tribunal but, if no determination of that remuneration or allowances by the Tribunal is in operation, they shall be paid such remuneration and allowances as are determined by the Minister.
@@ -656,7 +790,7 @@ Requests by Minister for Information
 11.	The Board shall furnish to the Minister such information relating to the general administration and operation of the Superannuation Scheme and the Fund as the Minister may from time to time require.
 Delegation by the Board
 12.	The Board may by an instrument under its seal delegate all or any of its powers under the Deed to any person, including the Commissioner for Superannuation or a Trustee, other than its powers under Part 9 of the Rules and this power of delegation.
-Military Superannuation and Benefits Rules
+ Military Superannuation and Benefits Rules
 Table of Provisions
 Part 1—Preliminary 
 Rule
@@ -700,7 +834,7 @@ Subdivision B—Invalidity Benefits
 	30.	Person may be treated as having been retired on ground of invalidity
 Subdivision C—Invalidity Benefits Not Payable 
 	31.	Person classified as Class C
-	32.	Pre‑existing condition
+	32.	Pre-existing condition
 	33.	Invalidity due to intentional act
 	34.	Invalidity arising during absence without leave exceeding 21 days
 
@@ -749,7 +883,7 @@ Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits
 	61.	Interpretation
 
 Part 7—Candidates at Parliamentary Elections
-	62.	Re‑instated member
+	62.	Re-instated member
 	63.	Death or physical or mental incapacity of person
 
 Part 8—General Provisions Applicable to Contributions and Benefits
@@ -792,6 +926,7 @@ SCHEDULE 10
 TRANSFER VALUE
 SCHEDULE 11
 RATES OF INTEREST APPLICABLE IN RESPECT OF CERTAIN UNFUNDED AMOUNTS
+
 Military Superannuation and Benefits Rules
 Part 1—Preliminary
   
@@ -859,10 +994,10 @@ unfunded preserved benefit
 1973 Act 
 1973 Scheme 
 1973 Scheme recipient member 
-1973 Scheme re‑entrant 
+1973 Scheme re-entrant 
 1973 Scheme retirement pensioner 
 1991 Scheme 
-1991 Scheme re‑entrant
+1991 Scheme re-entrant
 (2)	Interpretations of the following matters, for the purposes of these Rules, are provided in Parts 6 to 9 of Schedule 1:
 Part 6	Parts of speech and grammatical forms
 Part 7	Number
@@ -895,8 +1030,8 @@ the amounts of the contributions payable by the member in respect of that period
 	(b)	an appropriate authority of the Defence Force has notified the Board that, but for the member’s absence on leave without pay, higher duties allowance would have been payable to the member in respect of the whole of the period of his or her absence on that leave.
 (8)	In calculating the amount of a contribution payable by a member, the calculation is to be made as if no deductions were made from the member’s salary.
 (9)	Where the amount of a contribution payable by a member includes a fraction of a cent:
-	(a)	if the fraction is less than one‑half of a cent—the contribution is taken to be reduced by the amount of the fraction; or
-	(b)	if the fraction is one‑half of a cent or more—the contribution is taken to be increased by treating the fraction as one cent.
+	(a)	if the fraction is less than one-half of a cent—the contribution is taken to be reduced by the amount of the fraction; or
+	(b)	if the fraction is one-half of a cent or more—the contribution is taken to be increased by treating the fraction as one cent.
 (10)	In this rule:
 “relevant percentage”, in relation to a member, means:
 	(a)	the percentage, being a whole number that is not less than 5 and not more than 10, elected by the member; or
@@ -941,7 +1076,7 @@ General conditions applicable to contributions under rules 6 and 7
 Member contributions to be paid to Board
 9.	Contributions payable by a member are to be paid to the Board by or on behalf of the member.
 Liability of Department to pay employer contributions
-10.	(1)	The Department must, on each salary pay‑day on which a member pays contributions, pay to the Board an employer contribution in relation to the member.
+10.	(1)	The Department must, on each salary pay-day on which a member pays contributions, pay to the Board an employer contribution in relation to the member.
 (2)	In spite of a member paying contributions during a period of leave without pay to which rule 7 applies, subrule (1) does not apply:
 	(a)	in the case of a period of leave without pay referred to in subrule 7 (2) which exceeds 12 months—to any part of the excess period in respect of which no amount is paid under a prescribed arrangement; or
 	(b)	in the case of a period of leave without pay referred to in subrule 7 (3).
@@ -990,7 +1125,7 @@ then:
 (5)	Where:
 	(a)	a member retired and, on that retirement, subrule (2) applied to him or her; and
 	(b)	he or she again became a member and again retires; and
-	(c)	on the last‑mentioned retirement the member is not entitled to an invalidity pension;
+	(c)	on the last-mentioned retirement the member is not entitled to an invalidity pension;
 then, for the purposes of these Rules, the person is taken to be a person to whom subrule (2) applies.
 Benefits on retirement on or after attaining age of 55 years
 14.	Where a member retires:
@@ -1090,8 +1225,8 @@ Power of Board to require persons to be medically examined etc.
 	(b)	to furnish in writing to the Board, within such period as is specified in the notice, such information as is required by the notice with respect to any employment (whether as an employee or on his or her own account) in which he or she has been engaged during such period as is specified in the notice.
 (2)	A notice under subrule (1) must set out the effect of subrule (3).
 (3)	Where a person fails to comply with a notice given under subrule (1) and the Board is not satisfied that there was a reasonable excuse for the failure, the Board may, by notice in writing given to the person, suspend the person’s invalidity pension with effect from a day determined by the Board, being a day not earlier than:
-	(a)	in a case where the first‑mentioned notice required the person to submit to a medical examination on a day specified in the notice—the day next following that day; or
-	(b)	in a case where the first‑mentioned notice required the person to furnish information within a period specified in the notice—the day next following the end of that period.
+	(a)	in a case where the first-mentioned notice required the person to submit to a medical examination on a day specified in the notice—the day next following that day; or
+	(b)	in a case where the first-mentioned notice required the person to furnish information within a period specified in the notice—the day next following the end of that period.
 (4)	A notice to a person under subrule (3) must set out the effect of subrules (7), (9) and (10).
 (5)	An invalidity pension is not payable in respect of a period during which a suspension under subrule (3) is in force.
 (6)	Where:
@@ -1099,8 +1234,8 @@ Power of Board to require persons to be medically examined etc.
 	(b)	the Board, having regard to such matters as it considers relevant, is of the opinion that the suspension should be revoked;
 the Board may, by notice in writing given to the person, revoke the suspension with effect from a day determined by the Board, being a day not later than the day on which the notice is given.
 (7)	Without limiting subrule (6), where the invalidity pension of a person is suspended under subrule (3), the person may, by notice in writing given to the Board, request the Board to revoke the suspension and, where such a request is made, the Board must, by notice in writing given to the person:
-	(a)	if the invalidity pension has been suspended by virtue of the relevant person’s having failed to comply with a notice requiring the person to submit to a medical examination—require the person to submit to a medical examination by a medical practitioner at a time and place specified in the second‑mentioned notice; or
-	(b)	if the invalidity pension has been suspended by virtue of the person’s having failed to comply with a notice requiring the person to give information to the Board (in this paragraph called “the original notice”)—require the person to give in writing to the Board, within such period as is specified in the second‑mentioned notice, such information as was required by the original notice to be given.
+	(a)	if the invalidity pension has been suspended by virtue of the relevant person’s having failed to comply with a notice requiring the person to submit to a medical examination—require the person to submit to a medical examination by a medical practitioner at a time and place specified in the second-mentioned notice; or
+	(b)	if the invalidity pension has been suspended by virtue of the person’s having failed to comply with a notice requiring the person to give information to the Board (in this paragraph called “the original notice”)—require the person to give in writing to the Board, within such period as is specified in the second-mentioned notice, such information as was required by the original notice to be given.
 (8)	A notice given by the Board under subrule (7) must set out the effect of subrules (9) and (10).
 (9)	Where:
 	(a)	because of a request having been made to revoke the suspension of the invalidity pension of a person, a notice under subrule (7) is given to the person: and
@@ -1121,11 +1256,11 @@ the Board must, by notice in writing given to the person, refuse to revoke the s
 	(b)	to the Board by a person under this rule may be given by a person acting on his or her behalf.
 (12)	Where the Board is required by this rule to give a person a notice, the notice is taken to have been given to the person if:
 	(a)	the notice is served on the person personally; or
-	(b)	the notice is sent to the person by pre‑paid post as a letter and the person acknowledges receipt of the letter; or
+	(b)	the notice is sent to the person by pre-paid post as a letter and the person acknowledges receipt of the letter; or
 	(c)	where the Board has caused all reasonable steps to be taken to ascertain a reliable address of the person, the notice is sent to the person by prepaid post to:
 	(i)	in a case where the Board is satisfied that at least one reliable address of the person has been ascertained—that address or one of those addresses; or
 	(ii)	in any other case—the last address of the person known to the Board.
-(13)	A reference in subrule (12) to a reliable address of a person is a reference to an address where, if a letter were sent to the person by pre‑paid post to the address, the person would probably receive the letter.
+(13)	A reference in subrule (12) to a reliable address of a person is a reference to an address where, if a letter were sent to the person by pre-paid post to the address, the person would probably receive the letter.
 Subdivision B—Invalidity Benefits
 Entitlement to invalidity benefits
 26.	A person who is classified as Class A or Class B under rule 22 (whether on his or her retirement or by reason of his or her having been reclassified under rule 23) is entitled to invalidity benefits in accordance with this Division.
@@ -1156,14 +1291,14 @@ Effect of change of invalidity classification on pension and preserved benefit
 	(a)	the preserved benefit referred to in that subrule ceases to be applicable to him or her; and
 	(b)	a pension is payable to him or her in accordance with rule 27 or 28, as the case may be, from the date specified under rule 23 by the Board or the Committee, as the case may be, as the date from which the reclassification has effect.
 Person may be treated as having been retired on ground of invalidity
-30.	(1)	Where a person has been retired otherwise than on the ground of invalidity but, after his or her retirement, the Board is satisfied that, at the time the person was retired, grounds existed on which he or she could have been retired on the ground of invalidity, the Board may, for the purposes of these Rules, treat the person as if he or she had been retired on the last‑mentioned ground.
+30.	(1)	Where a person has been retired otherwise than on the ground of invalidity but, after his or her retirement, the Board is satisfied that, at the time the person was retired, grounds existed on which he or she could have been retired on the ground of invalidity, the Board may, for the purposes of these Rules, treat the person as if he or she had been retired on the last-mentioned ground.
 (2)	Where, because of action taken under subrule (1), a person is classified as Class A or Class B under rule 22:
 	(a)	so much of the preserved benefit applicable to him or her under rule 12, 13 or 14 as consists of employer benefit ceases to be applicable to him or her; and
 	(b)	a pension is payable to him or her in accordance with rule 27 or 28, as the case may be.
 Subdivision C—Invalidity Benefits Not Payable
 Person classified as Class C
 31.	A person who is classified as Class C is not entitled to invalidity benefits under this Division.
-Pre‑existing condition
+Pre-existing condition
 32.	(1)	Where:
 	(a)	a member is, within a period of 2 years after becoming a member, retired on the ground of invalidity; and
 	(b)	the Board is satisfied that:
@@ -1229,7 +1364,7 @@ Payment of deceased member’s employer benefit
 	(d)	in any other case the employer benefit is payable to the deceased member’s personal representative as a lump sum.
 (2)	A spouse who is entitled to be paid an employer benefit under paragraph (1) (a) may elect that:
 	(a)	instead of that employer benefit being paid to him or her, it be converted into a pension payable to him or her at an annual rate equal to the relevant percentage in Table 1 in Schedule 4 of the deceased member’s notional invalidity pension and if he or she so elects the benefit is so converted; or
-	(b)	instead of that employer benefit being paid in full to him or her, a specified part of that benefit, being not less than one‑half of the benefit, be converted into a pension payable to him or her at an annual rate equal to the relevant percentage in Table 1 in Schedule 4 of the deceased member’s reduced notional invalidity pension and if he or she so elects:
+	(b)	instead of that employer benefit being paid in full to him or her, a specified part of that benefit, being not less than one-half of the benefit, be converted into a pension payable to him or her at an annual rate equal to the relevant percentage in Table 1 in Schedule 4 of the deceased member’s reduced notional invalidity pension and if he or she so elects:
 	(i)	that part of the benefit is so converted; and
 	(ii)	the balance of the benefit is payable to him or her as a lump sum.
 (3)	An employer benefit payable under subrule (1) is calculated as if, on the date of the death of the deceased member, he or she had become entitled to invalidity benefits under Division 2 of Part 3 and had been classified as Class A under rule 22.
@@ -1360,7 +1495,7 @@ Payment of deceased former member’s preserved benefit
 (3)	Where a pension becomes payable under paragraph (2) (b), the member benefit (if any) included in the preserved benefit is payable, as a lump sum, to, or for the benefit of, the eligible child or children.
 (4)	A spouse who is entitled to be paid an employer benefit under paragraph (2) (a) may elect that:
 	(a)	instead of that employer benefit being paid to him or her, it be converted into a pension payable to him or her at an annual rate equal to the relevant percentage in Table 1 in Schedule 4 of the deceased member’s notional pension and if he or she so elects the benefit is so converted; or
-	(b)	instead of that employer benefit being paid in full to him or her, a specified part of that benefit, being not less than one‑half of the benefit, be converted into a pension payable to him or her at an annual rate equal to the relevant percentage in Table 1 in Schedule 4 of the deceased member’s reduced notional pension and if he or she so elects:
+	(b)	instead of that employer benefit being paid in full to him or her, a specified part of that benefit, being not less than one-half of the benefit, be converted into a pension payable to him or her at an annual rate equal to the relevant percentage in Table 1 in Schedule 4 of the deceased member’s reduced notional pension and if he or she so elects:
 	(i)	that part of the employer benefit is so converted; and
 	(ii)	the balance of the preserved benefit is payable to him or her as a lump sum.
 (5)	In this rule:
@@ -1382,7 +1517,7 @@ or for the amount last substituted for that amount under this rule (in this rule
 (3)	If at any time the Statistician changes the reference base for the index numbers, regard is to be had, for the purposes of the operation of this rule after the change took place, only to index numbers published in terms of the new reference base.
 (4)	Where an amount to be substituted under this rule is not a multiple of $10, it is increased to the nearest multiple of $10.
 (5)	In this rule:
-“index number”, in relation to a quarter, means the amount of the full‑time adult average weekly ordinary time earnings first published by the Statistician for the middle month of that quarter.
+“index number”, in relation to a quarter, means the amount of the full-time adult average weekly ordinary time earnings first published by the Statistician for the middle month of that quarter.
 
 Division 2—Increases in Pensions and Certain Unfunded Preserved Benefits
 Increases in pensions and certain unfunded preserved benefits
@@ -1416,7 +1551,7 @@ where:
 “Number of months in period” means the number of months in the period that began on the day on which the pension referred to in paragraph (a) or (b) became payable and ended on 30 June in the preceding year.
 (4)	If the period referred to in subrule (3) is less than 1 month, that period is treated as 1 month.
 (5)	If the period referred to in subrule (3) consists of a number of whole months and a part of a month:
-	(a)	where the number of days in that part of that month is less than one‑half of the number of days in that month—that part is disregarded; and
+	(a)	where the number of days in that part of that month is less than one-half of the number of days in that month—that part is disregarded; and
 	(b)	where the number of days in that part of that month is more than one‑half of the number of days in that month—that part is treated as a whole month.
 (6)	Where a preserved benefit:
 	(a)	became applicable to a person; or
@@ -1439,7 +1574,7 @@ the rate at which the pension is payable to him or her on and after the date fro
 	(a)	a person to whom an invalidity pension was payable ceased to be entitled to an invalidity pension because of his or her reclassification under rule 23; and
 	(b)	in consequence of a further reclassification under that rule after his or her death he or she would, had he or she not died, have again become entitled to an invalidity pension;
 then, for the purpose of calculating benefits for any surviving spouse or eligible child of the invalidity pensioner, the invalidity pensioner is to be taken to have been, immediately before his or her death, in receipt of an invalidity pension at the rate at which that pension would have been payable to him or her if:
-	(c)	he or she had not ceased to be entitled to invalidity pension in consequence of the first‑mentioned reclassification; and
+	(c)	he or she had not ceased to be entitled to invalidity pension in consequence of the first-mentioned reclassification; and
 	(d)	his or her classification, on and after the date on which he or she first became entitled to an invalidity pension, had been in accordance with the further reclassification.
 (4)	Upon a preserved benefit becoming applicable to a person under subrule 29 (1), the unfunded employer benefit included in that preserved benefit is increased as if:
 	(a)	that preserved benefit had become applicable to the person on the person’s retirement; and
@@ -1448,7 +1583,7 @@ Date of effect of increase
 60.	(1)	An increase by virtue of this Part in the rate of a pension that:
 	(a)	was payable; or
 	(b)	under subrule 56 (3) is treated as having been payable;
-to a person on 30 June in a year applies in relation to the instalment of pension falling due on the first pension pay‑day occurring after that day and in relation to all subsequent instalments.
+to a person on 30 June in a year applies in relation to the instalment of pension falling due on the first pension pay-day occurring after that day and in relation to all subsequent instalments.
 (2)	An increase by virtue of this Part in the amount of an unfunded preserved benefit applies with effect from:
 	(a)	in the case of an increase under subrule 58 (6)—the date on which the preserved benefit became payable; or
 	(b)	in any other case—1 July of the prescribed year.
@@ -1460,7 +1595,7 @@ Interpretation
 	(b)	where that fraction is not less than one half of one tenth—that fraction is treated as one tenth.
 
 Part 7—Candidates at Parliamentary Elections
-Re‑instated member
+Re-instated member
 62.	(1)	Where a person who resigned to contest an election:
 	(a)	again becomes a member; and
 	(b)	is a person referred to in a relevant provision of the Parliamentary Candidates Act; and
@@ -1486,16 +1621,16 @@ Provisions applicable to elections under the Rules
 	(b)	to make an election in relation to the nature of those benefits;
 he or she may make that election not earlier than 3 months before he or she is due to become entitled to the benefits and not later than 3 months after becoming entitled to the benefits.
 (3)	Where an election under these Rules is made by a person after the expiration of the period allowed for the making of the election and the Board is satisfied that, in all the circumstances of the case, it is desirable that the election be recognised, the Board may direct that the election be allowed and if it does so these Rules have effect as if the election had been made within the period allowed.
-(4)	Where a person who is entitled to make an election under these Rules is, by reason of physical or mental incapacity, unable to make that election, the Board may allow such other person as it thinks appropriate to make the election within such period as the Board allows and if it does so and the other person so makes the election these Rules have effect as if the election had been made by the first‑mentioned person within the period allowed.
+(4)	Where a person who is entitled to make an election under these Rules is, by reason of physical or mental incapacity, unable to make that election, the Board may allow such other person as it thinks appropriate to make the election within such period as the Board allows and if it does so and the other person so makes the election these Rules have effect as if the election had been made by the first-mentioned person within the period allowed.
 (5)	Where:
-	(a)	an election under Part 3, 4 or 5 is made by the person entitled to make the election or, in accordance with subrule (3), by another person on behalf of the first‑mentioned person; and
+	(a)	an election under Part 3, 4 or 5 is made by the person entitled to make the election or, in accordance with subrule (3), by another person on behalf of the first-mentioned person; and
 	(b)	the person who made the election makes an application to the Board, not later than 3 months after the day on which the election is made or within such further period as the Board in special circumstances allows, requesting that the Board cancel the election; and
 	(c)	the Board, having regard to such matters as it considers relevant, is satisfied that the election should be cancelled;
 the Board may direct that the election is cancelled and if it does so these Rules have effect as if the election had not been made.
 (6)	Where a person who is, or has been, a member is entitled to make an election under Part 3 or 5 and dies without making such an election:
 	(a)	if the person is survived by a spouse—the spouse may make the election within 3 months after the person’s death; or
 	(b)	if the person is not survived by a spouse, or is survived by a spouse but the spouse dies without making such an election, but the person is survived by an eligible child—the election may be made within that period by such person as the Board permits;
-and if the spouse, or the person permitted by the Board, does so, these Rules have effect as if the election had been made by the first‑mentioned person.
+and if the spouse, or the person permitted by the Board, does so, these Rules have effect as if the election had been made by the first-mentioned person.
 Rate of pension where lump sum converted into pension
 65.	(1)	Where a person is entitled under these Rules to have an amount of his or her employer benefit converted into a pension, the annual rate of that pension is calculated in accordance with Schedule 5.
 Benefits in unusual or exceptional circumstances
@@ -1507,9 +1642,9 @@ Instalments of pensions
 67.	(1)	Pensions are to be paid in fortnightly instalments on pension pay‑days.
 (2)	The amount of a fortnightly instalment of pension is an amount ascertained by dividing the amount per annum of the pension by 26.
 (3)	Where the amount of a fortnightly instalment of pension includes a fraction of a cent:
-	(a)	if the fraction is less than one‑half of a cent—the amount of the instalment is taken to be reduced by the amount of the fraction; or
-	(b)	if the fraction is one‑half of a cent or more—the amount of the instalment is taken to be increased by treating the fraction as 1 cent.
-(4)	The amount of pension payable in respect of a day is one‑fourteenth of the amount of a fortnightly instalment of the pension.
+	(a)	if the fraction is less than one-half of a cent—the amount of the instalment is taken to be reduced by the amount of the fraction; or
+	(b)	if the fraction is one-half of a cent or more—the amount of the instalment is taken to be increased by treating the fraction as 1 cent.
+(4)	The amount of pension payable in respect of a day is one-fourteenth of the amount of a fortnightly instalment of the pension.
 Set off against pension in certain cases
 68.	Where:
 	(a)	the spouse of a deceased pensioner to whom retirement pension or invalidity pension (in this rule called the “primary pension”) was payable is entitled to spouse’s pension in accordance with subrule 42 (2); and
@@ -1598,15 +1733,13 @@ Content of statements of reasons for decisions
 Interpretation
 79.	For the purposes of this Part, a determination or a decision of the Incapacity Classification Committee under Subdivision A of Division 2 of Part 3 is taken to be the decision of a delegate of the Board.
 Schedule 1—Glossary
-  
-  
 Rule 2
 Part 1—Definitions
 1.	In these Rules, unless the contrary intention appears:
 “actuary” means a Fellow or an Accredited Member of the Institute of Actuaries of Australia;
 “Board” means the Military Superannuation and Benefits Board of Trustees established by section 13 of the Act;
 “calendar month” means a period commencing at the beginning of a day of one of the 12 months of the year and ending immediately before the beginning of the corresponding day of the next month or, if there is no such corresponding day, ending at the expiration of the next month;
-“child”, in relation to a person who has died, means a child (including an adopted child, an ex‑nuptial child, a stepchild, a ward or a foster child) of the person or of a spouse of the person;
+“child”, in relation to a person who has died, means a child (including an adopted child, an ex-nuptial child, a stepchild, a ward or a foster child) of the person or of a spouse of the person;
 “classification” means a classification referred to in rule 22;
 “Committee”, in Part 3 of these Rules, means the Incapacity Classification Committee established under rule 17;
 “Committee”, in Part 9 of these Rules, means a Reconsideration Advisory Committee established under rule 72;
@@ -1616,7 +1749,7 @@ Part 1—Definitions
 	(a)	is a child in relation to the deceased person other than (where the deceased person was a retirement pensioner at the time of his or her death) a child who is declared by the Board not to be an eligible child for the purposes of these Rules; and
 	(b)	is a person who has not attained the age of 16 years or:
 	(i)	who has attained the age of 16 years but has not attained the age of 25 years; and
-	(ii)	is receiving full‑time education at a school, college or university or other full‑time education approved by the Board for the purposes of this subparagraph; and
+	(ii)	is receiving full-time education at a school, college or university or other full-time education approved by the Board for the purposes of this subparagraph; and
 	(iii)	is not ordinarily in employment or engaged in work on his or her own account; and
 	(c)	immediately before the deceased person’s death:
 	(i)	ordinarily lived with the deceased person; or
@@ -1629,8 +1762,8 @@ Part 1—Definitions
 “financial year” means a period of 12 months commencing on 1 July;
 “foreign service member” means a person (not being a person who has been an eligible member of the Defence Force within the meaning of the 1973 Act):
 	(a)	who, before he or she became a member, had been a member of the armed forces of a country other than Australia; and
-	(b)	who rendered with those forces a period of service (in this definition called “full‑time service”) of a kind similar to continuous full‑time service in the Defence Force for a period of or exceeding 12 months; and
-	(c)	with regard to whom the Board has, after consultation with the appropriate authority of the Defence Force, formed the opinion that the full‑time service or a part of that service of that person with those forces should be regarded as eligible service;
+	(b)	who rendered with those forces a period of service (in this definition called “full-time service”) of a kind similar to continuous full-time service in the Defence Force for a period of or exceeding 12 months; and
+	(c)	with regard to whom the Board has, after consultation with the appropriate authority of the Defence Force, formed the opinion that the full-time service or a part of that service of that person with those forces should be regarded as eligible service;
 “Fund” means the fund established, and vested in the Board, by the Trust Deed;
 “funded employer benefit”, in relation to a person, means the sum of:
 	(a)	the amount of employer contributions paid by the Department, in relation to the person, under rule 10 less the amount of income tax paid or payable by the Fund in respect of those contributions; and
@@ -1676,26 +1809,26 @@ Part 1—Definitions
 “1973 Act” means the Defence Force Retirement and Death Benefits Act 1973;
 “1973 Scheme” means the retirement and death benefits scheme provided for in the 1973 Act;
 “1973 Scheme recipient member” means a member who:
-	(a)	began to render continuous full‑time service on or after the date of commencement of the Scheme; and
+	(a)	began to render continuous full-time service on or after the date of commencement of the Scheme; and
 	(b)	immediately before beginning to render that service was a 1973 Scheme retirement pensioner;
-“1973 Scheme re‑entrant” means a person who became a member because he or she made an election to do so under section 61B of the 1973 Act immediately before he or she began to render the period of continuous full‑time service which he or she is rendering;
+“1973 Scheme re-entrant” means a person who became a member because he or she made an election to do so under section 61B of the 1973 Act immediately before he or she began to render the period of continuous full-time service which he or she is rendering;
 “1973 Scheme retirement pensioner” means a person to whom retirement pay is payable under the 1973 Act;
 “1991 Scheme” means the Scheme;
-“1991 Scheme re‑entrant” means a member who, having been a member and retired, again became a member after a break in the continuity of his or her service.
+“1991 Scheme re-entrant” means a member who, having been a member and retired, again became a member after a break in the continuity of his or her service.
 
 Part 2—Resign to contest an election
 2.	A reference in these Rules to a person who resigns to contest an election is a reference to a member:
 	(a)	who is transferred to a Reserve (being a Reserve within the meaning of the Parliamentary Candidates Act); or
 	(b)	who is discharged from the Defence Force; or
-	(c)	has his or her continuous full‑time service terminated;
+	(c)	has his or her continuous full-time service terminated;
 under the Parliamentary Candidates Act.
 
 Part 3—Retirement
 3.	A reference in these Rules to the retirement of a person is a reference to his or her retirement from the Defence Force and includes:
 	(a)	any voluntary or involuntary termination of the person’s services as a member of that force; or
-	(b)	in the case of a person who is an officer of the Permanent Forces—the transfer of the officer to the Emergency Forces or the Reserve Forces if, on that transfer, the person ceases to render continuous full‑time service; or
-	(c)	in the case of a person who is a member of the Emergency Forces or the Reserve Forces and is rendering continuous full‑time service—the cessation of that service.
-4.	Where a person retires and, without a break in the continuity of his or her service, again becomes a member of the Defence Force serving on continuous full‑time service, the person is to be treated, for the purposes of these Rules, as not having retired by reason only of that retirement.
+	(b)	in the case of a person who is an officer of the Permanent Forces—the transfer of the officer to the Emergency Forces or the Reserve Forces if, on that transfer, the person ceases to render continuous full-time service; or
+	(c)	in the case of a person who is a member of the Emergency Forces or the Reserve Forces and is rendering continuous full-time service—the cessation of that service.
+4.	Where a person retires and, without a break in the continuity of his or her service, again becomes a member of the Defence Force serving on continuous full-time service, the person is to be treated, for the purposes of these Rules, as not having retired by reason only of that retirement.
 
 Part 4—Retiring age
 5.	A reference in these Rules to the retiring age of a member is:
@@ -1854,9 +1987,9 @@ Schedule 1 (Definition of “eligible service”)
 
 Person
 Period included
-1.	A person who, immediately before he or she transferred from the 1973 Scheme, was rendering continuous full‑time service and who, before he or she began to render that service, was not a 1973 Scheme retirement pensioner.
+1.	A person who, immediately before he or she transferred from the 1973 Scheme, was rendering continuous full-time service and who, before he or she began to render that service, was not a 1973 Scheme retirement pensioner.
 Any period that, before the transfer of the person, was a period of effective service in relation to the person for the purposes of the 1973 Act.
-2.	A person who, immediately before he or she transferred from the 1973 Scheme, was rendering continuous full‑time service and who, immediately before he or she began to render that service, was a 1973 Scheme retirement pensioner
+2.	A person who, immediately before he or she transferred from the 1973 Scheme, was rendering continuous full-time service and who, immediately before he or she began to render that service, was a 1973 Scheme retirement pensioner
 So much of that period of service rendered by the person after the person ceased to be a 1973 Scheme retirement pensioner and before his or her transfer to the 1991 Scheme as was a period of effective service in relation to the person for the purposes of the 1973 Act.
 
 2.	Service referred to in subparagraph 1 (a) does not include service during a period:
@@ -1869,24 +2002,24 @@ So much of that period of service rendered by the person after the person ceased
 	(ii)	which was otherwise paid to the person as a lump sum, converted into a pension or became applicable to the person as a preserved benefit.
 Schedule 7—Calculation of final average salary
   
-Schedule 1 (Definition of “final average salary”)
+Schedule 1 (Definition of  “final average salary”)
 1.	The final average salary in relation to a person who is or was a member is an amount equal to:
 	(a)	in the case of a person with less than 3 years’ eligible service—an amount calculated in accordance with the formula:
 
 where:
 “Salary”, in relation to the person, means the amount of salary received by the person during his or her service; and
 “Number of days of eligible service”, in relation to the person, means the number of days of eligible service of the person; or
-	(b)	in any other case—one‑third of the amount of salary payable to the person in his or her last 3 years of eligible service.
+	(b)	in any other case—one-third of the amount of salary payable to the person in his or her last 3 years of eligible service.
 2.	In paragraph 1, any reference to eligible service includes, in the case of a person whose total benefit reached his or her lump sum maximum benefit limit, any period in respect of which the person, in pursuance of rule 5 and by reason only of that rule, did not pay contributions to the Fund.
 3.	For the purpose of ascertaining the amount of salary payable to a member in his or her last 3 years of service in a case where that service included a period in respect of which the member:
-	(a)	was in receipt of half‑pay; or
+	(a)	was in receipt of half-pay; or
 	(b)	was not entitled to be paid salary; or
 	(c)	forfeited his or her salary;
 the member is taken to have been in receipt of salary in respect of that period at the fortnightly rate that was applicable to the member immediately before that period.
 Schedule 8—Calculation of employer benefit
-Schedule 1 (Definition of “employer benefit”)
-Part 1—Calculation of employer benefit of person with not less than 7 years’ eligible service or Invalidity Retiree or 1973 Scheme Recipient Member (other than 1973 Scheme Re‑Entrant or 1991 Scheme Re‑Entrant or MBL Member or Foreign Service Member)
-1.	The employer benefit, in relation to a person (other than a 1973 Scheme re‑entrant, a 1991 Scheme re‑entrant, an MBL member or a foreign service member) who:
+Schedule 1 (Definition of  “employer benefit”)
+Part 1—Calculation of employer benefit of person with not less than 7 years’ eligible service or Invalidity Retiree or 1973 Scheme Recipient Member (other than 1973 Scheme Re-Entrant or 1991 Scheme Re‑Entrant or MBL Member or Foreign Service Member)
+1.	The employer benefit, in relation to a person (other than a 1973 Scheme re-entrant, a 1991 Scheme re-entrant, an MBL member or a foreign service member) who:
 	(a)	has not less than 7 years’ eligible service; or
 	(b)	is a person who is retired on the ground of invalidity; or
 	(c)	is a 1973 Scheme recipient member;
@@ -1906,8 +2039,8 @@ where:
 	(b)	if the person completed 7 years but did not complete 20 years of eligible service—the period of eligible service of the person after completing 7 years of eligible service;
 “third period of eligible service”, in relation to a person, means the period of eligible service of the person after completing 20 years of eligible service.
 
-Part 2—Calculation of Employer Benefit of Person with less than 7 years’ eligible service (other than Invalidity Retiree or 1973 Scheme Recipient Member or 1973 Scheme Re‑Entrant or 1991 Scheme Re‑Entrant or Foreign Service Member)
-3.	The employer benefit, in relation to a person who has less than 7 years’ eligible service (other than a person who is retired on the ground of invalidity, is a 1973 Scheme recipient member, is a 1973 Scheme re‑entrant, is a 1991 Scheme re‑entrant or is a foreign service member), is calculated in accordance with the formula:
+Part 2—Calculation of Employer Benefit of Person with less than 7 years’ eligible service (other than Invalidity Retiree or 1973 Scheme Recipient Member or 1973 Scheme Re-Entrant or 1991 Scheme Re-Entrant or Foreign Service Member)
+3.	The employer benefit, in relation to a person who has less than 7 years’ eligible service (other than a person who is retired on the ground of invalidity, is a 1973 Scheme recipient member, is a 1973 Scheme re-entrant, is a 1991 Scheme re-entrant or is a foreign service member), is calculated in accordance with the formula:
 
 where:
 “FEB” means the sum of:
@@ -1937,8 +2070,8 @@ Completed years of eligible service
 6
 75
 
-Part 3—Calculation of Employer Benefit of 1973 Scheme Re‑Entrant, 1991 Scheme Re‑Entrant or Foreign Service Member, with not less than 7 years’ aggregated service
-4.	The employer benefit, in relation to a 1973 Scheme re‑entrant, a 1991 Scheme re‑entrant or a foreign service member who:
+Part 3—Calculation of Employer Benefit of 1973 Scheme Re-Entrant, 1991 Scheme Re‑Entrant or Foreign Service Member, with not less than 7 years’ aggregated service
+4.	The employer benefit, in relation to a 1973 Scheme re-entrant, a 1991 Scheme re-entrant or a foreign service member who:
 	(a)	has not less than 7 years’ aggregated service; or
 	(b)	is a person who is retired on the ground of invalidity;
 is calculated in accordance with the formula:
@@ -1957,8 +2090,8 @@ where:
 	(b)	if the person completed 7 but did not complete 20 years of aggregated service—the period of aggregated service of the person after completing 7 years of aggregated service;
 “third period of aggregated service”, in relation to a person, means the period of aggregated service of the person after completing 20 years of aggregated service.
 
-Part 4—Calculation of Employer Benefit of 1973 Scheme Re‑Entrant or Foreign Service Member, with less than 7 years’ aggregated service (other than Invalidity Retiree)
-6.	The employer benefit, in relation to a 1973 Scheme re‑entrant or foreign service member, who has less than 7 years’ aggregated service, (other than a person who is retired on the ground of invalidity), is calculated in accordance with the formula:
+Part 4—Calculation of Employer Benefit of 1973 Scheme Re-Entrant or Foreign Service Member, with less than 7 years’ aggregated service (other than Invalidity Retiree)
+6.	The employer benefit, in relation to a 1973 Scheme re-entrant or foreign service member, who has less than 7 years’ aggregated service, (other than a person who is retired on the ground of invalidity), is calculated in accordance with the formula:
 
 where:
 “FEB” means the sum of:
@@ -2014,14 +2147,14 @@ where:
 
 Part 6—Interpretation
 10.	A reference in this Schedule to a person who retires on the ground of invalidity does not include a reference to a person who, by reason of rule 32, 33 or 34, is not entitled to invalidity benefits.
-11.	A reference in this Schedule to the aggregated service of a foreign service member or a 1973 Scheme re‑entrant is a reference to the sum of:
+11.	A reference in this Schedule to the aggregated service of a foreign service member or a 1973 Scheme re-entrant is a reference to the sum of:
 	(a)	the eligible service of that person; and
 	(b)	either:
-	(i)	in the case of a 1973 Scheme re‑entrant—any period that, before the person became a member, was a period of effective service in relation to the person for the purposes of the 1973 Act; or
-	(ii)	in the case of a foreign service member—so much of the person’s full‑time service with the forces of a country other than Australia as the Board approves calculated in such manner as the Board approves.
+	(i)	in the case of a 1973 Scheme re-entrant—any period that, before the person became a member, was a period of effective service in relation to the person for the purposes of the 1973 Act; or
+	(ii)	in the case of a foreign service member—so much of the person’s full-time service with the forces of a country other than Australia as the Board approves calculated in such manner as the Board approves.
 Schedule 9—Calculation of member benefit
   
-Schedule 1 (Definition of “member benefit”)
+Schedule 1 (Definition of  “member benefit”)
 1.	A member benefit, in relation to a person who is or was a member, is an amount equal to the sum of:
 	(a)	the contributions that have been paid under these Rules by the person on or after he or she began his or her current period of membership; and
 	(b)	in the case of a member to whom a preserved benefit is applicable—the amount of the member benefit (if any) included in that preserved benefit; and
@@ -2049,7 +2182,7 @@ less the amount (if any) remaining unpaid to the Commonwealth by the person in r
 Schedule 11—Rates of interest applicable in respect of certain unfunded amounts
   
 (Schedules 8 and 10)
-1.	For the purposes of sub‑subparagraphs 3 (c) (i) and 6 (c) (i) of Schedule 8 and sub‑subparagraph 1 (b) (i) of Schedule 10:
+1.	For the purposes of sub-subparagraphs 3 (c) (i) and 6 (c) (i) of Schedule 8 and sub-subparagraph 1 (b) (i) of Schedule 10:
 	(a)	the rate applicable in relation to:
 	(i)	the last complete salary fortnight in a financial year; or
 	(ii)	where the rate applicable in relation to that financial year is the same as the rate applicable in relation to the immediately preceding financial year—any salary fortnight in the first‑mentioned financial year;
@@ -2157,7 +2290,7 @@ Rate
 Notes to the Military Superannuation and Benefits Act 1991
 Note 1
 The Military Superannuation and Benefits Act 1991 as shown in this compilation comprises Act No. 135, 1991 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information see Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -2167,7 +2300,7 @@ Application, saving or transitional provisions
 Military Superannuation and Benefits Act 1991 
 135, 1991 
 7 Sept 1991 
-Parts 1 and 2 (ss. 1‑5), 6 and 7 (ss. 18‑28) ss. 42, 47, 49(1)(a) and 50‑52: Royal Assent  S. 61: 1 Sept 1991  Remainder: 1 Oct 1991 
+Parts 1 and 2 (ss. 1-5), 6 and 7 (ss. 18-28) ss. 42, 47, 49(1)(a) and 50-52: Royal Assent  S. 61: 1 Sept 1991  Remainder: 1 Oct 1991 
 
 Defence Legislation Amendment Act 1992 
 91, 1992 
@@ -2182,7 +2315,7 @@ Superannuation Guarantee (Consequential Amendments) Act 1992
 Superannuation Industry (Supervision) Consequential Amendments Act 1993 
 82, 1993 
 30 Nov 1993 
-Ss. 1, 2, 14, 16(2), 41, 42, 45, 46, 48(1) and 52‑64: 1 Dec 1993  Remainder: 1 July 1994 
+Ss. 1, 2, 14, 16(2), 41, 42, 45, 46, 48(1) and 52-64: 1 Dec 1993  Remainder: 1 July 1994 
 S. 40 
 Defence Legislation Amendment Act 1993 
 95, 1993 
@@ -2222,77 +2355,64 @@ Schedule 7: Royal Assent (f)
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
 44, 1999
 17 June 1999
-Schedule 7 (items 119–121): 1 July 1999 (see Gazette 1999, No. S283) (g)
-S. 3(2)(e) (am. by 160, 2000, Sch. 4 [item 4]) 
+Schedule 7 (items 119-121): 1 July 1999 (see Gazette 1999, No. S283) (g)
+S. 3(2)(e) (am. by 160, 2000, Sch. 4 [item 4]) 
 as amended by
 
 
 
 
-Financial Sector Legislation Amendment Act (No. 1) 2000
+Financial Sector Legislation Amendment Act (No. 1) 2000
 160, 2000
 21 Dec 2000
-Schedule 1 (item 21): Royal Assent Remainder: 18 Jan 2001
+Schedule 1 (item 21): Royal Assent Remainder: 18 Jan 2001
 —
 Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001
 10, 2001
 22 Mar 2001 
-Schedule 2 (items 66, 94, 95): 19 Apr 2001 (h)
+Schedule 2 (items 66, 94, 95): 19 Apr 2001 (h)
 Sch. 2 (items 94, 95) [see Table A]
 Defence Legislation Amendment (Application of Criminal Code) Act 2001
 141, 2001
 1 Oct 2001
-S. 4 and Schedule 1 (item 106): 2 Oct 2001 (i)
+S. 4 and Schedule 1 (item 106): 2 Oct 2001 (i)
 S. 4 [see Table A]
-Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003
-111, 2003
-12 Nov 2003
-12 Nov 2003
-Sch. 1 (item 25) [see Table A]
 
 (a)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 4 only of the Defence Legislation Amendment Act 1995, subsection 2(1) of which provides as follows:
 	(1)	Except as indicated in subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 (b)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 2) only of  the CFM Sale Act 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(c)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (items 28, 85, 111 and 145) only of the Defence Legislation Amendment Act (No. 1) 1997, subsection 2(1) of which provides as follows:
+(c)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (items 28, 85, 111, 145) only of the Defence Legislation Amendment Act (No. 1) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (d)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 3 (item 104) only of the Income Tax (Consequential Amendments) Act 1997, section 2 of which provides as follows:
 	2.	This Act commences on 1 July 1997.
-(e)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (items 937 and 938) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+(e)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (items 937, 938) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (f)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 7 only of the Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-(g)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 7 (items 119–121) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(2)(e) and (16) of which provide as follows:
+(g)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 7 (items 119-121) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(2)(e) and (16) of which provide as follows:
 	(2)	The following provisions commence on the transfer date:
-	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
+	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
-(h)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 66) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
+(h)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 2 (item 66) only of the Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-(i)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 1 (item 106) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(2) of which provides as follows:
+(i)	The Military Superannuation and Benefits Act 1991 was amended by Schedule 1 (item 106) only of the Defence Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(2) of which provides as follows:
 	(2)	Part 1 of Schedule 1 commences on the later of:
 	(a)	the day on which Chapter 2 of the Criminal Code commences; and
 	(b)	the day after the day on which this Act receives the Royal Assent.
 
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Part 1
-
 S. 3A	
-ad. No. 141, 2001
-Part 2
-
+ad. No. 141, 2001
 S. 5 	
-am. No. 82, 1993; No. 43, 1995; No. 111, 2003
-Part 3
-
+am. No. 82, 1993; No. 43, 1995 
 S. 6 	
-am. No. 92, 1992; No. 10, 2001 
+am. No. 92, 1992; No. 10, 2001 
 S. 7 	
 rep. No. 92, 1992 
-Part 6
-
 S. 19	
 am. No. 152, 1997
 S. 24	
@@ -2303,20 +2423,16 @@ Ss. 25A, 25B
 ad. No. 152, 1997
 S. 26 	
 am. No. 43, 1995 
-Part 8
-
 S. 30	
 am. No. 1, 1997
 S. 36	
 am. No. 1, 1997
-Part 9
-
 S. 41 	
 rep. No. 58, 1996 
-S. 42A	
-ad. No. 187, 1997
 S. 47 	
 am. No. 91, 1992 
+S. 42A	
+ad. No. 187, 1997
 Heading to s. 48	
 am. No. 44, 1999
 S. 48	
@@ -2331,8 +2447,8 @@ am. No. 43, 1995
 
 Table A
 Application, saving or transitional provisions
-Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)
-Schedule 2
+Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)
+Schedule 2
 94  Saving—old regulations
 (1)	Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 Example:	Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve.
@@ -2342,13 +2458,10 @@ Example:	Assume that, immediately before the commencement of this item, regulati
 (2)	In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 (3)	Subitem (2) does not limit the scope of subitem (1).
 
-Defence Legislation Amendment (Application of Criminal Code) Act 2001  (No. 141, 2001)
+Defence Legislation Amendment (Application of Criminal Code) Act 2001  (No. 141, 2001)
 4  Application of amendments
 	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)
-Schedule 1
-25  Application of amendments
-The amendments made by Part 1 of this Schedule apply in relation to contributions made to complying superannuation funds and RSAs on or after 1 July 2003.
+      
 
