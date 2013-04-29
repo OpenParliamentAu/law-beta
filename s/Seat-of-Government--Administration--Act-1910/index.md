@@ -1,74 +1,77 @@
-![](http://www.comlaw.gov.au/Details/C2008C00362/Html/SeatGovAdmin1910_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00103/Html/C9AFE0445E781E1CCA25714100800F24/$FILE/image001.gif)
 
 # Seat of Government (Administration) Act 1910
 
 **Act No. 25 of 1910 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 137 of 2000
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[2A](#2A).         Interpretation
+[2A](#2A).         Interpretation                                                                                       1
 
 **Part II—Application of State Laws**
 
-[3](#3).            Certain State laws not to continue in Territory
+[3](#3).            Certain State laws not to continue in Territory                                   2
 
-[4](#4).            Effect of continuance of State laws
+[4](#4).            Effect of continuance of State laws                                                     2
 
 **Part III—Application of Commonwealth Acts**
 
-[5](#5).            Application of _Workplace Relations Act 1996_
+[5](#5).            Application of _Workplace Relations Act 1996_                                    3
 
-[7A](#7A).         Resumption of land held under Crown leases
+[7A](#7A).         Resumption of land held under Crown leases                                     3
 
-[8](#8).            Postal and telegraphic rates and charges
+[8](#8).            Postal and telegraphic rates and charges                                              4
 
 **Part IV—Disposal of Crown lands**
 
-[9](#9).            Disposal of Crown lands
+[9](#9).            Disposal of Crown lands                                                                     5
 
-[9A](#9A).         Dealings with Crown lands
+[9A](#9A).         Dealings with Crown lands                                                                  5
 
 **Part V—Ordinances**
 
-[12](#12).          Ordinances
+[12](#12).          Ordinances                                                                                           6
 
-[12AA](#12AA).    Ordinance not to be re-made while required to be tabled
+[12AA](#12AA).    Ordinance not to be re-made while required to be tabled                    9
 
-[12AB](#12AB).    Ordinance not to be re-made while subject to disallowance
+[12AB](#12AB).    Ordinance not to be re-made while subject to disallowance              10
 
-[12AC](#12AC).    Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
+[12AC](#12AC).    Disallowed Ordinance not to be re-made unless resolution rescinded or House approves     11
 
-[12AD](#12AD).    Regulations, rules and by-laws
+[12AD](#12AD).    Regulations, rules and by-laws                                                          11
 
-[12AE](#12AE).     Determinations of fees or charges
+[12AE](#12AE).     Determinations of fees or charges                                                      11
 
 **Part VI—Miscellaneous**
 
-[12C](#12C).       Delegation by Minister
+[12C](#12C).       Delegation by Minister                                                                      13
 
-[12D](#12D).       Regulations
+[12D](#12D).       Regulations                                                                                        13
 
 **Schedule—Laws of the State of New South Wales which are not to continue in force in the Territory** 
 
 **Notes** 
+
 
 ## An Act to provide for the Provisional Government of the Territory for the Seat of Government of the Commonwealth
 
@@ -86,13 +89,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="enact"></a>**_enactment_** has the same meaning in the _Australian   Capital Territory__(Self-Government) Act 1988_.
+                    <a name="enact"></a>**_enactment_** has the same meaning in the _Australian Capital Territory__(Self-Government) Act 1988_.
 
 ## Part II—Application of State Laws
 
 ##### <a id="3"></a>3  Certain State laws not to continue in Territory
 
-                   Notwithstanding anything in section six of the _Seat of Government Acceptance Act 1909_, the laws of the State of New   South Wales described in the Schedule to this Act shall not continue in force in the Territory.
+                   Notwithstanding anything in section six of the _Seat of Government Acceptance Act 1909_, the laws of the State of New South Wales described in the Schedule to this Act shall not continue in force in the Territory.
 
 ##### <a id="4"></a>4  Effect of continuance of State laws
 
@@ -122,7 +125,7 @@ the provision, agreement, award, order or determination prevails, and the Ordina
 
 ##### <a id="8"></a>8  Postal and telegraphic rates and charges
 
-                   The rates and charges for postal articles and telegrams in the Territory and to and from the Territory shall be the same as if the Territory continued to be part of the State of New South   Wales.
+                   The rates and charges for postal articles and telegrams in the Territory and to and from the Territory shall be the same as if the Territory continued to be part of the State of New South Wales.
 
 ## Part IV—Disposal of Crown lands
 
@@ -152,7 +155,7 @@ the provision, agreement, award, order or determination prevails, and the Ordina
 
                      (c)  evidence;
 
-                     (d)  National Land as defined by the _Australian   Capital Territory__(Planning and Land Management) Act 1988_;
+                     (d)  National Land as defined by the _Australian Capital Territory__(Planning and Land Management) Act 1988_;
 
                      (e)  companies;
 
@@ -236,7 +239,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (3) 
 
           (6B)  A reference in subsection (6) or (6A) to an Ordinance shall be read as including a reference to a part of an Ordinance, and a reference in subsection (6A) to a law has a corresponding meaning.
 
-##### <a id="12AA"></a>12AA  Ordinance not to be re-made while required to be tabled
+##### <a id="12AA"></a>12AA  Ordinance not to be re-made while required to be tabled
 
              (1)  Where an Ordinance (in this section called the **_original Ordinance_**) has been made, no Ordinance containing a provision being the same in substance as a provision of the original Ordinance shall be made during the period defined by subsection (2) unless both Houses of the Parliament by resolution approve the making of an Ordinance containing a provision the same in substance as that provision of the original Ordinance.
 
@@ -316,7 +319,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ##### <a id="12C"></a>12C  Delegation by Minister
 
-             (1)  The Minister may, by writing under his or her hand, delegate to any person all or any of his or her powers or functions under any Ordinance made under this Act.
+             (1)  The Minister may, by writing under his hand, delegate to any person all or any of his powers or functions under any Ordinance made under this Act.
 
              (2)  Every delegation under this section shall be revocable at will, and no delegation shall prevent the exercise of any power or function by the Minister.
 
@@ -324,7 +327,8 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act  
 
-# Schedule—Laws of the State of New   South Wales which are not to continue in force in the Territory 
+
+# Schedule—Laws of the State of New South Wales which are not to continue in force in the Territory 
 
 _Conciliation and Arbitration Act 1899 (1899 No. 3)_
 
@@ -343,6 +347,7 @@ _Local Government (Amending) Act 1908 (1908 No. 28)_
 _Country Towns Water and Sewerage Act 1880, and all Acts amending or extending it_
 
 _All Acts imposing rates, taxes, or duties._
+
 
 # Notes to the _Seat of Government (Administration) Act 1910_
 
@@ -374,11 +379,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -388,674 +395,665 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1910</div>
-  </td>
-  <td>
-    <div>25, 1910</div>
-  </td>
-  <td>
-    <div>25 Nov 1910</div>
-  </td>
-  <td>
-    <div>1 Jan 1911 ( <i>see</i>s. 2 and <i>Gazette</i>1910, p. 1851)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1924</div>
-  </td>
-  <td>
-    <div>8, 1924</div>
-  </td>
-  <td>
-    <div>23 July 1924</div>
-  </td>
-  <td>
-    <div>1 Jan 1925 ( <i>see Gazette</i>1924, p. 2847)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1928 (a)</div>
-  </td>
-  <td>
-    <div>44, 1928</div>
-  </td>
-  <td>
-    <div>28 Sept 1928</div>
-  </td>
-  <td>
-    <div>29 Dec 1928 ( <i>see Gazette</i>1928, p. 3499)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judiciary Act 1927</div>
-  </td>
-  <td>
-    <div>9, 1927</div>
-  </td>
-  <td>
-    <div>8 Apr 1927</div>
-  </td>
-  <td>
-    <div>2 Sept 1929 ( <i>see Gazette</i>1929, p. 1854)</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1930</div>
-  </td>
-  <td>
-    <div>2, 1930</div>
-  </td>
-  <td>
-    <div>29 Mar 1930</div>
-  </td>
-  <td>
-    <div>1 May 1930 ( <i>see Gazette</i>1930, p. 891)</div>
-  </td>
-  <td>
-    <div>Ss. 6–14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1931</div>
-  </td>
-  <td>
-    <div>9, 1931</div>
-  </td>
-  <td>
-    <div>1 July 1931</div>
-  </td>
-  <td>
-    <div>17 Aug 1931 ( <i>see Gazette</i>1931, p. 1311)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1933</div>
-  </td>
-  <td>
-    <div>4, 1933</div>
-  </td>
-  <td>
-    <div>30 May 1933</div>
-  </td>
-  <td>
-    <div>30 May 1933</div>
-  </td>
-  <td>
-    <div>Ss. 4–6 and 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1939</div>
-  </td>
-  <td>
-    <div>86, 1939</div>
-  </td>
-  <td>
-    <div>15 Dec 1939</div>
-  </td>
-  <td>
-    <div>12 Jan 1940</div>
-  </td>
-  <td>
-    <div>Ss. 5 and 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1940</div>
-  </td>
-  <td>
-    <div>14, 1940</div>
-  </td>
-  <td>
-    <div>27 May 1940</div>
-  </td>
-  <td>
-    <div>24 June 1940</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Conciliation and Arbitration Act 1947</div>
-  </td>
-  <td>
-    <div>10, 1947</div>
-  </td>
-  <td>
-    <div>20 May 1947</div>
-  </td>
-  <td>
-    <div>8 Oct 1947 ( <i>see Gazette</i>1947, p. 2915)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Capital Territory and Jervis Bay (Lands Acquisition) Act 1955</div>
-  </td>
-  <td>
-    <div>70, 1955</div>
-  </td>
-  <td>
-    <div>4 Nov 1955</div>
-  </td>
-  <td>
-    <div>16 Feb 1956 ( <i>see Gazette</i>1956, p. 472)</div>
-  </td>
-  <td>
-    <div>S. 5(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1959</div>
-  </td>
-  <td>
-    <div>90, 1959</div>
-  </td>
-  <td>
-    <div>4 Dec 1959</div>
-  </td>
-  <td>
-    <div>4 Dec 1959</div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1963</div>
-  </td>
-  <td>
-    <div>24, 1963</div>
-  </td>
-  <td>
-    <div>28 May 1963</div>
-  </td>
-  <td>
-    <div>25 June 1963</div>
-  </td>
-  <td>
-    <div>S. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Act 1965</div>
-  </td>
-  <td>
-    <div>111, 1965</div>
-  </td>
-  <td>
-    <div>18 Dec 1965</div>
-  </td>
-  <td>
-    <div>Ss. 1, 5, 8, Parts II and III (ss. 9–34) and s. 106: 18 Dec 1965 
+<tbody>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1910</div>
+    </td>
+    <td>
+      <div>25, 1910</div>
+    </td>
+    <td>
+      <div>25 Nov 1910</div>
+    </td>
+    <td>
+      <div>1 Jan 1911 ( <i>see</i>s. 2 and <i>Gazette</i>1910, p. 1851)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1924</div>
+    </td>
+    <td>
+      <div>8, 1924</div>
+    </td>
+    <td>
+      <div>23 July 1924</div>
+    </td>
+    <td>
+      <div>1 Jan 1925 ( <i>see Gazette</i>1924, p. 2847)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1928 (a)</div>
+    </td>
+    <td>
+      <div>44, 1928</div>
+    </td>
+    <td>
+      <div>28 Sept 1928</div>
+    </td>
+    <td>
+      <div>29 Dec 1928 ( <i>see Gazette</i>1928, p. 3499)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judiciary Act 1927</div>
+    </td>
+    <td>
+      <div>9, 1927</div>
+    </td>
+    <td>
+      <div>8 Apr 1927</div>
+    </td>
+    <td>
+      <div>2 Sept 1929 ( <i>see Gazette</i>1929, p. 1854)</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1930</div>
+    </td>
+    <td>
+      <div>2, 1930</div>
+    </td>
+    <td>
+      <div>29 Mar 1930</div>
+    </td>
+    <td>
+      <div>1 May 1930 ( <i>see Gazette</i>1930, p. 891)</div>
+    </td>
+    <td>
+      <div>Ss. 6–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1931</div>
+    </td>
+    <td>
+      <div>9, 1931</div>
+    </td>
+    <td>
+      <div>1 July 1931</div>
+    </td>
+    <td>
+      <div>17 Aug 1931 ( <i>see Gazette</i>1931, p. 1311)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1933</div>
+    </td>
+    <td>
+      <div>4, 1933</div>
+    </td>
+    <td>
+      <div>30 May 1933</div>
+    </td>
+    <td>
+      <div>30 May 1933</div>
+    </td>
+    <td>
+      <div>Ss. 4–6 and 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1939</div>
+    </td>
+    <td>
+      <div>86, 1939</div>
+    </td>
+    <td>
+      <div>15 Dec 1939</div>
+    </td>
+    <td>
+      <div>12 Jan 1940</div>
+    </td>
+    <td>
+      <div>Ss. 5 and 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1940</div>
+    </td>
+    <td>
+      <div>14, 1940</div>
+    </td>
+    <td>
+      <div>27 May 1940</div>
+    </td>
+    <td>
+      <div>24 June 1940</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Conciliation and Arbitration Act 1947</div>
+    </td>
+    <td>
+      <div>10, 1947</div>
+    </td>
+    <td>
+      <div>20 May 1947</div>
+    </td>
+    <td>
+      <div>8 Oct 1947 ( <i>see Gazette</i>1947, p. 2915)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Capital Territory and Jervis Bay (Lands Acquisition) Act 1955</div>
+    </td>
+    <td>
+      <div>70, 1955</div>
+    </td>
+    <td>
+      <div>4 Nov 1955</div>
+    </td>
+    <td>
+      <div>16 Feb 1956 ( <i>see Gazette</i>1956, p. 472)</div>
+    </td>
+    <td>
+      <div>S. 5(4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1959</div>
+    </td>
+    <td>
+      <div>90, 1959</div>
+    </td>
+    <td>
+      <div>4 Dec 1959</div>
+    </td>
+    <td>
+      <div>4 Dec 1959</div>
+    </td>
+    <td>
+      <div>S. 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1963</div>
+    </td>
+    <td>
+      <div>24, 1963</div>
+    </td>
+    <td>
+      <div>28 May 1963</div>
+    </td>
+    <td>
+      <div>25 June 1963</div>
+    </td>
+    <td>
+      <div>S. 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Trade Practices Act 1965</div>
+    </td>
+    <td>
+      <div>111, 1965</div>
+    </td>
+    <td>
+      <div>18 Dec 1965</div>
+    </td>
+    <td>
+      <div>Ss. 1, 5, 8, Parts II and III (ss. 9–34) and s. 106: 18 Dec 1965 
 S. 2: 27 Sept 1966 
-Remainder: 1 Sept 1967 ( <i>see Gazette</i>1967, p. 3975)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1970</div>
-  </td>
-  <td>
-    <div>90, 1970</div>
-  </td>
-  <td>
-    <div>2 Nov 1970</div>
-  </td>
-  <td>
-    <div>30 Nov 1970</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Act 1972</div>
-  </td>
-  <td>
-    <div>38, 1972</div>
-  </td>
-  <td>
-    <div>2 June 1972</div>
-  </td>
-  <td>
-    <div>2 June 1972</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Seat of Government (Administration) Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>40, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td>
-    <div>Ss. 205 and 206: 4 June 1982 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXI (ss. 262, 263): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Ss. 256 and 257: 20 Oct 1982 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Conciliation and Arbitration Amendment Act (No. 2) 1983</div>
-  </td>
-  <td>
-    <div>115, 1983</div>
-  </td>
-  <td>
-    <div>16 Dec 1983</div>
-  </td>
-  <td>
-    <div>S. 41: 1 June 1984 ( <i>see Gazette</i>1984, No. S201) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>S. 5(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>38, 1988</div>
-  </td>
-  <td>
-    <div>3 June 1988</div>
-  </td>
-  <td>
-    <div>S. 3: 1 July 1988 ( <i>see Gazette</i>1988, No. S180) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 73): 2 Dec 1988 <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Capital Territory (Planning and Land Management) Act 1988</div>
-  </td>
-  <td>
-    <div>108, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div><i>(j)</i></div>
-  </td>
-  <td>
-    <div>Part X (ss. 56–85)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>109, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 32: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No.S185)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Environment, Tourism and Territories Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>88, 1990</div>
-  </td>
-  <td>
-    <div>20 Nov 1990</div>
-  </td>
-  <td>
-    <div>Ss. 27 and 28(b), (c): <i>(l)</i> 
-S. 28(a): <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 45): Royal Assent <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Snowy Hydro Corporatisation (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>177, 1997</div>
-  </td>
-  <td>
-    <div>21 Nov 1997</div>
-  </td>
-  <td>
-    <div>28 June 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. S216)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 470): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: 1 Sept 1967 ( <i>see Gazette</i>1967, p. 3975) 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1970</div>
+    </td>
+    <td>
+      <div>90, 1970</div>
+    </td>
+    <td>
+      <div>2 Nov 1970</div>
+    </td>
+    <td>
+      <div>30 Nov 1970</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Act 1972</div>
+    </td>
+    <td>
+      <div>38, 1972</div>
+    </td>
+    <td>
+      <div>2 June 1972</div>
+    </td>
+    <td>
+      <div>2 June 1972</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Seat of Government (Administration) Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>40, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 1) 1982</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td>
+      <div>Ss. 205 and 206: 4 June 1982 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXI (ss. 262, 263): <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Ss. 256 and 257: 20 Oct 1982 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Conciliation and Arbitration Amendment Act (No. 2) 1983</div>
+    </td>
+    <td>
+      <div>115, 1983</div>
+    </td>
+    <td>
+      <div>16 Dec 1983</div>
+    </td>
+    <td>
+      <div>S. 41: 1 June 1984 ( <i>see Gazette</i>1984, No. S201) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    </td>
+    <td>
+      <div>168, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>S. 5(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>38, 1988</div>
+    </td>
+    <td>
+      <div>3 June 1988</div>
+    </td>
+    <td>
+      <div>S. 3: 1 July 1988 ( <i>see Gazette</i>1988, No. S180) <i>(h)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 73): 2 Dec 1988 <i>(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Capital Territory (Planning and Land Management) Act 1988</div>
+    </td>
+    <td>
+      <div>108, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div><i>(j)</i></div>
+    </td>
+    <td>
+      <div>Part X (ss. 56–85)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>109, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 32: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(k)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No.S185)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Environment, Tourism and Territories Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>88, 1990</div>
+    </td>
+    <td>
+      <div>20 Nov 1990</div>
+    </td>
+    <td>
+      <div>Ss. 27 and 28(b), (c): <i>(l)</i> 
+S. 28(a): <i>(l)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 45): Royal Assent <i>(m)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Snowy Hydro Corporatisation (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>177, 1997</div>
+    </td>
+    <td>
+      <div>21 Nov 1997</div>
+    </td>
+    <td>
+      <div>28 June 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. S216)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Seat of Government (Administration) Act 1928_ was repealed by section 4 of the _Seat of Government (Administration) Act 1930_. Section 12 of which provides as follows:
 
@@ -1093,7 +1091,7 @@ _(i)_      The _Statutory Instruments (Tabling and Disallowance) Legis
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(j)_      The _Seat of Government (Administration) Act 1910_ was amended by section 55 only of the _Australian Capital   Territory__(Planning and Land Management) Act 1988_, section 2 of which provides as follows:
+_(j)_      The _Seat of Government (Administration) Act 1910_ was amended by section 55 only of the _Australian Capital Territory__(Planning and Land Management) Act 1988_, section 2 of which provides as follows:
 
                  (1)   Sections 1, 2 and 55 commence on the day on which this Act receives the Royal Assent.
 
@@ -1120,6 +1118,7 @@ _(l)_      The _Seat of Government (Administration) Act 1910_ was amen
 _(m)_    The _Seat of Government (Administration) Act 1910_ was amended by Schedule 19 (item 45) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -1152,406 +1151,393 @@ _(m)_    The _Seat of Government (Administration) Act 1910_ was amended by
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Heading preceding s. 1</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part I</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 5</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>rs. No. 10, 1947; No. 38, 1972</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 115, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 87, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 1988; No. 60, 1996; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 111, 1965</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 1955</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 9</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 4, 1933</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 1939</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 70, 1955</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rep. No. 70, 1955</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rep. No. 9, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1931</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading preceding s. 12</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 8, 1924 (as am. by No. 44, 1928); No. 86, 1939; No.14, 1940; No. 90, 1959; No. 24, 1963; No. 90, 1970; No. 40,1978; Nos. 26 and 80, 1982; No. 65, 1985; No. 168, 1986; Nos. 99 and 109, 1988; No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12AA–12AE</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988 (as am. by No. 43, 1996)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 90, 1959</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 108, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12B</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12BA</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 177, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12C</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12D</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1930</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Heading preceding s. 1</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part I</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2A</div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 5</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 5</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>rs. No. 10, 1947; No. 38, 1972</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 115, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 87, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 109, 1988; No. 60, 1996; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rep. No. 111, 1965</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 70, 1955</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 9</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part IV</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 4, 1933</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A</div>
+    </td>
+    <td>
+      <div>ad. No. 86, 1939</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 70, 1955</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 21, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rep. No. 70, 1955</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 11</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rep. No. 9, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 9, 1931</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 90, 1970</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading preceding s. 12</div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part V</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 8, 1924 (as am. by No. 44, 1928); No. 86, 1939; No.14, 1940; No. 90, 1959; No. 24, 1963; No. 90, 1970; No. 40,1978; Nos. 26 and 80, 1982; No. 65, 1985; No. 168, 1986; Nos. 99 and 109, 1988; No. 88, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12AA-12AE</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988 (as am. by No. 43, 1996)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VI</div>
+    </td>
+    <td>
+      <div>ad. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12A</div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1930</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 90, 1959</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 108, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12B</div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1930</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12BA</div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 177, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12C, 12D</div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1930</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1587,6 +1573,7 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
+
 ## Table B
 
 ### Modifications
@@ -1608,5 +1595,6 @@ Insert the following subsection:
                      (b)  is made on or before Self-Government Day within the meaning of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_;
 
 may be expressed to take effect from the date of commencement of a provision of the _Australian Capital Territory__(Self-Government) Act 1988_.”
+
 
  
