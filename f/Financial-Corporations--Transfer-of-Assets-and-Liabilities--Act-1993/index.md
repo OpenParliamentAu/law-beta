@@ -1,7 +1,7 @@
 
 Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 Act No. 97 of 1993 as amended 
-This compilation was prepared on 6 January 2004 taking into account amendments up to Act No. 133 of 2003
+This compilation was prepared on 2 July 2003 taking into account amendments up to Act No. 42 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -9,7 +9,7 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
   
 Contents
-Part 1—Preliminary	1
+Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 Part 2—General provisions	2
@@ -223,33 +223,31 @@ Division 2—General relief
 15  Asset transfers—general
 Tax treatment of transferring corporation
 	(1)	In determining:
-	(a)	whether an amount is included in the assessable income of the transferring corporation under section 25, 25A, 26BB, 26C or 159GS of the Income Tax Assessment Act 1936 or section 6‑5, 15‑15 or 775‑15 of the Income Tax Assessment Act 1997; or
-	(b)	whether an amount is allowable as a deduction to the transferring corporation under section 51, 52, 70B or 159GS of the Income Tax Assessment Act 1936 or section 8‑1 or 775‑30 of the Income Tax Assessment Act 1997;
+	(a)	whether an amount is included in the assessable income of the transferring corporation under section 25, 25A, 26BB, 26C, 82Y or 159GS of the Income Tax Assessment Act 1936 or section 6‑5 or 15‑15 of the Income Tax Assessment Act 1997; or
+	(b)	whether an amount is allowable as a deduction to the transferring corporation under section 51, 52, 70B, 82Z or 159GS of the Income Tax Assessment Act 1936 or section 8‑1 of the Income Tax Assessment Act 1997;
 in respect of a transfer of an asset, the transferring corporation is to be treated as if the transfer had not occurred.
 Receiving corporation not entitled to a deduction for expenditure incurred in acquiring asset
 	(2)	A deduction is not allowable to the receiving corporation under section 51 of the Income Tax Assessment Act 1936 or section 8‑1 of the Income Tax Assessment Act 1997 in respect of expenditure incurred in the acquisition of an asset as the result of a transfer. However, this subsection does not apply to the acquisition of trading stock.
 Receiving corporation to inherit transferring corporation’s cost base
 	(3)	If an asset is transferred, then, in determining:
-	(a)	whether an amount is included in the assessable income of the receiving corporation under section 25, 25A, 26BB, 26C or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 6‑5, 15‑15 or 775‑15 of the Income Tax Assessment Act 1997; or
-	(b)	whether an amount is allowable as a deduction to the receiving corporation under section 51, 52, 70B or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 8‑1 or 775‑30 of the Income Tax Assessment Act 1997;
+	(a)	whether an amount is included in the assessable income of the receiving corporation under section 25, 25A, 26BB, 26C or 82Y or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 6‑5 or 15‑5 of the Income Tax Assessment Act 1997; or
+	(b)	whether an amount is allowable as a deduction to the receiving corporation under section 51, 52, 70B or 82Z or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 8‑1 of the Income Tax Assessment Act 1997;
 in respect of the holding, or any subsequent disposal, of the asset, the receiving corporation is to be treated as if it had acquired the asset for an amount equal to what would have been the asset’s cost base to the transferring corporation for the purposes of working out under the Income Tax Assessment Act 1997 whether the transferring corporation made a capital gain from the transfer.
-Note:	For transitional provisions about former sections 82Y and 82Z of the Income Tax Assessment Act 1936, see Part 2 of Schedule 4 to the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003.
 16  Liability transfers—general 
 Tax treatment of transferring corporation
 	(1)	In determining:
-	(a)	whether an amount is included in the assessable income of the transferring corporation under section 25 of the Income Tax Assessment Act 1936 or section 6‑5 or 775‑15 of the Income Tax Assessment Act 1997; or
-	(b)	whether an amount is allowable as a deduction to the transferring corporation under section 51 of the Income Tax Assessment Act 1936 or section 8‑1 or 775‑30 of the Income Tax Assessment Act 1997;
+	(a)	whether an amount is included in the assessable income of the transferring corporation under section 25 or 82Y of the Income Tax Assessment Act 1936 or section 6‑5 of the Income Tax Assessment Act 1997; or
+	(b)	whether an amount is allowable as a deduction to the transferring corporation under section 51 or 82Z of the Income Tax Assessment Act 1936 or section 8‑1 of the Income Tax Assessment Act 1997;
 in respect of a transfer of a liability, the transferring corporation is to be treated as if the transfer had not occurred.
 Receiving corporation not assessable in respect of assumption of liability
-	(2)	An amount is not to be included in the assessable income of the receiving corporation under section 25 of the Income Tax Assessment Act 1936 or section 6‑5 or 775‑15 of the Income Tax Assessment Act 1997 in respect of the assumption of the liability as a result of the transfer.
+	(2)	An amount is not to be included in the assessable income of the receiving corporation under section 25 or 82Y of the Income Tax Assessment Act 1936 or section 6‑5 of the Income Tax Assessment Act 1997 in respect of the assumption of the liability as a result of the transfer.
 Assumption of liability by receiving corporation
 	(3)	If a liability is transferred, then, in determining:
-	(a)	whether an amount is included in the assessable income of the receiving corporation under section 25 or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 6‑5 or 775‑15 of the Income Tax Assessment Act 1997; or
-	(b)	whether an amount is allowable as a deduction to the receiving corporation under section 51 or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 8‑1 or 775‑30 of the Income Tax Assessment Act 1997;
+	(a)	whether an amount is included in the assessable income of the receiving corporation under section 25 or 82Y or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 6‑5 of the Income Tax Assessment Act 1997; or
+	(b)	whether an amount is allowable as a deduction to the receiving corporation under section 51 or 82Z or Division 16E of Part III of the Income Tax Assessment Act 1936 or section 8‑1 of the Income Tax Assessment Act 1997;
 in respect of the subsistence, or any subsequent transfer, of the liability, the receiving corporation is to be treated as if:
 	(c)	it had been paid or given consideration for the original transfer; and
 	(d)	the amount of the consideration were equal to the amount (if any) of the consideration paid or given to the transferring corporation in respect of the assumption by the transferring corporation of the liability.
-Note:	For transitional provisions about former sections 82Y and 82Z of the Income Tax Assessment Act 1936, see Part 2 of Schedule 4 to the New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003.
 
 Division 3—Securities
 17  Securities—adjustment of cost base 
@@ -769,11 +767,6 @@ Australian Prudential Regulation Authority Amendment Act 2003
 24 June 2003
 Schedules 1–3: 1 July 2003 (see Gazette 2003, No. S230) Remainder: Royal Assent
 Sch. 3
-New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003
-133, 2003
-17 Dec 2003
-17 Dec 2003
-Sch. 4 (item 77(3))
 (a)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 5 (item 14) only of the Taxation Laws Amendment Act (No. 2) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 4 only of the Financial Laws Amendment Act 1997, subsections 2(1) and (2A) of which provide follows:
@@ -783,16 +776,16 @@ Sch. 4 (item 77(3))
 	(5)	Items 2 and 4 of Schedule 5 are taken to have commenced on 30 June 1997, immediately after the commencement of section 2 of the Financial Laws Amendment Act 1997.
 (d)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 2 (items 38 and 39), Schedule 5 (items 95–98) and Schedule 8 (item 52) only of the Tax Law Improvement Act 1997, subsections 2(1)–(3) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(2)	Schedule 1 commences on 1 July 1997 immediately after the commencement of the Income Tax Assessment Act 1997.
+	 (2)	Schedule 1 commences on 1 July 1997 immediately after the commencement of the Income Tax Assessment Act 1997.
 	(3)	Each of the other Schedules (except Schedule 12) commences immediately after the commencement of the immediately preceding Schedule.
 (e)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 9 only of the Taxation Laws Amendment Act (No. 1) 1998, subsection 2(1) of which provides as follows: 
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 (f)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 2 (items 540–544) and Schedule 3 (items 22, 23) only of the Tax Law Improvement Act (No. 1) 1998, subsections 2(1)–(3) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	Schedule 2 (except item 3 of it) commences immediately after the commencement of Schedule 1.
-	(3)	Schedule 3 commences immediately after the commencement of Schedule 2 (except item 4 of it).
+	 (3)	Schedule 3 commences immediately after the commencement of Schedule 2 (except item 4 of it).
 Schedule 1 commenced on 22 June 1998.
-(g)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 1 (items 48–63) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
+(g) 	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 1 (items 48–63) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the Australian Prudential Regulation Authority Act 1998.
 (h)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 18 (item 46) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act 1998, subsection 2(2)(p) of which provides as follows:
 	(2)	The following provisions of this Act commence on the commencement of the Australian Prudential Regulation Authority Act 1998:
@@ -801,7 +794,7 @@ Schedule 1 commenced on 22 June 1998.
 	(2)	Schedule 5 is taken to have commenced on 22 February 1999.
 (j)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 4 only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000, subsections 2(1), (3), (4), (5) (12) and (13) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(3)	Items 1 and 3 of Schedule 4 are taken to have commenced on 1 July 1998, immediately after the commencement of items 51 and 58 of Schedule 1 to the Financial Sector Reform (Consequential Amendments) Act 1998.
+	 (3)	Items 1 and 3 of Schedule 4 are taken to have commenced on 1 July 1998, immediately after the commencement of items 51 and 58 of Schedule 1 to the Financial Sector Reform (Consequential Amendments) Act 1998.
 	(4)	Items 2, 4, 5, 6, 8, 9, 10 and 11 of Schedule 4 are taken to have commenced on 22 December 1998.
 	(5)	Items 2 and 4 of Schedule 5 are taken to have commenced on 30 June 1997, immediately after the commencement of section 2 of the Financial Laws Amendment Act 1997.
 	(12)	Part 1 of Schedule 12 commences:
@@ -812,7 +805,7 @@ Schedule 1 commenced on 22 June 1998.
 	(b)	each of the Acts referred to in the definition of Validation Act in item 1 of Schedule 12 to this Act.
 (k)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 3 (items 187–189) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-(l)	Subsection 2(1) (item 9) of the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002 provides as follows:
+(l)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 14 (items 1 and 2) only of the New Business Tax System (Consolidation and Other Measures) Act (No. 1) 2002, subsection 2(1) (item 9) of which provides as follows:
 	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 Commencement information
@@ -839,8 +832,6 @@ Table of Amendments
 ad. = added or inserted     am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Part 2
-
 S. 3	
 am. No. 107, 1997 (as am. by No. 24, 2000); Nos. 46 and 48, 1998; No. 24, 2000; Nos. 55 and 121, 2001; No. 33, 2002
 S. 4	
@@ -853,28 +844,12 @@ S. 10
 am. No. 39, 1997
 S. 12	
 am. No. 54, 1998; No. 42, 2003
-Part 3
-
-Division 1
-
 S. 13	
 am. No. 39, 1997
-Division 2
-
 S. 15	
-am. Nos. 39 and 121, 1997; No. 46, 1998; No. 133, 2003
-Note to s. 15	
-ad. No. 133, 2003
-S. 16	
-am. No. 39, 1997; No. 133, 2003
-Note to s. 16	
-ad. No. 133, 2003
-Division 3
-
-S. 17	
+am. Nos. 39 and 121, 1997; No. 46, 1998
+Ss. 16, 17	
 am. No. 39, 1997
-Division 4
-
 S. 18	
 rs. No. 46, 1998
 
@@ -885,31 +860,19 @@ Heading to s. 20
 rs. No. 46, 1998
 S. 20	
 am. No. 46, 1998; No. 24, 2000; No. 33, 2002; No. 16, 2003
-Division 5
-
 S. 21	
 am. Nos. 39 and 121, 1997
-Division 6
-
 S. 22	
 am. No. 121, 1997; No. 16, 1998
-Division 7
-
 S. 23	
 am. No. 95, 1997
-Division 8
-
-Subdivision A
-
 Heading to Subdiv. A of 	 Div. 8
 ad. No. 39, 1997
 S. 24	
 am. No. 39, 1997; No. 24, 2000; No. 33, 2002
 S. 26	
 am. No. 39, 1997
-Subdivision B
-
-Subdiv. B of Div. 8 	
+Subdiv. B of Div. 8 	 (ss. 26A–26C)
 ad. No. 39, 1997
 Ss. 26A, 26B	
 ad. No. 39, 1997
@@ -917,14 +880,10 @@ S. 26C
 ad. No. 39, 1997
 
 am. No. 16, 2003
-Schedule 1
-
 Schedule 1	
 ad. No. 39, 1997
 
 am. No. 169, 1999; No. 24, 2000; No. 33, 2002; No. 16, 2003
-Subdivision 170–A
-
 S. 170‑1 	
 ad. No. 39, 1997
 S. 170‑5 	
@@ -965,14 +924,10 @@ S. 170‑70
 ad. No. 39, 1997
 S. 170‑75	
 ad. No. 16, 2003
-Schedule 2
-
 Schedule 2	
 ad. No. 46, 1998
 
 am. No. 169, 1999; No. 24, 2000; No. 33, 2002; No. 16, 2003
-Part 1
-
 Heading to Part 1	
 ad. No. 16, 2003
 S. 170‑110 	
@@ -1003,8 +958,6 @@ S. 170‑145
 ad. No. 46, 1998
 
 am. No. 169, 1999
-Part 2
-
 Part 2	
 ad. No. 16, 2003
 S. 170‑175	
@@ -1050,6 +1003,7 @@ The amendment made by item 23 applies to assessments for the 1997‑98 year of 
 
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)
 Schedule 12
+Part 1—Transitional provisions for validation of determinations relating to financial sector supervisory levies
 1  Definitions
 In this Part:
 Collection Act means the Financial Institutions Supervisory Levies Collection Act 1998.
@@ -1113,9 +1067,4 @@ An approval in force, immediately before the commencement of the amendments, und
 8  Delegations by ASIC to APRA staff members
 (1)	Subsection 102(2A) of the Australian Securities and Investments Commission Act 2001 has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 (2)	For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
-
-New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003 (No. 133, 2003)
-Schedule 4
-77  Transitional—Division 3B of Part III of the Income Tax Assessment Act 1936
-(3)	Despite the amendments made by this Schedule that omit references to sections 82Y and 82Z of the Income Tax Assessment Act 1936 from sections 15 and 16 of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993, sections 15 and 16 of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 continue to apply, in relation to the former sections 82Y and 82Z of the Income Tax Assessment Act 1936, as if those amendments had not been made.
 
