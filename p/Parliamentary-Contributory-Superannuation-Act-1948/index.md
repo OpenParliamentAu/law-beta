@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image001.gif)
 
 # Parliamentary Contributory Superannuation Act 1948
 
 **Act No. 89 of 1948 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 26 June 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1012,7 +1012,7 @@ Definitions—superannuation guarantee charge
 
                      (a)  if:
 
-                              (i)  in the case of a person who was a senator—he or she was not, at the time of an election to fill places in the Senate that became vacant at the time when his or her place became vacant, a candidate for election to the Senate or, if elections of members of the House of Representatives were held, or an election of a member of the House of Representatives was held, at the same time as such a Senate election, a candidate either for election as a senator or as a member of the House of Representatives; or
+                              (i)  in the case of a person who was a senator—he or she was not, at the time of an election to fill places in the Senate that became vacant at the time when his place became vacant, a candidate for election to the Senate or, if elections of members of the House of Representatives were held, or an election of a member of the House of Representatives was held, at the same time as such a Senate election, a candidate either for election as a senator or as a member of the House of Representatives; or
 
                              (ii)  in the case of a person who was a member of the House of Representatives—he or she was not, at the time of the next ensuing elections for that House, a candidate for election to that House or, if elections of senators were held, or an election of a senator was held, at the same time as those elections for that House, a candidate either for election as a senator or as a member of the House of Representatives;
 
@@ -1265,7 +1265,7 @@ the percentage of the rate of parliamentary allowance applicable in relation to 
 
 then, instead of the retiring allowance referred to in paragraph (b), and for so long as the person does not make an election under subsection 18A(1) after the most recent benefit start-up time, the person is entitled to a retiring allowance during his or her life-time at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image002.gif)
 
 where:
 
@@ -1295,7 +1295,7 @@ where:
 
 there is taken to have arisen at the most recent benefit start-up time a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image003.gif)
 
 where:
 
@@ -1319,7 +1319,7 @@ there is taken to have arisen at the commencement time a notional adjustment deb
 
 then, on and after the election day, instead of the retiring allowance referred to in paragraph (b), the person is entitled to a retiring allowance during his or her lifetime at a rate equal to such percentage of the rate of parliamentary allowance for the time being payable to a member as is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image004.gif)
 
 where:
 
@@ -1451,7 +1451,7 @@ Notional adjustment debit
 
              (6)  If a person makes an election under subsection (1) on a particular day, there is taken to have arisen at the start of that day a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image005.gif)
 
 where:
 
@@ -1479,7 +1479,7 @@ Note:          For the purposes of this section, a person who 
 
                      (a)  in any of the cases mentioned in subsection (5)—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by 10; or
 
-                     (b)  in any other case—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image006.gif),
+                     (b)  in any other case—the specified percentage of the annual amount of the retiring allowance payable to him or her multiplied by the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image006.gif),
 
                             where **_x_** is the number of whole months in the period that commenced on the day on which he or she attained the age of 65 years and ended on the day immediately before he or she became entitled to the retiring allowance.
 
@@ -1507,7 +1507,7 @@ Note:          For the purposes of this section, a person who 
 
                      (a)  the percentage of the rate of parliamentary allowance applicable in relation to him or her under section 18 for the purpose of calculating the rate of retiring allowance payable to him or her under that section (other than any additional retiring allowance payable under subsection (9) of that section) shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be applicable in relation to him or her under that section, be ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image007.gif)
 
                             where:
 
@@ -1515,7 +1515,7 @@ Note:          For the purposes of this section, a person who 
 
                             **_s_** is the specified percentage;
 
-                     (b)  if the person is entitled to additional retiring allowance under subsection 18(9), the percentage that is, under that subsection, the relevant percentage for the purpose of ascertaining the additional retiring allowance payable to him or her under that subsection in respect of his or her service in an office shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be the relevant percentage, under that subsection, in respect of his or her service in that office, be ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image008.gif),
+                     (b)  if the person is entitled to additional retiring allowance under subsection 18(9), the percentage that is, under that subsection, the relevant percentage for the purpose of ascertaining the additional retiring allowance payable to him or her under that subsection in respect of his or her service in an office shall, in lieu of the percentage (in this paragraph referred to as the **_previous percentage_**) that would, but for this paragraph, be the relevant percentage, under that subsection, in respect of his or her service in that office, be ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image008.gif),
 
                             where:
 
@@ -1555,7 +1555,7 @@ would, within 12 months after having become entitled to that retiring allowance,
 
 there is taken to have arisen at the start of the election day a notional adjustment debit of the person equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image009.gif)
 
 where:
 
@@ -2023,11 +2023,11 @@ may, within 3 months after 12 June 1978, by notice in writing signed by the pe
 
                      (a)  if paragraph (b) does not apply to the person—the amount is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image010.gif)
 
                      (b)  if the person’s surcharge debt account was in debit when the eligible lump sum amount became payable to the person—the amount is worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image011.gif)
 
 where:
 
@@ -2055,7 +2055,7 @@ before the person became entitled to the eligible lump sum amount.
 
                      (a)  the amount shall be repaid at such times and in such amounts as are agreed upon between the person and the Minister for Finance or, in the absence of agreement, at such times and in such amounts as the Minister for Finance determines, but so that the total of the amounts is repaid to the Commonwealth within 3 years after the date on which the person made the election; and
 
-                     (b)  subsection (1) does not prevent any part of the period of service of the person, and any occasion on which he or she ceased to be a member, before he or she became entitled to that amount from being taken into account for the purposes of determining his or her rights in respect of any further benefit under this Act.
+                     (b)  subsection (1) does not prevent any part of the period of service of the person, and any occasion on which he or she ceased to be a member, before he or she became entitled to that amount from being taken into account for the purposes of determining his rights in respect of any further benefit under this Act.
 
           (2D)  Where a person who has contracted with the Trust under subsection (1), or has made an election under subsection (2A) or (2B), to repay an amount to the Commonwealth elects under subsection 18B(3) to convert a percentage of the retiring allowance to which he or she is entitled into a lump sum payment, there shall be deducted from that lump sum payment so much (if any) of the amount as remains to be paid under the contract or in pursuance of the election and, upon the deduction being made, the person is, to the extent of the amount deducted, discharged from further liability to make repayments under the contract or in pursuance of the election.
 
@@ -2115,7 +2115,7 @@ the annual amount of the last-mentioned retiring allowance shall be reduced by:
 
                      (a)  he or she is entitled to a pension (including a pension that is not immediately payable) arising out of his or her former membership of that Parliament; or
 
-                     (b)  he or she received a payment by way of a lump sum by reason of the cessation of his or her membership of that Parliament upon the expiration of that period and, within 3 months, or, if the Trust so allowed, 6 months, after the day on which he or she became a member (or, if he or she has become a member on more than one occasion, the day on which he or she last became a member) or 8 June 1973, whichever was the later, he or she contracted with the Trust, in the manner required by the Trust, to pay that lump sum to the Commonwealth within 3 years.
+                     (b)  he or she received a payment by way of a lump sum by reason of the cessation of his membership of that Parliament upon the expiration of that period and, within 3 months, or, if the Trust so allowed, 6 months, after the day on which he or she became a member (or, if he or she has become a member on more than one occasion, the day on which he or she last became a member) or 8 June 1973, whichever was the later, he or she contracted with the Trust, in the manner required by the Trust, to pay that lump sum to the Commonwealth within 3 years.
 
           (1A)  References in subsection (1) to the Parliament of a State shall be construed as including references to the Legislative Assembly for the Australian Capital Territory and the Legislative Assembly of the Northern Territory.
 
@@ -2293,7 +2293,7 @@ but does not include a member of the Parliament of the State.
 
                      (b)  in relation to a Territory—a person holding, in relation to the Territory, an office corresponding to the office of Minister of the Crown for a State.
 
-                    <a name="parliam"></a>**_Parliament_**, in relation to the Australian Capital   Territory means the Legislative Assembly for the Australian Capital Territory, and in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
+                    <a name="parliam"></a>**_Parliament_**, in relation to the Australian   Capital Territory means the Legislative Assembly for the Australian Capital   Territory, and in relation to the Northern Territory, means the Legislative Assembly of the Northern Territory.
 
                     <a name="relev-benefit"></a>**_relevant benefit_** means:
 
@@ -2341,7 +2341,7 @@ the fortnightly rate at which the relevant benefit would otherwise be payable to
 
           (3A)  For the purposes of working out the reduction of a relevant benefit under subsection (2), the fortnightly rate of parliamentary allowance payable to a member is the amount worked out using the formula:
 
-                    ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image012.gif)
+                    ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image012.gif)
 
           (3B)  For the purpose of the reference in the formula in subsection (3A) to the annual rate of parliamentary allowance, any reductions of a particular member’s entitlement to parliamentary allowance under Division 2 of Part 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_(salary sacrifice) are to be disregarded.
 
@@ -2509,7 +2509,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image013.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image013.gif)
 
                     <a name="transfer-factor"></a>**_transfer factor_** means the number calculated by dividing the number of whole dollars in the transfer amount by the number of whole dollars in the scheme value.
 
@@ -2553,7 +2553,7 @@ Period of service less than 8 years—retiring allowance (not under subsection 1
 
                      (b)  the **_basic service factor at the operative time_** is the number calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image014.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image014.gif)
 
 Period of service less than 8 years—retiring allowance under paragraph 18(2AA)(b) or (c) or annuity under paragraph 19(1)(a)
 
@@ -2635,7 +2635,7 @@ Where paragraph 18(10B)(b) applies (highest-paid office)
 
              (6)  The weighted factor is calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image015.gif)
 
 where:
 
@@ -2735,7 +2735,7 @@ then the non-member spouse may elect to commute the annuity.
 
              (2)  The contributions in respect of the original interest are reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image016.gif)
 
 where:
 
@@ -2745,7 +2745,7 @@ Note:          Under subsections 20A(2) and 22Q(3), certain am
 
              (3)  Any section 16A amount in respect of the original interest is reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image017.gif)
 
 where:
 
@@ -2753,7 +2753,7 @@ where:
 
              (4)  Any section 22Q amount in respect of the original interest is reduced, with effect from the operative time, by the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image018.gif)
 
 where:
 
@@ -2773,7 +2773,7 @@ Reduction of basic percentage
 
              (2)  In calculating the annual rate of the affected benefit, the applicable basic percentage is replaced by the percentage calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image019.gif)
 
 where:
 
@@ -2785,7 +2785,7 @@ Reduction of additional percentage
 
              (3)  In calculating the annual rate of the affected benefit, each applicable additional percentage is replaced by the percentage calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image020.gif)
 
 where:
 
@@ -2809,11 +2809,11 @@ Note:          If the same superannuation interest is subject 
 
                      (a)  calculate a factor (the **_interim factor_**) for the first split using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image021.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image021.gif)
 
                      (b)  calculate a factor (the **_interim factor_**) for the next split (the **_current split_**), using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image022.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image022.gif)
 
                      (c)  calculate a factor for each remaining split (if any), using the formula in paragraph (b);
 
@@ -2821,17 +2821,17 @@ Note:          If the same superannuation interest is subject 
 
 Example:    Assume 2 splits, with the first split having a basic service factor (BSF) of 0.4 and a transfer factor of 0.5 and the second split having a basic service factor of 0.6 and a transfer factor of 0.5\. Applying the above steps, the replacement number for the formula is 0.4, that is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image023.gif)
 
              (7)  In applying the formula in subsection (3), the component (ASF at OT ´ Transfer factor) is to be replaced by the number calculated using the following steps, based on the chronological order of the operative times (starting with the earliest):
 
                      (a)  calculate a factor (the **_interim factor_**) for the first split using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image024.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image024.gif)
 
                      (b)  calculate a factor (the **_interim factor_**) for the next split (the **_current split_**), using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image025.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image025.gif)
 
                      (c)  calculate a factor for each remaining split (if any), using the formula in paragraph (b);
 
@@ -2855,7 +2855,7 @@ Note:          For example, the reduction will be disregarded 
 
 Note:          Although an associate immediate annuity becomes payable at the operative time, an associate deferred annuity will often not become payable until some time after the operative time.
 
-##### <a id="22CJ"></a>22CJ  Operative time during payment phase—reduction of standard allowance or annuity
+##### <a id="22CJ"></a>22CJ  Operative time during payment phase—reduction of standard allowance or annuity
 
              (1)  If, at the operative time, standard allowance or annuity is payable in respect of the original interest, then the annual rate of that allowance or annuity is reduced to the amount calculated under the Orders.
 
@@ -3571,7 +3571,7 @@ clause 4  applies as if the reference in subclause 4(2) to the preserved basic
 
              (3)  The percentage is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image026.gif)
 
 where:
 
@@ -3587,7 +3587,7 @@ where:
 
              (2)  If the person’s surcharge debt account is in debit at the end of a new scheme contribution period of the person, there is taken to have arisen, at the end of that period, a notional adjustment debit of the person equal to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image027.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image027.gif)
 
 where:
 
@@ -3603,7 +3603,7 @@ where:
 
              (3)  The percentage is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00403/Html/ParliContriSuper1948_WD02_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00205/Html/ParliContriSuper1948_WD02_image026.gif)
 
 where:
 
@@ -4607,23 +4607,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 409–411): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Sections 10(2), 11(2) and 12 of the _Parliamentary Contributory Superannuation Amendment Act 1981_ were repealed by sections 39–41 of the _Superannuation Laws Amendment Act 1994_ before a date was fixed for their commencement.
@@ -5122,7 +5105,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 20, 1959; No. 72, 1964; No. 147, 1965; No. 71, 1966; No. 47, 1973; No. 37, 1981; No. 96, 1994; No. 54, 1995; No. 43, 1996; No. 73, 2008</div>
+    <div>am. No. 20, 1959; No. 72, 1964; No. 147, 1965; No. 71, 1966; No. 47, 1973; No. 37, 1981; No. 96, 1994; No. 54, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -5322,7 +5305,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 3, 1952; No. 30, 1955; No. 20, 1959; No. 47, 1973; No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 23 and 54, 1995; No. 187, 1997; Nos. 87 and 98, 2001; No. 73, 2008</div>
+    <div>am. No. 3, 1952; No. 30, 1955; No. 20, 1959; No. 47, 1973; No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 185, 1992; No. 96, 1994; Nos. 23 and 54, 1995; No. 187, 1997; Nos. 87 and 98, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5338,7 +5321,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 96, 1994; No. 54, 1995; No. 73, 2008</div>
+    <div>am. No. 41, 1978; No. 131, 1979; No. 37, 1981; No. 74, 1983; No. 96, 1994; No. 54, 1995</div>
   </td>
 </tr>
 <tr>
@@ -5615,7 +5598,7 @@ _(j)_      The _Parliamentary Contributory Superannuation Act 1948_ wa
 </tr>
 <tr>
   <td>
-    <div><b>Part</b> <b>VA</b></div>
+    <div><b>Part VA</b></div>
   </td>
   <td>
     <div></div>
