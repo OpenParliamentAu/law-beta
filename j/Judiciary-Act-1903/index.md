@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00124/Html/2083d694-295d-4762-8765-e3f81c34f60c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00549/Html/6ab9c16c-807a-49cc-9424-d6f542b537b9_files/image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 7 March 2011
- taking into account amendments up to Act No. 3 of 2011
+This compilation was prepared on 4 December 2009
+ taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,395 +15,397 @@ The operation of amendments that have been incorporated
  the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation                                                                                        1
 
-[3A](#3A).         Extension to Territories
+[3A](#3A).         Extension to Territories                                                                        2
 
 **Part III—Jurisdiction and powers of the High Court generally** 
 
     **Division 1—Exercise of jurisdiction**
 
-[15](#15).          Exercise of jurisdiction
+[15](#15).          Exercise of jurisdiction                                                                         3
 
     **Division 2—Jurisdiction of single Justice**
 
-[16](#16).          Jurisdiction in Chambers
+[16](#16).          Jurisdiction in Chambers                                                                      4
 
-[17](#17).          State Supreme Courts invested with jurisdiction in Chambers
+[17](#17).          State Supreme Courts invested with jurisdiction in Chambers             4
 
-[18](#18).          Reference to Full Court
+[18](#18).          Reference to Full Court                                                                        4
 
     **Division 3—Full Court**
 
-[19](#19).          Quorum of a Full Court
+[19](#19).          Quorum of a Full Court                                                                       5
 
-[20](#20).          Appeals from Judges of federal jurisdiction
+[20](#20).          Appeals from Judges of federal jurisdiction                                         5
 
-[21](#21).          Applications for special leave to appeal to High Court
+[21](#21).          Applications for special leave to appeal to High Court                         5
 
-[22](#22).          Quorum for granting leave to appeal to the Queen in Council or to High Court
+[22](#22).          Quorum for granting leave to appeal to the Queen in Council or to High Court       6
 
-[23](#23).          Decision in case of difference of opinion
+[23](#23).          Decision in case of difference of opinion                                             6
 
     **Division 4—Enforcement of process**
 
-[24](#24).          Contempt
+[24](#24).          Contempt                                                                                              7
 
-[25](#25).          Powers of court to extend to whole Commonwealth
+[25](#25).          Powers of court to extend to whole Commonwealth                            7
 
     **Division 4A—Summary judgment**
 
-[25A](#25A).       Summary judgment
+[25A](#25A).       Summary judgment                                                                              8
 
     **Division 5—Costs**
 
-[26](#26).          Costs
+[26](#26).          Costs                                                                                                    9
 
-[27](#27).          No appeal as to costs
+[27](#27).          No appeal as to costs                                                                            9
 
     **Division 6—Defendants**
 
-[28](#28).          Non‑appearance of some defendants
+[28](#28).          Non-appearance of some defendants                                                  10
 
-[29](#29).          Absent defendants
+[29](#29).          Absent defendants                                                                              10
 
 **Part IV—Original jurisdiction of the High Court**
 
-[30](#30).          Original jurisdiction conferred
+[30](#30).          Original jurisdiction conferred                                                           11
 
-[31](#31).          Judgment and execution
+[31](#31).          Judgment and execution                                                                     11
 
-[32](#32).          Complete relief to be granted
+[32](#32).          Complete relief to be granted                                                              11
 
-[33](#33).          Mandamus Prohibition Ouster of office
+[33](#33).          Mandamus Prohibition Ouster of office                                             12
 
-[33A](#33A).       Awards may be made Rules of Court
+[33A](#33A).       Awards may be made Rules of Court                                                12
 
 **Part V—Appellate jurisdiction of the High Court** 
 
     **Division 1—Appeals**
 
-[34](#34).          Appeals from Justices of High Court
+[34](#34).          Appeals from Justices of High Court                                                 13
 
-[35](#35).          Appeal from courts of States
+[35](#35).          Appeal from courts of States                                                              13
 
-[35AA](#35AA).    Appeals from Supreme Court of a Territory
+[35AA](#35AA).    Appeals from Supreme Court of a Territory                                      14
 
-[35A](#35A).       Criteria for granting special leave to appeal
+[35A](#35A).       Criteria for granting special leave to appeal                                        14
 
     **Division 2—Power of Court**
 
-[36](#36).          New Trials
+[36](#36).          New Trials                                                                                         15
 
-[37](#37).          Form of judgment on appeal
+[37](#37).          Form of judgment on appeal                                                              15
 
 **Part VI—Exclusive and invested jurisdiction**
 
-[38](#38).          Matters in which jurisdiction of High Court exclusive
+[38](#38).          Matters in which jurisdiction of High Court exclusive                       16
 
-[39](#39).          Federal jurisdiction of State Courts in other matters
+[39](#39).          Federal jurisdiction of State Courts in other matters                           16
 
-[39A](#39A).       Federal jurisdiction invested in State Courts by other provisions
+[39A](#39A).       Federal jurisdiction invested in State Courts by other provisions       17
 
-[39B](#39B).       Original jurisdiction of Federal Court of Australia
+[39B](#39B).       Original jurisdiction of Federal Court of Australia                             17
 
 **Part VII—Removal of causes**
 
-[40](#40).          Removal by order of the High Court
+[40](#40).          Removal by order of the High Court                                                  22
 
-[41](#41).          Proceedings after removal
+[41](#41).          Proceedings after removal                                                                  23
 
-[42](#42).          Remittal of causes
+[42](#42).          Remittal of causes                                                                              23
 
-[43](#43).          Effect of interlocutory orders etc  before removal of cause
+[43](#43).          Effect of interlocutory orders etc  before removal of cause                23
 
-[44](#44).          Remittal of matters by High Court to other courts
+[44](#44).          Remittal of matters by High Court to other courts                              24
 
-[45](#45).          Defence in causes removed to High Court
+[45](#45).          Defence in causes removed to High Court                                         25
 
 **Part VIII—Enforcement of certain orders concerning court proceedings**
 
-[46](#46).          Interpretation
+[46](#46).          Interpretation                                                                                      26
 
-[47](#47).          Application
+[47](#47).          Application                                                                                         26
 
-[48](#48).          Crown to be bound
+[48](#48).          Crown to be bound                                                                            26
 
-[49](#49).          Contravention of order to constitute contempt
+[49](#49).          Contravention of order to constitute contempt                                    26
 
-[50](#50).          Reports
+[50](#50).          Reports                                                                                               27
 
-[51](#51).          Application of this Part
+[51](#51).          Application of this Part                                                                      28
 
 **Part VIIIA—Legal practitioners**
 
-[55A](#55A).       Right of barristers and solicitors admitted in federal courts to practise in those courts
+[55A](#55A).       Right of barristers and solicitors admitted in federal courts to practise in those courts             29
 
-[55B](#55B).       Right to practise as barrister or solicitor in federal courts and courts exercising federal jurisdiction
+[55B](#55B).       Right to practise as barrister or solicitor in federal courts and courts exercising federal jurisdiction        29
 
-[55C](#55C).       Register of Practitioners
+[55C](#55C).       Register of Practitioners                                                                     31
 
-[55E](#55E).        Attorney‑General’s lawyers
+[55D](#55D).       Right to practise as barrister or solicitor in Territories                        32
 
-[55F](#55F).        Attorney‑General’s lawyer may act for more than one party
+[55E](#55E).        Attorney-General’s lawyers                                                               34
 
-[55G](#55G).       Commonwealth may charge for services of Attorney‑General’s lawyer
+[55F](#55F).        Attorney-General’s lawyer may act for more than one party              35
 
-[55H](#55H).       Lawyers employed by a State, the Australian Capital Territory or the Northern Territory
+[55G](#55G).       Commonwealth may charge for services of Attorney-General’s lawyer  35
+
+[55H](#55H).       Lawyers employed by a State, the Australian Capital Territory or the Northern Territory        35
 
 **Part VIIIB—The Australian Government Solicitor** 
 
     **Division 1—Definitions**
 
-[55I](#55I).         Definitions
+[55I](#55I).         Definitions                                                                                         37
 
     **Division 2—Establishment and functions of the Australian Government Solicitor**
 
-[55J](#55J).        Establishment of the Australian Government Solicitor
+[55J](#55J).        Establishment of the Australian Government Solicitor                       38
 
-[55K](#55K).       Functions
+[55K](#55K).       Functions                                                                                           38
 
-[55L](#55L).        Powers
+[55L](#55L).        Powers                                                                                               38
 
-[55M](#55M).      Constitution
+[55M](#55M).      Constitution                                                                                        39
 
-[55N](#55N).       Persons and bodies for whom the AGS may provide services
+[55N](#55N).       Persons and bodies for whom the AGS may provide services          39
 
-[55P](#55P).        AGS may charge for services
+[55P](#55P).        AGS may charge for services                                                            40
 
     **Division 3—Capacity of AGS and AGS lawyers to act**
 
-[55Q](#55Q).       AGS lawyers
+[55Q](#55Q).       AGS lawyers                                                                                     42
 
-[55R](#55R).       AGS may act for more than one party
+[55R](#55R).       AGS may act for more than one party                                                42
 
     **Division 4—Appointment and terms and conditions of CEO and staff**
 
-[55S](#55S).        Chief Executive Officer of the AGS
+[55S](#55S).        Chief Executive Officer of the AGS                                                  43
 
-[55T](#55T).        Appointment of CEO
+[55T](#55T).        Appointment of CEO                                                                         43
 
-[55U](#55U).       Terms and conditions of appointment
+[55U](#55U).       Terms and conditions of appointment                                                43
 
-[55V](#55V).       Resignation
+[55V](#55V).       Resignation                                                                                        43
 
-[55W](#55W).      Termination of CEO’s appointment
+[55W](#55W).      Termination of CEO’s appointment                                                   44
 
-[55X](#55X).       CEO must disclose interests
+[55X](#55X).       CEO must disclose interests                                                               44
 
-[55Y](#55Y).       Outside employment
+[55Y](#55Y).       Outside employment                                                                          44
 
-[55Z](#55Z).        Acting CEO
+[55Z](#55Z).        Acting CEO                                                                                       44
 
-[55ZA](#55ZA).     Delegation
+[55ZA](#55ZA).     Delegation                                                                                          45
 
-[55ZB](#55ZB).     Staff and consultants
+[55ZB](#55ZB).     Staff and consultants                                                                          45
 
     **Division 5—Money**
 
-[55ZC](#55ZC).     Exemption from State and Territory taxation
+[55ZC](#55ZC).     Exemption from State and Territory taxation                                      46
 
-[55ZD](#55ZD).     AGS must make tax‑equivalent payments to the Commonwealth
+[55ZD](#55ZD).     AGS must make tax-equivalent payments to the Commonwealth      46
 
-[55ZE](#55ZE).     Corporate governance requirements
+[55ZE](#55ZE).     Corporate governance requirements                                                   46
 
-**Part VIIIC—Attorney‑General’s Legal Services Directions**
+**Part VIIIC—Attorney-General’s Legal Services Directions**
 
-[55ZF](#55ZF).     Attorney‑General may issue directions
+[55ZF](#55ZF).     Attorney-General may issue directions                                              48
 
-[55ZG](#55ZG).     Compliance with Legal Services Directions
+[55ZG](#55ZG).     Compliance with Legal Services Directions                                       49
 
-[55ZH](#55ZH).     Legal Services Directions and legal professional privilege
+[55ZH](#55ZH).     Legal Services Directions and legal professional privilege                 49
 
-[55ZI](#55ZI).      Anything done under Legal Services Directions not actionable
+[55ZI](#55ZI).      Anything done under Legal Services Directions not actionable         50
 
 **Part IX—Suits by and against the Commonwealth and the States**
 
-[56](#56).          Suits against the Commonwealth
+[56](#56).          Suits against the Commonwealth                                                       51
 
-[57](#57).          Suits by a State against the Commonwealth
+[57](#57).          Suits by a State against the Commonwealth                                       51
 
-[58](#58).          Suits against a State in matters of federal jurisdiction
+[58](#58).          Suits against a State in matters of federal jurisdiction                         51
 
-[59](#59).          Suits between States
+[59](#59).          Suits between States                                                                           52
 
-[60](#60).          Injunction against a State and its officers
+[60](#60).          Injunction against a State and its officers                                           52
 
-[61](#61).          Suits by Commonwealth
+[61](#61).          Suits by Commonwealth                                                                    52
 
-[62](#62).          Suits by a State
+[62](#62).          Suits by a State                                                                                   52
 
-[63](#63).          Service of process when Commonwealth or State is party
+[63](#63).          Service of process when Commonwealth or State is party                 52
 
-[64](#64).          Rights of parties
+[64](#64).          Rights of parties                                                                                 52
 
-[65](#65).          No execution against Commonwealth or a State
+[65](#65).          No execution against Commonwealth or a State                                53
 
-[66](#66).          Performance by Commonwealth or State
+[66](#66).          Performance by Commonwealth or State                                           53
 
-[67](#67).          Execution by Commonwealth or State
+[67](#67).          Execution by Commonwealth or State                                               53
 
 **Part IXA—Suits relating to the Northern Territory**
 
-[67A](#67A).       Interpretation
+[67A](#67A).       Interpretation                                                                                      54
 
-[67B](#67B).       Suits between Commonwealth and Northern Territory
+[67B](#67B).       Suits between Commonwealth and Northern Territory                      54
 
-[67C](#67C).       Jurisdiction of Supreme Court of Territory
+[67C](#67C).       Jurisdiction of Supreme Court of Territory                                        54
 
-[67D](#67D).       Prosecution of indictable offences in Supreme Court of Territory
+[67D](#67D).       Prosecution of indictable offences in Supreme Court of Territory     55
 
-[67E](#67E).        No execution against Territory
+[67E](#67E).        No execution against Territory                                                           55
 
-[67F](#67F).        Effect of this Part
+[67F](#67F).        Effect of this Part                                                                               55
 
 **Part X—Criminal jurisdiction** 
 
     **Division 1—Application of laws**
 
-[68](#68).          Jurisdiction of State and Territory courts in criminal cases
+[68](#68).          Jurisdiction of State and Territory courts in criminal cases                56
 
-[68A](#68A).       Committals jurisdiction if both Federal Court of Australia and State or Territory court have jurisdiction in relation to indictable offence
+[68A](#68A).       Committals jurisdiction if both Federal Court of Australia and State or Territory court have jurisdiction in relation to indictable offence                                                                               59
 
-[68B](#68B).       Application of State and Territory laws if Federal Court of Australia and State or Territory court both have jurisdiction in relation to an offence
+[68B](#68B).       Application of State and Territory laws if Federal Court of Australia and State or Territory court both have jurisdiction in relation to an offence                                                                          61
 
-[68C](#68C).       Adjustments to State and Territory laws applying to proceedings before Federal Court of Australia
+[68C](#68C).       Adjustments to State and Territory laws applying to proceedings before Federal Court of Australia       61
 
     **Division 2—Indictable offences**
 
-[69](#69).          Indictments
+[69](#69).          Indictments                                                                                         65
 
-[70](#70).          Offences committed in several States
+[70](#70).          Offences committed in several States                                                 65
 
-[70A](#70A).       Indictable offence not committed in a State
+[70A](#70A).       Indictable offence not committed in a State                                        66
 
-[71](#71).          Discharge of persons committed for trial
+[71](#71).          Discharge of persons committed for trial                                           66
 
-[71A](#71A).       Trial of indictable offence without preliminary examination
+[71A](#71A).       Trial of indictable offence without preliminary examination               66
 
     **Division 3—Appeals**
 
-[72](#72).          Reservation of points of law
+[72](#72).          Reservation of points of law                                                              68
 
-[73](#73).          Hearing
+[73](#73).          Hearing                                                                                              69
 
-[74](#74).          Effect of order of Full Court
+[74](#74).          Effect of order of Full Court                                                              69
 
-[75](#75).          Certain errors not to avoid conviction
+[75](#75).          Certain errors not to avoid conviction                                                70
 
-[76](#76).          Appeal from arrest of judgment
+[76](#76).          Appeal from arrest of judgment                                                         70
 
-[77](#77).          No other appeal
+[77](#77).          No other appeal                                                                                  71
 
 **Part XA—Procedure of the High Court** 
 
     **Division 1—Trials**
 
-[77A](#77A).       Trial without jury
+[77A](#77A).       Trial without jury                                                                               72
 
-[77B](#77B).       Power of High Court to direct trial with jury
+[77B](#77B).       Power of High Court to direct trial with jury                                     72
 
-[77C](#77C).       Trial of an issue and new trials
+[77C](#77C).       Trial of an issue and new trials                                                           72
 
-[77D](#77D).       Juries
+[77D](#77D).       Juries                                                                                                  72
 
     **Division 2—Evidence**
 
-[77E](#77E).        Production of books
+[77E](#77E).        Production of books                                                                           74
 
-[77F](#77F).        Oaths and affirmations
+[77F](#77F).        Oaths and affirmations                                                                       74
 
-[77G](#77G).       Orders and commissions for examination of witnesses
+[77G](#77G).       Orders and commissions for examination of witnesses                     74
 
-[77H](#77H).       Oral and affidavit evidence
+[77H](#77H).       Oral and affidavit evidence                                                                 75
 
     **Division 3—Defects and errors**
 
-[77J](#77J).        Amendment
+[77J](#77J).        Amendment                                                                                        76
 
-[77K](#77K).       Formal defects not to invalidate
+[77K](#77K).       Formal defects not to invalidate                                                          76
 
     **Division 4—Reserved judgments**
 
-[77L](#77L).        Reserved judgments
+[77L](#77L).        Reserved judgments                                                                           77
 
     **Division 5—Judgment and execution**
 
-[77M](#77M).      Enforcement of judgments
+[77M](#77M).      Enforcement of judgments                                                                 78
 
-[77MA](#77MA).   Interest up to judgment
+[77MA](#77MA).   Interest up to judgment                                                                       78
 
-[77N](#77N).       Interest on judgment debts
+[77N](#77N).       Interest on judgment debts                                                                 79
 
-[77P](#77P).        Interpleader
+[77P](#77P).        Interpleader                                                                                        79
 
-[77Q](#77Q).       Discharge of property taken in execution
+[77Q](#77Q).       Discharge of property taken in execution                                           80
 
     **Division 6—Receivers and managers**
 
-[77R](#77R).       Receivers and managers
+[77R](#77R).       Receivers and managers                                                                     81
 
 **Part XB—Appeals to the High Court** 
 
     **Division 1—Security**
 
-[77S](#77S).        Security
+[77S](#77S).        Security                                                                                              82
 
     **Division 2—Procedure**
 
-[77T](#77T).        Institution of appeals
+[77T](#77T).        Institution of appeals                                                                          83
 
-[77U](#77U).       Stay of proceedings
+[77U](#77U).       Stay of proceedings                                                                            83
 
-[77V](#77V).       Death of party to an appeal
+[77V](#77V).       Death of party to an appeal                                                                 83
 
 **Part XI—Supplementary provisions** 
 
     **Division 1—Appearance of Parties**
 
-[78](#78).          Appearance of parties
+[78](#78).          Appearance of parties                                                                         84
 
     **Division 1A—Provisions relating to Constitutional matters**
 
-[78AA](#78AA).    State includes Australian Capital Territory and Northern Territory
+[78AA](#78AA).    State includes Australian Capital Territory and Northern Territory    85
 
-[78A](#78A).       Intervention by Attorneys‑General
+[78A](#78A).       Intervention by Attorneys-General                                                     85
 
-[78B](#78B).       Notice to Attorneys‑General
+[78B](#78B).       Notice to Attorneys-General                                                              86
 
     **Division 2—Application of laws**
 
-[79](#79).          State or Territory laws to govern where applicable
+[79](#79).          State or Territory laws to govern where applicable                            87
 
-[80](#80).          Common law to govern
+[80](#80).          Common law to govern                                                                      88
 
-[80A](#80A).       Application of sections 79 and 80 to Territory courts
+[80A](#80A).       Application of sections 79 and 80 to Territory courts                        88
 
-[81](#81).          Security of the peace and for good behaviour
+[81](#81).          Security of the peace and for good behaviour                                    88
 
     **Division 3—Venue**
 
-[82](#82).          Venue in suits for penalties
+[82](#82).          Venue in suits for penalties                                                                89
 
-[83](#83).          Venue in suits for taxes
+[83](#83).          Venue in suits for taxes                                                                      89
 
-[84](#84).          Venue in suits for forfeiture
+[84](#84).          Venue in suits for forfeiture                                                               89
 
-[85](#85).          Property seized as forfeited
+[85](#85).          Property seized as forfeited                                                                89
 
     **Division 4—Rules of Court**
 
-[86](#86).          Rules of Court
+[86](#86).          Rules of Court                                                                                    90
 
-[88](#88).          Regulations
+[88](#88).          Regulations                                                                                        91
 
 **The Schedule** 
 
@@ -507,7 +509,7 @@ But on the application of either party the Justice may order the application to 
 
                      (c)  of any other court exercising federal jurisdiction; or
 
-                     (d)  of the Inter‑State Commission;
+                     (d)  of the Inter-State Commission;
 
 and to hear and determine applications for a new trial of any cause or matter, after a trial before any such Justice or any such Court exercising federal jurisdiction, shall be exercised by a Full Court.
 
@@ -583,7 +585,7 @@ for it to have no reasonable prospect of success.
 
 ### Division 6—Defendants
 
-##### <a id="28"></a>28  Non‑appearance of some defendants
+##### <a id="28"></a>28  Non-appearance of some defendants
 
                    When there are several defendants in any cause pending in the High Court, if any defendant is not served with process and does not voluntarily appear, the Court may nevertheless entertain the cause and proceed to hear and determine it between the parties who are properly before the Court; but the judgment given in the cause shall not conclude or prejudice other parties who are not regularly served with process and do not voluntarily submit to the jurisdiction of the Court.
 
@@ -703,13 +705,13 @@ whether in civil or criminal matters, is subject to the exceptions and regulatio
 
                      (e)  matters in which a writ of mandamus or prohibition is sought against an officer of the Commonwealth or a federal court.
 
-Note:          Under the _Jurisdiction of Courts (Cross‑vesting) Act 1987_, State Supreme Courts are, with some exceptions and limitations, invested with the same civil jurisdiction as the Federal Court has, including jurisdiction under section 39B of this Act.
+Note:          Under the _Jurisdiction of Courts (Cross-vesting) Act 1987_, State Supreme Courts are, with some exceptions and limitations, invested with the same civil jurisdiction as the Federal Court has, including jurisdiction under section 39B of this Act.
 
 ##### <a id="39"></a>39  Federal jurisdiction of State Courts in other matters
 
              (1)  The jurisdiction of the High Court, so far as it is not exclusive of the jurisdiction of any Court of a State by virtue of section 38, shall be exclusive of the jurisdiction of the several Courts of the States, except as provided in this section.
 
-             (2)  The several Courts of the States shall within the limits of their several jurisdictions, whether such limits are as to locality, subject‑matter, or otherwise, be invested with federal jurisdiction, in all matters in which the High Court has original jurisdiction or in which original jurisdiction can be conferred upon it, except as provided in section 38, and subject to the following conditions and restrictions:
+             (2)  The several Courts of the States shall within the limits of their several jurisdictions, whether such limits are as to locality, subject-matter, or otherwise, be invested with federal jurisdiction, in all matters in which the High Court has original jurisdiction or in which original jurisdiction can be conferred upon it, except as provided in section 38, and subject to the following conditions and restrictions:
 
                      (a)  A decision of a Court of a State, whether in original or in appellate jurisdiction, shall not be subject to appeal to Her Majesty in Council, whether by special leave or otherwise.
 
@@ -797,7 +799,7 @@ Jurisdictional rules to apply despite any other law
 
            (1F)  Subsections (1B), (1C), (1D), (1E) and (1EA) have effect despite anything in any other law. In particular:
 
-                     (a)  neither the _Jurisdiction of Courts (Cross‑vesting) Act 1987_, nor any other law, has the effect of giving the Federal Court of Australia jurisdiction contrary to subsection (1B), (1C) or (1EA); and
+                     (a)  neither the _Jurisdiction of Courts (Cross-vesting) Act 1987_, nor any other law, has the effect of giving the Federal Court of Australia jurisdiction contrary to subsection (1B), (1C) or (1EA); and
 
                      (b)  neither section 9 of the _Administrative Decisions (Judicial Review) Act 1977_, nor any other law, has the effect of removing from the Supreme Court of a State or Territory the jurisdiction given to that Court by subsection (1B), (1C) or (1EA).
 
@@ -813,13 +815,13 @@ Definitions
 
                     <a name="relat-civil-proceing-decision"></a>**_related civil proceeding decision_**, in relation to a civil proceeding, means:
 
-                     (a)  a decision of the Attorney‑General to give:
+                     (a)  a decision of the Attorney-General to give:
 
                               (i)  notice under section 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ in relation to the proceeding; or
 
                              (ii)  a certificate under section 38F or 38H of that Act in relation to the proceeding; or
 
-                     (b)  a decision of the Minister appointed by the Attorney‑General under section 6A of that Act to give:
+                     (b)  a decision of the Minister appointed by the Attorney-General under section 6A of that Act to give:
 
                               (i)  notice under section 6A of that Act in relation to the proceeding; or
 
@@ -839,13 +841,13 @@ Definitions
 
                              (v)  a decision in connection with an appeal arising out of the prosecution; or
 
-                     (b)  a decision of the Attorney‑General to give a certificate under section 26 or 28 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before or during a federal criminal proceeding (within the meaning of that Act) in relation to the offence.
+                     (b)  a decision of the Attorney-General to give a certificate under section 26 or 28 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before or during a federal criminal proceeding (within the meaning of that Act) in relation to the offence.
 
 ## Part VII—Removal of causes
 
 ##### <a id="40"></a>40  Removal by order of the High Court
 
-             (1)  Any cause or part of a cause arising under the Constitution or involving its interpretation that is at any time pending in a federal court other than the High Court or in a court of a State or Territory may, at any stage of the proceedings before final judgment, be removed into the High Court under an order of the High Court, which may, upon application of a party for sufficient cause shown, be made on such terms as the Court thinks fit, and shall be made as of course upon application by or on behalf of the Attorney‑General of the Commonwealth, the Attorney‑General of a State, the Attorney‑General of the Australian Capital Territory or the Attorney‑General of the Northern Territory.
+             (1)  Any cause or part of a cause arising under the Constitution or involving its interpretation that is at any time pending in a federal court other than the High Court or in a court of a State or Territory may, at any stage of the proceedings before final judgment, be removed into the High Court under an order of the High Court, which may, upon application of a party for sufficient cause shown, be made on such terms as the Court thinks fit, and shall be made as of course upon application by or on behalf of the Attorney-General of the Commonwealth, the Attorney-General of a State, the Attorney-General of the Australian Capital Territory or the Attorney-General of the Northern Territory.
 
              (2)  Where:
 
@@ -853,7 +855,7 @@ Definitions
 
                      (b)  there is at any time pending in a court of a State a cause involving the exercise of federal jurisdiction by that court;
 
-the High Court may, upon application of a party or upon application by or on behalf of the Attorney‑General of the Commonwealth, at any stage of the proceedings before final judgment, order that the cause or a part of the cause be removed into the High Court on such terms as the Court thinks fit.
+the High Court may, upon application of a party or upon application by or on behalf of the Attorney-General of the Commonwealth, at any stage of the proceedings before final judgment, order that the cause or a part of the cause be removed into the High Court on such terms as the Court thinks fit.
 
              (3)  Subject to the Constitution, jurisdiction to hear and determine a cause or part of a cause removed into the High Court by an order under subsection (2), to the extent that that jurisdiction is not otherwise conferred on the High Court, is conferred on the High Court by this section.
 
@@ -879,7 +881,7 @@ the High Court may, upon application of a party or upon application by or on beh
 
                    Where a cause is removed in whole or in part into the High Court from another court:
 
-                     (a)  every order relating to the custody or preservation of any property the subject‑matter of the cause that has been made before the removal remains in force until it is discharged or varied by the High Court;
+                     (a)  every order relating to the custody or preservation of any property the subject-matter of the cause that has been made before the removal remains in force until it is discharged or varied by the High Court;
 
                      (b)  any attachment or sequestration of the goods or estate of a defendant had in the cause before the removal holds the goods or estate so attached or sequestered to answer the final judgment of the High Court in the same manner as by law they would have been held to answer the final judgment of the court in which the cause was commenced;
 
@@ -889,7 +891,7 @@ the High Court may, upon application of a party or upon application by or on beh
 
 ##### <a id="44"></a>44  Remittal of matters by High Court to other courts
 
-             (1)  Any matter other than a matter to which subsection (2) applies that is at any time pending in the High Court, whether originally commenced in the High Court or not, or any part of such a matter, may, upon the application of a party or of the High Court’s own motion, be remitted by the High Court to any federal court, court of a State or court of a Territory that has jurisdiction with respect to the subject‑matter and the parties, and, subject to any directions of the High Court, further proceedings in the matter or in that part of the matter, as the case may be, shall be as directed by the court to which it is remitted.
+             (1)  Any matter other than a matter to which subsection (2) applies that is at any time pending in the High Court, whether originally commenced in the High Court or not, or any part of such a matter, may, upon the application of a party or of the High Court’s own motion, be remitted by the High Court to any federal court, court of a State or court of a Territory that has jurisdiction with respect to the subject-matter and the parties, and, subject to any directions of the High Court, further proceedings in the matter or in that part of the matter, as the case may be, shall be as directed by the court to which it is remitted.
 
              (2)  Where a matter referred to in paragraph 38(a), (b), (c) or (d) is at any time pending in the High Court, the High Court may, upon the application of a party or of the High Court’s own motion, remit the matter, or any part of the matter, to the Federal Court of Australia or any court of a State or Territory.
 
@@ -939,7 +941,7 @@ and extends to acts done or omitted to be done outside Australia.
 
 ##### <a id="49"></a>49  Contravention of order to constitute contempt
 
-             (1)  If a court makes an order to which this subsection applies in relation to proceedings before the court on the ground, or on grounds that include the ground, however the ground is expressed, that the making of the order is necessary or desirable in the interests of the national or international security of Australia or in the interests of the physical safety of the accused, of a witness or of any other person, a person shall not contravene or fail to comply with the order so far as it is applicable in relation to the last‑mentioned person.
+             (1)  If a court makes an order to which this subsection applies in relation to proceedings before the court on the ground, or on grounds that include the ground, however the ground is expressed, that the making of the order is necessary or desirable in the interests of the national or international security of Australia or in the interests of the physical safety of the accused, of a witness or of any other person, a person shall not contravene or fail to comply with the order so far as it is applicable in relation to the last-mentioned person.
 
              (2)  By force of this subsection, an order referred to in subsection (1) applies, except so far as is inconsistent with the express terms of the order, in like manner as this Part applies by virtue of section 47.
 
@@ -961,7 +963,7 @@ and extends to acts done or omitted to be done outside Australia.
 
 ##### <a id="50"></a>50  Reports
 
-             (1)  Subject to subsection (2), the Attorney‑General of the Commonwealth shall, as soon as practicable after each 30 June, lay before each House of the Parliament a report setting out:
+             (1)  Subject to subsection (2), the Attorney-General of the Commonwealth shall, as soon as practicable after each 30 June, lay before each House of the Parliament a report setting out:
 
                      (a)  the number of proceedings in which, to his or her knowledge, orders referred to in subsection 49(1) were made during the year that ended on that date; and
 
@@ -1001,7 +1003,7 @@ has the like entitlement to practise in any federal court.
 
                      (a)  in any court of a State in relation to the exercise by the court of federal jurisdiction; and
 
-                     (b)  in any court of an internal Territory in relation to the exercise by the court of federal‑type jurisdiction.
+                     (b)  in any court of an internal Territory in relation to the exercise by the court of federal-type jurisdiction.
 
              (5)  The Chief Justice of the Supreme Court of a State or an internal Territory may direct the Registrar or other proper officer of that Supreme Court to keep a Register of Practitioners for the purposes of subsection (4) and, where such a Register is kept in a State or Territory, a person is not entitled, in a court of that State or Territory, to the right of audience referred to in subsection (4) unless he or she is registered in that Register.
 
@@ -1015,7 +1017,7 @@ has the like entitlement to practise in any federal court.
 
            (10)  In this section:
 
-                    <a name="feral-type-jurisdict"></a>**_federal‑type jurisdiction_**, in relation to a court of an internal Territory, means jurisdiction conferred on the court by or under a law of the Commonwealth, but does not include jurisdiction conferred on the court under an Act providing for the acceptance, administration or government of that Territory.
+                    <a name="feral-type-jurisdict"></a>**_federal-type jurisdiction_**, in relation to a court of an internal Territory, means jurisdiction conferred on the court by or under a law of the Commonwealth, but does not include jurisdiction conferred on the court under an Act providing for the acceptance, administration or government of that Territory.
 
 ##### <a id="55C"></a>55C  Register of Practitioners
 
@@ -1049,25 +1051,65 @@ but the High Court may at any time, by order, revoke or vary such an order.
 
              (7)  Where the Chief Executive and Principal Registrar causes an entry to be made in the Register of Practitioners, or causes an entry in the Register to be struck out or amended, the Registrar shall cause the ground on which, and the date upon which, the entry is so made, struck out or amended to be noted in the Register.
 
-##### <a id="55E"></a>55E  Attorney‑General’s lawyers 
+##### <a id="55D"></a>55D  Right to practise as barrister or solicitor in Territories
+
+             (1)  Subject to this section, a person whose name is on:
+
+                     (a)  the roll of barristers and solicitors of the High Court kept under the Rules of Court; or
+
+                     (b)  the roll of barristers, solicitors, barristers and solicitors or legal practitioners of the Supreme Court of a State or Territory;
+
+is entitled to practise as a barrister and solicitor in any Territory unless the entitlement to practise is suspended under the Rules of Court, the law of the State or the law in force in the first-mentioned Territory (including this Act), as the case may be.
+
+             (3)  Where it is proved to the satisfaction of the Supreme Court of a Territory that a person who is entitled to practise as a barrister and solicitor in the Territory under subsection (1) has been guilty of conduct that justifies it in so doing, the Court may:
+
+                     (a)  order that the person be not entitled to practise as a barrister and solicitor in the Territory; or
+
+                     (b)  order that the person’s entitlement to practise as a barrister and solicitor in the Territory be suspended for a specified period;
+
+but the Court may at any time, by order, revoke or vary any such order.
+
+             (4)  A person who is entitled under subsection (1) to practise as a barrister and solicitor in a Territory is entitled so to practise in any court of the Territory and is so entitled whether the court is sitting within or outside the Territory.
+
+             (5)  This section does not affect the operation of a law of a Territory (whether made before or after the commencement of this section) in so far as that law provides for the admission by the Supreme Court of the Territory of persons to practise as barristers or solicitors, or as both, in the Territory and for the suspension or discontinuance of their entitlement to practise.
+
+             (6)  Where:
+
+                     (a)  a law of a Territory contains provisions of the kind referred to in subsection (5); and
+
+                     (b)  under the provisions, a person who:
+
+                              (i)  would, but for this subsection, be entitled under subsection (1) to practise as a barrister and solicitor in the Territory;
+
+                             (ii)  duly applies to the Supreme Court of the Territory to be admitted to practise as a barrister and solicitor in the Territory; and
+
+                            (iii)  satisfies the Supreme Court that he or she is of good fame and character;
+
+                            is entitled, even though the person resides or practises in a State or another Territory:
+
+                            (iv)  to be admitted to practise as a barrister and solicitor in the Territory; and
+
+                             (v)  on being admitted to practise, to practise in the Territory, subject only to the same conditions and restrictions as apply in relation to other persons admitted to practise in the Territory;
+
+subsections (1), (3) and (4) do not apply in relation to practice in the Territory.
+
+             (7)  Nothing in this section applies in relation to practice in a federal court or to practice in the Northern   Territory, the Territory of Christmas Island or the Territory of Cocos (Keeling)  Islands.
+
+##### <a id="55E"></a>55E  Attorney-General’s lawyers 
 
              (1)  In this section and in sections 55F and 55G:
 
-                    <a name="attornei-gener-lawyer"></a>**_Attorney‑General’s lawyer_** means a person:
+                    <a name="attornei-gener-lawyer"></a>**_Attorney-General’s lawyer_** means a person:
 
-                     (a)  whose name is on:
-
-                              (i)  the roll of barristers and solicitors of the High Court kept under the Rules of Court; or
-
-                             (ii)  the roll of barristers, solicitors, barristers and solicitors or legal practitioners of the Supreme Court of a State or Territory; and
+                     (a)  whose name is on a roll referred to in subsection 55D(1); and
 
                      (b)  who is either:
 
-                              (i)  the Secretary to the Attorney‑General’s Department; or
+                              (i)  the Secretary to the Attorney-General’s Department; or
 
-                             (ii)  a person in the Attorney‑General’s Department who is engaged under the _Public Service Act 1999_.
+                             (ii)  a person in the Attorney-General’s Department who is engaged under the _Public Service Act 1999_.
 
-             (2)  An Attorney‑General’s lawyer acting in that capacity is entitled:
+             (2)  An Attorney-General’s lawyer acting in that capacity is entitled:
 
                      (a)  to do everything necessary or convenient for that purpose; and
 
@@ -1077,31 +1119,31 @@ but the High Court may at any time, by order, revoke or vary such an order.
 
 whether or not he or she is so entitled apart from this subsection.
 
-             (3)  An Attorney‑General’s lawyer acting in that capacity in a State or Territory is not subject to a law of a State or Territory that relates to legal practitioners except to the extent that such laws:
+             (3)  An Attorney-General’s lawyer acting in that capacity in a State or Territory is not subject to a law of a State or Territory that relates to legal practitioners except to the extent that such laws:
 
                      (a)  impose rights, duties or obligations on legal practitioners in relation to their clients or to the courts; or
 
                      (b)  provide for disciplinary proceedings in relation to the misconduct of legal practitioners.
 
-             (4)  Subsection (3) is subject to subsection (6) and to section 55F (Attorney‑General’s lawyer may act for more than one party).
+             (4)  Subsection (3) is subject to subsection (6) and to section 55F (Attorney-General’s lawyer may act for more than one party).
 
-             (5)  In considering the nature of the rights, duties and obligations of an Attorney‑General’s lawyer in relation to a client, regard must be had to the lawyer’s position as a person in the Attorney‑General’s Department engaged under the _Public Service Act 1999_.
+             (5)  In considering the nature of the rights, duties and obligations of an Attorney-General’s lawyer in relation to a client, regard must be had to the lawyer’s position as a person in the Attorney-General’s Department engaged under the _Public Service Act 1999_.
 
-             (6)  An Attorney‑General’s lawyer acting in that capacity is not subject to a law of a State or Territory that is prescribed for the purposes of this section.
+             (6)  An Attorney-General’s lawyer acting in that capacity is not subject to a law of a State or Territory that is prescribed for the purposes of this section.
 
-##### <a id="55F"></a>55F  Attorney‑General’s lawyer may act for more than one party
+##### <a id="55F"></a>55F  Attorney-General’s lawyer may act for more than one party
 
-                   An Attorney‑General’s lawyer may act in a matter for 2 or more parties who have conflicting interests in the matter if to do so has been approved by the Attorney‑General:
+                   An Attorney-General’s lawyer may act in a matter for 2 or more parties who have conflicting interests in the matter if to do so has been approved by the Attorney-General:
 
                      (a)  by way of approval in relation to the particular matter; or
 
-                     (b)  by way of written arrangements covering the circumstances in which an Attorney‑General’s lawyer may so act.
+                     (b)  by way of written arrangements covering the circumstances in which an Attorney-General’s lawyer may so act.
 
-##### <a id="55G"></a>55G  Commonwealth may charge for services of Attorney‑General’s lawyer
+##### <a id="55G"></a>55G  Commonwealth may charge for services of Attorney-General’s lawyer
 
              (1)  The Commonwealth may charge fees:
 
-                     (a)  in relation to services of a legal professional nature provided by an Attorney‑General’s lawyer in his or her capacity as a person in the Attorney‑General’s Department engaged under the _Public Service Act 1999_; and
+                     (a)  in relation to services of a legal professional nature provided by an Attorney-General’s lawyer in his or her capacity as a person in the Attorney-General’s Department engaged under the _Public Service Act 1999_; and
 
                      (b)  for disbursements incurred by the Commonwealth in the course of providing those services.
 
@@ -1139,11 +1181,7 @@ the amount charged is taken to have been paid by the client.
 
                      (a)  the CEO; or
 
-                     (b)  an employee of the AGS whose name is on:
-
-                              (i)  the roll of barristers and solicitors of the High Court kept under the Rules of Court; or
-
-                             (ii)  the roll of barristers, solicitors, barristers and solicitors or legal practitioners of the Supreme Court of a State or Territory.
+                     (b)  an employee of the AGS whose name is on a roll referred to in subsection 55D(1).
 
                     <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the AGS.
 
@@ -1259,7 +1297,7 @@ Note:          For **_State_** see section 55I.
 
              (3)  The AGS may provide services to a person or body, or class of persons or bodies, not referred to in subsection (1) or (2) if:
 
-                     (a)  the Attorney‑General requests the AGS to do so; and
+                     (a)  the Attorney-General requests the AGS to do so; and
 
                      (b)  to do so would be within the functions of the AGS.
 
@@ -1311,7 +1349,7 @@ whether or not he or she is so entitled apart from this subsection.
 
 ##### <a id="55R"></a>55R  AGS may act for more than one party
 
-                   The AGS may act in a matter for 2 or more parties who have conflicting interests in the matter if to do so has been approved by the Attorney‑General:
+                   The AGS may act in a matter for 2 or more parties who have conflicting interests in the matter if to do so has been approved by the Attorney-General:
 
                      (a)  by way of approval in relation to the particular matter; or
 
@@ -1327,17 +1365,13 @@ whether or not he or she is so entitled apart from this subsection.
 
 ##### <a id="55T"></a>55T  Appointment of CEO
 
-             (1)  The CEO is to be appointed by instrument in writing signed by the Attorney‑General and the Finance Minister.
+             (1)  The CEO is to be appointed by instrument in writing signed by the Attorney-General and the Finance Minister.
 
-             (2)  The CEO must be a person whose name is on:
+             (2)  The CEO must be a person whose name is on a roll referred to in subsection 55D(1).
 
-                     (a)  the roll of barristers and solicitors of the High Court kept under the Rules of Court; or
+             (3)  The appointment is to be on a full-time basis.
 
-                     (b)  the roll of barristers, solicitors, barristers and solicitors or legal practitioners of the Supreme Court of a State or Territory.
-
-             (3)  The appointment is to be on a full‑time basis.
-
-             (4)  The CEO holds office for a period of up to 5 years specified in the instrument of appointment, and is eligible for re‑appointment.
+             (4)  The CEO holds office for a period of up to 5 years specified in the instrument of appointment, and is eligible for re-appointment.
 
              (5)  An appointment under this section is not affected by any defect or irregularity in or in connection with the appointment.
 
@@ -1349,25 +1383,25 @@ whether or not he or she is so entitled apart from this subsection.
 
 ##### <a id="55V"></a>55V  Resignation
 
-                   The CEO may resign from office by giving the Attorney‑General and the Finance Minister a signed notice of resignation.
+                   The CEO may resign from office by giving the Attorney-General and the Finance Minister a signed notice of resignation.
 
 ##### <a id="55W"></a>55W  Termination of CEO’s appointment
 
-                   The Attorney‑General and the Finance Minister (acting jointly) may terminate the CEO’s appointment at any time, by instrument in writing.
+                   The Attorney-General and the Finance Minister (acting jointly) may terminate the CEO’s appointment at any time, by instrument in writing.
 
 ##### <a id="55X"></a>55X  CEO must disclose interests
 
-             (1)  The CEO must give written notice to the Attorney‑General and the Finance Minister of any interest that the CEO has or acquires if the interest could conflict with the proper performance of the CEO’s functions.
+             (1)  The CEO must give written notice to the Attorney-General and the Finance Minister of any interest that the CEO has or acquires if the interest could conflict with the proper performance of the CEO’s functions.
 
              (2)  In subsection (1), **_interest_** is not limited to a pecuniary interest.
 
 ##### <a id="55Y"></a>55Y  Outside employment
 
-                   The CEO must not, except with the approval of the Attorney‑General and the Finance Minister (acting jointly), engage in paid employment outside the duties of the CEO’s office.
+                   The CEO must not, except with the approval of the Attorney-General and the Finance Minister (acting jointly), engage in paid employment outside the duties of the CEO’s office.
 
 ##### <a id="55Z"></a>55Z  Acting CEO
 
-             (1)  The Attorney‑General and the Finance Minister (acting jointly) may appoint a person to act as CEO:
+             (1)  The Attorney-General and the Finance Minister (acting jointly) may appoint a person to act as CEO:
 
                      (a)  if there is a vacancy in the office of CEO, whether or not an appointment has previously been made to the office; or
 
@@ -1401,9 +1435,9 @@ whether or not he or she is so entitled apart from this subsection.
 
                    The AGS is not subject to taxation under a law of a State or Territory other than a law prescribed for the purposes of this section.
 
-##### <a id="55ZD"></a>55ZD  AGS must make tax‑equivalent payments to the Commonwealth
+##### <a id="55ZD"></a>55ZD  AGS must make tax-equivalent payments to the Commonwealth
 
-             (1)  The Attorney‑General and the Finance Minister (acting jointly) may inform the CEO in writing of arrangements that are to apply to the AGS in relation to a tax‑equivalent payment to be made by the AGS to the Commonwealth in respect of each financial year.
+             (1)  The Attorney-General and the Finance Minister (acting jointly) may inform the CEO in writing of arrangements that are to apply to the AGS in relation to a tax-equivalent payment to be made by the AGS to the Commonwealth in respect of each financial year.
 
              (2)  The amount of the payment to be made under the arrangements is to be worked out having regard to the purpose of ensuring that the AGS does not enjoy net competitive advantages over its competitors because of:
 
@@ -1411,11 +1445,11 @@ whether or not he or she is so entitled apart from this subsection.
 
                      (b)  any other exemption from taxation liability applying to the AGS.
 
-             (3)  The AGS must pay the amount to the Commonwealth within 4 months after the end of the financial year concerned, unless the Attorney‑General and the Finance Minister (acting jointly) determine a period other than 4 months within which the amount, or a specified part of the amount, must be paid.
+             (3)  The AGS must pay the amount to the Commonwealth within 4 months after the end of the financial year concerned, unless the Attorney-General and the Finance Minister (acting jointly) determine a period other than 4 months within which the amount, or a specified part of the amount, must be paid.
 
 ##### <a id="55ZE"></a>55ZE  Corporate governance requirements
 
-             (1)  The Attorney‑General and the Finance Minister (acting jointly) may, after consultation with the CEO, inform the CEO in writing of corporate governance arrangements that are to apply to the AGS.
+             (1)  The Attorney-General and the Finance Minister (acting jointly) may, after consultation with the CEO, inform the CEO in writing of corporate governance arrangements that are to apply to the AGS.
 
              (2)  If so informed, the CEO must ensure that the AGS complies with the arrangements.
 
@@ -1427,17 +1461,17 @@ whether or not he or she is so entitled apart from this subsection.
 
              (4)  The AGS must pay to the Commonwealth any amount required to be paid under this section.
 
-## Part VIIIC—Attorney‑General’s Legal Services Directions
+## Part VIIIC—Attorney-General’s Legal Services Directions
 
-##### <a id="55ZF"></a>55ZF  Attorney‑General may issue directions
+##### <a id="55ZF"></a>55ZF  Attorney-General may issue directions
 
-             (1)  The Attorney‑General may issue directions (**_Legal Services Directions_**):
+             (1)  The Attorney-General may issue directions (**_Legal Services Directions_**):
 
                      (a)  that are to apply generally to Commonwealth legal work; or
 
                      (b)  that are to apply to Commonwealth legal work being performed, or to be performed, in relation to a particular matter.
 
-             (2)  The Attorney‑General may publish or give notice of Legal Services Directions in any manner the Attorney‑General considers appropriate.
+             (2)  The Attorney-General may publish or give notice of Legal Services Directions in any manner the Attorney-General considers appropriate.
 
              (3)  In this section:
 
@@ -1463,7 +1497,7 @@ whether or not he or she is so entitled apart from this subsection.
 
                      (b)  a person or body referred to in subsection 55N(2), in relation to a matter, if the AGS is acting for the person or body in that matter;
 
-                     (c)  a person or body in respect of whom the Attorney‑General has made a request under subsection 55N(3), in relation to a matter, if the AGS is acting for the person or the body in that matter;
+                     (c)  a person or body in respect of whom the Attorney-General has made a request under subsection 55N(3), in relation to a matter, if the AGS is acting for the person or the body in that matter;
 
                      (d)  a person or body in respect of whom the CEO has made a determination under subsection 55N(4), in relation to a matter, if the AGS is acting for the person or body in that matter;
 
@@ -1471,15 +1505,15 @@ whether or not he or she is so entitled apart from this subsection.
 
                       (f)  a legal practitioner or firm of legal practitioners, in relation to a matter, if the legal practitioner or firm is acting for a person or body referred to in subsection 55N(1) in that matter.
 
-             (2)  Compliance with a Legal Services Direction is not enforceable except by, or upon the application of, the Attorney‑General.
+             (2)  Compliance with a Legal Services Direction is not enforceable except by, or upon the application of, the Attorney-General.
 
-             (3)  The issue of non‑compliance with a Legal Services Direction may not be raised in any proceeding (whether in a court, tribunal or other body) except by, or on behalf of, the Commonwealth.
+             (3)  The issue of non-compliance with a Legal Services Direction may not be raised in any proceeding (whether in a court, tribunal or other body) except by, or on behalf of, the Commonwealth.
 
 ##### <a id="55ZH"></a>55ZH  Legal Services Directions and legal professional privilege
 
              (1)  If a Legal Services Direction requires a person to provide any information, or produce a document or record, to another person, the person must not refuse to comply with the Direction on the ground of legal professional privilege or of any other duty of confidence.
 
-             (2)  A person performing Commonwealth legal work (within the meaning of subsection 55ZF(3)) may provide information or produce a document or record relating to that work to the Attorney‑General or to a person authorised by the Attorney‑General for that purpose.
+             (2)  A person performing Commonwealth legal work (within the meaning of subsection 55ZF(3)) may provide information or produce a document or record relating to that work to the Attorney-General or to a person authorised by the Attorney-General for that purpose.
 
              (3)  If:
 
@@ -1493,9 +1527,9 @@ the person is taken, for all purposes, not to have breached legal professional p
 
 ##### <a id="55ZI"></a>55ZI  Anything done under Legal Services Directions not actionable
 
-             (1)  The Attorney‑General is not liable to an action or other proceeding, whether civil or criminal, for or in relation to an act done or omitted to be done in compliance, or purported compliance, with a Legal Services Direction.
+             (1)  The Attorney-General is not liable to an action or other proceeding, whether civil or criminal, for or in relation to an act done or omitted to be done in compliance, or purported compliance, with a Legal Services Direction.
 
-             (2)  A person (other than the Attorney‑General) is not liable to an action or other proceeding, whether civil or criminal, for or in relation to an act done or omitted to be done by the person in compliance, or in good faith in purported compliance, with a Legal Services Direction.
+             (2)  A person (other than the Attorney-General) is not liable to an action or other proceeding, whether civil or criminal, for or in relation to an act done or omitted to be done by the person in compliance, or in good faith in purported compliance, with a Legal Services Direction.
 
 ## Part IX—Suits by and against the Commonwealth and the States
 
@@ -1533,15 +1567,15 @@ the person is taken, for all purposes, not to have breached legal professional p
 
 ##### <a id="61"></a>61  Suits by Commonwealth
 
-                   Suits on behalf of the Commonwealth may be brought in the name of the Commonwealth by the Attorney‑General or by any person appointed by him or her in that behalf.
+                   Suits on behalf of the Commonwealth may be brought in the name of the Commonwealth by the Attorney-General or by any person appointed by him or her in that behalf.
 
 ##### <a id="62"></a>62  Suits by a State
 
-                   Suits on behalf of a State may be brought in the name of the State by the Attorney‑General of the State, or by any person appointed by him or her in that behalf.
+                   Suits on behalf of a State may be brought in the name of the State by the Attorney-General of the State, or by any person appointed by him or her in that behalf.
 
 ##### <a id="63"></a>63  Service of process when Commonwealth or State is party
 
-                   Where the Commonwealth or a State is a Party to a suit, all process in the suit required to be served upon that party shall be served upon the Attorney‑General of the Commonwealth or of the State, as the case may be, or upon some person appointed by him or her to receive service.
+                   Where the Commonwealth or a State is a Party to a suit, all process in the suit required to be served upon that party shall be served upon the Attorney-General of the Commonwealth or of the State, as the case may be, or upon some person appointed by him or her to receive service.
 
 ##### <a id="64"></a>64  Rights of parties
 
@@ -1585,7 +1619,7 @@ the person is taken, for all purposes, not to have breached legal professional p
 
 ##### <a id="67D"></a>67D  Prosecution of indictable offences in Supreme Court of Territory
 
-                   Nothing in this or any other Act shall be taken to limit the power of the Legislative Assembly of the Territory in relation to the making of laws relating to the prosecution in the Supreme Court of the Territory of indictable offences against laws in force in the Territory under or by virtue of the _Northern Territory (Self‑Government) Act 1978_.
+                   Nothing in this or any other Act shall be taken to limit the power of the Legislative Assembly of the Territory in relation to the making of laws relating to the prosecution in the Supreme Court of the Territory of indictable offences against laws in force in the Territory under or by virtue of the _Northern Territory (Self-Government) Act 1978_.
 
 ##### <a id="67E"></a>67E  No execution against Territory
 
@@ -1709,7 +1743,7 @@ Committal court may grant bail to person to appear before Federal Court
 
                      (b)  that enables the State or Territory committals court to grant bail to persons accused of such offences to appear before the superior State or Territory court if committed for trial, or for sentencing, before the superior State or Territory court;
 
-applies as if the power included the power to grant bail to the first‑mentioned person to appear before the Federal Court of Australia.
+applies as if the power included the power to grant bail to the first-mentioned person to appear before the Federal Court of Australia.
 
 Note:          Appeals or reviews of the exercise of this power will be dealt with under the laws of the State or Territory applying under subsection 68(1). However, bail will be dealt with under Part VIB of the _Federal Court of Australia Act 1976_ once indictable primary proceedings (within the meaning of that Act) commence for the person.
 
@@ -1911,7 +1945,7 @@ How those laws apply
 
 ##### <a id="69"></a>69  Indictments
 
-             (1)  Indictable offences against the laws of the Commonwealth shall be prosecuted by indictment in the name of the Attorney‑General of the Commonwealth or of such other person as the Governor‑General appoints in that behalf.
+             (1)  Indictable offences against the laws of the Commonwealth shall be prosecuted by indictment in the name of the Attorney-General of the Commonwealth or of such other person as the Governor-General appoints in that behalf.
 
              (2)  Any such appointment shall be by commission in the Queen’s name, and may extend to the whole Commonwealth or to any State or part of the Commonwealth.
 
@@ -1923,7 +1957,7 @@ How those laws apply
 
 indictable offences against the laws of the Commonwealth.
 
-             (3)  Any person committed for trial for an offence against the laws of the Commonwealth may at any time within fourteen days after committal and before the jury is sworn apply to a Justice in Chambers or to a Judge of the Supreme Court of a State for the appointment of counsel for his or her defence. If it be found to the satisfaction of the Justice or Judge that such person is without adequate means to provide defence for himself or herself, and that it is desirable in the interests of justice that such an appointment should be made, the Justice or Judge shall certify this to the Attorney‑General, who may if he or she thinks fit thereupon cause arrangements to be made for the defence of the accused person or refer the matter to such legal aid authorities as the Attorney‑General considers appropriate. Upon committal the person committed shall be supplied with a copy of this subsection.
+             (3)  Any person committed for trial for an offence against the laws of the Commonwealth may at any time within fourteen days after committal and before the jury is sworn apply to a Justice in Chambers or to a Judge of the Supreme Court of a State for the appointment of counsel for his or her defence. If it be found to the satisfaction of the Justice or Judge that such person is without adequate means to provide defence for himself or herself, and that it is desirable in the interests of justice that such an appointment should be made, the Justice or Judge shall certify this to the Attorney-General, who may if he or she thinks fit thereupon cause arrangements to be made for the defence of the accused person or refer the matter to such legal aid authorities as the Attorney-General considers appropriate. Upon committal the person committed shall be supplied with a copy of this subsection.
 
 ##### <a id="70"></a>70  Offences committed in several States
 
@@ -1939,7 +1973,7 @@ indictable offences against the laws of the Commonwealth.
 
 ##### <a id="71"></a>71  Discharge of persons committed for trial
 
-             (1)  When any person is under commitment upon a charge of an indictable offence against the laws of the Commonwealth, the Attorney‑General or such other person as the Governor‑General appoints in that behalf may decline to proceed further in the prosecution, and may, if the person is in custody, by warrant under his or her hand direct the discharge of the person from custody, and he or she shall be discharged accordingly.
+             (1)  When any person is under commitment upon a charge of an indictable offence against the laws of the Commonwealth, the Attorney-General or such other person as the Governor-General appoints in that behalf may decline to proceed further in the prosecution, and may, if the person is in custody, by warrant under his or her hand direct the discharge of the person from custody, and he or she shall be discharged accordingly.
 
              (2)  Nothing in subsection (1):
 
@@ -1949,7 +1983,7 @@ indictable offences against the laws of the Commonwealth.
 
 ##### <a id="71A"></a>71A  Trial of indictable offence without preliminary examination
 
-             (1)  Notwithstanding anything contained in this Part, or any provision of any law of a State or Territory, the Attorney‑General of the Commonwealth may file an indictment for any indictable offence against the laws of the Commonwealth in:
+             (1)  Notwithstanding anything contained in this Part, or any provision of any law of a State or Territory, the Attorney-General of the Commonwealth may file an indictment for any indictable offence against the laws of the Commonwealth in:
 
                      (a)  the High Court; or
 
@@ -2135,7 +2169,7 @@ and the Court may:
 
              (3)  The High Court may at any time, for sufficient reason and on such conditions as are just, order that particular facts may be proved by affidavit at the trial of a cause, or that the affidavit of a person may be read at the trial of a cause.
 
-             (4)  Notwithstanding any order under subsection (3), if a party to a cause desires in good faith that the maker of an affidavit (other than an affidavit referred to in subsection (2)) proposed to be used in the cause be cross‑examined with respect to the matters in the affidavit, the affidavit may not be used in the cause unless that person appears as a witness for cross‑examination or the High Court, in its discretion, permits the affidavit to be used without the person so appearing.
+             (4)  Notwithstanding any order under subsection (3), if a party to a cause desires in good faith that the maker of an affidavit (other than an affidavit referred to in subsection (2)) proposed to be used in the cause be cross-examined with respect to the matters in the affidavit, the affidavit may not be used in the cause unless that person appears as a witness for cross-examination or the High Court, in its discretion, permits the affidavit to be used without the person so appearing.
 
              (5)  If the parties to a suit so agree and the High Court does not otherwise order, testimony at the trial of the suit may be given by affidavit.
 
@@ -2271,19 +2305,19 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
-##### <a id="78A"></a>78A  Intervention by Attorneys‑General
+##### <a id="78A"></a>78A  Intervention by Attorneys-General
 
-             (1)  The Attorney‑General of the Commonwealth may, on behalf of the Commonwealth, and the Attorney‑General of a State may, on behalf of the State, intervene in proceedings before the High Court or any other federal court or any court of a State or Territory, being proceedings that relate to a matter arising under the Constitution or involving its interpretation.
+             (1)  The Attorney-General of the Commonwealth may, on behalf of the Commonwealth, and the Attorney-General of a State may, on behalf of the State, intervene in proceedings before the High Court or any other federal court or any court of a State or Territory, being proceedings that relate to a matter arising under the Constitution or involving its interpretation.
 
-             (2)  Where the Attorney‑General of the Commonwealth or of a State intervenes in proceedings in a court under this section, the court may, in the proceedings, make such order as to costs against the Commonwealth or the State, as the case may be, as the court thinks fit.
+             (2)  Where the Attorney-General of the Commonwealth or of a State intervenes in proceedings in a court under this section, the court may, in the proceedings, make such order as to costs against the Commonwealth or the State, as the case may be, as the court thinks fit.
 
-             (3)  Where the Attorney‑General of the Commonwealth or of a State intervenes in proceedings in a court under this section, then, for the purposes of the institution and prosecution of an appeal from a judgment given in the proceedings, the Attorney‑General of the Commonwealth or the State, as the case may be, shall be taken to be a party to the proceedings.
+             (3)  Where the Attorney-General of the Commonwealth or of a State intervenes in proceedings in a court under this section, then, for the purposes of the institution and prosecution of an appeal from a judgment given in the proceedings, the Attorney-General of the Commonwealth or the State, as the case may be, shall be taken to be a party to the proceedings.
 
-             (4)  Where the Attorney‑General of the Commonwealth or of a State institutes an appeal from a judgment given in proceedings in which the Attorney‑General of the Commonwealth or the State, as the case may be, has intervened under this section, a court hearing the appeal may make such order as to costs against the Commonwealth or the State, as the case may be, as the court thinks fit.
+             (4)  Where the Attorney-General of the Commonwealth or of a State institutes an appeal from a judgment given in proceedings in which the Attorney-General of the Commonwealth or the State, as the case may be, has intervened under this section, a court hearing the appeal may make such order as to costs against the Commonwealth or the State, as the case may be, as the court thinks fit.
 
-##### <a id="78B"></a>78B  Notice to Attorneys‑General
+##### <a id="78B"></a>78B  Notice to Attorneys-General
 
-             (1)  Where a cause pending in a federal court including the High Court or in a court of a State or Territory involves a matter arising under the Constitution or involving its interpretation, it is the duty of the court not to proceed in the cause unless and until the court is satisfied that notice of the cause, specifying the nature of the matter has been given to the Attorneys‑General of the Commonwealth and of the States, and a reasonable time has elapsed since the giving of the notice for consideration by the Attorneys‑General, of the question of intervention in the proceedings or removal of the cause to the High Court.
+             (1)  Where a cause pending in a federal court including the High Court or in a court of a State or Territory involves a matter arising under the Constitution or involving its interpretation, it is the duty of the court not to proceed in the cause unless and until the court is satisfied that notice of the cause, specifying the nature of the matter has been given to the Attorneys-General of the Commonwealth and of the States, and a reasonable time has elapsed since the giving of the notice for consideration by the Attorneys-General, of the question of intervention in the proceedings or removal of the cause to the High Court.
 
              (2)  For the purposes of subsection (1), a court in which a cause referred to in that subsection is pending:
 
@@ -2295,11 +2329,11 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
              (3)  For the purposes of subsection (1), a notice in respect of a cause:
 
-                     (a)  shall be taken to have been given to an Attorney‑General if steps have been taken that, in the opinion of the court, could reasonably be expected to cause the matters to be notified to be brought to the attention of that Attorney‑General; and
+                     (a)  shall be taken to have been given to an Attorney-General if steps have been taken that, in the opinion of the court, could reasonably be expected to cause the matters to be notified to be brought to the attention of that Attorney-General; and
 
-                     (b)  is not required to be given to the Attorney‑General of the Commonwealth if he or she or the Commonwealth is a party to the cause and is not required to be given to the Attorney‑General of a State if he or she or the State is a party to the cause.
+                     (b)  is not required to be given to the Attorney-General of the Commonwealth if he or she or the Commonwealth is a party to the cause and is not required to be given to the Attorney-General of a State if he or she or the State is a party to the cause.
 
-             (4)  The Attorney‑General may authorize the payment by the Commonwealth to a party of an amount in respect of costs arising out of the adjournment of a cause by reason of this section.
+             (4)  The Attorney-General may authorize the payment by the Commonwealth to a party of an amount in respect of costs arising out of the adjournment of a cause by reason of this section.
 
              (5)  Nothing in subsection (1) prevents a court from proceeding without delay to hear and determine proceedings, so far as they relate to the grant of urgent relief of an interlocutory nature, where the court thinks it necessary in the interests of justice to do so.
 
@@ -2383,7 +2417,7 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
                      (a)  as if a reference to a legislative instrument were a reference to a rule of court; and
 
-                     (b)  as if a reference to a rule‑maker were a reference to the Chief Justice acting on behalf of the Justices of the Court; and
+                     (b)  as if a reference to a rule-maker were a reference to the Chief Justice acting on behalf of the Justices of the Court; and
 
                      (c)  subject to such further modifications or adaptations as are provided for in regulations made under paragraph 88(cb) of this Act.
 
@@ -2391,7 +2425,7 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
 ##### <a id="88"></a>88  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2665,7 +2699,7 @@ All other relevant information pertaining to application, saving or transitional
     <div>8 Apr 1927</div>
   </td>
   <td>
-    <div>2 Sept 1929 ( <i>see Gazette</i>1929, p. 1854)</div>
+    <div>2 Sept 1929 ( <i>see Gazette</i>1929, p. 1854)</div>
   </td>
   <td>
     <div>—</div>
@@ -3388,7 +3422,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
   </td>
   <td>
     <div>—</div>
@@ -3413,7 +3447,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</di
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -3458,9 +3492,9 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</di
   </td>
   <td>
     <div>S. 10: 30 June 1990 
-Parts 5–7 (ss. 17–35): 28 July 1989 
-Part 8 
-(ss. 36–43): 1 July 1989 
+Parts 5–7 (ss. 17–35): 28 July 1989 
+Part 8 (ss. 
+36–43): 1 July 1989 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3662,7 +3696,7 @@ S. 24: 18 Apr 1995 ( <i>see</i>s. 2(10)) <i>(q)</i></div>
 Schedule 19 (item 23): Royal Assent <i>(r)</i></div>
   </td>
   <td>
-    <div>S. 2(2) (am. by 77, 1996, Sch. 3 \[item 1]) 
+    <div>S. 2(2) (am. by 77, 1996, Sch. 3 \[items 1]) 
 Sch. 16 (item 65)</div>
   </td>
 </tr>
@@ -4048,23 +4082,6 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>3, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6: 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     _The_ _Judiciary Amendment Act (No. 2) 1979_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows:
@@ -4073,7 +4090,7 @@ _(a)_     _The_ _Judiciary Amendment Act (No. 2) 1979_ was amended by 
 
 _(b)_     The _Judiciary Act 1903_ was amended by Part XXVI (sections 160 and 161) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Judiciary Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(12) of which provides as follows:
 
@@ -4081,7 +4098,7 @@ _(c)_     The _Judiciary Act 1903_ was amended by section 3 only of th
 
 _(d)_     The _Judiciary Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (8) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                  (8)   Section 88 of the _Judiciary Act 1903_ as enacted by this Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -4091,13 +4108,13 @@ _(e)_     The _Judiciary Act 1903_ was amended by Part X (sections 2
 
 _(f)_      The _Judiciary Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsections 2(1) and (15) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                (15)   The amendments of section 44 of the _Judiciary Act 1903_ made by this Act shall come into operation on 1 June 1984 or the day on which this Act receives the Royal Assent, whichever is the later.
 
 _(g)_     The _Judiciary Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(h)_     The _Judiciary Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(26) of which provides as follows:
 
@@ -4107,7 +4124,7 @@ _(j)_      The _Judiciary Act 1903_ was amended by section 3 only of
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(k)_     The _Judiciary Act 1903_ was amended by section 32 (in part) only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(k)_     The _Judiciary Act 1903_ was amended by section 32 (in part) only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -4441,7 +4458,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -4460,7 +4477,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -5746,7 +5763,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>S. 55</div>
+    <div>. 55</div>
   </td>
   <td>
     <div>rep. No. 138, 1979</div>
@@ -5834,14 +5851,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55E</div>
   </td>
   <td>
@@ -5877,7 +5886,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 3, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5965,7 +5974,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 3, 2011</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6018,26 +6027,10 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>S. 55S</div>
+    <div>Ss. 55S, 55T</div>
   </td>
   <td>
     <div>ad. No. 7, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55T</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7039,9 +7032,9 @@ At the commencement time, the business of the former AGS becomes the business of
 
 An officer or employee within the meaning of the _Public Service_ Act _1922_ transferred to the AGS under section 81C of that Act is to be employed on terms and conditions no less favourable than applied to the officer or employee immediately prior to his or her transfer.
 
-## 5  Attorney‑General may transfer Commonwealth assets to new AGS
+## 5  Attorney-General may transfer Commonwealth assets to new AGS
 
-(1)       The Attorney‑General may, by writing, make any or all of the following declarations:
+(1)       The Attorney-General may, by writing, make any or all of the following declarations:
 
                      (a)  a declaration that a specified asset of the Commonwealth vests in the AGS at a specified time without any conveyance, transfer or assignment;
 
@@ -7053,9 +7046,9 @@ An officer or employee within the meaning of the _Public Service_ Act _1922_ tra
 
 (3)       Subitem (1) does not prevent the Commonwealth from transferring an asset to the AGS otherwise than under that subitem.
 
-## 6  Attorney‑General may transfer Commonwealth liabilities to new AGS
+## 6  Attorney-General may transfer Commonwealth liabilities to new AGS
 
-(1)       The Attorney‑General may, by writing, make any or all of the following declarations:
+(1)       The Attorney-General may, by writing, make any or all of the following declarations:
 
                      (a)  a declaration that a specified liability ceases to be a liability of the Commonwealth and becomes a liability of the AGS at a specified time;
 
@@ -7069,7 +7062,7 @@ An officer or employee within the meaning of the _Public Service_ Act _1922_ tra
 
 ## 7  Transfer of records
 
-(1)       The Secretary to the Attorney‑General’s Department may transfer to the AGS records of the Commonwealth that relate to the functions of the AGS.
+(1)       The Secretary to the Attorney-General’s Department may transfer to the AGS records of the Commonwealth that relate to the functions of the AGS.
 
 (2)       In this item:
 
@@ -7077,7 +7070,7 @@ An officer or employee within the meaning of the _Public Service_ Act _1922_ tra
 
 ## 8  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)       The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -7233,13 +7226,13 @@ In this Part:
 
 **_liability_** includes a duty or obligation.
 
-**_non‑judicial officer_** of a court of summary jurisdiction of a State means an officer of the court who is not a magistrate, or arbitrator, of the kind described in paragraph 39(2)(d) of the _Judiciary Act 1903_ just before the commencement of this Schedule.
+**_non-judicial officer_** of a court of summary jurisdiction of a State means an officer of the court who is not a magistrate, or arbitrator, of the kind described in paragraph 39(2)(d) of the _Judiciary Act 1903_ just before the commencement of this Schedule.
 
 Note:          Just before the commencement of this Schedule, paragraph 39(2)(d) of the _Judiciary Act 1903_ referred to:
 
-(a)    Stipendiary, Police and Special Magistrates, and State Magistrates specially authorised by the Governor‑General to exercise federal jurisdiction; and
+(a)           Stipendiary, Police and Special Magistrates, and State Magistrates specially authorised by the Governor-General to exercise federal jurisdiction; and
 
-(b)    arbitrators on whom all or part of the jurisdiction of a State court of summary jurisdiction was conferred by a prescribed law of the State.
+(b)           arbitrators on whom all or part of the jurisdiction of a State court of summary jurisdiction was conferred by a prescribed law of the State.
 
 **_proceedings_** includes an initiating application.
 
@@ -7251,7 +7244,7 @@ Note:          Just before the commencement of this Schedule, 
 
 (1)       A reference in this Part to an **_ineffective order_** is a reference to a purported order described in subitem (2). This subitem has effect subject to subitem (3) as it affects the meaning of a reference to an ineffective order in the context of a particular case.
 
-(2)       An order that a non‑judicial officer of a court of summary jurisdiction of a State has purported to make is an **_ineffective order_** if:
+(2)       An order that a non-judicial officer of a court of summary jurisdiction of a State has purported to make is an **_ineffective order_** if:
 
                      (a)  the officer purported to make the order before the commencement of this Part; and
 
@@ -7259,7 +7252,7 @@ Note:          Just before the commencement of this Schedule, 
 
                      (c)  paragraph 39(2)(d) of the _Judiciary Act 1903_ prohibited the exercise by the officer of the court’s federal jurisdiction.
 
-(3)       If a court, or a non‑judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
+(3)       If a court, or a non-judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
 
 ## 9  Rights and liabilities declared in certain cases
 
@@ -7371,7 +7364,7 @@ The amendments of the _Judiciary Act 1903_ made by this Schedule apply in relati
 
 * * *
 
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
+_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
 
 ##### <a id="4"></a>4  Definition
 
