@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00929/Html/41eb1eb4-112a-4e1f-8f94-f27322227a26_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00757/Html/f2cedd13-62cd-4281-a0de-8f5cb999bb10_files/image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 2 December 2011
- taking into account amendments up to Act No. 132 of 2011
+This compilation was prepared on 16 September 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1604,6 +1604,8 @@ Note:          Section 182 gives the provisions of this Part
 
                    The court (including, if there is a jury, the jury) may draw any reasonable inference from what it sees, hears or otherwise notices during a demonstration, experiment or inspection.
 
+ 
+
 # Chapter 3—Admissibility of evidence
 
 _INTRODUCTORY NOTE_
@@ -1636,7 +1638,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2011C00929/Html/41eb1eb4-112a-4e1f-8f94-f27322227a26_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00757/Html/f2cedd13-62cd-4281-a0de-8f5cb999bb10_files/image002.gif)
 
  
 
@@ -2102,7 +2104,7 @@ _Examples:_
 
 ##### <a id="77"></a>77  Exception: evidence relevant otherwise than as opinion evidence
 
-                   The opinion rule does not apply to evidence of an opinion that is admitted because it is relevant for a purpose other than proof of the existence of a fact about the existence of which the opinion was expressed.
+                   The opinion rule does not apply to evidence of an opinion that is admitted because it is relevant for a purpose other than proof of the existence of a fact about the existence of which the opinion was expressed.
 
 ##### <a id="78"></a>78  Exception: lay opinions
 
@@ -4018,7 +4020,7 @@ Note:          Section 182 gives this Division a wider appli
 
                      (g)  in relation to evidence that a person has been convicted of an offence, being evidence to which subsection 92(2) applies—to call as a witness a person who gave evidence in the proceeding in which the person was so convicted.
 
-##### <a id="167"></a>167  Requests may be made about certain matters
+##### <a id="167"></a>167  Requests may be made about certain matters
 
                    A party may make a reasonable request to another party for the purpose of determining a question that relates to:
 
@@ -4745,7 +4747,7 @@ extend to enabling the court to make such orders as the court thinks fit (includ
 
 Note:          The NSW Act includes a provision about the consequences of a witness failing to appear when called in any civil or criminal proceedings.
 
-##### <a id="195"></a>195  Prohibited question not to be published
+##### <a id="195"></a>195  Prohibited question not to be published
 
              (1)  A person must not, without the express permission of a court, print or publish:
 
@@ -5435,7 +5437,7 @@ Royal Assent <i>(d)</i></div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 434–437): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 434–437): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5452,7 +5454,7 @@ Royal Assent <i>(d)</i></div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 24): 24 Nov 2000 <i>(f)</i></div>
+    <div>Schedule 12 (items 1, 24): 24 Nov 2000 <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5469,7 +5471,7 @@ Royal Assent <i>(d)</i></div>
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 25, 34, 35)</div>
@@ -5503,7 +5505,7 @@ Royal Assent <i>(d)</i></div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -5520,7 +5522,7 @@ Royal Assent <i>(d)</i></div>
     <div>5 July 2002</div>
   </td>
   <td>
-    <div>Schedule 6 (items 16–18): 5 Jan 2003</div>
+    <div>Schedule 6 (items 16–18): 5 Jan 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -5712,23 +5714,6 @@ Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy (Consequential Amendments) Act 2011</div>
-  </td>
-  <td>
-    <div>132, 2011</div>
-  </td>
-  <td>
-    <div>18 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 260A): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -7175,21 +7160,7 @@ Insert:
 
           (1A)  The Dictionary at the end of this Act is part of this Act.
 
-As at 2 December 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 260A  Part 1 of the Dictionary (subparagraph (b)(vi) of the definition of _Commonwealth document_)
-
-After “section 46”, insert “or 46A”.
-
-As at 2 December 2011 the amendment is not incorporated in this compilation.
+As at 16 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
