@@ -1,68 +1,71 @@
-![](http://www.comlaw.gov.au/Details/C2008C00186/Html/PetroleumExcisePrices1987_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00422/Html/B9F2AB276D17A5B0CA2571A80022E355/$FILE/image001.gif)
 
 # Petroleum Excise (Prices) Act 1987
 
 **Act No. 149 of 1987 as amended**
 
-This compilation was prepared on 1 July 2008
- taking into account amendments up to Act No. 74 of 2006
+This compilation was prepared on 10 July 2006
+taking into account amendments up to Act No. 74 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Incorporation
+[3](#3).            Incorporation                                                                                       1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       1
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                       4
 
 **Part II—Determination of prices**
 
-[6](#6).            Oil producers to give certain information
+[6](#6).            Oil producers to give certain information                                            5
 
-[7](#7).            Minister etc  to determine VOLWARE prices
+[7](#7).            Minister etc  to determine VOLWARE prices                                    7
 
-[8](#8).            Notification of prices
+[8](#8).            Notification of prices                                                                         10
 
 **Part III—Miscellaneous**
 
-[9](#9).            Inspection of documents
+[9](#9).            Inspection of documents                                                                   11
 
-[10](#10).          Obtaining of information and evidence
+[10](#10).          Obtaining of information and evidence                                              11
 
-[11](#11).          Conduct by directors, servants or agents
+[11](#11).          Conduct by directors, servants or agents                                          13
 
-[12](#12).          Review of certain decisions
+[12](#12).          Review of certain decisions                                                               14
 
-[13](#13).          Statements to accompany notification of reviewable decisions
+[13](#13).          Statements to accompany notification of reviewable decisions        15
 
-[14](#14).          Regulations
+[14](#14).          Regulations                                                                                        15
 
 **Notes** 
+
 
 ## An Act to establish prices in relation to which Duties of Excise are to be imposed on certain crude petroleum oil, and for related purposes
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Petroleum Excise (Prices) Act 1987_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -86,7 +89,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  if that oil is obtained from an oil producing region that is located, in whole or in part, on the landward side of the outer limits of the territorial sea of Australia—is the holder of a lease or licence (however described) authorising the obtaining of that oil or a part of that oil, being a lease or licence that is issued under the appropriate law of a State or Territory in which, or in the territorial sea adjacent to which, that region, or a part of that region, is located; or
 
-                     (b)  if that oil is obtained from an oil producing region that is located, in whole or in part, beyond the outer limits of the territorial sea of Australia—is a production licensee within the meaning of the _Offshore Petroleum Act 2006_.
+                     (b)  if that oil is obtained from an oil producing region that is located, in whole or in part, beyond the outer limits of the territorial sea of Australia—is a licensee within the meaning of the _Petroleum (Submerged Lands) Act 1967_.
 
                     <a name="oil-produc-region"></a>**_oil producing region_** means:
 
@@ -376,6 +379,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
+
 # Notes to the _Petroleum Excise (Prices) Act 1987_
 
 ### Note 1
@@ -402,11 +406,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -416,166 +422,171 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Petroleum Excise (Prices) Act 1987</div>
-  </td>
-  <td>
-    <div>149, 1987</div>
-  </td>
-  <td>
-    <div>26 Dec 1987</div>
-  </td>
-  <td>
-    <div>26 Dec 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum Excise (Prices) Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>115, 1988</div>
-  </td>
-  <td>
-    <div>12 Dec 1988</div>
-  </td>
-  <td>
-    <div>12 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum Excise (Prices) Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>114, 1990</div>
-  </td>
-  <td>
-    <div>21 Dec 1990</div>
-  </td>
-  <td>
-    <div>26 Dec 1987</div>
-  </td>
-  <td>
-    <div>S. 3(2)–(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum Excise (Prices) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>79, 1997</div>
-  </td>
-  <td>
-    <div>18 June 1997</div>
-  </td>
-  <td>
-    <div>1 July 1997</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 731): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>140, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>17, 2006</div>
-  </td>
-  <td>
-    <div>29 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 72): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>74, 2006</div>
-  </td>
-  <td>
-    <div>26 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 95): 1 July 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Petroleum Excise (Prices) Act 1987</div>
+    </td>
+    <td>
+      <div>149, 1987</div>
+    </td>
+    <td>
+      <div>26 Dec 1987</div>
+    </td>
+    <td>
+      <div>26 Dec 1987</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Petroleum Excise (Prices) Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>115, 1988</div>
+    </td>
+    <td>
+      <div>12 Dec 1988</div>
+    </td>
+    <td>
+      <div>12 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Petroleum Excise (Prices) Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>114, 1990</div>
+    </td>
+    <td>
+      <div>21 Dec 1990</div>
+    </td>
+    <td>
+      <div>26 Dec 1987</div>
+    </td>
+    <td>
+      <div>S. 3(2)–(4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Petroleum Excise (Prices) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>79, 1997</div>
+    </td>
+    <td>
+      <div>18 June 1997</div>
+    </td>
+    <td>
+      <div>1 July 1997</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 11) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 731): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>140, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>2 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>17, 2006</div>
+    </td>
+    <td>
+      <div>29 Mar 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 72): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Excise Laws Amendment (Fuel Tax Reform and Other Measures) Act 2006</div>
+    </td>
+    <td>
+      <div>74, 2006</div>
+    </td>
+    <td>
+      <div>26 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 95): 1 July 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedule 1 (Item 731) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
+
 
 ## Table of Amendments
 
@@ -600,70 +611,90 @@ _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedu
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; Nos. 17 and 74, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 79, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 79, 1997; No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1990; No. 79, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 79, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 115, 1988; No. 137, 2000; No. 140, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; No. 74, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 140, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 79, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 79, 1997; No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1990; No. 79, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 79, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 115, 1988; No. 137, 2000; No. 140, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+(No. 17, 2006)
+_
+
+The following amendment commences on proclamation:
+
+## Schedule 2
+
+## 72  Subsection 4(1) (paragraph (b) of the definition of _oil producer_)
+
+Omit “licensee within the meaning of the _Petroleum (Submerged Lands) Act 1967_”, substitute “production licensee within the meaning of the _Offshore Petroleum Act 2006_”.
+
+As at 10 July 2006 the amendment is not incorporated in this compilation.
+
 
 ## Table A
 
@@ -683,7 +714,9 @@ _Petroleum Excise (Prices) Amendment Act 1997 (No. 79, 1997)_
 
                     <a name="month"></a><a name="oil-produc-region"></a><a name="excis-crude-petroleum-oil"></a>**_excisable crude petroleum oil_**, **_oil producing region_** and **_month_** have the same meanings as in subsection 4(1) of the _Petroleum Excise (Prices) Act 1987_ as in force immediately before the commencement day.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
@@ -715,7 +748,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Industry, Science and Resources Legislation Amendment (Application of Criminal Code) Act 2001 (No. 140, 2001)_
 
@@ -724,5 +759,6 @@ _Industry, Science and Resources Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
