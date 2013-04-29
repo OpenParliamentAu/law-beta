@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00755/Html/29e42d6f-47a6-4317-941a-d8226ea02830_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00794/Html/f1a9899f-5263-4c0e-aea1-47c22f91fce8_files/image001.gif)
 
 # Human Services (Medicare) Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 29 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 September 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -129,7 +130,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 6—Miscellaneous**
 
-[8ZN](#8ZN).       Patients to be advised of search, seizure etc  of clinical records
+[8ZN](#8ZN).       Patients to be advised of search, seizure etc  of clinical 
+ records
 
 [8ZO](#8ZO).       Offence for making false statements in warrants
 
@@ -151,7 +153,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [41G](#41G).       Medicare programs
 
-[42](#42).          Annual report
+[42](#42).          Chief Executive Officer’s annual report
 
 [43](#43).          Arrangements with States and Territories—magistrates
 
@@ -353,13 +355,23 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
                              (ii)  is, for any reason, unable to perform the duties of the position.
 
-Note:          For rules that apply to acting appointments, see sections 33AB and 33A of the _Acts Interpretation Act 1901_.
-
              (2)  A person must not be appointed under subsection (1) if the person is, or is acting as:
 
                      (a)  the Chief Executive Centrelink; or
 
                      (b)  the Child Support Registrar.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="5"></a>5  Functions of Chief Executive Medicare
 
@@ -1405,7 +1417,7 @@ is guilty of an offence against this section.
 
                      (b)  services, benefits, programs or facilities specified in a legislative instrument made by the Minister for the purposes of this paragraph.
 
-##### <a id="42"></a>42  Annual report
+##### <a id="42"></a>42  Chief Executive Officer’s annual report
 
              (1)  The annual report on the Department’s activities given by the Secretary under section 63 of the _Public Service Act 1999_ must include:
 
@@ -1537,7 +1549,7 @@ Definitions
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Human Services (Medicare) Act 1973_
+# Notes to the_ Human Services (Medicare) Act 1973_
 
 ### Note 1
 
@@ -1974,7 +1986,7 @@ S. 13: Royal Assent <i>(g)</i></div>
     <div>21 July 1994</div>
   </td>
   <td>
-    <div>S. 2 (rep. by 19, 1996, Sch. 1 \[item 1])</div>
+    <div>S. 2 (rep. by 19, 1996, Sch. 1 \[item 1])</div>
   </td>
 </tr>
 <tr>
@@ -2059,7 +2071,7 @@ S. 13: Royal Assent <i>(g)</i></div>
     <div>Schedule 1 (items 62–68) and Schedule 2 (item 15): Royal Assent <i>(i)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 68) (rep. by 19, 1996, Sch. 1 \[item 2])</div>
+    <div>Sch. 1 (item 68) (rep. by 19, 1996, Sch. 1 \[item 2])</div>
   </td>
 </tr>
 <tr>
@@ -2633,7 +2645,7 @@ Remainder: Royal Assent</div>
     <div>25 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6–17): 26 June 2008 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 6–17): 26 June 2008 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2650,7 +2662,7 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (items 9–18): 1 July 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 9–18): 1 July 2010 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2667,7 +2679,7 @@ Remainder: Royal Assent</div>
     <div>23 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (item 29): 1 Dec 2010</div>
+    <div>Schedule 6 (item 29): 1 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2689,23 +2701,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 88–99A, 101–116) \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 68) and Schedule 4 (items 19, 20, 50): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 50) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3235,22 +3230,6 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
   </td>
   <td colspan="2">
     <div>rs. No. 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4A(1)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5683,7 +5662,7 @@ Part IID</div>
     <div>Heading to s. 42</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005; No. 136, 2012</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6241,15 +6220,5 @@ the Commonwealth must pay that person:
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
 (2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 4
-
-## 50  Saving—appointments
-
-The amendments made by this Part do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
  
