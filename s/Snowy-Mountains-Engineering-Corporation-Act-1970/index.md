@@ -1,9 +1,6 @@
-
 Snowy Mountains Engineering Corporation Act 1970 
-Act No. 39 of 1970 as amended
-Consolidated as in force on 20 January 1998
-(includes amendments up to Act No. 39 of 1997)
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
+REPRINT No. 4
+Consolidated to 11 June 1997
 Contents
 Part I—Preliminary	
 1	Short title [see Note 1]	
@@ -34,8 +31,8 @@ Part VC—Taxation Matters
 39M	Interpretation	
 39N	Exemptions relating to exempt matters	
 39P	Authorised person may certify in relation to exemptions	
-39Q	SMEC taken to have had share capital for purposes of Income Tax Assessment Act	
-Part VII—Miscellaneous	
+39Q	SMEC taken to have had share capital for purposes of Income Tax Assessment Act [see Note 2]	
+Part VII—Mlscellaneous	
 51	SMEC not public authority etc.	
 52	Judicial notice of SMEC’s seal	
 53	Compensation for acquisition of property	
@@ -51,20 +48,20 @@ This Act may be cited as the Snowy Mountains Engineering Corporation Act 1970.
 This Act shall come into operation on the day on which it receives the Royal Assent.
 3  Interpretation
 In this Act, unless the contrary intention appears:
-articles means articles of association.
-Australia includes the external Territories.
+articles means articles of association;
+Australia includes the external Territories;
 authorised person means:
 	(a)	the Minister; or
-	(b)	the holder of an authorising office.
-authorising office means an office, in the Department, which is declared by writing signed by the Minister to be an authorising office for the purposes of this definition.
-employment, in relation to a staff member, means employment by, or service with, SMEC.
-member, in relation to SMEC at any time before the transition, includes a Director.
-memorandum means memorandum of association.
-SMEC means the body corporate that, at the commencement of this section, exists, because of this Act, under the name Snowy Mountains Engineering Corporation.
-share, in relation to SMEC, means a share in the share capital of SMEC.
+	(b)	the holder of an authorising office;
+authorising office means an office, in the Department, which is declared by writing signed by the Minister to be an authorising office for the purposes of this definition;
+employment, in relation to a staff member, means employment by, or service with, SMEC;
+member, in relation to SMEC at any time before the transition, includes a Director;
+memorandum means memorandum of association;
+SMEC means the body corporate that, at the commencement of this section, exists, because of this Act, under the name Snowy Mountains Engineering Corporation;
+share, in relation to SMEC, means a share in the share capital of SMEC;
 staff member means a person who, immediately before the transition, is:
 	(a)	the Managing Director of SMEC; or
-	(b)	an officer or employee of SMEC.
+	(b)	an officer or employee of SMEC;
 transition means the commencement of Part IV, being the Part substituted by section 12 of the Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989.
 3C  Operation of Act
 This Act applies both within and outside Australia.
@@ -178,7 +175,7 @@ Sections 39G and 39H are enacted only for the avoidance of doubt and, in particu
 	(a)	in accordance with those terms and conditions; or
 	(b)	by or under a law, award, determination or agreement.
 	(3)	In this section:
-terms and conditions includes a term or condition existing because of subsection (1).
+terms and conditions includes a term or condition existing because of subsection (1);
 vary, in relation to terms and conditions, includes vary by way of:
 	(a)	omitting any of those terms and conditions;
 	(b)	adding to those terms and conditions; or
@@ -193,7 +190,7 @@ exempt matter means:
 	(c)	the change of name made by subsection 18D(1);
 	(d)	SMEC’s registration as a company by force of this Act;
 	(e)	the operation of this Act; or
-	(f)	giving effect to a matter referred to in another paragraph of this definition or otherwise giving effect to this Act.
+	(f)	giving effect to a matter referred to in another paragraph of this definition or otherwise giving effect to this Act;
 tax includes:
 	(a)	sales tax;
 	(b)	tax imposed by the Debits Tax Act 1982;
@@ -210,9 +207,9 @@ Tax under a law of the Commonwealth or a State or Territory is not payable in re
 	(a)	a specified matter or thing is an exempt matter; or
 	(b)	a specified thing was done (including, for example, a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, a specified exempt matter.
 	(2)	For all purposes and in all proceedings, a certificate under subsection (1) is conclusive evidence of the matters certified, unless the contrary is established.
-39Q  SMEC taken to have had share capital for purposes of Income Tax Assessment Act 
-For the purposes of the Income Tax Assessment Act 1936 and the Income Tax Assessment Act 1997, SMEC shall be taken to have had, at all times before it complied with subsection 18B(2) of this Act, a share capital, all the issued shares in which were, at all such times, beneficially owned by the Commonwealth.
-Part VII—Miscellaneous
+39Q  SMEC taken to have had share capital for purposes of Income Tax Assessment Act [see Note 2]
+For the purposes of the Income Tax Assessment Act 1936, SMEC shall be taken to have had, at all times before it complied with subsection 18B(2) of this Act, a share capital, all the issued shares in which were, at all such times, beneficially owned by the Commonwealth.
+Part VII—Mlscellaneous
 Do not delete : Division placeholder
 51  SMEC not public authority etc.
 SMEC, as it exists after the transition, shall be taken for the purposes of a law of the Commonwealth or a State or Territory:
@@ -232,7 +229,7 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
 
-NOTE
+NOTES
 1. 	The Snowy Mountains Engineering Corporation Act 1970 as shown in this reprint comprises Act No. 39, 1970 amended as indicated in the Tables below.
 Table of Acts
 
@@ -305,7 +302,7 @@ Schedule 2 (item 98): (d)
 Income Tax (Consequential Amendments) Act 1997
 39, 1997
 17 Apr 1997
-Schedule 3 (item 112):  (e)
+Schedule 3 (item 112): [see (e) and Note 2]
 —
 
 (a)	The Salaries Act 1971 was repealed by section 7 of the Statute Law Revision Act 1973. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.
@@ -317,8 +314,7 @@ Schedule 3 (item 112):  (e)
 	“(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.”
 	Item 98 is taken to have commenced immediately after the commencement of section 44 of the Snowy Mountains Engineering Corporation Limited Sale Act 1993.
 	Section 44 commenced on 9 November 1993 (see Gazette 1993, No. S334).
-(e)	The Snowy Mountains Engineering Corporation Act 1970 was amended by Schedule 3 (item 112) only of the Income Tax (Consequential Amendments) Act 1997, section 2 of which provides as follows:	
-	“2.	This Act commences on 1 July 1997.” 
+(e)	The Snowy Mountains Engineering Corporation Act 1970 was amended by Schedule 3 (item 112) only of the Income Tax (Consequential Amendments) Act 1997, section 2 of which provides as follows:	“2.	This Act commences on 1 July 1997.” [see Note 2]
 
 Table of Amendments
 
@@ -451,7 +447,7 @@ rs. No. 101, 1985
 am. No. 123, 1988
 
 rep. No. 66, 1989
-Ss. 34, 35	
+ Ss. 34, 35	
 rs. No. 101, 1985; No. 123, 1988
 
 rep. No. 66, 1989
@@ -493,7 +489,7 @@ Part VC 	 (ss. 39M-39Q)
 ad. No. 66, 1989
 Ss. 39M-39Q	
 ad. No. 66, 1989
-Part VI 	 (ss. 35-37, 39, 40)
+Part VI 	 (ss. 35-37, 39,~ 40)
 rep. No. 101, 1985
 Part VI 	 (ss. 40-50)
 ad. No. 101, 1985
@@ -513,8 +509,6 @@ S. 38
 rep. No. 216, 1973
 S. 39	
 rep. No. 101, 1985
-S. 39Q	
-am. No. 39, 1997
 S. 40	
 rs. No. 101, 1985
 
@@ -534,7 +528,7 @@ ad. No. 76, 1986
 
 rep. No. 66, 1989
 S. 45	
-ad. No. 101, 1985
+ ad. No. 101, 1985
 
 am. No. 76, 1986
 
@@ -549,7 +543,7 @@ Ss. 51, 52
 ad. No. 101, 1985
 
 rs. No. 66, 1989
-S. 52A	
+ S. 52A	
 ad. No. 123, 1988
 
 rep. No. 66, 1989
@@ -570,4 +564,11 @@ rep. No. 54, 1993
 S. 55	
 ad. No. 101, 1985 
 
+2.	The Snowy Mountains Engineering Corporation Act 1970 was amended by Schedule 3 (item 112) only of the Income Tax (Consequential Amendments) Act 1997. The applicable provisions provide as follows:
+SCHEDULE 3
+112  Section 39Q
+After “Income Tax Assessment Act 1936”, insert “and the Income Tax Assessment Act 1997”.
+	Section 2 of the Income Tax (Consequential Amendments) Act 1997 provides as follows:
+	“2.	This Act commences on 1 July 1997.”
+As at 11 June 1997 the amendment is not incorporated in this reprint.
 
