@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00400/Html/478057e5-0dbb-427a-a27f-c013b9d41430_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00186/Html/51e870cf-675e-42f0-88f7-aa9850ac65b1_files/image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 30 January 2012
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -1971,7 +1971,7 @@ The Parliament of Australia enacts:
 
              (2)  Each provision of this Act applies, according to its tenor, in relation to acts and omissions outside this jurisdiction.
 
-##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
+##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
 
                    Each provision of this Act applies according to its tenor to:
 
@@ -3071,7 +3071,7 @@ Note 2:       For abbreviations that can be used on a seal, see sect
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
+##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
 
 Application of section
 
@@ -5012,7 +5012,7 @@ Name is available unless identical or unacceptable
 
                             (iv)  reserved for a company under section 152 of the Corporations Act; or
 
-                     (b)  identical (under rules set out in the regulations) to a name that is held or registered on the Business Names Register in respect of another individual or body who is not the person applying to have the name; or
+                     (b)  identical (under rules set out in the regulations) to a name that is included on the national business names register in respect of another individual or body who is not the person applying to have the name; or
 
                      (c)  unacceptable for registration under the regulations.
 
@@ -5030,7 +5030,7 @@ Registrar may consent to a name being available
 
                             (iv)  reserved for a company under section 152 of the Corporations Act; or
 
-                             (v)  that is held or registered on Business Names Register; or
+                             (v)  that is included on the national business names register; or
 
                      (b)  unacceptable for registration under the regulations.
 
@@ -8243,7 +8243,7 @@ Note:          For the meaning of **_chief executive officer_*
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
+##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
 
                    An Aboriginal and Torres Strait Islander corporation may appoint a person as a director by resolution passed in general meeting.
 
@@ -8637,7 +8637,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
                     Penalty:  10 penalty units.
 
-##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
+##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
 
              (1)  An act done by a secretary is effective even if his or her appointment, or the continuance of his or her appointment, is invalid because the Aboriginal and Torres Strait Islander corporation or secretary did not comply with the corporation’s constitution or any provision of this Act.
 
@@ -9957,7 +9957,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The corporation must lodge a notice setting out the text of the resolution within 28 days after the resolution is passed.
 
-##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
+##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
 
              (1)  The Court may declare that the conditions provided for in this Division have been satisfied if it finds that they have been substantially satisfied.
 
@@ -10249,7 +10249,7 @@ Note:          For the criteria for making determinations unde
 
 ##### <a id="310‑10"></a>310‑10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
 ##### <a id="310‑15"></a>310‑15  Registrar’s power to make determinations
 
@@ -11461,7 +11461,7 @@ The Corporations Act auditor independence provisions apply with the modification
 
 #### Subdivision 339‑E—Auditor’s powers and duties
 
-##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
+##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
 
                    The auditor:
 
@@ -13147,7 +13147,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ### Division 450—Purposes for which powers under this Part may be exercised
 
-##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
+##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
 
                    A power conferred by this Part may only be exercised:
 
@@ -18217,7 +18217,7 @@ except so far as such a duty or right would, but for the effect of section 628
 
              (2)  Without limiting subsection (1), the regulations may make provision prescribing penalties not exceeding 50 penalty units for contraventions of the regulations.
 
-##### <a id="633‑5"></a>633‑5  Regulations concerning registered native title bodies corporate
+##### <a id="633‑5"></a>633‑5  Regulations concerning registered native title bodies corporate
 
 Regulations concerning registered native title bodies corporate generally
 
@@ -19363,8 +19363,6 @@ however compiled, recorded or stored.
 
                     <a name="busi-judgment"></a>**_business judgment_** has the meaning given by subsection 265‑1(3).
 
-                    <a name="busi-name-regist"></a>**_Business Names Register_** means the Register established and maintained under section 22 of the _Business Names Registration Act 2011._
-
                     <a name="caus"></a>**_cause_** includes procure.
 
                     <a name="certifi"></a>**_certified_** means:
@@ -19632,6 +19630,8 @@ Otherwise, entity has the meaning given by section 694‑40.
                     <a name="monei"></a>**_money_** includes a payment order.
 
                     <a name="name-requir"></a>**_name requirement_** means a requirement under section 85‑1.
+
+                    <a name="nation-busi-name-regist"></a>**_national business names register_** means the record or records of information identified in a notice under subsection 147(5) of the Corporations Act.
 
                     <a name="nation-newspap"></a>**_national newspaper_** means a daily newspaper that circulates generally in each State and each internal Territory.
 
@@ -20054,7 +20054,7 @@ of Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 10–13): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 10–13): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -20281,30 +20281,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3‑4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 85</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85-5</div>
-  </td>
-  <td>
-    <div>am. No. 127, 2011</div>
   </td>
 </tr>
 <tr>
@@ -20888,9 +20864,37 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 700‑1</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; Nos. 24, 46 and 127, 2011</div>
+    <div>am. No. 144, 2008; Nos. 24 and 46, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 10  Paragraph 85‑5(1)(b)
+
+Omit “included on the national business names register”, substitute “held or registered on the Business Names Register”.
+
+## 11  Subparagraph 85‑5(2)(a)(v)
+
+Omit “included on the national business names register”, substitute “held or registered on Business Names Register”.
+
+## 12  Section 700‑1
+
+Insert:
+
+                    <a name="busi-name-regist"></a>**_Business Names Register_** means the Register established and maintained under section 22 of the _Business Names Registration Act 2011._
+
+## 13  Section 700‑1 (definition of _national business names register_)
+
+Repeal the definition.
+
+As at 30 January 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
