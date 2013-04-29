@@ -1,7 +1,7 @@
 
 Nuclear Non‑Proliferation (Safeguards) Act 1987 
 Act No. 8 of 1987 as amended
-This compilation was prepared on 26 May 2001 taking into account amendments up to Act No. 35 of 2001
+This compilation was prepared on 31 March 2001 taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -15,10 +15,9 @@ Part I—Preliminary	1
 4	Interpretation	1
 4A	Supplementary Agency Agreements	9
 5	Conduct by directors, servants or agents	9
-6	Act to extend to external Territories	10
+6	Act to extend to external Territories	11
 7	Act to bind Crown	11
 8	Application of Act	11
-8A	Application of the Criminal Code	13
 Part II—Control of nuclear material and associated items	14
 9	Nuclear material to which this Part applies	14
 10	Associated items to which this Part applies	14
@@ -40,75 +39,74 @@ Division 1—General offences	28
 24	Special provisions for carriers	29
 25	Breach of condition of permit or authority etc.	30
 26	Unauthorised communication of information	30
-27	Minister to be given certain notices in respect of exempt nuclear material	32
+27	Minister to be given certain notices in respect of exempt nuclear material	31
 28	Interference with containment or surveillance devices	32
-29	Information in relation to design for construction or modification of nuclear facility	33
-30	False or misleading statements etc.	34
+29	Information in relation to design for construction or modification of nuclear facility	32
+30	False or misleading statements etc.	33
 31	Obstruction of Agency inspector	34
-Division 2—Offences relating to the Physical Protection Convention	36
-32	Interpretation	36
-33	Stealing nuclear material	36
-34	Demanding nuclear material by threats etc.	36
-35	Use of nuclear material causing injury to persons or damage to property	36
-36	Threat to use nuclear material	36
-37	Threat to commit offence	37
-38	Extension of application of offence provisions	37
-Division 3—Miscellaneous	39
-39	Forfeiture	39
-40	Hearing in camera etc.	39
-41	Register of Permit and Authority Holders to be evidence of certain matters	40
-Part IV—Administration	42
-Division 1—Director of Safeguards	42
-42	Director of Safeguards	42
-43	Functions of Director	42
-44	Directions of Minister	43
-45	Remuneration and allowances	43
-46	Leave of absence	43
-47	Resignation	43
-48	Termination of appointment	43
-49	Disclosure of interests	44
-50	Acting Director	44
-51	Annual report by Director	45
-52	Additional reports	46
-53	Delegation by Director	46
-Division 2—Australian Safeguards Office	47
-54	Australian Safeguards Office	47
-55	Staff	47
-56	Engagements of consultants etc.	47
-Division 3—Inspectors and Agency inspectors	48
-57	Inspectors and Agency inspectors	48
-58	Identity cards	48
-Division 4—Inspections, searches and seizures	49
-59	Safeguards inspections by inspectors	49
-60	Safeguards inspections by Agency inspectors	51
-61	Offence‑related searches and seizures	52
-62	Warrants may be granted by telephone	55
-63	Emergency searches and seizures	56
-64	Inspectors and Agency inspectors to produce evidence of identity	57
-65	Persons to assist inspectors	58
-66	Inspector may require information etc.	58
-67	Seizure of nuclear material etc. where required by prescribed international agreement	59
-Division 5—Miscellaneous	62
-68	Compliance with conditions etc.	62
-69	Register of Permit and Authority Holders to be kept	63
-Part IVA—Charges	64
-69A	Charge—producers of uranium ore concentrates	64
-69B	Extension of time to pay	64
-69C	Payment by instalments	64
-Part V—Miscellaneous	65
-70	Powers to be exercised in accordance with international agreements	65
-71	Reports etc. to be confidential	65
-72	Delegation by Minister	66
-73	Orders and directions	68
+Division 2—Offences relating to the Physical Protection Convention	35
+32	Interpretation	35
+33	Stealing nuclear material	35
+34	Demanding nuclear material by threats etc.	35
+35	Use of nuclear material causing injury to persons or damage to property	35
+36	Threat to use nuclear material	35
+37	Threat to commit offence	36
+38	Extension of application of offence provisions	36
+Division 3—Miscellaneous	38
+39	Forfeiture	38
+40	Hearing in camera etc.	38
+41	Register of Permit and Authority Holders to be evidence of certain matters	39
+Part IV—Administration	41
+Division 1—Director of Safeguards	41
+42	Director of Safeguards	41
+43	Functions of Director	41
+44	Directions of Minister	42
+45	Remuneration and allowances	42
+46	Leave of absence	42
+47	Resignation	42
+48	Termination of appointment	42
+49	Disclosure of interests	43
+50	Acting Director	43
+51	Annual report by Director	44
+52	Additional reports	45
+53	Delegation by Director	45
+Division 2—Australian Safeguards Office	46
+54	Australian Safeguards Office	46
+55	Staff	46
+56	Engagements of consultants etc.	46
+Division 3—Inspectors and Agency inspectors	47
+57	Inspectors and Agency inspectors	47
+58	Identity cards	47
+Division 4—Inspections, searches and seizures	48
+59	Safeguards inspections by inspectors	48
+60	Safeguards inspections by Agency inspectors	50
+61	Offence‑related searches and seizures	51
+62	Warrants may be granted by telephone	54
+63	Emergency searches and seizures	55
+64	Inspectors and Agency inspectors to produce evidence of identity	56
+65	Persons to assist inspectors	57
+66	Inspector may require information etc.	57
+67	Seizure of nuclear material etc. where required by prescribed international agreement	58
+Division 5—Miscellaneous	61
+68	Compliance with conditions etc.	61
+69	Register of Permit and Authority Holders to be kept	62
+Part IVA—Charges	63
+69A	Charge—producers of uranium ore concentrates	63
+69B	Extension of time to pay	63
+69C	Payment by instalments	63
+Part V—Miscellaneous	64
+70	Powers to be exercised in accordance with international agreements	64
+71	Reports etc. to be confidential	64
+72	Delegation by Minister	65
+73	Orders and directions	67
 74	Regulations	69
-Schedule 1—Article XX of the Statute of the International Atomic Energy Agency	71
-Definitions	71
-Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons	72
-Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons	78
-Schedule 4—Convention on the physical protection of nuclear material	114
+Schedule 1—Article XX of the Statute of the International Atomic Energy Agency	70
+Definitions	70
+Schedule 2—Treaty on the Non‑Proliferation of Nuclear Weapons	71
+Schedule 3—Agreement between Australia and the International Atomic Energy Agency for the application of safeguards in connection with the Treaty on the Non‑Proliferation of Nuclear Weapons	77
+Schedule 4—Convention on the physical protection of nuclear material	113
 Schedule 5—Prescribed international agreements	126
 Notes to the Nuclear Non-Proliferation (Safeguards) Act 1987	129
-4	Application of amendments	135
 An Act to make provision in relation to the non‑proliferation of nuclear weapons and to establish, in accordance with certain international treaties and agreements to which Australia is a party, a system for the imposition and maintenance of nuclear safeguards in Australia, and for related matters
 Part I—Preliminary
   
@@ -200,8 +198,8 @@ nuclear fuel cycle has the same meaning as it has when used in the Agency Agreem
 nuclear material has the same meaning as in the Agency Agreement.
 offence against this Act includes:
 	(a)	an offence against the regulations;
-	(b)	an offence against section 6 of the Crimes Act 1914 in relation to an offence against this Act or the regulations; and
-	(c)	an offence against section 11.1, 11.4 or 11.5 of the Criminal Code in relation to an offence against this Act or the regulations.
+	(b)	an offence against section 6, 7 or 7A of the Crimes Act 1914 in relation to an offence against this Act or the regulations; and
+	(c)	an offence against subsection 86(1) of the Crimes Act 1914 by virtue of paragraph (a) of that subsection, being an offence in relation to an offence against this Act or the regulations.
 permit means a permit granted under section 13 or 16.
 Physical Protection Convention  means the Convention on the Physical Protection of Nuclear Material, being the Convention which was signed on behalf of Australia on 22 February 1984, a copy of the English text of which is set out in Schedule 4, and, subject to subsection (3), includes that Convention as amended from time to time.
 prescribed authority of the Commonwealth means an authority of the Commonwealth prescribed by the regulations for the purposes of this definition.
@@ -293,9 +291,6 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 foreign corporation has the same meaning as in paragraph 51(xx) of the Constitution.
 postal, telegraphic, telephonic or a like service has the same meaning as in paragraph 51(v) of the Constitution.
 trading corporation means a trading corporation, within the meaning of paragraph 51(xx) of the Constitution, formed within the limits of the Commonwealth.
-8A  Application of the Criminal Code
-		Chapter 2 (other than Part 2.5) of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Control of nuclear material and associated items
   
@@ -500,20 +495,12 @@ in the course of the performance of a function or duty, or the exercise of a pow
 	(b)	the carrier did not, at the time of the possession, hold a permit under section 13 or 16 that authorised the carrier to possess the material or item, as the case may be;
 the carrier is not guilty of an offence against section 23 by reason of possessing the material or item without such a permit unless it is proved that the carrier knew, at that time, that the material or item was nuclear material or an associated item, as the case requires.
 25  Breach of condition of permit or authority etc.
-	(1)	A person is guilty of an offence if:
-	(a)	the person engages in conduct; and
-	(b)	the conduct:
-	(i)	contravenes a condition, or fails to observe a restriction, subject to which a permit or authority is granted; or
-	(ii)	contravenes a direction given or an order made under section 73.
-Penalty:
-	(a)	if the offender is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
-	(b)	if the offender is a body corporate—a fine not exceeding $25,000.
-	(1A)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (1A). See subsection 13.3(3) of the Criminal Code.
-	(1B)	In subsection (1):
-engage in conduct means:
-	(a)	do an act; or
-	(b)	omit to perform an act.
+	(1)	A person who, without reasonable excuse:
+	(a)	contravenes a condition, or fails to observe a restriction, subject to which a permit or authority is granted; or
+	(b)	contravenes a direction given or an order made under section 73;
+is guilty of an offence against this subsection punishable, upon conviction, by:
+	(c)	if the offender is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(d)	if the offender is a body corporate—a fine not exceeding $25,000.
 	(2)	Subsection (1) extends to a contravention or failure that occurs outside Australia.
 	(3)	Subsection (2) shall not be read as derogating from the effect of the Crimes at Sea Act 2000.
 26  Unauthorised communication of information
@@ -582,7 +569,7 @@ is guilty of an offence against this subsection punishable, upon conviction, by:
 	(1)	A person who obstructs or hinders an Agency inspector in the performance of a duty or function, or the exercise of a power, under this Act or the regulations is guilty of an offence against this subsection punishable, upon conviction, by:
 	(a)	if the offender is a natural person—a fine not exceeding $1,000 or imprisonment for a period not exceeding 6 months, or both; or
 	(b)	if the offender is a body corporate—a fine not exceeding $5,000.
-	(2)	Nothing in subsection (1) shall be taken to affect the operation of section 147.1 or 149.1 of the Criminal Code to or in relation to the Director or an inspector.
+	(2)	Nothing in subsection (1) shall be taken to affect the operation of section 76 of the Crimes Act 1914 to or in relation to the Director or an inspector.
 
 Division 2—Offences relating to the Physical Protection Convention
 32  Interpretation
@@ -768,8 +755,6 @@ Division 3—Inspectors and Agency inspectors
 	(1)	The Director may issue to an inspector an identity card in a form approved by the Director.
 	(2)	Where a person in possession of an identity card issued to the person under subsection (1) ceases to be an inspector, the person shall forthwith return the identity card to the Director or a person nominated by the Director.
 Penalty:	$100.
-	(3)	An offence under subsection (2) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 
 Division 4—Inspections, searches and seizures
 59  Safeguards inspections by inspectors
@@ -903,8 +888,6 @@ Penalty: $1,000 or imprisonment for 6 months, or both.
 	(2)	An inspector may request a person whom the inspector finds doing, or suspects on reasonable grounds of having done, an act of a kind in respect of which a person is required to hold a permit or authority under this Act to produce such a permit or authority or evidence of the existence and contents of such a permit or authority.
 	(3)	Where an inspector makes a request of a person under subsection (1) or (2), the inspector shall produce the inspector’s identity card for inspection by the person and, if the inspector fails to do so, the person is not obliged to comply with the request.
 	(4)	Subject to subsection (3), a person who, without reasonable excuse, fails to comply with a request made of the person by an inspector under subsection (1) or (2) is guilty of an offence against this section punishable, on conviction, by a fine not exceeding $1,000.
-	(5)	An offence under subsection (4) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 67  Seizure of nuclear material etc. where required by prescribed international agreement
 	(1)	Where:
 	(a)	a person (in this section referred to as the relevant person) has possession of nuclear material or an associated item; and
@@ -1677,8 +1660,11 @@ Article 18
 	(d)	Such an organization shall not hold any vote additional to those of its Member States. 
 5.	Instruments of ratification, acceptance, approval or accession shall be deposited with the depositary.
 Article 19
-1.	This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty first instrument of ratification, acceptance or approval with the depositary.** 
+1.	This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty first instrument of ratification, acceptance or approval with the depositary.* 
 2.	For each State ratifying, accepting, approving or acceding to the Convention after the date of deposit of the twenty first instrument of ratification, acceptance or approval, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification, acceptance, approval or accession.
+
+			
+* The Convention was not in force at 31 December 1979 
 Article 20
 1.	Without prejudice to article 16 a State Party may propose amendments to this Convention. The proposed amendment shall be submitted to the depositary who shall circulate it immediately to all States Parties. If a majority of States Parties request the depositary to convene a conference to consider the proposed amendments, the depositary shall invite all States Parties to attend such a conference to begin not sooner than thirty days after the invitations are issued. Any amendment adopted at the conference by a two‑thirds majority of all States Parties shall be promptly circulated by the depositary to all States Parties.
 2.	The amendment shall enter into force for each State Party that deposits its instrument of ratification, acceptance or approval of the amendment on the thirtieth day after the date on which two thirds of the States Parties have deposited their instruments of ratification, acceptance or approval with the depositary. Thereafter, the amendment shall enter into force for any other State Party on the day on which that State Party deposits its instrument of ratification, acceptance or approval of the amendment. 
@@ -1707,7 +1693,7 @@ Levels of Physical Protection to be Applied in International Transport of Nuclea
 	(a)	For Category II and III materials, transportation shall take place under special precautions including prior arrangement among sender, receiver, and carrier, and prior agreement between natural or legal persons subject to the jurisdiction and regulation of exporting and importing States, specifying time, place and procedures for transferring transport responsibility;
 	(b)	For Category I materials, transportation shall take place under special precautions identified above for transportation of Category II and III materials, and in addition, under constant surveillance by escorts and under conditions which assure close communication with appropriate response forces; 
 	(c)	For natural uranium other than in the form of ore or ore‑residue, transportation protection for quantities exceeding 500 kilograms U shall include advance notification of shipment specifying mode of transport, expected time of arrival and confirmation of receipt of shipment.
-ANNEX II
+ANNEX II
 TABLE: CATEGORIZATION OF NUCLEAR MATERIAL
 
 
@@ -1878,13 +1864,8 @@ Sch. 2 (item 11) [see Table A]
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 299, 418, 419): [see (f), Note 2 and Table A]
 Sch. 2 (items 418, 419) [see Table A]
-Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001
-35, 2001
-28 Apr 2001
-26 May 2001
-S. 4 [see Table A]
 
 (a)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by the Schedule (Part 2) only of the Qantas Sale Act 1992, paragraph 2(3)(a) of which provides as follows:
 	(3)	A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the Gazette but only if:
@@ -1903,6 +1884,9 @@ S. 4 [see Table A]
 (e)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by Schedule 1 (items 693-695) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
+(f)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by Schedule 2 (item 299) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -1911,13 +1895,11 @@ How affected
 S. 3	
 am. No. 150, 1997
 S. 4	
-am. No. 99, 1988; No. 196, 1992; No. 3, 1995; No. 150, 1997; No. 146, 1999; No. 35, 2001
+am. No. 99, 1988; No. 196, 1992; No. 3, 1995; No. 150, 1997; No. 146, 1999
 S. 4A	
 ad. No. 150, 1997
 S. 8	
 am. No. 150, 1997
-S. 8A	
-ad. No. 35, 2001
 S. 11	
 am. No. 99, 1988; No. 3, 1995
 S. 13	
@@ -1927,11 +1909,9 @@ am. No. 134, 1990
 S. 23	
 am. No. 83, 1990; No. 13, 2000
 S. 25	
-am. No. 13, 2000; No. 35, 2001
+am. No. 13, 2000
 S. 26	
 am. No. 83, 1990
-S. 31	
-am. No. 137, 2000
 S. 38	
 am. No. 13, 2000
 S. 43	
@@ -1950,14 +1930,10 @@ S. 55
 am. No. 146, 1999
 S. 57	
 am. No. 150, 1997
-S. 58	
-am. No. 35, 2001
 S. 59	
 am. No. 150, 1997
 S. 60	
 am. No. 150, 1997
-S. 66	
-am. No. 35, 2001
 Part IVA 	 (ss. 69A‑69C)
 ad. No. 33, 1993
 Ss. 69A‑69C 	
@@ -1966,6 +1942,13 @@ S. 70
 am. No. 150, 1997
 S. 73	
 am. No. 99, 1988
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendment commences on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+299  Subsection 31(2)
+Omit “section 76 of the Crimes Act 1914”, substitute “section 147.1 or 149.1 of the Criminal Code”.
+As at 31 March 2001 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Crimes At Sea Act 2000 (No. 13, 2000)
@@ -1976,6 +1959,7 @@ Schedule 2
 (3)	For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
 
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
@@ -1990,9 +1974,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
