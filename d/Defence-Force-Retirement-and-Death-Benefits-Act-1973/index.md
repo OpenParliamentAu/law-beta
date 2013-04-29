@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image001.gif)
 
 # Defence Force Retirement and Death Benefits Act 1973
 
 **Act No. 81 of 1973 as amended**
 
-This compilation was prepared on 4 October 2007
- taking into account amendments up to Act No. 165 of 2007
+This compilation was prepared on 10 October 2005
+taking into account amendments up to Act No. 121 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -139,8 +140,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 2A—Special pensions**
 
 [43A](#43A).       Special pensions
-
-[44](#44).          Restoration of pensions for remarried widows and widowers
 
     **Division 3—Miscellaneous**
 
@@ -382,15 +381,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to make provision for and in relation to a Scheme for Retirement and Death Benefits for Members of the Defence Force
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Defence Force Retirement and Death Benefits Act 1973_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
              (1)  Subject to subsection (2), this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -482,7 +482,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fortnightli-rate-pai"></a>**_fortnightly rate of pay_**, in relation to a member of the Defence Force on a particular day, means an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image002.gif)
 
 where **_A_** is the annual rate of pay applicable to him on that day.
 
@@ -595,8 +595,8 @@ that person shall, for the purposes of sections 25, 33, 86, 87, 87A, 92 and 95
              (1)  For the purposes of the definition of **_eligible member of the Defence Force_** in subsection 3(1), a member of the Defence Force serving on continuous full-time service shall not be deemed to have ceased to be on continuous full-time service during any period that is deemed by section 6 to be a period of non-effective service in relation to the member.
 
              (2)  Where a contributing member ceases to be on continuous
- full-time service but continues to be a member of the Defence Force he shall, for the purposes of this Act, be deemed to have retired on the day on which he ceases to be on continuous
- full-time service.
+full-time service but continues to be a member of the Defence Force he shall, for the purposes of this Act, be deemed to have retired on the day on which he ceases to be on continuous
+full-time service.
 
              (3)  Where a contributing member retires and, without a break in the continuity of his service, again becomes an eligible member of the Defence Force serving on continuous full-time service, he shall, for the purposes of this Act, be deemed not to have ceased to be an eligible member of the Defence Force by reason of that retirement.
 
@@ -701,7 +701,7 @@ the periods shall be deemed to be periods of non-effective service in relation t
                      (a)  a period of 24 hours or more would, but for paragraph (3)(b), paragraph (4)(b) or subparagraph (5)(b)(ii), be deemed to be a period of non-effective service in relation to a member of the scheme; and
 
                      (b)  the period is consecutive with a period that, under subsection (3), (4) or (5), is deemed to be a period of
- non-effective service in relation to the member;
+non-effective service in relation to the member;
 
 the period shall be deemed to be a period of non-effective service in relation to the member.
 
@@ -937,7 +937,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  Where an eligible member of the Defence Force dies before the day on which, but for his death, his first fortnightly contribution would have been payable, that contribution shall be deemed to have become payable by him on the day on which he became an eligible member of the Defence Force.
 
-##### <a id="18"></a>18  Contributions not to be paid during periods of non-effective service
+##### <a id="18"></a>18  Contributions not to be paid during periods of non-effective service
 
                    An eligible member of the Defence Force is not required to pay any fortnightly contribution that, but for this section, would become payable on a day included in a period that is a period of non-effective service in relation to him.
 
@@ -1019,7 +1019,7 @@ the rate at which retirement pay is payable to him is the amount per annum that,
 
              (6)  If the member of the scheme makes an election under subsection 124(1), the rate at which retirement pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image003.gif)
 
 where:
 
@@ -1034,7 +1034,7 @@ where:
              (1)  A person who is, or is about to become, entitled to retirement pay may, by notice in writing given to the Authority, elect to commute a portion of his or her retirement pay in accordance with this section.
 
        (1AA)  A notice under subsection (1) shall be given not earlier than
- 3 months before becoming entitled to retirement pay and not later than one year after becoming so entitled or such further period as the Authority, in special circumstances, allows.
+3 months before becoming entitled to retirement pay and not later than one year after becoming so entitled or such further period as the Authority, in special circumstances, allows.
 
           (1A)  Subsection (1) does not apply to a person who, after the commencement of this subsection, became a person to whom subsection 62(1) or (2) applied and is not excluded, under subsection (1B), from the operation of this subsection.
 
@@ -1062,7 +1062,7 @@ exceeds the amount per annum of the retirement pay to which the person was or wi
 
           (2B)  For the purposes of subsection (2A), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image004.gif)
 
 where **_A_** is:
 
@@ -1104,7 +1104,7 @@ then, subject to subsection (7), subsection (3) applies to the person as if:
 
                      (b)  if the previous election made by the person had specified a lesser amount than the previous maximum amount—an amount calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image005.gif)
 
              (7)  Where, because of subsection (5), subsection (3) applies to a person (in this subsection called the **_recipient member_**), there must be deducted from the amount that, apart from this subsection, would be payable to the recipient member under paragraph (3)(a) an amount equal to the sum of:
 
@@ -1134,7 +1134,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
 where:
 
@@ -1160,7 +1160,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the retirement pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
                             where:
 
@@ -1202,7 +1202,7 @@ the following provisions apply:
 
                      (b)  retires and, on his retirement, is entitled to retirement pay;
 
-                     (c)  was, on 30 September 1972 and, immediately before his retirement, an officer; and
+                     (c) was, on 30 September 1972 and, immediately before his retirement, an officer; and
 
                      (d)  is a person:
 
@@ -1213,10 +1213,10 @@ the following provisions apply:
        (2AA)  For the purposes of subparagraph (2)(d)(ii):
 
                      (a)  a reference in subparagraph 39(2)(b)(ii) or (2)(c)(ii) of the previous Act to the rank held by an officer shall be read as a reference to the rank held by the officer on
-  30 September 1972;
+30 September 1972;
 
                      (b)  the reference in subparagraph 39(2)(c)(i) of the previous Act to the rank of an officer at the date of his retirement shall be read as a reference to the rank of the officer on
-  30 September 1972; and
+30 September 1972; and
 
                      (c)  a reference in subparagraph 39(2)(b)(ii) or (2)(c)(ii) of the previous Act to the retiring age for the rank held shall be read as a reference to the retiring age for the rank held within the meaning of this section.
 
@@ -1294,42 +1294,44 @@ he is not entitled to invalidity benefit.
   <col width="23%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      <b>Percentage of incapacity</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Class</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>60% or more</div>
-  </td>
-  <td>
-    <div>A</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>30% or more but less than 60%</div>
-  </td>
-  <td>
-    <div>B</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Less than 30%</div>
-  </td>
-  <td>
-    <div>C</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        <b>Percentage of incapacity</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Class</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>60% or more</div>
+    </td>
+    <td>
+      <div>A</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>30% or more but less than 60%</div>
+    </td>
+    <td>
+      <div>B</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Less than 30%</div>
+    </td>
+    <td>
+      <div>C</div>
+    </td>
+  </tr>
+</tbody></table>
 
           (1A)  Where:
 
@@ -1367,7 +1369,7 @@ the Authority must:
 
              (4)  If the member of the scheme makes an election under subsection 124(1), the rate at which invalidity pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image003.gif)
 
 where:
 
@@ -1420,10 +1422,10 @@ where:
                      (b)  any amount paid to the member in pursuance of an application, under section 74 of the previous Act, to commute a portion of any pension payable to him under that Act reduced by:
 
                               (i)  any amount or amounts required, under
- paragraph 62(4)(a) of this Act, to be paid by the member to the Commonwealth; and
+paragraph 62(4)(a) of this Act, to be paid by the member to the Commonwealth; and
 
                              (ii)  any amount or amounts required, under
- subsection 69(1B) or 69(3A) of the previous Act, to be paid by the member to the Defence Forces Retirement Benefits Fund established under the previous Act;
+subsection 69(1B) or 69(3A) of the previous Act, to be paid by the member to the Defence Forces Retirement Benefits Fund established under the previous Act;
 
                             in respect of that commutation;
 
@@ -1431,7 +1433,7 @@ exceeds the amount per annum of the invalidity pay to which the member of the sc
 
           (4A)  For the purposes of subsection (4), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image004.gif)
 
 where **_A_** is:
 
@@ -1477,7 +1479,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
 where:
 
@@ -1503,7 +1505,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the invalidity pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
 where:
 
@@ -1699,7 +1701,7 @@ the Authority shall, by notice in writing given to the member or to the member a
 
                      (a)  is retired after the commencement of this subsection; and
 
-                     (b)  on his retirement, is classified as Class C under section 30 and is entitled to invalidity pay.
+                     (b) on his retirement, is classified as Class C under section 30 and is entitled to invalidity pay.
 
 ##### <a id="36"></a>36  Invalidity benefits payable to certain contributors under Superannuation Act or the _Superannuation Act 1990_
 
@@ -1809,7 +1811,7 @@ the person (in this section called the **_elector_**) may, by notice in writing 
 
              (3)  The amount referred to in subsection (2) must not exceed an amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image007.gif)
 
 where:
 
@@ -1841,7 +1843,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the commuted amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
 where:
 
@@ -1877,7 +1879,7 @@ where:
 
 then, subject to subsection (2A), there is payable to the orphan or each of the orphans, instead of the pensions described in subsection (2), a pension at the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image003.gif)
 
 where:
 
@@ -1915,24 +1917,6 @@ where:
 
              (9)  The grant by the Authority, under this section, of a pension to a person does not effect the entitlement of any other person under this Act to a pension benefit that is payable otherwise than by virtue of a grant of pension under this section, or the rate of such a pension benefit.
 
-##### <a id="44"></a>44  Restoration of pensions for remarried widows and widowers
-
-             (1)  A widow or widower whose entitlement to a pension under section 39 has ceased on his or her remarriage may apply to the Authority for:
-
-                     (a)  restoration of the pension; or
-
-                     (b)  restoration of the full rate of the pension.
-
-             (2)  If the Authority is satisfied that the widow or widower’s entitlement to a pension ceased on his or her remarriage, the Authority must, in writing, grant the pension at the rate at which the pension would have been payable to the widow or widower if the pension had not ceased.
-
-             (3)  The pension is payable to the widow or widower at that rate from the day on which the Authority receives the application.
-
-             (4)  If the Authority grants a person a pension under this section at a particular rate, the grant at that rate does not effect:
-
-                     (a)  any other person’s entitlement under this Act to any other pension benefit; or
-
-                     (b)  the rate of such a pension benefit.
-
 ### Division 3—Miscellaneous
 
 ##### <a id="45"></a>45  Payment of benefits otherwise than to person entitled
@@ -1958,10 +1942,10 @@ where:
                      (a)  a member of a scheme dies and, immediately before dying, the member:
 
                               (i)  was in receipt of invalidity pay and classified as
- Class B or Class C under section 30; or
+Class B or Class C under section 30; or
 
                              (ii)  was entitled to invalidity benefit and classified as
- Class C (under section 30) because of a reclassification under subsection 34(1) but was not entitled to invalidity pay; and
+Class C (under section 30) because of a reclassification under subsection 34(1) but was not entitled to invalidity pay; and
 
                      (b)  the Authority is satisfied that the death of the member was due to:
 
@@ -1970,7 +1954,7 @@ where:
                              (ii)  a physical or mental impairment causally connected with a physical or mental impairment referred to in subparagraph (i);
 
 then, for the purposes of section 39, subsection 42(3) and subsection 43(3), the rate at which invalidity pay was payable to the member immediately before his death shall be deemed to be the rate at which invalidity pay would have been payable to him if, immediately before his death, he had been classified as
- Class A under section 30.
+Class A under section 30.
 
              (2)  This section does not apply in relation to a member of the scheme who:
 
@@ -2178,7 +2162,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  pension under section 38 or 39;
 
-                     (d)  pension under section 43A or 44;
+                     (d)  pension under section 43A;
 
                      (e)  associate pension.
 
@@ -2196,7 +2180,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image008.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image008.gif)
 
 ### Division 2—Benefits for non-member spouse
 
@@ -2316,7 +2300,7 @@ there shall be deducted from any payment of benefit payable to or in respect of 
 
 ##### <a id="54"></a>54  Re-instated candidates to whom Part does not apply
 
-             (1)  For the purposes of this Act, subsections  10(2), 11(2) and 12(2) of the Defence (Parliamentary Candidates) Act do not apply to or in relation to a re-instated candidate who is not, and does not become, a re-instated candidate to whom this Part applies.
+             (1)  For the purposes of this Act, subsections 10(2), 11(2) and 12(2) of the Defence (Parliamentary Candidates) Act do not apply to or in relation to a re-instated candidate who is not, and does not become, a re-instated candidate to whom this Part applies.
 
              (2)  A re-instated candidate referred to in subsection (1) shall, for the purposes of the definition of **_eligible member of the Defence Force_** in subsection 3(1), be deemed to be serving on continuous full-time service under an appointment or engagement for a period of not less than one year.
 
@@ -2406,7 +2390,7 @@ then, subject to sections 62, 63 and 64, upon his again becoming such an eligi
 
              (2)  The amount of a fortnightly instalment of pension benefit shall be an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image009.gif)
 
 where **_P_** is the amount per annum of the pension benefit.
 
@@ -2433,7 +2417,7 @@ then, for the purposes of Parts IV, V and VI, the annual rate of pay applicable 
                    Where:
 
                      (a)  the liability of a person to make contributions under the Superannuation Act has been deferred by virtue of
- section 54 of that Act;
+section 54 of that Act;
 
                      (b)  by reason of the retirement or death of the person, the amount of the deferred contributions has become payable;
 
@@ -2664,12 +2648,12 @@ he may, by notice in writing given to the Authority within a period of 90 days a
 ##### <a id="69"></a>69  Members who pay transfer values to Commonwealth
 
              (1)  Where a person who becomes a contributing member has, at
- any time before becoming a member, been in employment within or outside Australia upon the termination of which a transfer value became payable to or in respect of him on or after 25 May 1971 under a superannuation scheme applicable in relation to that employment, and:
+any time before becoming a member, been in employment within or outside Australia upon the termination of which a transfer value became payable to or in respect of him on or after 25 May 1971 under a superannuation scheme applicable in relation to that employment, and:
 
                      (a)  the member, by notice in writing given to the Authority within a period of 90 days after the date on which he becomes a contributing member, or within such further period as the Authority, in special circumstances, allows, elects to pay to the Commonwealth an amount equal to the amount of that transfer value or, if 2 or more transfer values became payable, the sum of the amounts of those transfer values; and
 
                      (b)  that amount is, before the expiration of that period of
- 90 days or that further period, as the case may be, paid to the Commonwealth;
+90 days or that further period, as the case may be, paid to the Commonwealth;
 
 the succeeding provisions of this section have effect.
 
@@ -2725,7 +2709,7 @@ so much of the amount paid to the Commonwealth under subsection (1) as is equa
 
                      (a)  a period of employment during which the person was a member of the Defence Force and which is a period of effective service in relation to him under this Act;
 
-                     (b)  subject to subsections (2) and (3), a period of employment of the person by the Commonwealth, by the Northern   Territory, by the Administration of a Territory (including the Northern   Territory) or by an authority or other body, being:
+                     (b)  subject to subsections (2) and (3), a period of employment of the person by the Commonwealth, by the Northern Territory, by the Administration of a Territory (including the Northern Territory) or by an authority or other body, being:
 
                               (i)  a body corporate incorporated for a public purpose by an Act, regulations made under an Act or a law of a Territory;
 
@@ -2786,9 +2770,9 @@ so much of the amount paid to the Commonwealth under subsection (1) as is equa
              (1)  The Minister for Finance may, by instrument under his hand published in the _Gazette_, declare employment, whether within or outside Australia, by a person, or by persons included in a class of persons, specified in the instrument to be public employment for the purposes of this Division.
 
              (2)  A declaration under subsection (1) shall come into force on
- the day on which the instrument of declaration is published
- in the _Gazette_ or, if an earlier day (not being earlier than
- 1 October 1972) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
+the day on which the instrument of declaration is published
+in the _Gazette_ or, if an earlier day (not being earlier than
+1 October 1972) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
 
              (3)  A person shall be taken, for the purposes of this Division, to have been employed in public employment at a particular time if, and only if, the employer by whom he was employed at that time was a person, or was a person included in a class of persons, specified in a declaration by the Minister for Finance under this section that was, or is to be deemed to have been, in force at that time.
 
@@ -2799,9 +2783,9 @@ so much of the amount paid to the Commonwealth under subsection (1) as is equa
              (1)  The Minister for Finance may, by instrument under his hand published in the _Gazette_, declare a superannuation scheme specified in the instrument to be an eligible superannuation scheme for the purposes of this Division.
 
              (2)  A declaration under subsection (1) shall come into force on
- the day on which the instrument of declaration is published
- in the _Gazette_ or, if an earlier day (not being earlier than
- 1 October 1972) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
+the day on which the instrument of declaration is published
+in the _Gazette_ or, if an earlier day (not being earlier than
+1 October 1972) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
 
              (3)  A person shall be taken, for the purposes of this Division, to have been a member of an eligible superannuation scheme at a particular time if, and only if, he was at that time a member of a superannuation scheme in respect of which a declaration by the Minister for Finance under this section was, or is to be deemed to have been, in force at that time.
 
@@ -2867,7 +2851,7 @@ the amount of the transfer value is the difference between:
 
 the rate at which retirement pay is payable to the person is (instead of the rate provided for in section 23) an amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
 where:
 
@@ -2901,7 +2885,7 @@ then, subject to subsection (4A), the rate at which retirement pay is payable 
 
 the rate at which retirement pay is payable to the person is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image006.gif)
 
 where:
 
@@ -2915,7 +2899,7 @@ where:
 
              (6)  A reference in this section to the actual retirement of a person from the Defence Force, being a person who has made an election under section 76, shall be read as a reference to the retirement by virtue of which, upon his ceasing to be an eligible member of the Defence Force, he made the election.
 
-##### <a id="76"></a>76  Election that Division apply
+##### <a id="76"></a>76  Election that Division apply
 
              (1)  Subject to this section, where, a person, being a contributing member, ceases to be an eligible member of the Defence Force and is not entitled to a pension benefit, or is not a person to whom section 36 applies, he may by notice in writing given to the Authority within a period of 21 days after the date on which he ceases to be such a member, elect that this Division shall apply in relation to him.
 
@@ -2988,7 +2972,7 @@ deferred benefits are, subject to this Division, applicable in respect of the pe
                      (b)  any period of public employment in which the person was employed after he ceased to be an eligible member of the Defence Force; and
 
                      (c)  any period (not being a period of public employment referred to in paragraph (b)) occurring after the person ceased or last ceased to be an eligible member of the Defence Force and after the person has completed
- 20 years’ eligible employment.
+20 years’ eligible employment.
 
              (4)  For the purposes of subsections (2) and (3), a period of public employment in which a person became employed after he ceased to be an eligible member of the Defence Force shall be deemed to be a period of eligible employment of the person.
 
@@ -3011,7 +2995,7 @@ deferred benefits are, subject to this Division, applicable in respect of the pe
              (2)  Where:
 
                      (a)  a payment of benefit has been made under
- subsection 32(2) or section 56 to a person who has ceased to be an eligible member of the Defence Force; and
+subsection 32(2) or section 56 to a person who has ceased to be an eligible member of the Defence Force; and
 
                      (b)  after the payment was made, the person makes an election under section 76;
 
@@ -3044,7 +3028,7 @@ this Act has effect as if the election had not been made.
                      (b)  the person has made an election under section 76; and
 
                      (c)  if a payment of benefit were made to him under
- subsection 32(2) or section 56, he would, under the rules of the superannuation scheme applicable in respect of that employment, be entitled to pay the amount of the payment of benefit or a part of that amount to the person administering that scheme in exchange for benefits under that scheme, being benefits that the Authority is satisfied are appropriate in the circumstances;
+subsection 32(2) or section 56, he would, under the rules of the superannuation scheme applicable in respect of that employment, be entitled to pay the amount of the payment of benefit or a part of that amount to the person administering that scheme in exchange for benefits under that scheme, being benefits that the Authority is satisfied are appropriate in the circumstances;
 
 this Act has effect as if the election had not been made.
 
@@ -3055,10 +3039,10 @@ this Act has effect as if the election had not been made.
 ##### <a id="82"></a>82  Provisions applicable to certain recipient members restored to health
 
              (1)  Where deferred benefit is payable to a person by reason that the Authority is satisfied as to the matters referred to in
- paragraph 78(2)(a):
+paragraph 78(2)(a):
 
                      (a)  section 34 does not apply in relation to him but
- subsection (2) of this section has effect in relation to him;
+subsection (2) of this section has effect in relation to him;
 
                      (b)  section 35 applies in relation to him as if he were a recipient member in receipt of invalidity pay; and
 
@@ -3107,7 +3091,7 @@ the succeeding provisions of this section have effect.
 the Authority, on behalf of the Commonwealth shall, so far as is practicable, arrange for the amount or amounts of any life policy or life policies assigned to the Commonwealth by the person to be increased by the amount or amounts by which the life policy or life policies would have been increased under that scheme, or for the issue of such additional life policy or life policies in relation to the person as would have been issued under that scheme, if he had remained a member of that scheme and had been in receipt of an annual remuneration equal to that annual rate of pay or that increased annual rate of pay, as the case may be.
 
              (5)  So much of any premium payable in respect of any life
- policy assigned to the Commonwealth in accordance with subsection (3) or issued in accordance with subsection (4) as relates to a period during which the person is an eligible member of the Defence Force shall be paid by the Commonwealth out of the Consolidated Revenue Fund, which is appropriated accordingly.
+policy assigned to the Commonwealth in accordance with subsection (3) or issued in accordance with subsection (4) as relates to a period during which the person is an eligible member of the Defence Force shall be paid by the Commonwealth out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (6)  Where the amount of the fortnightly contributions payable by the person to the Commonwealth at any time is less than the amount that is the prescribed amount in relation to him at that time, he is liable to pay to the Commonwealth an amount equal to the difference.
 
@@ -3151,7 +3135,7 @@ by notice in writing to the Authority revoke the election and, in that case, par
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image010.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image010.gif), where:
 
 **_a_** is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4).
 
@@ -3381,7 +3365,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
                     <a name="half-year"></a>**_half-year_** means a period of 6 months beginning on 1 January or 1 July in any year.
 
-                    <a name="pension-benefit"></a>**_pension benefit_** includes a pension granted under section 43A or 44.
+                    <a name="pension-benefit"></a>**_pension benefit_** includes a pension granted under section 43A.
 
                     <a name="prescrib-half-year"></a>**_prescribed half-year_** means the half-year commencing on 1 January 2002 or a subsequent half-year.
 
@@ -3403,7 +3387,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
              (2)  The increase provided for by subsection (1) in the rate at which a pension benefit was payable to a pensioner immediately before the commencement of a prescribed half-year (in this section referred to as the **_relevant prescribed half-year_**) is the prescribed percentage, ascertained in accordance with subsection (3), of the rate of pension benefit that, under subsection (4), is the relevant rate of pension in relation to the pensioner.
 
-             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image011.gif) expressed as a percentage of **_B_**, where:
+             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2005C00615/Html/F858E54502A035B0CA257096001AAA84/$FILE/image011.gif) expressed as a percentage of **_B_**, where:
 
                     <a name=""></a>**_A_** is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding the prescribed half-year; and
 
@@ -3425,7 +3409,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
                      (e)  in relation to a pensioner to whom subsection 42(3) or 43(3) applies and who is the child of a deceased recipient member—a rate equal to such proportion as, under subsection (6), is the appropriate proportion of the rate at which retirement pay or invalidity pay, as the case may be, would, immediately before the commencement of the relevant prescribed half-year, have been payable to the deceased recipient member if he had not died or, if a notional rate of retirement pay or invalidity pay, as the case may be, is applicable to the deceased recipient member in accordance with subsection (5) and the notional rate of retirement pay or invalidity pay, as the case may be, so applicable immediately before the commencement of that half-year is lower than the rate at which retirement pay or invalidity pay, as the case may be, would have been payable to the deceased recipient member immediately before the commencement of that half-year if he had not died, a rate equal to such proportion as, under subsection (6), is the appropriate proportion of the notional rate of retirement pay or invalidity pay, as the case may be, so applicable immediately before the commencement of that half-year; or
 
-                      (f)  in relation to a pensioner to whom a pension benefit is payable under section 43A or 44—a rate determined by the Authority, being the rate which, in the opinion of the Authority, is the appropriate rate to be regarded as the relevant rate of pension in relation to the pensioner for the relevant prescribed half-year.
+                      (f)  in relation to a pensioner to whom a pension benefit is payable under section 43A—a rate determined by the Authority, being the rate which, in the opinion of the Authority, is the appropriate rate to be regarded as the relevant rate of pension in relation to the pensioner for the relevant prescribed half-year.
 
              (5)  For the purposes of subsection (4):
 
@@ -3499,7 +3483,7 @@ there were substituted, on the first day of that prescribed half-year, an amount
 
 this section applies to the first-mentioned pension benefit.
 
-             (2)  Where a pension benefit is, under section 43A or 44, payable to a person immediately before the commencement of a prescribed half-year:
+             (2)  Where a pension benefit is, under section 43A, payable to a person immediately before the commencement of a prescribed half-year:
 
                      (a)  in a case where the pension benefit became so payable by virtue of the retirement and death, during the preceding half-year, of a member of the scheme who was, at the time of his death, a recipient member—this section applies to the pension benefit as if it were a pension benefit payable to the person otherwise than as a widow or as an eligible child from the day following the date of retirement of the member of the scheme;
 
@@ -4031,6 +4015,7 @@ the person is taken:
 
                      (d)  to have elected under that section to continue to be a contributing member.
 
+
 # Schedule 1—Retirement pay expressed as a percentage of annual rate of pay
 
 _Section 23_
@@ -4041,226 +4026,228 @@ _Section 23_
   <col width="38%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>
-      <b>Number of complete years included in total period of effective service</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Percentage of annual rate of pay</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>30.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>31.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>32.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>33.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>34.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>35.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>36.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>38.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23</div>
-  </td>
-  <td>
-    <div>39.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24</div>
-  </td>
-  <td>
-    <div>41.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25</div>
-  </td>
-  <td>
-    <div>42.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26</div>
-  </td>
-  <td>
-    <div>44.00%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>27</div>
-  </td>
-  <td>
-    <div>45.75%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>28</div>
-  </td>
-  <td>
-    <div>47.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>29</div>
-  </td>
-  <td>
-    <div>49.25%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>30</div>
-  </td>
-  <td>
-    <div>51.25%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>31</div>
-  </td>
-  <td>
-    <div>53.25%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>32</div>
-  </td>
-  <td>
-    <div>55.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>33</div>
-  </td>
-  <td>
-    <div>57.75%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>34</div>
-  </td>
-  <td>
-    <div>60.25%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>35</div>
-  </td>
-  <td>
-    <div>62.75%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>36</div>
-  </td>
-  <td>
-    <div>65.25%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>37</div>
-  </td>
-  <td>
-    <div>67.75%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>38</div>
-  </td>
-  <td>
-    <div>70.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>39</div>
-  </td>
-  <td>
-    <div>73.50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>40 or more</div>
-  </td>
-  <td>
-    <div>76.50%</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        <b>Number of complete years included in total period of effective service</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Percentage of annual rate of pay</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>30.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>31.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>32.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>33.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>34.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>35.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>36.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22</div>
+    </td>
+    <td>
+      <div>38.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23</div>
+    </td>
+    <td>
+      <div>39.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24</div>
+    </td>
+    <td>
+      <div>41.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25</div>
+    </td>
+    <td>
+      <div>42.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26</div>
+    </td>
+    <td>
+      <div>44.00%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>27</div>
+    </td>
+    <td>
+      <div>45.75%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>28</div>
+    </td>
+    <td>
+      <div>47.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>29</div>
+    </td>
+    <td>
+      <div>49.25%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>30</div>
+    </td>
+    <td>
+      <div>51.25%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31</div>
+    </td>
+    <td>
+      <div>53.25%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>32</div>
+    </td>
+    <td>
+      <div>55.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>33</div>
+    </td>
+    <td>
+      <div>57.75%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>34</div>
+    </td>
+    <td>
+      <div>60.25%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>35</div>
+    </td>
+    <td>
+      <div>62.75%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>36</div>
+    </td>
+    <td>
+      <div>65.25%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>37</div>
+    </td>
+    <td>
+      <div>67.75%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>38</div>
+    </td>
+    <td>
+      <div>70.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>39</div>
+    </td>
+    <td>
+      <div>73.50%</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>40 or more</div>
+    </td>
+    <td>
+      <div>76.50%</div>
+    </td>
+  </tr>
+</tbody></table>
 
 # Schedule 2—Notional retiring age for certain officers retiring at own request or on disciplinary grounds, or entitled to deferred benefit retirement pay
 
@@ -4273,94 +4260,107 @@ _Sections 23 and 75_
   <col width="29%">
 </colgroup>
 
-<tr>
-  <td colspan="3">
-    <div>
-      <b>Rank</b>
-    </div>
-  </td>
-  <td rowspan="2">
-    <div>
-      <b>Notional Retiring Age— Years</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>Navy</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Army</b>
-    </div>
-  </td>
-  <td>
-    <div>
-      <b>Air Force</b>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Admiral
+<tbody>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Rank</b>
+      </div>
+    </td>
+    <td rowspan="2">
+      <div>
+        <b>Notional Retiring Age— Years</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Navy</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Army</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Air Force</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Admiral
 
-Vice-Admiral</div>
-  </td>
-  <td>
-    <div>General
+Vice-Admiral
 
-Lieutenant-General</div>
-  </td>
-  <td>
-    <div>Air Chief Marshal
+      </div>
+    </td>
+    <td>
+      <div>General
 
-Air Marshal</div>
-  </td>
-  <td>
-    <div>55</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Rear-Admiral</div>
-  </td>
-  <td>
-    <div>Major-General</div>
-  </td>
-  <td>
-    <div>Air Vice-Marshal</div>
-  </td>
-  <td>
-    <div>52</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commodore
+Lieutenant-General
 
-Captain</div>
-  </td>
-  <td>
-    <div>Brigadier
+      </div>
+    </td>
+    <td>
+      <div>Air Chief Marshal
 
-Colonel</div>
-  </td>
-  <td>
-    <div>Air Commodore
+Air Marshal
+
+      </div>
+    </td>
+    <td>
+      <div>55</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Rear-Admiral</div>
+    </td>
+    <td>
+      <div>Major-General</div>
+    </td>
+    <td>
+      <div>Air Vice-Marshal</div>
+    </td>
+    <td>
+      <div>52</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commodore
+
+Captain
+
+      </div>
+    </td>
+    <td>
+      <div>Brigadier
+
+Colonel
+
+      </div>
+    </td>
+    <td>
+      <div>Air Commodore
 
 Group Captain
 
-Group Officer</div>
-  </td>
-  <td>
-    <div>50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commander
+Group Officer
+
+      </div>
+    </td>
+    <td>
+      <div>50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commander
 
 Chief Officer (WRANS)
 
@@ -4368,33 +4368,36 @@ Matron (RANNS)
 
 Superintendent
 
-(Naval Police)</div>
-  </td>
-  <td>
-    <div>Lieutenant-Colonel</div>
-  </td>
-  <td>
-    <div>Wing Commander</div>
-    <div>Wing Officer</div>
-  </td>
-  <td>
-    <div>45</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lower rank</div>
-  </td>
-  <td>
-    <div>Lower rank</div>
-  </td>
-  <td>
-    <div>Lower rank</div>
-  </td>
-  <td>
-    <div>42</div>
-  </td>
-</tr></table>
+(Naval Police)
+
+      </div>
+    </td>
+    <td>
+      <div>Lieutenant-Colonel</div>
+    </td>
+    <td>
+      <div>Wing Commander</div>
+      <div>Wing Officer</div>
+    </td>
+    <td>
+      <div>45</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lower rank</div>
+    </td>
+    <td>
+      <div>Lower rank</div>
+    </td>
+    <td>
+      <div>Lower rank</div>
+    </td>
+    <td>
+      <div>42</div>
+    </td>
+  </tr>
+</tbody></table>
 
 # Schedule 3—Commutation of retirement pay and Class C invalidity pay—expectation of life factor
 
@@ -4432,402 +4435,405 @@ _Sections 24 and 32A_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>30</div>
-  </td>
-  <td>
-    <div>41.12</div>
-  </td>
-  <td>
-    <div>46.49</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>31</div>
-  </td>
-  <td>
-    <div>40.18</div>
-  </td>
-  <td>
-    <div>45.53</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>32</div>
-  </td>
-  <td>
-    <div>39.25</div>
-  </td>
-  <td>
-    <div>44.57</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>33</div>
-  </td>
-  <td>
-    <div>38.31</div>
-  </td>
-  <td>
-    <div>43.61</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>34</div>
-  </td>
-  <td>
-    <div>37.38</div>
-  </td>
-  <td>
-    <div>42.65</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>35</div>
-  </td>
-  <td>
-    <div>36.45</div>
-  </td>
-  <td>
-    <div>41.70</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>36</div>
-  </td>
-  <td>
-    <div>35.51</div>
-  </td>
-  <td>
-    <div>40.75</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>37</div>
-  </td>
-  <td>
-    <div>34.59</div>
-  </td>
-  <td>
-    <div>39.81</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>38</div>
-  </td>
-  <td>
-    <div>33.67</div>
-  </td>
-  <td>
-    <div>38.86</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>39</div>
-  </td>
-  <td>
-    <div>32.75</div>
-  </td>
-  <td>
-    <div>37.92</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>40</div>
-  </td>
-  <td>
-    <div>31.84</div>
-  </td>
-  <td>
-    <div>36.99</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>41</div>
-  </td>
-  <td>
-    <div>30.93</div>
-  </td>
-  <td>
-    <div>36.06</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>42</div>
-  </td>
-  <td>
-    <div>30.03</div>
-  </td>
-  <td>
-    <div>35.13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>43</div>
-  </td>
-  <td>
-    <div>29.14</div>
-  </td>
-  <td>
-    <div>34.21</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44</div>
-  </td>
-  <td>
-    <div>28.25</div>
-  </td>
-  <td>
-    <div>33.29</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45</div>
-  </td>
-  <td>
-    <div>27.38</div>
-  </td>
-  <td>
-    <div>32.38</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>46</div>
-  </td>
-  <td>
-    <div>26.51</div>
-  </td>
-  <td>
-    <div>31.48</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>47</div>
-  </td>
-  <td>
-    <div>25.65</div>
-  </td>
-  <td>
-    <div>30.58</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>48</div>
-  </td>
-  <td>
-    <div>24.80</div>
-  </td>
-  <td>
-    <div>29.69</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>49</div>
-  </td>
-  <td>
-    <div>23.96</div>
-  </td>
-  <td>
-    <div>28.80</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>50</div>
-  </td>
-  <td>
-    <div>23.13</div>
-  </td>
-  <td>
-    <div>27.92</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>51</div>
-  </td>
-  <td>
-    <div>22.31</div>
-  </td>
-  <td>
-    <div>27.05</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>52</div>
-  </td>
-  <td>
-    <div>21.51</div>
-  </td>
-  <td>
-    <div>26.18</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>53</div>
-  </td>
-  <td>
-    <div>20.72</div>
-  </td>
-  <td>
-    <div>25.32</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>54</div>
-  </td>
-  <td>
-    <div>19.94</div>
-  </td>
-  <td>
-    <div>24.47</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>55</div>
-  </td>
-  <td>
-    <div>19.18</div>
-  </td>
-  <td>
-    <div>23.63</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>56</div>
-  </td>
-  <td>
-    <div>18.43</div>
-  </td>
-  <td>
-    <div>22.79</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>57</div>
-  </td>
-  <td>
-    <div>17.70</div>
-  </td>
-  <td>
-    <div>21.96</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>58</div>
-  </td>
-  <td>
-    <div>16.99</div>
-  </td>
-  <td>
-    <div>21.13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>59</div>
-  </td>
-  <td>
-    <div>16.29</div>
-  </td>
-  <td>
-    <div>20.32</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>60</div>
-  </td>
-  <td>
-    <div>15.60</div>
-  </td>
-  <td>
-    <div>19.51</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>61</div>
-  </td>
-  <td>
-    <div>14.94</div>
-  </td>
-  <td>
-    <div>18.72</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>62</div>
-  </td>
-  <td>
-    <div>14.29</div>
-  </td>
-  <td>
-    <div>17.94</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>63</div>
-  </td>
-  <td>
-    <div>13.67</div>
-  </td>
-  <td>
-    <div>17.17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>64</div>
-  </td>
-  <td>
-    <div>13.06</div>
-  </td>
-  <td>
-    <div>16.42</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>65</div>
-  </td>
-  <td>
-    <div>12.47</div>
-  </td>
-  <td>
-    <div>15.68</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>30</div>
+    </td>
+    <td>
+      <div>41.12</div>
+    </td>
+    <td>
+      <div>46.49</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31</div>
+    </td>
+    <td>
+      <div>40.18</div>
+    </td>
+    <td>
+      <div>45.53</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>32</div>
+    </td>
+    <td>
+      <div>39.25</div>
+    </td>
+    <td>
+      <div>44.57</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>33</div>
+    </td>
+    <td>
+      <div>38.31</div>
+    </td>
+    <td>
+      <div>43.61</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>34</div>
+    </td>
+    <td>
+      <div>37.38</div>
+    </td>
+    <td>
+      <div>42.65</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>35</div>
+    </td>
+    <td>
+      <div>36.45</div>
+    </td>
+    <td>
+      <div>41.70</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>36</div>
+    </td>
+    <td>
+      <div>35.51</div>
+    </td>
+    <td>
+      <div>40.75</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>37</div>
+    </td>
+    <td>
+      <div>34.59</div>
+    </td>
+    <td>
+      <div>39.81</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>38</div>
+    </td>
+    <td>
+      <div>33.67</div>
+    </td>
+    <td>
+      <div>38.86</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>39</div>
+    </td>
+    <td>
+      <div>32.75</div>
+    </td>
+    <td>
+      <div>37.92</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>40</div>
+    </td>
+    <td>
+      <div>31.84</div>
+    </td>
+    <td>
+      <div>36.99</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>41</div>
+    </td>
+    <td>
+      <div>30.93</div>
+    </td>
+    <td>
+      <div>36.06</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>42</div>
+    </td>
+    <td>
+      <div>30.03</div>
+    </td>
+    <td>
+      <div>35.13</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>43</div>
+    </td>
+    <td>
+      <div>29.14</div>
+    </td>
+    <td>
+      <div>34.21</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44</div>
+    </td>
+    <td>
+      <div>28.25</div>
+    </td>
+    <td>
+      <div>33.29</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>45</div>
+    </td>
+    <td>
+      <div>27.38</div>
+    </td>
+    <td>
+      <div>32.38</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>46</div>
+    </td>
+    <td>
+      <div>26.51</div>
+    </td>
+    <td>
+      <div>31.48</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>47</div>
+    </td>
+    <td>
+      <div>25.65</div>
+    </td>
+    <td>
+      <div>30.58</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>48</div>
+    </td>
+    <td>
+      <div>24.80</div>
+    </td>
+    <td>
+      <div>29.69</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>49</div>
+    </td>
+    <td>
+      <div>23.96</div>
+    </td>
+    <td>
+      <div>28.80</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>50</div>
+    </td>
+    <td>
+      <div>23.13</div>
+    </td>
+    <td>
+      <div>27.92</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>51</div>
+    </td>
+    <td>
+      <div>22.31</div>
+    </td>
+    <td>
+      <div>27.05</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>52</div>
+    </td>
+    <td>
+      <div>21.51</div>
+    </td>
+    <td>
+      <div>26.18</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>53</div>
+    </td>
+    <td>
+      <div>20.72</div>
+    </td>
+    <td>
+      <div>25.32</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>54</div>
+    </td>
+    <td>
+      <div>19.94</div>
+    </td>
+    <td>
+      <div>24.47</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>55</div>
+    </td>
+    <td>
+      <div>19.18</div>
+    </td>
+    <td>
+      <div>23.63</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>56</div>
+    </td>
+    <td>
+      <div>18.43</div>
+    </td>
+    <td>
+      <div>22.79</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>57</div>
+    </td>
+    <td>
+      <div>17.70</div>
+    </td>
+    <td>
+      <div>21.96</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>58</div>
+    </td>
+    <td>
+      <div>16.99</div>
+    </td>
+    <td>
+      <div>21.13</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>59</div>
+    </td>
+    <td>
+      <div>16.29</div>
+    </td>
+    <td>
+      <div>20.32</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>60</div>
+    </td>
+    <td>
+      <div>15.60</div>
+    </td>
+    <td>
+      <div>19.51</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>61</div>
+    </td>
+    <td>
+      <div>14.94</div>
+    </td>
+    <td>
+      <div>18.72</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>62</div>
+    </td>
+    <td>
+      <div>14.29</div>
+    </td>
+    <td>
+      <div>17.94</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>63</div>
+    </td>
+    <td>
+      <div>13.67</div>
+    </td>
+    <td>
+      <div>17.17</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>64</div>
+    </td>
+    <td>
+      <div>13.06</div>
+    </td>
+    <td>
+      <div>16.42</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>65</div>
+    </td>
+    <td>
+      <div>12.47</div>
+    </td>
+    <td>
+      <div>15.68</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Notes to the _Defence Force Retirement and Death Benefits Act 1973_
 
@@ -4857,11 +4863,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -4871,308 +4879,322 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Defence Force Retirement and Death Benefits Act 1973</div>
-  </td>
-  <td>
-    <div>81, 1973</div>
-  </td>
-  <td>
-    <div>19 June 1973</div>
-  </td>
-  <td>
-    <div>Ss. 3–6 and Parts 
+<tbody>
+  <tr>
+    <td>
+      <div>Defence Force Retirement and Death Benefits Act 1973</div>
+    </td>
+    <td>
+      <div>81, 1973</div>
+    </td>
+    <td>
+      <div>19 June 1973</div>
+    </td>
+    <td>
+      <div>Ss. 3–6 and Parts 
 III–IX (ss. 17–84): 
 1 Oct 1972 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Election Candidates (Public Service and Defence Force) Act 1974</div>
-  </td>
-  <td>
-    <div>59, 1974</div>
-  </td>
-  <td>
-    <div>27 Sept 1974</div>
-  </td>
-  <td>
-    <div>Parts I, IV and V 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Election Candidates (Public Service and Defence Force) Act 1974</div>
+    </td>
+    <td>
+      <div>59, 1974</div>
+    </td>
+    <td>
+      <div>27 Sept 1974</div>
+    </td>
+    <td>
+      <div>Parts I, IV and V 
 (ss. 1–6 and 23–37): Royal Assent 
-Remainder: 27 Aug 1974</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force 
-Re-organization Act 1975</div>
-  </td>
-  <td>
-    <div>96, 1975</div>
-  </td>
-  <td>
-    <div>9 Sept 1975</div>
-  </td>
-  <td>
-    <div>Ss. 156–163: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 158(2), 159(2), 161(2) and 162(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force Retirement and Death Benefits Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>33, 1976</div>
-  </td>
-  <td>
-    <div>7 May 1976</div>
-  </td>
-  <td>
-    <div>( <i>see</i>33, 1976 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force Retirement and Death Benefits Amendment Act 1976</div>
-  </td>
-  <td>
-    <div>33, 1976</div>
-  </td>
-  <td>
-    <div>7 May 1976</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 27 Aug 1974 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force 
+Re-organization Act 1975 
+</div>
+    </td>
+    <td>
+      <div>96, 1975</div>
+    </td>
+    <td>
+      <div>9 Sept 1975</div>
+    </td>
+    <td>
+      <div>Ss. 156–163: 9 Feb 1976 ( <i>see Gazette</i>1975, No. G42, p. 2) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>Ss. 158(2), 159(2), 161(2) and 162(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force Retirement and Death Benefits Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>33, 1976</div>
+    </td>
+    <td>
+      <div>7 May 1976</div>
+    </td>
+    <td>
+      <div>( <i>see</i>33, 1976 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force Retirement and Death Benefits Amendment Act 1976</div>
+    </td>
+    <td>
+      <div>33, 1976</div>
+    </td>
+    <td>
+      <div>7 May 1976</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
 S. 9: 1 Oct 1972 
 S.16: 9 Sept 1975 
 Ss. 13 and 14: 1 July 1976 ( <i>see</i>s. 2(4) and <i>Gazette</i>1976, No. S94) 
-Remainder: 1 July 1976</div>
-  </td>
-  <td>
-    <div>Ss. 13(2) and 15</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Retirement and Death Benefits Amendments) Act 1977</div>
-  </td>
-  <td>
-    <div>13, 1977</div>
-  </td>
-  <td>
-    <div>28 Feb 1977</div>
-  </td>
-  <td>
-    <div>Ss. 3 and 4: 1 July 1976 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1977</div>
-  </td>
-  <td>
-    <div>161, 1977</div>
-  </td>
-  <td>
-    <div>10 Nov 1977</div>
-  </td>
-  <td>
-    <div>Ss. 5, 11–17, 24, 26, 27(2), 28(2), 34, 35(1), 36, 38–42, 46 and 48: 1 Oct 1972 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 25(2), 30(2)–(5) and 49–51 
-Ss. 21(3) and (4) (am. by 65, 1987, s. 51).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>65, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>( <i>see</i>65, 1987 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Retirement and Death Benefits Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>15, 1979</div>
-  </td>
-  <td>
-    <div>19 Mar 1979</div>
-  </td>
-  <td>
-    <div>19 Mar 1979</div>
-  </td>
-  <td>
-    <div>S. 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1979</div>
-  </td>
-  <td>
-    <div>135, 1979</div>
-  </td>
-  <td>
-    <div>23 Nov 1979</div>
-  </td>
-  <td>
-    <div>23 Nov 1979</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>S. 116: 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Companies (Miscellaneous Amendments) Act 1981</div>
-  </td>
-  <td>
-    <div>92, 1981</div>
-  </td>
-  <td>
-    <div>18 June 1981</div>
-  </td>
-  <td>
-    <div>S. 45: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, 
-No. S124)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force Retirement and Death Benefits Amendment Act 1981</div>
-  </td>
-  <td>
-    <div>144, 1981</div>
-  </td>
-  <td>
-    <div>21 Oct 1981</div>
-  </td>
-  <td>
-    <div>Ss. 4(1) and 7(1): 
+Remainder: 1 July 1976 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 13(2) and 15</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Retirement and Death Benefits Amendments) Act 1977</div>
+    </td>
+    <td>
+      <div>13, 1977</div>
+    </td>
+    <td>
+      <div>28 Feb 1977</div>
+    </td>
+    <td>
+      <div>Ss. 3 and 4: 1 July 1976 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1977</div>
+    </td>
+    <td>
+      <div>161, 1977</div>
+    </td>
+    <td>
+      <div>10 Nov 1977</div>
+    </td>
+    <td>
+      <div>Ss. 5, 11–17, 24, 26, 27(2), 28(2), 34, 35(1), 36, 38–42, 46 and 48: 1 Oct 1972 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 25(2), 30(2)–(5) and 49–51 
+Ss. 21(3) and (4) (am. by 65, 1987, s. 51). 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>65, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>( <i>see</i>65, 1987 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Retirement and Death Benefits Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>15, 1979</div>
+    </td>
+    <td>
+      <div>19 Mar 1979</div>
+    </td>
+    <td>
+      <div>19 Mar 1979</div>
+    </td>
+    <td>
+      <div>S. 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Retirement and Death Benefits Amendments) Act (No. 2) 1979</div>
+    </td>
+    <td>
+      <div>135, 1979</div>
+    </td>
+    <td>
+      <div>23 Nov 1979</div>
+    </td>
+    <td>
+      <div>23 Nov 1979</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td>
+      <div>S. 116: 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Companies (Miscellaneous Amendments) Act 1981</div>
+    </td>
+    <td>
+      <div>92, 1981</div>
+    </td>
+    <td>
+      <div>18 June 1981</div>
+    </td>
+    <td>
+      <div>S. 45: 1 July 1982 ( <i>see</i>s. 2(3) and <i>Gazette</i>1982, 
+No. S124) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force Retirement and Death Benefits Amendment Act 1981</div>
+    </td>
+    <td>
+      <div>144, 1981</div>
+    </td>
+    <td>
+      <div>21 Oct 1981</div>
+    </td>
+    <td>
+      <div>Ss. 4(1) and 7(1): 
 1 Oct 1972 
 Ss. 4(2), 5(1), 6(1), 8 and 9: 14 May 1981 
 Ss. 3, 5(2), 6(2) and 7(2)–(4): 18 Nov 1981 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 7(3) and (4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>164, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2, 16–19, 115, 116 and 120: Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 7(3) and (4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>164, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>Ss. 1, 2, 16–19, 115, 116 and 120: Royal Assent 
 S. 71: 31 Dec 1982 
 Ss. 23–70 and 
 72–78: 3 July 1985 
@@ -5183,717 +5205,634 @@ Ss. 108 and 109:
 1 Jan 1985 
 Ss. 117–119: 1 Aug 1984 
 S. 121: 1 Jan 1982 
-Remainder: 22 Nov 1984</div>
-  </td>
-  <td>
-    <div>Ss. 83(2) and 85(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No.1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation and Other Benefits Legislation Amendment Act 1986</div>
-  </td>
-  <td>
-    <div>93, 1986</div>
-  </td>
-  <td>
-    <div>13 Oct 1986</div>
-  </td>
-  <td>
-    <div>10 Oct 1986</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>65, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>Ss. 1–3, 9, 10, 13(1), 23–25, 26(1), 27, 29, 31, 33–36, 42–45, 52–55, 58, 61(1), 62, 69(1), Parts IX and X (ss. 71–78): Royal Assent 
+Remainder: 22 Nov 1984 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 83(2) and 85(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No.1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation and Other Benefits Legislation Amendment Act 1986</div>
+    </td>
+    <td>
+      <div>93, 1986</div>
+    </td>
+    <td>
+      <div>13 Oct 1986</div>
+    </td>
+    <td>
+      <div>10 Oct 1986</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>65, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>Ss. 1–3, 9, 10, 13(1), 23–25, 26(1), 27, 29, 31, 33–36, 42–45, 52–55, 58, 61(1), 62, 69(1), Parts IX and X (ss. 71–78): Royal Assent 
 Ss. 37(1) and Part VI (ss. 50–51): 10 Nov 1977 ( <i>see 
+
  </i>s. 2(3)) 
 Ss. 37(2) and 
 38–41: 3 July 1985 
 Ss. 46 and 47: 19 June 1973 ( <i>see</i>s. 2(2)) 
 Ss. 48, 49, 56 and 57: 5 June 1987 
-Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S173)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>100, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 5: 1 July 1988 ( <i>see</i>s. 2(2) and <i>Gazette</i>1988, No. S173) 
+Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>100, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 5: 1 July 1988 ( <i>see</i>s. 2(2) and <i>Gazette</i>1988, No. S173) 
 S. 16: 1 July 1988 ( <i>see</i>s. 2(3) and <i>Gazette</i>1988, No. S173) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1988</div>
-  </td>
-  <td>
-    <div>104, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 18: 1 Sept 1989 ( <i>see Gazette</i>1989, No. S268) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 2) 1988</div>
+    </td>
+    <td>
+      <div>104, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 18: 1 Sept 1989 ( <i>see Gazette</i>1989, No. S268) 
 S. 25: 1 Oct 1972 
 Ss. 29 and 36: 1 July 1978 
 Part IX (ss. 52 and 53): 18 Dec 1987 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation and Other Benefits Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>125, 1989</div>
-  </td>
-  <td>
-    <div>17 Oct 1989</div>
-  </td>
-  <td>
-    <div>20 Oct 1989</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>75, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>S. 4(1): 30 June 1989 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 4(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 2) 1990</div>
-  </td>
-  <td>
-    <div>21, 1991</div>
-  </td>
-  <td>
-    <div>5 Feb 1991</div>
-  </td>
-  <td>
-    <div>Ss. 10–13 and 
-16–18: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force Superannuation Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>126, 1991</div>
-  </td>
-  <td>
-    <div>2 Sept 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 15, 18 and 22: 1 July 1990 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 19): 2 Sept 1991 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Military Superannuation and Benefits Act 1991</div>
-  </td>
-  <td>
-    <div>135, 1991</div>
-  </td>
-  <td>
-    <div>7 Sept 1991</div>
-  </td>
-  <td>
-    <div>Parts 1, 2, 6, 7 (ss. 1–5, 18–28), 
-ss. 42, 47, 49(1)(a) and 50–52: Royal Assent 
-S. 61: 1 Sept 1991 
-Remainder: 1 Oct 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>91, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>Ss. 13 and 14: 1 Sept 1992 ( <i>see Gazette</i>1992, No. S211) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Guarantee (Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>92, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>1 July 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Superannuation Schemes Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>185, 1992</div>
-  </td>
-  <td>
-    <div>17 Dec 1992</div>
-  </td>
-  <td>
-    <div>25 June 1993</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Act 1992</div>
-  </td>
-  <td>
-    <div>196, 1992</div>
-  </td>
-  <td>
-    <div>21 Dec 1992</div>
-  </td>
-  <td>
-    <div>S. 29: 30 July 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i> 
-Schedule (Parts 3 and 6): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>S. 29 
-S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>60, 1993</div>
-  </td>
-  <td>
-    <div>3 Nov 1993</div>
-  </td>
-  <td>
-    <div>10 Mar 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>168, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td>
-    <div>S. 3 (item 17): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Life Insurance (Consequential Amendments and Repeals) Act 1995</div>
-  </td>
-  <td>
-    <div>5, 1995</div>
-  </td>
-  <td>
-    <div>23 Feb 1995</div>
-  </td>
-  <td>
-    <div>1 July 1995 ( <i>see</i>s. 2 and <i>Gazette</i>1995, No. GN24)</div>
-  </td>
-  <td>
-    <div>S. 3(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td>
-    <div>1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997</div>
-  </td>
-  <td>
-    <div>187, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 6: 7 Dec 1997 <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
-  </td>
-  <td>
-    <div>48, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 43): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>44, 1999</div>
-  </td>
-  <td>
-    <div>17 June 1999</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 28, 29): I July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(j)</i></div>
-  </td>
-  <td>
-    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>160, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 21): Royal Assent 
-Remainder: 18 Jan 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 370): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 44–48, 94, 95): 19 Apr 2001 <i>(l)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 
-94, 95) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 11): <i>(la)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>141, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 1 (items 89–92): 15 Dec 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> as amended by </b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 28): <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Indexation) Act 2001</div>
-  </td>
-  <td>
-    <div>148, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 31) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+Remainder: Royal Assent 
+
+</div>
     </td>
     <td>
-      <div>159, 2001</div>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation and Other Benefits Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>125, 1989</div>
+    </td>
+    <td>
+      <div>17 Oct 1989</div>
+    </td>
+    <td>
+      <div>20 Oct 1989</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>75, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td>
+      <div>S. 4(1): 30 June 1989 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 4(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 2) 1990</div>
+    </td>
+    <td>
+      <div>21, 1991</div>
+    </td>
+    <td>
+      <div>5 Feb 1991</div>
+    </td>
+    <td>
+      <div>Ss. 10–13 and 
+16–18: 1 July 1990 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force Superannuation Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>126, 1991</div>
+    </td>
+    <td>
+      <div>2 Sept 1991</div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 15, 18 and 22: 1 July 1990 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 19): 2 Sept 1991 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Military Superannuation and Benefits Act 1991</div>
+    </td>
+    <td>
+      <div>135, 1991</div>
+    </td>
+    <td>
+      <div>7 Sept 1991</div>
+    </td>
+    <td>
+      <div>Parts 1, 2, 6, 7 (ss. 1–5, 18–28), 
+ss. 42, 47, 49(1)(a) and 50–52: Royal Assent 
+S. 61: 1 Sept 1991 
+Remainder: 1 Oct 1991 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>91, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>Ss. 13 and 14: 1 Sept 1992 ( <i>see Gazette</i>1992, No. S211) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Guarantee (Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>92, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>1 July 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Superannuation Schemes Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>185, 1992</div>
+    </td>
+    <td>
+      <div>17 Dec 1992</div>
+    </td>
+    <td>
+      <div>25 June 1993</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Act 1992</div>
+    </td>
+    <td>
+      <div>196, 1992</div>
+    </td>
+    <td>
+      <div>21 Dec 1992</div>
+    </td>
+    <td>
+      <div>S. 29: 30 July 1995 ( <i>see Gazette</i>1995, No. S324) <i>(f)</i> 
+Schedule (Parts 3 and 6): <i>(f)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 29 
+S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>60, 1993</div>
+    </td>
+    <td>
+      <div>3 Nov 1993</div>
+    </td>
+    <td>
+      <div>10 Mar 1993</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>168, 1994</div>
+    </td>
+    <td>
+      <div>16 Dec 1994</div>
+    </td>
+    <td>
+      <div>S. 3 (item 17): Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Life Insurance (Consequential Amendments and Repeals) Act 1995</div>
+    </td>
+    <td>
+      <div>5, 1995</div>
+    </td>
+    <td>
+      <div>23 Feb 1995</div>
+    </td>
+    <td>
+      <div>1 July 1995 ( <i>see</i>s. 2 and <i>Gazette</i>1995, No. GN24)</div>
+    </td>
+    <td>
+      <div>S. 3(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td>
+      <div>1, 1997</div>
+    </td>
+    <td>
+      <div>19 Feb 1997</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment (Superannuation Contributions Tax) Act 1997</div>
+    </td>
+    <td>
+      <div>187, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td>
+      <div>Schedule 6: 7 Dec 1997 <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
+    </td>
+    <td>
+      <div>48, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 43): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>44, 1999</div>
+    </td>
+    <td>
+      <div>17 June 1999</div>
+    </td>
+    <td>
+      <div>Schedule 7 (items 28, 29): I July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(j)</i></div>
+    </td>
+    <td>
+      <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>160, 2000</div>
+    </td>
+    <td>
+      <div>21 Dec 2000</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 370): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(k)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+    </td>
+    <td>
+      <div>10, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 44–48, 94, 95): 19 Apr 2001 <i>(l)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 
+94, 95) \[ <i>see</i>Table A] 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 11): <i>(la)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>141, 2001</div>
     </td>
     <td>
       <div>1 Oct 2001</div>
     </td>
     <td>
-      <div>29 Oct 2001</div>
+      <div>S. 4: Royal Assent 
+Schedule 1 (items 89–92): 15 Dec 2001 
+</div>
     </td>
     <td>
-      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Superannuation (Surcharge Rate Reduction) Amendment Act 2003</div>
-    </td>
-    <td>
-      <div>112, 2003</div>
-    </td>
-    <td>
-      <div>12 Nov 2003</div>
-    </td>
-    <td>
-      <div>Schedule 1: 1 July 2003 
-Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 33) \[ <i>see</i>Table A]</div>
+      <div>S. 4 \[ <i>see</i>Table A] 
+S. 2(2) (am. by 135, 2003, Sch. 2 \[item 28]) 
+</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004</div>
+      <div><b> as amended by </b></div>
     </td>
     <td>
-      <div>58, 2004</div>
+      <div></div>
     </td>
     <td>
-      <div>4 May 2004</div>
+      <div></div>
     </td>
     <td>
-      <div>Schedule 1: 18 May 2004 
-Remainder: Royal Assent</div>
+      <div></div>
     </td>
     <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Superannuation Budget Measures Act 2004</div>
-    </td>
-    <td>
-      <div>106, 2004</div>
-    </td>
-    <td>
-      <div>30 June 2004</div>
-    </td>
-    <td>
-      <div>30 June 2004</div>
-    </td>
-    <td>
-      <div>Sch. 2 (item 11(2)) \[ <i>see</i>Table A]</div>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Superannuation Laws Amendment (Abolition of Surcharge) Act 2005</div>
+      <div>Defence Legislation Amendment Act 2003</div>
     </td>
     <td>
-      <div>102, 2005</div>
+      <div>135, 2003</div>
     </td>
     <td>
-      <div>12 Aug 2005</div>
+      <div>17 Dec 2003</div>
     </td>
     <td>
-      <div>12 Aug 2005</div>
+      <div>Schedule 2 (item 28): <i>(m)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -5901,44 +5840,136 @@ Remainder: Royal Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Defence Legislation Amendment Act (No. 1) 2005</div>
+      <div>Superannuation Legislation Amendment (Indexation) Act 2001</div>
     </td>
     <td>
-      <div>121, 2005</div>
+      <div>148, 2001</div>
     </td>
     <td>
-      <div>6 Oct 2005</div>
+      <div>1 Oct 2001</div>
     </td>
     <td>
-      <div>Schedule 5: <i>(n) 
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 3 (item 31) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+      </td>
+      <td>
+        <div>159, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>29 Oct 2001</div>
+      </td>
+      <td>
+        <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Superannuation (Surcharge Rate Reduction) Amendment Act 2003</div>
+      </td>
+      <td>
+        <div>112, 2003</div>
+      </td>
+      <td>
+        <div>12 Nov 2003</div>
+      </td>
+      <td>
+        <div>Schedule 1: 1 July 2003 
+Remainder: Royal Assent 
+</div>
+      </td>
+      <td>
+        <div>Sch. 1 (item 33) \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004</div>
+      </td>
+      <td>
+        <div>58, 2004</div>
+      </td>
+      <td>
+        <div>4 May 2004</div>
+      </td>
+      <td>
+        <div>Schedule 1: 18 May 2004 
+Remainder: Royal Assent 
+</div>
+      </td>
+      <td>
+        <div>S. 4 \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Superannuation Budget Measures Act 2004</div>
+      </td>
+      <td>
+        <div>106, 2004</div>
+      </td>
+      <td>
+        <div>30 June 2004</div>
+      </td>
+      <td>
+        <div>30 June 2004</div>
+      </td>
+      <td>
+        <div>Sch. 2 (item 11(2)) \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Superannuation Laws Amendment (Abolition of Surcharge) Act 2005</div>
+      </td>
+      <td>
+        <div>102, 2005</div>
+      </td>
+      <td>
+        <div>12 Aug 2005</div>
+      </td>
+      <td>
+        <div>12 Aug 2005</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Defence Legislation Amendment Act (No. 1) 2005</div>
+      </td>
+      <td>
+        <div>121, 2005</div>
+      </td>
+      <td>
+        <div>6 Oct 2005</div>
+      </td>
+      <td>
+        <div>Schedule 5: <i>(n) 
+
  </i>Remainder: Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Superannuation Legislation Amendment Act 2007</div>
-    </td>
-    <td>
-      <div>165, 2007</div>
-    </td>
-    <td>
-      <div>25 Sept 2007</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 1–5, 8): Royal Assent 
-Schedule 6: \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 4 (item 8) and Sch. 6 (items 4, 6) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-</thead></table>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_     The _Defence Force Retirement and Death Benefits Act 1973_ was amended by sections
- 156–163 only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows: 
+156–163 only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows: 
 
                    2.   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
@@ -6070,25 +6101,27 @@ _(la)_    Subsection 2(1) (item 40) of the _Statute Law Revision Act 200
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      40\. Schedule 2, item 11
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation)
-          Act 2001</i>for the commencement of item 46 of Schedule 2 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      19 April 2001
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        40\. Schedule 2, item 11
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the time specified in the
+          <i>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation)
+            Act 2001</i>for the commencement of item 46 of Schedule 2 to that Act
+      </div>
+    </td>
+    <td>
+      <div>
+        19 April 2001
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(m)_    Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
 
@@ -6126,25 +6159,27 @@ _(m)_    Subsection 2(1) (item 9) of the _Defence Legislation Amendment 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 2, item 28
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        9\. Schedule 2, item 28
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of section 2 of the
+          <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 October 2001
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 October 2001
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
 
@@ -6182,24 +6217,27 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 5
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of section 3 of the
+          <i>Legislative Instruments Act 2003</i>.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -6224,1516 +6262,1433 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2001 (as am. by No. 63, 2002)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6A, 6B</div>
-  </td>
-  <td>
-    <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 112, 2003; Nos. 58 and 106, 2004; No. 102, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6D</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 33, 1976; No. 164, 1984; No. 126, 1991; No. 1, 1997; No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; No. 126, 1991; No. 91, 1992; No. 1, 1997; No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1991 (as am. by No. 43, 1996)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 126, 1991; No. 91, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1981; No. 104, 1988; No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1981; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; Nos. 1 and 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 144, 1981; No. 164, 1984; No. 100, 1988; Nos. 126 and 135, 1991; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 15, 1979; No. 164, 1984; Nos. 126 and 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 164, 1984; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 1981; No. 164, 1984; No. 100, 1988; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. Nos. 15 and 135, 1979; No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976; No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part VI</div>
-  </td>
-  <td>
-    <div>am. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 185, 1992; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 126, 1991; No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rep. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 185, 1992; No. 48, 1998; No. 44, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 161, 1977; No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41A</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 185, 1992; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 164, 1984; No. 21, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 164, 1984; No. 75, 1990; No. 21, 1991; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>rs. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 133, 1979; No. 126, 1991; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIA</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49A</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49B, 49C</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49D, 49E</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49F</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 121, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>rs. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61A</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61B</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 92, 1992; No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61C, 61D</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976; No. 135, 1979; No. 144, 1981; No. 104, 1988; No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1974; No. 164, 1984; No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976; No. 164, 1984; No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1974; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976; No. 92, 1981; No. 164, 1984; No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72, 73</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 79, 80</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978; No. 164, 1984; No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part X</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 86, 87</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87A</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 89, 90</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 65, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984 (as am. by No. 65, 1985)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 93–95</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XA</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98A</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 65, 1987; No. 148, 2001; No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98B</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 164, 1984; No. 65, 1987; No. 21, 1991; No. 148, 2001; No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98C</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 1991; No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98D</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2001; No. 165, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98E</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 98F</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98F</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1986; No 126, 1991; No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 98G</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98G</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979; No. 93, 1986; No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98GA</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98GB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XB</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XB</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98H</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 98J–98L</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XI</div>
-  </td>
-  <td>
-    <div>rs. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>rs. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 100–123</div>
-  </td>
-  <td>
-    <div>rep. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124</div>
-  </td>
-  <td>
-    <div>rep. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 124A</div>
-  </td>
-  <td>
-    <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126</div>
-  </td>
-  <td>
-    <div>am. No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 127</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 128</div>
-  </td>
-  <td>
-    <div>am. No. 135, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 128A</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130A</div>
-  </td>
-  <td>
-    <div>ad. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130B</div>
-  </td>
-  <td>
-    <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1976; No. 164, 1984; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XIII</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 132–138</div>
-  </td>
-  <td>
-    <div>ad. No. 135, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1975; No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>am. No. 161, 1977; No. 135, 1979</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 10, 2001 (as am. by No. 63, 2002)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6A, 6B</div>
+    </td>
+    <td>
+      <div>ad. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6C</div>
+    </td>
+    <td>
+      <div>ad. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 112, 2003; Nos. 58 and 106, 2004; No. 102, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6D</div>
+    </td>
+    <td>
+      <div>ad. No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 33, 1976; No. 164, 1984; No. 126, 1991; No. 1, 1997; No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; No. 126, 1991; No. 91, 1992; No. 1, 1997; No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>rs. No. 96, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1991 (as am. by No. 43, 1996)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 126, 1991; No. 91, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1981; No. 104, 1988; No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1981; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; Nos. 1 and 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 135, 1979; No. 144, 1981; No. 164, 1984; No. 100, 1988; Nos. 126 and 135, 1991; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 15, 1979; No. 164, 1984; Nos. 126 and 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 164, 1984; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32A</div>
+    </td>
+    <td>
+      <div>ad. No. 135, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 144, 1981; No. 164, 1984; No. 100, 1988; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. Nos. 15 and 135, 1979; No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 135, 1979; No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976; No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part VI</div>
+    </td>
+    <td>
+      <div>am. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 185, 1992; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 126, 1991; No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>rep. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 185, 1992; No. 48, 1998; No. 44, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rs. No. 161, 1977; No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41A</div>
+    </td>
+    <td>
+      <div>ad. No. 21, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 185, 1992; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 164, 1984; No. 21, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 164, 1984; No. 75, 1990; No. 21, 1991; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2A of Part VI</div>
+    </td>
+    <td>
+      <div>ad. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43A</div>
+    </td>
+    <td>
+      <div>ad. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>rs. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 185, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>rs. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 133, 1979; No. 126, 1991; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48A</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VIA</div>
+    </td>
+    <td>
+      <div>ad. No. 58, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49A</div>
+    </td>
+    <td>
+      <div>ad. No. 58, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49B, 49C</div>
+    </td>
+    <td>
+      <div>ad. No. 58, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49D, 49E</div>
+    </td>
+    <td>
+      <div>ad. No. 58, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49F</div>
+    </td>
+    <td>
+      <div>ad. No. 58, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 121, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 55</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>rs. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61A</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61B</div>
+    </td>
+    <td>
+      <div>ad. No. 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 92, 1992; No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 61C, 61D</div>
+    </td>
+    <td>
+      <div>ad. No. 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976; No. 135, 1979; No. 144, 1981; No. 104, 1988; No. 126, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 63</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IX</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1974; No. 164, 1984; No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976; No. 164, 1984; No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1974; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976; No. 92, 1981; No. 164, 1984; No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 72, 73</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 74</div>
+    </td>
+    <td>
+      <div>am. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 79, 80</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 84</div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978; No. 164, 1984; No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part X</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 85</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 86, 87</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87A</div>
+    </td>
+    <td>
+      <div>ad. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 88</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 89, 90</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 65, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984 (as am. by No. 65, 1985)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 93–95</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part XA</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98A</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 164, 1984; No. 65, 1987; No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98B</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 135, 1979; No. 164, 1984; No. 65, 1987; No. 21, 1991; No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98C</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 135, 1991; No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98D</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98E</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 98F</div>
+    </td>
+    <td>
+      <div>am. No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98F</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1986; No 126, 1991; No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 98G</div>
+    </td>
+    <td>
+      <div>am. No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98G</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979; No. 93, 1986; No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98GA</div>
+    </td>
+    <td>
+      <div>ad. No. 93, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98GB</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 148, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XB</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part XB</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98H</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 98J–98L</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1981</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part XI</div>
+    </td>
+    <td>
+      <div>rs. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 99</div>
+    </td>
+    <td>
+      <div>rs. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 100–123</div>
+    </td>
+    <td>
+      <div>rep. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 124</div>
+    </td>
+    <td>
+      <div>rep. No. 33, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 124A</div>
+    </td>
+    <td>
+      <div>ad. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 126</div>
+    </td>
+    <td>
+      <div>am. No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 127</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 128</div>
+    </td>
+    <td>
+      <div>am. No. 135, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 128A</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 130</div>
+    </td>
+    <td>
+      <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 130A</div>
+    </td>
+    <td>
+      <div>ad. No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 130B</div>
+    </td>
+    <td>
+      <div>ad. No. 187, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 131</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1976; No. 164, 1984; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part XIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part XIII</div>
+    </td>
+    <td>
+      <div>ad. No. 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 132–138</div>
+    </td>
+    <td>
+      <div>ad. No. 135, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1975; No. 161, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3</div>
+    </td>
+    <td>
+      <div>am. No. 161, 1977; No. 135, 1979</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Superannuation Legislation Amendment Act 2007 (No. 165, 2007)_
-
-The following amendments commence on 1 January 2008 (_see_ F2007L04119):
-
-## Schedule 6
-
-## 1  Subsection 6B(2)
-
-Repeal the subsection, substitute:
-
-             (2)  For the purposes of this Act, a person is a spouse who survives a deceased person if the person had a marital relationship with the deceased person at the time of the death of the deceased person.
-
-## 2  Paragraph 6B(3)(c)
-
-Repeal the paragraph.
-
-## 3  After section 6B
-
-Insert:
-
-##### <a id="6BA"></a>6BA  Benefits for certain spouses in post-retirement marriages
-
-             (1)  This section applies if:
-
-                     (a)  a spouse survives a deceased person (within the meaning of section 6B); and
-
-                     (b)  the spouse’s marital relationship with the deceased person:
-
-                              (i)  began after the recipient member became a recipient member; and
-
-                             (ii)  began after the recipient member reached 60; and
-
-                            (iii)  continued for a period (the **_period of the relationship_**) of less than 3 years up to the time of the deceased member’s death.
-
-             (2)  The rate of the spouse pension to which the spouse is entitled is worked out using the following formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00621/Html/DefForRetDeathBen1973_WD02_image012.gif)
-
-             (3)  If the rate worked out under subsection (2) is less than or equal to  the rate prescribed by the regulations for the purposes of this section, the spouse is instead entitled to a lump sum payment worked out in accordance with the regulations.
-
-## 5  After subsection 49E(1)
-
-Insert:
-
-Reduction of later standard pensions
-
-          (1A)  If:
-
-                     (a)  the annual rate of a standard pension (the **_first pension_**) payable to the member spouse is reduced under subsection (1); and
-
-                     (b)  after the operative time, another standard pension (the **_later pension_**) becomes payable to the member spouse;
-
-then the annual rate of the later pension is reduced to the amount calculated under the Orders.
-
-Reduction in later payments of lump sum amounts
-
-          (1B)  If:
-
-                     (a)  the annual rate of a standard pension payable to the member spouse is reduced under subsection (1); and
-
-                     (b)  after the operative time, a lump sum amount becomes payable, in respect of the member spouse, under section 32, 48, 48A, 56, 57 or 77;
-
-then the lump sum amount is reduced to the amount calculated under the Orders.
-
-_Note:       The heading to section 49E is altered by adding at the end “or lump sum amount”._
-
-As at 4 October 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -7759,10 +7714,13 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 
 (3)        Subitem (2) does not limit the scope of subitem (1).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Defence Legislation Amendment (Application of Criminal Code) Act 2001 
- (No. 141, 2001)_
+
+(No. 141, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -7770,7 +7728,9 @@ _Defence Legislation Amendment (Application of Criminal Code) Act 2001
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation Legislation Amendment (Indexation) Act 2001 (No. 148, 2001)_
 
@@ -7790,10 +7750,13 @@ _Superannuation Legislation Amendment (Indexation) Act 2001 (No. 148, 2001)_
 
 (2)        To avoid doubt, the amendments and repeals made by this Schedule do not affect any increase in the rate of a pension benefit that arose from the operation of any provision amended or repealed by this Schedule.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 
- (No. 159, 2001)_
+
+(No. 159, 2001)_
 
 ## Schedule 1
 
@@ -7801,10 +7764,13 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation (Surcharge Rate Reduction) Amendment Act 2003 
- (No. 112, 2003)_
+
+(No. 112, 2003)_
 
 ## Schedule 1
 
@@ -7814,7 +7780,9 @@ The amendments made by items 24 to 30 apply in relation to benefits that becom
 
 _Note:       The Acts amended by items 24 to 30 continue to apply in relation to benefits that become payable before 1 July 2003 as if the amendments made by those items had not been made._
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)_
 
@@ -7830,7 +7798,9 @@ _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (N
 
                     <a name="famili-law-interest-split-amend"></a>**_family law interest-splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation Budget Measures Act 2004 (No. 106, 2004)_
 
@@ -7840,35 +7810,6 @@ _Superannuation Budget Measures Act 2004 (No. 106, 2004)_
 
 (2)        The amendments made by items 4 to 9 of this Schedule apply in relation to benefits that become payable on or after 1 July 2004.
 
-* * *
-
-_Superannuation Legislation Amendment Act 2007 (No. 165, 2007)_
-
-## Schedule 4
-
-## 8  Application
-
-(1)        The amendments made by this Schedule apply in respect of any application for restoration of a pension, or for restoration of the full rate of a pension, that is made on or after the day on which this Schedule commences.
-
-(2)        If an application made before 1 January 2008 is granted, the pension is payable at the full rate only from 1 January 2008 (despite the following provisions:
-
-                     (a)  subsection 44(3) of the _Defence Force Retirement and Death Benefits Act 1973_ (as inserted by item 1  of this Schedule);
-
-                     (b)  subsection 64A(3) of the _Defence Forces Retirement Benefits Act 1948_ (as inserted by item 6  of this Schedule);
-
-                     (c)  subsection 48AA(3) of the _Superannuation Act 1922_(as inserted by item 7  of this Schedule)).
-
-The following provisions commence on 1 January 2008 (_see_ F2007L04119):
-
-## Schedule 6
-
-## 4  Application
-
-The amendments made by this Part apply in respect of any spouse who survives a deceased person if the death of the deceased person occurs after this Part commences.
-
-## 6  Application
-
-The amendment made by this Part applies in relation to a later pension, or a lump sum amount, that is paid as a result of a period of effective service that begins on or after the day on which this Part commences.
 
  
 
