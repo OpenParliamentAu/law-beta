@@ -1,36 +1,30 @@
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image001.gif)
 
 # Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004
 
 **Act No. 52 of 2004 as amended**
 
-This compilation was prepared on 29 March 2007
+This compilation was prepared on 18 July 2005
 
-**\[This Act was amended by Act No. 100 of 2004; No. 100 of 2005; No. 29 of 2007]**
+**\[This Act was amended by Act No. 100 of 2004; No. 100 of 2005]**
 
 **Amendments from Act No. 100 of 2004**
 
 \[Schedule 6 (item 1) amended note to subsection 7(1)
- Schedule 6 (item 2) amended note 1 to subsection 7(2)
- Schedule 6 (item 3) amended note to subsection 8(1)
- Schedule 6 (item 4) amended note 1 to subsection 8(2)
+Schedule 6 (item 2) amended note 1 to subsection 7(2)
+Schedule 6 (item 3) amended note to subsection 8(1)
+Schedule 6 (item 4) amended note 1 to subsection 8(2)
 
 Schedule 6 (items 1–4) commenced on 1 July 2004]
 
 **Amendment from Act No. 100 of 2005**
 
 \[Schedule 2 (item 22) amended note to item 95 of Schedule 3
-
 Schedule 2 (item 22) commenced immediately after 1 July 2004]
 
-**Amendment from Act No. 29 of 2007**
-
-\[Schedule 3 (item 30) repealed item 28 of Schedule 1
-
-Schedule 3 (item 30) commenced on 16 March 2007]
-
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -92,69 +86,70 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Amendment of the Veterans’ Entitlements Act 1986** 
 
-Part 1—Main amendments relating to transitional and application issues  22
+Part 1—Main amendments relating to transitional and application issues  23
 
-Part 2—Amendments relating to income support supplement                       42
+Part 2—Amendments relating to income support supplement                       44
 
-Part 3—Amendments relating to the Statements of Principles                       46
+Part 3—Amendments relating to the Statements of Principles                       49
 
-Part 4—Amendments relating to offsetting permanent impairment payments under the SRCA             52
+Part 4—Amendments relating to offsetting permanent impairment payments under the SRCA             55
 
 **Schedule 2—Amendment of the Safety, Rehabilitation and Compensation Act 1988** 
 
-Part 1—Main amendments relating to transitional and application issues  55
+Part 1—Main amendments relating to transitional and application issues  58
 
-Part 2—Defence-related injuries and deaths etc.                                               60
+Part 2—Defence-related injuries and deaths etc.                                               63
 
 **Schedule 3—General consequential amendments** 
 
-Aged Care Act 1997                                                                                                  73
+Aged Care Act 1997                                                                                                  76
 
-Age Discrimination Act 2004                                                                                  74
+Age Discrimination Act 2004                                                                                  77
 
-A New Tax System (Family Assistance) Act 1999                                                75
+A New Tax System (Family Assistance) Act 1999                                                78
 
-A New Tax System (Family Assistance) (Administration) Act 1999                75
+A New Tax System (Family Assistance) (Administration) Act 1999                78
 
-A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999  75
+A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999  78
 
-Data-matching Program (Assistance and Tax) Act 1990                                  76
+Data-matching Program (Assistance and Tax) Act 1990                                  79
 
-Defence Act 1903                                                                                                       76
+Defence Act 1903                                                                                                       79
 
-Defence Force (Home Loans Assistance) Act 1990                                             76
+Defence Force (Home Loans Assistance) Act 1990                                             79
 
-Defence Reserve Service (Protection) Act 2001                                                  77
+Defence Reserve Service (Protection) Act 2001                                                  80
 
-Disability Discrimination Act 1992                                                                       78
+Disability Discrimination Act 1992                                                                       81
 
-Farm Household Support Act 1992                                                                       78
+Farm Household Support Act 1992                                                                       81
 
-Fringe Benefits Tax (Application to the Commonwealth) Act 1986               78
+Fringe Benefits Tax (Application to the Commonwealth) Act 1986               81
 
-Income Tax Rates Act 1986                                                                                      79
+Income Tax Rates Act 1986                                                                                      82
 
-National Health Act 1953                                                                                        79
+National Health Act 1953                                                                                        82
 
-Registration of Deaths Abroad Act 1984                                                              80
+Registration of Deaths Abroad Act 1984                                                              83
 
-Social Security Act 1991                                                                                          80
+Social Security Act 1991                                                                                          83
 
-Superannuation Act 1976                                                                                        94
+Superannuation Act 1976                                                                                        98
 
-Taxation Administration Act 1953                                                                         96
+Taxation Administration Act 1953                                                                         99
 
 **Schedule 4—Consequential amendments of Income Tax Assessment Acts** 
 
-Part 1—Amendment of the Income Tax Assessment Act 1936                   97
+Part 1—Amendment of the Income Tax Assessment Act 1936                 100
 
-Part 2—Amendment of the Income Tax Assessment Act 1997                 100
+Part 2—Amendment of the Income Tax Assessment Act 1997                 103
 
-Part 3—Application and amendment of assessments                                      107
+Part 3—Application and amendment of assessments                                      110
+
 
 ## An Act to amend laws, and to deal with transitional matters, in connection with the _Military Rehabilitation and Compensation Act 2004_, and for other purposes
 
-[_Assented to__27  April 2004_]
+[_Assented to__27 April 2004_]
 
 The Parliament of Australia enacts:
 
@@ -218,87 +213,89 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>27 April 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Sections 4 to 24</div>
-  </td>
-  <td>
-    <div>At the same time as section 3 of the MRCA commences.</div>
-  </td>
-  <td>
-    <div>1 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Schedules 1 and 2</div>
-  </td>
-  <td>
-    <div>At the same time as section 3 of the MRCA commences.</div>
-  </td>
-  <td>
-    <div>1 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 3, items 1 to 7</div>
-  </td>
-  <td>
-    <div>At the same time as section 3 of the MRCA commences.</div>
-  </td>
-  <td>
-    <div>1 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5\. Schedule 3, items 7A and 7B</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) the time when section 3 of the MRCA commences; and</div>
-    <div>(b) the time when the
-      <i>Age Discrimination Act 2004</i>commences.</div>
-  </td>
-  <td>
-    <div>1 July 2004 (paragraph (a) applies)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6\. Schedule 3, items 8 to 105</div>
-  </td>
-  <td>
-    <div>At the same time as section 3 of the MRCA commences.</div>
-  </td>
-  <td>
-    <div>1 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Schedule 4</div>
-  </td>
-  <td>
-    <div>At the same time as section 3 of the MRCA commences.</div>
-  </td>
-  <td>
-    <div>1 July 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>27 April 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Sections 4 to 24</div>
+    </td>
+    <td>
+      <div>At the same time as section 3 of the MRCA commences.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Schedules 1 and 2</div>
+    </td>
+    <td>
+      <div>At the same time as section 3 of the MRCA commences.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 3, items 1 to 7</div>
+    </td>
+    <td>
+      <div>At the same time as section 3 of the MRCA commences.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5\. Schedule 3, items 7A and 7B</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) the time when section 3 of the MRCA commences; and</div>
+      <div>(b) the time when the
+        <i>Age Discrimination Act 2004</i>commences.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Schedule 3, items 8 to 105</div>
+    </td>
+    <td>
+      <div>At the same time as section 3 of the MRCA commences.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Schedule 4</div>
+    </td>
+    <td>
+      <div>At the same time as section 3 of the MRCA commences.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -591,116 +588,118 @@ is instead only entitled to the benefit under the MRCA provision at that time.
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Subsection 13(4) of the VEA</div>
-  </td>
-  <td>
-    <div>Section 253 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Section 98 of the VEA</div>
-  </td>
-  <td>
-    <div>Section 217 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Section 105 of the VEA</div>
-  </td>
-  <td>
-    <div>Section 212 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Section 107 of the VEA</div>
-  </td>
-  <td>
-    <div>Part 3, 4 or 6 of Chapter 4 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Section 108 of the VEA</div>
-  </td>
-  <td>
-    <div>Part 3, 4 or 6 of Chapter 4 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Part VII of the VEA</div>
-  </td>
-  <td>
-    <div>Section 258 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Section 19, 20, 21, 21A or 31 of the SRCA</div>
-  </td>
-  <td>
-    <div>Part 3, 4 or 6 of Chapter 4 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Section 22 of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 127 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>Subsection 29(1) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 214 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>Subsection 29(3) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 217 of the MRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Subsection 13(4) of the VEA</div>
+    </td>
+    <td>
+      <div>Section 253 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Section 98 of the VEA</div>
+    </td>
+    <td>
+      <div>Section 217 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Section 105 of the VEA</div>
+    </td>
+    <td>
+      <div>Section 212 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Section 107 of the VEA</div>
+    </td>
+    <td>
+      <div>Part 3, 4 or 6 of Chapter 4 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Section 108 of the VEA</div>
+    </td>
+    <td>
+      <div>Part 3, 4 or 6 of Chapter 4 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Part VII of the VEA</div>
+    </td>
+    <td>
+      <div>Section 258 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Section 19, 20, 21, 21A or 31 of the SRCA</div>
+    </td>
+    <td>
+      <div>Part 3, 4 or 6 of Chapter 4 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Section 22 of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 127 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>Subsection 29(1) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 214 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>Subsection 29(3) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 217 of the MRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          Payments of Commonwealth superannuation that are being offset under section 20, 21 or 21A of the SRCA might instead be offset under Part 4 or 6 of Chapter 4 of the MRCA (see section 16 of this Act).
 
@@ -755,50 +754,52 @@ is instead only entitled to the benefit under the MRCA provision in respect of t
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Subsection 110(1) of the VEA</div>
-  </td>
-  <td>
-    <div>Subsection 290(1) or 291(1) of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Subsection 110(2) of the VEA</div>
-  </td>
-  <td>
-    <div>Subsection 290(2) or 291(2) of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Subsection 16(6) of the SRCA</div>
-  </td>
-  <td>
-    <div>Division 2 of Part 4 of Chapter 6 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Subsection 16(9) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 297 of the MRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Subsection 110(1) of the VEA</div>
+    </td>
+    <td>
+      <div>Subsection 290(1) or 291(1) of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Subsection 110(2) of the VEA</div>
+    </td>
+    <td>
+      <div>Subsection 290(2) or 291(2) of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Subsection 16(6) of the SRCA</div>
+    </td>
+    <td>
+      <div>Division 2 of Part 4 of Chapter 6 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Subsection 16(9) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 297 of the MRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
 No dual entitlement for treatment expenses
 
@@ -855,28 +856,30 @@ is instead only entitled to the benefit under the MRCA provision in respect of t
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Paragraph 39(1)(c), (d) or (e) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 56 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Paragraph 39(1)(d) or (e) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 212 of the MRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Paragraph 39(1)(c), (d) or (e) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 56 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Paragraph 39(1)(d) or (e) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 212 of the MRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
 No dual entitlement for deaths
 
@@ -928,105 +931,107 @@ is instead only entitled to the benefit under the MRCA provision in respect of t
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Section 98B of the VEA</div>
-  </td>
-  <td>
-    <div>Section 266 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Subsection 99(1) of the VEA</div>
-  </td>
-  <td>
-    <div>Section 266 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Subsection 99(2) of the VEA</div>
-  </td>
-  <td>
-    <div>Section 266 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Paragraph 99(4)(b) of the VEA</div>
-  </td>
-  <td>
-    <div>Section 297 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Subsection 16(9) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 297 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Subsection 17(3) of the SRCA</div>
-  </td>
-  <td>
-    <div>Parts 1 to 4 of Chapter 5 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Subsection 17(4) of the SRCA</div>
-  </td>
-  <td>
-    <div>Part 4 of Chapter 5 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Subsection 17(5) of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 253 of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>Section 18 of the SRCA</div>
-  </td>
-  <td>
-    <div>Section 266 of the MRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Section 98B of the VEA</div>
+    </td>
+    <td>
+      <div>Section 266 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Subsection 99(1) of the VEA</div>
+    </td>
+    <td>
+      <div>Section 266 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Subsection 99(2) of the VEA</div>
+    </td>
+    <td>
+      <div>Section 266 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Paragraph 99(4)(b) of the VEA</div>
+    </td>
+    <td>
+      <div>Section 297 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Subsection 16(9) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 297 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Subsection 17(3) of the SRCA</div>
+    </td>
+    <td>
+      <div>Parts 1 to 4 of Chapter 5 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Subsection 17(4) of the SRCA</div>
+    </td>
+    <td>
+      <div>Part 4 of Chapter 5 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Subsection 17(5) of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 253 of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>Section 18 of the SRCA</div>
+    </td>
+    <td>
+      <div>Section 266 of the MRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
              (6)  To avoid doubt, if this section stops a person from being entitled, under a provision of an Act, to a benefit at a time or in respect of a thing, then compensation, an allowance, a pension or any other benefit is not payable, or to be granted, under the provision at that time or in respect of that thing to or for the benefit of the person.
 
@@ -1088,52 +1093,54 @@ Note:          This means that amounts of superannuation that 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the superannuation pension amount mentioned in section 134 of the MRCA</div>
-  </td>
-  <td>
-    <div>the superannuation amount (in relation to a pension) mentioned in section 20
-      of the SRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>the superannuation lump sum amount mentioned in section 135 of the MRCA</div>
-  </td>
-  <td>
-    <div>the superannuation amount (in relation to a lump sum benefit) mentioned
-      in section 21 of the SRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>the superannuation pension amount mentioned in section 136 of the MRCA</div>
-  </td>
-  <td>
-    <div>the weekly superannuation amount mentioned in section 21A of the SRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>the superannuation lump sum amount mentioned in section 136 of the MRCA</div>
-  </td>
-  <td>
-    <div>the superannuation lump sum benefit mentioned in section 21A of the SRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>the superannuation pension amount mentioned in section 134 of the MRCA</div>
+    </td>
+    <td>
+      <div>the superannuation amount (in relation to a pension) mentioned in section 20
+        of the SRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>the superannuation lump sum amount mentioned in section 135 of the MRCA</div>
+    </td>
+    <td>
+      <div>the superannuation amount (in relation to a lump sum benefit) mentioned
+        in section 21 of the SRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>the superannuation pension amount mentioned in section 136 of the MRCA</div>
+    </td>
+    <td>
+      <div>the weekly superannuation amount mentioned in section 21A of the SRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>the superannuation lump sum amount mentioned in section 136 of the MRCA</div>
+    </td>
+    <td>
+      <div>the superannuation lump sum benefit mentioned in section 21A of the SRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="17"></a>17  Amount of compensation where a person has redeemed an amount under the SRCA
 
@@ -1141,7 +1148,7 @@ Note:          This means that amounts of superannuation that 
 
              (2)  The amount is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image002.gif)
 
 where:
 
@@ -1213,40 +1220,42 @@ Translating references in a subsection 196B(2) or (11) Statement of Principles
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>operational service, peacekeeping service or hazardous service as defined
-      in the VEA</div>
-  </td>
-  <td>
-    <div>warlike service or non-warlike service as defined in the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>paragraph 8(1)(e), 9(1)(e), 70(5)(d) or 70(5A)(d) of the VEA</div>
-  </td>
-  <td>
-    <div>paragraphs 27(d) and 28(1)(d) of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>section 120A of the VEA</div>
-  </td>
-  <td>
-    <div>section 338 of the MRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>operational service, peacekeeping service or hazardous service as defined
+        in the VEA</div>
+    </td>
+    <td>
+      <div>warlike service or non-warlike service as defined in the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>paragraph 8(1)(e), 9(1)(e), 70(5)(d) or 70(5A)(d) of the VEA</div>
+    </td>
+    <td>
+      <div>paragraphs 27(d) and 28(1)(d) of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>section 120A of the VEA</div>
+    </td>
+    <td>
+      <div>section 338 of the MRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Translating references in a subsection 196B(3) or (12) Statement of Principles
 
@@ -1292,40 +1301,42 @@ Translating references in a subsection 196B(3) or (12) Statement of Principles
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>eligible war service (other than operational service) or defence service
-      (other than hazardous service) as defined in the VEA</div>
-  </td>
-  <td>
-    <div>peacetime service as defined in the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>paragraph 8(1)(e), 9(1)(e) or 70(5)(d) of the VEA</div>
-  </td>
-  <td>
-    <div>paragraphs 27(d) and 28(1)(d) of the MRCA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>section 120B of the VEA</div>
-  </td>
-  <td>
-    <div>section 339 of the MRCA</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>eligible war service (other than operational service) or defence service
+        (other than hazardous service) as defined in the VEA</div>
+    </td>
+    <td>
+      <div>peacetime service as defined in the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>paragraph 8(1)(e), 9(1)(e) or 70(5)(d) of the VEA</div>
+    </td>
+    <td>
+      <div>paragraphs 27(d) and 28(1)(d) of the MRCA</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>section 120B of the VEA</div>
+    </td>
+    <td>
+      <div>section 339 of the MRCA</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="20"></a>20  Bringing across the current Veterans’ Children Education Scheme
 
@@ -1373,6 +1384,7 @@ Note:          This means that the review provisions in Chapte
 
                      (b)  a method of converting a lump sum amount into weekly amounts for the purpose of working out an amount of compensation payable for a service injury or disease under Parts 2 and 6 of Chapter 4 of the MRCA.
 
+
 ###### Schedule 1—Amendment of the Veterans’ Entitlements Act 1986
 
 <h7 class="ActHead7">Part 1—Main amendments relating to transitional and application issues</h7>
@@ -1387,46 +1399,48 @@ Insert in their appropriate alphabetical positions, determined on a letter-by-le
   <col width="25%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>CTPA</div>
-  </td>
-  <td>
-    <div>5Q(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Military Rehabilitation and Compensation Commission</div>
-  </td>
-  <td>
-    <div>5Q(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>MRCA</div>
-  </td>
-  <td>
-    <div>5Q(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>MRCA commencement date</div>
-  </td>
-  <td>
-    <div>5Q(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>relates to service</div>
-  </td>
-  <td>
-    <div>5Q(1B) and (1C)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CTPA</div>
+    </td>
+    <td>
+      <div>5Q(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Military Rehabilitation and Compensation Commission</div>
+    </td>
+    <td>
+      <div>5Q(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>MRCA</div>
+    </td>
+    <td>
+      <div>5Q(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>MRCA commencement date</div>
+    </td>
+    <td>
+      <div>5Q(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>relates to service</div>
+    </td>
+    <td>
+      <div>5Q(1B) and (1C)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 2  After paragraph 5H(8)(b)
 
@@ -1484,7 +1498,7 @@ Insert:
 
                    For the purposes of paragraphs 5H(8)(zr) and 52Z(3A)(i), the amount per fortnight is:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image003.gif)
 
 where:
 
@@ -1666,7 +1680,7 @@ Repeal the subsection, substitute:
 
              (5)  The rate at which pension is payable to a veteran to whom section 115D applies (veterans working under rehabilitation scheme) is the reduced amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image004.gif)
 
 ## 16B  Subsection 24(5)
 
@@ -1674,7 +1688,7 @@ Repeal the subsection, substitute:
 
              (5)  The rate at which pension is payable to a veteran to whom section 115D applies (veterans working under rehabilitation scheme) is the reduced amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image004.gif)
 
 ## 16C  Application of items 16A and 16B
 
@@ -1786,6 +1800,14 @@ Repeal the paragraph, substitute:
 
                      (c)  a deceased veteran was, before the MRCA commencement date, a prisoner of war at a time when the veteran was on operational service;
 
+## 28  After subsection 88A(1)
+
+Insert:
+
+          (1A)  However, the Commission may only make a determination under subsection (1) in respect of veterans who render service before the MRCA commencement date.
+
+Note:          The Military Rehabilitation and Compensation Commission can arrange for treatment of a specified kind for veterans who render service after the MRCA commencement date, or for dependants of such veterans (see section 424 of the MRCA).
+
 ## 29  Subsection 91(6)
 
 Omit “approved scheme,”, substitute “approved scheme or a determination under paragraph 286(1)(c) of the MRCA,”.
@@ -1890,7 +1912,7 @@ Reduced daily pension amount during the initial period
 
              (2)  A veteran’s **_reduced daily pension amount_** for a pension period that occurs within the initial period is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image005.gif)
 
 Note 1:       Expressions used in this subsection are defined in subsection (7).
 
@@ -1900,7 +1922,7 @@ Reduced daily pension amount during the second period
 
              (3)  A veteran’s **_reduced daily pension amount_** for a pension period that occurs within the second period is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image006.gif)
 
 Note 1:       Expressions used in this subsection are defined in subsection (7).
 
@@ -1926,11 +1948,11 @@ Definitions
 
                     <a name="cpi-amount"></a>**_CPI amount_** means the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image007.gif)
 
                     <a name="daili-abov-gener-rate"></a>**_daily above general rate_** for a veteran means the rate worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image008.gif)
 
                     <a name="initi-period"></a>**_initial period_** for a veteran means the period:
 
@@ -1952,7 +1974,7 @@ Definitions
 
                      (b)  otherwise—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image009.gif)
 
 ## 39B  Subsection 115E(1)
 
@@ -2002,7 +2024,7 @@ Insert:
 
 No rent assistance if person receiving a Special Rate Disability Pension
 
- SCH6-C4A  No additional amount is to be added to a person’s maximum basic rate under point SCH6-C3 if the person chooses to receive a Special Rate Disability Pension under section 200 of the MRCA.
+SCH6-C4A  No additional amount is to be added to a person’s maximum basic rate under point SCH6-C3 if the person chooses to receive a Special Rate Disability Pension under section 200 of the MRCA.
 
 ## 46  Paragraph SCH6-C7(c)
 
@@ -2102,7 +2124,7 @@ Note 2:       For **_permanent impairment compensation_** see point 
 
 Add:
 
- SCH6-C16  In this Module:
+SCH6-C16  In this Module:
 
                     <a name="perman-impair-compens"></a>**_permanent impairment compensation_** means:
 
@@ -2122,14 +2144,16 @@ Insert in its appropriate alphabetical position, determined on a letter-by-lette
   <col width="25%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>wholly dependent partner</div>
-  </td>
-  <td>
-    <div>5E(1)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>wholly dependent partner</div>
+    </td>
+    <td>
+      <div>5E(1)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 68  Subsection 5E(1) (definition of _war widow_)
 
@@ -2771,7 +2795,7 @@ Insert:
 
 ##### <a id="140"></a>140  Simplified outline of this Part
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 This Part confers on the Military Rehabilitation and Compensation Commission the functions:
 
@@ -2779,9 +2803,7 @@ This Part confers on the Military Rehabilitation and Compensation Commission the
 
                (b)     of managing the provision of compensation and rehabilitation provided as a result of the making of claims of that kind.
 
-This Part also modifies the operation of this Act in relation to the Safety, Rehabilitation and Compensation Commission and in relation to the liabilities of Comcare and the Commonwealth for members of the Defence Force.
-
-* * *
+This Part also modifies the operation of this Act in relation to the Safety, Rehabilitation and Compensation Commission and in relation to the liabilities of Comcare and the Commonwealth for members of the Defence Force.</div>
 
 ##### <a id="141"></a>141  Definitions
 
@@ -2982,101 +3004,103 @@ the Commonwealth is liable to pay any amounts for which the MRCC would otherwise
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Paragraph 48(8)(a)</div>
-  </td>
-  <td>
-    <div>The paragraph does not apply</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Section 52A</div>
-  </td>
-  <td>
-    <div>The section does not apply</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Subsection 111(2)</div>
-  </td>
-  <td>
-    <div>The reference to a relevant authority has effect as a reference to the
-      Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Subsections 111(2A), (3) and (4)</div>
-  </td>
-  <td>
-    <div>The subsections do not apply</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Sections 112 and 113</div>
-  </td>
-  <td>
-    <div>References to a relevant authority have effect as references to the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Paragraph 114B(1)(c)</div>
-  </td>
-  <td>
-    <div>The paragraph applies as if it read:</div>
-    <div>(c) the MRCC is of the opinion that the retired employee may have been
-      paid, or might be paid, amounts of compensation under this Act in excess
-      of the amounts that he or she was entitled to receive because of section 20,
-      21 or 21A;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Paragraph 114B(2)(a)</div>
-  </td>
-  <td>
-    <div>The paragraph applies as if it read:</div>
-    <div>(a) stating that the retired employee may receive, or may have received,
-      an overpayment of compensation; and</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Section 121A</div>
-  </td>
-  <td>
-    <div>The section does not apply</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Paragraph 48(8)(a)</div>
+    </td>
+    <td>
+      <div>The paragraph does not apply</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Section 52A</div>
+    </td>
+    <td>
+      <div>The section does not apply</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Subsection 111(2)</div>
+    </td>
+    <td>
+      <div>The reference to a relevant authority has effect as a reference to the
+        Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Subsections 111(2A), (3) and (4)</div>
+    </td>
+    <td>
+      <div>The subsections do not apply</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Sections 112 and 113</div>
+    </td>
+    <td>
+      <div>References to a relevant authority have effect as references to the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Paragraph 114B(1)(c)</div>
+    </td>
+    <td>
+      <div>The paragraph applies as if it read:</div>
+      <div>(c) the MRCC is of the opinion that the retired employee may have been
+        paid, or might be paid, amounts of compensation under this Act in excess
+        of the amounts that he or she was entitled to receive because of section 20,
+        21 or 21A;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Paragraph 114B(2)(a)</div>
+    </td>
+    <td>
+      <div>The paragraph applies as if it read:</div>
+      <div>(a) stating that the retired employee may receive, or may have received,
+        an overpayment of compensation; and</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Section 121A</div>
+    </td>
+    <td>
+      <div>The section does not apply</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="148"></a>148  Rehabilitation programs
 
@@ -3534,7 +3558,7 @@ Add:
 
            (12)  For the purposes of paragraph 8(8)(zp), the amount per fortnight that is not income for the purposes of this Act is:
 
-![](http://www.comlaw.gov.au/Details/C2007C00205/Html/MilitaryRehabCompenConseqTransProv2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00505/Html/E766B43D83AE4CF9CA2570490022C8C1/$FILE/image003.gif)
 
 where:
 
@@ -3671,17 +3695,19 @@ Insert:
   <col width="36%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>4A</div>
-  </td>
-  <td>
-    <div>Compensation for an armed services widow or an armed services widower</div>
-  </td>
-  <td>
-    <div>(Paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>4A</div>
+    </td>
+    <td>
+      <div>Compensation for an armed services widow or an armed services widower</div>
+    </td>
+    <td>
+      <div>(Paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 51A  At the end of section 578
 
@@ -4000,17 +4026,19 @@ Insert:
   <col width="33%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>4A</div>
-  </td>
-  <td>
-    <div>Compensation for an armed services widow who has no dependent children</div>
-  </td>
-  <td>
-    <div>(Paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>4A</div>
+    </td>
+    <td>
+      <div>Compensation for an armed services widow who has no dependent children</div>
+    </td>
+    <td>
+      <div>(Paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 91  Section 1067G (after table item 20 in Module L of the Youth Allowance Rate Calculator)
 
@@ -4023,17 +4051,19 @@ Insert:
   <col width="33%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>20A</div>
-  </td>
-  <td>
-    <div>Compensation for an armed services widow who has a dependent child</div>
-  </td>
-  <td>
-    <div>(Paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>20A</div>
+    </td>
+    <td>
+      <div>Compensation for an armed services widow who has a dependent child</div>
+    </td>
+    <td>
+      <div>(Paragraph 234(1)(b) of the Military Rehabilitation and Compensation Act)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 92  Paragraph 1067L-C2(b)
 
@@ -4327,7 +4357,7 @@ Insert:
 
 ##### <a id="52-112"></a>52-112  What this Subdivision is about
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 This Subdivision tells you:
 
@@ -4335,9 +4365,7 @@ This Subdivision tells you:
 
                (b)     any special circumstances, conditions or exceptions that apply to a payment in order for it to be exempt; and
 
-               (c)     how to work out how much of a payment is exempt.
-
-* * *
+               (c)     how to work out how much of a payment is exempt.</div>
 
 **Table of sections**
 
@@ -4396,347 +4424,391 @@ Operative provisions
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Alterations to aids and appliances relating to rehabilitation
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Alterations to aids and appliances relating to rehabilitation
 
-(section 57)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Compensation for journey and accommodation costs
+(section 57)
 
-(sections 47, 290, 291 and 297 and subsection 328(4))</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Compensation for permanent impairment
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Compensation for journey and accommodation costs
 
-(sections 68, 71, 75 and 80)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Compensation for financial advice
+(sections 47, 290, 291 and 297 and subsection 328(4))
 
-(sections 81, 205 and 239)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Compensation for incapacity for Permanent Forces member or continuous
-      full-time Reservist
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Compensation for permanent impairment
 
-(section 85)</div>
-  </td>
-  <td>
-    <div>See section 51-32</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Compensation for incapacity for part-time Reservists
+(sections 68, 71, 75 and 80)
 
-(section 86)</div>
-  </td>
-  <td>
-    <div>See section 51-33</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Compensation by way of Special Rate Disability Pension
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Compensation for financial advice
 
-(section 200)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Compensation under the Motor Vehicle Compensation Scheme
+(sections 81, 205 and 239)
 
-(section 212)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>Compensation for household services and attendant care services
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Compensation for incapacity for Permanent Forces member or continuous
+        full-time Reservist
 
-(sections 214 and 217)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>Telephone allowance
+(section 85)
 
-(sections 221 and 245)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>Compensation for loss or damage to medical aids
+      </div>
+    </td>
+    <td>
+      <div>See section 51-32</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Compensation for incapacity for part-time Reservists
 
-(section 226)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>Compensation for a wholly dependent partner for a member’s death
+(section 86)
 
-(section 233)</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>Continuing permanent impairment and incapacity etc. compensation for a
-      wholly dependent partner
+      </div>
+    </td>
+    <td>
+      <div>See section 51-33</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Compensation by way of Special Rate Disability Pension
 
-(subparagraphs 242(1)(a)(i) and (iii))</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>Compensation for eligible young persons who were dependent on deceased
-      member
+(section 200)
 
-(section 253)</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>Continuing permanent impairment and incapacity etc. compensation for eligible
-      young persons
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Compensation under the Motor Vehicle Compensation Scheme
 
-(subparagraphs 255(1)(c)(i) and (iii))</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>Education and training, or a payment, under the education scheme for certain
-      eligible young persons
+(section 212)
 
-(section 258)</div>
-  </td>
-  <td>
-    <div>Exempt if provided for or made to a person under 16</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>Compensation for other persons who were dependent on deceased member
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>Compensation for household services and attendant care services
 
-(section 262)</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>Compensation for cost of a funeral
+(sections 214 and 217)
 
-(section 266)</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>Compensation for treatment costs
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>Telephone allowance
 
-(sections 271, 272 and 273)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>Pharmaceutical allowance
+(sections 221 and 245)
 
-(section 300)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Not applicable</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>Special assistance
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>Compensation for loss or damage to medical aids
 
-(section 424)</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-  <td>
-    <div>Exempt</div>
-  </td>
-</tr></table>
+(section 226)
+
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>Compensation for a wholly dependent partner for a member’s death
+
+(section 233)
+
+      </div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>Continuing permanent impairment and incapacity etc. compensation for a
+        wholly dependent partner
+
+(subparagraphs 242(1)(a)(i) and (iii))
+
+      </div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>Compensation for eligible young persons who were dependent on deceased
+        member
+
+(section 253)
+
+      </div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>Continuing permanent impairment and incapacity etc. compensation for eligible
+        young persons
+
+(subparagraphs 255(1)(c)(i) and (iii))
+
+      </div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>Education and training, or a payment, under the education scheme for certain
+        eligible young persons
+
+(section 258)
+
+      </div>
+    </td>
+    <td>
+      <div>Exempt if provided for or made to a person under 16</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>Compensation for other persons who were dependent on deceased member
+
+(section 262)
+
+      </div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>Compensation for cost of a funeral
+
+(section 266)
+
+      </div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>Compensation for treatment costs
+
+(sections 271, 272 and 273)
+
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>Pharmaceutical allowance
+
+(section 300)
+
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Not applicable</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>Special assistance
+
+(section 424)
+
+      </div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+    <td>
+      <div>Exempt</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 12  After subparagraph 52-145(1)(b)(iii)
 
@@ -4763,5 +4835,6 @@ Omit “and 52-65”, substitute “, 52-65 and 52-114”.
 Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amendment of an assessment made before the commencement of this item for the purposes of giving effect to subsections 51-32(1) and (4) and 51-33(1) of the _Income Tax Assessment Act 1997_ substituted by item 10 of this Schedule.
 
  
+
 
  
