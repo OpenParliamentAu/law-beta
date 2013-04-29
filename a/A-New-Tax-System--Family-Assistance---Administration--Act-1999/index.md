@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 18 December 2012
+This compilation was prepared on 11 December 2012
  taking into account amendments up to Act No. 169 of 2012
 
 The text of any of those amendments not in force
@@ -951,9 +951,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [129](#129).        Exercise by Secretary of powers under section 154
 
-        **Subdivision BC—Directions hearings**
+        **Subdivision BC—Pre‑hearing conferences**
 
-[129A](#129A).     Directions hearings
+[129A](#129A).     Pre‑hearing conferences
 
 [129B](#129B).     Powers of SSAT if parties reach agreement
 
@@ -963,13 +963,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [131](#131).        Hearing in private
 
+[133](#133).        Restrictions on disclosure of information obtained at hearing
+
         **Subdivision D—Other procedural matters**
 
 [134](#134).        Adjournment of SSAT hearings
 
-[135](#135).        Dismissal of application for review by SSAT
+[135](#135).        Withdrawal of application for review
 
-[136](#136).        Dismissal of application for review on request of party
+[136](#136).        Dismissal of an application
 
 [137](#137).        Presiding member at SSAT hearing
 
@@ -988,14 +990,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
         **Subdivision F—Correction of errors in decisions or statements of reasons**
 
 [141B](#141B).     Correction of errors in decisions or statements of reasons
-
-        **Subdivision G—Restrictions on disclosure of information**
-
-[141C](#141C).     Orders restricting disclosure of information
-
-[141D](#141D).     Varying an order to permit certain disclosures
-
-[141E](#141E).      Orders restricting secondary disclosures of information
 
     **Division 4—Review by the Administrative Appeals Tribunal** 
 
@@ -1772,8 +1766,6 @@ Note:          See also subsection (4B).
 
                     <a name="princip-member"></a>**_Principal Member_** means the Principal Member of the Social Security Appeals Tribunal.
 
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the Social Security Appeals Tribunal.
-
                     <a name="protect-inform"></a>**_protected information_**means:
 
                      (a)  information about a person that:
@@ -1809,12 +1801,6 @@ Note:          Schedule 3 to the _Social Security (Administr
                     <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the _Social Security Act 1991_.
 
                     <a name="ssat"></a>**_SSAT_** means the Social Security Appeals Tribunal.
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT (and includes the Principal Member).
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
 
                     <a name="taxabl-incom"></a>**_taxable income %_**, in respect of an individual, means the taxable income % calculated in respect of the individual under Part 4 of Schedule 2 to the Family Assistance Act.
 
@@ -2106,7 +2092,7 @@ Exemption from tax file number requirement
 
                              (ii)  the determination time is before the end of the income year following the one in which the variation mentioned in that subsection took effect.
 
-##### <a id="10"></a>10  Restrictions on claims for payment of family tax benefit for a past period
+##### <a id="10"></a>10  Restrictions on claims for payment of family tax benefit for a past period
 
 Restriction where previous claim or instalment determination
 
@@ -2422,7 +2408,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -2476,7 +2462,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -4861,7 +4847,7 @@ the Secretary can only determine the claim concerned if:
 
 the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
 
-##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
+##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
 
                    If:
 
@@ -4929,7 +4915,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -5035,7 +5021,7 @@ the consequence in subsection (3) applies.
 
 the Secretary must vary the determination to undo the effect mentioned in subsection (3).
 
-##### <a id="47B"></a>47B  Claimant for payment of baby bonus to notify changes in care of the child
+##### <a id="47B"></a>47B  Claimant for payment of baby bonus to notify changes in care of the child
 
              (1)  This section applies if:
 
@@ -6429,7 +6415,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -6483,7 +6469,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -10126,7 +10112,7 @@ the amount is a debt due to the Commonwealth by the service immediately before i
 
                    If, under paragraph 200(1)(g), the Secretary requires an approved child care service to remit enrolment advances paid to the service under section 219RA, an amount equal to the advances that the service is required to remit is a debt due to the Commonwealth by the service.
 
-##### <a id="71GB"></a>71GB  Debts arising in respect of business continuity payments paid to service—debt owed by service
+##### <a id="71GB"></a>71GB  Debts arising in respect of business continuity payments paid to service—debt owed by service
 
              (1)  If:
 
@@ -11292,7 +11278,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image004.gif)
 
 where:
 
@@ -12136,9 +12122,7 @@ the Secretary may declare:
 
 ##### <a id="110"></a>110  SSAT objective
 
-             (1)  In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
-
-             (2)  That objective must also be pursued by the Principal Member in performing or exercising his or her functions and powers under this Act.
+                   In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
 
 ##### <a id="111"></a>111  Application for review by SSAT
 
@@ -12312,7 +12296,7 @@ the Secretary may declare:
 
                      (b)  stops having effect if:
 
-                              (i)  the application to the SSAT for review of the adverse decision is dismissed; or
+                              (i)  the application to the SSAT for review of the adverse decision is withdrawn; or
 
                              (ii)  the review of the adverse decision is determined by the SSAT; or
 
@@ -12426,13 +12410,11 @@ the Secretary or the SSAT, as the case requires, may, if satisfied that it is re
 
                      (b)  before determination of the review, an officer varies the decision or sets it aside and substitutes a new decision;
 
-the person may:
+the person may either:
 
-                     (c)  proceed with the application for review of the decision as varied or the new decision; or
+                     (c)  proceed with the application for review of the decision as varied or the new decision, as the case may be; or
 
-                     (d)  request the Principal Member to dismiss the application under section 135; or
-
-                     (e)  notify, under section 136, the SSAT that the application is discontinued or withdrawn.
+                     (d)  withdraw the application under section 135.
 
 ##### <a id="118"></a>118  Parties to SSAT review
 
@@ -12441,8 +12423,6 @@ the person may:
                      (a)  the applicant; and
 
                      (b)  the Secretary; and
-
-                     (c)  for a review of a care percentage decision—each person who is a responsible person (within the meaning of the _Child Support (Assessment) Act 1989_) for the child to whom the decision relates; and
 
                       (f)  any other person who has been made a party to the review under subsection (4).
 
@@ -12500,7 +12480,17 @@ the Secretary must send a copy of the document or the part of the document to an
 
 ##### <a id="120"></a>120  Parties to be given a statement about the decision under review
 
-                   The Principal Member must give each party (other than the Secretary) a copy of the statement referred to in paragraph 119(3)(a).
+             (1)  The Principal Member must give each party (other than the Secretary) a copy of the statement referred to in paragraph 119(3)(a).
+
+             (2)  The Principal Member may make an order directing a person who has received a copy of a statement in accordance with subsection (1):
+
+                     (a)  not to disclose information in the statement; or
+
+                     (b)  not to disclose information in the statement except in the circumstances or for the purposes specified in the order.
+
+             (3)  An order under subsection (2) must be made by written notice given to the person to whom it is directed.
+
+             (4)  A person who contravenes an order under subsection (2) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
 
 ##### <a id="121"></a>121  Arrangements for hearing of application
 
@@ -12542,9 +12532,7 @@ the Principal Member must take reasonable steps to give the person written notic
 
              (2)  Subject to section 125, a party to a review of a decision may make oral or written submissions to the SSAT or both oral and written submissions.
 
-             (3)  The party may, with the permission of the Principal Member, have another person make submissions to the SSAT on the party’s behalf.
-
-          (3A)  In deciding whether to grant permission under subsection (3), the Principal Member must have regard to the wishes of the parties and the need to protect their privacy.
+             (3)  The party may have another person make submissions to the SSAT on behalf of the party.
 
              (4)  The Principal Member may determine that submissions to the SSAT by the party or the party’s representative are to be made by telephone or by means of other electronic communications equipment.
 
@@ -12628,7 +12616,7 @@ Agency representative may request permission to make oral submissions etc.
 
 The request must explain how such submissions would assist the SSAT.
 
-             (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member, such submissions would assist the SSAT.
+             (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member having regard to the objective laid down by section 110, such submissions would assist the SSAT.
 
 SSAT may order agency representative to make oral submissions etc.
 
@@ -12636,11 +12624,9 @@ SSAT may order agency representative to make oral submissions etc.
 
                      (a)  oral submissions to the SSAT; or
 
-                    (aa)  written submissions to the SSAT; or
-
                      (b)  both oral and written submissions to the SSAT;
 
-if, in the opinion of the Principal Member, such submissions would assist the SSAT.
+if, in the opinion of the Principal Member having regard to the objective laid down by section 110, such submissions would assist the SSAT.
 
 Oral submissions by telephone etc.
 
@@ -12720,13 +12706,13 @@ Notice to set out the effect of offence provisions
 
              (2)  The Secretary must comply with a request under subsection (1) as soon as practicable and, in any event, within 7 days after the request is made.
 
-#### Subdivision BC—Directions hearings
+#### Subdivision BC—Pre‑hearing conferences
 
-##### <a id="129A"></a>129A  Directions hearings
+##### <a id="129A"></a>129A  Pre‑hearing conferences
 
-             (1)  Before the hearing of a review commences, the Principal Member may convene one or more directions hearings with the parties to the review if he or she considers that it would assist in the conduct and consideration of the review to do so.
+             (1)  Before the hearing of a review commences, the Principal Member may convene one or more conferences with the parties to the review if he or she considers that it would assist in the conduct and consideration of the review to do so.
 
-             (2)  At a directions hearing, the Principal Member may:
+             (2)  At a conference, the Principal Member may:
 
                      (a)  fix a day or days for the hearing; and
 
@@ -12734,13 +12720,31 @@ Notice to set out the effect of offence provisions
 
                      (c)  give directions about the time within which evidence is to be brought before the SSAT; and
 
-                     (d)  give directions about what information is to be given to the SSAT.
+                     (d)  give directions about what evidence is to be brought before the SSAT.
+
+             (3)  Paragraph (2)(d) does not limit the evidence that may be brought before the SSAT.
+
+Restrictions on disclosure of information obtained at a conference
+
+             (4)  The Principal Member may make an order directing a party to the review who is present at a conference:
+
+                     (a)  not to disclose information obtained by the party at the conference; or
+
+                     (b)  not to disclose information obtained by the party at the conference except in the circumstances, or for the purposes, specified in the order.
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person is given an order under subsection (4); and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
 
 ##### <a id="129B"></a>129B  Powers of SSAT if parties reach agreement
 
              (1)  If:
 
-                     (a)  at a directions hearing under section 129A with the parties to a review, the parties agree to the terms of a decision of the SSAT:
+                     (a)  at a pre‑hearing conference under section 129A with the parties to a review, the parties agree to the terms of a decision of the SSAT:
 
                               (i)  in the review; or
 
@@ -12772,7 +12776,9 @@ the SSAT may act in accordance with whichever of subsection (2) or (3) is rele
 
                      (a)  is not bound by legal technicalities, legal forms or rules of evidence; and
 
-                     (b)  is to act as speedily as a proper consideration of the review allows.
+                     (b)  is to act as speedily as a proper consideration of the review allows; and
+
+                     (c)  in determining what a proper consideration of the review requires, must have regard to the objective laid down by section 110.
 
              (2)  The SSAT may inform itself on any matter relevant to a review of a decision in any manner it considers appropriate.
 
@@ -12784,6 +12790,18 @@ the SSAT may act in accordance with whichever of subsection (2) or (3) is rele
 
              (3)  In giving directions under subsection (2), the Principal Member must have regard to the wishes of the parties and the need to protect their privacy.
 
+##### <a id="133"></a>133  Restrictions on disclosure of information obtained at hearing
+
+             (1)  The Principal Member may make an order directing a person who is present at the hearing of a review:
+
+                     (a)  not to disclose information obtained by the person in the course of the hearing; or
+
+                     (b)  not to disclose information obtained by the person in the course of the hearing except in the circumstances, or for the purposes, specified in the order.
+
+             (2)  A person who contravenes an order under subsection (1) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
+
+             (3)  Strict liability applies to the element of an offence against subsection (2) that an order is an order under subsection (1).
+
 #### Subdivision D—Other procedural matters
 
 ##### <a id="134"></a>134  Adjournment of SSAT hearings
@@ -12794,73 +12812,49 @@ the SSAT may act in accordance with whichever of subsection (2) or (3) is rele
 
                      (a)  the hearing has already been adjourned on 2 or more occasions; or
 
+                     (b)  the SSAT is satisfied that to grant an adjournment would be inconsistent with the pursuit of the objective laid down by section 110; or
+
                      (c)  a declaration under section 112 is in force in relation to the decision under review.
 
-##### <a id="135"></a>135  Dismissal of application for review by SSAT
+##### <a id="135"></a>135  Withdrawal of application for review
 
-             (1)  The Principal Member may, on the request of a party or on his or her own initiative, dismiss an application for review of a decision if:
+             (1)  An applicant for review of a decision may withdraw the application at any time.
 
-                     (a)  the decision is not reviewable under this Part; or
+             (2)  An applicant may withdraw an application by:
 
-                     (b)  the application is frivolous or vexatious; or
+                     (a)  sending by any means, or delivering, written notice of withdrawal of the application to:
 
-                     (c)  all of the parties consent; or
+                              (i)  an office of the SSAT; or
 
-                     (d)  the Principal Member is satisfied:
+                             (ii)  an office of the Department; or
 
-                              (i)  after having communicated with each party; or
+                            (iii)  an office of another agency, where the Secretary has approved the office for the purposes of this subparagraph; or
 
-                             (ii)  after having made reasonable attempts to communicate with each party and having failed to do so;
+                     (b)  going to an office of the SSAT and orally withdrawing the application; or
 
-                            or a combination of both, that none of the parties intend to proceed with the application; or
+                     (c)  contacting an office of the SSAT by telephone and orally withdrawing the application.
 
-                     (e)  all of the parties fail to attend the hearing.
+             (3)  If a person withdraws an application in accordance with paragraph (2)(b) or (c), the person who receives the oral withdrawal must make a written record of the day on which the withdrawal was made.
 
-             (2)  The Principal Member may dismiss an application under paragraph (1)(b) only if:
+             (4)  If a person withdraws an application by sending or delivering written notice of withdrawal to an office of an agency, the head of the agency must send notice of the withdrawal to the Principal Member as soon as practicable and, in any event, not later than 7 days after the notice of withdrawal is received at the office of the agency.
 
-                     (a)  one of the following applies:
+##### <a id="136"></a>136  Dismissal of an application
 
-                              (i)  the Principal Member has received and considered submissions from the applicant for review;
+             (1)  If:
 
-                             (ii)  the Principal Member has otherwise communicated with the applicant in relation to the grounds of the application;
+                     (a)  a person makes an application to the SSAT for review of a decision; and
 
-                            (iii)  the Principal Member has made reasonable attempts to communicate with the applicant in relation to the grounds of the application and has failed to do so; and
+                     (b)  the Principal Member is satisfied:
 
-                     (b)  all of the parties (other than the applicant) consent to the dismissal.
+                              (i)  after having communicated with the person; or
 
-             (3)  If the Principal Member dismisses an application under subsection (1) (other than under paragraph (1)(b)), a party to the review may:
+                             (ii)  after having made reasonable attempts to communicate with the person and having failed to do so;
 
-                     (a)  within 28 days after receiving notification that the application has been dismissed; or
+                            that the person does not intend to proceed with the application;
 
-                     (b)  within such longer period as the Principal Member, in special circumstances, allows;
+the Principal Member may dismiss the application.
 
-request that the Principal Member reinstate the application.
-
-             (4)  If the Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-             (5)  If it appears to the Principal Member that an application has been dismissed under subsection (1) in error, he or she may, on the request of a party to the review or on his or her own initiative, reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-             (6)  This section does not apply in relation to a party if the party is the Secretary.
-
-##### <a id="136"></a>136  Dismissal of application for review on request of party
-
-             (1)  An applicant for review may notify the SSAT at any time that the application for review is discontinued or withdrawn.
-
-             (2)  If the applicant orally notifies the SSAT, the person who receives the notification must make a written record of the day on which the notification was given.
-
-             (3)  If notification is given under subsection (1), the Principal Member is taken to have dismissed the application.
-
-             (4)  If the Principal Member dismisses an application under subsection (3), a party to the review may:
-
-                     (a)  within 28 days after receiving notification that the application has been dismissed; or
-
-                     (b)  within such longer period as the Principal Member, in special circumstances, allows;
-
-request that the Principal Member reinstate the application.
-
-             (5)  If the Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-             (6)  This section does not apply in relation to a party if the party is the Secretary.
+             (2)  If the Principal Member dismisses an application under subsection (1), the application is taken to have been withdrawn at the time at which the application was dismissed.
 
 ##### <a id="137"></a>137  Presiding member at SSAT hearing
 
@@ -12895,6 +12889,8 @@ request that the Principal Member reinstate the application.
                      (b)  a direction under subsection (1) of this section.
 
              (6)  A direction under subsection (4) may be given before or after the hearing of the particular review has commenced.
+
+             (7)  Directions under this section must have due regard to the objective laid down by section 110.
 
 ##### <a id="140"></a>140  Costs of review
 
@@ -13021,68 +13017,6 @@ Examples of obvious errors
                      (a)  an obvious clerical or typographical error in the text of the decision or statement; and
 
                      (b)  an inconsistency between the decision and the statement.
-
-#### Subdivision G—Restrictions on disclosure of information
-
-##### <a id="141C"></a>141C  Orders restricting disclosure of information
-
-             (1)  The Principal Member may make an order directing a person:
-
-                     (a)  not to disclose information specified in the order; or
-
-                     (b)  not to disclose information specified in the order except in the circumstances, or for the purposes, specified in the order; or
-
-                     (c)  not to disclose information specified in the order, except to a specified person or class of persons.
-
-             (2)  An order may only specify information that has been disclosed to the person for purposes relating to a review under this Part.
-
-             (3)  A person commits an offence if:
-
-                     (a)  the Principal Member makes an order under subsection (1) in relation to the person; and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (4)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure referred to in subsection (2) was made.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="141D"></a>141D  Varying an order to permit certain disclosures
-
-             (1)  A person in relation to whom an order has been made under subsection 141C(1) may request the Principal Member to vary the order to allow the person to disclose particular information specified in the order:
-
-                     (a)  in particular circumstances or for particular purposes; or
-
-                     (b)  to a particular person or class of persons.
-
-             (2)  The Principal Member may vary the order in accordance with the request.
-
-             (3)  This section does not limit the Principal Member’s power to vary or revoke an order.
-
-Note:          For variation and revocation apart from under this section, see subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-##### <a id="141E"></a>141E  Orders restricting secondary disclosures of information
-
-             (1)  If an order (the **_primary order_**) under subsection 141C(1) directs a person not to disclose information specified in the order, except to any of the following (an **_authorised recipient_**):
-
-                     (a)  a specified person;
-
-                     (b)  a member of a specified class of persons;
-
-the Principal Member may make another order, directing an authorised recipient not to disclose the information specified in the primary order.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the Principal Member makes an order under subsection (1) in relation to the person; and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (3)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure of the information in accordance with the primary order was made.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
 ### Division 4—Review by the Administrative Appeals Tribunal
 
@@ -15578,7 +15512,7 @@ Meaning of **offence against this Act**
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
 
-##### <a id="219G"></a>219G  Former approved child care service to keep records
+##### <a id="219G"></a>219G  Former approved child care service to keep records
 
 Obligation to keep records
 
@@ -16940,7 +16874,7 @@ Note:          This subsection does not prevent other complian
 
                    Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person.
 
-##### <a id="219TSGE"></a>219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
+##### <a id="219TSGE"></a>219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
 
                    Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
 
@@ -17955,4 +17889,255 @@ of Assent</div>
     <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Debt Recovery) Act 2001</div>
   </td>
   <td>
-    <div>47, 
+    <div>47, 2001</div>
+  </td>
+  <td>
+    <div>12 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–27, 29, 32, 33), Schedule 3 (items 1–15) and Schedule 4 (items 1–8A): 1 July 2001 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment Act 2001</div>
+  </td>
+  <td>
+    <div>75, 2001</div>
+  </td>
+  <td>
+    <div>30 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1A (items 22–24): 1 July 2002 <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>137, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>2 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Estimate Tolerance (Transition) Act 2001</div>
+  </td>
+  <td>
+    <div>138, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002</div>
+  </td>
+  <td>
+    <div>95, 2002</div>
+  </td>
+  <td>
+    <div>10 Nov 2002</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 1 July 2003 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>30, 2003</div>
+  </td>
+  <td>
+    <div>15 Apr 2003</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 2 (items 14–51): Royal Assent 
+Schedule 2 (item 72): <i>(g)</i> 
+Schedule 2 (item 83): 1 July 2000 
+Schedule 2 (items 84–86): <i>(g)</i></div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>35, 2003</div>
+  </td>
+  <td>
+    <div>24 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 4–6): 24 Apr 2003</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>122, 2003</div>
+  </td>
+  <td>
+    <div>5 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 1–4): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>150, 2003</div>
+  </td>
+  <td>
+    <div>19 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 95): <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Extension of Time Limits) Act 2004</div>
+  </td>
+  <td>
+    <div>33, 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 6)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
+  </td>
+  <td>
+    <div>52, 2004</div>
+  </td>
+  <td>
+    <div>27 Apr 2004</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 9, 10): 1 July 2004 ( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—Increased Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>59, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9, 10, 11(1)) and Schedule 2 (items 12–33): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 11(1)) and Sch. 2 (items 14, 25, 27, 29, 31, 33)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—One‑off Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>60, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>26 May 
