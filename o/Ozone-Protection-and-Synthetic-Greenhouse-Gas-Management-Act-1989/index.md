@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 2 April 2012
+This compilation was prepared on 30 November 2011
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force 
@@ -315,8 +315,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [67](#67).          Statements to accompany notification of decisions
 
 [67A](#67A).       Delegation
-
-[67B](#67B).       Disclosure of information to the Clean Energy Regulator
 
 [68](#68).          Annual report
 
@@ -1120,7 +1118,7 @@ Note:          Section 18 deals with variation of the condit
 
 ##### <a id="22"></a>22  Publication of information regarding licences etc.
 
-                   The regulations may make provision for the periodic publication of details of:
+                   The regulations may make provision for the periodic publication of details of:
 
                      (a)  licences granted;
 
@@ -1539,7 +1537,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image002.gif)
 
 where:
 
@@ -2457,7 +2455,7 @@ give a copy of the thing or the information to the occupier or other person as s
 
 the inspector must permit a person who would be entitled to inspect the book, record or document if it were not in the inspector’s possession to inspect the book, record or document at all reasonable times.
 
-##### <a id="53G"></a>53G  Return of seized things
+##### <a id="53G"></a>53G  Return of seized things
 
              (1)  Subject to any contrary order of a court, if:
 
@@ -2659,7 +2657,7 @@ Note:          For forfeiture, see Division 3.
 
                      (d)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the book, record or document.
 
-##### <a id="55B"></a>55B  Magistrate may permit books, records or documents to be retained
+##### <a id="55B"></a>55B  Magistrate may permit books, records or documents to be retained
 
              (1)  An inspector may apply to a magistrate for an order that he or she may retain the book, record or document for a further period if:
 
@@ -2701,7 +2699,7 @@ the magistrate may order that an inspector may retain the book, record or docume
 
                              (ii)  evidential material;
 
-                            may be accessible by operating electronic equipment at particular premises; and
+                            may be accessible by operating electronic equipment at particular premises; and
 
                      (b)  expert assistance is required to operate the equipment; and
 
@@ -3748,20 +3746,6 @@ Note:          This subsection applies to transactions that do
              (2)  Subsection (1) does not apply to the Minister’s powers under section 19A, 20 or 53K.
 
              (3)  In exercising powers or functions under a delegation, the delegate must comply with any directions of the Minister.
-
-##### <a id="67B"></a>67B  Disclosure of information to the Clean Energy Regulator
-
-Scope
-
-             (1)  This section applies to information obtained under this Act or the regulations.
-
-Disclosure
-
-             (2)  The Minister may disclose the information to the Clean Energy Regulator for the purposes of, or in connection with, the performance of the functions, or the exercise of the powers, of the Clean Energy Regulator.
-
-Other powers of disclosure not limited
-
-             (3)  This section does not, by implication, limit the Minister’s powers to disclose the information to a person other than the Clean Energy Regulator.
 
 ##### <a id="68"></a>68  Annual report
 
@@ -10053,7 +10037,7 @@ A person must not manufacture or import a rigid polyurethane foam product if the
 
                      (b)  a stage‑1 or stage‑2 scheduled substance is used in the manufacture of the foam.
 
-##### <a id="9"></a>9  Disposable containers of refrigerants
+##### <a id="9"></a>9  Disposable containers of refrigerants
 
                    A person must not manufacture or import a product consisting wholly or partly of a non‑refillable container if:
 
@@ -10425,7 +10409,7 @@ Remainder: Royal Assent</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 194): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1 (item 194): \[ <i>see</i>s. 2(1) and Note 2] 
 Schedule 1 (items 415B–451, 
 456–460): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
@@ -12061,14 +12045,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 67B</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 69</div>
   </td>
   <td>
@@ -12306,6 +12282,28 @@ Schedule 3C</div>
 ### Note 2
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendment commences at the same time as section 3 of the _Clean Energy Act 2011_:
+
+## Schedule 1
+
+## 194  After section 67A
+
+Insert:
+
+##### <a id="67B"></a>67B  Disclosure of information to the Clean Energy Regulator
+
+Scope
+
+             (1)  This section applies to information obtained under this Act or the regulations.
+
+Disclosure
+
+             (2)  The Minister may disclose the information to the Clean Energy Regulator for the purposes of, or in connection with, the performance of the functions, or the exercise of the powers, of the Clean Energy Regulator.
+
+Other powers of disclosure not limited
+
+             (3)  This section does not, by implication, limit the Minister’s powers to disclose the information to a person other than the Clean Energy Regulator.
 
 The following amendments commence on 1 July 2012:
 
@@ -12643,7 +12641,7 @@ Prescribed rate component
 
              (4)  For the purposes of paragraph (1)(aa), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image003.gif)
 
 where:
 
@@ -12653,7 +12651,7 @@ where:
 
              (5)  For the purposes of paragraph (1)(ab), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image004.gif)
 
 where:
 
@@ -12663,7 +12661,7 @@ where:
 
              (6)  For the purposes of paragraph (1)(ac), the **_prescribed rate component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image003.gif)
 
 where:
 
@@ -12707,7 +12705,7 @@ the Minister must, on behalf of the Commonwealth, remit or refund the whole or a
 
              (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image005.gif)
 
 where:
 
@@ -12741,7 +12739,7 @@ the Minister must, on behalf of the Commonwealth, remit or refund the whole or a
 
              (5)  For the purposes of subsection (4), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image005.gif)
 
 where:
 
@@ -12775,7 +12773,7 @@ the Minister must, on behalf of the Commonwealth, remit or refund the whole or a
 
              (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image006.gif)
 
 where:
 
@@ -12809,7 +12807,7 @@ the Minister must, on behalf of the Commonwealth, remit or refund the whole or a
 
              (6)  For the purposes of subsection (5), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image006.gif)
 
 where:
 
@@ -12847,7 +12845,7 @@ the Minister must, on behalf of the Commonwealth, remit or refund the whole or a
 
              (2)  For the purposes of subsection (1), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image005.gif)
 
 where:
 
@@ -12881,7 +12879,7 @@ the Minister must, on behalf of the Commonwealth, remit or refund the whole or a
 
              (5)  For the purposes of subsection (4), the **_carbon charge component_** of an amount of levy is so much of that amount as is equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00378/Html/528b0d15-0aa4-41be-81aa-a29bbeadf0b0_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00927/Html/06759fe5-e418-4c79-8a2d-7ed1588af155_files/image005.gif)
 
 where:
 
@@ -12926,7 +12924,7 @@ Add:
   </td>
 </tr></table>
 
-As at 2 April 2012 the amendments are not incorporated in this compilation.
+As at 30 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
