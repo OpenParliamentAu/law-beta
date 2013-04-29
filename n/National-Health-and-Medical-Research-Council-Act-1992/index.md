@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00820/Html/cff6a291-98a7-4201-8141-2f2e374765d8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00279/Html/e9bdceeb-709d-40d4-87fa-bee5aa292eaa_files/image001.gif)
 
 # National Health and Medical Research Council Act 1992
 
 **Act No. 225 of 1992 as amended**
 
-This compilation was prepared on 5 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1772,11 +1772,11 @@ For all other relevant information pertaining to application, saving or transiti
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -1981,12 +1981,11 @@ of Assent</div>
     <div>9 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2006 
+    <div>Schedule 1: 1 July 2006 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 
-124–143)</div>
+    <div>Sch. 1 (items 124–143)</div>
   </td>
 </tr>
 <tr>
@@ -2017,27 +2016,10 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 7 (item 101): 19 Apr 2011</div>
+    <div>Schedule 7 (item 101): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 807–810) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3351,34 +3333,6 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 807  Subsection 41(5) (note)
-
-Omit “subsection 33(4A)”, substitute “section 33AA”.
-
-## 808  At the end of subsection 42(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 809  Subsection 42(4)
-
-Repeal the subsection.
-
-## 810  Subsection 51(1) (note)
-
-Omit “Paragraph 22(1)(a)”, substitute “Subsection 2C(1)”.
-
-As at 5 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3438,8 +3392,7 @@ A person who was appointed by the Minister under section 21 of the _National H
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2006 
- (No. 30, 2006)_
+_Financial Framework Legislation Amendment Act (No. 1) 2006 (No. 30, 2006)_
 
 ## Schedule 1
 
@@ -4113,21 +4066,5 @@ unless the contrary is established.
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
 (2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
