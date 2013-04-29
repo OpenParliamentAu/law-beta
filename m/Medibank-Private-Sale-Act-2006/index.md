@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00676/Html/MedibankPrivSale_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00228/Html/MedibankPrivSale_WD02_image001.gif)
 
 # Medibank Private Sale Act 2006
 
 **Act No. 160 of 2006 as amended**
 
-This compilation was prepared on 17 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 5 April 2007
+ taking into account amendments up to Act No. 32 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -241,7 +241,7 @@ Repeal the paragraph, substitute:
 
                              (ii)  to return capital to shareholders in the organization;
 
-## 6  At the end of section 73AAD
+## 6  At the end of section 73AAD
 
 Add:
 
@@ -1149,7 +1149,7 @@ Definition
 
 ## 33  Definitions
 
-(1)        In this Part:
+In this Part:
 
 **_acquisition_** includes an agreement to acquire, but does not include:
 
@@ -1162,8 +1162,6 @@ Definition
 **_arrangement_** has the meaning given by item 34.
 
 **_associate_** has the meaning given by item 35.
-
-**_child_**: without limiting who is a child of a person for the purposes of this Part, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
 
 **_company_** means a body corporate.
 
@@ -1205,23 +1203,19 @@ Definition
 
                      (c)  a liquidator of the company appointed in a voluntary winding-up.
 
-**_parent_**: without limiting who is a parent of a person for the purposes of this Part, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this subclause.
-
 **_power to appoint a director of a company_** has a meaning affected by item 36.
 
 **_relative_**, in relation to a person, means:
 
                      (a)  the person’s spouse; or
 
-                     (b)  the person’s de facto partner within the meaning of the _Acts Interpretation Act 1901_; or
+                     (b)  another person who, although not legally married to the person, lives with the person on a _bona fide_ domestic basis as the husband or wife of the person; or
 
                      (c)  a parent or remoter lineal ancestor of the person; or
 
-                     (d)  a child or remoter issue of the person; or
+                     (d)  a son, daughter or remoter issue of the person; or
 
                      (e)  a brother or sister of the person.
-
-Note:          See also subclause (2).
 
 **_scheme_** means:
 
@@ -1244,8 +1238,6 @@ Note:          See also subclause (2).
 **_underwriter_**, in relation to an issue of shares, means a person who is a party to an agreement with the company issuing the shares that includes a provision obliging the person to subscribe for any of the shares in the event of a shortfall in public subscriptions below an amount specified in the agreement.
 
 **_voting power_** has the meaning given by item 40.
-
-(2)        For the purposes of paragraphs (c), (d) and (e) of the definition of **_relative_** in subclause (1), if one person is the child of another person because of the definition of **_child_** in this Part, relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
 
 ## 34  Entering into an agreement or arrangement
 
@@ -1451,7 +1443,7 @@ this item has effect as if the members or policy holders of the company were sha
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00676/Html/MedibankPrivSale_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00228/Html/MedibankPrivSale_WD02_image002.gif)
 
 where:
 
@@ -1729,8 +1721,6 @@ Repeal the paragraph.
 
 The _Medibank Private Sale Act 2006_ as shown in this compilation comprises Act No. 160, 2006 amended as indicated in the Tables below. 
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table  A _._
-
 ### Table of Acts
 
 <table>
@@ -1797,23 +1787,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 8–15): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 7 (item 15)</div>
   </td>
 </tr></table>
 
@@ -1890,45 +1863,11 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Item 33</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Items 57, 58</div>
   </td>
   <td>
     <div>am. No. 32, 2007</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 7
-
-## 15  Transitional provision
-
-(1)        For the purposes of clauses 29 and 30 of Schedule 2 of the _Medibank Private Sale Act 2006_, if:
-
-                     (a)  apart from this subitem, an unacceptable ownership situation would exist in relation to a Medibank Private company on the day on which the amendments of that Act made by this Schedule commence; and
-
-                     (b)  that situation would exist only because of the amendments;
-
-the situation is, during the period of 6 months starting on the day on which the amendments commence, taken not to exist for so long as it would otherwise have existed.
-
-(2)        If:
-
-                     (a)  on the day on which the amendments of the _Medibank Private Sale Act 2006_ made by this Schedule commence, a person would, apart from this subitem, be required by regulations made for the purposes of clause 32 of Schedule 2 to that Act to do something in relation to an ownership matter; and
-
-                     (b)  the person would not be required to do that thing if the amendments had not been made;
-
-the person is, during the period of 6 months starting on the day on which the amendments commence, taken not to be required to do that thing for so long as the person would otherwise have been required to do that thing.
 
  
