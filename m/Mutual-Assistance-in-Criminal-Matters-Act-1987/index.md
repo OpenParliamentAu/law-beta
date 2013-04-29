@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00132/Html/702ebb84-a8fe-41f5-8460-37f1d8c54252_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00473/Html/MutAssistCriminalMatt1987_WD02_image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 7 March 2011
- taking into account amendments up to Act No. 3 of 2011
+This compilation was prepared on 8 July 2010
+ taking into account amendments up to Act No. 96 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -56,7 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14](#14).          Requests by Australia for search and seizure
 
-[15](#15).          Requests by foreign countries for search and seizure—action by Attorney‑General
+[15](#15).          Requests by foreign countries for search and seizure—action by Attorney-General
 
 **Part IV—Arrangements for persons to give evidence or assist investigations** 
 
@@ -64,7 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Requests for removal of certain persons to Australia
 
-[17](#17).          Arrangements between Attorney‑General and State Ministers in relation to custody of certain persons
+[17](#17).          Arrangements between Attorney-General and State Ministers in relation to custody of certain persons
 
 [18](#18).          Custody of certain persons
 
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Arrest of person who has escaped from custody
 
-[25A](#25A).       Aiding persons to escape etc 
+[25A](#25A).       Aiding person to escape etc 
 
     **Division 2—Requests by foreign countries**
 
@@ -96,7 +96,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          Arrest of person in transit
 
-[31A](#31A).       Aiding persons to escape etc 
+[31A](#31A).       Aiding person to escape etc 
 
 **Part VI—Proceeds of crime** 
 
@@ -152,7 +152,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34S](#34S).        Contents of notices to financial institutions
 
-[34T](#34T).        Protection from suits etc  for those complying with notices
+[34T](#34T).       Protection from suits etc  for those complying with notices
 
 [34U](#34U).       Making false statements in applications
 
@@ -166,21 +166,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34Y](#34Y).       Applying for and making monitoring orders
 
-[34Z](#34Z).        Passing on information given under monitoring orders
+[34Z](#34Z).       Passing on information given under monitoring orders
 
         **Subdivision F—Search warrants relating to foreign serious offences**
 
-[34ZA](#34ZA).     Requests for search warrants
+[34ZA](#34ZA).    Requests for search warrants
 
 [34ZB](#34ZB).     Applying for and issuing search warrants
 
 [34ZC](#34ZC).     Seizure of other property and documents
 
-[34ZD](#34ZD).     Return of seized property to third parties
+[34ZD](#34ZD).    Return of seized property to third parties
 
-[34ZE](#34ZE).     Dealing with seized property (other than property‑tracking documents)
+[34ZE](#34ZE).     Dealing with seized property (other than property-tracking documents)
 
-[34ZF](#34ZF).     Dealing with seized property‑tracking documents
+[34ZF](#34ZF).     Dealing with seized property-tracking documents
 
     **Division 3—Provisions relating to registered foreign restraining orders**
 
@@ -258,7 +258,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38S](#38S).        Power to enter premises to arrest person
 
-[38T](#38T).        Use of force in making arrest
+[38T](#38T).       Use of force in making arrest
 
 [38U](#38U).       Persons to be informed of grounds of arrest
 
@@ -272,9 +272,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38Y](#38Y).       Offence for making false statements in warrants
 
-[38Z](#38Z).        Offences relating to telephone warrants
+[38Z](#38Z).       Offences relating to telephone warrants
 
-[38ZA](#38ZA).     Retention of things seized
+[38ZA](#38ZA).    Retention of things seized
 
 [38ZB](#38ZB).     Arrest of person released on bail
 
@@ -282,9 +282,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39](#39).          Arrangements with Governors of States and Administrator of Norfolk Island
 
-[39A](#39A).       Requests by Attorney‑General on behalf of a defendant
+[39A](#39A).       Requests by Attorney-General on behalf of a defendant
 
-[39B](#39B).       Certificate by Attorney‑General if foreign country refuses request made under section 39A
+[39B](#39B).       Certificate by Attorney-General if foreign country refuses request made under section 39A
 
 [40](#40).          Delegation
 
@@ -294,7 +294,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [43](#43).          Authentication of documents
 
-[43A](#43A).       Admissibility of certain documents—requests under the Money‑Laundering Convention
+[43A](#43A).       Admissibility of certain documents—requests under the Money-Laundering Convention
 
 [43B](#43B).       Restriction on use of information etc 
 
@@ -336,7 +336,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  an offence of attempting to commit the main offence.
 
-                    <a name="approved-form"></a>**_approved form_** means a form approved by the Attorney‑General in writing for the purposes of the provision in which the expression occurs.
+                    <a name="approved-form"></a>**_approved form_** means a form approved by the Attorney-General in writing for the purposes of the provision in which the expression occurs.
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
@@ -346,7 +346,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (aa)  a declaration made under section 95 of the Proceeds of Crime Act; or
 
-                   (ab)  a declaration made under subsection 30(8A) of the _Proceeds of Crime Act 1987_; or
+                    (ab)  a declaration made under subsection 30(8A) of the _Proceeds of Crime Act 1987_; or
 
                      (b)  an interstate forfeiture order within the meaning of the Proceeds of Crime Act; or
 
@@ -494,9 +494,9 @@ whether arising under Australian law or a law of a foreign country.
 
                     <a name="governor"></a>**_Governor_** means:
 
-                     (a)  in relation to the Australian Capital Territory—the Chief Minister of the Territory; or
+                     (a)  in relation to the Australian   Capital Territory—the Chief Minister of the Territory; or
 
-                     (b)  in relation to the Northern Territory—the Administrator of the Territory.
+                     (b)  in relation to the Northern   Territory—the Administrator of the Territory.
 
                     <a name="instrum"></a>**_instrument_**, in relation to an offence, has the same meaning as in the Proceeds of Crime Act.
 
@@ -510,7 +510,7 @@ whether arising under Australian law or a law of a foreign country.
 
                      (c)  a Magistrate of an external Territory (other than Norfolk Island).
 
-                    <a name="monei-launder-convent"></a>**_Money‑Laundering Convention_** means the Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime, done at Strasbourg on 8 November 1990.
+                    <a name="monei-launder-convent"></a>**_Money-Laundering Convention_** means the Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime, done at Strasbourg on 8 November 1990.
 
                     <a name="monei-launder-offenc"></a>**_money laundering offence_**, in relation to the proceeds of a seriousoffence, means an offence that is committed by a person:
 
@@ -526,7 +526,7 @@ when the person knows that, or is reckless of whether or not, the money or other
 
                     <a name="offenc"></a>**_offence_** includes an offence against a law relating to taxation, customs duties or other revenue matters or relating to foreign exchange control.
 
-                    <a name="offenc-ordinari-crimin-law-australia"></a>**_offence under the ordinary criminal law of Australia_** means an offence against Australian law other than an offence under the military law of Australia.
+                    <a name="australia"></a><a name="offenc-ordinari-crimin-law"></a>**_offence under the ordinary criminal law of_****_Australia_** means an offence against Australian law other than an offence under the military law of Australia.
 
                     <a name="offic"></a>**_officer_**, in relation to a financial institution, has the same meaning as in the Proceeds of Crime Act.
 
@@ -556,7 +556,7 @@ when the person knows that, or is reckless of whether or not, the money or other
 
                      (c)  a part of premises (including premises of a kind referred to in paragraph (a) or (b)).
 
-                    <a name="prison"></a>**_prison_** includes a gaol, lock‑up or other place of detention.
+                    <a name="prison"></a>**_prison_** includes a gaol, lock-up or other place of detention.
 
                     <a name="proceing"></a>**_proceeding_**, in relation to a criminal matter, includes a proceeding before a judicial officer or a jury for the purpose of:
 
@@ -578,7 +578,7 @@ when the person knows that, or is reckless of whether or not, the money or other
 
                     <a name="properti"></a>**_property_** has the same meaning as in the Proceeds of Crime Act.
 
-                    <a name="properti-track-docum"></a>**_property‑tracking document_** has the same meaning as in the Proceeds of Crime Act.
+                    <a name="properti-track-docum"></a>**_property-tracking document_** has the same meaning as in the Proceeds of Crime Act.
 
                     <a name="public-author-foreign-countri"></a>**_public authority of a foreign country_** means any authority or body constituted by or under a law of a foreign country.
 
@@ -606,7 +606,7 @@ when the person knows that, or is reckless of whether or not, the money or other
 
                      (a)  in relation to a State other than the Australian Capital Territory or the Northern Territory—a Minister of the Crown of that State; or
 
-                     (b)  in relation to the Australian Capital Territoryor the Northern Territory—a Minister of that Territory.
+                     (b)  in relation to the Australian   Capital Territoryor the Northern Territory—a Minister of that Territory.
 
                     <a name="state-prison"></a>**_State prisoner_** means a person who is being held in custody pending trial for or sentence for, or under a sentence of imprisonment for, an offence against a law of a State, but does not include a person who is at large after having escaped from lawful custody.
 
@@ -700,7 +700,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8"></a>8  Refusal of assistance
 
-             (1)  A request by a foreign country for assistance under this Act shall be refused if, in the opinion of the Attorney‑General:
+             (1)  A request by a foreign country for assistance under this Act shall be refused if, in the opinion of the Attorney-General:
 
                      (a)  the request relates to the prosecution or punishment of a person for an offence that is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, a political offence; or
 
@@ -714,15 +714,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                       (f)  the request relates to the prosecution of a person for an offence in a case where the person has been acquitted or pardoned by a competent tribunal or authority in the foreign country, or has undergone the punishment provided by the law of that country, in respect of that offence or of another offence constituted by the same act or omission as that offence.
 
-          (1A)  A request by a foreign country for assistance under this Act must be refused if it relates to the prosecution or punishment of a person charged with, or convicted of, an offence in respect of which the death penalty may be imposed in the foreign country, unless the Attorney‑General is of the opinion, having regard to the special circumstances of the case, that the assistance requested should be granted.
+          (1A)  A request by a foreign country for assistance under this Act must be refused if it relates to the prosecution or punishment of a person charged with, or convicted of, an offence in respect of which the death penalty may be imposed in the foreign country, unless the Attorney-General is of the opinion, having regard to the special circumstances of the case, that the assistance requested should be granted.
 
-          (1B)  A request by a foreign country for assistance under this Act may be refused if the Attorney‑General:
+          (1B)  A request by a foreign country for assistance under this Act may be refused if the Attorney-General:
 
                      (a)  believes that the provision of the assistance may result in the death penalty being imposed on a person; and
 
-                     (b)  after taking into consideration the interests of international criminal co‑operation, is of the opinion that in the circumstances of the case the request should not be granted.
+                     (b)  after taking into consideration the interests of international criminal co-operation, is of the opinion that in the circumstances of the case the request should not be granted.
 
-             (2)  A request by a foreign country for assistance under this Act may be refused if, in the opinion of the Attorney‑General:
+             (2)  A request by a foreign country for assistance under this Act may be refused if, in the opinion of the Attorney-General:
 
                      (a)  the request relates to the prosecution or punishment of a person in respect of an act or omission that, if it had occurred in Australia, would not have constituted an offence against Australian law; or
 
@@ -740,17 +740,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9"></a>9  Assistance may be provided subject to conditions
 
-                   Assistance under this Act may be provided to a foreign country subject to such conditions as the Attorney‑General determines.
+                   Assistance under this Act may be provided to a foreign country subject to such conditions as the Attorney-General determines.
 
 ##### <a id="10"></a>10  Request by Australia
 
-(1)A request for international assistance in a criminal matter that Australia is authorised to make under this Act may be made only by the Attorney‑General.
+(1)A request for international assistance in a criminal matter that Australia is authorised to make under this Act may be made only by the Attorney-General.
 
-             (2)  Subsection (1) does not prevent the Attorney‑General on behalf of Australia from requesting international assistance in a criminal matter other than assistance of a kind that may be requested under this Act.
+             (2)  Subsection (1) does not prevent the Attorney-General on behalf of Australia from requesting international assistance in a criminal matter other than assistance of a kind that may be requested under this Act.
 
 ##### <a id="11"></a>11  Request by foreign country
 
-             (1)  A request by a foreign country for international assistance in a criminal matter may be made to the Attorney‑General or a person authorised by the Attorney‑General, in writing, to receive requests by foreign countries under this Act.
+             (1)  A request by a foreign country for international assistance in a criminal matter may be made to the Attorney-General or a person authorised by the Attorney-General, in writing, to receive requests by foreign countries under this Act.
 
              (2)  A request must be in writing and must include or be accompanied by the following information:
 
@@ -764,13 +764,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 However, a failure to comply with this subsection is not a ground for refusing the request.
 
-             (3)  Where a request by a foreign country is made to a person authorised under subsection (1), the request shall be taken, for the purposes of this Act, to have been made to the Attorney‑General.
+             (3)  Where a request by a foreign country is made to a person authorised under subsection (1), the request shall be taken, for the purposes of this Act, to have been made to the Attorney-General.
 
              (4)  If a foreign country makes a request to a court in Australia for international assistance in a criminal matter:
 
-                     (a)  the court must refer the request to the Attorney‑General; and
+                     (a)  the court must refer the request to the Attorney-General; and
 
-                     (b)  the request is then taken, for the purposes of this Act, to have been made to the Attorney‑General.
+                     (b)  the request is then taken, for the purposes of this Act, to have been made to the Attorney-General.
 
 ## Part II—Assistance in relation to taking of evidence and production of documents or other articles
 
@@ -802,7 +802,7 @@ in the foreign country even though, under Australian law:
 
 by using in the circumstances processes similar to those used in the foreign country.
 
-             (3)  When making a request under subsection (1),   Australia may also request that an opportunity be given for the person giving evidence, or producing the document or other article, to be examined or cross‑examined, through a video link, from Australia by:
+             (3)  When making a request under subsection (1),   Australia may also request that an opportunity be given for the person giving evidence, or producing the document or other article, to be examined or cross-examined, through a video link, from Australia by:
 
                      (a)  any party to the proceeding or that party’s legal representative; or
 
@@ -816,17 +816,17 @@ by using in the circumstances processes similar to those used in the foreign cou
 
                      (b)  documents or other articles in Australia be produced;
 
-for the purposes of a proceeding in relation to a criminal matter in the requesting country or another foreign country, the Attorney‑General may, in his or her discretion, by writing in accordance with the approved form, authorise the taking of the evidence or the production of the documents or other articles, and the transmission of the evidence, documents or other articles to the requesting country.
+for the purposes of a proceeding in relation to a criminal matter in the requesting country or another foreign country, the Attorney-General may, in his or her discretion, by writing in accordance with the approved form, authorise the taking of the evidence or the production of the documents or other articles, and the transmission of the evidence, documents or other articles to the requesting country.
 
-             (2)  Where the Attorney‑General authorises the taking of evidence or the production of documents or other articles under subsection (1):
+             (2)  Where the Attorney-General authorises the taking of evidence or the production of documents or other articles under subsection (1):
 
                      (a)  in the case of the taking of evidence—a Magistrate may take the evidence on oath of each witness appearing before the Magistrate to give evidence in relation to the matter, and a Magistrate who takes any such evidence shall:
 
                               (i)  cause the evidence to be put in writing and certify that the evidence was taken by the Magistrate; and
 
-                             (ii)  cause the writing so certified to be sent to the Attorney‑General; or
+                             (ii)  cause the writing so certified to be sent to the Attorney-General; or
 
-                     (b)  in the case of the production of documents or other articles—a Magistrate may, subject to subsection (6), require the production of the documents or other articles and, where the documents or other articles are produced, the Magistrate shall send the documents, or copies of the documents certified by the Magistrate to be true copies, or the other articles, to the Attorney‑General.
+                     (b)  in the case of the production of documents or other articles—a Magistrate may, subject to subsection (6), require the production of the documents or other articles and, where the documents or other articles are produced, the Magistrate shall send the documents, or copies of the documents certified by the Magistrate to be true copies, or the other articles, to the Attorney-General.
 
              (3)  The evidence of such a witness may be taken in the presence or absence of the person to whom the proceeding in the requesting country relates or of his or her legal representative (if any).
 
@@ -846,7 +846,7 @@ to have legal representation at the proceeding before the Magistrate.
 
                      (b)  the legal representative of the relevant authority of the requesting country;
 
-to examine or cross‑examine, through a video link, from the requesting country any person giving evidence or producing a document or other article, at the proceeding.
+to examine or cross-examine, through a video link, from the requesting country any person giving evidence or producing a document or other article, at the proceeding.
 
              (5)  The certificate by the Magistrate under subsection (2) shall state whether, when the evidence was taken or the documents or other articles were produced, any of the following persons were present:
 
@@ -872,21 +872,21 @@ to examine or cross‑examine, through a video link, from the requesting country
 
                      (b)  that foreign country requests the provision of material relevant to that investigation or those proceedings; and
 
-                     (c)  the Attorney‑General is satisfied that the material requested is:
+                     (c)  the Attorney-General is satisfied that the material requested is:
 
                               (i)  material lawfully obtained by an enforcement agency in Australia; and
 
                              (ii)  material lawfully in the possession of that enforcement agency;
 
-the Attorney‑General may, by writing in accordance with the approved form, authorise the provision of that material to the requesting country.
+the Attorney-General may, by writing in accordance with the approved form, authorise the provision of that material to the requesting country.
 
-             (2)  Subsection (1) does not permit the Attorney‑General to authorise the provision to the requesting country of material obtained through the use of a surveillance device unless the request relates to an investigation into, or proceedings in relation to, a serious offence against the laws of that country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty.
+             (2)  Subsection (1) does not permit the Attorney-General to authorise the provision to the requesting country of material obtained through the use of a surveillance device unless the request relates to an investigation into, or proceedings in relation to, a serious offence against the laws of that country that is punishable by a maximum term of imprisonment of 3 years or more, by imprisonment for life or by the death penalty.
 
-             (3)  An authorisation by the Attorney‑General under subsection (1) may include a direction to an authorised officer of the enforcement agency having possession of the material about how the material is to be provided to that foreign country.
+             (3)  An authorisation by the Attorney-General under subsection (1) may include a direction to an authorised officer of the enforcement agency having possession of the material about how the material is to be provided to that foreign country.
 
-             (4)  In authorising the provision of material to a foreign country, the Attorney‑General may specify the uses to which that material can be put.
+             (4)  In authorising the provision of material to a foreign country, the Attorney-General may specify the uses to which that material can be put.
 
-             (5)  An authorisation by the Attorney‑General under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+             (5)  An authorisation by the Attorney-General under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
              (6)  In this section:
 
@@ -894,7 +894,7 @@ the Attorney‑General may, by writing in accordance with the approved form, aut
 
                     <a name="enforc-agenc"></a>**_enforcement agency_** includes a law enforcement agency within the meaning of section 6 of the _Surveillance Devices Act 2004_.
 
-                    <a name="materi-lawfulli-obtained-enforc-agenc-australia"></a>**_material lawfully obtained by an enforcement agency in Australia_** includes:
+                    <a name="australia"></a><a name="materi-lawfulli-obtained-enforc-agenc"></a>**_material lawfully obtained by an enforcement agency in_****_Australia_** includes:
 
                      (a)  material obtained from individuals or entities by consent; and
 
@@ -926,7 +926,7 @@ but does not include material obtained under the _Telecommunications (Intercepti
 
 on the ground alone that it was obtained otherwise than in accordance with the request.
 
-##### <a id="15"></a>15  Requests by foreign countries for search and seizure—action by Attorney‑General
+##### <a id="15"></a>15  Requests by foreign countries for search and seizure—action by Attorney-General
 
              (1)  Where:
 
@@ -934,9 +934,9 @@ on the ground alone that it was obtained otherwise than in accordance with the r
 
                      (b)  there are reasonable grounds to believe that evidential material relating to the investigation or proceeding is located in Australia; and
 
-                     (c)  the foreign country requests the Attorney‑General to arrange for the evidential material to be obtained;
+                     (c)  the foreign country requests the Attorney-General to arrange for the evidential material to be obtained;
 
-the Attorney‑General may, in his or her discretion, authorise a police officer, in writing, to apply to a Magistrate of the State or Territory in which the evidential material is believed to be located for a search warrant in respect of the evidential material.
+the Attorney-General may, in his or her discretion, authorise a police officer, in writing, to apply to a Magistrate of the State or Territory in which the evidential material is believed to be located for a search warrant in respect of the evidential material.
 
 Note:          Divisions 2 and 3 of Part VIIA make provision relating to applications for, and the issue and execution of, search warrants requested by foreign countries.
 
@@ -950,7 +950,7 @@ Note:          Divisions 2 and 3 of Part VIIA make provisi
 
                      (a)  a proceeding relating to a criminal matter has commenced in Australia; and
 
-                     (b)  the Attorney‑General is of the opinion that a person who is in a foreign country:
+                     (b)  the Attorney-General is of the opinion that a person who is in a foreign country:
 
                               (i)  is a foreign prisoner;
 
@@ -964,7 +964,7 @@ Australia may request the foreign country to authorise the attendance of the per
 
                      (a)  an investigation relating to a criminal matter has commenced in Australia; and
 
-                     (b)  the Attorney‑General is of the opinion that a person who is in a foreign country:
+                     (b)  the Attorney-General is of the opinion that a person who is in a foreign country:
 
                               (i)  is a foreign prisoner;
 
@@ -974,7 +974,7 @@ Australia may request the foreign country to authorise the attendance of the per
 
 Australia may request the foreign country to authorise the removal of the person to Australia for the purpose of giving assistance in relation to the investigation.
 
-             (3)  If a request is made under subsection (1) or (2), the Attorney‑General may make arrangements with an appropriate authority of the foreign country for the purposes of:
+             (3)  If a request is made under subsection (1) or (2), the Attorney-General may make arrangements with an appropriate authority of the foreign country for the purposes of:
 
                      (a)  the removal of the person to Australia;
 
@@ -984,11 +984,11 @@ Australia may request the foreign country to authorise the removal of the person
 
                      (d)  other relevant matters.
 
-##### <a id="17"></a>17  Arrangements between Attorney‑General and State Ministers in relation to custody of certain persons
+##### <a id="17"></a>17  Arrangements between Attorney-General and State Ministers in relation to custody of certain persons
 
-             (1)  The Attorney‑General may make arrangements with a State Minister in relation to the keeping of persons who are in Australia pursuant to requests under section 16 in custody in the State.
+             (1)  The Attorney-General may make arrangements with a State Minister in relation to the keeping of persons who are in Australia pursuant to requests under section 16 in custody in the State.
 
-             (2)  The Attorney‑General may arrange with a State Minister with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
+             (2)  The Attorney-General may arrange with a State Minister with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
 
 ##### <a id="18"></a>18  Custody of certain persons
 
@@ -998,7 +998,7 @@ Australia may request the foreign country to authorise the removal of the person
 
                      (b)  the foreign country requests that the person be kept in custody while he or she is in Australia;
 
-the person shall, while the person is in Australia or travelling to or from Australia pursuant to the request, be kept in such custody as the Attorney‑General directs in writing.
+the person shall, while the person is in Australia or travelling to or from Australia pursuant to the request, be kept in such custody as the Attorney-General directs in writing.
 
 ##### <a id="19"></a>19  Immunities
 
@@ -1006,7 +1006,7 @@ the person shall, while the person is in Australia or travelling to or from Aust
 
                      (a)  pursuant to a request under section 16; or
 
-                     (b)  to give evidence in a proceeding, or to give assistance in relation to an investigation, pursuant to a request made by or on behalf of the Attorney‑General (not being a request under section 16) for international assistance in a criminal matter;
+                     (b)  to give evidence in a proceeding, or to give assistance in relation to an investigation, pursuant to a request made by or on behalf of the Attorney-General (not being a request under section 16) for international assistance in a criminal matter;
 
 the person, subject to subsection (2), shall not:
 
@@ -1030,13 +1030,13 @@ the person, subject to subsection (2), shall not:
 
                               (i)  the purpose to which the request relates;
 
-                             (ii)  the purpose of giving evidence in a proceeding in Australia certified by the Attorney‑General, in writing, to be a proceeding in which it is desirable that the person give evidence; or
+                             (ii)  the purpose of giving evidence in a proceeding in Australia certified by the Attorney-General, in writing, to be a proceeding in which it is desirable that the person give evidence; or
 
-                            (iii)  the purpose of giving assistance in relation to an investigation in Australia certified by the Attorney‑General, in writing, to be an investigation in relation to which it is desirable that the person give assistance.
+                            (iii)  the purpose of giving assistance in relation to an investigation in Australia certified by the Attorney-General, in writing, to be an investigation in relation to which it is desirable that the person give assistance.
 
           (2A)  Paragraph (1)(f) or (g) does not apply in a case where its application would be inconsistent with a provision of a mutual assistance treaty between Australia and the foreign country concerned.
 
-             (3)  A certificate given by the Attorney‑General for the purposes of subparagraph (2)(b)(ii) or (iii) has effect from the day specified in the certificate (which may be a day before the day on which the certificate is given).
+             (3)  A certificate given by the Attorney-General for the purposes of subparagraph (2)(b)(ii) or (iii) has effect from the day specified in the certificate (which may be a day before the day on which the certificate is given).
 
              (4)  This section binds the Crown in right of the Commonwealth, of each of the States and of Norfolk Island.
 
@@ -1044,7 +1044,7 @@ the person, subject to subsection (2), shall not:
 
              (1)  Where a person has come to Australia pursuant to a request under section 16, the person shall be taken, for the purposes of this Act, to be in Australia pursuant to the request during any period during which the person remains in Australia for the purpose of being tried for an Australian criminal offence that the person is alleged to have committed after the person’s departure from the foreign country.
 
-             (2)  Without limiting the generality of subsection (1), the person shall be kept in such custody as the Attorney‑General directs under section 18.
+             (2)  Without limiting the generality of subsection (1), the person shall be kept in such custody as the Attorney-General directs under section 18.
 
 ##### <a id="21"></a>21  Limitation on use of evidence or assistance given by certain persons
 
@@ -1054,9 +1054,9 @@ the person, subject to subsection (2), shall not:
 
                               (i)  because of a request under subsection 16(1); or
 
-                             (ii)  because of a request (other than a request under that subsection) made by the Attorney‑General for international assistance in a criminal matter; and
+                             (ii)  because of a request (other than a request under that subsection) made by the Attorney-General for international assistance in a criminal matter; and
 
-                     (b)  the person has given evidence in the proceeding to which the request related or in a proceeding certified by the Attorney‑General under subparagraph 19(2)(b)(ii) in relation to the person;
+                     (b)  the person has given evidence in the proceeding to which the request related or in a proceeding certified by the Attorney-General under subparagraph 19(2)(b)(ii) in relation to the person;
 
 that evidence shall not be admitted or otherwise used in any prosecution of the person for an offence against Australian law, other than the offence of perjury in relation to the giving of that evidence.
 
@@ -1066,9 +1066,9 @@ that evidence shall not be admitted or otherwise used in any prosecution of the 
 
                               (i)  because of a request under subsection 16(2); or
 
-                             (ii)  because of a request (other than a request under that subsection) made by the Attorney‑General for international assistance in a criminal matter; and
+                             (ii)  because of a request (other than a request under that subsection) made by the Attorney-General for international assistance in a criminal matter; and
 
-                     (b)  the person has given assistance in relation to the investigation to which the request related or in relation to an investigation certified by the Attorney‑General under subparagraph 19(2)(b)(iii) in relation to the person;
+                     (b)  the person has given assistance in relation to the investigation to which the request related or in relation to an investigation certified by the Attorney-General under subparagraph 19(2)(b)(iii) in relation to the person;
 
 anything said or done by the person when giving the assistance is not to be admitted or otherwise used in any prosecution of the person for an offence against Australian law.
 
@@ -1084,17 +1084,17 @@ anything said or done by the person when giving the assistance is not to be admi
 
                      (c)  the transfer of any such persons from prison to prison;
 
-apply, so far as they are capable of application, in relation to a person who is in Australia pursuant to a request under section 16 and who has been committed to a prison in that State or Territory in accordance with a direction of the Attorney‑General under this Act.
+apply, so far as they are capable of application, in relation to a person who is in Australia pursuant to a request under section 16 and who has been committed to a prison in that State or Territory in accordance with a direction of the Attorney-General under this Act.
 
 ##### <a id="23"></a>23  Release of certain persons upon request by foreign country
 
                    Where:
 
-                     (a)  a person is being held in custody in accordance with a direction of the Attorney‑General under section 18; and
+                     (a)  a person is being held in custody in accordance with a direction of the Attorney-General under section 18; and
 
                      (b)  the foreign country from which the person has been brought requests the release of the person from custody;
 
-the Attorney‑General shall direct that the person be released from custody.
+the Attorney-General shall direct that the person be released from custody.
 
 ##### <a id="25"></a>25  Arrest of person who has escaped from custody
 
@@ -1108,13 +1108,13 @@ the Attorney‑General shall direct that the person be released from custody.
 
              (3)  If the Magistrate is satisfied that the person has escaped from lawful custody, the Magistrate may issue a warrant authorising any police officer to return the person to lawful custody.
 
-##### <a id="25A"></a>25A  Aiding persons to escape etc.
+##### <a id="25A"></a>25A  Aiding person to escape etc.
 
-                   Sections 46, 46A, 47A, 47C and 48 of the _Crimes Act 1914_ have effect as if:
+                   Sections 46, 47A, 47C and 48 of the _Crimes Act 1914_ (other than paragraphs 46(ab) and 47A(d) of that Act) apply as if:
 
-                     (a)  arrest under section 25 of this Act were arrest in respect of an offence against a law of the Commonwealth; and
+                     (a)  references in those sections to custody in respect of any offence against a law of the Commonwealth or of a Territory were references to custody while in Australia under a request under section 16; and
 
-                     (b)  custody while in Australia under a request under section 16 of this Act were custody in respect of an offence against a law of the Commonwealth.
+                     (b)  references in those sections of the _Crimes Act 1914_ to arrest in respect of any offence against a law of the Commonwealth or of a Territory were references to arrest under section 25 of this Act.
 
 ### Division 2—Requests by foreign countries
 
@@ -1128,13 +1128,13 @@ the Attorney‑General shall direct that the person be released from custody.
 
                      (c)  there are reasonable grounds to believe that the prisoner is capable of giving evidence relevant to the proceeding; and
 
-                     (d)  the Attorney‑General is satisfied that:
+                     (d)  the Attorney-General is satisfied that:
 
                               (i)  the prisoner has consented to giving evidence in the foreign country; and
 
                              (ii)  the foreign country has given adequate (whether or not unqualified) undertakings in respect of the matters referred to in subsection (3);
 
-the Attorney‑General may, in his or her discretion:
+the Attorney-General may, in his or her discretion:
 
                      (e)  in a case where the prisoner is being held in custody:
 
@@ -1142,7 +1142,7 @@ the Attorney‑General may, in his or her discretion:
 
                              (ii)  if the prisoner is a federal prisoner and also a State prisoner—direct, subject to the obtaining of any approvals required to be obtained from an authority of the relevant State, that the prisoner be released from prison for the purpose of travelling to the foreign country to give evidence at the proceeding; and
 
-                            (iii)  in any case, subject to the making or giving of any necessary directions or approvals in relation to the release of the prisoner—make arrangements for the travel of the prisoner to the foreign country in the custody of a police or prison officer appointed by the Attorney‑General for the purpose; or
+                            (iii)  in any case, subject to the making or giving of any necessary directions or approvals in relation to the release of the prisoner—make arrangements for the travel of the prisoner to the foreign country in the custody of a police or prison officer appointed by the Attorney-General for the purpose; or
 
                       (f)  in a case where the prisoner, having been released from custody on a parole or other order or licence to be at large, is not being held in custody:
 
@@ -1160,13 +1160,13 @@ the Attorney‑General may, in his or her discretion:
 
                      (c)  there are reasonable grounds to believe that the person is capable of giving evidence relevant to the proceeding; and
 
-                     (d)  the Attorney‑General is satisfied that:
+                     (d)  the Attorney-General is satisfied that:
 
                               (i)  the person has consented to giving evidence in the foreign country; and
 
                              (ii)  the foreign country has given adequate (whether or not unqualified) undertakings in respect of the matters referred to in subsection (3);
 
-the Attorney‑General may, in his or her discretion, make arrangements for the travel of the person to the foreign country.
+the Attorney-General may, in his or her discretion, make arrangements for the travel of the person to the foreign country.
 
              (3)  The matters in relation to which undertakings are to be given by a foreign country for the purpose of a request that a person give evidence in the foreign country are:
 
@@ -1186,17 +1186,17 @@ the Attorney‑General may, in his or her discretion, make arrangements for the 
 
                      (b)  that any evidence given by the person in the proceeding to which the request relates will be inadmissible or otherwise disqualified from use in the prosecution of the person for an offence against a law of the foreign country other than the offence of perjury in relation to the giving of that evidence;
 
-                     (c)  that the person will be returned to Australia in accordance with arrangements agreed by the Attorney‑General;
+                     (c)  that the person will be returned to Australia in accordance with arrangements agreed by the Attorney-General;
 
-                     (d)  in a case where the person is being held in custody in Australia and the Attorney‑General requests the foreign country to make arrangements for the keeping of the person in custody while the person is in the foreign country:
+                     (d)  in a case where the person is being held in custody in Australia and the Attorney-General requests the foreign country to make arrangements for the keeping of the person in custody while the person is in the foreign country:
 
                               (i)  the making of appropriate arrangements for that purpose;
 
-                             (ii)  that the person will not be released from custody in the foreign country unless the Attorney‑General notifies an appropriate authority of the foreign country that the person is entitled to be released from custody under Australian law; and
+                             (ii)  that the person will not be released from custody in the foreign country unless the Attorney-General notifies an appropriate authority of the foreign country that the person is entitled to be released from custody under Australian law; and
 
                             (iii)  if the person is released in the foreign country as mentioned in subparagraph (ii)—that the person’s accommodation and expenses pending the completion of the proceeding to which the request relates will be paid for by the foreign country; and
 
-                     (e)  such other matters (if any) as the Attorney‑General thinks appropriate.
+                     (e)  such other matters (if any) as the Attorney-General thinks appropriate.
 
 ##### <a id="27"></a>27  Requests for assistance in relation to investigations in foreign countries
 
@@ -1208,13 +1208,13 @@ the Attorney‑General may, in his or her discretion, make arrangements for the 
 
                      (c)  there are reasonable grounds to believe that the prisoner is capable of giving assistance in relation to the investigation; and
 
-                     (d)  the Attorney‑General is satisfied that:
+                     (d)  the Attorney-General is satisfied that:
 
                               (i)  the prisoner has consented to being removed to the foreign country for the purpose of giving assistance in relation to the investigation; and
 
                              (ii)  the foreign country has given adequate (whether or not unqualified) undertakings in respect of the matters referred to in subsection (3);
 
-the Attorney‑General may, in his or her discretion:
+the Attorney-General may, in his or her discretion:
 
                      (e)  in a case where the prisoner is being held in custody:
 
@@ -1222,7 +1222,7 @@ the Attorney‑General may, in his or her discretion:
 
                              (ii)  if the prisoner is a federal prisoner and also a State prisoner—direct, subject to the obtaining of any approvals required to be obtained from an authority of the relevant State, that the prisoner be released from prison for the purpose of travelling to the foreign country for the purpose of giving assistance in relation to the investigation; and
 
-                            (iii)  in any case, subject to the making or giving of any necessary directions or approvals in relation to the release of the prisoner—make arrangements for the travel of the prisoner to the foreign country in the custody of a police or prison officer appointed by the Attorney‑General for the purpose; or
+                            (iii)  in any case, subject to the making or giving of any necessary directions or approvals in relation to the release of the prisoner—make arrangements for the travel of the prisoner to the foreign country in the custody of a police or prison officer appointed by the Attorney-General for the purpose; or
 
                       (f)  in a case where the prisoner, having been released from custody on a parole or other order or licence to be at large, is not being held in custody:
 
@@ -1240,13 +1240,13 @@ the Attorney‑General may, in his or her discretion:
 
                      (c)  there are reasonable grounds to believe that the person is capable of giving assistance in relation to the investigation; and
 
-                     (d)  the Attorney‑General is satisfied that:
+                     (d)  the Attorney-General is satisfied that:
 
                               (i)  the person has consented to travel to the foreign country for the purpose of giving assistance in relation to the investigation; and
 
                              (ii)  the foreign country has given adequate (whether or not unqualified) undertakings in respect of the matters referred to in subsection (3);
 
-the Attorney‑General may, in his or her discretion, make arrangements for the travel of the person to the foreign country.
+the Attorney-General may, in his or her discretion, make arrangements for the travel of the person to the foreign country.
 
              (3)  The matters in relation to which undertakings are to be given by a foreign country for the purpose of a request that a person be removed to, or travel to, the foreign country for the purpose of giving assistance in relation to an investigation are:
 
@@ -1264,17 +1264,17 @@ the Attorney‑General may, in his or her discretion, make arrangements for the 
 
                              (v)  the person has had the opportunity of leaving the foreign country and has remained in that country otherwise than for the purpose of giving assistance in relation to the investigation to which the request relates;
 
-                     (b)  that the person will be returned to Australia in accordance with arrangements agreed by the Attorney‑General;
+                     (b)  that the person will be returned to Australia in accordance with arrangements agreed by the Attorney-General;
 
-                     (c)  in a case where the person is being held in custody in Australia and the Attorney‑General requests the foreign country to make arrangements for the keeping of the person in custody while the person is in the foreign country:
+                     (c)  in a case where the person is being held in custody in Australia and the Attorney-General requests the foreign country to make arrangements for the keeping of the person in custody while the person is in the foreign country:
 
                               (i)  the making of appropriate arrangements for that purpose;
 
-                             (ii)  that the person will not be released from custody in the foreign country unless the Attorney‑General notifies an appropriate authority of the foreign country that the person is entitled to be released from custody under Australian law; and
+                             (ii)  that the person will not be released from custody in the foreign country unless the Attorney-General notifies an appropriate authority of the foreign country that the person is entitled to be released from custody under Australian law; and
 
                             (iii)  if the person is released in the foreign country as mentioned in subparagraph (ii)—that the person’s accommodation and expenses pending the completion of the investigation to which the request relates will be paid for by the foreign country; and
 
-                     (d)  such other matters (if any) as the Attorney‑General thinks appropriate.
+                     (d)  such other matters (if any) as the Attorney-General thinks appropriate.
 
 ##### <a id="28"></a>28  Effect of removal to foreign country on prisoner’s term of imprisonment
 
@@ -1294,9 +1294,9 @@ relating to a criminal matter in the other foreign country, the person:
 
                      (c)  may be transported through Australia in the custody of another person; and
 
-                     (d)  if an aircraft or ship by which the person is being transported lands or calls at a place in Australia—shall be kept in such custody as the Attorney‑General directs in writing until his or her transportation is continued.
+                     (d)  if an aircraft or ship by which the person is being transported lands or calls at a place in Australia—shall be kept in such custody as the Attorney-General directs in writing until his or her transportation is continued.
 
-             (2)  Where a person who is being held in custody pursuant to a direction under paragraph (1)(d) and the person’s transportation is not, in the opinion of the Attorney‑General, continued within a reasonable time, the Attorney‑General may direct that the person be transported in custody to the foreign country from which the person was first transported.
+             (2)  Where a person who is being held in custody pursuant to a direction under paragraph (1)(d) and the person’s transportation is not, in the opinion of the Attorney-General, continued within a reasonable time, the Attorney-General may direct that the person be transported in custody to the foreign country from which the person was first transported.
 
 ##### <a id="31"></a>31  Arrest of person in transit
 
@@ -1306,13 +1306,13 @@ relating to a criminal matter in the other foreign country, the person:
 
              (3)  If the Magistrate is satisfied that the person has escaped from lawful custody, the Magistrate may issue a warrant authorising any police officer to return the person to lawful custody.
 
-##### <a id="31A"></a>31A  Aiding persons to escape etc.
+##### <a id="31A"></a>31A  Aiding person to escape etc.
 
-                   Sections 46, 46A, 47A, 47C and 48 of the _Crimes Act 1914_ have effect as if:
+Sections 46, 47A, 47C and 48 of the _Crimes Act 1914_ (other than paragraphs 46(ab) and 47A(d) of that Act) apply as if:
 
-                     (a)  arrest under section 31 of this Act were arrest in respect of an offence against a law of the Commonwealth; and
+                     (a)  references in those sections to custody in respect of any offence against a law of the Commonwealth or of a Territory were references to custody while in Australia in accordance with a direction under paragraph 29(1)(d); and
 
-                     (b)  custody while in Australia in accordance with a direction under paragraph 29(1)(d) of this Act were custody in respect of an offence against a law of the Commonwealth.
+                     (b)  references in those sections of the _Crimes Act 1914_ to arrest in respect of any offence against a law of the Commonwealth or of a Territory were references to arrest under section 31 of this Act.
 
 ## Part VI—Proceeds of crime
 
@@ -1350,21 +1350,21 @@ if the order was made in respect of a serious offence.
 
              (1)  If:
 
-                     (a)  a foreign country requests the Attorney‑General to make arrangements for the enforcement of:
+                     (a)  a foreign country requests the Attorney-General to make arrangements for the enforcement of:
 
                               (i)  a foreign forfeiture order, made in respect of a foreign serious offence, against property that is reasonably suspected of being located in Australia; or
 
                              (ii)  a foreign pecuniary penalty order, made in respect of a foreign serious offence, where some or all of the property available to satisfy the order is reasonably suspected of being located in Australia; and
 
-                     (b)  the Attorney‑General is satisfied that:
+                     (b)  the Attorney-General is satisfied that:
 
                               (i)  a person has been convicted of the offence; and
 
                              (ii)  the conviction and the order are not subject to further appeal in the foreign country;
 
-the Attorney‑General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
+the Attorney-General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
 
-             (2)  If a foreign country that is specified in regulations made for the purposes of this subsection requests the Attorney‑General to make arrangements for the enforcement of:
+             (2)  If a foreign country that is specified in regulations made for the purposes of this subsection requests the Attorney-General to make arrangements for the enforcement of:
 
                      (a)  a foreign forfeiture order that:
 
@@ -1378,17 +1378,17 @@ the Attorney‑General may authorise the DPP, in writing, to apply for the regis
 
                              (ii)  some or all of the property available to satisfy the order is reasonably suspected of being located in Australia;
 
-the Attorney‑General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
+the Attorney-General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
 
-             (3)  If a foreign country requests the Attorney‑General to make arrangements for the enforcement of a foreign restraining order, against property that is reasonably suspected of being located in Australia, that is:
+             (3)  If a foreign country requests the Attorney-General to make arrangements for the enforcement of a foreign restraining order, against property that is reasonably suspected of being located in Australia, that is:
 
                      (a)  in any case—made in respect of a foreign serious offence for which a person has been convicted; or
 
                      (b)  if the foreign country is specified in regulations made for the purposes of subsection (2)—made in respect of the alleged commission of a foreign serious offence (whether or not the identity of the person who committed the offence is known);
 
-the Attorney‑General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
+the Attorney-General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
 
-             (4)  The court that the Attorney‑General specifies under subsection (1), (2) or (3) must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
+             (4)  The court that the Attorney-General specifies under subsection (1), (2) or (3) must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
 ##### <a id="34A"></a>34A  Registration of foreign orders
 
@@ -1424,9 +1424,9 @@ the Attorney‑General may authorise the DPP, in writing, to apply for the regis
 
                      (b)  subparagraph 68(1)(b)(ii) of that Act did not apply if the person in question died after the DPP applied for registration of the order under section 34A of this Act.
 
-             (3)  Subject to section 34C, property that is subject to a foreign forfeiture order registered under this Subdivision may be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney‑General or of a person authorised by the Attorney‑General in writing for the purposes of this subsection.
+             (3)  Subject to section 34C, property that is subject to a foreign forfeiture order registered under this Subdivision may be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney-General or of a person authorised by the Attorney-General in writing for the purposes of this subsection.
 
-             (4)  Sections 69 and 70 and Divisions 5 to 7 of Part 2‑2 of the Proceeds of Crime Act do not apply in relation to a foreign forfeiture order registered under this Subdivision.
+             (4)  Sections 69 and 70 and Divisions 5 to 7 of Part 2-2 of the Proceeds of Crime Act do not apply in relation to a foreign forfeiture order registered under this Subdivision.
 
 ##### <a id="34C"></a>34C  Effect on third parties of registration of foreign forfeiture orders
 
@@ -1484,7 +1484,7 @@ Procedural matters
 
              (8)  A person who applies under subsection (1) must give to the DPP notice, as prescribed, of the application.
 
-             (9)  The DPP is to be a party to proceedings on an application under subsection (1). The Attorney‑General may intervene in the proceedings.
+             (9)  The DPP is to be a party to proceedings on an application under subsection (1). The Attorney-General may intervene in the proceedings.
 
 ##### <a id="34D"></a>34D  Enforcement of foreign pecuniary penalty orders
 
@@ -1496,7 +1496,7 @@ Procedural matters
 
              (2)  Any amount paid (whether in Australia, in the foreign country in which the order was made or elsewhere) in satisfaction of the foreign pecuniary penalty order is taken to have been paid in satisfaction of the debt that arises because of the registration of the foreign pecuniary penalty order in that court.
 
-             (3)  Division 5 of Part 2‑4 of the Proceeds of Crime Act does not apply in relation to a foreign pecuniary penalty order registered under this Subdivision.
+             (3)  Division 5 of Part 2-4 of the Proceeds of Crime Act does not apply in relation to a foreign pecuniary penalty order registered under this Subdivision.
 
 ##### <a id="34E"></a>34E  Enforcement of foreign restraining orders
 
@@ -1518,7 +1518,7 @@ Procedural matters
 
                      (c)  section 290 of that Act applies as if the reference in that section to the controlled property were a reference to the property that is subject to an order under section 35.
 
-             (3)  Divisions 1, 2 and 3 of Part 2‑1, section 33, Divisions 5 and 6 of Part 2‑1 and sections 142, 143, 169, 170 and 282 to 287 of the Proceeds of Crime Act do not apply in relation to a foreign restraining order registered under this Subdivision.
+             (3)  Divisions 1, 2 and 3 of Part 2-1, section 33, Divisions 5 and 6 of Part 2-1 and sections 142, 143, 169, 170 and 282 to 287 of the Proceeds of Crime Act do not apply in relation to a foreign restraining order registered under this Subdivision.
 
 Note:          Division 3 of this Part contains further provisions relating to registered foreign restraining orders.
 
@@ -1530,7 +1530,7 @@ Note:          Division 3 of this Part contains further prov
 
 ##### <a id="34G"></a>34G  Cancelling registration
 
-             (1)  The Attorney‑General may direct the DPP to apply to a court in which:
+             (1)  The Attorney-General may direct the DPP to apply to a court in which:
 
                      (a)  a foreign pecuniary penalty order; or
 
@@ -1538,7 +1538,7 @@ Note:          Division 3 of this Part contains further prov
 
 has been registered under this Subdivision for cancellation of the registration.
 
-             (2)  Without limiting subsection (1), the Attorney‑General may give a direction under that subsection in relation to an order if the Attorney‑General is satisfied that:
+             (2)  Without limiting subsection (1), the Attorney-General may give a direction under that subsection in relation to an order if the Attorney-General is satisfied that:
 
                      (a)  the order has ceased to have effect in the foreign country in which the order was made; or
 
@@ -1548,7 +1548,7 @@ has been registered under this Subdivision for cancellation of the registration.
 
 ##### <a id="34H"></a>34H  Certain provisions of the Proceeds of Crime Act not to apply
 
-                   Part 4‑2 and sections 322 and 323 of the Proceeds of Crime Act do not apply to a foreign order registered under this Subdivision.
+                   Part 4-2 and sections 322 and 323 of the Proceeds of Crime Act do not apply to a foreign order registered under this Subdivision.
 
 #### Subdivision B—Restraining orders relating to foreign criminal proceedings
 
@@ -1564,9 +1564,9 @@ has been registered under this Subdivision for cancellation of the registration.
 
                      (b)  there are reasonable grounds to believe that property that may be made or is about to be made the subject of a foreign restraining order is located in Australia; and
 
-                     (c)  the foreign country requests the Attorney‑General to obtain the issue of a restraining order against the property;
+                     (c)  the foreign country requests the Attorney-General to obtain the issue of a restraining order against the property;
 
-the Attorney‑General may authorise the DPP to apply to a specified court for a restraining order against that property in respect of the offence.
+the Attorney-General may authorise the DPP to apply to a specified court for a restraining order against that property in respect of the offence.
 
              (2)  The court specified must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
@@ -1574,7 +1574,7 @@ the Attorney‑General may authorise the DPP to apply to a specified court for a
 
              (1)  If so authorised, the DPP may apply for such a restraining order against that property in respect of the offence.
 
-             (2)  Part 2‑1 of the Proceeds of Crime Act applies to the application, and to any restraining order made as a result.
+             (2)  Part 2-1 of the Proceeds of Crime Act applies to the application, and to any restraining order made as a result.
 
              (3)  It applies as if:
 
@@ -1602,9 +1602,9 @@ the Attorney‑General may authorise the DPP to apply to a specified court for a
 
                      (a)  a person (the **_defendant_**) has been alleged, in a criminal proceeding in a foreign country, to have committed a foreign serious offence; and
 
-                     (b)  a court makes a restraining order under Part 2‑1 of the Proceeds of Crime Act against property in respect of the offence; and
+                     (b)  a court makes a restraining order under Part 2-1 of the Proceeds of Crime Act against property in respect of the offence; and
 
-                     (c)  a person having an interest in the property applies to the court under Division 3 of Part 2‑1 of that Act for an order varying the restraining order to exclude the person’s interest from the restraining order;
+                     (c)  a person having an interest in the property applies to the court under Division 3 of Part 2-1 of that Act for an order varying the restraining order to exclude the person’s interest from the restraining order;
 
 the court must grant the application if the court is satisfied that:
 
@@ -1634,11 +1634,11 @@ the court must grant the application if the court is satisfied that:
 
                      (a)  a criminal proceeding or criminal investigation has commenced in a foreign country in respect of a foreign serious offence; and
 
-                     (b)  a property‑tracking document in relation to the offence is reasonably suspected of being located in Australia; and
+                     (b)  a property-tracking document in relation to the offence is reasonably suspected of being located in Australia; and
 
-                     (c)  the foreign country requests the Attorney‑General to obtain the issue of a production order requiring that the document be produced or made available for inspection in accordance with Australian law;
+                     (c)  the foreign country requests the Attorney-General to obtain the issue of a production order requiring that the document be produced or made available for inspection in accordance with Australian law;
 
-the Attorney‑General may authorise an authorised officer of an enforcement agency to apply to a magistrate of a specified State or Territory for a production order under the Proceeds of Crime Act in respect of the offence for the purpose of obtaining possession of the property‑tracking document.
+the Attorney-General may authorise an authorised officer of an enforcement agency to apply to a magistrate of a specified State or Territory for a production order under the Proceeds of Crime Act in respect of the offence for the purpose of obtaining possession of the property-tracking document.
 
              (2)  The State or Territory specified must be a State or Territory in which the document is, or some or all of the documents are, reasonably suspected of being located.
 
@@ -1646,7 +1646,7 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
              (1)  If so authorised, the authorised officer may apply for such a production order against that property in respect of the offence.
 
-             (2)  Part 3‑2 of the Proceeds of Crime Act applies to the application, and to any production order made as a result.
+             (2)  Part 3-2 of the Proceeds of Crime Act applies to the application, and to any production order made as a result.
 
              (3)  It applies as if:
 
@@ -1658,15 +1658,15 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
 ##### <a id="34Q"></a>34Q  Retaining produced documents
 
-             (1)  An authorised officer who takes possession of a document under a production order made in respect of a foreign serious offence may retain the document pending a written direction from the Attorney‑General as to how to deal with the document.
+             (1)  An authorised officer who takes possession of a document under a production order made in respect of a foreign serious offence may retain the document pending a written direction from the Attorney-General as to how to deal with the document.
 
-             (2)  Directions from the Attorney‑General may include a direction that the document be sent to an authority of the foreign country that requested the obtaining of the production order.
+             (2)  Directions from the Attorney-General may include a direction that the document be sent to an authority of the foreign country that requested the obtaining of the production order.
 
 #### Subdivision D—Notices to financial institutions
 
 ##### <a id="34R"></a>34R  Giving notices to financial institutions
 
-             (1)  The Attorney‑General or a senior Departmental officer may give a written notice to a financial institution requiring the institution to provide to an authorised officer any information or documents relevant to any one or more of the following:
+             (1)  The Attorney-General or a senior Departmental officer may give a written notice to a financial institution requiring the institution to provide to an authorised officer any information or documents relevant to any one or more of the following:
 
                      (a)  determining whether an account is held by a specified person with the financial institution;
 
@@ -1680,7 +1680,7 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
                       (f)  a transaction conducted by the financial institution on behalf of a specified person.
 
-             (2)  The Attorney‑General or the senior Departmental officer must not issue the notice unless he or she reasonably believes that giving the notice is required:
+             (2)  The Attorney-General or the senior Departmental officer must not issue the notice unless he or she reasonably believes that giving the notice is required:
 
                      (a)  to determine whether to take any action under this Division, or under the Proceeds of Crime Act in connection with the operation of this Division; or
 
@@ -1724,7 +1724,7 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
 in relation to any action taken by the institution or person under a notice under section 34R or in the mistaken belief that action was required under the notice.
 
-             (2)  A financial institution, or person who is an officer, employee or agent of a financial institution, who provides information under a notice under section 34R is taken, for the purposes of Part 10.2 of the _Criminal Code_(offences relating to money‑laundering), not to have been in possession of that information at any time.
+             (2)  A financial institution, or person who is an officer, employee or agent of a financial institution, who provides information under a notice under section 34R is taken, for the purposes of Part 10.2 of the _Criminal Code_(offences relating to money-laundering), not to have been in possession of that information at any time.
 
 ##### <a id="34U"></a>34U  Making false statements in applications
 
@@ -1740,7 +1740,7 @@ in relation to any action taken by the institution or person under a notice unde
 
                      (c)  the statement is made in, or in connection with, a notice under section 34R.
 
-                    Maximum penalty: Imprisonment for 12 months or 60 penalty units, or both.
+                    Maximum penalty:    Imprisonment for 12 months or 60 penalty units, or both.
 
 ##### <a id="34V"></a>34V  Disclosing existence or nature of notice
 
@@ -1752,7 +1752,7 @@ in relation to any action taken by the institution or person under a notice unde
 
                      (c)  the person discloses the existence or nature of the notice.
 
-                    Maximum penalty: Imprisonment for 2 years or 120 penalty units, or both.
+                    Maximum penalty:    Imprisonment for 2 years or 120 penalty units, or both.
 
 ##### <a id="34W"></a>34W  Failing to comply with a notice
 
@@ -1762,7 +1762,7 @@ in relation to any action taken by the institution or person under a notice unde
 
                      (b)  the person fails to comply with the notice.
 
-                    Maximum penalty: Imprisonment for 6 months or 30 penalty units, or both.
+                    Maximum penalty:    Imprisonment for 6 months or 30 penalty units, or both.
 
 Note:          Sections 137.1 and 137.2 of the _Criminal Code_ also create offences for providing false or misleading information or documents.
 
@@ -1776,9 +1776,9 @@ Note:          Sections 137.1 and 137.2 of the _Criminal Cod
 
                      (b)  information about transactions conducted through an account with a financial institution in Australia is reasonably suspected of being relevant to the proceeding or investigation; and
 
-                     (c)  the foreign country requests the Attorney‑General to obtain the issue of an order directing the financial institution to give information about transactions conducted through the account;
+                     (c)  the foreign country requests the Attorney-General to obtain the issue of an order directing the financial institution to give information about transactions conducted through the account;
 
-the Attorney‑General may authorise an authorised officer of an enforcement agency to apply to a judge of a specified court for a monitoring order under the Proceeds of Crime Act in respect of the offence for the purpose of obtaining the information requested by the foreign country.
+the Attorney-General may authorise an authorised officer of an enforcement agency to apply to a judge of a specified court for a monitoring order under the Proceeds of Crime Act in respect of the offence for the purpose of obtaining the information requested by the foreign country.
 
              (2)  These are foreign serious offences to which paragraph (1)(a) applies:
 
@@ -1804,7 +1804,7 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
              (1)  If so authorised, the authorised officer may apply for such a monitoring order against that property in respect of the offence.
 
-             (2)  Part 3‑4 of the Proceeds of Crime Act applies to the application, and to any monitoring order made as a result.
+             (2)  Part 3-4 of the Proceeds of Crime Act applies to the application, and to any monitoring order made as a result.
 
              (3)  It applies as if:
 
@@ -1816,9 +1816,9 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
                    If an enforcement agency is given information under a monitoring order made in relation to a foreign serious offence, the enforcement agency must, as soon as practicable after receiving the information, pass the information on to:
 
-                     (a)  the Attorney‑General; or
+                     (a)  the Attorney-General; or
 
-                     (b)  an officer of the Attorney‑General’s Department specified by the Attorney‑General by written notice to the enforcement agency.
+                     (b)  an officer of the Attorney-General’s Department specified by the Attorney-General by written notice to the enforcement agency.
 
 #### Subdivision F—Search warrants relating to foreign serious offences
 
@@ -1828,11 +1828,11 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
                      (a)  a criminal proceeding or criminal investigation has commenced in a foreign country in respect of a foreign serious offence; and
 
-                     (b)  proceeds or an instrument of the offence, or a property‑tracking document in relation to the offence, is reasonably suspected of being located in Australia; and
+                     (b)  proceeds or an instrument of the offence, or a property-tracking document in relation to the offence, is reasonably suspected of being located in Australia; and
 
-                     (c)  the foreign country requests the Attorney‑General to obtain the issue of a search warrant relating to the proceeds, instrument or document;
+                     (c)  the foreign country requests the Attorney-General to obtain the issue of a search warrant relating to the proceeds, instrument or document;
 
-the Attorney‑General may authorise an authorised officer of an enforcement agency to apply to a magistrate of a specified State or Territory for a search warrant under the Proceeds of Crime Act in relation to the proceeds, instrument or document.
+the Attorney-General may authorise an authorised officer of an enforcement agency to apply to a magistrate of a specified State or Territory for a search warrant under the Proceeds of Crime Act in relation to the proceeds, instrument or document.
 
              (2)  The State or Territory specified must be a State or Territory in which:
 
@@ -1846,11 +1846,11 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
              (1)  If so authorised, the authorised officer may apply for such a search warrant, in relation to those proceeds, that instrument or that document, in respect of the offence.
 
-             (2)  Part 3‑5 of the Proceeds of Crime Act applies to the application, and to any search warrant issued as a result.
+             (2)  Part 3-5 of the Proceeds of Crime Act applies to the application, and to any search warrant issued as a result.
 
              (3)  It applies as if:
 
-                     (a)  references in that Part to a property‑tracking document were references to a property‑tracking document relating to the offence; and
+                     (a)  references in that Part to a property-tracking document were references to a property-tracking document relating to the offence; and
 
                      (b)  references in that Part to a magistrate were references to a magistrate of the State or Territory specified in the authorised officer’s authorisation under subsection 34ZA(1); and
 
@@ -1858,11 +1858,11 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
 ##### <a id="34ZC"></a>34ZC  Seizure of other property and documents
 
-             (1)  A search warrant issued under Part 3‑5 of the Proceeds of Crime Act in relation to a foreign serious offence authorises an authorised officer to seize property or a thing that he or she finds and that he or she believes on reasonable grounds to be:
+             (1)  A search warrant issued under Part 3-5 of the Proceeds of Crime Act in relation to a foreign serious offence authorises an authorised officer to seize property or a thing that he or she finds and that he or she believes on reasonable grounds to be:
 
-                     (a)  proceeds or an instrument of the offence or a property‑tracking document in relation to the offence, although not of the kind specified in the warrant; or
+                     (a)  proceeds or an instrument of the offence or a property-tracking document in relation to the offence, although not of the kind specified in the warrant; or
 
-                     (b)  proceeds or an instrument of, or a property‑tracking document in relation to, another foreign serious offence in relation to which a search warrant issued under that Part is in force; or
+                     (b)  proceeds or an instrument of, or a property-tracking document in relation to, another foreign serious offence in relation to which a search warrant issued under that Part is in force; or
 
                      (c)  something that:
 
@@ -1874,7 +1874,7 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
 ##### <a id="34ZD"></a>34ZD  Return of seized property to third parties
 
-             (1)  A person who claims an interest in property (other than a property‑tracking document) that has been seized under a search warrant issued under Part 3‑5 of the Proceeds of Crime Act in relation to a foreign serious offence may apply to a court for an order that the property be returned to the person.
+             (1)  A person who claims an interest in property (other than a property-tracking document) that has been seized under a search warrant issued under Part 3-5 of the Proceeds of Crime Act in relation to a foreign serious offence may apply to a court for an order that the property be returned to the person.
 
              (2)  The court must be a court of the State or Territory in which the warrant was issued that has proceeds jurisdiction.
 
@@ -1890,13 +1890,13 @@ the Attorney‑General may authorise an authorised officer of an enforcement age
 
              (5)  This section does not apply to property that has been seized because it may afford evidence as to the commission of an Australian criminal offence.
 
-##### <a id="34ZE"></a>34ZE  Dealing with seized property (other than property‑tracking documents)
+##### <a id="34ZE"></a>34ZE  Dealing with seized property (other than property-tracking documents)
 
 Property covered by this section
 
-             (1)  Property (other than a property‑tracking document) must be dealt with in accordance with this section if:
+             (1)  Property (other than a property-tracking document) must be dealt with in accordance with this section if:
 
-                     (a)  it has been seized under a search warrant issued under Part 3‑5 of the Proceeds of Crime Act in relation to a foreign serious offence; and
+                     (a)  it has been seized under a search warrant issued under Part 3-5 of the Proceeds of Crime Act in relation to a foreign serious offence; and
 
                      (b)  it has not been seized under paragraph 34ZC(1)(c).
 
@@ -1948,11 +1948,11 @@ Effect of foreign forfeiture orders being registered or obtained
 
              (7)  If, while the property is in the possession of the head of the enforcement agency whose authorised officer seized it, a foreign forfeiture order in respect of the property is registered in a court under Subdivision A, the head of the enforcement agency must deal with the property as required by the forfeiture order.
 
-##### <a id="34ZF"></a>34ZF  Dealing with seized property‑tracking documents
+##### <a id="34ZF"></a>34ZF  Dealing with seized property-tracking documents
 
-             (1)  An authorised officer who takes possession of a property‑tracking document under a warrant issued in respect of a foreign serious offence may retain the document for a period not exceeding one month pending a written direction from the Attorney‑General as to how to deal with the document.
+             (1)  An authorised officer who takes possession of a property-tracking document under a warrant issued in respect of a foreign serious offence may retain the document for a period not exceeding one month pending a written direction from the Attorney-General as to how to deal with the document.
 
-             (2)  Directions from the Attorney‑General may include a direction that the document be sent to an authority of the foreign country that requested the issue of the warrant.
+             (2)  Directions from the Attorney-General may include a direction that the document be sent to an authority of the foreign country that requested the issue of the warrant.
 
 ### Division 3—Provisions relating to registered foreign restraining orders
 
@@ -1992,7 +1992,7 @@ Effect of foreign forfeiture orders being registered or obtained
 
 ##### <a id="35C"></a>35C  Dealing with restrained property
 
-             (1)  Division 3 of Part 4‑1 of the Proceeds of Crime Act applies to the property as if the property were controlled property within the meaning of that Act.
+             (1)  Division 3 of Part 4-1 of the Proceeds of Crime Act applies to the property as if the property were controlled property within the meaning of that Act.
 
              (2)  However, the Official Trustee must, before exercising a power under section 278 of the Proceeds of Crime Act in relation to the property, consult with the foreign country that made the request under section 34 relating to the foreign restraining order covering the property.
 
@@ -2212,7 +2212,7 @@ Note:          For **_applicable period_** see subsection (3
 
 the police officer must state the particulars, and the outcome, of those applications in the information.
 
-             (6)  A Magistrate of New South Wales or the Australian Capital Territory may issue a warrant in relation to premises or a person in the   Jervis Bay Territory.
+             (6)  A Magistrate of New South Wales or the Australian   Capital Territory may issue a warrant in relation to premises or a person in the Jervis Bay Territory.
 
              (7)  A Magistrate of a State or internal Territory may:
 
@@ -2220,7 +2220,7 @@ the police officer must state the particulars, and the outcome, of those applica
 
                      (b)  issue a warrant in relation to premises or a person in an external Territory; or
 
-                     (c)  issue a warrant in relation to premises or a person in another State or internal Territory (including the Jervis Bay Territory) if the Magistrate is satisfied that there are special circumstances that make the issue of the warrant appropriate; or
+                     (c)  issue a warrant in relation to premises or a person in another State or internal Territory (including the Jervis  Bay Territory) if the Magistrate is satisfied that there are special circumstances that make the issue of the warrant appropriate; or
 
                      (d)  issue a warrant in relation to a person wherever the person is in Australia or in an external Territory if the Magistrate is satisfied that it is not possible to predict where the person may be.
 
@@ -2674,19 +2674,19 @@ Note:          Under subsection 4D(1) of the _Crimes Act 1914,
 
              (1)  Subject to subsection (2), if a police officer seizes a thing while executing a warrant issued under Division 2, he or she must:
 
-                     (a)  inform the Attorney‑General that the thing has been so seized; and
+                     (a)  inform the Attorney-General that the thing has been so seized; and
 
-                     (b)  retain the thing pending the Attorney‑General’s direction under subsection (4) about how to deal with the thing; and
+                     (b)  retain the thing pending the Attorney-General’s direction under subsection (4) about how to deal with the thing; and
 
-                     (c)  comply with any such direction that the Attorney‑General gives.
+                     (c)  comply with any such direction that the Attorney-General gives.
 
              (2)  If the thing seized is not evidential material relating to the proceeding or investigation relevant to the warrant, the police officer may make the thing available to officers of the police force of a State or Territory for the purpose of investigating or prosecuting an offence to which the thing relates.
 
-             (4)  The Attorney‑General may, by written notice, give the police officer a direction about how to deal with the thing.
+             (4)  The Attorney-General may, by written notice, give the police officer a direction about how to deal with the thing.
 
              (5)  Without limiting the directions that may be given, a direction may require the police officer to send the thing to a foreign country.
 
-             (6)  The Attorney‑General must direct the police officer to return the thing if:
+             (6)  The Attorney-General must direct the police officer to return the thing if:
 
                      (a)  the reason for its seizure no longer exists; or
 
@@ -2710,17 +2710,17 @@ the police officer may, without warrant, arrest the person.
 
 ##### <a id="39"></a>39  Arrangements with Governors of States and Administrator of Norfolk Island
 
-             (1)  The Governor‑General may make arrangements with the Governor of a State with respect to the administration of this Act, including arrangements for the performance of the functions of a Magistrate under this Act by a Magistrate of that State.
+             (1)  The Governor-General may make arrangements with the Governor of a State with respect to the administration of this Act, including arrangements for the performance of the functions of a Magistrate under this Act by a Magistrate of that State.
 
-             (2)  The Governor‑General may arrange with the Governor of a State with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
+             (2)  The Governor-General may arrange with the Governor of a State with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
 
-          (2A)  The Governor‑General may make arrangements with the Administrator of Norfolk Island with respect to the administration of this Act, including arrangements for the performance of the functions of a Magistrate under this Act by a Magistrate of Norfolk Island.
+          (2A)  The Governor-General may make arrangements with the Administrator of Norfolk Island with respect to the administration of this Act, including arrangements for the performance of the functions of a Magistrate under this Act by a Magistrate of Norfolk Island.
 
-          (2B)  The Governor‑General may arrange with the Administrator of Norfolk Island for the variation or revocation of an arrangement in force under subsection (2A).
+          (2B)  The Governor-General may arrange with the Administrator of Norfolk Island for the variation or revocation of an arrangement in force under subsection (2A).
 
              (3)  A copy of each instrument by which an arrangement under this section is made, varied or revoked shall be published in the _Gazette_.
 
-##### <a id="39A"></a>39A  Requests by Attorney‑General on behalf of a defendant
+##### <a id="39A"></a>39A  Requests by Attorney-General on behalf of a defendant
 
              (1)  If a defendant in a proceeding (**_original proceeding_**) relating to a criminal matter thinks that it is necessary for the purposes of the proceeding that:
 
@@ -2732,7 +2732,7 @@ the police officer may, without warrant, arrest the person.
 
                      (d)  arrangements should be made for a person who is in a foreign country to come to Australia to give evidence relevant to the proceeding;
 
-the defendant may apply to the relevant court (see subsection (1A)) for a certificate that it would be in the interests of justice for the Attorney‑General to make any appropriate request to the foreign country under Part II, III or IV so that:
+the defendant may apply to the relevant court (see subsection (1A)) for a certificate that it would be in the interests of justice for the Attorney-General to make any appropriate request to the foreign country under Part II, III or IV so that:
 
                      (e)  the evidence may be taken; or
 
@@ -2752,13 +2752,13 @@ the defendant may apply to the relevant court (see subsection (1A)) for a cert
 
                      (a)  all parties to the originalproceeding; and
 
-                     (b)  the Attorney‑General;
+                     (b)  the Attorney-General;
 
 to appear before the court and be heard on the merits of the application.
 
              (3)  In deciding whether to issue a certificate, the court must have regard to the following matters:
 
-(a)  whether the foreign country is likely to grant such a request made by the Attorney‑General on behalf of the defendant;
+(a)  whether the foreign country is likely to grant such a request made by the Attorney-General on behalf of the defendant;
 
                      (b)  the extent to which the material (whether it is evidence, a document, an article or a thing) that the defendant seeks to obtain from the foreign country would not otherwise be available;
 
@@ -2772,19 +2772,19 @@ to appear before the court and be heard on the merits of the application.
 
              (5)  If the court issues a certificate:
 
-                     (a)  the court must send a copy of the certificate to the Attorney‑General; and
+                     (a)  the court must send a copy of the certificate to the Attorney-General; and
 
-                     (b)  the Attorney‑General must, in accordance with the certificate, make a request on behalf of the defendant to the foreign country for international assistance unless he or she is of the opinion, having regard to the special circumstances of the case, that the request should not be made.
+                     (b)  the Attorney-General must, in accordance with the certificate, make a request on behalf of the defendant to the foreign country for international assistance unless he or she is of the opinion, having regard to the special circumstances of the case, that the request should not be made.
 
-##### <a id="39B"></a>39B  Certificate by Attorney‑General if foreign country refuses request made under section 39A
+##### <a id="39B"></a>39B  Certificate by Attorney-General if foreign country refuses request made under section 39A
 
-(1)  If a foreign country refuses a request made under subsection 39A(5), the Attorney‑General must give a certificate in writing to that effect.
+(1)  If a foreign country refuses a request made under subsection 39A(5), the Attorney-General must give a certificate in writing to that effect.
 
              (2)  A certificate under subsection (1) is prima  facie evidence of the facts stated in it.
 
 ##### <a id="40"></a>40  Delegation
 
-             (1)  The Attorney‑General may (including his or her powers under section 10) delegate to an officer of the Attorney‑General’s Department all or any of his or her powers under this Act.
+             (1)  The Attorney-General may (including his or her powers under section 10) delegate to an officer of the Attorney-General’s Department all or any of his or her powers under this Act.
 
 ##### <a id="41"></a>41  Jurisdiction of courts
 
@@ -2792,7 +2792,7 @@ to appear before the court and be heard on the merits of the application.
 
 ##### <a id="42"></a>42  Evidence
 
-                   A certificate by the Attorney‑General stating that:
+                   A certificate by the Attorney-General stating that:
 
                      (a)  Australia or a specified foreign country is a party to a specified treaty;
 
@@ -2814,23 +2814,23 @@ is, for the purpose of any proceedings under this Act,_prima facie_ evidence of 
 
              (3)  Nothing in this section prevents the proof of any matter, or the admission in evidence of any document, in accordance with any other law of the Commonwealth or any law of a State or Territory.
 
-##### <a id="43A"></a>43A  Admissibility of certain documents—requests under the Money‑Laundering Convention
+##### <a id="43A"></a>43A  Admissibility of certain documents—requests under the Money-Laundering Convention
 
-             (1)  In any proceeding arising directly or indirectly from a request made by a foreign country for international assistance in a criminal matter (including a proceeding under a proceeds of crime law), a document is admissible in evidence if the Attorney‑General provides a certificate stating that the document was provided by a specified Party to the Money‑Laundering Convention, in connection with a request for assistance of the type covered by the Convention.
+             (1)  In any proceeding arising directly or indirectly from a request made by a foreign country for international assistance in a criminal matter (including a proceeding under a proceeds of crime law), a document is admissible in evidence if the Attorney-General provides a certificate stating that the document was provided by a specified Party to the Money-Laundering Convention, in connection with a request for assistance of the type covered by the Convention.
 
-             (2)  The regulations may specify the Parties to the Money‑Laundering Convention for the purposes of subsection (1).
+             (2)  The regulations may specify the Parties to the Money-Laundering Convention for the purposes of subsection (1).
 
 ##### <a id="43B"></a>43B  Restriction on use of information etc.
 
-             (1)  If, as a result of a request made by the Attorney‑General under this Act, any material (whether it is evidence, a document, an article or a thing) has been sent to Australia by a foreign country for the purposes of a proceeding or investigation in relation to a criminal matter, the material is not to be used intentionally for any other purpose without the approval of the Attorney‑General.
+             (1)  If, as a result of a request made by the Attorney-General under this Act, any material (whether it is evidence, a document, an article or a thing) has been sent to Australia by a foreign country for the purposes of a proceeding or investigation in relation to a criminal matter, the material is not to be used intentionally for any other purpose without the approval of the Attorney-General.
 
-             (2**)**  The material is inadmissible in evidence in any proceeding other than the proceeding in respect of which it was obtained unless the Attorney‑Generalhas approved its use for the purposes of that other proceeding.
+             (2**)**  The material is inadmissible in evidence in any proceeding other than the proceeding in respect of which it was obtained unless the Attorney-Generalhas approved its use for the purposes of that other proceeding.
 
              (3)  Any information, document, article or thing obtained directly or indirectly from a person by making use of the material:
 
                      (a)  otherwise than for the purposes of the proceeding or investigation in respect of which it was obtained; and
 
-                     (b)  without the approval of the Attorney‑General;
+                     (b)  without the approval of the Attorney-General;
 
 is inadmissible in evidence in any other proceeding and may notbe used for the purposes of any other investigation.
 
@@ -2854,7 +2854,7 @@ must not intentionally disclose those contents or that fact except if:
 
                      (d)  it is necessary to do so in the performance of his or her duties; or
 
-                     (e)  the Attorney‑General has given his or her approval to the disclosure of those contents or that fact.
+                     (e)  the Attorney-General has given his or her approval to the disclosure of those contents or that fact.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -2862,7 +2862,7 @@ Note:          Under subsection 4D(1) of the _Crimes Act 1914_
 
 ##### <a id="44"></a>44  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2882,7 +2882,7 @@ The _Mutual Assistance in Criminal Matters Act 1987_as shown in this compilation
 
 All relevant information pertaining to application, saving or transitional provisions prior to 9 October 1996 are not included in this compilation. For subsequent information _see_ Table A.
 
-The _Mutual Assistance in Criminal Matters Act 1987_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (as amended) _see_ Table B. 
+The _Mutual Assistance in Criminal Matters Act 1987_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended) _see_ Table B. 
 
 ### Table of Acts
 
@@ -3267,23 +3267,6 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>3, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 26, 27): 3 Mar 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes Legislation Amendment Act (No. 2) 1988_ was amended by Part VII (sections
@@ -3291,7 +3274,7 @@ _(a)_     The _Crimes Legislation Amendment Act (No. 2) 1988_ was amen
 
                   (4)   Part VII shall be taken to have commenced on 15 June 1988.
 
-_(b)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amended by sections 44–47 only of the _Law and Justice Legislation Amendment Act 1988_, subsections 2(1) and (9) of which provide as follows:
+_(b)_    The _Mutual Assistance in Criminal Matters Act 1987_ was amended by sections 44–47 only of the _Law and Justice Legislation Amendment Act 1988_, subsections 2(1) and (9) of which provide as follows:
 
                   (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -3579,14 +3562,6 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 3, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3639,14 +3614,6 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
   <td>
     <div>ad. No. 40, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 3, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4184,7 +4151,7 @@ Repeal the definition, substitute:
 
 Note:       The _Personal Property Securities Act 2009_ provides for the registration of such data if regulations are made for the purposes of paragraph 148(c) of that Act.
 
-As at 7 March 2011 the amendments are not incorporated in this compilation.
+As at 8 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4218,7 +4185,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self-Government (Consequential Provisions) Regulations_
 
 ## Subsection 3 (1): (definition of _Governor_):
 
@@ -4226,9 +4193,9 @@ Omit the definition, substitute the following definition:
 
                     <a name="governor"></a>“**_Governor_**, means:
 
-                     (a)  in relation to the Australian Capital Territory—the Chief Minister of the Australian Capital Territory; and
+                     (a)  in relation to the Australian   Capital Territory—the Chief Minister of the Australian Capital Territory; and
 
-                     (b)  in relation to the Northern Territory—the Administrator of the Northern Territory;”.
+                     (b)  in relation to the Northern   Territory—the Administrator of the Northern Territory;”.
 
 ## Subsection 3 (1): (Definition of _State_):
 
