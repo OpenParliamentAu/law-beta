@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00842/Html/eba8ccd7-28ea-42cb-8849-654f2982fa01_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00067/Html/NatWatComm2004_image001.gif)
 
 # National Water Commission Act 2004
 
 **Act No. 156 of 2004 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 3 March 2008 
+ taking into account amendments up to Act No. 138 of 2007
 
 [**Note:** This Act ceases to be in force on 30 June 2012, _see_ section 39]
 
@@ -16,7 +16,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -170,9 +170,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="commission"></a>**_Commissioner_** means a Commissioner of the NWC appointed in accordance with section 11 and includes the Chair.
 
-                    <a name="full-time-ceo"></a>**_full‑time CEO_** means a CEO appointed on a full‑time basis.
+                    <a name="full-time-ceo"></a>**_full-time CEO_** means a CEO appointed on a full-time basis.
 
-                    <a name="full-time-commission"></a>**_full‑time Commissioner_** means a Commissioner appointed on a full‑time basis.
+                    <a name="full-time-commission"></a>**_full-time Commissioner_** means a Commissioner appointed on a full-time basis.
 
                     <a name="manag-ministeri-council"></a><a name="natur-resourc"></a>**_Natural Resource_** **_Management Ministerial Council_** means:
 
@@ -184,9 +184,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="nation-water-initi"></a><a name="nwi"></a>**_NWI_** or **_National Water Initiative_** means the Intergovernmental Agreement on a National Water Initiative between the Commonwealth of Australia and the Governments of New South Wales, Victoria, Queensland, South Australia, the Australian Capital Territory and the Northern Territory, signed on 25 June 2004, and as amended from time to time.
 
-                    <a name="part-time-ceo"></a>**_part‑time CEO_** means a CEO appointed on a part‑time basis.
+                    <a name="part-time-ceo"></a>**_part-time CEO_** means a CEO appointed on a part-time basis.
 
-                    <a name="part-time-commission"></a>**_part‑time Commissioner_** means a Commissioner appointed on a part‑time basis.
+                    <a name="part-time-commission"></a>**_part-time Commissioner_** means a Commissioner appointed on a part-time basis.
 
 ##### <a id="5"></a>5  This Act binds the Crown
 
@@ -208,7 +208,7 @@ General functions
 
                      (b)  if requested to do so by the Minister, to advise and make recommendations to the Commonwealth on matters of national significance relating to water (including the sustainable management of water resources and access to, and use of, water);
 
-                   (ba)  to advise and make recommendations to COAG on matters referred to in paragraph (b);
+                    (ba)  to advise and make recommendations to COAG on matters referred to in paragraph (b);
 
                      (c)  if requested to do so by the Minister, to advise and make recommendations to the Minister on matters relating to water;
 
@@ -242,11 +242,11 @@ Specific functions relating to implementing the NWI
 
                      (e)  to advise the Commonwealth or COAG, where relevant, on whether the parties to the NWI are implementing their commitments under the NWI;
 
-                      (f)  to monitor the impact of interstate trade in water access entitlements in the Southern Murray‑Darling Basin, and to advise the relevant parties to the NWI on that impact;
+                      (f)  to monitor the impact of interstate trade in water access entitlements in the Southern Murray-Darling Basin, and to advise the relevant parties to the NWI on that impact;
 
-                     (g)  every 2 years starting  in 2006‑07, to assess against national benchmarks the performance of the water industry in managing and using Australia’s water resources (for example, in water pricing, water management costs and irrigation efficiency), and to advise COAG of those assessments;
+                     (g)  every 2 years starting  in 2006-07, to assess against national benchmarks the performance of the water industry in managing and using Australia’s water resources (for example, in water pricing, water management costs and irrigation efficiency), and to advise COAG of those assessments;
 
-                     (h)  for 2006‑07 and 2008‑09:
+                     (h)  for 2006-07 and 2008-09:
 
                               (i)  to assess the progress of parties to the NWI towards achieving the objectives and outcomes stated in, and within the timelines required by, the NWI; and
 
@@ -254,7 +254,7 @@ Specific functions relating to implementing the NWI
 
                             (iii)  to advise and make recommendations to COAG on actions that the parties might take to better achieve those objectives and outcomes;
 
-                      (i)  in 2010‑11, to review the NWI comprehensively, including assessing:
+                      (i)  in 2010-11, to review the NWI comprehensively, including assessing:
 
                               (i)  the NWI against performance indicators that are developed by the Natural Resource Management Ministerial Council in consultation with the NWC; and
 
@@ -310,9 +310,9 @@ Note:          The Chair is also a Commissioner: see the defin
 
 ##### <a id="11"></a>11  Appointment of Commissioners
 
-             (1)  A Commissioner is to be appointed by the Governor‑General by written instrument, on either a full‑time or part‑time basis.
+             (1)  A Commissioner is to be appointed by the Governor-General by written instrument, on either a full-time or part-time basis.
 
-Note:          A Commissioner can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          A Commissioner can be re-appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  A Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
@@ -360,37 +360,37 @@ Note 2:       See also section 33A of the _Acts Interpretation Act
 
 ##### <a id="14"></a>14  Leave of absence
 
-             (1)  A full‑time Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A full-time Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant a full-time Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-             (3)  The Chair may grant leave of absence to any part‑time Commissioner on the terms and conditions that the Chair determines.
+             (3)  The Chair may grant leave of absence to any part-time Commissioner on the terms and conditions that the Chair determines.
 
-             (4)  If the Chair is a part‑time Commissioner, the Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
+             (4)  If the Chair is a part-time Commissioner, the Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
 
 ##### <a id="15"></a>15  Outside employment
 
-             (1)  A full‑time Commissioner must not engage in paid employment outside the duties of the Commissioner’s office without the Minister’s consent.
+             (1)  A full-time Commissioner must not engage in paid employment outside the duties of the Commissioner’s office without the Minister’s consent.
 
-             (2)  A part‑time Commissioner must not engage in paid employment that conflicts or could conflict with the proper performance of the Commissioner’s duties without the Minister’s consent.
+             (2)  A part-time Commissioner must not engage in paid employment that conflicts or could conflict with the proper performance of the Commissioner’s duties without the Minister’s consent.
 
 ##### <a id="16"></a>16  Other terms and conditions
 
-                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
+                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General.
 
 ##### <a id="17"></a>17  Resignation
 
-             (1)  A Commissioner may resign his or her appointment by giving the Governor‑General a written resignation.
+             (1)  A Commissioner may resign his or her appointment by giving the Governor-General a written resignation.
 
              (2)  If the Chair resigns his or her appointment, then he or she must resign as both the Chair and a Commissioner.
 
-Note:          This does not prevent a person who has been appointed as both the Chair and a Commissioner from being re‑appointed only as a Commissioner.
+Note:          This does not prevent a person who has been appointed as both the Chair and a Commissioner from being re-appointed only as a Commissioner.
 
 ##### <a id="18"></a>18  Termination of appointment
 
 All Commissioners
 
-             (1)  The Governor‑General may terminate the appointment of a Commissioner:
+             (1)  The Governor-General may terminate the appointment of a Commissioner:
 
                      (a)  for misbehaviour or physical or mental incapacity; or
 
@@ -406,17 +406,17 @@ All Commissioners
 
                      (c)  if the Commissioner fails, without reasonable excuse, to comply with section 22.
 
-Additional grounds: full‑time Commissioners
+Additional grounds: full-time Commissioners
 
-             (2)  The Governor‑General may terminate the appointment of a full‑time Commissioner if:
+             (2)  The Governor-General may terminate the appointment of a full-time Commissioner if:
 
                      (a)  the Commissioner is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
                      (b)  the Commissioner engages, except with the Minister’s consent, in paid employment outside the duties of his or her office.
 
-Additional grounds: part‑time Commissioners
+Additional grounds: part-time Commissioners
 
-             (3)  The Governor‑General may terminate the appointment of a part‑time Commissioner if:
+             (3)  The Governor-General may terminate the appointment of a part-time Commissioner if:
 
                      (a)  the Commissioner is absent, except on leave of absence, from 3 consecutive meetings of the NWC; or
 
@@ -476,7 +476,7 @@ Disclosure to be recorded in the minutes of the meeting
 
 ##### <a id="23"></a>23  The CEO
 
-                   There is to be a Chief Executive Officer (**_CEO_**) of the NWC.
+                   There is to be a Chief Executive Officer (**_CEO_**) of the NWC.
 
 ##### <a id="24"></a>24  Functions of the CEO
 
@@ -488,7 +488,7 @@ Disclosure to be recorded in the minutes of the meeting
 
                              (ii)  any other Commonwealth program referred to in subparagraph 7(1)(d)(ii); and
 
-                     (b)  to manage the day‑to‑day administration of the NWC.
+                     (b)  to manage the day-to-day administration of the NWC.
 
              (2)  All acts and things done in the name of, or on behalf of, the NWC by the CEO are taken as having been done by the NWC.
 
@@ -496,13 +496,13 @@ Disclosure to be recorded in the minutes of the meeting
 
 ##### <a id="25"></a>25  Appointing the CEO
 
-             (1)  The CEO is to be appointed by the Minister by written instrument, on either a full‑time or part‑time basis.
+             (1)  The CEO is to be appointed by the Minister by written instrument, on either a full-time or part-time basis.
 
-Note:          The CEO can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          The CEO can be re-appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-             (3)  A person may be appointed as both the CEO and a Commissioner (including the Chair). However, one of those appointments must be made on a part‑time basis.
+             (3)  A person may be appointed as both the CEO and a Commissioner (including the Chair). However, one of those appointments must be made on a part-time basis.
 
 ##### <a id="26"></a>26  Acting CEO
 
@@ -534,19 +534,19 @@ Note:          See also section 33A of the _Acts Interpretat
 
 ##### <a id="28"></a>28  Leave of absence
 
-             (1)  A full‑time CEO has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A full-time CEO has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time CEO leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant a full-time CEO leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-             (3)  The Chair may grant leave of absence to a part‑time CEO on the terms and conditions that the Chair determines.
+             (3)  The Chair may grant leave of absence to a part-time CEO on the terms and conditions that the Chair determines.
 
-             (4)  If the Chair is a part‑time CEO, the Minister may grant leave of absence to the part‑time CEO on the terms and conditions that the Minister determines.
+             (4)  If the Chair is a part-time CEO, the Minister may grant leave of absence to the part-time CEO on the terms and conditions that the Minister determines.
 
 ##### <a id="29"></a>29  Outside employment
 
-             (1)  A full‑time CEO must not engage in paid employment outside the duties of the CEO’s office without the Minister’s consent.
+             (1)  A full-time CEO must not engage in paid employment outside the duties of the CEO’s office without the Minister’s consent.
 
-             (2)  A part‑time CEO must not engage in paid employment that conflicts or could conflict with the proper performance of the CEO’s duties without the Minister’s consent.
+             (2)  A part-time CEO must not engage in paid employment that conflicts or could conflict with the proper performance of the CEO’s duties without the Minister’s consent.
 
 ##### <a id="30"></a>30  Other terms and conditions
 
@@ -560,7 +560,7 @@ Note:          See also section 33A of the _Acts Interpretat
 
 ##### <a id="32"></a>32  Termination of appointment
 
-Full‑time or part‑time CEO
+Full-time or part-time CEO
 
              (1)  The Minister may terminate the appointment of the CEO:
 
@@ -580,17 +580,17 @@ Full‑time or part‑time CEO
 
                      (d)  if the CEO fails, without reasonable excuse, to comply with section 33.
 
-Additional ground: full‑time CEO
+Additional ground: full-time CEO
 
-             (2)  The Minister may terminate the appointment of a full‑time CEO if the CEO engages, except with the Minister’s consent, in paid employment outside the duties of his or her office.
+             (2)  The Minister may terminate the appointment of a full-time CEO if the CEO engages, except with the Minister’s consent, in paid employment outside the duties of his or her office.
 
-Additional ground: part‑time CEO
+Additional ground: part-time CEO
 
-             (3)  The Minister may terminate the appointment of a part‑time CEO if the CEO engages, except with the Minister’s consent, in paid employment that conflicts or could conflict with the proper performance of the duties of his or her office.
+             (3)  The Minister may terminate the appointment of a part-time CEO if the CEO engages, except with the Minister’s consent, in paid employment that conflicts or could conflict with the proper performance of the duties of his or her office.
 
 ##### <a id="33"></a>33  Disclosure of interests
 
-                   The CEO must give written notice to the Minister of any direct or indirect pecuniary interest that the CEO has or acquires and that conflicts or could conflict with the proper performance of the CEO’s functions.
+                   The CEO must give written notice to the Minister of any direct or indirect pecuniary interest that the CEO has or acquires and that conflicts or could conflict with the proper performance of the CEO’s functions.
 
 ##### <a id="34"></a>34  Delegation
 
@@ -734,7 +734,7 @@ Note:          See also section 34C of the _Acts Interpretat
 
 ##### <a id="46"></a>46  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -744,21 +744,19 @@ Note:          See also section 34C of the _Acts Interpretat
 
 ### Note 1
 
-The _National Water Commission Act 2004_ as shown in this compilation comprises Act No. 156, 2004 amended as indicated in the Tables below.
+The _National Water Commission Act 2004_ as shown in this compilation comprises Act No. 156, 2004 amended as indicated in the Tables below. 
 
 For cessation details of this Act _see_ section 39.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -816,31 +814,14 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 837–845) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -866,77 +847,5 @@ Remainder: Royal Assent</div>
     <div>am. No. 138, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 837  Subsection 11(1) (note)
-
-Repeal the note, substitute:
-
-Note:          A Commissioner  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 838  Subsection 12(1)
-
-Omit “(1)”.
-
-## 839  Subsection 12(1) (note 2)
-
-Repeal the note, substitute:
-
-Note 2:       For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 840  Subsection 12(2)
-
-Repeal the subsection.
-
-## 841  Subsection 25(1) (note)
-
-Repeal the note, substitute:
-
-Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 842  Subsection 26(1)
-
-Omit “(1)”.
-
-## 843  Subsection 26(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 844  Subsection 26(2)
-
-Repeal the subsection.
-
-## 845  Section 34 (note 1)
-
-Omit “Section 17AA”, substitute “Section 2B”.
-
-As at 19 October 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
