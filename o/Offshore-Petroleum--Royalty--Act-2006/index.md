@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00489/Html/OffshorePetRoy2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00087/Html/OffshorePetRoy2006_image001.gif)
 
 # Offshore Petroleum (Royalty) Act 2006
 
 **Act No. 18 of 2006 as amended**
 
-This compilation was prepared on 16 October 2009
- taking into account amendments up to Act No. 102 of 2009
+This compilation was prepared on 12 February 2009
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -172,7 +172,7 @@ Note:          This table relates only to the provisions of th
 
                    Chapter 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ applies to this Act in a corresponding way to the way in which it applies to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-Note:          This means, for example, that the definitions in section 7 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ apply to this Act.
+Note:          This means, for example, that the definitions in section 6 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ apply to this Act.
 
 ##### <a id="4"></a>4  Definitions
 
@@ -659,7 +659,7 @@ of Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Ss. 3–17 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
+    <div>Ss. 3–17 and Schedule 1: 1 July 2008 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -681,29 +681,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 2 (items 44A–44C, 45, 45A, 46–57): <i>(a) 
- </i>Schedule 3 (items 31A, 
-31D–31F): 22 Nov 2008 
+ </i>Schedule 3 (items 31A, 31D–31F): 22 Nov 2008 
 Schedule 4 (items 5A–5C): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>102, 2009</div>
-  </td>
-  <td>
-    <div>8 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 67): 9 Oct 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -885,23 +864,7 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3</div>
-  </td>
-  <td>
-    <div>am. No. 102, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
+    <div>Ss. 3, 4</div>
   </td>
   <td>
     <div>am. No. 117, 2008</div>
