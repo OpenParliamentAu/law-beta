@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00962/Html/f2794ce9-1e32-451d-a220-b13af18b6724_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00736/Html/424b1fcf-3723-4792-b0a7-c039e94db58a_files/image001.gif)
 
 # Customs Administration Act 1985
 
 **Act No. 38 of 1985 as amended**
 
-This compilation was prepared on 19 December 2011
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 12 September 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -322,8 +322,6 @@ except:
 
                      (c)  as authorised by this section; or
 
-                    (ca)  for the purposes of the _Law Enforcement Integrity Commissioner Act 2006_ or regulations under that Act; or
-
                      (d)  as required or authorised by any other law; or
 
                      (e)  in the course of performing the person’s duties.
@@ -585,9 +583,8 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="17%">
   <col width="1%">
   <col width="22%">
-  <col width="13%">
+  <col width="14%">
   <col width="0%">
-  <col width="2%">
 </colgroup>
 
 <thead>
@@ -606,8 +603,11 @@ of Assent</div>
     <td>
       <div>Date of commencement</div>
     </td>
-    <td colspan="3">
+    <td>
       <div>Application, saving or transitional provisions</div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
 </thead>
@@ -624,7 +624,10 @@ of Assent</div>
   <td colspan="2">
     <div>10 June 1985 ( <i>see Gazette</i>1985, No. S194)</div>
   </td>
-  <td colspan="3">
+  <td>
+    <div></div>
+  </td>
+  <td>
     <div></div>
   </td>
 </tr>
@@ -643,8 +646,11 @@ of Assent</div>
 Ss. 6, 8, 16 and 18: 19 July 1989 
 Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>S. 12(2)</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -661,8 +667,11 @@ Remainder: Royal Assent</div>
     <div>Part 6 (ss. 29, 30): 24 Nov 1988 ( <i>see</i>s. 2(2)) 
 Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -681,8 +690,11 @@ Ss. 4(1)(b), 16, 26(1)(b), (c) and 33 (in part): 1 July 1989
 S. 15: 1 Aug 1989 
 Remainder: 1 Jan 1990</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>Ss. 2(2) and 34</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -700,8 +712,11 @@ Remainder: 1 Jan 1990</div>
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>S. 31(2)</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -721,8 +736,11 @@ Ss. 5 and 23: 19 Jan 1993
 S. 21: 18 Aug 1992 
 Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -738,8 +756,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>15 June 1993 ( <i>see Gazette</i>1993, No. GN22)</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -755,8 +776,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Ss. 7, 17 and 18: Royal Assent <i>(a)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>Ss. 17 and 18</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -772,8 +796,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 2 (item 47): <i>(b)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -789,8 +816,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 2: 23 Mar 2000 ( <i>see</i> <i>Gazette</i>2000, No. S142) <i>(c)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -806,8 +836,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 1 (items 356–358): 5 Dec 1999 ( <i>see</i> <i>Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -823,8 +856,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedules 1–3: 26 May 2000 ( <i>see</i> <i>Gazette</i>2000,No. S269)Remainder: Royal Assent</div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -840,8 +876,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>S. 4(1), (2) and Schedule 22: <i>(e)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -857,8 +896,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 7 (items 1–8): 4 May 2001 <i>(f)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -874,8 +916,11 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 3 (items 152–171): Royal Assent <i>(g)</i></div>
   </td>
-  <td colspan="3">
+  <td>
     <div>—</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -891,7 +936,10 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div></div>
   </td>
-  <td colspan="3">
+  <td>
+    <div></div>
+  </td>
+  <td>
     <div></div>
   </td>
 </tr>
@@ -911,9 +959,6 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -931,7 +976,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -951,7 +996,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -971,7 +1016,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -991,7 +1036,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -1011,7 +1056,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -1031,7 +1076,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -1051,7 +1096,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
 </tr>
@@ -1071,32 +1116,11 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
   <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 1, 6): 6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
-  </td>
-  <td colspan="2">
     <div></div>
   </td>
 </tr>
 <tr height="0">
-  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -1452,7 +1476,7 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. Nos. 209 and 221, 1992; No. 85, 1995; No. 137, 1999; Nos. 25 and 95, 2001; Nos. 64 and 125, 2002; No. 144, 2005; No. 33, 2009; No. 174, 2011</div>
+    <div>am. Nos. 209 and 221, 1992; No. 85, 1995; No. 137, 1999; Nos. 25 and 95, 2001; Nos. 64 and 125, 2002; No. 144, 2005; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1546,7 +1570,7 @@ Repeal the subsections.
 
 Omit “Paragraph 34AB(c)”, substitute “Paragraph 34AB(1)(c)”.
 
-As at 19 December 2011 the amendments are not incorporated in this compilation.
+As at 12 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1595,25 +1619,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
-
-## Schedule 1
-
-## 6  Application
-
-(1)       The amendments made by items 1 to 5 of this Schedule apply in relation to corrupt conduct, whether engaged in before or after the commencement of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-(2)       However, the requirement for the Chief Executive Officer of Customs to notify a corruption issue to the Integrity Commissioner under that Act only applies on and after this item commences.
-
-(3)       To avoid doubt, the amendments made by items 1 to 5 apply in relation to corrupt conduct even if the conduct was engaged in at a time when Customs was known as the Australian Customs Service.
-
-(4)       In this item:
-
-**_corrupt conduct_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-**_corruption issue_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
 
  
