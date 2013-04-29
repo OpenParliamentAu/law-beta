@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00047/Html/31669341-c771-447e-bde8-334924892f3c_files/image001.png)
+![](http://www.comlaw.gov.au/Details/C2011C00147/Html/d88c957b-990a-4d72-87f5-3b9cf54073fa_files/image001.png)
 
 # Fair Work (Transitional Provisions and Consequential Amendments) Act 2009
 
 **Act No. 55 of 2009 as amended**
 
-This compilation was prepared on 19 December 2012
- taking into account amendments up to Act No. 175 of 2012
+This compilation was prepared on 29 March 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -1585,7 +1586,7 @@ _Note:       Items 10 and 11 apply instead of subsections 554(1) t
 
                      (b)  an award can be varied or revoked after the end of the bridging period as a result of FWA continuing to deal with a matter that it was dealing with before the end of the bridging period.
 
-## 12A  State reference transitional awards: variation and revocation
+## 12A  State reference transitional awards: variation and revocation
 
 General provisions
 
@@ -2679,7 +2680,7 @@ _Note:       Item 13 would otherwise result in references in the t
 
                      (a)  the rules were provisions of a law of the Commonwealth; and
 
-                     (b)  any references in the rules to State awards or State employment agreements (however described in the rules) were instead (respectively) references to Division 2B State awards or Division 2B State employment agreements; and
+                     (b)  any references in the rules to State awards or State employment agreements (however described in the rules) were instead (respectively) references to Division 2B State awards or Division 2B transitional State employment agreements; and
 
                      (c)  any other modifications of those rules prescribed by the regulations were made.
 
@@ -5029,7 +5030,7 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
 A take‑home pay order made in relation to an employee or class of employees to whom a particular State reference public sector modern award applies continues to have effect in relation to those employees (subject to the terms of the order) for so long as the State reference public sector modern award continues to cover the employee or employees, even if it stops applying to the employee or employees because an enterprise agreement starts to apply.
 
-## 17  Inconsistency with State reference public sector modern awards and enterprise agreements
+## 17  Inconsistency with State reference public sector modern awards and enterprise agreements
 
 A term of a State reference public sector modern award or an enterprise agreement has no effect in relation to an employee to the extent that it is less beneficial to the employee than a term of a take‑home pay order that applies to the employee.
 
@@ -5527,7 +5528,7 @@ FWA must disregard individual flexibility arrangement
 
 (5)       For the purposes of determining whether an enterprise agreement as proposed to be varied passes the better off overall test, FWA must disregard any individual flexibility arrangement that has been agreed to by a Division 2B State award covered employee and his or her employer under the flexibility term in the agreement.
 
-## 20C  Definitions
+## 20C  Definitions
 
 In this Part:
 
@@ -5589,7 +5590,7 @@ Subsection 272(4) of the FW Act (which deals with workplace determinations passi
 
 (2)       Subsection 272(4) of the FW Act (which deals with workplace determinations passing the better off overall test) applies in relation to the workplace determination as if the words “under section 193” were omitted and the words “under item 18 of Schedule 7 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_” were substituted.
 
-## 25  Core terms of workplace determinations—safety net requirements
+## 25  Core terms of workplace determinations—safety net requirements
 
 (1)       This item applies in relation to a workplace determination made during the bridging period.
 
@@ -10447,7 +10448,7 @@ Insert:
 
                     <a name="fwa-member"></a>**_FWA Member_** has the same meaning as in the Fair Work Act, but does not include a Minimum Wage Panel Member (within the meaning of that Act).
 
-## 19  Section 6 of Schedule 1
+## 19  Section 6 of Schedule 1
 
 Insert:
 
@@ -11319,7 +11320,7 @@ a reference in this section to the organisation includes a reference to the asso
 
                    An order under subsection 137A(1) or (2) may be subject to conditions or limitations.
 
-##### <a id="137E"></a>137E  Organisation must comply with order
+##### <a id="137E"></a>137E  Organisation must comply with order
 
              (1)  An organisation to which an order under subsection 137A(1) or (2) applies must comply with the order.
 
@@ -11545,7 +11546,7 @@ Omit “this Schedule”, substitute “this Act”.
 
 Omit “this Schedule” (wherever occurring), substitute “this Act”.
 
-## 138  Subparagraphs 151(5)(a)(ia), (i) and (iii) of Schedule 1
+## 138  Subparagraphs 151(5)(a)(ia), (i) and (iii) of Schedule 1
 
 Omit “this Schedule”, substitute “this Act”.
 
@@ -12059,7 +12060,7 @@ Omit “the Commission”, substitute “FWA”.
 
 Omit “The Commission”, substitute “FWA”.
 
-## 258  Paragraph 19(1)(e) of Schedule 1
+## 258  Paragraph 19(1)(e) of Schedule 1
 
 Omit “the Commission”, substitute “FWA”.
 
@@ -12523,7 +12524,7 @@ _Note:       The heading to section 162 of Schedule 1 is altered
 
 Omit “a Presidential Member”, substitute “the President or a Deputy President”.
 
-## 366  Subsection 163(12) of Schedule 1 (paragraph (a) of the definition of _appropriate authority_)
+## 366  Subsection 163(12) of Schedule 1 (paragraph (a) of the definition of _appropriate authority_)
 
 Omit “a Presidential Member of the Commission”, substitute “the President or a Deputy President”.
 
@@ -13279,7 +13280,7 @@ Omit “a Registrar”, substitute “the General Manager”.
 
 _Note:       The heading to section 331 of Schedule 1 is altered by omitting “Registrar” and substituting “General Manager”._
 
-## 541  Subsection 331(1) of Schedule 1
+## 541  Subsection 331(1) of Schedule 1
 
 Omit “the Registrar”, substitute “the General Manager”.
 
@@ -13299,7 +13300,7 @@ Omit “A Registrar”, substitute “The General Manager”.
 
 Omit “a Registrar”, substitute “the General Manager”.
 
-## 546  Subsection 331(4) of Schedule 1
+## 546  Subsection 331(4) of Schedule 1
 
 Omit “the Registrar”, substitute “the General Manager”.
 
@@ -13481,7 +13482,7 @@ Omit “a collective agreement” (first occurring), substitute “an enterprise
 
 Omit “an award” (second occurring), substitute “a modern award”.
 
-## 588  Subparagraph 28(1)(a)(i) of Schedule 1
+## 588  Subparagraph 28(1)(a)(i) of Schedule 1
 
 Omit “a collective agreement” (second occurring), substitute “an enterprise agreement”.
 
@@ -14361,40 +14362,6 @@ Schedule 3 (items 17A–17E): Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 1096–1258): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment (Transfer of Business) Act 2012</div>
-  </td>
-  <td>
-    <div>175, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 76): 5 Dec 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
@@ -14849,135 +14816,7 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 8</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 11</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 175, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 14</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 15</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 16</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 17</div>
+    <div>Items 2–17</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
@@ -16263,691 +16102,5 @@ of Schedule 13</div>
     <div>ad. No. 124, 2009</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Fair Work Amendment Act 2012 (No. 174, 2012)_
-
-The following amendments commence on 1 January 2013:
-
-## Schedule 9
-
-## 1096  Item 2 of Schedule 2
-
-Insert:
-
-                    <a name="fwa"></a>**_FWA_**: see Fair Work Australia.
-
-## 1097  Item 2 of Schedule 2
-
-Insert:
-
-                    <a name="fwa"></a><a name="fair-work-australia"></a>**_Fair Work Australia_** or **_FWA_** means the body referred to in section 575 of the FW Act, as in force immediately before the commencement of Part 1 of Schedule 9 to the _Fair Work Amendment Act 2012_.
-
-## 1098  Item 2 of Schedule 2
-
-Insert:
-
-                    <a name="fwa-member"></a>**_FWA member_** has the same meaning as in the FW Act, as in force immediately before the commencement of Part 1 of Schedule 9 to the _Fair Work Amendment Act 2012_.
-
-## 1099  Item 12 of Schedule 2 (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1100  Items 12 and 13 of Schedule 2
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1101  Subitems 6(1) and (2) of Schedule 3
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1102  Paragraphs 8A(2)(b), (c) and (d) of Schedule 3
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1103  Subitems 10(1), 11(1) and 12(1) of Schedule 3
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1104  Subitem 12(2) of Schedule 3
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1105  Paragraphs 12(3)(b) and 12A(1)(a) of Schedule 3
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1106  Subitem 12A(3) of Schedule 3
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1107  Subitems 12A(4) and (5) of Schedule 3
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1108  Item 16 of Schedule 3 (heading)
-
-Omit “**FWA**”, substitute “**the** **FWC**”.
-
-## 1109  Subitems 17(2), (3) and (4) of Schedule 3
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1110  Subitem 18(7) of Schedule 3
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1111  Item 19 of Schedule 3 (heading)
-
-Omit “**FWA’s**”, substitute “**the** **FWC’s**”.
-
-## 1112  Paragraphs 19(2)(b), (3)(b) and (c) of Schedule 3
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1113  Subitem 19(4) of Schedule 3
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1114  Subitem 19(4) of Schedule 3
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1115  Subitem 19(5) of Schedule 3
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1116  Subitem 22(2) of Schedule 3 (note)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1117  Subitems 23(1A) and 26(1) of Schedule 3
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1118  Subitem 8(2) of Schedule 3A (note)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1119  Paragraph 8(2A)(b) of Schedule 3A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1120  Subitem 8(3) of Schedule 3A
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1121  Items 13, 19 and 20 of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1122  Item 23 of Schedule 3A (heading)
-
-Omit “**FWA**”, substitute “**the** **FWC**”.
-
-## 1123  Items 24 and 25 of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1124  Item 26 of Schedule 3A (heading)
-
-Omit “**FWA’s**”, substitute “**the** **FWC’s**”.
-
-## 1125  Subitems 26(2) and (3) of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1126  Subitem 26(4) of Schedule 3A
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1127  Subitem 26(4) of Schedule 3A
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1128  Subitem 26(5) of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1129  Subitems 32(1) and (2) of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1130  Subitem 32(3) of Schedule 3A
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1131  Subitem 32(4) of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1132  Subitem 33(1) of Schedule 3A
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1133  Paragraphs 33(1)(a) and (b) of Schedule 3A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1134  Subitem 33(2) of Schedule 3A
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1135  Subitem 37(2) of Schedule 3A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1136  Subitem 40(1) of Schedule 3A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1137  Subitem 3(1) of Schedule 5
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1138  Paragraphs 3(1)(a) and (b) of Schedule 5
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1139  Subitems 3(2) and (3) of Schedule 5
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1140  Subitem 3(4) of Schedule 5
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1141  Subitem 3(5) of Schedule 5
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1142  Subitem 3(5) of Schedule 5
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1143  Subitem 3(6) of Schedule 5
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1144  Subitem 3(6) of Schedule 5
-
-Omit “FWC’s”, substitute “the FWC’s”.
-
-## 1145  Subitem 5(1) of Schedule 5
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1146  Subitem 5(2) of Schedule 5
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1147  Subitems 6(1), (2) and (2A) of Schedule 5
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1148  Subitem 6(3) of Schedule 5
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1149  Subitem 6(3) of Schedule 5
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1150  Subitem 6(4) of Schedule 5
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1151  Subitem 6(5) of Schedule 5
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1152  Subitem 6(5) of Schedule 5
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1153  Subitem 6(6) of Schedule 5
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1154  Subitem 6(6) of Schedule 5
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 1155  Subitem 7(1) of Schedule 5
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1156  Subitems 9(1) and (2) of Schedule 5
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1157  Subitem 9(3) of Schedule 5
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1158  Subitem 9(4) of Schedule 5
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1159  Subitem 10(1) of Schedule 5
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1160  Paragraphs 10(1)(a) and (b) of Schedule 5
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1161  Subitem 10(2) of Schedule 5
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1162  Subitems 4(2), (5) and (5A) of Schedule 6
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1163  Item 5 of Schedule 6 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1164  Items 5, 6 and 7 of Schedule 6
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1165  Subitem 9(1) of Schedule 6
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1166  Subitem 9(2) of Schedule 6
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1167  Subitems 9(3), (3A) and (5) of Schedule 6
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1168  Subitems 10(1) and (2) of Schedule 6
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1169  Subitem 10(3) of Schedule 6
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1170  Subitem 10(3) of Schedule 6
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 1171  Subitem 12(1) of Schedule 6
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1172  Subitem 12(2) of Schedule 6
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1173  Subitem 12(3) of Schedule 6
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1174  Subitem 13(1) of Schedule 6
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1175  Paragraphs 13(1)(a) and (b) of Schedule 6
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1176  Subitem 13(2) of Schedule 6
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1177  Subitem 4(1) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1178  Subitem 4(4) of Schedule 6A
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1179  Subitem 4(4) of Schedule 6A
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1180  Subitem 5(1) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1181  At the end of subitem 5(1) of Schedule 6A
-
-Add:
-
-_Note:       The Commission ceased to exist on 31 December 2009: see item 7 of Schedule 18._
-
-## 1182  Subitem 5(3) of Schedule 6A
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1183  Subitem 5(3) of Schedule 6A
-
-Omit “FWA” (second occurring), substitute “the FWC”.
-
-## 1184  Subitems 5(4), (5) and (6) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1185  Subitem 5(6) of Schedule 6A (note)
-
-Repeal the note.
-
-## 1186  Item 6 of Schedule 6A (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1187  Item 6 of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1188  Subitems 7(1) and (2) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1189  Subitem 10(2) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1190  Subitem 11(1) of Schedule 6A
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1191  Paragraph 11(1)(b) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1192  Subitem 11(2) of Schedule 6A
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1193  Subitem 11(3) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1194  Subitem 11(3) of Schedule 6A
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 1195  Subitem 14(1) of Schedule 6A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1196  Subitem 14(2) of Schedule 6A
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1197  Subitem 14(3) of Schedule 6A
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1198  Subitem 15(1) of Schedule 6A
-
-Omit “FWA” (first occurring), substitute “The FWC”.
-
-## 1199  Paragraphs 15(1)(a) and (b) of Schedule 6A
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1200  Subitem 15(2) of Schedule 6A
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1201  Paragraphs 18(2)(a) and (b) and (3)(a) and (b) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1202  Subitem 18(4) of Schedule 7 (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 1203  Subitem 18(4) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1204  Subitems 19(2) and (3) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1205  Subitem 19(4) of Schedule 7 (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 1206  Subitem 19(4) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1207  Subitem 19(5) of Schedule 7 (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 1208  Subitem 19(5) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1209  Item 20 of Schedule 7 (paragraphs (a) and (b) of the definition of _test time_)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1210  Paragraphs 20A(2)(a) and (b) and (3)(a) and (b) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1211  Subitem 20A(4) of Schedule 7 (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 1212  Subitem 20A(4) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1213  Subitems 20B(2) and (3) of Schedule 7
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1214  Subitem 20B(4) of Schedule 7 (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 1215  Subitem 20B(4) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1216  Subitem 20B(5) of Schedule 7 (heading)
-
-Omit “_FWA_”, substitute “_FWC_”.
-
-## 1217  Subitem 20B(5) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1218  Item 20C of Schedule 7 (paragraphs (a) and (b) of the definition of _test time_)
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1219  Subitems 22(2) and (3) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1220  Paragraph 28(1)(b) of Schedule 7
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1221  Subitem 10(1) of Schedule 9
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1222  Item 14 of Schedule 9 (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1223  Subitem 14(1) of Schedule 9
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1224  Subitem 14(2) of Schedule 9
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1225  Subitem 14(3) of Schedule 9
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1226  Item 18 of Schedule 9 (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1227  Subitem 18(1) of Schedule 9
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1228  Subitem 18(2) of Schedule 9
-
-Omit “FWA”, substitute “The FWC”.
-
-## 1229  Subitem 18(3) of Schedule 9
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1230  Subitem 20(1) of Schedule 9
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1231  Subitem 4(2) of Schedule 10
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1232  Paragraph 5(2)(c) of Schedule 10
-
-Omit “FWA”, substitute “FWC”.
-
-## 1233  Subitem 16(7) of Schedule 11
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1234  Subitem 4(3) of Schedule 13
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1235  Item 18 of Schedule 13 (heading)
-
-Omit “**FWA**”, substitute “**FWC**”.
-
-## 1236  Subitem 18(2) of Schedule 13
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1237  Paragraphs 6(c) and (d) of Schedule 14
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1238  Subitem 7(3) of Schedule 14
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1239  Subitem 3(2) of Schedule 16
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1240  Subitem 4B(2) of Schedule 16
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1241  Subitem 12(2) of Schedule 16 (notes 1 and 2)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1242  Subitem 13(2) of Schedule 16 (note 2)
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1243  Item 4 of Schedule 18
-
-Repeal the item, substitute:
-
-4  Seniority of FWA members who become FWC members
-
-For the purposes of section 619 of the FW Act, the seniority of persons who:
-
-                     (a)  are taken to have been appointed as Deputy Presidents of FWA under item 1 of this Schedule; and
-
-                     (b)  continue to hold office as Deputy Presidents of the FWC under Part 9 of Schedule 3 to the FW Act;
-
-is to be determined in accordance with the precedence assigned to them as members of the Commission under section 65 of the WR Act.
-
-## 1244  Item 9 of Schedule 18
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1245  Item 11 of Schedule 18 (heading)
-
-Repeal the heading, substitute:
-
-11  Performance of functions etc. after cessation time
-
-## 1246  Item 11 of Schedule 18
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1247  Item 20A of Schedule 18
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1248  Item 2 of Schedule 19 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1249  Item 2 of Schedule 19
-
-Omit “FWA” (wherever occurring), substitute “the FWC”.
-
-## 1250  Paragraph 2(1)(a) of Schedule 20
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1251  Paragraph 2(1)(b) of Schedule 20
-
-Omit “FWA”, substitute “FWC”.
-
-## 1252  Paragraphs 2(1)(c), (d), (e), (f), (g) and (h) of Schedule 20
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1253  Item 3 of Schedule 20 (heading)
-
-Omit “**FWA**”, substitute “**the FWC**”.
-
-## 1254  Subitems 3(1) and (2) of Schedule 20
-
-Omit “FWA’s”, substitute “the FWC’s”.
-
-## 1255  Subitem 7(1) of Schedule 20
-
-Omit “FWA”, substitute “the FWC”.
-
-## 1256  At the end of subitem 621(1) of Schedule 22
-
-Add:
-
-_Note:       For how the thing has effect after the commencement of Part 1 of Schedule 9 to the Fair Work Amendment Act 2012 (which changes the name of Fair Work Australia to become the Fair Work Commission, etc.), see Part 10 of Schedule 3 to the FW Act._
-
-## 1257  At the end of subitem 622(1) of Schedule 22
-
-Add:
-
-_Note:       For how the instrument has effect after the commencement of Part 1 of Schedule 9 to the Fair Work Amendment Act 2012 (which changes the name of Fair Work Australia to become the Fair Work Commission, etc.), see section 25B of the Acts Interpretation Act 1901._
-
-## 1258  Item 624 of Schedule 22
-
-Omit “FWA”, substitute “the FWC”.
-
-As at 19 December 2012 the amendments are not incorporated in this compilation.
 
  
