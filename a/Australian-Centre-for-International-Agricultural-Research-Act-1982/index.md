@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00695/Html/206685ec-169d-40b3-b90a-8d3e5de1605f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00312/Html/AusCentreForInertAgriRes82WD02_image001.gif)
 
 # Australian Centre for International Agricultural Research Act 1982
 
 **Act No. 9 of 1982 as amended**
 
-This compilation was prepared on 31 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 8 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Appointment of Commissioners
 
-[11](#11).          Appointments to be part‑time
+[11](#11).          Appointments to be part-time
 
 [12](#12).          Terms and conditions—general
 
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [24](#24).          Appointment of CEO
 
-[25](#25).          Appointment to be full‑time
+[25](#25).          Appointment to be full-time
 
 [26](#26).          Terms and conditions—general
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="account"></a>**_Account_** means the account continued in existence by section 33.
 
-                    <a name="agricultur-research"></a>**_agricultural research_** means scientific, technical, economic or socio‑economic research in connection with agriculture, and includes the publication of reports, periodicals, books and papers in connection with any such research.
+                    <a name="agricultur-research"></a>**_agricultural research_** means scientific, technical, economic or socio-economic research in connection with agriculture, and includes the publication of reports, periodicals, books and papers in connection with any such research.
 
                     <a name="agricultur"></a>**_agriculture_** includes such uses of land as are prescribed for the purposes of this definition.
 
@@ -202,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a Department of State, or an authority, of the Commonwealth or of a State or Territory.
 
-                    <a name="intern-agricultur-research-centr"></a>**_international agricultural research centre_** means an independent, non‑profit organisation that:
+                    <a name="intern-agricultur-research-centr"></a>**_international agricultural research centre_** means an independent, non-profit organisation that:
 
                      (a)  is internationally funded; and
 
@@ -276,7 +276,7 @@ Note:          A direction under this section is included in t
 
 ##### <a id="7"></a>7  Establishment of Commission
 
-                   The Commission for International Agricultural Research is established by this section.
+                   The Commission for International Agricultural Research is established by this section.
 
 ##### <a id="8"></a>8  Constitution of the Commission
 
@@ -302,19 +302,19 @@ Note:          A direction under this section is included in t
 
 ##### <a id="10"></a>10  Appointment of Commissioners
 
-             (1)  A Commissioner is to be appointed by the Governor‑General by written instrument.
+             (1)  A Commissioner is to be appointed by the Governor-General by written instrument.
 
              (2)  A Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
              (3)  A person cannot be appointed as a Commissioner if the person is a member of the Council.
 
-##### <a id="11"></a>11  Appointments to be part‑time
+##### <a id="11"></a>11  Appointments to be part-time
 
-                   A Commissioner holds office on a part‑time basis.
+                   A Commissioner holds office on a part-time basis.
 
 ##### <a id="12"></a>12  Terms and conditions—general
 
-                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
+                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General.
 
 ##### <a id="13"></a>13  Remuneration and allowances
 
@@ -352,13 +352,13 @@ Note:          Section 33A of the _Acts Interpretation Act 1
 
 ##### <a id="16"></a>16  Resignation
 
-                   A Commissioner may resign his or her appointment by giving the Governor‑General a written resignation.
+                   A Commissioner may resign his or her appointment by giving the Governor-General a written resignation.
 
 ##### <a id="16A"></a>16A  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a Commissioner for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a Commissioner for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of a Commissioner if:
+             (2)  The Governor-General must terminate the appointment of a Commissioner if:
 
                      (a)  the Commissioner:
 
@@ -490,7 +490,7 @@ Note:          A direction under this section is included in t
 
                      (a)  a President;
 
-                     (c)  the person for the time being occupying, or performing the duties of, the position in the Australian Public Service known as Director‑General, Australian International Development Assistance Bureau, or a person nominated by the Director‑General; and
+                     (c)  the person for the time being occupying, or performing the duties of, the position in the Australian Public Service known as Director-General, Australian International Development Assistance Bureau, or a person nominated by the Director-General; and
 
                      (d)  not fewer than 9 nor more than 11 other members.
 
@@ -510,7 +510,7 @@ Note:          A direction under this section is included in t
 
              (4)  An appointed member of the Council:
 
-                     (a)  shall be appointed to be a part‑time member; and
+                     (a)  shall be appointed to be a part-time member; and
 
                      (b)  holds office for such term, not exceeding 3 years, as is specified in the instrument of his or her appointment.
 
@@ -576,19 +576,19 @@ the Minister shall terminate the appointment of that member.
 
 ##### <a id="24"></a>24  Appointment of CEO
 
-             (1)  The CEO is to be appointed by the Governor‑General by written instrument.
+             (1)  The CEO is to be appointed by the Governor-General by written instrument.
 
              (2)  The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 7 years.
 
              (3)  A person may be appointed as both the CEO and a Commissioner (including the Chair).
 
-##### <a id="25"></a>25  Appointment to be full‑time
+##### <a id="25"></a>25  Appointment to be full-time
 
-                   The CEO holds office on a full‑time basis.
+                   The CEO holds office on a full-time basis.
 
 ##### <a id="26"></a>26  Terms and conditions—general
 
-                   The CEO holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
+                   The CEO holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General.
 
 ##### <a id="27"></a>27  Remuneration and allowances
 
@@ -630,13 +630,13 @@ Note:          Section 33A of the _Acts Interpretation Act 1
 
 ##### <a id="29B"></a>29B  Resignation
 
-                   The CEO may resign his or her appointment by giving the Governor‑General a written resignation.
+                   The CEO may resign his or her appointment by giving the Governor-General a written resignation.
 
 ##### <a id="29C"></a>29C  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the CEO for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the CEO for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of the CEO if:
+             (2)  The Governor-General must terminate the appointment of the CEO if:
 
                      (a)  the CEO:
 
@@ -746,7 +746,7 @@ Note:          An Appropriation Act provides for amounts to be
 
 ##### <a id="42"></a>42  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
 # Notes to the _Australian Centre for International Agricultural Research Act 1982_
 
@@ -902,8 +902,8 @@ of Assent</div>
     <div>27 June 1991</div>
   </td>
   <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
-Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+    <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
+Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -955,7 +955,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 216–225): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
+    <div>Schedule 2 (items 216-225): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -972,7 +972,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 144–149): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    <div>Schedule 1 (items 144-149): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1046,23 +1046,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 122–127) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1074,11 +1057,11 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
@@ -1086,7 +1069,7 @@ _(c)_     The _Australian Centre for International Agricultural Research
 
 _(d)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
 
-                 (7)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(e)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
@@ -1096,11 +1079,11 @@ _(f)_      The _Australian Centre for International Agricultural Resea
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 2 (items 216–225) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(g)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 2 (items 216-225) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(h)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 1 (items 144–149) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(h)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 1 (items 144-149) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1834,44 +1817,6 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 122  Subsection 14(1)
-
-Omit “(1)”.
-
-## 123  Subsection 14(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 124  Subsection 14(2)
-
-Repeal the subsection.
-
-## 125  Subsection 29(1)
-
-Omit “(1)”.
-
-## 126  Subsection 29(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 127  Subsection 29(2)
-
-Repeal the subsection.
-
-As at 31 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1966,19 +1911,19 @@ In this Schedule:
 
 ## 2  Vesting of assets of Centre
 
-(1)       This item applies to the assets of the Centre immediately before the commencement time.
+(1)        This item applies to the assets of the Centre immediately before the commencement time.
 
-(2)       At the commencement time, the assets to which this item applies cease to be assets of the Centre and become assets of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these assets.
+(2)        At the commencement time, the assets to which this item applies cease to be assets of the Centre and become assets of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these assets.
 
 ## 3  Vesting of liabilities of Centre
 
-(1)       This item applies to the liabilities of the Centre immediately before the commencement time.
+(1)        This item applies to the liabilities of the Centre immediately before the commencement time.
 
-(2)       At the commencement time, the liabilities to which this item applies cease to be liabilities of the Centre and become liabilities of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
+(2)        At the commencement time, the liabilities to which this item applies cease to be liabilities of the Centre and become liabilities of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
 
 ## 4  Certificates relating to vesting of land
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  any land vests in the Commonwealth under this Part; and
 
@@ -1992,7 +1937,7 @@ In this Schedule:
 
 _Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
 
-(2)       The land registration official may:
+(2)        The land registration official may:
 
                      (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
 
@@ -2000,7 +1945,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
 ## 5  Certificates relating to vesting of assets other than land
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  any asset other than land vests in the Commonwealth under this Part; and
 
@@ -2014,7 +1959,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
 _Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
 
-(2)       The assets official may:
+(2)        The assets official may:
 
                      (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
 
@@ -2026,15 +1971,15 @@ If any proceedings to which the Centre was a party were pending in any court or 
 
 ## 7  Transfer of custody of Centre or Board records
 
-(1)       This item applies to any records or documents that, immediately before the commencement time, were in the custody of the Centre or the Board.
+(1)        This item applies to any records or documents that, immediately before the commencement time, were in the custody of the Centre or the Board.
 
-(2)       The records and documents are to be transferred into the custody of the CEO at or after the commencement time.
+(2)        The records and documents are to be transferred into the custody of the CEO at or after the commencement time.
 
 ## 8  References in instruments
 
 References to Centre or Director taken to be references to CEO or Commonwealth
 
-(1)       If:
+(1)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -2042,7 +1987,7 @@ References to Centre or Director taken to be references to CEO or Commonwealth
 
 the instrument has effect from the commencement time as if the reference were a reference to the CEO.
 
-(2)       However, if:
+(2)        However, if:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -2054,7 +1999,7 @@ the reference is to be read as a reference to the Commonwealth as necessary to g
 
 References to Board taken to be references to Commission
 
-(3)       If:
+(3)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -2064,7 +2009,7 @@ the instrument has effect from the commencement time as if the reference were a 
 
 Minister and regulations may provide otherwise
 
-(4)       The Minister may, by writing, determine that subitem (1), (2) or (3):
+(4)        The Minister may, by writing, determine that subitem (1), (2) or (3):
 
                      (a)  does not apply in relation to a specified reference; or
 
@@ -2078,7 +2023,7 @@ Minister and regulations may provide otherwise
 
 A determination under this subitem has effect accordingly.
 
-(5)       The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
+(5)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
 
                      (a)  in the case of an instrument covered by subitem (1)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
 
@@ -2088,19 +2033,19 @@ A determination under this subitem has effect accordingly.
 
 Determinations are not legislative instruments
 
-(6)       A determination under subitem (4) is not a legislative instrument.
+(6)        A determination under subitem (4) is not a legislative instrument.
 
 ## 9  Operation of laws
 
 Things done by Centre or Director taken to be done by CEO
 
-(1)       If, before the commencement time, a thing was done by, or in relation to, the Centre or the Director, then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
+(1)        If, before the commencement time, a thing was done by, or in relation to, the Centre or the Director, then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
 
-(2)       For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
+(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
 
 Minister and regulations may provide otherwise
 
-(3)       The Minister may, by writing, determine that subitem (1):
+(3)        The Minister may, by writing, determine that subitem (1):
 
                      (a)  does not apply in relation to a specified thing done by, or in relation to, the Centre or the Director; or
 
@@ -2108,21 +2053,21 @@ Minister and regulations may provide otherwise
 
 A determination under this subitem has effect accordingly.
 
-(4)       The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth or the CEO.
+(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth or the CEO.
 
 Meaning of **doing**
 
-(5)       To avoid doubt, for the purposes of this item, **_doing_** a thing includes making an instrument.
+(5)        To avoid doubt, for the purposes of this item, **_doing_** a thing includes making an instrument.
 
 Determinations are not legislative instruments
 
-(6)       A determination made under subitem (3) is not a legislative instrument.
+(6)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 10  Reporting requirements
 
 Future reporting requirements
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before the commencement time, a law required the Centre, the Director or the Board to provide a report (whether financial statements or otherwise) for a period; and
 
@@ -2130,7 +2075,7 @@ Future reporting requirements
 
 the CEO must provide the report, as required, for so much of the period as occurs before the commencement time.
 
-(2)       If:
+(2)        If:
 
                      (a)  under subitem (1), the CEO is required to provide a report for a part of a period; and
 
@@ -2140,7 +2085,7 @@ the CEO may meet the requirements in a single report for the period.
 
 Outstanding reporting requirements
 
-(3)       If:
+(3)        If:
 
                      (a)  a law required the Centre, the Director or the Board to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
 
@@ -2150,25 +2095,25 @@ the CEO must provide the report as required.
 
 Application of law to CEO
 
-(4)       To avoid doubt, if, under this item, the CEO is required to provide a report under a law, the law applies to the CEO in respect of the report in the same way as the law would have applied to the Centre, the Director or the Board in respect of the report.
+(4)        To avoid doubt, if, under this item, the CEO is required to provide a report under a law, the law applies to the CEO in respect of the report in the same way as the law would have applied to the Centre, the Director or the Board in respect of the report.
 
 ## 11  CEO
 
-(1)       The person holding office as the Director under section 24 of the old law immediately before the commencement time is taken, at the commencement time, to have been duly appointed as the CEO by the Governor‑General under section 24 of the new law:
+(1)        The person holding office as the Director under section 24 of the old law immediately before the commencement time is taken, at the commencement time, to have been duly appointed as the CEO by the Governor-General under section 24 of the new law:
 
                      (a)  for the balance of the person’s term of appointment that remained immediately before the commencement time; and
 
                      (b)  on the same terms and conditions as applied to the person immediately before the commencement time.
 
-(2)       This item does not prevent those terms and conditions being varied after the commencement time.
+(2)        This item does not prevent those terms and conditions being varied after the commencement time.
 
 ## 12  Staff of the Centre
 
-(1)       A person who was a member of the staff of the Centre immediately before the commencement time is taken, at the commencement time, to have been engaged by the CEO as a member of the staff of the Centre.
+(1)        A person who was a member of the staff of the Centre immediately before the commencement time is taken, at the commencement time, to have been engaged by the CEO as a member of the staff of the Centre.
 
-(2)       The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
+(2)        The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
 
-(3)       This item does not prevent those terms and conditions being varied after the commencement time.
+(3)        This item does not prevent those terms and conditions being varied after the commencement time.
 
 ## 13  Arrangements relating to external staff
 
@@ -2176,11 +2121,11 @@ An arrangement in force under section 31 of the old law immediately before the
 
 ## 14  Consultants
 
-(1)       A person in respect of whom an engagement was in force under section 32 of the old law immediately before the commencement time is taken, at the commencement time, to have been engaged as a consultant under section 32 of the new law.
+(1)        A person in respect of whom an engagement was in force under section 32 of the old law immediately before the commencement time is taken, at the commencement time, to have been engaged as a consultant under section 32 of the new law.
 
-(2)       The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
+(2)        The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
 
-(3)       This item does not prevent those terms and conditions being varied after the commencement time.
+(3)        This item does not prevent those terms and conditions being varied after the commencement time.
 
 ## 15  Exemption from stamp duty and other State or Territory taxes
 
@@ -2192,11 +2137,11 @@ No stamp duty or other tax is payable under a law of a State or Territory in res
 
 ## 16  Constitutional safety net—acquisition of property
 
-(1)       If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+(1)        If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
-(3)       In this item:
+(3)        In this item:
 
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
@@ -2214,34 +2159,18 @@ unless the contrary is established.
 
 ## 18  Delegation by Minister
 
-(1)       The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule to the CEO.
+(1)        The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule to the CEO.
 
-(2)       In exercising powers or performing functions under a delegation, the CEO must comply with any directions of the Minister.
+(2)        In exercising powers or performing functions under a delegation, the CEO must comply with any directions of the Minister.
 
 ## 19  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Schedule to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
-(2)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
 
  
