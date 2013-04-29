@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00719/Html/ChildCareAct72_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00391/Html/ChildCareAct72_image001.gif)
 
 # Child Care Act 1972
 
 **Act No. 121 of 1972 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 June 2010
  taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force
@@ -448,7 +448,7 @@ Note:          A person to whom information is disclosed may c
 
              (2)  The guidelines must not be inconsistent with the provisions of the _Privacy Act 1988_.
 
-             (3)  Before making an instrument under subsection (1), the Minister must consult the Information Commissioner in relation to matters that relate to the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_).
+             (3)  Before making an instrument under subsection (1), the Minister must consult the Privacy Commissioner.
 
 ##### <a id="12Q"></a>12Q  Offence—soliciting disclosure of protected information
 
@@ -534,7 +534,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part IVA—Grants in respect of the development of child care centres
 
-##### <a id="13A"></a>13A  Interpretation<span style="font-size:9.0pt; font-weight:normal"> </span>
+##### <a id="13A"></a>13A  Interpretation<span style="font-size:9.0pt;font-weight:normal"> </span>
 
                    In this Part, unless the contrary intention appears:
 
@@ -1110,10 +1110,11 @@ Schedule 11 (item 2): <i>(i)</i></div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 11) and Schedule 7: <i>(l)</i></div>
+    <div>Schedule 5 (item 11): \[ <i>see (l)</i>and Note 2] 
+Schedule 7: <i>(l)</i></div>
   </td>
   <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr></table>
 
@@ -1284,7 +1285,8 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -1602,7 +1604,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Div. 2 of Part III</div>
+    <div>Division 2 of Part III</div>
   </td>
   <td>
     <div>rep. No. 82, 1999</div>
@@ -1626,7 +1628,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Div. 3 of Part III</div>
+    <div>Division 3 of Part III</div>
   </td>
   <td>
     <div>ad. No. 13, 1998</div>
@@ -1658,7 +1660,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
 </tr>
 <tr>
   <td>
-    <div>Div. 4 of Part III</div>
+    <div>Division 4 of Part III</div>
   </td>
   <td>
     <div>ad. No. 13, 1998</div>
@@ -1741,7 +1743,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
     <div></div>
   </td>
   <td>
-    <div>am. No. 108, 2006; No. 51, 2010</div>
+    <div>am. No. 108, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2008,6 +2010,20 @@ _(l)_      Subsection 2(1) (item 7) of the _Freedom of Information A
     <div></div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendment commences immediately after 1 November 2010:
+
+## Schedule 5
+
+## 11  Subsection 12P(3)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner in relation to matters that relate to the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_)”.
+
+As at 7 June 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
