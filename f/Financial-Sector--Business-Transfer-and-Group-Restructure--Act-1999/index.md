@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00084/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00417/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -268,7 +268,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="liabil"></a>**_liability_** includes a duty or obligation of any kind (whether arising under an instrument or otherwise, and whether actual, contingent or prospective).
 
-                    <a name="life-insur-compani"></a>**_life insurance company_** means a body corporate that is registered under section 21 of the _Life Insurance Act 1995_.
+                    <a name="life-insur-compani"></a>**_life insurance company_** means a body corporate that is registered under the _Life Insurance Act 1995_.
 
                     <a name="nohc"></a>**_NOHC_** is short for non-operating holding company.
 
@@ -1208,7 +1208,7 @@ Note 3:       For the legal effect of the instrument, see section 
 
              (3)  A restructure instrument is not a legislative instrument.
 
-##### <a id="36H"></a>36H  Restructure instruments—coming into force
+##### <a id="36H"></a>36H  Restructure instruments—coming into force
 
              (1)  A restructure instrument comes into force only if:
 
@@ -1856,7 +1856,7 @@ Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 202): 27 Feb 2010</div>
+    <div>Schedule 1 (item 202): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2061,7 +2061,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007; No. 105, 2008; No. 75, 2009</div>
+    <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007; No. 105, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2376,6 +2376,20 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>am. No. 154, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendment commences on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 202  Subsection 4(1) (definition of _life insurance company_)
+
+After “under”, insert “section 21 of”.
+
+As at 4 September 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
