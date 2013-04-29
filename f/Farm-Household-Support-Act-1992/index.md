@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image001.gif)
 
 # Farm Household Support Act 1992
 
 **Act No. 241 of 1992 as amended**
 
-This compilation was prepared on 22 May 2012
+This compilation was prepared on 19 January 2012
  taking into account amendments up to Act No. 141 of 2011
 
 The text of any of those amendments not in force
@@ -20,93 +20,85 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                        1
+[3](#3).            Interpretation
 
-[4](#4).            Certificate of inability to obtain finance                                                7
+[4](#4).            Certificate of inability to obtain finance
 
-[5](#5).            Severe financial hardship                                                                     8
+[5](#5).            Severe financial hardship
 
-[6](#6).            Objects of exceptional circumstances relief payment and farm help income support                8
+[6](#6).            Objects of exceptional circumstances relief payment and farm help income support
 
-[6AA](#6AA).      Application of the _Criminal Code_                                                        9
+[6AA](#6AA).      Application of the _Criminal Code_
 
 **Part 1A—Ending farm household support, farm help income support and exceptional circumstances relief payments for small businesses**
 
-[6A](#6A).         Ending farm household support                                                         10
+[6A](#6A).         Ending farm household support
 
-[6B](#6B).         Ending farm help income support                                                      10
+[6B](#6B).         Ending farm help income support
 
-[6C](#6C).         Ending exceptional circumstances relief payments for small businesses  11
+[6C](#6C).         Ending exceptional circumstances relief payments for small businesses
 
-**Part 2—Qualification for and payability of certain support and payments** 
+**Part 2—Qualification for and payability of farm household support, exceptional circumstances relief payment or farm help income support** 
 
     **Division 1—Qualification for farm household support**
 
-[7](#7).            Qualification for farm household support                                          12
+[7](#7).            Qualification for farm household support
 
-[8](#8).            Persons not qualified if they have received farm household support for 2 years etc                 12
+[8](#8).            Persons not qualified if they have received farm household support for 2 years etc 
 
     **Division 1A—Qualification for exceptional circumstances relief payment**
 
-[8A](#8A).         Qualification for exceptional circumstances relief payment                14
+[8A](#8A).         Qualification for exceptional circumstances relief payment
 
     **Division 1B—Qualification for farm help income support**
 
-[8B](#8B).         Qualification for farm help income support                                        18
+[8B](#8B).         Qualification for farm help income support
 
-[8C](#8C).         Persons not qualified if Secretary determines that they do not effectively control farm enterprises          19
+[8C](#8C).         Persons not qualified if Secretary determines that they do not effectively control farm enterprises
 
-[8D](#8D).         Persons not qualified if they have received farm help income support for 1 year     19
+[8D](#8D).         Persons not qualified if they have received farm help income support for 1 year
 
-[8E](#8E).          Persons not qualified in relation to later claims for farm help income support in certain circumstances   20
+[8E](#8E).          Persons not qualified in relation to later claims for farm help income support in certain circumstances
 
-[8F](#8F).          Persons not qualified because farm help income support interrupted by exceptional circumstances relief payment 20
-
-    **Division 1C—Qualification for clean energy advances**
-
-[8G](#8G).         Person not of youth allowance age                                                     22
-
-[8H](#8H).         Person of youth allowance age                                                           22
-
-[8J](#8J).          Limits on qualifying for multiple advances                                        23
+[8F](#8F).          Persons not qualified because farm help income support interrupted by exceptional circumstances relief payment
 
     **Division 2—Situations in which farm household support, exceptional circumstances relief payment or farm help income support is not payable**
 
-[9](#9).            Overview of rules about non‑payability                                             25
+[9](#9).            Overview of rules about non‑payability
 
-[9A](#9A).         Farm household support not payable if exceptional circumstances relief payment is payable   26
+[9A](#9A).         Farm household support not payable if exceptional circumstances relief payment is payable
 
-[9B](#9B).         Farm help income support not payable if farm household support or exceptional circumstances relief payment is payable                                                                                                           26
+[9B](#9B).         Farm help income support not payable if farm household support or exceptional circumstances relief payment is payable
 
-[10](#10).          Assets test                                                                                          26
+[10](#10).          Assets test
 
-[11](#11).          Full‑time students                                                                               28
+[11](#11).          Full‑time students
 
-[12](#12).          Multiple entitlement exclusion                                                            28
+[12](#12).          Multiple entitlement exclusion
 
-[13](#13).          Commonwealth funded employment program exclusion                   30
+[13](#13).          Commonwealth funded employment program exclusion
 
-[13A](#13A).       Obligation to obtain advice                                                                 31
+[13A](#13A).       Obligation to obtain advice
 
 **Part 3—Claim for farm household support, exceptional circumstances relief payment or farm help income support**
 
-[14](#14).          Need for a claim                                                                                 32
+[14](#14).          Need for a claim
 
-[15](#15).          Form of claim                                                                                     32
+[15](#15).          Form of claim
 
-[16](#16).          Lodgment of claim                                                                             32
+[16](#16).          Lodgment of claim
 
-[17](#17).          Claimant must be Australian resident and in Australia                       33
+[17](#17).          Claimant must be Australian resident and in Australia
 
-[18](#18).          Secretary to determine claim                                                               33
+[18](#18).          Secretary to determine claim
 
-[19](#19).          Grant of claim                                                                                    33
+[19](#19).          Grant of claim
 
-[20](#20).          Date of effect of determination                                                           34
+[20](#20).          Date of effect of determination
 
 **Part 4—Rate of farm household support, exceptional circumstances relief payment or farm help income support** 
 
@@ -114,165 +106,149 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision A—Maximum fortnightly rate**
 
-[21](#21).          Maximum fortnightly rate of farm household support—to be determined by Secretary           36
+[21](#21).          Maximum fortnightly rate of farm household support—to be determined by Secretary
 
         **Subdivision B—Applicable rate**
 
-[23](#23).          Declaration by applicant or recipient                                                  37
+[23](#23).          Declaration by applicant or recipient
 
-[24](#24).          Applicable rate                                                                                   37
+[24](#24).          Applicable rate
 
     **Division 2—Rate of exceptional circumstances relief payment**
 
-[24A](#24A).       Rate of exceptional circumstances relief payment—how worked out for farmers    38
+[24A](#24A).       Rate of exceptional circumstances relief payment—how worked out for farmers
 
-[24AA](#24AA).    Rate of exceptional circumstances relief payment—how worked out for small business operators          41
+[24AA](#24AA).    Rate of exceptional circumstances relief payment—how worked out for small business operators
 
     **Division 3—Rate of farm help income support**
 
-[24B](#24B).       Rate of farm help income support—how worked out                        46
+[24B](#24B).       Rate of farm help income support—how worked out
 
-**Part 4A—Amount of a clean energy advance**
+**Part 5—Payment of farm household support, exceptional circumstances relief payment or farm help income support**
 
-[24C](#24C).       Amount of a clean energy advance                                                     48
+[25](#25).          Commencement of payment
 
-[24D](#24D).       _Clean energy advance daily rate_                                                        48
+[26](#26).          Support to be by way of grant
 
-[24E](#24E).        _Number of advance days_                                                                    50
+[26A](#26A).       Exceptional circumstances relief payment to be by way of grant
 
-[24F](#24F).        Top‑up payments of clean energy advance                                         50
+[26B](#26B).       Farm help income support to be by way of grant
 
-**Part 5—Payment of certain support and payments**
+[27](#27).          Rate at which farm household support payable
 
-[25](#25).          Commencement of payment                                                               53
+[28](#28).          Instalments
 
-[26](#26).          Support to be by way of grant                                                            53
+[29](#29).          Amount of instalments of farm household support
 
-[26A](#26A).       Exceptional circumstances relief payment to be by way of grant        53
+[29A](#29A).       Amount of instalments of exceptional circumstances relief payment
 
-[26B](#26B).       Farm help income support to be by way of grant                               53
+[29B](#29B).       Amount of instalments of farm help income support
 
-[26C](#26C).       Clean energy advance to be by way of a single lump sum                 54
+[30](#30).          Rounding off instalment
 
-[27](#27).          Rate at which farm household support payable                                  54
+[31](#31).          Instalment to be paid to person or nominee
 
-[28](#28).          Instalments                                                                                         54
+[32](#32).          Method of payment
 
-[29](#29).          Amount of instalments of farm household support                            54
-
-[29A](#29A).       Amount of instalments of exceptional circumstances relief payment  54
-
-[29B](#29B).       Amount of instalments of farm help income support                         55
-
-[30](#30).          Rounding off instalment                                                                     55
-
-[31](#31).          Instalment to be paid to person or nominee                                        55
-
-[32](#32).          Method of payment                                                                            55
-
-[33](#33).          Where instalment payable on public holiday etc                                 56
+[33](#33).          Where instalment payable on public holiday etc 
 
 **Part 6—Former RAS (Part C) beneficiary** 
 
     **Division 1—General**
 
-[34](#34).          Former RAS (Part C) beneficiary not required to make a claim under Part 3 but may do so    57
+[34](#34).          Former RAS (Part C) beneficiary not required to make a claim under Part 3 but may do so
 
     **Division 2—Entitlement to farm household support when no claim made under Part 3**
 
-[35](#35).          Application                                                                                         58
+[35](#35).          Application
 
-[36](#36).          Qualification for farm household support                                          58
+[36](#36).          Qualification for farm household support
 
-[37](#37).          Certain provisions of Act not applicable                                            58
+[37](#37).          Certain provisions of Act not applicable
 
-[38](#38).          Commencement of farm household support                                       58
+[38](#38).          Commencement of farm household support
 
-[39](#39).          Amount of instalment of farm household support                              58
+[39](#39).          Amount of instalment of farm household support
 
 **Part 7—Recipient’s obligations**
 
-[41](#41).          Secretary may require notice of the happening of an event or a change in circumstances         60
+[41](#41).          Secretary may require notice of the happening of an event or a change in circumstances
 
-[42](#42).          Secretary may require recipient to give particular information relevant to payment of farm household support, exceptional circumstances relief payment or farm help income support                61
+[42](#42).          Secretary may require recipient to give particular information relevant to payment of farm household support, exceptional circumstances relief payment or farm help income support
 
 **Part 8—Termination of farm household support, exceptional circumstances relief payment or farm help income support**
 
-[43](#43).          Automatic termination—social security benefit etc  payable               63
+[43](#43).          Automatic termination—social security benefit etc  payable
 
-[44](#44).          Automatic termination—recipient complying with section 41 notification obligations             64
+[44](#44).          Automatic termination—recipient complying with section 41 notification obligations
 
-[45](#45).          Automatic termination—recipient not complying with section 41 notification obligations       64
+[45](#45).          Automatic termination—recipient not complying with section 41 notification obligations
 
-[46](#46).          Automatic termination—failure to provide section 42 statement        65
+[46](#46).          Automatic termination—failure to provide section 42 statement
 
-[47](#47).          Termination—determination by Secretary that recipient no longer in need               66
+[47](#47).          Termination—determination by Secretary that recipient no longer in need
 
-[48](#48).          Termination—at request of recipient or if recipient ceases to be qualified                66
+[48](#48).          Termination—at request of recipient or if recipient ceases to be qualified
 
-[49](#49).          Termination—death of recipient                                                         67
+[49](#49).          Termination—death of recipient
 
-[49A](#49A).       Automatic termination—overseas absence                                         67
+[49A](#49A).       Automatic termination—overseas absence
 
-[50](#50).          Automatic termination—exceptional circumstances relief payment received            68
+[50](#50).          Automatic termination—exceptional circumstances relief payment received
 
-[51](#51).          Automatic termination—failure to obtain advice on financial outlook or develop activity plan 68
+[51](#51).          Automatic termination—failure to obtain advice on financial outlook or develop activity plan
 
-[52](#52).          Termination by the Secretary—failure to comply with an activity plan 68
+[52](#52).          Termination by the Secretary—failure to comply with an activity plan
 
 **Part 9A—Farm help re‑establishment grant scheme**
 
-[52A](#52A).       Farm help re‑establishment grant scheme                                           69
+[52A](#52A).       Farm help re‑establishment grant scheme
 
-[52AA](#52AA).    Where there is a return to farming                                                      70
+[52AA](#52AA).    Where there is a return to farming
 
-[52AB](#52AB).    Secretary may require re‑establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur                                                 70
+[52AB](#52AB).    Secretary may require re‑establishment grant recipient to notify if events or circumstances indicative of a return to farming or a change of address occur
 
-[52AC](#52AC).    Secretary may require re‑establishment grant recipient to give a statement about whether returned to farming        71
+[52AC](#52AC).    Secretary may require re‑establishment grant recipient to give a statement about whether returned to farming
 
 **Part 9B—Farm help advice and training scheme**
 
-[52B](#52B).       Farm help advice and training scheme                                                73
+[52B](#52B).       Farm help advice and training scheme
 
 **Part 9C—Dairy exit payments**
 
-[52C](#52C).       DEP scheme                                                                                       75
+[52C](#52C).       DEP scheme
 
 **Part 9D—Farm Family Support Scheme**
 
-[52D](#52D).       Treatment of payments under Farm Family Support Scheme             77
+[52D](#52D).       Treatment of payments under Farm Family Support Scheme
 
 **Part 10—Miscellaneous**
 
-[53](#53).          Delegation of powers                                                                         79
+[53](#53).          Delegation of powers
 
-[53A](#53A).       Delegation by Secretary: references to the Secretary and the Department 79
+[53A](#53A).       Delegation by Secretary: references to the Secretary and the Department
 
-[54](#54).          General power to obtain information                                                  80
+[54](#54).          General power to obtain information
 
-[54A](#54A).       Conversion of farm household support payments into grants            83
+[54A](#54A).       Conversion of farm household support payments into grants
 
-[55](#55).          Certain support and payments to be inalienable                                  83
+[55](#55).          Farm household support, exceptional circumstances relief payment, dairy exit payments and farm help scheme payments to be inalienable
 
-[55A](#55A).       Effect of garnishee or attachment order                                              83
+[55A](#55A).       Effect of garnishee or attachment order
 
-[56](#56).          Recovery of overpayments                                                                 84
+[56](#56).          Recovery of overpayments
 
-[57](#57).          Source of funds for payments                                                            86
+[57](#57).          Source of funds for payments
 
-[57A](#57A).       Payments to RAS authorities—reimbursement of costs of issuing drought exceptional circumstances certificates  86
+[57A](#57A).       Payments to RAS authorities—reimbursement of costs of issuing drought exceptional circumstances certificates
 
-[58](#58).          Regulations                                                                                        87
+[58](#58).          Regulations
 
 **Part 11—Amendments of the Social Security Act 1991**
 
-[60](#60).          Amendments of the _Social Security Act 1991_                                     88
-
-**Schedule—Amendments of the Social Security Act 1991** 
+[60](#60).          Amendments of the _Social Security Act 1991_
 
 **Notes** 
-
- 
 
 ## An Act relating to:
 
@@ -302,51 +278,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="armed-servic-widow"></a>**_armed services widower_**
 
-                    <a name="asset"></a>**_asset_**
+                    <a name="asset"></a>**_asset_** 
 
-                    <a name="australian-resid"></a>**_Australian resident_**
+                    <a name="australian-resid"></a>**_Australian resident_** 
 
                     <a name="austudi-payment"></a>**_austudy payment_**
 
                     <a name="bank"></a>**_bank_**
 
-                    <a name="combin-coupl-rate-pension-supplem"></a>**_combined couple rate of pension supplement_**
+                    <a name="commonwealth-fund-employ-program"></a>**_Commonwealth funded employment program_** 
 
-                    <a name="commonwealth-fund-employ-program"></a>**_Commonwealth funded employment program_**
+                    <a name="job-search-allow"></a>**_job search allowance_** 
 
-                    <a name="ill-separ-coupl"></a>**_illness separated couple_**
+                    <a name="member-coupl"></a>**_member of a couple_** 
 
-                    <a name="job-search-allow"></a>**_job search allowance_**
+                    <a name="newstart-allow"></a>**_newstart allowance_** 
 
-                    <a name="maximum-basic-rate"></a>**_maximum basic rate_**
+                    <a name="offic"></a>**_officer_** 
 
-                    <a name="member-coupl"></a>**_member of a couple_**
+                    <a name="partner"></a>**_partner_** 
 
-                    <a name="newstart-allow"></a>**_newstart allowance_**
+                    <a name="partner-allow"></a>**_partner allowance_** 
 
-                    <a name="offic"></a>**_officer_**
+                    <a name="prescrib-educ-scheme"></a>**_prescribed educational scheme_** 
 
-                    <a name="partial-capac-work"></a>**_partial capacity to work_**
+                    <a name="ra-author"></a>**_RAS authority_** 
 
-                    <a name="partner"></a>**_partner_**
+                    <a name="servic-pension"></a>**_service pension_** 
 
-                    <a name="partner-allow"></a>**_partner allowance_**
-
-                    <a name="partner"></a>**_partnered_**
-
-                    <a name="partner-partner-gaol"></a>**_partnered (partner in gaol)_**
-
-                    <a name="pension-rate-calcul"></a>**_Pension Rate Calculator A_**
-
-                    <a name="prescrib-educ-scheme"></a>**_prescribed educational scheme_**
-
-                    <a name="ra-author"></a>**_RAS authority_**
-
-                    <a name="respit-care-coupl"></a>**_respite care couple_**
-
-                    <a name="servic-pension"></a>**_service pension_**
-
-                    <a name="social-secur-pension"></a>**_social security pension_**
+                    <a name="social-secur-pension"></a>**_social security pension_** 
 
                     <a name="social-secur-benefit"></a>**_social security benefit_**
 
@@ -358,14 +318,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="activ-plan"></a>**_activity plan_** has the meaning given by subsection 8B(3).
 
-                    <a name="advanc-qualif-dai"></a>**_advance qualification day_** means:
-
-                     (a)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(1) or 8H(1)—the day that determination is made; or
-
-                     (b)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(2)—the day specified in that determination because of subsection 8G(3); or
-
-                     (c)  for a person qualifying for a clean energy advance because of a determination made under subsection 8H(2) or (3)—the day specified in that determination because of subsection 8H(4).
-
                     <a name="advic-financi-outlook"></a>**_advice on financial outlook_** has the meaning given by subsection 8B(2).
 
                     <a name="applic-rate"></a>**_applicable rate_** has the meaning given by section 24.
@@ -373,18 +325,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="certif-inabl-obtain-financ"></a>**_certificate of inability to obtain finance_** has the meaning given by section 4.
 
                     <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-                    <a name="clean-energi-advanc"></a>**_clean energy advance_** means an advance described in section 8G, 8H or 24F.
-
-                    <a name="clean-energi-advanc-daili-rate"></a>**_clean energy advance daily rate_** has the meaning given by section 24D.
-
-                    <a name="clean-energi-advanc-period"></a>**_clean energy advance period_** means:
-
-                     (a)  for a person qualifying under section 8G for a clean energy advance—the period starting on 1 July 2012 and ending on 19 March 2013; or
-
-                     (b)  for a person qualifying under subsection 8H(1) or (2) for a clean energy advance—the period starting on 1 July 2012 and ending on 30 June 2013; or
-
-                     (c)  for a person qualifying under subsection 8H(3) for a clean energy advance—the period starting on 1 July 2013 and ending on 31 December 2013.
 
                     <a name="dairi-exit-payment"></a>**_dairy exit payment_** means a payment under the DEP scheme.
 
@@ -464,11 +404,7 @@ Note:          The expression is defined for the purposes of t
 
                     <a name="maximum-fortnightli-rate"></a>**_maximum fortnightly rate_**, in relation to a person, means the rate determined by the Secretary under Division 1 of Part 4 to be the maximum fortnightly rate at which farm household support may be paid to the person.
 
-                    <a name="number-advanc-dai"></a>**_number of advance days_** has the meaning given by section 24E.
-
                     <a name="off-farm-salari-wage"></a>**_off‑farm salary and wages_** has the meaning given by subsection 24A(7).
-
-                    <a name="pension-ag"></a>**_pension age_** has the same meaning as in the _Social Security Act 1991_ (otherwise than when used in Part 3.14A or 3.14B of that Act in relation to a person who is a veteran (within the meaning of the _Veterans’ Entitlements Act 1986_)).
 
                     <a name="ra-scheme"></a>**_RAS scheme_** means a scheme of assistance established and operated by a State or Territory under the agreement between the Commonwealth and that State or Territory executed on behalf of the Commonwealth under section 4 of the _States Grants (Rural Adjustment) Act 1988_.
 
@@ -489,10 +425,6 @@ are transferred to another person.
                     <a name="small-busi"></a>**_small business_** means a business with less than 100 employees.
 
 Note:          Subsection (3) sets out how this is to be worked out where there are part‑time employees.
-
-                    <a name="youth-allow-ag"></a>**_youth allowance age_** has the same meaning as in Part 2.11 of the _Social Security Act 1991_.
-
-                    <a name="youth-disabl-supplem"></a>**_youth disability supplement_** has the same meaning as in Module D of the Youth Allowance Rate Calculator in the _Social Security Act 1991_.
 
                     <a name="youth-train-allow"></a>**_youth training allowance_** means a youth training allowance under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998.
 
@@ -608,7 +540,7 @@ Example 2: Farm household support was payable to a person for a continuous perio
 
              (2)  Exceptional circumstances relief payment is not payable to a person who qualifies for the payment under subsection 8A(7) in respect of any period that is after 30 June 2009, or such later day as is prescribed.
 
-## Part 2—Qualification for and payability of certain support and payments
+## Part 2—Qualification for and payability of farm household support, exceptional circumstances relief payment or farm help income support
 
 ### Division 1—Qualification for farm household support
 
@@ -682,7 +614,7 @@ Period of effect of certificate
 
 Qualification—small business operators supplying farm enterprises
 
-             (5)  A person is qualified for exceptional circumstances relief payment in respect of a period beginning on or after 7 November 2006 (the **_relevant period_**) if:
+             (5)  A person is qualified for exceptional circumstances relief payment in respect of a period beginning on or after 7 Nove mber 2006 (the **_relevant period_**) if:
 
                      (a)  the person is an individual; and
 
@@ -845,104 +777,6 @@ Note:          Some examples of cases in which the Secretary m
                      (b)  farm help income support has been paid to the partner under an earlier claim made by the partner; and
 
                      (c)  that support ceased to be payable because the partner, or the person, received exceptional circumstances relief payment.
-
-### Division 1C—Qualification for clean energy advances
-
-##### <a id="8G"></a>8G  Person not of youth allowance age
-
-Qualification for days 14 May 2012 to 30 June 2012
-
-             (1)  The Secretary may, on a day during the period starting on 14 May 2012 and ending on 30 June 2012, determine, in writing, that a person is qualified for a clean energy advance if, on that day:
-
-                     (a)  the person is not of youth allowance age; and
-
-                     (b)  the person receives exceptional circumstances relief payment; and
-
-                     (c)  the person’s rate of payment is greater than nil; and
-
-                     (d)  the person is in Australia.
-
-Qualification for days 1 July 2012 to 19 March 2013
-
-             (2)  The Secretary may determine, in writing, that a person is qualified for a clean energy advance if, on a day during the period starting on 1 July 2012 and ending on 19 March 2013:
-
-                     (a)  the person is not of youth allowance age; and
-
-                     (b)  the person receives exceptional circumstances relief payment; and
-
-                     (c)  the person’s rate of payment is greater than nil; and
-
-                     (d)  the person is in Australia.
-
-             (3)  A determination under subsection (2) must specify the first day during the period set out in that subsection for which the person:
-
-                     (a)  satisfies paragraphs (2)(a), (b) and (c); and
-
-                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 13 weeks.
-
-##### <a id="8H"></a>8H  Person of youth allowance age
-
-Qualification for days 14 May 2012 to 30 June 2012
-
-             (1)  The Secretary may, on a day during the period starting on 14 May 2012 and ending on 30 June 2012, determine, in writing, that a person is qualified for a clean energy advance if, on that day:
-
-                     (a)  the person is of youth allowance age; and
-
-                     (b)  the person receives exceptional circumstances relief payment; and
-
-                     (c)  the person’s rate of payment is greater than nil; and
-
-                     (d)  the person is in Australia.
-
-Qualification for days 1 July 2012 to 30 June 2013
-
-             (2)  The Secretary may determine, in writing, that a person is qualified for a clean energy advance if, on a day during the period starting on 1 July 2012 and ending on 30 June 2013:
-
-                     (a)  the person is of youth allowance age; and
-
-                     (b)  the person receives exceptional circumstances relief payment; and
-
-                     (c)  the person’s rate of payment is greater than nil; and
-
-                     (d)  the person is in Australia.
-
-Qualification for days 1 July 2013 to 31 December 2013
-
-             (3)  The Secretary may determine, in writing, that a person is qualified for a clean energy advance if, on a day during the period starting on 1 July 2013 and ending on 31 December 2013:
-
-                     (a)  the person is of youth allowance age; and
-
-                     (b)  the person receives exceptional circumstances relief payment; and
-
-                     (c)  the person’s rate of payment is greater than nil; and
-
-                     (d)  the person is in Australia.
-
-First day of qualification under subsection (2) or (3)
-
-             (4)  A determination under subsection (2) or (3) must specify the first day during the period set out in that subsection for which the person:
-
-                     (a)  satisfies paragraphs (a), (b) and (c) of that subsection; and
-
-                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 13 weeks.
-
-##### <a id="8J"></a>8J  Limits on qualifying for multiple advances
-
-             (1)  A person cannot qualify for more than one clean energy advance under section 8G.
-
-             (2)  A person can qualify for at most 2 clean energy advances under section 8H:
-
-                     (a)  one under either subsection 8H(1) or (2); and
-
-                     (b)  one under subsection 8H(3).
-
-             (3)  A person who has qualified for a clean energy advance under subsection 8H(1) cannot qualify for a clean energy advance under subsection 8G(1).
-
-Note 1:       Top‑up payments of clean energy advance may be payable under section 24F if the person’s circumstances change during the person’s clean energy advance period.
-
-Note 2:       A person who has qualified for a clean energy advance under subsection 8H(1) or (2) can qualify for a clean energy advance under subsection 8G(2).
-
-Note 3:       However, a second qualification mentioned in note 2 will only result in a further payment if it satisfies the criteria for a top‑up payment (see subsection 24C(3) and section 24D).
 
 ### Division 2—Situations in which farm household support, exceptional circumstances relief payment or farm help income support is not payable
 
@@ -1123,8 +957,6 @@ the Secretary may decide that, in spite of subsection (5), farm household supp
 ##### <a id="14"></a>14  Need for a claim
 
              (1)  A person who wants to be granted farm household support, exceptional circumstances relief payment or farm help income support must make a proper claim for that support or for that payment, as the case requires.
-
-Note:          A claim is not required for a clean energy advance.
 
              (2)  For the purposes of subsection (1), where:
 
@@ -1362,7 +1194,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image002.gif)
 
                             where:
 
@@ -1376,7 +1208,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image003.gif)
 
                             where:
 
@@ -1460,7 +1292,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image002.gif)
 
                             where:
 
@@ -1484,7 +1316,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image003.gif)
 
                             where:
 
@@ -1538,250 +1370,7 @@ Certain superannuation contributions disregarded
 
              (5)  To avoid doubt, in calculating a rate referred to in this section, any farmers hardship bonus under the _Social Security Act 1991_ is to be disregarded.
 
-## Part 4A—Amount of a clean energy advance
-
-##### <a id="24C"></a>24C  Amount of a clean energy advance
-
-             (1)  On the day (the **_decision day_**) that the Secretary determines that a person (the **_recipient_**) is qualified for a clean energy advance, the Secretary must work out the amount of the advance.
-
-Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
-
-             (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
-
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image004.gif)
-
-             (3)  However, no amount is payable under this section for the qualification if:
-
-                     (a)  the qualification is under section 8G; and
-
-                     (b)  a clean energy advance has already been paid to the recipient for a qualification under section 8H.
-
-Note:          The qualification under section 8G may result in a top‑up payment under section 24F.
-
-##### <a id="24D"></a>24D  _Clean energy advance daily rate_
-
-Recipient has reached pension age
-
-             (1)  If the recipient reaches pension age on or before the decision day, the recipient’s **_clean energy advance daily rate_** is worked out by:
-
-                     (a)  working out 1.7% of the total of:
-
-                              (i)  double the maximum basic rate under Pension Rate Calculator A, worked out for 1 July 2012 for a person who is partnered; and
-
-                             (ii)  the combined couple rate of pension supplement for 1 July 2012; and
-
-                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of $5.20 (rounding up if that result is not a multiple of $5.20 but is a multiple of $2.60); and
-
-                     (c)  adding $5.20 to the result of paragraph (b); and
-
-                     (d)  applying the applicable percentage in the following table to the result of paragraph (c); and
-
-                     (e)  dividing the result of paragraph (d) by 364.
-
-<table>
-<colgroup>
-  <col width="12%">
-  <col width="59%">
-  <col width="29%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Percentage to be applied</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Recipient’s family situation on the advance qualification day</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Use this %</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Not a member of a couple</div>
-  </td>
-  <td>
-    <div>66.33%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Partnered</div>
-  </td>
-  <td>
-    <div>50%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Member of an illness separated couple</div>
-  </td>
-  <td>
-    <div>66.33%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Member of a respite care couple</div>
-  </td>
-  <td>
-    <div>66.33%</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Partnered (partner in gaol)</div>
-  </td>
-  <td>
-    <div>66.33%</div>
-  </td>
-</tr></table>
-
-Recipient under pension age but not of youth allowance age
-
-             (2)  If the recipient is not covered by subsection (1) and is not of youth allowance age on the advance qualification day, the recipient’s **_clean energy advance daily rate_** is worked out by:
-
-                     (a)  working out 1.7% of the maximum basic rate for newstart allowance, worked out:
-
-                              (i)  for 1 July 2012; and
-
-                             (ii)  for a person in circumstances the same as the recipient’s on the advance qualification day; and
-
-                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of 10 cents (rounding up if that result is not a multiple of 10 cents but is a multiple of 5 cents); and
-
-                     (c)  adding 20 cents to the result of paragraph (b); and
-
-                     (d)  dividing the result of paragraph (c) by 14.
-
-Recipient under 21 with a partial capacity to work
-
-             (3)  If, on the advance qualification day, the recipient is under 21 and has a partial capacity to work, the recipient’s **_clean energy advance daily rate_** is worked out by:
-
-                     (a)  working out 1.7% of the total of the maximum basic rate, and the youth disability supplement, for youth allowance, worked out:
-
-                              (i)  for the first day of the recipient’s clean energy advance period; and
-
-                             (ii)  for a person in circumstances the same as the recipient’s on the advance qualification day; and
-
-                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of 10 cents (rounding up if that result is not a multiple of 10 cents but is a multiple of 5 cents); and
-
-                     (c)  adding 20 cents to the result of paragraph (b); and
-
-                     (d)  dividing the result of paragraph (c) by 14.
-
-Other recipients of youth allowance age
-
-             (4)  If, on the advance qualification day, the recipient is of youth allowance age and not covered by subsection (3), the recipient’s **_clean energy advance daily rate_** is worked out by:
-
-                     (a)  working out 1.7% of the maximum basic rate for youth allowance, worked out:
-
-                              (i)  for the first day of the recipient’s clean energy advance period; and
-
-                             (ii)  for a person in circumstances the same as the recipient’s on the advance qualification day; and
-
-                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of 10 cents (rounding up if that result is not a multiple of 10 cents but is a multiple of 5 cents); and
-
-                     (c)  adding 20 cents to the result of paragraph (b); and
-
-                     (d)  dividing the result of paragraph (c) by 14.
-
-##### <a id="24E"></a>24E  _Number of advance days_
-
-                   The recipient’s **_number of advance days_** is the number of days in the recipient’s clean energy advance period that are on or after:
-
-                     (a)  if the recipient qualifies for the clean energy advance before 1 July 2012—1 July 2012; or
-
-                     (b)  otherwise—the advance qualification day.
-
-##### <a id="24F"></a>24F  Top‑up payments of clean energy advance
-
-Work out adjusted amount if circumstances change
-
-             (1)  If:
-
-                     (a)  the Secretary pays a clean energy advance (the **_original payment_**) to the recipient; and
-
-                     (b)  the recipient’s circumstances change on a day (the **_change day_**) before the end of the recipient’s clean energy advance period;
-
-work out an amount under subsection (3). However, if this section has previously applied to the recipient, work out an amount under subsection (4).
-
-When a top‑up is payable
-
-             (2)  If the total of:
-
-                     (a)  the original payment; and
-
-                     (b)  any previous payments under this subsection;
-
-falls short of the amount worked out under subsection (3) or (4) (as applicable), the recipient is qualified for a further payment of clean energy advance equal to the amount of the shortfall.
-
-Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
-
-Adjusted amount for the earliest change day
-
-             (3)  For the purposes of subsection (1), round up to the nearest multiple of $10 the result of the formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image005.gif)
-
-where:
-
-                    <a name="first-pro-rata-amount"></a>**_first pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if:
-
-                     (a)  the advance qualification day were the change day; and
-
-                     (b)  if the change day is specified in a determination, for the recipient, under subsection 8G(2) because of subsection 8G(3):
-
-                              (i)  the recipient’s clean energy advance period were worked out by reference to the qualification resulting from that determination; and
-
-                             (ii)  the reference in subsection 24D(1) to the decision day were a reference to the change day.
-
-Note:          Paragraph (b) only applies if the recipient qualifies a second time for a clean energy advance, this time under section 8G (whereas the recipient qualified for the original payment under section 8H).
-
-                    <a name="origin-pro-rata-amount"></a>**_original pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if the recipient’s number of advance days did not include days on or after the change day.
-
-Note:          The formula set out in subsection 24C(2) does not include the rounding mentioned in that subsection.
-
-Adjusted amount for later change days
-
-             (4)  For the purposes of subsection (1), round up to the nearest multiple of $10 the sum of the following:
-
-                     (a)  the original pro‑rata amount worked out under subsection (3) for the earliest change day;
-
-                     (b)  the first pro‑rata amount worked out under subsection (3) for the earliest change day but as if the number of advance days did not include days on or after the next change day;
-
-                     (c)  the amount for each change day later than the earliest worked out in a way corresponding to the way the first pro‑rata amount was worked out under paragraph (b) for the earliest change day.
-
-## Part 5—Payment of certain support and payments
+## Part 5—Payment of farm household support, exceptional circumstances relief payment or farm help income support
 
 ##### <a id="25"></a>25  Commencement of payment
 
@@ -1790,10 +1379,6 @@ Adjusted amount for later change days
              (2)  Exceptional circumstances relief payment becomes payable to a person on the day on which the Secretary’s determination that the person’s claim for exceptional circumstances relief payment is to be granted takes effect (see section 20).
 
              (3)  Farm help income support becomes payable to a person on the day on which the Secretary’s determination that the person’s claim for farm help income support is to be granted takes effect (see section 20).
-
-             (4)  Clean energy advance becomes payable to a person qualified for the advance on the day the Secretary considers to be the earliest day on which it is reasonably practicable for the advance to be made. However, the Secretary must not pay the advance if the Secretary is aware that the person has died.
-
-Note:          This subsection applies to a qualification under section 8G, 8H or 24F.
 
 ##### <a id="26"></a>26  Support to be by way of grant
 
@@ -1806,12 +1391,6 @@ Note:          This subsection applies to a qualification unde
 ##### <a id="26B"></a>26B  Farm help income support to be by way of grant
 
                    Farm help income support is paid to a person by way of grant of financial assistance to the person.
-
-##### <a id="26C"></a>26C  Clean energy advance to be by way of a single lump sum
-
-                   Clean energy advance is paid to a person in a single lump sum in such manner as the Secretary considers appropriate.
-
-Note:          An amount of clean energy advance may be reduced for the purpose of recovering a debt under section 56 of this Act (see section 1231A of the _Social Security Act 1991_).
 
 ##### <a id="27"></a>27  Rate at which farm household support payable
 
@@ -1827,7 +1406,7 @@ Note:          An amount of clean energy advance may be reduce
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image004.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1835,7 +1414,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image005.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1845,7 +1424,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image006.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1927,13 +1506,13 @@ the amount is to be increased by 0.5 cent.
 
 ##### <a id="38"></a>38  Commencement of farm household support
 
-                   Farm household support becomes payable to a former RAS (Part C) beneficiary on the day on which this Act commences.
+                   Farm household support becomes payable to a former RAS (Part C) beneficiary on the day on which this Act commences.
 
 ##### <a id="39"></a>39  Amount of instalment of farm household support
 
              (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00470/Html/223709f5-319e-4859-a776-9ae09f1490af_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image007.gif)
 
              (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
@@ -2511,7 +2090,7 @@ as the case requires.
 
                      (b)  the question whether farm household support, exceptional circumstances relief payment or farm help income support under this Act is payable to a person who is receiving it; or
 
-                     (c)  the question whether farm household support, exceptional circumstances relief payment, farm help income support or clean energy advance under this Act was payable to a person who has received it; or
+                     (c)  the question whether farm household support, exceptional circumstances relief payment or farm help income support under this Act was payable to a person who has received it; or
 
                      (d)  the maximum fortnightly rate or applicable rate, at any time, in relation to a person to whom farm household support is, or was, payable; or 
 
@@ -2575,9 +2154,9 @@ Note:          For strict liability, see section 6.1 of the 
 
              (2)  This section does not affect the operation of section 56.
 
-##### <a id="55"></a>55  Certain support and payments to be inalienable
+##### <a id="55"></a>55  Farm household support, exceptional circumstances relief payment, dairy exit payments and farm help scheme payments to be inalienable
 
-                   Farm household support, exceptional circumstances relief payment, dairy exit payments, farm help scheme payments and clean energy advances are inalienable, whether by way of, or in consequence of, sale, assignment, execution, charge, bankruptcy or otherwise.
+                   Farm household support, exceptional circumstances relief payment, dairy exit payments and farm help scheme payments are inalienable, whether by way of, or in consequence of, sale, assignment, execution, charge, bankruptcy or otherwise.
 
 ##### <a id="55A"></a>55A  Effect of garnishee or attachment order
 
@@ -2655,15 +2234,7 @@ the amount that was not payable may be recovered by the Commonwealth, on behalf 
 
 the amount that was not payable may be recovered by the Commonwealth, on behalf of the industry services body, as a debt due to the industry services body.
 
-             (4)  If:
-
-                     (a)  an amount purporting to be an amount of clean energy advance has been paid to a person; and
-
-                     (b)  some or all of the amount was not payable to the person;
-
-the amount that was not payable may be recovered by the Commonwealth as a debt due to the Commonwealth.
-
-Note:          A debt due to the Commonwealth under this section in respect of an amount of exceptional circumstances relief payment, farm help income support or clean energy advance may be recovered in accordance with provisions of the _Social Security Act 1991_ (see sections 1227A and 1231A of that Act).
+Note:          A debt due to the Commonwealth under this section in respect of an amount of exceptional circumstances relief payment or farm help income support may be recovered in accordance with provisions of the _Social Security Act 1991_ (see sections 1227A and 1231A of that Act).
 
 ##### <a id="57"></a>57  Source of funds for payments
 
@@ -2671,7 +2242,7 @@ Note:          A debt due to the Commonwealth under this secti
 
              (2)  Payments of farm household support payable in any subsequent financial year are to be made out of money appropriated by the Parliament for that purpose.
 
-             (3)  Exceptional circumstances relief payment and clean energy advance are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (3)  Exceptional circumstances relief payment is to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (4)  Farm help scheme payments (other than dairy‑type grants) are to be made out of money appropriated by the Parliament for the purpose of such payments.
 
@@ -2703,119 +2274,15 @@ Note:          A debt due to the Commonwealth under this secti
 
 ##### <a id="60"></a>60  Amendments of the _Social Security Act 1991_
 
-                   The _Social Security Act 1991_ is amended as set out in the Schedule.
+* * *
 
-# Schedule—Amendments of the Social Security Act 1991
+**Note:**
 
-_Section 60_
+The amendments made by this Part are incorporated in the compilation on ComLaw.
 
-## Subsection 23(1)—definition of _officer_
+ For access to the wording of the amendments made by this Part, _see_ Act No. 241, 1992.
 
-Insert “or the _Farm Household Support Act 1992_” after “this Act” (wherever occurring).
-
-## Paragraph 26(4)(c)
-
-Omit “30 November 1993”, substitute “the commencement of the _Farm Household Support Act 1992_”.
-
-## After subsection 26(5)
-
-Insert:
-
-          (5A)  A RAS authority must not certify that a person is a financial hardship farmer unless, at all times on and after the day on which the _Farm Household Support Act 1992_ commenced, a certificate under subsection (1) has been in force in respect of the person.
-
-## Subsection 1131(2)
-
-Insert “(other than payments under the _Farm Household Support Act 1992_)” after “payments”.
-
-## Paragraph 1234A(1)(a)
-
-Omit “or the 1947 Act”, substitute “, the 1947 Act or the _Farm Household Support Act 1992_”.
-
-## After paragraph 1239(1)(b)
-
-Insert:
-
-                 or (c)  a decision of an officer under the _Farm Household Support Act 1992_;
-
-## After subsection 1239(2)
-
-Insert:
-
-          (2A)  Subsection (1) does not apply to a decision made by the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_.
-
-## After paragraph 1240(1)(b)
-
-Insert:
-
-                 or (c)  a decision of an officer under the _Farm Household Support Act 1992_;
-
-## Subsection 1240(2)
-
-Add at the end:
-
-               ; or (c)  the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_.
-
-## Subsection 1245(1)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## After paragraph 1247(1)(b)
-
-Insert:
-
-                   (ba)  a decision of an officer under the _Farm Household Support Act 1992_; or
-
-## After paragraph 1250(1)(ac)
-
-Insert:
-
-                   (ad)  of the Minister for Primary Industries and Energy or the Secretary to the Department of Primary Industries and Energy under the _Farm Household Support Act 1992_; or
-
-## Subsection 1263(1)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## Paragraph 1279(1)(a)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## After paragraph 1279(5)(a)
-
-Insert:
-
-                   (ab)  the provisions of the _Farm Household Support Act 1992_ or the regulations made under that Act; or
-
-## Subsection 1282(1)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## Subsection 1305(1)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## Paragraph 1306(1)(a)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## Subsection 1312(1)
-
-                     (a)  Insert “or the _Farm Household Support Act 1992_” after “this Act” (first occurring).
-
-                     (b)  Omit “or the 1947 Act”, substitute “, the 1947 Act or the _Farm Household Support Act 1992_”.
-
-## Section 1313
-
-                     (a)  Insert “or the _Farm Household Support Act 1992_” after “of this Act”.
-
-                     (b)  Omit “or the 1947 Act”, substitute “, the 1947 Act or the _Farm Household Support Act 1992_”.
-
-## Paragraph 1314(1)(a)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
-
-## Subsection 1314(4)
-
-Insert “or the _Farm Household Support Act 1992_” after “this Act”.
+* * *
 
 # Notes to the _Farm Household Support Act 1992_
 
@@ -3770,7 +3237,7 @@ Remainder: Royal Assent</div>
     <div>29 Nov 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (items 1–29): 14 May 2012</div>
+    <div>Schedule 5 (items 1–29): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4005,7 +3472,7 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010; Nos. 32 and 141, 2011</div>
+    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4221,7 +3688,7 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
     <div></div>
   </td>
   <td>
-    <div>rs. No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4482,38 +3949,6 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
 </tr>
 <tr>
   <td>
-    <div><b>Division 1C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1C of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8G, 8H</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8J</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -4734,14 +4169,6 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
   </td>
   <td>
     <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 14(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5068,30 +4495,6 @@ Div. 1 of Part 4</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4A................................</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24C–24F.......................</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -5111,7 +4514,7 @@ Div. 1 of Part 4</div>
     <div></div>
   </td>
   <td>
-    <div>rs. No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
+    <div>rs. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
@@ -5127,7 +4530,7 @@ Div. 1 of Part 4</div>
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
+    <div>am. No. 125, 1994; No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
@@ -5192,14 +4595,6 @@ Div. 1 of Part 4</div>
   </td>
   <td>
     <div>am. No. 144, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26C.................................</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6023,7 +5418,7 @@ Div. 1 of Part 4</div>
     <div>S. 54</div>
   </td>
   <td>
-    <div>am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 22, 137 and 144, 2000; No. 115, 2001; No. 141, 2011</div>
+    <div>am. No. 125, 1994; No. 143, 1995; No. 179, 1997; Nos. 22, 137 and 144, 2000; No. 115, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6044,18 +5439,10 @@ Div. 1 of Part 4</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 141, 2011</div>
+    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000</div>
   </td>
 </tr>
 <tr>
@@ -6079,7 +5466,7 @@ Div. 1 of Part 4</div>
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002; No. 32, 2003; No. 141, 2011</div>
+    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002; No. 32, 2003</div>
   </td>
 </tr>
 <tr>
@@ -6095,7 +5482,7 @@ Div. 1 of Part 4</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 179, 1997; No. 144, 2000; No. 141, 2011</div>
+    <div>am. No. 179, 1997; No. 144, 2000</div>
   </td>
 </tr>
 <tr>
@@ -6111,7 +5498,7 @@ Div. 1 of Part 4</div>
     <div>S. 57</div>
   </td>
   <td>
-    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002; No. 141, 2011</div>
+    <div>am. No. 125, 1994; No. 179, 1997; Nos. 22 and 144, 2000; No. 84, 2002</div>
   </td>
 </tr>
 <tr>
@@ -6139,13 +5526,550 @@ Div. 1 of Part 4</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_**Clean Energy (Household Assistance Amendments) Act 2011** (No. 141, 2011)_
+
+The following amendments commences on 14 May 2012:
+
+## Schedule 5
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="combin-coupl-rate-pension-supplem"></a>**_combined couple rate of pension supplement_**
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="ill-separ-coupl"></a>**_illness separated couple_**
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="maximum-basic-rate"></a>**_maximum basic rate_**
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="partial-capac-work"></a>**_partial capacity to work_**
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="partner"></a>**_partnered_**
+
+## 6  Subsection 3(1)
+
+Insert:
+
+                    <a name="partner-partner-gaol"></a>**_partnered (partner in gaol)_**
+
+## 7  Subsection 3(1)
+
+Insert:
+
+                    <a name="pension-rate-calcul"></a>**_Pension Rate Calculator A_**
+
+## 8  Subsection 3(1)
+
+Insert:
+
+                    <a name="respit-care-coupl"></a>**_respite care couple_**
+
+## 9  Subsection 3(2)
+
+Insert:
+
+                    <a name="advanc-qualif-dai"></a>**_advance qualification day_** means:
+
+                     (a)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(1) or 8H(1)—the day that determination is made; or
+
+                     (b)  for a person qualifying for a clean energy advance because of a determination made under subsection 8G(2)—the day specified in that determination because of subsection 8G(3); or
+
+                     (c)  for a person qualifying for a clean energy advance because of a determination made under subsection 8H(2) or (3)—the day specified in that determination because of subsection 8H(4).
+
+## 10  Subsection 3(2)
+
+Insert:
+
+                    <a name="clean-energi-advanc"></a>**_clean energy advance_** means an advance described in section 8G, 8H or 24F.
+
+## 11  Subsection 3(2)
+
+Insert:
+
+                    <a name="clean-energi-advanc-daili-rate"></a>**_clean energy advance daily rate_** has the meaning given by section 24D.
+
+## 12  Subsection 3(2)
+
+Insert:
+
+                    <a name="clean-energi-advanc-period"></a>**_clean energy advance period_** means:
+
+                     (a)  for a person qualifying under section 8G for a clean energy advance—the period starting on 1 July 2012 and ending on 19 March 2013; or
+
+                     (b)  for a person qualifying under subsection 8H(1) or (2) for a clean energy advance—the period starting on 1 July 2012 and ending on 30 June 2013; or
+
+                     (c)  for a person qualifying under subsection 8H(3) for a clean energy advance—the period starting on 1 July 2013 and ending on 31 December 2013.
+
+## 13  Subsection 3(2)
+
+Insert:
+
+                    <a name="number-advanc-dai"></a>**_number of advance days_** has the meaning given by section 24E.
+
+## 14  Subsection 3(2)
+
+Insert:
+
+                    <a name="pension-ag"></a>**_pension age_** has the same meaning as in the _Social Security Act 1991_ (otherwise than when used in Part 3.14A or 3.14B of that Act in relation to a person who is a veteran (within the meaning of the _Veterans’ Entitlements Act 1986_)).
+
+## 15  Subsection 3(2)
+
+Insert:
+
+                    <a name="youth-allow-ag"></a>**_youth allowance age_** has the same meaning as in Part 2.11 of the _Social Security Act 1991_.
+
+## 16  Subsection 3(2)
+
+Insert:
+
+                    <a name="youth-disabl-supplem"></a>**_youth disability supplement_** has the same meaning as in Module D of the Youth Allowance Rate Calculator in the _Social Security Act 1991_.
+
+## 17  Part 2 (heading)
+
+Repeal the heading, substitute:
+
+## Part 2—Qualification for and payability of certain support and payments
+
+## 18  After Division 1B of Part 2
+
+Insert:
+
+### Division 1C—Qualification for clean energy advances
+
+##### <a id="8G"></a>8G  Person not of youth allowance age
+
+Qualification for days 14 May 2012 to 30 June 2012
+
+             (1)  The Secretary may, on a day during the period starting on 14 May 2012 and ending on 30 June 2012, determine, in writing, that a person is qualified for a clean energy advance if, on that day:
+
+                     (a)  the person is not of youth allowance age; and
+
+                     (b)  the person receives exceptional circumstances relief payment; and
+
+                     (c)  the person’s rate of payment is greater than nil; and
+
+                     (d)  the person is in Australia.
+
+Qualification for days 1 July 2012 to 19 March 2013
+
+             (2)  The Secretary may determine, in writing, that a person is qualified for a clean energy advance if, on a day during the period starting on 1 July 2012 and ending on 19 March 2013:
+
+                     (a)  the person is not of youth allowance age; and
+
+                     (b)  the person receives exceptional circumstances relief payment; and
+
+                     (c)  the person’s rate of payment is greater than nil; and
+
+                     (d)  the person is in Australia.
+
+             (3)  A determination under subsection (2) must specify the first day during the period set out in that subsection for which the person:
+
+                     (a)  satisfies paragraphs (2)(a), (b) and (c); and
+
+                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 13 weeks.
+
+##### <a id="8H"></a>8H  Person of youth allowance age
+
+Qualification for days 14 May 2012 to 30 June 2012
+
+             (1)  The Secretary may, on a day during the period starting on 14 May 2012 and ending on 30 June 2012, determine, in writing, that a person is qualified for a clean energy advance if, on that day:
+
+                     (a)  the person is of youth allowance age; and
+
+                     (b)  the person receives exceptional circumstances relief payment; and
+
+                     (c)  the person’s rate of payment is greater than nil; and
+
+                     (d)  the person is in Australia.
+
+Qualification for days 1 July 2012 to 30 June 2013
+
+             (2)  The Secretary may determine, in writing, that a person is qualified for a clean energy advance if, on a day during the period starting on 1 July 2012 and ending on 30 June 2013:
+
+                     (a)  the person is of youth allowance age; and
+
+                     (b)  the person receives exceptional circumstances relief payment; and
+
+                     (c)  the person’s rate of payment is greater than nil; and
+
+                     (d)  the person is in Australia.
+
+Qualification for days 1 July 2013 to 31 December 2013
+
+             (3)  The Secretary may determine, in writing, that a person is qualified for a clean energy advance if, on a day during the period starting on 1 July 2013 and ending on 31 December 2013:
+
+                     (a)  the person is of youth allowance age; and
+
+                     (b)  the person receives exceptional circumstances relief payment; and
+
+                     (c)  the person’s rate of payment is greater than nil; and
+
+                     (d)  the person is in Australia.
+
+First day of qualification under subsection (2) or (3)
+
+             (4)  A determination under subsection (2) or (3) must specify the first day during the period set out in that subsection for which the person:
+
+                     (a)  satisfies paragraphs (a), (b) and (c) of that subsection; and
+
+                     (b)  is in Australia, disregarding any temporary absence from Australia for a continuous period not exceeding 13 weeks.
+
+##### <a id="8J"></a>8J  Limits on qualifying for multiple advances
+
+             (1)  A person cannot qualify for more than one clean energy advance under section 8G.
+
+             (2)  A person can qualify for at most 2 clean energy advances under section 8H:
+
+                     (a)  one under either subsection 8H(1) or (2); and
+
+                     (b)  one under subsection 8H(3).
+
+             (3)  A person who has qualified for a clean energy advance under subsection 8H(1) cannot qualify for a clean energy advance under subsection 8G(1).
+
+Note 1:       Top‑up payments of clean energy advance may be payable under section 24F if the person’s circumstances change during the person’s clean energy advance period.
+
+Note 2:       A person who has qualified for a clean energy advance under subsection 8H(1) or (2) can qualify for a clean energy advance under subsection 8G(2).
+
+Note 3:       However, a second qualification mentioned in note 2 will only result in a further payment if it satisfies the criteria for a top‑up payment (see subsection 24C(3) and section 24D).
+
+## 19  At the end of subsection 14(1)
+
+Add:
+
+Note:          A claim is not required for a clean energy advance.
+
+## 20  After Part 4
+
+Insert:
+
+## Part 4A—Amount of a clean energy advance
+
+##### <a id="24C"></a>24C  Amount of a clean energy advance
+
+             (1)  On the day (the **_decision day_**) that the Secretary determines that a person (the **_recipient_**) is qualified for a clean energy advance, the Secretary must work out the amount of the advance.
+
+Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
+
+             (2)  The amount of the advance is the result of the following formula rounded up to the nearest multiple of $10:
+
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image008.gif)
+
+             (3)  However, no amount is payable under this section for the qualification if:
+
+                     (a)  the qualification is under section 8G; and
+
+                     (b)  a clean energy advance has already been paid to the recipient for a qualification under section 8H.
+
+Note:          The qualification under section 8G may result in a top‑up payment under section 24F.
+
+##### <a id="24D"></a>24D  _Clean energy advance daily rate_
+
+Recipient has reached pension age
+
+             (1)  If the recipient reaches pension age on or before the decision day, the recipient’s **_clean energy advance daily rate_** is worked out by:
+
+                     (a)  working out 1.7% of the total of:
+
+                              (i)  double the maximum basic rate under Pension Rate Calculator A, worked out for 1 July 2012 for a person who is partnered; and
+
+                             (ii)  the combined couple rate of pension supplement for 1 July 2012; and
+
+                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of $5.20 (rounding up if that result is not a multiple of $5.20 but is a multiple of $2.60); and
+
+                     (c)  adding $5.20 to the result of paragraph (b); and
+
+                     (d)  applying the applicable percentage in the following table to the result of paragraph (c); and
+
+                     (e)  dividing the result of paragraph (d) by 364.
+
+<table>
+<colgroup>
+  <col width="12%">
+  <col width="59%">
+  <col width="29%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Percentage to be applied</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Recipient’s family situation on the advance qualification day</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Use this %</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Not a member of a couple</div>
+  </td>
+  <td>
+    <div>66.33%</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Partnered</div>
+  </td>
+  <td>
+    <div>50%</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Member of an illness separated couple</div>
+  </td>
+  <td>
+    <div>66.33%</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Member of a respite care couple</div>
+  </td>
+  <td>
+    <div>66.33%</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Partnered (partner in gaol)</div>
+  </td>
+  <td>
+    <div>66.33%</div>
+  </td>
+</tr></table>
+
+Recipient under pension age but not of youth allowance age
+
+             (2)  If the recipient is not covered by subsection (1) and is not of youth allowance age on the advance qualification day, the recipient’s **_clean energy advance daily rate_** is worked out by:
+
+                     (a)  working out 1.7% of the maximum basic rate for newstart allowance, worked out:
+
+                              (i)  for 1 July 2012; and
+
+                             (ii)  for a person in circumstances the same as the recipient’s on the advance qualification day; and
+
+                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of 10 cents (rounding up if that result is not a multiple of 10 cents but is a multiple of 5 cents); and
+
+                     (c)  adding 20 cents to the result of paragraph (b); and
+
+                     (d)  dividing the result of paragraph (c) by 14.
+
+Recipient under 21 with a partial capacity to work
+
+             (3)  If, on the advance qualification day, the recipient is under 21 and has a partial capacity to work, the recipient’s **_clean energy advance daily rate_** is worked out by:
+
+                     (a)  working out 1.7% of the total of the maximum basic rate, and the youth disability supplement, for youth allowance, worked out:
+
+                              (i)  for the first day of the recipient’s clean energy advance period; and
+
+                             (ii)  for a person in circumstances the same as the recipient’s on the advance qualification day; and
+
+                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of 10 cents (rounding up if that result is not a multiple of 10 cents but is a multiple of 5 cents); and
+
+                     (c)  adding 20 cents to the result of paragraph (b); and
+
+                     (d)  dividing the result of paragraph (c) by 14.
+
+Other recipients of youth allowance age
+
+             (4)  If, on the advance qualification day, the recipient is of youth allowance age and not covered by subsection (3), the recipient’s **_clean energy advance daily rate_** is worked out by:
+
+                     (a)  working out 1.7% of the maximum basic rate for youth allowance, worked out:
+
+                              (i)  for the first day of the recipient’s clean energy advance period; and
+
+                             (ii)  for a person in circumstances the same as the recipient’s on the advance qualification day; and
+
+                     (b)  rounding the result of paragraph (a) up or down to the nearest multiple of 10 cents (rounding up if that result is not a multiple of 10 cents but is a multiple of 5 cents); and
+
+                     (c)  adding 20 cents to the result of paragraph (b); and
+
+                     (d)  dividing the result of paragraph (c) by 14.
+
+##### <a id="24E"></a>24E  _Number of advance days_
+
+                   The recipient’s **_number of advance days_** is the number of days in the recipient’s clean energy advance period that are on or after:
+
+                     (a)  if the recipient qualifies for the clean energy advance before 1 July 2012—1 July 2012; or
+
+                     (b)  otherwise—the advance qualification day.
+
+##### <a id="24F"></a>24F  Top‑up payments of clean energy advance
+
+Work out adjusted amount if circumstances change
+
+             (1)  If:
+
+                     (a)  the Secretary pays a clean energy advance (the **_original payment_**) to the recipient; and
+
+                     (b)  the recipient’s circumstances change on a day (the **_change day_**) before the end of the recipient’s clean energy advance period;
+
+work out an amount under subsection (3). However, if this section has previously applied to the recipient, work out an amount under subsection (4).
+
+When a top‑up is payable
+
+             (2)  If the total of:
+
+                     (a)  the original payment; and
+
+                     (b)  any previous payments under this subsection;
+
+falls short of the amount worked out under subsection (3) or (4) (as applicable), the recipient is qualified for a further payment of clean energy advance equal to the amount of the shortfall.
+
+Note:          The advance will be paid in a lump sum as soon as is reasonably practicable (see subsection 25(4) and section 26C).
+
+Adjusted amount for the earliest change day
+
+             (3)  For the purposes of subsection (1), round up to the nearest multiple of $10 the result of the formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00140/Html/1883349d-95cf-4ce8-a9c5-4d373d3e5bca_files/image009.gif)
+
+where:
+
+                    <a name="first-pro-rata-amount"></a>**_first pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if:
+
+                     (a)  the advance qualification day were the change day; and
+
+                     (b)  if the change day is specified in a determination, for the recipient, under subsection 8G(2) because of subsection 8G(3):
+
+                              (i)  the recipient’s clean energy advance period were worked out by reference to the qualification resulting from that determination; and
+
+                             (ii)  the reference in subsection 24D(1) to the decision day were a reference to the change day.
+
+Note:          Paragraph (b) only applies if the recipient qualifies a second time for a clean energy advance, this time under section 8G (whereas the recipient qualified for the original payment under section 8H).
+
+                    <a name="origin-pro-rata-amount"></a>**_original pro‑rata amount_** means the amount that would be the result of the formula set out in subsection 24C(2) if the recipient’s number of advance days did not include days on or after the change day.
+
+Note:          The formula set out in subsection 24C(2) does not include the rounding mentioned in that subsection.
+
+Adjusted amount for later change days
+
+             (4)  For the purposes of subsection (1), round up to the nearest multiple of $10 the sum of the following:
+
+                     (a)  the original pro‑rata amount worked out under subsection (3) for the earliest change day;
+
+                     (b)  the first pro‑rata amount worked out under subsection (3) for the earliest change day but as if the number of advance days did not include days on or after the next change day;
+
+                     (c)  the amount for each change day later than the earliest worked out in a way corresponding to the way the first pro‑rata amount was worked out under paragraph (b) for the earliest change day.
+
+## 21  Part 5 (heading)
+
+Repeal the heading, substitute:
+
+## Part 5—Payment of certain support and payments
+
+## 22  At the end of section 25
+
+Add:
+
+             (4)  Clean energy advance becomes payable to a person qualified for the advance on the day the Secretary considers to be the earliest day on which it is reasonably practicable for the advance to be made. However, the Secretary must not pay the advance if the Secretary is aware that the person has died.
+
+Note:          This subsection applies to a qualification under section 8G, 8H or 24F.
+
+## 23  After section 26B
+
+Insert:
+
+##### <a id="26C"></a>26C  Clean energy advance to be by way of a single lump sum
+
+                   Clean energy advance is paid to a person in a single lump sum in such manner as the Secretary considers appropriate.
+
+Note:          An amount of clean energy advance may be reduced for the purpose of recovering a debt under section 56 of this Act (see section 1231A of the _Social Security Act 1991_).
+
+## 24  Paragraph 54(1)(c)
+
+Omit “or farm help income support”, substitute “, farm help income support or clean energy advance”.
+
+## 25  Section 55 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="55"></a>55  Certain support and payments to be inalienable
+
+## 26  Section 55
+
+Omit “and farm help scheme payments are”, substitute “, farm help scheme payments and clean energy advances are”.
+
+## 27  At the end of section 56 (before the note)
+
+Add:
+
+             (4)  If:
+
+                     (a)  an amount purporting to be an amount of clean energy advance has been paid to a person; and
+
+                     (b)  some or all of the amount was not payable to the person;
+
+the amount that was not payable may be recovered by the Commonwealth as a debt due to the Commonwealth.
+
+## 28  Section 56 (note)
+
+Omit “or farm help income support”, substitute “, farm help income support or clean energy advance”.
+
+## 29  Subsection 57(3)
+
+Omit “Exceptional circumstances relief payment is”, substitute “Exceptional circumstances relief payment and clean energy advance are”.
+
+As at 19 January 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996 (No. 59, 1996)_
 
-## Schedule 5
+## Schedule 5  
 
 ## 5  Application
 
@@ -6156,7 +6080,7 @@ The amendment made by item 4 applies to the proceeds of disposals that occur a
 _Farm Household Support Amendment (Restart and Exceptional 
  Circumstances) Act 1997 (No. 179, 1997)_
 
-## Schedule 3
+## Schedule 3  
 
 ## 1  Definitions
 
@@ -6184,7 +6108,7 @@ A reference in the amended FHS Act, or in another Act that is amended by this Ac
 
 _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998 (No. 45, 1998) _
 
-## Schedule 13
+## Schedule 13  
 
 ## 26  Application
 
