@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00308/Html/bd891d6e-6b92-48bb-a2c8-02e75b09271f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00047/Html/SnoMouEngCorLimSale1993WD02_image001.gif)
 
 # Snowy Mountains Engineering Corporation Limited Sale Act 1993
 
 **Act No. 54 of 1993 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 11 January 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -50,7 +50,7 @@ Sections 7, 8
 
 [13](#13).          Employee’s long service leave credit for the purposes of sections 10 and 11
 
-[14](#14).          Division not to affect an employee’s post‑sale long service leave rights
+[14](#14).          Division not to affect an employee’s post-sale long service leave rights
 
 [15](#15).          Saving—Long Service Leave Act
 
@@ -128,7 +128,7 @@ Sections 7, 8
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_.
+                   This Act may be cited as the _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -149,10 +149,6 @@ Sections 7, 8
                     <a name="dfrdb-act"></a>**_DFRDB Act_** means the _Defence Force Retirement and Death Benefits Act 1973_.
 
                     <a name="employe"></a>**_employee_** includes apprentice.
-
-                    <a name="financ-depart"></a>**_Finance Department_** means the Department administered by the Finance Minister.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the commencement of Part 2 of this Act.
 
@@ -178,9 +174,9 @@ Sections 7, 8
 
 ##### <a id="4"></a>4  The sale day
 
-             (1)  The Finance Minister must, by notice in the _Gazette_, declare the day described in subsection (2) to be the sale day.
+             (1)  The Minister for Finance must, by notice in the _Gazette_, declare the day described in subsection (2) to be the sale day.
 
-             (2)  The day to be specified in the notice is the day that, in the opinion of the Finance Minister, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
+             (2)  The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
 
              (3)  The notice must be published within 14 days after the specified day.
 
@@ -228,7 +224,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 5
 
                      (b)  the period starting on the sale day during which the employee continues to be an employee of SMEC.
 
-                    <a name="employe"></a>**_employee_** includes a person employed in a full‑time or a part‑time capacity.
+                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
 
                     <a name="law"></a>**_law_** means:
 
@@ -236,7 +232,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 5
 
                      (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post‑sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the sale day.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the sale day.
 
 ##### <a id="10"></a>10  Long service leave for employees with less than 10 years service
 
@@ -256,7 +252,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 5
 
 SMEC may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 13(1).
 
-             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), SMEC may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice that first‑mentioned period.
+             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), SMEC may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice that first-mentioned period.
 
              (7)  Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee stops being an employee.
 
@@ -264,7 +260,7 @@ SMEC may grant the employee long service leave on full salary for a period up to
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 10 of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_”.
+                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 10 of the _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_”.
 
 ##### <a id="11"></a>11  Payments in lieu of long service leave for employees with less than 10 years service
 
@@ -306,7 +302,7 @@ SMEC must pay him or her an amount equal to full salary in respect of his or her
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 11 of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_”.
+                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 11 of the _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_”.
 
 ##### <a id="12"></a>12  Payments on the death of an employee
 
@@ -362,7 +358,7 @@ TABLE
     <div>this Act</div>
   </td>
   <td>
-    <div>section 12 of the <i>Snowy Mountains Engineering Corporation Limited Sale Act 1993</i> </div>
+    <div>section 12 of the <i>Snowy Mountains Engineering Corporation Limited</i>  <i> Sale </i> <i> Act 1993 </i></div>
   </td>
 </tr>
 <tr>
@@ -373,7 +369,7 @@ TABLE
     <div>subsection 16(7) or 17(5)</div>
   </td>
   <td>
-    <div>section 12 of the <i>Snowy Mountains Engineering Corporation Limited Sale Act 1993</i> </div>
+    <div>section 12 of the <i>Snowy Mountains Engineering Corporation Limited</i>  <i> Sale </i> <i> Act 1993 </i></div>
   </td>
 </tr></table>
 
@@ -389,9 +385,9 @@ if the employee had been retrenched on the sale day.
 
              (2)  For the purposes of section 11, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1), reduced by any long service leave credits used under section 10.
 
-##### <a id="14"></a>14  Division not to affect an employee’s post‑sale long service leave rights
+##### <a id="14"></a>14  Division not to affect an employee’s post-sale long service leave rights
 
-                   To avoid doubt, it is declared that this Division does not affect an employee’s post‑sale long service leave rights.
+                   To avoid doubt, it is declared that this Division does not affect an employee’s post-sale long service leave rights.
 
 ##### <a id="15"></a>15  Saving—Long Service Leave Act
 
@@ -437,7 +433,7 @@ including employees who had stopped being employees of SMEC before the sale day.
 
                      (c)  the following word and paragraph were added at the end of subsection 96H(1): 
 
-                            “; or (f)  in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
+                            “; or (f)   in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
 
              (2)  If, 60 days after the sale day, an amount of premium payable by SMEC to Comcare in respect of a period before the sale day remains unpaid, the amount is a debt due to the Commonwealth and payable to Comcare.
 
@@ -575,7 +571,7 @@ as if SMEC were a body established under an Act.
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
-                     (a)  the Secretary of the Attorney‑General’s Department; or
+                     (a)  the Secretary to the Attorney-General’s Department; or
 
                      (b)  an SES employee, or acting SES employee, in that Department.
 
@@ -609,9 +605,9 @@ unless a law expressly provides otherwise.
 
              (3)  Unless the contrary intention appears, expressions used in subsection (1) that are also used in the _Income Tax Assessment Act 1936_ have the same respective meanings as in that Act.
 
-             (4)  SMEC cannot deduct in the 1997‑98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
+             (4)  SMEC cannot deduct in the 1997-98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
 
-             (5)  This section has effect despite anything and, in particular, Division 36 and Subdivision 195‑A of the _Income Tax Assessment Act 1997_.
+             (5)  This section has effect despite anything and, in particular, Division 36 and Subdivision 195-A of the _Income Tax Assessment Act 1997_.
 
              (6)  Unless the contrary intention appears, an expression has the same meaning in subsection (4) as in the _Income Tax Assessment Act 1997_.
 
@@ -635,9 +631,9 @@ unless a law expressly provides otherwise.
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
-                     (a)  the Finance Minister; or
+                     (a)  the Minister for Finance; or
 
-                     (b)  the Secretary of the Finance Department; or
+                     (b)  the Secretary to the Department of Finance; or
 
                      (c)  an SES employee, or acting SES employee, in that Department, authorised by the Secretary, in writing, for the purposes of this section.
 
@@ -659,7 +655,7 @@ unless a law expressly provides otherwise.
 
                      (b)  a fee (other than a fee payable under the _Corporations Act 2001_);
 
-but does not include a tax or fee (other than a fee payable under the _Corporations Act 2001_) specified in a notice signed by the Finance Minister and published in the _Gazette_.
+but does not include a tax or fee (other than a fee payable under the _Corporations Act 2001_) specified in a notice signed by the Minister for Finance and published in the _Gazette_.
 
 ##### <a id="39"></a>39  Regulations connected with the sale of SMEC
 
@@ -667,7 +663,7 @@ but does not include a tax or fee (other than a fee payable under the _Corporati
 
                      (a)  are connected with the sale of SMEC; and
 
-                     (b)  include a declaration that the Governor‑General is satisfied that they are connected with the sale of SMEC; and
+                     (b)  include a declaration that the Governor-General is satisfied that they are connected with the sale of SMEC; and
 
                      (c)  are expressed to take effect on the sale day.
 
@@ -723,7 +719,7 @@ _Commonwealth Borrowing Levy Act 1987_
 
 _National Crime Authority Act 1984_<span style="font-size:9.0pt">\[now cited as _Australian Crime Commission Act 2002_]</span>
 
-_Occupational Health and Safety (Commonwealth Employment) Act 1991_<span style="font-size:9.0pt">\[now cited as _Occupational Health and Safety Act 1991_]</span>
+_Occupational Health and Safety (Commonwealth Employment) Act 1991_
 
 _Snowy Mountains Engineering Corporation Act 1970_
 
@@ -735,7 +731,7 @@ For access to the wording of the amendments made by this Schedule _see_ Act No.�
 
 ### Note 1
 
-The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ as shown in this compilation comprises Act No. 54, 1993 amended as indicated in the Tables below.
+The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ as shown in this compilation comprises Act No. 54, 1993 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -773,26 +769,26 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>Snowy Mountains Engineering Corporation Limited Sale Act 1993</div>
-  </td>
-  <td>
-    <div>54, 1993</div>
-  </td>
-  <td colspan="2">
-    <div>27 Oct 1993</div>
-  </td>
-  <td>
-    <div>Ss. 1–4 and 38: Royal Assent 
+  <tr>
+    <td>
+      <div>Snowy Mountains Engineering Corporation Limited Sale Act 1993</div>
+    </td>
+    <td>
+      <div>54, 1993</div>
+    </td>
+    <td colspan="2">
+      <div>27 Oct 1993</div>
+    </td>
+    <td>
+      <div>Ss. 1–4 and 38: Royal Assent 
 S. 37: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S371) 
 Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>Income Tax (Consequential Amendments) Act 1997</div>
@@ -896,23 +892,6 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 198–201), Schedule 6 (items 100, 101) and Schedule 7 (items 122, 123): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -922,13 +901,13 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was amended by Schedule 1 (items 819 and 820) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(a)_     The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ was amended by Schedule 1 (items 819 and 820) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was amended by Schedule 3 (items 479–481) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(b)_ The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ was amended by Schedule 3 (items 479–481) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
@@ -968,15 +947,7 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1008,7 +979,7 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1032,7 +1003,7 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 55, 2001; No. 5, 2011</div>
+    <div>am. No. 146, 1999; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1081,7 +1052,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -1107,17 +1078,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -1148,5 +1119,7 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+ 
 
  
