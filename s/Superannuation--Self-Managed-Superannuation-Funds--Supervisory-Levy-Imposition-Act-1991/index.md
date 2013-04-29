@@ -1,348 +1,390 @@
-![](http://www.comlaw.gov.au/Details/C2007C00114/Html/SupSelfManSuperFndsSLIA91_image001.gif)
+**
 
-# Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991 
+**
 
-**Act No. 61 of 1991 as amended**
 
-This compilation was prepared on 22 March 2007
- taking into account amendments up to Act No. 14 of 2007
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1  Short title \[see Note 1]](#1  Short title \[see Note 1]).                                                                                  1
+**
 
-[2  Commencement \[see Note 1]](#2  Commencement \[see Note 1]).                                                                         1
+###  Contents 
+**
+Superannuation Industry (Supervision) Act 1993
 
-[3  Application of the Superannuation Industry (Supervision) Act](#3  Application of the Superannuation Industry (Supervision) Act).                   1
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[5  Imposition of superannuation supervisory levy](#5  Imposition of superannuation supervisory levy).                                           1
+		This Act may be cited as the _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_.
 
-[6  Amount of levy](#6  Amount of levy).                                                                                             1
+ </dl>
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[7  Regulations](#7  Regulations).                                                                                                    1
+		This Act commences, or is taken to have commenced, as the case requires, on
 
-**Notes** 
+the commencement of the _Occupational Superannuation Laws Amendment Act 1991_.
 
-## An Act to impose a levy on the lodgment of certain returns under the _Superannuation Industry (Supervision) Act 1993_
+ </dl>
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991- SECT 3  Application of the Superannuation Industry (Supervision) Act 
+<dl compact="">
 
-##### <a id="1  "></a>1  Short title [_see_ Note 1]
+		Section 9, and Division 2 of Part 1, of the _Superannuation Industry (Supervision)Act 1993_ apply in relation to this Act in a corresponding way
 
-                   This Act may be cited as the _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_.
+to the way in which they apply in relation to that Act.
 
-##### <a id="2  "></a>2  Commencement [_see_ Note 1]
+ </dl>
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991- SECT 5  Imposition of superannuation supervisory levy 
+<dl compact="">
 
-                   This Act commences, or is taken to have commenced, as the case requires, on the commencement of the _Occupational Superannuation Laws Amendment Act 1991_.
+		Levy payable in accordance with section 15DA of the _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ is imposed.
 
-##### <a id="3  "></a>3  Application of the Superannuation Industry (Supervision) Act
+ </dl>
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991- SECT 6  Amount of levy 
+<dl compact="">
 
-                   Section 9, and Division 2 of Part 1, of the _Superannuation Industry (Supervision) Act 1993_ apply in relation to this Act in a corresponding way to the way in which they apply in relation to that Act.
+<dt>(1)</dt><dd>The amount of levy payable on the lodgment of a return for a year of
 
-##### <a id="5  "></a>5  Imposition of superannuation supervisory levy
+income is the sum of:
 
-                   Levy payable in accordance with section 15DA of the _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ is imposed.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-##### <a id="6"></a>6  Amount of levy
+<dt>(a)</dt><dd>an amount (not exceeding $200) specified in regulations for the purposes
 
-                   The amount of levy payable on the lodgment of a return for a year of income is an amount (not exceeding $200) specified in regulations for the purposes of this section.
+of this subsection; and</dd>
 
-##### <a id="7  "></a>7  Regulations
+<dt>(b)</dt><dd>if the return is not lodged by the date specified in the regulations in
 
-             (1)  The Governor-General may make regulations for the purposes of section 6.
+respect of a year of income&#151;the late lodgment amount which the trustee is
 
-# Notes to the _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_
+liable to pay under subsection 6(2) in relation to that return. 
 
-### Note 1
+</dd>
 
-The _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ as shown in this compilation comprises Act No. 61, 1991 amended as indicated in the Tables below.
+</dl></dl>
+Late lodgment amount
+<dl compact="">
 
-All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation . For subsequent information _see_ Table A.
+<dt>(2)</dt><dd>The late lodgment amount in relation to a return is the amount (not
 
-### Table of Acts
+exceeding $25) specified in regulations for the purposes of this subsection, in
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="15%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+respect of:
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the calendar month beginning on the day after the day on which the return
+
+was required to be lodged; and</dd>
+
+<dt>(b)</dt><dd>each subsequent calendar month beginning before the day on which the
+
+return is lodged.
+
+</dd>
+
+</dl></dl>
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991- SECT 7  Regulations 
+
+Back to Top
+
+<dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may make regulations for the purposes of section 6.
+
+</dd> </dl>
+**
+
+###  SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY IMPOSITION ACT 1991<centreit>Notes to the _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ </centreit>
+**
+Note 1
+Superannuation (Self Managed Superannuation Funds)- Supervisory Levy Imposition Act 1991
+
+see
+Table of Acts
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Superannuation Supervisory Levy Act 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Supervisory Levy Act 1991_</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>61, 1991</div>
+
   </td>
-  <td>
-    <div>20 May 1991</div>
+  <td colspan="1" align="left">
+    <div>20 May 1991</div>
+
   </td>
-  <td>
-    <div>24 Apr 1991 ( <i>see</i>s. 2)</div>
+  <td colspan="1" align="left">
+    <div>24 Apr 1991 ( _see_s. 2)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Supervisory Levy Amendment Act 1993</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Supervisory Levy Amendment Act 1993_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>83, 1993</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>30 Nov 1993</div>
+
   </td>
-  <td>
-    <div>1 July 1994</div>
+  <td colspan="1" align="left">
+    <div>1 July 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Supervisory Levy Amendment Act 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Supervisory Levy Amendment Act 1995_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>117, 1995</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Oct 1995</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>17 Oct 1995</div>
+
   </td>
-  <td>
-    <div>S. 3 (item 3)</div>
+  <td colspan="1" align="left">
+    <div>S. 3 (item&#160;3)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>54, 1998</div>
+
   </td>
-  <td>
-    <div>29 June 1998</div>
+  <td colspan="1" align="left">
+    <div>29 June 1998</div>
+
   </td>
-  <td>
-    <div>Schedule 18 (items 36–39): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 18 (items&#160;36-39): 1&#160;July 1998 ( _see Gazette_1998, No.&#160;S316) _(a)_</div>
+
   </td>
-  <td>
-    <div>Sch. 19 (item 45) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 19 (item 45) \[ _see_Table&#160;A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Superannuation Legislation Amendment Act (No. 3) 1999_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>121, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>8 Oct 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (items 7-12): Royal Assent <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (items 7-12): Royal Assent _(b)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation (Self Managed Superannuation Funds) Supervisory Levy Amendment Act 2007</div>
+
+Back to Top
+
+(a)
+Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991
+Financial Sector Reform (Amendments and Transitional Provisions) Act 1998
+Australian Prudential Regulation Authority Act 1998
+Australian Prudential Regulation Authority Act 1998
+(b)
+Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991
+Superannuation Legislation Amendment Act (No. 3) 1999
+Table of Amendments
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
   </td>
-  <td>
-    <div>14, 2007</div>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>15 Mar 2007</div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
-
-_(a)_     The _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ was amended by Schedule 18 (items 36–39) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsection 2(2)(p) of which provides as follows:
-
-                 (2)   The following provisions of this Act commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_:
-
-                              (p)   Schedule 18, other than the items amending the _Australian Prudential Regulation Authority Act 1998_.
-
-_(b)_    The _Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991_ was amended by Schedule 2 (items 7–12) only of the _Superannuation Legislation Amendment Act (No. 3) 1999_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
- 
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Title</div>
+
   </td>
-  <td>
-    <div>am. No. 83, 1993</div>
+  <td colspan="1" align="left">
+    <div>am. No. 83, 1993</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 1</div>
+
   </td>
-  <td>
-    <div>am. No. 54, 1998; No. 121, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 54, 1998; No. 121, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>rs. No. 83, 1993</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 83, 1993</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 83, 1993; No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 121, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 83, 1993; No. 54, 1998</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 121, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 83, 1993; No. 54, 1998; No. 121, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 83, 1993; No. 54, 1998; No. 121, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
-    <div>am. No. 117, 1995; No. 121, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 14, 2007</div>
+  <td colspan="1" align="left">
+    <div>am. No. 117, 1995; No. 121, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
-    <div>am. No. 54, 1998; No. 121, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 54, 1998; No. 121, 1999</div>
+
   </td>
-</tr></table>
+</tr>
+Table A
+Application, saving or transitional provisions
+Financial Sector Reform (Amendments and Transitional Provisions) Act 1998
+Schedule 19
+Part 6&#151;Transitional provisions relating to levies
+45  Regulations may deal with transitional matters arising out of changes to levy legislation
+<dl compact=""><dl compact="">
 
-## Table A
+<dt>(b)</dt><dd>the amendment of the following Acts:
 
-### Application, saving or transitional provisions
+</dd>
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)_
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-## Schedule 19  
+<dt>(ii)</dt><dd>the _Superannuation Supervisory Levy Act 1991_; and
 
-## 45  Regulations may deal with transitional matters arising out of changes to levy legislation
+</dd>
 
-(1)        The regulations may deal with transitional matters arising out of:
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-                     (b)  the amendment of the following Acts:
+<dt>(a)</dt><dd>the crediting of an amount paid by way of one kind of levy against a
 
-                             (ii)  the _Superannuation Supervisory Levy Act 1991_; and
+liability to pay an amount of another kind of levy; and</dd>
 
-(2)        Without limiting subitem (1), the regulations may provide for:
+<dt>(b)</dt><dd>the waiver of an amount of levy that is due and payable; and</dd>
 
-                     (a)  the crediting of an amount paid by way of one kind of levy against a liability to pay an amount of another kind of levy; and
+<dt>(c)</dt><dd>the refund of an amount of levy that has been paid.
 
-                     (b)  the waiver of an amount of levy that is due and payable; and
+</dd>
 
-                     (c)  the refund of an amount of levy that has been paid.
+</dl></dl>
 
-* * *
 
-_Superannuation (Self Managed Superannuation Funds) Supervisory Levy Amendment Act 2007 (No. 14, 2007)_
 
-## Schedule 1
 
-## 2  Application
 
-The amendment made by this Schedule applies to the 2007-2008 income year and later years.
 
- 
 
- 
+
