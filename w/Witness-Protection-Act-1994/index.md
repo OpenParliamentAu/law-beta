@@ -1,7 +1,7 @@
 
 Witness Protection Act 1994
 Act No. 124 of 1994 as amended
-This compilation was prepared on 12 July 2004 taking into account amendments up to Act No. 80 of 2004
+This compilation was prepared on 9 January 2003 taking into account amendments up to Act No. 125 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -451,7 +451,7 @@ The amendments made by this Schedule are incorporated in the compilations on SCA
 Administrative Decisions (Judicial Review) Act 1977
 Australian Federal Police Act 1979
 Marriage Act 1961
-For access to the wording of the amendments made by this Schedule see Act No. 124, 1994.
+For access to the wording of the amendments made by this Schedule, click here [Witness Protection Act 1994 No. 124, 1994].
 Notes to the Witness Protection Act 1994
 Note 1
 The Witness Protection Act 1994 as shown in this compilation comprises Act No. 124, 1994 amended as indicated in the Tables below.
@@ -475,7 +475,7 @@ Schedule 1 (item 29): Royal Assent (a)
 Australian Federal Police Legislation Amendment Act 2000
 9, 2000
 7 Mar 2000
-2 July 2000 (see Gazette 2000, No. S328)
+2 July 2000 (see Gazette 2000, No. S328)
 Sch. 3 (items 20, 34, 35) 
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
@@ -485,50 +485,31 @@ S. 4(1) and (2)
 National Crime Authority Legislation Amendment Act 2001
 135, 2001
 1 Oct 2001
-Schedules 1–7 and 9–12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 13 Oct 2001 (see Gazette 2001, No. S428) Remainder: Royal Assent
+Schedules 1‑7 and 9‑12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 13 Oct 2001 (see Gazette 2001, No. S428) Remainder: Royal Assent
 —
 International Criminal Court (Consequential Amendments) Act 2002
 42, 2002
 27 June 2002
-Schedules 1–7: 26 Sept 2002 (see s. 2(1) (item 2) and Gazette 2002, No. GN38) Remainder: 28 June 2002
+Schedules 1‑7: 26 Sept 2002 (see s. 2(1) (item 2) and Gazette 2002, No. GN38) Remainder: 28 June 2002
 —
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
 86, 2002
 11 Oct 2002
-Ss. 1–3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
+Ss. 1—3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
 —
 Australian Crime Commission Establishment Act 2002
 125, 2002
 10 Dec 2002
 Schedule 2 (item 225): 1 Jan 2003
 —
-Bankruptcy Legislation Amendment Act 2004
-80, 2004
-23 June 2004
-Schedule 1 (items 211–213, 215): [see (c), Note 2 and Table A]
-Sch. 1 (items 212, 213, 215)
 (a)	The Witness Protection Act 1994 was amended by Schedule 1 (item 29) only of the Crimes and Other Legislation Amendment Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 (b)	The Witness Protection Act 1994 was amended by Schedule 50 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
-(c)	Subsection 2(1) (item 2) of the Bankruptcy Legislation Amendment Act 2004 provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedules 1, 2, 3 and 4
-A single day to be fixed by Proclamation.
-However, if any of the provision(s) do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
-[see Note 2 and Table A]
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
@@ -557,13 +538,7 @@ S. 25
 am. No. 9, 2000
 S. 26	
 am. No. 9, 2000
-Note 2
-Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)
-The following amendment commences on 23 December 2004 unless proclaimed earlier:
-Schedule 1
-211  Paragraph 7(2)(g)
-Omit “a composition with creditors, a deed of arrangement or a deed of assignment”, substitute “a personal insolvency agreement”.
-As at 12 July 2004 the amendment is not incorporated in this compilation.
+
 Table A
 Application, saving or transitional provisions
 Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)
@@ -588,48 +563,4 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (N
 	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)
-The following provisions commence on 23 December 2004 unless proclaimed earlier:
-Schedule 1
-212  Transitional—pre‑commencement deeds and compositions
-(1)	For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the Bankruptcy Act 1966 before the commencement of this item, the deed is a pre‑commencement deed.
-(2)	For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the Bankruptcy Act 1966, the composition is a pre‑commencement composition.
-(3)	Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-	(a)	the Bankruptcy Act 1966 and regulations under that Act; and
-	(b)	the Acts amended by Part 2 of this Schedule;
-continue to apply, in relation to:
-	(c)	a pre‑commencement deed; and
-	(d)	a pre‑commencement composition; and
-	(e)	any matter connected with, or arising out of:
-	(i)	a pre‑commencement deed; or
-	(ii)	a pre‑commencement composition;
-as if those repeals had not happened and those amendments had not been made.
-213  Transitional—pre‑commencement authorities
-(1)	For the purposes of this item, if:
-	(a)	an authority given by a debtor under section 188 of the Bankruptcy Act 1966 became effective before the commencement of this item; and
-	(b)	as at the commencement of this item, none of the following had happened:
-	(i)	the execution by the debtor and the trustee of a deed of assignment under Part X of the Bankruptcy Act 1966;
-	(ii)	the execution by the debtor and the trustee of a deed of arrangement under Part X of the Bankruptcy Act 1966;
-	(iii)	the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the Bankruptcy Act 1966;
-the authority is a pre‑commencement authority.
-(2)	Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-	(a)	the Bankruptcy Act 1966 and regulations under that Act; and
-	(b)	the Acts amended by Part 2 of this Schedule;
-continue to apply, in relation to:
-	(c)	a pre‑commencement authority; and
-	(d)	the control of the debtor’s property following a pre‑commencement authority becoming effective; and
-	(e)	a meeting of the debtor’s creditors called under a pre‑commencement authority; and
-	(f)	whichever of the following is applicable:
-	(i)	a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the Bankruptcy Act 1966 in accordance with a special resolution of such a meeting;
-	(ii)	a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the Bankruptcy Act 1966 in accordance with a special resolution of such a meeting;
-	(iii)	a composition accepted after the commencement of this item by a special resolution of such a meeting; and
-	(g)	any other matter connected with, or arising out of:
-	(i)	a pre‑commencement authority; or
-	(ii)	a deed of assignment mentioned in subparagraph (f)(i); or
-	(iii)	a deed of arrangement mentioned in subparagraph (f)(ii); or
-	(iv)	a composition mentioned in subparagraph (f)(iii);
-as if those repeals had not happened and those amendments had not been made.
-215  Transitional—regulations
-(1)	The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
-(2)	The Governor‑General may make regulations for the purposes of subitem (1).
 
