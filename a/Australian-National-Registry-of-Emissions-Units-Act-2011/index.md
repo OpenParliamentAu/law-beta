@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00418/Html/06faf9ef-2e6f-4baa-bb4e-4236e67a2f0d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00948/Html/34890a8b-564b-473c-ae2e-8ec1dc3c095a_files/image001.gif)
 
 # Australian National Registry of Emissions Units Act 2011
 
 **Act No. 99 of 2011 as amended**
 
-This compilation was prepared on 1 May 2012
+This compilation was prepared on 9 December 2011
  taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Definitions
 
-[5](#5).            Electronic notice transmitted to the Regulator
+[5](#5).            Electronic notice transmitted to the Administrator
 
 [6](#6).            Crown to be bound
 
@@ -92,9 +92,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28](#28).          Suspension of operation of the Registry
 
-[28A](#28A).       Regulator may defer giving effect to a transfer instruction
+[28A](#28A).       Administrator may defer giving effect to a transfer instruction
 
-[28B](#28B).       Regulator may refuse to give effect to a transfer instruction
+[28B](#28B).       Administrator may refuse to give effect to a transfer instruction
 
 [28C](#28C).       Conditions restricting or limiting the operation of Registry accounts
 
@@ -228,9 +228,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [82](#82).          Reviewable decisions
 
-[83](#83).          Applications for reconsideration of decisions made by delegates of the Regulator
+[83](#83).          Applications for reconsideration of decisions made by delegates of the Administrator
 
-[84](#84).          Reconsideration by the Regulator
+[84](#84).          Reconsideration by the Administrator
 
 [85](#85).          Deadline for reconsideration
 
@@ -240,7 +240,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [87](#87).          Computerised decision‑making
 
-[88](#88).          Regulator’s power to require further information
+[88](#88).          Administrator’s power to require further information
 
 [89](#89).          Delegation by the Minister
 
@@ -363,7 +363,7 @@ Note:          This table relates only to the provisions of this
 
 Registry of Emissions Units is continued in existence.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may, in
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may, in
 
 accordance with the regulations, open a Registry account in the name of a
 
@@ -394,6 +394,8 @@ about dealings with:</li>
                    In this Act:
 
                     <a name="account-number"></a>**_account number_**, in relation to a Registry account, has the meaning given by subsection 10(4).
+
+                    <a name="administr"></a>**_Administrator_** means the Carbon Credits Administrator.
 
                     <a name="alter"></a>**_alter_** the Registry, includes:
 
@@ -435,7 +437,7 @@ Note:          The first commitment period begins on 1 Janua
 
                     <a name="electron-commun"></a>**_electronic communication_** means a communication by means of guided and/or unguided electromagnetic energy.
 
-                    <a name="electron-notic-transmit-regul"></a>**_electronic notice transmitted to the Regulator_** has the meaning given by section 5.
+                    <a name="electron-notic-transmit-administr"></a>**_electronic notice transmitted to the Administrator_** has the meaning given by section 5.
 
                     <a name="elig-intern-emiss-unit"></a>**_eligible international emissions unit_** means:
 
@@ -609,8 +611,6 @@ means the person in whose Registry account there is an entry for the unit.
 
                     <a name="registri-account"></a>**_Registry account_** means an account kept in accordance with regulations made for the purposes of subsection 10(1).
 
-                    <a name="regul"></a>**_Regulator_** means the Clean Energy Regulator.
-
                     <a name="remov-unit"></a>**_removal unit_** means a removal unit issued in accordance with the relevant provisions of the Kyoto rules. It is immaterial whether the unit was issued in or out of Australia.
 
                     <a name="review-decision"></a>**_reviewable decision_** has the meaning given by section 82.
@@ -633,17 +633,17 @@ means the person in whose Registry account there is an entry for the unit.
 
                     <a name="voluntari-cancel-account"></a>**_voluntary cancellation account_** means a Commonwealth Registry account designated as the voluntary cancellation account for a particular commitment period.
 
-##### <a id="5"></a>5  Electronic notice transmitted to the Regulator
+##### <a id="5"></a>5  Electronic notice transmitted to the Administrator
 
-             (1)  For the purposes of this Act, a notice is an **_electronic notice_** **_transmitted to the Regulator_** if, and only if:
+             (1)  For the purposes of this Act, a notice is an **_electronic notice_** **_transmitted to the Administrator_** if, and only if:
 
-                     (a)  the notice is transmitted to the Regulator by means of an electronic communication; and
+                     (a)  the notice is transmitted to the Administrator by means of an electronic communication; and
 
-                     (b)  if the Regulator requires that the notice be transmitted, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the Regulator’s requirement has been met; and
+                     (b)  if the Administrator requires that the notice be transmitted, in accordance with particular information technology requirements, by means of a particular kind of electronic communication—the Administrator’s requirement has been met; and
 
                      (c)  the notice complies with regulations made for the purposes of subsection (2).
 
-             (2)  The regulations may make provision for or in relation to the security and authenticity of notices transmitted to the Regulator by means of an electronic communication.
+             (2)  The regulations may make provision for or in relation to the security and authenticity of notices transmitted to the Administrator by means of an electronic communication.
 
              (3)  Regulations made for the purposes of subsection (2) may deal with:
 
@@ -653,7 +653,7 @@ means the person in whose Registry account there is an entry for the unit.
 
              (4)  Subsection (3) does not limit subsection (2).
 
-             (5)  For the purposes of this Act, if a notice is transmitted to the Regulator by means of an electronic communication, the notice is taken to have been transmitted on the day on which the electronic communication is dispatched.
+             (5)  For the purposes of this Act, if a notice is transmitted to the Administrator by means of an electronic communication, the notice is taken to have been transmitted on the day on which the electronic communication is dispatched.
 
              (6)  Subsection (5) of this section has effect despite section 14A of the _Electronic Transactions Act 1999_.
 
@@ -685,7 +685,7 @@ means the person in whose Registry account there is an entry for the unit.
 
 Registry of Emissions Units is continued in existence.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator may, in
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may, in
 
 accordance with the regulations, open a Registry account in the name of a
 
@@ -693,13 +693,13 @@ person.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person may, in accordance
 
-with the regulations, request the Regulator to close the person’s Registry
+with the regulations, request the Administrator to close the person’s Registry
 
 account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator is empowered
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator is
 
-to make corrections to the Registry.</li>
+empowered to make corrections to the Registry.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A person may apply to the
 
@@ -719,7 +719,7 @@ Federal Court for the rectification of the Registry.</li>
 
 continues in existence as a register under this Act under the name Australian National Registry of Emissions Units.
 
-             (2)  The Registry is to be kept by the Regulator.
+             (2)  The Registry is to be kept by the Administrator.
 
 Note:          In this Act, **_Registry_** means the Australian National Registry of Emissions Units—see section 4.
 
@@ -735,7 +735,7 @@ Note:          In this Act, **_Registry_** means the Australia
 
 ##### <a id="10"></a>10  Registry accounts
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to open accounts within the Registry.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to open accounts within the Registry.
 
              (2)  An account opened under regulations made for the purposes of subsection (1) is to be opened in the name of a particular person.
 
@@ -749,7 +749,7 @@ Note:          In this Act, **_Registry_** means the Australia
 
                      (a)  requests to open Registry accounts;
 
-                     (b)  the approval by the Regulator of a form for such a request;
+                     (b)  the approval by the Administrator of a form for such a request;
 
                      (c)  information that must accompany such a request;
 
@@ -757,9 +757,9 @@ Note:          In this Act, **_Registry_** means the Australia
 
                      (e)  verification by statutory declaration of statements in such a request;
 
-                      (f)  empowering the Regulator:
+                      (f)  empowering the Administrator:
 
-                              (i)  to require a person who makes such a request to give the Regulator further information in connection with such a request; and
+                              (i)  to require a person who makes such a request to give the Administrator further information in connection with such a request; and
 
                              (ii)  if the person breaches the requirement—to refuse to consider the request, or to refuse to take any action, or any further action, in relation to the request.
 
@@ -773,7 +773,7 @@ Note 2:       See also section 16 (unilateral closure of Registry 
 
 ##### <a id="11"></a>11  Opening of Registry accounts—identification procedures
 
-             (1)  The regulations may prescribe identification procedures that must be carried out by the Regulator before the Regulator opens a Registry account in the name of the person.
+             (1)  The regulations may prescribe identification procedures that must be carried out by the Administrator before the Administrator opens a Registry account in the name of the person.
 
              (2)  The regulations may declare that a specified number is a **_transaction limit_** for the purposes of this section.
 
@@ -785,7 +785,7 @@ Note 2:       See also section 16 (unilateral closure of Registry 
 
                      (b)  may be expressed to apply to Registry accounts that are not subject to a transaction limit.
 
-             (5)  The regulations may provide that, if a Registry account is subject to a particular transaction limit, the Regulator must not:
+             (5)  The regulations may provide that, if a Registry account is subject to a particular transaction limit, the Administrator must not:
 
                      (a)  issue any Australian carbon credit units to the account; or
 
@@ -795,11 +795,11 @@ if doing so would result in the account having entries for a number of units tha
 
 ##### <a id="12"></a>12  Designation of Commonwealth Registry accounts
 
-                   The regulations may empower the Regulator to designate a Commonwealth Registry account as an account with a name specified in the regulations.
+                   The regulations may empower the Administrator to designate a Commonwealth Registry account as an account with a name specified in the regulations.
 
 ##### <a id="13"></a>13  Opening of new Commonwealth Registry accounts
 
-                   The regulations may empower the Minister to direct the Regulator to:
+                   The regulations may empower the Minister to direct the Administrator to:
 
                      (a)  open a Registry account in the name of the Commonwealth; and
 
@@ -813,11 +813,11 @@ if doing so would result in the account having entries for a number of units tha
 
 ##### <a id="15"></a>15  Voluntary closure of Registry accounts
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to close a Registry account kept in the name of a person.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to close a Registry account kept in the name of a person.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to close a Registry account unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to close a Registry account unless:
 
-                     (a)  the person, by written notice given to the Regulator, requests the Regulator to close the account; and
+                     (a)  the person, by written notice given to the Administrator, requests the Administrator to close the account; and
 
                      (b)  there are no entries for any Australian carbon credit units in the account; and
 
@@ -827,35 +827,35 @@ if doing so would result in the account having entries for a number of units tha
 
 ##### <a id="16"></a>16  Unilateral closure of Registry accounts etc.
 
-             (1)  The regulations may make provision for and in relation to empowering the Regulator to close a Registry account kept in the name of a person.
+             (1)  The regulations may make provision for and in relation to empowering the Administrator to close a Registry account kept in the name of a person.
 
-             (2)  Regulations made for the purposes of subsection (1) must not empower the Regulator to close a Registry account unless:
+             (2)  Regulations made for the purposes of subsection (1) must not empower the Administrator to close a Registry account unless:
 
                      (a)  the person has contravened, or is contravening, this Part or regulations made for the purposes of this Part; and
 
-                     (b)  at least 30 days before closing the account, the Regulator gives the person a written notice:
+                     (b)  at least 30 days before closing the account, the Administrator gives the person a written notice:
 
-                              (i)  stating that the Regulator proposes to close the account; and
+                              (i)  stating that the Administrator proposes to close the account; and
 
                              (ii)  setting out the effect of any regulations made for the purposes of subsections (3), (4), (5) and (6).
 
 Cancellation or transfer of units
 
-             (3)  The regulations may provide that, if immediately before the Regulator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for an Australian carbon credit unit in the account, the unit is cancelled.
+             (3)  The regulations may provide that, if immediately before the Administrator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for an Australian carbon credit unit in the account, the unit is cancelled.
 
-             (4)  The regulations may provide that, if immediately before the Regulator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a Kyoto unit in the account, the Regulator must transfer the unit to a voluntary cancellation account.
+             (4)  The regulations may provide that, if immediately before the Administrator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a Kyoto unit in the account, the Administrator must transfer the unit to a voluntary cancellation account.
 
-             (5)  The regulations may provide that, if immediately before the Regulator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a prescribed international unit in the account, the unit is cancelled.
+             (5)  The regulations may provide that, if immediately before the Administrator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a prescribed international unit in the account, the unit is cancelled.
 
 Refusal of request to open new Registry account
 
              (6)  The regulations may provide that, if:
 
-                     (a)  the Regulator has closed a person’s Registry account under regulations made for the purposes of subsection (1) of this section; and
+                     (a)  the Administrator has closed a person’s Registry account under regulations made for the purposes of subsection (1) of this section; and
 
-                     (b)  the person requests the Regulator, under regulations made for the purposes of subsection 10(1), to open a Registry account in the name of the person;
+                     (b)  the person requests the Administrator, under regulations made for the purposes of subsection 10(1), to open a Registry account in the name of the person;
 
-the Regulator must, under regulations made for the purposes of subsection 10(1), refuse the request.
+the Administrator must, under regulations made for the purposes of subsection 10(1), refuse the request.
 
 Record
 
@@ -891,9 +891,9 @@ Prescribed international units
 
                      (b)  the name of the person has changed; and
 
-                     (c)  the person applies in writing to the Regulator to have the new name substituted for the previous name in the Registry in relation to the account;
+                     (c)  the person applies in writing to the Administrator to have the new name substituted for the previous name in the Registry in relation to the account;
 
-the Regulator may make the necessary alterations in the Registry.
+the Administrator may make the necessary alterations in the Registry.
 
 ### Division 6—Correction and rectification of Registry
 
@@ -901,7 +901,7 @@ the Regulator may make the necessary alterations in the Registry.
 
 Power of correction
 
-             (1)  The Regulator may alter the Registry for the purposes of correcting:
+             (1)  The Administrator may alter the Registry for the purposes of correcting:
 
                      (a)  a clerical error or an obvious defect in the Registry; or
 
@@ -911,15 +911,15 @@ Power of correction
 
                      (d)  an entry wrongly removed from the Registry.
 
-             (2)  The Regulator may exercise the power conferred by subsection (1):
+             (2)  The Administrator may exercise the power conferred by subsection (1):
 
-                     (a)  on written application being made to the Regulator by a person; or
+                     (a)  on written application being made to the Administrator by a person; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
-             (3)  The Regulator must not exercise the power conferred by subsection (1) of this section in a manner contrary to a decision of the Federal Court in proceedings under section 22.
+             (3)  The Administrator must not exercise the power conferred by subsection (1) of this section in a manner contrary to a decision of the Federal Court in proceedings under section 22.
 
-          (3A)  The Regulator must not exercise the power conferred by subsection (1) of this section in a manner contrary to:
+          (3A)  The Administrator must not exercise the power conferred by subsection (1) of this section in a manner contrary to:
 
                      (a)  regulations made for the purposes of section 32A or 49A of this Act; or
 
@@ -927,69 +927,69 @@ Power of correction
 
 Publication of alteration
 
-             (4)  If the Regulator makes an alteration to the Registry under subsection (1), the Regulator must cause to be published on the Regulator’s website a notice setting out the details of the alteration.
+             (4)  If the Administrator makes an alteration to the Registry under subsection (1), the Administrator must cause to be published on the Administrator’s website a notice setting out the details of the alteration.
 
 Refusal
 
              (5)  If:
 
-                     (a)  the Regulator decides to refuse to alter the Registry under subsection (1); and
+                     (a)  the Administrator decides to refuse to alter the Registry under subsection (1); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="20"></a>20  General power of correction of Registry—Kyoto units
 
 Power of correction
 
-             (1)  The Regulator may make such alterations to the Registry as the Regulator considers appropriate for the purposes of ensuring that the relevant provisions of the Kyoto rules are complied with.
+             (1)  The Administrator may make such alterations to the Registry as the Administrator considers appropriate for the purposes of ensuring that the relevant provisions of the Kyoto rules are complied with.
 
-             (2)  The Regulator may exercise the power conferred by subsection (1):
+             (2)  The Administrator may exercise the power conferred by subsection (1):
 
-                     (a)  on written application being made to the Regulator by a person; or
+                     (a)  on written application being made to the Administrator by a person; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
 Publication of alteration
 
-             (3)  If the Regulator makes an alteration to the Registry under subsection (1), the Regulator must cause to be published on the Regulator’s website a notice setting out the details of the alteration.
+             (3)  If the Administrator makes an alteration to the Registry under subsection (1), the Administrator must cause to be published on the Administrator’s website a notice setting out the details of the alteration.
 
 Refusal
 
              (4)  If:
 
-                     (a)  the Regulator decides to refuse to alter the Registry under subsection (1); and
+                     (a)  the Administrator decides to refuse to alter the Registry under subsection (1); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="21"></a>21  General power of correction of Registry—prescribed international units
 
 Power of correction
 
-             (1)  The Regulator may make such alterations to the Registry as the Regulator considers appropriate for the purposes of ensuring that the relevant provisions of an international agreement, to the extent to which it relates to a prescribed international unit, are complied with.
+             (1)  The Administrator may make such alterations to the Registry as the Administrator considers appropriate for the purposes of ensuring that the relevant provisions of an international agreement, to the extent to which it relates to a prescribed international unit, are complied with.
 
-             (2)  The Regulator may exercise the power conferred by subsection (1):
+             (2)  The Administrator may exercise the power conferred by subsection (1):
 
-                     (a)  on written application being made to the Regulator by a person; or
+                     (a)  on written application being made to the Administrator by a person; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
 Publication of alteration
 
-             (3)  If the Regulator makes an alteration to the Registry under subsection (1), the Regulator must cause to be published on the Regulator’s website a notice setting out the details of the alteration.
+             (3)  If the Administrator makes an alteration to the Registry under subsection (1), the Administrator must cause to be published on the Administrator’s website a notice setting out the details of the alteration.
 
 Refusal
 
              (4)  If:
 
-                     (a)  the Regulator decides to refuse to alter the Registry under subsection (1); and
+                     (a)  the Administrator decides to refuse to alter the Registry under subsection (1); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="22"></a>22  Rectification of Registry
 
@@ -1009,9 +1009,9 @@ Application for rectification by aggrieved person
 
 the person may apply to the Federal Court for the rectification of the Registry.
 
-Application for rectification by the Regulator
+Application for rectification by the Administrator
 
-             (2)  If the Regulator is concerned about any of the following:
+             (2)  If the Administrator is concerned about any of the following:
 
                      (a)  the omission of an entry from the Registry;
 
@@ -1023,7 +1023,7 @@ Application for rectification by the Regulator
 
                      (e)  an entry wrongly removed from the Registry;
 
-the Regulator may apply to the Federal Court for the rectification of the Registry.
+the Administrator may apply to the Federal Court for the rectification of the Registry.
 
 Court orders
 
@@ -1039,21 +1039,21 @@ Court orders
 
              (5)  In proceedings under this section, the court may decide any question that it is necessary or expedient to decide in connection with the rectification of the Registry.
 
-Appearance of Regulator
+Appearance of Administrator
 
-             (6)  Notice of an application under subsection (1) must be given to the Regulator, whose representative:
+             (6)  Notice of an application under subsection (1) must be given to the Administrator, whose representative:
 
                      (a)  may appear and be heard; and
 
                      (b)  must appear if so directed by the court.
 
-Copy of order to be given to Regulator
+Copy of order to be given to Administrator
 
-             (7)  An office copy of an order made by the court may be given to the Regulator.
+             (7)  An office copy of an order made by the court may be given to the Administrator.
 
 Compliance with order
 
-             (8)  The Regulator must, on receipt of the order, rectify the Registry accordingly.
+             (8)  The Administrator must, on receipt of the order, rectify the Registry accordingly.
 
 ### Division 7—Miscellaneous
 
@@ -1089,11 +1089,11 @@ Note:          The same conduct may be an offence against both
 
 ##### <a id="25"></a>25  Evidentiary provisions
 
-             (1)  The Regulator may supply a copy of or extract from the Registry certified by the Regulator to be a true copy or true extract, as the case may be.
+             (1)  The Administrator may supply a copy of or extract from the Registry certified by the Administrator to be a true copy or true extract, as the case may be.
 
 Note:          See also section 155 of the _Evidence Act 1995_.
 
-             (3)  The Regulator may charge a fee specified in the regulations for supplying a certified copy or extract under subsection (1).
+             (3)  The Administrator may charge a fee specified in the regulations for supplying a certified copy or extract under subsection (1).
 
              (4)  A fee specified under subsection (3) must not be such as to amount to taxation.
 
@@ -1159,7 +1159,7 @@ Note:          Part 7 provides for pecuniary penalties for b
 
              (1)  The regulations may make further provision in relation to the Registry.
 
-             (2)  Regulations made for the purposes of subsection (1) may make provision requiring the holder of a Registry account to notify a matter to the Regulator.
+             (2)  Regulations made for the purposes of subsection (1) may make provision requiring the holder of a Registry account to notify a matter to the Administrator.
 
              (3)  Subsection (2) does not limit subsection (1).
 
@@ -1187,7 +1187,7 @@ Note:          Part 7 provides for pecuniary penalties for b
 
 ##### <a id="28"></a>28  Suspension of operation of the Registry
 
-             (1)  The Regulator may temporarily suspend the operation of the Registry if the Regulator is satisfied that:
+             (1)  The Administrator may temporarily suspend the operation of the Registry if the Administrator is satisfied that:
 
                      (a)  the suspension is required so that maintenance can be carried out; or
 
@@ -1199,15 +1199,15 @@ Note:          Part 7 provides for pecuniary penalties for b
 
                             (iii)  prevent, mitigate or minimise criminal activity involving the Registry.
 
-             (2)  If the Regulator suspends the operation of the Registry, the Regulator must publish a notice on the Regulator’s website informing the public of the suspension.
+             (2)  If the Administrator suspends the operation of the Registry, the Administrator must publish a notice on the Administrator’s website informing the public of the suspension.
 
-             (3)  If the Regulator suspends the operation of the Registry, the Regulator may defer taking action in relation to the Registry until the suspension ends.
+             (3)  If the Administrator suspends the operation of the Registry, the Administrator may defer taking action in relation to the Registry until the suspension ends.
 
-##### <a id="28A"></a>28A  Regulator may defer giving effect to a transfer instruction
+##### <a id="28A"></a>28A  Administrator may defer giving effect to a transfer instruction
 
 Scope
 
-             (1)  This section applies if the Regulator receives an instruction to transfer one or more:
+             (1)  This section applies if the Administrator receives an instruction to transfer one or more:
 
                      (a)  Australian carbon credit units; or
 
@@ -1217,9 +1217,9 @@ Scope
 
 to or from a Registry account kept in the name of a person.
 
-Regulator may defer giving effect to the instruction
+Administrator may defer giving effect to the instruction
 
-             (2)  The Regulator may defer giving effect to the instruction, for a period not exceeding 48 hours, if the Regulator is satisfied that it is prudent to do so in order to:
+             (2)  The Administrator may defer giving effect to the instruction, for a period not exceeding 48 hours, if the Administrator is satisfied that it is prudent to do so in order to:
 
                      (a)  ensure the integrity of the Registry; or
 
@@ -1229,7 +1229,7 @@ Regulator may defer giving effect to the instruction
 
 Prior notice not required
 
-             (3)  The Regulator is not required to give any prior notice of a deferral under subsection (2).
+             (3)  The Administrator is not required to give any prior notice of a deferral under subsection (2).
 
 Other provisions
 
@@ -1239,11 +1239,11 @@ Other provisions
 
                      (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
-##### <a id="28B"></a>28B  Regulator may refuse to give effect to a transfer instruction
+##### <a id="28B"></a>28B  Administrator may refuse to give effect to a transfer instruction
 
 Scope
 
-             (1)  This section applies if the Regulator receives an instruction to transfer one or more:
+             (1)  This section applies if the Administrator receives an instruction to transfer one or more:
 
                      (a)  Australian carbon credit units; or
 
@@ -1253,9 +1253,9 @@ Scope
 
 to or from a Registry account kept in the name of a person.
 
-Regulator may refuse to give effect to instruction
+Administrator may refuse to give effect to instruction
 
-             (2)  The Regulator may refuse to give effect to the instruction if the Regulator is satisfied that it is prudent to do so in order to:
+             (2)  The Administrator may refuse to give effect to the instruction if the Administrator is satisfied that it is prudent to do so in order to:
 
                      (a)  ensure the integrity of the Registry; or
 
@@ -1265,43 +1265,43 @@ Regulator may refuse to give effect to instruction
 
 Notification
 
-             (3)  As soon as practicable after the Regulator refuses, under subsection (2), to give effect to the instruction, the Regulator must give written notice of the refusal to:
+             (3)  As soon as practicable after the Administrator refuses, under subsection (2), to give effect to the instruction, the Administrator must give written notice of the refusal to:
 
                      (a)  in any case—the person; or
 
                      (b)  if the instruction was given by another person—that other person.
 
-             (4)  A notice given to a person under subsection (3) must invite the person to request the Regulator to cease to refuse to give effect to the instruction.
+             (4)  A notice given to a person under subsection (3) must invite the person to request the Administrator to cease to refuse to give effect to the instruction.
 
              (5)  A request under subsection (4) must:
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  set out the reason for the request.
 
-             (6)  If the person makes a request under subsection (4), the Regulator may, by written notice given to the person, require the person to give the Regulator, within the period specified in the notice, further information in connection with the request.
+             (6)  If the person makes a request under subsection (4), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
 
 Prior notice not required
 
-             (7)  The Regulator is not required to give any prior notice of a refusal under subsection (2).
+             (7)  The Administrator is not required to give any prior notice of a refusal under subsection (2).
 
 Decision on request
 
-             (8)  If the Regulator receives a request under subsection (4), the Regulator must:
+             (8)  If the Administrator receives a request under subsection (4), the Administrator must:
 
                      (a)  cease to refuse to give effect to the instruction; or
 
                      (b)  decide to continue to refuse to give effect to the instruction.
 
-             (9)  The Regulator must take all reasonable steps to ensure that a decision is made under subsection (8):
+             (9)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (8):
 
-                     (a)  if the Regulator requires the person to give further information under subsection (6) in relation to the request—within 7 days after the person gave the Regulator the information; or
+                     (a)  if the Administrator requires the person to give further information under subsection (6) in relation to the request—within 7 days after the person gave the Administrator the information; or
 
                      (b)  otherwise—within 7 days after the request was made.
 
-           (10)  As soon as practicable after the Regulator makes a decision under subsection (8), the Regulator must notify the person, in writing, of the decision.
+           (10)  As soon as practicable after the Administrator makes a decision under subsection (8), the Administrator must notify the person, in writing, of the decision.
 
 Other provisions
 
@@ -1329,15 +1329,15 @@ Scope
 
 Imposition of conditions
 
-             (2)  The Regulator may, by written instrument, impose conditions restricting or limiting the operation of the Registry account for a specified period.
+             (2)  The Administrator may, by written instrument, impose conditions restricting or limiting the operation of the Registry account for a specified period.
 
-             (3)  The Regulator may exercise the power conferred by subsection (2):
+             (3)  The Administrator may exercise the power conferred by subsection (2):
 
-                     (a)  on the Regulator’s own initiative; or
+                     (a)  on the Administrator’s own initiative; or
 
-                     (b)  on written request made to the Regulator by the person.
+                     (b)  on written request made to the Administrator by the person.
 
-             (4)  The Regulator must not make an instrument under subsection (2) unless the Regulator is satisfied that it is prudent to do so in order to:
+             (4)  The Administrator must not make an instrument under subsection (2) unless the Administrator is satisfied that it is prudent to do so in order to:
 
                      (a)  ensure the integrity of the Registry; or
 
@@ -1355,9 +1355,9 @@ Imposition of conditions
 
 Notification
 
-             (7)  As soon as practicable after making an instrument under subsection (2), the Regulator must give the person a copy of the instrument.
+             (7)  As soon as practicable after making an instrument under subsection (2), the Administrator must give the person a copy of the instrument.
 
-             (8)  If an instrument under subsection (2) is made on the Regulator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Regulator to:
+             (8)  If an instrument under subsection (2) is made on the Administrator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Administrator to:
 
                      (a)  revoke the instrument; or
 
@@ -1369,21 +1369,21 @@ Request
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  set out the reason for the request.
 
 Further information
 
-           (10)  If the person makes a request under subsection (8), the Regulator may, by written notice given to the person, require the person to give the Regulator, within the period specified in the notice, further information in connection with the request.
+           (10)  If the person makes a request under subsection (8), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
 
 Prior notice not required
 
-           (11)  The Regulator is not required to give any prior notice of a decision to make an instrument under subsection (2).
+           (11)  The Administrator is not required to give any prior notice of a decision to make an instrument under subsection (2).
 
 Decision in relation to instrument made on own initiative
 
-           (12)  If the Regulator receives a request under subsection (8), the Regulator must:
+           (12)  If the Administrator receives a request under subsection (8), the Administrator must:
 
                      (a)  if the request is to revoke the instrument:
 
@@ -1397,13 +1397,13 @@ Decision in relation to instrument made on own initiative
 
                              (ii)  decide not to vary the instrument.
 
-           (13)  The Regulator must take all reasonable steps to ensure that a decision is made under subsection (12):
+           (13)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (12):
 
-                     (a)  if the Regulator requires the person to give further information under subsection (10) in relation to the request—within 7 days after the person gave the Regulator the information; or
+                     (a)  if the Administrator requires the person to give further information under subsection (10) in relation to the request—within 7 days after the person gave the Administrator the information; or
 
                      (b)  otherwise—within 7 days after the request was made.
 
-           (14)  As soon as practicable after the Regulator makes a decision under subsection (12), the Regulator must notify the person, in writing, of the decision.
+           (14)  As soon as practicable after the Administrator makes a decision under subsection (12), the Administrator must notify the person, in writing, of the decision.
 
 Revocation of instrument made in response to a request
 
@@ -1413,7 +1413,7 @@ Revocation of instrument made in response to a request
 
                      (b)  the instrument was made in response to a request under paragraph (3)(b);
 
-the Regulator must, at the written request of the person, revoke the instrument.
+the Administrator must, at the written request of the person, revoke the instrument.
 
 Acts Interpretation Act
 
@@ -1435,15 +1435,15 @@ Scope
 
 Suspension
 
-             (2)  The Regulator may, by written instrument, suspend the Registry account for a specified period.
+             (2)  The Administrator may, by written instrument, suspend the Registry account for a specified period.
 
-             (3)  The Regulator may exercise the power conferred by subsection (2):
+             (3)  The Administrator may exercise the power conferred by subsection (2):
 
-                     (a)  on the Regulator’s own initiative; or
+                     (a)  on the Administrator’s own initiative; or
 
-                     (b)  on written request made to the Regulator by the person.
+                     (b)  on written request made to the Administrator by the person.
 
-             (4)  The Regulator must not make an instrument under subsection (2) unless the Regulator is satisfied that it is prudent to do so in order to:
+             (4)  The Administrator must not make an instrument under subsection (2) unless the Administrator is satisfied that it is prudent to do so in order to:
 
                      (a)  ensure the integrity of the Registry; or
 
@@ -1453,7 +1453,7 @@ Suspension
 
              (5)  If an account is suspended under subsection (2):
 
-                     (a)  the Regulator must not:
+                     (a)  the Administrator must not:
 
                               (i)  give effect to any instruction to transfer units to or from the Registry account; or
 
@@ -1463,9 +1463,9 @@ Suspension
 
 Notification
 
-             (6)  As soon as practicable after making an instrument under subsection (2), the Regulator must give the person a copy of the instrument.
+             (6)  As soon as practicable after making an instrument under subsection (2), the Administrator must give the person a copy of the instrument.
 
-             (7)  If an instrument under subsection (2) is made on the Regulator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Regulator to:
+             (7)  If an instrument under subsection (2) is made on the Administrator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Administrator to:
 
                      (a)  revoke the instrument; or
 
@@ -1477,21 +1477,21 @@ Request
 
                      (a)  be in writing; and
 
-                     (b)  be in a form approved, in writing, by the Regulator; and
+                     (b)  be in a form approved, in writing, by the Administrator; and
 
                      (c)  set out the reason for the request.
 
 Further information
 
-             (9)  If the person makes a request under subsection (7), the Regulator may, by written notice given to the person, require the person to give the Regulator, within the period specified in the notice, further information in connection with the request.
+             (9)  If the person makes a request under subsection (7), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
 
 Prior notice not required
 
-           (10)  The Regulator is not required to give any prior notice in relation to the decision to make an instrument under subsection (2).
+           (10)  The Administrator is not required to give any prior notice in relation to the decision to make an instrument under subsection (2).
 
 Decision in relation to instrument made on own initiative
 
-           (11)  If the Regulator receives a request under subsection (7), the Regulator must:
+           (11)  If the Administrator receives a request under subsection (7), the Administrator must:
 
                      (a)  if the request is to revoke the instrument:
 
@@ -1505,13 +1505,13 @@ Decision in relation to instrument made on own initiative
 
                              (ii)  decide not to vary the instrument.
 
-           (12)  The Regulator must take all reasonable steps to ensure that a decision is made under subsection (11):
+           (12)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (11):
 
-                     (a)  if the Regulator requires the person to give further information under subsection (9) in relation to the request—within 7 days after the person gave the Regulator the information; or
+                     (a)  if the Administrator requires the person to give further information under subsection (9) in relation to the request—within 7 days after the person gave the Administrator the information; or
 
                      (b)  otherwise—within 7 days after the request was made.
 
-           (13)  As soon as practicable after the Regulator makes a decision under subsection (11), the Regulator must notify the person, in writing, of the decision.
+           (13)  As soon as practicable after the Administrator makes a decision under subsection (11), the Administrator must notify the person, in writing, of the decision.
 
 Revocation of instrument made in response to a request
 
@@ -1521,7 +1521,7 @@ Revocation of instrument made in response to a request
 
                      (b)  the instrument was made in response to a request under paragraph (3)(b);
 
-the Regulator must, at the written request of the person, revoke the instrument.
+the Administrator must, at the written request of the person, revoke the instrument.
 
 Acts Interpretation Act
 
@@ -1561,11 +1561,11 @@ Object
 
 Issue
 
-             (2)  The Secretary may, by written notice given to the Regulator, direct the Regulator to issue to the Commonwealth, in accordance with the Kyoto rules, a specified number of assigned amount units for a specified commitment period.
+             (2)  The Secretary may, by written notice given to the Administrator, direct the Administrator to issue to the Commonwealth, in accordance with the Kyoto rules, a specified number of assigned amount units for a specified commitment period.
 
-             (3)  The Regulator must comply with a direction under subsection (2).
+             (3)  The Administrator must comply with a direction under subsection (2).
 
-             (4)  The Regulator is to issue an assigned amount unit by making an entry for the unit in a Commonwealth holding account.
+             (4)  The Administrator is to issue an assigned amount unit by making an entry for the unit in a Commonwealth holding account.
 
              (5)  This section does not, by implication, affect the validity of the issue of assigned amount units, where the units were issued before the commencement of this section under the executive power of the Commonwealth.
 
@@ -1577,11 +1577,11 @@ Object
 
 Issue
 
-             (2)  The Secretary may, by written notice given to the Regulator, direct the Regulator to issue to the Commonwealth, in accordance with the Kyoto rules, a specified number of removal units.
+             (2)  The Secretary may, by written notice given to the Administrator, direct the Administrator to issue to the Commonwealth, in accordance with the Kyoto rules, a specified number of removal units.
 
-             (3)  The Regulator must comply with a direction under subsection (2).
+             (3)  The Administrator must comply with a direction under subsection (2).
 
-             (4)  The Regulator is to issue a removal unit by making an entry for the unit in a Commonwealth holding account.
+             (4)  The Administrator is to issue a removal unit by making an entry for the unit in a Commonwealth holding account.
 
              (5)  This section does not, by implication, affect the validity of the issue of removal units, where the units were issued before the commencement of this section under the executive power of the Commonwealth.
 
@@ -1635,7 +1635,7 @@ Issue
 
 ##### <a id="34"></a>34  Domestic transfers of Kyoto units
 
-             (1)  If a person (the **_first person_**) is the registered holder of one or more Kyoto units, the person may, by electronic notice transmitted to the Regulator, instruct the Regulator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
+             (1)  If a person (the **_first person_**) is the registered holder of one or more Kyoto units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
                      (a)  a Registry account kept by another person; or
 
@@ -1651,9 +1651,9 @@ Issue
 
 Compliance with instruction
 
-             (3)  If the Regulator receives an instruction under subsection (1):
+             (3)  If the Administrator receives an instruction under subsection (1):
 
-                     (a)  if the Regulator is satisfied that giving effect to the instruction would breach:
+                     (a)  if the Administrator is satisfied that giving effect to the instruction would breach:
 
                               (i)  regulations made for the purposes of section 39 (Kyoto rules); or
 
@@ -1661,11 +1661,11 @@ Compliance with instruction
 
                             (iii)  regulations made for the purposes of section 44 (Commonwealth Registry accounts);
 
-                            the Regulator must, by written notice given to the first person, refuse to give effect to the instruction; and
+                            the Administrator must, by written notice given to the first person, refuse to give effect to the instruction; and
 
-                     (b)  if paragraph (a) does not apply—the Regulator must give effect to the instruction as soon as practicable after receiving it.
+                     (b)  if paragraph (a) does not apply—the Administrator must give effect to the instruction as soon as practicable after receiving it.
 
-             (4)  If the Regulator gives effect to an instruction under subsection (1), the Registry must set out a record of the instruction.
+             (4)  If the Administrator gives effect to an instruction under subsection (1), the Registry must set out a record of the instruction.
 
              (5)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
@@ -1677,7 +1677,7 @@ Compliance with instruction
 
                      (b)  a person (the **_first person_**) is the registered holder of one or more Kyoto units;
 
-the person may, by electronic notice transmitted to the Regulator, instruct the Regulator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
+the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
                      (c)  a foreign account kept by another person; or
 
@@ -1691,23 +1691,23 @@ the person may, by electronic notice transmitted to the Regulator, instruct the 
 
 Compliance with instruction
 
-             (3)  If the Regulator receives an instruction under subsection (1):
+             (3)  If the Administrator receives an instruction under subsection (1):
 
-                     (a)  if the Regulator is satisfied that giving effect to the instruction would breach:
+                     (a)  if the Administrator is satisfied that giving effect to the instruction would breach:
 
                               (i)  regulations made for the purposes of section 39 (Kyoto rules); or
 
                              (ii)  regulations made for the purposes of section 41 (commitment period reserve);
 
-                            the Regulator must, by written notice given to the first person, refuse to give effect to the instruction; and
+                            the Administrator must, by written notice given to the first person, refuse to give effect to the instruction; and
 
-                     (b)  if paragraph (a) does not apply—the Regulator must take such steps as are required by regulations made for the purposes of section 39.
+                     (b)  if paragraph (a) does not apply—the Administrator must take such steps as are required by regulations made for the purposes of section 39.
 
-             (4)  Regulations made for the purposes of section 39 may require the Regulator to remove the entry for the unit or units from the relevant Registry account.
+             (4)  Regulations made for the purposes of section 39 may require the Administrator to remove the entry for the unit or units from the relevant Registry account.
 
              (5)  Subsection (4) does not limit section 39.
 
-             (6)  If the Regulator takes steps under paragraph (3)(b) in relation to an instruction, the Registry must set out a record of the instruction.
+             (6)  If the Administrator takes steps under paragraph (3)(b) in relation to an instruction, the Registry must set out a record of the instruction.
 
              (7)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
@@ -1717,7 +1717,7 @@ Compliance with instruction
 
                      (a)  there is in force a declaration under section 37 that Australia is in compliance with the emissions trading eligibility requirements under the Kyoto rules; and
 
-                     (b)  the Regulator receives an instruction, in accordance with the relevant provisions of the Kyoto rules, for the transfer of a Kyoto unit from a foreign account; and
+                     (b)  the Administrator receives an instruction, in accordance with the relevant provisions of the Kyoto rules, for the transfer of a Kyoto unit from a foreign account; and
 
                      (c)  the Kyoto unit is not specified in the regulations as a unit that cannot be transferred to a Registry account; and
 
@@ -1725,11 +1725,11 @@ Compliance with instruction
 
                      (e)  making an entry for the Kyoto unit in the relevant Registry account would not breach regulations made for the purposes of section 44 (Commonwealth Registry accounts);
 
-the Regulator must make an entry for the Kyoto unit in the relevant Registry account.
+the Administrator must make an entry for the Kyoto unit in the relevant Registry account.
 
 Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
 
-             (2)  However, the Regulator may refuse to make an entry for the Kyoto unit in the relevant Registry account if the Regulator has reasonable grounds to suspect that the instruction is fraudulent.
+             (2)  However, the Administrator may refuse to make an entry for the Kyoto unit in the relevant Registry account if the Administrator has reasonable grounds to suspect that the instruction is fraudulent.
 
 ##### <a id="37"></a>37  Compliance by Australia with emissions trading eligibility requirements under the Kyoto rules
 
@@ -1765,7 +1765,7 @@ Scope
 
                      (b)  the unit was obtained by the person as the result of a transfer in accordance with regulations made for the purposes of subsection 157(2) of the _Carbon Credits (Carbon Farming Initiative) Act 2011_; and
 
-                     (c)  before 1 July 2013, the person, by electronic notice transmitted to the Regulator, instructs the Regulator to convert the unit to an emission reduction unit; and
+                     (c)  before 1 July 2013, the person, by electronic notice transmitted to the Administrator, instructs the Administrator to convert the unit to an emission reduction unit; and
 
                      (d)  the instruction sets out the account number of the Registry account; and
 
@@ -1777,7 +1777,7 @@ Scope
 
 Compliance with instruction
 
-             (2)  If the Regulator receives an instruction under paragraph (1)(c), the Regulator must take such steps as are required by the regulations to comply with the instruction.
+             (2)  If the Administrator receives an instruction under paragraph (1)(c), the Administrator must take such steps as are required by the regulations to comply with the instruction.
 
              (3)  The Registry must set out a record of the instruction under paragraph (1)(c).
 
@@ -1827,7 +1827,7 @@ Kyoto units for which carry‑over is permitted
 
                      (b)  the procedures for the carry‑over of such Kyoto units;
 
-                     (c)  requiring the Regulator to transfer from the relevant Registry account to a mandatory cancellation account any such Kyoto units that have not been carried over in accordance with those procedures.
+                     (c)  requiring the Administrator to transfer from the relevant Registry account to a mandatory cancellation account any such Kyoto units that have not been carried over in accordance with those procedures.
 
 Kyoto units for which carry‑over is not permitted
 
@@ -1835,7 +1835,7 @@ Kyoto units for which carry‑over is not permitted
 
                      (a)  the identification of Kyoto units for which carry‑over is not permitted;
 
-                     (b)  requiring the Regulator to transfer from the relevant Registry account to a mandatory cancellation account any such Kyoto units held in the Registry account at a time ascertained in accordance with the regulations.
+                     (b)  requiring the Administrator to transfer from the relevant Registry account to a mandatory cancellation account any such Kyoto units held in the Registry account at a time ascertained in accordance with the regulations.
 
              (3)  Regulations made for the purposes of paragraph (2)(a) must identify the following units issued in relation to the relevant commitment period as units for which carry‑over is not permitted:
 
@@ -1879,7 +1879,7 @@ Scope
 
 Transfer to mandatory cancellation account
 
-             (2)  The Regulator must, in accordance with the regulations, transfer the temporary certified emission reduction or long‑term certified emission reduction to a mandatory cancellation account.
+             (2)  The Administrator must, in accordance with the regulations, transfer the temporary certified emission reduction or long‑term certified emission reduction to a mandatory cancellation account.
 
 ##### <a id="43"></a>43  Replacement of long‑term certified emission reductions
 
@@ -1895,11 +1895,11 @@ Scope
 
 Transfer to mandatory cancellation account
 
-             (2)  The Regulator must, in accordance with the regulations, transfer the long‑term certified emission reduction to a mandatory cancellation account.
+             (2)  The Administrator must, in accordance with the regulations, transfer the long‑term certified emission reduction to a mandatory cancellation account.
 
 Replacement of long‑term certified emission reduction
 
-             (3)  For the purposes of this section, if a long‑term certified emission reduction relates to a clean development mechanism project, the **_replacement_** by the person of the long‑term certified emission reduction consists of instructing the Regulator under section 34 to transfer:
+             (3)  For the purposes of this section, if a long‑term certified emission reduction relates to a clean development mechanism project, the **_replacement_** by the person of the long‑term certified emission reduction consists of instructing the Administrator under section 34 to transfer:
 
                      (a)  an assigned amount unit; or
 
@@ -1983,11 +1983,11 @@ Scope
 
 Effect of transmission
 
-          (1A)  The transmission is of no force until the Regulator transfers the unit under subsection (7) or (8).
+          (1A)  The transmission is of no force until the Administrator transfers the unit under subsection (7) or (8).
 
 Declaration of transmission
 
-             (2)  The transferee must, within 90 days after the transmission, give the Regulator:
+             (2)  The transferee must, within 90 days after the transmission, give the Administrator:
 
                      (a)  a declaration of transmission; and
 
@@ -1995,19 +1995,19 @@ Declaration of transmission
 
              (3)  A declaration of transmission must be made in accordance with the regulations.
 
-             (4)  If the transferee does not already have a Registry account, the declaration of transmission must be accompanied by a request under regulations made for the purposes of subsection 10(1) for the Regulator to open a Registry account in the name of the transferee.
+             (4)  If the transferee does not already have a Registry account, the declaration of transmission must be accompanied by a request under regulations made for the purposes of subsection 10(1) for the Administrator to open a Registry account in the name of the transferee.
 
-             (5)  If the Regulator is satisfied that special circumstances warrant the extension of the 90‑day period mentioned in subsection (2), the Regulator may extend that period.
+             (5)  If the Administrator is satisfied that special circumstances warrant the extension of the 90‑day period mentioned in subsection (2), the Administrator may extend that period.
 
-             (6)  The Regulator may exercise the power conferred by subsection (5):
+             (6)  The Administrator may exercise the power conferred by subsection (5):
 
-                     (a)  on written application being made to the Regulator by the transferee; or
+                     (a)  on written application being made to the Administrator by the transferee; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
 Transfer of unit—transferee already has a Registry account
 
-             (7)  If the transferee already has a Registry account, the Regulator must, as soon as practicable after receiving the declaration of transmission, transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee.
+             (7)  If the transferee already has a Registry account, the Administrator must, as soon as practicable after receiving the declaration of transmission, transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee.
 
 Transfer of unit—transferee does not have a Registry account
 
@@ -2015,13 +2015,13 @@ Transfer of unit—transferee does not have a Registry account
 
                      (a)  the transferee does not already have a Registry account; and
 
-                     (b)  in accordance with the request under regulations made for the purposes of subsection 10(1), the Regulator has opened a Registry account in the name of the transferee;
+                     (b)  in accordance with the request under regulations made for the purposes of subsection 10(1), the Administrator has opened a Registry account in the name of the transferee;
 
-the Regulator must, as soon as practicable after opening the Registry account, transfer the unit from the relevant Registry account kept by the transferor to the Registry account kept by the transferee.
+the Administrator must, as soon as practicable after opening the Registry account, transfer the unit from the relevant Registry account kept by the transferor to the Registry account kept by the transferee.
 
 Record
 
-             (9)  If the Regulator transfers the unit under subsection (7) or (8), the Registry must set out a record of the declaration of transmission.
+             (9)  If the Administrator transfers the unit under subsection (7) or (8), the Registry must set out a record of the declaration of transmission.
 
 When the transferee is the Commonwealth
 
@@ -2037,15 +2037,15 @@ Notification
 
            (11)  If:
 
-                     (a)  the Regulator decides to:
+                     (a)  the Administrator decides to:
 
                               (i)  extend the 90‑day period mentioned in subsection (2); or
 
                              (ii)  refuse to extend the 90‑day period mentioned in subsection (2); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ## Part 4—Prescribed international units
 
@@ -2115,7 +2115,7 @@ about dealings with prescribed international units.</li>
 
 ##### <a id="51"></a>51  Domestic transfers of prescribed international units
 
-             (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Regulator, instruct the Regulator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
+             (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
                      (a)  a Registry account kept by another person; or
 
@@ -2133,19 +2133,19 @@ Compliance with instruction
 
              (3)  If:
 
-                     (a)  the Regulator receives an instruction under subsection (1); and
+                     (a)  the Administrator receives an instruction under subsection (1); and
 
                      (b)  the conditions (if any) specified in the regulations are satisfied;
 
-the Regulator must give effect to the instruction as soon as practicable after receiving it.
+the Administrator must give effect to the instruction as soon as practicable after receiving it.
 
-             (4)  If the Regulator gives effect to an instruction under subsection (1), the Registry must set out a record of the instruction.
+             (4)  If the Administrator gives effect to an instruction under subsection (1), the Registry must set out a record of the instruction.
 
              (5)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
 ##### <a id="52"></a>52  Outgoing international transfers of prescribed international units
 
-             (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Regulator, instruct the Regulator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
+             (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
                      (a)  a foreign account kept by another person; or
 
@@ -2161,17 +2161,17 @@ Compliance with instruction
 
              (3)  If:
 
-                     (a)  the Regulator receives an instruction under subsection (1); and
+                     (a)  the Administrator receives an instruction under subsection (1); and
 
                      (b)  the conditions (if any) specified in the regulations are satisfied;
 
-the Regulator must take such steps as are required by the regulations.
+the Administrator must take such steps as are required by the regulations.
 
-             (4)  Regulations made for the purposes of subsection (3) may require the Regulator to remove the entry for the unit or units from the relevant Registry account.
+             (4)  Regulations made for the purposes of subsection (3) may require the Administrator to remove the entry for the unit or units from the relevant Registry account.
 
              (5)  Subsection (4) does not limit subsection (3).
 
-             (6)  If the Regulator takes steps under subsection (3) in relation to an instruction, the Registry must set out a record of the instruction.
+             (6)  If the Administrator takes steps under subsection (3) in relation to an instruction, the Registry must set out a record of the instruction.
 
              (7)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
@@ -2179,15 +2179,15 @@ the Regulator must take such steps as are required by the regulations.
 
              (1)  If:
 
-                     (a)  the Regulator receives an instruction for the transfer of a prescribed international unit from a foreign account; and
+                     (a)  the Administrator receives an instruction for the transfer of a prescribed international unit from a foreign account; and
 
                      (b)  the conditions (if any) specified in the regulations are satisfied;
 
-the Regulator must make an entry for the prescribed international unit in the relevant Registry account.
+the Administrator must make an entry for the prescribed international unit in the relevant Registry account.
 
-             (2)  However, the Regulator may refuse to make an entry for the prescribed international unit in the relevant Registry account if the Regulator has reasonable grounds to suspect that the instruction is fraudulent.
+             (2)  However, the Administrator may refuse to make an entry for the prescribed international unit in the relevant Registry account if the Administrator has reasonable grounds to suspect that the instruction is fraudulent.
 
-             (3)  If the Regulator decides to refuse to make an entry for the prescribed international unit in the relevant Registry account, the Regulator must give written notice of the decision to the person who gave the instruction.
+             (3)  If the Administrator decides to refuse to make an entry for the prescribed international unit in the relevant Registry account, the Administrator must give written notice of the decision to the person who gave the instruction.
 
 ##### <a id="54"></a>54  A registered prescribed international unit is personal property for certain purposes
 
@@ -2241,11 +2241,11 @@ Scope
 
 Effect of transmission
 
-          (1A)  The transmission is of no force until the Regulator transfers the prescribed international unit under subsection (7) or (8).
+          (1A)  The transmission is of no force until the Administrator transfers the prescribed international unit under subsection (7) or (8).
 
 Declaration of transmission
 
-             (2)  The transferee must, within 90 days after the transmission, give the Regulator:
+             (2)  The transferee must, within 90 days after the transmission, give the Administrator:
 
                      (a)  a declaration of transmission; and
 
@@ -2253,19 +2253,19 @@ Declaration of transmission
 
              (3)  A declaration of transmission must be made in accordance with the regulations.
 
-             (4)  If the transferee does not already have a Registry account, the declaration of transmission must be accompanied by a request under regulations made for the purposes of subsection 10(1) for the Regulator to open a Registry account in the name of the transferee.
+             (4)  If the transferee does not already have a Registry account, the declaration of transmission must be accompanied by a request under regulations made for the purposes of subsection 10(1) for the Administrator to open a Registry account in the name of the transferee.
 
-             (5)  If the Regulator is satisfied that special circumstances warrant the extension of the 90‑day period mentioned in subsection (2), the Regulator may extend that period.
+             (5)  If the Administrator is satisfied that special circumstances warrant the extension of the 90‑day period mentioned in subsection (2), the Administrator may extend that period.
 
-             (6)  The Regulator may exercise the power conferred by subsection (5):
+             (6)  The Administrator may exercise the power conferred by subsection (5):
 
-                     (a)  on written application being made to the Regulator by the transferee; or
+                     (a)  on written application being made to the Administrator by the transferee; or
 
-                     (b)  on the Regulator’s own initiative.
+                     (b)  on the Administrator’s own initiative.
 
 Transfer of unit—transferee already has a Registry account
 
-             (7)  If the transferee already has a Registry account, the Regulator must, as soon as practicable after receiving the declaration of transmission, transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee.
+             (7)  If the transferee already has a Registry account, the Administrator must, as soon as practicable after receiving the declaration of transmission, transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee.
 
 Transfer of unit—transferee does not have a Registry account
 
@@ -2273,13 +2273,13 @@ Transfer of unit—transferee does not have a Registry account
 
                      (a)  the transferee does not already have a Registry account; and
 
-                     (b)  in accordance with the request under regulations made for the purposes of subsection 10(1), the Regulator has opened a Registry account in the name of the transferee;
+                     (b)  in accordance with the request under regulations made for the purposes of subsection 10(1), the Administrator has opened a Registry account in the name of the transferee;
 
-the Regulator must, as soon as practicable after opening the Registry account, transfer the unit from the relevant Registry account kept by the transferor to the Registry account kept by the transferee.
+the Administrator must, as soon as practicable after opening the Registry account, transfer the unit from the relevant Registry account kept by the transferor to the Registry account kept by the transferee.
 
 Record
 
-             (9)  If the Regulator transfers the unit under subsection (7) or (8), the Registry must set out a record of the declaration of transmission.
+             (9)  If the Administrator transfers the unit under subsection (7) or (8), the Registry must set out a record of the declaration of transmission.
 
 When the transferee is the Commonwealth
 
@@ -2295,15 +2295,15 @@ Notification
 
            (11)  If:
 
-                     (a)  the Regulator decides to:
+                     (a)  the Administrator decides to:
 
                               (i)  extend the 90‑day period mentioned in subsection (2); or
 
                              (ii)  refuse to extend the 90‑day period mentioned in subsection (2); and
 
-                     (b)  the Regulator made the decision in response to an application;
+                     (b)  the Administrator made the decision in response to an application;
 
-the Regulator must give written notice of the decision to the applicant.
+the Administrator must give written notice of the decision to the applicant.
 
 ##### <a id="57"></a>57  Regulations about prescribed international units
 
@@ -2317,9 +2317,9 @@ the Regulator must give written notice of the decision to the applicant.
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Regulator must publish
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator must
 
-certain information about:</li>
+publish certain information about:</li>
 
                (a)     the holders of Registry accounts; and
 
@@ -2331,23 +2331,23 @@ certain information about:</li>
 
 ##### <a id="59"></a>59  Information about holders of Registry accounts
 
-                   The Regulator must:
+                   The Administrator must:
 
-                     (a)  publish on the Regulator’s website:
+                     (a)  publish on the Administrator’s website:
 
                               (i)  the name of each person who has a Registry account; and
 
-                             (ii)  the person’s address last known to the Regulator; and
+                             (ii)  the person’s address last known to the Administrator; and
 
                      (b)  keep that information up‑to‑date.
 
 ##### <a id="60"></a>60  Kyoto information
 
-             (1)  The regulations may make provision for, or in relation to, requiring the Regulator to publish on the Regulator’s website information that a provision of the Kyoto rules requires Australia’s national registry to make publicly available.
+             (1)  The regulations may make provision for, or in relation to, requiring the Administrator to publish on the Administrator’s website information that a provision of the Kyoto rules requires Australia’s national registry to make publicly available.
 
-             (2)  The regulations may require the Regulator to:
+             (2)  The regulations may require the Administrator to:
 
-                     (a)  publish on the Regulator’s website the total number of specified Kyoto units for which there are entries in Registry accounts; and
+                     (a)  publish on the Administrator’s website the total number of specified Kyoto units for which there are entries in Registry accounts; and
 
                      (b)  keep that information up‑to‑date.
 
@@ -2355,9 +2355,9 @@ certain information about:</li>
 
 Kyoto units
 
-             (1)  The Regulator must:
+             (1)  The Administrator must:
 
-                     (a)  within 30 days after the commencement of this section, publish on the Regulator’s website a statement setting out a concise description of the characteristics of each of the following types of eligible international emissions units:
+                     (a)  within 30 days after the commencement of this section, publish on the Administrator’s website a statement setting out a concise description of the characteristics of each of the following types of eligible international emissions units:
 
                               (i)  certified emission reductions (other than a temporary certified emission reduction or a long‑term certified emission reduction);
 
@@ -2367,29 +2367,29 @@ Kyoto units
 
                      (b)  keep that statement up‑to‑date.
 
-             (2)  The Regulator must:
+             (2)  The Administrator must:
 
-                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (d) of the definition of **_eligible international emissions unit_** in section 4, publish on the Regulator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
+                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (d) of the definition of **_eligible international emissions unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
 
                      (b)  keep that statement up‑to‑date.
 
 Prescribed international units
 
-             (3)  The Regulator must:
+             (3)  The Administrator must:
 
-                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (a) of the definition of **_prescribed international unit_** in section 4, publish on the Regulator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
+                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (a) of the definition of **_prescribed international unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
 
                      (b)  keep that statement up‑to‑date.
 
-             (4)  The Regulator must:
+             (4)  The Administrator must:
 
-                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (b) of the definition of **_prescribed international unit_** in section 4, publish on the Regulator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
+                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (b) of the definition of **_prescribed international unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
 
                      (b)  keep that statement up‑to‑date.
 
 ##### <a id="62"></a>62  Information about number of voluntarily cancelled Kyoto units
 
-                   As soon as practicable after one or more Kyoto units held by a person are transferred under section 65 to a voluntary cancellation account, the Regulator must publish on the Regulator’s website:
+                   As soon as practicable after one or more Kyoto units held by a person are transferred under section 65 to a voluntary cancellation account, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -2397,7 +2397,7 @@ Prescribed international units
 
 ##### <a id="63"></a>63  Information about number of voluntarily cancelled prescribed international units
 
-                   As soon as practicable after one or more prescribed international units held by a person are cancelled under section 66, the Regulator must publish on the Regulator’s website:
+                   As soon as practicable after one or more prescribed international units held by a person are cancelled under section 66, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
@@ -2415,21 +2415,21 @@ Prescribed international units
 
 registered holder of one or more Kyoto units, the person may request the
 
-Regulator to transfer to a voluntary cancellation account any or all of those
+Administrator to transfer to a voluntary cancellation account any or all of
 
-units.</li>
+those units.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a person is the
 
 registered holder of one or more prescribed international units, the person may
 
-request the Regulator to cancel any or all of those units.</li>
+request the Administrator to cancel any or all of those units.</li>
 
 * * *
 
 ##### <a id="65"></a>65  Voluntary cancellation of Kyoto units
 
-             (1)  If a person is the registered holder of one or more Kyoto units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to transfer to a voluntary cancellation account any or all of those units.
+             (1)  If a person is the registered holder of one or more Kyoto units, the person may, by electronic notice transmitted to the Administrator, request the Administrator to transfer to a voluntary cancellation account any or all of those units.
 
              (2)  A notice under subsection (1) must:
 
@@ -2441,17 +2441,17 @@ request the Regulator to cancel any or all of those units.</li>
 
                      (a)  a person requests that a Kyoto unit be transferred to a voluntary cancellation account; and
 
-                     (b)  the Regulator is satisfied that the transfer of the unit from the person’s Registry account to the voluntary cancellation account would not breach regulations made for the purposes of section 39 (Kyoto rules); and
+                     (b)  the Administrator is satisfied that the transfer of the unit from the person’s Registry account to the voluntary cancellation account would not breach regulations made for the purposes of section 39 (Kyoto rules); and
 
-                     (c)  the Regulator is satisfied that the transfer of the unit from the person’s Registry account to the voluntary cancellation account would not breach regulations made for the purposes of section 41 (commitment period reserve);
+                     (c)  the Administrator is satisfied that the transfer of the unit from the person’s Registry account to the voluntary cancellation account would not breach regulations made for the purposes of section 41 (commitment period reserve);
 
-the Regulator must comply with the request as soon as practicable after receiving it.
+the Administrator must comply with the request as soon as practicable after receiving it.
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
 ##### <a id="66"></a>66  Voluntary cancellation of prescribed international units
 
-             (1)  If a person is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
+             (1)  If a person is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Administrator, request the Administrator to cancel any or all of those units.
 
              (2)  A notice under subsection (1) must:
 
@@ -2459,13 +2459,13 @@ the Regulator must comply with the request as soon as practicable after receivin
 
                      (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the prescribed international unit or units that are to be cancelled.
 
-             (3)  If the Regulator receives a notice under subsection (1) in relation to a prescribed international unit:
+             (3)  If the Administrator receives a notice under subsection (1) in relation to a prescribed international unit:
 
-                     (a)  if the regulations require the Regulator to cancel the unit—the Regulator must cancel the unit; and
+                     (a)  if the regulations require the Administrator to cancel the unit—the Administrator must cancel the unit; and
 
-                     (b)  if the regulations require the Regulator to take specified action in relation to the unit—the Regulator must take that action; and
+                     (b)  if the regulations require the Administrator to take specified action in relation to the unit—the Administrator must take that action; and
 
-                     (c)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
+                     (c)  the Administrator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit.
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
@@ -2539,7 +2539,7 @@ Civil enforcement of penalty
 
 ##### <a id="70"></a>70  Who may apply for a civil penalty order
 
-             (1)  Only the Regulator may apply for a civil penalty order.
+             (1)  Only the Administrator may apply for a civil penalty order.
 
              (2)  Subsection (1) does not exclude the operation of the _Director of Public Prosecutions Act 1983_.
 
@@ -2649,19 +2649,19 @@ State of mind
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of
 
-delegates of the Regulator may be reviewed by the Administrative Appeals
+delegates of the Administrator may be reviewed by the Administrative Appeals
 
-Tribunal following a process of internal reconsideration by the Regulator.</li>
+Tribunal following a process of internal reconsideration by the Administrator.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of the
 
-Regulator may be reviewed by the Administrative Appeals Tribunal.</li>
+Administrator may be reviewed by the Administrative Appeals Tribunal.</li>
 
 * * *
 
 ##### <a id="82"></a>82  Reviewable decisions
 
-                   For the purposes of this Act, each of the following decisions of the Regulator is a **_reviewable decision_**:
+                   For the purposes of this Act, each of the following decisions of the Administrator is a **_reviewable decision_**:
 
 <table>
 <colgroup>
@@ -2812,19 +2812,19 @@ Regulator may be reviewed by the Administrative Appeals Tribunal.</li>
   </td>
 </tr></table>
 
-##### <a id="83"></a>83  Applications for reconsideration of decisions made by delegates of the Regulator
+##### <a id="83"></a>83  Applications for reconsideration of decisions made by delegates of the Administrator
 
 Scope
 
-             (1)  This section applies to a reviewable decision if the decision is made by a delegate of the Regulator.
+             (1)  This section applies to a reviewable decision if the decision is made by a delegate of the Administrator.
 
 Application
 
-             (2)  A person affected by a reviewable decision who is dissatisfied with the decision may apply to the Regulator for the Regulator to reconsider the decision.
+             (2)  A person affected by a reviewable decision who is dissatisfied with the decision may apply to the Administrator for the Administrator to reconsider the decision.
 
              (3)  The application must:
 
-                     (a)  be in a form approved in writing by the Regulator; and
+                     (a)  be in a form approved in writing by the Administrator; and
 
                      (b)  set out the reasons for the application; and
 
@@ -2834,43 +2834,43 @@ Application
 
                      (a)  28 days after the applicant is informed of the decision; or
 
-                     (b)  if, either before or after the end of that period of 28 days, the Regulator extends the period within which the application may be made—the extended period.
+                     (b)  if, either before or after the end of that period of 28 days, the Administrator extends the period within which the application may be made—the extended period.
 
              (5)  An approved form of an application may provide for verification by statutory declaration of statements in applications.
 
              (6)  A fee specified under paragraph (3)(c) must not be such as to amount to taxation.
 
-##### <a id="84"></a>84  Reconsideration by the Regulator
+##### <a id="84"></a>84  Reconsideration by the Administrator
 
-             (1)  Upon receiving such an application, the Regulator must:
+             (1)  Upon receiving such an application, the Administrator must:
 
                      (a)  reconsider the decision; and
 
                      (b)  affirm, vary or revoke the decision.
 
-             (2)  The Regulator’s decision on reconsideration of a decision has effect as if it had been made under the provision under which the original decision was made.
+             (2)  The Administrator’s decision on reconsideration of a decision has effect as if it had been made under the provision under which the original decision was made.
 
-             (3)  The Regulator must give to the applicant a written notice stating the Regulator’s decision on the reconsideration.
+             (3)  The Administrator must give to the applicant a written notice stating the Administrator’s decision on the reconsideration.
 
-             (4)  Within 28 days after making the decision on the reconsideration, the Regulator must give the applicant a written statement of the Regulator’s reasons for the decision.
+             (4)  Within 28 days after making the decision on the reconsideration, the Administrator must give the applicant a written statement of the Administrator’s reasons for the decision.
 
 ##### <a id="85"></a>85  Deadline for reconsideration
 
-             (1)  The Regulator must make its decision on reconsideration of a decision within 90 days after receiving an application for reconsideration.
+             (1)  The Administrator must make his or her decision on reconsideration of a decision within 90 days after receiving an application for reconsideration.
 
-             (2)  The Regulator is taken, for the purposes of this Part, to have made a decision affirming the original decision if the Regulator has not informed the applicant of its decision on the reconsideration before the end of the period of 90 days.
+             (2)  The Administrator is taken, for the purposes of this Part, to have made a decision affirming the original decision if he or she has not informed the applicant of his or her decision on the reconsideration before the end of the period of 90 days.
 
 ##### <a id="86"></a>86  Review by the Administrative Appeals Tribunal
 
-             (1)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the Regulator has affirmed or varied the decision under section 84.
+             (1)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the Administrator has affirmed or varied the decision under section 84.
 
-             (2)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the decision was not made by a delegate of the Regulator.
+             (2)  Applications may be made to the Administrative Appeals Tribunal to review a reviewable decision if the decision was not made by a delegate of the Administrator.
 
 ## Part 9—Miscellaneous
 
 ##### <a id="87"></a>87  Computerised decision‑making
 
-             (1)  The Regulator may, by legislative instrument, arrange for the use, under the Regulator’s control, of computer programs for any purposes for which the Regulator may, or must, under this Act or the regulations:
+             (1)  The Administrator may, by legislative instrument, arrange for the use, under the Administrator’s control, of computer programs for any purposes for which the Administrator may, or must, under this Act or the regulations:
 
                      (a)  make a decision; or
 
@@ -2878,7 +2878,7 @@ Application
 
                      (c)  do anything else related to making a decision or exercising a power or complying with an obligation.
 
-             (2)  For the purposes of this Act and the regulations, the Regulator is taken to have:
+             (2)  For the purposes of this Act and the regulations, the Administrator is taken to have:
 
                      (a)  made a decision; or
 
@@ -2888,15 +2888,15 @@ Application
 
 that was made, exercised, complied with or done by the operation of a computer program under such an arrangement.
 
-##### <a id="88"></a>88  Regulator’s power to require further information
+##### <a id="88"></a>88  Administrator’s power to require further information
 
                    If:
 
-                     (a)  a person makes a request to the Regulator under the regulations; and
+                     (a)  a person makes a request to the Administrator under the regulations; and
 
-                     (b)  the Regulator exercises a power, under another provision of the regulations, to require the person to give the Regulator further information in connection with the request;
+                     (b)  the Administrator exercises a power, under another provision of the regulations, to require the person to give the Administrator further information in connection with the request;
 
-the Regulator:
+the Administrator:
 
                      (c)  must ensure that the further information is relevant to the matter to which the request relates; and
 
@@ -2936,9 +2936,9 @@ Note:          The expressions **_SES employee_** and **_actin
 
                      (d)  a delegate of the Secretary;
 
-                     (e)  the Regulator;
+                     (e)  the Administrator;
 
-                      (f)  a delegate of the Regulator;
+                      (f)  a delegate of the Administrator;
 
 is liable to an action or other proceeding for damages for, or in relation to, an act or matter in good faith done or omitted to be done:
 
@@ -2980,13 +2980,13 @@ conferred by this Act or the regulations.
 
              (2)  Subsection (1) has effect despite anything in subsection 14(2) of the _Legislative Instruments Act 2003_.
 
-             (3)  If the regulations make provision in relation to a matter by applying, adopting or incorporating, with or without modification, a matter contained in an instrument or writing, the Regulator must ensure that the text of the matter applied, adopted or incorporated is published on the Regulator’s website.
+             (3)  If the regulations make provision in relation to a matter by applying, adopting or incorporating, with or without modification, a matter contained in an instrument or writing, the Administrator must ensure that the text of the matter applied, adopted or incorporated is published on the Administrator’s website.
 
              (4)  Subsection (3) does not apply if the publication would infringe copyright.
 
 ##### <a id="96"></a>96  Administrative decisions under the regulations
 
-                   The regulations may make provision in relation to a matter by conferring a power to make a decision of an administrative character on the Regulator.
+                   The regulations may make provision in relation to a matter by conferring a power to make a decision of an administrative character on the Administrator.
 
 ##### <a id="97"></a>97  Regulations
 
@@ -3065,8 +3065,7 @@ Remainder: Royal Assent</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 5–7, 13, 15, 
-43–46, 215A): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1 (items 5–7, 13, 15, 43–46, 215A): \[ <i>see</i>s. 2(1), Note 2 and Table A] 
 Schedule 1 (items 229–256): \[ <i>see</i>Note 2] 
 Schedule 4: 8 Dec 2011</div>
   </td>
@@ -3108,23 +3107,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
+    <div>Ss. 3–5</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3140,50 +3123,10 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10–13</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3220,22 +3163,6 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 6</b></div>
   </td>
   <td>
@@ -3244,7 +3171,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 19, 20</div>
+    <div>S. 19</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3260,31 +3187,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 22(2)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 22(6), (7).</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
+    <div>Ss. 21, 22</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3316,7 +3219,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 26–28</div>
+    <div>S. 26</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3324,66 +3227,10 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 28A</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 28A(2)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
+    <div>Ss. 28A–28D</div>
   </td>
   <td>
     <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28B</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 28B(2)</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28B–28D</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3396,50 +3243,10 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 31, 32</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 32A</div>
   </td>
   <td>
     <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34–36</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42, 43</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3652,7 +3459,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 58–60</div>
+    <div>S. 58</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3668,7 +3475,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 61, 62</div>
+    <div>S. 61</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3700,7 +3507,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 64, 65</div>
+    <div>S. 64</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3724,22 +3531,6 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 8</b></div>
   </td>
   <td>
@@ -3748,87 +3539,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 81, 82</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 83</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 84</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 84–86</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 88</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 88</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 95, 96</div>
+    <div>S. 82</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3838,6 +3549,64 @@ Schedule 4: 8 Dec 2011</div>
 ### Note 2
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendments commence on 2 April 2012:
+
+## Schedule 1
+
+## 5  Section 4 (definition of _Administrator_)
+
+Repeal the definition.
+
+## 6  Section 4 (definition of _electronic notice transmitted to the Administrator_)
+
+Repeal the definition.
+
+## 7  Section 4
+
+Insert:
+
+                    <a name="electron-notic-transmit-regul"></a>**_electronic notice transmitted to the Regulator_** has the meaning given by section 5.
+
+## 13  Section 4
+
+Insert:
+
+                    <a name="regul"></a>**_Regulator_** means the Clean Energy Regulator.
+
+## 15  Section 5
+
+Omit “**_Administrator_**”, substitute “**_Regulator_**”.
+
+## 43  Subsection 85(1)
+
+Omit “his or her”, substitute “its”.
+
+## 44  Subsection 85(2)
+
+Omit “he or she”, substitute “the Regulator”.
+
+## 45  Subsection 85(2)
+
+Omit “his or her”, substitute “its”.
+
+## 46  Bulk amendments—references to the Administrator etc.
+
+The _Australian National Registry of Emissions Units Act 2011_ is amended as follows:
+
+                     (a)  by omitting “the Administrator” (wherever occurring) and substituting “the Regulator”;
+
+                     (b)  by omitting “The Administrator” (wherever occurring) and substituting “The Regulator”;
+
+                     (c)  by omitting “the Administrator’s” (wherever occurring) and substituting “the Regulator’s”;
+
+                     (d)  by omitting “The Administrator’s” (wherever occurring) and substituting “The Regulator’s”;
+
+                     (e)  by omitting “**Administrator**” (wherever occurring) and substituting “**Regulator**”;
+
+                      (f)  by omitting “_Administrator_” (wherever occurring) and substituting “_Regulator_”;
+
+                     (g)  by omitting “**Administrator’s**” (wherever occurring) and substituting “**Regulator’s**”.
 
 The following amendments commence on 1 July 2012:
 
@@ -4051,7 +3820,7 @@ Repeal the section, substitute:
 
 ##### <a id="58"></a>58  Simplified outline
 
-                   The following is a simplified outline of this Part:
+                   The following is a simplified outline of this Part:
 
 * * *
 
@@ -4205,13 +3974,15 @@ request the Regulator to cancel any or all of those units.</li>
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
-As at 1 May 2012 the amendments are not incorporated in this compilation.
+As at 9 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following provision commences on 2 April 2012:
 
 ## Schedule 1
 
