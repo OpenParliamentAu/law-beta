@@ -1,172 +1,134 @@
-![](http://www.comlaw.gov.au/Details/C2007C00443/Html/AusCentreForInertAgriRes82WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00104/Html/AusCentreForInertAgriRes82WD02_files/image002.gif)
 
-# Australian Centre for International Agricultural Research Act 1982
+# Australian Centre for International Agricultural Research Act 1982<o:p></o:p>
 
-**Act No. 9 of 1982 as amended**
+**Act No. 9 of 1982 as amended<o:p></o:p>**
 
-This compilation was prepared on 6 July 2007
- taking into account amendments up to Act No. 115 of 2007
+This compilation was prepared on 1 March 2005
+ taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+ on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+ Attorney-General’s Department, <st1:city><st1:place>Canberra</st1:place></st1:city>
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary<span style="mso-tab-count:1">                                                                                                                </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation<span style="mso-tab-count:1 dotted">                                                                                       </span>
 
-**Part II—The Australian Centre for International Agricultural Research**
+**Part II—The Australian Centre for International Agricultural Research<span style="mso-tab-count:1">  </span>**
 
-[4](#4).            Establishment of Centre
+[4](#4).            Establishment of Centre<span style="mso-tab-count:1 dotted">                                                                      </span>
 
-[4A](#4A).         The Chief Executive Officer
+[5](#5).            Functions<span style="mso-tab-count:1 dotted">                                                                                             </span>
 
-[5](#5).            Functions of the CEO
+[6](#6).            Powers of Centre<span style="mso-tab-count:1 dotted">                                                                                 </span>
 
-[5A](#5A).         Power of Minister to give directions
+**Part III—The Board of Management of the Centre<span style="mso-tab-count:1">                                           </span>**
 
-[6](#6).            Functions of the staff of the Centre
+[7](#7).            Establishment and functions of Board<span style="mso-tab-count:1 dotted">                                                 </span>
 
-**Part III—Commission for International Agricultural Research** 
+[8](#8).            Constitution of Board<span style="mso-tab-count:1 dotted">                                                                          </span>
 
-    **Division 1—The Commission**
+[9](#9).            Chair of Board<span style="mso-tab-count:1 dotted">                                                                                     </span>
 
-[7](#7).            Establishment of Commission
+[10](#10).          Acting members<span style="mso-tab-count:1 dotted">                                                                                   </span>
 
-[8](#8).            Constitution of the Commission
+[11](#11).          Termination of appointment<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[9](#9).            Functions of the Commission
+[12](#12).          Resignation<span style="mso-tab-count:1 dotted">                                                                                          </span>
 
-    **Division 2—The Commissioners**
+[13](#13).          Disclosure of interests<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[10](#10).          Appointment of Commissioners
+[14](#14).          Meetings of Board<span style="mso-tab-count:1 dotted">                                                                               </span>
 
-[11](#11).          Appointments to be part-time
+[15](#15).          Delegation by Board<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[12](#12).          Terms and conditions—general
+[16](#16).          Directions by Minister<span style="mso-tab-count:1 dotted">                                                                      </span>
 
-[13](#13).          Remuneration and allowances
+**Part IV—The Policy Advisory Council<span style="mso-tab-count: 1">                                                                     </span>**
 
-[14](#14).          Acting Commissioner
+[17](#17).          Establishment of Council<span style="mso-tab-count:1 dotted">                                                                   </span>
 
-[15](#15).          Leave of absence
+[18](#18).          Function of Council<span style="mso-tab-count:1 dotted">                                                                           </span>
 
-[16](#16).          Resignation
+[19](#19).          Constitution of Council<span style="mso-tab-count:1 dotted">                                                                     </span>
 
-[16A](#16A).       Termination of appointment
+[20](#20).          President to keep Council informed<span style="mso-tab-count:1 dotted">                                                  </span>
 
-[16B](#16B).       Disclosure of interests
+[21](#21).          Termination of appointment<span style="mso-tab-count:1 dotted">                                                             </span>
 
-    **Division 3—Meetings of the Commission**
+[22](#22).          Resignation<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-[16C](#16C).       Times and places of meetings
+[23](#23).          Meetings of Council<span style="mso-tab-count:1 dotted">                                                                          </span>
 
-[16D](#16D).       Notice of meetings
+**Part V—The Director of the Centre<span style="mso-tab-count:1">                                                                           </span>**
 
-[16E](#16E).        Who presides at meetings
+[24](#24).          Office of Director<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[16F](#16F).        Quorum
+[25](#25).          Terms and conditions of appointment etc <span style="mso-tab-count:1 dotted">                                        </span>
 
-[16G](#16G).       Voting at meetings
+[26](#26).          Leave of absence<span style="mso-tab-count:1 dotted">                                                                                </span>
 
-[16H](#16H).       Conduct of meetings
+[27](#27).          Termination of appointment<span style="mso-tab-count:1 dotted">                                                             </span>
 
-    **Division 4—Delegation by Commission**
+[28](#28).          Resignation<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-[16J](#16J).        Delegation by Commission
+[29](#29).          Acting Director<span style="mso-tab-count:1 dotted">                                                                                  </span>
 
-    **Division 5—Directions by the Minister**
+**Part VI—Staff and consultants<span style="mso-tab-count:1">                                                                                      </span>**
 
-[16K](#16K).       Directions by the Minister
+[30](#30).          Staff<span style="mso-tab-count:1 dotted">                                                                                                   </span>
 
-**Part IV—The Policy Advisory Council**
+[31](#31).          Arrangements relating to staff<span style="mso-tab-count:1 dotted">                                                           </span>
 
-[17](#17).          Establishment of Council
+[32](#32).          Engagement of consultants etc <span style="mso-tab-count:1 dotted">                                                          </span>
 
-[18](#18).          Function of Council
+**Part VII—Finance<span style="mso-tab-count:1">                                                                                                                 </span>**
 
-[19](#19).          Constitution of Council
+[33](#33).          Australian Centre for International Agricultural Research Account<span style="mso-tab-count:1 dotted">  </span>
 
-[19A](#19A).       Remuneration and allowances
+[34](#34).          Credit of amounts to Account<span style="mso-tab-count:1 dotted">                                                           </span>
 
-[20](#20).          President to keep Council informed
+[35](#35).          Debits from Account<span style="mso-tab-count:1 dotted">                                                                         </span>
 
-[21](#21).          Termination of appointment
+[36](#36).          Estimates<span style="mso-tab-count:1 dotted">                                                                                           </span>
 
-[22](#22).          Resignation
+[37](#37).          Limit on certain contracts<span style="mso-tab-count:1 dotted">                                                                  </span>
 
-[23](#23).          Meetings of Council
+[38](#38).          Exemption from taxation<span style="mso-tab-count:1 dotted">                                                                   </span>
 
-**Part V—The CEO**
+**Part VIII—Miscellaneous<span style="mso-tab-count:1">                                                                                                </span>**
 
-[24](#24).          Appointment of CEO
+[39](#39).          Annual report<span style="mso-tab-count:1 dotted">                                                                                    </span>
 
-[25](#25).          Appointment to be full-time
+[40](#40).          Remuneration<span style="mso-tab-count:1 dotted">                                                                                     </span>
 
-[26](#26).          Terms and conditions—general
+[41](#41).          Delegation by Minister<span style="mso-tab-count:1 dotted">                                                                      </span>
 
-[27](#27).          Remuneration and allowances
+[42](#42).          Regulations<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-[28](#28).          CEO not to engage in paid employment
-
-[29](#29).          Acting CEO
-
-[29A](#29A).       Leave of absence
-
-[29B](#29B).       Resignation
-
-[29C](#29C).       Termination of appointment
-
-[29D](#29D).       Disclosure of interests
-
-[29E](#29E).        CEO not subject to direction by the Commission on certain matters
-
-**Part VI—Staff and consultants**
-
-[30](#30).          Staff
-
-[31](#31).          Arrangements relating to staff
-
-[32](#32).          Consultants
-
-**Part VII—Finance**
-
-[33](#33).          Australian Centre for International Agricultural Research Account
-
-[34](#34).          Credits to the Account
-
-[35](#35).          Purposes of the Account
-
-**Part VIII—Miscellaneous**
-
-[39](#39).          Annual report
-
-[41](#41).          Delegation by Minister
-
-[42](#42).          Regulations
-
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
 ## An Act to encourage research for the purpose of identifying, or finding solutions to, agricultural problems of developing countries
 
-## Part I—Preliminary
+## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Australian Centre for International Agricultural Research Act 1982_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -174,27 +136,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="account"></a>**_Account_** means the account continued in existence by section 33.
+                    <a name="account"></a>**_Account_** means the account continued in existence by section 33.
 
                     <a name="agricultur-research"></a>**_agricultural research_** means scientific, technical, economic or socio-economic research in connection with agriculture, and includes the publication of reports, periodicals, books and papers in connection with any such research.
 
                     <a name="agricultur"></a>**_agriculture_** includes such uses of land as are prescribed for the purposes of this definition.
 
-                    <a name="annual-report"></a>**_annual report_** means the report referred to in section 39.
+                    <a name="annual-report"></a>**_annual report_** means the report referred to in section 39.
+
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
+
+                    <a name="appointed-member-board"></a>**_appointed member of the Board_** means a member of the Board appointed under paragraph 8(1)(d).
 
                     <a name="appointed-member-council"></a>**_appointed member of the Council_** means a member of the Council appointed under subsection 19(2).
 
+                    <a name="board"></a>**_Board_** means the Board of Management of the Centre.
+
                     <a name="centr"></a>**_Centre_** means the Australian Centre for International Agricultural Research.
 
-                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the Centre.
-
-                    <a name="chair"></a>**_Chair_** means the Chair of the Commission.
-
-                    <a name="commiss"></a>**_Commission_** means the Commission for International Agricultural Research established by section 7.
-
-                    <a name="commission"></a>**_Commissioner_** means a Commissioner of the Commission appointed in accordance with section 10 and includes the Chair.
+                    <a name="chair"></a>**_Chair_** means the Chair of the Board.
 
                     <a name="council"></a>**_Council_** means the Policy Advisory Council.
+
+                    <a name="director"></a>**_Director_** means the Director of the Centre.
 
                     <a name="institut"></a>**_institution_** includes:
 
@@ -214,27 +178,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="presid"></a>**_President_** means the President of the Council.
 
+<o:p> </o:p>
+
 ## Part II—The Australian Centre for International Agricultural Research
 
 ##### <a id="4"></a>4  Establishment of Centre
 
              (1)  There is hereby established a Centre by the name of the Australian Centre for International Agricultural Research.
 
-             (2)  The Centre consists of:
+             (2)  The Centre:
 
-                     (a)  the CEO; and
+                     (a)  is a body corporate;
 
-                     (b)  the staff of the Centre referred to in section 30.
+                     (b)  shall have a seal;
 
-##### <a id="4A"></a>4A  The Chief Executive Officer
+                     (c)  may acquire, hold and dispose of real and personal property; and
 
-                   There is to be a Chief Executive Officer of the Centre.
+                     (d)  may sue and be sued.
 
-Note:          Part V deals with the appointment and terms and conditions of the CEO.
+             (3)  The seal of the Centre shall be kept in such custody as the Board directs and shall not be used except as authorized by the Board.
 
-##### <a id="5"></a>5  Functions of the CEO
+             (4)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of the Centre appearing on a document and shall presume that the document was duly sealed.
 
-             (1)  The functions of the CEO are:
+##### <a id="5"></a>5  Functions
+
+             (1)  The functions of the Centre are:
 
                      (a)  to formulate programs and policies with respect to agricultural research for either or both of the following purposes:
 
@@ -242,225 +210,183 @@ Note:          Part V deals with the appointment and terms and
 
                              (ii)  finding solutions to agricultural problems of developing countries;
 
-                     (b)  to commission agricultural research by persons or institutions (whether the research is to be conducted in   Australia or overseas) in accordance with such programs and policies; and
+                     (b)  to commission agricultural research by persons or institutions (whether the research is to be conducted in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or overseas) in accordance with such programs and policies; and
 
                      (c)  to communicate to persons and institutions the results of such agricultural research; and
 
-                     (d)  to establish and fund training schemes related to the research programs referred to in paragraph (a); and
+                     (d)  to establish and fund training schemes related to its research programs; and
 
-                     (e)  to conduct and fund development activities related to those research programs; and
+                     (e)  to conduct and fund development activities related to its research programs; and
 
                       (f)  to fund international agricultural research centres.
 
-             (2)  The CEO must, in performing his or her functions with respect to agricultural research, have regard to the need for persons or institutions in developing countries to share in that research.
+             (2)  In performing its functions with respect to agricultural research, the Centre shall have regard to the need for persons or institutions in developing countries to share in that research.
 
-             (3)  Nothing in this section authorises, or permits, the CEO to carry out research on behalf of the Commonwealth.
+             (3)  Nothing in this section authorizes, or permits, the Centre to carry out research on its own behalf.
 
-             (4)  The CEO must, in performing his or her functions, comply with any directions given to the CEO under section 5A.
+##### <a id="6"></a>6  Powers of Centre
 
-##### <a id="5A"></a>5A  Power of Minister to give directions
+             (1)  Subject to this Act, the Centre has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-             (1)  The Minister may, by writing, give directions to the CEO with respect to the performance of the CEO’s functions under this Act (including in relation to the appropriate strategic direction the CEO should take in performing his or her functions).
+             (2)  Without limiting the generality of subsection (1), the powers of the Centre include power to accept gifts, devises, bequests or assignments made to the Centre whether on trust or otherwise, and whether unconditionally or subject to a condition and, if a gift, devise, bequest or assignment is accepted by the Centre on trust or subject to a condition, to act as trustee or to comply with the condition, as the case may be.
 
-Note:          A direction under this section is included in the annual report: see section 39.
+             (3)  Notwithstanding anything contained in this Act, any money or other property held by the Centre upon trust or accepted by the Centre subject to a condition shall not be dealt with except in accordance with the obligations of the Centre as trustee of the trust or as the person who has accepted the money or other property subject to the condition, as the case may be.
 
-             (2)  A direction given under subsection (1) is not a legislative instrument.
+<o:p> </o:p>
 
-##### <a id="6"></a>6  Functions of the staff of the Centre
+## Part III—The Board of Management of the Centre
 
-                   The functions of the staff of the Centre referred to in section 30 are to assist the CEO perform his or her functions.
+##### <a id="7"></a>7  Establishment and functions of Board
 
-## Part III—Commission for International Agricultural Research
+             (1)  There is hereby established a Board by the name of the Board of Management of the Australian Centre for International Agricultural Research.
 
-### Division 1—The Commission
+             (2)  The Board is, subject to and in accordance with any direction by the Minister under section 16, responsible for the conduct and control of the affairs of the Centre.
 
-##### <a id="7"></a>7  Establishment of Commission
+##### <a id="8"></a>8  Constitution of Board
 
-                   The Commission for International Agricultural Research is established by this section.
+             (1)  The Board shall consist of:
 
-##### <a id="8"></a>8  Constitution of the Commission
+                     (a)  the President of the Council;
 
-                   The Commission consists of:
+                     (b)  the Director;
 
-                     (a)  a Chair; and
+                     (d)  3 other members appointed by the Governor-General from among the members of the Council.
 
-                     (b)  6 other Commissioners.
+             (2)  An appointed member of the Board:
 
-##### <a id="9"></a>9  Functions of the Commission
+                     (a)  shall be appointed to be a part-time member; and
 
-                   The functions of the Commission are:
+                     (b)  holds office for such period, not exceeding 3 years, as is specified in the instrument of his appointment, unless he sooner ceases to be a member of the Council.
 
-                     (a)  to provide advice to the Minister in relation to the formulation of programs of the kind referred to in paragraph 5(1)(a); and
+             (3)  The performance of the functions, or the exercise of the powers, of the Board is not affected by reason only of there being a vacancy or vacancies in the membership of the Board.
 
-                     (b)  to provide advice to the Minister in relation to the funding of things referred to in paragraphs 5(1)(d), (e) and (f); and
+             (4)  The appointment of a person under paragraph (1)(d) is not invalidated, and shall not be called into question, by reason of a defect or irregularity in, or in connection with, his appointment.
 
-                     (c)  to provide advice to the Minister on program and funding priorities; and
+##### <a id="9"></a>9  Chair of Board
 
-                     (d)  to provide advice to the Minister, on the Minister’s request, on any other matter relating to this Act.
+             (1)  The Governor-General shall appoint one of the members of the Board to be the Chair of the Board.
 
-### Division 2—The Commissioners
+             (2)  A person appointed under subsection (1) holds office for such period, not exceeding 3 years, as is specified in the instrument of his appointment, unless he sooner ceases to be a member of the Board.
 
-##### <a id="10"></a>10  Appointment of Commissioners
+             (3)  The appointment of a person as the Chair of the Board is not invalidated, and shall not be called in question, by reason of a defect or irregularity in, or in connection with, his appointment.
 
-             (1)  A Commissioner is to be appointed by the Governor-General by written instrument.
+             (4)  The performance of the functions, or the exercise of the powers, of the Board is not affected by reason only of there being a vacancy in the office of Chair.
 
-             (2)  A Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+             (5)  The Chair of the Board may resign his office as Chair by writing signed by him and delivered to the Governor-General.
 
-             (3)  A person cannot be appointed as a Commissioner if the person is a member of the Council.
+##### <a id="10"></a>10  Acting members
 
-##### <a id="11"></a>11  Appointments to be part-time
+             (1)  The Minister may appoint a person to act as an appointed member of the Board:
 
-                   A Commissioner holds office on a part-time basis.
+                     (a)  during a vacancy in the office of such an appointed member, whether or not an appointment has previously been made to the office; or
 
-##### <a id="12"></a>12  Terms and conditions—general
+                     (b)  during any period, or during all periods, when such an appointed member is unable (whether on account of illness or otherwise) to attend meetings of the Board;
 
-                   A Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-##### <a id="13"></a>13  Remuneration and allowances
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (1)  A Commissioner is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Commissioner is to be paid the remuneration that is prescribed by the regulations.
+             (3)  The Minister may:
 
-             (2)  A Commissioner is to be paid the allowances that are prescribed by the regulations.
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as an appointed member; and
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+                     (b)  terminate such an appointment at any time.
 
-##### <a id="14"></a>14  Acting Commissioner
+             (4)  Where a person is acting as an appointed member of the Board in accordance with paragraph (1)(b) and the office of that appointed member becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-             (1)  The Minister may appoint a person to act as a Commissioner:
+             (5)  The appointment of a person to act as an appointed member of the Board ceases to have effect if he resigns his appointment by writing signed by him and delivered to the Minister.
 
-                     (a)  during a vacancy in the office of the Commissioner (whether or not an appointment has previously been made to the office); or
+             (6)  While a person is acting as an appointed member of the Board, he has and may exercise all the powers, and shall perform all the functions, of that member under this Act and, if that member is the Chair, of the Chair.
 
-                     (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+             (7)  The validity of anything done by a person purporting to act under subsection (1) shall not be called into question on the ground that the occasion for his appointment had not arisen, that there was a defect or irregularity in or in connection with his appointment, that the appointment had ceased to have effect or that the occasion for him to act had not arisen or had ceased.
 
-Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
+##### <a id="11"></a>11  Termination of appointment
 
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+             (1)  The Governor-General may terminate the appointment of an appointed member of the Board by reason of misbehaviour or physical or mental incapacity.
 
-                     (a)  the occasion for the appointment had not arisen; or
+             (2)  If an appointed member of the Board:
 
-                     (b)  there was a defect or irregularity in connection with the appointment; or
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his creditors or makes an assignment of his remuneration for their benefit;
 
-                     (c)  the appointment had ceased to have effect; or
+                     (b)  is absent, except on leave granted by the Board, from 3 consecutive meetings of the Board otherwise than on business of the Board undertaken with the approval of the Board; or
 
-                     (d)  the occasion to act had not arisen or had ceased.
+                     (c)  fails, without reasonable excuse, to comply with his obligations under section 13;
 
-##### <a id="15"></a>15  Leave of absence
+the Governor-General shall terminate the appointment of that member.
 
-             (1)  The Chair may grant leave of absence to any other Commissioner on the terms and conditions that the Chair determines.
+             (3)  For the purposes of subsection (2), an appointed member of the Board shall not be deemed to be present at a meeting of the Board by reason only of the presence at that meeting of a person appointed under section 10 to act as that appointed member.
 
-             (2)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
+##### <a id="12"></a>12  Resignation
 
-##### <a id="16"></a>16  Resignation
+                   An appointed member of the Board may resign his office by writing signed by him and delivered to the Governor-General.
 
-                   A Commissioner may resign his or her appointment by giving the Governor-General a written resignation.
+##### <a id="13"></a>13  Disclosure of interests
 
-##### <a id="16A"></a>16A  Termination of appointment
+             (1)  A member of the Board who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Board shall, as soon as possible after the relevant facts have come to his knowledge, disclose the nature of his interest at a meeting of the Board.
 
-             (1)  The Governor-General may terminate the appointment of a Commissioner for misbehaviour or physical or mental incapacity.
+             (2)  A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Board and the member shall not:
 
-             (2)  The Governor-General must terminate the appointment of a Commissioner if:
+                     (a)  be present during any deliberation of the Board with respect to that matter; or
 
-                     (a)  the Commissioner:
+                     (b)  take part in any decision of the Board with respect to that matter.
 
-                              (i)  becomes bankrupt; or
+             (3)  In this section, **_member of the Board_** includes a person who, by virtue of an appointment under section 10, is acting as an appointed member of the Board.
 
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+##### <a id="14"></a>14  Meetings of Board
 
-                            (iii)  compounds with his or her creditors; or
+             (1)  Subject to this section, meetings of the Board shall be held at such times and places as the Board determines.
 
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
+             (2)  The Chair of the Board may at any time convene a meeting of the Board.
 
-                     (b)  the Commissioner is absent, except on leave of absence, from 3 consecutive meetings of the Commission; or
+             (3)  At a meeting of the Board, 3 members constitute a quorum.
 
-                     (c)  the Commissioner fails, without reasonable excuse, to comply with section 16B.
+             (4)  The Chair shall preside at all meetings of the Board at which he is present.
 
-##### <a id="16B"></a>16B  Disclosure of interests
+             (5)  If the Chair is not present at a meeting of the Board, the members present shall elect one of their number to preside at that meeting.
 
-Disclosure to Minister
+             (6)  A question arising at a meeting of the Board shall be decided by a majority of the votes of the members of the Board present and voting.
 
-             (1)  A Commissioner must give written notice to the Minister of any direct or indirect pecuniary interest that the Commissioner has or acquires and that conflicts or could conflict with the proper performance of the Commissioner’s functions.
+             (7)  The member of the Board presiding at a meeting of the Board has a deliberative vote and, in the event of an equality of votes, has a casting vote.
 
-Disclosure to Commission
+             (8)  Subject to this section, the Board may regulate the conduct of proceedings at its meetings as it thinks fit, and shall keep minutes of those proceedings.
 
-             (2)  A Commissioner who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Commission must disclose the nature of the interest to a meeting of the Commission.
+             (9)  In this section, **_member of the Board_** includes:
 
-             (3)  The disclosure under subsection (2) must be made as soon as possible after the relevant facts have come to the Commissioner’s knowledge.
+                     (a)  a person who, by virtue of an appointment under section 10, is acting as an appointed member of the Board; and
 
-             (4)  The disclosure under subsection (2) must be recorded in the minutes of the meeting of the Commission.
+                     (b)  a person who, by virtue of an appointment under subsection 29(1), is acting as Director.
 
-             (5)  The Commissioner:
+##### <a id="15"></a>15  Delegation by Board
 
-                     (a)  must not be present during any deliberation by the Commission on the matter; and
+             (1)  Subject to this section, the Board may, by resolution, either generally or as otherwise provided by the resolution, delegate all or any of its powers under this Act (except this power of delegation) to a member of the Board or to a member of the staff of the Centre.
 
-                     (b)  must not take part in any decision of the Commission with respect to the matter.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Board.
 
-### Division 3—Meetings of the Commission
+             (3)  A delegate is, in the exercise of a power so delegated, subject to the directions of the Board.
 
-##### <a id="16C"></a>16C  Times and places of meetings
+             (4)  A delegation of a power under this section:
 
-             (1)  The Commission must hold such meetings as are necessary for the efficient performance of its functions.
+                     (a)  may be revoked by resolution of the Board (whether or not constituted by the persons constituting the Board at the time the power was delegated);
 
-             (2)  Meetings are to be held at the times and places determined by the Commission.
+                     (b)  does not prevent the exercise of the power by the Board; and
 
-             (3)  The Chair may call a meeting at any time.
+                     (c)  continues in force notwithstanding a change in the membership of the Board.
 
-             (4)  The Chair must ensure that at least 4 meetings are held each financial year.
+             (5)  Section 34A of the _Acts Interpretation Act 1901_ applies in relation to a delegation under this section as if the Board were a person.
 
-##### <a id="16D"></a>16D  Notice of meetings
+             (6)  A certificate signed by the Chair of the Board stating any matter with respect to the delegation of a power under this section is _prima facie_ evidence of that matter.
 
-                   Each Commissioner is entitled to receive reasonable notice of the Commission’s meetings.
+             (7)  A document purporting to be a certificate mentioned in subsection (6) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
 
-##### <a id="16E"></a>16E  Who presides at meetings
+##### <a id="16"></a>16  Directions by Minister
 
-             (1)  The Chair presides at all meetings of the Commission at which he or she is present.
+             (1)  The Minister may give directions in writing to the Board with respect to the exercise of its powers or the performance of its functions, including directions with respect to the commissioning of particular research.
 
-             (2)  If the Chair is not present at a meeting of the Commission, the Commissioners present must elect a Commissioner to preside at the meeting.
+             (2)  In giving a direction under subsection (1), the Minister shall have regard to any relevant advice that he may have received from the Council under section 18.
 
-##### <a id="16F"></a>16F  Quorum
+             (3)  The annual report of the Centre shall set out all directions given by the Minister under this section.
 
-                   At a meeting of the Commission, 4 Commissioners constitute a quorum.
-
-##### <a id="16G"></a>16G  Voting at meetings
-
-             (1)  A question arising at a meeting of the Commission is to be decided by a majority of the votes of the Commissioners present and voting.
-
-             (2)  The Commissioner presiding at a meeting of the Commission has a deliberative vote and, if necessary, also a casting vote.
-
-##### <a id="16H"></a>16H  Conduct of meetings
-
-             (1)  The Commission may, subject to this Division, regulate proceedings at its meetings as it considers appropriate.
-
-             (2)  The Commission must ensure that minutes of its meetings are kept.
-
-### Division 4—Delegation by Commission
-
-##### <a id="16J"></a>16J  Delegation by Commission
-
-             (1)  The Commission may, by resolution, delegate all or any of its functions or powers under this Act to a Commissioner.
-
-Note:          Sections 34AA to 34A of the _Acts Interpretation Act 1901_ contain provisions relating to delegations.
-
-             (2)  In exercising a delegated function or power, the delegate must comply with any written directions of the Commission.
-
-             (3)  The delegation continues in force despite a change in the constitution of the Commission.
-
-             (4)  The delegation may be varied or revoked by resolution of the Commission (whether or not there has been a change in the constitution of the Commission).
-
-             (5)  A certificate signed by the Chair stating any matter with respect to the delegation is prima facie evidence of the matter.
-
-             (6)  A document purporting to be a certificate mentioned in subsection (5) is taken to be such a certificate and to have been duly given unless the contrary is established.
-
-### Division 5—Directions by the Minister
-
-##### <a id="16K"></a>16K  Directions by the Minister
-
-             (1)  The Minister may, by writing, give directions to the Commission with respect to the performance of the Commission’s functions under this Act.
-
-             (2)  In giving a direction, the Minister must have regard to any relevant advice that he or she may have received from the Council under section 18.
-
-             (3)  The Minister must give a copy of a direction to the CEO.
-
-Note:          A direction under this section is included in the annual report: see section 39.
+<o:p> </o:p>
 
 ## Part IV—The Policy Advisory Council
 
@@ -480,9 +406,9 @@ Note:          A direction under this section is included in t
 
                              (ii)  finding solutions to agricultural problems of developing countries.
 
-             (2)  The Council shall provide advice under subsection (1) on such occasions as it thinks fit and on request by the Minister.
+             (2)  The Council shall provide advice under subsection (1) on such occasions as it thinks fit and on request by the Minister.
 
-             (3)  The Minister shall arrange for a copy of any advice provided by the Council to be furnished to the Commission.
+             (3)  The Minister shall arrange for a copy of any advice provided by the Council to be furnished to the Board.
 
 ##### <a id="19"></a>19  Constitution of Council
 
@@ -490,15 +416,15 @@ Note:          A direction under this section is included in t
 
                      (a)  a President;
 
+                     (b)  the Director;
+
                      (c)  the person for the time being occupying, or performing the duties of, the position in the Australian Public Service known as Director-General, Australian International Development Assistance Bureau, or a person nominated by the Director-General; and
 
                      (d)  not fewer than 9 nor more than 11 other members.
 
-             (2)  The members referred to in paragraphs (1)(a) and (d) shall be appointed by the Minister.
+             (2)  The members referred to in paragraphs (1)(a) and (d) shall be appointed by the Minister.
 
-          (2A)  A person cannot be appointed as a member of the Council if the person is a Commissioner.
-
-             (3)  In appointing persons under subsection (2):
+             (3)  In appointing persons under subsection (2):
 
                      (a)  the Minister shall have regard to:
 
@@ -506,7 +432,7 @@ Note:          A direction under this section is included in t
 
                              (ii)  the experience of the persons in organizing or conducting agricultural research; and
 
-                     (b)  the Minister shall ensure that a substantial number of the members of the Council are residents of countries other than Australia.
+                     (b)  the Minister shall ensure that a substantial number of the members of the Council are residents of countries other than <st1:country-region><st1:place>Australia</st1:place></st1:country-region>.
 
              (4)  An appointed member of the Council:
 
@@ -514,21 +440,15 @@ Note:          A direction under this section is included in t
 
                      (b)  holds office for such term, not exceeding 3 years, as is specified in the instrument of his appointment.
 
-             (5)  The performance of the functions of the Council is not affected by reason only of the existence of either or both of the following circumstances:
+             (5)  The performance of the functions of the Council is not affected by reason only of the existence of any or all of the following circumstances:
 
                      (a)  a vacancy in the office of President;
 
-                     (c)  the number of members referred to in paragraph (1)(d) having fallen below 9 for a period of not more than 3 months.
+                     (b)  a vacancy in the office of Director;
 
-             (6)  The appointment of a person under subsection (2) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in, or in connection with, his appointment.
+                     (c)  the number of members referred to in paragraph (1)(d) having fallen below 9 for a period of not more than 3 months.
 
-##### <a id="19A"></a>19A  Remuneration and allowances
-
-             (1)  An appointed member of the Council is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the appointed member of the Council is to be paid the remuneration that is prescribed by the regulations.
-
-             (2)  An appointed member of the Council is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (6)  The appointment of a person under subsection (2) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in, or in connection with, his appointment.
 
 ##### <a id="20"></a>20  President to keep Council informed
 
@@ -566,107 +486,81 @@ the Minister shall terminate the appointment of that member.
 
              (5)  At a meeting of the Council, 7 members constitute a quorum.
 
-             (6)  Subject to subsection (7), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
+             (6)  Subject to subsection (7), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 
              (7)  In the event of an equality of votes on a motion proposed at a meeting of the Council, the motion shall be taken not to be passed.
 
              (8)  Subject to this section, the Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall keep minutes of those proceedings.
 
-## Part V—The CEO
+             (9)  In this section, **_member_** includes a person who, by virtue of an appointment under subsection 29(1), is acting as Director.
 
-##### <a id="24"></a>24  Appointment of CEO
+<o:p> </o:p>
 
-             (1)  The CEO is to be appointed by the Governor-General by written instrument.
+## Part V—The Director of the Centre
 
-             (2)  The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 7 years.
+##### <a id="24"></a>24  Office of Director
 
-             (3)  A person may be appointed as both the CEO and a Commissioner (including the Chair).
+             (1)  There shall be a Director of the Centre, who shall be appointed by the Governor-General.
 
-##### <a id="25"></a>25  Appointment to be full-time
+             (2)  The Director is the chief executive officer of the Centre and shall, subject to and in accordance with the general directions of the Board, manage the affairs, and control the staff, of the Centre.
 
-                   The CEO holds office on a full-time basis.
+##### <a id="25"></a>25  Terms and conditions of appointment etc.
 
-##### <a id="26"></a>26  Terms and conditions—general
+             (1)  The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his appointment.
 
-                   The CEO holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General.
+##### <a id="26"></a>26  Leave of absence
 
-##### <a id="27"></a>27  Remuneration and allowances
+             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (1)  The CEO is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the CEO is to be paid the remuneration that is prescribed by the regulations.
+             (2)  The Minister may grant to the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-             (2)  The CEO is to be paid the allowances that are prescribed by the regulations.
+##### <a id="27"></a>27  Termination of appointment
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (1)  The Governor-General may terminate the appointment of the Director by reason of misbehaviour or physical or mental incapacity.
 
-##### <a id="28"></a>28  CEO not to engage in paid employment
+             (2)  If the Director:
 
-                   The CEO must not engage in paid employment outside the duties of his or her office without the Minister’s approval.
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his creditors or makes an assignment of his remuneration for their benefit;
 
-##### <a id="29"></a>29  Acting CEO
+                     (b)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-             (1)  The Minister may appoint a person to act as the CEO:
+                     (c)  engages in paid employment outside the duties of his office without the approval of the Minister;
 
-                     (a)  during a vacancy in the office of the CEO (whether or not an appointment has previously been made to the office); or
+the Governor-General shall terminate the appointment of the Director.
 
-                     (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+##### <a id="28"></a>28  Resignation
 
-Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
+                   The Director may resign his office by writing signed by him and delivered to the Governor-General.
 
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+##### <a id="29"></a>29  Acting Director
 
-                     (a)  the occasion for the appointment had not arisen; or
+             (1)  The Minister may appoint a person to act as Director:
 
-                     (b)  there was a defect or irregularity in connection with the appointment; or
+                     (a)  during a vacancy in that office, whether or not an appointment has previously been made to that office; or
 
-                     (c)  the appointment had ceased to have effect; or
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the functions of his office;
 
-                     (d)  the occasion to act had not arisen or had ceased.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-##### <a id="29A"></a>29A  Leave of absence
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (1)  The CEO has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (3)  The Minister may:
 
-             (2)  The Minister may grant the CEO leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director; and
 
-##### <a id="29B"></a>29B  Resignation
+                     (b)  terminate such an appointment at any time.
 
-                   The CEO may resign his or her appointment by giving the Governor-General a written resignation.
+             (4)  Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-##### <a id="29C"></a>29C  Termination of appointment
+             (5)  The appointment of a person to act as Director ceases to have effect if he resigns his appointment by writing signed by him and delivered to the Minister.
 
-             (1)  The Governor-General may terminate the appointment of the CEO for misbehaviour or physical or mental incapacity.
+             (6)  While a person is acting as Director, he has and may exercise all the powers, and shall perform all the functions, of the Director under this Act.
 
-             (2)  The Governor-General must terminate the appointment of the CEO if:
+             (7)  The appointment of a person under subsection (1) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his appointment.
 
-                     (a)  the CEO:
+             (8)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his appointment had not arisen, that there was a defect or irregularity in or in connection with his appointment, that the appointment had ceased to have effect or that the occasion for him to act had not arisen or had ceased.
 
-                              (i)  becomes bankrupt; or
-
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the CEO is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
-
-                     (c)  the CEO engages, except with the Minister’s approval, in paid employment outside the duties of his or her office; or
-
-                     (d)  the CEO fails, without reasonable excuse, to comply with section 29D.
-
-##### <a id="29D"></a>29D  Disclosure of interests
-
-                   The CEO must give written notice to the Minister of any direct or indirect pecuniary interest that the CEO has or acquires and that conflicts or could conflict with the proper performance of the CEO’s functions.
-
-##### <a id="29E"></a>29E  CEO not subject to direction by the Commission on certain matters
-
-                   To avoid doubt, the CEO is not subject to direction by the Commission in relation to the CEO’s performance of functions, or exercise of powers, under:
-
-                     (a)  the _Financial Management and Accountability Act 1997_; or
-
-                     (b)  the _Public Service Act 1999_;
-
-in relation to the Centre.
+<o:p> </o:p>
 
 ## Part VI—Staff and consultants
 
@@ -676,19 +570,23 @@ in relation to the Centre.
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
-                     (a)  the CEO and the APS employees assisting the CEO together constitute a Statutory Agency; and
+                     (a)  the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
 
-                     (b)  the CEO is the Head of that Statutory Agency.
+                     (b)  the Director is the Head of that Statutory Agency.
 
 ##### <a id="31"></a>31  Arrangements relating to staff
 
-             (1)  The CEO may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_) or with a body (other than a company or an association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the Agency or body to be made available to the CEO in relation to the CEO’s functions.
+             (1)  The Board may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_) or with a body (other than a company or an association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the Agency or body to be made available to the Centre.
 
-             (2)  The CEO may enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the CEO in relation to the CEO’s functions.
+             (2)  The Board may enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Centre.
 
-##### <a id="32"></a>32  Consultants
+##### <a id="32"></a>32  Engagement of consultants etc.
 
-                   The CEO may, on behalf of the Commonwealth, engage consultants to perform services for the CEO related to the CEO’s functions.
+             (1)  The Director may, on behalf of the Centre, engage persons having suitable qualifications and experience as consultants to the Centre.
+
+             (2)  The terms and conditions of the engagement of a person under subsection (1) are such as are determined by the Board.
+
+<o:p> </o:p>
 
 ## Part VII—Finance
 
@@ -700,61 +598,91 @@ Note:          The Account was established by subsection 5(3) 
 
              (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
 
-##### <a id="34"></a>34  Credits to the Account
+##### <a id="34"></a>34  Credit of amounts to Account
 
-                   There must be credited to the Account amounts equal to the following:
-
-                     (a)  all money appropriated by the Parliament for the purposes of the Account;
-
-                     (b)  other money received by the Commonwealth in relation to the performance of the functions of the CEO;
-
-                     (c)  amounts of any gifts given or bequests made for the purposes of the Account.
+                   There must be credited to the Account amounts equal to money from time to time received by the Centre.
 
 Note:          An Appropriation Act provides for amounts to be credited to a Special Account if any of the purposes of the Account is a purpose that is covered by an item in the Appropriation Act.
 
-##### <a id="35"></a>35  Purposes of the Account
+##### <a id="35"></a>35  Debits from Account
 
-             (1)  This section sets out the purposes of the Account.
+                   Amounts standing to the credit of the Account may be debited for the following purposes:
 
-             (2)  Amounts standing to the credit of the Account may be debited for the following purposes:
-
-                     (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Commonwealth in the performance of the functions of the CEO or of the staff of the Centre referred to in section 30;
+                     (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Centre in the performance of its functions or the exercise of its powers under this Act;
 
                      (b)  in payment of any remuneration and allowances payable to any person under this Act.
+
+##### <a id="36"></a>36  Estimates
+
+             (1)  The Centre shall prepare estimates, in such form as the Minister directs, of the expenditure of the Centre out of amounts standing to the credit of the Account for each financial year and, if the Minister so directs, for any other period specified by the Minister, and shall submit those estimates to the Minister not later than such date as the Minister directs.
+
+             (2)  Amounts must not be debited from the Account otherwise than in accordance with estimates of expenditure approved by the Minister.
+
+##### <a id="37"></a>37  Limit on certain contracts
+
+             (1)  The Centre must not enter a contract for the carrying out of agricultural research unless:
+
+                     (a)  the Minister approves the contract; or
+
+                     (b)  the contract’s value does not exceed the amount (if any) determined in writing by the Minister for the purposes of this paragraph.
+
+             (2)  A determination made by the Minister under paragraph (1)(b) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+##### <a id="38"></a>38  Exemption from taxation
+
+                   The Centre is not subject to taxation under a law of the Commonwealth or of a State or Territory.
+
+<o:p> </o:p>
 
 ## Part VIII—Miscellaneous
 
 ##### <a id="39"></a>39  Annual report
 
-             (1)  As soon as practicable after 30 June in each year, the CEO must prepare and give to the Minister a report of the operations of the Centre during the year.
+             (1)  As soon as practicable after 30 June in each year, the Board must prepare and give to the Minister a report of the operations of the Centre during the year.
 
              (2)  The report must include:
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_; and
-
-                     (c)  particulars of all directions given during the year by the Minister to the CEO under section 5A; and
-
-                     (d)  particulars of all directions given during the year by the Minister to the Commission under section 16K.
+                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
 
              (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
 
+##### <a id="40"></a>40  Remuneration
+
+             (1)  This section applies to the following persons:
+
+                     (a)  appointed members of the Council who are not appointed members of the Board;
+
+                     (b)  appointed members of the Board;
+
+                     (c)  the Director.
+
+             (2)  A person to whom this section applies shall be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, the person shall be paid such remuneration as is prescribed.
+
+             (3)  A person to whom this section applies shall be paid such allowances as are prescribed.
+
+             (4)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
 ##### <a id="41"></a>41  Delegation by Minister
 
-                   The Minister may, by writing, delegate to any person all or any of the Minister’s functions or powers under this Act.
+             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to the Board or a person any of his powers under this Act, other than this power of delegation.
+
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
+
+             (3)  A delegation under this section does not prevent the exercise of a power by the Minister.
 
 ##### <a id="42"></a>42  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
-# Notes to the _Australian Centre for International Agricultural Research Act 1982_
+# Notes to the _<span style="mso-no-proof:yes">Australian Centre for International Agricultural Research Act 1982</span>_
 
 ### Note 1
 
-The _Australian Centre for International Agricultural Research Act 1982_ as shown in this compilation comprises Act No. 9, 1982 amended as indicated in the Tables below.
+The _Australian Centre for International Agricultural Research Act 1982_ as shown in this compilation comprises Act No. 9, 1982 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date month="10" day="1" year="2001">1 October  2001</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -771,21 +699,21 @@ All relevant information pertaining to application, saving or transitional provi
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td colspan="2">
       <div>Number 
-and year</div>
+and year <o:p></o:p> </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
@@ -797,27 +725,27 @@ of Assent</div>
     <div>9, 1982</div>
   </td>
   <td>
-    <div>30 Mar 1982</div>
+    <div><st1:date month="3" day="30" year="1982">30 Mar 1982</st1:date></div>
   </td>
   <td>
-    <div>3 June 1982 ( <i>see Gazette</i>1982, No. G22)</div>
+    <div><st1:date month="6" day="3" year="1982">3 June 1982</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1982, No. G22)</div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
   </td>
   <td colspan="2">
     <div>39, 1983</div>
   </td>
   <td>
-    <div>20 June 1983</div>
+    <div><st1:date month="6" day="20" year="1983">20 June 1983</st1:date></div>
   </td>
   <td>
-    <div>S. 3: 18 July 1983 <i>(a)</i></div>
+    <div>S. 3: <st1:date month="7" day="18" year="1983">18 July 1983</st1:date> <i style="mso-bidi-font-style:normal">(a)</i></div>
   </td>
   <td>
     <div>S. 7(1)</div>
@@ -825,16 +753,16 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
   </td>
   <td colspan="2">
     <div>91, 1983</div>
   </td>
   <td>
-    <div>22 Nov 1983</div>
+    <div><st1:date month="11" day="22" year="1983">22 Nov 1983</st1:date></div>
   </td>
   <td>
-    <div>S. 3: 20 Dec 1983 <i>(b)</i></div>
+    <div>S. 3: <st1:date month="12" day="20" year="1983">20 Dec 1983</st1:date> <i style="mso-bidi-font-style:normal">(b)</i></div>
   </td>
   <td>
     <div>S. 6(1)</div>
@@ -848,10 +776,10 @@ of Assent</div>
     <div>63, 1984</div>
   </td>
   <td>
-    <div>25 June 1984</div>
+    <div><st1:date month="6" day="25" year="1984">25 June 1984</st1:date></div>
   </td>
   <td>
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(c)</i></div>
+    <div>S. 151(1): <st1:date month="7" day="1" year="1984">1 July 1984</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1984, No. S245) <i style="mso-bidi-font-style:normal">(c)</i></div>
   </td>
   <td>
     <div>S. 151(9)</div>
@@ -865,10 +793,10 @@ of Assent</div>
     <div>166, 1985</div>
   </td>
   <td>
-    <div>11 Dec 1985</div>
+    <div><st1:date month="12" day="11" year="1985">11 Dec 1985</st1:date></div>
   </td>
   <td>
-    <div>S. 45: 8 Jan 1986 <i>(d)</i></div>
+    <div>S. 45: <st1:date month="1" day="8" year="1986">8 Jan 1986</st1:date> <i style="mso-bidi-font-style:normal">(d)</i></div>
   </td>
   <td>
     <div>S. 45(2)</div>
@@ -882,10 +810,10 @@ of Assent</div>
     <div>141, 1987</div>
   </td>
   <td>
-    <div>18 Dec 1987</div>
+    <div><st1:date month="12" day="18" year="1987">18 Dec 1987</st1:date></div>
   </td>
   <td>
-    <div>S. 3: Royal Assent <i>(e)</i></div>
+    <div>S. 3: Royal Assent <i style="mso-bidi-font-style:normal">(e)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -899,11 +827,11 @@ of Assent</div>
     <div>122, 1991</div>
   </td>
   <td>
-    <div>27 June 1991</div>
+    <div><st1:date month="6" day="27" year="1991">27 June 1991</st1:date></div>
   </td>
   <td>
-    <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
-Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
+    <div>Ss. 4(1), 10(b) and 15-20: <st1:date month="12" day="1" year="1988">1 Dec 1988</st1:date> 
+Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -918,10 +846,10 @@ Remainder: Royal Assent</div>
     <div>170, 1992</div>
   </td>
   <td>
-    <div>11 Dec 1992</div>
+    <div><st1:date month="12" day="11" year="1992">11 Dec 1992</st1:date></div>
   </td>
   <td>
-    <div>11 Dec 1992</div>
+    <div><st1:date month="12" day="11" year="1992">11 Dec 1992</st1:date></div>
   </td>
   <td>
     <div>—</div>
@@ -935,10 +863,10 @@ Remainder: Royal Assent</div>
     <div>43, 1996</div>
   </td>
   <td>
-    <div>25 Oct 1996</div>
+    <div><st1:date month="10" day="25" year="1996">25 Oct 1996</st1:date></div>
   </td>
   <td>
-    <div>Schedule 4 (item 20): Royal Assent <i>(f)</i></div>
+    <div>Schedule 4 (item 20): Royal Assent <i style="mso-bidi-font-style: normal">(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -952,10 +880,10 @@ Remainder: Royal Assent</div>
     <div>152, 1997</div>
   </td>
   <td>
-    <div>24 Oct 1997</div>
+    <div><st1:date month="10" day="24" year="1997">24 Oct 1997</st1:date></div>
   </td>
   <td>
-    <div>Schedule 2 (items 216-225): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
+    <div>Schedule 2 (items 216-225): <st1:date month="1" day="1" year="1998">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style:normal">(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -969,10 +897,10 @@ Remainder: Royal Assent</div>
     <div>146, 1999</div>
   </td>
   <td>
-    <div>11 Nov 1999</div>
+    <div><st1:date month="11" day="11" year="1999">11 Nov 1999</st1:date></div>
   </td>
   <td>
-    <div>Schedule 1 (items 144-149): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    <div>Schedule 1 (items 144-149): <st1:date month="12" day="5" year="1999">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style:normal">(h) <o:p></o:p> </i></div>
   </td>
   <td>
     <div>—</div>
@@ -986,13 +914,13 @@ Remainder: Royal Assent</div>
     <div>159, 2001</div>
   </td>
   <td colspan="2">
-    <div>1 Oct 2001</div>
+    <div><st1:date month="10" day="1" year="2001">1 Oct 2001</st1:date></div>
   </td>
   <td>
-    <div>29 Oct 2001</div>
+    <div><st1:date month="10" day="29" year="2001">29 Oct 2001</st1:date></div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i style="mso-bidi-font-style:normal">see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1006,27 +934,10 @@ Remainder: Royal Assent</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 84–88, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 84–88, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Centre for International Agricultural Research Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>115, 2007</div>
-  </td>
-  <td colspan="2">
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>1 July 2007</div>
-  </td>
-  <td>
-    <div>Sch. 2 \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 1 (item 496) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -1038,11 +949,11 @@ Remainder: Royal Assent</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
+_(a)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_    The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
@@ -1050,23 +961,23 @@ _(c)_     The _Australian Centre for International Agricultural Research
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-_(d)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
+_(d)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
 
                  (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(e)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+_(e)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(f)_      The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 4 (item 20) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(f)_      The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 4 (item 20) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 2 (items 216-225) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(g)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 2 (items 216-225) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(h)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 1 (items 144-149) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(h)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 1 (items 144-149) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1083,712 +994,400 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b style="mso-bidi-font-weight:normal">Part I <o:p></o:p> </b></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
+    <div>S. 3 </div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 152, 1997; No. 8, 2005; No. 115, 2007</div>
+    <div>am. No. 170, 1992; No. 152, 1997; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b style="mso-bidi-font-weight:normal">Part II <o:p></o:p> </b></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>S. 4 </div>
   </td>
   <td>
-    <div>am. No. 39, 1983; No. 115, 2007</div>
+    <div>am. No. 39, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 4A</div>
+    <div>S. 5 </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>am. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 5</div>
+    <div><b style="mso-bidi-font-weight:normal">Part III <o:p></o:p> </b></div>
   </td>
   <td>
-    <div>am. No. 115, 2007</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
+    <div>S. 8 </div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 115, 2007</div>
+    <div>am. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 5A</div>
+    <div>Heading to s. 9 </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
+    <div>S. 9 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div>S. 10 </div>
   </td>
   <td>
-    <div></div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part III</div>
+    <div>S. 11 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 91, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div>Ss. 14, 15 </div>
   </td>
   <td>
-    <div></div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 7</div>
+    <div><b style="mso-bidi-font-weight:normal">Part IV <o:p></o:p> </b></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8</div>
+    <div>S. 19 </div>
   </td>
   <td>
-    <div>am. No. 170, 1992</div>
+    <div>am. No. 170, 1992; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 23 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 9</div>
+    <div><b style="mso-bidi-font-weight:normal">Part V <o:p></o:p> </b></div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 25 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 159, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
+    <div>S. 26 </div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div>rs. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div>S. 27 </div>
   </td>
   <td>
-    <div></div>
+    <div>am. No. 122, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
+    <div><b style="mso-bidi-font-weight:normal">Part VI <o:p></o:p> </b></div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Ss. 30, 31 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 63, 1984; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
+    <div>S. 32 </div>
   </td>
   <td>
-    <div>am. No. 91, 1983</div>
+    <div>am. No. 166, 1985</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><b style="mso-bidi-font-weight:normal">Part VII <o:p></o:p> </b></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 12, 13</div>
+    <div>Heading to s. 33 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 14, 15</div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div>rs. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 33 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 16A, 16B</div>
+    <div>S. 34 </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>am. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div></div>
+    <div>rs. No. 152, 1997; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 16C–16H</div>
+    <div>Heading to s. 35 </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div></div>
+    <div>rs. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 16J</div>
+    <div>S. 35 </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div></div>
+    <div>rs. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 16K</div>
+    <div>S. 36 </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>am. No. 152, 1997; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div>S. 37 </div>
   </td>
   <td>
-    <div></div>
+    <div>rs. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 18</div>
+    <div>S. 38A </div>
   </td>
   <td>
-    <div>am. No. 115, 2007</div>
+    <div>ad. No. 141, 1987</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 146, 1999; No. 115, 2007</div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 19A</div>
+    <div>S. 38AA </div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 115, 2007</div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part V</b></div>
+    <div>S. 38B </div>
   </td>
   <td>
-    <div></div>
+    <div>ad. No. 141, 1987</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part V</div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rep. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 24</div>
+    <div><b style="mso-bidi-font-weight:normal">Part VIII <o:p></o:p> </b></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 25</div>
+    <div>S. 39 </div>
   </td>
   <td>
-    <div>am. No. 159, 2001</div>
+    <div>am. No. 91, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
+    <div>S. 40 </div>
   </td>
   <td>
-    <div>rs. No. 122, 1991</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>S. 41 </div>
   </td>
   <td>
-    <div>am. No. 146, 1999</div>
+    <div>am. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Ss. 43, 44 </div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28, 29</div>
-  </td>
-  <td>
-    <div>rs. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29A–29E</div>
-  </td>
-  <td>
-    <div>ad. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 30, 31</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1984; No. 146, 1999; No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 166, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 33</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 170, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 8, 2005; No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 35</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005; No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005; No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 170, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rep. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38AA</div>
-  </td>
-  <td>
-    <div>ad. No. 170, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38B</div>
-  </td>
-  <td>
-    <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 91, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 170, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 43, 44</div>
-  </td>
-  <td>
-    <div>rep. No. 170, 1992</div>
+    <div>rep. No. 170, 1992</div>
   </td>
 </tr></table>
 
@@ -1796,9 +1395,9 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 
 ### Application, saving or transitional provisions
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)<o:p></o:p>_
 
-## Schedule 1
+## Schedule 1
 
 ## 97  Application of amendments
 
@@ -1806,346 +1405,26 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
              (1)  If:
 
                      (a)  a decision or action is taken or another thing is made, given or done; and
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
 
              (2)  In this section:
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
-
-_Australian Centre for International Agricultural Research Amendment Act 2007 (No. 115, 2007)_
-
-## Schedule 2
-
-## 1  Definitions
-
-In this Schedule:
-
-**_amend_** includes repeal and remake.
-
-**_asset_** means:
-
-                     (a)  any legal or equitable estate or interest in real or personal property, whether actual, contingent or prospective; or
-
-                     (b)  any right, power, privilege or immunity, whether actual, contingent or prospective.
-
-**_assets official_**, in relation to an asset other than land, means the person or authority who, under a law of the Commonwealth, a State or a Territory, under a trust instrument or otherwise, has responsibility for keeping a register in relation to assets of the kind concerned.
-
-**_Board_** has the same meaning as in the old law.
-
-**_Centre_** means the Australian Centre for International Agricultural Research established by the _Australian Centre for International Agricultural Research Act 1982_.
-
-**_CEO_** means the Chief Executive Officer of the Centre.
-
-**_commencement time_** means the time when this Schedule commences.
-
-**_Commission_** has the same meaning as in the new law.
-
-**_Director_** has the same meaning as in the old law.
-
-**_instrument_**:
-
-                     (a)  includes:
-
-                              (i)  a contract, deed, undertaking or agreement; and
-
-                             (ii)  a notice, authority, order or instruction; and
-
-                            (iii)  an instrument made under an Act or regulations; and
-
-                            (iv)  regulations; but
-
-                     (b)  does not include an Act.
-
-**_land_** means any legal or equitable estate or interest in real property, whether actual, contingent or prospective.
-
-**_land registration official_**, in relation to land, means the Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
-
-**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
-
-**_new law_** means the _Australian Centre for International Agricultural Research Act 1982_ as in force immediately after the commencement time.
-
-**_old law_** means the _Australian Centre for International Agricultural Research Act 1982_ as in force immediately before the commencement time.
-
-## 2  Vesting of assets of Centre
-
-(1)        This item applies to the assets of the Centre immediately before the commencement time.
-
-(2)        At the commencement time, the assets to which this item applies cease to be assets of the Centre and become assets of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these assets.
-
-## 3  Vesting of liabilities of Centre
-
-(1)        This item applies to the liabilities of the Centre immediately before the commencement time.
-
-(2)        At the commencement time, the liabilities to which this item applies cease to be liabilities of the Centre and become liabilities of the Commonwealth without any conveyance, transfer or assignment. The Commonwealth becomes the successor in law in relation to these liabilities.
-
-## 4  Certificates relating to vesting of land
-
-(1)        This item applies if:
-
-                     (a)  any land vests in the Commonwealth under this Part; and
-
-                     (b)  there is lodged with a land registration official a certificate that:
-
-                              (i)  is signed by the Minister; and
-
-                             (ii)  identifies the land, whether by reference to a map or otherwise; and
-
-                            (iii)  states that the land has become vested in the Commonwealth under this Part.
-
-_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
-
-(2)        The land registration official may:
-
-                     (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
-
-                     (b)  deal with, and give effect to, the certificate.
-
-## 5  Certificates relating to vesting of assets other than land
-
-(1)        This item applies if:
-
-                     (a)  any asset other than land vests in the Commonwealth under this Part; and
-
-                     (b)  there is lodged with an assets official a certificate that:
-
-                              (i)  is signed by the Minister; and
-
-                             (ii)  identifies the asset; and
-
-                            (iii)  states that the asset has become vested in the Commonwealth under this Part.
-
-_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
-
-(2)        The assets official may:
-
-                     (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
-
-                     (b)  make such entries in the register as are necessary, having regard to the effect of this Schedule.
-
-## 6  Substitution of Commonwealth as a party to pending proceedings
-
-If any proceedings to which the Centre was a party were pending in any court or tribunal immediately before the commencement time, the Commonwealth is substituted for the Centre, from the commencement time, as a party to the proceedings.
-
-## 7  Transfer of custody of Centre or Board records
-
-(1)        This item applies to any records or documents that, immediately before the commencement time, were in the custody of the Centre or the Board.
-
-(2)        The records and documents are to be transferred into the custody of the CEO at or after the commencement time.
-
-## 8  References in instruments
-
-References to Centre or Director taken to be references to CEO or Commonwealth
-
-(1)        If:
-
-                     (a)  an instrument is in force immediately before the commencement time; and
-
-                     (b)  the instrument contains a reference to the Centre or to the Director;
-
-the instrument has effect from the commencement time as if the reference were a reference to the CEO.
-
-(2)        However, if:
-
-                     (a)  an instrument is in force immediately before the commencement time; and
-
-                     (b)  the instrument relates to assets or liabilities covered by item 2 or 3; and
-
-                     (c)  the instrument refers to the Centre or to the Director;
-
-the reference is to be read as a reference to the Commonwealth as necessary to give effect to item 2 or 3, as the case requires.
-
-References to Board taken to be references to Commission
-
-(3)        If:
-
-                     (a)  an instrument is in force immediately before the commencement time; and
-
-                     (b)  the instrument contains a reference to the Board;
-
-the instrument has effect from the commencement time as if the reference were a reference to the Commission.
-
-Minister and regulations may provide otherwise
-
-(4)        The Minister may, by writing, determine that subitem (1), (2) or (3):
-
-                     (a)  does not apply in relation to a specified reference; or
-
-                     (b)  applies as if:
-
-                              (i)  in the case of subitem (1)—the reference in that subitem to the CEO were a reference to the Commonwealth; or
-
-                             (ii)  in the case of subitem (2)—the reference in that subitem to the Commonwealth were a reference to the CEO; or
-
-                            (iii)  in the case of subitem (3)—the reference in that subitem to the Commission were a reference to the CEO.
-
-A determination under this subitem has effect accordingly.
-
-(5)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
-
-                     (a)  in the case of an instrument covered by subitem (1)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
-
-                     (b)  in the case of an instrument covered by subitem (2)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
-
-                     (c)  in the case of an instrument covered by subitem (3)—the reference were a reference to a specified person or body other than the Commission or the CEO.
-
-Determinations are not legislative instruments
-
-(6)        A determination under subitem (4) is not a legislative instrument.
-
-## 9  Operation of laws
-
-Things done by Centre or Director taken to be done by CEO
-
-(1)        If, before the commencement time, a thing was done by, or in relation to, the Centre or the Director, then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
-
-(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
-
-Minister and regulations may provide otherwise
-
-(3)        The Minister may, by writing, determine that subitem (1):
-
-                     (a)  does not apply in relation to a specified thing done by, or in relation to, the Centre or the Director; or
-
-                     (b)  applies as if the reference in that subitem to the CEO were a reference to the Commonwealth.
-
-A determination under this subitem has effect accordingly.
-
-(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth or the CEO.
-
-Meaning of **doing**
-
-(5)        To avoid doubt, for the purposes of this item, **_doing_** a thing includes making an instrument.
-
-Determinations are not legislative instruments
-
-(6)        A determination made under subitem (3) is not a legislative instrument.
-
-## 10  Reporting requirements
-
-Future reporting requirements
-
-(1)        If:
-
-                     (a)  immediately before the commencement time, a law required the Centre, the Director or the Board to provide a report (whether financial statements or otherwise) for a period; and
-
-                     (b)  the period ends after the commencement time;
-
-the CEO must provide the report, as required, for so much of the period as occurs before the commencement time.
-
-(2)        If:
-
-                     (a)  under subitem (1), the CEO is required to provide a report for a part of a period; and
-
-                     (b)  the CEO is also required to provide a similar report for the remainder of the period;
-
-the CEO may meet the requirements in a single report for the period.
-
-Outstanding reporting requirements
-
-(3)        If:
-
-                     (a)  a law required the Centre, the Director or the Board to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
-
-                     (b)  the report has not been provided by the commencement time;
-
-the CEO must provide the report as required.
-
-Application of law to CEO
-
-(4)        To avoid doubt, if, under this item, the CEO is required to provide a report under a law, the law applies to the CEO in respect of the report in the same way as the law would have applied to the Centre, the Director or the Board in respect of the report.
-
-## 11  CEO
-
-(1)        The person holding office as the Director under section 24 of the old law immediately before the commencement time is taken, at the commencement time, to have been duly appointed as the CEO by the Governor-General under section 24 of the new law:
-
-                     (a)  for the balance of the person’s term of appointment that remained immediately before the commencement time; and
-
-                     (b)  on the same terms and conditions as applied to the person immediately before the commencement time.
-
-(2)        This item does not prevent those terms and conditions being varied after the commencement time.
-
-## 12  Staff of the Centre
-
-(1)        A person who was a member of the staff of the Centre immediately before the commencement time is taken, at the commencement time, to have been engaged by the CEO as a member of the staff of the Centre.
-
-(2)        The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
-
-(3)        This item does not prevent those terms and conditions being varied after the commencement time.
-
-## 13  Arrangements relating to external staff
-
-An arrangement in force under section 31 of the old law immediately before the commencement time continues in force after that time as if it had been entered into under section 31 of the new law.
-
-## 14  Consultants
-
-(1)        A person in respect of whom an engagement was in force under section 32 of the old law immediately before the commencement time is taken, at the commencement time, to have been engaged as a consultant under section 32 of the new law.
-
-(2)        The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
-
-(3)        This item does not prevent those terms and conditions being varied after the commencement time.
-
-## 15  Exemption from stamp duty and other State or Territory taxes
-
-No stamp duty or other tax is payable under a law of a State or Territory in respect of, or in respect of anything connected with:
-
-                     (a)  the transfer of an asset or liability under this Schedule; or
-
-                     (b)  the operation of this Schedule in any other respect.
-
-## 16  Constitutional safety net—acquisition of property
-
-(1)        If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
-
-(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-(3)        In this item:
-
-**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-## 17  Certificates taken to be authentic
-
-A document that appears to be a certificate made or issued under a particular provision of this Schedule:
-
-                     (a)  is taken to be such a certificate; and
-
-                     (b)  is taken to have been properly given;
-
-unless the contrary is established.
-
-## 18  Delegation by Minister
-
-(1)        The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule to the CEO.
-
-(2)        In exercising powers or performing functions under a delegation, the CEO must comply with any directions of the Minister.
-
-## 19  Regulations
-
-(1)        The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Schedule to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
-
-(2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
-
- 
+<o:p> </o:p>
