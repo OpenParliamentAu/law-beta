@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00057/Html/a8ebdc48-2476-43e7-945a-3382596c9087_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00606/Html/6e647cd2-06b8-47f0-97ce-cc91f36b8267_files/image001.gif)
 
 # Income Tax (Managed Investment Trust Withholding Tax) Act 2008
 
 **Act No. 31 of 2008 as amended**
 
-This compilation was prepared on 21 January 2013
- taking into account amendments up to Act No. 185 of 2012
+This compilation was prepared on 9 August 2012
+ taking into account amendments up to Act No. 96 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,15 +13,14 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
 [1](#1).            Short title [_see_ Note 1]
 
 [2](#2).            Commencement [_see_ Note 1]
-
-[2A](#2A).         Definitions
 
 [3](#3).            Imposition of tax
 
@@ -39,20 +38,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    This Act commences on the day on which it receives the Royal Assent.
 
-##### <a id="2A"></a>2A  Definitions
-
-                   In this Act:
-
-                    <a name="clean-build-manag-invest-trust"></a>**_clean building managed investment trust_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="entiti"></a>**_entity_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="fund-payment"></a>**_fund payment_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="incom-year"></a>**_income year_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
-                    <a name="inform-exchang-countri"></a>**_information exchange country_** has the same meaning as in the _Income Tax Assessment Act 1997_.
-
 ##### <a id="3"></a>3  Imposition of tax
 
                    The tax known as income tax, to the extent that that tax is payable by an entity in accordance with section 840‑805 of the _Income Tax Assessment Act 1997_, is imposed on amounts identified in that section as the fund payment part.
@@ -63,15 +48,17 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (a)  if the entity is a resident of an information exchange country:
 
-                              (i)  15% for fund payments (except to the extent that they are, or are attributable to, fund payments from a clean building managed investment trust) in relation to the income year following the first income year starting on or after the first 1 July after the day on which the _Tax Laws Amendment (Election Commitments No. 1) Act 2008_ receives the Royal Assent; or
+                              (i)  15% for fund payments in relation to the income year following the first income year starting on or after the first 1 July after the day on which the _Tax Laws Amendment (Election Commitments No. 1) Act 2008_ receives the Royal Assent; or
 
-                             (ii)  7.5% for fund payments (except to the extent that they are, or are attributable to, fund payments from a clean building managed investment trust) in relation to later income years starting before 1 July 2012; or
+                             (ii)  7.5% for fund payments in relation to later income years starting before 1 July 2012; or
 
-                            (iii)  15% for fund payments (except to the extent that they are, or are attributable to, fund payments from a clean building managed investment trust) in relation to later income years starting on or after 1 July 2012; or
-
-                            (iv)  10% for fund payments to the extent that they are, or are attributable to, fund payments from a clean building managed investment trust in relation to the income years starting on or after 1 July 2012; or
+                            (iii)  15% for fund payments in relation to later income years starting on or after 1 July 2012; or
 
                      (b)  otherwise—30%.
+
+             (2)  In this section:
+
+                    <a name="inform-exchang-countri"></a>**_information exchange country_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
              (3)  An entity is a resident of an information exchange country if:
 
@@ -154,23 +141,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Clean Building Managed Investment Trust) Act 2012</div>
-  </td>
-  <td>
-    <div>185, 2012</div>
-  </td>
-  <td>
-    <div>10 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 3–6): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -195,21 +165,13 @@ of Assent</div>
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>S. 2A</div>
-    </td>
-    <td>
-      <div>ad. No. 185, 2012</div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 96 and 185, 2012</div>
+    <div>am. No. 96, 2012</div>
   </td>
 </tr></table>
 
