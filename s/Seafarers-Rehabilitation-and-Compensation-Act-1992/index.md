@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 17 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 22 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -54,7 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Persons who are wholly or partly dependent
 
-[16](#16).          Certain family relationships
+[16](#16).          Ex-nuptial and adoptive relationships
 
 [17](#17).          Persons caring for prescribed children
 
@@ -414,8 +414,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Authority.
 
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this Act, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
-
                     <a name="claim"></a>**_claim_** means a claim under Part 5.
 
                     <a name="claimant"></a>**_claimant_**, in relation to a time after the death of a claimant, means the claimant’s legal personal representative.
@@ -435,8 +433,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="compens-leav"></a>**_compensation leave_** means any period during which an employee is absent from his or her employment due to an incapacity for work resulting from an injury in respect of which compensation is payable under section 31 or 37.
 
                     <a name="damag"></a>**_damages_** includes any amount paid under a compromise or settlement of a claim for damages, whether or not legal proceedings have been instituted, but does not include an amount paid in respect of costs incurred in connection with legal proceedings.
-
-                    <a name="de-facto-partner"></a>**_de facto partner_** of a person has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="default-event"></a>**_default event_**, in relation to an employer, happens when:
 
@@ -460,7 +456,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  who is the spouse of the employee; or
 
-                     (b)  who is the parent, step-parent, father-in-law, mother-in-law, grandparent, child, stepchild, grandchild, sibling or half-sibling of the employee; or
+                     (b)  who is the father, mother, step-father, step-mother, father-in-law, mother-in-law, grandfather, grandmother, son, daughter, step-son, step-daughter, grandson, grand-daughter, brother, sister, half-brother or half-sister of the employee; or
 
                      (c)  in relation to whom the employee stood in the position of a parent or who stood in the position of a parent to the employee;
 
@@ -554,8 +550,6 @@ but does not include anything suffered by an employee as a result of reasonable 
 
                     <a name="normal-weekli-earning"></a>**_normal weekly earnings_** means the normal weekly earnings of an employee worked out under section 13.
 
-                    <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
-
                     <a name="perman"></a>**_permanent_** means likely to continue indefinitely.
 
                     <a name="place-resid"></a>**_place of residence_**, in relation to an employee, means:
@@ -592,7 +586,7 @@ but does not include anything suffered by an employee as a result of reasonable 
 
                      (b)  any of the following who is 16 or over:
 
-                              (i)  the parent, step-parent, father-in-law, mother-in-law, grandparent, child, stepchild, grandchild, sibling or half-sibling of the employee;
+                              (i)  the father, mother, step-father, step-mother, father-in-law, mother-in-law, grandfather, grandmother, son, daughter, step-son, step-daughter, grandson, grand-daughter, brother, sister, half-brother or half-sister of the employee;
 
                              (ii)  a person in relation to whom the employee stands in the position of a parent or who stands in the position of a parent to the employee;
 
@@ -618,13 +612,9 @@ Note:          see also sections 16 and 17.
 
                     <a name="spous"></a>**_spouse_** includes:
 
-                     (a)  in relation to an employee or a deceased employee—a person who is, or immediately before the employee’s death was, a de facto partner of the employee; and
+                     (a)  in relation to an employee or a deceased employee—a person of the opposite sex to the employee who lives with, or immediately before the date of the employee’s death lived with, the employee as the spouse of the employee on a genuine domestic basis although not legally married to the employee; and
 
                      (b)  in relation to an employee or a deceased employee who is or was a member of the Aboriginal race of Australia or a descendant of indigenous inhabitants of the Torres Strait Islands—a person who is or was recognised as the employee’s husband or wife by the custom prevailing in the tribe or group to which the employee belongs or belonged.
-
-                    <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone who is a child of a de facto partner of the person is the **_stepchild_** of the person if he or she would be the person’s stepchild except that the person is not legally married to the partner.
-
-                    <a name="step-parent"></a><a name="step-parent"></a>**_step-parent_**: without limiting who is a step-parent of a person for the purposes of this Act, someone who is a de facto partner of a parent of the person is the **_step-parent_** of the person if he or she would be the person’s step-parent except that he or she is not legally married to the person’s parent.
 
                     <a name="suitabl-employ"></a>**_suitable employment_**, in relation to an employee who has suffered an injury in respect of which compensation is payable under this Act, means any employment (including self-employment) for which the employee is suited having regard to:
 
@@ -884,7 +874,7 @@ the normal weekly earnings of the employee before the injury, as worked out unde
 
 is taken to be a person who was wholly dependent on the employee at that date.
 
-             (3)  For the purposes of this Act, other than subsection 29(5), a child of a deceased employee who was born alive after the employee’s death must be treated as if he or she had been born immediately before the employee’s death and was wholly dependent on the employee at the date of the employee’s death.
+             (3)  For the purposes of this Act, other than subsection 29(5), a son or daughter of a deceased employee who was born alive after the employee’s death must be treated as if he or she had been born immediately before the employee’s death and was wholly dependent on the employee at the date of the employee’s death.
 
              (4)  In determining, for the purposes of this Act, whether a child is or was dependent on an employee, the following are not to be taken into account:
 
@@ -894,19 +884,21 @@ is taken to be a person who was wholly dependent on the employee at that date.
 
                      (c)  an amount of double orphan pension under the _Social Security Act 1991_.
 
-##### <a id="16"></a>16  Certain family relationships
+##### <a id="16"></a>16  Ex-nuptial and adoptive relationships
 
-                   For the purposes of this Act, relationships (including the relationship of being family or being relatives) are taken to include (without limitation):
+                   Relationships mentioned in:
 
-                     (a)  relationships between de facto partners; and
+                     (a)  paragraph (b) of the definition of **_dependant_** in section 3; or
 
-                     (b)  relationships of child and parent that arise:
+                     (b)  subparagraph (b)(i) of the definition of **_prescribed person_**in that section;
 
-                              (i)  if someone is an exnuptial or adoptive child of a person; or
+are, for the purposes of this Act, taken to include:
 
-                             (ii)  because of the definitions of **_child_** and **_parent_** in section 3; and
+                     (c)  ex-nuptial relationships; and
 
-                     (c)  relationships traced through relationships referred to in paragraphs (a) and (b).
+                     (d)  relationships by adoption; and
+
+                     (e)  relationships traced through ex-nuptial relationships or relationships by adoption.
 
 ##### <a id="17"></a>17  Persons caring for prescribed children
 
@@ -1086,7 +1078,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1200,7 +1192,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1308,7 +1300,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image004.gif)
 
 here:
 
@@ -1338,7 +1330,7 @@ here:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image005.gif)
 
 where:
 
@@ -1376,7 +1368,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image006.gif)
 
 where:
 
@@ -1416,7 +1408,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image007.gif)
 
 where:
 
@@ -1522,7 +1514,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image008.gif)
 
 where:
 
@@ -1582,8 +1574,6 @@ where:
 
                      (e)  the need to avoid substantial disruption to the employment or other activities of the persons referred to in paragraph (b).
 
-Note:          In relation to paragraph (3)(d), see also section 16.
-
              (4)  If, as a result of an injury to an employee, the employee obtains attendant care services that he or she reasonably requires, compensation is payable at the rate of:
 
                      (a)  $251.94 per week; or
@@ -1605,8 +1595,6 @@ whichever is less.
                      (e)  any assessment made in relation to the rehabilitation of the employee;
 
                       (f)  the extent to which a relative of the employee might reasonably be expected to provide attendant care services.
-
-Note:          In relation to paragraph (5)(f), see also section 16.
 
              (6)  An employer is not liable to pay compensation under subsection (1) in respect of any week within the period of 28 days starting on the day of the injury unless the employer determines otherwise in a particular case on the ground of financial hardship or the need to provide for adequate supervision of dependent children.
 
@@ -1634,7 +1622,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image009.gif)
 
 where:
 
@@ -1722,7 +1710,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1774,7 +1762,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -2218,7 +2206,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -2536,7 +2524,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -3034,7 +3022,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  during a vacancy in the office of Chairperson or Deputy Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period or during all periods when the Chairperson or the Deputy Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period or during all periods when the Chairperson or the Deputy Chairperson is absent from duty or from   Australia or is, for any other reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
 
@@ -3164,7 +3152,7 @@ Subdelegation by CEO of Comcare
 
 ## Part 9—Miscellaneous
 
-##### <a id="126"></a>126  Employee to give information about prior employers
+##### <a id="126"></a>126  Employee to give information about prior employers
 
              (1)  An employer who has been given a claim under section 63 may, by written notice given to the claimant, ask the claimant to give the employer:
 
@@ -3332,7 +3320,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image010.gif)
 
 where:
 
@@ -3523,8 +3511,8 @@ Remainder: 24 June 1993</div>
     <div>18 Jan 1994</div>
   </td>
   <td>
-    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
-Schedule (items 111, 112): 24 June 1993 <i>(a)</i></div>
+    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
+Schedule (items 111, 112): 24 June 1993 <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 7–9 
@@ -3626,7 +3614,7 @@ Remainder: Royal Assent</div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 19 (items 43, 44): Royal Assent <i>(c)</i></div>
+    <div>Schedule 19 (items 43, 44): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
@@ -3686,7 +3674,8 @@ Remainder: Royal Assent</div>
     <div>8 Mar 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–74, 76–98): Royal Assent <i>(e)</i> 
+    <div>Schedule 1 (items 1–74, 
+76–98): Royal Assent <i>(e)</i> 
 Schedule 1 (item 75): 24 June 1993 <i>(e)</i></div>
   </td>
   <td>
@@ -3707,7 +3696,7 @@ Schedule 1 (item 75): 24 June 1993 <i>(e)</i></div>
     <div>9 Apr 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 72, 73): <i>(f)</i></div>
+    <div>Schedule 2 (items 72, 73): <i>(f)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 73) \[ <i>see</i>Table A]</div>
@@ -3785,7 +3774,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
+    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -3805,7 +3794,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–8, 17): 11 June 2003</div>
+    <div>Schedule 1 (items 4–8, 17): 11 June 2003</div>
   </td>
   <td>
     <div>Sch. 1 (item 17) \[ <i>see</i>Table A]</div>
@@ -3845,31 +3834,10 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 284–286, 
-406(1)–(3)): <i>(j)</i></div>
+    <div>Schedule 1 (items 284–286, 406(1)–(3)): <i>(j)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 27–39): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 39) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -4068,7 +4036,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008</div>
+    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -4108,15 +4076,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. Nos. 13 and 83, 1999; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 2008</div>
+    <div>am. Nos. 13 and 83, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4261,30 +4221,6 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
   </td>
   <td>
     <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 43(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 43(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4910,7 +4846,7 @@ The amendment made by item 52 applies only to decisions of the Authority given
 
 Despite the repeal and substitution effected by item 55, the repealed section continues to apply in respect of a reconsideration requested before the commencement of that item.
 
-## 58  Application
+## 58  Application
 
 The amendment made by item 57 applies to decisions of the Authority given in respect of claims made after the commencement of that item.
 
@@ -4970,18 +4906,6 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 5
-
-## 39  Application of amendments of the _Seafarers Rehabilitation and Compensation Act 1992_
-
-(1)        The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a payment made under that Act on or after the commencement of the amendments, other than a payment of a lump sum benefit to which subitem (2) applies.
-
-(2)        The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a lump sum benefit payable in respect of the death of a person if the death occurs on or after the commencement of the amendments.
 
  
 
