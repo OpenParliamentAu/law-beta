@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00011/Html/GovernorGeneral74_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00276/Html/GovernorGeneral74_WD02_image001.gif)
 
 # Governor-General Act 1974
 
 **Act No. 16 of 1974 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 62 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -23,7 +23,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2A](#2A).         Interpretation
 
-[2B](#2B).         Marital or couple relationship
+[2B](#2B).         Marital relationship
 
 [2C](#2C).         Spouse of a deceased person
 
@@ -71,7 +71,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+                   This Act shall come into operation on the day on which it receives the Royal Assent.
 
 ##### <a id="2A"></a>2A  Interpretation
 
@@ -79,25 +79,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  In this Act:
 
-                    <a name="marit-coupl-relatship"></a>**_marital or couple relationship_** has the meaning given by section 2B.
-
-                    <a name="spous"></a>**_spouse_** has a meaning affected by section 2C.
-
                     <a name="commission"></a>**_the Commissioner_** means the person who holds, or performs the functions of, the office of Commissioner for Superannuation under the _Superannuation Act 1976_.
 
-##### <a id="2B"></a>2B  Marital or couple relationship
+##### <a id="2B"></a>2B  Marital relationship
 
              (1)  In this section and section 2C:
 
                     <a name="deceas-person"></a>**_deceased person_** means a person who was, at the time of his or her death, the Governor-General or a person who has at any time after the commencement of this Act held that office.
 
-             (2)  For the purposes of this Act, a person had a **_marital or couple relationship_** with a deceased person at a particular time if the person ordinarily lived with the deceased person as the deceased person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time.
+             (2)  For the purposes of this Act, a person had a **_marital relationship_** with a deceased person at a particular time if the person ordinarily lived with the deceased person as the deceased person’s husband or wife on a permanent and _bona fide_ domestic basis at that time.
 
-             (3)  For the purpose of subsection (2), a person is to be regarded as ordinarily living with a deceased person as the deceased person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at a particular time only if:
+             (3)  For the purpose of subsection (2), a person is to be regarded as ordinarily living with a deceased person as the deceased person’s husband or wife on a permanent and _bona fide_ domestic basis at a particular time only if:
 
-                     (a)  the person had been living with the deceased person as the deceased person’s husband or wife or partner for a continuous period of at least 3 years up to that time; or
+                     (a)  the person had been living with the deceased person as the deceased person’s husband or wife for a continuous period of at least 3 years up to that time; or
 
-                     (b)  the person had been living with the deceased person as the deceased person’s husband or wife or partner for a continuous period of less than 3 years up to that time and the Commissioner, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with the deceased person as the deceased person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
+                     (b)  the person had been living with the deceased person as the deceased person’s husband or wife for a continuous period of less than 3 years up to that time and the Commissioner, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with the deceased person as the deceased person’s husband or wife on a permanent and _bona fide_ domestic basis at that time;
 
 whether or not the person was legally married to the deceased person.
 
@@ -107,15 +103,11 @@ whether or not the person was legally married to the deceased person.
 
                      (b)  the persons were legally married to each other at the time;
 
-                    (ba)  the persons’ relationship was registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section;
-
                      (c)  the persons had a child who was:
 
                               (i)  born of the relationship between the persons; or
 
-                             (ii)  adopted by the persons during the period of the relationship; or
-
-                            (iii)  a child of both of the persons within the meaning of the _Family Law Act 1975_;
+                             (ii)  adopted by the persons during the period of the relationship;
 
                      (d)  the persons jointly owned a home which was their usual residence.
 
@@ -125,19 +117,17 @@ whether or not the person was legally married to the deceased person.
 
                      (b)  absence because of special circumstances (for example, absence because of the person’s illness or infirmity).
 
-             (6)  For the purposes of this section, a person is the **_partner_** of another person if the two persons have a relationship as a couple (whether the persons are the same sex or different sexes).
-
 ##### <a id="2C"></a>2C  Spouse of a deceased person
 
                    For the purposes of this Act, a person is a spouse of a deceased person if:
 
-                     (a)  the person had a marital or couple relationship with the deceased person at the time of the deceased person’s death; or
+                     (a)  the person had a marital relationship with the deceased person at the time of the deceased person’s death; or
 
                      (b)  the person:
 
-                              (i)  had previously had a marital or couple relationship with the deceased person; and
+                              (i)  had previously had a marital relationship with the deceased person; and
 
-                             (ii)  did not, at the time of the death, have a marital or couple relationship with the deceased person but was legally married to the deceased person; and
+                             (ii)  did not, at the time of the death, have a marital relationship with the deceased person but was legally married to the deceased person; and
 
                             (iii)  in the Commissioner’s opinion, was wholly or substantially dependent on the deceased person at the time of the death.
 
@@ -701,24 +691,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (items 2, 17) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>134, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4: Royal Assent 
-Schedule 5: 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 5 (item 9) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -806,47 +778,15 @@ _(f)_      The _Governor-General Act 1974_ was amended by Schedule 1
     <div></div>
   </td>
   <td>
-    <div>am. No. 185, 1992; No. 187, 1997; No. 57, 2001; Nos. 62 and 134, 2008</div>
+    <div>am. No. 185, 1992; No. 187, 1997; No. 57, 2001; No. 62, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 2B</div>
-  </td>
-  <td>
-    <div>rs. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2B</div>
+    <div>Ss. 2B, 2C</div>
   </td>
   <td>
     <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2C</div>
-  </td>
-  <td>
-    <div>ad. No. 185, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1112,70 +1052,6 @@ The amendment made by this Part does not have effect during the continuance in o
 ## 17  Application
 
 The repeals and amendments made by this Part do not apply in relation to a person who held office as Governor-General at any time after 29 June 2001 and before the commencement of this Part.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-##### <a id="4"></a>4  Entitlements from 1 July 2008
-
-             (1)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under an Act that is amended by Schedule 1, 2, 3 or 5 to this Act if the relevant Schedule had commenced on 1 July 2008; and
-
-                     (b)  because the Schedule did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (2)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Military Superannuation and Benefits Act 1991_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (3)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Superannuation Act 1990_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (4)  A determination by the Finance Minister under this subsection must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out:
-
-                              (i)  the amount and timing of the replacement payments; or 
-
-                             (ii)  the method of determining the amount and timing of the replacement payments.
-
-             (5)  An application must be in writing in the form approved by the Finance Minister.
-
-             (6)  To avoid doubt, a determination of the Finance Minister that a person is entitled to one or more replacement payments does not affect the entitlements of any other person under an Act amended by Schedule 1, 2, 3 or 5 to this Act, the _Military Superannuation and Benefits Act 1991_ or the _Superannuation Act 1990_.
-
-             (7)  Replacement payments are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-             (8)  A determination made under this section  is not a legislative instrument.
-
-             (9)  In this section:
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-## Schedule 5
-
-## 9  Application of amendments of the _Governor-General Act 1974_
-
-The amendments of the _Governor-General Act 1974_ made by this Schedule apply in relation to a person who is appointed as Governor-General on or after the commencement of this Schedule.
 
  
 
