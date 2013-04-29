@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00816/Html/6ab73be5-5cff-4156-b124-4a14b977362e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00053/Html/4a7b4f6b-35ec-49a1-a909-9f3b389792e4_files/image001.gif)
 
 # COAG Reform Fund Act 2008
 
 **Act No. 156 of 2008 as amended**
 
-This compilation was prepared on 13 November 2012
- taking into account amendments up to Act No. 151 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -98,8 +99,6 @@ Note 3:       An amount may be credited to the COAG Reform Fund unde
 Note 4:       An amount may be credited to the COAG Reform Fund under section 23 of the _Interstate Road Transport Act 1985_.
 
 Note 5:       An amount may be credited to the COAG Reform Fund under section 75 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-Note 6:       An amount may be credited to the COAG Reform Fund under section 8 of the _Social and Community Services Pay Equity Special Account Act 2012_.
 
 ##### <a id="6"></a>6  Purpose of the COAG Reform Fund
 
@@ -227,7 +226,7 @@ of Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–4): 1 Apr 2009 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 1–4): 1 Apr 2009 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -247,25 +246,7 @@ of Assent</div>
     <div>Schedule 2 (item 370) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social and Community Services Pay Equity Special Account (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>151, 2012</div>
-  </td>
-  <td>
-    <div>8 Nov 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: 8 Nov 2012 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -273,8 +254,8 @@ Remainder: Royal Assent</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -302,34 +283,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note 3 to s. 5</div>
+    <div>Notes 3–5 to s. 5</div>
   </td>
   <td>
     <div>ad. No. 12, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 4 to s. 5</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 5 to s. 5</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 6 to s. 5</div>
-  </td>
-  <td>
-    <div>ad. No. 151, 2012</div>
   </td>
 </tr>
 <tr>
@@ -360,15 +317,7 @@ No. 12, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Note 2 to s. 7(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to s. 7(3)</div>
+    <div>Notes 2, 3 to s. 7(3)</div>
   </td>
   <td>
     <div>ad. No. 12, 2009</div>
