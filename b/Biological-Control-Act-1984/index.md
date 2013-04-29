@@ -1,3072 +1,1379 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02485/Html/BiologicalControl84_image001.gif)
 
-###  BIOLOGICAL CONTROL ACT 1984 
-**
+# Biological Control Act 1984
 
+**Act No. 139 of 1984 as amended**
 
-**
+This compilation was prepared on 17 August 2001
+ taking into account amendments up to Act No. 82 of 2001
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force 
+ on that date is appended in the Notes section
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part I—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
+[2](#2).            Interpretation                                                                                       1
 
+[3](#3).            Biological control                                                                                 4
 
-**
+[4](#4).            Extension of Act to external Territories                                              4
 
-###  Long Title 
-**
-**
+[5](#5).            Saving of other laws                                                                             4
 
-###  BIOLOGICAL CONTROL ACT 1984<part>Part I&#151;Preliminary </part>
-**
-###  BIOLOGICAL CONTROL ACT 1984- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Biological Control Act 1984_.
+[6](#6).            Act to bind Crown                                                                               5
 
- 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 2  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+[7](#7).            Act not limited to agricultural pests                                                    5
 
-</dd> 
-<dl compact=""><dl compact="">
+[8](#8).            Commonwealth Biological Control Authority                                    5
 
-_agent application_ means an application under section 22\. _agent organisms_ means organisms in respect of which there is in force a declaration by the Authority, under section 29, 30, 31 or&#160;34, that the organisms are agent organisms for the purposes of this Act. _agent recommendation_ means a recommendation to the Authority by the Council that organisms of a particular kind should be declared to be agent organisms for the purposes of this Act. _Australia_ includes the external Territories (if any) in respect of which a declaration under subsection 4(1) is in force. _Authority_ means the Commonwealth Biological Control Authority established by section 8\. _control_, in relation to organisms, includes:  </dl></dl>
+[9](#9).            Relevant State laws                                                                              5
 
-<dl compact=""><dl compact=""><dl compact="">
+[10](#10).          Delegation                                                                                            6
 
-<dt>(a)</dt><dd>reduce the number of those organisms;</dd>
+**Part II—Target organisms**
 
-<dt>(b)</dt><dd>prevent an increase in the number of those organisms;</dd>
+[12](#12).          Target organisms                                                                                  7
 
-<dt>(c)</dt><dd>reduce the activity or appetite of some or all of those organisms; and</dd>
+[13](#13).          Target application                                                                                7
 
-<dt>(d)</dt><dd>modify the behaviour or characteristics of some or all of those organisms.
+[14](#14).          Withdrawal of target application                                                         8
 
-</dd>
+[15](#15).          Referral of target application to Council                                             8
 
-</dl></dl></dl>
+[16](#16).          Notice of rejection of target application                                              8
 
-<def><dl compact=""><dl compact="">
+[17](#17).          Notice of proposed target organisms                                                   9
 
-_Council_ means:
+[18](#18).          Consideration of submissions relating to target organisms                10
 
- </dl></dl>
+[19](#19).          Inquiries relating to target organisms                                                 10
 
-<dl compact=""><dl compact=""><dl compact="">
+[20](#20).          Declaration of target organisms                                                         11
 
-<dt>(a)</dt><dd>subject to paragraph (b), Agriculture and Resource Management Council of
+**Part III—Agent organisms**
 
-Australia and New Zealand, whether known by that name or any other name; or</dd>
+[21](#21).          Agent organisms                                                                                13
 
-<dt>(b)</dt><dd>if another body is prescribed by the regulations for the purposes of this
+[22](#22).          Agent application                                                                              13
 
-definition&#151;that other body.
+[23](#23).          Withdrawal of agent application                                                        14
 
-</dd>
+[24](#24).          Referral of agent application to Council                                            14
 
-</dl></dl></dl>
+[25](#25).          Notice of rejection of agent application                                             14
 
-<def><dl compact=""><dl compact="">
+[26](#26).          Notice of proposed agent organisms                                                 15
 
-_kind_, in relation to live organisms, means species, sub-species
+[27](#27).          Consideration of submissions relating to agent organisms                16
 
-or variety. _organism_ means:  </dl></dl>
+[28](#28).          Inquiries relating to agent organisms                                                  16
 
-<dl compact=""><dl compact=""><dl compact="">
+[29](#29).          Declaration of agent organisms                                                          17
 
-<dt>(a)</dt><dd>an organism (whether alive or dead and whether or not indigenous to
+**Part IV—Special declarations of target organisms and agent organisms**
 
-Australia) other than a human; or</dd>
+[30](#30).          Emergency declarations                                                                     20
 
-<dt>(b)</dt><dd>a part of, or matter discharged from, an organism within the meaning of
+[31](#31).          Declarations of existing released organisms                                       21
 
-paragraph (a).
+[32](#32).          Notice of proposed declaration under section 31                              22
 
-</dd>
+[33](#33).          Inquiries relating to declarations under section 31                             23
 
-</dl></dl></dl>
+[34](#34).          Declaration of organisms declared under relevant State law              24
 
-<def><dl compact=""><dl compact="">
+**Part V—Release of agent organisms**
 
-_organization_ includes:
+[35](#35).          Release of agent organisms                                                                25
 
- </dl></dl>
+[36](#36).          No legal proceedings to be instituted in respect of release of agent organisms         25
 
-<center>Back to Top</center>
+**Part VI—Biological control under State laws**
 
-<dl compact=""><dl compact=""><dl compact="">
+[37](#37).          Legal proceedings not to be instituted                                               27
 
-<dt>(a)</dt><dd>a body corporate;</dd>
+**Part VII—Inquiries**
 
-<dt>(b)</dt><dd>an association or other body of persons; and</dd>
+[38](#38).          Commissions of inquiry                                                                    29
 
-<dt>(c)</dt><dd>an association that consists of 2 or more organizations within the meaning
+[39](#39).          Remuneration of Commissioners                                                       30
 
-of the preceding paragraphs.
+[40](#40).          Notice of inquiries                                                                             30
 
-</dd>
+[41](#41).          Procedure at inquiries                                                                        30
 
-</dl></dl></dl>
+[42](#42).          Power to summon witnesses                                                             31
 
-<def><dl compact=""><dl compact="">
+[43](#43).          Failure of witness to attend                                                               31
 
-_person_ includes an organization. _prescribed live organisms_ means live organisms other than live vaccines or resistant cultivars. _relevant State law_ means a law of a State declared by the Authority under section 9 to be a relevant State law for the purposes of this Act. _State_ includes the Northern Territory. _target application_ means an application under section 13\. _target organisms_ means organisms in respect of which there is in force a declaration by the Authority, under section 20, 30, 31 or&#160;34, that the organisms are target organisms for the purposes of this Act. _target recommendation_ means a recommendation to the Authority by the Council that organisms of a particular kind should be declared to be target organisms for the purposes of this Act. _Territory_ does not include the Northern Territory.  </dl></dl>
+[44](#44).          Power to administer oath or affirmation                                            32
 
-<dl compact="">
+[45](#45).          Refusal to be sworn or to answer questions                                      32
 
-<dt>(2)</dt><dd>For the purposes of this Act, the Jervis Bay Territory shall be taken to
+[46](#46).          Protection of Commissioners and witnesses                                     32
 
-be part of the Australian Capital Territory.</dd> <dt>(3)</dt><dd>For the purposes of this Act, organisms of a particular kind shall be taken to cause harm if the control of those organisms would be for the public benefit.</dd> <dt>(4)</dt><dd>For the purposes of this Act, organisms of a particular kind shall be taken to cause harm in the Australian Capital Territory if they cause harm in a part or parts only of that Territory.</dd> <dt>(4A)</dt><dd>For the purposes of this Act: </dd> </dl>
+[47](#47).          False or misleading evidence                                                              33
 
-<dl compact=""><dl compact=""><dl compact="">
+[48](#48).          Contempt of Commission                                                                 33
 
-<dt>(a)</dt><dd>a recommendation or decision of, or an approval by, the Council, has
+[49](#49).          Powers of Commission in relation to documents produced              33
 
-effect whether or not it was made while the Council was in session;</dd>
+[50](#50).          Allowances to witnesses                                                                   34
 
-<dt>(b)</dt><dd>a recommendation of the Council shall be taken to be unanimous if, and
+[51](#51).          Witness not to be prejudiced                                                             34
 
-only if, the recommendation is a recommendation of all the members of the
+**Part VIII—Miscellaneous**
 
-Council;</dd>
+[52](#52).          Act not to render other controls illegal                                              36
 
-<dt>(c)</dt><dd>an approval by the Council shall be taken to be unanimous if, and only if,
+[53](#53).          Revocation of declarations                                                                 36
 
-the approval is an approval by all the members of the Council; and</dd>
+[54](#54).          Declarations continue in operation                                                    36
 
-<dt>(d)</dt><dd>where a person is authorised to act as a member of the Council in place of
+[55](#55).          Service of documents on Authority                                                   36
 
-another person, then while the first-mentioned person is so acting, the
+[56](#56).          Application for review                                                                      37
 
-first-mentioned person is to be taken to be a member of the Council and the
+[57](#57).          Regulations                                                                                        37
 
-other person is not to be taken to be a member of the Council.
+**Notes** 
 
-</dd>
+## An Act to make provision for the biological control of pests in the Australian Capital Territory, and for related purposes
 
-</dl></dl></dl>
+## Part I—Preliminary
 
-<dl compact="">
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-<dt>(5)</dt><dd>A reference in this Act to a recommendation by the Council that organisms
+                   This Act may be cited as the _Biological Control Act 1984_.
 
-of a particular kind should be declared to be agent organisms for the purposes
+##### <a id="2"></a>2  Interpretation
 
-of this Act includes a reference to a recommendation that organisms of a
+             (1)  In this Act, unless the contrary intention appears:
 
-particular kind should be so declared if organisms to which a target
+                    <a name="agent-applic"></a>**_agent application_** means an application under section 22.
 
-recommendation applies are declared to be target organisms for the purposes of
+                    <a name="agent-organ"></a>**_agent organisms_** means organisms in respect of which there is in force a declaration by the Authority, under section 29, 30, 31 or 34, that the organisms are agent organisms for the purposes of this Act.
 
-this Act.</dd> <dt>(6)</dt><dd>In this Act: </dd> </dl>
+                    <a name="agent-recommend"></a>**_agent recommendation_** means a recommendation to the Authority by the Council that organisms of a particular kind should be declared to be agent organisms for the purposes of this Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="australia"></a>**_Australia_** includes the external Territories (if any) in respect of which a declaration under subsection 4(1) is in force.
 
-<dt>(a)</dt><dd>a reference to a Minister of a State shall, except in relation to the
+                    <a name="author"></a>**_Authority_** means the Commonwealth Biological Control Authority established by section 8.
 
-Northern Territory, be read as a reference to a Minister of the Crown of the
+                    <a name="control"></a>**_control_**, in relation to organisms, includes:
 
-State; and</dd>
+                     (a)  reduce the number of those organisms;
 
-<dt>(b)</dt><dd>a reference to a Minister of a State shall, in relation to the Northern
+                     (b)  prevent an increase in the number of those organisms;
 
-Territory, be read as a reference to a person holding an office referred to in
+                     (c)  reduce the activity or appetite of some or all of those organisms; and
 
-section 34 of the _Northern Territory (Self-Government) Act 1978_.
+                     (d)  modify the behaviour or characteristics of some or all of those organisms.
 
-</dd>
+                    <a name="council"></a>**_Council_** means:
 
-</dl></dl></dl>
+                     (a)  subject to paragraph (b), Agriculture and Resource Management Council of Australia and New Zealand, whether known by that name or any other name; or
 
-**
+                     (b)  if another body is prescribed by the regulations for the purposes of this definition—that other body.
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 3  Biological control 
-**
+                    <a name="kind"></a>**_kind_**, in relation to live organisms, means species, sub-species or variety.
 
- <dl compact="">
+                    <a name="organ"></a>**_organism_** means:
 
-		For the purposes of this Act, organisms of a particular kind shall be taken
+                     (a)  an organism (whether alive or dead and whether or not indigenous to Australia) other than a human; or
 
-to be controllable by biological means if, and only if, those organisms can be
+                     (b)  a part of, or matter discharged from, an organism within the meaning of paragraph (a).
 
-controlled by the release of live organisms of another kind.
+                    <a name="organ"></a>**_organization_** includes:
 
- </dl>
+                     (a)  a body corporate;
 
-**
+                     (b)  an association or other body of persons; and
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 4  Extension of Act to external Territories <center>[Back to Top](#top)</center> 
-**
+                     (c)  an association that consists of 2 or more organizations within the meaning of the preceding paragraphs.
 
- <dl compact="">
+                    <a name="person"></a>**_person_** includes an organization.
 
-<dt>(1)</dt><dd>The Minister may, by notice published in the _Gazette_, declare that
+                    <a name="prescrib-live-organ"></a>**_prescribed live organisms_** means live organisms other than live vaccines or resistant cultivars.
 
-this Act extends to:
+                    <a name="relev-state-law"></a>**_relevant State law_** means a law of a State declared by the Authority under section 9 to be a relevant State law for the purposes of this Act.
 
-</dd> </dl>
+                    <a name="state"></a>**_State_** includes the Northern Territory.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="target-applic"></a>**_target application_** means an application under section 13.
 
-<dt>(a)</dt><dd>the Territory of Cocos (Keeling) Islands;</dd>
+                    <a name="target-organ"></a>**_target organisms_** means organisms in respect of which there is in force a declaration by the Authority, under section 20, 30, 31 or 34, that the organisms are target organisms for the purposes of this Act.
 
-<dt>(b)</dt><dd>the Territory of Christmas Island;</dd>
+                    <a name="target-recommend"></a>**_target recommendation_** means a recommendation to the Authority by the Council that organisms of a particular kind should be declared to be target organisms for the purposes of this Act.
 
-<dt>(c)</dt><dd>the Coral Sea Islands Territory; or</dd>
+                    <a name="territori"></a>**_Territory_** does not include the Northern Territory.
 
-<dt>(d)</dt><dd>the Territory of Ashmore and Cartier Islands.
+             (2)  For the purposes of this Act, the Jervis Bay Territory shall be taken to be part of the Australian Capital Territory.
 
-</dd>
+             (3)  For the purposes of this Act, organisms of a particular kind shall be taken to cause harm if the control of those organisms would be for the public benefit.
 
-</dl></dl></dl>
+             (4)  For the purposes of this Act, organisms of a particular kind shall be taken to cause harm in the Australian Capital Territory if they cause harm in a part or parts only of that Territory.
 
-<dl compact="">
+          (4A)  For the purposes of this Act:
 
-<dt>(2)</dt><dd>Where a declaration under subsection (1) is in force in relation to a
+                     (a)  a recommendation or decision of, or an approval by, the Council, has effect whether or not it was made while the Council was in session;
 
-Territory, this Act has effect, in relation to that Territory, as if the
+                     (b)  a recommendation of the Council shall be taken to be unanimous if, and only if, the recommendation is a recommendation of all the members of the Council;
 
-references in this Act, other than in this section, to the Australian Capital
+                     (c)  an approval by the Council shall be taken to be unanimous if, and only if, the approval is an approval by all the members of the Council; and
 
-Territory were references to that Territory.
+                     (d)  where a person is authorised to act as a member of the Council in place of another person, then while the first-mentioned person is so acting, the first-mentioned person is to be taken to be a member of the Council and the other person is not to be taken to be a member of the Council.
 
-</dd> </dl>
+             (5)  A reference in this Act to a recommendation by the Council that organisms of a particular kind should be declared to be agent organisms for the purposes of this Act includes a reference to a recommendation that organisms of a particular kind should be so declared if organisms to which a target recommendation applies are declared to be target organisms for the purposes of this Act.
 
-**
+             (6)  In this Act:
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 5  Saving of other laws 
-**
+                     (a)  a reference to a Minister of a State shall, except in relation to the Northern Territory, be read as a reference to a Minister of the Crown of the State; and
 
- <dl compact="">
+                     (b)  a reference to a Minister of a State shall, in relation to the Northern Territory, be read as a reference to a person holding an office referred to in section 34 of the _Northern Territory (Self-Government) Act 1978_.
 
-<dt>(1)</dt><dd>This Act shall be read and construed as being in addition to, and not in
+##### <a id="3"></a>3  Biological control
 
-derogation of or in substitution for:
+                   For the purposes of this Act, organisms of a particular kind shall be taken to be controllable by biological means if, and only if, those organisms can be controlled by the release of live organisms of another kind.
 
-</dd> </dl>
+##### <a id="4"></a>4  Extension of Act to external Territories
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  The Minister may, by notice published in the _Gazette_, declare that this Act extends to:
 
-<dt>(a)</dt><dd>any other law of the Commonwealth, whether passed or made before or after
+                     (a)  the Territory of Cocos (Keeling) Islands;
 
-the commencement of this Act; or</dd>
+                     (b)  the Territory of Christmas Island;
 
-<dt>(b)</dt><dd>if this Act extends to an external Territory, any law of that Territory,
+                     (c)  the Coral Sea Islands Territory; or
 
-whether passed or made before or after the commencement of this Act.
+                     (d)  the Territory of Ashmore and Cartier Islands.
 
-</dd>
+             (2)  Where a declaration under subsection (1) is in force in relation to a Territory, this Act has effect, in relation to that Territory, as if the references in this Act, other than in this section, to the Australian Capital Territory were references to that Territory.
 
-</dl></dl></dl>
+##### <a id="5"></a>5  Saving of other laws
 
-<dl compact="">
+             (1)  This Act shall be read and construed as being in addition to, and not in derogation of or in substitution for:
 
-<dt>(2)</dt><dd>Without limiting the generality of subsection (1), this Act shall not be
+                     (a)  any other law of the Commonwealth, whether passed or made before or after the commencement of this Act; or
 
-read or construed as authorizing or permitting the doing of any act in
+                     (b)  if this Act extends to an external Territory, any law of that Territory, whether passed or made before or after the commencement of this Act.
 
-contravention of:
+             (2)  Without limiting the generality of subsection (1), this Act shall not be read or construed as authorizing or permitting the doing of any act in contravention of:
 
-</dd> </dl>
+                     (a)  the _Quarantine Act 1908_; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  the _Wildlife Protection (Regulation of Exports and Imports) Act 1982._
 
-<dt>(a)</dt><dd>the _Quarantine Act 1908_; or</dd>
+##### <a id="6"></a>6  Act to bind Crown
 
-<dt>(b)</dt><dd>Part&#160;13A of the _Environment Protection and Biodiversity Conservation Act 1999._
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States and of Norfolk Island.
 
-</dd>
+             (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State or of Norfolk Island liable to be prosecuted for an offence.
 
-</dl></dl></dl>
+##### <a id="7"></a>7  Act not limited to agricultural pests
 
-**
+                   The fact that certain powers of the Authority under this Act cannot be exercised except on the recommendation of the Council does not imply that the only kinds of organisms that may be regarded as causing harm for the purposes of this Act are kinds that are harmful by reason of their effect on agriculture.
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 6  Act to bind Crown 
-**
+##### <a id="8"></a>8  Commonwealth Biological Control Authority
 
- <dl compact="">
+             (1)  For the purposes of this Act, a Commonwealth Biological Control Authority is established by this section.
 
-<dt>(1)</dt><dd>This Act binds the Crown in right of the Commonwealth, of each of the
+             (2)  The Authority shall be the Minister who is for the time being a member of the Council.
 
-States and of Norfolk Island.</dd> <dt>(2)</dt><dd>Nothing in this Act renders the Crown in right of the Commonwealth, of a State or of Norfolk Island liable to be prosecuted for an offence. </dd> </dl>
+##### <a id="9"></a>9  Relevant State laws
 
-**
+             (1)  Where a law of a State:
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 6A  Application of the _Criminal Code_ 
-**
+                     (a)  provides for the control by biological means of organisms causing harm in the State; and
 
- <dl compact="">
-
-		Chapter&#160;2 of the _Criminal Code_ applies to all offences against
-
-this Act.
-
- </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
-
-general principles of criminal responsibility.
-
- </dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 7  Act not limited to agricultural pests 
-**
-
- <dl compact="">
-
-		The fact that certain powers of the Authority under this Act cannot be
-
-exercised except on the recommendation of the Council does not imply that the
-
-only kinds of organisms that may be regarded as causing harm for the purposes
-
-of this Act are kinds that are harmful by reason of their effect on agriculture.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 8  Commonwealth Biological Control Authority 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>For the purposes of this Act, a Commonwealth Biological Control Authority
-
-is established by this section.</dd> <dt>(2)</dt><dd>The Authority shall be the Minister who is for the time being a member of the Council. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 9  Relevant State laws 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a law of a State:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>provides for the control by biological means of organisms causing harm in
-
-the State; and</dd>
-
-<dt>(b)</dt><dd>establishes an authority having similar powers and functions to those of
-
-the Authority;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  establishes an authority having similar powers and functions to those of the Authority;
 
 the Authority may, by notice published in the _Gazette_, declare that law to be a relevant State law for the purposes of this Act.
 
-<dl compact="">
+             (2)  A declaration shall not be made under subsection (1) in respect of a law of a State unless the Minister of the State administering that law consents in writing to the declaration being made.
 
-<dt>(2)</dt><dd>A declaration shall not be made under subsection (1) in respect of a law
+             (3)  A declaration made under subsection (1) shall cease to have effect in respect of a law if that law ceases to be a law described in paragraphs (1)(a) and (b).
 
-of a State unless the Minister of the State administering that law consents in
+##### <a id="10"></a>10  Delegation
 
-writing to the declaration being made.</dd> <dt>(3)</dt><dd>A declaration made under subsection (1) shall cease to have effect in respect of a law if that law ceases to be a law described in paragraphs (1)(a) and (b). </dd> </dl>
+             (1)  The Authority may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Authority, delegate to an officer of the Department any of the powers of the Authority under this Act, other than:
 
-**
+                     (a)  the powers of the Authority under section 9, 19, 20, 28, 29, 30, 31, 33, 34, 38 or 53; or
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 10  Delegation 
-**
+                     (b)  this power of delegation.
 
- <dl compact="">
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Authority.
 
-<dt>(1)</dt><dd>The Authority may, either generally or as otherwise provided by the
+             (3)  A delegation under this section does not prevent the exercise of a power by the Authority.
 
-instrument of delegation, by writing signed by the Authority, delegate to an
+## Part II—Target organisms
 
-officer of the Department any of the powers of the Authority under this Act,
+##### <a id="12"></a>12  Target organisms
 
-other than:
+             (1)  Subject to and in accordance with this Part, organisms of a particular kind may be declared to be target organisms for the purposes of this Act.
 
-</dd> </dl>
+             (2)  Action for the declaration of target organisms in accordance with this Part may be commenced by:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  a unanimous recommendation to the Authority by the Council; or
 
-<dt>(a)</dt><dd>the powers of the Authority under section 9, 19, 20, 28, 29, 30, 31, 33,
+                     (b)  an application under section 13.
 
-34, 38 or 53; or</dd>
+##### <a id="13"></a>13  Target application
 
-<dt>(b)</dt><dd>this power of delegation.
+             (1)  Where a person considers that organisms of a particular kind are causing harm in the Australian Capital Territory and are, or are likely to be, controllable by biological means, the person may make an application to the Authority for a declaration that organisms of that kind are target organisms for the purposes of this Act.
 
-</dd>
+             (2)  A target application shall be in writing signed:
 
-</dl></dl></dl>
+                     (a)  in the case of an application by a natural person—by the applicant; or
 
-<dl compact="">
+                     (b)  in any other case—by a natural person authorized by the applicant to do so.
 
-<dt>(2)</dt><dd>A power so delegated, when exercised by the delegate, shall, for the
+             (3)  A target application in relation to organisms of a particular kind shall set out:
 
-purposes of this Act, be deemed to have been exercised by the Authority.</dd> <dt>(3)</dt><dd>A delegation under this section does not prevent the exercise of a power by the Authority. </dd> </dl>
+                     (a)  particulars identifying the organisms;
 
-<center>**
+                     (b)  particulars of the reasons why the organisms are considered to be causing harm in the Australian Capital Territory;
 
-###  BIOLOGICAL CONTROL ACT 1984<part>Part II&#151;Target organisms </part>
-**</center>
+                     (c)  reasons why the applicant considers that the organisms are, or are likely to be, controllable by biological means; and
 
-**
+                     (d)  such other particulars (if any) as are prescribed.
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 12  Target organisms 
-**
+##### <a id="14"></a>14  Withdrawal of target application
 
- <dl compact="">
+             (1)  A person who has made a target application may withdraw that application at any time before the application is referred to the Council under subsection 15(1).
 
-<dt>(1)</dt><dd>Subject to and in accordance with this Part, organisms of a particular
+             (2)  The withdrawal of a target application is to be effected by the making of a request for withdrawal to the Authority in writing signed:
 
-kind may be declared to be target organisms for the purposes of this Act.</dd> <dt>(2)</dt><dd>Action for the declaration of target organisms in accordance with this Part may be commenced by: </dd> </dl>
+                     (a)  in the case of an application by a natural person—by the person who signed the application or by the legal personal representative of that person; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  in any other case—by the person who signed the application or by a person authorized by the applicant to sign the request.
 
-<dt>(a)</dt><dd>a unanimous recommendation to the Authority by the Council; or</dd>
+##### <a id="15"></a>15  Referral of target application to Council
 
-<dt>(b)</dt><dd>an application under section 13.
+             (1)  Subject to subsection (2), where a target application is received by the Authority, the Authority shall refer the application to the Council for its consideration.
 
-</dd>
+             (2)  The Authority is not required to refer to the Council a target application in respect of organisms of a particular kind if:
 
-</dl></dl></dl>
+                     (a)  other action to have them declared to be target organisms is being, or has been, taken under this Act; or
 
-**
+                     (b)  action to have them declared to be organisms that may be controlled by biological means is being, or has been, taken under a relevant State law.
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 13  Target application 
-**
+##### <a id="16"></a>16  Notice of rejection of target application
 
- <dl compact="">
+             (1)  If the Council, after considering a target application referred to it by the Authority, informs the Authority that it does not recommend that the organisms to which the application relates should be target organisms, the Authority shall cause to be given, in such manner as the Authority considers appropriate, to the person who made the target application and to the persons (if any) who made a later target application in respect of those organisms notice in writing stating that the Council does not recommend that those organisms should be target organisms.
 
-<dt>(1)</dt><dd>Where a person considers that organisms of a particular kind are causing
+             (2)  A notice under subsection (1) shall:
 
-harm in the Australian Capital Territory and are, or are likely to be,
+                     (a)  if reasons have been given by the Council for not recommending that organisms to which the notice relates should be target organisms—set out those reasons; and
 
-controllable by biological means, the person may make an application to the
+                     (b)  if there are circumstances in which, in the opinion of the Authority, a target application in relation to those organisms might result in a recommendation by the Council that those organisms should be target organisms—specify those circumstances.
 
-Authority for a declaration that organisms of that kind are target organisms
+##### <a id="17"></a>17  Notice of proposed target organisms
 
-for the purposes of this Act.</dd> <dt>(2)</dt><dd>A target application shall be in writing signed: </dd> </dl>
+             (1)  Where the Council has unanimously recommended to the Authority that organisms of a particular kind should be target organisms, the Authority shall publish in the _Gazette_ and in such newspapers or journals as the Authority considers appropriate a notice that the Authority is contemplating declaring those organisms to be target organisms.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  Without limiting the generality of subsection (1), a notice under that subsection shall be published in each State and the Australian Capital Territory by being published in at least one newspaper circulating generally in that State or Territory.
 
-<dt>(a)</dt><dd>in the case of an application by a natural person&#151;by the applicant; or</dd>
+             (3)  A notice under subsection (1) in relation to organisms of a particular kind shall:
 
-<dt>(b)</dt><dd>in any other case&#151;by a natural person authorized by the applicant to do
+                     (a)  set out particulars identifying the organisms;
 
-so.
+                     (b)  set out brief particulars of the reasons why the organisms are believed to be causing harm in the Australian Capital Territory;
 
-</dd>
+                     (c)  set out brief particulars of the benefits (if any) resulting from the absence of biological control of the population of the organisms;
 
-</dl></dl></dl>
+                     (d)  state that the Council has unanimously recommended that the organisms should be declared to be target organisms;
 
-<center>Back to Top</center>
+                     (e)  where the recommendation of the Council followed a target application in relation to the organisms—inform the public that copies of the target application can be perused at a place specified in the notice; and
 
-<dl compact="">
+                      (f)  invite any persons who object to, or support, the organisms being declared to be target organisms to submit written particulars of the grounds for that objection or support, as the case may be, to the Authority within the period of 6 weeks after the date of the publication of the notice in the _Gazette_, or within such further period as the Authority (either before or after the expiration of that period) allows.
 
-<dt>(3)</dt><dd>A target application in relation to organisms of a particular kind shall
+             (4)  Where the Authority publishes a notice under subsection (1) in relation to a target application, the Authority shall cause copies of the application to be available for perusal at the place specified in the notice in accordance with paragraph (3)(e).
 
-set out:
+##### <a id="18"></a>18  Consideration of submissions relating to target organisms
 
-</dd> </dl>
+                   The Authority shall consider any submissions in response to an invitation referred to in paragraph 17(3)(f).
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="19"></a>19  Inquiries relating to target organisms
 
-<dt>(a)</dt><dd>particulars identifying the organisms;</dd>
+             (1)  Where the Authority, after:
 
-<dt>(b)</dt><dd>particulars of the reasons why the organisms are considered to be causing
+                     (a)  complying with sections 17 and 18 in respect of a target recommendation;
 
-harm in the Australian Capital Territory;</dd>
+                     (b)  consulting the Council regarding the appropriateness of action under this section in respect of that recommendation;
 
-<dt>(c)</dt><dd>reasons why the applicant considers that the organisms are, or are likely
+                     (c)  considering the nature of, the proceedings in, and the findings of, any inquiry that the Authority considers relevant to the recommendation (which may be an inquiry conducted on behalf of a State); and
 
-to be, controllable by biological means; and</dd>
-
-<dt>(d)</dt><dd>such other particulars (if any) as are prescribed.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 14  Withdrawal of target application 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person who has made a target application may withdraw that application
-
-at any time before the application is referred to the Council under subsection
-
-15(1).</dd> <dt>(2)</dt><dd>The withdrawal of a target application is to be effected by the making of a request for withdrawal to the Authority in writing signed: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of an application by a natural person&#151;by the person who
-
-signed the application or by the legal personal representative of that person;
-
-or</dd>
-
-<dt>(b)</dt><dd>in any other case&#151;by the person who signed the application or by a person
-
-authorized by the applicant to sign the request.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 15  Referral of target application to Council 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to subsection (2), where a target application is received by the
-
-Authority, the Authority shall refer the application to the Council for its
-
-consideration.</dd> <dt>(2)</dt><dd>The Authority is not required to refer to the Council a target application in respect of organisms of a particular kind if: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>other action to have them declared to be target organisms is being, or has
-
-been, taken under this Act; or</dd>
-
-<dt>(b)</dt><dd>action to have them declared to be organisms that may be controlled by
-
-biological means is being, or has been, taken under a relevant State law.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 16  Notice of rejection of target application 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If the Council, after considering a target application referred to it by
-
-the Authority, informs the Authority that it does not recommend that the
-
-organisms to which the application relates should be target organisms, the
-
-Authority shall cause to be given, in such manner as the Authority considers
-
-appropriate, to the person who made the target application and to the persons
-
-(if any) who made a later target application in respect of those organisms
-
-notice in writing stating that the Council does not recommend that those
-
-organisms should be target organisms.</dd> <dt>(2)</dt><dd>A notice under subsection (1) shall: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if reasons have been given by the Council for not recommending that
-
-organisms to which the notice relates should be target organisms&#151;set out those
-
-reasons; and</dd>
-
-<dt>(b)</dt><dd>if there are circumstances in which, in the opinion of the Authority, a
-
-target application in relation to those organisms might result in a
-
-recommendation by the Council that those organisms should be target
-
-organisms&#151;specify those circumstances.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 17  Notice of proposed target organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Council has unanimously recommended to the Authority that
-
-organisms of a particular kind should be target organisms, the Authority shall
-
-publish in the _Gazette_ and in such newspapers or journals as the
-
-Authority considers appropriate a notice that the Authority is contemplating
-
-declaring those organisms to be target organisms.</dd> <dt>(2)</dt><dd>Without limiting the generality of subsection (1), a notice under that subsection shall be published in each State and the Australian Capital Territory by being published in at least one newspaper circulating generally in that State or Territory.</dd> <dt>(3)</dt><dd>A notice under subsection (1) in relation to organisms of a particular kind shall: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>set out particulars identifying the organisms;</dd>
-
-<dt>(b)</dt><dd>set out brief particulars of the reasons why the organisms are believed to
-
-be causing harm in the Australian Capital Territory;</dd>
-
-<dt>(c)</dt><dd>set out brief particulars of the benefits (if any) resulting from the
-
-absence of biological control of the population of the organisms;</dd>
-
-<dt>(d)</dt><dd>state that the Council has unanimously recommended that the organisms
-
-should be declared to be target organisms;</dd>
-
-<dt>(e)</dt><dd>where the recommendation of the Council followed a target application in
-
-relation to the organisms&#151;inform the public that copies of the target
-
-application can be perused at a place specified in the notice; and</dd>
-
-<dt>(f)</dt><dd>invite any persons who object to, or support, the organisms being declared
-
-to be target organisms to submit written particulars of the grounds for that
-
-objection or support, as the case may be, to the Authority within the period of
-
-6&#160;weeks after the date of the publication of the notice in the
-
-_Gazette_, or within such further period as the Authority (either before
-
-or after the expiration of that period) allows.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>Where the Authority publishes a notice under subsection (1) in relation to
-
-a target application, the Authority shall cause copies of the application to be
-
-available for perusal at the place specified in the notice in accordance with
-
-paragraph (3)(e).
-
-</dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 18  Consideration of submissions relating to target organisms 
-**
-
-<dl compact="">
-
-		The Authority shall consider any submissions in response to an invitation
-
-referred to in paragraph 17(3)(f).
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 19  Inquiries relating to target organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Authority, after:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>complying with sections 17 and 18 in respect of a target recommendation;</dd>
-
-<dt>(b)</dt><dd>consulting the Council regarding the appropriateness of action under this
-
-section in respect of that recommendation;</dd>
-
-<dt>(c)</dt><dd>considering the nature of, the proceedings in, and the findings of, any
-
-inquiry that the Authority considers relevant to the recommendation (which may
-
-be an inquiry conducted on behalf of a State); and</dd>
-
-<dt>(d)</dt><dd>considering any reports relating to the recommendation made by any person
-
-or authority competent to do so that the Authority considers relevant;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  considering any reports relating to the recommendation made by any person or authority competent to do so that the Authority considers relevant;
 
 considers that there is evidence that a person or the environment would be adversely affected by the control of organisms of the kind to which the recommendation relates but an adequate investigation or inquiry into the effect of such control has not been held, the Authority may:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (e)  direct that an inquiry under Part VII be conducted in respect of the recommendation; or
 
-<dt>(e)</dt><dd>direct that an inquiry under Part VII be conducted in respect of the
+                      (f)  arrange for the Minister who administers the _Productivity Commission Act 1998_ to refer the recommendation to the Productivity Commission for inquiry and report.
 
-recommendation; or</dd>
+          (1A)  Action shall not be taken under paragraph (1)(e) or (f) in respect of a target recommendation unless the Council, upon being consulted in accordance with paragraph (1)(b), has unanimously recommended that the action be taken.
 
-<dt>(f)</dt><dd>arrange for the Minister who administers the _Productivity Commission Act 1998_ to refer the recommendation to the Productivity Commission for
+             (2)  Where the Authority takes action under paragraph (1)(e) or (f) for an inquiry in relation to a target recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry.
 
-inquiry and report.
+##### <a id="20"></a>20  Declaration of target organisms
 
-</dd>
+             (1)  Where the Authority, after:
 
-</dl></dl></dl>
+                     (a)  complying with the preceding provisions of this Part in relation to a target recommendation;
 
-<dl compact="">
+                     (b)  considering all reports and other matters relating to that recommendation that the Authority considers it appropriate to consider; and
 
-<dt>(1A)</dt><dd>Action shall not be taken under paragraph (1)(e) or (f) in respect of a
-
-target recommendation unless the Council, upon being consulted in accordance
-
-with paragraph (1)(b), has unanimously recommended that the action be taken.</dd> <dt>(2)</dt><dd>Where the Authority takes action under paragraph (1)(e) or (f) for an inquiry in relation to a target recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 20  Declaration of target organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Authority, after:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>complying with the preceding provisions of this Part in relation to a
-
-target recommendation;</dd>
-
-<dt>(b)</dt><dd>considering all reports and other matters relating to that recommendation
-
-that the Authority considers it appropriate to consider; and</dd>
-
-<dt>(ba)</dt><dd>consulting the Council regarding the appropriateness of action under this
-
-section in respect of that recommendation;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
+                    (ba)  consulting the Council regarding the appropriateness of action under this section in respect of that recommendation;
 
 is satisfied:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  that organisms of the kind to which the recommendation relates are causing harm in the Australian Capital Territory;
 
-<dt>(c)</dt><dd>that organisms of the kind to which the recommendation relates are causing
+                     (d)  that organisms of that kind are, or that there is a probability that organisms of that kind are likely to be, controllable by biological means; and
 
-harm in the Australian Capital Territory;</dd>
+                     (e)  that:
 
-<dt>(d)</dt><dd>that organisms of that kind are, or that there is a probability that
+                              (i)  the control throughout Australia of organisms of that kind would not cause any significant harm to any person or to the environment; or
 
-organisms of that kind are likely to be, controllable by biological means;
-
-and</dd>
-
-<dt>(e)</dt><dd>that:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the control throughout Australia of organisms of that kind would not cause
-
-any significant harm to any person or to the environment; or</dd>
-
-<dt>(ii)</dt><dd>any harm caused to persons or to the environment by the control
-
-throughout Australia of organisms of that kind would be significantly less than
-
-the harm caused, or likely to be caused, by failure to control organisms of
-
-that kind throughout Australia;
-
-</dd>
-
-</dl></dl></dl></dl>
+                             (ii)  any harm caused to persons or to the environment by the control throughout Australia of organisms of that kind would be significantly less than the harm caused, or likely to be caused, by failure to control organisms of that kind throughout Australia;
 
 the Authority, subject to subsection (2), shall, by notice published in the _Gazette_, declare organisms of that kind to be target organisms for the purposes of this Act.
 
-<dl compact="">
+             (2)  The Authority shall not make a declaration under subsection (1) in respect of a target recommendation unless the Council, upon being consulted in accordance with paragraph (1)(ba), has unanimously recommended that the declaration be made.
 
-<dt>(2)</dt><dd>The Authority shall not make a declaration under subsection (1) in respect
+## Part III—Agent organisms
 
-of a target recommendation unless the Council, upon being consulted in
+##### <a id="21"></a>21  Agent organisms
 
-accordance with paragraph (1)(ba), has unanimously recommended that the
+             (1)  Subject to and in accordance with this Part, prescribed live organisms of a particular kind may be declared to be agent organisms for the purposes of this Act.
 
-declaration be made.
+             (2)  Action for the declaration of agent organisms in accordance with this Part may be commenced by:
 
-</dd> </dl>
+                     (a)  a unanimous recommendation made to the Authority by the Council; or
 
-<center>**
+                     (b)  an application under section 22.
 
-###  BIOLOGICAL CONTROL ACT 1984<part>Part III&#151;Agent organisms </part>
-**</center>
+##### <a id="22"></a>22  Agent application
 
-**
+             (1)  Where a person considers that the release of prescribed live organisms of a particular kind would result in the control of:
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 21  Agent organisms 
-**
+                     (a)  target organisms of a particular kind or kinds; or
 
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to and in accordance with this Part, prescribed live organisms of
-
-a particular kind may be declared to be agent organisms for the purposes of
-
-this Act.</dd> <dt>(2)</dt><dd>Action for the declaration of agent organisms in accordance with this Part may be commenced by: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a unanimous recommendation made to the Authority by the Council; or</dd>
-
-<dt>(b)</dt><dd>an application under section 22.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 22  Agent application 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where a person considers that the release of prescribed live organisms of
-
-a particular kind would result in the control of:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>target organisms of a particular kind or kinds; or</dd>
-
-<dt>(b)</dt><dd>organisms to which a target recommendation applies or target
-
-recommendations apply;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  organisms to which a target recommendation applies or target recommendations apply;
 
 (whether or not the organisms referred to in paragraph (a) or (b) can be controlled by existing agent organisms) the person may make an application to the Authority for a declaration that the first-mentioned organisms are agent organisms for the purposes of this Act.
 
-<dl compact="">
+             (2)  An agent application shall be in writing signed:
 
-<dt>(2)</dt><dd>An agent application shall be in writing signed:
+                     (a)  in the case of an application by a natural person—by the applicant; or
 
-</dd> </dl>
+                     (b)  in any other case—by a natural person authorized by the applicant to do so.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  An agent application in relation to organisms of a particular kind shall set out:
 
-<dt>(a)</dt><dd>in the case of an application by a natural person&#151;by the applicant; or</dd>
+                     (a)  particulars identifying the organisms;
 
-<dt>(b)</dt><dd>in any other case&#151;by a natural person authorized by the applicant to do
+                     (b)  particulars of the possible ways in which the applicant considers that the release of the organisms could control the relevant population of target organisms; and
 
-so.
+                     (c)  such other particulars (if any) as are prescribed.
 
-</dd>
+##### <a id="23"></a>23  Withdrawal of agent application
 
-</dl></dl></dl>
+             (1)  A person who has made an agent application may withdraw that application at any time before the application is referred to the Council under subsection 24(1).
 
-<dl compact="">
+             (2)  The withdrawal of an agent application is to be effected by the making of a request for withdrawal to the Authority in writing signed:
 
-<dt>(3)</dt><dd>An agent application in relation to organisms of a particular kind shall
+                     (a)  in the case of an application by a natural person—by the person who signed the application or by the legal personal representative of that person; or
 
-set out:
+                     (b)  in any other case—by the person who signed the application or by a person authorized by the applicant to sign the request.
 
-</dd> </dl>
+##### <a id="24"></a>24  Referral of agent application to Council
 
-<center>Back to Top</center>
+             (1)  Subject to subsection (2), where an agent application is received by the Authority, the Authority shall refer the application to the Council for its consideration.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  The Authority is not required to refer to the Council an agent application in respect of organisms of a particular kind if:
 
-<dt>(a)</dt><dd>particulars identifying the organisms;</dd>
+                     (a)  other action to have them declared to be agent organisms is being, or has been, taken under this Act; or
 
-<dt>(b)</dt><dd>particulars of the possible ways in which the applicant considers that the
+                     (b)  action to have them declared to be organisms that may be released to control the population of other organisms is being, or has been, taken under a relevant State law.
 
-release of the organisms could control the relevant population of target
+##### <a id="25"></a>25  Notice of rejection of agent application
 
-organisms; and</dd>
+             (1)  If the Council, after considering an agent application referred to it by the Authority, informs the Authority that it does not recommend that the organisms to which the application relates should be agent organisms, the Authority shall cause to be given, in such manner as the Authority considers appropriate, to the person who made the agent application and to the persons (if any) who made a later agent application in respect of those organisms notice in writing that the Council does not recommend that those organisms should be agent organisms.
 
-<dt>(c)</dt><dd>such other particulars (if any) as are prescribed.
+             (2)  A notice under subsection (1) shall:
 
-</dd>
+                     (a)  if reasons have been given by the Council for not recommending that organisms to which the notice relates should be agent organisms—set out those reasons; and
 
-</dl></dl></dl>
+                     (b)  if there are circumstances in which, in the opinion of the Authority, an agent application in relation to those organisms might result in a recommendation by the Council that those organisms should be agent organisms—specify those circumstances.
 
-**
+##### <a id="26"></a>26  Notice of proposed agent organisms
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 23  Withdrawal of agent application 
-**
+             (1)  Where the Council has unanimously recommended to the Authority that prescribed live organisms of a particular kind should be agent organisms, the Authority shall publish in the _Gazette_, and may publish in such newspapers or journals as the Authority thinks appropriate, a notice that the Authority is contemplating declaring those organisms to be agent organisms.
 
- <dl compact="">
+             (2)  A notice under subsection (1) in relation to organisms of a particular kind (in this subsection referred to as the **_relevant organisms_**) shall:
 
-<dt>(1)</dt><dd>A person who has made an agent application may withdraw that application
+                     (a)  set out particulars identifying the relevant organisms;
 
-at any time before the application is referred to the Council under subsection
+                     (b)  specify the organisms which it is intended to control by the release of the relevant organisms;
 
-24(1).</dd> <dt>(2)</dt><dd>The withdrawal of an agent application is to be effected by the making of a request for withdrawal to the Authority in writing signed: </dd> </dl>
+                     (c)  set out brief particulars of the manner in which the relevant organisms would control the organisms specified in the notice in accordance with paragraph (b);
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  state that the Council has unanimously recommended that the relevant organisms should be declared to be agent organisms;
 
-<dt>(a)</dt><dd>in the case of an application by a natural person&#151;by the person who
+                     (e)  where the recommendation of the Council followed an agent application in relation to the organisms—inform the public that copies of the agent application can be perused at a place specified in the notice; and
 
-signed the application or by the legal personal representative of that person;
+                      (f)  invite any persons who object to, or support, the relevant organisms being declared to be agent organisms to submit written particulars of the grounds for that objection or support, as the case may be, to the Authority within the period of 6 weeks after the date of the publication of the notice in the _Gazette_, or within such further period as the Authority (either before or after the expiration of that period) allows.
 
-or</dd>
+             (3)  Where the Authority publishes a notice under subsection (1) in relation to an agent application, the Authority shall cause copies of the application to be available for perusal at the place specified in the notice in accordance with paragraph (2)(e).
 
-<dt>(b)</dt><dd>in any other case&#151;by the person who signed the application or by a person
+             (4)  Where the Council has recommended to the Authority that 2 or more kinds of organisms should be agent organisms for the purpose of the control of the same population of particular organisms, a notice under subsection (1) relating to one of those kinds may be combined with a notice under that subsection relating to the other kind or kinds.
 
-authorized by the applicant to sign the request.
+##### <a id="27"></a>27  Consideration of submissions relating to agent organisms
 
-</dd>
+                   The Authority shall consider any submissions in response to an invitation referred to in paragraph 26(2)(f).
 
-</dl></dl></dl>
+##### <a id="28"></a>28  Inquiries relating to agent organisms
 
-**
+             (1)  Where the Authority, after:
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 24  Referral of agent application to Council 
-**
+                     (a)  complying with sections 26 and 27 in respect of an agent recommendation;
 
- <dl compact="">
+                     (b)  consulting the Council regarding the appropriateness of action under this section in respect of that recommendation;
 
-<dt>(1)</dt><dd>Subject to subsection (2), where an agent application is received by the
+                     (c)  considering the nature of, the proceedings in, and the findings of, any inquiry that the Authority considers relevant to the recommendation (which may be an inquiry under Part VII in respect of a target recommendation or an inquiry conducted on behalf of a State); and
 
-Authority, the Authority shall refer the application to the Council for its
-
-consideration.</dd> <dt>(2)</dt><dd>The Authority is not required to refer to the Council an agent application in respect of organisms of a particular kind if: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>other action to have them declared to be agent organisms is being, or has
-
-been, taken under this Act; or</dd>
-
-<dt>(b)</dt><dd>action to have them declared to be organisms that may be released to
-
-control the population of other organisms is being, or has been, taken under a
-
-relevant State law.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 25  Notice of rejection of agent application 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If the Council, after considering an agent application referred to it by
-
-the Authority, informs the Authority that it does not recommend that the
-
-organisms to which the application relates should be agent organisms, the
-
-Authority shall cause to be given, in such manner as the Authority considers
-
-appropriate, to the person who made the agent application and to the persons
-
-(if any) who made a later agent application in respect of those organisms
-
-notice in writing that the Council does not recommend that those organisms
-
-should be agent organisms.</dd> <dt>(2)</dt><dd>A notice under subsection (1) shall: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if reasons have been given by the Council for not recommending that
-
-organisms to which the notice relates should be agent organisms&#151;set out those
-
-reasons; and</dd>
-
-<dt>(b)</dt><dd>if there are circumstances in which, in the opinion of the Authority, an
-
-agent application in relation to those organisms might result in a
-
-recommendation by the Council that those organisms should be agent
-
-organisms&#151;specify those circumstances.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 26  Notice of proposed agent organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Council has unanimously recommended to the Authority that
-
-prescribed live organisms of a particular kind should be agent organisms, the
-
-Authority shall publish in the _Gazette_, and may publish in such
-
-newspapers or journals as the Authority thinks appropriate, a notice that the
-
-Authority is contemplating declaring those organisms to be agent organisms.</dd> <dt>(2)</dt><dd>A notice under subsection (1) in relation to organisms of a particular kind (in this subsection referred to as the _relevant organisms_) shall: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>set out particulars identifying the relevant organisms;</dd>
-
-<dt>(b)</dt><dd>specify the organisms which it is intended to control by the release of
-
-the relevant organisms;</dd>
-
-<dt>(c)</dt><dd>set out brief particulars of the manner in which the relevant organisms
-
-would control the organisms specified in the notice in accordance with
-
-paragraph (b);</dd>
-
-<dt>(d)</dt><dd>state that the Council has unanimously recommended that the relevant
-
-organisms should be declared to be agent organisms;</dd>
-
-<dt>(e)</dt><dd>where the recommendation of the Council followed an agent application in
-
-relation to the organisms&#151;inform the public that copies of the agent
-
-application can be perused at a place specified in the notice; and</dd>
-
-<dt>(f)</dt><dd>invite any persons who object to, or support, the relevant organisms being
-
-declared to be agent organisms to submit written particulars of the grounds for
-
-that objection or support, as the case may be, to the Authority within the
-
-period of 6 weeks after the date of the publication of the notice in the
-
-_Gazette_, or within such further period as the Authority (either before
-
-or after the expiration of that period) allows.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where the Authority publishes a notice under subsection (1) in relation to
-
-an agent application, the Authority shall cause copies of the application to be
-
-available for perusal at the place specified in the notice in accordance with
-
-paragraph (2)(e).</dd> <dt>(4)</dt><dd>Where the Council has recommended to the Authority that 2 or more kinds of organisms should be agent organisms for the purpose of the control of the same population of particular organisms, a notice under subsection (1) relating to one of those kinds may be combined with a notice under that subsection relating to the other kind or kinds. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 27  Consideration of submissions relating to agent organisms 
-**
-
- <dl compact="">
-
-		The Authority shall consider any submissions in response to an invitation
-
-referred to in paragraph 26(2)(f).
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 28  Inquiries relating to agent organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Authority, after:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>complying with sections 26 and 27 in respect of an agent recommendation;</dd>
-
-<dt>(b)</dt><dd>consulting the Council regarding the appropriateness of action under this
-
-section in respect of that recommendation;</dd>
-
-<dt>(c)</dt><dd>considering the nature of, the proceedings in, and the findings of, any
-
-inquiry that the Authority considers relevant to the recommendation (which may
-
-be an inquiry under Part&#160;VII in respect of a target recommendation or an
-
-inquiry conducted on behalf of a State); and</dd>
-
-<dt>(d)</dt><dd>considering any reports relating to the recommendation made by any person
-
-or authority competent to do so that the Authority considers relevant;
-
-</dd>
-
-</dl></dl></dl>
+                     (d)  considering any reports relating to the recommendation made by any person or authority competent to do so that the Authority considers relevant;
 
 considers that there is evidence that a person or the environment would be adversely affected by the release of organisms of the kind to which the recommendation relates but an adequate investigation or inquiry into the effect of such a release has not been held, the Authority may:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (e)  direct that an inquiry under Part VII be conducted in respect of the recommendation; or
 
-<dt>(e)</dt><dd>direct that an inquiry under Part VII be conducted in respect of the
+                      (f)  arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the recommendation to the Industries Assistance Commission for inquiry and report.
 
-recommendation; or</dd>
+          (1A)  Action shall not be taken under paragraph (1)(e) or (f) in respect of an agent recommendation unless the Council, upon being consulted in accordance with paragraph (1)(b), has unanimously recommended that the action be taken.
 
-<dt>(f)</dt><dd>arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the recommendation to the Industries
+             (2)  An inquiry by virtue of paragraph (1)(e) or (f) in respect of an agent recommendation that recommends that organisms of a particular kind should be declared to be agent organisms if organisms to which a target recommendation applies are declared to be target organisms and an inquiry by virtue of paragraph 19(1)(e) or (f), as the case may be, in respect of that target recommendation may be conducted as if they were one inquiry.
 
-Assistance Commission for inquiry and report.
+             (3)  Where the Authority takes action under paragraph (1)(e) or (f) for an inquiry in relation to an agent recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry.
 
-</dd>
+##### <a id="29"></a>29  Declaration of agent organisms
 
-</dl></dl></dl>
+             (1)  Where the Authority, after:
 
-<dl compact="">
+                     (a)  complying with the preceding provisions of this Part in relation to an agent recommendation;
 
-<dt>(1A)</dt><dd>Action shall not be taken under paragraph (1)(e) or (f) in respect of an
+                     (b)  considering all reports and other matters relating to that recommendation that the Authority considers it appropriate to consider; and
 
-agent recommendation unless the Council, upon being consulted in accordance
-
-with paragraph (1)(b), has unanimously recommended that the action be taken.</dd> <dt>(2)</dt><dd>An inquiry by virtue of paragraph (1)(e) or (f) in respect of an agent recommendation that recommends that organisms of a particular kind should be declared to be agent organisms if organisms to which a target recommendation applies are declared to be target organisms and an inquiry by virtue of paragraph&#160;19(1)(e) or (f), as the case may be, in respect of that target recommendation may be conducted as if they were one inquiry.</dd> <dt>(3)</dt><dd>Where the Authority takes action under paragraph (1)(e) or (f) for an inquiry in relation to an agent recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 29  Declaration of agent organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Authority, after:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>complying with the preceding provisions of this Part in relation to an
-
-agent recommendation;</dd>
-
-<dt>(b)</dt><dd>considering all reports and other matters relating to that recommendation
-
-that the Authority considers it appropriate to consider; and</dd>
-
-<dt>(ba)</dt><dd>consulting the Council regarding the appropriateness of action under this
-
-section in respect of that recommendation;
-
-</dd>
-
-</dl></dl></dl>
+                    (ba)  consulting the Council regarding the appropriateness of action under this section in respect of that recommendation;
 
 is satisfied:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  that the release of organisms of the kind to which the recommendation relates (in this subsection referred to as the **_relevant organisms_**) could result in the control of target organisms of a particular kind or kinds in the Australian Capital Territory; and
 
-<dt>(c)</dt><dd>that the release of organisms of the kind to which the recommendation
+                     (d)  that:
 
-relates (in this subsection referred to as the _relevant organisms_) could result in the control of target organisms of a
+                              (i)  the release of the relevant organisms would not cause any significant harm to any person or to the environment, other than the harm (if any) resulting from the control throughout Australia of target organisms of that kind or those kinds; or
 
-particular kind or kinds in the Australian Capital Territory; and</dd>
+                             (ii)  any harm caused to persons or to the environment by the release of the relevant organisms, other than the harm (if any) resulting from the control throughout Australia of target organisms of that kind or those kinds, would be significantly less than:
 
-<dt>(d)</dt><dd>that:
+                                        (A)  the harm caused, or likely to be caused, by failure to control target organisms of that kind or those kinds throughout Australia; and
 
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the release of the relevant organisms would not cause any significant harm
-
-to any person or to the environment, other than the harm (if any) resulting
-
-from the control throughout Australia of target organisms of that kind or those
-
-kinds; or</dd>
-
-<dt>(ii)</dt><dd>any harm caused to persons or to the environment by the release of the
-
-relevant organisms, other than the harm (if any) resulting from the control
-
-throughout Australia of target organisms of that kind or those kinds, would be
-
-significantly less than:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	the harm caused, or likely to be caused, by failure to control target organisms of that kind or those kinds throughout Australia; and
- 	(B)	where target organisms of that kind or those kinds can be controlled by the release of other organisms or otherwise than by biological means&#151;the harm (if any) caused, or likely to be caused, by controlling target organisms of that kind or those kinds throughout Australia by the release of those other organisms or by those other means;
+                                        (B)  where target organisms of that kind or those kinds can be controlled by the release of other organisms or otherwise than by biological means—the harm (if any) caused, or likely to be caused, by controlling target organisms of that kind or those kinds throughout Australia by the release of those other organisms or by those other means;
 
 the Authority, subject to subsection (1A), shall, by notice published in the _Gazette_, declare the relevant organisms to be agent organisms for the purposes of this Act.
 
-<dl compact="">
+          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an agent recommendation unless the Council, upon being consulted in accordance with paragraph (1)(ba), has unanimously recommended that the declaration be made.
 
-<dt>(1A)</dt><dd>The Authority shall not make a declaration under subsection (1)
+             (2)  A notice under subsection (1) declaring organisms of a particular kind to be agent organisms may set out conditions under which those organisms may be released, which conditions may be or include:
 
-in&#160;respect of an agent recommendation unless the Council, upon being
+                     (a)  conditions specifying the persons who may release those organisms; or
 
-consulted in accordance with paragraph (1)(ba), has unanimously recommended
+                     (b)  conditions specifying the circumstances in which those organisms may be released.
 
-that the declaration be made.</dd> <dt>(2)</dt><dd>A notice under subsection (1) declaring organisms of a particular kind to be agent organisms may set out conditions under which those organisms may be released, which conditions may be or include: </dd> </dl>
+## Part IV—Special declarations of target organisms and agent organisms
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="30"></a>30  Emergency declarations
 
-<dt>(a)</dt><dd>conditions specifying the persons who may release those organisms; or</dd>
+             (1)  If the Authority is satisfied:
 
-<dt>(b)</dt><dd>conditions specifying the circumstances in which those organisms may be
+                     (a)  that an emergency exists because organisms of a particular kind (whether or not they are target organisms):
 
-released.
+                              (i)  are having, or are likely to have, a serious effect on the health of humans, animals or plants in the Australian Capital Territory;
 
-</dd>
+                             (ii)  are causing, or are likely to cause, harm in that Territory so as to result in significant damage to the economy; or
 
-</dl></dl></dl>
+                            (iii)  are causing, or are likely to cause, significant damage to the environment in that Territory;
 
-<center>**
+                     (b)  that the release of prescribed live organisms that are not agent organisms would control the first-mentioned organisms; and
 
-###  BIOLOGICAL CONTROL ACT 1984<part>Part IV&#151;Special declarations of target organisms and agent organisms </part>
-**</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 30  Emergency declarations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If the Authority is satisfied:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that an emergency exists because organisms of a particular kind (whether
-
-or not they are target organisms):
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>are having, or are likely to have, a serious effect on the health of
-
-humans, animals or plants in the Australian Capital Territory;</dd>
-
-<dt>(ii)</dt><dd>are causing, or are likely to cause, harm in that Territory so as to
-
-result in significant damage to the economy; or</dd>
-
-<dt>(iii)</dt><dd>are causing, or are likely to cause, significant damage to the
-
-environment in that Territory;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>that the release of prescribed live organisms that are not agent organisms
-
-would control the first-mentioned organisms; and</dd>
-
-<dt>(c)</dt><dd>the release of the organisms of the second-mentioned kind would not have
-
-any significant adverse effects;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the release of the organisms of the second-mentioned kind would not have any significant adverse effects;
 
 the Authority, subject to subsection (1A), shall, by notice published in the _Gazette_, declare:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  where the organisms of the first-mentioned kind are not target organisms, the organisms of the first-mentioned kind to be target organisms for the purposes of this Act; and
 
-<dt>(d)</dt><dd>where the organisms of the first-mentioned kind are not target organisms,
+                     (e)  organisms of the second-mentioned kind to be agent organisms for the purposes of this Act.
 
-the organisms of the first-mentioned kind to be target organisms for the
+          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an organism unless:
 
-purposes of this Act; and</dd>
+                     (a)  the Authority has first consulted the Council regarding the appropriateness of action under this section in respect of that organism; and
 
-<dt>(e)</dt><dd>organisms of the second-mentioned kind to be agent organisms for the
+                     (b)  the Council has unanimously recommended that the declaration be made.
 
-purposes of this Act.
+             (2)  A notice under subsection (1) declaring organisms of a particular kind to be agent organisms may set out particulars of the conditions under which those organisms may be released, which conditions may be or include:
 
-</dd>
+                     (a)  conditions specifying the persons who may release those organisms; or
 
-</dl></dl></dl>
+                     (b)  conditions specifying the circumstances in which those organisms may be released.
 
-<dl compact="">
+##### <a id="31"></a>31  Declarations of existing released organisms
 
-<dt>(1A)</dt><dd>The Authority shall not make a declaration under subsection (1)
+             (1)  If the Authority is satisfied that:
 
-in&#160;respect of an organism unless:
+                     (a)  before the commencement of this Act, prescribed live organisms of a particular kind were released in the Australian Capital Territory for the purpose of the control, by biological means, of organisms of another kind in that Territory; and
 
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Authority has first consulted the Council regarding the
-
-appropriateness of action under this section in respect of that organism; and</dd>
-
-<dt>(b)</dt><dd>the Council has unanimously recommended that the declaration be made.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A notice under subsection (1) declaring organisms of a particular kind to
-
-be agent organisms may set out particulars of the conditions under which those
-
-organisms may be released, which conditions may be or include:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>conditions specifying the persons who may release those organisms; or</dd>
-
-<dt>(b)</dt><dd>conditions specifying the circumstances in which those organisms may be
-
-released.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 31  Declarations of existing released organisms 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If the Authority is satisfied that:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>before the commencement of this Act, prescribed live organisms of a
-
-particular kind were released in the Australian Capital Territory for the
-
-purpose of the control, by biological means, of organisms of another kind in
-
-that Territory; and</dd>
-
-<dt>(b)</dt><dd>if this Act had been in force before the release of the first-mentioned
-
-organisms, it is probable that action would have been taken under this Act that
-
-would have resulted in the organisms of the second-mentioned kind being
-
-declared to be target organisms and the organisms of the first-mentioned kind
-
-being declared to be agent organisms;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  if this Act had been in force before the release of the first-mentioned organisms, it is probable that action would have been taken under this Act that would have resulted in the organisms of the second-mentioned kind being declared to be target organisms and the organisms of the first-mentioned kind being declared to be agent organisms;
 
 the Authority, subject to subsection (1A), may, by notice published in the _Gazette_, declare:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  organisms of the second-mentioned kind to be target organisms for the purposes of this Act; and
 
-<dt>(c)</dt><dd>organisms of the second-mentioned kind to be target organisms for the
+                     (d)  organisms of the first-mentioned kind to be agent organisms for the purposes of this Act.
 
-purposes of this Act; and</dd>
+          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an organism unless:
 
-<dt>(d)</dt><dd>organisms of the first-mentioned kind to be agent organisms for the
+                     (a)  the Authority has first consulted the Council regarding the appropriateness of action under this section in respect of that organism; and
 
-purposes of this Act.
+                     (b)  the Council has unanimously recommended that the declaration be made.
 
-</dd>
+             (2)  A notice under subsection (1) declaring organisms of a particular kind to be agent organisms may set out conditions under which the organisms may be released, which conditions may be or include:
 
-</dl></dl></dl>
+                     (a)  conditions specifying the persons who may release those organisms; or
 
-<dl compact="">
+                     (b)  conditions specifying the circumstances in which those organisms may be released.
 
-<dt>(1A)</dt><dd>The Authority shall not make a declaration under subsection (1)
+##### <a id="32"></a>32  Notice of proposed declaration under section 31
 
-in&#160;respect of an organism unless:
+             (1)  Where the Authority is contemplating making a declaration under section 31, the Authority, subject to subsection (1A), may publish in the _Gazette_ and in such newspapers or journals as the Authority considers appropriate a notice that the Authority is contemplating making that declaration.
 
-</dd> </dl>
+          (1A)  The Authority shall not publish a notice under subsection (1) in respect of an organism unless:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the Authority has first consulted the Council regarding the appropriateness of action under this section in respect of that organism; and
 
-<dt>(a)</dt><dd>the Authority has first consulted the Council regarding the
+                     (b)  the Council has unanimously recommended that the notice be published.
 
-appropriateness of action under this section in respect of that organism; and</dd>
+             (2)  A notice under subsection (1) shall:
 
-<dt>(b)</dt><dd>the Council has unanimously recommended that the declaration be made.
+                     (a)  set out particulars identifying the organisms that the Authority is contemplating declaring to be target organisms;
 
-</dd>
+                     (b)  set out particulars identifying the organisms that the Authority is contemplating declaring to be agent organisms;
 
-</dl></dl></dl>
+                     (c)  identify the occasions known to the Authority on which the organisms referred to in paragraph (b) were released; and
 
-<dl compact="">
+                     (d)  invite any persons who object to, or support, the declaration being made to submit written particulars of the grounds for that objection or support, as the case may be, to the Authority within 6 weeks after the date of the publication of the notice in the _Gazette_, or within such further period as the Authority (either before or after the expiration of that period) allows.
 
-<dt>(2)</dt><dd>A notice under subsection (1) declaring organisms of a particular kind to
+             (3)  Where the Authority publishes a notice under subsection (1) in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered any submissions in response to an invitation referred to in paragraph (2)(d) in relation to the declaration.
 
-be agent organisms may set out conditions under which the organisms may be
+##### <a id="33"></a>33  Inquiries relating to declarations under section 31
 
-released, which conditions may be or include:
+             (1)  Where the Authority:
 
-</dd> </dl>
+                     (a)  is contemplating making a declaration under section 31; and
 
-<center>Back to Top</center>
+                     (b)  after:
 
-<dl compact=""><dl compact=""><dl compact="">
+                              (i)  consulting the Council regarding the appropriateness of action under this section in respect of the contemplated declaration;
 
-<dt>(a)</dt><dd>conditions specifying the persons who may release those organisms; or</dd>
+                             (ii)  considering the nature of, the proceedings in, and the findings of, any inquiry that the Authority considers relevant (which may be an inquiry conducted on behalf of a State); and
 
-<dt>(b)</dt><dd>conditions specifying the circumstances in which those organisms may be
+                            (iii)  considering any reports made by any person or authority competent to do so that the Authority considers relevant;
 
-released.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 32  Notice of proposed declaration under section 31 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Authority is contemplating making a declaration under section
-
-31, the Authority, subject to subsection (1A), may publish in the _Gazette_ and in such newspapers or journals as the Authority considers appropriate a
-
-notice that the Authority is contemplating making that declaration.</dd> <dt>(1A)</dt><dd>The Authority shall not publish a notice under subsection (1) in&#160;respect of an organism unless: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Authority has first consulted the Council regarding the
-
-appropriateness of action under this section in respect of that organism; and</dd>
-
-<dt>(b)</dt><dd>the Council has unanimously recommended that the notice be published.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>A notice under subsection (1) shall:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>set out particulars identifying the organisms that the Authority is
-
-contemplating declaring to be target organisms;</dd>
-
-<dt>(b)</dt><dd>set out particulars identifying the organisms that the Authority is
-
-contemplating declaring to be agent organisms;</dd>
-
-<dt>(c)</dt><dd>identify the occasions known to the Authority on which the organisms
-
-referred to in paragraph (b) were released; and</dd>
-
-<dt>(d)</dt><dd>invite any persons who object to, or support, the declaration being made
-
-to submit written particulars of the grounds for that objection or support, as
-
-the case may be, to the Authority within 6 weeks after the date of the
-
-publication of the notice in the _Gazette_, or within such further period
-
-as the Authority (either before or after the expiration of that period) allows.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where the Authority publishes a notice under subsection (1)
-
-in&#160;relation to a contemplated declaration, the Authority shall not make
-
-that declaration unless and until the Authority has considered any submissions
-
-in response to an invitation referred to in paragraph (2)(d) in relation to the
-
-declaration.
-
-</dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 33  Inquiries relating to declarations under section 31 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the Authority:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>is contemplating making a declaration under section 31; and</dd>
-
-<dt>(b)</dt><dd>after:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>consulting the Council regarding the appropriateness of action under this
-
-section in respect of the contemplated declaration;</dd>
-
-<dt>(ii)</dt><dd>considering the nature of, the proceedings in, and the findings of, any
-
-inquiry that the Authority considers relevant (which may be an inquiry
-
-conducted on behalf of a State); and</dd>
-
-<dt>(iii)</dt><dd>considering any reports made by any person or authority competent to do
-
-so that the Authority considers relevant;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		considers that there is evidence that a person or the environment would be
-
-adversely affected by the release of organisms of the kind to which the
-
-declaration would relate but an adequate investigation or inquiry into the
-
-effect of such a release has not been held;
-
-</dl></dl></dl>
+                            considers that there is evidence that a person or the environment would be adversely affected by the release of organisms of the kind to which the declaration would relate but an adequate investigation or inquiry into the effect of such a release has not been held;
 
 the Authority may:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  direct that an inquiry under Part VII be conducted in respect of the contemplated declaration; or
 
-<dt>(c)</dt><dd>direct that an inquiry under Part VII be conducted in respect of the
+                     (d)  arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the contemplated declaration to the Industries Assistance Commission for inquiry and report.
 
-contemplated declaration; or</dd>
+          (1A)  Action shall not be taken under paragraph (1)(c) or (d) in respect of a contemplated declaration unless the Council, upon being consulted in accordance with subparagraph (1)(b)(i), has unanimously recommended that the action be taken.
 
-<dt>(d)</dt><dd>arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the contemplated declaration to the Industries
+             (2)  Where the Authority takes action under paragraph (1)(c) or (d) for an inquiry in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered the report made as the result of the inquiry.
 
-Assistance Commission for inquiry and report.
+##### <a id="34"></a>34  Declaration of organisms declared under relevant State law
 
-</dd>
+             (1)  Where organisms of a particular kind are organisms that for the purposes of a relevant State law may be controlled by biological means, the Authority may, by notice published in the _Gazette_, declare those organisms to be target organisms for the purposes of this Act.
 
-</dl></dl></dl>
+             (2)  Where:
 
-<center>Back to Top</center>
+                     (a)  prescribed live organisms of a particular kind are organisms that for the purposes of a relevant State law may be released to control other organisms; and
 
-<dl compact="">
-
-<dt>(1A)</dt><dd>Action shall not be taken under paragraph (1)(c) or (d) in&#160;respect
-
-of a contemplated declaration unless the Council, upon being consulted in
-
-accordance with subparagraph (1)(b)(i), has unanimously recommended that the
-
-action be taken.</dd> <dt>(2)</dt><dd>Where the Authority takes action under paragraph (1)(c) or (d) for an inquiry in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered the report made as the result of the inquiry. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 34  Declaration of organisms declared under relevant State law 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>Where organisms of a particular kind are organisms that for the purposes
-
-of a relevant State law may be controlled by biological means, the Authority
-
-may, by notice published in the _Gazette_, declare those organisms to be
-
-target organisms for the purposes of this Act.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>prescribed live organisms of a particular kind are organisms that for the
-
-purposes of a relevant State law may be released to control other organisms;
-
-and</dd>
-
-<dt>(b)</dt><dd>those other organisms are target organisms;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  those other organisms are target organisms;
 
 the Authority shall, by notice published in the _Gazette_, declare those first-mentioned organisms to be agent organisms for the purposes of this Act.
 
-<dl compact="">
+             (3)  A notice under subsection (2) declaring organisms of a particular kind to be agent organisms may set out conditions under which the organisms may be released, which conditions may be or include:
 
-<dt>(3)</dt><dd>A notice under subsection (2) declaring organisms of a particular kind to
+                     (a)  conditions specifying the persons who may release those organisms; or
 
-be agent organisms may set out conditions under which the organisms may be
+                     (b)  conditions specifying the circumstances in which those organisms may be released.
 
-released, which conditions may be or include:
+## Part V—Release of agent organisms
 
-</dd> </dl>
+##### <a id="35"></a>35  Release of agent organisms
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  Subject to subsection (2), agent organisms may be released in the Australian Capital Territory.
 
-<dt>(a)</dt><dd>conditions specifying the persons who may release those organisms; or</dd>
+             (2)  Where a notice under section 29, 30, 31 or 34 declaring organisms to be agent organisms specified conditions under which the organisms may be released, those organisms shall not be released otherwise than in accordance with those conditions.
 
-<dt>(b)</dt><dd>conditions specifying the circumstances in which those organisms may be
+##### <a id="36"></a>36  No legal proceedings to be instituted in respect of release of agent organisms
 
-released.
+             (1)  Subject to subsection (3), no action or other proceeding shall be instituted or continued in any court:
 
-</dd>
+                     (a)  to prevent the release of agent organisms in accordance with section 35;
 
-</dl></dl></dl>
+                     (b)  to recover damages in respect of any loss incurred, or any damage suffered, in a Territory by reason of the release of agent organisms in accordance with that section; or
 
-<center>**
+                     (c)  to recover damages in respect of any loss incurred, or any damage suffered, in a State by reason of the release of agent organisms in accordance with that section.
 
-###  BIOLOGICAL CONTROL ACT 1984<part>Part V&#151;Release of agent organisms </part>
-**</center>
+             (2)  If, at the time at which organisms of a particular kind were declared under section 29, 30, 31 or 34 to be agent organisms, there was in force an order of a court relating to the release of organisms of that kind, no action or other proceeding shall be instituted or continued in any court in respect of that order in so far as the order purports to prohibit a person from:
 
-**
+                     (a)  releasing organisms of that kind in the Australian Capital Territory in accordance with section 35; or
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 35  Release of agent organisms 
-**
+                     (b)  doing anything to assist or further the release of organisms of that kind in that Territory in accordance with section 35.
 
- <dl compact="">
+             (3)  Nothing in subsection (1) prevents the institution or continuation in any court of an action or other proceeding to recover damages in respect of any loss incurred, or any damage suffered, by reason of the release of agent organisms of a particular kind in accordance with section 35 where:
 
-<dt>(1)</dt><dd>Subject to subsection (2), agent organisms may be released in the
+                     (a)  the loss incurred or the damage suffered was the result of the release having had a significant effect on other organisms;
 
-Australian Capital Territory.</dd> <dt>(2)</dt><dd>Where a notice under section 29, 30, 31 or 34 declaring organisms to be agent organisms specified conditions under which the organisms may be released, those organisms shall not be released otherwise than in accordance with those conditions. </dd> </dl>
+                     (b)  at the time of the release, the persons in Australia having a reputation for special knowledge of the biology of organisms of that kind knew, or had reasonable grounds to expect, that such a release could have such an effect; and
 
-**
+                     (c)  in making the declaration declaring organisms of that kind to be agent organisms, the Authority did not take into account (whether because of the state of scientific knowledge or otherwise) the factor that such a release could have such an effect.
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 36  No legal proceedings to be instituted in respect of release of agent organisms 
-**
+## Part VI—Biological control under State laws
 
-<dl compact="">
+##### <a id="37"></a>37  Legal proceedings not to be instituted
 
-<dt>(1)</dt><dd>Subject to subsection (3), no action or other proceeding shall be
+             (1)  Subject to subsection (4), no action or other proceeding shall be instituted or continued in any court to recover damages in respect of any loss incurred, or any damage suffered, in a Territory by reason of the release of organisms in accordance with a relevant State law.
 
-instituted or continued in any court:
+             (2)  Subject to subsection (4), no action or other proceeding shall be instituted or continued in any court of a Territory:
 
-</dd> </dl>
+                     (a)  to prevent the release of organisms in accordance with a relevant State law; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  to recover damages in respect of any loss incurred, or any damage suffered, in a State by reason of the release of organisms in accordance with a relevant State law.
 
-<dt>(a)</dt><dd>to prevent the release of agent organisms in accordance with section 35;</dd>
+             (3)  If, at the time at which prescribed live organisms of a particular kind became organisms that could be released in accordance with a relevant State law, there was in force an order of a court relating to the release of organisms of that kind, no action or other proceeding shall be instituted or continued in any court of a Territory in respect of that order in so far as the order purports to restrict a person from:
 
-<dt>(b)</dt><dd>to recover damages in respect of any loss incurred, or any damage
+                     (a)  releasing organisms of that kind in accordance with that law; or
 
-suffered, in a Territory by reason of the release of agent organisms in
+                     (b)  doing anything to assist or further the release of organisms of that kind in accordance with that law.
 
-accordance with that section; or</dd>
+             (4)  Nothing in subsection (1) or (2) prevents the institution or continuation in any court of an action or other proceeding to recover damages in respect of any loss incurred, or any damage suffered, by reason of the release of organisms of a particular kind in accordance with a relevant State law where:
 
-<dt>(c)</dt><dd>to recover damages in respect of any loss incurred, or any damage
+                     (a)  the loss incurred or the damage suffered was the result of the release having had a significant effect on other organisms;
 
-suffered, in a State by reason of the release of agent organisms in accordance
+                     (b)  at the time of the release, the persons in Australia having a reputation for special knowledge of the biology of organisms of that kind knew, or had reasonable grounds to expect, that such a release could have such an effect; and
 
-with that section.
+                     (c)  in making the declaration by virtue of which organisms of that kind became organisms that could be released in accordance with the relevant State law, the authority established by that law did not take into account (whether because of the state of scientific knowledge or otherwise) the factor that such a release could have such an effect.
 
-</dd>
+## Part VII—Inquiries
 
-</dl></dl></dl>
+##### <a id="38"></a>38  Commissions of inquiry
 
-<dl compact="">
+             (1)  Where, in accordance with paragraph 19(1)(e), 28(1)(e) or 33(1)(c), the Authority directs that an inquiry be conducted under this Part, the Authority shall, after consulting the Council and having regard to any unanimous recommendation made by the Council, appoint a Commissioner or Commissioners to be a Commission to conduct that inquiry and may appoint a person or persons to advise the Commission.
 
-<dt>(2)</dt><dd>If, at the time at which organisms of a particular kind were declared
+             (2)  Where there is more than one Commissioner, the Authority shall appoint one of the Commissioners to preside at the inquiry.
 
-under section 29, 30, 31 or 34 to be agent organisms, there was in force an
+             (3)  A Commission established to conduct an inquiry shall inquire into:
 
-order of a court relating to the release of organisms of that kind, no action
+                     (a)  such matters as it considers necessary to ascertain, from the broad community viewpoint, the overall benefits and disadvantages of declaring organisms of the kind to which the inquiry relates to be target organisms or agent organisms, as the case requires;
 
-or other proceeding shall be instituted or continued in any court in respect of
+                     (b)  such relevant matters unanimously approved by the Council as the Authority, by notice in writing given to the Commissioner or to the Commissioner presiding at the inquiry, as the case requires, directs, which may be or include the following matter, namely, whether assistance should be given to any persons if a declaration is made in respect of those organisms; and
 
-that order in so far as the order purports to prohibit a person from:
+                     (c)  any other relevant matters that the Commission considers it should inquire into.
 
-</dd> </dl>
+             (4)  The Commission shall report its findings and recommendations to the Authority and shall, after so reporting but subject to subsection (6), make public those findings and recommendations.
 
-<center>Back to Top</center>
+             (5)  When the Authority appoints a Commissioner or Commissioners to be a Commission, the Authority may nominate a day as the day on which the Commission is to report its findings and recommendations to the Authority, and, where the Authority nominates a day, the Commission shall report its findings and recommendations to the Authority on or before that day or such later day as the Authority (before the nominated day) allows.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (6)  The Commission shall not make public any evidence or matters in respect of which directions have been given under paragraph 41(2)(b) or matters the publication of which is excepted from subsection 41(5).
 
-<dt>(a)</dt><dd>releasing organisms of that kind in the Australian Capital Territory in
+             (7)  Subject to this Act, a Commission is not subject to directions by the Authority, or otherwise by or on behalf of the Government of the Commonwealth, in or in relation to the conduct of an inquiry.
 
-accordance with section 35; or</dd>
+##### <a id="39"></a>39  Remuneration of Commissioners
 
-<dt>(b)</dt><dd>doing anything to assist or further the release of organisms of that kind
+             (1)  A Commissioner shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, a Commissioner shall be paid such remuneration as is prescribed.
 
-in that Territory in accordance with section 35.
+             (2)  A Commissioner shall be paid such allowances as are prescribed.
 
-</dd>
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-</dl></dl></dl>
+##### <a id="40"></a>40  Notice of inquiries
 
-<dl compact="">
+                   Before a Commission commences an inquiry, the Commission shall give reasonable notice, by advertisement published in the _Gazette_ and in such newspapers or journals as it thinks necessary, of its intention to hold the inquiry, the subject of the inquiry and the time and place at which the inquiry is to be commenced.
 
-<dt>(3)</dt><dd>Nothing in subsection (1) prevents the institution or continuation in any
+##### <a id="41"></a>41  Procedure at inquiries
 
-court of an action or other proceeding to recover damages in respect of any
+             (1)  Subject to this section, an inquiry by a Commission shall be held in public and evidence in the inquiry shall be taken in public on oath or affirmation.
 
-loss incurred, or any damage suffered, by reason of the release of agent
+             (2)  Where a Commission is satisfied that it is desirable to do so in the public interest by reason of the confidential nature of any evidence or matter or for any other reason, the Commission may:
 
-organisms of a particular kind in accordance with section 35 where:
+                     (a)  direct that an inquiry or a part of an inquiry shall take place in private and give directions as to the persons who may be present; or
 
-</dd> </dl>
+                     (b)  give directions prohibiting or restricting the publication of evidence given before the Commission or of matters contained in documents lodged with the Commission.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  A Commission may, if it thinks fit, permit a person appearing as a witness before the Commission to give evidence by tendering, and verifying by oath or affirmation, a written statement.
 
-<dt>(a)</dt><dd>the loss incurred or the damage suffered was the result of the release
+             (4)  Where a Commission considers that the attendance of a person as a witness before the Commission would cause serious hardship to a person, the Commission may permit the person to give evidence by sending to the Commission a written statement, verified in such manner as the Commission allows.
 
-having had a significant effect on other organisms;</dd>
+             (5)  Where evidence is given to a Commission by a written statement in accordance with subsection (3) or (4), the Commission shall make available to the public in such manner as the Commission thinks fit the contents of the statement other than any matter the publication of which, in the opinion of the Commission, would be contrary to the public interest by reason of its confidential nature or for any other reason.
 
-<dt>(b)</dt><dd>at the time of the release, the persons in Australia having a reputation
+             (6)  Subject to this section and the regulations:
 
-for special knowledge of the biology of organisms of that kind knew, or had
+                     (a)  the procedure to be followed at an inquiry by a Commission is within the discretion of the Commission; and
 
-reasonable grounds to expect, that such a release could have such an effect;
+                     (b)  a Commission is not bound by the rules of evidence.
 
-and</dd>
+##### <a id="42"></a>42  Power to summon witnesses
 
-<dt>(c)</dt><dd>in making the declaration declaring organisms of that kind to be agent
+                   A Commissioner may, by writing signed by the Commissioner, summon a person to appear before the Commission at a time and place specified in the summons to give evidence and produce such books and documents (if any) as are referred to in the summons.
 
-organisms, the Authority did not take into account (whether because of the
+##### <a id="43"></a>43  Failure of witness to attend
 
-state of scientific knowledge or otherwise) the factor that such a release
+                   A person served with a summons to appear as a witness at an inquiry by a Commission shall not, without reasonable excuse:
 
-could have such an effect.
+                     (a)  fail to attend as required by the summons; or
 
-</dd>
+                     (b)  fail to appear and report himself or herself from day to day unless excused or released from further attendance by or on behalf of the Commission.
 
-</dl></dl></dl>
+                    Penalty:  $1,000 or imprisonment for 6 months, or both.
 
-<center>**
+##### <a id="44"></a>44  Power to administer oath or affirmation
 
-###  BIOLOGICAL CONTROL ACT 1984<part>Part VI&#151;Biological control under State laws </part>
-**</center>
+                   A Commissioner may administer an oath or affirmation to a person appearing as a witness before the Commission.
 
-**
+##### <a id="45"></a>45  Refusal to be sworn or to answer questions
 
-###  BIOLOGICAL CONTROL ACT 1984- SECT 37  Legal proceedings not to be instituted 
-**
+                   A person appearing as a witness at an inquiry by a Commission shall not, without reasonable excuse:
 
- <dl compact="">
+                     (a)  refuse or fail to be sworn or to make an affirmation; or
 
-<dt>(1)</dt><dd>Subject to subsection (4), no action or other proceeding shall be
+                     (b)  refuse or fail to answer a question that the person is required to answer by the Commissioner presiding at the inquiry; or
 
-instituted or continued in any court to recover damages in respect of any loss
+                     (c)  refuse or fail to produce a document that the person was required to produce by a summons under this Act served on him.
 
-incurred, or any damage suffered, in a Territory by reason of the release of
+                    Penalty:  $1,000 or imprisonment for 6 months, or both.
 
-organisms in accordance with a relevant State law.</dd> <dt>(2)</dt><dd>Subject to subsection (4), no action or other proceeding shall be instituted or continued in any court of a Territory: </dd> </dl>
+##### <a id="46"></a>46  Protection of Commissioners and witnesses
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  A Commissioner has, in the performance of the duties of a Commissioner, the same protection and immunity as a Justice of the High Court.
 
-<dt>(a)</dt><dd>to prevent the release of organisms in accordance with a relevant State
+             (2)  Subject to this Act, a person appearing before a Commission as a witness at an inquiry has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, in any civil or criminal proceedings as a witness in proceedings in the High Court.
 
-law; or</dd>
+##### <a id="47"></a>47  False or misleading evidence
 
-<dt>(b)</dt><dd>to recover damages in respect of any loss incurred, or any damage
+             (1)  A person shall not, at a hearing before a Commission, give evidence that is to the knowledge of the person false or misleading in a material particular.
 
-suffered, in a State by reason of the release of organisms in accordance with a
+             (2)  An offence against subsection (1) is an indictable offence and, subject to this section, is punishable, upon conviction, by imprisonment for a period not exceeding 2 years or by a fine not exceeding $5,000, or both.
 
-relevant State law.
+             (3)  Notwithstanding that an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 
-</dd>
+             (4)  Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding one year, or both.
 
-</dl></dl></dl>
+##### <a id="48"></a>48  Contempt of Commission
 
-<dl compact="">
+             (1)  A person shall not:
 
-<dt>(3)</dt><dd>If, at the time at which prescribed live organisms of a particular kind
+                     (a)  obstruct or hinder a Commission or a Commissioner in the conduct of an inquiry; or
 
-became organisms that could be released in accordance with a relevant State
+                     (b)  disrupt a hearing before a Commission.
 
-law, there was in force an order of a court relating to the release of
+                    Penalty:  $2,000 or imprisonment for one year, or both.
 
-organisms of that kind, no action or other proceeding shall be instituted or
+             (2)  An offence against subsection (1) is punishable on summary conviction.
 
-continued in any court of a Territory in respect of that order in so far as the
+##### <a id="49"></a>49  Powers of Commission in relation to documents produced
 
-order purports to restrict a person from:
+             (1)  A Commissioner, or a person assisting a Commission and authorized by a Commissioner to do so, may inspect any books or documents furnished to the Commission for the purposes of the performance of its functions under this Act or produced at an inquiry and may make copies of, or take extracts from, those books or documents.
 
-</dd> </dl>
+             (2)  Books or documents so furnished may be retained by the Commission for such reasonable period as the Commission thinks fit.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="50"></a>50  Allowances to witnesses
 
-<dt>(a)</dt><dd>releasing organisms of that kind in accordance with that law; or</dd>
+                   A witness summoned under this Act to appear at an inquiry by a Commission is entitled to be paid by the Commonwealth such allowances for the witness’s travelling and other expenses as are prescribed.
 
-<dt>(b)</dt><dd>doing anything to assist or further the release of organisms of that kind
+##### <a id="51"></a>51  Witness not to be prejudiced
 
-in accordance with that law.
+             (1)  A person shall not:
 
-</dd>
+                     (a)  use violence to or inflict injury on;
 
-</dl></dl></dl>
+                     (b)  cause or procure violence, damage, loss or disadvantage to; or
 
-<dl compact="">
-
-<dt>(4)</dt><dd>Nothing in subsection (1) or (2) prevents the institution or continuation
-
-in any court of an action or other proceeding to recover damages in respect of
-
-any loss incurred, or any damage suffered, by reason of the release of
-
-organisms of a particular kind in accordance with a relevant State law where:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the loss incurred or the damage suffered was the result of the release
-
-having had a significant effect on other organisms;</dd>
-
-<dt>(b)</dt><dd>at the time of the release, the persons in Australia having a reputation
-
-for special knowledge of the biology of organisms of that kind knew, or had
-
-reasonable grounds to expect, that such a release could have such an effect;
-
-and</dd>
-
-<dt>(c)</dt><dd>in making the declaration by virtue of which organisms of that kind became
-
-organisms that could be released in accordance with the relevant State law, the
-
-authority established by that law did not take into account (whether because of
-
-the state of scientific knowledge or otherwise) the factor that such a release
-
-could have such an effect.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  BIOLOGICAL CONTROL ACT 1984<part>Part VII&#151;Inquiries </part>
-**</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 38  Commissions of inquiry 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where, in accordance with paragraph 19(1)(e), 28(1)(e) or&#160;33(1)(c),
-
-the Authority directs that an inquiry be conducted under this Part, the
-
-Authority shall, after consulting the Council and having regard to any
-
-unanimous recommendation made by the Council, appoint a Commissioner or
-
-Commissioners to be a Commission to conduct that inquiry and may appoint a
-
-person or persons to advise the Commission.</dd> <dt>(2)</dt><dd>Where there is more than one Commissioner, the Authority shall appoint one of the Commissioners to preside at the inquiry.</dd> <dt>(3)</dt><dd>A Commission established to conduct an inquiry shall inquire into: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>such matters as it considers necessary to ascertain, from the broad
-
-community viewpoint, the overall benefits and disadvantages of declaring
-
-organisms of the kind to which the inquiry relates to be target organisms or
-
-agent organisms, as the case requires;</dd>
-
-<dt>(b)</dt><dd>such relevant matters unanimously approved by the Council as the
-
-Authority, by notice in writing given to the Commissioner or to the
-
-Commissioner presiding at the inquiry, as the case requires, directs, which may
-
-be or include the following matter, namely, whether assistance should be given
-
-to any persons if a declaration is made in respect of those organisms; and</dd>
-
-<dt>(c)</dt><dd>any other relevant matters that the Commission considers it should inquire
-
-into.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>The Commission shall report its findings and recommendations to the
-
-Authority and shall, after so reporting but subject to subsection&#160;(6),
-
-make public those findings and recommendations.</dd> <dt>(5)</dt><dd>When the Authority appoints a Commissioner or Commissioners to be a Commission, the Authority may nominate a day as the day on which the Commission is to report its findings and recommendations to the Authority, and, where the Authority nominates a day, the Commission shall report its findings and recommendations to the Authority on or before that day or such later day as the Authority (before the nominated day) allows.</dd> <dt>(6)</dt><dd>The Commission shall not make public any evidence or matters in respect of which directions have been given under paragraph&#160;41(2)(b) or matters the publication of which is excepted from subsection 41(5).</dd> <dt>(7)</dt><dd>Subject to this Act, a Commission is not subject to directions by the Authority, or otherwise by or on behalf of the Government of the Commonwealth, in or in relation to the conduct of an inquiry. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 39  Remuneration of Commissioners 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A Commissioner shall be paid such remuneration as is determined by the
-
-Remuneration Tribunal, but, if no determination of that remuneration by the
-
-Tribunal is in operation, a Commissioner shall be paid such remuneration as is
-
-prescribed.</dd> <dt>(2)</dt><dd>A Commissioner shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 40  Notice of inquiries 
-**
-
- <dl compact="">
-
-		Before a Commission commences an inquiry, the Commission shall give
-
-reasonable notice, by advertisement published in the _Gazette_ and in such
-
-newspapers or journals as it thinks necessary, of its intention to hold the
-
-inquiry, the subject of the inquiry and the time and place at which the inquiry
-
-is to be commenced.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 41  Procedure at inquiries 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Subject to this section, an inquiry by a Commission shall be held in
-
-public and evidence in the inquiry shall be taken in public on oath or
-
-affirmation.</dd> <dt>(2)</dt><dd>Where a Commission is satisfied that it is desirable to do so in the public interest by reason of the confidential nature of any evidence or matter or for any other reason, the Commission may: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>direct that an inquiry or a part of an inquiry shall take place in private
-
-and give directions as to the persons who may be present; or</dd>
-
-<dt>(b)</dt><dd>give directions prohibiting or restricting the publication of evidence
-
-given before the Commission or of matters contained in documents lodged with
-
-the Commission.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>A Commission may, if it thinks fit, permit a person appearing as a witness
-
-before the Commission to give evidence by tendering, and verifying by oath or
-
-affirmation, a written statement.</dd> <dt>(4)</dt><dd>Where a Commission considers that the attendance of a person as a witness before the Commission would cause serious hardship to a person, the Commission may permit the person to give evidence by sending to the Commission a written statement, verified in such manner as the Commission allows.</dd> <dt>(5)</dt><dd>Where evidence is given to a Commission by a written statement in accordance with subsection (3) or (4), the Commission shall make available to the public in such manner as the Commission thinks fit the contents of the statement other than any matter the publication of which, in the opinion of the Commission, would be contrary to the public interest by reason of its confidential nature or for any other reason.</dd> <dt>(6)</dt><dd>Subject to this section and the regulations: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the procedure to be followed at an inquiry by a Commission is within the
-
-discretion of the Commission; and</dd>
-
-<dt>(b)</dt><dd>a Commission is not bound by the rules of evidence.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 42  Power to summon witnesses 
-**
-
- <dl compact="">
-
-		A Commissioner may, by writing signed by the Commissioner, summon a person to
-
-appear before the Commission at a time and place specified in the summons to
-
-give evidence and produce such books and documents (if any) as are referred to
-
-in the summons.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 43  Failure of witness to attend 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person served with a summons to appear as a witness at an inquiry by a
-
-Commission shall not:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>fail to attend as required by the summons; or</dd>
-
-<dt>(b)</dt><dd>fail to appear and report himself or herself from day to day unless
-
-excused or released from further attendance by or on behalf of the Commission.
-
-</dd>
-
-</dl></dl></dl>
-
-Penalty:	$1,000 or imprisonment for 6 months, or both.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the person has a reasonable excuse.
-
-</dd> </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	The defendant bears an evidential burden in relation to the
-
-matter in subsection&#160;(2). See subsection 13.3(3) of the _Criminal Code_.
-
- </dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>An offence under subsection&#160;(1) is an offence of strict liability.
-
-</dd> </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For strict liability, see section&#160;6.1 of the
-
-_Criminal Code_.
-
- </dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 44  Power to administer oath or affirmation 
-**
-
- <dl compact="">
-
-		A Commissioner may administer an oath or affirmation to a person appearing as
-
-a witness before the Commission.
-
- </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 45  Refusal to be sworn or to answer questions 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person appearing as a witness at an inquiry by a Commission shall not:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>refuse or fail to be sworn or to make an affirmation; or</dd>
-
-<dt>(b)</dt><dd>refuse or fail to answer a question that the person is required to answer
-
-by the Commissioner presiding at the inquiry; or</dd>
-
-<dt>(c)</dt><dd>refuse or fail to produce a document that the person was required to
-
-produce by a summons under this Act served on him.
-
-</dd>
-
-</dl></dl></dl>
-
-Penalty:	$1,000 or imprisonment for 6 months, or both.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the person has a reasonable excuse.
-
-</dd> </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	The defendant bears an evidential burden in relation to the
-
-matter in subsection&#160;(2). See subsection 13.3(3) of the _Criminal Code_.
-
- </dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>An offence under subsection&#160;(1) is an offence of strict liability.
-
-</dd> </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For strict liability, see section&#160;6.1 of the
-
-_Criminal Code_.
-
- </dl></dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 46  Protection of Commissioners and witnesses 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A Commissioner has, in the performance of the duties of a Commissioner,
-
-the same protection and immunity as a Justice of the High Court.</dd> <dt>(2)</dt><dd>Subject to this Act, a person appearing before a Commission as a witness at an inquiry has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, in any civil or criminal proceedings as a witness in proceedings in the High Court. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 47  False or misleading evidence 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person shall not, at a hearing before a Commission, give evidence that
-
-is to the knowledge of the person false or misleading in a material
-
-particular.</dd> <dt>(2)</dt><dd>An offence against subsection (1) is an indictable offence and, subject to this section, is punishable, upon conviction, by imprisonment for a period not exceeding 2 years or by a fine not exceeding $5,000, or both.</dd> <dt>(3)</dt><dd>Notwithstanding that an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.</dd> <dt>(4)</dt><dd>Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding one year, or both. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 48  Contempt of Commission 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person shall not:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>obstruct or hinder a Commission or a Commissioner in the conduct of an
-
-inquiry; or</dd>
-
-<dt>(b)</dt><dd>disrupt a hearing before a Commission.
-
-</dd>
-
-</dl></dl></dl>
-
-Penalty:	$2,000 or imprisonment for one year, or both.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>An offence against subsection (1) is punishable on summary conviction.
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 49  Powers of Commission in relation to documents produced 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A Commissioner, or a person assisting a Commission and authorized by a
-
-Commissioner to do so, may inspect any books or documents furnished to the
-
-Commission for the purposes of the performance of its functions under this Act
-
-or produced at an inquiry and may make copies of, or take extracts from, those
-
-books or documents.</dd> <dt>(2)</dt><dd>Books or documents so furnished may be retained by the Commission for such reasonable period as the Commission thinks fit. </dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 50  Allowances to witnesses 
-**
-
- <dl compact="">
-
-		A witness summoned under this Act to appear at an inquiry by a Commission is
-
-entitled to be paid by the Commonwealth such allowances for the witness's
-
-travelling and other expenses as are prescribed.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 51  Witness not to be prejudiced 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A person shall not:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>use violence to or inflict injury on;</dd>
-
-<dt>(b)</dt><dd>cause or procure violence, damage, loss or disadvantage to; or</dd>
-
-<dt>(c)</dt><dd>cause or procure the punishment of;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  cause or procure the punishment of;
 
 a person for or on account of the last-mentioned person having appeared, or being about to appear, as a witness at an inquiry by a Commission or for or on account of any evidence given by the last-mentioned person before a Commission.
 
-Penalty:	$2,000 or imprisonment for one year, or both.
+                    Penalty:  $2,000 or imprisonment for one year, or both.
 
-<dl compact="">
+             (2)  Without limiting the generality of subsection (1), an employer shall not:
 
-<dt>(2)</dt><dd>Without limiting the generality of subsection (1), an employer shall not:
+                     (a)  dismiss an employee from his or her employment, or prejudice an employee in his or her employment, by reason that the employee has appeared as a witness, or has given any evidence, at an inquiry by a Commission; or
 
-</dd> </dl>
+                     (b)  dismiss, or threaten to dismiss, an employee from his or her employment or prejudice, or threaten to prejudice, an employee in his or her employment, by reason that the employee proposes to appear as a witness or to give evidence at an inquiry by a Commission.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    Penalty:
 
-<dt>(a)</dt><dd>dismiss an employee from his or her employment, or prejudice an employee
+                     (a)  if the offender is a natural person—$2,000 or imprisonment for one year, or both; or
 
-in his or her employment, by reason that the employee has appeared as a
+                     (b)  if the offender is a body corporate—$10,000.
 
-witness, or has given any evidence, at an inquiry by a Commission; or</dd>
+             (3)  In any proceedings arising out of subsection (2):
 
-<dt>(b)</dt><dd>dismiss, or threaten to dismiss, an employee from his or her employment or
+                     (a)  if it is established that the employee was dismissed from, or prejudiced in, his or her employment and that, before he or she was so dismissed or prejudiced, he or she appeared as a witness, or gave any evidence, at an inquiry by a Commission—the burden lies on the employer of proving that the employee was not dismissed or prejudiced by reason that he or she so appeared as a witness or gave evidence; or
 
-prejudice, or threaten to prejudice, an employee in his or her employment, by
+                     (b)  if it is established that the employee was dismissed, or threatened with dismissal, from his or her employment, or was prejudiced, or threatened with prejudice, in his or her employment and that, before he or she was so dismissed, threatened with dismissal, prejudiced or threatened with prejudice, he or she proposed to appear as a witness, or to give evidence, at an inquiry by a Commission—the burden lies on the employer of proving that the employee was not so dismissed, threatened with dismissal, prejudiced or threatened with prejudice by reason that he or she proposed so to appear as a witness or to give evidence.
 
-reason that the employee proposes to appear as a witness or to give evidence at
+## Part VIII—Miscellaneous
 
-an inquiry by a Commission.
+##### <a id="52"></a>52  Act not to render other controls illegal
 
-</dd>
+                   Subject to subsection 35(2), nothing in this Act shall be taken to render unlawful any release of organisms for the purpose of the biological control of other organisms if the release of the first-mentioned organisms would, but for this Act, be lawful.
 
-</dl></dl></dl>
+##### <a id="53"></a>53  Revocation of declarations
 
-Penalty:
+             (1)  The Authority may, by notice published in the _Gazette_, revoke a declaration made under this Act where the Council has unanimously approved of that action being taken.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  Where:
 
-<dt>(a)</dt><dd>if the offender is a natural person&#151;$2,000 or imprisonment for one year,
+                     (a)  the Authority revokes a declaration declaring organisms of a kind to be target organisms; and
 
-or both; or</dd>
+                     (b)  by reason of that revocation there would be no target organisms for the purpose of controlling which organisms of a kind have been declared to be agent organisms;
 
-<dt>(b)</dt><dd>if the offender is a body corporate&#151;$10,000.
+the Authority shall revoke the declaration declaring those last-mentioned organisms to be agent organisms.
 
-</dd>
+##### <a id="54"></a>54  Declarations continue in operation
 
-</dl></dl></dl>
+                   Where a declaration in relation to agent organisms is in force, those organisms may be released in accordance with section 35 notwithstanding the length of the period of time that has elapsed since the last release of those organisms took place.
 
-<dl compact="">
+##### <a id="55"></a>55  Service of documents on Authority
 
-<dt>(3)</dt><dd>In any proceedings arising out of subsection (2):
+                   Where a person is entitled by this Act to make an application to the Authority or to submit particulars to the Authority, the person shall do so by causing the application or particulars to be lodged at the principal office of the Department in Canberra.
 
-</dd> </dl>
+##### <a id="56"></a>56  Application for review
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  Application may be made to the Administrative Appeals Tribunal for review of:
 
-<dt>(a)</dt><dd>if it is established that the employee was dismissed from, or prejudiced
+                     (a)  a decision of the Authority for the purposes of section 19 not to hold an inquiry; or
 
-in, his or her employment and that, before he or she was so dismissed or
+                     (b)  a decision of the Authority for the purposes of section 20, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII or the Industries Assistance Commission; or
 
-prejudiced, he or she appeared as a witness, or gave any evidence, at an
+                     (c)  a decision of the Authority under section 26 not to publish a notice in any newspaper or journal; or
 
-inquiry by a Commission&#151;the burden lies on the employer of proving that the
+                     (d)  a decision of the Authority for the purposes of section 28 not to hold an inquiry; or
 
-employee was not dismissed or prejudiced by reason that he or she so appeared
+                     (e)  a decision of the Authority for the purposes of section 29, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII or the Productivity Commission; or
 
-as a witness or gave evidence; or</dd>
+                      (f)  a decision of the Authority for the purposes of section 30; or
 
-<dt>(b)</dt><dd>if it is established that the employee was dismissed, or threatened with
+                     (g)  a decision of the Authority for the purposes of section 31, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII or the Industries Assistance Commission; or
 
-dismissal, from his or her employment, or was prejudiced, or threatened with
+                     (h)  a decision of the Authority for the purposes of section 33 not to hold an inquiry; or
 
-prejudice, in his or her employment and that, before he or she was so
+                      (j)  a decision of the Authority under section 53 to revoke a declaration.
 
-dismissed, threatened with dismissal, prejudiced or threatened with prejudice,
+             (2)  In subsection (1), **_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
-he or she proposed to appear as a witness, or to give evidence, at an inquiry
+##### <a id="57"></a>57  Regulations
 
-by a Commission&#151;the burden lies on the employer of proving that the employee
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
-was not so dismissed, threatened with dismissal, prejudiced or threatened with
+                     (a)  required or permitted by this Act to be prescribed; or
 
-prejudice by reason that he or she proposed so to appear as a witness or to
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-give evidence.
+# Notes to the _Biological Control Act 1984_
 
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  BIOLOGICAL CONTROL ACT 1984<part>Part VIII&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 52  Act not to render other controls illegal 
-**
-
- <dl compact="">
-
-		Subject to subsection 35(2), nothing in this Act shall be taken to render
-
-unlawful any release of organisms for the purpose of the biological control of
-
-other organisms if the release of the first-mentioned organisms would, but for
-
-this Act, be lawful.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 53  Revocation of declarations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Authority may, by notice published in the _Gazette_, revoke a
-
-declaration made under this Act where the Council has unanimously approved of
-
-that action being taken.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Authority revokes a declaration declaring organisms of a kind to be
-
-target organisms; and</dd>
-
-<dt>(b)</dt><dd>by reason of that revocation there would be no target organisms for the
-
-purpose of controlling which organisms of a kind have been declared to be agent
-
-organisms;
-
-</dd>
-
-</dl></dl></dl>
-
-the Authority shall revoke the declaration declaring those last-mentioned organisms to be agent organisms. 
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 54  Declarations continue in operation 
-**
-
- <dl compact="">
-
-		Where a declaration in relation to agent organisms is in force, those
-
-organisms may be released in accordance with section 35 notwithstanding the
-
-length of the period of time that has elapsed since the last release of those
-
-organisms took place.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 55  Service of documents on Authority 
-**
-
- <dl compact="">
-
-		Where a person is entitled by this Act to make an application to the
-
-Authority or to submit particulars to the Authority, the person shall do so by
-
-causing the application or particulars to be lodged at the principal office of
-
-the Department in Canberra.
-
- </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 56  Application for review 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Application may be made to the Administrative Appeals Tribunal for review
-
-of:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a decision of the Authority for the purposes of section 19 not&#160;to
-
-hold an inquiry; or</dd>
-
-<dt>(b)</dt><dd>a decision of the Authority for the purposes of section 20, being a
-
-decision that is inconsistent with a finding or recommendation of a Commission
-
-referred to in Part VII or the Industries Assistance Commission; or</dd>
-
-<dt>(c)</dt><dd>a decision of the Authority under section 26 not to publish a notice in
-
-any newspaper or journal; or</dd>
-
-<dt>(d)</dt><dd>a decision of the Authority for the purposes of section 28 not&#160;to
-
-hold an inquiry; or</dd>
-
-<dt>(e)</dt><dd>a decision of the Authority for the purposes of section 29, being a
-
-decision that is inconsistent with a finding or recommendation of a Commission
-
-referred to in Part VII or the Productivity Commission; or</dd>
-
-<dt>(f)</dt><dd>a decision of the Authority for the purposes of section 30; or</dd>
-
-<dt>(g)</dt><dd>a decision of the Authority for the purposes of section 31, being a
-
-decision that is inconsistent with a finding or recommendation of a Commission
-
-referred to in Part VII or the Industries Assistance Commission; or</dd>
-
-<dt>(h)</dt><dd>a decision of the Authority for the purposes of section 33 not&#160;to
-
-hold an inquiry; or</dd>
-
-<dt>(j)</dt><dd>a decision of the Authority under section 53 to revoke a declaration.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In subsection (1), _decision_ has the same meaning as in the
-
-_Administrative Appeals Tribunal Act 1975_.
-
-</dd> </dl>
-
-**
-
-###  BIOLOGICAL CONTROL ACT 1984- SECT 57  Regulations 
-**
-
- <dl compact="">
-
-		The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing all matters:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
-
-<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
-
-to this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  BIOLOGICAL CONTROL ACT 1984<centreit>Notes to the _Biological Control Act 1984_ </centreit>
-**</center>
-
-**Note 1**
+### Note 1
 
 The _Biological Control Act 1984_ as shown in this compilation comprises Act No. 139, 1984 amended as indicated in the Tables below.
- All relevant information pertaining to application, saving or transitional provisions prior to 18 September 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
-**Table of Acts**
+### Table of Acts
 
-<table><tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Biological Control Act 1984</i></div>
-
+<tr>
+  <td>
+    <div>Biological Control Act 1984</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>139, 1984</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 Oct 1984</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>22 Nov 1984</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act (No.1) 1985</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No.1) 1985</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>65, 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>5 June 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: 3 July 1985 <i>(a)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law (Miscellaneous Provisions) Act (No.2) 1986</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No.2) 1986</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>168, 1986</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1986</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: Royal Assent <i>(b)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 5(1)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</i></div>
-
+<tr>
+  <td>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>129, 1994</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>21 Oct 1994</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: Royal Assent <i>(c)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law Revision Act 1996</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>43, 1996</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 Oct 1996</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 4 (item 50): Royal Assent <i>(d)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Productivity Commission (Repeals, Transitional and Consequential Amendments) Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Productivity Commission (Repeals, Transitional and Consequential Amendments) Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>15, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Apr 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Apr 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Environmental Reform (Consequential Provisions) Act 1999</i></div>
-
+<tr>
+  <td>
+    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>92, 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 July 1999</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 3 (items 19-37): 16 July 2000 <i>(e)</i></div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001</i></div>
-
+<tr>
+  <td>
+    <div>Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>82, 2001</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 July 2001</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Ss. 1-3 and Schedule 1 (items 83-86): Royal Assent 
-Remainder: 11 Jan 2002</div>
-
+  <td>
+    <div>Schedule 3: \[ <i>see (f)</i>and Note 2]</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div><i>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>115, 2001</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>18 Sept 2001</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>16 Oct 2001</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-
-  </th>
 </tr></table>
 
-<center>Back to Top</center>
+ 
 
-_(a)_	The _Biological Control Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(a)_     The _Biological Control Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_	The _Biological Control Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _Biological Control Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(c)_	The _Biological Control Act 1984_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(c)_     The _Biological Control Act 1984_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_	The _Biological Control Act 1984_ was amended by Schedule 4 (item 50) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(d)_     The _Biological Control Act 1984_ was amended by Schedule 4 (item 50) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_	The _Biological Control Act 1984_ was amended by Schedule 3 (items 19-37) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(e)_     The _Biological Control Act 1984_ was amended by Schedule 3 (items 19-37) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
-	(1)	Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences. 
+                 (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences. 
 
-**Table of Amendments**
+_(f)_      The _Biological Control Act 1984_ was amended by Schedule 3 only of the _Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001_, subsections 2(2) and (3) of which provide as follows:
 
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+                 (2)   The remaining provisions of this Act commence on a day to be fixed by Proclamation. [_see_ Note 2]
 
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
+                 (3)   If the remaining provisions of this Act do not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period. [_see_ Note 2]
 
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
+## Table of Amendments
 
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
     <div>S. 2</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 65, 1985; No. 168, 1986; No. 129, 1994</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 82, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 6A</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 115, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 8, 9</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 11</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 15, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 12</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 17</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 19</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986; No. 15, 1998; No. 92, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 20</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 65, 1985; No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 26</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 65, 1985; No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 28</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986; No. 92, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 29-32</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 33</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986; No. 92, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 38</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 39</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 65, 1985; No. 43, 1996</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 43</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 115, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 45</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 115, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 53</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 168, 1986</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 56</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 15, 1998; No. 92, 1999</div>
-
   </td>
-</tr></table>**Table A**
+</tr></table>
 
-**Application, saving or transitional provisions**
+### Note 2
 
-_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001_(No. 115, 2001) 
+_Environment Protection and Biodiversity Conservation Amendment (Wildlife Protection) Act 2001 (No. 82, 2001)_
 
-**4  Application of amendments**
+The following amendment commences on 11 January 2002 unless proclaimed earlier:
 
-<dl compact="">
+## Schedule 3
 
-<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
+## 1  Paragraph 5(2)(b)
 
-place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
+Omit “the _Wildlife Protection (Regulation of Exports and Imports) Act 1982_”, substitute “Part 13A of the _Environment Protection and Biodiversity Conservation Act 1999_”.
 
-</def>
+As at 17 August 2001 the amendment is not incorporated in this compilation.
 
-</def></def></def>
-
-
+ 
