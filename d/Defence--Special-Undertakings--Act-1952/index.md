@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00282/Html/91e58384-b26f-4020-b6e1-dfa80d84ed5e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00144/Html/DefSpecUndtak1952_WD02_image001.gif)
 
 # Defence (Special Undertakings) Act 1952
 
 **Act No. 19 of 1952 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 6 April 2009
+ taking into account amendments up to Act No. 18 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -194,7 +194,7 @@ Special defence undertaking
 
                      (b)  the area is a prohibited area.
 
-                    Maximum penalty: Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
           (1A)  Subsection (1) does not apply if the person holds a permit under section 11 in respect of the prohibited area.
 
@@ -214,7 +214,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  the area is a prohibited area.
 
-                    Maximum penalty: Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
              (3)  Subsection (2) does not apply if the person has lawful authority or excuse for the relevant conduct.
 
@@ -238,7 +238,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  does not comply with the conditions and restrictions specified in the permit.
 
-                    Maximum penalty: Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
              (5)  A person is guilty of an offence if:
 
@@ -248,7 +248,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (c)  the person does not immediately deliver it to the officer in charge of the prohibited area or to a person specified by the person revoking or suspending the permit.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="12"></a>12  Compliance with directions of officer in charge
 
@@ -262,7 +262,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (d)  does not comply with the direction.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="13"></a>13  Sabotage
 
@@ -276,7 +276,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (d)  the thing is used or occupied either wholly or in part for the purposes of a special defence undertaking.
 
-                    Maximum penalty: Imprisonment for 7 years.
+                    Maximum penalty:    Imprisonment for 7 years.
 
              (2)  The following are the listed things:
 
@@ -308,7 +308,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  the person contravenes or fails to comply with the order.
 
-                    Maximum penalty for a contravention of this subsection: Imprisonment for 2 years.      
+                    Maximum penalty for a contravention of this subsection: Imprisonment for 2 years.    
 
 ##### <a id="15"></a>15  Orders
 
@@ -334,7 +334,7 @@ Note:          The defendant bears an evidential burden in rel
 
                             (iii)  cause the aircraft to land at such place as is designated by the air traffic control centre and, for that purpose, obey any instructions given by the air traffic control centre as to the movement of that aircraft.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="17"></a>17  Use of cameras etc.
 
@@ -344,7 +344,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  the person has in his or her possession, carries or uses a camera or other photographic apparatus or material.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
              (2)  Subsection (1) does not apply if the person does have the authority of the officer in charge of the prohibited area for the conduct mentioned in paragraph (1)(b).
 
@@ -356,7 +356,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="19"></a>19  Suspension etc. of licences and certificates
 
-                   Where a person is convicted of an offence against this Act, the Secretary of the Department administered by the Minister administering the _Air Navigation Act 1920_ may suspend or cancel any licence or certificate issued to that person under or by virtue of the Air Navigation Regulations and, upon a licence or certificate being so suspended or cancelled, the same consequences follow as if the suspension or cancellation had been made under or by virtue of those Regulations.
+                   Where a person is convicted of an offence against this Act, the Secretary to the Department of Aviation may suspend or cancel any licence or certificate issued to that person under or by virtue of the Air Navigation Regulations and, upon a licence or certificate being so suspended or cancelled, the same consequences follow as if the suspension or cancellation had been made under or by virtue of those Regulations.
 
 ##### <a id="20"></a>20  Search of persons in or entering prohibited areas
 
@@ -386,7 +386,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (c)  the person does not do so.
 
-                    Maximum penalty: Imprisonment for 2 years.
+                    Maximum penalty:    Imprisonment for 2 years.
 
 ##### <a id="25"></a>25  Forfeiture of articles etc.
 
@@ -394,7 +394,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="26"></a>26  No action against Commonwealth
 
-                   No action lies against the Commonwealth, a State, a Commonwealth officer, a constable or any other person acting in accordance with this Act in respect of an arrest, apprehension, detention, search, seizure or act in pursuance of this Act, but, if the Governor‑General is satisfied that an arrest, apprehension, detention, search, seizure or act was made or done without reasonable cause, he or she may award reasonable compensation in respect of it.
+                   No action lies against the Commonwealth, a State, a Commonwealth officer, a constable or any other person acting in accordance with this Act in respect of an arrest, apprehension, detention, search, seizure or act in pursuance of this Act, but, if the Governor-General is satisfied that an arrest, apprehension, detention, search, seizure or act was made or done without reasonable cause, he or she may award reasonable compensation in respect of it.
 
 ##### <a id="27"></a>27  Application of Approved Defence Projects Protection Act
 
@@ -402,9 +402,9 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="28"></a>28  Prosecution of offences
 
-             (1)  A prosecution under this Act or the regulations shall be instituted only by or with the consent of the Attorney‑General or of a person acting under his or her direction.
+             (1)  A prosecution under this Act or the regulations shall be instituted only by or with the consent of the Attorney-General or of a person acting under his or her direction.
 
-             (2)  A person charged with an offence against this Act or the regulations may be arrested, or a warrant for his or her arrest may be issued and executed, and he or she may be remanded in custody or on bail, notwithstanding that the consent of the Attorney‑General or of a person acting under his or her direction has not been obtained, but no further proceedings shall be taken until that consent has been obtained.
+             (2)  A person charged with an offence against this Act or the regulations may be arrested, or a warrant for his or her arrest may be issued and executed, and he or she may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General or of a person acting under his or her direction has not been obtained, but no further proceedings shall be taken until that consent has been obtained.
 
              (3)  Nothing in this section prevents the discharge of a person charged if proceedings are not continued within a reasonable time.
 
@@ -432,11 +432,11 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  the person contravenes or fails to comply with the order or direction.
 
-                    Maximum penalty: Imprisonment for 5 years.
+                    Maximum penalty:    Imprisonment for 5 years.
 
 ##### <a id="32"></a>32  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular for prescribing penalties for offences against the regulations, but so that no prescribed period of imprisonment shall exceed 6 months and no prescribed pecuniary penalty shall exceed $400.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular for prescribing penalties for offences against the regulations, but so that no prescribed period of imprisonment shall exceed 6 months and no prescribed pecuniary penalty shall exceed $400.
 
 # Notes to the _Defence (Special Undertakings) Act 1952_
 
@@ -792,38 +792,21 @@ Schedule 4: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 36) and Schedule 7 (item 52): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence (Special Undertakings) Act 1952_ was amended by subsection 152(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-_(b)_     The _Defence (Special Undertakings) Act 1952_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _Defence (Special Undertakings) Act 1952_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, paragraph 2(15)(b) of which provides as follows:
 
                (15)   The amendments of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_ made by this Act shall be deemed to have come into operation:
 
-                              (b)   in the case of the other amendments—on the twenty‑eighth day after the day on which that Act received the Royal Assent.
+                              (b)   in the case of the other amendments—on the twenty-eighth day after the day on which that Act received the Royal Assent.
 
 _(d)_     The _Defence (Special Undertakings) Act 1952_ was amended by Schedule 1 (item 383) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
@@ -1178,7 +1161,7 @@ _(f)_      Subsection 2(1) (item 3) of the _Defence Legislation Amen
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 5, 2011</div>
+    <div>am. No. 65, 1985</div>
   </td>
 </tr>
 <tr>
@@ -1294,9 +1277,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1306,9 +1289,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1316,9 +1299,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -1330,5 +1313,7 @@ _Defence Legislation Amendment (Application of Criminal Code) Act 2001
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+ 
 
  
