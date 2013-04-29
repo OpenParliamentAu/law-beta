@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00736/Html/89233e30-980f-4c78-9b29-6ea1fcd8cfd6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00585/Html/effbf8f7-a66d-4002-a3f2-26f27d601bee_files/image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 10 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 7 August 2012
+ taking into account amendments up to Act No. 89 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -263,7 +264,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part IIC—Referral of discriminatory awards and determinations to other bodies**
 
-[46PW](#46PW).    Referral of discriminatory industrial instruments to Fair Work Australia
+[46PW](#46PW).    Referral of discriminatory industrial instruments to the Fair Work Australia
 
 [46PX](#46PX).     Referral of discriminatory determinations to the Remuneration Tribunal
 
@@ -507,7 +508,7 @@ but does not include any distinction, exclusion or preference:
 
                     <a name=""></a><a name="termin"></a>**_terminate_**, in relation to a complaint, means decline to inquire into the complaint, or discontinue an inquiry into the complaint.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian C  apital Territory or the Northern Territory.
 
                     <a name="territori-act"></a>**_Territory Act_** means an Act passed by a legislature of a Territory
 
@@ -2237,7 +2238,7 @@ the Attorney‑General may authorise the provision by the Commonwealth to that p
 
 ## Part IIC—Referral of discriminatory awards and determinations to other bodies
 
-##### <a id="46PW"></a>46PW  Referral of discriminatory industrial instruments to Fair Work Australia
+##### <a id="46PW "></a>46PW  Referral of discriminatory industrial instruments to the Fair Work Australia
 
              (1)  A complaint in writing alleging that a person has done a discriminatory act under an industrial instrument may be lodged with the Commission by:
 
@@ -2251,11 +2252,11 @@ the Attorney‑General may authorise the provision by the Commonwealth to that p
 
              (2)  If the Commission receives a complaint under this section, the Commission must notify the President accordingly.
 
-             (3)  If it appears to the President that the act is a discriminatory act, the President must refer the industrial instrument to Fair Work Australia. However, the President need not refer the industrial instrument if the President is of the opinion that the complaint is frivolous, vexatious, misconceived or lacking in substance.
+             (3)  If it appears to the President that the act is a discriminatory act, the President must refer the industrial instrument to the Fair Work Australia. However, the President need not refer the industrial instrument if the President is of the opinion that the complaint is frivolous, vexatious, misconceived or lacking in substance.
 
              (4)  If the President decides not to refer the industrial instrument, the President must give notice in writing of that decision to the complainant or each of the complainants, together with notice of the reasons for the decision.
 
-             (5)  If the President refers the industrial instrument to Fair Work Australia, the President must give notice in writing of the outcome of the referral to the complainant or each of the complainants.
+             (5)  If the President refers the industrial instrument to the Fair Work Australia, the President must give notice in writing of the outcome of the referral to the complainant or each of the complainants.
 
              (6)  The President may obtain documents or information under section 46PI for the purposes of this section.
 
@@ -2461,7 +2462,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  required or permitted by this Act to be prescribed; or
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
 # Schedule 1—Convention concerning Discrimination in respect of Employment and Occupation
 
@@ -2573,7 +2574,7 @@ _Article 13_
 
 _Article 14_
 
-The English and French versions of the text of this Convention are equally authoritative.
+The English and French versions of the text of this Convention are equally authoritative. 
 
 # Schedule 2—International Covenant on Civil and Political Rights 
 
@@ -3069,7 +3070,7 @@ Article 53
 
 2.    The Secretary‑General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in article 48\. 
 
-IN FAITH WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed the present Covenant, opened for signature at New York, on the nineteenth day of December, one thousand nine hundred and sixty‑six.
+IN FAITH WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed the present Covenant, opened for signature at New York, on the nineteenth day of December, one thousand nine hundred and sixty‑six. 
 
 # Schedule 3—Declaration of the Rights of the Child
 
@@ -3135,7 +3136,7 @@ The child shall not be admitted to employment before an appropriate minimum age;
 
 _Principle 10_
 
-The child shall be protected from practices which may foster racial, religious and any other form of discrimination. He shall be brought up in a spirit of understanding, tolerance, friendship among peoples, peace and universal brotherhood, and in full consciousness that his energy and talents should be devoted to the service of his fellow men.
+The child shall be protected from practices which may foster racial, religious and any other form of discrimination. He shall be brought up in a spirit of understanding, tolerance, friendship among peoples, peace and universal brotherhood, and in full consciousness that his energy and talents should be devoted to the service of his fellow men. 
 
 # Schedule 4—Declaration on the Rights of Mentally Retarded Persons
 
@@ -3169,7 +3170,7 @@ _Proclaims_ this Declaration on the Rights of Mentally Retarded Persons and call
 
 6.    The mentally retarded person has a right to protection from exploitation, abuse and degrading treatment. If prosecuted for any offence, he shall have a right to due process of law with full recognition being given to his degree of mental responsibility. 
 
-7.    Whenever mentally retarded persons are unable, because of the severity of their handicap, to exercise all their rights in a meaningful way or it should become necessary to restrict or deny some or all of these rights, the procedure used for that restriction or denial of rights must contain proper legal safeguards against every form of abuse. This procedure must be based on an evaluation of the social capability of the mentally retarded person by qualified experts and must be subject to periodic review and to the right of appeal to higher authorities.
+7.    Whenever mentally retarded persons are unable, because of the severity of their handicap, to exercise all their rights in a meaningful way or it should become necessary to restrict or deny some or all of these rights, the procedure used for that restriction or denial of rights must contain proper legal safeguards against every form of abuse. This procedure must be based on an evaluation of the social capability of the mentally retarded person by qualified experts and must be subject to periodic review and to the right of appeal to higher authorities. 
 
 # Schedule 5—Declaration on the Rights of Disabled Persons
 
@@ -3217,7 +3218,7 @@ _Proclaims_ this Declaration on the Rights of Disabled Persons and calls for nat
 
 12.  Organizations of disabled persons may be usefully consulted in all matters regarding the rights of disabled persons. 
 
-13.  Disabled persons, their families and communities shall be fully informed, by all appropriate means, of the rights contained in this Declaration.
+13.  Disabled persons, their families and communities shall be fully informed, by all appropriate means, of the rights contained in this Declaration. 
 
 # Notes to the _Australian Human Rights Commission Act 1986_
 
@@ -3503,7 +3504,7 @@ Remainder: Royal Assent</div>
     <div>Schedule (Parts 3, 6): <i>(d)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -3960,7 +3961,7 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>Schedule 5 (items 4–8) and Schedule 7: <i>(m)</i></div>
   </td>
   <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -3980,7 +3981,7 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>Schedule 1: 18 Dec 2010</div>
   </td>
   <td>
-    <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4062,26 +4063,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 7, 8) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 15, 16): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -4309,7 +4290,7 @@ _(k)_ Subsection 2(1) (items 6 and 7) and (4) of the _Age Discrimination (Cons
   </td>
   <td>
     <div>
-
+      (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -5540,14 +5521,6 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 46PW</div>
   </td>
   <td>
@@ -5567,7 +5540,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 54 and 124, 2009; No. 136, 2012</div>
+    <div>am. Nos. 54 and 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5993,7 +5966,7 @@ _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009
 
 Subparagraph 20(2)(c)(vii) of the _Human Rights and Equal Opportunity Commission Act 1986_, as added by this Part, applies in relation to complaints made to the Commission before, on or after the commencement of this Part.
 
-## 148  Application
+## 148  Application
 
 Subparagraph 32(3)(c)(vii) of the _Human Rights and Equal Opportunity Commission Act 1986_, as added by this Part, applies in relation to complaints made to the Commission before, on or after the commencement of this Part.
 
@@ -6031,8 +6004,7 @@ To avoid doubt, the Commission’s right to sue is not affected by the amendment
 
 * * *
 
-_Sex and Age Discrimination Legislation Amendment Act 2011 
- (No. 40, 2011)_
+_Sex and Age Discrimination Legislation Amendment Act 2011 (No. 40, 2011)_
 
 ## Schedule 2
 
