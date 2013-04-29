@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00320/Html/CorpAbTorStrIs2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00236/Html/CorpAbTorStrIs2006_image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 38 of 2010
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1955,7 +1955,7 @@ The Parliament of Australia enacts:
 
 ##### <a id="1-10"></a>1-10  Act binds Crown
 
-             (1)  This Act (except Part 5.8 of the Corporations Act as applied by sections 516-1, 521-1, 526-35 and 526-40) binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+             (1)  This Act (except Part 5.8 of the Corporations Act as applied by subsections 516-1(3), 521-1(3), 526-35(3) and 526-40(3)) binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
              (2)  To avoid doubt, a reference in this section to the Crown in a particular right includes a reference to an instrumentality or agency (whether a body corporate or not) of the Crown in that right.
 
@@ -2121,9 +2121,9 @@ This Chapter provides for Aboriginal and Torres Strait Islander corporations and
 
 In particular, it deals with:
 
-<li class="BoxList" style="margin-left:21.25pt">•      what an Aboriginal and
+<li class="BoxList" style="margin-left:21.25pt">•      what an Aboriginal and Torres
 
-Torres Strait Islander corporation is (see section 16-5); and</li>
+Strait Islander corporation is (see section 16-5); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the application for
 
@@ -2999,7 +2999,7 @@ Persons become members on registration
 
              (1)  A person becomes a member of an Aboriginal and Torres Strait Islander corporation on registration of the corporation if:
 
-                     (a)  the corporation was registered as a result of an application made under section 21-1 and the person is specified in the application with the person’s consent as a proposed member of the corporation; or
+                     (a)  the corporation was registered as a result of an application made under section 21-1 and the person is specified in the application with his or her consent as a proposed member of the corporation; or
 
                      (b)  the corporation was registered as a result of an application made under section 22-1 for registration of a body corporate as an Aboriginal and Torres Strait Islander corporation under Part 2-3 and the person is a member of the body corporate immediately before registration of the corporation; or
 
@@ -3356,23 +3356,6 @@ Division 72 deals with other matters concerning constitutions.
   <td>
     <div>
 
-1A</div>
-  </td>
-  <td>
-    <div>
-      <b>Chapter 3—Basic features of an Aboriginal and Torres Strait Islander corporation</b>Resolution
-      of disputes</div>
-  </td>
-  <td>
-    <div>
-
-subsection 66-1(3A)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-
 1</div>
   </td>
   <td>
@@ -3468,6 +3451,17 @@ section 144-1</div>
   </td>
   <td>
     <div>section 150-1</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>Resolution of disputes</div>
+  </td>
+  <td>
+    <div>section 150-5</div>
   </td>
 </tr>
 <tr>
@@ -4702,7 +4696,7 @@ to the effect that the special resolution was passed in accordance with the inte
 
 Note:          See also section 265-40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
-##### <a id="69-25"></a>69-25  Special administrator to lodge copy of constitutional changes
+##### <a id="69-25"></a>69-25  Special administrator to lodge copy of constitutional changes
 
                    If the special administrator of an Aboriginal and Torres Strait Islander corporation changes the corporation’s constitution under section 499-5, the special administrator must lodge a copy of the change with the Registrar.
 
@@ -5457,7 +5451,7 @@ This Part deals with:
 
 ### Division 112—Registered office
 
-##### <a id="112-1"></a>112-1  General
+##### <a id="112-1"></a>112-1  General
 
 Application of Division
 
@@ -5771,11 +5765,11 @@ Division 153 provides for different classes of members.
 
                      (a)  is a member of the corporation on its registration; or
 
-                     (b)  agrees to become a member of the corporation after its registration and the person’s name is entered on the register of members.
+                     (b)  agrees to become a member of the corporation after its registration and his or her name is entered on the register of members.
 
 Note:          Section 180-5 requires the corporation to enter the names and addresses of all of its members on the register of members.
 
-             (2)  A person referred to in paragraph (1)(b) becomes a member when the person’s name is entered on the register of members.
+             (2)  A person referred to in paragraph (1)(b) becomes a member when his or her name is entered on the register of members.
 
 Note:          Under section 42-10, a person who is specified in the application for registration of an Aboriginal and Torres Strait Islander corporation as a member of the corporation becomes a member on registration of the corporation.
 
@@ -6019,7 +6013,7 @@ Cancellation of membership if member is not eligible etc.
 
                              (ii)  the member has ceased to be eligible for membership of the corporation; or
 
-                     (b)  the member has not paid the member’s membership fees (if any).
+                     (b)  the member has not paid his or her membership fees (if any).
 
 Member to be given notice
 
@@ -6130,12 +6124,6 @@ Notice
              (4)  If the corporation does so cancel the membership, the directors must give the member a copy of the resolution as soon as practicable after the resolution has been passed.
 
                     Penalty:  5 penalty units.
-
-Strict liability offence
-
-             (5)  An offence against subsection (4) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ### Division 153—Can there be different classes of members?
 
@@ -7187,7 +7175,7 @@ Notice to members, officers and observers
 
                      (c)  the corporation secretary (if any);
 
-                     (d)  the contact person (if any);
+                     (d)  the contact officer (if any);
 
                      (e)  any observer entitled to attend the meeting.
 
@@ -8013,7 +8001,7 @@ The amount of any payment the corporation requires cannot exceed the prescribed 
 
                     Penalty:  5 penalty units.
 
-             (7)  An offence against subsection (3), (5) or (6) is an offence of strict liability.
+             (7)  An offence against subsection (3), (4) or (5) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
@@ -8671,7 +8659,7 @@ Other duties are imposed by:
 
                (c)     other laws (including the general law).
 
-A particularly important duty that is imposed on the directors of an Aboriginal and Torres Strait Islander corporation is the obligation imposed by section 588G of the Corporations Act (as applied by section 531-1 of this Act) not to incur debts, make distributions to members or enter into uncommercial transactions when the corporation is insolvent.
+A particularly important duty that is imposed on the directors of an Aboriginal and Torres Strait Islander corporation is the obligation imposed by section 558G of the Corporations Act (as applied by section 531-1 of this Act) not to incur debts, make distributions to members or enter into uncommercial transactions when the corporation is insolvent.
 
 Division 274 deals with the powers of directors.
 
@@ -8889,7 +8877,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          A defendant bears a legal burden in relation to a matter mentioned in subsection (3) (see section 13.4 of the _Criminal Code_).
 
-##### <a id="265-45"></a>265-45  Meaning of reasonable reliance on information or advice provided by others
+##### <a id="265-45"></a>265-45  Meaning of reasonable reliance on information or advice provided by others
 
              (1)  If:
 
@@ -9273,7 +9261,7 @@ Interaction with other rules
 
 ##### <a id="279-1"></a>279-1  Disqualified person not to manage corporations
 
-             (1)  A person who is disqualified from managing Aboriginal and Torres Strait Islander corporations under this Part commits an offence if:
+             (1)  A person who is disqualified from managing Aboriginal and Torres Strait corporations under this Part commits an offence if:
 
                      (a)  the person makes, or participates in making, decisions that affect the whole, or a substantial part, of the business of an Aboriginal and Torres Strait Islander corporation; or
 
@@ -10607,9 +10595,9 @@ First financial year
 
                      (a)  starts on:
 
-                              (i)  the 1 July last preceding the day on which it is registered; or
+                              (i)  the 1 June last preceding the day on which it is registered; or
 
-                             (ii)  if the corporation came into existence after that 1 July—the day on which the corporation came into existence; and
+                             (ii)  if the corporation came into existence after that 1 June—the day on which the corporation came into existence; and
 
                      (b)  ends on the 30 June next following the day on which it is registered.
 
@@ -11395,7 +11383,7 @@ Note:          A defendant bears an evidential burden in relat
 
 #### Subdivision 339-D—Auditor independence
 
-##### <a id="339-75"></a>339-75  Independence of auditors: application of Corporations Act auditor independence provisions
+##### <a id="339-75"></a>339-75  Independence of auditors: application of Corporations Act auditor independence provisions
 
 Application of section
 
@@ -12257,7 +12245,7 @@ Note:          In certain circumstances, a person may bring pr
 
 ##### <a id="386-25"></a>386-25  Time limit for application for a declaration or order
 
-                   Proceedings for a declaration of contravention, a pecuniary penalty order or a compensation order, may be started no later than 6 years after the contravention.
+                   Proceedings for a declaration of contravention, a pecuniary penalty order or a compensation order, may be started no later than 6 years after the contravention.
 
 ##### <a id="386-30"></a>386-30  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
 
@@ -12571,7 +12559,7 @@ as the Registrar thinks necessary in order to form an opinion whether he or she 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="407-10"></a>407-10  Registrar may require information from persons on a register
+##### <a id="407-10"></a>407-10  Registrar may require information from persons on a register
 
              (1)  If information about a person is included on a register kept by the Registrar, the Registrar may at any time, in writing, require that person to give the Registrar specified information about the person if information of that kind is included on that register in relation to the person.
 
@@ -13321,7 +13309,7 @@ he or she has relied on to justify the issue of the warrant.
 
              (1)  This section applies if:
 
-                     (a)  books of an Aboriginal and Torres Strait Islander corporation are produced to an authorised officer under section 453-1 or section 453-5; or
+                     (a)  books of an Aboriginal and Torres Strait Islander corporation are produced to an authorised officer under section 453-1 or section or 453-5; or
 
                      (b)  under a warrant issued under this Division, an authorised officer:
 
@@ -15554,7 +15542,7 @@ Circumstances in which the Registrar may deregister
 
              (1)  The Registrar may decide to deregister an Aboriginal and Torres Strait Islander corporation if:
 
-                     (a)  the corporation has not lodged a general report within 6 months after the day on which the report is required to be lodged; and
+                     (a)  the corporation has not lodged a general return within 6 months after the day on which the return is required to be lodged; and
 
                      (b)  the corporation has not lodged any other documents under this Act in the last 18 months; and
 
@@ -17122,7 +17110,7 @@ have the equivalent jurisdiction with respect to offenders or persons charged wi
 
 the court may decline to exercise that jurisdiction in relation to an offence committed in another State or Territory.
 
-             (8)  The jurisdiction conferred on a court of a State, the Australian Capital Territory or the Northern Territory by subsection (1) in relation to:
+             (8)  The jurisdiction conferred on a court of a State or the Northern Territory by subsection (1) in relation to:
 
                      (a)  the examination and commitment for trial on indictment; and
 
@@ -17266,7 +17254,7 @@ Note:          The _Privacy Act 1988_ also contains provisions
 
 ##### <a id="604-20"></a>604-20  Consultant’s obligations in relation to protected information
 
-                   A person engaged as a consultant under this Act commits an offence if:
+                   A person engaged as a consultant under section 658-10 commits an offence if:
 
                      (a)  the person uses or discloses protected information; and
 
@@ -19869,8 +19857,6 @@ as the case requires.
 
 The _Corporations (Aboriginal and Torres Strait Islander) Act 2006_ as shown in this compilation comprises Act No. 124, 2006 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -19986,23 +19972,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>38, 2010</div>
-  </td>
-  <td>
-    <div>13 Apr 2010</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 9–26): 14 April 2010</div>
-  </td>
-  <td>
-    <div>Sch. 7 (item 26)</div>
   </td>
 </tr></table>
 
@@ -20134,282 +20103,10 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </thead>
 <tr>
   <td>
-    <div><b>Chapter 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1-1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1-10</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2-5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 42</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42-10</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 57</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57-5</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 138</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 138-1</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 150</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 150-C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150-20</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150-35</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 201</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 201-B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 201-25</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5-4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 220</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 220-10</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 6</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6-4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 262</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 262-1</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6-5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 279</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 279-1</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20434,38 +20131,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7-3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 333</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 333-5</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20502,46 +20167,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Chapter 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10-3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 456</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision 456-A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 456-10</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 11</b></div>
   </td>
   <td>
@@ -20570,102 +20195,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No.4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 12</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 12-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 546</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 546-5</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 14</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 14-3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 589</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 589-5</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 15</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 15-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 604</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 604-20</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20754,22 +20283,6 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 19 April 2010 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010 (No. 38, 2010)_
-
-## Schedule 7
-
-## 26  Application
-
-(1)        The amendment made by item 16 applies in relation to cancellations occurring on or after the commencement of that item.
-
-(2)        The amendment made by item 21 applies in relation to registrations occurring on or after the commencement of that item.
-
-(3)        The amendment made by item 25 applies in relation to uses and disclosures of protected information on or after the commencement of that item (whether the persons were engaged as consultants before, on or after that commencement).
+As at 5 March 2010 the amendments are not incorporated in this compilation.
 
  
