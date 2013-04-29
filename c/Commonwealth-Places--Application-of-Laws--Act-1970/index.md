@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00155/Html/ac5ea7c8-96ed-4e54-85ab-d15229d47e4d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00135/Html/879d502b-2868-4f61-950a-abe2a0da251a_files/image001.gif)
 
 # Commonwealth Places (Application of Laws) Act 1970
 
 **Act No. 121 of 1970 as amended**
 
-This compilation was prepared on 30 March 2011
+This compilation was prepared on 4 March 2011
  taking into account amendments up to Act No. 1 of 2011
 
 The text of any of those amendments not in force
@@ -20,13 +20,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Notes 1 and 2]
 
 [3](#3).            Interpretation
 
 [4](#4).            Application of laws in Commonwealth places
 
-[5](#5).            Application of certain provisions of Commonwealth Acts to applied provisions
+[5](#5).            Certain provisions not to apply to applied provisions
 
 [6](#6).            Arrangements with States
 
@@ -66,13 +66,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act relating to the Application and Administration of Laws in Places acquired by the Commonwealth for Public Purposes
+## An Act relating to the application and administration of laws in places acquired by the Commonwealth for public purposes
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Commonwealth Places (Application of Laws) Act 1970_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Notes 1 and 2]
 
              (1)  Subject to the next succeeding subsection, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -81,8 +81,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="3"></a>3  Interpretation
 
                    In this Act, unless the contrary intention appears:
-
-                    <a name="airport"></a>**_airport_** has the same meaning as in the _Aviation Transport Security Act 2004_.
 
                     <a name="author"></a>**_authority_**, in relation to a State, means:
 
@@ -97,28 +95,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (e)  an officer or employee of the State or of a body referred to in the last preceding paragraph.
 
                     <a name="commonwealth-place"></a>**_Commonwealth place_** means a place (not being the seat of government) with respect to which the Parliament, by virtue of section 52 of the Constitution, has, subject to the Constitution, exclusive power to make laws for the peace, order, and good government of the Commonwealth.
-
-                    <a name="design-state-airport"></a>**_designated State airport_** means an airport, to the extent that it is a Commonwealth place, that is:
-
-                     (a)  situated in a State or States; and
-
-                     (b)  prescribed by the regulations for the purposes of this definition.
-
-                    <a name="member-australian-feral-polic"></a>**_member of the Australian Federal Police_** has the same meaning as in the _Australian Federal Police Act 1979_.
-
-                    <a name="relev-crime-act-provision"></a>**_relevant Crimes Act provision_** means any of the following provisions of the _Crimes Act 1914_:
-
-                     (a)  Part IAA (which deals with search, information gathering, arrest and related powers);
-
-                     (b)  section 9 (which provides for the seizure and condemnation of forfeitable goods);
-
-                     (c)  section 13 (which allows the institution of proceedings in respect of offences);
-
-                     (d)  section 15 (which deals with the remand and discharge of defendants);
-
-                     (e)  Part ID (which deals with forensic procedures).
-
-                    <a name="special-member"></a>**_special member_** has the same meaning as in the _Australian Federal Police Act 1979_.
 
                     <a name="applied-provision"></a>**_the applied provisions_** means the provisions that, in accordance with the next succeeding section, apply or are to be deemed to have applied.
 
@@ -174,7 +150,7 @@ that authority is empowered to do that act under that part of the applied provis
 
            (14)  Without limiting the effect of any other law of the Commonwealth, it is declared that the powers of a person under the law of a State may be exercised in that State in respect of an act done in that State notwithstanding that the act was done in or in relation to a Commonwealth place and the provisions of the laws of the State have effect in relation to anything done by a person in the exercise of a power referred to in this subsection.
 
-##### <a id="5"></a>5  Application of certain provisions of Commonwealth Acts to applied provisions
+##### <a id="5"></a>5  Certain provisions not to apply to applied provisions
 
              (1)  The _Acts Interpretation Act 1901_ does not apply in relation to the applied provisions.
 
@@ -185,8 +161,6 @@ that authority is empowered to do that act under that part of the applied provis
           (2B)  Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, the applied provisions.
 
              (3)  Where there is in force an arrangement with the Governor of a State under subsection (2) of the next succeeding section, the provisions of the Acts set out in the Schedule to this Act do not apply to or in relation to matters arising under the applied provisions having effect in or in relation to a Commonwealth place in that State.
-
-          (3A)  However, subsection (3) does not prevent the application of a relevant Crimes Act provision in relation to an investigation by a member of the Australian Federal Police, or a special member, if the Commonwealth Place is a designated State airport.
 
              (4)  Paragraph 6(1)(e) of the _Director of Public Prosecutions Act 1983_ applies, in relation to a State to which subsection (3) applies, only to proceedings instituted under the applied provisions by:
 
@@ -372,7 +346,7 @@ is, in proceedings under, or purporting to be under, any part of the applied pro
 
 _Section 5(3)_
 
-              1.  Part IAA (other than section 3Z), and sections 9, 13, 15, 15A, 15B and 15C, and, all the provisions of Divisions 1 to 9 (inclusive) of Part IB, sections 20C, 21B and 21E and Part ID of the _Crimes Act 1914_. 
+              1.  Part IAA (other than section 3Z), and sections 9, 13, 15, 15A, 15B and 15C, and, all the provisions of Divisions 1 to 9 (inclusive) of Part IB, sections 20C, 21B and 21E and Part ID of the _Crimes Act 1914_. 
 
               2.  Sections 69, 70, 71 and 71A of the _Judiciary Act 1903‑1969_. 
 
@@ -383,8 +357,6 @@ _Section 5(3)_
 ### Note 1
 
 The _Commonwealth Places (Application of Laws) Act 1970_ as shown in this compilation comprises Act No. 121, 1970 amended as indicated in the Tables below.
-
-Subsection 2(2)—This Act came into effect in all States from and including 30 November 1970 (_see Gazette_ 1970, p. 7941).
 
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -465,7 +437,7 @@ of Assent</div>
     <div>22 Sept 1982</div>
   </td>
   <td>
-    <div>Part XVII (ss. 45, 46): <i>(a)</i></div>
+    <div>Part XVII (ss. 45, 46): 16 Dec 1985 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -482,7 +454,8 @@ of Assent</div>
     <div>14 Dec 1983</div>
   </td>
   <td>
-    <div>Sections 5 and 6: 5 Mar 1984 ( <i>see</i>s. 2(1) and <i>Gazette</i>1984, No. S55)</div>
+    <div>S. 8: 16 Dec 1985 ( <i>see</i>s. 2(2) and (3)) 
+Remainder: 5 Mar 1984 ( <i>see</i>s. 2(1) and <i>Gazette</i>1984, No. S55)</div>
   </td>
   <td>
     <div>—</div>
@@ -499,7 +472,7 @@ of Assent</div>
     <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>Ss. 3 and 6(1): 22 Nov 1984</div>
+    <div>S. 3: 22 Nov 1984 <i>(b)</i></div>
   </td>
   <td>
     <div>S. 6(1)</div>
@@ -516,7 +489,7 @@ of Assent</div>
     <div>18 Dec 1986</div>
   </td>
   <td>
-    <div>Ss. 3 and 5(1): Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -533,7 +506,19 @@ of Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Ss. 21 and 22: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S54)</div>
+    <div>S. 20: 21 Dec 1989 ( <i>see Gazette</i>1989, No. S384) 
+Ss. 21–24, 70 and 71: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, 
+No. S54) 
+Ss. 25–27: 15 June 1985 
+Ss. 28–31, 48–50, 54–56, 58–61, 63, 64, 66–69: 11 Jan 1989 ( <i>see</i>s. 2(3)) 
+Ss. 32 and 33: 1 Dec 1988 ( <i>see 
+ </i>s. 2(5)) 
+Ss. 34 and 35: 
+5 Apr 1988 
+Ss. 45 and 46: 1 Dec 1988 ( <i>see 
+ </i>s. 2(7) and (8)) 
+Ss. 47, 51–53, 57, 62 and 65: 5 Sept 1989 ( <i>see Gazette</i>1989, No. S296) 
+Remainder: 14 Dec 1988</div>
   </td>
   <td>
     <div>—</div>
@@ -550,7 +535,7 @@ of Assent</div>
     <div>20 Apr 1989</div>
   </td>
   <td>
-    <div>Ss. 4 and 13: 9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
   </td>
   <td>
     <div>S. 13</div>
@@ -567,7 +552,7 @@ of Assent</div>
     <div>17 Jan 1990</div>
   </td>
   <td>
-    <div>S. 34: 17 July 1990</div>
+    <div>S. 34: 17 July 1990 <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -584,7 +569,7 @@ of Assent</div>
     <div>13 Apr 1992</div>
   </td>
   <td>
-    <div>S. 3: <i>(b)</i></div>
+    <div><i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -601,7 +586,8 @@ of Assent</div>
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>S. 52: 8 Jan 1993</div>
+    <div>Ss. 1, 2 and 18–53: 8 Jan 1993 
+Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
   </td>
   <td>
     <div>—</div>
@@ -635,7 +621,7 @@ of Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (item 41): Royal Assent</div>
+    <div>Schedule 5 (item 41): Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -652,7 +638,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 635): 1 Jan 1998 ( <i>see</i>s. 2(2) and <i>Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (item 635): 1 Jan 1998 ( <i>see Gazette</i>1997, GN49) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -686,7 +672,7 @@ of Assent</div>
     <div>23 July 1998</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): 23 Jan 1999</div>
+    <div>Schedule 3 (item 1): 23 Jan 1999 <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -703,10 +689,11 @@ of Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 142, 143, 418, 419): 24 May 2001</div>
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -720,11 +707,11 @@ of Assent</div>
     <div>6 Apr 2001</div>
   </td>
   <td>
-    <div>S. 4(1) and (2): <i>(c)</i> 
-Schedule 51 (items 1–3): 15 Dec 2001 <i>(c)</i></div>
+    <div>S. 4(1) and (2): <i>(i)</i> 
+Schedule 51 (items 1–3): 15 Dec 2001 <i>(i)</i></div>
   </td>
   <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -739,10 +726,10 @@ Schedule 51 (items 1–3): 15 Dec 2001 <i>(c)</i></div>
   </td>
   <td>
     <div>Schedule 3 (items 1, 7, 36, 42): Royal Assent 
-Schedule 3 (item 15): <i>(d)</i></div>
+Schedule 3 (item 15): <i>(j)</i></div>
   </td>
   <td>
-    <div>Sch. 3 (item 42) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (item 42) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -773,10 +760,10 @@ Schedule 3 (item 15): <i>(d)</i></div>
     <div>2 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–8): 30 Mar 2011</div>
+    <div>Schedule 2 (items 2–8): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 2 (item 8) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 8) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -784,15 +771,37 @@ _(a)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
 
                  (6)    Part XVII, Division 2 of Part XVIII and Parts XXII, XXIII and LXIV shall come into operation, or shall be deemed to have come into operation, as the case requires, immediately after the commencement of section 8 of the _Crimes Amendment Act 1982_.
 
-         Section 8 commenced on 16 December 1985.
+_(b)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-_(b)_     Section 2 of the _Law and Justice Legislation Amendment Act 1992_ provides as follows:
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(c)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(d)_     The _Commonwealth Places (Application of Laws) Act 1990_ was amended by section 34 only of the _Crimes Legislation Amendment Act (No. 2) 1989_, subsection 2(14) of which provides as follows:
+
+               (14)   If a provision referred to in subsection (13) does not commence under that subsection within the period of 6 months beginning on the day it receives the Royal Assent, it commences on the first day after the end of that period.
+
+_(e)_     Section 2 of the _Law and Justice Legislation Amendment Act 1992_ provides as follows:
 
                  (1)   Subject to this section this Act commences on the day on which it receives the Royal Assent.
 
                  (2)   The amendment of the _Commonwealth Places (Application of Laws) Act 1970_ made by this Act is taken to have commenced on 1 November 1991.
 
-_(c)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 51 (items 1–3) only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsections 2(1)(a) and (3) of which provide as follows:
+_(f)_      The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 5 (item 41) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(g)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 2 (item 635) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997,_ subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(h)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 3 (item 1) only of the _Crimes Amendment (Forensic Procedures) Act 1998_., subsection 2(4) of which provides as follows:
+
+                 (4)   If the provisions specified in subsection (3) have not commenced under that subsection within the period of 6 months beginning on the day on which this Act receives the Royal Assent, those provisions commence on the first day after the end of that period.
+
+_(i)_      The _Commonwealth Places (Application of Laws) Act 1970_ was amended by Schedule 51 (items 1–3) only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsections 2(1)(a) and (3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
@@ -802,7 +811,7 @@ _(c)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
 
          Item 15 commenced on 24 May 2001.
 
-_(d)_     The _Commonwealth Places (Application of Laws) Act 1970_ was amended by the _Crimes Legislation Enhancement Act 2003_, subsection 2(1) (item 16) of which provides as follows:
+_(j)_      The _Commonwealth Places (Application of Laws) Act 1970_ was amended by the _Crimes Legislation Enhancement Act 2003_, subsection 2(1) (item 16) of which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -922,14 +931,6 @@ _(d)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
 </thead>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td colspan="2">
@@ -938,18 +939,10 @@ _(d)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 5</div>
-  </td>
-  <td colspan="2">
-    <div>rs. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td colspan="2">
-    <div>am. No. 168, 1986; No. 120, 1988; Nos. 22 and 164, 1992; No. 137, 2000; No. 24, 2001; No. 41, 2003; No. 1, 2011</div>
+    <div>am. No. 168, 1986; No. 120, 1988; Nos. 22 and 164, 1992; No. 137, 2000; No. 24, 2001; No. 41, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1002,18 +995,10 @@ _(d)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
 </tr>
 <tr>
   <td>
-    <div><b>The Schedule</b></div>
+    <div>Schedule</div>
   </td>
   <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 80, 1982; No. 114, 1983; No. 165, 1984; No. 168, 1986; No. 4, 1990; No. 65, 1994; No. 96, 1998; No. 24, 2001; No. 41, 2003</div>
+    <div>am. No. 80, 1982; No. 114, 1983; No. 165, 1984 ; No.168, 1986; No. 4, 1990; No. 65, 1994; No. 96, 1998; No. 24, 2001; No. 41, 2003</div>
   </td>
 </tr>
 <tr height="0">
@@ -1022,11 +1007,78 @@ _(d)_     The _Commonwealth Places (Application of Laws) Act 1970_ was a
   <td></td>
 </tr></table>
 
+### Note 2
+
+Subsection 2(2)—This Act came into effect in all States from and including 30 November 1970 (_see Gazette_ 1970, p. 7941).
+
+### Note 3
+
+_Aviation Crimes and Policing Legislation Amendment Act 2011 
+ (No. 1, 2011)_
+
+The following amendments commence on 30 March 2011:
+
+## Schedule 2
+
+## 2  Section 3
+
+Insert:
+
+                    <a name="airport"></a>**_airport_** has the same meaning as in the _Aviation Transport Security Act 2004_.
+
+## 3  Section 3
+
+Insert:
+
+                    <a name="design-state-airport"></a>**_designated State airport_** means an airport, to the extent that it is a Commonwealth place, that is:
+
+                     (a)  situated in a State or States; and
+
+                     (b)  prescribed by the regulations for the purposes of this definition.
+
+## 4  Section 3
+
+Insert:
+
+                    <a name="member-australian-feral-polic"></a>**_member of the Australian Federal Police_** has the same meaning as in the _Australian Federal Police Act 1979_.
+
+## 5  Section 3
+
+Insert:
+
+                    <a name="relev-crime-act-provision"></a>**_relevant Crimes Act provision_** means any of the following provisions of the _Crimes Act 1914_:
+
+                     (a)  Part IAA (which deals with search, information gathering, arrest and related powers);
+
+                     (b)  section 9 (which provides for the seizure and condemnation of forfeitable goods);
+
+                     (c)  section 13 (which allows the institution of proceedings in respect of offences);
+
+                     (d)  section 15 (which deals with the remand and discharge of defendants);
+
+                     (e)  Part ID (which deals with forensic procedures).
+
+## 6  Section 3
+
+Insert:
+
+                    <a name="pecial-member"></a>**_s pecial member_** has the same meaning as in the _Australian Federal Police Act 1979_.
+
+## 7  After subsection 5(3)
+
+Insert:
+
+          (3A)  However, subsection (3) does not prevent the application of a relevant Crimes Act provision in relation to an investigation by a member of the Australian Federal Police, or a special member, if the Commonwealth Place is a designated State airport.
+
+_Note:       The heading to section 5 is replaced by the heading “Application of certain provisions of Commonwealth Acts to applied provisions”._
+
+As at 4 March 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -1058,7 +1110,7 @@ the amendment of the first‑mentioned provision by this Schedule does not affec
 
 * * *
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1084,12 +1136,15 @@ _Crimes Legislation Enhancement Act 2003 (No. 41, 2003)_
 
 * * *
 
-_Aviation Crimes and Policing Legislation Amendment Act 2011 (No. 1, 2011)_
+_Aviation Crimes and Policing Legislation Amendment Act 2011 
+ (No. 1, 2011)_
+
+The following provision commences on 30 March 2011:
 
 ## Schedule 2
 
 ## 8  Application
 
-            The amendment made by item 7 applies, on and after the day the item commences, in relation to offences committed, or suspected to have been committed, before, on or after that day.
+The amendment made by item 7 applies, on and after the day the item commences, in relation to offences committed, or suspected to have been committed, before, on or after that day.
 
  
