@@ -1,569 +1,643 @@
-![](http://www.comlaw.gov.au/Details/C2005C00384/Html/AD27455851E515B8CA257026001577D6/$FILE/image001.gif)
+**
 
-# Telecommunications (Numbering Charges) Act 1997
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997 
+**
 
-**Act No. 51 of 1997 as amended**
 
-This compilation was prepared on 1 July 2005
-taking into account amendments up to Act No. 47 of 2005
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
 
 
-# Contents
 
-**Part 1—Introduction**
 
-[1](#1).            Short title _see_ Note 1]
+**
 
-[2](#2).            Commencement [_see_ Note 1]
+###  Long Title 
+**
+Telecommunications Act 1997
+**
 
-[3](#3).            Act to bind Crown
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<part>Part 1&#151;Introduction </part>
+**
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Telecommunications (Numbering Charges) Act 1997_.
 
-[4](#4).            Extension to eligible Territories
+ 
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Parts 1 and 4 commence on the day on which this Act receives the Royal
 
-[5](#5).            Interpretation
+Assent.</dd> <dt>(2)</dt><dd>Parts 2 and 3 commence on 1 July 1997\. </dd> 
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 3  Act to bind Crown 
+This Act binds the Crown in right of each of the States, of the Australian
 
-[5A](#5A).         Meaning of _transferred_
+Capital Territory, of the Northern Territory and of Norfolk Island.
 
-**Part 2—Allocation charges** 
+ 
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 4  Extension to eligible Territories 
+This Act extends to each eligible Territory.
 
-    **Division 1—Allocation in accordance with an allocation system**
+ 
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 5  Interpretation 
+In this Act:
 
-[6](#6).            Definition of _charge_
+ 
+<dl compact=""><dl compact="">
 
-[7](#7).            Imposition of charge
+_ACA_ means the Australian Communications Authority. _allocation_, in relation to a number, means the allocation of the number under the authority of the numbering plan. _allocation system_ means a system determined under section 463 of the _Telecommunications Act 1997_. _carriage service provider_ has the same meaning as in the _Telecommunications Act 1997_. _eligible Territory_ has the same meaning as in the _Telecommunications Act 1997_. _number_ has the same meaning as in Division 2 of Part 22 of the _Telecommunications Act 1997_. _numbering plan_ has the same meaning as in the _Telecommunications Act 1997_. _standard telephone service_ has the same meaning as in the _Telecommunications Act 1997_. _surrendered_, in relation to a number, means surrendered in accordance with the numbering plan. _transferred_ has the meaning given by section 5A. _withdrawn_, in relation to a number, means withdrawn in accordance with the numbering plan.  </dl></dl>
 
-[8](#8).            By whom charge payable
+**
 
-[9](#9).            Amount of charge
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 5A  Meaning of _transferred_ 
+**
 
-    **Division 2—Allocation otherwise than in accordance with an allocation system**
+<center>Back to Top</center>
 
-[10](#10).          Definition of _charge_
+ <dl compact="">
 
-[11](#11).          Imposition of charge
+<dt>(1)</dt><dd>A number is _transferred_ between 2 carriage service providers
 
-[12](#12).          By whom charge payable
+when the number is ported from one of the providers to the other provider.</dd> <dt>(2)</dt><dd>Two carriage service providers may enter into a binding written agreement that provides that a number is _transferred_ from one of them to the other. The carriage service providers must jointly give the ACA written notice of the transfer. The transfer takes effect on the later of the following: </dd> </dl>
 
-[13](#13).          Amount of charge
+<dl compact=""><dl compact=""><dl compact="">
 
-[14](#14).          Maximum charge
+<dt>(a)</dt><dd>the day on which the notice is given to the ACA;</dd>
 
-[15](#15).          Exemption from charge
+<dt>(b)</dt><dd>another day specified in the notice.
 
-**Part 3—Annual charge**
+</dd>
 
-[16](#16).          Definition of _charge_
+</dl></dl></dl>
 
-[17](#17).          Holder of a number
+<dl compact="">
 
-[18](#18).          Imposition of charge
+<dt>(3)</dt><dd>A number is transferred at the time worked out under subsection (1), and
 
-[19](#19).          By whom charge payable
+not at the time worked out under subsection (2), if the number is ported from
 
-[20](#20).          Amount of charge
+one carriage service provider to another when:
 
-[21](#21).          Maximum charge
+</dd> </dl>
 
-[22](#22).          Exemption from charge
+<dl compact=""><dl compact=""><dl compact="">
 
-**Notes** 
+<dt>(a)</dt><dd>an agreement described in subsection (2) and relating to the number is in
 
- 
+force; or</dd>
 
+<dt>(b)</dt><dd>a notice relating to the number has been given as described in that
 
-## An Act to impose charges in relation to numbers allocated to certain carriage service providers under the _Telecommunications Act 1997_
+subsection.
 
-## Part 1—Introduction
+</dd>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+</dl></dl></dl>
 
-                   This Act may be cited as the _Telecommunications (Numbering Charges) Act 1997_.
+<center>**
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<part>Part 2&#151;Allocation charges </part>
+**</center>
 
-             (1)  Parts 1 and 4 commence on the day on which this Act receives the Royal Assent.
+<center>**
 
-             (2)  Parts 2 and 3 commence on 1 July 1997.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<division>Division 1&#151;Allocation in accordance with an allocation system </division> 
+**</center>
 
-##### <a id="3"></a>3  Act to bind Crown
+**
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 6  Definition of _charge_ 
+**
 
-##### <a id="4"></a>4  Extension to eligible Territories
+ <dl compact="">
 
-                   This Act extends to each eligible Territory.
+		In this Division:
 
-##### <a id="5"></a>5  Interpretation
+ </dl>
 
-                   In this Act:
+<def><dl compact=""><dl compact="">
 
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+_charge_ means charge imposed by this Division.
 
-                    <a name="alloc"></a>**_allocation_**, in relation to a number, means the allocation of the number under the authority of the numbering plan.
+ </dl></dl>
 
-                    <a name="alloc-system"></a>**_allocation system_** means a system determined under section 463 of the _Telecommunications Act 1997_.
+**
 
-                    <a name="carriag-servic-provid"></a>**_carriage service provider_** has the same meaning as in the _Telecommunications Act 1997_.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 7  Imposition of charge 
+**
 
-                    <a name="elig-territori"></a>**_eligible Territory_** has the same meaning as in the _Telecommunications Act 1997_.
+ <dl compact="">
 
-                    <a name="number"></a>**_number_** has the same meaning as in Division 2 of Part 22 of the _Telecommunications Act 1997_.
+		If a number is allocated to a carriage service provider in accordance with an
 
-                    <a name="number-plan"></a>**_numbering plan_** has the same meaning as in the _Telecommunications Act 1997_.
+allocation system, charge is imposed on the allocation of the number to the
 
-                    <a name="standard-telephon-servic"></a>**_standard telephone service_** has the same meaning as in the _Telecommunications Act 1997_.
+provider.
 
-                    <a name="surrend"></a>**_surrendered_**, in relation to a number, means surrendered in accordance with the numbering plan.
+ </dl>
 
-                    <a name="transfer"></a>**_transferred_** has the meaning given by section 5A.
+**
 
-                    <a name="withdrawn"></a>**_withdrawn_**, in relation to a number, means withdrawn in accordance with the numbering plan.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 8  By whom charge payable 
+**
 
-##### <a id="5A"></a>5A  Meaning of _transferred_
+ <dl compact="">
 
-             (1)  A number is **_transferred_** between 2 carriage service providers when the number is ported from one of the providers to the other provider.
+		Charge imposed on the allocation of a number to a carriage service provider
 
-             (2)  Two carriage service providers may enter into a binding written agreement that provides that a number is **_transferred_** from one of them to the other. The carriage service providers must jointly give the ACMA written notice of the transfer. The transfer takes effect on the later of the following:
+is payable by the provider.
 
-                     (a)  the day on which the notice is given to the ACMA;
+ </dl>
 
-                     (b)  another day specified in the notice.
+**
 
-             (3)  A number is transferred at the time worked out under subsection (1), and not at the time worked out under subsection (2), if the number is ported from one carriage service provider to another when:
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 9  Amount of charge 
+**
 
-                     (a)  an agreement described in subsection (2) and relating to the number is in force; or
+ <dl compact="">
 
-                     (b)  a notice relating to the number has been given as described in that subsection.
+		The amount of charge imposed on the allocation of a number is equal to the
 
-## Part 2—Allocation charges
+amount that is the eligible amount in relation to the allocation of the number
 
-### Division 1—Allocation in accordance with an allocation system
+for the purposes of section 463 of the _Telecommunications Act 1997_.
 
-##### <a id="6"></a>6  Definition of _charge_
+ </dl>
 
-                   In this Division:
+<center>**
 
-                    <a name="charg"></a>**_charge_** means charge imposed by this Division.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<division>Division 2&#151;Allocation otherwise than in accordance with an allocation system </division> 
+**</center>
 
-##### <a id="7"></a>7  Imposition of charge
+**
 
-                   If a number is allocated to a carriage service provider in accordance with an allocation system, charge is imposed on the allocation of the number to the provider.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 10  Definition of _charge_ 
+**
 
-##### <a id="8"></a>8  By whom charge payable
+ <dl compact="">
 
-                   Charge imposed on the allocation of a number to a carriage service provider is payable by the provider.
+		In this Division:
 
-##### <a id="9"></a>9  Amount of charge
+ </dl>
 
-                   The amount of charge imposed on the allocation of a number is equal to the amount that is the eligible amount in relation to the allocation of the number for the purposes of section 463 of the _Telecommunications Act 1997_.
+<def><dl compact=""><dl compact="">
 
-### Division 2—Allocation otherwise than in accordance with an allocation system
+_charge_ means charge imposed by this Division.
 
-##### <a id="10"></a>10  Definition of _charge_
+ </dl></dl>
 
-                   In this Division:
+<center>Back to Top</center>
 
-                    <a name="charg"></a>**_charge_** means charge imposed by this Division.
+**
 
-##### <a id="11"></a>11  Imposition of charge
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 11  Imposition of charge 
+**
 
-                   If a number is allocated to a carriage service provider otherwise than in accordance with an allocation system, charge is imposed on the allocation of the number to the provider.
+ <dl compact="">
 
-##### <a id="12"></a>12  By whom charge payable
+		If a number is allocated to a carriage service provider otherwise than in
 
-                   Charge imposed on the allocation of a number to a carriage service provider is payable by the provider.
+accordance with an allocation system, charge is imposed on the allocation of
 
-##### <a id="13"></a>13  Amount of charge
+the number to the provider.
 
-             (1)  The amount of charge imposed on the allocation of a number is the amount ascertained in accordance with a written determination made by the ACMA.
+ </dl>
 
-             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+**
 
-##### <a id="14"></a>14  Maximum charge
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 12  By whom charge payable 
+**
 
-  The amount of charge imposed on the allocation of a number must not exceed $100,000.
+ <dl compact="">
 
-##### <a id="15"></a>15  Exemption from charge
+		Charge imposed on the allocation of a number to a carriage service provider
 
-             (1)  A number is exempt from charge if the number is a geographic number allocated to a carriage service provider for the purposes of providing a standard telephone service to a customer.
+is payable by the provider.
 
-             (2)  The ACMA may, by written determination, exempt a specified number from charge.
+ </dl>
 
-Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
+**
 
-             (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 13  Amount of charge 
+**
 
-## Part 3—Annual charge
+ <dl compact="">
 
-##### <a id="16"></a>16  Definition of _charge_
+<dt>(1)</dt><dd>The amount of charge imposed on the allocation of a number is the amount
 
-                   In this Part:
+ascertained in accordance with a written determination made by the ACA.</dd> <dt>(2)</dt><dd>A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> </dl>
 
-                    <a name="charg"></a>**_charge_** means charge imposed by this Part.
+**
 
-##### <a id="17"></a>17  Holder of a number
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 14  Maximum charge 
+**
 
-             (1)  For the purposes of this Part, if a number is allocated or transferred to a carriage service provider at a particular time, the provider holds the number throughout the period:
+ <dl compact="">
 
-                     (a)  beginning at that time; and
+	The amount of charge imposed on the allocation of a number must not
 
-                     (b)  ending when:
+exceed $100,000.
 
-                              (i)  the number is subsequently withdrawn; or
+ </dl>
 
-                             (ii)  the number is subsequently surrendered; or
+**
 
-                            (iii)  the number is subsequently transferred from the provider to another carriage service provider;
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 15  Exemption from charge 
+**
 
-                            whichever first happens.
+ <dl compact="">
 
-             (2)  For the purposes of this section, the renumbering of a number in accordance with the numbering plan does not affect the continuity of the holding of the number.
+<dt>(1)</dt><dd>A number is exempt from charge if the number is a geographic number
 
-##### <a id="18"></a>18  Imposition of charge
+allocated to a carriage service provider for the purposes of providing a
 
-             (1)  If a carriage service provider holds an allocated number at the beginning of a day determined under subsection (2), charge is imposed on the number.
+standard telephone service to a customer.</dd> <dt>(2)</dt><dd>The ACA may, by written determination, exempt a specified number from charge. </dd> </dl>
 
-             (2)  Before 16 February in each year, the ACMA must determine in writing a day in April in that year.
+<dl compact=""><dl compact="">
 
-             (3)  The ACMA must publish the determination in the _Gazette_ before the day determined.
+Note:	For specification by class, see subsection 46(2) of the
 
-##### <a id="19"></a>19  By whom charge payable
+_Acts Interpretation Act 1901_.
 
-                   Charge imposed on a number is payable by the carriage service provider who holds the number.
+ </dl></dl>
 
-##### <a id="20"></a>20  Amount of charge
+<dl compact="">
 
-             (1)  The amount of charge imposed on a number held at a particular time is the amount ascertained in accordance with a written determination made by the ACMA.
+<dt>(3)</dt><dd>A determination under subsection (2) is a disallowable instrument for the
 
-             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="21"></a>21  Maximum charge
+</dd> </dl>
 
-                   The amount of charge imposed on a number held at a particular time must not exceed $100,000.
+<center>**
 
-##### <a id="22"></a>22  Exemption from charge
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<part>Part 3&#151;Annual charge </part>
+**</center>
 
-             (1)  A number is exempt from charge if the number is a geographic number allocated to a carriage service provider for the purposes of providing a standard telephone service to a customer.
+**
 
-             (2)  The ACMA may, by written determination, exempt a specified number from charge.
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 16  Definition of _charge_ 
+**
 
-             (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+ <dl compact="">
 
-Note:          For specification by class, see subsection 46(2) of the _Acts Interpretation Act 1901_.
+		In this Part:
 
+ </dl>
 
-# Notes to the _Telecommunications (Numbering Charges) Act 1997_
+<def><dl compact=""><dl compact="">
 
-### Note 1
+_charge_ means charge imposed by this Part.
+
+ </dl></dl>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 17  Holder of a number 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of this Part, if a number is allocated or transferred to
+
+a carriage service provider at a particular time, the provider holds the number
+
+throughout the period:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>beginning at that time; and</dd>
+
+<dt>(b)</dt><dd>ending when:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the number is subsequently withdrawn; or</dd>
+
+<dt>(ii)</dt><dd>the number is subsequently surrendered; or</dd>
+
+<dt>(iii)</dt><dd>the number is subsequently transferred from the provider to another
+
+carriage service provider;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		whichever first happens.
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this section, the renumbering of a number in
+
+accordance with the numbering plan does not affect the continuity of the
+
+holding of the number.
+
+</dd> </dl>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 18  Imposition of charge 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If a carriage service provider holds an allocated number at the beginning
+
+of a day determined under subsection (2), charge is imposed on the number.</dd> <dt>(2)</dt><dd>Before 16 February in each year, the ACA must determine in writing a day in April in that year.</dd> <dt>(3)</dt><dd>The ACA must publish the determination in the _Gazette_ before the day determined. </dd> </dl>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 19  By whom charge payable 
+**
+
+ <dl compact="">
+
+		Charge imposed on a number is payable by the carriage service provider who
+
+holds the number.
+
+ </dl>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 20  Amount of charge 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The amount of charge imposed on a number held at a particular time is the
+
+amount ascertained in accordance with a written determination made by the
+
+ACA.</dd> <dt>(2)</dt><dd>A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 21  Maximum charge 
+**
+
+ <dl compact="">
+
+		The amount of charge imposed on a number held at a particular time must not
+
+exceed $100,000.
+
+ </dl>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 22  Exemption from charge 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A number is exempt from charge if the number is a geographic number
+
+allocated to a carriage service provider for the purposes of providing a
+
+standard telephone service to a customer.</dd> <dt>(2)</dt><dd>The ACA may, by written determination, exempt a specified number from charge.</dd> <dt>(3)</dt><dd>A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For specification by class, see subsection 46(2) of the
+
+_Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+<center>**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<part>Part 4&#151;Transitional </part>
+**</center>
+
+**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997- SECT 23  Exercise of powers by AUSTEL before 1 July 1997&#151;Division 2 of Part 2 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an eligible provision confers, or will confer, a power on the ACA; and</dd>
+
+<dt>(b)</dt><dd>assuming that Part 3 of the _Australian Communications Authority Act 1997_ had commenced at the commencement of this section, section 4 of the
+
+_Acts Interpretation Act 1901_ would have authorised the ACA to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>exercise that power; or</dd>
+
+<dt>(ii)</dt><dd>do a particular thing in relation to the exercise of that power;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		before 1 July 1997.
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Section 4 of the _Acts Interpretation Act 1901_ is taken to authorise
+
+AUSTEL to exercise that power, or do that thing, before 1 July 1997 as if a
+
+reference in that eligible provision to the ACA were a reference to AUSTEL.</dd> <dt>(3)</dt><dd>Anything done by AUSTEL in accordance with this section before 1 July 1997 has effect, on and after 1 July 1997, as if it had been done by the ACA.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_AUSTEL_ means the Australian Telecommunications Authority. _eligible provision_ means a provision of Division 2 of Part 2\.  </dl></dl>
+
+<center>**
+
+###  TELECOMMUNICATIONS (NUMBERING CHARGES) ACT 1997<centreit>Notes to the _Telecommunications (Numbering Charges) Act 1997_ </centreit>
+**</center>
+
+**Note 1**
 
 The _Telecommunications (Numbering Charges) Act 1997_ as shown in this compilation comprises Act No. 51, 1997 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+**Table of Acts**
 
-### Table of Acts
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="14%">
-</colgroup>
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Telecommunications (Numbering Charges) Act 1997</div>
-    </td>
-    <td>
-      <div>51, 1997</div>
-    </td>
-    <td>
-      <div>22 Apr 1997</div>
-    </td>
-    <td>
-      <div>Ss. 6–22: 1 July 1999 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Numbering Charges) Amendment Act 2000</div>
-    </td>
-    <td>
-      <div>51, 2000</div>
-    </td>
-    <td>
-      <div>3 May 2000</div>
-    </td>
-    <td>
-      <div>3 May 2000</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 5)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Numbering Charges) Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>47, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 2</div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
+  </td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
 
-## Table of Amendments
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Telecommunications (Numbering Charges) Act 1997</i></div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 51, 2000; No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 51, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>am. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15</div>
-    </td>
-    <td>
-      <div>am. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 51, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18</div>
-    </td>
-    <td>
-      <div>rs. No. 51, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20</div>
-    </td>
-    <td>
-      <div>am. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 4</div>
-    </td>
-    <td>
-      <div>rep. No. 47, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23</div>
-    </td>
-    <td>
-      <div>rep. No. 47, 2005</div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+  <td colspan="1" align="left">
+    <div>51, 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Apr 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 6-22: 1 July 1999 
+Remainder: Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Telecommunications (Numbering Charges) Amendment Act 2000</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>51, 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>3 May 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>3 May 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item 5)</div>
+
+  </td>
+</tr></table>**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 51, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 51, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 17</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 51, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 18</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 51, 2000</div>
+
+  </td>
+</tr></table>**Table A**
+
+**Application, saving or transitional provisions**
+
+_Telecommunications (Numbering Charges) Amendment Act 2000_(No. 51, 2000)
+
+**Schedule 1** **5  Application** (1)	The amendments of the _Telecommunications (Numbering Charges) Act 1997_ made by this Schedule apply for the purposes of working out charge imposed on a number held on a particular day in 2000, or a later year.
+ (2)	However, if this Act receives the Royal Assent after 15 February 2000, those amendments apply for the purposes of working out charge imposed on a number held on a particular day in the first calendar year that starts after the day on which this Act receives the Royal Assent, or a later year.
+ (3)	To avoid doubt, subsection 5A(2) of the _Telecommunications (Numbering Charges) Act 1997_ applies even if:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the agreement mentioned in that subsection was made before the day on
+
+which this Act received the Royal Assent; or</dd>
+
+<dt>(b)</dt><dd>the notice mentioned in that subsection was given before that day.
+
+</dd>
+
+</dl></dl></dl>
+
+</def>
+
+</def>
+
+</def></def>
 
 
-## Table A
-
-### Application, saving or transitional provisions
-
-_Telecommunications (Numbering Charges) Amendment Act 2000
-(No. 51, 2000)
-_
-
-## Schedule 1
-
-## 5  Application
-
-(1)        The amendments of the _Telecommunications (Numbering Charges) Act 1997_ made by this Schedule apply for the purposes of working out charge imposed on a number held on a particular day in 2000, or a later year.
-
-(2)        However, if this Act receives the Royal Assent after 15 February 2000, those amendments apply for the purposes of working out charge imposed on a number held on a particular day in the first calendar year that starts after the day on which this Act receives the Royal Assent, or a later year.
-
-(3)        To avoid doubt, subsection 5A(2) of the _Telecommunications (Numbering Charges) Act 1997_ applies even if:
-
-                     (a)  the agreement mentioned in that subsection was made before the day on which this Act received the Royal Assent; or
-
-                     (b)  the notice mentioned in that subsection was given before that day.
-
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
-
-_Telecommunications (Numbering Charges) Amendment Act 2005 
-(No. 47, 2005)
-_
-
-## Schedule 2
-
-## 1  Definitions
-
-In this Schedule:
-
-**_Imposition Act_** means the _Telecommunications (Numbering Charges) Act 1997_.
-
-**_transition time_** means the commencement of this Schedule.
-
-## 2  Continued effect of transfer notices
-
-A notice that was given to the ACA before the transition time under subsection 5A(2) of the Imposition Act as then in force has the same effect after the transition time as it would have had if the amendments of that subsection made by Schedule 1 to this Act had not been made.
-
-## 3  Continued effect of amount etc. determinations
-
-A determination made by the ACA under subsection 13(1), 15(2), 18(2), 20(1) or 22(2) of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it had been made by the ACMA under that subsection as amended by Schedule 1 to this Act.
-
-
- 
