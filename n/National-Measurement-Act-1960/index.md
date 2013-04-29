@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00871/Html/6cd82143-aee3-4ca8-88a5-7bb000dd02fa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00817/Html/NatMeas60_WD02_image001.gif)
 
 # National Measurement Act 1960
 
 **Act No. 64 of 1960 as amended**
 
-This compilation was prepared on 28 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 20 December 2010
+ taking into account amendments up to Act No. 142 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -48,9 +48,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Australian standards of measurement
 
-[8AA](#8AA).      Co‑ordinated Universal Time
+[8AA](#8AA).      Co-ordinated Universal Time
 
-[8A](#8A).         Recognized‑value standards of measurement
+[8A](#8A).         Recognized-value standards of measurement
 
 [9](#9).            Verification of State primary standards of measurement
 
@@ -160,7 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Marking packed articles** 
 
-        **Subdivision 2‑A—Required package information**
+        **Subdivision 2-A—Required package information**
 
 [18JA](#18JA).     Package must be marked with required package information—packer
 
@@ -172,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18JE](#18JE).      Package must be marked in prescribed manner
 
-        **Subdivision 2‑B—Prohibited expressions**
+        **Subdivision 2-B—Prohibited expressions**
 
 [18JF](#18JF).      Using prohibited expressions—packer
 
@@ -182,21 +182,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Average Quantity System for packed articles** 
 
-        **Subdivision 3‑A—Preliminary**
+        **Subdivision 3-A—Preliminary**
 
 [18JI](#18JI).       Overview of Division
 
-        **Subdivision 3‑B—AQS marks**
+        **Subdivision 3-B—AQS marks**
 
 [18JJ](#18JJ).       What is an AQS mark?
 
-[18JK](#18JK).      AQS mark must be used in accordance with regulations
+[18JK](#18JK).     AQS mark must be used in accordance with regulations
 
 [18JL](#18JL).      Using misleading marks
 
-        **Subdivision 3‑C—Shortfall**
+        **Subdivision 3-C—Shortfall**
 
-[18JM](#18JM).     Shortfall offence—packer
+[18JM](#18JM).    Shortfall offence—packer
 
 [18JN](#18JN).     Shortfall offence—importer
 
@@ -206,11 +206,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Packed articles not marked with AQS mark** 
 
-        **Subdivision 4‑A—Overview of Division**
+        **Subdivision 4-A—Overview of Division**
 
 [18JQ](#18JQ).     Overview
 
-        **Subdivision 4‑B—Shortfall offences**
+        **Subdivision 4-B—Shortfall offences**
 
 [18JR](#18JR).      When is there a shortfall in the measurement of a packed article?
 
@@ -220,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18JU](#18JU).     Shortfall offence—possession, offer or exposure for sale
 
-[18JV](#18JV).     Shortfall offence—seller
+[18JV](#18JV).      Shortfall offence—seller
 
     **Division 5—Permits**
 
@@ -228,7 +228,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18JX](#18JX).     Permits for certain packed articles
 
-[18JY](#18JY).     Register of permits
+[18JY](#18JY).      Register of permits
 
 [18JZ](#18JZ).      Evidentiary certificate
 
@@ -238,9 +238,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18KA](#18KA).    Measurement must be open to scrutiny if purchaser present
 
-[18KB](#18KB).     Purchaser must receive invoice stating measurement if not present at sale
+[18KB](#18KB).    Purchaser must receive invoice stating measurement if not present at sale
 
-[18KC](#18KC).     Articles sold by measurement—price of packaging
+[18KC](#18KC).    Articles sold by measurement—price of packaging
 
 [18KD](#18KD).    Shortfall offence—sale
 
@@ -300,9 +300,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18MA](#18MA).   Appointment of trade measurement inspectors
 
-[18MB](#18MB).    Identity card
+[18MB](#18MB).   Identity card
 
-[18MC](#18MC).    Evidentiary certificate—appointment and class of trade measurement inspector
+[18MC](#18MC).   Evidentiary certificate—appointment and class of trade measurement inspector
 
     **Division 3—Powers of trade measurement inspectors**
 
@@ -318,13 +318,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18MI](#18MI).     English translation of book, record or document requested by a trade measurement inspector
 
-[18MJ](#18MJ).     Power to give directions in relation to re‑verification
+[18MJ](#18MJ).    Power to give directions in relation to re-verification
 
-[18MK](#18MK).    Power to verify measuring instruments on request
+[18MK](#18MK).   Power to verify measuring instruments on request
 
 [18ML](#18ML).    Evidentiary certificate—examination and calibration under section 18MK
 
-[18MM](#18MM).   Trade measurement inspector must obliterate verification mark
+[18MM](#18MM).  Trade measurement inspector must obliterate verification mark
 
     **Division 4—Obligations of trade measurement inspectors**
 
@@ -336,11 +336,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18MQ](#18MQ).   Announcement on entry or inspection
 
-[18MR](#18MR).    Compensation for damage to electronic equipment
+[18MR](#18MR).   Compensation for damage to electronic equipment
 
 [18MS](#18MS).    Copies of seized things to be provided
 
-[18MT](#18MT).    Receipts for things seized
+[18MT](#18MT).   Receipts for things seized
 
 [18MU](#18MU).   Retention of seized things
 
@@ -348,7 +348,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—Controller’s rights and responsibilities**
 
-[18MW](#18MW).   Controller entitled to be present during search
+[18MW](#18MW).  Controller entitled to be present during search
 
 [18MX](#18MX).   Controller must provide trade measurement inspector with facilities and assistance
 
@@ -356,15 +356,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18MY](#18MY).   Overview
 
-[18MZ](#18MZ).    Monitoring warrants
+[18MZ](#18MZ).   Monitoring warrants
 
-[18MZA](#18MZA). Warrants relating to the collection of evidential material
+18MZA Warrants relating to the collection of evidential material
 
 [18MZB](#18MZB). Urgent warrant for the collection of evidential material
 
 [18MZC](#18MZC). Powers conferred on magistrates in their personal capacity
 
-[18MZD](#18MZD). Immunity of magistrates
+18MZD Immunity of magistrates
 
 **Part X—Servicing licensees**
 
@@ -442,7 +442,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18PR](#18PR).     Order preventing contract with certain person to operate public weighbridge
 
-[18PS](#18PS).     Order preventing employee of a public weighbridge contractor from operating public weighbridge
+[18PS](#18PS).      Order preventing employee of a public weighbridge contractor from operating public weighbridge
 
     **Division 2—Offences in relation to public weighbridges**
 
@@ -558,11 +558,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aq-mark"></a>**_AQS mark_** has the meaning given by section 18JJ.
 
-                    <a name="aq-sampl-procur"></a>**_AQS sampling procedures_** are sampling procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 3‑C of Division 3 of Part VI.
+                    <a name="aq-sampl-procur"></a>**_AQS sampling procedures_** are sampling procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 3-C of Division 3 of Part VI.
 
-                    <a name="aq-test-procur"></a>**_AQS test procedures_** are test procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 3‑C of Division 3 of Part VI.
+                    <a name="aq-test-procur"></a>**_AQS test procedures_** are test procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 3-C of Division 3 of Part VI.
 
-                    <a name="aq-threshold"></a>**_AQS threshold_** is the threshold prescribed for the purposes of Subdivision 3‑C of Division 3 of Part VI.
+                    <a name="aq-threshold"></a>**_AQS threshold_** is the threshold prescribed for the purposes of Subdivision 3-C of Division 3 of Part VI.
 
                     <a name="articl"></a>**_article_** includes a substance.
 
@@ -580,7 +580,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australian-secondari-standard-measur"></a>**_Australian secondary standard of measurement_** means a standard of measurement that is maintained, or caused to be maintained, by the Chief Metrologist as an Australian secondary standard of measurement for the purposes of subsection 8(2) and that has been verified, in accordance with the regulations, by means of, by reference to, by comparison with or by derivation from an Australian primary standard of measurement.
 
-                    <a name="automated-pack-machin"></a>**_automated packing machine_** means a machine that follows a pre‑determined program for automatically measuring articles in pre‑determined quantities as part of the packing process.
+                    <a name="automated-pack-machin"></a>**_automated packing machine_** means a machine that follows a pre-determined program for automatically measuring articles in pre-determined quantities as part of the packing process.
 
                     <a name="busi-premis"></a>**_business premises_** means premises or a part of premises:
 
@@ -652,7 +652,7 @@ but does not include premises or a part of premises occupied as a residence or f
 
                      (k)  the _Trade Measurement Act 1999_ of Tasmania;
 
-                      (l)  the _Trade Measurement (Tasmania) Administration Act 1999_ of Tasmania;
+                      (l)  the _Trade Measurement (__Tasmania__) Administration Act 1999_ of Tasmania;
 
                     (m)  the _Trade Measurement Act 1991_ of the Australian Capital Territory;
 
@@ -674,7 +674,7 @@ and includes the regulations made under those Acts.
 
                     <a name="inspector-mark"></a>**_inspector’s mark_** means the mark allotted to a trade measurement inspector by the Secretary under subsection 18MA(5).
 
-                    <a name="interest-land"></a>**_interest in land_** includes an interest by way of stratum title (by whatever name known), an interest by way of strata title (by whatever name known) and a time‑sharing interest in land (by whatever name known).
+                    <a name="interest-land"></a>**_interest in land_** includes an interest by way of stratum title (by whatever name known), an interest by way of strata title (by whatever name known) and a time-sharing interest in land (by whatever name known).
 
                     <a name="made-avail-public-weighbridg"></a>**_made available as a public weighbridge_**has the meaning given by section 3A.
 
@@ -706,15 +706,15 @@ and includes the regulations made under those Acts.
 
                      (b)  units decimally related to those units and for the time being so approved.
 
-                    <a name="nation-group-test-procur"></a>**_national group test procedures_** are test procedures with respect to groups of packages determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4‑B of Division 4 of Part VI.
+                    <a name="nation-group-test-procur"></a>**_national group test procedures_** are test procedures with respect to groups of packages determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
                     <a name="nation-instrum-test-procur"></a>**_national instrument test procedures_** are procedures for testing measuring instruments determined by the Chief Metrologist under subsection 18GG(2).
 
-                    <a name="nation-sampl-procur"></a>**_national sampling procedures_** are sampling procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4‑B of Division 4 of Part VI.
+                    <a name="nation-sampl-procur"></a>**_national sampling procedures_** are sampling procedures determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
-                    <a name="nation-singl-articl-test-procur"></a>**_national single article test procedures_** are test procedures with respect to single packages determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4‑B of Division 4 of Part VI.
+                    <a name="nation-singl-articl-test-procur"></a>**_national single article test procedures_** are test procedures with respect to single packages determined by the Chief Metrologist under section 19Q for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
-                    <a name="nation-test-threshold"></a>**_national test threshold_** is the threshold prescribed for the purposes of Subdivision 4‑B of Division 4 of Part VI.
+                    <a name="nation-test-threshold"></a>**_national test threshold_** is the threshold prescribed for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
                     <a name=""></a><a name="net-measur"></a>**_net measurement_**, in relation to an article, means the measurement of the article disregarding any packaging or other thing that is not part of the article.
 
@@ -742,11 +742,11 @@ and includes the regulations made under those Acts.
 
                     <a name="public-weighbridg-license"></a>**_public weighbridge licensee_** means a person to whom a licence is granted under section 18PB.
 
-                    <a name="recogn-valu-standard-measur"></a>**_recognized‑value standard of measurement_** means a standard of measurement that the Chief Metrologist has, under section 8A, determined shall be a recognized‑value standard of measurement.
+                    <a name="recogn-valu-standard-measur"></a>**_recognized-value standard of measurement_** means a standard of measurement that the Chief Metrologist has, under section 8A, determined shall be a recognized-value standard of measurement.
 
                     <a name="refer-materi"></a>**_reference material_** means a material whose properties are used for the calibration of measuring instruments, the assessment of a measuring method or for assigning values to materials.
 
-                    <a name="refer-standard-measur"></a>**_reference standard of measurement_** means a standard of measurement (other than an Australian primary standard of measurement, an Australian secondary standard of measurement, a recognized‑value standard of measurement or a State primary standard of measurement) that has been verified in accordance with the regulations and for which the period for which a certificate of verification is given under the regulations has not expired.
+                    <a name="refer-standard-measur"></a>**_reference standard of measurement_** means a standard of measurement (other than an Australian primary standard of measurement, an Australian secondary standard of measurement, a recognized-value standard of measurement or a State primary standard of measurement) that has been verified in accordance with the regulations and for which the period for which a certificate of verification is given under the regulations has not expired.
 
                     <a name="residenti-premis"></a>**_residential premises_** means premises, or a part of premises, that is occupied as a residence or for residential accommodation.
 
@@ -776,7 +776,7 @@ and includes the regulations made under those Acts.
 
                      (b)  a formula designed or intended to define the magnitude of a physical quantity.
 
-                    <a name="state-territori-offic"></a>**_State or Territory officer_** means a person who, whether on a full‑time basis or a part‑time basis and whether in a permanent capacity or otherwise:
+                    <a name="state-territori-offic"></a>**_State or Territory officer_** means a person who, whether on a full-time basis or a part-time basis and whether in a permanent capacity or otherwise:
 
                      (a)  is in the service or employment of a State or Territory or an authority of a State or Territory; or
 
@@ -882,7 +882,7 @@ Note:          Most of the definitions dealing with utility me
 
                      (b)  to provide for the uniform use of those uniform units and standards of measurement throughout Australia; and
 
-                     (c)  to co‑ordinate the operation of the national system of measurement; and
+                     (c)  to co-ordinate the operation of the national system of measurement; and
 
                      (d)  to bring about the use of the metric system of measurement in Australia as the sole system of measurement of physical quantities; and
 
@@ -936,7 +936,7 @@ Exception—this Act does not apply to reverification
 
 ##### <a id="5"></a>5  Act to bind the Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island and any authority constituted by or under a law of the Commonwealth or of a State or Territory.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island and any authority constituted by or under a law of the Commonwealth or of a State or Territory.
 
 ##### <a id="6"></a>6  Extension of Act to Territories
 
@@ -976,11 +976,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The Chief Metrologist shall maintain, or cause to be maintained, such standards of measurement (not being Australian primary standards of measurement) as the Chief Metrologist considers desirable to maintain as Australian secondary standards of measurement in order to provide additional means by which measurements of physical quantities for which there are Australian legal units of measurement may be made in terms of those units.
 
-##### <a id="8AA"></a>8AA  Co‑ordinated Universal Time
+##### <a id="8AA"></a>8AA  Co-ordinated Universal Time
 
-                   The Chief Metrologist is to maintain, or cause to be maintained, Co‑ordinated Universal Time (UTC) as determined by the International Bureau of Weights and Measures.
+                   The Chief Metrologist is to maintain, or cause to be maintained, Co-ordinated Universal Time (UTC) as determined by the International Bureau of Weights and Measures.
 
-##### <a id="8A"></a>8A  Recognized‑value standards of measurement
+##### <a id="8A"></a>8A  Recognized-value standards of measurement
 
              (1)  The Chief Metrologist may, by legislative instrument, determine that:
 
@@ -988,11 +988,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  magnitudes of physical quantities as ascertained in accordance with a formula set out in the determination;
 
-shall be recognized‑value standards of measurement.
+shall be recognized-value standards of measurement.
 
              (2)  The Chief Metrologist may revoke or vary any such determination.
 
-             (4)  A recognized‑value standard of measurement is not subject to verification.
+             (4)  A recognized-value standard of measurement is not subject to verification.
 
 ##### <a id="9"></a>9  Verification of State primary standards of measurement
 
@@ -1018,7 +1018,7 @@ shall be recognized‑value standards of measurement.
 
                      (c)  an appropriate State primary standard of measurement;
 
-                     (d)  an appropriate recognized‑value standard of measurement;
+                     (d)  an appropriate recognized-value standard of measurement;
 
                      (e)  an appropriate reference standard of measurement;
 
@@ -1528,11 +1528,11 @@ offences for persons who:</li>
 
                (a)     use a verification mark when not permitted to do so (see section 18GM); and
 
-              (b)     sell or supply measuring instruments that have been marked with a verification mark by a person not permitted to do so (see section 18GN); and
+               (b)     sell or supply measuring instruments that have been marked with a verification mark by a person not permitted to do so (see section 18GN); and
 
                (c)     mark measuring instruments in a misleading way (see section 18GO); and
 
-              (d)     possess false verification marks (see section 18GP); and
+               (d)     possess false verification marks (see section 18GP); and
 
                (e)     fail to obliterate verification marks if a measuring instrument’s metrological performance is affected by repairs (see section 18GQ).
 
@@ -1548,11 +1548,11 @@ offences for persons who:</li>
 
                              (ii)  if the measuring instrument is treated as one of a batch under the national instrument test procedures—a verifier is satisfied that measuring instruments of that batch comply with the requirements for verification set out in section 18GK when tested in accordance with those procedures and the measuring instrument is marked with a verification mark; and
 
-                     (b)  if the instrument is of a class for which a re‑verification period is prescribed—the period since it was last verified or re‑verified does not exceed that re‑verification period.
+                     (b)  if the instrument is of a class for which a re-verification period is prescribed—the period since it was last verified or re-verified does not exceed that re-verification period.
 
              (2)  The Chief Metrologist may determine, in writing, the national instrument test procedures. The determination is not a legislative instrument.
 
-             (3)  A re‑verification period must not be prescribed for utility meters.
+             (3)  A re-verification period must not be prescribed for utility meters.
 
              (4)  The regulations may:
 
@@ -1602,7 +1602,7 @@ Note:          Utility meter verifiers are appointed under Par
 
 ##### <a id="18GK"></a>18GK  Requirements for verification
 
-                   The requirements for verification of a measuring instrument are:
+                   The requirements for verification of a measuring instrument are:
 
                      (a)  the measuring instrument must operate within the appropriate limits of error that are permitted under the regulations; and
 
@@ -1820,11 +1820,11 @@ of measurement in trade generally.</li>
 
                (a)     articles that must be sold by measurement (sections 18HB and 18HC); and
 
-              (b)     the units of measurement that must be used for certain transactions (section 18HD); and
+               (b)     the units of measurement that must be used for certain transactions (section 18HD); and
 
                (c)     the scale intervals of measuring instruments used for certain articles (section 18HE); and
 
-              (d)     unreliable methods of measurement (section 18HF); and
+               (d)     unreliable methods of measurement (section 18HF); and
 
                (e)     the use of certain measuring instruments (section 18HG); and
 
@@ -2130,7 +2130,7 @@ otherwise breach Division 2.</li>
 
 ### Division 2—Marking packed articles
 
-#### Subdivision 2‑A—Required package information
+#### Subdivision 2-A—Required package information
 
 ##### <a id="18JA"></a>18JA  Package must be marked with required package information—packer
 
@@ -2394,7 +2394,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (4), see subsection 13.3(3) of the _Criminal Code_.
 
-#### Subdivision 2‑B—Prohibited expressions
+#### Subdivision 2-B—Prohibited expressions
 
 ##### <a id="18JF"></a>18JF  Using prohibited expressions—packer
 
@@ -2514,7 +2514,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ### Division 3—Average Quantity System for packed articles
 
-#### Subdivision 3‑A—Preliminary
+#### Subdivision 3-A—Preliminary
 
 ##### <a id="18JI"></a>18JI  Overview of Division
 
@@ -2546,17 +2546,17 @@ measurement.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(4)   This Division contains
 
-offences to deal with cases where this is not so (see Subdivision 3‑C).</li>
+offences to deal with cases where this is not so (see Subdivision 3-C).</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(5)   This Division also contains
 
 offences to deal with cases where misleading marks are used, or an AQS mark is
 
-placed in the wrong place (see Subdivision 3‑B).</li>
+placed in the wrong place (see Subdivision 3-B).</li>
 
 * * *
 
-#### Subdivision 3‑B—AQS marks
+#### Subdivision 3-B—AQS marks
 
 ##### <a id="18JJ"></a>18JJ  What is an AQS mark?
 
@@ -2664,7 +2664,7 @@ Strict liability offence—seller
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-#### Subdivision 3‑C—Shortfall
+#### Subdivision 3-C—Shortfall
 
 ##### <a id="18JM"></a>18JM  Shortfall offence—packer
 
@@ -2918,7 +2918,7 @@ Note:          For absolute liability, see section 6.2 of th
 
 ### Division 4—Packed articles not marked with AQS mark
 
-#### Subdivision 4‑A—Overview of Division
+#### Subdivision 4-A—Overview of Division
 
 ##### <a id="18JQ"></a>18JQ  Overview
 
@@ -2948,7 +2948,7 @@ there is a shortfall.</li>
 
 * * *
 
-#### Subdivision 4‑B—Shortfall offences
+#### Subdivision 4-B—Shortfall offences
 
 ##### <a id="18JR"></a>18JR  When is there a shortfall in the measurement of a packed article?
 
@@ -3296,7 +3296,7 @@ rectification of the breach would impose unnecessary costs on business.</li>
 
 which permits have been issued must give a copy of the permit to a purchaser
 
-who intends to on‑sell the article.</li>
+who intends to on-sell the article.</li>
 
 * * *
 
@@ -3346,7 +3346,7 @@ who intends to on‑sell the article.</li>
 
                      (b)  the purchaser of the packed article intends to sell the packed article to another person;
 
-the first‑mentioned person must give a copy of the permit and any notices under subsection (7) or (8) received by that person  to the purchaser.
+the first-mentioned person must give a copy of the permit and any notices under subsection (7) or (8) received by that person  to the purchaser.
 
                     Penalty for a contravention of this subsection: 50 penalty units.
 
@@ -3606,7 +3606,7 @@ provisions as an alternative to the institution of proceedings in a court.</li>
 
 Evidentiary certificates in relation to AQS testing
 
-             (1)  Subject to section 18LB, in any offence proceedings under Subdivision 3‑C of Division 3 of Part VI, a certificate, signed by a trade measurement inspector, stating that:
+             (1)  Subject to section 18LB, in any offence proceedings under Subdivision 3-C of Division 3 of Part VI, a certificate, signed by a trade measurement inspector, stating that:
 
                      (a)  a particular package is one of a group of packages of the same kind that were on the same premises or in the same vehicle at a specified time; and
 
@@ -3618,7 +3618,7 @@ is admissible as prima facie evidence of the matters stated in the certificate.
 
 Evidentiary certificates in relation to national group test procedures
 
-             (2)  Subject to section 18LB, in any offence proceedings under Subdivision 4‑B of Division 4 of Part VI, a certificate, signed by a trade measurement inspector, stating that:
+             (2)  Subject to section 18LB, in any offence proceedings under Subdivision 4-B of Division 4 of Part VI, a certificate, signed by a trade measurement inspector, stating that:
 
                      (a)  a particular package is one of a group of packages of the same kind that were on the same premises or in the same vehicle at a specified time; and
 
@@ -3630,7 +3630,7 @@ is admissible as prima facie evidence of the matters stated in the certificate.
 
 Evidentiary certificates in relation to national single article test procedures
 
-             (3)  Subject to section 18LB, in any offence proceedings under Subdivision 4‑B of Division 4 of Part VI, a certificate, signed by a trade measurement inspector, stating that a package failed testing in accordance with the national single article test procedures is admissible as prima facie evidence of the matters stated in the certificate.
+             (3)  Subject to section 18LB, in any offence proceedings under Subdivision 4-B of Division 4 of Part VI, a certificate, signed by a trade measurement inspector, stating that a package failed testing in accordance with the national single article test procedures is admissible as prima facie evidence of the matters stated in the certificate.
 
              (4)  For the purposes of this section, a document purporting to be a certificate referred to in subsection (1), (2) or (3) is, unless the contrary is established, to be taken to be such a certificate and to have been duly given.
 
@@ -3640,7 +3640,7 @@ Evidentiary certificates in relation to national single article test procedures
 
 ##### <a id="18LC"></a>18LC  Person giving certificate may be called to give evidence
 
-             (1)  Subject to subsection (2), if, under section 18LA, a certificate is admitted in evidence in offence proceedings under Part VI, the person charged with the offence may require the person who gave the certificate to be called as a witness for the prosecution and cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (1)  Subject to subsection (2), if, under section 18LA, a certificate is admitted in evidence in offence proceedings under Part VI, the person charged with the offence may require the person who gave the certificate to be called as a witness for the prosecution and cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (2)  Subsection (1) does not entitle the person charged to require the person who gave a certificate to be called as a witness for the prosecution unless:
 
@@ -4266,9 +4266,9 @@ Note:          For strict liability, see section 6.1 of the 
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (5), see subsection 13.3(3) of the _Criminal Code_.
 
-##### <a id="18MJ"></a>18MJ  Power to give directions in relation to re‑verification
+##### <a id="18MJ"></a>18MJ  Power to give directions in relation to re-verification
 
-             (1)  A trade measurement inspector may give reasonable directions to a person in possession of a measuring instrument for the purposes of facilitating re‑verification of the instrument.
+             (1)  A trade measurement inspector may give reasonable directions to a person in possession of a measuring instrument for the purposes of facilitating re-verification of the instrument.
 
              (2)  The directions may include (but are not limited to) directions as to the time and place at which the instrument is to be made available to an inspector.
 
@@ -4284,9 +4284,9 @@ Note:          The person will commit an offence under Divisio
 
                      (b)  at the request of the person in possession of the measuring instrument;
 
-even if the measuring instrument is not required to be verified or re‑verified under this Act.
+even if the measuring instrument is not required to be verified or re-verified under this Act.
 
-             (2)  A trade measurement inspector may charge the prescribed fee for verifying or re‑verifying a measuring instrument under this section.
+             (2)  A trade measurement inspector may charge the prescribed fee for verifying or re-verifying a measuring instrument under this section.
 
 ##### <a id="18ML"></a>18ML  Evidentiary certificate—examination and calibration under section 18MK
 
@@ -5548,11 +5548,11 @@ action that may be taken are:</li>
 
                (a)     reprimanding the licensee; or
 
-              (b)     imposing a condition on the licence; or
+               (b)     imposing a condition on the licence; or
 
                (c)     suspending the licence; or
 
-              (d)     cancelling the licence; or
+               (d)     cancelling the licence; or
 
                (e)     accepting an enforceable undertaking from the licensee; or
 
@@ -5852,7 +5852,7 @@ by the Chief Metrologist, a delegate of the Chief Metrologist or another person 
 
              (4)  Without limiting the matters that may be provided for in regulations made for the purposes of subsection (1), the regulations may provide that the granting of approval of a pattern of a measuring instrument as a pattern suitable for use for trade may be made subject to the retention of the measuring instrument or a part of the measuring instrument by the Chief Metrologist.
 
-             (7)  Before the Governor‑General makes a regulation for the purposes of subsection (1), the Minister must also either:
+             (7)  Before the Governor-General makes a regulation for the purposes of subsection (1), the Minister must also either:
 
                      (a)  be satisfied that the regulation is not inconsistent with a specification published by the International Organisation of Legal Metrology regarding the examination and approval of patterns of measuring instrument; or
 
@@ -6124,25 +6124,25 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                    A document purporting to be signed by the Secretary or a trade measurement inspector is taken to be signed by that person unless the contrary is established.
 
-##### <a id="19Q"></a>19Q  Chief Metrologist may determine matters
+##### <a id="19Q"></a>19Q  Chief Metrologist may determine matters
 
              (1)  The Chief Metrologist may determine, in writing:
 
-                     (a)  AQS sampling procedures for the purposes of Subdivision 3‑C of Division 3 of Part VI; and
+                     (a)  AQS sampling procedures for the purposes of Subdivision 3-C of Division 3 of Part VI; and
 
-                     (b)  AQS test procedures for the purposes of Subdivision 3‑C of Division 3 of Part VI; and
+                     (b)  AQS test procedures for the purposes of Subdivision 3-C of Division 3 of Part VI; and
 
-                     (c)  national group test procedures for the purposes of Subdivision 4‑B of Division 4 of Part VI; and
+                     (c)  national group test procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
 
-                     (d)  national sampling procedures for the purposes of Subdivision 4‑B of Division 4 of Part VI; and
+                     (d)  national sampling procedures for the purposes of Subdivision 4-B of Division 4 of Part VI; and
 
-                     (e)  national single article test procedures for the purposes of Subdivision 4‑B of Division 4 of Part VI.
+                     (e)  national single article test procedures for the purposes of Subdivision 4-B of Division 4 of Part VI.
 
              (2)  A determination under subsection (1) is not a legislative instrument.
 
 ##### <a id="20"></a>20  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
 
                     (aa)  providing for the verification of standards of measurement; and
 
@@ -6170,19 +6170,19 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                       (j)  providing for the verification of measuring instruments used for trade; and
 
-                    (ja)  providing for the positioning of, and access to, measuring instruments in order to facilitate their use by a person for trade, their examination by a verifier and their verification; and
+                     (ja)  providing for the positioning of, and access to, measuring instruments in order to facilitate their use by a person for trade, their examination by a verifier and their verification; and
 
-                    (jb)  providing for the sealing of a measuring instrument that has been verified; and
+                     (jb)  providing for the sealing of a measuring instrument that has been verified; and
 
-                    (jc)  providing for quality assurance for measuring instruments used by persons for trade, and the provision of labour, facilities and equipment for that purpose; and
+                     (jc)  providing for quality assurance for measuring instruments used by persons for trade, and the provision of labour, facilities and equipment for that purpose; and
 
-                    (jd)  providing for matters applicable to weighbridges, whether or not public weighbridges, including their installation, functioning, operation, examination, testing, suitability and use; and
+                     (jd)  providing for matters applicable to weighbridges, whether or not public weighbridges, including their installation, functioning, operation, examination, testing, suitability and use; and
 
-                    (je)  providing for the functions of operators of public weighbridges; and
+                     (je)  providing for the functions of operators of public weighbridges; and
 
                      (jf)  regulating the advertising of articles (including articles packed in advance ready for sale) in so far as the advertising relates to measurement; and
 
-                    (jg)  providing for the keeping of records relating to measuring instruments and articles or utilities sold, or to be sold, by measurement; and
+                     (jg)  providing for the keeping of records relating to measuring instruments and articles or utilities sold, or to be sold, by measurement; and
 
                      (k)  prescribing a fee for applications; and
 
@@ -6200,19 +6200,19 @@ Note 2:       The _Privacy Act 1988_ also imposes limitations on the
 
                      (n)  prescribing appropriate limits of error for a measuring instrument for the purposes of the definition of **_measuring instrument gives an inaccurate measurement_**; and
 
-                     (o)  prescribing the re‑verification period for a class of measuring instrument; and
+                     (o)  prescribing the re-verification period for a class of measuring instrument; and
 
                      (p)  prescribing AQS marks; and
 
-                     (q)  prescribing AQS thresholds for the purposes of Subdivision 3‑C of Division 3 of Part VI; and
+                     (q)  prescribing AQS thresholds for the purposes of Subdivision 3-C of Division 3 of Part VI; and
 
                       (t)  prescribing the circumstances in which a group of packages is taken to have failed testing in accordance with AQS test procedures; and
 
-                     (x)  prescribing national test thresholds for the purposes of Subdivision 4‑B of Division 4 of Part VI; and
+                     (x)  prescribing national test thresholds for the purposes of Subdivision 4-B of Division 4 of Part VI; and
 
                      (y)  prescribing the circumstances in which a group of packages is taken to have failed testing in accordance with national group test procedures; and
 
-                     (z)  prescribing the circumstances in which a package is taken to have failed testing in accordance with national single article test procedures; and
+                      (z)  prescribing the circumstances in which a package is taken to have failed testing in accordance with national single article test procedures; and
 
                     (za)  provide for the issue of infringement notices that specify penalties of no more than 5 penalty units for specified offences against the regulations.
 
@@ -6235,10 +6235,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="17%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -6700,34 +6700,17 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 33) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 822–824) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsections 2(1) and (30) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                (30)   The amendment of subsection 3(3) of the _National Measurement Act 1960_ made by this Act shall be deemed to have come into operation immediately after the commencement of the _Weights and Measures (National Standards) Amendment Act 1984_.
 
  The _Weights and Measures (National Standards) Amendment Act 1984_ came into operation on 7 September 1984 (_see Gazette_ 1984, No. S353).
 
-_(b)_     The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _National Measurement Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -9576,30 +9559,6 @@ Part XIII</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 822  Subsection 18B(1)
-
-Omit “(1)”.
-
-## 823  At the end of subsection 18B(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 824  Subsection 18B(2)
-
-Repeal the subsection.
-
-As at 28 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -9641,7 +9600,7 @@ _National Measurement Amendment Act 2008 (No. 137, 2008)_
 
 ## 1  Definitions
 
-(1)       In this Schedule:
+(1)        In this Schedule:
 
 **_administering authority_** means the person who, under an earlier corresponding law, is the administering authority for the purposes of the earlier corresponding law.
 
@@ -9655,7 +9614,7 @@ _National Measurement Amendment Act 2008 (No. 137, 2008)_
 
 **_transition day_** means 1 July 2010.
 
-(2)       Subject to subitem (1), an expression used in this Schedule that is also used in the new law has the same meaning in this Schedule as it has in the new law.
+(2)        Subject to subitem (1), an expression used in this Schedule that is also used in the new law has the same meaning in this Schedule as it has in the new law.
 
 ## 2  Application of Part IV of new law
 
@@ -9671,17 +9630,17 @@ Part IV of the new law applies to:
 
 ## 3  Application of Parts V, VI and VII of new law
 
-(1)       Parts V, VI and VII of the new law apply to conduct occurring on or after the transition day, unless otherwise specified in this item.
+(1)        Parts V, VI and VII of the new law apply to conduct occurring on or after the transition day, unless otherwise specified in this item.
 
-(2)       Section 18HH of the new law applies to measuring instruments and methods of measurement used by trade measurement inspectors:
+(2)        Section 18HH of the new law applies to measuring instruments and methods of measurement used by trade measurement inspectors:
 
                      (a)  in relation to utility meters—on or after the commencing day; and
 
                      (b)  in all other cases—on or after the transition day.
 
-(3)       Sections 18JX and 18JY of the new law apply to articles imported, sold or possessed, offered or exposed for sale, on or after the transition day.
+(3)        Sections 18JX and 18JY of the new law apply to articles imported, sold or possessed, offered or exposed for sale, on or after the transition day.
 
-(4)       Paragraphs 18HF(2)(b) and (c) of the new law apply to contracts entered into on or after the transition day.
+(4)        Paragraphs 18HF(2)(b) and (c) of the new law apply to contracts entered into on or after the transition day.
 
 ## 4  Application of section 18LE of new law
 
@@ -9715,7 +9674,7 @@ If the Secretary grants a public weighbridge licence under section 18PB of the
 
 ## 8  Continued recognition of existing verification and certification marks
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  a measuring instrument has been marked under an earlier corresponding law with an inspector’s mark or a licensee’s mark (within the meaning of the earlier corresponding law); and
 
@@ -9723,19 +9682,19 @@ If the Secretary grants a public weighbridge licence under section 18PB of the
 
                      (c)  the presence of the mark on the instrument at that time is in accordance with the earlier corresponding law.
 
-(2)       Subject to subitem (3), on and from the transition day the instrument is taken to be a measuring instrument verified for the purposes of the new law.
+(2)        Subject to subitem (3), on and from the transition day the instrument is taken to be a measuring instrument verified for the purposes of the new law.
 
-(3)       If the instrument is of a class for which a re‑verification period is prescribed under paragraph 18GG(1)(b) of the new law:
+(3)        If the instrument is of a class for which a re-verification period is prescribed under paragraph 18GG(1)(b) of the new law:
 
-                     (a)  the re‑verification period is taken to have started on the day on which the instrument was last marked with an inspector’s mark or licensee’s mark under the earlier corresponding law; and
+                     (a)  the re-verification period is taken to have started on the day on which the instrument was last marked with an inspector’s mark or licensee’s mark under the earlier corresponding law; and
 
-                     (b)  the instrument ceases to be verified at the end of the re‑verification period, unless re‑verified before that day.
+                     (b)  the instrument ceases to be verified at the end of the re-verification period, unless re-verified before that day.
 
-(4)       If the re‑verification period prescribed under paragraph 18GG(1)(b) would, on the application of paragraph (3)(a) of this item, end before the transition day, the instrument does not cease to be verified under paragraph (3)(b) of this item, but does cease to be verified on the last day of the period of 1 month beginning at the start of the transition day, unless re‑verified before that day.
+(4)        If the re-verification period prescribed under paragraph 18GG(1)(b) would, on the application of paragraph (3)(a) of this item, end before the transition day, the instrument does not cease to be verified under paragraph (3)(b) of this item, but does cease to be verified on the last day of the period of 1 month beginning at the start of the transition day, unless re-verified before that day.
 
 ## 9  Continued use of existing licensee’s mark
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  a mark (the **_old mark_**) has been approved by a licensing authority for use by or on behalf of a person holding a servicing licence under an earlier corresponding law (the **_licensee_**) in certifying a measuring instrument under the earlier corresponding law; and
 
@@ -9745,7 +9704,7 @@ If the Secretary grants a public weighbridge licence under section 18PB of the
 
                              (ii)  the servicing licence has not been cancelled.
 
-(2)       For the purposes of the new law, the old mark is taken to be a servicing licensee’s mark approved by the Secretary under paragraph 18NB(4)(a) of the new law for use by or on behalf of the licensee in verifying measuring instruments during the period:
+(2)        For the purposes of the new law, the old mark is taken to be a servicing licensee’s mark approved by the Secretary under paragraph 18NB(4)(a) of the new law for use by or on behalf of the licensee in verifying measuring instruments during the period:
 
                      (a)  beginning at the start of the transition day; and
 
@@ -9759,7 +9718,7 @@ If the Secretary grants a public weighbridge licence under section 18PB of the
 
 ## 10  Permits in relation to compulsory product information
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  a permit (the **_old permit_**) is issued to a person under an earlier corresponding law authorising the sale (within the meaning of the earlier corresponding law) of an article packed in advance ready for sale; and
 
@@ -9767,7 +9726,7 @@ If the Secretary grants a public weighbridge licence under section 18PB of the
 
                      (c)  immediately before the transition day, the old permit is still in force.
 
-(2)       The old permit has effect under the new law as if it had been issued:
+(2)        The old permit has effect under the new law as if it had been issued:
 
                      (a)  in relation to the sale of the article (as defined for the purposes of the new law)—under paragraph 18JX(2)(a) of the new law; or
 
@@ -9783,7 +9742,7 @@ for the period:
 
                              (ii)  the end of the day that is 6 months after the transition day.
 
-(3)       For the purposes of this item, each of the following is a **_compulsory product information provision_**:
+(3)        For the purposes of this item, each of the following is a **_compulsory product information provision_**:
 
                      (a)  paragraph 28(3)(b) of the _Trade Measurement Act 1989_ of New South Wales;
 
@@ -9803,7 +9762,7 @@ for the period:
 
 ## 11  Permits in relation to prohibited expressions
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  a permit (the **_old permit_**) is issued to a person under an earlier corresponding law authorising the sale (within the meaning of the earlier corresponding law) of an article packed in advance ready for sale; and
 
@@ -9811,7 +9770,7 @@ for the period:
 
                      (c)  immediately before the transition day, the old permit is still in force.
 
-(2)       The old permit has effect under the new law as if it had been issued:
+(2)        The old permit has effect under the new law as if it had been issued:
 
                      (a)  in relation to the sale of the article (as defined for the purposes of the new law)—under paragraph 18JX(2)(b) of the new law; or
 
@@ -9827,7 +9786,7 @@ for the period:
 
                              (ii)  the end of the day that is 6 months after the transition day.
 
-(3)       For the purposes of this item, each of the following is a **_prohibited expression provision_**:
+(3)        For the purposes of this item, each of the following is a **_prohibited expression provision_**:
 
                      (a)  section 30 of the _Trade Measurement Act 1989_ of New South Wales;
 
@@ -9847,17 +9806,17 @@ for the period:
 
 ## 12  Servicing licences and public weighbridge licences continue in force
 
-(1)       If a person holds a servicing licence under an earlier corresponding law (an **_old licence_**) immediately before the transition day, the old licence has effect on and after the transition day as if it were a servicing licence granted under section 18NB of the new law (a **_new licence_**).
+(1)        If a person holds a servicing licence under an earlier corresponding law (an **_old licence_**) immediately before the transition day, the old licence has effect on and after the transition day as if it were a servicing licence granted under section 18NB of the new law (a **_new licence_**).
 
-(2)       If a person holds a public weighbridge licence under an earlier corresponding law (also an **_old licence_**)immediately before the transition day, the old licence has effect on and after the transition day as if it were a public weighbridge licence granted under section 18PB of the new law (also a **_new licence_**).
+(2)        If a person holds a public weighbridge licence under an earlier corresponding law (also an **_old licence_**)immediately before the transition day, the old licence has effect on and after the transition day as if it were a public weighbridge licence granted under section 18PB of the new law (also a **_new licence_**).
 
-(3)       Any condition to which an old licence was subject under an earlier corresponding law immediately before the transition day continues in force as a condition of the new licence imposed:
+(3)        Any condition to which an old licence was subject under an earlier corresponding law immediately before the transition day continues in force as a condition of the new licence imposed:
 
                      (a)  in the case of a servicing licence—under section 18NG of the new law; or
 
                      (b)  in the case of a public weighbridge licence—under section 18PG of the new law.
 
-(4)       However, if a condition mentioned in subitem (3) is inconsistent with:
+(4)        However, if a condition mentioned in subitem (3) is inconsistent with:
 
                      (a)  in the case of a servicing licence—a condition on all servicing licences under section 18NH of the new law; or
 
@@ -9867,23 +9826,23 @@ for the period:
 
 the condition mentioned in paragraph (a), (b) or (c) prevails and, to the extent of the inconsistency, the condition mentioned in subitem (3) does not have effect.
 
-(5)       Nothing in this item prevents the imposition, variation or revocation of a condition on a new licence under the new law on or after the transition day.
+(5)        Nothing in this item prevents the imposition, variation or revocation of a condition on a new licence under the new law on or after the transition day.
 
-(6)       The new licence continues in effect until:
+(6)        The new licence continues in effect until:
 
                      (a)  if the old licence was subject to a periodic licence fee under a periodic licence fee provision—the day on which the next fee was payable; or
 
                      (b)  the new licence is cancelled under the new law.
 
-(7)       The Secretary must:
+(7)        The Secretary must:
 
                      (a)  approve a mark for use by the servicing licensee and employee of the servicing licensee when verifying measuring instruments; and
 
                      (b)  give the servicing licensee written notice including the details of the mark.
 
-(8)       If, immediately before the transition day, the old licence is suspended under an earlier corresponding law, on the transition day the new licence is taken to be suspended under the new law for the period ending on the day on which the suspension of the old licence would have ended under the earlier corresponding law.
+(8)        If, immediately before the transition day, the old licence is suspended under an earlier corresponding law, on the transition day the new licence is taken to be suspended under the new law for the period ending on the day on which the suspension of the old licence would have ended under the earlier corresponding law.
 
-(9)       For the purposes of this item, each of the following is a **_periodic licence fee provision_**:
+(9)        For the purposes of this item, each of the following is a **_periodic licence fee provision_**:
 
                      (a)  section 52 of the _Trade Measurement Act 1989_ of New South Wales;
 
@@ -9923,7 +9882,7 @@ then:
 
 ## 14  Orders preventing employment of certain persons
 
-(1)       If, immediately before the transition day, an order under an employment prevention order provision is in force (the **_old order_**), then on and after the transition day, the old order is taken to be an order under:
+(1)        If, immediately before the transition day, an order under an employment prevention order provision is in force (the **_old order_**), then on and after the transition day, the old order is taken to be an order under:
 
                      (a)  if the old order is a direction as to any of the following—section 18NN of the new law:
 
@@ -9941,11 +9900,11 @@ then:
 
                             (iii)  to employ a specified person to do either of the things mentioned in subparagraph (i) or (ii) only in compliance with specified conditions.
 
-(2)       If the old order is one that, under paragraph (1)(a), is taken to have been made under section 18NN and a copy of the old order has not been served on a person to whom such an order is, under subsection 18NN(3), required to be served, a copy of the old order must be served on that person. However, nothing in this subitem or in subsection 18NN(3) affects the validity of the old order that continues to exist by force of subitem (1).
+(2)        If the old order is one that, under paragraph (1)(a), is taken to have been made under section 18NN and a copy of the old order has not been served on a person to whom such an order is, under subsection 18NN(3), required to be served, a copy of the old order must be served on that person. However, nothing in this subitem or in subsection 18NN(3) affects the validity of the old order that continues to exist by force of subitem (1).
 
-(3)       If the old order is one that, under paragraph (1)(b), is taken to have been made under section 18PQ and a copy of the old order has not been served on a person to whom such an order is, under subsection 18PQ(3), required to be served, a copy of the old order must be served on that person. However, nothing in this subitem or in subsection 18PQ(3) affects the validity of the old order that continues to exist by force of subitem (1).
+(3)        If the old order is one that, under paragraph (1)(b), is taken to have been made under section 18PQ and a copy of the old order has not been served on a person to whom such an order is, under subsection 18PQ(3), required to be served, a copy of the old order must be served on that person. However, nothing in this subitem or in subsection 18PQ(3) affects the validity of the old order that continues to exist by force of subitem (1).
 
-(4)       For the purposes of this item, each of the following is an **_employment prevention order provision_**:
+(4)        For the purposes of this item, each of the following is an **_employment prevention order provision_**:
 
                      (a)  section 55 of the _Trade Measurement Act 1989_ of New South Wales;
 
@@ -10005,9 +9964,9 @@ then nothing in this Act affects the continuation or conclusion of the disciplin
 
 ## 17  Disqualification continues in force
 
-(1)       If, immediately before the transition day, a person was, under an earlier corresponding law, permanently disqualified from holding a licence under that law, the person is taken to be permanently disqualified under paragraph 18QC(1)(e) of the new law from holding a servicing licence or public weighbridge licence under that law.
+(1)        If, immediately before the transition day, a person was, under an earlier corresponding law, permanently disqualified from holding a licence under that law, the person is taken to be permanently disqualified under paragraph 18QC(1)(e) of the new law from holding a servicing licence or public weighbridge licence under that law.
 
-(2)       If, immediately before the transition day, a person was, under an earlier corresponding law, disqualified for a specified period from holding a licence under that law, the person is taken to be disqualified under paragraph 18QC(1)(e) of the new law from holding a servicing licence or public weighbridge licence under that law for the period:
+(2)        If, immediately before the transition day, a person was, under an earlier corresponding law, disqualified for a specified period from holding a licence under that law, the person is taken to be disqualified under paragraph 18QC(1)(e) of the new law from holding a servicing licence or public weighbridge licence under that law for the period:
 
                      (a)  beginning at the start of the transition day; and
 
@@ -10019,7 +9978,7 @@ If, immediately before the commencing day, a utility meter is verified under the
 
 ## 19  Continued use of existing verifying authority’s mark—utility meters
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  before the commencing day, a mark (the **_old mark_**) has been allocated to a person under Part VA of the _National Measurement Act 1960_, as in force at the time at which the old mark was allocated; and
 
@@ -10029,7 +9988,7 @@ If, immediately before the commencing day, a utility meter is verified under the
 
                              (ii)  the appointment of the person as a verifying authority has not been revoked under the Act, as in force at that time.
 
-(2)       For the purposes of the new law, the old mark is taken to be a verification mark in relation to utility meters during the period:
+(2)        For the purposes of the new law, the old mark is taken to be a verification mark in relation to utility meters during the period:
 
                      (a)  beginning at the start of the commencing day; and
 
@@ -10043,27 +10002,27 @@ If, immediately before the commencing day, a utility meter is verified under the
 
 ## 20  Verifying authorities under old law become verifiers under new law
 
-(1)       If, immediately before the commencing day, a person was a verifying authority under the _National Measurement Act 1960_, as in force at that time (the **_old law_**), in relation to a particular class of utility meters, the person is taken to be a verifier in relation to that class of utility meters under the new law at the start of the commencing day as if the person were appointed:
+(1)        If, immediately before the commencing day, a person was a verifying authority under the _National Measurement Act 1960_, as in force at that time (the **_old law_**), in relation to a particular class of utility meters, the person is taken to be a verifier in relation to that class of utility meters under the new law at the start of the commencing day as if the person were appointed:
 
                      (a)  in the case of a person appointed before the commencing day under section 18ZC of the old law—under section 18RA of the new law; or
 
                      (b)  in the case of a person appointed before the commencing day under section 18ZKA of the old law—under section 18RH of the new law.
 
-(2)       Any condition to which the appointment under the old law was subject immediately before the commencing day continues in force as if it were made:
+(2)        Any condition to which the appointment under the old law was subject immediately before the commencing day continues in force as if it were made:
 
                      (a)  in the case of a person appointed before the commencing day under section 18ZC of the old law—under section 18RA of the new law; or
 
                      (b)  in the case of a person appointed before the commencing day under section 18ZKA of the old law—under section 18RH of the new law.
 
-(3)       Nothing in this item prevents the imposition, variation or revocation of a condition under the new law on the appointment on or after the commencing day.
+(3)        Nothing in this item prevents the imposition, variation or revocation of a condition under the new law on the appointment on or after the commencing day.
 
-(4)       The Secretary must allocate to the verifier:
+(4)        The Secretary must allocate to the verifier:
 
                      (a)  if the verifier will be personally undertaking verification of utility meters—a mark for use by the verifier; and
 
                      (b)  if the verifier will be employing persons to undertake the verification of utility meters—a separate mark for use by each employee.
 
-(5)       If, immediately before the commencing day, the person’s appointment as a verifying authority is suspended under the old law, on the commencing day the appointment as verifier is taken to be suspended under the new law for the period ending on the day on which the suspension of appointment under the old law would have ended under that law.
+(5)        If, immediately before the commencing day, the person’s appointment as a verifying authority is suspended under the old law, on the commencing day the appointment as verifier is taken to be suspended under the new law for the period ending on the day on which the suspension of appointment under the old law would have ended under that law.
 
 ## 21  Proceedings under new law if disciplinary action not yet commenced
 
@@ -10103,7 +10062,7 @@ the disciplinary action is taken in relation to the appointment of the person as
 
 ## 23  National instrument test procedures
 
-The Uniform Test Procedures for the verification, certification and in‑service inspection of trade measuring instruments published by the National Measurement Institute as in force immediately before the transition day are taken, on and after the transition day, to be the **_national instrument test procedures_** for the purposes of section 18GG of the new law until national instrument test procedures are determined under that section.
+The Uniform Test Procedures for the verification, certification and in-service inspection of trade measuring instruments published by the National Measurement Institute as in force immediately before the transition day are taken, on and after the transition day, to be the **_national instrument test procedures_** for the purposes of section 18GG of the new law until national instrument test procedures are determined under that section.
 
 ## 24  Definition of _approved pattern_
 
@@ -10125,36 +10084,20 @@ _National Measurement Amendment Act 2010 (No. 142, 2010)_
 
 ## 33  Application provisions
 
-(1)       The amendment made by item 1 applies to measuring instruments manufactured on or after the commencement of that item.
+(1)        The amendment made by item 1 applies to measuring instruments manufactured on or after the commencement of that item.
 
-(2)       The amendment made by item 14 applies to contracts, dealings or other transactions made or entered into after the commencement of that item.
+(2)        The amendment made by item 14 applies to contracts, dealings or other transactions made or entered into after the commencement of that item.
 
-(3)       The amendments made by items 15 and 16 apply in relation to the installation of measuring instruments on or after the commencement of those items.
+(3)        The amendments made by items 15 and 16 apply in relation to the installation of measuring instruments on or after the commencement of those items.
 
-(4)       The amendments made by items 17 and 18 apply in relation to the sale or supply of measuring instruments on or after the commencement of those items.
+(4)        The amendments made by items 17 and 18 apply in relation to the sale or supply of measuring instruments on or after the commencement of those items.
 
-(5)       The amendment made by item 19 applies in relation to the letting for hire, or loaning, of measuring instruments on or after the commencement of that item.
+(5)        The amendment made by item 19 applies in relation to the letting for hire, or loaning, of measuring instruments on or after the commencement of that item.
 
-(6)       The amendments made by item 20 and 21 apply to measuring instruments that are let for hire, loaned, sold or otherwise supplied on or after the commencement of those items.
+(6)        The amendments made by item 20 and 21 apply to measuring instruments that are let for hire, loaned, sold or otherwise supplied on or after the commencement of those items.
 
-(7)       The amendments made by items 24, 25 and 26 apply to appointments of utility meter verifiers made on or after the commencement of those items.
+(7)        The amendments made by items 24, 25 and 26 apply to appointments of utility meter verifiers made on or after the commencement of those items.
 
-(8)       The amendments made by items 27 and 28 apply to representations made on or after the commencement of those items.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(8)        The amendments made by items 27 and 28 apply to representations made on or after the commencement of those items.
 
  
