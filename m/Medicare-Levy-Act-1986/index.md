@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image001.gif)
 
 # Medicare Levy Act 1986
 
 **Act No. 110 of 1986 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 105 of 2010
+This compilation was prepared on 13 July 2010
+ taking into account amendments up to Act No. 78 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -160,7 +160,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -176,11 +176,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image004.gif)
 
 ##### <a id="4"></a>4  Incorporation
 
@@ -236,7 +236,7 @@ and the family income in relation to the person does not exceed the family incom
 
 and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image005.gif)
 
 where:
 
@@ -308,7 +308,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image006.gif)
 
 ##### <a id="8C"></a>8C  Levy surcharge—person with dependants who is not married during whole or part of a financial year
 
@@ -336,7 +336,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image007.gif)
 
 ##### <a id="8D"></a>8D  Levy surcharge—person who is married during whole or part of a financial year
 
@@ -366,7 +366,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
              (4)  The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image008.gif)
 
 if:
 
@@ -400,7 +400,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image009.gif)
 
 ##### <a id="8F"></a>8F  Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies 
 
@@ -416,7 +416,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image010.gif)
 
 ##### <a id="8G"></a>8G  Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies 
 
@@ -436,7 +436,7 @@ if:
 
              (3)  If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00494/Html/MedicareLevy1986_WD02_image010.gif)
 
 if:
 
@@ -1487,26 +1487,6 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>Sch. 1 (item 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Paid Parental Leave (Consequential Amendments) Act 2010</div>
-  </td>
-  <td>
-    <div>105, 2010</div>
-  </td>
-  <td>
-    <div>14 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 54–57) and Schedule 2 (items 1, 2): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2006,32 +1986,6 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
   </td>
 </tr></table>
 
-### Note 2
-
-_Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
-
-The following amendments commence on 1 October 2010:
-
-## Schedule 1
-
-## 54  Paragraph 8(1)(b)
-
-Omit “subsection 159J(1AA) or (1AB)”, substitute “subsection 159J(1AB) or 159JA(1)”.
-
-## 55  Paragraph 8(1)(d)
-
-Omit “subsection 159L(3A) or (3B)”, substitute “subsection 159L(3B) or 159LA(1)”.
-
-## 56  Paragraph 8(2)(b)
-
-Omit “subsection 159J(1AA) or (1AB)”, substitute “subsection 159J(1AB) or 159JA(1)”.
-
-## 57  Paragraph 8(2)(d)
-
-Omit “subsection 159L(3A) or (3B)”, substitute “subsection 159L(3B) or 159LA(1)”.
-
-As at 16 August 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2410,121 +2364,5 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2010 (No. 
 ## 13  Application of amendments
 
 The amendments made by this Schedule apply to assessments for the 2009-10 year of income and later years of income.
-
-* * *
-
-_Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
-
-The following provisions commence on 1 October 2010:
-
-## Schedule 2
-
-## 1  Employer determination made where expected or actual date of birth is before 1 July 2011
-
-(1)        The _Paid Parental Leave Act 2010_ applies, with the modifications set out in this item, in relation to a person who has made a claim for parental leave pay for a child, if:
-
-                     (a)  for a claim made before the day the child is born—the expected date of birth of the child is before 1 July 2011; or
-
-                     (b)  for a claim made after the child is born—the day the child is born is before 1 July 2011.
-
-_Note:       For a claim made before the day the child is born, see subitem (9) if the expected date of birth of the child is before 1 July 2011, but the child is born on or after that date._
-
-(2)        Section 101 of that Act (and the other provisions of that Act so far as they relate to that section) applies in relation to the person as if subsections (1) and (2) of that section were omitted and the following subsection substituted:
-
-             (1)  The Secretary must make a determination under this section (the **_employer determination_**) that a person’s employer is to pay the person instalments if the Secretary is satisfied, when making the determination, that:
-
-                     (a)  a payability determination that parental leave pay is payable to the person, or an initial eligibility determination for the person, is in force; and
-
-                     (b)  the employer has made an election under section 109 that applies to the person; and
-
-                     (c)  the person has consented in the claim to the employer paying instalments to the person; and
-
-                     (d)  the person is likely to be an Australian-based employee of the employer during whichever of the following periods applies:
-
-                              (i)  if the Secretary has made a payability determination that parental leave pay is payable to the person—the person’s PPL period;
-
-                             (ii)  otherwise—the period of days for which instalments are likely, if the determination is made, to be payable to the person by the employer; and
-
-                     (e)  the employer has an ABN; and
-
-                      (f)  if paragraphs (b) to (e) are satisfied in relation to more than one employer of the person—the person nominated the employer in the claim as the employer who would be required to pay instalments to the person.
-
-(3)        For the purposes of this item, an employer determination made under subsection 101(1), as that subsection applies because of subitem (2) of this item, is a **_transitional employer determination_**.
-
-(4)        The following provisions of that Act do not apply in relation to a transitional employer determination:
-
-                     (a)  section 103 (which deals with responding to a notice of an employer determination);
-
-                     (b)  subsection 107(2) (which deals with when an employer determination comes into force);
-
-                     (c)  subsections 207(3) and 224(1) (which deal with applying for review of employer determination decisions).
-
-(5)        Within 14 days after the date of the notice given under section 102 of that Act in relation to the transitional employer determination, the employer may give the Secretary a written notice (the **_acceptance notice_**) that complies with section 104 of that Act.
-
-(6)        If the employer gives the acceptance notice to the Secretary within that 14 day period, the transitional employer determination comes into force on the day the Secretary receives the acceptance notice.
-
-(7)        If the employer does not give the acceptance notice to the Secretary within that 14 day period, the following paragraphs have effect:
-
-                     (a)  the Secretary must revoke the transitional employer determination;
-
-                     (b)  the revocation comes into force on the day of the revocation;
-
-                     (c)  to avoid doubt, subsection 108(5) of that Act (which deals with giving notice of the revocation) applies in relation to the revocation.
-
-(8)        The Secretary may extend the 14 day period referred to in subitem (5) in relation to an employer. If the Secretary does so, subitems (6) and (7) have effect accordingly.
-
-(9)        Despite paragraph (1)(a) and subitem (2) of this item, if the person’s child is born on or after 1 July 2011, then the following paragraphs have effect:
-
-                     (a)  the Secretary may make an employer determination for the person and the person’s employer under section 101 of the _Paid Parental Leave Act 2010_, as that section applies apart from this item;
-
-                     (b)  if the Secretary does so and has previously made a transitional employer determination for the person and the employer, the Secretary is taken never to have made the transitional employer determination.
-
-(10)      The following provisions of the _Paid Parental Leave Act 2010_, apply in relation to this item as if it were a provision of that Act:
-
-                     (a)  section 275 (which deals with how that Act applies to an adopted child);
-
-                     (b)  section 276 (which deals with how that Act applies to claims made in exceptional circumstances).
-
-## 2  Employer determination made where expected date of birth is on or after 1 July 2011 but child born before that date
-
-(1)        This item applies if:
-
-                     (a)  the Secretary makes an employer determination for an employer and a person under the _Paid Parental Leave Act 2010_; and
-
-                     (b)  the person’s claim is made before the day the child is born; and
-
-                     (c)  the expected date of birth of the child is on or after 1 July 2011; and
-
-                     (d)  the child is born before 1 July 2011; and
-
-                     (e)  the person’s employer has not made an election under section 109 of that Act that applies to the person.
-
-(2)        If, after the employer determination is made, the Secretary makes a payability determination that parental leave pay is payable to the person for the child, the notice given to the employer under section 113 of that Act must:
-
-                     (a)  state the day the child was born; and
-
-                     (b)  be dated as at the date the preparation of the notice was completed; and
-
-                     (c)  contain a statement to the effect that the employer determination will be revoked, unless the employer:
-
-                              (i)  agrees to being required to pay instalments to the person, even though the child was born before 1 July 2011; and
-
-                             (ii)  gives the Secretary a written notice indicating that agreement within 14 days of the date referred to in paragraph (b).
-
-(3)        If the employer does not give the notice referred to in subparagraph (2)(c)(ii) to the Secretary within that 14 day period, the following paragraphs have effect:
-
-                     (a)  the Secretary must revoke the employer determination;
-
-                     (b)  the revocation comes into force on the day of the revocation;
-
-                     (c)  to avoid doubt, subsection 108(5) of that Act (which deals with giving notice of the revocation) applies in relation to the revocation;
-
-                     (d)  section 103 of that Act (which deals with responding to a notice of an employer determination) is taken to have never applied in relation to the employer determination.
-
-(4)        The following provisions of that Act  apply in relation to this item as if it were a provision of that Act:
-
-                     (a)  section 275 (which deals with how that Act applies to an adopted child);
-
-                     (b)  section 276 (which deals with how that Act applies to claims made in exceptional circumstances).
 
  
