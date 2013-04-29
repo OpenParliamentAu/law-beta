@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00825/Html/ProdGrantBenAdmin2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00416/Html/ProdGrantBenAdmin2000_WD02_image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 1 July 2010
+ taking into account amendments up to Act No. 56 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -129,7 +129,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Commonwealth bound by this Part
 
-**Part 10—Protection of confidentiality of information** 
+**Part 10—Protection of confidentiality of information**
+
+[47](#47).          Protection of confidentiality of information
 
 **Part 11—Access to premises**
 
@@ -281,7 +283,7 @@ then:
 
                    The Commissioner has the general administration of this Act.
 
-Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law. This means, for example, that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
+Note:          An effect of this provision is that the _Taxation Administration Act 1953_ applies to this Act as a taxation law.
 
 ## Part 2—Grants and benefits covered by Act
 
@@ -1098,6 +1100,88 @@ Note:          A refusal or failure to comply with the require
 
 ## Part 10—Protection of confidentiality of information
 
+##### <a id="47"></a>47  Protection of confidentiality of information
+
+             (1)  This section restricts what a person (the **_entrusted person_**) may do with protected information, or protected documents, that the person has obtained in the course of official employment.
+
+             (2)  The entrusted person:
+
+                     (a)  must not make a record of protected information; and
+
+                     (b)  must not disclose it to anyone else;
+
+if the recording or disclosure is not in accordance with subsection (3).
+
+                    Maximum penalty:    Imprisonment for 2 years.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+             (3)  It is not an offence against subsection (2) if any of the following apply to the recording or disclosure:
+
+                     (a)  the recording or disclosure is for the purposes of this Act or an entitlement Act;
+
+                     (b)  the recording or disclosure happens in the course of the performance of the duties of the entrusted person’s official employment;
+
+                     (c)  the entrusted person is the Commissioner or a Deputy Commissioner and the disclosure is to:
+
+                              (i)  the Australian Statistician and is of information to be used for the purposes of the _Census and Statistics Act 1905_; or
+
+                            (ib)  the Secretary of the Environment Department and is of information that is related to product stewardship (oil) benefits; or
+
+                            (ic)  the Secretary of the Department responsible for administering the _Fuel Quality Standards Act 2000_, and is of information that is related to cleaner fuel grants; or
+
+                             (ii)  another person for the purpose of that other person carrying out functions under a taxation law; or
+
+                            (iii)  the Administrative Appeals Tribunal in connection with proceedings under a taxation law; or
+
+                            (iv)  the Secretary of the Department dealing with matters relating to the social security law (within the meaning of the _Social Security Act 1991_) and is of information to be used for the purpose of the administration of that law; or
+
+                             (v)  the Chief Executive Officer of the Commonwealth Services Delivery Agency established by the _Commonwealth Services Delivery Agency Act 1997_ and is of information to be used for the purpose of the administration of the social security law (within the meaning of the _Social Security Act 1991_);
+
+                     (d)  the disclosure is by a person authorised by the Commissioner or a Deputy Commissioner to disclose the information and the disclosure is to:
+
+                              (i)  the Australian Statistician and is of information to be used for the purposes of the _Census and Statistics Act 1905_; or
+
+                            (ib)  the Secretary of the Environment Department and is of information that is related to product stewardship (oil) benefits; or
+
+                            (ic)  the Secretary of the Department responsible for administering the _Fuel Quality Standards Act 2000_, and is of information that is related to cleaner fuel grants; or
+
+                             (ii)  another person for the purpose of that other person carrying out functions under a taxation law; or
+
+                            (iii)  the Secretary of the Department dealing with matters relating to the social security law (within the meaning of the _Social Security Act 1991_) and is of information to be used for the purpose of the administration of that law; or
+
+                            (iv)  the Chief Executive Officer of the Commonwealth Services Delivery Agency established by the _Commonwealth Services Delivery Agency Act 1997_ and is of information to be used for the purpose of the administration of the social security law (within the meaning of the _Social Security Act 1991_).
+
+Note:          A defendant bears an evidential burden in relation to a matter in subsection (3)—see subsection 13.3(3) of the _Criminal Code_.
+
+             (4)  Subsection (3) does not authorise the disclosure of information to a Minister.
+
+             (5)  In this section:
+
+                    <a name="accc"></a>**_ACCC_** means the Australian Competition and Consumer Commission.
+
+                    <a name="disclos"></a>**_disclose_** means divulge or communicate.
+
+                    <a name="environ-depart"></a>**_Environment Department_** means the Department responsible for the administration of the _Environment Protection and Biodiversity Conservation Act 1999_.
+
+                    <a name="offici-employ"></a>**_official employment_** means:
+
+                     (a)  appointment or employment by the Commonwealth, or the performance of services for the Commonwealth; or
+
+                     (b)  the exercise of powers or performance of functions under a delegation by the Commissioner.
+
+                    <a name="protect-docum"></a>**_protected document_** means any document made or given under, or for the purposes of, this Act or an entitlement Act.
+
+                    <a name="protect-inform"></a>**_protected information_** means information that meets all the following conditions:
+
+                     (a)  it relates to the personal information of a person other than the entrusted person;
+
+                     (b)  it was obtained by the entrusted person, or by any other person, in the course of official employment;
+
+                     (c)  it was disclosed or obtained for the purposes of this Act or an entitlement Act.
+
+                    <a name="taxat-law"></a>**_taxation law_** has the same meaning as in section 995-1 of the _Income Tax Assessment Act 1997_.
+
 ## Part 11—Access to premises
 
 ##### <a id="48"></a>48  Access to premises etc.
@@ -1641,23 +1725,6 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>Sch. 6 (item 101)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 64, 65): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1813,14 +1880,6 @@ _(d)_ Subparagraphs 47(3)(c)(ia) and (d)(ia) were repealed by Schedule 1 (item 7
   </td>
   <td>
     <div>am. No. 54, 2003; No. 42, 2004; Nos. 73 and 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7</div>
-  </td>
-  <td>
-    <div>am. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2193,14 +2252,6 @@ _(d)_ Subparagraphs 47(3)(c)(ia) and (d)(ia) were repealed by Schedule 1 (item 7
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 13</b></div>
   </td>
   <td>
@@ -2268,7 +2319,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 21 December 2010 the amendments are not incorporated in this compilation.
+As at 1 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
