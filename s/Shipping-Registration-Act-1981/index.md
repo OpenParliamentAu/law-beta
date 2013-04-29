@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00597/Html/40291a2b-4657-40e6-93d4-5eb2ba113778_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00190/Html/38cb289c-d3e8-4b29-9a92-e86f435329c8_files/image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 9 August 2012
- taking into account amendments up to Act No. 54 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -26,8 +26,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interpretation
 
-[3A](#3A).         Effect of closure or cancellation of registration
-
 [4](#4).            Repeal
 
 [5](#5).            Act to bind the Crown
@@ -44,43 +42,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11](#11).          Registration of property in ships
 
-[11A](#11A).       Collective agreement with the seafarers’ bargaining unit
+[11A](#11A).       Application of the _Criminal Code_
 
 **Part II—Registration of Ships** 
 
-    **Division 1—Registration** 
-
-        **Subdivision A—Obligation to register Australian‑owned ships**
+    **Division 1—Registration**
 
 [12](#12).          Obligation to register Australian‑owned ships
 
 [13](#13).          Exemptions from registration
 
-        **Subdivision B—The General Register**
+[14](#14).          Ships permitted to be registered
 
-[14](#14).          Ships that may be registered in the General Register
-
-[15](#15).          Application for registration in the General Register
-
-        **Subdivision C—The International Register**
-
-[15A](#15A).       Objects of the International Register
-
-[15B](#15B).       Ships that may be registered in the International Register
-
-[15C](#15C).       Application for registration in the International Register
-
-[15D](#15D).       Pre‑registration inspection
-
-        **Subdivision D—Registration**
-
-[15E](#15E).        Registration in the General Register
-
-[15F](#15F).        Registration in the International Register
+[15](#15).          Application for registration
 
 [16](#16).          Tonnage measurement of ship before registration
 
-[17](#17).          No multiple registrations
+[17](#17).          Foreign‑registered ships not registrable under this Act
+
+[18](#18).          Entry of particulars in Register
 
     **Division 2—Registration certificates**
 
@@ -119,20 +99,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [32](#32).          Improperly assuming Australian nationality
 
 [33](#33).          Concealing Australian nationality
-
-    **Division 5—Special provisions relating to the International Register** 
-
-        **Subdivision A—Conditions of registration in the International Register**
-
-[33A](#33A).       Conditions of registration in the International Register
-
-        **Subdivision B—Cancellation of registration in the International Register**
-
-[33B](#33B).       Cancellation of registration in the International Register
-
-        **Subdivision C—Basis of registration in the International Register**
-
-[33C](#33C).       Basis of registration in the International Register
 
 **Part III—Transfers, transmissions, security interests and other dealings**
 
@@ -178,149 +144,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55](#55).          Seal of Registration Office and signature of Registrar
 
-**Part V—The Registers**
+**Part V—The Register of Ships**
 
-[56](#56).          The Registers
+[56](#56).          Australian Register of Ships
 
-[57](#57).          Inspection of the Registers
+[57](#57).          Inspection of Register
 
-[58](#58).          Obsolete or incorrect entries in the Registers
+[58](#58).          Obsolete or incorrect entries in Register
 
-[59](#59).          Rectification of the Registers
+[59](#59).          Rectification of Australian Register of Ships
 
 [59A](#59A).       Rectification of Personal Property Securities Register
 
-[60](#60).          Correction of clerical errors in the Registers
+[60](#60).          Correction of clerical errors in Register
 
-[61](#61).          False entries in the Registers
-
-**Part VA—Seafarers** 
-
-    **Division 1—Application of other laws to International Register ships**
-
-[61AA](#61AA).    Application of other laws to International Register ships
-
-[61AB](#61AB).    When is a ship used to engage in international trading?
-
-    **Division 2—Work agreements** 
-
-        **Subdivision A—Application of this Division**
-
-[61AC](#61AC).    Application of this Division
-
-        **Subdivision B—Requirements that apply to work agreements**
-
-[61AD](#61AD).    Work agreement must comply with this Division
-
-[61AE](#61AE).     Wages
-
-[61AF](#61AF).     Paid annual leave
-
-[61AG](#61AG).    Dispute resolution procedure
-
-        **Subdivision C—Effect of other agreements on the work agreement**
-
-[61AH](#61AH).    Effect of collective agreement with the seafarers’ bargaining unit
-
-[61AI](#61AI).      Effect of other agreements
-
-        **Subdivision D—Enforcement of work agreement in relation to wages and annual leave**
-
-[61AJ](#61AJ).     Wages to be paid
-
-[61AK](#61AK).    Annual leave may be taken
-
-    **Division 3—Protection against victimisation of seafarers**
-
-[61AL](#61AL).     Protection against victimisation
-
-    **Division 4—Injury etc. of seafarers**
-
-[61AM](#61AM).   Compulsory insurance for death or long‑term disability
-
-[61AN](#61AN).    Liability for medical attendance etc 
-
-[61AO](#61AO).    Liability for wages of sick or injured seafarers
-
-**Part VB—Enforcement** 
-
-    **Division 1—Civil penalty provisions** 
-
-        **Subdivision A—Obtaining a civil penalty order**
-
-[61BA](#61BA).    Civil penalty orders
-
-[61BB](#61BB).     Civil enforcement of penalty
-
-[61BC](#61BC).     Conduct contravening more than one civil penalty provision
-
-[61BD](#61BD).    Multiple contraventions
-
-[61BE](#61BE).     Proceedings may be heard together
-
-[61BF](#61BF).     Civil evidence and procedure rules for civil penalty orders
-
-[61BG](#61BG).    Contravening a civil penalty provision is not an offence
-
-        **Subdivision B—Civil proceedings and criminal proceedings**
-
-[61BH](#61BH).    Civil proceedings after criminal proceedings
-
-[61BI](#61BI).      Criminal proceedings during civil proceedings
-
-[61BJ](#61BJ).      Criminal proceedings after civil proceedings
-
-[61BK](#61BK).     Evidence given in civil proceedings not admissible in criminal proceedings
-
-        **Subdivision C—Miscellaneous**
-
-[61BL](#61BL).     Ancillary contravention of civil penalty provisions
-
-[61BM](#61BM).    Mistake of fact
-
-[61BN](#61BN).    State of mind
-
-[61BO](#61BO).    Civil penalty provisions contravened by employees, agents or officers
-
-[61BP](#61BP).     Continuing contraventions of civil penalty provisions
-
-    **Division 2—Infringement notices, voluntary enforceable undertakings and injunctions** 
-
-        **Subdivision A—Infringement notices**
-
-[61BQ](#61BQ).    When an infringement notice may be given
-
-[61BR](#61BR).     Matters to be included in an infringement notice
-
-[61BS](#61BS).     Extension of time to pay amount
-
-[61BT](#61BT).     Withdrawal of an infringement notice
-
-[61BU](#61BU).    Effect of payment of amount
-
-[61BV](#61BV).    Effect of this Division
-
-        **Subdivision B—Enforceable undertakings**
-
-[61BW](#61BW).    Acceptance of undertakings
-
-[61BX](#61BX).    Enforcement of undertakings
-
-        **Subdivision C—Injunctions**
-
-[61BY](#61BY).    Grant of injunctions
-
-[61BZ](#61BZ).     Interim injunctions
-
-[61BZA](#61BZA).  Discharging or varying injunctions
-
-[61BZB](#61BZB).  Certain limits on granting injunctions not to apply
-
-[61BZC](#61BZC).  Other powers of a relevant court unaffected
-
-    **Division 3—Civil jurisdiction of courts**
-
-[61BZD](#61BZD).  Civil jurisdiction of courts
+[61](#61).          False entries in Register
 
 **Part VI—Miscellaneous**
 
@@ -356,9 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [77](#77).          Admissibility of documents in evidence
 
-[78](#78).          AAT review of certain decisions
-
-[78A](#78A).       Internal review of certain decisions
+[78](#78).          Review of certain decisions
 
 [79](#79).          Preservation of State and Territory legislation
 
@@ -416,10 +252,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
-                    <a name="australian-gener-ship-regist"></a>**_Australian General Shipping Register_** means the Register referred to in subsection 56(1).
-
-                    <a name="australian-intern-ship-regist"></a>**_Australian International Shipping Register_** means the Register referred to in subsection 56(2).
-
                     <a name="australian-nation"></a>**_Australian national_** means:
 
                      (a)  an Australian citizen;
@@ -429,8 +261,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (c)  the Commonwealth or a State or Territory.
 
                     <a name="australian-owned-ship"></a>**_Australian‑owned ship_** has the meaning given by section 8.
-
-                    <a name="resid-australia"></a><a name="australian-resid"></a>**_Australian resident_**: see **_resident of Australia_**.
 
                     <a name="australian-ship"></a>**_Australian ship_** means a ship having Australian nationality by virtue of section 29.
 
@@ -444,12 +274,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="certif-clearanc"></a>**_Certificate of Clearance_** has the same meaning as in the _Customs Act 1901_.
 
-                    <a name="civil-penalti-order"></a>**_civil penalty order_** has the meaning given by subsection 61BA(4).
-
-                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** means a subsection, or a section that is not divided into subsections, that has set out at its foot the words “civil penalty” and one or more amounts in penalty units.
-
-                    <a name="coastal-trade"></a>**_coastal trading_** has the same meaning as in the _Coastal Trading (Revitalising Australian Shipping) Act 2012_.
-
                     <a name="collector-custom"></a>**_Collector of Customs_** means a person who is a Collector for the purposes of the _Customs Act 1901_.
 
                     <a name="custom-offic"></a>**_Customs officer_** means a person who is an officer for the purposes of the _Customs Act 1901_.
@@ -458,25 +282,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="deputi-registrar"></a>**_Deputy Registrar_** means a Deputy Registrar of Ships referred to in subsection 48(2).
 
-                    <a name="employe-organis"></a>**_employee organisation_** means:
-
-                     (a)  an organisation registered under the _Fair Work (Registered Organisations) Act 2009_; or
-
-                     (b)  an organisation recognised under a law of a foreign country as entitled to represent the industrial interests of seafarers.
-
                     <a name="fish"></a>**_fish_** includes turtles, dugong, crustacea, molluscs and any other living resources of the sea or of the seabed.
 
                     <a name="fish-vessel"></a>**_fishing vessel_** means a ship that is used, or is intended to be used, wholly or principally for the taking, catching or capturing of fish for trading or manufacturing purposes.
-
-                    <a name="fix-fee"></a>**_fixed fee_**, in respect of a matter, means a fee determined by the Authority under section 47 of the _Australian Maritime Safety Authority Act 1990_ in respect of the matter.
 
                     <a name="foreign-countri"></a>**_foreign country_** means a country other than Australia.
 
                     <a name="foreign-port"></a>**_foreign port_** means a port in a foreign country.
 
                     <a name="foreign-resid"></a>**_foreign resident_** means a person other than an Australian national or a resident of Australia.
-
-                    <a name="gener-regist"></a>**_General Register_** means the Australian General Shipping Register.
 
                     <a name="govern-author"></a>**_Government authority_** means:
 
@@ -496,59 +310,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  that is for the time being on demise charter to a Government authority or Government authorities, and to no other person.
 
-                    <a name="harbour"></a>**_harbour_** means a natural or artificial harbour, and includes an estuary, navigable river, creek, channel, haven, roadstead, dock, pier, jetty, offshore terminal or other place in or at which vessels can obtain shelter or load and unload goods or embark and disembark passengers.
-
-                    <a name="intern-regist"></a>**_International Register_** means the Australian International Shipping Register.
-
-                    <a name="intern-trade"></a>**_international trading_** has the meaning given by section 61AB.
-
-                    <a name="intra-state-trade"></a><a name="intra-state-trade"></a>**_intra‑State trading_**: a ship is used to engage in **_intra‑State trading_** if, for or in connection with a commercial activity, the ship:
-
-                     (a)  takes on board passengers or cargo at a port in a State or Territory; and
-
-                     (b)  carries those passengers or that cargo to another port in the same State or Territory where:
-
-                              (i)  some or all of those passengers disembark; or
-
-                             (ii)  some or all of that cargo is unloaded.
-
-                    <a name="itf-templat-agreem"></a>**_ITF template agreement_** means a standard form of agreement that:
-
-                     (a)  relates to the working conditions of seafarers; and
-
-                     (b)  is formulated by the International Transport Workers’ Federation; and
-
-                     (c)  is known as the International Transport Workers’ Federation Uniform Total Crew Cost Collective Agreement; and
-
-                     (d)  is available on the Authority’s website, or is otherwise available (without charge) from the Authority.
-
                     <a name="lodg"></a>**_lodged_** means lodged with the Registrar in accordance with this Act.
 
                     <a name="master"></a>**_master_** includes a person having command or charge of a ship, but does not include a pilot.
 
                     <a name="nation-flag"></a>**_national flag_** means the Australian National Flag within the meaning of the _Flags Act 1953_.
 
-                    <a name="navig-act"></a>**_Navigation Act_** means the _Navigation Act 1912_.
-
                     <a name="offenc-base"></a>**_offence based on_** a particular provision of this Act, being a provision in respect of which section 74 creates an offence, means an offence against section 74 that relates to that provision (unless the contrary intention appears).
 
                     <a name="offic"></a>**_officer_** means a person (who may include the Minister) exercising powers, or performing duties or functions, under this Act.
 
-                    <a name="owner"></a>**_owner_** of a ship:
-
-                     (a)  except in sections 8, 11A, 12, 30 and 58 and in Parts VA and VI—means a person registered as owner in accordance with the regulations; and
-
-                     (b)  in sections 8, 12, 30 and 58—has its ordinary meaning; and
-
-                     (c)  in section 11A and Part VA—has the same meaning as in the Navigation Act; and
-
-                     (d)  in Part VI—has the meaning given by section 62.
+                    <a name="owner"></a>**_owner_**, except in sections 8, 12, 30 and 58 and in Part VI, means a person registered as owner in accordance with the regulations.
 
                     <a name="pilot"></a>**_pilot_** means a person who has the lawful conduct of a ship, but does not belong to the ship.
 
                     <a name="pleasur-craft"></a>**_pleasure craft_** means a ship that is used, or is intended to be used, wholly for recreational or sporting activities, whether or not let, or intended to be let, for hire or reward or consideration of any kind.
-
-                    <a name="port"></a>**_port_** includes a harbour.
 
                     <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act).
 
@@ -559,8 +335,6 @@ Note:          The _Personal Property Securities Act 2009_ app
 (b)    section 12 (meaning of **_security interest_**);
 
 (c)    Chapter 9 (transitional provisions).
-
-                    <a name="prominantli-used-engag-intern-trade"></a><a name="prominantli-used-engag-intern-trade"></a>**_predominantly used to engage in international trading_**: a ship is **_predominantly used to engage in international trading_** if, in a calendar year, the percentage of the time that the ship is used to engage in international trading exceeds the percentage of the time that the ship is used to engage in coastal trading or intra‑State trading.
 
                     <a name="previou-law"></a>**_previous law_** means Part I of the Imperial Act known as the Merchant Shipping Act, 1894, as amended, or otherwise affected in its operation, by the provisions of any other Imperial Act or of any Act, in so far as that Part as so amended, or otherwise affected in its operation, is part of the law of the Commonwealth.
 
@@ -586,63 +360,17 @@ Note:          The _Personal Property Securities Act 2009_ app
 
                     <a name="red-ensign"></a>**_red ensign_** means the Australian Red Ensign within the meaning of the _Flags Act 1953_.
 
-                    <a name="regist"></a>**_registered_** means registered under this Act in:
+                    <a name="regist"></a>**_Register_** means the Australian Register of Ships referred to in section 56.
 
-                     (a)  the General Register; or
+                    <a name="regist"></a>**_registered_** means registered under this Act.
 
-                     (b)  the International Register.
-
-                    <a name="regist-agent"></a>**_registered agent_**, in relation to a ship that is registered in the General Register or International Register, means the person whose name and address are entered in the relevant register in respect of that ship under section 64.
-
-                    <a name="regist"></a>**_Registers_** means:
-
-                     (a)  the General Register; and
-
-                     (b)  the International Register.
+                    <a name="regist-agent"></a>**_registered agent_**, in relation to a ship, means the person whose name and address are entered in the Register in respect of that ship in pursuance of section 64.
 
                     <a name="registrar"></a>**_Registrar_** means the Registrar of Ships referred to in subsection 48(1).
 
                     <a name="registr-certif"></a>**_registration certificate_** means a registration certificate, other than a provisional registration certificate, granted under this Act.
 
                     <a name="registr-offic"></a>**_Registration Office_** means the Australian Shipping Registration Office referred to in section 54.
-
-                    <a name="relev-court"></a>**_relevant court_**, in relation to a matter, means any of the following courts:
-
-                     (a)  the Federal Court of Australia;
-
-                     (b)  the Federal Magistrates Court;
-
-                     (c)  a superior court, or lower court, of a State or Territory;
-
-that has jurisdiction in relation to the matter (see section 61BZD).
-
-                    <a name="relev-regist"></a>**_relevant register_**, in relation to a ship, means:
-
-                     (a)  if the ship is, or is to be, registered in the General Register—the General Register; and
-
-                     (b)  if the ship is, or is to be, registered in the International Register—the International Register.
-
-                    <a name="australian-resid"></a><a name="resid-australia"></a>**_resident of Australia_** or **_Australian resident_** means an individual:
-
-                     (a)  whose permanent place of abode is in Australia, whether or not he or she is from time to time temporarily absent from Australia; or
-
-                     (b)  whose domicile is in Australia, unless his or her permanent place of abode is outside Australia.
-
-                    <a name="seafar"></a>**_seafarer_** means any person who is employed or works in any capacity on board a ship on the business of the ship, other than the following:
-
-                     (a)  a pilot;
-
-                     (b)  an owner of the ship or a person representing the owner;
-
-                     (c)  law enforcement personnel;
-
-                     (d)  special personnel (within the meaning of section 283 of the Navigation Act) in relation to the ship;
-
-                     (e)  a person temporarily employed on the ship in port;
-
-                      (f)  a person prescribed by the regulations.
-
-                    <a name=""></a><a name="seafar-bargain-unit"></a>**_seafarers’ bargaining unit_**, for a ship, has the meaning given by subsection 11A(2).
 
                     <a name="share"></a>**_share_**, in relation to a ship, means one of the shares into which the property in a ship is divided as provided by section 11.
 
@@ -656,39 +384,31 @@ that has jurisdiction in relation to the matter (see section 61BZD).
 
 but does not include a vessel, structure, vehicle or craft declared by the regulations not to be a ship for the purposes of this definition.
 
-                    <a name="ship-entitled-regist"></a>**_ship entitled to be registered_** means:
-
-                     (a)  a ship that is required to be registered; or
-
-                     (b)  a ship that is permitted to be registered.
-
                     <a name="ship-demis-charter-australian-base-oper"></a>**_ship on demise charter to an Australian‑based operator_** has the meaning given by section 9.
 
-                    <a name="ship-permit-regist"></a>**_ship permitted to be registered_** means a ship permitted to be registered by virtue of section 14 or 15B.
+                    <a name="ship-permit-regist"></a>**_ship permitted to be registered_** means a ship permitted to be registered by virtue of section 14.
 
                     <a name="ship-requir-regist"></a>**_ship required to be registered_** means a ship required to be registered by virtue of section 12.
 
                     <a name="small-craft"></a>**_small craft_** means a ship less than 12 metres in overall length.
 
-                    <a name="surveyor"></a>**_surveyor_** has the same meaning as in the Navigation Act.
-
                     <a name="temporari-pass"></a>**_temporary pass_** means a temporary pass granted under section 23.
 
                     <a name="act"></a>**_this Act_** includes the regulations.
 
-                    <a name="trade-ship"></a>**_trading ship_** means a ship for use  in connection with a commercial activity, but does not include:
-
-                     (a)  a Government ship; or
-
-                     (b)  a fishing vessel; or
-
-                     (c)  a pleasure craft.
-
-Example:    An exarmple of a trading ship is a ship that is used wholly for the carriage of passengers or cargo for hire or reward.
-
                     <a name="unregistered-ship"></a>**_unregistered ship_** means a ship entitled to be registered that is not registered.
 
              (2)  In this Act, unless the contrary intention appears, a reference to the owner of a ship shall, if there is more than one owner of the ship, be read as a reference to each of the owners.
+
+             (3)  A reference in this Act to a resident of Australia shall be read as a reference to:
+
+                     (a)  a person, other than a body corporate, whose permanent place of abode is in Australia, whether or not he or she is from time to time temporarily absent from Australia;
+
+                     (b)  a person, other than a body corporate, whose domicile is in Australia, unless his or her permanent place of abode is outside Australia; or
+
+                     (c)  a body corporate, wherever incorporated, that has its principal place of business in Australia.
+
+             (4)  In this Act, unless the contrary intention appears, a reference to a ship entitled to be registered shall be read as a reference to a ship that is required to be registered by virtue of section 12 or permitted to be registered by virtue of section 14.
 
              (5)  A reference in this Act to failing to do an act or thing shall be read as including a reference to refusing to do that act or thing.
 
@@ -697,10 +417,6 @@ Example:    An exarmple of a trading ship is a ship that is used wholly fo
              (7)  A reference in this Act to an offence against this Act, to an offence against a provision of this Act or to a contravention of, or failure to comply with, a provision of this Act shall be read as including a reference to an offence against section 6 of the _Crimes Act 1914_, or against section 11.1 or 11.4 of the _Criminal Code_, in relation to this Act.
 
              (8)  In this Act, a reference to a ship includes a reference to every thing or article belonging to or to be used in connection with, or necessary for the operation and safety of, the ship.
-
-##### <a id="3A"></a>3A  Effect of closure or cancellation of registration
-
-                   If the registration of a ship is closed or cancelled under this Act, the ship ceases to be registered.
 
 ##### <a id="4"></a>4  Repeal
 
@@ -738,7 +454,7 @@ and, if the sum of the interests so ascertained in respect of all jointly‑owne
 
 ##### <a id="9"></a>9  Ships on demise charter to Australian‑based operators
 
-             (1)  A reference in this Act to a ship on demise charter to an Australian‑based operator shall be read as a reference to a ship (not being a ship required to be registered or a ship that may be registered by virtue of paragraph 14(a), (b) or (c) or 15B(a), (b) or (c)) on demise charter to:
+             (1)  A reference in this Act to a ship on demise charter to an Australian‑based operator shall be read as a reference to a ship (not being a ship required to be registered or a ship that may be registered by virtue of paragraph 14(a), (b) or (c)) on demise charter to:
 
                      (a)  an Australian national or Australian nationals, and to no other person; or
 
@@ -780,29 +496,15 @@ and, if the sum of the interests so ascertained in respect of all jointly‑owne
 
              (2)  For the purposes of paragraph (1)(b), where a share in a ship is jointly owned, or 2 or more shares in a ship are jointly owned by the same persons, the joint owners of that share, or of those shares, as the case may be, shall be treated as constituting one person.
 
-##### <a id="11A"></a>11A  Collective agreement with the seafarers’ bargaining unit
+##### <a id="11A"></a>11A  Application of the _Criminal Code_
 
-             (1)  The owner of a ship may make an agreement (a **_collective agreement_**) with the seafarers’ bargaining unit for the ship about the terms and conditions of employment or engagement of all the seafarers working on board the ship when it is used to engage in international trading.
+                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
 
-Note:          Before a ship can be registered in the International Register, the owner of the ship must make a collective agreement under subsection (1): see paragraph 15F(3)(b).
-
-             (2)  The **_seafarers’ bargaining unit_** for a ship is a body consisting of a representative from each employee organisation that:
-
-                     (a)  has, as a member, one or more seafarers who will work on the ship when it is used to engage in international trading; and
-
-                     (b)  is entitled to represent the industrial interests of those seafarers in relation to that work; and
-
-                     (c)  has given written notice to the owner of the ship that it wishes to be a member of the body and has not withdrawn that notice.
-
-             (3)  The regulations may prescribe requirements in relation to the making of a collective agreement under this section.
-
-             (4)  The _Fair Work Act 2009_ does not apply in relation to the making of a collective agreement under this section, and a collective agreement under this section is not an enterprise agreement for the purposes of that Act.
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ## Part II—Registration of Ships
 
 ### Division 1—Registration
-
-#### Subdivision A—Obligation to register Australian‑owned ships
 
 ##### <a id="12"></a>12  Obligation to register Australian‑owned ships
 
@@ -816,161 +518,37 @@ Note:          Before a ship can be registered in the Internat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (3B)  The owner does not commit an offence against subsection (3), and the ship may not be detained under that subsection, if:
-
-                     (a)  the owner has made an application in accordance with section 15 or 15C to register the ship; and
-
-                     (b)  the Registrar has not made a decision on the application about whether to register the ship under section 15E or subsection 15F(1).
-
-          (3C)  The owner does not commit an offence against subsection (3), and the ship may not be detained under that subsection, if:
-
-                     (a)  the owner has made an application in accordance with section 15C to register the ship in the International Register; and
-
-                     (b)  the Registrar has made a decision not to register the ship under subsection 15F(1); and
-
-                     (c)  either:
-
-                              (i)  the Registrar has not notified the owner of the decision; or
-
-                             (ii)  the owner has made an application under section 78A for review of the Registrar’s decision, and a decision has not been made on the application.
-
-          (3D)  The owner does not commit an offence against subsection (3), and the ship may not be detained under that subsection, if:
-
-                     (a)  the Registrar has made a decision to cancel the registration of the ship under section 33B; and
-
-                     (b)  either:
-
-                              (i)  the Registrar has not notified the owner of the decision; or
-
-                             (ii)  the owner has made an application under section 78A for review of the Registrar’s decision, and a decision has not been made on the application.
-
              (4)  It is not a defence to a prosecution under subsection (3) that the ship required to be registered is registered under the law of a foreign country.
 
 ##### <a id="13"></a>13  Exemptions from registration
 
                    Ships less than 24 metres in tonnage length, Government ships, fishing vessels and pleasure craft are exempt from the requirement to be registered under section 12.
 
-#### Subdivision B—The General Register
+##### <a id="14"></a>14  Ships permitted to be registered
 
-##### <a id="14"></a>14  Ships that may be registered in the General Register
+                   Where application is made as provided by this Act, the following ships shall be registered:
 
-                   The following ships may be registered in the General Register:
+                     (a)  Australian‑owned ships referred to in section 13;
 
-                     (a)  Australian‑owned ships;
+                     (b)  small craft wholly owned by residents of Australia or by residents of Australia and Australian nationals;
 
-                     (b)  small craft that are wholly owned by Australian residents, or by Australian residents and Australian nationals;
+                     (c)  small craft operated solely by residents of Australia or Australian nationals or both;
 
-                     (c)  small craft that are operated solely by Australian residents, or by Australian nationals, or by both;
+                     (d)  ships on demise charter to Australian‑based operators.
 
-                     (d)  ships that are on demise charter to Australian‑based operators.
+##### <a id="15"></a>15  Application for registration
 
-##### <a id="15"></a>15  Application for registration in the General Register
-
-                   An application to register a ship in the General Register must:
-
-                     (a)  be made in accordance with the regulations; and
-
-                     (b)  be accompanied by the fixed fee (if any) for the application.
-
-#### Subdivision C—The International Register
-
-##### <a id="15A"></a>15A  Objects of the International Register
-
-                   The objects of the International Register are to:
-
-                     (a)  facilitate Australian participation in international trade; and
-
-                     (b)  provide an internationally competitive register to facilitate the long term growth of the Australian shipping industry; and
-
-                     (c)  promote the enhancement and viability of the Australian maritime skills base and the Australian shipping industry.
-
-##### <a id="15B"></a>15B  Ships that may be registered in the International Register
-
-                   The following ships may be registered in the International Register if they are at least 24 metres in tonnage length:
-
-                     (a)  trading ships that are Australian‑owned ships;
-
-                     (b)  trading ships that are wholly owned by Australian residents, or by Australian residents and Australian nationals;
-
-                     (c)  trading ships that are operated solely by Australian residents, or by Australian nationals, or by both;
-
-                     (d)  trading ships that are on demise charter to Australian‑based operators.
-
-##### <a id="15C"></a>15C  Application for registration in the International Register
-
-                   An application to register a ship in the International Register must:
-
-                     (a)  be made in accordance with the regulations; and
-
-                     (b)  be accompanied by the fixed fee (if any) for the application; and
-
-                     (c)  be accompanied by evidence that a collective agreement has been made under section 11A.
-
-##### <a id="15D"></a>15D  Pre‑registration inspection
-
-             (1)  If the Registrar receives an application under section 15C to register a ship in the International Register, the Registrar may require that the ship be inspected by a surveyor for the purposes of determining the application for registration.
-
-             (2)  A surveyor may, at any reasonable time, go on board a ship and inspect the ship for the purposes of subsection (1).
-
-             (3)  However, a surveyor must not inspect a ship unless the fixed fee (if any) for the inspection has been paid.
-
-#### Subdivision D—Registration
-
-##### <a id="15E"></a>15E  Registration in the General Register
-
-                   If an application under section 15 is made to register a ship in the General Register, then, subject to sections 16 and 17, the Registrar must register the ship in that register by entering in that register such particulars relating to the ship as are prescribed by the regulations.
-
-##### <a id="15F"></a>15F  Registration in the International Register
-
-             (1)  If an application under section 15C is made to register a ship in the International Register, then, subject to sections 16 and 17, the Registrar may register the ship in that register by entering in that register such particulars relating to the ship as are prescribed by the regulations.
-
-             (2)  When deciding under subsection (1) whether to register a ship in the International Register, the Registrar must have regard to:
-
-                     (a)  the age of the ship; and
-
-                     (b)  any information contained in the ship’s port state control inspection records in relation to the period prescribed by the regulations; and
-
-                     (c)  the ship’s classification society records in relation to the period prescribed by the regulations; and
-
-                     (d)  any inspection of the ship made by a surveyor under section 15D; and
-
-                     (e)  any matter that the Registrar considers relevant; and
-
-                      (f)  any matter prescribed by the regulations.
-
-             (3)  The Registrar must refuse to register the ship in the International Register if the Registrar is satisfied that:
-
-                     (a)  the ship will not be predominantly used to engage in international trading; or
-
-                     (b)  a collective agreement has not been made between the owner of the ship and the ship’s seafarers’ bargaining unit under section 11A.
-
-             (4)  The Registrar may refuse to register the ship in the International Register if the applicant for registration refuses to allow a surveyor to go on board or inspect the ship under section 15D.
-
-             (5)  Subsections (3) and (4) do not limit the grounds on which the Registrar may refuse to register a ship in the International Register.
-
-             (6)  If the Registrar refuses to register a ship in the International Register, the Registrar must give written notice of the decision to the applicant, specifying the reasons for the refusal.
+                   Subject to this Part, an application for the registration of a ship shall be made in accordance with the regulations.
 
 ##### <a id="16"></a>16  Tonnage measurement of ship before registration
 
-             (1)  The Registrar must not register a ship in the General Register or International Register unless and until a certificate relating to the tonnage measurement of the ship issued under, or otherwise having effect because of, the Navigation Act has been lodged with the Registrar.
+             (1)  A ship shall not be registered unless and until a certificate relating to the tonnage measurement of the ship issued under, or otherwise having effect by virtue of, the _Navigation Act 1912_ has been lodged with the Registrar.
 
              (2)  Subsection (1) does not apply to a prescribed ship, or ships included in a prescribed class of ships.
 
-##### <a id="17"></a>17  No multiple registrations
+##### <a id="17"></a>17  Foreign‑registered ships not registrable under this Act
 
-             (1)  The Registrar must not:
-
-                     (a)  register a ship in the General Register if it is registered:
-
-                              (i)  in the International Register; or
-
-                             (ii)  under a law of a foreign country; and
-
-                     (b)  register a ship in the International Register if it is registered:
-
-                              (i)  in the General Register; or
-
-                             (ii)  under a law of a foreign country.
+             (1)  The Registrar shall not register a ship under this Act if it is registered under the law of a foreign country.
 
              (2)  Where, in relation to a ship that has, at any time, been registered under the law of a foreign country, application is made for the registration of the ship under this Act, the application shall be accompanied by such evidence as the Registrar requires to establish:
 
@@ -978,19 +556,15 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                      (b)  that steps have been taken, or are proposed to be taken, to close the registration of the ship under the law of that country on or before the registration of the ship under this Act.
 
+##### <a id="18"></a>18  Entry of particulars in Register
+
+                   The Registrar shall register a ship by entering in the Register such particulars relating to the ship as are prescribed.
+
 ### Division 2—Registration certificates
 
 ##### <a id="19"></a>19  Grant of registration certificate
 
-             (1)  Upon the registration of a ship in the General Register or International Register, the Registrar must grant a registration certificate for the ship.
-
-             (2)  The registration certificate must:
-
-                     (a)  be in the prescribed form; and
-
-                     (b)  contain the particulars relating to the ship that were entered in the relevant register; and
-
-                     (c)  contain such other matters as are prescribed.
+                   Upon the registration of a ship under section 18, the Registrar shall grant a registration certificate in respect of the ship, in the prescribed form, containing the particulars entered in the Register relating to the ship and such other matters as are prescribed.
 
 ##### <a id="20"></a>20  Custody of registration certificate
 
@@ -1118,7 +692,7 @@ lodge the certificate with the Registrar.
 
 ##### <a id="22B"></a>22B  Provisional registration certificates not to be issued in certain circumstances
 
-                   A provisional registration certificate shall not be granted by a proper officer under subsection 22(1), or by the Registrar under subsection 22A(1) or (2), in respect of a ship unless the person granting the certificate is satisfied that, at the time of his or her so granting the certificate, an application for registration of the ship under section 15 or 15C has been lodged with the Registrar and that that application has yet to be determined.
+                   A provisional registration certificate shall not be granted by a proper officer under subsection 22(1), or by the Registrar under subsection 22A(1) or (2), in respect of a ship unless the person granting the certificate is satisfied that, at the time of his or her so granting the certificate, an application for registration of the ship under section 15 has been lodged with the Registrar and that that application has yet to be determined.
 
 ##### <a id="23"></a>23  Temporary passes
 
@@ -1186,7 +760,7 @@ is a prescribed name, or a name included in a prescribed class of names, the Reg
 
              (4)  Where the Registrar grants an application under subsection (2):
 
-                     (a)  he or she shall cause the new name to be entered in the relevant register and endorsed on the ship’s registration certificate; and
+                     (a)  he or she shall cause the new name to be entered in the Register and endorsed on the ship’s registration certificate; and
 
                      (b)  section 26 applies in relation to the marking of the new name on the ship as if the ship had been registered by that name.
 
@@ -1224,7 +798,7 @@ if the Minister is of the opinion that the description of the ship by that name 
 
              (1)  It is hereby declared that the national colours for Australian ships are:
 
-                     (a)  in the case of ships registered by virtue of section 12 or ships (other than ships referred to in section 13) registered by virtue of paragraph 14(d) or ships registered by virtue of section 15B—the red ensign; and
+                     (a)  in the case of ships registered by virtue of section 12 or ships (other than ships referred to in section 13) registered by virtue of paragraph 14(d)—the red ensign; and
 
                      (b)  in any other case—the national flag and the red ensign.
 
@@ -1334,78 +908,6 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-### Division 5—Special provisions relating to the International Register
-
-#### Subdivision A—Conditions of registration in the International Register
-
-##### <a id="33A"></a>33A  Conditions of registration in the International Register
-
-             (1)  It is a condition of registration of a ship in the International Register that the person referred to in subsection (3) in relation to the ship must ensure that:
-
-                     (a)  an Australian national or Australian resident is the master or chief mate of the ship; and
-
-                     (b)  an Australian national or Australian resident is the chief engineer or first engineer of the ship.
-
-                    Civil penalty:          300 penalty units.
-
-             (2)  It is a condition of registration of a ship in the International Register that the person referred to in subsection (3) in relation to the ship must take reasonable steps to ensure that the positions of master and chief engineer are occupied by a person who is an Australian national or Australian resident.
-
-                    Civil penalty:          300 penalty units.
-
-             (3)  For the purposes of subsections (1) and (2), the person is:
-
-                     (a)  if the ship is registered because of paragraph 15B(a) or (b)—the owner of the ship; and
-
-                     (b)  if the ship is registered because of paragraph 15B(c) or (d)—the operator of the ship.
-
-#### Subdivision B—Cancellation of registration in the International Register
-
-##### <a id="33B"></a>33B  Cancellation of registration in the International Register
-
-             (1)  The Registrar may cancel the registration of a ship in the International Register if the Registrar is satisfied that:
-
-                     (a)  the ship is or has been involved in a contravention, either in or outside of Australia, of:
-
-                              (i)  this Act; or
-
-                             (ii)  the Navigation Act; or
-
-                            (iii)  the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
-
-                            (iv)  a law prescribed by the regulations; or
-
-                     (b)  the ship:
-
-                              (i)  is not seaworthy (within the meaning of section 207 of the Navigation Act); or
-
-                             (ii)  is substandard (within the meaning of section 207A of the Navigation Act); or
-
-                     (c)  the ship has not been, or will not be, predominantly used to engage in international trading; or
-
-                     (d)  a collective agreement, made between the owner of the ship and the ship’s seafarers’ bargaining unit under section 11A, is not in force when the ship is used to engage in international trading; or
-
-                     (e)  a prescribed ground for cancelling the registration applies to the ship.
-
-             (2)  If the Registrar cancels the registration of a ship in the International Register, the Registrar must give written notice of the decision to the owner, specifying the reasons for the cancellation.
-
-             (3)  The regulations may prescribe requirements in relation to the cancellation of registration under this section.
-
-#### Subdivision C—Basis of registration in the International Register
-
-##### <a id="33C"></a>33C  Basis of registration in the International Register
-
-             (1)  A ship is registered in the International Register on the basis that:
-
-                     (a)  the registration may be closed under this Act; and
-
-                     (b)  the registration may be cancelled under section 33B; and
-
-                     (c)  the registration may be closed, cancelled, revoked, terminated or varied by or under later legislation; and
-
-                     (d)  no compensation is payable if the registration is closed, cancelled, revoked, terminated or varied as mentioned in any of the above paragraphs.
-
-             (2)  Subsection (1) does not, by implication, affect the interpretation of any other provision of this Act.
-
 ## Part III—Transfers, transmissions, security interests and other dealings
 
 ##### <a id="34"></a>34  Interpretation
@@ -1418,7 +920,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
              (2)  Where a ship or a share in a ship is so transferred, the bill of sale and a declaration of transfer made by the transferee under subsection (3) shall be lodged by the transferee with the Registrar within 14 days after execution of the bill of sale or within such longer period as the Registrar, in special circumstances, allows.
 
-          (2A)  The Registrar shall, as soon as practicable after the lodgment by the transferee of a bill of sale relating to the transfer of a ship or a share in a ship together with a declaration of transfer, register the bill of sale by entering in the relevant register the name of the transferee as owner of the ship or share and shall endorse on the bill of sale the fact of the entry having been made, together with the date and time of the making of the entry.
+          (2A)  The Registrar shall, as soon as practicable after the lodgment by the transferee of a bill of sale relating to the transfer of a ship or a share in a ship together with a declaration of transfer, register the bill of sale by entering in the Register the name of the transferee as owner of the ship or share and shall endorse on the bill of sale the fact of the entry having been made, together with the date and time of the making of the entry.
 
              (3)  A declaration of transfer for the purposes of subsection (2) shall be made in accordance with the regulations and, where the transferee is not the Commonwealth or a State or Territory, shall include:
 
@@ -1434,7 +936,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                              (ii)  a statement specifying the normal place of residence of the transferee or, where the transferee is a body corporate, the principal place of business of the body corporate; and
 
-                            (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian‑owned ship or a ship referred to in paragraph 14(b) or (c) or 15B(b) or (c) by reason only of the transfer.
+                            (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian‑owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transfer.
 
              (4)  Subsection (3) applies in relation to ships on demise charter to Australian‑based operators as if the statement required by subparagraph (3)(a)(ii) or (3)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian‑based operator by reason only of the transfer.
 
@@ -1444,7 +946,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
              (1)  Where a ship or a share in a ship is transmitted to a person by any lawful means other than by a transfer under section 36, a declaration of transmission made by that person under subsection (2) together with such evidence of transmission as is prescribed shall be lodged by that person with the Registrar within 14 days of that transmission taking place or within such longer period as the Registrar, in special circumstances, allows.
 
-          (1A)  The Registrar shall, as soon as practicable after the lodgment by a person of a declaration of transmission of a ship or a share in a ship together with such other evidence of transmission as is prescribed, enter in the relevant register the name of that person as owner of the ship or share.
+          (1A)  The Registrar shall, as soon as practicable after the lodgment by a person of a declaration of transmission of a ship or a share in a ship together with such other evidence of transmission as is prescribed, enter in the Register the name of that person as owner of the ship or share.
 
              (2)  A declaration of transmission for the purposes of subsection (1) shall be made in accordance with the regulations and, where the person entitled under the transmission is not the Commonwealth or a State or Territory, shall include:
 
@@ -1490,11 +992,11 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
 ##### <a id="45"></a>45  Powers of disposal by owner
 
-                   The owner of a ship or of a share in a ship has power, subject to this Act and to any rights and powers appearing in the relevant register to be vested in any other person, absolutely to dispose of the ship or share and to give effectual receipts in respect of the disposal.
+                   The owner of a ship or of a share in a ship has power, subject to this Act and to any rights and powers appearing in the Register to be vested in any other person, absolutely to dispose of the ship or share and to give effectual receipts in respect of the disposal.
 
 ##### <a id="46"></a>46  Trusts not recognized
 
-                   Notice of a trust, express, implied or constructive, shall not be entered in the relevant register or be receivable by the Registrar.
+                   Notice of a trust, express, implied or constructive, shall not be entered in the Register or be receivable by the Registrar.
 
 ##### <a id="47"></a>47  Equities not excluded
 
@@ -1502,15 +1004,15 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
 ##### <a id="47A"></a>47A  Caveat may be lodged forbidding registration of certain instruments
 
-             (1)  A person claiming an interest in a ship or in a share in a ship under any unregistered instrument, or by operation of law or otherwise, may lodge with the Registrar a caveat in accordance with the prescribed form forbidding the entry in the relevant register of any instrument relating to any dealing with that ship or share until after notice of the intended dealing is given to the caveator.
+             (1)  A person claiming an interest in a ship or in a share in a ship under any unregistered instrument, or by operation of law or otherwise, may lodge with the Registrar a caveat in accordance with the prescribed form forbidding the entry in the Register of any instrument relating to any dealing with that ship or share until after notice of the intended dealing is given to the caveator.
 
           (1A)  Subsection (1) does not apply to an interest in a ship, or in a share in a ship, that is a PPSA security interest.
 
              (2)  Every caveat shall state the name and address of the caveator and shall contain a sufficient description to identify the ship or the share in the ship in which the caveator claims an interest and the interest claimed by the caveator and shall be signed by the caveator or by his or her solicitor or agent.
 
-             (3)  A caveat shall not be entered in the relevant register by the Registrar unless there is specified in the caveat an address in   Australia at which notices relating to the caveat or to proceedings in respect of the caveat may be served.
+             (3)  A caveat shall not be entered in the Register by the Registrar unless there is specified in the caveat an address in   Australia at which notices relating to the caveat or to proceedings in respect of the caveat may be served.
 
-             (4)  Where a person entitled to withdraw a caveat notifies the Registrar, by lodging a notice in the prescribed form, that the name of the caveator or the address for service of notices on the caveator has been changed from the name or address specified in the caveat, the Registrar shall record on the caveat and in the relevant register the name or address so notified and that name or address shall thereupon be the name of, or the address for service of notices on, the caveator.
+             (4)  Where a person entitled to withdraw a caveat notifies the Registrar, by lodging a notice in the prescribed form, that the name of the caveator or the address for service of notices on the caveator has been changed from the name or address specified in the caveat, the Registrar shall record on the caveat and in the Register the name or address so notified and that name or address shall thereupon be the name of, or the address for service of notices on, the caveator.
 
              (5)  Every notice relating to a caveat or to any proceeding in respect of a caveat shall be deemed to be duly served if served in accordance with a manner of service specified in the regulations:
 
@@ -1532,37 +1034,37 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                      (d)  by any person in whom there is entrusted, by reason of the mental incapacity of the caveator, pursuant to an order of a court of a State or Territory or pursuant to a law of a State or Territory, the management and care of the interest claimed by the caveator.
 
-             (7)  Where there is lodged for entry in the relevant register an instrument relating to a dealing with a ship, or a share in a ship, in respect of which a caveat has been lodged and the Registrar is satisfied that, upon entry of that instrument in the relevant register there will vest in the caveator the interest claimed by the caveator in the caveat, the Registrar may, notwithstanding the caveat and the provisions of sections 47C and 47D, enter the dealing in the relevant register and may record on the caveat or in the relevant register that the caveat has lapsed.
+             (7)  Where there is lodged for entry in the Register an instrument relating to a dealing with a ship, or a share in a ship, in respect of which a caveat has been lodged and the Registrar is satisfied that, upon entry of that instrument in the Register there will vest in the caveator the interest claimed by the caveator in the caveat, the Registrar may, notwithstanding the caveat and the provisions of sections 47C and 47D, enter the dealing in the Register and may record on the caveat or in the Register that the caveat has lapsed.
 
 ##### <a id="47B"></a>47B  Notice of caveat
 
-             (1)  Upon entry in the relevant register of a caveat, the Registrar shall notify particulars of the caveat:
+             (1)  Upon entry in the Register of a caveat, the Registrar shall notify particulars of the caveat:
 
-                     (a)  if the caveat relates to the ship—to the person or each person entered in the relevant register as an owner or part owner of the ship; and
+                     (a)  if the caveat relates to the ship—to the person or each person entered in the Register as an owner or part owner of the ship; and
 
-                     (b)  if the caveat relates to a share in the ship—to the person or each person entered in the relevant register as an owner or part owner of that share.
+                     (b)  if the caveat relates to a share in the ship—to the person or each person entered in the Register as an owner or part owner of that share.
 
-             (2)  Any person notified, or required to be notified under subsection (1), of the entry in the relevant register of a caveat may, if he or she thinks fit, summon the caveator to attend before the Supreme Court of a State or Territory to show cause why the caveat should not be removed.
+             (2)  Any person notified, or required to be notified under subsection (1), of the entry in the Register of a caveat may, if he or she thinks fit, summon the caveator to attend before the Supreme Court of a State or Territory to show cause why the caveat should not be removed.
 
              (3)  The Supreme Court of a State or a Territory, upon proof that the caveator has been summoned, may make such order, either _ex parte_ or otherwise, as the Court thinks fit.
 
 ##### <a id="47C"></a>47C  When caveat to lapse
 
-                   A caveat entered in the relevant register in respect of a ship or a share in a ship shall, unless an order to the contrary is made by the Supreme Court of a State or a Territory and served on the Registrar, be deemed to have lapsed upon the expiration of 14 days after notice is given to the caveator that:
+                   A caveat entered in the Register in respect of a ship or a share in a ship shall, unless an order to the contrary is made by the Supreme Court of a State or a Territory and served on the Registrar, be deemed to have lapsed upon the expiration of 14 days after notice is given to the caveator that:
 
-                     (a)  if the caveat relates to a ship—the person or each person entered in the relevant register as an owner or part‑owner of the ship or a person having a right to register a dealing with the ship; or
+                     (a)  if the caveat relates to a ship—the person or each person entered in the Register as an owner or part‑owner of the ship or a person having a right to register a dealing with the ship; or
 
-                     (b)  if the caveat relates to a share in the ship—the person or each person entered in the relevant register as an owner or part‑owner of the share or a person having a right to register a dealing with the share;
+                     (b)  if the caveat relates to a share in the ship—the person or each person entered in the Register as an owner or part‑owner of the share or a person having a right to register a dealing with the share;
 
 has applied for the registration of any dealing with the ship or share.
 
 ##### <a id="47D"></a>47D  No dealing to be registered while caveat in force
 
-             (1)  Subject to this section, so long as a caveat remains in force in respect of a ship or a share in a ship, the Registrar shall not, except with the consent in writing of a person entitled to withdraw the caveat, enter in the relevant register particulars of any dealing with that ship or share.
+             (1)  Subject to this section, so long as a caveat remains in force in respect of a ship or a share in a ship, the Registrar shall not, except with the consent in writing of a person entitled to withdraw the caveat, enter in the Register particulars of any dealing with that ship or share.
 
-             (2)  Subsection (1) shall not operate to prevent the entry in the relevant register of a dealing with a ship or a share in a ship which, when the caveat was lodged with the Registrar, had previously been lodged with the Registrar in a form satisfactory for entry in the relevant register.
+             (2)  Subsection (1) shall not operate to prevent the entry in the Register of a dealing with a ship or a share in a ship which, when the caveat was lodged with the Registrar, had previously been lodged with the Registrar in a form satisfactory for entry in the Register.
 
-             (3)  A caveat does not prevent the Registrar from entering in the relevant register the transmission of a ship, or of a share in a ship, to a person if the person becomes entitled to the transmission by operation of law, except to the extent that the caveat specifies otherwise.
+             (3)  A caveat does not prevent the Registrar from entering in the Register the transmission of a ship, or of a share in a ship, to a person if the person becomes entitled to the transmission by operation of law, except to the extent that the caveat specifies otherwise.
 
 ##### <a id="47E"></a>47E  Compensation for lodging caveat without reasonable cause
 
@@ -1572,19 +1074,19 @@ has applied for the registration of any dealing with the ship or share.
 
 ##### <a id="48"></a>48  Registrar and Deputy Registrars of Ships
 
-             (1)  There shall be a Registrar of Ships, who shall, subject to the control of the Authority, be responsible for the maintenance of the Registers and have chief control of the Registration Office.
+             (1)  There shall be a Registrar of Ships, who shall, under the Authority, be responsible for the maintenance of the Register and have chief control of the Registration Office.
 
              (2)  There shall be such number of Deputy Registrars of Ships as the Authority determines, who shall, subject to the control of the Registrar, have all the powers and functions of the Registrar under this Act, other than his or her power of delegation under section 53.
 
 ##### <a id="49"></a>49  Functions and powers of Registrar
 
-             (1)  In addition to the functions conferred by other provisions of this Act, the functions of the Registrar are to maintain the Registers and, for that purpose:
+             (1)  In addition to the functions conferred by other provisions of this Act, the functions of the Registrar are to maintain the Register and, for that purpose:
 
                      (a)  to receive and record all information and documents required or permitted to be lodged with the Registrar under this Act;
 
                      (b)  to grant, issue, vary or revoke such certificates and other documents as are required or permitted to be granted or issued under this Act; and
 
-                     (c)  to issue copies of, and extracts from, any such certificates and other documents and entries in the Registers.
+                     (c)  to issue copies of, and extracts from, any such certificates and other documents and entries in the Register.
 
              (2)  The Registrar has power to do all things necessary or convenient to be done for or in connection with, or as incidental to, the performance of his or her functions including, but without limiting the generality of the foregoing, such powers for and in relation to requiring the furnishing of information and documents (including the delivery of certificates and other documents granted or issued under this Act) as are provided by the regulations.
 
@@ -1632,39 +1134,39 @@ Note:          For rules that apply to acting appointments, se
 
              (3)  Where a signature on a document purports to be the signature of the Registrar or of a person empowered to sign the document by virtue of a delegation under section 53, it shall be presumed, until the contrary is proved, that the signature is that of a person who, at the relevant time, was holding, or performing the duties of, the office of Registrar or was so empowered to sign that document, as the case may be.
 
-## Part V—The Registers
+## Part V—The Register of Ships
 
-##### <a id="56"></a>56  The Registers
+##### <a id="56"></a>56  Australian Register of Ships
 
-             (1)  There is to be a register, to be known as the Australian General Shipping Register.
+             (1)  For the purposes of this Act, there shall be a register, to be known as the Australian Register of Ships, in which shall be entered all matters required or permitted by this Act to be entered in the Register.
 
-             (2)  There is to be a register, to be known as the Australian International Shipping Register.
+             (2)  The Register and copies of the Register, or of such part or parts of the Register as the Authority directs, shall be kept at such places as the Authority directs.
 
-             (3)  The Registers are not legislative instruments.
+##### <a id="57"></a>57  Inspection of Register
 
-##### <a id="57"></a>57  Inspection of the Registers
+             (1)  The Register may be inspected at the Registration Office.
 
-             (1)  The Registers may be inspected at the Registration Office.
+Note:          Since 1992 all entries in the Register have been made electronically.
 
-             (2)  The Registrar may also, to the extent that the Registers have been maintained in electronic form, provide for them to be inspected electronically otherwise than at the Registration Office by using the internet or another communications network that is prescribed by the regulations.
+             (2)  The Registrar may also, to the extent that the Register has been maintained in electronic form, provide for it to be inspected electronically otherwise than at the Registration Office by using the internet or another communications network that is prescribed by the regulations.
 
-             (3)  A person may inspect the Registers at any reasonable time during the hours when the Registration Office is open for business on payment of the fixed fee (if any) for the inspection.
+             (3)  A person may, on payment of the prescribed fee (if any), inspect the Register at any reasonable time during the hours when the Registration Office is open for business and, on payment of a prescribed fee, is entitled to be provided with a copy of, or an extract from, any entry on the Register.
 
-             (4)  A person is entitled to be provided with a copy of, or an extract from, any entry in the Registers on payment of the fixed fee (if any) for the copy or extract.
+             (4)  If the Registrar has made provision for electronic inspection of the Register otherwise than at the Registration Office, a person may, on payment of the prescribed fee (if any), electronically inspect the Register and make a copy of any electronic entry in the Register.
 
-             (5)  If the Registrar has made provision for electronic inspection of the Registers otherwise than at the Registration Office, a person may electronically inspect the Registers and make a copy of any electronic entry in the Registers on payment of the fixed fee (if any) for the inspection and copy.
+             (5)  The prescribed fee (if any) for inspection of the Register at the Registration Office may be different from the prescribed fee (if any) for electronic inspection of the Register otherwise than at the Registration Office.
 
-##### <a id="58"></a>58  Obsolete or incorrect entries in the Registers
+##### <a id="58"></a>58  Obsolete or incorrect entries in Register
 
              (1)  Where:
 
-                     (a)  in relation to a particular ship that is registered in the General Register or International Register, no entry or amendment of an entry has been made in the relevant register for such period as is prescribed for the purposes of this section; and
+                     (a)  in relation to a particular ship, no entry or amendment of an entry has been made in the Register for such period as is prescribed for the purposes of this section; and
 
                      (b)  the Registrar has reason to suspect that:
 
-                              (i)  any particulars entered in the relevant register in relation to the ship are incorrect;
+                              (i)  any particulars entered in the Register in relation to the ship are incorrect;
 
-                             (ii)  in relation to the ship, any notice, information or document in relation to which an entry in the relevant register is required by this Act to be made has not been lodged with the Registrar within the period referred to in paragraph (a); or
+                             (ii)  in relation to the ship, any notice, information or document in relation to which an entry in the Register is required by this Act to be made has not been lodged with the Registrar within the period referred to in paragraph (a); or
 
                             (iii)  the ship has been lost (whether actually or constructively), taken by an enemy, burnt or broken up;
 
@@ -1674,39 +1176,39 @@ the Registrar may, by notice in writing served on the registered agent or any ow
 
                      (a)  a person on whom a notice is served under subsection (1) fails to furnish to the Registrar, within the period specified in the notice, the information and documents specified in the notice; or
 
-                     (b)  the person on whom a notice is so served furnishes information or documents that the Registrar considers may justify the closure of the registration relating to the ship or the alteration of any entry made in the relevant register;
+                     (b)  the person on whom a notice is so served furnishes information or documents that the Registrar considers may justify the closure of the registration relating to the ship or the alteration of any entry made in the Register;
 
 the Registrar shall inform the Authority of that failure or furnish that information or those documents, as the case requires, to the Authority.
 
-          (2A)  If the Authority is of the opinion that the failure of a person to comply with a notice served upon him or her under subsection (1) or any information or document furnished to him or her by the Registrar justifies the giving of directions under this subsection, the Authority may, by notice in writing, give the Registrar such directions as it thinks fit with respect to the closure of the registration relating to the ship or with respect to any entry or amendment of an entry to be made in the relevant register.
+          (2A)  If the Authority is of the opinion that the failure of a person to comply with a notice served upon him or her under subsection (1) or any information or document furnished to him or her by the Registrar justifies the giving of directions under this subsection, the Authority may, by notice in writing, give the Registrar such directions as it thinks fit with respect to the closure of the registration relating to the ship or with respect to any entry or amendment of an entry to be made in the Register.
 
              (3)  The Registrar shall comply with a direction given under subsection (2A) and, where the Authority directs the closure of the registration relating to a ship:
 
-                     (a)  if the Authority states in the direction that it is of the opinion that the ship has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the Registrar shall make an entry in the relevant register of that statement, and the registration of the ship shall thereupon be deemed to be closed; or
+                     (a)  if the Authority states in the direction that it is of the opinion that the ship has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the Registrar shall make an entry in the Register of that statement, and the registration of the ship shall thereupon be deemed to be closed; or
 
                      (b)  in any other case—section 66 applies as if the ship had ceased to be entitled to be registered and the direction were a notice under subsection 66(1) stating that fact.
 
-##### <a id="59"></a>59  Rectification of the Registers
+##### <a id="59"></a>59  Rectification of Australian Register of Ships
 
              (1)  If:
 
-                     (a)  an entry is omitted from the General Register or International Register;
+                     (a)  an entry is omitted from the Register;
 
-                     (b)  an entry is made in the General Register or International Register without sufficient cause;
+                     (b)  an entry is made in the Register without sufficient cause;
 
-                     (c)  an entry wrongly exists in the General Register or International Register; or
+                     (c)  an entry wrongly exists in the Register; or
 
-                     (d)  there is an error or defect in an entry in the General Register or International Register;
+                     (d)  there is an error or defect in an entry in the Register;
 
-whether or not by reason of a decision of an officer (including a decision that the officer was empowered by this Act to make) a person aggrieved or the Registrar may apply to the Supreme Court of a State or Territory for rectification of that register, and the Court may make such order as it thinks fit directing the rectification of that register.
+whether or not by reason of a decision of an officer (including a decision that the officer was empowered by this Act to make) a person aggrieved or the Registrar may apply to the Supreme Court of a State or Territory for rectification of the Register, and the Court may make such order as it thinks fit directing the rectification of the Register.
 
-             (2)  Without limiting the generality of paragraph (1)(a), the reference in that paragraph to an entry omitted from the General Register or International Register shall be read as including a reference to a matter that is required or permitted by this Act to be entered, or to remain, in that register, but is not entered in, or is removed from, that register.
+             (2)  Without limiting the generality of paragraph (1)(a), the reference in that paragraph to an entry omitted from the Register shall be read as including a reference to a matter that is required or permitted by this Act to be entered, or to remain, in the Register, but is not entered in, or is removed from, the Register.
 
-             (3)  A Court may, in proceedings under this section, decide any question that it is necessary or expedient to decide in connection with the rectification of the General Register or International Register.
+             (3)  A Court may, in proceedings under this section, decide any question that it is necessary or expedient to decide in connection with the rectification of the Register.
 
              (4)  Notice of an application under this section by a person aggrieved shall be served on the Registrar, who may appear and be heard, and shall appear if so directed by the Court.
 
-             (5)  An office copy of an order under this section shall be served on the Registrar, and the Registrar must, upon receipt of the order, rectify the General Register or International Register accordingly.
+             (5)  An office copy of an order under this section shall be served on the Registrar, and the Registrar shall, upon receipt of the order, rectify the Register accordingly.
 
 ##### <a id="59A"></a>59A  Rectification of Personal Property Securities Register
 
@@ -1750,831 +1252,13 @@ Note:          The _Personal Property Securities Act 2009_ inc
 
                     <a name="pp-registrar"></a>**_PPS Registrar_** means the Registrar of Personal Property Securities appointed under section 194 of the _Personal Property Securities Act 2009_.
 
-##### <a id="60"></a>60  Correction of clerical errors in the Registers
+##### <a id="60"></a>60  Correction of clerical errors in Register
 
-                   The Registrar may correct, or cause to be corrected, any clerical error or obvious mistake in the General Register or International Register.
+                   The Registrar may correct, or cause to be corrected, any clerical error or obvious mistake in the Register.
 
-##### <a id="61"></a>61  False entries in the Registers
+##### <a id="61"></a>61  False entries in Register
 
-                   A person shall not make or cause to be made a false entry in the General Register or International Register.
-
-## Part VA—Seafarers
-
-### Division 1—Application of other laws to International Register ships
-
-##### <a id="61AA"></a>61AA  Application of other laws to International Register ships
-
-                   If a ship is registered in the International Register, then:
-
-                     (a)  the _Fair Work Act 2009_ does not apply in relation to when the ship is used to engage in international trading; and
-
-                     (b)  the _Seafarers Rehabilitation and Compensation Act 1992_ does not apply in relation to the ship at any time; and
-
-                     (c)  any legislation of a State or Territory that:
-
-                              (i)  provides for workers’ compensation; or
-
-                             (ii)  is prescribed by the regulations;
-
-                            does not apply in relation to the ship at any time.
-
-##### <a id="61AB"></a>61AB  When is a ship used to engage in international trading?
-
-             (1)  A ship is used to engage in **_international trading_** if, for or in connection with a commercial activity:
-
-                     (a)  the ship:
-
-                              (i)  takes on board passengers or cargo at one or more ports in Australia; and
-
-                             (ii)  carries some or all of the passengers or cargo to one or more ports in one or more foreign countries; or
-
-                     (b)  the ship:
-
-                              (i)  takes on board passengers or cargo at one or more ports in one or more foreign countries; and
-
-                             (ii)  carries all of the passengers or cargo to one or more ports in one or more countries (which could be the same foreign country, another foreign country or Australia); or
-
-                     (c)  the ship undertakes an activity for, or in connection with, an activity referred to in paragraph (a) or (b).
-
-             (2)  However, a ship is not used to engage in **_international trading_** at any time it is used to engage in:
-
-                     (a)  coastal trading; or
-
-                     (b)  intra‑State trading.
-
-### Division 2—Work agreements
-
-#### Subdivision A—Application of this Division
-
-##### <a id="61AC"></a>61AC  Application of this Division
-
-                   This Division applies to:
-
-                     (a)  a ship that is registered in the International Register; and
-
-                     (b)  a seafarer working, or proposing to work, on board the ship when it is used to engage in international trading.
-
-#### Subdivision B—Requirements that apply to work agreements
-
-##### <a id="61AD"></a>61AD  Work agreement must comply with this Division
-
-             (1)  In addition to the requirements of section 45A of the Navigation Act that a work agreement of a seafarer must comply with, the owner of the ship must ensure that the work agreement complies with the requirements of this Division when the ship is used to engage in international trading.
-
-                    Civil penalty:          300 penalty units.
-
-             (2)  Subsection (1) applies to the extent that the agreement applies to the seafarer while he or she is working on board the ship when it is used to engage in international trading.
-
-##### <a id="61AE"></a>61AE  Wages
-
-             (1)  The work agreement must specify the amount of the seafarer’s wages, or the method for working that out.
-
-             (2)  The amount of the wages must not be less than the relevant amount of wages determined by the Minister under subsection (3).
-
-             (3)  The Minister must, by legislative instrument, determine the amount of wages of seafarers performing particular types of work.
-
-             (4)  If, when making a determination under subsection (3):
-
-                     (a)  there is an ITF template agreement; and
-
-                     (b)  the ITF template agreement specifies an amount of wages of seafarers performing particular types of work;
-
-then the amount of wages determined by the Minister under subsection (3) for a particular type of work must not be less than the amount of wages specified in the ITF template agreement for that type of work.
-
-             (5)  If, after the Minister makes a determination under subsection (3), the ITF template agreement changes, then as soon as is reasonably practicable after becoming aware of that:
-
-                     (a)  the Minister must, by legislative instrument, revoke the determination made under subsection (3); and
-
-                     (b)  the Minister must make a new determination under subsection (3).
-
-##### <a id="61AF"></a>61AF  Paid annual leave
-
-             (1)  The work agreement must provide that the seafarer is entitled to at least 2.5 days of paid annual leave for each month of service on board the ship.
-
-Calculating service
-
-             (2)  For the purposes of subsection (1), a period of service by the seafarer on board the ship is a period during which the seafarer is employed or engaged in relation to the ship, but does not include:
-
-                     (a)  any period of unauthorised absence; or
-
-                     (b)  any period of unpaid leave.
-
-Paid annual leave not to include other absences
-
-             (3)  The work agreement must not provide that the seafarer is on paid annual leave during any of the following periods:
-
-                     (a)  a period that is a public holiday in the Australian Capital Territory;
-
-                     (b)  a period during which the seafarer is incapacitated for work as a result of illness or injury;
-
-                     (c)  a period of any other type of absence authorised under the work agreement.
-
-##### <a id="61AG"></a>61AG  Dispute resolution procedure
-
-             (1)  The work agreement must provide for a procedure for settling disputes about any matters arising in relation to the agreement, this Part or Part II of the Navigation Act.
-
-             (2)  The procedure must:
-
-                     (a)  entitle the seafarer to make a complaint directly to the master of the ship and, if the seafarer considers it necessary, to an independent person or body specified in the agreement; and
-
-                     (b)  entitle the seafarer to be accompanied or represented by another person during the complaint process; and
-
-                     (c)  comply with any other requirements prescribed by the regulations.
-
-#### Subdivision C—Effect of other agreements on the work agreement
-
-##### <a id="61AH"></a>61AH  Effect of collective agreement with the seafarers’ bargaining unit
-
-             (1)  This section applies while a collective agreement made under section 11A between the owner of the ship and the seafarers’ bargaining unit for the ship is in force.
-
-             (2)  The work agreement referred to in section 45A of the Navigation Act, to the extent that the work agreement applies to the seafarer while he or she is working on board the ship when it is used to engage in international trading, is taken to include the terms and conditions of the collective agreement.
-
-Note:          It does not matter whether the work agreement was made before or after the collective agreement was made.
-
-             (3)  However, a term or condition of the collective agreement that is included in the work agreement because of subsection (2) has no effect to the extent that it is less beneficial to the seafarer than another term or condition of the work agreement.
-
-##### <a id="61AI"></a>61AI  Effect of other agreements
-
-             (1)  This section applies if:
-
-                     (a)  on or after the commencement of this section, the owner of the ship makes an agreement with another person or persons about the terms and conditions of employment or engagement of one or more seafarers working on board the ship when it is used to engage in international trading; and
-
-                     (b)  the agreement is not a work agreement referred to in section 45A of the Navigation Act; and
-
-                     (c)  the agreement is not a collective agreement made under section 11A.
-
-             (2)  If the work agreement referred to in section 45A of the Navigation Act incorporates any of the terms or conditions of the agreement referred to in paragraph (1)(a), then those terms or conditions have no effect to the extent that they apply to the seafarer while he or she is working on board the ship when it is used to engage in international trading.
-
-#### Subdivision D—Enforcement of work agreement in relation to wages and annual leave
-
-##### <a id="61AJ"></a>61AJ  Wages to be paid
-
-                   The owner of the ship must ensure that any wages that are payable to the seafarer under the seafarer’s work agreement are paid to the seafarer.
-
-                    Civil penalty:          300 penalty units.
-
-##### <a id="61AK"></a>61AK  Annual leave may be taken
-
-                   The owner of the ship must ensure that the seafarer is entitled to take any paid annual leave that the seafarer is entitled to take under the seafarer’s work agreement.
-
-                    Civil penalty:          300 penalty units.
-
-### Division 3—Protection against victimisation of seafarers
-
-##### <a id="61AL"></a>61AL  Protection against victimisation
-
-             (1)  This section applies to:
-
-                     (a)  a ship that is registered in the International Register; and
-
-                     (b)  a seafarer who works, or a prospective seafarer who proposes to work, on board the ship when it is used to engage in international trading.
-
-             (2)  A person must not victimise the seafarer because the seafarer:
-
-                     (a)  has made, proposes to make, or at any time has proposed to make a complaint under the dispute resolution procedure in the seafarer’s work agreement (unless the complaint is manifestly vexatious or maliciously made); or
-
-                     (b)  has refused to make, proposes to refuse to make, or at any time has proposed to refuse to make a complaint under the dispute resolution procedure in the seafarer’s work agreement; or
-
-                     (c)  has participated, proposes to participate, or at any time has proposed to participate in collective bargaining; or
-
-                     (d)  has refused to participate, proposes to refuse to participate, or at any time has refused to participate in collective bargaining; or
-
-                     (e)  has exercised, proposes to exercise, or at any time has proposed to exercise the right to organise and to take industrial action; or
-
-                      (f)  has refused to exercise, proposes to refuse to exercise, or at any time has proposed to refuse to exercise the right to organise and to take industrial action; or
-
-                     (g)  has joined, proposes to join, or at any time has proposed to join an employee organisation; or
-
-                     (h)  has refused to join, proposes to refuse to join, or at any time has proposed to refuse to join an employee organisation; or
-
-                      (i)  has participated, proposes to participate, or at any time has proposed to participate in the activities of an employee organisation; or
-
-                      (j)  has refused to participate, proposes to refuse to participate, or at any time has proposed to refuse to participate in the activities of an employee organisation; or
-
-                     (k)  has requested, proposes to request, or at any time has proposed to request representation by an employee organisation; or
-
-                      (l)  has refused, proposes to refuse, or at any time has proposed to refuse representation by an employee organisation.
-
-                    Civil penalty:          300 penalty units.
-
-             (3)  For the purposes of subsection (2), a person **_victimises_** a seafarer if the person:
-
-                     (a)  dismisses, or threatens or organises to dismiss, the seafarer; or
-
-                     (b)  injures, or threatens or organises to injure, the seafarer in his or her employment or engagement on board a ship; or
-
-                     (c)  alters the position of, or threatens or organises to alter the position of, the seafarer to the seafarer’s prejudice; or
-
-                     (d)  discriminates, or threatens or organises to discriminate, between the seafarer and other seafarers; or
-
-                     (e)  refuses, or threatens or organises to refuse, to employ the seafarer on board a ship.
-
-### Division 4—Injury etc. of seafarers
-
-##### <a id="61AM"></a>61AM  Compulsory insurance for death or long‑term disability
-
-             (1)  The owner of a ship that is registered in the International Register must have a policy of insurance or indemnity that:
-
-                     (a)  insures or indemnifies the owner for any liability of the owner to pay compensation for the death or long‑term disability suffered by a seafarer as a result of sickness or injury occurring while on board the ship; and
-
-                     (b)  provides a level of insurance or indemnity that is sufficient to cover the amount of compensation that is determined by the Minister under subsection (2).
-
-                    Civil penalty:          300 penalty units.
-
-             (2)  The Minister must, by legislative instrument, determine the amount of compensation for the death or long‑term disability suffered by a seafarer as a result of sickness or injury occurring while on board the ship.
-
-             (3)  If:
-
-                     (a)  there is an ITF template agreement; and
-
-                     (b)  the ITF template agreement specifies an amount of compensation for the death or long‑term disability of a seafarer, or a method for working that out;
-
-then the amount of compensation determined by the Minister under subsection (2) for the death or long‑term disability of a seafarer must not be less than the amount of compensation specified in, or worked out under, the ITF template agreement for the death or long‑term disability of the seafarer.
-
-             (4)  If, after the Minister makes a determination under subsection (2), the ITF template agreement changes, then as soon as is reasonably practicable after becoming aware of that:
-
-                     (a)  the Minister must, by legislative instrument, revoke the determination made under subsection (2); and
-
-                     (b)  the Minister must make a new determination under subsection (2).
-
-##### <a id="61AN"></a>61AN  Liability for medical attendance etc.
-
-             (1)  This section applies if the owner of a ship that is registered in the International Register would, apart from subsection (2), be liable under section 127 of the Navigation Act to pay expenses relating to a hurt or injury received, disease contracted or illness suffered by a seafarer while on board the ship when it was used to engage in international trading.
-
-             (2)  Any liability of the owner under that section ceases on the earlier of the following days:
-
-                     (a)  the day after the seafarer has recovered;
-
-                     (b)  the day that is 16 weeks after the first day the seafarer received the hurt or injury, contracted the disease or suffered the illness.
-
-##### <a id="61AO"></a>61AO  Liability for wages of sick or injured seafarers
-
-             (1)  This section applies if the owner of a ship that is registered in the International Register would, apart from subsection (2), be liable under section 132 of the Navigation Act to pay wages to a seafarer who is hurt or injured, or becomes ill, while on board the ship when it was used to engage in international trading.
-
-             (2)  Any liability of the owner under that section ceases on the earlier of the following days:
-
-                     (a)  the day after the seafarer has recovered;
-
-                     (b)  the day that is 16 weeks after the first day the seafarer was hurt or injured, or became ill.
-
-## Part VB—Enforcement
-
-### Division 1—Civil penalty provisions
-
-#### Subdivision A—Obtaining a civil penalty order
-
-##### <a id="61BA"></a>61BA  Civil penalty orders
-
-Application for order
-
-             (1)  The Authority  may apply to a relevant court for an order that a person, who is alleged to have contravened a civil penalty provision, pay a pecuniary penalty.
-
-             (2)  The Authority  must make the application within 6 years of the alleged contravention.
-
-Relevant court may order person to pay pecuniary penalty
-
-             (3)  If the relevant court is satisfied that the person has contravened the civil penalty provision, the relevant court may order the person to pay such pecuniary penalty for the contravention as the relevant court determines to be appropriate.
-
-Note:          Subsection (5) sets out the maximum penalty that the relevant court may order the person to pay.
-
-             (4)  An order under subsection (3) is a **_civil penalty order_**.
-
-Determining pecuniary penalty
-
-             (5)  The pecuniary penalty must not be more than:
-
-                     (a)  if the person is a body corporate—5 times the pecuniary penalty specified for the civil penalty provision; and
-
-                     (b)  otherwise—the pecuniary penalty specified for the civil penalty provision.
-
-             (6)  In determining the pecuniary penalty, the relevant court may take into account all relevant matters, including:
-
-                     (a)  the nature and extent of the contravention; and
-
-                     (b)  the nature and extent of any loss or damage suffered because of the contravention; and
-
-                     (c)  the circumstances in which the contravention took place; and
-
-                     (d)  whether the person has previously been found by a court in proceedings under one or more of the following Acts to have engaged in any similar conduct:
-
-                              (i)  this Act;
-
-                             (ii)  the Navigation Act;
-
-                            (iii)  the _Crimes Act 1914_ or the _Criminal Code_ in relation to this Act.
-
-##### <a id="61BB"></a>61BB  Civil enforcement of penalty
-
-             (1)  A pecuniary penalty is a debt payable to the Authority on behalf of the Commonwealth.
-
-             (2)  The Authority may enforce a civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgement debt.
-
-##### <a id="61BC"></a>61BC  Conduct contravening more than one civil penalty provision
-
-             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Division against a person in relation to the contravention of any one or more of those provisions.
-
-             (2)  However, the person is not liable to more than one pecuniary penalty under this Division in relation to the same conduct.
-
-##### <a id="61BD"></a>61BD  Multiple contraventions
-
-             (1)  A relevant court may make a single civil penalty order against a person for multiple contraventions of a civil penalty provision if proceedings for the contraventions are founded on the same facts, or if the contraventions form, or are part of, a series of contraventions of the same or a similar character.
-
-             (2)  However, the penalty must not exceed the sum of the maximum penalties that could be ordered if a separate penalty were ordered for each of the contraventions.
-
-##### <a id="61BE"></a>61BE  Proceedings may be heard together
-
-                   A relevant court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
-
-##### <a id="61BF"></a>61BF  Civil evidence and procedure rules for civil penalty orders
-
-                   A relevant court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
-
-##### <a id="61BG"></a>61BG  Contravening a civil penalty provision is not an offence
-
-                   A contravention of a civil penalty provision is not an offence.
-
-#### Subdivision B—Civil proceedings and criminal proceedings
-
-##### <a id="61BH"></a>61BH  Civil proceedings after criminal proceedings
-
-                   A relevant court may not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is the same, or substantially the same, as the conduct constituting the contravention.
-
-##### <a id="61BI"></a>61BI  Criminal proceedings during civil proceedings
-
-             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
-
-                     (a)  criminal proceedings are commenced or have already been commenced against the person for an offence; and
-
-                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
-
-             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise, the civil proceedings are dismissed.
-
-##### <a id="61BJ"></a>61BJ  Criminal proceedings after civil proceedings
-
-                   Criminal proceedings may be commenced against a person for conduct that is the same, or substantially the same, as conduct that would constitute a contravention of a civil penalty provision, regardless of whether a civil penalty order has been made against the person in relation to the contravention.
-
-##### <a id="61BK"></a>61BK  Evidence given in civil proceedings not admissible in criminal proceedings
-
-             (1)  Evidence of information given, or evidence of production of documents, by an individual is not admissible in criminal proceedings against the individual if:
-
-                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for an alleged contravention of a civil penalty provision (whether or not the order was made); and
-
-                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
-
-             (2)  However, subsection (1) does not apply to criminal proceedings in relation to the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
-
-#### Subdivision C—Miscellaneous
-
-##### <a id="61BL"></a>61BL  Ancillary contravention of civil penalty provisions
-
-             (1)  A person must not:
-
-                     (a)  attempt to contravene a civil penalty provision; or
-
-                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision; or
-
-                     (c)  induce (by threats, promises or otherwise) a contravention of a civil penalty provision; or
-
-                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision; or
-
-                     (e)  conspire with others to effect a contravention of a civil penalty provision.
-
-Note:          Section 61BN (which provides that a person’s state of mind does not need to be proven in relation to a civil penalty provision) does not apply to this subsection.
-
-             (2)  A person who contravenes subsection (1) in relation to a civil penalty provision is taken to have contravened the provision.
-
-##### <a id="61BM"></a>61BM  Mistake of fact
-
-             (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
-
-                     (a)  at or before the time of the conduct constituting the contravention, the person:
-
-                              (i)  considered whether or not facts existed; and
-
-                             (ii)  was under a mistaken but reasonable belief about those facts; and
-
-                     (b)  had those facts existed, the conduct would not have constituted a contravention of the civil penalty provision.
-
-             (2)  For the purposes of subsection (1), a person may be regarded as having considered whether or not facts existed if:
-
-                     (a)  the person had considered, on a previous occasion, whether those facts existed in the circumstances surrounding that occasion; and
-
-                     (b)  the person honestly and reasonably believed that the circumstances surrounding the present occasion were the same, or substantially the same, as those surrounding the previous occasion.
-
-             (3)  A person who wishes to rely on a matter in subsection (1) or (2) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
-
-##### <a id="61BN"></a>61BN  State of mind
-
-             (1)  In proceedings for a civil penalty order against a person for a contravention of a civil penalty provision (other than because of subsection 61BL(1)), it is not necessary to prove:
-
-                     (a)  the person’s intention; or
-
-                     (b)  the person’s knowledge; or
-
-                     (c)  the person’s recklessness; or
-
-                     (d)  the person’s negligence; or
-
-                     (e)  any other state of mind of the person;
-
-other than as expressly provided.
-
-             (2)  Subsection (1) does not affect the operation of section 61BM (mistake of fact).
-
-##### <a id="61BO"></a>61BO  Civil penalty provisions contravened by employees, agents or officers
-
-                   If an element of a civil penalty provision is done by an employee, agent or officer of a body corporate acting within the actual or apparent scope of his or her employment, or within his or her actual or apparent authority, the element must also be attributed to the body corporate.
-
-##### <a id="61BP"></a>61BP  Continuing contraventions of civil penalty provisions
-
-             (1)  If an act or thing is required under a civil penalty provision to be done:
-
-                     (a)  within a particular period; or
-
-                     (b)  before a particular time;
-
-then the obligation to do that act or thing continues until the act or thing is done (even if the period has expired or the time has passed).
-
-             (2)  A person who contravenes a civil penalty provision that requires an act or thing to be done:
-
-                     (a)  within a particular period; or
-
-                     (b)  before a particular time;
-
-commits a separate contravention of that provision in respect of each day during which the contravention occurs (including the day the relevant civil penalty order is made or any later day).
-
-### Division 2—Infringement notices, voluntary enforceable undertakings and injunctions
-
-#### Subdivision A—Infringement notices
-
-##### <a id="61BQ"></a>61BQ  When an infringement notice may be given
-
-             (1)  If the Authority has reasonable grounds to believe that a person has contravened a civil penalty provision, the Authority may give to the person an infringement notice for the alleged contravention.
-
-             (2)  The infringement notice must be given within 12 months after the day the contravention is alleged to have taken place.
-
-             (3)  A single infringement notice must relate only to a single contravention of a single civil penalty provision unless subsection (4) applies.
-
-             (4)  The Authority may give a person a single infringement notice relating to multiple contraventions of a single provision if:
-
-                     (a)  the provision requires the person to do a thing within a particular period or before a particular time; and
-
-                     (b)  the person fails or refuses to do that thing within that period or before that time; and
-
-                     (c)  the failure or refusal occurs on more than one day; and
-
-                     (d)  each contravention is constituted by the failure or refusal on one of those days.
-
-Note:          For continuing offences, see subsection 4K(2) of the _Crimes Act 1914_. For continuing contraventions of civil penalty provisions, see section 61BP of this Act.
-
-##### <a id="61BR"></a>61BR  Matters to be included in an infringement notice
-
-             (1)  An infringement notice must:
-
-                     (a)  be identified by a unique number; and
-
-                     (b)  state the day it is given; and
-
-                     (c)  state the name of the person to whom the notice is given; and
-
-                     (d)  state the name of the person who gave the notice; and
-
-                     (e)  give brief details of the alleged contravention, including:
-
-                              (i)  the provision that was allegedly contravened; and
-
-                             (ii)  the maximum penalty a court could impose for the contravention; and
-
-                            (iii)  the time (if known) and day of, and the place of, the alleged contravention; and
-
-                      (f)  state the amount that is payable under the notice; and
-
-                     (g)  give an explanation of how payment of the amount is to be made; and
-
-                     (h)  state that, if the person to whom the notice is given  pays the amount within 28 days after the day the notice is given, then (unless the notice is withdrawn):
-
-                              (i)  if the provision is an offence provision and does not also constitute a civil penalty provision—the person will not be liable to be prosecuted in a court for the alleged contravention; or
-
-                             (ii)  if the provision is an offence provision that can also constitute a civil penalty provision—the person is not liable to be prosecuted in a court, and proceedings seeking a civil penalty order will not be brought, in relation to the alleged contravention; or
-
-                            (iii)  if the provision is a civil penalty provision—proceedings seeking a civil penalty order will not be brought in relation to the alleged contravention; and
-
-                      (i)  state that payment of the amount is not an admission of guilt or liability; and
-
-                      (j)  state that the person may apply to the Authority to have the period in which to pay the amount extended; and
-
-                     (k)  state that the person may choose not to pay the amount and, if the person does so:
-
-                              (i)  if the provision is an offence provision and does not also constitute a civil penalty provision—the person may be prosecuted in a court for the alleged contravention; or
-
-                             (ii)  if the provision is an offence provision and can also constitute a civil penalty provision—the person may be prosecuted in a court, or proceedings seeking a civil penalty order may be brought, in relation to the alleged contravention; or
-
-                            (iii)  if the provision is a civil penalty provision—proceedings seeking a civil penalty order may be brought in relation to the alleged contravention; and
-
-                      (l)  set out how the notice can be withdrawn; and
-
-                    (m)  state that if the notice is withdrawn:
-
-                              (i)  if the provision is an offence provision and does not also constitute a civil penalty provision—the person may be prosecuted in a court for the alleged contravention; or
-
-                             (ii)  if the provision is an offence provision and can also constitute a civil penalty provision—the person may be prosecuted in a court, or proceedings seeking a civil penalty order may be brought, in relation to the alleged contravention; or
-
-                            (iii)  if the provision is a civil penalty provision—proceedings seeking a civil penalty order may be brought in relation to the alleged contravention; and
-
-                     (n)  state that the person may make written representations to the Authority seeking the withdrawal of the notice.
-
-             (2)  For the purposes of paragraph (1)(f), the amount to be stated in the notice for the alleged contravention of the provision must be equal to one‑fifth of the maximum penalty that the court could impose on the person for that contravention.
-
-##### <a id="61BS"></a>61BS  Extension of time to pay amount
-
-             (1)  A person to whom an infringement notice has been given may apply to the Authority for an extension of the period referred to in paragraph 61BR(1)(h).
-
-             (2)  If the application is made before the end of that period, the Authority may, in writing, extend that period. The Authority may do so before or after the end of that period.
-
-             (3)  If the Authority extends that period, a reference in this Division, or in a notice or other instrument under this Division, to the period referred to in paragraph 61BR(1)(h) is taken to be a reference to that period so extended.
-
-             (4)  If the Authority does not extend that period, a reference in this Division, or in a notice or other instrument under this Division, to the period referred to in paragraph 61BR(1)(h) is taken to be a reference to the period that ends on the later of the following days:
-
-                     (a)  the day that is the last day of the period referred to in paragraph 61BR(1)(h);
-
-                     (b)  the day that is 7 days after the day the person was given notice of the Authority’s decision not to extend.
-
-             (5)  The Authority may extend the period more than once under subsection (2).
-
-##### <a id="61BT"></a>61BT  Withdrawal of an infringement notice
-
-Representations seeking withdrawal of notice
-
-             (1)  A person to whom an infringement notice has been given may make written representations to the Authority seeking the withdrawal of the notice.
-
-Withdrawal of notice
-
-             (2)  The Authority may withdraw an infringement notice given to a person (whether or not the person has made written representations seeking the withdrawal).
-
-             (3)  When deciding whether or not to withdraw an infringement notice (the **_relevant infringement notice_**), the Authority:
-
-                     (a)  must take into account any written representations seeking the withdrawal that were given by the person to the Authority; and
-
-                     (b)  may take into account the following:
-
-                              (i)  whether a court has previously imposed a penalty on the person for a contravention of a civil penalty provision;
-
-                             (ii)  the circumstances of the alleged contravention;
-
-                            (iii)  whether the person has paid an amount, stated in an earlier infringement notice, for a contravention of a civil penalty provision if the contravention is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention in the relevant infringement notice;
-
-                            (iv)  any other matter the Authority considers relevant.
-
-Notice of withdrawal
-
-             (4)  Notice of the withdrawal of the infringement notice must be given to the person. The withdrawal notice must state:
-
-                     (a)  the person’s name and address; and
-
-                     (b)  the day the infringement notice was given; and
-
-                     (c)  the identifying number of the infringement notice; and
-
-                     (d)  that the infringement notice is withdrawn; and
-
-                     (e)  that:
-
-                              (i)  if the provision is an offence provision and does not also constitute a civil penalty provision—the person may be prosecuted in a court for the alleged contravention; or
-
-                             (ii)  if the provision is an offence provision and can also constitute a civil penalty provision—the person may be prosecuted in a court, or proceedings seeking a civil penalty order may be brought, in relation to the alleged contravention; or
-
-                            (iii)  if the provision is a civil penalty provision—proceedings seeking a civil penalty order may be brought in relation to the alleged contravention.
-
-Refund of amount if infringement notice withdrawn
-
-             (5)  If:
-
-                     (a)  the Authority withdraws the infringement notice; and
-
-                     (b)  the person has already paid the amount stated in the notice;
-
-the Commonwealth must refund to the person an amount equal to the amount paid.
-
-##### <a id="61BU"></a>61BU  Effect of payment of amount
-
-             (1)  If the person to whom an infringement notice for an alleged contravention of a civil penalty provision is given pays the amount stated in the notice before the end of the period referred to in paragraph 61BR(1)(h), then:
-
-                     (a)  any liability of the person for the alleged contravention is discharged; and
-
-                     (b)  either:
-
-                              (i)  if the provision is an offence provision—the person may not be prosecuted in a court for the alleged contravention; or
-
-                             (ii)  if the provision is a civil penalty provision—proceedings seeking a civil penalty order may not be brought against the person in relation to the alleged contravention; and
-
-                     (c)  the person is not regarded as having admitted guilt or liability for the alleged contravention; and
-
-                     (d)  if the provision is an offence provision—the person is not regarded as having been convicted of the alleged offence.
-
-             (2)  Subsection (1) does not apply if the notice has been withdrawn.
-
-##### <a id="61BV"></a>61BV  Effect of this Division
-
-                   This Division does not:
-
-                     (a)  require an infringement notice to be given to a person for an alleged contravention of a civil penalty provision; or
-
-                     (b)  affect the liability of a person for an alleged contravention of a civil penalty provision if:
-
-                              (i)  the person does not comply with an infringement notice given to the person for the contravention; or
-
-                             (ii)  an infringement notice is not given to the person for the contravention; or
-
-                            (iii)  an infringement notice is given to the person for the contravention and is subsequently withdrawn; or
-
-                     (c)  prevent the giving of 2 or more infringement notices to a person for an alleged contravention of a civil penalty provision; or
-
-                     (d)  limit the court’s discretion to determine the amount of a penalty to be imposed on a person who is found to have contravened a civil penalty provision.
-
-#### Subdivision B—Enforceable undertakings
-
-##### <a id="61BW"></a>61BW  Acceptance of undertakings
-
-             (1)  The Authority may accept any of the following undertakings:
-
-                     (a)  a written undertaking given by a person that the person will, in order to comply with a civil penalty provision, take specified action;
-
-                     (b)  a written undertaking given by a person that the person will, in order to comply with a civil penalty provision, refrain from taking specified action;
-
-                     (c)  a written undertaking given by a person that the person will take specified action directed towards ensuring that the person does not contravene a civil penalty provision, or is unlikely to contravene such a provision, in the future.
-
-             (2)  The undertaking must be expressed to be an undertaking under this section.
-
-             (3)  The person may withdraw or vary the undertaking at any time, but only with the written consent of the Authority.
-
-             (4)  The consent of the Authority is not a legislative instrument.
-
-             (5)  The Authority may, by written notice given to the person, cancel the undertaking.
-
-##### <a id="61BX"></a>61BX  Enforcement of undertakings
-
-             (1)  If:
-
-                     (a)  a person has given an undertaking under section 61BW; and
-
-                     (b)  the undertaking has not been withdrawn or cancelled; and
-
-                     (c)  the Authority considers that the person has breached the undertaking;
-
-the Authority may apply to a relevant court for an order under subsection (2).
-
-             (2)  If the relevant court is satisfied that the person has breached the undertaking, the court may make any or all of the following orders:
-
-                     (a)  an order directing the person to comply with the undertaking;
-
-                     (b)  an order directing the person to pay to the Commonwealth an amount up to the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach;
-
-                     (c)  any order that the court considers appropriate directing the person to compensate any other person who has suffered loss or damage as a result of the breach;
-
-                     (d)  any other order that the court considers appropriate.
-
-#### Subdivision C—Injunctions
-
-##### <a id="61BY"></a>61BY  Grant of injunctions
-
-Restraining injunctions
-
-             (1)  If a person has engaged, is engaging or is proposing to engage, in conduct in contravention of a civil penalty provision, a relevant court may, on application by the Authority, grant an injunction:
-
-                     (a)  restraining the person from engaging in the conduct; and
-
-                     (b)  if, in the court’s opinion, it is desirable to do so—requiring the person to do a thing.
-
-Performance injunctions
-
-             (2)  If:
-
-                     (a)  a person has refused or failed, or is refusing or failing, or is proposing to refuse or fail, to do a thing; and
-
-                     (b)  the refusal or failure was, is or would be a contravention of a civil penalty provision;
-
-the court may, on application by the Authority, grant an injunction requiring the person to do that thing.
-
-##### <a id="61BZ"></a>61BZ  Interim injunctions
-
-Grant of interim injunctions
-
-             (1)  Before deciding an application for an injunction under section 61BY, a relevant court may grant an interim injunction:
-
-                     (a)  restraining a person from engaging in conduct; or
-
-                     (b)  requiring a person to do a thing.
-
-No undertakings as to damages
-
-             (2)  The court must not require an applicant for an injunction under section 61BY to give an undertaking as to damages as a condition of granting an interim injunction.
-
-##### <a id="61BZA"></a>61BZA  Discharging or varying injunctions
-
-                   A relevant court may discharge or vary an injunction granted by that court under this Division.
-
-##### <a id="61BZB"></a>61BZB  Certain limits on granting injunctions not to apply
-
-Restraining injunctions
-
-             (1)  The power of a relevant court under this Division to grant an injunction restraining a person from engaging in conduct may be exercised:
-
-                     (a)  whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; and
-
-                     (b)  whether or not the person has previously engaged in conduct of that kind; and
-
-                     (c)  whether or not there is an imminent danger of substantial damage to any other person if the person engages in conduct of that kind.
-
-Performance injunctions
-
-             (2)  The power of a relevant court under this Division to grant an injunction requiring a person to do a thing may be exercised:
-
-                     (a)  whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that thing; and
-
-                     (b)  whether or not the person has previously refused or failed to do that thing; and
-
-                     (c)  whether or not there is an imminent danger of substantial damage to any other person if the person refuses or fails to do that thing.
-
-##### <a id="61BZC"></a>61BZC  Other powers of a relevant court unaffected
-
-                   The powers conferred on a relevant court under this Division are in addition to, and not instead of, any other powers of the court, whether conferred by this Act or otherwise.
-
-### Division 3—Civil jurisdiction of courts
-
-##### <a id="61BZD"></a>61BZD  Civil jurisdiction of courts
-
-             (1)  Jurisdiction is conferred on a court referred to in an item in the following table in relation to civil matters arising under this Part, subject to the limits on the court’s jurisdiction (if any) specified in the item:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Civil jurisdiction of courts</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Court on which civil jurisdiction is conferred</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Limits of jurisdiction</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>The Federal Court of Australia</div>
-  </td>
-  <td>
-    <div>No specified limits.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>The Federal Magistrates Court</div>
-  </td>
-  <td>
-    <div>No specified limits.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>A superior court, or lower court, of a State or Territory</div>
-  </td>
-  <td>
-    <div>The court’s general jurisdictional limits, including limits as to locality
-      and subject matter.</div>
-  </td>
-</tr></table>
-
-             (2)  Jurisdiction is conferred on the courts of a Territory only to the extent that the Constitution permits.
-
-             (3)  Section 15C of the _Acts Interpretation Act 1901_ does not apply to civil proceedings under this Part.
+                   A person shall not make or cause to be made a false entry in the Register.
 
 ## Part VI—Miscellaneous
 
@@ -2586,9 +1270,9 @@ Performance injunctions
 
                      (a)  in relation to an Australian‑owned ship—the registered owner of the ship;
 
-                     (b)  in relation to a ship, other than an Australian‑owned ship, registered by virtue of paragraph 14(b) or 15B(b)—the registered owner of the ship; or
+                     (b)  in relation to a ship, other than an Australian‑owned ship, registered by virtue of paragraph 14(b)—the registered owner of the ship; or
 
-                     (c)  in relation to a ship, other than an Australian‑owned ship, registered by virtue of paragraph 14(c) 14(d), 15B(c) or 15B(d)—the registered agent of the ship.
+                     (c)  in relation to a ship, other than an Australian‑owned ship, registered by virtue of paragraph 14(c) or a ship registered by virtue of paragraph 14(d)—the registered agent of the ship.
 
 ##### <a id="63"></a>63  Liabilities of ships not registered
 
@@ -2610,11 +1294,11 @@ a ship to which subsection (1) applies shall be dealt with in the same manner 
 
 ##### <a id="64"></a>64  Registered agent
 
-             (1)  There must be entered in the General Register or International Register, in respect of every ship registered in that register, the name and address of the person who is to be the registered agent of the ship, being a person who is, for the time being:
+             (1)  There shall be entered in the Register in respect of every registered ship the name and address of the person who is to be the registered agent of the ship, being a person who is, for the time being:
 
-                     (a)  in the case of a ship referred to in paragraph 14(c) or 15B(c)—the operator or one of the operators of the ship;
+                     (a)  in the case of a ship referred to in paragraph 14(c)—the operator or one of the operators of the ship;
 
-                     (b)  in the case of a ship referred to in paragraph 14(d) or 15B(d)—the charterer or one of the charterers of the ship;
+                     (b)  in the case of a ship referred to in paragraph 14(d)—the charterer or one of the charterers of the ship;
 
                      (c)  in the case of a ship without a managing owner (other than a ship referred to in paragraph (a) or (b))—the person or one of the persons who is a ship’s agent in respect of the ship or a person having the management of the ship; or
 
@@ -2622,11 +1306,11 @@ a ship to which subsection (1) applies shall be dealt with in the same manner 
 
 and, upon the name and address of that person being so entered, the person shall be, for all purposes of this Act, the registered agent of that ship.
 
-          (1A)  Where a ship is registered pursuant to an application under section 15 or 15C, the name and address of the first person to be the registered agent of the ship must be entered in the relevant register forthwith after the registration of the ship.
+          (1A)  Where a ship is registered pursuant to an application under section 15, the name and address of the first person to be the registered agent of the ship shall be entered in the Register forthwith after the registration of the ship.
 
              (2)  Where a change occurs in the person, or the address of the person, referred to in subsection (1) in relation to a registered ship:
 
-                     (a)  in the case of a ship to which paragraph (1)(a) or (b) applies—the person whose name appears in the relevant register; or
+                     (a)  in the case of a ship to which paragraph (1)(a) or (b) applies—the person whose name appears in the Register; or
 
                      (b)  in any other case—the owner of the ship;
 
@@ -2648,7 +1332,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
 ##### <a id="65"></a>65  Alterations to ships
 
-             (1)  Where a registered ship is so altered as not to correspond with the particulars relating to the ship’s tonnage or description contained in the relevant register, the registered agent shall give notice of the alteration, in such manner, and within such time, as are prescribed:
+             (1)  Where a registered ship is so altered as not to correspond with the particulars relating to the ship’s tonnage or description contained in the Register, the registered agent shall give notice of the alteration, in such manner, and within such time, as are prescribed:
 
                      (a)  if the alteration is made at a foreign port at which there is a proper officer—to the proper officer at that port;
 
@@ -2660,7 +1344,7 @@ and:
 
                      (d)  where a notice of alteration is so given to a proper officer—the proper officer shall, subject to the regulations, grant a provisional registration certificate in respect of the ship in accordance with the prescribed form; or
 
-                     (e)  where a notice of alteration is so given to the Registrar—the Registrar shall, subject to the application of sections 16 and 26 as if the ship were not a registered ship, enter the alteration in the relevant register in accordance with the regulations and grant a new registration certificate in respect of the ship.
+                     (e)  where a notice of alteration is so given to the Registrar—the Registrar shall, subject to the application of sections 16 and 26 as if the ship were not a registered ship, enter the alteration in the Register in accordance with the regulations and grant a new registration certificate in respect of the ship.
 
              (2)  Subject to subsection (4), a provisional registration certificate granted in respect of a ship under subsection (1) has the same effect as a registration certificate until:
 
@@ -2676,7 +1360,7 @@ whichever first happens.
 
              (5)  The person who has possession of a provisional registration certificate granted in respect of a ship under subsection (1) shall, within 10 days after the ship first arrives at an Australian port after the grant, lodge the certificate with the Registrar.
 
-             (6)  Upon lodgment of a provisional registration certificate under subsection (5), the Registrar shall, subject to the application of sections 16 and 26 as if the ship were not a registered ship, enter the alteration in the relevant register in accordance with the regulations and grant a new registration certificate in respect of the ship.
+             (6)  Upon lodgment of a provisional registration certificate under subsection (5), the Registrar shall, subject to the application of sections 16 and 26 as if the ship were not a registered ship, enter the alteration in the Register in accordance with the regulations and grant a new registration certificate in respect of the ship.
 
              (7)  Where a notice is not given in respect of a ship within a particular time as required by subsection (1), the obligation to give notice as required by that subsection continues, notwithstanding that that time has passed, until that notice is so given.
 
@@ -2688,17 +1372,9 @@ whichever first happens.
 
 ##### <a id="66"></a>66  Ships lost etc. or ceasing to be entitled to be registered
 
-             (1)  If:
+             (1)  if:
 
-                     (a)  a ship registered in the General Register or International Register:
-
-                              (i)  is lost (whether actually or constructively); or
-
-                             (ii)  is taken by an enemy; or
-
-                            (iii)  is burnt or broken up; or
-
-                            (iv)  ceases to be entitled to be registered in that register; and
+                     (a)  a registered ship is lost (whether actually or constructively), taken by an enemy, burnt or broken up or ceases to be entitled to be registered; and
 
                      (b)  the owner of the ship knows of the event mentioned in paragraph (a);
 
@@ -2706,13 +1382,13 @@ the owner of the ship must give notice in writing to the Registrar.
 
           (1A)  Subsection (1) does not apply if written notice has already been given to the Registrar.
 
-             (2)  Where the Registrar receives a notice under subsection (1) relating to a ship, he or she shall make an entry in the relevant register of the event to which the notice relates.
+             (2)  Where the Registrar receives a notice under subsection (1) relating to a ship, he or she shall make an entry in the Register of the event to which the notice relates.
 
-             (3)  Where an entry has been made in the relevant register under subsection (2) in respect of a ship:
+             (3)  Where an entry has been made in the Register under subsection (2) in respect of a ship:
 
                      (a)  if the entry is in respect of a ship that has been lost (whether actually or constructively), taken by an enemy, burnt or broken up—the registration of the ship shall be deemed to be closed; and
 
-                     (b)  if the entry is in respect of a ship that has ceased to be entitled to be registered in the relevant register—the registration of the ship shall, subject to this section, be deemed to be closed.
+                     (b)  if the entry is in respect of a ship that has ceased to be entitled to be registered—the registration of the ship shall, subject to this section, be deemed to be closed.
 
            (10)  Where the registration of a ship is closed or deemed to be closed under this section, the person having possession of the registration certificate or provisional registration certificate relating to the ship shall deliver the certificate to the Registrar or a proper officer in accordance with the regulations.
 
@@ -2874,13 +1550,13 @@ knowing it to be false or misleading in a material particular.
 
              (1)  A document declared by this Act (including subsection (4)) to be admissible in evidence is, on mere production, admissible in evidence in any proceedings as _prima facie_ evidence of any matter stated in the document in pursuance of this Act or in pursuance of any duty under this Act and of the fact that it was signed by the person by whom it purports to be signed.
 
-             (2)  The Registrar or a Deputy Registrar may, subject to this Act, supply copies of, or extracts from, any entry in the General Register or International Register, or any document forming part of or associated with the General Register or International Register, and certify them by writing signed by him or her and sealed with the seal of the Registration Office.
+             (2)  The Registrar or a Deputy Registrar may, subject to this Act, supply copies of, or extracts from, any entry in the Register or any document forming part of or associated with the Register, and certify them by writing signed by him or her and sealed with the seal of the Registration Office.
 
              (3)  The person to whose custody a document referred to in subsection (1) (other than a copy or extract referred to in subsection (2)) is entrusted shall, upon payment of the prescribed fee, supply a copy of, or extract from, the document, certified by writing signed by him or her, to any person applying for such a copy or extract.
 
              (4)  A document purporting to be a copy or extract supplied under subsection (2) or (3) is admissible in evidence.
 
-##### <a id="78"></a>78  AAT review of certain decisions
+##### <a id="78"></a>78  Review of certain decisions
 
              (1)  In this section, **_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
@@ -2895,16 +1571,6 @@ knowing it to be false or misleading in a material particular.
              (3)  Where the Authority, the Registrar or a proper officer makes a decision referred to in subsection (2) and gives to a person whose interests are affected by the decision notice in writing of the decision, that notice shall include a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_, an application may be made to the Administrative Appeals Tribunal for review of the decision by or on behalf of any person whose interests are affected by the decision.
 
              (4)  Any failure to comply with the requirements of subsection (3) in relation to a decision does not affect the validity of the decision.
-
-##### <a id="78A"></a>78A  Internal review of certain decisions
-
-             (1)  An application may be made to the Chief Executive Officer of the Authority for review of a decision made by the Registrar under:
-
-                     (a)  subsection 15F(1) (which is about the registration of ships in the International Register); or
-
-                     (b)  subsection 33B(1) (which is about cancelling the registration of ships in the International Register).
-
-             (2)  The regulations may make provision for review under this section.
 
 ##### <a id="79"></a>79  Preservation of State and Territory legislation
 
@@ -2942,9 +1608,9 @@ knowing it to be false or misleading in a material particular.
 
                      (b)  the documents and information to be furnished by applicants in connection with, or in support of, applications under this Act;
 
-                     (c)  the keeping of the Registers and copies of the Registers, or a part or parts of the Registers;
+                     (c)  the keeping of the Register and copies of the Register, or a part or parts of the Register;
 
-                     (d)  the entries to be made in the Registers;
+                     (d)  the entries to be made in the Register;
 
                      (e)  the manner in which, and the time within which, documents and information are to be lodged, including provision empowering the Registrar:
 
@@ -2952,7 +1618,7 @@ knowing it to be false or misleading in a material particular.
 
                              (ii)  to treat any document or information as not having been lodged until it is in accordance with the requirements of this Act;
 
-                      (f)  the registration (whether by way of entry in the General Register or International Register or otherwise) of documents and information;
+                      (f)  the registration (whether by way of entry in the Register or otherwise) of documents and information;
 
                      (g)  the re‑registration of ships entitled to be registered, the registration of which under this Act, or under the previous law, has been closed;
 
@@ -2986,7 +1652,9 @@ knowing it to be false or misleading in a material particular.
 
                             (iii)  the registration and re‑registration of ships;
 
-                            (iv)  the issue of registration certificates, provisional registration certificates and temporary passes;
+                            (iv)  the issue of registration certificates, provisional registration certificates and temporary passes; and
+
+                             (v)  the supplying of copies of, or extracts from, entries in the Register or documents forming part of, or associated with, the Register;
 
                      (u)  the conduct of any business relating to the Registration Office;
 
@@ -2998,13 +1666,7 @@ knowing it to be false or misleading in a material particular.
 
              (3)  The regulations may provide that a specified provision of this Act does not apply, or applies with specified modifications, in relation to Government ships.
 
-             (5)  The regulations may:
-
-                     (a)  provide for offences against the regulations; and
-
-                     (b)  provide for civil penalties for contraventions of the regulations.
-
-          (5A)  The penalties for offences or civil penalties referred to in subsection (5) must not be more than 50 penalty units for an individual or 250 penalty units for a body corporate.
+             (5)  The regulations may provide, in respect of an offence against the regulations, for the imposition of a fine not exceeding $500.
 
              (6)  The power to make regulations conferred by this Act shall not be taken, by implication, not to include the power to make provision for or in relation to a matter by reason only of the fact that:
 
@@ -3582,24 +2244,6 @@ Schedule 4 (item 6): 6 Oct 2006</div>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Shipping Registration Amendment (Australian International Shipping Register) Act 2012</div>
-  </td>
-  <td>
-    <div>54, 2012</div>
-  </td>
-  <td>
-    <div>21 June 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedules 1–3: 1 July 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-97–104) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3802,28 +2446,12 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001; No. 131, 2009; No. 4, 2010; No. 54, 2012</div>
+    <div>am. No. 16, 1984; No. 141, 1987; No. 127, 1988; No. 78, 1990; No. 43, 1996; No. 146, 1999; No. 143, 2001; No. 131, 2009; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
+    <div>Ss. 9, 10</div>
   </td>
   <td>
     <div>am. No. 16, 1984</div>
@@ -3847,14 +2475,6 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part II</b></div>
   </td>
   <td>
@@ -3871,27 +2491,10 @@ _(j)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of 
-Div. 1 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 78, 1990; No. 143, 2001; No. 54, 2012</div>
+    <div>am. No. 141, 1987; No. 78, 1990; No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3904,165 +2507,10 @@ Div. 1 of Part II</div>
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B of 
-Div. 1 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. C of Div. 1 of 
-Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15B</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15C</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15D</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. D of 
-Div. 1 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15E</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15F</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4118,7 +2566,7 @@ Div. 1 of Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 43, 1996; No. 54, 2012</div>
+    <div>am. No. 76, 1986; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4158,7 +2606,7 @@ Div. 1 of Part II</div>
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 54, 2012</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4174,7 +2622,7 @@ Div. 1 of Part II</div>
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 143, 2001; No. 54, 2012</div>
+    <div>am. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4183,70 +2631,6 @@ Div. 1 of Part II</div>
   </td>
   <td>
     <div>rs. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 of Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33B</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33C</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4275,18 +2659,10 @@ Div. 1 of Part II</div>
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
+    <div>Ss. 36, 37</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1984; No. 54, 2012</div>
+    <div>am. No. 16, 1984</div>
   </td>
 </tr>
 <tr>
@@ -4387,22 +2763,6 @@ Div. 1 of Part II</div>
 </tr>
 <tr>
   <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47</div>
   </td>
   <td>
@@ -4411,7 +2771,7 @@ Div. 1 of Part II</div>
 </tr>
 <tr>
   <td>
-    <div>S. 47A</div>
+    <div>Ss. 47A, 47B</div>
   </td>
   <td>
     <div>ad. No. 16, 1984</div>
@@ -4422,23 +2782,7 @@ Div. 1 of Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 43, 1996; No. 131, 2009; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47B</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 76, 1986; No. 43, 1996; No. 131, 2009; No. 54, 2012</div>
+    <div>am. No. 76, 1986; No. 43, 1996; No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4454,7 +2798,7 @@ Div. 1 of Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 193, 1985; No. 54, 2012</div>
+    <div>am. No. 193, 1985</div>
   </td>
 </tr>
 <tr>
@@ -4470,7 +2814,7 @@ Div. 1 of Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 131, 2009; No. 54, 2012</div>
+    <div>am. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4494,7 +2838,7 @@ Div. 1 of Part II</div>
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 78, 1990; No. 43, 1996; No. 54, 2012</div>
+    <div>am. No. 63, 1984; No. 78, 1990; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4502,7 +2846,7 @@ Div. 1 of Part II</div>
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 54, 2012</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4555,34 +2899,10 @@ Div. 1 of Part II</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part V</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 56</div>
   </td>
   <td>
     <div>am. No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 57</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4598,23 +2918,7 @@ Div. 1 of Part II</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2010; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 57(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 58</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4622,7 +2926,7 @@ Div. 1 of Part II</div>
     <div>S. 58</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996; No. 131, 2009; No. 54, 2012</div>
+    <div>am. No. 16, 1984; No. 78, 1990; No. 43, 1996; No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4630,15 +2934,7 @@ Div. 1 of Part II</div>
     <div>Heading to s. 59</div>
   </td>
   <td>
-    <div>rs. No. 131, 2009; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
+    <div>rs. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4651,562 +2947,10 @@ Div. 1 of Part II</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 60</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 61</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. No. 143, 2001; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AB</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AC</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AD</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AE</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AF</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AG</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AH</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AI</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AJ</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AK</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AL</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AM</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AN</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AO</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VB</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VB</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BB</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BC</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BD</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BE</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BF</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BG</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BH</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BI</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BJ</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BK</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BL</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BM</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BN</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BO</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BP</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BQ</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BR</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BS</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BT</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BU</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BV</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BW</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BX</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BY</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BZ</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BZA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BZB</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BZC</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61BZD</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
+    <div>am. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5222,7 +2966,7 @@ Div. 1 of Part II</div>
     <div>S. 62</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 54, 2012</div>
+    <div>am. No. 141, 1987</div>
   </td>
 </tr>
 <tr>
@@ -5230,7 +2974,7 @@ Div. 1 of Part II</div>
     <div>S. 64</div>
   </td>
   <td>
-    <div>am. No. 16, 1984 (as am. by No. 165, 1984); No. 143, 2001; No. 54, 2012</div>
+    <div>am. No. 16, 1984 (as am. by No. 165, 1984); No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5238,7 +2982,7 @@ Div. 1 of Part II</div>
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 43, 1996; No. 54, 2012</div>
+    <div>am. No. 16, 1984; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -5246,7 +2990,7 @@ Div. 1 of Part II</div>
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001; No. 24, 2006; No. 131, 2009; No. 54, 2012</div>
+    <div>am. No. 16, 1984; No. 43, 1996; No. 143, 2001; No. 24, 2006; No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5318,15 +3062,7 @@ Div. 1 of Part II</div>
     <div>S. 77</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 78</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 2012</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -5335,14 +3071,6 @@ Div. 1 of Part II</div>
   </td>
   <td>
     <div>am. No. 39, 1983; No. 16, 1984; No. 78, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5366,7 +3094,7 @@ Div. 1 of Part II</div>
     <div>S. 83</div>
   </td>
   <td>
-    <div>am. No. 46, 2011; No. 54, 2012</div>
+    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5486,115 +3214,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Shipping Registration Amendment (Australian International Shipping Register) Act 2012 (No. 54, 2012)_
-
-## Schedule 1
-
-## 97  Interpretation
-
-In this Part:
-
-**_commencement_** means the day this Schedule commences.
-
-**_Registration Act_** means the _Shipping Registration Act 1981_.
-
-## 98  Application of Part 1
-
-(1)       The amendments made by Part 1 of this Schedule apply on and after commencement in relation to:
-
-                     (a)  ships that are registered immediately before commencement; and
-
-                     (b)  ships that are registered, or that are required or permitted to be registered, on or after commencement.
-
-(2)       In addition, the amendment made by item 22 applies on and after commencement in relation to applications to register a ship that are made before, on or after commencement.
-
-## 99  Transitioning the Register, registration and certificates
-
-(1)       The register known as the Australian Register of Ships that was in existence under section 56 of the Registration Act immediately before commencement continues in existence (and may be dealt with) as if it were the Australian General Shipping Register referred to in subsection 56(1) of that Act (as amended by this Schedule).
-
-(2)       If, immediately before commencement, a ship is registered in the Australian Register of Ships under section 18 of the Registration Act, then the registration of the ship continues in effect (and may be dealt with) as if the ship were registered in the Australian General Shipping Register under section 15E of that Act (as amended by this Schedule).
-
-(3)       A reference to “the Australian Register of Ships” in:
-
-                     (a)  a registration certificate granted before commencement under section 19 or 21 of the Registration Act; or
-
-                     (b)  a provisional registration certificate granted before commencement under section 21, 22 or 22A of the Registration Act;
-
-is taken, on and after commencement, to be a reference to “the Australian General Shipping Register”.
-
-## 100  Transitioning applications for registration
-
-If, before commencement:
-
-                     (a)  an application had been made in accordance with section 15 of the Registration Act to register a ship; and
-
-                     (b)  the Registrar had not made a decision on the application;
-
-then the application is taken to have been made in accordance with section 15 of that Act (as amended by this Schedule).
-
-## 101  Saving of regulations relating to registration
-
-Regulations relating to applications for registration
-
-(1)       Despite the repeal of section 15 of the Registration Act  by item 24 of this Schedule, regulations that:
-
-                     (a)  were made for the purposes of that section; and
-
-                     (b)  were in force immediately before commencement;
-
-continue in force (and may be dealt with) as if they had been made for the purposes of section 15 of that Act (as amended by this Schedule).
-
-Regulations relating to entry of particulars in the Register
-
-(2)       Despite the repeal of section 18 of the Registration Act  by item 29 of this Schedule, regulations that:
-
-                     (a)  were made for the purposes of that section; and
-
-                     (b)  were in force immediately before commencement;
-
-continue in force (and may be dealt with) as if they had been made for the purposes of section 15E of that Act (as amended by this Schedule).
-
-Regulations relating to grant of registration certificate
-
-(3)       Despite the repeal of section 19 of the Registration Act  by item 30 of this Schedule, regulations that:
-
-                     (a)  were made for the purposes of that section; and
-
-                     (b)  were in force immediately before commencement;
-
-continue in force (and may be dealt with) as if they had been made for the purposes of paragraph 19(2)(c) of that Act (as amended by this Schedule).
-
-## 102  Saving of regulations providing for offences
-
-Despite the repeal of subsection 83(5) of the Registration Act  by item 96 of this Schedule, regulations that:
-
-                     (a)  were made for the purposes of that subsection; and
-
-                     (b)  were in force immediately before commencement;
-
-continue in force (and may be dealt with) as if they had been made for the purposes of subsection 83(5) of that Act (as amended by this Schedule).
-
-## 103  Saving of other regulations
-
-Despite the amendment of sections 37, 47A, 58 and 65 and subsection 83(2) of the Registration Act by this Schedule, regulations that:
-
-                     (a)  were made for the purposes of those provisions; and
-
-                     (b)  were in force immediately before commencement;
-
-continue in force (and may be dealt with) as if they had been made for the purposes of those provisions of that Act (as amended by this Schedule).
-
-## 104  Transitioning references to “the Register” in regulations
-
-A reference to “the Register” in regulations that:
-
-                     (a)  were made for the purposes of a provision of the Registration Act; and
-
-                     (b)  were in force immediately before commencement;
-
-is taken, on and after commencement, to be a reference to “the relevant Register”.
 
  
