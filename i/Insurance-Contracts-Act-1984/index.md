@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image001.gif)
 
 # Insurance Contracts Act 1984
 
 **Act No. 80 of 1984 as amended**
 
-This compilation was prepared on 1 May 2012
- taking into account amendments up to Act No. 41 of 2012
+This compilation was prepared on 14 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -88,7 +88,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part IV—Disclosures and misrepresentations** 
 
-    **Division 1—Insured’s duty of disclosure**
+    **Division 1—The duty of disclosure**
 
 [21](#21).          The insured’s duty of disclosure
 
@@ -96,7 +96,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Insurer to inform of duty of disclosure
 
-    **Division 2—Misrepresentations by insured**
+    **Division 2—Misrepresentations**
 
 [23](#23).          Ambiguous questions
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Failure to answer questions
 
-    **Division 3—Remedies for non‑disclosure and misrepresentations by insured**
+    **Division 3—Remedies for non-disclosure and misrepresentation**
 
 [28](#28).          General insurance
 
@@ -118,21 +118,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          Court may disregard avoidance in certain circumstances
 
-[32](#32).          Non‑disclosure or misrepresentation by member of scheme
+[32](#32).          Non-disclosure or misrepresentation by member of scheme
 
-[32A](#32A).       Non‑disclosure or misrepresentation by holder of RSA
+[32A](#32A).       Non-disclosure or misrepresentation by holder of RSA
 
 [33](#33).          No other remedies
-
-    **Division 4—Key Facts Sheets**
-
-[33A](#33A).       Application of this Division
-
-[33B](#33B).       What is a _Key Facts Sheet_?
-
-[33C](#33C).       Insurer’s obligation to provide Key Facts Sheet
-
-[33D](#33D).       Provision of Key Facts Sheet does not constitute clearly informing
 
 **Part V—The contract** 
 
@@ -145,18 +135,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [36](#36).          Interpretation of regulations
 
 [37](#37).          Notification of unusual terms
-
-    **Division 1A—Definition of flood**
-
-[37A](#37A).       Application of this Division
-
-[37B](#37B).       Meaning of _flood_ in prescribed contracts etc 
-
-[37C](#37C).       Insurer must clearly inform insured whether prescribed contract provides insurance cover in respect of flood
-
-[37D](#37D).       Circumstances in which prescribed contract is taken to provide insurance cover etc  in respect of flood
-
-[37E](#37E).        Division not to affect provision of insurance cover for certain events
 
     **Division 2—General provisions relating to insurance contracts**
 
@@ -176,9 +154,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          “Other insurance” provisions
 
-[46](#46).          Pre‑existing defect or imperfection
+[46](#46).          Pre-existing defect or imperfection
 
-[47](#47).          Pre‑existing sickness or disability
+[47](#47).          Pre-existing sickness or disability
 
 [48](#48).          Entitlement of named persons to claim
 
@@ -314,11 +292,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  of insurance entered into, or proposed to be entered into, by a private health insurer within the meaning of the _Private Health Insurance Act 2007_ in respect of its health insurance business within the meaning of Division 121 of that Act; or
 
-                   (ba)  of insurance entered into, or proposed to be entered into, by a private health insurer within the meaning of the _Private Health Insurance Act 2007_ in respect of its health‑related business within the meaning of section 131‑15 of that Act that is conducted through a health benefits fund (as defined by section 131‑10 of that Act); or
+                    (ba)  of insurance entered into, or proposed to be entered into, by a private health insurer within the meaning of the _Private Health Insurance Act 2007_ in respect of its health-related business within the meaning of section 131-15 of that Act that is conducted through a health benefits fund (as defined by section 131-10 of that Act); or
 
                      (c)  of insurance entered into, or proposed to be entered into, by a friendly society; or
 
-                    (ca)  of insurance entered into, or proposed to be entered into, by the Export Finance and Insurance Corporation, other than short‑term insurance contracts within the meaning of the _Export Finance and Insurance Corporation Act 1991_ that are entered into on or after the commencement of this paragraph; or
+                    (ca)  of insurance entered into, or proposed to be entered into, by the Export Finance and Insurance Corporation, other than short-term insurance contracts within the meaning of the _Export Finance and Insurance Corporation Act 1991_ that are entered into on or after the commencement of this paragraph; or
 
                      (d)  to or in relation to which the _Marine Insurance Act 1909_ applies; or
 
@@ -416,12 +394,6 @@ is to be ignored.
 
                     <a name="duti-utmost-good-faith"></a>**_duty of the utmost good faith_** means the duty referred to in section 13.
 
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
                     <a name="friendli-societi"></a>**_friendly society_** means:
 
                      (a)  a body that is a friendly society for the purposes of the _Life Insurance Act 1995_; or
@@ -466,8 +438,6 @@ and includes, in relation to an interim contract of insurance, a document of the
 
                     <a name="rsa-provid"></a>**_RSA provider_** has the same meaning as in the _Retirement Savings Accounts Act 1997_.
 
-                    <a name="act"></a>**_this Act_** includes the regulations.
-
                     <a name="write"></a>**_writing_** means writing in the English language or in another language agreed between the insurer and the insured.
 
              (2)  For the purposes of this Act, an interim contract of insurance is a contract of insurance that is intended by the insurer:
@@ -502,11 +472,11 @@ whether or not the contract is evidenced by a document of the kind usually known
 
            (10)  Notwithstanding subsection (9):
 
-                     (a)  subject to paragraph (c), where, after the commencement of this Act and at or before the original entering into, or the renewal, extension or reinstatement, of a contract of insurance, the insurer has given information to the insured as required by section 22, 35, 37, 37C, 40, 44, 49 or 68, the requirement by that section to give information to the insured shall be deemed to be satisfied at or before any subsequent renewal, extension or reinstatement of the contract;
+                     (a)  subject to paragraph (c), where, after the commencement of this Act and at or before the original entering into, or the renewal, extension or reinstatement, of a contract of insurance, the insurer has given information to the insured as required by section 22, 35, 37, 40, 44, 49 or 68, the requirement by that section to give information to the insured shall be deemed to be satisfied at or before any subsequent renewal, extension or reinstatement of the contract;
 
                      (b)  sections 22 and 40 do not require an insurer to give information to the insured at or before a variation of the relevant contract of insurance except where the variation is involved in a renewal, extension or reinstatement of the contract; and
 
-                     (c)  sections 35, 37, 37C, 44, 49 and 68 require an insurer to give information to the insured at or before a variation of the relevant contract of insurance, but only to the extent that the information relates to the provision or provisions varied or proposed to be varied.
+                     (c)  sections 35, 37, 44, 49 and 68 require an insurer to give information to the insured at or before a variation of the relevant contract of insurance, but only to the extent that the information relates to the provision or provisions varied or proposed to be varied.
 
            (11)  Where a provision of this Act requires anything to be done before a particular contract is entered into, it is sufficient compliance with that provision if that thing is done at the time when the contract is entered into.
 
@@ -666,11 +636,11 @@ but does not include relief in the form of compensatory damages.
 
 ##### <a id="16"></a>16  Insurable interest not required
 
-             (1)  A contract of general insurance is not void by reason only that the insured did not have, at the time when the contract was entered into, an interest in the subject‑matter of the contract.
+             (1)  A contract of general insurance is not void by reason only that the insured did not have, at the time when the contract was entered into, an interest in the subject-matter of the contract.
 
 ##### <a id="17"></a>17  Legal or equitable interest not required at time of loss
 
-                   Where the insured under a contract of general insurance has suffered a pecuniary or economic loss by reason that property the subject‑matter of the contract has been damaged or destroyed, the insurer is not relieved of liability under the contract by reason only that, at the time of the loss, the insured did not have an interest at law or in equity in the property.
+                   Where the insured under a contract of general insurance has suffered a pecuniary or economic loss by reason that property the subject-matter of the contract has been damaged or destroyed, the insurer is not relieved of liability under the contract by reason only that, at the time of the loss, the insured did not have an interest at law or in equity in the property.
 
 ### Division 2—Other contracts of insurance
 
@@ -682,7 +652,7 @@ but does not include relief in the form of compensatory damages.
 
                      (b)  a contract that provides for the payment of money on the death of a person by sickness or accident.
 
-             (2)  A contract to which this section applies is not void by reason only that the insured did not have, at the time when the contract was entered into, an interest in the subject‑matter of the contract.
+             (2)  A contract to which this section applies is not void by reason only that the insured did not have, at the time when the contract was entered into, an interest in the subject-matter of the contract.
 
 ### Division 3—Naming of persons benefited
 
@@ -692,7 +662,7 @@ but does not include relief in the form of compensatory damages.
 
 ## Part IV—Disclosures and misrepresentations
 
-### Division 1—Insured’s duty of disclosure
+### Division 1—The duty of disclosure
 
 ##### <a id="21"></a>21  The insured’s duty of disclosure
 
@@ -798,7 +768,7 @@ Definition
 
              (3)  An insurer who has not complied with subsection (1) may not exercise a right in respect of a failure to comply with the duty of disclosure unless that failure was fraudulent.
 
-### Division 2—Misrepresentations by insured
+### Division 2—Misrepresentations
 
 ##### <a id="23"></a>23  Ambiguous questions
 
@@ -834,7 +804,7 @@ that meaning shall, in relation to the person who made the statement, be deemed 
 
                    A person shall not be taken to have made a misrepresentation by reason only that the person failed to answer a question included in a proposal form or gave an obviously incomplete or irrelevant answer to such a question.
 
-### Division 3—Remedies for non‑disclosure and misrepresentations by insured
+### Division 3—Remedies for non-disclosure and misrepresentation
 
 ##### <a id="28"></a>28  General insurance
 
@@ -870,7 +840,7 @@ but does not apply where:
 
              (4)  If the insurer has not avoided the contract, whether under subsection (2) or (3) or otherwise, the insurer may, by notice in writing given to the insured before the expiration of 3 years after the contract was entered into, vary the contract by substituting for the sum insured (including any bonuses) a sum that is not less than the sum ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image002.gif)
 
 where:
 
@@ -888,7 +858,7 @@ where:
 
              (1)  In this section, **_the standard formula_**, in relation to a contract of life insurance means the formula
 
-![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image002.gif)
 
 where:
 
@@ -928,7 +898,7 @@ but may also have regard to any other relevant matter.
 
              (4)  The power conferred by subsection (1) applies only in relation to the loss that is the subject of the proceedings before the court, and any disregard by the court of the avoidance does not otherwise operate to reinstate the contract.
 
-##### <a id="32"></a>32  Non‑disclosure or misrepresentation by member of scheme
+##### <a id="32"></a>32  Non-disclosure or misrepresentation by member of scheme
 
                    This Division extends to the case where there was a failure to comply with the duty of disclosure, or a misrepresentation was made, to the insurer under a blanket superannuation contract in respect of a proposed member of the relevant superannuation or retirement scheme as though:
 
@@ -936,7 +906,7 @@ but may also have regard to any other relevant matter.
 
                      (b)  that contract had been entered into at the time when the proposed member became a member of the scheme.
 
-##### <a id="32A"></a>32A  Non‑disclosure or misrepresentation by holder of RSA
+##### <a id="32A"></a>32A  Non-disclosure or misrepresentation by holder of RSA
 
                    This Division extends to the case where there was a failure to comply with the duty of disclosure, or a misrepresentation was made, to the insurer in relation to a holder, or a person applying to become a holder, of an RSA as though:
 
@@ -947,56 +917,6 @@ but may also have regard to any other relevant matter.
 ##### <a id="33"></a>33  No other remedies
 
                    The provisions of this Division are exclusive of any right that the insurer has otherwise than under this Act in respect of a failure by the insured to disclose a matter to the insurer before the contract was entered into and in respect of a misrepresentation or incorrect statement.
-
-### Division 4—Key Facts Sheets
-
-##### <a id="33A"></a>33A  Application of this Division
-
-                   This Division applies in relation to:
-
-                     (a)  a contract of insurance (in this Division called a **_prescribed contract_**) that is included in a class of contracts of insurance declared by the regulations to be a class of contracts in relation to which this Division applies; and
-
-                     (b)  a proposed or possible contract of insurance (in this Division called a **_potential prescribed contract_**) that would, if entered into, be a prescribed contract.
-
-##### <a id="33B"></a>33B  What is a _Key Facts Sheet_?
-
-                   For the purposes of this Division, a **_Key Facts Sheet_** for a prescribed contract, or a potential prescribed contract, is a document:
-
-                     (a)  that contains the information relating to the prescribed contract, or the potential prescribed contract, that is required by the regulations; and
-
-                     (b)  that complies with any other requirements prescribed by the regulations.
-
-##### <a id="33C"></a>33C  Insurer’s obligation to provide Key Facts Sheet
-
-             (1)  An insurer must provide a Key Facts Sheet for a prescribed contract, or a potential prescribed contract, in the circumstances, and in the manner, prescribed by the regulations.
-
-             (2)  Regulations made for the purposes of subsection (1) may prescribe circumstances in which a Key Facts Sheet may or must be provided by electronic means. The regulations have effect despite subsection 77(1).
-
-             (3)  The regulations may prescribe exceptions to the requirement in subsection (1).
-
-Note:          A defendant bears an evidential burden in relation to a matter prescribed for the purposes of subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
-
-             (4)  The following provisions do not apply in relation to the requirement in subsection (1):
-
-                     (a)  subsection 11(11);
-
-                     (b)  section 69.
-
-Offence
-
-             (5)  An insurer commits an offence if:
-
-                     (a)  the insurer is subject to a requirement under subsection (1); and
-
-                     (b)  the insurer engages in conduct; and
-
-                     (c)  the conduct contravenes the requirement.
-
-                    Penalty:  150 penalty units.
-
-##### <a id="33D"></a>33D  Provision of Key Facts Sheet does not constitute clearly informing
-
-                   For the purposes of this Act, the provision by an insurer of a Key Facts Sheet to a person does not constitute clearly informing the person of the matters contained in the Key Facts Sheet.
 
 ## Part V—The contract
 
@@ -1044,70 +964,6 @@ the insurer may not refuse to pay an amount equal to the minimum amount in relat
 
                    An insurer may not rely on a provision included in a contract of insurance (not being a prescribed contract) of a kind that is not usually included in contracts of insurance that provide similar insurance cover unless, before the contract was entered into the insurer clearly informed the insured in writing of the effect of the provision (whether by providing the insured with a document containing the provisions, or the relevant provisions, of the proposed contract or otherwise).
 
-### Division 1A—Definition of flood
-
-##### <a id="37A"></a>37A  Application of this Division
-
-             (1)  This Division applies in relation to a contract of insurance (in this Division called a **_prescribed contract_**) if:
-
-                     (a)  the contract is included in a class of contracts of insurance declared by the regulations to be a class of contracts in relation to which this Division applies; and
-
-                     (b)  the contract was entered into after the day on which those regulations were made.
-
-             (2)  However, this Division does not apply in relation to a prescribed contract at any time before the transition time for the prescribed contract.
-
-             (3)  Also, this Division does not affect the operation of a prescribed contract in relation to an event that occurred before the transition time for the prescribed contract.
-
-             (4)  In this section:
-
-                    <a name="transition-time"></a>**_transition time_**, for a prescribed contract, means the time when regulations made for the purposes of paragraph (1)(a), declaring a class of contracts of insurance including the contract to be a class of contracts in relation to which this Division applies, commence.
-
-##### <a id="37B"></a>37B  Meaning of _flood_ in prescribed contracts etc.
-
-             (1)  The regulations must define the meaning of **_flood_** for the purposes of this Division.
-
-             (2)  In a prescribed contract (or a notice or other document or information given by the insurer in relation to a prescribed contract):
-
-                     (a)  the word **_flood_** has the meaning given by the regulations; and
-
-                     (b)  other parts of speech or grammatical forms of that word have corresponding meanings.
-
-             (3)  Subsection (2) has effect in relation to a prescribed contract (or a notice or other document or information given by the insurer in relation to a prescribed contract) even if the meaning of the word **_flood_** (or other parts of speech or grammatical forms of that word) provided by the contract (or the notice or other document or information) is different from the meaning of **_flood_** given by the regulations.
-
-##### <a id="37C"></a>37C  Insurer must clearly inform insured whether prescribed contract provides insurance cover in respect of flood
-
-                   Before entering into a prescribed contract, the insurer must clearly inform the insured in writing whether the contract provides insurance cover in respect of loss or damage caused by, or resulting from, flood as defined by the regulations.
-
-##### <a id="37D"></a>37D  Circumstances in which prescribed contract is taken to provide insurance cover etc. in respect of flood
-
-             (1)  This section applies in relation to a prescribed contract that includes provisions (**_flood provisions_**) that provide insurance cover in respect of loss or damage caused by, or resulting from, one or more flood events (whether or not the contract expressly provides insurance cover for flood as defined by the regulations).
-
-             (2)  The flood provisions of the prescribed contract are taken to provide insurance cover in respect of loss or damage caused by, or resulting from, flood as defined by the regulations.
-
-             (3)  The insurer under the prescribed contract may not refuse to pay a claim in respect of loss or damage caused by, or resulting from, the happening of a flood event by reason only that, but for subsection (2), insurance cover in respect of loss or damage caused by, or resulting from, that event was not provided by the contract.
-
-             (4)  If the prescribed contract includes provisions (also **_flood provisions_**) that provide different maximum amounts of insurance cover in respect of different flood events, those provisions are taken to provide a maximum amount of insurance cover in respect of loss or damage caused by, or resulting from, flood, as defined by the regulations, equal to the highest maximum amount (the **_maximum flood cover amount_**) of insurance cover provided by those provisions in respect of any flood event.
-
-             (5)  The insurer under the prescribed contract may not refuse to pay an amount equal to the maximum flood cover amount in relation to a claim in respect of loss or damage caused by, or resulting from, the happening of a flood event by reason only that, but for subsection (4), the maximum amount of insurance cover provided by the contract in respect of loss or damage caused by, or resulting from, that event was less than the maximum flood cover amount.
-
-          (5A)  To avoid doubt, this section does not affect the operation of any provisions of a prescribed contract that are not flood provisions.
-
-             (6)  This section has effect in relation to a prescribed contract whether or not the insurer clearly informed the insured of the purported effect of the flood provisions in the contract.
-
-             (7)  In this section:
-
-                    <a name="flood-event"></a>**_flood event_** means an event that is, or would be, a flood as defined by the regulations.
-
-##### <a id="37E"></a>37E  Division not to affect provision of insurance cover for certain events
-
-                   If:
-
-                     (a)  a prescribed contract is expressed to provide insurance cover in respect of loss or damage caused by, or resulting from, a particular event; and
-
-                     (b)  the effect of another provision of this Division is that the contract would not provide that insurance cover;
-
-then that provision is taken not to have that effect.
-
 ### Division 2—General provisions relating to insurance contracts
 
 ##### <a id="38"></a>38  Interim contracts of insurance
@@ -1128,11 +984,11 @@ the insurer remains liable in accordance with the interim contract of insurance 
 
                      (e)  if the insured withdraws the proposal—the time of withdrawal.
 
-             (3)  Sections 35, 37, 37C, 40 and 44 and subsection 68(1) do not apply in relation to interim contracts of insurance.
+             (3)  Sections 35, 37, 40 and 44 and subsection 68(1) do not apply in relation to interim contracts of insurance.
 
 ##### <a id="39"></a>39  Instalment contracts of general insurance
 
-                   Where a provision included in an instalment contract of general insurance has the effect of limiting the liability of the insurer by reference to non‑payment of an instalment of the premium, the insurer may not refuse to pay a claim, in whole or in part, by reason only of the operation of that provision unless:
+                   Where a provision included in an instalment contract of general insurance has the effect of limiting the liability of the insurer by reference to non-payment of an instalment of the premium, the insurer may not refuse to pay a claim, in whole or in part, by reason only of the operation of that provision unless:
 
                      (a)  at least one instalment of the premium has remained unpaid for a period of at least 14 days; and
 
@@ -1170,7 +1026,7 @@ the insurer remains liable in accordance with the interim contract of insurance 
 
 ##### <a id="42"></a>42  Maximum cover for premium
 
-                   The maximum liability of the insurer under a contract of general insurance is the highest amount of insurance cover that the insurer would, at the time when the contract was entered into, have been prepared to provide under a contract that was, apart from the maximum liability under that contract, in the same terms and in respect of the same subject‑matter and risk as those of the first‑mentioned contract.
+                   The maximum liability of the insurer under a contract of general insurance is the highest amount of insurance cover that the insurer would, at the time when the contract was entered into, have been prepared to provide under a contract that was, apart from the maximum liability under that contract, in the same terms and in respect of the same subject-matter and risk as those of the first-mentioned contract.
 
 ##### <a id="43"></a>43  Arbitration provisions
 
@@ -1186,17 +1042,17 @@ the provision is void.
 
 ##### <a id="44"></a>44  Average provisions
 
-             (1)  An insurer may not rely on an average provision included in a contract of general insurance unless, before the contract was entered into, the insurer clearly informed the insured in writing of the nature and effect of the provision including whether the provision is based on indemnity or on replacement value of the property that is the subject‑matter of the contract.
+             (1)  An insurer may not rely on an average provision included in a contract of general insurance unless, before the contract was entered into, the insurer clearly informed the insured in writing of the nature and effect of the provision including whether the provision is based on indemnity or on replacement value of the property that is the subject-matter of the contract.
 
-             (2)  Where the sum insured in respect of property that is the subject‑matter of a contract of general insurance that provides insurance cover in respect of loss of or damage to a building used primarily and principally as a residence for the insured, for persons with whom the insured has a family or personal relationship, or for both the insured and such persons, or loss of or damage to the contents of such a building, or both, is not less than 80% of the value of the property, the liability of the insurer in respect of loss of or damage to the property is not reduced by reason only of the operation of an average provision included in the contract.
+             (2)  Where the sum insured in respect of property that is the subject-matter of a contract of general insurance that provides insurance cover in respect of loss of or damage to a building used primarily and principally as a residence for the insured, for persons with whom the insured has a family or personal relationship, or for both the insured and such persons, or loss of or damage to the contents of such a building, or both, is not less than 80% of the value of the property, the liability of the insurer in respect of loss of or damage to the property is not reduced by reason only of the operation of an average provision included in the contract.
 
              (3)  Where:
 
-                     (a)  the sum insured in respect of property that is the subject‑matter of such a contract is less than 80% of the value of the property; and
+                     (a)  the sum insured in respect of property that is the subject-matter of such a contract is less than 80% of the value of the property; and
 
                      (b)  but for this subsection, an average provision included in the contract would have the effect of reducing the liability of the insurer in respect of loss of or damage to the property to an amount that is less than the amount ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image003.gif)
 
                             where:
 
@@ -1222,15 +1078,15 @@ at the time when the relevant contract was entered into.
 
              (1)  Where a provision included in a contract of general insurance has the effect of limiting or excluding the liability of the insurer under the contract by reason that the insured has entered into some other contract of insurance, not being a contract required to be effected by or under a law, including a law of a State or Territory, the provision is void.
 
-             (2)  Subsection (1) does not apply in relation to a contract that provides insurance cover in respect of some or all of so much of a loss as is not covered by a contract of insurance that is specified in the first‑mentioned contract.
+             (2)  Subsection (1) does not apply in relation to a contract that provides insurance cover in respect of some or all of so much of a loss as is not covered by a contract of insurance that is specified in the first-mentioned contract.
 
-##### <a id="46"></a>46  Pre‑existing defect or imperfection
+##### <a id="46"></a>46  Pre-existing defect or imperfection
 
              (1)  This section applies where a claim under a contract of insurance (other than a contract of insurance that is included in a class of contracts declared by the regulations to be a class of contracts in relation to which this section does not apply) is made in respect of a loss that occurred as a result, in whole or in part, of a defect or imperfection in a thing.
 
              (2)  Where, at the time when the contract was entered into, the insured was not aware of, and a reasonable person in the circumstances could not be expected to have been aware of, the defect or imperfection, the insurer may not rely on a provision included in the contract that has the effect of limiting or excluding the insurer’s liability under the contract by reference to the condition, at a time before the contract was entered into, of the thing.
 
-##### <a id="47"></a>47  Pre‑existing sickness or disability
+##### <a id="47"></a>47  Pre-existing sickness or disability
 
              (1)  This section applies where a claim under a contract of insurance is made in respect of a loss that occurred as a result, in whole or in part, of a sickness or disability to which a person was subject or had at any time been subject.
 
@@ -1282,7 +1138,7 @@ at the time when the relevant contract was entered into.
 
              (1)  This section applies where:
 
-                     (a)  a loss occurs in respect of property that is the subject‑matter of a contract of general insurance; and
+                     (a)  a loss occurs in respect of property that is the subject-matter of a contract of general insurance; and
 
                      (b)  the insured and some other person each have an interest in the property;
 
@@ -1322,7 +1178,7 @@ subsection (3) does not apply, but a person who is not the insured may recover
 
                      (a)  a person (in this section called the **_purchaser_**) agrees to purchase, or to take an assignment of, property and in consequence the purchaser has, or will have, a right to occupy or use a building;
 
-                     (b)  the building is the subject‑matter of a contract of general insurance to which the vendor or assignor under the agreement is a party; and
+                     (b)  the building is the subject-matter of a contract of general insurance to which the vendor or assignor under the agreement is a party; and
 
                      (c)  the risk in respect of loss of or damage to the building has passed to the purchaser;
 
@@ -1392,7 +1248,7 @@ the insurer may not refuse to pay the claim by reason only of the act.
 
                      (a)  an omission; and
 
-                     (b)  an act or omission that has the effect of altering the state or condition of the subject‑matter of the contract or of allowing the state or condition of that subject‑matter to alter.
+                     (b)  an act or omission that has the effect of altering the state or condition of the subject-matter of the contract or of allowing the state or condition of that subject-matter to alter.
 
 ##### <a id="55"></a>55  No other remedies
 
@@ -1428,7 +1284,7 @@ ASIC may, by application, if ASIC is of the opinion that it is in the public int
 
              (1)  Where a claim under a contract of insurance, or a claim made under this Act against an insurer by a person who is not the insured under a contract of insurance, is made fraudulently, the insurer may not avoid the contract but may refuse payment of the claim.
 
-             (2)  In any proceedings in relation to such a claim, the court may, if only a minimal or insignificant part of the claim is made fraudulently and non‑payment of the remainder of the claim would be harsh and unfair, order the insurer to pay, in relation to the claim, such amount (if any) as is just and equitable in the circumstances.
+             (2)  In any proceedings in relation to such a claim, the court may, if only a minimal or insignificant part of the claim is made fraudulently and non-payment of the remainder of the claim would be harsh and unfair, order the insurer to pay, in relation to the claim, such amount (if any) as is just and equitable in the circumstances.
 
              (3)  In exercising the power conferred by subsection (2), the court shall have regard to the need to deter fraudulent conduct in relation to insurance but may also have regard to any other relevant matter.
 
@@ -1490,11 +1346,11 @@ then, by force of this section, there exists between the parties to the original
 
                      (b)  if a claim is made under the contract, there is payable by the insured to the insurer, as a premium in respect of the contract, an amount worked out in accordance with subsection (5) or (6), as the case requires.
 
-             (5)  If the claim is for total loss of the property insured, the premium is an amount equal to the amount (the **_hypothetical premium_**) that, if the original contract had been renewed for the same period and on the same terms and conditions (including the same subject‑matter and risk), would have been payable by the insured in respect of the renewal.
+             (5)  If the claim is for total loss of the property insured, the premium is an amount equal to the amount (the **_hypothetical premium_**) that, if the original contract had been renewed for the same period and on the same terms and conditions (including the same subject-matter and risk), would have been payable by the insured in respect of the renewal.
 
              (6)  If the claim is not for total loss of the property insured, the premium is an amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00415/Html/InsContracts1984WD2002_image004.gif)
 
 where:
 
@@ -1510,7 +1366,7 @@ where:
 
              (2)  The notice has effect to cancel the contract at whichever is the earlier of the following times:
 
-                     (a)  the time when another contract of insurance between the insured and the insurer or some other insurer, being a contract that is intended by the insured to replace the first‑mentioned contract, is entered into;
+                     (a)  the time when another contract of insurance between the insured and the insurer or some other insurer, being a contract that is intended by the insured to replace the first-mentioned contract, is entered into;
 
                      (b)  whichever is the latest of the following times:
 
@@ -1548,7 +1404,7 @@ after the day on which the notice was given to the insured.
 
                      (d)  a person who is or was at any time the insured failed to comply with a provision of the contract, including a provision with respect to payment of the premium; or
 
-                     (e)  the insured has made a fraudulent claim under the contract or under some other contract of insurance (whether with the insurer concerned or with some other insurer) that provides insurance cover during any part of the period during which the first‑mentioned contract provides insurance cover;
+                     (e)  the insured has made a fraudulent claim under the contract or under some other contract of insurance (whether with the insurer concerned or with some other insurer) that provides insurance cover during any part of the period during which the first-mentioned contract provides insurance cover;
 
 the insurer may cancel the contract.
 
@@ -1560,7 +1416,7 @@ the insurer may cancel the contract.
 
 and, after the contract was entered into, such an act or omission has occurred, the insurer may cancel the contract.
 
-             (3)  A reference in subsection (2) to an act or omission of the insured includes a reference to an act or omission of the insured that has the effect of altering the state or condition of the subject‑matter of the contract or of allowing the state or condition of that subject‑matter to alter.
+             (3)  A reference in subsection (2) to an act or omission of the insured includes a reference to an act or omission of the insured that has the effect of altering the state or condition of the subject-matter of the contract or of allowing the state or condition of that subject-matter to alter.
 
              (4)  Where a contract of insurance is:
 
@@ -1578,7 +1434,7 @@ the insurer may at any time cancel the contract.
 
 ##### <a id="62"></a>62  Cancellation of instalment contracts of general insurance
 
-             (1)  An instalment contract of general insurance may include provisions inconsistent with section 59 or 77 with respect to the cancellation of the contract for non‑payment of an instalment of the premium.
+             (1)  An instalment contract of general insurance may include provisions inconsistent with section 59 or 77 with respect to the cancellation of the contract for non-payment of an instalment of the premium.
 
              (2)  An insurer may not rely on such a provision unless:
 
@@ -1604,7 +1460,7 @@ the insurer may at any time cancel the contract.
 
                               (i)  a family or other personal relationship between the insured and the third party; or
 
-                             (ii)  the insured having expressly or impliedly consented to the use, by the third party, of a road motor vehicle that is the subject‑matter of the contract.
+                             (ii)  the insured having expressly or impliedly consented to the use, by the third party, of a road motor vehicle that is the subject-matter of the contract.
 
              (2)  This section does not apply where the conduct of the third party that gave rise to the loss:
 
@@ -1744,7 +1600,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (c)  indicates to the insured that the insurer does not propose to renew the insurance cover provided under a contract of insurance; or
 
-                     (d)  by reason of some special risk relating to the insured or to the subject‑matter of the contract, offers insurance cover to the insured on terms that are less advantageous to the insured than the terms that the insurer would otherwise offer;
+                     (d)  by reason of some special risk relating to the insured or to the subject-matter of the contract, offers insurance cover to the insured on terms that are less advantageous to the insured than the terms that the insurer would otherwise offer;
 
 the insurer shall, if the insured so requests in writing given to the insurer, give to the insured a statement in writing setting out the insurer’s reasons for not accepting the offer, for cancelling the contract, for not renewing the insurance cover or for offering insurance cover on less advantageous terms, as the case may be.
 
@@ -1800,7 +1656,7 @@ Note:          A defendant bears a legal burden in relation to
 
                      (a)  the penalty that would apply to an individual in respect of the contravention; or
 
-                     (b)  if there is no penalty provided for an individual—a penalty not exceeding one‑fifth of the penalty applying to the company or corporation in respect of the contravention.
+                     (b)  if there is no penalty provided for an individual—a penalty not exceeding one-fifth of the penalty applying to the company or corporation in respect of the contravention.
 
              (3)  If:
 
@@ -1820,13 +1676,13 @@ then, despite subsection (1), the offence committed by the company or corporat
 
                               (i)  personally; or
 
-                             (ii)  by post to that person at the person’s last‑known address.
+                             (ii)  by post to that person at the person’s last-known address.
 
              (2)  If a notice of cancellation of a contract of insurance is given to an insured by post, the notice shall be deemed to have been given at the time at which it would have been delivered in the ordinary course of post unless the insured proves that, through no fault of the insured, the insured did not receive it.
 
 ##### <a id="78"></a>78  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed;
 
@@ -2304,30 +2160,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Insurance Contracts Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>41, 2012</div>
-  </td>
-  <td>
-    <div>15 Apr 2012</div>
-  </td>
-  <td>
-    <div>15 Apr 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Insurance Contracts Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent. [_see also (c)_]
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent. [_see also (c)_]
 
-_(b)_     The _Insurance Contracts Act 1984_ was amended by Part VIII (section 60) only of the _Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _Insurance Contracts Act 1984_ was amended by Part VIII (section 60) only of the _Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act shall come into operation on the commencing day.
 
@@ -2335,7 +2174,7 @@ _(b)_     The _Insurance Contracts Act 1984_ was amended by Part VIII 
 
 _(c)_ The _Insurance Contracts Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(8) of which provides as follows:
 
-                 (8)   Notwithstanding subsection 2(1) of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, the amendments of the _Insurance Contracts Act 1984_ made by the first‑mentioned Act and the amendment of the _Insurance Contracts Act 1984_ made by this Act shall come into operation on the day on which the _Insurance Contracts Act 1984_ comes into operation.
+                 (8)   Notwithstanding subsection 2(1) of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, the amendments of the _Insurance Contracts Act 1984_ made by the first-mentioned Act and the amendment of the _Insurance Contracts Act 1984_ made by this Act shall come into operation on the day on which the _Insurance Contracts Act 1984_ comes into operation.
 
 _(d)_ The _Insurance Contracts Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(11) of which provides as follows: 
 
@@ -2363,7 +2202,7 @@ _(i)_ The _Insurance Contracts Act 1984_ was amended by Schedule 12 only of th
 
                  (2)   The following provisions of this Act commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_:
 
-                              (j)   Schedule 12, subject to subsection (12);
+                               (j)   Schedule 12, subject to subsection (12);
 
 _(j)_ The _Insurance Contracts Act 1984_ was amended by Schedule 7 (item 117) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2)(e) and (16) of which provide as follows:
 
@@ -2371,7 +2210,7 @@ _(j)_ The _Insurance Contracts Act 1984_ was amended by Schedule 7 (item 117
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
 
 _(k)_ The _Insurance Contracts Act 1984_ was amended by Schedule 3 (item 5–14) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001_, subsection 2(1) of which provides as follows:
 
@@ -2437,7 +2276,7 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 168, 1986; No. 49, 1994; No. 5, 1995; Nos. 62 and 107, 1997; No. 54, 1998; No. 44, 1999; No. 123, 2001; No. 41, 2012</div>
+    <div>am. No. 65, 1985; No. 168, 1986; No. 49, 1994; No. 5, 1995; Nos. 62 and 107, 1997; No. 54, 1998; No. 44, 1999; No. 123, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2746,15 +2585,6 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of 
-Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 41, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21</div>
   </td>
   <td>
@@ -2787,15 +2617,6 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of 
-Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 41, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
@@ -2820,15 +2641,6 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of 
-Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 41, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 28, 29</div>
   </td>
   <td>
@@ -2841,30 +2653,6 @@ Part IV</div>
   </td>
   <td>
     <div>ad. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 41, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33A–33D</div>
-  </td>
-  <td>
-    <div>ad. No. 41, 2012</div>
   </td>
 </tr>
 <tr>
@@ -2901,42 +2689,10 @@ Part IV</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1A of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 41, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37A–37E</div>
-  </td>
-  <td>
-    <div>ad. No. 41, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 41, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3362,5 +3118,7 @@ _Insurance and Aviation Liability Legislation Amendment Act 2002
 ##### <a id="4"></a>4  Application
 
                    The amendment made by item 6 of Schedule 1 applies to a provision included in a contract of insurance after the commencement of the item, including a provision included by varying a contract entered into before the commencement of the item.
+
+ 
 
  
