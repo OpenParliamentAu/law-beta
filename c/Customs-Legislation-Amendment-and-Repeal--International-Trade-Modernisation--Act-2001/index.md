@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2008C00476/Html/CustomsLegAmendRepInternTradeModern2001_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00449/Html/CustomsLegAmendRepInternTradeModern2001_image001.gif)
 
 # Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001
 
 **Act No. 95 of 2001 as amended**
 
-This compilation was prepared on 9 August 2008
+This compilation was prepared on 25 July 2008
 
-**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002;  No. 136 of 2003; No. 25 of 2004; No. 75 of 2008]**
+**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002;  No. 136 of 2003; No. 25 of 2004]**
 
 **Amendment from Act No. 63 of 2002**
 
@@ -62,11 +62,15 @@ Schedule 1 (items 33A and 34–36) commenced on 17 December 2003]
 
 Schedule 2 (items 28–31) commenced on 25 March 2004]
 
+**\[This Act is to be amended by Act No. 75 of 2008]**
+
 **Amendment from Act No. 75 of 2008**
 
-\[Schedule 3 (item 9) repealed item 45 of Schedule 3
+\[Schedule 3 (item 9) repeals item 45 of Schedule 3
 
-Schedule 3 (item 9) commenced on 9 August 2008]
+Schedule 3 (item 9) commences on 9 August 2008
+
+The amendment made by Schedule 3 (item 9) has not been incorporated in this compilation]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -847,7 +851,7 @@ Note 2:       Failure to produce a commercial document following a r
 
 the person commits an offence punishable, on conviction, by a penalty not exceeding 30 penalty units.
 
-##### <a id="240AC"></a>240AC  Authorised officer may require person to produce record
+##### <a id="240AC"></a>240AC  Authorised officer may require person to produce record
 
              (1)  An authorised officer may, by written notice given to a person who is required under section 240AB to keep a record, require the person to produce, either at the business premises in Australia of the person or at a place in Australia specified in the notice, and within a period specified in the notice, for inspection by an authorised officer:
 
@@ -1021,7 +1025,7 @@ the owner of the goods (not being a person who is to be treated as the owner of 
 
                      (b)  a statement that a person who is or was a passenger on, or a member of the crew of, a ship or aircraft made in relation to his or her accompanied personal or household effects that were carried on the ship or aircraft.
 
-##### <a id="243V"></a>243V  False or misleading statements in cargo reports or outturn reports
+##### <a id="243V"></a>243V  False or misleading statements in cargo reports or outturn reports
 
              (1)  A person commits an offence if the person:
 
@@ -1599,7 +1603,7 @@ as the regulations specify.
 
                              (ii)  setting out the reasons for the suspension;
 
-                            and serving a copy of the notice on the owner of the goods or, if the owner does not have possession of the goods, on the person who has possession of the goods; or
+                            and serving a copy of the notice on the owner of the goods or, if the owner does not have possession of the goods, on the person who has possession of the goods; or
 
                      (b)  by sending electronically to the person who made the self-assessed clearance declaration a message stating that the authority is so suspended and setting out the reasons for the suspension.
 
@@ -2377,6 +2381,10 @@ Repeal the subsection, substitute:
 
                      (c)  a description of the goods to which the protest relates (where the protest does not relate to all the goods covered by the import declaration or periodic declaration) and a statement of the grounds on which the protest is made.
 
+## 45  Saving
+
+Subsection 167(3A) of the _Customs Act 1901_ as in force immediately before the commencement of this Part continues to apply in respect of computer import entries made by a registered COMPILE user before the repeal of Division 4A of Part IV of the _Customs Act 1901_ by item 81 of this Schedule.
+
 ## 46  Subsection 196C(1)
 
 Omit “subsection 71(1)”, substitute “section 71”.
@@ -2999,7 +3007,7 @@ After “cancel”, insert “or suspend”.
 
 <h9 class="ActHead9">Customs Act 1901</h9>
 
-## 67  Subsection 4(1) (definition of _Air Cargo Automation System_)
+## 67  Subsection 4(1) (definition of _Air Cargo Automation System_)
 
 Repeal the definition.
 
