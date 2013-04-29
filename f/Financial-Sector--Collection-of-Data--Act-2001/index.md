@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00142/Html/FinanSectorColectData2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00594/Html/FinanSectorColectData2001_WD02_image001.gif)
 
 # Financial Sector (Collection of Data) Act 2001
 
 **Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 4 June 2008
- taking into account amendments up to Act No. 25 of 2008
+This compilation was prepared on 2 October 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -83,16 +83,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [24](#24).          Infringement notice not required to be served
 
 [25](#25).          APRA may extend period for payment of penalty
-
-**Part 3A—Review of decisions**
-
-[25A](#25A).       Notice of reviewable decision
-
-[25B](#25B).       Request for review of decisions
-
-[25C](#25C).       Review of decision
-
-[25D](#25D).       Applications to Administrative Appeals Tribunal
 
 **Part 4—Miscellaneous**
 
@@ -664,96 +654,6 @@ APRA must refund to the person, out of money appropriated by the Parliament, an 
 
              (3)  If APRA extends a period under subsection (1), a reference in this Division, or in a notice or other instrument under this Division, to the period is taken, in relation to the person, to be a reference to the period as so extended.
 
-## Part 3A—Review of decisions
-
-##### <a id="25A"></a>25A  Notice of reviewable decision
-
-             (1)  If APRA makes a reviewable decision (the **_original decision_**), then APRA must give a notice in writing of the original decision to the person in relation to whom the decision is made.
-
-             (2)  The notice must include a statement to the effect that:
-
-                     (a)  the person may, if dissatisfied with the original decision, seek a reconsideration of that decision by APRA in accordance with sections 25B and 25C; and
-
-                     (b)  a person whose interests are affected by the original decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by APRA on that reconsideration confirming or varying the original decision, make application to the Administrative Appeals Tribunal for a review of the decision so confirmed or varied.
-
-##### <a id="25B"></a>25B  Request for review of decisions
-
-             (1)  A person in relation to whom a reviewable decision is made, may, if dissatisfied with the decision, request APRA to reconsider the decision.
-
-             (2)  The request must:
-
-                     (a)  be made by notice in writing; and
-
-                     (b)  be given to APRA within:
-
-                              (i)  the period of 21 days after the day on which the decision first comes to the notice of the person; or
-
-                             (ii)  within such further period as APRA allows; and
-
-                     (c)  set out the reasons for making the request.
-
-##### <a id="25C"></a>25C  Review of decision
-
-             (1)  On receiving the request, APRA:
-
-                     (a)  must reconsider the decision; and
-
-                     (b)  may, in such manner as APRA thinks fit:
-
-                              (i)  confirm the decision; or
-
-                             (ii)  revoke the decision; or
-
-                            (iii)  vary the decision.
-
-             (2)  If APRA does not confirm, revoke or vary a decision within the period of 21 days after receiving the request to reconsider the decision, APRA is, at the end of that period, taken to have confirmed the decision under subsection (1).
-
-             (3)  If APRA confirms, revokes or varies a decision (including because of the application of subsection (2)) by the end of the period referred to in subsection (2), APRA must serve a notice on the person who made the request. The notice must:
-
-                     (a)  inform the person of the result of APRA’s reconsideration of the decision; and
-
-                     (b)  set out the findings on material questions of fact; and
-
-                     (c)  refer to the evidence or other material on which those findings were based; and
-
-                     (d)  give APRA’s reasons for confirming, revoking or varying the decision; and
-
-                     (e)  include a statement that:
-
-                              (i)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision; and
-
-                             (ii)  a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision, apply to the Administrative Appeals Tribunal for a review of the decision so confirmed or varied.
-
-             (4)  Any failure to comply with the requirements of subsection (3) in relation to a decision does not affect the validity of the decision.
-
-##### <a id="25D"></a>25D  Applications to Administrative Appeals Tribunal
-
-             (1)  Applications may be made to the Administrative Appeals Tribunal for review of decisions of APRA that have been confirmed or varied under section 25C.
-
-             (2)  If a decision is, under subsection 25C(2), taken to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making an application for review of the decision were the period:
-
-                     (a)  beginning on the day on which the decision is taken to be confirmed; and
-
-                     (b)  ending 28 days later.
-
-             (3)  If a person makes a request under section 25B in respect of a reviewable decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
-
-             (4)  For the purposes of:
-
-                     (a)  a review of a decision of APRA that has been confirmed or varied under section 25C; or
-
-                     (b)  a request under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of such a decision;
-
-a non-presidential member of the Administrative Appeals Tribunal must not sit as a member of the Administrative Appeals Tribunal if he or she is a director or employee of:
-
-                     (c)  an entity of any kind carrying on (whether in Australia or elsewhere) insurance business (within the meaning of the _Insurance Act 1973_) or life insurance business (within the meaning of the _Life Insurance Act 1995_); or
-
-                     (d)  if an entity referred to in paragraph (c) is a body corporate—a body corporate that is related to it.
-
-             (5)  The question whether 2 bodies corporate are related to each other for the purposes of paragraph (4)(d) is to be determined in the same way as that question is determined for the purposes of the _Corporations Act 2001_.
-
-             (6)  An order must not be made under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of a decision except by the Administrative Appeals Tribunal.
-
 ## Part 4—Miscellaneous
 
 ##### <a id="26"></a>26  Saving of other laws
@@ -798,8 +698,6 @@ a non-presidential member of the Administrative Appeals Tribunal must not sit as
 
                     <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.
 
-                    <a name=""></a><a name="decision"></a>**_decision_**, in Part 3A, has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
-
                     <a name="discretari-mutual-fund"></a>**_discretionary mutual fund_** has the meaning given by subsections 5(5) and (6).
 
                     <a name="financi-corpor"></a>**_financial corporation_** means a financial corporation to which paragraph 51(xx) of the Constitution applies.
@@ -825,18 +723,6 @@ a non-presidential member of the Administrative Appeals Tribunal must not sit as
                     <a name="report-standard"></a>**_reporting standard_** means a reporting standard determined by APRA under section 13.
 
                     <a name="reserv-bank"></a>**_Reserve Bank_** means the Reserve Bank of Australia.
-
-                    <a name="review-decision"></a>**_reviewable decision_** means any of the following decisions:
-
-                     (a)  a decision not to exempt an organisation under paragraph 7(2)(j);
-
-                     (b)  a decision not to allow a longer period under subsection 9(3);
-
-                     (c)  a decision to include (including by transfer) a registered entity in a particular category under section 11;
-
-                     (d)  a decision under section 13 to determine a reporting standard for a particular financial sector entity;
-
-                     (e)  a decision to vary a reporting standard determined under section 13 for a particular financial sector entity.
 
                     <a name="share"></a>**_share_** includes stock, and also includes an interest in a share or in any stock.
 
@@ -917,8 +803,6 @@ When debt is due
 The _Financial Sector (Collection of Data) Act 2001_ as shown in this compilation comprises Act No. 104, 2001 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1075,23 +959,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008</div>
-  </td>
-  <td>
-    <div>25, 2008</div>
-  </td>
-  <td>
-    <div>26 May 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 15–17, 43): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 43)</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedule 3 (item 191) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
@@ -1211,30 +1078,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 25A–25D</div>
-  </td>
-  <td>
-    <div>ad. No. 25, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
@@ -1246,7 +1089,7 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 149, 2007; No. 25, 2008</div>
+    <div>am. No. 149, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1257,18 +1100,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>am. No. 55, 2001</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Financial Sector Legislation Amendment (Review of Prudential Decisions) Act 2008 (No. 25, 2008)_
-
-## Schedule 4
-
-## 43  Application
-
-The amendments made by this Schedule apply to decisions made on or after the day on which this Schedule commences.
 
  
 
