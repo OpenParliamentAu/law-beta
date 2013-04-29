@@ -1,38 +1,40 @@
-![](http://www.comlaw.gov.au/Details/C2008C00193/Html/476e1fa6-dc1c-42cb-b80c-d79b1ecbdb0e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00153/Html/BBCCD9DF14B849ECCA257154000D88B9/$FILE/image001.gif)
 
 # Coastal Waters (State Powers) Act 1980
 
 **Act No. 75 of 1980 as amended**
 
-This compilation was prepared on 1 July 2008
- taking into account amendments up to Act No. 17 of 2006
+This compilation was prepared on 10 April 2006
+taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Extent of territorial sea and coastal waters
+[4](#4).            Extent of territorial sea and coastal waters                                          2
 
-[5](#5).            Legislative powers of States
+[5](#5).            Legislative powers of States                                                                2
 
-[6](#6).            International status of territorial sea
+[6](#6).            International status of territorial sea                                                    3
 
-[7](#7).            Savings
+[7](#7).            Savings                                                                                                 3
 
 **Notes** 
+
 
 ## An Act to extend the legislative powers of the States in and in relation to coastal waters
 
@@ -54,7 +56,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
              (1)  In this Act:
 
-                    <a name="adjac-area-respect-state"></a>**_adjacent area in respect of the State_** means, in relation to each State, the area the boundary of which was described under the heading referring to that State in Schedule 2 to the repealed _Petroleum (Submerged Lands) Act 1967_ as in force immediately before the commencement of this Act.
+                    <a name="adjac-area-respect-state"></a>**_adjacent area in respect of the State_** means, in relation to each State, the area the boundary of which is described under the heading referring to that State in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ as in force immediately before the commencement of this Act.
 
                     <a name="coastal-water-state"></a>**_coastal waters of the State_** means, in relation to each State:
 
@@ -74,9 +76,9 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                    The legislative powers exercisable from time to time under the constitution of each State extend to the making of:
 
-                     (a)  all such laws of the State as could be made by virtue of those powers if the coastal waters of the State, as extending from time to time, were within the limits of the State, including laws applying in or in relation to the sea‑bed and subsoil beneath, and the airspace above, the coastal waters of the State;
+                     (a)  all such laws of the State as could be made by virtue of those powers if the coastal waters of the State, as extending from time to time, were within the limits of the State, including laws applying in or in relation to the sea-bed and subsoil beneath, and the airspace above, the coastal waters of the State;
 
-                     (b)  laws of the State having effect in or in relation to waters within the adjacent area in respect of the State but beyond the outer limits of the coastal waters of the State, including laws applying in or in relation to the sea‑bed and subsoil beneath, and the airspace above, the first‑mentioned waters, being laws with respect to:
+                     (b)  laws of the State having effect in or in relation to waters within the adjacent area in respect of the State but beyond the outer limits of the coastal waters of the State, including laws applying in or in relation to the sea-bed and subsoil beneath, and the airspace above, the first-mentioned waters, being laws with respect to:
 
                               (i)  subterranean mining from land within the limits of the State; or
 
@@ -94,9 +96,10 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                      (a)  extend the limits of any State;
 
-                     (b)  derogate from any power existing, apart from this Act, to make laws of a State having extra‑territorial effect; or
+                     (b)  derogate from any power existing, apart from this Act, to make laws of a State having extra-territorial effect; or
 
                      (c)  give any force or effect to a provision of a law of a State to the extent of any inconsistency with a law of the Commonwealth or with the Constitution of the Commonwealth of Australia or the Commonwealth of Australia Constitution Act.
+
 
 # Notes to the _Coastal Waters (State Powers) Act 1980_
 
@@ -122,11 +125,13 @@ The _Coastal Waters (State Powers) Act 1980_ as shown in this compilation compri
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -136,71 +141,59 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Coastal Waters (State Powers) Act 1980</div>
-  </td>
-  <td>
-    <div>75, 1980</div>
-  </td>
-  <td>
-    <div>29 May 1980</div>
-  </td>
-  <td>
-    <div>1 Jan 1982 ( <i>see</i> <i>Gazette</i>1981, No. G51)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>17, 2006</div>
-  </td>
-  <td>
-    <div>29 Mar 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 11): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
+<tbody>
   <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    <td>
+      <div>Coastal Waters (State Powers) Act 1980</div>
+    </td>
+    <td>
+      <div>75, 1980</div>
+    </td>
+    <td>
+      <div>29 May 1980</div>
+    </td>
+    <td>
+      <div>1 Jan 1982 ( <i>see</i> <i>Gazette</i>1981, No. G51)</div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>17, 2006</div>
+    </td>
+    <td>
+      <div>29 Mar 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 11): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 17, 2006</div>
-  </td>
-</tr></table>
+</tbody></table>
+
+
+### Note 2
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+(No. 17, 2006)
+_
+
+The following amendment commences on proclamation:
+
+## Schedule 2
+
+## 11  Subsection 3(1) (definition of _adjacent area in respect of the State_)
+
+Omit “is described under the heading referring to that State in Schedule 2 to the”, substitute “was described under the heading referring to that State in Schedule 2 to the repealed”.
+
+As at 10 April 2006 the amendment is not incorporated in this compilation.
+
 
  
