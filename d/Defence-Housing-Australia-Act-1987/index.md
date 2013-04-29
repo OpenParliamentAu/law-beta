@@ -1,7 +1,7 @@
 
 Defence Housing Authority Act 1987
 Act No. 101 of 1987 as amended
-This compilation was prepared on 26 July 2001 taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 29 March 2000 taking into account amendments up to Act No. 156 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -20,67 +20,67 @@ Part II—Establishment, function and powers of Authority	3
 8	Limitations on formation of companies etc.	5
 9	Limitations on formation of partnerships	6
 10	Limitations on participation in joint ventures	7
-Part III—Constitution and meetings of Authority	9
-11	Authority is body corporate etc.	9
-12	Constitution	9
-13	Chairperson may be referred to as Chairman or Chairwoman	10
-14	Appointment of members	10
-15	Term of office of appointed members	11
-16	Appointed members hold office on part time basis	11
-17	Remuneration and allowances of appointed members	11
-18	Leave of absence	11
-19	Resignation of appointed members	12
-20	Disclosure of interests	12
-21	Termination of appointment	12
-22	Terms and conditions of appointment not provided for by Act	13
-23	Acting appointments	13
-24	Meetings	14
-25	Resolutions without meetings	15
-26	Committees	15
-Part IV—Operation of Authority	17
-28	Financial targets to be included in corporate plan	17
-30	Minister may vary corporate and financial plans	17
-31	Directions to Authority	18
-32	Reimbursement of cost of complying with directions	18
-Part V—Finance	20
-33	Capital structure of Authority	20
-34	Capital of Authority	20
-35	Payment of dividends to Commonwealth	21
-36	Borrowings from Commonwealth	22
-37	Borrowings otherwise than from Commonwealth	22
-38	Guarantee of borrowings by Authority	23
-39	Authority may give security	24
-40	Borrowings not otherwise permitted	25
-41	Guarantee of borrowings and raisings by wholly owned subsidiaries	25
-42	Delegation by Treasurer	28
-Part VI—Managing Director, staff and consultants	30
-Division 1—Managing Director	30
-45	Managing Director	30
-46	Duties	30
-47	Appointment	30
-48	Term of office etc.	30
-49	Managing Director not to engage in other paid employment	31
-50	Remuneration and allowances	31
-51	Leave of absence	31
-52	Resignation	31
-53	Disclosure of interests	31
-54	Acting Managing Director	31
-55	Exclusion of Managing Director etc. from certain deliberations	33
-56	Terms and conditions of appointment not provided for by Act	34
-Division 2—Staff and consultants	35
-57	Staff	35
-58	Consultants	35
-Part VII—Miscellaneous	36
-59	Rents	36
-60	Transfer of assets to Authority	36
-61	Application of Lands Acquisition Act	37
-62	Duties of Authority	38
-63	Exemption from taxation	38
-64	Delegation by Authority	39
-65	Delegation by Managing Director	39
-66	Delegation by service chiefs	40
-67	Regulations	40
-Notes		41
+Part III—Constitution and meetings of Authority	8
+11	Authority is body corporate etc.	8
+12	Constitution	8
+13	Chairperson may be referred to as Chairman or Chairwoman	9
+14	Appointment of members	9
+15	Term of office of appointed members	10
+16	Appointed members hold office on part time basis	10
+17	Remuneration and allowances of appointed members	10
+18	Leave of absence	10
+19	Resignation of appointed members	11
+20	Disclosure of interests	11
+21	Termination of appointment	11
+22	Terms and conditions of appointment not provided for by Act	12
+23	Acting appointments	12
+24	Meetings	13
+25	Resolutions without meetings	14
+26	Committees	14
+Part IV—Operation of Authority	16
+28	Financial targets to be included in corporate plan	16
+30	Minister may vary corporate and financial plans	16
+31	Directions to Authority	17
+32	Reimbursement of cost of complying with directions	17
+Part V—Finance	19
+33	Capital structure of Authority	19
+34	Capital of Authority	19
+35	Payment of dividends to Commonwealth	20
+36	Borrowings from Commonwealth	21
+37	Borrowings otherwise than from Commonwealth	21
+38	Guarantee of borrowings by Authority	22
+39	Authority may give security	23
+40	Borrowings not otherwise permitted	24
+41	Guarantee of borrowings and raisings by wholly owned subsidiaries	24
+42	Delegation by Treasurer	27
+Part VI—Managing Director, staff and consultants	29
+Division 1—Managing Director	29
+45	Managing Director	29
+46	Duties	29
+47	Appointment	29
+48	Term of office etc.	29
+49	Managing Director not to engage in other paid employment	30
+50	Remuneration and allowances	30
+51	Leave of absence	30
+52	Resignation	30
+53	Disclosure of interests	30
+54	Acting Managing Director	30
+55	Exclusion of Managing Director etc. from certain deliberations	32
+56	Terms and conditions of appointment not provided for by Act	32
+Division 2—Staff and consultants	33
+57	Staff	33
+58	Consultants	33
+Part VII—Miscellaneous	34
+59	Rents	34
+60	Transfer of assets to Authority	34
+61	Application of Lands Acquisition Act	35
+62	Duties of Authority	35
+63	Exemption from taxation	36
+64	Delegation by Authority	37
+65	Delegation by Managing Director	37
+66	Delegation by service chiefs	37
+67	Regulations	38
+Notes		39
 An Act to establish a Defence Housing Authority
 Part I—Preliminary
   
@@ -109,7 +109,7 @@ member means a member of the Authority, and includes the Chairperson and Managin
 securities includes stocks, debentures, debenture stocks, notes, bonds, promissory notes, bills of exchange and similar instruments or documents.
 service chief means the Chief of Navy, the Chief of Army or the Chief of Air Force.
 share means a share in the share capital of a corporation, and includes stock.
-	(2)	The question whether a company is a subsidiary of the Authority shall be determined in the same manner as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the Corporations Act 2001.
+	(2)	The question whether a company is a subsidiary of the Authority shall be determined in the same manner as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the Companies Act 1981.
 	(3)	A reference in this Act to dealing with securities includes a reference to:
 	(a)	creating, executing, entering into, drawing, making, accepting, indorsing, issuing, discounting, selling, purchasing and reselling securities;
 	(b)	creating, selling, purchasing and reselling rights and options in relation to securities; and
@@ -646,7 +646,6 @@ as if it were a grant, conveyance, memorandum or instrument of transfer of the l
 Notes to the Defence Housing Authority Act 1987
 Note 1
 The Defence Housing Authority Act 1987 as shown in this compilation comprises Act No. 101, 1987 amended as indicated in the Tables below.
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 Table of Acts
 Act
 Number and year
@@ -708,11 +707,6 @@ Corporate Law Economic Reform Program Act 1999
 24 Nov 1999
 Schedule 10 (items 76‑79): 13 Mar 2000 (see Gazette 2000, No. S114) (f)
 —
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 167): 15 July 2001 (see Gazette 2001, No. S285) (g)
-Ss. 4‑14
 (a)	The Defence Housing Authority Act 1987 was amended by Part IV (sections 9‑13) only of the Defence Legislation Amendment Act 1988, subsection 2(1) of which provides as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Defence Housing Authority Act 1987 was amended by Schedule 4 (items 66‑68) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows: 
@@ -727,14 +721,12 @@ Ss. 4‑14
 (f)	The Defence Housing Authority Act 1987 was amended by Schedule 10 (items 76‑79) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
 	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
 	(c)	the items in Schedules 10, 11 and 12.
-(g)	The Defence Housing Authority Act 1987 was amended by Schedule 3 (item 167) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
-am. No. 100, 1988; Nos. 1 and 152, 1997; No. 146, 1999; No. 55, 2001
+am. No. 100, 1988; Nos. 1 and 152, 1997; No. 146, 1999
 S. 8	
 am. No. 152, 1997
 Note to s. 11	
