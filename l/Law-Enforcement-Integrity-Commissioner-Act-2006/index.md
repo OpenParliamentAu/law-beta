@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00845/Html/823b4b8c-f3ec-432b-bff0-f3e7b289f71f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00153/Html/33110c18-4aca-4956-8329-a12b2d353090_files/image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 19 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 29 March 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -192,8 +192,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [63](#63).          Integrity Commissioner may request individual progress report
 
-[64](#64).          Integrity Commissioner may request periodic progress 
- reports
+[64](#64).          Integrity Commissioner may request periodic progress reports
 
 [65](#65).          Head of law enforcement agency to keep person who referred corruption issue informed of progress of investigation
 
@@ -363,8 +362,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [123](#123).        Use of electronic equipment at premises without expert assistance
 
-[124](#124).        Use of electronic equipment at premises with expert 
- assistance
+[124](#124).        Use of electronic equipment at premises with expert assistance
 
 [125](#125).        Person with knowledge of a computer or a computer system to assist access etc 
 
@@ -703,7 +701,7 @@ Note:          This table relates only to the provisions of th
 
              (2)  Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
 
-##### <a id="3"></a>3  Objects of this Act
+##### <a id="3"></a>3  Objects of this Act
 
              (1)  The objects of this Act are:
 
@@ -7046,7 +7044,7 @@ Opportunity to appear and make submissions
 
                              (ii)  corruption generally in, or the integrity of staff members of, Commonwealth government agencies with a law enforcement function;
 
-                            and report to both Houses of the Parliament on any change that the Committee thinks desirable:
+                            and report to both Houses of the Parliament on any change that the Committee thinks desirable:
 
                             (iii)  to the Integrity Commissioner’s functions or powers; or
 
@@ -7280,8 +7278,6 @@ Definition
 
 The _Law Enforcement Integrity Commissioner Act 2006_ as shown in this compilation comprises Act No. 85, 2006 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -7364,23 +7360,6 @@ Remainder: 30 Dec 2006</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 747–751) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -7545,59 +7524,5 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
     <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 747  Subsection 175(2) (note)
-
-Repeal the note, substitute:
-
-Note:          The Integrity Commissioner  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 748  Subsection 177(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 749  Subsection 177(3)
-
-Repeal the subsection.
-
-## 750  Subsection 187(1) (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 751  Subsection 187(3)
-
-Repeal the subsection.
-
-As at 19 October 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
