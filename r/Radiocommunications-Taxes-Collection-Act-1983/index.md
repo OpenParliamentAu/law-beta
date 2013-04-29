@@ -1,639 +1,569 @@
-![](http://www.comlaw.gov.au/Details/C2005C00378/Html/6fbc8337-ebc7-417b-832c-646d43fe961b_files/image001.gif)
+**
 
-# Radiocommunications Taxes Collection Act 1983
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983 
+**
 
-**Act No. 133 of 1983 as amended**
 
-This compilation was prepared on 1 July 2005
- taking into account amendments up to Act No. 45 of 2005
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Incorporation of Radiocommunications Act
+**
 
-[4](#4).            Interpretation
+###  Long Title 
+**
+Radiocommunications Act 1992
 
-[5](#5).            Application of Radiocommunications Act
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Radiocommunications Taxes Collection Act 1983_.
 
-[6](#6).            By whom tax payable
+ 
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the date fixed for the purposes of
 
-[7](#7).            Time of payment
+subsection 2(1) of the _Radiocommunications Act 1983_.
 
-[7A](#7A).         Unpaid tax penalty determinations
+ 
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 3  Incorporation of Radiocommunications Act 
+The _Radiocommunications Act 1992_ is incorporated and shall be read as
 
-[8](#8).            Exemptions from tax
+one with this Act.
 
-[9](#9).            Statutory corporations to be subject to tax
+ 
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 4  Interpretation 
+In this Act, unless the contrary intention appears:
 
-[10](#10).          Recovery of tax
+ 
+<dl compact=""><dl compact="">
 
-[10A](#10A).       Collection of taxes on behalf of the Commonwealth
+_initial holding date_ has the same meaning as in the
 
-[11](#11).          Regulations
+_Radiocommunications (Spectrum Licence Tax) Act 1997_. _instrument_ means a licence or a permit. _tax_ means apparatus licence tax or spectrum licence tax.  </dl></dl>
 
-**Notes** 
+**
 
- 
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 5  Application of Radiocommunications Act 
+**
 
-## An Act to provide for the collection of taxes imposed in relation to the _Radiocommunications Act 1992_
+ <dl compact="">
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+		Part 1.4 of the _Radiocommunications Act 1992_ applies to this Act in
 
-                   This Act may be cited as the _Radiocommunications Taxes Collection Act 1983_.
+the same manner that it applies to that Act.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+ </dl>
 
-                   This Act shall come into operation on the date fixed for the purposes of subsection 2(1) of the _Radiocommunications Act 1983_.
+**
 
-##### <a id="3"></a>3  Incorporation of Radiocommunications Act
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 6  By whom tax payable 
+**
 
-                   The _Radiocommunications Act 1992_ is incorporated and shall be read as one with this Act.
+ <dl compact="">
 
-##### <a id="4"></a>4  Interpretation
+<dt>(1)</dt><dd>The apparatus licence tax on the issue, the anniversary of the issue or
 
-                   In this Act, unless the contrary intention appears:
+the holding of an instrument is payable by the holder of the instrument.</dd> <dt>(2)</dt><dd>The spectrum licence tax on the initial holding date for a spectrum licence, or on an anniversary of the initial holding date for a spectrum licence, is payable by the licensee. </dd> </dl>
 
-                    <a name="initi-hold-date"></a>**_initial holding date_** has the same meaning as in the _Radiocommunications (Spectrum Licence Tax) Act 1997_.
+**
 
-                    <a name="instrum"></a>**_instrument_** means a licence or a permit.
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 7  Time of payment 
+**
 
-                    <a name="tax"></a>**_tax_** means apparatus licence tax or spectrum licence tax.
+ <dl compact="">
 
-##### <a id="5"></a>5  Application of Radiocommunications Act
+<dt>(1)</dt><dd>The apparatus licence tax imposed on the issue of an instrument is payable
 
-                   Part 1.4 of the _Radiocommunications Act 1992_ applies to this Act in the same manner that it applies to that Act.
+on the issue of the instrument.</dd> <dt>(2)</dt><dd>The apparatus licence tax imposed on the anniversary of the day on which an instrument came into force is payable on that anniversary.</dd> <dt>(3)</dt><dd>The apparatus licence tax imposed on the holding of an instrument on the anniversary of the day on which the instrument came into force is payable on that anniversary.</dd> <dt>(4)</dt><dd>The apparatus licence tax imposed on the holding of an instrument 60 days after the anniversary of the day on which the instrument came into force is payable on the day after the end of that period.</dd> <dt>(5)</dt><dd>The spectrum licence tax imposed on the initial holding date for a spectrum licence is payable 60 days after that date.</dd> <dt>(6)</dt><dd>The spectrum licence tax imposed on an anniversary of the initial holding date for a spectrum licence is payable 60 days after that anniversary. </dd> </dl>
 
-##### <a id="6"></a>6  By whom tax payable
+<center>Back to Top</center>
 
-             (1)  The apparatus licence tax on the issue, the anniversary of the issue or the holding of an instrument is payable by the holder of the instrument.
+**
 
-             (2)  The spectrum licence tax on the initial holding date for a spectrum licence, or on an anniversary of the initial holding date for a spectrum licence, is payable by the licensee.
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 7A  Unpaid tax penalty determinations 
+**
 
-##### <a id="7"></a>7  Time of payment
+ <dl compact="">
 
-             (1)  The apparatus licence tax imposed on the issue of an instrument is payable on the issue of the instrument.
+<dt>(1)</dt><dd>The ACA may make determinations in writing for, and in relation to, the
 
-             (2)  The apparatus licence tax imposed on the anniversary of the day on which an instrument came into force is payable on that anniversary.
+penalty payable by the holder of an instrument to the Commonwealth in relation
 
-             (3)  The apparatus licence tax imposed on the holding of an instrument on the anniversary of the day on which the instrument came into force is payable on that anniversary.
+to apparatus licence tax that remains unpaid after the due day.</dd> <dt>(1A)</dt><dd>The ACA may make determinations in writing for, and in relation to, the penalty payable by the licensee for a spectrum licence in relation to spectrum licence tax that remains unpaid after the due day.</dd> <dt>(2)</dt><dd>A determination under subsection (1) or (1A) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> </dl>
 
-             (4)  The apparatus licence tax imposed on the holding of an instrument 60 days after the anniversary of the day on which the instrument came into force is payable on the day after the end of that period.
+**
 
-             (5)  The spectrum licence tax imposed on the initial holding date for a spectrum licence is payable 60 days after that date.
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 8  Exemptions from tax 
+**
 
-             (6)  The spectrum licence tax imposed on an anniversary of the initial holding date for a spectrum licence is payable 60 days after that anniversary.
+ <dl compact="">
 
-##### <a id="7A"></a>7A  Unpaid tax penalty determinations
+<dt>(1)</dt><dd>The regulations may exempt persons included in specified classes of
 
-             (1)  The ACMA may make determinations in writing for, and in relation to, the penalty payable by the holder of an instrument to the Commonwealth in relation to apparatus licence tax that remains unpaid after the due day.
+persons from the payment of apparatus licence tax in respect of instruments
 
-          (1A)  The ACMA may make determinations in writing for, and in relation to, the penalty payable by the licensee for a spectrum licence in relation to spectrum licence tax that remains unpaid after the due day.
+included in specified classes of instruments.</dd> <dt>(2)</dt><dd>The regulations may exempt persons included in specified classes of persons from the payment of spectrum licence tax in relation to spectrum licences included in specified classes of spectrum licences. </dd> </dl>
 
-             (2)  A determination under subsection (1) or (1A) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+**
 
-##### <a id="8"></a>8  Exemptions from tax
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 9  Statutory corporations to be subject to tax 
+**
 
-             (1)  The regulations may exempt persons included in specified classes of persons from the payment of apparatus licence tax in respect of instruments included in specified classes of instruments.
+ <dl compact="">
 
-             (2)  The regulations may exempt persons included in specified classes of persons from the payment of spectrum licence tax in relation to spectrum licences included in specified classes of spectrum licences.
+<dt>(1)</dt><dd>Notwithstanding any law of the Commonwealth passed or made before the
 
-##### <a id="9"></a>9  Statutory corporations to be subject to tax
+commencement of this Act but subject to any regulations referred to in section
 
-             (1)  Notwithstanding any law of the Commonwealth passed or made before the commencement of this Act but subject to any regulations referred to in section 8, a corporation established by or under a law of the Commonwealth or of a Territory is subject to apparatus licence tax.
+8, a corporation established by or under a law of the Commonwealth or of a
 
-             (2)  Despite any law of the Commonwealth passed or made before the commencement of this subsection but subject to any regulations referred to in section 8, a corporation established by or under a law of the Commonwealth or of a Territory is subject to spectrum licence tax.
+Territory is subject to apparatus licence tax.</dd> <dt>(2)</dt><dd>Despite any law of the Commonwealth passed or made before the commencement of this subsection but subject to any regulations referred to in section 8, a corporation established by or under a law of the Commonwealth or of a Territory is subject to spectrum licence tax. </dd> </dl>
 
-##### <a id="10"></a>10  Recovery of tax
+**
 
-                   Tax that is due may be recovered as a debt due to the Commonwealth.
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 10  Recovery of tax 
+**
 
-##### <a id="10A"></a>10A  Collection of taxes on behalf of the Commonwealth
+ <dl compact="">
 
-                   The ACMA may enter into arrangements with persons or other bodies under which those persons or other bodies may, on the Commonwealth’s behalf, receive from persons payments of tax.
+		Tax that is due may be recovered as a debt due to the Commonwealth.
 
-##### <a id="11"></a>11  Regulations
+ </dl>
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+**
 
-                     (a)  required or permitted by this Act to be prescribed; or
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 10A  Collection of taxes on behalf of the Commonwealth 
+**
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+ <dl compact="">
 
-             (2)  Without limiting the generality of subsection (1), regulations made under that subsection may make provision for or in relation to:
+		The ACA may enter into arrangements with persons or other bodies under which
 
-                     (a)  the manner of payment of tax; and
+those persons or other bodies may, on the Commonwealth's behalf, receive from
 
-                     (b)  the remission or refund of tax in specified circumstances. 
+persons payments of tax.
 
-# Notes to the _Radiocommunications Taxes Collection Act 1983_
+ </dl>
 
-### Note 1
+**
 
-The _Radiocommunications Taxes Collection Act 1983_ as shown in this compilation comprises Act No. 133, 1983 amended as indicated in the Tables below.
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983- SECT 11  Regulations 
+**
 
-For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
+ <dl compact="">
 
-For all other information pertaining to application, saving or transitional provisions _see_ Table A.
+<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
 
-### Table of Acts
+prescribing matters:
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="0%">
-  <col width="14%">
-</colgroup>
+</dd> </dl>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Without limiting the generality of subsection (1), regulations made under
+
+that subsection may make provision for or in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the manner of payment of tax; and</dd>
+
+<dt>(b)</dt><dd>the remission or refund of tax in specified circumstances.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  RADIOCOMMUNICATIONS TAXES COLLECTION ACT 1983<centreit>Notes to the _Radiocommunications Taxes Collection Act 1983_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Radiocommunications Taxes Collection Act 1983_ as shown in this compilation comprises Act No. 133, 1983 amended as indicated in the Tables 
+<center>Back to Top</center>
+ below.
+ For all information pertaining to application, saving or transitional provisions _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Radiocommunications Taxes Collection Act 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radiocommunications Taxes Collection Act 1983</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>133, 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Dec 1983</div>
+
   </td>
-  <td colspan="2">
-    <div>20 Aug 1985 ( <i>see Gazette</i>1985, No. S322)</div>
+  <td colspan="1" align="left">
+    <div>20 Aug 1985 ( <i>see Gazette</i>1985, No.&#160;S322)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications Taxes Collection Amendment Act 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radiocommunications Taxes Collection Amendment Act 1992</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>145, 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7 Dec 1992</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>1 July 1993</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications Taxes Collection Amendment Act 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radiocommunications Taxes Collection Amendment Act 1995</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>109, 1995</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29 Sept 1995</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>29 Mar 1996</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>59, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3 May 1997</div>
+
   </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 43–47): 1 July 1997 <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items 43-47): 1 July 1997 <i>(a)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Sch. 1 (items 46, 47)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications Legislation Amendment Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radiocommunications Legislation Amendment Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>145, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9 Oct 1997</div>
+
   </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 9–24): Royal Assent <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items 9-24): Royal Assent <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications Legislation Amendment Act 2000</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Radiocommunications Legislation Amendment Act 2000</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>34, 2000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3 May 2000</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>31 May 2000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Sch. 3 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005</div>
-  </td>
-  <td>
-    <div>45, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2: <i>(c)</i> 
-Schedule 4: 1 July 2005 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
 
- 
-
-_(a)_     The _Radiocommunications Taxes Collection Act 1983_ was amended by Schedule 1 (items 43–47) only of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2) of which provides as follows:
-
-                 (2)   The following provisions commence on 1 July 1997:
-
-                              (a)   Part 2;
-
-                              (b)   Part 3 (other than Divisions 1, 2, 3, 4, 13, 14, 15, 16 and 23);
-
-                              (c)   Part 4;
-
-                              (d)   Schedule 1;
-
-                              (e)   Schedule 2;
-
-                               (f)   Schedule 5.
-
-_(b)_     The _Radiocommunications Taxes Collection Act 1983_ was amended by Schedule 1 (items 
- 9–24) only of the _Radiocommunications Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(c)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the provision(s) covered by table
-        item 2.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2005
-    </div>
   </td>
 </tr></table>
 
- 
+<center>Back to Top</center>
 
-## Table of Amendments
+_(a)_	The _Radiocommunications Taxes Collection Act 1983_ was amended by Schedule 1 (items 43-47) only of the _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2) of which provides as follows:
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+	(2)	The following provisions commence on 1 July 1997:
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+	(a)	Part 2;
+ 	(b)	Part 3 (other than Divisions 1, 2, 3, 4, 13, 14, 15, 16 and 23);
+ 	(c)	Part 4;
+ 	(d)	Schedule 1;
+ 	(e)	Schedule 2;
+ 	(f)	Schedule 5.
+
+_(b)_	The _Radiocommunications Taxes Collection Act 1983_ was amended by Schedule 1 (items 9-24) only of the _Radiocommunications Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Title</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 145, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 145, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 145, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. Nos. 59 and 145, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 145, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 145, 1992; No. 109, 1995; No. 145, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 145, 1992; No. 109, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 145, 1997; No. 34, 2000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7A</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 109, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. Nos. 59 and 145, 1997; No. 45, 2005</div>
+  <td colspan="1" align="left">
+    <div>am. Nos. 59 and 145, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 8, 9</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 145, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 145, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10A</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 145, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. No. 59, 1997; No. 45, 2005</div>
+  <td colspan="1" align="left">
+    <div>am. No. 59, 1997</div>
+
   </td>
 </tr></table>
 
- 
+**Table A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997_ (No. 59, 1997)
 
-_Telecommunications (Transitional Provisions and Consequential Amendments) Act 1997 (No. 59, 1997)_
+**Schedule 1** **46  Transitional&#151;determinations** (1)	This item applies to a determination that was in force under section 7A of the _Radiocommunications Taxes Collection Act 1983_ immediately before the commencement of this item.
+ (2)	The _Radiocommunications Taxes Collection Act 1983_ has effect, after the commencement of this item, as if the determination had been made by the ACA under section 7A of the _Radiocommunications Taxes Collection Act 1983_ as amended by this Act.
+ (3)	This item does not prevent the variation or revocation of the determination.
 
-## Schedule 1
+**47  Transitional&#151;arrangements**
 
-## 46  Transitional—determinations
+(1)	This item applies to an arrangement that was in force under section&#160;10A of the _Radiocommunications Taxes Collection Act 1983_ immediately before the commencement of this item.
+ (2)	The _Radiocommunications Taxes Collection Act 1983_ has effect, after the commencement of this item, as if the arrangement had been entered into by the ACA under section 10A of the _Radiocommunications Taxes Collection Act 1983_ as amended by this Act.
+ (3)	This item does not prevent the variation or termination of the arrangement.
 
-(1)       This item applies to a determination that was in force under section 7A of the _Radiocommunications Taxes Collection Act 1983_ immediately before the commencement of this item.
+_Radiocommunications Legislation Amendment Act 2000_(No. 34, 2000)
 
-(2)       The _Radiocommunications Taxes Collection Act 1983_ has effect, after the commencement of this item, as if the determination had been made by the ACA under section 7A of the _Radiocommunications Taxes Collection Act 1983_ as amended by this Act.
+**Schedule 3** 4  Time tax becomes payable The amendments made by items 24, 25 and 26 of Schedule 2 apply in relation to the imposition of tax in respect of an instrument, if both:
 
-(3)       This item does not prevent the variation or revocation of the determination.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 47  Transitional—arrangements
+<dt>(a)</dt><dd>the relevant anniversary of the issue of the instrument; and</dd>
 
-(1)       This item applies to an arrangement that was in force under section 10A of the _Radiocommunications Taxes Collection Act 1983_ immediately before the commencement of this item.
+<dt>(b)</dt><dd>the corresponding anniversary of the instrument coming into force;
 
-(2)       The _Radiocommunications Taxes Collection Act 1983_ has effect, after the commencement of this item, as if the arrangement had been entered into by the ACA under section 10A of the _Radiocommunications Taxes Collection Act 1983_ as amended by this Act.
+</dd>
 
-(3)       This item does not prevent the variation or termination of the arrangement.
-
-* * *
-
-_Radiocommunications Legislation Amendment Act 2000 (No. 34, 2000)_
-
-## Schedule 3
-
-## 4  Time tax becomes payable
-
-The amendments made by items 24, 25 and 26 of Schedule 2 apply in relation to the imposition of tax in respect of an instrument, if both:
-
-                     (a)  the relevant anniversary of the issue of the instrument; and
-
-                     (b)  the corresponding anniversary of the instrument coming into force;
+</dl></dl></dl>
 
 occur after the commencement of those items.
 
- 
+ 
+
+
