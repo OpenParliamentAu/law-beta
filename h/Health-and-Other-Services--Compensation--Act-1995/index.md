@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00318/Html/be067895-6e19-4040-9bfa-fb3e6fc0759a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00678/Html/d6dbc10a-4459-49b0-9c1a-dbb5e062f84d_files/image001.gif)
 
 # Health and Other Services (Compensation) Act 1995
 
 **Act No. 130 of 1995 as amended**
 
-This compilation was prepared on 21 March 2012
+This compilation was prepared on 22 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -18,147 +18,147 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Definition of _compensation_
+[4](#4).            Definition of _compensation_                                                                  7
 
-[5](#5).            Application of this Act to events occurring before the commencement of this Act
+[5](#5).            Application of this Act to events occurring before the commencement of this Act   8
 
-[6](#6).            Crown to be bound
+[6](#6).            Crown to be bound                                                                              9
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                        9
 
 **Part 2—Consequences of compensation payments** 
 
     **Division 1—Medicare benefit**
 
-[7](#7).            Reimbursement of amounts payable for professional services
+[7](#7).            Reimbursement of amounts payable for professional services           10
 
-[8](#8).            Recovering past payments of medicare benefit from judgments and settlements
+[8](#8).            Recovering past payments of medicare benefit from judgments and settlements      11
 
     **Division 2—Nursing home benefit and residential care subsidy**
 
-[9](#9).            Reimbursement of amounts payable for nursing home care or residential care
+[9](#9).            Reimbursement of amounts payable for nursing home care or residential care         13
 
-[10](#10).          Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements
+[10](#10).          Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements    14
 
 **Part 3—Payments to the Commonwealth in respect of compensation payments** 
 
     **Division 1—Notices about compensation claims etc.**
 
-[11](#11).          Operation of Division
+[11](#11).          Operation of Division                                                                        17
 
-[13](#13).          Notice of reimbursement arrangements
+[13](#13).          Notice of reimbursement arrangements                                              17
 
-[14](#14).          Notice of intention to recover amounts
+[14](#14).          Notice of intention to recover amounts                                               17
 
-[17](#17).          Notice to claimant
+[17](#17).          Notice to claimant                                                                               18
 
-[18](#18).          Statement by claimant of past benefits
+[18](#18).          Statement by claimant of past benefits                                                19
 
-[19](#19).          Reconsideration of decisions about extensions of the period for giving statements
+[19](#19).          Reconsideration of decisions about extensions of the period for giving statements  22
 
-[20](#20).          Effect of date of hearing on period for giving statement
+[20](#20).          Effect of date of hearing on period for giving statement                     22
 
-[21](#21).          Notice of past benefits
+[21](#21).          Notice of past benefits                                                                        23
 
-[22](#22).          Restriction on making settlements
+[22](#22).          Restriction on making settlements                                                      25
 
-[23](#23).          Notice of judgment or settlement
+[23](#23).          Notice of judgment or settlement                                                        26
 
-[23A](#23A).       Statement after judgment or settlement—no relevant past benefits
+[23A](#23A).       Statement after judgment or settlement—no relevant past benefits     28
 
-[23B](#23B).       Notice of statement that is not substantially correct
+[23B](#23B).       Notice of statement that is not substantially correct                            30
 
-[23C](#23C).       Notice of acceptance of amended statement
+[23C](#23C).       Notice of acceptance of amended statement                                        31
 
-[23D](#23D).       Review of decision under section 23B by the Administrative Appeals Tribunal
+[23D](#23D).       Review of decision under section 23B by the Administrative Appeals Tribunal      31
 
-[24](#24).          Notice of charge—claims resulting in judgments or settlements
+[24](#24).          Notice of charge—claims resulting in judgments or settlements        32
 
-[25](#25).          Notice of charge—claims resulting in reimbursement arrangements
+[25](#25).          Notice of charge—claims resulting in reimbursement arrangements  34
 
-[26](#26).          Offences
+[26](#26).          Offences                                                                                             35
 
     **Division 2—Payments to the Commonwealth in respect of amounts of compensation**
 
-[27](#27).          Limit on total amount payable in respect of amounts of compensation
+[27](#27).          Limit on total amount payable in respect of amounts of compensation 38
 
-[28](#28).          Payments to the Commonwealth
+[28](#28).          Payments to the Commonwealth                                                        38
 
-[29](#29).          Recovery of amounts payable to the Commonwealth
+[29](#29).          Recovery of amounts payable to the Commonwealth                         39
 
-[30](#30).          Notice of charge suspends liability to pay compensation etc 
+[30](#30).          Notice of charge suspends liability to pay compensation etc              40
 
-[31](#31).          Payment to the Commonwealth discharges liability
+[31](#31).          Payment to the Commonwealth discharges liability                           40
 
-[32](#32).          Offence to make payment before discharging liability to the Commonwealth
+[32](#32).          Offence to make payment before discharging liability to the Commonwealth          41
 
-[33](#33).          Interest not payable on amount withheld
+[33](#33).          Interest not payable on amount withheld                                            43
 
     **Division 2A—Advance payments to the Commonwealth**
 
-[33A](#33A).       Notice of advance payment
+[33A](#33A).       Notice of advance payment                                                                44
 
-[33B](#33B).       Advance payments
+[33B](#33B).       Advance payments                                                                             44
 
-[33C](#33C).       Notice of past benefits
+[33C](#33C).       Notice of past benefits                                                                        45
 
-[33D](#33D).       Time within which notice of past benefits must be given
+[33D](#33D).       Time within which notice of past benefits must be given                   46
 
-[33H](#33H).       Refunds from advance payments
+[33H](#33H).       Refunds from advance payments                                                       46
 
-[33J](#33J).        Additional payments to the Commonwealth
+[33J](#33J).        Additional payments to the Commonwealth                                       47
 
-[33K](#33K).       Payment of the whole of the advance payment
+[33K](#33K).       Payment of the whole of the advance payment                                   47
 
-[33L](#33L).        Advance payments to the Commonwealth discharge liability
+[33L](#33L).        Advance payments to the Commonwealth discharge liability             47
 
-[33M](#33M).      Interest not payable on advance payments
+[33M](#33M).      Interest not payable on advance payments                                          48
 
     **Division 3—Waiver of the requirements of this Part**
 
-[34](#34).          Bulk payment agreements
+[34](#34).          Bulk payment agreements                                                                  49
 
-[35](#35).          Waiver—bulk payment agreements
+[35](#35).          Waiver—bulk payment agreements                                                    50
 
-[36](#36).          Extended waiver—settlements during periods of bulk payment agreements
+[36](#36).          Extended waiver—settlements during periods of bulk payment agreements            51
 
-[37](#37).          Limits of waiver—bulk payment agreements
+[37](#37).          Limits of waiver—bulk payment agreements                                     52
 
-[38](#38).          Waiver—small amounts of compensation
+[38](#38).          Waiver—small amounts of compensation                                          52
 
 **Part 4—Administration** 
 
     **Division 1—General**
 
-[39](#39).          General administration of Act
+[39](#39).          General administration of Act                                                            54
 
-[40](#40).          Additional functions of the Chief Executive Medicare
+[40](#40).          Additional functions of the Chief Executive Medicare                       54
 
-[41](#41).          Delegation
+[41](#41).          Delegation                                                                                          54
 
     **Division 2—Power to obtain information**
 
-[42](#42).          Chief Executive Medicare etc  may obtain information etc 
+[42](#42).          Chief Executive Medicare etc  may obtain information etc                 56
 
-[43](#43).          Content of notices
+[43](#43).          Content of notices                                                                              57
 
-[44](#44).          Offences
+[44](#44).          Offences                                                                                             57
 
-[45](#45).          Exemption
+[45](#45).          Exemption                                                                                          58
 
 **Part 5—Miscellaneous**
 
-[46](#46).          Form of notices etc 
+[46](#46).          Form of notices etc                                                                             59
 
-[47](#47).          Regulations
+[47](#47).          Regulations                                                                                        59
 
 **Notes** 
 
@@ -1654,7 +1654,7 @@ cannot be used against the person. However, this subsection does not apply to a 
 
                      (b)  in such other form as the Chief Executive Medicare accepts.
 
-Note:          For **_document_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For **_document_**, see section 25 of the _Acts Interpretation Act 1901_.
 
 ##### <a id="47"></a>47  Regulations
 
@@ -1715,8 +1715,7 @@ of Assent</div>
     <div>14 Nov 1995</div>
   </td>
   <td>
-    <div>1 Feb 1996 ( <i>see Gazette</i>1996, 
-No. GN2)</div>
+    <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
   </td>
   <td>
     <div></div>
@@ -1837,7 +1836,7 @@ Schedule 3 (items 3–7): <i>(c)</i></div>
     <div>6 Sept 2005</div>
   </td>
   <td>
-    <div>Schedule 2 (items 92–203): 1 Oct 2005 ( <i>see</i>F2005L02671)</div>
+    <div>Schedule 2 (items 92–203): 1 Oct 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -1888,7 +1887,7 @@ Schedule 3 (items 3–7): <i>(c)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 672) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 672) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2677,15 +2676,21 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
   <td>
     <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 672  Section 46 (note)
+
+Omit “section 25”, substitute “section 2B”.
+
+As at 22 August 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -2747,6 +2752,8 @@ The amendment of paragraph 17(6)(a) of the _Health and Other Services (Compensat
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
