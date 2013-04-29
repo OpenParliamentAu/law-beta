@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00769/Html/43b29ecc-8197-46d9-b2ab-1a18ea86e635_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00348/Html/d0e011d0-cb90-4120-83c5-684285173d01_files/image001.gif)
 
 # Special Broadcasting Service Act 1991
 
 **Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 31 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 28 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -220,6 +221,16 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [91](#91).           Annual report and financial statements
 
 [92](#92).          Transfer of appropriations
+
+**Part 9—Consequential amendments of the Broadcasting Act 1942** 
+
+Sections 93 to 115
+
+**Part 10—Consequential amendments of other Acts**
+
+[116](#116).        Consequential amendments of other Acts
+
+**Schedule—Consequential amendments of other Acts** 
 
 **Notes** 
 
@@ -1087,7 +1098,7 @@ the Minister may direct the ACMA to conduct an investigation into the matter.
 
                     <a name="elect-period"></a>**_election period_** means:
 
-                     (a)  in relation to an election to the Legislative Council of Tasmania, or an ordinary election to the Legislative Assembly for the Australian Capital Territory—the period that starts 33 days before the polling day for the election and ends at the close of the poll on that day; and
+                     (a)  in relation to an election to the Legislative Council of Tasmania, or an ordinary election to the Legislative Assembly of the Australian Capital Territory—the period that starts 33 days before the polling day for the election and ends at the close of the poll on that day; and
 
                      (b)  in relation to any other election to a Parliament—the period that starts on:
 
@@ -1159,7 +1170,7 @@ the Minister may direct the ACMA to conduct an investigation into the matter.
 
              (6)  The obligation imposed by this section on the SBS to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
 
-##### <a id="70C"></a>70C  Broadcasting of election advertisements
+##### <a id="70C"></a>70C  Broadcasting of election advertisements
 
              (1)  If:
 
@@ -1376,6 +1387,49 @@ the SBS must not broadcast an election advertisement in relation to the election
              (3)  In this section:
 
                     <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for the financial year ending on 30 June 1992, and includes an Act making interim provision for such an appropriation.
+
+## Part 9—Consequential amendments of the Broadcasting Act 1942 
+
+##### Sections <a id="93 to 115"></a>93 to 115
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on ComLaw.
+
+_Broadcasting Act 1942_
+ <span style="font-size:9.0pt">\[repealed by Act No. 105, 1992 as amended by Act No. 120, 2002]</span>
+
+For access to the wording of the amendments made by this Part, _see_ Act  No. 180, 1991.
+
+* * *
+
+## Part 10—Consequential amendments of other Acts
+
+##### <a id="116"></a>116  Consequential amendments of other Acts
+
+             (1)  The Acts specified in the Schedule are amended as set out in the Schedule.
+
+             (2)  The amendments made to section 91 of the _Copyright Act 1968_ by subsection (1) do not affect the continued subsistence of any copyright that, immediately before the commencement of this section, subsisted in a television broadcast or sound broadcast that had been made from a place in Australia by the Special Broadcasting Service before the commencement of this section. 
+
+# Schedule—Consequential amendments of other Acts
+
+Section <a id="116"></a>116
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+Archives Act 1983
+
+Australian Broadcasting Corporation Act 1983
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 180, 1991.
+
+* * *
 
 # Notes to the _Special Broadcasting Service Act 1991_
 
@@ -1687,7 +1741,7 @@ Schedule 2: <i>(h)</i></div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 5 (item 138) and Schedule 6 (items 5–11): Royal Assent</div>
+    <div>Schedule 5 (item 138) and Schedule 6 (items 5–11): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 
@@ -1725,41 +1779,7 @@ Schedule 2: <i>(h)</i></div>
     <div>Schedule 2 (items 1060–1066) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Broadcasting Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>112, 2012</div>
-  </td>
-  <td>
-    <div>24 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 18–30): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 30) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 119) and Schedule 6 (items 70–72): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 72) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1975,8 +1995,8 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2359,7 +2379,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     <div></div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 136, 2012</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2425,411 +2445,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   <td>
     <div>am. No. 146, 1999</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 9</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 96</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 10</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
-
-### Note 2
-
-_National Broadcasting Legislation Amendment Act 2012 (No. 112, 2012)_
-
-The following amendments commence on 24 January 2013 unless proclaimed earlier:
-
-## Schedule 1
-
-## 18  Section 3
-
-Insert:
-
-                    <a name="nomin-panel"></a>**_Nomination Panel_** means the Nomination Panel established under section 24A of the _Australian Broadcasting Corporation Act 1983_.
-
-## 19  After paragraph 8(a)
-
-Insert:
-
-                    (aa)  the Chairperson; and
-
-## 20  Paragraph 8(b)
-
-Omit “4”, substitute “3”.
-
-## 21  Paragraph 8(b)
-
-Omit “8”, substitute “7 other”.
-
-## 22  Subsection 17(2)
-
-Omit “In appointing a person as a non‑executive Director, the Governor‑General”, substitute “Before the Governor‑General appoints a person as a non‑executive Director, the Minister”.
-
-## 23  Paragraph 17(2)(c)
-
-Omit “Governor‑General”, substitute “Minister”.
-
-## 24  After subsection 17(2)
-
-Insert:
-
-          (2A)  The following persons are not eligible for appointment as a non‑executive Director referred to in paragraph 8(aa) or (b):
-
-                     (a)  a member or former member of the Parliament of the Commonwealth;
-
-                     (b)  a member or former member of the Parliament of a State, of the Legislative Assembly for the Australian Capital Territory or of the Legislative Assembly of the Northern Territory;
-
-                     (c)  a person who is or was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_).
-
-       (2AA)  However, so far as subsection (2A) relates to a person who:
-
-                     (a)  is a former member of a Parliament or a Legislative Assembly referred to in that subsection; or
-
-                     (b)  was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_);
-
-that subsection applies only for the period of 12 months beginning on the day the person ceased to be a member of that Parliament or that Legislative Assembly or a senior political staff member (within the meaning of that Act).
-
-       (2AB)  A person who:
-
-                     (a)  is a former member of a Parliament or a Legislative Assembly referred to in subsection (2A); or
-
-                     (b)  was a senior political staff member (within the meaning of the _Australian Broadcasting Corporation Act 1983_);
-
-must not be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) unless, in accordance with Part 3A, the Nomination Panel has nominated the person for the appointment.
-
-          (2B)  Subject to subsection (2C), a person must not be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) unless Part 3A is complied with.
-
-          (2C)  The Minister may recommend to the Governor‑General that a particular person be re‑appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) without Part 3A being complied with.
-
-## 25  At the end of subsection 17(3)
-
-Add “(including a failure to comply with Part 3A)”.
-
-## 26  At the end of section 18
-
-Add:
-
-             (3)  The sum of the periods for which a person holds either or both of the following offices must not exceed 10 years:
-
-                     (a)  an office referred to in paragraph 8(aa);
-
-                     (b)  an office referred to in paragraph 8(b).
-
-Example 1: Assume a person holds office as Chairperson for an initial period of 5 years and then holds office as Chairperson for a further period of 5 years.
-
-                   The person cannot hold office as Chairperson again and cannot hold office as a Director referred to in paragraph 8(b).
-
-Example 2: Assume a person holds office as a Director referred to in paragraph 8(b) for a period of 5 years and then holds office as Chairperson for a period of 3 years.
-
-The person may now hold office as Chairperson, or as a Director referred to in paragraph 8(b), for a maximum period of 2 years.
-
-## 27  Subsection 21(1)
-
-Omit “to be the Chairperson of the Board and another of the non‑executive Directors”.
-
-_Note:       The heading to section 21 is altered by omitting “Chairperson and”._
-
-## 28  Subsection 21(2)
-
-Omit “Chairperson,” (first occurring).
-
-## 29  After Part 3
-
-Insert:
-
-## Part 3A—Merit‑based appointment of non‑executive Directors
-
-##### <a id="43"></a>43  Functions of Nomination Panel
-
-             (1)  The functions of the Nomination Panel include:
-
-                     (a)  to conduct a selection process for each appointment of a non‑executive Director referred to in paragraph 8(aa) or (b); and
-
-                     (b)  to assess all applicants for the appointment against the selection criteria determined under subsection 43A(1) and any additional selection criteria notified under subsection 43A(2); and
-
-                     (c)  to assess all applicants for the appointment on the basis of merit; and
-
-                     (d)  to give a written report to the Minister on the outcome of the selection process that contains a list of at least 3 candidates who are nominated for the appointment and a comparative assessment of those candidates.
-
-             (2)  For the purposes of paragraph (1)(c), the assessment of applicants for appointment as a non‑executive Director referred to in paragraph 8(aa) or (b) is based on merit if:
-
-                     (a)  an assessment is made of the comparative suitability of the applicants for the duties of that Director, using a competitive selection process; and
-
-                     (b)  the assessment is based on the relationship between the applicants’ experience, skills and competencies and the experience, skills and competencies genuinely required for the duties of that Director; and
-
-                     (c)  the assessment focuses on the capability of the applicants to achieve outcomes related to the duties of that Director; and
-
-                     (d)  the assessment is the primary consideration in nominating the candidates for that appointment.
-
-Advertising appointments
-
-             (3)  The Nomination Panel must invite written applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(aa) or (b) by advertisements published:
-
-                     (a)  in either or both of the following:
-
-                              (i)  a newspaper circulating generally throughout Australia;
-
-                             (ii)  for each State, the Australian Capital Territory and the Northern Territory—a newspaper circulating generally in that State or Territory; and
-
-                     (b)  on the Department’s website.
-
-Selection process creates another appointment
-
-             (4)  If:
-
-                     (a)  under subsection (3), the Nomination Panel invites applications by persons seeking to be appointed as Chairperson (whether or not it also invites applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(b)); and
-
-                     (b)  as a result of the selection process, a non‑executive Director referred to in paragraph 8(b) is appointed as the Chairperson (allowing another appointment (the **_new appointment_**) of a Director referred to in that paragraph to be made);
-
-then:
-
-                     (c)  the Panel is not required to conduct another selection process for the new appointment; and
-
-                     (d)  if the Panel does not do so—paragraphs (1)(b), (c) and (d) of this section apply in relation to the new appointment as if:
-
-                              (i)  the unsuccessful applicants (other than a non‑executive Director referred to in paragraph 8(b)) for the appointment as Chairperson were applicants for the new appointment; and
-
-                             (ii)  if the Panel also invited applications by persons seeking to be appointed as a non‑executive Director referred to in paragraph 8(b)—the unsuccessful applicants for the appointment were applicants for the new appointment.
-
-##### <a id="43A"></a>43A  Selection criteria
-
-             (1)  The Minister must, by legislative instrument, determine selection criteria for the appointment of a non‑executive Director referred to in paragraph 8(aa) or (b).
-
-             (2)  The Minister may, in relation to a particular such appointment, give a written notice to the Nomination Panel of additional selection criteria for that appointment.
-
-             (3)  A notice under subsection (2) is not a legislative instrument.
-
-##### <a id="43B"></a>43B  Consultation, and selection of candidate not nominated by Nomination Panel
-
-             (1)  If:
-
-                     (a)  the Nomination Panel gives the Minister a report under paragraph 43(1)(d) in relation to the appointment of a non‑executive Director referred to in paragraph 8(aa) or (b); and
-
-                     (b)  the Minister considers that a person not nominated by the Nomination Panel should be appointed;
-
-the Minister must give the Prime Minister a written notice that:
-
-                     (c)  specifies the name of that person; and
-
-                     (d)  sets out the Minister’s reasons for preferring that person.
-
-             (2)  If that person is so appointed, the Minister must table the reasons for that appointment in each House of the Parliament no later than 15 sitting days of that House after that appointment is made. Those reasons must include an assessment of that person against the selection criteria.
-
-##### <a id="43C"></a>43C  Department’s annual report
-
-                   The Department’s annual report for a financial year must include a statement in relation to each selection process for the appointment of a non‑executive Director that was completed in that financial year.
-
-As at 31 October 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2945,47 +2561,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_National Broadcasting Legislation Amendment Act 2012 (No. 112, 2012)_
-
-The following provision commences on 24 January 2013 unless proclaimed earlier:
-
-## Schedule 1
-
-## 30  Application and transitional
-
-(1)       The amendments made by items 24 and 25 apply in relation to appointments made after the commencement of those items.
-
-(2)       Subject to subitem (3), the amendment made by item 26 applies in relation to appointments made before, on or after the commencement of that item (including because of subitem (4)).
-
-(3)       For the person holding the position of Chairperson under the _Special Broadcasting Service Act 1991_ immediately before the commencement of this item, any period occurring before that commencement for which both of the following applied:
-
-                     (a)  the person held an office referred to in paragraph 8(b) of that Act;
-
-                     (b)  the person was not the Chairperson under that Act;
-
-is to be disregarded for the purposes of subsection 18(3) of that Act (as inserted by this Act).
-
-(4)       The person holding the position of Chairperson under the _Special Broadcasting Service Act 1991_ immediately before the commencement of this item is taken, on the commencement of this item, to have been appointed by the Governor‑General under section 17 of that Act as the Director referred to in paragraph 8(aa) of that Act:
-
-                     (a)  for the balance of the person’s term of appointment that remained immediately before the commencement of this item; and
-
-                     (b)  on the same terms and conditions as applied to the person immediately before the commencement of this item.
-
-(5)       Subitem (4) does not prevent those terms and conditions being varied after the commencement of this item.
-
-(6)       The amendments made by this Schedule do not affect the validity of an appointment of a person as a non‑executive Director referred to in paragraph 8(b) of the _Special Broadcasting Service Act 1991_ that was made before the commencement of this item.
-
-* * *
-
-_Statute Law Revision Act 2012 (No. 136, 2012)_
-
-## Schedule 6
-
-## 72  Saving
-
-Despite the repeal of Part 10 of the _Special Broadcasting Service Act 1991_ made by this Schedule, that Part, as in force immediately before the commencement of this item, continues to apply on and after that commencement as if that repeal had not happened.
 
  
