@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00418/Html/c2866e62-ad90-4655-8c88-4e12c689c9a7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00331/Html/d6ba8da1-ca56-421f-9cf4-c19788100a27_files/image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 6 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -914,7 +914,7 @@ whether or not the grant is still being received at the relevant time.
 
 ##### <a id="14F"></a>14F  Minister may make orders
 
-                   The Minister may, by legislative instrument, make orders providing for the following matters:
+                   The Minister may, by legislative instrument, make orders providing for the following matters:
 
                      (a)  the notice requirements to be complied with before the Minister makes a declaration under section 14G;
 
@@ -1970,23 +1970,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 94A): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Disability Services Act 1986_ was amended by Part 3 (sections 11 and 12) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1990_, subsection 2(1) of which provides as follows:
@@ -2980,22 +2963,6 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>rs. No. 65, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendment commences on 1 July 2011:
-
-## Schedule 4
-
-## 94A  At the end of subsection 28(5)
-
-Add:
-
-               ; or (d)  make a record of information with the express or implied authorisation of the person to whom the information relates.
-
-As at 6 June 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
