@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2010C00317/Html/07bc2c9b-c206-4772-aa05-97c0bd3630f0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00133/Html/FCB2BC585A3133A8CA257123007EB7E3/$FILE/image001.gif)
 
 # Foreign Judgments Act 1991
 
 **Act No. 112 of 1991 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 36 of 2010
+This compilation was prepared on 25 October 1999
+taking into account amendments up to Act No. 125 of 1999
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -38,7 +39,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8](#8).            Stay of enforcement of a registered judgment
 
-[9](#9).            Re‑registration of certain registered judgments which have been set aside
+[9](#9).            Re-registration of certain registered judgments which have been set aside
 
 [10](#10).          Registrable judgments not to be otherwise enforceable
 
@@ -64,13 +65,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Enforcement of judgments registered under State or Territory law after commencement of this Act
 
-[20](#20).           Rules of Court
+[20](#20).          Rules of Court
 
 **Part 5—Amendments of other Acts** 
 
 Sections 21, 22
 
 **Notes** 
+
 
 ## An Act relating to the enforcement of foreign judgments in the Commonwealth, and for related purposes
 
@@ -158,13 +160,13 @@ Sections 21, 22
 
                     <a name="tax"></a><a name="new-zealand"></a>**_New Zealand_****_tax_** means tax or other charge of a similar nature payable under the laws of New Zealand, and includes additional or other tax payable, by way of penalty, interest or otherwise, because of a contravention of any of those laws or of a requirement made under any of those laws.
 
-                    <a name="non-monei-judgment"></a>**_non‑money judgment_** means a judgment that is not a money judgment.
+                    <a name="non-monei-judgment"></a>**_non-money judgment_** means a judgment that is not a money judgment.
 
-                    <a name="non-recover-tax"></a>**_non‑recoverable tax_** means tax that is not New Zealand tax or recoverable Papua New Guinea income tax.
+                    <a name="non-recover-tax"></a>**_non-recoverable tax_** means tax that is not New Zealand tax or recoverable Papua New Guinea income tax.
 
                     <a name="origin-court"></a>**_original court_**, in relation to a judgment, means the court by which the judgment was given.
 
-                    <a name="recover-papua-new-guinea-incom-tax"></a>**_recoverable Papua New Guinea income tax_** means tax payable under the laws of Papua New Guinea relating to taxes on income, but does not include:
+                    <a name="incom-tax"></a><a name="papua-new-guinea"></a><a name="recover"></a>**_recoverable_****_Papua New Guinea_****_income tax_** means tax payable under the laws of Papua New Guinea relating to taxes on income, but does not include:
 
                      (a)  additional or other tax payable, by way of penalty, interest or otherwise, because of a contravention of any of those laws or of a requirement made under any of those laws; or
 
@@ -180,7 +182,7 @@ Sections 21, 22
 
              (2)  The regulations may provide that a specified tax, or a tax included in a specified class of taxes, payable under the laws of Papua New Guinea is not a recoverable Papua New Guinea income tax.
 
-             (3)  Regulations are not to be made in relation to a tax or class of taxes unless the Governor‑General is satisfied that the tax, or each tax included in the class, is not properly a tax on income.
+             (3)  Regulations are not to be made in relation to a tax or class of taxes unless the Governor-General is satisfied that the tax, or each tax included in the class, is not properly a tax on income.
 
              (4)  For the purposes of this Act, an award of a kind to which paragraph (c) of the definition of **_judgment_** in subsection (1) applies is taken to be a judgment of the court, referred to in that paragraph, in which the award has become enforceable.
 
@@ -192,11 +194,11 @@ Sections 21, 22
 
 ##### <a id="5"></a>5  Application of this Part on the basis of reciprocity of treatment
 
-             (1)  If the Governor‑General is satisfied that, in the event of the benefits conferred by this Part being applied to money judgments given in the superior courts of a country, substantial reciprocity of treatment will be assured in relation to the enforcement in that country of money judgments given in all Australian superior courts, the regulations may provide that this Part extends in relation to that country.
+             (1)  If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being applied to money judgments given in the superior courts of a country, substantial reciprocity of treatment will be assured in relation to the enforcement in that country of money judgments given in all Australian superior courts, the regulations may provide that this Part extends in relation to that country.
 
              (2)  A specified court of such a country is taken to be a superior court for the purposes of this Act if the regulations so provide, but a failure so to provide in relation to a particular court is not taken to imply that the court is not a superior court for the purposes of this Act.
 
-             (3)  If the Governor‑General is satisfied that, in the event of the benefits conferred by this Part being applied to money judgments given in all or some inferior courts of such a country, substantial reciprocity of treatment will be assured in relation to the enforcement in that country of money judgments given in all or some Australian inferior courts, the regulations may provide that this Part extends in relation to specified inferior courts of that country.
+             (3)  If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being applied to money judgments given in all or some inferior courts of such a country, substantial reciprocity of treatment will be assured in relation to the enforcement in that country of money judgments given in all or some Australian inferior courts, the regulations may provide that this Part extends in relation to specified inferior courts of that country.
 
              (4)  This Part applies to an enforceable money judgment that:
 
@@ -216,15 +218,15 @@ Sections 21, 22
 
 in the courts of the country of the original court.
 
-             (6)  If the Governor‑General is satisfied that, in the event of the benefits conferred by this Part being applied to all or some non‑money judgments given in courts of a country in relation to which this Part extends, substantial reciprocity of treatment will be assured in relation to the enforcement in that country of all or some non‑money judgments given in Australian courts, the regulations may provide that this Part applies to such non‑money judgments, given in the courts of that country, as are prescribed.
+             (6)  If the Governor-General is satisfied that, in the event of the benefits conferred by this Part being applied to all or some non-money judgments given in courts of a country in relation to which this Part extends, substantial reciprocity of treatment will be assured in relation to the enforcement in that country of all or some non-money judgments given in Australian courts, the regulations may provide that this Part applies to such non-money judgments, given in the courts of that country, as are prescribed.
 
-             (7)  Regulations made for the purposes of subsection (6) must provide for the kinds of non‑money judgments, given in the courts of a country, to which this Part applies by specifying or describing:
+             (7)  Regulations made for the purposes of subsection (6) must provide for the kinds of non-money judgments, given in the courts of a country, to which this Part applies by specifying or describing:
 
-                     (a)  the courts in which such non‑money judgments are given; and
+                     (a)  the courts in which such non-money judgments are given; and
 
-                     (b)  the kinds of proceedings in which such non‑money judgments are given; and
+                     (b)  the kinds of proceedings in which such non-money judgments are given; and
 
-                     (c)  the kinds of non‑money judgments.
+                     (c)  the kinds of non-money judgments.
 
              (8)  This Part does not apply to:
 
@@ -232,7 +234,7 @@ in the courts of the country of the original court.
 
                      (b)  a money judgment given by an inferior court before the day on which the regulations extend this Part in relation to that court; or
 
-                     (c)  a non‑money judgment of a particular kind given in a court in proceedings of a particular kind before the day on which the regulations apply this Part to non‑money judgments of that kind given in that court in proceedings of that kind;
+                     (c)  a non-money judgment of a particular kind given in a court in proceedings of a particular kind before the day on which the regulations apply this Part to non-money judgments of that kind given in that court in proceedings of that kind;
 
 unless:
 
@@ -286,7 +288,7 @@ to have the judgment registered in the court.
 
 as if the judgment had been originally given in the court in which it is registered and entered on the date of registration.
 
-             (8)  A judgment registered under this section in the Supreme Court of a State or Territory is registrable in the Supreme Court of any other State or Territory under Part 6 of the _Service and Execution of Process Act 1992_ as if the judgment had been originally given in the first‑mentioned Supreme Court and entered on the day of registration.
+             (8)  A judgment registered under this section in the Supreme Court of a State or Territory is registrable in the Supreme Court of any other State or Territory under Part 6 of the _Service and Execution of Process Act 1992_ as if the judgment had been originally given in the first-mentioned Supreme Court and entered on the day of registration.
 
              (9)  Subsection (8) does not apply if an order has been made under section 8 that enforcement of the judgment be stayed.
 
@@ -310,7 +312,7 @@ as if the judgment had been originally given in the court in which it is registe
 
 on that day from 3 authorised foreign exchange dealers selected by the judgment creditor.
 
-        (11B)  The reference in paragraph (11)(b) to a business day is a reference to a day on which the authorised foreign exchange dealers selected by the judgment creditor as mentioned in subsection (11A) publish rates at which Australian dollars may be bought in the currency in which the judgment is expressed.
+         (11B)  The reference in paragraph (11)(b) to a business day is a reference to a day on which the authorised foreign exchange dealers selected by the judgment creditor as mentioned in subsection (11A) publish rates at which Australian dollars may be bought in the currency in which the judgment is expressed.
 
            (12)  If, on the day of the application for registration of a judgment, the judgment of the original court has been partly satisfied, the judgment is not to be registered in respect of the whole amount payable under the judgment of the original court, but only in respect of the balance remaining payable on that day.
 
@@ -318,11 +320,11 @@ on that day from 3 authorised foreign exchange dealers selected by the judgment 
 
            (14)  Without affecting the operation of subsection (13), where, on an application to a court for the registration of a judgment, it appears to the court that:
 
-                     (a)  the judgment is in respect of an amount of money payable in respect of both recoverable Papua New Guinea income tax and non‑recoverable tax; and
+                     (a)  the judgment is in respect of an amount of money payable in respect of both recoverable Papua New Guinea income tax and non-recoverable tax; and
 
                      (b)  the judgment could have been registered if it had been in respect of recoverable Papua New Guinea income tax only;
 
-the judgment may be registered in respect of the amount less so much as relates to non‑recoverable tax.
+the judgment may be registered in respect of the amount less so much as relates to non-recoverable tax.
 
            (15)  A judgment registered under this section is to be registered for:
 
@@ -356,7 +358,7 @@ the judgment may be registered in respect of the amount less so much as relates 
 
                            (vii)  that the judgment has been reversed on appeal or otherwise set aside in the courts of the country of the original court; or
 
-                          (viii)  that the rights under the judgment are not vested in the person by whom the application for registration was made; or
+                           (viii)  that the rights under the judgment are not vested in the person by whom the application for registration was made; or
 
                             (ix)  that the judgment has been discharged; or
 
@@ -372,7 +374,7 @@ the judgment may be registered in respect of the amount less so much as relates 
 
                               (i)  if the judgment debtor voluntarily submitted to the jurisdiction of the original court; or
 
-                             (ii)  if the judgment debtor was plaintiff in, or counter‑claimed in, the proceedings in the original court; or
+                             (ii)  if the judgment debtor was plaintiff in, or counter-claimed in, the proceedings in the original court; or
 
                             (iii)  if the judgment debtor was a defendant in the original court and had agreed, in respect of the subject matter of the proceedings, before the proceedings commenced, to submit to the jurisdiction of that court or of the courts of the country of that court; or
 
@@ -428,7 +430,7 @@ for the purpose only of one or more of the following:
 
              (4)  An order may be made or such other conditions, including conditions relating to giving security, as the court in which the judgment is registered thinks fit.
 
-##### <a id="9"></a>9  Re‑registration of certain registered judgments which have been set aside
+##### <a id="9"></a>9  Re-registration of certain registered judgments which have been set aside
 
              (1)  If the registration of a judgment is set aside under subparagraph 7(2)(a)(ii), the court in which the judgment was registered must, on the application of the judgment creditor, order that the judgment be registered in respect of the amount payable under the judgment at the date of the application.
 
@@ -462,9 +464,9 @@ for the purpose only of one or more of the following:
 
                      (e)  inviting the court in its discretion not to exercise its jurisdiction in the proceedings.
 
-##### <a id="12"></a>12  General effect of certain judgments
+##### <a id="12"></a>12  General effect of certain judgments
 
-             (1)  Subject to this section, a judgment to which Part 2 applies, or would have applied if it were a money judgment, must, whether or not it is, or can be, registered, be recognised in any Australian court as conclusive between the parties to it in all proceedings founded on the same cause of action and may be relied on by way of defence or counter‑claim in any such proceedings.
+             (1)  Subject to this section, a judgment to which Part 2 applies, or would have applied if it were a money judgment, must, whether or not it is, or can be, registered, be recognised in any Australian court as conclusive between the parties to it in all proceedings founded on the same cause of action and may be relied on by way of defence or counter-claim in any such proceedings.
 
              (2)  This section does not apply to:
 
@@ -476,7 +478,7 @@ for the purpose only of one or more of the following:
 
 ##### <a id="13"></a>13  Money judgments unenforceable if no reciprocity
 
-             (1)  If the Governor‑General is satisfied that the treatment in respect of recognition and enforcement accorded by the courts of a country to money judgments given in Australian superior courts is substantially less favourable than that accorded by Australian superior courts to money judgments of the superior courts of that country, the regulations may provide that this section applies to that country.
+             (1)  If the Governor-General is satisfied that the treatment in respect of recognition and enforcement accorded by the courts of a country to money judgments given in Australian superior courts is substantially less favourable than that accorded by Australian superior courts to money judgments of the superior courts of that country, the regulations may provide that this section applies to that country.
 
              (2)  Except so far as regulations made for the purposes of subsection (1) provide, no proceedings are to be entertained in an Australian court for the recovery of an amount of money alleged to be payable under a judgment given in a country to which this section applies.
 
@@ -514,7 +516,7 @@ for the purpose only of one or more of the following:
 
 ##### <a id="16"></a>16  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -576,33 +578,31 @@ may be registered in the Supreme Court of that State or Territory.
 
 whichever is the earlier.
 
+
 ## Part 5—Amendments of other Acts
 
 ##### Sections <a id="21"></a>21, 22  
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
-The amendments made by this Part are incorporated in the current compilations on ComLaw.
+The amendments made by this Part are incorporated in the current compilation on ComLaw and SCALEplus.
 
 _Foreign Proceedings (Excess of Jurisdiction) Act 1984_
 
-_Federal Court of Australia Act 1976_.
+_Federal Court of__Australia__Act 1976_.
 
-For access to the wording of the amendments made by this Part _see_ Act No. 112, 1991.
-
-* * *
+For access to the wording of the amendments made by this Part, click here [_Foreign Judgements Act 1991_ No. 112, 1991].</div>
 
  
+
 
 # Notes to the _Foreign Judgments Act 1991_
 
 ### Note 1
 
 The _Foreign Judgments Act 1991_ as shown in this compilation comprises Act No. 112, 1991 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -612,7 +612,6 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="16%">
   <col width="18%">
   <col width="21%">
-  <col width="0%">
   <col width="15%">
 </colgroup>
 
@@ -623,13 +622,15 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
-    <td colspan="2">
+    <td>
       <div>Date of commencement</div>
     </td>
     <td>
@@ -637,126 +638,105 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Foreign Judgments Act 1991</div>
-  </td>
-  <td>
-    <div>112, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>S. 21: 27 Oct 1991 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>166, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>34, 1997</div>
-  </td>
-  <td>
-    <div>17 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 9: Royal Assent <i>(a)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>125, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 12: 17 Apr 1997 <i>(b)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
-  </td>
-  <td>
-    <div>36, 2010</div>
-  </td>
-  <td>
-    <div>13 Apr 2010</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 2 (items 21–23): \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Sch. 2 (item 23)</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Foreign Judgments Act 1991</div>
+    </td>
+    <td>
+      <div>112, 1991</div>
+    </td>
+    <td>
+      <div>27 June 1991</div>
+    </td>
+    <td>
+      <div>S. 21: 27 Oct 1991 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>166, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td>
+      <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>34, 1997</div>
+    </td>
+    <td>
+      <div>17 Apr 1997</div>
+    </td>
+    <td>
+      <div>Schedule 9: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>125, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td>
+      <div>Schedule 12: 17 Apr 1997 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Foreign Judgments Act 1991_ was amended by Schedule 9 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Law and Justice Legislation Amendment Act 1997_ was amended by Schedule 12 only of the _Law and Justice Legislation Amendment Act 1999_, subsection 2(6) of which provides as follows:
+_(b)_    The _Law and Justice Legislation Amendment Act 1997_ was amended by Schedule 12 only of the _Law and Justice Legislation Amendment Act 1999_, subsection 2(6) of which provides as follows:
 
                  (6)   Schedule 12 is taken to have commenced on 17 April 1997, immediately after the commencement of Schedule 9 to the _Law and Justice Legislation Amendment Act 1997_.
+
 
 ## Table of Amendments
 
@@ -781,75 +761,24 @@ _(b)_     The _Law and Justice Legislation Amendment Act 1997_ was amend
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 166, 1992; No. 34, 1997 (as am. by No. 125, 1999)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 166, 1992</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 166, 1992; No. 34, 1997 (as am. by No. 125, 1999)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 166, 1992</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
-
-The following amendments commence at the same time as section 3 of the _Trans‑Tasman Proceedings Act 2010_:
-
-## Schedule 2
-
-## 21  Paragraph 5(8)(d)
-
-Omit “New Zealand or”.
-
-## 22  Subsection 5(10)
-
-Repeal the subsection, substitute:
-
-           (10)  This Part does not apply to a judgment given by a court of New Zealand.
-
-Note:          For the enforcement in Australia of judgments given by courts of New Zealand, see Part 7 of the _Trans‑Tasman Proceedings Act 2010_.
-
-As at 19 April 2010 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
-
-##### <a id="4"></a>4  Definitions
-
-             (1)  In this Act:
-
-                    <a name="commenc"></a>**_commencement_** means the day on which section 3 of the _Trans‑Tasman Proceedings Act 2010_ commences.
-
-                    <a name="tran-tasman-act"></a>**_Trans‑Tasman Act_** means the _Trans‑Tasman Proceedings Act 2010_.
-
-             (2)  In this Act, expressions that are defined in the Trans‑Tasman Act have the same meanings as they have in that Act.
-
-The following provision commences at the same time as section 3 of the _Trans‑Tasman Proceedings Act 2010_:
-
-## Schedule 2
-
-## 23  Saving
-
-Despite the amendments made to paragraph 5(8)(d) and subsection 5(10) of the _Foreign Judgments Act 1991_ by this Schedule, those provisions, as in force immediately before commencement, continue to apply on and after commencement in relation to a judgment given before commencement.
 
  
