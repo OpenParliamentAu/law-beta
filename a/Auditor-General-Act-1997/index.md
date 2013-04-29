@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00445/Html/8c9f9c3f-6508-4ad5-91d4-fa020c449a52_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00130/Html/66c7658b-8562-4f47-89a6-918f629f02df_files/image001.gif)
 
 # Auditor‑General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 16 May 2012
- taking into account amendments up to Act No. 25 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 190 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -148,8 +148,7 @@ Related legislation
 
 [30](#30).          Relationship of information‑gathering powers with other laws
 
-[31](#31).          Purpose for which information‑gathering powers may be 
- used
+[31](#31).          Purpose for which information‑gathering powers may be used
 
 [32](#32).          Power of Auditor‑General to obtain information
 
@@ -1020,7 +1019,7 @@ Note:          Under section 27, the Auditor‑General may a
 
 ##### <a id="42"></a>42  Appointment, conditions etc. for Independent Auditor
 
-                   Schedule 2 sets out the conditions of appointment and other matters that have effect in relation to the office of Independent Auditor.
+                   Schedule 2 sets out the conditions of appointment and other matters that have effect in relation to the office of Independent Auditor.
 
 ##### <a id="43"></a>43  Independent Auditor to have regard to audit priorities of Parliament etc.
 
@@ -1182,7 +1181,7 @@ Note:          The effect of section 19A of the _Acts Interp
 
              (4)  A person cannot be appointed as Auditor‑General if the person has previously been appointed as Auditor‑General under this Act or under the _Audit Act 1901_.
 
-##### <a id="2"></a>2  Minister must refer recommendation for appointment of Auditor‑General to the Joint Committee of Public Accounts and Audit
+##### <a id="2"></a>2  Minister must refer recommendation for appointment of Auditor‑General to the Joint Committee of Public Accounts and Audit
 
              (1)  The Minister must not make a recommendation to the Governor‑General under clause 1 unless:
 
@@ -1565,23 +1564,6 @@ Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2012</div>
-  </td>
-  <td>
-    <div>25, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2)</div>
   </td>
 </tr></table>
 
@@ -2114,23 +2096,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Framework Legislation Amendment Act (No. 1) 2012
- (No. 25, 2012)_
-
-The following amendment commences on 4 October 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Paragraph 21(1)(c)
-
-Repeal the paragraph, substitute:
-
-                     (c)  any other company that the Commonwealth controls (as defined in section 34 of the _Commonwealth Authorities and Companies Act 1997_).
-
-As at 16 May 2012 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2203,18 +2168,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 1) 2012 
- (No. 25, 2012)_
-
-The following provision commences on 4 October 2012 unless proclaimed earlier:
-
-## Schedule 1
-
-## 2  Application
-
-The amendment made by item 1 of this Schedule applies in respect of appointments accepted on or after the commencement of that item.
 
  
