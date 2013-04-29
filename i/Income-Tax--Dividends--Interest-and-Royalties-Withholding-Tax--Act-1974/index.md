@@ -1,237 +1,101 @@
-**
+**<b>
 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974 
-**
+### <center><name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - Reprinted as at 30 April 1981 (HISTACT CHAP 528 #DATE 30:04:1981) </name></center>
+</b>** *1* Act No. 27, 1974; assented to and commenced 1 August 1974.<lf> </lf>
+**<b>
 
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS 
 
-###  Compilation Information 
-**
+<lf> Section<lf> <p>  1\.        Short title<lf> <p>  2\.        Commencement<lf> <p>  3\.        Repeal<lf> <p>  4\.        Interpretation<lf> <p>  5\.        Incorporation<lf> <p>  6\.        Imposition of tax<lf> <p>  7\.        Rates of tax<lf> <p>  8\.        Sections 104 and 221YB of Assessment Act<lf> <p><lf>                                -----------------<lf> <p><lf> </lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf>
+</tt></tables>
+**<b>
 
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to impose Income Tax upon certain Dividends and Interest derived by Non-residents and by certain other Persons </sect>
+**<b>
 
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 1\. Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Income Tax (Dividends and Interest Withholding Tax) Act 1974.*1* 
 
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 2\. Commencement </name>
+</b>** 
 
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-**
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
-###  Long Title 
-**
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974_.
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 3\. Repeal </name>
+</b>** 
 
- 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on the day on which it receives the Royal
+## SECT
+<sect>   3\. (1) The Income Tax (Non-resident Dividends and Interest) Act 1967 and the Income Tax (Non-resident Dividends and Interest) Act 1973 are repealed. 
 
-Assent.
+<lf>   (2) The Acts repealed by sub-section (1) and the Acts to which sub-section 3 (2) of the Income Tax (Non-resident Dividends and Interest) Act 1967 applies continue in force for all purposes in connexion with income tax and social services contribution, and income tax, payable in accordance with section 128B of the Income Tax and Social Services Contribution Assessment Act 1936-1959, or of that Act as amended and in force at any time, in respect of income to which that section applied that was derived before the commencement of this Act. <p><lf> </lf></p></lf>
+</sect>
+**<b>
 
- 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 3  Repeal 
-<dt>(1)</dt><dd>The _Income Tax (Non-resident Dividends and Interest) Act 1967_ and
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 4\. Interpretation </name>
+</b>** 
 
-the _Income Tax (Non-resident Dividends and Interest) Act 1973_ are
+## SECT
+<sect>   4\. In this Act, the ''Assessment Act'' means the Income Tax Assessment Act 1936-1974\. 
 
-repealed.</dd> <dt>(2)</dt><dd>The Acts repealed by subsection&#160;(1) and the Acts to which subsection 3(2) of the _Income Tax (Non-resident Dividends and Interest) Act 1967_ applies continue in force for all purposes in connexion with income tax and social services contribution, and income tax, payable in accordance with section&#160;128B of the _Income Tax and Social Services Contribution Assessment Act 1936-1959_, or of that Act as amended and in force at any time, in respect of income to which that section applied that was derived before the commencement of this Act. </dd> 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 4  Definition 
-In this Act, the _Assessment Act_ means the _Income Tax Assessment Act 1936-1974_.
+<lf> </lf>
+</sect>
+**<b>
 
- 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 5  Incorporation 
-The Assessment Act is incorporated and shall be read as one with this Act.
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 5\. Incorporation </name>
+</b>** 
 
- 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 6  Imposition of tax 
-The tax known as income tax, to the extent that that tax is payable in
+## SECT
+<sect>   5\. The Assessment Act is incorporated and shall be read as one with this Act. 
 
-accordance with section&#160;128B of the Assessment Act, is imposed on income
+<lf> </lf>
+</sect>
+**<b>
 
-to which that section applies.
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 6\. Imposition of tax </name>
+</b>** 
 
- 
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 7  Rates of tax 
-The rates of income tax imposed by this Act are:
+## SECT
+<sect>   6\. The tax known as income tax, to the extent that that tax is payable in accordance with section 128B of the Assessment Act, is imposed, and shall be levied and paid, upon income to which that section applies. 
 
- 
-<dl compact=""><dl compact="">
+<lf> </lf>
+</sect>
+**<b>
 
-<dt>(a)</dt><dd>in respect of income to which subsection&#160;(4) of section&#160;128B of
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 7\. Rates of tax </name>
+</b>** 
 
-the Assessment Act applies:
+## SECT
+<sect>   7\. The rates of income tax imposed by this Act are-<lf> <lf>   (a)  in respect of income to which sub-section (4) of section 128B of the Assessment Act applies-<lf> <lf>       (i)  in the case of income derived by a resident of Papua New Guinea-15 per centum; or<lf> <lf>      (ii)  in any other case-30 per centum; and<lf> <lf>   (b)  in respect of income to which sub-section (5) of that section applies-10 per centum. 
 
-</dd>
+<lf> </lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-</dl></dl>
+### <name>INCOME TAX (DIVIDENDS AND INTEREST WITHHOLDING TAX) ACT 1974 - SECT. 8\. Sections 104 and 221YB of Assessment Act </name>
+</b>** 
 
-Back to Top
+## SECT
+<sect>   8\. For the purposes of sub-section (1) of section 104, and sub-section (3) of section 221YB, of the Assessment Act, this Act shall be deemed not to be an Act declaring rates of income tax. 
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>in the case of income derived by a resident of Papua New Guinea&#151;15%; or</dd>
-
-<dt>(ii)</dt><dd>in any other case&#151;30%; and
-
-</dd>
-
-</dl></dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>in respect of income to which subsection&#160;(5) of that section
-
-applies&#151;10%; and</dd>
-
-<dt>(c)</dt><dd>in respect of income to which subsection&#160;(5A) of that section
-
-applies&#151;30%.
-
-</dd>
-
-</dl></dl>
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974- SECT 8  Sections&#160;104 and 221YB of Assessment Act 
-For the purposes of subsection&#160;(1) of section&#160;104, and
-
-subsection&#160;(3) of section&#160;221YB, of the Assessment Act, this Act
-
-shall be deemed not to be an Act declaring rates of income tax.
-
- 
-**
-
-###  INCOME TAX (DIVIDENDS, INTEREST AND ROYALTIES WITHHOLDING TAX) ACT 1974<centreit>Notes to the _Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974_ </centreit>
-**
-Note 1
-Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974
-Table of Acts
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Income Tax (Dividends and Interest Withholding Tax) Act 1974_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>27, 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Aug 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Aug 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Income Tax (Dividends and Interest Withholding Tax) Amendment Act 1992_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>199, 1992</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>21 Dec 1992</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>24 Dec 1992 ( _see_s. 2)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-Table of Amendments
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Title</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;199, 1992</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 1</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;199, 1992</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 6</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;199, 1992</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 7</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;199, 1992</div>
-
-  </td>
-</tr>
-
-
-
-
-
-
+<lf> ------------------------------------------------------------------------------ -- </lf>
+</sect>
