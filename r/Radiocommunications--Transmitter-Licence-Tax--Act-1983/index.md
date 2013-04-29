@@ -1,683 +1,631 @@
-![](http://www.comlaw.gov.au/Details/C2005C00298/Html/RadTransLicenceTax1983WD02_files/image001.gif)
+**
 
-# Radiocommunications (Transmitter Licence Tax) Act 1983
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983 
+**
 
-**Act No. 137 of 1983 as amended**
 
-This compilation was prepared on 8 April 2005
- taking into account amendments up to Act No. 52 of 2005
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Collection Act
 
-[4](#4).            Interpretation
+**
 
-[5](#5).            Application of Radiocommunications Act
+###  Long Title 
+**
+Radiocommunications Act 1992
 
-[6](#6).            Imposition of tax
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Radiocommunications (Transmitter Licence Tax) Act 1983_.
 
-[7](#7).            Amount of tax
+ 
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the date fixed for the purposes of
 
-[9](#9).            Regulations
+subsection 2(1) of the _Radiocommunications Act 1983_.
 
-**Notes** 
+ 
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 3  Collection Act 
+The _Radiocommunications Taxes Collection Act 1983_ is incorporated and
 
- 
+shall be read as one with this Act.
 
-## An Act to impose a tax on the issue, the anniversary of the coming into force and the holding of a transmitter licence under the _Radiocommunications Act 1992_
+ 
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 4  Interpretation 
+In this Act, _tax_ means the tax imposed by this Act.
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+ 
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 5  Application of Radiocommunications Act 
+Part 1.4 of the _Radiocommunications Act 1992_ applies to this Act in
 
-                   This Act may be cited as the _Radiocommunications (Transmitter Licence Tax) Act 1983_.
+the same way that it applies to that Act.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
-
-                   This Act shall come into operation on the date fixed for the purposes of subsection 2(1) of the _Radiocommunications Act 1983_.
-
-##### <a id="3"></a>3  Collection Act
-
-                   The _Radiocommunications Taxes Collection Act 1983_ is incorporated and shall be read as one with this Act.
-
-##### <a id="4"></a>4  Interpretation
-
-                   In this Act, **_tax_** means the tax imposed by this Act.
-
-##### <a id="5"></a>5  Application of Radiocommunications Act
-
-                   Part 1.4 of the _Radiocommunications Act 1992_ applies to this Act in the same way that it applies to that Act.
-
-##### <a id="6"></a>6  Imposition of tax
-
+ 
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 6  Imposition of tax 
 Licences not exceeding 12 months
+<dt>(1)</dt><dd>Tax is imposed on the issue of a transmitter licence that is issued for a
 
-             (1)  Tax is imposed on the issue of a transmitter licence that is issued for a period not exceeding 12 months.
+period not exceeding 12 months.
 
+</dd> 
 Licences of more than 12 months where there is an application
+<dt>(2)</dt><dd>If:
 
-             (2)  If:
+</dd> 
+<dl compact=""><dl compact="">
 
-                     (a)  a person applying for a transmitter licence for a period of more than 12 months has made an election under subsection (4) that this subsection apply; and
+<dt>(a)</dt><dd>a person applying for a transmitter licence for a period of more than 12
 
-                     (b)  a licence for such a period is issued to the person;
+months has made an election under subsection (4) that this subsection apply;
 
-tax is imposed on the issue of the licence for the period the licence is in force.
+and</dd>
 
-             (3)  Subject to subsections (5) and (6), if:
+<dt>(b)</dt><dd>a licence for such a period is issued to the person;
 
-                     (a)  a person applying for a transmitter licence for a period of more than 12 months has made an election under subsection (4) that this subsection apply; and
+</dd>
 
-                     (b)  a licence for such a period is issued to the person;
+</dl></dl>
+<dt>(3)</dt><dd>Subject to subsections (5) and (6), if:
 
-tax is imposed on:
+</dd> 
 
-                     (c)  the issue of the licence; and
+Back to Top
 
-                     (d)  each anniversary of the day the licence came into force occurring during the period the licence is in force.
+<dl compact=""><dl compact="">
 
-             (4)  A person applying for a transmitter licence for a period exceeding 12 months must elect, in the application for the licence, that either subsection (2) or (3) is to apply in respect of the transmitter licence.
+<dt>(a)</dt><dd>a person applying for a transmitter licence for a period of more than 12
 
-             (5)  If the holder of a transmitter licence:
+months has made an election under subsection (4) that this subsection apply;
 
-                     (a)  at the time when the person applied for the licence, elects that subsection (3) apply; and
+and</dd>
 
-                     (b)  subsequently notifies the ACA, in writing, at least 21 days before the next anniversary of the day the licence came into force that is more than 12 months before the end of the period that the licence is in force, that this subsection is to apply;
+<dt>(b)</dt><dd>a licence for such a period is issued to the person;
 
-subsection (3) ceases to apply to the licence and tax is imposed on the holding of the licence on that anniversary.
+</dd>
 
-             (6)  If the holder of a transmitter licence:
+</dl></dl>
+<dl compact=""><dl compact="">
 
-                     (a)  has elected that subsection (3) apply; and
+<dt>(c)</dt><dd>the issue of the licence; and</dd>
 
-                     (b)  has failed to pay tax imposed on an anniversary of the day the licence came into force within 60 days after that anniversary (**_the 60 day period_**);
+<dt>(d)</dt><dd>each anniversary of the day the licence came into force occurring during
 
-subsection (3) ceases to apply the day after the end of the 60 day period and tax is imposed on the holding of the licence on that day.
+the period the licence is in force.
 
+</dd>
+
+</dl></dl>
+<dt>(4)</dt><dd>A person applying for a transmitter licence for a period exceeding 12
+
+months must elect, in the application for the licence, that either subsection
+
+<dt>(2)</dt><dd>or (3) is to apply in respect of the transmitter licence.</dd> <dt>(5)</dt><dd>If the holder of a transmitter licence: </dd> </dd>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>at the time when the person applied for the licence, elects that
+
+subsection (3) apply; and</dd>
+
+<dt>(b)</dt><dd>subsequently notifies the ACA, in writing, at least 21 days before the
+
+next anniversary of the day the licence came into force that is more than 12
+
+months before the end of the period that the licence is in force, that this
+
+subsection is to apply;
+
+</dd>
+
+</dl></dl>
+<dt>(6)</dt><dd>If the holder of a transmitter licence:
+
+</dd> 
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has elected that subsection (3) apply; and</dd>
+
+<dt>(b)</dt><dd>has failed to pay tax imposed on an anniversary of the day the licence
+
+came into force within 60 days after that anniversary (_the 60 day period_);
+
+</dd>
+
+</dl></dl>
 Licences of more than 12 months where there is no application
+<dt>(7)</dt><dd>If:
 
-             (7)  If:
+</dd> 
+<dl compact=""><dl compact="">
 
-                     (a)  a person is issued a transmitter licence  for a period of more than 12 months under section 100B, 102 or 102A of the _Radiocommunications Act 1992_; and
+<dt>(a)</dt><dd>a person is issued a transmitter licence  for a period of more than
 
-                     (b)  before the licence is issued, the person makes an election under subsection (9) that this subsection is to apply;
+12 months under section&#160;100B, 102 or 102A of the _Radiocommunications Act 1992_; and</dd>
 
-tax is imposed on the issue of the licence for the period the licence is in force.
+<dt>(b)</dt><dd>before the licence is issued, the person makes an election under
 
-             (8)  Subject to subsections (11) and (12), if:
+subsection&#160;(9) that this subsection is to apply;
 
-                     (a)  a person is issued a transmitter licence  for a period of more than 12 months under section 100B, 102 or 102A of the _Radiocommunications Act 1992_; and
+</dd>
 
-                     (b)  before the licence is issued, the person makes an election under subsection (9) that this subsection is to apply;
+</dl></dl>
+<dt>(8)</dt><dd>Subject to subsections&#160;(11) and (12), if:
 
-tax is imposed on:
+</dd> 
+<dl compact=""><dl compact="">
 
-                     (c)  the issue of the licence; and
+<dt>(a)</dt><dd>a person is issued a transmitter licence  for a period of more than
 
-                     (d)  each anniversary of the day the licence came into force occurring during the period the licence is in force.
+12 months under section&#160;100B, 102 or 102A of the _Radiocommunications Act 1992_; and</dd>
 
-             (9)  Before a person is issued a transmitter licence under section 100B, 102 or 102A of the _Radiocommunications Act 1992_ for a period exceeding 12 months, the person must elect, in the form approved in writing by the ACA, that either subsection (7) or (8) is to apply in respect of the transmitter licence.
+<dt>(b)</dt><dd>before the licence is issued, the person makes an election under
 
-           (10)  However, for the purposes of this section, if the person does not make an election under subsection (9) before the transmitter licence is issued, the person is taken to have elected, before the licence is issued, that subsection (8) is to apply in respect of the licence.
+subsection&#160;(9) that this subsection is to apply;
 
-           (11)  If the holder of a transmitter licence:
+</dd>
 
-                     (a)  before the licence is issued, elects that subsection (8) is to apply; and
+</dl></dl>
+<dl compact=""><dl compact="">
 
-                     (b)  subsequently notifies the ACA, in writing, at least 21 days before the next anniversary of the day the licence came into force that is more than 12 months before the end of the period that the licence is in force, that this subsection is to apply;
+<dt>(c)</dt><dd>the issue of the licence; and</dd>
 
-subsection (8) ceases to apply to the licence and tax is imposed on the holding of the licence on that anniversary.
+<dt>(d)</dt><dd>each anniversary of the day the licence came into force occurring during
 
-           (12)  If the holder of a transmitter licence:
+the period the licence is in force.
 
-                     (a)  before the licence is issued, elects that subsection (8) is to apply; and
+</dd>
 
-                     (b)  fails to pay tax imposed on an anniversary of the day the licence came into force within 60 days after that anniversary (the **_60 day period_**);
+</dl></dl>
+<dt>(9)</dt><dd>Before a person is issued a transmitter licence under section&#160;100B,
 
-subsection (8) ceases to apply the day after the end of the 60 day period and tax is imposed on the holding of the licence on that day.
+102 or 102A of the _Radiocommunications Act 1992_ for a period exceeding
 
-##### <a id="7"></a>7  Amount of tax
+12 months, the person must elect, in the form approved in writing by the
 
-             (1)  The amount of tax in respect of the issue of a transmitter licence, the anniversary of a transmitter licence coming into force or the holding of a transmitter licence is the amount determined by the ACA.
+ACA, that either subsection&#160;(7) or (8) is to apply in respect of the
 
-             (2)  A determination may, among other things, provide for amounts of tax in relation to:
+transmitter licence.</dd> <dt>(10)</dt><dd>However, for the purposes of this section, if the person does not make an election under subsection&#160;(9) before the transmitter licence is issued, the person is taken to have elected, before the licence is issued, that subsection&#160;(8) is to apply in respect of the licence.</dd> <dt>(11)</dt><dd>If the holder of a transmitter licence: </dd> 
 
-                     (a)  specified periods; or
+Back to Top
 
-                     (b)  specified classes of licences; or
+<dl compact=""><dl compact="">
 
-                     (c)  specified classes of persons.
+<dt>(a)</dt><dd>before the licence is issued, elects that subsection&#160;(8) is to apply;
 
-             (3)  In making a determination, the ACA is to take into account such matters as are specified in the regulations.
+and</dd>
 
-             (4)  A determination is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<dt>(b)</dt><dd>subsequently notifies the ACA, in writing, at least 21 days before the
 
-##### <a id="9"></a>9  Regulations
+next anniversary of the day the licence came into force that is more than 12
 
-                   The Governor-General may make regulations for the purposes of section 7.
+months before the end of the period that the licence is in force, that this
 
-# Notes to the _Radiocommunications (Transmitter Licence Tax) Act 1983_
+subsection is to apply;
 
-### Note 1
+</dd>
 
-The _Radiocommunications (Transmitter Licence Tax) Act 1983_ as shown in this compilation comprises Act No. 137, 1983 amended as indicated in the Tables below.
+</dl></dl>
+<dt>(12)</dt><dd>If the holder of a transmitter licence:
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 April 1997 is not included in this compilation. For subsequent information _see_ Table A.
+</dd> 
+<dl compact=""><dl compact="">
 
-### Table of Acts
+<dt>(a)</dt><dd>before the licence is issued, elects that subsection&#160;(8) is to apply;
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="0%">
-  <col width="14%">
-</colgroup>
+and</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<dt>(b)</dt><dd>fails to pay tax imposed on an anniversary of the day the licence came
+
+into force within 60 days after that anniversary (the _60 day period_);
+
+</dd>
+
+</dl></dl>
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 7  Amount of tax 
+<dt>(1)</dt><dd>The amount of tax in respect of the issue of a transmitter licence, the
+
+anniversary of a transmitter licence coming into force or the holding of a
+
+transmitter licence is the amount determined by the ACA.</dd> <dt>(2)</dt><dd>A determination may, among other things, provide for amounts of tax in relation to: </dd> 
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>specified periods; or</dd>
+
+<dt>(b)</dt><dd>specified classes of licences; or</dd>
+
+<dt>(c)</dt><dd>specified classes of persons.
+
+</dd>
+
+</dl></dl>
+<dt>(3)</dt><dd>In making a determination, the ACA is to take into account such matters as
+
+are specified in the regulations.</dd> <dt>(4)</dt><dd>A determination is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> 
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983- SECT 9  Regulations 
+The Governor-General may make regulations for the purposes of section 7.
+
+ 
+**
+
+###  RADIOCOMMUNICATIONS (TRANSMITTER LICENCE TAX) ACT 1983<centreit>Notes to the _Radiocommunications (Transmitter Licence Tax) Act 1983_ </centreit>
+**
+Note 1
+Radiocommunications (Transmitter Licence Tax) Act 1983
+
+see
+Table of Acts
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Act 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Radiocommunications (Transmitter Licence Tax) Act 1983_</div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>137, 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Dec 1983</div>
+
   </td>
-  <td colspan="2">
-    <div>20 Aug 1985 ( <i>see Gazette</i>1985, S322)</div>
+  <td colspan="1" align="left">
+    <div>20 Aug 1985 ( _see Gazette_1985, S322)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Amendment Act 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Radiocommunications (Transmitter Licence Tax) Amendment Act 1992_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>144, 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7 Dec 1992</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>1 July 1993</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 7(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Amendment Act 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Radiocommunications (Transmitter Licence Tax) Amendment Act 1995_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>107, 1995</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29 Sept 1995</div>
+
   </td>
-  <td colspan="2">
-    <div>29 Mar 1996 ( <i>see</i>s. 2)</div>
+  <td colspan="1" align="left">
+    <div>29 Mar 1996 ( _see_s.&#160;2)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Amendment Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Radiocommunications (Transmitter Licence Tax) Amendment Act 1997_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Apr 1997</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>1 July 1997</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (items 3, 4) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (items 3, 4) \[ _see_Table A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Amendment Act 2000</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Radiocommunications (Transmitter Licence Tax) Amendment Act 2000_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 2000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3 May 2000</div>
+
   </td>
-  <td colspan="2">
-    <div>31 May 2000 ( <i>see</i>s. 2)</div>
+  <td colspan="1" align="left">
+    <div>31 May 2000 ( _see_s. 2)</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item 5) \[ _see_Table A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Amendment Act 2002</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Radiocommunications (Transmitter Licence Tax) Amendment Act 2002_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7, 2002</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4 Apr 2002</div>
+
   </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 1): 29 Mar 1996 
- Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Radiocommunications (Transmitter Licence Tax) Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>52, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td colspan="2">
-    <div>Schedules 1 and 2: \[ <i>see</i> <i>(a)</i>, Note 2 and Table A] 
+  <td colspan="1" align="left">
+    <div>Schedule 1 (item 1): 29&#160; Mar 1996 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
-    <div>Sch. 2 \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item 2) \[ _see_Table A]</div>
+
   </td>
 </tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
 
-_(a)_ Subsection 2(1) (item 2) of the _Radiocommunications (Transmitter Licence Tax) Amendment Act 2005_ provides as follows:
+Back to Top
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+Table of Amendments
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
   </td>
-  <td>
-    <div>
-      At the same time as section 6 of the
-        <i>Australian Communications and Media Authority Act 2005</i>commences.
-    </div>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2 and Table A]
-    </div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Title</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 144, 1992; No. 107, 1995; No. 36, 2000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 144, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Subhead. to s. 6(1)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 7, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Subhead. to s. 6(2)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 7, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 144, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 107, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 43, 1997; No. 36, 2000; No. 7, 2002</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 144, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 107, 1995; No. 43, 1997; No. 36, 2000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 144, 1992</div>
+
   </td>
-</tr></table>
+</tr>
 
-### Note 2
+Back to Top
 
-_Radiocommunications (Transmitter Licence Tax) Amendment Act 2005 
- (No. 52, 2005)_
+Table A
+Application, saving or transitional provisions
+Radiocommunications (Transmitter Licence Tax) Amendment Act 1997
 
-The following amendments commence on 1 July 2005 unless proclaimed earlier:
+Schedule 1
+3  Transitional&#151;notifications
+Radiocommunications (Transmitter Licence Tax) Act 1983
 
-## Schedule 1
+Radiocommunications (Transmitter Licence Tax) Act 198
+Radiocommunications (Transmitter Licence Tax) Act 1983
+4  Transitional&#151;determinations
+Radiocommunications (Transmitter Licence Tax) Act 1983
 
-## 1  Paragraph 6(5)(b)
+Radiocommunications (Transmitter Licence Tax) Act 1983
+Radiocommunications (Transmitter Licence Tax) Act 1983
 
-Omit “ACA”, substitute “ACMA”.
+Radiocommunications (Transmitter Licence Tax) Amendment Act 2000
 
-## 2  Subsection 6(9)
+Schedule 1
+5  Application of amendments
+<dl compact=""><dl compact="">
 
-Omit “ACA”, substitute “ACMA”.
+<dt>(a)</dt><dd>the relevant anniversary of the issue of the licence; and</dd>
 
-## 3  Paragraph 6(11)(b)
+<dt>(b)</dt><dd>the corresponding anniversary of the licence coming into force;
 
-Omit “ACA”, substitute “ACMA”.
+</dd>
 
-## 4  Subsection 7(1)
+</dl></dl>
+Radiocommunications (Transmitter Licence Tax) Amendment Act 2002
 
-Omit “ACA”, substitute “ACMA”.
-
-## 5  Subsection 7(3)
-
-Omit “ACA”, substitute “ACMA”.
-
-As at 8 April 2005 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Radiocommunications (Transmitter Licence Tax) Amendment Act 1997
- (No. 43, 1997)_
-
-## Schedule 1
-
-## 3  Transitional—notifications
-
-(1)        This item applies to a notification that was given to the SMA under paragraph 6(5)(b) of the _Radiocommunications (Transmitter Licence Tax) Act 1983_ before the commencement of this item.
-
-(2)        The _Radiocommunications (Transmitter Licence Tax) Act 198_ 3 has effect, after the commencement of this item, as if the notification had been given to the ACA under paragraph 6(5)(b) of the _Radiocommunications (Transmitter Licence Tax) Act 1983_ as amended by this Act.
-
-## 4  Transitional—determinations
-
-(1)        This item applies to a determination that was in force under section 7 of the _Radiocommunications (Transmitter Licence Tax) Act 1983_ immediately before the commencement of this item.
-
-(2)        The _Radiocommunications (Transmitter Licence Tax) Act 1983_ has effect, after the commencement of this item, as if the determination had been made by the ACA under section 7 of the _Radiocommunications (Transmitter Licence Tax) Act 1983_ as amended by this Act.
-
-(3)        This item does not prevent the variation or revocation of the determination.
-
-* * *
-
-_Radiocommunications (Transmitter Licence Tax) Amendment Act 2000
- (No. 36, 2000)_
-
-## Schedule 1
-
-## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to the imposition of tax in respect of a transmitter licence, if both:
-
-                     (a)  the relevant anniversary of the issue of the licence; and
-
-                     (b)  the corresponding anniversary of the licence coming into force;
-
-occur after the commencement of this item.
-
-* * *
-
-_Radiocommunications (Transmitter Licence Tax) Amendment Act 2002
- (No. 7, 2002)_
-
-## Schedule 1
-
-## 2  Transitional—deeming provisions for the transition from tax purportedly imposed on issued licences to tax actually imposed
-
+Schedule 1
 Definitions
+_issued licence_
+Radiocommunications Act 1992
 
-(1)        In this item:
-
-**_issued licence_** means a transmitter licence issued for a period of more than 12 months under section 100B, 102 or 102A of the _Radiocommunications Act 1992_ before this item commenced.
-
-**_Licence Tax Act_** means the _Radiocommunications (Transmitter Licence Tax) Act 1983_.
-
+_Licence Tax Act_
+Radiocommunications (Transmitter Licence Tax) Act 1983
 Elections under subsection 6(9)
+<dl compact=""><dl compact="">
 
-(2)        For the purposes of the Licence Tax Act:
+<dt>(a)</dt><dd>a person who, before this item commenced, purportedly elected that
 
-                     (a)  a person who, before this item commenced, purportedly elected that subsection 6(2) of that Act is to apply to an issued licence, is taken instead to have elected at that time that subsection 6(7) is to apply to the licence; and
+subsection 6(2) of that Act is to apply to an issued licence, is taken instead
 
-                     (b)  a person who, before this item commenced, purportedly elected that subsection 6(3) of that Act is to apply to an issued licence, is taken instead to have elected at that time that subsection 6(8) is to apply to the licence.
+to have elected at that time that subsection 6(7) is to apply to the licence;
 
-The election is taken to have been made in accordance with subsection 6(9) of the Licence Tax Act.
+and</dd>
 
-_Note:       Tax is therefore imposed by subsection 6(7) or (8) of the Licence Tax Act depending on the deemed election of the person. Tax might also be imposed by subsection 6(11) of that Act if a person is taken to have notified the ACA that the subsection is to apply (see subitem (4) of this item) or by subsection 6(12) of the Licence Tax Act if a person failed to pay the tax within the 60 day period mentioned in that subsection._
+<dt>(b)</dt><dd>a person who, before this item commenced, purportedly elected that
 
+subsection 6(3) of that Act is to apply to an issued licence, is taken instead
+
+to have elected at that time that subsection 6(8) is to apply to the licence.
+
+</dd>
+
+</dl></dl>
 Discharge of liability for previous payments
-
-(3)        For the purposes of the Licence Tax Act, a person who, before this item commenced, paid an amount that purported to be a payment of tax imposed by subsection 6(2), (3), (5) or (6) of that Act in respect of an issued licence, is taken instead to have paid the equivalent tax imposed on the licence by subsection 6(7), (8), (11) or (12).
-
 Notifications under subsection 6(11)
+Section 7 determinations
+<dl compact=""><dl compact="">
 
-(4)        For the purposes of the Licence Tax Act, a person who, before this item commenced, purportedly notified the ACA in accordance with subsection 6(5) of that Act that that subsection is to apply to an issued licence, is taken instead to have notified the ACA at that time that subsection 6(11) is to apply to the licence.
+<dt>(a)</dt><dd>any reference in the determination to subsection 6(2) of that Act is taken
 
-Section 7 determinations
+also to include a reference to subsection 6(7); and</dd>
 
-(5)        For the purposes of the Licence Tax Act, a determination under section 7 of that Act that was made before this item commenced is taken always to have had effect as if:
+<dt>(b)</dt><dd>any reference in the determination to subsection 6(3) of that Act is taken
 
-                     (a)  any reference in the determination to subsection 6(2) of that Act is taken also to include a reference to subsection 6(7); and
+also to include a reference to subsection 6(8); and</dd>
 
-                     (b)  any reference in the determination to subsection 6(3) of that Act is taken also to include a reference to subsection 6(8); and
+<dt>(c)</dt><dd>any reference in the determination to subsection 6(5) of that Act is taken
 
-                     (c)  any reference in the determination to subsection 6(5) of that Act is taken also to include a reference to subsection 6(11); and
+also to include a reference to subsection 6(11); and</dd>
 
-                     (d)  any reference in the determination to subsection 6(6) of that Act is taken also to include a reference to subsection 6(12).
+<dt>(d)</dt><dd>any reference in the determination to subsection 6(6) of that Act is taken
 
-* * *
+also to include a reference to subsection 6(12).
 
-_Radiocommunications (Transmitter Licence Tax) Amendment Act 2005 
- (No. 52, 2005)_
+</dd>
 
-The following provisions commence on 1 July 2005 unless proclaimed earlier:
+</dl></dl>
 
-## Schedule 2
 
-## 1  Definitions
 
-In this Schedule:
 
-**_Imposition Act_** means the _Radiocommunications (Transmitter Licence Tax) Act 1983_.
 
-**_transition time_** means the commencement of this Schedule.
 
-## 2  Continued effect of election notices
 
-A notice that was given to the ACA before the transition time under paragraph 6(5)(b) or 6(11)(b) of the Imposition Act as then in force has the same effect after the transition time as it would have had if the amendments of that paragraph made by Schedule 1 to this Act had not been made.
 
-## 3  Continued effect of form approvals
 
-An approval made by the ACA under subsection 6(9) of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it were an approval under that subsection as amended by Schedule 1 to this Act.
 
-## 4  Continued effect of amount determinations
 
-A determination made by the ACA under subsection 7(1) of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it had been made by the ACMA under that subsection as amended by Schedule 1 to this Act.
 
- 
