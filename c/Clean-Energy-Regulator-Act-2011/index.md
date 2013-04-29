@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00620/Html/76f7c46a-87cd-4302-a350-505ad7c9b2b1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00598/Html/9665f9d3-e28a-457b-9fda-3b7a1a04f547_files/image001.gif)
 
 # Clean Energy Regulator Act 2011
 
 **Act No. 163 of 2011 as amended**
 
-This compilation was prepared on 17 August 2012
- taking into account amendments up to Act No. 84 of 2012
+This compilation was prepared on 1 July 2012
+ taking into account amendments up to Act No. 152 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1081,8 +1081,6 @@ Scope
 
                       (s)  the Climate Change Authority;
 
-                    (sa)  the Clean Energy Finance Corporation;
-
                       (t)  the Land Sector Carbon and Biodiversity Board;
 
                     (ta)  the Energy Security Council;
@@ -1393,8 +1391,8 @@ The _Clean Energy Regulator Act 2011_ as shown in this compilation comprises Act
 <colgroup>
   <col width="29%">
   <col width="17%">
-  <col width="17%">
-  <col width="19%">
+  <col width="16%">
+  <col width="21%">
   <col width="17%">
 </colgroup>
 
@@ -1449,23 +1447,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (item 2): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>84, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 2): 3 Aug 2012 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -1609,7 +1590,7 @@ _(a)_     Subsection 2(1) (item 3) of the _Australian Renewable Energy A
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 152, 2011; No. 84, 2012</div>
+    <div>am. No. 152, 2011</div>
   </td>
 </tr></table>
 
