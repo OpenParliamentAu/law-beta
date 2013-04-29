@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00133/Html/b90b7fd2-376b-4a92-a8a1-a8023f854a6b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00909/Html/a2d0f3d7-3d06-4904-8ed7-7a66c80368f1_files/image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -66,8 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6‑50](#6‑50).       External administration
 
-[6‑55](#6‑55).       Transfer of registration, deregistration and unclaimed 
- property
+[6‑55](#6‑55).       Transfer of registration, deregistration and unclaimed property
 
 [6‑60](#6‑60).       Offences
 
@@ -1251,8 +1250,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [418‑5](#418‑5).     Form of registers
 
-[418‑10](#418‑10).   Register of Aboriginal and Torres Strait Islander 
- Corporations
+[418‑10](#418‑10).   Register of Aboriginal and Torres Strait Islander Corporations
 
 [418‑15](#418‑15).   Register of Disqualified Officers
 
@@ -1970,7 +1968,7 @@ The Parliament of Australia enacts:
 
              (2)  Each provision of this Act applies, according to its tenor, in relation to acts and omissions outside this jurisdiction.
 
-##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
+##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
 
                    Each provision of this Act applies according to its tenor to:
 
@@ -3070,7 +3068,7 @@ Note 2:       For abbreviations that can be used on a seal, see sect
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
+##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
 
 Application of section
 
@@ -8242,7 +8240,7 @@ Note:          For the meaning of **_chief executive officer_*
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
+##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
 
                    An Aboriginal and Torres Strait Islander corporation may appoint a person as a director by resolution passed in general meeting.
 
@@ -10248,7 +10246,7 @@ Note:          For the criteria for making determinations unde
 
 ##### <a id="310‑10"></a>310‑10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
 ##### <a id="310‑15"></a>310‑15  Registrar’s power to make determinations
 
@@ -10386,7 +10384,7 @@ powers in relation to the records under Chapter 10.</li>
 
 * * *
 
-##### <a id="322‑5"></a>322‑5  Obligation to keep copy of constitution and records about officers, contact person, etc.
+##### <a id="322‑5"></a>322‑5  Obligation to keep copy of constitution and records about officers, contact person, etc.
 
                    An Aboriginal and Torres Strait Islander corporation must keep:
 
@@ -14421,7 +14419,7 @@ Note:          The termination of the appointment of the speci
 
 ### Division 508—Transition to normal control of the corporation’s affairs at end of special administration
 
-##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
+##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation must ensure that, immediately after the special administration of the corporation ends, there will be:
 
@@ -18454,8 +18452,6 @@ Acting Registrar
 
                      (b)  during any period, or during all periods, when the office holder is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
 Acting Deputy Registrar
 
              (2)  The Registrar may appoint a person to act as a Deputy Registrar:
@@ -18464,7 +18460,17 @@ Acting Deputy Registrar
 
                      (b)  during any period, or during all periods, when the office holder is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Validity of acts done by persons appointed to act
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment as Registrar or Deputy Registrar is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="663‑30"></a>663‑30  Leave of absence
 
@@ -19096,7 +19102,7 @@ Note:          For electronic lodgment of documents with the R
 
              (2)  For the purpose of the performance of a function, or the exercise of a power, under this Act by a sub‑delegate of a Deputy Registrar, a reference to a Registrar in a provision of this Act relating to the performance of the function, or the exercise of the power, includes a reference to the sub‑delegate.
 
-             (3)  Subsections (1) and (2) do not, by implication, limit the operation of section 34AA, paragraph 34AB(1)(a), (b), (d) or (e), subsection 34AB(2) or (3) or section 34A of the _Acts Interpretation Act 1901_.
+             (3)  Subsections (1) and (2) do not, by implication, limit the operation of section 34AA, paragraph 34AB(a), (b), (d) or (e) or section 34A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="694‑115"></a>694‑115  Certain family relationships
 
@@ -19310,7 +19316,7 @@ Note:          For electronic lodgment of documents with the R
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, does not include an external Territory.
 
-Note:          Section 2B of the _Acts Interpretation Act 1901_ would otherwise provide that **_Australia_** included the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
+Note:          Paragraph 17(a) of the _Acts Interpretation Act 1901_ would otherwise provide that **_Australia_** included the Territory of Christmas Island and the Territory of Cocos (Keeling) Islands.
 
                     <a name="australian-adi"></a>**_Australian ADI_** means:
 
@@ -19347,6 +19353,8 @@ Note:          Section 2B of the _Acts Interpretation Act 19
 however compiled, recorded or stored.
 
                     <a name="busi-affair"></a>**_business affairs_** of an entity has a meaning affected by sections 694‑15, 694‑20, 694‑25 and 694‑30.
+
+                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday or bank holiday in the place concerned.
 
                     <a name="busi-judgment"></a>**_business judgment_** has the meaning given by subsection 265‑1(3).
 
@@ -19820,6 +19828,8 @@ as the case requires.
 
                     <a name="court"></a><a name="superior-court-matter"></a>**_superior court matter_** means a civil matter that this Act clearly intends (for example, by use of the expression **_the Court_**) to be dealt with only by a superior court.
 
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="act"></a>**_this Act_** includes:
 
                      (a)  the regulations; and
@@ -19858,9 +19868,7 @@ as the case requires.
 
 The _Corporations (Aboriginal and Torres Strait Islander) Act 2006_ as shown in this compilation comprises Act No. 124, 2006 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by Schedule 1 (item 3) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -20024,7 +20032,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 447–452) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 447–452) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -20041,7 +20049,7 @@ of Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 10–13): \[ <i>see</i>s. 2(1) and Note 3]</div>
+    <div>Schedule 2 (items 10–13): \[ <i>see</i>s. 2(1) and Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -20712,54 +20720,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Chapter 16</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 16‑4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 663</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 663‑25</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 663‑25(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 663‑25(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 17</b></div>
   </td>
   <td>
@@ -20780,14 +20740,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 694‑110</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -20819,7 +20771,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 700‑1</div>
   </td>
   <td>
-    <div>am. No. 144, 2008; Nos. 24 and 46, 2011</div>
+    <div>am. No. 144, 2008; No. 24, 2011</div>
   </td>
 </tr></table>
 
@@ -20828,7 +20780,7 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 _Personal Property Securities (Consequential Amendments) Act 2009 
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 5
 
@@ -20852,9 +20804,45 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 447  At the end of subsections 663‑25(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 448  Subsection 663‑25(3)
+
+Repeal the subsection.
+
+## 449  Subsection 694‑110(3)
+
+Omit “paragraph 34AB(a), (b), (d) or (e)”, substitute “paragraph 34AB(1)(a), (b), (d) or (e), subsection 34AB(2) or (3)”.
+
+## 450  Section 700‑1 (note at the end of the definition of _Australia_)
+
+Omit “Paragraph 17(a)”, substitute “Section 2B”.
+
+## 451  Section 700‑1 (definition of _business day_)
+
+Repeal the definition.
+
+## 452  Section 700‑1 (definition of _territorial sea_)
+
+Repeal the definition.
+
+As at 11 November 2011 the amendments are not incorporated in this compilation.
+
+### Note 4
 
 _Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
 
@@ -20880,7 +20868,7 @@ Insert:
 
 Repeal the definition.
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -20901,6 +20889,8 @@ _Families, Housing, Community Services and Indigenous Affairs and Other Legislat
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
