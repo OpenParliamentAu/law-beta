@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00410/Html/NTSelfGovt1978_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00105/Html/682E47D8ABCED94FCA2571450004A4F8/$FILE/image001.gif)
 
-# Northern   Territory (Self-Government) Act 1978
+# Northern Territory (Self-Government) Act 1978
 
 **Act No. 58 of 1978 as amended**
 
-This compilation was prepared on 14 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 137 of 2000
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -196,6 +198,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to provide for the Government of the Northern Territory of Australia, and for related purposes
 
 WHEREAS the Northern Territory Acceptance Act 1910 provided for the ratifying of an Agreement between the Commonwealth and the State of South Australia for the surrender to and acceptance by the Commonwealth of the Northern Territory and provided for the acceptance by the Commonwealth of the Northern Territory:
@@ -210,11 +213,11 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Northern   Territory__(Self-Government) Act 1978_.
+                   This Act may be cited as the _Northern Territory__(Self-Government) Act 1978_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
              (1)  Sections 1, 2 and 70 shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -276,19 +279,19 @@ and includes part of any such law or Ordinance.
 
                      (a)  in the case of a proposed law making provision only for or in relation to a matter specified under section 35:
 
-                              (i)  that he or she assents to the proposed law; or
+                              (i)  that he assents to the proposed law; or
 
-                             (ii)  that he or she withholds assent to the proposed law; or
+                             (ii)  that he withholds assent to the proposed law; or
 
                      (b)  in any other case:
 
-                              (i)  that he or she assents to the proposed law;
+                              (i)  that he assents to the proposed law;
 
-                             (ii)  that he or she withholds assent to the proposed law; or
+                             (ii)  that he withholds assent to the proposed law; or
 
-                            (iii)  that he or she reserves the proposed law for the Governor-General’s pleasure.
+                            (iii)  that he reserves the proposed law for the Governor-General’s pleasure.
 
-             (3)  The Administrator may return the proposed law to the Legislative Assembly with amendments that he or she recommends.
+             (3)  The Administrator may return the proposed law to the Legislative Assembly with amendments that he recommends.
 
              (4)  The Legislative Assembly shall consider the amendments recommended by the Administrator and the proposed law, with those or any other amendments or without amendments, may be again presented to the Administrator for assent, and subsection (2) applies accordingly.
 
@@ -296,13 +299,13 @@ and includes part of any such law or Ordinance.
 
              (1)  Where the Administrator reserves a proposed law for the Governor-General’s pleasure, the Governor-General shall, subject to this section, declare:
 
-                     (a)  that he or she assents to the proposed law;
+                     (a)  that he assents to the proposed law;
 
-                     (b)  that he or she withholds assent to the proposed law; or
+                     (b)  that he withholds assent to the proposed law; or
 
-                     (c)  that he or she withholds assent to part of the proposed law and assents to the remainder of the proposed law.
+                     (c)  that he withholds assent to part of the proposed law and assents to the remainder of the proposed law.
 
-             (2)  The Governor-General may return the proposed law to the Administrator with amendments that he or she recommends.
+             (2)  The Governor-General may return the proposed law to the Administrator with amendments that he recommends.
 
              (3)  The Legislative Assembly shall consider the amendments recommended by the Governor-General and the proposed law, with those or any other amendments or without amendments, may be again presented to the Administrator for assent, and subsection 7(2) applies accordingly.
 
@@ -314,9 +317,9 @@ and includes part of any such law or Ordinance.
 
              (1)  Subject to this section, the Governor-General may, within 6 months after the Administrator’s assent to a proposed law, disallow the law or part of the law.
 
-             (2)  The Governor-General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor-General considers to be desirable as a result of his or her consideration of the law.
+             (2)  The Governor-General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor-General considers to be desirable as a result of his consideration of the law.
 
-             (3)  Where, as a result of his or her consideration of a law, the Governor-General so recommends any amendments of the laws of the Territory, the time within which the Governor-General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor-General’s recommendation.
+             (3)  Where, as a result of his consideration of a law, the Governor-General so recommends any amendments of the laws of the Territory, the time within which the Governor-General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor-General’s recommendation.
 
              (4)  Upon publication of notice of the disallowance of a law, or part of a law, in the _Government Gazette_ of the Territory, the disallowance has, subject to subsection (5), the same effect as a repeal of the law or part of the law.
 
@@ -352,13 +355,13 @@ and includes part of any such law or Ordinance.
 
              (5)  For the purposes of subsection (4), each electoral division shall contain a number of electors not exceeding, or falling short of, the quota calculated under that subsection by more than one-fifth of the quota.
 
-             (6)  A member of the Legislative Assembly shall, before taking his or her seat, make and subscribe an oath or affirmation of allegiance in the form in Schedule 2 and also an oath or affirmation of office in the form in Schedule 3.
+             (6)  A member of the Legislative Assembly shall, before taking his seat, make and subscribe an oath or affirmation of allegiance in the form in Schedule 2 and also an oath or affirmation of office in the form in Schedule 3.
 
              (7)  An oath or affirmation under subsection (6) shall be made before the Administrator or a person authorized by the Administrator to administer such oaths or affirmations.
 
 ##### <a id="14"></a>14  Qualifications of electors
 
-             (1)  Subject to subsection (2), all persons who are, under the _Commonwealth Electoral Act 1918_, qualified to vote at an election of a member of the House of Representatives for the Northern   Territory, shall be qualified to vote at an election of members of the Legislative Assembly.
+             (1)  Subject to subsection (2), all persons who are, under the _Commonwealth Electoral Act 1918_, qualified to vote at an election of a member of the House of Representatives for the Northern Territory, shall be qualified to vote at an election of members of the Legislative Assembly.
 
              (2)  Subsection (1) does not apply to persons who are qualified to vote at an election of a member of the House of Representatives for the Northern Territory by reason only of the amendments of the _Commonwealth Electoral Act 1918_ made by the provisions of Part II of the _Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984_ or by the provisions of Part III of the _Christmas Island Administration (Miscellaneous Amendments) Act_ _1984_.
 
@@ -368,7 +371,7 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="16"></a>16  Term of office of member
 
-                   Subject to this Act, the term of office of a member of the Legislative Assembly commences on the date of his or her election and ends immediately before the date of the next general election of members of the Legislative Assembly.
+                   Subject to this Act, the term of office of a member of the Legislative Assembly commences on the date of his election and ends immediately before the date of the next general election of members of the Legislative Assembly.
 
 ##### <a id="17"></a>17  Dates of elections
 
@@ -378,7 +381,7 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="18"></a>18  Resignation of members of Legislative Assembly
 
-                   A member of the Legislative Assembly may resign his or her office by writing signed by him or her and delivered to the Speaker or, if there is no Speaker or the Speaker is absent from the Territory, to the Administrator, and on the receipt of the resignation by the Speaker or the Administrator, as the case may be, his or her office shall become vacant.
+                   A member of the Legislative Assembly may resign his office by writing signed by him and delivered to the Speaker or, if there is no Speaker or the Speaker is absent from the Territory, to the Administrator, and on the receipt of the resignation by the Speaker or the Administrator, as the case may be, his office shall become vacant.
 
 ##### <a id="19"></a>19  Filling of casual vacancy
 
@@ -388,29 +391,29 @@ and includes part of any such law or Ordinance.
 
                    Subject to section 21, a person is qualified to be a candidate for election as a member of the Legislative Assembly if, at the date of nomination:
 
-                     (a)  he or she is an Australian citizen;
+                     (a)  he is an Australian citizen;
 
-                     (b)  he or she has attained the age of 18 years;
+                     (b)  he has attained the age of 18 years;
 
-                     (c)  he or she is entitled, or qualified to become entitled, to vote at elections of members of the Legislative Assembly; and
+                     (c)  he is entitled, or qualified to become entitled, to vote at elections of members of the Legislative Assembly; and
 
-                     (d)  he or she has been resident within the Commonwealth for at least 6 months and within the Territory for at least 3 months.
+                     (d)  he has been resident within the Commonwealth for at least 6 months and within the Territory for at least 3 months.
 
 ##### <a id="21"></a>21  Disqualifications for membership of Legislative Assembly
 
              (1)  A person is not qualified to be a candidate for election as a member of the Legislative Assembly if, at the date of nomination:
 
-                     (a)  he or she:
+                     (a)  he:
 
                               (i)  holds an office or appointment (other than a prescribed office or appointment) under a law of the Commonwealth (including this Act) or a law of a State or Territory; or
 
                              (ii)  not being the holder of any office or appointment under such a law, is employed by the Commonwealth, by a State or Territory or by a body corporate established for a public purpose by such a law;
 
-                            and he or she is entitled to any remuneration or allowance (other than reimbursement of expenses reasonably incurred) in respect of that office, appointment or employment;
+                            and he is entitled to any remuneration or allowance (other than reimbursement of expenses reasonably incurred) in respect of that office, appointment or employment;
 
-                     (b)  he or she is an undischarged bankrupt; or
+                     (b)  he is an undischarged bankrupt; or
 
-                     (c)  he or she has been convicted and is under sentence of imprisonment for one year or longer for an offence against the law of the Commonwealth or of a State or Territory.
+                     (c)  he has been convicted and is under sentence of imprisonment for one year or longer for an offence against the law of the Commonwealth or of a State or Territory.
 
           (1A)  In subparagraph (1)(a)(i), **_prescribed office or appointment_** means:
 
@@ -418,17 +421,17 @@ and includes part of any such law or Ordinance.
 
                      (b)  an appointment under section 25 or 26.
 
-             (2)  A member of the Legislative Assembly vacates his or her office if:
+             (2)  A member of the Legislative Assembly vacates his office if:
 
-                     (a)  he or she becomes a person to whom any of the paragraphs of subsection (1) applies;
+                     (a)  he becomes a person to whom any of the paragraphs of subsection (1) applies;
 
-                     (b)  he or she ceases to be an Australian citizen;
+                     (b)  he ceases to be an Australian citizen;
 
-                     (c)  he or she fails to attend the Legislative Assembly for 3 consecutive sitting days of the Assembly without the permission of the Assembly;
+                     (c)  he fails to attend the Legislative Assembly for 3 consecutive sitting days of the Assembly without the permission of the Assembly;
 
-                     (d)  he or she ceases to be entitled, or qualified to become entitled, to vote at elections of members of the Legislative Assembly; or
+                     (d)  he ceases to be entitled, or qualified to become entitled, to vote at elections of members of the Legislative Assembly; or
 
-                     (e)  he or she takes or agrees to take, directly or indirectly, any remuneration, allowance or honorarium for services rendered in the Legislative Assembly, otherwise than in accordance with an enactment that provides for remuneration and allowances to be paid to persons in respect of their services as members of the Legislative Assembly, members of the Executive Council or Ministers of the Territory.
+                     (e)  he takes or agrees to take, directly or indirectly, any remuneration, allowance or honorarium for services rendered in the Legislative Assembly, otherwise than in accordance with an enactment that provides for remuneration and allowances to be paid to persons in respect of their services as members of the Legislative Assembly, members of the Executive Council or Ministers of the Territory.
 
              (3)  A member of the Legislative Assembly who is a party to, or has a direct or indirect interest in, a contract made by or on behalf of the Territory under which goods or services are to be supplied to the Territory shall not take part in a discussion of a matter, or vote on a question, in the Legislative Assembly where the matter or question relates directly or indirectly to that contract.
 
@@ -438,11 +441,11 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="22"></a>22  Sessions of Legislative Assembly
 
-             (1)  The Administrator may, by notice published in the _Government Gazette_ of the Territory, appoint such times for holding the sessions of the Legislative Assembly as he or she thinks fit and may also, from time to time, in like manner, prorogue the Legislative Assembly.
+             (1)  The Administrator may, by notice published in the _Government Gazette_ of the Territory, appoint such times for holding the sessions of the Legislative Assembly as he thinks fit and may also, from time to time, in like manner, prorogue the Legislative Assembly.
 
-             (2)  At the request of such number of members of the Legislative Assembly as is prescribed by enactment, the Administrator shall, by notice published in the _Government Gazette_ of the Territory, appoint a time, being not later than 14 days after the day on which he or she receives the request, for holding a session of the Legislative Assembly.
+             (2)  At the request of such number of members of the Legislative Assembly as is prescribed by enactment, the Administrator shall, by notice published in the _Government Gazette_ of the Territory, appoint a time, being not later than 14 days after the day on which he receives the request, for holding a session of the Legislative Assembly.
 
-##### <a id="23"></a>23  Quorum
+##### <a id="23"></a>23  Quorum
 
                    The number of members necessary to constitute a meeting of the Legislative Assembly for the exercise and performance of its powers and functions shall be as prescribed by enactment.
 
@@ -450,15 +453,15 @@ and includes part of any such law or Ordinance.
 
              (1)  The Legislative Assembly shall, before proceeding to the despatch of any other business, choose a member of the Legislative Assembly to be the Speaker of the Legislative Assembly and, as often as the office of Speaker becomes vacant, the Legislative Assembly shall again choose a member to be the Speaker.
 
-             (2)  The Speaker continues to hold his or her office until:
+             (2)  The Speaker continues to hold his office until:
 
-                     (a)  the Legislative Assembly first meets after a general election of the Legislative Assembly that takes place after his or her election under subsection (1);
+                     (a)  the Legislative Assembly first meets after a general election of the Legislative Assembly that takes place after his election under subsection (1);
 
-                     (b)  he or she resigns his or her office by writing signed by him or her and delivered to the Administrator;
+                     (b)  he resigns his office by writing signed by him and delivered to the Administrator;
 
-                     (c)  he or she ceases to be a member of the Legislative Assembly otherwise than by reason of the dissolution of the Legislative Assembly; or
+                     (c)  he ceases to be a member of the Legislative Assembly otherwise than by reason of the dissolution of the Legislative Assembly; or
 
-                     (d)  he or she is removed from office by the Legislative Assembly;
+                     (d)  he is removed from office by the Legislative Assembly;
 
 whichever first happens.
 
@@ -474,7 +477,7 @@ whichever first happens.
 
                      (b)  the appointment is revoked by the Legislative Assembly;
 
-                     (c)  the person appointed resigns his or her appointment by writing signed by him or her and delivered to the Administrator;
+                     (c)  the person appointed resigns his appointment by writing signed by him and delivered to the Administrator;
 
                      (d)  the person appointed ceases to be a member of the Legislative Assembly otherwise than by reason of the dissolution of the Legislative Assembly; or
 
@@ -504,7 +507,7 @@ the Administrator may, by instrument in writing, appoint a member of the Legisla
 
                      (b)  the Administrator, by instrument in writing, revokes the appointment;
 
-                     (c)  the person appointed resigns his or her appointment by writing signed by him or her and delivered to the Administrator;
+                     (c)  the person appointed resigns his appointment by writing signed by him and delivered to the Administrator;
 
                      (d)  the person appointed ceases to be a member of the Legislative Assembly otherwise than by reason of the dissolution of the Legislative Assembly;
 
@@ -524,17 +527,17 @@ whichever first happens.
 
                    Where a person who has, whether before or after the commencement of this section, purported to sit or vote as a member of the Legislative Assembly at a meeting of the Legislative Assembly or of a Committee of the Legislative Assembly:
 
-                     (a)  was not a duly elected member by reason of his or her not having been qualified for election or of any other defect in his or her election; or
+                     (a)  was not a duly elected member by reason of his not having been qualified for election or of any other defect in his election; or
 
-                     (b)  had vacated his or her office as a member;
+                     (b)  had vacated his office as a member;
 
-all things done or purporting to have been done by the Legislative Assembly or that Committee shall be deemed to be as validly done as if that person had, when so sitting or voting, been a duly elected member of the Legislative Assembly, or had not vacated his or her office, as the case may be.
+all things done or purporting to have been done by the Legislative Assembly or that Committee shall be deemed to be as validly done as if that person had, when so sitting or voting, been a duly elected member of the Legislative Assembly, or had not vacated his office, as the case may be.
 
 ##### <a id="29"></a>29  Minutes of proceedings
 
              (1)  The Legislative Assembly shall cause minutes of its proceedings to be kept.
 
-             (2)  A copy of any minutes so kept shall, on request made by any person, be made available for inspection by him or her or, on payment of such fee as is fixed by or under enactment, be supplied to him or her.
+             (2)  A copy of any minutes so kept shall, on request made by any person, be made available for inspection by him or, on payment of such fee as is fixed by or under enactment, be supplied to him.
 
 ##### <a id="30"></a>30  Standing rules and orders
 
@@ -552,7 +555,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (2)  The Administrator is charged with the duty of administering the government of the Territory.
 
-             (3)  Subject to this Act, the Administrator shall exercise and perform all powers and functions that belong to his or her office, or that are conferred on him or her by or under a law in force in the Territory, in accordance with the tenor of his or her Commission and (in the case of powers and functions other than powers and functions relating to matters specified under section 35 and powers and functions under sections 34 and 36) in accordance with such instructions as are given to him or her by the Minister.
+             (3)  Subject to this Act, the Administrator shall exercise and perform all powers and functions that belong to his office, or that are conferred on him by or under a law in force in the Territory, in accordance with the tenor of his Commission and (in the case of powers and functions other than powers and functions relating to matters specified under section 35 and powers and functions under sections 34 and 36) in accordance with such instructions as are given to him by the Minister.
 
 ##### <a id="33"></a>33  The Executive Council
 
@@ -560,7 +563,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (2)  The Council shall consist of the persons for the time being holding Ministerial office.
 
-             (3)  The Administrator is entitled to attend all meetings of the Council, and shall preside at all meetings at which he or she is present.
+             (3)  The Administrator is entitled to attend all meetings of the Council, and shall preside at all meetings at which he is present.
 
              (4)  The Administrator may introduce into the Council any matter for discussion in the Council.
 
@@ -584,25 +587,25 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
                    The appointment of a person to a Ministerial office takes effect on the day specified in the instrument of appointment and terminates when:
 
-                     (a)  he or she ceases, by reason of his or her resignation or by reason of the provisions of section 21, to be a member of the Legislative Assembly;
+                     (a)  he ceases, by reason of his resignation or by reason of the provisions of section 21, to be a member of the Legislative Assembly;
 
-                     (b)  his or her appointment is terminated by the Administrator;
+                     (b)  his appointment is terminated by the Administrator;
 
-                     (c)  he or she resigns his or her office by writing signed by him or her and delivered to the Administrator and the resignation is accepted by the Administrator; or
+                     (c)  he resigns his office by writing signed by him and delivered to the Administrator and the resignation is accepted by the Administrator; or
 
                      (d)  the Legislative Assembly first meets after a general election of the Legislative Assembly that takes place after the appointment takes effect.
 
 ##### <a id="38"></a>38  Oath to be taken by Member of Council and Minister
 
-             (1)  A member of the Council shall, before entering on the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
+             (1)  A member of the Council shall, before entering on the duties of his office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
 
-             (2)  A person who is appointed to a Ministerial office shall, before entering on the duties of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 5.
+             (2)  A person who is appointed to a Ministerial office shall, before entering on the duties of his office, make and subscribe an oath or affirmation in accordance with the form in Schedule 5.
 
              (3)  An oath or affirmation under subsection (1) or (2) shall be made before the Administrator or a person authorized by the Administrator to administer such oaths or affirmations.
 
 ##### <a id="40"></a>40  Acting Administrator
 
-             (1)  The Governor-General may, by Commission under the Seal of Australia, appoint one or more persons to act in the office of Administrator and to administer the government of the Territory during any vacancy in the office of Administrator or whenever the Administrator is absent from duty or from the Territory or is, for any other reason, unable to exercise and perform the powers and functions of his or her office.
+             (1)  The Governor-General may, by Commission under the Seal of Australia, appoint one or more persons to act in the office of Administrator and to administer the government of the Territory during any vacancy in the office of Administrator or whenever the Administrator is absent from duty or from the Territory or is, for any other reason, unable to exercise and perform the powers and functions of his office.
 
              (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
@@ -610,17 +613,17 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (5)  The exercise or performance by an Acting Administrator of the powers or functions of the Administrator during the absence of the Administrator from the Territory does not prevent the exercise or performance by the Administrator of any of those powers or functions.
 
-             (6)  The appointment of an Acting Administrator, and any act done by a person purporting to act under this section, shall not be called in question by reason of any defect or irregularity in or in connexion with his or her appointment or on the ground that the occasion for his or her so acting had not arisen or had ceased.
+             (6)  The appointment of an Acting Administrator, and any act done by a person purporting to act under this section, shall not be called in question by reason of any defect or irregularity in or in connexion with his appointment or on the ground that the occasion for his so acting had not arisen or had ceased.
 
 ##### <a id="41"></a>41  Deputies of Administrator
 
-             (1)  The Administrator may appoint a person, or persons jointly or severally, to be the deputy or deputies of the Administrator in the Territory, or a part of the Territory, and in that capacity to exercise during the pleasure of the Administrator such powers and functions of the Administrator as he or she assigns to the deputy or deputies.
+             (1)  The Administrator may appoint a person, or persons jointly or severally, to be the deputy or deputies of the Administrator in the Territory, or a part of the Territory, and in that capacity to exercise during the pleasure of the Administrator such powers and functions of the Administrator as he assigns to the deputy or deputies.
 
              (2)  The appointment of a deputy does not affect the exercise of a power or performance of a function by the Administrator.
 
 ##### <a id="42"></a>42  Oath to be taken by Administrator etc.
 
-             (1)  The Administrator, and Acting Administrator or a deputy of the Administrator shall, before entering on the duties of his or her office, make and subscribe an oath or affirmation of allegiance in the form in Schedule 2 and also an oath or affirmation of office in the form in Schedule 6.
+             (1)  The Administrator, and Acting Administrator or a deputy of the Administrator shall, before entering on the duties of his office, make and subscribe an oath or affirmation of allegiance in the form in Schedule 2 and also an oath or affirmation of office in the form in Schedule 6.
 
              (2)  An oath or affirmation under this section shall be made before the Governor-General, a Judge of the Supreme Court of the Northern Territory of Australia or a person authorized by the Governor-General to administer the oath or affirmation.
 
@@ -734,7 +737,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (1)  Subject to this Act, on and after the commencing date, all existing laws of the Territory have the same operation as they would have had if this Act had not been enacted, subject to alteration or repeal by or under enactment.
 
-             (2)  Where any existing law of the Territory, the operation of which is preserved by this section, is a law of the State of South Australia, any power or function which by that law is vested in the Governor of the State of South Australia, in the Governor of that State with the advice of his or her Executive Council or in any authority of that State shall, in relation to the Territory, be vested in and exercised or performed by the Administrator, the Administrator acting with the advice of the Council or the authority exercising similar powers and functions in the Territory, as the case may be, or as the Administrator directs.
+             (2)  Where any existing law of the Territory, the operation of which is preserved by this section, is a law of the State of South Australia, any power or function which by that law is vested in the Governor of the State of South Australia, in the Governor of that State with the advice of his Executive Council or in any authority of that State shall, in relation to the Territory, be vested in and exercised or performed by the Administrator, the Administrator acting with the advice of the Council or the authority exercising similar powers and functions in the Territory, as the case may be, or as the Administrator directs.
 
              (3)  In this section, **_existing law of the Territory_** means:
 
@@ -744,7 +747,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ##### <a id="58"></a>58  Administrator etc. to continue in office
 
-             (1)  Where, immediately before the commencing date, a person holds office by virtue of a provision of the previous Act as the Administrator, an Acting Administrator or a deputy Administrator, he or she continues on and after that date, but subject to this Act, to hold office for the remainder of his or her term of office as if he or she had been appointed under the corresponding provision of this Act, and any instrument by which his or her appointment was made continues in force accordingly.
+             (1)  Where, immediately before the commencing date, a person holds office by virtue of a provision of the previous Act as the Administrator, an Acting Administrator or a deputy Administrator, he continues on and after that date, but subject to this Act, to hold office for the remainder of his term of office as if he had been appointed under the corresponding provision of this Act, and any instrument by which his appointment was made continues in force accordingly.
 
              (2)  Section 42 does not apply for the purposes of the continuance in office of a person by virtue of subsection (1) of this section.
 
@@ -784,7 +787,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ##### <a id="65"></a>65  Remuneration and allowances
 
-                   Notwithstanding the repeal of the previous Act, until a person receives remuneration, allowances and other entitlements in accordance with an enactment, he or she shall receive in respect of his or her services as a member of the Legislative Assembly, a member of the Council or a Minister of the Territory, as the case may be, remuneration, allowances and other entitlements in accordance with the relevant determination by the Remuneration Tribunal in force immediately before the commencing date, and paragraph 21(2)(e) does not apply in relation to remuneration, allowances and other entitlements so received.
+                   Notwithstanding the repeal of the previous Act, until a person receives remuneration, allowances and other entitlements in accordance with an enactment, he shall receive in respect of his services as a member of the Legislative Assembly, a member of the Council or a Minister of the Territory, as the case may be, remuneration, allowances and other entitlements in accordance with the relevant determination by the Remuneration Tribunal in force immediately before the commencing date, and paragraph 21(2)(e) does not apply in relation to remuneration, allowances and other entitlements so received.
 
 ##### <a id="66"></a>66  Ordinances made but not assented to before commencing date
 
@@ -920,6 +923,7 @@ other than a contract referred to in subsection 69(6).
 
              (3)  Regulations shall not be made under this section after 30 June 1979\. 
 
+
 # Schedule 1—Acts repealed 
 
 _Section 3_
@@ -1036,6 +1040,7 @@ AFFIRMATION
 
                    I, _A.B_., do solemnly and sincerely promise and declare that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, _or_ Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 
+
 # Notes to the _Northern Territory (Self-Government) Act 1978_
 
 ### Note 1
@@ -1066,11 +1071,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1080,320 +1087,314 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Northern Territory (Self-Government) Act 1978</div>
-  </td>
-  <td>
-    <div>58, 1978</div>
-  </td>
-  <td>
-    <div>22 June 1978</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2 and 70: Royal Assent 
-Remainder: 1 July 1978</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Northern Territory (Self-Government) Amendment Act 1982</div>
-  </td>
-  <td>
-    <div>130, 1982</div>
-  </td>
-  <td>
-    <div>14 Dec 1982</div>
-  </td>
-  <td>
-    <div>S. 11: 22 June 1978 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Government Solicitor (Consequential Amendments) Act 1984</div>
-  </td>
-  <td>
-    <div>10, 1984</div>
-  </td>
-  <td>
-    <div>10 Apr 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 1 July 1984 ( <i>see Gazette</i>1984, No. S231) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 4(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984</div>
-  </td>
-  <td>
-    <div>46, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>Part VII (ss. 
+<tbody>
+  <tr>
+    <td>
+      <div>Northern Territory (Self-Government) Act 1978</div>
+    </td>
+    <td>
+      <div>58, 1978</div>
+    </td>
+    <td>
+      <div>22 June 1978</div>
+    </td>
+    <td>
+      <div>Ss. 1, 2 and 70: Royal Assent 
+Remainder: 1 July 1978 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Northern Territory (Self-Government) Amendment Act 1982</div>
+    </td>
+    <td>
+      <div>130, 1982</div>
+    </td>
+    <td>
+      <div>14 Dec 1982</div>
+    </td>
+    <td>
+      <div>S. 11: 22 June 1978 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Government Solicitor (Consequential Amendments) Act 1984</div>
+    </td>
+    <td>
+      <div>10, 1984</div>
+    </td>
+    <td>
+      <div>10 Apr 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 1 July 1984 ( <i>see Gazette</i>1984, No. S231) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 4(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984</div>
+    </td>
+    <td>
+      <div>46, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>Part VII (ss. 
 22–26): 6 Apr 1984 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christmas Island Administration (Miscellaneous Amendments) Act 1984</div>
-  </td>
-  <td>
-    <div>120, 1984</div>
-  </td>
-  <td>
-    <div>18 Oct 1984</div>
-  </td>
-  <td>
-    <div>Ss. 27–31: 1 Oct 1984 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
-  </td>
-  <td>
-    <div>21, 1989</div>
-  </td>
-  <td>
-    <div>20 Apr 1989</div>
-  </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>33, 1991</div>
-  </td>
-  <td>
-    <div>21 Mar 1991</div>
-  </td>
-  <td>
-    <div><i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 113): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 34): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Euthanasia Laws Act 1997</div>
-  </td>
-  <td>
-    <div>17, 1997</div>
-  </td>
-  <td>
-    <div>27 Mar 1997</div>
-  </td>
-  <td>
-    <div>27 Mar 1997</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[see Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Judiciary Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>7, 1999</div>
-  </td>
-  <td>
-    <div>31 March 1999</div>
-  </td>
-  <td>
-    <div>Schedules 1–3 (items 28, 29): 1 Sept 1999 ( <i>see</i> <i>Gazette</i>1999, No. S395) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Review Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 406–408): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Christmas Island Administration (Miscellaneous Amendments) Act 1984</div>
+    </td>
+    <td>
+      <div>120, 1984</div>
+    </td>
+    <td>
+      <div>18 Oct 1984</div>
+    </td>
+    <td>
+      <div>Ss. 27–31: 1 Oct 1984 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+    </td>
+    <td>
+      <div>21, 1989</div>
+    </td>
+    <td>
+      <div>20 Apr 1989</div>
+    </td>
+    <td>
+      <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>33, 1991</div>
+    </td>
+    <td>
+      <div>21 Mar 1991</div>
+    </td>
+    <td>
+      <div><i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 113): Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 34): Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Euthanasia Laws Act 1997</div>
+    </td>
+    <td>
+      <div>17, 1997</div>
+    </td>
+    <td>
+      <div>27 Mar 1997</div>
+    </td>
+    <td>
+      <div>27 Mar 1997</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 2) \[see Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Judiciary Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>7, 1999</div>
+    </td>
+    <td>
+      <div>31 March 1999</div>
+    </td>
+    <td>
+      <div>Schedules 1–3 (items 28, 29): 1 Sept 1999 ( <i>see</i> <i>Gazette</i>1999, No. S395) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Northern Territory__(Self-Government) Act 1978_ was amended by section 3 only of the _Australian Government Solicitor (Consequential Amendments) Act 1984_, subsection 2(1) of which provides as follows:
 
@@ -1425,6 +1426,7 @@ _(g)_     The _Workplace Relations and Other Legislation Amendment Act 1
 
          The _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent on 25 November 1996.
 
+
 ## Table of Amendments
 
 <table>
@@ -1448,350 +1450,249 @@ _(g)_     The _Workplace Relations and Other Legislation Amendment Act 1
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7, 8</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. Nos. 46 and 120, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982; No. 65, 1985; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24–26</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28, 29</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32, 33</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37, 38</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41, 42</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 33, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 47A–47C</div>
-  </td>
-  <td>
-    <div>ad. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 33, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 17, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 53</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rs. No. 87, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 57, 58</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>rep. No. 130, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1982</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7, 8</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. Nos. 46 and 120, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982; No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 33, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 47A–47C</div>
+    </td>
+    <td>
+      <div>ad. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 33, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50A</div>
+    </td>
+    <td>
+      <div>ad. No. 17, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 53</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>rs. No. 87, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>rep. No. 130, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 130, 1982</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1805,7 +1706,9 @@ _Euthanasia Laws Act 1997 (No. 17, 1997)_
 
 For the avoidance of doubt, the enactment of the Legislative Assembly called the _Rights of the Terminally Ill Act 1995_ has no force or effect as a law of the Territory, except as regards the lawfulness or validity of anything done in accordance therewith prior to the commencement of this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
@@ -1836,6 +1739,7 @@ If:
                      (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
 
  
 
