@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00677/Html/e336eb3f-8d32-4a63-b434-8a56edec74e2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00659/Html/15a135d0-7cfa-4ef9-9397-5362656e637e_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 20 September 2012
+This compilation was prepared on 29 August 2012
  taking into account amendments up to Act No. 101 of 2012
 
 **Volume 1**includes:  Table of Contents
@@ -30,7 +30,7 @@ Act Notes
 
 Table of Amendments
 
-Notes 2–5
+Notes 2–6
 
 Table A
 
@@ -4107,7 +4107,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00677/Html/e336eb3f-8d32-4a63-b434-8a56edec74e2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00659/Html/15a135d0-7cfa-4ef9-9397-5362656e637e_files/image002.gif)
 
 where:
 
@@ -4265,7 +4265,7 @@ However, the court may not impose a pecuniary penalty greater than the penalty t
 
                    A child under 10 years old cannot be liable for an offence against a law of the Commonwealth.
 
-##### <a id="4N"></a>4N  Children over 10 but under 14
+##### <a id="4N"></a>4N  Children over 10 but under 14
 
              (1)  A child aged 10 years or more but under 14 years old can only be liable for an offence against a law of the Commonwealth if the child knows that his or her conduct is wrong.
 
@@ -7627,7 +7627,7 @@ Note:          The chief officer may delegate functions under 
 
 Note:          The chief officer may delegate functions under this section—see section 15MX.
 
-##### <a id="15MR"></a>15MR  Permission to give information disclosing operative’s identity etc.
+##### <a id="15MR"></a>15MR  Permission to give information disclosing operative’s identity etc.
 
              (1)  This section applies if the chief officer of a law enforcement agency gives a witness identity protection certificate for an operative in relation to a proceeding.
 
@@ -8627,7 +8627,7 @@ _Example 3:_ The aggregate of a one year unserved portion of a sentence, a 2 yea
 
                      (b)  where the person has been given a federal life sentence—the period commencing on the day of release on parole or licence and ending at the end of the day specified in the parole order or licence as the day on which the supervision ends, being a day not later than the day on which the parole period or licence period ends.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian C  apital Territory or the Northern Territory.
 
                     <a name="territori-offenc"></a>**_Territory offence_** means an offence against the law of a Territory.
 
