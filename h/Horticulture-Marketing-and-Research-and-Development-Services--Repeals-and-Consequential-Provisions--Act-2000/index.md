@@ -1,2314 +1,1335 @@
-**
+![](http://www.comlaw.gov.au/Details/C2009C00529/Html/HorticultureMarkResDevServRepConseqProvis2000_image001.gif)
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000 
-**
+# Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000
 
+**Act No. 163 of 2000 as amended**
 
-**
+This compilation was prepared on 20 November 2009
+ taking into account amendments up to Act No. 111 of 2009
 
-###  Compilation Information 
-**
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-see
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part 1—Preliminary**
 
+[1](#1).            Short title [_see_ Note 1]
 
+[2](#2).            Commencement [_see_ Note 1]
 
+[3](#3).            Simplified outline
 
-**
+[4](#4).            Definitions
 
-###  Long Title 
-**
-Horticulture Marketing and Research and Development Services Act 2000
-**
+[5](#5).            Crown to be bound
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<part>Part&#160;1&#151;Preliminary </part>
-**
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_.
+[6](#6).            Extra-territorial operation
 
- 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 2  Commencement [_see_ Note 1] 
-<dt>(1)</dt><dd>Subject to this section, this Act commences at the same time as
+[7](#7).            Schedule(s)
 
-Part&#160;2 of the _Horticulture Marketing and Research and Development Services Act 2000._</dd> <dt>(2)</dt><dd>Schedules&#160;1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part&#160;2\. </dd> 
-<dl compact="">
+**Part 2—Transitional provisions** 
 
-Note:	See sections&#160;12 and 13 for the transfer day, and the
+    **Division 1—Statutory authorities’ role in transition**
 
-time at which the transfer occurs.
+[8](#8).            Simplified outline
 
- </dl>
-<dt>(3)</dt><dd>Schedule&#160;3 (references to Administrative Appeals Tribunal) commences
+[9](#9).            Functions of statutory authorities
 
-at the later of:
+[10](#10).          Repeal of Division
 
-</dd> 
-<dl compact=""><dl compact="">
+    **Division 2—Transfer day**
 
-<dt>(a)</dt><dd>the time when Parts&#160;4 to 10 of the Act that establishes the
+[11](#11).          Simplified outline
 
-Administrative Review Tribunal commence; and</dd>
+[12](#12).          Minister must determine transfer day
 
-<dt>(b)</dt><dd>the time immediately after the _Horticulture Marketing and Research and Development Services Act 2000_ receives the Royal Assent.
+[13](#13).          Time of transfers
 
-</dd>
+    **Division 3—Transfer of assets and liabilities etc.**
 
-</dl></dl>
-<dl compact="">
+[14](#14).          Simplified outline
 
-Note:	The short title of the Act that establishes the
+[15](#15).          Transfers subject to conditions
 
-Administrative Review Tribunal is either the _Administrative Review Tribunal Act 2000_ or the _Administrative Review Tribunal Act 2001_.
+[16](#16).          Transfer of assets and liabilities
 
- </dl>
-<dt>(4)</dt><dd>Schedule&#160;4 (operation of the Privacy Act) commences at the later of:
+[17](#17).          ADF Trust Amount
 
-</dd> 
-<dl compact=""><dl compact="">
+[18](#18).          Transfer of pending proceedings
 
-<dt>(a)</dt><dd>the time when Schedule&#160;1 to the _Privacy Amendment (Private Sector) Act 2000_ commences; and</dd>
+[19](#19).          Exemption from taxation
 
-<dt>(b)</dt><dd>the time immediately after the _Horticulture Marketing and Research and Development Services Act 2000_ receives the Royal Assent.
+[19A](#19A).       Operation of GST Law
 
-</dd>
+[20](#20).          References in certain instruments
 
-</dl></dl>
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 3  Simplified outline 
-The following is a simplified outline of this Act:
+[21](#21).          Certificates in relation to assets
 
- 
+    **Division 4—Transfer of staff** 
 
-Back to Top
+        **Subdivision A—Preliminary**
 
-Horticulture Marketing and Research and Development Services Act 2000
+[23](#23).          Simplified outline
 
-transfer day
+[24](#24).          Transfer of staff
 
+[25](#25).          Terms and conditions of transferred employees
 
-Australian Horticultural Corporation Act 1987
-Horticulture Marketing and Research and Development Services Act 2000
+[26](#26).          Variation of terms and conditions of employment
 
-Australian Horticultural Corporation Act 1987
-Horticultural Research and Development Corporation Act 1987
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 4  Definitions 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+        **Subdivision B—Application of the Safety, Rehabilitation and Compensation Act**
 
-</dd> 
-<dl compact=""><dl compact="">
+[27](#27).          Continued application of SRC Act
 
-_ADF Trust Amount_ has the meaning given by section&#160;17\. _APS employee_ has the same meaning as in the _Public Service Act 1999_. _assets_ means any legal or equitable estate or interest of the authority in real or personal property (whether actual, contingent or prospective) and includes all rights, powers, privileges and immunities (whether actual, contingent or prospective). _assets official_ means a person or authority who, under a law, has responsibility for keeping a register in relation to assets of the kind concerned. _award_ has the same meaning as in the _Workplace Relations Act 1996_. _combined service period_, in relation to an employee, means the total of:  </dl></dl>
+[28](#28).          Commonwealth liability to meet certain SRC Act liabilities
 
-<dl compact=""><dl compact=""><dl compact="">
+[29](#29).          SRC Act: rehabilitation provisions
 
-<dt>(a)</dt><dd>the period that is, immediately before the transfer day, the employee's
+[30](#30).          Premiums under the SRC Act
 
-period of service for the purposes of the Long Service Leave Act; and</dd>
+        **Subdivision C—Deferred Defence Force Retirement and Death Benefits Act benefits**
 
-<dt>(b)</dt><dd>the period, during which the employee continues to be an employee of the
+[31](#31).          Saving: deferred benefits under the DFRDB Act
 
-industry services body.
+        **Subdivision D—Maternity leave provisions**
 
-</dd>
+[32](#32).          Maternity leave starting before transfer day
 
-</dl></dl></dl>
+[33](#33).          Maternity leave starting after transfer day
 
-<def><dl compact=""><dl compact="">
+        **Subdivision E—Provisions relating to superannuation**
 
-_DFRDB Act_ means the _Defence Force Retirement and Death Benefits Act 1973_. _Dried Fruits Trust_ has the meaning given by section&#160;17\. _employee_, in relation to a statutory authority, means a person who was, immediately before the transfer day, an officer or an employee of the authority, and includes the Chief Executive Officer, Managing Director or General Manager of the authority. _industry export control body_ means the body for the time being declared to be the industry export control body under the _Horticulture Marketing and Research and Development Services Act 2000_. _industry services body_ means the body for the time being declared to be the industry services body under the _Horticulture Marketing and Research and Development Services Act 2000_. _law_ means:  </dl></dl>
+[34](#34).          Application of the _Superannuation Act 1922_
 
-<dl compact=""><dl compact=""><dl compact="">
+[35](#35).          Application of other Superannuation Acts
 
-<dt>(a)</dt><dd>a law of the Commonwealth or of a State or Territory; or</dd>
+[36](#36).          Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
 
-<dt>(b)</dt><dd>regulations or any other instrument (other than an award, determination or
+        **Subdivision F—Provisions relating to long service leave**
 
-industrial agreement) made under such a law.
+[37](#37).          Long service leave for employees with less than 10 years service
 
-</dd>
+[38](#38).          Payments in lieu of long service leave for employees with less than 10 years service
 
-</dl></dl></dl>
+[39](#39).          Payments on the death of an employee
 
-<def><dl compact=""><dl compact="">
+[40](#40).          Employee’s long service leave credit for the purposes of sections 37 and 38
 
-_liabilities_ means all liabilities, duties and obligations,
+[41](#41).          Employees with at least 10 years service
 
-whether actual, contingent or prospective. _Long Service Leave Act_ means the _Long Service Leave (Commonwealth Employees) Act 1976_, as in force immediately before the transfer day. _Maternity Leave Act_ means the _Maternity Leave (Commonwealth Employees) Act 1973_, as in force immediately before the transfer day. _post-commencement long service leave rights_, in relation to an employee, means any long service leave rights the employee acquires on or after the transfer day under an award, determination, industrial agreement or law (other than this Act). _previous employer_, in relation to a transferred employee, means the statutory authority that employed the employee immediately before the transfer day. _SRC Act_ means the _Safety, Rehabilitation and Compensation Act 1988_, as in force immediately before the transfer day. _statutory authority_ means:  </dl></dl>
+[42](#42).          Division not to affect post-commencement long service leave rights
 
-<center>Back to Top</center>
+        **Subdivision G—Staff with mobility rights**
 
-<dl compact=""><dl compact=""><dl compact="">
+[43](#43).          Cessation of mobility rights
 
-<dt>(a)</dt><dd>the Australian Horticultural Corporation; or</dd>
+    **Division 5—Transitional period for export controls**
 
-<dt>(b)</dt><dd>the Horticultural Research and Development Corporation; or</dd>
+[44](#44).          Simplified outline
 
-<dt>(c)</dt><dd>the Australian Dried Fruits Board.
+[45](#45).          Continuation of export controls despite repeal of AHC Act
 
-</dd>
+[46](#46).          References to AHC and Product Board
 
-</dl></dl></dl>
+[47](#47).          Phasing out of export controls under Part V of AHC Act
 
-<def><dl compact=""><dl compact="">
+    **Division 6—Final annual reports**
 
-_transfer day_ means the day specified by the Minister as the
+[48](#48).          Simplified outline
 
-transfer day in a determination under section&#160;12\. _transferred employee_ means a person whose employment is transferred under section&#160;24\. _transitional period_ means the period of 24 months beginning on the transfer day.  </dl></dl>
+[49](#49).          Final annual report: Australian Horticultural Corporation
 
-<dl compact="">
+[50](#50).          Final annual report: Australian Dried Fruits Board
 
-<dt>(2)</dt><dd>Expressions used in this Act that are defined in the _Horticulture Marketing and Research and Development Services Act 2000_ have the same
+[51](#51).          Final annual report: Horticultural Research and Development Corporation
 
-meanings as they have in that Act.</dd> <dt>(3)</dt><dd>Expressions used in Subdivision F of Division&#160;4 of Part&#160;2 that are defined in the Long Service Leave Act have the same meanings as they have in that Act. </dd> </dl>
+    **Division 7—Miscellaneous**
 
-**
+[52](#52).          Delegation of Secretary’s powers
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 5  Crown to be bound 
-**
+[53](#53).          Compensation for acquisition of property
 
- <dl compact="">
+[54](#54).          Regulations
 
-		This Act binds the Crown in each of its capacities.
+**Schedule 1—Repeal of Acts**
 
- </dl>
+[1](#1).            Repeal of Acts
 
-**
+**Schedule 2—Consequential amendments** 
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 6  Extra-territorial operation 
-**
+**Schedule 3—References to Administrative Appeals Tribunal** 
 
- <dl compact="">
+Horticulture Marketing and Research and Development Services Act 2000 34
 
-		This Act applies both within and outside Australia.
+**Schedule 4—Operation of the Privacy Act** 
 
- </dl>
+**Notes** 
 
-**
+## An Act to deal with matters consequential on the enactment of the _Horticulture Marketing and Research and Development Services Act 2000_, and for related purposes
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 7  Schedule(s) 
-**
+## Part 1—Preliminary
 
- <dl compact="">
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-		Subject to section&#160;2, each Act that is specified in a Schedule to this
+                   This Act may be cited as the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_.
 
-Act is amended or repealed as set out in the applicable items in the Schedule
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-concerned, and any other item in a Schedule to this Act has effect according to
+             (1)  Subject to this section, this Act commences at the same time as Part 2 of the _Horticulture Marketing and Research and Development Services Act 2000._
 
-its terms.
+             (2)  Schedules 1 (repeals) and 2 (consequential amendments) commence on the transfer day, immediately after the transfer of assets, liabilities and staff under Part 2.
 
- </dl>
+Note:          See sections 12 and 13 for the transfer day, and the time at which the transfer occurs.
 
-<center>**
+             (3)  Schedule 3 (references to Administrative Appeals Tribunal) commences at the later of:
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<part>Part&#160;2&#151;Transitional provisions </part>
-**</center>
+                     (a)  the time when Parts 4 to 10 of the Act that establishes the Administrative Review Tribunal commence; and
 
-<center>**
+                     (b)  the time immediately after the _Horticulture Marketing and Research and Development Services Act 2000_ receives the Royal Assent.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;1&#151;Statutory authorities' role in transition </division> 
-**</center>
+Note:          The short title of the Act that establishes the Administrative Review Tribunal is either the _Administrative Review Tribunal Act 2000_ or the _Administrative Review Tribunal Act 2001_.
 
-**
+             (4)  Schedule 4 (operation of the Privacy Act) commences at the later of:
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 8  Simplified outline 
-**
+                     (a)  the time when Schedule 1 to the _Privacy Amendment (Private Sector) Act 2000_ commences; and
 
- <dl compact="">
+                     (b)  the time immediately after the _Horticulture Marketing and Research and Development Services Act 2000_ receives the Royal Assent.
 
-		The following is a simplified outline of this Division:
+##### <a id="3"></a>3  Simplified outline
 
- </dl>
+                   The following is a simplified outline of this Act:
 
-This Division sets out the role of the Australian Horticultural Corporation, the Horticultural Research and Development Corporation and the Australian Dried Fruits Board in the transition to the new industry bodies. 
+* * *
 
-**
+This Act deals with the transition from the Australian Horticultural Corporation, Horticultural Research and Development Corporation and the Australian Dried Fruits Board to new bodies. The new bodies are those declared under the _Horticulture Marketing and Research and Development Services Act 2000_.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 9  Functions of statutory authorities 
-**
+The Minister must determine a **_transfer day_** (see section 12).
 
- <dl compact="">
+On the transfer day assets, liabilities and staff of the Corporations and the Board are transferred to the new industry services body (see Divisions 2, 3 and 4 of Part 2).
 
-<dt>(1)</dt><dd>It is a function of each statutory authority to plan, facilitate and
+The system of export controls in place under the _Australian Horticultural Corporation Act 1987_ is kept in place for a maximum period of 2 years after the transfer day. Export controls on particular products can be phased out during the 2 year period, as controls on those products are brought in under the _Horticulture Marketing and Research and Development Services Act 2000_ (see Division 5 of Part 2 of this Act).
 
-participate in:
+The _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ are repealed once the assets, liabilities and staff of the bodies established by those Acts have been transferred to the new industry services body (see Schedule 1 to this Act).
 
-</dd> </dl>
+* * *
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="4"></a>4  Definitions
 
-<dt>(a)</dt><dd>its abolition under this Act; and</dd>
+             (1)  In this Act, unless the contrary intention appears:
 
-<dt>(b)</dt><dd>the establishment of the first industry services body and the first
+                    <a name="adf-trust-amount"></a>**_ADF Trust Amount_** has the meaning given by section 17.
 
-industry export control body under the _Horticulture Marketing and Research and Development Services Act 2000_; and</dd>
+                    <a name="ap-employe"></a>**_APS employee_** has the same meaning as in the _Public Service Act 1999_.
 
-<dt>(c)</dt><dd>the implementation of this Act.
+                    <a name="asset"></a>**_assets_** means any legal or equitable estate or interest of the authority in real or personal property (whether actual, contingent or prospective) and includes all rights, powers, privileges and immunities (whether actual, contingent or prospective).
 
-</dd>
+                    <a name="asset-offici"></a>**_assets official_** means a person or authority who, under a law, has responsibility for keeping a register in relation to assets of the kind concerned.
 
-</dl></dl></dl>
+                    <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
 
-<dl compact="">
+                     (a)  the period that is, immediately before the transfer day, the employee’s period of service for the purposes of the Long Service Leave Act; and
 
-<dt>(2)</dt><dd>Each statutory authority also has the function of providing funds to
+                     (b)  the period, during which the employee continues to be an employee of the industry services body.
 
-another person or body (including the Commonwealth) to meet, or reimburse the
+                    <a name="dfrdb-act"></a>**_DFRDB Act_** means the _Defence Force Retirement and Death Benefits Act 1973_.
 
-person or body for, expenses or liabilities it incurs in participating in
+                    <a name="dri-fruit-trust"></a>**_Dried Fruits Trust_** has the meaning given by section 17.
 
-processes of the kind mentioned in subsection&#160;(1).</dd> <dt>(3)</dt><dd>A statutory authority must comply with any written directions from the Minister about the performance of its functions under subsection&#160;(1) or (2). </dd> </dl>
+                    <a name="employe"></a>**_employee_**, in relation to a statutory authority, means a person who was, immediately before the transfer day, an officer or an employee of the authority, and includes the Chief Executive Officer, Managing Director or General Manager of the authority.
 
-<center>Back to Top</center>
+                    <a name="industri-export-control-bodi"></a>**_industry export control body_** means the body for the time being declared to be the industry export control body under the _Horticulture Marketing and Research and Development Services Act 2000_.
 
-**
+                    <a name="industri-servic-bodi"></a>**_industry services body_** means the body for the time being declared to be the industry services body under the _Horticulture Marketing and Research and Development Services Act 2000_.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 10  Repeal of Division 
-**
+                    <a name="law"></a>**_law_** means:
 
- <dl compact="">
+                     (a)  a law of the Commonwealth or of a State or Territory; or
 
-		This Division is repealed at the time the _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ are repealed.
+                     (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
 
- </dl>
+                    <a name="liabil"></a>**_liabilities_** means all liabilities, duties and obligations, whether actual, contingent or prospective.
 
-<center>**
+                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_, as in force immediately before the transfer day.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;2&#151;Transfer day </division> 
-**</center>
+                    <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_, as in force immediately before the transfer day.
 
-**
+                    <a name="post-commenc-long-servic-leav-right"></a>**_post-commencement long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires on or after the transfer day under an award, determination, industrial agreement or law (other than this Act).
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 11  Simplified outline 
-**
+                    <a name="previou-employ"></a>**_previous employer_**,in relation to a transferred employee, means the statutory authority that employed the employee immediately before the transfer day.
 
- <dl compact="">
+                    <a name="src-act"></a>**_SRC Act_** means the _Safety, Rehabilitation and Compensation Act 1988_, as in force immediately before the transfer day.
 
-		The following is a simplified outline of this Division:
+                    <a name="statutori-author"></a>**_statutory authority_** means:
 
- </dl>
+                     (a)  the Australian Horticultural Corporation; or
 
-This Division provides for the Minister to determine the transfer day. 
+                     (b)  the Horticultural Research and Development Corporation; or
 
-**
+                     (c)  the Australian Dried Fruits Board.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 12  Minister must determine transfer day 
-**
+                    <a name="transfer-dai"></a>**_transfer day_** means the day specified by the Minister as the transfer day in a determination under section 12.
 
- <dl compact="">
+                    <a name="transfer-employe"></a>**_transferred employee_** means a person whose employment is transferred under section 24.
 
-<dt>(1)</dt><dd>The Minister must determine, in writing, that a specified day is the
+                    <a name="transition-period"></a>**_transitional period_** means the period of 24 months beginning on the transfer day.
 
-_transfer day_ for the purposes of this Act.</dd> <dt>(2)</dt><dd>The day: </dd> </dl>
+             (2)  Expressions used in this Act that are defined in the _Horticulture Marketing and Research and Development Services Act 2000_ have the same meanings as they have in that Act.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (3)  Expressions used in Subdivision F of Division 4 of Part 2 that are defined in the Long Service Leave Act have the same meanings as they have in that Act.
 
-<dt>(a)</dt><dd>must not be a day before both of the following declarations have taken
+##### <a id="5"></a>5  Crown to be bound
 
-effect under section&#160;9 of the _Horticulture Marketing and Research and Development Services Act 2000_:
+                   This Act binds the Crown in each of its capacities.
 
-</dd>
+##### <a id="6"></a>6  Extra-territorial operation
 
-</dl></dl></dl>
+                   This Act applies both within and outside   Australia.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+##### <a id="7"></a>7  Schedule(s)
 
-<dt>(i)</dt><dd>the first declaration of the industry services body;</dd>
+                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
-<dt>(ii)</dt><dd>the first declaration of the industry export control body; and
+## Part 2—Transitional provisions
 
-</dd>
+### Division 1—Statutory authorities’ role in transition
 
-</dl></dl></dl></dl>
+##### <a id="8"></a>8  Simplified outline
 
-<dl compact=""><dl compact=""><dl compact="">
+                   The following is a simplified outline of this Division:
 
-<dt>(b)</dt><dd>must be a day within the period of 6 months after the commencement of this
+* * *
 
-section.
+This Division sets out the role of the Australian Horticultural Corporation, the Horticultural Research and Development Corporation and the Australian Dried Fruits Board in the transition to the new industry bodies.
 
-</dd>
+* * *
 
-</dl></dl></dl>
+##### <a id="9"></a>9  Functions of statutory authorities
 
-<dl compact="">
+             (1)  It is a function of each statutory authority to plan, facilitate and participate in:
 
-<dt>(3)</dt><dd>The determination has effect accordingly.</dd> <dt>(4)</dt><dd>A copy of the determination is to be published in the _Gazette_ within 14 days after the determination is made.</dd> <dt>(5)</dt><dd>The determination can be varied or revoked by the Minister in the same manner in which it was made, but it cannot be varied or revoked on or after the day specified in the determination as the transfer day.</dd> <dt>(6)</dt><dd>The determination is not invalid merely because it has not been published as required under subsection&#160;(4). </dd> </dl>
+                     (a)  its abolition under this Act; and
 
-**
+                     (b)  the establishment of the first industry services body and the first industry export control body under the _Horticulture Marketing and Research and Development Services Act 2000_; and
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 13  Time of transfers 
-**
+                     (c)  the implementation of this Act.
 
- <dl compact="">
+             (2)  Each statutory authority also has the function of providing funds to another person or body (including the Commonwealth) to meet, or reimburse the person or body for, expenses or liabilities it incurs in participating in processes of the kind mentioned in subsection (1).
 
-		Any transfer occurring under this Part is taken to occur immediately after
+             (3)  A statutory authority must comply with any written directions from the Minister about the performance of its functions under subsection (1) or (2).
 
-the end of the day before the transfer day.
+##### <a id="10"></a>10  Repeal of Division
 
- </dl>
+                   This Division is repealed at the time the _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ are repealed.
 
-<center>**
+### Division 2—Transfer day
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;3&#151;Transfer of assets and liabilities etc. </division> 
-**</center>
+##### <a id="11"></a>11  Simplified outline
 
-**
+                   The following is a simplified outline of this Division:
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 14  Simplified outline 
-**
+* * *
 
- <dl compact="">
+This Division provides for the Minister to determine the transfer day.
 
-		The following is a simplified outline of this Division:
+* * *
 
- </dl>
+##### <a id="12"></a>12  Minister must determine transfer day
+
+             (1)  The Minister must determine, in writing, that a specified day is the **_transfer day_** for the purposes of this Act.
+
+             (2)  The day:
+
+                     (a)  must not be a day before both of the following declarations have taken effect under section 9 of the _Horticulture Marketing and Research and Development Services Act 2000_:
+
+                              (i)  the first declaration of the industry services body;
+
+                             (ii)  the first declaration of the industry export control body; and
+
+                     (b)  must be a day within the period of 6 months after the commencement of this section.
+
+             (3)  The determination has effect accordingly.
+
+             (4)  A copy of the determination is to be published in the _Gazette_ within 14 days after the determination is made.
+
+             (5)  The determination can be varied or revoked by the Minister in the same manner in which it was made, but it cannot be varied or revoked on or after the day specified in the determination as the transfer day.
+
+             (6)  The determination is not invalid merely because it has not been published as required under subsection (4).
+
+##### <a id="13"></a>13  Time of transfers
+
+                   Any transfer occurring under this Part is taken to occur immediately after the end of the day before the transfer day.
+
+### Division 3—Transfer of assets and liabilities etc.
+
+##### <a id="14"></a>14  Simplified outline
+
+                   The following is a simplified outline of this Division:
+
+* * *
 
 On the transfer day, the assets and liabilities of the 3 statutory authorities vest in the new industry services body.
- Special provision is made for the transfer of certain money of the Australian Dried Fruits Board (see section&#160;17).
- Transfers are not subject to taxation (see section&#160;19).
- Other transitional matters (such as the transfer of records, outstanding money and legal proceedings) are also dealt with. 
 
-<center>Back to Top</center>
+Special provision is made for the transfer of certain money of the Australian Dried Fruits Board (see section 17).
 
-**
+Transfers are not subject to taxation (see section 19).
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 15  Transfers subject to conditions 
-**
+Other transitional matters (such as the transfer of records, outstanding money and legal proceedings) are also dealt with.
 
- <dl compact="">
+* * *
 
-		The deed of agreement may contain conditions relating to an asset or
+##### <a id="15"></a>15  Transfers subject to conditions
 
-liability, or a class of assets or liabilities, transferred to the industry
+                   The deed of agreement may contain conditions relating to an asset or liability, or a class of assets or liabilities, transferred to the industry services body under this Act.
 
-services body under this Act.
+Note:          The _Horticulture Marketing and Research and Development Services Act 2000_ and the of deed of agreement provide for the consequences of a breach of the deed by the industry services body (see sections 10, 16 and 27 of that Act, and the provisions of the deed).
 
- </dl>
+##### <a id="16"></a>16  Transfer of assets and liabilities
 
-<dl compact=""><dl compact="">
+             (1)  This section applies to:
 
-Note:	The _Horticulture Marketing and Research and Development Services Act 2000_ and the of deed of agreement provide for the consequences
+                     (a)  the assets of a statutory authority (other than the ADF Trust Amount); and
 
-of a breach of the deed by the industry services body (see sections&#160;10, 16
+                     (b)  the liabilities of a statutory authority (other than a liability referred to in section 28).
 
-and 27 of that Act, and the provisions of the deed).
+Note:          The transfer of the ADF Trust Amount is dealt with in section 17.
 
- </dl></dl>
+             (3)  On the transfer day:
 
-**
+                     (a)  the assets and liabilities cease to be assets and liabilities of the authority and become assets and liabilities of the industry services body without any conveyance, transfer or assignment; and
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 16  Transfer of assets and liabilities 
-**
+                     (b)  the industry services body becomes the statutory authority’s successor in law in relation to the assets and liabilities immediately after they become assets and liabilities of the industry services body.
 
- <dl compact="">
+Note:          See also sections 18 and 21.
 
-<dt>(1)</dt><dd>This section applies to:
+##### <a id="17"></a>17  ADF Trust Amount
 
-</dd> </dl>
+             (1)  The Minister may determine, in writing, that:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  a particular amount of money of the Australian Dried Fruits Board is the **_ADF Trust Amount_** for the purposes of this section; and
 
-<dt>(a)</dt><dd>the assets of a statutory authority (other than the ADF Trust Amount);
+                     (b)  a particular trust is the **_Dried Fruits Trust_** for the purposes of this section.
 
-and</dd>
+             (2)  If the Minister has made a determination under subsection (1) before the transfer day, the ADF Trust Amount vests in the trustees on the transfer day and is held on trust by the trustees for the purposes of the Dried Fruits Trust.
 
-<dt>(b)</dt><dd>the liabilities of a statutory authority (other than a liability referred
+             (3)  If the ADF Trust Amount is transferred under subsection (2), it vests in the trustees without any conveyance, transfer or assignment.
 
-to in section&#160;28).
+             (4)  A copy of the determination is to be published in the _Gazette_ within 14 days after the determination is made.
 
-</dd>
+             (5)  The determination is not invalid merely because it has not been published as required under subsection (4).
 
-</dl></dl></dl>
+##### <a id="18"></a>18  Transfer of pending proceedings
 
-<dl compact=""><dl compact="">
+             (1)  This section applies if, as a result of a transfer under this Act, a person (the **_successor_**) becomes the successor in law of another person (the **_original person_**) at a particular time in relation to a particular asset, liability, right, benefit or obligation.
 
-Note:	The transfer of the ADF Trust Amount is dealt with in
+             (2)  If any proceedings to which the original person was a party:
 
-section&#160;17.
+                     (a)  were pending in any court or tribunal immediately before that time; and
 
- </dl></dl>
+                     (b)  related, in whole or in part, to the asset, liability, right, benefit or obligation, as the case may be;
 
-<dl compact="">
+the successor is, by force of this subsection, substituted for the original person as a party to the proceedings to the extent to which the proceedings relate to the asset, liability, right, benefit or obligation, as the case requires.
 
-<dt>(3)</dt><dd>On the transfer day:
+##### <a id="19"></a>19  Exemption from taxation
 
-</dd> </dl>
+                   Stamp duty or other tax is not payable under a law of a State or Territory in respect of:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  a transfer of an asset or liability of a statutory authority under this Act; or
 
-<dt>(a)</dt><dd>the assets and liabilities cease to be assets and liabilities of the
+                     (b)  anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, such a transfer.
 
-authority and become assets and liabilities of the industry services body
+##### <a id="19A"></a>19A  Operation of GST Law
 
-without any conveyance, transfer or assignment; and</dd>
+             (1)  For the purposes of the GST Law, a transfer to a person or body under section 16 or 17 of this Act is taken to be consideration provided by the Commonwealth to that person or body for:
 
-<dt>(b)</dt><dd>the industry services body becomes the statutory authority's successor in
+                     (a)  in the case of a transfer under section 16—entering into obligations under the deed of agreement by the industry services body; and
 
-law in relation to the assets and liabilities immediately after they become
+                     (b)  in the case of a transfer under section 17—entering into obligations under the deed of trust establishing the Dried Fruits Trust by the trustees of that Trust.
 
-assets and liabilities of the industry services body.
+             (2)  Expressions used in this section have the same meanings as they have in the _A New Tax System (Goods and Services Tax) Act 1999_.
 
-</dd>
+##### <a id="20"></a>20  References in certain instruments
 
-</dl></dl></dl>
+             (1)  An instrument to which subsection (2) applies continues to have effect on and after the transfer day as if a reference in the instrument to the statutory authority were a reference to the industry services body.
 
-<dl compact=""><dl compact="">
+             (2)  This subsection applies to an instrument if it is:
 
-Note:	See also sections&#160;18 and 21.
+                     (a)  in operation immediately before the transfer day; and
 
- </dl></dl>
+                     (b)  is an instrument:
 
-**
+                              (i)  to which a statutory authority is a party; or
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 17  ADF Trust Amount 
-**
+                             (ii)  which was given to, or in favour of, a statutory authority; or
 
- <dl compact="">
+                            (iii)  in which a reference is made to a statutory authority; or
 
-<dt>(1)</dt><dd>The Minister may determine, in writing, that:
+                            (iv)  under which any right or liability accrues or may accrue to a statutory authority.
 
-</dd> </dl>
+##### <a id="21"></a>21  Certificates in relation to assets
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  This section applies if:
 
-<dt>(a)</dt><dd>a particular amount of money of the Australian Dried Fruits Board is the
+                     (a)  an asset (other than money) becomes an asset of the industry services body under this Division; and
 
-_ADF Trust Amount_ for the purposes of this section; and</dd>
+                     (b)  there is lodged with an assets official a certificate that:
 
-<dt>(b)</dt><dd>a particular trust is the _Dried Fruits Trust_ for the
+                              (i)  is signed by the Secretary; and
 
-purposes of this section.
+                             (ii)  identifies the asset; and
 
-</dd>
+                            (iii)  states that the asset has become an asset of the body under this Division.
 
-</dl></dl></dl>
+Note:          For the meaning of **_assets official_**, see section 4.
 
-<dl compact="">
+             (2)  The assets official may:
 
-<dt>(2)</dt><dd>If the Minister has made a determination under subsection&#160;(1) before
+                     (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
 
-the transfer day, the ADF Trust Amount vests in the trustees on the transfer
+                     (b)  make such entries in the register as are necessary, having regard to the effect of this Division.
 
-day and is held on trust by the trustees for the purposes of the Dried Fruits
+             (3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
 
-Trust.</dd> <dt>(3)</dt><dd>If the ADF Trust Amount is transferred under subsection&#160;(2), it vests in the trustees without any conveyance, transfer or assignment.</dd> <dt>(4)</dt><dd>A copy of the determination is to be published in the _Gazette_ within 14 days after the determination is made.</dd> <dt>(5)</dt><dd>The determination is not invalid merely because it has not been published as required under subsection&#160;(4). </dd> </dl>
+### Division 4—Transfer of staff
 
-**
+#### Subdivision A—Preliminary
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 18  Transfer of pending proceedings 
-**
+##### <a id="23"></a>23  Simplified outline
 
- <dl compact="">
+                   The following is a simplified outline of this Division:
 
-<dt>(1)</dt><dd>This section applies if, as a result of a transfer under this Act, a
+* * *
 
-person (the _successor_) becomes the successor in law of another
+On the transfer day, the staff of the 3 statutory authorities are transferred to the new industry services body on the same terms and conditions, and with the same accrued entitlements, that they had before the transfer (see section 25).
 
-person (the _original person_) at a particular time in relation to
+The terms and conditions on which the staff are transferred can be varied after the transfer (see section 26).
 
-a particular asset, liability, right, benefit or obligation.</dd> <dt>(2)</dt><dd>If any proceedings to which the original person was a party: </dd> </dl>
+Other provisions deal with the application of certain Commonwealth Acts (such as superannuation Acts and the Maternity Leave Act).
 
-<center>Back to Top</center>
+* * *
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="24"></a>24  Transfer of staff
 
-<dt>(a)</dt><dd>were pending in any court or tribunal immediately before that time; and</dd>
+                   On the transfer day, each employee of a statutory authority ceases to be employed by the statutory authority and is taken to have been engaged as an employee of the industry services body immediately after that cessation.
 
-<dt>(b)</dt><dd>related, in whole or in part, to the asset, liability, right, benefit or
+##### <a id="25"></a>25  Terms and conditions of transferred employees
 
-obligation, as the case may be;
+             (1)  A transferred employee is taken:
 
-</dd>
+                     (a)  to have been engaged by the industry services body on the same terms and conditions as those that applied to the person, immediately before the transfer day, as an employee of the previous employer; and
 
-</dl></dl></dl>
+                     (b)  to have accrued an entitlement to benefits, in connection with that engagement by the industry services body, that is equivalent to the entitlement that the person had accrued, as an employee of the previous employer, immediately before the employee’s transfer time.
 
-the successor is, by force of this subsection, substituted for the original person as a party to the proceedings to the extent to which the proceedings relate to the asset, liability, right, benefit or obligation, as the case requires. 
+Note:          For **_previous employer_**, see section 4.
 
-**
+(2)The service of a transferred employee as an employee of the industry services body is taken, for all purposes, to have been continuous with the service of the employee, immediately before the transfer day, as an employee of the previous employer.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 19  Exemption from taxation 
-**
+(3)A transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the previous employer as a result of this Division.
 
- <dl compact="">
+             (4)  This section:
 
-		Stamp duty or other tax is not payable under a law of a State or Territory in
+                     (a)  has effect subject to this Division; and
 
-respect of:
+                     (b)  is not to be taken to be a law of the Commonwealth for the purposes of paragraph 170XA(2)(b) of the _Workplace Relations Act 1996_, as in force immediately before the reform commencement within the meaning given by that Act.
 
- </dl>
+##### <a id="26"></a>26  Variation of terms and conditions of employment
 
-<dl compact=""><dl compact=""><dl compact="">
+             (1)  This Division does not prevent the terms and conditions of a transferred employee’s employment after the transfer day from being varied:
 
-<dt>(a)</dt><dd>a transfer of an asset or liability of a statutory authority under this
+                     (a)  in accordance with those terms and conditions; or
 
-Act; or</dd>
+                     (b)  by or under a law, award, determination or agreement.
 
-<dt>(b)</dt><dd>anything done (including a transaction entered into or an instrument or
+(2)In this section:
 
-document made, executed, lodged or given) because of, or for a purpose
+                    <a name="vari"></a>**_vary_**, in relation to terms and conditions, includes:
 
-connected with or arising out of, such a transfer.
+                     (a)  omitting any of those terms and conditions; or
 
-</dd>
+                     (b)  adding to those terms and conditions; or
 
-</dl></dl></dl>
+                     (c)  substituting new terms or conditions for any of those terms and conditions.
 
-**
+#### Subdivision B—Application of the Safety, Rehabilitation and Compensation Act
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 19A  Operation of GST Law 
-**
+##### <a id="27"></a>27  Continued application of SRC Act
 
- <dl compact="">
+                   The SRC Act continues to apply on and after the transfer day in relation to:
 
-<dt>(1)</dt><dd>For the purposes of the GST Law, a transfer to a person or body under
+                     (a)  injuries suffered before that time by an employee of a statutory authority; and
 
-section&#160;16 or 17 of this Act is taken to be consideration provided by the
+                     (b)  loss of, or damage to, property incurred before that time by an employee of a statutory authority.
 
-Commonwealth to that person or body for:
+##### <a id="28"></a>28  Commonwealth liability to meet certain SRC Act liabilities
 
-</dd> </dl>
+                   On and after the transfer day, the Commonwealth:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  is liable to pay the liabilities of the statutory authorities under section 128A of the SRC Act; and
 
-<dt>(a)</dt><dd>in the case of a transfer under section&#160;16&#151;entering into obligations
+                     (b)  subject to section 29, is taken to have been the employer of the employees of the statutory authorities before the transfer day for the purposes of the application of the SRC Act in relation to those liabilities.
 
-under the deed of agreement by the industry services body; and</dd>
+##### <a id="29"></a>29  SRC Act: rehabilitation provisions
 
-<dt>(b)</dt><dd>in the case of a transfer under section&#160;17&#151;entering into obligations
+             (1)  If a transferred employee had, before the transfer day, suffered an injury resulting in an incapacity for work or an impairment, the employee’s employer must, after that time, provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the SRC Act in relation to the transferred employee.
 
-under the deed of trust establishing the Dried Fruits Trust by the trustees of
+             (2)  On and after the transfer day, the industry services body is, for the purposes of section 40 of the SRC Act, taken to be the relevant employer of each transferred employee employed by the industry services body.
 
-that Trust.
+             (3)  On and after the transfer day, the industry services body is, for the purposes of applying section 71 of the SRC Act in relation to each transferred employee, taken to be a Commonwealth authority.
 
-</dd>
+             (4)  Expressions used in this section have the same meanings as they have in the SRC Act.
 
-</dl></dl></dl>
+##### <a id="30"></a>30  Premiums under the SRC Act
 
-<dl compact="">
+             (1)  The Safety, Rehabilitation and Compensation Commission must, as soon as practicable after the transfer day, determine the amount (if any) by which the confirmed estimate of premium for each statutory authority for the relevant financial year should be reduced.
 
-<dt>(2)</dt><dd>Expressions used in this section have the same meanings as they have in
+             (2)  If:
 
-the _A New Tax System (Goods and Services Tax) Act 1999_.
+                     (a)  an amount equal to the confirmed estimate of premium for a statutory authority for the relevant financial year has been paid to the Commonwealth under section 96G of the SRC Act; and
 
-</dd> </dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 20  References in certain instruments 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>An instrument to which subsection&#160;(2) applies continues to have
-
-effect on and after the transfer day as if a reference in the instrument to the
-
-statutory authority were a reference to the industry services body.</dd> <dt>(2)</dt><dd>This subsection applies to an instrument if it is: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in operation immediately before the transfer day; and</dd>
-
-<dt>(b)</dt><dd>is an instrument:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>to which a statutory authority is a party; or</dd>
-
-<dt>(ii)</dt><dd>which was given to, or in favour of, a statutory authority; or</dd>
-
-<dt>(iii)</dt><dd>in which a reference is made to a statutory authority; or</dd>
-
-<dt>(iv)</dt><dd>under which any right or liability accrues or may accrue to a statutory
-
-authority.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 21  Certificates in relation to assets 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>This section applies if:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an asset (other than money) becomes an asset of the industry services body
-
-under this Division; and</dd>
-
-<dt>(b)</dt><dd>there is lodged with an assets official a certificate that:
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>is signed by the Secretary; and</dd>
-
-<dt>(ii)</dt><dd>identifies the asset; and</dd>
-
-<dt>(iii)</dt><dd>states that the asset has become an asset of the body under this
-
-Division.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For the meaning of _assets official_, see
-
-section&#160;4.
-
- </dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The assets official may:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>deal with, and give effect to, the certificate as if it were a proper and
-
-appropriate instrument for transactions in relation to assets of that kind;
-
-and</dd>
-
-<dt>(b)</dt><dd>make such entries in the register as are necessary, having regard to the
-
-effect of this Division.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>A document that appears to be a certificate under subsection&#160;(1) is
-
-taken to be such a certificate, and to have been properly given, unless the
-
-contrary is established.
-
-</dd> </dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 22  Saving: levies and charges 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Amounts equal to the following are to be paid to the industry services
-
-body:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>amounts of levy or charge that are received by the Commonwealth, but not
-
-paid out of the Consolidated Revenue Fund under the _Australian Horticultural Corporation Act 1987_ or the _Horticultural Research and Development Corporation Act 1987_, before the transfer day;</dd>
-
-<dt>(b)</dt><dd>amounts that are payable to the Horticultural Research and Development
-
-Corporation under section&#160;46 of the _Horticultural Research and Development Corporation Act 1987_, but not paid out of the Consolidated
-
-Revenue Fund under that Act, before the transfer day;</dd>
-
-<dt>(c)</dt><dd>amounts that:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>are payable to the Australian Horticultural Corporation or the Australian
-
-Dried Fruits Board by virtue of section&#160;47 or 115Q of the _Australian Horticultural Corporation Act 1987_, or to the Horticultural Research and
-
-Development Corporation by virtue of section&#160;45 of the _Horticultural Research and Development Corporation Act 1987_; and</dd>
-
-<dt>(ii)</dt><dd>are not covered by paragraph&#160;(a); and</dd>
-
-<dt>(iii)</dt><dd>are not paid out of the Consolidated Revenue Fund under that Act before
-
-the transfer day.
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Amounts payable under this section are to be paid out of the Consolidated
-
-Revenue Fund, which is appropriated accordingly.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_charge_ means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>charge imposed by subclause 2(1) of Schedule&#160;10 to the _Primary Industries (Customs) Charges Act 1999_ at a rate set under subclause 3(3),
-
-3(4) or 3(5) of that Schedule; and</dd>
-
-<dt>(b)</dt><dd>amounts a person is liable to pay under subsection 7(3) of the _Primary Industries Levies and Charges Collection Act 1991_; and</dd>
-
-<dt>(c)</dt><dd>amounts payable by way of penalty under section&#160;15 of the _Primary Industries Levies and Charges Collection Act 1991_ in relation to charge
-
-referred to in paragraph&#160;(a) and amounts referred to in paragraph&#160;(b).
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<def><dl compact=""><dl compact="">
-
-_levy_ means:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>levy imposed under subclause 2(1) of Schedule&#160;15 to the _Primary Industries (Excise) Levies Act 1999_ at a rate set under subclause 4(1),
-
-4(2) or 4(3) of that Schedule; and</dd>
-
-<dt>(b)</dt><dd>amounts a person is liable to pay under subsection 7(1) or (2) of the
-
-_Primary Industries Levies and Charges Collection Act 1991_; and</dd>
-
-<dt>(c)</dt><dd>amounts payable by way of penalty under section&#160;15 of the _Primary Industries Levies and Charges Collection Act 1991_ in relation to levy
-
-referred to in paragraph&#160;(a) and amounts referred to in paragraph&#160;(b).
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;4&#151;Transfer of staff </division> 
-**</center>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision A&#151;Preliminary </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 23  Simplified outline 
-**
-
- <dl compact="">
-
-		The following is a simplified outline of this Division:
-
- </dl>
-
-On the transfer day, the staff of the 3 statutory authorities are transferred to the new industry services body on the same terms and conditions, and with the same accrued entitlements, that they had before the transfer (see section&#160;25).
- The terms and conditions on which the staff are transferred can be varied after the transfer (see section&#160;26).
- Other provisions deal with the application of certain Commonwealth Acts (such as superannuation Acts and the Maternity Leave Act). 
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 24  Transfer of staff 
-**
-
- <dl compact="">
-
-		On the transfer day, each employee of a statutory authority ceases to be
-
-employed by the statutory authority and is taken to have been engaged as an
-
-employee of the industry services body immediately after that cessation.
-
- </dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 25  Terms and conditions of transferred employees 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>A transferred employee is taken:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to have been engaged by the industry services body on the same terms and
-
-conditions as those that applied to the person, immediately before the transfer
-
-day, as an employee of the previous employer; and</dd>
-
-<dt>(b)</dt><dd>to have accrued an entitlement to benefits, in connection with that
-
-engagement by the industry services body, that is equivalent to the entitlement
-
-that the person had accrued, as an employee of the previous employer,
-
-immediately before the employee's transfer time.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For _previous employer_, see section&#160;4.
-
- </dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The service of a transferred employee as an employee of the
-
-industry services body is taken, for all purposes, to have been continuous with
-
-the service of the employee, immediately before the transfer day, as an
-
-employee of the previous employer.</dd> <dt>(3)</dt><dd>A transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the previous employer as a result of this Division.</dd> <dt>(4)</dt><dd>This section: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>has effect subject to this Division; and</dd>
-
-<dt>(b)</dt><dd>is not to be taken to be a law of the Commonwealth for the purposes of
-
-paragraph 170XA(2)(b) of the _Workplace Relations Act 1996_.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 26  Variation of terms and conditions of employment 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>This Division does not prevent the terms and conditions of a transferred
-
-employee's employment after the transfer day from being varied:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in accordance with those terms and conditions; or</dd>
-
-<dt>(b)</dt><dd>by or under a law, award, determination or agreement.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In this section:
-
-</dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_vary_, in relation to terms and conditions, includes:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>omitting any of those terms and conditions; or</dd>
-
-<dt>(b)</dt><dd>adding to those terms and conditions; or</dd>
-
-<dt>(c)</dt><dd>substituting new terms or conditions for any of those terms and conditions.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision B&#151;Application of the Safety, Rehabilitation and Compensation Act </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 27  Continued application of SRC Act 
-**
-
- <dl compact="">
-
-		The SRC Act continues to apply on and after the transfer day in relation to:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>injuries suffered before that time by an employee of a statutory
-
-authority; and</dd>
-
-<dt>(b)</dt><dd>loss of, or damage to, property incurred before that time by an employee
-
-of a statutory authority.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 28  Commonwealth liability to meet certain SRC Act liabilities 
-**
-
-<dl compact="">
-
-		On and after the transfer day, the Commonwealth:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>is liable to pay the liabilities of the statutory authorities under
-
-section&#160;128A of the SRC Act; and</dd>
-
-<dt>(b)</dt><dd>subject to section&#160;29, is taken to have been the employer of the
-
-employees of the statutory authorities before the transfer day for the purposes
-
-of the application of the SRC Act in relation to those liabilities.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 29  SRC Act: rehabilitation provisions 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If a transferred employee had, before the transfer day, suffered an injury
-
-resulting in an incapacity for work or an impairment, the employee's employer
-
-must, after that time, provide such reasonable co-operation and assistance as
-
-the Commonwealth requires to enable the Commonwealth to fulfil its obligations
-
-under sections&#160;36, 37, 38, 39, 41 and 41A of the SRC Act in relation to
-
-the transferred employee.</dd> <dt>(2)</dt><dd>On and after the transfer day, the industry services body is, for the purposes of section&#160;40 of the SRC Act, taken to be the relevant employer of each transferred employee employed by the industry services body.</dd> <dt>(3)</dt><dd>On and after the transfer day, the industry services body is, for the purposes of applying section&#160;71 of the SRC Act in relation to each transferred employee, taken to be a Commonwealth authority.</dd> <dt>(4)</dt><dd>Expressions used in this section have the same meanings as they have in the SRC Act. </dd> </dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 30  Premiums under the SRC Act 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Safety, Rehabilitation and Compensation Commission must, as soon as
-
-practicable after the transfer day, determine the amount (if any) by which the
-
-confirmed estimate of premium for each statutory authority for the relevant
-
-financial year should be reduced.</dd> <dt>(2)</dt><dd>If: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>an amount equal to the confirmed estimate of premium for a statutory
-
-authority for the relevant financial year has been paid to the Commonwealth
-
-under section&#160;96G of the SRC Act; and</dd>
-
-<dt>(b)</dt><dd>the amount of the confirmed estimate of premium is reduced as a result of
-
-a determination under subsection&#160;(1);
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the amount of the confirmed estimate of premium is reduced as a result of a determination under subsection (1);
 
 the Secretary may, in writing, direct that an amount equal to the refund amount, or amounts that together add up to the refund amount, be paid to the industry services body in accordance with the direction.
 
-<dl compact="">
+             (3)  A direction by the Secretary may be given subject to such conditions (if any) about the use or expenditure of the amount or amounts to which it relates as are set out in the direction.
 
-<dt>(3)</dt><dd>A direction by the Secretary may be given subject to such conditions (if
+             (4)  If the Secretary gives a direction, the amount or amounts to which it relates are payable out of the Consolidated Revenue Fund, which is appropriated accordingly, to the industry services body.
 
-any) about the use or expenditure of the amount or amounts to which it relates
+             (5)  The payment of an amount under subsection (4) must be made in accordance with the direction, and is subject to the conditions (if any) set out in the direction.
 
-as are set out in the direction.</dd> <dt>(4)</dt><dd>If the Secretary gives a direction, the amount or amounts to which it relates are payable out of the Consolidated Revenue Fund, which is appropriated accordingly, to the industry services body.</dd> <dt>(5)</dt><dd>The payment of an amount under subsection&#160;(4) must be made in accordance with the direction, and is subject to the conditions (if any) set out in the direction.</dd> <dt>(6)</dt><dd>A copy of each direction must be published in the _Gazette_ within 14 days after the direction is given.</dd> <dt>(7)</dt><dd>The direction is not invalid merely because it has not been published as required under subsection&#160;(6).</dd> <dt>(8)</dt><dd>In this section: </dd> </dl>
+             (6)  A copy of each direction must be published in the _Gazette_ within 14 days after the direction is given.
 
-<def><dl compact=""><dl compact="">
+             (7)  The direction is not invalid merely because it has not been published as required under subsection (6).
 
-_refund amount_ means the amount equal to the difference between
+             (8)  In this section:
 
-the amount of confirmed estimate of premium for a statutory authority for the
+                    <a name="refund-amount"></a>**_refund amount_** means the amount equal to the difference between the amount of confirmed estimate of premium for a statutory authority for the relevant financial year and the amount of that confirmed estimate as reduced because of a determination under subsection (1).
 
-relevant financial year and the amount of that confirmed estimate as reduced
+                    <a name="relev-financi-year"></a>**_relevant financial year_** means the financial year in which the transfer day occurs.
 
-because of a determination under subsection&#160;(1). _relevant financial year_ means the financial year in which the transfer day occurs.  </dl></dl>
+             (9)  Expressions used in this section have the same meanings as they have in the SRC Act.
 
-<dl compact="">
+#### Subdivision C—Deferred Defence Force Retirement and Death Benefits Act benefits
 
-<dt>(9)</dt><dd>Expressions used in this section have the same meanings as they have in
+##### <a id="31"></a>31  Saving: deferred benefits under the DFRDB Act
 
-the SRC Act.
+             (1)  This section applies to a transferred employee of the industry services body if, immediately before the transfer day, the employee was a person to whom deferred benefits were applicable under section 78 of the DFRDB Act.
 
-</dd> </dl>
+             (2)  For the purposes of Division 3 of Part IX of the DFRDB Act, the employee is taken to continue in public employment on and after the transfer day while the employee continues to be employed by the industry services body.
 
-<center>**
+             (3)  This section is subject to Division 3 of Part IX of the DFRDB Act.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision C&#151;Deferred Defence Force Retirement and Death Benefits Act benefits </division> 
-**</center>
+#### Subdivision D—Maternity leave provisions
 
-**
+##### <a id="32"></a>32  Maternity leave starting before transfer day
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 31  Saving: deferred benefits under the DFRDB Act 
-**
+             (1)  This section applies in relation to a person if:
 
- <dl compact="">
+                     (a)  immediately before the transfer day, the person was a female employee of a statutory authority who was on leave granted under the Maternity Leave Act; and
 
-<dt>(1)</dt><dd>This section applies to a transferred employee of the industry services
+                     (b)  the person becomes an employee of the industry services body on the transfer day; and
 
-body if, immediately before the transfer day, the employee was a person to whom
+                     (c)  the person would have been entitled to have remained on that leave on and after the transfer day if the person had continued to be an employee of the statutory authority.
 
-deferred benefits were applicable under section&#160;78 of the DFRDB Act.</dd> <dt>(2)</dt><dd>For the purposes of Division&#160;3 of Part&#160;IX of the DFRDB Act, the employee is taken to continue in public employment on and after the transfer day while the employee continues to be employed by the industry services body.</dd> <dt>(3)</dt><dd>This section is subject to Division&#160;3 of Part&#160;IX of the DFRDB Act. </dd> </dl>
+             (2)  On and after the transfer day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which the leave was granted as if the industry services body were a prescribed authority for the purposes of that Act.
 
-<center>**
+##### <a id="33"></a>33  Maternity leave starting after transfer day
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision D&#151;Maternity leave provisions </division> 
-**</center>
+             (1)  This section applies in relation to a person if:
 
-**
+                     (a)  immediately before the transfer day, the person was a female employee of a statutory authority; and
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 32  Maternity leave starting before transfer day 
-**
+                     (b)  the person becomes an employee of the industry services body on the transfer day; and
 
- <dl compact="">
+                     (c)  within 9 months after the transfer day, the person would have been entitled to start leave granted under the Maternity Leave Act if the person had continued to be an employee of the statutory authority.
 
-<dt>(1)</dt><dd>This section applies in relation to a person if:
+             (2)  On and after the transfer day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which she would have been entitled to leave as if the industry services body were a prescribed authority for the purposes of that Act.
 
-</dd> </dl>
+#### Subdivision E—Provisions relating to superannuation
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="34"></a>34  Application of the _Superannuation Act 1922_
 
-<dt>(a)</dt><dd>immediately before the transfer day, the person was a female employee of a
+                   Section 145 of the _Superannuation Act 1922_ does not apply in relation to the industry services body.
 
-statutory authority who was on leave granted under the Maternity Leave Act;
+##### <a id="35"></a>35  Application of other Superannuation Acts
 
-and</dd>
+                   The industry services body is not an approved authority for the purposes of the _Superannuation Act 1976_ or the _Superannuation Act 1990_.
 
-<dt>(b)</dt><dd>the person becomes an employee of the industry services body on the
+##### <a id="36"></a>36  Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
 
-transfer day; and</dd>
+             (1)  The Minister must not declare the industry services body to be a relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
 
-<dt>(c)</dt><dd>the person would have been entitled to have remained on that leave on and
+             (2)  In this section:
 
-after the transfer day if the person had continued to be an employee of the
+                    <a name="minist"></a>**_Minister_** has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
 
-statutory authority.
+#### Subdivision F—Provisions relating to long service leave
 
-</dd>
+##### <a id="37"></a>37  Long service leave for employees with less than 10 years service
 
-</dl></dl></dl>
+             (1)  This section applies in relation to a person:
 
-<dl compact="">
+                     (a)  who became a transferred employee of the industry services body on the transfer day; and
 
-<dt>(2)</dt><dd>On and after the transfer day, the Maternity Leave Act continues to apply
+                     (b)  whose period of service for the purposes of the Long Service Leave Act immediately before the transfer day was less than 10 years.
 
-to the person in relation to the confinement in respect of which the leave was
+             (2)  This section does not apply in relation to an employee who dies.
 
-granted as if the industry services body were a prescribed authority for the
+             (3)  If the employee continues to be employed by the industry services body until his or her combined service period is at least 10 years, the industry services body may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 40(1).
 
-purposes of that Act.
+             (4)  If:
 
-</dd> </dl>
+                     (a)  the employee stops being an employee of the industry services body on or after reaching the minimum retiring age, or because of retrenchment; and
 
-<center>Back to Top</center>
+                     (b)  the employee’s combined service period at the time when he or she stops being an employee of the industry services body is at least one year;
 
-**
+the industry services body may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 40(1).
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 33  Maternity leave starting after transfer day 
-**
+             (5)  If a period of long service leave may be granted to an employee under subsection (3) or (4), the industry services body may, if the employee asks in writing, grant the employee long service leave on half salary for a period not longer than twice the first-mentioned period.
 
- <dl compact="">
+             (6)  Long service leave granted in the circumstances set out in subsection (4) must be taken so as to end immediately before the employee stops being an employee.
 
-<dt>(1)</dt><dd>This section applies in relation to a person if:
+             (7)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would apply to the employee under section 20 of the Long Service Leave Act if:
 
-</dd> </dl>
+                     (a)  that section applied to the employee; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 37 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_”.
 
-<dt>(a)</dt><dd>immediately before the transfer day, the person was a female employee of a
+##### <a id="38"></a>38  Payments in lieu of long service leave for employees with less than 10 years service
 
-statutory authority; and</dd>
+             (1)  This section applies to a person:
 
-<dt>(b)</dt><dd>the person becomes an employee of the industry services body on the
+                     (a)  who became a transferred employee on the transfer day; and
 
-transfer day; and</dd>
+                     (b)  whose period of service for the purposes of the Long Service Leave Act immediately before the transfer day was less than 10 years.
 
-<dt>(c)</dt><dd>within 9 months after the transfer day, the person would have been
+             (2)  This section does not apply in relation to an employee who dies.
 
-entitled to start leave granted under the Maternity Leave Act if the person had
+             (3)  If the employee stops being an employee of the industry services body on or after the day on which his or her combined service period reaches 10 years, the industry services body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 40(2).
 
-continued to be an employee of the statutory authority.
+             (4)  If:
 
-</dd>
+                     (a)  the employee stops being an employee of the industry services body, on or after reaching the minimum retiring age, or because of retrenchment; and
 
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>On and after the transfer day, the Maternity Leave Act continues to apply
-
-to the person in relation to the confinement in respect of which she would have
-
-been entitled to leave as if the industry services body were a prescribed
-
-authority for the purposes of that Act.
-
-</dd> </dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision E&#151;Provisions relating to superannuation </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 34  Application of the _Superannuation Act 1922_ 
-**
-
- <dl compact="">
-
-		Section&#160;145 of the _Superannuation Act 1922_ does not apply in
-
-relation to the industry services body.
-
- </dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 35  Application of other Superannuation Acts 
-**
-
- <dl compact="">
-
-		The industry services body is not an approved authority for the purposes of
-
-the _Superannuation Act 1976_ or the _Superannuation Act 1990_.
-
- </dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 36  Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>The Minister must not declare the industry services body to be a relevant
-
-body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.</dd> <dt>(2)</dt><dd>In this section: </dd> </dl>
-
-<def><dl compact=""><dl compact="">
-
-_Minister_ has the same meaning as in the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
-
- </dl></dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision F&#151;Provisions relating to long service leave </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 37  Long service leave for employees with less than 10 years service 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>This section applies in relation to a person:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>who became a transferred employee of the industry services body on the
-
-transfer day; and</dd>
-
-<dt>(b)</dt><dd>whose period of service for the purposes of the Long Service Leave Act
-
-immediately before the transfer day was less than 10 years.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>This section does not apply in relation to an employee who dies.</dd> <dt>(3)</dt><dd>If the employee continues to be employed by the industry services body until his or her combined service period is at least 10 years, the industry services body may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subsection 40(1).</dd> <dt>(4)</dt><dd>If: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the employee stops being an employee of the industry services body on or
-
-after reaching the minimum retiring age, or because of retrenchment; and</dd>
-
-<dt>(b)</dt><dd>the employee's combined service period at the time when he or she stops
-
-being an employee of the industry services body is at least one year;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-the industry services body may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subsection 40(1).
-
-<dl compact="">
-
-<dt>(5)</dt><dd>If a period of long service leave may be granted to an employee under
-
-subsection&#160;(3) or (4), the industry services body may, if the employee
-
-asks in writing, grant the employee long service leave on half salary for a
-
-period not longer than twice the first-mentioned period.</dd> <dt>(6)</dt><dd>Long service leave granted in the circumstances set out in subsection&#160;(4) must be taken so as to end immediately before the employee stops being an employee.</dd> <dt>(7)</dt><dd>For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would apply to the employee under section&#160;20 of the Long Service Leave Act if: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that section applied to the employee; and</dd>
-
-<dt>(b)</dt><dd>for the expression "section&#160;16 or 17" in that section there were
-
-substituted the expression "section&#160;37 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_".
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 38  Payments in lieu of long service leave for employees with less than 10 years service 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>This section applies to a person:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>who became a transferred employee on the transfer day; and</dd>
-
-<dt>(b)</dt><dd>whose period of service for the purposes of the Long Service Leave Act
-
-immediately before the transfer day was less than 10 years.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>This section does not apply in relation to an employee who dies.</dd> <dt>(3)</dt><dd>If the employee stops being an employee of the industry services body on or after the day on which his or her combined service period reaches 10 years, the industry services body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 40(2).</dd> <dt>(4)</dt><dd>If: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the employee stops being an employee of the industry services body, on or
-
-after reaching the minimum retiring age, or because of retrenchment; and</dd>
-
-<dt>(b)</dt><dd>at that time the employee's combined service period is at least one year;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  at that time the employee’s combined service period is at least one year;
 
 the industry services body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 40(2).
 
-<dl compact="">
+             (5)  If:
 
-<dt>(5)</dt><dd>If:
+                     (a)  the employee stops being an employee of the industry services body; and
 
-</dd> </dl>
+                     (b)  the industry services body is satisfied that the employee left the industry services body’s employment because of ill-health that justified his or her so leaving; and
 
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the employee stops being an employee of the industry services body; and</dd>
-
-<dt>(b)</dt><dd>the industry services body is satisfied that the employee left the
-
-industry services body's employment because of ill-health that justified his or
-
-her so leaving; and</dd>
-
-<dt>(c)</dt><dd>when the employee left, his or her combined service period was at least
-
-one year;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  when the employee left, his or her combined service period was at least one year;
 
 the industry services body must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 40(2).
 
-<dl compact="">
+             (6)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would apply to the employee under section 21 of the Long Service Leave Act if:
 
-<dt>(6)</dt><dd>For the purposes of this section, the rate of salary to be used in working
+                     (a)  that section applied to the employee; and
 
-out the full salary of an employee is the rate that would apply to the employee
+                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 38 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_”.
 
-under section&#160;21 of the Long Service Leave Act if:
+##### <a id="39"></a>39  Payments on the death of an employee
 
-</dd> </dl>
+             (1)  This section applies to a person who was an employee of a statutory authority immediately before the transfer day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
-<dl compact=""><dl compact=""><dl compact="">
+             (2)  If the person dies on or after the transfer day and immediately before his or her death:
 
-<dt>(a)</dt><dd>that section applied to the employee; and</dd>
+                     (a)  the person was an employee of the industry services body; and
 
-<dt>(b)</dt><dd>for the expression "sections&#160;16 and 17" in that section there were
+                     (b)  the person’s combined service period was at least one year; and
 
-substituted the expression "section&#160;38 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_".
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 39  Payments on the death of an employee 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>This section applies to a person who was an employee of a statutory
-
-authority immediately before the transfer day if, at that time, the employee's
-
-period of service for the purposes of the Long Service Leave Act was less than
-
-10 years.</dd> <dt>(2)</dt><dd>If the person dies on or after the transfer day and immediately before his or her death: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person was an employee of the industry services body; and</dd>
-
-<dt>(b)</dt><dd>the person's combined service period was at least one year; and</dd>
-
-<dt>(c)</dt><dd>the person had one or more dependants;
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the person had one or more dependants;
 
 the industry services body must make a payment to the dependant or dependants.
 
-<dl compact="">
+             (3)  The total amount of the payment or payments is the amount that would have been payable to the person under section 38 if, on the day of his or her death, the person had instead stopped being an employee of the industry services body on or after reaching the minimum retiring age.
 
-<dt>(3)</dt><dd>The total amount of the payment or payments is the amount that would have
+             (4)  If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if:
 
-been payable to the person under section&#160;38 if, on the day of his or her
+                     (a)  that section applied to an employee of the industry services body; and
 
-death, the person had instead stopped being an employee of the industry
+                     (b)  a reference in that section to the approving authority were a reference to the industry services body; and
 
-services body on or after reaching the minimum retiring age.</dd> <dt>(4)</dt><dd>If subsection&#160;(2) applies, section&#160;23 of the Long Service Leave Act has effect as if: </dd> </dl>
+                     (c)  for the expression “this Act” in that section there were substituted the expression “section 39 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_”; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  for the expression “subsection 16(7) or 17(5)” there were substituted the expression “section 39 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_”.
 
-<dt>(a)</dt><dd>that section applied to an employee of the industry services body; and</dd>
+##### <a id="40"></a>40  Employee’s long service leave credit for the purposes of sections 37 and 38
 
-<dt>(b)</dt><dd>a reference in that section to the approving authority were a reference to
+             (1)  For the purposes of section 37, an employee’s long service leave credit is equal to the long service leave credit that the employee would have under the Long Service Leave Act for the period:
 
-the industry services body; and</dd>
+                     (a)  beginning when the employee began his or her period of service; and
 
-<dt>(c)</dt><dd>for the expression "this Act" in that section there were substituted the
-
-expression "section&#160;39 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_";
-
-and</dd>
-
-<dt>(d)</dt><dd>for the expression "subsection 16(7) or 17(5)" there were substituted the
-
-expression "section&#160;39 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_".
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 40  Employee's long service leave credit for the purposes of sections&#160;37 and 38 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>For the purposes of section&#160;37, an employee's long service leave
-
-credit is equal to the long service leave credit that the employee would have
-
-under the Long Service Leave Act for the period:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>beginning when the employee began his or her period of service; and</dd>
-
-<dt>(b)</dt><dd>ending on the transfer day;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  ending on the transfer day;
 
 if the employee had been retrenched on that day.
 
-<dl compact="">
+             (2)  For the purposes of section 38, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) of this section reduced by any long service leave credit used under section 37.
 
-<dt>(2)</dt><dd>For the purposes of section&#160;38, an employee's long service leave
+##### <a id="41"></a>41  Employees with at least 10 years service
 
-credit is the employee's long service leave credit worked out under
+             (1)  This section applies to an employee of a statutory authority whose period of service under the Long Service Leave Act was at least 10 years immediately before the transfer day.
 
-subsection&#160;(1) of this section reduced by any long service leave credit
+             (2)  Even though the employee ceases to be employed in Government Service for the purposes of the Long Service Leave Act, the employee’s accrued rights under that Act continue if the employee becomes an employee of the industry services body on the transfer day. However, the employee is not entitled to receive any payment because he or she ceases to be in Government Service.
 
-used under section&#160;37.
+             (3)  The Long Service Leave Act has effect on and after the transfer day in relation to the employee’s rights under that Act that accrued before the transfer day, as if the industry services body were an approving authority for the purposes of that Act.
 
-</dd> </dl>
+##### <a id="42"></a>42  Division not to affect post-commencement long service leave rights
 
-**
+                   This Division does not affect an employee’s post-commencement long service leave rights.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 41  Employees with at least 10 years service 
-**
+Note:          For the meaning of **_post-commencement long service leave rights_**, see section 4.
 
- <dl compact="">
+#### Subdivision G—Staff with mobility rights
 
-<dt>(1)</dt><dd>This section applies to an employee of a statutory authority whose period
+##### <a id="43"></a>43  Cessation of mobility rights
 
-of service under the Long Service Leave Act was at least 10 years immediately
+                   If a transferred employee had rights under section 6 or 7 of the _Public Employment (Consequential and Transitional) Amendment Act 1999_ immediately before the transfer day, the employee ceases to have those rights, and ceases to be an APS employee, on the transfer day _._
 
-before the transfer day.</dd> <dt>(2)</dt><dd>Even though the employee ceases to be employed in Government Service for the purposes of the Long Service Leave Act, the employee's accrued rights under that Act continue if the employee becomes an employee of the industry services body on the transfer day. However, the employee is not entitled to receive any payment because he or she ceases to be in Government Service.</dd> <dt>(3)</dt><dd>The Long Service Leave Act has effect on and after the transfer day in relation to the employee's rights under that Act that accrued before the transfer day, as if the industry services body were an approving authority for the purposes of that Act. </dd> </dl>
+Note:          For the meaning of **_APS employee_**, see section 4.
 
-<center>Back to Top</center>
+### Division 5—Transitional period for export controls
 
-**
+##### <a id="44"></a>44  Simplified outline
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 42  Division not to affect post-commencement long service leave rights 
-**
+                   The following is a simplified outline of this Division:
 
-<dl compact="">
-
-		This Division does not affect an employee's post-commencement long service
-
-leave rights.
-
- </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For the meaning of _post-commencement long service leave rights_, see section&#160;4.
-
- </dl></dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Subdivision G&#151;Staff with mobility rights </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 43  Cessation of mobility rights 
-**
-
- <dl compact="">
-
-		If a transferred employee had rights under section&#160;6 or 7 of the
-
-_Public Employment (Consequential and Transitional) Amendment Act 1999_
-
-immediately before the transfer day, the employee ceases to have those rights,
-
-and ceases to be an APS employee, on the transfer day _._
-
- </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For the meaning of _APS employee_, see
-
-section&#160;4.
-
- </dl></dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;5&#151;Transitional period for export controls </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 44  Simplified outline 
-**
-
- <dl compact="">
-
-		The following is a simplified outline of this Division:
-
- </dl>
+* * *
 
 The system of export controls in place under the _Australian Horticultural Corporation Act 1987_ is continued after the transfer day for a transitional period (a maximum of 2 years).
- During the transitional period most of the export control powers that the Australian Horticultural Corporation had can be exercised by the new industry export control body. 
 
-**
+During the transitional period most of the export control powers that the Australian Horticultural Corporation had can be exercised by the new industry export control body.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 45  Continuation of export controls despite repeal of AHC Act 
-**
+* * *
 
-<dl compact="">
+##### <a id="45"></a>45  Continuation of export controls despite repeal of AHC Act
 
-<dt>(1)</dt><dd>In spite of the repeal of the _Australian Horticultural Corporation Act 1987_ (the _Act_):
+             (1)  In spite of the repeal of the _Australian Horticultural Corporation Act 1987_ (the **_Act_**):
 
-</dd> </dl>
+                     (a)  Part V of the Act continues in force after the repeal; and
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (b)  regulations, orders and other instruments made under the Act for the purposes of Part V that were in force immediately before the repeal continue in force.
 
-<dt>(a)</dt><dd>Part&#160;V of the Act continues in force after the repeal; and</dd>
+             (2)  Any other provision of the Act that is necessary for the effective operation of Part V of the Act (as continued in force under subsection (1)) also continues in force in spite of the repeal but applies only to the extent that it relates to the operation of Part V.
 
-<dt>(b)</dt><dd>regulations, orders and other instruments made under the Act for the
+             (3)  Without limiting subsection (2), sections 121 and 122 of the Act continue in force to the extent that regulations and orders relating to the operation of Part V (including regulations, or orders, amending or repealing earlier regulations or orders) may be made under them.
 
-purposes of Part&#160;V that were in force immediately before the repeal
+             (4)  Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against Part V of the Act.
 
-continue in force.
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-</dd>
+             (5)  The offences in subsections 118(1) and (2) of the Act are offences of strict liability.
 
-</dl></dl></dl>
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-<dl compact="">
+             (6)  For the purposes of subsection 118(2) of the Act, the defendant bears an evidential burden in relation to the matter of whether the defendant has a reasonable excuse.
 
-<dt>(2)</dt><dd>Any other provision of the Act that is necessary for the effective
+Note:          For evidential burdens, see subsection 13.3(3) of the _Criminal Code_.
 
-operation of Part&#160;V of the Act (as continued in force under
+##### <a id="46"></a>46  References to AHC and Product Board
 
-subsection&#160;(1)) also continues in force in spite of the repeal but applies
+             (1)  During the transitional period, references to powers, duties or functions of the Corporation or of a Board in Part V of the Act or in an instrument in force under Part V are taken to be references to powers, duties or functions of the industry export control body.
 
-only to the extent that it relates to the operation of Part&#160;V.</dd> <dt>(3)</dt><dd>Without limiting subsection&#160;(2), sections&#160;121 and 122 of the Act continue in force to the extent that regulations and orders relating to the operation of Part&#160;V (including regulations, or orders, amending or repealing earlier regulations or orders) may be made under them.</dd> <dt>(4)</dt><dd>Chapter&#160;2 (other than Part&#160;2.5) of the _Criminal Code_ applies to all offences against Part&#160;V of the Act. </dd> </dl>
+Note:          For **_transitional period_** and **_industry export control body_**, see section 4.
 
-<dl compact=""><dl compact="">
+             (2)  However, in spite of subsection (1), the industry export control body does not, during the transitional period, have the power:
 
-Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
+                     (a)  to prohibit the export of a product to a specified place unless the export of the product to that place was prohibited immediately before the transfer day; or
 
-general principles of criminal responsibility.
+                     (b)  to revoke  or vary a prohibition of export to a specified place.
 
- </dl></dl>
+Note:          The power to prohibit the export of a horticultural product to a specified place is given to the Corporation by regulation 5 of the Australian Horticultural Corporation (Export Control) Regulations 1990.
 
-<dl compact="">
+##### <a id="47"></a>47  Phasing out of export controls under Part V of AHC Act
 
-<dt>(5)</dt><dd>The offences in subsections 118(1) and (2) of the Act are offences of
+             (1)  If:
 
-strict liability.
+                     (a)  the export of a horticultural product to a place is prohibited under the Australian Horticultural Corporation (Export Control) Regulations 1990 or the Australian Horticultural Corporation (Dried Fruits Export Control) Regulations 1991; and
 
-</dd> </dl>
+                     (b)  during the transitional period, the product and the place are the subject of an order (the **_new order_**) under section 19 of the _Horticulture Marketing and Research and Development Services Act 2000_;
 
-<center>Back to Top</center>
+Part V (and any instrument made under, or for the purposes of, Part V) ceases, at the time of the new order, to have effect in relation to the export of that product to that place.
 
-<dl compact=""><dl compact="">
+             (2)  If, at the end of the transitional period, Part V of the Act still has effect in relation to any horticultural product, it (and any instrument made under, or for the purposes of, Part V) ceases to have effect immediately after the end of the transitional period.
 
-Note:	For strict liability, see section&#160;6.1 of the
+### Division 6—Final annual reports
 
-_Criminal Code_.
+##### <a id="48"></a>48  Simplified outline
 
- </dl></dl>
+                   The following is a simplified outline of this Division:
 
-<dl compact="">
+* * *
 
-<dt>(6)</dt><dd>For the purposes of subsection 118(2) of the Act, the defendant bears an
+Each of the 3 statutory authorities must produce a final annual report covering the authority’s operations and financial status up to the transfer day.
 
-evidential burden in relation to the matter of whether the defendant has a
+* * *
 
-reasonable excuse.
+##### <a id="49"></a>49  Final annual report: Australian Horticultural Corporation
 
-</dd> </dl>
+             (1)  In spite of the repeal of the _Australian Horticultural Corporation Act 1987_:
 
-<dl compact=""><dl compact="">
+                     (a)  the Australian Horticultural Corporation continues in existence for the purpose of giving the Minister the report required under section 9 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the period starting on the last 1 July before the transfer day and ending on the transfer day; and
 
-Note:	For evidential burdens, see subsection 13.3(3) of the
+                     (b)  for that purpose, the membership of the Corporation immediately before the transfer day is taken to be the same on and after the transfer day.
 
-_Criminal Code_.
+             (2)  For the purposes of the application of section 9 of the _Commonwealth Authorities and Companies Act 1997_ to the report referred to in subsection (1):
 
- </dl></dl>
+                     (a)  the period starting on the last 1 July before the transfer day and ending on the transfer day is taken to be a financial year; and
 
-**
+                     (b)  the _Australian Horticultural Corporation Act 1987_ continues to have effect as if it had not been repealed.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 46  References to AHC and Product Board 
-**
+##### <a id="50"></a>50  Final annual report: Australian Dried Fruits Board
 
- <dl compact="">
+             (1)  In spite of the repeal of the _Australian Horticultural Corporation Act 1987_:
 
-<dt>(1)</dt><dd>During the transitional period, references to powers, duties or functions
+                     (a)  the Australian Dried Fruits Board continues in existence for the purpose of giving the Minister the report required under section 9 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the period starting on the last 1 July before the transfer day and ending on the transfer day; and
 
-of the Corporation or of a Board in Part&#160;V of the Act or in an instrument
+                     (b)  for that purpose, the membership of the Board immediately before the transfer day is taken to be the same on and after the transfer day.
 
-in force under Part&#160;V are taken to be references to powers, duties or
+             (2)  For the purposes of the application of section 9 of the _Commonwealth Authorities and Companies Act 1997_ to the report referred to in subsection (1):
 
-functions of the industry export control body.
+                     (a)  the period starting on the last 1 July before the transfer day and ending on the transfer day is taken to be a financial year; and
 
-</dd> </dl>
+                     (b)  the _Australian Horticultural Corporation Act 1987_ continues to have effect as if it had not been repealed; and
 
-<dl compact=""><dl compact="">
+                     (c)  the reference in paragraph 101A(b) of that Act to 31 August after the end of the financial year is taken to be a reference to the day occurring 8 weeks after the transfer day; and
 
-Note:	For _transitional period_ and _industry export control body_, see section&#160;4.
+                     (d)  the reference in subsection 30A(1) of that Act to 15 October after the end of each financial year is taken to be a reference to the day occurring 14 weeks after the transfer day.
 
- </dl></dl>
+##### <a id="51"></a>51  Final annual report: Horticultural Research and Development Corporation
 
-<dl compact="">
+             (1)  In spite of the repeal of the _Horticultural Research and Development Corporation Act 1987_:
 
-<dt>(2)</dt><dd>However, in spite of subsection&#160;(1), the industry export control body
+                     (a)  the Horticultural Research and Development Corporation continues in existence for the purpose of giving the Minister the report required under section 9 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the period starting on the last 1 July before the transfer day and ending on the transfer day; and
 
-does not, during the transitional period, have the power:
+                     (b)  for that purpose, the membership of the Corporation immediately before the transfer day is taken to be the same on and after the transfer day.
 
-</dd> </dl>
+             (2)  For the purposes of the application of section 9 of the _Commonwealth Authorities and Companies Act 1997_ to the report referred to in subsection (1):
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  the period starting on the last 1 July before the transfer day and ending on the transfer day is taken to be a financial year; and
 
-<dt>(a)</dt><dd>to prohibit the export of a product to a specified place unless the export
+                     (b)  the _Australian Horticultural Research and Development Corporation Act 1987_ continues to have effect as if it had not been repealed.
 
-of the product to that place was prohibited immediately before the transfer
+### Division 7—Miscellaneous
 
-day; or</dd>
+##### <a id="52"></a>52  Delegation of Secretary’s powers
 
-<dt>(b)</dt><dd>to revoke  or vary a prohibition of export to a specified place.
+                   The Secretary may delegate all or any of the Secretary’s powers under this Act, the regulations or orders to an APS employee in the Department who has appropriate skills or experience. The delegation must be in writing.
 
-</dd>
+Note:          For the meaning of **_APS employee_**, see section 4.
 
-</dl></dl></dl>
+##### <a id="53"></a>53  Compensation for acquisition of property
 
-<dl compact=""><dl compact="">
+             (1)  If:
 
-Note:	The power to prohibit the export of a horticultural product
+                     (a)  apart from this section, the operation of this Act would result in the acquisition of property from a person otherwise than on just terms; and
 
-to a specified place is given to the Corporation by regulation 5 of the
-
-Australian Horticultural Corporation (Export Control) Regulations 1990.
-
- </dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 47  Phasing out of export controls under Part&#160;V of AHC Act 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>If:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the export of a horticultural product to a place is prohibited under the
-
-Australian Horticultural Corporation (Export Control) Regulations 1990 or the
-
-Australian Horticultural Corporation (Dried Fruits Export Control) Regulations
-
-1991; and</dd>
-
-<dt>(b)</dt><dd>during the transitional period, the product and the place are the subject
-
-of an order (the _new order_) under section&#160;19 of the
-
-_Horticulture Marketing and Research and Development Services Act 2000_;
-
-</dd>
-
-</dl></dl></dl>
-
-Part&#160;V (and any instrument made under, or for the purposes of, Part&#160;V) ceases, at the time of the new order, to have effect in relation to the export of that product to that place.
-
-<dl compact="">
-
-<dt>(2)</dt><dd>If, at the end of the transitional period, Part&#160;V of the Act still
-
-has effect in relation to any horticultural product, it (and any instrument
-
-made under, or for the purposes of, Part&#160;V) ceases to have effect
-
-immediately after the end of the transitional period.
-
-</dd> </dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;6&#151;Final annual reports </division> <center>[Back to Top](#top)</center> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 48  Simplified outline 
-**
-
- <dl compact="">
-
-		The following is a simplified outline of this Division:
-
- </dl>
-
-Each of the 3 statutory authorities must produce a final annual report covering the authority's operations and financial status up to the transfer day. 
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 49  Final annual report: Australian Horticultural Corporation 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>In spite of the repeal of the _Australian Horticultural Corporation Act 1987_:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Australian Horticultural Corporation continues in existence for the
-
-purpose of giving the Minister the report required under section&#160;9 of the
-
-_Commonwealth Authorities and Companies Act 1997_ in relation to the
-
-period starting on the last 1&#160;July before the transfer day and ending on
-
-the transfer day; and</dd>
-
-<dt>(b)</dt><dd>for that purpose, the membership of the Corporation immediately before the
-
-transfer day is taken to be the same on and after the transfer day.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>For the purposes of the application of section&#160;9 of the
-
-_Commonwealth Authorities and Companies Act 1997_ to the report referred
-
-to in subsection&#160;(1):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the period starting on the last 1&#160;July before the transfer day and
-
-ending on the transfer day is taken to be a financial year; and</dd>
-
-<dt>(b)</dt><dd>the _Australian Horticultural Corporation Act 1987_ continues to have
-
-effect as if it had not been repealed.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 50  Final annual report: Australian Dried Fruits Board 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>In spite of the repeal of the _Australian Horticultural Corporation Act 1987_:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Australian Dried Fruits Board continues in existence for the purpose
-
-of giving the Minister the report required under section&#160;9 of the
-
-_Commonwealth Authorities and Companies Act 1997_ in relation to the
-
-period starting on the last 1&#160;July before the transfer day and ending on
-
-the transfer day; and</dd>
-
-<dt>(b)</dt><dd>for that purpose, the membership of the Board immediately before the
-
-transfer day is taken to be the same on and after the transfer day.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>For the purposes of the application of section&#160;9 of the
-
-_Commonwealth Authorities and Companies Act 1997_ to the report referred
-
-to in subsection&#160;(1):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the period starting on the last 1&#160;July before the transfer day and
-
-ending on the transfer day is taken to be a financial year; and</dd>
-
-<dt>(b)</dt><dd>the _Australian Horticultural Corporation Act 1987_ continues to have
-
-effect as if it had not been repealed; and</dd>
-
-<dt>(c)</dt><dd>the reference in paragraph 101A(b) of that Act to 31&#160;August after the
-
-end of the financial year is taken to be a reference to the day occurring 8
-
-weeks after the transfer day; and</dd>
-
-<dt>(d)</dt><dd>the reference in subsection 30A(1) of that Act to 15&#160;October after
-
-the end of each financial year is taken to be a reference to the day occurring
-
-14 weeks after the transfer day.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 51  Final annual report: Horticultural Research and Development Corporation 
-**
-
-<dl compact="">
-
-<dt>(1)</dt><dd>In spite of the repeal of the _Horticultural Research and Development Corporation Act 1987_:
-
-</dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the Horticultural Research and Development Corporation continues in
-
-existence for the purpose of giving the Minister the report required under
-
-section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_ in
-
-relation to the period starting on the last 1&#160;July before the transfer day
-
-and ending on the transfer day; and</dd>
-
-<dt>(b)</dt><dd>for that purpose, the membership of the Corporation immediately before the
-
-transfer day is taken to be the same on and after the transfer day.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>For the purposes of the application of section&#160;9 of the
-
-_Commonwealth Authorities and Companies Act 1997_ to the report referred
-
-to in subsection&#160;(1):
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the period starting on the last 1&#160;July before the transfer day and
-
-ending on the transfer day is taken to be a financial year; and</dd>
-
-<dt>(b)</dt><dd>the _Australian Horticultural Research and Development Corporation Act 1987_ continues to have effect as if it had not been repealed.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<division>Division&#160;7&#151;Miscellaneous </division> 
-**</center>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 52  Delegation of Secretary's powers 
-**
-
- <dl compact="">
-
-		The Secretary may delegate all or any of the Secretary's powers under this
-
-Act, the regulations or orders to an APS employee in the Department who has
-
-appropriate skills or experience. The delegation must be in writing.
-
- </dl>
-
-<dl compact=""><dl compact="">
-
-Note:	For the meaning of _APS employee_, see
-
-section&#160;4.
-
- </dl></dl>
-
-**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 53  Compensation for acquisition of property 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>If:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>apart from this section, the operation of this Act would result in the
-
-acquisition of property from a person otherwise than on just terms; and</dd>
-
-<dt>(b)</dt><dd>the acquisition would be invalid because of paragraph 51(xxxi) of the
-
-Constitution;
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
 
 the Commonwealth is liable to pay the person a reasonable amount of compensation in respect of the acquisition.
 
-<dl compact="">
+             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
-<dt>(2)</dt><dd>If the Commonwealth and the person do not agree on the amount of the
+             (3)  In this section:
 
-compensation, the person may institute proceedings in the Federal Court of
+                    <a name="just-term"></a><a name="acquisit-properti"></a>**_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
 
-Australia for the recovery from the Commonwealth of such reasonable amount of
+##### <a id="54"></a>54  Regulations
 
-compensation as the court determines.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
+             (1)  The Governor-General may make regulations prescribing matters:
 
-<def><dl compact=""><dl compact="">
+                     (a)  required or permitted by this Act to be prescribed; or
 
-_acquisition of property_ and _just terms_ have the
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-same respective meanings as in paragraph 51(xxxi) of the Constitution.
+             (2)  In particular, regulations may be made dealing with other transitional matters arising out of the repeal of the _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ and the enactment of this Act and the _Horticulture Marketing and Research and Development Services Act 2000_.
 
- </dl></dl>
+# Schedule 1—Repeal of Acts
 
-**
+##### <a id="1"></a>1  Repeal of Acts
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 54  Regulations 
-**
+                   The Acts specified in this Schedule are repealed.
 
- <dl compact="">
+                    _Australian Horticultural Corporation Act 1987_
 
-<dt>(1)</dt><dd>The Governor-General may make regulations prescribing matters:
+                    _Horticultural Research and Development Corporation Act 1987_
 
-</dd> </dl>
+# Schedule 2—Consequential amendments
 
-<dl compact=""><dl compact=""><dl compact="">
+* * *
 
-<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+**Note:**
 
-<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-to this Act.
+_Freedom of Information Act 1982_
 
-</dd>
+_Natural Heritage Trust of__Australia__Act 1997_
 
-</dl></dl></dl>
+_Primary Industries (Customs) Charges Act 1999_
 
-<center>Back to Top</center>
+_Primary Industries (Excise) Levies Act 1999_
 
-<dl compact="">
+_Safety, Rehabilitation and Compensation Act 1988_
 
-<dt>(2)</dt><dd>In particular, regulations may be made dealing with other transitional
+For access to the wording of the amendments made by this Schedule, _see_ Act No. No. 163, 2000.
 
-matters arising out of the repeal of the _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ and the enactment of this Act and the _Horticulture Marketing and Research and Development Services Act 2000_.
+* * *
 
-</dd> </dl>
+# Schedule 3—References to Administrative Appeals Tribunal
 
-<center>**
+<h9 class="ActHead9">Horticulture Marketing and Research and Development Services Act 2000</h9>
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000Schedule&#160;1&#151;Repeal of Acts 
-**</center>
+## 1  Subsection 22(2) (note)
 
-**
+Omit “Appeals”, substitute “Review”.
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000- SECT 1  Repeal of Acts 
-**
+## 2  Subsection 35(5)
 
- <dl compact="">
+Repeal the subsection.
 
-		The Acts specified in this Schedule are repealed.
+# Schedule 4—Operation of the Privacy Act
 
- </dl>
+* * *
 
-<def><dl compact=""><dl compact="">
+**Note:**
 
-_Australian Horticultural Corporation Act 1987_ _Horticultural Research and Development Corporation Act 1987_  </dl></dl>
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-<center>**
+_Horticulture Marketing and Research and Development Services Act 2000_
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000Schedule&#160;2&#151;Consequential amendments 
-**</center>
+For access to the wording of the amendments made by this Schedule, _see_ Act No. No. 163, 2000.
 
-Note:
- The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
- _Freedom of Information Act 1982_
- _Natural Heritage Trust of Australia Act 1997_
- _Primary Industries (Customs) Charges Act 1999_
- _Primary Industries (Excise) Levies Act 1999_
- _Safety, Rehabilitation and Compensation Act 1988_
- For access to the wording of the amendments made by this Schedule, click  here. <dl compact=""> 
+* * *
 
-</dl>  
+# Notes to the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_
 
-<center>**
+### Note 1
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000Schedule&#160;3&#151;References to Administrative Appeals Tribunal 
-**</center>
+The _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_ as shown in this compilation comprises Act No. 163, 2000 amended as indicated in the Tables below.
 
-Note:
- The amendments made by this Schedule are incorporated in the compilation on SCALEplus.
- _Horticulture Marketing and Research and Development Services Act 2000_
- For access to the wording of the amendments made by this Schedule, click here. <dl compact=""> 
+The _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendment is incorporated in this compilation.
 
-</dl> 
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
-   <a name="TOC22"><center>**
+### Table of Acts
 
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000Schedule &#160;4&#151;Operation of the Privacy Act 
-**</center></a>  
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="23%">
+  <col width="14%">
+</colgroup>
 
-Note:
- The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
- [_Horticulture Marketing and Research and Development Services Act 2000_](../top.htm)
- For access to the wording of the amendments made by this Schedule, click [here](/html/comact/10/6277/top.htm). <dl compact=""> <p> </p></dl>  <a name="TOC23"><center>**
-
-###  HORTICULTURE MARKETING AND RESEARCH AND DEVELOPMENT SERVICES (REPEALS AND CONSEQUENTIAL PROVISIONS) ACT 2000<centreit>Notes to the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_ </centreit>
-**</center></a>  
-
-**Note 1**
-
-The _Horticulture Marketing and Research and Development Services (Repeals Back to Top and Consequential Provisions) Act 2000_ as shown in this compilation comprises Act No. 163, 2000 amended as indicated in the Tables below.
- For all relevant information pertaining to application, saving or transitional provisions _see_ Table&#160;A. 
-
-**Table of Acts**
-
- <table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr></table> <table><tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</i></div>
-
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>163, 2000</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>21 Dec 2000</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedules 1 and 2: 1 Feb 2001 ( <i>see</i> <i>Gazette</i>2001, No. GN6) 
-Schedule 3 ( <i>see</i>s. 2(3)) 
-Schedule 4: 21 Dec 2001 ( <i>see</i>s. 2(4)) 
-Remainder: 21 Dec 2000 ( <i>see</i>s. 2(1))</div>
-
+  <td>
+    <div>Schedules 1 and 2: 1 Feb 2001 ( <i>see</i> <i>Gazette</i>2001, No. GN6) 
+Schedule 3: <i>(a)</i> 
+( <i>see</i>s 2(3)) 
+Schedule 4: 21 Dec 2001 ( <i>see</i>s. 2(4)) 
+Remainder: 21 Dec 2000 ( <i>see</i>s. 2(1))</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div><i>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+<thead>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
+    </td>
+    <td>
+      <div>54, 2009</div>
+    </td>
+    <td>
+      <div>25 June 2009</div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 4): <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Stocktake (Regulatory and Other Laws) Act 2009</div>
+    </td>
+    <td>
+      <div>111, 2009</div>
+    </td>
+    <td>
+      <div>16 Nov 2009</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 17): 17 Nov 2009</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead></table>
 
-  </th>
-  <th colspan="1" align="left">
-    <div>115, 2001</div>
+_(a)_ The Administrative Review Tribunal Bill has not been enacted. Therefore these amendments do not commence.
 
-  </th>
-  <th colspan="1" align="left">
-    <div>18 Sept 2001</div>
+_(b)_    Subsection 2(1) (item 10) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
-  </th>
-  <th colspan="1" align="left">
-    <div>16 Oct 2001</div>
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
-  </th>
-  <th colspan="1" align="left">
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      10\. Schedule 4
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Part 2-4 of the
+        <i>Fair Work Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2009
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="33%">
+  <col width="67%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 4</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
   </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr></table>
-
-**Table of Amendments**
-
-ad. = added or inserted	am. = amended	rep. = repealed	rs. = repealed and substituted 
- <table><tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
+  <td>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>rep. No. 111, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. SLI 2006 No. 50</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 45</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 115, 2001</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div>am. No. 115, 2001</div>
   </td>
 </tr></table>
 
-**Table A**
+## Table A
 
-**Application, saving or transitional provisions**
+### Application, saving or transitional provisions
 
-_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001_(No. 115, 2001)
+_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)_
 
-**4  Application of amendments**
- <dl compact=""> <dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.</dd>
+##### <a id="4"></a>4  Application of amendments
 
- <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd>
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
-</dl> 
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-</def>
-
-</def>
-
-</def>
-
-</def>
-
-</def>
-
-</def>
-
-</def>
-
-</def>
-
-</def></def>
-
-
-
-
+ 
