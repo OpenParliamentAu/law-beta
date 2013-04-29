@@ -1,331 +1,127 @@
-**
+**<b>
 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 
-**
+### <center><name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - Incorporating all amendments by legislation made to 30 June 1980 - Reprinted as at 30 June 1980 (HISTACT CHAP 171 #DATE 30:06:1980) </name></center>
+</b>** *1* The Science and Industry Endowment Act 1926 (a) as shown in this reprint<lf> comprises Act No. 21, 1926 as amended by the other Acts specified in the<lf> following table:<lf> ---------------------------------------------------------------------------- <lf> Application,<lf>                                                                    saving<lf>                           Number   Date        Date of             or<lf> transitional<lf>     Act                   and year of Assent   commencement        provisions<lf> ---------------------------------------------------------------------------- Science and<lf>     Industry Endowment<lf>     Act 1926              21, 1926 21 June 1926 21 June 1926<lf>     Science and<lf>     Industry Research<lf>     Act 1949              13, 1949 25 Mar 1949 19 May 1949 (see<lf>                                                Gazette 1949, p.<lf>                                                1306A)              -<lf>     Administrative<lf>     Changes<lf>     (Consequential<lf>     Provisions) Act<lf>     1978                  36, 1978 12 June 1978 12 June 1978       S. 8<lf> ---------------------------------------------------------------------------- (a)  This citation is provided for by the Amendments Incorporation Act 1905<lf> and the Acts Citation Act 1976.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS 
 
-###  Compilation Information 
-**
+<lf> Section<lf> <p>  1\.        Short title<lf> <p>  2\.        Interpretation<lf> <p>  3\.        Appropriation<lf> <p>  4\.        The Fund<lf> <p>  5\.        Control of Fund<lf> <p>  6\.        Trustees of the Science and Industry Endowment Fund<lf> <p>  7\.        Investment of Fund<lf> <p>  8\.        Application of Fund<lf> <p>  9\.        Application of gifts or bequests<lf> <p>  10\.       Audit of accounts<lf> <p><lf>                                -----------------<lf> <p><lf> </lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf>
+</tt></tables>
+**<b>
 
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to constitute a Fund to be utilized for the purposes of Scientific and Industrial Research </sect>
+**<b>
 
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 1\. Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Science and Industry Endowment Act 1926.*1* 
 
+<lf> See notes to first article of this Chapter. </lf>
+</sect>
+**<b>
 
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 2\. Interpretation </name>
+</b>** 
 
-**
+## SECT
+<sect>   2\. In this Act, unless the contrary intention appears,  "the Fund"  means the Fund established by this Act. 
 
-###   Long Title 
-**
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Science and Industry Endowment Act 1926_.
+<lf> </lf>
+</sect>
+**<b>
 
- 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 2  Interpretation 
-In this Act, unless the contrary intention appears, _the Fund_
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 3\. Appropriation </name>
+</b>** 
 
-means the Fund established by this Act.
+## SECT
+<sect>   3\. For the purposes of this Act there is hereby appropriated out of the Consolidated Revenue Fund the sum of One hundred thousand pounds. 
 
- 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 3  Appropriation 
-For the purposes of this Act there is hereby appropriated out of the
+<lf> </lf>
+</sect>
+**<b>
 
-Consolidated Revenue Fund the sum of One hundred thousand pounds.
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 4\. The Fund </name>
+</b>** 
 
- 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 4  The Fund 
-<dt>(1)</dt><dd>A Fund is hereby established which shall be known as the Science and
+## SECT
+<sect>   4\. (1) A Fund is hereby established which shall be known as the Science and Industry Endowment Fund. 
 
-Industry Endowment Fund.</dd> <dt>(2)</dt><dd>The Fund shall consist of: </dd> 
-<dl compact=""><dl compact="">
+<lf>   (2) The Fund shall consist of-<lf> <lf>   (a)  the amount appropriated by this Act and of income derived from the investment of that amount or any part thereof; and<lf> <lf>   (b)  gifts or bequests given or made for the purposes of the Fund and the income derived from or proceeds of the realization of the property so given or devised. <p><lf> </lf></p></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-<dt>(a)</dt><dd>the amount appropriated by this Act and of income derived from the
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 5\. Control of Fund </name>
+</b>** 
 
-investment of that amount or any part thereof; and</dd>
+## SECT
+<sect>   5\. The Fund shall be vested in and placed under the control of the trustees appointed by this Act. 
 
-<dt>(b)</dt><dd>gifts or bequests given or made for the purposes of the Fund and the
+<lf> </lf>
+</sect>
+**<b>
 
-income derived from or proceeds of the realization of the property so given or
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 6\. Trustees of the Science and Industry Endowment Fund </name>
+</b>** Substituted by No. 13, 1949, s. 6 
 
-devised.
+## SECT
+<sect>   6\. The members for the time being of the Executive of the Commonwealth Scientific and Industrial Research Organization holding office under the Science and Industry Research Act 1949 shall be the trustees of the Fund. 
 
-</dd>
+<lf> </lf>
+</sect>
+**<b>
 
-</dl></dl>
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 5  Control of Fund 
-The Fund shall be vested in and placed under the control of the trustee
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 7\. Investment of Fund </name>
+</b>** 
 
-appointed by this Act.
+## SECT
+<sect>   7\. So much of the capital of the Fund as represents the amount appropriated by this Act shall, and any income derived from the investment of that capital which is not immediately required for the purposes of this Act may, be invested by the trustees in securities of the Commonwealth or of the States or in any other manner for the time being allowed by any Act or State Act for the investment of trust funds in Australia. 
 
- 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 6  Trustee of Science and Industry Endowment Fund 
-The Chief Executive of the Commonwealth Scientific and Industrial Research
+<lf> </lf>
+</sect>
+**<b>
 
-Organisation shall be the trustee of the Fund.
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 8\. Application of Fund </name>
+</b>** 
 
- 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 7  Investment of Fund 
-So much of the capital of the Fund as represents the amount appropriated by
+## SECT
+<sect>   8\. (1) The income derived from the investment of so much of the Fund as represents the amount appropriated by this Act shall be applied to provide assistance-<lf> <lf>   (a)  to persons engaged in scientific research; and<lf> <lf>   (b)  in the training of students in scientific research. 
 
-this Act shall, and any income derived from the investment of that capital
+<lf>   (2) Assistance provided under the last preceding sub-section shall be provided in such cases and subject to such conditions as the trustees determine. <p><lf> </lf></p></lf>
+</lf></lf></lf></lf></sect>
+**<b>
 
-which is not immediately required for the purposes of this Act may, be invested
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 9\. Application of gifts or bequests </name>
+</b>** 
 
-by the trustee in securities of the Commonwealth or of the States or in any
+## SECT
+<sect>   9\. The trustees shall deal with and apply so much of the Fund as represents gifts or bequests or the income arising from the investment thereof in accordance with the conditions upon which the gift or bequest was given or made, or, where no conditions are attached to a gift or bequest, shall deal with and apply so much of the Fund as represents that gift or bequest, in the manner provided by sections seven and eight of this Act. 
 
-other manner for the time being allowed by any Act or State Act for the
+<lf> </lf>
+</sect>
+**<b>
 
-investment of trust funds in Australia.
+### <name>SCIENCE AND INDUSTRY ENDOWMENT ACT 1926 - SECT. 10\. Audit of accounts </name>
+</b>** 
 
- 
+## SECT
+<sect>   10\. (1) The accounts of the Fund shall be audited from time to time by the Auditor-General for the Commonwealth. 
 
-Back to Top
+<lf> Amended by No. 36, 1978, s. 3 </lf>
+</sect> 
 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 8  Application of Fund 
-<dt>(1)</dt><dd>The income derived from the investment of so much of the Fund as
+## SECT
+<sect>   (2) A report of each audit shall be made to the Minister for Finance who shall cause a copy of the report to be laid on the table of each House of the Parliament. 
 
-represents the amount appropriated by this Act shall be applied to provide
-
-assistance:
-
-</dd> 
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to persons engaged in scientific research; and</dd>
-
-<dt>(b)</dt><dd>in the training of students in scientific research.
-
-</dd>
-
-</dl></dl>
-<dt>(2)</dt><dd>Assistance provided under the last preceding subsection shall be provided
-
-in such cases and subject to such conditions as the trustee determines.
-
-</dd> 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 9  Application of gifts or bequests 
-The trustee shall deal with and apply so much of the Fund as represents gifts
-
-or bequests or the income arising from the investment thereof in accordance
-
-with the conditions upon which the gift or bequest was given or made, or, where
-
-no conditions are attached to a gift or bequest, shall deal with and apply so
-
-much of the Fund as represents that gift or bequest, in the manner provided by
-
-sections seven and eight of this Act.
-
- 
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926- SECT 10  Audit of accounts 
-<dt>(1)</dt><dd>The accounts of the Fund shall be audited from time to time by the
-
-Auditor-General for the Commonwealth.</dd> <dt>(2)</dt><dd>A report of each audit shall be made to the Minister who shall cause a copy of the report to be laid on the table of each House of the Parliament. </dd> 
-**
-
-###  SCIENCE AND INDUSTRY ENDOWMENT ACT 1926<centreit>Notes to the _Science and Industry Endowment Act 1926_ </centreit>
-**
-Note 1
-Science and Industry Endowment Act 1926
-
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Science and Industry Endowment Act 1926_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>21, 1926</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>21&#160;June 1926</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>21&#160;June 1926</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Science and Industry Research Act 1949_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>13, 1949</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>25 Mar 1949</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>19&#160;May 1949 ( _see Gazette_1949, p. 1306A)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Administrative Changes (Consequential Provisions) Act 1978_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>36, 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>12&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>12&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 8</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Statute Law (Miscellaneous Provisions) Act (No.&#160;1) 1984_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>72, 1984</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>25&#160;June 1984</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 3: 23&#160;July 1984 _(a)_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 5(1)</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Science and Industry Research Legislation Amendment Act 1986_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>121, 1986</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2 Dec 1986</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>5 Dec 1986 ( _see Gazette_1986, No. S622)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 37</div>
-
-  </td>
-</tr>
-(a)
-Science and Industry Endowment Act 1926
-Statute Law (Miscellaneous Provisions) Act (No. 1) 1984
-Table of Amendments
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;121, 1986</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 6</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No.&#160;13, 1949; No.&#160;121, 1986</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 7-9</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;121, 1986</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 10</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;36, 1978; No.&#160;72, 1984</div>
-
-  </td>
-</tr>
-
-
-
-
-
-
+<lf> ------------------------------------------------------------------------------ -- </lf>
+</sect>
