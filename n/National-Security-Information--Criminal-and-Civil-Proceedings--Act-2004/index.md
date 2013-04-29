@@ -1,242 +1,244 @@
-![](http://www.comlaw.gov.au/Details/C2010C00777/Html/NatSecInfoCrimCivilProc2004WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00523/Html/5F789650F55A0F40CA2570500018A720/$FILE/image001.gif)
 
 # National Security Information (Criminal and Civil Proceedings) Act 2004
 
 **Act No. 150 of 2004 as amended**
 
-This compilation was prepared on 26 November 2010
- taking into account amendments up to Act No. 127 of 2010
+This compilation was prepared on 3 August 2005
+taking into account amendments up to Act No. 89 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Object of this Act
+[3](#3).            Object of this Act                                                                                2
 
-[4](#4).            Extension of Act to external Territories
+[4](#4).            Extension of Act to external Territories                                              2
 
-[5](#5).            Act binds Crown
+[5](#5).            Act binds Crown                                                                                 2
 
-[6](#6).            Application of Act to federal criminal proceedings
+[6](#6).            Application of Act to federal criminal proceedings                             2
 
-[6A](#6A).         Application of Act to civil proceedings
+[6A](#6A).         Application of Act to civil proceedings                                              2
 
 **Part 2—Interpretation** 
 
     **Division 1—Definitions**
 
-[7](#7).            Definitions
+[7](#7).            Definitions                                                                                           5
 
     **Division 2—National security and related definitions**
 
-[8](#8).            Meaning of _national security_
+[8](#8).            Meaning of _national security_                                                               7
 
-[9](#9).            Meaning of _security_
+[9](#9).            Meaning of _security_                                                                             7
 
-[10](#10).          Meaning of _international relations_
+[10](#10).          Meaning of _international relations_                                                      7
 
-[11](#11).          Meaning of _law enforcement interests_
+[11](#11).          Meaning of _law enforcement interests_                                                 7
 
     **Division 3—Federal criminal proceeding and related definitions**
 
-[13](#13).          Meaning of _criminal proceeding_
+[13](#13).          Meaning of _criminal proceeding_                                                          8
 
-[14](#14).          Meaning of _federal criminal proceeding_
+[14](#14).          Meaning of _federal criminal proceeding_                                              8
 
-[15](#15).          Meaning of _defendant_ in relation to a federal criminal proceeding
+[15](#15).          Meaning of _defendant_ in relation to a federal criminal proceeding       9
 
     **Division 3A—Civil proceeding definition**
 
-[15A](#15A).       Meaning of _civil proceeding_
+[15A](#15A).       Meaning of _civil proceeding_                                                              10
 
     **Division 4—Other interpretation provisions**
 
-[16](#16).          Disclosure of information in permitted circumstances
+[16](#16).          Disclosure of information in permitted circumstances                      11
 
-[17](#17).          Meaning of _likely to prejudice national security_
+[17](#17).          Meaning of _likely to prejudice national security_                                12
 
-[18](#18).          Operation of other Acts etc 
+[18](#18).          Operation of other Acts etc                                                               12
 
-[19](#19).          General powers of a court
+[19](#19).          General powers of a court                                                                 12
 
-[20](#20).          When an order of a court ceases to be subject to appeal
+[20](#20).          When an order of a court ceases to be subject to appeal                   13
 
 **Part 3—Protection of information whose disclosure in federal criminal proceedings is likely to prejudice etc. national security** 
 
     **Division 1—Management of information in federal criminal proceedings**
 
-[21](#21).          Pre-trial conferences
+[21](#21).          Pre-trial conferences                                                                          14
 
-[22](#22).          Arrangements for federal criminal proceedings about disclosures relating to or affecting national security
+[22](#22).          Arrangements for federal criminal proceedings about disclosures relating to or affecting national security            14
 
-[23](#23).          Protection of certain information disclosed in a federal criminal proceeding
+[23](#23).          Protection of certain information disclosed in a federal criminal proceeding           15
 
     **Division 2—Attorney-General’s certificates for protection of information in federal criminal proceedings** 
 
         **Subdivision A—Notifying Attorney-General etc. of expected disclosure in federal criminal proceedings**
 
-[24](#24).          Prosecutor and defendant must notify expected disclosure in federal criminal proceedings of information relating to or affecting national security
+[24](#24).          Prosecutor and defendant must notify expected disclosure in federal criminal proceedings of information relating to or affecting national security                                                                  16
 
         **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in federal criminal proceedings**
 
-[25](#25).          Preventing witnesses from disclosing information in federal criminal proceedings by not allowing them to answer questions
+[25](#25).          Preventing witnesses from disclosing information in federal criminal proceedings by not allowing them to answer questions                                                                                            17
 
         **Subdivision C—Attorney-General’s federal criminal proceedings certificates**
 
-[26](#26).          Attorney-General’s criminal non-disclosure certificate
+[26](#26).          Attorney-General’s criminal non-disclosure certificate                     18
 
-[27](#27).          Consequences of Attorney-General giving criminal non-disclosure certificate
+[27](#27).          Consequences of Attorney-General giving criminal non-disclosure certificate        21
 
-[28](#28).          Attorney-General’s criminal witness exclusion certificate
+[28](#28).          Attorney-General’s criminal witness exclusion certificate                22
 
     **Division 3—Closed hearings and non-disclosure or witness exclusion orders in federal criminal proceedings**
 
-[29](#29).          Closed hearing requirements in federal criminal proceedings
+[29](#29).          Closed hearing requirements in federal criminal proceedings             25
 
-[29A](#29A).       Request to delay making record available pending appeal decision
+[29A](#29A).       Request to delay making record available pending appeal decision   27
 
-[30](#30).          Intervention by Attorney-General in federal criminal proceedings
+[30](#30).          Intervention by Attorney-General in federal criminal proceedings   27
 
-[31](#31).          Court orders in federal criminal proceedings
+[31](#31).          Court orders in federal criminal proceedings                                     28
 
-[32](#32).          Reasons for court orders
+[32](#32).          Reasons for court orders                                                                    30
 
-[33](#33).          Request to delay giving section 32 statement pending appeal decision
+[33](#33).          Request to delay giving section 32 statement pending appeal decision   31
 
-[34](#34).          Period of operation of court orders
+[34](#34).          Period of operation of court orders                                                   31
 
-[35](#35).          Consequence of certain court orders
+[35](#35).          Consequence of certain court orders                                                  31
 
-[36](#36).          Adjournment after certain court orders
+[36](#36).          Adjournment after certain court orders                                             32
 
     **Division 4—Appeals in federal criminal proceedings**
 
-[36A](#36A).       Appeal against court decision under section 29
+[36A](#36A).       Appeal against court decision under section 29                                33
 
-[37](#37).          Appeals against court orders under section 31
+[37](#37).          Appeals against court orders under section 31                                  33
 
-[38](#38).          Appeal against court decisions under section 32
+[38](#38).          Appeal against court decisions under section 32                               33
 
 **Part 3A—Protection of information whose disclosure in civil proceedings is likely to prejudice etc. national security** 
 
     **Division 1—Management of information in civil proceedings**
 
-[38A](#38A).       Conferences before the substantive hearings in civil proceedings begin
+[38A](#38A).       Conferences before the substantive hearings in civil proceedings begin  34
 
-[38B](#38B).       Arrangements for civil proceedings about disclosures relating to or affecting national security
+[38B](#38B).       Arrangements for civil proceedings about disclosures relating to or affecting national security             35
 
-[38C](#38C).       Protection of certain information disclosed in a civil proceeding
+[38C](#38C).       Protection of certain information disclosed in a civil proceeding      35
 
     **Division 2—Attorney-General’s certificates for protection of information in civil proceedings** 
 
         **Subdivision A—Notifying Attorney-General etc. of expected disclosure in civil proceedings**
 
-[38D](#38D).       Parties must notify expected disclosure in civil proceedings of information relating to or affecting national security
+[38D](#38D).       Parties must notify expected disclosure in civil proceedings of information relating to or affecting national security                                                                                                           36
 
         **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in civil proceedings**
 
-[38E](#38E).        Preventing witnesses from disclosing information in civil proceedings by not allowing them to answer questions
+[38E](#38E).        Preventing witnesses from disclosing information in civil proceedings by not allowing them to answer questions                                                                                                           38
 
         **Subdivision C—Attorney-General’s civil proceedings certificates**
 
-[38F](#38F).        Attorney-General’s civil non-disclosure certificate
+[38F](#38F).        Attorney-General’s civil non-disclosure certificate                           39
 
-[38G](#38G).       Consequences of Attorney-General giving civil non-disclosure certificate
+[38G](#38G).       Consequences of Attorney-General giving civil non-disclosure certificate              42
 
-[38H](#38H).       Attorney-General’s civil witness exclusion certificate
+[38H](#38H).       Attorney-General’s civil witness exclusion certificate                      43
 
     **Division 3—Closed hearings and non-disclosure or witness exclusion orders in civil proceedings**
 
-[38I](#38I).         Closed hearing requirements in civil proceedings
+[38I](#38I).         Closed hearing requirements in civil proceedings                              46
 
-[38J](#38J).        Request to delay making record available pending appeal decision
+[38J](#38J).        Request to delay making record available pending appeal decision   49
 
-[38K](#38K).       Intervention by Attorney-General in civil proceedings
+[38K](#38K).       Intervention by Attorney-General in civil proceedings                     49
 
-[38L](#38L).        Court orders in civil proceedings
+[38L](#38L).        Court orders in civil proceedings                                                       49
 
-[38M](#38M).      Reasons for court orders
+[38M](#38M).      Reasons for court orders                                                                    51
 
-[38N](#38N).       Request to delay giving section 38M statement pending appeal decision
+[38N](#38N).       Request to delay giving section 38M statement pending appeal decision               52
 
-[38O](#38O).       Period of operation of court orders
+[38O](#38O).       Period of operation of court orders                                                   52
 
-[38P](#38P).        Adjournment after certain court orders
+[38P](#38P).        Adjournment after certain court orders                                             53
 
     **Division 4—Appeals in civil proceedings**
 
-[38Q](#38Q).       Appeal against court decision under section 38I
+[38Q](#38Q).       Appeal against court decision under section 38I                               54
 
-[38R](#38R).       Appeals against court orders under section 38L
+[38R](#38R).       Appeals against court orders under section 38L                               54
 
-[38S](#38S).        Appeal against court decisions under section 38M
+[38S](#38S).        Appeal against court decisions under section 38M                           54
 
 **Part 4—Security clearances** 
 
     **Division 1—Security clearances required in federal criminal proceedings**
 
-[39](#39).          Security clearance for defendant’s legal representative etc 
+[39](#39).          Security clearance for defendant’s legal representative etc                55
 
     **Division 2—Security clearances required in civil proceedings**
 
-[39A](#39A).       Security clearance for parties etc  to a civil proceeding
+[39A](#39A).       Security clearance for parties etc  to a civil proceeding                     57
 
 **Part 5—Offences** 
 
     **Division 1—Offences relating to federal criminal proceedings**
 
-[40](#40).          Offence to disclose information before Attorney-General gives criminal non-disclosure certificate etc  under section 26
+[40](#40).          Offence to disclose information before Attorney-General gives criminal non-disclosure certificate etc  under section 26                                                                                                           60
 
-[41](#41).          Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc  under section 28
+[41](#41).          Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc  under section 28                                                                                           61
 
-[42](#42).          Offence to contravene requirement to notify Attorney-General etc  under sections 24 and 25
+[42](#42).          Offence to contravene requirement to notify Attorney-General etc  under sections 24 and 25              62
 
-[43](#43).          Offence to disclose information contrary to Attorney-General’s criminal non-disclosure certificate given under section 26
+[43](#43).          Offence to disclose information contrary to Attorney-General’s criminal non-disclosure certificate given under section 26                                                                                           62
 
-[44](#44).          Offence to call witness contrary to Attorney-General’s criminal witness exclusion certificate given under section 28
+[44](#44).          Offence to call witness contrary to Attorney-General’s criminal witness exclusion certificate given under section 28                                                                                                           62
 
-[45](#45).          Offence to contravene court order
+[45](#45).          Offence to contravene court order                                                     62
 
-[46](#46).          Offence to disclose information in federal criminal proceedings to certain persons without security clearance etc 
+[46](#46).          Offence to disclose information in federal criminal proceedings to certain persons without security clearance etc                                                                                                            63
 
     **Division 2—Offences relating to civil proceedings**
 
-[46A](#46A).       Offence to disclose information before Attorney-General gives civil non-disclosure certificate etc  under section 38F
+[46A](#46A).       Offence to disclose information before Attorney-General gives civil non-disclosure certificate etc  under section 38F                                                                                                           64
 
-[46B](#46B).       Offence to disclose information before Attorney-General gives civil witness exclusion certificate etc  under section 38H
+[46B](#46B).       Offence to disclose information before Attorney-General gives civil witness exclusion certificate etc  under section 38H                                                                                        65
 
-[46C](#46C).       Offence to contravene requirement to notify Attorney-General etc  under sections 38D and 38E
+[46C](#46C).       Offence to contravene requirement to notify Attorney-General etc  under sections 38D and 38E        65
 
-[46D](#46D).       Offence to disclose information contrary to Attorney-General’s civil non-disclosure certificate given under section 38F
+[46D](#46D).       Offence to disclose information contrary to Attorney-General’s civil non-disclosure certificate given under section 38F                                                                                                           66
 
-[46E](#46E).        Offence to call witness contrary to Attorney-General’s civil witness exclusion certificate given under section 38H
+[46E](#46E).        Offence to call witness contrary to Attorney-General’s civil witness exclusion certificate given under section 38H                                                                                                           66
 
-[46F](#46F).        Offence to contravene court order
+[46F](#46F).        Offence to contravene court order                                                     66
 
-[46G](#46G).       Offence to disclose information in civil proceedings to certain persons without security clearance etc 
+[46G](#46G).       Offence to disclose information in civil proceedings to certain persons without security clearance etc                 66
 
 **Part 6—Miscellaneous**
 
-[47](#47).          Report to Parliament on certificates given by Attorney-General etc 
+[47](#47).          Report to Parliament on certificates given by Attorney-General etc  68
 
-[48](#48).          Rules of court
+[48](#48).          Rules of court                                                                                    68
 
-[49](#49).          Regulations
+[49](#49).          Regulations                                                                                        68
 
 **Notes** 
+
 
 ## An Act relating to the protection of certain information from disclosure in federal criminal proceedings and civil proceedings, and for related purposes
 
@@ -300,29 +302,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
-      this table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Sections 3 to 49</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>11 January 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
+        this table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Sections 3 to 49</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>11 January 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -1616,7 +1620,7 @@ Access to the record by a party or party’s legal representative
 
 Note:          The Attorney-General is not treated as a party to the civil proceeding itself.
 
-##### <a id="38L"></a>38L    Court orders in civil proceedings
+##### <a id="38L"></a>38L  Court orders in civil proceedings
 
 Civil non-disclosure certificate hearings
 
@@ -2160,13 +2164,12 @@ the person commits an offence.
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _National Security Information (Criminal and Civil Proceedings) Act 2004_
 
 ### Note 1
 
 The _National Security Information (Criminal and Civil Proceedings) Act 2004_ as shown in this compilation comprises Act No. 150, 2004 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -2186,11 +2189,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2200,79 +2205,64 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>National Security Information (Criminal Proceedings) Act 2004</div>
-  </td>
-  <td>
-    <div>150, 2004</div>
-  </td>
-  <td>
-    <div>14 Dec 2004</div>
-  </td>
-  <td>
-    <div>Ss. 3–49: 11 Jan 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Security Information (Criminal Proceedings) Amendment (Application) Act 2005</div>
-  </td>
-  <td>
-    <div>27, 2005</div>
-  </td>
-  <td>
-    <div>21 Mar 2005</div>
-  </td>
-  <td>
-    <div>21 Mar 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Security Information Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>89, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1: 3 Aug 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Security Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>127, 2010</div>
-  </td>
-  <td>
-    <div>24 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 1–16, 
-18–102, 104–106, 
-108–110): \[ <i>see</i>Note 2 and Table A] 
-Schedule 8 (items 17, 103, 107): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>Sch. 8 (items 109, 110)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>National Security Information (Criminal Proceedings) Act 2004</div>
+    </td>
+    <td>
+      <div>150, 2004</div>
+    </td>
+    <td>
+      <div>14 Dec 2004</div>
+    </td>
+    <td>
+      <div>Ss. 3–49: 11 Jan 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Security Information (Criminal Proceedings) Amendment (Application) Act 2005</div>
+    </td>
+    <td>
+      <div>27, 2005</div>
+    </td>
+    <td>
+      <div>21 Mar 2005</div>
+    </td>
+    <td>
+      <div>21 Mar 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Security Information Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>89, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1: 3 Aug 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -2297,1730 +2287,686 @@ Schedule 8 (items 17, 103, 107): \[ <i>see</i>Note 2]</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 27, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3A of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead to s. 19(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead to s. 19(2)</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 3.</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 22</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 23</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 3.</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of 
-Div. 2 of Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 24</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B of 
-Div. 2 of Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 25</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. C of 
-Div. 2 of Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 26</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part 3.</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 29</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 30</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part 3.</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38A–38C</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38D</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38E</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38F–38H</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38I–38P</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38Q–38S</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 4.</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 5.</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 41</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 42</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 43</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 46A–46G</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 6</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rs. No. 27, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 15</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3A of Part 2</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15A</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead to s. 19(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead to s. 19(2)</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 3</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 3.</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 22</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 23</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 3.</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. A of 
+Div. 2 of Part 3 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 24</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. B of 
+Div. 2 of Part 3 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 25</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. C of 
+Div. 2 of Part 3 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 26</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 27</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 28</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of Part 3.</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 29</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 30</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 31</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 4 of Part 3.</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38A–38C</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38D</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38E</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision C</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38F–38H</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38I–38P</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38Q–38S</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 4.</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39A</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 5.</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 41</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 42</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 43</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 44</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 46</div>
+    </td>
+    <td>
+      <div>am. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part 5</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 46A–46G</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>rs. No. 89, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_National Security Legislation Amendment Act 2010 (No. 127, 2010)_
-
-The following amendments commence on 22 December 2010:
-
-## Schedule 8
-
-## 1  Subsection 6(1)
-
-After “defendant”, insert “, the defendant’s legal representative”.
-
-## 2  Subsection 6(2)
-
-Omit “take place after the notice is given”, substitute “occur after the notice is given (whether or not those parts began before that time)”.
-
-## 3  Paragraphs 6A(1)(b) and (2)(b)
-
-After “parties to the proceeding”, insert “, the legal representatives of the parties to the proceeding”.
-
-## 4  Paragraph 6A(2)(d)
-
-After “Divisions”, insert “1A, 1,”.
-
-## 5  Subparagraph 6A(2)(e)(ii)
-
-After “Divisions”, insert “1A, 1,”.
-
-## 6  Subsection 6A(5)
-
-Omit “take place after the notice is given”, substitute “occur after the notice is given (whether or not those parts began before that time)”.
-
-## 7  Section 7
-
-Insert:
-
-                    <a name="court-offici"></a>**_court official_** means an individual who:
-
-                     (a)  is employed or engaged by a court to perform services in the court in relation to a proceeding in the court; or
-
-                     (b)  in relation to a federal criminal proceeding in a court—supervises the defendant in the court.
-
-## 8  Section 7
-
-Insert:
-
-                    <a name="nation-secur-inform"></a>**_national security information_** means information:
-
-                     (a)  that relates to national security; or
-
-                     (b)  the disclosure of which may affect national security.
-
-## 9  Paragraph 13(2)(c)
-
-Omit “documents and reports of persons intended to be called by a party to give evidence”, substitute “documents or reports”.
-
-## 10  At the end of section 13
-
-Add:
-
-             (3)  To avoid doubt, a re-trial, and proceedings relating to the re-trial (including those mentioned in subsection (2)), are part of the same criminal proceeding as the trial.
-
-## 11  Section 14
-
-Repeal the section, substitute:
-
-##### <a id="14"></a>14  Meaning of _federal criminal proceeding_
-
-                   In this Act, **_federal criminal proceeding_** means a criminal proceeding in any court exercising federal jurisdiction, where the offence or any of the offences concerned are against a law of the Commonwealth.
-
-## 12  Subsection 15(1)
-
-Repeal the subsection, substitute:
-
-             (1)  In this Act, **_defendant_**, in relation to a federal criminal proceeding, means a person charged with the offence or offences concerned (even if the proceeding occurs after any conviction of the person).
-
-## 13  Paragraph 15A(2)(b)
-
-Omit “documents and reports of persons intended to be called by a party to give evidence”, substitute “documents or reports”.
-
-## 14  At the end of section 15A
-
-Add:
-
-             (3)  To avoid doubt, a re-hearing, and proceedings relating to the re-hearing (including those mentioned in subsection (2)), are part of the same civil proceeding as the hearing.
-
-## 15  Paragraphs 16(aa), (ab), (ac), (ad) and (b)
-
-Repeal the paragraphs, substitute:
-
-                     (b)  the person discloses the information in circumstances specified by the Attorney-General in a certificate or advice given under section 26, 28, 38F or 38H.
-
-## 16  Section 17
-
-Omit “national security information”, substitute “information”.
-
-## 18  After subsection 19(1)
-
-Insert:
-
-          (1A)  In addition to the powers of a court under this Act in a federal criminal proceeding, the court may make such orders as the court considers appropriate in relation to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information if:
-
-                     (a)  the court is satisfied that it is in the interest of national security to make such orders; and
-
-                     (b)  the orders are not inconsistent with this Act or regulations made under this Act.
-
-## 19  After subsection 19(3)
-
-Insert:
-
-          (3A)  In addition to the powers of a court under this Act in a civil proceeding, the court may make such orders as the court considers appropriate in relation to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information if:
-
-                     (a)  the court is satisfied that it is in the interest of national security to make such orders; and
-
-                     (b)  the orders are not inconsistent with this Act or regulations made under this Act.
-
-## 20  Before Division 1 of Part 3
-
-Insert:
-
-### Division 1A—Attorney-General etc. may attend and be heard at federal criminal proceedings
-
-##### <a id="20A"></a>20A  Attorney-General etc. may attend and be heard at federal criminal proceedings
-
-                   If, in a federal criminal proceeding, an issue arises relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, then any or all of the following may attend and be heard at the proceeding:
-
-                     (a)  the Attorney-General;
-
-                     (b)  the Attorney-General’s legal representative;
-
-                     (c)  any other representative of the Attorney-General.
-
-### Division 1B—Court to consider hearing in camera etc.
-
-##### <a id="20B"></a>20B  Court to consider hearing in camera etc.
-
-             (1)  If, during a hearing in a federal criminal proceeding, an issue arises relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, then before hearing the issue, the court must consider making an order under either or both of the following:
-
-                     (a)  subsection 19(1A);
-
-                     (b)  section 93.2 of the _Criminal Code_.
-
-             (2)  Subsection (1) does not apply if the issue is the subject of an order that is in force under section 22.
-
-## 21  Subsection 21(1)
-
-Repeal the subsection, substitute:
-
-             (1)  At any time during a federal criminal proceeding, the Attorney-General, the Attorney-General’s legal representative, the prosecutor, the defendant or the defendant’s legal representative may apply to the court for the court to hold a hearing to consider issues relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, including:
-
-                     (a)  the making of an arrangement of the kind mentioned in section 22; and
-
-                     (b)  the giving of a notice under section 24.
-
-          (1A)  As soon as possible after making the application, the applicant must notify each of the following that the application has been made:
-
-                     (a)  if the applicant is the Attorney-General or the Attorney-General’s legal representative—the prosecutor, the defendant and the defendant’s legal representative;
-
-                     (b)  if the applicant is the prosecutor—the Attorney-General, the defendant and the defendant’s legal representative;
-
-                     (c)  if the applicant is the defendant or the defendant’s legal representative—the Attorney-General and the prosecutor.
-
-_Note:       The heading to section 21 is replaced by the heading “National security information hearings”._
-
-## 22  Subsection 21(2)
-
-Omit “conference”, substitute “hearing”.
-
-## 23  Subsection 22(1)
-
-Repeal the subsection, substitute:
-
-             (1)  At any time during a federal criminal proceeding:
-
-                     (a)  the Attorney-General, on the Commonwealth’s behalf; and
-
-                     (b)  the prosecutor; and
-
-                     (c)  the defendant, or the defendant’s legal representative on the defendant’s behalf;
-
-may agree to an arrangement about the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information.
-
-_Note:       The heading to section 22 is altered by omitting “relating to or affecting national security” and substituting “etc. of national security information”._
-
-## 24  Paragraph 23(1)(a)
-
-Omit “information that is disclosed, or to be disclosed, to the court”, substitute “national security information that is disclosed, or to be disclosed,”.
-
-_Note:       The heading to section 23 is altered by omitting “certain” and substituting “national security”._
-
-## 25  Subsections 23(2) and (3)
-
-Repeal the subsections (including the note), substitute:
-
-             (2)  This section does not apply to information that is the subject of an order that is in force under section 22.
-
-## 26  Subsection 24(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If the prosecutor, the defendant or the defendant’s legal representative knows or believes that:
-
-                     (a)  he or she will disclose national security information in a federal criminal proceeding; or
-
-                     (b)  a person whom he or she intends to call as a witness in a federal criminal proceeding will disclose national security information in giving evidence or by the person’s mere presence; or
-
-                     (c)  on his or her application, the court has issued a subpoena to, or made another order in relation to, another person who, because of that subpoena or order, is required (other than as a witness) to disclose national security information in a federal criminal proceeding;
-
-then he or she must, as soon as practicable, give the Attorney-General notice in writing of that knowledge or belief.
-
-Note 1:       Failure to give notice as required by this subsection is an offence in certain circumstances: see section 42.
-
-Note 2:       Section 25 deals with the situation where the prosecutor, the defendant or the defendant’s legal representative knows or believes that information that will be disclosed in a witness’s answer is national security information.
-
-When not required to give notice
-
-          (1A)  However, a person need not give notice about the disclosure of information under subsection (1) if:
-
-                     (a)  another person has already given notice about the disclosure of the information under that subsection; or
-
-                     (b)  the disclosure of the information:
-
-                              (i)  is the subject of a certificate given to the person under section 26 and the certificate still has effect; or
-
-                             (ii)  is the subject of an order that is in force under section 22 or 31; or
-
-                     (c)  the disclosure of the information by the witness to be called:
-
-                              (i)  is the subject of a certificate given to the person under section 28 and the certificate still has effect; or
-
-                             (ii)  is the subject of an order that is in force under section 22 or 31; or
-
-                     (d)  the Attorney-General has given the person advice about the disclosure of the information under subsection 26(7) or 28(10).
-
-_Note:       The heading to section 24 is replaced by the heading “Notification of expected disclosure of national security information”._
-
-## 27  Subsections 24(3) and (4)
-
-Repeal the subsections, substitute:
-
-Informing the court etc. of an expected disclosure
-
-             (3)  A person who gives notice under subsection (1) must also advise the following, in writing, that notice has been given to the Attorney-General:
-
-                     (a)  if the person is the prosecutor:
-
-                              (i)  the court; and
-
-                             (ii)  the defendant; and
-
-                            (iii)  the defendant’s legal representative; and
-
-                            (iv)  any other person mentioned in paragraph (1)(b) or (c); and
-
-                     (b)  if the person is the defendant or the defendant’s legal representative:
-
-                              (i)  the court; and
-
-                             (ii)  the prosecutor; and
-
-                            (iii)  any other person mentioned in paragraph (1)(b) or (c).
-
-Note:          Failure to give advice as required by this subsection is an offence in certain circumstances: see section 42.
-
-             (4)  The advice must include a description of the information, unless the advice is being given by the defendant or the defendant’s legal representative to the prosecutor.
-
-Note:          A contravention of this subsection is an offence in certain circumstances: see section 42.
-
-Adjournment to allow sufficient time for Attorney-General to act on the notice
-
-             (5)  On receiving the advice, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney-General:
-
-                     (a)  gives a copy of a certificate to the court under subsection 26(4) or 28(3); or
-
-                     (b)  gives advice to the court under subsection 26(7) or 28(10) (which applies if a decision is made not to give a certificate).
-
-## 28  Paragraph 25(1)(b)
-
-Repeal the paragraph, substitute:
-
-                     (b)  the prosecutor, the defendant or the defendant’s legal representative knows or believes that information that will be disclosed in the witness’s answer is national security information.
-
-## 29  Subsection 25(2)
-
-Omit “or defendant”, substitute “, the defendant or the defendant’s legal representative”.
-
-## 30  After subsection 25(2)
-
-Insert:
-
-          (2A)  However, a person need not advise the court under subsection (2) about the disclosure of information if:
-
-                     (a)  another person has already advised the court about the disclosure of the information under that subsection; or
-
-                     (b)  a notice has been given to the Attorney-General under subsection 24(1) about the disclosure of the information; or
-
-                     (c)  the disclosure of the information:
-
-                              (i)  is the subject of a certificate given to the person under section 26 and the certificate still has effect; or
-
-                             (ii)  is the subject of an order that is in force under section 22 or 31; or
-
-                     (d)  the Attorney-General has given the person advice about the disclosure of the information under subsection 26(7).
-
-## 31  Subsections 25(3) to (7)
-
-Repeal the subsections, substitute:
-
-Witness to give written answer
-
-             (3)  If the court is advised under subsection (2) and the witness would, apart from this section, be required to answer the question, the court must order that the witness give the court a written answer to the question.
-
-             (4)  The court must show the written answer to the prosecutor and, if present, the Attorney-General, the Attorney-General’s legal representative and any other representative of the Attorney-General.
-
-             (5)  If:
-
-                     (a)  under subsection (4), the Attorney-General’s representative (other than the Attorney-General’s legal representative) is shown the written answer; and
-
-                     (b)  he or she knows or believes that, if the written answer were to be given in evidence in the proceeding, the information that would be disclosed in the witness’s answer is national security information;
-
-then he or she must advise the prosecutor of that knowledge or belief.
-
-Prosecutor must give notice to Attorney-General etc.
-
-             (6)  If the prosecutor knows, believes, or is advised under subsection (5), that, if the written answer were to be given in evidence in the proceeding, the information that would be disclosed in the witness’s answer is national security information, then the prosecutor must:
-
-                     (a)  advise the court of that knowledge, belief or advice; and
-
-                     (b)  as soon as practicable, give the Attorney-General notice in writing of that knowledge, belief or advice.
-
-Note:          Failure to advise the court or to notify the Attorney-General is an offence in certain circumstances: see section 42.
-
-             (7)  However, the prosecutor need not advise the court or give the Attorney-General notice about the written answer under subsection (6) if the information disclosed by the written answer:
-
-                     (a)  is the subject of a certificate or advice given to the prosecutor under section 26 and the certificate still has effect; or
-
-                     (b)  is the subject of an order that is in force under section 22 or 31.
-
-Adjournment to allow sufficient time for Attorney-General to act on the notice
-
-             (8)  If the court is advised under subsection (6), it must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney-General:
-
-                     (a)  gives a copy of a certificate to the court under subsection 26(4); or
-
-                     (b)  gives advice to the court under subsection 26(7) (which applies if a decision is made not to give a certificate).
-
-## 32  Subparagraph 26(1)(a)(i)
-
-Omit “or defendant knows or believes that the prosecutor or defendant or another person”, substitute “, the defendant or the defendant’s legal representative knows or believes that he or she, or another person,”.
-
-## 33  Subparagraph 26(1)(a)(ii)
-
-Omit “or defendant”, substitute “, the defendant, the defendant’s legal representative”.
-
-## 34  Subparagraph 26(1)(a)(iii)
-
-Omit “considers”, substitute “knows, believes or is advised”.
-
-## 35  Subsection 26(8)
-
-Repeal the subsection, substitute:
-
-Definition of **potential discloser**
-
-             (8)  Each of the following persons is a **_potential discloser_** of the information in the proceeding:
-
-                     (a)  in all cases—the prosecutor, the defendant and the defendant’s legal representative;
-
-                     (b)  if subparagraph (1)(a)(i) or (ii) applies and the disclosure is by a person other than the prosecutor, the defendant or the defendant’s legal representative—the other person;
-
-                     (c)  if subparagraph (1)(a)(iii) applies—the witness mentioned in that subparagraph.
-
-## 36  Subsections 27(1) and (2)
-
-Repeal the subsections, substitute:
-
-Consequences of certificate for pre-trial proceedings
-
-             (1)  If, in a federal criminal proceeding, the Attorney-General gives a potential discloser a certificate under section 26 at any time during a part of the proceeding that occurs before the trial begins, then the certificate is conclusive evidence, during that part of the proceeding and any later part that occurs before the hearing mentioned in paragraph (3)(a) begins, that disclosure of the information in the proceeding is likely to prejudice national security.
-
-## 37  Subsection 27(3)
-
-Omit “If a proceeding is covered by paragraph 14(a) (about a proceeding involving a trial) and, under section 26, the Attorney-General gives a potential discloser a certificate”, substitute “If, in a federal criminal proceeding, the Attorney-General gives a potential discloser a certificate under section 26”.
-
-## 38  Paragraph 27(3)(b)
-
-Omit “24(4) or 25(7)”, substitute “24(5) or 25(8)”.
-
-## 39  Subparagraph 28(1)(a)(i)
-
-Repeal the subparagraph, substitute:
-
-                              (i)  the Attorney-General is notified under section 24 that the prosecutor, the defendant or the defendant’s legal representative knows or believes that a person whom he or she intends to call as a witness in a federal criminal proceeding will disclose information by the person’s mere presence; or
-
-## 40  Subparagraph 28(1)(a)(ii)
-
-Omit “or defendant”, substitute “, the defendant or the defendant’s legal representative”.
-
-## 41  Subsection 28(2)
-
-Omit “or defendant” (wherever occurring), substitute “, the defendant or the defendant’s legal representative”.
-
-## 42  Subsection 28(5)
-
-Omit “If the proceeding is covered by paragraph 14(a) (about a proceeding involving a trial), the”, substitute “The”.
-
-## 43  Subsection 28(6)
-
-Repeal the subsection.
-
-## 44  Subsections 28(9) and (10)
-
-Omit “or defendant”, substitute “, the defendant or the defendant’s legal representative”.
-
-## 45  Subsection 29(1)
-
-Omit “25(3),”.
-
-## 46  Paragraph 29(2)(f)
-
-Repeal the paragraph, substitute:
-
-                      (f)  the Attorney-General, the Attorney-General’s legal representative and any other representative of the Attorney-General; and
-
-## 47  Subparagraph 29(5)(c)(iii)
-
-Omit “if section 30 applies—”.
-
-## 48  Subsection 29(6)
-
-Omit “, if section 30 applies,”.
-
-## 49  Subsection 29(7)
-
-Omit “national security information”, substitute “information”.
-
-## 50  Section 30
-
-Repeal the section.
-
-## 51  Paragraphs 31(6)(a) and (b)
-
-Omit “or defendant”, substitute “, the defendant or the defendant’s legal representative”.
-
-## 52  Paragraph 32(1)(e)
-
-Omit “if section 30 applies—”.
-
-## 53  Subsection 32(2)
-
-Omit “, if section 30 applies,”.
-
-## 54  Subsection 32(3)
-
-Omit “national security information”, substitute “information”.
-
-## 55  Subsection 37(1)
-
-Omit “, if the Attorney-General is an intervener under section 30,”.
-
-## 56  Before Division 1 of Part 3A
-
-Insert:
-
-### Division 1A—Attorney-General etc. may attend and be heard at civil proceedings
-
-##### <a id="38AA"></a>38AA  Attorney-General etc. may attend and be heard at civil proceedings
-
-                   If, in a civil proceeding, an issue arises relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, then any or all of the following may attend and be heard at the proceeding:
-
-                     (a)  the Attorney-General;
-
-                     (b)  the Attorney-General’s legal representative;
-
-                     (c)  any other representative of the Attorney-General.
-
-### Division 1B—Court to consider hearing in camera etc.
-
-##### <a id="38AB"></a>38AB  Court to consider hearing in camera etc.
-
-             (1)  If, during a hearing in a civil proceeding, an issue arises relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, then before hearing the issue, the court must consider making an order under either or both of the following:
-
-                     (a)  subsection 19(3A);
-
-                     (b)  section 93.2 of the _Criminal Code_.
-
-             (2)  Subsection (1) does not apply if the issue is the subject of an order that is in force under section 38B.
-
-## 57  Subsections 38A(1), (2) and (3)
-
-Repeal the subsections, substitute:
-
-             (1)  At any time during a civil proceeding, the Attorney General, the Attorney-General’s legal representative, a party to the proceeding or a party’s legal representative may apply to the court for the court to hold a hearing to consider issues relating to the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information, including:
-
-                     (a)  the making of an arrangement of the kind mentioned in section 38B; and
-
-                     (b)  the giving of a notice under section 38D.
-
-             (2)  As soon as possible after making the application, the applicant must notify each of the following that the application has been made:
-
-                     (a)  if the applicant is the Attorney-General or the Attorney-General’s legal representative—the parties and the parties’ legal representatives;
-
-                     (b)  if the applicant is a party or a party’s legal representative—the Attorney-General, the other parties and the other parties’ legal representatives.
-
-_Note:       The heading to section 38A is replaced by the heading “National security information hearings”._
-
-## 58  Subsection 38A(4)
-
-Omit “conference”, substitute “hearing”.
-
-## 59  Subsection 38B(1)
-
-Repeal the subsection, substitute:
-
-             (1)  At any time during a civil proceeding:
-
-                     (a)  the Attorney-General, on the Commonwealth’s behalf; and
-
-                     (b)  the parties to the proceeding, or their legal representatives on their behalf;
-
-may agree to an arrangement about the disclosure, protection, storage, handling or destruction, in the proceeding, of national security information.
-
-_Note:       The heading to section 38B is altered by omitting “relating to or affecting national security” and substituting “etc. of national security information”._
-
-## 60  Paragraph 38C(1)(a)
-
-Omit “information that is disclosed, or to be disclosed, to the court”, substitute “national security information that is disclosed, or to be disclosed,”.
-
-_Note:       The heading to section 38C is altered by omitting “certain” and substituting “national security”._
-
-## 61  Subsections 38C(2) and (3)
-
-Repeal the subsections (including the note), substitute:
-
-             (2)  This section does not apply to information that is the subject of an order that is in force under section 38B.
-
-## 62  Subsection 38D(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If a party, or the legal representative of a party, to a civil proceeding knows or believes that:
-
-                     (a)  he or she will disclose national security information in the proceeding; or
-
-                     (b)  a person whom he or she intends to call as a witness in the proceeding will disclose national security information in giving evidence or by the person’s mere presence; or
-
-                     (c)  on his or her application, the court has issued a subpoena to, or made another order in relation to, another person who, because of that subpoena or order, is required (other than as a witness) to disclose national security information in the proceeding;
-
-then he or she must, as soon as practicable, give the Attorney-General notice in writing of that knowledge or belief.
-
-Note 1:       Failure to give notice as required by this section is an offence in certain circumstances: see section 46C.
-
-Note 2:       Section 38E deals with the situation where a party, or a party’s legal representative, knows or believes that information that will be disclosed in a witness’s answer is national security information.
-
-_Note:       The heading to section 38D is replaced by the heading “Notification of expected disclosure of national security information”._
-
-## 63  Subsection 38D(2)
-
-Omit “Despite subsection (1), a party need not give the Attorney-General notice”, substitute “However, a party or a party’s legal representative need not give the Attorney-General notice about the disclosure of the information under subsection (1)”.
-
-## 64  Before paragraph 38D(2)(a)
-
-Insert:
-
-                    (aa)  another person has already given notice about the disclosure of the information under that subsection; or
-
-## 65  Subparagraphs 38D(2)(a)(i) and (b)(i)
-
-After “party”, insert “or the legal representative”.
-
-## 66  At the end of subsection 38D(2)
-
-Add:
-
-               ; or (c)  the Attorney-General has given the party or the legal representative advice about the disclosure of the information under subsection 38F(7) or 38H(9).
-
-## 67  Subsections 38D(4) and (5)
-
-Repeal the subsections, substitute:
-
-Informing the court etc. of an expected disclosure
-
-             (4)  A person who gives notice under subsection (1) must also advise, in writing:
-
-                     (a)  the court; and
-
-                     (b)  the other parties; and
-
-                     (c)  the other parties’ legal representatives; and
-
-                     (d)  any other person mentioned in paragraph (1)(b) or (c);
-
-that notice has been given to the Attorney-General. The advice must include a description of the information.
-
-Note:          Failure to give advice as required by this section is an offence in certain circumstances: see section 46C.
-
-Adjournment to allow sufficient time for Attorney-General to act on the notice
-
-             (5)  On receiving the advice, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. The court must continue the adjournment until the Attorney-General:
-
-                     (a)  gives a copy of a certificate to the court under subsection 38F(5) or 38H(4); or
-
-                     (b)  gives advice to the court under subsection 38F(7) or 38H(9) (which applies if a decision is made not to give a certificate).
-
-## 68  Paragraph 38E(1)(b)
-
-Repeal the paragraph, substitute:
-
-                     (b)  a party, or the legal representative of a party, to the proceeding knows or believes that information that will be disclosed in the witness’s answer is national security information.
-
-## 69  Subsection 38E(2)
-
-After “party”, insert “or legal representative”.
-
-## 70  After subsection 38E(2)
-
-Insert:
-
-          (2A)  However, a person need not advise the court under subsection (2) about the disclosure of information if:
-
-                     (a)  another person has already advised the court about the disclosure of the information under that subsection; or
-
-                     (b)  a notice has been given to the Attorney-General under subsection 38D(1) about the disclosure of the information; or
-
-                     (c)  the disclosure of the information:
-
-                              (i)  is the subject of a certificate given to the person under section 38F and the certificate still has effect; or
-
-                             (ii)  is the subject of an order that is in force under section 38B or 38L; or
-
-                     (d)  the Attorney-General has given the person advice about the disclosure of the information under subsection 38F(7).
-
-## 71  Subsection 38E(4)
-
-Omit “The court must adjourn the proceeding on receiving the written answer. However, the court need not adjourn the proceeding”, substitute “On receiving the written answer, the court must adjourn so much of the proceeding as is necessary to ensure that the information is not disclosed. However, the court need not do so”.
-
-## 72  Subsection 38E(5)
-
-Omit “adjourns the proceeding”, substitute “adjourns a part of the proceeding under subsection (4)”.
-
-## 73  Subsection 38E(6)
-
-Omit “of the proceeding”.
-
-## 74  Subparagraph 38F(1)(a)(i)
-
-After “a party”, insert “, or the legal representative of a party,”.
-
-## 75  Subparagraph 38F(1)(a)(ii)
-
-After “a party”, insert “, the legal representative of a party”.
-
-## 76  Subsection 38F(9)
-
-Repeal the subsection, substitute:
-
-Definition of **potential discloser**
-
-             (9)  Each of the following persons is a **_potential discloser_** of the information in the proceeding:
-
-                     (a)  in all cases—the parties and the parties’ legal representatives;
-
-                     (b)  if subparagraph (1)(a)(i) or (ii) applies and the disclosure is by a person other than a party or a party’s legal representative—the other person;
-
-                     (c)  if subparagraph (1)(a)(iii) applies—the witness mentioned in that subparagraph.
-
-## 77  Subparagraph 38H(1)(a)(i)
-
-Omit “to a civil proceeding knows or believes that a person whom the party”, substitute “, or the legal representative of a party, to a civil proceeding knows or believes that a person whom the party or legal representative”.
-
-## 78  Subparagraph 38H(1)(a)(ii)
-
-After “party”, insert “, or the legal representative of a party,”.
-
-## 79  Subsection 38H(2)
-
-Repeal the subsection, substitute:
-
-Attorney-General may give a certificate
-
-             (2)  The Attorney-General may give a certificate to the relevant party or legal representative that states that he or she must not call the person as a witness in the proceeding.
-
-## 80  Subsection 38H(9)
-
-Omit all the words after “writing,”, substitute:
-
-                   advise:
-
-                     (a)  the relevant party or legal representative; and
-
-                     (b)  the court;
-
-of his or her decision.
-
-## 81  Paragraph 38I(2)(e)
-
-Repeal the paragraph, substitute:
-
-                     (e)  the Attorney-General, the Attorney-General’s legal representative and any other representative of the Attorney-General; and
-
-## 82  Subsection 38I(7)
-
-Omit “national security information”, substitute “information”.
-
-## 83  Section 38K
-
-Repeal the section.
-
-## 84  Paragraphs 38L(6)(a) and (b)
-
-After “party”, insert “or legal representative”.
-
-## 85  Paragraph 38M(1)(d)
-
-Omit “if section 38K applies—”.
-
-## 86  Subsection 38M(2)
-
-Omit “If section 38K applies, before”, substitute “Before”.
-
-## 87  Subsection 38M(3)
-
-Omit “national security information”, substitute “information”.
-
-## 88  Subsection 38R(1)
-
-Omit “, or if the Attorney-General is an intervener under section 38K,”, substitute “or”.
-
-## 89  After subsection 39(1)
-
-Insert:
-
-          (1A)  When considering, for the purposes of subsection (1), whether a disclosure of the information would be likely to prejudice national security, the Secretary is to consider the nature of the information itself, and not the character of the person to whom it is to be disclosed.
-
-## 90  Subsection 39(2)
-
-Omit “by the Department”.
-
-## 91  Subsection 39(3)
-
-After “defendant”, insert “, or the defendant’s legal representative (on the defendant’s behalf),”.
-
-## 92  Paragraph 39(3)(a)
-
-Omit “by the Department”.
-
-## 93  Subparagraph 39(5)(b)(i)
-
-Omit “by the Department”.
-
-## 94  After subsection 39A(1)
-
-Insert:
-
-          (1A)  When considering, for the purposes of subsection (1), whether a disclosure of the information would be likely to prejudice national security, the Secretary is to consider the nature of the information itself, and not the character of the person to whom it is to be disclosed.
-
-## 95  Subsection 39A(2)
-
-Omit “by the Department”.
-
-## 96  Subsection 39A(3)
-
-After “to the proceeding”, insert “, or the party’s legal representative (on the party’s behalf),”.
-
-## 97  Paragraphs 39A(3)(a) and (5)(d)
-
-Omit “by the Department”.
-
-## 98  Subparagraph 39A(6)(d)(i)
-
-Omit “by the Department”.
-
-## 99  Subsection 40(1)
-
-Repeal the subsection, substitute:
-
-Disclosure where notice given to Attorney-General under subsection 24(1)
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is the prosecutor, the defendant or the defendant’s legal representative in a federal criminal proceeding; and
-
-                     (b)  the person gives notice to the Attorney-General under subsection 24(1) about the disclosure of information in the proceeding; and
-
-                     (c)  section 41 does not apply; and
-
-                     (d)  after giving the notice, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
-
-                     (e)  the disclosure does not take place in permitted circumstances; and
-
-                      (f)  the disclosure is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure where advice given under subsection 24(3)
-
-          (1A)  A person commits an offence if:
-
-                     (a)  the person is advised under subsection 24(3) that a notice about the disclosure of information in a federal criminal proceeding has been given to the Attorney-General; and
-
-                     (b)  the advice includes a description of the information; and
-
-                     (c)  section 41 does not apply; and
-
-                     (d)  after being advised, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
-
-                     (e)  the disclosure does not take place in permitted circumstances; and
-
-                      (f)  the disclosure is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-## 100  Paragraph 40(2)(a)
-
-Omit “or believes”, substitute “, believes or is advised”.
-
-## 101  Section 41
-
-Repeal the section, substitute:
-
-##### <a id="41"></a>41  Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc. under section 28
-
-                   A person commits an offence if:
-
-                     (a)  the person is the prosecutor, the defendant or the defendant’s legal representative in a federal criminal proceeding; and
-
-                     (b)  the person notifies the Attorney-General under subsection 24(1) that he or she knows or believes that a person (the **_second person_**) whom he or she intends to call as a witness in a federal criminal proceeding will disclose information by the second person’s mere presence; and
-
-                     (c)  after giving the notice, the person calls the second person as a witness in the proceeding at any time before the Attorney-General gives the person a certificate under subsection 28(2) or advice under subsection 28(10) in relation to the calling of the second person as a witness; and
-
-                     (d)  the disclosure of the information by the mere presence of the second person is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-## 102  Paragraph 42(a)
-
-Omit “or (3)”, substitute “, (3) or (4)”.
-
-## 104  Subparagraph 46(c)(i)
-
-Omit “the Attorney-General’s Department has given the legal representative or person mentioned in subparagraph (a)(ii)”, substitute “the legal representative or person mentioned in subparagraph (a)(ii) has”.
-
-## 105  Subsection 46A(1)
-
-Repeal the subsection, substitute:
-
-Disclosure where notice given to Attorney-General under subsection 38D(1)
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is a party, or a legal representative of a party, to a civil proceeding; and
-
-                     (b)  the person gives notice to the Attorney-General under subsection 38D(1) about the disclosure of information in the proceeding; and
-
-                     (c)  section 46B does not apply; and
-
-                     (d)  after giving the notice, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
-
-                     (e)  the disclosure does not take place in permitted circumstances; and
-
-                      (f)  the disclosure is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure where advice given under subsection 38D(4)
-
-          (1A)  A person commits an offence if:
-
-                     (a)  the person is advised under subsection 38D(4) that a notice about the disclosure of information in a civil proceeding has been given to the Attorney-General; and
-
-                     (b)  the advice includes a description of the information; and
-
-                     (c)  section 46B does not apply; and
-
-                     (d)  after being advised, the person discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 38F(2) or (3) or advice under subsection 38F(7) in relation to the disclosure of the information; and
-
-                     (e)  the disclosure does not take place in permitted circumstances; and
-
-                      (f)  the disclosure is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-## 106  Sections 46B and 46C
-
-Repeal the sections, substitute:
-
-##### <a id="46B"></a>46B  Offence to disclose information before Attorney-General gives civil witness exclusion certificate etc. under section 38H
-
-                   A person commits an offence if:
-
-                     (a)  the person is a party, or the legal representative of a party, to a civil proceeding; and
-
-                     (b)  the person notifies the Attorney-General under subsection 38D(1) that he or she knows or believes that a person (the **_second person_**) whom he or she intends to call as a witness in the proceeding will disclose information by the second person’s mere presence; and
-
-                     (c)  after giving the notice, the person calls the second person as a witness in the proceeding at any time before the Attorney-General gives the person a certificate under subsection 38H(2) or advice under subsection 38H(9) in relation to the calling of the second person as a witness; and
-
-                     (d)  the disclosure of the information by the mere presence of the second person is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="46C"></a>46C  Offence to contravene requirement to notify Attorney-General etc. under sections 38D and 38E
-
-                   A person commits an offence if:
-
-                     (a)  the person is a party, or the legal representative of a party, to a civil proceeding; and
-
-                     (b)  the person contravenes subsection 38D(1), (3) or (4) or 38E(2); and
-
-                     (c)  the disclosure of information mentioned in that subsection is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-## 108  Subparagraph 46G(c)(i)
-
-Omit “the Attorney-General’s Department has given the party to the proceeding, the legal representative or the person mentioned in subparagraph (a)(iii)”, substitute “the party to the proceeding, the legal representative or the person mentioned in subparagraph (a)(iii) has”.
-
-The following amendments commence on 24 May 2011 unless proclaimed earlier:
-
-## Schedule 8
-
-## 17  Section 17
-
-Repeal the section, substitute:
-
-##### <a id="17"></a>17  Meaning of _likely to prejudice national security_
-
-             (1)  A disclosure of information is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the disclosure will prejudice national security.
-
-             (2)  The contravention of a requirement is **_likely to prejudice national security_** if there is a real, and not merely a remote, possibility that the contravention will prejudice national security.
-
-## 103  After section 45
-
-Insert:
-
-##### <a id="45A"></a>45A  Offence to contravene regulations
-
-             (1)  A person commits an offence if:
-
-                     (a)  regulations made under section 23 require the person to comply with a requirement relating to the storage, handling or destruction of national security information; and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the conduct results in the requirement being contravened; and
-
-                     (d)  the contravention of the requirement is likely to prejudice national security.
-
-                    Penalty:  6 months imprisonment.
-
-             (2)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
-## 107  After section 46F
-
-Insert:
-
-##### <a id="46FA"></a>46FA  Offence to contravene regulations
-
-             (1)  A person commits an offence if:
-
-                     (a)  regulations made under section 38C require the person to comply with a requirement relating to the storage, handling or destruction of national security information; and
-
-                     (b)  the person engages in conduct; and
-
-                     (c)  the conduct results in the requirement being contravened; and
-
-                     (d)  the contravention of the requirement is likely to prejudice national security.
-
-                    Penalty:  6 months imprisonment.
-
-             (2)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
-As at 26 November 2010 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_National Security Legislation Amendment Act 2010 (No. 127, 2010)_
-
-The following provisions commence on 22 December 2010:
-
-## Schedule 8
-
-## 109  Application of amendments
-
-Notice given after commencement
-
-(1)        The amendments made by this Schedule (other than items 17, 103 and 107) apply on and after the commencement of this item to:
-
-                     (a)  a federal criminal proceeding in relation to which a notice is given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ on or after that commencement; and
-
-                     (b)  a civil proceeding in relation to which a notice is given under section 6A of that Act on or after that commencement;
-
-whether or not the proceeding begins before or after that commencement.
-
-(2)        The amendments made by items 17, 103 and 107 of this Schedule apply on and after the commencement of those items to:
-
-                     (a)  a federal criminal proceeding in relation to which a notice is given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ on or after that commencement; and
-
-                     (b)  a civil proceeding in relation to which a notice is given under section 6A of that Act on or after that commencement;
-
-whether or not the proceeding begins before or after that commencement.
-
-Notice given before commencement
-
-(3)        The amendments made by this Schedule (other than items 17, 103 and 107) apply on and after the commencement of this item to:
-
-                     (a)  a federal criminal proceeding in relation to which a notice was given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before that commencement; and
-
-                     (b)  a civil proceeding in relation to which a notice was given under section 6A of that Act before that commencement;
-
-but only to the parts of the proceeding that occur after that commencement (whether or not those parts began before that commencement).
-
-(4)        The amendments made by items 17, 103 and 107 of this Schedule apply on and after the commencement of those items to:
-
-                     (a)  a federal criminal proceeding in relation to which a notice was given under section 6 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ before that commencement; and
-
-                     (b)  a civil proceeding in relation to which a notice was given under section 6A of that Act before that commencement;
-
-but only to the parts of the proceeding that occur after that commencement (whether or not those parts began before that commencement).
-
-(5)        If, under section 6 or 6A of the _National Security Information (Criminal and Civil Proceedings) Act 2004_, a notice was given before the commencement of this item, then:
-
-                     (a)  any orders that were made; and
-
-                     (b)  any certificates, advices or notices that were given;
-
-before that commencement under a provision of that Act continue in force (and may be dealt with) as if they were made or given under:
-
-                     (c)  in the case of an order made under subsection 23(2) of that Act—subsection 19(1A) of that Act as amended by this Schedule; and
-
-                     (d)  in the case of an order made under subsection 38C(2) of that Act—subsection 19(3A) of that Act as amended by this Schedule; and
-
-                     (e)  in any other case—the provision of that Act as amended by this Schedule.
-
-## 110  Saving
-
-Despite the amendments made to sections 23 and 38C of the _National Security Information (Criminal and Civil Proceedings) Act 2004_ by this Schedule, regulations made under those sections and that are in force immediately before the commencement of this item continue in force (and may be dealt with) after that commencement, as if they were made under those sections as amended by this Schedule.
 
  
