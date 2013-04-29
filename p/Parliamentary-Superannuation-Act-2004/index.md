@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00611/Html/ef84560c-8883-4667-8695-6dc25b54e1b2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00111/Html/ParliamentarySuperan2004_image001.gif)
 
 # Parliamentary Superannuation Act 2004
 
 **Act No. 72 of 2004 as amended**
 
-This compilation was prepared on 5 August 2011
- taking into account amendments up to Act No. 75 of 2011
+This compilation was prepared on 21 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -204,15 +204,7 @@ Note:          This table relates only to the provisions of th
 
 but does not include a Minister of State.
 
-                    <a name="parliamentari-allow"></a>**_parliamentary allowance_** means:
-
-                     (a)  an allowance by way of salary under clause 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_:
-
-                              (i)  as in force before the commencement of Schedule 2 (the **_amending Schedule_**) to the _Remuneration and Other Legislation Amendment Act 2011_; or
-
-                             (ii)  as continued in force by item 21 of the amending Schedule; or
-
-                     (b)  parliamentary base salary (within the meaning of the _Remuneration Tribunal Act 1973_).
+                    <a name="parliamentari-allow"></a>**_parliamentary allowance_** means an allowance by way of salary under clause 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_.
 
                     <a name="rsa"></a>**_RSA_**has the same meaning as in the _Retirement Savings Accounts Act 1997_.
 
@@ -302,7 +294,7 @@ Note:          The **_basic contributions fund_** of the membe
 
                      (c)  the amount (if any) of allowance by way of salary to which the member is entitled because he or she was an office holder for some or all of the month.
 
-             (3)  For the purpose of paragraph (2)(a), any reduction under Part 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_ (about salary sacrifice) of the member’s entitlement to parliamentary allowance is to be disregarded.
+             (3)  For the purpose of paragraph (2)(a), any reduction of the member’s entitlement to parliamentary allowance under Division 2 of Part 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_(salary sacrifice) is to be disregarded.
 
              (4)  An amount of parliamentary allowance, salary, or allowance by way of salary, is not to be taken into account under subsection (2) to the extent (if any) that it does not count as salary or wages for the purposes of section 19 of the _Superannuation Guarantee (Administration) Act 1992_.
 
@@ -464,7 +456,7 @@ Note:          The choice can be varied or revoked (see sectio
 
 ##### <a id="19"></a>19  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -485,8 +477,8 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="30%">
   <col width="16%">
   <col width="17%">
-  <col width="21%">
-  <col width="16%">
+  <col width="23%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -560,23 +552,6 @@ Remainder: 24 June 2004</div>
   </td>
   <td>
     <div>Sch. 1 (item 406(1)–(3))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Remuneration and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>75, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 6, 7, 21): 5 Aug 2011 ( <i>see</i>F2011L01603)</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 21)</div>
   </td>
 </tr></table>
 
@@ -700,14 +675,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
@@ -735,7 +702,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 115, 2006; No. 75, 2011</div>
+    <div>am. No. 115, 2006</div>
   </td>
 </tr></table>
 
@@ -764,38 +731,14 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
-
-* * *
-
-_Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)_
-
-## Schedule 2
-
-## 21  Transitional—temporary saving of old law allowances
-
-(1)       This item applies to the following provisions as in force immediately before the commencement of this Schedule:
-
-                     (a)  clause 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_;
-
-                     (b)  regulations made for the purposes of paragraph 1(2)(b) of that Schedule;
-
-                     (c)  the definition of **_parliamentary allowance_** in clause 1A of that Schedule;
-
-                     (d)  subsection 5(2C) of the _Remuneration Tribunal Act 1973_.
-
-(2)       Despite the repeals and amendments made by this Schedule, those provisions continue in force until the coming into force of the first determination:
-
-                     (a)  that is made under subsection 7(1) of the _Remuneration Tribunal Act 1973_ at or after the commencement of this Schedule; and
-
-                     (b)  that determines the annual allowance payable for the purposes of section 48 of the Constitution.
 
  
