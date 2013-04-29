@@ -1,1928 +1,465 @@
-![](http://www.comlaw.gov.au/Details/C2004C02161/Html/AusLanTraDev88_image001.gif)
+**<b>
 
-# Australian Land Transport Development Act 1988
+### <center><name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - Updated as at 7 February 1994 (#DATE 07:02:1994) </name></center>
+</b>** *1* The Australian Land Transport Development Act 1988 as shown in this reprint comprises Act No. 154, 1988 amended as indicated in the Tables below.<lf>                                  Table of Acts<lf>     Act              Date of            Date of                Application,<lf>     Number           Assent             commencement           saving or<lf>     and year                                                   transitional<lf>                                                                provisions<lf>     Australian Centennial Roads Development Act 1988<lf>     154, 1988        26 Dec 1988        1 Jan 1989<lf>     Transport and Communications Legislation Amendment Act 1989<lf>     29, 1989         22 May 1989        22 May 1989                      -<lf>     Australian Centennial Roads Development Amendment Act 1990<lf>     3, 1991          8 Jan 1991         8 Jan 1991              Ss. 7 (2),<lf>                                                                 12 (2) and<lf>                                                                     14 (2)<lf>     Australian Land Transport Development Amendment Act 1993<lf>     86, 1993         30 Nov 1993        30 Nov 1993                      -<lf>     Transport and Communications Legislation Amendment Act  (No. 2) 1993<lf>     5, 1994          18 Jan 1994        Schedule (items 4-8): (a)        -<lf>       (a) The Australian Land Transport Development Act 1988 was amended by<lf>     the Schedule (items 4-8) only of the Transport and Communications<lf>     Amendment Act (No. 2) 1993, subsections 2 (1) and (9) of which provides<lf>     as follows:<lf>       "(1) Subject to subsections (2) to (10) (inclusive), this Act<lf>     commences on the day on which it receives the Royal Assent.<lf>       "(9) The amendments contained in items 4, 5, 6 and 7 of the Schedule<lf>     are taken to have commenced on 1 July 1992."<lf>                                 Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected   How affected<lf>     Title                rs. No. 5, 1994<lf>     S. 1                 am. No. 3, 1991<lf>     S. 3                 am. No. 3, 1991<lf>     Ss. 7A-7C            ad. No. 3, 1991<lf>     S. 10                am. No. 29, 1989<lf>     Heading to Part II   rep. No. 3, 1991<lf>     Heading to Part 2    ad. No. 3, 1991<lf>     S. 11                am. No. 3, 1991<lf>     S. 12                am. No. 3, 1991; No. 86, 1993<lf>     S. 15                am. No. 3, 1991; No. 5, 1994<lf>     Ss. 17, 18           am. No. 3, 1991<lf>     S. 25                rep. No. 86, 1993<lf>     S. 26                am. No. 3, 1991<lf>     S. 28A               ad. No. 5, 1994<lf>     S. 32                am. No. 3, 1991; No. 5, 1994<lf>     S. 37                rs. No. 3, 1991<lf>     S. 41                ad. No. 3, 1991<lf>     Schedule 2           rs. No. 3, 1991<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-**Act No. 154 of 1988 as amended**
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - TABLE OF PROVISIONS </name>
+</b>** 
 
-Consolidated as in force on 12 March 1999
+## TABLE
+<tables> <tt>                     TABLE OF PROVISIONS<lf> Section<lf>                           PART I - PRELIMINARY<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Interpretation<lf>     4\.    Declaration of national highways<lf>     5\.    Declaration of national arterial roads<lf>     6\.    Declaration of State arterial roads<lf>     7\.    Declaration of interstate mainline railways and approved<lf>           railway authorities<lf>    7A.    Provincial cities and rural highways projects<lf>    7B.    Black spot projects and road safety measures<lf>    7C.    Urban public transport projects<lf>     8\.    Declaration of approved research organisations and approved<lf>           road safety organisations<lf>     9\.    Indexation factor<lf>    10\.    Determination in relation to charge rate<lf>           PART II - AUSTRALIAN LAND TRANSPORT DEVELOPMENT TRUST FUND<lf>    11\.    Establishment of Fund<lf>    12\.    Money to be paid into Fund<lf>    13\.    Special provisions for 1988-89 financial year<lf>    14\.    Indexation of charge rate<lf>    15\.    Application of Fund<lf>    16\.    Limitation of allocations made before 1 July 1989<lf>    17\.    Limitation of allocations made after 30 June 1989<lf>    18\.    Use of funds allocated to projects etc. commenced before the<lf>           commencement of Act<lf>    19\.    Reallocation of funds<lf>    20\.    Funds for State arterial roads reallocated for expenditure on<lf>           capital railway projects<lf>    21\.    Funds for State arterial roads reallocated for expenditure on<lf>           urban public transport projects<lf>    22\.    Time for payments<lf>    23\.    Statement accompanying payment<lf>    24\.    Condition of payment<lf>                PART III - APPROVAL OF PROJECTS AND PROGRAMS<lf>    26\.    Approval of projects and programs<lf>    27\.    Variation of projects etc.<lf>    28\.    Allocations of Fund to local government bodies<lf>                   PART IV - CONDITIONS OF PAYMENTS<lf>   28A.    Manner of application of this Part to different payments from<lf>           Fund<lf>    29\.    Minister may require information to be furnished<lf>    30\.    Statements of expenditure etc. to be furnished<lf>    31\.    Condition relating to expenditure of moneys paid out of Fund<lf>    32\.    Additional conditions with respect to approved projects and<lf>           programs<lf>                        PART V - MISCELLANEOUS<lf>    33\.    Deduction of amounts repayable<lf>    34\.    Money repaid to Commonwealth<lf>    35\.    Appropriation<lf>    36\.    Money deemed to have been expended on national highway<lf>           projects<lf>    37\.    Minister may issue guidelines<lf>    38\.    Standards for national highways<lf>    39\.    Delegations<lf>    40\.    Closing of existing Funds<lf>    41\.    Report by Minister<lf>                               SCHEDULE 1<lf>           LIMITATION OF ALLOCATIONS MADE BEFORE 1 JULY 1989<lf>                               SCHEDULE 2<lf>              LIMITATION OF ALLOCATIONS MADE AFTER 30 JUNE 1989<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-(includes amendments up to Act No. 152 of 1997)
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - LONG TITLE </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+## SECT
+<sect>       An Act to establish a Trust Fund for the purposes of the<lf>        development and maintenance of land transport systems,<lf>                      and for related purposes<lf> </lf></lf></lf></sect>
+**<b>
 
- 
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - PART I  PART I - PRELIMINARY </name>
+</b>** 
+**<b>
 
-# Contents
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 1 Short title </name>
+</b>** 
 
-**Part I—Preliminary**
+## SECT
+<sect>   1\. This Act may be cited as the Australian Land Transport Development Act 1988.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-1             Short title [_see_ Note 1]                                                                        
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 2 Commencement </name>
+</b>** 
 
-2             Commencement                                                                                   
+## SECT
+<sect>   2\. This Act commences on 1 January 1989\. </sect>
+**<b>
 
-3             Interpretation                                                                                      
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 3 Interpretation </name>
+</b>** 
 
-4             Declaration of national highways                                                        
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears:<lf>   "approved organisation" means:<lf>   (a) an approved research organisation; or<lf>   (b) an approved road safety organisation;<lf>   "approved railway authority" means an authority in respect of which a declaration under subsection 7 (3) is in force;<lf>   "approved research organisation" means an organisation in respect of which a declaration under subsection 8 (1) is in force;<lf>   "approved road safety organisation" means an organisation in respect of which a declaration under subsection 8 (2) is in force;<lf>   "capital railway project" means a project by way of capital expenditure in relation to an interstate mainline railway, and includes:<lf>   (a) the construction of an interstate mainline railway; or<lf>   (b) the acquisition of rolling stock for use on an interstate mainline railway;<lf>   "charge rate" means:<lf>   (a) if paragraph (b) does not apply - 4.95 cents per litre; or<lf>   (b) if a determination under section 10 is in force - the rate specified in that determination;<lf>   "construction" in relation to a railway or road, includes:<lf>   (a) the reconstruction or realignment of the railway or road;<lf>   (b) the bringing of the railway or road to a higher standard;<lf>   (c) investigation and associated engineering studies in connection with:<lf>     (i) the construction, reconstruction or realignment of the<lf> railway or road;<lf>     (ii) the bringing of the railway or road to a higher<lf> standard; or<lf>     (iii) the planning of alternative routes for the railway or<lf> road;<lf>   (d) the acquisition of land for the purpose of:<lf>     (i) constructing, reconstructing or realigning the railway<lf> or road; or<lf>     (ii) bringing the railway or road to a higher standard;<lf> and<lf>     (e) the doing of any other thing in relation to a matter specified<lf> in paragraph (a) or (b) approved by the Minister, in writing, for the purposes of this definition;<lf> but does not include the maintenance of the railway or road;<lf>   "existing Fund" means:<lf>   (a) the Australian Bicentennial Road Development Trust Fund established by section 7 of the Australian Bicentennial Road Development Trust Fund Act 1982; or<lf>   (b) the Australian Land Transport Trust Fund established by section 11 of the Australian Land Transport (Financial Assistance) Act 1985;<lf>   "Fund" means the Australian Land Transport Development Trust Fund established by subsection 11 (1);<lf>   "government authority" means:<lf>   (a) a local government body;<lf>   (b) an authority of a State, being an incorporated body but not being a local government body, that is responsible for:<lf>     (i) the construction or maintenance of roads in, or in an<lf> area of, the State; or<lf>     (ii) the provision of railway services over a railway in the<lf> State;<lf>   "indexation factor" means an indexation factor ascertained under subsection 9 (4) or (5);<lf>   "interstate mainline railway" means a railway, or a proposed railway, in respect of which a declaration under subsection 7 (1) is in force;<lf>   "local road" means:<lf>   (a) a road that is not a national highway, a national arterial road or a State arterial road; or<lf>   (b) a path for the use of persons riding bicycles, being a path that is not associated with a road;<lf>   "maintenance", in relation to a road, includes works and repairs to keep the road in a safe and trafficable condition;<lf>   "national arterial road" means a road or proposed road in respect of which a declaration under subsection 5 (1) is in force;<lf>   "national highway" means a road or proposed road in respect of which a declaration under subsection 4 (1) or (2) is in force;<lf>   "organisation" includes an association, authority, body or institution, whether incorporated or unincorporated, and whether or not constituting or forming part of a Department of State of the Commonwealth or of a State;<lf>   "provincial cities and rural highways road" means a road or a proposed road in respect of which a declaration under subsection 7A (1) is in force:<lf>   "railway" includes:<lf>   (a) railway signs;<lf>   (b) railway control equipment;<lf>   (c) railway lighting equipment;<lf>   (d) a bridge or tunnel associated with a railway, including a bridge or tunnel for the use of pedestrians; and<lf>   (e) any other thing associated with a railway approved by the Minister in writing for the purposes of this definition;<lf>   "road" includes:<lf>   (a) a traffic sign;<lf>   (b) traffic control equipment;<lf>   (c) street lighting equipment;<lf>   (d) a vehicular ferry;<lf>   (e) a bridge or tunnel, including a bridge or tunnel for the use of pedestrians;<lf>   (f) a path for the use of persons riding bicycles;<lf>   (g) a ramp provided to facilitate the launching of boats;<lf>   (h) vehicular access from a road to a ramp referred to in paragraph (g); and<lf>   (j) any other thing approved by the Minister in writing for the purposes of this definition;<lf> associated with a road;<lf>   "road user charge" means so much of each amount paid to the Commonwealth as duty of Excise, or duty of Customs, in respect of motor spirit, or diesel fuel, entered for home consumption as is ascertained by multiplying that amount by the amount represented by the formula:<lf>                                   CR<lf>                                   RD<lf> where:<lf>   CR is the charge rate; and<lf>   RD is the rate of duty, expressed in cents per litre, by reference to which the amount paid to the Commonwealth was ascertained;<lf>   "State" includes the Northern Territory or the Australian Capital Territory;<lf>   "State arterial road" means a road, or proposed road, in respect of which a declaration under subsection 6 (1) is in force;<lf>   "urban area" means an area designated for the purposes of the Census taken in the year 1986 as:<lf>   (a) the Sydney Statistical Division;<lf>   (b) the Melbourne Statistical Division;<lf>   (c) the Brisbane Statistical Division;<lf>   (d) the Adelaide Statistical Division;<lf>   (e) the Perth Statistical Division;<lf>   (f) the Greater Hobart Statistical Division;<lf>   (g) the Darwin Statistical Division;<lf>   (h) the Newcastle Statistical District;<lf>   (j) the Wollongong Statistical District;<lf>   (k) the Bathurst-Orange Statistical District;<lf>   (m) the Albury-Wodonga Statistical District;<lf>   (n) the Geelong Statistical District;<lf>   (p) the Ballarat Statistical District;<lf>   (q) the Bendigo Statistical District;<lf>   (r) the Sunshine Coast Statistical District;<lf>   (s) the Bundaberg Statistical District;<lf>   (t) the Rockhampton Statistical District;<lf>   (u) the Mackay Statistical District;<lf>   (w) the Townsville Statistical District;<lf>   (y) the Cairns Statistical District;<lf>   (z) the Gold Coast-Tweed Statistical District;<lf>   (za) the Lanceston Statistical District;<lf>   (zb) the Burnie-Devonport Statistical District;<lf>   (zc) the Canberra-Queanbeyan Statistical District;<lf>   (zd) the Maitland Urban Centre; or<lf>   (ze) the Toowoomba Urban Centre;<lf>   "urban public transport project" means a project in respect of which a declaration under subsection 7C (1) is in force. 
 
-5             Declaration of national arterial roads                                                   
+<lf>   (2) An amount paid by a State to a government authority for a particular purpose and expended by that authority for that purpose shall, for the purposes of this Act, be taken to have been expended by the State for that purpose. <p><lf>   (3) For the purposes of this Act, where an amount is expended by a State or a government authority by way of the payment of wages and an amount of tax is paid by the State or the authority (whether by way of a payment of moneys, the crediting of an account or otherwise) on those wages, being a tax imposed by a law of the State upon employers on wages paid by them, the amount of tax shall be taken to be a part of those wages. <p><lf>   (4) In subsection (3), "wages" includes payments in the nature of wages. <p><lf>   (5) Subject to subsection (3), for the purposes of this Act, money paid or credited by a State to a trust account or other account in the Treasury of the State shall not, merely because of its having been so paid or credited, be taken to have been expended by the State. <p><lf>   (6) Where an approved organisation is, or is part of, a Department of State of a State:<lf>   (a) a reference in this Act to the payment of an amount out of the Fund to the approved organisation is a reference to the payment of the amount out of the Fund to the State by way of the grant of financial assistance;<lf>   (b) a reference in this Act to expenditure by the approved organisation is a reference to expenditure by the State; and<lf>   (c) a reference in this Act to an act or thing done or to be done by the organisation arising out of such a payment or expenditure is a reference to an act or thing done or to be done by the State arising out of such a payment or expenditure. <p><lf>   (7) For the purposes of this Act, a notification or request shall be taken to have been given to a State if it is given to the appropriate Minister of the State. <p><lf>   (8) Unless the contrary intention appears:<lf>   (a) a reference in this Act to a road includes a reference to a part of a road; and<lf>   (b) a reference in this Act to a railway includes a reference to a part of a railway. </lf></lf></lf></p></lf></p></lf></lf></lf></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-6             Declaration of State arterial roads                                                       
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 4 Declaration of national highways </name>
+</b>** 
 
-7             Declaration of interstate mainline railways and approved railway authorities        
+## SECT
+<sect>   4\. (1) The Minister may declare a road in a State that constitutes, or a proposed road in a State that would, if constructed, constitute, a part of the road that, in the opinion of the Minister, is or will be the principal road linking:<lf>   (a) 2 or more State capital cities;<lf>   (b) Brisbane and Cairns; or<lf>   (c) Hobart and Burnie;<lf> to be a national highway for the purposes of this Act. 
 
-7A          Provincial cities and rural highways projects                                      
+<lf>   (2) The Minister may declare a road in a State that constitutes, or a proposed road in a State that would, if constructed, constitute, a road that should, in the opinion of the Minister, be treated, by reason of its national importance, as a national highway for the purposes of this Act to be, for those purposes, a national highway. <p><lf>   (3) A declaration under subsection 4 (1) or (2) of the Australian Land Transport (Financial Assistance) Act 1985 in respect of a road, or a proposed road, in a State, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (1) or (2) of this section, whichever is appropriate. <p><lf>   (4) The Minister may, by declaration, revoke or vary a declaration made, or taken to have been made, under subsection (1) or (2). <p><lf>   (5) The Minister shall cause a copy of a declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State. </lf></p></lf></p></lf></p></lf>
+</lf></lf></lf></lf></sect>
+**<b>
 
-7B          Black spot projects and road safety measures                                  
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 5 Declaration of national arterial roads </name>
+</b>** 
 
-7C          Urban public transport projects                                                        
+## SECT
+<sect>   5\. (1) Where the Minister is satisfied:<lf>   (a) that the construction of a road or of a proposed road in a State will:<lf>     (i) increase the competitiveness of industries producing:<lf>       (A) goods for export; or<lf>       (B) goods that compete with imports on the Australian<lf> market; or<lf>     (ii) facilitate, to a significant extent, travel for tourist<lf> purposes; and<lf>   (b) that the benefits likely to flow from the construction of the road or proposed road justify the incurring of the costs of construction;<lf> the Minister may declare the road or proposed road to be a national arterial road for the purposes of this Act. 
 
-8             Declaration of approved research organisations and approved road safety organisations      
+<lf>   (2) The Minister may, by declaration, revoke or vary a declaration made under subsection (1). <p><lf>   (3) The Minister shall cause a copy of the declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State. </lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-9             Indexation factor                                                                                
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 6 Declaration of State arterial roads </name>
+</b>** 
 
-10           Determination in relation to charge rate                                            
+## SECT
+<sect>   6\. (1) The Minister may declare:<lf>   (a) a road, or a proposed road, in a State:<lf>     (i) that is predominantly associated with an urban area; and<lf>     (ii) that forms part of a network of roads the main function of<lf> which is to carry traffic into or across an urban area or between the localities within an urban area; or<lf>   (b) a road, or a proposed road, in a State:<lf>     (i) that is not in an urban area; and<lf>     (ii) the main function of which is to carry traffic between or<lf> through major regions, closely settled areas, cities or towns;<lf> to be a State arterial road for the purposes of this Act. 
 
-**Part 2—Australian Land Transport Development Reserve**
+<lf>   (2) A declaration under subsection 5 (1) or (2) of the Australian Land Transport (Financial Assistance) Act 1985 in respect of a road, or a proposed road, in a State, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration, made, on the commencement of this Act, under subsection (1) of this section, that the road or proposed road is a State arterial road. <p><lf>   (3) The Minister may, by declaration, revoke or vary a declaration made, or taken to have been made, under subsection (1). <p><lf>   (4) The Minister shall cause a copy of a declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State. </lf></p></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-11           Establishment of Reserve                                                                  
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 7 Declaration of interstate mainline railways and approved railway authorities </name>
+</b>** 
 
-12           Money to be paid into Reserve                                                         
+## SECT
+<sect>   7\. (1) The Minister may declare a railway in a State that constitutes, or a proposed railway in a State that would, if constructed, constitute, a part of:<lf>   (a) the railway that, in the opinion of the Minister, is or will be the principal railway linking 2 State capital cities; or<lf>   (b) any other railway that, in the opinion of the Minister, is of national significance in relation to trade or commerce between the States;<lf> to be an interstate mainline railway for the purposes of this Act. 
 
-14           Indexation of charge rate                                                                    
+<lf>   (2) A declaration under subsection 6 (1) of the Australian Land Transport (Financial Assistance) Act 1985 in respect of a railway, or a proposed railway, in a State, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (1) of this section. <p><lf>   (3) The Minister may declare an authority that provides, or proposes to provide, whether jointly with another authority or otherwise, railway services over an interstate mainline railway to be an approved railway authority for the purposes of this Act. <p><lf>   (4) A declaration under subsection 7 (1) of the Australian Land Transport (Financial Assistance) Act 1985 in respect of an authority, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (3) of this section. <p><lf>   (5) The Minister may, by declaration, revoke or vary a declaration made, or taken to have been made, under subsection (1) or (3). <p><lf>   (6) The Minister shall cause a copy of a declaration made under this section in respect of a railway in a State to be given to:<lf>   (a) the appropriate Minister of the State; or<lf>   (b) the appropriate approved railway authority. <p><lf>   (7) A declaration under subsection (3) and a declaration under subsection (5) relating to an approved railway authority shall be published in the Gazette. </lf></p></lf></lf></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></lf></lf></sect>
+**<b>
 
-15           Application of Reserve                                                                     
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 7A Provincial cities and rural highways projects </name>
+</b>** 
 
-17           Limitation of allocations made after 30 June 1989                            
+## SECT
+<sect>   7A. (1) Where the Minister is satisfied:<lf>   (a) that the construction of a road or a proposed road will yield sufficient economic return to justify the incurring of the costs of construction; and<lf>   (b) that the road or proposed road is not in a State capital city;<lf> the Minister may declare the road or proposed road to be a provincial cities and rural highways road for the purposes of this Act. 
 
-[18           Use of funds allocated to projects etc](#18           Use of funds allocated to projects etc). commenced before the commencement of Act           
+<lf>   (2) The Minister may, by declaration, revoke or vary a declaration made under subsection (1). <p><lf>   (3) The Minister must cause a copy of a declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State. </lf></p></lf>
+</lf></lf></lf></sect>
+**<b>
 
-19           Reallocation of funds                                                                         
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 7B Black spot projects and road safety measures </name>
+</b>** 
 
-20           Funds for State arterial roads reallocated for expenditure on capital railway projects            
+## SECT
+<sect>   7B. (1) If the Minister is satisfied that a part of a road that is not a part of a national highway is a site the nature of which has contributed to serious motor vehicle crashes involving death or personal injury, the Minister may declare the location to be a black spot for the purposes of this Act. 
 
-21           Funds for State arterial roads reallocated for expenditure on urban public transport projects                
+<lf>   (2) The Minister may declare a measure to be a road safety measure for the purposes of this Act if the Minister is satisfied that the implementation of the measure is likely to reduce the incidence of motor vehicle crashes involving death or personal injury. <p><lf>   (3) The Minister may, by declaration, revoke or vary a declaration made under subsection (1) or (2). <p><lf>   (4) The Minister must cause a copy of a declaration made under this section in respect of a part of a road in a State or a measure that relates to a State to be given to the appropriate Minister of the State. </lf></p></lf></p></lf>
+</sect>
+**<b>
 
-22           Time for payments                                                                            
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 7C Urban public transport projects </name>
+</b>** 
 
-23           Statement accompanying payment                                                   
+## SECT
+<sect>   7C. (1) If the Minister is satisfied that a project by way of capital expenditure in a State is likely to result in the reduction of the traffic on, or the wear and tear affecting, any road (including a national arterial road or a State arterial road) in an urban area, or is likely to provide environmentally or socially innovative measures to facilitate public transport, the Minister may declare the project to be an urban public transport project for the purposes of this Act. 
 
-24           Condition of payment                                                                       
+<lf>   (2) The Minister may, by declaration, revoke or vary a declaration made under subsection (1). <p><lf>   (3) The Minister must cause a copy of a declaration made under this section in respect of a project in a State to be given to the appropriate Minister of the State. </lf></p></lf>
+</sect>
+**<b>
 
-**Part III—Approval of projects and programs**
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 8 Declaration of approved research organisations and approved road safety organisations </name>
+</b>** 
 
-26           Approval of projects and programs                                                  
+## SECT
+<sect>   8\. (1) The Minister may declare an organisation that arranges, assists or carries out, or that proposes to arrange, assist or carry out, research in relation to land transport to be an approved research organisation for the purposes of this Act. 
 
-[27           Variation of projects etc](#27           Variation of projects etc).                                                                   
+<lf>   (2) The Minister may declare an organisation that arranges, assists or carries out, or that proposes to arrange, assist or carry out, activities in relation to road safety, to be an approved road safety organisation for the purposes of this Act. <p><lf>   (3) A declaration under subsection 8 (1) or (2) of the Australian Land Transport (Financial Assistance) Act 1985 in respect of an organisation, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (1) or (2) of this section, whichever is appropriate. <p><lf>   (4) The Minister may, by declaration, revoke a declaration made, or taken to have been made, under this section. <p><lf>   (5) A declaration under this section shall be published in the Gazette. </lf></p></lf></p></lf></p></lf>
+</sect>
+**<b>
 
-28           Allocations of Reserve to local government bodies                           
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 9 Indexation factor </name>
+</b>** 
 
-**Part IV—Conditions of payments**
+## SECT
+<sect>   9\. (1) In this section:<lf>   "index number", in relation to a quarter, means the implicit price deflator for gross non-farm product published by the Statistician in respect of that quarter;<lf>   "Statistician" means the Australian Statistician. 
 
-28A        Manner of application of this Part to different payments from Reserve                
+<lf>   (2) Subject to subsection (3), if at any time whether before or after the commencement of this Act, the Statistician has published or publishes an index number in respect of a quarter in substitution for an index number previously published by the Statistician in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this section. <p><lf>   (3) If at any time, whether before or after the commencement of this Act, the Statistician has changed or changes the reference base for the implicit price deflator for gross non-farm product, then, for the purposes of the application of this section after the change, regard shall be had only to index numbers published in terms of the new reference base. <p><lf>   (4) The indexation factor in relation to a financial year referred to in the definition of "guaranteed amount" in subsection 10 (1) is:<lf>   (a) the number, calculated to 3 decimal places, ascertained by dividing:<lf>     (i) in the case of the financial year commencing on 1 July<lf> 1989 - the index number for the December quarter in the year 1988 by the index number for the December quarter in the year 1987; or<lf>     (ii) in the case of the financial year commencing on 1 July<lf> 1990 - the index number for the December quarter in the year 1989 by whichever is the higher of the index numbers for the December quarters in the years 1987 and 1988; or<lf>   (b) if the number so ascertained would, if it were calculated to 4 decimal places, end in a number greater than 4 - the number so ascertained increased by 0.001.<lf> <p><lf>   (5) The indexation factor in relation to a period of 6 months referred to in the definition of "relevant period" in subsection 14 (1) is:<lf>   (a) the number, calculated to 3 decimal places, ascertained by dividing:<lf>     (i) if the relevant period commences on 1 April - the index<lf> number for the last preceding December quarter; or<lf>     (ii) if the relevant period commences on 1 October - the index<lf> number for the last preceding June quarter;<lf> by the highest index number in respect of a December or June quarter that preceded that quarter, not being a December or June quarter that occurred before the December quarter in the year 1987; or<lf>   (b) if the number so ascertained would, if it were calculated to 4 decimal places, end in a number greater than 4 - the number so ascertained increased by 0.001\. </lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></p></lf>
+</lf></lf></sect>
+**<b>
 
-29           Minister may require information to be furnished                            
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 10 Determination in relation to charge rate </name>
+</b>** 
 
-[30           Statements of expenditure etc](#30           Statements of expenditure etc). to be furnished                                 
+## SECT
+<sect>   10\. (1) In this section:<lf>   "guaranteed amount" means:<lf>   (a) in relation to the financial year commencing on 1 July 1989:<lf>     (i) if subparagraph (ii) does not apply - $1,226,000,000; or<lf>     (ii) if the indexation factor in relation to that financial<lf> year is greater than 1 - the amount ascertained by multiplying $1,226,000,000 by that factor; and<lf>   (b) in relation to the financial year commencing on 1 July 1990:<lf>     (i) if subparagraph (ii) does not apply - the amount equal<lf> to the guaranteed amount in relation to the financial year commencing on 1 July 1989; or<lf>     (ii) if the indexation factor in relation to the financial<lf> year commencing on 1 July 1990 is greater than 1 - the amount ascertained by multiplying the amount referred to in subparagraph (i) by that factor. 
 
-31           Condition relating to expenditure of moneys paid out of Reserve    
+<lf>   (2) Subject to subsections (3) and (4), the Minister may, after consultation with the Treasurer, determine in writing, in respect of a financial year, a rate, expressed in cents per litre, for the purposes of the definition of "charge rate" in subsection 3 (1). <p><lf>   (3) If the Minister, having regard to all relevant factors, is satisfied that, but for the making of a determination under this subsection, the sum of the amounts of road user charge likely to be paid into the Fund during the financial year commencing on 1 July 1989 (in this subsection called "the estimated funds") will be less than the guaranteed amount for that financial year, the Minister shall, after consultation with the Treasurer, determine in respect of that financial year, for the purposes of the definition of "charge rate" in subsection 3 (1), a rate, expressed in cents per litre, that will ensure that the estimated funds will not be less than the guaranteed amount for that financial year. <p><lf>   (4) If the Minister, having regard to all relevant factors, is satisfied that, but for the making of a determination under this subsection, the sum of:<lf>   (a) the amount (if any) standing to the credit of the Fund at the end of the financial year ending on 30 June 1990 less any amount paid during that financial year into the Fund under section 34; and<lf>   (b) the amounts of road user charge likely to be paid into the Fund during the financial year commencing on 1 July 1990;<lf> will be less than the guaranteed amount for the last-mentioned financial year, the Minister shall, after consultation with the Treasurer, determine in respect of the last-mentioned financial year, for the purposes of the definition of "charge rate" in subsection 3 (1), a rate, expressed in cents per litre, that will ensure that that sum will not be less than the guaranteed amount for that financial year. <p><lf>   (5) A determination under this section:<lf>   (a) shall be expressed to come, or to have come, into force on the first day of the financial year to which it relates; and<lf>   (b) subject to subsection (6), is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901\. <p><lf>   (6) Paragraph 48 (1) (b) of the Acts Interpretation Act 1901 does not apply in relation to a determination under this section. </lf></p></lf></lf></lf></p></lf></lf></lf></lf></p></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-32           Additional conditions with respect to approved projects and programs                
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - PART II  PART II - AUSTRALIAN LAND TRANSPORT DEVELOPMENT TRUST FUND </name>
+</b>** 
+**<b>
 
-**Part V—Miscellaneous** 
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 11 Establishment of Fund </name>
+</b>** 
 
-33           Deduction of amounts repayable                                                      
+## SECT
+<sect>   11\. (1) There is established a fund to be known as the Australian Land Transport Development Trust Fund. 
 
-34           Money repaid to Commonwealth                                                     
+<lf>   (2) The Fund is a Trust Account for the purposes of section 62A of the Audit Act 1901\. </lf>
+</sect>
+**<b>
 
-36           Money deemed to have been expended on national highway projects 
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 12 Money to be paid into Fund </name>
+</b>** 
 
-37           Minister may issue guidelines                                                           
+## SECT
+<sect>   12\. (1) Subject to subsection (2), there shall be paid into the Fund amounts equal to the amounts of road user charge received by the Commonwealth after the commencement of this Act. 
 
-38           Standards for national highways                                                       
+<lf>   (2) Where the whole or a part of an amount (which whole or part in this subsection is called the "refunded amount") paid as duty of Excise, or duty of Customs, in respect of motor spirit, or diesel fuel, entered for home consumption is, after the commencement of this Act, repaid to a person by the Commonwealth by way of rebate or otherwise, there shall be deducted from the sum of the amounts that would, but for this subsection, be paid into the Fund under subsection (1) an amount ascertained in accordance with the formula:<lf>                        CR  x  RA<lf>                        RD  x  RA<lf> where:<lf>   CR is the charge rate;<lf>   RD is the rate of duty, expressed in cents per litre, by reference to which the refunded amount was ascertained; and<lf>   RA is the refunded amount. <p><lf>   (3) In ascertaining:<lf>   (a) an amount of road user charge for the purposes of subsection (1); or<lf>   (b) a refunded amount for the purposes of subsection (2);<lf> if 2 or more parts of an amount paid as duty were ascertained by reference to different rates of duty, each of those parts shall be taken to be a separate amount so paid. <p><lf>   (3A) In addition to payments made under subsection (1), the Commonwealth is to pay the following amounts into the Fund:<lf>   (a) in relation to the financial year beginning on 1 July 1990 - $178,300,000;<lf>   (b) in relation to the financial year beginning on 1 July 1991 - $168,300,000;<lf>   (c) in relation to the financial year beginning on 1 July 1992 - $158,400,000\. <p><lf>   (4) There shall be paid into the Fund the net income derived from the investment of money standing to the credit of the Fund. </lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-39           Delegations                                                                                        
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 13 Special provisions for 1988-89 financial year </name>
+</b>** 
 
-40           Closing of existing Funds                                                                  
+## SECT
+<sect>   13\. (1) If the sum of:<lf>   (a) the balance standing to the credit of each of the existing Funds at the end of 30 June 1988;<lf>   (b) the amounts paid into the existing Funds after 30 June 1988; and<lf>   (c) the amounts paid into the Fund before 1 July 1989 (other than amounts so paid under section 34);<lf> is less than $1,221,500,000, there shall be paid into the Fund an amount equal to the difference between $1,221,500,000 and the sum of those amounts. 
 
-41           Report by Minister                                                                           
+<lf>   (2) If the sum of the amounts referred to in paragraphs (1) (a), (b) and (c) exceeds $1,221,500,000, there shall be paid out of the Fund and into the Consolidated Revenue Fund an amount equal to the amount of the excess. <p><lf>   (3) The Minister for Finance may make advances to the Fund on account of an amount that may become payable under subsection (1). </lf></p></lf>
+</lf></lf></lf></lf></sect>
+**<b>
 
-**Schedule 1—Limitation of allocations made before 1 July 1989** 
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 14 Indexation of charge rate </name>
+</b>** 
 
-**Schedule 2—Limitation of allocations made after 30 June 1989**
+## SECT
+<sect>   14\. (1) In this section, unless the contrary intention appears:<lf>   "base rate", in relation to a relevant period, means:<lf>   (a) if paragraph (b) does not apply - the charge rate; or<lf>   (b) if, by virtue of an application or applications of this section, this Act has effect immediately before the commencement of the relevant period as if another rate has been substituted for the charge rate - that other rate;<lf>   "relevant period" means:<lf>   (a) the period of 6 months commencing on 1 October 1989;<lf>   (b) each subsequent period of 6 months, being a period earlier than the period commencing on 1 October 1991; and<lf>   (c) each subsequent period of 6 months, being a period after the period commencing on 1 April 1991, that the Minister determines in writing to be a relevant period for the purposes of this section. 
 
-#  
+<lf>   (2) If the indexation factor in relation to a relevant period is greater than 1, this Act has effect, from and including the first day of that period and to and including:<lf>   (a) the last day of that period; or<lf>   (b) the day immediately preceding the day on which a determination under section 10 next comes into force;<lf> whichever is the earlier, as if for the base rate in relation to that period there were substituted a rate calculated by multiplying the base rate by that factor. <p><lf>   (3) Where, by virtue of the application of this section, another rate (in this subsection called the "substituted rate") is substituted for a rate on a particular day, the Minister shall, on or as soon as practicable after that day, publish a notice in the Gazette specifying the substituted rate. </lf></p></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-## An Act to establish a reserve for the purposes of the development and maintenance of land transport systems, and for related purposes
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 15 Application of Fund </name>
+</b>** 
 
-**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+## SECT
+<sect>   15\. (1) Subject to subsection (2) and sections 16, 17, 18 and 19, amounts standing to the credit of the Fund may be paid out of the Fund:<lf>   (a) to a State, by way of the grant of financial assistance to the State, for expenditure by the State on:<lf>     (i) projects for the construction of:<lf>       (A) national highways; or<lf>       (B) national arterial roads;<lf> and programs for the maintenance of national highways, being projects or programs approved under subsection 26 (3);<lf>     (ii) the construction or maintenance of:<lf>       (A) State arterial roads; or<lf>       (B) local roads;<lf>     (iii) capital railway projects and urban public transport projects<lf> approved under subsection 26 (3);<lf>     (iv) projects for the construction of provincial cities and rural<lf> highways roads approved under subsection 26 (3); and<lf>     (v) a project, or program of projects, for:<lf>       (A) the road safety improvement of black spots; or<lf>       (B) the implementation of road safety measures;<lf>   (b) to an approved railway authority for expenditure by the authority on capital railway projects approved under subsection 26 (3);<lf>   (ba) to an approved railway authority for payment as an additional capital contribution in respect of a capital railway project to be undertaken by the authority;<lf>   (c) to an approved research organisation for expenditure by the organisation in arranging, assisting or carrying out programs of research relating to land transport approved under subsection 26 (3); and<lf>   (d) to an approved road safety organisation for expenditure by the organisation in arranging, assisting or carrying out programs of activities relating to road safety approved under subsection 26 (3). 
 
-## Part I—Preliminary
+<lf>   (2) An amount may not be paid out of the Fund to a State in relation to a project or program referred to in subparagraph (1) (a) (v) unless the State has given to the Minister an undertaking that it will implement road safety initiatives identified by the Minister. <p><lf>   (3) An amount is not to be paid out of the Fund to an approved railway authority as an additional capital contribution in respect of a capital railway project to be undertaken by the authority unless:<lf>   (a) in response to an invitation from the Minister under paragraph 26 (1) (c), the authority has submitted to the Minister particulars of the project; and<lf>   (b) if the authority has a corporate plan - the Minister is satisfied that the undertaking of the project by the authority is consistent with the plan; and<lf>   (c) it has been agreed:<lf>     (i) if the authority is incorporated under the Corporations Law of a<lf> State or of an internal Territory and the Commonwealth is a shareholder in the authority - between the other shareholders and the Commonwealth; or<lf>     (ii) in any other case - between the authority and the<lf> Commonwealth;<lf> that shares in the authority having an equivalent nominal value to the payment from the Fund will be issued to the Commonwealth:<lf>     (iii) on payment from the Fund to the authority of all of the<lf> additional capital contributions proposed in respect of that project; or<lf>     (iv) at such later time as is agreed.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 16 Limitation of allocations made before 1 July 1989 </name>
+</b>** 
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+## SECT
+<sect>   16\. (1) The sum of the amounts paid out of the Fund, before 1 July 1989, to the State specified in an item in Schedule 1 by way of the grant of financial assistance for expenditure by the State on the construction and maintenance of arterial roads shall not exceed an amount that, together with:<lf>   (a) the amounts paid, after 30 June 1988, out of the fund established by the Australian Land Transport (Financial Assistance) Act 1985, to the State by way of the grant of financial assistance for expenditure by the State on projects and programs for the construction and maintenance of arterial roads (within the meaning of that Act); and<lf>   (b) the amounts paid, after 30 June 1988, out of the fund established by the Australian Bicentennial Road Development Trust Fund Act 1982, to the State by way of the grant of financial assistance for expenditure by the State on bicentennial road projects for the construction of arterial roads (within the meaning of that Act);<lf> equals the amount specified in column 3 of that item. 
 
-                   This Act may be cited as the _Australian Land Transport Development Act 1988._
+<lf>   (2) The sum of the amounts paid out of the Fund, before 1 July 1989, to the State specified in an item in Schedule 1 by way of the grant of financial assistance for expenditure by the State on the construction and maintenance of local roads shall not exceed an amount that, together with:<lf>   (a) the amounts paid, after 30 June 1988, out of the fund established by the Australian Land Transport (Financial Assistance) Act 1985, to the States by way of the grant of financial assistance for expenditure by the States on the construction and maintenance of local roads (within the meaning of that Act); and<lf>   (b) the amounts paid, after 30 June 1988, out of the fund established by the Australian Bicentennial Road Development Trust Fund Act 1982, to the States by way of the grant of financial assistance for expenditure by the States on bicentennial road projects for the construction of local roads (within the meaning of that Act);<lf> equals the amount specified in column 4 of that item. <p><lf>   (3) The sum of the amounts paid out of the Fund, before 1 July 1989, to approved organisations for expenditure on programs referred to in paragraphs 15 (c) and (d) shall not exceed an amount that, together with the amounts paid, after 30 June 1988, out of the fund established by the Australian Land Transport (Financial Assistance) Act 1985 to approved organisations (within the meaning of that Act) for expenditure on programs referred to in paragraphs 16 (c) and (d) of that Act, equals $6,000,000\. </lf></p></lf></lf></lf></lf>
+</lf></lf></lf></sect>
+**<b>
 
-##### <a id="2"></a>2  Commencement
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 17 Limitation of allocations made after 30 June 1989 </name>
+</b>** 
 
-                   This Act commences on 1 January 1989.
+## SECT
+<sect>   17\. (1) The sum of the amounts paid out of the Fund, after 30 June 1989, to the State specified in an item in Schedule 2 by way of the grant of financial assistance for expenditure by the State on the construction and maintenance of State arterial roads shall not exceed the amount specified in column 3 of that item. 
 
-##### <a id="3"></a>3  Interpretation
+<lf>   (2) The sum of the amounts paid out of the Fund, after 30 June 1989, to the State specified in an item in Schedule 2 by way of the grant of financial assistance for expenditure by the State on the construction and maintenance of local roads shall not exceed an amount equal to the percentage specified in column 4 of that item of the sum of the amounts paid into the Fund under subsection 12 (1) after that date. </lf>
+</sect>
+**<b>
 
-             (1)  In this Act, unless the contrary intention appears:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 18 Use of funds allocated to projects etc. commenced before the commencement of Act </name>
+</b>** 
 
-                    <a name="approved-organis"></a>**_approved organisation_** means:
+## SECT
+<sect>   18\. (1) Where a project or program approved under subsection 26 (3) was commenced before the commencement of this Act, any money paid out of the Fund:<lf>   (a) to a State by way of the grant of financial assistance for expenditure by the State on the project or program; or<lf>   (b) to an authority or organisation for expenditure on the project or program;<lf> may, with the approval of the Minister, be used for the reimbursement of amounts expended before the commencement of this Act by the State, authority or organisation on the project or program. 
 
-                     (a)  an approved research organisation; or
+<lf>   (2) Where a project or program of a kind referred to in paragraph 26 (1) (ba) or (bb) and approved under subsection 26 (3) was commenced before the commencement of the Australian Centennial Roads Development Amendment Act 1990, any money paid out of the Fund:<lf>   (a) to a State by way of the grant of financial assistance for expenditure by the State on the project or program; or<lf>   (b) to an organisation for expenditure on the project or program;<lf> may, with the approval of the Minister, be used for the reimbursement of amounts expended before the commencement of that Act by the State or organisation on the project or program. </lf></lf></lf></lf>
+</lf></lf></lf></sect>
+**<b>
 
-                     (b)  an approved road safety organisation.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 19 Reallocation of funds </name>
+</b>** 
 
-                    <a name="approved-railwai-author"></a>**_approved railway authority_** means an authority in respect of which a declaration under subsection 7(3) is in force.
+## SECT
+<sect>   19\. (1) The Minister may, upon being so requested by a State and being satisfied, having regard to the policies of the Commonwealth in relation to land transport, that it would be desirable to do so, authorise that:<lf>   (a) money paid out of the Fund to the State for expenditure by the State on the construction or maintenance of State arterial roads, not exceeding such amount as is specified by the Minister, be expended by the State on:<lf>     (i) the construction or maintenance of local roads; or<lf>     (ii) projects or programs in respect of national highways, or<lf> projects in respect of national arterial roads, approved under subsection 26 (3); or<lf>   (b) money paid out of the Fund to a State for expenditure by the State on the construction or maintenance of local roads, not exceeding such amount as is specified by the Minister, be expended by the State on the construction or maintenance of State arterial roads. 
 
-                    <a name="approved-research-organis"></a>**_approved research organisation_** means an organisation in respect of which a declaration under subsection 8(1) is in force.
+<lf>   (2) The Minister may, on his or her own motion, authorise that:<lf>   (a) money paid out of the Fund to a State or an approved organisation for expenditure on a particular project or program, not exceeding such amount as is specified by the Minister, be expended by any State or organisation specified by the Minister on another project or program; or<lf>   (b) money paid out of the Fund to a State for expenditure by the State on projects for the construction of national highways or national arterial roads or programs for the maintenance of national highways, not exceeding such amount as is specified by the Minister, be expended by the State on the construction or maintenance of State arterial roads. <p><lf>   (3) Money paid out of the Fund to a State or approved organisation, being money to which an authorisation under subsection (1) or (2) relates, may be spent in accordance with the authorisation but, for the purposes of section 16 or 17 (whichever is applicable), the money shall be taken to have been expended by the State or organisation to which it was originally paid out of the Fund on the purpose for which it was so paid. </lf></p></lf></lf></lf>
+</lf></lf></lf></lf></lf></sect>
+**<b>
 
-                    <a name="approved-road-safeti-organis"></a>**_approved road safety organisation_** means an organisation in respect of which a declaration under subsection 8(2) is in force.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 20 Funds for State arterial roads reallocated for expenditure on capital railway projects </name>
+</b>** 
 
-                    <a name="capit-railwai-project"></a>**_capital railway project_** means a project by way of capital expenditure in relation to an interstate mainline railway, and includes:
+## SECT
+<sect>   20\. (1) Where:<lf>   (a) a State or an approved railway authority in a State has, in accordance with an invitation under subsection 26 (1), submitted particulars of a capital railway project to the Minister; and<lf>   (b) the appropriate Minister for the State satisfies the Minister that it would be desirable, having regard to the policies of the Commonwealth in relation to land transport, that a specified amount standing to the credit of the Fund should be expended on that project instead of being expended on the construction or maintenance by the State of State arterial roads;<lf> the Minister may, on or after approving the project under subsection 26 (3), determine that money standing to the credit of the Fund and earmarked for expenditure on the construction or maintenance of State arterial roads, not exceeding such amount as is specified in the determination, may be paid out of the Fund to the State or approved railway authority for expenditure by the State or authority on the project. 
 
-                     (a)  the construction of an interstate mainline railway; or
+<lf>   (2) Where the Minister makes a determination in relation to a capital railway project, the amounts paid out of the Fund in accordance with the determination shall, for the purposes of section 16 or 17, whichever is applicable, be taken to be amounts paid out of the Fund to the States by way of a grant of financial assistance for expenditure by the State on the construction of a State arterial road. </lf>
+</lf></lf></lf></sect>
+**<b>
 
-                     (b)  the acquisition of rolling stock for use on an interstate mainline railway.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 21 Funds for State arterial roads reallocated for expenditure on urban public transport projects </name>
+</b>** 
 
-                    <a name="charg-rate"></a>**_charge rate_** means:
+## SECT
+<sect>   21\. (1) Where:<lf>   (a) a State has, in accordance with an invitation under subsection 26 (1), submitted particulars of an urban public transport project to the Minister; and<lf>   (b) the appropriate Minister for the State satisfies the Minister that it would be desirable, having regard to the policies of the Commonwealth in relation to land transport, that a specified amount standing to the credit of the Fund should be expended on that project instead of being expended on the construction or maintenance by the State of State arterial roads;<lf> the Minister may, on or after approving the project under subsection 26 (3), determine that money standing to the credit of the Fund and earmarked for expenditure on the construction or maintenance of State arterial roads, not exceeding such amount as is specified in the determination, may be paid out of the Fund to the State for expenditure by the State on the project. 
 
-                     (a)  if paragraph (b) does not apply—4.95 cents per litre; or
+<lf>   (2) Where the Minister makes a determination in relation to an urban public transport project, the amounts paid out of the Fund in accordance with the determination shall, for the purposes of section 16 or 17, whichever is applicable, be taken to be amounts paid out of the Fund to the States by way of a grant of financial assistance for expenditure by the State on the construction of a State arterial road. </lf>
+</lf></lf></lf></sect>
+**<b>
 
-                     (b)  if a determination under section 10 is in force—the rate specified in that determination.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 22 Time for payments </name>
+</b>** 
 
-                    <a name="construct"></a>**_construction_** in relation to a railway or road, includes:
+## SECT
+<sect>   22\. Payments out of the Fund shall be made at such times, and in such amounts, as the Minister approves. </sect>
+**<b>
 
-                     (a)  the reconstruction or realignment of the railway or road;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 23 Statement accompanying payment </name>
+</b>** 
 
-                     (b)  the bringing of the railway or road to a higher standard;
+## SECT
+<sect>   23\. Where a payment is made out of the Fund, the payment shall be accompanied by a statement requiring that the payment, or a specified part of the payment, be expended in arranging, assisting or carrying out:<lf>   (a) a specified project or program approved under subsection 26 (3) or of projects or programs of a specified class approved under that subsection; or<lf>   (b) the construction or maintenance of State arterial roads or local roads. </lf></lf></sect>
+**<b>
 
-                     (c)  investigation and associated engineering studies in connection with:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 24 Condition of payment </name>
+</b>** 
 
-                              (i)  the construction, reconstruction or realignment of the railway or road;
+## SECT
+<sect>   24\. A payment of an amount out of the Fund to a State, authority or approved organisation is subject to the condition that the State, authority or organisation will expend the amount as required by the statement under section 23 that accompanied the payment. </sect>
+**<b>
 
-                             (ii)  the bringing of the railway or road to a higher standard; or
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - PART III  PART III - APPROVAL OF PROJECTS AND PROGRAMS </name>
+</b>** 
+**<b>
 
-                            (iii)  the planning of alternative routes for the railway or road;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 26 Approval of projects and programs </name>
+</b>** 
 
-                     (d)  the acquisition of land for the purpose of:
+## SECT
+<sect>   26\. (1) The Minister may, from time to time:<lf>   (a) direct a State to submit particulars of:<lf>     (i) projects for the construction of national highways; or<lf>     (ii) programs for the maintenance of national highways;<lf> to be undertaken by the State;<lf>   (b) invite a State to submit particulars of:<lf>     (i) projects for the construction of national highways or of<lf> national arterial roads; or<lf>     (ii) programs for the maintenance of national highways;<lf> to be undertaken by the State;<lf>   (ba) invite or direct a State to submit particulars of projects for the construction of provincial cities and rural highways roads;<lf>   (bb) invite or direct a State to submit particulars of projects or programs commenced, or to be commenced, on or after 1 July 1990, for:<lf>     (i) the road safety improvement of black spots; or<lf>     (ii) the implementation of road safety measures;<lf>   (c) invite a State or an approved railway authority to submit particulars of capital railway projects to be undertaken in the State or by the authority, as the case may be;<lf>   (d) invite or direct a State to submit particulars of urban public transport projects or programs to be undertaken in the State;<lf>   (e) invite an approved research organisation to submit particulars of programs of research relating to land transport to be arranged, assisted or carried out by the organisation; and<lf>   (f) invite an approved road safety organisation to submit particulars of programs of activities relating to road safety to be arranged, assisted or carried out by the organisation. 
 
-                              (i)   constructing, reconstructing or realigning the railway or road; or
+<lf>   (2) The Minister may, in a direction or invitation given to a State, authority or organisation under subsection (1), inform the State, authority or organisation that the Minister considers that particulars of a project or program specified in the direction or invitation should be submitted to the Minister in accordance with the direction or invitation. <p><lf>   (3) The Minister may approve a project or program of a kind referred to in subsection (1) where the Minister is satisfied that it is appropriate to do so, whether or not the project or program is one in relation to which particulars have been submitted under subsection (1). <p><lf>   (4) A project or program referred to in subsection (1), (2) or (3) may be:<lf>   (a) a project or program that was commenced, but not completed, before the commencement of this Act; or<lf>   (b) a project or program part of the cost of which it is proposed to meet out of funds obtained otherwise than out of the Fund. <p><lf>   (5) Where a State, authority or organisation submits particulars of a project or program in accordance with a direction or invitation under subsection (1), those particulars shall include an estimate of the cost of the project or program and particulars of any part of that cost proposed to be met out of funds obtained otherwise than out of the Fund. <p><lf>   (6) The Minister shall not approve a project or program under subsection (3) unless the Minister is satisfied:<lf>   (a) that the undertaking of the project or program is consistent with the purposes for which the Fund was established; and<lf>   (b) that, having regard to the costs of projects and programs, and other expenditure to be met by payments out of the Fund, the costs in relation to the project or program that are proposed to be met by payments out of the Fund could be met by such payments made in accordance with section 15\. <p><lf>   (7) The Minister shall not approve, under subsection (3), a project or program for the construction or maintenance of national highways submitted by a State unless the Minister is satisfied that the project or program complies with the requirements set out in any notification given to the State under paragraph 38 (1) (b), (c) or (d) that are applicable in relation to the State. <p><lf>   (8) The Minister shall not approve, under subsection (3), a capital railway project submitted by a State or an approved railway authority unless the Minister is satisfied that:<lf>   (a) the project is likely to result in improvements to the capacity of, or the quality or efficiency of operations in relation to, interstate mainline railways;<lf>   (b) the State or authority has taken such steps to improve its operational or commercial practices as will, in the Minister's opinion, be likely to ensure the early achievement of the benefits of those improvements; and<lf>   (c) in the case of a project submitted by the State - the undertaking of the project will be given priority by the State. </lf></lf></lf></lf></p></lf></p></lf></lf></lf></p></lf></p></lf></lf></lf></p></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-                             (ii)  bringing the railway or road to a higher standard; and
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 27 Variation of projects etc. </name>
+</b>** 
 
-                             (e)  the doing of any other thing in relation to a matter specified in paragraph (a) or (b) approved by the Minister, in writing, for the purposes of this definition;
+## SECT
+<sect>   27\. (1) Subject to subsection (2), the Minister may, in accordance with procedures determined by the Minister:<lf>   (a) approve a variation of a project or program approved under subsection 26 (3);<lf>   (b) approve a variation of the estimated cost of a project or program approved under subsection 26 (3); or<lf>   (c) approve a variation of the costs in relation to a project or program approved under subsection 26 (3) that are to be met by payments out of the Fund. 
 
-but does not include the maintenance of the railway or road.
+<lf>   (2) The Minister shall not approve a variation under subsection (1) if the Minister considers:<lf>   (a) that the approval of the variation would not be consistent with the purposes for which the Fund was established; or<lf>   (b) that, having regard to the cost of projects and programs, and other expenditure to be met by payments out of the Fund, the approval of the variation would result in the costs in relation to a project or program that are to be met by payments out of the Fund being such that they could not be met by payments made in accordance with section 15\. </lf></lf></lf>
+</lf></lf></lf></sect>
+**<b>
 
-                    <a name="existing-fund"></a>**_existing Fund_** means:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 28 Allocations of Fund to local government bodies </name>
+</b>** 
 
-                     (a)  the Australian Bicentennial Road Development Trust Fund established by section 7 of the _Australian Bicentennial Road Development Trust Fund Act 1982_; or
+## SECT
+<sect>   28\. (1) Money expended by a State by way of funding government authorities to carry out the construction or maintenance of local roads shall not be taken to have been expended in accordance with this Act unless the money is allocated by the State between local government bodies and government authorities that are not local government bodies in accordance with:<lf>   (a) where the State has formulated principles for the purposes of this subsection and the Minister has approved those principles - those principles; or<lf>   (b) in any other case - principles determined by the Minister. 
 
-                     (b)  the Australian Land Transport Trust Fund established by section 11 of the _Australian Land Transport (Financial Assistance) Act 1985_.
+<lf>   (2) The Minister shall not determine principles for the purposes of subsection (1) in relation to a State unless and until:<lf>   (a) the appropriate Minister of the State has informed the Minister that the State does not propose to formulate principles for the purposes of that subsection; or<lf>   (b) the Minister has, by notice in writing, requested the appropriate Minister of the State to arrange for the formulation of such principles within a specified time and, within that time, the State has not formulated such principles or has not formulated such principles that the Minister is prepared to approve. <p><lf>   (3) A State may, with the approval of the Minister, vary principles formulated by the State for the purposes of subsection (1).<lf> <p><lf>   (4) The Minister may vary principles determined by the Minister for the purposes of subsection (1). </lf></p></lf></lf></p></lf></lf></lf>
+</lf></lf></sect>
+**<b>
 
-                    <a name="govern-author"></a>**_government authority_** means:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - PART IV  PART IV - CONDITIONS OF PAYMENTS </name>
+</b>** 
+**<b>
 
-                     (a)  a local government body;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 28A Manner of application of this Part to different payments from Fund </name>
+</b>** 
 
-                     (b)  an authority of a State, being an incorporated body but not being a local government body, that is responsible for:
+## SECT
+<sect>   28A. (1) The provisions of this Part apply to all payments from the Fund under paragraph 15 (1) (a), (b), (c) or (d). 
 
-                              (i)  the construction or maintenance of roads in, or in an area of, the State; or
+<lf>   (2) Subject to subsection (3), the provisions of this Part apply in respect of payments from the Fund under paragraph 15 (1) (ba) in respect of projects of approved railway authorities:<lf>   (a) as if, so far as assets acquired under those projects are concerned, paragraph 32 (1) (n) were omitted; and<lf>   (b) as if section 31 and paragraph 32 (1) (p) were omitted. <p><lf>   (3) If an approved railway authority to which payment is made under paragraph 15 (1) (ba) is a company incorporated under the Corporations Law of a State or of an internal Territory, the obligations of the authority and of its directors and of officers under subsection (2) apply only to the extent that those obligations are consistent with obligations of the authority and of its directors and officers under that Corporations Law. </lf></p></lf></lf></lf>
+</sect>
+**<b>
 
-                             (ii)  the provision of railway services over a railway in the State.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 29 Minister may require information to be furnished </name>
+</b>** 
 
-                    <a name="index-factor"></a>**_indexation factor_** means an indexation factor ascertained under subsection 9(4) or (5);
+## SECT
+<sect>   29\. (1) In addition to the conditions specified in any other provision of this Act, a payment of an amount to a State, approved railway authority or approved organisation out of the Fund is subject to the condition that the appropriate Minister of the State, the authority or the organisation, as the case may be, will comply with any requirement made in accordance with subsection (2). 
 
-                    <a name="interst-mainlin-railwai"></a>**_interstate mainline railway_** means a railway, or a proposed railway, in respect of which a declaration under subsection 7(1) is in force.
+<lf>   (2) The Minister may, by notice in writing, require the appropriate Minister of a State, an approved railway authority or an approved organisation to furnish to the Minister, within the time specified in the notice, such information relevant to the operation of, or to a matter arising under, this Act as is specified in the notice. </lf>
+</sect>
+**<b>
 
-                    <a name="local-road"></a>**_local road_** means:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 30 Statements of expenditure etc. to be furnished </name>
+</b>** 
 
-                     (a)  a road that is not a national highway, a national arterial road or a State arterial road; or
+## SECT
+<sect>   30\. (1) In addition to the conditions specified in any other provision of this Act, payment of an amount to a State, approved railway authority or approved organisation out of the Fund is subject to the following conditions:<lf>   (a) that the State, authority or organisation will give to the Minister:<lf>     (i) as soon as practicable after 30 June in each year, a statement,<lf> in accordance with a form approved by the Minister, as to:<lf>       (A) the expenditure by the State, authority or organisation during<lf> that year out of that amount; and<lf>       (B) any sum set aside during that year out of that amount for<lf> expenditure by the State, authority or organisation but not expended during that year; and<lf>     (ii) a report by the appropriate person stating:<lf>       (A) whether the statement is in the form approved by the Minister;<lf>       (B) whether, in the person's opinion, the statement is based on<lf> proper accounts and records;<lf>       (C) whether the statement is in agreement with the accounts and<lf> records; and<lf>       (D) whether, in the person's opinion, the expenditure of money has<lf> been in accordance with this Act;<lf>   (b) that, if the Minister informs the Treasurer of the State or, in the case of an authority or organisation, a responsible officer of the authority or organisation, that the Minister is satisfied that the State, authority or organisation has failed, with respect to that amount, to fulfil the condition specified in paragraph (a), the State, authority or organisation, as the case may be, will repay that amount, or such part of that amount as the Minister specifies, to the Commonwealth. 
 
-                     (b)  a path for the use of persons riding bicycles, being a path that is not associated with a road.
+<lf>   (2) In this section:<lf>   "appropriate person" means;<lf>   (a) in relation to a State or to an authority or organisation whose accounts are required by law to be audited by the Auditor-General of a State - the Auditor-General of the State;<lf>   (b) in relation to an authority or organisation whose accounts are required by law to be audited by the Auditor-General of the Commonwealth - the Auditor-General of the Commonwealth; or<lf>   (c) in any other case - a qualified accountant;<lf>   "qualified accountant" means:<lf>   (a) a person who is registered as a company auditor or a public accountant under a law in force in a State; or<lf>   (b) a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants. </lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-                    <a name="mainten"></a>**_maintenance_**, in relation to a road, includes works and repairs to keep the road in a safe and trafficable condition.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 31 Condition relating to expenditure of moneys paid out of Fund </name>
+</b>** 
 
-                    <a name="nation-arteri-road"></a>**_national arterial road_** means a road or proposed road in respect of which a declaration under subsection 5(1) is in force.
+## SECT
+<sect>   31\. In addition to the conditions specified in any other provision of this Act, a payment to a State, approved railway authority or approved organisation out of the Fund is subject to the condition that, if any amount or amounts paid to the State, authority or organisation out of the Fund has not or have not been wholly expended or otherwise dealt with in accordance with this Act, the State, authority or organisation, as the case may be, will, on demand by the Minister, pay to the Commonwealth an amount specified by the Minister, being an amount not exceeding so much of the sum of the amount or amounts so paid to the State, authority or organisation as has not been so expended or otherwise dealt with. </sect>
+**<b>
 
-                    <a name="nation-highwai"></a>**_national highway_** means a road or proposed road in respect of which a declaration under subsection 4(1) or (2) is in force.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 32 Additional conditions with respect to approved projects and programs </name>
+</b>** 
 
-                    <a name="organis"></a>**_organisation_** includes an association, authority, body or institution, whether incorporated or unincorporated, and whether or not constituting or forming part of a Department of State of the Commonwealth or of a State.
+## SECT
+<sect>   32\. (1) In addition to the conditions specified in any other provision of this Act, a payment of an amount to a State or approved railway authority out of the Fund is subject to the following conditions:<lf>   (a) in the case of a State - that, where amounts paid to the State are required by virtue of this Act to be expended on the carrying out of:<lf>     (i) a project for the construction of a national highway, or of a<lf> national arterial road (other than a national arterial road the construction of which was commenced before the commencement of this Act) or of a provincial cities and rural highways road (other than a provincial cities and rural highways road the construction of which was commenced before the commencement of the Australian Centennial Roads Development Amendment Act 1990), being a project that will involve:<lf>       (A) the construction, reconstruction or realignment of the road;<lf> or<lf>       (B) the bringing of the road to a higher standard; or<lf>     (ii) a program for the maintenance of a national highway, being a<lf> program involving works the estimated cost of which exceeds $2,000,000 and that have been declared, in writing, by the Minister to be works in relation to which tenders are to be called;<lf> the State will invite, and deal with, tenders for particular works involved in the activities referred to in sub-subparagraph (i) (A) or (B) or in the works referred to in subparagraph (ii), other than exempt works of the State, in accordance with procedures approved by the Minister;<lf>   (b) that, where amounts paid to the State or authority are required by virtue of this Act to be expended in relation to a capital railway project or an urban public transport project, being a project that will involve the performance of works, or the purchase of goods, for which it is appropriate to invite tenders, the State or authority will invite, and deal with, tenders for those works or goods in accordance with procedures approved by the Minister;<lf>   (c) in the case of a State - that the State will, if requested by the Minister to do so, enter into an arrangement with the Minister for the setting up of a committee of persons representing both the Minister and the appropriate Minister of the State to carry out planning and give advice to both Ministers in connection with this Act in so far as it relates to the State;<lf>   (d) that the State or authority will ensure that signs are displayed and maintained in accordance with requirements notified to the State or authority from time to time by the Minister, being signs that indicate that a project or program or the construction or maintenance of a road is being or has been funded by the Commonwealth;<lf>   (e) that the State or authority will ensure that such other recognition of the extent to which a project or program or the construction or maintenance of a road is being or has been funded by the Commonwealth will be given by the State or authority in accordance with requirements notified to the State or authority from time to time by the Minister;<lf>   (f) in the case of a State - that the State will comply with such requirements as are notified to the State from time to time by the Minister prohibiting (either unconditionally or subject to a condition requiring the Minister's approval to be given) the display of signs (other than traffic signs) near national highways, or national arterial roads, in respect of which any payment has been made out of the Fund;<lf>   (g) in the case of a State - that, where the amounts paid to the State are required by virtue of this Act to be expended on projects for the construction of national highways, the State will give to the Minister as soon as practicable after 30 June in each year, a certificate by a person approved by the Minister for the purposes of this paragraph certifying that, in the opinion of the person, work that has been carried out during that year on those projects has been carried out in accordance with the standards (if any) applicable to that work in accordance with section 38;<lf>   (h) in the case of a State - that the State will:<lf>     (i) develop and implement quality systems for the purposes of<lf> projects and programs relating to national highways (including pavement management systems), national arterial roads, or provincial cities and rural highways roads; and<lf>     (ii) permit, at all reasonable times, a person authorised by the<lf> Minister to assess or monitor those systems and inspect any records, documents or other information that the person may reasonably request to inspect for that purpose;<lf>   (j) that the State or authority will, at all reasonable times, permit a person authorised by the Minister:<lf>     (i) to inspect any work involved in the carrying out of a project or<lf> program approved under subsection 26 (3); and<lf>     (ii) to inspect and make copies of, or take extracts from, any<lf> plans, designs, tenders, records or other documents relating to a project or program approved under subsection 26 (3);<lf>   (k) in the case of a State - that the State will make satisfactory provision for:<lf>     (i) the maintenance of the national arterial roads in the State; and<lf>     (ii) the provision and maintenance of roads connecting the national<lf> highways and national arterial roads in the State with other roads in the State;<lf>   (m) in the case of a State - that the State will not, without the written consent of the Minister, cause or permit a toll or fee to be charged for the right to travel in a vehicle on or over a road that is, or any part of which is, a national highway, or a national arterial road, or a provincial cities and rural highways road, in respect of which any payment has been made out of the Fund;<lf>   (n) if an asset acquired by the State or approved railway authority or by a government authority that is not a local government body for a purpose in respect of which an amount was paid to the State or approved railway authority:<lf>     (i) out of the Fund;<lf>     (ii) out of an existing Fund; or<lf>     (iii) under the States Grants (Roads) Act 1977, the Roads Grants Act<lf> 1980 or the Roads Grants Act 1981;<lf> or any interest in such an asset, is sold or otherwise disposed of after the commencement of this Act, the State or approved railway authority will either pay to the Commonwealth an amount equal to the proceeds of the sale or disposal or to the market value of the asset, whichever is the higher, or ensure that those proceeds are expended:<lf>     (iv) in the case of a State - on the construction or maintenance of<lf> roads or on capital railway projects; or<lf>     (v) in the case of an approved railway authority - on capital<lf> railway projects;<lf>   (na) in the case of a State - that, where amounts paid to the State are required by virtue of this Act to be expended on the carrying out of a project or program for:<lf>     (i) the road safety improvement of black spots; or<lf>     (ii) road safety measures;<lf> the State will give to the Minister an undertaking that it will implement road safety initiatives identified by the Minister;<lf>   (p) that, if the Minister informs the Treasurer of the State or, in the case of an authority, a responsible officer of the authority, that the Minister is satisfied that the State or authority has failed to fulfil a condition specified in a preceding paragraph of this subsection or in section 29, the State or authority will repay to the Commonwealth the amount paid to it, or such part of that amount as the Minister specifies. 
 
-                    <a name="provinci-citi-rural-highwai-road"></a>**_provincial cities and rural highways road_** means a road or a proposed road in respect of which a declaration under subsection 7A(1) is in force.
+<lf>   (2) In this section "exempt works", in relation to a State, means:<lf>   (a) works determined by the Minister to be works the whole of which:<lf>     (i) are urgently required by reason of an emergency;<lf>     (ii) are of such a minor nature that the invitation of tenders for<lf> those works would involve undue additional cost;<lf>     (iii) are of a kind for which it is not practicable to prepare<lf> adequate tender specifications; or<lf>     (iv) are of a kind for which competitive tenders are unlikely to be<lf> received; or<lf>   (b) works carried out by a public utility. <p><lf>   (3) Paragraph 32 (1) (n) does not apply:<lf>   (a) to the sale or other disposal to the National Rail Corporation Limited of an asset; or<lf>   (b) to the granting to the National Rail Corporation Limited of a lease of an asset having a term of at least 20 years;<lf> in accordance with subclause 5 (5) of the Agreement set out in the Schedule to the National Rail Corporation Agreement Act 1992\. </lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-                    <a name="railwai"></a>**_railway_** includes:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - PART V  PART V - MISCELLANEOUS </name>
+</b>** 
+**<b>
 
-                     (a)  railway signs;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 33 Deduction of amounts repayable </name>
+</b>** 
 
-                     (b)  railway control equipment;
+## SECT
+<sect>   33\. The Minister may deduct from an amount payable out of the Fund to a State, authority or organisation any amount repayable by the State, authority or organisation under:<lf>   (a) this Act;<lf>   (b) the Australian Bicentennial Road Development Trust Fund Act 1982;<lf>   (c) the Australian Land Transport (Financial Assistance) Act 1985\. </lf></lf></lf></sect>
+**<b>
 
-                     (c)  railway lighting equipment;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 34 Money repaid to Commonwealth </name>
+</b>** 
 
-                     (d)  a bridge or tunnel associated with a railway, including a bridge or tunnel for the use of pedestrians; and
+## SECT
+<sect>   34\. (1) Any money repaid to the Commonwealth by a State, approved railway authority or approved organisation under this Act shall be paid into the Fund. 
 
-                     (e)  any other thing associated with a railway approved by the Minister in writing for the purposes of this definition.
+<lf>   (2) Any money paid to the Commonwealth pursuant to paragraph 32 (1) (n) shall be taken to be money repaid to the Commonwealth for the purposes of subsection (1). </lf>
+</sect>
+**<b>
 
-                    <a name="reserv"></a>**_Reserve_** means the Australian Land Transport Reserve established by section 11.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 35 Appropriation </name>
+</b>** 
 
-                    <a name="road"></a>**_road_** includes:
+## SECT
+<sect>   35\. Amounts payable into the Fund under subsection 12 (1) or section 13 are payable out of the Consolidated Revenue Fund, which is appropriated accordingly. </sect>
+**<b>
 
-                     (a)  a traffic sign;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 36 Money deemed to have been expended on national highway projects </name>
+</b>** 
 
-                     (b)  traffic control equipment;
+## SECT
+<sect>   36\. (1) Subject to subsection (2), a State may, for the purposes of this Act, treat money expended by the State, in a financial year, for the purpose of meeting administrative costs incurred directly in connection with the construction or maintenance of national highways in the State, not being administrative costs incurred in respect of particular works involved in the carrying out of any project or program approved under subsection 26 (3), as having been expended in that year by the State on such a project or program. 
 
-                     (c)  street lighting equipment;
+<lf>   (2) Money treated as having been expended on a project or program in a year by virtue of subsection (1):<lf>   (a) shall not include any money treated, by virtue of that subsection, as having been expended on any other project or program; and<lf>   (b) shall not exceed, in the aggregate, 4% of the money otherwise expended on that project or program since its commencement. </lf></lf></lf>
+</sect>
+**<b>
 
-                     (d)  a vehicular ferry;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 37 Minister may issue guidelines </name>
+</b>** 
 
-                     (e)  a bridge or tunnel, including a bridge or tunnel for the use of pedestrians;
+## SECT
+<sect>   37\. (1) The Minister may:<lf>   (a) after consultation with each of the States, determine guidelines for the distribution by each State to government authorities in the State of money paid out of the Fund in accordance with this Act for expenditure by the State on the construction or maintenance of State arterial roads; and<lf>   (b) determine guidelines for the administration of programs or projects approved under subsection 26 (3). 
 
-                      (f)  a path for the use of persons riding bicycles;
+<lf>   (2) The States must comply with those guidelines. </lf>
+</lf></lf></sect>
+**<b>
 
-                     (g)  a ramp provided to facilitate the launching of boats;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 38 Standards for national highways </name>
+</b>** 
 
-                     (h)  vehicular access from a road to a ramp referred to in paragraph (g); and
+## SECT
+<sect>   38\. (1) For the purpose of ensuring that this Act is conducive to the construction and maintenance of national highways that are of an adequate standard, the Minister may, from time to time:<lf>   (a) request a State to furnish such information as the Minister specifies relating to the use or likely use of national highways, including the effect on the likely use of national highways of works that the State is carrying out or proposes to carry by way of the construction or maintenance of other roads in the State;<lf>   (b) after consultation with a State, notify to the State works, or classes of works, by way of the construction or maintenance of the national highways in the State that the Minister considers necessary to be carried out;<lf>   (c) notify to a State the order in which the Minister considers that works in connection with national highways in the State should be carried out; and<lf>   (d) notify to a State standards, applicable either generally or otherwise as specified in the notification, that the Minister considers necessary to be observed in connection with the construction or maintenance of national highways. 
 
-                      (j)  any other thing approved by the Minister in writing for the purposes of this definition;
+<lf>   (2) The Minister may revoke or vary a request or notification given under subsection (1). </lf>
+</lf></lf></lf></lf></sect>
+**<b>
 
-associated with a road.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 39 Delegations </name>
+</b>** 
 
-                    <a name="road-user-charg"></a>**_road user charge_** means so much of each amount paid to the Commonwealth as duty of Excise, or duty of Customs, in respect of motor spirit, or diesel fuel, entered for home consumption as is ascertained by multiplying that amount by the amount represented by the formula:
+## SECT
+<sect>   39\. The Minister may, by signed instrument, delegate to an officer of the Australian Public Service all or any of his or her powers or functions under sections 22, 26, 27 and 29, paragraphs 32 (1) (d), (e), (h) and (j), subsection 32 (2) and section 38\. </sect>
+**<b>
 
-where:
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 40 Closing of existing Funds </name>
+</b>** 
 
-                    <a name="cr"></a>**_CR_** is the charge rate; and
+## SECT
+<sect>   40\. (1) In spite of anything to the contrary contained in the Australian Bicentennial Road Development Trust Fund Act 1982 or in the Australian Land Transport (Financial Assistance) Act 1985:<lf>   (a) after the commencement of this Act:<lf>     (i) no payment shall be made into an existing Fund:<lf>       (A) under subsection 8 (1) of the Australian Bicentennial Road<lf> Development Trust Fund Act 1982; or<lf>       (B) under subsection 12 (1) of the Australian Land Transport<lf> (Financial Assistance) Act 1985; and<lf>     (ii) no payment shall be made out of an existing Fund otherwise than<lf> in accordance with this section;<lf>   (b) the existing Funds shall be closed at the end of:<lf>     (i) 30 April 1989; or<lf>     (ii) if an earlier date is determined, by notice published in the<lf> Gazette, by the Minister for the purposes of this paragraph - that earlier date;<lf>   (c) any money standing to the credit of an existing Fund at any time after the commencement of this Act and before the closing of that fund shall, subject to subsection (2), be paid out to the States and approved organisations in such manner and for such purposes as the Minister determines;<lf>   (d) after the existing Funds are closed, any money that, but for this subsection would have been repaid to the Commonwealth under one of those Acts shall be paid into the Fund; and<lf>   (e) any money paid out of an existing Fund to a State or authority under this section shall, except where the Minister otherwise determines, be expended by the State or authority before 1 July 1989\. 
 
-                    <a name="rd"></a>**_RD_** is the rate of duty, expressed in cents per litre, by reference to which the amount paid to the Commonwealth was ascertained.
+<lf>   (2) Where, before the commencement of this Act:<lf>   (a) a project for the construction, or a program for the maintenance, of a national road or a capital railway project had been approved under subsection 26 (3) of the Australian Land Transport (Financial Assistance) Act 1985; or<lf>   (b) a project by way of capital expenditure in relation to an urban public transport system in a State had been approved under subsection 17 (3) of the Australian Bicentennial Road Development Trust Fund Act 1982;<lf> any money that, but for this section, would, after the commencement of this Act, have been paid out of an existing Fund for expenditure on that project or program may only be expended on a project or program approved by the Minister. </lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-                    <a name="state"></a>**_State_** includes the Northern Territory or the Australian Capital Territory.
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SECT 41 Report by Minister </name>
+</b>** 
 
-                    <a name="state-arteri-road"></a>**_State arterial road_** means a road, or proposed road, in respect of which a declaration under subsection 6(1) is in force.
+## SECT
+<sect>   41\. (1) The Minister shall, as soon as practicable after 30 June in each year, cause a report to be laid before each House of the Parliament setting out details of the operation of the Land Transport Fund including:<lf>   (a) the moneys paid into the Fund;<lf>   (b) the moneys paid out of the Fund;<lf>   (c) a description of the progress made on all programs during the year under report;<lf>   (d) a description of the progress made on all approved national highways, national arterial roads, urban public transport and provincial cities and rural highways projects during the year under report; and<lf>   (e) the principles on which the allocation of funds for local roads were made. 
 
-                    <a name="urban-area"></a>**_urban area_** means an area designated for the purposes of the Census taken in the year 1986 as:
+<lf>   (2) The report referred to in subsection (1) is to provide details of all payments made during each year in respect of each land transport project and the total cumulative amount of payments made in respect of each land transport project irrespective of when such payments were made. </lf>
+</lf></lf></lf></lf></lf></sect>
+**<b>
 
-                     (a)  the Sydney Statistical Division;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SCHEDULE 1 </name>
+</b>** 
 
-                     (b)  the Melbourne Statistical Division;
+## SCH
+<sch>                            SCHEDULE 1                     Section 16<lf>            LIMITATION OF ALLOCATIONS MADE BEFORE 1 JULY 1989<lf> Column 1   Column 2             Column 3          Column 4<lf> Item No.   States               Amount - State    Amount - local<lf>                                 arterial roads    roads<lf>                                 $                 $<lf>  1         New South Wales      86,800,000        77,000,000<lf>  2         Victoria             68,600,000        54,500,000<lf>  3         Queensland           60,600,000        52,100,000<lf>  4         Western Australia    43,500,000        38,300,000<lf>  5         South Australia      21,500,000        20,900,000<lf>  6         Tasmania             11,900,000        13,400,000<lf>  7         Northern Territory    2,700,000        12,300,000<lf>  8         Australian Capital<lf>            Territory             2,500,000         4,000,000<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
 
-                     (c)  the Brisbane Statistical Division;
+### <name>AUSTRALIAN LAND TRANSPORT DEVELOPMENT ACT 1988 - SCHEDULE 2 </name>
+</b>** 
 
-                     (d)  the Adelaide Statistical Division;
-
-                     (e)  the Perth Statistical Division;
-
-                      (f)  the Greater Hobart Statistical Division;
-
-                     (g)  the Darwin Statistical Division;
-
-                     (h)  the Newcastle Statistical District;
-
-                      (j)  the Wollongong Statistical District;
-
-                     (k)  the Bathurst-Orange Statistical District;
-
-                    (m)  the Albury-Wodonga Statistical District;
-
-                     (n)  the Geelong Statistical District;
-
-                     (p)  the Ballarat Statistical District;
-
-                     (q)  the Bendigo Statistical District;
-
-                      (r)  the Sunshine Coast Statistical District;
-
-                      (s)  the Bundaberg Statistical District;
-
-                      (t)  the Rockhampton Statistical District;
-
-                     (u)  the Mackay Statistical District;
-
-                    (w)  the Townsville Statistical District;
-
-                     (y)  the Cairns Statistical District;
-
-                      (z)  the Gold Coast-Tweed Statistical District;
-
-                    (za)  the Launceston Statistical District;
-
-                    (zb)  the Burnie-Devonport Statistical District;
-
-                    (zc)  the Canberra-Queanbeyan Statistical District;
-
-                    (zd)  the Maitland Urban Centre; or
-
-                    (ze)  the Toowoomba Urban Centre.
-
-                    <a name="urban-public-transport-project"></a>**_urban public transport project_** means a project in respect of which a declaration under subsection 7C(1) is in force.
-
-             (2)  An amount paid by a State to a government authority for a particular purpose and expended by that authority for that purpose shall, for the purposes of this Act, be taken to have been expended by the State for that purpose.
-
-             (3)  For the purposes of this Act, where an amount is expended by a State or a government authority by way of the payment of wages and an amount of tax is paid by the State or the authority (whether by way of a payment of moneys, the crediting of an account or otherwise) on those wages, being a tax imposed by a law of the State upon employers on wages paid by them, the amount of tax shall be taken to be a part of those wages.
-
-             (4)  In subsection (3), **_wages_** includes payments in the nature of wages.
-
-             (5)  Subject to subsection (3), for the purposes of this Act, money paid or credited by a State to a trust account or other account in the Treasury of the State shall not, merely because of its having been so paid or credited, be taken to have been expended by the State.
-
-             (6)  Where an approved organisation is, or is part of, a Department of State of a State:
-
-                     (a)  a reference in this Act to the payment of an amount out of the Reserve to the approved organisation is a reference to the payment of the amount out of the Reserve to the State by way of the grant of financial assistance;
-
-                     (b)  a reference in this Act to expenditure by the approved organisation is a reference to expenditure by the State; and
-
-                     (c)  a reference in this Act to an act or thing done or to be done by the organisation arising out of such a payment or expenditure is a reference to an act or thing done or to be done by the State arising out of such a payment or expenditure.
-
-             (7)  For the purposes of this Act, a notification or request shall be taken to have been given to a State if it is given to the appropriate Minister of the State.
-
-             (8)  Unless the contrary intention appears:
-
-                     (a)  a reference in this Act to a road includes a reference to a part of a road; and
-
-                     (b)  a reference in this Act to a railway includes a reference to a part of a railway.
-
-##### <a id="4"></a>4  Declaration of national highways
-
-             (1)  The Minister may declare a road in a State that constitutes, or a proposed road in a State that would, if constructed, constitute, a part of the road that, in the opinion of the Minister, is or will be the principal road linking:
-
-                     (a)  2 or more State capital cities;
-
-                     (b)  Brisbane and Cairns; or
-
-                     (c)  Hobart and Burnie;
-
-to be a national highway for the purposes of this Act.
-
-             (2)  The Minister may declare a road in a State that constitutes, or a proposed road in a State that would, if constructed, constitute, a road that should, in the opinion of the Minister, be treated, by reason of its national importance, as a national highway for the purposes of this Act to be, for those purposes, a national highway.
-
-             (3)  A declaration under subsection 4(1) or (2) of the _Australian Land Transport (Financial Assistance) Act 1985_ in respect of a road, or a proposed road, in a State, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (1) or (2) of this section, whichever is appropriate.
-
-             (4)  The Minister may, by declaration, revoke or vary a declaration made, or taken to have been made, under subsection (1) or (2).
-
-             (5)  The Minister shall cause a copy of a declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State.
-
-##### <a id="5"></a>5  Declaration of national arterial roads
-
-             (1)  Where the Minister is satisfied:
-
-                     (a)  that the construction of a road or of a proposed road in a State will:
-
-                              (i)  increase the competitiveness of industries producing:
-
-                                        (A)  goods for export; or
-
-                                        (B)  goods that compete with imports on the Australian market; or
-
-                             (ii)  facilitate, to a significant extent, travel for tourist purposes; and
-
-                     (b)  that the benefits likely to flow from the construction of the road or proposed road justify the incurring of the costs of construction;
-
-the Minister may declare the road or proposed road to be a national arterial road for the purposes of this Act.
-
-             (2)  The Minister may, by declaration, revoke or vary a declaration made under subsection (1).
-
-             (3)  The Minister shall cause a copy of the declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State.
-
-##### <a id="6"></a>6  Declaration of State arterial roads
-
-             (1)  The Minister may declare:
-
-                     (a)  a road, or a proposed road, in a State:
-
-                              (i)  that is predominantly associated with an urban area; and
-
-                             (ii)  that forms part of a network of roads the main function of which is to carry traffic into or across an urban area or between the localities within an urban area; or
-
-                     (b)  a road, or a proposed road, in a State:
-
-                              (i)  that is not in an urban area; and
-
-                             (ii)  the main function of which is to carry traffic between or through major regions, closely settled areas, cities or towns;
-
-to be a State arterial road for the purposes of this Act.
-
-             (2)  A declaration under subsection 5(1) or (2) of the _Australian Land Transport (Financial Assistance) Act 1985_ in respect of a road, or a proposed road, in a State, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration, made, on the commencement of this Act, under subsection (1) of this section, that the road or proposed road is a State arterial road.
-
-             (3)  The Minister may, by declaration, revoke or vary a declaration made, or taken to have been made, under subsection (1).
-
-             (4)  The Minister shall cause a copy of a declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State.
-
-##### <a id="7"></a>7  Declaration of interstate mainline railways and approved railway authorities
-
-             (1)  The Minister may declare a railway in a State that constitutes, or a proposed railway in a State that would, if constructed, constitute, a part of:
-
-                     (a)  the railway that, in the opinion of the Minister, is or will be the principal railway linking 2 State capital cities; or
-
-                     (b)  any other railway that, in the opinion of the Minister, is of national significance in relation to trade or commerce between the States;
-
-to be an interstate mainline railway for the purposes of this Act.
-
-             (2)  A declaration under subsection 6(1) of the _Australian Land Transport (Financial Assistance) Act 1985_ in respect of a railway, or a proposed railway, in a State, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (1) of this section.
-
-             (3)  The Minister may declare an authority that provides, or proposes to provide, whether jointly with another authority or otherwise, railway services over an interstate mainline railway to be an approved railway authority for the purposes of this Act.
-
-             (4)  A declaration under subsection 7(1) of the _Australian Land Transport (Financial Assistance) Act 1985_ in respect of an authority, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (3) of this section.
-
-             (5)  The Minister may, by declaration, revoke or vary a declaration made, or taken to have been made, under subsection (1) or (3).
-
-             (6)  The Minister shall cause a copy of a declaration made under this section in respect of a railway in a State to be given to:
-
-                     (a)  the appropriate Minister of the State; or
-
-                     (b)  the appropriate approved railway authority.
-
-             (7)  A declaration under subsection (3) and a declaration under subsection (5) relating to an approved railway authority shall be published in the _Gazette_.
-
-##### <a id="7A"></a>7A  Provincial cities and rural highways projects
-
-             (1)  Where the Minister is satisfied:
-
-                     (a)  that the construction of a road or a proposed road will yield sufficient economic return to justify the incurring of the costs of construction; and
-
-                     (b)  that the road or proposed road is not in a State capital city;
-
-the Minister may declare the road or proposed road to be a provincial cities and rural highways road for the purposes of this Act.
-
-             (2)  The Minister may, by declaration, revoke or vary a declaration made under subsection (1).
-
-             (3)  The Minister must cause a copy of a declaration made under this section in respect of a road, or a proposed road, in a State to be given to the appropriate Minister of the State.
-
-##### <a id="7B"></a>7B  Black spot projects and road safety measures
-
-             (1)  If the Minister is satisfied that a part of a road that is not a part of a national highway is a site the nature of which has contributed to serious motor vehicle crashes involving death or personal injury, the Minister may declare the location to be a black spot for the purposes of this Act.
-
-             (2)  The Minister may declare a measure to be a road safety measure for the purposes of this Act if the Minister is satisfied that the implementation of the measure is likely to reduce the incidence of motor vehicle crashes involving death or personal injury.
-
-             (3)  The Minister may, by declaration, revoke or vary a declaration made under subsection (1) or (2).
-
-             (4)  The Minister must cause a copy of a declaration made under this section in respect of a part of a road in a State or a measure that relates to a State to be given to the appropriate Minister of the State.
-
-##### <a id="7C"></a>7C  Urban public transport projects
-
-             (1)  If the Minister is satisfied that a project by way of capital expenditure in a State is likely to result in the reduction of the traffic on, or the wear and tear affecting, any road (including a national arterial road or a State arterial road) in an urban area, or is likely to provide environmentally or socially innovative measures to facilitate public transport, the Minister may declare the project to be an urban public transport project for the purposes of this Act.
-
-             (2)  The Minister may, by declaration, revoke or vary a declaration made under subsection (1).
-
-             (3)  The Minister must cause a copy of a declaration made under this section in respect of a project in a State to be given to the appropriate Minister of the State.
-
-##### <a id="8"></a>8  Declaration of approved research organisations and approved road safety organisations
-
-             (1)  The Minister may declare an organisation that arranges, assists or carries out, or that proposes to arrange, assist or carry out, research in relation to land transport to be an approved research organisation for the purposes of this Act.
-
-             (2)  The Minister may declare an organisation that arranges, assists or carries out, or that proposes to arrange, assist or carry out, activities in relation to road safety, to be an approved road safety organisation for the purposes of this Act.
-
-             (3)  A declaration under subsection 8(1) or (2) of the _Australian Land Transport (Financial Assistance) Act 1985_ in respect of an organisation, being a declaration that was in force immediately before the commencement of this Act, shall, for the purposes of this Act, be taken to be a declaration made, on the commencement of this Act, under subsection (1) or (2) of this section, whichever is appropriate.
-
-             (4)  The Minister may, by declaration, revoke a declaration made, or taken to have been made, under this section.
-
-             (5)  A declaration under this section shall be published in the _Gazette_.
-
-##### <a id="9"></a>9  Indexation factor
-
-             (1)  In this section:
-
-                    <a name="index-number"></a>**_index number_**, in relation to a quarter, means the implicit price deflator for gross non-farm product published by the Statistician in respect of that quarter.
-
-                    <a name="statistician"></a>**_Statistician_** means the Australian Statistician.
-
-             (2)  Subject to subsection (3), if at any time whether before or after the commencement of this Act, the Statistician has published or publishes an index number in respect of a quarter in substitution for an index number previously published by the Statistician in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this section.
-
-             (3)  If at any time, whether before or after the commencement of this Act, the Statistician has changed or changes the reference base for the implicit price deflator for gross non-farm product, then, for the purposes of the application of this section after the change, regard shall be had only to index numbers published in terms of the new reference base.
-
-             (4)  The indexation factor in relation to a financial year referred to in the definition of **_guaranteed amount_** in subsection 10(1) is:
-
-                     (a)  the number, calculated to 3 decimal places, ascertained by dividing:
-
-                              (i)  in the case of the financial year commencing on 1 July 1989—the index number for the December quarter in the year 1988 by the index number for the December quarter in the year 1987; or
-
-                             (ii)  in the case of the financial year commencing on 1 July 1990—the index number for the December quarter in the year 1989 by whichever is the higher of the index numbers for the December quarters in the years 1987 and 1988; or
-
-                     (b)  if the number so ascertained would, if it were calculated to 4 decimal places, end in a number greater than 4—the number so ascertained increased by 0.001.
-
-             (5)  The indexation factor in relation to a period of 6 months referred to in the definition of **_relevant period_** in subsection 14(1) is:
-
-                     (a)  the number, calculated to 3 decimal places, ascertained by dividing:
-
-                              (i)  if the relevant period commences on 1 April—the index number for the last preceding December quarter; or
-
-                             (ii)   if the relevant period commences on 1 October—the index number for the last preceding June quarter;
-
-                            by the highest index number in respect of a December or June quarter that preceded that quarter, not being a December or June quarter that occurred before the December quarter in the year 1987; or
-
-                     (b)  if the number so ascertained would, if it were calculated to 4 decimal places, end in a number greater than 4—the number so ascertained increased by 0.001.
-
-##### <a id="10"></a>10  Determination in relation to charge rate
-
-             (1)  In this section:
-
-                    <a name="guarante-amount"></a>**_guaranteed amount_** means:
-
-                     (a)  in relation to the financial year commencing on 1 July 1989:
-
-                              (i)  if subparagraph (ii) does not apply—$1,226,000,000; or
-
-                             (ii)  if the indexation factor in relation to that financial year is greater than 1—the amount ascertained by multiplying $1,226,000,000 by that factor; and
-
-                     (b)   in relation to the financial year commencing on 1 July 1990:
-
-                              (i)  if subparagraph (ii) does not apply—the amount equal to the guaranteed amount in relation to the financial year commencing on 1 July 1989; or
-
-                             (ii)  if the indexation factor in relation to the financial year commencing on 1 July 1990 is greater than 1— the amount ascertained by multiplying the amount referred to in subparagraph (i) by that factor.
-
-             (2)  Subject to subsections (3) and (4), the Minister may, after consultation with the Treasurer, determine in writing, in respect of a financial year, a rate, expressed in cents per litre, for the purposes of the definition of **_charge rate_** in subsection 3(1).
-
-             (5)  A determination under this section:
-
-                     (a)  shall be expressed to come, or to have come, into force on the first day of the financial year to which it relates; and
-
-                     (b)  subject to subsection (6), is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
-
-             (6)   Paragraph 48(1)(b) of the _Acts Interpretation Act 1901_ does not apply in relation to a determination under this section.
-
-## Part 2—Australian Land Transport Development Reserve
-
-**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
-
-##### <a id="11"></a>11  Establishment of Reserve
-
-             (1)  There is established a reserve to be known as the Australian Land Transport Development Reserve.
-
-             (2)  The Reserve is a component of the Reserved Money Fund.
-
-##### <a id="12"></a>12  Money to be paid into Reserve
-
-             (1)  Subject to subsection (2), there shall be paid into the Reserve out of the Consolidated Revenue Fund amounts equal to the amounts of road user charge received by the Commonwealth after the commencement of this Act.
-
-             (2)  Where the whole or a part of an amount (which whole or part in this subsection is called the **_refunded amount_**) paid as duty of Excise, or duty of Customs, in respect of motor spirit, or diesel fuel, entered for home consumption is, after the commencement of this Act, repaid to a person by the Commonwealth by way of rebate or otherwise, there shall be deducted from the sum of the amounts that would, but for this subsection, be paid into the Reserve under subsection (1) an amount ascertained in accordance with the formula:
-
-where:
-
-                    <a name="cr"></a>**_CR_** is the charge rate;
-
-                    <a name="rd"></a>**_RD_** is the rate of duty, expressed in cents per litre, by reference to which the refunded amount was ascertained; and
-
-                    <a name="ra"></a>**_RA_** is the refunded amount.
-
-             (3)  In ascertaining:
-
-                     (a)  an amount of road user charge for the purposes of subsection (1); or
-
-                     (b)  a refunded amount for the purposes of subsection (2);
-
-if 2 or more parts of an amount paid as duty were ascertained by reference to different rates of duty, each of those parts shall be taken to be a separate amount so paid.
-
-          (3A)  In addition to payments made under subsection (1), the Commonwealth is to pay the following amounts into the Fund:
-
-                     (a)  in relation to the financial year beginning on 1 July 1990—$178,300,000;
-
-                     (b)  in relation to the financial year beginning on 1 July 1991—$168,300,000;
-
-                     (c)  in relation to the financial year beginning on 1 July 1992—$158,400,000.
-
-             (4)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
-
-##### <a id="14"></a>14  Indexation of charge rate
-
-             (1)  In this section, unless the contrary intention appears:
-
-                    <a name="base-rate"></a>**_base rate_**, in relation to a relevant period, means:
-
-                     (a)  if paragraph (b) does not apply—the charge rate; or
-
-                     (b)  if, by virtue of an application or applications of this section, this Act has effect immediately before the commencement of the relevant period as if another rate has been substituted for the charge rate—that other rate.
-
-                    <a name="relev-period"></a>**_relevant period_** means:
-
-                     (a)  the period of 6 months commencing on 1 October 1989;
-
-                     (b)  each subsequent period of 6 months, being a period earlier than the period commencing on 1 October 1991; and
-
-                     (c)  each subsequent period of 6 months, being a period after the period commencing on 1 April 1991, that the Minister determines in writing to be a relevant period for the purposes of this section.
-
-             (2)  If the indexation factor in relation to a relevant period is greater than 1, this Act has effect, from and including the first day of that period and to and including:
-
-                     (a)  the last day of that period; or
-
-                     (b)  the day immediately preceding the day on which a determination under section 10 next comes into force;
-
-whichever is the earlier, as if for the base rate in relation to that period there were substituted a rate calculated by multiplying the base rate by that factor.
-
-             (3)  Where, by virtue of the application of this section, another rate (in this subsection called the **_substituted rate_**) is substituted for a rate on a particular day, the Minister shall, on or as soon as practicable after that day, publish a notice in the _Gazette_ specifying the substituted rate.
-
-##### <a id="15"></a>15  Application of Reserve
-
-             (1)  Subject to subsection (2) and sections 16, 17, 18 and 19, amounts standing to the credit of the Reserve may be paid out of the Reserve:
-
-                     (a)  to a State, by way of the grant of financial assistance to the State, for expenditure by the State on:
-
-                              (i)  projects for the construction of:
-
-                                        (A)  national highways; or
-
-                                        (B)   national arterial roads;
-
-                                   and programs for the maintenance of national highways, being projects or programs approved under subsection 26(3);
-
-                             (ii)  the construction or maintenance of:
-
-                                        (A)  State arterial roads; or
-
-                                        (B)  local roads;
-
-                            (iii)  capital railway projects and urban public transport projects approved under subsection 26(3);
-
-                            (iv)  projects for the construction of provincial cities and rural highways roads approved under subsection 26(3); and
-
-                             (v)  a project, or program of projects, for:
-
-                                        (A)  the road safety improvement of black spots; or
-
-                                        (B)  the implementation of road safety measures;
-
-                     (b)  to an approved railway authority for expenditure by the authority on capital railway projects approved under subsection 26(3);
-
-                    (ba)  to an approved railway authority for payment as an additional capital contribution in respect of a capital railway project to be undertaken by the authority;
-
-                     (c)  to an approved research organisation for expenditure by the organisation in arranging, assisting or carrying out programs of research relating to land transport approved under subsection 26(3); and
-
-                     (d)  to an approved road safety organisation for expenditure by the organisation in arranging, assisting or carrying out programs of activities relating to road safety approved under subsection 26(3).
-
-             (2)  An amount may not be paid out of the Reserve to a State in relation to a project or program referred to in subparagraph (1)(a)(v) unless the State has given to the Minister an undertaking that it will implement road safety initiatives identified by the Minister.
-
-             (3)  An amount is not to be paid out of the Reserve to an approved railway authority as an additional capital contribution in respect of a capital railway project to be undertaken by the authority unless:
-
-                     (a)  in response to an invitation from the Minister under paragraph 26(1)(c), the authority has submitted to the Minister particulars of the project; and
-
-                     (b)  if the authority has a corporate plan—the Minister is satisfied that the undertaking of the project by the authority is consistent with the plan; and
-
-                     (c)  it has been agreed:
-
-                              (i)  if the authority is incorporated under the Corporations Law of a State or of an internal Territory and the Commonwealth is a shareholder in the authority—between the other shareholders and the Commonwealth; or
-
-                             (ii)  in any other case—between the authority and the Commonwealth;
-
-                            that shares in the authority having an equivalent nominal value to the payment from the Reserve will be issued to the Commonwealth:
-
-                            (iii)  on payment from the Reserve to the authority of all of the additional capital contributions proposed in respect of that project; or
-
-                            (iv)  at such later time as is agreed.
-
-##### <a id="17"></a>17  Limitation of allocations made after 30 June 1989
-
-             (1)  The sum of the amounts paid out of the Reserve, after 30 June 1989, to the State specified in an item in Schedule 2 by way of the grant of financial assistance for expenditure by the State on the construction and maintenance of State arterial roads shall not exceed the amount specified in column 3 of that item.
-
-             (2)  The sum of the amounts paid out of the Reserve, after 30 June 1989, to the State specified in an item in Schedule 2 by way of the grant of financial assistance for expenditure by the State on the construction and maintenance of local roads shall not exceed an amount equal to the percentage specified in column 4 of that item of the sum of the amounts paid into the Reserve under subsection 12(1) after that date.
-
-##### <a id="18"></a>18  Use of funds allocated to projects etc. commenced before the commencement of Act
-
-             (1)  Where a project or program approved under subsection 26(3) was commenced before the commencement of this Act, any money paid out of the Reserve:
-
-                     (a)  to a State by way of the grant of financial assistance for expenditure by the State on the project or program; or
-
-                     (b)  to an authority or organisation for expenditure on the project or program;
-
-may, with the approval of the Minister, be used for the reimbursement of amounts expended before the commencement of this Act by the State, authority or organisation on the project or program.
-
-             (2)  Where a project or program of a kind referred to in paragraph 26(1)(ba) or (bb) and approved under subsection 26(3) was commenced before the commencement of the _Australian Centennial Roads Development Amendment Act 1990_, any money paid out of the Reserve:
-
-                     (a)  to a State by way of the grant of financial assistance for expenditure by the State on the project or program; or
-
-                     (b)  to an organisation for expenditure on the project or program;
-
-may, with the approval of the Minister, be used for the reimbursement of amounts expended before the commencement of that Act by the State or organisation on the project or program.
-
-##### <a id="19"></a>19  Reallocation of funds
-
-             (1)  The Minister may, upon being so requested by a State and being satisfied, having regard to the policies of the Commonwealth in relation to land transport, that it would be desirable to do so, authorise that:
-
-                     (a)  money paid out of the Reserve to the State for expenditure by the State on the construction or maintenance of State arterial roads, not exceeding such amount as is specified by the Minister, be expended by the State on:
-
-                              (i)  the construction or maintenance of local roads; or
-
-                             (ii)  projects or programs in respect of national highways, or projects in respect of national arterial roads, approved under subsection 26(3); or
-
-                     (b)  money paid out of the Reserve to a State for expenditure by the State on the construction or maintenance of local roads, not exceeding such amount as is specified by the Minister, be expended by the State on the construction or maintenance of State arterial roads.
-
-             (2)  The Minister may, on his or her own motion, authorise that:
-
-                     (a)  money paid out of the Reserve to a State or an approved organisation for expenditure on a particular project or program, not exceeding such amount as is specified by the Minister, be expended by any State or organisation specified by the Minister on another project or program; or
-
-                     (b)  money paid out of the Reserve to a State for expenditure by the State on projects for the construction of national highways or national arterial roads or programs for the maintenance of national highways, not exceeding such amount as is specified by the Minister, be expended by the State on the construction or maintenance of State arterial roads.
-
-             (3)  Money paid out of the Reserve to a State or approved organisation, being money to which an authorisation under subsection (1) or (2) relates, may be spent in accordance with the authorisation but, for the purposes of section 16 or 17 (whichever is applicable), the money shall be taken to have been expended by the State or organisation to which it was originally paid out of the Reserve on the purpose for which it was so paid.
-
-##### <a id="20"></a>20  Funds for State arterial roads reallocated for expenditure on capital railway projects
-
-             (1)  Where:
-
-                     (a)  a State or an approved railway authority in a State has, in accordance with an invitation under subsection 26(1), submitted particulars of a capital railway project to the Minister; and
-
-                     (b)  the appropriate Minister for the State satisfies the Minister that it would be desirable, having regard to the policies of the Commonwealth in relation to land transport, that a specified amount standing to the credit of the Reserve should be expended on that project instead of being expended on the construction or maintenance by the State of State arterial roads;
-
-the Minister may, on or after approving the project under subsection 26(3), determine that money standing to the credit of the Reserve and earmarked for expenditure on the construction or maintenance of State arterial roads, not exceeding such amount as is specified in the determination, may be paid out of the Reserve to the State or approved railway authority for expenditure by the State or authority on the project.
-
-             (2)  Where the Minister makes a determination in relation to a capital railway project, the amounts paid out of the Reserve in accordance with the determination shall, for the purposes of section 16 or 17, whichever is applicable, be taken to be amounts paid out of the Reserve to the States by way of a grant of financial assistance for expenditure by the State on the construction of a State arterial road.
-
-##### <a id="21"></a>21  Funds for State arterial roads reallocated for expenditure on urban public transport projects
-
-             (1)  Where:
-
-                     (a)  a State has, in accordance with an invitation under subsection 26(1), submitted particulars of an urban public transport project to the Minister; and
-
-                     (b)  the appropriate Minister for the State satisfies the Minister that it would be desirable, having regard to the policies of the Commonwealth in relation to land transport, that a specified amount standing to the credit of the Reserve should be expended on that project instead of being expended on the construction or maintenance by the State of State arterial roads;
-
-the Minister may, on or after approving the project under subsection 26(3), determine that money standing to the credit of the Reserve and earmarked for expenditure on the construction or maintenance of State arterial roads, not exceeding such amount as is specified in the determination, may be paid out of the Reserve to the State for expenditure by the State on the project.
-
-             (2)  Where the Minister makes a determination in relation to an urban public transport project, the amounts paid out of the Reserve in accordance with the determination shall, for the purposes of section 16 or 17, whichever is applicable, be taken to be amounts paid out of the Reserve to the States by way of a grant of financial assistance for expenditure by the State on the construction of a State arterial road.
-
-##### <a id="22"></a>22  Time for payments
-
-                   Payments out of the Reserve shall be made at such times, and in such amounts, as the Minister approves.
-
-##### <a id="23"></a>23  Statement accompanying payment
-
-                   Where a payment is made out of the Reserve, the payment shall be accompanied by a statement requiring that the payment, or a specified part of the payment, be expended in arranging, assisting or carrying out:
-
-                     (a)  a specified project or program approved under subsection 26(3) or of projects or programs of a specified class approved under that subsection; or
-
-                     (b)  the construction or maintenance of State arterial roads or local roads.
-
-##### <a id="24"></a>24  Condition of payment
-
-                   A payment of an amount out of the Reserve to a State, authority or approved organisation is subject to the condition that the State, authority or organisation will expend the amount as required by the statement under section 23 that accompanied the payment.
-
-## Part III—Approval of projects and programs
-
-**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
-
-##### <a id="26"></a>26  Approval of projects and programs
-
-             (1)  The Minister may, from time to time:
-
-                     (a)  direct a State to submit particulars of:
-
-                              (i)  projects for the construction of national highways; or
-
-                             (ii)  programs for the maintenance of national highways;
-
-                            to be undertaken by the State;
-
-                     (b)  invite a State to submit particulars of:
-
-                              (i)  projects for the construction of national highways or of national arterial roads; or
-
-                             (ii)  programs for the maintenance of national highways;
-
-                            to be undertaken by the State;
-
-                    (ba)  invite or direct a State to submit particulars of projects for the construction of provincial cities and rural highways roads;
-
-                    (bb)  invite or direct a State to submit particulars of projects or programs commenced, or to be commenced, on or after 1 July 1990, for:
-
-                              (i)  the road safety improvement of black spots; or
-
-                             (ii)  the implementation of road safety measures;
-
-                     (c)  invite a State or an approved railway authority to submit particulars of capital railway projects to be undertaken in the State or by the authority, as the case may be;
-
-                     (d)  invite or direct a State to submit particulars of urban public transport projects or programs to be undertaken in the State;
-
-                     (e)  invite an approved research organisation to submit particulars of programs of research relating to land transport to be arranged, assisted or carried out by the organisation; and
-
-                      (f)  invite an approved road safety organisation to submit particulars of programs of activities relating to road safety to be arranged, assisted or carried out by the organisation.
-
-             (2)  The Minister may, in a direction or invitation given to a State, authority or organisation under subsection (1), inform the State, authority or organisation that the Minister considers that particulars of a project or program specified in the direction or invitation should be submitted to the Minister in accordance with the direction or invitation.
-
-             (3)  The Minister may approve a project or program of a kind referred to in subsection (1) where the Minister is satisfied that it is appropriate to do so, whether or not the project or program is one in relation to which particulars have been submitted under subsection (1).
-
-             (4)  A project or program referred to in subsection (1), (2) or (3) may be:
-
-                     (a)  a project or program that was commenced, but not completed, before the commencement of this Act; or
-
-                     (b)  a project or program part of the cost of which it is proposed to meet out of funds obtained otherwise than out of the Reserve.
-
-             (5)  Where a State, authority or organisation submits particulars of a project or program in accordance with a direction or invitation under subsection (1), those particulars shall include an estimate of the cost of the project or program and particulars of any part of that cost proposed to be met out of funds obtained otherwise than out of the Reserve.
-
-             (6)  The Minister shall not approve a project or program under subsection (3) unless the Minister is satisfied:
-
-                     (a)  that the undertaking of the project or program is consistent with the purposes for which the Reserve was established; and
-
-                     (b)  that, having regard to the costs of projects and programs, and other expenditure to be met by payments out of the Reserve, the costs in relation to the project or program that are proposed to be met by payments out of the Reserve could be met by such payments made in accordance with section 15.
-
-             (7)  The Minister shall not approve, under subsection (3), a project or program for the construction or maintenance of national highways submitted by a State unless the Minister is satisfied that the project or program complies with the requirements set out in any notification given to the State under paragraph 38(1)(b), (c) or (d) that are applicable in relation to the State.
-
-             (8)  The Minister shall not approve, under subsection (3), a capital railway project submitted by a State or an approved railway authority unless the Minister is satisfied that:
-
-                     (a)  the project is likely to result in improvements to the capacity of, or the quality or efficiency of operations in relation to, interstate mainline railways;
-
-                     (b)  the State or authority has taken such steps to improve its operational or commercial practices as will, in the Minister’s opinion, be likely to ensure the early achievement of the benefits of those improvements; and
-
-                     (c)  in the case of a project submitted by the State—the undertaking of the project will be given priority by the State.
-
-##### <a id="27"></a>27  Variation of projects etc.
-
-             (1)  Subject to subsection (2), the Minister may, in accordance with procedures determined by the Minister:
-
-                     (a)  approve a variation of a project or program approved under subsection 26(3);
-
-                     (b)  approve a variation of the estimated cost of a project or program approved under subsection 26(3); or
-
-                     (c)  approve a variation of the costs in relation to a project or program approved under subsection 26(3) that are to be met by payments out of the Reserve.
-
-             (2)  The Minister shall not approve a variation under subsection (1) if the Minister considers:
-
-                     (a)  that the approval of the variation would not be consistent with the purposes for which the Reserve was established; or
-
-                     (b)  that, having regard to the cost of projects and programs, and other expenditure to be met by payments out of the Reserve, the approval of the variation would result in the costs in relation to a project or program that are to be met by payments out of the Reserve being such that they could not be met by payments made in accordance with section 15.
-
-##### <a id="28"></a>28  Allocations of Reserve to local government bodies
-
-             (1)  Money expended by a State by way of funding government authorities to carry out the construction or maintenance of local roads shall not be taken to have been expended in accordance with this Act unless the money is allocated by the State between local government bodies and government authorities that are not local government bodies in accordance with:
-
-                     (a)  where the State has formulated principles for the purposes of this subsection and the Minister has approved those principles—those principles; or
-
-                     (b)  in any other case—principles determined by the Minister.
-
-             (2)  The Minister shall not determine principles for the purposes of subsection (1) in relation to a State unless and until:
-
-                     (a)  the appropriate Minister of the State has informed the Minister that the State does not propose to formulate principles for the purposes of that subsection; or
-
-                     (b)  the Minister has, by notice in writing, requested the appropriate Minister of the State to arrange for the formulation of such principles within a specified time and, within that time, the State has not formulated such principles or has not formulated such principles that the Minister is prepared to approve.
-
-             (3)  A State may, with the approval of the Minister, vary principles formulated by the State for the purposes of subsection (1).
-
-             (4)  The Minister may vary principles determined by the Minister for the purposes of subsection (1).
-
-## Part IV—Conditions of payments
-
-**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
-
-##### <a id="28A"></a>28A  Manner of application of this Part to different payments from Reserve
-
-             (1)  The provisions of this Part apply to all payments from the Reserve under paragraph 15(1)(a), (b), (c) or (d).
-
-             (2)  Subject to subsection (3), the provisions of this Part apply in respect of payments from the Reserve under paragraph 15(1)(ba) in respect of projects of approved railway authorities:
-
-                     (a)  as if, so far as assets acquired under those projects are concerned, paragraph 32(1)(n) were omitted; and
-
-                     (b)  as if section 31 and paragraph 32(1)(p) were omitted.
-
-             (3)  If an approved railway authority to which payment is made under paragraph 15(1)(ba) is a company incorporated under the Corporations Law of a State or of an internal Territory, the obligations of the authority and of its directors and of officers under subsection (2) apply only to the extent that those obligations are consistent with obligations of the authority and of its directors and officers under that Corporations Law.
-
-##### <a id="29"></a>29  Minister may require information to be furnished
-
-             (1)  In addition to the conditions specified in any other provision of this Act, a payment of an amount to a State, approved railway authority or approved organisation out of the Reserve is subject to the condition that the appropriate Minister of the State, the authority or the organisation, as the case may be, will comply with any requirement made in accordance with subsection (2).
-
-             (2)  The Minister may, by notice in writing, require the appropriate Minister of a State, an approved railway authority or an approved organisation to furnish to the Minister, within the time specified in the notice, such information relevant to the operation of, or to a matter arising under, this Act as is specified in the notice.
-
-##### <a id="30"></a>30  Statements of expenditure etc. to be furnished
-
-             (1)  In addition to the conditions specified in any other provision of this Act, payment of an amount to a State, approved railway authority or approved organisation out of the Reserve is subject to the following conditions:
-
-                     (a)  that the State, authority or organisation will give to the Minister:
-
-                              (i)  as soon as practicable after 30 June in each year, a statement, in accordance with a form approved by the Minister, as to:
-
-                                        (A)  the expenditure by the State, authority or organisation during that year out of that amount; and
-
-                                        (B)  any sum set aside during that year out of that amount for expenditure by the State, authority or organisation but not expended during that year; and
-
-                             (ii)  a report by the appropriate person stating:
-
-                                        (A)  whether the statement is in the form approved by the Minister;
-
-                                        (B)  whether, in the person’s opinion, the statement is based on proper accounts and records;
-
-                                        (C)  whether the statement is in agreement with the accounts and records; and
-
-                                        (D)  whether, in the person’s opinion, the expenditure of money has been in accordance with this Act;
-
-                     (b)  that, if the Minister informs the Treasurer of the State or, in the case of an authority or organisation, a responsible officer of the authority or organisation, that the Minister is satisfied that the State, authority or organisation has failed, with respect to that amount, to fulfil the condition specified in paragraph (a), the State, authority or organisation, as the case may be, will repay that amount, or such part of that amount as the Minister specifies, to the Commonwealth.
-
-             (2)  In this section:
-
-                    <a name="appropri-person"></a>**_appropriate person_** means:
-
-                     (a)  in relation to a State or to an authority or organisation whose accounts are required by law to be audited by the Auditor-General of a State—the Auditor-General of the State;
-
-                     (b)  in relation to an authority or organisation whose accounts are required by law to be audited by the Auditor-General of the Commonwealth—the Auditor-General of the Commonwealth; or
-
-                     (c)  in any other case—a qualified accountant.
-
-                    <a name="qualifi-account"></a>**_qualified accountant_** means:
-
-                     (a)  a person who is registered as a company auditor or a public accountant under a law in force in a State; or
-
-                     (b)  a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants.
-
-##### <a id="31"></a>31  Condition relating to expenditure of moneys paid out of Reserve
-
-                   In addition to the conditions specified in any other provision of this Act, a payment to a State, approved railway authority or approved organisation out of the Reserve is subject to the condition that, if any amount or amounts paid to the State, authority or organisation out of the Reserve has not or have not been wholly expended or otherwise dealt with in accordance with this Act, the State, authority or organisation, as the case may be, will, on demand by the Minister, pay to the Commonwealth an amount specified by the Minister, being an amount not exceeding so much of the sum of the amount or amounts so paid to the State, authority or organisation as has not been so expended or otherwise dealt with.
-
-##### <a id="32"></a>32  Additional conditions with respect to approved projects and programs
-
-             (1)  In addition to the conditions specified in any other provision of this Act, a payment of an amount to a State or approved railway authority out of the Reserve is subject to the following conditions:
-
-                     (a)  in the case of a State—that, where amounts paid to the State are required by virtue of this Act to be expended on the carrying out of:
-
-                              (i)  a project for the construction of a national highway, or of a national arterial road (other than a national arterial road the construction of which was commenced before the commencement of this Act) or of a provincial cities and rural highways road (other than a provincial cities and rural highways road the construction of which was commenced before the commencement of the _Australian Centennial Roads Development Amendment Act 1990_), being a project that will involve:
-
-                                        (A)  the construction, reconstruction or realignment of the road; or
-
-                                        (B)  the bringing of the road to a higher standard; or
-
-                             (ii)  a program for the maintenance of a national highway, being a program involving works the estimated cost of which exceeds $2,000,000 and that have been declared, in writing, by the Minister to be works in relation to which tenders are to be called;
-
-                            the State will invite, and deal with, tenders for particular works involved in the activities referred to in sub-subparagraph (i)(A) or (B) or in the works referred to in subparagraph (ii), other than exempt works of the State, in accordance with procedures approved by the Minister;
-
-                     (b)  that, where amounts paid to the State or authority are required by virtue of this Act to be expended in relation to a capital railway project or an urban public transport project, being a project that will involve the performance of works, or the purchase of goods, for which it is appropriate to invite tenders, the State or authority will invite, and deal with, tenders for those works or goods in accordance with procedures approved by the Minister;
-
-                     (c)  in the case of a State—that the State will, if requested by the Minister to do so, enter into an arrangement with the Minister for the setting up of a committee of persons representing both the Minister and the appropriate Minister of the State to carry out planning and give advice to both Ministers in connection with this Act in so far as it relates to the State;
-
-                     (d)  that the State or authority will ensure that signs are displayed and maintained in accordance with requirements notified to the State or authority from time to time by the Minister, being signs that indicate that a project or program or the construction or maintenance of a road is being or has been funded by the Commonwealth;
-
-                     (e)  that the State or authority will ensure that such other recognition of the extent to which a project or program or the construction or maintenance of a road is being or has been funded by the Commonwealth will be given by the State or authority in accordance with requirements notified to the State or authority from time to time by the Minister;
-
-                      (f)  in the case of a State—that the State will comply with such requirements as are notified to the State from time to time by the Minister prohibiting (either unconditionally or subject to a condition requiring the Minister’s approval to be given) the display of signs (other than traffic signs) near national highways, or national arterial roads, in respect of which any payment has been made out of the Reserve;
-
-                     (g)  in the case of a State—that, where the amounts paid to the State are required by virtue of this Act to be expended on projects for the construction of national highways, the State will give to the Minister as soon as practicable after 30 June in each year, a certificate by a person approved by the Minister for the purposes of this paragraph certifying that, in the opinion of the person, work that has been carried out during that year on those projects has been carried out in accordance with the standards (if any) applicable to that work in accordance with section 38;
-
-                     (h)  in the case of a State—that the State will:
-
-                              (i)  develop and implement quality systems for the purposes of projects and programs relating to national highways (including pavement management systems), national arterial roads, or provincial cities and rural highways roads; and
-
-                             (ii)  permit, at all reasonable times, a person authorised by the Minister to assess or monitor those systems and inspect any records, documents or other information that the person may reasonably request to inspect for that purpose;
-
-                      (j)  that the State or authority will, at all reasonable times, permit a person authorised by the Minister:
-
-                              (i)  to inspect any work involved in the carrying out of a project or program approved under subsection 26(3); and
-
-                             (ii)  to inspect and make copies of, or take extracts from, any plans, designs, tenders, records or other documents relating to a project or program approved under subsection 26(3);
-
-                     (k)  in the case of a State—that the State will make satisfactory provision for:
-
-                              (i)  the maintenance of the national arterial roads in the State; and
-
-                             (ii)  the provision and maintenance of roads connecting the national highways and national arterial roads in the State with other roads in the State;
-
-                    (m)  in the case of a State—that the State will not, without the written consent of the Minister, cause or permit a toll or fee to be charged for the right to travel in a vehicle on or over a road that is, or any part of which is, a national highway, or a national arterial road, or a provincial cities and rural highways road, in respect of which any payment has been made out of the Reserve;
-
-                     (n)  if an asset acquired by the State or approved railway authority or by a government authority that is not a local government body for a purpose in respect of which an amount was paid to the State or approved railway authority:
-
-                              (i)  out of the Reserve;
-
-                             (ii)  out of an existing Fund; or
-
-                            (iii)  under the _States Grants (Roads) Act 1977_, the _Roads Grants Act 1980_ or the _Roads Grants Act 1981_;
-
-                            or any interest in such an asset, is sold or otherwise disposed of after the commencement of this Act, the State or approved railway authority will either pay to the Commonwealth an amount equal to the proceeds of the sale or disposal or to the market value of the asset, whichever is the higher, or ensure that those proceeds are expended:
-
-                            (iv)  in the case of a State—on the construction or maintenance of roads or on capital railway projects; or
-
-                             (v)  in the case of an approved railway authority—on capital railway projects;
-
-                    (na)  in the case of a State—that, where amounts paid to the State are required by virtue of this Act to be expended on the carrying out of a project or program for:
-
-                              (i)  the road safety improvement of black spots; or
-
-                             (ii)  road safety measures;
-
-the State will give to the Minister an undertaking that it will implement road safety initiatives identified by the Minister;
-
-                     (p)  that, if the Minister informs the Treasurer of the State or, in the case of an authority, a responsible officer of the authority, that the Minister is satisfied that the State or authority has failed to fulfil a condition specified in a preceding paragraph of this subsection or in section 29, the State or authority will repay to the Commonwealth the amount paid to it, or such part of that amount as the Minister specifies.
-
-             (2)  In this section **_exempt works_**, in relation to a State, means:
-
-                     (a)  works determined by the Minister to be works the whole of which:
-
-                              (i)  are urgently required by reason of an emergency;
-
-                             (ii)  are of such a minor nature that the invitation of tenders for those works would involve undue additional cost;
-
-                            (iii)  are of a kind for which it is not practicable to prepare adequate tender specifications; or
-
-                            (iv)  are of a kind for which competitive tenders are unlikely to be received; or
-
-                     (b)  works carried out by a public utility.
-
-             (3)  Paragraph 32(1)(n) does not apply:
-
-                     (a)  to the sale or other disposal to the National Rail Corporation Limited of an asset; or
-
-                     (b)  to the granting to the National Rail Corporation Limited of a lease of an asset having a term of at least 20 years;
-
-in accordance with subclause 5(5) of the Agreement set out in the Schedule to the _National Rail Corporation Agreement Act 1992_.
-
-## Part V—Miscellaneous
-
-**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
-
-##### <a id="33"></a>33  Deduction of amounts repayable
-
-                   The Minister may deduct from an amount payable out of the Reserve to a State, authority or organisation any amount repayable by the State, authority or organisation under:
-
-                     (a)  this Act;
-
-                     (b)  the _Australian Bicentennial Road Development Trust Fund Act 1982_;
-
-                     (c)  the _Australian Land Transport (Financial Assistance) Act 1985_.
-
-##### <a id="34"></a>34  Money repaid to Commonwealth
-
-             (1)  Whenever an amount is repaid to the Commonwealth by a State, approved railway authority or approved organisation under this Act, an equal amount must be transferred to the Reserve from the Consolidated Revenue Fund.
-
-             (2)  Any money paid to the Commonwealth pursuant to paragraph 32(1)(n) shall be taken to be money repaid to the Commonwealth for the purposes of subsection (1).
-
-##### <a id="36"></a>36  Money deemed to have been expended on national highway projects
-
-             (1)  Subject to subsection (2), a State may, for the purposes of this Act, treat money expended by the State, in a financial year, for the purpose of meeting administrative costs incurred directly in connection with the construction or maintenance of national highways in the State, not being administrative costs incurred in respect of particular works involved in the carrying out of any project or program approved under subsection 26(3), as having been expended in that year by the State on such a project or program.
-
-             (2)  Money treated as having been expended on a project or program in a year by virtue of subsection (1):
-
-                     (a)  shall not include any money treated, by virtue of that subsection, as having been expended on any other project or program; and
-
-                     (b)  shall not exceed, in the aggregate, 4% of the money otherwise expended on that project or program since its commencement.
-
-##### <a id="37"></a>37  Minister may issue guidelines
-
-             (1)  The Minister may:
-
-                     (a)  after consultation with each of the States, determine guidelines for the distribution by each State to government authorities in the State of money paid out of the Reserve in accordance with this Act for expenditure by the State on the construction or maintenance of State arterial roads; and
-
-                     (b)  determine guidelines for the administration of programs or projects approved under subsection 26(3).
-
-             (2)  The States must comply with those guidelines.
-
-##### <a id="38"></a>38  Standards for national highways
-
-             (1)  For the purpose of ensuring that this Act is conducive to the construction and maintenance of national highways that are of an adequate standard, the Minister may, from time to time:
-
-                     (a)  request a State to furnish such information as the Minister specifies relating to the use or likely use of national highways, including the effect on the likely use of national highways of works that the State is carrying out or proposes to carry by way of the construction or maintenance of other roads in the State;
-
-                     (b)  after consultation with a State, notify to the State works, or classes of works, by way of the construction or maintenance of the national highways in the State that the Minister considers necessary to be carried out;
-
-                     (c)  notify to a State the order in which the Minister considers that works in connection with national highways in the State should be carried out; and
-
-                     (d)  notify to a State standards, applicable either generally or otherwise as specified in the notification, that the Minister considers necessary to be observed in connection with the construction or maintenance of national highways.
-
-             (2)  The Minister may revoke or vary a request or notification given under subsection (1).
-
-##### <a id="39"></a>39  Delegations
-
-                   The Minister may, by signed instrument, delegate to an officer of the Australian Public Service all or any of his or her powers or functions under sections 22, 26, 27 and 29, paragraphs 32(1)(d), (e), (h) and (j), subsection 32(2) and section 38.
-
-##### <a id="40"></a>40  Closing of existing Funds
-
-             (1)  In spite of anything to the contrary contained in the _Australian Bicentennial Road Development Trust Fund Act 1982_ or in the _Australian Land Transport (Financial Assistance) Act 1985_:
-
-                     (a)  after the commencement of this Act:
-
-                              (i)  no payment shall be made into an existing Fund:
-
-                                        (A)  under subsection 8(1) of the _Australian Bicentennial Road Development Trust Fund Act 1982_; or
-
-                                        (B)  under subsection 12(1) of the _Australian Land Transport (Financial Assistance) Act 1985_; and
-
-                             (ii)  no payment shall be made out of an existing Fund otherwise than in accordance with this section;
-
-                     (b)  the existing Funds shall be closed at the end of:
-
-                              (i)  30 April 1989; or
-
-                             (ii)  if an earlier date is determined, by notice published in the _Gazette_, by the Minister for the purposes of this paragraph—that earlier date;
-
-                     (c)  any money standing to the credit of an existing Fund at any time after the commencement of this Act and before the closing of that fund shall, subject to subsection (2), be paid out to the States and approved organisations in such manner and for such purposes as the Minister determines;
-
-                     (d)  after the existing Funds are closed, any money that, but for this subsection would have been repaid to the Commonwealth under one of those Acts shall be paid into the Reserve; and
-
-                     (e)  any money paid out of an existing Fund to a State or authority under this section shall, except where the Minister otherwise determines, be expended by the State or authority before 1 July 1989.
-
-             (2)  Where, before the commencement of this Act:
-
-                     (a)  a project for the construction, or a program for the maintenance, of a national road or a capital railway project had been approved under subsection 26(3) of the _Australian Land Transport (Financial Assistance) Act 1985_; or
-
-                     (b)  a project by way of capital expenditure in relation to an urban public transport system in a State had been approved under subsection 17(3) of the _Australian Bicentennial Road Development Trust Fund Act 1982_;
-
-any money that, but for this section, would, after the commencement of this Act, have been paid out of an existing Fund for expenditure on that project or program may only be expended on a project or program approved by the Minister.
-
-##### <a id="41"></a>41  Report by Minister
-
-             (1)  The Minister shall, as soon as practicable after 30 June in each year, cause a report to be laid before each House of the Parliament setting out details of the operation of the Land Transport Reserve including:
-
-                     (a)  the moneys paid into the Reserve;
-
-                     (b)  the moneys paid out of the Reserve;
-
-                     (c)  a description of the progress made on all programs during the year under report;
-
-                     (d)  a description of the progress made on all approved national highways, national arterial roads, urban public transport and provincial cities and rural highways projects during the year under report; and
-
-                     (e)  the principles on which the allocation of funds for local roads were made.
-
-            (2)        The report referred to in subsection (1) is to provide details of all payments made during each year in respect of each land transport project and the total cumulative amount of payments made in respect of each land transport project irrespective of when such payments were made. 
-
- 
-
-# Schedule 1—Limitation of allocations made before 1 July 1989
-
-_Section 16_
-
-<table>
-<colgroup>
-  <col width="17%">
-  <col width="43%">
-  <col width="22%">
-  <col width="18%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 1</span> </div>
-    <div> <span style="font-size:10.0pt">Item No.</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 2</span> </div>
-    <div> <span style="font-size:10.0pt">States</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 3 
-Amount—State arterial roads</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 4 Amount—local roads</span> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> <span style="font-size:10.0pt"> </span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt"> </span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">$</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">$</span> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">New South Wales ...........................</span> </div>
-  </td>
-  <td>
-    <div>86,800,000</div>
-  </td>
-  <td>
-    <div>77,000,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Victoria ..............................................</span> </div>
-  </td>
-  <td>
-    <div>68,600,000</div>
-  </td>
-  <td>
-    <div>54,500,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Queensland ......................................</span> </div>
-  </td>
-  <td>
-    <div>60,600,000</div>
-  </td>
-  <td>
-    <div>52,100,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Western Australia ...........................</span> </div>
-  </td>
-  <td>
-    <div>43,500,000</div>
-  </td>
-  <td>
-    <div>38,300,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">South Australia ...............................</span> </div>
-  </td>
-  <td>
-    <div>21,500,000</div>
-  </td>
-  <td>
-    <div>20,900,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Tasmania ..........................................</span> </div>
-  </td>
-  <td>
-    <div>11,900,000</div>
-  </td>
-  <td>
-    <div>13,400,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Northern Territory ...........................</span> </div>
-  </td>
-  <td>
-    <div>2,700,000</div>
-  </td>
-  <td>
-    <div>12,300,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Australian Capital Territory ....</div>
-  </td>
-  <td>
-    <div>2,500,000</div>
-  </td>
-  <td>
-    <div>4,000,000</div>
-  </td>
-</tr></table>
-
- 
-
-# Schedule 2—Limitation of allocations made after 30 June 1989
-
-_Section 17_
-
-<table>
-<colgroup>
-  <col width="17%">
-  <col width="43%">
-  <col width="22%">
-  <col width="18%">
-</colgroup>
-
-<tr>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 1 
-
-Item No.</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 2 
-
-States</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 3 
-Amount State arterial roads</span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Column 4 Percentage 
-local roads</span> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> <span style="font-size:10.0pt"> </span> </div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt"> </span> </div>
-  </td>
-  <td>
-    <div>($)</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt"> </span> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">New South Wales ...........................</span> </div>
-  </td>
-  <td>
-    <div>58,400,000</div>
-  </td>
-  <td>
-    <div>6.287</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Victoria ..............................................</span> </div>
-  </td>
-  <td>
-    <div>47,100,000</div>
-  </td>
-  <td>
-    <div>4.433</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Queensland ......................................</span> </div>
-  </td>
-  <td>
-    <div>41,300,000</div>
-  </td>
-  <td>
-    <div>4.258</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Western Australia ...........................</span> </div>
-  </td>
-  <td>
-    <div>25,000,000</div>
-  </td>
-  <td>
-    <div>3.164</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">South Australia ...............................</span> </div>
-  </td>
-  <td>
-    <div>14,700,000</div>
-  </td>
-  <td>
-    <div>1.696</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Tasmania ..........................................</span> </div>
-  </td>
-  <td>
-    <div>6,900,000</div>
-  </td>
-  <td>
-    <div>1.099</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div> <span style="font-size:10.0pt">Northern Territory ...........................</span> </div>
-  </td>
-  <td>
-    <div>1,900,000</div>
-  </td>
-  <td>
-    <div>1.004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Australian Capital Territory ....</div>
-  </td>
-  <td>
-    <div>5,900,000</div>
-  </td>
-  <td>
-    <div>0.661</div>
-  </td>
-</tr></table>
-
- 
-
-# NOTES
-
-1.   The _Australian Land Transport Development Act 1988_ as shown in this reprint comprises Act No. 154, 1988 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="16%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
-and year</div>
-  </td>
-  <td>
-    <div>Date 
-of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Centennial Roads Development Act 1988</div>
-  </td>
-  <td>
-    <div>154, 1988</div>
-  </td>
-  <td>
-    <div>26 Dec 1988</div>
-  </td>
-  <td>
-    <div>1 Jan 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>29, 1989</div>
-  </td>
-  <td>
-    <div>22 May 1989</div>
-  </td>
-  <td>
-    <div>22 May 1989</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Centennial Roads Development Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>3, 1991</div>
-  </td>
-  <td>
-    <div>8 Jan 1991</div>
-  </td>
-  <td>
-    <div>8 Jan 1991</div>
-  </td>
-  <td>
-    <div>Ss. 7(2), 12(2) and 14(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Land Transport Development Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>86, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
-  </td>
-  <td>
-    <div>5, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td>
-    <div>Schedule (items 4-8): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 347-367): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
- 
-
-_(a)_     The _Australian Land Transport Development Act 1988_ was amended by the Schedule (items 4-8) only of the _Transport and Communications Amendment Act (No. 2) 1993_, subsections 2(1) and (9) of which provides as follows:
-
-                 “(1)   Subject to subsections (2) to (10) (inclusive), this Act commences on the day on which it receives the Royal Assent.
-
-                 “(9)   The amendments contained in items 4, 5, 6 and 7 of the Schedule are taken to have commenced on 1 July 1992.”.
-
-_(b)_    The _Australian Land Transport Development Act 1988_ was amended by Schedule 2 (items 347-367) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
-
-                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”.
-
- 
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7A-7C</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1989; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 86, 1993; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 5, 1994; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17, 18</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19-24</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 86, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28A</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29, 30</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 5, 1994; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33, 34</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>rs. No. 3, 1991</div>
-  </td>
-</tr></table>
-
- 
-
- 
+## SCH
+<sch>                             SCHEDULE 2                 Section 17<lf>         LIMITATION OF ALLOCATIONS MADE AFTER 30 JUNE 1989<lf> Column 1    Column 2             Column 3          Column 4<lf> Item No.    State                Amount State      Percentage<lf>                                  arterial roads    local roads<lf>                                  ($)<lf>  1          New South Wales      58,400,000        6.287<lf>  2          Victoria             47,100,000        4.433<lf>  3          Queensland           41,300,000        4.258<lf>  4          Western Australia    25,000,000        3.164<lf>  5          South Australia      14,700,000        1.696<lf>  6          Tasmania              6,900,000        1.099<lf>  7          Northern Territory    1,900,000        1.004<lf>  8          Australian Capital<lf>             Territory             5,900,000        0.661<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
