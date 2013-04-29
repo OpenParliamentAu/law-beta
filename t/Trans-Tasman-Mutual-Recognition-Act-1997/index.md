@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2006C00556/Html/TransTasMutRecAct1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00353/Html/0C8257BAB5D545DBCA2570000017E621/$FILE/image001.gif)
 
 # Trans-Tasman Mutual Recognition Act 1997
 
 **Act No. 190 of 1997 as amended**
 
-This compilation was prepared on 29 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 16 May 2005
+taking into account amendments up to Act No. 38 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -226,6 +227,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act to provide for the recognition within Australia of regulatory standards adopted in New Zealand regarding goods and occupations
 
 ## Part 1—Preliminary
@@ -242,7 +246,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Principal purpose
 
-             (1)  The principal purpose of this Act is to enact legislation authorised by the Parliaments of States under paragraph (xxxvii) of section 51 of the Commonwealth Constitution, and requested by the legislatures of the Australian Capital Territory and the Northern Territory, for the purpose of recognising within Australia regulatory standards adopted in   New Zealand regarding goods and occupations.
+             (1)  The principal purpose of this Act is to enact legislation authorised by the Parliaments of States under paragraph (xxxvii) of section 51 of the Commonwealth Constitution, and requested by the legislatures of the Australian Capital Territory and the Northern Territory, for the purpose of recognising within Australia regulatory standards adopted in New Zealand regarding goods and occupations.
 
              (2)  The legislation is as contemplated by the Trans-Tasman Mutual Recognition Arrangement entered into on 9 July 1996 between the Commonwealth of Australia, New Zealand, the States of New South Wales, Victoria, Queensland, Western Australia, South Australia and Tasmania, the Australian Capital Territory and the Northern Territory.
 
@@ -268,7 +272,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  for a State (other than a Territory)—the Governor of the State or a Minister of the Crown for the State; or
 
-                     (d)  for the Australian Capital   Territory—the Chief Minister for the Territory; or
+                     (d)  for the Australian Capital Territory—the Chief Minister for the Territory; or
 
                      (e)  for the Northern Territory—the Administrator of the Territory.
 
@@ -348,7 +352,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  New Zealand is a participating jurisdiction but is likely to cease to be a participating jurisdiction in the near future.
 
-             (2)  Such a Proclamation cannot be made unless the designated person for each of the participating jurisdictions (other than New   Zealand and the Commonwealth) has published a notice in the official gazette of the jurisdiction requesting the making of the Proclamation.
+             (2)  Such a Proclamation cannot be made unless the designated person for each of the participating jurisdictions (other than New Zealand and the Commonwealth) has published a notice in the official gazette of the jurisdiction requesting the making of the Proclamation.
 
              (3)  Such a Proclamation is effective according to its terms.
 
@@ -426,7 +430,7 @@ Examples:  Laws relating to the following:
 
              (3)  Any relevant presumptions or evidentiary procedures under the law of New Zealand are available to the prosecution or defendant in relation to matters sought to be proved by the prosecution under subsection (2).
 
-             (4)  Any relevant defences under the law of New   Zealand are available to the defendant in relation to matters sought to be proved by the prosecution under subsection (2).
+             (4)  Any relevant defences under the law of New Zealand are available to the defendant in relation to matters sought to be proved by the prosecution under subsection (2).
 
              (5)  This section does not affect any defence that is available apart from this section.
 
@@ -446,7 +450,7 @@ Examples:  Laws relating to the following:
 
 ##### <a id="16"></a>16  Entitlement to carry on occupation 
 
-             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New   Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
+             (1)  The Trans-Tasman mutual recognition principle is that, subject to this Part, a person who is registered in New Zealand for an occupation is, by virtue of this Act, entitled after notifying the local registration authority of an Australian jurisdiction for the equivalent occupation:
 
                      (a)  to be registered in the jurisdiction for the equivalent occupation; and 
 
@@ -606,7 +610,7 @@ Examples:  Laws relating to the following:
 
                      (c)  references in the law of the Australian jurisdiction to persons registered in an occupation under the law of the jurisdiction (however expressed) extend to persons who have deemed registration for the occupation under this Act.
 
-             (4)  However, the local registration authority of the Australian jurisdiction may waive any condition imposed under the law of   New Zealand, or any undertaking given to the local registration authority of New   Zealand, if it thinks it appropriate in the circumstances.
+             (4)  However, the local registration authority of the Australian jurisdiction may waive any condition imposed under the law of New Zealand, or any undertaking given to the local registration authority of New Zealand, if it thinks it appropriate in the circumstances.
 
              (5)  The local registration authority of the Australian jurisdiction may impose conditions as if deemed registration were substantive registration, but it must not impose conditions that are more onerous than would be imposed in similar circumstances (having regard to relevant qualifications and experience) if it were registration effected apart from this Part, unless they correspond to conditions or undertakings that apply to the person's registration in New Zealand or that are necessary to achieve equivalence of occupations.
 
@@ -634,7 +638,7 @@ Examples:  Laws relating to the following:
 
 ##### <a id="30"></a>30  Declarations by Australian Tribunal
 
-             (1)  On a review, the Australian Tribunal may make an order that a person who is registered in a particular occupation in New   Zealand is or is not entitled to registration in an Australian jurisdiction in a particular occupation, and may specify or describe conditions that will achieve equivalence.
+             (1)  On a review, the Australian Tribunal may make an order that a person who is registered in a particular occupation in New Zealand is or is not entitled to registration in an Australian jurisdiction in a particular occupation, and may specify or describe conditions that will achieve equivalence.
 
              (2)  On a review, the Australian Tribunal may make a declaration that occupations carried on in New Zealand and an Australian jurisdiction are not equivalent, but only if the Australian Tribunal is satisfied that:
 
@@ -642,7 +646,7 @@ Examples:  Laws relating to the following:
 
                      (b)  registration in New Zealand should not entitle registered persons to carry on a particular activity or class of activity in an Australian jurisdiction, where:
 
-                              (i)  the activity or class of activity is a material part of the practice of a person registered in New   Zealand for the occupation; and
+                              (i)  the activity or class of activity is a material part of the practice of a person registered in New Zealand for the occupation; and
 
                              (ii)  the activity or class of activity, if carried out by a person not conforming to the appropriate standards, could reasonably be expected to expose persons in the Australian jurisdiction to a real threat to their health or safety or could reasonably be expected to cause significant environmental pollution (including air, water, noise or soil pollution); and
 
@@ -914,7 +918,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
                      (c)  a State (other than a Territory) for which there is in force an Act of its Parliament that refers to the Parliament of the Commonwealth the power to enact this Act, or that adopts this Act, under paragraph (xxxvii) of section 51 of the Commonwealth Constitution; or 
 
-                     (d)  a Territory (being the Australian   Capital Territory or the Northern Territory) for which there is in force an Act of its legislature that requests the Parliament of the Commonwealth to enact this Act or that enables this Act to apply in relation to it.
+                     (d)  a Territory (being the Australian Capital Territory or the Northern Territory) for which there is in force an Act of its legislature that requests the Parliament of the Commonwealth to enact this Act or that enables this Act to apply in relation to it.
 
 ##### <a id="51"></a>51  Application of Trans-Tasman mutual recognition principle
 
@@ -948,6 +952,7 @@ on disciplinary grounds, or as a result of or in anticipation of criminal, civil
 
                    Without limiting any other power under any other Act, the Governor-General may make regulations for the purposes mentioned in section 46.
 
+
 # Schedule 1—Exclusions
 
 _Note:       See section 44._
@@ -962,7 +967,7 @@ _Note:       See section 44._
 
                      (b)  intellectual property—but only to the extent that the laws provide for the protection of intellectual rights and relate to requirements for the sale of goods set out in section 11; and
 
-                     (c)  taxation and business franchises—but only to the extent that the laws relate to taxes imposed on the sale of locally produced and imported goods in a non-discriminatory way, including, for example, business franchise and stamp duties (States); and
+                     (c)  taxation and business franchises—but only to the extent that the laws relate to taxes imposed on the sale of locally produced and imported goods in a non-discriminatory way, including, for example, wholesale sales tax (Commonwealth) and business franchise and stamp duties (States); and
 
                      (d)  the implementation of international obligations—but only to the extent that the laws implementing those obligations deal with the requirements relating to the sale of goods set out in section 11.
 
@@ -977,50 +982,52 @@ _Note:       See section 44._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Prohibited imports</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs (Prohibited Imports) Regulations</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Commerce (Trade Descriptions) Act 1905</i>of the Commonwealth 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Prohibited imports</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs (Prohibited Imports) Regulations</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Commerce (Trade Descriptions) Act 1905</i>of the Commonwealth 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Any other laws of the Commonwealth, to the extent that they provide for the prohibition or restriction of imports and would be affected by the Trans-Tasman mutual recognition principle as applying to goods. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Any other laws of the Commonwealth, to the extent that they provide for the prohibition or restriction of imports and would be affected by the Trans-Tasman mutual recognition principle as applying to goods. 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Tariffs</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs Tariff Act 1995</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs Act 1901</i>of the Commonwealth, Part XVB</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs Tariff (Anti-Dumping) Act 1975</i>of the Commonwealth</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Tariffs</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs Tariff Act 1995</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs Act 1901</i>of the Commonwealth, Part XVB</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs Tariff (Anti-Dumping) Act 1975</i>of the Commonwealth</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="3"></a>3  Intellectual property (including laws relating to the Paris Convention of 20 March 1983 for the Protection of Industrial Property)
 
@@ -1029,91 +1036,93 @@ _Note:       See section 44._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Patents Act 1990</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Trade Marks Act 1995</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Designs Act 1906</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Olympic Insignia Protection Act 1987</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Scout Association Act 1924</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Plant Breeder’s Rights Act 1994</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Copyright Act 1968</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Circuit Layouts Act 1989</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Sydney 2000 Games (Indicia and Images) Protection Act 1996</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Unauthorised Documents Act 1922</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Unauthorized Documents Act 1958</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Badge, Arms, Floral and other Emblems of</i> <i>Queensland</i> <i>Act 1959</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Armorial Bearings Protection Act 1979</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Unauthorised Documents Act 1916</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Unauthorized Documents Act 1986</i>of Tasmania</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>City of</i> <i>Canberra</i> <i>Arms Act 1932</i>of the Australian Capital Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Flag and Emblem Act 1985</i>of the Northern Territory</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Patents Act 1990</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Trade Marks Act 1995</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Designs Act 1906</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Olympic Insignia Protection Act 1987</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Scout Association Act 1924</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Plant Breeder’s Rights Act 1994</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Copyright Act 1968</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Circuit Layouts Act 1989</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Sydney 2000 Games (Indicia and Images) Protection Act 1996</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Unauthorised Documents Act 1922</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Unauthorized Documents Act 1958</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Badge, Arms, Floral and other Emblems of</i> <i>Queensland</i> <i>Act 1959</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Armorial Bearings Protection Act 1979</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Unauthorised Documents Act 1916</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Unauthorized Documents Act 1986</i>of Tasmania</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>City of</i> <i>Canberra</i> <i>Arms Act 1932</i>of the Australian Capital Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Flag and Emblem Act 1985</i>of the Northern Territory</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="4"></a>4  Other international obligations
 
@@ -1122,72 +1131,74 @@ _Note:       See section 44._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Wildlife Protection (Regulation of Exports and Imports) Act 1982</i>of the Commonwealth, sections 21 and 22, to the extent that they implement the Convention on International Trade in Endangered Species of Wild Fauna and Flora 
+<tbody>
+  <tr>
+    <td>
+      <div><i>Wildlife Protection (Regulation of Exports and Imports) Act 1982</i>of the Commonwealth, sections 21 and 22, to the extent that they implement the Convention on International Trade in Endangered Species of Wild Fauna and Flora 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Hazardous Waste (Regulation of Exports and Imports) Act 1989</i>of the Commonwealth, sections 12, 14, 15, 17, 18B, 20, 24-31, 34 and 39, to the extent that they implement the Basel Convention on the Control of Transboundary Movement of Hazardous Wastes and their Disposal 1989 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Hazardous Waste (Regulation of Exports and Imports) Act 1989</i>of the Commonwealth, sections 12, 14, 15, 17, 18B, 20, 24-31, 34 and 39, to the extent that they implement the Basel Convention on the Control of Transboundary Movement of Hazardous Wastes and their Disposal 1989 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The following laws, to the extent that they implement the Charter of the United Nations (as it relates to the imposition of United Nations sanctions):</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Charter of the United Nations Act 1945</i>of the Commonwealth, section 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Air Navigation Act 1920</i>of the Commonwealth, section 26</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Banking Act 1959</i>of the Commonwealth, section 71</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Migration Act 1958</i>of the Commonwealth, subsection 31(3), paragraph 116(1)(g) and section 504</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs Act 1901</i>of the Commonwealth, section 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Protection of Movable Cultural Heritage Act 1986</i>of the Commonwealth, to the extent that it implements the United Nations Educational, Scientific and Cultural Organisation (UNESCO) Convention Regulating the International Trade in Cultural Property 1970 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The following laws, to the extent that they implement the Charter of the United Nations (as it relates to the imposition of United Nations sanctions):</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Charter of the United Nations Act 1945</i>of the Commonwealth, section 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Air Navigation Act 1920</i>of the Commonwealth, section 26</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Banking Act 1959</i>of the Commonwealth, section 71</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Migration Act 1958</i>of the Commonwealth, subsection 31(3), paragraph 116(1)(g) and section 504</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs Act 1901</i>of the Commonwealth, section 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Protection of Movable Cultural Heritage Act 1986</i>of the Commonwealth, to the extent that it implements the United Nations Educational, Scientific and Cultural Organisation (UNESCO) Convention Regulating the International Trade in Cultural Property 1970 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The following laws, to the extent that they implement the European Union-Australia Wine Agreement—Protection of Certain Names and Expressions:</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Australian Wine and Brandy Corporation Act 1980</i>of the Commonwealth, Part VIB and Part VIA (Label Integrity Program)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Australian Wine and Brandy Corporation (Exports) Regulations</i>of the Commonwealth, Parts 3 and 4</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The following laws, to the extent that they implement the European Union-Australia Wine Agreement—Protection of Certain Names and Expressions:</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Australian Wine and Brandy Corporation Act 1980</i>of the Commonwealth, Part VIB and Part VIA (Label Integrity Program)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Australian Wine and Brandy Corporation (Exports) Regulations</i>of the Commonwealth, Parts 3 and 4</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="5"></a>5  Taxation and business franchises
 
@@ -1196,13 +1207,26 @@ _Note:       See section 44._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Laws of a State imposing or providing for the imposition, assessment or collection of taxation, including stamp duties, and providing for business licences.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Sales Tax Assessment Act 1992</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Sales Tax (Exemptions and Classifications) Act 1992</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Laws of a State imposing or providing for the imposition, assessment or collection of taxation, including stamp duties, and providing for business licences.</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 # Schedule 2—Permanent exemptions
 
@@ -1218,7 +1242,7 @@ _Note:       See section 45._
 
                      (a)  the law is enacted or made substantially for the purpose of preventing the entry or spread of any pest, disease, organism, variety, genetic disorder or any other similar thing; and
 
-                     (b)  the law authorises the application of quarantine measures that do not amount to an arbitrary or unjustifiable discrimination or to a disguised restriction on trade between Australia and New   Zealand and are not inconsistent with the requirements of the Agreement establishing the World Trade Organisation.
+                     (b)  the law authorises the application of quarantine measures that do not amount to an arbitrary or unjustifiable discrimination or to a disguised restriction on trade between Australia and New Zealand and are not inconsistent with the requirements of the Agreement establishing the World Trade Organisation.
 
 ##### <a id="2"></a>2  Endangered species
 
@@ -1233,147 +1257,151 @@ _Note:       See section 45._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs (Prohibited Imports) Regulations 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs (Prohibited Imports) Regulations 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Customs (Prohibited Imports) Regulations 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Customs (Prohibited Imports) Regulations 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification (Publications, Films and Computer Games) Act 1995 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification (Publications, Films and Computer Games) Act 1995 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Ozone Protection and Synthetic Greenhouse Gas Management Act 1989</i>(to the extent that it deals with ozone depleting substances)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Agricultural and veterinary chemicals</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Agricultural and Veterinary Chemicals Act 1994</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Agricultural and Veterinary Chemicals Code Act 1994 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Ozone Protection and Synthetic Greenhouse Gas Management Act 1989</i>(to the extent that it deals with ozone depleting substances)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Agricultural and veterinary chemicals</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Agricultural and Veterinary Chemicals Act 1994</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Agricultural and Veterinary Chemicals Code Act 1994 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Other</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Imported Food Control Act 1992</i>(to the extent that it deals with risk categorised food commodities)</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Other</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Imported Food Control Act 1992</i>(to the extent that it deals with risk categorised food commodities)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-##### <a id="4"></a>4  New   South Wales
+##### <a id="4"></a>4  New South Wales
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Act 1996 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Act 1996 
 Prohibited Weapons Act 1989 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1975</i>(to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1975</i>(to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Registered Clubs Act 1976</i>, Parts 10 and 11 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Registered Clubs Act 1976</i>, Parts 10 and 11 
  <i>Liquor Act 1982</i>, Part 11 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification (Publications, Films and Computer Games) Enforcement Act 1995 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification (Publications, Films and Computer Games) Enforcement Act 1995 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Ozone Protection Act 1989</i></div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Ozone Protection Act 1989</i></div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="5"></a>5  Victoria
 
@@ -1382,84 +1410,86 @@ Prohibited Weapons Act 1989
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Act 1958</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Regulation</i> <i>s 1</i> <i>995</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Control of Weapons Act 1990</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Control of Weapons Regulation</i> <i>s 1</i> <i>990 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Act 1958</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Regulation</i> <i>s 1</i> <i>995</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Control of Weapons Act 1990</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Control of Weapons Regulation</i> <i>s 1</i> <i>990 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1985</i>(to the extent that it deals with fireworks)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods (Explosives) Regulation</i> <i>s 1</i> <i>988</i>, Part 8, Division 5 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1985</i>(to the extent that it deals with fireworks)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods (Explosives) Regulation</i> <i>s 1</i> <i>988</i>, Part 8, Division 5 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Machine Control Act 1991 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Machine Control Act 1991 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification (Publications, Films and Computer Games) (Enforcement) Act 1995 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification (Publications, Films and Computer Games) (Enforcement) Act 1995 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Environment Protection Act 1970</i>, sections 16 and 41 (to the extent that they deal with ozone depleting substances) and paragraph 71(1)(gba)</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Environment Protection Act 1970</i>, sections 16 and 41 (to the extent that they deal with ozone depleting substances) and paragraph 71(1)(gba)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="6"></a>6  Queensland
 
@@ -1468,253 +1498,259 @@ Prohibited Weapons Act 1989
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Weapons Act 1990 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Weapons Act 1990 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Explosives Act 1952</i>(to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Explosives Act 1952</i>(to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Machine Act 1991 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Machine Act 1991 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification of Films Act 1991</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification of Publications Act 1991 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification of Films Act 1991</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification of Publications Act 1991 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Environmental Protection (Interim) Regulation 1995</i>under the <i>Environmental Protection Act 1994</i>(to the extent that it deals with ozone depleting substances)</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Environmental Protection (Interim) Regulation 1995</i>under the <i>Environmental Protection Act 1994</i>(to the extent that it deals with ozone depleting substances)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-##### <a id="7"></a>7  Western   Australia
+##### <a id="7"></a>7  Western Australia
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Act 1973 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Act 1973 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Explosives and Dangerous Goods Act 1961</i>(to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Explosives and Dangerous Goods Act 1961</i>(to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Commission Act 1987 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Commission Act 1987 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Censorship of Films Act 1947</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Indecent Publications and Articles Act 1902</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Video Tapes Classification and Control Act 1987</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Censorship Act 1996 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Censorship of Films Act 1947</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Indecent Publications and Articles Act 1902</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Video Tapes Classification and Control Act 1987</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Censorship Act 1996 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Environmental Protection Act 1986</i>(to the extent that it deals with ozone protection)</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Environmental Protection Act 1986</i>(to the extent that it deals with ozone protection)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-##### <a id="8"></a>8  South   Australia
+##### <a id="8"></a>8  South Australia
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Act 1977</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Regulation</i> <i>s 1</i> <i>993</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Summary Offences Act 1953</i>, sections 15 and 15A</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Criminal Law Consolidation Act 1935</i>, sections 32, 47A and 299A 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Act 1977</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Regulation</i> <i>s 1</i> <i>993</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Summary Offences Act 1953</i>, sections 15 and 15A</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Criminal Law Consolidation Act 1935</i>, sections 32, 47A and 299A 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Explosives Act 1936</i>(to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Explosives Act 1936</i>(to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Machines Act 1992</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Machines Regulation</i> <i>s 1</i> <i>993 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Machines Act 1992</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Machines Regulation</i> <i>s 1</i> <i>993 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification (Publications, Films and Computer Games) Act 1995</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Summary Offences Act 1953</i>, sections 33 and 35 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification (Publications, Films and Computer Games) Act 1995</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Summary Offences Act 1953</i>, sections 33 and 35 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Environment Protection Act 1993</i>, Part 8, Division 3 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Environment Protection Act 1993</i>, Part 8, Division 3 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Other</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Environment Protection Act 1993</i>, Part 8, Division 2 (dealing with beverage containers)</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Other</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Environment Protection Act 1993</i>, Part 8, Division 2 (dealing with beverage containers)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="9"></a>9  Tasmania
 
@@ -1723,215 +1759,222 @@ Prohibited Weapons Act 1989
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Act 1996 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Act 1996 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1976</i>(to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1976</i>(to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Control Act 1993</i>(to the extent that it deals with gaming machines) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Control Act 1993</i>(to the extent that it deals with gaming machines) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification (Publications, Films and Computer Games) Enforcement Act 1995 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification (Publications, Films and Computer Games) Enforcement Act 1995 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Environmental Management and Pollution Control Act 1994</i>(to the extent that it deals with ozone protection) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Environmental Management and Pollution Control Act 1994</i>(to the extent that it deals with ozone protection) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Other</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Living Marine Resources Management Act 1995</i>(to the extent that it relates to the possession, sale or capture of abalone, crayfish or scallops of a certain minimum size)</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Other</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Living Marine Resources Management Act 1995</i>(to the extent that it relates to the possession, sale or capture of abalone, crayfish or scallops of a certain minimum size)</div>
+    </td>
+  </tr>
+</tbody></table>
 
-##### <a id="10"></a>10  Australian   Capital Territory
+##### <a id="10"></a>10  Australian Capital Territory
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Weapons Act 1991 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Weapons Act 1991 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1975</i>of New South Wales in its application to the Australian Capital Territory (to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1975</i>of New South Wales in its application to the Australian Capital Territory (to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Machine Act 1987 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Machine Act 1987 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Business Franchise “X” Videos) Act 1990</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification (Publications, Films and Computer Games) (Enforcement) Act 1995 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Business Franchise “X” Videos) Act 1990</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification (Publications, Films and Computer Games) (Enforcement) Act 1995 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Ozone Protection Act 1991</i></div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Ozone Protection Act 1991</i></div>
+    </td>
+  </tr>
+</tbody></table>
 
-##### <a id="11"></a>11  Northern   Territory
+##### <a id="11"></a>11  Northern Territory
 
 <table>
 <colgroup>
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Firearms and other prohibited or offensive weapons</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Firearms Act 1992 
+<tbody>
+  <tr>
+    <td>
+      <div><b>Firearms and other prohibited or offensive weapons</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Firearms Act 1992 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Fireworks</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1980</i>(to the extent that it deals with fireworks) 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Fireworks</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1980</i>(to the extent that it deals with fireworks) 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Gaming machines</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gaming Control Act 1993 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Gaming machines</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gaming Control Act 1993 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Indecent material</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Classification of Publications and Films Act 1985 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Indecent material</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Classification of Publications and Films Act 1985 
 
  </i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Ozone protection</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Ozone Protection Act 1990</i></div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Ozone protection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Ozone Protection Act 1990</i></div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 # Schedule 3—Special exemptions
 
@@ -1946,68 +1989,70 @@ _Note:       See section 48._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Therapeutic Goods Act 1989</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Therapeutic Goods (Charges) Act 1989</i>of the Commonwealth 
+<tbody>
+  <tr>
+    <td>
+      <div><i>Therapeutic Goods Act 1989</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Therapeutic Goods (Charges) Act 1989</i>of the Commonwealth 
 
 </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The following laws are exempt, to the extent that they deal with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act:</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Therapeutic Goods Act 1966</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Drugs, Poisons and Controlled Substances Act 1981</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Therapeutic Goods (</i> <i>Victoria</i> <i>) Act 1994</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1964</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Controlled Substances Act 1984</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1971</i>of Tasmania</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Dangerous Drugs Act 1983</i>of the Northern Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Drugs Act 1978</i>of the Australian Capital Territory</div>
-  </td>
-</tr></table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The following laws are exempt, to the extent that they deal with packaging and labelling of pharmaceutical drugs and would be affected by Part 2 of this Act:</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons and Therapeutic Goods Act 1966</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Drugs, Poisons and Controlled Substances Act 1981</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Therapeutic Goods (</i> <i>Victoria</i> <i>) Act 1994</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons Act 1964</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Controlled Substances Act 1984</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons Act 1971</i>of Tasmania</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons and Dangerous Drugs Act 1983</i>of the Northern Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons and Drugs Act 1978</i>of the Australian Capital Territory</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="2"></a>2  Hazardous substances, industrial chemicals and dangerous goods
 
@@ -2016,252 +2061,254 @@ _Note:       See section 48._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>The following laws, to the extent that they deal with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act:</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Therapeutic Goods Act 1966</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Drugs, Poisons and Controlled Substances Act 1981</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Controlled Substances Act 1984</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1964</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons Act 1971</i>of Tasmania</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Dangerous Drugs Act</i>of the Northern Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Poisons and Drugs Act 1978</i>of the Australian Capital Territory</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The following laws:</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Industrial Chemicals (Notification and Assessment) Act 1989</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety (Commonwealth Employment) Act 1991</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety (Commonwealth Employment) (National Standards) Regulations</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Road Transport Reform (Dangerous Goods) Act 1995</i>of the Commonwealth</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Work Health Act 1986</i>of the Northern Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Work Health (Occupational Health and Safety) Regulation</i> <i>s 1</i> <i>992</i>of the Northern Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1980</i>of the Northern Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>980</i>of the Northern Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Safety and Health Act 1984</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Safety and Health Regulation</i> <i>s 1</i> <i>988</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Explosives and Dangerous Goods Act 1961</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>992</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Explosives Regulation</i> <i>s 1</i> <i>963</i>of Western Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety Act 1983</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety (Hazardous Substances) Regulation 1996</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1975</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Regulation 1978</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods (Gas Installations) Regulation 1982</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1985</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1976</i>of Tasmania</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Factories, Shops and Industries Act 1962</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Substances Act 1979</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health, Safety and Welfare Act 1986</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health, Safety and Welfare Regulation</i> <i>s 1</i> <i>995</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety Act 1985</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Regulations under the Occupational Health and Safety Act 1985</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety Act 1995</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety Regulation 1989</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety Regulation 1995</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety (Hazardous Substances) Compliance Standard 1995</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety (Lead) Compliance Standard 1995</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Workplace Health and Safety Act 1995</i>of Tasmania</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety Act 1989</i>of the Australian Capital Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Occupational Health and Safety Regulations</i>of the Australian Capital Territory</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Trade Practices Act 1974</i>of the Commonwealth, Division 1A of Part V, to the extent that it relates to the regulation of, or issues in relation to, child restraints for motor vehicles</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Fair Trading Act 1987</i>of New South Wales, sections 26, 30, 31 and 38, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Fair Trading Act 1989</i>of Queensland, sections 81, 83, 85 and 85A, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Consumer Affairs Act 1971</i>of Western Australia, sections 23Q, 23R and 23U, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Fair Trading Act 1987</i>of Western Australia, sections 50 and 59, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>The following laws, to the extent that they deal with packaging and labelling of hazardous substances, industrial chemicals and dangerous goods and would be affected by Part 2 of this Act:</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons and Therapeutic Goods Act 1966</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Drugs, Poisons and Controlled Substances Act 1981</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons Regulation 1973</i>under the <i>Health Act 1937</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Controlled Substances Act 1984</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons Act 1964</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons Act 1971</i>of Tasmania</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons and Dangerous Drugs Act</i>of the Northern Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Poisons and Drugs Act 1978</i>of the Australian Capital Territory</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The following laws:</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Industrial Chemicals (Notification and Assessment) Act 1989</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety (Commonwealth Employment) Act 1991</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety (Commonwealth Employment) (National Standards) Regulations</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Road Transport Reform (Dangerous Goods) Act 1995</i>of the Commonwealth</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Work Health Act 1986</i>of the Northern Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Work Health (Occupational Health and Safety) Regulation</i> <i>s 1</i> <i>992</i>of the Northern Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1980</i>of the Northern Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>980</i>of the Northern Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Safety and Health Act 1984</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Safety and Health Regulation</i> <i>s 1</i> <i>988</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Explosives and Dangerous Goods Act 1961</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Regulation</i> <i>s 1</i> <i>992</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Explosives Regulation</i> <i>s 1</i> <i>963</i>of Western Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety Act 1983</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety (Hazardous Substances) Regulation 1996</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1975</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Regulation 1978</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods (Gas Installations) Regulation 1982</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1985</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1976</i>of Tasmania</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Factories, Shops and Industries Act 1962</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Substances Act 1979</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health, Safety and Welfare Act 1986</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health, Safety and Welfare Regulation</i> <i>s 1</i> <i>995</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety Act 1985</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Regulations under the Occupational Health and Safety Act 1985</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Workplace Health and Safety Act 1995</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Workplace Health and Safety Regulation 1989</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Workplace Health and Safety Regulation 1995</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Workplace Health and Safety (Hazardous Substances) Compliance Standard 1995</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Workplace Health and Safety (Lead) Compliance Standard 1995</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Workplace Health and Safety Act 1995</i>of Tasmania</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety Act 1989</i>of the Australian Capital Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Occupational Health and Safety Regulations</i>of the Australian Capital Territory</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Trade Practices Act 1974</i>of the Commonwealth, Division 1A of Part V, to the extent that it relates to the regulation of, or issues in relation to, child restraints for motor vehicles</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Fair Trading Act 1987</i>of New South Wales, sections 26, 30, 31 and 38, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Fair Trading Act 1989</i>of Queensland, sections 81, 83, 85 and 85A, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Consumer Affairs Act 1971</i>of Western Australia, sections 23Q, 23R and 23U, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Fair Trading Act 1987</i>of Western Australia, sections 50 and 59, to the extent that those sections relate to the regulation of child restraints for motor vehicles</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### 3  Radiocommunications devices
 
@@ -2270,12 +2317,14 @@ _Note:       See section 48._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Radiocommunications Act 1992</i>of the Commonwealth, other than Division 7 of Part 4.1 of that Act to the extent that the Division deals with labelling a device in accordance with the <i>Radiocommunications (Compliance Labelling — Incidental Emissions) Notice 2001</i>made under section 182 of that Act</div>
-    <div><i>Not e </i>  The <i>Radiocommunications (Compliance Labelling — Incidental Emissions) Notice 2001</i>applies to devices to which the <i>Radiocommunications (Electromagnetic Compatibility) Standard 2001</i>applies.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Radiocommunications Act 1992</i>of the Commonwealth, other than Division 7 of Part 4.1 of that Act to the extent that the Division deals with labelling a device in accordance with the <i>Radiocommunications (Compliance Labelling — Incidental Emissions) Notice 2001</i>made under section 182 of that Act</div>
+      <div><i>Not e </i>  The <i>Radiocommunications (Compliance Labelling — Incidental Emissions) Notice 2001</i>applies to devices to which the <i>Radiocommunications (Electromagnetic Compatibility) Standard 2001</i>applies.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="4"></a>4  Road vehicles
 
@@ -2284,11 +2333,13 @@ _Note:       See section 48._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Motor Vehicle Standards Act 1989</i>of the Commonwealth</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Motor Vehicle Standards Act 1989</i>of the Commonwealth</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="5"></a>5  Gas appliances
 
@@ -2297,63 +2348,66 @@ _Note:       See section 48._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Gas Act 1986</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Supply Act 1996</i>of New South Wales</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas and Fuel Corporation Act 1958</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Industry Act 1994</i>of Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Act 1965</i>of Queensland</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Standards Act 1972</i>of Western Australia, to the extent that it relates to regulation of gas appliances</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Act 1988</i>of South Australia</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1976</i>of Tasmania, to the extent that it relates to regulation of gas appliances</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1980</i>of the Northern Territory, to the extent that it relates to regulation of gas appliances</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Gas Act 1992</i>of the Australian Capital Territory, to the extent that it relates to regulation of gas appliances</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Dangerous Goods Act 1984</i>of the Australian Capital Territory, to the extent that it relates to regulation of gas appliances</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Gas Act 1986</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas Supply Act 1996</i>of New South Wales</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas and Fuel Corporation Act 1958</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas Industry Act 1994</i>of Victoria</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas Act 1965</i>of Queensland</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas Standards Act 1972</i>of Western Australia, to the extent that it relates to regulation of gas appliances</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas Act 1988</i>of South Australia</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1976</i>of Tasmania, to the extent that it relates to regulation of gas appliances</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1980</i>of the Northern Territory, to the extent that it relates to regulation of gas appliances</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Gas Act 1992</i>of the Australian Capital Territory, to the extent that it relates to regulation of gas appliances</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Dangerous Goods Act 1984</i>of the Australian Capital Territory, to the extent that it relates to regulation of gas appliances</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 # Schedule 4—Exempt laws relating to occupations
 
@@ -2372,48 +2426,51 @@ _Note:       See section 49._
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Medical Practice Act 1992</i>of New South Wales;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Practice Act 1994</i>of Victoria;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Act 1939</i>of Queensland;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Act 1894</i>of Western Australia;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Practitioners Act 1983</i>of South Australia;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Practitioners Registration Act 1996</i>of Tasmania;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Practitioners Act 1930</i>of the Australian Capital Territory;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i>Medical Act 1995</i>of the Northern Territory.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Medical Practice Act 1992</i>of New South Wales;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Practice Act 1994</i>of Victoria;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Act 1939</i>of Queensland;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Act 1894</i>of Western Australia;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Practitioners Act 1983</i>of South Australia;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Practitioners Registration Act 1996</i>of Tasmania;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Practitioners Act 1930</i>of the Australian Capital Territory;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><i>Medical Act 1995</i>of the Northern Territory.</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 # Schedule 5—Privacy of information collected under the Act
 
@@ -2505,6 +2562,7 @@ the authority must ensure that the forms issued to individuals in connection wit
 
              (3)  A person, body or agency to whom personal information is disclosed under subclause (1) must not use or disclose the information for a purpose other than the purpose for which the information was given to the person, body or agency.
 
+
 # Notes to the _Trans-Tasman Mutual Recognition Act 1997_
 
 ### Note 1
@@ -2512,8 +2570,6 @@ the authority must ensure that the forms issued to individuals in connection wit
 The _Trans-Tasman Mutual Recognition Act 1997_ as shown in this compilation comprises Act No. 190, 1997 amended as indicated in the Tables below. 
 
 The _Trans-Tasman Mutual Recognition Act 1997 __was amended by the Trans-Tasman Mutual Recognition Regulation__s 1__999 __(SR 1999 No. 60), the Trans-Tasman Mutual Recognition Amendment Regulations 2000 (No. 1) __(SR __2000 No. 51), the Trans-Tasman Mutual Recognition Amendment Regulations 2001 (No. 1) __(SR __2001 No. 75), the __Trans-Tasman Mutual Recognition Act 1997 Amendment Regulations 2001 (No. 1)__(SR __2001 No. 221), the __Trans-Tasman Mutual Recognition Amendment Regulations 2002 (No. 1)__(SR __2002 No. 78) and the __Trans-Tasman Mutual Recognition Amendment Regulations 2003 (No. 1)__ (SR __2003 No. 72). __The amendments are incorporated in this compilation._
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -2533,11 +2589,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2547,93 +2605,79 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Trans-Tasman Mutual Recognition Act  <span style="font-style: normal"></span>1997</div>
-  </td>
-  <td>
-    <div>190, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div>Ss. 1–8: Royal Assent 
-Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act 1999</div>
-  </td>
-  <td>
-    <div>118, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>126, 2003</div>
-  </td>
-  <td>
-    <div>5 Dec 2003</div>
-  </td>
-  <td>
-    <div>5 Dec 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Appeals Tribunal Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>38, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 235, 236): 16 May 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 166–168) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-5–11)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Trans-Tasman Mutual Recognition Act  <span style="FONT-STYLE: normal"></span>1997</div>
+    </td>
+    <td>
+      <div>190, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td>
+      <div>Ss. 1–8: Royal Assent 
+Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187) 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Stocktake Act 1999</div>
+    </td>
+    <td>
+      <div>118, 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>126, 2003</div>
+    </td>
+    <td>
+      <div>5 Dec 2003</div>
+    </td>
+    <td>
+      <div>5 Dec 2003</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Appeals Tribunal Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>38, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 235, 236): 16 May 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -2658,114 +2702,40 @@ Remainder: 1 May 1998 ( <i>see Gazette</i>1998, No. S187)</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1999; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>am. Statutory Rules 1999 No. 60; Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 75; Statutory Rules 2002 No. 78; Statutory Rules 2003 No. 72</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 38, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2</div>
+    </td>
+    <td>
+      <div>am. Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 221; No. 126, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3</div>
+    </td>
+    <td>
+      <div>am. Statutory Rules 1999 No. 60; Statutory Rules 2000 No. 51; Statutory Rules 2001 No. 75; Statutory Rules 2002 No. 78; Statutory Rules 2003 No. 72</div>
+    </td>
+  </tr>
+</tbody></table>
 
-## Table A
-
-### Application, saving or transitional provisions
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
