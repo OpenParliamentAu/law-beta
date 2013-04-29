@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 15 June 2011
+This compilation was prepared on 15 March 2011
  taking into account amendments up to Act No. 140 of 2010
 
 The text of any of those amendments not in force
@@ -442,17 +442,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [112](#112).        Application of this Part
 
-**Part 5—Customer service guarantee** 
-
-    **Division 1—Introduction**
+**Part 5—Customer service guarantee**
 
 [113](#113).        Simplified outline
 
 [114](#114).        Interpretation
-
-[114A](#114A).     Wholesale carriage service and wholesale customer
-
-    **Division 2—Retail performance standards and benchmarks**
 
 [115](#115).        Performance standards
 
@@ -462,20 +456,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [117A](#117A).     Time for payment of damages for breach of performance standards
 
-[117B](#117B).     Performance benchmarks
-
-[117C](#117C).     Compliance with performance benchmarks
-
-    **Division 3—Wholesale performance standards and benchmarks**
-
-[117D](#117D).     Performance standards
-
-[117E](#117E).      Performance benchmarks
-
-[117F](#117F).      Compliance with performance benchmarks
-
-    **Division 4—Other provisions**
-
 [118](#118).        Remedial directions—compliance with performance standards
 
 [118A](#118A).     Right of contribution
@@ -484,13 +464,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [120](#120).        Waiver of customer service guarantee
 
-[120A](#120A).     Carriage service may be supplied on condition that the customer waives the customer service guarantee
-
 [121](#121).        Savings of other laws and remedies
 
 [122](#122).        Breach of performance standard is not an offence
-
-[122A](#122A).     Failure to meet or exceed a minimum benchmark is not an offence
 
 [123](#123).        Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a breach of a performance standard
 
@@ -1904,7 +1880,7 @@ but does not deal with alternative telecommunications services.
 
              (5)  A draft or approved standard marketing plan may cover one or more universal service areas in respect of one or more service obligations.
 
-##### <a id="12G"></a>12G  Minister may determine requirements for drafts
+##### <a id="12G"></a>12G  Minister may determine requirements for drafts
 
              (1)  The Minister may determine in writing requirements for draft policy statements and draft standard marketing plans of primary universal service providers.
 
@@ -2648,7 +2624,7 @@ and the provider gives the ACMA a draft variation of the current statement or cu
 
 ### Division 9—Universal service subsidy
 
-##### <a id="16"></a>16  Determination of universal service subsidy
+##### <a id="16"></a>16  Determination of universal service subsidy
 
              (1)  Before the end of a claim period, the Minister must determine in writing one or more universal service subsidies for the period. A copy of a determination under this subsection must be published in the _Gazette_.
 
@@ -2892,7 +2868,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image002.gif)
 
 where:
 
@@ -2998,7 +2974,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image003.gif)
 
 where:
 
@@ -3576,7 +3552,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00438/Html/a654ce1d-5cd7-4265-883d-5e9ba9a2c848_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00142/Html/adb8697b-06dd-432f-825a-dfd6efda1b29_files/image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -3902,8 +3878,6 @@ the provider is a universal service provider for the customer.
 
 ## Part 5—Customer service guarantee
 
-### Division 1—Introduction
-
 ##### <a id="113"></a>113  Simplified outline
 
                    The following is a simplified outline of this Part:
@@ -3920,27 +3894,13 @@ providers in relation to customer service.</li>
 
 a carriage service provider contravenes a performance standard, the carriage
 
-service provider is liable to pay damages to the customer for the
-
-contravention.</li>
+service provider is liable to pay damages to the customer for the contravention.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
 amount of damages payable for a particular contravention is equal to the
 
 relevant amount specified in the scale of damages determined by the ACMA.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may make performance standards to be complied with by carriage service
-
-providers in relation to the supply of wholesale carriage services.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may set minimum benchmarks in relation to compliance by carriage
-
-service providers with performance standards.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -3959,22 +3919,6 @@ relation to a contravention of a performance standard.</li>
                     <a name="damag"></a>**_damages_** includes punitive damages.
 
              (2)  In determining the meaning that an expression has when used in a provision of the _Telecommunications Act 1997_, or in a provision of this Act other than this Part, subsection (1) is to be disregarded.
-
-##### <a id="114A"></a>114A  Wholesale carriage service and wholesale customer
-
-                   For the purposes of this Part, if:
-
-                     (a)  a carriage service provider (the **_first provider_**) supplies, or proposes to supply, a carriage service to another carriage service provider (the **_second provider_**); and
-
-                     (b)  the carriage service is, or is to be, supplied to the second provider in order that the second provider can provide a carriage service;
-
-then:
-
-                     (c)  the carriage service that is, or is to be, supplied to the second provider is a **_wholesale carriage service_**; and
-
-                     (d)  the second provider is a **_wholesale customer_** of the first provider.
-
-### Division 2—Retail performance standards and benchmarks
 
 ##### <a id="115"></a>115  Performance standards
 
@@ -4002,13 +3946,17 @@ then:
 
                      (b)  offers to supply that kind of service at that location.
 
-          (2A)  A standard under this section does not apply in relation to matter concerning the supply, or proposed supply, of a wholesale carriage service.
-
              (3)  The ACMA must not make a standard under this section unless it is directed to do so by the Minister under section 124.
 
              (4)  A standard under this section may be of general application or may be limited as provided in the standard. This subsection does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
-             (5)  An instrument under subsection (1) is a legislative instrument.
+             (5)  A standard under this section takes effect:
+
+                     (a)  if the instrument making the standard specifies a day for the purpose—on that day; or
+
+                     (b)  otherwise—on the day on which the standard was notified in the _Gazette_.
+
+             (6)  A standard under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="116"></a>116  Damages for breach of performance standards
 
@@ -4114,81 +4062,9 @@ Transitional
 
              (7)  The reference in subsection (1) to a **_particular time_** is a reference to a particular time after the end of the period of 12 months beginning on the date of commencement of this section.
 
-##### <a id="117B"></a>117B  Performance benchmarks
-
-             (1)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by carriage service providers with a standard in force under section 115.
-
-             (2)  An instrument under this section may be of general application or may be limited as provided in the instrument.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-##### <a id="117C"></a>117C  Compliance with performance benchmarks
-
-Scope
-
-             (1)  This section applies if an instrument under section 117B is applicable to a carriage service provider (the **_first provider_**).
-
-Provider must meet or exceed minimum benchmark
-
-             (2)  The first provider must meet or exceed a minimum benchmark set by the instrument.
-
-Contravention caused by another provider
-
-             (3)  For the purposes of determining whether the first providerhas met or exceeded a minimum benchmark set by the instrument, if:
-
-                     (a)  the first provider has contravened a standard in force under section 115; and
-
-                     (b)  the contravention is wholly or partly attributable to one or more acts or omissions of another carriage service provider;
-
-the first provider is taken not to have contravened the standard.
-
-### Division 3—Wholesale performance standards and benchmarks
-
-##### <a id="117D"></a>117D  Performance standards
-
-             (1)  The Minister may, by legislative instrument, make standards to be complied with by carriage service providers in relation to a matter that:
-
-                     (a)  concerns the supply, or proposed supply, of wholesale carriage services to a wholesale customer; and
-
-                     (b)  is capable of affecting the capacity or ability of a wholesale customer to comply with a standard in force under section 115 in relation to a matter concerning the supply, or proposed supply, of a carriage service by the wholesale customer.
-
-             (2)  A standard under this section may be of general application or may be limited as provided in the standard.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-##### <a id="117E"></a>117E  Performance benchmarks
-
-             (1)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by carriage service providers with a standard in force under section 117D.
-
-             (2)  An instrument under this section may be of general application or may be limited as provided in the instrument.
-
-             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
-
-##### <a id="117F"></a>117F  Compliance with performance benchmarks
-
-Scope
-
-             (1)  This section applies if an instrument under section 117E is applicable to a carriage service provider (the **_first provider_**).
-
-Provider must meet or exceed minimum benchmark
-
-             (2)  The first provider must meet or exceed a minimum benchmark set by the instrument.
-
-Contravention caused by another provider
-
-             (3)  For the purposes of determining whether the first providerhas met or exceeded a minimum benchmark set by the instrument, if:
-
-                     (a)  the first provider has contravened a standard in force under section 117D; and
-
-                     (b)  the contravention is wholly or partly attributable to one or more acts or omissions of another carriage service provider;
-
-the first provider is taken not to have contravened the standard.
-
-### Division 4—Other provisions
-
 ##### <a id="118"></a>118  Remedial directions—compliance with performance standards
 
-             (1)  This section applies if a carriage service provider is subject to a standard in force under section 115 or 117D.
+             (1)  This section applies if a carriage service provider is subject to a standard in force under section 115.
 
              (2)  The ACMA may give the provider a written direction:
 
@@ -4200,7 +4076,7 @@ Note:          Under section 124, the Minister may give the 
 
              (3)  The following are examples of the kinds of direction that may be given to a carriage service provider under subsection (2):
 
-                     (a)  a direction that the provider implement effective administrative systems for monitoring compliance with a standard in force under section 115 or 117D;
+                     (a)  a direction that the provider implement effective administrative systems for monitoring compliance with a standard in force under section 115;
 
                      (b)  a direction that the provider take such action as is necessary to ensure that the extent of the provider’s compliance with a standard in force under section 115, in so far as that standard relates to the keeping of appointments to meet customers in rural areas, reaches or exceeds a specified goal or target.
 
@@ -4280,19 +4156,7 @@ the amount of the secondary damages payable for the acts or omissions is to be r
 
              (3)  A waiver must be made in accordance with the rules set out in the instrument.
 
-             (4)  A waiver must be in the form specified in the instrument.
-
-             (5)  The form must include a statement that summarises the consequences of the waiver.
-
-             (6)  A waiver must not be set out in a standard form of agreement formulated by a carriage service provider for the purposes of section 479 of the _Telecommunications Act 1997_.
-
-             (7)  A customer is not entitled to waive, in whole or in part, the customer’s protection and rights under this Part in relation to a particular standard telephone service supplied, or proposed to be supplied, by the carriage service provider concerned if the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
-
-             (8)  An instrument under subsection (1) is a legislative instrument.
-
-##### <a id="120A"></a>120A  Carriage service may be supplied on condition that the customer waives the customer service guarantee
-
-                   This Act does not prevent, and is taken never to have prevented, a carriage service provider from supplying, or proposing to supply, a particular carriage service to a customer on condition that the customer waives, in accordance with section 120, the customer’s protection and rights under this Part in relation to the carriage service.
+             (4)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="121"></a>121  Savings of other laws and remedies
 
@@ -4306,15 +4170,11 @@ the amount of the secondary damages payable for the acts or omissions is to be r
 
 ##### <a id="122"></a>122  Breach of performance standard is not an offence 
 
-                   A contravention of a standard in force under section 115 or 117D is not an offence.
-
-##### <a id="122A"></a>122A  Failure to meet or exceed a minimum benchmark is not an offence
-
-                   A contravention of section 117C or 117F is not an offence.
+                   A contravention of a standard in force under section 115 is not an offence.
 
 ##### <a id="123"></a>123  Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a breach of a performance standard
 
-                   Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under section 115 or 117D.
+                   Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ does not apply to a contravention of a standard in force under section 115.
 
 Note:          Clause 1 of Schedule 2 to the _Telecommunications Act 1997_ requires carriage service providers to comply with this Act.
 
@@ -5004,9 +4864,9 @@ If the parties fail to agree on the appointment of an arbitrator, the ACCC is to
 
 <li class="BoxList" style="margin-left:21.25pt">•     This
 
-Part provides for price control arrangements for carriage services, content
+Part provides for price control arrangements for carriage services, content services
 
-services and facilities supplied by Telstra.</li>
+and facilities supplied by Telstra.</li>
 
 * * *
 
@@ -5234,7 +5094,7 @@ Note:          Part 31 of the _Telecommunications Act 1997_ 
 
              (2)  A determination under paragraph (1)(a) or (b) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="158J"></a>158J  Telephone sex service
+##### <a id="158J"></a>158J  Telephone sex service
 
              (1)  For the purposes of this Part, a **_telephone sex service_** is a commercial service supplied using a standard telephone service, where:
 
@@ -5628,7 +5488,7 @@ may assist the RTIRC in the performance of its functions.
 
 ### Note 1
 
-The _Telecommunications (Consumer Protection and Service Standards) Act 1999_ as shown in this compilation comprises Act No. 50, 1999 amended as indicated in the Tables below.
+The _Telecommunications (Consumer Protection and Service Standards) Act 1999_ as shown in this compilation comprises Act No. 50, 1999 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
 
@@ -5729,7 +5589,7 @@ Remainder: 2 Aug 1999</div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2000 
+    <div>Schedule 1: 1 July 2000 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -5754,7 +5614,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2, 
-Sch. 3 (items 7, 9) and Sch. 5</div>
+Sch. 3 (items 7, 9) 
+and Sch. 5</div>
   </td>
 </tr>
 <tr>
@@ -5837,7 +5698,7 @@ Remainder: 21 Dec 2001</div>
     <div>27 Nov 2003</div>
   </td>
   <td>
-    <div>Schedule 2: 27 Mar 2003 
+    <div>Schedule 2: 27 Mar 2003 
 Remainder: 28 Nov 2003</div>
   </td>
   <td>
@@ -5977,7 +5838,7 @@ Schedule 3: Royal Assent</div>
     <div>18 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 48–50): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 48–50): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -5994,7 +5855,7 @@ Schedule 3: Royal Assent</div>
     <div>16 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 55–102): 17 Nov 2009</div>
+    <div>Schedule 1 (items 55–102): 17 Nov 2009</div>
   </td>
   <td>
     <div>Sch. 1 (items 
@@ -6029,7 +5890,7 @@ Schedule 3: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 139): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 139): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -6046,8 +5907,8 @@ Schedule 3: Royal Assent</div>
     <div>15 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 214–226): 15 Mar 2011 
-Schedule 1 (items 227–240): 15 June 2011</div>
+    <div>Schedule 1 (items 214–226): 15 Mar 2011 
+Schedule 1 (items 227–240): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 240)</div>
@@ -6058,7 +5919,7 @@ _(a)_     The _Telecommunications (Consumer Protection and Service Stand
 
                  (3)   Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
-         Part 2 commenced on 2 August 1999.
+         Part 2 commenced on 2 August 1999.
 
 _(b)_     The _Telecommunications (Consumer Protection and Service Standards) Act 1999_ was amended by Schedule 1 (items 163–165) only of the _Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
@@ -6839,7 +6700,7 @@ _(f)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Rev
 <tr>
   <td>
     <div>Subdiv. BA of Div. 5 of 
-Part 2</div>
+Part 2</div>
   </td>
   <td>
     <div>ad. No. 140, 2010</div>
@@ -6864,7 +6725,7 @@ Part 2</div>
 <tr>
   <td>
     <div>Subdiv. BB of Div. 5 of 
-Part 2</div>
+Part 2</div>
   </td>
   <td>
     <div>ad. No. 140, 2010</div>
@@ -9128,50 +8989,10 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 113</div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9179,7 +9000,7 @@ Part 2</div>
     <div>S. 115</div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 140, 2010</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9192,58 +9013,10 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 117B, 117C</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 117D–117F</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 118</div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 140, 2010</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -9256,50 +9029,10 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 119</div>
+    <div>Ss. 119, 120</div>
   </td>
   <td>
     <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005; No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 120A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 122</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 122A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 123</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9758,6 +9491,208 @@ Part 2</div>
     <div>rep. No. 111, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010 (No. 140, 2010)_
+
+The following amendments commence on 15 June 2011:
+
+## Schedule 1
+
+## 227  Before section 113
+
+Insert:
+
+### Division 1—Introduction
+
+## 228  Section 113
+
+Before:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•     The
+
+Telecommunications Industry Ombudsman may issue an evidentiary certificate in
+
+relation to a contravention of a performance standard.</li>
+
+* * *
+
+insert:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•     The
+
+Minister may make performance standards to be complied with by carriage service
+
+providers in relation to the supply of wholesale carriage services.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•     The
+
+Minister may set minimum benchmarks in relation to compliance by carriage
+
+service providers with performance standards.</li>
+
+* * *
+
+## 229  After section 114
+
+Insert:
+
+##### <a id="114A"></a>114A  Wholesale carriage service and wholesale customer
+
+                   For the purposes of this Part, if:
+
+                     (a)  a carriage service provider (the **_first provider_**) supplies, or proposes to supply, a carriage service to another carriage service provider (the **_second provider_**); and
+
+                     (b)  the carriage service is, or is to be, supplied to the second provider in order that the second provider can provide a carriage service;
+
+then:
+
+                     (c)  the carriage service that is, or is to be, supplied to the second provider is a **_wholesale carriage service_**; and
+
+                     (d)  the second provider is a **_wholesale customer_** of the first provider.
+
+### Division 2—Retail performance standards and benchmarks
+
+## 230  After subsection 115(2)
+
+Insert:
+
+          (2A)  A standard under this section does not apply in relation to matter concerning the supply, or proposed supply, of a wholesale carriage service.
+
+## 231  Subsections 115(5) and (6)
+
+Repeal the subsections, substitute:
+
+             (5)  An instrument under subsection (1) is a legislative instrument.
+
+## 232  After section 117A
+
+Insert:
+
+##### <a id="117B"></a>117B  Performance benchmarks
+
+             (1)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by carriage service providers with a standard in force under section 115.
+
+             (2)  An instrument under this section may be of general application or may be limited as provided in the instrument.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+##### <a id="117C"></a>117C  Compliance with performance benchmarks
+
+Scope
+
+             (1)  This section applies if an instrument under section 117B is applicable to a carriage service provider (the **_first provider_**).
+
+Provider must meet or exceed minimum benchmark
+
+             (2)  The first provider must meet or exceed a minimum benchmark set by the instrument.
+
+Contravention caused by another provider
+
+             (3)  For the purposes of determining whether the first providerhas met or exceeded a minimum benchmark set by the instrument, if:
+
+                     (a)  the first provider has contravened a standard in force under section 115; and
+
+                     (b)  the contravention is wholly or partly attributable to one or more acts or omissions of another carriage service provider;
+
+the first provider is taken not to have contravened the standard.
+
+### Division 3—Wholesale performance standards and benchmarks
+
+##### <a id="117D"></a>117D  Performance standards
+
+             (1)  The Minister may, by legislative instrument, make standards to be complied with by carriage service providers in relation to a matter that:
+
+                     (a)  concerns the supply, or proposed supply, of wholesale carriage services to a wholesale customer; and
+
+                     (b)  is capable of affecting the capacity or ability of a wholesale customer to comply with a standard in force under section 115 in relation to a matter concerning the supply, or proposed supply, of a carriage service by the wholesale customer.
+
+             (2)  A standard under this section may be of general application or may be limited as provided in the standard.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+##### <a id="117E"></a>117E  Performance benchmarks
+
+             (1)  The Minister may, by legislative instrument, set minimum benchmarks in relation to compliance by carriage service providers with a standard in force under section 117D.
+
+             (2)  An instrument under this section may be of general application or may be limited as provided in the instrument.
+
+             (3)  Subsection (2) does not, by implication, limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
+
+##### <a id="117F"></a>117F  Compliance with performance benchmarks
+
+Scope
+
+             (1)  This section applies if an instrument under section 117E is applicable to a carriage service provider (the **_first provider_**).
+
+Provider must meet or exceed minimum benchmark
+
+             (2)  The first provider must meet or exceed a minimum benchmark set by the instrument.
+
+Contravention caused by another provider
+
+             (3)  For the purposes of determining whether the first providerhas met or exceeded a minimum benchmark set by the instrument, if:
+
+                     (a)  the first provider has contravened a standard in force under section 117D; and
+
+                     (b)  the contravention is wholly or partly attributable to one or more acts or omissions of another carriage service provider;
+
+the first provider is taken not to have contravened the standard.
+
+### Division 4—Other provisions
+
+## 233  At the end of subsection 118(1)
+
+Add “or 117D”.
+
+## 234  At the end of paragraph 118(3)(a)
+
+Add “or 117D”.
+
+## 235  Subsection 120(4)
+
+Repeal the subsection, substitute:
+
+             (4)  A waiver must be in the form specified in the instrument.
+
+             (5)  The form must include a statement that summarises the consequences of the waiver.
+
+             (6)  A waiver must not be set out in a standard form of agreement formulated by a carriage service provider for the purposes of section 479 of the _Telecommunications Act 1997_.
+
+             (7)  A customer is not entitled to waive, in whole or in part, the customer’s protection and rights under this Part in relation to a particular standard telephone service supplied, or proposed to be supplied, by the carriage service provider concerned if the service is supplied, or proposed to be supplied, in fulfilment of the universal service obligation.
+
+             (8)  An instrument under subsection (1) is a legislative instrument.
+
+## 236  After section 120
+
+Insert:
+
+##### <a id="120A"></a>120A  Carriage service may be supplied on condition that the customer waives the customer service guarantee
+
+                   This Act does not prevent, and is taken never to have prevented, a carriage service provider from supplying, or proposing to supply, a particular carriage service to a customer on condition that the customer waives, in accordance with section 120, the customer’s protection and rights under this Part in relation to the carriage service.
+
+## 237  Section 122
+
+After “115”, insert “or 117D”.
+
+## 238  After section 122
+
+Insert:
+
+##### <a id="122A"></a>122A  Failure to meet or exceed a minimum benchmark is not an offence
+
+                   A contravention of section 117C or 117F is not an offence.
+
+## 239  At the end of section 123 (before the note)
+
+Add “or 117D”.
+
+As at 15 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10407,6 +10342,8 @@ as if the reference to Part 2 of the _Telecommunications (Consumer Protection 
 * * *
 
 _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010 (No. 140, 2010)_
+
+The following provision commences on the 15 June 2011:
 
 ## Schedule 1
 
