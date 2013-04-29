@@ -1,160 +1,163 @@
-![](http://www.comlaw.gov.au/Details/C2008C00318/Html/CocosKeelingIsland55_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00101/Html/E7BEE3C1864A73F1CA25714100127911/$FILE/image001.gif)
 
 # Cocos (Keeling) Islands Act 1955
 
 **Act No. 34 of 1955 as amended**
 
-This compilation was prepared on 9 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 143 of 2001
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               2
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                       4
 
 **Part II—Acceptance of the Islands**
 
-[5](#5).            Acceptance of Cocos or Keeling Islands
+[5](#5).            Acceptance of Cocos or Keeling Islands                                             5
 
-[6](#6).            Transfer of rights, liabilities etc  to Commonwealth
+[6](#6).            Transfer of rights, liabilities etc  to Commonwealth                           5
 
-[7](#7).            Extinguishment of certain rights and restrictions under the 1886 Indenture
+[7](#7).            Extinguishment of certain rights and restrictions under the 1886 Indenture            6
 
 **Part III—Laws and legislative powers** 
 
     **Division 1—Laws of the Territory**
 
-[7A](#7A).         The laws of the Territory
+[7A](#7A).         The laws of the Territory                                                                    7
 
-[8](#8).            Operation of existing laws etc 
+[8](#8).            Operation of existing laws etc                                                             7
 
-[8A](#8A).         Application of Western Australian laws
+[8A](#8A).         Application of Western Australian laws                                             8
 
-[8B](#8B).         Minister must table lists of applied Western Australian Acts
+[8B](#8B).         Minister must table lists of applied Western Australian Acts            8
 
-[8C](#8C).         House may terminate application of Western Australian Acts in the Territory
+[8C](#8C).         House may terminate application of Western Australian Acts in the Territory     9
 
-[8D](#8D).         Extension of period for giving notice of motion to terminate WA Act
+[8D](#8D).         Extension of period for giving notice of motion to terminate WA Act 11
 
-[8E](#8E).          Application of Commonwealth Acts
+[8E](#8E).          Application of Commonwealth Acts                                                12
 
-[8G](#8G).         Powers and functions under the applied Western Australian laws
+[8G](#8G).         Powers and functions under the applied Western Australian laws   12
 
-[8H](#8H).         Arrangements with the Government of Western Australia
+[8H](#8H).         Arrangements with the Government of Western Australia               14
 
-[8I](#8I).           Savings
+[8I](#8I).           Savings                                                                                               15
 
     **Division 2—Legislative powers of the Governor-General**
 
-[12](#12).          Legislative powers of Governor-General
+[12](#12).          Legislative powers of Governor-General                                           16
 
-[13](#13).          Laying of Ordinances before the Parliament
+[13](#13).          Laying of Ordinances before the Parliament                                      16
 
-[13A](#13A).       Ordinance not to be re-made while required to be tabled
+[13A](#13A).       Ordinance not to be re-made while required to be tabled                  17
 
-[13B](#13B).       Ordinance not to be re-made while subject to disallowance
+[13B](#13B).       Ordinance not to be re-made while subject to disallowance              18
 
-[13C](#13C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
+[13C](#13C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves     19
 
-[13D](#13D).       Regulations, rules and by-laws
+[13D](#13D).       Regulations, rules and by-laws                                                          20
 
 **Part IVA—Trials on indictment**
 
-[15AA](#15AA).    Trials on indictment to be by judge and jury
+[15AA](#15AA).    Trials on indictment to be by judge and jury                                     21
 
-[15AB](#15AB).    Minister may make arrangements with States
+[15AB](#15AB).    Minister may make arrangements with States                                   21
 
-[15AC](#15AC).    Indictment court may sit in a State
+[15AC](#15AC).    Indictment court may sit in a State                                                    21
 
-[15AD](#15AD).    Juries outside the Territory
+[15AD](#15AD).    Juries outside the Territory                                                               23
 
-[15AE](#15AE).     Offences in relation to jurors
+[15AE](#15AE).     Offences in relation to jurors                                                             24
 
-[15AF](#15AF).     Removal of accused to State to stand trial
+[15AF](#15AF).     Removal of accused to State to stand trial                                         25
 
-[15AG](#15AG).    Accused to be conveyed to court
+[15AG](#15AG).    Accused to be conveyed to court                                                      26
 
-[15AH](#15AH).    Return of accused to Territory
+[15AH](#15AH).    Return of accused to Territory                                                          26
 
-[15AI](#15AI).      Person deemed to be prisoner under _Removal of Prisoners (Territories) Act 1923_
+[15AI](#15AI).      Person deemed to be prisoner under _Removal of Prisoners (Territories) Act 1923_                27
 
-[15AJ](#15AJ).     Person deemed to be criminal lunatic under _Removal of Prisoners (Territories) Act 1923_
+[15AJ](#15AJ).     Person deemed to be criminal lunatic under _Removal of Prisoners (Territories) Act 1923_     27
 
-[15AK](#15AK).    Repatriation of person tried in a State
+[15AK](#15AK).    Repatriation of person tried in a State                                               28
 
 **Part IVAA—Conferral of Territory jurisdiction on Western Australian courts etc.**
 
-[15AAA](#15AAA). Definitions
+[15AAA](#15AAA). Definitions                                                                                         29
 
-[15AAB](#15AAB). Conferral of jurisdiction on Western Australian courts and court officers
+[15AAB](#15AAB). Conferral of jurisdiction on Western Australian courts and court officers              29
 
-[15AAC](#15AAC). Transfer of Supreme Court jurisdiction
+[15AAC](#15AAC). Transfer of Supreme Court jurisdiction                                             29
 
-[15AAD](#15AAD). Transfer of pending proceedings
+[15AAD](#15AAD). Transfer of pending proceedings                                                       30
 
-[15AAE](#15AAE).  Application of provisions of this Act to courts of Western Australia
+[15AAE](#15AAE).  Application of provisions of this Act to courts of Western Australia 31
 
-[15AAF](#15AAF).  Savings—jurisdiction of Supreme Court of the Territory on and after transfer day
+[15AAF](#15AAF).  Savings—jurisdiction of Supreme Court of the Territory on and after transfer day               32
 
-[15AAG](#15AAG). Abolition of Supreme Court of the Territory
+[15AAG](#15AAG). Abolition of Supreme Court of the Territory                                    32
 
-[15AAH](#15AAH). Transitional provisions after abolition of Supreme Court
+[15AAH](#15AAH). Transitional provisions after abolition of Supreme Court                 32
 
-[15AAI](#15AAI).   References to courts of Territory—transitional
+[15AAI](#15AAI).   References to courts of Territory—transitional                                33
 
 **Part V—Miscellaneous**
 
-[15A](#15A).       Appointment of officers
+[15A](#15A).       Appointment of officers                                                                    34
 
-[16](#16).          Sittings of courts etc 
+[16](#16).          Sittings of courts etc                                                                          34
 
-[17](#17).          Grant of pardon, remission etc 
+[17](#17).          Grant of pardon, remission etc                                                          34
 
-[18](#18).          Continuation of Malay customs
+[18](#18).          Continuation of Malay customs                                                        35
 
-[18A](#18A).       Exemption from customs duty of goods produced in the Territory
+[18A](#18A).       Exemption from customs duty of goods produced in the Territory 35
 
-[18B](#18B).       Disposal of land
+[18B](#18B).       Disposal of land                                                                                 35
 
-[19](#19).          Audit
+[19](#19).          Audit                                                                                                  36
 
-[20](#20).          Regulations
+[20](#20).          Regulations                                                                                        36
 
 **Schedule—Laws continuing in force in the Territory on and after 1 July 1992** 
 
 **Notes** 
 
+
 ## An Act to provide for the acceptance of the Cocos or Keeling Islands as a Territory under the Authority of the Commonwealth and to provide for the Government of that Territory
 
 Preamble
 
-                   WHEREAS the islands named the Cocos or Keeling Islands (being the islands referred to in section 4) are governed and administered as part of the Colony of Singapore, in pursuance of the Singapore Colony Order in Council, 1955, being an Order in Council dated 1 February 1955, made by Her Majesty by virtue and in exercise of the powers vested in Her Majesty by the Imperial Acts entitled the British Settlements Acts, 1887 and 1945, and the Straits Settlements (Repeal) Act, 1946: 
+WHEREAS the islands named the Cocos or Keeling Islands (being the islands referred to in section 4) are governed and administered as part of the Colony of Singapore, in pursuance of the Singapore Colony Order in Council, 1955, being an Order in Council dated 1 February 1955, made by Her Majesty by virtue and in exercise of the powers vested in Her Majesty by the Imperial Acts entitled the British Settlements Acts, 1887 and 1945, and the Straits Settlements (Repeal) Act, 1946: 
 
-      AND WHEREAS by the _Cocos (Keeling) Islands (Request and Consent) Act 1954_ the Parliament of the Commonwealth requested, and consented to, the enactment by the Parliament of the United Kingdom of an Act enabling the Queen to place the Cocos or Keeling Islands under the authority of the Commonwealth and making provision for matters incidental to the placing of those Islands under that authority:
+AND WHEREAS by the _Cocos (Keeling) Islands (Request and Consent) Act 1954_ the Parliament of the Commonwealth requested, and consented to, the enactment by the Parliament of the United Kingdom of an Act enabling the Queen to place the Cocos or Keeling Islands under the authority of the Commonwealth and making provision for matters incidental to the placing of those Islands under that authority:
 
-      AND WHEREAS the Government of the Commonwealth has also requested, and consented to, the enactment by the Parliament of the United Kingdom of such an Act:
+AND WHEREAS the Government of the Commonwealth has also requested, and consented to, the enactment by the Parliament of the United Kingdom of such an Act:
 
-      AND WHEREAS by the Imperial Act entitled the Cocos Islands Act, 1955, it is provided that Her Majesty may, by Order in Council, direct that the Cocos or Keeling  Islands shall, on such date as may be specified in the Order, cease to form part of the Colony of Singapore and be placed under the authority of the Commonwealth: 
+AND WHEREAS by the Imperial Act entitled the Cocos Islands Act, 1955, it is provided that Her Majesty may, by Order in Council, direct that the Cocos or Keeling Islands shall, on such date as may be specified in the Order, cease to form part of the Colony of Singapore and be placed under the authority of the Commonwealth: 
 
-      AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any territory placed by the Queen under the authority of and accepted by the Commonwealth:
+AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any territory placed by the Queen under the authority of and accepted by the Commonwealth:
 
-      BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows:
+BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows:
 
 ## Part I—Preliminary
 
@@ -204,19 +207,19 @@ Preamble
 
                             (iii)  Collector of Maintenance; or
 
-                     (c)  the office of Chairman, Deputy Chairman or nominee member of the Workers’ Compensation Board of Western   Australia; or
+                     (c)  the office of Chairman, Deputy Chairman or nominee member of the Workers’ Compensation Board of Western Australia; or
 
                      (d)  any other office in respect of a court of Western Australia, being an office specified in the regulations.
 
                     <a name="court-western-australia"></a>**_court of Western Australia_** means any of the following courts or tribunals:
 
-                     (a)  the Supreme Court of Western   Australia;
+                     (a)  the Supreme Court of Western Australia;
 
-                     (b)  the District Court of Western   Australia;
+                     (b)  the District Court of Western Australia;
 
-                     (c)  the Family Court of Western   Australia;
+                     (c)  the Family Court of Western Australia;
 
-                     (d)  a Court of Petty Sessions of Western   Australia;
+                     (d)  a Court of Petty Sessions of Western Australia;
 
                      (e)  a Local Court of Western Australia;
 
@@ -224,7 +227,7 @@ Preamble
 
                      (g)  the Children’s Court of Western Australia;
 
-                     (h)  the Workers’ Compensation Board of   Western Australia;
+                     (h)  the Workers’ Compensation Board of Western Australia;
 
                       (i)  any other court or tribunal specified in the regulations.
 
@@ -246,7 +249,7 @@ Preamble
 
                     <a name="suprem-court-territori"></a>**_Supreme Court of the Territory_** means the Supreme Court established by the _Supreme Court Ordinance 1955_ of the Territory.
 
-                    <a name="island"></a><a name=""></a>**_the_****_Islands_** means the Cocos or Keeling  Islands situated in the Indian Ocean in or about latitude 12°5´ south and longitude 96°53´ east, including the Northern Island otherwise called North Keeling  Island.
+                    <a name="island"></a><a name=""></a>**_the_****_Islands_** means the Cocos or Keeling Islands situated in the Indian Ocean in or about latitude 12°5´ south and longitude 96°53´ east, including the Northern Island otherwise called North Keeling Island.
 
                     <a name="polic-forc-territori"></a>**_the police force of the Territory_** includes any police force empowered to provide police services under a law in force in the Territory.
 
@@ -342,9 +345,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (5)  For the purpose of subsection (4), a law is consistent with the Constitution or an Act or Ordinance if the law is capable of operating concurrently with it.
 
-             (6)   In this section:
+             (6)  In this section:
 
-                    <a name="western-australia"></a><a name="provision-law"></a>**_provision of the law of_****_Western   Australia_**:
+                    <a name="western-australia"></a><a name="provision-law"></a>**_provision of the law of_****_Western Australia_**:
 
                      (a)  includes a principle or rule of common law or equity that is part of the law of Western Australia; and
 
@@ -674,7 +677,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
           (1A)  In subsection (1), a regulation made under a law in force in the Territory:
 
-                     (a)  does not include a regulation of Western   Australia as in force in the Territory under section 8A; and
+                     (a)  does not include a regulation of Western Australia as in force in the Territory under section 8A; and
 
                      (b)  includes a regulation made by a person or an authority empowered, under section 8G, to make the regulation under a Western Australian law as in force in the Territory under section 8A.
 
@@ -922,7 +925,7 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 
              (2)  Subject to any law in force in the Territory, a court or court officer of Western Australia may, in exercising jurisdiction under this section, sit in the Territory or Western Australia.
 
-             (3)  Subject to any law in force in the Territory, the practice and procedure applicable to a court or court officer exercising jurisdiction under this section are to be the practice and procedure as in force from time to time in relation to that court or court officer in Western   Australia.
+             (3)  Subject to any law in force in the Territory, the practice and procedure applicable to a court or court officer exercising jurisdiction under this section are to be the practice and procedure as in force from time to time in relation to that court or court officer in Western Australia.
 
 ##### <a id="15AAC"></a>15AAC  Transfer of Supreme Court jurisdiction
 
@@ -1068,9 +1071,9 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 
 ##### <a id="17"></a>17  Grant of pardon, remission etc.
 
-             (1)  The Governor-General, acting with the advice of the Minister, may, by warrant under the Governor-General’s hand, grant to a person convicted by a court of the Territory exercising criminal jurisdiction a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as the Governor-General thinks fit, of the execution of sentence, and may remit any fine, penalty or forfeiture imposed or incurred under a law in force in the Territory.
+             (1)  The Governor-General, acting with the advice of the Minister, may, by warrant under his hand, grant to a person convicted by a court of the Territory exercising criminal jurisdiction a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as he thinks fit, of the execution of sentence, and may remit any fine, penalty or forfeiture imposed or incurred under a law in force in the Territory.
 
-             (2)  Where an offence has been committed in the Territory, or where an offence has been committed outside the Territory for which the offender may be tried in the Territory, the Governor-General, acting with the advice of the Minister, may, by warrant under the Governor-General’s hand, grant a pardon to an accomplice who gives evidence that leads to the conviction of the principal offender, or of any of the principal offenders.
+             (2)  Where an offence has been committed in the Territory, or where an offence has been committed outside the Territory for which the offender may be tried in the Territory, the Governor-General, acting with the advice of the Minister, may, by warrant under his hand, grant a pardon to an accomplice who gives evidence that leads to the conviction of the principal offender, or of any of the principal offenders.
 
 ##### <a id="18"></a>18  Continuation of Malay customs
 
@@ -1110,6 +1113,7 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 
                      (b)  making saving or transitional provisions in relation to the abolition of any court established by a law of the Territory. 
 
+
 # Schedule—Laws continuing in force in the Territory on and after 1 July 1992
 
 _Section 8_
@@ -1131,6 +1135,7 @@ _Postal Services Ordinance 1979_
 Quarantine and Prevention of Disease Ordinance (of the Colony of Singapore in its application to the Territory)
 
 _Supreme Court Ordinance 1955_
+
 
 # Notes to the _Cocos (Keeling) Islands Act 1955_
 
@@ -1160,11 +1165,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1174,459 +1181,453 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Cocos (Keeling) Islands Act 1955</div>
-  </td>
-  <td>
-    <div>34, 1955</div>
-  </td>
-  <td>
-    <div>16 June 1955</div>
-  </td>
-  <td>
-    <div>23 Nov 1955 ( <i>see Gazette</i>1955, 
-p. 3665)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cocos (Keeling) Islands Act 1956</div>
-  </td>
-  <td>
-    <div>89, 1956</div>
-  </td>
-  <td>
-    <div>8 Nov 1956</div>
-  </td>
-  <td>
-    <div>23 Nov 1955</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cocos (Keeling) Islands Act 1958</div>
-  </td>
-  <td>
-    <div>67, 1958</div>
-  </td>
-  <td>
-    <div>8 Oct 1958</div>
-  </td>
-  <td>
-    <div>8 Oct 1958</div>
-  </td>
-  <td>
-    <div>S. 5(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cocos (Keeling) Islands Act 1963</div>
-  </td>
-  <td>
-    <div>22, 1963</div>
-  </td>
-  <td>
-    <div>28 May 1963</div>
-  </td>
-  <td>
-    <div>25 June 1963</div>
-  </td>
-  <td>
-    <div>S. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Postal and Telecommunications Commissions (Transitional Provisions) Act 1975</div>
-  </td>
-  <td>
-    <div>56, 1975</div>
-  </td>
-  <td>
-    <div>12 June 1975</div>
-  </td>
-  <td>
-    <div>Ss. 4 and 38: 1 July 1975 ( <i>see</i>s. 2(1) and <i>Gazette</i>1975, No. S122) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cocos (Keeling) Islands Amendment Act 1979</div>
-  </td>
-  <td>
-    <div>6, 1979</div>
-  </td>
-  <td>
-    <div>5 Mar 1979</div>
-  </td>
-  <td>
-    <div>21 Mar 1979 ( <i>see Gazette</i>1979, No. S48)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act 
-(No. 1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td>
-    <div>Part XIII (ss. 78, 79): 4 June 1982 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td>
-    <div>S. 3: 18 July 1983 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 7(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 5(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Territories and Environment Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>60, 1989</div>
-  </td>
-  <td>
-    <div>19 June 1989</div>
-  </td>
-  <td>
-    <div>Ss. 11 and 13: 
-7 Dec 1988 
-Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 1992</div>
-  </td>
-  <td>
-    <div>104, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>Ss. 1, 2, 25 and 26: Royal Assent 
-Ss. 9, 10, 19, 21 and 22: 29 June 1993 ( <i>see Gazette</i>1993, S196) 
-Remainder: 1 July 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>211, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>S. 4: <i>(f)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>113, 1994</div>
-  </td>
-  <td>
-    <div>16 Sept 1994</div>
-  </td>
-  <td>
-    <div>16 Sept 1994</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (item 13): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>118, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 14–19): Royal Assent <i>(i)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 15) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 297, 298): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      <div>Cocos (Keeling) Islands Act 1955</div>
     </td>
     <td>
-      <div>143, 2001</div>
+      <div>34, 1955</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>16 June 1955</div>
     </td>
     <td>
-      <div>2 Oct 2001</div>
+      <div>23 Nov 1955 ( <i>see Gazette</i>1955, 
+p. 3665) 
+</div>
     </td>
     <td>
-      <div>S. 4 \[see Table A]</div>
+      <div></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Statute Law Revision Act 2008</div>
+      <div>Cocos (Keeling) Islands Act 1956</div>
     </td>
     <td>
-      <div>73, 2008</div>
+      <div>89, 1956</div>
     </td>
     <td>
-      <div>3 July 2008</div>
+      <div>8 Nov 1956</div>
     </td>
     <td>
-      <div>Schedule 4 (items 157–159): 4 July 2008</div>
+      <div>23 Nov 1955</div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
-</thead></table>
+  <tr>
+    <td>
+      <div>Cocos (Keeling) Islands Act 1958</div>
+    </td>
+    <td>
+      <div>67, 1958</div>
+    </td>
+    <td>
+      <div>8 Oct 1958</div>
+    </td>
+    <td>
+      <div>8 Oct 1958</div>
+    </td>
+    <td>
+      <div>S. 5(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cocos (Keeling) Islands Act 1963</div>
+    </td>
+    <td>
+      <div>22, 1963</div>
+    </td>
+    <td>
+      <div>28 May 1963</div>
+    </td>
+    <td>
+      <div>25 June 1963</div>
+    </td>
+    <td>
+      <div>S. 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Postal and Telecommunications Commissions (Transitional Provisions) Act 1975</div>
+    </td>
+    <td>
+      <div>56, 1975</div>
+    </td>
+    <td>
+      <div>12 June 1975</div>
+    </td>
+    <td>
+      <div>Ss. 4 and 38: 1 July 1975 ( <i>see</i>s. 2(1) and <i>Gazette</i>1975, No. S122) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cocos (Keeling) Islands Amendment Act 1979</div>
+    </td>
+    <td>
+      <div>6, 1979</div>
+    </td>
+    <td>
+      <div>5 Mar 1979</div>
+    </td>
+    <td>
+      <div>21 Mar 1979 ( <i>see Gazette</i>1979, No. S48)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act 
+(No. 1) 1982 
+</div>
+    </td>
+    <td>
+      <div>26, 1982</div>
+    </td>
+    <td>
+      <div>7 May 1982</div>
+    </td>
+    <td>
+      <div>Part XIII (ss. 78, 79): 4 June 1982 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    </td>
+    <td>
+      <div>39, 1983</div>
+    </td>
+    <td>
+      <div>20 June 1983</div>
+    </td>
+    <td>
+      <div>S. 3: 18 July 1983 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 7(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 3 July 1985 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
+    </td>
+    <td>
+      <div>168, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>S. 5(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>99, 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>2 Dec 1988</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Territories and Environment Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>60, 1989</div>
+    </td>
+    <td>
+      <div>19 June 1989</div>
+    </td>
+    <td>
+      <div>Ss. 11 and 13: 
+7 Dec 1988 
+Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Territories Law Reform Act 1992</div>
+    </td>
+    <td>
+      <div>104, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>Ss. 1, 2, 25 and 26: Royal Assent 
+Ss. 9, 10, 19, 21 and 22: 29 June 1993 ( <i>see Gazette</i>1993, S196) 
+Remainder: 1 July 1992 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Territories Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>211, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>S. 4: <i>(f)</i> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment, Sport and Territories Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>113, 1994</div>
+    </td>
+    <td>
+      <div>16 Sept 1994</div>
+    </td>
+    <td>
+      <div>16 Sept 1994</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (item 13): Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>118, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 14–19): Royal Assent <i>(i)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 15) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 297, 298): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <thead>
+    <tr>
+      <td>
+        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>143, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>2 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4 \[see Table A]</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_     The _Cocos (Keeling) Islands Act 1955_ was amended by Part XIII (sections 78 and 79) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
@@ -1674,6 +1675,7 @@ _(j)_      The _Cocos (Keeling)__Islands__Act 1955_ was amended by Sch
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
+
 ## Table of Amendments
 
 <table>
@@ -1697,630 +1699,588 @@ _(j)_      The _Cocos (Keeling)__Islands__Act 1955_ was amended by Sch
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 67, 1958</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1979; No. 60, 1989; Nos. 104 and 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1979; No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8B–8E</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8F</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8F</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8G</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992; No. 113, 1994; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8H, 8I</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 9, 10</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1963; No. 6, 1979; No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 168, 1986; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13A–13C</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13D</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 67, 1958; No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IVA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IVA</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15AA–15AD</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AE</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15AF–15AK</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IVAA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IVAA</div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15AAA, 15AAB</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15AAC, 15AAD</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AAE</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15AAF–15AAH</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15AAI</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 211, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 67, 1958</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 104, 1992; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 60, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 67, 1958; No. 60, 1989; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 1956</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18B</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 6, 1979; No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Preamble</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 67, 1958</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1979; No. 60, 1989; Nos. 104 and 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1979; No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 1 of Part III 
+(ss. 8–10) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 1 of Part III 
+(ss. 7A, 8, 8A–8I) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8B–8E</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 8F</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8F</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8G</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992; No. 113, 1994; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8H, 8I</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 9, 10</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 56, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1963; No. 6, 1979; No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 168, 1986; No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13A–13C</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13D</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV (ss. 14A, 15)</div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 67, 1958; No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>rs. No. 6, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IVA 
+(ss. 15AA–15AK) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15AA–15AD</div>
+    </td>
+    <td>
+      <div>ad. No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AE</div>
+    </td>
+    <td>
+      <div>ad. No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15AF–15AK</div>
+    </td>
+    <td>
+      <div>ad. No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IVAA 
+(ss. 15AAA–15AAD) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+      <div>rep. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IVAA 
+(ss. 15AAA–15AAI) 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15AAA, 15AAB</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15AAC, 15AAD</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AAE</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15AAF–15AAH</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15AAI</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 211, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15A</div>
+    </td>
+    <td>
+      <div>ad. No. 67, 1958</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 65, 1985; No. 104, 1992; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 67, 1958; No. 60, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 89, 1956</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18B</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 6, 1979; No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 104, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2334,7 +2294,9 @@ _Environment, Sport and Territories Legislation Amendment Act 1997 (No. 118, 1
 
 People who have become Australian citizens under Part IV of the _Cocos (Keeling)__Islands__Act 1955_ continue to be Australian citizens despite the repeal of that Part (subject to other Commonwealth laws relating to citizenship).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 7pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
 
@@ -2343,6 +2305,7 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
 
