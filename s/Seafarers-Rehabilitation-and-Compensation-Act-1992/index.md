@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 20 December 2011
- taking into account amendments up to Act No. 181 of 2011
+This compilation was prepared on 20 October 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -354,6 +354,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [141](#141).        Comcare may charge for officer’s services provided to employer
 
+[142](#142).        Disallowable instruments
+
 [143](#143).        Regulations
 
 **Notes** 
@@ -368,7 +370,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Seafarers Rehabilitation and Compensation Act 1992_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span> 
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span> 
 
              (1)  Sections 1, 2 and 3 and Part 8 commence on the day on which this Act receives the Royal Assent.
 
@@ -800,7 +802,7 @@ because he or she voluntarily and unreasonably submitted to an abnormal risk of 
 
                      (a)  an employee has suffered, or is suffering, from a disease, or the death of an employee results from a disease; and
 
-                     (b)  the disease is of a kind specified by the Minister, by legislative instrument, as a disease related to employment of a kind specified in the instrument; and
+                     (b)  the disease is of a kind specified by the Minister, by written notice, as a disease related to employment of a kind specified in the notice; and
 
                      (c)  the employee was, at any time before symptoms of the disease first became apparent, engaged in employment of that kind in the maritime industry;
 
@@ -1060,7 +1062,7 @@ Indexation factor
 
              (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image002.gif)
 
 where:
 
@@ -1152,11 +1154,11 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
 
 where:
 
-                    <a name="specifi-rate-per-kilometr"></a>**_Specified rate per kilometre_** means such rate per kilometre as the Minister specifies, by legislative instrument, under this paragraph in respect of journeys to which this paragraph applies.
+                    <a name="specifi-rate-per-kilometr"></a>**_Specified rate per kilometre_** means such rate per kilometre as the Minister specifies by written notice under this paragraph in respect of journeys to which this paragraph applies.
 
                     <a name="number-kilometr-travel"></a>**_Number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
 
@@ -1266,7 +1268,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image004.gif)
 
 where:
 
@@ -1374,7 +1376,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image005.gif)
 
 where:
 
@@ -1404,7 +1406,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image006.gif)
 
 where:
 
@@ -1442,7 +1444,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image007.gif)
 
 where:
 
@@ -1482,7 +1484,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image008.gif)
 
 where:
 
@@ -1588,7 +1590,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image009.gif)
 
 where:
 
@@ -1610,15 +1612,19 @@ where:
 
              (3)  A document prepared by the Authority under subsection (1), and an instrument under subsection (2), have no force or effect unless and until approved by the Minister.
 
-          (3A)  A Guide prepared under subsection (1), or a variation or revocation of a Guide under subsection (2), that is approved by the Minister is a legislative instrument made by the Minister on the day on which he or she approves the Guide, variation or revocation.
-
              (4)  If an employer or the Administrative Appeals Tribunal is required to assess or reassess, or review the assessment or reassessment of, the degree of permanent impairment of an employee resulting from an injury, or the degree of non‑economic loss suffered by an employee, the assessment, reassessment or review must be made in accordance with the approved Guide.
 
              (5)  The percentage of permanent impairment or non‑economic loss suffered by an employee as a result of an injury ascertained under the methods referred to in paragraph (1)(c) may be 0%.
 
              (6)  In preparing criteria for the purposes of paragraphs (1)(a) and (b), or in varying those criteria, the Authority must have regard to medical opinion concerning the nature and effect (including possible effect) of the injury and the extent (if any) to which impairment resulting from the injury, or non‑economic loss resulting from the injury or impairment, may reasonably be capable of being reduced or removed.
 
+             (7)  When a document prepared by the Authority in accordance with subsection (1), or an instrument under subsection (2), has been approved by the Minister, the Authority must cause copies of the document or instrument, as the case may be, to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives those copies.
+
              (8)  The Authority must make copies of the approved Guide and of any approved variation of that Guide, available upon application by a person and payment of the prescribed fee (if any).
+
+             (9)  Sections 48 (other than paragraphs (1)(a) and (b) and subsection (2)), 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to a document, being the approved Guide or an instrument varying or revoking that Guide that has been approved by the Minister, as if, in those sections, references to regulations were references to such a document and references to a regulation were references to a provision of such a document.
+
+           (10)  For the purpose of the application of the provisions of the _Acts Interpretation Act 1901_ in accordance with subsection (9), a document referred to in that subsection is taken to have been made on the date on which it was approved by the Minister under this section.
 
 ### Division 5—Household and attendant care services
 
@@ -1696,7 +1702,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image010.gif)
 
 where:
 
@@ -1708,7 +1714,7 @@ where:
 
           (2A)  If the number worked out under the definition of **_y_ _\[number of years]_** in subsection (2) would, if it were calculated to 4 decimal places, end with a number greater than 4, the number is taken to be the number calculated to 3 decimal places in accordance with that definition and increased by 0.001.
 
-             (3)  The Minister may, from time to time, by legislative instrument, specify a rate for the purposes of subsection (2).
+             (3)  The Minister may, from time to time, by notice in writing, specify a rate for the purposes of subsection (2).
 
 ##### <a id="45"></a>45  Recurrent payments after payment of lump sum
 
@@ -1784,11 +1790,11 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
 
 where:
 
-                    <a name="specifi-rate-per-kilometr"></a>**_Specified rate per kilometre_** means such rate per kilometre as the Minister specifies, by legislative instrument, under this paragraph in respect of journeys to which this paragraph applies.
+                    <a name="specifi-rate-per-kilometr"></a>**_Specified rate per kilometre_** means such rate per kilometre as the Minister specifies by written notice under this paragraph in respect of journeys to which this paragraph applies.
 
                     <a name="number-kilometr-travel"></a>**_Number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
 
@@ -1836,11 +1842,11 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
 
 where:
 
-                    <a name="specifi-rate-per-kilometr"></a>**_Specified rate per kilometre_** means such rate per kilometre as the Minister specifies, by legislative instrument, under this paragraph in respect of journeys to which this paragraph applies.
+                    <a name="specifi-rate-per-kilometr"></a>**_Specified rate per kilometre_** means such rate per kilometre as the Minister specifies by written notice under this paragraph in respect of journeys to which this paragraph applies.
 
                     <a name="number-kilometr-travel"></a>**_Number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
 
@@ -2280,13 +2286,15 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
 
 where:
 
-                    <a name="specifi-rate-per-kilometr"></a>**_specified rate per kilometre_** means such rate per kilometre as the Minister specifies, by legislative instrument, under this subsection in respect of journeys to which this subsection applies.
+                    <a name="specifi-rate-per-kilometr"></a>**_specified rate per kilometre_** means such rate per kilometre as the Minister specifies by written notice under this subsection in respect of journeys to which this subsection applies.
 
-                    <a name="number-kilometr-travel"></a>**_number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
+                    <a name="number-kilometr-travel"></a>**_number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the 
+
+                    reasonable length of such a journey (including the return part of the journey).
 
           (4C)  If the place where the employee is residing is not the place where the employee normally resides, the amount payable in respect of the journey is not to exceed the amount that would be payable if the journey were made from the place where the employee normally resides.
 
@@ -2304,7 +2312,7 @@ where:
 
                      (c)  the accommodation available to the employee.
 
-             (6)  An employee must not be required to undergo an examination under this section at more frequent intervals than are specified by the Minister by legislative instrument.
+             (6)  An employee must not be required to undergo an examination under this section at more frequent intervals than are specified by the Minister by written notice.
 
 ##### <a id="67"></a>67  Power to request the provision of information relevant to claim
 
@@ -2596,11 +2604,11 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
 
 where:
 
-                    <a name="specifi-rate-per-kilometr"></a>**_specified rate per kilometre_** means such rate per kilometre as the Minister specifies, by legislative instrument, under this subsection in respect of journeys to which this subsection applies.
+                    <a name="specifi-rate-per-kilometr"></a>**_specified rate per kilometre_** means such rate per kilometre as the Minister specifies by written notice under this subsection in respect of journeys to which this subsection applies.
 
                     <a name="number-kilometr-travel"></a>**_number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
 
@@ -2620,7 +2628,7 @@ where:
 
                      (c)  the accommodation available to the employee.
 
-             (9)  An employee must not be required to undergo an examination under this section at more frequent intervals than are stated by the Minister by legislative instrument.
+             (9)  An employee must not be required to undergo an examination under this section at more frequent intervals than are stated by the Minister by written notice.
 
            (10)  If the employer does not receive a report by the medical practitioner of the results of the examination of the employee, the employer may refuse to reconsider the determination under section 78 until the employer receives the report.
 
@@ -3290,7 +3298,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  If an amount of compensation is not paid to a claimant in accordance with subsection (1), interest is payable to the claimant on that amount in respect of the period beginning at the end of the period of 30 days referred to in that subsection and ending on the day the amount is paid.
 
-             (3)  Interest payable under subsection (2) must be paid at such rate as is from time to time specified by the Minister for the purposes of this section by legislative instrument.
+             (3)  Interest payable under subsection (2) must be paid at such rate as is from time to time specified by the Minister for the purposes of this section by notice in writing.
 
              (4)  This section does not apply if:
 
@@ -3298,7 +3306,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the Administrative Appeals Tribunal has been requested under Part 6 to review a determination under section 88.
 
-##### <a id="131"></a>131  Employee to notify other employers that compensation has been paid
+##### <a id="131"></a>131  Employee to notify other employers that compensation has been paid
 
              (1)  If an employer pays the full amount of compensation payable under this Act to an employee in respect of an injury the employee must notify all other employers against whom a claim was made that the employee has received compensation in respect of the injury.
 
@@ -3354,7 +3362,7 @@ the amount forms part of the person’s estate.
 
              (1)  An assignment of any compensation payable under this Act is void as against the employer or the Authority.
 
-             (2)  Except as provided by this Act, an amount payable by an employee or a dependant of a deceased employee to an employer or the Fund must not be set off against the amount of any compensation payable under this Act to the employee or for the benefit of the dependant.
+             (2)  Except as provided by this Act, an amount payable by an employee or a dependant of a deceased employee to an employer or the Fund must not be set‑off against the amount of any compensation payable under this Act to the employee or for the benefit of the dependant.
 
              (3)  Except as provided by the _Child Support Act 1988_ or by regulations under the _Family Law Act 1975_, compensation payable under this Act is not subject to attachment.
 
@@ -3392,7 +3400,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image011.gif)
 
 where:
 
@@ -3444,7 +3452,7 @@ the employer or other person must:
 
              (7)  In this section:
 
-                    <a name="specifi-law"></a>**_specified law_** means a law of a State or a Territory that provides for the payment of compensation, other than workers’ compensation, and is declared by the Minister, by legislative instrument, to be a specified law for the purposes of this section.
+                    <a name="specifi-law"></a>**_specified law_** means a law of a State or a Territory that provides for the payment of compensation, other than workers’ compensation, and is declared by the Minister, by written notice, to be a specified law for the purposes of this section.
 
                     <a name="state-compens"></a>**_State compensation_** means compensation recoverable under a specified law.
 
@@ -3489,6 +3497,10 @@ Note:          For **_strict liability_**, see section 6.1 o
              (1)  Comcare may charge an employer the prescribed fee for the provision of a Comcare officer’s services for the purposes of section 78.
 
              (2)  The regulations may make provision for the recovery of such fees as are prescribed for the provision of a Comcare officer’s services for the purposes of section 78.
+
+##### <a id="142"></a>142  Disallowable instruments
+
+                   A notice in writing under paragraph 10(1)(b), paragraph 28(6A)(b), subsection 44(3), paragraph 49(6B)(b) or 50(2B)(b), or subsection 66(4B) or (6), 83A(5) or (9), 130(3) or 139(7) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="143"></a>143  Regulations
 
@@ -3991,26 +4003,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>181, 2011</div>
-  </td>
-  <td>
-    <div>6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3: 7 Dec 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4291,14 +4283,6 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 181, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 13</div>
   </td>
   <td>
@@ -4414,7 +4398,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 5, 1994; No. 10, 1997; No. 181, 2011</div>
+    <div>am. No. 5, 1994; No. 10, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4491,14 +4475,6 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 181, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 5</b></div>
   </td>
   <td>
@@ -4534,7 +4510,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 10, 1997; No. 181, 2011</div>
+    <div>am. No. 10, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4547,18 +4523,10 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 48</div>
+    <div>Ss. 48–50</div>
   </td>
   <td>
     <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49, 50</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997; No. 181, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4622,7 +4590,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 5, 1994; No. 10, 1997; No. 181, 2011</div>
+    <div>am. No. 5, 1994; No. 10, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4743,14 +4711,6 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>ad. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 181, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5080,7 +5040,7 @@ No. 127, 2002</div>
     <div>S. 130</div>
   </td>
   <td>
-    <div>am. No. 5, 1994; No. 142, 2001; No. 181, 2011</div>
+    <div>am. No. 5, 1994; No. 142, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5089,14 +5049,6 @@ No. 127, 2002</div>
   </td>
   <td>
     <div>am. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 135</div>
-  </td>
-  <td>
-    <div>am. No. 181, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5113,14 +5065,6 @@ No. 127, 2002</div>
   </td>
   <td>
     <div>rep. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 139</div>
-  </td>
-  <td>
-    <div>am. No. 181, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5145,14 +5089,6 @@ No. 127, 2002</div>
   </td>
   <td>
     <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 181, 2011</div>
   </td>
 </tr></table>
 
@@ -5182,7 +5118,7 @@ Repeal the subsection.
 
 Omit “paragraph 34AB(b)”, substitute “paragraph 34AB(1)(b)”.
 
-As at 20 December 2011 the amendments are not incorporated in this compilation.
+As at 20 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
