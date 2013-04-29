@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00688/Html/01b61375-feb9-4696-9e60-9ee47cc9a1e3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00477/Html/6e7ad3bc-7aaa-442e-a9a9-7e14c66c0cca_files/image001.gif)
 
 # Data‑matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 109 of 2012
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -247,9 +248,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     (df)  child care assistance or child care rebate under the _Child Care Payments Act 1997_; or
 
-                     (e)  an instalment of parental leave pay under the _Paid Parental Leave Act 2010_; or
-
-                      (f)  dad and partner pay under the _Paid Parental Leave Act 2010_;
+                     (e)  an instalment of parental leave pay under the _Paid Parental Leave Act 2010_;
 
 and, in relation to a person, means personal assistance given to, or claimed by, the person.
 
@@ -1593,23 +1592,6 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Paid Parental Leave and Other Legislation Amendment (Dad and Partner Pay and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>109, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 106): 1 Oct 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 39 only of the _Social Security Legislation Amendment Act (No. 2) 1991_, subsection 2(4) of which provides as follows:
@@ -1906,7 +1888,7 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 115, 175 and 194, 1991; Nos. 81, 138 and 229, 1992; No. 121, 1993; Nos. 55, 109, 164, 174 and 184, 1994; Nos. 104, 105, 106 and 143, 1995; Nos. 43 and 84, 1996; Nos. 29, 39, 109, 197 and 202, 1997; No. 45, 1998; No. 83, 1999; No. 106, 2000; No. 52, 2004; Nos. 63 and 73, 2008; No. 105, 2010; No. 32, 2011; No. 109, 2012</div>
+    <div>am. Nos. 115, 175 and 194, 1991; Nos. 81, 138 and 229, 1992; No. 121, 1993; Nos. 55, 109, 164, 174 and 184, 1994; Nos. 104, 105, 106 and 143, 1995; Nos. 43 and 84, 1996; Nos. 29, 39, 109, 197 and 202, 1997; No. 45, 1998; No. 83, 1999; No. 106, 2000; No. 52, 2004; Nos. 63 and 73, 2008; No. 105, 2010; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
