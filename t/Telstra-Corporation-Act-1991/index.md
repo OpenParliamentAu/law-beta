@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00310/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00026/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 8 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 155 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1970,13 +1970,31 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                     <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
 
+                    <a name="industri-instrum"></a>**_industrial instrument_** means any of the following (within the meanings given by the _Workplace Relations Act 1996_):
+
+                     (a)  a workplace agreement;
+
+                     (b)  an award or a variation or order affecting an award;
+
+                     (c)  a transitional award or a variation or order affecting a transitional award;
+
+                     (d)  a pre-reform AWA;
+
+                    (da)  an AWA;
+
+                     (e)  a pre-reform certified agreement;
+
+                      (f)  a preserved State agreement;
+
+                     (g)  a notional agreement preserving State awards.
+
                     <a name="law"></a>**_law_** means:
 
                      (a)  a law of the Commonwealth, a State or a Territory; or
 
-                     (b)  regulations or any other instrument (other than a determination, award or industrial agreement) made under such a law.
+                     (b)  regulations or any other instrument (other than a determination or industrial instrument) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination, award, industrial agreement or law (other than this Act) on or after the third anniversary of the designated day in relation to service on or after that anniversary.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination or industrial instrument or law (other than this Act) on or after the third anniversary of the designated day in relation to service on or after that anniversary.
 
 ##### <a id="9B"></a>9B  Long service leave for employees with less than 10 years service
 
@@ -2120,7 +2138,7 @@ if the employee had been retrenched on the third anniversary of the designated d
 
              (2)  If employment by the Telstra body ceases to be eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_ on the designated day, then, despite that cessation, the period of employment continues to be a period of eligible employment for the purposes of that Division.
 
-##### <a id="9L"></a>9L  Application of the _Superannuation Act 1976_
+##### <a id="9L"></a>9L  Application of the _Superannuation Act 1976_
 
                    If an employee of a Telstra body was an eligible employee for the purposes of the _Superannuation Act 1976_ immediately before the designated day, the employee is taken to have ceased to be an eligible employee for the purposes of that Act on the designated day.
 
@@ -2184,7 +2202,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00310/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00026/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -3104,7 +3122,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00310/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00026/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3668,26 +3686,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td colspan="2">
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 6: <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3988,62 +3986,6 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div>
       23 September 2005
       (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
-_(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      22\. Schedule 6
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -5468,7 +5410,7 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2008; No. 54, 2009</div>
+    <div>am. No. 8, 2008</div>
   </td>
 </tr>
 <tr>
