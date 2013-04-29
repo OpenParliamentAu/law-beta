@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00121/Html/a3b3e0d4-fd41-4dcd-adb3-e7e61b369594_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00735/Html/027874e5-b3a6-46cc-9753-90a344234fc4_files/image001.gif)
 
 # Cancer Australia Act 2006
 
 **Act No. 35 of 2006 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 12 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -204,7 +204,7 @@ Note:          Cancer Australia does not have a legal identity
 
 ##### <a id="10"></a>10  Chief Executive Officer
 
-                   There is to be a Chief Executive Officer of Cancer Australia.
+                   There is to be a Chief Executive Officer of Cancer Australia.
 
 ##### <a id="11"></a>11  Responsibility of Chief Executive Officer
 
@@ -240,13 +240,21 @@ Note:          For other powers of delegation, see section 5
 
 ##### <a id="16"></a>16  Acting appointments
 
-                   The Minister may appoint a person to act as the Chief Executive Officer:
+             (1)  The Minister may appoint a person to act as the Chief Executive Officer:
 
                      (a)  during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="17"></a>17  Chief Executive Officer’s remuneration
 
@@ -318,7 +326,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="26"></a>26  Function of Advisory Council
 
-                   The Advisory Council’s function is to give advice to the Chief Executive Officer about the performance of Cancer Australia’s functions.
+                   The Advisory Council’s function is to give advice to the Chief Executive Officer about the performance of Cancer Australia’s functions.
 
 ### Division 2—Appointment etc. of members of Advisory Council
 
@@ -340,15 +348,21 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as an Advisory Council member:
 
                      (a)  during a vacancy in the office of an Advisory Council member, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when an Advisory Council member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="30"></a>30  Members’ remuneration
 
@@ -506,106 +520,54 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 318–322) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 318–322) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 29(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 318  Subsection 16(1)
+
+Omit “(1)”.
+
+## 319  At the end of subsection 16(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 320  Subsection 16(2)
+
+Repeal the subsection.
+
+## 321  At the end of subsections 29(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 322  Subsection 29(3)
+
+Repeal the subsection.
+
+As at 12 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
