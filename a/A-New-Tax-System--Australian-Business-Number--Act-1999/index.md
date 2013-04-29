@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00061/Html/714b05c1-ea58-480a-aab5-8c8e306117d3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00899/Html/5d49d14b-2315-4215-a047-02e49a092d12_files/image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 4 January 2012
- taking into account amendments up to Act No. 147 of 2011
+This compilation was prepared on 11 November 2011
+ taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -859,7 +859,7 @@ Note 2:       Section 426‑65 in Schedule 1 to the _Taxation Ad
 
                      (g)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 30‑229 of the * ITAA 1997;
 
-                    (ga)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 426‑65, 426‑104 or 426‑115 in Schedule 1 to the _Taxation Administration Act 1953_;
+                    (ga)  any statement required to be entered in the * Australian Business Register in relation to the entity under section 426‑65 or 426‑115 in Schedule 1 to the _Taxation Administration Act 1953_;
 
                      (h)  the entity’s Australian Company Number and Australian Registered Body Number (if any);
 
@@ -1249,8 +1249,6 @@ The _A New Tax System (Australian Business Number) Act 1999_ as shown in this co
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For application, saving or transitional provisions made by Schedule 1 (item 1) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
-
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -1313,7 +1311,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 92–94): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 92–94): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1347,12 +1345,11 @@ of Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6, 8, 
-70–78): 1 July 2000 
+    <div>Schedule 1 (items 6, 8, 70–78): 1 July 2000 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 \[item 19])</div>
+    <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 \[item 19])</div>
   </td>
 </tr>
 <tr>
@@ -1383,7 +1380,7 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 19): 22 Dec 1999 <i>(c)</i></div>
+    <div>Schedule 10 (item 19): 22 Dec 1999 <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1434,7 +1431,7 @@ Remainder: Royal Assent</div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): <i>(f)</i> 
+    <div>Schedule 2 (item 1): <i>(f)</i> 
 Schedule 4C: 1 July 2000 <i>(f)</i></div>
   </td>
   <td>
@@ -1452,7 +1449,7 @@ Schedule 4C: 1 July 2000 <i>(f)</i></div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 7 (items 1–3) and Schedule 11 (items 1, 2, 2A, 2B): <i>(g)</i></div>
+    <div>Schedule 7 (items 1–3) and Schedule 11 (items 1, 2, 2A, 2B): <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1469,7 +1466,7 @@ Schedule 4C: 1 July 2000 <i>(f)</i></div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 28–30): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 28–30): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 
@@ -1557,7 +1554,7 @@ Schedule 10 (items 1–3): 1 July 2005</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2), Schedule 2 (items 5–8) and Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 1 (items 1, 2), Schedule 2 (items 5–8) and Schedule 6 (items 1, 6–11): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 1, 
@@ -1592,11 +1589,11 @@ Schedule 10 (items 1–3): 1 July 2005</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–9, 296): Royal Assent 
-Schedule 1 (item 245): 24 Sept 2008</div>
+    <div>Schedule 1 (items 1–9, 296): Royal Assent 
+Schedule 1 (item 245): 24 Sept 2008</div>
   </td>
   <td>
-    <div>Sch. 1 (item 296)</div>
+    <div>Sch. 1 (item 296)</div>
   </td>
 </tr>
 <tr>
@@ -1610,11 +1607,11 @@ Schedule 1 (item 245): 24 Sept 2008</div>
     <div>23 June 2009</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1–32): Royal Assent 
-Schedule 6 (items 35–57): 5 Apr 2010 ( <i>see</i>F2010L00629)</div>
+    <div>Schedule 6 (items 1–32): Royal Assent 
+Schedule 6 (items 35–57): 5 Apr 2010 ( <i>see</i>F2010L00629)</div>
   </td>
   <td>
-    <div>Sch. 6 (item 32)</div>
+    <div>Sch. 6 (item 32)</div>
   </td>
 </tr>
 <tr>
@@ -1628,8 +1625,8 @@ Schedule 6 (items 35–57): 5 Apr 2010 ( <i>see</i>F2010L00629)</div>
     <div>18 Sept 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 1 Oct 2009 
-Schedule 5 (items 283–287): Royal Assent</div>
+    <div>Schedule 2 (item 1): 1 Oct 2009 
+Schedule 5 (items 283–287): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1646,7 +1643,7 @@ Schedule 5 (items 283–287): Royal Assent</div>
     <div>16 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (item 2): 17 Dec 2010</div>
+    <div>Schedule 2 (item 2): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1663,7 +1660,7 @@ Schedule 5 (items 283–287): Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (item 120): 19 Apr 2011</div>
+    <div>Schedule 6 (item 120): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -1682,23 +1679,6 @@ Schedule 5 (items 283–287): Royal Assent</div>
   <td>
     <div>Schedule 2 (item 1): \[ <i>see</i>s. 2(1) and Note 2] 
 Schedule 2 (item 27): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2011 Measures No. 7) Act 2011</div>
-  </td>
-  <td>
-    <div>147, 2011</div>
-  </td>
-  <td>
-    <div>29 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 8 (item 1): 1 Jan 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -2316,7 +2296,7 @@ No. 95, 2004</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 95, 2004; No. 154, 2007; No. 88, 2009; No. 147, 2011</div>
+    <div>am. No. 95, 2004; No. 154, 2007; No. 88, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2521,7 +2501,7 @@ Repeal the paragraph, substitute:
 
                      (d)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_;
 
-As at 4 January 2012 the amendments are not incorporated in this compilation.
+As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
