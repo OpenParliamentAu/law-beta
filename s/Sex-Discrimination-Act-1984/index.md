@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00666/Html/SexDiscrimination84_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00097/Html/5789E586545CFC25CA2571410005C05F/$FILE/image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 17 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 86 of 2005
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -53,8 +55,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [10](#10).          Operation of State and Territory laws
 
 [11](#11).          Operation of State and Territory laws that further objects of Convention
-
-[11A](#11A).       Operation of State and Territory laws that further objects of other instruments
 
 [12](#12).          Extent to which Act binds the Crown
 
@@ -230,6 +230,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to discrimination on the ground of sex, marital status, pregnancy, potential pregnancy or family responsibilities or involving sexual harassment
 
 Recognising the need to prohibit, so far as is possible, discrimination against people on the ground of sex, marital status, pregnancy or potential pregnancy in the areas of work, accommodation, education, the provision of goods, facilities and services, the disposal of land, the activities of clubs and the administration of Commonwealth laws and programs:
@@ -238,11 +239,11 @@ Affirming that every individual is equal before and under the law, and has the r
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Sex Discrimination Act 1984_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -278,7 +279,7 @@ Affirming that every individual is equal before and under the law, and has the r
 
 but does not include:
 
-                    (ea)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian   Capital Territory__(Self-Government) Act 1988_;
+                    (ea)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_;
 
                      (e)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self-Government) Act 1978_;
 
@@ -424,7 +425,7 @@ but does not include:
 
                      (e)  services of the kind provided by a government, a government authority or a local government body.
 
-                    <a name="state"></a>**_State_**, except in subsections 9(15), (16), (17) and (18), includes the Australian Capital Territory and the Northern   Territory.
+                    <a name="state"></a>**_State_**, except in subsections 9(15), (16), (17) and (18), includes the Australian Capital Territory and the Northern Territory.
 
                     <a name="superannu-benefit"></a>**_superannuation benefit_**, in relation to a member of a superannuation fund, means a benefit that is payable, under the terms and conditions relating to the fund:
 
@@ -438,7 +439,7 @@ but does not include:
 
                     <a name="technic-further-educ-institut"></a>**_technical and further education institution_** has the same meaning as that expression has in the _Employment, Education and Training Act 1988_.
 
-                    <a name="territori"></a>**_Territory_**, except in subsections 9(17) and (18), does not include the Australian Capital Territory and the Northern   Territory.
+                    <a name="territori"></a>**_Territory_**, except in subsections 9(17) and (18), does not include the Australian Capital Territory and the Northern Territory.
 
                     <a name="voluntari-bodi"></a>**_voluntary body_** means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include:
 
@@ -456,7 +457,7 @@ but does not include:
 
 ##### <a id="4A"></a>4A  Meaning of _family responsibilities_ 
 
-             (1)   In this Act, **_family responsibilities_**, in relation to an employee, means responsibilities of the employee to care for or support:
+             (1)  In this Act, **_family responsibilities_**, in relation to an employee, means responsibilities of the employee to care for or support:
 
                      (a)  a dependent child of the employee; or
 
@@ -464,13 +465,7 @@ but does not include:
 
              (2)  In this section:
 
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this section, each of the following is the **_child_** of a person:
-
-                     (a)  an adopted child, stepchild or exnuptial child of the person;
-
-                     (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
-
-                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
+                    <a name="child"></a>**_child_** includes an adopted child, a step-child or an ex-nuptial child.
 
                     <a name="depend-child"></a>**_dependent child_** means a child who is wholly or substantially dependent on the employee.
 
@@ -480,13 +475,7 @@ but does not include:
 
                      (b)  an adult child, parent, grandparent, grandchild or sibling of the employee or of a spouse of the employee.
 
-                    <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this section, someone is the **_parent_** of a person if the person is his or her child because of paragraph (b) of the definition of **_child_** in this subsection.
-
-                    <a name="spous"></a>**_spouse_** includes a former spouse, a de facto partner and a former de facto partner.
-
-                    <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this section, someone is the **_stepchild_** of the person if he or she would be the person’s stepchild except that the person is not legally married to the partner.
-
-             (3)  For the purposes of this section, if one person is the child of another person because of paragraph (b) of the definition of **_child_** in subsection (2), relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
+                    <a name="spous"></a>**_spouse_** includes a former spouse, a de facto spouse and a former de facto spouse.
 
 ##### <a id="4B"></a>4B  Meaning of _potential pregnancy_ 
 
@@ -648,18 +637,6 @@ a power conferred by a law of the Commonwealth or a law of a Territory, being ac
 
            (10)  If the Convention is in force in relation to Australia, the prescribed provisions of Part II, and the prescribed provisions of Division 3 of Part II, have effect in relation to discrimination against women, to the extent that the provisions give effect to the Convention.
 
-        (10A)  Subsection 14(3A) has effect in relation to discrimination involving dismissal of employees on the ground of family responsibilities, to the extent that the subsection gives effect to any of the following instruments:
-
-                     (a)  the International Covenant on Civil and Political Rights done at New York on 16 December 1966 \[1980] ATS 23 (a copy of the English text of which is set out in Schedule 2 to the _Human Rights and Equal Opportunity Commission Act 1986_);
-
-                     (b)  the International Covenant on Economic, Social and Cultural Rights done at New York on 16 December 1966 \[1976] ATS 5;
-
-                     (c)  ILO Convention (No. 111) concerning Discrimination in respect of Employment and Occupation done at Geneva on 25 June 1958 \[1974] ATS 12 (a copy of the English text of which is set out in Schedule 1 to the _Human Rights and Equal Opportunity Commission Act 1986_);
-
-                     (d)  the Convention on the Rights of the Child done at New York on 20 November 1989 \[1991] ATS 4.
-
-Note:       In 2008, the text of international agreements in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
            (11)  The prescribed provisions of Part II have effect in relation to discrimination by a foreign corporation, or a trading or financial corporation formed within the limits of the Commonwealth, or by a person in the course of the person’s duties or purported duties as an officer or employee of such a corporation.
 
            (12)  The prescribed provisions of Division 3 of Part II have effect in relation to acts done, by a person who is an officer or employee of a foreign corporation, or of a trading or financial corporation formed within the limits of the Commonwealth, in connection with the person’s duties as such an officer or employee.
@@ -706,7 +683,7 @@ Note:       In 2008, the text of international agreements in the Aus
 
 ##### <a id="10"></a>10  Operation of State and Territory laws
 
-             (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of any of the provisions of section 9 other than subsection 9(10) or (10A).
+             (1)  A reference in this section to this Act is a reference to this Act as it has effect by virtue of any of the provisions of section 9 other than subsection 9(10).
 
              (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination on the ground of sex, discrimination on the ground of marital status or discrimination on the ground of pregnancy or potential pregnancy.
 
@@ -751,34 +728,6 @@ the person is not entitled to make a complaint or institute a proceeding under t
                      (b)  an act or omission by a person that constitutes an offence against that law also constitutes an offence against this Act;
 
 the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
-
-##### <a id="11A"></a>11A  Operation of State and Territory laws that further objects of other instruments
-
-             (1)  A reference in this section to this Act is a reference to this Act as it has effect because of subsection 9(10A).
-
-             (2)  A reference in this section to a law of a State or Territory is a reference to a law of a State or Territory that deals with discrimination involving dismissal of employees on the ground of family responsibilities.
-
-             (3)  This Act is not intended to exclude or limit the operation of a law of a State or Territory that furthers the objects of a relevant instrument and is capable of operating concurrently with this Act.
-
-             (4)  If:
-
-                     (a)  a law of a State or Territory that furthers the objects of a relevant instrument deals with a matter dealt with by this Act; and
-
-                     (b)  a person has made a complaint, instituted a proceeding or taken any other action under that law in respect of an act or omission in respect of which the person would, but for this subsection, have been entitled to make a complaint under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under subsection 14(3A) of this Act;
-
-the person is not entitled to make a complaint or institute a proceeding under the _Human Rights and Equal Opportunity Commission Act 1986_ alleging that the act or omission is unlawful under that subsection.
-
-             (5)  If:
-
-                     (a)  a law of a State or Territory that furthers the objects of a relevant instrument deals with a matter dealt with by this Act; and
-
-                     (b)  an act or omission by a person that constitutes an offence against that law also constitutes an offence against this Act;
-
-the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
-
-             (6)  In this section:
-
-                    <a name="relev-instrum"></a>**_relevant instrument_** means an instrument referred to in subsection 9(10A).
 
 ##### <a id="12"></a>12  Extent to which Act binds the Crown
 
@@ -1040,7 +989,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  either:
 
-                              (i)   the same, or an equivalent, benefit is provided for the use of men and women separately from each other; or
+                              (i)  the same, or an equivalent, benefit is provided for the use of men and women separately from each other; or
 
                              (ii)  men and women are each entitled to a fair and reasonable proportion of the use and enjoyment of the benefit.
 
@@ -1206,7 +1155,7 @@ to sexually harass another person in the course of providing, or offering to pro
 
              (2)  This section does not apply to anything done by a person in the course of providing, or offering to provide, accommodation to a near relative.
 
-##### <a id="28J"></a>28J   Land
+##### <a id="28J"></a>28J  Land
 
                    It is unlawful for a person to sexually harass another person in the course of dealing (whether as principal or agent) with that other person in connection with:
 
@@ -1376,7 +1325,7 @@ Note:          A person does not comply with an industrial ins
 
                       (i)  the _Taxation (Unpaid Company Tax) Assessment Act 1982_;
 
-                      (j)  the _Social Services Act 1980_ of  Norfolk Island.
+                      (j)  the _Social Services Act 1980_ of Norfolk Island.
 
              (3)  Nothing in Division 1 or 2, as applying by reference to section 6, affects anything done by a person in direct compliance with any regulations, rules, by-laws, determinations or directions made under the _Gift Duty Assessment Act 1941_, the _Income Tax Assessment Act 1936_ or the _Sales Tax (Exemptions and Classifications) Act 1935._
 
@@ -1615,8 +1564,8 @@ Note:          For the provisions about inquiries into complai
              (1)  A person shall not publish or display an advertisement or notice that indicates, or could reasonably be understood as indicating, an intention to do an act that is unlawful by reason of a provision of Part II.
 
                     Penalty:  
- (a)     in the case of a natural person—$1,000; or
- (b)     in the case of a body corporate—$5,000.
+(a)     in the case of a natural person—$1,000; or
+(b)     in the case of a body corporate—$5,000.
 
              (2)  For the purposes of subsection (1),**_advertisement_** includes every form of advertisement or notice, whether to the public or not, and whether in a newspaper or other publication, by television or radio, by display of notices, signs, labels, showcards or goods, by distribution of samples, circulars, catalogues, price lists or other material, by exhibition of pictures, models or films, or in any other way, and the reference in that subsection to publish or display, in relation to an advertisement, shall be construed accordingly.
 
@@ -1625,8 +1574,8 @@ Note:          For the provisions about inquiries into complai
              (1)  Where a person has engaged in an act of discrimination that would, apart from subsection 41(1), be unlawful, the President or the Commission may, by notice in writing served on the person as prescribed, require the person, within 28 days after service of the notice on the person, to disclose to the President or to the Commission, as the case may be, the source of the actuarial or statistical data on which the act of discrimination was based and, where the President or the Commission, as the case may be, makes such a requirement of a person, the person shall not fail to comply with the requirement.
 
                     Penalty:  
- (a)     in the case of a natural person—$1,000; or
- (b)     in the case of a body corporate—$5,000.
+(a)     in the case of a natural person—$1,000; or
+(b)     in the case of a body corporate—$5,000.
 
              (2)  Subsection (1) does not apply if the person has a reasonable excuse.
 
@@ -1647,8 +1596,8 @@ Note:          For **_strict liability_**, see section 6.1 o
                      (b)  the President terminates the complaint under section 46PE or 46PH of the _Human Rights and Equal Opportunity Commission Act 1986_.
 
                     Penalty:  
- (a)     in the case of a natural person—$1,000; or
- (b)     in the case of a body corporate—$5,000.
+(a)     in the case of a natural person—$1,000; or
+(b)     in the case of a body corporate—$5,000.
 
           (1A)  Subsection (1) is an offence of strict liability.
 
@@ -1907,6 +1856,7 @@ Note:          A defendant bears an evidential burden in relat
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Schedule—Convention on the Elimination of all Forms of Discrimination Against Women
 
@@ -2248,6 +2198,7 @@ The present Convention, the Arabic, Chinese, English, French, Russian and Spanis
 
 IN WITNESS WHEREOF the undersigned, duly authorised, have signed the present Convention.
 
+
 # Notes to the _Sex Discrimination Act 1984_
 
 ### Note 1
@@ -2281,11 +2232,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td colspan="3">
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td colspan="3">
       <div>Date of commencement</div>
@@ -2295,829 +2248,834 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Sex Discrimination Act 1984</div>
-  </td>
-  <td>
-    <div>4, 1984</div>
-  </td>
-  <td>
-    <div>21 Mar 1984</div>
-  </td>
-  <td colspan="3">
-    <div>1 Aug 1984 ( <i>see Gazette</i>1984, 
-No. S264)</div>
-  </td>
-  <td colspan="4">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
-  </td>
-  <td>
-    <div>72, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td colspan="3">
-    <div>S. 3: 1 Aug 1984 <i>(a)</i></div>
-  </td>
-  <td colspan="4">
-    <div>Ss. 2(24) and 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td colspan="3">
-    <div>S. 3: 3 July 1985 <i>(b)</i></div>
-  </td>
-  <td colspan="4">
-    <div>S. 16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td colspan="3">
-    <div>S. 3: Royal Assent <i>(c)</i></div>
-  </td>
-  <td colspan="4">
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>126, 1986</div>
-  </td>
-  <td>
-    <div>6 Dec 1986</div>
-  </td>
-  <td colspan="3">
-    <div>10 Dec 1986 ( <i>see</i>s. 2 and <i>Gazette</i>1986, No. S631)</div>
-  </td>
-  <td colspan="4">
-    <div>Ss. 44(2), 46 and 47</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>38, 1988</div>
-  </td>
-  <td>
-    <div>3 June 1988</div>
-  </td>
-  <td colspan="3">
-    <div>S. 3: Royal Assent <i>(d)</i></div>
-  </td>
-  <td colspan="4">
-    <div>S. 5(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Employees’ Rehabilitation and Compensation Act 1988</div>
-  </td>
-  <td>
-    <div>75, 1988</div>
-  </td>
-  <td>
-    <div>24 June 1988</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 1 and 2: Royal Assent 
+<tbody>
+  <tr>
+    <td>
+      <div>Sex Discrimination Act 1984</div>
+    </td>
+    <td>
+      <div>4, 1984</div>
+    </td>
+    <td>
+      <div>21 Mar 1984</div>
+    </td>
+    <td colspan="3">
+      <div>1 Aug 1984 ( <i>see Gazette</i>1984, 
+No. S264) 
+</div>
+    </td>
+    <td colspan="4">
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
+    </td>
+    <td>
+      <div>72, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td colspan="3">
+      <div>S. 3: 1 Aug 1984 <i>(a)</i></div>
+    </td>
+    <td colspan="4">
+      <div>Ss. 2(24) and 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td colspan="3">
+      <div>S. 3: 3 July 1985 <i>(b)</i></div>
+    </td>
+    <td colspan="4">
+      <div>S. 16</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td colspan="3">
+      <div>S. 3: Royal Assent <i>(c)</i></div>
+    </td>
+    <td colspan="4">
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights and Equal Opportunity Commission (Transitional Provisions and Consequential Amendments) Act 1986</div>
+    </td>
+    <td>
+      <div>126, 1986</div>
+    </td>
+    <td>
+      <div>6 Dec 1986</div>
+    </td>
+    <td colspan="3">
+      <div>10 Dec 1986 ( <i>see</i>s. 2 and <i>Gazette</i>1986, No. S631)</div>
+    </td>
+    <td colspan="4">
+      <div>Ss. 44(2), 46 and 47</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>38, 1988</div>
+    </td>
+    <td>
+      <div>3 June 1988</div>
+    </td>
+    <td colspan="3">
+      <div>S. 3: Royal Assent <i>(d)</i></div>
+    </td>
+    <td colspan="4">
+      <div>S. 5(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Employees’ Rehabilitation and Compensation Act 1988</div>
+    </td>
+    <td>
+      <div>75, 1988</div>
+    </td>
+    <td>
+      <div>24 June 1988</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 1 and 2: Royal Assent 
 Ss. 4(1), 68–97, 99 and 100: 1 July 1988 ( <i>see Gazette</i>1988, No. S196) 
-Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Employment, Education and Training Act 1988</div>
-  </td>
-  <td>
-    <div>80, 1988</div>
-  </td>
-  <td>
-    <div>24 June 1988</div>
-  </td>
-  <td colspan="3">
-    <div>1 July 1988 ( <i>see Gazette</i>1988, No. S190)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>115, 1990</div>
-  </td>
-  <td>
-    <div>21 Dec 1990</div>
-  </td>
-  <td colspan="3">
-    <div>Part 4 (s. 49): Royal Assent <i>(e)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security (Rewrite) Transition Act 1991</div>
-  </td>
-  <td>
-    <div>70, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td colspan="3">
-    <div>1 July 1991 ( <i>see</i>s. 2)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex Discrimination Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>71, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td colspan="3">
-    <div>Part 1 (ss. 1–3), ss. 4, 7, 8, Parts 3 and 4 (ss. 11–23): 1 Aug 1991 
+Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196) 
+
+</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Employment, Education and Training Act 1988</div>
+    </td>
+    <td>
+      <div>80, 1988</div>
+    </td>
+    <td>
+      <div>24 June 1988</div>
+    </td>
+    <td colspan="3">
+      <div>1 July 1988 ( <i>see Gazette</i>1988, No. S190)</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>115, 1990</div>
+    </td>
+    <td>
+      <div>21 Dec 1990</div>
+    </td>
+    <td colspan="3">
+      <div>Part 4 (s. 49): Royal Assent <i>(e)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Social Security (Rewrite) Transition Act 1991</div>
+    </td>
+    <td>
+      <div>70, 1991</div>
+    </td>
+    <td>
+      <div>25 June 1991</div>
+    </td>
+    <td colspan="3">
+      <div>1 July 1991 ( <i>see</i>s. 2)</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sex Discrimination Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>71, 1991</div>
+    </td>
+    <td>
+      <div>25 June 1991</div>
+    </td>
+    <td colspan="3">
+      <div>Part 1 (ss. 1–3), ss. 4, 7, 8, Parts 3 and 4 (ss. 11–23): 1 Aug 1991 
 Ss. 5 and 6: 25 June 1993 
 S. 9: 1 July 1994 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="4">
-    <div>S. 3 
-S. 2(2) (am. by 13, 1994, s. 24)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="3">
-    <div></div>
-  </td>
-  <td colspan="4">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>13, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td colspan="3">
-    <div>S. 24: Royal Assent <i>(f)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights and Equal Opportunity Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>132, 1992</div>
-  </td>
-  <td>
-    <div>30 Oct 1992</div>
-  </td>
-  <td colspan="3">
-    <div>26 Nov 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. S346)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act (No. 3) 1992</div>
-  </td>
-  <td>
-    <div>165, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule (Part 2): 8 Jan 1993 <i>(g)</i> 
-Schedule (Part 3): <i>(g)</i></div>
-  </td>
-  <td colspan="4">
-    <div>S. 3(3) and (4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex Discrimination and other Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>179, 1992</div>
-  </td>
-  <td>
-    <div>16 Dec 1992</div>
-  </td>
-  <td colspan="3">
-    <div>13 Jan 1993</div>
-  </td>
-  <td colspan="4">
-    <div>Ss. 2(2) and 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights and Equal Opportunity Legislation Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>180, 1992</div>
-  </td>
-  <td>
-    <div>16 Dec 1992</div>
-  </td>
-  <td colspan="3">
-    <div>13 Jan 1993</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Act 1992</div>
-  </td>
-  <td>
-    <div>196, 1992</div>
-  </td>
-  <td>
-    <div>21 Dec 1992</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule (Parts 3, 6): <i>(h)</i></div>
-  </td>
-  <td colspan="4">
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="3">
-    <div></div>
-  </td>
-  <td colspan="4">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>60, 1993</div>
-  </td>
-  <td>
-    <div>3 Nov 1993</div>
-  </td>
-  <td colspan="3">
-    <div>10 Mar 1993</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Qantas Sale Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>168, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td colspan="3">
-    <div>S. 3 (item 17): Royal Assent <i>(i)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations and other Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>109, 1993</div>
-  </td>
-  <td>
-    <div>22 Dec 1993</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 1, 2 and 58: Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td colspan="4">
+      <div>S. 3 
+S. 2(2) (am. by 13, 1994, s. 24) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="3">
+      <div></div>
+    </td>
+    <td colspan="4">
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>13, 1994</div>
+    </td>
+    <td>
+      <div>18 Jan 1994</div>
+    </td>
+    <td colspan="3">
+      <div>S. 24: Royal Assent <i>(f)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights and Equal Opportunity Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>132, 1992</div>
+    </td>
+    <td>
+      <div>30 Oct 1992</div>
+    </td>
+    <td colspan="3">
+      <div>26 Nov 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. S346)</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act (No. 3) 1992</div>
+    </td>
+    <td>
+      <div>165, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule (Part 2): 8 Jan 1993 <i>(g)</i> 
+Schedule (Part 3): <i>(g)</i> 
+</div>
+    </td>
+    <td colspan="4">
+      <div>S. 3(3) and (4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sex Discrimination and other Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>179, 1992</div>
+    </td>
+    <td>
+      <div>16 Dec 1992</div>
+    </td>
+    <td colspan="3">
+      <div>13 Jan 1993</div>
+    </td>
+    <td colspan="4">
+      <div>Ss. 2(2) and 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights and Equal Opportunity Legislation Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>180, 1992</div>
+    </td>
+    <td>
+      <div>16 Dec 1992</div>
+    </td>
+    <td colspan="3">
+      <div>13 Jan 1993</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Act 1992</div>
+    </td>
+    <td>
+      <div>196, 1992</div>
+    </td>
+    <td>
+      <div>21 Dec 1992</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule (Parts 3, 6): <i>(h)</i></div>
+    </td>
+    <td colspan="4">
+      <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="3">
+      <div></div>
+    </td>
+    <td colspan="4">
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>60, 1993</div>
+    </td>
+    <td>
+      <div>3 Nov 1993</div>
+    </td>
+    <td colspan="3">
+      <div>10 Mar 1993</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Qantas Sale Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>168, 1994</div>
+    </td>
+    <td>
+      <div>16 Dec 1994</div>
+    </td>
+    <td colspan="3">
+      <div>S. 3 (item 17): Royal Assent <i>(i)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations and other Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>109, 1993</div>
+    </td>
+    <td>
+      <div>22 Dec 1993</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 1, 2 and 58: Royal Assent 
 S. 32: 5 Jan 1994 
 S. 34: 6 Sept 1991 
 S. 47: 24 Dec 1992 
-Remainder: 19 Jan 1994</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>13, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 21, 23, 25 and 26: Royal Assent <i>(j)</i> 
-S. 22: 13 Jan 1993 <i>(j)</i></div>
-  </td>
-  <td colspan="4">
-    <div>S. 25(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
-  </td>
-  <td>
-    <div>164, 1994</div>
-  </td>
-  <td>
-    <div>16 Dec 1994</div>
-  </td>
-  <td colspan="3">
-    <div>Part 4 (s. 60): Royal Assent <i>(k)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax (International Agreements) Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>22, 1995</div>
-  </td>
-  <td>
-    <div>29 Mar 1995</div>
-  </td>
-  <td colspan="3">
-    <div>29 Mar 1995</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>59, 1995</div>
-  </td>
-  <td>
-    <div>28 June 1995</div>
-  </td>
-  <td colspan="3">
-    <div>S. 3 (item 25): 30 Oct 1992 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="4">
-    <div>Ss. 4 and 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex Discrimination Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>165, 1995</div>
-  </td>
-  <td>
-    <div>16 Dec 1995</div>
-  </td>
-  <td colspan="3">
-    <div>16 Dec 1995</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations and other Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>168, 1995</div>
-  </td>
-  <td>
-    <div>16 Dec 1995</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
+Remainder: 19 Jan 1994 
+
+</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>13, 1994</div>
+    </td>
+    <td>
+      <div>18 Jan 1994</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 21, 23, 25 and 26: Royal Assent <i>(j)</i> 
+S. 22: 13 Jan 1993 <i>(j)</i> 
+</div>
+    </td>
+    <td colspan="4">
+      <div>S. 25(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+    </td>
+    <td>
+      <div>164, 1994</div>
+    </td>
+    <td>
+      <div>16 Dec 1994</div>
+    </td>
+    <td colspan="3">
+      <div>Part 4 (s. 60): Royal Assent <i>(k)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Income Tax (International Agreements) Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>22, 1995</div>
+    </td>
+    <td>
+      <div>29 Mar 1995</div>
+    </td>
+    <td colspan="3">
+      <div>29 Mar 1995</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>59, 1995</div>
+    </td>
+    <td>
+      <div>28 June 1995</div>
+    </td>
+    <td colspan="3">
+      <div>S. 3 (item 25): 30 Oct 1992 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td colspan="4">
+      <div>Ss. 4 and 5</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sex Discrimination Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>165, 1995</div>
+    </td>
+    <td>
+      <div>16 Dec 1995</div>
+    </td>
+    <td colspan="3">
+      <div>16 Dec 1995</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations and other Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>168, 1995</div>
+    </td>
+    <td>
+      <div>16 Dec 1995</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
 S. 13: 13 Jan 1996 
-Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 9 (item 2(9)): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) 
+Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16) 
+
+</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 9 (item 2(9)): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) 
 Schedule 19 (items 46, 47): Royal Assent <i>(l) 
- </i>Schedule 11 (items 62–71): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535)</div>
-  </td>
-  <td colspan="4">
-    <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2]) 
-Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="3">
-    <div> </div>
-  </td>
-  <td colspan="4">
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Dec 1996</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 3 (items 1, 2): <i>(m)</i> </div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>133, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td colspan="3">
-    <div>( <i>see</i>133, 1999 below)</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Student and Youth Assistance (Sex Discrimination Amendment) Act 1997</div>
-  </td>
-  <td>
-    <div>171, 1997</div>
-  </td>
-  <td>
-    <div>17 Nov 1997</div>
-  </td>
-  <td colspan="3">
-    <div>17 Nov 1997</div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>116, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 5 (item 14): 1 Jan 2001 <i>(n)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Rights Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>133, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 1–3 and 21: Royal Assent 
+
+ </i>Schedule 11 (items 62–71): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) 
+</div>
+    </td>
+    <td colspan="4">
+      <div>S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2]) 
+Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125]) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="3">
+      <div> </div>
+    </td>
+    <td colspan="4">
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Dec 1996</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 3 (items 1, 2): <i>(m)</i> </div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>133, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td colspan="3">
+      <div>( <i>see</i>133, 1999 below)</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Student and Youth Assistance (Sex Discrimination Amendment) Act 1997</div>
+    </td>
+    <td>
+      <div>171, 1997</div>
+    </td>
+    <td>
+      <div>17 Nov 1997</div>
+    </td>
+    <td colspan="3">
+      <div>17 Nov 1997</div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>116, 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 5 (item 14): 1 Jan 2001 <i>(n)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Rights Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>133, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 1–3 and 21: Royal Assent 
 S. 22 and Schedule 1 (items 53, 60): 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598) 
-Remainder: 13 Apr 2000</div>
-  </td>
-  <td colspan="4">
-    <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 1 (items 812–814): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(o)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>161, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 3 (items 1, 57): <i>(p)</i></div>
-  </td>
-  <td colspan="4">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td colspan="2">
-    <div>24 Nov 2000</div>
-  </td>
-  <td colspan="3">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+Remainder: 13 Apr 2000 
+
+</div>
+    </td>
+    <td colspan="4">
+      <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 1 (items 812–814): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(o)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Security Intelligence Organisation Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>161, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 3 (items 1, 57): <i>(p)</i></div>
+    </td>
+    <td colspan="4">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td colspan="2">
+      <div>24 Nov 2000</div>
+    </td>
+    <td colspan="3">
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>24, 2001</div>
-  </td>
-  <td colspan="2">
-    <div>6 Apr 2001</div>
-  </td>
-  <td colspan="3">
-    <div>S. 4(1), (2) and Schedule 45: <i>(q)</i></div>
-  </td>
-  <td colspan="2">
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002</div>
-  </td>
-  <td>
-    <div>105, 2002</div>
-  </td>
-  <td colspan="2">
-    <div>14 Nov 2002</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 3 (item 61): 12 May 2003 ( <i>see</i> <i>Gazette</i>2002, No. GN49)</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex Discrimination Amendment (Pregnancy and Work) Act 2003</div>
-  </td>
-  <td>
-    <div>103, 2003</div>
-  </td>
-  <td colspan="2">
-    <div>15 Oct 2003</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 1: 12 Nov 2003 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Age Discrimination (Consequential Provisions) Act 2004</div>
-  </td>
-  <td>
-    <div>40, 2004</div>
-  </td>
-  <td colspan="2">
-    <div>21 Apr 2004</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 2 (item 28): \[ <i>see (r)</i>and Note 2]</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>86, 2005</div>
-  </td>
-  <td colspan="2">
-    <div>6 July 2005</div>
-  </td>
-  <td colspan="3">
-    <div>6 July 2005</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td colspan="2">
-    <div>9 Dec 2008</div>
-  </td>
-  <td colspan="3">
-    <div>Schedule 2 (items 76–84) 10 Dec 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+Remainder: 24 May 2001 
+
+</div>
+    </td>
+    <td colspan="2">
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>24, 2001</div>
+    </td>
+    <td colspan="2">
+      <div>6 Apr 2001</div>
+    </td>
+    <td colspan="3">
+      <div>S. 4(1), (2) and Schedule 45: <i>(q)</i></div>
+    </td>
+    <td colspan="2">
+      <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002</div>
+    </td>
+    <td>
+      <div>105, 2002</div>
+    </td>
+    <td colspan="2">
+      <div>14 Nov 2002</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 3 (item 61): 12 May 2003 ( <i>see</i> <i>Gazette</i>2002, No. GN49)</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sex Discrimination Amendment (Pregnancy and Work) Act 2003</div>
+    </td>
+    <td>
+      <div>103, 2003</div>
+    </td>
+    <td colspan="2">
+      <div>15 Oct 2003</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 1: 12 Nov 2003 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Age Discrimination (Consequential Provisions) Act 2004</div>
+    </td>
+    <td>
+      <div>40, 2004</div>
+    </td>
+    <td colspan="2">
+      <div>21 Apr 2004</div>
+    </td>
+    <td colspan="3">
+      <div>Schedule 2 (item 28): \[ <i>see (r)</i>and Note 2]</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>86, 2005</div>
+    </td>
+    <td colspan="2">
+      <div>6 July 2005</div>
+    </td>
+    <td colspan="3">
+      <div>6 July 2005</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Sex Discrimination Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(19) of which provides as follows: 
 
@@ -3279,33 +3237,36 @@ _(r)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 2, items 23 to 28
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of the
-        <i>Age Discrimination Act 2004</i>; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 1 to the
-        <i>Australian Human Rights Commission Legislation Act 2004</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        7\. Schedule 2, items 23 to 28
+      </div>
+    </td>
+    <td>
+      <div>
+        The later of:
+      </div>
+      <div>
+        (a) immediately after the commencement of the
+          <i>Age Discrimination Act 2004</i>; and
+      </div>
+      <div>
+        (b) immediately after the commencement of Schedule 1 to the
+          <i>Australian Human Rights Commission Legislation Act 2004</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2] (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 2] (paragraph (b) applies)
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -3330,1222 +3291,1201 @@ _(r)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 180, 1992; No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. Nos. 179 and 180, 1992; No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 103, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rs. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7B–7D</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 180, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1992; No. 165, 1995; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 133, 1999; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 13, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 71, 1991; No. 180, 1992; No. 13, 1994; No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15–18</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 60, 1996; No. 105, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19, 20</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21–26</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>rs. No. 103, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995; No. 103, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part II</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28, 29</div>
-  </td>
-  <td>
-    <div>rep. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28A–28H</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28J–28L</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rep. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 165, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41A, 41B</div>
-  </td>
-  <td>
-    <div>ad. No. 71, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 71, 1991; No. 165, 1992; No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1986; No. 179, 1992; No. 165, 1995; No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 48(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1986; No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 50A</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 50B</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50B</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 50C, 50D</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 50E, 50F</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1988; No. 165, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 52A, 52B</div>
-  </td>
-  <td>
-    <div>ad. No. 165, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 53–57</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part III .</div>
-  </td>
-  <td>
-    <div>rs. No. 126, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57A</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 58, 59</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61–68</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 69, 70</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 73–75</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75A</div>
-  </td>
-  <td>
-    <div>ad. No. 76, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 78, 79</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1986; No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 81</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1988; No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82A</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82B</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 13, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82C</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1992; No. 13, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3A of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 83A–83F</div>
-  </td>
-  <td>
-    <div>ad. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>ad. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 84A–84F</div>
-  </td>
-  <td>
-    <div>ad. No. 179, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 165, 1992; No. 133, 1999; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 88–91</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 72, 1984; No. 126, 1986; No. 38, 1988; No. 165, 1992; No. 133, 1999; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>am. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 96</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1986; No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>am. No. 59, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 102, 103</div>
-  </td>
-  <td>
-    <div>am. No. 132, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 132, 1992; No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
-  </td>
-  <td>
-    <div>am. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>am. No. 133, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>am. No. 126, 1986; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 112(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>rep. No. 133, 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 180, 1992; No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. Nos. 179 and 180, 1992; No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 180, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4B</div>
+    </td>
+    <td>
+      <div>ad. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995; No. 103, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rs. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 180, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7B–7D</div>
+    </td>
+    <td>
+      <div>ad. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 180, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1992; No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10, 11</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995; No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 13, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13A</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 71, 1991; No. 180, 1992; No. 13, 1994; No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15–18</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 19</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995; No. 60, 1996; No. 105, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 19, 20</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 21–26</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 27</div>
+    </td>
+    <td>
+      <div>rs. No. 103, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995; No. 103, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 27(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3 of Part II</div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28, 29</div>
+    </td>
+    <td>
+      <div>rep. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28A–28H</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28J–28L</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>rep. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. Nos. 38 and 75, 1988; Nos. 70 and 71, 1991; No. 164, 1994; Nos. 22 and 165, 1995; No. 60, 1996; No. 171, 1997; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 40</div>
+    </td>
+    <td>
+      <div>ad. No. 86, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40A</div>
+    </td>
+    <td>
+      <div>ad. No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rs. No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 165, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 41A, 41B</div>
+    </td>
+    <td>
+      <div>ad. No. 71, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 71, 1991; No. 165, 1992; No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>rs. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47A</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1986; No. 179, 1992; No. 165, 1995; No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 48(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1986; No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 50A</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50A</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 50B</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50B</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 50C, 50D</div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 50E, 50F</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2 of Part III</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1988; No. 165, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 52A, 52B</div>
+    </td>
+    <td>
+      <div>ad. No. 165, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 53–57</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 3 of Part III .</div>
+    </td>
+    <td>
+      <div>rs. No. 126, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3 of Part III</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 57A</div>
+    </td>
+    <td>
+      <div>ad. No. 126, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 58, 59</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 61–68</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 69, 70</div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 70A</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 73–75</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75A</div>
+    </td>
+    <td>
+      <div>ad. No. 76, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 78, 79</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1986; No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 81</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1988; No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 82</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 82A</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 82B</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 13, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 82C</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 84</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1992; No. 13, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3A of Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 83A–83F</div>
+    </td>
+    <td>
+      <div>ad. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 84</div>
+    </td>
+    <td>
+      <div>ad. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 4 of Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 84A–84F</div>
+    </td>
+    <td>
+      <div>ad. No. 179, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 86</div>
+    </td>
+    <td>
+      <div>am. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 87</div>
+    </td>
+    <td>
+      <div>am. No. 165, 1992; No. 133, 1999; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 88–91</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 92</div>
+    </td>
+    <td>
+      <div>am. No. 72, 1984; No. 126, 1986; No. 38, 1988; No. 165, 1992; No. 133, 1999; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 93</div>
+    </td>
+    <td>
+      <div>am. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 94</div>
+    </td>
+    <td>
+      <div>am. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 95</div>
+    </td>
+    <td>
+      <div>am. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 96</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 97</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1986; No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98</div>
+    </td>
+    <td>
+      <div>am. No. 59, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 99</div>
+    </td>
+    <td>
+      <div>rs. No. 132, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 102, 103</div>
+    </td>
+    <td>
+      <div>am. No. 132, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 104</div>
+    </td>
+    <td>
+      <div>am. No. 132, 1992; No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 107</div>
+    </td>
+    <td>
+      <div>am. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 109</div>
+    </td>
+    <td>
+      <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 111</div>
+    </td>
+    <td>
+      <div>am. No. 133, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 112</div>
+    </td>
+    <td>
+      <div>am. No. 126, 1986; No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 112(3)</div>
+    </td>
+    <td>
+      <div>ad. No. 24, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 115</div>
+    </td>
+    <td>
+      <div>rep. No. 133, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ### Note 2
 
@@ -4571,7 +4511,8 @@ Repeal the paragraph, substitute:
 
                              (v)  the _Racial Discrimination Act 1975_;
 
-As at 17 December 2008 the amendment is not incorporated in this compilation.
+As at 27 March 2006 the amendment is not incorporated in this compilation.
+
 
 ## Table A
 
@@ -4839,7 +4780,9 @@ if the proceedings started on or after the starting day under:
 
                    A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the _Human Rights and Equal Opportunity Commission Act 1986_ has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
@@ -4871,7 +4814,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
@@ -4880,6 +4825,7 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
 
