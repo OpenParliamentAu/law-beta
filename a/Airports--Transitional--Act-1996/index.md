@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00071/Html/213808f7-b0d1-43c8-a9c6-8d68b7e3b77e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00769/Html/85be280b-246c-43ea-97ca-75bf80a32340_files/image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 22 September 2011
  taking into account amendments up to Act No. 100 of 2011
 
 The text of any of those amendments not in force
@@ -286,13 +286,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2](#2).            Commonwealth‑owned airport‑lessee companies
 
-[3](#3).            Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+[3](#3).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
 [4](#4).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
 
     **Division 2—Sale of airport‑lessee companies owned by the Commonwealth**
 
-[5](#5).            Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+[5](#5).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
 [6](#6).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
 
@@ -304,7 +304,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—The Crimes (Superannuation Benefits) Act 1989**
 
-[9](#9).            Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
+[9](#9).            Continuing application of the Crimes (Superannuation Benefits) Act 1989
 
 **Part 4—The Superannuation Benefits (Supervisory Mechanisms) Act 1990**
 
@@ -326,7 +326,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Section 108C of the SRC Act
 
-**Schedule 4—Amendment of the Federal Airports Corporation Act 1986** 
+**Schedule 4—Amendment of the Federal Airports Corporation Act 1986** 
 
 **Notes** 
 
@@ -694,7 +694,7 @@ Part.</li>
 
 ##### <a id="20"></a>20  Scope of Part
 
-                   This Part applies to the following airports:
+                   This Part applies to the following airports:
 
                      (a)  a core regulated airport (within the meaning of the _Airports Act 1996_);
 
@@ -804,7 +804,7 @@ Note:          A liability or instrument may be specified by n
 
                              (ii)  cease to be enforceable by or against the Commonwealth;
 
-                            whether or not the obligations or benefits touch and concern the land; and
+                            whether or not the obligations or benefits touch and concern the land; and
 
                      (b)  an instrument relating to such an obligation or benefit continues to have effect after the grant of the airport lease as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company; and
 
@@ -1279,6 +1279,10 @@ apply in relation to:
                      (d)  assets transferred or leased to the company under section 23, 24, 30 or 31;
 
 subject to such modifications as are specified in the regulations.
+
+(3)  In this section:
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
 ##### <a id="56"></a>56  Transfer of development allowance benefits
 
@@ -1880,7 +1884,7 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
-##### <a id="91"></a>91  Commonwealth records
+##### <a id="91"></a>91  Commonwealth records
 
              (1)  This Act does not authorise a Commonwealth record (within the meaning of the _Archives Act 1983_) to be transferred or otherwise dealt with except in accordance with the provisions of that Act. 
 
@@ -2100,7 +2104,7 @@ if the employee had been retrenched at the employee’s transfer time.
 
                    For the purposes of this Division, an airport‑lessee company is **_Commonwealth‑owned_** at a particular time if, and only if, that time is before the company’s sale time.
 
-##### <a id="3"></a>3  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+##### <a id="3"></a>3  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
              (1)  This clause applies in relation to an employee of a Commonwealth‑owned airport‑lessee company (the **_current company_**) if:
 
@@ -2140,7 +2144,7 @@ Note:          Division 2 deals with the employee’s positi
 
 ### Division 2—Sale of airport‑lessee companies owned by the Commonwealth
 
-##### <a id="5"></a>5  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+##### <a id="5"></a>5  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
              (1)  This clause applies in relation to an airport‑lessee company if, immediately before the company’s sale time, an employee of the company was a person to whom deferred benefits were applicable under section 78 of the _Defence Force Retirement and Death Benefits Act 1973_.
 
@@ -2180,7 +2184,7 @@ Note:          Division 2 deals with the employee’s positi
 
 ## Part 3—The Crimes (Superannuation Benefits) Act 1989
 
-##### <a id="9"></a>9  Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
+##### <a id="9"></a>9  Continuing application of the Crimes (Superannuation Benefits) Act 1989
 
 Continuing application of Act
 
@@ -2266,7 +2270,7 @@ Definition
 
                    After the employee’s transfer time, the airport‑lessee company concerned must provide such reasonable co‑operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
 
-##### <a id="5"></a>5  Section 40 of the SRC Act 
+##### <a id="5"></a>5  Section 40 of the SRC Act 
 
                    After the employee’s transfer time, the airport‑lessee company concerned is taken to be the relevant employer of the employee for the purposes of section 40 of the _Safety, Rehabilitation and Compensation Act 1988_.
 
@@ -2278,73 +2282,20 @@ Definition
 
                    This Act does not prevent section 108C of the _Safety, Rehabilitation and Compensation Act 1988_ from applying to an airport‑lessee company.
 
-###### Schedule 4—Amendment of the Federal Airports Corporation Act 1986
+# Schedule 4—Amendment of the Federal Airports Corporation Act 1986
 
-## 1  Section 6
+* * *
 
-After “Corporation are”, insert “as follows”.
+**Note:**
 
-## 2  Paragraph 6(b)
+The amendments made by this Schedule are incorporated in the current compilation ComLaw _._
 
-Omit “and” (last occurring).
+_Federal Airports Corporation Act 1986_<span style="font-size:9.0pt">
+ \[repealed by Act No. 143, 2002, Sch. 3]</span>
 
-## 3  After paragraph 6(b)
+For access to the wording of the amendments made by this Schedule _see_ No. 36, 1996.
 
-Insert:
-
-                   (ba)  to assist the Commonwealth and other persons in connection with any or all of the following:
-
-                              (i)  the implementation of the _Airports (Transitional) Act 1996_;
-
-                             (ii)  preparatory work associated with the implementation of the _Airports Act 1996_;
-
-                            (iii)  matters relating to the leasing, or proposed leasing, of an airport (within the meaning of the _Airports (Transitional) Act 1996_) that was or is a Federal airport or a Federal airport development site, including matters relating to the transfer, or proposed transfer, of responsibility for such an airport to an airport‑lessee company (within the meaning of the _Airports (Transitional) Act 1996_);
-
-## 4  After subsection 7(2)
-
-Insert:
-
-          (2A)  Subsection (2) (other than paragraph (2)(a)) does not apply to the function conferred by paragraph 6(ba).
-
-## 5  Paragraph 13(1)(d)
-
-Repeal the paragraph, substitute:
-
-                     (d)  if the Minister decides to appoint one or more other members—not more than 6 other members.
-
-## 6  Subsection 21(6)
-
-Repeal the subsection, substitute:
-
-             (6)  At a meeting of the Board, a quorum is constituted by the greater of:
-
-                     (a)  3 members; or
-
-                     (b)  the number of members that constitutes a majority of the members for the time being holding office.
-
-## 7  Subsection 40(1)
-
-Omit “41(2)”, substitute “41(1A) or (2)”.
-
-## 8  After subsection 41(1)
-
-Insert:
-
-          (1A)  The Minister may, by notice in writing to the Board, give directions to the Corporation with respect to the performance of its functions, or the exercise of its powers, if the Minister is satisfied that the directions would be likely to facilitate any or all of the following:
-
-                     (a)  the implementation of the _Airports (Transitional) Act 1996_;
-
-                     (b)  preparatory work associated with the implementation of the _Airports Act 1996_;
-
-                     (c)  matters relating to the leasing, or proposed leasing, of an airport (within the meaning of the _Airports (Transitional) Act 1996_) that was or is a Federal airport or a Federal airport development site, including matters relating to the transfer, or proposed transfer, of responsibility for such an airport to an airport‑lessee company (within the meaning of the _Airports (Transitional) Act 1996_).
-
-## 9  Subsections 41(3) and (4)
-
-After “subsection”, insert “(1A) or”.
-
-## 10  Transitional
-
-The amendment made by item 5 does not affect the appointment of a person who held office as a member immediately before the commencement of this item.
+* * *
 
 # Notes to the _Airports (Transitional) Act 1996_
 
@@ -2640,7 +2591,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 60) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 60) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2912,14 +2863,6 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 95, 1998</div>
   </td>
 </tr>
 <tr>
@@ -3257,7 +3200,15 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 16, 1998; No. 77, 2001; No. 46, 2011</div>
+    <div>am. No. 16, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 77, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3381,6 +3332,20 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 60  Subsection 55(3)
+
+Repeal the subsection.
+
+As at 22 September 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3397,8 +3362,6 @@ The amendments made by this Part apply to assessments for the 1997‑98 income y
 
 _Taxation Laws Amendment Act (No. 6) 1999 (No. 54, 1999)_
 
-## Schedule 4
-
 ## 5  Application
 
 The amendments made by items 1 to 4 apply to assessments for the 1997‑98 income year and later income years.
@@ -3406,8 +3369,6 @@ The amendments made by items 1 to 4 apply to assessments for the 1997‑98 inc
 * * *
 
 _New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001 (No. 77, 2001)_
-
-## Schedule 2
 
 ## 488  Application
 
@@ -3505,6 +3466,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
