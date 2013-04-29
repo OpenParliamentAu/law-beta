@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00300/Html/SeatGovAdmin1910_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00362/Html/SeatGovAdmin1910_image001.gif)
 
 # Seat of Government (Administration) Act 1910
 
 **Act No. 25 of 1910 as amended**
 
-This compilation was prepared on 7 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part III—Application of Commonwealth Acts**
 
-[5](#5).            Application of _Fair Work Act 2009_
+[5](#5).            Application of _Workplace Relations Act 1996_
 
 [7A](#7A).         Resumption of land held under Crown leases
 
@@ -102,11 +102,19 @@ Provided that, with respect to any such law (other than such law that is an enac
 
 ## Part III—Application of Commonwealth Acts
 
-##### <a id="5"></a>5  Application of _Fair Work Act 2009_
+##### <a id="5"></a>5  Application of _Workplace Relations Act 1996_
 
-             (3)  The powers of Fair Work Australia do not extend to employment in relation to which a tribunal established by an Ordinance in force under this Act or by an enactment, whether made or passed before or after the commencement of this section, has power to hear and determine disputes, claims or matters relating to the terms and conditions of the employment.
+             (3)  The powers of the Australian Industrial Relations Commission do not extend to employment in relation to which a tribunal established by an Ordinance in force under this Act or by an enactment, whether made or passed before or after the commencement of this section, has power to hear and determine disputes, claims or matters relating to the terms and conditions of the employment.
 
-             (4)  An Ordinance under this Act or an enactment may make provision for a member of Fair Work Australia to constitute, or be a member of, a tribunal of the kind referred to in subsection (3), and nothing in this section or the _Fair Work Act 2009_ prevents a member of Fair Work Australia from accepting appointment or performing duties as, or as a member of, such a tribunal.
+             (4)  An Ordinance under this Act or an enactment may make provision for a member of the Australian Industrial Relations Commission to constitute, or be a member of, a tribunal of the kind referred to in subsection (3), and nothing in this section or the _Workplace Relations Act 1996_ prevents a member of the Commission from accepting appointment or performing duties as, or as a member of, such a tribunal.
+
+             (5)  If an Ordinance under this Act, or an enactment, is inconsistent with:
+
+                     (a)  a provision of the _Workplace Relations Act 1996_; or
+
+                     (b)  an agreement, award, order or determination made under the _Workplace Relations Act 1996_; 
+
+the provision, agreement, award, order or determination prevails, and the Ordinance or enactment is, to the extent of the inconsistency, invalid.
 
 ##### <a id="7A"></a>7A  Resumption of land held under Crown leases
 
@@ -318,23 +326,23 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 # Schedule—Laws of the State of New   South Wales which are not to continue in force in the Territory 
 
-_Conciliation and Arbitration Act 1899_ (1899 No. 3)
+_Conciliation and Arbitration Act 1899 (1899 No. 3)_
 
-_Industrial Disputes Act 1908_ (1908 No. 3) 
+_Industrial Disputes Act 1908 (1908 No. 3)_
 
-_Industrial Disputes Amendment Act 1908_(1908 No. 24) 
+_Industrial Disputes Amendment Act 1908 (1908 No. 24)_
 
-_Industrial Disputes (Amendment) Act 1909_ (1909 No. 26) 
+_Industrial Disputes (Amendment) Act 1909 (1909 No. 26)_
 
-_Local Government Act 1906_ (1906 No. 56) 
+_Local Government Act 1906 (1906 No. 56)_
 
-_Local Government (Loans) Act 1907_(1907 No. 1) 
+_Local Government (Loans) Act 1907 (1907 No. 1)_
 
-_Local Government (Amending) Act 1908_ (1908 No. 28) 
+_Local Government (Amending) Act 1908 (1908 No. 28)_
 
-_Country Towns Water and Sewerage Act 1880_, and all Acts amending or extending it 
+_Country Towns Water and Sewerage Act 1880, and all Acts amending or extending it_
 
-All Acts imposing rates, taxes, or duties. 
+_All Acts imposing rates, taxes, or duties._
 
 # Notes to the _Seat of Government (Administration) Act 1910_
 
@@ -1047,23 +1055,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 48–51): <i>(n)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Seat of Government (Administration) Act 1928_ was repealed by section 4 of the _Seat of Government (Administration) Act 1930_. Section 12 of which provides as follows:
@@ -1102,7 +1093,7 @@ _(i)_      The _Statutory Instruments (Tabling and Disallowance) Legis
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(j)_      The _Seat of Government (Administration) Act 1910_ was amended by section 55 only of the _Australian Capital Territory__(Planning and Land Management) Act 1988_, section 2 of which provides as follows:
+_(j)_      The _Seat of Government (Administration) Act 1910_ was amended by section 55 only of the _Australian Capital   Territory__(Planning and Land Management) Act 1988_, section 2 of which provides as follows:
 
                  (1)   Sections 1, 2 and 55 commence on the day on which this Act receives the Royal Assent.
 
@@ -1129,95 +1120,6 @@ _(l)_      The _Seat of Government (Administration) Act 1910_ was amen
 _(m)_    The _Seat of Government (Administration) Act 1910_ was amended by Schedule 19 (item 45) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(n)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 5, items 32 to 64
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act</i>
-        <i>2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1335,7 +1237,7 @@ _(n)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div>Heading to s. 5</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 54, 2009</div>
+    <div>am. No. 60, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1367,7 +1269,7 @@ _(n)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 1988; No. 60, 1996; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 109, 1988; No. 60, 1996; SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -1703,7 +1605,7 @@ Insert the following subsection:
 
                      (a)  makes provision in relation to a matter arising from, connected with or consequential upon the establishment of the Territory as a body politic under the Crown; and
 
-                     (b)  is made on or before Self-Government Day within the meaning of the A.C.T. _Self-Government (Consequential Provisions) Act 1988_;
+                     (b)  is made on or before Self-Government Day within the meaning of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_;
 
 may be expressed to take effect from the date of commencement of a provision of the _Australian Capital Territory__(Self-Government) Act 1988_.”
 
