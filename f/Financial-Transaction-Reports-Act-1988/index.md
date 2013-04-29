@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00233/Html/FinancTransReports1988_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00195/Html/FinancTransReports1988_image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 19 June 2009
+This compilation was prepared on 26 May 2009
  taking into account amendments up to Act No. 34 of 2009
 
 The text of any of those amendments not in force 
@@ -2176,7 +2176,7 @@ the court may grant an injunction in such terms as the court determines to be ap
 
                      (b)  declare the amount of any Australian currency or foreign currency that the person has with him or her;
 
-                     (c)  declare whether or not, to the best of the person’s knowledge and belief, a report under section 15 has been given in respect of any Australian currency or foreign currency that the person has with him or her; and
+                     (c)  declare whether or not, to the best of the person’s knowledge and belief, a report under section 15 has been given in respect of any Australian currency or foreign currency that the person has with him or her;
 
                      (d)  produce to the officer any Australian currency or foreign currency that the person has with him or her.
 
@@ -2252,7 +2252,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 Note:          The amount of a penalty unit is stated in section 4AA of the _Crimes Act 1914_.
 
-             (4)  Where a person is arrested under this section, section 212 of the _Customs Act 1901_ applies as though the person had been arrested under section 210 of that Act.
+             (4)  Where a person is arrested under this section, sections 212 and 213 of the _Customs Act 1901_ apply as though the person had been arrested under section 210 of that Act.
 
              (5)  In this section:
 
@@ -4181,7 +4181,7 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
     <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 10 (items 3, 4): 19 June 2009</div>
+    <div>Schedule 10 (items 3, 4): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 10 (item 4) \[ <i>see</i>Table A]</div>
@@ -6148,7 +6148,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div></div>
   </td>
   <td>
-    <div>am. No. 33, 1997; No. 34, 2009</div>
+    <div>am. No. 33, 1997</div>
   </td>
 </tr>
 <tr>
@@ -6600,6 +6600,20 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
   </td>
 </tr></table>
 
+### Note 2
+
+_Customs Amendment (Enhanced Border Controls and Other Measures) Act 2009 (No. 34, 2009)_
+
+The following amendment commences on 19 June 2009:
+
+## Schedule 10
+
+## 3  Subsection 33A(4)
+
+Omit “sections 212 and 213 of the _Customs Act 1901_ apply”, substitute “section 212 of the _Customs Act 1901_ applies”.
+
+As at 26 May 2009 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provision
@@ -6861,6 +6875,8 @@ The Governor-General may make regulations prescribing matters of a transitional 
 * * *
 
 _Customs Amendment (Enhanced Border Controls and Other Measures) Act 2009 (No. 34, 2009)_
+
+The following provision commences on 19 June 2009:
 
 ## Schedule 10
 
