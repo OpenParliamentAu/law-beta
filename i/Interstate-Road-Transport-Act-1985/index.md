@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2009C00145/Html/IntRoadTrans1985WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00612/Html/IntRoadTrans1985WD02_image001.gif)
 
 # Interstate Road Transport Act 1985
 
 **Act No. 130 of 1985 as amended**
 
-This compilation was prepared on 6 April 2009
- taking into account amendments up to Act No. 12 of 2009
+This compilation was prepared on 10 October 2006
+ taking into account amendments up to Act No. 109 of 2006
 
-\[Note: As at 6 April 2009 not all sections of this Act are in force, _see_ Notes 1 and 2]
+\[Note: As at 10 October 2006 not all sections of this Act are in force, _see_ Notes 1 and 2]
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -81,7 +81,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23](#23).          Amounts to be debited from the Account
 
-**Part V—sections 24-35 [_see_ Notes 2, 3 and 4]** 
+**Part V—sections 24-35 [_see_ Notes 2 and 3]** 
 
 **Part VI—Monitoring devices**
 
@@ -158,8 +158,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="casual-hire-agreem"></a>**_casual hiring agreement_** means an agreement for taking a motor vehicle or trailer on hire where the agreement is of a kind ordinarily entered into by persons taking motor vehicles or trailers on hire intermittently as the occasion requires on an hourly, daily, weekly or monthly basis.
 
                     <a name="charg"></a>**_charge_** means charge imposed by the _Interstate   Road__Transport Charge Act 1985_.
-
-                    <a name="coag-reform-fund"></a>**_COAG Reform Fund_** means the COAG Reform Fund established by section 5 of the _COAG Reform Fund Act 2008_.
 
                     <a name="complianc-plate"></a>**_compliance plate_** means a plate authorised to be placed on a vehicle, or taken to have been placed on a vehicle, under the _Motor Vehicle Standards Act 1989_.
 
@@ -377,7 +375,7 @@ but does not include business included in a prescribed class of business.
 
              (6)  A copy of each instrument by which an arrangement under subsection (1) or (2) is made, varied or revoked shall be published in the _Gazette_.
 
-##### <a id="7"></a>7  Regulatory Authority
+##### <a id="7"></a>7  Regulatory Authority
 
              (1)  For the purposes of this Act, there shall be, in respect of each State, a Registration Authority.
 
@@ -395,7 +393,7 @@ but does not include business included in a prescribed class of business.
 
 ##### <a id="7A"></a>7A  Application of the _Criminal Code_
 
-                   Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences created by this Act.
+                   Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences created by this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -757,7 +755,7 @@ for the purpose of ensuring that they comply with mass limits.
 
                    If the registration of a motor vehicle or trailer is cancelled or surrendered the Commonwealth must refund to the owner an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00145/Html/IntRoadTrans1985WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00612/Html/IntRoadTrans1985WD02_image002.gif)
 
 where:
 
@@ -777,7 +775,7 @@ where:
 
 the owner of the motor vehicle or trailer is entitled to a refund of the charge in respect of the registration of the motor vehicle or trailer of an amount calculated in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2009C00145/Html/IntRoadTrans1985WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00612/Html/IntRoadTrans1985WD02_image003.gif)
 
 where:
 
@@ -837,19 +835,13 @@ Note:          The Account was established by subsection 5(3) 
 
 ##### <a id="23"></a>23  Amounts to be debited from the Account
 
-             (1)  Such amounts as are ascertained in accordance with a determination made by the Minister in writing for the purposes of this subsection are to be:
-
-                     (a)  debited from the Account; and
-
-                     (b)  credited to the COAG Reform Fund for the purposes of making grants of financial assistance to a State for expenditure by the State on the maintenance and upkeep of roads in the State that are used by registered motor vehicles or trailers.
-
-             (2)  The Treasurer must ensure that, as soon as practicable after an amount is credited to the COAG Reform Fund under subsection (1) for the purposes of making a grant of financial assistance to a State, the COAG Reform Fund is debited for the purposes of making the grant.
+             (1)  There is to be debited from the Account and paid by the Commonwealth to a State by way of the grant of financial assistance for expenditure by the State on the maintenance and upkeep of roads in the State that are used by registered motor vehicles or trailers, such amounts as are ascertained in accordance with a determination made by the Minister in writing for the purposes of this subsection.
 
              (3)  The Minister, in exercising the power to make determinations under subsection (1), must, as far as practicable, ensure that the allocation of payments under this section among the States reflects the distribution of damage done to roads by registered motor vehicles and trailers operating as mentioned in subsection 8(1).
 
-             (4)  Payments under this Act, and payments of amounts credited to the COAG Reform Fund under subsection (1), must be made at such times, and in such amounts, as the Minister approves.
+             (4)  Payments under this Act must be made at such times, and in such amounts, as the Minister approves.
 
-             (5)  The payment to a State of an amount credited to the COAG Reform Fund under subsection (1) is subject to the following conditions:
+             (5)  Payment of an amount to a State under subsection (1) is subject to the following conditions:
 
                      (a)  that the State shall not impose a fee, charge or tax in respect of, or relating to the use of, a registered motor vehicle or trailer, being a fee, charge or tax of a kind specified in the regulations;
 
@@ -863,11 +855,11 @@ Note:          The Account was established by subsection 5(3) 
 
                                         (C)  any sum set aside during that year out of that amount for expenditure by the State but not expended during that year; and
 
-                             (ii)  a certificate by the Auditor-General of the State certifying that, in the opinion of the Auditor-General, the contents of a statement referred to in subparagraph (i) are correct;
+                             (ii)  a certificate by the Auditor-General of the State certifying that, in the opinion of the Auditor-General, the contents of a statement referred to in subparagraph (paragraph (i) are correct;
 
                      (c)  that the State will expend the amount as required by a determination made under that subsection.
 
-             (6)  The payment to a State of an amount credited to the COAG Reform Fund under subsection (1) may be made subject to such other conditions as are specified in a determination made under that subsection, including, but without limiting the generality of the foregoing, conditions for the purposes of this Act requiring the State to:
+             (6)  Payment of an amount to a State under subsection (1) may be made subject to such other conditions as are specified in a determination made under that subsection, including, but without limiting the generality of the foregoing, conditions for the purposes of this Act requiring the State to:
 
                      (a)  comply with a request to give information to the Minister; and
 
@@ -893,7 +885,7 @@ Note:          The Account was established by subsection 5(3) 
 
                     <a name="wage"></a>**_wages_** includes payments in the nature of wages.
 
-## Part V—sections 24–35 [_see_ Notes 2, 3 and 4]
+## Part V—<span style="font-size:12.0pt">sections </span>24-35 [_see_ Notes 2 and 3]
 
 ## Part VI—Monitoring devices
 
@@ -927,7 +919,7 @@ Note:          The Account was established by subsection 5(3) 
 
                              (ii)  cause the document to be kept in a manner, and for a period, specified in the regulations; and
 
-                      (f)  cause to be prepared documents, in accordance with the approved form, containing extracts from, or summaries of, documents of a kind referred to in subparagraph (d)(i) or (e)(i) and cause the documents first referred to in this paragraph to be kept in a manner, and for a period, specified in the regulations; and
+                      (f)  cause to be prepared documents, in accordance with the approved form, containing extracts from, or summaries of, documents of a kind referred to in subparagraph (paragraph (d)(i) or (e)(i) and cause the documents first referred to in this paragraph to be kept in a manner, and for a period, specified in the regulations; and
 
                      (g)  notify a Licensing Authority of such matters relevant to monitoring devices as are specified in the regulations including, but without limiting the generality of the foregoing, the places where monitoring device records are kept.
 
@@ -1025,7 +1017,7 @@ the police officer or inspector may:
 
                             (iv)  to state particulars relating to the registration of the motor vehicle or trailer or to the origins and destinations of any passengers or goods being carried by or in the motor vehicle or trailer; and
 
-                             (v)  for the purposes of verifying the matters referred to in subparagraph (ii), (iii) or (iv), to produce to the police officer or inspector:
+                             (v)  for the purposes of verifying the matters referred to in subparagraph (paragraph (ii), (iii) or (iv), to produce to the police officer or inspector:
 
                                         (A)  a driver’s licence issued to the person;
 
@@ -1055,7 +1047,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (3)  Where the driver of a motor vehicle or trailer stops the motor vehicle or trailer pursuant to a requirement given under paragraph (1)(c) by a police officer who is not in uniform or by an inspector, the police officer or inspector shall, before searching, inspecting or testing the motor vehicle or trailer or giving a requirement of the kind mentioned in subparagraph (1)(c)(ii), (iii), (iv) or (v) or paragraph (1)(e), produce, for the inspection of the driver of the motor vehicle or trailer, written evidence of the fact that he or she is a police officer or an inspector, as the case may be.
+             (3)  Where the driver of a motor vehicle or trailer stops the motor vehicle or trailer pursuant to a requirement given under paragraph (1)(c) by a police officer who is not in uniform or by an inspector, the police officer or inspector shall, before searching, inspecting or testing the motor vehicle or trailer or giving a requirement of the kind mentioned in subparagraph (paragraph (1)(c)(ii), (iii), (iv) or (v) or paragraph (1)(e), produce, for the inspection of the driver of the motor vehicle or trailer, written evidence of the fact that he or she is a police officer or an inspector, as the case may be.
 
              (4)  For the purposes of subsection (3), the Minister may cause to be issued to an inspector an identity card in a form approved by the Minister by writing.
 
@@ -1725,23 +1717,6 @@ Remainder: 24 May 2001</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Federal Financial Relations (Consequential Amendments and Transitional Provisions) Act 2009</div>
-    </td>
-    <td>
-      <div>12, 2009</div>
-    </td>
-    <td>
-      <div>26 Mar 2009</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 2 (items 6–9): 1 Apr 2009 ( <i>see</i>s. 2(1))</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -1918,7 +1893,7 @@ _(h)_     Subsection 2(1) (item 4) of the _Maritime Transport and Offsho
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 168, 1986; No. 23, 1990; No. 128, 1991; No. 50, 1995; No. 152, 1997; No. 43, 1998; No. 40, 2000; No. 8, 2005; No. 12, 2009</div>
+    <div>am. No. 168, 1986; No. 23, 1990; No. 128, 1991; No. 50, 1995; No. 152, 1997; No. 43, 1998; No. 40, 2000; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2296,7 +2271,15 @@ No. 143, 2001</div>
     <div>Heading to s. 23</div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div>am. No. 152, 1997; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997; No. 43, 1998</div>
   </td>
 </tr>
 <tr>
@@ -2305,14 +2288,6 @@ No. 143, 2001</div>
   </td>
   <td>
     <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 43, 1998; No. 8, 2005; No. 12, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2694,7 +2669,7 @@ shall be deemed to have been done, or omitted to have been done, as the case may
 
                      (b)  any other conduct of the person that is relevant to road safety.
 
-## 30  Associates of disqualified persons [_see_ Note 3]
+## 30  Associates of disqualified persons [_see_ Note 3 ]
 
              (1)  A Licensing Authority may, by notice in writing served on a person, declare the person to be an associate of a disqualified person if:
 
@@ -2752,12 +2727,11 @@ the person shall, before 31 July in that year, or before such later date as th
 
              (2)  A reference in subsection (1) to a conviction of a person of an offence includes a reference to the making of an order in relation to the person under a provision of a law of a State or Territory corresponding to section 19B of the _Crimes Act 1914_ in respect of the offence.
 
-## 34  Federal road safety standards [_see_ Note 4]
+## 34  Federal road safety standards
 
                    For the purposes of this Part, the Minister may, by order in writing, declare standards, to be known as federal road safety standards, with respect to road safety matters.
 
-## 35  Disallowance etc. of federal road safety standards 
- [_see_ Note 4]
+## 35  Disallowance etc. of federal road safety standards
 
              (1)  Sections 48, <u>48A, 48B,</u> 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply in relation to orders made under section 34 of this Act as if in those sections references to regulations were references to orders, references to a regulation were references to an order and references to a repeal were references to a revocation.
 
@@ -2773,7 +2747,7 @@ the person shall, before 31 July in that year, or before such later date as th
 
                    The regulations may require a registered motor vehicle to be fitted with a standard monitoring device.
 
-As at 6 April 2009 no date had been fixed for the commencement of Part V (sections 24–35), subsections 36(1), (5) and section 37.
+As at 10 October 2006 no date had been fixed for the commencement of Part V (sections 24–35), subsections 36(1), (5) and section 37.
 
 ### Note 3
 
@@ -2789,7 +2763,7 @@ Subsection 2(7) of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 198
 
              (7)  An amendment of a provision of the _Interstate   Road__Transport Act 1985_ made by this Act shall come into operation on the day on which that provision comes into operation.
 
-As at 6 April 2009 no date had been fixed for the commencement of subsection 30(5) and the amendment is not incorporated in this compilation.
+As at 10 October 2006 no date had been fixed for the commencement of subsection 30(5) and the amendment is not incorporated in this compilation.
 
 ### Note 4
 
@@ -2805,7 +2779,7 @@ Omit “by order in writing”, substitute “by legislative instrument”.
 
 Repeal the section.
 
-As at 6 April 2009 no date had been fixed for the commencement of sections 34 and 35 and the amendments are not incorporated in this compilation.
+As at 10 October 2006 no date had been fixed for the commencement of sections 34 and 35 and the amendments are not incorporated in this compilation.
 
 ## Table A
 
