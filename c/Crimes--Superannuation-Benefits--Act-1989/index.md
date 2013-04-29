@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image001.gif)
 
 # Crimes (Superannuation Benefits) Act 1989
 
 **Act No. 145 of 1989 as amended**
 
-This compilation was prepared on 8 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -182,8 +182,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  that was committed for the purpose of perverting, or attempting to pervert, the course of justice.
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
-
                     <a name="defend"></a>**_defendant_**, in Part 3, has the meaning given in section 24.
 
                     <a name="dpp"></a>**_DPP_** means the Director of Public Prosecutions.
@@ -270,7 +268,13 @@ whether present or future and whether vested or contingent.
 
                     <a name="superannu-author"></a>**_superannuation authority_** means:
 
-                     (a)  in relation to the superannuation scheme established by the _Superannuation Act 1976_ or by deed under the _Superannuation Act 1990_—CSC; or
+                     (a)  in relation to the superannuation scheme established by the _Superannuation Act 1976_:
+
+                              (i)  for those matters under that Act for which the Board (within the meaning of that Act) is responsible—the Board; and
+
+                             (ii)  for any other matters under that Act—the Commissioner for Superannuation; or
+
+                   (ab)  in relation to the superannuation scheme established by deed under the _Superannuation Act 1990_—the Board (within the meaning of that Act); or
 
                      (b)  in any other case—the person (however described) responsible for the administration of the relevant superannuation scheme.
 
@@ -378,7 +382,7 @@ is to be taken, for the purposes of this Act, to be employed by the Commonwealth
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image002.gif)
 
 where:
 
@@ -566,7 +570,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image003.gif)
 
 where:
 
@@ -614,7 +618,7 @@ where:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00514/Html/afd1c344-9146-4f99-aa55-3b041c94922f_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00272/Html/c615f663-8898-4824-aa83-60e51f10eaeb_files/image004.gif)
 
 where:
 
@@ -1052,11 +1056,11 @@ whether or not it is constituted in the same way in which it was constituted whe
 
 The _Crimes (Superannuation Benefits) Act 1989_ as shown in this compilation comprises Act No. 145, 1989 amended as indicated in the Tables below.
 
+All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
 The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 41 of the _CSL Sale Act 1993._
 
 The _Crimes (Superannuation Benefits) Act 1989_ is affected by section 29 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1452,7 +1456,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
     <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 55, 56): Royal Assent</div>
+    <div>Schedule 1 (items 55, 56): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1470,7 +1474,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
       <div>9 Dec 2008</div>
     </td>
     <td>
-      <div>Schedule 2 (items 41, 42): 10 Dec 2008</div>
+      <div>Schedule 2 (items 41, 42): 10 Dec 2008</div>
     </td>
     <td>
       <div>Sch. 2 (item 42) \[ <i>see</i>Table A]</div>
@@ -1487,24 +1491,7 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(b)</i
       <div>22 Mar 2011</div>
     </td>
     <td>
-      <div>Schedule 5 (items 71, 72): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-    </td>
-    <td>
-      <div>58, 2011</div>
-    </td>
-    <td>
-      <div>28 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 33, 34): <i>(j)</i></div>
+      <div>Schedule 5 (items 71, 72): 19 Apr 2011</div>
     </td>
     <td>
       <div>—</div>
@@ -1546,9 +1533,7 @@ _(f)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
 
                               (b)   immediately after the commencement of Part 1 of Schedule 1 to the _Crimes (Superannuation Benefits) Amendment Act 1998_.
 
-         The _Crimes (Superannuation Benefits) Amendment Act 1998_ has not been enacted. Therefore these amendments do not commence.
-
-_(g)_ The _Financial Sector Reform (Consequential Amendments) Act 1998_ was amended by Schedule 6 (item 17) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999,_ subsection 3(1) of which provides as follows:
+_(g)_ The _Financial Sector Reform (Consequential Amendments) Act 1998_ was amended by Schedule 6 (item 17) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999,_ subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1563,93 +1548,6 @@ _(i)_      The _Crimes (Superannuation Benefits) Act 1989_ was amended
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
          Item 15 commenced on 24 May 2001.
-
-_(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1687,7 +1585,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008; Nos. 5 and 58, 2011</div>
+    <div>am. Nos. 94, 164 and 196, 1992; No. 20, 1997; No. 9, 2000; No. 26, 2008; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
