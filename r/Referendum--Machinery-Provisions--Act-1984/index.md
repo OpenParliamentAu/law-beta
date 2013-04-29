@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 6 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 110 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -50,7 +50,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11](#11).          Distribution to electors of arguments for and against proposed law
 
-[12](#12).          Governor‑General to deal with writ
+[12](#12).          Governor-General to deal with writ
 
 [13](#13).          Action by Electoral Commissioner
 
@@ -70,7 +70,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Substitute for presiding officer
 
-[19](#19).          Ballot‑boxes
+[19](#19).          Ballot-boxes
 
 [20](#20).          Separate voting compartments
 
@@ -84,11 +84,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [24](#24).          Manner of voting
 
-[25](#25).          Forms of ballot‑paper
+[25](#25).          Forms of ballot-paper
 
 [25A](#25A).       Official mark
 
-[26](#26).          Ballot‑papers to be initialled
+[26](#26).          Ballot-papers to be initialled
 
 [27](#27).          Appointment of scrutineers
 
@@ -102,9 +102,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Errors not to forfeit vote
 
-[33](#33).          Right of elector to receive ballot‑paper
+[33](#33).          Right of elector to receive ballot-paper
 
-[34](#34).          List of voters to be marked when ballot‑paper issued
+[34](#34).          List of voters to be marked when ballot-paper issued
 
 [35](#35).          Vote to be marked in private
 
@@ -120,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Election and referendum on the same day
 
-[41](#41).          Spoilt ballot‑papers
+[41](#41).          Spoilt ballot-papers
 
 [41A](#41A).       Temporary suspension of polling
 
@@ -162,7 +162,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [59](#59).          Election and referendum on the same day
 
-[61](#61).          Issue of certificate and ballot‑papers
+[61](#61).          Issue of certificate and ballot-papers
 
 [62](#62).          Inspection of applications
 
@@ -178,15 +178,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67](#67).          Procedure for dealing with postal vote certificates etc 
 
-[68](#68).          Opening of postal ballot‑paper
+[68](#68).          Opening of postal ballot-paper
 
 [69](#69).          Failure to post or deliver postal vote application etc 
 
-[70](#70).          Inducing elector to hand over marked ballot‑paper
+[70](#70).          Inducing elector to hand over marked ballot-paper
 
 [71](#71).          Correction of formal errors
 
-**Part IVA—Pre‑poll voting** 
+**Part IVA—Pre-poll voting** 
 
     **Division 1—Introduction**
 
@@ -194,13 +194,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—General matters**
 
-[72](#72).          Grounds of application for pre‑poll vote
+[72](#72).          Grounds of application for pre-poll vote
 
-[73](#73).          Pre‑poll voting officers
+[73](#73).          Pre-poll voting officers
 
-[73AA](#73AA).    Pre‑poll voting offices
+[73AA](#73AA).    Pre-poll voting offices
 
-[73A](#73A).       Application for pre‑poll vote
+[73A](#73A).       Application for pre-poll vote
 
 [73B](#73B).       Place and time of application
 
@@ -210,63 +210,63 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [73CB](#73CB).     Provisions relating to scrutineers
 
-    **Division 3—Voting by pre‑poll ordinary vote** 
+    **Division 3—Voting by pre-poll ordinary vote** 
 
         **Subdivision A—Preliminary**
 
 [73CC](#73CC).     Definitions
 
-[73CD](#73CD).    Where is pre‑poll ordinary voting available?
+[73CD](#73CD).    Where is pre-poll ordinary voting available?
 
 [73CE](#73CE).     Separate voting compartments
 
-[73CF](#73CF).     Ballot‑boxes
+[73CF](#73CF).     Ballot-boxes
 
-        **Subdivision B—Voting by pre‑poll ordinary vote**
+        **Subdivision B—Voting by pre-poll ordinary vote**
 
-[73CG](#73CG).    When is a person entitled to vote by pre‑poll ordinary vote?
+[73CG](#73CG).    When is a person entitled to vote by pre-poll ordinary vote?
 
-[73CH](#73CH).    Voter to complete and sign pre‑poll vote certificate for ordinary voting
+[73CH](#73CH).    Voter to complete and sign pre-poll vote certificate for ordinary voting
 
 [73CI](#73CI).      Questions to be put to voter
 
-[73CJ](#73CJ).      Right of voter to receive ballot‑paper
+[73CJ](#73CJ).      Right of voter to receive ballot-paper
 
-[73CK](#73CK).     Voter to mark vote on ballot‑paper
+[73CK](#73CK).    Voter to mark vote on ballot-paper
 
 [73CL](#73CL).     Assistance to certain voters
 
-[73CM](#73CM).    Voter not entitled to vote again etc 
+[73CM](#73CM).   Voter not entitled to vote again etc 
 
-        **Subdivision C—Requirements relating to ballot‑boxes**
+        **Subdivision C—Requirements relating to ballot-boxes**
 
 [73CN](#73CN).    Subdivision sets out requirements to be complied with
 
-[73CO](#73CO).    Requirements to be complied with before first use of ballot‑box
+[73CO](#73CO).    Requirements to be complied with before first use of ballot-box
 
-[73CP](#73CP).     Requirements to be complied with at end of each day of use of ballot‑box
+[73CP](#73CP).     Requirements to be complied with at end of each day of use of ballot-box
 
-[73CQ](#73CQ).    Requirements to be complied with before ballot‑box used again on later day
+[73CQ](#73CQ).    Requirements to be complied with before ballot-box used again on later day
 
-[73CR](#73CR).     Forwarding of ballot‑boxes for purposes of scrutiny
+[73CR](#73CR).     Forwarding of ballot-boxes for purposes of scrutiny
 
-    **Division 4—Voting by pre‑poll declaration vote**
+    **Division 4—Voting by pre-poll declaration vote**
 
 [73CS](#73CS).     Persons to whom this Division applies
 
-[73D](#73D).       Pre‑poll declaration voting
+[73D](#73D).       Pre-poll declaration voting
 
-[73E](#73E).        Form of pre‑poll vote certificate for declaration voting
+[73E](#73E).        Form of pre-poll vote certificate for declaration voting
 
-[73F](#73F).        Record of issue of pre‑poll voting papers
+[73F](#73F).        Record of issue of pre-poll voting papers
 
-[73H](#73H).       Opening of pre‑poll voting envelope
+[73H](#73H).       Opening of pre-poll voting envelope
 
-[73J](#73J).        Obligations of persons present when pre‑poll vote cast
+[73J](#73J).        Obligations of persons present when pre-poll vote cast
 
 [73K](#73K).       Correction of formal errors
 
-**Part IVB—Electronically assisted voting for sight‑impaired people**
+**Part IVB—Electronically assisted voting for sight-impaired people**
 
 [73L](#73L).        Definitions
 
@@ -288,7 +288,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [76](#76).          Arrangements for voting in Antarctica
 
-[77](#77).          Ballot‑papers to be initialled
+[77](#77).          Ballot-papers to be initialled
 
 [78](#78).          The voting at a referendum in Antarctica
 
@@ -296,7 +296,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [80](#80).          Questions to be put to voter at Antarctic station
 
-[81](#81).          Right of Antarctic elector to receive ballot‑paper
+[81](#81).          Right of Antarctic elector to receive ballot-paper
 
 [82](#82).          List of Antarctic electors to be marked
 
@@ -306,7 +306,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [85](#85).          Result of the polling in Antarctica
 
-[86](#86).          Preservation of ballot‑papers etc 
+[86](#86).          Preservation of ballot-papers etc 
 
 [87](#87).          Application of Part
 
@@ -322,19 +322,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [91](#91).          Action at scrutiny
 
-[92](#92).          Action on objection to ballot‑papers
+[92](#92).          Action on objection to ballot-papers
 
-[93](#93).          Informal ballot‑papers
+[93](#93).          Informal ballot-papers
 
 [94](#94).          Return of result of submission by Divisional Returning Officers
 
 [95](#95).          Recount
 
-[95A](#95A).       Notice of re‑count
+[95A](#95A).       Notice of re-count
 
-[95B](#95B).       Conduct of re‑count
+[95B](#95B).       Conduct of re-count
 
-[96](#96).          Reservation of disputed ballot‑papers
+[96](#96).          Reservation of disputed ballot-papers
 
 **Part VII—Return of the writ**
 
@@ -366,7 +366,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [107AA](#107AA).  Court must make decision quickly
 
-[107A](#107A).     Provision for Court to have regard to certain rejected ballot‑papers
+[107A](#107A).     Provision for Court to have regard to certain rejected ballot-papers
 
 [108](#108).        Immaterial errors not to invalidate referendum
 
@@ -408,9 +408,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [128](#128).        Witnessing referendum papers
 
-[129](#129).        Marks on ballot‑papers
+[129](#129).        Marks on ballot-papers
 
-[130](#130).        Other offences relating to ballot‑papers etc 
+[130](#130).        Other offences relating to ballot-papers etc 
 
 [131](#131).        Prohibition of certain behaviour near polling booth
 
@@ -452,7 +452,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 2—Repealed Acts** 
 
-**Schedule 3—Grounds of application for postal or pre‑poll vote** 
+**Schedule 3—Grounds of application for postal or pre-poll vote** 
 
 **Schedule 4—Rules for the conduct of a preliminary scrutiny of declaration votes** 
 
@@ -480,7 +480,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="antarctica"></a>**_Antarctica_** means the Australian Antarctic  Territory and includes:
 
-                     (a)  the Territory of Heard Island and McDonald Islands; and
+                     (a)  the Territory of Heard Island and McDonald  Islands; and
 
                      (b)  Macquarie Island.
 
@@ -512,11 +512,11 @@ Example:    An approved form might have been published by the Electoral Co
 
                      (a)  Norfolk Island; and
 
-                     (b)  the Territory of Cocos (Keeling)  Islands; and
+                     (b)  the Territory of Cocos (Keeling) Islands; and
 
                      (c)  the Territory of Christmas Island.
 
-                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis Bay Territory.
+                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis  Bay Territory.
 
                     <a name="australian-elector-offic"></a>**_Australian Electoral Officer_** means:
 
@@ -530,13 +530,13 @@ Example:    An approved form might have been published by the Electoral Co
 
                     <a name="australian-elector-offic-territori"></a>**_Australian Electoral Officer for a Territory_** means an Australian Electoral Officer for a Territory appointed under section 5 of this Act or, where the voting day for a referendum is the same as that fixed for the polling at an election, under section 30 of the _Commonwealth Electoral Act 1918_.
 
-                    <a name="australian-elector-offic-australian-capit-territori"></a>**_Australian Electoral Officer for the Australian Capital Territory_** means the Australian Electoral Officer for the Australian Capital Territory appointed under:
+                    <a name="australian-elector-offic-australian-capit-territori"></a>**_Australian Electoral Officer for the Australian Capital Territory_** means the Australian Electoral Officer for the Australian   Capital Territory appointed under:
 
                      (a)  section 5 of this Act; or
 
                      (b)  if the voting day for a referendum is the same as that fixed for the polling at an election—section 30 of the _Commonwealth Electoral Act 1918_.
 
-                    <a name="australian-elector-offic-northern-territori"></a>**_Australian Electoral Officer for the Northern Territory_** means an Australian Electoral Officer for the Northern Territory referred to in section 20 of the _Commonwealth Electoral Act 1918_.
+                    <a name="australian-elector-offic-northern-territori"></a>**_Australian Electoral Officer for the Northern Territory_** means an Australian Electoral Officer for the Northern   Territory referred to in section 20 of the _Commonwealth Electoral Act 1918_.
 
                     <a name="authorized-wit"></a>**_authorized witness_**, in relation to any act or thing done by a person for the purposes of voting at a referendum, means:
 
@@ -550,7 +550,7 @@ Example:    An approved form might have been published by the Electoral Co
 
                             (iii)  a member of the civil or public service of a State or Territory or of a Commonwealth country;
 
-                          (iiia)  a person appointed or engaged under the _Public Service Act 1999_; or
+                           (iiia)  a person appointed or engaged under the _Public Service Act 1999_; or
 
                             (iv)  a justice of the peace for, or a minister of religion or medical practitioner resident in, a State or Territory or a Commonwealth country; or
 
@@ -566,13 +566,13 @@ For the purposes of this definition, **_Commonwealth country_** means a politica
 
                      (a)  in relation to a polling booth—a compartment constructed in the polling booth pursuant to section 20; and
 
-                     (b)  in relation to a place at which pre‑poll ordinary voting is available—a compartment constructed in the place pursuant to section 73CE.
+                     (b)  in relation to a place at which pre-poll ordinary voting is available—a compartment constructed in the place pursuant to section 73CE.
 
-Note:          For the places at which pre‑poll ordinary voting is available, see section 73CD.
+Note:          For the places at which pre-poll ordinary voting is available, see section 73CD.
 
                     <a name="constabl"></a>**_constable_** means a member or a special member of the Australian Federal Police or a member of the Police Force of a State or Territory.
 
-                    <a name="control-gener-prison"></a>**_Controller‑General of Prisons_**, in relation to a State or Territory, means the official having control of the prisons of the State or Territory.
+                    <a name="control-gener-prison"></a>**_Controller-General of Prisons_**, in relation to a State or Territory, means the official having control of the prisons of the State or Territory.
 
                     <a name="courier-servic"></a>**_courier service_** means a service that provides for the collection, at the request of a person using the service, of an article from a place specified by or on behalf of that person and the delivery of the article to another place so specified, being a service approved by an Australian Electoral Officer or by the Electoral Commissioner.
 
@@ -580,7 +580,7 @@ Note:          For the places at which pre‑poll ordinary vot
 
                      (a)  a postal vote;
 
-                     (b)  a pre‑poll declaration vote;
+                     (b)  a pre-poll declaration vote;
 
                      (c)  an absent vote; or
 
@@ -606,8 +606,6 @@ Note:          For the places at which pre‑poll ordinary vot
 
                     <a name="hospit"></a>**_hospital_** includes a convalescent home or an institution similar to a hospital or to a convalescent home.
 
-                    <a name="immigr-depart"></a>**_Immigration Department_** means the Department administered by the Minister administering the _Migration Act 1958_.
-
                     <a name="itiner-elector"></a>**_itinerant elector_** means an elector who is entitled under section 96 of the _Commonwealth Electoral Act 1918_ to be treated as an itinerant elector for the purposes of that Act.
 
                     <a name="mobil-poll-team-leader"></a>**_mobile polling team leader_** means a mobile polling team leader appointed under section 51.
@@ -616,7 +614,7 @@ Note:          For the places at which pre‑poll ordinary vot
 
                     <a name="northern-territori"></a>**_Northern Territory_** includes the Territory of Cocos (Keeling) Islands and the Territory of Christmas Island.
 
-                    <a name="offic"></a>**_officer_** includes the Electoral Commissioner, the Deputy Electoral Commissioner, the Australian Electoral Officer for a State or Territory, a Divisional Returning Officer, an Assistant Returning Officer, an Assistant Divisional Returning Officer, an Antarctic Returning Officer, an Assistant Antarctic Returning Officer, a presiding officer, a deputy presiding officer, a substitute presiding officer, an assistant presiding officer, a pre‑poll voting officer, a mobile polling team leader and a mobile polling team member, and any other member of the staff of the Electoral Commission who is a delegate of the Electoral Commissioner under subsection 138(2).
+                    <a name="offic"></a>**_officer_** includes the Electoral Commissioner, the Deputy Electoral Commissioner, the Australian Electoral Officer for a State or Territory, a Divisional Returning Officer, an Assistant Returning Officer, an Assistant Divisional Returning Officer, an Antarctic Returning Officer, an Assistant Antarctic Returning Officer, a presiding officer, a deputy presiding officer, a substitute presiding officer, an assistant presiding officer, a pre-poll voting officer, a mobile polling team leader and a mobile polling team member, and any other member of the staff of the Electoral Commission who is a delegate of the Electoral Commissioner under subsection 138(2).
 
                     <a name="poll-booth"></a>**_polling booth_** means a building, structure, vehicle or enclosure, or a part of a building, structure, vehicle or enclosure, provided at a polling place for the purpose of taking votes at a referendum.
 
@@ -626,11 +624,11 @@ Note:          For the places at which pre‑poll ordinary vot
 
                     <a name="postal-vote"></a>**_postal voting_** means voting pursuant to Part IV.
 
-                    <a name="pre-poll-declar-vote"></a>**_pre‑poll declaration vote_**: see subsection 71A(2).
+                    <a name="pre-poll-declar-vote"></a>**_pre-poll declaration vote_**: see subsection 71A(2).
 
-                    <a name="pre-poll-ordinari-vote"></a>**_pre‑poll ordinary vote_**: see subsection 71A(2).
+                    <a name="pre-poll-ordinari-vote"></a>**_pre-poll ordinary vote_**: see subsection 71A(2).
 
-                    <a name="pre-poll-vote-offic"></a>**_pre‑poll voting office_** for a referendum means a place declared by the Electoral Commission under subsection 73AA(1) to be a pre‑poll voting office for the referendum.
+                    <a name="pre-poll-vote-offic"></a>**_pre-poll voting office_** for a referendum means a place declared by the Electoral Commission under subsection 73AA(1) to be a pre-poll voting office for the referendum.
 
                     <a name="provision-enrolled"></a>**_provisionally enrolled_** has the meaning given by subsection (1A).
 
@@ -676,7 +674,7 @@ Note:          For the places at which pre‑poll ordinary vot
 
                      (a)  Norfolk Island; and
 
-                     (b)  the Territory of Cocos (Keeling)  Islands; and
+                     (b)  the Territory of Cocos (Keeling) Islands; and
 
                      (c)  the Territory of Christmas Island.
 
@@ -744,7 +742,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="5"></a>5  Australian Electoral Officer for the Australian Capital Territory
 
-             (1)  The Electoral Commission must, for the purposes of each referendum, appoint an Australian Electoral Officer for the Australian Capital Territory and such an appointment terminates upon the completion of the referendum.
+             (1)  The Electoral Commission must, for the purposes of each referendum, appoint an Australian Electoral Officer for the Australian   Capital Territory and such an appointment terminates upon the completion of the referendum.
 
              (2)  The Electoral Commission may appoint a person to act as Australian Electoral Officer for the Australian Capital Territory during any period, or during all periods, when the Australian Electoral Officer for the Australian Capital Territory is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
 
@@ -782,11 +780,11 @@ and any such appointment shall terminate upon completion of the referendum.
 
 ##### <a id="7"></a>7  Writ for a referendum
 
-                   Whenever a proposed law for the alteration of the Constitution is to be submitted to the electors, the Governor‑General may issue a writ for the submission of the proposed law to the electors.
+                   Whenever a proposed law for the alteration of the Constitution is to be submitted to the electors, the Governor-General may issue a writ for the submission of the proposed law to the electors.
 
 ##### <a id="8"></a>8  Form of writ
 
-             (1)  A writ issued under section 7 may be in accordance with Form A in Schedule 1, shall be signed by the Governor‑General and shall appoint:
+             (1)  A writ issued under section 7 may be in accordance with Form A in Schedule 1, shall be signed by the Governor-General and shall appoint:
 
                      (a)  the day for the close of the Rolls;
 
@@ -796,7 +794,7 @@ and any such appointment shall terminate upon completion of the referendum.
 
           (1A)  The date fixed for the return of the writ must not be more than 100 days after the issue of the writ.
 
-             (2)  The Governor‑General shall cause to be attached to the writ a copy of the proposed law, or a copy of a statement setting out:
+             (2)  The Governor-General shall cause to be attached to the writ a copy of the proposed law, or a copy of a statement setting out:
 
                      (a)  the text of the proposed law; and
 
@@ -820,7 +818,7 @@ and any such appointment shall terminate upon completion of the referendum.
 
 ##### <a id="10"></a>10  Extension of time
 
-             (1)  In spite of any other provision of this Act, the Governor‑General may, before the voting day for a referendum, by notice published in the _Gazette_, fix a later day for the taking of votes of electors, either generally or for a specified Division.
+             (1)  In spite of any other provision of this Act, the Governor-General may, before the voting day for a referendum, by notice published in the _Gazette_, fix a later day for the taking of votes of electors, either generally or for a specified Division.
 
              (2)  The Electoral Commissioner shall, as soon as possible, give such notice of the fixing of the new day as he or she thinks necessary.
 
@@ -830,7 +828,7 @@ and any such appointment shall terminate upon completion of the referendum.
 
                      (b)  in any other case—the day on which the election is to be held shall be taken to be the voting day for the referendum.
 
-             (4)  In spite of any other provision of this Act, the Governor‑General may, before or after the voting day for a referendum, by notice published in the _Gazette_, postpone the day appointed under subsection 8(1) for the return of the writ.
+             (4)  In spite of any other provision of this Act, the Governor-General may, before or after the voting day for a referendum, by notice published in the _Gazette_, postpone the day appointed under subsection 8(1) for the return of the writ.
 
              (5)  A day to which the taking of votes or the return of the writ is postponed under this section shall, for the purposes of other provisions of this Act, be regarded as having been appointed under subsection 8(1).
 
@@ -874,7 +872,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                     (aa)  the preparation, by or on behalf of the Electoral Commission, of translations into other languages of material contained in those pamphlets;
 
-                   (ab)  the preparation, by or on behalf of the Electoral Commission, of presentations of material contained in those pamphlets in forms suitable for the visually impaired;
+                    (ab)  the preparation, by or on behalf of the Electoral Commission, of presentations of material contained in those pamphlets in forms suitable for the visually impaired;
 
                     (ac)  the distribution or publication, by or on behalf of the Electoral Commission, of those pamphlets, translations or presentations (including publication on the internet);
 
@@ -882,9 +880,9 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                      (c)  the salaries and allowances of members of the Parliament, of members of the staff of members of the Parliament or of persons who are appointed or engaged under the _Public Service Act 1999_.
 
-##### <a id="12"></a>12  Governor‑General to deal with writ
+##### <a id="12"></a>12  Governor-General to deal with writ
 
-                   The Governor‑General shall, immediately after the issue of a writ for a referendum:
+                   The Governor-General shall, immediately after the issue of a writ for a referendum:
 
                      (a)  cause a copy of the writ and a copy of the proposed law or of the statement (if any) attached to the writ to be forwarded to the Governors of the several States, to the Chief Minister for the Australian Capital Territory and to the Administrator of the Northern Territory; and
 
@@ -970,7 +968,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                      (n)  a mobile polling team member;
 
-                     (o)  a pre‑poll voting officer.
+                     (o)  a pre-poll voting officer.
 
              (3)  A scrutineer shall not begin the performance of his or her duties unless the scrutineer has signed an undertaking in the approved form.
 
@@ -982,9 +980,9 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
              (1)  Each Divisional Returning Officer shall, for the purposes of a referendum:
 
-                     (a)  provide and equip proper polling booths and provide ballot‑boxes; and
+                     (a)  provide and equip proper polling booths and provide ballot-boxes; and
 
-                     (b)  provide ballot‑papers and all necessary certified lists of voters and approved lists of voters.
+                     (b)  provide ballot-papers and all necessary certified lists of voters and approved lists of voters.
 
              (2)  The Electoral Commission shall, for the purposes of a referendum, appoint a presiding officer to preside at each polling place and all necessary deputy presiding officers and assistant presiding officers, and such appointments shall terminate upon the completion of the referendum.
 
@@ -994,23 +992,23 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
              (5)  A deputy presiding officer or assistant presiding officer may, subject to the directions of the presiding officer, exercise all or any of the powers of the presiding officer, and shall, in respect of the exercise of those powers, be deemed to be the presiding officer.
 
-             (7)  The polling booths and ballot‑boxes provided for the purposes of a referendum may be used for the purposes of an election held on the same day, but the ballot‑papers for the election and the referendum shall be distinctively coloured.
+             (7)  The polling booths and ballot-boxes provided for the purposes of a referendum may be used for the purposes of an election held on the same day, but the ballot-papers for the election and the referendum shall be distinctively coloured.
 
-##### <a id="18"></a>18  Substitute for presiding officer
+##### <a id="18"></a>18  Substitute for presiding officer
 
              (1)  During a temporary absence of a presiding officer, the duties of the presiding officer may be performed by a person appointed for the purpose by the presiding officer.
 
              (2)  A person so appointed has all the powers of the presiding officer.
 
-##### <a id="19"></a>19  Ballot‑boxes
+##### <a id="19"></a>19  Ballot-boxes
 
-             (1)  Each polling booth shall be provided with the necessary ballot‑boxes.
+             (1)  Each polling booth shall be provided with the necessary ballot-boxes.
 
-             (2)  Each ballot‑box shall be capable of being securely fastened.
+             (2)  Each ballot-box shall be capable of being securely fastened.
 
 ##### <a id="20"></a>20  Separate voting compartments
 
-                   Polling booths shall have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot‑papers, and each voting compartment shall be furnished with a pencil for the use of voters.
+                   Polling booths shall have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot-papers, and each voting compartment shall be furnished with a pencil for the use of voters.
 
 ##### <a id="21"></a>21  Use of licensed premises as polling booth
 
@@ -1036,7 +1034,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
              (3)  The Electoral Commissioner must arrange for the delivery to the presiding officer at each polling place, before the start of voting, of a copy of the certified list of voters for the Division for which the polling place is appointed.
 
-             (4)  The Electoral Commissioner must also arrange for a copy of the certified list of voters for a Division to be delivered to each place at which pre‑poll ordinary voting is, under section 73CD (but disregarding subsection 73CD(4)), available to voters enrolled for the Division.
+             (4)  The Electoral Commissioner must also arrange for a copy of the certified list of voters for a Division to be delivered to each place at which pre-poll ordinary voting is, under section 73CD (but disregarding subsection 73CD(4)), available to voters enrolled for the Division.
 
 ##### <a id="22A"></a>22A  Approved list of voters
 
@@ -1050,7 +1048,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                      (a)  a person appointed to be an Australian Electoral Officer for a Territory or a presiding officer, deputy presiding officer, substitute presiding officer or assistant presiding officer for the purposes of the polling at the election shall be deemed to be an Australian Electoral Officer for that Territory or a presiding officer, deputy presiding officer, substitute presiding officer or assistant presiding officer, as the case may be, for the purposes of the referendum;
 
-                     (b)  the same polling booths and ballot‑boxes may be used for the purposes of both the election and the referendum, but if the same ballot‑boxes are used, the ballot‑papers for the referendum shall be of a different colour to the ballot‑papers for the election; and
+                     (b)  the same polling booths and ballot-boxes may be used for the purposes of both the election and the referendum, but if the same ballot-boxes are used, the ballot-papers for the referendum shall be of a different colour to the ballot-papers for the election; and
 
                      (c)  the same certified lists of voters and approved lists of voters may be used for the purposes of both the election and the referendum.
 
@@ -1058,27 +1056,27 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                    The voting at a referendum shall be by ballot and each elector shall indicate his or her vote:
 
-                     (a)  if the elector approves the proposed law—by writing the word “Yes” in the space provided on the ballot‑paper; or
+                     (a)  if the elector approves the proposed law—by writing the word “Yes” in the space provided on the ballot-paper; or
 
                      (b)  if the elector does not approve the proposed law—by writing the word “No” in the space so provided.
 
-##### <a id="25"></a>25  Forms of ballot‑paper
+##### <a id="25"></a>25  Forms of ballot-paper
 
-             (1)  Subject to this section, the ballot‑papers to be used in a referendum shall:
+             (1)  Subject to this section, the ballot-papers to be used in a referendum shall:
 
                      (a)  be in accordance with Form B in Schedule 1; and
 
                      (b)  have a buff background colour.
 
-             (2)  Subject to subsection (3A), where 2 or more referendums are held on the same day, the ballot‑papers for each referendum shall be printed on one piece of paper and shall be in accordance with Form C in Schedule 1.
+             (2)  Subject to subsection (3A), where 2 or more referendums are held on the same day, the ballot-papers for each referendum shall be printed on one piece of paper and shall be in accordance with Form C in Schedule 1.
 
-             (3)  Where 2 or more ballot‑papers are printed on one piece of paper as mentioned in subsection (2):
+             (3)  Where 2 or more ballot-papers are printed on one piece of paper as mentioned in subsection (2):
 
                      (a)  it is not necessary for the initials of an officer to appear more than once on the piece of paper;
 
-                     (b)  the presence of any mark or writing on the piece of paper by which a voter can be identified invalidates all the ballot‑papers and all the votes on the piece of paper; and
+                     (b)  the presence of any mark or writing on the piece of paper by which a voter can be identified invalidates all the ballot-papers and all the votes on the piece of paper; and
 
-                     (c)  a ground of informality (other than the ground referred to in paragraph (b)) applies only to the particular ballot‑paper and vote to which it relates, and does not affect the validity of any other ballot‑paper or vote.
+                     (c)  a ground of informality (other than the ground referred to in paragraph (b)) applies only to the particular ballot-paper and vote to which it relates, and does not affect the validity of any other ballot-paper or vote.
 
           (3A)  If:
 
@@ -1094,31 +1092,31 @@ then:
 
                      (e)  for each of those referendums, the ballot papers must be of a different colour, chosen by the Electoral Commissioner.
 
-             (4)  The ballot‑papers to be used for postal voting shall have the words “Postal Ballot‑paper” or “Postal Ballot‑papers” as a heading and shall contain the following directions: “Fold the ballot‑paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope”.
+             (4)  The ballot-papers to be used for postal voting shall have the words “Postal Ballot-paper” or “Postal Ballot-papers” as a heading and shall contain the following directions: “Fold the ballot-paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope”.
 
-             (5)  Before issuing a ballot‑paper for use at a referendum, an officer shall, if the name of the State or Territory printed on the ballot‑paper is not the name of the State or Territory in which the referendum is to be held, strike out that name and insert the name of the State or Territory in which the referendum is to be held.
+             (5)  Before issuing a ballot-paper for use at a referendum, an officer shall, if the name of the State or Territory printed on the ballot-paper is not the name of the State or Territory in which the referendum is to be held, strike out that name and insert the name of the State or Territory in which the referendum is to be held.
 
-             (6)  Before issuing a ballot‑paper that is to be used for postal voting, a DRO or Assistant Returning Officer shall ensure that the words and directions required by subsection (4) are printed or written on the ballot‑paper.
+             (6)  Before issuing a ballot-paper that is to be used for postal voting, a DRO or Assistant Returning Officer shall ensure that the words and directions required by subsection (4) are printed or written on the ballot-paper.
 
 ##### <a id="25A"></a>25A  Official mark
 
-                   The official mark for the authentication of ballot‑papers is either:
+                   The official mark for the authentication of ballot-papers is either:
 
                      (a)  a water mark consisting of a representation of a shield having within it the letters “CA” intertwined; or
 
                      (b)  a feature of the ballot paper approved by the Electoral Commissioner.
 
-##### <a id="26"></a>26  Ballot‑papers to be initialled
+##### <a id="26"></a>26  Ballot-papers to be initialled
 
-             (1)  Each presiding officer shall place his or her initials on the top of the front of each ballot‑paper before handing the ballot‑paper to a person claiming to vote.
+             (1)  Each presiding officer shall place his or her initials on the top of the front of each ballot-paper before handing the ballot-paper to a person claiming to vote.
 
-             (2)  Each presiding officer shall cause to be kept an exact account of all ballot‑papers so initialled.
+             (2)  Each presiding officer shall cause to be kept an exact account of all ballot-papers so initialled.
 
-             (3)  To avoid doubt, this section also applies to a ballot‑paper that is a photocopy of an original ballot‑paper.
+             (3)  To avoid doubt, this section also applies to a ballot-paper that is a photocopy of an original ballot-paper.
 
 ##### <a id="27"></a>27  Appointment of scrutineers
 
-             (1)  The Governor‑General, or a person authorized by him or her to act under this subsection, may appoint one person to act as a scrutineer during voting at a referendum at each place in Australia where voting is being conducted.
+             (1)  The Governor-General, or a person authorized by him or her to act under this subsection, may appoint one person to act as a scrutineer during voting at a referendum at each place in Australia where voting is being conducted.
 
              (2)  The Governor of a State, or a person authorized by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each place in that State where voting is being conducted.
 
@@ -1154,15 +1152,15 @@ then:
 
              (1)  The voting at a referendum shall be conducted as follows:
 
-                     (a)  before any vote is taken at a polling booth, the presiding officer at that polling booth shall exhibit each ballot‑box that is to be used for the referendum empty, and shall then securely fasten its cover;
+                     (a)  before any vote is taken at a polling booth, the presiding officer at that polling booth shall exhibit each ballot-box that is to be used for the referendum empty, and shall then securely fasten its cover;
 
                      (b)  each polling booth shall open at 8 o’clock in the morning on the voting day and shall not close until all the electors who are present in the polling booth at 6 o’clock in the afternoon on the voting day and who desire to vote at the referendum have voted;
 
                      (c)  the doors of each polling booth shall be closed at 6 o’clock in the afternoon on the voting day and no person shall be admitted to the polling booth after that hour for the purpose of voting;
 
-                     (d)  except where the scrutiny is to be proceeded with immediately after the close of voting at a polling booth, at the close of the voting each presiding officer at a polling booth shall, in the presence of a polling official and of any scrutineers appointed under section 27 who are at the polling booth, close, fasten, seal and take charge of each ballot‑box used for the referendum and with the least possible delay forward the ballot‑box for the purpose of scrutiny.
+                     (d)  except where the scrutiny is to be proceeded with immediately after the close of voting at a polling booth, at the close of the voting each presiding officer at a polling booth shall, in the presence of a polling official and of any scrutineers appointed under section 27 who are at the polling booth, close, fasten, seal and take charge of each ballot-box used for the referendum and with the least possible delay forward the ballot-box for the purpose of scrutiny.
 
-             (2)  A ballot‑box used for a referendum shall not be opened except in accordance with this Act or, if the ballot‑box has been used for both the referendum and an election, in accordance with this Act or the _Commonwealth Electoral Act 1918_.
+             (2)  A ballot-box used for a referendum shall not be opened except in accordance with this Act or, if the ballot-box has been used for both the referendum and an election, in accordance with this Act or the _Commonwealth Electoral Act 1918_.
 
 ##### <a id="30"></a>30  Questions to be put to voter
 
@@ -1206,9 +1204,9 @@ if, in the opinion of the presiding officer, or the issuing officer within the m
 
              (2)  The claim of an elector to vote at a referendum shall not be rejected by reason only that he or she has changed his or her surname by reason of marriage and that that change has not been reflected in the Roll.
 
-##### <a id="33"></a>33  Right of elector to receive ballot‑paper
+##### <a id="33"></a>33  Right of elector to receive ballot-paper
 
-             (1)  Subject to section 37, the presiding officer or a polling official at each polling booth shall hand to each person claiming to vote at a referendum a ballot‑paper duly initialled by the presiding officer if:
+             (1)  Subject to section 37, the presiding officer or a polling official at each polling booth shall hand to each person claiming to vote at a referendum a ballot-paper duly initialled by the presiding officer if:
 
                      (a)  the name under which the person claims to vote is on the certified list of voters or an approved list of voters used at the polling booth, and the person’s answers to the questions referred to in sections 30 and 31 show that he or she is entitled to vote; or
 
@@ -1216,7 +1214,7 @@ if, in the opinion of the presiding officer, or the issuing officer within the m
 
              (2)  A presiding officer shall, at the request of a scrutineer appointed under section 27, note any objection by the scrutineer to the right of any person to vote at a referendum, and shall keep a record of all objections.
 
-##### <a id="34"></a>34  List of voters to be marked when ballot‑paper issued
+##### <a id="34"></a>34  List of voters to be marked when ballot-paper issued
 
              (1)  Immediately after handing a ballot paper to a person who claims to vote at a polling place and whose name is on the certified list of voters, or an approved list of voters, available at the polling place, the presiding officer or a polling official at the polling place must:
 
@@ -1234,17 +1232,17 @@ if, in the opinion of the presiding officer, or the issuing officer within the m
 
 ##### <a id="35"></a>35  Vote to be marked in private
 
-                   Except as otherwise prescribed, a person voting at a polling booth at a referendum shall, upon receipt of a ballot‑paper:
+                   Except as otherwise prescribed, a person voting at a polling booth at a referendum shall, upon receipt of a ballot-paper:
 
-                     (a)  retire alone to an unoccupied voting compartment at the polling booth and mark, in private, his or her vote on the ballot‑paper;
+                     (a)  retire alone to an unoccupied voting compartment at the polling booth and mark, in private, his or her vote on the ballot-paper;
 
-                     (b)  fold the ballot‑paper so as to conceal his or her vote and place it in the ballot‑box; and
+                     (b)  fold the ballot-paper so as to conceal his or her vote and place it in the ballot-box; and
 
                      (c)  leave the booth.
 
 ##### <a id="36"></a>36  Assistance to certain voters
 
-             (1)  If any voter satisfies the presiding officer at a polling booth that his or her sight is so impaired or that the voter is so illiterate or physically incapacitated as to be unable to vote without assistance, the presiding officer shall permit a person appointed by the voter to enter an unoccupied voting compartment of the booth with the voter, and mark, fold and deposit the voter’s ballot‑paper.
+             (1)  If any voter satisfies the presiding officer at a polling booth that his or her sight is so impaired or that the voter is so illiterate or physically incapacitated as to be unable to vote without assistance, the presiding officer shall permit a person appointed by the voter to enter an unoccupied voting compartment of the booth with the voter, and mark, fold and deposit the voter’s ballot-paper.
 
           (1A)  A presiding officer who is visiting a patient under section 48 for the purpose of taking the patient’s vote must explain to the patient the effect of subsection (1) of this section.
 
@@ -1254,9 +1252,9 @@ if, in the opinion of the presiding officer, or the issuing officer within the m
 
                      (b)  if the voter so desires, a person appointed by the voter;
 
-shall mark, fold and deposit the voter’s ballot‑paper.
+shall mark, fold and deposit the voter’s ballot-paper.
 
-             (3)  Without limiting the generality of subsection (2), a voter to whom that subsection applies may indicate to the presiding officer the manner in which the voter wishes the presiding officer to mark the ballot‑paper for the voter by presenting to the presiding officer a statement in writing (which may be, or include, a how‑to‑vote card) that specifies the manner in which the ballot‑paper is to be marked.
+             (3)  Without limiting the generality of subsection (2), a voter to whom that subsection applies may indicate to the presiding officer the manner in which the voter wishes the presiding officer to mark the ballot-paper for the voter by presenting to the presiding officer a statement in writing (which may be, or include, a how-to-vote card) that specifies the manner in which the ballot-paper is to be marked.
 
              (4)  Where subsection (1) applies in relation to a provisional or absent voter, the presiding officer shall:
 
@@ -1280,17 +1278,17 @@ shall mark, fold and deposit the voter’s ballot‑paper.
 
              (3)  Subject to subsection (5), the voter:
 
-                     (a)  must mark his or her vote on the ballot‑paper in the presence of a polling official; and
+                     (a)  must mark his or her vote on the ballot-paper in the presence of a polling official; and
 
-                     (b)  must fold the ballot‑paper so as to conceal his or her vote, and hand the ballot‑paper to the polling official.
+                     (b)  must fold the ballot-paper so as to conceal his or her vote, and hand the ballot-paper to the polling official.
 
-             (4)  The polling official must ensure that the folded ballot‑paper is immediately returned to the polling place and put in the ballot‑box in the presence of any scrutineers who were present when the voter voted.
+             (4)  The polling official must ensure that the folded ballot-paper is immediately returned to the polling place and put in the ballot-box in the presence of any scrutineers who were present when the voter voted.
 
-             (5)  If the voter also satisfies the presiding officer that he or she is unable to vote without assistance, the presiding officer may, with the voter’s consent, allow a polling official to mark and fold the voter’s ballot‑paper.
+             (5)  If the voter also satisfies the presiding officer that he or she is unable to vote without assistance, the presiding officer may, with the voter’s consent, allow a polling official to mark and fold the voter’s ballot-paper.
 
-             (6)  The voter must indicate to the polling official how the voter wishes the polling official to mark the voter’s ballot‑paper.
+             (6)  The voter must indicate to the polling official how the voter wishes the polling official to mark the voter’s ballot-paper.
 
-             (7)  Without limiting the methods by which the voter may indicate, for the purposes of subsection (6), how the voter wishes to vote, the voter may present to the polling official a statement in writing (which may be, or include, a how‑to‑vote card) specifying how the ballot‑paper is to be marked.
+             (7)  Without limiting the methods by which the voter may indicate, for the purposes of subsection (6), how the voter wishes to vote, the voter may present to the polling official a statement in writing (which may be, or include, a how-to-vote card) specifying how the ballot-paper is to be marked.
 
              (8)  If subsection (5) applies to an absent or provisional voter, the polling official must:
 
@@ -1342,13 +1340,13 @@ Note:          The regulations are made under subsection (9)
 
              (4)  The polling official shall then sign the declaration as witness, adding the date.
 
-             (5)  Before issuing a ballot‑paper to the person, a polling official shall give the person a statement in writing in the approved form explaining the effect of this section and indicating the steps that will be taken if the person cast a provisional vote.
+             (5)  Before issuing a ballot-paper to the person, a polling official shall give the person a statement in writing in the approved form explaining the effect of this section and indicating the steps that will be taken if the person cast a provisional vote.
 
-             (6)  A person who casts a provisional vote shall fold the ballot‑paper and hand it to the polling official who issued it.
+             (6)  A person who casts a provisional vote shall fold the ballot-paper and hand it to the polling official who issued it.
 
-             (7)  The polling official shall, in the presence of the voter, without unfolding the ballot‑paper, place it in the envelope bearing the voter’s declaration, fasten the envelope and place the envelope in the ballot‑box.
+             (7)  The polling official shall, in the presence of the voter, without unfolding the ballot-paper, place it in the envelope bearing the voter’s declaration, fasten the envelope and place the envelope in the ballot-box.
 
-             (8)  The Assistant Returning Officer who opens the ballot‑box shall deal with the envelope according to section 46A.
+             (8)  The Assistant Returning Officer who opens the ballot-box shall deal with the envelope according to section 46A.
 
 Regulations
 
@@ -1384,7 +1382,7 @@ Application by those about to become Australian citizens
 
                      (e)  the person is not qualified for enrolment, but would be so qualified if he or she were an Australian citizen.
 
-Note 1:       A person who is provisionally enrolled under this section is not immediately added to a Roll but can cast a postal vote, a pre‑poll declaration vote, an absent vote or a provisional vote. However, the vote is excluded from further scrutiny if the person does not provide evidence of citizenship by the first Friday following the voting day (see paragraph 6 of Schedule 4).
+Note 1:       A person who is provisionally enrolled under this section is not immediately added to a Roll but can cast a postal vote, a pre-poll declaration vote, an absent vote or a provisional vote. However, the vote is excluded from further scrutiny if the person does not provide evidence of citizenship by the first Friday following the voting day (see paragraph 6 of Schedule 4).
 
 Note 2:       A person may make a similar application under section 99B of the _Commonwealth Electoral Act 1918_ if the voting day for the referendum is the same as that fixed for the polling at an election.
 
@@ -1468,23 +1466,23 @@ Note:          Requirements of section 38 relating to the fo
 
                      (a)  a declaration made for the purposes of the election under section 235 of the _Commonwealth Electoral Act 1918_ shall be deemed to be a declaration made under subsection 37(2) of this Act; and
 
-                     (b)  a ballot‑paper containing the vote of a person claiming to vote pursuant to section 37 of this Act may be enclosed in the same envelope as that in which the ballot‑paper containing the vote of the person under section 235 of the _Commonwealth Electoral Act 1918_ is enclosed.
+                     (b)  a ballot-paper containing the vote of a person claiming to vote pursuant to section 37 of this Act may be enclosed in the same envelope as that in which the ballot-paper containing the vote of the person under section 235 of the _Commonwealth Electoral Act 1918_ is enclosed.
 
-##### <a id="41"></a>41  Spoilt ballot‑papers
+##### <a id="41"></a>41  Spoilt ballot-papers
 
-             (1)  If a person voting at a referendum, before depositing a ballot‑paper in a ballot‑box, satisfies the presiding officer at the polling booth at which the person is voting, or the issuing officer within the meaning of Division 3 of Part IVA, that the person has spoilt the ballot‑paper by mistake or accident, the presiding officer or issuing officer shall provide the person with a new ballot‑paper and shall cancel the spoilt ballot‑paper.
+             (1)  If a person voting at a referendum, before depositing a ballot-paper in a ballot-box, satisfies the presiding officer at the polling booth at which the person is voting, or the issuing officer within the meaning of Division 3 of Part IVA, that the person has spoilt the ballot-paper by mistake or accident, the presiding officer or issuing officer shall provide the person with a new ballot-paper and shall cancel the spoilt ballot-paper.
 
-             (2)  If a person voting at a referendum in a manner that will involve a ballot‑paper being placed in an envelope satisfies the officer who issued the ballot‑paper that, before the ballot‑paper was placed in the relevant envelope, he or she spoilt the ballot‑paper by mistake or accident, the officer shall provide the person with a new ballot‑paper and shall cancel the spoilt ballot‑paper.
+             (2)  If a person voting at a referendum in a manner that will involve a ballot-paper being placed in an envelope satisfies the officer who issued the ballot-paper that, before the ballot-paper was placed in the relevant envelope, he or she spoilt the ballot-paper by mistake or accident, the officer shall provide the person with a new ballot-paper and shall cancel the spoilt ballot-paper.
 
-             (3)  An officer who has cancelled a spoilt ballot‑paper shall:
+             (3)  An officer who has cancelled a spoilt ballot-paper shall:
 
-                     (a)  write “spoilt” on the back of the ballot‑paper;
+                     (a)  write “spoilt” on the back of the ballot-paper;
 
-                     (b)  place the ballot‑paper in an envelope, seal the envelope and write on the envelope an indication of the type of ballot‑paper enclosed and that it is spoilt; and
+                     (b)  place the ballot-paper in an envelope, seal the envelope and write on the envelope an indication of the type of ballot-paper enclosed and that it is spoilt; and
 
                      (c)  sign the envelope.
 
-             (4)  The envelopes containing spoilt ballot‑papers that have been cancelled under subsection (1) or (2) shall be sealed up in a parcel which shall be given to the DRO for the Division after the close of voting.
+             (4)  The envelopes containing spoilt ballot-papers that have been cancelled under subsection (1) or (2) shall be sealed up in a parcel which shall be given to the DRO for the Division after the close of voting.
 
 ##### <a id="41A"></a>41A  Temporary suspension of polling
 
@@ -1628,7 +1626,7 @@ the DRO must send by post or deliver to the elector, at his or her latest known 
 
            (10)  If, in response to a notice under subsection (9), the penalty of $20 is paid to the DRO within the prescribed time, proceedings against the elector for a contravention of subsection (14) are prohibited.
 
-           (11)  If an elector is unable, by reason of absence from his or her place of living or physical incapacity, to respond to a penalty notice or to a notice under subsection (9) within the prescribed time, any other elector who has a personal knowledge of the facts may, subject to the regulations, respond to the notice within that time, and such response is to be treated as compliance by the first‑mentioned elector with the notice.
+           (11)  If an elector is unable, by reason of absence from his or her place of living or physical incapacity, to respond to a penalty notice or to a notice under subsection (9) within the prescribed time, any other elector who has a personal knowledge of the facts may, subject to the regulations, respond to the notice within that time, and such response is to be treated as compliance by the first-mentioned elector with the notice.
 
            (12)  The DRO must prepare a list of all electors to whom a penalty notice has been sent or delivered and note on that list in relation to each elector:
 
@@ -1658,11 +1656,11 @@ the DRO must send by post or deliver to the elector, at his or her latest known 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-        (14B)  Subsection (14) does not apply if the elector has a valid and sufficient reason for the failure.
+         (14B)  Subsection (14) does not apply if the elector has a valid and sufficient reason for the failure.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (14B) (see subsection 13.3(3) of the _Criminal Code_).
 
-        (14C)  An elector who makes a statement in response to a penalty notice or to a notice under subsection (9) that is, to his or her knowledge, false or misleading in a material particular is guilty of an offence.
+         (14C)  An elector who makes a statement in response to a penalty notice or to a notice under subsection (9) that is, to his or her knowledge, false or misleading in a material particular is guilty of an offence.
 
                     Penalty:  $50.
 
@@ -1702,9 +1700,9 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  A declaration made by an absent voter under subsection (1) or (1A) shall be printed on, or securely attached to, an envelope addressed to the Divisional Returning Officer for the Division for which the elector declares that he or she is enrolled.
 
-             (4)  An elector who votes as an absent voter shall mark and fold the ballot‑paper in the manner prescribed by this Act and return it so folded to the presiding officer.
+             (4)  An elector who votes as an absent voter shall mark and fold the ballot-paper in the manner prescribed by this Act and return it so folded to the presiding officer.
 
-             (5)  The presiding officer shall thereupon, in the presence of the elector, and without unfolding the ballot‑paper enclose it in the envelope referred to in subsection (3) of this section and shall forthwith securely fasten the envelope and deposit it in the ballot‑box.
+             (5)  The presiding officer shall thereupon, in the presence of the elector, and without unfolding the ballot-paper enclose it in the envelope referred to in subsection (3) of this section and shall forthwith securely fasten the envelope and deposit it in the ballot-box.
 
              (9)  Where the voting day for a referendum is the same as that fixed for the polling at an election:
 
@@ -1712,61 +1710,61 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  the agreement of an appropriate person on the staff of a hospital under subsection 222(2) of the _Commonwealth Electoral Act 1918_ shall be deemed to be agreement under subsection (2) of this section; and
 
-                     (c)  a ballot‑paper containing the vote of a person voting as an absent voter under this section may be enclosed in the same envelope as that in which the ballot‑paper containing the vote of that person voting as an absent voter under section 222 of the _Commonwealth Electoral Act 1918_ is enclosed.
+                     (c)  a ballot-paper containing the vote of a person voting as an absent voter under this section may be enclosed in the same envelope as that in which the ballot-paper containing the vote of that person voting as an absent voter under section 222 of the _Commonwealth Electoral Act 1918_ is enclosed.
 
 ##### <a id="46A"></a>46A  Forwarding of declaration votes
 
-             (1)  A presiding officer at a polling place shall forward to the Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer any ballot‑boxes containing envelopes bearing certificates or declarations made by persons who have cast declaration votes and which purport to contain the ballot‑papers of such voters, together with records that the presiding officer has made in accordance with paragraph 67(2)(e) and subsection 34(2).
+             (1)  A presiding officer at a polling place shall forward to the Assistant Returning Officer designated for the purposes of this subsection by the Divisional Returning Officer any ballot-boxes containing envelopes bearing certificates or declarations made by persons who have cast declaration votes and which purport to contain the ballot-papers of such voters, together with records that the presiding officer has made in accordance with paragraph 67(2)(e) and subsection 34(2).
 
-          (1A)  A pre‑poll voting officer who:
+          (1A)  A pre-poll voting officer who:
 
-                     (a)  receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot‑paper; or
+                     (a)  receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot-paper; or
 
-                     (b)  places a ballot‑paper in an envelope under subsection 73D(7);
+                     (b)  places a ballot-paper in an envelope under subsection 73D(7);
 
-shall forward the envelope, together with the record made under paragraph 67(2)(e) or subsection 73F(2), as the case may be, in relation to the receipt or issue of the envelope, to the Divisional Returning Officer for the Division for which the pre‑poll voting officer is appointed.
+shall forward the envelope, together with the record made under paragraph 67(2)(e) or subsection 73F(2), as the case may be, in relation to the receipt or issue of the envelope, to the Divisional Returning Officer for the Division for which the pre-poll voting officer is appointed.
 
           (1B)  Envelopes and records required to be forwarded under subsection (1A) shall be so forwarded according to the instructions of the Divisional Returning Officer.
 
-             (2)  An Assistant Returning Officer to whom a ballot‑box is forwarded under subsection (1) or subsection 51(10) shall:
+             (2)  An Assistant Returning Officer to whom a ballot-box is forwarded under subsection (1) or subsection 51(10) shall:
 
                      (a)  compare the particulars on the envelopes with the particulars appearing in the relevant records forwarded to the Assistant Returning Officer under this Act, note the number of envelopes and report any discrepancy to the Divisional Returning Officer;
 
-                     (b)  place in a parcel all the envelopes contained in such ballot‑boxes, endorse on the parcel the number of envelopes contained in the parcel, seal up the parcel and forthwith deliver it, or cause it to be delivered, to the Divisional Returning Officer; and
+                     (b)  place in a parcel all the envelopes contained in such ballot-boxes, endorse on the parcel the number of envelopes contained in the parcel, seal up the parcel and forthwith deliver it, or cause it to be delivered, to the Divisional Returning Officer; and
 
                      (c)  forward to the Divisional Returning Officer advice in writing of the total number of envelopes bearing certificates or declarations enclosed in the parcel delivered or to be delivered to the Divisional Returning Officer.
 
              (3)  Each Divisional Returning Officer shall:
 
-                     (a)  maintain a record of the particulars of the advices, and of the number of envelopes bearing certificates or declarations, received from each Assistant Returning Officer and pre‑poll voting officer;
+                     (a)  maintain a record of the particulars of the advices, and of the number of envelopes bearing certificates or declarations, received from each Assistant Returning Officer and pre-poll voting officer;
 
-                     (b)  until they are dealt with under other provisions of this Act, keep the envelopes received from Assistant Returning Officers and pre‑poll voting officers in one or more securely fastened ballot‑boxes; and
+                     (b)  until they are dealt with under other provisions of this Act, keep the envelopes received from Assistant Returning Officers and pre-poll voting officers in one or more securely fastened ballot-boxes; and
 
                      (c)  compare the record referred to in paragraph (a) with the envelopes received and note any discrepancy.
 
-          (3A)  Each DRO to whom ballot‑boxes are forwarded, or by whom ballot‑boxes are collected, as mentioned in paragraph 67(6)(b):
+          (3A)  Each DRO to whom ballot-boxes are forwarded, or by whom ballot-boxes are collected, as mentioned in paragraph 67(6)(b):
 
-                     (a)  must compare the records forwarded to or collected by the DRO as mentioned in paragraph 67(6)(d) with the envelopes in the ballot‑boxes and note any discrepancy; and
+                     (a)  must compare the records forwarded to or collected by the DRO as mentioned in paragraph 67(6)(d) with the envelopes in the ballot-boxes and note any discrepancy; and
 
-                     (b)  except as necessary for the purposes of paragraph (a), keep the envelopes in one or more securely‑fastened ballot‑boxes until the envelopes are dealt with under other provisions of this Act.
+                     (b)  except as necessary for the purposes of paragraph (a), keep the envelopes in one or more securely-fastened ballot-boxes until the envelopes are dealt with under other provisions of this Act.
 
              (4)  A Divisional Returning Officer shall:
 
                      (a)  place in a parcel all the envelopes bearing certificates or declarations and relating to a particular Division and records relating to that Division, endorse on the parcel the number of the envelopes, seal up the parcel and forthwith deliver it, or cause it to be delivered, to the Divisional Returning Officer for that Division or, with the approval of the Australian Electoral Officer for the State or Territory that includes that Division, to another person to be dealt with in accordance with subsection (5); and
 
-                     (b)  forward to the last‑mentioned Divisional Returning Officer advice in writing of the total number of envelopes bearing certificates or declarations enclosed in the parcel delivered or to be delivered to that Divisional Returning Officer.
+                     (b)  forward to the last-mentioned Divisional Returning Officer advice in writing of the total number of envelopes bearing certificates or declarations enclosed in the parcel delivered or to be delivered to that Divisional Returning Officer.
 
              (5)  Each Divisional Returning Officer shall:
 
                      (a)  maintain a record of the particulars of the advices, and of the number of envelopes bearing certificates or declarations, received from other Divisional Returning Officers or from persons referred to in subsection (7) or (9);
 
-                     (b)  maintain a locked and sealed ballot‑box labelled so as to identify it as a declaration vote ballot‑box; and
+                     (b)  maintain a locked and sealed ballot-box labelled so as to identify it as a declaration vote ballot-box; and
 
-                     (c)  keep in that ballot‑box, until the scrutiny, all envelopes bearing a certificate or declaration and purporting to contain a ballot‑paper recording a declaration vote in relation to his or her Division that, in accordance with subsection (5A), are received within sufficient time to be taken into account in the scrutiny.
+                     (c)  keep in that ballot-box, until the scrutiny, all envelopes bearing a certificate or declaration and purporting to contain a ballot-paper recording a declaration vote in relation to his or her Division that, in accordance with subsection (5A), are received within sufficient time to be taken into account in the scrutiny.
 
           (5A)  An envelope referred to in paragraph (5)(c) is received by a DRO within sufficient time to be taken into account in the scrutiny if it is received by the DRO within 13 days after the close of the poll (whether directly from the voter or from another DRO or a person referred to in subsection (7) or (9)).
 
-             (6)  Before placing in the ballot‑box maintained under subsection (5) an envelope purporting to contain a postal ballot‑paper and delivered to a Divisional Returning Officer which is received after the close of the poll and which does not bear evidence sufficient to satisfy the Divisional Returning Officer that the vote contained in the envelope was recorded before the close of the poll, the Divisional Returning Officer shall endorse on the envelope the date of its receipt and shall initial the endorsement.
+             (6)  Before placing in the ballot-box maintained under subsection (5) an envelope purporting to contain a postal ballot-paper and delivered to a Divisional Returning Officer which is received after the close of the poll and which does not bear evidence sufficient to satisfy the Divisional Returning Officer that the vote contained in the envelope was recorded before the close of the poll, the Divisional Returning Officer shall endorse on the envelope the date of its receipt and shall initial the endorsement.
 
              (7)  Where envelopes bearing certificates or declarations, or records, relating to a particular Division are, with the approval of the Australian Electoral Officer for the State or Territory that includes that Division, delivered to a person other than the Divisional Returning Officer for that Division, that person shall, as soon as practicable, deliver them, or cause them to be delivered, to that Divisional Returning Officer.
 
@@ -1778,7 +1776,7 @@ shall forward the envelope, together with the record made under paragraph 67(2)(
 
 ##### <a id="47"></a>47  Interpretation
 
-                   In sections 48 and 50, **_patient_**, in relation to a hospital, does not include a person attending the hospital as an out‑patient.
+                   In sections 48 and 50, **_patient_**, in relation to a hospital, does not include a person attending the hospital as an out-patient.
 
 ##### <a id="48"></a>48  Hospitals that are polling places
 
@@ -1794,7 +1792,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
              (3)  When visiting the patient, the presiding officer shall:
 
-                     (a)  take to the patient a ballot‑box, a ballot‑paper, and anything else necessary to enable the patient to vote; and
+                     (a)  take to the patient a ballot-box, a ballot-paper, and anything else necessary to enable the patient to vote; and
 
                      (b)  be accompanied by a polling official and such scrutineers (if any) as wish to attend.
 
@@ -1818,7 +1816,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                      (b)  paragraph 35(a) were omitted and the following paragraph were substituted:
 
-                           “(a)  mark his or her vote on the ballot‑paper in a manner that ensures the secrecy of the vote;”;
+                           “(a)  mark his or her vote on the ballot-paper in a manner that ensures the secrecy of the vote;”;
 
                      (c)  paragraph 35(c) were omitted; and
 
@@ -1830,7 +1828,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                      (b)  the references in that subsection to a polling booth were references to the hospital.
 
-             (5)  Where an elector has voted under section 48 at a referendum, any postal ballot‑paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot‑paper of the elector shall not be admitted in the scrutiny in relation to the referendum.
+             (5)  Where an elector has voted under section 48 at a referendum, any postal ballot-paper received by the Divisional Returning Officer that is, or that purports to be, a postal ballot-paper of the elector shall not be admitted in the scrutiny in relation to the referendum.
 
              (6)  The DRO for a Division shall, not later than 4 p.m. on the day before voting day, display prominently in his or her office a notice specifying the hospitals in the Division that are polling places and indicating the periods during which votes will be taken under section 48 at each hospital.
 
@@ -1858,7 +1856,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                              (ii)  the days and times when teams will visit for the purposes of this section.
 
-          (4A)  Before determining a prison under subsection (4), the Electoral Commissioner must consult the Controller‑General of Prisons for the State or Territory in which the prison is located.
+          (4A)  Before determining a prison under subsection (4), the Electoral Commissioner must consult the Controller-General of Prisons for the State or Territory in which the prison is located.
 
              (5)  A day notified under paragraph (4)(b) shall be any of the 12 days preceding voting day, voting day, or a day to which the voting is adjourned.
 
@@ -1874,7 +1872,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
              (8)  At any time when a team is at a place for the purposes of taking votes under this section at a referendum:
 
-                     (a)  the team shall have ballot‑boxes, ballot‑papers and such other things as are necessary for the votes of electors to be taken at the place;
+                     (a)  the team shall have ballot-boxes, ballot-papers and such other things as are necessary for the votes of electors to be taken at the place;
 
                      (b)  every person at the place who is an elector for the State or Territory in which the place is situated is entitled to have his or her vote taken under this section;
 
@@ -1888,7 +1886,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                      (d)  so far as is practicable, a vote under this section shall be taken as if it were taken under the other provisions of this Act (other than section 48) including such of those provisions as relate to absent voting;
 
-                   (da)  section 29 applies as if, for paragraph 29(b), there were substituted the following paragraph:
+                    (da)  section 29 applies as if, for paragraph 29(b), there were substituted the following paragraph:
 
                            “(b)  the voting may be conducted:
 
@@ -1904,9 +1902,9 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
              (9)  Paragraph 29(1)(a) does not apply to a leader after the first visit made by the leader for the purposes of this section.
 
-           (10)  At the end of the last visit made by a leader for the purposes of this section, the leader shall, in the presence of a member of his or her team and any scrutineers appointed under section 27 who may be in attendance, publicly close, fasten, seal and take charge of each ballot‑box used by the leader for the purposes of this section and, with the least possible delay, forward it for the purposes of scrutiny to the appropriate Assistant Returning Officer designated for the purposes of this subsection by the Australian Electoral Officer for the State or Territory in which that last visit occurred.
+           (10)  At the end of the last visit made by a leader for the purposes of this section, the leader shall, in the presence of a member of his or her team and any scrutineers appointed under section 27 who may be in attendance, publicly close, fasten, seal and take charge of each ballot-box used by the leader for the purposes of this section and, with the least possible delay, forward it for the purposes of scrutiny to the appropriate Assistant Returning Officer designated for the purposes of this subsection by the Australian Electoral Officer for the State or Territory in which that last visit occurred.
 
-           (11)  Where an elector has voted under this section at a referendum, any postal ballot‑paper received by a Divisional Returning Officer that is, or that purports to be, a postal ballot‑paper of the voter shall not be admitted in the scrutiny in relation to the referendum.
+           (11)  Where an elector has voted under this section at a referendum, any postal ballot-paper received by a Divisional Returning Officer that is, or that purports to be, a postal ballot-paper of the voter shall not be admitted in the scrutiny in relation to the referendum.
 
            (12)  A determination under paragraph (4)(a) is not a legislative instrument.
 
@@ -1966,7 +1964,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                      (a)  a postal vote certificate printed on an envelope; and
 
-                     (b)  a postal ballot‑paper; and
+                     (b)  a postal ballot-paper; and
 
                      (c)  if the envelope on which the postal vote certificate is printed is not itself addressed to the DRO for the Division for which the general postal voter is registered—an envelope addressed to that DRO.
 
@@ -1978,15 +1976,15 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                      (b)  section 58 does not apply for the purposes of the referendum;
 
-                     (c)  a person who is entitled to receive a postal ballot‑paper under section 186 of the _Commonwealth Electoral Act 1918_ for the purposes of the election is also entitled to receive, in the same manner, a postal ballot‑paper for the purposes of the referendum;
+                     (c)  a person who is entitled to receive a postal ballot-paper under section 186 of the _Commonwealth Electoral Act 1918_ for the purposes of the election is also entitled to receive, in the same manner, a postal ballot-paper for the purposes of the referendum;
 
                      (d)  a postal vote certificate for the purposes of the election also has effect as a postal vote certificate for the purposes of the referendum;
 
                      (e)  a reference in an application or certificate to the election shall be regarded as including a reference to the referendum; and
 
-                      (f)  a ballot‑paper bearing the postal vote of an elector in the referendum may be enclosed in the same envelope as the postal ballot‑paper bearing the elector’s postal vote in the election.
+                      (f)  a ballot-paper bearing the postal vote of an elector in the referendum may be enclosed in the same envelope as the postal ballot-paper bearing the elector’s postal vote in the election.
 
-##### <a id="61"></a>61  Issue of certificate and ballot‑papers
+##### <a id="61"></a>61  Issue of certificate and ballot-papers
 
              (1)  A DRO or Assistant Returning Officer who receives an application for a postal vote that is in accordance with subsection 55(1) must (unless the application fails to meet the deadline as mentioned in subsection 55(5)) send, or arrange for the sending, to the applicant in accordance with whichever of subsections (2), (2A) and (2B) of this section applies:
 
@@ -1996,7 +1994,7 @@ the presiding officer shall visit the patient for the purpose of taking the pati
 
                              (ii)  otherwise—to the DRO for the Division for which the applicant declares that he or she is enrolled; and
 
-                     (b)  a postal ballot‑paper.
+                     (b)  a postal ballot-paper.
 
              (2)  Subject to subsection (2A), if the DRO or Assistant Returning Officer receives the application for a postal vote at or before 6 pm on the Friday that is 8 days before voting day in the referendum, the material required by subsection (1) must be sent to the applicant by post or by another means (not being an electronic means, such as fax or email).
 
@@ -2018,15 +2016,15 @@ Note:          If the application is received after 6 pm on th
 
 ##### <a id="62"></a>62  Inspection of applications
 
-             (1)  A DRO who issues a postal vote certificate and postal ballot‑paper shall:
+             (1)  A DRO who issues a postal vote certificate and postal ballot-paper shall:
 
-                     (a)  write on the application the date of issue of the certificate and ballot‑paper; and
+                     (a)  write on the application the date of issue of the certificate and ballot-paper; and
 
                      (b)  if the DRO is not the appropriate DRO, send the application to the appropriate DRO.
 
-             (2)  An Assistant Returning Officer who issues a postal vote certificate and postal ballot‑paper shall:
+             (2)  An Assistant Returning Officer who issues a postal vote certificate and postal ballot-paper shall:
 
-                     (a)  write on the application the date of issue of the certificate and ballot‑paper; and
+                     (a)  write on the application the date of issue of the certificate and ballot-paper; and
 
                      (b)  deal with the application in accordance with subsection 46A(8).
 
@@ -2066,7 +2064,7 @@ Use of information
 
                      (b)  the use of the information is not for a permitted purpose (see subsections (4) and (5)).
 
-                    Maximum penalty: 100 penalty units.
+                    Maximum penalty:    100 penalty units.
 
 Disclosure of information
 
@@ -2078,7 +2076,7 @@ Disclosure of information
 
                      (c)  the disclosure would not be a use of the information for a permitted purpose (see subsections (4) and (5)).
 
-                    Maximum penalty: 1,000 penalty units.
+                    Maximum penalty:    1,000 penalty units.
 
 Use of information for a commercial purpose
 
@@ -2088,7 +2086,7 @@ Use of information for a commercial purpose
 
                      (b)  the person knows that, or is reckless as to whether, the information has been obtained from an electronic list of postal vote applicants provided by the Electoral Commission.
 
-                    Maximum penalty: 1,000 penalty units.
+                    Maximum penalty:    1,000 penalty units.
 
 Permitted purposes
 
@@ -2128,29 +2126,29 @@ Definitions
 
              (1)  A DRO or Assistant Returning Officer shall allocate a number to each application for a postal vote and shall number each postal vote certificate with a number corresponding to the number of the application.
 
-             (2)  The DRO or Assistant Returning Officer who issues a ballot‑paper shall initial the top of the front of the paper.
+             (2)  The DRO or Assistant Returning Officer who issues a ballot-paper shall initial the top of the front of the paper.
 
 ##### <a id="65"></a>65  Postal voting
 
              (1)  The following requirements for postal voting shall be substantially observed:
 
-                     (a)  the elector shall show the unsigned postal vote certificate and the unmarked postal ballot‑paper to an authorised witness;
+                     (a)  the elector shall show the unsigned postal vote certificate and the unmarked postal ballot-paper to an authorised witness;
 
                      (b)  the elector shall sign the postal vote certificate in the presence of the authorised witness;
 
                      (c)  the authorised witness shall sign the certificate as witness, adding the date and an indication of the capacity in which the witness acts;
 
-                     (d)  the elector shall then, in the presence of the authorised witness but so that the witness cannot see the vote, mark his or her vote on the ballot‑paper, fold the ballot‑paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope;
+                     (d)  the elector shall then, in the presence of the authorised witness but so that the witness cannot see the vote, mark his or her vote on the ballot-paper, fold the ballot-paper, place it in the envelope on which the postal vote certificate is printed and fasten the envelope;
 
-                   (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of voting;
+                    (da)  the elector must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a), (b) and (d) were satisfied before the close of voting;
 
-                   (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of voting;
+                    (db)  the authorised witness must declare, on the postal vote certificate, that the requirements referred to in paragraphs (a) to (c) were satisfied before the close of voting;
 
                      (e)  the elector shall post or deliver the envelope to the appropriate DRO;
 
                       (f)  if the elector cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the elector may, according to the directions of the elector, do for the elector any act required by paragraph (d) or (e);
 
-                     (g)  directions under paragraph (f) may be given by reference to a how‑to‑vote card.
+                     (g)  directions under paragraph (f) may be given by reference to a how-to-vote card.
 
           (1A)  A postal vote by an elector outside Australia that does not meet the requirements in subsection (1) concerning an authorised witness is, despite that subsection, taken to meet those requirements for the purposes of this Act if:
 
@@ -2168,15 +2166,15 @@ Definitions
 
              (2)  In spite of paragraph (1)(e), where:
 
-                     (a)  a ballot‑paper, if posted before the close of voting, would be unlikely to reach the appropriate DRO within 13 days after voting day; or
+                     (a)  a ballot-paper, if posted before the close of voting, would be unlikely to reach the appropriate DRO within 13 days after voting day; or
 
-                     (b)  a ballot‑paper, if it were to be delivered to the appropriate DRO, would be unlikely to reach the DRO before the close of voting;
+                     (b)  a ballot-paper, if it were to be delivered to the appropriate DRO, would be unlikely to reach the DRO before the close of voting;
 
-the envelope containing the ballot‑paper may:
+the envelope containing the ballot-paper may:
 
                      (c)  before the close of voting be addressed to, and posted or delivered to, any other DRO or to an Assistant Returning Officer at a place outside Australia; or
 
-                     (d)  be handed to a pre‑poll voting officer; or
+                     (d)  be handed to a pre-poll voting officer; or
 
                      (e)  be delivered, on voting day and before the close of voting, to a presiding officer (other than a mobile polling team leader who is deemed to be a presiding officer); or
 
@@ -2188,15 +2186,15 @@ the envelope containing the ballot‑paper may:
 
                              (ii)  a member of the staff of the Electoral Commission (not being the holder of a particular office referred to in subparagraph (i)) who is engaged under the _Public Service Act 1999_ as an ongoing APS employee within the meaning of that Act, or who is employed under paragraph 35(1)(b) of the _Commonwealth Electoral Act 1918_.
 
-             (3)  A person to whom an envelope containing a ballot‑paper is posted, delivered or handed under subsection (2) shall deal with the envelope and ballot‑paper according to section 67.
+             (3)  A person to whom an envelope containing a ballot-paper is posted, delivered or handed under subsection (2) shall deal with the envelope and ballot-paper according to section 67.
 
 ##### <a id="66"></a>66  Duty of authorised witnesses etc.
 
                    Except at the request of the elector, a person shall not:
 
-                     (a)  interfere with an elector in relation to the marking of a postal ballot‑paper; or
+                     (a)  interfere with an elector in relation to the marking of a postal ballot-paper; or
 
-                     (b)  do anything that would enable the person or any other person to find out how an elector marked a postal ballot‑paper.
+                     (b)  do anything that would enable the person or any other person to find out how an elector marked a postal ballot-paper.
 
                     Penalty:  $1,000.
 
@@ -2206,7 +2204,7 @@ the envelope containing the ballot‑paper may:
 
                     <a name="offic"></a>**_officer_** means:
 
-                     (a)  a pre‑poll voting officer; or
+                     (a)  a pre-poll voting officer; or
 
                      (b)  a presiding officer; or
 
@@ -2220,9 +2218,9 @@ the envelope containing the ballot‑paper may:
 
              (2)  Where:
 
-                     (a)  a DRO receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot‑paper issued in respect of a Division other than the Division for which the DRO is appointed; or
+                     (a)  a DRO receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot-paper issued in respect of a Division other than the Division for which the DRO is appointed; or
 
-                     (b)  an officer receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot‑paper;
+                     (b)  an officer receives an envelope bearing a postal vote certificate and purporting to contain a postal ballot-paper;
 
 the DRO or officer shall:
 
@@ -2278,10 +2276,10 @@ the DRO or officer shall:
     <div>2</div>
   </td>
   <td>
-    <div>a pre‑poll voting officer</div>
+    <div>a pre-poll voting officer</div>
   </td>
   <td>
-    <div>the words “Pre‑poll Voting Officer”.</div>
+    <div>the words “Pre-poll Voting Officer”.</div>
   </td>
 </tr>
 <tr>
@@ -2334,7 +2332,7 @@ the DRO or officer shall:
 
              (4)  If an envelope purporting to bear a postal vote is received as mentioned in subsection (2) by a DRO, or by an officer who is:
 
-                     (a)  a pre‑poll voting officer; or
+                     (a)  a pre-poll voting officer; or
 
                      (b)  a presiding officer; or
 
@@ -2342,39 +2340,39 @@ the DRO or officer shall:
 
 the DRO or officer must (after complying with the other requirements of subsection (2)):
 
-                     (d)  place the envelope in a ballot‑box; and
+                     (d)  place the envelope in a ballot-box; and
 
-                     (e)  keep the envelope in the ballot‑box until the envelope is dealt with in accordance with section 46A.
+                     (e)  keep the envelope in the ballot-box until the envelope is dealt with in accordance with section 46A.
 
              (5)  If an envelope purporting to bear a postal vote is received as mentioned in subsection (2) by an officer who is a mobile polling team leader, the officer must (after complying with the other requirements of subsection (2)):
 
-                     (a)  place the envelope in a ballot‑box; and
+                     (a)  place the envelope in a ballot-box; and
 
-                     (b)  keep the envelope in the ballot‑box until the ballot‑box is forwarded to the designated Assistant Returning Officer as required by subsection 51(10); and
+                     (b)  keep the envelope in the ballot-box until the ballot-box is forwarded to the designated Assistant Returning Officer as required by subsection 51(10); and
 
-                     (c)  when so forwarding the ballot‑box to the designated Assistant Returning Officer, also forward to that Assistant Returning Officer the record made by the mobile polling team leader under paragraph (2)(e).
+                     (c)  when so forwarding the ballot-box to the designated Assistant Returning Officer, also forward to that Assistant Returning Officer the record made by the mobile polling team leader under paragraph (2)(e).
 
              (6)  If an envelope purporting to bear a postal vote is received as mentioned in subsection (2) by an officer (other than an officer referred to in subsection (4) or (5)) who is at a capital city office of the Electoral Commission:
 
-                     (a)  the officer must (after complying with subsection (2)) place the envelope in a ballot‑box made available for the purpose by the DRO for the Division in which the capital city office is located; and
+                     (a)  the officer must (after complying with subsection (2)) place the envelope in a ballot-box made available for the purpose by the DRO for the Division in which the capital city office is located; and
 
-                     (b)  the ballot‑box containing the envelope must be forwarded to the DRO, or made available to be collected by the DRO, in accordance with instructions of the DRO; and
+                     (b)  the ballot-box containing the envelope must be forwarded to the DRO, or made available to be collected by the DRO, in accordance with instructions of the DRO; and
 
-                     (c)  until the ballot‑box is so forwarded or collected, the envelope must be kept in the ballot‑box; and
+                     (c)  until the ballot-box is so forwarded or collected, the envelope must be kept in the ballot-box; and
 
                      (d)  the record made by the officer under paragraph (2)(e) must be forwarded to the DRO, or made available to be collected by the DRO, in accordance with instructions of the DRO.
 
              (7)  Instructions referred to in paragraphs (6)(b) and (d) are not legislative instruments.
 
-##### <a id="68"></a>68  Opening of postal ballot‑paper
+##### <a id="68"></a>68  Opening of postal ballot-paper
 
              (1)  A person other than:
 
-                     (a)  the DRO for the Division in respect of which a postal ballot‑paper has been issued; or
+                     (a)  the DRO for the Division in respect of which a postal ballot-paper has been issued; or
 
                      (b)  an officer acting at the direction of the DRO;
 
-shall not open an envelope that purports to contain a postal ballot‑paper on which a vote has been recorded.
+shall not open an envelope that purports to contain a postal ballot-paper on which a vote has been recorded.
 
                     Penalty:  $500.
 
@@ -2388,15 +2386,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  an application for a postal vote; or
 
-                     (b)  an envelope apparently containing a postal ballot‑paper;
+                     (b)  an envelope apparently containing a postal ballot-paper;
 
 for posting or delivery to an officer shall post or deliver the application or envelope, as the case may be, as soon as practicable.
 
                     Penalty:  $1,000.
 
-##### <a id="70"></a>70  Inducing elector to hand over marked ballot‑paper
+##### <a id="70"></a>70  Inducing elector to hand over marked ballot-paper
 
-                   A person shall not induce an elector to hand over to the person a postal ballot‑paper on which a vote has been recorded.
+                   A person shall not induce an elector to hand over to the person a postal ballot-paper on which a vote has been recorded.
 
                     Penalty:  $1,000.
 
@@ -2410,61 +2408,61 @@ for posting or delivery to an officer shall post or deliver the application or e
 
 is satisfied that the application or certificate contains a formal error, the officer may amend the application or certificate to correct the error.
 
-## Part IVA—Pre‑poll voting
+## Part IVA—Pre-poll voting
 
 ### Division 1—Introduction
 
 ##### <a id="71A"></a>71A  Guide to this Part
 
-             (1)  This Part deals with pre‑poll votes.
+             (1)  This Part deals with pre-poll votes.
 
-             (2)  There are 2 different kinds of pre‑poll vote:
+             (2)  There are 2 different kinds of pre-poll vote:
 
-                     (a)  a **_pre‑poll ordinary vote_**, which is a vote made in accordance with Division 3; and
+                     (a)  a **_pre-poll ordinary vote_**, which is a vote made in accordance with Division 3; and
 
-                     (b)  a **_pre‑poll declaration vote_**, which is a vote made in accordance with Division 4.
+                     (b)  a **_pre-poll declaration vote_**, which is a vote made in accordance with Division 4.
 
-             (3)  General matters relevant to both kinds of pre‑poll vote are set out in Division 2.
+             (3)  General matters relevant to both kinds of pre-poll vote are set out in Division 2.
 
 ### Division 2—General matters
 
-##### <a id="72"></a>72  Grounds of application for pre‑poll vote
+##### <a id="72"></a>72  Grounds of application for pre-poll vote
 
-             (1)  An elector may apply for a pre‑poll vote on any of the grounds set out in Schedule 3.
+             (1)  An elector may apply for a pre-poll vote on any of the grounds set out in Schedule 3.
 
-             (2)  A person who is provisionally enrolled may apply for a pre‑poll vote.
+             (2)  A person who is provisionally enrolled may apply for a pre-poll vote.
 
-Note:          A person who is provisionally enrolled is not entitled to vote by pre‑poll ordinary vote: see paragraph 73CG(2)(f).
+Note:          A person who is provisionally enrolled is not entitled to vote by pre-poll ordinary vote: see paragraph 73CG(2)(f).
 
              (3)  In this Part (other than Division 3) and in Schedule 4:
 
-                     (a)  a reference to an elector includes a reference to a person who has applied for a pre‑poll vote under subsection (2); and
+                     (a)  a reference to an elector includes a reference to a person who has applied for a pre-poll vote under subsection (2); and
 
                      (b)  a reference to the Division in which an elector is enrolled includes a reference to the Division in which the person is provisionally enrolled.
 
-##### <a id="73"></a>73  Pre‑poll voting officers
+##### <a id="73"></a>73  Pre-poll voting officers
 
-             (1)  The Electoral Commission may appoint a person to be a pre‑poll voting officer for the purposes of this Act.
+             (1)  The Electoral Commission may appoint a person to be a pre-poll voting officer for the purposes of this Act.
 
-             (2)  A person who is a pre‑poll voting officer for the purposes of the _Commonwealth Electoral Act 1918_ is also a pre‑poll voting officer for the purposes of this Act.
+             (2)  A person who is a pre-poll voting officer for the purposes of the _Commonwealth Electoral Act 1918_ is also a pre-poll voting officer for the purposes of this Act.
 
-##### <a id="73AA"></a>73AA  Pre‑poll voting offices
+##### <a id="73AA"></a>73AA  Pre-poll voting offices
 
              (1)  The Electoral Commissioner may declare, in writing, for a referendum:
 
-                     (a)  a specified place to be a pre‑poll voting office; and
+                     (a)  a specified place to be a pre-poll voting office; and
 
-                     (b)  the day or days on which, and the hours during which, applications for pre‑poll votes may be made to a pre‑poll voting officer at that place.
+                     (b)  the day or days on which, and the hours during which, applications for pre-poll votes may be made to a pre-poll voting officer at that place.
 
-          (1A)  The Electoral Commissioner may, in a declaration under subsection (1) or in a separate written declaration under this subsection, specify that a particular pre‑poll voting office located in a Division is a place at which pre‑poll ordinary voting is available to voters enrolled for one or more specified other Divisions.
+          (1A)  The Electoral Commissioner may, in a declaration under subsection (1) or in a separate written declaration under this subsection, specify that a particular pre-poll voting office located in a Division is a place at which pre-poll ordinary voting is available to voters enrolled for one or more specified other Divisions.
 
-Note:          For voters enrolled for a particular Division, pre‑poll ordinary voting is also available at pre‑poll voting offices located in the Division or in the office of the DRO for the Division (see section 73CD).
+Note:          For voters enrolled for a particular Division, pre-poll ordinary voting is also available at pre-poll voting offices located in the Division or in the office of the DRO for the Division (see section 73CD).
 
              (2)  If the Electoral Commissioner makes a declaration under subsection (1), the Electoral Commissioner must:
 
-                     (a)  unless paragraph (b) applies, cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, before the first day (the **_first pre‑poll voting day_**) specified in the declaration under paragraph (1)(b); or
+                     (a)  unless paragraph (b) applies, cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, before the first day (the **_first pre-poll voting day_**) specified in the declaration under paragraph (1)(b); or
 
-                     (b)  if, because of exceptional circumstances, the declaration is made on the first pre‑poll voting day, or so close to the first pre‑poll voting day that the Electoral Commissioner is not able to cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, before that day:
+                     (b)  if, because of exceptional circumstances, the declaration is made on the first pre-poll voting day, or so close to the first pre-poll voting day that the Electoral Commissioner is not able to cause a copy of the declaration to be published, on the Electoral Commission’s website and in any other way the Electoral Commissioner considers appropriate, before that day:
 
                               (i)  comply with subsection (3); and
 
@@ -2476,9 +2474,9 @@ Note:          For voters enrolled for a particular Division, 
 
                      (b)  if the Electoral Commissioner considers it appropriate to do so, publish in a newspaper circulating in the Division in which the place specified in the declaration is located a notice stating:
 
-                              (i)  that the place has been declared to be a pre‑poll voting office; and
+                              (i)  that the place has been declared to be a pre-poll voting office; and
 
-                             (ii)  the day or days on which, and the hours during which, applications for pre‑poll votes may be made to a pre‑poll voting officer at that place.
+                             (ii)  the day or days on which, and the hours during which, applications for pre-poll votes may be made to a pre-poll voting officer at that place.
 
           (3A)  If the Electoral Commissioner makes a declaration under subsection (1A), he or she must cause a copy of the declaration to be published on the Electoral Commission’s website and in any other way he or she considers appropriate.
 
@@ -2490,17 +2488,17 @@ Note:          For voters enrolled for a particular Division, 
 
                     <a name="regist-polit-parti"></a>**_registered political party_** has the same meaning as in the _Commonwealth Electoral Act 1918_.
 
-##### <a id="73A"></a>73A  Application for pre‑poll vote
+##### <a id="73A"></a>73A  Application for pre-poll vote
 
-             (1)  An application for a pre‑poll vote may be made to:
+             (1)  An application for a pre-poll vote may be made to:
 
                      (a)  a Divisional Returning Officer;
 
-                     (b)  a pre‑poll voting officer; or
+                     (b)  a pre-poll voting officer; or
 
                      (c)  an Assistant Returning Officer at a place outside Australia.
 
-Note:          Pre‑poll voting at the office of an Assistant Returning Officer outside Australia must be by pre‑poll declaration vote. Voting by pre‑poll ordinary vote is not available at such offices (see section 73CD).
+Note:          Pre-poll voting at the office of an Assistant Returning Officer outside Australia must be by pre-poll declaration vote. Voting by pre-poll ordinary vote is not available at such offices (see section 73CD).
 
              (2)  The application must be made by the elector in person.
 
@@ -2514,9 +2512,9 @@ Note:          Pre‑poll voting at the office of an Assistant
 
              (1)  An application to a DRO shall be made at the office of the DRO during ordinary office hours or during the hours of voting on voting day.
 
-             (2)  An application to a pre‑poll voting officer must be made:
+             (2)  An application to a pre-poll voting officer must be made:
 
-                     (a)  at a pre‑poll voting office; and
+                     (a)  at a pre-poll voting office; and
 
                      (b)  on a day, and during the hours, specified in the declaration made under subsection 73AA(1) for making such applications at that office.
 
@@ -2526,7 +2524,7 @@ Note:          Pre‑poll voting at the office of an Assistant
 
                      (b)  during ordinary office hours or during such other hours as the Assistant Returning Officer fixes.
 
-Note:          Pre‑poll voting at the office of an Assistant Returning Officer outside Australia must be by pre‑poll declaration vote. Voting by pre‑poll ordinary vote is not available at such offices (see section 73CD).
+Note:          Pre-poll voting at the office of an Assistant Returning Officer outside Australia must be by pre-poll declaration vote. Voting by pre-poll ordinary vote is not available at such offices (see section 73CD).
 
              (4)  Subject to subsection (5), where the voting day for a referendum is the same as the polling day for a House of Representatives election in a Division, an application by an elector cannot be made before the day after the day on which nominations for the election are declared under subsection 176(2) of the _Commonwealth Electoral Act 1918_.
 
@@ -2542,29 +2540,29 @@ Note:          Pre‑poll voting at the office of an Assistant
 
                     (aa)  the specification of a place in accordance with subsection 200BA(1A) of the _Commonwealth Electoral Act 1918_ is to be regarded as having been made in relation to the place in accordance with subsection 73AA(1A) of this Act for the purposes of the referendum;
 
-                   (ab)  a determination made in relation to a place in accordance with subsection 200DD(2) of the _Commonwealth Electoral Act 1918_ is to be regarded as having been made in relation to the place in accordance with subsection 73CD(2) of this Act for the purposes of the referendum;
+                    (ab)  a determination made in relation to a place in accordance with subsection 200DD(2) of the _Commonwealth Electoral Act 1918_ is to be regarded as having been made in relation to the place in accordance with subsection 73CD(2) of this Act for the purposes of the referendum;
 
-                     (b)  an application for a pre‑poll vote in the election also has effect as an application for a pre‑poll vote in the referendum;
+                     (b)  an application for a pre-poll vote in the election also has effect as an application for a pre-poll vote in the referendum;
 
-                     (c)  a pre‑poll vote certificate for ordinary voting for the purposes of the election also has effect as a pre‑poll vote certificate for ordinary voting for the purposes of the referendum;
+                     (c)  a pre-poll vote certificate for ordinary voting for the purposes of the election also has effect as a pre-poll vote certificate for ordinary voting for the purposes of the referendum;
 
-                    (ca)  a pre‑poll vote certificate for declaration voting for the purposes of the election also has effect as a pre‑poll vote certificate for declaration voting for the purposes of the referendum;
+                    (ca)  a pre-poll vote certificate for declaration voting for the purposes of the election also has effect as a pre-poll vote certificate for declaration voting for the purposes of the referendum;
 
                      (d)  a reference in such an application or certificate to the election shall be regarded as including a reference to the referendum; and
 
-                     (e)  a ballot‑paper bearing the pre‑poll vote of an elector in the referendum may be enclosed in the same envelope as the ballot‑paper bearing the elector’s pre‑poll vote in the election.
+                     (e)  a ballot-paper bearing the pre-poll vote of an elector in the referendum may be enclosed in the same envelope as the ballot-paper bearing the elector’s pre-poll vote in the election.
 
 ##### <a id="73CA"></a>73CA  Appointment of scrutineers
 
-             (1)  The Governor‑General, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during voting at a referendum at each pre‑poll voting office for the referendum.
+             (1)  The Governor-General, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during voting at a referendum at each pre-poll voting office for the referendum.
 
-             (2)  The Governor of a State, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in that State.
+             (2)  The Governor of a State, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre-poll voting office for the referendum in that State.
 
-             (3)  The Chief Minister for the Australian Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Australian Capital Territory.
+             (3)  The Chief Minister for the Australian   Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre-poll voting office for the referendum in the Australian   Capital Territory.
 
-             (4)  The Administrator of the Northern Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Northern Territory.
+             (4)  The Administrator of the Northern   Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre-poll voting office for the referendum in the Northern   Territory.
 
-             (5)  The registered officer of a registered political party may appoint persons to act as scrutineers during voting at a referendum at pre‑poll voting offices for the referendum, but not more than one scrutineer for each party is allowed at each pre‑poll voting office at any one time.
+             (5)  The registered officer of a registered political party may appoint persons to act as scrutineers during voting at a referendum at pre-poll voting offices for the referendum, but not more than one scrutineer for each party is allowed at each pre-poll voting office at any one time.
 
              (6)  In this section:
 
@@ -2578,7 +2576,7 @@ Note:          Pre‑poll voting at the office of an Assistant
 
                      (a)  is a scrutineer appointed under section 73CA; and
 
-                     (b)  interferes with or attempts to influence any elector within a pre‑poll voting office.
+                     (b)  interferes with or attempts to influence any elector within a pre-poll voting office.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -2586,27 +2584,27 @@ Note:          Pre‑poll voting at the office of an Assistant
 
                      (a)  the person is a scrutineer appointed under section 73CA; and
 
-                     (b)  the person communicates with someone else in a pre‑poll voting office; and
+                     (b)  the person communicates with someone else in a pre-poll voting office; and
 
                      (c)  the communication is not reasonably necessary for the discharge of the person’s functions as a scrutineer.
 
                     Penalty:  Imprisonment for 6 months.
 
-             (3)  A scrutineer appointed under section 73CA must not be prevented from entering or leaving a pre‑poll voting office on a day, and during the hours, declared under paragraph 73AA(1)(b).
+             (3)  A scrutineer appointed under section 73CA must not be prevented from entering or leaving a pre-poll voting office on a day, and during the hours, declared under paragraph 73AA(1)(b).
 
-             (4)  A person who is in a pre‑poll voting office in the capacity of a scrutineer must wear a badge, supplied by the Electoral Commission, that identifies the person as a scrutineer.
+             (4)  A person who is in a pre-poll voting office in the capacity of a scrutineer must wear a badge, supplied by the Electoral Commission, that identifies the person as a scrutineer.
 
              (5)  A scrutineer appointed under section 73CA who:
 
                      (a)  commits any breach of this section; or
 
-                     (b)  is guilty of misconduct at a pre‑poll voting office; or
+                     (b)  is guilty of misconduct at a pre-poll voting office; or
 
-                     (c)  fails at a pre‑poll voting office to obey the lawful directions of a pre‑poll voting officer;
+                     (c)  fails at a pre-poll voting office to obey the lawful directions of a pre-poll voting officer;
 
 may be removed from the polling booth by a constable.
 
-### Division 3—Voting by pre‑poll ordinary vote
+### Division 3—Voting by pre-poll ordinary vote
 
 #### Subdivision A—Preliminary
 
@@ -2616,59 +2614,59 @@ may be removed from the polling booth by a constable.
 
                     <a name="issuing-offic"></a>**_issuing officer_**: see subsection 73CH(2).
 
-                    <a name="pre-poll-ordinari-ballot-box"></a>**_pre‑poll ordinary ballot‑box_**: see section 73CN.
+                    <a name="pre-poll-ordinari-ballot-box"></a>**_pre-poll ordinary ballot-box_**: see section 73CN.
 
                     <a name="voter"></a>**_voter_**: see subsection 73CG(1).
 
                     <a name="voter-division"></a>**_voter’s Division_**: see paragraph 73CG(1)(b).
 
-                    <a name="vote-offic"></a>**_voting officer_**, in relation to a place at which pre‑poll ordinary voting is available, means a DRO, or a pre‑poll voting officer, at the place.
+                    <a name="vote-offic"></a>**_voting officer_**, in relation to a place at which pre-poll ordinary voting is available, means a DRO, or a pre-poll voting officer, at the place.
 
                     <a name="vote-place"></a>**_voting place_**: see paragraph 73CG(1)(b).
 
-##### <a id="73CD"></a>73CD  Where is pre‑poll ordinary voting available?
+##### <a id="73CD"></a>73CD  Where is pre-poll ordinary voting available?
 
-             (1)  Subject to subsections (2) and (4), for voters enrolled for a particular Division, pre‑poll ordinary voting is available at the following places:
+             (1)  Subject to subsections (2) and (4), for voters enrolled for a particular Division, pre-poll ordinary voting is available at the following places:
 
-                     (a)  any pre‑poll voting office that is located within the Division;
+                     (a)  any pre-poll voting office that is located within the Division;
 
-                     (b)  any other pre‑poll voting office that is specified, as mentioned in subsection 73AA(1A), as a place at which pre‑poll ordinary voting is available to voters enrolled for the Division;
+                     (b)  any other pre-poll voting office that is specified, as mentioned in subsection 73AA(1A), as a place at which pre-poll ordinary voting is available to voters enrolled for the Division;
 
                      (c)  the office of the DRO for the Division.
 
-             (2)  The Electoral Commissioner may, in writing, determine that pre‑poll ordinary voting is not available at one or more specified places, either generally or as specified in the determination.
+             (2)  The Electoral Commissioner may, in writing, determine that pre-poll ordinary voting is not available at one or more specified places, either generally or as specified in the determination.
 
              (3)  A determination made under subsection (2) is not a legislative instrument.
 
-             (4)  For voters enrolled for a particular Division, pre‑poll ordinary voting is not available at a particular place referred to in subsection (1) unless a copy of the certified list of voters for the Division has been delivered to the place (see subsection 22(4)) or an approved list of voters for the Division is available to an officer at the place (see subsection 22A(2)).
+             (4)  For voters enrolled for a particular Division, pre-poll ordinary voting is not available at a particular place referred to in subsection (1) unless a copy of the certified list of voters for the Division has been delivered to the place (see subsection 22(4)) or an approved list of voters for the Division is available to an officer at the place (see subsection 22A(2)).
 
 ##### <a id="73CE"></a>73CE  Separate voting compartments
 
-                   Each place at which pre‑poll ordinary voting is available must have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot‑papers. There must be a pencil in each compartment for use by voters.
+                   Each place at which pre-poll ordinary voting is available must have separate voting compartments, constructed so as to screen the voters from observation while they are marking their ballot-papers. There must be a pencil in each compartment for use by voters.
 
-##### <a id="73CF"></a>73CF  Ballot‑boxes
+##### <a id="73CF"></a>73CF  Ballot-boxes
 
-             (1)  Each place at which pre‑poll ordinary voting is available must be provided with the necessary ballot‑boxes.
+             (1)  Each place at which pre-poll ordinary voting is available must be provided with the necessary ballot-boxes.
 
-             (2)  Each of those ballot‑boxes must be capable of being securely fastened.
+             (2)  Each of those ballot-boxes must be capable of being securely fastened.
 
-#### Subdivision B—Voting by pre‑poll ordinary vote
+#### Subdivision B—Voting by pre-poll ordinary vote
 
-##### <a id="73CG"></a>73CG  When is a person entitled to vote by pre‑poll ordinary vote?
+##### <a id="73CG"></a>73CG  When is a person entitled to vote by pre-poll ordinary vote?
 
-             (1)  Subject to subsection (2), a person (the **_voter_**) is entitled to vote by pre‑poll ordinary vote if:
+             (1)  Subject to subsection (2), a person (the **_voter_**) is entitled to vote by pre-poll ordinary vote if:
 
-                     (a)  the voter has, in accordance with Division 2, applied for a pre‑poll vote; and
+                     (a)  the voter has, in accordance with Division 2, applied for a pre-poll vote; and
 
                      (b)  the voter’s name is on a copy of the certified list of voters, or on an approved list of voters, for a particular Division (the **_voter’s_** **_Division_**) that has been delivered to, or is available to an officer at, the place (the **_voting place_**) at which the application is made; and
 
-                     (c)  the voting place is a place at which pre‑poll ordinary voting is available to voters enrolled for the voter’s Division.
+                     (c)  the voting place is a place at which pre-poll ordinary voting is available to voters enrolled for the voter’s Division.
 
-Note:          If the voter is not entitled to vote by pre‑poll ordinary vote, the voter may instead be able to vote by pre‑poll declaration vote under Division 4.
+Note:          If the voter is not entitled to vote by pre-poll ordinary vote, the voter may instead be able to vote by pre-poll declaration vote under Division 4.
 
-             (2)  The voter is not entitled to vote by pre‑poll ordinary vote if:
+             (2)  The voter is not entitled to vote by pre-poll ordinary vote if:
 
-                     (a)  the voter does not comply with the requirements of section 73CH relating to the pre‑poll certificate for ordinary voting; or
+                     (a)  the voter does not comply with the requirements of section 73CH relating to the pre-poll certificate for ordinary voting; or
 
                      (b)  the voter:
 
@@ -2688,13 +2686,13 @@ Note:          If the voter is not entitled to vote by pre‑p
 
                       (f)  the voter is provisionally enrolled.
 
-##### <a id="73CH"></a>73CH  Voter to complete and sign pre‑poll vote certificate for ordinary voting
+##### <a id="73CH"></a>73CH  Voter to complete and sign pre-poll vote certificate for ordinary voting
 
-             (1)  If, under subsection 73CG(1) (but disregarding subsection 73CG(2)), the voter is entitled to vote by pre‑poll ordinary vote, a voting officer must give the voter a pre‑poll vote certificate for ordinary voting.
+             (1)  If, under subsection 73CG(1) (but disregarding subsection 73CG(2)), the voter is entitled to vote by pre-poll ordinary vote, a voting officer must give the voter a pre-poll vote certificate for ordinary voting.
 
              (2)  The voter must complete and sign the certificate and give it to a voting officer (the **_issuing officer_**).
 
-             (3)  A pre‑poll vote certificate for ordinary voting must be in the approved form.
+             (3)  A pre-poll vote certificate for ordinary voting must be in the approved form.
 
 ##### <a id="73CI"></a>73CI  Questions to be put to voter
 
@@ -2714,11 +2712,11 @@ If election is held on same day
 
              (4)  If the issuing officer accepts, pursuant to subsection (3), the answers by the voter to the questions referred to in that subsection as sufficient to enable the person to vote at a referendum, the officer may, if he or she thinks fit, put to the voter the following question, namely, Have you already voted, either here or elsewhere, at this referendum (or these referendums, as the case requires)?
 
-##### <a id="73CJ"></a>73CJ  Right of voter to receive ballot‑paper
+##### <a id="73CJ"></a>73CJ  Right of voter to receive ballot-paper
 
-             (1)  If, under section 73CG, the voter is entitled to vote by pre‑poll ordinary vote, the issuing officer must give the voter a ballot‑paper, duly initialled by the officer.
+             (1)  If, under section 73CG, the voter is entitled to vote by pre-poll ordinary vote, the issuing officer must give the voter a ballot-paper, duly initialled by the officer.
 
-             (2)  The issuing officer, at the request of a scrutineer, must note any objection by the scrutineer to the right of the voter to vote by pre‑poll ordinary vote, and must keep that record.
+             (2)  The issuing officer, at the request of a scrutineer, must note any objection by the scrutineer to the right of the voter to vote by pre-poll ordinary vote, and must keep that record.
 
              (3)  Immediately after giving the ballot paper to the voter, the issuing officer must:
 
@@ -2726,13 +2724,13 @@ If election is held on same day
 
                      (b)  record electronically against an approved list of voters for the voter’s Division the fact that the voter has been given a ballot paper.
 
-##### <a id="73CK"></a>73CK  Voter to mark vote on ballot‑paper
+##### <a id="73CK"></a>73CK  Voter to mark vote on ballot-paper
 
-                   Except as otherwise prescribed by the regulations, the voter, upon receipt of a ballot‑paper under section 73CJ, must without delay:
+                   Except as otherwise prescribed by the regulations, the voter, upon receipt of a ballot-paper under section 73CJ, must without delay:
 
-                     (a)  go to an unoccupied compartment of the voting place and mark his or her ballot‑paper in private; and
+                     (a)  go to an unoccupied compartment of the voting place and mark his or her ballot-paper in private; and
 
-                     (b)  fold the ballot‑paper so as to conceal his or her vote and deposit it in a ballot‑box; and
+                     (b)  fold the ballot-paper so as to conceal his or her vote and deposit it in a ballot-box; and
 
                      (c)  leave the voting place.
 
@@ -2740,107 +2738,107 @@ If election is held on same day
 
              (1)  If the voter satisfies a voting officer that the voter cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the voter may, according to the directions of the voter, do any of the following acts:
 
-                     (a)  complete (but not sign) the pre‑poll vote certificate for ordinary voting;
+                     (a)  complete (but not sign) the pre-poll vote certificate for ordinary voting;
 
                      (b)  read the certificate to the voter;
 
                      (c)  give the completed certificate to a voting officer;
 
-                     (d)  enter an unoccupied compartment of the voting place with the voter and mark the voter’s vote on the ballot‑paper;
+                     (d)  enter an unoccupied compartment of the voting place with the voter and mark the voter’s vote on the ballot-paper;
 
-                     (e)  fold the ballot‑paper and deposit it in a ballot‑box.
+                     (e)  fold the ballot-paper and deposit it in a ballot-box.
 
-Note:          Subject to section 127, the pre‑poll vote certificate for ordinary voting must still be signed by the voter.
+Note:          Subject to section 127, the pre-poll vote certificate for ordinary voting must still be signed by the voter.
 
-             (2)  Directions under subsection (1) may be given by reference to a how‑to‑vote card.
+             (2)  Directions under subsection (1) may be given by reference to a how-to-vote card.
 
              (3)  The other provisions of this Division have effect subject to this section.
 
 ##### <a id="73CM"></a>73CM  Voter not entitled to vote again etc.
 
-                   After the voter has, under sections 73CH and 73CJ, been given a pre‑poll vote certificate for ordinary voting and a ballot‑paper:
+                   After the voter has, under sections 73CH and 73CJ, been given a pre-poll vote certificate for ordinary voting and a ballot-paper:
 
-                     (a)  the voter is not entitled to remove the certificate or the ballot‑paper from the voting place; and
+                     (a)  the voter is not entitled to remove the certificate or the ballot-paper from the voting place; and
 
                      (b)  the voter is not entitled to vote again in the same referendum.
 
-#### Subdivision C—Requirements relating to ballot‑boxes
+#### Subdivision C—Requirements relating to ballot-boxes
 
 ##### <a id="73CN"></a>73CN  Subdivision sets out requirements to be complied with
 
-                   This Subdivision sets out requirements to be complied with in relation to each ballot‑box (a **_pre‑poll ordinary ballot‑box_**) that is used for pre‑poll ordinary voting at a particular place.
+                   This Subdivision sets out requirements to be complied with in relation to each ballot-box (a **_pre-poll ordinary ballot-box_**) that is used for pre-poll ordinary voting at a particular place.
 
-##### <a id="73CO"></a>73CO  Requirements to be complied with before first use of ballot‑box
+##### <a id="73CO"></a>73CO  Requirements to be complied with before first use of ballot-box
 
-                   Before a ballot‑box is first used for pre‑poll ordinary voting at the place, a voting officer, in the presence of any scrutineers, must exhibit the ballot‑box empty at the place, and then securely fasten its cover.
+                   Before a ballot-box is first used for pre-poll ordinary voting at the place, a voting officer, in the presence of any scrutineers, must exhibit the ballot-box empty at the place, and then securely fasten its cover.
 
-##### <a id="73CP"></a>73CP  Requirements to be complied with at end of each day of use of ballot‑box
+##### <a id="73CP"></a>73CP  Requirements to be complied with at end of each day of use of ballot-box
 
-             (1)  At the end of each day when pre‑poll ordinary voting is available at the place, and in the presence of any scrutineers, each pre‑poll ordinary ballot‑box used on that day must be closed, fastened and sealed by a voting officer.
+             (1)  At the end of each day when pre-poll ordinary voting is available at the place, and in the presence of any scrutineers, each pre-poll ordinary ballot-box used on that day must be closed, fastened and sealed by a voting officer.
 
-             (2)  After a pre‑poll ordinary ballot‑box has been sealed, it must on no account be opened except as allowed by this Act.
+             (2)  After a pre-poll ordinary ballot-box has been sealed, it must on no account be opened except as allowed by this Act.
 
-##### <a id="73CQ"></a>73CQ  Requirements to be complied with before ballot‑box used again on later day
+##### <a id="73CQ"></a>73CQ  Requirements to be complied with before ballot-box used again on later day
 
                    If:
 
-                     (a)  a pre‑poll ordinary ballot‑box has been sealed after use at the place on a day; and
+                     (a)  a pre-poll ordinary ballot-box has been sealed after use at the place on a day; and
 
-                     (b)  the ballot‑box is to be used again on a later day for pre‑poll ordinary voting at the place;
+                     (b)  the ballot-box is to be used again on a later day for pre-poll ordinary voting at the place;
 
-before the ballot‑box is so used again, a voting officer, in the presence of any scrutineers, must examine the ballot‑box, and make it ready to receive ballot‑papers.
+before the ballot-box is so used again, a voting officer, in the presence of any scrutineers, must examine the ballot-box, and make it ready to receive ballot-papers.
 
-##### <a id="73CR"></a>73CR  Forwarding of ballot‑boxes for purposes of scrutiny
+##### <a id="73CR"></a>73CR  Forwarding of ballot-boxes for purposes of scrutiny
 
-             (1)  Subject to any directions under subsection (2), at the close of the poll, a voting officer must, with the least possible delay, forward each sealed pre‑poll ordinary ballot‑box for the purposes of scrutiny.
+             (1)  Subject to any directions under subsection (2), at the close of the poll, a voting officer must, with the least possible delay, forward each sealed pre-poll ordinary ballot-box for the purposes of scrutiny.
 
-             (2)  The DRO for the Division in which the place is located may direct that one or more sealed pre‑poll ordinary ballot‑boxes at the place are to be forwarded, for the purposes of scrutiny, before the close of the poll.
+             (2)  The DRO for the Division in which the place is located may direct that one or more sealed pre-poll ordinary ballot-boxes at the place are to be forwarded, for the purposes of scrutiny, before the close of the poll.
 
              (3)  If a direction made under subsection (2) is in writing, the direction is not a legislative instrument.
 
-### Division 4—Voting by pre‑poll declaration vote
+### Division 4—Voting by pre-poll declaration vote
 
-##### <a id="73CS"></a>73CS  Persons to whom this Division applies
+##### <a id="73CS"></a>73CS  Persons to whom this Division applies
 
-                   This Division applies to a person who has, in accordance with Division 2, applied for a pre‑poll vote but who is not, under Division 3, entitled to vote by pre‑poll ordinary vote.
+                   This Division applies to a person who has, in accordance with Division 2, applied for a pre-poll vote but who is not, under Division 3, entitled to vote by pre-poll ordinary vote.
 
-##### <a id="73D"></a>73D  Pre‑poll declaration voting
+##### <a id="73D"></a>73D  Pre-poll declaration voting
 
-             (1)  If this Division applies to a person (the **_elector_**) who has applied for a pre‑poll vote, the officer to whom the application was made (in this section called **_the issuing officer_**) shall issue to the elector a pre‑poll vote certificate for declaration voting and a ballot‑paper.
+             (1)  If this Division applies to a person (the **_elector_**) who has applied for a pre-poll vote, the officer to whom the application was made (in this section called **_the issuing officer_**) shall issue to the elector a pre-poll vote certificate for declaration voting and a ballot-paper.
 
-             (2)  Before issuing the ballot‑paper, the officer shall initial the top of the front of the paper.
+             (2)  Before issuing the ballot-paper, the officer shall initial the top of the front of the paper.
 
-             (3)  The elector shall sign the pre‑poll vote certificate in the presence of the issuing officer.
+             (3)  The elector shall sign the pre-poll vote certificate in the presence of the issuing officer.
 
-             (4)  The issuing officer shall then sign the pre‑poll vote certificate as witness, adding the date.
+             (4)  The issuing officer shall then sign the pre-poll vote certificate as witness, adding the date.
 
-             (5)  The elector shall then, in the presence of the issuing officer but so that the officer cannot see the vote, mark his or her vote on the ballot‑paper, fold the ballot‑paper and return it to the issuing officer.
+             (5)  The elector shall then, in the presence of the issuing officer but so that the officer cannot see the vote, mark his or her vote on the ballot-paper, fold the ballot-paper and return it to the issuing officer.
 
-             (6)  The issuing officer shall immediately place the ballot‑paper in the envelope bearing the pre‑poll vote certificate, fasten the envelope and, until the envelope is dealt with under section 46A, keep the envelope in a ballot‑box.
+             (6)  The issuing officer shall immediately place the ballot-paper in the envelope bearing the pre-poll vote certificate, fasten the envelope and, until the envelope is dealt with under section 46A, keep the envelope in a ballot-box.
 
              (7)  If the elector satisfies the officer that the elector cannot read or is so disabled as to be unable to vote without assistance, a person chosen by the elector may, according to the directions of the elector, do any of the following acts:
 
-                     (a)  fill in the pre‑poll vote certificate with the required particulars;
+                     (a)  fill in the pre-poll vote certificate with the required particulars;
 
                      (b)  read the certificate to the voter;
 
                      (c)  complete the certificate;
 
-                     (d)  mark the elector’s vote on the ballot‑paper;
+                     (d)  mark the elector’s vote on the ballot-paper;
 
-                     (e)  fold the ballot‑paper and return it to the officer.
+                     (e)  fold the ballot-paper and return it to the officer.
 
-             (8)  Directions under subsection (7) may be given by reference to a how‑to‑vote card.
+             (8)  Directions under subsection (7) may be given by reference to a how-to-vote card.
 
-             (9)  An elector to whom a pre‑poll vote certificate for declaration voting and ballot‑paper have been issued is not entitled:
+             (9)  An elector to whom a pre-poll vote certificate for declaration voting and ballot-paper have been issued is not entitled:
 
                      (a)  to vote at a polling booth; or
 
-                     (b)  to remove the certificate or ballot‑paper from the office of the officer who issued it.
+                     (b)  to remove the certificate or ballot-paper from the office of the officer who issued it.
 
-##### <a id="73E"></a>73E  Form of pre‑poll vote certificate for declaration voting
+##### <a id="73E"></a>73E  Form of pre-poll vote certificate for declaration voting
 
-                   A pre‑poll vote certificate for declaration voting shall:
+                   A pre-poll vote certificate for declaration voting shall:
 
                      (a)  be in the approved form;
 
@@ -2848,35 +2846,35 @@ before the ballot‑box is so used again, a voting officer, in the presence of a
 
                      (c)  be printed on an envelope addressed to the DRO for the Division for which the elector declares that he or she is enrolled.
 
-##### <a id="73F"></a>73F  Record of issue of pre‑poll voting papers
+##### <a id="73F"></a>73F  Record of issue of pre-poll voting papers
 
-             (1)  Where, under subsection 73D(1), the DRO for a Division issues a pre‑poll vote certificate for declaration voting and ballot‑paper to a person enrolled for the Division, the DRO shall make a record of the date of issue of the certificate and ballot‑paper and the name of the person and shall allocate a number to the record.
+             (1)  Where, under subsection 73D(1), the DRO for a Division issues a pre-poll vote certificate for declaration voting and ballot-paper to a person enrolled for the Division, the DRO shall make a record of the date of issue of the certificate and ballot-paper and the name of the person and shall allocate a number to the record.
 
              (2)  Where, under subsection 73D(1):
 
                      (a)  any other DRO;
 
-                     (b)  a pre‑poll voting officer; or
+                     (b)  a pre-poll voting officer; or
 
                      (c)  an Assistant Returning Officer at a place outside Australia;
 
-issues a pre‑poll vote certificate for declaration voting and ballot‑paper, he or she shall:
+issues a pre-poll vote certificate for declaration voting and ballot-paper, he or she shall:
 
-                     (d)  make a record of the date of issue of the certificate and ballot‑paper, the name of the person to whom the certificate and ballot‑paper were issued and the name of the Division for which the person is enrolled and shall allocate a number to the record; and
+                     (d)  make a record of the date of issue of the certificate and ballot-paper, the name of the person to whom the certificate and ballot-paper were issued and the name of the Division for which the person is enrolled and shall allocate a number to the record; and
 
-                     (e)  deal with the record of the issue of the certificate and ballot‑paper in accordance with section 46A.
+                     (e)  deal with the record of the issue of the certificate and ballot-paper in accordance with section 46A.
 
              (3)  Records made by a DRO under subsection (1) and records forwarded to the DRO under section 46A shall be open to public inspection at the office of the DRO during ordinary office hours from and including the third day after voting day until the referendum can no longer be questioned.
 
-##### <a id="73H"></a>73H  Opening of pre‑poll voting envelope
+##### <a id="73H"></a>73H  Opening of pre-poll voting envelope
 
              (1)  A person other than:
 
-                     (a)  the DRO for the Division in respect of which a pre‑poll vote ballot‑paper has been issued under subsection 73D(1); or
+                     (a)  the DRO for the Division in respect of which a pre-poll vote ballot-paper has been issued under subsection 73D(1); or
 
                      (b)  an officer acting at the direction of the DRO;
 
-shall not open an envelope purporting to contain a ballot‑paper given to an officer under subsection 73D(5) or (7).
+shall not open an envelope purporting to contain a ballot-paper given to an officer under subsection 73D(5) or (7).
 
                     Penalty:  $500.
 
@@ -2884,9 +2882,9 @@ shall not open an envelope purporting to contain a ballot‑paper given to an of
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="73J"></a>73J  Obligations of persons present when pre‑poll vote cast
+##### <a id="73J"></a>73J  Obligations of persons present when pre-poll vote cast
 
-                   A person who is present when, under section 73D, an elector signs a pre‑poll vote certificate for declaration voting or marks a ballot‑paper in the presence of an officer:
+                   A person who is present when, under section 73D, an elector signs a pre-poll vote certificate for declaration voting or marks a ballot-paper in the presence of an officer:
 
                      (a)  shall obey all directions of the officer; and
 
@@ -2896,27 +2894,27 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  shall not assist the elector or in any way interfere with the elector in relation to the elector’s vote; and
 
-                            (iii)  shall not do anything that would enable the person to find out how the elector marked the ballot‑paper.
+                            (iii)  shall not do anything that would enable the person to find out how the elector marked the ballot-paper.
 
                     Penalty:  $1,000.
 
 ##### <a id="73K"></a>73K  Correction of formal errors
 
-                   If an officer who receives a pre‑poll vote certificate for declaration voting under subsection 73D(5) is satisfied that the certificate has a formal error, the officer may amend the certificate to rectify the defect or correct the error.
+                   If an officer who receives a pre-poll vote certificate for declaration voting under subsection 73D(5) is satisfied that the certificate has a formal error, the officer may amend the certificate to rectify the defect or correct the error.
 
-## Part IVB—Electronically assisted voting for sight‑impaired people
+## Part IVB—Electronically assisted voting for sight-impaired people
 
 ##### <a id="73L"></a>73L  Definitions
 
                    In this Part:
 
-                    <a name="sight-impaired-person"></a>**_sight‑impaired person_** means a person whose sight is impaired to the extent  that he or she is unable to vote without assistance.
+                    <a name="sight-impaired-person"></a>**_sight-impaired person_** means a person whose sight is impaired to the extent  that he or she is unable to vote without assistance.
 
                     <a name="vote-record"></a>**_vote record_** has the meaning given by section 73P.
 
 ##### <a id="73M"></a>73M  Regulations may provide for voting by an electronically assisted voting method
 
-             (1)  The regulations may provide for sight‑impaired people to vote by an electronically assisted voting method at referendums.
+             (1)  The regulations may provide for sight-impaired people to vote by an electronically assisted voting method at referendums.
 
              (3)  Without limiting the generality of subsection (1), the regulations may:
 
@@ -2938,9 +2936,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (4)  The electronically assisted voting method must be such that a person using the method at a referendum:
 
-                     (a)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot‑paper for the referendum that the person would be given if he or she were instead voting under Part III; and
+                     (a)  receives the same information (in the same order), and has the same voting options, as would appear in the ballot-paper for the referendum that the person would be given if he or she were instead voting under Part III; and
 
-                     (b)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot‑paper, would satisfy the requirements of section 24.
+                     (b)  is able to indicate his or her vote in a way that, if he or she were instead marking a ballot-paper, would satisfy the requirements of section 24.
 
              (5)  The regulations may provide for offences in relation to the electronically assisted voting method, and may prescribe penalties for those offences. A prescribed penalty must not exceed 50 penalty units.
 
@@ -2956,11 +2954,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="73Q"></a>73Q  How this Act applies in relation to voting using the electronically assisted voting method
 
-             (1)  This Act (other than Part IVA and Schedule 3) applies in relation to a vote cast using the electronically assisted voting method as if the vote were a pre‑poll ordinary vote.
+             (1)  This Act (other than Part IVA and Schedule 3) applies in relation to a vote cast using the electronically assisted voting method as if the vote were a pre-poll ordinary vote.
 
-             (2)  For the purposes of this Act as it applies because of subsection (1), a vote record is to be treated as if it were a ballot‑paper.
+             (2)  For the purposes of this Act as it applies because of subsection (1), a vote record is to be treated as if it were a ballot-paper.
 
-             (3)  If a person casts a vote using the electronically assisted voting method, the requirements of this Act relating to the person’s right to receive a ballot‑paper are taken to have been satisfied.
+             (3)  If a person casts a vote using the electronically assisted voting method, the requirements of this Act relating to the person’s right to receive a ballot-paper are taken to have been satisfied.
 
              (4)  The regulations may make additional provisions relating to how this Act applies in relation to votes cast using the electronically assisted voting method.
 
@@ -2984,7 +2982,7 @@ a determination under subsection (1) of this section is taken to be in force i
 
 ##### <a id="74"></a>74  Interpretation
 
-             (1)  In this Part, **_transmit_** includes transmit by radio‑telephone or telex.
+             (1)  In this Part, **_transmit_** includes transmit by radio-telephone or telex.
 
              (2)  An elector is entitled to vote at a referendum in accordance with this Part if he or she has, before the expiration of 11 days after the issue of the writ for the referendum or, where the voting day for the referendum is the same as that fixed for the polling at an election and the day fixed for the nomination for the election is later than 11 days after the issue of the writ for the election, the day fixed for the nomination for the election, given to the Electoral Commissioner a notice under subsection 249(1) of the _Commonwealth Electoral Act 1918_.
 
@@ -3002,15 +3000,15 @@ a determination under subsection (1) of this section is taken to be in force i
 
              (1)  If there is an Antarctic elector on the Roll for a State, the Australian Electoral Officer for the State shall, before the voting day for a referendum, cause to be transmitted to the Antarctic Returning Officer at whose station the elector is based:
 
-                     (a)  directions for the preparation by the Antarctic Returning Officer of ballot‑papers for use in the referendum; and
+                     (a)  directions for the preparation by the Antarctic Returning Officer of ballot-papers for use in the referendum; and
 
                      (b)  the name of the elector and the particulars relating to the elector that are entered on the Roll for the State.
 
              (2)  Where information is transmitted by an Australian Electoral Officer to an Antarctic Returning Officer pursuant to this section, both the Australian Electoral Officer and the Antarctic Returning Officer shall, immediately after the transmission, cause a statement in writing of the information transmitted to be prepared.
 
-             (3)  Section 25 applies in relation to ballot‑papers prepared under this section.
+             (3)  Section 25 applies in relation to ballot-papers prepared under this section.
 
-##### <a id="77"></a>77  Ballot‑papers to be initialled
+##### <a id="77"></a>77  Ballot-papers to be initialled
 
                    Section 26 applies to the voting at a referendum at a station in Antarctica as if references in that section to the presiding officer were references to the Antarctic Returning Officer for that station.
 
@@ -3018,13 +3016,13 @@ a determination under subsection (1) of this section is taken to be in force i
 
              (1)  The voting at a referendum at a station in Antarctica shall be conducted as follows:
 
-                     (a)  before any vote is taken, the Antarctic Returning Officer for the station shall exhibit the ballot‑box empty, and shall then securely fasten its cover;
+                     (a)  before any vote is taken, the Antarctic Returning Officer for the station shall exhibit the ballot-box empty, and shall then securely fasten its cover;
 
                      (b)  subject to subsection (2), the voting shall be conducted during such hours on such days as the Antarctic Returning Officer directs;
 
                      (c)  the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall, at all times when voting is being conducted, be present in that part of the station at which the voting is taking place.
 
-             (2)  The voting at a referendum at a station shall not continue beyond 6 o’clock in the afternoon by standard time in the Australian Capital Territory on the voting day for the referendum.
+             (2)  The voting at a referendum at a station shall not continue beyond 6 o’clock in the afternoon by standard time in the Australian   Capital Territory on the voting day for the referendum.
 
 ##### <a id="79"></a>79  Entitlement of Antarctic electors to vote at referendum
 
@@ -3036,13 +3034,13 @@ a determination under subsection (1) of this section is taken to be in force i
 
              (2)  If a person claiming to vote refuses to answer fully a question put to him or her under this section, the person’s claim to vote at the station shall be rejected.
 
-##### <a id="81"></a>81  Right of Antarctic elector to receive ballot‑paper
+##### <a id="81"></a>81  Right of Antarctic elector to receive ballot-paper
 
-                   The Antarctic Returning Officer or the Assistant Antarctic Returning Officer for a station shall give to each person claiming to vote at a referendum at the station a ballot‑paper for the State for which the person is enrolled, duly initialled by the Antarctic Returning Officer, if the name under which the person claims to vote has been transmitted to the Antarctic Returning Officer pursuant to paragraph 76(1)(b) and the person’s claim to vote is not rejected.
+                   The Antarctic Returning Officer or the Assistant Antarctic Returning Officer for a station shall give to each person claiming to vote at a referendum at the station a ballot-paper for the State for which the person is enrolled, duly initialled by the Antarctic Returning Officer, if the name under which the person claims to vote has been transmitted to the Antarctic Returning Officer pursuant to paragraph 76(1)(b) and the person’s claim to vote is not rejected.
 
 ##### <a id="82"></a>82  List of Antarctic electors to be marked
 
-                   Immediately upon giving a ballot‑paper to the person claiming to vote at a referendum, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the Officer under subsection 76(2) the fact that the ballot‑paper has been given to that person.
+                   Immediately upon giving a ballot-paper to the person claiming to vote at a referendum, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the Officer under subsection 76(2) the fact that the ballot-paper has been given to that person.
 
 ##### <a id="83"></a>83  Application of sections 35 and 36
 
@@ -3056,13 +3054,13 @@ a determination under subsection (1) of this section is taken to be in force i
 
                    At the close of the voting at a referendum, the Antarctic Returning Officer shall, in the presence of the Assistant Antarctic Returning Officer:
 
-                     (a)  open the ballot‑box;
+                     (a)  open the ballot-box;
 
                      (b)  transmit to the Australian Electoral Officer designated by the Electoral Commissioner, for the purpose of this paragraph:
 
                               (i)  particulars of each such elector who has so voted;
 
-                             (ii)  unless subparagraph (iii) applies—particulars of the marking of each ballot‑paper; and
+                             (ii)  unless subparagraph (iii) applies—particulars of the marking of each ballot-paper; and
 
                             (iii)  if the Antarctic Returning Officer is unable clearly to read or understand the particulars referred to in subparagraph (ii)—a statement to that effect together with such information relating to those particulars as the Antarctic Returning Officer thinks sufficient to explain that inability; and
 
@@ -3072,17 +3070,17 @@ a determination under subsection (1) of this section is taken to be in force i
 
              (1)  Upon receipt of the particulars referred to in subparagraph 84(b)(ii), an Australian Electoral Officer shall forthwith:
 
-                     (a)  initial the top of the front of a ballot‑paper appropriate for the State for which the vote was cast;
+                     (a)  initial the top of the front of a ballot-paper appropriate for the State for which the vote was cast;
 
-                     (b)  cause those particulars to be transcribed onto the ballot‑paper;
+                     (b)  cause those particulars to be transcribed onto the ballot-paper;
 
-                     (c)  seal the ballot‑paper in an envelope;
+                     (c)  seal the ballot-paper in an envelope;
 
                      (d)  sign the envelope; and
 
-                     (e)  cause to be sent to the Divisional Returning Officer for the Division to which the elector is enrolled the envelope containing the ballot‑paper.
+                     (e)  cause to be sent to the Divisional Returning Officer for the Division to which the elector is enrolled the envelope containing the ballot-paper.
 
-             (2)  An officer shall not mark a ballot‑paper under this section in a manner that is likely to enable the ballot‑paper to be identified as representing the vote of an Antarctic elector.
+             (2)  An officer shall not mark a ballot-paper under this section in a manner that is likely to enable the ballot-paper to be identified as representing the vote of an Antarctic elector.
 
              (3)  Upon receipt of information under subsection (1), an Australian Electoral Officer shall, forthwith:
 
@@ -3100,9 +3098,9 @@ a determination under subsection (1) of this section is taken to be in force i
 
                              (ii)  the transmission of any information to or from Antarctica.
 
-##### <a id="86"></a>86  Preservation of ballot‑papers etc.
+##### <a id="86"></a>86  Preservation of ballot-papers etc.
 
-             (1)  As soon as practicable after the close of the voting at a referendum, the Antarctic Returning Officer for each station shall forward to the Electoral Commission a copy of the statements prepared by the Officer under subsection 76(2) and paragraph 84(c) and the ballot‑papers used for voting at the station.
+             (1)  As soon as practicable after the close of the voting at a referendum, the Antarctic Returning Officer for each station shall forward to the Electoral Commission a copy of the statements prepared by the Officer under subsection 76(2) and paragraph 84(c) and the ballot-papers used for voting at the station.
 
              (2)  The documents to which this subsection applies that are used at or in connection with a referendum shall be preserved in accordance with directions of the Commission for the purposes of this subsection until:
 
@@ -3116,9 +3114,9 @@ whichever last occurs.
 
                      (a)  the statements referred to in subsection 76(2), paragraph 84(c) and paragraph 85(3)(a);
 
-                     (b)  the ballot‑papers referred to in paragraph 85(1)(b); and
+                     (b)  the ballot-papers referred to in paragraph 85(1)(b); and
 
-                     (c)  the ballot‑papers prepared by an Antarctic Returning Officer and used for voting in Antarctica.
+                     (c)  the ballot-papers prepared by an Antarctic Returning Officer and used for voting in Antarctica.
 
 ##### <a id="87"></a>87  Application of Part
 
@@ -3130,9 +3128,9 @@ whichever last occurs.
 
                      (a)  any statement in writing relating to the referendum that is required to be prepared under this Part may be recorded on the piece of paper on which is recorded the corresponding statement under Part XVII of the _Commonwealth Electoral Act 1918_;
 
-                     (b)  the same ballot‑boxes may be used for voting in Antarctica for the purposes of both the election and the referendum; and
+                     (b)  the same ballot-boxes may be used for voting in Antarctica for the purposes of both the election and the referendum; and
 
-                     (c)  the same envelope may be used for the purposes of sending ballot‑papers used for both the referendum and the election to a Divisional Returning Officer.
+                     (c)  the same envelope may be used for the purposes of sending ballot-papers used for both the referendum and the election to a Divisional Returning Officer.
 
 ## Part VI—Scrutiny of a referendum
 
@@ -3140,19 +3138,19 @@ whichever last occurs.
 
              (1)  The result of a referendum shall be ascertained by scrutiny.
 
-             (2)  The Governor‑General, or a person authorized by the Governor‑General to act under this subsection, may appoint one person to act as a scrutineer during the scrutiny at each counting centre.
+             (2)  The Governor-General, or a person authorized by the Governor-General to act under this subsection, may appoint one person to act as a scrutineer during the scrutiny at each counting centre.
 
              (3)  The Governor of a State, or a person authorized by the Governor to act under this subsection, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in that State.
 
-          (3A)  The Chief Minister for the Australian Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Territory.
+          (3A)  The Chief Minister for the Australian   Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Territory.
 
-             (4)  The Administrator of the Northern Territory, or a person authorized by the Administrator to act under this section, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Northern Territory.
+             (4)  The Administrator of the Northern   Territory, or a person authorized by the Administrator to act under this section, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Northern Territory.
 
           (4A)  The registered officer of a registered political party may appoint persons to act as scrutineers during the scrutiny at each counting centre, but the number of scrutineers for each party shall not exceed the number of officers who are engaged in the scrutiny at each counting centre.
 
              (5)  In this section:
 
-                    <a name="count-centr"></a>**_counting centre_** means any premises at which a scrutiny or counting of ballot‑papers for a referendum is to be, or is being, conducted.
+                    <a name="count-centr"></a>**_counting centre_** means any premises at which a scrutiny or counting of ballot-papers for a referendum is to be, or is being, conducted.
 
                     <a name="regist-offic"></a>**_registered officer_**, in relation to a registered political party, has the same meaning as the expression has in Part XIV of the _Commonwealth Electoral Act 1918_ by virtue of section 4C of that Act.
 
@@ -3164,9 +3162,9 @@ whichever last occurs.
 
                      (a)  all written applications for postal votes have been produced;
 
-                     (b)  all envelopes received by the DRO before the end of 13 days after the close of voting and purporting to contain postal ballot‑papers have been dealt with under this section; and
+                     (b)  all envelopes received by the DRO before the end of 13 days after the close of voting and purporting to contain postal ballot-papers have been dealt with under this section; and
 
-                     (c)  all other envelopes received by officers prior to the close of the poll and purporting to contain ballot‑papers bearing declaration votes have been dealt with under this section.
+                     (c)  all other envelopes received by officers prior to the close of the poll and purporting to contain ballot-papers bearing declaration votes have been dealt with under this section.
 
              (2)  The DRO shall give notice of the commencement of a preliminary scrutiny as follows:
 
@@ -3194,19 +3192,19 @@ whichever last occurs.
 
                      (e)  each Assistant Returning Officer shall, in the presence of a polling official and any scrutineers who attend:
 
-                              (i)  exhibit for the inspection of the scrutineers each ballot‑box received from a presiding officer or mobile polling team leader, and each pre‑poll ordinary ballot‑box (within the meaning of Division 3 of Part IVA) received from a voting officer (within the meaning of that Division);
+                              (i)  exhibit for the inspection of the scrutineers each ballot-box received from a presiding officer or mobile polling team leader, and each pre-poll ordinary ballot-box (within the meaning of Division 3 of Part IVA) received from a voting officer (within the meaning of that Division);
 
-                             (ii)  record the condition of the ballot‑box;
+                             (ii)  record the condition of the ballot-box;
 
-                            (iii)  check the accuracy of the statement forwarded with the ballot‑box by the presiding officer or voting officer by:
+                            (iii)  check the accuracy of the statement forwarded with the ballot-box by the presiding officer or voting officer by:
 
-                                        (A)  removing the ballot‑papers from the box;
+                                        (A)  removing the ballot-papers from the box;
 
                                         (B)  counting, but not inspecting, them; and
 
-                                        (C)  recording the number of ballot‑papers removed from the box;
+                                        (C)  recording the number of ballot-papers removed from the box;
 
-                      (f)  ballot‑boxes not opened by an Assistant Returning Officer shall be opened by a Divisional Returning Officer.
+                      (f)  ballot-boxes not opened by an Assistant Returning Officer shall be opened by a Divisional Returning Officer.
 
              (2)  A person who is present at the scrutiny in the capacity of a scrutineer shall wear a badge, supplied by the Electoral Commission, that identifies the person as a scrutineer.
 
@@ -3214,51 +3212,51 @@ whichever last occurs.
 
              (1)  At the scrutiny, the following things shall be done:
 
-                     (a)  the ballot‑papers shall be taken out of the ballot‑boxes, examined and either allowed or rejected as informal;
+                     (a)  the ballot-papers shall be taken out of the ballot-boxes, examined and either allowed or rejected as informal;
 
-                     (b)  the number of informal ballot‑papers shall be recorded;
+                     (b)  the number of informal ballot-papers shall be recorded;
 
-                     (c)  the votes on the formal ballot‑papers shall be counted and a record of them taken;
+                     (c)  the votes on the formal ballot-papers shall be counted and a record of them taken;
 
-                     (d)  when the counting is completed, all the ballot‑papers shall be made up into separate sealed parcels for all the informal ballot‑papers, all the ballot‑papers containing a vote in favour of the proposed law, and all the ballot‑papers containing a vote not in favour of the proposed law respectively or, if more than one referendum was held on the same day, into such parcels as the Electoral Commissioner directs;
+                     (d)  when the counting is completed, all the ballot-papers shall be made up into separate sealed parcels for all the informal ballot-papers, all the ballot-papers containing a vote in favour of the proposed law, and all the ballot-papers containing a vote not in favour of the proposed law respectively or, if more than one referendum was held on the same day, into such parcels as the Electoral Commissioner directs;
 
-                     (e)  each Divisional Returning Officer shall, forthwith after completing the scrutiny of the ballot‑papers taken from the ballot‑boxes opened by the Officer and making those ballot‑papers into sealed parcels, prepare a statement showing, in relation to those ballot‑papers:
-
-                              (i)  the number of votes given in favour of the proposed law;
-
-                             (ii)  the number of votes given not in favour of the proposed law; and
-
-                            (iii)  the number of ballot‑papers rejected as informal;
-
-                      (f)  each Assistant Returning Officer shall, forthwith after completing the scrutiny of the ballot‑papers taken from the ballot‑boxes opened by the Officer, send to the relevant Divisional Returning Officer the sealed parcels of ballot‑papers together with a statement showing, in relation to those ballot‑papers:
+                     (e)  each Divisional Returning Officer shall, forthwith after completing the scrutiny of the ballot-papers taken from the ballot-boxes opened by the Officer and making those ballot-papers into sealed parcels, prepare a statement showing, in relation to those ballot-papers:
 
                               (i)  the number of votes given in favour of the proposed law;
 
                              (ii)  the number of votes given not in favour of the proposed law; and
 
-                            (iii)  the number of ballot‑papers rejected as informal;
+                            (iii)  the number of ballot-papers rejected as informal;
+
+                      (f)  each Assistant Returning Officer shall, forthwith after completing the scrutiny of the ballot-papers taken from the ballot-boxes opened by the Officer, send to the relevant Divisional Returning Officer the sealed parcels of ballot-papers together with a statement showing, in relation to those ballot-papers:
+
+                              (i)  the number of votes given in favour of the proposed law;
+
+                             (ii)  the number of votes given not in favour of the proposed law; and
+
+                            (iii)  the number of ballot-papers rejected as informal;
 
                      (g)  the Divisional Returning Officer:
 
-                              (i)  shall open the sealed parcels of ballot‑papers received from the Assistant Returning Officers in or for the Division; and
+                              (i)  shall open the sealed parcels of ballot-papers received from the Assistant Returning Officers in or for the Division; and
 
-                             (ii)  shall make a fresh scrutiny of the ballot‑papers contained in the parcels, and, for the purpose of that scrutiny, shall have the same powers as if it were the original scrutiny, and may reverse any decision given by an Assistant Returning Officer in relation to the original scrutiny.
+                             (ii)  shall make a fresh scrutiny of the ballot-papers contained in the parcels, and, for the purpose of that scrutiny, shall have the same powers as if it were the original scrutiny, and may reverse any decision given by an Assistant Returning Officer in relation to the original scrutiny.
 
-             (2)  Ballot‑papers used for absent voting pursuant to section 46 shall be dealt with as provided by this Act.
+             (2)  Ballot-papers used for absent voting pursuant to section 46 shall be dealt with as provided by this Act.
 
-             (3)  Ballot‑papers used for voting pursuant to Part IV shall be dealt with as provided by that Part and the regulations.
+             (3)  Ballot-papers used for voting pursuant to Part IV shall be dealt with as provided by that Part and the regulations.
 
-             (4)  Ballot‑papers used for voting pursuant to sections 37, 38, 39 and 65 shall be dealt with as provided by those sections and the regulations.
+             (4)  Ballot-papers used for voting pursuant to sections 37, 38, 39 and 65 shall be dealt with as provided by those sections and the regulations.
 
-##### <a id="92"></a>92  Action on objection to ballot‑papers
+##### <a id="92"></a>92  Action on objection to ballot-papers
 
-             (1)  If, at the scrutiny, a scrutineer appointed under section 89 objects to a ballot‑paper as being informal, the officer conducting the scrutiny shall mark the ballot‑paper “allowed” or “rejected” according to his or her decision to allow or reject the ballot‑paper.
+             (1)  If, at the scrutiny, a scrutineer appointed under section 89 objects to a ballot-paper as being informal, the officer conducting the scrutiny shall mark the ballot-paper “allowed” or “rejected” according to his or her decision to allow or reject the ballot-paper.
 
-             (2)  Nothing in this section prevents an officer conducting the scrutiny from rejecting any ballot‑paper as being informal although it is not objected to.
+             (2)  Nothing in this section prevents an officer conducting the scrutiny from rejecting any ballot-paper as being informal although it is not objected to.
 
-##### <a id="93"></a>93  Informal ballot‑papers
+##### <a id="93"></a>93  Informal ballot-papers
 
-             (1)  A ballot‑paper is informal if:
+             (1)  A ballot-paper is informal if:
 
                      (a)  subject to subsection (3), it is not authenticated by the initials of a presiding officer or the issuing officer (within the meaning of Division 3 of Part IVA), or by the presence of the official mark;
 
@@ -3268,15 +3266,15 @@ whichever last occurs.
 
                      (d)  it has upon it any mark or writing (not authorized by this Act or by the regulations to be put upon it) by which, in the opinion of a Divisional Returning Officer, the voter can be identified.
 
-             (3)  A ballot‑paper to which paragraph (1)(a) applies shall not be informal by virtue of that paragraph if the Divisional Returning Officer responsible for considering the question of the formality of the ballot‑paper is satisfied that it is an authentic ballot‑paper on which a voter has marked his or her vote and the officer has endorsed the ballot paper with the words ‘I am satisfied that this ballot paper is an authentic ballot paper on which a voter has marked a vote.’.
+             (3)  A ballot-paper to which paragraph (1)(a) applies shall not be informal by virtue of that paragraph if the Divisional Returning Officer responsible for considering the question of the formality of the ballot-paper is satisfied that it is an authentic ballot-paper on which a voter has marked his or her vote and the officer has endorsed the ballot paper with the words ‘I am satisfied that this ballot paper is an authentic ballot paper on which a voter has marked a vote.’.
 
-             (4)  Paragraph (1)(d) does not apply to any mark or writing placed upon a ballot‑paper by an officer, notwithstanding that the placing of the mark or writing upon the ballot‑paper is a contravention of this Act.
+             (4)  Paragraph (1)(d) does not apply to any mark or writing placed upon a ballot-paper by an officer, notwithstanding that the placing of the mark or writing upon the ballot-paper is a contravention of this Act.
 
-             (7)  Except as authorized by this Act or the regulations, an officer shall not place upon any ballot‑paper any mark or writing which would enable any person to identify the voter by whom it is used.
+             (7)  Except as authorized by this Act or the regulations, an officer shall not place upon any ballot-paper any mark or writing which would enable any person to identify the voter by whom it is used.
 
                     Penalty:  $1,000.
 
-             (8)  Effect shall be given to a ballot‑paper of a voter according to the voter’s intention, so far as that intention is clear.
+             (8)  Effect shall be given to a ballot-paper of a voter according to the voter’s intention, so far as that intention is clear.
 
 ##### <a id="94"></a>94  Return of result of submission by Divisional Returning Officers
 
@@ -3286,67 +3284,67 @@ whichever last occurs.
 
                      (b)  the number of votes given not in favour of the proposed law; and
 
-                     (c)  the number of ballot‑papers rejected as informal;
+                     (c)  the number of ballot-papers rejected as informal;
 
 and shall send the statement to the Australian Electoral Officer for the State or Territory in which that Division is situated.
 
 ##### <a id="95"></a>95  Recount
 
-             (1)  At any time before preparing a statement pursuant to section 97, the Australian Electoral Officer for a State or Territory may, and shall, if directed to do so by the Electoral Commissioner, direct the Divisional Returning Officer for a Division of that State or that Territory to make a recount of the ballot‑papers contained in any parcel relating to that Division.
+             (1)  At any time before preparing a statement pursuant to section 97, the Australian Electoral Officer for a State or Territory may, and shall, if directed to do so by the Electoral Commissioner, direct the Divisional Returning Officer for a Division of that State or that Territory to make a recount of the ballot-papers contained in any parcel relating to that Division.
 
-             (2)  The Electoral Commissioner may, if requested to do so by the Governor‑General, the Governor of a State, the Chief Minister for the Australian Capital Territory or the Administrator of the Northern Territory, or of his or her own motion, direct a recount of any ballot‑papers.
+             (2)  The Electoral Commissioner may, if requested to do so by the Governor-General, the Governor of a State, the Chief Minister for the Australian Capital Territory or the Administrator of the   Northern Territory, or of his or her own motion, direct a recount of any ballot-papers.
 
-             (3)  The officer conducting a recount shall have the same powers as if the recount were the scrutiny, and may reverse any decision taken at the scrutiny as to the allowance or rejection of any ballot‑paper.
+             (3)  The officer conducting a recount shall have the same powers as if the recount were the scrutiny, and may reverse any decision taken at the scrutiny as to the allowance or rejection of any ballot-paper.
 
-##### <a id="95A"></a>95A  Notice of re‑count
+##### <a id="95A"></a>95A  Notice of re-count
 
-                   Before recounting any ballot‑papers, a DRO shall give notice of the re‑count as follows:
+                   Before recounting any ballot-papers, a DRO shall give notice of the re-count as follows:
 
-                     (a)  a notice specifying the date, time and place of the re‑count shall be displayed in a prominent place in the DRO’s office;
+                     (a)  a notice specifying the date, time and place of the re-count shall be displayed in a prominent place in the DRO’s office;
 
-                     (b)  the notice shall be so displayed not later than 4 p.m. on the day before the day fixed for the re‑count.
+                     (b)  the notice shall be so displayed not later than 4 p.m. on the day before the day fixed for the re-count.
 
-##### <a id="95B"></a>95B  Conduct of re‑count
+##### <a id="95B"></a>95B  Conduct of re-count
 
-             (1)  At the time and place fixed for the re‑count and in the presence of any scrutineers who attend and of a person appointed or engaged under the _Public Service Act 1999_, the DRO shall open every sealed parcel of ballot‑papers to be re‑counted and count the votes in the parcel.
+             (1)  At the time and place fixed for the re-count and in the presence of any scrutineers who attend and of a person appointed or engaged under the _Public Service Act 1999_, the DRO shall open every sealed parcel of ballot-papers to be re-counted and count the votes in the parcel.
 
-             (2)  A parcel containing ballot‑papers to be re‑counted shall be opened without destroying or rendering illegible any writing on the parcel and the contents of the parcel shall not be allowed to become mixed with ballot‑papers from any other parcel.
+             (2)  A parcel containing ballot-papers to be re-counted shall be opened without destroying or rendering illegible any writing on the parcel and the contents of the parcel shall not be allowed to become mixed with ballot-papers from any other parcel.
 
-             (3)  After the votes in a parcel have been counted, the DRO shall replace the ballot‑papers in their original cover, reseal and refasten the cover, place the resealed parcel in a new cover, and seal and fasten the new cover.
+             (3)  After the votes in a parcel have been counted, the DRO shall replace the ballot-papers in their original cover, reseal and refasten the cover, place the resealed parcel in a new cover, and seal and fasten the new cover.
 
-             (4)  The DRO shall write on the new cover a statement of the fact and date of the re‑count of the votes in the cover and, along with such of the persons present who choose to add their signatures, shall sign the statement.
+             (4)  The DRO shall write on the new cover a statement of the fact and date of the re-count of the votes in the cover and, along with such of the persons present who choose to add their signatures, shall sign the statement.
 
-             (5)  The DRO shall place any ballot‑papers reserved for the decision of the Australian Electoral Officer in a sealed and fastened parcel bearing the signatures of the DRO and the scrutineers who choose to add their signatures and a note of the number of ballot‑papers in the parcel, the name of the Division and the date.
+             (5)  The DRO shall place any ballot-papers reserved for the decision of the Australian Electoral Officer in a sealed and fastened parcel bearing the signatures of the DRO and the scrutineers who choose to add their signatures and a note of the number of ballot-papers in the parcel, the name of the Division and the date.
 
              (6)  The DRO shall place the parcel in a sealed and fastened outer cover addressed to the Australian Electoral Officer and, without delay, send the parcel to the Australian Electoral Officer by hand, registered post or courier service.
 
              (7)  The Australian Electoral Officer shall open the parcel in the presence of a person appointed or engaged under the _Public Service Act 1999_ and of any scrutineer who attends and shall:
 
-                     (a)  scrutinise the ballot‑papers; and
+                     (a)  scrutinise the ballot-papers; and
 
-                     (b)  mark each ballot‑paper “admitted” or “rejected” according to his or her decision.
+                     (b)  mark each ballot-paper “admitted” or “rejected” according to his or her decision.
 
-             (8)  After scrutinising all the ballot‑papers, the Australian Electoral Officer shall restore them to their original cover, refasten and reseal the cover, and write on the cover:
+             (8)  After scrutinising all the ballot-papers, the Australian Electoral Officer shall restore them to their original cover, refasten and reseal the cover, and write on the cover:
 
-                     (a)  the number of ballot‑papers contained in the cover; and
+                     (a)  the number of ballot-papers contained in the cover; and
 
-                     (b)  a statement that all ballot‑papers have been the subject of decisions by him or her.
+                     (b)  a statement that all ballot-papers have been the subject of decisions by him or her.
 
-             (9)  The Australian Electoral Officer shall sign the cover, along with such other persons present when the ballot‑papers were scrutinised as choose to add their signatures.
+             (9)  The Australian Electoral Officer shall sign the cover, along with such other persons present when the ballot-papers were scrutinised as choose to add their signatures.
 
            (10)  The Australian Electoral Officer shall then enclose the parcel in a new cover, fasten and seal the cover and send the parcel to the DRO by hand, registered post or courier service.
 
-           (11)  The Australian Electoral Officer shall inform the DRO in writing of the numbers of ballot‑papers admitted or rejected by him or her, and the DRO shall complete the re‑count on the basis of the Australian Electoral Officer’s decision.
+           (11)  The Australian Electoral Officer shall inform the DRO in writing of the numbers of ballot-papers admitted or rejected by him or her, and the DRO shall complete the re-count on the basis of the Australian Electoral Officer’s decision.
 
-           (12)  The receipt of a parcel of ballot‑papers by the DRO or the Australian Electoral Officer shall be acknowledged in writing.
+           (12)  The receipt of a parcel of ballot-papers by the DRO or the Australian Electoral Officer shall be acknowledged in writing.
 
-##### <a id="96"></a>96  Reservation of disputed ballot‑papers
+##### <a id="96"></a>96  Reservation of disputed ballot-papers
 
-             (1)  At any recount of votes cast at a referendum, the officer conducting the recount may, and at the request of any scrutineer shall, reserve any ballot‑paper for the decision of the relevant Australian Electoral Officer.
+             (1)  At any recount of votes cast at a referendum, the officer conducting the recount may, and at the request of any scrutineer shall, reserve any ballot-paper for the decision of the relevant Australian Electoral Officer.
 
-             (2)  The Australian Electoral Officer shall decide whether any ballot‑paper reserved under this section is to be allowed and admitted or disallowed and rejected.
+             (2)  The Australian Electoral Officer shall decide whether any ballot-paper reserved under this section is to be allowed and admitted or disallowed and rejected.
 
-             (3)  In the event of the validity of a referendum being disputed, the High Court may consider any ballot‑papers which were reserved for the decision of an officer referred to in subsection (1) but shall not order a recount of the whole or any part of the ballot‑papers in connection with the referendum unless it is satisfied that such a recount is justified.
+             (3)  In the event of the validity of a referendum being disputed, the High Court may consider any ballot-papers which were reserved for the decision of an officer referred to in subsection (1) but shall not order a recount of the whole or any part of the ballot-papers in connection with the referendum unless it is satisfied that such a recount is justified.
 
 ## Part VII—Return of the writ
 
@@ -3360,7 +3358,7 @@ and shall send the statement to the Australian Electoral Officer for the State o
 
                              (ii)  the number of votes given not in favour of the proposed law; and
 
-                            (iii)  the number of ballot‑papers rejected as informal;
+                            (iii)  the number of ballot-papers rejected as informal;
 
                      (b)  sign the statement; and
 
@@ -3370,17 +3368,17 @@ and shall send the statement to the Australian Electoral Officer for the State o
 
              (1)  The Electoral Commissioner must, immediately after receiving the statements sent under section 97:
 
-                     (a)  certify, in relation to each State, in relation to the Australian Capital Territory, in relation to the Northern Territory and in relation to the whole Commonwealth:
+                     (a)  certify, in relation to each State, in relation to the Australian Capital Territory, in relation to the Northern   Territory and in relation to the whole Commonwealth:
 
                               (i)  the number of votes given in favour of the proposed law; and
 
                              (ii)  the number of votes given not in favour of the proposed law; and
 
-                            (iii)  the number of ballot‑papers rejected as informal;
+                            (iii)  the number of ballot-papers rejected as informal;
 
                             and attach the certificate to the original writ; and
 
-                     (b)  return the writ and the certificate to the Governor‑General.
+                     (b)  return the writ and the certificate to the Governor-General.
 
              (2)  The Electoral Commissioner must publish a copy of the certificate referred to in paragraph (1)(a) in the _Gazette_, and a copy of such a certificate so published is, subject to Part VIII, conclusive evidence of the result of the referendum to which it relates.
 
@@ -3396,7 +3394,7 @@ and shall send the statement to the Australian Electoral Officer for the State o
 
 ##### <a id="100"></a>100  Disputing validity of submission or return
 
-                   The validity of any referendum or of any return or statement showing the voting at a referendum may be disputed by the Commonwealth, by any State, by the Australian Capital Territory or by the Northern Territory by petition addressed to the High Court.
+                   The validity of any referendum or of any return or statement showing the voting at a referendum may be disputed by the Commonwealth, by any State, by the Australian Capital Territory or by the Northern   Territory by petition addressed to the High Court.
 
 ##### <a id="101"></a>101  Requisites of petition
 
@@ -3408,7 +3406,7 @@ and shall send the statement to the Australian Electoral Officer for the State o
 
                      (b)  contain a request asking for the relief to which the petitioner claims to be entitled;
 
-                     (c)  subject to subsection 102(2), be signed by the Attorney‑General of the Commonwealth for and on behalf of the Commonwealth, the Attorney‑General of a State for and on behalf of the State, the Attorney‑General of the Australian Capital Territory for and on behalf of the Territory or the Attorney‑General of the Northern Territory for and on behalf of the Northern Territory, as the case requires; and
+                     (c)  subject to subsection 102(2), be signed by the Attorney-General of the Commonwealth for and on behalf of the Commonwealth, the Attorney-General of a State for and on behalf of the State, the Attorney-General of the Australian Capital Territory for and on behalf of the Territory or the Attorney-General of the Northern Territory for and on behalf of the Northern Territory, as the case requires; and
 
                      (d)  be filed in the Registry of the High Court within 40 days after the publication in the _Gazette_ of the statement by the Electoral Commissioner showing the result of the referendum.
 
@@ -3446,23 +3444,23 @@ and shall send the statement to the Australian Electoral Officer for the State o
 
              (1)  In hearing a matter arising under this Part, the High Court may inquire into the identity of persons, and whether or not the votes of persons were improperly admitted or rejected, but the High Court shall not inquire into the correctness of any Roll.
 
-             (2)  Where the High Court makes inquiries in relation to ballot‑papers marked in Antarctica pursuant to Part V, a statement of the particulars of the marking of the ballot‑papers prepared by an Australian Electoral Officer under subsection 85(3) is, unless the High Court otherwise orders, conclusive evidence of the particulars stated.
+             (2)  Where the High Court makes inquiries in relation to ballot-papers marked in Antarctica pursuant to Part V, a statement of the particulars of the marking of the ballot-papers prepared by an Australian Electoral Officer under subsection 85(3) is, unless the High Court otherwise orders, conclusive evidence of the particulars stated.
 
 ##### <a id="105"></a>105  Notice of petition
 
-             (1)  Where a petition of the kind referred to in section 100 is filed by the Commonwealth, the Attorney‑General of the Commonwealth shall notify the Attorneys‑General of the several States, the Attorney‑General of the Australian Capital Territory, the Attorney‑General of the Northern Territory and the Electoral Commission of the filing of the petition.
+             (1)  Where a petition of the kind referred to in section 100 is filed by the Commonwealth, the Attorney-General of the Commonwealth shall notify the Attorneys-General of the several States, the Attorney-General of the Australian Capital Territory, the Attorney-General of the Northern Territory and the Electoral Commission of the filing of the petition.
 
-             (2)  Where a petition of the kind referred to in section 100 is filed by a State, the Attorney‑General of that State shall notify the Attorney‑General of the Commonwealth, the Attorneys‑General of the other States, the Attorney‑General of the Australian Capital Territory, the Attorney‑General of the Northern Territory and the Electoral Commission of the filing of the petition.
+             (2)  Where a petition of the kind referred to in section 100 is filed by a State, the Attorney-General of that State shall notify the Attorney-General of the Commonwealth, the Attorneys-General of the other States, the Attorney-General of the Australian Capital Territory, the Attorney-General of the Northern Territory and the Electoral Commission of the filing of the petition.
 
-          (2A)  Where a petition of the kind referred to in section 100 is filed by the Australian Capital Territory, the Attorney‑General of the Territory must notify the Attorney‑General of the Commonwealth, the Attorneys‑General of the several States, the Attorney‑General of the Northern Territory and the Electoral Commission of the filing of the petition.
+          (2A)  Where a petition of the kind referred to in section 100 is filed by the Australian Capital Territory, the Attorney-General of the Territory must notify the Attorney-General of the Commonwealth, the Attorneys-General of the several States, the Attorney-General of the Northern Territory and the Electoral Commission of the filing of the petition.
 
-             (3)  Where a petition of the kind referred to in section 100 is filed by the Northern Territory, the Attorney‑General of the Northern Territory shall notify the Attorney‑General of the Commonwealth, the Attorneys‑General of the several States, the Attorney‑General of the Australian Capital Territory and the Electoral Commission of the filing of the petition.
+             (3)  Where a petition of the kind referred to in section 100 is filed by the Northern Territory, the Attorney-General of the Northern Territory shall notify the Attorney-General of the Commonwealth, the Attorneys-General of the several States, the Attorney-General of the Australian Capital Territory and the Electoral Commission of the filing of the petition.
 
-             (4)  Where a petition of the kind referred to in section 102 is filed by the Electoral Commission, the Electoral Commissioner shall notify the Attorney‑General of the Commonwealth, the Attorneys‑General of the several States, the Attorney‑General of the Australian Capital Territory and the Attorney‑General of the Northern Territory of the filing of the petition.
+             (4)  Where a petition of the kind referred to in section 102 is filed by the Electoral Commission, the Electoral Commissioner shall notify the Attorney-General of the Commonwealth, the Attorneys-General of the several States, the Attorney-General of the Australian Capital Territory and the Attorney-General of the Northern   Territory of the filing of the petition.
 
 ##### <a id="106"></a>106  Joinder of parties
 
-                   The High Court may, on the application of the Commonwealth, of any State, of the Australian Capital Territory, of the Northern Territory or of the Electoral Commission, order it to be joined as a party petitioning or responding as the case may be.
+                   The High Court may, on the application of the Commonwealth, of any State, of the Australian Capital Territory, of the Northern   Territory or of the Electoral Commission, order it to be joined as a party petitioning or responding as the case may be.
 
 ##### <a id="107"></a>107  Procedure on petition
 
@@ -3472,13 +3470,13 @@ and shall send the statement to the Australian Electoral Officer for the State o
 
                    The Court must make its decision on a petition as quickly as is reasonable in the circumstances.
 
-##### <a id="107A"></a>107A  Provision for Court to have regard to certain rejected ballot‑papers
+##### <a id="107A"></a>107A  Provision for Court to have regard to certain rejected ballot-papers
 
                    In making its decision on a petition, the Court may:
 
-                     (a)  have regard to postal ballot‑papers rejected at the preliminary scrutiny because of paragraph 7 of Schedule 4 if the Court is satisfied that the votes marked on the ballot‑papers were recorded prior to the close of voting; and
+                     (a)  have regard to postal ballot-papers rejected at the preliminary scrutiny because of paragraph 7 of Schedule 4 if the Court is satisfied that the votes marked on the ballot-papers were recorded prior to the close of voting; and
 
-                     (b)  have regard to any declaration vote ballot‑papers (including postal ballot‑papers) rejected at the preliminary scrutiny if the Court is of the opinion that the ballot‑papers should not have been rejected.
+                     (b)  have regard to any declaration vote ballot-papers (including postal ballot-papers) rejected at the preliminary scrutiny if the Court is of the opinion that the ballot-papers should not have been rejected.
 
 ##### <a id="108"></a>108  Immaterial errors not to invalidate referendum
 
@@ -3498,7 +3496,7 @@ that did not affect the result of the referendum.
 
 ##### <a id="108AA"></a>108AA  Referendum not affected by failure of delivery arrangement
 
-             (1)  This section applies if a DRO or Assistant Returning Officer, under section 61, arranges for delivery of a certificate and ballot‑paper instead of posting them.
+             (1)  This section applies if a DRO or Assistant Returning Officer, under section 61, arranges for delivery of a certificate and ballot-paper instead of posting them.
 
              (2)  A referendum, or a return or statement showing the voting at a referendum, must not be declared void on account of a failure of the arrangement for delivery.
 
@@ -3556,7 +3554,7 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
 ##### <a id="119"></a>119  Bribery
 
-             (1)  A person shall not ask for, receive or obtain, or offer or agree to ask for, or receive or obtain, any property or benefit of any kind for the person or any other person, on an understanding that any vote of the first‑mentioned person at a referendum will, in any manner, be influenced or affected.
+             (1)  A person shall not ask for, receive or obtain, or offer or agree to ask for, or receive or obtain, any property or benefit of any kind for the person or any other person, on an understanding that any vote of the first-mentioned person at a referendum will, in any manner, be influenced or affected.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
@@ -3586,9 +3584,9 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
           (1A)  A person must not produce, publish or distribute or cause, permit or authorise to be produced, published or distributed a video recording relating to a referendum and intended or calculated to affect the result of the referendum unless the name and address of the person who authorised the video recording appears at the end of it.
 
-       (1AB)  Subject to subsection (1AC), a person must not print, publish or distribute or cause, permit or authorise to be printed, published or distributed an advertisement relating to a referendum and intended or calculated to affect the result of the referendum that takes up the whole or part of each of 2 opposing pages of a newspaper unless, in addition to fulfilling the requirement under paragraph (1)(a) that the name and address of the person who authorised the advertisement appear at the end of it, such name and address also appears on the other page, or the part of the other page, taken up by the advertisement.
+        (1AB)  Subject to subsection (1AC), a person must not print, publish or distribute or cause, permit or authorise to be printed, published or distributed an advertisement relating to a referendum and intended or calculated to affect the result of the referendum that takes up the whole or part of each of 2 opposing pages of a newspaper unless, in addition to fulfilling the requirement under paragraph (1)(a) that the name and address of the person who authorised the advertisement appear at the end of it, such name and address also appears on the other page, or the part of the other page, taken up by the advertisement.
 
-       (1AC)  Subsection (1AB) does not apply to an advertisement of the kind referred to in that subsection:
+        (1AC)  Subsection (1AB) does not apply to an advertisement of the kind referred to in that subsection:
 
                      (a)  that is contained within:
 
@@ -3608,7 +3606,7 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
              (3)  Subsection (1) does not apply in relation to:
 
-                     (a)  a car sticker, T‑shirt, lapel button, lapel badge, pen, pencil or balloon; or
+                     (a)  a car sticker, T-shirt, lapel button, lapel badge, pen, pencil or balloon; or
 
                      (b)  an article included in a prescribed class of articles.
 
@@ -3666,7 +3664,7 @@ Note:          A defendant bears a legal burden in relation to
 
 ##### <a id="123"></a>123  False statements in relation to Rolls
 
-                   A person who, on the voting day for a referendum, makes a statement to an elector, either orally or in writing, with respect to the enrolment of the elector that, to the knowledge of the first‑mentioned person, is false or misleading in a material respect, is guilty of an offence punishable on conviction by a fine not exceeding $1,000 or imprisonment for a period not exceeding 6 months, or both.
+                   A person who, on the voting day for a referendum, makes a statement to an elector, either orally or in writing, with respect to the enrolment of the elector that, to the knowledge of the first-mentioned person, is false or misleading in a material respect, is guilty of an offence punishable on conviction by a fine not exceeding $1,000 or imprisonment for a period not exceeding 6 months, or both.
 
 ##### <a id="124"></a>124  Headings to advertisements
 
@@ -3742,29 +3740,29 @@ the proprietor of the journal must cause the word “advertisement” to be prin
 
              (2)  In subsection (1), **_referendum paper_** means any document required to be filled in or signed under this Act or the regulations.
 
-##### <a id="129"></a>129  Marks on ballot‑papers
+##### <a id="129"></a>129  Marks on ballot-papers
 
-                   Except as authorized by this Act, a person shall not make any mark on a ballot‑paper that has been issued to another person.
+                   Except as authorized by this Act, a person shall not make any mark on a ballot-paper that has been issued to another person.
 
                     Penalty:  $1,000 or imprisonment for 6 months, or both.
 
-##### <a id="130"></a>130  Other offences relating to ballot‑papers etc.
+##### <a id="130"></a>130  Other offences relating to ballot-papers etc.
 
              (1)  A person shall not:
 
                      (a)  impersonate another person with the intention of voting in that other person’s name; or
 
-                    (aa)  impersonate another person with the intention of securing a ballot‑paper to which the first‑mentioned person is not entitled; or
+                    (aa)  impersonate another person with the intention of securing a ballot-paper to which the first-mentioned person is not entitled; or
 
-                     (b)  fraudulently do an act that results in the destruction or defacement of a ballot‑paper or other document relating to a referendum; or
+                     (b)  fraudulently do an act that results in the destruction or defacement of a ballot-paper or other document relating to a referendum; or
 
-                     (c)  fraudulently put any ballot‑paper or other paper into a ballot‑box; or
+                     (c)  fraudulently put any ballot-paper or other paper into a ballot-box; or
 
-                     (d)  fraudulently take any ballot‑paper out of a polling booth or a place where the scrutiny is being conducted; or
+                     (d)  fraudulently take any ballot-paper out of a polling booth or a place where the scrutiny is being conducted; or
 
-                      (f)  supply ballot‑papers without authority to do so under this Act or the regulations; or
+                      (f)  supply ballot-papers without authority to do so under this Act or the regulations; or
 
-                     (g)  do an act that results in the unlawful destruction of, taking of, opening of, or interference with, ballot‑boxes or ballot‑papers.
+                     (g)  do an act that results in the unlawful destruction of, taking of, opening of, or interference with, ballot-boxes or ballot-papers.
 
                     Penalty:  $1,000 or imprisonment for 6 months, or both.
 
@@ -3896,7 +3894,7 @@ and the constable may thereupon take such steps as are necessary to remove the p
 
 shall not, without the permission of the chairperson of the meeting, return to that place while the meeting is still in progress.
 
-                    Penalty for a contravention of subsection (4):      $1,000 or imprisonment for 6 months, or both.
+                    Penalty for a contravention of subsection (4):     $1,000 or imprisonment for 6 months, or both.
 
 ##### <a id="135"></a>135  Control of behaviour at polling booths etc.
 
@@ -3916,7 +3914,7 @@ shall not, without the permission of the chairperson of the meeting, return to t
 
                      (b)  a counting centre;
 
-                     (c)  premises in Australia at which an application may be made for a pre‑poll vote.
+                     (c)  premises in Australia at which an application may be made for a pre-poll vote.
 
              (3)  Paragraph (1)(c) does not apply to:
 
@@ -3932,11 +3930,11 @@ shall not, without the permission of the chairperson of the meeting, return to t
 
                      (b)  in the case of a counting centre—the Australian Electoral Officer, DRO or Assistant Returning Officer conducting the scrutiny at the centre; and
 
-                     (c)  in the case of premises at which an application may be made for a pre‑poll vote:
+                     (c)  in the case of premises at which an application may be made for a pre-poll vote:
 
                               (i)  if the premises are the office of a DRO—the DRO;
 
-                             (ii)  if the premises are a pre‑poll voting office—any pre‑poll voting officer at those premises.
+                             (ii)  if the premises are a pre-poll voting office—any pre-poll voting officer at those premises.
 
              (5)  A person who contravenes subsection (1) may be removed from the premises by a police officer or by an authorised person.
 
@@ -3944,7 +3942,7 @@ shall not, without the permission of the chairperson of the meeting, return to t
 
                     <a name="authorised-person"></a>**_authorised person_** means a person acting at the request of the person in charge of premises.
 
-                    <a name="count-centr"></a>**_counting centre_** means premises being used for the purpose of the preliminary scrutiny of declaration votes or the scrutiny of ballot‑papers.
+                    <a name="count-centr"></a>**_counting centre_** means premises being used for the purpose of the preliminary scrutiny of declaration votes or the scrutiny of ballot-papers.
 
 ## Part XI—Miscellaneous
 
@@ -3976,7 +3974,7 @@ Note:          The definition of **_officer_** covers Australi
 
 ##### <a id="139"></a>139  Injunctions
 
-             (1)  Where a person has engaged, is engaging or is proposing to engage in any conduct that constituted, constitutes or would constitute a contravention of, or an offence against, this Act or any other law of the Commonwealth in its application to referendums, the Federal Court of Australia (the **_Federal Court_**) may, on the application of the Electoral Commission, grant an injunction restraining the first‑mentioned person from engaging in the conduct and, if in the opinion of the Federal Court it is desirable to do so, requiring that person to do any act or thing.
+             (1)  Where a person has engaged, is engaging or is proposing to engage in any conduct that constituted, constitutes or would constitute a contravention of, or an offence against, this Act or any other law of the Commonwealth in its application to referendums, the Federal Court of Australia (the **_Federal Court_**) may, on the application of the Electoral Commission, grant an injunction restraining the first-mentioned person from engaging in the conduct and, if in the opinion of the Federal Court it is desirable to do so, requiring that person to do any act or thing.
 
              (2)  Where:
 
@@ -3984,7 +3982,7 @@ Note:          The definition of **_officer_** covers Australi
 
                      (b)  the refusal or failure was, is, or would be, a failure to comply with, or an offence against, this Act or any other law of the Commonwealth in its application to referendums;
 
-the Federal Court may, on the application of the Electoral Commission, grant an injunction requiring the first‑mentioned person to do that act or thing.
+the Federal Court may, on the application of the Electoral Commission, grant an injunction requiring the first-mentioned person to do that act or thing.
 
              (3)  Where an application is made to the Federal Court for an injunction under subsection (1), the Federal Court may, if in the opinion of the Federal Court it is desirable to do so, before considering the application, grant an interim injunction restraining a person from engaging in conduct of the kind referred to in that subsection pending the determination of the application.
 
@@ -3994,13 +3992,13 @@ the Federal Court may, on the application of the Electoral Commission, grant an 
 
                      (a)  if the Federal Court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the Federal Court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
 
-                     (b)  if it appears to the Federal Court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person engages in conduct of that kind.
+                     (b)  if it appears to the Federal Court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
              (6)  Where an application is made to the Federal Court for the grant of an injunction requiring a person to do a particular act or thing, the power of the Federal Court to grant the injunction may be exercised:
 
                      (a)  if the Federal Court is satisfied that the person has refused or failed to do that act or thing—whether or not it appears to the Federal Court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
 
-                     (b)  if it appears to the Federal Court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person refuses or fails to do that act or thing.
+                     (b)  if it appears to the Federal Court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 
              (7)  Where the Electoral Commission makes an application to the Federal Court for the grant of an injunction under this section, the Federal Court shall not require the Electoral Commission or any other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
 
@@ -4058,11 +4056,11 @@ the Federal Court may, on the application of the Electoral Commission, grant an 
 
              (1)  In this section, **_referendum documents_** includes:
 
-                     (a)  ballot‑papers; and
+                     (a)  ballot-papers; and
 
                      (b)  certified lists of voters; and
 
-                   (ba)  approved lists of voters; and
+                    (ba)  approved lists of voters; and
 
                      (c)  certified copies of the Roll; and
 
@@ -4070,7 +4068,7 @@ the Federal Court may, on the application of the Electoral Commission, grant an 
 
                      (e)  postal vote certificates; and
 
-                      (f)  pre‑poll vote certificates (both for ordinary voting and for declaration voting); and
+                      (f)  pre-poll vote certificates (both for ordinary voting and for declaration voting); and
 
                      (g)  lists prepared under section 45.
 
@@ -4104,11 +4102,11 @@ the Federal Court may, on the application of the Electoral Commission, grant an 
 
 ##### <a id="143"></a>143  No referendum or vote of a State or Territory to be held on voting day
 
-                   On the voting day for a referendum, no election or referendum or vote of the electors of any State or Territory or part of a State or Territory shall, without the authority of the Governor‑General, be held or taken under a law of a State or Territory.
+                   On the voting day for a referendum, no election or referendum or vote of the electors of any State or Territory or part of a State or Territory shall, without the authority of the Governor-General, be held or taken under a law of a State or Territory.
 
 ##### <a id="144"></a>144  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -4122,9 +4120,9 @@ and in particular, prescribing the procedure in relation to the imposition and r
 
              (2)  Notwithstanding the repeal effected by subsection (1), the regulations that were, immediately before the commencement of this Act, in force under the _Commonwealth Electoral Act 1918_ and the _Referendum (Constitution Alteration) Act 1906_ shall, in so far as those regulations relate to referendums, continue in force, to the extent to which they are consistent with this Act, as if:
 
-                     (a)  those regulations had been made under that first‑mentioned Act and under this Act;
+                     (a)  those regulations had been made under that first-mentioned Act and under this Act;
 
-                     (b)  a reference in those regulations to a State, in relation to a referendum, included a reference to the Australian Capital Territory and the Northern Territory;
+                     (b)  a reference in those regulations to a State, in relation to a referendum, included a reference to the Australian   Capital Territory and the Northern Territory;
 
                      (c)  a reference in those regulations to the Australian Electoral Officer for a State, in relation to a referendum, included a reference to the Australian Electoral Officers for the Territories;
 
@@ -4148,15 +4146,15 @@ I command you to cause a proposed law entitled [_here insert the title of the pr
 
 I appoint the following dates:
 
-            1.   For the close of the Rolls: the        day of              20    .
+            1.   For the close of the Rolls: the           day of               20    .
 
-            2.   For taking the votes of the electors: the      day of             20    .
+            2.   For taking the votes of the electors: the          day of              20    .
 
-            3.   For the return of the writ: the         day of              20    .
+            3.   For the return of the writ: the           day of               20    .
 
-[_Here insert Governor‑General’s title and the date_] 
+[_Here insert Governor-General’s title and the date_] 
 
-Governor‑General 
+Governor-General 
 
 By His Excellency’s command 
 
@@ -4169,8 +4167,8 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image003.gif"> Commonwealth of Australia</div>
-    <div>BALLOT‑PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
+    <div>BALLOT-PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
     <div><b>DIRECTIONS TO VOTER</b></div>
@@ -4190,8 +4188,8 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image004.gif"> Commonwealth of Australia</div>
-    <div>BALLOT‑PAPERS</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00066/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
+    <div>BALLOT-PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
     <div><b>DIRECTIONS TO VOTER</b></div>
@@ -4236,7 +4234,7 @@ _Referendum (Constitution Alteration) Act (No. 2) 1965_
 
 _Referendum (Constitution Alteration) Act Modification Act 1977_ 
 
-# Schedule 3—Grounds of application for postal or pre‑poll vote
+# Schedule 3—Grounds of application for postal or pre-poll vote
 
 _Sections 54 and 72_
 
@@ -4246,7 +4244,7 @@ _Sections 54 and 72_
 
               3.  Throughout the hours of voting on voting day, the elector will be travelling under conditions that will prevent the elector attending a polling booth in the State or Territory for which the elector is enrolled.
 
-           3A.  Throughout the hours of voting on voting day, the elector will be absent from the Division for which the elector is enrolled.
+            3A.  Throughout the hours of voting on voting day, the elector will be absent from the Division for which the elector is enrolled.
 
               4.  The elector will be unable to attend a polling booth on voting day because of:
 
@@ -4262,7 +4260,7 @@ _Sections 54 and 72_
 
               6.  Throughout the hours of voting on voting day, the elector will be a patient at a hospital and unable to vote at the hospital.
 
-           7A.  The elector will be unable to attend a polling booth on voting day because of a reasonable fear for, or a reasonable apprehension about, his or her personal wellbeing or safety.
+            7A.  The elector will be unable to attend a polling booth on voting day because of a reasonable fear for, or a reasonable apprehension about, his or her personal wellbeing or safety.
 
               8.  Because of the elector’s religious beliefs or membership of a religious order, the elector:
 
@@ -4272,9 +4270,9 @@ _Sections 54 and 72_
 
               9.  On voting day, the elector will be serving a sentence of imprisonment or otherwise under detention.
 
-            10.  The elector’s address has been excluded from the Roll under section 104 of the _Commonwealth Electoral Act 1918_.
+             10.  The elector’s address has been excluded from the Roll under section 104 of the _Commonwealth Electoral Act 1918_.
 
-            11.  Throughout the hours of voting on voting day, the elector will be engaged in his or her employment or occupation and:
+             11.  Throughout the hours of voting on voting day, the elector will be engaged in his or her employment or occupation and:
 
                      (a)  if the elector is an employee, the elector is not entitled to leave of absence under section 133; and
 
@@ -4300,33 +4298,33 @@ _Subsection 89A(3)_
 
                      (b)  in another group, the envelopes that do not meet those requirements.
 
-              5.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 19 and 20, exclude from further scrutiny the ballot‑papers contained in envelopes that do not meet the requirements of paragraph 6.
+              5.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 19 and 20, exclude from further scrutiny the ballot-papers contained in envelopes that do not meet the requirements of paragraph 6.
 
               6.  An envelope meets the requirements of this paragraph if the DRO is satisfied:
 
-                     (a)  in the case of an envelope purporting to contain a postal ballot‑paper, other than an envelope sent under section 58 to a registered general postal voter who was registered on the ground specified in paragraph 184A(2)(e) or (f) of the _Commonwealth Electoral Act 1918_, that the signature on the certificate is that of the elector and that:
+                     (a)  in the case of an envelope purporting to contain a postal ballot-paper, other than an envelope sent under section 58 to a registered general postal voter who was registered on the ground specified in paragraph 184A(2)(e) or (f) of the _Commonwealth Electoral Act 1918_, that the signature on the certificate is that of the elector and that:
 
                               (i)  the signature purports to be witnessed by an authorised witness; or
 
                              (ii)  the signature is taken to be witnessed by an authorised witness because of subsection 65(1A); and
 
-                     (b)  in the case of an envelope purporting to contain a pre‑poll vote ballot‑paper, that the certificate has been signed in accordance with section 73D and that the signature purports to be witnessed by the officer who issued the certificate; and
+                     (b)  in the case of an envelope purporting to contain a pre-poll vote ballot-paper, that the certificate has been signed in accordance with section 73D and that the signature purports to be witnessed by the officer who issued the certificate; and
 
-                     (c)  in the case of an envelope purporting to contain an absent vote ballot‑paper or a provisional vote ballot‑paper, that the declaration has been signed in accordance with section 46 or 37, or under subsection 36(4), as the case may be, and that the signature purports to be witnessed in accordance with that section or subsection, as the case requires; and
+                     (c)  in the case of an envelope purporting to contain an absent vote ballot-paper or a provisional vote ballot-paper, that the declaration has been signed in accordance with section 46 or 37, or under subsection 36(4), as the case may be, and that the signature purports to be witnessed in accordance with that section or subsection, as the case requires; and
 
-                    (ca)  in the case of an envelope purporting to contain a provisional vote ballot‑paper—if the elector (other than an elector to whom subsection 104(4) of the _Commonwealth Electoral Act 1918_ applies) did not provide evidence of his or her identity in accordance with section 37 at the time of casting the vote, the elector has provided that evidence by the first Friday following the voting day for that referendum; and
+                    (ca)  in the case of an envelope purporting to contain a provisional vote ballot-paper—if the elector (other than an elector to whom subsection 104(4) of the _Commonwealth Electoral Act 1918_ applies) did not provide evidence of his or her identity in accordance with section 37 at the time of casting the vote, the elector has provided that evidence by the first Friday following the voting day for that referendum; and
 
-                   (cb)  in the case of an envelope purporting to contain a postal ballot‑paper, a pre‑poll vote ballot‑paper, an absent vote ballot‑paper or a provisional vote ballot‑paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_
+                    (cb)  in the case of an envelope purporting to contain a postal ballot-paper, a pre-poll vote ballot-paper, an absent vote ballot-paper or a provisional vote ballot-paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_
 
-                     (d)  in the case of an envelope purporting to contain a ballot‑paper recording a vote cast at a station in Antarctica, the envelope is signed in accordance with subsection 85(1); and
+                     (d)  in the case of an envelope purporting to contain a ballot-paper recording a vote cast at a station in Antarctica, the envelope is signed in accordance with subsection 85(1); and
 
-                     (e)  in the case of an envelope purporting to contain a postal ballot‑paper, that the vote marked on the ballot‑paper was recorded prior to the close of the voting.
+                     (e)  in the case of an envelope purporting to contain a postal ballot-paper, that the vote marked on the ballot-paper was recorded prior to the close of the voting.
 
-           6A.  If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
+            6A.  If the DRO is satisfied that more than one envelope that meets the requirements of paragraph 6 purports to contain a declaration vote by the same elector, the DRO must:
 
                      (a)  treat only one of the envelopes, as selected by the DRO, as meeting the requirements of paragraph 6; and
 
-                     (b)  exclude from further scrutiny the ballot‑papers contained in the other envelope or envelopes, without opening the envelope or envelopes; and
+                     (b)  exclude from further scrutiny the ballot-papers contained in the other envelope or envelopes, without opening the envelope or envelopes; and
 
                      (c)  seal up in a parcel the envelope or envelopes excluded from further scrutiny by subparagraph (b); and
 
@@ -4336,19 +4334,19 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
             6B.  Paragraphs 19 and 20 do not apply to envelopes excluded from further scrutiny because of subparagraph 6A(b).
 
-              7.  A vote marked on a postal ballot‑paper must be taken not to have been recorded prior to the close of voting if the date referred to in paragraph 65(1)(c) in relation to the postal vote certificate is a date after voting day.
+              7.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of voting if the date referred to in paragraph 65(1)(c) in relation to the postal vote certificate is a date after voting day.
 
-           7A.  A vote marked on a postal ballot‑paper must be taken not to have been recorded prior to the close of voting if:
+            7A.  A vote marked on a postal ballot-paper must be taken not to have been recorded prior to the close of voting if:
 
                      (a)  subsection 65(1A) applies in relation to the vote; and
 
                      (b)  the date referred to in paragraph 65(1A)(a) is a date after voting day.
 
-              8.  An envelope purporting to contain an absent vote ballot‑paper, a provisional vote ballot‑paper or a pre‑poll vote ballot‑paper shall not be regarded as failing to meet the requirements of paragraph 6 only because the declaration or certificate, as the case requires, is not witnessed if the voter’s name appears on a record made under subsection 34(2) or section 73F, as the case requires, or, if neither of those requirements is met, if the DRO is satisfied that the ballot‑paper was properly issued.
+              8.  An envelope purporting to contain an absent vote ballot-paper, a provisional vote ballot-paper or a pre-poll vote ballot-paper shall not be regarded as failing to meet the requirements of paragraph 6 only because the declaration or certificate, as the case requires, is not witnessed if the voter’s name appears on a record made under subsection 34(2) or section 73F, as the case requires, or, if neither of those requirements is met, if the DRO is satisfied that the ballot-paper was properly issued.
 
               9.  The DRO shall seal up in a parcel the envelopes that do not meet the requirements of paragraph 6 and shall write on the parcel a description of its contents, the name of the Division and the date of commencement of the preliminary scrutiny.
 
-            10.  The DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
+             10.  The DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
 
                      (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(4A) of the _Commonwealth Electoral Act 1918_ applies;
 
@@ -4358,7 +4356,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (d)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division or for the State or Territory in which the Division is situated.
 
-            11.  This paragraph applies to an envelope if the DRO is satisfied:
+             11.  This paragraph applies to an envelope if the DRO is satisfied:
 
                      (a)  that the elector who signed a certificate or declaration on the envelope is not enrolled for the Division; and
 
@@ -4370,13 +4368,13 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                             (iii)  that the omission was not attributable to subsection 118(4A) of the _Commonwealth Electoral Act 1918_.
 
-            12.  Subparagraph 11(b) does not apply if:
+             12.  Subparagraph 11(b) does not apply if:
 
                      (a)  more than one election (excluding the election to which the scrutiny relates) has been held since the error or mistake was made; or
 
                      (b)  where there has been a redistribution of the State or Territory that includes the Division since the last election but one before the election to which the scrutiny relates, the error or mistake was made before the last such redistribution.
 
-            13.  In paragraph 12, election means:
+             13.  In paragraph 12, election means:
 
                      (a)  a general election for the House of Representatives;
 
@@ -4384,29 +4382,29 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
                      (c)  a referendum not held concurrently with a general election.
 
-            14.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 19 and 21, exclude from further scrutiny the ballot‑papers contained in envelopes referred to in subparagraph 10(d).
+             14.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 19 and 21, exclude from further scrutiny the ballot-papers contained in envelopes referred to in subparagraph 10(d).
 
-            15.  The DRO shall seal up in a parcel the envelopes referred to in subparagraph 10(d) and shall write on the parcel a description of the contents, the name of the Division and the date.
+             15.  The DRO shall seal up in a parcel the envelopes referred to in subparagraph 10(d) and shall write on the parcel a description of the contents, the name of the Division and the date.
 
-            16.  The DRO shall, after the close of voting in the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot‑papers from envelopes referred to in paragraph 10 that still remain in the preliminary scrutiny.
+             16.  The DRO shall, after the close of voting in the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot-papers from envelopes referred to in paragraph 10 that still remain in the preliminary scrutiny.
 
-            17.  Ballot‑papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) shall be placed in a ballot‑box by themselves for further scrutiny.
+             17.  Ballot-papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) shall be placed in a ballot-box by themselves for further scrutiny.
 
-            18.  Where a ballot‑paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection.
+             18.  Where a ballot-paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection.
 
-            19.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot‑papers that are required, under that scrutiny, to be placed in a ballot‑box under paragraph 17 are so placed, but not before the close of the poll for the Division, must:
+             19.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot-papers that are required, under that scrutiny, to be placed in a ballot-box under paragraph 17 are so placed, but not before the close of the poll for the Division, must:
 
-                     (a)  open the parcel of envelopes that contains the ballot‑papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 20, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 20; and
+                     (a)  open the parcel of envelopes that contains the ballot-papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 20, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 20; and
 
-                     (b)  open the parcel of envelopes that contains the ballot‑papers that are, under paragraph 14 and subject to the operation of this paragraph and paragraph 21, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 21.
+                     (b)  open the parcel of envelopes that contains the ballot-papers that are, under paragraph 14 and subject to the operation of this paragraph and paragraph 21, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 21.
 
-            20.  For the purpose of dealing further with declaration votes referred to in subparagraph 19(a), paragraphs 3 to 18, inclusive, reapply in relation to those votes as if:
+             20.  For the purpose of dealing further with declaration votes referred to in subparagraph 19(a), paragraphs 3 to 18, inclusive, reapply in relation to those votes as if:
 
                      (a)  the words “subject to the operation of paragraphs 19 and 20,” were omitted from paragraph 5; and
 
                      (b)  the words “subject to the operation of paragraphs 19 and 21,” were omitted from paragraph 14.
 
-            21.  For the purpose of dealing further with declaration votes referred to in subparagraph 19(b), paragraphs 10 to 18, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 19 and 21,” were omitted from paragraph 14.
+             21.  For the purpose of dealing further with declaration votes referred to in subparagraph 19(b), paragraphs 10 to 18, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 19 and 21,” were omitted from paragraph 14.
 
 # Notes to the _Referendum (Machinery Provisions) Act 1984_
 
@@ -5048,7 +5046,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Electoral and Referendum Amendment (How‑to‑Vote Cards and Other Measures) Act 2010</div>
+    <div>Electoral and Referendum Amendment (How-to-Vote Cards and Other Measures) Act 2010</div>
   </td>
   <td>
     <div>108, 2010</div>
@@ -5065,7 +5063,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Electoral and Referendum Amendment (Pre‑poll Voting and Other Measures) Act 2010</div>
+    <div>Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010</div>
   </td>
   <td>
     <div>109, 2010</div>
@@ -5098,23 +5096,6 @@ Schedule 6 (items 11, 13–22): 14 Jan 2011</div>
   </td>
   <td>
     <div>Sch. 1 (items 21, 32), Sch. 5 (items 107, 108(2)), Sch. 6 (items 21, 22) and Sch. 8 (item 5) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 94): 19 April 2011</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -5445,7 +5426,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 120, 1984; No. 77, 1988; No. 24, 1990; No. 167,1991; No. 121, 1992; No. 94, 1998; No. 146, 1999; No. 34, 2001; No. 78, 2004; No. 65, 2006; No. 22, 2007; Nos. 109 and 110, 2010; No. 5, 2011</div>
+    <div>am. No. 120, 1984; No. 77, 1988; No. 24, 1990; No. 167,1991; No. 121, 1992; No. 94, 1998; No. 146, 1999; No. 34, 2001; No. 78, 2004; No. 65, 2006; No. 22, 2007; Nos. 109 and 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6917,7 +6898,7 @@ Part IVB</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 73Q(1)...............</div>
+    <div>Note to s. 73Q(1)................</div>
   </td>
   <td>
     <div>rep. No. 109, 2010</div>
@@ -7782,7 +7763,7 @@ Section 140AA of the _Referendum (Machinery Provisions) Act 1984_ applies in r
 
 * * *
 
-_Electoral and Referendum Amendment (How‑to‑Vote Cards and Other Measures) Act 2010 (No. 108, 2010)_
+_Electoral and Referendum Amendment (How-to-Vote Cards and Other Measures) Act 2010 (No. 108, 2010)_
 
 ## Schedule 2
 
@@ -7792,21 +7773,21 @@ The amendments made by this Schedule apply in relation to elections and referend
 
 * * *
 
-_Electoral and Referendum Amendment (Pre‑poll Voting and Other Measures) Act 2010 (No. 109, 2010)_
+_Electoral and Referendum Amendment (Pre-poll Voting and Other Measures) Act 2010 (No. 109, 2010)_
 
 ## Schedule 1
 
 ## 77  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
+(1)        The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
 
-(2)       However, the amendments do not apply to any by‑election that is held before the first general election to which the amendments apply.
+(2)        However, the amendments do not apply to any by-election that is held before the first general election to which the amendments apply.
 
 ## Schedule 2
 
 ## 189  Regulations
 
-The Governor‑General may make regulations of a transitional, application or saving nature in relation to the amendments and repeals made by this Schedule.
+The Governor-General may make regulations of a transitional, application or saving nature in relation to the amendments and repeals made by this Schedule.
 
 ## Schedule 4
 
@@ -7824,9 +7805,9 @@ _Electoral and Referendum Amendment (Modernisation and Other Measures) Act 2010 
 
 A form that, immediately before the commencement of this Part, was an approved form for any purpose of the _Referendum (Machinery Provisions) Act 1984_ continues to be an approved form for that purpose until another form becomes an approved form (as defined in subsection 3(1) of that Act as amended by this Part) for that purpose.
 
-## 32  Saving provision for pre‑poll voting offices
+## 32  Saving provision for pre-poll voting offices
 
-The amendments of section 73AA of the _Referendum (Machinery Provisions) Act 1984_ made by this Part do not affect the declaration of a place as a pre‑poll voting office under that section that was made before the commencement of this Part.
+The amendments of section 73AA of the _Referendum (Machinery Provisions) Act 1984_ made by this Part do not affect the declaration of a place as a pre-poll voting office under that section that was made before the commencement of this Part.
 
 ## Schedule 5
 
@@ -7836,7 +7817,7 @@ The amendments made by this Schedule apply in relation to elections and referend
 
 ## 108  Transitional
 
-(2)       Despite the amendment made by item 56, the definition of **_officer_** in subsection 3(1) of the _Referendum (Machinery Provisions) Act 1984_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 116 of that Act.
+(2)        Despite the amendment made by item 56, the definition of **_officer_** in subsection 3(1) of the _Referendum (Machinery Provisions) Act 1984_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 116 of that Act.
 
 ## Schedule 6
 
