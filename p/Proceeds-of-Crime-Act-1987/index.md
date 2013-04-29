@@ -1,9 +1,8 @@
 
 Proceeds of Crime Act 1987
 Act No. 87 of 1987 as amended
-This compilation was prepared on 16 October 2002 taking into account amendments up to Act No. 86 of 2002
+This compilation was prepared on 2 November 2001 taking into account amendments up to Act No. 135 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
@@ -2065,7 +2064,7 @@ authorise the provision by the Commonwealth to the applicant of such legal or fi
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Notes to the Proceeds of Crime Act 1987
-Note 1
+Note1
 The Proceeds of Crime Act 1987 as shown in this compilation comprises Act No. 87, 1987 amended as indicated in the Tables below.
 The Proceeds of Crime Act 1987 is affected by section 45 of the CSL Sale Act 1993.
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
@@ -2190,11 +2189,6 @@ National Crime Authority Legislation Amendment Act 2001
 1 Oct 2001
 Schedules 1‑7, 9‑12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 13 Oct 2001 (see Gazette 2001, No. S428) Remainder: Royal Assent
 —
-Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
-86, 2002
-11 Oct 2002
-Schedule 1 (items 2 and 3), Schedule 3 (item 7), Schedule 4 (items 30‑33) and Schedule 7 (items 1-16): [see (l) and Note 2]
-Sch. 7 (items 14‑16) [see Table A]
 (a)	The Proceeds of Crime Act 1987 was amended by sections 34-50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
 	(1)	Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. 
 	(2)	Parts II, VI, VII, VIII (other than section 47) and IX and Schedule 4 shall come into operation on the day on which this Act receives the Royal Assent.
@@ -2230,22 +2224,6 @@ Sch. 7 (items 14‑16) [see Table A]
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
-(l)	The Proceeds of Crime Act 1987 was amended by the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (items 2 and 5) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedules 1 to 4
-At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
-TBP or 11 April 2003 [see Note 2]
-5.  Schedules 6 and 7
-At the same time as sections 3 to 338 of the Proceeds of Crime Act 2002 commence
-TBP or 11 April 2003 [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -2422,71 +2400,6 @@ S. 102A
 ad. No. 120, 1987  
 
 
-Note 2
-Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
-The following amendments commence on 11 April 2003 unless proclaimed earlier:
-Schedule 1
-2  Subsection 4(1) (definition of proceeds of crime)
-Repeal the definition.
-3  Division 1 of Part V
-Repeal the Division.
-Schedule 3
-7  Division 4 of Part IV
-Repeal the Division.
-Schedule 4
-30  Paragraph 50(2)(d)
-Repeal the paragraph.
-31  Section 53
-Repeal the section.
-32  Paragraph 59(1)(f)
-Omit “53,”.
-33  Paragraph 90(2)(d)
-Repeal the paragraph.
-Schedule 7
-1  Subsection 4(1)
-Insert:
-commencement of the Proceeds of Crime Act 2002 means the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002.
-2  Subsection 14(2)
-Repeal the subsection, substitute:
-	(2)	The DPP:
-	(a)	is not empowered to make an application after the end of the relevant application period in relation to the conviction; and
-	(b)	is not empowered to make an application after the commencement of the Proceeds of Crime Act 2002 unless some or all of the property which could be used to satisfy the order is property in respect of which a restraining order is in force.
-3  After subsection 22(1)
-Insert:
-	(1A)	This section does not apply if the conviction is quashed after the commencement of the Proceeds of Crime Act 2002.
-Note:	Division 6 of Part 2‑2 of the Proceeds of Crime Act 2002 applies in relation to convictions quashed after that commencement: see subitem 21(1) of Schedule 7 to the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002.
-4  Paragraph 30(1)(b)
-Before “a restraining order”, insert “before the commencement of the Proceeds of Crime Act 2002,”.
-5  After subsection 32(1)
-Insert:
-	(1A)	This section does not apply if the conviction is quashed after the commencement of the Proceeds of Crime Act 2002.
-Note:	Division 4 of Part 2‑3 of the Proceeds of Crime Act 2002 applies in relation to convictions quashed after that commencement: see subitem 21(2) of Schedule 7 to the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002.
-6  After subsection 35(2)
-Insert:
-	(2A)	A police officer is not empowered to do anything under this section after the commencement of the Proceeds of Crime Act 2002 unless it is done under a warrant issued under section 36 of this Act for which an application was made under that section before that commencement.
-7  After subsection 43(2)
-Insert:
-	(2A)	The DPP is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
-8  Paragraph 57(2)(d)
-Repeal the paragraph, substitute:
-	(d)	if, within the relevant period in relation to the restraining order, the person is acquitted of the charge and the person is not charged with a related indictable offence by the time of the acquittal, the restraining order ceases to be in force:
-	(i)	in a case where the acquittal occurs after the commencement of the Proceeds of Crime Act 2002—at the end of the period of 28 days after the day of the acquittal; or
-	(ii)	otherwise—when the acquittal occurs;
-Note:	After the commencement of the Proceeds of Crime Act 2002, an application can be made under that Act (but not section 17) for a restraining order in relation to the offence, despite the acquittal.
-9  After subsection 66(1)
-Insert:
-	(1A)	A police officer is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
-10  At the end of section 70
-Add:
-	(2)	A police officer is not empowered to do anything under this section after the commencement of the Proceeds of Crime Act 2002 unless it is done under a search warrant issued under section 71 of this Act for which an application was made under that section before that commencement.
-11  After subsection 73(1)
-Insert:
-	(1A)	A police officer is not empowered to make an application under this section after the commencement of the Proceeds of Crime Act 2002.
-12  Subsection 86(1)
-After “interstate restraining order”, insert “made before the commencement of the Proceeds of Crime Act 2002”.
-13  Subsection 92(1)
-After “interstate forfeiture order”, insert “made before the commencement of the Proceeds of Crime Act 2002”.
-As at 16 October 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -2509,21 +2422,4 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 4  Application of amendments
 	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)
-The following provisions commence on 11 April 2003 unless proclaimed earlier:
-Schedule 7
-14  Effect on existing applications and orders
-The amendments made by this Part of this Schedule do not affect:
-	(a)	applications made under the Proceeds of Crime Act 1987 before the commencement of the Proceeds of Crime Act 2002; or
-	(b)	orders made, or warrants or search warrants issued, under the Proceeds of Crime Act 1987 before or after that commencement.
-15  Use of property etc. for purposes of the Proceeds of Crime Act 2002
-To avoid doubt, the fact that property, documents or information have:
-	(a)	been seized or otherwise obtained under the Proceeds of Crime Act 1987; or
-	(b)	been obtained as a direct or indirect result of action taken under that Act;
-does not prevent the property, documents or information being used for the purposes of the Proceeds of Crime Act 2002.
-16  Obligations of financial institutions
-Despite the repeal of Division 4 of Part IV of the Proceeds of Crime Act 1987 by Schedule 3 to this Act:
-	(a)	that Division continues to apply in relation to any document in relation to which it applied immediately before the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002; and
-	(b)	Part VIA of the Financial Transaction Reports Act 1988 does not apply to any such document.
 
