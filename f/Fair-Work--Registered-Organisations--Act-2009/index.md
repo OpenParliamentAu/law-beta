@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00174/Html/cd8dba15-af9d-4db7-ba0f-7df59ef627a2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00228/Html/f5e87c51-6876-4252-9ed9-d86339bb216c_files/image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 4 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -196,7 +196,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67](#67).          Further ballot if amalgamation not approved
 
-[68](#68).          Post‑ballot report by AEC
+[68](#68).          Post-ballot report by AEC
 
 [69](#69).          Inquiries into irregularities
 
@@ -210,7 +210,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [73](#73).          Action to be taken after ballot
 
-[74](#74).          Assets and liabilities of de‑registered organisation become assets and liabilities of amalgamated organisation
+[74](#74).          Assets and liabilities of de-registered organisation become assets and liabilities of amalgamated organisation
 
 [75](#75).          Resignation from membership
 
@@ -284,7 +284,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106](#106).        Certificate showing particulars of the ballot
 
-[107](#107).        Post‑ballot report by AEC
+[107](#107).        Post-ballot report by AEC
 
 [108](#108).        Inquiries into irregularities
 
@@ -380,7 +380,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [138](#138).        Exercise of FWA’s powers under this Chapter
 
-[138A](#138A).     Representation rights of former State‑registered associations
+[138A](#138A).     Representation rights of former State-registered associations
 
 **Chapter 5—Rules of organisations** 
 
@@ -494,9 +494,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [171A](#171A).     Cessation of membership if member is not an employee etc 
 
-[172](#172).        Non‑financial members to be removed from the register
+[172](#172).        Non-financial members to be removed from the register
 
-[173](#173).        No entrance fee if person re‑joins within 6 months
+[173](#173).        No entrance fee if person re-joins within 6 months
 
 [174](#174).        Resignation from membership
 
@@ -554,7 +554,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [196](#196).        Death of candidate
 
-[197](#197).        Post‑election report by AEC
+[197](#197).        Post-election report by AEC
 
 [198](#198).        Organisation to respond to adverse report on rules
 
@@ -1020,11 +1020,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Modification of this Act
 
-**Schedule 2—Recognised State‑registered associations**
+**Schedule 2—Recognised State-registered associations**
 
-[1](#1).            Recognition of State‑registered associations
+[1](#1).            Recognition of State-registered associations
 
-[2](#2).            Application of Fair Work Act to recognised State‑registered associations
+[2](#2).            Application of Fair Work Act to recognised State-registered associations
 
 [3](#3).            Cancellation of recognition
 
@@ -1080,7 +1080,7 @@ Note:          Schedule 1 is about transitionally recognised
 
                    Schedule 2 has effect.
 
-Note:          Schedule 2 is about recognised State‑registered associations.
+Note:          Schedule 2 is about recognised State-registered associations.
 
 ##### <a id="6"></a>6  Definitions
 
@@ -1118,7 +1118,7 @@ as in force, or applicable, from time to time, as modified by regulations made f
 
                     <a name="australian-build-construct-inspector"></a>**_Australian Building and Construction Inspector_** has the same meaning as in the _Building and Construction Industry Improvement Act 2005_.
 
-                    <a name="breach"></a>**_breach_** includes non‑observance.
+                    <a name="breach"></a>**_breach_** includes non-observance.
 
                     <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by subsection 305(2).
 
@@ -1310,7 +1310,7 @@ Note:          Section 240 provides for a different financia
 
                     <a name="offic"></a>**_officer_**, in relation to an organisation, or a branch of an organisation, means a person who holds an office in the organisation or branch (including such a person when performing duties as a designated officer under Part 3 of Chapter 8).
 
-                    <a name="on-tier-collegi-elector-system"></a>**_one‑tier collegiate electoral system_** means a collegiate electoral system comprising only one stage after the first stage.
+                    <a name="on-tier-collegi-elector-system"></a>**_one-tier collegiate electoral system_** means a collegiate electoral system comprising only one stage after the first stage.
 
                     <a name="operating-report"></a>**_operating report_** means the report prepared under section 254.
 
@@ -1334,7 +1334,7 @@ Note:          Organisations registered under the _Workplace R
 
                     <a name="public-sector-employ"></a>**_public sector employment_** has the same meaning as in the Fair Work Act.
 
-                    <a name="recognis-state-regist-associ"></a>**_recognised State‑registered association_** means a State‑registered association that is recognised under Schedule 2.
+                    <a name="recognis-state-regist-associ"></a>**_recognised State-registered association_** means a State-registered association that is recognised under Schedule 2.
 
                     <a name="report-guidelin"></a>**_reporting guidelines_** mean the guidelines issued under section 255.
 
@@ -1342,7 +1342,7 @@ Note:          Organisations registered under the _Workplace R
 
                     <a name="state-award"></a>**_State award_** means an award, order, decision or determination of a State industrial authority.
 
-                    <a name="state-demarc-order"></a>**_State demarcation order_** means a State award, to the extent that it relates to the rights of a State‑registered association to represent the interests under a State or Territory industrial law of a particular class or group of employees.
+                    <a name="state-demarc-order"></a>**_State demarcation order_** means a State award, to the extent that it relates to the rights of a State-registered association to represent the interests under a State or Territory industrial law of a particular class or group of employees.
 
                     <a name="state-industri-author"></a>**_State industrial authority_** means:
 
@@ -1354,13 +1354,13 @@ Note:          Organisations registered under the _Workplace R
 
                     <a name="state-territori-industri-law"></a>**_State or Territory industrial law_** has the same meaning as in the Fair Work Act.
 
-                    <a name="state-regist-associ"></a>**_State‑registered association_** has the meaning given by clause 1 of Schedule 1.
+                    <a name="state-regist-associ"></a>**_State-registered association_** has the meaning given by clause 1 of Schedule 1.
 
                     <a name="superannu-entiti"></a>**_superannuation entity_** has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
 
                     <a name="act"></a>**_this Act_** includes regulations made under this Act.
 
-                    <a name="transition-recognis-associ"></a>**_transitionally recognised association_** means a State‑registered association that is recognised under Schedule 1.
+                    <a name="transition-recognis-associ"></a>**_transitionally recognised association_** means a State-registered association that is recognised under Schedule 1.
 
                     <a name="vocat-placem"></a>**_vocational placement_** has the same meaning as in the Fair Work Act.
 
@@ -1446,7 +1446,7 @@ with intent that a computer, a machine or other device should respond to the fal
 
                      (d)  with the result that another person would be induced to do or refrain from doing an act;
 
-the first‑mentioned person is taken to have **_forged_** the document.
+the first-mentioned person is taken to have **_forged_** the document.
 
 Uttering
 
@@ -2006,7 +2006,7 @@ that registration is taken, for all purposes, to be valid and to have always bee
 
                               (i)  an injunction granted under subsection 421(3) of the Fair Work Act (which deals with orders to stop industrial action); or
 
-                             (ii)  an order made under the Fair Work Act in relation to a contravention of Part 3‑1 of that Act (which deals with general protections); or
+                             (ii)  an order made under the Fair Work Act in relation to a contravention of Part 3-1 of that Act (which deals with general protections); or
 
                             (iv)  an interim injunction granted under section 545 of the Fair Work Act so far as it relates to conduct or proposed conduct that could be the subject of an injunction or order under a provision of the Fair Work Act mentioned in subparagraphs (i) to (iii); or
 
@@ -2048,9 +2048,9 @@ the Court may, if it considers it just to do so, instead of cancelling the regis
 
                      (a)  under section 23 or subsection 131(2) of this Act; or
 
-                     (b)  under Division 4 of Part 3‑3 or Part 4‑1 of the Fair Work Act; or
+                     (b)  under Division 4 of Part 3-3 or Part 4-1 of the Fair Work Act; or
 
-                     (c)  under the Fair Work Act in relation to a contravention of Part 3‑1 of that Act;
+                     (c)  under the Fair Work Act in relation to a contravention of Part 3-1 of that Act;
 
 is admissible as prima facie evidence of that fact in an application made on a ground specified in paragraph (1)(d).
 
@@ -2070,7 +2070,7 @@ is admissible as prima facie evidence of that fact in an application made on a g
 
                      (a)  the orders made in the exercise of the power cease to be in force; or
 
-                     (b)  on application by a party to the proceeding, the Court considers that it is just to determine the question, having regard to any evidence given relating to the observance or non‑observance of any order and to any other relevant circumstance;
+                     (b)  on application by a party to the proceeding, the Court considers that it is just to determine the question, having regard to any evidence given relating to the observance or non-observance of any order and to any other relevant circumstance;
 
 whichever is earlier.
 
@@ -2212,7 +2212,7 @@ Part 3 also sets out the consequences of a withdrawal from amalgamation (for e
 
                     <a name="altern-provision"></a>**_alternative provision_** means a provision of the kind mentioned in subsection 41(1).
 
-                    <a name="amalgamated-organis"></a>**_amalgamated organisation_**, in relation to a completed amalgamation, means the organisation of which members of the de‑registered organisations have become members under paragraph 73(3)(d).
+                    <a name="amalgamated-organis"></a>**_amalgamated organisation_**, in relation to a completed amalgamation, means the organisation of which members of the de-registered organisations have become members under paragraph 73(3)(d).
 
                     <a name="amalgam-dai"></a>**_amalgamation day_**, in relation to a completed amalgamation, means the day fixed under subsection 73(2) in relation to the amalgamation.
 
@@ -2238,9 +2238,9 @@ Part 3 also sets out the consequences of a withdrawal from amalgamation (for e
 
                     <a name="defect"></a>**_defect_** includes a nullity, omission, error or irregularity.
 
-                    <a name="de-regist-organis"></a>**_de‑registered organisation_**, in relation to a completed amalgamation, means an organisation that has been de‑registered under this Part.
+                    <a name="de-regist-organis"></a>**_de-registered organisation_**, in relation to a completed amalgamation, means an organisation that has been de-registered under this Part.
 
-                    <a name="de-registr"></a>**_de‑registration_**, in relation to an organisation, means the cancellation of its registration.
+                    <a name="de-registr"></a>**_de-registration_**, in relation to an organisation, means the cancellation of its registration.
 
                     <a name="holder"></a>**_holder_**, in relation to a charge, includes a person in whose favour a charge is to be given or executed (whether on demand or otherwise) under an agreement.
 
@@ -2260,13 +2260,13 @@ whether express or implied and whether made or given orally or in writing.
 
                     <a name="instrum-part-appli"></a>**_instrument to which this Part applies_**, in relation to a completed amalgamation, means an instrument:
 
-                     (a)  to which a de‑registered organisation is a party; or
+                     (a)  to which a de-registered organisation is a party; or
 
-                     (b)  that was given to, by, or in favour of, a de‑registered organisation; or
+                     (b)  that was given to, by, or in favour of, a de-registered organisation; or
 
-                     (c)  in which a reference is made to a de‑registered organisation; or
+                     (c)  in which a reference is made to a de-registered organisation; or
 
-                     (d)  under which any money is or may become payable, or any other property is to be, or may become liable to be, transferred, conveyed or assigned, to or by a de‑registered organisation.
+                     (d)  under which any money is or may become payable, or any other property is to be, or may become liable to be, transferred, conveyed or assigned, to or by a de-registered organisation.
 
                     <a name="interest"></a>**_interest_**:
 
@@ -2284,19 +2284,19 @@ whether express or implied and whether made or given orally or in writing.
 
                     <a name="liabil"></a>**_liability_** means a liability of any kind, and includes an obligation of any kind (whether arising under an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing).
 
-                    <a name="proceing-part-appli"></a>**_proceeding to which this Part applies_**, in relation to a completed amalgamation, means a proceeding to which a de‑registered organisation was a party immediately before the amalgamation day.
+                    <a name="proceing-part-appli"></a>**_proceeding to which this Part applies_**, in relation to a completed amalgamation, means a proceeding to which a de-registered organisation was a party immediately before the amalgamation day.
 
                     <a name="propos-altern-amalgam"></a>**_proposed alternative amalgamation_**, in relation to a proposed amalgamation, means an amalgamation proposed to be made under an alternative provision.
 
-                    <a name="propos-amalgamated-organis"></a>**_proposed amalgamated organisation_**, in relation to a proposed amalgamation, means the organisation or proposed organisation of which members of the proposed de‑registering organisations are proposed to become members under this Part.
+                    <a name="propos-amalgamated-organis"></a>**_proposed amalgamated organisation_**, in relation to a proposed amalgamation, means the organisation or proposed organisation of which members of the proposed de-registering organisations are proposed to become members under this Part.
 
                     <a name="propos-amalgam"></a>**_proposed amalgamation_** means the proposed carrying out of arrangements in relation to 2 or more organisations under which:
 
-                     (a)  an organisation is, or 2 or more organisations are, to be de‑registered under this Part; and
+                     (a)  an organisation is, or 2 or more organisations are, to be de-registered under this Part; and
 
-                     (b)  members of the organisation or organisations to be de‑registered are to become members of another organisation (whether existing or proposed).
+                     (b)  members of the organisation or organisations to be de-registered are to become members of another organisation (whether existing or proposed).
 
-                    <a name="propos-de-regist-organis"></a>**_proposed de‑registering organisation_**, in relation to a proposed amalgamation, means an organisation that is to be de‑registered under this Part.
+                    <a name="propos-de-regist-organis"></a>**_proposed de-registering organisation_**, in relation to a proposed amalgamation, means an organisation that is to be de-registered under this Part.
 
                     <a name="propos-princip-amalgam"></a>**_proposed principal amalgamation_**, in relation to a proposed amalgamation, means:
 
@@ -2310,7 +2310,7 @@ whether express or implied and whether made or given orally or in writing.
 
              (2)  Where it appears to FWA that the performance of an act, including:
 
-                     (a)  the de‑registration of an organisation; and
+                     (a)  the de-registration of an organisation; and
 
                      (b)  the registration of an organisation; and
 
@@ -2412,7 +2412,7 @@ Federation does not limit representation rights of organisations
 
                              (ii)  if an association proposed to be registered as an organisation is the proposed amalgamated organisation—that fact and the name of the association; and
 
-                            (iii)  the proposed de‑registering organisations;
+                            (iii)  the proposed de-registering organisations;
 
                      (b)  if it is proposed to change the name of an existing organisation—particulars of the proposed change;
 
@@ -2478,7 +2478,7 @@ Making of declaration
 
              (4)  If, at the conclusion of the hearing arranged under subsection (3) or section 53 in relation to the proposed amalgamation, FWA is satisfied that there is a community of interest between the existing organisations in relation to their industrial interests, FWA must declare that it is so satisfied.
 
-Pre‑conditions to making of declaration
+Pre-conditions to making of declaration
 
              (5)  FWA must be satisfied, for the purposes of subsection (4), that there is a community of interest between organisations of employees in relation to their industrial interests if FWA is satisfied that a substantial number of members of one of the organisations are:
 
@@ -2546,7 +2546,7 @@ the declaration ceases to be in force.
 
 may, despite section 143, make provision in relation to:
 
-                     (c)  the holding of office in the proposed amalgamated organisation by persons holding office in any of the proposed de‑registering organisations immediately before the amalgamation takes effect; and
+                     (c)  the holding of office in the proposed amalgamated organisation by persons holding office in any of the proposed de-registering organisations immediately before the amalgamation takes effect; and
 
                      (d)  in a case to which paragraph (b) applies—the continuation of the holding of office by persons holding office in the proposed amalgamated organisation immediately before the amalgamation takes effect;
 
@@ -2700,7 +2700,7 @@ Approval must be given if certain conditions satisfied
 
                      (d)  any proposed alterations of the rules of an existing organisation comply with, and are not contrary to, this Act, the Fair Work Act, modern awards or enterprise agreements, and are not contrary to law; and
 
-                     (e)  any proposed de‑registration of an existing organisation complies with this Act and is not otherwise contrary to law;
+                     (e)  any proposed de-registration of an existing organisation complies with this Act and is not otherwise contrary to law;
 
 FWA must approve the submission of the amalgamation to ballot.
 
@@ -2784,7 +2784,7 @@ Approval must be given if certain conditions satisfied
 
                             (iii)  an alteration of the rules of an organisation; or
 
-                            (iv)  the de‑registration of an organisation under this Part;
+                            (iv)  the de-registration of an organisation under this Part;
 
                             it complies with, and is not contrary to, this Act, the Fair Work Act, modern awards and enterprise agreements and is not otherwise contrary to law;
 
@@ -3134,7 +3134,7 @@ and FWA may give such directions and make such further orders as FWA considers n
 
              (3)  Subsection (2) does not by implication require a further application under section 44 to be lodged within the 12 month period mentioned in that subsection.
 
-##### <a id="68"></a>68  Post‑ballot report by AEC
+##### <a id="68"></a>68  Post-ballot report by AEC
 
              (1)  After the completion of a ballot under this Part, the AEC must give a report on the conduct of the ballot to:
 
@@ -3298,9 +3298,9 @@ FWA must, after consultation with the existing organisations, by notice publishe
 
                      (b)  any proposed alteration of the rules of an existing organisation concerned in the amalgamation takes effect; and
 
-                     (c)  FWA must de‑register the proposed de‑registering organisations; and
+                     (c)  FWA must de-register the proposed de-registering organisations; and
 
-                     (d)  the persons who, immediately before that day, were members of a proposed de‑registering organisation become, by force of this section and without payment of entrance fee, members of the proposed amalgamated organisation.
+                     (d)  the persons who, immediately before that day, were members of a proposed de-registering organisation become, by force of this section and without payment of entrance fee, members of the proposed amalgamated organisation.
 
              (4)  If:
 
@@ -3310,29 +3310,29 @@ FWA must, after consultation with the existing organisations, by notice publishe
 
 FWA may make any order it considers appropriate to require the organisation to comply with the undertaking.
 
-##### <a id="74"></a>74  Assets and liabilities of de‑registered organisation become assets and liabilities of amalgamated organisation
+##### <a id="74"></a>74  Assets and liabilities of de-registered organisation become assets and liabilities of amalgamated organisation
 
-             (1)  On the amalgamation day, all assets and liabilities of a de‑registered organisation cease to be assets and liabilities of that organisation and become assets and liabilities of the amalgamated organisation.
+             (1)  On the amalgamation day, all assets and liabilities of a de-registered organisation cease to be assets and liabilities of that organisation and become assets and liabilities of the amalgamated organisation.
 
-             (2)  For all purposes and in all proceedings, an asset or liability of a de‑registered organisation existing immediately before the amalgamation day is taken to have become an asset or liability of the amalgamated organisation on that day.
+             (2)  For all purposes and in all proceedings, an asset or liability of a de-registered organisation existing immediately before the amalgamation day is taken to have become an asset or liability of the amalgamated organisation on that day.
 
 ##### <a id="75"></a>75  Resignation from membership
 
-                   When the day on which the proposed amalgamation is to take effect is fixed, section 174 has effect in relation to resignation from membership of a proposed de‑registering organisation as if the reference in subsection 174(2) to 2 weeks were a reference to one week or such lesser period as FWA directs.
+                   When the day on which the proposed amalgamation is to take effect is fixed, section 174 has effect in relation to resignation from membership of a proposed de-registering organisation as if the reference in subsection 174(2) to 2 weeks were a reference to one week or such lesser period as FWA directs.
 
 ##### <a id="76"></a>76  Effect of amalgamation on modern awards, orders and enterprise agreements
 
                    On and from the amalgamation day:
 
-                     (a)  a modern award or an enterprise agreement that, immediately before that day, covered a proposed de‑registering organisation and its members covers, by force of this section, the proposed amalgamated organisation and its members; and
+                     (a)  a modern award or an enterprise agreement that, immediately before that day, covered a proposed de-registering organisation and its members covers, by force of this section, the proposed amalgamated organisation and its members; and
 
-                    (aa)  a modern award, an order of FWA or an enterprise agreement that, immediately before that day, applied to a proposed de‑registering organisation and its members applies to, by force of this section, the proposed amalgamated organisation and its members; and
+                    (aa)  a modern award, an order of FWA or an enterprise agreement that, immediately before that day, applied to a proposed de-registering organisation and its members applies to, by force of this section, the proposed amalgamated organisation and its members; and
 
-                     (b)  the award, order or agreement has effect for all purposes (including the obligations of employers and organisations of employers) as if references in the award, order or agreement to a de‑registered organisation included references to the amalgamated organisation.
+                     (b)  the award, order or agreement has effect for all purposes (including the obligations of employers and organisations of employers) as if references in the award, order or agreement to a de-registered organisation included references to the amalgamated organisation.
 
 ##### <a id="77"></a>77  Effect of amalgamation on agreement under section 151
 
-             (1)  Unless the scheme of a proposed amalgamation otherwise provides, an agreement in force under section 151 to which a de‑registered organisation was a party continues in force on and from the amalgamation day as if references in the agreement to the de‑registered organisation were references to the amalgamated organisation.
+             (1)  Unless the scheme of a proposed amalgamation otherwise provides, an agreement in force under section 151 to which a de-registered organisation was a party continues in force on and from the amalgamation day as if references in the agreement to the de-registered organisation were references to the amalgamated organisation.
 
              (2)  The General Manager must enter in the register kept under paragraph 13(1)(a) particulars of the effect of the amalgamation on the agreement.
 
@@ -3340,15 +3340,15 @@ FWA may make any order it considers appropriate to require the organisation to c
 
              (1)  On and after the amalgamation day, an instrument to which this Part applies continues, subject to subsection (2), in full force and effect.
 
-             (2)  The instrument has effect, in relation to acts, omissions, transactions and matters done, entered into or occurring on or after that day as if a reference in the instrument to a de‑registered organisation were a reference to the amalgamated organisation.
+             (2)  The instrument has effect, in relation to acts, omissions, transactions and matters done, entered into or occurring on or after that day as if a reference in the instrument to a de-registered organisation were a reference to the amalgamated organisation.
 
 ##### <a id="79"></a>79  Pending proceedings
 
                    Where, immediately before the amalgamation day, a proceeding to which this Part applies was pending in a court or before FWA:
 
-                     (a)  the amalgamated organisation is, on that day, substituted for each de‑registered organisation as a party; and
+                     (a)  the amalgamated organisation is, on that day, substituted for each de-registered organisation as a party; and
 
-                     (b)  the proceeding is to continue as if the amalgamated organisation were, and had always been, the de‑registered organisation.
+                     (b)  the proceeding is to continue as if the amalgamated organisation were, and had always been, the de-registered organisation.
 
 ##### <a id="80"></a>80  Division applies despite laws and agreements prohibiting transfer etc.
 
@@ -3396,7 +3396,7 @@ FWA may make any order it considers appropriate to require the organisation to c
 
                             (iii)  states that the land or interest has, under this Division, become land or an interest in land of the amalgamated organisation;
 
-                            is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may:
 
@@ -3588,7 +3588,7 @@ the Court must, by order, declare accordingly.
 
                    The object of this Part is to provide for:
 
-                     (a)  certain organisations that have taken part in amalgamations (either under this Act or the _Workplace Relations Act 1996_ as in force before the commencement of this Part) to be reconstituted and re‑registered; and
+                     (a)  certain organisations that have taken part in amalgamations (either under this Act or the _Workplace Relations Act 1996_ as in force before the commencement of this Part) to be reconstituted and re-registered; and
 
                      (b)  branches of organisations of that kind to be formed into organisations and registered;
 
@@ -3598,7 +3598,7 @@ in a way that is fair to the members of the organisations concerned and the cred
 
              (1)  In this Part, unless the contrary intention appears:
 
-                    <a name="amalgamated-organis"></a>**_amalgamated organisation_**, in relation to an amalgamation, means the organisation of which members of a de‑registered organisation became members under paragraph 73(3)(d) but does not include any such organisation that was subsequently de‑registered under Part 2.
+                    <a name="amalgamated-organis"></a>**_amalgamated organisation_**, in relation to an amalgamation, means the organisation of which members of a de-registered organisation became members under paragraph 73(3)(d) but does not include any such organisation that was subsequently de-registered under Part 2.
 
                     <a name="asset"></a>**_asset_** has the same meaning as in Part 2.
 
@@ -3620,7 +3620,7 @@ in a way that is fair to the members of the organisations concerned and the cred
 
                              (ii)  the organisation of which the constituent part was a branch;
 
-                            as the case requires, were still registered as an organisation with the same rules as it had when it was de‑registered under Part 2.
+                            as the case requires, were still registered as an organisation with the same rules as it had when it was de-registered under Part 2.
 
                     <a name="constitu-part"></a>**_constituent part_**, in relation to an amalgamated organisation, means:
 
@@ -3628,11 +3628,11 @@ in a way that is fair to the members of the organisations concerned and the cred
 
                      (b)  a part of the membership of the amalgamated organisation that would have been eligible for membership of:
 
-                              (i)  an organisation de‑registered under Part 2 in connection with the formation of the amalgamated organisation; or
+                              (i)  an organisation de-registered under Part 2 in connection with the formation of the amalgamated organisation; or
 
-                             (ii)  a State or Territory branch of such a de‑registered organisation;
+                             (ii)  a State or Territory branch of such a de-registered organisation;
 
-                            if the de‑registration had not occurred.
+                            if the de-registration had not occurred.
 
                     <a name="debentur"></a>**_debenture_** has the same meaning as in Part 2.
 
@@ -3666,21 +3666,21 @@ in a way that is fair to the members of the organisations concerned and the cred
 
                     <a name="separ-identifi-constitu-part"></a>**_separately identifiable constituent part_**, in relation to an amalgamated organisation, means:
 
-                     (a)  if an organisation de‑registered under Part 2 in connection with the formation of the amalgamated organisation remains separately identifiable under the rules of the amalgamated organisation as a branch, division or part of that organisation—that branch, division or part; or
+                     (a)  if an organisation de-registered under Part 2 in connection with the formation of the amalgamated organisation remains separately identifiable under the rules of the amalgamated organisation as a branch, division or part of that organisation—that branch, division or part; or
 
-                     (b)  if a State or Territory branch of such a de‑registered organisation under its rules as in force immediately before its de‑registration remains separately identifiable under the rules of the amalgamated organisation as a branch, division or part of that organisation—that branch, division or part.
+                     (b)  if a State or Territory branch of such a de-registered organisation under its rules as in force immediately before its de-registration remains separately identifiable under the rules of the amalgamated organisation as a branch, division or part of that organisation—that branch, division or part.
 
                     <a name="withdraw-dai"></a>**_withdrawal day_**, in relation to a completed withdrawal from amalgamation, means the day fixed under paragraph 109(1)(a) in relation to the withdrawal from amalgamation.
 
-             (2)  For the purposes of this Part, an organisation is taken to have been de‑registered under Part 2 in connection with the formation of an amalgamated organisation if the de‑registration occurred in connection with the formation of:
+             (2)  For the purposes of this Part, an organisation is taken to have been de-registered under Part 2 in connection with the formation of an amalgamated organisation if the de-registration occurred in connection with the formation of:
 
                      (a)  the amalgamated organisation; or
 
-                     (b)  another organisation that was subsequently de‑registered under Part 2 in connection with the formation of:
+                     (b)  another organisation that was subsequently de-registered under Part 2 in connection with the formation of:
 
                               (i)  the amalgamated organisation; or
 
-                             (ii)  an organisation that, through one or more previous applications of this subsection, is taken to have been de‑registered under Part 2 in connection with the formation of the amalgamated organisation.
+                             (ii)  an organisation that, through one or more previous applications of this subsection, is taken to have been de-registered under Part 2 in connection with the formation of the amalgamated organisation.
 
 ### Division 2—Ballots for withdrawal from amalgamated organisations
 
@@ -4000,7 +4000,7 @@ Secrecy of vote
 
              (3)  Immediately after signing a certificate referred to in subsection (1), the electoral official must make a copy of the certificate available in any way that it considers appropriate to each applicant under paragraph 94(3)(a).
 
-##### <a id="107"></a>107  Post‑ballot report by AEC
+##### <a id="107"></a>107  Post-ballot report by AEC
 
              (1)  After the completion of the ballot, the AEC must give a report on the conduct of the ballot to:
 
@@ -4058,7 +4058,7 @@ and may make such further orders as it considers necessary or desirable.
 
              (2)  In making an order under paragraph (1)(b), the Court must have regard to:
 
-                     (a)  the assets and liabilities of the constituent part before it, or the organisation of which it was a State or Territory branch, was de‑registered under Part 2 in connection with the formation of the amalgamated organisation; and
+                     (a)  the assets and liabilities of the constituent part before it, or the organisation of which it was a State or Territory branch, was de-registered under Part 2 in connection with the formation of the amalgamated organisation; and
 
                      (b)  any change in the net value of those assets or liabilities that has occurred since the amalgamation; and
 
@@ -4262,7 +4262,7 @@ then, on and after that day, the newly registered organisation:
 
                             (iii)  states that the land or interest has, under this Division, become land or an interest in land of the newly registered organisation;
 
-                            is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may:
 
@@ -4656,7 +4656,7 @@ Note:          Section 151 deals with agreements between org
 
 ## Part 3—Representation orders for workplace groups
 
-_Note:       In addition to registered organisations, this Part also applies to transitionally recognised associations (see clause 3 of Schedule 1) and recognised State‑registered associations (see clause 2 of Schedule 2)._
+_Note:       In addition to registered organisations, this Part also applies to transitionally recognised associations (see clause 3 of Schedule 1) and recognised State-registered associations (see clause 2 of Schedule 2)._
 
 ##### <a id="137A"></a>137A  Orders about representation rights of organisations of employees
 
@@ -4768,9 +4768,9 @@ FWA may, on application by the organisation or by a party to the State represent
 
                    The powers of FWA under this Chapter are exercisable only by a Full Bench.
 
-##### <a id="138A"></a>138A  Representation rights of former State‑registered associations
+##### <a id="138A"></a>138A  Representation rights of former State-registered associations
 
-             (1)  Regulations made for the purposes of this subsection may modify the way in which this Chapter applies in relation to an organisation that, before becoming recognised under this Act, was a State‑registered association or a transitionally recognised association.
+             (1)  Regulations made for the purposes of this subsection may modify the way in which this Chapter applies in relation to an organisation that, before becoming recognised under this Act, was a State-registered association or a transitionally recognised association.
 
              (2)  Without limiting subsection (1), the regulations may specify the weight that FWA is to give, in making an order in relation to the rights of such an organisation to represent the interests under this Act or the Fair Work Act of a particular class or group of employees, to a State demarcation order.
 
@@ -4888,7 +4888,7 @@ Note 2:       See also section 179 (liability for arrears).
 
                               (i)  a direct voting system; or
 
-                             (ii)  a collegiate electoral system that, in the case of a full‑time office, is a one‑tier collegiate electoral system; and
+                             (ii)  a collegiate electoral system that, in the case of a full-time office, is a one-tier collegiate electoral system; and
 
                      (b)  must provide for the conduct of every such election (including the acceptance or rejection of nominations) by a returning officer who is not the holder of any office in, or an employee of, the organisation or a branch, section or division of the organisation; and
 
@@ -4976,7 +4976,7 @@ Note:          Subsection 604(1) of the Fair Work Act provides
 
 ##### <a id="145"></a>145  Rules to provide for terms of office
 
-             (1)  The rules of an organisation must, subject to subsection (2), provide terms of office for officers in the organisation of no longer than 4 years without re‑election.
+             (1)  The rules of an organisation must, subject to subsection (2), provide terms of office for officers in the organisation of no longer than 4 years without re-election.
 
              (2)  The rules of an organisation, or a branch of an organisation, may provide that a particular term of office is extended for a specified period, where the extension is for the purpose of synchronising elections for offices in the organisation or branch, as the case may be.
 
@@ -4992,7 +4992,7 @@ Note:          Subsection 604(1) of the Fair Work Act provides
 
                      (a)  12 months; or
 
-                     (b)  three‑quarters of the term of the office;
+                     (b)  three-quarters of the term of the office;
 
 whichever is the greater.
 
@@ -5010,7 +5010,7 @@ whichever is the greater.
 
                      (b)  the rules of the organisation (other than rules made under subsection (1)) providing for the filling of a casual vacancy in an office otherwise than by an ordinary election.
 
-                    <a name="term"></a>**_term_**, in relation to an office, means the total period for which the last person elected to the office by an ordinary election (other than an ordinary election to fill a casual vacancy in the office) was entitled by virtue of that election (having regard to any rule made under subsection 145(2)) to hold the office without being re‑elected.
+                    <a name="term"></a>**_term_**, in relation to an office, means the total period for which the last person elected to the office by an ordinary election (other than an ordinary election to fill a casual vacancy in the office) was entitled by virtue of that election (having regard to any rule made under subsection 145(2)) to hold the office without being re-elected.
 
 ##### <a id="147"></a>147  Model rules for conduct of elections
 
@@ -5060,7 +5060,7 @@ Note:          Part 4 of Chapter 8 deals with the conduct 
 
                              (ii)  whether the arrangements for the repayment of the loan are satisfactory.
 
-             (4)  Nothing in subsection (1) requires the rules of an organisation to make provision of the kind referred to in that subsection in relation to payments made by the organisation by way of provision for, or reimbursement of, out‑of‑pocket expenses incurred by persons for the benefit of the organisation.
+             (4)  Nothing in subsection (1) requires the rules of an organisation to make provision of the kind referred to in that subsection in relation to payments made by the organisation by way of provision for, or reimbursement of, out-of-pocket expenses incurred by persons for the benefit of the organisation.
 
              (5)  In this section, a reference to an **_organisation_** includes a reference to a branch of an organisation.
 
@@ -5258,7 +5258,7 @@ and the Court may make such orders as it thinks fit.
 
                      (a)  in the course of an organisation being registered under section 19, an undertaking was given under subsection 19(2) to avoid demarcation disputes that might otherwise arise from an overlap between its eligibility rules and the eligibility rules of another organisation; and
 
-                     (b)  the first‑mentioned organisation has breached the undertaking;
+                     (b)  the first-mentioned organisation has breached the undertaking;
 
 FWA may, by instrument, determine such alterations of the rules of the organisation as are, in FWA’s opinion, necessary to remove the overlap.
 
@@ -5682,7 +5682,7 @@ the person’s membership of the organisation immediately ceases.
 
              (2)  Subsection (1) has effect despite anything in the rules of the organisation.
 
-##### <a id="172"></a>172  Non‑financial members to be removed from the register
+##### <a id="172"></a>172  Non-financial members to be removed from the register
 
              (1)  If:
 
@@ -5702,9 +5702,9 @@ Note:          This subsection is a civil penalty provision (s
 
              (3)  A person whose name is removed from the register under this section ceases to be a member of the organisation on the day his or her name is removed. This subsection has effect in spite of anything in the rules of the organisation.
 
-Note:          A non‑financial member’s membership might cease and his or her name be removed from the register earlier than is provided for by this section if the organisation’s own rules provide for this to happen.
+Note:          A non-financial member’s membership might cease and his or her name be removed from the register earlier than is provided for by this section if the organisation’s own rules provide for this to happen.
 
-##### <a id="173"></a>173  No entrance fee if person re‑joins within 6 months
+##### <a id="173"></a>173  No entrance fee if person re-joins within 6 months
 
              (1)  If:
 
@@ -6168,7 +6168,7 @@ Secrecy of vote
 
 the election must be discontinued and a new election held.
 
-##### <a id="197"></a>197  Post‑election report by AEC
+##### <a id="197"></a>197  Post-election report by AEC
 
 Requirement for AEC to make report
 
@@ -6210,7 +6210,7 @@ Note:          An organisation can obtain an exemption from th
 
 Organisation must respond to “difficult rules” report
 
-             (1)  If an organisation or branch is given a post‑election report under section 197 that identifies a rule that was difficult to interpret or apply, the organisation or branch must, within 30 days, give a written response to the AEC on that aspect of the report.
+             (1)  If an organisation or branch is given a post-election report under section 197 that identifies a rule that was difficult to interpret or apply, the organisation or branch must, within 30 days, give a written response to the AEC on that aspect of the report.
 
 Note:          This subsection is a civil penalty provision (see section 305).
 
@@ -6258,7 +6258,7 @@ Definitions
 
                     <a name="appropri-newspap"></a>**_appropriate newspaper_**, in relation to an organisation or branch, means a newspaper, or newspapers, whose circulation covers the main geographical areas where members of the organisation or branch reside.
 
-                    <a name="next-edition"></a>**_next edition_**, in relation to publishing a relevant extract of a post‑election report or response in a journal, means the first edition of the journal in which it is reasonably practicable for the report or the response (as the case may be) to be published.
+                    <a name="next-edition"></a>**_next edition_**, in relation to publishing a relevant extract of a post-election report or response in a journal, means the first edition of the journal in which it is reasonably practicable for the report or the response (as the case may be) to be published.
 
 ##### <a id="199"></a>199  Ballot papers etc. to be preserved
 
@@ -6706,7 +6706,7 @@ ceases to hold the office in the organisation.
 
 This Chapter deals with records that must be kept by organisations, and imposes obligations in relation to organisations’ financial affairs.
 
-Part 2 requires an organisation to keep membership records and lists of office‑holders. Copies of these must be lodged with the General Manager. Details of some types of loans, grants and donations made by the organisation must also be lodged with the General Manager.
+Part 2 requires an organisation to keep membership records and lists of office-holders. Copies of these must be lodged with the General Manager. Details of some types of loans, grants and donations made by the organisation must also be lodged with the General Manager.
 
 Part 3 sets out the requirements that are placed on organisations in relation to financial records, accounting and auditing.
 
@@ -6810,7 +6810,7 @@ Note:          This subsection is a civil penalty provision (s
 
              (3)  Without limiting the ways in which an organisation can comply with subsection (2), it complies if it makes the records available to the authorised person in a form agreed to by the authorised person.
 
-Note:          For example, the authorised person could agree to the organisation providing him or her with a hard copy or with a floppy disk, or to transmitting a copy of the register (or the relevant part) to a specified e‑mail address.
+Note:          For example, the authorised person could agree to the organisation providing him or her with a hard copy or with a floppy disk, or to transmitting a copy of the register (or the relevant part) to a specified e-mail address.
 
 ##### <a id="236"></a>236  General Manager may direct organisation to deliver copy of records
 
@@ -6826,7 +6826,7 @@ Register kept under section 230
 
                              (ii)  that there are other grounds for giving a direction under this subsection;
 
-the General Manager may direct the organisation to deliver to the General Manager a copy of the relevant records certified by declaration by the secretary or other prescribed officer of the organisation to be, as at a day specified in the certificate that is not more than 28 days before the first‑mentioned day, a correct statement of the information contained in the register, for the member to inspect at a specified registry, and the organisation must comply with the direction.
+the General Manager may direct the organisation to deliver to the General Manager a copy of the relevant records certified by declaration by the secretary or other prescribed officer of the organisation to be, as at a day specified in the certificate that is not more than 28 days before the first-mentioned day, a correct statement of the information contained in the register, for the member to inspect at a specified registry, and the organisation must comply with the direction.
 
 Note:          This subsection is a civil penalty provision (see section 305).
 
@@ -7300,7 +7300,7 @@ Note:          This subsection is a civil penalty provision (s
 
 If not of that opinion, the auditor’s report must say why.
 
-             (6)  If the auditor is of the opinion that the general purpose financial report does not so comply, the auditor’s report must, to the extent it is practicable to do so, quantify the effect that non‑compliance has on the general purpose financial report. If it is not practicable to quantify the effect fully, the report must say why.
+             (6)  If the auditor is of the opinion that the general purpose financial report does not so comply, the auditor’s report must, to the extent it is practicable to do so, quantify the effect that non-compliance has on the general purpose financial report. If it is not practicable to quantify the effect fully, the report must say why.
 
              (7)  The auditor’s report must describe:
 
@@ -7932,7 +7932,7 @@ Note:          This subsection is a civil penalty provision (s
 
              (2)  If members of an organisation ratify or approve a contravention of section 285, 286, 287 or 288, the Federal Court may take the ratification or approval into account in deciding what order or orders to make under section 306, 307 or 308 in proceedings brought for a contravention of the section. In doing this, it must have regard to:
 
-                     (a)  how well‑informed about the conduct the members were when deciding whether to ratify or approve  the contravention; and
+                     (a)  how well-informed about the conduct the members were when deciding whether to ratify or approve  the contravention; and
 
                      (b)  whether the members who ratified or approved the contravention were acting for proper purposes.
 
@@ -8202,7 +8202,7 @@ It also sets out the relationship with criminal proceedings arising out of the s
 
                      (g)  section 169 (request for statement of membership);
 
-                     (h)  subsection 172(1) (removal of non‑financial members from register);
+                     (h)  subsection 172(1) (removal of non-financial members from register);
 
                       (i)  section 175 (false representation as to membership);
 
@@ -8214,7 +8214,7 @@ It also sets out the relationship with criminal proceedings arising out of the s
 
                     (m)  subsection 192(3) (false statement in declaration);
 
-                     (n)  subsections 198(1), (4), (5) and (8) (response to post‑election report);
+                     (n)  subsections 198(1), (4), (5) and (8) (response to post-election report);
 
                      (o)  subsections 230(1) and (2) (records to be kept and lodged by organisations);
 
@@ -8430,7 +8430,7 @@ Part 4 provides for the General Manager to make inquiries as to compliance wit
 
 Part 4A provides protection for officers, employees and members of organisations who disclose information about contraventions of this Act or this Act.
 
-Part 4B confers functions and powers on FWA in relation to matters arising under this Act, in addition to those conferred by Division 3 of Part 5‑1 of the Fair Work Act.
+Part 4B confers functions and powers on FWA in relation to matters arising under this Act, in addition to those conferred by Division 3 of Part 5-1 of the Fair Work Act.
 
 Part 5 confers jurisdiction on the Federal Court in relation to matters arising under this Act.
 
@@ -9342,7 +9342,7 @@ Note:          Section 6 defines **_this Act_** to include t
 
              (1)  Subject to reasonable provisions in the rules of an organisation in relation to enrolment, every financial member of the organisation has a right to vote at any ballot taken for the purpose of submitting a matter to a vote of the members of the organisation, or of a branch, section or other division of the organisation in which the member is included.
 
-             (2)  This section does not apply to protected action ballots ordered under Division 8 of Part 3‑3 of the Fair Work Act.
+             (2)  This section does not apply to protected action ballots ordered under Division 8 of Part 3-3 of the Fair Work Act.
 
 ##### <a id="346"></a>346  Requests by members for information concerning elections and certain ballots
 
@@ -9354,7 +9354,7 @@ Note:          Section 6 defines **_this Act_** to include t
 
 to provide to the member specified information for the purpose of determining whether there has been an irregularity in relation to the election or ballot, and the returning officer must not unreasonably withhold the information.
 
-             (2)  This section does not apply to protected action ballots ordered under Division 8 of Part 3‑3 of the Fair Work Act.
+             (2)  This section does not apply to protected action ballots ordered under Division 8 of Part 3-3 of the Fair Work Act.
 
 ##### <a id="347"></a>347  Providing copy of rules or list of offices etc. on request by member
 
@@ -9538,7 +9538,7 @@ a certificate signed by the General Manager, specifying the amount payable and b
 
 General power
 
-             (1)  The Governor‑General may make regulations prescribing all matters:
+             (1)  The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -9546,13 +9546,13 @@ General power
 
 Specific matters on which regulations may be made
 
-             (2)  The matters in relation to which the Governor‑General may make regulations include, but are not limited to:
+             (2)  The matters in relation to which the Governor-General may make regulations include, but are not limited to:
 
                      (a)  the manner in which, and the time within which, applications, submissions and objections under this Act may be made and dealt with; and
 
                      (b)  the fees to be charged in relation to proceedings under this Act; and
 
-                     (c)  the manner in which, and the time within which, the AEC must give post‑election and post‑ballot reports; and
+                     (c)  the manner in which, and the time within which, the AEC must give post-election and post-ballot reports; and
 
                      (d)  requiring, or authorising a particular person to require, the providing by all or any organisations of information relating to matters relevant to the conduct of elections for offices in organisations and branches of organisations; and
 
@@ -9572,7 +9572,7 @@ Note:          Regulations made under the Fair Work Act may al
 
 Regulations relating to payroll deduction facilities
 
-             (3)  The Governor‑General may also make regulations imposing requirements relating to payroll deduction facilities on:
+             (3)  The Governor-General may also make regulations imposing requirements relating to payroll deduction facilities on:
 
                      (a)  the Commonwealth in its capacity as an employer; and
 
@@ -9598,7 +9598,7 @@ Note:          For the meaning of **_constitutional corporatio
 
                      (b)  the operations of one of the branches is confined to a prescribed State or the operations of 2 or more of the branches are each confined to a prescribed State; and
 
-                     (c)  the organisation proposes in accordance with this Part to amalgamate with an associated body as defined by this Part for the purpose of seeking the non‑corporate registration of the branch, or of any of the branches, referred to in paragraph (b) under an Act of the State concerned that is, or under Acts of the States concerned each of which is, a prescribed State Act for the purposes of this Part;
+                     (c)  the organisation proposes in accordance with this Part to amalgamate with an associated body as defined by this Part for the purpose of seeking the non-corporate registration of the branch, or of any of the branches, referred to in paragraph (b) under an Act of the State concerned that is, or under Acts of the States concerned each of which is, a prescribed State Act for the purposes of this Part;
 
 then, in addition to the other provisions of this Act, this Part applies to the organisation but so applies only in relation to the branch or branches referred to in paragraph (c).
 
@@ -9610,9 +9610,9 @@ then, in addition to the other provisions of this Act, this Part applies to the 
 
                     <a name="amalgam"></a>**_amalgamation_** means the carrying out of arrangements in relation to an organisation and an associated body under which it is intended that:
 
-                     (a)  a branch of the organisation is to obtain non‑corporate registration under a prescribed State Act; and
+                     (a)  a branch of the organisation is to obtain non-corporate registration under a prescribed State Act; and
 
-                     (b)  the associated body is to be de‑registered under a prescribed State Act; and
+                     (b)  the associated body is to be de-registered under a prescribed State Act; and
 
                      (c)  members of the associated body who are not already members of the organisation are to become members of the organisation; and
 
@@ -9686,7 +9686,7 @@ then, in addition to the other provisions of this Act, this Part applies to the 
 
              (3)  The application must be accompanied by a copy of any proposed alterations of the rules of the organisation.
 
-             (4)  If the rules of the organisation do not comply, subject to subsection 362(3), with Division 3 in respect of each branch for which the organisation proposes to seek non‑corporate registration under a prescribed State Act, the proposed alterations must include alterations necessary for the rules so to comply.
+             (4)  If the rules of the organisation do not comply, subject to subsection 362(3), with Division 3 in respect of each branch for which the organisation proposes to seek non-corporate registration under a prescribed State Act, the proposed alterations must include alterations necessary for the rules so to comply.
 
              (5)  FWA must:
 
@@ -9772,15 +9772,15 @@ _Note:       See section 5B._
 
                     <a name="notion-agreem-preserv-state-award"></a>**_notional agreement preserving State awards_** means an agreement that, on the reform commencement, was taken to come into operation under clause 31 of Schedule 8 to the _Workplace Relations Act 1996_.
 
-                    <a name="offic"></a>**_office_**, in relation to a State‑registered association, has its ordinary meaning.
+                    <a name="offic"></a>**_office_**, in relation to a State-registered association, has its ordinary meaning.
 
                     <a name="preserv-state-agreem"></a>**_preserved State agreement_** means an agreement that, on the reform commencement, was taken to come into operation under clause 3 or 10 of Schedule 8 to the _Workplace Relations Act 1996_.
 
                     <a name="reform-commenc"></a>**_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
-                    <a name="rule"></a>**_rule_**, in relation to State‑registered association, has its ordinary meaning.
+                    <a name="rule"></a>**_rule_**, in relation to State-registered association, has its ordinary meaning.
 
-                    <a name="state-demarc-order"></a>**_State demarcation order_** means a State award, to the extent that it relates to the rights of a State‑registered association to represent the interests under a State or Territory industrial law of a particular class or group of employees.
+                    <a name="state-demarc-order"></a>**_State demarcation order_** means a State award, to the extent that it relates to the rights of a State-registered association to represent the interests under a State or Territory industrial law of a particular class or group of employees.
 
                     <a name="state-employ-agreem"></a>**_State employment agreement_** means an agreement:
 
@@ -9796,7 +9796,7 @@ _Note:       See section 5B._
 
                      (d)  that prevails over an inconsistent State award.
 
-                    <a name="state-regist-associ"></a>**_State‑registered association_** means a body that is:
+                    <a name="state-regist-associ"></a>**_State-registered association_** means a body that is:
 
                      (a)  an industrial organisation for the purposes of the _Industrial Relations Act__1996_ of New South Wales; or
 
@@ -9820,7 +9820,7 @@ _Note:       See section 5B._
 
 ##### <a id="2"></a>2  Application for transitional recognition
 
-             (1)  A State‑registered association may apply to the General Manager for transitional recognition under this Schedule if:
+             (1)  A State-registered association may apply to the General Manager for transitional recognition under this Schedule if:
 
                      (b)  immediately before the commencement of this Schedule, it had at least one member who was:
 
@@ -9854,7 +9854,7 @@ _Note:       See section 5B._
 
              (5)  The General Manager must give a copy of the instrument to the association.
 
-             (6)  A State‑registered association is taken to be recognised under this Schedule when the General Manager grants the application.
+             (6)  A State-registered association is taken to be recognised under this Schedule when the General Manager grants the application.
 
 ##### <a id="3"></a>3  Application of the Fair Work Act to transitionally recognised associations
 
@@ -9868,7 +9868,7 @@ _Note:       See section 5B._
 
                      (a)  a legal identity that it would not otherwise have; or
 
-                     (b)  a right to represent its members’ industrial interests outside the State in relation to which it is a State‑registered association.
+                     (b)  a right to represent its members’ industrial interests outside the State in relation to which it is a State-registered association.
 
 ##### <a id="4"></a>4  Representation rights of transitionally recognised associations of employees
 
@@ -9914,7 +9914,7 @@ Cancellation by the Federal Court
 
                               (i)  an injunction granted under subsection 421(3) of the Fair Work Act (which deals with orders to stop industrial action);
 
-                             (ii)  an order made under the Fair Work Act in relation to a contravention of Part 3‑1 of that Act (which deals with general protections);
+                             (ii)  an order made under the Fair Work Act in relation to a contravention of Part 3-1 of that Act (which deals with general protections);
 
                             (iii)  an interim injunction granted under section 545 of the Fair Work Act so far as it relates to conduct or proposed conduct that could be the subject of an injunction or order under a provision mentioned in subparagraph (i) or (ii).
 
@@ -9934,9 +9934,9 @@ the Court must cancel the recognition of the association under this Schedule.
 
           (4B)  A finding of fact in proceedings:
 
-                     (a)  under Division 4 of Part 3‑3 or Part 4‑1 of the Fair Work Act; or
+                     (a)  under Division 4 of Part 3-3 or Part 4-1 of the Fair Work Act; or
 
-                     (b)  under the Fair Work Act in relation to a contravention of Part 3‑1 of that Act;
+                     (b)  under the Fair Work Act in relation to a contravention of Part 3-1 of that Act;
 
 is admissible as prima facie evidence of that fact in an application made on a ground specified in paragraph (1)(f).
 
@@ -9948,9 +9948,9 @@ Cancellation by FWA
 
                      (b)  on application by a person interested or by the Minister, if FWA has satisfied itself, as prescribed, that the association:
 
-                              (i)  was recognised by mistake; or
+                              (i)  was registered by mistake; or
 
-                             (ii)  is no longer a State‑registered association.
+                             (ii)  is no longer a State-registered association.
 
 Cancellation by General Manager
 
@@ -9994,13 +9994,13 @@ Cancellation by General Manager
 
                    Regulations made for the purposes of this clause may modify how section 19 of this Act applies in relation to an association that is a transitionally recognised association.
 
-# Schedule 2—Recognised State‑registered associations
+# Schedule 2—Recognised State-registered associations
 
 _Note:       See section 5C._
 
-##### <a id="1"></a>1  Recognition of State‑registered associations
+##### <a id="1"></a>1  Recognition of State-registered associations
 
-             (1)  A State‑registered association may apply to the General Manager for recognition under this Schedule if:
+             (1)  A State-registered association may apply to the General Manager for recognition under this Schedule if:
 
                      (a)  the association has no federal counterpart; and
 
@@ -10026,27 +10026,27 @@ _Note:       See section 5C._
 
              (6)  The General Manager must give a copy of the instrument to the association.
 
-             (7)  A State‑registered association is taken to be recognised under this Schedule when the General Manager grants the application.
+             (7)  A State-registered association is taken to be recognised under this Schedule when the General Manager grants the application.
 
-##### <a id="2"></a>2  Application of Fair Work Act to recognised State‑registered associations
+##### <a id="2"></a>2  Application of Fair Work Act to recognised State-registered associations
 
-             (1)  The provisions of the _Fair Work Act 2009_ and Part 3 of Chapter 4 of this Act apply in relation to a recognised State‑registered association:
+             (1)  The provisions of the _Fair Work Act 2009_ and Part 3 of Chapter 4 of this Act apply in relation to a recognised State-registered association:
 
                      (a)  in the same way as they apply in relation to an organisation; and
 
-                     (b)  as if a recognised State‑registered association were a person.
+                     (b)  as if a recognised State-registered association were a person.
 
-             (2)  To avoid doubt, this section does not confer on a recognised State‑registered association:
+             (2)  To avoid doubt, this section does not confer on a recognised State-registered association:
 
                      (a)  a legal identity that it would not otherwise have; or
 
-                     (b)  a right to represent its members’ industrial interests outside the State in relation to which it is a State‑registered association.
+                     (b)  a right to represent its members’ industrial interests outside the State in relation to which it is a State-registered association.
 
 ##### <a id="3"></a>3  Cancellation of recognition
 
 Cancellation by the Federal Court
 
-             (1)  A person interested or the Minister may apply to the Federal Court for an order cancelling the recognition under this Schedule of a recognised State‑registered association on the ground that:
+             (1)  A person interested or the Minister may apply to the Federal Court for an order cancelling the recognition under this Schedule of a recognised State-registered association on the ground that:
 
                      (a)  the conduct of:
 
@@ -10068,7 +10068,7 @@ Cancellation by the Federal Court
 
                               (i)  an injunction granted under subsection 421(3) of the Fair Work Act (which deals with orders to stop industrial action);
 
-                             (ii)  an order made under the Fair Work Act in relation to a contravention of Part 3‑1 of that Act (which deals with general protections);
+                             (ii)  an order made under the Fair Work Act in relation to a contravention of Part 3-1 of that Act (which deals with general protections);
 
                             (iii)  an interim injunction granted under section 545 of the Fair Work Act so far as it relates to conduct or proposed conduct that could be the subject of an injunction under a provision mentioned in subparagraph (i) or (ii);
 
@@ -10090,7 +10090,7 @@ the Court must cancel the recognition of the association under this Schedule.
 
                               (i)  under section 421 of the Fair Work Act; or
 
-                             (ii)  under the Fair Work Act in relation to a contravention of Part 3‑1 of that Act; or
+                             (ii)  under the Fair Work Act in relation to a contravention of Part 3-1 of that Act; or
 
                      (b)  proceedings under section 23 of this Act;
 
@@ -10098,7 +10098,7 @@ is admissible as prima facie evidence of that fact in an application made on a g
 
 Cancellation by FWA
 
-             (5)  FWA may cancel the recognition under this Schedule of a recognised State‑registered association:
+             (5)  FWA may cancel the recognition under this Schedule of a recognised State-registered association:
 
                      (a)  on application by the association made under the regulations; or
 
@@ -10106,19 +10106,19 @@ Cancellation by FWA
 
                               (i)  that the association was recognised by mistake; or
 
-                             (ii)  that the association is no longer a State‑registered association; or
+                             (ii)  that the association is no longer a State-registered association; or
 
                             (iii)  that the association has been found by another industrial body (within the meaning of the Fair Work Act) to have contravened a State or Territory industrial law, and that the contravention constitutes serious misconduct.
 
 Cancellation by General Manager
 
-             (6)  The General Manager may, by written instrument, cancel the recognition under this Schedule of a recognised State‑registered association if he or she is satisfied that the association no longer exists.
+             (6)  The General Manager may, by written instrument, cancel the recognition under this Schedule of a recognised State-registered association if he or she is satisfied that the association no longer exists.
 
              (7)  An instrument under subclause (6) is not a legislative instrument.
 
 Cancellation if subclause 1(2) no longer applies
 
-             (8)  The recognition under this Schedule of a recognised State‑registered association is taken to be cancelled if the law of a State under which the association is registered ceases to be a law to which subclause 1(2) applies.
+             (8)  The recognition under this Schedule of a recognised State-registered association is taken to be cancelled if the law of a State under which the association is registered ceases to be a law to which subclause 1(2) applies.
 
 # Notes to the _Fair Work (Registered Organisations) Act 2009_
 
@@ -10134,7 +10134,7 @@ For application, saving or transitional provisions made by Schedule 1 of the _
 
 For application, saving or transitional provisions made by Schedule 3A (items 7–10) and Schedule 4 of the _Workplace Relations Amendment (Work Choices) Act 2005,_ _see_ Act No. 153, 2005 (as amended by the _Workplace Relations Legislation Amendment (Independent Contractors) Act 2006_ Act No. 163, 2006 and the _Statute Law Revision Act 2007_ Act No. 8, 2007).
 
-For application, saving or transitional provisions made by the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, _see_ Act No. 55, 2009 (as amended).
+For application, saving or transitional provisions made by the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, _see_ Act No. 55, 2009 (as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ Act No. 54, 2009).
 
 Section 40 of the _Independent Contractors Act 2006_ (Act No. 162, 2006) is a transitional provision relating to the _Fair Work (Registered Organisations) Act 2009_.
 
@@ -10193,7 +10193,7 @@ Remainder: 1 July 1992 ( <i>see Gazette</i>1992, No. S182)</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -10298,7 +10298,7 @@ Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
 </tr>
 <tr>
   <td>
-    <div>Petroleum (Australia‑Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990</div>
+    <div>Petroleum (Australia-Indonesia Zone of Cooperation) (Consequential Provisions) Act 1990</div>
   </td>
   <td>
     <div>37, 1990</div>
@@ -11836,41 +11836,7 @@ Remainder: Royal Assent</div>
     <div>4 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (items 9, 10): 4 Dec 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 7, 8): Royal Assent</div>
+    <div>Schedule 3 (items 9, 10): <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11889,7 +11855,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 and Schedule 22 (items 1–62, 62A, 63A, 64–90, 97–101, 104–186, 188, 191–352, 354–404, 406–582, 
 585–620): 1 July 2009 ( <i>see</i>s. 2(1) and F2009L02563) 
-Schedule 22 (item 91): <i>(v)</i></div>
+Schedule 22 (item 91): <i>(w)</i></div>
   </td>
   <td>
     <div>\[ <i>see</i>Note 1]</div>
@@ -11940,41 +11906,7 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>8 July 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 94–110): 5 Aug 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 3, 4): Royal Assent</div>
+    <div>Schedule 3 (items 94–110): <i>(x)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11991,32 +11923,15 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 27): <i>(w) 
- </i>Schedule 5 (item 137(a)): <i>(w)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 58): Royal Assent</div>
+    <div>Schedule 1 (item 27): <i>(y) 
+ </i>Schedule 5 (item 137(a)): <i>(y)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Fair Work (Registered Organisations) Act 2009_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(a)_     The _Fair Work (Registered Organisations) Act 2009_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -12052,7 +11967,7 @@ _(e)_     The _Fair Work (Registered Organisations) Act 2009_ was amende
 
                  (2)   The provisions of Part 2 of this Schedule commence on a day or days to be fixed by Proclamation.
 
-                 (3)   The Governor‑General must not make a Proclamation fixing a day for the commencement of a provision of Part 2 of this Schedule unless the Governor of New South Wales has consented in writing to the provision coming into operation.
+                 (3)   The Governor-General must not make a Proclamation fixing a day for the commencement of a provision of Part 2 of this Schedule unless the Governor of New South Wales has consented in writing to the provision coming into operation.
 
          Schedule 1 (item 7) was repealed by section 8 of the _Industrial Relations and other Legislation Amendment Act 1995_ before a date was fixed for the commencement.
 
@@ -12718,7 +12633,9 @@ _(u)_ Subsection 2(1) (items 2 and 9) of the _Workplace Relations Amendment (A S
   </td>
 </tr></table>
 
-_(v)_ Subsection 2(1) (items 2, 7 and 8) of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ provides as follows:
+_(v)_ Clause 5 of Schedule 2 of the _Fair Work (Registered Organisations) Act 2009_ to be amended by the _Evidence Amendment Act 2008_ (No. 135, 2008) was repealed by the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_(No. 55, 2009) before the amendments made by the _Evidence Amendment Act 2008_ (No. 135, 2008) commenced.
+
+_(w)_ Subsection 2(1) (items 2, 7 and 8) of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -12762,7 +12679,7 @@ _(v)_ Subsection 2(1) (items 2, 7 and 8) of the _Fair Work (Transitional Provi
   </td>
   <td>
     <div>
-      The day on which Part 2‑4 of the
+      The day on which Part 2-4 of the
         <i>Fair Work Act 2009</i>commences.
     </div>
   </td>
@@ -12808,7 +12725,9 @@ _(v)_ Subsection 2(1) (items 2, 7 and 8) of the _Fair Work (Transitional Provi
   </td>
 </tr></table>
 
-_(w)_ Subsection 2(1) (items 3, 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
+_(x)_ The sections and clauses of Schedules of the _Fair Work (Registered Organisations) Act 2009_ to be amended by the _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009_ (No. 70, 2009) were repealed by the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ (No. 55, 2009) before the amendments made by the _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009_ (No. 70, 2009) commenced.
+
+_(y)_ Subsection 2(1) (items 3, 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -36162,7 +36081,7 @@ No. 55, 2009</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2009; No. 5, 2011</div>
+    <div>am. No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -43086,7 +43005,7 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                      (a)  where appropriate, it contains facilitative provisions that allow agreement at the workplace or enterprise level, between employers and employees (including individual employees), on how the award provisions are to apply;
 
-                     (b)  where appropriate, it contains provisions enabling the employment of regular part‑time employees;
+                     (b)  where appropriate, it contains provisions enabling the employment of regular part-time employees;
 
                      (c)  it is expressed in plain English and is easy to understand in both structure and content;
 
@@ -43142,7 +43061,7 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                      (a)  where appropriate, it contains facilitative provisions that allow agreement at the workplace or enterprise level, between employers and employees (including individual employees), on how the award provisions are to apply;
 
-                     (b)  where appropriate, it contains provisions enabling the employment of regular part‑time employees;
+                     (b)  where appropriate, it contains provisions enabling the employment of regular part-time employees;
 
                      (c)  it is expressed in plain English and is easy to understand in both structure and content;
 
@@ -43150,7 +43069,7 @@ the Commission may vary the award so that it provides for minimum rates of pay c
 
                      (e)  where appropriate, it provides support to training arrangements through appropriate trainee wages and a supported wage system for people with disabilities;
 
-                    (ea)  if it applies to work that is or may be performed by young people—protects the competitive position of young people in the labour market, promotes youth employment, youth skills and community standards and assists in reducing youth unemployment by including, if, on a case‑by‑case basis, the Commission determines it appropriate, junior rates of pay; and
+                    (ea)  if it applies to work that is or may be performed by young people—protects the competitive position of young people in the labour market, promotes youth employment, youth skills and community standards and assists in reducing youth unemployment by including, if, on a case-by-case basis, the Commission determines it appropriate, junior rates of pay; and
 
                       (f)  it does not contain provisions that discriminate against an employee because of, or for reasons including, race, colour, sex, sexual preference, age, physical or mental disability, marital status, family responsibilities, pregnancy, religion, political opinion, national extraction or social origin.
 
@@ -43234,7 +43153,7 @@ Any order made under Division 1 of Part VIA of the Workplace Relations Act a
 
                      (b)  a bargaining period, for a proposed agreement, initiated after the commencement of this Schedule.
 
-New termination provisions apply to pre‑commencement certified agreements
+New termination provisions apply to pre-commencement certified agreements
 
 (2)       If:
 
@@ -43256,13 +43175,13 @@ Enterprise flexibility agreements that prevail over certified agreements
 
                      (a)  an enterprise flexibility agreement is continued in force by Schedule 9; and
 
-                     (b)  any part (the **_post‑commencement EFA period_**) of the period of operation specified in the agreement, or that period as extended or further extended, occurs after the commencement of this Schedule; and
+                     (b)  any part (the **_post-commencement EFA period_**) of the period of operation specified in the agreement, or that period as extended or further extended, occurs after the commencement of this Schedule; and
 
-                     (c)  the enterprise flexibility agreement is, during the post‑commencement EFA period, to any extent inconsistent with a certified agreement (whether made before or after the commencement of this Schedule); and
+                     (c)  the enterprise flexibility agreement is, during the post-commencement EFA period, to any extent inconsistent with a certified agreement (whether made before or after the commencement of this Schedule); and
 
                      (d)  the certified agreement was certified after implementation of the enterprise flexibility agreement was approved;
 
-then the enterprise flexibility agreement prevails over the certified agreement, to the extent of the inconsistency, during the post‑commencement EFA period.
+then the enterprise flexibility agreement prevails over the certified agreement, to the extent of the inconsistency, during the post-commencement EFA period.
 
 Certified agreements that prevail over enterprise flexibility agreements
 
@@ -43276,7 +43195,7 @@ Certified agreements that prevail over enterprise flexibility agreements
 
 the certified agreement prevails over the enterprise flexibility agreement, to the extent of the inconsistency.
 
-170MX(3) awards and exceptional matters orders prevail over pre‑ and post‑commencement certified agreements
+170MX(3) awards and exceptional matters orders prevail over pre- and post-commencement certified agreements
 
 (5)       Subsections 170LY(2) and (3) of the _Workplace Relations Act 1996_ as amended by this Schedule apply to certified agreements whether certified before or after the commencement of this Schedule.
 
@@ -43296,9 +43215,9 @@ Annual report under former section 170RC
 
 ## 2  Continued operation of EFAs
 
-Pre‑commencement EFA continues despite amendments of Act
+Pre-commencement EFA continues despite amendments of Act
 
-(1)       Despite the amendments made by Part 1 of this Schedule, a pre‑commencement EFA continues to have effect, to the extent provided by the following subitems, as if those amendments had not been made.
+(1)       Despite the amendments made by Part 1 of this Schedule, a pre-commencement EFA continues to have effect, to the extent provided by the following subitems, as if those amendments had not been made.
 
 Period of operation ending after commencement of amendments
 
@@ -43354,7 +43273,7 @@ Interpretation
 
                     <a name="period-efa"></a>**_period of the EFA_** means the period of operation specified in the EFA, or that period as extended or further extended.
 
-                    <a name="pre-commenc-efa"></a>**_pre‑commencement EFA_** means an enterprise flexibility agreement that is in force at the commencement of this Part.
+                    <a name="pre-commenc-efa"></a>**_pre-commencement EFA_** means an enterprise flexibility agreement that is in force at the commencement of this Part.
 
 ## Schedule 11  
 
@@ -43607,7 +43526,7 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)       The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
 (2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
@@ -43621,7 +43540,7 @@ _Timor Gap Treaty (Transitional Arrangements) Act 2000 (No. 25, 2000)_
 
                     <a name="transition-time"></a>**_transition time_** means 1.23 am Australian Central Standard Time on 26 October 1999.
 
-Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world‑wide web site.
+Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world-wide web site.
 
 * * *
 
@@ -43629,7 +43548,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -43643,7 +43562,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -43651,9 +43570,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -43981,7 +43900,7 @@ _Workplace Relations Amendment (Codifying Contempt Offences) Act 2004
 
 ## Schedule 3
 
-## 25  Application of amendments
+## 25  Application of amendments
 
 The amendments made by this Schedule  apply in relation to contraventions occurring after the commencement of the amendments.
 
@@ -44126,7 +44045,7 @@ The amendments made by items 4 and 5 of this Schedule apply only in relation t
 
 **_reform commencement_** means the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_.
 
-## 53  Application of items 8 and 9
+## 53  Application of items 8 and 9
 
 The amendments made by items 8 and 9 apply only in relation to waivers under section 371 of the _Workplace Relations Act 1996_ made on or after the commencement of this item.
 
@@ -44172,7 +44091,7 @@ The amendments made by items 13 to 16 apply to a ballot in respect of which a 
 
 ## 58  Application of items 31 and 33
 
-(1)       The amendments of the _Workplace Relations Act 1996_ made by items 31 and 33 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre‑reform certified agreement, a preserved State agreement, a notional agreement preserving State awards or a pre‑reform AWA that is in operation on the reform commencement, whether or not the pre‑reform certified agreement, the preserved State agreement, the notional agreement preserving State awards or the pre‑reform AWA is in operation at the commencement of this item.
+(1)       The amendments of the _Workplace Relations Act 1996_ made by items 31 and 33 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre-reform certified agreement, a preserved State agreement, a notional agreement preserving State awards or a pre-reform AWA that is in operation on the reform commencement, whether or not the pre-reform certified agreement, the preserved State agreement, the notional agreement preserving State awards or the pre-reform AWA is in operation at the commencement of this item.
 
 (2)       However, subitem (1) does not authorise the imposition of a civil penalty under Part 14 of the _Workplace Relations Act 1996_ for a breach that occurred before the commencement of this item.
 
@@ -44214,7 +44133,7 @@ The amendments made by items 13 to 16 apply to a ballot in respect of which a 
 
 ## 62  Application of items 49 and 50
 
-(1)       The amendments of the _Workplace Relations Amendment (Work Choices) Act 2005_ made by items 49 and 50 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre‑reform award or a transitional award within the meaning of the _Workplace Relations Act 1996_.
+(1)       The amendments of the _Workplace Relations Amendment (Work Choices) Act 2005_ made by items 49 and 50 of this Schedule apply, and are taken always to have applied, on and from the reform commencement, in relation to a pre-reform award or a transitional award within the meaning of the _Workplace Relations Act 1996_.
 
 (2)       In this item:
 
@@ -44361,7 +44280,7 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
 
 ## 15A  Effect of repeal of section 399
 
-(1)       To avoid doubt, if, immediately before the commencement of this item, an industrial instrument had no effect because of the operation of section 399 of the pre‑transition Act, the repeal of that section by this Act:
+(1)       To avoid doubt, if, immediately before the commencement of this item, an industrial instrument had no effect because of the operation of section 399 of the pre-transition Act, the repeal of that section by this Act:
 
                      (a)  does not cause the instrument to have effect after that commencement; and
 
@@ -44369,7 +44288,7 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
 
 (2)       In this item:
 
-**_industrial instrument_** means an instrument mentioned in subsection 399(3) of the pre‑transition Act, and includes any of the following (except to the extent that they contain protected award conditions):
+**_industrial instrument_** means an instrument mentioned in subsection 399(3) of the pre-transition Act, and includes any of the following (except to the extent that they contain protected award conditions):
 
                      (a)  a common rule within the meaning of clause 89 of Schedule 6;
 
@@ -44377,31 +44296,31 @@ _Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008 (N
 
                      (c)  a transitional award within the meaning of that Schedule, to the extent that subclause 102(1) of that Schedule applies to it.
 
-**_pre‑transition Act_** means the _Workplace Relations Act 1996_ as in force immediately before the commencement of this item.
+**_pre-transition Act_** means the _Workplace Relations Act 1996_ as in force immediately before the commencement of this item.
 
-**_protected award condition_** has the meaning it had for the purposes of section 354 of the pre‑transition Act.
+**_protected award condition_** has the meaning it had for the purposes of section 354 of the pre-transition Act.
 
 ## Schedule 3
 
-## 53  Wage reviews in progress before commencement time—previous wage‑setting powers of the AFPC
+## 53  Wage reviews in progress before commencement time—previous wage-setting powers of the AFPC
 
 (1)       This item applies to a wage review that is being conducted by AFPC under Division 2 of Part 2 of the _Workplace Relations Act 1996_ before the commencement time if:
 
-                     (a)  the wage review relates to whether the AFPC should exercise a previous wage‑setting power of the AFPC; and
+                     (a)  the wage review relates to whether the AFPC should exercise a previous wage-setting power of the AFPC; and
 
                      (b)  the wage review is not completed before the commencement time.
 
-(2)       The AFPC is not to continue to conduct the wage review after the commencement time, to the extent that the wage review relates to the exercise of the previous wage‑setting power of the AFPC.
+(2)       The AFPC is not to continue to conduct the wage review after the commencement time, to the extent that the wage review relates to the exercise of the previous wage-setting power of the AFPC.
 
 (3)       In this item:
 
 **_commencement time_** means the time when this Schedule commences.
 
-**_previous wage‑setting power_** of the AFPC means a power that:
+**_previous wage-setting power_** of the AFPC means a power that:
 
-                     (a)  was a wage‑setting power of the AFPC under Division 2 of Part 7 of the _Workplace Relations Act 1996_, as in force immediately before the commencement time; and
+                     (a)  was a wage-setting power of the AFPC under Division 2 of Part 7 of the _Workplace Relations Act 1996_, as in force immediately before the commencement time; and
 
-                     (b)  is not a wage‑setting power of the AFPC under Division 2 of Part 7 of the _Workplace Relations Act 1996_, as amended by this Schedule.
+                     (b)  is not a wage-setting power of the AFPC under Division 2 of Part 7 of the _Workplace Relations Act 1996_, as amended by this Schedule.
 
 Table showing Parts, Divisions, Subdivisions, Sections and Schedules of the _Fair Work (Registered Organisations) Act 2009_ after renumbering by the _Workplace Relations Amendment (Work Choices) Act 2005_ (No. 153, 2005).
 
