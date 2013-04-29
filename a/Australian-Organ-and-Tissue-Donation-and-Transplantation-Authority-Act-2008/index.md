@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00682/Html/cdcac683-5424-433c-9f9c-d7c74cb14e63_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00141/Html/AustOrganTissDonTransplAuthority2008_image001.gif)
 
 # Australian Organ and Tissue Donation and Transplantation Authority Act 2008
 
 **Act No. 122 of 2008 as amended**
 
-This compilation was prepared on 26 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -376,7 +375,7 @@ Note:          In this Act, **_CEO_** means the Chief Executiv
 
                       (j)  to advise the Minister about organ or tissue donation and transplantation matters; and
 
-                     (k)  to consult and co‑operate with other persons, organisations and governments on organ or tissue donation and transplantation matters; and
+                     (k)  to consult and co-operate with other persons, organisations and governments on organ or tissue donation and transplantation matters; and
 
                       (l)  such other functions as are conferred on the CEO by this Act or any other law; and
 
@@ -422,7 +421,7 @@ Constitutional limits
 
                              (ii)  other individuals associated with the corporation;
 
-                            who are involved in providing organ or tissue donation and transplantation services; or
+                            who are involved in providing organ or tissue donation and transplantation services; or
 
                       (i)  by way of the promotion of organ or tissue donation and transplantation services provided by constitutional corporations; or
 
@@ -456,7 +455,7 @@ Legislative instruments
 
                      (a)  the following objectives:
 
-                              (i)  promoting a co‑ordinated and consistent approach to organ or tissue donation and transplantation matters;
+                              (i)  promoting a co-ordinated and consistent approach to organ or tissue donation and transplantation matters;
 
                              (ii)  improving access to organ or tissue donation and transplantation services;
 
@@ -470,7 +469,7 @@ Legislative instruments
 
                            (vii)  improving support services for organ or tissue donors and their partners and families;
 
-                          (viii)  improving the skills and knowledge of people involved in providing organ or tissue donation and transplantation services;
+                           (viii)  improving the skills and knowledge of people involved in providing organ or tissue donation and transplantation services;
 
                             (ix)  improving public knowledge about, and public confidence in, organ or tissue donation and transplantation services; and
 
@@ -506,13 +505,13 @@ Note:          For variation and revocation, see subsection 33
 
              (1)  The CEO is to be appointed by the Minister by written instrument.
 
-             (2)  The CEO holds office on a full‑time basis.
+             (2)  The CEO holds office on a full-time basis.
 
 ##### <a id="15"></a>15  Period of appointment for the CEO
 
                    The CEO holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          For re-appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="16"></a>16  Acting appointments
 
@@ -648,7 +647,7 @@ whose services are made available to the CEO in connection with the performance 
 
 Note:          See also section 34C of the _Acts Interpretation Act 1901_, which contains extra rules about annual reports.
 
-             (2)  For the purposes of subsection (1), the 6‑month period beginning on 1 January 2009 is taken to be a financial year.
+             (2)  For the purposes of subsection (1), the 6-month period beginning on 1 January 2009 is taken to be a financial year.
 
 ##### <a id="29"></a>29  Minister may require the CEO to prepare reports or give information
 
@@ -726,9 +725,9 @@ Note:          In this Act, **_Advisory Council_** means the A
 
              (3)  An Advisory Council member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          For re-appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
-             (4)  An Advisory Council member holds office on a part‑time basis.
+             (4)  An Advisory Council member holds office on a part-time basis.
 
              (5)  The Minister may terminate the appointment of an Advisory Council member.
 
@@ -758,7 +757,7 @@ Note:          For re‑appointment, see subsection 33(4A) of 
 
                              (ii)  each later financial year; and
 
-                     (b)  at least 2 meetings during the 6‑month period beginning on 1 January 2009; and
+                     (b)  at least 2 meetings during the 6-month period beginning on 1 January 2009; and
 
                      (c)  such other meetings (if any) as are necessary for the performance of its function.
 
@@ -772,7 +771,7 @@ Note:          For variation and revocation, see subsection 33
 
              (3)  A direction given under subsection (2) is not a legislative instrument.
 
-##### <a id="36"></a>36  Acting appointments—Chair
+##### <a id="36"></a>36  Acting appointments—Chair
 
              (1)  The Minister may appoint a person to act as the Chair of the Advisory Council:
 
@@ -828,7 +827,7 @@ Note:          See section 33A of the _Acts Interpretation A
 
              (1)  An Advisory Council member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
 
-             (2)  However, an Advisory Council member is not entitled to be paid remuneration if he or she holds an office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of:
+             (2)  However, an Advisory Council member is not entitled to be paid remuneration if he or she holds an office or appointment, or is otherwise employed, on a full-time basis in the service or employment of:
 
                      (a)  a State; or
 
@@ -864,7 +863,7 @@ Note:          A similar rule applies to an Advisory Council m
 
                    An Advisory Council member must give written notice to the Minister of all interests, pecuniary or otherwise, that the member has or acquires and that conflict or could conflict with the proper performance of the member’s functions.
 
-##### <a id="42"></a>42  Disclosure of interests to the Advisory Council
+##### <a id="42"></a>42  Disclosure of interests to the Advisory Council
 
              (1)  An Advisory Council member  who has an interest, pecuniary or otherwise, in a matter being considered or about to be considered by the Advisory Council must disclose the nature of the interest to a meeting of the Advisory Council.
 
@@ -914,9 +913,9 @@ Note:          For variation and revocation, see subsection 33
 
              (2)  An expert advisory committee member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          For re-appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
-             (3)  An expert advisory committee member holds office on a part‑time basis.
+             (3)  An expert advisory committee member holds office on a part-time basis.
 
              (4)  The CEO may terminate the appointment of an expert advisory committee member.
 
@@ -936,7 +935,7 @@ Note:          For variation and revocation, see subsection 33
 
              (1)  An expert advisory committee member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
 
-             (2)  However, an expert advisory committee member is not entitled to be paid remuneration if he or she holds an office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of:
+             (2)  However, an expert advisory committee member is not entitled to be paid remuneration if he or she holds an office or appointment, or is otherwise employed, on a full-time basis in the service or employment of:
 
                      (a)  a State; or
 
@@ -1156,7 +1155,7 @@ to the extent that the law or rule requires the giving of consent to the removal
 
 ##### <a id="60"></a>60  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
@@ -1167,8 +1166,6 @@ to the extent that the law or rule requires the giving of consent to the removal
 ### Note 1
 
 The _Australian Organ and Tissue Donation and Transplantation Authority Act 2008_ as shown in this compilation comprises Act No. 122, 2008 amended as indicated in the Tables below. 
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1234,23 +1231,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 217–226) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1382,107 +1362,19 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </thead>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 11</div>
   </td>
   <td>
     <div>am. No. 8, 2010</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 217  Section 15 (note)
-
-Repeal the note, substitute:
-
-Note:          The CEO  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 218  Subsection 16(1)
-
-Omit “(1)”.
-
-## 219  At the end of subsection 16(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 220  Subsection 16(2)
-
-Repeal the subsection.
-
-## 221  Subsection 34(3) (note)
-
-Repeal the note, substitute:
-
-Note:          An Advisory Council member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-## 222  At the end of subsection 36(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 223  Subsection 36(3)
-
-Repeal the subsection.
-
-## 224  At the end of subsection 37(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 225  Subsection 37(3)
-
-Repeal the subsection.
-
-## 226  Subsection 46(2) (note)
-
-Repeal the note, substitute:
-
-Note:          An expert advisory committee member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
-
-As at 26 August 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
