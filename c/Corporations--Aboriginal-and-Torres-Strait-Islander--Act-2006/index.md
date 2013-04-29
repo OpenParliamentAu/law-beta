@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00723/Html/f3a1e243-c12e-45d5-be24-b4150a905730_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00184/Html/74340ab3-92bb-4961-9a38-70f8a12aeda4_files/image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 6 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 15 April 2011
+ taking into account amendments up to Act No. 24 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -650,8 +650,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [201‑120](#201‑120). Objections to right to vote (replaceable rule—see section 60‑1)
 
-[201‑125](#201‑125). How voting is carried out (replaceable rule—see 
- section 60‑1)
+[201‑125](#201‑125). How voting is carried out (replaceable rule—see section 60‑1)
 
 [201‑130](#201‑130). Matters on which a poll may be demanded
 
@@ -1969,7 +1968,7 @@ The Parliament of Australia enacts:
 
              (2)  Each provision of this Act applies, according to its tenor, in relation to acts and omissions outside this jurisdiction.
 
-##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
+##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
 
                    Each provision of this Act applies according to its tenor to:
 
@@ -2883,7 +2882,7 @@ Note:          The corporation remains in existence until it i
 
 ##### <a id="42‑3"></a>42‑3  Effect of registration of existing body corporate under Part 2‑3
 
-                   If a body corporate is registered under Part 2‑3 as an Aboriginal and Torres Strait Islander corporation as a result of an application made under section 22‑1, registration under Part 2‑3 does not:
+                   If a body corporate is registered under Part 2‑3 as an Aboriginal and Torres Strait Islander corporation as a result of an application made under section 22‑1, registration under Part 2‑3 does not:
 
                      (a)  create a new legal entity; or
 
@@ -3069,7 +3068,7 @@ Note 2:       For abbreviations that can be used on a seal, see sect
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
+##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
 
 Application of section
 
@@ -4948,7 +4947,7 @@ Note:          For example, the Registrar may grant an exempti
 
 ### Division 82—Introduction
 
-##### <a id="82‑1"></a>82‑1  What this Part is about
+##### <a id="82‑1"></a>82‑1  What this Part is about
 
 * * *
 
@@ -5537,7 +5536,7 @@ the Registrar may:
 
              (5)  A notice under paragraph (4)(c) is not a legislative instrument.
 
-##### <a id="112‑15"></a>112‑15  Corporation’s name must be displayed
+##### <a id="112‑15"></a>112‑15  Corporation’s name must be displayed
 
              (1)  The corporation must display its name and ICN prominently at its registered office. The corporation must also display its name and ICN at every place at which the corporation carries on business if that place is open to the public.
 
@@ -8241,7 +8240,7 @@ Note:          For the meaning of **_chief executive officer_*
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
+##### <a id="246‑15"></a>246‑15  Corporation may appoint a director (replaceable rule—see section 60‑1)
 
                    An Aboriginal and Torres Strait Islander corporation may appoint a person as a director by resolution passed in general meeting.
 
@@ -8635,7 +8634,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
                     Penalty:  10 penalty units.
 
-##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
+##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
 
              (1)  An act done by a secretary is effective even if his or her appointment, or the continuance of his or her appointment, is invalid because the Aboriginal and Torres Strait Islander corporation or secretary did not comply with the corporation’s constitution or any provision of this Act.
 
@@ -9955,7 +9954,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The corporation must lodge a notice setting out the text of the resolution within 28 days after the resolution is passed.
 
-##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
+##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
 
              (1)  The Court may declare that the conditions provided for in this Division have been satisfied if it finds that they have been substantially satisfied.
 
@@ -10247,7 +10246,7 @@ Note:          For the criteria for making determinations unde
 
 ##### <a id="310‑10"></a>310‑10  Registrar may make determination even if application is incomplete
 
-                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
+                   Despite subsection 310‑5(3), the Registrar may make a determination even if the application does not specify the provisions in relation to which the exemption is being sought.
 
 ##### <a id="310‑15"></a>310‑15  Registrar’s power to make determinations
 
@@ -11459,7 +11458,7 @@ The Corporations Act auditor independence provisions apply with the modification
 
 #### Subdivision 339‑E—Auditor’s powers and duties
 
-##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
+##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
 
                    The auditor:
 
@@ -13145,7 +13144,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ### Division 450—Purposes for which powers under this Part may be exercised
 
-##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
+##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
 
                    A power conferred by this Part may only be exercised:
 
@@ -14420,7 +14419,7 @@ Note:          The termination of the appointment of the speci
 
 ### Division 508—Transition to normal control of the corporation’s affairs at end of special administration
 
-##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
+##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation must ensure that, immediately after the special administration of the corporation ends, there will be:
 
@@ -19877,9 +19876,9 @@ For all relevant information pertaining to application, saving or transitional p
 <colgroup>
   <col width="28%">
   <col width="15%">
-  <col width="17%">
+  <col width="16%">
   <col width="23%">
-  <col width="17%">
+  <col width="18%">
 </colgroup>
 
 <thead>
@@ -20020,23 +20019,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 447–452) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -20788,43 +20770,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 6 September 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 447  At the end of subsections 663‑25(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 448  Subsection 663‑25(3)
-
-Repeal the subsection.
-
-## 449  Subsection 694‑110(3)
-
-Omit “paragraph 34AB(a), (b), (d) or (e)”, substitute “paragraph 34AB(1)(a), (b), (d) or (e), subsection 34AB(2) or (3)”.
-
-## 450  Section 700‑1 (note at the end of the definition of _Australia_)
-
-Omit “Paragraph 17(a)”, substitute “Section 2B”.
-
-## 451  Section 700‑1 (definition of _business day_)
-
-Repeal the definition.
-
-## 452  Section 700‑1 (definition of _territorial sea_)
-
-Repeal the definition.
-
-As at 6 September 2011 the amendments are not incorporated in this compilation.
+As at 15 April 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -20841,21 +20787,5 @@ _Families, Housing, Community Services and Indigenous Affairs and Other Legislat
 (2)       The amendment made by item 21 applies in relation to registrations occurring on or after the commencement of that item.
 
 (3)       The amendment made by item 25 applies in relation to uses and disclosures of protected information on or after the commencement of that item (whether the persons were engaged as consultants before, on or after that commencement).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
