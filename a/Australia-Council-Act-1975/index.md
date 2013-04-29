@@ -1,76 +1,74 @@
 
 Australia Council Act 1975 
 Act No. 11 of 1975 as amended
-Consolidated as in force on 10 December 1999
-(includes amendments up to Act No. 146 of 1999)
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 1 October 1998
+(includes amendments up to Act No. 152 of 1997)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-Part II—Establishment, functions and powers of the Council	2
-4	Establishment of Council	2
-5	Functions of Council	2
-6	Powers of Council	3
-6A	Matters to be taken into account by Council	3
-6B	Directions by Minister	4
-7	Delegation	4
-Part III—Constitution and meetings of the Council	6
-8	Incorporation of Council	6
-9	Membership of Council	6
-10	Deputy Chairperson	7
-11	Term of office	8
-12	Leave of absence	8
-13	Resignation	9
-14	Termination of appointment	9
-15	Acting Chairperson	10
-16	Deputies	11
-17	Meetings	12
-17A	Committees	13
-Part IIIA—The General Manager of the Council	15
-19A	General Manager	15
-19B	Period of appointment of General Manager	15
-19C	Leave of absence	15
-19D	Resignation of General Manager	15
-19E	Acting General Manager	16
-19F	Termination of office	17
-Part IV—Boards	18
-20	Establishment of Boards	18
-21	Functions and powers of Boards	18
-22	Membership of Boards	19
-23	Term of office	20
-26	Resignation	20
-27	Termination of office	20
-28	Acting Chairperson	21
-29	Meetings	22
-31	Disclosure of interest	23
-31A	Delegation	24
-Part V—Finance	25
-32	Moneys payable to Council	25
-33	Application of moneys	25
-34	Contracts and borrowing	25
-36A	Investment	26
-38	Extra reporting requirements	26
-40	Taxation	26
-Part VI—Miscellaneous	27
-41	Staff	27
-41AA	Remuneration for person holding more than one office	27
-41A	Remuneration	27
-44	Regulations	28
-Notes to the Australia Council Act 1975	29
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+Part II—Establishment, functions and powers of the Council	
+4	Establishment of Council	
+5	Functions of Council	
+6	Powers of Council	
+6A	Matters to be taken into account by Council	
+6B	Directions by Minister	
+7	Delegation	
+Part III—Constitution and meetings of the Council	
+8	Incorporation of Council	
+9	Membership of Council	
+10	Deputy Chairperson	
+11	Term of office	
+12	Leave of absence	
+13	Resignation	
+14	Termination of appointment	
+15	Acting Chairperson	
+16	Deputies	
+17	Meetings	
+17A	Committees	
+Part IIIA—The General Manager of the Council	
+19A	General Manager	
+19B	Period of appointment of General Manager	
+19C	Leave of absence	
+19D	Resignation of General Manager	
+19E	Acting General Manager	
+19F	Termination of office	
+Part IV—Boards		
+20	Establishment of Boards	
+21	Functions and powers of Boards	
+22	Membership of Boards	
+23	Term of office	
+26	Resignation	
+27	Termination of office	
+28	Acting Chairperson	
+29	Meetings	
+31	Disclosure of interest	
+31A	Delegation	
+Part V—Finance		
+32	Moneys payable to Council	
+33	Application of moneys	
+34	Contracts and borrowing	
+36A	Investment	
+38	Extra reporting requirements	
+40	Taxation	
+Part VI—Miscellaneous	
+41	Staff	
+41AA	Remuneration for person holding more than one office	
+41A	Remuneration	
+44	Regulations	
+
 An Act to establish a Council for Purposes connected with the Promotion of the Arts, and to make Provision for related Matters
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
-		This Act may be cited as the Australia Council Act 1975.
+This Act may be cited as the Australia Council Act 1975.
 2  Commencement [see Note 1]
-		This Act shall come into operation on the day on which it receives the Royal Assent.
+This Act shall come into operation on the day on which it receives the Royal Assent.
 3  Interpretation
-		In this Act, unless the contrary intention appears:
+In this Act, unless the contrary intention appears:
 arts includes creative and interpretative expression through theatre, literature, music, visual arts, film and crafts.
 Board means a Board established under this Act and includes a co‑ordinating Board.
 Committee means a Committee appointed under section 17A.
@@ -80,13 +78,12 @@ community interest representative means a person who:
 Council means the Council established by this Act.
 General Manager means the General Manager of the Council appointed under section 19A.
 professional artist means a person who practises one or more of the arts as a profession.
-
 Part II—Establishment, functions and powers of the Council
-  
+Do not delete : Division placeholder
 4  Establishment of Council
-		There is established by this Act a Council by the name of the Australia Council.
+There is established by this Act a Council by the name of the Australia Council.
 5  Functions of Council
-		The functions of the Council are:
+The functions of the Council are:
 	(a)	to formulate and carry out policies designed:
 	(i)	to promote excellence in the arts;
 	(ii)	to provide, and encourage the provision of, opportunities for persons to practise the arts;
@@ -107,12 +104,12 @@ Part II—Establishment, functions and powers of the Council
 	(d)	to acquire, hold and dispose of real or personal property;
 	(e)	to accept gifts, devises and bequests made to the Council, whether on trust or otherwise, and to act as trustee of moneys or other property vested in the Council upon trust;
 	(f)	to make grants or loans of money, and to provide scholarships or other benefits, on such conditions as it thinks fit;
-	(g)	to co‑operate with the States and local governing bodies and with other persons and organizations concerned with the arts; and
+	(g)	to co-operate with the States and local governing bodies and with other persons and organizations concerned with the arts; and
 	(h)	to do anything incidental to any of its powers.
 	(2)	Notwithstanding anything contained in this Act, any moneys or property vested in the Council upon trust shall be dealt with in accordance with the powers and duties of the Council as trustee.
 	(3)	The Council may perform its functions and exercise its powers outside Australia for the benefit of Australia or Australians.
 6A  Matters to be taken into account by Council
-		The Council must, in the performance of its functions and the exercise of its powers, have regard to:
+The Council must, in the performance of its functions and the exercise of its powers, have regard to:
 	(a)	the policies of the Commonwealth Government in relation to the arts;
 	(b)	the policies of State Governments, and of local governing bodies, in relation to the arts, so far as it is practicable to do so; and
 	(c)	such other matters, if any, as the Minister specifies by notice in writing to the Chairperson.
@@ -132,9 +129,8 @@ Part II—Establishment, functions and powers of the Council
 	(2)	Where the Council delegates a function or power to a Committee, the Council shall from time to time give such general directions to the Committee with respect to the performance of the function or the exercise of the power as the Council thinks necessary to ensure the carrying out of the policies of the Council, and the Committee shall comply with those directions.
 	(3)	A function or power delegated under this section, when performed or exercised by the delegate, shall, for the purposes of this Act, be deemed to have been performed or exercised by the Council.
 	(4)	A delegation under this section does not prevent the performance of a function or the exercise of a power by the Council.
-
 Part III—Constitution and meetings of the Council
-  
+Do not delete : Division placeholder
 8  Incorporation of Council
 	(1)	The Council:
 	(a)	is a body corporate, with perpetual succession;
@@ -150,34 +146,34 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Council
 	(e)	subject to subsections (1) and (4), such number of persons who practise or have practised the arts or are otherwise associated with the arts as the Minister thinks fit; and
 	(f)	subject to subsections (1) and (3B), such number of community interest representatives as the Minister thinks fit.
 	(2A)	The members of the Council, other than the Chairperson and the members referred to in paragraph (2)(b), are to be appointed by the Minister.
-	(3)	The Chairperson is to be appointed by the Governor‑General.
-	(3A)	Subject to subsection (4A), the members of the Council hold office on a part‑time basis.
+	(3)	The Chairperson is to be appointed by the Governor-General.
+	(3A)	Subject to subsection (4A), the members of the Council hold office on a part-time basis.
 	(3B)	At least one of the members of the Council must be a community interest representative.
 	(4)	In appointing members of the Council referred to in paragraph (2)(e), the Minister shall endeavour to ensure that:
 	(a)	a majority of the members holding office pursuant to that paragraph are persons who practise or have practised the arts; and
 	(b)	the membership of the Council includes a reasonable balance of persons who practise or have practised the various arts.
-	(4A)	The Chairperson may be appointed either as a full‑time member or as a part‑time member.
-	(4B)	In the event that the Chairperson is a part‑time member, the person from time to time holding, or performing the duties of, the office of General Manager is, ex officio, a member of the Council.
+	(4A)	The Chairperson may be appointed either as a full-time member or as a part-time member.
+	(4B)	In the event that the Chairperson is a part-time member, the person from time to time holding, or performing the duties of, the office of General Manager is, ex officio, a member of the Council.
 	(5)	The performance of the functions or the exercise of the powers of the Council is not affected by reason only of:
 	(a)	there being a vacancy or vacancies in the membership of the Council; or
 	(b)	the number of members of the Council falling below 10 for a period of not more than 6 months.
 10  Deputy Chairperson
 	(1)	The Minister may appoint a member of the Council, other than the Chairperson or the General Manager, to be the Deputy Chairperson of the Council.
 	(2)	A person appointed under this section holds office as Deputy Chairperson until the expiration of the person’s period of appointment as a member or until the person sooner ceases to be a member.
-	(3)	Where a member appointed as Deputy Chairperson is, upon ceasing to be Deputy Chairperson by virtue of the expiration of the period of his or her appointment as a member, re‑appointed as a member, he or she is eligible for re‑appointment as Deputy Chairperson.
+	(3)	Where a member appointed as Deputy Chairperson is, upon ceasing to be Deputy Chairperson by virtue of the expiration of the period of his or her appointment as a member, re-appointed as a member, he or she is eligible for re-appointment as Deputy Chairperson.
 	(4)	The Deputy Chairperson may resign the office of Deputy Chairperson by writing signed and delivered to the Minister.
 11  Term of office
-	(1)	Subject to this Act, a member of the Council appointed under paragraph 9(2)(a), (e) or (f) holds office for such period, not exceeding 4 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
+	(1)	Subject to this Act, a member of the Council appointed under paragraph 9(2)(a), (e) or (f) holds office for such period, not exceeding 4 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 	(2)	A person shall not hold office under one or more of the provisions referred to in subsection (1) for a continuous period exceeding 6 years.
 	(3)	A person who has held office under one or more of the provisions referred to in subsection (1) for a continuous period of 6 years is not eligible to be again appointed under any of those provisions for a term of office commencing within 2 years after the expiration of that period.
-	(4)	For the purposes of the application of subsection (3) in relation to the eligibility of a person for appointment or re‑appointment as the Chairperson of the Council, any period of service by that person as a member of the Council otherwise than as Chairperson shall be disregarded.
-	(4A)	A person who has attained the age of 65 years shall not be appointed, or re‑appointed, as a full‑time Chairperson of the Council and a person shall not be appointed, or re‑appointed, as a full‑time Chairperson of the Council for a period that extends beyond the date on which the person will attain the age of 65 years.
+	(4)	For the purposes of the application of subsection (3) in relation to the eligibility of a person for appointment or re-appointment as the Chairperson of the Council, any period of service by that person as a member of the Council otherwise than as Chairperson shall be disregarded.
+	(4A)	A person who has attained the age of 65 years shall not be appointed, or re-appointed, as a full-time Chairperson of the Council and a person shall not be appointed, or re-appointed, as a full-time Chairperson of the Council for a period that extends beyond the date on which the person will attain the age of 65 years.
 	(4B)	A member of the Council holding office under paragraph 9(2)(b) holds office until he or she ceases to be the Chairperson of the relevant Board.
 12  Leave of absence
-	(1)	A full‑time Chairperson has such recreation leave entitlements as are determined by the Remuneration Tribunal.
-	(2)	The Minister may grant a full‑time Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+	(1)	Subject to section 87E of the Public Service Act 1922, a full‑time Chairperson has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(2)	The Minister may grant a full-time Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 13  Resignation
-	(1)	The Chairperson may resign by giving a written notice of resignation to the Governor‑General.
+	(1)	The Chairperson may resign by giving a written notice of resignation to the Governor-General.
 	(2)	Any other member of the Council (other than a member referred to in paragraph 9(2)(b)) may resign by giving a written notice of resignation to the Minister.
 14  Termination of appointment
 	(1)	The appropriate authority may terminate the appointment of a member of the Council by reason of misbehaviour or physical or mental incapacity.
@@ -185,12 +181,12 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Council
 	(a)	a member of the Council:
 	(i)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 	(ii)	fails without reasonable excuse to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
-	(b)	a full‑time Chairperson of the Council:
+	(b)	a full-time Chairperson of the Council:
 	(i)	engages, without the consent of the Minister, in any paid employment outside the duties of his or her office; or
 	(ii)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any period of 12 months; or
-	(c)	a part‑time member of the Council is, except with the permission of the Council, absent from 3 consecutive meetings of the Council;
+	(c)	a part-time member of the Council is, except with the permission of the Council, absent from 3 consecutive meetings of the Council;
 the appropriate authority shall terminate the appointment of that member.
-	(2A)	The Governor‑General is the appropriate authority in the case of the Chairperson.
+	(2A)	The Governor-General is the appropriate authority in the case of the Chairperson.
 	(2B)	The Minister is the appropriate authority in the case of any other member of the Council.
 	(3)	In this section:
 member of the Council does not include:
@@ -212,7 +208,7 @@ member of the Council does not include:
 	(1)	A member of the Council, being the Chairperson of a Board, may, with the approval of the Minister, appoint a member of the board to be his or her deputy.
 	(3)	A member of the Council referred to in subsection (1) may revoke the appointment of a person as his or her deputy, but the revocation is not effective until the member has given notice of it by writing signed by the member and delivered to the Minister.
 	(4)	The deputy of a member is entitled, in the event of the absence of the member from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be the member of whom he or she is the deputy.
-	(5)	A person appointed under this section, other than a person appointed or engaged under the Public Service Act 1999 or an officer or member of an authority of Australia, shall be paid such remuneration and allowances as are determined by the Minister.
+	(5)	A person appointed under this section, other than a person appointed or employed under the Public Service Act 1922 or an officer or member of an authority of Australia, shall be paid such remuneration and allowances as are determined by the Minister.
 17  Meetings
 	(1)	The Council shall hold such meetings as are necessary for the performance of its functions.
 	(2)	The meetings shall be convened by the Chairperson.
@@ -243,21 +239,20 @@ member of the Council does not include:
 	(c)	another method of communication determined by the Committee.
 	(8)	A determination by a Committee under subsection (7) may be made in respect of a particular meeting, or in respect of all meetings, of the Committee.
 	(9)	If a Committee so determines, a resolution must be taken to have been passed at a meeting of the Committee if, without meeting, a majority of the number of members who would, if present at a meeting of the Committee and entitled to vote on the resolution at that meeting, have constituted a quorum of the Committee indicate agreement with the resolution in accordance with the method determined by the Committee.
-
 Part IIIA—The General Manager of the Council
-  
+Do not delete : Division placeholder
 19A  General Manager
 	(1)	There shall be a General Manager of the Council who shall be appointed by the Minister.
 	(2)	The General Manager shall, subject to and in accordance with the directions of the Council, conduct the affairs of the Council.
 	(3)	The General Manager holds office on such terms and conditions (if any), in respect of matters not provided for by this Act, as are determined by the Minister.
 19B  Period of appointment of General Manager
-	(1)	The General Manager shall be appointed for such period not exceeding 7 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
-	(2)	A person who has attained the age of 65 years shall not be appointed or re‑appointed as the General Manager and a person shall not be appointed or re‑appointed as the General Manager for a period that extends beyond the date on which the person will attain the age of 65 years.
+	(1)	The General Manager shall be appointed for such period not exceeding 7 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
+	(2)	A person who has attained the age of 65 years shall not be appointed or re-appointed as the General Manager and a person shall not be appointed or re-appointed as the General Manager for a period that extends beyond the date on which the person will attain the age of 65 years.
 19C  Leave of absence
-	(1)	The General Manager has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(1)	Subject to section 87E of the Public Service Act 1922, the General Manager has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The Council may grant to the General Manager leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
 19D  Resignation of General Manager
-		The General Manager may resign the office of General Manager by writing signed by the General Manager and delivered to the Minister, but the resignation does not have effect until accepted by the Minister.
+The General Manager may resign the office of General Manager by writing signed by the General Manager and delivered to the Minister, but the resignation does not have effect until accepted by the Minister.
 19E  Acting General Manager
 	(1)	The Minister may appoint a person to act as General Manager:
 	(a)	during a vacancy in the office of General Manager, whether or not an appointment has previously been made to the office; or
@@ -279,12 +274,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(d)	becomes bankrupt or applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 	(e)	fails without reasonable excuse to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
 the Minister shall terminate the appointment of the General Manager.
-
 Part IV—Boards
-  
+Do not delete : Division placeholder
 20  Establishment of Boards
 	(1)	For the purposes of this Act, the Minister may, by notice published in the Gazette, establish:
-	(a)	a single co‑ordinating Board; and
+	(a)	a single co-ordinating Board; and
 	(b)	such number of other Boards as he or she thinks fit;
 and name those Boards as he or she thinks fit.
 	(2)	The Minister may, by notice published in the Gazette, revoke the notice under subsection (1) by which a Board was established.
@@ -297,15 +291,15 @@ and name those Boards as he or she thinks fit.
 	(2)	A Board shall also have such functions and powers as are delegated to it under section 7.
 	(3)	The Council may, by writing under its common seal, give directions to a Board with respect to the exercise of its powers or the performance of its functions under subsection (1) or (2), including a direction requiring a Board to act, or refrain from acting, as specified in the direction with respect to a particular matter specified in the direction.
 22  Membership of Boards
-	(1)	The co‑ordinating Board must consist of a Chairperson and not fewer than 4, nor more than 12, other members.
-	(2)	A Board, other than the co‑ordinating Board, must consist of a Chairperson and not fewer than 4, nor more than 8, other members.
-	(2A)	Subject to this section, the membership of the co‑ordinating Board must comprise:
+	(1)	The co-ordinating Board must consist of a Chairperson and not fewer than 4, nor more than 12, other members.
+	(2)	A Board, other than the co-ordinating Board, must consist of a Chairperson and not fewer than 4, nor more than 8, other members.
+	(2A)	Subject to this section, the membership of the co-ordinating Board must comprise:
 	(a)	such number as the Minister thinks fit of persons who practise or have practised the arts or are otherwise associated with the arts; and
 	(b)	such number as the Minister thinks fit of community interest representatives.
 	(3)	A majority of the members of a Board for the time being shall be persons who practise the arts or are otherwise associated with the arts.
 	(3A)	At least one of the members of each Board must be a community interest representative.
 	(3B)	A member of the Council, or of a Board established under paragraph 20(1)(b), may be appointed as a member of the co‑ordinating Board.
-	(4)	The members of a Board shall be appointed by the Minister, and shall be part‑time members.
+	(4)	The members of a Board shall be appointed by the Minister, and shall be part-time members.
 	(5)	A Board shall from time to time publicly advertise, in such manner as it determines, for persons who wish to be appointed as members of the Board to submit their names for consideration, and shall at all times maintain a list of names so submitted.
 	(6)	In selecting persons to be appointed as members of a Board, the Minister must give consideration to:
 	(a)	any recommendations made by the Council;
@@ -316,12 +310,12 @@ and name those Boards as he or she thinks fit.
 	(a)	there being a vacancy in the office of Chairperson of the Board; or
 	(b)	the number of members of the Board falling below the minimum number required by subsection (1) or (2), as the case may be, for a period of not more than 6 months.
 23  Term of office
-	(1)	Subject to this Act, a member of a Board holds office for such period, not exceeding 4 years, as the Minister specifies in the instrument of appointment, but is eligible for re‑appointment.
+	(1)	Subject to this Act, a member of a Board holds office for such period, not exceeding 4 years, as the Minister specifies in the instrument of appointment, but is eligible for re-appointment.
 	(2)	A member of a Board shall not hold office as a member of that Board for a continuous period exceeding 6 years.
 	(3)	A member of a Board who has held office as a member of that Board for a continuous period of 6 years is not eligible for re‑appointment for a term of office commencing within 2 years after the expiration of that period.
-	(4)	For the purposes of the application of subsection (3) in relation to the eligibility of a person for appointment or re‑appointment as the Chairperson of a Board, any period of service by that person as a member of that Board otherwise than as Chairperson shall be disregarded.
+	(4)	For the purposes of the application of subsection (3) in relation to the eligibility of a person for appointment or re-appointment as the Chairperson of a Board, any period of service by that person as a member of that Board otherwise than as Chairperson shall be disregarded.
 26  Resignation
-		A member of a Board may resign the office of a member by writing signed by the member and delivered to the Minister.
+A member of a Board may resign the office of a member by writing signed by the member and delivered to the Minister.
 27  Termination of office
 	(1)	The Minister may remove a member of a Board from office:
 	(a)	for misbehaviour or physical or mental incapacity;
@@ -367,9 +361,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(b)	take part in any decision of the Board with respect to that matter.
 31A  Delegation
 		The Minister may, in writing, delegate any of the Minister’s powers or functions under subsection 22(4) or subsection 27(1) or (2) to the Council.
-
 Part V—Finance
-  
+Do not delete : Division placeholder
 32  Moneys payable to Council
 	(1)	There are payable to the Council such moneys as are appropriated by the Parliament for the purposes of the Council.
 	(2)	The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Council.
@@ -395,10 +388,9 @@ Part V—Finance
 	(b)	the text of all directions under sections 6B and 7 during the year to which the report relates.
 	(2)	The Minister must cause any report or financial statements given by the members of the Council to the Minister under paragraph 16(1)(b) of the Commonwealth Authorities and Companies Act 1997 to be tabled in each House of the Parliament as soon as practicable.
 40  Taxation
-		The Council is not subject to taxation under any law of Australia or of a State or Territory.
-
+The Council is not subject to taxation under any law of Australia or of a State or Territory.
 Part VI—Miscellaneous
-  
+Do not delete : Division placeholder
 41  Staff
 	(1)	The Council may appoint such officers or engage such employees as it thinks necessary for the purposes of this Act.
 	(2)	The terms and conditions of service or employment of persons so appointed or engaged (in respect of matters not provided for by this Act) shall be as determined from time to time by the Council.
@@ -418,11 +410,12 @@ specified office means:
 	(c)	a member of a Committee; or
 	(d)	the General Manager.
 44  Regulations
-	(1)	The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-Notes to the Australia Council Act 1975
-Note 1
-The Australia Council Act 1975 as shown in this consolidation comprises Act No. 11, 1975 amended as indicated in the Tables below. 
+	(1)	The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+NOTE
+1.	The Australia Council Act 1975 as shown in this reprint comprises Act No. 11, 1975 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
@@ -447,7 +440,7 @@ Australia Council Amendment Act 1980
 114, 1980
 8 Sept 1980
 Ss. 25, 27 and 28: 1 Oct 1980 (see Gazette 1980, No. G39) (a) S. 26: 27 July 1981 (see Gazette 1981, No. S150) (a) Remainder: Royal Assent
-Ss. 6(a), (c), (e) and (f),  25(1), 25(2), 26(1)‑(3), 26(4), 27(1), 27(2) 28(1), and 28(2)(a) 
+Ss. 6(a), (c), (e) and (f),  25(1), 25(2), 26(1)-(3), 26(4), 27(1), 27(2) 28(1), and 28(2)(a) 
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
 65, 1985
 5 June 1985
@@ -486,36 +479,35 @@ S. 5: Royal Assent (c)
 Statute Law Revision Act 1996
 43, 1996
 25 Oct 1996
-Schedule 4 (item 12): Royal Assent (d)
+Schedule 4 (item 12): Royal Assent (d)
 —  
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 160‑174): 1 Jan 1998 (see Gazette 1997, No. GN49 (e)
+Schedule 2 (items 160-174): 1 Jan 1998 (see Gazette 1997, No. GN49 (e)
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 107‑109): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
-—
-(a)	Subsections 2(2)‑(4) of the Australia Council Amendment Act 1980 provide as follows:
-	(2)	An amendment made by this Act shall not take effect until such date as is fixed by Proclamation with respect to that amendment.
-	(3)	A Proclamation under subsection (2) may relate to 2 or more, or to all, of the amendments made by this Act.
-	(4)	Sections 25, 26, 27 and 28 shall come into operation as provided in those sections.
-	The date fixed under subsection 2(2) of the Australia Council Amendment Act 1980, for the amendments to take effect (other than the amendment set out in paragraph 6(c)) was 1 October 1980 (see Gazette 1980, No. G39).
+
+
+
+
+
+
+(a)	Subsections 2(2)-(4) of the Australia Council Amendment Act 1980 provide as follows:
+	“(2)	An amendment made by this Act shall not take effect until such date as is fixed by Proclamation with respect to that amendment.
+	“(3)	A Proclamation under subsection (2) may relate to 2 or more, or to all, of the amendments made by this Act.
+	“(4)	Sections 25, 26, 27 and 28 shall come into operation as provided in those sections.”
+	The date fixed under subsection 2(2) of the Australia Council Amendment Act 1980, for the amendments to take effect (other than the amendment set out in paragraph 6(c)) was 1 October 1980 (see Gazette 1980, No. G39).
 	The date fixed under subsection 2(2) for the amendment made by paragraph 6(c) of the Australia Council Amendment Act 1980 to take effect was 27 July 1981 (see Gazette 1981, No. S150).
 (b)	The Australia Council Act 1975 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+	“(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 (c)	The Australia Council Act 1975 was amended by section 5 only of the Arts, Environment and Territories Legislation Amendment Act 1993, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 (d)	The Australia Council Act 1975 was amended by Schedule 4 (item 12) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(e)	The Australia Council Act 1975 was amended by Schedule 2 (items 160‑174) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(f)	The Australia Council Act 1975 was amended by Schedule 1 (items 107‑109) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provides as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
+	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.” 
+(e)	The Australia Council Act 1975 was amended by Schedule 2 (items 160-174) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+	“(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.”
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -553,8 +545,6 @@ rs. No. 114, 1980
 am. No. 24, 1991
 
 rs. No. 179, 1991
-
-am. No. 146, 1999
 S. 13	
 am. No. 24, 1991
 
@@ -568,7 +558,7 @@ rs. No. 113, 1976
 
 am. No. 24, 1991; No. 152, 1997
 S. 16	
-am. No. 113, 1976; No. 24, 1991; No. 146, 1999
+am. No. 113, 1976; No. 24, 1991
 S. 17	
 am. No. 24, 1991
 S. 17A	
@@ -583,7 +573,7 @@ rs. No. 114, 1980
 am. No. 24, 1991
 
 rep. No. 152, 1997
-Part IIIA 	 (ss. 19A‑19F)
+Part IIIA 	 (ss. 19A-19F)
 ad. No. 113, 1976
 S. 19A	
 ad. No. 113, 1976
@@ -597,8 +587,6 @@ S. 19C
 ad. No. 113, 1976
 
 rs. No. 179, 1991
-
-am. No. 146, 1999
 S. 19D	
 ad. No. 113, 1976
 
@@ -610,7 +598,7 @@ am. No. 114, 1980; No. 24, 1991
 S. 19F	
 ad. No. 113, 1976
 
-am. No. 114, 1980; Nos. 24 and 179, 1991; No. 130, 1992; No. 152, 1997
+am. No. 114, 1980; Nos. 24 and 179, 1991; No. 130, 1992; No. 152, 1997
 S. 20	
 am. No. 114, 1980; No. 24, 1991 
 S. 21	
@@ -646,7 +634,7 @@ am. No. 36, 1978
 S. 33	
 am. No. 152, 1997
 S. 34	
-am. No. 114, 1980; No. 60, 1989; Nos. 24 and 179, 1991; No. 152, 1997
+am. No. 114, 1980; No. 60, 1989; Nos. 24 and 179, 1991; No. 152, 1997
 Ss. 35, 36	
 rep. No. 152, 1997
 S. 36A	
