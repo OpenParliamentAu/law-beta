@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C01671/Html/EqualOppWomWkpl99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01670/Html/EqualOppWomWkpl99_image001.gif)
 
 # Equal Opportunity for Women in the Workplace Act 1999
 
 **Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 2 January 2003
- taking into account amendments up to Act No. 105 of 2002
+This compilation was prepared on 31 October 2001
+ taking into account amendments up to Act No. 159 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -26,7 +23,7 @@ Prepared by the Office of Legislative Drafting,
 
 [2A](#2A).         Objects of Act                                                                                     1
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation                                                                                       2
 
 [4](#4).            Extension to Norfolk Island                                                                 5
 
@@ -36,7 +33,7 @@ Prepared by the Office of Legislative Drafting,
 
 **Part II—Equal opportunity for women in the workplace programs**
 
-[6](#6).            Employers required to develop equal opportunity for women in the workplace programs   8
+[6](#6).            Employers required to develop equal opportunity for women in the workplace programs 8
 
 [8](#8).            Equal opportunity for women in the workplace program                   8
 
@@ -109,6 +106,8 @@ Prepared by the Office of Legislative Drafting,
 [34](#34).          Regulations                                                                                        24
 
 **Notes** 
+
+ 
 
 ## An Act to require certain employers to promote equal opportunity for women in employment, to establish the Equal Opportunity for Women in the Workplace Agency and the office of the Director of Equal Opportunity for Women in the Workplace, and for related purposes
 
@@ -1038,23 +1037,6 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
   <td>
     <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002</div>
-  </td>
-  <td>
-    <div>105, 2002</div>
-  </td>
-  <td>
-    <div>14 Nov 2002</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 47) \[ <i>see (i)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
@@ -1098,99 +1080,6 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
                  (3)   Items 12, 13, 14, 24, 27, 28, 29, 30, 34, 44, 46, 47, 48, 55 and 57 of Schedule 1, items 90, 91 and 101 of Schedule 2, and items 2 and 6 to 11 of Schedule 3 commence 28 days after the day on which this Act receives the Royal Assent.
-
-_(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 47) only of the _Workplace Relations Amendment (Registration and Accountability of Organisations) Act 2002_, subsection 2(1) (items 2 and 25) and (3) of which provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>2\. Schedules 1 and 2</div>
-  </td>
-  <td>
-    <div>A single day to be fixed by Proclamation, subject to subsection (3)</div>
-  </td>
-  <td>
-    <div>12 May 2003 \[ <i>see Gazette</i>2002, No. GN49]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25\. Schedule 3, item 47</div>
-  </td>
-  <td>
-    <div>At the same time as the provisions covered by item 2 of this table</div>
-  </td>
-  <td>
-    <div>12 May 2003 \[ <i>see</i>Note 2]</div>
-  </td>
-</tr></table>
-
- 
 
 ## Table of Amendments
 
@@ -1518,23 +1407,7 @@ _(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
   </td>
 </tr></table>
 
-### Note 2
-
-_Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 (No. 105, 2002)_
-
-The following amendment commences on 12 May 2003:
-
-## Schedule 3
-
-## 47  Subsection 3(1) (paragraph (a) of the definition of _trade union_)
-
-Omit “the _Workplace Relations Act 1996_”, substitute “Schedule 1B to the _Workplace Relations Act 1996_”.
-
-As at 2 January 2003 the amendment is not incorporated in this compilation.
-
- 
-
-## Table A
+Table A
 
 ### Application, saving or transitional provisions
 
