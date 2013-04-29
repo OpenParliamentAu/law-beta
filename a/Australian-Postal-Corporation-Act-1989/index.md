@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00543/Html/AusPostalCorporation1989WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00206/Html/AusPostalCorporation1989WD02_image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 20 July 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 26 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1062,7 +1062,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (2)  The regulations may provide as specified in subsection (1) in spite of anything in the _Trade Practices Act 1974_.
 
-##### <a id="32C"></a>32C  Terms and conditions—incoming overseas mail service
+##### <a id="32C"></a>32C  Terms and conditions—incoming overseas mail service
 
              (1)  This section applies to a service supplied by Australia Post (an **_incoming overseas mail service_**) under which letters received by Australia Post from a country or place outside Australia are carried and delivered within Australia.
 
@@ -3049,7 +3049,7 @@ the amount shall be paid into an account kept by Australia Post called the Uncla
 
 ##### <a id="102"></a>102  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3609,23 +3609,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 2 (items 9–11): 
 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 32–37): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4839,37 +4822,6 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>am. No. 142, 1994; No. 156, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Australian Postal Corporation Act 1989</h9>
-
-## 32  Subsection 32(5)
-
-## 33  Paragraph 32B(1)(da)
-
-## 34  Subsection 32B(2)
-
-## 35  Section 32D
-
-_Note:       The heading to section 32D is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
-
-## 36  Subsection 33A(6A)
-
-## 37  Section 90E (paragraph (a) of the definition of _consumer protection law_)
-
-As at 20 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
