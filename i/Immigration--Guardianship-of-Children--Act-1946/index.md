@@ -1,769 +1,1182 @@
-![](http://www.comlaw.gov.au/Details/C2008C00337/Html/ImmiGuardofChild1946_image001.gif)
+**
 
-# Immigration (Guardianship of Children) Act 1946
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946 
+**
 
-**Act No. 45 of 1946 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Application of the _Criminal Code_                                                       1
 
-[4](#4).            Definitions                                                                                           1
+**
 
-[4AAA](#4AAA).   Non-citizen child                                                                                 2
+###  Long Title 
+**
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Immigration (Guardianship of Children) Act 1946_.
 
-[4AAB](#4AAB).   Declared States and Territories                                                            2
+ 
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on a date to be fixed by Proclamation.
 
-[4AA](#4AA).      Orders for guardianship of certain children                                         3
+ 
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 3  Application of the _Criminal Code_ 
+Chapter&#160;2 of the _Criminal Code_ applies to all offences against
 
-[4A](#4A).         Evidence                                                                                               3
+this Act.
 
-[5](#5).            Delegation                                                                                            3
+ 
+<dl compact="">
 
-[6](#6).            Guardianship of non-citizen children                                                  4
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-[6A](#6A).         Non-citizen child not to leave Australia without consent                   4
+general principles of criminal responsibility.
 
-[7](#7).            Custody of non-citizen children                                                          4
+ </dl>
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 4  Definitions 
+In this Act, unless the contrary intention appears:
 
-[8](#8).            Saving of application of State laws                                                      5
+ 
+<dl compact=""><dl compact="">
 
-[9](#9).            Offences in respect of non-citizen child                                              5
+_custodian_ means a person who, by or under this Act, is the
 
-[10](#10).          False statements in applications                                                          5
+custodian of a non-citizen child. _declared State or Territory_ means a State or Territory in respect of which a declaration under section&#160;4AAB is in force. _intending adoptive parent_, in relation to a person (the _child_), means a person who intends to:  </dl></dl>
 
-[11](#11).          Exemption of children from Act                                                          5
+<dl compact=""><dl compact=""><dl compact="">
 
-[11A](#11A).       Reconsideration and review of certain decisions                                 6
+<dt>(a)</dt><dd>adopt the child under the laws in force in a declared State or Territory;
 
-[11B](#11B).       Statements to accompany notification of certain decisions                 7
+or</dd>
 
-[12](#12).          Regulations                                                                                          7
+<dt>(b)</dt><dd>secure the recognition, under the laws in force in a declared State or
 
-**Notes** 
+Territory, of an adoption of the child by the person under the laws of a
 
-## An Act to make provision for and in connexion with the Guardianship of certain alien children
+foreign country.
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+</dd>
 
-                   This Act may be cited as the _Immigration (Guardianship of Children) Act 1946_.
+</dl></dl></dl>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<def><dl compact=""><dl compact="">
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+_non-citizen_ means a person who is not an Australian citizen. _non-citizen child_ means a person who is a non-citizen child under subsection 4AAA(1) or (4). _prescribed adoption class visa_ means a visa under the _Migration Act 1958_ that is declared by the regulations to be an adoption class visa for the purposes of this Act.  </dl></dl>
 
-##### <a id="3"></a>3  Application of the _Criminal Code_
+**
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 4AAA  Non-citizen child 
+**
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+ <dl compact="">
 
-##### <a id="4"></a>4  Definitions
+<dt>(1)</dt><dd>Subject to subsections&#160;(2) and (3), a person (the
 
-                   In this Act, unless the contrary intention appears:
+_child_) is a non-citizen child if the child:
 
-                    <a name="custodian"></a>**_custodian_** means a person who, by or under this Act, is the custodian of a non-citizen child.
+</dd> </dl>
 
-                    <a name="declar-state-territori"></a>**_declared State or Territory_** means a State or Territory in respect of which a declaration under section 4AAB is in force.
+<center>Back to Top</center>
 
-                    <a name="child"></a><a name="intending-adopt-parent"></a>**_intending adoptive parent_**, in relation to a person (the **_child_**), means a person who intends to:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  adopt the child under the laws in force in a declared State or Territory; or
+<dt>(a)</dt><dd>has not turned 18; and</dd>
 
-                     (b)  secure the recognition, under the laws in force in a declared State or Territory, of an adoption of the child by the person under the laws of a foreign country.
+<dt>(b)</dt><dd>enters Australia as a non-citizen; and</dd>
 
-                    <a name="non-citizen"></a>**_non-citizen_** means a person who is not an Australian citizen.
+<dt>(c)</dt><dd>intends, or is intended, to become a permanent resident of Australia.
 
-                    <a name="non-citizen-child"></a>**_non-citizen child_** means a person who is a non-citizen child under subsection 4AAA(1) or (4).
+</dd>
 
-                    <a name="prescrib-adopt-class-visa"></a>**_prescribed adoption class visa_** means a visa under the _Migration Act 1958_ that is declared by the regulations to be an adoption class visa for the purposes of this Act.
+</dl></dl></dl>
 
-##### <a id="4AAA"></a>4AAA  Non-citizen child
+<dl compact="">
 
-             (1)  Subject to subsections (2) and (3), a person (the **_child_**) is a non-citizen child if the child:
+<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the child enters Australia in the
 
-                     (a)  has not turned 18; and
+charge of, or for the purposes of living in Australia under the care of:
 
-                     (b)  enters Australia as a non-citizen; and
+</dd> </dl>
 
-                     (c)  intends, or is intended, to become a permanent resident of Australia.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Subsection (1) does not apply if the child enters Australia in the charge of, or for the purposes of living in Australia under the care of:
+<dt>(a)</dt><dd>a parent of the child; or</dd>
 
-                     (a)  a parent of the child; or
+<dt>(b)</dt><dd>a relative of the child who has turned 21; or</dd>
 
-                     (b)  a relative of the child who has turned 21; or
+<dt>(c)</dt><dd>an intending adoptive parent of the child.
 
-                     (c)  an intending adoptive parent of the child.
+</dd>
 
-             (3)  Subsection (1) does not apply if:
+</dl></dl></dl>
 
-                     (a)  the child enters Australia in the charge of, or for the purposes of living in Australia under the care of, a person who is not less than 21 years of age (the **_adult_**); and
+<dl compact="">
 
-                     (b)  a prescribed adoption class visa is in force in relation to the child when the child enters Australia; and
+<dt>(3)</dt><dd>Subsection&#160;(1) does not apply if:
 
-                     (c)  the adult intends to reside with the child in a declared State or Territory.
+</dd> </dl>
 
-             (4)  A person is a non-citizen child if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the person has not turned 18; and
+<dt>(a)</dt><dd>the child enters Australia in the charge of, or for the purposes of living
 
-                     (b)  a direction under section 4AA is in force in relation to the person.
+in Australia under the care of, a person who is not less than 21 years of age
 
-##### <a id="4AAB"></a>4AAB  Declared States and Territories
+(the _adult_); and</dd>
 
-             (1)  The Minister may declare a State or Territory to be a declared State or Territory for the purposes of this Act.
+<dt>(b)</dt><dd>a prescribed adoption class visa is in force in relation to the child when
 
-             (2)  A declaration under subsection (1) is to be:
+the child enters Australia; and</dd>
 
-                     (a)  made in writing; and
+<dt>(c)</dt><dd>the adult intends to reside with the child in a declared State or
 
-                     (b)  published in the _Gazette_.
+Territory.
 
-##### <a id="4AA"></a>4AA  Orders for guardianship of certain children
+</dd>
 
-             (1)  Subject to subsection (2), where:
+</dl></dl></dl>
 
-                     (a)  a person under the age of 18 years enters Australia as a non-citizen in the charge of, or for the purpose of living in Australia under the care of, a relative of the person (other than a parent) not less than 21 years of age; and
+<dl compact="">
 
-                     (b)  the person intends to become, or is intended to become, a permanent resident of Australia;
+<dt>(4)</dt><dd>A person is a non-citizen child if:
 
-the Minister may, if the Minister is satisfied that it is necessary in the interests of the person to do so, direct, in writing, that the person shall be the Minister’s ward.
+</dd> </dl>
 
-             (2)  The Minister shall not give a direction under subsection (1) unless the relative consents to the Minister doing so.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="4A"></a>4A  Evidence
+<dt>(a)</dt><dd>the person has not turned 18; and</dd>
 
-                   For the purposes of this Act (including proceedings arising under this Act or in which a question arises as to the application of this Act to a person), a certificate in writing by a prescribed officer of the Commonwealth or of a State or Territory that a person named in the certificate is a non-citizen child, or was, at a date specified in the certificate, a non-citizen child, is evidence of the fact so certified.
+<dt>(b)</dt><dd>a direction under section&#160;4AA is in force in relation to the person.
 
-##### <a id="5"></a>5  Delegation
+</dd>
 
-             (1)  The Minister may, in relation to any matters or class of matters, or in relation to any non-citizen child or class of non-citizen children, by writing under his or her hand, delegate to any officer or authority of the Commonwealth or of any State or Territory all or any of his or her powers and functions under this Act (except this power of delegation) so that the delegated powers and functions may be exercised by the delegate with respect to the matters or class of matters, or the child or class of children, specified in the instrument of delegation.
+</dl></dl></dl>
 
-             (2)  Where under this Act the exercise of any power or function by the Minister or the operation of any provision of this Act is dependent upon the opinion or state of mind of the Minister in relation to any matter, that power or function may be exercised by the delegate or that provision may operate (as the case may be) upon the opinion or state of mind of the delegate in relation to that matter.
+**
 
-             (3)  A delegation under this section shall be revocable at will, and no delegation shall prevent the exercise of any power or function by the Minister.
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 4AAB  Declared States and Territories 
+**
 
-##### <a id="6"></a>6  Guardianship of non-citizen children
+ <dl compact="">
 
-                   The Minister shall be the guardian of the person, and of the estate in Australia, of every non-citizen child who arrives in Australia after the commencement of this Act to the exclusion of the father and mother and every other guardian of the child, and shall have, as guardian, the same rights, powers, duties, obligations and liabilities as a natural guardian of the child would have, until the child reaches the age of 18 years or leaves Australia permanently, or until the provisions of this Act cease to apply to and in relation to the child, whichever first happens.
+<dt>(1)</dt><dd>The Minister may declare a State or Territory to be a declared State or
 
-##### <a id="6A"></a>6A  Non-citizen child not to leave Australia without consent
+Territory for the purposes of this Act.</dd> <dt>(2)</dt><dd>A declaration under subsection&#160;(1) is to be: </dd> </dl>
 
-             (1)  A non-citizen child shall not leave   Australia except with the consent in writing of the Minister.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The Minister shall not refuse to grant any such consent unless he or she is satisfied that the granting of the consent would be prejudicial to the interests of the non-citizen child.
+<dt>(a)</dt><dd>made in writing; and</dd>
 
-             (3)  A person shall not aid, abet, counsel or procure a non-citizen child to leave Australia contrary to the provisions of this section.
+<dt>(b)</dt><dd>published in the _Gazette_.
 
-                    Penalty:  Two hundred dollars or imprisonment for six months.
+</dd>
 
-             (4)  This section shall not affect the operation of any other law regulating the departure of persons from Australia.
+</dl></dl></dl>
 
-##### <a id="7"></a>7  Custody of non-citizen children
+**
 
-             (1)  The Minister may place a non-citizen child in the custody of a person who:
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 4AA  Orders for guardianship of certain children 
+**
 
-                     (a)  is willing to be the custodian of that child; and
+ <dl compact="">
 
-                     (b)  is, in the opinion of the Minister, a suitable person to be the custodian of that child;
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person under the age of 18 years enters Australia as a non-citizen in
+
+the charge of, or for the purpose of living in Australia under the care of, a
+
+relative of the person (other than a parent) not less than 21 years of age;
+
+and</dd>
+
+<dt>(b)</dt><dd>the person intends to become, or is intended to become, a permanent
+
+resident of Australia;
+
+</dd>
+
+</dl></dl></dl>
+
+the Minister may, if the Minister is satisfied that it is necessary in the interests of the person to do so, direct, in writing, that the person shall be the Minister's ward.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The Minister shall not give a direction under subsection&#160;(1) unless
+
+the relative consents to the Minister doing so.
+
+</dd> </dl>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 4A  Evidence 
+**
+
+ <dl compact="">
+
+		For the purposes of this Act (including proceedings arising under this Act or
+
+in which a question arises as to the application of this Act to a person), a
+
+certificate in writing by a prescribed officer of the Commonwealth or of a
+
+State or Territory that a person named in the certificate is a non-citizen
+
+child, or was, at a date specified in the certificate, a non-citizen child, is
+
+evidence of the fact so certified.
+
+ </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 5  Delegation 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may, in relation to any matters or class of matters, or in
+
+relation to any non-citizen child or class of non-citizen children, by writing
+
+under his hand, delegate to any officer or authority of the Commonwealth or of
+
+any State or Territory all or any of his powers and functions under this Act
+
+(except this power of delegation) so that the delegated powers and functions
+
+may be exercised by the delegate with respect to the matters or class of
+
+matters, or the child or class of children, specified in the instrument of
+
+delegation.</dd> <dt>(2)</dt><dd>Where under this Act the exercise of any power or function by the Minister or the operation of any provision of this Act is dependent upon the opinion or state of mind of the Minister in relation to any matter, that power or function may be exercised by the delegate or that provision may operate (as the case may be) upon the opinion or state of mind of the delegate in relation to that matter.</dd> <dt>(3)</dt><dd>A delegation under this section shall be revocable at will, and no delegation shall prevent the exercise of any power or function by the Minister. </dd> </dl>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 6  Guardianship of non-citizen children 
+**
+
+ <dl compact="">
+
+		The Minister shall be the guardian of the person, and of the estate in
+
+Australia, of every non-citizen child who arrives in Australia after the
+
+commencement of this Act to the exclusion of the father and mother and every
+
+other guardian of the child, and shall have, as guardian, the same rights,
+
+powers, duties, obligations and liabilities as a natural guardian of the child
+
+would have, until the child reaches the age of 18 years or leaves Australia
+
+permanently, or until the provisions of this Act cease to apply to and in
+
+relation to the child, whichever first happens.
+
+ </dl>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 6A  Non-citizen child not to leave Australia without consent 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A non-citizen child shall not leave Australia except with the consent in
+
+writing of the Minister.</dd> <dt>(2)</dt><dd>The Minister shall not refuse to grant any such consent unless he is satisfied that the granting of the consent would be prejudicial to the interests of the non-citizen child.</dd> <dt>(3)</dt><dd>A person shall not aid, abet, counsel or procure a non-citizen child to leave Australia contrary to the provisions of this section. </dd> </dl>
+
+Penalty:	Two hundred dollars or imprisonment for six months.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>This section shall not affect the operation of any other law regulating
+
+the departure of persons from Australia.
+
+</dd> </dl>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 7  Custody of non-citizen children 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may place a non-citizen child in the custody of a person who:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is willing to be the custodian of that child; and</dd>
+
+<dt>(b)</dt><dd>is, in the opinion of the Minister, a suitable person to be the custodian
+
+of that child;
+
+</dd>
+
+</dl></dl></dl>
 
 and that person shall thereupon become the custodian of that child.
 
-             (2)  The Minister may, at any time, if he or she considers it necessary so to do in the interests of a non-citizen child, remove the child from the custody of his or her custodian and place the child in the custody of some other person, who shall thereupon be the custodian of that child.
+<dl compact="">
 
-##### <a id="8"></a>8  Saving of application of State laws
+<dt>(2)</dt><dd>The Minister may, at any time, if he considers it necessary so to do in
 
-                   Except as prescribed, nothing in this Act shall affect the operation in relation to non-citizen children of any provision of the laws of any State or Territory relating to child welfare.
+the interests of a non-citizen child, remove the child from the custody of his
 
-##### <a id="9"></a>9  Offences in respect of non-citizen child
+custodian and place the child in the custody of some other person, who shall
 
-                   A person shall not, without lawful excuse (proof whereof shall lie upon him or her):
+thereupon be the custodian of that child.
 
-                     (a)  remove any non-citizen child, or counsel or cause any non-citizen child to be withdrawn or to abscond, from the custody of his or her custodian; or
+</dd> </dl>
 
-                     (b)  knowing any non-citizen child to have been so removed or withdrawn or to have so absconded, harbour or conceal the child or prevent him or her from returning to his or her custodian.
+**
 
-                    Penalty:  Two hundred dollars or imprisonment for six months.
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 8  Saving of application of State laws 
+**
 
-##### <a id="10"></a>10  False statements in applications
+ <dl compact="">
 
-                   For the purposes of section 136.1 of the _Criminal Code_, an application made for the purposes of this Act is taken to be an application for a benefit.
+		Except as prescribed, nothing in this Act shall affect the operation in
 
-##### <a id="11"></a>11  Exemption of children from Act
+relation to non-citizen children of any provision of the laws of any State or
 
-                   The Minister may, by order in writing under his or her hand, direct that the provisions of this Act shall not apply in respect of a child specified in the order, or a child included in a class of children so specified, and, while the order is in force, the provisions of this Act do not apply to or in relation to that child or to a child included in that class of children.
+Territory relating to child welfare.
 
-##### <a id="11A"></a>11A  Reconsideration and review of certain decisions
+ </dl>
 
-             (1)  In this section, unless the contrary intention appears:
+<center>Back to Top</center>
 
-                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+**
 
-                    <a name="relev-decision"></a>**_relevant decision_** means a decision of a delegate of the Minister under section 4AA or 11.
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 9  Offences in respect of non-citizen child 
+**
 
-                    <a name="review-decision"></a>**_reviewable decision_** means:
+ <dl compact="">
 
-                     (a)  a decision of the Minister under section 4AA or 11; or
+		A person shall not, without lawful excuse (proof whereof shall lie upon him):
 
-                     (b)  a decision of the Minister under subparagraph (3)(a)(ii) or subsection (4).
+ </dl>
 
-             (2)  Subject to subsection (3), a person affected by a relevant decision may request the Minister to reconsider the decision.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  The request shall:
+<dt>(a)</dt><dd>remove any non-citizen child, or counsel or cause any non-citizen child to
 
-                     (a)  be made by notice in writing given to the Minister within:
+be withdrawn or to abscond, from the custody of his custodian; or</dd>
 
-                              (i)  the period of 28 days after the decision first comes to the notice of the person; or
+<dt>(b)</dt><dd>knowing any non-citizen child to have been so removed or withdrawn or to
 
-                             (ii)  such further period as the Minister (whether before or after the expiration of that period of 28 days), by notice in writing served on the person, allows; and
+have so absconded, harbour or conceal the child or prevent him from returning
 
-                     (b)  shall set out the reasons for making the request.
+to his custodian.
 
-             (4)  The Minister shall, within 45 days after receipt of the request, reconsider the relevant decision and may:
+</dd>
 
-                     (a)  confirm the decision;
+</dl></dl></dl>
 
-                     (b)  vary the decision; or
+Penalty:	Two hundred dollars or imprisonment for six months. 
 
-                     (c)  set the decision aside and make a new decision in substitution for the decision set aside.
+**
 
-             (5)  Where, pursuant to a request under subsection (2), the Minister reconsiders a relevant decision, the Minister shall, by notice in writing served on the person who made the request, inform the person of the result of the reconsideration.
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 10  False statements in applications 
+**
 
-             (6)  Applications may be made to the Administrative Appeals Tribunal for review of reviewable decisions.
+ <dl compact="">
 
-##### <a id="11B"></a>11B  Statements to accompany notification of certain decisions
+		For the purposes of section 136.1 of the _Criminal Code_, an application
 
-             (1)  In this section, **_decision_**, **_relevant decision_** and **_reviewable decision_** have the same respective meanings as in section 11A.
+made for the purposes of this Act is taken to be an application for a benefit.
 
-             (2)  Where a delegate of the Minister makes a relevant decision and gives to a person whose interests are affected by the decision notice in writing of the making of the decision, the notice shall include a statement to the effect that a person affected by the decision:
+ </dl>
 
-                     (a)  may, if the person is dissatisfied with the decision, seek a reconsideration of the decision by the Minister in accordance with subsection 11A(3); and
+**
 
-                     (b)  may, subject to the _Administrative Appeals Tribunal Act 1975_, if the person is dissatisfied with the decision of the Minister on the reconsideration, apply to the Administrative Appeals Tribunal for review of the last-mentioned decision.
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 11  Exemption of children from Act 
+**
 
-             (3)  Where the Minister makes a reviewable decision and gives to a person whose interests are affected by the decision notice in writing of the making of the decision, the notice shall include a statement to the effect that subject to the _Administrative Appeals Tribunal Act 1975_, a person affected by the decision may, if the person is dissatisfied with the decision, apply to the Administrative Appeals Tribunal for review of the decision.
+ <dl compact="">
 
-             (4)  Any failure to comply with the requirements of subsection (2) or (3) in relation to a decision does not affect the validity of the decision.
+		The Minister may, by order in writing under his hand, direct that the
 
-##### <a id="12"></a>12  Regulations
+provisions of this Act shall not apply in respect of a child specified in the
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular for:
+order, or a child included in a class of children so specified, and, while the
 
-                    (aa)  prescribing principles to be observed in considering whether or not to give a direction under section 4AA;
+order is in force, the provisions of this Act do not apply to or in relation to
 
-                     (a)  prescribing the principles to be observed in relation to the placing of non-citizen children with custodians;
+that child or to a child included in that class of children.
 
-                     (b)  regulating the placing of such children with custodians and the transfer of such children from one custodian to another;
+ </dl>
 
-                     (c)  prescribing provisions to be observed by custodians in relation to the custody, control, welfare, care, education, training and employment of non-citizen children;
+**
 
-                     (d)  providing that any provision of the laws of any State or Territory relating to child welfare shall not apply in relation to non-citizen children, and making provision in lieu of any such provision;
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 11A  Reconsideration and review of certain decisions 
+**
 
-                    (da)  prescribing powers, rights, duties and liabilities of or in relation to the Minister as guardian of the estate in Australia of non-citizen children, including provisions for the receipt, disposition, management and control of property of non-citizen children, and of property of deceased non-citizen children from their deaths until the grant of administration;
+ <dl compact="">
 
-                    (db)  making provision for preventing non-citizen children from leaving Australia without the consent in writing of the Minister; and
+<dt>(1)</dt><dd>In this section, unless the contrary intention appears:
 
-                      (f)  prescribing penalties not exceeding Forty dollars, for any offence against the regulations. 
+</dd> </dl>
 
-# Notes to the _Immigration (Guardianship of Children) Act 1946_
+<def><dl compact=""><dl compact="">
 
-### Note 1
+_decision_ has the same meaning as in the _Administrative Appeals Tribunal Act 1975_. _relevant decision_ means a decision of a delegate of the Minister under section&#160;4AA or 11\. _reviewable decision_ means:  </dl></dl>
 
-The _Immigration (Guardianship of Children) Act 1946_ as shown in this compilation comprises Act No. 45, 1946 amended as indicated in the Tables below.
+<dl compact=""><dl compact=""><dl compact="">
 
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+<dt>(a)</dt><dd>a decision of the Minister under section&#160;4AA or 11; or</dd>
 
-### Table of Acts
+<dt>(b)</dt><dd>a decision of the Minister under subparagraph&#160;(3)(a)(ii) or
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="0%">
-  <col width="14%">
-</colgroup>
+subsection&#160;(4).
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Subject to subsection&#160;(3), a person affected by a relevant decision
+
+may request the Minister to reconsider the decision.</dd> <dt>(3)</dt><dd>The request shall: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>be made by notice in writing given to the Minister within:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the period of 28 days after the decision first comes to the notice of the
+
+person; or</dd>
+
+<dt>(ii)</dt><dd>such further period as the Minister (whether before or after the
+
+expiration of that period of 28 days), by notice in writing served on the
+
+person, allows; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>shall set out the reasons for making the request.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>The Minister shall, within 45 days after receipt of the request,
+
+reconsider the relevant decision and may:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>confirm the decision;</dd>
+
+<dt>(b)</dt><dd>vary the decision; or</dd>
+
+<dt>(c)</dt><dd>set the decision aside and make a new decision in substitution for the
+
+decision set aside.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Where, pursuant to a request under subsection&#160;(2), the Minister
+
+reconsiders a relevant decision, the Minister shall, by notice in writing
+
+served on the person who made the request, inform the person of the result of
+
+the reconsideration.</dd> <dt>(6)</dt><dd>Applications may be made to the Administrative Appeals Tribunal for review of reviewable decisions. </dd> </dl>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 11B  Statements to accompany notification of certain decisions 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>In this section, _decision_, _relevant decision_
+
+and _reviewable decision_ have the same respective meanings as in
+
+section&#160;11A.</dd> <dt>(2)</dt><dd>Where a delegate of the Minister makes a relevant decision and gives to a person whose interests are affected by the decision notice in writing of the making of the decision, the notice shall include a statement to the effect that a person affected by the decision: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>may, if the person is dissatisfied with the decision, seek a
+
+reconsideration of the decision by the Minister in accordance with subsection
+
+11A(3); and</dd>
+
+<dt>(b)</dt><dd>may, subject to the _Administrative Appeals Tribunal Act 1975_, if
+
+the person is dissatisfied with the decision of the Minister on the
+
+reconsideration, apply to the Administrative Appeals Tribunal for review of the
+
+last-mentioned decision.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where the Minister makes a reviewable decision and gives to a person whose
+
+interests are affected by the decision notice in writing of the making of the
+
+decision, the notice shall include a statement to the effect that subject to
+
+the _Administrative Appeals Tribunal Act 1975_, a person affected by the
+
+decision may, if the person is dissatisfied with the decision, apply to the
+
+Administrative Appeals Tribunal for review of the decision.</dd> <dt>(4)</dt><dd>Any failure to comply with the requirements of subsection&#160;(2) or (3) in relation to a decision does not affect the validity of the decision. </dd> </dl>
+
+**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946- SECT 12  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters which by this Act are required or permitted to be
+
+prescribed or which are necessary or convenient to be prescribed for carrying
+
+out or giving effect to this Act, and in particular for:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(aa)</dt><dd>prescribing principles to be observed in considering whether or not to
+
+give a direction under section&#160;4AA;</dd>
+
+<dt>(a)</dt><dd>prescribing the principles to be observed in relation to the placing of
+
+non-citizen children with custodians;</dd>
+
+<dt>(b)</dt><dd>regulating the placing of such children with custodians and the transfer
+
+of such children from one custodian to another;</dd>
+
+<dt>(c)</dt><dd>prescribing provisions to be observed by custodians in relation to the
+
+custody, control, welfare, care, education, training and employment of
+
+non-citizen children;</dd>
+
+<dt>(d)</dt><dd>providing that any provision of the laws of any State or Territory
+
+relating to child welfare shall not apply in relation to non-citizen children,
+
+and making provision in lieu of any such provision;</dd>
+
+<dt>(da)</dt><dd>prescribing powers, rights, duties and liabilities of or in relation to
+
+the Minister as guardian of the estate in Australia of non-citizen children,
+
+including provisions for the receipt, disposition, management and control of
+
+property of non-citizen children, and of property of deceased non-citizen
+
+children from their deaths until the grant of administration;</dd>
+
+<dt>(db)</dt><dd>making provision for preventing non-citizen children from leaving
+
+Australia without the consent in writing of the Minister; and</dd>
+
+<dt>(f)</dt><dd>prescribing penalties not exceeding Forty dollars, for any offence against
+
+the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  IMMIGRATION (GUARDIANSHIP OF CHILDREN) ACT 1946<centreit>Notes to the _Immigration (Guardianship of Children) Act 1946_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Immigration (Guardianship of Children) Act 1946_ as shown in this compilation comprises Act No.&#160;45, 1946 amended as indicated in the Tables below.
+ All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Immigration (Guardianship of Children) Act 1946</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Immigration (Guardianship of Children) Act 1946</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>45, 1946</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>15 Aug 1946</div>
+
   </td>
-  <td colspan="2">
-    <div>30 Dec 1946 ( <i>see Gazette</i>1946, p. 3598)</div>
+  <td colspan="1" align="left">
+    <div>30 Dec 1946 ( <i>see Gazette</i>1946, p.&#160;3598)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Immigration (Guardianship of Children) Act 1948</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Immigration (Guardianship of Children) Act 1948</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>62, 1948</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6 Dec 1948</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>6 Dec 1948</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Immigration (Guardianship of Children) Act 1952</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Immigration (Guardianship of Children) Act 1952</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29, 1952</div>
+
   </td>
-  <td>
-    <div>16 June 1952</div>
+  <td colspan="1" align="left">
+    <div>16&#160;June 1952</div>
+
   </td>
-  <td colspan="2">
-    <div>16 June 1952</div>
+  <td colspan="1" align="left">
+    <div>16&#160;June 1952</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision (Decimal Currency) Act 1966</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>93, 1966</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29 Oct 1966</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>1 Dec 1966</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1973</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>216, 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Dec 1973</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>31 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 9(1) and 10</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Migration (Miscellaneous Amendments) Act 1983</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Migration (Miscellaneous Amendments) Act 1983</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>84, 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Nov 1983</div>
+
   </td>
-  <td colspan="2">
-    <div>Part V (ss. 9–20): 2 Apr 1984 ( <i>see</i>s. 2(1) and <i>Gazette</i>1984, No. S119) <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Part&#160;V (ss. 9-20): 2 Apr 1984 ( <i>see</i>s.&#160;2(1) and <i>Gazette</i>1984, No.&#160;S119) <i>(a)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;1) 1985</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>65, 1985</div>
+
   </td>
-  <td>
-    <div>5 June 1985</div>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1985</div>
+
   </td>
-  <td colspan="2">
-    <div>S. 3: 1 July 1986 ( <i>see Gazette</i>1986, No. S311) <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 3: 1&#160;July 1986 ( <i>see Gazette</i>1986, No. S311) <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Immigration (Guardianship of Children) Amendment Act 1994</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Immigration (Guardianship of Children) Amendment Act 1994</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>45, 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>15 Mar 1994</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>12 Apr 1994</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>137, 2000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Nov 2000</div>
+
   </td>
-  <td colspan="2">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+  <td colspan="1" align="left">
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
+Remainder: 24&#160;May 2001</div>
+
   </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Migration Legislation Amendment (Application of Criminal Code) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Migration Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>97, 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Aug 2001</div>
+
   </td>
-  <td colspan="2">
+  <td colspan="1" align="left">
     <div>19 Sept 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Immigration (Guardianship of Children) Act 1946_ was amended by Part&#160;V (sections&#160;9-20) only of the _Migration (Miscellaneous Amendments) Act 1983_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to subsection&#160;(2), this Act shall come into operation on the day on which the _Migration Amendment Act 1983_ comes into operation.
+
+_(b)_	The _Immigration (Guardianship of Children) Act 1946_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(24) of which provides as follows:
+
+	(24)	The amendments of the _Immigration (Guardianship of Children) Act 1946_ made by this Act shall come into operation on a day to be fixed by Proclamation.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 334–342): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
 </tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
-
-_(a)_     The _Immigration (Guardianship of Children) Act 1946_ was amended by Part V (sections 9–20) only of the _Migration (Miscellaneous Amendments) Act 1983_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsection (2), this Act shall come into operation on the day on which the _Migration Amendment Act 1983_ comes into operation.
-
-_(b)_    The _Immigration (Guardianship of Children) Act 1946_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(24) of which provides as follows:
-
-               (24)   The amendments of the _Immigration (Guardianship of Children) Act 1946_ made by this Act shall come into operation on a day to be fixed by Proclamation.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="33%">
-  <col width="67%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Title</div>
+
   </td>
-  <td>
-    <div>am. No. 84, 1983</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;84, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 97, 2001</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;216, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 97, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 29, 1952; No. 216, 1973; No. 84, 1983; No. 65, 1985; No. 45, 1994</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;29, 1952; No.&#160;216, 1973; No.&#160;84, 1983; No.&#160;65, 1985; No.&#160;45, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 4AAA, 4AAB</div>
+
   </td>
-  <td>
-    <div>ad. No. 45, 1994</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;45, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4AA</div>
+
   </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;65, 1985</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4A</div>
+
   </td>
-  <td>
-    <div>ad. No. 29, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 84, 1983</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;29, 1952</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;84, 1983</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 216, 1973; No. 84, 1983; No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;84, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
-    <div>am. No. 62, 1948; No. 216, 1973; No. 84, 1983</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;62, 1948; No.&#160;216, 1973; No.&#160;84, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6A</div>
+
   </td>
-  <td>
-    <div>ad. No. 62, 1948</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 84, 1983; No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;62, 1948</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 1966; No.&#160;84, 1983</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
-    <div>am. No. 62, 1948; No. 84, 1983; No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;62, 1948; No.&#160;84, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
-  <td>
-    <div>am. No. 216, 1973; No. 84, 1983</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973; No.&#160;84, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
-    <div>am. No. 93, 1966; No. 84, 1983; No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 1966; No.&#160;84, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2000</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;93, 1966</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11</div>
+
   </td>
-  <td>
-    <div>rs. No. 29, 1952</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;29, 1952</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 11A, 11B</div>
+
   </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;65, 1985</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 62, 1948; No. 93, 1966; No. 216, 1973; No. 84, 1983; No. 65, 1985</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;62, 1948; No.&#160;93, 1966; No.&#160;216, 1973; No.&#160;84, 1983; No.&#160;65, 1985</div>
+
   </td>
-</tr></table>
+</tr></table>**Table A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ (No. 137, 2000)
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+**Schedule 2** **418  Transitional&#151;pre-commencement offences** (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
-## Schedule 2
+<dl compact=""><dl compact=""><dl compact="">
 
-## 418  Transitional—pre-commencement offences
+<dt>(a)</dt><dd>an offence committed before the commencement of this item; or</dd>
 
-(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+<dt>(b)</dt><dd>proceedings for an offence alleged to have been committed before the
 
-                     (a)  an offence committed before the commencement of this item; or
+commencement of this item; or</dd>
 
-                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
+<dt>(c)</dt><dd>any matter connected with, or arising out of, such proceedings;
 
-                     (c)  any matter connected with, or arising out of, such proceedings;
+</dd>
+
+</dl></dl></dl>
 
 as if the amendment or repeal had not been made.
 
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)	Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre-commencement notices
+**419  Transitional&#151;pre-commencement notices**
 
 If:
 
-                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  any or all of those other provisions are repealed by this Schedule; and
+<dt>(a)</dt><dd>a provision in force immediately before the commencement of this item
 
-                     (c)  the first-mentioned provision is amended by this Schedule;
+required that a notice set out the effect of one or more other provisions;
+
+and</dd>
+
+<dt>(b)</dt><dd>any or all of those other provisions are repealed by this Schedule; and</dd>
+
+<dt>(c)</dt><dd>the first-mentioned provision is amended by this Schedule;
+
+</dd>
+
+</dl></dl></dl>
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+_Migration Legislation Amendment (Application of Criminal Code) Act 2001_ (No. 97, 2001) 
 
-_Migration Legislation Amendment (Application of Criminal Code) Act 2001 (No. 97, 2001)_
+**4  Application of amendments**
 
-##### <a id="4"></a>4  Application of amendments
+<dl compact="">
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
 
- 
+</def>
 
- 
+</def>
+
+
