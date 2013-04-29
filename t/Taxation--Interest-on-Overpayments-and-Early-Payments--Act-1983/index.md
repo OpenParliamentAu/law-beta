@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00185/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00284/Html/TaxnIntOverPEarlyP1983WD02_image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 9 March 2010
+This compilation was prepared on 1 July 2009
  taking into account amendments up to Act No. 42 of 2009
 
 The text of any of those amendments not in force
@@ -20,141 +20,141 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                   1
+[2](#2).            Commencement
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[3A](#3A).         Provision of correlative relief                                                               4
+[3A](#3A).         Provision of correlative relief
 
-[3B](#3B).         Application of the _Criminal Code_                                                       5
+[3B](#3B).         Application of the _Criminal Code_
 
-[3C](#3C).         Meaning of _relevant tax_                                                                       5
+[3C](#3C).         Meaning of _relevant tax_
 
 **Part II—Administration**
 
-[4](#4).            General administration of Act                                                             7
+[4](#4).            General administration of Act
 
-[7](#7).            Annual report                                                                                      7
+[7](#7).            Annual report
 
-[8](#8).            Secrecy                                                                                                 7
+[8](#8).            Secrecy
 
 **Part IIA—Interest on early payments**
 
-[8A](#8A).         Entitlement to interest                                                                       10
+[8A](#8A).         Entitlement to interest
 
-[8B](#8B).         Interest period                                                                                   11
+[8B](#8B).         Interest period
 
-[8C](#8C).         Rate of interest                                                                                  11
+[8C](#8C).         Rate of interest
 
-[8D](#8D).         No double entitlement to interest                                                      11
+[8D](#8D).         No double entitlement to interest
 
 **Part IIB—Interest on overpayments resulting from assessments**
 
-[8E](#8E).          Entitlement to interest—ordinary taxpayers                                     12
+[8E](#8E).          Entitlement to interest—ordinary taxpayers
 
-[8F](#8F).          Interest period—ordinary taxpayers                                                 13
+[8F](#8F).          Interest period—ordinary taxpayers
 
-[8G](#8G).         Entitlement to interest—full self-assessment taxpayers                   15
+[8G](#8G).         Entitlement to interest—full self-assessment taxpayers
 
-[8H](#8H).         Interest period—full self-assessment taxpayer                                 16
+[8H](#8H).         Interest period—full self-assessment taxpayer
 
-[8I](#8I).           Rate of interest                                                                                  17
+[8I](#8I).           Rate of interest
 
-[8K](#8K).         Interpretation                                                                                     17
+[8K](#8K).         Interpretation
 
 **Part IIC—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Assessment and Collection) Act 1997**
 
-[8L](#8L).          Interpretation                                                                                     18
+[8L](#8L).          Interpretation
 
-[8M](#8M).        Entitlement to interest                                                                       18
+[8M](#8M).        Entitlement to interest
 
-[8N](#8N).         Period of interest                                                                               18
+[8N](#8N).         Period of interest
 
-[8P](#8P).          Rate of interest                                                                                  19
+[8P](#8P).          Rate of interest
 
 **Part IID—Interest on overpayments resulting from certain amendments of assessments made under the Termination Payments Tax (Assessment and Collection) Act 1997**
 
-[8Q](#8Q).         Interpretation                                                                                     20
+[8Q](#8Q).         Interpretation
 
-[8R](#8R).         Entitlement to interest                                                                       20
+[8R](#8R).         Entitlement to interest
 
-[8S](#8S).          Period of interest                                                                               20
+[8S](#8S).          Period of interest
 
-[8T](#8T).         Rate of interest                                                                                  21
+[8T](#8T).         Rate of interest
 
 **Part IIE—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997**
 
-[8U](#8U).         Interpretation                                                                                     22
+[8U](#8U).         Interpretation
 
-[8V](#8V).         Entitlement to interest                                                                       22
+[8V](#8V).         Entitlement to interest
 
-[8W](#8W).        Period of interest                                                                               23
+[8W](#8W).        Period of interest
 
-[8X](#8X).         Rate of interest                                                                                  23
+[8X](#8X).         Rate of interest
 
 **Part IIF—Interest on overpayments resulting from certain amendments of assessments made under the Superannuation Contributions Tax (Assessment and Collection) Act 1997**
 
-[8Y](#8Y).         Interpretation                                                                                     24
+[8Y](#8Y).         Interpretation
 
-[8Z](#8Z).         Entitlement to interest                                                                       24
+[8Z](#8Z).         Entitlement to interest
 
-[8ZA](#8ZA).      Period of interest                                                                               25
+[8ZA](#8ZA).      Period of interest
 
-[8ZB](#8ZB).       Rate of interest                                                                                  25
+[8ZB](#8ZB).       Rate of interest
 
 **Part IIG—Interest on certain amounts of tax on no-TFN contributions income of superannuation providers**
 
-[8ZC](#8ZC).       Interpretation                                                                                     26
+[8ZC](#8ZC).       Interpretation
 
-[8ZD](#8ZD).      Entitlement to interest                                                                       26
+[8ZD](#8ZD).      Entitlement to interest
 
-[8ZE](#8ZE).       Period of interest                                                                               27
+[8ZE](#8ZE).       Period of interest
 
-[8ZF](#8ZF).       Rate of interest                                                                                  27
+[8ZF](#8ZF).       Rate of interest
 
 **Part III—Interest on overpayments resulting from decisions to which this Act applies**
 
-[9](#9).            Entitlement to interest                                                                       28
+[9](#9).            Entitlement to interest
 
-[10](#10).          Amount of interest                                                                            30
+[10](#10).          Amount of interest
 
-[11](#11).          Limit on overpayment of interest where correlative relief in respect of foreign income tax    30
+[11](#11).          Limit on overpayment of interest where correlative relief in respect of foreign income tax
 
 **Part IIIA—Interest on overpayments resulting from certain remissions, refunds and credits**
 
-[12A](#12A).       Entitlement to interest                                                                       32
+[12A](#12A).       Entitlement to interest
 
-[12B](#12B).       Period of interest                                                                               33
+[12B](#12B).       Period of interest
 
-[12C](#12C).       Rate of interest                                                                                  33
+[12C](#12C).       Rate of interest
 
 **Part IIIAA—Delayed refund interest on running balance account (RBA) surpluses**
 
-[12AA](#12AA).    Entitlement to interest for RBA surpluses after notification of BAS amount        34
+[12AA](#12AA).    Entitlement to interest for RBA surpluses after notification of BAS amount
 
-[12AB](#12AB).    Entitlement to interest for RBA surpluses after request for remission 34
+[12AB](#12AB).    Entitlement to interest for RBA surpluses after request for remission
 
-[12AC](#12AC).    Entitlement to interest for RBA surpluses after request for refund  35
+[12AC](#12AC).    Entitlement to interest for RBA surpluses after request for refund
 
-[12AD](#12AD).    Period of interest for RBA surpluses                                                35
+[12AD](#12AD).    Period of interest for RBA surpluses
 
-[12AE](#12AE).     Rate of interest for RBA surpluses                                                   35
+[12AE](#12AE).     Rate of interest for RBA surpluses
 
-[12AF](#12AF).     Definitions                                                                                         35
+[12AF](#12AF).     Definitions
 
 **Part IIIB—Adjustment of interest**
 
-[12D](#12D).       Interest to be in multiples of 1 cent                                                   37
+[12D](#12D).       Interest to be in multiples of 1 cent
 
-[12E](#12E).        Small amounts of interest not to be paid                                           37
+[12E](#12E).        Small amounts of interest not to be paid
 
-[12F](#12F).        Adjustment where amount to be paid by, or refunded to, person does not exceed 49 cents  37
+[12F](#12F).        Adjustment where amount to be paid by, or refunded to, person does not exceed 49 cents
 
 **Part IV—Miscellaneous**
 
-[15](#15).          Regulations                                                                                        38
+[15](#15).          Regulations
 
 **Notes** 
 
@@ -622,7 +622,7 @@ until the end of the appropriate due day.
 
 ##### <a id="8D"></a>8D  No double entitlement to interest
 
-                   If:
+                   If:
 
                      (a)  interest is payable under this Part on a payment in respect of a period; and
 
@@ -1324,7 +1324,7 @@ Remainder: 14 Dec 1984</div>
   <td>
     <div>Ss. 3, 4(2), 11, 12 and Part XI (ss. 
 54–56): 21 Aug 1981 
-Ss. 5, 18, 20, 22, 24, 28(2), 39, 40, 45, 48, 50, 51 and 53: 10 May 1985 ( <i>see</i>s. 2(3)) 
+Ss. 5, 18, 20, 22, 24, 28(2), 39, 40, 45, 48, 50, 51 and 53: 10 May 1985 ( <i>see</i>s. 2(3)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1433,7 +1433,7 @@ Remainder: 1 July 1986</div>
     <div>S. 8(c): 10 June 1986 
 Part II (ss. 3–6), 
 ss. 8(a) and 9–11: 1 Jan 1987 
-Ss. 26(b), (c), 28, 40 and 49(3), (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
+Ss. 26(b), (c), 28, 40 and 49(3), (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
 S. 55: 1 Mar 1987 ( <i>see Gazette</i>1987, No. S32) 
 Remainder: Royal Assent</div>
   </td>
@@ -1452,7 +1452,7 @@ Remainder: Royal Assent</div>
     <div>5 June 1987</div>
   </td>
   <td>
-    <div>5 June 1987 ( <i>see</i>s. 2)</div>
+    <div>5 June 1987 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -1503,7 +1503,7 @@ Remainder: Royal Assent</div>
     <div>18 Dec 1987</div>
   </td>
   <td>
-    <div>15 Jan 1988 ( <i>see</i>s. 2)</div>
+    <div>15 Jan 1988 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -1520,7 +1520,7 @@ Remainder: Royal Assent</div>
     <div>25 Nov 1988</div>
   </td>
   <td>
-    <div>S. 12 and Schedule 2 (in part): 1 July 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S159) 
+    <div>S. 12 and Schedule 2 (in part): 1 July 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S159) 
 Remainder: 1 Jan 1989 ( <i>see</i>s. 2(1) and <i>Gazette</i>1988, No. S399)</div>
   </td>
   <td>
@@ -1695,7 +1695,7 @@ Remainder: Royal Assent</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 8 (items 9, 10): Royal Assent <i>(i)</i> 
+    <div>Schedule 8 (items 9, 10): Royal Assent <i>(i)</i> 
 Schedule 10 (item 3): 19 Dec 1994 ( <i>i</i>) 
 Schedule 10 (items 4–6): <i>(i)</i></div>
   </td>
@@ -1749,7 +1749,7 @@ Schedule 10 (items 4–6): <i>(i)</i></div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (items 144–146): Royal Assent <i>(k)</i></div>
+    <div>Schedule 5 (items 144–146): Royal Assent <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1851,7 +1851,7 @@ Schedule 10 (items 4–6): <i>(i)</i></div>
     <div>23 June 1998</div>
   </td>
   <td>
-    <div>Schedule 4 (items 66–68): 23 June 1998 <i>(o)</i></div>
+    <div>Schedule 4 (items 66–68): 23 June 1998 <i>(o)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1885,7 +1885,7 @@ Schedule 10 (items 4–6): <i>(i)</i></div>
     <div>31 Mar 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 353–371, 398, 399, 402, 404): 1 July 1999 <i>(q)</i></div>
+    <div>Schedule 1 (items 353–371, 398, 399, 402, 404): 1 July 1999 <i>(q)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 402, 404) 
@@ -1921,7 +1921,7 @@ Sch. 1 (items 398, 399) (am. by 178, 1999, Sch. 2 (items
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 88–91): Royal Assent <i>(r)</i></div>
+    <div>Schedule 2 (items 88–91): Royal Assent <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1972,7 +1972,7 @@ Sch. 1 (items 398, 399) (am. by 178, 1999, Sch. 2 (items
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6, 8, 70–78): 1 July 2000 
+    <div>Schedule 1 (items 6, 8, 70–78): 1 July 2000 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2042,10 +2042,10 @@ S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 11 (items 113, 114): 1 July 2000 <i>(v)</i> 
-Schedule 13 (items 1, 5, 6): <i>(v)</i> 
-Schedule 13 (items 2–4): <i>(v)</i> 
-Schedule 16 (items 20–37): <i>(v)</i></div>
+    <div>Schedule 11 (items 113, 114): 1 July 2000 <i>(v)</i> 
+Schedule 13 (items 1, 5, 6): <i>(v)</i> 
+Schedule 13 (items 2–4): <i>(v)</i> 
+Schedule 16 (items 20–37): <i>(v)</i></div>
   </td>
   <td>
     <div>Sch. 13 (item 6) and 
@@ -2063,7 +2063,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 121, 129): <i>(w)</i></div>
+    <div>Schedule 2 (items 121, 129): <i>(w)</i></div>
   </td>
   <td>
     <div>Sch 2 (item 129) \[ <i>see</i>Table A]</div>
@@ -2080,7 +2080,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 9 (items 17, 18): <i>(x)</i></div>
+    <div>Schedule 9 (items 17, 18): <i>(x)</i></div>
   </td>
   <td>
     <div>Sch. 9 (item 18) \[ <i>see</i>Table A]</div>
@@ -2131,7 +2131,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 4 (items 129–131): 15 Dec 2001 <i>(za)</i></div>
+    <div>S. 4 and Schedule 4 (items 129–131): 15 Dec 2001 <i>(za)</i></div>
   </td>
   <td>
     <div>S. 4 \[see Table A]</div>
@@ -2148,7 +2148,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 3 (items 14–19): Royal Assent <i>(zb)</i></div>
+    <div>Schedule 3 (items 14–19): Royal Assent <i>(zb)</i></div>
   </td>
   <td>
     <div>Sch. 3 (item 19) \[ <i>see</i>Table A]</div>
@@ -2182,7 +2182,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>19 Dec 2003</div>
   </td>
   <td>
-    <div>Schedule 2 (items 161–168): <i>(zc)</i></div>
+    <div>Schedule 2 (items 161–168): <i>(zc)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2233,7 +2233,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>19 Dec 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 57–59): Royal Assent</div>
+    <div>Schedule 1 (items 57–59): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 59) \[ <i>see</i>Table A]</div>
@@ -2264,10 +2264,10 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>73, 2006</div>
   </td>
   <td>
-    <div>26 June 2006</div>
+    <div>26 June 2006</div>
   </td>
   <td>
-    <div>Schedule 5 (items 166, 167): 1 July 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 5 (items 166, 167): 1 July 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2301,10 +2301,10 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 300–317), Schedule 2 (items 971–995), Schedule 5 (items 158–163) and Schedule 6 (items 1, 5–11): Royal Assent</div>
+    <div>Schedule 1 (items 1, 300–317), Schedule 2 (items 971–995), Schedule 5 (items 158–163) and Schedule 6 (items 1, 5–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 
+    <div>Sch. 6 (items 1, 
 5–11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -2322,7 +2322,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>Schedule 1 (items 36, 37): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 37) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 37) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2339,7 +2339,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>Schedule 1 (items 394, 406(1)–(3)): <i>(zf)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2356,41 +2356,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>Schedule 1 (items 213–222, 225, 226) and Schedule 7 (item 103): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 222, 225, 226) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 25): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (items 222, 225, 226) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2412,7 +2378,7 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
 </tr>
 <tr>
   <td>
-    <div>Tax Laws Amendment (2008 Measures No. 6) Act 2009</div>
+    <div>Tax Laws Amendment (2008 Measures No. 6) Act 2009</div>
   </td>
   <td>
     <div>14, 2009</div>
@@ -2421,10 +2387,10 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 4 (items 45–50): Royal Assent</div>
+    <div>Schedule 4 (items 45–50): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 4 (items 46, 50) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (items 46, 50) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2435,10 +2401,10 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
     <div>42, 2009</div>
   </td>
   <td>
-    <div>23 June 2009</div>
+    <div>23 June 2009</div>
   </td>
   <td>
-    <div>Schedule 4 (items 13–15): Royal Assent</div>
+    <div>Schedule 4 (items 13–15): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2713,7 +2679,9 @@ _(zc)_   Subsection 2(1) (item 16) of the _Higher Education Support (Trans
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
       (b) immediately after the commencement of sections 1-10 to 238-15 of the
@@ -2838,7 +2806,7 @@ _(ze)_   Subsection 2(1) (item 21) of the _Tax Laws Amendment (2006 Measur
   </td>
 </tr></table>
 
-_(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation  Amendment (Simplification) Act 2007_ provides as follows:
+_(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation  Amendment (Simplification) Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2946,7 +2914,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td colspan="2">
-    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009</div>
+    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2975,7 +2943,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 3C</div>
+    <div>S. 3C</div>
   </td>
   <td colspan="2">
     <div>ad. No. 58, 2006</div>
@@ -3050,7 +3018,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 169, 1995; Nos. 11 and 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006</div>
+    <div>am. No. 169, 1995; Nos. 11 and 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3066,7 +3034,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 101, 2006</div>
+    <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3082,7 +3050,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3122,7 +3090,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006</div>
+    <div>am. No. 179, 1999; No. 170, 2001; No. 150, 2003; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3154,7 +3122,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Heading to s. 8G</div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 101, 2006</div>
+    <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3170,7 +3138,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 170, 2001; No. 101, 2004; No. 101, 2006</div>
+    <div>am. No. 179, 1999; No. 170, 2001; No. 101, 2004; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3194,7 +3162,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Heading to s. 8H</div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 101, 2006</div>
+    <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3210,7 +3178,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 179, 1999; No. 101, 2006</div>
+    <div>am. No. 179, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3226,7 +3194,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3298,7 +3266,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3338,7 +3306,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3378,7 +3346,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3426,7 +3394,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 101, 2006</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3498,7 +3466,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 9</div>
   </td>
   <td colspan="2">
-    <div>am. No. 123, 1984; Nos. 58 and 61, 1987; No. 181, 1994; No. 43, 1996, No. 11, 1999; No. 101, 2006; No. 143, 2007; No. 14, 2009</div>
+    <div>am. No. 123, 1984; Nos. 58 and 61, 1987; No. 181, 1994; No. 43, 1996, No. 11, 1999; No. 101, 2006; No. 143, 2007; No. 14, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3506,7 +3474,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 10</div>
   </td>
   <td colspan="2">
-    <div>am. No. 123, 1984; No. 49, 1985; No. 46, 1986; No. 181, 1994; No. 11, 1999; Nos. 58 and 101, 2006; No. 14, 2009</div>
+    <div>am. No. 123, 1984; No. 49, 1985; No. 46, 1986; No. 181, 1994; No. 11, 1999; Nos. 58 and 101, 2006; No. 14, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3530,7 +3498,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3586,7 +3554,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3618,7 +3586,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 178, 1999 (as am. by No. 41, 2005); No. 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 178, 1999 (as am. by No. 41, 2005); No. 179, 1999; No. 150, 2003; No. 75, 2005; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3642,7 +3610,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 11, 1999; No. 101, 2006</div>
+    <div>am. No. 11, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3682,7 +3650,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 101, 2006</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3719,7 +3687,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -4085,9 +4053,9 @@ Example:    For the 2006-07 income year, Smart Investor Pty Ltd, an Austra
 
 * * *
 
-_Tax Laws Amendment (2008 Measures No. 6) Act 2009 (No. 14, 2009)_
+_Tax Laws Amendment (2008 Measures No. 6) Act 2009 (No. 14, 2009)_
 
-## Schedule 4
+## Schedule 4
 
 ## 46  Application
 
