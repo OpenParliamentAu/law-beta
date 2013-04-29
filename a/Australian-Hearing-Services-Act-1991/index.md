@@ -1,7 +1,7 @@
 
 Australian Hearing Services Act 1991
 Act No. 169 of 1991 as amended
-This compilation was prepared on 21 March 2000 taking into account amendments up to Act No. 156 of 1999
+This compilation was prepared on 31 January 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -96,7 +96,7 @@ Part 8—Repeal, consequential amendment and transitional provision	39
 80	Acoustic Laboratories Regulations to continue in force	39
 Schedule—Official symbol of the National Acoustic Laboratories	40
 Schedule 2—Official symbol of Australian Hearing Services	40
-Notes to the Australian Hearing Services Act 1991	41
+Notes		41
 
 An Act to establish an authority to be known as Australian Hearing Services, and for related purposes
 Part 1—Preliminary
@@ -298,7 +298,7 @@ Division 3—Provisions relating to appointed Directors
 	(1)	The Minister may terminate an appointed Director’s appointment for misbehaviour or physical or mental incapacity.
 	(2)	The Minister may terminate an appointed Director’s appointment if the Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
-	(b)	fails, without reasonable excuse, to comply with an obligation imposed by subsection 22(3) of this Act or section 27F or 27J of the Commonwealth Authorities and Companies Act 1997; or
+	(b)	fails, without reasonable excuse, to comply with an obligation imposed by subsection 22(3) of this Act or section 21 of the Commonwealth Authorities and Companies Act 1997; or
 	(c)	is absent, except on leave of absence granted under section 28, from 3 consecutive meetings of the Board; or
 	(d)	engages in any paid employment that, in the Minister’s opinion, conflicts with the proper performance of the Director’s functions.
 	(3)	The Minister must terminate the appointment of an appointed Director if the Minister is of the opinion that the performance of the Director has been unsatisfactory for a significant period of time.
@@ -389,7 +389,7 @@ Part 5—Managing Director, staff and consultants
 	(1)	The Minister may, on the recommendation of the Board, terminate the Managing Director’s appointment for misbehaviour or physical or mental incapacity.
 	(2)	The Minister may, on the recommendation of the Board, terminate the Managing Director’s appointment if the Managing Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
-	(b)	fails, without reasonable excuse, to comply with an obligation imposed by subsection 22(3) of this Act or section 27F or 27J of the Commonwealth Authorities and Companies Act 1997; or
+	(b)	fails, without reasonable excuse, to comply with an obligation imposed by subsection 22(3) of this Act or section 21 of the Commonwealth Authorities and Companies Act 1997; or
 	(c)	fails, without reasonable excuse, to comply with section 43; or
 	(d)	is absent from duty, except on leave of absence granted by the Board, for 14 consecutive days or for 28 days in any 12 months.
 	(3)	The Minister must terminate the appointment of the Managing Director if the Minister is of the opinion that the performance of the Managing Director has been unsatisfactory for a significant period of time.
@@ -743,11 +743,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 174‑180): 5 Dec 1999 (see Gazette 1999, No. S584) (h)
 —
-Corporate Law Economic Reform Program Act 1999
-156, 1999
-24 Nov 1999
-Schedule 10 (items 88, 89): 13 Mar 2000 (see Gazette 2000, No. S114) (i)
-—
 
 (a)	The Australian Hearing Services Act 1991 was amended by Part 5 (sections 46‑48) only of the Health, Housing and Community Services Legislation Amendment Act 1992, subsection 2(5) of which provides as follows: 
 	(5)	Part 5 commences: 
@@ -770,9 +765,6 @@ Schedule 10 (items 88, 89): 13 Mar 2000 (see Gazette 2000, No. S114) (i)
 (h)	The Australian Hearing Services Act 1991 was amended by Schedule 1 (items 174‑180) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(i)	The Australian Hearing Services Act 1991 was amended by Schedule 10 (items 88 and 89) only of the Corporate Law Economic Reform Program Act 1999, subsections 2(2)(c) of which provides as follows:
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
-	(c)	the items in Schedules 10, 11 and 12. 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -822,7 +814,7 @@ rs. No. 82, 1997
 Ss. 25‑30	
 am. No. 82, 1997
 S. 31 	
-am. Nos. 82 and 152, 1997; No. 156, 1999
+am. Nos. 82 and 152, 1997
 S. 32	
 am. No. 82, 1997
 S. 34	
@@ -850,7 +842,7 @@ am. No. 82, 1997
 S. 45	
 am. No. 82, 1997
 S. 46	
-am. Nos. 82 and 152, 1997; No. 156, 1999
+am. Nos. 82 and 152, 1997
 S. 47	
 am. No. 82, 1997
 Heading to s. 48	
