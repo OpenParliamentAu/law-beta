@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00480/Html/7eaa36bd-4eb6-4d0b-8c0f-156840ae64a4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00734/Html/9d82fad6-2c7c-41d1-bd7e-b1211650b0b6_files/image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 30 May 2012
- taking into account amendments up to Act No. 52 of 2012
+This compilation was prepared on 9 September 2011
+ taking into account amendments up to Act No. 94 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -668,7 +668,7 @@ Appropriations—starting amounts
     <div>4</div>
   </td>
   <td>
-    <div>$120,701,000</div>
+    <div>$120,020,000</div>
   </td>
   <td>
     <div>1 January 2012</div>
@@ -1067,23 +1067,6 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (Income Support and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>52, 2012</div>
-  </td>
-  <td>
-    <div>26 May 2012</div>
-  </td>
-  <td>
-    <div>Schedule 8 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 7) of the _Statute Law Revision Act 2010_ provides as follows:
@@ -1475,7 +1458,7 @@ Part 3</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 87, 2010; No. 94, 2011; No. 52, 2012</div>
+    <div>am. No. 87, 2010; No. 94, 2011</div>
   </td>
 </tr>
 <tr>
