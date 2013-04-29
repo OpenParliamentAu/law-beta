@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C03111/Html/CrimesAviation1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03110/Html/CrimesAviation1991_image001.gif)
 
 # Crimes (Aviation) Act 1991
 
 **Act No. 139 of 1991 as amended**
 
-This compilation was prepared on 6 September 2004
- taking into account amendments up to Act No. 127 of 2004
+This compilation was prepared on 1 July 2004
+ taking into account amendments up to Act No. 64 of 2004
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -2172,23 +2172,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(a)</i><
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Act (No. 2) 2004</div>
-  </td>
-  <td>
-    <div>127, 2004</div>
-  </td>
-  <td>
-    <div>31 Aug 2004</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 1, 2): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2380,6 +2363,8 @@ _(h)_ Subsection 2(1) (item 2) of the _Aviation Transport Security (Consequent
     </div>
   </td>
 </tr></table>
+
+ 
 
 ## Table of Amendments
 
@@ -2657,31 +2642,7 @@ The following amendment commences on 10 March 2005 unless proclaimed earlier:
 
 After “_Air Navigation Act 1920_ or regulations made under that Act,”, insert “, the _Aviation Transport Security Act 2004_ or regulations made under that Act, or”.
 
-As at 6 September 2004 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Act (No. 2) 2004 (No. 127, 2004)_
-
-The following amendments commence on 28 September 2004:
-
-Schedule 5
-
-1  Subsection 3(1) (subparagraph (a)(i) of the definition of _Division 2 aircraft_)
-
-Repeal the subparagraph, substitute:
-
-                              (i)  engaged in a flight in the course of trade and commerce with other countries or among the States; or
-
-                            (ia)  engaged in a flight within a Territory, between 2 Territories or between a State and a Territory; or
-
-2  At the end of paragraph 15(1)(b)
-
-Add:
-
-                      ; or (iii)  the _Prostitution Act 1992_ of the Australian Capital Territory in its application to the Jervis Bay Territory;
-
-As at 6 September 2004 the amendments are not incorporated in this compilation.
+As at 1 July 2004 the amendment is not incorporated in this compilation.
 
 ## Table A
 
