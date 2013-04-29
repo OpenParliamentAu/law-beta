@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image001.gif)
 
 # ACIS Administration Act 1999
 
 **Act No. 139 of 1999 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 4 January 2010
+ taking into account amendments up to Act No. 136 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -454,7 +454,7 @@ There are also personal limits on each participant in respect of each ACIS year 
 
                      (b)  applied to the importation of certain eligible imports (the Secretary may restrict the uses to which certain kinds of modulated credit can be put (Part 7)); or
 
-                   (ba)  applied against an earlier payment of duty on such eligible imports (Part 7); or
+                    (ba)  applied against an earlier payment of duty on such eligible imports (Part 7); or
 
                      (c)  offset against an amount of unearned credit liability imposed on a person in respect of unearned duty credit (Part 9).
 
@@ -744,7 +744,7 @@ Note:          Person includes a group (see subsection 6(3)).
 
 worked out in accordance with regulations made for the purpose of this definition.
 
-                    <a name="provid-australia"></a>**_provided in Australia_** has the meaning given in subsection 7(7).
+                    <a name="australia"></a><a name="provid"></a>**_provided in_****_Australia_** has the meaning given in subsection 7(7).
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months commencing on 1 January, 1 April, 1 July or 1 October of a year.
 
@@ -768,11 +768,11 @@ worked out in accordance with regulations made for the purpose of this definitio
 
                     <a name="scheme-commenc-date"></a>**_scheme commencement date_** means 1 January 2001 unless, before that date, an earlier date, which must be the first day of a calendar year, is proclaimed for the purposes of this definition.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
                     <a name="servic"></a>**_services_** includes the provision, grant or conferral of any rights (including rights in relation to, and interests in, real or personal property), benefits, privileges or facilities under a contract, for which remuneration is payable in the form of a royalty or similar exaction.
 
-                    <a name="specifi-load-carri-vehicl"></a>**_specified load‑carrying vehicle_** means a motor vehicle that, if imported, would be classified to subheading 8704.21, 8704.31 or 8704.90 of Schedule 3 to the Tariff.
+                    <a name="specifi-load-carri-vehicl"></a>**_specified load-carrying vehicle_** means a motor vehicle that, if imported, would be classified to subheading 8704.21, 8704.31 or 8704.90 of Schedule 3 to the Tariff.
 
                     <a name="tariff"></a>**_Tariff_** means the _Customs Tariff Act 1995_.
 
@@ -1030,7 +1030,7 @@ Guidelines disallowable instruments
 
              (7)  Guidelines made under subsections (2) and (6) are disallowable instruments within the meaning of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="7"></a>7  Meaning of production of goods and provision of services in Australia
+##### <a id="7"></a>7  Meaning of production of goods and provision of services in Australia
 
 Assembly of components can be production
 
@@ -1434,7 +1434,7 @@ the Secretary must decide that the group is not a fit and proper person within t
 
 ### Division 5—Formal requirements for, and consideration of, applications for registration
 
-##### <a id="23"></a>23  The content of the application for registration
+##### <a id="23"></a>23  The content of the application for registration
 
              (1)  An application for registration as a participant must:
 
@@ -1462,7 +1462,7 @@ the Secretary must decide that the group is not a fit and proper person within t
 
                      (a)  be left at a place allocated for lodgment of ACIS applications specified in the approved form; or
 
-                     (b)  be posted by pre‑paid post to a postal address specified in the approved form; or
+                     (b)  be posted by pre-paid post to a postal address specified in the approved form; or
 
                      (c)  be sent by electronic facsimile to a facsimile number specified in the approved form.
 
@@ -1802,21 +1802,21 @@ Note:          Unmodulated type J investment credit is worked 
 
              (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit to be issued to the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image002.gif)
 
 where:
 
-                    <a name=""></a>**_A_** is the production value of passenger motor vehicles, and specified load‑carrying vehicles, sold in the Australian or New Zealand markets by that MVP in the quarter concerned.
+                    <a name=""></a>**_A_** is the production value of passenger motor vehicles, and specified load-carrying vehicles, sold in the Australian or New Zealand markets by that MVP in the quarter concerned.
 
-Note:          The definition of **_production value_** refers to **_MVP production_**. **_MVP production_** includes production of motor vehicles. A passenger motor vehicle or specified load‑carrying vehicle is a motor vehicle for the purposes of ACIS.
+Note:          The definition of **_production value_** refers to **_MVP production_**. **_MVP production_** includes production of motor vehicles. A passenger motor vehicle or specified load-carrying vehicle is a motor vehicle for the purposes of ACIS.
 
                     <a name=""></a>**_B_** is 7.5%.
 
-                    <a name=""></a>**_C_** is the production value of MVP production by that MVP in the quarter concerned (other than passenger motor vehicles, and specified load‑carrying vehicles, that are sold in the Australian or New Zealand markets).
+                    <a name=""></a>**_C_** is the production value of MVP production by that MVP in the quarter concerned (other than passenger motor vehicles, and specified load-carrying vehicles, that are sold in the Australian or New Zealand markets).
 
              (2)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated capped production credit for the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image003.gif)
 
 where:
 
@@ -1832,7 +1832,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type A investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image004.gif)
 
 where:
 
@@ -1848,7 +1848,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type B investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image005.gif)
 
 where:
 
@@ -1864,7 +1864,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type C investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image006.gif)
 
 where:
 
@@ -1882,7 +1882,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type D investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image007.gif)
 
 where:
 
@@ -1898,7 +1898,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type E investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image008.gif)
 
 where:
 
@@ -1916,7 +1916,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type F investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image009.gif)
 
 where:
 
@@ -1932,7 +1932,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type G investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image010.gif)
 
 where:
 
@@ -1950,7 +1950,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type H investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image011.gif)
 
 where:
 
@@ -1966,7 +1966,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type I investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00254/Html/98680a6b-f1cb-4d9a-8f6b-12c1c702bb6b_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image012.gif)
 
 where:
 
@@ -2124,7 +2124,7 @@ then, in determining amounts to be entered in the ACIS ledger under subsection 5
 
                      (c)  the unmodulated type J investment credit;
 
-issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first‑mentioned year.
+issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first-mentioned year.
 
 5% of sales limit on participants to whom paragraph 16(1)(b) or (c), 17(1)(b) or (c) or (2)(b) or (c), 18(1)(b) or (c) or 19(1)(b) or (c) applied
 
@@ -2140,7 +2140,7 @@ issued to the participant must not exceed 5% of the sales value of the participa
 
 5% of sales limit on certain participants in second year of registration
 
-             (3)  At the end of each ACIS year following the ACIS year in which the registration of the participant referred to in subsection (2) took effect, the total of the modulated credit issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first‑mentioned year.
+             (3)  At the end of each ACIS year following the ACIS year in which the registration of the participant referred to in subsection (2) took effect, the total of the modulated credit issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first-mentioned year.
 
 Meaning of **sales value** **of ACIS goods and services**
 
@@ -2466,7 +2466,7 @@ may only be used:
 
                     (ca)  by applying it in accordance with paragraph 74A(1)(b) against an earlier payment of duty on the importation of eligible imports; or
 
-                     (d)  as a set‑off against a liability under the _ACIS (Unearned Credit Liability) Act 1999_.
+                     (d)  as a set-off against a liability under the _ACIS (Unearned Credit Liability) Act 1999_.
 
              (2)  If the Minister makes a declaration, any duty credit to which it applies can only be used as specified in the declaration.
 
@@ -2486,7 +2486,7 @@ may only be used:
 
                     (ca)  by applying it in accordance with paragraph 74A(1)(b) against an earlier payment of duty on the importation of eligible imports; or
 
-                     (d)  as a set‑off against a liability under the _ACIS (Unearned Credit Liability) Act 1999_.
+                     (d)  as a set-off against a liability under the _ACIS (Unearned Credit Liability) Act 1999_.
 
              (2)  If the Minister makes a declaration, any duty credit to which it applies can only be used as specified in the declaration.
 
@@ -2534,7 +2534,7 @@ to be an authorised officer for the purposes of this Part.
 
                      (c)  the person does not, immediately after so ceasing, return the identity card to the Secretary.
 
-                    Maximum penalty: 1 penalty unit.
+                    Maximum penalty:    1 penalty unit.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -2630,7 +2630,7 @@ contains information that is relevant to assessing the correctness of informatio
 
              (3)  A person is guilty of an offence if the person refuses or fails to comply with a requirement under subsection (2).
 
-                    Maximum penalty: 6 months imprisonment.
+                    Maximum penalty:    6 months imprisonment.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -2644,7 +2644,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  gives the information knowing that it is false or misleading in a material particular.
 
-                    Maximum penalty: 12 months imprisonment.
+                    Maximum penalty:    12 months imprisonment.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -2754,7 +2754,7 @@ compensation for the damage is payable to the owner of the equipment.
 
              (2)  A person is guilty of an offence if the person fails to comply with the obligation set out in subsection (1).
 
-                    Maximum penalty: 10 penalty units.
+                    Maximum penalty:    10 penalty units.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -2842,7 +2842,7 @@ the person is not entitled to the duty credit.
 
 the person is liable to pay to the Commonwealth an unearned credit liability.
 
-##### <a id="96"></a>96  Amount of unearned credit liability
+##### <a id="96"></a>96  Amount of unearned credit liability
 
                    The amount of an unearned credit liability of a person is an amount equal to the amount of duty credit to which the person is not entitled.
 
@@ -2974,7 +2974,7 @@ the balance is to be offset against the liability in the order set out in sectio
 
                      (b)  in accordance with ordinary commercial practice;
 
-to give to another person a document required to be maintained under subsection (1), the first‑mentioned person is taken to have complied with the requirements under that subsection if, after the giving of the document to that other person, the first‑mentioned person maintains a true copy of the documents certified in accordance with subsection (4) for the period that the document would be required to be maintained under subsection (2).
+to give to another person a document required to be maintained under subsection (1), the first-mentioned person is taken to have complied with the requirements under that subsection if, after the giving of the document to that other person, the first-mentioned person maintains a true copy of the documents certified in accordance with subsection (4) for the period that the document would be required to be maintained under subsection (2).
 
              (4)  The person may certify a true copy of the document for the purposes of subsection (3), as the case requires, by attaching to the copy a certificate signed by the person:
 
@@ -3062,11 +3062,11 @@ Note:          The meaning of **_fit and proper_** is extended
 
                     (aa)  a decision by the Secretary under subsection 6C(3) that the circumstances of a relationship between 2 persons do not fall within the circumstances set out in guidelines made under subsection 6C(2);
 
-                   (ab)  a decision by the Secretary under subsection 6C(4) that it is not reasonable to allow the investment by an original investor to be treated as eligible investment by a participant;
+                    (ab)  a decision by the Secretary under subsection 6C(4) that it is not reasonable to allow the investment by an original investor to be treated as eligible investment by a participant;
 
                     (ac)  a decision by the Secretary under subparagraph 6C(5)(b)(i) that investment by an original investor, if undertaken by a participant, would not be eligible investment;
 
-                   (ad)  a decision by the Secretary under subparagraph 6C(5)(b)(ii) that it is not reasonable to allow the investment by an original investor to be treated as eligible investment by a participant;
+                    (ad)  a decision by the Secretary under subparagraph 6C(5)(b)(ii) that it is not reasonable to allow the investment by an original investor to be treated as eligible investment by a participant;
 
                      (a)  a decision by the Secretary under guidelines made under paragraph 9(3)(a) that a person was a party to a transaction that was not at arm’s length within the meaning of that section;
 
@@ -3216,9 +3216,9 @@ the AAT’s decision can only be given effect to if:
 
              (2)  The Secretary may, by signed writing, delegate to the Chief Executive Officer of Customs the power to amend the ledger under paragraph 66(a) (when duty credit is applied by a person in respect of the importation of eligible imports) or paragraph 66(aa) (when duty credit is applied against previously paid duty).
 
-             (3)  If the Secretary delegates a power mentioned in subsection (2) to the Chief Executive Officer of Customs, the Chief Executive Officer may, by writing, sub‑delegate the power to an officer of Customs (within the meaning of the _Customs Act 1901_).
+             (3)  If the Secretary delegates a power mentioned in subsection (2) to the Chief Executive Officer of Customs, the Chief Executive Officer may, by writing, sub-delegate the power to an officer of Customs (within the meaning of the _Customs Act 1901_).
 
-             (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply in relation to the sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply in relation to the sub-delegation in a corresponding way to the way in which they apply to a delegation.
 
 ##### <a id="115A"></a>115A  Minister may publish information relating to participants
 
@@ -3621,23 +3621,6 @@ Sch. 1 (item 19A) (ad. by 136, 2009, Sch. 1 \[item 2])</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 2): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _ACIS Administration Act 1999_ was amended by Schedule 1 (item 32) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1)–(3) of which provide as follows:
@@ -3654,13 +3637,13 @@ _(a)_     The _ACIS Administration Act 1999_ was amended by Schedule 1
 
                               (c)  at the time when the _Public Service Act 1999_ commences, the amended Act:
 
-                                        (i)   has not yet been enacted; or
+                                         (i)   has not yet been enacted; or
 
-                                       (ii)   has been enacted but has not yet commenced;
+                                        (ii)   has been enacted but has not yet commenced;
 
                          then the amending item commences immediately after the commencement of the amended Act.
 
-_(b)_     The _ACIS Administration Act 1999_ was amended by Schedule 1 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsections 2(2) of which provides as follows:
+_(b)_    The _ACIS Administration Act 1999_ was amended by Schedule 1 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsections 2(2) of which provides as follows:
 
                  (2)   If the _ACIS Administration Act 1999_ commences after the commencement of section 1 of this Act, Schedule 1 to this Act commences immediately after the commencement of the _ACIS Administration Act 1999_.
 
@@ -3714,7 +3697,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 83, 2002; Nos. 21 and 96, 2003; No. 80, 2004; No. 94, 2009; No. 5, 2011</div>
+    <div>am. No. 149, 2000; No. 83, 2002; Nos. 21 and 96, 2003; No. 80, 2004; No. 94, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4103,7 +4086,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 54(1)–(3).</div>
+    <div>Subheads. to s. 54(1)–(3)</div>
   </td>
   <td>
     <div>am. No. 96, 2003</div>
@@ -4576,11 +4559,11 @@ _ACIS Administration Amendment Act 2002 (No. 83, 2002)_
 
 ## 5  Transitional provisions
 
-(1)       An MVP may, by notice in writing given to the Secretary, amend a return that was provided to the Secretary before the commencement of this item to take account of the amendments made by this Schedule.
+(1)        An MVP may, by notice in writing given to the Secretary, amend a return that was provided to the Secretary before the commencement of this item to take account of the amendments made by this Schedule.
 
 _Note:       The amendments made by this Schedule operate retrospectively back to the scheme commencement date, which was 1 January 2001._
 
-(2)       If the Secretary becomes aware (whether because of receiving an amendment of a return, or otherwise) that a calculation made under section 42 of the _ACIS Administration Act 1999_ before the commencement of this item is not correct because it does not take account of the amendments made by this Schedule, the Secretary must, as soon as practicable:
+(2)        If the Secretary becomes aware (whether because of receiving an amendment of a return, or otherwise) that a calculation made under section 42 of the _ACIS Administration Act 1999_ before the commencement of this item is not correct because it does not take account of the amendments made by this Schedule, the Secretary must, as soon as practicable:
 
                      (a)  amend that calculation to take account of those amendments; and
 
@@ -4622,13 +4605,13 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -4636,21 +4619,21 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -4662,9 +4645,9 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -4672,11 +4655,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -4688,7 +4671,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -4700,9 +4683,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -4723,8 +4706,8 @@ _ACIS Administration Amendment Act 2009 (No. 94, 2009)_
 
 19A  Application
 
-(1)       The amendments made by items 12 to 14 of this Schedule apply to working out unmodulated uncapped production credit to be issued for a quarter beginning on or after 1 January 2010.
+(1)        The amendments made by items 12 to 14 of this Schedule apply to working out unmodulated uncapped production credit to be issued for a quarter beginning on or after 1 January 2010.
 
-(2)       The amendments made by items 15 and 16 of this Schedule apply to working out unmodulated capped production credit for a quarter beginning on or after 1 January 2010.
+(2)        The amendments made by items 15 and 16 of this Schedule apply to working out unmodulated capped production credit for a quarter beginning on or after 1 January 2010.
 
  
