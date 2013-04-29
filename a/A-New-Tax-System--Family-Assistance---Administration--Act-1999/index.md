@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 18 December 2012
+This compilation was prepared on 11 December 2012
  taking into account amendments up to Act No. 169 of 2012
 
 The text of any of those amendments not in force
@@ -951,9 +951,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [129](#129).        Exercise by Secretary of powers under section 154
 
-        **Subdivision BC—Directions hearings**
+        **Subdivision BC—Pre‑hearing conferences**
 
-[129A](#129A).     Directions hearings
+[129A](#129A).     Pre‑hearing conferences
 
 [129B](#129B).     Powers of SSAT if parties reach agreement
 
@@ -963,13 +963,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [131](#131).        Hearing in private
 
+[133](#133).        Restrictions on disclosure of information obtained at hearing
+
         **Subdivision D—Other procedural matters**
 
 [134](#134).        Adjournment of SSAT hearings
 
-[135](#135).        Dismissal of application for review by SSAT
+[135](#135).        Withdrawal of application for review
 
-[136](#136).        Dismissal of application for review on request of party
+[136](#136).        Dismissal of an application
 
 [137](#137).        Presiding member at SSAT hearing
 
@@ -988,14 +990,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
         **Subdivision F—Correction of errors in decisions or statements of reasons**
 
 [141B](#141B).     Correction of errors in decisions or statements of reasons
-
-        **Subdivision G—Restrictions on disclosure of information**
-
-[141C](#141C).     Orders restricting disclosure of information
-
-[141D](#141D).     Varying an order to permit certain disclosures
-
-[141E](#141E).      Orders restricting secondary disclosures of information
 
     **Division 4—Review by the Administrative Appeals Tribunal** 
 
@@ -1772,8 +1766,6 @@ Note:          See also subsection (4B).
 
                     <a name="princip-member"></a>**_Principal Member_** means the Principal Member of the Social Security Appeals Tribunal.
 
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the Social Security Appeals Tribunal.
-
                     <a name="protect-inform"></a>**_protected information_**means:
 
                      (a)  information about a person that:
@@ -1809,12 +1801,6 @@ Note:          Schedule 3 to the _Social Security (Administr
                     <a name="social-secur-law"></a>**_social security law_** has the same meaning as in the _Social Security Act 1991_.
 
                     <a name="ssat"></a>**_SSAT_** means the Social Security Appeals Tribunal.
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT (and includes the Principal Member).
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
 
                     <a name="taxabl-incom"></a>**_taxable income %_**, in respect of an individual, means the taxable income % calculated in respect of the individual under Part 4 of Schedule 2 to the Family Assistance Act.
 
@@ -2106,7 +2092,7 @@ Exemption from tax file number requirement
 
                              (ii)  the determination time is before the end of the income year following the one in which the variation mentioned in that subsection took effect.
 
-##### <a id="10"></a>10  Restrictions on claims for payment of family tax benefit for a past period
+##### <a id="10"></a>10  Restrictions on claims for payment of family tax benefit for a past period
 
 Restriction where previous claim or instalment determination
 
@@ -2422,7 +2408,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -2476,7 +2462,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -4861,7 +4847,7 @@ the Secretary can only determine the claim concerned if:
 
 the Secretary must determine that the claimant is entitled to be paid the baby bonus and must determine the amount of the baby bonus that the claimant is entitled to be paid.
 
-##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
+##### <a id="43"></a>43  Determination of “bereavement” entitlement claim
 
                    If:
 
@@ -4929,7 +4915,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -5035,7 +5021,7 @@ the consequence in subsection (3) applies.
 
 the Secretary must vary the determination to undo the effect mentioned in subsection (3).
 
-##### <a id="47B"></a>47B  Claimant for payment of baby bonus to notify changes in care of the child
+##### <a id="47B"></a>47B  Claimant for payment of baby bonus to notify changes in care of the child
 
              (1)  This section applies if:
 
@@ -6429,7 +6415,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -6483,7 +6469,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00925/Html/206dceeb-7688-4cb0-ac83-d03fa12b0475_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image002.gif)
 
 where:
 
@@ -8676,4 +8662,6752 @@ the Secretary may set off all or a part of the decrease against an amount of chi
 
                      (c)  the total amount of the individual’s approved child care fees for the child worked out under step 1 of the method statement in section 84AA of the Family Assistance Act when calculating the rebate amount; and
 
-                     (d)  the total amount (if any) of fee reducti
+                     (d)  the total amount (if any) of fee reductions worked out under step 2 of the method statement in section 84AA of the Family Assistance Act when calculating the rebate amount; and
+
+                     (e)  if the rebate amount is the result of a recalculation covered by subsection 65EAB(2)—the amount of the increase in rebate as a result of the recalculation; and
+
+                      (f)  if the rebate amount is the result of a recalculation covered by subsection 65EAB(3)—the amount of the decrease in rebate as a result of the recalculation, and whether an amount will be set off as described in that subsection.
+
+             (2)  The calculation and payment of an amount of child care rebate applicable under this Subdivision is not ineffective by reason only that any, or all, of the requirements of subsection (1) are not complied with.
+
+#### Subdivision A—Determination of entitlement to child care rebate
+
+##### <a id="65EA"></a>65EA  Determining entitlement, or no entitlement, to child care rebate—eligibility for child care benefit by fee reduction
+
+             (1)  This section applies in respect of an individual and a child for a period in an income year if:
+
+                     (a)  the Secretary has determined under section 51B that the individual is entitled to be paid child care benefit by fee reduction for one or more sessions of care provided by an approved child care service to the child during the period; or
+
+                     (b)  the Secretary has determined under subsection 51C(1) or (2) that the individual is not entitled to be paid child care benefit by fee reduction for one or more sessions of care provided by an approved child care service to the child during the period.
+
+Determining entitlement to child care rebate
+
+             (2)  If the Secretary is satisfied:
+
+                     (a)  that the individual is eligible under subsection 57F(1) of the Family Assistance Act for child care rebate in respect of:
+
+                              (i)  the child for the income year; and
+
+                             (ii)  the care provided during the period; and
+
+                     (b)  that, if the individual were to be entitled under this subsection to child care rebate in respect of that eligibility, the amount of rebate would be more than a nil amount; and
+
+                     (c)  that a determination under this subsection, or subsection 65EB(2), has not already been made in respect of the individual and the child for the income year;
+
+the Secretary must determine that the individual is entitled to be paid child care rebate in respect of the child for the income year. The determination must include the amount of rebate to which the Secretary considers the individual to be entitled.
+
+Note:          A determination may be made under section 65EC if a determination under this subsection, or subsection 65EB(2), has already been made in respect of the individual and the child for a period in the income year.
+
+Determining no entitlement to child care rebate
+
+             (3)  If:
+
+                     (a)  the Secretary is not satisfied that the individual is eligible under subsection 57F(1) of the Family Assistance Act for child care rebate in respect of:
+
+                              (i)  the child for the income year; and
+
+                             (ii)  the care provided during the period; or
+
+                     (b)  the Secretary is satisfied that the individual is so eligible, but is not satisfied that, if the individual were to be entitled to child care rebate in respect of that eligibility, the amount of rebate would be more than a nil amount;
+
+the Secretary must determine that the individual is not entitled to be paid child care rebate in respect of the child for the care provided during the period.
+
+##### <a id="65EB"></a>65EB  Determining entitlement, or no entitlement, to child care rebate—eligibility for child care benefit for past period
+
+             (1)  This section applies in respect of an individual, a child and care provided to the child during a period in an income year if:
+
+                     (a)  the Secretary has determined under section 52E that the individual is entitled to be paid child care benefit for the period in respect of the child; or
+
+                     (b)  the Secretary has determined under subsection 52G(1) or (2) that the individual is not entitled to be paid child care benefit for the period in respect of the child.
+
+Determining entitlement to child care rebate
+
+             (2)  If the Secretary is satisfied:
+
+                     (a)  that the individual is eligible under subsection 57F(1) of the Family Assistance Act for child care rebate in respect of:
+
+                              (i)  the child for the income year; and
+
+                             (ii)  the care provided during the period; and
+
+                     (b)  that, if the individual were to be entitled under this subsection to child care rebate in respect of that eligibility, the amount of rebate would be more than a nil amount; and
+
+                     (c)  that a determination under this subsection, or subsection 65EA(2), has not already been made in respect of the individual and the child for the income year;
+
+the Secretary must determine that the individual is entitled to be paid child care rebate in respect of the child for the income year. The determination must include the amount of rebate to which the Secretary considers the individual to be entitled.
+
+Note:          A determination may be made under section 65EC if a determination under this subsection, or subsection 65EA(2), has already been made in respect of the individual and the child for a period in the income year.
+
+Determining no entitlement to child care rebate
+
+             (3)  If:
+
+                     (a)  the Secretary is not satisfied that the individual is eligible under subsection 57F(1) of the Family Assistance Act for child care rebate in respect of:
+
+                              (i)  the child for the income year; and
+
+                             (ii)  the care provided during the period; or
+
+                     (b)  the Secretary is satisfied that the individual is so eligible, but is not satisfied that, if the individual were to be entitled to child care rebate in respect of that eligibility, the amount of rebate would be more than a nil amount;
+
+the Secretary must determine that the individual is not entitled to be paid child care rebate in respect of the child for the care provided during the period.
+
+##### <a id="65EC"></a>65EC  Later determinations of entitlement to child care rebate
+
+             (1)  If:
+
+                     (a)  a determination is made under subsection 65EA(2) or 65EB(2), or this subsection because of a previous application of this subsection, in respect of an individual and a child for an income year (the **_earlier rebate determination_**); and
+
+                     (b)  a determination is later made under section 51B or 52E or subsection 51C(1) or 52G(1) in respect of the individual and the child and one or more sessions of care provided by an approved child care service during a period in the income year (the **_later CCB determination_**); and
+
+                     (c)  the later CCB determination is not the result of a review of an earlier determination under the relevant section; and
+
+                     (d)  as a result of the later CCB determination, the Secretary considers the individual is entitled to be paid an increased amount of child care rebate;
+
+the Secretary must determine that the individual is entitled to be paid the increased amount of child care rebate in respect of the child for the year (the **_later rebate determination_**).
+
+             (2)  The earlier rebate determination ceases to be in force when the later rebate determination is made.
+
+##### <a id="65ECA"></a>65ECA  Determining entitlement, or no entitlement, to child care rebate—eligibility for child care benefit in substitution
+
+             (1)  This section applies in respect of an individual and a child for a period if:
+
+                     (a)  the Secretary has determined under section 53D that the individual is entitled to be paid child care benefit by single payment/in substitution because of the death of another individual in respect of the child and the period; or
+
+                     (b)  the Secretary has determined under subsection 53E(1) or (2) that the individual is not entitled to be paid child care benefit by single payment/in substitution because of the death of another individual in respect of the child and the period.
+
+Determining entitlement to child care rebate
+
+             (2)  If the Secretary is satisfied:
+
+                     (a)  that the individual is eligible under subsection 57F(1A) of the Family Assistance Act for child care rebate in respect of the child and the period; and
+
+                     (b)  that, if the individual were to be entitled under this subsection to child care rebate in respect of that eligibility, the amount of rebate would be more than a nil amount;
+
+the Secretary must determine that the individual is entitled to be paid child care rebate because of the death of another individual in respect of the child and the period. The determination must include the amount of rebate to which the Secretary considers the individual to be entitled.
+
+             (3)  Subsections 65EA(3) and 65EB(3) do not limit subsection (2).
+
+Determining no entitlement to child care rebate
+
+             (4)  If:
+
+                     (a)  the Secretary is not satisfied that the individual is eligible under subsection 57F(1A) of the Family Assistance Act for child care rebate in respect of the child and the period; or
+
+                     (b)  the Secretary is satisfied that the individual is so eligible, but is not satisfied that, if the individual were to be entitled to child care rebate in respect of that eligibility, the amount of rebate would be more than a nil amount;
+
+the Secretary must determine that the individual is not entitled to be paid child care rebate because of the death of the other individual in respect of the child and the period.
+
+##### <a id="65ED"></a>65ED  When determination is in force
+
+                   Subject to subsection 65EC(2), a determination under this Subdivision comes into force when it is made and remains in force at all times afterwards.
+
+##### <a id="65EE"></a>65EE  Notice of determination
+
+             (1)  The Secretary must give notice of a determination under this Subdivision to the individual, stating:
+
+                     (a)  for a determination under a provision other than section 65ECA:
+
+                              (i)  the income year in respect of which the determination is made; and
+
+                             (ii)  whether, under the determination, the individual is entitled to be paid child care rebate in respect of the income year; and
+
+                     (b)  for a determination under section 65ECA:
+
+                              (i)  the period in respect of which the determination is made; and
+
+                             (ii)  whether, under the determination, the individual is entitled to be paid child care rebate in respect of the period; and
+
+                     (c)  if the individual is so entitled, the amount of the entitlement; and
+
+                     (d)  that the individual may apply for review of the determination in the manner set out in Part 5.
+
+             (2)  The determination is not ineffective by reason only that any, or all, of the requirements of subsection (1) are not complied with.
+
+#### Subdivision B—Payment
+
+##### <a id="65EF"></a>65EF  Payment of child care rebate
+
+Rebate because of eligibility for child care benefit by fee reduction or for past period
+
+             (1)  If a determination is made under section 65EA, 65EB or 65EC that an individual is entitled to be paid child care rebate in respect of a child for an income year, the Secretary must pay the amount to which the individual is determined to be entitled, at such time as the Secretary considers appropriate, to the credit of a bank account nominated and maintained by the individual.
+
+             (2)  Subsection (1) has effect subject to subsections (2A), (2B) and (2C).
+
+          (2A)  If the determination of entitlement is made under section 65EA, the Secretary must reduce the amount to be paid under subsection (1) by:
+
+                     (a)  the amount of any child care rebate already paid under Subdivision AAB in respect of the individual and the child for a week included in the income year; and
+
+                     (b)  the amount of any child care rebate already paid under Subdivision AA in respect of the individual and the child for a quarter included in the income year.
+
+          (2B)  If:
+
+                     (a)  the determination of entitlement is made under section 65EC; and
+
+                     (b)  when working out the amount of the entitlement under section 84A of the Family Assistance Act, the base weeks included one or more base weeks for which a determination under section 51B, or subsection 51C(1), was applicable;
+
+the Secretary must reduce the amount to be paid under subsection (1) by the amount of any child care rebate already paid:
+
+                    (ca)  under Subdivision AAB in respect of the individual and the child for a week all or part of which falls in the income year; and
+
+                     (c)  under Subdivision AA in respect of the individual and the child for a quarter included in the income year; and
+
+                     (d)  under subsection (1) in respect of the individual and the child for the income year.
+
+          (2C)  If the determination of entitlement is made under section 65EC in a case not covered by subsection (2B), the Secretary must reduce the amount to be paid under subsection (1) by the amount of any child care rebate already paid under subsection (1) in respect of the individual and the child for the income year.
+
+Rebate because of eligibility for child care benefit in substitution
+
+          (2D)  If a determination is made under section 65ECA that an individual is entitled to be paid child care rebate:
+
+                     (a)  because of the death of another individual; and
+
+                     (b)  in respect of a child and a period;
+
+the Secretary must pay the amount to which the individual is determined to be entitled, at such time as the Secretary considers appropriate, to the credit of a bank account nominated and maintained by the individual.
+
+          (2E)  However, the Secretary must reduce the amount to be paid under subsection (2D) by the amount of any child care rebate already paid:
+
+                     (a)  under Subdivision AAB in respect of the deceased individual and the child for a week wholly or partly included in the period; and
+
+                     (b)  under Subdivision AA in respect of the deceased individual and the child for a quarter wholly or partly included in the period.
+
+Secretary may direct payment in a different way
+
+             (3)  The Secretary may direct that the whole or a part of an amount which is to be paid under this section is to be paid in a different way from that provided for by subsection (1) or (2D). If the Secretary gives the direction, the amount is to be paid in accordance with the direction.
+
+Payment is subject to other provisions
+
+             (4)  This section is subject to Part 4 and to Division 3 of Part 8B.
+
+### Division 4A—One‑off payment to families
+
+##### <a id="65F"></a>65F  Payment of one‑off payment to families
+
+                   If an individual is entitled to a one‑off payment to families, the Secretary must pay the payment to the individual in a single lump sum:
+
+                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the payment.
+
+### Division 4B—Economic security strategy payment to families
+
+##### <a id="65G"></a>65G  Payment of economic security strategy payment to families
+
+                   If an individual is entitled to an economic security strategy payment to families, the Secretary must pay the payment to the individual in a single lump sum:
+
+                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the payment.
+
+### Division 4C—Back to school bonus and single income family bonus
+
+##### <a id="65H"></a>65H  Payment of back to school bonus and single income family bonus
+
+                   If an individual is entitled to a back to school bonus or a single income family bonus, the Secretary must pay the bonus to the individual in a single lump sum:
+
+                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the bonus to be made; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the bonus.
+
+### Division 4CA—ETR payment
+
+##### <a id="65HA"></a>65HA  Payment of ETR payment
+
+             (1)  If an individual is entitled to an ETR payment, the Secretary must pay the payment to the individual in a single lump sum:
+
+                     (a)  on the date that the Secretary considers to be the earliest date on which it is reasonably practicable for the payment to be made; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the payment.
+
+             (2)  If, on 8 May 2012, section 32AA or 32AD prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis, the Secretary must not pay the ETR payment to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
+
+### Division 4D—Clean energy advance
+
+##### <a id="65J"></a>65J  Payment of clean energy advance
+
+             (1)  Subject to this section, if an individual is entitled to a clean energy advance, the Secretary must pay the advance to the individual in a single lump sum:
+
+                     (a)  on the day that the Secretary considers to be the earliest day on which it is reasonably practicable for the advance to be paid; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          The individual does not have to make a claim for the advance.
+
+             (2)  If:
+
+                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1), (1A) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
+
+                     (b)  on that day, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis;
+
+then the Secretary must not pay the clean energy advance to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to that day.
+
+             (3)  If:
+
+                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) is on or after 1 July 2013; and
+
+                     (b)  in relation to one or more days in the 2012‑13 income year, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on an estimated income basis;
+
+then the Secretary must not pay the clean energy advance to the individual at a time that is earlier than the time family tax benefit is paid to the individual, or the individual’s partner, in relation to those days.
+
+### Division 4E—Single income family supplement
+
+#### Subdivision A—Making claims
+
+##### <a id="65K"></a>65K  Need for a claim
+
+             (1)  Subject to subsection (2), the only way that an individual can become entitled to be paid single income family supplement is to make a claim in accordance with this Division.
+
+             (2)  If:
+
+                     (a)  in relation to a period in an income year:
+
+                              (i)  a determination under section 16 or 17 is in force in respect of an individual as a claimant; or
+
+                             (ii)  a determination under section 18 is in force in respect of an individual because the Secretary is satisfied that the individual is eligible for family tax benefit under section 32 of the Family Assistance Act; and
+
+                     (b)  the individual’s rate of family tax benefit payable under the determination in relation to that period takes into account one or more FTB children of the individual;
+
+the individual is not required to make a claim for single income family supplement in relation to that period.
+
+##### <a id="65KA"></a>65KA  How to claim
+
+             (1)  An individual (a **_claimant_**) may make a claim:
+
+                     (a)  for payment of single income family supplement for a past period; or
+
+                     (b)  for payment of single income family supplement by single payment/in substitution because of the death of another individual.
+
+Form etc. of claim
+
+             (2)  To be effective:
+
+                     (a)  a claim must:
+
+                              (i)  be made in a form and manner; and
+
+                             (ii)  contain any information; and
+
+                            (iii)  be accompanied by any documents;
+
+                            required by the Secretary; and
+
+                     (b)  in the case of a claim for payment of single income family supplement for a past period—the tax file number requirement in section 65KB must be satisfied in relation to the claim; and
+
+                     (c)  in the case of a claim for payment of single income family supplement in substitution because of the death of another individual—the tax file number requirement in section 65KC must be satisfied in relation to the claim.
+
+##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
+
+             (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(b) (which states what is required for certain claims to be effective).
+
+             (2)  Subject to subsection (7), the requirement is that a statement of one of the kinds set out in subsections (3), (4) and (5) must be made in relation to each TFN claim person.
+
+Statement of tax file number
+
+             (3)  The first kind of statement that can be made is a statement of the TFN claim person’s tax file number. Regardless of who the TFN claim person is, this kind of statement can be made by the claimant only.
+
+Statement that TFN claim person does not know what his or her tax file number is etc.
+
+             (4)  The second kind of statement that can be made is a statement by the TFN claim person that the person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner of Taxation to inform the person of his or her tax file number; and
+
+                     (c)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+Statement that an application for a tax file number is pending
+
+             (5)  The third kind of statement that can be made is a statement by the TFN claim person that the person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
+How statement to be given
+
+             (6)  A statement made by the claimant must be in the claim. A statement made by any other TFN claim person must be in a document, in a form approved by the Secretary, that the claimant gives the Secretary together with the claim.
+
+Exemption from tax file number requirement
+
+             (7)  The Secretary may determine that the requirement in subsection (2) does not apply to a TFN claim person if:
+
+                     (a)  the person is, or was, the claimant’s partner; and
+
+                     (b)  the claimant cannot obtain from the person:
+
+                              (i)  the person’s tax file number; or
+
+                             (ii)  a statement by the person under subsection (4) or (5).
+
+##### <a id="65KC"></a>65KC  Tax file number requirement to be satisfied for claim in substitution because of the death of another individual
+
+             (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(c) (which states what is required for claims in substitution because of the death of another individual to be effective).
+
+             (2)  Subject to subsections (7) and (8), the requirement is that a statement of one of the kinds set out in subsections (3), (4) and (5) must be made in relation to each TFN substitution person.
+
+Statement of tax file number
+
+             (3)  The first kind of statement that can be made is a statement of a TFN substitution person’s tax file number. Regardless of who the TFN substitution person is, this kind of statement can be made by the claimant only.
+
+Statement that TFN substitution person does not know what his or her tax file number is etc.
+
+             (4)  The second kind of statement that can be made is a statement by a TFN substitution person who was the deceased individual’s partner during the period in respect of which the payment is claimed to the effect that the TFN substitution person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner of Taxation to inform the person of his or her tax file number; and
+
+                     (c)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+Statement that an application for a tax file number is pending
+
+             (5)  The third kind of statement that can be made is a statement by a TFN substitution person who was the deceased individual’s partner during the period in respect of which the payment is claimed to the effect that the TFN substitution person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
+How statement to be given
+
+             (6)  A statement made by the claimant must be made in the claim. A statement made by a TFN substitution person must be in a document, in a form approved by the Secretary, that the claimant gives the Secretary together with the claim.
+
+Exemption from tax file number requirement
+
+             (7)  The Secretary may determine that the requirement in subsection (2) does not apply in relation to a TFN substitution person if the claimant does not know the person’s tax file number.
+
+             (8)  The Secretary may determine that the requirement in subsection (2) does not apply in relation to a TFN substitution person if the claimant cannot obtain a statement referred to in subsection (4) or (5) in respect of the person.
+
+##### <a id="65KD"></a>65KD  Restrictions on claims for payment for a past period
+
+Restriction where previous claim
+
+             (1)  A claim for payment of single income family supplement for a past period is not effective if the claimant has previously made a claim for payment of single income family supplement for any of the past period (whether or not the claim has yet been determined).
+
+Other restrictions
+
+             (2)  A claim for payment of single income family supplement for a past period is not effective if:
+
+                     (a)  the period does not fall wholly within one income year; or
+
+                     (b)  the period does fall wholly within one income year but the claim is made after the end of the 2 income years immediately following that income year.
+
+             (3)  A claim for payment of single income family supplement for a past period is not effective if the period occurs in the income year in which the claim is made.
+
+##### <a id="65KE"></a>65KE  Restrictions on bereavement claims
+
+Restriction where previous claim
+
+             (1)  A claim for payment of single income family supplement by single payment/in substitution because of the death of another individual is not effective if the claimant has previously made a claim for payment of single income family supplement because of the death of that individual (whether or not the claim has yet been determined).
+
+Other restrictions
+
+             (2)  If a claim for payment of single income family supplement by single payment/in substitution because of the death of another individual is based on eligibility for an amount of single income family supplement under section 57GF or 57GG of the Family Assistance Act, the claim is not effective if it is made after the end of the income year following the one in which the death occurred.
+
+##### <a id="65KF"></a>65KF  Claim may be withdrawn or varied
+
+             (1)  A claimant may withdraw or vary a claim before the claim is determined.
+
+             (2)  The claimant may only do so in a manner determined by the Secretary.
+
+             (3)  If a claim is withdrawn, it is taken never to have been made.
+
+#### Subdivision B—Determination of claims and payment of single income family supplement
+
+##### <a id="65KG"></a>65KG  Secretary must determine claim
+
+                   If an effective claim is made, the Secretary must determine the claim in accordance with this Subdivision. If a claim is not effective, it is taken not to have been made.
+
+##### <a id="65KH"></a>65KH  Restriction on determining claim where income tax assessment not made
+
+             (1)  If, in relation to a claim for payment of single income family supplement made by an individual:
+
+                     (a)  the claim is for payment of that supplement for a past period; and
+
+                     (b)  the past period falls in an income year (the **_past period income year_**) that is one of the 2 income years before the one in which the claim is made; and
+
+                     (c)  either or both of subsections (2) and (3) apply;
+
+the Secretary can only determine the claim if each assessment concerned has been made.
+
+             (2)  This subsection applies if:
+
+                     (a)  the claimant is required to lodge an income tax return for the past period income year; and
+
+                     (b)  at the time the claim is made, an assessment has not been made under the _Income Tax Assessment Act 1936_ of the tax payable on the claimant’s taxable income for the past period income year.
+
+             (3)  This subsection applies if:
+
+                     (a)  a person is the claimant’s partner at any time during the past period; and
+
+                     (b)  that person is required to lodge an income tax return for the past period income year; and
+
+                     (c)  at the time the claim is made, an assessment has not been made under the _Income Tax Assessment Act 1936_ of the tax payable on that person’s taxable income for the past period income year.
+
+##### <a id="65KI"></a>65KI  Restriction on determining claim where income tax return not lodged
+
+             (1)  If, in relation to a claim for payment of single income family supplement made by an individual:
+
+                     (a)  the claim is for payment of that supplement for a past period; and
+
+                     (b)  the past period falls in an income year (the **_past period income year_**) that is one of the 2 income years before the one in which the claim is made; and
+
+                     (c)  either or both of subsections (2) and (3) apply;
+
+then the claim is taken never to have been made.
+
+             (2)  This subsection applies if:
+
+                     (a)  the claimant is required to lodge an income tax return for the past period income year; and
+
+                     (b)  the claimant has not lodged the return before the end of the 2 income years immediately following the past period income year.
+
+             (3)  This subsection applies if:
+
+                     (a)  a person is the claimant’s partner at any time during the past period; and
+
+                     (b)  that person is required to lodge an income tax return for the past period income year; and
+
+                     (c)  that person has not lodged the return before the end of the 2 income years immediately following the past period income year.
+
+##### <a id="65KJ"></a>65KJ  Restriction on determining claim where tax file number not provided etc.
+
+Statement that TFN claim person or TFN substitution person does not know what his or her tax file number is etc.
+
+             (1)  If:
+
+                     (a)  a TFN claim person makes a statement of the kind set out in subsection 65KB(4); or
+
+                     (b)  a TFN substitution person makes a statement of the kind set out in subsection 65KC(4);
+
+the Secretary can only determine the claim concerned if:
+
+                     (c)  within 28 days after the claim is made, the Commissioner of Taxation tells the Secretary the person’s tax file number; or
+
+                     (d)  28 days pass after the claim is made without the Commissioner of Taxation telling the Secretary that the person has no tax file number.
+
+Statement that an application for a tax file number is pending
+
+             (2)  If:
+
+                     (a)  a TFN claim person makes a statement of the kind set out in subsection 65KB(5); or
+
+                     (b)  a TFN substitution person makes a statement of the kind set out in subsection 65KC(5);
+
+the Secretary can only determine the claim concerned if:
+
+                     (c)  within 28 days after the claim is made, the Commissioner of Taxation tells the Secretary the person’s tax file number; or
+
+                     (d)  28 days pass after the claim is made without the Commissioner of Taxation telling the Secretary that:
+
+                              (i)  the person has not applied for a tax file number; or
+
+                             (ii)  an application by the person for a tax file number has been refused; or
+
+                            (iii)  the person has withdrawn an application for a tax file number.
+
+             (3)  If, after the 28 days mentioned in subsection (1) or (2) have passed, the Secretary cannot, because of that subsection, determine the claim, the claim is taken never to have been made.
+
+##### <a id="65KK"></a>65KK  Determination of past period entitlement claim
+
+                   If:
+
+                     (a)  the claim is one for payment of single income family supplement for a past period; and
+
+                     (b)  the Secretary is satisfied that the claimant was eligible for single income family supplement:
+
+                              (i)  for the whole of the period in accordance with Subdivision A of Division 6 of Part 3 of the Family Assistance Act; or
+
+                             (ii)  for part of the period in accordance with that Subdivision and for the remainder of the period in accordance with section 57GE of that Act;
+
+the Secretary must determine that the claimant is entitled to be paid single income family supplement for the past period.
+
+##### <a id="65KL"></a>65KL  Determination of bereavement entitlement claim
+
+                   If:
+
+                     (a)  the claim is one for payment of single income family supplement by single payment/in substitution because of the death of another individual; and
+
+                     (b)  the Secretary is satisfied that the claimant is eligible for single income family supplement under section 57GF or 57GG of the Family Assistance Act;
+
+the Secretary must determine that the claimant is entitled to be paid the single income family supplement.
+
+##### <a id="65KM"></a>65KM  Determination that no entitlement
+
+                   If the Secretary is not satisfied as mentioned in section 65KK or 65KL, the Secretary must determine that the claimant is not entitled to be paid single income family supplement for the past period or because of the death of the other individual, as the case requires.
+
+##### <a id="65KN"></a>65KN  When determination is in force
+
+                   A determination under this Division comes into force when it is made and remains in force at all times afterwards.
+
+##### <a id="65KO"></a>65KO  Notice of determination
+
+             (1)  The Secretary must give notice of a determination under this Subdivision to the claimant, stating:
+
+                     (a)  whether the claimant is entitled to be paid single income family supplement under the determination; and
+
+                     (b)  if the claimant is so entitled—the amount of the supplement and how it is to be paid; and
+
+                     (c)  that the claimant may apply for review of the determination in the manner set out in Part 5.
+
+             (2)  The determination is not ineffective by reason only that the requirements of subsection (1) are not complied with.
+
+##### <a id="65KP"></a>65KP  Payment of single income family supplement—no claim required
+
+             (1)  Subject to this section, if an individual is not required to make a claim for single income family supplement in relation to a period (the **_past period_**) in an income year (the **_past period income year_**), the Secretary must pay any amount of single income family supplement the individual is eligible for in relation to that past period:
+
+                     (a)  on the day that the Secretary considers to be the earliest day on which it is reasonably practicable for the amount to be paid; and
+
+                     (b)  in such manner as the Secretary considers appropriate.
+
+Note:          Subsection 65K(2) sets out when a claim for single income family supplement is not required.
+
+             (2)  If either or both of the following apply:
+
+                     (a)  the individual is required to lodge an income tax return for the past period income year;
+
+                     (b)  the following apply:
+
+                              (i)  a person is the individual’s partner at any time during the past period;
+
+                             (ii)  that person is required to lodge an income tax return for the past period income year;
+
+then the amount of single income family supplement cannot be paid to the individual unless, in relation to each person who is required to lodge an income tax return for that income year, an assessment has been made under the _Income Tax Assessment Act 1936_ of the tax payable on that person’s taxable income for that income year.
+
+             (3)  If either or both of the following apply:
+
+                     (a)  the individual is required to lodge an income tax return for the past period income year, but the individual has not lodged the return before the end of the 2 income years immediately following the past period income year;
+
+                     (b)  the following apply:
+
+                              (i)  a person is the individual’s partner at any time during the past period;
+
+                             (ii)  that person is required to lodge an income tax return for the past period income year;
+
+                            (iii)  that person has not lodged the return before the end of the 2 income years immediately following the past period income year;
+
+then the amount of single income family supplement is not to be paid to the individual.
+
+             (4)  This section is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
+
+##### <a id="65KQ"></a>65KQ  Payment of single income family supplement—claim required
+
+             (1)  If an individual is entitled to be paid an amount of single income family supplement under a determination on a claim for payment of single income family supplement:
+
+                     (a)  for a past period; or
+
+                     (b)  by single payment/in substitution because of the death of another individual;
+
+the Secretary must pay the amount to the individual at such time and in such manner as the Secretary considers appropriate.
+
+             (2)  This section is subject to Part 4, Division 3 of Part 8B and sections 225 and 226.
+
+##### <a id="65KR"></a>65KR  Secretary’s power to request tax file numbers
+
+             (1)  If a determination is in force under which the claimant is entitled to be paid single income family supplement for a past period, the Secretary may request the claimant to give the Secretary, within 28 days of the request being made, a written statement, in relation to a specified TFN determination person, of whichever of the kinds set out in subsections (2), (3) and (4) the claimant chooses.
+
+Statement of tax file number
+
+             (2)  The first kind of statement that can be made is a statement of the TFN determination person’s tax file number. Regardless of who the TFN determination person is, this kind of statement can be made by the claimant only.
+
+Statement that TFN person does not know what his or her tax file number is etc.
+
+             (3)  The second kind of statement that can be made is a statement by the TFN determination person that the person:
+
+                     (a)  has a tax file number but does not know what it is; and
+
+                     (b)  has asked the Commissioner of Taxation to inform the person of his or her tax file number; and
+
+                     (c)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—that number.
+
+Statement that an application for a tax file number is pending
+
+             (4)  The third kind of statement that can be made is a statement by the TFN determination person that the person:
+
+                     (a)  has an application for a tax file number pending; and
+
+                     (b)  authorises the Commissioner of Taxation to tell the Secretary:
+
+                              (i)  if a tax file number is issued to the person—that number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn.
+
+##### <a id="65KS"></a>65KS  Variation of past period determinations where failure to provide tax file number
+
+Non‑compliance with request
+
+             (1)  If:
+
+                     (a)  the Secretary makes a request under subsection 65KR(1); and
+
+                     (b)  the claimant does not comply with the request within 28 days of the request being made;
+
+then, subject to subsection (2), the consequence in subsection (7) applies.
+
+Exemption from request under subsection 65KR(1)
+
+             (2)  The Secretary may determine that the consequence in subsection (7) does not apply if:
+
+                     (a)  the TFN determination person concerned is or was the claimant’s partner; and
+
+                     (b)  the claimant cannot obtain from the person:
+
+                              (i)  the person’s tax file number; or
+
+                             (ii)  a statement by the person under subsection 65KR(3) or (4).
+
+Statement made by TFN determination person under subsection 65KR(3)
+
+             (3)  If:
+
+                     (a)  the Secretary makes a request under subsection 65KR(1); and
+
+                     (b)  by the end of 28 days after the request is made, the claimant gives the Secretary a statement by the TFN determination person of the kind set out in subsection 65KR(3); and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN determination person has no tax file number;
+
+the consequence in subsection (7) applies.
+
+Statement made by TFN determination person under subsection 65KR(4)
+
+             (4)  If:
+
+                     (a)  the Secretary makes a request under subsection 65KR(1); and
+
+                     (b)  by the end of 28 days after the request is made, the claimant gives the Secretary a statement by the TFN determination person of the kind set out in subsection 65KR(4); and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN determination person has not applied for a tax file number, that an application by the person for a tax file number has been refused or that the person has withdrawn an application for a tax file number;
+
+the consequence in subsection (7) applies.
+
+Statement made by TFN claim person under subsection 65KB(4)
+
+             (5)  If:
+
+                     (a)  a TFN claim person has made a statement of the kind set out in subsection 65KB(4); and
+
+                     (b)  a determination is in force under which the claimant is entitled to be paid single income family supplement for a past period; and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has no tax file number;
+
+the consequence in subsection (7) applies.
+
+Statement made by TFN claim person under subsection 65KB(5)
+
+             (6)  If:
+
+                     (a)  a TFN claim person has made a statement of the kind set out in subsection 65KB(5); and
+
+                     (b)  a determination is in force under which the claimant is entitled to be paid single income family supplement for a past period; and
+
+                     (c)  the Commissioner of Taxation subsequently tells the Secretary that the TFN claim person has not applied for a tax file number, that an application by the person for a tax file number has been refused or that the person has withdrawn an application for a tax file number;
+
+the consequence in subsection (7) applies.
+
+Consequence—variation of determination
+
+             (7)  For the purposes of subsection (1), (3), (4), (5) or (6), the consequence is that the Secretary may, if the determination is one under which the claimant is entitled to be paid single income family supplement for a past period, vary the determination so that it has the effect that the claimant is not entitled to be paid single income family supplement for any day in the past period.
+
+Consequence of Secretary later becoming aware of tax file number
+
+             (8)  If:
+
+                     (a)  under subsection (7), the Secretary varies the determination; and
+
+                     (b)  the Secretary finds out the tax file number of the TFN determination person or TFN claim person, as the case requires, at any time after the variation takes place;
+
+the Secretary must vary the determination to undo the effect mentioned in subsection (7).
+
+##### <a id="65KT"></a>65KT  Notice of variation of determination
+
+             (1)  The Secretary must give notice of any variation of a determination under this Subdivision to the claimant, stating the effect of the variation and that the claimant may apply for review of the decision involved in the manner set out in Part 5.
+
+             (2)  The variation is not ineffective by reason only that the requirements of subsection (1) are not complied with.
+
+### Division 5—Payment protection and garnishee orders
+
+##### <a id="66"></a>66  Protection of payments under this Part
+
+             (1)  Payments of the following are absolutely inalienable, whether by way of, or in consequence of, sale, assignment, charge, execution, bankruptcy or otherwise:
+
+                     (a)  family tax benefit;
+
+                     (b)  family tax benefit advances;
+
+                   (ba)  schoolkids bonus;
+
+                     (c)  baby bonus;
+
+                     (e)  child care benefit;
+
+                    (ea)  child care rebate;
+
+                   (eb)  single income family supplement;
+
+                      (f)  payments under section 219Q or subsection 219QA(2) in respect of fee reduction;
+
+                  (faa)  payments under section 219QC or subsection 219QD(2) in respect of child care rebate;
+
+                    (fa)  payments of enrolment advances under section 219RA;
+
+                    (fb)  payments under section 219RD (business continuity payments);
+
+                     (g)  one‑off payment to families;
+
+                     (h)  economic security strategy payment to families;
+
+                      (i)  back to school bonus or single income family bonus;
+
+                      (j)  clean energy advance;
+
+                     (k)  ETR payment.
+
+             (2)  Subsection (1) has effect subject to:
+
+                     (a)  subsections 56(3) and 56A(3) (about payment of child care benefit in a different way); and
+
+                    (aa)  subsections 65EAA(3), 65EAAC(3) and 65EF(3) (about payment of child care rebate in a different way); and
+
+                  (aaa)  subsection 65EAAF(3) (about setting off a decrease in a weekly amount of child care rebate against rebate for a later period); and
+
+                   (ab)  subsection 65EAB(3) (about setting off a decrease in a quarterly amount of child care rebate against rebate for a later quarter); and
+
+                     (b)  section 84 (about deductions from a person’s family tax benefit to repay a debt of the person); and
+
+                   (ba)  section 84A (about setting off a person’s entitlement to family assistance against a debt of the person); and
+
+                   (bb)  section 87A (setting off debts against various payments);
+
+                     (c)  section 92 (about a person consenting to deductions from the person’s family tax benefit to repay the debt of someone else); and
+
+                    (ca)  section 92A (about setting off family assistance of a person to repay the debt of another person); and
+
+                   (cb)  section 219QA (setting off a recalculated fee reduction against various payments);
+
+                  (cba)  section 219QD (setting off a recalculated weekly payment of child care rebate against various payments);
+
+                    (cc)  section 219RC (setting off an enrolment advance against various payments);
+
+                   (cd)  Division 3 of Part 8B (about payments to payment nominee); and
+
+                     (d)  section 225 (about making of deductions from family assistance for payment to the Commissioner of Taxation); and
+
+                     (e)  section 226 (about setting off a family assistance entitlement against a tax liability); and
+
+                      (f)  section 227 (about deductions from family tax benefit to repay certain child support debts); and
+
+                     (g)  Part 3B of the _Social Security (Administration) Act 1999_.
+
+##### <a id="67"></a>67  Effect of garnishee etc. order
+
+             (1)  If:
+
+                     (a)  a person has an account with a financial institution; and
+
+                     (b)  payments of any of the kinds mentioned in subsection 66(1) are being paid, or have been paid, to the credit of the account; and
+
+                     (c)  a court order in the nature of a garnishee order comes into force in respect of the account;
+
+the court order does not apply to the saved amount (if any) in the account.
+
+             (2)  The saved amount is worked out as follows:
+
+* * *
+
+_Method statement_
+
+Step 1.   Work out the total amount of the payments mentioned in subsection (1) that have been paid to the credit of the account during the 4 week period immediately before the court order came into force.
+
+Step 2.   Subtract from the step 1 amount the total amount withdrawn from the account during the same 4 week period: the result is the **_saved amount_**.
+
+* * *
+
+## Part 4—Overpayments and debt recovery
+
+### Division 1—Preliminary
+
+##### <a id="68"></a>68  Meaning of _amount paid to person_
+
+             (1)  For the purposes of this Part, **_amount paid to person_** in respect of whom a determination of entitlement to be paid child care benefit has been made—means the amount of the entitlement (see subsection 3(1)) paid to the person.
+
+          (1A)  In the case of a person in respect of whom a determination of entitlement to be paid child care benefit by fee reduction has been made under section 51B (individual) or 54B (approved child care service), the amount of the entitlement paid to the person consists of:
+
+                     (a)  the amount:
+
+                              (i)  in the case of an individual—that the service that provided care in respect of which the determination under section 51B was made is required, under section 219B, to pass on to the individual as a fee reduction for that care; or
+
+                             (ii)  in the case of a service that provided care in respect of which a determination under section 54B was made—that the service is required, under section 219BA, to pass on to itself as a fee reduction for that care; and
+
+                     (b)  the amount, as paid to the person, of the difference (if any) referred to in:
+
+                              (i)  in the case of an individual—subsection 56(1); and
+
+                             (ii)  in the case of an approved child care service—subsection 56B(1).
+
+          (1B)  In the case of a person who has made an election under paragraph 65EAAAA(1)(b) to have child care rebate in respect of a child paid weekly to an approved child care service, the amount of child care rebate paid to the person in a week for which the election is in effect consists of the amount that the service is required, under section 219EA, to pass on to the individual for care provided for the child in the week.
+
+             (2)  For the purposes of this Part, an amount of family assistance is taken to be paid to a person if that amount is applied against a liability of that person or another person for:
+
+                     (a)  a primary tax; or
+
+                     (b)  a debt under this Act or the _Social Security Act 1991_.
+
+##### <a id="68A"></a>68A  Recovery from approved child care service
+
+                   The amount of a debt due under this Part by an approved child care service is payable by the operator of the service.
+
+##### <a id="69"></a>69  Special provisions relating to approved child care services
+
+                   For the purposes of this Part, a reference to an amount being paid to a person when the person is an approved child care service includes a reference to an amount that, at the time when it was paid, was paid to an approved child care service even if:
+
+                     (a)  the service is no longer approved; or
+
+                     (b)  the service operator no longer operates the service concerned.
+
+### Division 2—Amounts recoverable under this Act
+
+##### <a id="70"></a>70  Debts due to the Commonwealth
+
+                   If an amount has been paid by way of family assistance, one‑off payment to families, a payment under section 219Q, subsection 219QA(2), section 219QC or subsection 219QD(2), a payment of an enrolment advance under section 219RA, a payment under section 219RD, economic security strategy payment to families, back to school bonus, single income family bonus, a clean energy advance or ETR payment, the amount is a debt due to the Commonwealth only to the extent to which a provision of:
+
+                     (a)  this Act; or
+
+                     (b)  the _Data‑matching Program (Assistance and Tax) Act 1990_;
+
+expressly provides that it is.
+
+##### <a id="71"></a>71  Debts arising in respect of family assistance other than child care benefit, child care rebate and family tax benefit advance
+
+No entitlement to amount
+
+             (1)  If:
+
+                     (a)  an amount has been paid to a person by way of family tax benefit, baby bonus, single income family supplement or schoolkids bonus (the **_assistance_**) in respect of a period or event; and
+
+                     (b)  the person was not entitled to the assistance in respect of that period or event;
+
+the amount so paid is a debt due to the Commonwealth by the person.
+
+Overpayment
+
+             (2)  If:
+
+                     (a)  an amount (the **_received amount_**) has been paid to a person by way of assistance; and
+
+                     (b)  the received amount is greater than the amount (the **_correct_ _amount_**) of assistance that should have been paid to the person under the family assistance law;
+
+the difference between the received amount and the correct amount is a debt due to the Commonwealth by the person.
+
+##### <a id="71A"></a>71A  Debts arising in respect of family tax benefit advances
+
+No entitlement to advance
+
+             (1)  If:
+
+                     (a)  a family tax benefit advance has been paid to an individual; and
+
+                     (b)  the individual was not entitled to the advance;
+
+the amount so paid is a debt due to the Commonwealth by the individual.
+
+Overpayment
+
+             (2)  If:
+
+                     (a)  an amount (the **_received amount_**) of family tax benefit advance has been paid to an individual; and
+
+                     (b)  the received amount is greater than the amount (the **_correct amount_**) of family tax benefit advance that should have been paid to the individual under the family assistance law;
+
+the difference between the received amount and the correct amount is a debt due to the Commonwealth by the individual.
+
+Debt arising during the repayment period for a family tax benefit advance
+
+             (3)  If:
+
+                     (a)  an individual is paid a family tax benefit advance; and
+
+                     (b)  the repayment period for the advance has not expired; and
+
+                     (c)  one of the following occurs:
+
+                              (i)  the individual ceases to be entitled to be paid family tax benefit by instalment;
+
+                             (ii)  the individual’s Part A rate becomes nil (before reduction under clause 5 or 25A of Schedule 1 to the Family Assistance Act);
+
+the amount of unrepaid family tax benefit advance becomes a debt due to the Commonwealth by the individual.
+
+Debt arising due to variation or review after the repayment period for a family tax benefit advance has expired
+
+(4)  If:
+
+                     (a)  an individual is paid a family tax benefit advance; and
+
+                     (b)  the individual’s Part A rate has been reduced under clause 5 or 25A of Schedule 1 to the Family Assistance Act to repay the advance; and
+
+                     (c)  the repayment period for the advance has expired; and
+
+                     (d)  due to a variation in a determination, or a variation or substitution of a decision on review (other than a variation under subsection 28(2) or (6)), the reduction in the individual’s Part A rate under clause 5 or 25A of Schedule 1 to the Family Assistance Act has not been sufficient to repay the advance; and
+
+                     (e)  at the time of the variation of the determination, or the variation or substitution of the decision on review:
+
+                              (i)  the individual is not entitled to be paid family tax benefit by instalment; or
+
+                             (ii)  the individual’s Part A rate is nil (before reduction under clause 5 or 25A of Schedule 1 to the Family Assistance Act);
+
+the amount of the family tax benefit advance left unrepaid as a result of the variation of the determination, or the variation or substitution of the decision on review, becomes a debt due to the Commonwealth by the individual.
+
+Note:          If the individual is entitled to be paid family tax benefit by instalment and has a Part A rate greater than nil, the unrepaid amount of the advance is to be repaid by reductions in the individual’s Part A rate (see clause 51 of Schedule 1 to the Family Assistance Act).
+
+Debt arising due to variation under subsection 28(2) or (6)
+
+             (5)  If:
+
+                     (a)  an individual is paid a family tax benefit advance; and
+
+                     (b)  the individual’s Part A rate has been reduced under clause 5 or 25A of Schedule 1 to the Family Assistance Act to repay the advance; and
+
+                     (c)  due to a variation in a determination of the individual’s entitlement to family tax benefit made under subsection 28(2) or (6), the reduction in the individual’s Part A rate under clause 5 or 25A of Schedule 1 to the Family Assistance Act has not been sufficient to repay the advance;
+
+the amount of the family tax benefit advance left unrepaid as a result of the variation of the determination becomes a debt due to the Commonwealth by the individual.
+
+             (6)  If a debt is created under subsection (5) and the Secretary varies the determination of the individual’s entitlement to family tax benefit under subsection 28(3) or (4), the debt is taken never to have been created.
+
+Note:          If, after the variation, the individual’s Part A rate was not sufficient to repay the advance, the unrepaid amount of the advance is to be repaid either by reductions in the individual’s Part A rate (see clauses 48 and 51 of Schedule 1 to the Family Assistance Act) or as a debt under subsection (3) or (4).
+
+Debt arising due to determination under clause 45 of Schedule 1 to the Family Assistance Act
+
+             (7)  If:
+
+                     (a)  an individual is paid a family tax benefit advance; and
+
+                     (b)  the Secretary determines under clause 45 of Schedule 1 to the Family Assistance Act that the amount of the advance that is unrepaid is to be a debt;
+
+the amount of the family tax benefit advance becomes a debt due to the Commonwealth by the individual.
+
+Meaning of **FTB advance debt**
+
+             (8)  The debt due to the Commonwealth under subsection (1), (2), (3), (4), (5) or (7) is an **_FTB advance debt_**_._
+
+##### <a id="71B"></a>71B  Debts where no entitlement or where enrolment advance wrongly paid
+
+             (1)  If:
+
+                     (a)  an approved child care service is required under section 219B to pass an amount on to an individual (the **_recipient_**) in respect of one or more sessions of child care provided by the service to a child, but the recipient was not entitled to child care benefit in respect of the session or sessions of care; or
+
+                     (b)  an approved child care service is required under section 219BA to pass an amount on to itself (the **_recipient_**) in respect of one or more sessions of child care provided by the service to a child at risk, but the recipient was not entitled to child care benefit in respect of the session or sessions of care; or
+
+                     (c)  an amount has been paid to a person (the **_recipient_**) by way of child care benefit in respect of a period, but the recipient was not entitled to child care benefit in respect of that period; or
+
+                     (d)  an approved child care service is required under section 219EA to pass on an amount to an individual (the **_recipient_**) in respect of care provided for a child by the service in a week, but the recipient was not entitled to child care rebate in respect of the week;
+
+the amount so paid is, subject to section 71F, a debt due to the Commonwealth by the recipient.
+
+             (2)  If:
+
+                     (a)  an enrolment advance was paid to a child care service under section 219RA; and
+
+                     (b)  the service was not entitled to be paid the advance;
+
+the amount of the advance becomes a debt due to the Commonwealth by the service.
+
+             (3)  If:
+
+                     (a)  one of the following payments is made to a financial institution for the credit of an account kept with the institution (the **_incorrect account_**):
+
+                              (i)  a payment under section 219Q or subsection 219QA(2) in respect of fee reduction;
+
+                             (ii)  a payment under section 219QC or subsection 219QD(2) in respect of child care rebate;
+
+                            (iii)  a payment under section 219RA of an enrolment advance; and
+
+                     (b)  the Secretary is satisfied that the amount paid to the institution was intended to be paid for the credit of an account kept in the name of someone who was not the person, or one of the persons, in whose name the incorrect account was kept;
+
+an amount equal to the amount of the payment made to the institution is, subject to subsection 93A(5), a debt due to the Commonwealth by the person, or jointly and severally by the persons, as the case requires, in whose name the incorrect account was kept.
+
+##### <a id="71C"></a>71C  Debts arising in respect of child care benefit where overpayment
+
+                   If:
+
+                     (a)  an amount (the **_received amount_**) has been paid to a person by way of child care benefit in respect of a period; and
+
+                     (b)  the received amount is greater than the amount (the **_correct_ _amount_**) of benefit that should have been paid to the person under the family assistance law in respect of that period;
+
+the difference between the received amount and the correct amount is, subject to section 71F, a debt due to the Commonwealth by the person.
+
+##### <a id="71CAA"></a>71CAA  Debts arising in respect of child care rebate where no entitlement
+
+No entitlement to rebate arising from CCB by fee reduction
+
+             (1)  If:
+
+                     (a)  an amount has been paid to an individual by way of child care rebate for a week under Subdivision AAB or for a quarter under Subdivision AA of Division 4AA of Part 3 in respect of a period during which the individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  the individual is not entitled to rebate in respect of the child and that period;
+
+the amount is a debt due to the Commonwealth by the individual.
+
+Note 1:       For paragraph (b), the individual will not be entitled to rebate if a determination of no entitlement has been made under subsection 65EA(3) in respect of the child and the period.
+
+Note 2:       A determination of no entitlement under subsection 65EA(3) could arise as a decision substituted on review under Part 5.
+
+             (2)  If:
+
+                     (a)  an amount has been paid to an individual by way of child care rebate in respect of a child for an income year as a result of:
+
+                              (i)  a determination under subsection 65EA(2) in respect of a period of care covered by a determination made under section 51B or subsection 51C(1); or
+
+                             (ii)  a determination under subsection 65EC(1) in respect of a period of care covered by a determination made under section 51B or subsection 51C(1); and
+
+                     (b)  the individual is not entitled to rebate in respect of the child and that period;
+
+the amount is a debt due to the Commonwealth by the individual.
+
+No entitlement to rebate arising from CCB for past period
+
+             (3)  If:
+
+                     (a)  an amount has been paid to an individual by way of child care rebate in respect of a child for an income year as a result of:
+
+                              (i)  a determination under subsection 65EB(2) in respect of a period of care covered by a determination made under section 52E or subsection 52G(1); or
+
+                             (ii)  a determination under subsection 65EC(1) in respect of a period of care covered by a determination made under section 52E or subsection 52G(1); and
+
+                     (b)  the individual is not entitled to rebate in respect of the child and that period;
+
+the amount is a debt due to the Commonwealth by the individual.
+
+No entitlement to rebate arising from CCB by fee reduction or for past period—other situations
+
+             (4)  If:
+
+                     (a)  an amount has been paid to an individual by way of child care rebate:
+
+                              (i)  for an income year, for a week in an income year, or for a quarter in an income year, in respect of a child; and
+
+                             (ii)  in circumstances other than those mentioned in subsection (1), (2), (3) or (5); and
+
+                     (b)  the individual is not entitled to rebate for that year in respect of the child;
+
+the amount is a debt due to the Commonwealth by the individual.
+
+No entitlement to rebate arising from CCB by single payment/in substitution
+
+             (5)  If:
+
+                     (a)  an amount has been paid to an individual by way of child care rebate in respect of a child for a period:
+
+                              (i)  as a result of a determination under subsection 65ECA(2) in respect of a period of care covered by a determination made under section 53D or subsection 53E(1); or
+
+                             (ii)  in other circumstances because of the death of another individual; and
+
+                     (b)  the individual is not entitled to rebate in respect of the child and that period;
+
+the amount is a debt due to the Commonwealth by the individual.
+
+##### <a id="71CAB"></a>71CAB  Debts arising in respect of child care rebate where overpayment
+
+Overpayment of rebate arising from CCB by fee reduction—for a week or a quarter
+
+             (1)  If:
+
+                     (a)  an amount (the **_received amount_**) has been paid to an individual by way of child care rebate in respect of a period during which the individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                    (aa)  the amount is paid under Subdivision AAB of Division 4AA of Part 3 (weekly payment), Subdivision AA of that Division (quarterly payment), or both Subdivision AAB and Subdivision AA of that Division (both weekly and quarterly payment during the period); and
+
+                     (b)  the received amount is greater than the amount (the **_correct amount_**) of rebate to which the individual is entitled under subsection 65EA(2) or 65EC(1) in respect of the child and that period;
+
+the difference between the received amount and the correct amount is a debt due to the Commonwealth by the individual.
+
+Note:          A determination of entitlement under subsection 65EA(2) or 65EC(1) could arise as a decision substituted on review under Part 5.
+
+Overpayment of rebate arising from CCB by fee reduction—for an income year
+
+             (2)  If:
+
+                     (a)  an amount (the **_received amount_**) has been paid to an individual by way of child care rebate in respect of a child for an income year in respect of a period of care covered by a determination made under section 51B or subsection 51C(1); and
+
+                     (b)  the received amount is greater than the amount (the **_correct amount_**) of rebate to which the individual is entitled under subsection 65EA(2) or 65EC(1) in respect of the child and that period;
+
+the difference between the received amount and the correct amount is a debt due to the Commonwealth by the individual.
+
+Note:          A determination of entitlement under subsection 65EA(2) or 65EC(1) could arise as a decision substituted on review under Part 5.
+
+Overpayment of rebate arising from CCB for past period
+
+             (3)  If:
+
+                     (a)  an amount (the **_received amount_**) has been paid to an individual by way of child care rebate in respect of a child for an income year in respect of a period of care covered by a determination made under section 52E or subsection 52G(1); and
+
+                     (b)  the received amount is greater than the amount (the **_correct amount_**) of rebate to which the individual is entitled under subsection 65EB(2) or 65EC(1) in respect of the child and that period;
+
+the difference between the received amount and the correct amount is a debt due to the Commonwealth by the individual.
+
+Note:          A determination of entitlement under subsection 65EB(2) or 65EC(1) could arise as a decision substituted on review under Part 5.
+
+Overpayment of rebate arising from CCB in substitution
+
+             (4)  If:
+
+                     (a)  an amount (the **_received amount_**) has been paid to an individual by way of child care rebate in respect of a child for a period of care covered by a determination made under section 53D or subsection 53E(1); and
+
+                     (b)  the received amount is greater than the amount (the **_correct amount_**) of rebate to which the individual is entitled under subsection 65ECA(2) in respect of the child and that period;
+
+the difference between the received amount and the correct amount is a debt due to the Commonwealth by the individual.
+
+Note:          A determination of entitlement under subsection 65ECA(2) could arise as a decision substituted on review under Part 5.
+
+##### <a id="71CAC"></a>71CAC  Debts arising in respect of child care rebate paid to wrong account
+
+                   Subject to subsection 93A(5), if:
+
+                     (a)  a payment by way of child care rebate is made to a financial institution for the credit of an account kept with the institution (the **_incorrect account_**); and
+
+                     (b)  the Secretary is satisfied that the amount paid to the institution was intended to be paid for the credit of an account kept in the name of someone who was not the person or one of the persons in whose name or names the incorrect account was kept;
+
+an amount equal to the amount of the payment made to the institution is a debt due to the Commonwealth by the person, or jointly and severally by the persons, in whose name or names the incorrect account was kept.
+
+##### <a id="71CA"></a>71CA  Debts arising in respect of fee reduction payments not remitted—debt owed by service
+
+                   If an approved child care service does not remit to the Secretary an amount that the service is required to remit under section 219QB (fee reductions that it is not reasonably practicable for the service to pass on), the amount is a debt due to the Commonwealth by the service.
+
+##### <a id="71CB"></a>71CB  Debts arising in respect of child care rebate payment not remitted—debt owed by service
+
+                   If an approved child care service does not remit to the Secretary an amount that the service is required to remit under section 219QE (weekly payments of child care rebate that it is not reasonably practicable for the service to pass on), the amount is a debt due to the Commonwealth by the service.
+
+##### <a id="71D"></a>71D  Debt arising in respect of child care benefit where false or misleading statement by individual—debt owed by individual
+
+Child care benefit paid to service because of false or misleading statement by individual
+
+             (1)  If:
+
+                     (a)  an individual knowingly makes a false or misleading statement to:
+
+                              (i)  an approved child care service; or
+
+                             (ii)  an officer; and
+
+                     (b)  because of the false or misleading statement, the service is:
+
+                              (i)  eligible under section 47 of the Family Assistance Act in respect of the child and the session; or
+
+                             (ii)  being so eligible, is entitled to an amount of child care benefit in respect of the child and the session; and
+
+                     (c)  an amount of child care benefit is paid to the service for a session of care provided by the service to a child who was in the care of the individual immediately before the session was provided;
+
+the difference between the amount paid to the service and the amount that would have been paid if the individual had not made the statement is a debt due to the Commonwealth by the individual.
+
+             (2)  For the purposes of subsection (1), the amount that would have been paid if the individual had not made the statement may be nil.
+
+Child care benefit, paid to individual who is conditionally eligible, following service’s certificate because of false or misleading statement by individual
+
+             (3)  If:
+
+                     (a)  an individual knowingly makes a false or misleading statement to an approved child care service; and
+
+                     (b)  the service, in reliance on the statement:
+
+                              (i)  certifies a rate under subsection 76(1) of the Family Assistance Act; or
+
+                             (ii)  gives a certificate relating to a weekly limit of hours under subsection 54(10), 55(6) or 56(3) of that Act; and
+
+                     (c)  an amount of child care benefit is paid to the individual because of the certificate;
+
+the difference between the amount paid to the individual and the amount that would have been paid if the individual had not made the statement is a debt due to the Commonwealth by the individual.
+
+##### <a id="71E"></a>71E  Debt arising in respect of child care benefit when false or misleading statement etc. by service—debt owed by service
+
+Child care benefit paid at rate certified by service because of false or misleading statement by service in certificate
+
+             (1)  If:
+
+                     (a)  an approved child care service certifies a rate under section 76 of the Family Assistance Act in relation to a session of care provided by the service to:
+
+                              (i)  an FTB child, or a regular care child, of an individual, or the individual’s partner; or
+
+                             (ii)  a child who was in the care of an individual immediately before the session was provided; and
+
+                     (b)  the service certifies the rate knowing that the reason for certifying the rate does not apply in respect of the child or the individual; and
+
+                     (c)  an amount of child care benefit is paid because of the certificate;
+
+the difference between the amount paid and the amount that would have been paid if the service had not certified the rate is a debt due to the Commonwealth by the service.
+
+Child care benefit paid following service’s certificate relating to weekly limit of hours made because of false or misleading statement by service in certificate
+
+             (2)  If:
+
+                     (a)  an approved child care service gives a certificate under subsection 54(10), 55(6) or 56(3) or (4) of the Family Assistance Act relating to a weekly limit of hours in sessions of care provided by the service to:
+
+                              (i)  an FTB child, or a regular care child, of an individual, or the individual’s partner; or
+
+                             (ii)  a child who was in the care of an individual immediately before the first session of care was provided; and
+
+                     (b)  the service gives the certificate knowing that the reason for giving the certificate does not apply in respect of the child or the individual; and
+
+                     (c)  an amount of child care benefit is paid because of the certificate;
+
+the difference between the amount paid and the amount that would have been paid if the service had not given the certificate is a debt due to the Commonwealth by the service.
+
+Child care benefit paid at rate determined by Secretary because of false or misleading statement by service
+
+             (3)  If:
+
+                     (a)  an approved child care service knowingly makes a false or misleading statement to an officer; and
+
+                     (b)  a determination of rate is made by the Secretary under subsection 81(2) or (3) of the Family Assistance Act in reliance on the statement; and
+
+                     (c)  an amount of child care benefit is paid because of the determination;
+
+the difference between the amount paid because of the determination and the amount that would have been paid if the service had not made the statement is a debt due to the Commonwealth by the service.
+
+Child care benefit paid following variation of determination of weekly limit of hours made because of service’s false or misleading statement by service
+
+             (4)  If:
+
+                     (a)  an approved child care service knowingly makes a false or misleading statement to an officer; and
+
+                     (b)  a variation of a determination of a weekly limit of hours is made by the Secretary under subsection 64A(2), 64B(2) or 64C(2), in reliance on the statement; and
+
+                     (c)  an amount of child care benefit is paid because of the variation;
+
+the difference between the amount paid and the amount that would have been paid if the service had not made the statement is a debt due to the Commonwealth by the service.
+
+Service eligible for child care benefit and service makes false or misleading statement as to eligibility
+
+             (5)  If:
+
+                     (a)  an approved child care service is eligible for child care benefit under section 47 of the Family Assistance Act for care provided by the service to a child at risk; and
+
+                     (b)  the service is so eligible knowing that it does not, at the time the care is provided, believe the child to be at risk of serious abuse or neglect; and
+
+                     (c)  a determination of entitlement to be paid child care benefit by fee reduction for care provided to the child has been made under section 54B in respect of the service; and
+
+                     (d)  an amount of child care benefit is paid because of the determination;
+
+the difference between the amount paid and the amount that would have been paid if the service was not so eligible, is a debt due to the Commonwealth by the service.
+
+##### <a id="71F"></a>71F  Debts arising under more than one provision
+
+             (1)  If:
+
+                     (a)  a debt is due to the Commonwealth by an individual under subsection 71B(1) or section 71C; and
+
+                     (b)  part or all of the amount of the debt is attributable to a false or misleading statement etc. made by an approved child care service as referred to in section 71E; and
+
+                     (c)  a debt is due by the service to the Commonwealth under section 71E in respect of the false or misleading statement etc.;
+
+the amount of the debt due by the individual under subsection 71B(1) or section 71C that is also a debt owed by the service under section 71E is, despite the operation of subsection 71B(1) or section 71C, not an amount of the debt owed by the individual.
+
+             (2)  If:
+
+                     (a)  a debt is due to the Commonwealth by an approved child care service under subsection 71B(1) or section 71C; and
+
+                     (b)  part or all of the amount of the debt is attributable to a false or misleading statement by an individual as referred to in section 71D; and
+
+                     (c)  a debt is due by the individual to the Commonwealth under section 71D in respect of the false or misleading statement;
+
+the amount of the debt due by the service under subsection 71B(1) or section 71C that is also a debt owed by the individual under section 71D is, despite the operation of subsection 71B(1) or section 71C, not an amount of the debt owed by the service.
+
+##### <a id="71G"></a>71G  Debts arising where child care services approval is suspended or cancelled—debt owed by service
+
+Child care benefit—fee reduction
+
+             (1)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid under section 219Q or subsection 219QA(2) to a person that is an approved child care service (weekly fee reduction payments); or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2) or section 219QA, 219QD, 219RC or 219RE; and
+
+                     (b)  the service’s approval is suspended or cancelled under this Act before a session of care in respect of which the payment was made;
+
+so much of the amount of the fee reduction paid as relates to that session of care is a debt due to the Commonwealth by the service immediately before its approval was suspended or cancelled.
+
+             (2)  If:
+
+                     (a)  an amount is required to be set off under subsection 219QA(3) against the payment of another amount to a person that is an approved child care service (payment where recalculation reduces the amount of a fee reduction); and
+
+                     (b)  the service’s approval is suspended or cancelled under this Act; and
+
+                     (c)  the amount has not already been set off against another amount under subsection 219QA(3) by the day the service’s approval is suspended or cancelled;
+
+the amount is a debt due to the Commonwealth by the service immediately before its approval was suspended or cancelled.
+
+Weekly payments of child care rebate
+
+          (2A)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid under section 219QC or subsection 219QD(2) to a person that is an approved child care service (weekly payments of child care rebate); or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2) or section 219QA, 219QD, 219RC or 219RE; and
+
+                     (b)  the service’s approval is suspended or cancelled under this Act before a period of care in respect of which the payment was made;
+
+so much of the amount of the child care rebate paid as relates to that period of care is a debt due to the Commonwealth by the service immediately before its approval was suspended or cancelled.
+
+          (2B)  If:
+
+                     (a)  an amount is required to be set off under subsection 219QD(3) against the payment of another amount to a person that is an approved child care service (payment where recalculation reduces the amount of child care rebate); and
+
+                     (b)  the service’s approval is suspended or cancelled under this Act; and
+
+                     (c)  the amount has not already been set off against another amount under subsection 219QD(3) by the day the service’s approval is suspended or cancelled;
+
+the amount is a debt due to the Commonwealth by the service immediately before its approval was suspended or cancelled.
+
+Enrolment advances
+
+             (3)  If:
+
+                     (a)  either:
+
+                              (i)  an amount is paid under section 219RA to an approved child care service (payment of enrolment advances); or
+
+                             (ii)  such an amount would be paid, but for a set off under subsection 82(2) or section 219QA, 219RC or 219RE; and
+
+                     (b)  the service’s approval is suspended or cancelled under this Act; and
+
+                     (c)  the amount has not already been set off against another amount under section 219RC by the day the service’s approval is suspended or cancelled;
+
+the amount is a debt due to the Commonwealth by the service immediately before its approval was suspended or cancelled.
+
+##### <a id="71GA"></a>71GA  Debt arising in respect of remittal of enrolment advances under paragraph 200(1)(g)
+
+                   If, under paragraph 200(1)(g), the Secretary requires an approved child care service to remit enrolment advances paid to the service under section 219RA, an amount equal to the advances that the service is required to remit is a debt due to the Commonwealth by the service.
+
+##### <a id="71GB"></a>71GB  Debts arising in respect of business continuity payments paid to service—debt owed by service
+
+             (1)  If:
+
+                     (a)  an amount is paid to an approved child care service under section 219RD (business continuity payments); and
+
+                     (b)  the service’s approval is suspended or cancelled under this Act; and
+
+                     (c)  the whole or a part of the amount has not already been set off against another amount under section 219RE by the day the service’s approval is suspended or cancelled;
+
+then that whole or part is a debt due to the Commonwealth by the service immediately before its approval was suspended or cancelled.
+
+             (2)  Subject to subsection 93A(5), if:
+
+                     (a)  a payment under section 219RD is made to a financial institution for the credit of an account kept with the institution (the **_incorrect account_**); and
+
+                     (b)  the Secretary is satisfied that the amount paid to the institution was intended to be paid for the credit of an account kept in the name of a person who was not the person or one of the persons in whose name or names the incorrect account was kept;
+
+an amount equal to the amount of the payment made to the institution is a debt due to the Commonwealth by the person, or jointly and severally by the persons, in whose name or names the incorrect account was kept.
+
+##### <a id="71H"></a>71H  Debts arising where reporting period limit is exceeded—debt owed by service
+
+             (1)  If:
+
+                     (a)  an approved child care service has, by certificates given under section 76 of the Family Assistance Act, committed amounts of child care benefit in a reporting period; and
+
+                     (b)  the total amount of child care benefit so committed by the service exceeds the reporting period limit for that reporting period (see section 79 of the Family Assistance Act); and
+
+                     (c)  the service gives, during that reporting period, a further certificate under section 76 of the Family Assistance Act; and
+
+                     (d)  an amount of child care benefit is paid because of that further certificate;
+
+the difference between the amount paid and the amount that would have been paid if the service had not given the further certificate is a debt due to the Commonwealth by the service.
+
+##### <a id="71I"></a>71I  Debts arising in respect of one‑off payment to families
+
+             (1)  This section applies in relation to an individual (the **_recipient_**) who has been paid  a one‑off payment to families (the **_relevant payment_**).
+
+What determinations are relevant?
+
+             (2)  Each of the following is a **_relevant determination_** in relation to the recipient:
+
+                     (a)  if the relevant payment was made because, at that time, subsection 86(2) of the Family Assistance Act applied to the recipient (whether or not it was also made because subsection 86(3) of that Act also applied)—the determination referred to in paragraph 86(2)(a) of the Family Assistance Act;
+
+                     (b)  if the relevant payment was made because, at that time, subsection 86(3) of the Family Assistance Act applied to the recipient (whether or not it was also made because subsection 86(2) also applied)—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the, or an, instalment that satisfied paragraphs 86(3)(a), (b) and (c) of the Family Assistance Act was paid;
+
+                     (c)  if the relevant payment was made because, at that time, subsection 86(4) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 86(4)(b) of the Family Assistance Act.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to:
+
+                              (i)  11 May 2004 (if the relevant determination is covered by paragraph (2)(a) or (b)); or
+
+                             (ii)  all or part of the 2002‑03 income year (if the relevant determination is covered by paragraph (2)(c));
+
+                            is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the following person knowingly made a false or misleading statement, or knowingly provided false information:
+
+                              (i)  unless subparagraph (ii) applies—the recipient; or
+
+                             (ii)  if the relevant determination is covered by paragraph (2)(b)—the other individual, or one of the other individuals, referred to in paragraph 86(3)(b) of the Family Assistance Act; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before 11 May 2004, the relevant payment would not have been made;
+
+the amount of the relevant payment is a debt due to the Commonwealth by the recipient.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to:
+
+                              (i)  11 May 2004 (if the relevant determination is covered by paragraph (2)(a) or (b)); or
+
+                             (ii)  all or part of the 2002‑03 income year (if the relevant determination was covered by paragraph (2)(c));
+
+                            is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the following person knowingly made a false or misleading statement, or knowingly provided false information:
+
+                              (i)  unless subparagraph (ii) applies—the recipient; or
+
+                             (ii)  if the relevant determination is covered by paragraph (2)(b)—the other individual, or one of the other individuals, referred to in paragraph 86(3)(b) of the Family Assistance Act; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before 11 May 2004, the amount of the relevant payment would have been reduced;
+
+the amount by which the relevant payment would have been reduced is a debt due to the Commonwealth by the recipient.
+
+##### <a id="71J"></a>71J  Debts arising in respect of economic security strategy payment to families
+
+             (1)  This section applies in relation to an individual (the **_recipient_**) who has been paid  an economic security strategy payment to families (the **_relevant payment_**).
+
+What determinations are relevant?
+
+             (2)  Each of the following is a **_relevant determination_** in relation to the recipient:
+
+                     (a)  if the relevant payment was made because, at that time, subsection 89(2) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 89(2)(a) of that Act;
+
+                     (b)  if the relevant payment was made because, at that time, subsection 89(3) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 89(3)(a) of that Act;
+
+                     (c)  if the relevant payment was made because, at that time, subsection 89(4) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 89(4)(a) of that Act;
+
+                     (d)  if the relevant payment was made because, at that time, subsection 89(5) of the Family Assistance Act applied to the recipient—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 89(5)(a), (b) and (c) of the Family Assistance Act was paid;
+
+                     (e)  if the relevant payment was made because, at that time, subsection 89(6) of the Family Assistance Act applied to the recipient—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
+
+                      (f)  if the relevant payment was made because, at that time, subsection 89(7) of the Family Assistance Act applied to the recipient—a determination under the Veterans’ Children Education Scheme because of which the whole or part of the allowance was paid in the circumstances described in that subsection;
+
+                     (g)  if the relevant payment was made because, at that time, subsection 89(8) of the Family Assistance Act applied to the recipient—a determination under the Military Rehabilitation and Compensation Act Education and Training Scheme because of which the whole or part of the allowance was paid in the circumstances described in that subsection;
+
+                     (h)  if the relevant payment was made because, at that time, subsection 93(2) of the Family Assistance Act applied to the recipient—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 93(2)(a) and (b) of the Family Assistance Act was paid;
+
+                      (i)  if the relevant payment was made because, at that time, subsection 93(3) of the Family Assistance Act applied to the recipient—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
+
+                      (j)  if the relevant payment was made because, at that time, subsection 93(4) of the Family Assistance Act applied to the recipient—a determination under the Veterans’ Children Education Scheme because of which the allowance was paid in the circumstances described in that subsection;
+
+                     (k)  if the relevant payment was made because, at that time, subsection 93(5) of the Family Assistance Act applied to the recipient—a determination under the Military Rehabilitation and Compensation Act Education and Training Scheme because of which the allowance was paid in the circumstances described in that subsection.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to 14 October 2008, is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the following person knowingly made a false or misleading statement, or knowingly provided false information:
+
+                              (i)  unless subparagraph (ii) or (iii) applies—the recipient;
+
+                             (ii)  if the relevant determination is covered by paragraph (2)(d)—the recipient or the other individual, or one of the other individuals, covered by paragraph 89(5)(b) of the Family Assistance Act;
+
+                            (iii)  if the relevant determination is covered by paragraph (2)(e), (f) or (g)—the recipient or the student, or one of the students, covered by paragraph 89(6)(a), (7)(a) or (8)(a) of the Family Assistance Act; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before 14 October 2008, the relevant payment would not have been made;
+
+the amount of the relevant payment is a debt due to the Commonwealth by the recipient.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to 14 October 2008, is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the following person knowingly made a false or misleading statement, or knowingly provided false information:
+
+                              (i)  unless subparagraph (ii) or (iii) applies—the recipient;
+
+                             (ii)  if the relevant determination is covered by paragraph (2)(d)—the recipient or the other individual, or one of the other individuals, covered by paragraph 89(5)(b) of the Family Assistance Act;
+
+                            (iii)  if the relevant determination is covered by paragraph (2)(e), (f) or (g)—the recipient or the student, or one of the students, covered by paragraph 89(6)(a), (7)(a) or (8)(a) of the Family Assistance Act; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before 14 October 2008, the amount of the relevant payment would have been reduced;
+
+the amount by which the relevant payment would have been reduced is a debt due to the Commonwealth by the recipient.
+
+##### <a id="71K"></a>71K  Debts arising in respect of back to school bonus or single income family bonus
+
+             (1)  This section applies in relation to an individual (the **_recipient_**) who has been paid  a back to school bonus or a single income family bonus (the **_relevant payment_**).
+
+What determinations are relevant?
+
+             (2)  Each of the following is a **_relevant determination_** in relation to the recipient:
+
+                     (a)  if the relevant payment was made because, at that time, subsection 95(2) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 95(2)(a) of that Act;
+
+                     (b)  if the relevant payment was made because, at that time, subsection 95(3) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 95(3)(a) of that Act;
+
+                     (c)  if the relevant payment was made because, at that time, subsection 95(4) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 95(4)(a) of that Act;
+
+                     (d)  if the relevant payment was made because, at that time, section 98 of the Family Assistance Act applied to the recipient—the determination made under Part 3 of the _Social Security (Administration) Act 1999_ that resulted in the recipient receiving the carer payment or disability support pension;
+
+                     (e)  if the relevant payment was made because, at that time, subsection 101(2) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 101(2)(a) of that Act;
+
+                      (f)  if the relevant payment was made because, at that time, subsection 101(3) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 101(3)(a) of that Act;
+
+                     (g)  if the relevant payment was made because, at that time, subsection 101(4) of the Family Assistance Act applied to the recipient—the determination referred to in paragraph 101(4)(a) of that Act.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to 3 February 2009, is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the recipient knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before 3 February 2009, the relevant payment would not have been made;
+
+the amount of the relevant payment is a debt due to the Commonwealth by the recipient.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the relevant payment was made to the recipient, a relevant determination in relation to the recipient, at least so far as it relates to 3 February 2009, is or was (however described) changed, revoked, set aside, or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the recipient knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before 3 February 2009, the amount of the relevant payment would have been reduced;
+
+the amount by which the relevant payment would have been reduced is a debt due to the Commonwealth by the recipient.
+
+##### <a id="71L"></a>71L  Debts arising in respect of clean energy advance
+
+             (1)  This section applies in relation to an individual who has been paid  a clean energy advance.
+
+             (2)  For the purposes of this section, the **_relevant determination_** in relation to the individual is the determination referred to in paragraph 103(1)(a) or (2)(a) or 104(1)(a) of the Family Assistance Act.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the advance was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to a day in the period starting on 1 July 2012 and ending on 30 June 2013, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the advance was paid, the advance would not have been paid;
+
+the amount of the advance is a debt due to the Commonwealth by the individual.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the advance was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to a day in the period starting on 1 July 2012 and ending on 30 June 2013, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the advance was paid, the amount of the advance would have been reduced;
+
+the amount by which the advance would have been reduced is a debt due to the Commonwealth by the individual.
+
+##### <a id="71M"></a>71M  Debts arising in respect of ETR payment
+
+             (1)  This section applies in relation to an individual who has been paid an ETR payment.
+
+             (2)  For the purposes of this section, each of the following is a **_relevant determination_** in relation to the individual:
+
+                     (a)  if the ETR payment was made because, at that time, subsection 102A(1) of the Family Assistance Act applied to the individual—the determination referred to in paragraph 102A(1)(a) of that Act;
+
+                     (b)  if the ETR payment was made because, at that time, subsection 102A(2) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 102A(2)(a), (b), (c) and (e) of the Family Assistance Act was paid;
+
+                     (c)  if the ETR payment was made because, at that time, subsection 102A(3) of the Family Assistance Act applied to the individual—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
+
+                     (d)  if the ETR payment was made because, at that time, subsection 102A(4) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied:
+
+                              (i)  paragraphs 102A(4)(a), (c), (d) and (f) of the Family Assistance Act was paid; or
+
+                             (ii)  paragraphs 102A(4)(b), (c), (d) and (f) of the Family Assistance Act was paid, if that instalment was paid to the individual;
+
+                     (e)  if the ETR payment was made because, at that time, subsection 102D(1) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied paragraphs 102D(1)(a), (b) and (c) of the Family Assistance Act was paid;
+
+                      (f)  if the ETR payment was made because, at that time, subsection 102D(2) of the Family Assistance Act applied to the individual—a determination under the ABSTUDY Policy Manual because of which the whole or part of the instalment was paid in the circumstances described in that subsection;
+
+                     (g)  if the ETR payment was made because, at that time, subsection 102D(3) of the Family Assistance Act applied to the individual—a determination made under Part 3 of the _Social Security (Administration) Act 1999_ because of which the instalment that satisfied:
+
+                              (i)  paragraphs 102D(3)(a), (c) and (d) of the Family Assistance Act was paid; or
+
+                             (ii)  paragraphs 102D(3)(b), (c) and (d) of the Family Assistance Act was paid, if that instalment was paid to the individual;
+
+                     (h)  if the ETR payment was made because, at that time, subsection 102F(1) of the Family Assistance Act applied to the individual—the determination referred to in paragraph 102F(1)(a) of that Act.
+
+Situation in which whole amount is a debt
+
+             (3)  If:
+
+                     (a)  after the ETR payment was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to 8 May 2012, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the ETR payment was paid, the ETR payment would not have been paid;
+
+the amount of the ETR payment is a debt due to the Commonwealth by the individual.
+
+Situation in which part of amount is a debt
+
+             (4)  If:
+
+                     (a)  after the ETR payment was paid to the individual, the relevant determination in relation to the individual, at least so far as it relates to 8 May 2012, is or was (however described) changed, revoked, set aside or superseded by another determination; and
+
+                     (b)  the decision to change, revoke, set aside or supersede the relevant determination is or was made for the reason, or for reasons including the reason, that the individual knowingly made a false or misleading statement, or knowingly provided false information; and
+
+                     (c)  had the change, revocation, setting aside or superseding occurred on or before the day the ETR payment was paid, the amount of the ETR payment would have been reduced;
+
+the amount by which the ETR payment would have been reduced is a debt due to the Commonwealth by the individual.
+
+##### <a id="73"></a>73  Debts arising from AAT stay orders
+
+                   If:
+
+                     (a)  a person applies to the AAT under section 142 for review of a decision; and
+
+                     (b)  the AAT makes an order under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_; and
+
+                     (c)  as a result of the order, the amount that has in fact been paid to the person by way of family assistance is greater than the amount that should have been paid to the person under the family assistance law;
+
+the difference between the amount that was in fact paid to the person and the amount that should have been paid is a debt due to the Commonwealth.
+
+##### <a id="74"></a>74  Person other than payee obtaining payment of a cheque
+
+                   If:
+
+                     (a)  an amount of family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment is paid by cheque; and
+
+                     (b)  a person other than the payee obtains possession of the cheque from the payee; and
+
+                     (c)  the cheque is not endorsed by the payee to the person; and
+
+                     (d)  the person obtains value for the cheque;
+
+the amount of the cheque is a debt due by the person to the Commonwealth.
+
+##### <a id="75"></a>75  Debts arising from conviction of person for involvement in contravention of family assistance law by debtor
+
+                   If:
+
+                     (a)  a person (the **_recipient_**) is liable to repay an amount paid to the recipient under the family assistance law; and
+
+                     (b)  the amount was paid to the recipient because the recipient contravened a provision of the family assistance law; and
+
+                     (c)  another person is convicted of an offence:
+
+                              (i)  that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_; or
+
+                             (ii)  against section 11.4 or 11.5 of the _Criminal Code_;
+
+                            in relation to that contravention;
+
+the recipient and the other person are jointly and severally liable to pay the debt.
+
+##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
+
+                   If:
+
+                     (a)  an amount has been paid to a person by way of family assistance; and
+
+                     (b)  the amount is a debt due to the Commonwealth under subsection 11(6) of the _Data‑matching Program (Assistance and Tax) Act 1990_;
+
+the amount so paid is recoverable by the Commonwealth.
+
+##### <a id="77"></a>77  Notices in respect of debt
+
+             (1)  If a debt by a person to the Commonwealth under a provision of this Part has not been wholly paid, the Secretary must give the person a notice specifying:
+
+                     (a)  the date on which it was issued (the **_date of the notice_**); and
+
+                     (b)  the reason the debt was incurred, including a brief explanation of the circumstances that led to the debt being incurred; and 
+
+                     (c)  the period to which the debt relates; and
+
+                     (d)  the outstanding amount of the debt at the date of the notice; and
+
+                     (e)  the day on which the outstanding amount is due and payable; and
+
+                      (f)  that a range of options is available for repayment of the debt; and
+
+                     (g)  the contact details for inquiries concerning the debt.
+
+             (2)  The outstanding amount of the debt is due and payable on the 28th day after the date of the notice. 
+
+             (3)  If the debt has not been wholly paid and:
+
+                     (a)  the person has failed to enter into an arrangement under section 91 to pay the outstanding amount of the debt; or
+
+                     (b)  the person has entered into an arrangement under that section but has failed to make a payment in accordance with the arrangement or, if the arrangement has been amended, in accordance with the arrangement as amended;
+
+the Secretary may give to the person a further notice specifying:
+
+                     (c)  the date on which it was issued (the **_date of the further notice_**); and
+
+                     (d)  the matters mentioned in paragraphs (1)(b) to (g); and
+
+                     (e)  the effect of sections 78 and 78B; and
+
+                      (f)  how the interest under section 78 is to be calculated.
+
+             (4)  A notice given under subsection (1) may also specify the matters mentioned in paragraphs (3)(e) and (f) and, if it does so, it is taken also to be a further notice given under subsection (3).
+
+##### <a id="78"></a>78  Interest on debt
+
+             (1)  This section applies to a person who:
+
+                     (a)  receives a further notice given under subsection 77(3); and
+
+                     (b)  is not receiving instalments of family tax benefit.
+
+             (2)  If:
+
+                     (a)  the person has not entered into an arrangement, on or before the final payment day, to pay the outstanding amount of the debt; and
+
+                     (b)  the Secretary has notified the person in writing that the person will be required to pay interest under this subsection;
+
+the person is liable to pay interest:
+
+                     (c)  from and including the first day after the final payment day until the debt is wholly paid; and
+
+                     (d)  at the penalty interest rate;
+
+on the outstanding amount from time to time.
+
+          (2A)  Under this section, a person is not liable to pay interest on a debt, or the proportion of a debt, that was incurred because of an administrative error made by the Commonwealth or an agent of the Commonwealth.
+
+             (3)  If:
+
+                     (a)  the person has entered into an arrangement to pay the outstanding amount of the debt; and
+
+                     (b)  the person has failed to make a particular payment in accordance with the arrangement; and
+
+                     (c)  the Secretary has notified the person in writing that the person will be required to pay interest under this subsection;
+
+the person is liable to pay interest:
+
+                     (d)  if the failure occurs on or before the final payment day—from and including the first day after the final payment day until the debt is wholly paid; or
+
+                     (e)  if the failure occurs after the final payment day—from and including the day after the day in respect of which the last payment in respect of the debt was made until the debt is wholly paid;
+
+at the penalty interest rate, on the outstanding amount from time to time.
+
+             (4)  For the purposes of subsections (2) and (3), the **_final payment day_** is the latest of the following days:
+
+                     (a)  the 90th day after the day on which the outstanding amount of the debt was due and payable;
+
+                     (b)  the 28th day after the date of the further notice given under subsection 77(3);
+
+                     (c)  if a request for review has been made within 90 days after the receipt of a notice issued under subsection 77(1)—90 days after the day on which an authorised review officer makes a decision in respect of the request.
+
+             (5)  The interest payable on the outstanding amount of a debt is a debt due to the Commonwealth.
+
+             (6)  If:
+
+                     (a)  interest is payable on the debt; and
+
+                     (b)  an amount is paid for the purpose of paying the debt and the interest;
+
+the amount so paid is to be applied as follows:
+
+                     (c)  until the debt (excluding interest) is fully paid—in satisfaction of the amount of the debt that is due when the payment is made;
+
+                     (d)  after the debt (excluding interest) is fully paid—in satisfaction of the interest that had become payable on the debt before the debt was fully paid.
+
+             (7)  In this section:
+
+                    <a name="arrang"></a>**_arrangement_** means:
+
+                     (a)  an arrangement entered into with the Secretary under section 91; or
+
+                     (b)  if such an arrangement has been amended—the arrangement as amended.
+
+##### <a id="78A"></a>78A  Determination that interest not to be payable
+
+             (1)  The Secretary may determine that interest is not payable, or is not payable in respect of a particular period, by a person on the outstanding amount of a debt.
+
+          (1A)  The Secretary may make a determination under this section in circumstances that include (but are not limited to) the Secretary being satisfied that the person has a reasonable excuse for:
+
+                     (a)  failing to enter into an arrangement under section 91 to pay the outstanding amount of the debt; or
+
+                     (b)  having entered an arrangement, failing to make a payment in accordance with that arrangement.
+
+             (2)  The determination may relate to a period before, or to a period that includes a period before, the making of a determination.
+
+             (3)  The determination may be expressed to be subject to the person complying with one or more specified conditions.
+
+             (4)  If the person has been notified under subsection 78(2) or (3) that he or she will be required to pay interest under that subsection, the Secretary must give written notice of the determination to the person as soon as practicable after the determination is made.
+
+             (5)  Contravention of subsection (4) does not invalidate a determination.
+
+             (6)  If:
+
+                     (a)  the determination is expressed to be subject to the person complying with one or more specified conditions; and
+
+                     (b)  the person contravenes a condition or conditions without reasonable excuse;
+
+the determination ceases to have effect from and including the day on which the contravention or the earliest of the contraventions occurred.
+
+             (7)  The Secretary may cancel or vary the determination by written notice given to the person.
+
+##### <a id="78B"></a>78B  Administrative charge
+
+             (1)  When a person first becomes liable to pay interest under section 78 in respect of the outstanding amount of a particular debt, the person is liable to pay an administrative charge of $50 in respect of the outstanding amount of that debt.
+
+             (2)  An administrative charge payable by a person is a debt due to the Commonwealth.
+
+##### <a id="79"></a>79  Penalty interest rate
+
+             (1)  The penalty interest rate is:
+
+                     (a)  20% per year; or
+
+                     (b)  if a lower rate is determined under subsection (2)—that lower rate.
+
+             (2)  The Minister may, by legislative instrument, determine a rate of less than 20% per year that is to be the penalty interest rate.
+
+##### <a id="79A"></a>79A  Guidelines on the penalty interest provisions
+
+                   The Minister must, not later than one month after:
+
+                     (a)  the day on which the _Family and Community Services and Veterans’ Affairs Legislation Amendment (Debt Recovery) Act 2001_ receives the Royal Assent; or
+
+                     (b)  1 July 2001;
+
+whichever is the later, and thereafter from time to time, by legislative instrument, determine guidelines for the operation of the provisions of this Act dealing with penalty interest.
+
+##### <a id="80"></a>80  Debt from failure to comply with garnishee notice
+
+             (1)  If:
+
+                     (a)  a person (the **_garnishee debtor_**) is given a notice under section 89 in respect of a debt due by another person (the **_original debtor_**) under this Act; and
+
+                     (b)  the garnishee debtor fails to comply with the notice to the extent that he or she is capable of complying with it;
+
+then the amount of the debt outstanding (worked out under subsection (2)) is recoverable from the garnishee debtor by the Commonwealth by means of:
+
+                     (c)  legal proceedings; or
+
+                     (d)  garnishee notice.
+
+             (2)  The amount of the debt outstanding is the amount equal to:
+
+                     (a)  as much of the amount required by the notice under section 89 to be paid by the garnishee debtor as the garnishee debtor was able to pay; or
+
+                     (b)  as much of the debt due by the original debtor at the time when the notice was given as remains due from time to time;
+
+whichever is the lesser.
+
+             (3)  If the Commonwealth recovers:
+
+                     (a)  the whole or part of the debt due by the garnishee debtor under subsection (1); or
+
+                     (b)  the whole or part of the debt due by the original debtor;
+
+then:
+
+                     (c)  both debts are reduced by the amount that the Commonwealth has so recovered; and
+
+                     (d)  the amount specified in the notice under section 89 is to be taken to be reduced by the amount so recovered.
+
+             (4)  This section applies to an amount in spite of any law of a State or Territory (however expressed) under which the amount is inalienable.
+
+             (5)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+
+##### <a id="81"></a>81  Overseas application of provisions
+
+                   Sections 71 to 75 extend to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether in a foreign country or not; and
+
+                     (b)  all persons (irrespective of nationality or citizenship).
+
+### Division 3—Methods of recovery
+
+##### <a id="82"></a>82  Methods of recovery
+
+             (1)  A debt owed by a person, other than an approved child care service, is recoverable by the Commonwealth by one or more of the following means:
+
+                     (a)  deductions from instalments of family tax benefit to which the person is entitled;
+
+                     (b)  setting off (otherwise than as mentioned in paragraph (a)) family assistance to which the person is entitled against the debt;
+
+                     (c)  repayment by instalments under an arrangement entered into under section 91;
+
+                     (d)  if section 92 applies to another person who is entitled to be paid family tax benefit by instalment—deductions from that other person’s instalments of family tax benefit;
+
+                     (e)  if section 92A applies to another person who is entitled to family assistance—setting off (otherwise than as mentioned in paragraph (d)) the family assistance against the debt;
+
+                      (f)  the application of an income tax refund owed to the person;
+
+                     (g)  if section 93 applies to another person to whom an income tax refund is owed—the application of that refund; 
+
+                     (h)  legal proceedings;
+
+                      (i)  garnishee notice.
+
+             (2)  A debt owed by an approved child care service (the **_first service_**) is recoverable by the Commonwealth by one or more of the following means:
+
+                     (a)  setting off the amount of the debt against one or more child care service payments that are to be made to the first service or to another approved child care service operated by the person who operates the first service;
+
+Note:       For **_child care service payment_** see subsection 3(1).
+
+                     (c)  repayment by instalments under an arrangement entered into under section 91;
+
+                     (d)  legal proceedings;
+
+                     (e)  garnishee notice.
+
+             (3)  In this section:
+
+                    <a name="debt"></a>**_debt_** means:
+
+                     (a)  a debt due to the Commonwealth under section 71, 71A, 71B, 71C, 71CAA, 71CAB, 71CA, 71CB, 71CAC, 71D, 71E, 71G, 71GA, 71GB, 71H, 71I, 71J, 71K, 71L, 71M, 73, 74, 76, 77, 78 or 80; or
+
+                     (b)  a debt due to the Commonwealth for which a person is liable because of section 75.
+
+##### <a id="84"></a>84  Deductions from debtor’s family tax benefit
+
+             (1)  This section applies to a debt if:
+
+                     (a)  under section 82, the debt is recoverable by the Commonwealth by means of deductions from instalments of family tax benefit to which the person is entitled; or
+
+                     (b)  the debt is a debt due by the person to the Commonwealth under the _Social Security Act 1991_, the _Data‑matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Paid Parental Leave Act 2010_, the _Social Security Act 1947_, the _Student Assistance Act 1973_, the _Veterans’ Entitlements Act 1986_ or the _Military Rehabilitation and Compensation Act 2004_; or
+
+                     (c)  the debt was incurred under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998.
+
+             (2)  The debt is to be deducted from instalments of family tax benefit to which the person is entitled in the following way:
+
+                     (a)  the Secretary is to determine the amount by which each instalment of family tax benefit is to be reduced; and
+
+                    (aa)  a determination under paragraph (a) may be an amount that would reduce the payment to nil if the person has consented to the amount of the deduction being an amount that would reduce the payment to nil; and
+
+                     (b)  each instalment of family tax benefit is to be reduced by the amount determined by the Secretary until the sum of those amounts, and any amounts recovered under an Act referred to in paragraph (1)(b), is equal to the debt.
+
+The Secretary may from time to time vary the amount by which instalments of family tax benefit are to be reduced.
+
+##### <a id="84A"></a>84A  Setting off family assistance against debt owed
+
+             (1)  This section applies:
+
+                     (a)  to a person if the person is entitled to an amount of family assistance; and
+
+                     (b)  to a debt owed by the person if:
+
+                              (i)  under section 82, the debt is recoverable by the Commonwealth by means of setting off family assistance to which the person is entitled against the debt; or
+
+                             (ii)  the debt is a debt due by the person to the Commonwealth under the _Social Security Act 1991_, the _Data‑matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Paid Parental Leave Act 2010_, the _Social Security Act 1947_, the _Student Assistance Act 1973_, the _Veterans’ Entitlements Act 1986_ or the _Military Rehabilitation and Compensation Act 2004_; or
+
+                            (iii)  the debt was incurred under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998.
+
+             (2)  The Secretary may determine that the whole or a part of the entitlement is to be set off against the debt.
+
+             (3)  Under subsection (2), the Secretary may set off a person’s child care benefit only against a debt the person incurs in relation to child care benefit or child care rebate.
+
+             (4)  If the Secretary makes a determination under subsection (2), the amount of the entitlement and the amount of the debt are reduced accordingly.
+
+##### <a id="86"></a>86  Time limits on recovery action under sections 84, 84A and 87A
+
+             (1)  Subject to subsections (3), (4) and (5), action under section 84, 84A or 87A for the recovery of a debt is not to be commenced after the end of the period of 6 years starting on the first day on which an officer becomes aware, or could reasonably be expected to have become aware, of the circumstances that gave rise to the debt.
+
+             (3)  If:
+
+                     (a)  subsection (1) applies so that action under section 84, 84A or 87A for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period part of the amount owing is paid;
+
+action under that section for the recovery of the balance of the debt may be commenced within the period of 6 years starting on the day of payment.
+
+             (4)  If:
+
+                     (a)  subsection (1) applies so that action under section 84, 84A or 87A for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period, the person who owes the amount acknowledges that he or she owes it;
+
+action under that section for the recovery of the debt may be commenced within the period of 6 years starting on the day of acknowledgment.
+
+             (5)  If:
+
+                     (a)  subsection (1) applies so that action under section 84, 84A or 87A for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period:
+
+                              (i)  action is taken under section 87, 88 or 89 for the recovery of the debt; or
+
+                             (ii)  a review of a file relating to action for the recovery of the debt occurs; or
+
+                            (iii)  other internal Departmental activity relating to action for the recovery of the debt occurs;
+
+action under section 84, 84A or 87A for the recovery of the debt may be commenced within the period of 6 years after the end of the activity or action referred to in paragraph (b).
+
+##### <a id="87"></a>87  Application of income tax refund owed to person
+
+             (1)  If, under section 82, a debt owed by a person is recoverable by the Commonwealth by means of application of an income tax refund payable to the person, the Commissioner of Taxation may apply the whole or a part of the refund to the debt.
+
+             (2)  The amount of the refund and the amount of the debt are reduced accordingly.
+
+             (3)  Subject to subsection (4), action under this section for the recovery of a debt is not to be taken after the end of the period of 6 years starting on the first day on which an officer becomes aware, or could reasonably be expected to have become aware, of the circumstances that gave rise to the debt.
+
+             (4)  If:
+
+                     (a)  action is taken under this section to recover a debt owed by a person from an income tax refund that relates to a particular income year; and
+
+                     (b)  the action is taken within 6 years starting on the first day on which an officer becomes aware, or could reasonably be expected to have become aware, of the circumstances that gave rise to the debt; and
+
+                     (c)  the amount of the refund is not sufficient to reduce the amount of the debt to nil;
+
+action may be taken under this section to apply an income tax refund payable to the person for a later income year to the remainder of the debt.
+
+##### <a id="87A"></a>87A  Setting off debts of an approved child care service against child care service payments
+
+             (1)  This section applies if a debt owed by an approved child care service is to be recovered by the Commonwealth by means of setting off the debt against a payment referred to in paragraph 82(2)(a).
+
+             (2)  The Secretary must determine the amount by which the payment is to be reduced. The determination has effect accordingly.
+
+             (3)  A determination under subsection (2) may cover one or more payments and may make different provision for different payments.
+
+             (4)  The Secretary may vary a determination under subsection (2).
+
+             (5)  If a payment is reduced by an amount in accordance with this section, the debt is reduced by that amount.
+
+             (6)  A determination under subsection (2) is not a legislative instrument.
+
+##### <a id="88"></a>88  Legal proceedings
+
+             (1)  If, under section 82, a debt is recoverable by the Commonwealth by means of legal proceedings, the debt is recoverable by the Commonwealth in a court of competent jurisdiction.
+
+             (2)  Subject to subsections (4), (5) and (6), legal proceedings for the recovery of the debt are not to be commenced after the end of the period of 6 years starting on the first day on which an officer becomes aware, or could reasonably be expected to have become aware, of the circumstances that gave rise to the debt.
+
+             (4)  If:
+
+                     (a)  subsection (2) applies so that legal proceedings for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period part of the amount owing is paid;
+
+legal proceedings for the recovery of the balance of the debt may be commenced within the period of 6 years starting on the day of payment.
+
+             (5)  If:
+
+                     (a)  subsection (2) applies so that legal proceedings for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period, the person who owes the amount acknowledges that he or she owes it;
+
+legal proceedings for the recovery of the debt may be commenced within the period of 6 years starting on the day of acknowledgment.
+
+             (6)  If:
+
+                     (a)  subsection (2) applies so that action for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period:
+
+                              (i)  action is taken under this section, or section 84, 84A, 87, 87A or 89, for the recovery of the debt; or
+
+                             (ii)  a review of a file relating to action for the recovery of the debt occurs; or
+
+(iii)  other internal Departmental activity relating to action for the recovery of the debt occurs;
+
+action for the recovery of the debt may be commenced within the period of 6 years after the end of the activity or action referred to in paragraph (b).
+
+##### <a id="89"></a>89  Garnishee notice
+
+             (1)  If, under section 82, a debt is recoverable from a person (the **_debtor_**) by the Commonwealth by means of a garnishee notice, the Secretary may by written notice given to another person:
+
+                     (a)  by whom any money is due or accruing, or may become due, to the debtor; or
+
+                     (b)  who holds or may subsequently hold money for or on account of the debtor; or
+
+                     (c)  who holds or may subsequently hold money on account of some other person for payment to the debtor; or
+
+                     (d)  who has authority from some other person to pay money to the debtor;
+
+require the person to whom the notice is given to pay the Commonwealth:
+
+                     (e)  an amount specified in the notice, not exceeding the amount of the debt or the amount of the money referred to in paragraph (a), (b), (c) or (d); or
+
+                      (f)  such amount as is specified in the notice out of each payment that the person becomes liable from time to time to make to the debtor until that debt is satisfied; or
+
+                     (g)  such percentage as is specified in the notice of each payment that the person becomes liable from time to time to make to the debtor until that debt is satisfied.
+
+             (2)  The time for making a payment in compliance with a notice under subsection (1) is such time as is specified in the notice, not being a time before the money concerned becomes due or is held or before the end of the period of 14 days after the notice is given.
+
+             (3)  A person must not refuse or fail to comply with a notice under subsection (1) to the extent to which the person is capable of complying with the notice.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (4)  If the Secretary gives a notice to a person under subsection (1), the Secretary must give a copy of the notice to the debtor.
+
+             (5)  A person who makes a payment to the Commonwealth in compliance with a notice under subsection (1) is to be taken to have made the payment under the authority of the debtor and of any other person concerned.
+
+             (6)  If:
+
+                     (a)  a notice is given to a person under subsection (1) in respect of a debt; and
+
+                     (b)  an amount is paid by another person in reduction or in satisfaction of the debt;
+
+the Secretary must notify the first‑mentioned person accordingly, and the amount specified in the notice is to be taken to be reduced by the amount so paid.
+
+             (7)  If, apart from this subsection, money is not due or repayable on demand to a person unless a condition is fulfilled, the money is to be taken, for the purposes of this section, to be due or repayable on demand, as the case may be, even though the condition has not been fulfilled.
+
+             (8)  This section applies to money in spite of any law of a State or Territory (however expressed) under which the amount is inalienable.
+
+             (9)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+
+##### <a id="90"></a>90  Time limits on recovery action under section 89
+
+             (1)  Subject to subsections (3), (4) and (5), action under section 89 for the recovery of a debt is not to be commenced after the end of the period of 6 years starting on the first day on which an officer becomes aware, or could reasonably be expected to have become aware, of the circumstances that gave rise to the debt.
+
+             (3)  If:
+
+                     (a)  subsection (1) applies so that action under section 89 for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period part of the amount owing is paid;
+
+action under that section for the recovery of the balance of the debt may be commenced within the period of 6 years starting on the day of payment.
+
+             (4)  If:
+
+                     (a)  subsection (1) applies so that action under section 89 for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period, the person who owes the amount acknowledges that he or she owes it;
+
+action under that section for the recovery of the debt may be commenced within the period of 6 years starting on the day of acknowledgment.
+
+             (5)  If:
+
+                     (a)  subsection (1) applies so that action under section 89 for the recovery of a debt must be commenced within a particular period; and
+
+                     (b)  within that period:
+
+                              (i)  action is taken under section 84, 84A, 87, 87A or 88 for the recovery of the debt; or
+
+                             (ii)  a review of a file relating to action for the recovery of the debt occurs; or
+
+                            (iii)  other internal Departmental activity relating to action for the recovery of the debt occurs;
+
+action under section 89 for the recovery of the debt may be commenced within the period of 6 years after the end of the activity or action referred to in paragraph (b).
+
+##### <a id="91"></a>91  Arrangement for payment of debt by instalments
+
+             (1)  The Secretary may, on behalf of the Commonwealth, enter into an arrangement with a person, other than an approved child care service, who owes a debt under which the person is to pay the debt, or the outstanding amount of the debt, by instalments in accordance with the terms of the arrangement.
+
+          (1A)  The Secretary may, on behalf of the Commonwealth, enter into an arrangement with an approved child care service that owes a debt under which the service is to pay the debt, or the outstanding amount of the debt, by instalments in accordance with the terms of the arrangement.
+
+             (2)  An arrangement entered into under subsection (1) or (1A) has effect, or is taken to have had effect, on and after the day specified in the arrangement as the day on which the arrangement commences (whether that day is the day on which the arrangement is entered into or an earlier or later day).
+
+             (3)  If an arrangement entered into under subsection (1) or (1A) does not specify a day as mentioned in subsection (2), it has effect on and after the day on which it is entered into.
+
+             (4)  The Secretary may terminate or alter an arrangement entered into under subsection (1) or (1A):
+
+                     (a)  at the debtor’s request; or
+
+                     (b)  after giving 28 days’ notice to the debtor of the proposed termination or alteration; or
+
+                     (c)  without notice, if the Secretary is satisfied that the debtor has failed to disclose material information about the debtor’s true capacity to repay the debt.
+
+             (5)  In this section:
+
+                    <a name="debt"></a>**_debt_** means a debt recoverable by the Commonwealth under Division 2.
+
+##### <a id="92"></a>92  Deduction by consent from a person’s family tax benefit to meet another person’s debt
+
+             (1)  If:
+
+                     (a)  a person (the **_debtor_**):
+
+                              (i)  has a debt under this Act or under the _Data‑matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Paid Parental Leave Act 2010_, the _Social Security Act 1947_, the _Social Security Act 1991_, the _Student Assistance Act 1973_, the _Veterans’ Entitlements Act 1986_ or the _Military Rehabilitation and Compensation Act 2004_; or
+
+                             (ii)  had incurred a debt under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; and
+
+                     (b)  another person (the **_consenting person_**) is entitled to be paid family tax benefit by instalment; and
+
+                     (c)  for the purpose of the recovery of the debt, the consenting person consents to the deduction of an amount from the consenting person’s instalments;
+
+the Secretary may deduct the amount from the consenting person’s instalments of family tax benefit.
+
+             (2)  The debtor’s debt is reduced by an amount equal to the amount deducted from the consenting person’s family tax benefit.
+
+             (3)  The consenting person may revoke the consent at any time.
+
+##### <a id="92A"></a>92A  Setting off family assistance of person against another person’s debt
+
+             (1)  If:
+
+                     (a)  a person (the **_debtor_**):
+
+                              (i)  has a debt under this Act or under the _Data‑matching Program (Assistance and Tax) Act 1990_, the _Farm Household Support Act 1992_, the _Paid Parental Leave Act 2010_, the _Social Security Act 1947_, the _Social Security Act 1991_, the _Student Assistance Act 1973_, the _Veterans’ Entitlements Act 1986_ or the _Military Rehabilitation and Compensation Act 2004_; or
+
+                             (ii)  had incurred a debt under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; and
+
+                     (b)  another person (the **_consenting person_**) is entitled to an amount of family assistance (except family tax benefit to which section 92 applies); and
+
+                     (c)  for the purpose of the recovery of the debt, the consenting person consents to the deduction of an amount from the consenting person’s entitlement;
+
+the Secretary may determine that the whole or a part of the entitlement is to be set off against the debt.
+
+             (2)  Subsection (1) does not apply to an entitlement to child care benefit or child care rebate.
+
+             (3)  If the Secretary makes a determination under subsection (1), the amount of the entitlement and the amount of the debt are reduced accordingly.
+
+             (4)  The consenting person may revoke the consent at any time.
+
+##### <a id="93"></a>93  Application of income tax refund owed to another person
+
+             (1)  If:
+
+                     (a)  a person (the **_debtor_**) has a debt under this Act; and
+
+                     (b)  another person (the **_consenting person_**) is entitled to an income tax refund; and
+
+                     (c)  for the purpose of the recovery of the debt, the consenting person consents to the application of an amount from the consenting person’s refund to the debt;
+
+the Commissioner of Taxation may apply the whole or a part of the refund to the debt.
+
+             (2)  The amount of the refund and the amount of the debt are reduced accordingly.
+
+             (3)  The consenting person may revoke the consent at any time.
+
+##### <a id="93A"></a>93A  Recovery of amounts from financial institutions
+
+             (1)  If:
+
+                     (a)  a family assistance payment or family assistance payments are made to a financial institution for the credit of an account kept with the institution; and
+
+                     (b)  the Secretary is satisfied that the payment or payments were intended to be paid to someone who was not the person or one of the persons in whose name or names the account was kept;
+
+the Secretary may give a written notice to the institution setting out the matters mentioned in paragraphs (a) and (b) and requiring the institution to pay to the Commonwealth, within a period (being a reasonable period) stated in the notice, the lesser of the following amounts:
+
+                     (c)  an amount specified in the notice, being the amount, or the sum of the amounts, of the family assistance payment or family assistance payments;
+
+                     (d)  the amount standing to the credit of the account when the notice is given to the institution.
+
+             (2)  If:
+
+                     (a)  a family assistance payment or family assistance payments that are intended to be paid to a person are made to a financial institution for the credit of an account that was kept with the institution by the person or by the person and one or more other persons; and
+
+                     (b)  the person died before the payment or payments were made;
+
+the Secretary may give a written notice to the institution setting out the matters mentioned in paragraphs (a) and (b) and requiring the institution to pay to the Commonwealth, within a period (being a reasonable period) stated in the notice, the lesser of the following amounts:
+
+                     (c)  an amount specified in the notice, being the amount, or the sum of the amounts, of the family assistance payment or family assistance payments;
+
+                     (d)  the amount standing to the credit of the account when the notice is received by the institution.
+
+          (2A)  As soon as possible after issuing a notice under subsection (2), the Secretary must inform the deceased estate in writing of:
+
+                     (a)  the amount sought to be recovered from the deceased person’s account; and
+
+                     (b)  the reasons for the recovery action.
+
+             (3)  A financial institution must comply with a notice given to it under subsection (1) or (2).
+
+                    Penalty:  300 penalty units.
+
+             (4)  It is a defence to a prosecution of a financial institution for failing to comply with a notice given to it under subsection (1) or (2) if the financial institution proves that it was incapable of complying with the notice.
+
+             (5)  If a notice is given to a financial institution under subsection (1) (payment made to wrong account) or under subsection (2) (death of person in whose name the account was kept) in respect of a family assistance payment or family assistance payments, any amount recovered by the Commonwealth from the institution in respect of the debt reduces any debt owed to the Commonwealth by any other person in respect of the family assistance payment or family assistance payments.
+
+             (6)  In this section:
+
+                    <a name="famili-assist-payment"></a>**_family assistance payment_** means:
+
+                     (a)  a payment of family tax benefit, baby bonus, child care benefit or family tax benefit advance; or
+
+                    (aa)  a payment of single income family supplement; or
+
+                   (ab)  a payment of schoolkids bonus; or
+
+                     (b)  a payment under section 219Q or subsection 219QA(2) (payments in respect of fee reduction); or
+
+                   (ba)  a payment under section 219QC or subsection 219QD(2) (payments in respect of child care rebate); or
+
+                   (bb)  a payment of an enrolment advance under section 219RA; or
+
+                   (bc)  a payment under section 219RD (business continuity payments); or
+
+                   (bd)  a payment of child care rebate under section 65EAAC (including as that section applies because of subsection 65EAAF(2)); or
+
+                   (be)  a payment of child care rebate under section 65EAA (including as that section applies because of subsection 65EAB(2)); or
+
+                    (bf)  a payment of child care rebate under section 65EF; or
+
+                     (c)  a payment of one‑off payment to families; or
+
+                     (d)  a payment of economic security strategy payment to families; or
+
+                     (e)  a payment of back to school bonus or single income family bonus; or
+
+                      (f)  a payment of clean energy advance; or
+
+                     (g)  a payment of ETR payment.
+
+### Division 4—Non‑recovery of debts
+
+##### <a id="94"></a>94  Meaning of _debt_
+
+                   In this Division:
+
+                    <a name="debt"></a>**_debt_** means a debt recoverable by the Commonwealth under Division 2.
+
+##### <a id="95"></a>95  Secretary may write off debt
+
+             (1)  The Secretary may, on behalf of the Commonwealth, decide to write off a debt for a stated period or otherwise, but only if subsection (2), (4A) or (4B) applies.
+
+Secretary may write off debt if debt irrecoverable or debt will not be repaid etc.
+
+             (2)  The Secretary may decide to write off a debt under subsection (1) if:
+
+                     (a)  the debt is irrecoverable at law; or
+
+                     (b)  the debtor has no capacity to repay the debt; or
+
+                     (c)  the debtor’s whereabouts are unknown after all reasonable efforts have been made to locate the debtor; or
+
+                     (d)  it is not cost effective for the Commonwealth to take action to recover the debt.
+
+             (3)  For the purposes of paragraph (2)(a), a debt is taken to be irrecoverable at law if, and only if:
+
+                     (a)  the debt cannot be recovered by means of:
+
+                              (i)  deductions under section 84; or 
+
+                          (iaa)  deductions under section 1231 of the _Social Security Act 1991_; or
+
+                            (ia)  setting off under section 84A family assistance; or
+
+                             (ii)  application of an income tax refund under section 87; or
+
+                           (iia)  setting off under section 87A against a payment referred to in paragraph 82(2)(a); or
+
+                            (iii)  legal proceedings under section 88; or
+
+                            (iv)  garnishee notice under section 89;
+
+                            because the relevant time limit for recovery action under that section has elapsed; or
+
+                     (b)  there is no proof of the debt capable of sustaining legal proceedings for its recovery; or
+
+                     (c)  the debtor is discharged from bankruptcy and the debt was incurred before the debtor became bankrupt and was not incurred by fraud; or
+
+                     (d)  the debtor has died leaving no estate or insufficient funds in the debtor’s estate to repay the debt.
+
+             (4)  For the purposes of paragraph (2)(b), if a debt is recoverable by means of:
+
+                     (a)  deductions under section 84; or
+
+                    (aa)  deductions under section 1231 of the _Social Security Act 1991_; or
+
+                     (b)  setting off under section 84A family assistance; or
+
+                     (c)  application of an income tax refund under section 87; or
+
+                     (d)  setting off under section 87A against a payment referred to in paragraph 82(2)(a);
+
+the person is taken to have a capacity to repay the debt unless recovery by those means would cause the person severe financial hardship.
+
+Secretary may write off subsection 28(2) or (6) debt if claimant and partner separate
+
+          (4A)  The Secretary may, under subsection (1), decide to write off a debt arising because of subsection 28(2) or (6) (which deal with when income tax returns have not been lodged) if the following conditions are met:
+
+                     (a)  the claimant and the partner mentioned in subparagraph 28(1)(b)(iii) (the **_ex‑partner_**) ceased to be members of the same couple after the end of the income year (the **_later income year_**) that began 2 years after the beginning of the cancellation income year mentioned in subsection 28(1);
+
+                     (b)  if the claimant was required to lodge an income tax return for the cancellation income year—an assessment is or has been made under the _Income Tax Assessment Act 1936_ of the claimant’s taxable income for the cancellation income year;
+
+                     (c)  in any case—the ex‑partner was required to lodge an income tax return for the cancellation income year but still had not done so by the time when the claimant and the ex‑partner ceased to be members of the same couple.
+
+Secretary may write off subsection 60D(2) debt if claimant and partner separate
+
+          (4B)  The Secretary may, under subsection (1), decide to write off a debt arising because of subsection 60D(2) (which deals with when income tax returns have not been lodged) if the following conditions are met:
+
+                     (a)  the claimant and the partner mentioned in paragraph 60D(1)(b) (the **_ex‑partner_**) ceased to be members of the same couple after the end of the second income year following the particular income year mentioned in paragraph 60D(1)(a);
+
+                     (b)  if the claimant was required to lodge an income tax return for the particular income year—an assessment is or has been made under the _Income Tax Assessment Act 1936_ of the claimant’s taxable income for the particular income year;
+
+                     (c)  in any case—the ex‑partner was required to lodge an income tax return for the particular income year but still had not done so by the time when the claimant and the ex‑partner ceased to be members of the same couple.
+
+When decision under subsection (1) takes effect
+
+             (5)  A decision made under subsection (1) takes effect:
+
+                     (a)  if no day is specified in the decision—on the day on which the decision is made; or
+
+                     (b)  if a day is specified in the decision—on the day so specified (whether that day is before, after or on the day on which the decision is made).
+
+Debt that has been written off may be recovered
+
+             (6)  Nothing in this section prevents anything being done at any time to recover a debt that has been written off under this section.
+
+##### <a id="96"></a>96  Power to waive Commonwealth’s right to recover debt
+
+             (1)  On behalf of the Commonwealth, the Secretary may waive the Commonwealth’s right to recover the whole or a part of a debt from a debtor only in the circumstances described in section 97, 98, 99, 100, 101 or 102.
+
+             (2)  A waiver takes effect:
+
+                     (a)  on the day specified in the waiver (whether that day is before, after or on the day on which the decision to waive is made); or
+
+                     (b)  if the waiver does not specify when it takes effect—on the day on which the decision to waive is made.
+
+##### <a id="97"></a>97  Waiver of debt arising from error
+
+             (1)  The Secretary must waive the right to recover the proportion (the **_administrative error proportion_**) of a debt that is attributable solely to an administrative error made by the Commonwealth if subsection (2) or (3) applies to that proportion of the debt.
+
+             (2)  The Secretary must waive the administrative error proportion of a debt if:
+
+                     (a)  the debtor received in good faith the payment or payments that gave rise to the administrative error proportion of the debt; and
+
+                     (b)  the person would suffer severe financial hardship if it were not waived.
+
+             (3)  The Secretary must waive the administrative error proportion of a debt if:
+
+                     (a)  the payment or payments were made in respect of the debtor’s eligibility for family assistance for a period or event (the **_eligibility period or event_**) that occurs in an income year; and
+
+                     (b)  the debt is raised after the end of:
+
+                              (i)  the debtor’s next income year after the one in which the eligibility period or event occurs; or
+
+                             (ii)  the period of 13 weeks starting on the day on which the payment that gave rise to the debt was made;
+
+                            whichever ends last; and
+
+                     (c)  the debtor received in good faith the payment or payments that gave rise to the administrative error proportion of the debt.
+
+             (4)  For the purposes of this section, the administrative error proportion of the debt may be 100% of the debt.
+
+##### <a id="98"></a>98  Waiver of debt relating to an offence
+
+             (1)  If:
+
+                     (a)  a debtor has been convicted of an offence that gave rise to a proportion of a debt; and
+
+                     (b)  the court indicated in sentencing the debtor that it imposed a longer custodial sentence on the debtor because he or she was unable or unwilling to pay the debt;
+
+the Secretary must waive the right to recover the proportion of the debt that arose in connection with the offence.
+
+             (2)  For the purposes of this section, a proportion of a debt may be 100% of the debt.
+
+##### <a id="99"></a>99  Waiver of small debt
+
+             (1)  The Secretary must waive the right to recover a debt if:
+
+                     (a)  the debt is, or is likely to be, less than $200; and
+
+                     (b)  it is not cost effective for the Commonwealth to take action to recover the debt.
+
+             (2)  Subsection (1) does not apply if the debt is at least $50 and could be recovered:
+
+                     (a)  by deductions under:
+
+                              (i)  section 84 of this Act; or
+
+                             (ii)  section 1231 of the _Social Security Act 1991_; or
+
+                     (b)  by setting off under section 84A family assistance; or
+
+                     (c)  by setting off under section 87A against a payment referred to in paragraph 82(2)(a).
+
+##### <a id="100"></a>100  Waiver in relation to settlements
+
+Settlement of civil action
+
+             (1)  If the Commonwealth has agreed to settle a civil action against a debtor for recovery of a debt for less than the full amount of the debt, the Secretary must waive the right to recover the difference between the debt and the amount that is the subject of the settlement.
+
+Settlement of proceedings before the AAT
+
+             (2)  If the Secretary has agreed to settle proceedings before the AAT relating to recovery of a debt on the basis that the debtor will pay less than the full amount of the debt, the Secretary must waive the right to recover the difference between the debt and the amount that is the subject of the settlement.
+
+Waiver where at least 80% of debt recovered and debtor cannot pay more
+
+             (3)  If:
+
+                     (a)  the Commonwealth has recovered at least 80% of the original value of a debt from a debtor; and
+
+                     (b)  the Commonwealth and the debtor agree that the recovery is in full satisfaction for the whole of the debt; and
+
+                     (c)  the debtor cannot repay a greater proportion of the debt;
+
+the Secretary must waive the remaining 20% or less of the value of the original debt.
+
+Agreement for part‑payment in satisfaction of outstanding debt
+
+             (4)  If the Secretary and a debtor agree that the debtor’s debt will be fully satisfied if the debtor pays the Commonwealth an agreed amount less than the amount of the debt outstanding at the time of the agreement (the **_unpaid_**_amount_), the Secretary must waive the right to recover the difference between the unpaid amount and the agreed amount.
+
+Limits on agreement to accept part‑payment in satisfaction of outstanding debt
+
+             (5)  The Secretary must not make an agreement described in subsection (4) unless the Secretary is satisfied that the agreed amount is at least the present value of the unpaid amount if it is repaid in instalments of amounts, and at times, determined by the Secretary.
+
+Formula for working out present value of unpaid amount
+
+             (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00900/Html/6face0ed-fa39-4257-8e2a-d9d4f1d35dbf_files/image004.gif)
+
+where:
+
+                    <a name="annual-repay"></a>**_annual repayment_** is the amount of the debt that the Secretary believes would be recovered under Division 2 in a year if subsection (4) did not apply in relation to the debt.
+
+                    <a name="interest"></a>**_interest_** is the annual rate of interest specified by the Minister by legislative instrument.
+
+                    <a name="rp"></a>**_rp_**(repayment period) is the number of years needed to repay the unpaid amount if repayments equal to the annual repayment were made each year.
+
+##### <a id="101"></a>101  Waiver in special circumstances
+
+                   The Secretary may waive the right to recover all or part of a debt if the Secretary is satisfied that:
+
+                     (a)  the debt did not result wholly or partly from the debtor or another person knowingly:
+
+                              (i)  making a false statement or a false representation; or
+
+                             (ii)  failing or omitting to comply with a provision of the family assistance law; and
+
+                     (b)  there are special circumstances (other than financial hardship alone) that make it desirable to waive; and
+
+                     (c)  it is more appropriate to waive than to write off the debt or part of the debt.
+
+##### <a id="102"></a>102  Secretary may waive debts of a particular class
+
+             (1)  The Secretary may, on behalf of the Commonwealth, decide to waive the Commonwealth’s right to recover debts, or parts of debts, arising under or as a result of this Act that are included in a class of debts specified by the Minister by legislative instrument.
+
+          (1A)  An instrument made by the Minister under subsection (1):
+
+                     (a)  may specify conditions to be met before the Secretary exercises the power to waive debts, or parts of debts, in the specified class; and
+
+                     (b)  may specify limits on the amounts to be waived in relation to debts in the specified class.
+
+The Secretary must exercise the power to waive in accordance with any conditions or limits specified in the instrument.
+
+             (2)  A decision under subsection (1) takes effect:
+
+                     (a)  if no day is specified in the decision—on the day on which the decision is made; or
+
+                     (b)  if a day is specified in the decision—on the day so specified (whether that day is before, after or on the day on which the decision is made).
+
+## Part 5—Review of decisions
+
+### Division 1—Internal review
+
+#### Subdivision A—Review initiated by the Secretary
+
+##### <a id="104"></a>104  Decisions that may be reviewed by the Secretary on own initiative
+
+                   Under section 105, the Secretary may review a decision of any officer under the family assistance law except:
+
+                     (a)  a determination of entitlement under section 51B in respect of an individual in so far as it relates to:
+
+                              (i)  a rate certified by an approved child care service under subsection 76(1) of the Family Assistance Act; or
+
+                             (ii)  a certificate relating to a weekly limit of hours given by an approved child care service under subsection 54(10), 55(6) or 56(3) of the Family Assistance Act; or
+
+                     (b)  a determination of entitlement under section 54B in respect of an approved child care service in so far as it relates to:
+
+                              (i)  the service’s eligibility under section 47 of the Family Assistance Act; or
+
+                             (ii)  a rate certified by the service under subsection 76(2) of the Family Assistance Act; or
+
+                            (iii)  a certificate relating to a weekly limit of hours given by the service under subsection 54(10), 55(6) or 56(4) of the Family Assistance Act; or
+
+                   (ba)  a decision to give a person a notice under section 204A; or
+
+                     (c)  a calculation of an amount of fee reduction under section 50Z or 50ZB, or a recalculation of such an amount under section 50ZA or 50ZC; or
+
+                     (d)  a decision by the Secretary under section 219Q or subsection 219QA(2) to pay an amount in respect of fee reduction; or
+
+                   (da)  a decision by the Secretary under section 219QC or subsection 219QD(2) to pay an amount in respect of child care rebate; or
+
+                   (db)  a decision under section 219RD (business continuity payments); or
+
+                   (dc)  a calculation of an amount of child care rebate for a week under section 65EAAA, or a recalculation of such an amount under section 65EAAD; or
+
+                   (dd)  a decision by the Secretary under subsection 65EAAAA(4) (allowing election after beginning of income year to be paid child care rebate weekly or quarterly) or under subsection 65EAAAB(3) (day on which new payment arrangement begins); or
+
+                   (de)  a calculation of an amount of child care rebate for a quarter under section 65EAA, or a recalculation of such an amount under section 65EAB; or
+
+                     (e)  a decision under Division 2 of Part 8C (infringement notices).
+
+##### <a id="105"></a>105  Secretary may review certain decisions on own initiative
+
+             (1)  If:
+
+                     (a)  a decision (the **_original decision_**) is a decision that, under section 104, the Secretary may review under this section; and
+
+                     (b)  the Secretary is satisfied that there is sufficient reason to review the decision;
+
+the Secretary may review the decision.
+
+Secretary may review decision even if application has been made to the SSAT or the AAT
+
+             (2)  The Secretary may review the original decision even if an application has been made to the SSAT or the AAT for review of the decision.
+
+Secretary must not review decision if review under section 109A occurring
+
+             (3)  The Secretary must not review the original decision under this section while any review of the decision is taking place under section 109A.
+
+Secretary may make decisions in respect of an original decision
+
+             (4)  The Secretary may decide (the **_review decision_**) to:
+
+                     (a)  affirm the original decision; or
+
+                     (b)  vary the original decision; or
+
+                     (c)  set the original decision aside and substitute a new decision.
+
+          (4A)  If:
+
+                     (a)  the review involves (wholly or partly) a review of an original decision that is a care percentage decision; and
+
+                     (b)  a consideration of an objection to a decision carried out under Part VII of the _Child Support (Registration and Collection) Act 1988_ has involved (wholly or partly) the consideration of the determination to which the care percentage decision relates;
+
+the Secretary must not vary the original decision, or set the original decision aside and substitute a new decision, in a way that has the effect of varying the determination or substituting a new determination.
+
+Secretary may deem certain events to have occurred
+
+             (5)  If:
+
+                     (a)  the Secretary makes a review decision to set the original decision aside under subsection (4); and
+
+                     (b)  the Secretary is satisfied that an event that did not occur would have occurred if the original decision had not been made;
+
+the Secretary may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
+
+##### <a id="105A"></a>105A  Review of determination or variation—taking account of FTB Part A supplement or FTB Part B supplement
+
+             (1)  This section applies to a decision of the Secretary to make or vary a section 16 or 17 determination if, as a result of the decision, an individual (the **_first individual_**) is entitled to be paid family tax benefit at a particular rate in respect of a period (the **_same‑rate benefit period_**) that consists of, or is included in, a particular income year (the **_relevant income year_**).
+
+             (2)  If:
+
+                     (a)  in making or varying the determination, the Secretary disregarded one or more of the following provisions:
+
+                              (i)  paragraph (ca) of step 1 of the method statement in clause 3 of Schedule 1 to the Family Assistance Act;
+
+                             (ii)  paragraph (d) of step 1 of the method statement in clause 25 of Schedule 1 to the Family Assistance Act;
+
+                           (iia)  paragraph 29(1)(b) of Schedule 1 to the Family Assistance Act;
+
+                           (iib)  paragraph (b) of step 1 of the method statement in subclause 29(2) of Schedule 1 to the Family Assistance Act;
+
+                         (iiba)  paragraph 29A(2)(b) of Schedule 1 to the Family Assistance Act;
+
+                           (iic)  subclause 31A(1) of Schedule 1 to the Family Assistance Act;
+
+                            (iii)  subclause 38A(1) of Schedule 1 to the Family Assistance Act; and
+
+                     (b)  if section 32A had not been enacted, the Secretary would have been required to take account of one or more of the provisions mentioned in paragraph (a); and
+
+                     (c)  either:
+
+                              (i)  if the same‑rate benefit period to which the decision relates is the only same‑rate benefit period for the first individual for the relevant income year—the first individual satisfies the FTB reconciliation conditions for the same‑rate benefit period; or
+
+                             (ii)  if the same‑rate benefit period to which the decision relates is one of 2 or more same‑rate benefit periods for the first individual for the relevant income year—the first individual satisfies the FTB reconciliation conditions for each of those same‑rate benefit periods;
+
+then:
+
+                     (d)  for the purposes of subsection 105(1), the Secretary is taken to be satisfied that there is sufficient reason to review the determination or variation; and
+
+                     (e)  the Secretary must exercise the power conferred by subsection 105(1) to review the determination or variation; and
+
+                      (f)  the review must take account of whichever of the provisions mentioned in paragraph (a) are relevant.
+
+Note:          To work out when the first individual has satisfied the FTB reconciliation conditions, see section 32B.
+
+             (3)  Paragraph (2)(f) does not limit the scope of the review.
+
+##### <a id="105B"></a>105B  Review of instalment determination—taking account of clean energy supplements
+
+             (1)  This section applies if:
+
+                     (a)  a determination under section 16 is in force in a quarter under which an individual is entitled to be paid family tax benefit by instalment; and
+
+                     (b)  disregarding subsection (2) of this section, an election made by the individual under subsection 58A(1) of the Family Assistance Act is in force on one or more days in that quarter.
+
+             (2)  After the end of that quarter:
+
+                     (a)  for the purposes of subsection 105(1), the Secretary is taken to be satisfied that there is sufficient reason to review the determination; and
+
+                     (b)  the Secretary must exercise the power conferred by subsection 105(1) to review the determination; and
+
+                     (c)  the review must be done by assuming that:
+
+                              (i)  Division 2B of Part 4 of Schedule 1 to the Family Assistance Act and Division 2AA of Part 5 of that Schedule applied in relation to those days; and
+
+                             (ii)  the election was not in force on those days.
+
+Note:          Those Divisions deal with clean energy supplement (Part A) and clean energy supplement (Part B).
+
+Definition
+
+             (3)  In this section:
+
+                    <a name="quarter"></a>**_quarter_**  means a period of 3 months beginning on 1 July, 1 October, 1 January or 1 April.
+
+Note:          This section applies in relation to the quarter beginning on 1 July 2013 and all later quarters: see item 34 of Schedule 2 to the **_Clean Energy (Household Assistance Amendments) Act_**_2011_.
+
+##### <a id="106"></a>106  Notice of review decision to be given
+
+Notice of review decision to be given if original decision relates to determination of conditional eligibility etc.
+
+             (1)  If:
+
+                     (a)  the Secretary makes a review decision under section 105 affecting an individual in respect of whom a determination of conditional eligibility for child care benefit by fee reduction is, or was, in force (the **_applicant_**); and
+
+                     (b)  the review decision is to:
+
+                              (i)  vary an original decision in respect of the applicant; or
+
+                             (ii)  set aside an original decision in respect of the applicant and substitute a new decision; and
+
+                     (c)  the review decision relates to one of the following decisions:
+
+                              (i)  a determination decision in respect of conditional eligibility (a determination of conditional eligibility is made under section 50F);
+
+                             (ii)  a determination decision in respect of a weekly limit of hours, unless it is a variation of the kind referred to in subsection (2) (a determination of a weekly limit of hours is made under section 50H);
+
+                            (iii)  a determination decision in respect of CCB % (a determination of CCB % is made under section 50J); 
+
+                            (iv)  a determination decision in respect of schooling % (a determination of schooling % is made under section 50K);
+
+                          (iva)  a determination decision in respect of eligibility for the special grandparent rate (a determination of this eligibility is made under subsection 50T(1));
+
+                             (v)  a determination decision in respect of rate under subsection 81(2) of the Family Assistance Act;
+
+                            (vi)  a determination decision in respect of no entitlement (a determination of no entitlement is made under section 50G);
+
+the Secretary must give notice of the review decision to:
+
+                     (d)  in all cases mentioned in paragraph (c)—the applicant; and
+
+                     (e)  in the case mentioned in subparagraph (c)(v)—the approved child care service, or services, providing care to the child concerned.
+
+          (1A)  The Secretary may make notice of a review decision mentioned in paragraph (1)(c) (other than subparagraph (1)(c)(v)) available to the approved child care service, or services, providing care to the child concerned, including by making the notice available to the service using an electronic interface.
+
+          (1B)  The Secretary may give notice of a review decision mentioned in subparagraph (1)(c)(v) by making the notice available to the service using an electronic interface.
+
+Notice of review decision to be given where original decision relates to a weekly limit of hours or rate set because child at risk
+
+             (2)  If:
+
+                     (a)  the Secretary makes a review decision under section 105 affecting an individual in respect of whom a determination of conditional eligibility for child care benefit by fee reduction is, or was, in force (the **_applicant_**); and
+
+                     (b)  the review decision is to:
+
+                              (i)  vary an original decision in respect of the applicant; or
+
+                             (ii)  set aside an original decision in respect of the applicant and substitute a new decision; and
+
+                     (c)  the review decision relates to an original decision:
+
+                              (i)  to vary a determination of a weekly limit of hours under section 64A because a circumstance listed in subsection 54(12) of the Family Assistance Act applies; or
+
+                             (ii)  to vary a determination of a weekly limit of hours under section 64B because a circumstance listed in subsection 55(8) of the Family Assistance Act applies; or
+
+                            (iii)  to determine a rate under subsection 81(3) of the Family Assistance Act;
+
+the Secretary must give notice of the review decision to the approved child care service providing care to the child concerned.
+
+Notice to be given of other review decisions
+
+             (3)  If:
+
+                     (a)  the Secretary makes a review decision under section 105 to:
+
+                              (i)  vary an original decision; or
+
+                             (ii)  set aside an original decision and substitute a new decision; and
+
+                     (b)  the review decision is in respect of any other original decision that, under section 104, may be reviewed (other than a review decision referred to in subsection (1) or (2));
+
+the Secretary must give notice of the review decision to the person whose entitlement, or possible entitlement, to family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment is affected by the decision.
+
+Notice must state effect of review decision
+
+             (4)  A notice must state the effect of the review decision and that the applicant, or person whose entitlement or possible entitlement is affected by the decision, may apply for review of the review decision involved in the manner set out in this Part.
+
+Review decision not affected by lack of notice
+
+             (5)  A contravention of subsection (1), (2), (3) or (4) in relation to a review decision does not affect the validity of the decision.
+
+Notice of review decisions to be given to the SSAT or the AAT if application made for review
+
+             (6)  If:
+
+                     (a)  the Secretary makes a review decision to:
+
+                              (i)  vary an original decision; or
+
+                             (ii)  set aside an original decision and substitute a new decision; and
+
+                     (b)  by the time the Secretary makes that decision, a person has applied to the SSAT or the AAT for review of the original decision that was reviewed by the Secretary;
+
+the Secretary must give written notice of the Secretary’s review decision to the Principal Member of the SSAT or to the Registrar of the AAT, as the case requires.
+
+Meaning of determination decision
+
+             (7)  In this section:
+
+                    <a name="determin-decision"></a>**_determination decision_** means a decision that is a determination as originally made, or, if varied, the variation of the determination.
+
+##### <a id="107"></a>107  Date of effect of certain decisions made under section 105
+
+             (1)  Subject to subsections (3), (3A), (3B), (3C) and (3D), if:
+
+                     (a)  the Secretary reviews, under section 105, a decision (the **_original decision_**) relating to the payment to a person of family tax benefit by instalment; and
+
+                     (b)  the Secretary decides (the **_review decision_**) to vary the original decision or set aside the original decision and substitute a new decision; and
+
+                     (c)  the review decision will have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment; and
+
+                     (d)  the review decision is made more than 52 weeks after the person concerned was given notice of the original decision;
+
+the date of effect of the review decision is:
+
+                     (e)  unless paragraph (f) applies—the date that would give full effect to the review decision; or
+
+                      (f)  if the date referred to in paragraph (e) is earlier than the first day of the income year before the income year in which the review decision was made—that first day.
+
+             (2)  Subject to subsection (3), if:
+
+                     (a)  under section 105, the Secretary reviews any of the following decisions (the **_original decision_**):
+
+                              (i)  a determination decision in respect of a weekly limit of hours (a determination of a weekly limit of hours is made under section 50H);
+
+                             (ii)  a determination decision in respect of CCB % (a determination of CCB % is made under section 50J); 
+
+                            (iii)  a determination decision in respect of schooling % (a determination of schooling % is made under section 50K);
+
+                            (iv)  a determination decision in respect of no entitlement (a determination of no entitlement is made under section 50G);
+
+                             (v)  a determination decision in respect of eligibility for the special grandparent rate (a determination of this eligibility is made under subsection 50T(1)); and
+
+                     (b)  the Secretary decides (the **_review decision_**) to vary the original decision or set aside the original decision and substitute a new decision; and
+
+                     (c)  the review decision would have the effect of creating or increasing an entitlement to be paid child care benefit by fee reduction; and
+
+                     (d)  the review decision is made more than 52 weeks after the person concerned was given notice of the original decision;
+
+the date of effect of the review decision is:
+
+                     (e)  unless paragraph (f) applies—the date that would give full effect to the review decision; or
+
+                      (f)  if the date referred to in paragraph (e) is earlier than the first day of the income year before the income year in which the review decision was made—that first day.
+
+             (3)  Subsection (1) or (2) does not limit the date of effect of a review decision in respect of an original decision that relates to the payment to a person of:
+
+                     (a)  family tax benefit by instalment; or
+
+                     (b)  child care benefit by fee reduction;
+
+if the review was undertaken because the Commissioner of Taxation had made an assessment of the taxable income for a particular income year of each person:
+
+                     (c)  whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family tax benefit, or CCB %; and
+
+                     (d)  who was required to lodge an income tax return in respect of that year;
+
+on the basis of the return lodged by each such person before the end of the income year next following that year.
+
+          (3A)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the following apply:
+
+                     (a)  under section 61A of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
+
+                     (b)  the review is undertaken because:
+
+                              (i)  before the end of the second income year after the income year in which the FTB child turned 4, the Secretary becomes aware of information suggesting that section 61A of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day; and
+
+                             (ii)  at any time, the Secretary is satisfied that section 61A of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day.
+
+          (3B)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act.
+
+          (3C)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the following apply:
+
+                     (a)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
+
+                     (b)  the review is undertaken because:
+
+                              (i)  before the end of the second income year after the income year in which the FTB child turned 1, 2 or 5 (as the case requires), the Secretary becomes aware of information suggesting that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day; and
+
+                             (ii)  at any time, the Secretary is satisfied that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day.
+
+          (3D)  Subsection (1) does not limit the date of effect of a review decision, in respect of an original decision that relates to the payment to a person of family tax benefit by instalment, if the review is undertaken because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61B(4) of that Act.
+
+             (4)  In this section:
+
+                    <a name="determin-decision"></a>**_determination decision_** means a decision that is a determination as originally made, or, if varied, the variation of the determination.
+
+#### Subdivision B—Review initiated by the applicant
+
+##### <a id="108"></a>108  Decisions that may be reviewed under section 109A
+
+Decisions that may and may not be reviewed under section 109A
+
+             (1)  A decision of any officer under the family assistance law must be reviewed on application under section 109A unless an exception set out in subsection (2) applies to the decision.
+
+             (2)  The exceptions to the rule in subsection (1) are:
+
+                     (a)  a decision made by:
+
+                              (i)  the Secretary personally; or
+
+                             (ii)  another agency head himself or herself in the exercise of a delegated power; or
+
+                            (iii)  the Chief Executive Centrelink in the exercise of a delegated power; or
+
+                            (iv)  the Chief Executive Medicare in the exercise of a delegated power; or
+
+                     (b)  a determination of entitlement under section 51B in respect of an individual in so far as it relates to:
+
+                              (i)  a rate certified by an approved child care service under subsection 76(1) of the Family Assistance Act; or
+
+                             (ii)  a certificate relating to a weekly limit of hours given by an approved child care service under subsection 54(10), 55(6) or 56(3) of the Family Assistance Act; or
+
+                     (c)  a determination of entitlement under section 54B in respect of an approved child care service in so far as it relates to:
+
+                              (i)  the service’s eligibility under section 47 of the Family Assistance Act; or
+
+                             (ii)  a rate certified by the service under subsection 76(2) of the Family Assistance Act; or
+
+                            (iii)  a certificate relating to a weekly limit of hours given by the service under subsection 54(10), 55(6) or 56(4) of the Family Assistance Act; or
+
+                    (ca)  a decision to give a person a notice under section 204A; or
+
+                     (d)  a calculation of an amount of fee reduction under section 50Z or 50ZB, or a recalculation of such an amount under section 50ZA or 50ZC; or
+
+                   (da)  a decision by the Secretary under section 219Q or subsection 219QA(2) to pay an amount in respect of fee reduction; or
+
+                   (db)  a decision by the Secretary under section 219QC or subsection 219QD(2) to pay an amount in respect of child care rebate; or
+
+                 (dba)  a decision under subsection 218RA(1A) not to pay enrolment advance; or
+
+                   (dc)  a decision under section 219RD (business continuity payments); or
+
+                   (dd)  a calculation of an amount of child care rebate for a week under section 65EAAA, or a recalculation of such an amount under section 65EAAD; or
+
+                   (de)  a decision by the Secretary under subsection 65EAAAA(4) (allowing election after beginning of income year to be paid child care rebate weekly or quarterly) or under subsection 65EAAAB(3) (day on which new payment arrangement begins); or
+
+                    (df)  a calculation of an amount of child care rebate for a quarter under section 65EAA, or a recalculation of such an amount under section 65EAB; or
+
+                     (e)  except as mentioned in subsection (3) or (4), a determination about a person’s eligibility for, or entitlement to, family assistance other than child care benefit if that determination:
+
+                              (i)  is neither a determination made under section 19 because the Secretary is not satisfied that an estimate of adjusted taxable income is reasonable nor a determination varied under section 28A; and
+
+                             (ii)  is wholly or partly based on an estimate of the amount of adjusted taxable income, or maintenance income, in a particular income year, to the extent that the determination is so based; or
+
+                      (f)  except as mentioned in subsection (3), a determination about a person’s entitlement to child care benefit or a person’s CCB % under section 50J, if that determination:
+
+                              (i)  is not a determination made under section 50J, because of the application of subsection 55(2), or an entitlement determination made under section 53D, because of the operation of subsection 55A(2), or a determination varied under section 60E; and
+
+                             (ii)  is wholly or partly based on an estimate of the amount of adjusted taxable income in a particular income year, to the extent that the determination is so based; or
+
+                    (fa)  a decision under section 201B to publicise information about:
+
+                              (i)  the doing of one or more of the things mentioned in paragraphs 200(1)(a) to (i); or
+
+                             (ii)  a suspension under subsection 201A(1); or
+
+                     (g)  a decision under Division 2 of Part 8C (infringement notices); or
+
+                     (h)  a decision under an instrument (including regulations) made under this Act or the Family Assistance Act.
+
+          (2A)  Paragraph (2)(h) does not apply in relation to a decision under an instrument if the instrument provides that the decision is reviewable for the purposes of this section.
+
+             (3)  A determination about a person’s (the **_applicant’s_**):
+
+                     (a)  eligibility for, or entitlement to, family assistance; or
+
+                     (b)  CCB %;
+
+to the extent that the determination was based on an estimate of the amount of adjusted taxable income in a particular income year, may be reviewed under section 109A only if the applicant seeks that review after the end of that year and either:
+
+                     (c)  the Commissioner of Taxation has made an assessment, in respect of that year, of the taxable income of each person:
+
+                              (i)  whose taxable income was relevant in determining the applicant’s eligibility for, or rate of, that family assistance or the applicant’s CCB %; and
+
+                             (ii)  who had been required to lodge an income tax return in respect of that year;
+
+                            on the basis of the return lodged by each such person before the end of the income year following that year; or
+
+                     (d)  there was no person whose taxable income in respect of that year was relevant in determining the applicant’s eligibility for, or rate of, that family assistance, or the applicant’s CCB %, who was required to lodge an income tax return in respect of that year.
+
+             (4)  A determination about a person’s (the **_applicant’s_**) eligibility for, or entitlement to, family tax benefit to the extent that the determination was based on an estimate of the amount of maintenance income in a particular income year, may be reviewed under section 109A only if the applicant seeks that review after the end of that year.
+
+##### <a id="109A"></a>109A  Review of certain decisions may be initiated by applicant
+
+             (1)  A person affected by a decision (the **_original decision_**):
+
+                     (a)  that is not a care percentage decision; and
+
+                     (b)  that, under section 108, must be reviewed under this section;
+
+may apply to the Secretary for review of the original decision.
+
+Note:          If an application is made under this section for review of a decision about a person’s entitlement to child care benefit, and a decision has also been made about the person’s entitlement to child care rebate, that decision about rebate may be automatically reviewed: see Division 5.
+
+          (1A)  A person affected by a decision (the **_original decision_**):
+
+                     (a)  that is a care percentage decision; and
+
+                     (b)  that, under section 108, must be reviewed under this section;
+
+may apply to the Secretary, or the Child Support Registrar, for review of the original decision.
+
+             (2)  If the person makes an application under subsection (1) or (1A), the Secretary must either:
+
+                     (a)  review the original decision and decide (the **_review decision_**) to:
+
+                              (i)  affirm it; or
+
+                             (ii)  vary it; or
+
+                            (iii)  set it aside and substitute a new decision; or
+
+                     (b)  arrange for an authorised review officer (see section 109C) to do so.
+
+          (2A)  If:
+
+                     (a)  the review involves (wholly or partly) a review of an original decision that is a care percentage decision; and
+
+                     (b)  a consideration of an objection to a decision carried out under Part VII of the _Child Support (Registration and Collection) Act 1988_ has involved (wholly or partly) the consideration of the determination to which the care percentage decision relates;
+
+the Secretary must not vary the original decision, or set the original decision aside and substitute a new decision, in a way that has the effect of varying the determination or substituting a new determination.
+
+             (3)  If:
+
+                     (a)  the person who reviews the decision (the **_decision reviewer_**) makes a review decision to set aside an original decision; and
+
+                     (b)  the decision reviewer is satisfied that an event that did not occur would have occurred if the original decision had not been made;
+
+the decision reviewer may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
+
+             (4)  If:
+
+                     (a)  a person who may apply to the Secretary or Child Support Registrar for review of a decision under subsection (1) or (1A) has not done so; and
+
+                     (b)  the person applies to the SSAT for review of the decision (despite not being entitled to do so); 
+
+the person is taken to have applied to the Secretary or Child Support Registrar for review of the decision under that subsection on the day on which the person applied to the SSAT.
+
+##### <a id="109B"></a>109B  Notice to be given of decisions under section 109A
+
+Decision reviewer to give notice of section 109A decision
+
+             (1)  The decision reviewer of a decision reviewed under section 109A must give notice of the review decision as set out in this section.
+
+Notice to be given where original decision relates to determination of conditional eligibility etc.
+
+             (2)  If:
+
+                     (a)  a review decision concerns an individual in respect of whom a determination of conditional eligibility for child care benefit by fee reduction is, or was, in force (the **_applicant_**); and
+
+                     (b)  the review decision is to:
+
+                              (i)  vary an original decision in respect of the applicant; or
+
+                             (ii)  set aside an original decision in respect of the applicant and substitute a new decision; and
+
+                     (c)  the review decision relates to one of the following decisions:
+
+                              (i)  a determination decision in respect of conditional eligibility (a determination of conditional eligibility is made under section 50F);
+
+                             (ii)  a determination decision in respect of a weekly limit of hours (a determination of a weekly limit of hours is made under section 50H);
+
+                            (iii)  a determination decision in respect of CCB % (a determination of CCB % is made under section 50J); 
+
+                            (iv)  a determination decision in respect of schooling % (a determination of schooling % is made under section 50K);
+
+                          (iva)  a determination decision in respect of eligibility for the special grandparent rate (a determination of this eligibility is made under subsection 50T(1));
+
+                             (v)  a determination decision in respect of rate under subsection 81(2) of the Family Assistance Act;
+
+                            (vi)  a determination decision in respect of no entitlement hours (a determination of no entitlement is made under section 50G);
+
+the decision reviewer must give notice of the review decision to:
+
+                     (d)  in all cases mentioned in paragraph (c)—the applicant; and
+
+                     (e)  in the case mentioned in subparagraph (c)(v)—the approved child care service, or services, providing care to the child concerned.
+
+          (2A)  The Secretary may make notice of a review decision mentioned in paragraph (2)(c) (other than subparagraph (2)(c)(v)) available to the approved child care service, or services, providing care to the child concerned, including by making the notice available to the service using an electronic interface.
+
+          (2B)  The Secretary may give notice of a review decision mentioned in subparagraph (2)(c)(v) by making the notice available to the service using an electronic interface.
+
+Notice to be given of other review decisions
+
+             (3)  If a review decision is in respect of any other original decision that may be reviewed under section 109A, other than an original decision referred to in subsection (2), the decision reviewer must give the applicant written notice of his or her decision:
+
+                     (a)  to affirm or vary the decision reviewed; or
+
+                     (b)  to set it aside and substitute a new decision.
+
+Meaning of determination decision
+
+             (4)  In this section:
+
+                    <a name="determin-decision"></a>**_determination decision_** means a decision that is a determination as originally made or, if varied, the variation of the determination.
+
+##### <a id="109C"></a>109C  Authorised review officers
+
+             (1)  The Secretary must authorise officers to be authorised review officers for the purposes of this Division.
+
+             (2)  The Secretary must not authorise an officer of the Human Services Department unless the Secretary of the Human Services Department has agreed to the authorisation.
+
+##### <a id="109D"></a>109D  Review applications—time limits applicable to review of certain decisions
+
+Certain applications to be made within 52 weeks of notification of decision
+
+             (1)  Subject to this section, an application for review under section 109A of any decision (other than an excepted decision) must be made no later than 52 weeks after the applicant is notified of the decision concerned.
+
+Exception—Secretary may extend time limits in special circumstances
+
+             (2)  The Secretary may, if he or she is satisfied that there are special circumstances that prevented the applicant from making an application under section 109A for review of a decision (other than an excepted decision) within the 52 weeks mentioned in subsection (1), permit a person to make the application after the end of that period and within such further period as the Secretary determines to be appropriate.
+
+Further exceptions
+
+             (3)  An application under section 109A for review of a decision (other than an excepted decision) may also be made after the 52 weeks mentioned in subsection (1) if the application is for review of one or other of the following decisions:
+
+                     (a)  a determination decision that a person is or is not entitled to be paid family tax benefit for a past period if the period occurs in the income year in which the application was made or in the previous income year (a determination of entitlement is made under section 17 or 19); 
+
+                     (b)  a determination decision that a person is or is not entitled to be paid family tax benefit by single payment/in substitution because of the death of another individual if the death occurred in the income year in which the application was made or in the previous income year (a determination of entitlement is made under section 18 or 19);
+
+                     (c)  a determination decision  that a weekly limit of hours applies to a person for a specified period if the end of the period occurred in the income year in which the application was made or in the previous income year (a determination of weekly limit of hours is made under section 50H);
+
+                     (d)  a determination decision under section 81 of the Family Assistance Act that a rate of child care benefit applies to a person for a specified period if the end of the period occurred in the income year in which the application was made or in the previous income year;
+
+                     (e)  a determination decision that a weekly limit of hours, CCB % or schooling % (these determinations are made under sections 50H, 50J and 50K respectively) applies to a person, if the decision took effect in the income year in which the application was made or in the previous income year;
+
+                    (ea)  a determination decision that a person was, or was not, eligible for the special grandparent rate for a child (these determinations are made under subsection 50T(1)) if the decision took effect in the income year in which the application was made or in the previous income year;
+
+                      (f)  a determination decision that a person is not entitled (a determination of no entitlement is made under section 50G) to be paid child care benefit by fee reduction if the decision took effect in the income year in which the application was made or in the previous income year;
+
+                     (g)  a determination decision that a person is or is not entitled to be paid child care benefit for care provided by a registered carer for a past period if the end of the period occurred in the income year in which the application was made or in the previous income year (a determination of entitlement or no entitlement is made under section 52F or 52G);
+
+                     (h)  a determination decision that a person is or is not entitled to be paid child care benefit by single payment/in substitution because of the death of another individual for care provided by a registered carer if the death occurred in the income year in which the application was made or in the previous income year (a determination of entitlement or no entitlement is made under section 53D or 53E).
+
+             (4)  An application under section 109A for review of a decision (other than an excepted decision) relating to the payment to a person of family assistance, or of one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment, may also be made after the 52 weeks mentioned in subsection (1), if:
+
+                     (a)  the application for review is made because of an assessment, by the Commissioner of Taxation, of taxable income for a particular income year of any relevant person made on the basis of an income tax return for that person and that particular income year lodged before the end of the next income year; or
+
+                     (b)  the application for review is made:
+
+                              (i)  because of a review, by the Commissioner of Taxation, of a previous decision by the Commissioner about the taxable income for a particular income year of any relevant person made on the basis of an income tax return for that person and that particular income year lodged before the end of the next income year; and
+
+                             (ii)  within 13 weeks after the relevant person was notified by the Commissioner of the outcome of the review; or
+
+                     (c)  the family assistance is family tax benefit and the application for review is made:
+
+                              (i)  because of a review, by the Child Support Registrar, of a previous decision by the Registrar about the child support entitlement of any relevant person; and
+
+                             (ii)  within 13 weeks after the relevant person was notified by the Registrar of the outcome of the review; or
+
+                     (d)  the family assistance is family tax benefit and the following apply:
+
+                              (i)  under section 61A of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
+
+                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61A of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
+
+                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 4; or
+
+                     (e)  the family assistance is family tax benefit and the application for review is made because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61A(3) of that Act; or
+
+                      (f)  the family assistance is family tax benefit and the following apply:
+
+                              (i)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person, an FTB child of the person and a day;
+
+                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
+
+                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 1, 2 or 5 (as the case requires); or
+
+                     (g)  the family assistance is family tax benefit and the application for review is made because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person because of the operation of subsection 61B(4) of that Act.
+
+             (5)  In subsection (4), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
+
+                     (a)  so far as paragraph (4)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family assistance, one‑off payment to families, economic security strategy payment to families, back to school bonus, single income family bonus, clean energy advance or ETR payment, or CCB %; and
+
+                     (b)  so far as paragraph (4)(c) is concerned—to any person (including the first‑mentioned person) whose entitlement to child support is relevant in determining the first‑mentioned person’s rate of family tax benefit.
+
+             (6)  In this section:
+
+                    <a name="determin-decision"></a>**_determination decision_** means a decision that is a determination as originally made or, if varied, the variation of the determination.
+
+                    <a name="excepted-decision"></a>**_excepted decision_** means a decision:
+
+                     (a)  relating to the payment to a person of family tax benefit by instalment; or
+
+                     (b)  relating to the raising of a debt under Division 2 of Part 4; or
+
+                     (c)  a decision of a kind mentioned in subsection 144(1) (decisions in relation to child care services and registered carers).
+
+##### <a id="109DA"></a>109DA  Review applications—time limits applicable to decisions in relation to child care services and registered carers
+
+                   An application for review under subsection 109A(1) of a decision of a kind mentioned in subsection 144(1) (decisions in relation to child care services and registered carers) must be made no later than 28 days after the applicant is notified of the decision.
+
+##### <a id="109E"></a>109E  Date of effect of certain decisions relating to payment of family tax benefit by instalment
+
+             (1)  If:
+
+                     (a)  a person applies under section 109A for review of a decision (the **_original decision_**) relating to the payment to the person of family tax benefit by instalment; and
+
+                     (b)  the application is made more than 52 weeks after the person was given notice of the original decision; and
+
+                     (c)  the Secretary or an authorised review officer decides, under subsection 109A(2), to vary the original decision or to set aside the original decision and substitute a new decision; and
+
+                     (d)  the decision of the Secretary or authorised review officer (the **_review decision_**) will have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment;
+
+the date of effect of the review decision is:
+
+                     (e)  unless paragraph (f) applies—the date that would give full effect to the review decision; or
+
+                      (f)  if the date referred to in paragraph (e) is earlier than the first day of the income year before the income year in which the application was made—that first day.
+
+             (2)  The Secretary may, if he or she is satisfied that there are special circumstances that prevented the applicant from making an application under section 109A for review of the original decision within 52 weeks, determine that subsection (1) applies as if the reference to 52 weeks were a reference to such longer period as the Secretary determines to be appropriate.
+
+             (3)  Subsection (1) does not limit the date of effect of a decision by the Secretary or by an authorised review officer on an application under section 109A for review of the original decision if:
+
+                     (a)  the application for review is made because of an assessment, by the Commissioner of Taxation, of taxable income for a particular income year of any relevant person made on the basis of an income tax return for that person and that particular income year lodged before the end of the next income year; or
+
+                     (b)  the application for review is made:
+
+                              (i)  because of a review, by the Commissioner of Taxation, of a previous decision by the Commissioner about the taxable income for a particular income year of any relevant person made on the basis of an income tax return for that person and that particular income year lodged before the end of the next income year; and
+
+                             (ii)  within 13 weeks after the relevant person was notified by the Commissioner of the outcome of the review; or
+
+                     (c)  the application for review is made:
+
+                              (i)  because of a review, by the Child Support Registrar, of a previous decision by the Registrar about the child support entitlement of any relevant person; and
+
+                             (ii)  within 13 weeks after the relevant person was notified by the Registrar of the outcome of the review; or
+
+                     (d)  the following apply:
+
+                              (i)  under section 61A of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person mentioned in paragraph (1)(a) of this section, an FTB child of the person and a day;
+
+                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61A of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
+
+                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 4; or
+
+                     (e)  the application for review is made because of subsections 61A(1), (2) and (2A) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61A(3) of that Act; or
+
+                      (f)  the following apply:
+
+                              (i)  under section 61B of the Family Assistance Act, the Secretary disregarded clause 38A of Schedule 1 to that Act in relation to the person mentioned in paragraph (1)(a) of this section, an FTB child of the person and a day;
+
+                             (ii)  the Secretary is satisfied the application for review is made because the person considers that section 61B of that Act does not prevent that clause being taken into account in relation to that person, that FTB child and that day;
+
+                            (iii)  the application for review is made before the end of the second income year after the income year in which that FTB child turned 1, 2 or 5 (as the case requires); or
+
+                     (g)  the application for review is made because of subsections 61B(1), (2) and (3) of the Family Assistance Act not applying in relation to the person mentioned in paragraph (1)(a) of this section because of the operation of subsection 61B(4) of that Act.
+
+             (4)  In subsection (3), a reference to a relevant person, in relation to the person first‑mentioned in that subsection, is a reference:
+
+                     (a)  so far as paragraph (3)(a) or (b) is concerned—to any person (including the first‑mentioned person) whose taxable income is relevant in determining the first‑mentioned person’s eligibility for, or rate of, family tax benefit; and
+
+                     (b)  so far as paragraph (3)(c) is concerned—to any person (including the first‑mentioned person) whose entitlement to child support is relevant in determining the first‑mentioned person’s rate of family tax benefit.
+
+##### <a id="109F"></a>109F  Withdrawal of review applications
+
+             (1)  An applicant for review under section 109A may, in writing or in any other manner approved by the Secretary, withdraw the application at any time before the decision reviewer does any of the things in subsection 109A(2).
+
+             (2)  If an application is so withdrawn, it is taken never to have been made.
+
+##### <a id="109G"></a>109G  Secretary may continue payment etc. pending outcome of application for review 
+
+             (1)  If:
+
+                     (a)  an adverse family assistance decision referred to in paragraph (a) or (b) of the definition of **_adverse family assistance decision_** in subsection (5) is made; and
+
+                     (b)  the adverse decision depends on the exercise of a discretion, or the holding of an opinion, by a person; and
+
+                     (c)  a person applies under section 109A for review of the adverse decision;
+
+the Secretary may declare that entitlement to the family assistance to which the adverse family assistance decision relates is to continue, pending the determination of the review, as if the adverse decision had not been made.
+
+             (2)  If:
+
+                     (a)  an adverse family assistance decision referred to in paragraph (c), (d) or (e) of the definition of **_adverse family assistance decision_** in subsection (5) is made; and
+
+                     (b)  the adverse decision depends on the exercise of a discretion, or the holding of an opinion, by a person; and
+
+                     (c)  a person applies under section 109A for review of the adverse decision;
+
+the Secretary may declare:
+
+                     (d)  in the case of an **_adverse family assistance decision_** referred to in paragraph (c) of the definition—that the conditional eligibility to which the decision relates is to continue as if the adverse decision had not been made; and
+
+                     (e)  in the case of an adverse family assistance decision referred to in paragraph (d)—that the limit or percentage to which the decision relates is to continue as if the adverse decision had not been made; and
+
+                      (f)  in the case of an adverse family assistance decision referred to in paragraph (e) of the definition—that the eligibility for the special grandparent rate to which the decision relates is to continue as if the adverse decision had not been made.
+
+             (3)  While the declaration is in force in relation to the adverse decision, this Act (other than this Part) applies as if the adverse decision had not been made.
+
+             (4)  The declaration:
+
+                     (a)  starts to have effect on the day on which it is made or on the earlier day (if any) specified in the declaration; and
+
+                     (b)  stops having effect if:
+
+                              (i)  the application for review of the adverse decision is withdrawn; or
+
+                             (ii)  the review of the adverse decision is determined by the Secretary or an authorised review officer; or
+
+                            (iii)  the declaration is revoked by the Secretary.
+
+             (5)  In this section:
+
+                    <a name="advers-famili-assist-decision"></a>**_adverse family assistance decision_**, in relation to a person, means any decision having the effect that:
+
+                     (a)  the person ceases to be entitled to family assistance; or
+
+                     (b)  the person’s entitlement to family assistance is reduced; or
+
+                     (c)  the person ceases to be conditionally eligible for child care benefit by fee reduction; or
+
+                     (d)  the weekly limit of hours, the CCB % or the schooling % applicable to the person is reduced; or
+
+                     (e)  the person ceases to be eligible for the special grandparent rate for a child.
+
+##### <a id="109H"></a>109H  Notification of further rights of review
+
+             (1)  If the decision reviewer gives an applicant a notice under section 109B, the notice must include:
+
+                     (a)  a statement to the effect that the applicant may, subject to this Part, apply to the SSAT for review of the review decision mentioned in the notice; and
+
+                     (b)  a statement about the review decision that:
+
+                              (i)  sets out the reasons for the decision; and
+
+                             (ii)  sets out the findings by the decision reviewer on material questions of fact; and
+
+                            (iii)  refers to the evidence or other material on which those findings were based; and
+
+                     (c)  a statement to the effect that, if the applicant is dissatisfied with the SSAT’s decision on any application for review as mentioned in paragraph (a), the applicant may, subject to the _Administrative Appeals Tribunal Act 1975_, apply to the AAT for review of the SSAT’s decision.
+
+             (2)  A contravention of subsection (1) in relation to a review decision does not affect the validity of the decision.
+
+### Division 2—Review by the Social Security Appeals Tribunal
+
+##### <a id="110"></a>110  SSAT objective
+
+                   In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
+
+##### <a id="111"></a>111  Application for review by SSAT
+
+             (1)  If the decision reviewer has affirmed, varied or set aside a decision under Division 1, a person affected by the decision may apply to the Social Security Appeals Tribunal for review of the decision as affirmed or varied or, if it has been set aside and another decision substituted, the decision so substituted.
+
+Note:          If an application is made under this section for review of a decision about a person’s entitlement to child care benefit, and a decision has also been made about the person’s entitlement to child care rebate, that decision about rebate may be automatically reviewed: see Division 5.
+
+          (1A)  If a decision has been made by:
+
+                     (a)  the Secretary personally (except a decision under Division 2 of Part 8C (infringement notices)); or
+
+                     (b)  another agency head himself or herself in the exercise of a delegated power; or
+
+                     (c)  the Chief Executive Centrelink in the exercise of a delegated power; or
+
+                     (d)  the Chief Executive Medicare in the exercise of a delegated power;
+
+a person whose interests are affected by the decision may apply to the SSAT for review of the decision.
+
+             (2)  However, a person cannot apply for review under subsection (1) or (1A) in respect of any of the following decisions:
+
+                     (a)  a decision under one of the following provisions (form and manner of claims, notices etc.):
+
+                              (i)  subsection 7(2);
+
+                            (ia)  subsection 34(1);
+
+                            (ib)  subsection 35B(2);
+
+                             (ii)  subsection 38(2);
+
+                            (iii)  subsection 49C(1);
+
+                            (iv)  paragraph 50L(7)(b);
+
+                             (v)  subparagraph 50T(2)(a)(ii);
+
+                            (vi)  paragraph 50T(3)(b);
+
+                           (vii)  subsection 50Z(4), 50ZA(4), 50ZB(4) or 50ZC(4);
+
+                          (viii)  subsection 57G(3) or 57G(5);
+
+                            (ix)  section 64F;
+
+                          (ixa)  paragraph 65EAAAA(2)(a);
+
+                          (ixb)  subsection 65EAAB(3) or 65EAAE(4);
+
+                          (ixc)  subsection 65KA(2);
+
+                             (x)  paragraph 219AB(1)(a);
+
+                            (xi)  subsection 219AE(4);
+
+                           (xii)  subsection 219AF(2);
+
+                          (xiii)  subsection 219N(3);
+
+                          (xiv)  paragraph 219QB(4)(a);
+
+                        (xiva)  subsection 219QE(3);
+
+                        (xivb)  paragraph 219QE(5)(a);
+
+                           (xv)  paragraph 219R(2)(a);
+
+                         (xva)  paragraph 219RA(1A)(b), (1B)(b) or (1C)(b);
+
+                          (xvi)  subsection 219RA(4);
+
+                        (xvia)  paragraph 219RC(3)(d);
+
+                         (xvii)  subsection 57(6) or 81(5) of the Family Assistance Act;
+
+                        (xviii)  subclause 46(2), 47(2), 49(3) or 50(2) of Schedule 1 to the Family Assistance Act;
+
+                     (c)  a decision under section 108 or 112 (continuation of payment etc. pending review of adverse decision);
+
+                     (d)  a decision under section 154, 155, 156, 157, 159A or 219GA (Secretary requiring or requesting information from person);
+
+                     (e)  a decision relating to the Secretary’s power under section 146 to settle proceedings before the AAT;
+
+                      (f)  a decision under Part 8 (approval of child care services and approval of registered carers);
+
+                    (fa)  a decision under section 219GB (Secretary engaging an expert to carry out an independent audit);
+
+                     (g)  a decision under section 219NA (Secretary requiring service to provide information about number of child care places);
+
+                     (h)  a decision to make a determination under subsection 57(1) of the Family Assistance Act (determination that an approved child care service is a sole provider);
+
+                      (i)  a decision under section 57G (Secretary requiring service to provide further information about aspects of care provided to enrolled children).
+
+             (3)  In this section:
+
+                    <a name="decision-review"></a>**_decision reviewer_**, in relation to a decision that was the subject of an application under section 109A, means the person who, in accordance with subsection 109A(2), reviewed that decision.
+
+##### <a id="111A"></a>111A  Review applications—time limits applicable to review by the SSAT of certain decisions
+
+             (1)  Subject to subsection (2), a person affected:
+
+                     (a)  by a decision of a decision reviewer under Division 1 to affirm, vary or set aside a decision other than an excepted decision; or
+
+                     (b)  if a decision reviewer has decided, under Division 1, to set aside a decision (other than an excepted decision) and substitute another decision—by the decision so substituted;
+
+must apply under section 111 for review by the SSAT of the decision affecting that person no later than 13 weeks after the person is notified of the decision of the decision reviewer.
+
+             (2)  The SSAT may, if it determines that there are special circumstances that prevented the person from making an application under section 111 for review of a decision of the kind referred to in subsection (1) within the 13 weeks mentioned in subsection (1), permit a person to make the application after the end of that period and within such further period as the SSAT determines to be appropriate.
+
+             (3)  In this section:
+
+                    <a name="excepted-decision"></a>**_excepted decision_** means a decision:
+
+                     (a)  relating to the payment to a person of family tax benefit by instalment; or
+
+                     (b)  relating to the raising of a debt under Division 2 of Part 4.
+
+##### <a id="111B"></a>111B  Date of effect of certain SSAT decisions relating to payment of family tax benefit by instalment
+
+             (1)  If:
+
+                     (a)  a person applies to the SSAT, under subsection 111(1), for review of a decision (the **_original decision_**) relating to the payment to a person of family tax benefit by instalment; and
+
+                     (b)  the application is made more than 13 weeks after the person was given notice of the original decision; and
+
+                     (c)  the SSAT decides, under subsection 113(1), to vary the original decision or set aside the original decision and substitute a new decision; and
+
+                     (d)  the decision of the SSAT will have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment;
+
+the date of effect of the decision of the SSAT is:
+
+                     (e)  unless paragraph (f) applies—the date that would give full effect to the decision of the SSAT; or
+
+                      (f)  if the date referred to in paragraph (e) is earlier than the first day of the income year before the income year in which the application to the SSAT for review was made—that first day.
+
+             (2)  The SSAT may, if it is satisfied that there are special circumstances that prevented the applicant from making an application within 13 weeks, determine that subsection (1) applies as if the reference to 13 weeks were a reference to such longer period as the SSAT determines to be appropriate.
+
+##### <a id="112"></a>112  Secretary may continue payment etc. pending outcome of application for review 
+
+             (1)  If:
+
+                     (a)  an adverse family assistance decision referred to in paragraph (a) or (b) of the definition of **_adverse family assistance decision_** in subsection (4) is made; and
+
+                     (b)  the adverse decision depends on the exercise of a discretion, or the holding of an opinion, by a person; and
+
+                     (c)  a person applies to the SSAT under section 111 for review of the adverse decision;
+
+the Secretary may declare that entitlement to the family assistance is to continue, pending the determination of the review, as if the adverse decision had not been made.
+
+          (1A)  If:
+
+                     (a)  an adverse family assistance decision referred to in paragraph (c), (d) or (e) of the definition of **_adverse family assistance decision_** in subsection (4) is made; and
+
+                     (b)  the adverse decision depends on the exercise of a discretion, or the holding of an opinion, by a person; and
+
+                     (c)  a person applies to the SSAT under section 111 for review of the adverse decision;
+
+the Secretary may declare:
+
+                     (d)  in the case of an adverse family assistance decision referred to in paragraph (c) of the definition in subsection (4)—that the conditional eligibility to which the decision relates is to continue as if the adverse decision had not been made; and
+
+                     (e)  in the case of an adverse family assistance decision referred to in paragraph (d) of the definition in subsection (4)—that the limit or percentage to which the decision relates is to continue as if the adverse decision had not been made; and
+
+                      (f)  in the case of an adverse family assistance decision referred to in paragraph (e) of the definition in subsection (4)—that the eligibility for the special grandparent rate to which the decision relates is to continue as if the adverse decision had not been made.
+
+             (2)  While the declaration is in force in relation to the adverse decision, this Act (other than this Part) applies as if the adverse decision had not been made.
+
+             (3)  The declaration:
+
+                     (a)  starts to have effect on the day on which it is made or on the earlier day (if any) specified in the declaration; and
+
+                     (b)  stops having effect if:
+
+                              (i)  the application to the SSAT for review of the adverse decision is withdrawn; or
+
+                             (ii)  the review of the adverse decision is determined by the SSAT; or
+
+                            (iii)  the declaration is revoked by the Secretary.
+
+             (4)  In this section:
+
+                    <a name="advers-famili-assist-decision"></a>**_adverse family assistance decision_**, in relation to a person, means any decision having the effect that:
+
+                     (a)  the person ceases to be entitled to family assistance; or
+
+                     (b)  the person’s entitlement to family assistance is reduced; or
+
+                     (c)  the person ceases to be conditionally eligible for child care benefit by fee reduction; or
+
+                     (d)  the weekly limit of hours, the CCB % or the schooling % applicable to the person is reduced; or
+
+                     (e)  the person ceases to be eligible for the special grandparent rate for a child.
+
+##### <a id="113"></a>113  SSAT review powers
+
+             (1)  If a person applies to the SSAT for review of a decision, the SSAT must:
+
+                     (a)  affirm the decision; or
+
+                     (b)  vary the decision; or
+
+                     (c)  set the decision aside and:
+
+                              (i)  substitute a new decision; or
+
+                             (ii)  send the matter back to the Secretary, for reconsideration in accordance with any directions or recommendations of the SSAT.
+
+          (1A)  If:
+
+                     (a)  the review involves (wholly or partly) a review of a decision (the **_original decision_**) that is a care percentage decision; and
+
+                     (b)  a review of a decision carried out under Part VIIA of the _Child Support (Registration and Collection) Act 1988_ has involved (wholly or partly) a review of the determination to which the care percentage decision relates;
+
+the SSAT must not vary the original decision, or set the original decision aside and substitute a new decision, in a way that has the effect of varying the determination or substituting a new determination.
+
+             (2)  If the SSAT sets a decision aside and substitutes for it a decision that:
+
+                     (a)  a person is entitled to have a payment made under this Act; or
+
+                     (b)  a person is conditionally eligible for child care benefit by fee reduction; or
+
+                     (c)  the weekly limit of hours, the CCB % or the schooling % applicable to a person is to be increased;
+
+the SSAT must:
+
+                     (d)  in the case of paragraph (a):
+
+                              (i)  assess the amount of the payment; or
+
+                             (ii)  ask the Secretary to assess the amount; and
+
+                     (e)  in the case of paragraph (b):
+
+                              (i)  ask the Secretary to determine the weekly limit of hours, CCB % and schooling % applicable to the person; and
+
+                             (ii)  if the limit or percentage affects the amount of the entitlement of the person—assess that amount; and
+
+                      (f)  in the case of paragraph (c):
+
+                              (i)  determine what the limit or percentage is to be; or
+
+                             (ii)  ask the Secretary to assess the limit or percentage.
+
+             (3)  If:
+
+                     (a)  the SSAT sets a decision aside under subsection (1); and
+
+                     (b)  the Secretary or the SSAT, as the case may be, is satisfied that an event that did not occur would have occurred if the decision had not been made;
+
+the Secretary or the SSAT, as the case requires, may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
+
+##### <a id="114"></a>114  Powers of the SSAT
+
+                   The SSAT may, for the purpose of reviewing a decision under the family assistance law, exercise all the powers and discretions that are conferred by the family assistance law on the Secretary.
+
+##### <a id="116"></a>116  Application requirements
+
+             (1)  A person may apply to the SSAT for review of a decision by:
+
+                     (a)  sending or delivering a written application to:
+
+                              (i)  an office of the SSAT; or
+
+                             (ii)  an office of the Department; or
+
+                            (iii)  an office of another agency, where the Secretary has approved the office for the purposes of this subparagraph; or
+
+                     (b)  going to an office of the SSAT and making an oral application; or
+
+                     (c)  contacting an office of the SSAT by telephone and making an oral application.
+
+             (2)  If a person makes an oral application in accordance with paragraph (1)(b) or (c), the person receiving the oral application must make a written record of the details of the oral application and note on the record the day on which the application is made.
+
+             (3)  An application may include a statement of the reasons for seeking a review of the decision.
+
+##### <a id="117"></a>117  Variation of decision before review completed
+
+             (1)  If an officer varies a decision after an application has been made to the SSAT for review of the decision but before determination of the review, the application for review is to be treated as if it were an application for review of the decision as varied.
+
+             (2)  If an officer sets a decision aside and substitutes a new decision after an application has been made to the SSAT for review of the original decision but before the determination of the review, the application for review is to be treated as if it were an application for review of the new decision.
+
+             (3)  If:
+
+                     (a)  a person applies to the SSAT for review of a decision; and
+
+                     (b)  before determination of the review, an officer varies the decision or sets it aside and substitutes a new decision;
+
+the person may either:
+
+                     (c)  proceed with the application for review of the decision as varied or the new decision, as the case may be; or
+
+                     (d)  withdraw the application under section 135.
+
+##### <a id="118"></a>118  Parties to SSAT review
+
+             (1)  The parties to a review by the SSAT are:
+
+                     (a)  the applicant; and
+
+                     (b)  the Secretary; and
+
+                      (f)  any other person who has been made a party to the review under subsection (4).
+
+             (2)  If a person has applied under section 111 for review of a decision (other than a decision to which subsection (2A) applies), any other person affected by the decision may apply to the Principal Member to be made a party to the review.
+
+             (3)  An application under subsection (2) must be in writing.
+
+             (4)  The Principal Member may order that a person who has applied under subsection (2) be made a party to the review.
+
+### Division 3—Procedures for review by the SSAT
+
+#### Subdivision A—Preliminary procedures
+
+##### <a id="119"></a>119  Procedure on receipt of application for review by SSAT
+
+             (1)  If an application under section 111 is sent or delivered to an office of the Department or another agency, the Secretary must send the application to the Principal Member as soon as practicable and, in any case, not later than 7 days after the application is received at the office of the Department or other agency.
+
+             (2)  If:
+
+                     (a)  an application under section 111 is sent or delivered to an office of the SSAT; or
+
+                     (b)  the Secretary sends such an application to the Principal Member in accordance with subsection (1);
+
+the Principal Member must give the applicant and the Secretary written notice that the application has been received.
+
+             (3)  Within 28 days after receiving notice of the making of an application from the Principal Member, the Secretary must send to the Principal Member:
+
+                     (a)  a statement about the decision under review that:
+
+                              (i)  sets out the findings of fact made by the person who made the decision; and
+
+                             (ii)  refers to the evidence on which those findings were based; and
+
+                            (iii)  gives the reasons for the decision; and
+
+                     (b)  the original or a copy of every document or part of a document that:
+
+                              (i)  is in the possession, or under the control, of the Secretary or any other officer; and
+
+                             (ii)  relates to the applicant; and
+
+                            (iii)  is relevant to the review of the decision.
+
+             (4)  If the Principal Member asks the Secretary to send the statement and documents referred to in subsection (3) by a day earlier than the day fixed by that subsection, the Secretary must take reasonable steps to comply with the Principal Member’s request.
+
+             (5)  If:
+
+                     (a)  after the end of the period referred to in subsection (3) but before the determination of the review, the Secretary obtains possession of a document; and
+
+                     (b)  the Secretary considers that the document or a part of the document is relevant to the review; and
+
+                     (c)  a copy of the document or the part of the document has not been sent to the Principal Member in accordance with subsection (3);
+
+the Secretary must send a copy of the document or the part of the document to an office of the SSAT as soon as practicable after obtaining possession of the document.
+
+##### <a id="120"></a>120  Parties to be given a statement about the decision under review
+
+             (1)  The Principal Member must give each party (other than the Secretary) a copy of the statement referred to in paragraph 119(3)(a).
+
+             (2)  The Principal Member may make an order directing a person who has received a copy of a statement in accordance with subsection (1):
+
+                     (a)  not to disclose information in the statement; or
+
+                     (b)  not to disclose information in the statement except in the circumstances or for the purposes specified in the order.
+
+             (3)  An order under subsection (2) must be made by written notice given to the person to whom it is directed.
+
+             (4)  A person who contravenes an order under subsection (2) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
+
+##### <a id="121"></a>121  Arrangements for hearing of application
+
+             (1)  If an application is made to the SSAT for review of a decision, the Principal Member must fix a day, time and place for the hearing of the application.
+
+             (2)  If a declaration under section 112 is in force in relation to a decision, the Principal Member must take reasonable steps to ensure that the decision is reviewed as quickly as possible.
+
+             (3)  The Principal Member must give the applicant and any other parties to the review written notice of the day, time and place fixed for the hearing of the application.
+
+             (4)  The notice under subsection (3) must be given a reasonable time before the day fixed for the hearing.
+
+##### <a id="122"></a>122  Notice of application to person affected by decision
+
+             (1)  If:
+
+                     (a)  an application has been made to the SSAT for review of a decision; and
+
+                     (b)  the Principal Member is satisfied that the interests of a person who is not a party to the review are affected by the decision;
+
+the Principal Member must take reasonable steps to give the person written notice that an application has been made to the SSAT for review of the decision.
+
+             (2)  The notice under subsection (1):
+
+                     (a)  must be in writing; and
+
+                     (b)  must include notification of the person’s right under section 118 to apply to the Principal Member to be added as a party to the review; and
+
+                     (c)  may be given at any time before the determination of the review.
+
+             (3)  The Principal Member must give each party to the review a copy of the notice.
+
+#### Subdivision B—Submissions from parties other than agency representatives
+
+##### <a id="122A"></a>122A  Subdivision does not apply in relation to agency representatives
+
+                   This Subdivision does not apply in relation to a party to a review of a decision who is the head of an agency, the Chief Executive Centrelink or the Chief Executive Medicare.
+
+##### <a id="123"></a>123  Submissions to SSAT
+
+             (2)  Subject to section 125, a party to a review of a decision may make oral or written submissions to the SSAT or both oral and written submissions.
+
+             (3)  The party may have another person make submissions to the SSAT on behalf of the party.
+
+             (4)  The Principal Member may determine that submissions to the SSAT by the party or the party’s representative are to be made by telephone or by means of other electronic communications equipment.
+
+             (5)  Without limiting subsection (4), the Principal Member may make a determination under subsection (4) in relation to an application if:
+
+                     (a)  the application is urgent; or
+
+                     (b)  the party lives in a remote area and unreasonable expense would be incurred if the party or the party’s representative had to travel to the place at which the hearing is to be held; or
+
+                     (c)  the party has failed to attend the hearing and has not indicated that he or she intends to attend the hearing; or
+
+                     (d)  the applicant is unable to attend the hearing because of illness or infirmity.
+
+             (6)  If the party is not proficient in English, the Principal Member may give directions in relation to the use of an interpreter in connection with the hearing of the review.
+
+##### <a id="125"></a>125  SSAT hearings on written submissions only
+
+             (1)  The Principal Member may direct that a hearing be conducted without oral submissions from the parties if:
+
+                     (a)  the Principal Member considers that the review hearing could be determined fairly on the basis of written submissions by all the parties to the review; and
+
+                     (b)  all parties to the review consent to the hearing being conducted without oral submissions.
+
+             (2)  If the Principal Member gives a direction under subsection (1), the Principal Member must give each of the parties to the review written notice:
+
+                     (a)  informing the party of the direction; and
+
+                     (b)  inviting the party to submit written submissions; and
+
+                     (c)  specifying the address to which the written submissions are to be delivered; and
+
+                     (d)  specifying the time within which the written submissions are to be delivered.
+
+             (3)  The time specified under paragraph (2)(d) must be such as to allow a reasonable period for the parties to make written submissions.
+
+             (4)  Despite subsection (1), the SSAT, as constituted for the hearing, may, if it thinks necessary after considering the written submissions made by the parties, make an order permitting the parties to make oral submissions to the SSAT at the hearing of the review.
+
+##### <a id="126"></a>126  SSAT hearings without oral submissions by party
+
+             (2)  If a party to a review of a decision has informed the Principal Member that the party does not intend to make oral submissions to the SSAT, the SSAT may proceed to hear the application for review without oral submissions from the party.
+
+             (3)  If:
+
+                     (a)  the Principal Member has determined that oral submissions to the SSAT by the party or the party’s representative are to be made by telephone or by means of other electronic communications equipment; and
+
+                     (b)  on the day fixed for the hearing the presiding member has been unable to contact the party or the party’s representative, as the case may be, after taking reasonable steps to do so;
+
+the Principal Member may authorise the SSAT to proceed to hear the application without oral submissions from the party or the party’s representative, as the case may be.
+
+             (4)  If:
+
+                     (a)  the Principal Member has not determined that oral submissions to the SSAT by the party or the party’s representative are to be made by telephone or by means of other electronic communications equipment; and
+
+                     (b)  the party or the party’s representative, as the case may be, does not attend the hearing at the time fixed for the hearing;
+
+the Principal Member may authorise the SSAT to proceed to hear the application without oral submissions from the party or the party’s representative, as the case may be.
+
+             (5)  If the Principal Member gives an authorisation under subsection (3) or (4), the SSAT may proceed to hear the application in accordance with the authorisation.
+
+             (6)  The Principal Member may revoke an authorisation under subsection (3) or (4).
+
+#### Subdivision BA—Submissions from agency representatives
+
+##### <a id="126A"></a>126A  Submissions from agency representatives
+
+             (1)  The following persons (each of whom is called an **_agency representative_**) may make written submissions to the SSAT:
+
+                     (a)  the head of an agency that is a party to a review of a decision;
+
+                     (b)  the Chief Executive Centrelink, if the Chief Executive Centrelink is a party to a review of a decision;
+
+                     (c)  the Chief Executive Medicare, if the Chief Executive Medicare is a party to a review of a decision.
+
+Agency representative may request permission to make oral submissions etc.
+
+             (2)  The agency representative may, by writing, request the Principal Member for permission to make:
+
+                     (a)  oral submissions to the SSAT; or
+
+                     (b)  both oral and written submissions to the SSAT.
+
+The request must explain how such submissions would assist the SSAT.
+
+             (3)  The Principal Member may, by writing, grant the request if, in the opinion of the Principal Member having regard to the objective laid down by section 110, such submissions would assist the SSAT.
+
+SSAT may order agency representative to make oral submissions etc.
+
+             (4)  The Principal Member may order the agency representative to make:
+
+                     (a)  oral submissions to the SSAT; or
+
+                     (b)  both oral and written submissions to the SSAT;
+
+if, in the opinion of the Principal Member having regard to the objective laid down by section 110, such submissions would assist the SSAT.
+
+Oral submissions by telephone etc.
+
+             (5)  For the purposes of subsections (3) and (4), the Principal Member may determine that oral submissions to the SSAT by the agency representative are to be made by telephone or by means of other electronic communications equipment.
+
+             (6)  Subsection (5) does not limit subsection (3) or (4).
+
+#### Subdivision BB—Other evidence provisions
+
+##### <a id="127"></a>127  Evidence on oath or affirmation
+
+                   The SSAT may take evidence on oath or affirmation for the purposes of a review of a decision.
+
+##### <a id="128"></a>128  Provision of further information by Secretary
+
+             (1)  The Principal Member may ask the Secretary to provide the SSAT with information or a document the Secretary has and that is relevant to the review of a decision.
+
+             (2)  The Secretary must comply with a request under subsection (1) as soon as practicable and, in any event, not later than 14 days after the request is made.
+
+##### <a id="128A"></a>128A  Power to obtain information or documents
+
+             (1)  This section applies to a person if the Principal Member believes on reasonable grounds that the person has information or a document that is relevant to a review.
+
+             (2)  The Principal Member may, by written notice given to the person, require the person:
+
+                     (a)  to give to the SSAT, within the period and in the manner specified in the notice, any such information; or
+
+                     (b)  to produce to the SSAT, within the period and in the manner specified in the notice, any such documents.
+
+             (3)  The period specified in a notice given under subsection (2) must be at least 14 days after the notice is given.
+
+Offence
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person is given a notice under subsection (2); and
+
+                     (b)  the person fails to comply with the notice.
+
+                    Penalty:  Imprisonment for 6 months.
+
+Notice to set out the effect of offence provisions
+
+             (5)  A notice under subsection (2) must set out the effect of the following provisions:
+
+                     (a)  subsection (4);
+
+                     (b)  section 137.1 of the _Criminal Code_(about giving false or misleading information);
+
+                     (c)  section 137.2 of the _Criminal Code_(about producing false or misleading documents).
+
+##### <a id="128B"></a>128B  Inspecting and copying documents
+
+                   The following may inspect a document produced under section 128A and may make and retain copies of the whole or a part of the document:
+
+                     (a)  a member who constitutes, or who is one of the members who constitute, the SSAT for the purposes of the review;
+
+                     (b)  a member of the staff of the SSAT.
+
+##### <a id="128C"></a>128C  Retention of documents
+
+             (1)  The following may take possession of a document produced under section 128A, and retain it for as long as is reasonably necessary:
+
+                     (a)  a member who constitutes, or who is one of the members who constitute, the SSAT for the purposes of the review;
+
+                     (b)  a member of the staff of the SSAT.
+
+             (2)  The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Principal Member to be a true copy.
+
+             (3)  The certified copy must be received in all courts and tribunals as evidence as if it were the original.
+
+             (4)  Until a certified copy is supplied, the Principal Member must provide the person otherwise entitled to possession of the document, or a person authorised by that person, reasonable access to the document for the purposes of inspecting and making copies of the whole or a part of the document.
+
+##### <a id="129"></a>129  Exercise by Secretary of powers under section 154
+
+             (1)  The Principal Member may ask the Secretary to exercise the Secretary’s powers under section 154 if the Principal Member is satisfied that a person has information, or has custody or control of a document, that is relevant to the review of a decision.
+
+             (2)  The Secretary must comply with a request under subsection (1) as soon as practicable and, in any event, within 7 days after the request is made.
+
+#### Subdivision BC—Pre‑hearing conferences
+
+##### <a id="129A"></a>129A  Pre‑hearing conferences
+
+             (1)  Before the hearing of a review commences, the Principal Member may convene one or more conferences with the parties to the review if he or she considers that it would assist in the conduct and consideration of the review to do so.
+
+             (2)  At a conference, the Principal Member may:
+
+                     (a)  fix a day or days for the hearing; and
+
+                     (b)  give directions about the time within which submissions are to be made to the SSAT; and
+
+                     (c)  give directions about the time within which evidence is to be brought before the SSAT; and
+
+                     (d)  give directions about what evidence is to be brought before the SSAT.
+
+             (3)  Paragraph (2)(d) does not limit the evidence that may be brought before the SSAT.
+
+Restrictions on disclosure of information obtained at a conference
+
+             (4)  The Principal Member may make an order directing a party to the review who is present at a conference:
+
+                     (a)  not to disclose information obtained by the party at the conference; or
+
+                     (b)  not to disclose information obtained by the party at the conference except in the circumstances, or for the purposes, specified in the order.
+
+             (5)  A person commits an offence if:
+
+                     (a)  the person is given an order under subsection (4); and
+
+                     (b)  the person contravenes the order.
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+
+##### <a id="129B"></a>129B  Powers of SSAT if parties reach agreement
+
+             (1)  If:
+
+                     (a)  at a pre‑hearing conference under section 129A with the parties to a review, the parties agree to the terms of a decision of the SSAT:
+
+                              (i)  in the review; or
+
+                             (ii)  in relation to a part of the review, or a matter arising out of the review;
+
+                            that would be acceptable to the parties; and
+
+                     (b)  before the hearing of the review commences, the terms of the agreement are:
+
+                              (i)  put in writing; and
+
+                             (ii)  signed by or on behalf of the parties; and
+
+                            (iii)  lodged with the SSAT; and
+
+                     (c)  before the hearing of the review commences, the SSAT is satisfied that a decision in those terms, or consistent with those terms, would be within the powers of the SSAT;
+
+the SSAT may act in accordance with whichever of subsection (2) or (3) is relevant.
+
+             (2)  If the agreement reached is an agreement as to the terms of a decision of the SSAT in the review, the SSAT may make a decision in accordance with those terms without holding a hearing of the review.
+
+             (3)  If the agreement relates to a part of the review, or a matter arising out of the review, the SSAT may in its decision in the review give effect to the terms of the agreement without dealing at the hearing of the review with the part or matter to which the agreement relates.
+
+#### Subdivision C—The hearing
+
+##### <a id="130"></a>130  Hearing procedure
+
+             (1)  The SSAT, in reviewing a decision:
+
+                     (a)  is not bound by legal technicalities, legal forms or rules of evidence; and
+
+                     (b)  is to act as speedily as a proper consideration of the review allows; and
+
+                     (c)  in determining what a proper consideration of the review requires, must have regard to the objective laid down by section 110.
+
+             (2)  The SSAT may inform itself on any matter relevant to a review of a decision in any manner it considers appropriate.
+
+##### <a id="131"></a>131  Hearing in private
+
+             (1)  The hearing of a review is to be in private.
+
+             (2)  The Principal Member may give directions, in writing or otherwise, as to the persons who may be present at any hearing of a review.
+
+             (3)  In giving directions under subsection (2), the Principal Member must have regard to the wishes of the parties and the need to protect their privacy.
+
+##### <a id="133"></a>133  Restrictions on disclosure of information obtained at hearing
+
+             (1)  The Principal Member may make an order directing a person who is present at the hearing of a review:
+
+                     (a)  not to disclose information obtained by the person in the course of the hearing; or
+
+                     (b)  not to disclose information obtained by the person in the course of the hearing except in the circumstances, or for the purposes, specified in the order.
+
+             (2)  A person who contravenes an order under subsection (1) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
+
+             (3)  Strict liability applies to the element of an offence against subsection (2) that an order is an order under subsection (1).
+
+#### Subdivision D—Other procedural matters
+
+##### <a id="134"></a>134  Adjournment of SSAT hearings
+
+             (1)  The SSAT may adjourn the hearing of a review of a decision from time to time.
+
+             (2)  Without limiting subsection (1), the SSAT may refuse to adjourn the hearing of a review if:
+
+                     (a)  the hearing has already been adjourned on 2 or more occasions; or
+
+                     (b)  the SSAT is satisfied that to grant an adjournment would be inconsistent with the pursuit of the objective laid down by section 110; or
+
+                     (c)  a declaration under section 112 is in force in relation to the decision under review.
+
+##### <a id="135"></a>135  Withdrawal of application for review
+
+             (1)  An applicant for review of a decision may withdraw the application at any time.
+
+             (2)  An applicant may withdraw an application by:
+
+                     (a)  sending by any means, or delivering, written notice of withdrawal of the application to:
+
+                              (i)  an office of the SSAT; or
+
+                             (ii)  an office of the Department; or
+
+                            (iii)  an office of another agency, where the Secretary has approved the office for the purposes of this subparagraph; or
+
+                     (b)  going to an office of the SSAT and orally withdrawing the application; or
+
+                     (c)  contacting an office of the SSAT by telephone and orally withdrawing the application.
+
+             (3)  If a person withdraws an application in accordance with paragraph (2)(b) or (c), the person who receives the oral withdrawal must make a written record of the day on which the withdrawal was made.
+
+             (4)  If a person withdraws an application by sending or delivering written notice of withdrawal to an office of an agency, the head of the agency must send notice of the withdrawal to the Principal Member as soon as practicable and, in any event, not later than 7 days after the notice of withdrawal is received at the office of the agency.
+
+##### <a id="136"></a>136  Dismissal of an application
+
+             (1)  If:
+
+                     (a)  a person makes an application to the SSAT for review of a decision; and
+
+                     (b)  the Principal Member is satisfied:
+
+                              (i)  after having communicated with the person; or
+
+                             (ii)  after having made reasonable attempts to communicate with the person and having failed to do so;
+
+                            that the person does not intend to proceed with the application;
+
+the Principal Member may dismiss the application.
+
+             (2)  If the Principal Member dismisses an application under subsection (1), the application is taken to have been withdrawn at the time at which the application was dismissed.
+
+##### <a id="137"></a>137  Presiding member at SSAT hearing
+
+                   If the SSAT is constituted by 2 or more members for the purposes of the review of a decision, the Principal Member must designate one of those members as the member who is to preside at the hearing of the review.
+
+##### <a id="138"></a>138  Decision of questions before SSAT
+
+          (1A)  This section applies if the SSAT is constituted by 2 or more members for the purposes of the review of a decision.
+
+             (1)  Subject to subsection (2), a question arising before the SSAT on a review is to be decided according to the opinion of a majority of the members constituting the SSAT for the purposes of the review.
+
+             (2)  If, on a question arising on a review, the opinions of the members of the SSAT are equally divided, the question is to be decided according to the opinion of the member presiding.
+
+##### <a id="139"></a>139  Directions as to procedure for hearings
+
+             (1)  The Principal Member:
+
+                     (a)  may give general directions as to the procedure to be followed by the SSAT in connection with the review of decisions under the family assistance law; and
+
+                     (b)  may give directions as to the procedure to be followed by the SSAT in connection with a particular review.
+
+             (2)  A direction under subsection (1) must not be inconsistent with any provision of the family assistance law.
+
+             (3)  A direction under paragraph (1)(b) may be given before or after the hearing of the particular review has commenced.
+
+             (4)  The presiding member of the SSAT as constituted for the purposes of a particular review may give directions as to the procedure to be followed on the hearing of the review.
+
+             (5)  A direction under subsection (4) must not be inconsistent with:
+
+                     (a)  any provision of the family assistance law; or
+
+                     (b)  a direction under subsection (1) of this section.
+
+             (6)  A direction under subsection (4) may be given before or after the hearing of the particular review has commenced.
+
+             (7)  Directions under this section must have due regard to the objective laid down by section 110.
+
+##### <a id="140"></a>140  Costs of review
+
+             (1)  Subject to subsection (4), a party to a review must bear any expenses incurred by the party in connection with the review.
+
+             (2)  The SSAT may determine that the Commonwealth is to pay the reasonable costs that are:
+
+                     (a)  incurred by a party for travel and accommodation in connection with the review; and
+
+                     (b)  specified in the determination.
+
+             (3)  If the SSAT arranges for the provision of a medical service in relation to a party to a review, the SSAT may determine that the Commonwealth is to pay the costs of the provision of the service.
+
+             (4)  If the SSAT makes a determination under subsection (2) or (3), the costs to which the determination relates are payable by the Commonwealth.
+
+#### Subdivision E—Notification of decisions
+
+##### <a id="141"></a>141  Procedure following SSAT decision
+
+SSAT affirms decisions
+
+          (1A)  If the SSAT makes a decision on a review and the decision is of a kind mentioned in paragraph 113(1)(a), the SSAT must:
+
+                     (a)  prepare a written statement (the **_initial statement_**) that sets out the decision of the SSAT on the review; and
+
+                     (b)  give each party to the review a copy of the initial statement within 14 days after making the decision; and
+
+                     (c)  within 14 days after making the decision, either:
+
+                              (i)  give reasons for the decision orally to each party to the review and explain that the party may make a written request for a statement under subparagraph (ii) within 14 days after the copy of the initial statement is given to the party; or
+
+                             (ii)  give each party to the review a written statement (whether or not as part of the initial statement) that sets out the reasons for the decision, sets out the findings on any material questions of fact and refers to evidence or other material on which the findings of fact are based; and
+
+                     (d)  return to the Secretary any document that the Secretary has provided to the SSAT in connection with the review; and
+
+                     (e)  give the Secretary a copy of any other document that contains evidence or material on which the findings of fact are based.
+
+          (1B)  If the SSAT does not give a written statement to a party under subparagraph (1A)(c)(ii), the party may, within 14 days after the copy of the initial statement is given to the party, make a written request of the SSAT for such a statement.
+
+          (1C)  The SSAT must comply with a request under subsection (1B) within 14 days after the day on which it receives the request.
+
+SSAT varies decisions or sets decisions aside
+
+             (1)  If the SSAT makes a decision on a review and the decision is of a kind mentioned in paragraph 113(1)(b) or (c), the SSAT must:
+
+                     (a)  prepare a written statement that:
+
+                              (i)  sets out the decision of the SSAT on the review; and
+
+                             (ii)  sets out the reasons for the decision; and
+
+                            (iii)  sets out the findings on any material questions of fact; and
+
+                            (iv)  refers to evidence or other material on which the findings of fact are based; and
+
+                     (b)  give each party to the review a copy of the statement referred to in paragraph (a) within 14 days after the making of the decision in relation to the review; and
+
+                     (c)  return to the Secretary any document that the Secretary has provided to the SSAT in connection with the review; and
+
+                     (d)  give the Secretary a copy of any document that contains evidence or material on which the findings of fact are based.
+
+Notice of further review right
+
+             (2)  When the SSAT determines a review, the Principal Member must give each party to the review (other than a head of an agency, the Chief Executive Centrelink or the Chief Executive Medicare) a written notice that includes a statement to the effect that, if the party is dissatisfied with the decision of the SSAT, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the AAT for review of the decision.
+
+             (3)  A failure to comply with subsection (2) in relation to a decision of the SSAT does not affect the validity of the decision.
+
+##### <a id="141A"></a>141A  Notice by Secretary of SSAT decision relating to a determination of conditional eligibility for child care benefit by fee reduction etc.
+
+             (1)  This section applies if:
+
+                     (a)  the SSAT makes a decision on a review in respect of an individual claiming child care benefit by fee reduction for care provided by an approved child care service to a child; and
+
+                     (b)  the decision on review is to vary, or set aside and substitute a new decision for one of the following decisions:
+
+                              (i)  a determination of conditional eligibility;
+
+                             (ii)  a weekly limit of hours, CCB % or schooling % applicable to the individual;
+
+                           (iia)  a determination whether the individual is eligible for the special grandparent rate for the child;
+
+                            (iii)  a determination of rate under subsection 81(2) or (3) of the Family Assistance Act; and
+
+                     (c)  on the day that the SSAT decision is made:
+
+                              (i)  the service is still providing care to the child; and
+
+                             (ii)  a determination of conditional eligibility is still in force in respect of the individual with effect that the individual is conditionally eligible.
+
+             (2)  The Secretary:
+
+                     (a)  must give notice of an SSAT decision mentioned in subparagraph (1)(b)(iii) to the service; and
+
+                     (b)  must state in the notice the effect of the decision; and
+
+                     (c)  may give the notice by making it available to the service using an electronic interface.
+
+             (3)  The Secretary may make notice of an SSAT decision mentioned in paragraph (1)(b) (other than subparagraph (1)(b)(iii)) available to the service, including by making the notice available to the service using an electronic interface.
+
+#### Subdivision F—Correction of errors in decisions or statements of reasons
+
+##### <a id="141B"></a>141B  Correction of errors in decisions or statements of reasons
+
+Correction of errors
+
+             (1)  If:
+
+                     (a)  the SSAT makes a decision on a review; and
+
+                     (b)  the presiding member of the SSAT as constituted for the purposes of the review, or the Principal Member, is satisfied that there is an obvious error in:
+
+                              (i)  the text of the decision; or
+
+                             (ii)  a written statement of reasons for the decision;
+
+the presiding member or the Principal Member may alter the text of the decision or statement.
+
+             (2)  If the text of a decision or statement is altered under subsection (1), the altered text is taken to be the decision of the SSAT or the statement of reasons for the decision, as the case may be.
+
+Examples of obvious errors
+
+             (3)  Examples of obvious errors in the text of a decision or statement of reasons are:
+
+                     (a)  an obvious clerical or typographical error in the text of the decision or statement; and
+
+                     (b)  an inconsistency between the decision and the statement.
+
+### Division 4—Review by the Administrative Appeals Tribunal
+
+#### Subdivision A—Right to review by AAT
+
+##### <a id="142"></a>142  Review of decisions by AAT
+
+             (1)  If:
+
+                     (a)  a decision has been reviewed by the SSAT; and
+
+                     (b)  the decision has been affirmed, varied or set aside by the SSAT;
+
+the Secretary or a person affected by the decision made by the SSAT may apply to the AAT for review of that decision.
+
+Note:          If an application is made under this section for review of a decision about a person’s entitlement to child care benefit, and a decision has also been made about the person’s entitlement to child care rebate, that decision about rebate may be automatically reviewed: see Division 5.
+
+             (2)  For the purposes of subsection (1), the decision made by the SSAT is taken to be:
+
+                     (a)  where the SSAT affirms a decision—that decision as affirmed; and
+
+                     (b)  where the SSAT varies a decision—that decision as varied; and
+
+                     (c)  where the SSAT sets a decision aside and substitutes a new decision—the new decision; and
+
+                     (d)  where the SSAT sets a decision aside and sends the matter back to the Secretary for reconsideration in accordance with any directions or recommendations of the SSAT—the directions or recommendations of the SSAT.
+
+             (3)  Subsection (1) has effect subject to section 29 of the _Administrative Appeals Tribunal Act 1975_.
+
+             (4)  If:
+
+                     (a)  the AAT sets aside a decision of the SSAT that it reviews under this section; and
+
+                     (b)  the Secretary is satisfied that an event that did not occur would have occurred if the decision had not been made;
+
+the Secretary may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
+
+             (5)  If:
+
+                     (a)  the decision reviewed by the SSAT is a care percentage decision; and
+
+                     (b)  a review of a decision carried out by the AAT under the _Administrative Appeals Tribunal Act 1975_ has involved (wholly or partly) a review of the determination to which the care percentage decision relates;
+
+then, despite section 43 of that Act, the AAT must not vary the decision made by the SSAT, or set that decision aside and substitute a new decision, in a way that has the effect of varying the determination or substituting a new determination.
+
+##### <a id="143"></a>143  Variation of decision under section 142 before AAT review completed
+
+             (1)  If an officer varies a decision after an application has been made under section 142 to the AAT for review of that decision but before the determination of the application, the application is to be treated as if:
+
+                     (a)  the decision as varied had been affirmed by the SSAT; and
+
+                     (b)  the application were an application for review of the decision as varied.
+
+             (2)  If an officer sets a decision aside and substitutes a new decision after an application has been made under section 142 to the AAT for review of the original decision but before the determination of the application, the application is to be treated as if:
+
+                     (a)  the SSAT had set aside the original decision and substituted the new decision; and
+
+                     (b)  the application were an application for review of the new decision.
+
+             (3)  If:
+
+                     (a)  a person applies to the AAT for review of a decision under section 142; and
+
+                     (b)  before determination of the review, an officer varies the decision or sets the decision aside and substitutes a new decision;
+
+the applicant may, instead of proceeding with the application under subsection (1) or (2), withdraw the application.
+
+##### <a id="144"></a>144  Review by AAT of other decisions
+
+          (1A)  If:
+
+                     (a)  a decision of a kind mentioned in subsection (1) (decisions in relation to child care services and registered carers) has been reviewed under section 109A; and
+
+                     (b)  the decision has been affirmed, varied or set aside and substituted by the Secretary or an authorised review officer under subsection 109A(2);
+
+application may also be made to the AAT for the review of the decision.
+
+          (1B)  For the purposes of subsection (1A), the decision made by the Secretary or authorised review officer is taken to be:
+
+                     (a)  where the Secretary or authorised review officer affirms a decision—that decision as affirmed; and
+
+                     (b)  where the Secretary or authorised review officer varies a decision—that decision as varied; and
+
+                     (c)  where the Secretary or authorised review officer sets a decision aside and substitutes a new decision—the new decision.
+
+          (1C)  If a decision of a kind mentioned in subsection (1) (decisions in relation to child care services and registered carers) has been made by:
+
+                     (a)  the Secretary personally; or
+
+                     (b)  another agency head himself or herself in the exercise of a delegated power; or
+
+                     (c)  the Chief Executive Centrelink in the exercise of a delegated power; or
+
+                     (d)  the Chief Executive Medicare in the exercise of a delegated power;
+
+application may also be made to the AAT for the review of the decision.
+
+             (1)  Each of the following is a decision in relation to which an application may be made under subsection (1A) or (1C):
+
+                     (a)  a decision under section 195 not to approve a child care service for the purposes of the family assistance law or to approve the service from a particular day;
+
+                     (b)  a decision under subsection 199(2) to impose another condition for the continued approval of an approved child care service;
+
+                     (c)  a decision under subsection 200(1) to do one or more of the things mentioned in paragraphs (a) to (h) of that subsection in relation to an approved child care service;
+
+                     (d)  a decision under subsection 200(3) to revoke the suspension of the approval of an approved child care service from a particular day;
+
+                   (da)  a decision under subsection 201A(1) to suspend the approval of an approved child care service from a particular day;
+
+                   (db)  a decision under subsection 201A(3) to revoke the suspension of the approval of an approved child care service from a particular day;
+
+                     (e)  a decision under subsection 202(2) not to cancel an approved child care service’s approval;
+
+                      (f)  a decision under subsection 202(3) to cancel an approved child care service’s approval;
+
+                     (g)  a decision under subsection 202(4) to cancel an approved child care service’s approval, but only if the service made submissions under paragraph 203(1)(e) in relation to the cancellation;
+
+                     (h)  a decision under paragraph 205(3)(a) not to exempt a specified child care service from a specified eligibility rule;
+
+                      (i)  a decision under section 207 to:
+
+                              (i)  refuse to allocate any child care places to an approved child care service; or
+
+                             (ii)  refuse to allocate the number of child care places an approved child care service has applied for under that section;
+
+                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
+
+                    (ia)  a decision under section 207A to reduce the number of child care places allocated to an approved child care service;
+
+                      (j)  a decision under subsection 210(1) not to approve an individual as a registered carer for the purposes of the family assistance law;
+
+                     (k)  a decision under subsection 212(1) as to when the approval of an applicant as a registered carer is taken to have come into force;
+
+                      (l)  a decision under subsection 212(3) as to when the approval of an applicant as a registered carer is taken not to have been in force;
+
+                    (m)  a decision under subsection 213(2) to impose another condition for the continued approval of an individual as a registered carer;
+
+                     (n)  a decision under subsection 214(1) to do one or more of the things mentioned in paragraphs (a) to (d) of that subsection in relation to a registered carer;
+
+                     (o)  a decision under subsection 216(3) to cancel a registered carer’s approval;
+
+                   (oa)  a decision under subsection 219TSQ(1) to suspend an approved child care service’s approval;
+
+                   (ob)  a decision under subsection 219TSQ(3) to revoke the suspension of the approval of an approved child care service from a particular day;
+
+                     (p)  a decision under subsection 57(1) of the Family Assistance Act.
+
+             (2)  Subsection (1) has effect subject to section 29 of the _Administrative Appeals Tribunal Act 1975_.
+
+             (3)  If:
+
+                     (a)  the AAT sets aside a decision that it reviews under this section; and
+
+                     (b)  the Secretary is satisfied that an event that did not occur would have occurred if the decision had not been made;
+
+the Secretary may, if satisfied that it is reasonable to do so, deem the event to have occurred for the purposes of the family assistance law.
+
+##### <a id="145"></a>145  Variation of decision under section 144 before AAT review completed
+
+             (1)  If an officer varies a decision after an application has been made under section 144 to the AAT for review of that decision but before the determination of the application, the application is to be treated as if the application were an application for review of the decision as varied.
+
+             (2)  If an officer sets a decision aside and substitutes a new decision after an application has been made under section 144 to the AAT for review of the original decision but before the determination of the application, the application is to be treated as if the application were an application for review of the new decision.
+
+             (3)  If:
+
+                     (a)  a person applies to the AAT for review of a decision under section 144; and
+
+                     (b)  before determination of the review, an officer varies the decision or sets the decision aside and substitutes a new decision;
+
+the applicant may, instead of proceeding with the application under subsection (1) or (2), withdraw the application.
+
+##### <a id="146"></a>146  Settlement of proceedings before the AAT
+
+             (1)  The Secretary may agree with other parties to proceedings before the AAT that relate to the recovery of a debt that the proceedings be settled. The agreement must be in writing.
+
+             (2)  If proceedings are settled and the Secretary gives the AAT a copy of the agreement to settle the proceedings, the application for review of the decision the subject of the proceedings is taken to have been dismissed.
+
+#### Subdivision B—Modification of Administrative Appeals Tribunal Act in relation to section 142 review applications
+
+##### <a id="147"></a>147  Notice of application for review
+
+                   The AAT Act applies to an application under section 142 for review of a decision as if the reference in subsection 29(11) of the AAT Act to the person who made the decision were a reference to each person who was a party to the review of the decision by the SSAT (other than the party who made the application under section 142).
+
+##### <a id="148"></a>148  Parties to a review by the AAT
+
+                   The AAT Act applies to an application under section 142 for review as if the reference in paragraph 30(1)(b) of the AAT Act to the person who made the decision were a reference to each party to the review of the decision by the SSAT.
+
+##### <a id="149"></a>149  Lodgment of documents with the AAT
+
+             (1)  The AAT Act applies to an application under section 142 for review as if references in section 37 of the AAT Act to the person who made the decision the subject of the application were references to the officer who made the decision that was reviewed by the SSAT.
+
+             (2)  If a person applies to the AAT under section 142 of this Act for review of a decision, the Secretary is taken to have complied with the Secretary’s obligations under paragraph 37(1)(a) of the AAT Act in relation to the decision if the Secretary gives the AAT the prescribed number of copies of the statement prepared by the SSAT under paragraph 141(1)(a) of this Act.
+
+             (3)  Subsection (2) does not limit the powers of the AAT under section 38 of the AAT Act.
+
+##### <a id="150"></a>150  Power of AAT to obtain additional information
+
+                   The AAT Act applies to an application under section 142 for review as if references in section 38 of the AAT Act to the person who lodges a statement referred to in paragraph 37(1)(a) of that Act with the AAT were references to the Principal Member.
+
+##### <a id="151"></a>151  Operation and implementation of the decision under review
+
+             (1)  The AAT Act applies to an application under section 142 for review of a decision as if references in subsection 41(4) of the AAT Act to the person who made the decision were references to each party to the review by the SSAT.
+
+             (2)  The AAT Act applies to an application under section 142 for review of a decision as if references in section 41 of the AAT Act to the decision to which the relevant proceeding relates were references to:
+
+                     (a)  if the SSAT affirmed the original decision—the original decision; or
+
+                     (b)  if the SSAT varied the original decision:
+
+                              (i)  the original decision as varied by the SSAT; and
+
+                             (ii)  the original decision; or
+
+                     (c)  if the SSAT set aside the original decision and substituted a new decision:
+
+                              (i)  the new decision; and
+
+                             (ii)   the original decision; or
+
+                     (d)  if the SSAT set aside the original decision and sent the matter back to the Secretary for reconsideration in accordance with any directions or recommendations of the SSAT:
+
+                              (i)  any decision made as a result of that reconsideration; and
+
+                             (ii)  the original decision.
+
+             (3)  For the purposes of subsection (2), the original decision is the decision that was reviewed by the SSAT.
+
+##### <a id="152"></a>152  Failure of party to appear
+
+                   The AAT Act applies to the review of a decision on an application under section 142 as if the reference in subsection 42A(2) of the AAT Act to the person who made the decision were a reference to the Secretary.
+
+### Division 5—Automatic review of child care rebate decisions
+
+##### <a id="152A"></a>152A  Decisions relating to entitlement to child care benefit by fee reduction or for past period
+
+                   If:
+
+                     (a)  an application (the **_original application_**) has been made under section 109A, 111 or 142 for review of a decision (the **_CCB decision_**) relating to an individual’s entitlement to child care benefit; and
+
+                     (b)  the CCB decision was in respect of one or more sessions of care provided by an approved child care service to a child during a period in an income year; and
+
+                     (c)  a decision (the **_CCR decision_**) has been made under section 65EA, 65EB or 65EC in relation to the individual’s entitlement to child care rebate in respect of the child and the period; and
+
+                     (d)  the result of the review varies or sets aside the CCB decision (whether or not it also substitutes a new decision);
+
+this Act has effect as if the original application included an application for review of the CCR decision.
+
+##### <a id="152B"></a>152B  Decisions relating to entitlement to child care benefit by single payment/in substitution
+
+                   If:
+
+                     (a)  an application (the **_original application_**) has been made under section 109A, 111 or 142 for review of a decision (the **_CCB decision_**) relating to an individual’s entitlement to child care benefit by single payment/in substitution; and
+
+                     (b)  the CCB decision was in respect of one or more sessions of care provided by an approved child care service to a child during a period; and
+
+                     (c)  a decision (the **_CCR decision_**) has been made under section 65ECA in relation to the individual’s entitlement to child care rebate in respect of the child and the period; and
+
+                     (d)  the result of the review varies or sets aside the CCB decision (whether or not it also substitutes a new decision);
+
+this Act has effect as if the original application included an application for review of the CCR decision.
+
+### Division 6—Date of effect of reviews under the child support law
+
+##### <a id="152C"></a>152C  Date of effect of decisions on objections under the child support law that apply for family assistance purposes
+
+             (1)  This section applies if:
+
+                     (a)  a person lodges, under section 80A of the _Child Support (Registration and Collection) Act 1988_, an objection to a care percentage decision (within the meaning of that Act); and
+
+                     (b)  the consideration of the objection under that Act involves (wholly or partly) a consideration of a determination that:
+
+                              (i)  was made under a provision of Subdivision B of Division 4 of Part 5 of the _Child Support (Assessment) Act 1989_; or
+
+                             (ii)  has effect, under section 54K of the _Child Support (Assessment) Act 1989_, as if it were a determination made under such a provision; and
+
+                     (c)  the objection was lodged more than 52 weeks after notice of the care percentage decision referred to in paragraph (a) of this subsection was given; and
+
+                     (d)  the decision (the **_review decision_**) on the objection has the effect of varying the determination or substituting a new determination; and
+
+                     (e)  the determination as varied or substituted has effect, under sections 35T and 35U of the Family Assistance Act, as if it were a determination made under Subdivision D of Division 1 of Part 3 of that Act.
+
+             (2)  The date of effect of the review decision, to the extent that it has the effect referred to in paragraph (1)(d), is:
+
+                     (a)  unless paragraph (b) of this subsection applies—the date that would give full effect to the review decision; or
+
+                     (b)  if the date referred to in paragraph (a) of this subsection is earlier than the first day of the income year before the income year in which the objection was lodged—that first day.
+
+             (3)  If the Secretary is satisfied that there are special circumstances that prevented the objection from being lodged within the period referred to in paragraph (1)(c), the Secretary may determine that subsection (1) applies as if the reference to 52 weeks in that paragraph were a reference to such longer period as the Secretary determines to be appropriate.
+
+##### <a id="152D"></a>152D  Date of effect of SSAT reviews under the child support law that apply for family assistance purposes
+
+             (1)  This section applies if:
+
+                     (a)  a person applies to the SSAT, under section 89 of the _Child Support (Registration and Collection) Act 1988_, for review of a decision (the **_original decision_**); and
+
+                     (b)  the review of the original decision involves (wholly or partly) a review of a determination that:
+
+                              (i)  was made under a provision of Subdivision B of Division 4 of Part 5 of the _Child Support (Assessment) Act 1989_; or
+
+                             (ii)  has effect, under section 54K of the _Child Support (Assessment) Act 1989_, as if it were a determination made under such a provision; and
+
+                     (c)  the application for review of the original decision was made more than 13 weeks after notice of the original decision was given; and
+
+                     (d)  the decision (the **_review decision_**) on the review has the effect of varying the determination or substituting a new determination; and
+
+                     (e)  the determination as varied or substituted has effect, under sections 35T and 35U of the Family Assistance Act, as if it were a determination made under Subdivision D of Division 1 of Part 3 of that Act.
+
+             (2)  The date of effect of the review decision, to the extent that it has the effect referred to in paragraph (1)(d), is:
+
+                     (a)  unless paragraph (b) of this subsection applies—the date that would give full effect to the review decision; or
+
+                     (b)  if the date referred to in paragraph (a) of this subsection is earlier than the first day of the income year before the income year in which the application for review was made—that first day.
+
+             (3)  If the Secretary is satisfied that there are special circumstances that prevented the application for review from being made within the period referred to in paragraph (1)(c), the Secretary may determine that subsection (1) applies as if the reference to 13 weeks in that paragraph were a reference to such longer period as the Secretary determines to be appropriate.
+
+## Part 6—Provisions relating to information
+
+### Division 1—Information gathering
+
+##### <a id="153"></a>153  Application of Division
+
+             (1)  This Division:
+
+                     (a)  binds the Crown in all its capacities; and
+
+                     (b)  extends to:
+
+                              (i)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                             (ii)  all persons, irrespective of their nationality or citizenship.
+
+             (2)  This Division does not require a person to give information or produce a document or records to the extent that in doing so the person would contravene a law of the Commonwealth (other than a law of a Territory).
+
+             (3)  This Division does not make the Crown liable to be prosecuted for an offence.
+
+##### <a id="154"></a>154  General power to obtain information
+
+             (1)  The Secretary may require a person to give information, or produce a document that is in the person’s custody or under the person’s control, to a specified agency if the Secretary considers that the information or document may be relevant to either or both of the following matters:
+
+                     (a)  whether the person, or any other person, whom the Secretary has determined to be entitled to be paid family assistance is or was eligible for the family assistance, or for family assistance of the amount determined;
+
+                     (b)  whether the person or any other person to whom a payment of family assistance has been made was entitled to the payment.
+
+             (2)  The Secretary may require a person to:
+
+                     (a)  give information; or
+
+                     (b)  produce a document that is in the person’s custody or under the person’s control;
+
+to a specified agency if the Secretary considers that the information or document may be relevant to either or both of the following matters:
+
+                     (c)  whether a person who has claimed family assistance (other than an individual who has claimed child care benefit by fee reduction), but who has not had the claim determined, is eligible for family assistance;
+
+                     (d)  the amount of child care benefit that a person is eligible for.
+
+             (3)  The Secretary may require a person to:
+
+                     (a)  give information; or
+
+                     (b)  produce a document that is in the person’s custody or under the person’s control;
+
+to a specified agency if the Secretary considers that the information or document may be relevant to either or both of the following matters:
+
+                     (c)  whether an individual who has claimed payment of child care benefit by fee reduction is conditionally eligible;
+
+                     (d)  if a determination were to be, or has been, made that the individual is so conditionally eligible:
+
+                              (i)  what weekly limit of hours, CCB % or schooling % would be, or is, applicable to the individual; or
+
+                             (ii)  whether the individual would be, or is, eligible for the special grandparent rate for a child.
+
+             (4)  The Secretary may require a person to:
+
+                     (a)  give information; or
+
+                     (b)  produce a document that is in the person’s custody or under the person’s control;
+
+to a specified agency if the Secretary considers that the information or document may be relevant to either or both of the following matters:
+
+                     (c)  what rate of child care benefit;
+
+                     (d)  what weekly limit of hours;
+
+is applicable under determinations made by the Secretary in respect of an approved child care service that is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for care provided to a child at risk.
+
+          (4A)  The Secretary may require a person to:
+
+                     (a)  give information; or
+
+                     (b)  produce a document that is in the person’s custody or under the person’s control;
+
+to a specified agency if the Secretary considers that the information or document may be relevant to either or both of the following matters:
+
+                     (c)  whether an individual is eligible under subsection 57EAA(1), 57EA(1), 57F(1) or 57F(1A) of the Family Assistance Act for child care rebate;
+
+                     (d)  the amount of child care rebate:
+
+                              (i)  applicable to an individual under Subdivision AAB or Subdivision AA of Division 4AA of Part 3; or
+
+                             (ii)  to which an individual is entitled.
+
+             (5)  The Secretary may require a person to give information, or produce a document that is in the person’s custody or under the person’s control, to a specified agency if the Secretary considers that the information or document may be relevant to:
+
+                     (a)  an application by the person, or any other person, for approval of a child care service for the purposes of the family assistance law; or
+
+                     (b)  the question whether an approved child care service operated by the person, or by any other person, should continue to be approved; or
+
+                     (c)  an application by the person, or any other person, for approval as a registered carer; or
+
+                     (d)  the question whether the person, or any other person, should continue to be approved as a registered carer; or
+
+                     (e)  the records that a person is required to keep under section 219G.
+
+          (5A)  The Secretary may require a person who is required to keep records under section 219G to produce to a specified agency such of those records as are specified in the notice given to the person under section 158.
+
+             (6)  The Secretary may require a person to give information, or produce a document that is in the person’s custody or under the person’s control, to a specified agency if the Secretary considers that the information or document may be relevant to the question whether, for the purposes of an application for a determination under subsection 57(1) of the Family Assistance Act, the service is the sole provider in an area of the kind of care the service provides.
+
+##### <a id="154A"></a>154A  Getting details of adjusted taxable income
+
+             (1)  This section applies to the tax file number of an individual that is provided to the Secretary:
+
+                     (a)  by the individual; or
+
+                     (b)  by the partner of the individual; or
+
+                     (c)  by the Commissioner of Taxation on the authority of the individual;
+
+under a provision of this Act for the purposes of this Act.
+
+             (2)  The Secretary may provide to the Commissioner of Taxation a record (the **_designated TFN record_**) of an individual’s tax file number for the purpose of being informed by the Commissioner of amounts included in the individual’s adjusted taxable income for a specified income year.
+
+Note:          The tax file number must first have been provided to the Secretary as described in subsection (1).
+
+             (3)  The Secretary may later give written notice to the Commissioner that the Secretary understands that the individual is not required to lodge an income tax return for that income year.
+
+             (4)  A notice under subsection (3) may include a record of the individual’s tax file number. The Commissioner must destroy that record when it is no longer needed for the purpose of the notice.
+
+             (5)  If the Commissioner works out amounts included in the individual’s adjusted taxable income for that income year, the Commissioner may disclose to the Secretary:
+
+                     (a)  particulars of those amounts; and
+
+                     (b)  the individual’s tax file number.
+
+             (6)  The Commissioner must destroy the designated TFN record 3 years after the end of that income year, unless during those 3 years:
+
+                     (a)  the Commissioner has not disclosed particulars of the individual’s adjusted taxable income for that income year under subsection (5); and
+
+                     (b)  the Commissioner has not received a notice under subsection (3) that the Secretary understands that the individual is not required to lodge an income tax return for that income year.
+
+             (7)  If the Commissioner is not required to destroy the designated TFN record under subsection (6), the Commissioner must do so if and when the Commissioner later:
+
+                     (a)  discloses particulars of the individual’s adjusted taxable income for that income year under subsection (5); or
+
+                     (b)  receives a notice under subsection (3) that the Secretary understands that the individual is not required to lodge an income tax return for that income year.
+
+             (8)  If the tax file number of an individual, or of the partner of an individual, is provided to the Secretary under Division 4E of Part 3, this section applies as if a reference to the amounts included in the individual’s adjusted taxable income were a reference to the individual’s taxable income or the individual’s partner’s taxable income (as the case requires).
+
+##### <a id="154B"></a>154B  Providing information to assist debt recovery
+
+             (1)  The Secretary may provide to the Commissioner of Taxation:
+
+                     (a)  a record of an individual’s tax file number to which subsection 154A(1) applies; and
+
+                     (b)  details relating to an individual’s entitlement, or non‑entitlement, to family assistance;
+
+for one of the purposes mentioned in subsection (2).
+
+             (2)  The purposes are as follows:
+
+                     (a)  to assist the Commissioner act under section 87 (applying tax refund to family assistance debt) in relation to a debt owed by an individual;
+
+                     (b)  to assist the Commissioner act under section 93 (applying tax refund to another person’s family assistance debt) in relation to a debt owed by an individual;
+
+                     (c)  to assist the payment of deductions to the Commissioner under section 225;
+
+                     (d)  if details relating to an individual’s entitlement to an amount of family assistance (other than child care benefit) are provided under paragraph (1)(b)—to assist the Commissioner set off under section 226 the whole or a part of that entitlement.
+
+             (3)  The Commissioner must destroy the Commissioner’s record of the tax file number provided under subsection (1) when the number is no longer needed for the purpose for which it was provided.
+
+##### <a id="155"></a>155  Power to obtain information from a person who owes a debt to the Commonwealth
+
+                   The Secretary may require a person who owes a debt to the Commonwealth under or as a result of this Act:
+
+                     (a)  to give to a specified agency information that is relevant to the person’s financial situation; or
+
+                     (b)  to produce to a specified agency a document that is in the person’s custody or under the person’s control and is relevant to the person’s financial situation; or
+
+                     (c)  if the person’s address changes—to inform a specified agency of the new address within 14 days after the change.
+
+##### <a id="156"></a>156  Obtaining information about a person who owes a debt to the Commonwealth
+
+                   If the Secretary believes that a person may have information or a document:
+
+                     (a)  that would help the Secretary locate another person (the **_debtor_**) who owes a debt to the Commonwealth under or as a result of this Act; or
+
+                     (b)  that is relevant to the debtor’s financial situation;
+
+the Secretary may require the person to give the information, or produce the document, to a specified agency.
+
+##### <a id="157"></a>157  Obtaining information to verify claims etc.
+
+             (1)  The Secretary may require a person to give information about a class of persons, to a specified agency for either or both of the following purposes:
+
+                     (a)  to detect cases in which amounts of family assistance have been paid to persons not entitled to them;
+
+                     (b)  to verify the eligibility, conditional eligibility or the applicable weekly limit of hours of persons who have made claims for family assistance.
+
+             (2)  The information that the Secretary may require about each person in the class of persons is all or any of the following information (but no other information):
+
+                     (a)  full name and any previous name;
+
+                     (b)  address;
+
+                     (c)  sex;
+
+                     (d)  marital status;
+
+                     (e)  date of birth;
+
+                      (f)  date of death;
+
+                     (g)  dates of entries into and departures from Australia;
+
+                     (h)  any payments received by the person from the person given the notice, within the period of 52 weeks before the giving of the notice, and the account number of the account into which any of those payments was paid;
+
+                      (i)  in relation to a course of study being undertaken by the person:
+
+                              (i)  the name of the educational institution that the person is attending;
+
+                             (ii)  the name of any educational institution previously attended by the person;
+
+                            (iii)  the person’s enrolment status;
+
+                            (iv)  the person’s student identification number;
+
+                             (v)  the name of the course;
+
+                            (vi)  the course code;
+
+                           (vii)  the date on which the course started or starts;
+
+                          (viii)  the date on which the course ends;
+
+                            (ix)  the subject or unit code;
+
+                             (x)  the normal full‑time study workload for the course;
+
+                            (xi)  indicators of the person’s workload, including (but not limited to) effective full‑time student units, credit points, contact hours, number of subjects undertaken and number of assignments completed;
+
+                           (xii)  the number of semesters required to complete the course;
+
+                          (xiii)  the date on which the person first attended, or will first attend, the course;
+
+                          (xiv)  the date on which the person last attended, or will last attend, the course;
+
+                           (xv)  whether the person has discontinued the course and, if the person has discontinued the course, the date on which it happened;
+
+                          (xvi)  details of any unapproved absences from the course;
+
+                         (xvii)  the results or grade obtained by the person;
+
+                      (j)  in relation to any employment of the person by the person given the notice:
+
+                              (i)  the date on which the person’s employment started; and
+
+                             (ii)  the date on which the person’s employment ended; and
+
+                            (iii)  the number of hours each week for which the person is employed;
+
+                     (k)  in relation to any other work (other than as an employee) that the person does for the person given the notice and that is a recognised work or work related commitment for the purposes of the work/training/study test:
+
+                              (i)  the date on which the person’s work started;
+
+                             (ii)  the date on which the person’s work ended;
+
+                            (iii)  the number of hours each week for which the person does the work;
+
+                      (l)  in relation to any training of the person by the person given the notice:
+
+                              (i)  the name of the entity providing the training;
+
+                             (ii)  if the person is undertaking a training course—the name of the training course;
+
+                            (iii)  the period required to complete the training;
+
+                            (iv)  the date on which the person’s training started;
+
+                             (v)  the date on which the person’s training ended;
+
+                            (vi)  the number of hours each week for which the person engages in the training.
+
+             (3)  The Secretary may require information about a particular class of persons, whether or not the Secretary is able to identify any of the persons in that class as being persons:
+
+                     (a)  who have been paid family assistance; or
+
+                     (b)  who are entitled to family assistance; or
+
+                     (c)  who have made claims for family assistance; or
+
+                     (d)  in respect of whom determinations of conditional eligibility for child care benefit by fee reduction are in force.
+
+             (4)  Within 13 weeks after information is given in response to a requirement under subsection (1), the Secretary must decide which (if any) of the information is, or is likely to be, relevant to a matter referred to in subsection (1).
+
+             (5)  If the Secretary decides, within the 13 week period, that some or all of the information given in response to the requirement is not, or is not likely to be, relevant to a matter referred to in subsection (1), the Secretary must ensure that any record of the irrelevant information is destroyed.
+
+             (6)  If the Secretary has not made a decision under subsection (4) at the end of the 13 week period, the Secretary must ensure that any record of all or any part of the information is destroyed.
+
+##### <a id="158"></a>158  Written notice of requirement
+
+             (1)  A requirement under this Division must be made by written notice given to the person of whom the requirement is made.
+
+             (2)  The notice:
+
+                     (a)  may be given personally or by post or in any other manner approved by the Secretary; and
+
+                     (b)  must specify:
+
+                              (i)  how the person is to give the information or produce the document or records to which the requirement relates; and
+
+                             (ii)  the period within which the person is to give the information or produce the document or records; and
+
+                            (iii)  the officer (if any) to whom the information is to be given, the document is to be produced or the records are to be produced; and
+
+                            (iv)  that the notice is given under this section.
+
+             (3)  The period specified under paragraph (2)(b) must not end earlier than 14 days after the notice is given.
+
+             (4)  The notice may require the person to give the information by appearing before a specified officer to answer questions.
+
+             (5)  If the notice requires the person so to appear, the notice must specify a time and place at which the person is to appear. The time must be at least 14 days after the notice is given.
+
+##### <a id="159"></a>159  Offence: failure to comply with requirement
+
+             (1)  A person must not refuse or fail to comply with a requirement under this Division to give information or produce a document or records.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (2)  Subsection (1) applies only to the extent to which the person is capable of complying with the requirement.
+
+             (3)  Subsection (1) does not apply if the person has a reasonable excuse.
+
+             (4)  Strict liability applies to the element of an offence against subsection (1) that a requirement is a requirement under this Division.
+
+##### <a id="159A"></a>159A  Requesting information for the purposes of a care percentage determination under the child support law
+
+                   The Secretary may request a person:
+
+                     (a)  to give information; or
+
+                     (b)  to produce a document that is in the person’s custody or under the person’s control;
+
+to a specified agency if the Secretary considers that the information or document may be relevant to the making or revoking of a determination under Subdivision B or C of Division 4 of Part 5 of the _Child Support (Assessment) Act 1989_.
+
+##### <a id="160"></a>160  Obligations not affected by State or Territory laws
+
+                   Nothing contained in a law of a State or a Territory operates to prevent a person from:
+
+                     (a)  giving information; or
+
+                     (b)  producing a document or records; or
+
+                     (c)  giving evidence;
+
+that the person is required to give or produce to an agency for the purposes of the family assistance law.
+
+### Division 2—Confidentiality
+
+##### <a id="161"></a>161  Operation of Division
+
+Commonwealth laws
+
+             (1)  Nothing in this Division prevents a person from disclosing information to another person if the information is disclosed for the purposes of:
+
+                     (a)  the _Child Support (Assessment) Act 1989_; or
+
+                     (b)  the _Child Support (Registration and Collection) Act 1988_.
+
+State and Territory laws
+
+          (1A)  Nothing in this Division prevents a person from disclosing information to another person if the information is disclosed for the purposes of:
+
+                     (a)  the Education and Care Services National Law applying as a law of a State or Territory; or
+
+                     (b)  a law of a State or Territory that applies the Education and Care Services National Law as a law of that State or Territory (whether or not that law has commenced); or
+
+                     (c)  regulations made under the Education and Care Services National Law; or
+
+                     (d)  a law of a State or Territory that substantially corresponds to the provisions of the Education and Care Services National Law (whether or not that law has commenced); or
+
+                     (e)  regulations made under a law referred to in paragraph (d).
+
+          (1B)  In subsection (1A):
+
+                    <a name="educ-care-servic-nation-law"></a>**_Education and Care Services National Law_** means the Education and Care Services National Law set out in the Schedule to the _Education and Care Services National Law Act 2010_ of Victoria.
+
+No effect on operation of the Freedom of Information Act 1982
+
+             (2)  The provisions of this Division that relate to the disclosure of information do not affect the operation of the _Freedom of Information Act 1982_.
+
+##### <a id="162"></a>162  Protection of personal information
+
+             (1)  A person may obtain protected information if the information is obtained for the purposes of:
+
+                     (a)  the family assistance law; or
+
+                    (aa)  the _Dental Benefits Act 2008_; or
+
+                     (b)  the Family Homelessness Prevention and Early Intervention Pilot; or
+
+                     (c)  the Child Care Management System Pilot.
+
+             (2)  A person may:
+
+                     (a)  make a record of protected information; or
+
+                     (b)  disclose such information to any person; or
+
+                     (c)  otherwise use such information;
+
+if the record, disclosure or use made of the information by the person is made:
+
+                     (d)  for the purposes of the family assistance law; or
+
+                  (daa)  for the purposes of the _Dental Benefits Act 2008_; or
+
+                 (dab)  for the purposes of the social security law; or
+
+                  (dac)  for the purposes of the _Paid Parental Leave Act 2010_; or
+
+                 (dad)  for the purposes of the _Student Assistance Act 1973_; or
+
+                   (da)  for the purpose of the Family Homelessness Prevention and Early Intervention Pilot; or
+
+                   (db)  for the purpose of the Child Care Management System Pilot; or
+
+                     (e)  for the purpose for which the information was disclosed to the person under section 167 or 168; or
+
+                      (f)  with the express or implied authorisation of the person to whom the information relates.
+
+             (3)  The Minister may, by legislative instrument, specify additional purposes relating to other programs administered by the Department for which protected information may be obtained under subsection (1), or recorded, disclosed or otherwise used under subsection (2).
+
+             (5)  An instrument under subsection (3) does not take effect until the end of the period in which it could be disallowed in either House of the Parliament.
+
+##### <a id="163"></a>163  Offence: unauthorised access to protected information
+
+             (1)  If:
+
+                     (a)  a person intentionally obtains information; and
+
+                     (b)  the person is not authorised under the family assistance law to obtain the information; and
+
+                     (c)  the person knows or ought reasonably to know that the information is protected information;
+
+the person is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
+
+             (2)  Strict liability applies to the element of an offence against subsection (1) that a person not authorised to do something is not authorised under the family assistance law to do that thing.
+
+##### <a id="164"></a>164  Offence: unauthorised use of protected information
+
+             (1)  If:
+
+                     (a)  a person intentionally:
+
+                              (i)  makes a record of; or
+
+                             (ii)  discloses to any other person; or
+
+                            (iii)  otherwise makes use of;
+
+                            information; and
+
+                     (b)  the person is not authorised or required under:
+
+                              (i)  the family assistance law; or
+
+                             (ii)  the _Social Security Act 1991_; or
+
+                            (iii)  the _Social Security (Administration) Act 1999_;
+
+                            to make the record, disclosure or use of the information that is made by the person; and
+
+                     (c)  the person knows or ought reasonably to know that the information is protected information;
+
+the person is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
+
+             (2)  Strict liability applies to the element of an offence against subsection (1) that a person not authorised or required to do something is not authorised or required to do that thing under:
+
+                     (a)  the family assistance law; or
+
+                     (b)  the _Social Security Act 1991_; or
+
+                     (c)  the _Social Security (Administration) Act 1999_.
+
+##### <a id="165"></a>165  Offence: soliciting disclosure of protected information
+
+             (1)  If:
+
+                     (a)  a person (the **_first person_**) solicits the disclosure of protected information from an officer or another person; and
+
+                     (b)  the disclosure would be in contravention of this Division; and
+
+                     (c)  the first person knows or ought reasonably to know that the information is protected information;
+
+the first person is guilty of an offence (whether or not any protected information is actually disclosed) punishable on conviction by imprisonment for a term not exceeding 2 years.
+
+             (2)  Strict liability applies to paragraph (1)(b).
+
+##### <a id="166"></a>166  Offence: offering to supply protected information
+
+             (1)  A person must not offer to supply (whether to a particular person or otherwise) information about another person, knowing the information to be protected information.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (2)  A person must not hold himself or herself out as being able to supply (whether to a particular person or otherwise) information about another person, knowing the information to be protected information.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (3)  Nothing in subsection (1) or (2) makes an officer acting in the performance or exercise of his or her powers, duties or functions under the family assistance law guilty of an offence.
+
+##### <a id="167"></a>167  Protection of certain documents etc. from production to court etc.
+
+                   An officer must not, except for the purposes of the family assistance law, be required:
+
+                     (a)  to produce any document in his or her possession; or
+
+                     (b)  to disclose any matter or thing of which he or she had notice;
+
+because of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law, to:
+
+                     (c)  a court; or
+
+                     (d)  a tribunal; or
+
+                     (e)  an authority; or
+
+                      (f)  a person;
+
+having power to require the production of documents or the answering of questions.
+
+##### <a id="168"></a>168  Disclosure of information by Secretary
+
+             (1)  Despite sections 164 and 167, the Secretary may:
+
+                     (a)  if the Secretary certifies that it is necessary in the public interest to do so in a particular case or class of cases—disclose information acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law to such persons and for such purposes as the Secretary determines; or
+
+                     (b)  disclose any such information:
+
+                              (i)  to the Secretary of a Department of State of the Commonwealth or to the head of an authority of the Commonwealth for the purposes of that Department or authority; or
+
+                             (ii)  to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it; or
+
+                            (iii)  to the Chief Executive Centrelink for the purposes of a centrelink program; or
+
+                            (iv)  to the Chief Executive Medicare for the purposes of a medicare program.
+
+             (2)  In giving certificates for the purposes of paragraph (1)(a), the Secretary must act in accordance with guidelines (if any) from time to time in force under section 169.
+
+             (3)  In disclosing information under paragraph (1)(b), the Secretary must act in accordance with guidelines (if any) from time to time in force under section 169.
+
+             (4)  In spite of any other provision of this Part, the Secretary may disclose information of a kind referred to in paragraph (a) or (b) of the definition of **_protected information_** in subsection 3(1) to a person who is the payment nominee or correspondence nominee, within the meaning of Part 8B, of the person to whom the information relates (the **_principal_**) as if the nominee were the principal.
+
+##### <a id="169"></a>169  Guidelines for exercise of Secretary’s disclosure powers
+
+                   The Minister may, by legislative instrument, make guidelines for the exercise of either or both of the following:
+
+                     (a)  the Secretary’s power to give certificates for the purposes of paragraph 168(1)(a);
+
+                     (b)  the Secretary’s power under paragraph 168(1)(b).
+
+##### <a id="169A"></a>169A  Disclosure of information—child care tax offset
+
+             (1)  The Secretary may, for the purposes of the administration of the child care tax offset provided by Subdivision 61‑IA of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law.
+
+             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for the purposes of the administration of the child care tax offset provided by Subdivision 61‑IA of the _Income Tax Assessment Act 1997._
+
+             (3)  This section does not limit the powers of the Secretary under section 168.
+
+##### <a id="169B"></a>169B  Disclosure of information—education expenses tax offset
+
+             (1)  The Secretary may, for the purposes of the administration of the education expenses tax offset provided by Subdivision 61‑M of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation relevant information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law.
+
+             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for purposes relating to the education expenses tax offset provided by Subdivision 61‑M of the _Income Tax Assessment Act 1997_.
+
+             (3)  This section does not limit the powers of the Secretary under section 168.
+
+##### <a id="170"></a>170  Officer’s declaration
+
+                   An officer must make a declaration in a form approved by the Minister or the Secretary if required to do so by the Minister or the Secretary for the purposes of the family assistance law.
+
+### Division 3—False statements etc.
+
+#### Subdivision A—Preliminary
+
+##### <a id="171"></a>171  Application of Division
+
+                   This Division extends to:
+
+                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
+
+                     (b)  all persons, irrespective of their nationality, who are making, or have made, a claim for family assistance; and
+
+                     (c)  all persons, irrespective of their nationality, who have become entitled to, or been paid, family assistance; and
+
+                     (d)  all persons, irrespective of their nationality, in respect of whom determinations of conditional eligibility for child care benefit by fee reduction are in force; and
+
+                     (e)  all persons, irrespective of their nationality, who are eligible for child care benefit by fee reduction under section 47 of the Family Assistance Act.
+
+#### Subdivision B—Offences
+
+##### <a id="172"></a>172  False statement in connection with claim
+
+                   A person contravenes this section if:
+
+                     (a)  the person makes a statement; and
+
+                     (b)  the statement is false or misleading; and
+
+                     (c)  the person is reckless as to whether the statement is false or misleading; and
+
+                     (d)  the statement is made in connection with, or in support of, the person’s or any other person’s claim for family assistance.
+
+##### <a id="173"></a>173  False statement to deceive
+
+             (1)  A person contravenes this section if:
+
+                     (a)  the person makes a statement; and
+
+                     (b)  the statement is false or misleading; and
+
+                     (c)  the person is reckless as to whether the statement is false or misleading; and
+
+                     (d)  the person is reckless as to whether the statement:
+
+                              (i)  deceives, or might deceive, an officer or an approved child care service exercising powers, or performing duties or functions, under the family assistance law; or
+
+                             (ii)  affects, or might affect, an entitlement to a payment of family assistance under the family assistance law; or
+
+                            (iii)  affects, or might affect, the rate of a payment of family assistance under the family assistance law; or
+
+                            (iv)  affects, or might affect, conditional eligibility for child care benefit by fee reduction, a weekly limit of hours, a CCB % or a schooling % applicable to a person, or the rate at which or amount in which fee reduction is applicable; or
+
+                             (v)  affects, or might affect, a person’s eligibility for the special grandparent rate for a child; or
+
+                          (via)  affects, or might affect, eligibility for child care rebate under subsection 57EAA(1) of the Family Assistance Act, or the amount of child care rebate applicable under Subdivision AAB of Division 4AA of Part 3; or
+
+                            (vi)  affects, or might affect, eligibility for child care rebate under subsection 57EA(1) of the Family Assistance Act, or the amount of child care rebate applicable under Subdivision AA of Division 4AA of Part 3.
+
+             (2)  For the purposes of an offence against section 177 that relates to a contravention of subsection (1) of this section, strict liability applies to the following elements of the offence:
+
+                     (a)  the element that a power, duty or function is a power, duty or function under the family assistance law;
+
+                     (b)  the element that a payment is a payment under the family assistance law.
+
+##### <a id="174"></a>174  False statement or document
+
+             (1)  A person contravenes this subsection if:
+
+                     (a)  the person makes a statement or presents a document to an officer or an approved child care service exercising powers, or performing duties or functions, under the family assistance law; and
+
+                     (b)  the statement or document is false in any particular; and
+
+                     (c)  the person is reckless as to whether the statement or document is false in any particular.
+
+             (2)  For the purposes of an offence against section 177 that relates to a contravention of subsection (1) of this section, strict liability applies to the element of the offence that a power, duty or function is a power, duty or function under the family assistance law.
+
+##### <a id="175"></a>175  Obtaining payment where no entitlement
+
+                   A person contravenes this section if:
+
+                     (a)  the person obtains a payment of family assistance (other than child care rebate for a week under Subdivision AAB or for a quarter under Subdivision AA of Division 4AA of Part 3); and
+
+                     (b)  the person does so knowing that he or she is:
+
+                              (i)  not entitled to the payment; or
+
+                             (ii)  only entitled to part of the payment.
+
+##### <a id="175AA"></a>175AA  Obtaining child care rebate for a quarter if ineligible
+
+                   A person contravenes this section if:
+
+                     (a)  the person obtains a payment of child care rebate for a week under Subdivision AAB or for a quarter under Subdivision AA of Division 4AA of Part 3; and
+
+                     (b)  the person does so knowing that he or she is:
+
+                              (i)  ineligible for the payment; or
+
+                             (ii)  only eligible for part of the payment.
+
+##### <a id="175A"></a>175A  Obtaining fee reductions where no conditional eligibility or eligibility
+
+             (1)  An individual must not obtain fee reductions if the individual has not been determined to be conditionally eligible for child care benefit by fee reduction.
+
+             (2)  An individual must not obtain an incorrect amount of fee reductions.
+
+             (3)  If an approved child care service is not eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for care provided by the service to a child at risk, the service must not, in respect of the child, obtain a payment under section 219Q or subsection 219QA(2) in respect of fee reduction.
+
+          (3A)  For the purposes of an offence against section 177 that relates to a contravention of subsection (3) of this section, strict liability applies to the following elements of the offence:
+
+                     (a)  the element that a child care service’s lack of eligibility for a child care benefit is a lack of eligibility under section 47 of the Family Assistance Act;
+
+                     (b)  the element that a payment in respect of fee reduction is paid to the service under section 219Q or subsection 219QA(2).
+
+             (4)  If an approved child care service is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for care provided by the service to a child at risk, the service must not obtain an incorrect amount of a payment under section 219Q or section 219QA in respect of fee reduction.
+
+          (4A)  For the purposes of an offence against section 177 that relates to a contravention of subsection (4) of this section, strict liability applies to the following elements of the offence:
+
+                     (a)  the element that a child care service’s eligibility for a child care benefit is an eligibility under section 47 of the Family Assistance Act;
+
+                     (b)  the element that an incorrect amount of a payment is an incorrect amount of a payment under section 219Q or subsection 219QA(2).
+
+##### <a id="176"></a>176  Payment or fee reductions obtained by fraud
+
+             (1)  A person contravenes this subsection if:
+
+                     (a)  the person obtains:
+
+                              (i)  a payment of family assistance; or
+
+                             (ii)  fee reductions; or
+
+                            (iii)  in the case of an approved child care service—an amount is paid under section 219Q or subsection 219QA(2) in respect of fee reduction, under section 219QC or subsection 219QD(2) in respect of child care rebate or under section 219RA as an enrolment advance; or
+
+                            (iv)  in the case of an approved child care service—a payment under section 219RD (business continuity payments); and
+
+                     (b)  the person does so:
+
+                              (i)  by means of impersonation; or
+
+                             (ii)  by fraudulent means.
+
+             (2)  For the purposes of an offence against section 177 that relates to a contravention of subsection (1) of this section, strict liability applies to:
+
+                     (a)  the element of the offence that a payment in respect of fee reduction is paid to the service under section 219Q or subsection 219QA(2); and
+
+                    (aa)  the element of the offence that a payment in respect of child care rebate is paid to the service under section 219QC or subsection 219QD(2); and
+
+                     (b)  the element of the offence that an enrolment advance is paid under section 219RA; and
+
+                     (c)  the element of the offence that a payment is made under section 219RD.
+
+             (3)  A person contravenes this subsection if:
+
+                     (a)  the person makes a statement; and
+
+                     (b)  the statement is false or misleading; and
+
+                     (c)  the person is reckless as to whether the statement is false or misleading; and
+
+                     (d)  as a result the person obtains:
+
+                              (i)  a payment of family assistance; or
+
+                             (ii)  fee reductions; or
+
+                            (iii)  in the case of an approved child care service—an amount is paid under section 219Q or subsection 219QA(2) in respect of fee reduction, under section 219QC or subsection 219QD(2) in respect of child care rebate or under section 219RA as an enrolment advance; or
+
+                            (iv)  in the case of an approved child care service—a payment under section 219RD (business continuity payments).
+
+             (4)  For the purposes of an offence against section 177 that relates to a contravention of subsection (3) of this section, strict liability applies to:
+
+                     (a)  the element of the offence that a payment in respect of fee reduction is paid to the service under section 219Q or subsection 219QA(2); and
+
+                    (aa)  the element of the offence that a payment in respect of child care rebate is paid to the service under section 219QC or subsection 219QD(2); and
+
+                     (b)  the element of the offence that an enrolment advance is paid under section 219RA; and
+
+                     (c)  the element of the offence that a payment is made under section 219RD.
+
+#### Subdivision C—Penalties
+
+##### <a id="177"></a>177  Penalty for contravention of Subdivision B
+
+                   A person who contravenes a provision of Subdivision B is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 12 months.
+
+##### <a id="178"></a>178  Repayment of family assistance
+
+             (1)  If a person is convicted of an offence against section 177, the court may:
+
+                     (a)  impose a penalty in respect of the offence; and
+
+                     (b)  order the person to pay the Commonwealth an amount equal to any amount paid by way of family assistance, fee reductions, payments in respect of fee reduction, payments in respect of weekly child care rebate, enrolment advances or payments under section 219RD because of the act, failure or omission that constituted the offence.
+
+             (2)  In spite of anything in this Act or any other law, a person is not to be imprisoned for failing to pay an amount payable to the Commonwealth under paragraph (1)(b).
+
+             (3)  For the purposes of this section, an amount of family assistance is taken to be paid to a person if that amount is applied against a liability of that person or another person for:
+
+                     (a)  a primary tax; or
+
+                     (b)  a debt under this Act or the _Social Security Act 1991_.
+
+##### <a id="179"></a>179  Penalty where person convicted of more than one offence
+
+             (1)  Subject to subsection (2), if a person is convicted of more than one offence against section 177, the court may, if it thinks fit, impose one penalty for all the offences.
+
+             (2)  A single penalty imposed under subsection (1) must not exceed the sum of the maximum penalties that could be imposed if a separate penalty were imposed for each offence.
+
+#### Subdivision D—Procedural matters
+
+##### <a id="180"></a>180  Joining of charges
+
+                   Charges against the same person for a number of offences against section 177 may be joined in one complaint, information or declaration if those charges:
+
+                     (a)  are founded on the same facts; or
+
+                     (b)  form a series of offences of the same or a similar character; or
+
+                     (c)  are part of a series of offences of the same or a similar character.
+
+##### <a id="181"></a>181  Particulars of each offence
+
+                   If 2 or more charges are included in the same complaint, information or declaration, particulars of each offence charged are to be set out in a separate paragraph.
+
+##### <a id="182"></a>182  Trial of joined charges
+
+                   If charges are joined, the charges are to be tried together unless:
+
+                     (a)  the court considers it just that any charge should be tried separately; and
+
+                     (b)  the court makes an order to that effect.
+
+##### <a id="183"></a>183  Evidentiary effect of Secretary’s certificate
+
+             (1)  For the purposes of paragraph 178(1)(b), a certificate signed by the Secretary is evidence of the matters specified in the certificate.
+
+             (2)  The certificate may specify:
+
+                     (a)  the person to whom an amount of family assistance has been paid because of an act, a failure or an omission for which the person or another person has been convicted of an offence against section 177; and
+
+                     (b)  the amount paid; and
+
+                     (c)  the act, failure or omission that caused the amount to be paid.
+
+##### <a id="184"></a>184  Enforcement of court certificate as judgment
+
+                   If:
+
+                     (a)  a court makes an order under paragraph 178(1)(b); and
+
+                     (b)  the clerk or other appropriate officer of the court gives a certificate specifying:
+
+                              (i)  the amount ordered to be paid to the Commonwealth; and
+
+                             (ii)  the person by whom the amount is to be paid; and
+
+                     (c)  the certificate is filed in a court (which may be the court that made the order) that has civil jurisdiction to the extent of the amount to be paid;
+
+the certificate is enforceable in all respects as a final judgment of the court in which the certificate is filed.
+
+## Part 7—Liability of certain employers and principals for offences
+
+### Division 1—Interpretation
+
+##### <a id="185"></a>185  State of mind of a person
+
+                   A reference in this Part to the state of mind of a person includes a reference to:
+
+                     (a)  the knowledge, intention, opinion, belief or purpose of the person; and
+
+                     (b)  the person’s reasons for the intention, opinion, belief or purpose.
+
+##### <a id="188"></a>188  Offence
+
+                   A reference in this Part to an offence against this Act includes a reference to:
+
+                     (a)  an offence against this Act that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_; or
+
+                     (b)  an offence created by:
+
+                              (i)  section 11.1, 11.4 or 11.5 of the _Criminal Code_; or
+
+                             (ii)  section 6 of the _Crimes Act 1914_;
+
+                            that relates to this Act.
+
+### Division 3—Proceedings against non‑corporations
+
+##### <a id="191"></a>191  State of mind of individual
+
+                   If, in proceedings for an offence against this Act in respect of conduct engaged in by a person other than a corporation, it is necessary to establish the state of mind of the person, it is sufficient to show that:
+
+                     (a)  the conduct was engaged in by an employee or agent of the person within the scope of his or her actual or apparent authority; and
+
+                     (b)  the employee or agent had that state of mind.
+
+##### <a id="192"></a>192  Conduct of employee or agent
+
+                   If:
+
+                     (a)  conduct is engaged in on behalf of a person other than a corporation by an employee or agent of the person; and
+
+                     (b)  the conduct is within the scope of the employee’s actual or apparent authority;
+
+the conduct is taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in by the person unless the person establishes that he or she took reasonable precautions, and exercised due diligence, to avoid the conduct.
+
+##### <a id="193"></a>193  Exclusion of imprisonment as penalty for certain offences
+
+                   Despite any other provision of this Act, if:
+
+                     (a)  a person is convicted of an offence; and
+
+                     (b)  the person would not have been convicted if sections 191 and 192 had not been in force;
+
+the person is not liable to be punished by imprisonment for that offence.
+
+## Part 8—Approval of child care services and registered carers
+
+### Division 1—Approval of child care services
+
+##### <a id="194"></a>194  Application for approval
+
+Who may apply
+
+             (1)  A person who operates, or proposes to operate, any of the following kinds of child care service:
+
+                     (a)  a centre based long day care service;
+
+                     (b)  a family day care service;
+
+                   (ba)  an in‑home care service;
+
+                     (c)  an occasional care service;
+
+                     (d)  an outside school hours care service;
+
+may apply to the Secretary to have the service approved for the purposes of the family assistance law.
+
+Exception—person is a registered carer
+
+             (2)  However, a person cannot make an application under subsection (1) if the person is a registered carer.
+
+Form of application
+
+             (3)  An application under subsection (1) must:
+
+                     (a)  be made in a form and manner required by the Secretary; and
+
+                     (b)  state which of the kinds of service mentioned in subsection (1) the service is; and
+
+                     (c)  contain any information required by the Secretary; and
+
+                     (d)  be accompanied by any documents required by the Secretary; and
+
+                     (e)  in the case where a determination under section 206 is in force—be accompanied by the fee (if any) prescribed by the regulations for the making of applications under subsection (1).
+
+##### <a id="195"></a>195  Approval of child care services
+
+Approval
+
+             (1)  The Secretary must approve a child care service for the purposes of the family assistance law if the Secretary is satisfied that:
+
+                     (a)  an application has been made in accordance with section 194 to have the service approved; and
+
+                     (b)  the service is of the kind stated in the application; and
+
+                   (ba)  if the operator of the service is a large long day care centre operator—the operator is financially viable and is likely to remain so; and
+
+                     (c)  the service satisfies any eligibility rules applicable to the service under paragraph 205(1)(a); and
+
+                     (d)  in the case where the service is covered by a determination in force under section 206—if the service were to be approved, child care places would be allocated to the service under section 207.
+
+          (1A)  For the purpose of paragraph (1)(ba), in determining whether the operator of the child care service is financially viable, and likely to remain so, the Secretary must have regard to any financial information provided under section 219GA in relation to the operator. The Secretary may take into account any other matters he or she considers relevant.
+
+             (3)  If the Secretary approves the service, the Secretary must give the applicant a certificate of approval, stating:
+
+                     (a)  the kind of approved child care service; and
+
+                     (b)  the day from which the approval operates.
+
+             (4)  For the purposes of paragraph (3)(b), the day from which the approval is expressed to operate:
+
+                     (a)  may be a day before the day the Secretary approves the service; but
+
+                     (b)  must not be a day that is earlier than 6 months before the day on which the application for the approval was made.
+
+Refusal
+
+             (5)  The Secretary must refuse to approve a child care service for the purposes of the family assistance law if the Secretary is not satisfied of one or more of the matters referred to in subsection (1).
+
+             (6)  If the Secretary refuses to approve a child care service for the purposes of the family assistance law, the Secretary must give the applicant notice of:
+
+                     (a)  the refusal; and
+
+                     (b)  the reasons for the refusal; and
+
+                     (c)  the applicant’s rights under this Act to seek a review of the refusal decision.
+
+##### <a id="195A"></a>195A  Obligations and permissions of an approved child care service are those of the operator
+
+                   For the purposes of the family assistance law:
+
+                     (a)  when an obligation is imposed by that law on an approved child care service it is taken to be imposed on the person operating the service; and
+
+                     (b)  when a permission is conferred by that law on an approved child care service it is taken to be conferred on the person operating the service.
+
+##### <a id="196"></a>196  Conditions for continued approval—compliance with rules and laws
+
+Eligibility requirements
+
+             (1)  It is a condition for the continued approval of an approved child care service that the service satisfies any eligibility rules that are from time to time applicable to the service under paragraph 205(1)(b).
+
+Compliance with family assistance law
+
+             (2)  It is a condition for the continued approval of an approved child care service that the service not contravene an obligation imposed on the service by the family assistance law (whether or not such a contravention constitutes an offence or is of a civil penalty provision).
+
+Note:          Enforcement under this Division of this and other conditions is not limited or affected by other compliance measures in this Act (for example, infringement notices, proceedings for civil penalty orders and prosecutions).
+
+          (2A)  It is a condition for the continued approval of an approved child care service that the service cooperate with a person exercising powers under sections 219K, 219KA, 219L and 219LA.
+
+          (2B)  It is a condition for the continued approval of an approved child care service that the operator of the service cooperate with a person exercising powers under section 219KA.
+
+Compliance with Commonwealth, State and Territory laws
+
+             (3)  It is a condition for the continued approval of an approved child care service that:
+
+                     (a)  the operation of the service; and
+
+                     (b)  the provision of care by the service; and
+
+                     (c)  the construction of the premises of the service; and
+
+                     (d)  the equipment at the premises of the service;
+
+comply with all applicable requirements imposed by a law of the Commonwealth or a law of the State or Territory in which the service operates.
+
+##### <a id="196A"></a>196A  Conditions for continued approval—financial viability
+
+                   It is a condition for the continued approval of an approved child care service that the operator of the service, if a large long day care centre operator, be likely to remain financially viable.
+
+##### <a id="197"></a>197  Conditions for continued approval—child care places limit not to be exceeded
+
+                   It is a condition for the continued approval of an approved child care service that, if the service is covered by a determination in force under section 206:
+
+                     (a)  child care places are allocated to the service under section 207; and
+
+                     (b)  the service does not provide child care places in excess of the number of any child care places allocated to the service under section 207.
+
+##### <a id="198"></a>198  Conditions for continued approval—compliance with conditions imposed by Minister
+
+             (1)  It is a condition for the continued approval of an approved child care service that the service complies with any instrument in force under this section.
+
+Imposition of other conditions
+
+             (2)  The Minister may, by legislative instrument, impose conditions for the continued approval of a class of approved child care services.
+
+##### <a id="199"></a>199  Conditions for continued approval—compliance with conditions imposed by Secretary
+
+             (1)  It is a condition for the continued approval of an approved child care service that the service complies with any conditions imposed under subsection (2).
+
+             (2)  The Secretary may, by notice to a particular approved child care service, impose conditions for the continued approval of the service.
+
+##### <a id="200"></a>200  Consequences of breach of conditions for continued approval
+
+Sanctions
+
+             (1)  If the Secretary is satisfied that an approved child care service has not complied, or is not complying, with a condition for the continued approval of the service, the Secretary may do one or more of the following:
+
+                     (a)  vary the conditions for the continued approval of the service imposed under subsection 199(2);
+
+                     (b)  impose additional conditions for the continued approval of the service under subsection 199(2);
+
+                     (c)  reduce the number of any child care places allocated to the service under section 207;
+
+                     (d)  suspend the service’s approval;
+
+                     (e)  cancel the service’s approval;
+
+                      (f)  withhold the payment of enrolment advances to the service under section 219RA;
+
+                     (g)  require the remittal to the Secretary of enrolment advances paid to the service under section 219RA;
+
+                     (h)  suspend, for a maximum of 3 weeks, payment under section 219Q or subsection 219QA(2) in respect of fee reduction;
+
+                      (i)  suspend, for a maximum of 3 weeks, payment under section 219QC or subsection 219QD(2) in respect of child care rebate.
+
+Notice of sanction
+
+             (2)  If the Secretary does one or more of the things mentioned in paragraphs (1)(a) to (h), the Secretary must give notice to the service that the Secretary has done so. The notice must specify the day, no earlier than the day on which the notice is given, on which the sanction takes effect.
+
+Revocation of suspension
+
+             (3)  If the Secretary suspends the approval of an approved child service, the Secretary may at any time, by notice to the service, revoke the suspension with effect from the day specified in the notice.
+
+Revocation of enrolment advance withholding
+
+          (3A)  If the Secretary withholds the payment of enrolment advances to the service, the Secretary may at any time, by notice to the service, revoke the withholding with effect from the day specified in the notice.
+
+Revocation of suspension of payment in respect of fee reduction
+
+          (3B)  If the Secretary suspends payment in respect of fee reduction, the Secretary may at any time, by notice to the service revoke the suspension. If the suspension is revoked, all payments under section 219Q or subsection 219QA(2) that would have been paid but for the suspension must be paid.
+
+Revocation of suspension of payment in respect of child care rebate
+
+          (3C)  If the Secretary suspends payment in respect of child care rebate, the Secretary may at any time, by notice to the service revoke the suspension. If the suspension is revoked, all payments under section 219QC or subsection 219QD(2) that would have been paid but for the suspension must be paid.
+
+Secretary to have regard to any Ministerial determination
+
+             (4)  The Secretary must have regard to any determination under subsection (5) in exercising a power under subsection (1) or (3).
+
+Ministerial determination
+
+             (5)  The Minister may, by legislative instrument, determine:
+
+                     (a)  factors to be taken into account by the Secretary in applying subsection (1) to approved child care services; or
+
+                     (b)  factors to be taken into account by the Secretary in specifying the date of effect of a revocation of a suspension under subsection (3).
+
+##### <a id="201"></a>201  Procedure for imposing a sanction
+
+             (1)  Before doing a thing mentioned in paragraphs 200(1)(a) to (i), the Secretary must give a notice to the service concerned that:
+
+                     (a)  states that the Secretary is considering doing the thing; and
+
+                     (b)  sets out the grounds for doing the thing; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the doing of the thing (including the review process provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the service; and
+
+                     (e)  invites the service to make written submissions to the Secretary, within 28 days, stating why the thing should not be done.
+
+             (2)  The Secretary must have regard to any submissions made by the service as mentioned in paragraph (1)(e) in deciding whether to do the thing.
+
+##### <a id="201A"></a>201A  Immediate suspension for certain breaches
+
+             (1)  The Secretary may, by notice given to an approved child care service, suspend the approval of the service if the Secretary reasonably believes that:
+
+                     (a)  the service is not complying with all applicable requirements imposed by a law of the Commonwealth, or of the State or Territory in which the service is situated, relating to child care; or
+
+                     (b)  there is an imminent threat to the health or safety of a child, or children, because of the care provided by the service to the child or children; or
+
+                     (c)  due to urgent circumstances, it is no longer appropriate for the service to provide child care.
+
+             (2)  The Secretary must, in the notice:
+
+                     (a)  specify a day, not earlier than the day on which the notice is given, on which the suspension is to take effect; and
+
+                     (b)  specify the grounds upon which the Secretary has suspended the service’s approval; and
+
+                     (c)  inform the service of its rights under this Act to seek a review of the decision to suspend the service’s approval.
+
+             (3)  If the Secretary suspends the approval of an approved child care service, the Secretary may at any time, by notice to the service, revoke the suspension with effect from the day specified in the notice.
+
+##### <a id="201B"></a>201B  Publicising sanctions or suspensions
+
+             (1)  If the Secretary:
+
+                     (a)  does one or more of the things mentioned in paragraphs 200(1)(a) to (i); or
+
+                     (b)  suspends the approval of a service under subsection 201A(1);
+
+the Secretary may publicise this in any way the Secretary thinks appropriate.
+
+             (2)  Without limiting subsection (1), the Secretary may publicise information that includes the following:
+
+                     (a)  the name and address of the service;
+
+                     (b)  the name of the operator of the service;
+
+                     (c)  if the information relates to the doing of one or more of the things mentioned in paragraphs 200(1)(a) to (i):
+
+                              (i)  the day when each thing done starts to have effect; and
+
+                             (ii)  the things done; and
+
+                            (iii)  each condition for the continued approval of the service that the service has not complied, or is not complying, with; and
+
+                            (iv)  the day (if any) when each thing done ceases to have effect;
+
+                     (d)  if the information relates to a suspension under subsection 201A(1):
+
+                              (i)  the day when the suspension starts to have effect; and
+
+                             (ii)  the grounds for the suspension; and
+
+                            (iii)  the day (if any) when the suspension ceases to have effect.
+
+##### <a id="202"></a>202  Cancellation
+
+Scope of section
+
+             (1)  This section sets out circumstances, in addition to those in section 200, in which the Secretary may, or must, cancel the approval of an approved child care service.
+
+Cancellation on request
+
+             (2)  The Secretary may cancel an approved child care service’s approval if the service requests the Secretary in writing to do so.
+
+Cancellation if service should not have been approved
+
+             (3)  The Secretary must cancel an approved child care service’s approval if the Secretary is satisfied that the service should not have been approved.
+
+Cancellation if service fails to provide child care for 3 continuous months
+
+             (4)  The Secretary must cancel an approved child care service’s approval if the service fails to provide child care for a continuous period of 3 months, unless the Secretary is satisfied that, because of special circumstances affecting the service, the approval should not be cancelled.
+
+          (4A)  The Secretary must cancel an approved child care service’s approval if the service ceases to be operated by the person on whose application the approval was granted.
+
+Notice to service
+
+             (5)  If the Secretary cancels an approved child care service’s approval under this section, the Secretary must give notice to the service that the Secretary has done so.
+
+Secretary to have regard to any Ministerial determination
+
+             (6)  The Secretary must have regard to any determination under subsection (7) in exercising a power under subsection (2).
+
+Ministerial determination
+
+             (7)  The Minister may, by legislative instrument, determine factors to be taken into account by the Secretary in deciding whether to grant a request under subsection (2).
+
+##### <a id="203"></a>203  Procedure for cancellation
+
+             (1)  Before cancelling an approved child care service’s approval under subsection 202(3) or (4), the Secretary must give a notice to the service that:
+
+                     (a)  states that the Secretary is considering cancelling the service’s approval; and
+
+                     (b)  sets out the grounds on which the cancellation is being considered; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the notice (including the review processes provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the service; and
+
+                     (e)  invites the service to make written submissions to the Secretary, within 28 days, stating why the approval should not be cancelled.
+
+             (2)  The Secretary must have regard to any submissions made by the service as mentioned in paragraph (1)(e) in deciding whether to cancel the approval.
+
+##### <a id="204"></a>204  Notification of matters affecting eligibility for approval
+
+             (1)  If an approved child care service has:
+
+                     (a)  after the service was approved, become aware of any matter existing when the service was approved as a result of which the service should not have been approved; or
+
+                     (b)  become aware of any matter occurring after the service was approved as a result of which a condition for the continued approval of the service has not been complied with;
+
+the service must notify the Secretary in writing of the matter as soon as practicable after becoming aware of it.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  20 penalty units.
+
+##### <a id="204A"></a>204A  Notifying individuals about effect on entitlement to child care benefit of actions by approved child care services
+
+Breach of conditions by approved child care service
+
+             (1)  If the Secretary is satisfied that an approved child care service:
+
+                     (a)  has not complied with a condition for the continued approval of the service; or
+
+                     (b)  is not complying with a condition for the continued approval of the service;
+
+the Secretary may give a notice to an individual whose entitlement to be paid child care benefit may be affected if the Secretary were to suspend or cancel the service’s approval because of the Secretary being so satisfied.
+
+             (2)  A notice under subsection (1) must:
+
+                     (a)  state that the Secretary is satisfied that the service has not complied, or is not complying, with a condition for the continued approval of the service; and
+
+                     (b)  set out the effect on that entitlement if the Secretary were to suspend or cancel the service’s approval because of the Secretary being so satisfied.
+
+A notice under subsection (1) may set out any other information that the Secretary thinks relevant.
+
+Suspension or cancellation of approved child care service’s approval
+
+             (3)  If the Secretary suspends or cancels an approved child care service’s approval, the Secretary may give a notice to an individual whose entitlement to be paid child care benefit may be affected because of the suspension or cancellation.
+
+             (4)  A notice under subsection (3) must:
+
+                     (a)  state that the Secretary has suspended or cancelled the service’s approval; and
+
+                     (b)  set out the effect on that entitlement because of the suspension or cancellation.
+
+A notice under subsection (3) may set out any other information that the Secretary thinks relevant.
+
+Form and manner or way of notice
+
+             (5)  A notice under this section must be in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="205"></a>205  Eligibility rules for child care services
+
+Eligibility rules
+
+             (1)  The Minister may, by legislative instrument, determine:
+
+                     (a)  rules relating to the eligibility of child care services to become approved for the purposes of the family assistance law; and
+
+                     (b)  rules relating to the eligibility of those services to continue to be so approved.
+
+Eligibility rules may deal with who may operate a service and change of operator of a service
+
+             (2)  Without limiting subsection (1), rules made under that subsection may specify requirements:
+
+                     (a)  to be met by the operators and staff of services, including requirements relating to individual suitability to provide child care; and
+
+                     (b)  to be met by the operator of a service if the operation of the service is proposed to be transferred from one operator to another.
+
+Exemption from eligibility rules
+
+             (3)  The Secretary may also determine that one or more of the rules do not apply to:
+
+                     (a)  specified child care services; or
+
+                     (b)  child care services of a specified class or of specified classes.
+
+             (4)  A determination under paragraph (3)(b) is a legislative instrument.
+
+##### <a id="206"></a>206  Guidelines for allocation of child care places to approved child care services
+
+                   The Minister may, by legislative instrument, determine guidelines about the following:
+
+                     (a)  procedures relating to the allocation of child care places to approved child care services;
+
+                     (b)  matters to be taken into account in working out the number (if any) of child care places to be allocated to approved child care services;
+
+                     (c)  the maximum number of places that can be allocated to approved child care services in a specified class;
+
+                     (d)  any other matters to be taken into account in making such an allocation;
+
+                     (e)  procedures relating to the reduction under section 207A of the number of child care places allocated to approved child care services;
+
+                      (f)  matters to be taken into account in working out the number of child care places by which the number of child care places allocated to approved child care services may be reduced under section 207A;
+
+                     (g)  any other matters to be taken into account in reducing, or deciding whether to reduce, under section 207A the number of child care places allocated to approved child care services.
+
+Note:          Guidelines under this section may refer to one or more classes of approved child care services (see subsection 13(3) of the _Legislative Instruments Act 2003_).
+
+##### <a id="207"></a>207  Secretary to allocate child care places
+
+Initial allocation of child care places
+
+             (1)  The Secretary must allocate child care places to an approved child care service covered by a determination in force under section 206\. The Secretary must do so in accordance with the determination.
+
+Additional allocation of child care places
+
+             (2)  If an approved child care service is allocated child care places under subsection (1), the service may apply to the Secretary for an additional allocation of child care places.
+
+             (3)  The application must:
+
+                     (a)  be made in a form and manner required by the Secretary; and
+
+                     (b)  contain any information required by the Secretary; and
+
+                     (c)  be accompanied by any documents required by the Secretary; and
+
+                     (d)  be accompanied by the fee (if any) prescribed by the regulations for the making of applications under subsection (2).
+
+             (4)  The Secretary must, in accordance with the determination under section 206, decide whether or not to grant the application.
+
+             (5)  The Secretary must give the applicant notice of the decision under subsection (4). If the Secretary decides to grant the application, the Secretary must allocate the additional child care places to the applicant.
+
+##### <a id="207A"></a>207A  Reduction of allocation of child care places by unused or unusable places
+
+             (1)  The Secretary may, in accordance with a determination under section 206, reduce the number of child care places allocated to an approved child care service if:
+
+                     (a)  that number exceeds the number of child care places provided by the service; or
+
+                     (b)  that number exceeds the number of child care places that the service is, under a law of a State or Territory, licensed to provide.
+
+The reduction must not be greater than the excess.
+
+             (2)  Before the reduction, the Secretary must (unless subsection (3) applies) give a notice to the service that:
+
+                     (a)  states that the Secretary proposes to make the reduction; and
+
+                     (b)  states the number of places by which the Secretary proposes to reduce the number of places allocated to the service; and
+
+                     (c)  invites the service to make written submissions to the Secretary about the proposed reduction; and
+
+                     (d)  is not inconsistent with a determination under section 206.
+
+             (3)  If the service has informed the Secretary in writing that the number of child care places allocated to the service may be reduced, the Secretary may give the service a notice under subsection (2) before making the reduction.
+
+             (4)  The Secretary must have regard to any submissions made by the service in deciding whether to make the reduction.
+
+             (5)  If the Secretary reduces under this section the number of child care places allocated to an approved child care service, the Secretary must give the service a notice that states:
+
+                     (a)  the number of places by which the number of places allocated to the service is reduced; and
+
+                     (b)  the day on which the reduction takes effect, which must not be earlier than the day on which the notice is given; and
+
+                     (c)  the number of places allocated to the service, taking account of the reduction.
+
+##### <a id="207B"></a>207B  Effect of reduction in allocation of child care places
+
+             (1)  This section explains the effect of a reduction under this Division of the number of child care places allocated to an approved child care service.
+
+Note:          A reduction may be made under section 200 or section 207A.
+
+             (2)  This Division has effect after the reduction as if there had not been allocated to the service the number of places by which the number of places allocated to the service was reduced.
+
+Note:          This affects the operation of paragraph 197(b) for the service. It could also affect the making of allocations of child care places to other approved child care services after the reduction.
+
+### Division 2—Approval as registered carers
+
+##### <a id="209"></a>209  Application for approval as registered carer
+
+Who may apply
+
+             (1)  An individual who provides care, or proposes to provide care, for a child or children may apply to the Secretary to be approved as a registered carer for the purposes of the family assistance law.
+
+Exception—individual operates child care service etc.
+
+             (2)  However, an individual cannot make an application under subsection (1) if the individual:
+
+                     (a)  operates an approved child care service; or
+
+                     (b)  operates a child care service that is receiving financial assistance from the Commonwealth in connection with its operational costs, where the provision of that assistance is administered by the Department; or
+
+                     (c)  provides child care under a contract with an approved family day care service; or
+
+                     (d)  provides child care under a contract with an approved in‑home care service.
+
+Form of application
+
+             (3)  An application under subsection (1) must:
+
+                     (a)  be made in a form and manner; and
+
+                     (b)  contain any information; and
+
+                     (c)  be accompanied by any documents;
+
+required by the Secretary.
+
+##### <a id="210"></a>210  Approval of registered carers
+
+Registration
+
+             (1)  The Secretary must approve an individual as a registered carer for the purposes of the family assistance law if:
+
+                     (a)  the individual has made an application in accordance with section 209; and
+
+                     (b)  the individual either:
+
+                              (i)  meets the age requirement in subsection (2); or
+
+                             (ii)  has a qualification of a kind specified in a determination under subsection (4); and
+
+                     (c)  the Secretary is satisfied that the applicant meets the requirements of section 211.
+
+Age requirement
+
+             (2)  For the purposes of subparagraph (1)(b)(i), an individual meets the age requirement if:
+
+                     (a)  in the case where a determination under subsection (3) is in force—the individual has turned the age specified in the determination; or
+
+                     (b)  in any other case—the individual has turned 18.
+
+             (3)  The Minister may, by legislative instrument, determine that an individual must have turned the age specified in the determination for the individual to be eligible to be approved as a registered carer.
+
+Qualification requirement
+
+             (4)  The Minister may, by legislative instrument, determine that an individual who does not meet the age requirement in subsection (2) must have a qualification of a kind specified in the determination for the individual to be eligible to be approved as a registered carer.
+
+Certificate of approval of registration
+
+             (5)  If the Secretary approves an applicant as a registered carer, the Secretary must give the applicant a certificate of approval.
+
+##### <a id="211"></a>211  Statement that applicant has tax file number
+
+             (1)  An applicant meets the requirements of this section if:
+
+                     (a)  the applicant has a tax file number; and
+
+                     (b)  the application contains a statement to that effect.
+
+             (2)  The Secretary must accept a statement made under paragraph (1)(b) unless the Commissioner of Taxation has informed the Secretary that the applicant does not have a tax file number.
+
+             (3)  This section does not authorise the Secretary:
+
+                     (a)  to require or request a person to quote the person’s tax file number; or
+
+                     (b)  to seek or obtain, in any way, a person’s tax file number; or
+
+                     (c)  to record a person’s tax file number.
+
+             (4)  The Secretary may ask the Commissioner of Taxation to provide information on whether an applicant has a tax file number.
+
+##### <a id="212"></a>212  When approval comes into force
+
+             (1)  An approval of an applicant as a registered carer is taken to have come into force on the later of the following days:
+
+                     (a)  the day on which, in the Secretary’s opinion, the applicant was first eligible to be approved;
+
+                     (b)  the day occurring 12 months before the day on which the application for approval was made.
+
+             (2)  Subject to this Division, an approval remains in force at all times after it came into force.
+
+             (3)  If the Secretary is satisfied that the applicant was not eligible to be approved during a period occurring after the day the applicant’s approval came into force but before the day on which the application was made, the Secretary may determine that the approval is taken not to have been in force during that period.
+
+##### <a id="213"></a>213  Conditions of continued approval
+
+Compliance with child care laws
+
+             (1)  It is a condition for the continued approval of an individual as a registered carer that the provision of care by the individual complies with all applicable requirements imposed by a law of the Commonwealth, or of the State or Territory in which the care is provided, relating to child care.
+
+Conditions imposed by notice on individual
+
+             (2)  The Secretary may, by notice to a particular registered carer, impose other conditions for the continued approval of the carer.
+
+Conditions imposed by Minister
+
+             (3)  The Minister may, by legislative instrument, impose other conditions for the continued approval of individuals as registered carers.
+
+##### <a id="214"></a>214  Consequences of breach of conditions for continued approval
+
+Sanctions
+
+             (1)  If the Secretary is satisfied that a registered carer has not complied, or is not complying, with a condition for the continued approval of the carer, the Secretary may do one or more of the following:
+
+                     (a)  vary the conditions for the continued approval of the carer imposed under subsection 213(2);
+
+                     (b)  impose additional conditions for the continued approval of the carer under subsection 213(2);
+
+                     (c)  suspend the carer’s approval;
+
+                     (d)  cancel the carer’s approval.
+
+Notice of sanction
+
+             (2)  If the Secretary does one or more of the things mentioned in paragraphs (1)(a) to (d), the Secretary must give notice to the registered carer that the Secretary has done so.
+
+Revocation of suspension 
+
+             (3)  If the Secretary suspends the approval of a registered carer, the Secretary may at any time, by notice to the carer, revoke the suspension with effect from the day specified in the notice.
+
+Secretary to have regard to any Ministerial determination
+
+             (4)  The Secretary must have regard to any determination under subsection (5) in exercising a power under subsection (1) or (3).
+
+Ministerial determination
+
+             (5)  The Minister may, by legislative instrument, determine:
+
+                     (a)  factors to be taken into account by the Secretary in applying subsection (1) to registered carers; or
+
+                     (b)  factors to be taken into account by the Secretary in specifying the date of effect of a revocation of a suspension under subsection (3).
+
+##### <a id="215"></a>215  Procedure for imposing a sanction
+
+             (1)  Before doing a thing mentioned in paragraphs 214(1)(a) to (d), the Secretary must give a notice to the registered carer concerned that:
+
+                     (a)  states that the Secretary is considering doing the thing; and
+
+                     (b)  sets out the grounds for doing the thing; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the doing of the thing (including the review process provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the carer; and
+
+                     (e)  invites the carer to make written submissions to the Secretary, within 28 days, stating why the thing should not be done.
+
+             (2)  The Secretary must have regard to any submissions made by the carer as mentioned in paragraph (1)(e) in deciding whether to do the thing.
+
+##### <a id="216"></a>216  Cancellation
+
+Scope of section 
+
+             (1)  This section sets out circumstances, in addition to those in section 214, in which the Secretary must cancel the approval of a registered carer.
+
+Cancellation on request
+
+             (2)  The Secretary must cancel a registered carer’s approval if the carer requests the Secretary in writing to do so.
+
+Cancellation if carer should not have been approved
+
+             (3)  The Secretary must cancel a registered carer’s approval if the Secretary is satisfied that the carer should not have been approved.
+
+Notice to service
+
+             (4)  If the Secretary cancels a registered carer’s approval under this section, the Secretary must give notice to the carer that the Secretary has done so.
+
+##### <a id="217"></a>217  Procedure for cancellation under subsection 216(3)
+
+             (1)  Before cancelling a registered carer’s approval under subsection 216(3), the Secretary must give a notice to the carer that:
+
+                     (a)  states that the Secretary is considering cancelling the carer’s approval; and
+
+                     (b)  sets out the grounds on which the cancellation is being considered; and
+
+                     (c)  summarises the evidence and other material on which those grounds are based; and
+
+                     (d)  summarises the effect of the notice (including the review processes provided for under this Act) on a person’s entitlement to child care benefit in respect of child care provided by the carer; and
+
+                     (e)  invites the carer to make written submissions to the Secretary, within 28 days, stating why the approval should not be cancelled.
+
+             (2)  The Secretary must have regard to any submissions made by the carer as mentioned in paragraph (1)(e) in deciding whether to cancel the approval.
+
+##### <a id="218"></a>218  Notification of matters affecting eligibility for approval
+
+                   If a registered carer has:
+
+                     (a)  after the carer was approved, become aware of any matter existing when the carer was approved as a result of which the carer should not have been approved; or
+
+                     (b)  become aware of any matter occurring after the carer was approved as a result of which a condition for the continued approval of the carer has not been complied with;
+
+the carer must notify the Secretary in writing of the matter as soon as practicable after becoming aware of it.
+
+                    Penalty:  20 penalty units.
+
+## Part 8A—Obligations, and advances, relating to approved child care services
+
+### Division 1—Obligations relating to approved child care services
+
+#### Subdivision A—Obligations relating to enrolment
+
+##### <a id="219A"></a>219A  Obligation to notify Secretary of enrolment of a child by an individual
+
+             (1)  An approved child care service must notify the Secretary of the enrolment of a child by an individual for care by the service.
+
+             (2)  A child is **_enrolled_** by an individual for care by an approved child care service if the individual enters into an arrangement with the service for the provision of care to the child by the service.
+
+Note:          If 2 individuals each enter into an arrangement for the provision of care to the child by the service, each enrolment will need to be notified to the Secretary.
+
+             (3)  If:
+
+                     (a)  an individual enters into an arrangement for the care of a child by an approved child care service (the **_original arrangement_**); and
+
+                     (b)  the enrolment of the child by the individual for care by the service ceases under section 219AD; and
+
+                     (c)  a session of care is, or sessions of care are, later provided to the child by the service under the original arrangement;
+
+the individual is taken to enter into a new arrangement for the provision of care to the child by the service at the time the session, or the first of the sessions, of care is provided.
+
+Note:          As a result, there will be a new enrolment which will need to be notified to the Secretary.
+
+##### <a id="219AA"></a>219AA  Obligation to notify Secretary of enrolment where approved child care service eligible
+
+             (1)  If an approved child care service is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for a session or sessions of care provided by the service to a child at risk during a period:
+
+                     (a)  for which the service has given a certificate under subsection 76(2) of that Act; or
+
+                     (b)  during which a determination by the Secretary under subsection 81(4) of that Act in circumstances mentioned in subparagraph 81(4)(b)(ii) of that Act is in effect;
+
+the service must notify the Secretary of the enrolment of the child for care by the service.
+
+             (2)  The child is taken to be **_enrolled_** for care by the service when the session, or the first of the sessions, of care begins.
+
+##### <a id="219AB"></a>219AB  When and how notice to be given
+
+             (1)  A notice under section 219A or 219AA must:
+
+                     (a)  be given in the form, and in the manner or way, approved by the Secretary; and
+
+                     (b)  contain any information required by the Secretary.
+
+             (2)  Subject to subsections (3) and (4), the notice must be given no later than:
+
+                     (a)  if the child is enrolled after the day on which the Secretary approves the service—the last day of the week immediately following the first week in which care is provided as a result of the enrolment; or
+
+                     (b)  if the child is enrolled before that day, but after the day from which the approval is expressed to operate—7 days after the day on which the approval is given.
+
+             (3)  If:
+
+                     (a)  a child care service’s approval is suspended at the time a child is enrolled by an individual for care by the service; and
+
+                     (b)  that suspension is later revoked;
+
+the service must give notice of the enrolment under subsection (1) within 7 days after the suspension is revoked.
+
+             (4)  If:
+
+                     (a)  a payment is made to the service under section 219RD in relation to a period (the **_initial period_**) notified to the service under subsection 219RD(4); and
+
+                     (b)  the payment is made because of the service’s failure to give a report under subsection 219N(1) or (2) for a week (the **_applicable week_**) in respect of one or more enrolments; and
+
+                     (c)  for another enrolment referred to in subsection 219A(1) or 219AA(1), the last day of the period referred to in subsection (2) of this section:
+
+                              (i)  is the last day of the period applicable under subsection 219N(5) in relation to the applicable week; or
+
+                             (ii)  occurs during the initial period;
+
+the notice of the other enrolment must be given no later than:
+
+                     (d)  7 days after the end of the initial period; or
+
+                     (e)  if one or more other periods (that are consecutive with the initial period) are notified to the service under subsection 219RD(4)—7 days after the end of the last of those periods.
+
+Example:    A payment is made under section 219RD to an approved child care service for a week starting on the 22nd day of a month. This week is the initial period. Assume no other payments under that section are made to the service.
+
+                   The payment is made because of the service failing to give a report under subsection 219N(1) (in respect of one or more enrolments) for the week starting on the first day of the month. This is the applicable week. Assume the last day for giving the report is the 21st day of the month.
+
+                   For another enrolment, assume the last day for giving notice of the enrolment under subsection (2) of this section is the 21st day of the month or a day occurring in the initial period.
+
+                   The notice in relation to the other enrolment must be given by the end of the week commencing on the 29th day of that month.
+
+##### <a id="219AC"></a>219AC  Failure to notify
+
+Civil penalties
+
+          (1A)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to give notice under section 219A; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1B)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to give notice under section 219AA; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Offences
+
+             (1)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to give notice under section 219A; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+                    Penalty:  60 penalty units.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to give notice under section 219AA; and
+
+                     (b)  the service does not give the notice in accordance with that section and section 219AB.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsections (1) and (2) are offences of strict liability.
+
+##### <a id="219AD"></a>219AD  When enrolment ceases
+
+             (1)  An enrolment of a child by an individual for care by an approved child care service **_ceases_** if:
+
+                     (a)  the arrangement under which care is provided ceases; or
+
+                     (b)  the service becomes eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for a session of care provided by the service to the child.
+
+             (2)  If a child is taken to be enrolled for care by an approved child care service under subsection 219AA(2), the enrolment is taken to have **_ceased_**:
+
+                     (a)  if a certificate has been given in respect of the child under subsection 76(2) of the Family Assistance Act, either:
+
+                              (i)  when the period for which a certificate was given ends; or
+
+                             (ii)  if the Secretary makes a determination in circumstances mentioned in subparagraph 81(4)(b)(i) of that Act at the end of the 13 week period mentioned in that subparagraph—when that determination ceases to have effect; or
+
+                     (b)  if the Secretary makes a determination in circumstances mentioned in subparagraph 81(4)(b)(ii) of that Act—when that determination ceases to have effect.
+
+             (3)  The enrolment of a child for care by an approved child care service (whether by an individual or otherwise) is taken to have **_ceased_** if no session of care to the child, over a number of weeks specified by the Secretary by legislative instrument, is reported to the Secretary under section 219N.
+
+             (4)  Different periods may be specified in relation to different kinds of service or types of care.
+
+##### <a id="219AE"></a>219AE  Secretary to confirm receipt of notice
+
+             (1)  Subject to subsection (2), the Secretary must provide confirmation to the approved child care service of the receipt of a notice given under section 219A or section 219AA.
+
+             (2)  The Secretary need not provide that confirmation if:
+
+                     (a)  the notice is given under section 219A in relation to the enrolment of a child by an individual; and
+
+                     (b)  the information contained in the notice is inconsistent with information contained in a claim, or in a document that accompanies a claim, made by an individual in relation to care provided by the service to the child.
+
+             (3)  The Secretary must include in the confirmation details of the record maintained by the Secretary in relation to the enrolment.
+
+             (4)  The confirmation must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219AF"></a>219AF  Obligation to update enrolment information
+
+             (1)  If:
+
+                     (a)  an approved child care service gives notice of enrolment in accordance with sections 219A and 219AB, or sections 219AA and 219AB; and
+
+                     (b)  after the notice is given:
+
+                              (i)  information provided in the notice becomes incorrect; or
+
+                             (ii)  information becomes available that, had it been available at the time the notice was given, should have been included in the notice; or
+
+                            (iii)  information becomes available that, had it been available at the time the notice was given, would have required the notice to have been given in a different form;
+
+the service must notify the Secretary of the correction or available information.
+
+          (1A)  Subject to subsection (1B), the notice must be given within 7 days after the information becomes incorrect or becomes available.
+
+          (1B)  If:
+
+                     (a)  a payment is made to the service under section 219RD in relation to a period (the **_initial period_**) notified to the service under subsection 219RD(4); and
+
+                     (b)  the payment is made because of the service’s failure to give a report under subsection 219N(1) or (2) for a week (the **_applicable week_**); and
+
+                     (c)  for any enrolment, the last day of the period referred to in subsection (1A) of this section:
+
+                              (i)  is the last day of the period applicable under subsection 219N(5) in relation to the applicable week; or
+
+                             (ii)  occurs during the initial period;
+
+the notice must be given no later than:
+
+                     (d)  7 days after the end of the initial period; or
+
+                     (e)  if one or more other periods (that are consecutive with the initial period) are notified to the service under subsection 219RD(4)—7 days after the end of the last of those periods.
+
+             (2)  The notice must be given in the form, and in the manner or way, approved by the Secretary.
+
+##### <a id="219AG"></a>219AG  Failure to update enrolment information
+
+Civil penalty
+
+          (1A)  An approved child care service contravenes this subsection if:
+
+                     (a)  the service is required to notify the Secretary of a correction or available information under section 219AF; and
+
+                     (b)  the service does not notify the Secretary in accordance with that section.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Offence
+
+             (1)  An approved child care service commits an offence if:
+
+                     (a)  the service is required to notify the Secretary of a correction or available information under section 219AF; and
+
+                     (b)  the service does not notify the Secretary in accordance with that section.
+
+                    Penalty:  60 penalty units.
+
+             (2)  Subsection (1) is an offence of strict liability.
+
+#### Subdivision B—Obligations relating to child care benefit by fee reduction
+
+##### <a id="219B"></a>219B  Obligation to pass on fee reductions where individual conditionally eligible
+
+             (1)  This section applies if:
+
+                     (a)  a determination of conditional eligibility for child care benefit by fee reduction under section 50F is in force in respect of an individual (the **_claimant_**) and a child for a session of care provided by an approved child care service to the child in a week; and
+
+                     (b)  the Secretary calculates under section 50Z, or recalculates under section 50ZA, the amount of fee reduction applicable in respect of the session of care; and
+
+                     (c)  the Secretary has notified the service of the amount in accordance with subsection 50Z(3), or the recalculated amount in accordance with subsection 50ZA(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to the claimant, except to the extent that the service is required to remit the amount to the Secretary under section 219QB.
+
+Note 1:       This amount must be passed on, even if the payment of amounts to the service in respect of fee reduction has been suspended under paragraph 200(1)(h).
+
+Note 2:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (2A)  An approved child care service commits an offence if the service contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+          (2B)  Subsection (2A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  If:
+
+                     (a)  the service reduces the amount by which it charges the claimant in respect of the session of care in anticipation of the Secretary’s calculation of the amount applicable in respect of fee reduction for that session (the **_anticipated fee reduction_**); and
+
+                     (b)  the service was an approved child care service at the time the session of care was provided;
+
+the service is taken to have passed on to the claimant an amount equal to the anticipated fee reduction.
+
+             (5)  The amount is taken to have been passed on to the claimant on the day on which the Secretary notified the service of the amount in accordance with subsection 50Z(3) or 50ZA(2)_._
+
+##### <a id="219BA"></a>219BA  Obligation to pass on fee reductions where approved child care service eligible
+
+             (1)  This section applies if:
+
+                     (a)  an approved child care service is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for a session of care provided by the service to a child at risk; and
+
+                     (b)  the Secretary calculates under section 50ZB, or recalculates under section 50ZC, the amount of child care benefit by fee reduction applicable in respect of the session of care; and
+
+                     (c)  the Secretary has notified the service of the amount in accordance with subsection 50ZB(3), or the recalculated amount in accordance with subsection 50ZC(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to itself, except to the extent that the service is required to remit the amount to the Secretary under section 219QB.
+
+             (4)  If:
+
+                     (a)  the service reduces the amount it charges in respect of the session of care in anticipation of the Secretary’s calculation of the amount applicable in respect of child care benefit by fee reduction for that session (the **_anticipated fee reduction_**); and
+
+                     (b)  the service was an approved child care service at the time the session of care was provided;
+
+the service is taken to have passed on to itself an amount equal to the anticipated fee reduction.
+
+             (5)  The amount is taken to have been passed on on the day on which the Secretary notified the service of the amount in accordance with subsection 50ZB(3) or 50ZC(2).
+
+##### <a id="219BB"></a>219BB  Obligation to charge no more than usual fee—rate determined by child care service or Secretary
+
+             (1)  If:
+
+                     (a)  an approved child care service certifies under subsection 76(1) or (2) of the Family Assistance Act the hourly rate of fee reductions or child care benefit applicable for sessions of care provided by the service to a child during a period; or
+
+                     (b)  the Secretary determines under subsection 81(2), (3) or (4) of the Family Assistance Act the hourly rate of fee reductions or child care benefit for sessions of care an approved child care service provides to a child during a period;
+
+the service must ensure that the fees set for each of those sessions do not exceed the amount of the fees that the service would charge for the same session for the same child if that rate did not apply.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="219BC"></a>219BC  Obligation to charge no more than usual fee—special grandparent rate
+
+             (1)  If a determination is in force under subsection 50T(1) with the effect that an individual is eligible for the special grandparent rate for a child in respect of a session of care provided to the child by an approved child care service, the service must ensure that the fees set for the session do not exceed the amount of the fees that the service would charge for the same session for the same child if that rate did not apply.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="219BD"></a>219BD  Obligation to charge no more than usual fee—Jobs Education and Training (JET) Child Care fee assistance
+
+             (1)  If:
+
+                     (a)  a determination of conditional eligibility for child care benefit by fee reduction under section 50F is in force in respect of an individual and a child for a session of care provided by an approved child care service to the child; and
+
+                     (b)  the service becomes aware that the individual is eligible to receive Jobs Education and Training (JET) Child Care fee assistance in relation to the session of care;
+
+the service must ensure that the fees set for the session do not exceed the amount of the fees that the service would charge an individual who was not eligible for that assistance for the same session for the same child.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+          (1A)  An approved child care service commits an offence if the service contravenes subsection (1).
+
+                    Penalty:  60 penalty units.
+
+          (1B)  Subsection (1A) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (2)  In subsection (1):
+
+                    <a name="job-educ-train-jet-child-care-fee-assist"></a>**_Jobs Education and Training (JET) Child Care fee assistance_** means the payment of that name that is paid by the Commonwealth.
+
+##### <a id="219E"></a>219E  Obligation to provide statements
+
+             (1)  If:
+
+                     (a)  a determination is in force under section 50F that an individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  a session or sessions of care are provided by an approved child care service to the child during a period (the **_statement period_**) described in subsection (4); and
+
+                     (c)  the service is required to pass on an amount under section 219B for the session or sessions;
+
+the service must, before the end of one month starting on the day after the end of the statement period, give to the individual or some other person applicable under rules made under subsection (6) a statement setting out the matters specified in subsection (5) in relation to the session or sessions.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  a determination is in force under section 50F that an individual is conditionally eligible for child care benefit by fee reduction in respect of a child; and
+
+                     (b)  a session or sessions of care are provided by the service to the child during a period (the **_statement period_**) described in subsection (4); and
+
+                     (c)  the service is required to pass on an amount under section 219B for the session or sessions; and
+
+                     (d)  the service does not, before the end of one month starting on the day after the end of the statement period, give to the individual or some other person applicable under rules made under subsection (6) a statement setting out the matters specified in subsection (5) in relation to the session or sessions.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  The statement periods for the service are as follows:
+
+                     (a)  the first statement period is the period of 3 months starting on the day (the **_initial day_**) that is:
+
+                              (i)  the day Schedule 2 to the _Family Assistance Legislation Amendment (Child Care) Act 2010_ commences; or
+
+                             (ii)  if the Secretary approves the service under section 195 of this Act on a day later than the one described in subparagraph (i)—that later day;
+
+                            or, if before or during that 3‑month period the service chooses a shorter period starting on the initial day, the shorter period;
+
+                     (b)  each of the later statement periods is:
+
+                              (i)  the period of 3 months starting on the day after the end of the immediately preceding statement period; or
+
+                             (ii)  if before or during that 3‑month period the service chooses a shorter period starting on that day—the shorter period.
+
+             (5)  The matters required to be set out in a statement for a statement period are:
+
+                     (a)  the start and end of the statement period; and
+
+                     (b)  the amount that would have been the fees payable for the session or sessions of care provided by the service to the child during the statement period if no amount had been passed on under section 219B for the session or sessions; and
+
+                     (c)  the amount of fee reductions required to be passed on under section 219B for the session or sessions; and
+
+                     (d)  any other information the Secretary specifies in the rules (if any) made under subsection (6).
+
+Note:          The amount of fee reductions required to be set out in the statement may be a nil amount (see section 4A).
+
+             (6)  The Secretary may, by legislative instrument, make rules dealing with any of the following matters:
+
+                     (a)  how statements should be given;
+
+                     (b)  to whom the statements should be given;
+
+                     (c)  for particular approved child care services or classes of approved child care services—different statement periods;
+
+                     (d)  other information that must be given in the statements.
+
+Correcting or reissuing statements
+
+             (7)  If:
+
+                     (a)  an approved child care service has, under subsection (1), given an individual or other person a statement (the **_earlier statement_**) relating to a session or sessions of care provided by the service to a child in the statement period; and
+
+                     (b)  under section 50ZA, the service is notified on a day (the **_notification day_**) of a recalculated rate or amount in respect of any of those sessions;
+
+the service must, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the matters specified in subsection (5) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (8)  An approved child care service commits an offence if:
+
+                     (a)  the service has, under subsection (1), given an individual or other person a statement (the **_earlier statement_**) relating to a session or sessions of care provided by the service to a child in the statement period; and
+
+                     (b)  under section 50ZA, the service is notified on a day (the **_notification day_**) of a recalculated rate or amount in respect of any of those sessions; and
+
+                     (c)  the service does not, before the end of the first statement period starting after the notification day, give the individual or other person either a statement setting out the matters specified in subsection (5) taking account of the recalculation or a statement amending the earlier statement so as to take account of the recalculation.
+
+                    Penalty:  60 penalty units.
+
+             (9)  Subsection (8) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+#### Subdivision C—Obligations relating to weekly child care rebate
+
+##### <a id="219EA"></a>219EA  Obligation to pass on weekly child care rebate
+
+             (1)  This section applies if:
+
+                     (a)  the Secretary calculates under section 65EAAA, or recalculates under section 65EAAD, the amount of the child care rebate that is applicable in respect of an individual and a child for care provided for the child by an approved child care service in a week; and
+
+                     (b)  the Secretary has notified the service of the amount in accordance with subsection 65EAAB(2), or the recalculated amount in accordance with subsection 65EAAE(2).
+
+             (2)  The service must, within 14 days after being notified of the amount as calculated or recalculated, pass the amount on to the individual, except to the extent that the service is required to remit the amount to the Secretary under section 219QE.
+
+Note 1:       This amount must be passed on, even if the payment of child care rebate has been suspended under paragraph 200(1)(i).
+
+Note 2:       This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (3)  An approved child care service commits an offence if the service contravenes subsection (2).
+
+                    Penalty:  60 penalty units.
+
+             (4)  Subsection (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (6)  If:
+
+                     (a)  the service reduces the amount by which it charges an individual in respect of care in anticipation of the Secretary’s calculation of the amount of child care rebate applicable for the service in respect of the individual and a child for a week; and
+
+                     (b)  the service was an approved child care service at the time the care was provided;
+
+the service is taken to have passed on to the individual an amount equal to the anticipated child care rebate.
+
+             (7)  The amount is taken to have been passed on to the individual on the day on which the Secretary notified the service of the amount in accordance with subsection 65EAAB(2) or 65EAAE(2).
+
+##### <a id="219EB"></a>219EB  Obligation to provide additional material in section 219E statements
+
+             (1)  If:
+
+                     (a)  an approved child care service is required to pass on an amount under section 219EA to an individual in respect of care provided for a child by the service in a week; and
+
+                     (b)  the care is provided in a statement period for the service described in subsection 219E(4) or set out in rules made under paragraph 219E(6)(c);
+
+the service must set out the additional matters specified in subsection (4) in relation to the care in the statement given to the individual or another person under section 219E for the statement period.
+
+Note:          This is a civil penalty provision. Part 8C provides for pecuniary penalties for breaches of civil penalty provisions.
+
+             (2)  An approved child care service commits an offence if:
+
+                     (a)  the approved child care service is required to pass on an amount under section 219EA to an individual in respect of care provided for a child by the service in a week; and
+
+                     (b)  the care is provided in a statement period for the service described in subsection 219E(4) or set out in rules made under paragraph 219E(6)(c); and
+
+                     (c)  the service does not set out the additional matters specified in subsection (4) in relation to the care in the statement given to the individual or another person under section 219E for the statement period.
+
+                    Penalty:  60 penalty units.
+
+             (3)  Subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code._
+
+       �
