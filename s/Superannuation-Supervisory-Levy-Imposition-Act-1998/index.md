@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00454/Html/SuperSuperLevyImpos98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00569/Html/SuperSuperLevyImpos98WD02_image001.gif)
 
 # Superannuation Supervisory Levy Imposition Act 1998
 
 **Act No. 60 of 1998 as amended**
 
-This compilation was prepared on 6 July 2010
- taking into account amendments up to Act No. 82 of 2010
+This compilation was prepared on 27 September 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -106,27 +106,23 @@ Note:          For **_restricted levy component_**, see subsec
 
                      (a)  unless paragraph (b) or (c) applies—the amount that, for the financial year, is the restricted levy percentage of:
 
-                              (i)  except where the superannuation entity was an unregulated entity on 30 June of the previous financial year—the superannuation entity’s levy base on that day; or
+                              (i)  except where the superannuation entity was an unregulated entity on 30 June of the previous financial year—the superannuation entity’s asset value on that day; or
 
-                             (ii)  if the superannuation entity was an unregulated entity, or was not in existence, on 30 June of the previous financial year—the entity’s levy base on the day when the entity became a superannuation entity; or
+                             (ii)  if the superannuation entity was an unregulated entity on 30 June of the previous financial year—the unregulated entity’s asset value on that day; or
 
                      (b)  if the amount worked out under paragraph (a) exceeds the maximum restricted levy amount for the financial year—the maximum restricted levy amount; or
 
                      (c)  if the amount worked out under paragraph (a) is less than the minimum restricted levy amount for the financial year—the minimum restricted levy amount.
 
-Note:          The restricted levy percentage, maximum restricted levy amount, minimum restricted levy amount and the method of working out the superannuation entity’s levy base are as determined under subsection (3).
+Note:          The restricted levy percentage, maximum restricted levy amount, minimum restricted levy amount and the method of working out the superannuation entity’s asset value are as determined under subsection (3).
 
-          (1B)  The **_unrestricted levy_** **_component_** for the financial year is the amount that, for the financial year, is the unrestricted levy percentage of:
-
-                     (a)  if the superannuation entity was an unregulated entity, or was not in existence, on 30 June of the previous financial year—the entity’s levy base on the day when the entity became a superannuation entity; or
-
-                     (b)  otherwise—the superannuation entity’s levy base on 30 June of the previous financial year.
+          (1B)  The **_unrestricted levy_** **_component_** for the financial year is the amount that, for the financial year, is the unrestricted levy percentage of the superannuation entity’s asset value.
 
 Note:          The unrestricted levy percentage is as determined under subsection (3).
 
              (2)  If the levy imposition day for the trustee of a superannuation entity for the financial year is later than 1 July in the financial year, the amount of levy payable by the trustee for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00454/Html/SuperSuperLevyImpos98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00569/Html/SuperSuperLevyImpos98WD02_image002.gif)
 
              (3)  The Treasurer is, by legislative instrument, to determine:
 
@@ -138,7 +134,7 @@ Note:          The unrestricted levy percentage is as determin
 
                     (ca)  the **_unrestricted levy percentage_** for each financial year; and
 
-                     (d)  how a **_superannuation entity’s levy base_** is to be worked out.
+                     (d)  how a **_superannuation entity’s asset value_** is to be worked out.
 
              (4)  An amount determined under subsection (3) as the maximum restricted levy amount must not exceed the statutory upper limit as at the time when the determination is made.
 
@@ -319,23 +315,6 @@ of Assent</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>82, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 29–33): 1 July 2010</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -374,15 +353,7 @@ of Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 37, 2002; No. 18, 2005; No. 154, 2007; No. 82, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 7(1A)</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2010</div>
+    <div>am. No. 37, 2002; No. 18, 2005; No. 154, 2007</div>
   </td>
 </tr>
 <tr>
