@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00653/Html/d6c79e56-5196-44b9-bd71-bb227fd00f1e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00086/Html/a56a99c7-a442-4b57-83f2-c967e119cee1_files/image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 15 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2011C00653/Html/d6c79e56-5196-44b9-bd71-bb227fd00f1e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00086/Html/a56a99c7-a442-4b57-83f2-c967e119cee1_files/image002.gif)
 
 # Contents
 
@@ -362,7 +362,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
 [91](#91).          Amendment of certificate of registration
 
-**Part 9—Removal of trade mark from Register for non‑use**
+**Part 9—Removal of trade mark from Register for non-use**
 
 [92](#92).          Application for removal of trade mark from Register etc 
 
@@ -610,7 +610,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
 **Part 19—Administration**
 
-[199](#199).        Trade Marks Office and sub‑offices
+[199](#199).        Trade Marks Office and sub-offices
 
 [200](#200).        Seal of Trade Marks Office
 
@@ -746,7 +746,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
 [250](#250).        Rectification of Register
 
-[251](#251).        Action for removal of trade mark from Register for non‑use
+[251](#251).        Action for removal of trade mark from Register for non-use
 
 [252](#252).        Action for infringement of trade mark etc 
 
@@ -1035,9 +1035,9 @@ Note:          See section 213.
 
                     <a name="precessor-titl"></a>**_predecessor in title_**, in relation to a person who claims to be the owner of a trade mark, means:
 
-                     (a)  if the trade mark was assigned or transmitted to one or more than one other person before it was assigned or transmitted to the first‑mentioned person—that other person or any one of those other persons; or
+                     (a)  if the trade mark was assigned or transmitted to one or more than one other person before it was assigned or transmitted to the first-mentioned person—that other person or any one of those other persons; or
 
-                     (b)  if paragraph (a) does not apply—the person who assigned the trade mark, or from whom the trade mark was transmitted, to the first‑mentioned person.
+                     (b)  if paragraph (a) does not apply—the person who assigned the trade mark, or from whom the trade mark was transmitted, to the first-mentioned person.
 
 Note:          In the case of a trade mark that is neither registered nor the subject of an application for registration, the trade mark may be assigned or transmitted in Australia only in conjunction with the goodwill of a business concerned with the trade mark. If the trade mark is registered or the subject of an application for registration, section 106 provides that the trade mark may be assigned or transmitted with or without the goodwill of the business.
 
@@ -1131,7 +1131,7 @@ Note:          For **_prescribed court_** see section 190.
 
              (4)  In this Act:
 
-                    <a name="us-trade-mark-relat-good"></a>**_use of a trade mark in relation to goods_** means use of the trade mark upon, or in physical or other relation to, the goods (including second‑hand goods).
+                    <a name="us-trade-mark-relat-good"></a>**_use of a trade mark in relation to goods_** means use of the trade mark upon, or in physical or other relation to, the goods (including second-hand goods).
 
              (5)  In this Act:
 
@@ -1367,7 +1367,7 @@ Note:          For **_registered owner_** and **_registered tr
 
 ##### <a id="23"></a>23  Limitation on rights if similar trade marks etc. registered by different persons
 
-                   If trade marks that are substantially identical or deceptively similar have been registered by more than one person (whether in respect of the same or different goods or services), the registered owner of any one of those trade marks does not have the right to prevent the registered owner of any other of those trade marks from using that trade mark except to the extent that the first‑mentioned owner is authorised to do so under the registration of his or her trade mark.
+                   If trade marks that are substantially identical or deceptively similar have been registered by more than one person (whether in respect of the same or different goods or services), the registered owner of any one of those trade marks does not have the right to prevent the registered owner of any other of those trade marks from using that trade mark except to the extent that the first-mentioned owner is authorised to do so under the registration of his or her trade mark.
 
 Note:          For **_deceptively similar_** see section 10.
 
@@ -1525,7 +1525,7 @@ Note:          For **_collective trade mark_** see section 1
 
                      (b)  specify, in accordance with the regulations, the goods and/or services in respect of which it is sought to register the trade mark.
 
-             (4)  Regulations made for the purposes of paragraph (3)(b) may apply, adopt or incorporate any matter contained in any listing of goods and/or services published by the Registrar from time to time and made available for inspection by the public at the Trade Marks Office and its sub‑offices.
+             (4)  Regulations made for the purposes of paragraph (3)(b) may apply, adopt or incorporate any matter contained in any listing of goods and/or services published by the Registrar from time to time and made available for inspection by the public at the Trade Marks Office and its sub-offices.
 
              (5)  An application may be made in respect of goods and services of one or more of the classes provided for in regulations made under subsection 19(3).
 
@@ -1623,7 +1623,7 @@ Note:          For **_applicant_** see section 6.
 
 ##### <a id="35"></a>35  Appeal
 
-                   The applicant may appeal to the Federal Court against a decision of the Registrar:
+                   The applicant may appeal to the Federal Court against a decision of the Registrar:
 
                      (a)  to accept the application subject to conditions or limitations; or
 
@@ -1841,7 +1841,7 @@ Note:          Section 204 requires the Registrar, where no 
 
 ### Division 4—Application for registration of series of trade marks
 
-##### <a id="51"></a>51  Application—series of trade marks
+##### <a id="51"></a>51  Application—series of trade marks
 
              (1)  A person may make a single application under subsection 27(1) for the registration of 2 or more trade marks in respect of goods and/or services if the trade marks resemble each other in material particulars and differ only in respect of one or more of the following matters:
 
@@ -1985,7 +1985,7 @@ Note:          For **_applicant_** see section 6.
 
                      (b)  a similar provision of the regulations made for the purposes of Part 17A.
 
-Note:          Subsection 44(4) prevents rejection of an application for registration of a trade mark that is substantially identical with, or deceptively similar to, a registered trade mark or a trade mark whose registration is being sought where the first‑mentioned trade mark has been continuously used since before the priority date of the other trade mark.
+Note:          Subsection 44(4) prevents rejection of an application for registration of a trade mark that is substantially identical with, or deceptively similar to, a registered trade mark or a trade mark whose registration is being sought where the first-mentioned trade mark has been continuously used since before the priority date of the other trade mark.
 
              (2)  The registration of the section 44 trade mark may be opposed on the ground that the owner of the substantially identical or deceptively similar trade mark (**_similar trade mark_**) or the predecessor in title:
 
@@ -2017,9 +2017,9 @@ Note:          For **_applicant_** see section 6.
 
                    The registration of a trade mark in respect of particular goods or services may be opposed on the ground that:
 
-                     (a)  another trade mark had, before the priority date for the registration of the first‑mentioned trade mark in respect of those goods or services, acquired a reputation in Australia; and
+                     (a)  another trade mark had, before the priority date for the registration of the first-mentioned trade mark in respect of those goods or services, acquired a reputation in Australia; and
 
-                     (b)  because of the reputation of that other trade mark, the use of the first‑mentioned trade mark would be likely to deceive or cause confusion.
+                     (b)  because of the reputation of that other trade mark, the use of the first-mentioned trade mark would be likely to deceive or cause confusion.
 
 Note:          For **_priority date_** see section 12.
 
@@ -2821,7 +2821,7 @@ Note:          For **_prescribed court_** see section 190.
 
                    When the Registrar amends any particular entered in the Register in respect of a trade mark, the Registrar may also amend the certificate of registration if he or she thinks it appropriate to do so.
 
-## Part 9—Removal of trade mark from Register for non‑use
+## Part 9—Removal of trade mark from Register for non-use
 
 ##### <a id="92"></a>92  Application for removal of trade mark from Register etc.
 
@@ -2837,7 +2837,7 @@ Note:          For **_prescribed court_** see section 190.
 
 Note:          For **_prescribed court_** see section 190.
 
-             (4)  An application under subsection (1) or (3) (**_non‑use application_**) may be made on either or both of the following grounds, and on no other grounds:
+             (4)  An application under subsection (1) or (3) (**_non-use application_**) may be made on either or both of the following grounds, and on no other grounds:
 
                      (a)  that, on the day on which the application for the registration of the trade mark was filed, the applicant for registration had no intention in good faith:
 
@@ -2847,15 +2847,15 @@ Note:          For **_prescribed court_** see section 190.
 
                             (iii)  to assign the trade mark to a body corporate for use by the body corporate in Australia;
 
-                            in relation to the goods and/or services to which the non‑use application relates and that the registered owner:
+                            in relation to the goods and/or services to which the non-use application relates and that the registered owner:
 
                             (iv)  has not used the trade mark in Australia; or
 
                              (v)  has not used the trade mark in good faith in Australia;
 
-                            in relation to those goods and/or services at any time before the period of one month ending on the day on which the non‑use application is filed;
+                            in relation to those goods and/or services at any time before the period of one month ending on the day on which the non-use application is filed;
 
-                     (b)  that the trade mark has remained registered for a continuous period of 3 years ending one month before the day on which the non‑use application is filed, and, at no time during that period, the person who was then the registered owner:
+                     (b)  that the trade mark has remained registered for a continuous period of 3 years ending one month before the day on which the non-use application is filed, and, at no time during that period, the person who was then the registered owner:
 
                               (i)  used the trade mark in   Australia; or
 
@@ -2865,9 +2865,9 @@ Note:          For **_prescribed court_** see section 190.
 
 Note 1:       For **_file_** and **_month_** see section 6.
 
-Note 2:       If non‑use of a trade mark has been established in a particular place or export market, then instead of the trade mark being removed from the Register, conditions or limitations may be imposed under section 102 on the registration of the trade mark so that its registration does not extend to that place or export market.
+Note 2:       If non-use of a trade mark has been established in a particular place or export market, then instead of the trade mark being removed from the Register, conditions or limitations may be imposed under section 102 on the registration of the trade mark so that its registration does not extend to that place or export market.
 
-             (5)  If the right or interest on which a person relied to make an application (under subsection (1) or (3)) to obtain the removal of a trade mark from the Register becomes vested in another person, the other person may, on giving notice of the relevant facts to the Registrar or the court (as the case requires), be substituted for the first‑mentioned person as the applicant.
+             (5)  If the right or interest on which a person relied to make an application (under subsection (1) or (3)) to obtain the removal of a trade mark from the Register becomes vested in another person, the other person may, on giving notice of the relevant facts to the Registrar or the court (as the case requires), be substituted for the first-mentioned person as the applicant.
 
 ##### <a id="93"></a>93  Time for making application
 
@@ -3077,7 +3077,7 @@ Note:          For **_limitations_** see section 6.
 
 the Registrar or the court must, if so requested by the registered owner of the trade mark, give to the registered owner a certificate of those findings.
 
-             (2)  In any subsequent proceedings in which non‑use of the trade mark is alleged:
+             (2)  In any subsequent proceedings in which non-use of the trade mark is alleged:
 
                      (a)  the certificate is, on being produced, evidence of the facts stated in it; and
 
@@ -3303,7 +3303,7 @@ Note 4:       In addition, the regulations may provide for the effec
 
              (2)  Each of the following is a prohibited act:
 
-                     (a)  applying the trade mark to registered goods, or using the trade mark in physical relation to them, after the state, condition, get‑up or packaging in which they were originally offered to the public has been altered;
+                     (a)  applying the trade mark to registered goods, or using the trade mark in physical relation to them, after the state, condition, get-up or packaging in which they were originally offered to the public has been altered;
 
                      (b)  altering, or partially removing or obliterating, any representation of the trade mark applied to registered goods or used in physical relation to them;
 
@@ -3359,7 +3359,7 @@ Note 2:       For **_authorised user_** see section 8.
 
                     (fa)  both:
 
-                              (i)  the person uses a trade mark that is substantially identical with, or deceptively similar to, the first‑mentioned trade mark; and
+                              (i)  the person uses a trade mark that is substantially identical with, or deceptively similar to, the first-mentioned trade mark; and
 
                              (ii)  the court is of the opinion that the person would obtain registration of the substantially identical or deceptively similar trade mark in his or her name if the person were to apply for it; or
 
@@ -4159,9 +4159,9 @@ Note 2:       For **_strict liability_**, see section 6.1 of the _Cr
 
                      (b)  Division 2 of Part II of the _Proceeds of Crime Act 1987_; and 
 
-                     (c)  Part 2‑2 of the _Proceeds of Crime Act 2002_; and
+                     (c)  Part 2-2 of the _Proceeds of Crime Act 2002_; and
 
-                     (d)  Part 2‑3 of the _Proceeds of Crime Act 2002_.
+                     (d)  Part 2-3 of the _Proceeds of Crime Act 2002_.
 
 ##### <a id="160"></a>160  Conduct of employees and agents of natural persons
 
@@ -4275,7 +4275,7 @@ Note:          The goods or services certified may be those of
 
 ##### <a id="170"></a>170  Application of Act
 
-                   Subject to this Part, the provisions of this Act relating to trade marks (other than sections 8 and 26, paragraph 27(1)(b), sections 33, 34 and 41, sections 121 and 127, Part 9—Removal of trade mark from Register for non‑use and Part 17—Defensive Trade Marks) apply to certification trade marks and so apply as if a reference to a trade mark included a reference to a certification trade mark.
+                   Subject to this Part, the provisions of this Act relating to trade marks (other than sections 8 and 26, paragraph 27(1)(b), sections 33, 34 and 41, sections 121 and 127, Part 9—Removal of trade mark from Register for non-use and Part 17—Defensive Trade Marks) apply to certification trade marks and so apply as if a reference to a trade mark included a reference to a certification trade mark.
 
 ##### <a id="171"></a>171  Rights given by registration of a certification trade mark
 
@@ -4515,7 +4515,7 @@ Note:          For **_registered trade mark_** and _registered
 
 ##### <a id="186"></a>186  Application of Act
 
-                   Subject to this Part, the provisions of this Act (other than subsection 20(1), paragraph 27(1)(b), sections 41 and 59, sections 121 and 127, Part 9—Removal of trade mark from Register for non‑use and Part 16—Certification Trade Marks) apply to defensive trade marks and so apply as if a reference to a trade mark included a reference to a defensive trade mark.
+                   Subject to this Part, the provisions of this Act (other than subsection 20(1), paragraph 27(1)(b), sections 41 and 59, sections 121 and 127, Part 9—Removal of trade mark from Register for non-use and Part 16—Certification Trade Marks) apply to defensive trade marks and so apply as if a reference to a trade mark included a reference to a defensive trade mark.
 
 ##### <a id="187"></a>187  Additional grounds for rejecting application for registration or opposing registration
 
@@ -4661,7 +4661,7 @@ Note:          For **_prescribed court_** see section 190.
 
                      (a)  admit evidence orally, or on affidavit or otherwise;
 
-                     (b)  permit the examination and cross‑examination of witnesses, including witnesses who gave evidence before the Registrar;
+                     (b)  permit the examination and cross-examination of witnesses, including witnesses who gave evidence before the Registrar;
 
                      (c)  order an issue of fact to be tried as it directs;
 
@@ -4683,11 +4683,11 @@ Note:          For **_prescribed court_** see section 190.
 
 ## Part 19—Administration
 
-##### <a id="199"></a>199  Trade Marks Office and sub‑offices
+##### <a id="199"></a>199  Trade Marks Office and sub-offices
 
              (1)  For the purposes of this Act, there is to be an office called the Trade Marks Office.
 
-             (2)  There is to be a sub‑office of the Trade Marks Office in each State.
+             (2)  There is to be a sub-office of the Trade Marks Office in each State.
 
 ##### <a id="200"></a>200  Seal of Trade Marks Office
 
@@ -4827,9 +4827,9 @@ is _prima facie_ evidence of the matters so stated.
 
 ##### <a id="213"></a>213  Filing of documents
 
-             (1)  A document is taken to be filed at the Trade Marks Office if it is filed at a sub‑office of the Trade Marks Office.
+             (1)  A document is taken to be filed at the Trade Marks Office if it is filed at a sub-office of the Trade Marks Office.
 
-             (2)  A document may be filed at the Trade Marks Office or any of its sub‑offices by being delivered there:
+             (2)  A document may be filed at the Trade Marks Office or any of its sub-offices by being delivered there:
 
                      (a)  personally; or
 
@@ -4901,9 +4901,9 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
 (i)      by delivering it to the person personally; or
 
-(ii)     by leaving it at, or by sending it by pre‑paid post to, the address of the place of residence or business of the person last known to the person serving the document; or 
+(ii)     by leaving it at, or by sending it by pre-paid post to, the address of the place of residence or business of the person last known to the person serving the document; or 
 
-(b)  on a body corporate—by leaving it at, or sending it by pre‑paid post to, the head office, a registered office or a principal office of the body corporate.”.
+(b)  on a body corporate—by leaving it at, or sending it by pre-paid post to, the head office, a registered office or a principal office of the body corporate.”.
 
 ##### <a id="216"></a>216  Change of name
 
@@ -4941,7 +4941,7 @@ Note:          For **_applicant_** see section 6.
 
 ##### <a id="219"></a>219  Evidence of trade usage
 
-                   In an action or proceeding relating to a trade mark, evidence is admissible of the usage of the trade concerned and of any relevant trade mark, trade name or get‑up legitimately used by other persons.
+                   In an action or proceeding relating to a trade mark, evidence is admissible of the usage of the trade concerned and of any relevant trade mark, trade name or get-up legitimately used by other persons.
 
 ##### <a id="220"></a>220  Death of party to proceeding before Registrar
 
@@ -4991,13 +4991,13 @@ the Registrar may require the person to give security for the costs of the proce
 
 ##### <a id="223A"></a>223A  Doing act when Trade Marks Office reopens after end of period otherwise provided for doing act
 
-             (1)  If the last day of a period provided by this Act (except this section) for doing an act is a day when the Trade Marks Office, or a sub‑office of the Trade Marks Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub‑office is open for business.
+             (1)  If the last day of a period provided by this Act (except this section) for doing an act is a day when the Trade Marks Office, or a sub-office of the Trade Marks Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub-office is open for business.
 
-             (2)  For the purposes of this section, the Trade Marks Office, or a sub‑office of the Trade Marks Office, is taken not to be open for business on a day:
+             (2)  For the purposes of this section, the Trade Marks Office, or a sub-office of the Trade Marks Office, is taken not to be open for business on a day:
 
-                     (a)  declared by regulations to be a day on which the office or sub‑office is not open for business; or
+                     (a)  declared by regulations to be a day on which the office or sub-office is not open for business; or
 
-                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub‑office is not open for business.
+                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub-office is not open for business.
 
 Declarations
 
@@ -5235,13 +5235,13 @@ Note 2:       For **_deceptively similar_** see section 10.
 
 ##### <a id="231"></a>231  Regulations 
 
-             (1)  The Governor‑General may make regulations:
+             (1)  The Governor-General may make regulations:
 
                      (a)  prescribing matters required or permitted by this Act to be prescribed; or
 
                      (b)  prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act; or
 
-                     (c)  prescribing matters necessary or convenient to be prescribed for the conduct of any business relating to the Trade Marks Office or a sub‑office of the Trade Marks Office.
+                     (c)  prescribing matters necessary or convenient to be prescribed for the conduct of any business relating to the Trade Marks Office or a sub-office of the Trade Marks Office.
 
              (2)  Without limiting subsection (1), the regulations may:
 
@@ -5669,9 +5669,9 @@ Note:          For **_old register_**,_existing registered mar
 
 Note:          For **_old register_** see section 6.
 
-##### <a id="251"></a>251  Action for removal of trade mark from Register for non‑use
+##### <a id="251"></a>251  Action for removal of trade mark from Register for non-use
 
-                   If proceedings arising from an application to the Registrar or a court under section 23 (Provisions as to non‑use of trade mark) of the repealed Act were pending immediately before 1 January 1996, the repealed Act continues to apply:
+                   If proceedings arising from an application to the Registrar or a court under section 23 (Provisions as to non-use of trade mark) of the repealed Act were pending immediately before 1 January 1996, the repealed Act continues to apply:
 
                      (a)  in relation to those proceedings; and
 
@@ -5779,7 +5779,7 @@ Note:          For **_existing registered mark_** see section 
 
              (1)  If:
 
-                     (a)  an action or proceeding validly brought for the purposes of the repealed Act was still pending immediately before 1 January 1996; and
+                     (a)  an action or proceeding validly brought for the purposes of the repealed Act was still pending immediately before  1 January 1996; and
 
                      (b)  that action or proceeding could have been brought under this Act if this Act had been in force when the action or proceeding was started;
 
@@ -6192,30 +6192,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1163, 1164) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Trade Marks Act 1995_ was amended by Schedule 1 (items 25–41) only of the _Industry, Science and Tourism Legislation Amendment Act 1997_, subsection 2(4) of which provides as follows:
+_(a)_     The _Trade Marks Act 1995_ was amended by Schedule 1 (items 25-41) only of the _Industry, Science and Tourism Legislation Amendment Act 1997_, subsection 2(4) of which provides as follows:
 
                  (4)   The amendments of the _Trade Marks Act 1995_ made by Schedule 1 are taken to have commenced on 1 January 1996.
 
-_(b)_     The _Trade Marks Act 1995_ was amended by Schedule 2 (items 33–46) only of the _Intellectual Property Laws Amendment Act 1998_, subsection 2(5) of which provides as follows:
+_(b)_     The _Trade Marks Act 1995_ was amended by Schedule 2 (items 33-46) only of the _Intellectual Property Laws Amendment Act 1998_, subsection 2(5) of which provides as follows:
 
                  (5)   If Schedule 2 does not commence under subsection (4) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, Schedule 2 commences on the first day after the end of that period.
 
@@ -8253,7 +8236,7 @@ Note 1:       For **_PPSA security interest_** see section 6.
 
 Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 15 August 2011 the amendments are not incorporated in this compilation.
+As at 14 January 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -8281,27 +8264,9 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 15 August 2011 the amendment is not incorporated in this compilation.
+As at 14 January 2011 the amendment is not incorporated in this compilation.
 
-### Note 4
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1163  Section 6A (note)
-
-Repeal the note, substitute:
-
-Note:          For example, a period of 3 months from an event on 30 September ends on 30 December under this rule.
-
-## 1164  Subsection 215(7) (note)
-
-Omit “Section 28A”, substitute “Subsection 28A(1)”.
-
-As at 15 August 2011 the amendments are not incorporated in this compilation.
+ 
 
 ## Table A
 
@@ -8635,21 +8600,5 @@ The amendments made by items 71, 74 and 75 of this Schedule apply in relation 
 ## 82  Application of item 76
 
 The amendment made by item 76 of this Schedule applies in relation to trade marks registered before, on or after the commencement of this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
