@@ -1,17 +1,16 @@
-![](http://www.comlaw.gov.au/Details/C2011C00886/Html/7bd3fb5a-8ecc-42e4-b1d7-1fa9c018bfd4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00361/Html/80151952-2cfb-442e-95d9-b227a2a9f1a9_files/image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 3 November 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 9 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
@@ -522,7 +521,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Introductory
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Quarantine Act 1908_.
 
@@ -6528,7 +6527,7 @@ Note:          The pilot will not be guilty of an offence if t
 
 Note:          The master will not be guilty of an offence if the entry of the vessel to the port was due to circumstances of sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
-##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
+##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
 
              (1)  In this section:
 
@@ -7742,7 +7741,7 @@ Remainder: 24 May 1984</div>
     <div>6 Nov 1987</div>
   </td>
   <td>
-    <div>Parts I–V (ss. 
+    <div>Parts I‑V (ss. 
 1–30) and Part VIII (s. 57): 15 Oct 1987 
 Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
@@ -8467,7 +8466,7 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
     <div>Schedules 1 and 2: 29 July 2008 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
-    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -8481,7 +8480,7 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (items 55, 56): 22 Nov 2008</div>
+    <div>Schedule 3 (items 55, 56): 22 Nov 2008</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -8515,7 +8514,7 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 84): Royal Assent</div>
+    <div>Schedule 5 (item 84): Royal Assent</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -8536,23 +8535,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   </td>
   <td colspan="2">
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 966, 967) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -8697,8 +8679,7 @@ _(m)_    Subsection 2(1) (items 4 and 6) of the _Agriculture, Fisheries 
   <td>
     <div>
       27 October 2004
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -8728,8 +8709,7 @@ _(m)_    Subsection 2(1) (items 4 and 6) of the _Agriculture, Fisheries 
   <td>
     <div>
       27 October 2004
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -8907,8 +8887,7 @@ _(o)_     Subsection 2(1) (item 3) of the _Quarantine Amendment (Healt
   <td>
     <div>
       27 October 2004
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -8974,8 +8953,7 @@ _(p)_     Subsection 2(1) (items 5B and 8) of the _Agriculture, Fisher
   <td>
     <div>
       1 July 2004
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -12904,25 +12882,7 @@ Insert:
 
                      (b)  is not in possession or control of the goods or premises at that time.
 
-As at 3 November 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 966  Subsection 5(1) (definition of _Continental Shelf_)
-
-Repeal the definition.
-
-## 967  Subsection 6(3) (note)
-
-Omit “paragraph 17(a)”, substitute “section 2B”.
-
-As at 3 November 2011 the amendments are not incorporated in this compilation.
+As at 9 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -13331,21 +13291,5 @@ Main amendments
 Amendments relating to the remission of fees
 
 (2)       The amendments of the _Quarantine Act 1908_ made by items 15, 17, 18 and 20 apply in relation to fees that become payable after the commencement of those items.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
