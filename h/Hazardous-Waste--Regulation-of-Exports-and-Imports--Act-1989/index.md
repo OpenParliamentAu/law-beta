@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image001.gif)
 
 # Hazardous Waste (Regulation of Exports and Imports) Act 1989
 
 **Act No. 6 of 1990 as amended**
 
-This compilation was prepared on 14 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 26 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1026,7 +1026,7 @@ the Minister must not grant the permit unless the Minister is satisfied that the
 
                      (b)  the application, as varied, is to be taken to have been received by the Minister on the day on which the Minister received the notice.
 
-##### <a id="15"></a>15  Further information may be requested
+##### <a id="15"></a>15  Further information may be requested
 
              (1)  If the Minister needs further information to deal with a permit application, the Minister may ask the applicant to provide the information in writing.
 
@@ -1590,7 +1590,7 @@ Note:          Under Subdivision A of Division 4 of Part 11 of
 
 ##### <a id="30"></a>30  Making of variations
 
-                   The Minister must make the variation sought by a variation application if the Minister is satisfied that if the Minister were asked to grant the Basel permit, as proposed to be varied, the Minister would decide to grant the permit.
+                   The Minister must make the variation sought by a variation application if the Minister is satisfied that if the Minister were asked to grant the Basel permit, as proposed to be varied, the Minister would decide to grant the permit.
 
 ##### <a id="31"></a>31  Applicants to be notified of decisions
 
@@ -2237,6 +2237,10 @@ Definition
                      (d)  members of the police force of a State or Territory whom a Minister of the Crown of the State, or Minister of the Territory, has agreed may be appointed as inspectors.
 
 Note:          Paragraph (a) includes, for example, staff of Customs and of the Australian Maritime Safety Authority.
+
+             (4)  In subsection (3):
+
+                    <a name="minist"></a>**_Minister_**, in relation to Norfolk Island, means a member of the Executive Council of Norfolk Island.
 
 ##### <a id="43"></a>43  Identity cards
 
@@ -5207,7 +5211,7 @@ B4030         Used single use cameras, with batteries not includ
 
 ### Note 1
 
-The _Hazardous Waste (Regulation of Exports and Imports) Act 1989_ as shown in this compilation comprises Act No. 6, 1990 amended as indicated in the Tables below.
+_Hazardous Waste (Regulation of Exports and Imports) Act 1989_ as shown in this compilation comprises Act No. 6, 1990 amended as indicated in the Tables below.
 
 The _Hazardous Waste (Regulation of Exports and Imports) Act 1989_ was amended by the _Hazardous Waste (Regulation of Exports and Imports) (Decision IV/9) Regulations 1999_. The amendments are incorporated in this compilation.
 
@@ -5427,24 +5431,7 @@ Remainder: 24 May 2001</div>
     <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (item 35): 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 2010</div>
-  </td>
-  <td>
-    <div>139, 2010</div>
-  </td>
-  <td>
-    <div>10 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 67): 11 Dec 2010</div>
+    <div>Schedule 2 (item 35): 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -6311,7 +6298,7 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 7, 1996; No. 139, 2010</div>
+    <div>am. No. 7, 1996</div>
   </td>
 </tr>
 <tr>
@@ -6523,6 +6510,8 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
   </td>
 </tr></table>
 
+ 
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6630,11 +6619,13 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
                    The amendment made by item 8 of Schedule 1 applies in relation to orders made after the commencement of that item.
 
  
+
+ 
 * * *
 
 <div id="ftn1">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image002.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image002.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[1]</span></span> Note that mirror entry on list B (B1160) does not specify exceptions.
 
@@ -6648,7 +6639,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn3">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image003.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image003.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[3]</span></span> PCBs are at a concentration level of 50 mg/kg or more.
 
@@ -6656,7 +6647,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn4">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image003.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image003.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[4]</span></span> The 50 mg/kg level is considered to be an internationally practical level for all wastes. However, many individual countries have established lower regulatory levels (eg., 20 mg/kg) for specific wastes.
 
@@ -6664,7 +6655,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn5">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image003.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image003.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[5]</span></span> “Out-dated” means unused within the period recommended by the manufacturer.
 
@@ -6678,7 +6669,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn7">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[7]</span></span> “Out-dated” means unused within the period recommended by the manufacturer.
 
@@ -6686,7 +6677,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn8">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[8]</span></span> Note that even where low level contamination with Annex I materials initially exists, subsequent processes, including recycling processes, may result in separated fractions containing significantly enhanced concentrations of those Annex I materials.
 
@@ -6700,7 +6691,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn10">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[10]</span></span> This entry does not include scrap from electrical power generation.
 
@@ -6708,7 +6699,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn11">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[11]</span></span> Reuse can include repair, refurbishment or upgrading, but not major reassembly.
 
@@ -6722,7 +6713,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn13">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[13]</span></span> It is understood that such scraps are completely polymerized.
 
@@ -6730,7 +6721,7 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn14">
 
-![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+![---](http://www.comlaw.gov.au/Details/C2009C00215/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[14]</span></span> Post-consumer wastes are excluded from this entry
 
