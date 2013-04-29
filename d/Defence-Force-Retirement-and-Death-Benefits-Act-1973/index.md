@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image001.gif)
 
 # Defence Force Retirement and Death Benefits Act 1973
 
 **Act No. 81 of 1973 as amended**
 
-This compilation was prepared on 26 June 2008
- taking into account amendments up to Act No. 26 of 2008
+This compilation was prepared on 1 January 2008
+ taking into account amendments up to Act No. 165 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -410,7 +410,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="benefit"></a>**_benefit_** means pension benefit, and includes a lump sum payment under subsection 32(2) or section 48 and a refund of contributions under section 56.
 
-                    <a name="board"></a>**_Board_** has the same meaning as in the _Superannuation Act 1990_.
+                    <a name="board"></a>**_Board_** means the Commonwealth Superannuation Board of Trustees No. 1 established by section 20 of the _Superannuation Act 1990_.
 
                     <a name="child"></a>**_child_**, in relation to a deceased member of the scheme, includes:
 
@@ -484,7 +484,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fortnightli-rate-pai"></a>**_fortnightly rate of pay_**, in relation to a member of the Defence Force on a particular day, means an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image002.gif)
 
 where **_A_** is the annual rate of pay applicable to him on that day.
 
@@ -624,7 +624,7 @@ is excluded from the definition of **_eligible member of the Defence Force_** in
 
                      (c)  a person to whom section 63 applies.
 
-##### <a id="6"></a>6  Non-effective service
+##### <a id="6"></a>6  Non-effective service
 
              (1)  Where a member of the scheme has, for any period commencing on or after the date of commencement of the scheme and ending before 3 July 1985, being a period that exceeds 21 consecutive days, been:
 
@@ -781,7 +781,7 @@ whether or not the person was legally married to that other person.
 
              (2)  The rate of the spouse pension to which the spouse is entitled is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image003.gif)
 
              (3)  If the rate worked out under subsection (2) is less than or equal to  the rate prescribed by the regulations for the purposes of this section, the spouse is instead entitled to a lump sum payment worked out in accordance with the regulations.
 
@@ -1029,7 +1029,7 @@ the rate at which retirement pay is payable to him is the amount per annum that,
 
              (6)  If the member of the scheme makes an election under subsection 124(1), the rate at which retirement pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image004.gif)
 
 where:
 
@@ -1072,7 +1072,7 @@ exceeds the amount per annum of the retirement pay to which the person was or wi
 
           (2B)  For the purposes of subsection (2A), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image005.gif)
 
 where **_A_** is:
 
@@ -1114,7 +1114,7 @@ then, subject to subsection (7), subsection (3) applies to the person as if:
 
                      (b)  if the previous election made by the person had specified a lesser amount than the previous maximum amount—an amount calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image006.gif)
 
              (7)  Where, because of subsection (5), subsection (3) applies to a person (in this subsection called the **_recipient member_**), there must be deducted from the amount that, apart from this subsection, would be payable to the recipient member under paragraph (3)(a) an amount equal to the sum of:
 
@@ -1144,7 +1144,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1170,7 +1170,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the retirement pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
                             where:
 
@@ -1377,7 +1377,7 @@ the Authority must:
 
              (4)  If the member of the scheme makes an election under subsection 124(1), the rate at which invalidity pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image004.gif)
 
 where:
 
@@ -1387,7 +1387,7 @@ where:
 
                     <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_** means the member’s surcharge deduction amount.
 
-##### <a id="32"></a>32  Class C invalidity benefit
+##### <a id="32"></a>32  Class C invalidity benefit
 
              (1)  Subject to section 33, where a member of the scheme who is entitled to invalidity benefit and is classified as Class C under section 30 (whether on his retirement or by reason of his having been reclassified under subsection 34(1)) would, if at the time when he was retired on the ground of invalidity or of physical or mental incapacity to perform his duties, he had retired on other grounds, have been entitled to retirement pay, the member is entitled:
 
@@ -1441,7 +1441,7 @@ exceeds the amount per annum of the invalidity pay to which the member of the sc
 
           (4A)  For the purposes of subsection (4), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image005.gif)
 
 where **_A_** is:
 
@@ -1487,7 +1487,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1513,7 +1513,7 @@ the following provisions apply:
 
                       (f)  the amount per annum of the invalidity pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1819,7 +1819,7 @@ the person (in this section called the **_elector_**) may, by notice in writing 
 
              (3)  The amount referred to in subsection (2) must not exceed an amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image008.gif)
 
 where:
 
@@ -1851,7 +1851,7 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the commuted amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -1887,7 +1887,7 @@ where:
 
 then, subject to subsection (2A), there is payable to the orphan or each of the orphans, instead of the pensions described in subsection (2), a pension at the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image004.gif)
 
 where:
 
@@ -2206,7 +2206,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image009.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image009.gif)
 
 ### Division 2—Benefits for non-member spouse
 
@@ -2436,7 +2436,7 @@ then, subject to sections 62, 63 and 64, upon his again becoming such an eligi
 
              (2)  The amount of a fortnightly instalment of pension benefit shall be an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image010.gif)
 
 where **_P_** is the amount per annum of the pension benefit.
 
@@ -2897,11 +2897,11 @@ the amount of the transfer value is the difference between:
 
 the rate at which retirement pay is payable to the person is (instead of the rate provided for in section 23) an amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
-                    <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in subsection (3).
+                    <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in subsectionÊ(3).
 
                     <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the person under the determination made by the Authority under section 124A.
 
@@ -2931,7 +2931,7 @@ then, subject to subsection (4A), the rate at which retirement pay is payable 
 
 the rate at which retirement pay is payable to the person is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image007.gif)
 
 where:
 
@@ -3181,7 +3181,7 @@ by notice in writing to the Authority revoke the election and, in that case, par
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image011.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image011.gif), where:
 
 **_a_** is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4).
 
@@ -3433,7 +3433,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
              (2)  The increase provided for by subsection (1) in the rate at which a pension benefit was payable to a pensioner immediately before the commencement of a prescribed half-year (in this section referred to as the **_relevant prescribed half-year_**) is the prescribed percentage, ascertained in accordance with subsection (3), of the rate of pension benefit that, under subsection (4), is the relevant rate of pension in relation to the pensioner.
 
-             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2008C00210/Html/DefForRetDeathBen1973_WD02_image012.gif) expressed as a percentage of **_B_**, where:
+             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2008C00008/Html/DefForRetDeathBen1973_WD02_image012.gif) expressed as a percentage of **_B_**, where:
 
                     <a name=""></a>**_A_** is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding the prescribed half-year; and
 
@@ -3509,7 +3509,7 @@ there were substituted, on the first day of that prescribed half-year, an amount
 
              (7)  Where, by reason of the death of a recipient member on 30 June or 31 December (as the case requires) immediately preceding the commencement of a prescribed half-year, a pension benefit becomes payable, on the following day, to another person, that other person shall be entitled, at the commencement of that prescribed half-year, to such an increase in the rate of that pension benefit as he would have been entitled to had the pension benefit become payable to him on that 30 June or 31 December (as the case requires).
 
-##### <a id="98C"></a>98C  Application of increase to suspended pension benefits
+##### <a id="98C"></a>98C  Application of increase to suspended pension benefits
 
                    Where a pension benefit would, but for its suspension under subsection 35(3), 61C(1), 61D(2) or 135(2), be payable to a person immediately before the commencement of a prescribed half-year, that pension benefit shall, for the purposes of this Part, be deemed to have been payable to that person immediately before the commencement of that prescribed half-year but any increase in the rate of that pension benefit by virtue of this Part does not take effect in respect of any part of that period of suspension.
 
@@ -5965,23 +5965,6 @@ Schedule 6: 1 Jan 2008 ( <i>see</i>F2007L04119)</div>
       <div>Sch. 4 (item 8) and Sch. 6 (items 4, 6) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Superannuation Legislation Amendment (Trustee Board and Other Measures) (Consequential Amendments) Act 2008</div>
-    </td>
-    <td>
-      <div>26, 2008</div>
-    </td>
-    <td>
-      <div>23 June 2008</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 57): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _Defence Force Retirement and Death Benefits Act 1973_ was amended by sections
@@ -6292,7 +6275,7 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001; No. 26, 2008</div>
+    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001</div>
   </td>
 </tr>
 <tr>
