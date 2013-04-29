@@ -1,4 +1,4 @@
-![](http://www.comlaw.gov.au/Details/C2010C00592/Html/EvidenceandProcNZ1994_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00430/Html/EvidenceandProcNZ1994_image001.gif)
 
 # Evidence and Procedure (New Zealand) Act 1994
 
@@ -8,8 +8,8 @@
 
 **For saving provision _see_ Act No. 36, 2010, Schedule 2 (item 2)]**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 10 September 2009
+ taking into account amendments up to Act No. 77 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -588,7 +588,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 unless the person establishes that the contravention should be excused.
 
-##### <a id="34"></a>34  Privileges, protection and immunity of participants in New Zealand proceedings
+##### <a id="34"></a>34  Privileges, protection and immunity of participants in New Zealand proceedings
 
              (1)  A judge or master presiding at or otherwise taking part in the proceeding has, in connection with evidence being taken or submissions being received by video link or telephone from a person in Australia, the same privileges, protection and immunity as a Judge of the Federal Court of Australia.
 
@@ -887,23 +887,6 @@ Remainder: 1 Apr 1995 ( <i>see Gazette</i>1995, No. GN8)</div>
   <td>
     <div>Sch. 3 (item 6)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 56): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amended by Schedule 26 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
@@ -1025,25 +1008,6 @@ _(a)_     The _Evidence and Procedure (New Zealand) Act 1994_ was amende
     <div>am. No. 24, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Evidence and Procedure (New Zealand) Act 1994</h9>
-
-## 56  Subparagraph 14(2)(a)(iv)
-
-As at 16 August 2010 the amendment is not incorporated in the compilation.
 
 ## Table A
 
