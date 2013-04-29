@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image001.gif)
 
 # Defence Force (Home Loans Assistance) Act 1990
 
 **Act No. 14 of 1991 as amended**
 
-This compilation was prepared on 10 October 2005
- taking into account amendments up to Act No. 121 of 2005
+This compilation was prepared on 1 July 2004
+ taking into account amendments up to Act No. 52 of 2004
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,110 +13,110 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Introductory**
+**Part 1—Introductory**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Definitions                                                                                           1
+[3](#3).            Definitions
 
-[3A](#3A).         Operational service member                                                                9
+[3A](#3A).         Operational service member
 
-[3B](#3B).         Warlike service member                                                                     10
+[3B](#3B).         Warlike service member
 
-[3C](#3C).         Minister may declare warlike service                                                11
+[3C](#3C).         Minister may declare warlike service
 
-[4](#4).            When do former members stop being eligible members?                   11
+[4](#4).            When do former members stop being eligible members?
 
-[5](#5).            Ownership of house                                                                          12
+[5](#5).            Ownership of house
 
-[6](#6).            Family members                                                                                12
+[6](#6).            Family members
 
-[7](#7).            Breaking continuity of service                                                           12
+[7](#7).            Breaking continuity of service
 
-[8](#8).            Multiple widows or widowers                                                          13
+[8](#8).            Multiple widows or widowers
 
-[9](#9).            Approval of agreement etc                                                                13
+[9](#9).            Approval of agreement etc 
 
 **Part 2—Entitlement certificates, loan increases and sales, purchases and transfers** 
 
     **Division 1—Entitlement certificates**
 
-[10](#10).          Application for certificate                                                                 14
+[10](#10).          Application for certificate
 
-[11](#11).          Issue of certificate                                                                              14
+[11](#11).          Issue of certificate
 
-[12](#12).          Criteria for issue of certificate                                                           15
+[12](#12).          Criteria for issue of certificate
 
-[13](#13).          Cancellation, variation or revocation of certificate                            16
+[13](#13).          Cancellation, variation or revocation of certificate
 
     **Division 2—Loan increases**
 
-[14](#14).          Application for approval in relation to loan increase                        18
+[14](#14).          Application for approval in relation to loan increase
 
-[15](#15).          Grant of approval                                                                              18
+[15](#15).          Grant of approval
 
-[16](#16).          Revocation of approval                                                                     19
+[16](#16).          Revocation of approval
 
     **Division 3—Sale etc. of houses subject to subsidised loans**
 
-[17](#17).          Application for approval in relation to sale, purchase or transfer    20
+[17](#17).          Application for approval in relation to sale, purchase or transfer
 
-[18](#18).          Grant of approval                                                                              20
+[18](#18).          Grant of approval
 
-[19](#19).          Revocation of approval                                                                     21
+[19](#19).          Revocation of approval
 
 **Part 3—Subsidy**
 
-[20](#20).          When does subsidy become payable?                                               22
+[20](#20).          When does subsidy become payable?
 
-[21](#21).          Maximum amounts on which subsidy is payable                             24
+[21](#21).          Maximum amounts on which subsidy is payable
 
-[22](#22).          Minimum amounts on which subsidy is payable                              24
+[22](#22).          Minimum amounts on which subsidy is payable
 
-[23](#23).          Subsidy period—eligible persons                                                      24
+[23](#23).          Subsidy period—eligible persons
 
-[24](#24).          Subsidy period—widows and widowers                                           28
+[24](#24).          Subsidy period—widows and widowers
 
-[25](#25).          Calculation of amounts of subsidy                                                    29
+[25](#25).          Calculation of amounts of subsidy
 
-[26](#26).          Joint loans to entitled persons who are spouses                               29
+[26](#26).          Joint loans to entitled persons who are spouses
 
-[27](#27).          Cancellation of subsidy                                                                     30
+[27](#27).          Cancellation of subsidy
 
-[28](#28).          Request to cancel subsidy                                                                 31
+[28](#28).          Request to cancel subsidy
 
-[29](#29).          When does subsidy stop?                                                                  31
+[29](#29).          When does subsidy stop?
 
-[30](#30).          What happens on the death of a borrower who is an eligible person? 32
+[30](#30).          What happens on the death of a borrower who is an eligible person?
 
-[31](#31).          Recovery of certain payments by Commonwealth                           34
+[31](#31).          Recovery of certain payments by Commonwealth
 
-[32](#32).          Waiver etc                                                                                          35
+[32](#32).          Waiver etc 
 
 **Part 4—Miscellaneous**
 
-[33](#33).          Internal review of reviewable decisions                                             37
+[33](#33).          Internal review of reviewable decisions
 
-[34](#34).          Review of decisions by Administrative Appeals Tribunal               38
+[34](#34).          Review of decisions by Administrative Appeals Tribunal
 
-[35](#35).          Subclause 8 4 of agreement not to be revoked or varied                    38
+[35](#35).          Subclause 8 4 of agreement not to be revoked or varied
 
-[36](#36).          Exchange of information                                                                    38
+[36](#36).          Exchange of information
 
-[37](#37).          Delegation                                                                                          39
+[37](#37).          Delegation
 
-[38](#38).          Appropriation                                                                                   39
+[38](#38).          Appropriation
 
-[39](#39).          Annual report                                                                                    39
+[39](#39).          Annual report
 
-[40](#40).          Regulations                                                                                        39
+[40](#40).          Regulations
 
 **Schedule 1—Agreement between the Commonwealth and the Bank** 
 
@@ -249,7 +249,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full-time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image002.gif)
 
                     where:
 
@@ -261,15 +261,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image003.gif)
 
 Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image004.gif)
 
 Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image005.gif)
 
                     <a name="continu-full-time-servic"></a>**_continuous full-time service_** means an unbroken period of full-time service by a member in the Defence Force.
 
@@ -393,9 +393,9 @@ and who, immediately before the discharge:
 
                     <a name="middl-east-oper-area"></a>**_Middle-East operational area_** means the area comprising the following countries and sea areas:
 
-                     (a)  Kuwait, Iraq, Bahrain, Oman, Qatar,   Saudi Arabia, the United Arab Emirates and the Island of Cyprus;
+                     (a)  Kuwait, Iraq, Bahrain, Oman, Qatar, Saudi Arabia, the United Arab Emirates and the Island of Cyprus;
 
-                     (b)  the sea areas contained within the  Gulf of Suez, the Gulf of Aqaba, the Red Sea, the Gulf of Aden, the Persian  Gulf and the Gulf of Oman;
+                     (b)  the sea areas contained within the Gulf of Suez, the Gulf of Aqaba, the Red Sea, the Gulf of Aden, the Persian Gulf and the Gulf of Oman;
 
                      (c)  the sea area contained within the Arabian Sea north of the boundary formed by joining each of the following points to the next:
 
@@ -604,7 +604,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
 ##### <a id="3C"></a>3C  Minister may declare warlike service
 
-             (1)  The Minister may, by legislative instrument, declare duty to be warlike service for the purposes of this Act.
+             (1)  The Minister may declare duty to be warlike service for the purposes of this Act.
 
              (2)  A declaration under subsection (1):
 
@@ -614,9 +614,11 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                      (c)  may relate to duty even if it was performed before the commencement of this section.
 
-             (3)  The Minister may, by legislative instrument, revoke or vary a declaration under subsection (1).
+             (3)  The Minister may by writing revoke or vary a declaration under subsection (1).
 
              (4)  An instrument under subsection (3) may take effect retrospectively, except in so far as it results in duty ceasing to be warlike service for the purposes of this Act.
+
+             (5)  Subject to this section, an instrument under subsection (1) or (3) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="4"></a>4  When do former members stop being eligible members?
 
@@ -1078,15 +1080,10 @@ whichever is less.
 
 <tr>
   <td>
-    <div>
-      <b>Period, or total of periods, during which the person performed warlike
-        service</b>
-    </div>
+    <div><b>Period, or total of periods, during which the person performed warlike service</b></div>
   </td>
   <td>
-    <div>
-      <b>Additional years of subsidy</b>
-    </div>
+    <div><b>Additional years of subsidy</b></div>
   </td>
 </tr>
 <tr>
@@ -1186,7 +1183,7 @@ where:
 
              (3)  The monthly subsidy amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image006.gif)
 
 where:
 
@@ -1210,7 +1207,7 @@ where:
 
                              (ii)  the end of the subsidy period to which the widow or widower is separately entitled;
 
-                            whichever happens first; and
+                            whichever happens first; and
 
                      (b)  when one of those things happens, paragraph (a) stops applying and the other provisions of this Act thereafter apply in relation to the loan as if the widow or widower were the sole subsidised borrower.
 
@@ -1738,7 +1735,7 @@ Clause
 
           31.9   Commencement Date after 31 December 1991
 
-                             31.10  Passage of enabling legislation after 31 December 1990
+                   31.10         Passage of enabling legislation after 31 December 1990
 
 SCHEDULES
 
@@ -2046,7 +2043,7 @@ In this Agreement except where the context otherwise requires:
 
 2.2     Bank to act in accordance with Scheme
 
-                        The Bank further agrees to be bound by and to act at all times in accordance with the Scheme.
+          The Bank further agrees to be bound by and to act at all times in accordance with the Scheme.
 
 3.       FRANCHISE
 
@@ -2068,7 +2065,7 @@ In this Agreement except where the context otherwise requires:
 
           (b)     for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a — b) ![](http://www.comlaw.gov.au/Details/C2005C00616/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
+P = (a — b) <sub>![](http://www.comlaw.gov.au/Details/C2004C00275/Html/DefForceHLA1990HYP_image007.gif)</sub> c
 
 Where 
 
@@ -3007,21 +3004,25 @@ In the event that the enabling legislation is passed after 31 December 1990, r
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-SIGNED for and on behalf of the                      
- Commonwealth of Australia by                                      GORDON BILNEY
- The Honourable GORDON NEIL                     
- BILNEY, Minister for Defence                         
- Science and Personnel, in the presence of:         
+SIGNED for and on behalf of the                      ü
+ Commonwealth of Australia by                         ÷             GORDON BILNEY
+ The Honourable GORDON NEIL                     ÷
+ BILNEY, Minister for Defence                         ý
+ Science and Personnel, in the presence of:         ú
 
-JONATHAN HUTSON                                   
+                                                                       ú
 
-SIGNED on behalf of                                       
- NATIONAL AUSTRALIA                                          JOHN F. ASTBURY
- BANK LIMITED by its Attorney                                  Chief General Manager JOHN FREDERICK ASTBURY,                                                                                Relationship Banking (North) under Power of Attorney dated       
- 22nd February 1990 (who states                        
- that he holds the office in the                             
- Bank indicated under his signature)                    
- in the presence of:                                            
+JONATHAN HUTSON                                   þ
+
+SIGNED on behalf of                                       ü
+ NATIONAL AUSTRALIA                             ú             JOHN F. ASTBURY
+ BANK LIMITED by its Attorney                     ú             Chief General Manager JOHN FREDERICK ASTBURY,         ú                                                                       Relationship Banking (North) under Power of Attorney dated       ú
+ 22nd February 1990 (who states                        ý
+ that he holds the office in the                             ú
+ Bank indicated under his signature)                    ú
+ in the presence of:                                            ú
+
+                                                                       þ
 
 R. J. MILLER                                                 
 
@@ -3604,13 +3605,13 @@ Term:                         
 
 Initial Instalment: $
 
-Due:   Monthly/Fortnightly* —commencing that period from final drawdown or such other date as advised by the Bank.
+Due:   Monthly/Fortnightly<sup>* </sup>—commencing that period from final drawdown or such other date as advised by the Bank.
 
 Reference Rate:               % per annum
 
 4.            Loan Interest Day
 
-Last business day of each—Month**              (*  * Delete and specify relevant period if other than Month)
+Last business day of each—Month<sup>**</sup>               (<sup>* </sup> <sup>* </sup>Delete and specify relevant period if other than Month)
 
 5.            Fees
 
@@ -3622,21 +3623,21 @@ Commitment fee:          % per annum
 
 6.            Securities
 
-(To be) registered First/Second*  Mortgage over property situated at—
+(To be) registered First/Second<sup>* </sup> Mortgage over property situated at—
 
 7.            Insurances
 
 Please effect a:
 
-*    Home Safe Policy with National and General Insurance Co. Ltd.
+<sup>* </sup>    Home Safe Policy with National and General Insurance Co. Ltd.
 
-*    Mortgage Safe Policy with National and General Insurance Co. Ltd.
+<sup>* </sup>    Mortgage Safe Policy with National and General Insurance Co. Ltd.
 
-*    Mortgage Safe Policy with National Australia Life Ltd.
+<sup>* </sup>    Mortgage Safe Policy with National Australia Life Ltd.
 
 and debit to the loan account the annual premium/s as advised by the Insurer/s.
 
-* Delete whichever is inapplicable.
+<sup>* </sup>Delete whichever is inapplicable.
 
 8.            Current Interest Rate
 
@@ -3648,7 +3649,7 @@ and debit to the loan account the annual premium/s as advised by the Insurer/s.
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilation on SCALEplus and ComLaw.
+The amendments made by this Schedule are incorporated in the compilation on SCALEplus.
 
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 14, 1991.
 
@@ -3898,25 +3899,7 @@ Remainder: Royal Assent</div>
     <div>27 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 3 (items 15–18): 1 July 2004 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2005</div>
-  </td>
-  <td>
-    <div>121, 2005</div>
-  </td>
-  <td>
-    <div>6 Oct 2005</div>
-  </td>
-  <td>
-    <div>Schedule 5: <i>(e) 
- </i>Remainder: Royal Assent</div>
+    <div>Schedule 3 (items 15–18): 1 July 2004 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -3940,93 +3923,6 @@ _(c)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amend
 _(d)_ The _Defence Force (Home Loans Assistance) Act 1990_ was amended by Schedule 2 (items 40–43) only of the _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
-
-_(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendment Act (No. 1) 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Legislative Instruments Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -4053,18 +3949,10 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004</div>
+    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4077,26 +3965,10 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>S. 3B</div>
+    <div>Ss. 3B, 3C</div>
   </td>
   <td>
     <div>ad. No. 95, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3C</div>
-  </td>
-  <td>
-    <div>ad. No. 95, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 121, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4104,23 +3976,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 91, 1992; No. 43, 1995; No. 135, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 152, 1991; No. 91, 1992; No. 43, 1995; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4149,26 +4005,10 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14</div>
   </td>
   <td>
     <div>am. No. 152, 1991; No. 56, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -4192,7 +4032,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; No. 52, 2004</div>
+    <div>am. No. 152, 1991; No. 95, 1993; No. 56, 1996; No. 52, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4201,14 +4041,6 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   </td>
   <td>
     <div>am. No. 56, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -4236,9 +4068,9 @@ _Defence Legislation amendment Act (No. 1) 1996 (No. 56, 1996)_
 
 _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001 (No. 10, 2001)_
 
-## Schedule 2
+Schedule 2
 
-## 94  Saving—old regulations
+94  Saving—old regulations
 
 (1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
@@ -4246,14 +4078,12 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 
 (2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
-## 95  Regulations about transitional matters
+95  Regulations about transitional matters
 
 (1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
 (2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
 (3)        Subitem (2) does not limit the scope of subitem (1).
-
- 
 
  
