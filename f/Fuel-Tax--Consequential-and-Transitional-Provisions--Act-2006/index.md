@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00521/Html/c2df1f75-0feb-4ab9-8d9b-5a88a5494a2b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00223/Html/a382ec90-acf1-45fa-bc6d-0c1aa0a38f51_files/image001.gif)
 
 # Fuel Tax (Consequential and Transitional Provisions) Act 2006
 
 **Act No. 73 of 2006 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 1 February 2012
  taking into account amendments up to Act No. 157 of 2011
 
 The text of any of those amendments not in force
@@ -882,8 +882,6 @@ _Note:       Division 44 of the Fuel Tax Act 2006 deals with adjus
                      (c)  you acquired the vehicle before 1 July 2006.
 
 (2)       You are entitled to a credit under section 41‑5 of the Fuel Tax Act if you would have been entitled to a credit in respect of the fuel under that section, disregarding section 41‑20 of that Act.
-
-(2A)     If, because of subitem (2), you are entitled to a credit in respect of the fuel acquired, manufactured or imported for use as mentioned in subparagraph (1)(b)(i), then, for the purpose of section 43‑8 of the Fuel Tax Act, the amount of carbon reduction that applies to the fuel is taken to be nil.
 
 (3)       To avoid doubt, this item continues to apply despite the repeal of the Energy Grants Act on 1 July 2012.
 
@@ -3774,7 +3772,7 @@ If:
 
                             (iv)  a reviewable GST transitional decision;
 
-                            (within the meaning of section 62 of the _Taxation Administration Act 1953_ as in force immediately before the commencement of this item); and
+                            (within the meaning of section 62 of the _Taxation Administration Act 1953_ as in force immediately before the commencement of this item); and
 
                      (b)  the review has not been completed before the commencement of this item;
 
@@ -4919,7 +4917,7 @@ of Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 44, 45): 1 July 2012</div>
+    <div>Schedule 1 (items 44, 45): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 45)</div>
@@ -4959,50 +4957,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>am. No. 157, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to item 35</div>
   </td>
   <td>
     <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -5022,11 +4980,29 @@ of Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Clean Energy (Fuel Tax Legislation Amendment) Act 2011 (No. 157, 2011)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 44  After subitem 12(2) of Schedule 3
+
+Insert:
+
+(2A)     If, because of subitem (2), you are entitled to a credit in respect of the fuel acquired, manufactured or imported for use as mentioned in subparagraph (1)(b)(i), then, for the purpose of section 43‑8 of the Fuel Tax Act, the amount of carbon reduction that applies to the fuel is taken to be nil.
+
+As at 1 February 2012 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Clean Energy (Fuel Tax Legislation Amendment) Act 2011 (No. 157, 2011)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 1
 
