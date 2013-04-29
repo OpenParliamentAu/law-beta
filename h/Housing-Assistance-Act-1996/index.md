@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00378/Html/966dbb29-7b16-4141-ba6f-332b053db257_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00577/Html/HousingAssistance96_image001.gif)
 
 # Housing Assistance Act 1996
 
 **Act No. 24 of 1996 as amended**
 
-This compilation was prepared on 5 August 2009
- taking into account amendments up to Act No. 70 of 2009
+This compilation was prepared on 4 October 2006
+ taking into account amendments up to Act No. 108 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -26,9 +26,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Objects
 
-[5](#5).            Form of inter‑government housing agreement
+[5](#5).            Form of inter-government housing agreement
 
-[6](#6).            Inter‑government housing agreements
+[6](#6).            Inter-government housing agreements
 
 [7](#7).            Grants to States for housing
 
@@ -76,9 +76,9 @@ Preamble
 
                      (c)  the acceptance of the Universal Declaration of Human Rights and of the Declaration on the Elimination of Violence Against Women; and
 
-                     (d)  the enactment of legislation such as the _Australian Human Rights Commission Act 1986_.
+                     (d)  the enactment of legislation such as the _Human Rights and Equal Opportunity Commission Act 1986_.
 
-                   Accordingly the Parliament considers that the provision, by the Governments of the Commonwealth, the States, the Australian Capital Territory and the Northern Territory, of housing assistance to people requiring access to affordable and appropriate housing is essential to reduce poverty and its effects on individuals and on the community as a whole.
+                   Accordingly the Parliament considers that the provision, by the Governments of the Commonwealth, the States, the Australian   Capital Territory and the Northern Territory, of housing assistance to people requiring access to affordable and appropriate housing is essential to reduce poverty and its effects on individuals and on the community as a whole.
 
                    The Parliament therefore intends that:
 
@@ -90,17 +90,17 @@ Preamble
 
                      (h)  housing assistance for which money is provided under this Act will have as its express objective the obtaining of benefits by the people who receive the assistance in ways that are effective and ensure that money provided is spent efficiently and is properly accounted for.
 
-                   In giving effect to the above intentions, the Parliament recognises that it is desirable for the Governments of the Commonwealth, the States, the Australian Capital Territory and the Northern Territory to:
+                   In giving effect to the above intentions, the Parliament recognises that it is desirable for the Governments of the Commonwealth, the States, the Australian Capital Territory and the Northern   Territory to:
 
                       (i)  work together in providing access to affordable appropriate housing and work in cooperation with local governing bodies, as appropriate, in view of the regulatory and other functions of those bodies with respect to the design, planning and management of cities and towns; and
 
                       (j)  encourage private sector involvement in the provision of appropriate and affordable housing; and
 
-                     (k)  work in cooperation with non‑government organisations that provide housing and related assistance, including environmentally oriented groups concerned with conservation, transport and urban form, and organisations that provide community and rental housing for Aboriginal and Torres Strait Islander people and organisations that have responsibility for the provision of services for people who are homeless or at risk of homelessness, in view of the contribution of non‑government organisations to the provision of housing assistance.
+                     (k)  work in cooperation with non-government organisations that provide housing and related assistance, including environmentally oriented groups concerned with conservation, transport and urban form, and organisations that provide community and rental housing for Aboriginal and Torres Strait Islander people and organisations that have responsibility for the provision of services for people who are homeless or at risk of homelessness, in view of the contribution of non-government organisations to the provision of housing assistance.
 
                    The Parliament regards it as essential that, in giving effect to these intentions, housing assistance funded under this Act will be planned and delivered so as to take full account of the range of factors that contribute to the quality of life of the people receiving the assistance.
 
-                   These factors include the liveability of communities, and equality of opportunity, non‑discrimination, and respect for dignity and self‑esteem, for people receiving housing assistance.
+                   These factors include the liveability of communities, and equality of opportunity, non-discrimination, and respect for dignity and self-esteem, for people receiving housing assistance.
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -120,23 +120,23 @@ Preamble
 
                     <a name="grant"></a>**_grant_** means a payment authorised under section 7.
 
-                    <a name="hous-assist"></a>**_housing assistance_** means housing assistance referred to in an inter‑government housing agreement.
+                    <a name="hous-assist"></a>**_housing assistance_** means housing assistance referred to in an inter-government housing agreement.
 
-                    <a name="identified-hous-program"></a>**_identified housing program_**, in relation to an inter‑government housing agreement, means a program that:
+                    <a name="identified-hous-program"></a>**_identified housing program_**, in relation to an inter-government housing agreement, means a program that:
 
                      (a)  is established for the purpose of providing housing assistance in accordance with the agreement; and
 
                      (b)  is to be carried out in accordance with financial, planning and operational guidelines established in accordance with the agreement.
 
-                    <a name="inter-govern-hous-agreem"></a>**_inter‑government housing agreement_** means an agreement made under subsection 6(2) or, if an agreement so made has been varied, the agreement as so varied.
+                    <a name="inter-govern-hous-agreem"></a>**_inter-government housing agreement_** means an agreement made under subsection 6(2) or, if an agreement so made has been varied, the agreement as so varied.
 
                     <a name="local-govern-bodi"></a>**_local governing body_** has the same meaning as in the Local Government (Financial Assistance) Act 1995.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
-                    <a name="state-hous-expenditur"></a>**_State housing expenditure_**, in relation to a State and in respect of an assistance year, means the total amount that the State has spent, or proposes to spend, out of its own financial resources in respect of that year in relation to housing in accordance with an inter‑government housing agreement.
+                    <a name="state-hous-expenditur"></a>**_State housing expenditure_**, in relation to a State and in respect of an assistance year, means the total amount that the State has spent, or proposes to spend, out of its own financial resources in respect of that year in relation to housing in accordance with an inter-government housing agreement.
 
-                    <a name="state-minist"></a>**_State Minister_**, in relation to a State with which the Commonwealth has made an inter‑government housing agreement, has the same meaning as in the agreement.
+                    <a name="state-minist"></a>**_State Minister_**, in relation to a State with which the Commonwealth has made an inter-government housing agreement, has the same meaning as in the agreement.
 
                     <a name="tertiari-institut"></a>**_tertiary institution_** means a tertiary institution established by or under a law of the Commonwealth or a State.
 
@@ -154,7 +154,7 @@ Aim of Act
 
                      (b)  to make available to them a choice between different forms of housing assistance and different providers of that assistance, between different types of housing and between different areas in which housing is located; and
 
-                     (c)  to ensure that rental housing provided under inter‑government housing agreements is of an adequate size, has adequate amenity, is of ecologically approriate design and is appropriately located in relation to employment opportunities and necessary services and facilities.
+                     (c)  to ensure that rental housing provided under inter-government housing agreements is of an adequate size, has adequate amenity, is of ecologically approriate design and is appropriately located in relation to employment opportunities and necessary services and facilities.
 
 How the aim is to be achieved
 
@@ -170,15 +170,15 @@ How the aim is to be achieved
 
                      (e)  ensuring that the rights of people receiving assistance are properly protected and that due regard is had to their responsibilities.
 
-Housing assistance to be implemented through inter‑government agreements
+Housing assistance to be implemented through inter-government agreements
 
-             (4)  A key feature of housing assistance provided under this Act is that the assistance is to be implemented through common‑form agreements between the Commonwealth and the States.
+             (4)  A key feature of housing assistance provided under this Act is that the assistance is to be implemented through common-form agreements between the Commonwealth and the States.
 
-##### <a id="5"></a>5  Form of inter‑government housing agreement
+##### <a id="5"></a>5  Form of inter-government housing agreement
 
 (1)  For the purposes of this Act, the Minister may, by legislative instrument, determine a form of agreement dealing with the provision of housing assistance.
 
-             (2)  If the form is varied or revoked, the variation or revocation does not affect the validity of an inter‑government housing agreement entered into before the variation or revocation took effect. 
+             (2)  If the form is varied or revoked, the variation or revocation does not affect the validity of an inter-government housing agreement entered into before the variation or revocation took effect. 
 
              (3)  The form of agreement is to include provisions relating to the following matters:
 
@@ -206,21 +206,21 @@ Housing assistance to be implemented through inter‑government agreements
 
 Note:          Section 42 of the _Legislative Instruments Act 2003_ deals with disallowance of legislative instruments.
 
-##### <a id="6"></a>6  Inter‑government housing agreements
+##### <a id="6"></a>6  Inter-government housing agreements
 
 (1)  This section applies if an instrument (the **_legislative instrument_**) is in force under section 5.
 
              (2)  The Commonwealth may make an agreement or agreements with a State or States substantially in accordance with the form set out in the legislative instrument in so far as that form is applicable to the State or States concerned.
 
-             (3)  The Commonwealth may make, with the other party or parties to an inter‑government housing agreement, a subsidiary agreement or subsidiary agreements for the purpose of giving effect to the inter‑government housing agreement.
+             (3)  The Commonwealth may make, with the other party or parties to an inter-government housing agreement, a subsidiary agreement or subsidiary agreements for the purpose of giving effect to the inter-government housing agreement.
 
-(4)  Subject to subsection (5), the Commonwealth may agree with the other party or parties to an inter‑government housing agreement, or to a subsidiary agreement referred to in subsection (3), to vary the agreement or to revoke the agreement and make a new agreement under subsection (2) or (3), as the case may be, in place of the revoked agreement.
+(4)  Subject to subsection (5), the Commonwealth may agree with the other party or parties to an inter-government housing agreement, or to a subsidiary agreement referred to in subsection (3), to vary the agreement or to revoke the agreement and make a new agreement under subsection (2) or (3), as the case may be, in place of the revoked agreement.
 
-             (5)  An inter‑government housing agreement may not be varied if the agreement as varied would not be substantially in accordance with the form set out in the legislative instrument so far as that form is applicable to the State or States that are parties to the agreement.
+             (5)  An inter-government housing agreement may not be varied if the agreement as varied would not be substantially in accordance with the form set out in the legislative instrument so far as that form is applicable to the State or States that are parties to the agreement.
 
 ##### <a id="7"></a>7  Grants to States for housing
 
-             (1)  Subject to sections 9 and 11, the Minister may authorise, in any assistance year in which an inter‑government housing agreement with a State is in force, the payment to the State, by way of financial assistance, of any amounts that the Minister determines to be appropriate:
+             (1)  Subject to sections 9 and 11, the Minister may authorise, in any assistance year in which an inter-government housing agreement with a State is in force, the payment to the State, by way of financial assistance, of any amounts that the Minister determines to be appropriate:
 
                      (a)  for expenditure by the State in respect of the year for the purposes of an identified housing program referred to in the agreement; or
 
@@ -256,7 +256,7 @@ Note:          Section 42 of the _Legislative Instruments Ac
 
 ##### <a id="9"></a>9  State expenditure from its own resources
 
-(1)  The Minister must not authorise a payment to a State of financial assistance in respect of an assistance year unless the Minister and the State Minister have agreed, in accordance with the inter‑government housing agreement made between the Commonwealth and the State, as to the amount of State housing expenditure in respect of the year.
+(1)  The Minister must not authorise a payment to a State of financial assistance in respect of an assistance year unless the Minister and the State Minister have agreed, in accordance with the inter-government housing agreement made between the Commonwealth and the State, as to the amount of State housing expenditure in respect of the year.
 
              (2)  If the Minister, after consulting a State Minister, believes that the State will not spend, in respect of a particular assistance year from its own financial resources, the total amount agreed under subsection (1) to be so spent by the State, the Minister may reduce the amount that would otherwise be payable to the State under section 7 in respect of that assistance year by the amount of the shortfall.
 
@@ -268,11 +268,11 @@ Note:          Section 42 of the _Legislative Instruments Ac
 
 ##### <a id="10"></a>10  Minister may authorise payments if no agreement in force in first assistance year
 
-(1)  If a State has not made an inter‑government housing agreement with the Commonwealth in respect of the first assistance year, the Minister may authorise the payment to the State in respect of that year, by way of financial assistance to meet the State’s obligations to make payments for purposes related to housing, of any amount or amounts that the Minister determines to be appropriate.
+(1)  If a State has not made an inter-government housing agreement with the Commonwealth in respect of the first assistance year, the Minister may authorise the payment to the State in respect of that year, by way of financial assistance to meet the State’s obligations to make payments for purposes related to housing, of any amount or amounts that the Minister determines to be appropriate.
 
-             (2)  A payment made by the Commonwealth to a State under subsection (1) is to be made on terms and conditions determined by the Minister having regard to the provisions which, if an inter‑government housing agreement were made between the Commonwealth and the State, would be included in the agreement.
+             (2)  A payment made by the Commonwealth to a State under subsection (1) is to be made on terms and conditions determined by the Minister having regard to the provisions which, if an inter-government housing agreement were made between the Commonwealth and the State, would be included in the agreement.
 
-             (3)  If, after a payment is made by the Commonwealth to a State under subsection (1), the State makes an inter‑government housing agreement with the Commonwealth in respect of the first assistance year, the payment is taken to have been made to the State under the agreement and to have discharged, to the extent of the amount paid, the liability of the Commonwealth under the agreement to make payments to the State.
+             (3)  If, after a payment is made by the Commonwealth to a State under subsection (1), the State makes an inter-government housing agreement with the Commonwealth in respect of the first assistance year, the payment is taken to have been made to the State under the agreement and to have discharged, to the extent of the amount paid, the liability of the Commonwealth under the agreement to make payments to the State.
 
 ##### <a id="11"></a>11  Payments to be made out of money appropriated
 
@@ -294,13 +294,13 @@ The Minister may, by signed writing, delegate to a person appointed or engaged u
 
 As soon as practicable after the end of each assistance year, the Minister must cause to be laid before each House of the Parliament a report relating to:
 
-                     (a)  the operation of inter‑government housing agreements; and
+                     (a)  the operation of inter-government housing agreements; and
 
                      (b)  any other matters that the Minister thinks relevant.
 
 ##### <a id="15"></a>15  Regulations
 
-The Governor‑General may make regulations prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+The Governor-General may make regulations prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 ##### <a id="16"></a>16  Schedule(s)
 
@@ -362,7 +362,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–6 and 
-12–16: Royal Assent 
+12–16:Royal Assent 
 Remainder: 1 July 1996</div>
   </td>
   <td>
@@ -402,23 +402,6 @@ Remainder: 1 July 1996</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>70, 2009</div>
-  </td>
-  <td>
-    <div>8 July 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 33): 5 Aug 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Housing Assistance Act 1996_ was amended by Schedule 1 (items 516–518) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -450,14 +433,6 @@ _(a)_     The _Housing Assistance Act 1996_ was amended by Schedule 1 (i
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Ss. 5, 6</div>
