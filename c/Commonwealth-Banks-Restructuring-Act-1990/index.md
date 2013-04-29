@@ -1,538 +1,903 @@
-![](http://www.comlaw.gov.au/Details/C2011C00790/Html/77b0ec48-60f5-4fde-9710-6be6e5c3ebb5_files/image001.gif)
+**
 
-# Commonwealth Banks Restructuring Act 1990
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990 
+**
 
-**Act No. 118 of 1990 as amended**
 
-This compilation was prepared on 27 September 2011
- taking into account amendments up to Act No. 100 of 2011
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+**
 
-[2](#2).            Commencement [_see_ Note 1]
+###  Contents 
+**
+**
 
-[3](#3).            Interpretation
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<part>Part 1&#151;Preliminary </part>
+**
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Commonwealth Banks Restructuring Act 1990_.
 
-[4](#4).            Extension to external Territories
+ 
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Sections 1, 2, 3, 4, 5 and 6 commence on the day on which this Act
 
-[5](#5).            Crown to be bound
+receives the Royal Assent.</dd> <dt>(2)</dt><dd>The amendments made by paragraphs 48(b) and (c) come into operation at the time when the first guidelines under section 6 of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ come into force in relation to the fund referred to in section 110 of the amended Act.</dd> <dt>(3)</dt><dd>Each of the remaining provisions of this Act commences on a day, or at a time, fixed by Proclamation in relation to the provision concerned.</dd> <dt>(4)</dt><dd>The _Acts Interpretation Act 1901_ applies in relation to this Act as if references in that Act to the date of commencement of a provision of an Act included references to the time of commencement. </dd> 
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 3  Interpretation 
+In this Act:
 
-**Part 2—Amendments of the Commonwealth Banks Act 1959** 
+ 
+<dl compact=""><dl compact="">
 
-Sections 6–61
+_amended Act_ means the _Commonwealth Banks Act 1959_, as
 
-**Part 3—Consequential amendment of other Acts**
+amended by this Act. _Commonwealth Bank_ means the Commonwealth Bank of Australia. _Development Bank_ means the Commonwealth Development Bank of Australia.  </dl></dl>
 
-[62](#62).          Amendment of other Acts
+**
 
-**Part 4—Transfer of staff of the Commonwealth Banking Corporation to the Commonwealth Bank**
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 4  Extension to external Territories 
+**
 
-[63](#63).          Interpretation
+ <dl compact="">
 
-[64](#64).          Transfer of staff
+		This Act extends to all external Territories.
 
-**Part 5—Commonwealth Bank to become successor in law of the State Bank of Victoria**
+ </dl>
 
-[65](#65).          Interpretation
+**
 
-[66](#66).          Extra‑territorial operation of Part
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 5  Crown to be bound 
+**
 
-[67](#67).          Commonwealth Bank to become successor in law of the State Bank
+ <dl compact="">
 
-[68](#68).          State Bank instruments
+		This Act binds the Crown in right of the Commonwealth, of each of the States,
 
-[69](#69).          Places of business
+of the Australian Capital Territory, of the Northern Territory and of Norfolk
 
-[70](#70).          Pending proceedings
+Island. 
 
-[71](#71).          Registration of interests in land
+ </dl>
 
-[72](#72).          Transfer of State Bank staff to Commonwealth Bank
+<center>**
 
-[73](#73).          Application of Income Tax Assessment Act
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<part>Part 2&#151;Amendments of the Commonwealth Banks Act 1959  </part>
+**</center>
 
-[75](#75).          Regulations
+**
 
-**Part 6—Miscellaneous**
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT Sections 6-61 
+**
 
-[76](#76).          Compensation for acquisition of property
+ <dl compact="">
 
-[77](#77).          Exemption from taxes and charges
+ </dl>
 
-[78](#78).          Franking debit to arise for Commonwealth Bank and Development Bank
+<center>Back to Top</center>
 
-**Schedule—Amendment of Acts** 
+Note:
+ The amendments made by this Part are incorporated in the current consolidation on SCALEplus.
+ For access to that consolidation click on the title. _Commonwealth Banks Act 1959_. For access to the wording of the amendments made by this Part, click  here.
 
-**Notes** 
+<center>**
 
-## An Act to give effect to an agreement between Victoria and the Commonwealth Bank relating to the succession of the Commonwealth Bank to the State Bank of Victoria, and for other purposes
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<part>Part 3&#151;Consequential amendment of other Acts  </part>
+**</center>
 
-## Part 1—Preliminary
+**
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 62  Amendment of other Acts 
+**
 
-                   This Act may be cited as the _Commonwealth Banks Restructuring Act 1990_.
+ <dl compact="">
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+		The Acts specified in the Schedule are amended as set out in the Schedule.
 
-             (1)  Sections 1, 2, 3, 4, 5 and 6 commence on the day on which this Act receives the Royal Assent.
+ </dl>
 
-             (2)  The amendments made by paragraphs 48(b) and (c) come into operation at the time when the first guidelines under section 6 of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ come into force in relation to the fund referred to in section 110 of the amended Act.
+<center>**
 
-             (3)  Each of the remaining provisions of this Act commences on a day, or at a time, fixed by Proclamation in relation to the provision concerned.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<part>Part 4&#151;Transfer of staff of the Commonwealth Banking Corporation to the Commonwealth Bank </part>
+**</center>
 
-             (4)  The _Acts Interpretation Act 1901_ applies in relation to this Act as if references in that Act to the date of commencement of a provision of an Act included references to the time of commencement.
+**
 
-##### <a id="3"></a>3  Interpretation
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 63  Interpretation 
+**
 
-                   In this Act:
+ <dl compact="">
 
-                    <a name="amended-act"></a>**_amended Act_** means the _Commonwealth Banks Act 1959_, as amended by this Act.
+		In this Part:
 
-                    <a name="commonwealth-bank"></a>**_Commonwealth Bank_** means the Commonwealth Bank of Australia.
+ </dl>
 
-                    <a name="develop-bank"></a>**_Development Bank_** means the Commonwealth Development Bank of Australia.
+<def><dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  Extension to external Territories
+_staff transfer time_ means the commencement of this Part.
 
-                   This Act extends to all external Territories.
+ </dl></dl>
 
-##### <a id="5"></a>5  Crown to be bound
+**
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 64  Transfer of staff 
+**
 
-## Part 2—Amendments of the Commonwealth Banks Act 1959
+ <dl compact="">
 
-##### Sections <a id="6–61"></a>6–61
+<dt>(1)</dt><dd>A person who, immediately before the staff transfer time, was an officer
 
-* * *
+of the Commonwealth Banking Corporation Service is to be regarded as:
 
-**Note:**
+</dd> </dl>
 
-The amendments made by this Part are incorporated in the compilation on ComLaw.
+<dl compact=""><dl compact=""><dl compact="">
 
-_Commonwealth Banks Act 1959_
+<dt>(a)</dt><dd>having been appointed by the Commonwealth Bank under section 88 of the
 
-For access to the wording of the amendments made by this Part _see_ Act No. 118, 1990.
+amended Act, with effect from the staff transfer time; and</dd>
 
-* * *
+<dt>(b)</dt><dd>having been so appointed on the same terms and conditions as those that
 
-## Part 3—Consequential amendment of other Acts
+applied to the person, immediately before the staff transfer time, as an
 
-##### <a id="62"></a>62  Amendment of other Acts
+officer of the Commonwealth Banking Corporation Service; and</dd>
 
-                   The Acts specified in the Schedule are amended as set out in the Schedule.
+<dt>(c)</dt><dd>having accrued an entitlement to benefits, in connection with that
 
-## Part 4—Transfer of staff of the Commonwealth Banking Corporation to the Commonwealth Bank
+appointment as an officer of the Commonwealth Bank, that is equivalent to the
 
-##### <a id="63"></a>63  Interpretation
+entitlement that the person had accrued, as an officer of the Commonwealth
 
-                   In this Part:
+Banking Corporation Service, immediately before the staff transfer time.
 
-                    <a name="staff-transfer-time"></a>**_staff transfer time_** means the commencement of this Part.
+</dd>
 
-##### <a id="64"></a>64  Transfer of staff
+</dl></dl></dl>
 
-             (1)  A person who, immediately before the staff transfer time, was an officer of the Commonwealth Banking Corporation Service is to be regarded as:
+<dl compact="">
 
-                     (a)  having been appointed by the Commonwealth Bank under section 88 of the amended Act, with effect from the staff transfer time; and
+<dt>(2)</dt><dd>Where, because of subsection (1), a person is regarded as having been
 
-                     (b)  having been so appointed on the same terms and conditions as those that applied to the person, immediately before the staff transfer time, as an officer of the Commonwealth Banking Corporation Service; and
+appointed as an officer of the Commonwealth Bank with effect from the staff
 
-                     (c)  having accrued an entitlement to benefits, in connection with that appointment as an officer of the Commonwealth Bank, that is equivalent to the entitlement that the person had accrued, as an officer of the Commonwealth Banking Corporation Service, immediately before the staff transfer time.
+transfer time, that service as an officer of the Commonwealth Bank is to be
 
-             (2)  Where, because of subsection (1), a person is regarded as having been appointed as an officer of the Commonwealth Bank with effect from the staff transfer time, that service as an officer of the Commonwealth Bank is to be regarded for all purposes as having been continuous with the service of the person, immediately before the staff transfer time, as an officer of the Commonwealth Banking Corporation Service.
+regarded for all purposes as having been continuous with the service of the
 
-## Part 5—Commonwealth Bank to become successor in law of the State Bank of Victoria
+person, immediately before the staff transfer time, as an officer of the
 
-##### <a id="65"></a>65  Interpretation
+Commonwealth Banking Corporation Service.
 
-                   In this Part:
+</dd> </dl>
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+<center>**
 
-                     (a)  the Treasurer; or
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<part>Part 5&#151;Commonwealth Bank to become successor in law of the State Bank of Victoria </part>
+**</center>
 
-                     (b)  a person authorised by the Treasurer, in writing, for the purposes of this Part.
+**
 
-                    <a name="instrum"></a>**_instrument_** includes a document and an oral agreement.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 65  Interpretation 
+**
 
-                    <a name="liabil"></a>**_liabilities_** means all liabilities, duties and obligations, whether actual, contingent or prospective.
+ <dl compact="">
 
-                    <a name="properti"></a>**_property_** means any legal or equitable estate or interest (whether present or future and whether vested or contingent) in real or personal property of any description.
+		In this Part:
 
-                    <a name="right"></a>**_rights_** means all rights, powers, privileges and immunities, whether actual, contingent or prospective.
+ </dl>
 
-                    <a name="state-bank"></a>**_State Bank_** means the State Bank of Victoria.
+<def><dl compact=""><dl compact="">
 
-                    <a name="state-bank-instrum"></a>**_State Bank instrument_** means an instrument (including a legislative instrument other than this Act) subsisting immediately before the succession day:
+_authorised person_ means:
 
-                     (a)  to which the State Bank was a party; or
+ </dl></dl>
 
-                     (b)  that was given to or in favour of the State Bank; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  that refers to the State Bank; or
+<dt>(a)</dt><dd>the Treasurer; or</dd>
 
-                     (d)  under which:
+<dt>(b)</dt><dd>a person authorised by the Treasurer, in writing, for the purposes of this
 
-                              (i)  money is, or may become, payable to or by the State Bank; or
+Part.
 
-                             (ii)  other property is to be, or may become liable to be, transferred to or by the State Bank.
+</dd>
 
-                    <a name="success-dai"></a>**_succession day_** means the day on which this Part comes into operation.
+</dl></dl></dl>
 
-                    <a name="transfer-employe"></a>**_transferred employee_** means a person who, under section 72, is regarded as having been appointed by the Commonwealth Bank.
+<center>Back to Top</center>
 
-##### <a id="66"></a>66  Extra‑territorial operation of Part
+<def><dl compact=""><dl compact="">
 
-                   It is the intention of the Parliament that the operation of this Part should, as far as possible, include operation in relation to the following:
+_instrument_ includes a document and an oral agreement. _liabilities_ means all liabilities, duties and obligations, whether actual, contingent or prospective. _property_ means any legal or equitable estate or interest (whether present or future and whether vested or contingent) in real or personal property of any description. _rights_ means all rights, powers, privileges and immunities, whether actual, contingent or prospective. _State Bank_ means the State Bank of Victoria. _State Bank instrument_ means an instrument (including a legislative instrument other than this Act) subsisting immediately before the succession day:  </dl></dl>
 
-                     (a)  land situated outside Australia;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  things situated outside Australia;
+<dt>(a)</dt><dd>to which the State Bank was a party; or</dd>
 
-                     (c)  acts, transactions and matters done, entered into or occurring outside Australia;
+<dt>(b)</dt><dd>that was given to or in favour of the State Bank; or</dd>
 
-                     (d)  things, acts, transactions and matters (wherever situated, done, entered into or occurring) that would, apart from this Act, be governed or otherwise affected by the law of a foreign country.
+<dt>(c)</dt><dd>that refers to the State Bank; or</dd>
 
-##### <a id="67"></a>67  Commonwealth Bank to become successor in law of the State Bank
+<dt>(d)</dt><dd>under which:
 
-                   On the succession day:
+</dd>
 
-                     (a)  all property and rights of the State Bank, wherever located, vest in the Commonwealth Bank; and
+</dl></dl></dl>
 
-                     (b)  all liabilities of the State Bank, wherever located, become liabilities of the Commonwealth Bank; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  the Commonwealth Bank becomes the successor in law of the State Bank.
+<dt>(i)</dt><dd>money is, or may become, payable to or by the State Bank; or</dd>
 
-##### <a id="68"></a>68  State Bank instruments
+<dt>(ii)</dt><dd>other property is to be, or may become liable to be, transferred to or by
 
-                   Each State Bank instrument continues to have effect according to its tenor on and after the succession day as if a reference in the instrument to the State Bank were a reference to the Commonwealth Bank.
+the State Bank.
 
-##### <a id="69"></a>69  Places of business
+</dd>
 
-                   On and after the succession day, a place, wherever located, that, immediately before that day, was a place of business of the State Bank is to be taken to be a place of business of the Commonwealth Bank.
+</dl></dl></dl></dl>
 
-##### <a id="70"></a>70  Pending proceedings
+<def><dl compact=""><dl compact="">
 
-                   Where, immediately before the succession day, proceedings (including arbitration proceedings) to which the State Bank was a party were pending or existing in any court or tribunal, then, on and after the succession day, the Commonwealth Bank is substituted for the State Bank as a party to the proceedings and has the same rights in the proceedings as the State Bank had.
+_succession day_ means the day on which this Part comes into
 
-##### <a id="71"></a>71  Registration of interests in land
+operation. _transferred employee_ means a person who, under section 72, is regarded as having been appointed by the Commonwealth Bank.  </dl></dl>
 
-                   Where:
+**
 
-                     (a)  under this Part, land that is situated in a State or Territory, or an interest in such land, becomes land, or an interest in land, of the Commonwealth Bank; and
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 66  Extra-territorial operation of Part 
+**
 
-                     (b)  there is lodged with the Registrar of Titles or other proper officer of the State or Territory in which the land is situated a certificate that:
+ <dl compact="">
 
-                              (i)  is signed by an authorised person; and
+		It is the intention of the Parliament that the operation of this Part should,
 
-                             (ii)  identifies the land or interest, whether by reference to a map or otherwise; and
+as far as possible, include operation in relation to the following:
 
-                            (iii)  states that the land or interest has, under this section, become land, or an interest in land, of the Commonwealth Bank;
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>land situated outside Australia;</dd>
+
+<dt>(b)</dt><dd>things situated outside Australia;</dd>
+
+<dt>(c)</dt><dd>acts, transactions and matters done, entered into or occurring outside
+
+Australia;</dd>
+
+<dt>(d)</dt><dd>things, acts, transactions and matters (wherever situated, done, entered
+
+into or occurring) that would, apart from this Act, be governed or otherwise
+
+affected by the law of a foreign country.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 67  Commonwealth Bank to become successor in law of the State Bank 
+**
+
+<dl compact="">
+
+		On the succession day:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all property and rights of the State Bank, wherever located, vest in the
+
+Commonwealth Bank; and</dd>
+
+<dt>(b)</dt><dd>all liabilities of the State Bank, wherever located, become liabilities of
+
+the Commonwealth Bank; and</dd>
+
+<dt>(c)</dt><dd>the Commonwealth Bank becomes the successor in law of the State Bank.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 68  State Bank instruments 
+**
+
+ <dl compact="">
+
+		Each State Bank instrument continues to have effect according to its tenor on
+
+and after the succession day as if a reference in the instrument to the State
+
+Bank were a reference to the Commonwealth Bank.
+
+ </dl>
+
+**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 69  Places of business 
+**
+
+ <dl compact="">
+
+		On and after the succession day, a place, wherever located, that, immediately
+
+before that day, was a place of business of the State Bank is to be taken to be
+
+a place of business of the Commonwealth Bank.
+
+ </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 70  Pending proceedings 
+**
+
+ <dl compact="">
+
+		Where, immediately before the succession day, proceedings (including
+
+arbitration proceedings) to which the State Bank was a party were pending or
+
+existing in any court or tribunal, then, on and after the succession day, the
+
+Commonwealth Bank is substituted for the State Bank as a party to the
+
+proceedings and has the same rights in the proceedings as the State Bank had.
+
+ </dl>
+
+**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 71  Registration of interests in land 
+**
+
+ <dl compact="">
+
+		Where:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>under this Part, land that is situated in a State or Territory, or an
+
+interest in such land, becomes land, or an interest in land, of the
+
+Commonwealth Bank; and</dd>
+
+<dt>(b)</dt><dd>there is lodged with the Registrar of Titles or other proper officer of
+
+the State or Territory in which the land is situated a certificate that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>is signed by an authorised person; and</dd>
+
+<dt>(ii)</dt><dd>identifies the land or interest, whether by reference to a map or
+
+otherwise; and</dd>
+
+<dt>(iii)</dt><dd>states that the land or interest has, under this section, become land,
+
+or an interest in land, of the Commonwealth Bank;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the officer with whom the certificate is lodged may:
 
-                     (c)  register the matter in like manner to the manner in which dealings in land or interests in land of that kind are registered; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  deal with, and give effect to, the certificate.
+<dt>(c)</dt><dd>register the matter in like manner to the manner in which dealings in land
 
-##### <a id="72"></a>72  Transfer of State Bank staff to Commonwealth Bank
+or interests in land of that kind are registered; and</dd>
 
-             (1)  A person who was an employee of the State Bank immediately before the succession day is to be regarded as:
+<dt>(d)</dt><dd>deal with, and give effect to, the certificate.
 
-                     (a)  having been appointed by the Commonwealth Bank under section 88 of the amended Act, with effect from the succession day; and
+</dd>
 
-                     (b)  having been so appointed on the same terms and conditions as those that applied to the person, immediately before the succession day, as an employee of the State Bank; and
+</dl></dl></dl>
 
-                     (c)  having accrued an entitlement to benefits, in connection with that appointment by the Commonwealth Bank, that is equivalent to the entitlement that the person had accrued, as an employee of the State Bank, immediately before the succession day.
+**
 
-             (2)  The service of a transferred employee as an officer of the Commonwealth Bank is to be regarded for all purposes as having been continuous with the service of the employee, immediately before the succession day, as an employee of the State Bank.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 72  Transfer of State Bank staff to Commonwealth Bank 
+**
 
-             (3)  A transferred employee is not entitled to receive any payment or other benefit by reason only of having ceased to be an employee of the State Bank because of this Act.
+ <dl compact="">
 
-             (4)  A director, secretary or auditor of the State Bank does not, because of the operation of this Act, become a director, secretary or auditor of the Commonwealth Bank.
+<dt>(1)</dt><dd>A person who was an employee of the State Bank immediately before the
 
-             (5)  In this section:
+succession day is to be regarded as:
 
-                    <a name="employe"></a>**_employee_** means a person appointed or employed by the State Bank.
+</dd> </dl>
 
-##### <a id="73"></a>73  Application of Income Tax Assessment Act
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  If, before the succession day, section 128F of the _Income Tax Assessment Act 1936_ applied to interest paid by the State Bank in respect of debentures issued by the State Bank, that section applies on and after the succession day to interest paid by the Commonwealth Bank in respect of those debentures.
+<dt>(a)</dt><dd>having been appointed by the Commonwealth Bank under section 88 of the
 
-             (2)  For the purposes of the _Income Tax Assessment Act 1936_, nothing in this Part affects the continuity of any partnership in which the State Bank was a partner immediately before the succession day.
+amended Act, with effect from the succession day; and</dd>
 
-##### <a id="75"></a>75  Regulations
+<dt>(b)</dt><dd>having been so appointed on the same terms and conditions as those that
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, in relation to the preservation of rights of transferred employees.
+applied to the person, immediately before the succession day, as an employee of
 
-             (2)  Regulations made under this section have effect despite any inconsistency with Acts other than this Act.
+the State Bank; and</dd>
 
-## Part 6—Miscellaneous
+<dt>(c)</dt><dd>having accrued an entitlement to benefits, in connection with that
 
-##### <a id="76"></a>76  Compensation for acquisition of property
+appointment by the Commonwealth Bank, that is equivalent to the entitlement
 
-             (1)  Where, but for this section, the operation of this Act would result in the acquisition of property from a person otherwise than on just terms, there is payable to the person by the Commonwealth Bank such reasonable amount of compensation as is agreed on between the person and the Commonwealth Bank or, failing agreement, as is determined by a court of competent jurisdiction.
+that the person had accrued, as an employee of the State Bank, immediately
 
-             (2)  Any damages or compensation recovered, or other remedy given, in proceedings that are instituted otherwise than under this section must be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.
+before the succession day.
 
-             (3)  In this section:
+</dd>
 
-                    <a name="just-term"></a><a name="acquisit-properti"></a>**_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(31) of the Constitution.
+</dl></dl></dl>
 
-##### <a id="77"></a>77  Exemption from taxes and charges
+<dl compact="">
 
-             (1)  No tax is payable under a law of the Commonwealth or of a State or Territory in respect of:
+<dt>(2)</dt><dd>The service of a transferred employee as an officer of the Commonwealth
 
-                     (a)  an exempt matter; or
+Bank is to be regarded for all purposes as having been continuous with the
 
-                     (b)  anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter.
+service of the employee, immediately before the succession day, as an employee
 
-             (2)  An authorised person may, by signed writing, certify that:
+of the State Bank.</dd> <dt>(3)</dt><dd>A transferred employee is not entitled to receive any payment or other benefit by reason only of having ceased to be an employee of the State Bank because of this Act.</dd> <dt>(4)</dt><dd>A director, secretary or auditor of the State Bank does not, because of the operation of this Act, become a director, secretary or auditor of the Commonwealth Bank.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl>
 
-                     (a)  a specified matter or thing is an exempt matter; or
+<def><dl compact=""><dl compact="">
 
-                     (b)  a specified thing was done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, a specified exempt matter.
+_employee_ means a person appointed or employed by the State Bank.
 
-             (3)  For all purposes and in all proceedings, a certificate under subsection (2) is conclusive evidence of the matter certified, except to the extent to which the contrary is established.
+ </dl></dl>
 
-             (4)  In this section:
+**
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 73  Application of Income Tax Assessment Act 
+**
 
-                     (a)  the Treasurer; or
+ <dl compact="">
 
-                     (b)  a person authorised by the Treasurer, in writing, for the purposes of this section.
+<dt>(1)</dt><dd>If, before the succession day, section 128F of the _Income Tax Assessment Act 1936_ applied to interest paid by the State Bank in respect
 
-                    <a name="exempt-matter"></a>**_exempt matter_** means:
+of debentures issued by the State Bank, that section applies on and after the
 
-                     (a)  the operation of this Act; or
+succession day to interest paid by the Commonwealth Bank in respect of those
 
-                     (b)  giving effect to this Act.
+debentures.</dd> <dt>(2)</dt><dd>For the purposes of the _Income Tax Assessment Act 1936_, nothing in this Part affects the continuity of any partnership in which the State Bank was a partner immediately before the succession day. </dd> </dl>
 
-                    <a name="tax"></a>**_tax_** includes:
+<center>Back to Top</center>
 
-                     (a)  sales tax; and
+**
 
-                     (b)  tax imposed by the _Debits Tax Act 1982_; and
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 74  Payment to Victoria 
+**
 
-                     (d)  stamp duty; and
+ <dl compact="">
 
-                     (e)  any other tax, fee, duty, levy or charge;
+<dt>(1)</dt><dd>For the purpose of giving effect to an agreement between the Commonwealth
 
-but does not include income tax imposed as such by a law of the Commonwealth.
+and Victoria in connection with the succession of the Commonwealth Bank to the
 
-##### <a id="78"></a>78  Franking debit to arise for Commonwealth Bank and Development Bank
+State Bank, the Treasurer may authorise payment to Victoria of an amount not
 
-             (1)  For the purposes of the _Income Tax Assessment Act 1936_, a franking debit of a converting body arises on the shareholder creation day of an amount equal to the difference between:
+exceeding $413 million.</dd> <dt>(2)</dt><dd>The Consolidated Revenue Fund is appropriated for the purpose of making the payment. </dd> </dl>
 
-                     (a)  the franking surplus of the converting body immediately before the shareholder creation day (calculated without regard to this section); and
+**
 
-                     (b)  the amount that would be the franking surplus of the converting body immediately before the shareholder creation day if all amounts paid by the converting body as dividends under this Act on or after 1 July 1987 and before the shareholder creation day were treated as frankable dividends for the purposes of Part IIIAA of the _Income Tax Assessment Act 1936_.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 75  Regulations 
+**
 
-             (2)  In this section:
+ <dl compact="">
 
-                    <a name="convert-bodi"></a>**_converting body_** means the Commonwealth Bank or the Development Bank.
+<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
 
-                    <a name="sharehold-creation"></a>**_shareholder creation_** day means:
+in relation to the preservation of rights of transferred employees.</dd> <dt>(2)</dt><dd>Regulations made under this section have effect despite any inconsistency with Acts other than this Act. </dd> </dl>
 
-                     (a)  for the Commonwealth Bank—the day on which the Commonwealth becomes a shareholder of the Commonwealth Bank; or
+<center>**
 
-                     (b)  for the Development Bank—the day on which the Commonwealth Bank becomes a shareholder of the Development Bank.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<part>Part 6&#151;Miscellaneous </part>
+**</center>
 
-# Schedule—Amendment of Acts
+**
 
-_Section 62_
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 76  Compensation for acquisition of property 
+**
 
-* * *
+ <dl compact="">
 
-**Note:**
+<dt>(1)</dt><dd>Where, but for this section, the operation of this Act would result in the
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+acquisition of property from a person otherwise than on just terms, there is
 
-Administrative Decisions (Judicial Review) Act 1977
+payable to the person by the Commonwealth Bank such reasonable amount of
 
-Banking Act 1959
+compensation as is agreed on between the person and the Commonwealth Bank or,
 
-Banks (Shareholdings) Act 1972
- \[repealed by Act No. 54, 1998, Sch. 3]
+failing agreement, as is determined by a court of competent jurisdiction.</dd> <dt>(2)</dt><dd>Any damages or compensation recovered, or other remedy given, in proceedings that are instituted otherwise than under this section must be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
 
-Freedom of Information Act 1982
+<def><dl compact=""><dl compact="">
 
-National Crime Authority Act 1984
- \[now cited as Australian Crime Commission Act 2002]
+_acquisition of property_ and _just terms_ have the
 
-Papua New Guinea (Transfer of Banking Business) Act 1973
+same respective meanings as in paragraph 51(31) of the Constitution.
 
-Reserve Bank Act 1959
+ </dl></dl>
 
-Sales Tax Assessment Act (No. 1) 1930
- \[repealed by Act No. 101, 2006, Sch. 5 (item 1)]
+**
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 118, 1990.
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 77  Exemption from taxes and charges 
+**
 
-* * *
+ <dl compact="">
 
-# Notes to the _Commonwealth Banks Restructuring Act 1990_
+<dt>(1)</dt><dd>No tax is payable under a law of the Commonwealth or of a State or
 
-### Note 1
+Territory in respect of:
 
-The _Commonwealth Banks Restructuring Act 1990_ as shown in this consolidation comprises Act No. 118, 1990 amended as indicated in the Tables below.
+</dd> </dl>
 
-### Table of Acts
+<dl compact=""><dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dt>(a)</dt><dd>an exempt matter; or</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<dt>(b)</dt><dd>anything done (including a transaction entered into or an instrument or
+
+document made, executed, lodged or given) because of, or for a purpose
+
+connected with or arising out of, an exempt matter.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An authorised person may, by signed writing, certify that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a specified matter or thing is an exempt matter; or</dd>
+
+<dt>(b)</dt><dd>a specified thing was done (including a transaction entered into or an
+
+instrument or document made, executed, lodged or given) because of, or for a
+
+purpose connected with or arising out of, a specified exempt matter.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>For all purposes and in all proceedings, a certificate under subsection
+
+<dt>(2)</dt><dd>is conclusive evidence of the matter certified, except to the extent to
+
+which the contrary is established.</dd> <dt>(4)</dt><dd>In this section: </dd> </dd></dl>
+
+<def><dl compact=""><dl compact="">
+
+_authorised person_ means:
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Treasurer; or</dd>
+
+<dt>(b)</dt><dd>a person authorised by the Treasurer, in writing, for the purposes of this
+
+section.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_exempt matter_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the operation of this Act; or</dd>
+
+<dt>(b)</dt><dd>giving effect to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_tax_ includes:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>sales tax; and</dd>
+
+<dt>(b)</dt><dd>tax imposed by the _Debits Tax Act 1982_; and</dd>
+
+<dt>(d)</dt><dd>stamp duty; and</dd>
+
+<dt>(e)</dt><dd>any other tax, fee, duty, levy or charge;
+
+</dd>
+
+</dl></dl></dl>
+
+but does not include income tax imposed as such by a law of the Commonwealth. 
+
+**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990- SECT 78  Franking debit to arise for Commonwealth Bank and Development Bank 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of the _Income Tax Assessment Act 1936_, a franking
+
+debit of a converting body arises on the shareholder creation day of an amount
+
+equal to the difference between:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the franking surplus of the converting body immediately before the
+
+shareholder creation day (calculated without regard to this section); and</dd>
+
+<dt>(b)</dt><dd>the amount that would be the franking surplus of the converting body
+
+immediately before the shareholder creation day if all amounts paid by the
+
+converting body as dividends under this Act on or after 1 July 1987 and before
+
+the shareholder creation day were treated as frankable dividends for the
+
+purposes of Part IIIAA of the _Income Tax Assessment Act 1936_.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_converting body_ means the Commonwealth Bank or the Development
+
+Bank. _shareholder creation_ day means:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for the Commonwealth Bank&#151;the day on which the Commonwealth becomes a
+
+shareholder of the Commonwealth Bank; or</dd>
+
+<dt>(b)</dt><dd>for the Development Bank&#151;the day on which the Commonwealth Bank becomes a
+
+shareholder of the Development Bank.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990Schedule&#151;Amendment of Acts  
+**</center>
+
+ Section 62
+
+Note:
+ The amendments made by this Schedule are incorporated in the current consolidations on SCALEplus.
+ For access to any of those consolidations click on the relevant titles.
+
+_Administrative Decisions (Judicial Review) Act 1977_
+ _Banking Act 1959_
+ _Banks (Shareholdings) Act 1972_
+ _Freedom of Information Act 1982_
+ _National Crime Authority Act 1984_
+ _Papua New Guinea (Transfer of Banking Business) Act 1973_
+
+<center>Back to Top</center>
+ _Reserve Bank Act 1959_
+ _Sales Tax Assessment Act (No. 1) 1930_
+
+For access to the wording of the amendments made by this Schedule, click here.
+
+<dl compact="">
+
+ </dl>
+
+<center>**
+
+###  COMMONWEALTH BANKS RESTRUCTURING ACT 1990<centreit>Notes to the _Commonwealth Banks Restructuring Act 1990_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Commonwealth Banks Restructuring Act 1990_ as shown in this consolidation comprises Act No. 118, 1990 amended as indicated in the Tables below. 
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Commonwealth Banks Restructuring Act 1990</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Commonwealth Banks Restructuring Act&#160;1990</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>118, 1990</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28 Dec 1990</div>
+
   </td>
-  <td>
-    <div>Ss. 1–6: Royal Assent 
-Ss. 63–78: ( <i>see</i>s. 2(3) and <i>Gazette</i>1990, No. S346) 
+  <td colspan="1" align="left">
+    <div>Ss. 1-6: Royal Assent 
+Ss. 63-78: ( <i>see</i>s. 2(3) and <i>Gazette</i>1990, No. S346) 
 Remainder: ( <i>see</i>s. 2(2), (3) and <i>Gazettes</i>1990, No. S346, 1991, No. S72, 1991, No. S114, 1992, No. GN45)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Stocktake Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>118, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Sept 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 5): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
 
-## Table of Amendments
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 74</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>rep. No. 100, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 77</div>
+
   </td>
-  <td>
-    <div>am. No. 118, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 118, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
   </td>
 </tr></table>
 
- 
+</def></def></def>
+
+</def></def>
+
+</def>
+
+</def></def>
+
+</def></def>
+
+
