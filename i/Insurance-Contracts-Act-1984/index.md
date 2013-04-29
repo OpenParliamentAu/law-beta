@@ -1,9 +1,8 @@
 
 Insurance Contracts Act 1984
 Act No. 80 of 1984 as amended 
-This compilation was prepared on 15 April 2003  taking into account amendments up to Act No. 96 of 2002
+This compilation was prepared on 11 March 2002  taking into account amendments up to Act No. 123 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -22,102 +21,103 @@ Part I—Preliminary	1
 9A	Exclusion of pleasure craft from the Marine Insurance Act 1909	4
 10	Contracts of insurance	5
 11	Interpretation	5
-11AA	Application of the Criminal Code	10
-Part IA—Administration	11
-11A	ASIC responsible for general administration of Act	11
-11B	Powers of the ASIC	11
-11C	Supervisory powers—ASIC may obtain insurance documents	11
-11D	Supervisory powers—ASIC may review administrative arrangements etc.	12
-11E	Examination of documents by ASIC not to imply compliance with Act	14
-Part II—The duty of the utmost good faith	15
-12	This Part not to be read down	15
-13	The duty of the utmost good faith	15
-14	Parties not to rely on provisions except in the utmost good faith	15
-15	Certain other laws not to apply	15
-Part III—Insurable interests	17
-Division 1—General insurance	17
-16	Insurable interest not required	17
-17	Legal or equitable interest not required at time of loss	17
-Division 2—Other contracts of insurance	18
-18	Insurable interest not required	18
-Division 3—Naming of persons benefited	19
-20	Persons benefited need not be named	19
-Part IV—Disclosures and misrepresentations	20
-Division 1—The duty of disclosure	20
-21	The insured’s duty of disclosure	20
-21A	Eligible contracts of insurance—disclosure of specified matters	20
-22	Insurer to inform of duty of disclosure	22
-Division 2—Misrepresentations	24
-23	Ambiguous questions	24
-24	Warranties of existing facts to be representations	24
-25	Misrepresentation by life insured	24
-26	Certain statements not misrepresentations	24
-27	Failure to answer questions	25
-Division 3—Remedies for non‑disclosure and misrepresentation	26
-28	General insurance	26
-29	Life insurance	26
-30	Misstatements of age	28
-31	Court may disregard avoidance in certain circumstances	29
-32	Non‑disclosure or misrepresentation by member of scheme	30
-32A	Non‑disclosure or misrepresentation by holder of RSA	30
-33	No other remedies	30
-Part V—The contract	31
-Division 1—Standard cover	31
-34	Interpretation	31
-35	Notification of certain provisions	31
-36	Interpretation of regulations	32
-37	Notification of unusual terms	32
-Division 2—General provisions relating to insurance contracts	33
-38	Interim contracts of insurance	33
-39	Instalment contracts of general insurance	33
-40	Certain contracts of liability insurance	34
-41	Liability insurance: insured may require insurer to elect	34
-42	Maximum cover for premium	35
-43	Arbitration provisions	35
-44	Average provisions	36
-45	“Other insurance” provisions	37
+11AA	Application of the Criminal Code	9
+Part IA—Administration	10
+11A	ASIC responsible for general administration of Act	10
+11B	Powers of the ASIC	10
+11C	Supervisory powers—ASIC may obtain insurance documents	10
+11D	Supervisory powers—ASIC may review administrative arrangements etc.	11
+11E	Examination of documents by ASIC not to imply compliance with Act	13
+Part II—The duty of the utmost good faith	14
+12	This Part not to be read down	14
+13	The duty of the utmost good faith	14
+14	Parties not to rely on provisions except in the utmost good faith	14
+15	Certain other laws not to apply	14
+Part III—Insurable interests	16
+Division 1—General insurance	16
+16	Insurable interest not required	16
+17	Legal or equitable interest not required at time of loss	16
+Division 2—Other contracts of insurance	17
+18	Insurable interest not required	17
+Division 3—Naming of persons benefited	18
+20	Persons benefited need not be named	18
+Part IV—Disclosures and misrepresentations	19
+Division 1—The duty of disclosure	19
+21	The insured’s duty of disclosure	19
+21A	Eligible contracts of insurance—disclosure of specified matters	19
+22	Insurer to inform of duty of disclosure	21
+Division 2—Misrepresentations	23
+23	Ambiguous questions	23
+24	Warranties of existing facts to be representations	23
+25	Misrepresentation by life insured	23
+26	Certain statements not misrepresentations	23
+27	Failure to answer questions	24
+Division 3—Remedies for non‑disclosure and misrepresentation	25
+28	General insurance	25
+29	Life insurance	25
+30	Misstatements of age	27
+31	Court may disregard avoidance in certain circumstances	28
+32	Non‑disclosure or misrepresentation by member of scheme	29
+32A	Non‑disclosure or misrepresentation by holder of RSA	29
+33	No other remedies	29
+Part V—The contract	30
+Division 1—Standard cover	30
+34	Interpretation	30
+35	Notification of certain provisions	30
+36	Interpretation of regulations	31
+37	Notification of unusual terms	31
+Division 2—General provisions relating to insurance contracts	32
+38	Interim contracts of insurance	32
+39	Instalment contracts of general insurance	32
+40	Certain contracts of liability insurance	33
+41	Liability insurance: insured may require insurer to elect	33
+42	Maximum cover for premium	34
+43	Arbitration provisions	34
+44	Average provisions	35
+45	“Other insurance” provisions	36
 46	Pre‑existing defect or imperfection	37
-47	Pre‑existing sickness or disability	38
-48	Entitlement of named persons to claim	38
-48AA	Life policy in connection with an RSA for the benefit of another person	39
-48A	Life policy for the benefit of another person	39
-49	Where sum insured exceeds value of insured’s interest	40
-50	Sale of insured property	41
-51	Right of third party to recover against insurer	42
-52	“Contracting out” prohibited	43
-53	Variation of contracts of insurance	43
-Division 3—Remedies	44
-54	Insurer may not refuse to pay claims in certain circumstances	44
-55	No other remedies	45
-55A	Representative actions by the ASIC	45
-Part VI—Claims	47
-56	Fraudulent claims	47
-57	Interest on claims	47
-Part VII—Expiration, renewal and cancellation	49
-58	Insurer to notify of expiration of contracts of general insurance	49
-59	Cancellation procedure	50
-60	Cancellation of contracts of general insurance	51
-61	Insurers in liquidation	52
-62	Cancellation of instalment contracts of general insurance	53
-63	Cancellations void	53
-Part VIII—Subrogation	54
-65	Subrogation to rights against family etc.	54
-66	Subrogation to rights against employees	55
-67	Rights with respect to moneys recovered under subrogation	55
-68	Contracts affecting rights of subrogation	56
-Part IX—Information, notices and reasons	57
-69	Giving of information to insureds	57
-70	Notices to be given to life insureds in certain cases	58
-71	Agency	58
-72	Legibility of writing	59
-74	Policy documents to be supplied on request	59
-75	Reasons for cancellation etc. to be given	60
-Part X—Miscellaneous	62
-76	Contribution between insurers	62
-76A	Liability of directors and employees etc.	62
-77	Giving notices	63
-78	Regulations	63
-Notes	65
+47	Pre‑existing sickness or disability	37
+48	Entitlement of named persons to claim	37
+48AA	Life policy in connection with an RSA for the benefit of another person	38
+48A	Life policy for the benefit of another person	38
+49	Where sum insured exceeds value of insured’s interest	39
+50	Sale of insured property	40
+51	Right of third party to recover against insurer	41
+52	“Contracting out” prohibited	42
+53	Variation of contracts of insurance	42
+Division 3—Remedies	43
+54	Insurer may not refuse to pay claims in certain circumstances	43
+55	No other remedies	44
+55A	Representative actions by the ASIC	44
+Part VI—Claims	46
+56	Fraudulent claims	46
+57	Interest on claims	46
+Part VII—Expiration, renewal and cancellation	48
+58	Insurer to notify of expiration of contracts of general insurance	48
+59	Cancellation procedure	49
+60	Cancellation of contracts of general insurance	50
+61	Insurers in liquidation	51
+62	Cancellation of instalment contracts of general insurance	51
+63	Cancellations void	52
+Part VIII—Subrogation	53
+65	Subrogation to rights against family etc.	53
+66	Subrogation to rights against employees	54
+67	Rights with respect to moneys recovered under subrogation	54
+68	Contracts affecting rights of subrogation	55
+Part IX—Information, notices and reasons	56
+69	Giving of information to insureds	56
+70	Notices to be given to life insureds in certain cases	57
+71	Agency	57
+72	Legibility of writing	58
+74	Policy documents to be supplied on request	58
+75	Reasons for cancellation etc. to be given	58
+Part X—Miscellaneous	61
+76	Contribution between insurers	61
+76A	Liability of directors and employees etc.	61
+77	Giving notices	62
+78	Regulations	62
+Notes		65
+
 An Act to reform and modernise the law relating to certain contracts of insurance so that a fair balance is struck between the interests of insurers, insureds and other members of the public and so that the provisions included in such contracts, and the practices of insurers in relation to such contracts, operate fairly, and for related purposes
 Part I—Preliminary
   
@@ -157,11 +157,6 @@ Part I—Preliminary
 	(b)	some other insurer;
 as joint insurers.
 	(3)	Sections 37, 41, 58, 59, 60, 63, 69 and 74 do not apply in relation to contracts, and proposed contracts, of insurance against the risk of the loss of an aircraft, or damage to the hull of an aircraft, as a result of war.
-	(4)	Sections 53 and 63 do not apply in relation to a provision of a contract, or a proposed contract, of insurance to the extent that:
-	(a)	the provision authorises or permits the insurer to vary or cancel either or both of the following:
-	(i)	cover for risks related to war;
-	(ii)	cover for risks related to terrorism; and
-	(b)	the provision is prescribed or otherwise identified by the regulations.
 9A  Exclusion of pleasure craft from the Marine Insurance Act 1909
 	(1)	The Marine Insurance Act 1909 does not apply to a contract of marine insurance made in respect of a pleasure craft unless the contract is made in connection with the pleasure craft’s capacity as cargo.
 	(2)	For the purposes of this section, a pleasure craft is a ship that is:
@@ -910,7 +905,7 @@ S. 50(2)
 Insurance Laws Amendment Act (No. 2) 1994
 49, 1994
 7 Apr 1994
-Ss. 1–3 and Schedule (items 1, 2, 4, 5, 7, 7–19): Royal Assent  Remainder: 1 Oct 1994 (see Gazette 1994, No. GN38)
+Ss. 1‑3 and Schedule (items 1, 2, 4, 5, 7, 7‑19): Royal Assent  Remainder: 1 Oct 1994 (see Gazette 1994, No. GN38)
 —
 Life Insurance (Consequential Amendments and Repeals) Act 1995
 5, 1995
@@ -935,8 +930,8 @@ Schedule 8: Royal Assent (g)
 Insurance Laws Amendment Act 1998
 35, 1998
 22 Apr 1998
-Schedule 1 (items 77–84): 30 Apr 1998 (see Gazette 1998, S188) (h)
-Sch. 1 (items  82–84) [see Table A]
+Schedule 1 (items 77‑84): 30 Apr 1998 (see Gazette 1998, S188) (h)
+Sch. 1 (items  82‑84) [see Table A]
 Financial Sector Reform (Amendments and Transitional Provisions) Act 1998
 54, 1998
 29 June 1998
@@ -945,8 +940,8 @@ Schedule 12: 1 July 1998 (see Gazette 1998, S316) (i)
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
 44, 1999
 17 June 1999
-Schedule 7 (item 117): 1 July 1999 (see Gazette 1999, No. S283) (j)
-S. 3(2)(e) (am. by 160, 2000, Sch. 4 [item 4])
+Schedule 7 (item 117): 1 July 1999 (see Gazette 1999, No. S283) (j) Schedule 8: Royal Assent 
+S. 3(2)(e) (am. by 160, 2000, Sch. 4 [item 4]) Sch. 8 (items 22, 23) [see Table A]
 as amended by
 
 
@@ -960,23 +955,19 @@ Schedule 1 (item 21): Royal Assent Remainder: 18 Jan 2001
 Export Finance and Insurance Corporation Amendment Act 2000
 11, 2000
 15 Mar 2000
-Schedule 1 (item 4): 1 July 1998 Schedule 2 (items 2–4): 1 July 2000 Remainder: Royal Assent
+Schedule 1 (item 4): 1 July 1998 Schedule 2 (items 2‑4): 1 July 2000 Remainder: Royal Assent
 —
 Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001
 117, 2001
 18 Sept 2001
-S. 4 and Schedule 3 (items 5–14): 15 Dec 2001 (k)
+S. 4 and Schedule 3 (items 5‑14): 15 Dec 2001 (k)
 S. 4 [see Table A]
 Financial Services Reform (Consequential Provisions) Act 2001
 123, 2001
 27 Sept 2001
-Schedule 1 (items 246–249): 11 Mar 2002 (see Gazette 2001, No. GN42) (l)
+Schedule 1 (items 246‑249): 11 Mar 2002 (see Gazette 2001, No. GN42) (l)
 —
-Insurance and Aviation Liability Legislation Amendment Act 2002
-96, 2002
-10 Nov 2002
-Schedule 1 (items 1–4): 23 July 1998 (see s. 2(1)) Remainder: Royal Assent
-S. 4 [see Table A]
+
 (a)	The Insurance Contracts Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent. (see also (c))
 (b)	The Insurance Contracts Act 1984 was amended by Part VIII (section 60) only of the Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985, subsection 2(1) of which provides as follows:
@@ -993,7 +984,7 @@ S. 4 [see Table A]
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 (g)	The Insurance Contracts Act 1984 was amended by Schedule 8 only of the Financial Laws Amendment Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(h)	The Insurance Contracts Act 1984 was amended by Schedule 1 (items 77–84) only of the Insurance Laws Amendment Act 1998, subsection 2(2) of which provides as follows:
+(h)	The Insurance Contracts Act 1984 was amended by Schedule 1 (items 77‑84) only of the Insurance Laws Amendment Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsection (3), Schedule 1 commences on a day to be fixed by Proclamation.
 (i)	The Insurance Contracts Act 1984 was amended by Schedule 12 only of the Financial Sector Reform (Amendments and Transitional Provisions) Act 1998, subsection 2(2)(j) of which provides as follows:
 	(2)	The following provisions of this Act commence on the commencement of the Australian Prudential Regulation Authority Act 1998:
@@ -1003,30 +994,26 @@ S. 4 [see Table A]
 	(2)	The following provisions commence on the transfer date:
 	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act. 
-(k)	The Insurance Contracts Act 1984 was amended by Schedule 3 (item 5–14) only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001, subsection 2(1) of which provides as follows:
+(k)	The Insurance Contracts Act 1984 was amended by Schedule 3 (item 5‑14) only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the Criminal Code.
-(l)	The Insurance Contracts Act 1984 was amended by Schedule 1 (items 246–249) only of the Financial Services Reform (Consequential Provisions) Act 2001, subsections 2(1) and (6)  of which provide as follows:
+(l)	The Insurance Contracts Act 1984 was amended by Schedule 1 (items 246‑249) only of the Financial Services Reform (Consequential Provisions) Act 2001, subsections 2(1) and (6)  of which provide as follows:
 	(1)	In this section:
 		FSR commencement means the commencement of item 1 of Schedule 1 to the Financial Services Reform Act 2001.
 	(6)	Subject to subsections (7) to (17), the other items of Schedule 1 commence on the FSR commencement.
 
 Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Part I
-
 S. 9	
-am. Nos. 65 and 187, 1985; No. 76, 1986; No. 149, 1991; No. 107, 1997; No. 11, 2000; No. 96, 2002
+am. Nos. 65 and 187, 1985; No. 76, 1986; No. 149, 1991; No. 107, 1997; No. 11, 2000
 S. 9A	
 ad. No. 35, 1998
 S. 11	
 am. No. 65, 1985; No. 168, 1986; No. 49, 1994; No. 5, 1995; Nos. 62 and 107, 1997; No. 54, 1998; No. 44, 1999; No. 123, 2001
 S. 11AA	
 ad. No. 117, 2001
-Part IA
-
-Part IA 	
+Part IA 	 (ss. 11A‑11H)
 ad. No. 49, 1994 
 S. 11A	
 ad. No. 49, 1994
@@ -1074,56 +1061,34 @@ Ss. 11G, 11H
 ad. No. 49, 1994
 
 rep. No. 54, 1998
-Part II
-
 S. 15	
 rs. No. 65, 1985; No. 49, 1994
-Part III
-
-Division 1
-
 S. 16	
 am. No. 5, 1995
-Division 2
-
-Div. 2 of Part III 	
-rs. No. 5, 1995
+Div. 2 of Part III 	 (ss. 18, 19)
+rep. No. 5, 1995
+Div. 2 of Part III	 (s. 18)
+ad. No. 5, 1995
 S. 18	
 rs. No. 5, 1995
 S. 19	
 rep. No. 5, 1995 
-Part IV
-
-Division 1
-
 S. 21	
 am. No. 107, 1997
 S. 21A	
 ad. No. 35, 1998
 S. 22	
 am. No. 35, 1998
-Division 2
-
 S. 26	
 am. Nos. 62 and 107, 1997
-S. 27	
-am. No. 107, 1997
-Division 3
-
-Ss. 28, 29	
+Ss. 27‑29	
 am. No. 107, 1997
 S. 32A	
 ad. No. 62, 1997
-Part V
-
-Division 1
-
 S. 35	
 am. Nos. 65 and 193, 1985; No. 107, 1997 
 S. 37	
 am. No. 65, 1985; No. 168, 1986
-Division 2
-
 S. 40	
 am. No. 49, 1994 
 S. 41	
@@ -1142,8 +1107,6 @@ S. 49
 am. No. 168, 1986; No. 107, 1997 
 S. 51	
 am. No. 107, 1997
-Division 3
-
 S. 54	
 am. No. 65, 1985; No. 107, 1997
 Heading to s. 55A	
@@ -1152,12 +1115,8 @@ S. 55A
 ad. No. 49, 1994 
 
 am. No. 54, 1998
-Part VI
-
 S. 57	
 am. No. 107, 1997; No. 35, 1998
-Part VII
-
 S. 58	
 am. No. 168, 1986; No. 107, 1997
 S. 59	
@@ -1176,16 +1135,12 @@ S. 64B
 ad. No. 5, 1995
 
 rep. No. 123, 2001
-Part VIII
-
 S. 65	
 am. No. 49, 1994; No. 107, 1997
 S. 66	
 am. No. 107, 1997; No. 54, 1998
 S. 68	
 am. No. 107, 1997
-Part IX
-
 S. 69	
 am. No. 65, 1985; No. 168, 1986; No. 35, 1998
 S. 71	
@@ -1210,8 +1165,6 @@ Note to s. 75(3)
 ad. No. 117, 2001
 Note to s. 75(7)	
 ad. No. 117, 2001
-Part X
-
 S. 76	
 am. No. 107, 1997
 S. 76A	
@@ -1229,12 +1182,45 @@ Section 21A of the Insurance Contracts Act 1984 applies to an eligible contract 
 84  Application—section 22 of the Insurance Contracts Act 1984
 The amendment of section 22 of the Insurance Contracts Act 1984 made by this Schedule applies to an eligible contract of insurance entered into after the commencement of this item.
 
+Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)
+Schedule 8
+22  Regulations may deal with transitional, saving or application matters
+(1)	The regulations may deal with matters of a transitional, saving or application nature relating to:
+	(a)	the transition from the application of provisions of the replaced legislation to the application of provisions of the Banking Act 1959, the Life Insurance Act 1995, the Financial Sector (Transfers of Business) Act 1999, the Financial Sector (Shareholdings) Act 1998 or the Australian Prudential Regulation Authority Act 1998; or
+	(b)	the transition, for The Cairns Cooperative Weekly Penny Savings Bank Limited, from the application of provisions of the Financial Intermediaries Act 1996 of Queensland to the application of provisions of any of the Acts referred to in paragraph (a); or
+	(c)	the amendments and repeals made by the Schedules to this Act.
+(2)	Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+	(a)	by applying (with or without modifications) to the matter:
+	(i)	provisions of a law of the Commonwealth, or of a State or Territory; or
+	(ii)	provisions of a repealed or amended law of the Commonwealth, or of a State or Territory, in the form that those provisions took before the repeal or amendment; or
+	(iii)	a combination of provisions referred to in subparagraphs (i) and (ii);
+	(b)	by otherwise specifying rules for dealing with the matter;
+	(c)	by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
+(3)	Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(4)	Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+	(a)	the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
+	(b)	the purpose for which a thing done or instrument made, or a class of things done or instruments made, is to continue to have effect;
+	(c)	any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
+(5)	Despite subsection 48(2) of the Acts Interpretation Act 1901, regulations for the purposes of this item:
+	(a)	may be expressed to take effect from a date before the regulations are notified in the Gazette; and
+	(b)	may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the Gazette).
+(6)	In this item, a reference to a law, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(7)	In this item:
+replaced legislation means:
+	(a)	the AFIC Codes; and
+	(b)	the Financial Institutions Codes; and
+	(c)	the Friendly Societies Codes; and
+	(d)	the Australian Financial Institutions Commission Act 1992 of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 21 of the Australian Financial Institutions Commission Act 1992 of Queensland; and
+	(e)	the Financial Institutions (Queensland) Act 1992 of Queensland, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in section 30 of the Financial Institutions (Queensland) Act 1992 of Queensland; and
+	(f)	the Friendly Societies (Victoria) Act 1996 of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the Friendly Societies (Victoria) Act 1996 of Victoria; and
+	(g)	the Friendly Societies (Western Australia) Act 1999; and
+	(h)	any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
+23  Power to make regulations
+The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+
 Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001 (No. 117, 2001)
 4  Application of amendments
 	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-Insurance and Aviation Liability Legislation Amendment Act 2002  (No. 96, 2002)
-4  Application
-		The amendment made by item 6 of Schedule 1 applies to a provision included in a contract of insurance after the commencement of the item, including a provision included by varying a contract entered into before the commencement of the item.
+      
 
