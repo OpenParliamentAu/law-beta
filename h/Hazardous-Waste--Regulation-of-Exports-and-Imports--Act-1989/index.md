@@ -1,7 +1,7 @@
 
 Hazardous Waste (Regulation of Exports and Imports) Act 1989
 Act No. 6 of 1990 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 15 of 2001
+This compilation was prepared on 22 December 2000 taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -19,107 +19,107 @@ Division 2—Interpretation	3
 4B	Transit proposals	10
 4C	Article 11 arrangements	12
 4D	Treatment of colonies etc.	13
-4E	Environmentally sound management of hazardous waste	14
+4E	Environmentally sound management of hazardous waste	13
 4F	Article 11 arrangements—substances taken to be hazardous waste	14
 4G	Article 11 arrangements—substances not classified as hazardous waste	14
 7	Failure to comply with permit condition when required is breach of condition	15
 8	Reference to offence against Act etc. includes reference to offence against certain provisions of Crimes Act	15
-Division 3—Operation of Act	17
-9	Extension of Act to external Territories	17
-10	Act binds Crown	17
-10A	Application of the Criminal Code	17
-11	Relationship between Act and other Commonwealth laws	17
-Part 2—Import permits, export permits and transit permits	18
-Division 1—Applications for permits	18
-12	Applications for import permits	18
-13	Applications for export permits	18
-13A	Applications for transit permits	19
-13B	Basel permit or special permit	19
-Division 2—Special permits under a set of Article 11 regulations	22
-13C	Regulations may give effect to Article 11 arrangements	22
-13D	Contents of a set of Article 11 regulations	22
-13E	Special permit may be granted under a set of Article 11 regulations only if corresponding requirements of other sets of Article 11 regulations have been met	23
-13F	Special permit—waste not to be brought into Antarctica	25
-Division 3—Grant of Basel permits	26
-14	Variation of applications for Basel permits	26
-15	Further information may be requested	26
-15A	Acknowledgment and notification	26
-16	Time within which applications for Basel permits are to be decided	27
-17	Grant of Basel import permits and Basel export permits	29
-17A	Grant of transit permits	31
-18	Determination of whether applicant has appropriate insurance	32
-18A	Export permits for final disposal may be granted only in exceptional circumstances	32
-18B	Basel permit may be granted only if the corresponding requirements of Article 11 regulations have been met	33
-19	Applicants to be notified of decisions	35
-19A	Foreign countries to be notified of decision about grant of import permit	35
-20	Matters to be specified in Basel import permits	35
-21	Matters to be specified in Basel export permits	36
-21A	Matters to be specified in Basel transit permits	36
-22	Basel permits may be granted subject to conditions	37
-Division 4—Revocation, surrender and variation of Basel permits	38
-24	Revocation of Basel permits	38
-25	Surrender of Basel permits	39
-26	Variation of Basel permits	40
-27	Applications for variations of Basel permits	42
-28	Further information may be requested	42
-28A	Acknowledgment and notification	42
-29	Time within which applications are to be decided	43
-30	Making of variations	45
-31	Applicants to be notified of decisions	45
-Division 5—Miscellaneous	47
-32	Applications and notices to be accompanied by fees	47
-33	Publication of certain particulars in Gazette	47
-Part 3—Ministerial orders in relation to hazardous waste	49
-34	Orders where section 39 contravened	49
-35	Orders where section 40 contravened	49
-35A	Orders where section 40A contravened	50
-36	Orders to remedy or mitigate damage	51
-37	Minister may take action and recover costs if order under section 34, 35, 35A or 36 not complied with	51
-38	Orders authorising import of exported hazardous waste where it cannot be dealt with as intended	51
-Part 4—Regulation of import, export and transit of hazardous waste	53
-39	Regulation of import of hazardous waste	53
-40	Regulation of export of hazardous waste	54
-40A	Regulation of transit of hazardous waste	56
-40B	Liability of executive officers of bodies corporate	57
-41	Injunctions	59
-Part 4A—Transportation of waste substances through transit countries where an export permit under this Act is not required	62
-41A	Offence of transporting substance through transit country without approval	62
-41B	Approval of transportation of substances through transit countries	62
-41C	Notifiable substances in relation to transit countries	64
-Part 5—Administration	66
-42	Appointment of inspectors	66
-43	Identity cards	66
-44	Proof of authority	67
-45	Power to control movement of vessels and aircraft etc.	67
-46	Entry and search of searchable places—monitoring compliance	69
-47	Entry and search of searchable places—evidence of offences	69
-48	General powers of inspectors in relation to searchable places	71
-49	Monitoring warrants	72
-50	Offence related warrants	72
-51	Offence related warrants may be granted by telephone	73
-52	Production of permits and orders—import or export	75
-52A	Production of transit permits	76
-53	Assistance of inspectors	76
-56	Part does not limit power to impose permit conditions	76
-Part 5A—Arrangements by Minister	77
-56A	Arrangements by Minister	77
-Part 6—Miscellaneous	79
-57	Review of decisions	79
-58	Statement to accompany notification of decision	79
-58A	Extended standing of individuals and organisations to seek judicial review	80
-58B	Evidentiary certificate—classification of hazardous waste	82
-58C	Evidentiary certificate—environmentally sound management of hazardous waste	83
-58D	Regulations defining hazardous waste—Minister to consult Hazardous Waste Technical Group	83
-58E	Hazardous Waste Technical Group	84
-59	Conduct of directors, servants and agents	85
-59A	Nomination of address for service of documents	87
-59B	Service of summons or process on foreign corporations—criminal proceedings	87
-60	Delegation by Minister	88
-61	Annual report	88
-62	Regulations	88
-Schedule—Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal	89
-Notes		147
-
+Division 3—Operation of Act	16
+9	Extension of Act to external Territories	16
+10	Act binds Crown	16
+11	Relationship between Act and other Commonwealth laws	16
+Part 2—Import permits, export permits and transit permits	17
+Division 1—Applications for permits	17
+12	Applications for import permits	17
+13	Applications for export permits	17
+13A	Applications for transit permits	18
+13B	Basel permit or special permit	18
+Division 2—Special permits under a set of Article 11 regulations	21
+13C	Regulations may give effect to Article 11 arrangements	21
+13D	Contents of a set of Article 11 regulations	21
+13E	Special permit may be granted under a set of Article 11 regulations only if corresponding requirements of other sets of Article 11 regulations have been met	22
+13F	Special permit—waste not to be brought into Antarctica	24
+Division 3—Grant of Basel permits	25
+14	Variation of applications for Basel permits	25
+15	Further information may be requested	25
+15A	Acknowledgment and notification	25
+16	Time within which applications for Basel permits are to be decided	26
+17	Grant of Basel import permits and Basel export permits	28
+17A	Grant of transit permits	30
+18	Determination of whether applicant has appropriate insurance	31
+18A	Export permits for final disposal may be granted only in exceptional circumstances	31
+18B	Basel permit may be granted only if the corresponding requirements of Article 11 regulations have been met	32
+19	Applicants to be notified of decisions	34
+19A	Foreign countries to be notified of decision about grant of import permit	34
+20	Matters to be specified in Basel import permits	34
+21	Matters to be specified in Basel export permits	35
+21A	Matters to be specified in Basel transit permits	35
+22	Basel permits may be granted subject to conditions	36
+Division 4—Revocation, surrender and variation of Basel permits	37
+24	Revocation of Basel permits	37
+25	Surrender of Basel permits	38
+26	Variation of Basel permits	39
+27	Applications for variations of Basel permits	41
+28	Further information may be requested	41
+28A	Acknowledgment and notification	41
+29	Time within which applications are to be decided	42
+30	Making of variations	44
+31	Applicants to be notified of decisions	44
+Division 5—Miscellaneous	45
+32	Applications and notices to be accompanied by fees	45
+33	Publication of certain particulars in Gazette	45
+Part 3—Ministerial orders in relation to hazardous waste	47
+34	Orders where section 39 contravened	47
+35	Orders where section 40 contravened	47
+35A	Orders where section 40A contravened	48
+36	Orders to remedy or mitigate damage	49
+37	Minister may take action and recover costs if order under section 34, 35, 35A or 36 not complied with	49
+38	Orders authorising import of exported hazardous waste where it cannot be dealt with as intended	49
+Part 4—Regulation of import, export and transit of hazardous waste	51
+39	Regulation of import of hazardous waste	51
+40	Regulation of export of hazardous waste	52
+40A	Regulation of transit of hazardous waste	54
+40B	Liability of executive officers of bodies corporate	55
+41	Injunctions	57
+Part 4A—Transportation of waste substances through transit countries where an export permit under this Act is not required	59
+41A	Offence of transporting substance through transit country without approval	59
+41B	Approval of transportation of substances through transit countries	59
+41C	Notifiable substances in relation to transit countries	61
+Part 5—Administration	63
+42	Appointment of inspectors	63
+43	Identity cards	63
+44	Proof of authority	64
+45	Power to control movement of vessels and aircraft etc.	64
+46	Entry and search of searchable places—monitoring compliance	65
+47	Entry and search of searchable places—evidence of offences	66
+48	General powers of inspectors in relation to searchable places	67
+49	Monitoring warrants	68
+50	Offence related warrants	69
+51	Offence related warrants may be granted by telephone	70
+52	Production of permits and orders—import or export	71
+52A	Production of transit permits	72
+53	Assistance of inspectors	72
+54	Obstruction of inspectors etc.	73
+55	False statements	73
+56	Part does not limit power to impose permit conditions	74
+Part 5A—Arrangements by Minister	75
+56A	Arrangements by Minister	75
+Part 6—Miscellaneous	77
+57	Review of decisions	77
+58	Statement to accompany notification of decision	77
+58A	Extended standing of individuals and organisations to seek judicial review	78
+58B	Evidentiary certificate—classification of hazardous waste	80
+58C	Evidentiary certificate—environmentally sound management of hazardous waste	81
+58D	Regulations defining hazardous waste—Minister to consult Hazardous Waste Technical Group	81
+58E	Hazardous Waste Technical Group	82
+59	Conduct of directors, servants and agents	83
+59A	Nomination of address for service of documents	85
+59B	Service of summons or process on foreign corporations—criminal proceedings	85
+60	Delegation by Minister	86
+61	Annual report	86
+62	Regulations	86
+Schedule—Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal	87
+Notes		145
 An Act to provide for the regulation of the export, import and transit of hazardous waste, and for related purposes
 Part 1—Preliminary
 Division 1—Introductory
@@ -375,17 +375,14 @@ the holder of the permit is to be taken to have breached the condition at the en
 the holder of the permit is taken to have breached that condition at the end of that day.
 8  Reference to offence against Act etc. includes reference to offence against certain provisions of Crimes Act
 		In this Act:
-	(a)	a reference to an offence against this Act includes a reference to an offence against section 6 of the Crimes Act 1914, or section 11.1, 11.4 or 11.5 of the Criminal Code, that relates to an offence against this Act; and
-	(b)	a reference to an offence against a provision of Part 4 includes a reference to an offence against section 6 of the Crimes Act 1914, or section 11.1, 11.4 or 11.5 of the Criminal Code, that relates to an offence against that provision.
+	(a)	a reference to an offence against this Act includes a reference to an offence against section 6, 7 or 7A, or subsection 86(1), of the Crimes Act 1914 that relates to an offence against this Act; and
+	(b)	a reference to an offence against a provision of Part 4 includes a reference to an offence against section 6, 7 or 7A, or subsection 86(1), of the Crimes Act 1914 that relates to an offence against that provision.
 
 Division 3—Operation of Act
 9  Extension of Act to external Territories
 		This Act extends to every external Territory.
 10  Act binds Crown
 		This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
-10A  Application of the Criminal Code
-		Chapter 2 (other than Part 2.5) of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 11  Relationship between Act and other Commonwealth laws
 		This Act is in addition to, and not in derogation of or substitution for, the Customs Act 1901, the Environment Protection and Biodiversity Conservation Act 1999 or any other law of the Commonwealth, whether enacted before or after the commencement of this Act.
 
@@ -831,7 +828,7 @@ Division 5—Miscellaneous
 	(3)	The Minister must cause a publication required by this section to be made as soon as practicable after the requirement arises.
 
 Part 3—Ministerial orders in relation to hazardous waste
-  
+
 34  Orders where section 39 contravened
 	(1)	If a person imports hazardous waste in contravention of subsection 39(1), the Minister may, in writing, order the person to deal with the waste in a specified way.
 	(2)	If:
@@ -889,7 +886,7 @@ the person may apply to the Minister, in writing, for an order authorising the p
 	(4)	Without limiting subsection (3), the Minister may, under that subsection, specify the day on or before which anything required to be done in relation to the waste is to be done.
 
 Part 4—Regulation of import, export and transit of hazardous waste
-  
+
 39  Regulation of import of hazardous waste
 Prohibition of imports
 	(1)	A person must not import hazardous waste unless:
@@ -903,8 +900,8 @@ Compliance with import permits
 	(b)	whether before or after importing the hazardous waste to which the permit relates, breach any of the permit conditions.
 Compliance with section 38 orders
 	(3)	A person authorised by an order under section 38 to import hazardous waste must not import or deal with the waste except in accordance with the order.
-Offence—intention, recklessness or negligence
-	(4)	A person who intentionally, recklessly or negligently contravenes subsection (1), (2) or (3) is guilty of an offence punishable on conviction by:
+Offence—knowledge, recklessness or negligence
+	(4)	A person who knowingly, recklessly or negligently contravenes subsection (1), (2) or (3) is guilty of an offence punishable on conviction by:
 	(a)	in the case of a body corporate—a fine not exceeding 2,500 penalty units; or
 	(b)	in the case of an individual—imprisonment for a term not exceeding 2 years.
 Note:	This penalty does not, by implication, affect the operation of subsection 4B(2) of the Crimes Act 1914.
@@ -913,9 +910,9 @@ Meaning of negligence
 	(a)	such a great falling short of the standard of care that a reasonable person would exercise in the circumstances; and
 	(b)	such a high risk that the person’s conduct would contravene the subsection;
 that the conduct merits criminal punishment.
-Offence—intention or recklessness
+Offence—knowledge or recklessness
 	(6)	If:
-	(a)	a person intentionally or recklessly contravenes subsection (1), (2) or (3); and
+	(a)	a person knowingly or recklessly contravenes subsection (1), (2) or (3); and
 	(b)	the contravention injures or damages, or is likely to injure or damage, human beings or the environment;
 the person is guilty of an offence punishable on conviction by:
 	(c)	in the case of a body corporate—a fine not exceeding 10,000 penalty units; or
@@ -931,8 +928,8 @@ Compliance with export permits
 	(2)	The holder of an export permit must not:
 	(a)	export the hazardous waste to which the permit relates except in accordance with the permit; or
 	(b)	whether before or after exporting the hazardous waste to which the permit relates, breach any of the permit conditions.
-Offence—intention, recklessness or negligence
-	(3)	A person who intentionally, recklessly or negligently contravenes subsection (1) or (2) is guilty of an offence punishable on conviction by:
+Offence—knowledge, recklessness or negligence
+	(3)	A person who knowingly, recklessly or negligently contravenes subsection (1) or (2) is guilty of an offence punishable on conviction by:
 	(a)	in the case of a body corporate—a fine not exceeding 2,500 penalty units; or
 	(b)	in the case of an individual—imprisonment for a term not exceeding 2 years.
 Note:	This penalty does not, by implication, affect the operation of subsection 4B(2) of the Crimes Act 1914.
@@ -941,9 +938,9 @@ Meaning of negligence
 	(a)	such a great falling short of the standard of care that a reasonable person would exercise in the circumstances; and
 	(b)	such a high risk that the person’s conduct would contravene the subsection;
 that the conduct merits criminal punishment.
-Offence—intention or recklessness
+Offence—knowledge or recklessness
 	(5)	If:
-	(a)	a person intentionally or recklessly contravenes subsection (1) or (2); and
+	(a)	a person knowingly or recklessly contravenes subsection (1) or (2); and
 	(b)	the contravention injures or damages, or is likely to injure or damage, human beings or the environment;
 the person is guilty of an offence punishable on conviction by:
 	(c)	in the case of a body corporate—a fine not exceeding 10,000 penalty units; or
@@ -958,8 +955,8 @@ Compliance with transit permits
 	(a)	bring the hazardous waste to which the permit relates into Australia (whether or not by way of import) except in accordance with the permit; or
 	(b)	export the hazardous waste to which the permit relates except in accordance with the permit; or
 	(c)	whether before or after bringing the hazardous waste to which the permit relates into Australia, breach any of the permit conditions.
-Offence—intention, recklessness or negligence
-	(3)	A person who intentionally, recklessly or negligently contravenes subsection (1) or (2) is guilty of an offence punishable on conviction by:
+Offence—knowledge, recklessness or negligence
+	(3)	A person who knowingly, recklessly or negligently contravenes subsection (1) or (2) is guilty of an offence punishable on conviction by:
 	(a)	in the case of a body corporate—a fine not exceeding 2,500 penalty units; or
 	(b)	in the case of an individual—imprisonment for a term not exceeding 2 years.
 Note:	This penalty does not, by implication, affect the operation of subsection 4B(2) of the Crimes Act 1914.
@@ -968,9 +965,9 @@ Meaning of negligence
 	(a)	such a great falling short of the standard of care that a reasonable person would exercise in the circumstances; and
 	(b)	such a high risk that the person’s conduct would contravene the subsection;
 that the conduct merits criminal punishment.
-Offence—intention or recklessness
+Offence—knowledge or recklessness
 	(5)	If:
-	(a)	a person intentionally or recklessly contravenes subsection (1) or (2); and
+	(a)	a person knowingly or recklessly contravenes subsection (1) or (2); and
 	(b)	the contravention injures or damages, or is likely to injure or damage, human beings or the environment;
 the person is guilty of an offence punishable on conviction by:
 	(c)	in the case of a body corporate—a fine not exceeding 10,000 penalty units; or
@@ -1031,14 +1028,14 @@ the Court may, on the application of the Minister or any other person, grant an 
 	(9)	Jurisdiction is conferred on the Court to hear and determine applications for injunctions under this section.
 
 Part 4A—Transportation of waste substances through transit countries where an export permit under this Act is not required
-  
+
 41A  Offence of transporting substance through transit country without approval
 	(1)	A person must not export a substance or object to a foreign country (the destination country) if:
 	(a)	the substance or object is transported through a third country (the transit country) on its way to the destination country; and
 	(b)	the substance or object is not hazardous waste for the purposes of the application of this Act to the export; and
 	(c)	under section 41C, the substance or object is a notifiable substance in relation to the transit country; and
 	(d)	at the time when the substance or object was brought into the transit country, the transportation had not been approved under section 41B.
-	(2)	A person who intentionally or recklessly contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding 200 penalty units.
+	(2)	A person who knowingly or recklessly contravenes subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding 200 penalty units.
 41B  Approval of transportation of substances through transit countries
 Application for approval
 	(1)	A person may apply to the Minister for an approval under this section to transport a substance or object through a foreign country.
@@ -1085,7 +1082,7 @@ Definition
 Annex I/III waste means waste that belongs to any category contained in Annex I to the Basel Convention, unless it does not possess any of the characteristics contained in Annex III to that Convention.
 
 Part 5—Administration
-  
+
 42  Appointment of inspectors
 	(1)	The Minister may, by writing:
 	(a)	appoint an eligible person to be an inspector; or
@@ -1106,8 +1103,6 @@ Minister, in relation to Norfolk Island, means a member of the Executive Council
 	(b)	be in a form approved, in writing, by the Minister.
 	(3)	A person who stops being an inspector must, as soon as practicable, return his or her identity card to the Minister.
 Penalty:	$100.
-	(4)	An offence under subsection (3) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 44  Proof of authority
 	(1)	An inspector is not entitled to exercise powers under this Act in relation to a person unless the inspector first produces the inspector’s identity card for inspection by the person.
 	(2)	Subsection (1) does not apply in relation to the exercise of a power under section 45, 49, 50 or 51.
@@ -1132,10 +1127,8 @@ hazardous waste that is to be, or that has been, imported, exported or the subje
 	(a)	an international signal code; or
 	(b)	if the requirement relates to a vessel—any other internationally recognised means of communication with a vessel; or
 	(c)	if the requirement relates to an aircraft—any other internationally recognised means of communication with an aircraft.
-	(5)	A person must not refuse or fail to comply with a requirement made under this section.
+	(5)	A person must not, without reasonable excuse, refuse or fail to comply with a requirement made under this section.
 Penalty:	$6,000.
-	(5A)	Subsection (5) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (5A). See subsection 13.3(3) of the Criminal Code.
 	(6)	It is a reasonable excuse for the person to refuse or fail to comply with the requirement if complying with the requirement would have endangered the person or any other person.
 46  Entry and search of searchable places—monitoring compliance
 	(1)	Subject to subsection (2), an inspector may, for the purpose of finding out whether the requirements of this Act (including the requirements of any permit conditions or order under Part 3) are being complied with:
@@ -1178,10 +1171,8 @@ subsection (2) applies to the thing as if it were the evidence.
 	(ii)	produce any books, records or documents requested by the inspector;
 	(f)	to take into or onto the place such equipment and materials as the inspector requires for the purpose of exercising any powers in relation to the place.
 	(2)	Subsection (1) has effect subject to subsections 46(2) and 47(3).
-	(3)	A person must not refuse or fail to comply with a requirement made under paragraph (1)(d) or (e).
+	(3)	A person must not, without reasonable excuse, refuse or fail to comply with a requirement made under paragraph (1)(d) or (e).
 Penalty:	$3,000.
-	(3A)	Subsection (3) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (3A). See subsection 13.3(3) of the Criminal Code.
 	(4)	It is a reasonable excuse for a person to refuse or fail to answer a question or produce a document if answering the question, or producing the document, might tend to incriminate the person.
 49  Monitoring warrants
 	(1)	An inspector may apply to a magistrate for a warrant under this section in relation to a particular searchable place.
@@ -1242,10 +1233,8 @@ the court must assume, unless the contrary is proved, that the exercise of power
 	(2)	The authorised person may require the suspected person to produce, or to produce evidence of the existence and contents of:
 	(a)	a Basel permit or special permit authorising the import or export; or
 	(b)	an order under section 34, 35, 35A or 38 authorising or requiring the import or export.
-	(3)	The suspected person must not refuse or fail to comply with the requirement.
+	(3)	The suspected person must not, without reasonable excuse, refuse or fail to comply with the requirement.
 Penalty:	$3,000.
-	(4)	Subsection (3) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (4). See subsection 13.3(3) of the Criminal Code.
 52A  Production of transit permits
 	(1)	This section applies if an inspector or an officer of Customs (the authorised person) has reasonable grounds for suspecting that a person (the suspected person):
 	(a)	intends to carry out a transit proposal; or
@@ -1256,15 +1245,29 @@ Note:	The defendant bears an evidential burden in relation to the matter in subs
 Penalty:	30 penalty units.
 53  Assistance of inspectors
 	(1)	An inspector who proposes to exercise powers under this Part in relation to a searchable place may require the relevant authority in relation to the place to provide reasonable assistance to the inspector in relation to the exercise of those powers.
-	(2)	The relevant authority must not refuse or fail to comply with the requirement.
+	(2)	The relevant authority must not, without reasonable excuse, refuse or fail to comply with the requirement.
 Penalty:	$3,000.
-	(3)	Subsection (2) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (3). See subsection 13.3(3) of the Criminal Code.
+54  Obstruction of inspectors etc.
+		A person must not, without reasonable excuse, obstruct, hinder or resist an inspector in the exercise of powers under this Act.
+Penalty:	$3,000.
+55  False statements
+	(1)	A person must not, in or in relation to an application or notice under Part 2 or under a set of Article 11 regulations, knowingly or recklessly:
+	(a)	make a statement that is false or misleading in a material particular; or
+	(b)	give to the Minister a document containing information that is false or misleading in a material particular without:
+	(i)	indicating to the Minister that the document is false or misleading and the respect in which the document is false or misleading; and
+	(ii)	providing correct information to the Minister if the person has, or can reasonably obtain, the correct information.
+Penalty:	$6,000.
+	(2)	A person must not, otherwise than in or in relation to an application or notice under Part 2 or under a set of Article 11 regulations, knowingly or recklessly:
+	(a)	make to an inspector doing duty in relation to this Act a statement that is false or misleading in a material particular; or
+	(b)	give to an inspector doing duty in relation to this Act a document containing information that is false or misleading in a material particular without:
+	(i)	indicating to the inspector that the document is false or misleading and the respect in which the document is false or misleading; and
+	(ii)	providing correct information to the inspector if the person is in possession of, or can reasonably obtain, the correct information.
+Penalty:	$6,000.
 56  Part does not limit power to impose permit conditions
 		This Part is not to be taken to limit the Minister’s power to impose permit conditions on a Basel permit or special permit (including, for example, a condition requiring the holder of the permit to allow inspectors to enter or board a place and exercise powers in relation to the place).
 
 Part 5A—Arrangements by Minister
-  
+
 56A  Arrangements by Minister
 Arrangements
 	(1)	The Minister may make arrangements directed towards any or all of the following:
@@ -1299,7 +1302,7 @@ Constitutional limitations
 	(h)	the activities of a corporation to which paragraph 51(xx) of the Constitution applies.
 
 Part 6—Miscellaneous
-  
+
 57  Review of decisions
 		Applications may be made to the Administrative Appeals Tribunal for the review of decisions of the following kinds:
 	(a)	decisions whether to grant Basel permits or special permits;
@@ -1454,7 +1457,6 @@ criminal proceeding includes a proceeding to determine whether a person should b
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 	(2)	The regulations may amend the Schedule for the purpose of ensuring that the Schedule correctly sets out the English text of the Basel Convention as in force from time to time.
 Schedule—Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal
-  
 Section 4	
 Note	The following text incorporates corrections made by the Rectifications of 4 November 1992 and 16 May 1994, and amendments made by Decision IV/9 of the Fourth Conference of the Parties to the Convention.
 PREAMBLE
@@ -2396,8 +2398,8 @@ B4030	Used single use cameras, with batteries not included on list A
 Notes to the Hazardous Waste (Regulation of Exports and Imports) Act 1989
 Note 1
 Hazardous Waste (Regulation of Exports and Imports) Act 1989 as shown in this compilation comprises Act No. 6, 1990 amended as indicated in the Tables below.
-The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by the Hazardous Waste (Regulation of Exports and Imports) (Decision IV/9) Regulations 1999. The amendments are incorporated in this compilation.
 All relevant information pertaining to application, saving or transitional provisions prior to 11 June 1996 is not included in this compilation. For subsequent information see Table A.
+The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by the Hazardous Waste (Regulation of Exports and Imports) (Decision IV/9) Regulations 1999. The amendments are incorporated in this compilation.
 Table of Acts
 Act
 Number  and year
@@ -2442,13 +2444,8 @@ Schedule 1 (item 505): 5 Dec 1999 (see Gazette 1999, No. S584) (c)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
+Schedule 2 (items 217, 218, 418, 419): [see (d), Note 2 and Table A]
 Sch. 2 (items 418, 419) [see Table A]
-Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001
-15, 2001
-22 Mar 2001
-S. 4 and Schedule 1 (items 73‑95): 24 May 2001 (d)
-S. 4 [see Table A]
 (a)	The Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 was amended by Schedule 7 (item 16) only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(3) of which provides as follows:
 	(3)	The amendment of the Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 in Schedule 7 to this Act is taken to have commenced immediately after that Act received the Royal Assent.
 (b)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedules 3 and 4 only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(1) of which provides as follows:
@@ -2456,9 +2453,9 @@ S. 4 [see Table A]
 (c)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedule 1 (item 505) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(d)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedule 1 (items 73‑95) only of the Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(c) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the latest of the following days:
-	(c)	the day on which item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 commences.
+(d)	The Hazardous Waste (Regulation of Exports and Imports) Act 1989 was amended by Schedule 2 (items 217 and 218) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -2481,10 +2478,6 @@ am. No. 7, 1996
 rep. No. 92, 1999
 S. 7	
 am. No. 7, 1996
-S. 8	
-am. No. 15, 2001
-S. 10A	
-ad. No. 15, 2001
 S. 11	
 am. No. 92, 1999
 Heading to Part 2	
@@ -2585,66 +2578,28 @@ S. 37
 am. No. 7, 1996
 Heading to Part 4	
 rs. No. 7, 1996
-Subhead to s. 39(4)	
-am. No. 15, 2001
-Subhead to s. 39(6)	
-am. No. 15, 2001
-S. 39	
+Ss. 39, 40	
 rs. No. 7, 1996
-
-am. No. 15, 2001
-Subhead to s. 40(3)	
-am. No. 15, 2001
-Subhead to s. 40(5)	
-am. No. 15, 2001
-S. 40	
-rs. No. 7, 1996
-
-am. No. 15, 2001
-Subhead to s. 40A(3)	
-am. No. 15, 2001
-Subhead to s. 40A(5)	
-am. No. 15, 2001
-S. 40A	
-ad. No. 7, 1996
-
-am. No. 15, 2001
-S. 40B	
+Ss. 40A, 40B	
 ad. No. 7, 1996
 S. 41	
 am. No. 7, 1996
 Part 4A 	 (ss. 41A‑41C)
 ad. No. 7, 1996
-S. 41A	
-ad. No. 7, 1996
-
-am. No. 15, 2001
-Ss. 41B, 41C	
+Ss. 41A‑41C	
 ad. No. 7, 1996
 S. 42	
 am. No. 7, 1996
-S. 43	
-am. No. 15, 2001
 S. 45	
-am. No. 7, 1996; No. 15, 2001
-S. 48	
-am. No. 15, 2001
+am. No. 7, 1996
 Heading to s. 52	
 am. No. 7, 1996
 S. 52	
-am. No. 7, 1996; No. 15, 2001
+am. No. 7, 1996
 S. 52A	
 ad. No. 7, 1996
-S. 53	
-am. No. 15, 2001
-S. 54	
-am. No. 15, 2001
-
-rep. No. 137, 2000
 S. 55	
 am. No. 7, 1996
-
-rep. No. 137, 2000
 S. 56	
 am. No. 7, 1996
 Part 5A	 (s. 56A)
@@ -2668,6 +2623,15 @@ rep. No. 7, 1996
 Schedule	
 am. No. 7, 1996; Statutory Rules 1999 No. 102
 
+Note 2
+Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following amendments commence on 24 May 2001 unless proclaimed earlier:
+Schedule 2
+217  Section 54
+Repeal the section.
+218  Section 55
+Repeal the section.
+As at 22 December 2000 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 (No. 7, 1996)
@@ -2698,6 +2662,7 @@ Schedule 3
 The amendments of the Hazardous Waste (Regulation of Exports and Imports) Act 1989 made by this Schedule apply in relation to applications for Basel permits, and for variations of Basel permits, made after the commencement of the Environment Protection and Biodiversity Conservation Act 1999.
 
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 Schedule 2
 418  Transitional—pre‑commencement offences
 (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
@@ -2712,9 +2677,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Communications and the Arts Legislation Amendment (Application of Criminal Code) Act 2001 (No. 5, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
