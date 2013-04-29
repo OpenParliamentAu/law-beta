@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00080/Html/f414167c-f535-4275-9f41-9c84105344d1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00736/Html/89233e30-980f-4c78-9b29-6ea1fcd8cfd6_files/image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 30 January 2013
- taking into account amendments up to Act No. 174 of 2012
+This compilation was prepared on 10 October 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -263,7 +263,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Part IIC—Referral of discriminatory awards and determinations to other bodies**
 
-[46PW](#46PW).    Referral of discriminatory industrial instruments to the Fair Work Commission
+[46PW](#46PW).    Referral of discriminatory industrial instruments to Fair Work Australia
 
 [46PX](#46PX).     Referral of discriminatory determinations to the Remuneration Tribunal
 
@@ -2237,7 +2237,7 @@ the Attorney‑General may authorise the provision by the Commonwealth to that p
 
 ## Part IIC—Referral of discriminatory awards and determinations to other bodies
 
-##### <a id="46PW"></a>46PW  Referral of discriminatory industrial instruments to the Fair Work Commission
+##### <a id="46PW"></a>46PW  Referral of discriminatory industrial instruments to Fair Work Australia
 
              (1)  A complaint in writing alleging that a person has done a discriminatory act under an industrial instrument may be lodged with the Commission by:
 
@@ -2251,11 +2251,11 @@ the Attorney‑General may authorise the provision by the Commonwealth to that p
 
              (2)  If the Commission receives a complaint under this section, the Commission must notify the President accordingly.
 
-             (3)  If it appears to the President that the act is a discriminatory act, the President must refer the industrial instrument to the Fair Work Commission. However, the President need not refer the industrial instrument if the President is of the opinion that the complaint is frivolous, vexatious, misconceived or lacking in substance.
+             (3)  If it appears to the President that the act is a discriminatory act, the President must refer the industrial instrument to Fair Work Australia. However, the President need not refer the industrial instrument if the President is of the opinion that the complaint is frivolous, vexatious, misconceived or lacking in substance.
 
              (4)  If the President decides not to refer the industrial instrument, the President must give notice in writing of that decision to the complainant or each of the complainants, together with notice of the reasons for the decision.
 
-             (5)  If the President refers the industrial instrument to the Fair Work Commission, the President must give notice in writing of the outcome of the referral to the complainant or each of the complainants.
+             (5)  If the President refers the industrial instrument to Fair Work Australia, the President must give notice in writing of the outcome of the referral to the complainant or each of the complainants.
 
              (6)  The President may obtain documents or information under section 46PI for the purposes of this section.
 
@@ -4084,26 +4084,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 1260, 1261): 1 Jan 2013</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -5568,14 +5548,6 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 46PW</div>
   </td>
   <td>
@@ -5595,7 +5567,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 54 and 124, 2009; Nos. 136 and 174, 2012</div>
+    <div>am. Nos. 54 and 124, 2009; No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -6021,7 +5993,7 @@ _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009
 
 Subparagraph 20(2)(c)(vii) of the _Human Rights and Equal Opportunity Commission Act 1986_, as added by this Part, applies in relation to complaints made to the Commission before, on or after the commencement of this Part.
 
-## 148  Application
+## 148  Application
 
 Subparagraph 32(3)(c)(vii) of the _Human Rights and Equal Opportunity Commission Act 1986_, as added by this Part, applies in relation to complaints made to the Commission before, on or after the commencement of this Part.
 
