@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00848/Html/3727e1a9-5d77-4236-af90-fffd0fbbb350_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00156/Html/ShippingRegistration1981_image001.gif)
 
 # Shipping Registration Act 1981
 
 **Act No. 8 of 1981 as amended**
 
-This compilation was prepared on 20 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,9 +33,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Act not to apply to Defence Force ships etc 
 
-[8](#8).            Australian‑owned ships
+[8](#8).            Australian-owned ships
 
-[9](#9).            Ships on demise charter to Australian‑based operators
+[9](#9).            Ships on demise charter to Australian-based operators
 
 [10](#10).          Determination of overall length and tonnage length of ship
 
@@ -48,7 +47,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Registration**
 
-[12](#12).          Obligation to register Australian‑owned ships
+[12](#12).          Obligation to register Australian-owned ships
 
 [13](#13).          Exemptions from registration
 
@@ -58,7 +57,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16](#16).          Tonnage measurement of ship before registration
 
-[17](#17).          Foreign‑registered ships not registrable under this Act
+[17](#17).          Foreign-registered ships not registrable under this Act
 
 [18](#18).          Entry of particulars in Register
 
@@ -274,7 +273,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the Commonwealth or a State or Territory.
 
-                    <a name="australian-owned-ship"></a>**_Australian‑owned ship_** has the meaning given by section 8.
+                    <a name="australian-owned-ship"></a>**_Australian-owned ship_** has the meaning given by section 8.
 
                     <a name="australian-ship"></a>**_Australian ship_** means a ship having Australian nationality by virtue of section 29.
 
@@ -356,11 +355,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (e)  Counsellor, Secretary or Attaché of an Embassy, Legation or other post;
 
-                      (f)  Consul‑General;
+                      (f)  Consul-General;
 
                      (g)  Consul; or
 
-                     (h)  Vice‑Consul.
+                     (h)  Vice-Consul.
 
                     <a name="provision-registr-certif"></a>**_provisional registration certificate_** means a provisional registration certificate granted under section 21, 22 or 65.
 
@@ -386,11 +385,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a structure that is able to float or be floated and is able to move or be moved as an entity from one place to another; and
 
-                     (c)  an air‑cushion vehicle, or other similar craft, used wholly or primarily in navigation by water;
+                     (c)  an air-cushion vehicle, or other similar craft, used wholly or primarily in navigation by water;
 
 but does not include a vessel, structure, vehicle or craft declared by the regulations not to be a ship for the purposes of this definition.
 
-                    <a name="ship-demis-charter-australian-base-oper"></a>**_ship on demise charter to an Australian‑based operator_** has the meaning given by section 9.
+                    <a name="ship-demis-charter-australian-base-oper"></a>**_ship on demise charter to an Australian-based operator_** has the meaning given by section 9.
 
                     <a name="ship-permit-regist"></a>**_ship permitted to be registered_** means a ship permitted to be registered by virtue of section 14.
 
@@ -430,7 +429,7 @@ but does not include a vessel, structure, vehicle or craft declared by the regul
 
 ##### <a id="5"></a>5  Act to bind the Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="6"></a>6  Application of Act
 
@@ -440,9 +439,9 @@ but does not include a vessel, structure, vehicle or craft declared by the regul
 
                    This Act does not apply in relation to a ship belonging to an arm of the Defence Force of Australia or to the naval, military or air forces of a foreign country.
 
-##### <a id="8"></a>8  Australian‑owned ships
+##### <a id="8"></a>8  Australian-owned ships
 
-             (1)  A reference in this Act to an Australian‑owned ship shall be read as a reference to a ship that:
+             (1)  A reference in this Act to an Australian-owned ship shall be read as a reference to a ship that:
 
                      (a)  is owned by an Australian national or Australian nationals, and by no other person;
 
@@ -456,11 +455,11 @@ but does not include a vessel, structure, vehicle or craft declared by the regul
 
                      (b)  in the case of a share to which paragraph (a) does not apply—the interest of each owner in the share shall be ascertained by dividing the number one by the number of the owners of the share;
 
-and, if the sum of the interests so ascertained in respect of all jointly‑owned shares in the ship as being interests of an Australian national or Australian nationals is a whole number or a whole number and a fraction, such number of those shares as is equal to that whole number shall be deemed to be owned by an Australian national or Australian nationals.
+and, if the sum of the interests so ascertained in respect of all jointly-owned shares in the ship as being interests of an Australian national or Australian nationals is a whole number or a whole number and a fraction, such number of those shares as is equal to that whole number shall be deemed to be owned by an Australian national or Australian nationals.
 
-##### <a id="9"></a>9  Ships on demise charter to Australian‑based operators
+##### <a id="9"></a>9  Ships on demise charter to Australian-based operators
 
-             (1)  A reference in this Act to a ship on demise charter to an Australian‑based operator shall be read as a reference to a ship (not being a ship required to be registered or a ship that may be registered by virtue of paragraph 14(a), (b) or (c)) on demise charter to:
+             (1)  A reference in this Act to a ship on demise charter to an Australian-based operator shall be read as a reference to a ship (not being a ship required to be registered or a ship that may be registered by virtue of paragraph 14(a), (b) or (c)) on demise charter to:
 
                      (a)  an Australian national or Australian nationals, and to no other person; or
 
@@ -512,11 +511,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the g
 
 ### Division 1—Registration
 
-##### <a id="12"></a>12  Obligation to register Australian‑owned ships
+##### <a id="12"></a>12  Obligation to register Australian-owned ships
 
-             (1)  Subject to this Part, every Australian‑owned ship shall be registered under this Act.
+             (1)  Subject to this Part, every Australian-owned ship shall be registered under this Act.
 
-             (2)  Where an Australian‑owned ship is operated by a foreign resident under a demise charter, the Authority may, by instrument in writing, exempt the ship during the term of the charter from the requirement to be registered.
+             (2)  Where an Australian-owned ship is operated by a foreign resident under a demise charter, the Authority may, by instrument in writing, exempt the ship during the term of the charter from the requirement to be registered.
 
              (3)  Where a ship required to be registered is not registered, the owner of the ship is, in respect of each day on which the ship remains unregistered (including the day of a conviction for an offence against this subsection or any subsequent day), guilty of an offence, and, whether or not proceedings are instituted for such an offence, the ship may be detained until registration is effected.
 
@@ -534,13 +533,13 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                    Where application is made as provided by this Act, the following ships shall be registered:
 
-                     (a)  Australian‑owned ships referred to in section 13;
+                     (a)  Australian-owned ships referred to in section 13;
 
                      (b)  small craft wholly owned by residents of Australia or by residents of Australia and Australian nationals;
 
                      (c)  small craft operated solely by residents of Australia or Australian nationals or both;
 
-                     (d)  ships on demise charter to Australian‑based operators.
+                     (d)  ships on demise charter to Australian-based operators.
 
 ##### <a id="15"></a>15  Application for registration
 
@@ -552,7 +551,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
              (2)  Subsection (1) does not apply to a prescribed ship, or ships included in a prescribed class of ships.
 
-##### <a id="17"></a>17  Foreign‑registered ships not registrable under this Act
+##### <a id="17"></a>17  Foreign-registered ships not registrable under this Act
 
              (1)  The Registrar shall not register a ship under this Act if it is registered under the law of a foreign country.
 
@@ -790,7 +789,7 @@ if the Minister is of the opinion that the description of the ship by that name 
 
                      (b)  unregistered ships (other than ships required to be registered), being:
 
-                              (i)  Australian‑owned ships referred to in section 13;
+                              (i)  Australian-owned ships referred to in section 13;
 
                              (ii)  ships wholly owned by residents of Australia or by residents of Australia and Australian nationals; or
 
@@ -934,7 +933,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                               (i)  a statement specifying the nationality of the transferee or, where the transferee is a body corporate, the country in which it was incorporated; and
 
-                             (ii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian‑owned ship by reason only of the transfer; or
+                             (ii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian-owned ship by reason only of the transfer; or
 
                      (b)  in the case of the transfer of a ship, or a share in a ship, being a small craft:
 
@@ -942,9 +941,9 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                              (ii)  a statement specifying the normal place of residence of the transferee or, where the transferee is a body corporate, the principal place of business of the body corporate; and
 
-                            (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian‑owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transfer.
+                            (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian-owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transfer.
 
-             (4)  Subsection (3) applies in relation to ships on demise charter to Australian‑based operators as if the statement required by subparagraph (3)(a)(ii) or (3)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian‑based operator by reason only of the transfer.
+             (4)  Subsection (3) applies in relation to ships on demise charter to Australian-based operators as if the statement required by subparagraph (3)(a)(ii) or (3)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian-based operator by reason only of the transfer.
 
              (5)  Bills of sale lodged under this section shall be registered in the order of their lodgment.
 
@@ -960,7 +959,7 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                               (i)  a statement specifying the nationality of the person entitled under the transmission or, where the person is a body corporate, the country in which it was incorporated; and
 
-                             (ii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian‑owned ship by reason only of the transmission; or
+                             (ii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian-owned ship by reason only of the transmission; or
 
                      (b)  in the case of the transmission of a ship, or a share in a ship, being a small craft:
 
@@ -968,9 +967,9 @@ Note:          For **_strict liability_**, see section 6.1 of 
 
                              (ii)  a statement specifying the normal place of residence of the person entitled under the transmission or, where the person is a body corporate, the principal place of business of the body corporate; and
 
-                            (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian‑owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transmission.
+                            (iii)  a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be an Australian-owned ship or a ship referred to in paragraph 14(b) or (c) by reason only of the transmission.
 
-             (3)  Subsection (2) applies in relation to ships on demise charter to Australian‑based operators as if the statement required by subparagraph (2)(a)(ii) or (2)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian‑based operator by reason only of the transmission.
+             (3)  Subsection (2) applies in relation to ships on demise charter to Australian-based operators as if the statement required by subparagraph (2)(a)(ii) or (2)(b)(iii) were a statement that, to the best of the knowledge and belief of the person making the declaration, the ship concerned will not cease to be a ship on demise charter to an Australian-based operator by reason only of the transmission.
 
 ##### <a id="37A"></a>37A  Delivery of registration certificate on transfer etc.
 
@@ -1132,9 +1131,9 @@ to indicate the closure of the registration of the ship, so far as it relates to
 
                    A caveat entered in the Register in respect of a ship or a share in a ship shall, unless an order to the contrary is made by the Supreme Court of a State or a Territory and served on the Registrar, be deemed to have lapsed upon the expiration of 14 days after notice is given to the caveator that:
 
-                     (a)  if the caveat relates to a ship—the person or each person entered in the Register as an owner or part‑owner of the ship or a person having a right to register a dealing with the ship; or
+                     (a)  if the caveat relates to a ship—the person or each person entered in the Register as an owner or part-owner of the ship or a person having a right to register a dealing with the ship; or
 
-                     (b)  if the caveat relates to a share in the ship—the person or each person entered in the Register as an owner or part‑owner of the share or a person having a right to register a dealing with the share;
+                     (b)  if the caveat relates to a share in the ship—the person or each person entered in the Register as an owner or part-owner of the share or a person having a right to register a dealing with the share;
 
 has applied for the registration of any dealing with the ship or share.
 
@@ -1318,11 +1317,11 @@ whether or not by reason of a decision of an officer (including a decision that 
 
                     <a name="owner"></a>**_owner_**, except in sections 64 and 74, means:
 
-                     (a)  in relation to an Australian‑owned ship—the registered owner of the ship;
+                     (a)  in relation to an Australian-owned ship—the registered owner of the ship;
 
-                     (b)  in relation to a ship, other than an Australian‑owned ship, registered by virtue of paragraph 14(b)—the registered owner of the ship; or
+                     (b)  in relation to a ship, other than an Australian-owned ship, registered by virtue of paragraph 14(b)—the registered owner of the ship; or
 
-                     (c)  in relation to a ship, other than an Australian‑owned ship, registered by virtue of paragraph 14(c) or a ship registered by virtue of paragraph 14(d)—the registered agent of the ship.
+                     (c)  in relation to a ship, other than an Australian-owned ship, registered by virtue of paragraph 14(c) or a ship registered by virtue of paragraph 14(d)—the registered agent of the ship.
 
 ##### <a id="63"></a>63  Liabilities of ships not registered
 
@@ -1654,7 +1653,7 @@ knowing it to be false or misleading in a material particular.
 
 ##### <a id="80"></a>80  References in other laws
 
-                   In any law of the Commonwealth or of a State or Territory (other than a law declared by the regulations to be a law to which this section does not apply) or any instrument (including rules, regulations or by‑laws) having effect under such a law, except so far as the context otherwise requires:
+                   In any law of the Commonwealth or of a State or Territory (other than a law declared by the regulations to be a law to which this section does not apply) or any instrument (including rules, regulations or by-laws) having effect under such a law, except so far as the context otherwise requires:
 
                      (a)  a reference, however expressed, to a ship registered in Australia shall be read as a reference to a registered ship;
 
@@ -1676,7 +1675,7 @@ knowing it to be false or misleading in a material particular.
 
 ##### <a id="83"></a>83  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
              (2)  Without limiting the generality of subsection (1), the regulations may make provision for and in relation to:
 
@@ -1696,7 +1695,7 @@ knowing it to be false or misleading in a material particular.
 
                       (f)  the registration (whether by way of entry in the Register or otherwise) of documents and information;
 
-                     (g)  the re‑registration of ships entitled to be registered, the registration of which under this Act, or under the previous law, has been closed;
+                     (g)  the re-registration of ships entitled to be registered, the registration of which under this Act, or under the previous law, has been closed;
 
                      (h)  the registration of Government ships;
 
@@ -1726,7 +1725,7 @@ knowing it to be false or misleading in a material particular.
 
                              (ii)  the lodging and registration of documents or information;
 
-                            (iii)  the registration and re‑registration of ships;
+                            (iii)  the registration and re-registration of ships;
 
                             (iv)  the issue of registration certificates, provisional registration certificates and temporary passes; and
 
@@ -1794,7 +1793,7 @@ within 6 months after the commencing date, be registered under this Act by way o
 
                              (ii)  the names of all the persons appearing in the foreign register to be interested in the ship, either as owners or mortgagees; and
 
-                            (iii)  any instrument or other document relating to the ship, or a certified copy of such an instrument or document, made in accordance with a provision of the law of that foreign country corresponding with a provision of the previous law, being an instrument or document kept by the first‑mentioned person; and
+                            (iii)  any instrument or other document relating to the ship, or a certified copy of such an instrument or document, made in accordance with a provision of the law of that foreign country corresponding with a provision of the previous law, being an instrument or document kept by the first-mentioned person; and
 
                      (b)  consents to the closing of the registration of the ship in that register.
 
@@ -1920,7 +1919,7 @@ or to do both, within a specified period (not being less than 30 days) after the
 
 ### Note 1
 
-The _Shipping Registration Act 1981_ as shown in this compilation comprises Act No. 8, 1981 amended as indicated in the Tables below.
+The _Shipping Registration Act 1981_ as shown in this compilation comprises Act No. 8, 1981 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1968,7 +1967,7 @@ of Assent</div>
     <div>25 Mar 1981</div>
   </td>
   <td colspan="2">
-    <div>26 Jan 1982 ( <i>see Gazette</i>1981, No. G51, p. 2)</div>
+    <div>26 Jan 1982 ( <i>see Gazette</i>1981, No. G51, p. 2)</div>
   </td>
   <td>
     <div></div>
@@ -2218,110 +2217,95 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>143, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Maritime Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>24, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 1–5, 7–9): 7 Apr 2006 
+<thead>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>143, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td colspan="2">
+      <div>2 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Maritime Legislation Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>24, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4 (items 1–5, 7–9): 7 Apr 2006 
 Schedule 4 (item 6): 6 Oct 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (items 15–38): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
+    </td>
+    <td>
+      <div>131, 2009</div>
+    </td>
+    <td>
+      <div>14 Dec 2009</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 3 (items 15–38): \[ <i>see</i>Note 2 and Table A]</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 
 33–38) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 11 (item 16): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (item 137(a)): <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 1038–1043) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
+    </td>
+    <td>
+      <div>4, 2010</div>
+    </td>
+    <td>
+      <div>19 Feb 2010</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 11 (item 16): 20 Feb 2010</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2010</div>
+    </td>
+    <td>
+      <div>8, 2010</div>
+    </td>
+    <td>
+      <div>1 Mar 2010</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 5 (item 137(a)): <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2333,9 +2317,9 @@ Schedule 4 (item 6): 6 Oct 2006</div>
 
 _(a)_     The _Shipping Registration Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Shipping Registration Amendment Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(24) of which provides as follows:
+_(b)_    The _Shipping Registration Amendment Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(24) of which provides as follows:
 
                (24)   The amendments of the _Shipping Registration Amendment Act 1984_ made by this Act shall come into operation, or be deemed to have come into operation, as the case requires, on the commencement of section 20 of that Act.
 
@@ -2375,7 +2359,7 @@ _(g)_     The _Shipping Registration Act 1981_ was amended by section 
 
                  (3)   Section 6, subsection 7(2) and sections 9 and 11 commence on a day to be fixed by Proclamation.
 
-_(h)_     The _Shipping Registration Act 1981_ was amended by Schedule 5 (items 138–140) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(h)_     The _Shipping Registration Act 1981_ was amended by Schedule 5 (items 138-140) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -3269,43 +3253,7 @@ Omit “, 66”.
 
 Omit “, 66”.
 
-As at 20 October 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1038  Subsection 51(1)
-
-Omit “(1)”.
-
-## 1039  Paragraph 51(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 1040  Subsection 51(1)
-
-Omit “and may at any time terminate such an appointment.”.
-
-## 1041  At the end of subsection 51(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1042  Subsections 51(2) to (5)
-
-Repeal the subsections.
-
-## 1043  Subsection 83(4)
-
-Repeal the subsection.
-
-As at 20 October 2011 the amendments are not incorporated in this compilation.
+As at 5 March 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3330,9 +3278,9 @@ The following provisions commence on 1 February 2012 or an earlier time determin
 
 ## 33  Application—items 15, 17 to 19 and 22 to 24
 
-(1)       The amendments of the _Shipping Registration Act 1981_ made by items 15, 17 to 19 and 22 to 24 of this Schedule apply in relation to an interest of a mortgagor in a mortgage of a ship, or of a share in a ship, regardless of when the interest arose.
+(1)        The amendments of the _Shipping Registration Act 1981_ made by items 15, 17 to 19 and 22 to 24 of this Schedule apply in relation to an interest of a mortgagor in a mortgage of a ship, or of a share in a ship, regardless of when the interest arose.
 
-(2)       However, interests that are mortgages registered under the _Shipping Registration Act 1981_ before the time the items covered by subitem (1) commence have the priority between themselves that they would have had under that Act as in force immediately before that time, subject to Chapter 9 (Transitional provisions) of the _Personal Property Securities Act 2009_.
+(2)        However, interests that are mortgages registered under the _Shipping Registration Act 1981_ before the time the items covered by subitem (1) commence have the priority between themselves that they would have had under that Act as in force immediately before that time, subject to Chapter 9 (Transitional provisions) of the _Personal Property Securities Act 2009_.
 
 ## 34  Application—item 20
 
@@ -3355,21 +3303,5 @@ The requirement in subsection 66(4) of the _Shipping Registration Act 1981_ (as 
 The amendments of the _Shipping Registration Act 1981_ made by items 28 and 29 of this Schedule do not apply in relation to a contravention of a provision mentioned in subsection 74(1) or (2) of that Act (as in force immediately before the time the items commence) if the contravention occurred before that time.
 
 _Note:       The items in this Schedule commence at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
