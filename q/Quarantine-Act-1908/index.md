@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00431/Html/Quarantine1908_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00229/Html/Quarantine1908_WD02_image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 29 July 2008
- taking into account amendments up to Act No. 68 of 2008
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 158 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -287,15 +287,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56](#56).          Automated entry processing and release of imported goods
 
-**Part VI—Expenses** 
-
-    **Division 1—Interpretation**
+**Part VI—Expenses of quarantine**
 
 [58A](#58A).       Interpretation
-
-    **Division 2—Expenses of quarantine**
-
-[58B](#58B).       Prescribed health measures provided in relation to travellers
 
 [59](#59).          Liability of owner etc  for expenses of quarantine
 
@@ -310,18 +304,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [63AA](#63AA).    Additional provisions concerning agent’s liability under section 59A or 63
 
 [64](#64).          Quarantine expenses in case of animals and plants
-
-    **Division 3—Charges for the provision of prescribed health measures in relation to travellers**
-
-[64A](#64A).       Definition of _prescribed health measure_
-
-[64B](#64B).       Traveller definitions
-
-[64C](#64C).       Charges for the provision of prescribed health measures in relation to travellers
-
-[64D](#64D).       Tariff of amounts payable for prescribed health measures
-
-    **Division 4—Recovery of expenses**
 
 [65](#65).          Expenses to be a charge upon vessel
 
@@ -467,7 +449,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [74E](#74E).        Persons to assist officers
 
-[75](#75).          Persons may be vaccinated etc 
+[75](#75).          Persons may be vaccinated
 
 [75A](#75A).       Vessels involved in certain offences
 
@@ -769,7 +751,7 @@ in respect of which the authorisation was given.
 
                     <a name="contravent"></a>**_contravention_** of this Act has the meaning given by subsection 5(1A).
 
-                    <a name="area"></a><a name="coral-sea"></a>**_Coral Sea_****_area_** has the same meaning as in section 7 of the _Offshore Petroleum Act 2006_.
+                    <a name="coral-sea-area"></a>**_Coral Sea area_** has the same meaning as in section 7 of the _Offshore Petroleum Act 2006_.
 
                     <a name="declar-place"></a>**_declared place_** has the meaning given by section 12.
 
@@ -852,10 +834,6 @@ and, to avoid doubt, includes mail of any kind and ballast water.
                      (a)  a resources installation; or
 
                      (b)  a sea installation.
-
-                    <a name="intern-health-regul"></a>**_International Health Regulations_** means the International Health Regulations 2005, done at Geneva on 23 May 2005, as in force for Australia from time to time.
-
-Note:          In 2008, the text of the International Health Regulations was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
                     <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (__Timor Sea__Treaty) Act 2003_.
 
@@ -969,8 +947,6 @@ and includes a vessel:
 
                     <a name="packag"></a>**_Package_** includes every means by which plants are cased, covered, enclosed, contained, or packed for carriage.
 
-                    <a name="perman-resid"></a>**_permanent residence_** has the meaning given by subsection 64B(3).
-
                     <a name="pest"></a>**_pest_** includes any animal, or any plant, that is a pest.
 
                     <a name="plant"></a>**_Plant_** includes a dead plant and any part of a plant.
@@ -1025,8 +1001,6 @@ and includes a vessel:
 
                      (e)  a part of premises (including a part of any of the above).
 
-                    <a name="prescrib-health-measur"></a>**_prescribed health measure_** has the meaning given by section 64A.
-
                     <a name="protect-zone"></a>**_Protected Zone_** means the zone established under Article 10 of the Torres Strait Treaty, being the area bounded by the line described in Annex 9 to that treaty.
 
                     <a name="protect-zone-vessel"></a>**_Protected Zone vessel_** means a vessel of a kind used in navigation by sea that is owned or operated by a traditional inhabitant.
@@ -1075,8 +1049,6 @@ who is covered by an arrangement made under:
 
                      (d)  section 71 of the _Public Service Act 1999_ in respect of quarantine officer powers and functions.
 
-                    <a name="temporari-resid"></a>**_temporary residence_** has the meaning given by subsection 64B(3).
-
                     <a name="thing"></a>**_thing_** includes any goods.
 
                     <a name="torr-strait-treati"></a>**_Torres Strait Treaty_** means the Treaty between   Australia and the Independent State of Papua New Guinea that was signed at Sydney on 18 December 1978.
@@ -1084,8 +1056,6 @@ who is covered by an arrangement made under:
                     <a name="tradition-activ"></a>**_Traditional activities_** has the same meaning as in the Torres Strait Treaty.
 
                     <a name="tradition-inhabit"></a>**_Traditional inhabitants_** has the same meaning as in the _Torres Strait__Fisheries Act 1984_.
-
-                    <a name="travel"></a>**_traveller_** has the meaning given by section 64B.
 
                     <a name="treatment"></a>**_treatment_** means any process for controlling or eliminating a disease or pest and:
 
@@ -2591,7 +2561,7 @@ Quarantine officer may require master or medical officer to answer questions
 
              (1)  A quarantine officer may require any of the following:
 
-                     (a)  the master of an overseas vessel that has arrived, or is expected to arrive, at a port in Australia, the Cocos Islands or Christmas Island;
+                     (a)  the master of an overseas vessel that has arrived, or is expected to arrive, at a port in Australia, the Cocos  Islands or Christmas Island;
 
                      (b)  the master of a vessel that has arrived or is expected to arrive:
 
@@ -4279,19 +4249,11 @@ Definitions
 
                     <a name="electron-notic"></a>**_electronic notice_** means an electronic notice generated as a result of the operation of a computer program under the control of the Director of Animal and Plant Quarantine.
 
-## Part VI—Expenses
-
-### Division 1—Interpretation
+## Part VI—Expenses of quarantine
 
 ##### <a id="58A"></a>58A  Interpretation
 
                    In this Part, a reference to a vessel shall, unless the contrary intention appears, be read as including a reference to an installation.
-
-### Division 2—Expenses of quarantine
-
-##### <a id="58B"></a>58B  Prescribed health measures provided in relation to travellers
-
-                   This Division has effect subject to Division 3 (charges for the provision of prescribed health measures in relation to travellers).
 
 ##### <a id="59"></a>59  Liability of owner etc. for expenses of quarantine
 
@@ -4443,7 +4405,7 @@ the agent may recover such an amount from the master or owner as a debt due to t
 
                      (d)  their removal, disposal and destruction under a power conferred, or an order or direction given, under this Act;
 
-and those expenses are a charge upon the animals, plants or other goods and may be recovered as provided in Division 4.
+and those expenses are a charge upon the animals, plants or other goods and may be recovered as provided in this Part.
 
        (1AA)  Subject to subsection (1AB), if:
 
@@ -4482,152 +4444,6 @@ the agent may recover such an amount from the importer or owner as a debt due to
                      (b)  give security for the payment of the expenses and interest (if any) owing to the Commonwealth in respect of the animals, plants or goods.
 
              (5)  A person must not release animals, plants or goods from quarantine in contravention of a direction under subsection (3).
-
-### Division 3—Charges for the provision of prescribed health measures in relation to travellers
-
-##### <a id="64A"></a>64A  Definition of _prescribed health measure_
-
-Definition of **prescribed health measure**
-
-             (1)  For the purposes of this Act, a **_prescribed health measure_**, in relation to a traveller, is a health measure referred to in subsection (2) that is provided by, for or on behalf of the Commonwealth under:
-
-                     (a)  this Act; or
-
-                     (b)  the _Migration Act 1958_; or
-
-                     (c)  any other law of the Commonwealth.
-
-             (2)  For the purposes of subsection (1), the health measures are the following:
-
-                     (a)  a medical examination to ascertain the health status of the traveller;
-
-                     (b)  subject to subsection (3), a vaccination or other prophylaxis provided to the traveller on arrival in Australia;
-
-                     (c)  a restriction of the activities of the traveller, or the segregation or isolation of the traveller, for the purpose of preventing the spread of disease;
-
-                     (d)  the issuing to the traveller of a certificate that specifies:
-
-                              (i)  that a prescribed health measure referred to in paragraph (a), (b), (c) or (e) was provided in relation to the traveller; and
-
-                             (ii)  the date on which that measure was provided;
-
-                     (e)  a health measure applied to the personal effects of the traveller.
-
-Notification requirements for vaccinations etc.
-
-             (3)  A vaccination or other prophylaxis provided on a certain day to a traveller on arrival in Australia is not a **_prescribed health measure_** in relation to the traveller if, at least 10 days before that day, a notice published on the website of the Department that deals with human quarantine stated that such travellers would be required to submit themselves to such a vaccination or other prophylaxis.
-
-Treatments and benefits for travellers in isolation etc.
-
-             (4)  If, for the purpose of preventing the spread of disease, a traveller’s activities are restricted, or the traveller is segregated or isolated, as described in paragraph (2)(c), none of the following is a **_prescribed health measure_** in relation to the traveller:
-
-                     (a)  any treatment (other than treatment referred to in paragraph (2)(a), (b) or (e)) provided in relation to the traveller:
-
-                              (i)  for the disease; or
-
-                             (ii)  for any other medical condition;
-
-                     (b)  any other benefit provided to the traveller solely for his or her benefit.
-
-##### <a id="64B"></a>64B  Traveller definitions
-
-Travellers
-
-             (1)  For the purposes of this Act, a person is a **_traveller_** if:
-
-                     (a)  the person has entered Australia while undertaking a voyage from another country; and
-
-                     (b)  none of the following applies:
-
-                              (i)  subject to subsection (2), the person has been immigration cleared (within the meaning of subsection 172(1) of the _Migration Act 1958_);
-
-                             (ii)  the person has been detained under section 189 of that Act;
-
-                            (iii)  the person has left Australia;
-
-                            (iv)  the person is prescribed by the regulations.
-
-Note:          The regulations may prescribe the person by reference to a class of persons (see subsection 13(3) of the _Legislative Instruments Act 2003_).
-
-             (2)  Subparagraph (1)(b)(i) does not apply in relation to a person who has been immigration cleared (within the meaning of subsection 172(1) of the _Migration Act 1958_) if:
-
-                     (a)  before the person was immigration cleared, the person was notified that he or she would be required to submit to the provision of a prescribed health measure as soon as practicable after being immigration cleared; and
-
-                     (b)  the person submits to the provision of the prescribed health measure as soon as practicable after being immigration cleared; and
-
-                     (c)  the provision of the prescribed health measure is not yet complete.
-
-Temporary residence and permanent residence
-
-             (3)  For the purposes of the International Health Regulations and this Act, a traveller is seeking **_temporary residence_** or **_permanent residence_** in Australia unless:
-
-                     (a)  the traveller is an Australian citizen under the _Australian Citizenship Act 2007_; or
-
-                     (b)  the traveller is in Australia for transit purposes only; or
-
-                     (c)  the traveller is prescribed by the regulations.
-
-Note:          The regulations may prescribe the traveller by reference to a class of travellers (see subsection 13(3) of the _Legislative Instruments Act 2003_).
-
-             (4)  For the purposes of paragraph (3)(b), a traveller is **_in_****_Australia_****_for transit purposes only_** if the traveller:
-
-                     (a)  is not required to comply with section 166 of the _Migration Act 1958_ (immigration clearance); and
-
-                     (b)  holds:
-
-                              (i)  a confirmed onward booking to leave Australia to travel to another country within 8 hours of arrival; and
-
-                             (ii)  documentation necessary to enter the country of his or her destination; and
-
-                     (c)  is not prescribed by the regulations.
-
-Note:          The regulations may prescribe the traveller by reference to a class of travellers (see subsection 13(3) of the _Legislative Instruments Act 2003_).
-
-##### <a id="64C"></a>64C  Charges for the provision of prescribed health measures in relation to travellers
-
-Travellers not seeking temporary residence or permanent residence
-
-             (1)  If a traveller is not seeking temporary residence or permanent residence in Australia, no person (other than the Commonwealth) is liable, under any law of the Commonwealth, to pay for the provision of a prescribed health measure in relation to the traveller.
-
-Note 1:       If the traveller entered Australia as a member of the crew of a vessel, subsection (1) does not preclude the seeking of reimbursement from the master, owner, or agent, of the vessel for expenses incurred in providing the prescribed health measure (see subsection (3)).
-
-Note 2:       Subsection (1) does not preclude the seeking of reimbursement from an applicable insurance source for expenses incurred in providing the prescribed health measure (see subsection (3)).
-
-Travellers seeking temporary residence or permanent residence
-
-             (2)  If a traveller is seeking temporary residence or permanent residence in Australia, no person (other than the Commonwealth) is liable, under any law of the Commonwealth, to pay for the provision of a prescribed health measure in relation to the traveller if the liability does not conform to a tariff in force under section 64D in relation to the prescribed health measure.
-
-Note 1:       If the traveller entered Australia as a member of the crew of a vessel, subsection (2) does not preclude the seeking of reimbursement from the master, owner, or agent, of the vessel for expenses incurred in providing the prescribed health measure (see subsection (3)).
-
-Note 2:       Subsection (2) does not preclude the seeking of reimbursement from an applicable insurance source for expenses incurred in providing the prescribed health measure (see subsection (3)).
-
-Reimbursement of expenses from masters, owners, agents and applicable insurance sources
-
-             (3)  Despite subsections (1) and (2), a person is not precluded from seeking reimbursement for expenses incurred in providing a prescribed health measure in relation to a traveller:
-
-                     (a)  if the traveller entered Australia as a member of the crew of a vessel—from the master, owner, or agent, of the vessel; or
-
-                     (b)  in any case—from an applicable insurance source.
-
-Definitions
-
-             (4)  In this section:
-
-                    <a name="applic-insur-sourc"></a>**_applicable insurance source_** has the same meaning as in Article 40 of the International Health Regulations.
-
-                    <a name="member-crew"></a>**_member of the crew_** of a vessel includes the master of the vessel.
-
-##### <a id="64D"></a>64D  Tariff of amounts payable for prescribed health measures
-
-             (1)  The Minister may, by legislative instrument, make a tariff setting the amount payable for the provision of a prescribed health measure in relation to a traveller who is seeking temporary residence or permanent residence in Australia.
-
-Note:          For the effect of a tariff, see subsection 64C(2).
-
-             (2)  The amount set must not exceed the actual cost of the provision of the prescribed health measure.
-
-             (3)  A tariff must not take effect before the tenth day after it is registered under the _Legislative Instruments Act 2003_.
-
-### Division 4—Recovery of expenses
 
 ##### <a id="65"></a>65  Expenses to be a charge upon vessel
 
@@ -6183,7 +5999,7 @@ Note:          This section is subject to the privilege agains
 
                     Maximum penalty:    One penalty unit.
 
-##### <a id="74BC"></a>74BC  Power to require information after entering premises with consent or under warrant
+##### <a id="74BC"></a>74BC  Power to require information after entering premises with consent or under warrant
 
              (1)  Subject to subsection (2), a quarantine officer who has entered premises under subparagraph 66AB(1)(a)(iv) or paragraph 66AE(2)(b) or under a warrant under section 66AC, 66AF or 66AH may, to the extent that it is reasonably necessary for the purpose of deciding whether to exercise any power under this Act or finding out whether this Act has been complied with:
 
@@ -6275,17 +6091,9 @@ to provide such help as is reasonable, and is stated in the direction, to any of
 
                      (c)  an agent of a person referred to in paragraph (a) or (b).
 
-##### <a id="75"></a>75  Persons may be vaccinated etc.
+##### <a id="75"></a>75  Persons may be vaccinated
 
-Quarantine officers may require vaccinations etc.
-
-             (1)  Subject to subsection (2), a quarantine officer may require a person who is subject to quarantine or performing quarantine to submit himself or herself to:
-
-                     (a)  vaccination with any prophylactic or curative vaccine; or
-
-                     (b)  any other prophylaxis.
-
-Offence
+             (1)  A quarantine officer may require a person who is subject to quarantine or performing quarantine to submit himself or herself to vaccination or inoculation with any prophylactic or curative vaccine.
 
           (1A)  A person is guilty of an offence if:
 
@@ -6297,23 +6105,9 @@ Offence
 
           (1B)  An offence against subsection (1A) is an offence of strict liability.
 
-Circumstances in which vaccinations etc. may be required
+             (2)  A quarantine officer shall not require any person to be vaccinated or inoculated unless, in his or her opinion, vaccination or inoculation is necessary for the prevention of the spread of a quarantinable disease.
 
-             (2)  A quarantine officer may require a person to submit himself or herself to a vaccination or other prophylaxis under subsection (1) only if:
-
-                     (a)  either:
-
-                              (i)  in the quarantine officer’s opinion, the vaccination or other prophylaxis is necessary for the prevention of the spread of a quarantinable disease; or
-
-                             (ii)  the vaccine or other prophylaxis is specified in Annex 7 to the International Health Regulations or recommended under those Regulations; and
-
-                     (b)  the International Health Regulations do not preclude the requirement.
-
-          (2A)  A vaccine or other prophylaxis administered under subsection (1), as provided for in the International Health Regulations (including recommendations, within the meaning of those Regulations, and related certificates), must conform to Annex 6 and, if applicable, Annex 7 to those Regulations.
-
-Minister may ensure manufacture or importation of vaccines etc.
-
-             (3)  The Minister may take such action as he or she thinks fit to ensure the manufacture or importation of any prophylactic vaccine or other product required for the prevention or treatment of disease.
+             (3)  The Minister may take such action as he or she thinks fit to ensure the manufacture or importation of any prophylactic vaccine or other biological product required for the prevention or treatment of disease.
 
 ##### <a id="75A"></a>75A  Vessels involved in certain offences
 
@@ -6427,7 +6221,7 @@ shall be deemed to be properly addressed.
 
                      (b)  any goods (other than animals or plants) that he or she considers could be a source of infection;
 
-that are on board, or that he or she believes on reasonable grounds have been on board, a vessel detained in Australia, the Cocos  Islands or Christmas Island under this section.
+that are on board, or that he or she believes on reasonable grounds have been on board, a vessel detained in Australia, the Cocos Islands or Christmas Island under this section.
 
            (15)  An approved person shall be taken to be an authorized person for the purpose of the application of section 31 in relation to a prescribed vessel.
 
@@ -6847,8 +6641,6 @@ Notice to be given to prosecutor
 
 ##### <a id="86E"></a>86E  Fees and deposits
 
-Definitions
-
           (1A)  In this section:
 
                     <a name="basic-fee"></a>**_basic fee_** has the meaning given by subsection (2B).
@@ -6859,13 +6651,11 @@ Definitions
 
                     <a name="quarantin-servic"></a>**_quarantine service_** means anything referred to in paragraph (1)(a), (b), (c) or (d).
 
-Determination of basic fees
+          (1B)  The Minister may, by notice published in the _Gazette_, make determinations for the purposes of this section.
 
-          (1B)  The Minister may, by legislative instrument, make determinations for the purposes of this section.
+             (1)  A determination may require fees of amounts set out in the determination to be paid for or in relation to the doing of anything in connection with:
 
-             (1)  Subject to subsection (1AA), a determination may require fees of amounts set out in the determination to be paid for or in relation to the doing of anything in connection with:
-
-                     (a)  specified examinations, services or other quarantine measures carried out or provided under this Act; and
+                     (a)  specified examinations or services carried out or provided under this Act; and
 
                      (b)  the issue by quarantine officers of specified certificates under this Act; and
 
@@ -6877,9 +6667,21 @@ Determination of basic fees
 
                       (f)  the entering into compliance agreements.
 
-       (1AA)  The Minister’s power to make a determination that relates to the provision of a prescribed health measure in relation to a traveller is subject to Division 3 of Part VI.
+             (2)  A determination may specify the persons by whom fees are payable.
 
-             (2)  Subject to Part VI, a determination may specify the persons by whom fees are payable.
+       (2AA)  The Minister may remit the whole or a part of a fee payable by a person in respect of a quarantine service if he or she is satisfied that it is appropriate to do so having regard to:
+
+                     (a)  the total amount of fees collected in the financial year that immediately precedes the financial year in which the quarantine service is provided; and
+
+                     (b)  the total cost of providing quarantine services in the financial year that immediately precedes the financial year in which the quarantine service is provided; and
+
+                     (c)  the total amount of fees that the Minister estimates will be collected in the financial year in which the quarantine service is provided; and
+
+                     (d)  the amount that the Minister estimates will be the total cost of providing quarantine services in the year referred to in paragraph (c); and
+
+                     (e)  the total amount of fees that the Minister estimates will be paid by the person in the year referred to in paragraph (c).
+
+        (2AB)  The Minister may remit a part of a fee payable by a person in respect of a quarantine service if he or she is satisfied that it is appropriate to do so having regard to the fact that, during the whole or a part of the period that an animal was held in a quarantine station, the person provided sustenance for the animal under section 63A.
 
           (2A)  A determination may:
 
@@ -6891,8 +6693,6 @@ Determination of basic fees
 
                              (ii)  permit a quarantine officer to withhold the provision of the service until the payment of the fees.
 
-Late payment fees
-
           (2B)  If a determination states a period within which a fee (the **_basic fee_**) is to be paid, a determination may also require an additional fee (a **_late payment fee_**) to be paid if the basic fee is not paid on or before the payment day.
 
           (2C)  A late payment fee may be either or both of the following:
@@ -6903,9 +6703,7 @@ Late payment fees
 
         (2CA)  Without limiting the generality of paragraph (2C)(b), the reference to a fee as set out in that paragraph includes a reference to a fee that is a percentage per annum of the basic fee, worked out on a daily basis, for each day after the payment day on which the basic fee remains unpaid.
 
-        (2CB)  Subsections (2B), (2C) and (2CA) do not apply in relation to a fee payable for the provision of a prescribed health measure in relation to a traveller.
-
-Booking fees and deposits
+          (2D)  The Minister may remit the whole or a part of a late payment fee if he or she is satisfied that it is appropriate to do so having regard to all the circumstances.
 
            (2E)  A determination may, in respect of the reservation of space at a quarantine station or at a place approved under section 46A for an animal in respect of a period, require the payment of either or both of the following:
 
@@ -6919,8 +6717,6 @@ Booking fees and deposits
 
                      (b)  the return or other application, in circumstances referred to in the determination, of such a deposit less any costs worked out in accordance with the determination that are associated with the return or other application of the deposit.
 
-Unpaid fees and deposits
-
           (2G)  If:
 
                      (a)  the basic fee payable for a quarantine service, or a deposit payable on account of the basic fee for a quarantine service referred to in paragraph (1)(c), is not paid on or before the payment day; or
@@ -6929,9 +6725,15 @@ Unpaid fees and deposits
 
 a Director of Quarantine may direct that no quarantine service is to be provided, or a particular quarantine service or kind of quarantine service is not to be provided, for the person who failed to make the payment until the basic fee, the deposit or the late payment fee, as the case may be, is paid.
 
-Minister may remit and refund fees
+             (3)  A determination under subsection (1) takes effect on the day on which the notice of the determination is published in the _Gazette_.
 
-          (2H)  The Minister may remit or refund the whole or a part of a fee specified in a determination and payable or paid to the Commonwealth if he or she is satisfied that there are exceptional circumstances that justify doing so.
+             (4)  The provisions of section 48 (other than paragraphs (1)(a) and (b) and subsection (2)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to determinations under this section as if:
+
+                     (a)  references in those provisions to regulations were references to determinations and references to a regulation were references to a provision of a determination; and
+
+                     (b)  references in those provisions to the repeal of a regulation were references to the revocation of a determination or of a provision of a determination, as the case requires.
+
+             (5)  A Director of Quarantine may determine that a fee is not payable, in circumstances set out in the determination, for or in relation to the doing of anything in connection with a quarantine service. A determination has effect according to its terms.
 
 ##### <a id="86EA"></a>86EA  Commonwealth etc. not liable to pay fees
 
@@ -8266,23 +8068,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Quarantine Amendment (National Health Security) Act 2008</div>
-  </td>
-  <td>
-    <div>68, 2008</div>
-  </td>
-  <td>
-    <div>1 July 2008</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 29 July 2008 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Quarantine Act 1908_ was amended by Part VII (sections 52–112) only of the _Off-shore Installations (Miscellaneous Amendments) Act 1982_, subsection 2(1) of which provides as follows:
@@ -8956,7 +8741,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; No. 68, 2008</div>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007</div>
   </td>
 </tr>
 <tr>
@@ -10961,58 +10746,10 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Heading to Part VI</div>
-  </td>
-  <td>
-    <div>rs. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part VI.</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 58A</div>
   </td>
   <td>
     <div>ad. No. 51, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part VI.</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58B</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
   </td>
 </tr>
 <tr>
@@ -11148,47 +10885,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>S. 64</div>
   </td>
   <td>
-    <div>am. No. 15, 1912; No. 47, 1920; No. 1, 1979; No. 134, 1991; No. 43, 1996; No. 196, 1999; No. 54, 2004; No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64A–64D</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part VI.</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 1, 1979; No. 134, 1991; No. 43, 1996; No. 196, 1999; No. 54, 2004</div>
   </td>
 </tr>
 <tr>
@@ -12049,34 +11746,10 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 75</div>
-  </td>
-  <td>
-    <div>am. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 75(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 75(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 19, 1984 (as am. by No. 165, 1984); No. 43, 1996; No. 196, 1999; No. 68, 2008</div>
+    <div>am. No. 47, 1920; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 19, 1984 (as am. by No. 165, 1984); No. 43, 1996; No. 196, 1999</div>
   </td>
 </tr>
 <tr>
@@ -12481,46 +12154,6 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 86E(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 86E(1B)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 86E(2B)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 86E(2E)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 86E(2G)</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 86E</div>
   </td>
   <td>
@@ -12548,7 +12181,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div></div>
   </td>
   <td>
-    <div>am. No. 99, 1988; Nos. 94 and 169, 1994; No. 94, 1997; No. 196, 1999; No. 54, 2004; No. 68, 2008</div>
+    <div>am. No. 99, 1988; Nos. 94 and 169, 1994; No. 94, 1997; No. 196, 1999; No. 54, 2004</div>
   </td>
 </tr>
 <tr>
@@ -12606,7 +12239,7 @@ then, on and after that day:
 
                      (d)  any permit granted under that Proclamation and not revoked before that day has effect as if it were a permit granted under the Proclamation as so continued in force.
 
-## 24  Saving of regulations
+## 24  Saving of regulations
 
 Any regulation made, or purportedly made, for the purposes of a paragraph of subsection 87(1) of the _Quarantine Act 1908_, before the day on which items 15 to 23 of this Schedule commence that has not been revoked, or purportedly revoked, immediately before that day continues in force, on and after that day, as if it had been made under that paragraph of that subsection of the _Quarantine Act 1908_ as amended by this Act.
 
@@ -13007,21 +12640,5 @@ _Agriculture, Fisheries and Forestry Legislation Amendment (Export Control and Q
 ## 2  Application
 
 The amendment made by item 1 of this Schedule applies to quarantine fees that are incurred on or after the commencement of this Schedule.
-
-* * *
-
-_Quarantine Amendment (National Health Security) Act 2008 (No. 68, 2008)_
-
-## Schedule 2
-
-## 21  Application
-
-Main amendments
-
-(1)        The amendments of the _Quarantine Act 1908_ made by this Schedule (other than items 10, 12, 14, 15, 17, 18, 19 and 20) apply in relation to prescribed health measures provided after the commencement of this Schedule.
-
-Amendments relating to the remission of fees
-
-(2)        The amendments of the _Quarantine Act 1908_ made by items 15, 17, 18 and 20 apply in relation to fees that become payable after the commencement of those items.
 
  
