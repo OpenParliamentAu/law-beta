@@ -1,2291 +1,4984 @@
-![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image001.gif)
+**
 
-# Taxation Laws Amendment (Research and Development) Act 2001
-
-**Act No. 170 of 2001 as amended**
-
-This compilation was prepared on 14 April 2005
-
-**\[This Act was amended by Act No. 57 of 2002 and Act No. 41 of 2005]**
-
-**Amendment from Act No. 57 of 2002**
-
-\[Schedule 12 (item 63) amended subsection 2(3)
-Schedule 12 (item 63) commenced on 
-1 October 2001]
-
-**Amendment from Act No. 41 of 2005**
-
-\[Schedule 10 (item 268) amended Schedule 4 (item 2)
-Schedule 10 (item 268) commenced on 
-1 October 2001]
-
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001 
+**
 
 
-# Contents
+**
 
-[1](#1).            Short title                                                                                             1
-
-[2](#2).            Commencement                                                                                   1
-
-[3](#3).            Schedule(s)                                                                                           1
-
-**Schedule 1—Streamlining amendments** 
-
-Part 1—Objects provisions                                                                                           2
-
-Income Tax Assessment Act 1936                                                                              2
-
-Industry Research and Development Act 1986                                                      2
-
-Part 1A—Report on access to tax offset                                                                 4
-
-Industry Research and Development Act 1986                                                      4
-
-Part 3—Research and development plans                                                               5
-
-Income Tax Assessment Act 1936                                                                              5
-
-Industry Research and Development Act 1986                                                      5
-
-**Schedule 2—Plant etc.**
-
-Part 1—Retrospective change to qualifying plant expenditure                         7
-
-Income Tax Assessment Act 1936                                                                              7
-
-Part 2—Retrospective exemption of pilot plant from CGT provisions         8
-
-Income Tax (Transitional Provisions) Act 1997                                                   8
-
-Part 3—Effective life basis for deduction                                                                 9
-
-Division 1—Amendments commencing at 12 pm on 29 January 2001                 9
-
-Income Tax Assessment Act 1936                                                                              9
-
-Income Tax Assessment Act 1997                                                                            27
-
-Industry Research and Development Act 1986                                                    32
-
-Division 2—Amendments commencing immediately after the _New Business Tax System (Capital Allowances) Act 2001_                                                                                                               33
-
-Income Tax Assessment Act 1936                                                                            33
-
-Income Tax Assessment Act 1997                                                                            52
-
-Industry Research and Development Act 1986                                                    58
-
-**Schedule 3—Refundable tax offset** 
-
-Income Tax Assessment Act 1936                                                                            60
-
-Income Tax Assessment Act 1997                                                                            68
-
-Taxation (Interest on Overpayments and Early Payments) Act 1983             68
-
-**Schedule 4—Incremental tax incentive** 
-
-Income Tax Assessment Act 1936                                                                            70
+###  Compilation Information 
+**
 
 
-## An Act to amend the law relating to taxation incentives for research and development, and for related purposes
 
-_Assented to__1 October 2001_
 
-The Parliament of Australia enacts:
 
-##### <a id="1"></a>1  Short title
+**
 
-                   This Act may be cited as the _Taxation Laws Amendment (Research and Development) Act 2001_.
+###  Long Title 
+**
+Assented to 1 October 2001
 
-##### <a id="2"></a>2  Commencement
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001- SECT 1  Short title 
+<dl compact="">
 
-             (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+		This Act may be cited as the _Taxation Laws Amendment (Research and Development) Act 2001_.
 
-             (2)  Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+ </dl>
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001- SECT 2  Commencement 
+<dl compact="">
 
-             (3)  Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Schedule 1 to the _New Business Tax System (Capital Allowances) Act 2001_.
+<dt>(1)</dt><dd>Subject to this section, this Act commences on the day on which it
 
-##### <a id="3"></a>3  Schedule(s)
+receives the Royal Assent.</dd> <dt>(2)</dt><dd>Division&#160;1 of Part&#160;3 of Schedule&#160;2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29&#160;January 2001.</dd> <dt>(3)</dt><dd>Division&#160;2 of Part&#160;3 of Schedule&#160;2 commences, or is taken to have commenced, immediately after the commencement of Schedule&#160;1 to the _New Business Tax System (Capital Allowances) Act 2001_. </dd> </dl>
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001- SECT 3  Schedule(s) 
+<dl compact="">
 
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+		Subject to section&#160;2, each Act that is specified in a Schedule to this
 
-###### Schedule 1—Streamlining amendments
+Act is amended or repealed as set out in the applicable items in the Schedule
 
-Part 1—Objects provisions
+concerned, and any other item in a Schedule to this Act has effect according to
 
+its terms.
+
+ </dl>
+**
+
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001Schedule&#160;1&#151;Streamlining amendments 
+**
 Income Tax Assessment Act 1936
+<dl compact="">
 
-## 1  Before subsection 73B(1AA)
+<dt>(1AAA)</dt><dd>The object of this section is to provide a tax incentive, in the form
 
-Insert:
+of a deduction, to make eligible companies more internationally competitive by:
 
-     (1AAA)  The object of this section is to provide a tax incentive, in the form of a deduction, to make eligible companies more internationally competitive by:
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (a)  encouraging the development by eligible companies of innovative products, processes and services; and
+<dt>(a)</dt><dd>encouraging the development by eligible companies of innovative products,
 
-                     (b)  increasing investment by eligible companies in defined research and development activities; and
+processes and services; and</dd>
 
-                     (c)  promoting the technological advancement of eligible companies through a focus on innovation or high technical risk in defined research and development activities; and
+<dt>(b)</dt><dd>increasing investment by eligible companies in defined research and
 
-                     (d)  encouraging the use by eligible companies of strategic research and development planning; and
+development activities; and</dd>
 
-                     (e)  creating an environment that is conducive to increased commercialisation of new processes and product technologies developed by eligible companies.
+<dt>(c)</dt><dd>promoting the technological advancement of eligible companies through a
 
-The benefits of the tax incentive are targeted by being limited to particular expenditure on certain defined activities.
+focus on innovation or high technical risk in defined research and development
+
+activities; and</dd>
+
+<dt>(d)</dt><dd>encouraging the use by eligible companies of strategic research and
+
+development planning; and</dd>
+
+<dt>(e)</dt><dd>creating an environment that is conducive to increased commercialisation
+
+of new processes and product technologies developed by eligible companies.
+
+</dd>
+
+</dl></dl>
+
+Back to Top
 
 Industry Research and Development Act 1986
+<dl compact="">
 
-## 2  Before section 39A
+<dt>(1)</dt><dd>The object of this Part is to complement the tax incentive provided by
 
-Insert:
+sections&#160;73B, 73BA, 73I and 73Y of the _Income Tax Assessment Act 1936_ by giving the Board the role to determine whether eligible companies
 
-##### <a id="39AA"></a>39AA  Object of Part
+satisfy the requirements for the incentive.</dd> <dt>(2)</dt><dd>The object of sections&#160;73B, 73BA, 73I and 73Y of the _Income Tax Assessment Act 1936_ is to provide a tax incentive, in the form of a deduction, to make eligible companies more internationally competitive by: </dd> </dl>
+<dl compact=""><dl compact="">
 
-             (1)  The object of this Part is to complement the tax incentive provided by sections 73B, 73BA, 73I and 73Y of the _Income Tax Assessment Act 1936_ by giving the Board the role to determine whether eligible companies satisfy the requirements for the incentive.
+<dt>(a)</dt><dd>encouraging the development by eligible companies of innovative products,
 
-             (2)  The object of sections 73B, 73BA, 73I and 73Y of the _Income Tax Assessment Act 1936_ is to provide a tax incentive, in the form of a deduction, to make eligible companies more internationally competitive by:
+processes and services; and</dd>
 
-                     (a)  encouraging the development by eligible companies of innovative products, processes and services; and
+<dt>(b)</dt><dd>increasing investment by eligible companies in defined research and
 
-                     (b)  increasing investment by eligible companies in defined research and development activities; and
+development activities; and</dd>
 
-                     (c)  promoting the technological advancement of eligible companies through a focus on innovation or high technical risk in defined research and development activities; and
+<dt>(c)</dt><dd>promoting the technological advancement of eligible companies through a
 
-                     (d)  encouraging the use by eligible companies of strategic research and development planning; and
+focus on innovation or high technical risk in defined research and development
 
-                     (e)  creating an environment that is conducive to increased commercialisation of new processes and product technologies developed by eligible companies.
+activities; and</dd>
 
-The benefits of the tax incentive are targeted by being limited to particular expenditure on certain defined activities.
+<dt>(d)</dt><dd>encouraging the use by eligible companies of strategic research and
 
-Part 1A—Report on access to tax offset
+development planning; and</dd>
 
+<dt>(e)</dt><dd>creating an environment that is conducive to increased commercialisation
+
+of new processes and product technologies developed by eligible companies.
+
+</dd>
+
+</dl></dl>
+Industry Research and Development Act 1986
+<dl compact=""><dl compact="">
+
+<dt>(ca)</dt><dd>must set out:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the total number of applications during the financial year for
+
+registration of eligible companies under section 39J that specified an
+
+intention to choose a tax offset under section 73I of the _Income Tax Assessment Act 1936_; and</dd>
+
+<dt>(ii)</dt><dd>the total amounts of the offsets involved;
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+		and must include an analysis of the tax offset scheme, including the tax
+
+offset thresholds, for that year; and
+
+</dl></dl>
+Income Tax Assessment Act 1936
+<dl compact="">
+
+<dt>(2BA)</dt><dd>Activities are not covered by the definition of _research and development activities_ in subsection&#160;(1) unless they are carried
+
+on in accordance with a plan that complies with any guidelines formulated by
+
+the Board under section&#160;39KA of the _Industry Research and Development Act 1986_ that are in force at the time.
+
+</dd> </dl>
 Industry Research and Development Act 1986
 
-## 2A  After paragraph 46(2)(c)
+Back to Top
 
-Insert:
+<dl compact="">
 
-                    (ca)  must set out:
+<dt>(1)</dt><dd>The Board must, as soon as practicable (and, in any event, within 90 days)
 
-                              (i)  the total number of applications during the financial year for registration of eligible companies under section 39J that specified an intention to choose a tax offset under section 73I of the _Income Tax Assessment Act 1936_; and
+after the commencement of this section, formulate written guidelines setting
 
-                             (ii)  the total amounts of the offsets involved;
+out the requirements for plans for the purposes of subsection 73B(2BA) of the
 
-                            and must include an analysis of the tax offset scheme, including the tax offset thresholds, for that year; and
+_Income Tax Assessment Act 1936_.</dd> <dt>(1A)</dt><dd>In formulating the guidelines, the Board must ensure that, having regard to the size and complexity of the activities that are to be carried out in accordance with the plans, the guidelines will not impose undue burdens on eligible companies that are small.</dd> <dt>(2)</dt><dd>The Board must cause the guidelines to be: </dd> </dl>
+<dl compact=""><dl compact="">
 
-## 2B  Application
+<dt>(a)</dt><dd>published in the _Gazette_; and</dd>
 
-The amendment made by this Part applies to reports in relation to the financial year commencing on 1 July 2001 and all later financial years.
+<dt>(b)</dt><dd>made available on request without charge, to any eligible company.
 
+</dd>
 
- 
+</dl></dl>
+<dl compact="">
 
-Part 3—Research and development plans
+<dt>(3)</dt><dd>The requirements may cover the following matters:
 
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>who is to make the plans;</dd>
+
+<dt>(b)</dt><dd>who is to approve the plans;</dd>
+
+<dt>(c)</dt><dd>when the plans are to be made;</dd>
+
+<dt>(d)</dt><dd>what the plans are to contain;</dd>
+
+<dt>(e)</dt><dd>how the plans can be amended;</dd>
+
+<dt>(f)</dt><dd>any other matter.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(4)</dt><dd>The Board may, at any time, and whether or not within 90 days after the
+
+commencement of this section, by writing, repeal, replace or amend guidelines
+
+made under subsection&#160;(1).</dd> <dt>(5)</dt><dd>An instrument formulating guidelines under subsection&#160;(1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+**
+
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001Schedule&#160;2&#151;Plant etc. 
+**
 Income Tax Assessment Act 1936
+<dl compact=""><dl compact="">
 
-## 5  After subsection 73B(2B)
+<dt>(a)</dt><dd>the acquisition, or the construction, under a contract entered into on or
 
-Insert:
+after 1&#160;July 1985, of a unit of plant; or</dd>
 
-        (2BA)  Activities are not covered by the definition of **_research and development activities_** in subsection (1) unless they are carried on in accordance with a plan that complies with any guidelines formulated by the Board under section 39KA of the _Industry Research and Development Act 1986_ that are in force at the time.
+<dt>(b)</dt><dd>the construction by the company, being construction that commenced on or
 
-## 6  Application
+after 1&#160;July 1985, of a unit of plant.
 
-The amendment made by item 5 applies to activities that commence to be carried on after 12 am, by legal time in the Australian Capital Territory, at the start of 1 July 2002.
+</dd>
 
-Industry Research and Development Act 1986
-
-## 7  After section 39K
-
-Insert:
-
-##### <a id="39KA"></a>39KA  Guidelines concerning plans for research and development activities
-
-             (1)  The Board must, as soon as practicable (and, in any event, within 90 days) after the commencement of this section, formulate written guidelines setting out the requirements for plans for the purposes of subsection 73B(2BA) of the _Income Tax Assessment Act 1936_.
-
-          (1A)  In formulating the guidelines, the Board must ensure that, having regard to the size and complexity of the activities that are to be carried out in accordance with the plans, the guidelines will not impose undue burdens on eligible companies that are small.
-
-             (2)  The Board must cause the guidelines to be:
-
-                     (a)  published in the _Gazette_; and
-
-                     (b)  made available on request without charge, to any eligible company.
-
-             (3)  The requirements may cover the following matters:
-
-                     (a)  who is to make the plans;
-
-                     (b)  who is to approve the plans;
-
-                     (c)  when the plans are to be made;
-
-                     (d)  what the plans are to contain;
-
-                     (e)  how the plans can be amended;
-
-                      (f)  any other matter.
-
-             (4)  The Board may, at any time, and whether or not within 90 days after the commencement of this section, by writing, repeal, replace or amend guidelines made under subsection (1).
-
-             (5)  An instrument formulating guidelines under subsection (1), or repealing, replacing or amending such guidelines, is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
-
-###### Schedule 2—Plant etc.
-
-Part 1—Retrospective change to qualifying plant expenditure
-
-Income Tax Assessment Act 1936
-
-## 1  Subsection 73B(1) (at the end of the definition of _plant expenditure_)
-
-Add “at least for an initial period”.
-
-## 2  Application
-
-The amendment made by this Part applies to expenditure incurred by an eligible company on:
-
-                     (a)  the acquisition, or the construction, under a contract entered into on or after 1 July 1985, of a unit of plant; or
-
-                     (b)  the construction by the company, being construction that commenced on or after 1 July 1985, of a unit of plant.
-
-Part 2—Retrospective exemption of pilot plant from CGT provisions
-
+</dl></dl>
 Income Tax (Transitional Provisions) Act 1997
+<dl compact="">
 
-## 3  After section 118-10
+<dt>(1)</dt><dd>Disregard a <sup>*</sup>capital gain or <sup>*</sup>capital loss you make
 
-Insert:
+from a <sup>*</sup>CGT event happening in relation to pilot plant, as defined
 
-##### <a id="118-24A"></a>118-24A  Pilot plant
+in subsection 73B(1) of the _Income Tax Assessment Act 1936_:
 
-             (1)  Disregard a <sup>* </sup>capital gain or <sup>* </sup>capital loss you make from a <sup>* </sup>CGT event happening in relation to pilot plant, as defined in subsection 73B(1) of the _Income Tax Assessment Act 1936_:
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (a)  if the CGT event happens after 11.45 am, by legal time in the Australian Capital Territory, on 21 September 1999; or
+<dt>(a)</dt><dd>if the CGT event happens after 11.45 am, by legal time in the Australian
 
-                     (b)  if:
+Capital Territory, on 21&#160;September 1999; or</dd>
 
-                              (i)  the CGT event is CGT event A1 (disposal of a CGT asset); and
+<dt>(b)</dt><dd>if:
 
-                             (ii)  the time of the event is when you entered into the contract for the disposal of the CGT asset; and
+</dd>
 
-                            (iii)  the change of ownership constituting the disposal occurred after 11.45 am, by legal time in the Australian Capital Territory, on 21 September 1999.
+</dl></dl>
 
-             (2)  However, subsection (1) does not apply to assessments for the 2001-2002 income year and later income years.
+Back to Top
 
-Part 3—Effective life basis for deduction
+<dl compact=""><dl compact=""><dl compact="">
 
-Division 1—Amendments commencing at 12 pm on 29 January 2001
+<dt>(i)</dt><dd>the CGT event is CGT event A1 (disposal of a CGT asset); and</dd>
+
+<dt>(ii)</dt><dd>the time of the event is when you entered into the contract for the
+
+disposal of the CGT asset; and</dd>
+
+<dt>(iii)</dt><dd>the change of ownership constituting the disposal occurred after 11.45
+
+am, by legal time in the Australian Capital Territory, on 21&#160;September
+
+1999.
+
+</dd>
+
+</dl></dl></dl>
+<dl compact="">
+
+<dt>(2)</dt><dd>However, subsection&#160;(1) does not apply to assessments for the
+
+2001-2002 income year and later income years.
+
+</dd> </dl>
 
 Income Tax Assessment Act 1936
+<dl compact=""><dl compact="">
 
-## 4  Subsection 73B(1) (at the end of paragraph (b) of the definition of _aggregate research and development amount_)
+		, where that expenditure was incurred in respect of plant:
 
-Add:
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                            , where that expenditure was incurred in respect of plant:
+<dt>(i)</dt><dd>acquired, or constructed, under a contract entered into at or before 12
 
-                              (i)  acquired, or constructed, under a contract entered into at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
+pm, by legal time in the Australian Capital Territory, on 29&#160;January 2001;
 
-                             (ii)  that the company commenced to construct at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+or</dd>
 
-_Note:       The heading to section 73B is altered by omitting “Expenditure”, and substituting “Certain expenditure”._
+<dt>(ii)</dt><dd>that the company commenced to construct at or before 12 pm, by legal time
 
-## 5  Subsection 73B(1) (at the end of paragraph (ba) of the definition of _aggregate research and development amount_)
+in the Australian Capital Territory, on 29&#160;January 2001.
 
-Add:
+</dd>
 
-                            , where:
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-                              (i)  the unit or units were acquired, or constructed, under a contract or contracts entered into by the company at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
+		, where:
 
-                             (ii)  the company commenced to construct the unit or units at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-## 6  Subsection 73B(1) (after paragraph (ba) of the definition of _aggregate research and development amount_)
+<dt>(i)</dt><dd>the unit or units were acquired, or constructed, under a contract or
+
+contracts entered into by the company at or before 12 pm, by legal time in the
+
+Australian Capital Territory, on 29&#160;January 2001; or</dd>
+
+<dt>(ii)</dt><dd>the company commenced to construct the unit or units at or before 12 pm,
+
+by legal time in the Australian Capital Territory, on 29&#160;January 2001.
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+<dt>(bb)</dt><dd>the amount of any notional Division&#160;42 deduction (as defined in
+
+section&#160;73BJ) taken into account in working out a deduction allowed or
+
+allowable to the company under section&#160;73BH in respect of the year of
+
+income; and
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact="">
+
+_excluded plant expenditure_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>expenditure incurred by an eligible company in:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the acquisition, or the construction, under a contract entered into at or
+
+before 12 pm, by legal time in the Australian Capital Territory, on
+
+29&#160;January 2001; or</dd>
+
+<dt>(ii)</dt><dd>the construction by the company, being construction that commenced at or
+
+before 12 pm, by legal time in the Australian Capital Territory, on
+
+29&#160;January 2001;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		of a unit of plant or pilot plant; and
+
+<dt>(b)</dt><dd>any other expenditure incurred by an eligible company in the acquisition
+
+or construction, or that otherwise forms part of the cost, of a unit of
+
+section&#160;73BH plant (as defined by section&#160;73BI).
+
+</dd>
+
+</dl></dl></dl>
+
+8  Subsection 73B(1) (definition of research and development expenditure)
+
+Omit "or expenditure incurred in the acquisition or construction of plant or pilot plant or", substitute ", excluded plant expenditure or expenditure incurred in the acquisition or construction of".
+
+9  After subsection 73B(15)
 
 Insert:
 
-                    (bb)  the amount of any notional Division 42 deduction (as defined in section 73BJ) taken into account in working out a deduction allowed or allowable to the company under section 73BH in respect of the year of income; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 7  Subsection 73B(1)
+<dt>(15AAA)</dt><dd>Subsection&#160;(15) does not apply to a unit of plant:
 
-Insert:
+</dd>
 
-                    <a name="excluded-plant-expenditur"></a>**_excluded plant expenditure_** means:
+</dl></dl></dl></dl>
 
-                     (a)  expenditure incurred by an eligible company in:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the acquisition, or the construction, under a contract entered into at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
+<dt>(a)</dt><dd>acquired, or constructed, under a contract entered into by the company
 
-                             (ii)  the construction by the company, being construction that commenced at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001;
+after 12 pm, by legal time in the Australian Capital Territory, on
 
-                            of a unit of plant or pilot plant; and
+29&#160;January 2001; or</dd>
 
-                     (b)  any other expenditure incurred by an eligible company in the acquisition or construction, or that otherwise forms part of the cost, of a unit of section 73BH plant (as defined by section 73BI).
+<dt>(b)</dt><dd>that the company commenced to construct after 12 pm, by legal time in the
 
-## 8  Subsection 73B(1) (definition of _research and development expenditure_)
+Australian Capital Territory, on 29&#160;January 2001.
 
-Omit “or expenditure incurred in the acquisition or construction of plant or pilot plant or”, substitute “, excluded plant expenditure or expenditure incurred in the acquisition or construction of”.
+</dd>
 
-## 9  After subsection 73B(15)
+</dl></dl></dl>
 
-Insert:
-
-                   (15AAA)  Subsection (15) does not apply to a unit of plant:
-
-                     (a)  acquired, or constructed, under a contract entered into by the company after 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
-
-                     (b)  that the company commenced to construct after 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
-
-## 10  After subsection 73B(15AA)
+10  After subsection 73B(15AA)
 
 Insert:
 
-(15AAAA)  Subsection (15AA) does not apply to a unit of post-23 July 1996 pilot plant:
+<dl compact=""><dl compact="">
 
-                     (a)  acquired, or constructed, under a contract entered into by the company after 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
+<dt>(15AAAA)</dt><dd>Subsection&#160;(15AA) does not apply to a unit of post-23&#160;July
 
-                     (b)  that the company commenced to construct after 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+1996 pilot plant:
 
-## 11  After section 73B
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>acquired, or constructed, under a contract entered into by the company
+
+after 12 pm, by legal time in the Australian Capital Territory, on
+
+29&#160;January 2001; or</dd>
+
+<dt>(b)</dt><dd>that the company commenced to construct after 12 pm, by legal time in the
+
+Australian Capital Territory, on 29&#160;January 2001.
+
+</dd>
+
+</dl></dl></dl>
+
+11  After section&#160;73B
 
 Insert:
 
-##### <a id="73BH"></a>73BH  Deduction for plant etc. used for purpose of carrying on research and development activities
+73BH  Deduction for plant etc. used for purpose of carrying on research and development activities
 
-Entitlement to deduction
+_Entitlement to deduction_
 
-             (1)  If an eligible company has a notional Division 42 deduction for a unit of section 73BH plant for a year of income, the company is entitled to a deduction under this section for the plant for the year of income.
+<dl compact=""><dl compact="">
 
-Amount of deduction
+<dt>(1)</dt><dd>If an eligible company has a notional Division&#160;42 deduction for a
 
-             (2)  If the eligible company’s aggregate research and development amount for the year of income is more than $20,000, the deduction is equal to the notional Division 42 deduction multiplied by 1.25\. If not, it equals the notional Division 42 deduction.
+unit of section&#160;73BH plant for a year of income, the company is entitled
 
-No deduction if earlier Division 42 pooling or low-value pool deductions allowable
+to a deduction under this section for the plant for the year of income.
 
-             (3)  An eligible company is not entitled to a deduction under this section for a unit of section 73BH plant for any period if the company was entitled to a deduction for the unit for any earlier period under Division 42 of the _Income Tax Assessment Act 1997_, in a case to which Subdivision 42-L or 42-M (about pooling and low-value pools) of that Division applied.
+</dd> </dl></dl>
 
-Expenditure deductible under this section not deductible under other provisions
+_Amount of deduction_
 
-             (6)  If the whole or a part of an amount of expenditure incurred by an eligible company has been allowed or is or may become allowable as a deduction under this section, that whole or part is not an allowable deduction, and is not to be taken into account in working out the amount of an allowable deduction, from the assessable income of the company of any year of income under any other provision of this Act.
+<dl compact=""><dl compact="">
 
-Definitions
+<dt>(2)</dt><dd>If the eligible company's aggregate research and development amount for
 
-             (7)  In this section:
+the year of income is more than $20,000, the deduction is equal to the notional
 
-                    <a name="aggreg-research-develop-amount"></a>**_aggregate research and development amount_** has the same meaning as in section 73B.
+Division&#160;42 deduction multiplied by 1.25\. If not, it equals the notional
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+Division&#160;42 deduction.
 
-                    <a name="notion-division-42-duction"></a>**_notional Division 42 deduction_** has the meaning given by section 73BJ.
+</dd> </dl></dl>
 
-                    <a name="section-73bh-plant"></a>**_section 73BH plant_** has the meaning given by section 73BI.
+_No deduction if earlier Division 42 pooling or low-value pool deductions allowable_
 
-##### <a id="73BI"></a>73BI  Meaning of _section 73BH plant_
+<dl compact=""><dl compact="">
 
-             (1)  A unit of **_section 73BH plant_** of an eligible company is a thing for which the eligible company could (ignoring section 73BH) deduct an amount under section 42-15 of the _Income Tax Assessment Act 1997_ if the following assumptions were made:
+<dt>(3)</dt><dd>An eligible company is not entitled to a deduction under this section for
 
-                     (b)  the definition of **_plant_** in section 42-18 of that Act included capital works (other than buildings) to which Division 43 of the _Income Tax Assessment Act 1997_ applies, or to which that Division would apply but for expenditure being incurred, or capital works being started, before a particular day;
+a unit of section&#160;73BH plant for any period if the company was entitled to
 
-                     (c)  the eligible company satisfied any relevant requirement for deductibility under that Division.
+a deduction for the unit for any earlier period under Division&#160;42 of the
 
-             (2)  However, subsection (1) does not apply to a thing:
+_Income Tax Assessment Act 1997_, in a case to which Subdivision&#160;42-L
 
-                     (a)  acquired, or constructed, under a contract entered into by the company at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
+or 42-M (about pooling and low-value pools) of that Division applied.
 
-                     (b)  that the company commenced to construct at or before 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+</dd> </dl></dl>
 
-             (3)  In this section:
+_Expenditure deductible under this section not deductible under other provisions_
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+<dl compact=""><dl compact="">
 
-##### <a id="73BJ"></a>73BJ  Meaning of _notional Division 42 deduction_
+<dt>(6)</dt><dd>If the whole or a part of an amount of expenditure incurred by an eligible
 
-Notional Division 42 deduction
+company has been allowed or is or may become allowable as a deduction under
 
-             (1)  An eligible company has a **_notional Division 42 deduction_** for a year of income for a unit of section 73BH plant if it would be entitled to a deduction for the plant under section 42-15 of the _Income Tax Assessment Act 1997_ for the year of income assuming the changes set out in this section were made.
+this section, that whole or part is not an allowable deduction, and is not to
 
-First change: replacement of references to use or installation ready for use for purpose of producing assessable income
+be taken into account in working out the amount of an allowable deduction, from
 
-             (2)  The first change is that references in Division 42 of the _Income Tax Assessment Act 1997_ to using the unit, or having it installed ready for use, for the purpose of producing assessable income are instead references to using the unit for the purpose of the carrying on by or on behalf of the eligible company of research and development activities.
+the assessable income of the company of any year of income under any other
 
-Second change: method for calculating deduction where previous Division 42 deduction
+provision of this Act.
 
-             (3)  The second change is that, if the eligible company was actually entitled to a deduction under Division 42 of the _Income Tax Assessment Act 1997_ for the unit of section 73BH plant for any period before the start of the first period for which the company will be entitled to a deduction for the plant under this subsection, the same method for calculating the deduction as the company was using for the unit for the earlier period is used.
+</dd> </dl></dl>
 
-Third change: treatment of expenditure to which section 73BK or 73BL applies
+<center>Back to Top</center>
 
-             (4)  The third change is that, in working out the cost of the unit of section 73BH plant, any amount of expenditure (**_section 73BH plant expenditure_**) that would otherwise form part of that cost is to be ignored or treated in some other way if section 73BK or 73BL so provides for the purposes of this section.
+_Definitions_
 
-Fourth change: certain provisions to be ignored
+<dl compact=""><dl compact="">
 
-             (5)  The fourth change is that Division 42 of the _Income Tax Assessment Act 1997_ applies as if section 73BH of this Act and Subdivisions 42-L and 42-M of that Act had not been enacted.
+<dt>(7)</dt><dd>In this section:
 
-Definition
+</dd> </dl></dl>
 
-             (6)  In this section:
+<def><dl compact=""><dl compact="">
 
-                    <a name="section-73bh-plant"></a>**_section 73BH plant_** has the meaning given by section 73BI.
+_aggregate research and development amount_ has the same meaning as
 
-##### <a id="73BK"></a>73BK  Treatment of certain expenditure for the purposes of section 73BJ etc.
+in section&#160;73B. _eligible company_ has the same meaning as in section&#160;73B. _notional Division 42 deduction_ has the meaning given by section&#160;73BJ. _section 73BH plant_ has the meaning given by section&#160;73BI.  </dl></dl>
 
-Requirement for registration under Industry Research and Development Act
+73BI  Meaning of section&#160;73BH plant
 
-             (1)  Section 73BH plant expenditure incurred by an eligible company in a year of income in relation to research and development activities is ignored for the purposes of section 73BJ unless:
+<dl compact=""><dl compact="">
 
-                     (a)  the company is registered, in relation to the year of income and in relation to those activities, under section 39J of the _Industry Research and Development Act 1986_; or
+<dt>(1)</dt><dd>A unit of _section 73BH plant_ of an eligible company is
 
-                     (b)  the company is registered, in relation to the year of income and in relation to a project comprising or including those activities, under section 39P of that Act.
+a thing for which the eligible company could (ignoring section&#160;73BH)
 
-Non-arm’s length expenditure
+deduct an amount under section&#160;42-15 of the _Income Tax Assessment Act 1997_ if the following assumptions were made:
 
-             (2)  If:
+</dd> </dl></dl>
 
-                     (a)  an eligible company has incurred an amount of section 73BH plant expenditure; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the Commissioner is satisfied that:
+<dt>(b)</dt><dd>the definition of _plant_ in section&#160;42-18 of that Act
 
-                              (i)  having regard to any connection between the company and the person to whom the expenditure was incurred and to any other relevant circumstances, the company and that other person were not dealing with each other at arm’s length in relation to the incurring of that expenditure; and
+included capital works (other than buildings) to which Division&#160;43 of the
 
-                             (ii)  the amount of that expenditure would have been less if the company and that other person had dealt with each other at arm’s length in relation to the incurring of that expenditure;
+_Income Tax Assessment Act 1997_ applies, or to which that Division would
 
-so much only of that expenditure is to be taken into account for the purposes of section 73BJ as the Commissioner considers reasonable having regard to:
+apply but for expenditure being incurred, or capital works being started,
 
-                     (c)  the connection between the company and that other person; and
+before a particular day;</dd>
 
-                     (d)  the amount of the expenditure that would, in the opinion of the Commissioner, have been incurred by the company if the company and that other person had dealt with each other at arm’s length in relation to the incurring of that expenditure; and
+<dt>(c)</dt><dd>the eligible company satisfied any relevant requirement for deductibility
 
-                     (e)  such other matters as the Commissioner considers relevant.
+under that Division.
 
-Effect of certificate under section 39M or 39MA of Industry Research and Development Act
+</dd>
 
-             (3)  Subject to subsection (8), if the Board gives to the Commissioner a certificate under section 39M or 39MA of the _Industry Research and Development Act 1986_ in respect of particular activities in respect of which section 73BH plant expenditure has been incurred by an eligible company, the expenditure is ignored for the purposes of section 73BJ.
+</dl></dl></dl>
 
-Effect of certificate under section 39N of Industry Research and Development Act
+<dl compact=""><dl compact="">
 
-             (4)  Subject to subsection (8), if the Board gives to the Commissioner a certificate stating that a company has failed to comply with a notice under section 39N of the _Industry Research and Development Act 1986_ in respect of particular activities in respect of which section 73BH plant expenditure has been incurred by an eligible company, the expenditure is ignored for the purposes of section 73BJ.
+<dt>(2)</dt><dd>However, subsection&#160;(1) does not apply to a thing:
 
-Effect of certificate under subsection 39P(4) of Industry Research and Development Act
+</dd> </dl></dl>
 
-             (5)  Subject to subsection (8), if the Board gives to the Commissioner a certificate in relation to a company or companies under subsection 39P(4) of the _Industry Research and Development Act 1986_, section 73BH plant expenditure in relation to research and development activities referred to in the certificate that is incurred by that company or any of those companies after the day on which notice was given to the company concerned under paragraph 39P(5)(a) is ignored for the purposes of section 73BJ.
+<dl compact=""><dl compact=""><dl compact="">
 
-Effect of certificate under subsection 39PB(6) of Industry Research and Development Act
+<dt>(a)</dt><dd>acquired, or constructed, under a contract entered into by the company at
 
-             (6)  Subject to subsections (7) and (8), if the Board gives to the Commissioner a certificate in relation to a company or companies under subsection 39PB(6) of the _Industry Research and Development Act 1986_, section 73BH plant expenditure in relation to research and development activities referred to in the certificate that is incurred by that company or any of those companies after the day stated in the certificate is ignored for the purposes of section 73BJ.
+or before 12 pm, by legal time in the Australian Capital Territory, on
 
-             (7)  Subsection (6) of this section does not apply to section 73BH plant expenditure in relation to research and development activities in respect of which a company is registered under section 39J of the _Industry Research and Development Act 1986_.
+29&#160;January 2001; or</dd>
 
-Effect of revocation of certificates mentioned above
+<dt>(b)</dt><dd>that the company commenced to construct at or before 12 pm, by legal time
 
-             (8)  If a certificate mentioned in subsection (3), (4), (5) or (6) is revoked, this section applies, and is taken to have applied, as if the certificate had not been given.
+in the Australian Capital Territory, on 29&#160;January 2001.
 
-Expenditure on overseas research and development activities
+</dd>
 
-             (9)  Section 73BH plant expenditure incurred by an eligible company on overseas research and development activities is ignored for the purposes of section 73BJ unless the Board gave a provisional certificate in respect of the expenditure under section 39ED of the _Industry Research and Development Act 1986_ before the expenditure was incurred.
+</dl></dl></dl>
 
-Expenditure incurred on behalf of another person
+<dl compact=""><dl compact="">
 
-           (10)  Section 73BH plant expenditure incurred by an eligible company for the purpose of carrying on research and development activities on behalf of any other person is ignored for the purposes of section 73BJ.
+<dt>(3)</dt><dd>In this section:
 
-           (11)  Subsection (10) does not apply in relation to expenditure incurred on behalf of a partnership by a partner in the partnership in that partner’s capacity as such a partner.
+</dd> </dl></dl>
 
-Definitions
+<def><dl compact=""><dl compact="">
 
-           (12)  In this section:
+_eligible company_ has the same meaning as in section&#160;73B.
 
-                    <a name="board"></a>**_Board_** means the Industry Research and Development Board established by the _Industry Research and Development Act 1986_.
+ </dl></dl>
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+73BJ  Meaning of notional Division&#160;42 deduction
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+_Notional Division 42 deduction_
 
-                    <a name="section-73bh-plant"></a>**_section 73BH plant_** has the meaning given by section 73BI.
+<dl compact=""><dl compact="">
 
-                    <a name="expenditur"></a><a name="section-73bh-plant"></a>**_section 73BH plant_** **_expenditure_** has the meaning given by subsection 73BJ(4).
+<dt>(1)</dt><dd>An eligible company has a _notional Division 42 deduction_ for a year of income for a unit of section&#160;73BH plant if
 
-##### <a id="73BL"></a>73BL  Treatment of certain partnership expenditure for the purposes of section 73BJ etc.
+it would be entitled to a deduction for the plant under section&#160;42-15 of
 
-When section applies
+the _Income Tax Assessment Act 1997_ for the year of income assuming the
 
-             (1)  If section 73BH plant expenditure has been incurred by a partnership in which, when the expenditure was incurred:
+changes set out in this section were made.
 
-                     (a)  at least one partner was an eligible company; and
+</dd> </dl></dl>
 
-                     (b)  either:
+_First change: replacement of references to use or installation ready for use for purpose of producing assessable income_
 
-                              (i)  each other partner was an eligible company or was a body corporate that was, or is taken to have been, registered under section 39F of the _Industry Research and Development Act 1986_ as a research agency in respect of the class of research and development activities on which the expenditure was incurred; or
+<dl compact=""><dl compact="">
 
-                             (ii)  the partnership was designated as a Co-operative Research Centre under the program known as the Co-operative Research Centres Program;
+<dt>(2)</dt><dd>The first change is that references in Division&#160;42 of the _Income Tax Assessment Act 1997_ to using the unit, or having it installed ready for
+
+use, for the purpose of producing assessable income are instead references to
+
+using the unit for the purpose of the carrying on by or on behalf of the
+
+eligible company of research and development activities.
+
+</dd> </dl></dl>
+
+_Second change: method for calculating deduction where previous Division 42 deduction_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The second change is that, if the eligible company was actually entitled
+
+to a deduction under Division&#160;42 of the _Income Tax Assessment Act 1997_ for the unit of section&#160;73BH plant for any period before the start of
+
+the first period for which the company will be entitled to a deduction for the
+
+plant under this subsection, the same method for calculating the deduction as
+
+the company was using for the unit for the earlier period is used.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+_Third change: treatment of expenditure to which section 73BK or 73BL applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The third change is that, in working out the cost of the unit of
+
+section&#160;73BH plant, any amount of expenditure (_section 73BH plant expenditure_) that would otherwise form part of that cost is to be
+
+ignored or treated in some other way if section&#160;73BK or 73BL so provides
+
+for the purposes of this section.
+
+</dd> </dl></dl>
+
+_Fourth change: certain provisions to be ignored_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The fourth change is that Division&#160;42 of the _Income Tax Assessment Act 1997_ applies as if section&#160;73BH of this Act and
+
+Subdivisions&#160;42-L and 42-M of that Act had not been enacted.
+
+</dd> </dl></dl>
+
+_Definition_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_section 73BH plant_ has the meaning given by
+
+section&#160;73BI.
+
+ </dl></dl>
+
+73BK  Treatment of certain expenditure for the purposes of section&#160;73BJ etc.
+
+_Requirement for registration under Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Section&#160;73BH plant expenditure incurred by an eligible company in a
+
+year of income in relation to research and development activities is ignored
+
+for the purposes of section&#160;73BJ unless:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the company is registered, in relation to the year of income and in
+
+relation to those activities, under section&#160;39J of the _Industry Research and Development Act 1986_; or</dd>
+
+<dt>(b)</dt><dd>the company is registered, in relation to the year of income and in
+
+relation to a project comprising or including those activities, under
+
+section&#160;39P of that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+_Non-arm&apos;s length expenditure_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an eligible company has incurred an amount of section&#160;73BH plant
+
+expenditure; and</dd>
+
+<dt>(b)</dt><dd>the Commissioner is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>having regard to any connection between the company and the person to whom
+
+the expenditure was incurred and to any other relevant circumstances, the
+
+company and that other person were not dealing with each other at arm's length
+
+in relation to the incurring of that expenditure; and</dd>
+
+<dt>(ii)</dt><dd>the amount of that expenditure would have been less if the company and
+
+that other person had dealt with each other at arm's length in relation to the
+
+incurring of that expenditure;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+so much only of that expenditure is to be taken into account for the purposes of section&#160;73BJ as the Commissioner considers reasonable having regard to:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the connection between the company and that other person; and</dd>
+
+<dt>(d)</dt><dd>the amount of the expenditure that would, in the opinion of the
+
+Commissioner, have been incurred by the company if the company and that other
+
+person had dealt with each other at arm's length in relation to the incurring
+
+of that expenditure; and</dd>
+
+<dt>(e)</dt><dd>such other matters as the Commissioner considers relevant.
+
+</dd>
+
+</dl></dl></dl>
+
+_Effect of certificate under section 39M or 39MA of Industry Research Back to Top and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Subject to subsection&#160;(8), if the Board gives to the Commissioner a
+
+certificate under section&#160;39M or 39MA of the _Industry Research and Development Act 1986_ in respect of particular activities in respect of
+
+which section&#160;73BH plant expenditure has been incurred by an eligible
+
+company, the expenditure is ignored for the purposes of section&#160;73BJ.
+
+</dd> </dl></dl>
+
+_Effect of certificate under section 39N of Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subject to subsection&#160;(8), if the Board gives to the Commissioner a
+
+certificate stating that a company has failed to comply with a notice under
+
+section&#160;39N of the _Industry Research and Development Act 1986_ in
+
+respect of particular activities in respect of which section&#160;73BH plant
+
+expenditure has been incurred by an eligible company, the expenditure is
+
+ignored for the purposes of section&#160;73BJ.
+
+</dd> </dl></dl>
+
+_Effect of certificate under subsection 39P(4) of Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Subject to subsection&#160;(8), if the Board gives to the Commissioner a
+
+certificate in relation to a company or companies under subsection 39P(4) of
+
+the _Industry Research and Development Act 1986_, section&#160;73BH plant
+
+expenditure in relation to research and development activities referred to in
+
+the certificate that is incurred by that company or any of those companies
+
+after the day on which notice was given to the company concerned under
+
+paragraph 39P(5)(a) is ignored for the purposes of section&#160;73BJ.
+
+</dd> </dl></dl>
+
+_Effect of certificate under subsection 39PB(6) of Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>Subject to subsections&#160;(7) and (8), if the Board gives to the
+
+Commissioner a certificate in relation to a company or companies under
+
+subsection 39PB(6) of the _Industry Research and Development Act 1986_,
+
+section&#160;73BH plant expenditure in relation to research and development
+
+activities referred to in the certificate that is incurred by that company or
+
+any of those companies after the day stated in the certificate is ignored for
+
+the purposes of section&#160;73BJ.</dd> <dt>(7)</dt><dd>Subsection&#160;(6) of this section does not apply to section&#160;73BH plant expenditure in relation to research and development activities in respect of which a company is registered under section&#160;39J of the _Industry Research and Development Act 1986_. </dd> </dl></dl>
+
+_Effect of revocation of certificates mentioned above_
+
+<dl compact=""><dl compact="">
+
+<dt>(8)</dt><dd>If a certificate mentioned in subsection&#160;(3), (4), (5) or (6) is
+
+revoked, this section applies, and is taken to have applied, as if the
+
+certificate had not been given.
+
+</dd> </dl></dl>
+
+_Expenditure on overseas research and development activities_
+
+<dl compact=""><dl compact="">
+
+<dt>(9)</dt><dd>Section&#160;73BH plant expenditure incurred by an eligible company on
+
+overseas research and development activities is ignored for the purposes of
+
+section&#160;73BJ unless the Board gave a provisional certificate in respect of
+
+the expenditure under section&#160;39ED of the _Industry Research and Development Act 1986_ before the expenditure was incurred.
+
+</dd> </dl></dl>
+
+_Expenditure incurred on behalf of another person_
+
+<dl compact=""><dl compact="">
+
+<dt>(10)</dt><dd>Section&#160;73BH plant expenditure incurred by an eligible company for
+
+the purpose of carrying on research and development activities on behalf of any
+
+other person is ignored for the purposes of section&#160;73BJ.</dd> <dt>(11)</dt><dd>Subsection&#160;(10) does not apply in relation to expenditure incurred on behalf of a partnership by a partner in the partnership in that partner's capacity as such a partner. </dd> </dl></dl>
+
+_Definitions_
+
+<dl compact=""><dl compact="">
+
+<dt>(12)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Board_ means the Industry Research and Development Board
+
+established by the _Industry Research and Development Act 1986_. _eligible company_ has the same meaning as in section&#160;73B. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BH plant_ has the meaning given by section&#160;73BI. _section 73BH plant_ _expenditure_ has the meaning given by subsection 73BJ(4).  </dl></dl>
+
+<center>Back to Top</center>
+
+73BL  Treatment of certain partnership expenditure for the purposes of section&#160;73BJ etc.
+
+_When section applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If section&#160;73BH plant expenditure has been incurred by a partnership
+
+in which, when the expenditure was incurred:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>at least one partner was an eligible company; and</dd>
+
+<dt>(b)</dt><dd>either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>each other partner was an eligible company or was a body corporate that
+
+was, or is taken to have been, registered under section&#160;39F of the
+
+_Industry Research and Development Act 1986_ as a research agency in
+
+respect of the class of research and development activities on which the
+
+expenditure was incurred; or</dd>
+
+<dt>(ii)</dt><dd>the partnership was designated as a Co-operative Research Centre under
+
+the program known as the Co-operative Research Centres Program;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the following provisions have effect.
 
-Contributions by partners
+_Contributions by partners_
 
-             (2)  Each partner is taken, for the purposes of sections 73BJ, 73C and 73CA of this Act, and Subdivision 20-A of the _Income Tax Assessment Act 1997_, to have incurred so much (if any) of the expenditure as was incurred out of money contributed by the partner (otherwise than by way of loan), whether in the year of income in which the expenditure was incurred or a previous year of income.
+<dl compact=""><dl compact="">
 
-Recoupments or grants
+<dt>(2)</dt><dd>Each partner is taken, for the purposes of sections&#160;73BJ, 73C and
 
-             (3)  If the partnership has, whether before or after the commencement of this subsection, received, or become entitled to receive, a recoupment of, or a grant in respect of, the whole or any part of the expenditure, each partner is to be taken, for the purposes of sections 73BJ, 73C and 73CA of this Act, and Subdivision 20-A of the _Income Tax Assessment Act 1997_, to have received, or become entitled to receive, so much (if any) of the recoupment or grant as is worked out in accordance with the formula:
+73CA of this Act, and Subdivision&#160;20-A of the _Income Tax Assessment Act 1997_, to have incurred so much (if any) of the expenditure as was incurred
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image002.gif)</sub>
+out of money contributed by the partner (otherwise than by way of loan),
+
+whether in the year of income in which the expenditure was incurred or a
+
+previous year of income.
+
+</dd> </dl></dl>
+
+_Recoupments or grants_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If the partnership has, whether before or after the commencement of this
+
+subsection, received, or become entitled to receive, a recoupment of, or a
+
+grant in respect of, the whole or any part of the expenditure, each partner is
+
+to be taken, for the purposes of sections&#160;73BJ, 73C and 73CA of this Act,
+
+and Subdivision&#160;20-A of the _Income Tax Assessment Act 1997_, to have
+
+received, or become entitled to receive, so much (if any) of the recoupment or
+
+grant as is worked out in accordance with the formula:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1202.gif)</sub>
 
 where:
 
-                    <a name="partner-contribut"></a>**_partner’s contribution_** means the total contribution made (otherwise than by way of loan) by the partner to the funds of the partnership as at the time when the recoupment or grant was received or the entitlement to the recoupment or grant arose, as the case may be.
+<def><dl compact=""><dl compact="">
 
-                    <a name="total-contribut"></a>**_total contribution_** means the total of the contributions made (otherwise than by way of loan) by all the partners to the funds of the partnership as at the time when the recoupment or grant was received or the entitlement to the recoupment or grant arose, as the case may be.
+_partner&apos;s contribution_ means the total contribution made
 
-Exception to subsections (2) and (3)
+(otherwise than by way of loan) by the partner to the funds of the partnership
 
-             (4)  If the partnership is not designated as a Co-operative Research Centre under the program known as the Co-operative Research Centres Program, subsection 73C(2A) does not apply in relation to the expenditure that a partner is taken to have incurred by subsection (2) or (3) of this section.
+as at the time when the recoupment or grant was received or the entitlement to
 
-Effect on net income and partnership loss calculation
+the recoupment or grant arose, as the case may be. _total contribution_ means the total of the contributions made (otherwise than by way of loan) by all the partners to the funds of the partnership as at the time when the recoupment or grant was received or the entitlement to the recoupment or grant arose, as the case may be.  </dl></dl>
 
-             (5)  Any expenditure that a partner is taken to have incurred by subsection (2) or (3) of this subsection, and any recoupment or grant that a partner is taken to have received or become entitled to receive, is not to be taken into account in determining the net income of the partnership or any partnership loss, as the case may be, of the year of income.
+_Exception to subsections (2) and (3)_
 
-Provisions to apply to each partner, not partnership
+<dl compact=""><dl compact="">
 
-             (6)  Subject to subsections (2) to (5) of this section, sections 73BJ, 73C and 73CA of this Act, and Subdivision 20-A of the _Income Tax Assessment Act 1997_, apply in relation to each such partner that is an eligible company as if that partner, and not the partnership, were, or had been, carrying on the relevant project and activities, but so apply with such modifications to those sections as are appropriate having regard to the partner’s interest in the partnership.
+<dt>(4)</dt><dd>If the partnership is not designated as a Co-operative Research Centre
 
-Definitions
+under the program known as the Co-operative Research Centres Program,
 
-             (7)  In this section:
+subsection 73C(2A) does not apply in relation to the expenditure that a partner
 
-                    <a name="board"></a>**_Board_** means the Industry Research and Development Board established by the _Industry Research and Development Act 1986_.
+is taken to have incurred by subsection&#160;(2) or (3) of this section.
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+</dd> </dl></dl>
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+_Effect on net income and partnership loss calculation_
 
-                    <a name="section-73bh-plant"></a>**_section 73BH plant_** has the meaning given by section 73BI.
+<dl compact=""><dl compact="">
 
-                    <a name="expenditur"></a><a name="section-73bh-plant"></a>**_section 73BH plant_** **_expenditure_** has the meaning given by subsection 73BJ(4).
+<dt>(5)</dt><dd>Any expenditure that a partner is taken to have incurred by
 
-##### <a id="73BM"></a>73BM  Balancing adjustments: section 73BH plant
+subsection&#160;(2) or (3) of this subsection, and any recoupment or grant that
 
-             (1)  If:
+a partner is taken to have received or become entitled to receive, is not to be
 
-                     (a)  a balancing adjustment event (within the meaning of subsection 42-30(3) of the _Income Tax Assessment Act 1997_) happens in relation to a unit of section 73BH plant of an eligible company; and
+taken into account in determining the net income of the partnership or any
 
-                     (b)  one or more deductions have been allowed or are allowable to the eligible company under section 73BH for the unit for a year or years of income; and
+partnership loss, as the case may be, of the year of income.
 
-                     (c)  no deduction was allowable to the eligible company under section 42-15 of the _Income Tax Assessment Act 1997_ for the unit for any year of income; and
+</dd> </dl></dl>
 
-                     (d)  a deduction would be allowable to the eligible company, or an amount would be included in the eligible company’s assessable income, in respect of the balancing adjustment event under Subdivision 42-F of that Act as so in force, if:
+_Provisions to apply to each partner, not partnership_
 
-                              (i)  the changes set out in section 73BJ were made; and
+<dl compact=""><dl compact="">
 
-                             (ii)  section 42-220A of the _Income Tax Assessment Act 1997_ and this section (other than this paragraph) had not been enacted;
+<dt>(6)</dt><dd>Subject to subsections&#160;(2) to (5) of this section,
 
-then the deduction mentioned in paragraph (d) is allowable to the eligible company, or the amount mentioned in paragraph (d) is included in the eligible company’s assessable income, under this section for the year of income in which the balancing adjustment event occurs.
+sections&#160;73BJ, 73C and 73CA of this Act, and Subdivision&#160;20-A of
 
-Note:          If deductions have been allowable under both section 73BH of this Act and section 42-15 of the _Income Tax Assessment Act 1997_ for a unit of section 73BH plant, the balancing adjustment provisions of Division 42 of that Act apply in a modified way: see section 42-220A of that Act.
+the _Income Tax Assessment Act 1997_, apply in relation to each such
 
-Increase in deduction or assessable amount where section 73BH deductions allowable at 1.25 rate
+partner that is an eligible company as if that partner, and not the
 
-             (2)  However, if at least one of the deductions mentioned in paragraph (1)(b) was worked out by multiplying a notional Division 42 deduction by 1.25, subsection (3) applies.
+partnership, were, or had been, carrying on the relevant project and
 
-             (3)  Any amount (the **_eligible_** **_subsection (1) amount_**):
+activities, but so apply with such modifications to those sections as are
 
-                     (a)  allowable as a deduction to the eligible company under subsection (1) of this section for the unit of section 73BH plant; or
+appropriate having regard to the partner's interest in the partnership.
 
-                     (b)  included in the assessable income of the eligible company under subsection (1) of this section for the unit of section 73BH plant, where that amount is so included as a result of the application of section 42-190 of the _Income Tax Assessment Act 1997_ in accordance with paragraph (1)(d) of this section;
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+_Definitions_
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Board_ means the Industry Research and Development Board
+
+established by the _Industry Research and Development Act 1986_. _eligible company_ has the same meaning as in section&#160;73B. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BH plant_ has the meaning given by section&#160;73BI. _section 73BH plant_ _expenditure_ has the meaning given by subsection 73BJ(4).  </dl></dl>
+
+73BM  Balancing adjustments: section&#160;73BH plant
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a balancing adjustment event (within the meaning of subsection 42-30(3) of
+
+the _Income Tax Assessment Act 1997_) happens in relation to a unit of
+
+section&#160;73BH plant of an eligible company; and</dd>
+
+<dt>(b)</dt><dd>one or more deductions have been allowed or are allowable to the eligible
+
+company under section&#160;73BH for the unit for a year or years of income;
+
+and</dd>
+
+<dt>(c)</dt><dd>no deduction was allowable to the eligible company under
+
+section&#160;42-15 of the _Income Tax Assessment Act 1997_ for the unit
+
+for any year of income; and</dd>
+
+<dt>(d)</dt><dd>a deduction would be allowable to the eligible company, or an amount would
+
+be included in the eligible company's assessable income, in respect of the
+
+balancing adjustment event under Subdivision&#160;42-F of that Act as so in
+
+force, if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the changes set out in section&#160;73BJ were made; and</dd>
+
+<dt>(ii)</dt><dd>section&#160;42-220A of the _Income Tax Assessment Act 1997_ and
+
+this section (other than this paragraph) had not been enacted;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+then the deduction mentioned in paragraph&#160;(d) is allowable to the eligible company, or the amount mentioned in paragraph&#160;(d) is included in the eligible company's assessable income, under this section for the year of income in which the balancing adjustment event occurs.
+
+<dl compact=""><dl compact="">
+
+Note:	If deductions have been allowable under both
+
+section&#160;73BH of this Act and section&#160;42-15 of the _Income Tax Assessment Act 1997_ for a unit of section&#160;73BH plant, the balancing
+
+adjustment provisions of Division&#160;42 of that Act apply in a modified way:
+
+see section&#160;42-220A of that Act.
+
+ </dl></dl>
+
+_Increase in deduction or assessable amount where section 73BH deductions allowable at 1.25 rate_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>However, if at least one of the deductions mentioned in
+
+paragraph&#160;(1)(b) was worked out by multiplying a notional Division&#160;42
+
+deduction by 1.25, subsection&#160;(3) applies.</dd> <dt>(3)</dt><dd>Any amount (the _eligible_ _subsection (1) amount_): </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>allowable as a deduction to the eligible company under subsection&#160;(1)
+
+of this section for the unit of section&#160;73BH plant; or</dd>
+
+<dt>(b)</dt><dd>included in the assessable income of the eligible company under
+
+subsection&#160;(1) of this section for the unit of section&#160;73BH plant,
+
+where that amount is so included as a result of the application of
+
+section&#160;42-190 of the _Income Tax Assessment Act 1997_ in accordance
+
+with paragraph&#160;(1)(d) of this section;
+
+</dd>
+
+</dl></dl></dl>
 
 is increased by the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image003.gif)</sub>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1203.gif)</sub>
 
 where:
 
-                    <a name="sum-25-rate-notion-division-42-duction"></a>**_sum of all 1.25 rate notional Division 42 deductions_** means the sum of all notional Division 42 deductions that were multiplied by 1.25 in working out the deductions mentioned in paragraph (1)(b) for the unit of section 73BH plant.
+<center>Back to Top</center>
 
-                    <a name="total-declin-valu"></a>**_total decline in value_** means the cost of the unit of section 73BH plant, less its undeducted cost, just before the balancing adjustment event, where that cost and undeducted cost are the amounts taken into account in applying Subdivision 42-F of the _Income Tax Assessment Act 1997_ in accordance with paragraph (1)(d) for the purpose of working out the deduction allowable to the eligible company, or the amount included in the eligible company’s assessable income, under subsection (1) for the unit.
+<def><dl compact=""><dl compact="">
 
-Assessability of amounts received in respect of results etc. of research and development activities
+_sum of all 1.25 rate notional Division 42 deductions_ means
 
-             (4)  Subject to subsections (5) and (6), if:
+the sum of all notional Division&#160;42 deductions that were multiplied by
 
-                     (a)  an eligible company has incurred any expenditure in respect of which:
+1.25 in working out the deductions mentioned in paragraph&#160;(1)(b) for the
 
-                              (i)  a deduction under section 73BH has been allowed or is allowable to the company; or
+unit of section&#160;73BH plant. _total decline in value_ means the cost of the unit of section&#160;73BH plant, less its undeducted cost, just before the balancing adjustment event, where that cost and undeducted cost are the amounts taken into account in applying Subdivision&#160;42-F of the _Income Tax Assessment Act 1997_ in accordance with paragraph&#160;(1)(d) for the purpose of working out the deduction allowable to the eligible company, or the amount included in the eligible company's assessable income, under subsection&#160;(1) for the unit.  </dl></dl>
 
-                             (ii)  in the case of a company whose income was exempt from tax when the expenditure was incurred—a deduction under section 73BH would have been allowable if the company’s income had not been so exempt from tax; and
+_Assessability of amounts received in respect of results etc. of research and development activities_
 
-                     (b)  the eligible company receives or is entitled to receive:
+<dl compact=""><dl compact="">
 
-                              (i)  an amount in respect of the results of any of the research and development activities in relation to which the expenditure was incurred; or
+<dt>(4)</dt><dd>Subject to subsections&#160;(5) and (6), if:
 
-                             (ii)  an amount attributable to the company having incurred the expenditure, including an amount that it is entitled to receive irrespective of the results of the activities;
+</dd> </dl></dl>
 
-that amount is included in the company’s assessable income of the year of income in which the company received or became entitled to receive it.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (5)  The reference in subsection (4) to a company receiving or being entitled to receive an amount in respect of the results of any research and development activities includes a reference to:
+<dt>(a)</dt><dd>an eligible company has incurred any expenditure in respect of which:
 
-                     (a)  the company receiving or being entitled to receive an amount from the grant of access to, or the grant of a right to use, any of those results; and
+</dd>
 
-                     (b)  the company receiving or being entitled to receive an amount from the disposal of, or of an interest in, any section 73BH plant or from the grant of a right to use any section 73BH plant where, as a result of the disposal or grant, another person has acquired a right of access to, or a right to use, any of those results;
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a deduction under section&#160;73BH has been allowed or is allowable to
+
+the company; or</dd>
+
+<dt>(ii)</dt><dd>in the case of a company whose income was exempt from tax when the
+
+expenditure was incurred&#151;a deduction under section&#160;73BH would have been
+
+allowable if the company's income had not been so exempt from tax; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the eligible company receives or is entitled to receive:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an amount in respect of the results of any of the research and development
+
+activities in relation to which the expenditure was incurred; or</dd>
+
+<dt>(ii)</dt><dd>an amount attributable to the company having incurred the expenditure,
+
+including an amount that it is entitled to receive irrespective of the results
+
+of the activities;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+that amount is included in the company's assessable income of the year of income in which the company received or became entitled to receive it.
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The reference in subsection&#160;(4) to a company receiving or being
+
+entitled to receive an amount in respect of the results of any research and
+
+development activities includes a reference to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the company receiving or being entitled to receive an amount from the
+
+grant of access to, or the grant of a right to use, any of those results; and</dd>
+
+<dt>(b)</dt><dd>the company receiving or being entitled to receive an amount from the
+
+disposal of, or of an interest in, any section&#160;73BH plant or from the
+
+grant of a right to use any section&#160;73BH plant where, as a result of the
+
+disposal or grant, another person has acquired a right of access to, or a right
+
+to use, any of those results;
+
+</dd>
+
+</dl></dl></dl>
 
 but does not include a reference to the company receiving or being entitled to receive an amount in consequence of the use by the company of any of those results.
 
-             (6)  If a company receives or is entitled to receive an amount as mentioned in paragraph (5)(b), the amount to be included in the company’s assessable income under subsection (4) is only so much (if any) of the amount mentioned in that paragraph as exceeds the cost to the company of acquiring or constructing the section 73BH plant concerned.
+<dl compact=""><dl compact="">
 
-Definitions
+<dt>(6)</dt><dd>If a company receives or is entitled to receive an amount as mentioned in
 
-             (7)  In this section:
+paragraph&#160;(5)(b), the amount to be included in the company's assessable
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+income under subsection&#160;(4) is only so much (if any) of the amount
 
-                    <a name="notion-division-42-duction"></a>**_notional Division 42 deduction_** has the meaning given by section 73BJ.
+mentioned in that paragraph as exceeds the cost to the company of acquiring or
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+constructing the section&#160;73BH plant concerned.
 
-                    <a name="section-73bh-plant"></a>**_section 73BH plant_** has the meaning given by section 73BI.
+</dd> </dl></dl>
 
-##### <a id="73BN"></a>73BN  Effective life calculation under Division 42 of _Income Tax Assessment Act 1997_ to take into account use for purpose of carrying on research and development activities
+_Definitions_
 
-             (1)  This section has effect for the purposes of working out, under sections 42-105, 42-110 and 42-112 of the _Income Tax Assessment Act 1997_ (whether in their application for the purposes of section 73BH of this Act or otherwise), the effective life of a unit of plant of an eligible company:
+<dl compact=""><dl compact="">
 
-                     (a)  that was acquired, or constructed, under a contract entered into by the company after 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001; or
+<dt>(7)</dt><dd>In this section:
 
-                     (b)  that the company commenced to construct after 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+</dd> </dl></dl>
 
-             (2)  If, at the time at which the effective life is worked out, it is reasonably likely that the plant will be used at some time by any eligible company for the purpose of the carrying on by or on behalf of the eligible company of research and development activities:
+<def><dl compact=""><dl compact="">
 
-                     (a)  references in sections 42-105, 42-110 and 42-112 of the _Income Tax Assessment Act 1997_ to the period the unit can be used by any entity for income producing purposes include references to the period the unit can be used by any eligible company for the purpose of the carrying on by or on behalf of the eligible company of research and development activities; and
+_eligible company_ has the same meaning as in section&#160;73B. _notional Division 42 deduction_ has the meaning given by section&#160;73BJ. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BH plant_ has the meaning given by section&#160;73BI.  </dl></dl>
 
-                     (b)  for the purposes of subsection 42-105(3) and paragraph 42-112(5)(c) of that Act, it is to be concluded that no eligible company that can use the unit for the purpose of the carrying on by or on behalf of the eligible company of research and development activities will scrap the unit, will sell it for scrap value or less or will abandon it, for reasons attributable to technical risk in carrying on those activities.
+<center>Back to Top</center>
 
-             (3)  In this section:
+73BN  Effective life calculation under Division&#160;42 of Income Tax Assessment Act 1997 to take into account use for purpose of carrying on research and development activities
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+<dl compact=""><dl compact="">
 
-                    <a name="plant"></a>**_plant_** has the same meaning as in Division 42 of the _Income Tax Assessment Act 1997._
+<dt>(1)</dt><dd>This section has effect for the purposes of working out, under
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B of this Act.
+sections&#160;42-105, 42-110 and 42-112 of the _Income Tax Assessment Act 1997_ (whether in their application for the purposes of section&#160;73BH of
 
-## 12  Sub-subparagraph 73C(6)(b)(iv)(C)
+this Act or otherwise), the effective life of a unit of plant of an eligible
 
-After “73B”, insert “or 73BH”.
+company:
 
-## 13  Subparagraphs 73C(7)(c)(ii) and (iv)
+</dd> </dl></dl>
 
-After “73B”, insert “or 73BH”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 14  Subsection 73C(9)
+<dt>(a)</dt><dd>that was acquired, or constructed, under a contract entered into by the
 
-Omit “and paragraph 73B(15)(a)”, substitute “, paragraph 73B(15)(a) and subsection 73BH(2)”.
+company after 12 pm, by legal time in the Australian Capital Territory, on
 
-## 15  Subsection 73C(9)
+29&#160;January 2001; or</dd>
 
-Omit “that subsection”, substitute “those subsections”.
+<dt>(b)</dt><dd>that the company commenced to construct after 12 pm, by legal time in the
 
-## 16  Subsection 73C(10)
+Australian Capital Territory, on 29&#160;January 2001.
 
-After “73B”, insert “or 73BH”.
+</dd>
 
-## 17  Subsection 73CA(2)
+</dl></dl></dl>
 
-After “73B”, insert “or 73BH,”.
+<dl compact=""><dl compact="">
 
-## 18  Subsection 73CB(5)
+<dt>(2)</dt><dd>If, at the time at which the effective life is worked out, it is
 
-After “73B”, insert “or 73BH”.
+reasonably likely that the plant will be used at some time by any eligible
 
-## 19  After section 73E
+company for the purpose of the carrying on by or on behalf of the eligible
+
+company of research and development activities:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>references in sections&#160;42-105, 42-110 and 42-112 of the _Income Tax Assessment Act 1997_ to the period the unit can be used by any entity for
+
+income producing purposes include references to the period the unit can be used
+
+by any eligible company for the purpose of the carrying on by or on behalf of
+
+the eligible company of research and development activities; and</dd>
+
+<dt>(b)</dt><dd>for the purposes of subsection 42-105(3) and paragraph 42-112(5)(c) of
+
+that Act, it is to be concluded that no eligible company that can use the unit
+
+for the purpose of the carrying on by or on behalf of the eligible company of
+
+research and development activities will scrap the unit, will sell it for scrap
+
+value or less or will abandon it, for reasons attributable to technical risk in
+
+carrying on those activities.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_eligible company_ has the same meaning as in section&#160;73B. _plant_ has the same meaning as in Division&#160;42 of the _Income Tax Assessment Act 1997._ _research and development activities_ has the same meaning as in section&#160;73B of this Act.  </dl></dl>
+
+12  Sub-subparagraph 73C(6)(b)(iv)(C)
+
+After "73B", insert "or 73BH".
+
+13  Subparagraphs 73C(7)(c)(ii) and (iv)
+
+After "73B", insert "or 73BH".
+
+14  Subsection 73C(9)
+
+Omit "and paragraph 73B(15)(a)", substitute ", paragraph 73B(15)(a) and subsection 73BH(2)".
+
+15  Subsection 73C(9)
+
+Omit "that subsection", substitute "those subsections".
+
+16  Subsection 73C(10)
+
+After "73B", insert "or 73BH".
+
+17  Subsection 73CA(2)
+
+After "73B", insert "or 73BH,".
+
+18  Subsection 73CB(5)
+
+After "73B", insert "or 73BH".
+
+19  After section&#160;73E
 
 Insert:
 
-##### <a id="73EB"></a>73EB  Section 73BM roll-over relief on disposal of plant to another member of wholly-owned group
+73EB  Section&#160;73BM roll-over relief on disposal of plant to another member of wholly-owned group
 
-Roll-over relief where CGT roll-over relief allowed
+_Roll-over relief where CGT roll-over relief allowed_
 
-             (1)  This section applies to the disposal of a unit of section 73BH plant by an eligible company (the **_transferor_**) to another eligible company (the **_transferee_**) if:
+<dl compact=""><dl compact="">
 
-                     (a)  the disposal involves a CGT event for which there is a roll-over under Subdivision 126-B of the _Income Tax Assessment Act 1997_ (or would be, disregarding the exemption in section 118-5 of that Act, so far as it relates to a car, motor cycle or similar vehicle, or to an interest in one); and
+<dt>(1)</dt><dd>This section applies to the disposal of a unit of section&#160;73BH plant
 
-                     (b)  Subdivision 170-D of the _Income Tax Assessment Act 1997_ does not apply to the disposal; and
+by an eligible company (the _transferor_) to another eligible
 
-                     (c)  subject to subsection (5), a deduction or deductions have been allowed or are allowable to the transferor in respect of the unit of plant under section 73BH; and
+company (the _transferee_) if:
 
-                     (d)  no deduction has been allowed or is allowable to the transferor in respect of the unit of plant under Division 42 (Depreciation) of the _Income Tax Assessment Act 1997_.
+</dd> </dl></dl>
 
-No balancing charges for transferor
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Section 73BM does not apply in respect of the disposal of the unit by the transferor.
+<dt>(a)</dt><dd>the disposal involves a CGT event for which there is a roll-over under
 
-Effect on transferee
+Subdivision&#160;126-B of the _Income Tax Assessment Act 1997_ (or would
 
-             (3)  The transferee is entitled to a deduction under section 73BH worked out using the same effective life and method for working out deductions as the transferor was using in respect of the plant under that section.
+be, disregarding the exemption in section&#160;118-5 of that Act, so far as it
 
-Additional consequences
+relates to a car, motor cycle or similar vehicle, or to an interest in one);
 
-             (4)  For the purposes of Division 45 of the _Income Tax Assessment Act 1997_:
+and</dd>
 
-                     (a)  if the transferor, or a partnership of which the transferor was a member, leased the unit of plant to another entity for most of the time when the transferor or partnership held the unit—the transferee is taken also to have done so; and
+<dt>(b)</dt><dd>Subdivision&#160;170-D of the _Income Tax Assessment Act 1997_ does
 
-                     (b)  if the transferor, or a partnership of which the transferor was a member, leased the unit to another entity—the transferee is taken also to have done so; and
+not apply to the disposal; and</dd>
 
-                     (c)  if the main business of the transferor, or a partnership of which the transferor was a member, was to lease units of plant of that kind—the main business of the transferee is taken also to have been to lease units of plant of that kind.
+<dt>(c)</dt><dd>subject to subsection&#160;(5), a deduction or deductions have been
 
-Subsequent applications of roll-over relief—relief available even if no deduction for subsequent transferor
+allowed or are allowable to the transferor in respect of the unit of plant
 
-             (5)  If, apart from this subsection, this section has applied to the disposal of the unit of section 73BH plant to the transferee, then, in working out whether it applies to a subsequent disposal of the unit of plant by:
+under section&#160;73BH; and</dd>
 
-                     (a)  the transferee; or
+<dt>(d)</dt><dd>no deduction has been allowed or is allowable to the transferor in respect
 
-                     (b)  one or more subsequent successive transferees;
+of the unit of plant under Division&#160;42 (Depreciation) of the _Income Tax Assessment Act 1997_.
 
-this section has effect as if paragraph (1)(c) (which deals with deductions) were ignored.
+</dd>
 
-Notice to allow transferee to work out how this section applies
+</dl></dl></dl>
 
-             (6)  The transferor must give the transferee a notice containing enough information about the transferor’s holding of the unit of plant for the transferee to work out how this section applies to the transferee’s holding of it.
+<center>Back to Top</center>
 
-             (7)  The transferor must give the notice within 6 months after the end of the transferee’s year of income in which the disposal mentioned in subsection (1) occurred, or within a longer period allowed by the Commissioner.
+_No balancing charges for transferor_
 
-             (8)  The transferee must keep the notice until the end of 5 years after the earlier of these events:
+<dl compact=""><dl compact="">
 
-                     (a)  the transferee disposes of the unit;
+<dt>(2)</dt><dd>Section&#160;73BM does not apply in respect of the disposal of the unit by
 
-                     (b)  the unit is lost or destroyed.
+the transferor.
 
-                    Penalty:  30 penalty units.
+</dd> </dl></dl>
 
-             (9)  The _Criminal Code_ applies to the offence in subsection (8).
+_Effect on transferee_
 
-## 20  Subsection 82AM(2)
+<dl compact=""><dl compact="">
 
-After “73B”, insert “or 73BH”.
+<dt>(3)</dt><dd>The transferee is entitled to a deduction under section&#160;73BH worked
 
-## 21  Subsection 170(10A)
+out using the same effective life and method for working out deductions as the
 
-After “73B,”, insert “73BH, 73BM,”.
+transferor was using in respect of the plant under that section.
 
-## 22  Subsection 632(2)
+</dd> </dl></dl>
 
-Omit “or 73B”, substitute “, 73B or 73BH”.
+_Additional consequences_
 
-## 23  Subsection 642(2)
+<dl compact=""><dl compact="">
 
-After “73B,”, insert “73BH,”.
+<dt>(4)</dt><dd>For the purposes of Division&#160;45 of the _Income Tax Assessment Act 1997_:
 
-## 24  Subsection 245-140(1) of Schedule 2C (table, column 2)
+</dd> </dl></dl>
 
-After “73B”, insert “or 73BH”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 25  Subsection 57-85(3) of Schedule 2D (table item 13)
+<dt>(a)</dt><dd>if the transferor, or a partnership of which the transferor was a member,
 
-Omit “**Section 73B**”, substitute “**Sections 73B and 73BH**”.
+leased the unit of plant to another entity for most of the time when the
 
-## 26  Subsection 57-110(2) of Schedule 2D (table item 7, column 3)
+transferor or partnership held the unit&#151;the transferee is taken also to have
 
-After “**and (27)**”, insert “**and section 73BM**”.
+done so; and</dd>
 
-## 27  Subsection 57-110(2) of Schedule 2D (table item 7, column 4)
+<dt>(b)</dt><dd>if the transferor, or a partnership of which the transferor was a member,
 
-After “**Section 73B**”, insert “**or 73BH**”.
+leased the unit to another entity&#151;the transferee is taken also to have done
 
-Income Tax Assessment Act 1997
+so; and</dd>
 
-## 28  Section 10-5 (table item headed “research &amp; development”)
+<dt>(c)</dt><dd>if the main business of the transferor, or a partnership of which the
 
-After “disposal” insert “etc.”.
+transferor was a member, was to lease units of plant of that kind&#151;the main
 
-## 29  Section 10-5 (table item headed “research &amp; development”)
+business of the transferee is taken also to have been to lease units of plant
 
-After “**to (27C),**”, insert “**73BM**,”.
+of that kind.
 
-## 30  Section 10-5 (table item headed “research &amp; development”)
+</dd>
 
-After “**73B(27A), (27C)**”, insert “**, 73BM(4), (6)**”.
+</dl></dl></dl>
 
-## 31  Section 20-5 (table item 5)
+_Subsequent applications of roll-over reliefrelief available even if no deduction for subsequent transferor_
 
-After “**73B(27A)**”, insert “**, 73BM(4)**”.
+<dl compact=""><dl compact="">
 
-## 32  Subsection 20-30(2) (table item 2.8)
+<dt>(5)</dt><dd>If, apart from this subsection, this section has applied to the disposal
 
-After “**73B**”, insert “**or 73BH**”.
+of the unit of section&#160;73BH plant to the transferee, then, in working out
 
-## 33  At the end of section 42-25
+whether it applies to a subsequent disposal of the unit of plant by:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transferee; or</dd>
+
+<dt>(b)</dt><dd>one or more subsequent successive transferees;
+
+</dd>
+
+</dl></dl></dl>
+
+this section has effect as if paragraph&#160;(1)(c) (which deals with deductions) were ignored.
+
+_Notice to allow transferee to work out how this section applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>The transferor must give the transferee a notice containing enough
+
+information about the transferor's holding of the unit of plant for the
+
+transferee to work out how this section applies to the transferee's holding of
+
+it.</dd> <dt>(7)</dt><dd>The transferor must give the notice within 6 months after the end of the transferee's year of income in which the disposal mentioned in subsection&#160;(1) occurred, or within a longer period allowed by the Commissioner.</dd> <dt>(8)</dt><dd>The transferee must keep the notice until the end of 5 years after the earlier of these events: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transferee disposes of the unit;</dd>
+
+<dt>(b)</dt><dd>the unit is lost or destroyed.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	30 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(9)</dt><dd>The _Criminal Code_ applies to the offence in subsection&#160;(8).
+
+</dd> </dl></dl>
+
+20  Subsection 82AM(2)
+
+After "73B", insert "or 73BH".
+
+21  Subsection 170(10A)
+
+After "73B,", insert "73BH, 73BM,".
+
+22  Subsection 632(2)
+
+Omit "or 73B", substitute ", 73B or 73BH".
+
+23  Subsection 642(2)
+
+After "73B,", insert "73BH,".
+
+<center>Back to Top</center>
+
+24  Subsection 245-140(1) of Schedule&#160;2C (table, column 2)
+
+After "73B", insert "or 73BH".
+
+25  Subsection 57-85(3) of Schedule&#160;2D (table item&#160;13)
+
+Omit "Section&#160;73B", substitute "Sections&#160;73B and 73BH".
+
+26  Subsection 57-110(2) of Schedule&#160;2D (table item&#160;7, column 3)
+
+After "and (27)", insert "and section&#160;73BM".
+
+27  Subsection 57-110(2) of Schedule&#160;2D (table item&#160;7, column 4)
+
+After "Section&#160;73B", insert "or 73BH". 
+
+_Income Tax Assessment Act 1997_
+
+28  Section&#160;10-5 (table item headed "research &amp; development")
+
+After "disposal" insert "etc.".
+
+29  Section&#160;10-5 (table item headed "research &amp; development")
+
+After "to (27C),", insert "73BM,".
+
+30  Section&#160;10-5 (table item headed "research &amp; development")
+
+After "73B(27A), (27C)", insert ", 73BM(4), (6)".
+
+31  Section&#160;20-5 (table item&#160;5)
+
+After "73B(27A)", insert ", 73BM(4)".
+
+32  Subsection 20-30(2) (table item&#160;2.8)
+
+After "73B", insert "or 73BH".
+
+33  At the end of section&#160;42-25
 
 Add:
 
-             (4)  If you can deduct an amount for the <sup>* </sup>plant under section 73BH of the _Income Tax Assessment Act 1936_:
+<dl compact=""><dl compact="">
 
-                     (a)  for a period before the first period for which you can deduct an amount for the plant under this Division; or
+<dt>(4)</dt><dd>If you can deduct an amount for the <sup>*</sup>plant under
 
-                     (b)  for a period that starts at the same time as the first period for which you can deduct an amount for the plant under this Division;
+section&#160;73BH of the _Income Tax Assessment Act 1936_:
 
-you must, for the purposes of this Division, use the same method as you used, or use, for the plant for the purposes of working out the deduction under section 73BH.
+</dd> </dl></dl>
 
-## 34  Subsection 42-45(2)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “unless you have elected under subsection 73B(18) of the _Income Tax Assessment Act 1936_ that the research and development provisions are not to apply to the plant”, substitute “, for which a deduction would be allowable under section 73B of the _Income Tax Assessment Act 1936_, unless you have made an election under subsection 73B(18) of that Act that that section does not apply to the plant”.
+<dt>(a)</dt><dd>for a period before the first period for which you can deduct an amount
 
-## 35  Section 42-65 (table item 9)
+for the plant under this Division; or</dd>
 
-Omit “the research and development provisions”, substitute “section 73B of the _Income Tax Assessment Act 1936_”.
+<dt>(b)</dt><dd>for a period that starts at the same time as the first period for which
 
-## 36  Paragraph 42-85(2)(a)
+you can deduct an amount for the plant under this Division;
 
-Omit “section 73B”, substitute “sections 73B and 73BH”.
+</dd>
 
-## 37  At the end of paragraph 42-85(2)(a)
+</dl></dl></dl>
+
+you must, for the purposes of this Division, use the same method as you used, or use, for the plant for the purposes of working out the deduction under section&#160;73BH.
+
+34  Subsection 42-45(2)
+
+Omit "unless you have elected under subsection 73B(18) of the _Income Tax Assessment Act 1936_ that the research and development provisions are not to apply to the plant", substitute ", for which a deduction would be allowable under section&#160;73B of the _Income Tax Assessment Act 1936_, unless you have made an election under subsection 73B(18) of that Act that that section does not apply to the plant".
+
+35  Section&#160;42-65 (table item&#160;9)
+
+Omit "the research and development provisions", substitute "section&#160;73B of the _Income Tax Assessment Act 1936_".
+
+36  Paragraph 42-85(2)(a)
+
+Omit "section&#160;73B", substitute "sections&#160;73B and 73BH".
+
+37  At the end of paragraph 42-85(2)(a)
 
 Add:
 
-Note:       Paragraph (a) does not have the effect that deductions for the same amount of any such expenditure will be allowable under both this Division and section 73B or 73BH. Such an outcome is prevented by section 42-15 (including as applied by section 73BJ for the purposes of section 73BH) and subsections 73B(20) and 73BH(6).
+Note:	Paragraph&#160;(a) does not have the effect that deductions for the same amount of any such expenditure will be allowable under both this Division and section&#160;73B or 73BH. Such an outcome is prevented by section&#160;42-15 (including as applied by section&#160;73BJ for the purposes of section&#160;73BH) and subsections 73B(20) and 73BH(6).
 
-## 38  At the end of section 42-100
+38  At the end of section&#160;42-100
 
 Add:
 
-Note:          Section 73BN of the _Income Tax Assessment Act 1936_ modifies the way in which the effective life of plant is worked out for certain companies. That section applies if it is reasonably likely that the plant will be used for the purpose of the carrying on by or on behalf of the company of research and development activities (as defined in section 73B of that Act).
+<dl compact=""><dl compact="">
 
-## 39  After section 42-220
+Note:	Section&#160;73BN of the _Income Tax Assessment Act 1936_ modifies the way in which the effective life of plant is worked out
+
+for certain companies. That section applies if it is reasonably likely that the
+
+plant will be used for the purpose of the carrying on by or on behalf of the
+
+company of research and development activities (as defined in section&#160;73B
+
+of that Act).
+
+ </dl></dl>
+
+39  After section&#160;42-220
 
 Insert:
 
-##### <a id="42-220A"></a>42-220A  Plant for which there are deductions under section 73BH of _Income Tax Assessment Act 1936_ (research and development)
+42-220A  Plant for which there are deductions under section&#160;73BH of Income Tax Assessment Act 1936 (research and development)
 
-Section applies if deductions for depreciation under section 73BH
+_Section applies if deductions for depreciation under section 73BH_
 
-             (1)  This section applies if you have deducted or can deduct an amount for the <sup>* </sup>plant under section 73BH of the _Income Tax Assessment Act 1936_ for any income year.
+<dl compact=""><dl compact="">
 
-Application of sections 42-190 to 42-197 to take into account section 73BH deductions
+<dt>(1)</dt><dd>This section applies if you have deducted or can deduct an amount for the
 
-             (2)  If this section applies, you must, in applying sections 42-190 to 42-197 in relation to the <sup>* </sup>plant, assume that the changes set out in subsections (3) to (5) of this section were made.
+<sup>*</sup>plant under section&#160;73BH of the _Income Tax Assessment Act 1936_ for any income year.
 
-First change
+</dd> </dl></dl>
 
-             (3)  The first change is that the references in any of sections 42-190 to 42-197, and in sections 42-175 and 42-200 and subsection 110-55(4) as applied for the purposes of those sections, to amounts you have deducted or can deduct for depreciation of the <sup>* </sup>plant include references to the notional Division 42 deductions taken into account under section 73BH of the _Income Tax Assessment Act 1936_ in working out:
+<center>Back to Top</center>
 
-                     (a)  amounts you have deducted or can deduct for the plant under that section; and
+_Application of sections 42-190 to 42-197 to take into account section 73BH deductions_
 
-                     (b)  if section 73EB of that Act applied to the disposal to you of the plant—amounts the transferor, and any earlier successive transferor, have deducted or can deduct for the plant under section 73BH.
+<dl compact=""><dl compact="">
 
-Second change
+<dt>(2)</dt><dd>If this section applies, you must, in applying sections&#160;42-190 to
 
-             (4)  The second change is that the reference in paragraph 42-175(1)(b) to any further amounts you could have deducted for depreciation of the plant for any period you were its owner or <sup>* </sup>quasi-owner and used it, assuming you used it wholly for the purpose of producing assessable income during that period, includes a reference to:
+42-197 in relation to the <sup>*</sup>plant, assume that the changes set out in
 
-                     (a)  any further amounts you could have deducted for the plant under section 73BH of the _Income Tax Assessment Act 1936_, for any period you were its owner or <sup>* </sup>quasi-owner and used it, assuming that you used it wholly for the purpose of the carrying on by or on behalf of you of research and development activities (within the meaning of section 73B of that Act); and
+subsections&#160;(3) to (5) of this section were made.
 
-                     (b)  if section 73EB of that Act applied to the disposal to you of the plant—any further amounts the transferor, and any earlier successive transferor, could have deducted for the plant under section 73BH of that Act for any period assuming that person was its owner or <sup>* </sup>quasi-owner and used it wholly for the purpose of the carrying on by or on behalf of that person of research and development activities.
+</dd> </dl></dl>
 
-Third change
+_First change_
 
-             (5)  The third change is that the reference in section 42-195 to the extent to which you used the plant other than for the purpose of producing assessable income is instead a reference to the extent to which you used the plant other than for that purpose or the purpose of the carrying on by or on behalf of you of research and development activities.
+<dl compact=""><dl compact="">
 
-Increase in amounts deductible or certain assessable amounts where 1.25 rate deductions under section 73BH
+<dt>(3)</dt><dd>The first change is that the references in any of sections&#160;42-190 to
 
-             (6)  If:
+42-197, and in sections&#160;42-175 and 42-200 and subsection 110-55(4) as
 
-                     (a)  this section applies; and
+applied for the purposes of those sections, to amounts you have deducted or can
 
-                     (b)  the amount you have deducted or can deduct for the <sup>* </sup>plant under section 73BH of the _Income Tax Assessment Act 1936_, as mentioned in subsection (1) of this section, for at least one income year was worked out by multiplying a notional Division 42 deduction (within the meaning of section 73BJ) by 1.25;
+deduct for depreciation of the <sup>*</sup>plant include references to the
 
-then subsection (7) applies.
+notional Division&#160;42 deductions taken into account under section&#160;73BH
 
-             (7)  Any amount (the **_eligible assessable/deductible amount_**) included in your assessable income for the plant under section 42-190 (as applied in accordance with subsection (2) of this section), or any amount you can deduct for the <sup>* </sup>plant under section 42-195 or 42-197 (as applied in accordance with subsection (2) of this section), is increased by the amount worked out using the formula:
+of the _Income Tax Assessment Act 1936_ in working out:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image004.gif)</sub>
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>amounts you have deducted or can deduct for the plant under that section;
+
+and</dd>
+
+<dt>(b)</dt><dd>if section&#160;73EB of that Act applied to the disposal to you of the
+
+plant&#151;amounts the transferor, and any earlier successive transferor, have
+
+deducted or can deduct for the plant under section&#160;73BH.
+
+</dd>
+
+</dl></dl></dl>
+
+_Second change_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The second change is that the reference in paragraph 42-175(1)(b) to any
+
+further amounts you could have deducted for depreciation of the plant for any
+
+period you were its owner or <sup>*</sup>quasi-owner and used it, assuming you
+
+used it wholly for the purpose of producing assessable income during that
+
+period, includes a reference to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any further amounts you could have deducted for the plant under
+
+section&#160;73BH of the _Income Tax Assessment Act 1936_, for any period
+
+you were its owner or <sup>*</sup>quasi-owner and used it, assuming that you
+
+used it wholly for the purpose of the carrying on by or on behalf of you of
+
+research and development activities (within the meaning of section&#160;73B of
+
+that Act); and</dd>
+
+<dt>(b)</dt><dd>if section&#160;73EB of that Act applied to the disposal to you of the
+
+plant&#151;any further amounts the transferor, and any earlier successive
+
+transferor, could have deducted for the plant under section&#160;73BH of that
+
+Act for any period assuming that person was its owner or
+
+<sup>*</sup>quasi-owner and used it wholly for the purpose of the carrying on
+
+by or on behalf of that person of research and development activities.
+
+</dd>
+
+</dl></dl></dl>
+
+_Third change_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The third change is that the reference in section&#160;42-195 to the
+
+extent to which you used the plant other than for the purpose of producing
+
+assessable income is instead a reference to the extent to which you used the
+
+plant other than for that purpose or the purpose of the carrying on by or on
+
+behalf of you of research and development activities.
+
+</dd> </dl></dl>
+
+_Increase in amounts deductible or certain assessable amounts where 1.25 rate deductions under section 73BH_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>this section applies; and</dd>
+
+<dt>(b)</dt><dd>the amount you have deducted or can deduct for the <sup>*</sup>plant under
+
+section&#160;73BH of the _Income Tax Assessment Act 1936_, as mentioned in
+
+subsection&#160;(1) of this section, for at least one income year was worked
+
+out by multiplying a notional Division&#160;42 deduction (within the meaning of
+
+section&#160;73BJ) by 1.25;
+
+</dd>
+
+</dl></dl></dl>
+
+then subsection&#160;(7) applies.
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>Any amount (the _eligible assessable/deductible amount_)
+
+included in your assessable income for the plant under section&#160;42-190 (as
+
+applied in accordance with subsection&#160;(2) of this section), or any amount
+
+you can deduct for the <sup>*</sup>plant under section&#160;42-195 or 42-197
+
+(as applied in accordance with subsection&#160;(2) of this section), is
+
+increased by the amount worked out using the formula:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1204.gif)</sub>
 
 where:
 
-                    <a name="sum-25-rate-notion-division-42-duction"></a>**_sum of all 1.25 rate notional Division 42 deductions_** means the sum of all notional Division 42 deductions (see paragraph (6)(b)) that were multiplied by 1.25 in working out the amounts you have deducted or can deduct for the plant as mentioned in subsection (1).
+<def><dl compact=""><dl compact="">
 
-                    <a name="total-declin-valu"></a>**_total decline in value_** means the <sup>* </sup>cost of the plant, less its <sup>* </sup>undeducted cost, just before the balancing adjustment event (after applying subsection (2) of this section).
+_sum of all 1.25 rate notional Division 42 deductions_ means
 
-_Note:       The heading to section 42-220 is replaced by the following heading “Plant for which there are deductions under section 73B of Income Tax Assessment Act 1936 (research and development)”._
+the sum of all notional Division&#160;42 deductions (see paragraph&#160;(6)(b))
 
-## 40  At the end of section 42-365
+that were multiplied by 1.25 in working out the amounts you have deducted or
+
+can deduct for the plant as mentioned in subsection&#160;(1). _total decline in value_ means the <sup>*</sup>cost of the plant, less its <sup>*</sup>undeducted cost, just before the balancing adjustment event (after applying subsection&#160;(2) of this section).  </dl></dl>
+
+Note:	The heading to section&#160;42-220 is replaced by the following heading "Plant for which there are deductions under section&#160;73B of _Income Tax Assessment Act 1936_ (research and development)".
+
+40  At the end of section&#160;42-365
 
 Add:
 
-             (2)  However, you cannot allocate <sup>* </sup>plant to a <sup>* </sup>pool if you can deduct an amount for the plant under section 73BH of the _Income Tax Assessment Act 1936_ for a period before, or starting at the same time as, the allocation would have effect.
+<dl compact=""><dl compact="">
 
-## 41  At the end of section 42-455
+<dt>(2)</dt><dd>However, you cannot allocate <sup>*</sup>plant to a <sup>*</sup>pool if
+
+you can deduct an amount for the plant under section&#160;73BH of the _Income Tax Assessment Act 1936_ for a period before, or starting at the same time
+
+as, the allocation would have effect.
+
+</dd> </dl></dl>
+
+41  At the end of section&#160;42-455
 
 Add:
 
-             (4)  However, you cannot choose to allocate <sup>* </sup>low-cost plant to a <sup>* </sup>low-value pool if you can deduct an amount for the plant under section 73BH of the _Income Tax Assessment Act 1936_ for a period before, or starting at the same time as, the allocation would have effect.
+<dl compact=""><dl compact="">
 
-## 42  Paragraph 43-70(2)(g)
+<dt>(4)</dt><dd>However, you cannot choose to allocate <sup>*</sup>low-cost plant to a
 
-After “73B”, insert “or 73BH”.
+<sup>*</sup>low-value pool if you can deduct an amount for the plant under
 
-## 43  Subsection 108-55(1) (table item 3)
+section&#160;73BH of the _Income Tax Assessment Act 1936_ for a period
 
-After “73B”, insert “or 73BM”.
+before, or starting at the same time as, the allocation would have effect.
 
-## 44  Subsections 118-35(1), (2) and (3)
+</dd> </dl></dl>
 
-After “73B(27A)”, insert “or 73BM(4)”.
+42  Paragraph 43-70(2)(g)
 
-Industry Research and Development Act 1986
+After "73B", insert "or 73BH".
 
-## 45  Subparagraph 39EB(3)(c)(ii)
+43  Subsection 108-55(1) (table item&#160;3)
 
-After “73B”, insert “or 73BH”.
+After "73B", insert "or 73BM".
 
-## 46  Subsection 39EC(1)
+44  Subsections 118-35(1), (2) and (3)
 
-After “73B”, insert “or 73BH”.
+After "73B(27A)", insert "or 73BM(4)". 
 
-## 47  Subparagraph 39EC(2)(d)(iii)
+_Industry Research and Development Act 1986_
 
-After “73B”, insert “or 73BH”.
+45  Subparagraph 39EB(3)(c)(ii)
 
-## 48  Paragraphs 39EE(1)(c) and (2)(b) and 39EF(2)(b)
+After "73B", insert "or 73BH".
 
-After “73B”, insert “or 73BH”.
+46  Subsection 39EC(1)
 
-## 49  Subsection 39HH(2) (note)
+After "73B", insert "or 73BH".
 
-After “73B”, insert “or 73BH”.
+47  Subparagraph 39EC(2)(d)(iii)
 
-## 50  Paragraph 39N(3)(b)
+After "73B", insert "or 73BH".
 
-Omit “subsection 73B(33A)”, substitute “subsections 73B(33A) and 73BM(4)”.
+48  Paragraphs 39EE(1)(c) and (2)(b) and 39EF(2)(b)
 
-## 51  Application
+After "73B", insert "or 73BH".
 
-The amendments made by this Division to the _Income Tax Assessment Act 1936_ and the _Income Tax Assessment Act 1997_ apply to assessments for the income year in which 29 January 2001 occurs and for later income years.
+49  Subsection 39HH(2) (note)
 
-Division 2—Amendments commencing immediately after the _New Business Tax System (Capital Allowances) Act 2001_
+After "73B", insert "or 73BH".
 
-Income Tax Assessment Act 1936
+50  Paragraph 39N(3)(b)
 
-## 52  Subsection 73B(1) (after paragraph (ba) of the definition of _aggregate research and development amount_)
+Omit "subsection 73B(33A)", substitute "subsections 73B(33A) and 73BM(4)".
+
+51  Application
+
+The amendments made by this Division to the _Income Tax Assessment Act 1936_ and the _Income Tax Assessment Act 1997_ apply to assessments for the income year in which 29&#160;January 2001 occurs and for later income years.
+
+Division&#160;2&#151;Amendments commencing immediately after the New Business Tax System (Capital Allowances) Act 2001 
+
+_Income Tax Assessment Act 1936_
+
+52  Subsection 73B(1) (after paragraph&#160;(ba) of the definition of aggregate research and development amount)
 
 Insert:
 
-                  (baa)  the amount of any notional Division 40 deduction (as defined in section 73BC) taken into account in working out a deduction allowed or allowable to the company under section 73BA in respect of the year of income, or that would have been so allowed or allowable if the company had not chosen a tax offset under section 73BI; and
+<dl compact=""><dl compact=""><dl compact="">
 
-## 53  Subsection 73B(1) (paragraph (b) of the definition of _excluded plant expenditure_)
+<dt>(baa)</dt><dd>the amount of any notional Division&#160;40 deduction (as defined in
 
-Before “unit”, insert “section 73BA depreciating asset (as defined by section 73BB) or a”.
+section&#160;73BC) taken into account in working out a deduction allowed or
 
-## 54  After section 73B
+allowable to the company under section&#160;73BA in respect of the year of
+
+income, or that would have been so allowed or allowable if the company had not
+
+chosen a tax offset under section&#160;73BI; and
+
+</dd>
+
+</dl></dl></dl>
+
+53  Subsection 73B(1) (paragraph&#160;(b) of the definition of excluded plant expenditure)
+
+Before "unit", insert "section&#160;73BA depreciating asset (as defined by section&#160;73BB) or a".
+
+54  After section&#160;73B
+
+<center>Back to Top</center>
 
 Insert:
 
-##### <a id="73BA"></a>73BA  Deduction for certain assets etc. used for the purpose of carrying on research and development activities
+73BA  Deduction for certain assets etc. used for the purpose of carrying on research and development activities
 
-Object
+_Object_
 
-             (1)  The object of this section is to provide a tax incentive, in the form of a deduction, to make eligible companies more internationally competitive by:
+<dl compact=""><dl compact="">
 
-                     (a)  encouraging the development by eligible companies of innovative products, processes and services; and
+<dt>(1)</dt><dd>The object of this section is to provide a tax incentive, in the form of a
 
-                     (b)  increasing investment by eligible companies in defined research and development activities; and
+deduction, to make eligible companies more internationally competitive by:
 
-                     (c)  promoting the technological advancement of eligible companies through a focus on innovation and high technical risk in defined research and development activities; and
+</dd> </dl></dl>
 
-                     (d)  encouraging the use by eligible companies of strategic research and development planning; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  creating an environment that is conducive to increased commercialisation of new processes and product technologies developed by eligible companies.
+<dt>(a)</dt><dd>encouraging the development by eligible companies of innovative products,
+
+processes and services; and</dd>
+
+<dt>(b)</dt><dd>increasing investment by eligible companies in defined research and
+
+development activities; and</dd>
+
+<dt>(c)</dt><dd>promoting the technological advancement of eligible companies through a
+
+focus on innovation and high technical risk in defined research and development
+
+activities; and</dd>
+
+<dt>(d)</dt><dd>encouraging the use by eligible companies of strategic research and
+
+development planning; and</dd>
+
+<dt>(e)</dt><dd>creating an environment that is conducive to increased commercialisation
+
+of new processes and product technologies developed by eligible companies.
+
+</dd>
+
+</dl></dl></dl>
 
 The benefits of the tax incentive are targeted by being limited to particular expenditure on certain defined activities.
 
-Entitlement to deduction
+_Entitlement to deduction_
 
-             (2)  If an eligible company has a notional Division 40 deduction for a section 73BA depreciating asset for a year of income, the company is entitled to a deduction under this section for the asset for the year of income.
+<dl compact=""><dl compact="">
 
-Amount of deduction
+<dt>(2)</dt><dd>If an eligible company has a notional Division&#160;40 deduction for a
 
-             (3)  If the eligible company’s aggregate research and development amount for the year of income is more than $20,000, the deduction is equal to the notional Division 40 deduction multiplied by 1.25\. If not, it equals the notional Division 40 deduction.
+section&#160;73BA depreciating asset for a year of income, the company is
 
-No deduction if earlier STS or Division 40 low-value pool deductions allowable
+entitled to a deduction under this section for the asset for the year of income.
 
-             (4)  An eligible company is not entitled to a deduction under this section for a section 73BA depreciating asset for any period if the company was entitled to:
+</dd> </dl></dl>
 
-                     (a)  a deduction for the asset for any earlier period under Subdivision 328-D (about STS taxpayers) of the _Income Tax Assessment Act 1997_; or
+_Amount of deduction_
 
-                     (b)  a deduction for the asset for any earlier period under Division 40 of that Act, in a case to which section 40-440 (about low-value pools) of that Act applied.
+<dl compact=""><dl compact="">
 
-Expenditure deductible etc. under this section not deductible under other provisions
+<dt>(3)</dt><dd>If the eligible company's aggregate research and development amount for
 
-             (7)  If the whole or a part of an amount of expenditure incurred by an eligible company:
+the year of income is more than $20,000, the deduction is equal to the notional
 
-                     (a)  has been allowed or is or may become allowable as a deduction under this section; or
+Division&#160;40 deduction multiplied by 1.25\. If not, it equals the notional
 
-                     (b)  would have been so allowed or become so allowable if the company had not chosen a tax offset under section 73I;
+Division&#160;40 deduction.
+
+</dd> </dl></dl>
+
+_No deduction if earlier STS or Division 40 low-value pool deductions allowable_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>An eligible company is not entitled to a deduction under this section for
+
+a section&#160;73BA depreciating asset for any period if the company was
+
+entitled to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a deduction for the asset for any earlier period under
+
+Subdivision&#160;328-D (about STS taxpayers) of the _Income Tax Assessment Act 1997_; or</dd>
+
+<dt>(b)</dt><dd>a deduction for the asset for any earlier period under Division&#160;40 of
+
+that Act, in a case to which section&#160;40-440 (about low-value pools) of
+
+that Act applied.
+
+</dd>
+
+</dl></dl></dl>
+
+_Expenditure deductible etc. under this section not deductible under other provisions_
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>If the whole or a part of an amount of expenditure incurred by an eligible
+
+company:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has been allowed or is or may become allowable as a deduction under this
+
+section; or</dd>
+
+<dt>(b)</dt><dd>would have been so allowed or become so allowable if the company had not
+
+chosen a tax offset under section&#160;73I;
+
+</dd>
+
+</dl></dl></dl>
 
 that whole or part is not an allowable deduction, and is not to be taken into account in working out the amount of an allowable deduction, from the assessable income of the company of any year of income under any other provision of this Act.
 
-Definitions
+_Definitions_
 
-             (8)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="aggreg-research-develop-amount"></a>**_aggregate research and development amount_** has the same meaning as in section 73B.
+<dt>(8)</dt><dd>In this section:
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+</dd> </dl></dl>
 
-                    <a name="notion-division-40-duction"></a>**_notional Division 40 deduction_** has the meaning given by section 73BC.
+<center>Back to Top</center>
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+<def><dl compact=""><dl compact="">
 
-                    <a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** has the meaning given by section 73BB.
+_aggregate research and development amount_ has the same meaning as
 
-##### <a id="73BB"></a>73BB  Meaning of _section 73BA depreciating asset_
+in section&#160;73B. _eligible company_ has the same meaning as in section&#160;73B. _notional Division 40 deduction_ has the meaning given by section&#160;73BC. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BA depreciating asset_ has the meaning given by section&#160;73BB.  </dl></dl>
 
-             (1)  A **_section 73BA depreciating asset_** of an eligible company is an asset for which the eligible company could (ignoring section 73BA) deduct an amount under section 40-25 of the _Income Tax Assessment Act 1997_ if the following assumptions were made:
+73BB  Meaning of section&#160;73BA depreciating asset
 
-                     (b)  contrary to paragraph 40-30(1)(c) and subsection 40-30(2) of that Act, all intangible assets were excluded from the definition of **_depreciating asset_** in section 40-30 of that Act;
+<dl compact=""><dl compact="">
 
-                     (c)  subsection 40-45(2) of that Act did not, except in the case of buildings, prevent that Division from applying to capital works to which Division 43 of the _Income Tax Assessment Act 1997_ applies, or to which that Division would apply but for expenditure being incurred, or capital works being started, before a particular day;
+<dt>(1)</dt><dd>A _section 73BA depreciating asset_ of an eligible
 
-                     (d)  the eligible company satisfied any relevant requirement for deductibility under that Division.
+company is an asset for which the eligible company could (ignoring
 
-             (2)  In this section:
+section&#160;73BA) deduct an amount under section&#160;40-25 of the _Income Tax Assessment Act 1997_ if the following assumptions were made:
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+</dd> </dl></dl>
 
-##### <a id="73BC"></a>73BC  Meaning of _notional Division 40 deduction_
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  An eligible company has a **_notional Division 40 deduction_** for a section 73BA depreciating asset for a year of income if it would be entitled to a deduction under section 40-25  of the _Income Tax Assessment Act 1997_ for the asset for the year of income assuming the changes set out in this section were made.
+<dt>(b)</dt><dd>contrary to paragraph 40-30(1)(c) and subsection 40-30(2) of that Act, all
 
-First change: replacement of references to use or installation ready for use for purpose of producing assessable income or for taxable purpose
+intangible assets were excluded from the definition of _depreciating asset_ in section&#160;40-30 of that Act;</dd>
 
-             (2)  The first change is that references in Division 40 of the _Income Tax Assessment Act 1997_ (other than for the purposes of sections 40-100, 40-105 and 40-110) to using the asset, or having it installed ready for use:
+<dt>(c)</dt><dd>subsection 40-45(2) of that Act did not, except in the case of buildings,
 
-                     (a)  for the purpose of producing assessable income; or
+prevent that Division from applying to capital works to which Division&#160;43
 
-                     (b)  for a taxable purpose;
+of the _Income Tax Assessment Act 1997_ applies, or to which that Division
+
+would apply but for expenditure being incurred, or capital works being started,
+
+before a particular day;</dd>
+
+<dt>(d)</dt><dd>the eligible company satisfied any relevant requirement for deductibility
+
+under that Division.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_eligible company_ has the same meaning as in section&#160;73B.
+
+ </dl></dl>
+
+73BC  Meaning of notional Division&#160;40 deduction
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>An eligible company has a _notional Division 40 deduction_ for a section&#160;73BA depreciating asset for a year of
+
+income if it would be entitled to a deduction under section&#160;40-25  of the _Income Tax Assessment Act 1997_ for the asset for the year of
+
+income assuming the changes set out in this section were made.
+
+</dd> </dl></dl>
+
+_First change: replacement of references to use or installation ready for use for purpose of producing assessable income or for taxable purpose_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The first change is that references in Division&#160;40 of the _Income Tax Assessment Act 1997_ (other than for the purposes of
+
+sections&#160;40-100, 40-105 and 40-110) to using the asset, or having it
+
+installed ready for use:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for the purpose of producing assessable income; or</dd>
+
+<dt>(b)</dt><dd>for a taxable purpose;
+
+</dd>
+
+</dl></dl></dl>
 
 are instead references to using the asset for the purpose of the carrying on by or on behalf of the eligible company of research and development activities.
 
-Note:          Section 73BG modifies sections 40-100, 40-105 and 40-110 (about effective life) so that a reference to the research and development purpose is added to the existing references, rather than replacing them.
+<dl compact=""><dl compact="">
 
-Second change: method for working out decline in value where previous Division 40 deduction
+Note:	Section&#160;73BG modifies sections&#160;40-100, 40-105 and
 
-             (3)  The second change is that, if the eligible company was actually entitled to a deduction under Division 40 of the _Income Tax Assessment Act 1997_ for the section 73BA depreciating asset for any period before the start of the first period for which the company will be entitled to a deduction for the asset under this subsection, the same method for working out the decline in value as the company was using for the asset for the earlier period is used.
+40-110 (about effective life) so that a reference to the research and
 
-Third change: treatment of expenditure to which section 73BD or 73BE applies
+development purpose is added to the existing references, rather than replacing
 
-             (4)  The third change is that, in working out the cost of the section 73BA depreciating asset, any amount of expenditure (**_section 73BA depreciating asset expenditure_**) that would otherwise form part of that cost is to be ignored or treated in some other way if section 73BD or 73BE so provides for the purposes of this section.
+them.
 
-Fourth change: certain provisions to be ignored
+ </dl></dl>
 
-             (5)  The fourth change is that Division 40 of the _Income Tax Assessment Act 1997_ applies as if section 73BA of this Act, and section 40-425 and Subdivision 328-D of that Act, had not been enacted.
+_Second change: method for working out decline in value where previous Division 40 deduction_
 
-             (6)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+<dt>(3)</dt><dd>The second change is that, if the eligible company was actually entitled
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+to a deduction under Division&#160;40 of the _Income Tax Assessment Act 1997_ for the section&#160;73BA depreciating asset for any period before the
 
-                    <a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** has the meaning given by section 73BB.
+start of the first period for which the company will be entitled to a deduction
 
-##### <a id="73BD"></a>73BD  Treatment of certain expenditure for the purposes of section 73BC etc.
+for the asset under this subsection, the same method for working out the
 
-Requirement for registration under Industry Research and Development Act
+decline in value as the company was using for the asset for the earlier period
 
-             (1)  Section 73BA depreciating asset expenditure incurred by an eligible company in a year of income in relation to research and development activities is ignored for the purposes of section 73BC unless:
+is used.
 
-                     (a)  the company is registered, in relation to the year of income and in relation to those activities, under section 39J of the _Industry Research and Development Act 1986_; or
+</dd> </dl></dl>
 
-                     (b)  the company is registered, in relation to the year of income and in relation to a project comprising or including those activities, under section 39P of that Act.
+<center>Back to Top</center>
 
-Non-arm’s length expenditure
+_Third change: treatment of expenditure to which section 73BD or 73BE applies_
 
-             (2)  If:
+<dl compact=""><dl compact="">
 
-                     (a)  an eligible company has incurred an amount of section 73BA depreciating asset expenditure; and
+<dt>(4)</dt><dd>The third change is that, in working out the cost of the section&#160;73BA
 
-                     (b)  the Commissioner is satisfied that:
+depreciating asset, any amount of expenditure (_section 73BA depreciating asset expenditure_) that would otherwise form part of that
 
-                              (i)  having regard to any connection between the company and the person to whom the expenditure was incurred and to any other relevant circumstances, the company and that other person were not dealing with each other at arm’s length in relation to the incurring of that expenditure; and
+cost is to be ignored or treated in some other way if section&#160;73BD or 73BE
 
-                             (ii)  the amount of that expenditure would have been less if the company and that other person had dealt with each other at arm’s length in relation to the incurring of that expenditure;
+so provides for the purposes of this section.
 
-so much only of that expenditure is to be taken into account for the purposes of section 73BC as the Commissioner considers reasonable having regard to:
+</dd> </dl></dl>
 
-                     (c)  the connection between the company and that other person; and
+_Fourth change: certain provisions to be ignored_
 
-                     (d)  the amount of the expenditure that would, in the opinion of the Commissioner, have been incurred by the company if the company and that other person had dealt with each other at arm’s length in relation to the incurring of that expenditure; and
+<dl compact=""><dl compact="">
 
-                     (e)  such other matters as the Commissioner considers relevant.
+<dt>(5)</dt><dd>The fourth change is that Division&#160;40 of the _Income Tax Assessment Act 1997_ applies as if section&#160;73BA of this Act, and
 
-Effect of certificate under section 39M or 39MA of Industry Research and Development Act
+section&#160;40-425 and Subdivision&#160;328-D of that Act, had not been
 
-             (3)  Subject to subsection (8), if the Board gives to the Commissioner a certificate under section 39M or 39MA of the _Industry Research and Development Act 1986_ in respect of particular activities in respect of which section 73BA depreciating asset expenditure has been incurred by an eligible company, the expenditure is ignored for the purposes of section 73BC.
+enacted.</dd> <dt>(6)</dt><dd>In this section: </dd> </dl></dl>
 
-Effect of certificate under section 39N of Industry Research and Development Act
+<def><dl compact=""><dl compact="">
 
-             (4)  Subject to subsection (8), if the Board gives to the Commissioner a certificate stating that a company has failed to comply with a notice under section 39N of the _Industry Research and Development Act 1986_ in respect of particular activities in respect of which section 73BA depreciating asset expenditure has been incurred by an eligible company, the expenditure is ignored for the purposes of section 73BC.
+_eligible company_ has the same meaning as in section&#160;73B. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BA depreciating asset_ has the meaning given by section&#160;73BB.  </dl></dl>
 
-Effect of certificate under subsection 39P(4) of Industry Research and Development Act
+73BD  Treatment of certain expenditure for the purposes of section&#160;73BC etc.
 
-             (5)  Subject to subsection (8), if the Board gives to the Commissioner a certificate in relation to a company or companies under subsection 39P(4) of the _Industry Research and Development Act 1986_, section 73BA depreciating asset expenditure in relation to research and development activities referred to in the certificate that is incurred by that company or any of those companies after the day on which notice was given to the company concerned under paragraph 39P(5)(a) is ignored for the purposes of section 73BC.
+_Requirement for registration under Industry Research and Development Act_
 
-Effect of certificate under subsection 39PB(6) of Industry Research and Development Act
+<dl compact=""><dl compact="">
 
-             (6)  Subject to subsections (7) and (8), if the Board gives to the Commissioner a certificate in relation to a company or companies under subsection 39PB(6) of the _Industry Research and Development Act 1986_, section 73BA depreciating asset expenditure in relation to research and development activities referred to in the certificate that is incurred by that company or any of those companies after the day stated in the certificate is ignored for the purposes of section 73BC.
+<dt>(1)</dt><dd>Section&#160;73BA depreciating asset expenditure incurred by an eligible
 
-             (7)  Subsection (6) of this section does not apply to section 73BA depreciating asset expenditure in relation to research and development activities in respect of which a company is registered under section 39J of the _Industry Research and Development Act 1986_.
+company in a year of income in relation to research and development activities
 
-Effect of revocation of certificates mentioned above
+is ignored for the purposes of section&#160;73BC unless:
 
-             (8)  If a certificate mentioned in subsection (3), (4), (5) or (6) is revoked, this section applies, and is taken to have applied, as if the certificate had not been given.
+</dd> </dl></dl>
 
-Expenditure on overseas research and development activities
+<dl compact=""><dl compact=""><dl compact="">
 
-             (9)  Section 73BA depreciating asset expenditure incurred by an eligible company on overseas research and development activities is ignored for the purposes of section 73BC unless the Board gave a provisional certificate in respect of the expenditure under section 39ED of the _Industry Research and Development Act 1986_ before the expenditure was incurred.
+<dt>(a)</dt><dd>the company is registered, in relation to the year of income and in
 
-Expenditure incurred on behalf of another person
+relation to those activities, under section&#160;39J of the _Industry Research and Development Act 1986_; or</dd>
 
-           (10)  Section 73BA depreciating asset expenditure incurred by an eligible company for the purpose of carrying on research and development activities on behalf of any other person is ignored for the purposes of section 73BC to the company.
+<dt>(b)</dt><dd>the company is registered, in relation to the year of income and in
 
-           (11)  Subsection (10) does not apply in relation to expenditure incurred on behalf of a partnership by a partner in the partnership in that partner’s capacity as such a partner.
+relation to a project comprising or including those activities, under
 
-Definitions
+section&#160;39P of that Act.
 
-           (12)  In this section:
+</dd>
 
-                    <a name="board"></a>**_Board_** means the Industry Research and Development Board established by the _Industry Research and Development Act 1986_.
+</dl></dl></dl>
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+_Non-arm&apos;s length expenditure_
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+<dl compact=""><dl compact="">
 
-                    <a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** has the meaning given by section 73BB.
+<dt>(2)</dt><dd>If:
 
-                    <a name="expenditur"></a><a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** **_expenditure_** has the meaning given by subsection 73BC(4).
+</dd> </dl></dl>
 
-##### <a id="73BE"></a>73BE  Treatment of certain partnership expenditure for the purposes of section 73BC etc.
+<dl compact=""><dl compact=""><dl compact="">
 
-When section applies
+<dt>(a)</dt><dd>an eligible company has incurred an amount of section&#160;73BA
 
-             (1)  If section 73BA depreciating asset expenditure has been incurred by a partnership in which, when the expenditure was incurred:
+depreciating asset expenditure; and</dd>
 
-                     (a)  at least one partner was an eligible company; and
+<dt>(b)</dt><dd>the Commissioner is satisfied that:
 
-                     (b)  either:
+</dd>
 
-                              (i)  each other partner was an eligible company or was a body corporate that was, or is taken to have been, registered under section 39F of the _Industry Research and Development Act 1986_ as a research agency in respect of the class of research and development activities on which the expenditure was incurred; or
+</dl></dl></dl>
 
-                             (ii)  the partnership was designated as a Co-operative Research Centre under the program known as the Co-operative Research Centres Program;
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>having regard to any connection between the company and the person to whom
+
+the expenditure was incurred and to any other relevant circumstances, the
+
+company and that other person were not dealing with each other at arm's length
+
+in relation to the incurring of that expenditure; and</dd>
+
+<dt>(ii)</dt><dd>the amount of that expenditure would have been less if the company and
+
+that other person had dealt with each other at arm's length in relation to the
+
+incurring of that expenditure;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+so much only of that expenditure is to be taken into account for the purposes of section&#160;73BC as the Commissioner considers reasonable having regard to:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the connection between the company and that other person; and</dd>
+
+<dt>(d)</dt><dd>the amount of the expenditure that would, in the opinion of the
+
+Commissioner, have been incurred by the company if the company and that other
+
+person had dealt with each other at arm's length in relation to the incurring
+
+of that expenditure; and</dd>
+
+<dt>(e)</dt><dd>such other matters as the Commissioner considers relevant.
+
+</dd>
+
+</dl></dl></dl>
+
+_Effect of certificate under section 39M or 39MA of Industry Research Back to Top and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Subject to subsection&#160;(8), if the Board gives to the Commissioner a
+
+certificate under section&#160;39M or 39MA of the _Industry Research and Development Act 1986_ in respect of particular activities in respect of
+
+which section&#160;73BA depreciating asset expenditure has been incurred by an
+
+eligible company, the expenditure is ignored for the purposes of
+
+section&#160;73BC.
+
+</dd> </dl></dl>
+
+_Effect of certificate under section 39N of Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subject to subsection&#160;(8), if the Board gives to the Commissioner a
+
+certificate stating that a company has failed to comply with a notice under
+
+section&#160;39N of the _Industry Research and Development Act 1986_ in
+
+respect of particular activities in respect of which section&#160;73BA
+
+depreciating asset expenditure has been incurred by an eligible company, the
+
+expenditure is ignored for the purposes of section&#160;73BC.
+
+</dd> </dl></dl>
+
+_Effect of certificate under subsection 39P(4) of Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Subject to subsection&#160;(8), if the Board gives to the Commissioner a
+
+certificate in relation to a company or companies under subsection 39P(4) of
+
+the _Industry Research and Development Act 1986_, section&#160;73BA
+
+depreciating asset expenditure in relation to research and development
+
+activities referred to in the certificate that is incurred by that company or
+
+any of those companies after the day on which notice was given to the company
+
+concerned under paragraph 39P(5)(a) is ignored for the purposes of
+
+section&#160;73BC.
+
+</dd> </dl></dl>
+
+_Effect of certificate under subsection 39PB(6) of Industry Research and Development Act_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>Subject to subsections&#160;(7) and (8), if the Board gives to the
+
+Commissioner a certificate in relation to a company or companies under
+
+subsection 39PB(6) of the _Industry Research and Development Act 1986_,
+
+section&#160;73BA depreciating asset expenditure in relation to research and
+
+development activities referred to in the certificate that is incurred by that
+
+company or any of those companies after the day stated in the certificate is
+
+ignored for the purposes of section&#160;73BC.</dd> <dt>(7)</dt><dd>Subsection&#160;(6) of this section does not apply to section&#160;73BA depreciating asset expenditure in relation to research and development activities in respect of which a company is registered under section&#160;39J of the _Industry Research and Development Act 1986_. </dd> </dl></dl>
+
+_Effect of revocation of certificates mentioned above_
+
+<dl compact=""><dl compact="">
+
+<dt>(8)</dt><dd>If a certificate mentioned in subsection&#160;(3), (4), (5) or (6) is
+
+revoked, this section applies, and is taken to have applied, as if the
+
+certificate had not been given.
+
+</dd> </dl></dl>
+
+_Expenditure on overseas research and development activities_
+
+<dl compact=""><dl compact="">
+
+<dt>(9)</dt><dd>Section&#160;73BA depreciating asset expenditure incurred by an eligible
+
+company on overseas research and development activities is ignored for the
+
+purposes of section&#160;73BC unless the Board gave a provisional certificate
+
+in respect of the expenditure under section&#160;39ED of the _Industry Research and Development Act 1986_ before the expenditure was incurred.
+
+</dd> </dl></dl>
+
+_Expenditure incurred on behalf of another person_
+
+<dl compact=""><dl compact="">
+
+<dt>(10)</dt><dd>Section&#160;73BA depreciating asset expenditure incurred by an eligible
+
+company for the purpose of carrying on research and development activities on
+
+behalf of any other person is ignored for the purposes of section&#160;73BC to
+
+the company.</dd> <dt>(11)</dt><dd>Subsection&#160;(10) does not apply in relation to expenditure incurred on behalf of a partnership by a partner in the partnership in that partner's capacity as such a partner. </dd> </dl></dl>
+
+_Definitions_
+
+<dl compact=""><dl compact="">
+
+<dt>(12)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_Board_ means the Industry Research and Development Board
+
+established by the _Industry Research and Development Act 1986_. _eligible company_ has the same meaning as in section&#160;73B. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BA depreciating asset_ has the meaning given by section&#160;73BB. _section 73BA depreciating asset_ _expenditure_ has the meaning given by subsection 73BC(4).  </dl></dl>
+
+73BE  Treatment of certain partnership expenditure for the purposes of section&#160;73BC etc.
+
+_When section applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If section&#160;73BA depreciating asset expenditure has been incurred by a
+
+partnership in which, when the expenditure was incurred:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>at least one partner was an eligible company; and</dd>
+
+<dt>(b)</dt><dd>either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>each other partner was an eligible company or was a body corporate that
+
+was, or is taken to have been, registered under section&#160;39F of the
+
+_Industry Research and Development Act 1986_ as a research agency in
+
+respect of the class of research and development activities on which the
+
+expenditure was incurred; or</dd>
+
+<dt>(ii)</dt><dd>the partnership was designated as a Co-operative Research Centre under
+
+the program known as the Co-operative Research Centres Program;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the following provisions have effect.
 
-Contributions by partners
+_Contributions by partners_
 
-             (2)  Each partner is taken, for the purposes of sections 73BC, 73C and 73CA of this Act, and Subdivision 20-A of the _Income Tax Assessment Act 1997_, to have incurred so much (if any) of the expenditure as was incurred out of money contributed by the partner (otherwise than by way of loan), whether in the year of income in which the expenditure was incurred or a previous year of income.
+<dl compact=""><dl compact="">
 
-Recoupments or grants
+<dt>(2)</dt><dd>Each partner is taken, for the purposes of sections&#160;73BC, 73C and
 
-             (3)  If the partnership has, whether before or after the commencement of this subsection, received, or become entitled to receive, a recoupment of, or a grant in respect of, the whole or any part of the expenditure, each partner is to be taken, for the purposes of sections 73BC, 73C and 73CA of this Act, and Subdivision 20-A of the _Income Tax Assessment Act 1997_, to have received, or become entitled to receive, so much (if any) of the recoupment or grant as is worked out in accordance with the formula:
+73CA of this Act, and Subdivision&#160;20-A of the _Income Tax Assessment Act 1997_, to have incurred so much (if any) of the expenditure as was incurred
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image002.gif)</sub>
+out of money contributed by the partner (otherwise than by way of loan),
 
-where:
+whether in the year of income in which the expenditure was incurred or a
 
-                    <a name="partner-contribut"></a>**_partner’s contribution_** means the total contribution made (otherwise than by way of loan) by the partner to the funds of the partnership as at the time when the recoupment or grant was received or the entitlement to the recoupment or grant arose, as the case may be.
+previous year of income.
 
-                    <a name="total-contribut"></a>**_total contribution_** means the total of the contributions made (otherwise than by way of loan) by all the partners to the funds of the partnership as at the time when the recoupment or grant was received or the entitlement to the recoupment or grant arose, as the case may be.
+</dd> </dl></dl>
 
-Exception to subsections (2) and (3)
+_Recoupments or grants_
 
-             (4)  If the partnership is not designated as a Co-operative Research Centre under the program known as the Co-operative Research Centres Program, subsection 73C(2A) does not apply in relation to the expenditure that a partner is taken to have incurred by subsection (2) or (3) of this section.
+<dl compact=""><dl compact="">
 
-Effect on net income and partnership loss calculation
+<dt>(3)</dt><dd>If the partnership has, whether before or after the commencement of this
 
-             (5)  Any expenditure that a partner is taken to have incurred by subsection (2) or (3) of this subsection, and any recoupment or grant that a partner is taken to have received or become entitled to receive, is not to be taken into account in determining the net income of the partnership or any partnership loss, as the case may be, of the year of income.
+subsection, received, or become entitled to receive, a recoupment of, or a
 
-Provisions to apply to each partner, not partnership
+grant in respect of, the whole or any part of the expenditure, each partner is
 
-             (6)  Subject to subsections (2) to (5) of this section, sections 73BC, 73C and 73CA of this Act, and Subdivision 20-A of the _Income Tax Assessment Act 1997_, apply in relation to each such partner that is an eligible company as if that partner, and not the partnership, were, or had been, carrying on the relevant project and activities, but so apply with such modifications to those sections as are appropriate having regard to the partner’s interest in the partnership.
+to be taken, for the purposes of sections&#160;73BC, 73C and 73CA of this Act,
 
-Definitions
+and Subdivision&#160;20-A of the _Income Tax Assessment Act 1997_, to have
 
-             (7)  In this section:
+received, or become entitled to receive, so much (if any) of the recoupment or
 
-                    <a name="board"></a>**_Board_** means the Industry Research and Development Board established by the _Industry Research and Development Act 1986_.
+grant as is worked out in accordance with the formula:
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+</dd> </dl></dl>
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
-
-                    <a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** has the meaning given by section 73BB.
-
-                    <a name="expenditur"></a><a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** **_expenditure_** has the meaning given by subsection 73BC(4).
-
-##### <a id="73BF"></a>73BF  Balancing adjustments: section 73BA depreciating assets
-
-             (1)  If:
-
-                     (a)  a balancing adjustment event (within the meaning of section 40-295 of the _Income Tax Assessment Act 1997_) happens in relation to a section 73BA depreciating asset of an eligible company; and
-
-                     (b)  one or more deductions have been allowed or are allowable to the eligible company under section 73BA or 73BH for the asset for a year or years of income, or would have been so allowed or allowable if the company had not chosen a tax offset under section 73BI; and
-
-                     (c)  no deduction:
-
-                              (i)  is allowable to the eligible company under section 40-25 of the _Income Tax Assessment Act 1997_ for the asset for any year of income; or
-
-                             (ii)  was allowable to the eligible company under section 42-15 of the _Income Tax Assessment Act 1997_, as in force before its repeal by the _New Business Tax System (Capital Allowances) Act 2001_, for the asset for any year of income; and
-
-                     (d)  a deduction would be allowable to the eligible company, or an amount would be included in the eligible company’s assessable income, in respect of the balancing adjustment event under Subdivision 40-D of that Act if:
-
-                              (i)  the changes set out in section 73BC were made; and
-
-                             (ii)  section 40-292 of the _Income Tax Assessment Act 1997_ and this section (other than this paragraph) had not been enacted;
-
-then the deduction mentioned in paragraph (d) is allowable to the eligible company, or the amount mentioned in paragraph (d) is included in the eligible company’s assessable income, under this section for the year of income in which the balancing adjustment event occurs.
-
-Note:          If deductions have been allowed etc. under both section 73BA or 73BH of this Act and section 40-25 of the _Income Tax Assessment Act 1997_ for a section 73BA depreciating asset, the balancing adjustment provisions of Division 40 of that Act apply in a modified way: see section 40-292 of that Act.
-
-Increase in deduction or assessable amount where section 73BA deductions allowable at 1.25 rate
-
-             (2)  However, if at least one of the deductions mentioned in paragraph (1)(b) was worked out by multiplying a notional Division 40 deduction or a notional Division 42 deduction by 1.25, subsection (3) applies.
-
-             (3)  Any amount (the **_subsection (1) amount_**) allowable as a deduction to, or included in the assessable income of, the eligible company under subsection (1) of this section for the section 73BA depreciating asset is increased by the amount worked out using the formula:
-
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image005.gif)</sub>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1205.gif)</sub>
 
 where:
 
-                    <a name="adjusted-subsect-amount"></a>**_adjusted subsection (1) amount_** means:
+<def><dl compact=""><dl compact="">
 
-                     (a)  if the subsection (1) amount is a deduction—the amount of the deduction; or
+_partner&apos;s contribution_ means the total contribution made
 
-                     (b)  if the subsection (1) amount is an amount included in the eligible company’s assessable income—so much of the subsection (1) amount as does not exceed the formula component **_total decline in value_**.
+(otherwise than by way of loan) by the partner to the funds of the partnership
 
-                    <a name="sum-25-rate-notion-division-40-42-duction"></a>**_sum of all 1.25 rate notional Division 40/42 deductions_** means the sum of all notional Division 40 deductions or notional Division 42 deductions that were multiplied by 1.25 in working out the deductions mentioned in paragraph (1)(b) for the section 73BA depreciating asset.
+as at the time when the recoupment or grant was received or the entitlement to
 
-                    <a name="total-declin-valu"></a>**_total decline in value_** means the cost of the section 73BA depreciating asset, less its adjustable value, just before the balancing adjustment event, where that cost and adjustable value are the amounts taken into account in applying Subdivision 40-D of the _Income Tax Assessment Act 1997_ in accordance with paragraph (1)(d) for the purpose of working out the subsection (1) amount.
+the recoupment or grant arose, as the case may be. _total contribution_ means the total of the contributions made (otherwise than by way of loan) by all the partners to the funds of the partnership as at the time when the recoupment or grant was received or the entitlement to the recoupment or grant arose, as the case may be.  </dl></dl>
 
-Assessability of amounts received in respect of results etc. of research and development activities
+_Exception to subsections (2) and (3)_
 
-             (4)  Subject to subsections (5) and (6), if:
+<dl compact=""><dl compact="">
 
-                     (a)  an eligible company has incurred any expenditure in respect of which:
+<dt>(4)</dt><dd>If the partnership is not designated as a Co-operative Research Centre
 
-                              (i)  a deduction under section 73BA or 73BH has been allowed or is allowable to the company, or would have been so allowed or allowable if the company had not chosen a tax offset under section 73I; or
+under the program known as the Co-operative Research Centres Program,
 
-                             (ii)  in the case of a company whose income was exempt from tax when the expenditure was incurred—a deduction under section 73BA or 73BH would have been allowable if the company’s income had not been so exempt from tax; and
+subsection 73C(2A) does not apply in relation to the expenditure that a partner
 
-                     (b)  the eligible company receives or is entitled to receive:
+is taken to have incurred by subsection&#160;(2) or (3) of this section.
 
-                              (i)  an amount in respect of the results of any of the research and development activities in relation to which the expenditure was incurred; or
+</dd> </dl></dl>
 
-                             (ii)  an amount attributable to the company having incurred the expenditure, including an amount that it is entitled to receive irrespective of the results of the activities;
+_Effect on net income and partnership loss calculation_
 
-that amount is included in the company’s assessable income of the year of income in which the company received or became entitled to receive it.
+<center>Back to Top</center>
 
-             (5)  The reference in subsection (4) to a company receiving or being entitled to receive an amount in respect of the results of any research and development activities includes a reference to:
+<dl compact=""><dl compact="">
 
-                     (a)  the company receiving or being entitled to receive an amount from the grant of access to, or the grant of a right to use, any of those results; and
+<dt>(5)</dt><dd>Any expenditure that a partner is taken to have incurred by
 
-                     (b)  the company receiving or being entitled to receive an amount from the disposal of, or of an interest in, any section 73BA depreciating asset or from the grant of a right to use any section 73BA depreciating asset where, as a result of the disposal or grant, another person has acquired a right of access to, or a right to use, any of those results;
+subsection&#160;(2) or (3) of this subsection, and any recoupment or grant that
+
+a partner is taken to have received or become entitled to receive, is not to be
+
+taken into account in determining the net income of the partnership or any
+
+partnership loss, as the case may be, of the year of income.
+
+</dd> </dl></dl>
+
+_Provisions to apply to each partner, not partnership_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>Subject to subsections&#160;(2) to (5) of this section,
+
+sections&#160;73BC, 73C and 73CA of this Act, and Subdivision&#160;20-A of
+
+the _Income Tax Assessment Act 1997_, apply in relation to each such
+
+partner that is an eligible company as if that partner, and not the
+
+partnership, were, or had been, carrying on the relevant project and
+
+activities, but so apply with such modifications to those sections as are
+
+appropriate having regard to the partner's interest in the partnership.
+
+</dd> </dl></dl>
+
+_Definitions_
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Board_ means the Industry Research and Development Board
+
+established by the _Industry Research and Development Act 1986_. _eligible company_ has the same meaning as in section&#160;73B. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BA depreciating asset_ has the meaning given by section&#160;73BB. _section 73BA depreciating asset_ _expenditure_ has the meaning given by subsection 73BC(4).  </dl></dl>
+
+73BF  Balancing adjustments: section&#160;73BA depreciating assets
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a balancing adjustment event (within the meaning of section&#160;40-295 of
+
+the _Income Tax Assessment Act 1997_) happens in relation to a
+
+section&#160;73BA depreciating asset of an eligible company; and</dd>
+
+<dt>(b)</dt><dd>one or more deductions have been allowed or are allowable to the eligible
+
+company under section&#160;73BA or 73BH for the asset for a year or years of
+
+income, or would have been so allowed or allowable if the company had not
+
+chosen a tax offset under section&#160;73BI; and</dd>
+
+<dt>(c)</dt><dd>no deduction:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>is allowable to the eligible company under section&#160;40-25 of the
+
+_Income Tax Assessment Act 1997_ for the asset for any year of income;
+
+or</dd>
+
+<dt>(ii)</dt><dd>was allowable to the eligible company under section&#160;42-15 of the
+
+_Income Tax Assessment Act 1997_, as in force before its repeal by
+
+the _New Business Tax System (Capital Allowances) Act 2001_, for
+
+the asset for any year of income; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>a deduction would be allowable to the eligible company, or an amount would
+
+be included in the eligible company's assessable income, in respect of the
+
+balancing adjustment event under Subdivision&#160;40-D of that Act if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the changes set out in section&#160;73BC were made; and</dd>
+
+<dt>(ii)</dt><dd>section&#160;40-292 of the _Income Tax Assessment Act 1997_ and this
+
+section (other than this paragraph) had not been enacted;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+then the deduction mentioned in paragraph&#160;(d) is allowable to the eligible company, or the amount mentioned in paragraph&#160;(d) is included in the eligible company's assessable income, under this section for the year of income in which the balancing adjustment event occurs.
+
+<dl compact=""><dl compact="">
+
+Note:	If deductions have been allowed etc. under both
+
+section&#160;73BA or 73BH of this Act and section&#160;40-25 of the _Income Tax Assessment Act 1997_ for a section&#160;73BA depreciating asset, the
+
+balancing adjustment provisions of Division&#160;40 of that Act apply in a
+
+modified way: see section&#160;40-292 of that Act.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+_Increase in deduction or assessable amount where section 73BA deductions allowable at 1.25 rate_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>However, if at least one of the deductions mentioned in
+
+paragraph&#160;(1)(b) was worked out by multiplying a notional Division&#160;40
+
+deduction or a notional Division&#160;42 deduction by 1.25, subsection&#160;(3)
+
+applies.</dd> <dt>(3)</dt><dd>Any amount (the _subsection (1) amount_) allowable as a deduction to, or included in the assessable income of, the eligible company under subsection&#160;(1) of this section for the section&#160;73BA depreciating asset is increased by the amount worked out using the formula: </dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1206.gif)</sub>
+
+where:
+
+<def><dl compact=""><dl compact="">
+
+_adjusted subsection (1) amount_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the subsection&#160;(1) amount is a deduction&#151;the amount of the
+
+deduction; or</dd>
+
+<dt>(b)</dt><dd>if the subsection&#160;(1) amount is an amount included in the eligible
+
+company's assessable income&#151;so much of the subsection&#160;(1) amount as does
+
+not exceed the formula component _total decline in value_.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_sum of all 1.25 rate notional Division 40/42 deductions_
+
+means the sum of all notional Division&#160;40 deductions or notional
+
+Division&#160;42 deductions that were multiplied by 1.25 in working out the
+
+deductions mentioned in paragraph&#160;(1)(b) for the section&#160;73BA
+
+depreciating asset. _total decline in value_ means the cost of the section&#160;73BA depreciating asset, less its adjustable value, just before the balancing adjustment event, where that cost and adjustable value are the amounts taken into account in applying Subdivision&#160;40-D of the _Income Tax Assessment Act 1997_ in accordance with paragraph&#160;(1)(d) for the purpose of working out the subsection&#160;(1) amount.  </dl></dl>
+
+_Assessability of amounts received in respect of results etc. of research and development activities_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subject to subsections&#160;(5) and (6), if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an eligible company has incurred any expenditure in respect of which:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a deduction under section&#160;73BA or 73BH has been allowed or is
+
+allowable to the company, or would have been so allowed or allowable if the
+
+company had not chosen a tax offset under section&#160;73I; or</dd>
+
+<dt>(ii)</dt><dd>in the case of a company whose income was exempt from tax when the
+
+expenditure was incurred&#151;a deduction under section&#160;73BA or 73BH would
+
+have been allowable if the company's income had not been so exempt from tax; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the eligible company receives or is entitled to receive:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an amount in respect of the results of any of the research and development
+
+activities in relation to which the expenditure was incurred; or</dd>
+
+<dt>(ii)</dt><dd>an amount attributable to the company having incurred the expenditure,
+
+including an amount that it is entitled to receive irrespective of the results
+
+of the activities;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+that amount is included in the company's assessable income of the year of income in which the company received or became entitled to receive it.
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The reference in subsection&#160;(4) to a company receiving or being
+
+entitled to receive an amount in respect of the results of any research and
+
+development activities includes a reference to:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the company receiving or being entitled to receive an amount from the
+
+grant of access to, or the grant of a right to use, any of those results; and</dd>
+
+<dt>(b)</dt><dd>the company receiving or being entitled to receive an amount from the
+
+disposal of, or of an interest in, any section&#160;73BA depreciating asset or
+
+from the grant of a right to use any section&#160;73BA depreciating asset
+
+where, as a result of the disposal or grant, another person has acquired a
+
+right of access to, or a right to use, any of those results;
+
+</dd>
+
+</dl></dl></dl>
 
 but does not include a reference to the company receiving or being entitled to receive an amount in consequence of the use by the company of any of those results.
 
-             (6)  If a company receives or is entitled to receive an amount as mentioned in paragraph (5)(b), the amount to be included in the company’s assessable income under subsection (4) is only so much (if any) of the amount mentioned in that paragraph as exceeds the cost to the company of acquiring or constructing the section 73BA depreciating asset concerned.
+<dl compact=""><dl compact="">
 
-Definitions
+<dt>(6)</dt><dd>If a company receives or is entitled to receive an amount as mentioned in
 
-             (7)  In this section:
+paragraph&#160;(5)(b), the amount to be included in the company's assessable
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+income under subsection&#160;(4) is only so much (if any) of the amount
 
-                    <a name="notion-division-40-duction"></a>**_notional Division 40 deduction_** has the meaning given by section 73BC.
+mentioned in that paragraph as exceeds the cost to the company of acquiring or
 
-                    <a name="notion-division-42-duction"></a>**_notional Division 42 deduction_** has the meaning given by section 73BJ.
+constructing the section&#160;73BA depreciating asset concerned.
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B.
+</dd> </dl></dl>
 
-                    <a name="section-73ba-depreci-asset"></a>**_section 73BA depreciating asset_** has the meaning given by section 73BB.
+_Definitions_
 
-##### <a id="73BG"></a>73BG  Effective life calculation under Division 40 of _Income Tax Assessment Act 1997_ to take into account use for purpose of carrying on research and development activities
+<dl compact=""><dl compact="">
 
-             (1)  This section has effect for the purposes of working out, under sections 40-100, 40-105 and 40-110 of the _Income Tax Assessment Act 1997_(whether in their application for the purposes of section 73BA of this Act or otherwise), the effective life of a depreciating asset of an eligible company.
+<dt>(7)</dt><dd>In this section:
 
-             (2)  If, at the time at which the effective life is worked out, it is reasonably likely that the depreciating asset will be used at some time by any eligible company for the purpose of the carrying on by or on behalf of the eligible company of research and development activities:
+</dd> </dl></dl>
 
-                     (a)  the references in:
+<def><dl compact=""><dl compact="">
 
-                              (i)  item 1.1 of the table in section 40-10 of the _Income Tax Assessment Act 1997_ to the period the asset can be used to produce income; and
+_eligible company_ has the same meaning as in section&#160;73B. _notional Division 40 deduction_ has the meaning given by section&#160;73BC. _notional Division 42 deduction_ has the meaning given by section&#160;73BJ. _research and development activities_ has the same meaning as in section&#160;73B. _section 73BA depreciating asset_ has the meaning given by section&#160;73BB.  </dl></dl>
 
-(ii) sections 40-100, 40-105 and 40-110 of that Act to the period the asset can be used by any entity for a taxable purpose or for the purpose of producing exempt income;
+73BG  Effective life calculation under Division&#160;40 of Income Tax Assessment Act 1997 to take into account use for purpose of carrying on research and development activities
 
-                            include a reference to the period the asset can be used by any eligible company for the purpose of the carrying on by or on behalf of the eligible company of research and development activities; and
+<dl compact=""><dl compact="">
 
-                     (b)  in applying paragraph 40-100(4)(c) and subsection 40-105(2) of the _Income Tax Assessment Act 1997_, it is to be concluded that no eligible company that can use the asset for the purpose of the carrying on by or on behalf of the eligible company of research and development activities will scrap the asset, will sell it for scrap value or less or will abandon it, for reasons attributable to technical risk in the carrying on of those activities.
+<dt>(1)</dt><dd>This section has effect for the purposes of working out, under
 
-             (3)  In this section:
+sections&#160;40-100, 40-105 and 40-110 of the _Income Tax Assessment Act 1997_(whether in their application for the purposes of section&#160;73BA of
 
-                    <a name="depreci-asset"></a>**_depreciating asset_** has the same meaning as in Division 40 of the _Income Tax Assessment Act 1997._
+this Act or otherwise), the effective life of a depreciating asset of an
 
-                    <a name="elig-compani"></a>**_eligible company_** has the same meaning as in section 73B.
+eligible company.</dd> <dt>(2)</dt><dd>If, at the time at which the effective life is worked out, it is reasonably likely that the depreciating asset will be used at some time by any eligible company for the purpose of the carrying on by or on behalf of the eligible company of research and development activities: </dd> </dl></dl>
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the same meaning as in section 73B of this Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 55  Sub-subparagraph 73C(6)(b)(iv)(C)
+<dt>(a)</dt><dd>the references in:
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+</dd>
 
-## 56  Subparagraphs 73C(7)(c)(ii) and (iv)
+</dl></dl></dl>
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 57  Subsection 73C(9)
+<dt>(i)</dt><dd>item&#160;1.1 of the table in section&#160;40-10 of the _Income Tax Assessment Act 1997_ to the period the asset can be used to produce income;
 
-Omit “and subsection 73BH(2)”, substitute “, paragraph 73B(15)(a) and subsections 73BA(3) and 73BH(2)”.
+and</dd>
 
-## 58  Subsection 73C(10)
+(ii) sections&#160;40-100, 40-105 and 40-110 of that Act to the
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+period the asset can be used by any entity for a taxable purpose or for the
 
-## 59  Subsection 73CA(2)
+purpose of producing exempt income;
 
-Omit “or 73BH,”, substitute “, 73BA or 73BH,”.
+</dl></dl></dl></dl>
 
-## 60  Subsection 73CB(5)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+		include a reference to the period the asset can be used by any eligible
 
-## 61  After section 73E
+company for the purpose of the carrying on by or on behalf of the eligible
+
+company of research and development activities; and
+
+<dt>(b)</dt><dd>in applying paragraph 40-100(4)(c) and subsection 40-105(2) of the
+
+_Income Tax Assessment Act 1997_, it is to be concluded that no eligible
+
+company that can use the asset for the purpose of the carrying on by or on
+
+behalf of the eligible company of research and development activities will
+
+scrap the asset, will sell it for scrap value or less or will abandon it, for
+
+reasons attributable to technical risk in the carrying on of those activities.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_depreciating asset_ has the same meaning as in Division&#160;40 of
+
+the _Income Tax Assessment Act 1997._ _eligible company_ has the same meaning as in section&#160;73B. _research and development activities_ has the same meaning as in section&#160;73B of this Act.  </dl></dl>
+
+55  Sub-subparagraph 73C(6)(b)(iv)(C)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+56  Subparagraphs 73C(7)(c)(ii) and (iv)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+57  Subsection 73C(9)
+
+Omit "and subsection 73BH(2)", substitute ", paragraph 73B(15)(a) and subsections 73BA(3) and 73BH(2)".
+
+58  Subsection 73C(10)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+59  Subsection 73CA(2)
+
+Omit "or 73BH,", substitute ", 73BA or 73BH,".
+
+60  Subsection 73CB(5)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+61  After section&#160;73E
 
 Insert:
 
-##### <a id="73EA"></a>73EA  Section 73BF roll-over relief on disposal of asset to another member of wholly-owned group
+73EA  Section&#160;73BF roll-over relief on disposal of asset to another member of wholly-owned group
 
-Roll-over relief where CGT roll-over relief allowed
+_Roll-over relief where CGT roll-over relief allowed_
 
-             (1)  This section applies to the disposal of a section 73BA depreciating asset by an eligible company (the **_transferor_**) to another eligible company (the **_transferee_**) if:
+<dl compact=""><dl compact="">
 
-                     (a)  the disposal involves a CGT event for which there is a roll-over under Subdivision 126-B of the _Income Tax Assessment Act 1997_ (or would be, disregarding the exemption in section 118-5 of that Act, so far as it relates to a car, motor cycle or similar vehicle, or to an interest in one); and
+<dt>(1)</dt><dd>This section applies to the disposal of a section&#160;73BA depreciating
 
-                     (b)  Subdivision 170-D of the _Income Tax Assessment Act 1997_ does not apply to the disposal; and
+asset by an eligible company (the _transferor_) to another eligible
 
-                     (c)  subject to subsection (5), a deduction or deductions have been allowed or are allowable to the transferor in respect of the asset under section 73BA or 73BH, or would have been so allowed or allowable if the company had not chosen a tax offset under section 73I; and
+company (the _transferee_) if:
 
-                     (d)  no deduction has been allowed or is allowable to the transferor in respect of the asset under:
+</dd> </dl></dl>
 
-                              (i)  Division 40 (capital allowances) of the _Income_ _Tax Assessment Act 1997_; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  Division 42 (depreciation of plant) of that Act as in force before its repeal by the _New Business Tax System (Capital Allowances) Act 2001_.
+<dt>(a)</dt><dd>the disposal involves a CGT event for which there is a roll-over under
 
-No balancing charges for transferor
+Subdivision&#160;126-B of the _Income Tax Assessment Act 1997_ (or would
 
-             (2)  Section 73BF does not apply in respect of the disposal of the asset by the transferor.
+be, disregarding the exemption in section&#160;118-5 of that Act, so far as it
 
-Effect on transferee
+relates to a car, motor cycle or similar vehicle, or to an interest in one);
 
-             (3)  The transferee is entitled to a deduction under section 73BA worked out using the same effective life and method for working out decline in value as the transferor was using in respect of the asset under that section.
+and</dd>
 
-Additional consequences
+<dt>(b)</dt><dd>Subdivision&#160;170-D of the _Income Tax Assessment Act 1997_ does
 
-             (4)  For the purposes of Division 45 of the _Income Tax Assessment Act 1997_:
+not apply to the disposal; and</dd>
 
-                     (a)  if the transferor, or a partnership of which the transferor was a member, leased the asset to another entity for most of the time when the transferor or partnership held the asset—the transferee is taken also to have done so; and
+<dt>(c)</dt><dd>subject to subsection&#160;(5), a deduction or deductions have been
 
-                     (b)  if the transferor, or a partnership of which the transferor was a member, leased the asset to another entity—the transferee is taken also to have done so; and
+allowed or are allowable to the transferor in respect of the asset under
 
-                     (c)  if the main business of the transferor, or a partnership of which the transferor was a member, was to lease assets of that kind—the main business of the transferee is taken also to have been to lease assets of that kind.
+section&#160;73BA or 73BH, or would have been so allowed or allowable if the
 
-Subsequent applications of roll-over relief—relief available even if no deduction for subsequent transferor
+company had not chosen a tax offset under section&#160;73I; and</dd>
 
-             (5)  If, apart from this subsection, this section has applied to the disposal of the section 73BA depreciating asset to the transferee, then, in working out whether it applies to a subsequent disposal of the asset by:
+<dt>(d)</dt><dd>no deduction has been allowed or is allowable to the transferor in respect
 
-                     (a)  the transferee; or
+of the asset under:
 
-                     (b)  one or more subsequent successive transferees;
+</dd>
 
-this section has effect as if paragraph (1)(c) (which deals with deductions) were ignored.
+</dl></dl></dl>
 
-Notice to allow transferee to work out how this section applies
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (6)  The transferor must give the transferee a notice containing enough information about the transferor’s holding of the asset for the transferee to work out how this section applies to the transferee’s holding of it.
+<dt>(i)</dt><dd>Division&#160;40 (capital allowances) of the _Income_ _Tax Assessment Act 1997_; or</dd>
 
-             (7)  The transferor must give the notice within 6 months after the end of the transferee’s year of income in which the disposal mentioned in subsection (1) occurred, or within a longer period allowed by the Commissioner.
+<dt>(ii)</dt><dd>Division&#160;42 (depreciation of plant) of that Act as in force before
 
-             (8)  The transferee must keep the notice until the end of 5 years after the earlier of these events:
+its repeal by the _New Business Tax System (Capital Allowances) Act 2001_.
 
-                     (a)  the transferee disposes of the asset;
+</dd>
 
-                     (b)  the asset is lost or destroyed.
+</dl></dl></dl></dl>
 
-                    Penalty:  30 penalty units.
+_No balancing charges for transferor_
 
-             (9)  The _Criminal Code_ applies to the offence in subsection (8).
+<dl compact=""><dl compact="">
 
-## 62  Subsection 82AM(2)
+<dt>(2)</dt><dd>Section&#160;73BF does not apply in respect of the disposal of the asset
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+by the transferor.
 
-## 63  Subsection 170(10A)
+</dd> </dl></dl>
 
-Before “73BM,”, insert “, 73BA, 73BF,”.
+_Effect on transferee_
 
-## 64  Subsection 632(2)
+<dl compact=""><dl compact="">
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+<dt>(3)</dt><dd>The transferee is entitled to a deduction under section&#160;73BA worked
 
-## 65  Subsection 642(2)
+out using the same effective life and method for working out decline in value
 
-After “73B,”, insert “73BA,”.
+as the transferor was using in respect of the asset under that section.
 
-## 66  Subsection 57-85(3) of Schedule 2D (table item 13)
+</dd> </dl></dl>
 
-Omit “**and 73BH**”, substitute “**, 73BA, 73BH and 73Y**”.
+_Additional consequences_
 
-## 67  Subsection 57-110(2) of Schedule 2D (table item 7)
+<dl compact=""><dl compact="">
 
-Omit “**and section 73BM**”, substitute “**and sections 73BF and 73BM**”.
+<dt>(4)</dt><dd>For the purposes of Division&#160;45 of the _Income Tax Assessment Act 1997_:
 
-## 68  Subsection 57-110(2) of Schedule 2D (table item 7)
+</dd> </dl></dl>
 
-Omit “**or 73BH**”, substitute “**, 73BA or 73BH**”.
+<dl compact=""><dl compact=""><dl compact="">
 
-Income Tax Assessment Act 1997
+<dt>(a)</dt><dd>if the transferor, or a partnership of which the transferor was a member,
 
-## 69  Section 10-5 (table item headed “research &amp; development”)
+leased the asset to another entity for most of the time when the transferor or
 
-After “plant”, insert “, assets”.
+partnership held the asset&#151;the transferee is taken also to have done so; and</dd>
 
-## 70  Section 10-5 (table item headed “research &amp; development”)
+<dt>(b)</dt><dd>if the transferor, or a partnership of which the transferor was a member,
 
-After “to (27C),”, insert “73BF,”.
+leased the asset to another entity&#151;the transferee is taken also to have done
 
-## 71  Section 10-5 (table item headed “research &amp; development”)
+so; and</dd>
 
-Before “**, 73BM(4)**”, insert “**, 73BF(4), (6)**”.
+<dt>(c)</dt><dd>if the main business of the transferor, or a partnership of which the
 
-## 72  Section 20-5 (table item 5)
+transferor was a member, was to lease assets of that kind&#151;the main business of
 
-Before “**, 73BM(4)**”, insert “**, 73BF(4),**”.
+the transferee is taken also to have been to lease assets of that kind.
 
-## 73  Subsection 20-30(2) (table item 2.8)
+</dd>
 
-Omit “**or 73BH**”, substitute “**, 73BA or 73BH**”.
+</dl></dl></dl>
 
-## 74  Subsection 40-45(1)
+<center>Back to Top</center>
+
+_Subsequent applications of roll-over reliefrelief available even if no deduction for subsequent transferor_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>If, apart from this subsection, this section has applied to the disposal
+
+of the section&#160;73BA depreciating asset to the transferee, then, in working
+
+out whether it applies to a subsequent disposal of the asset by:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transferee; or</dd>
+
+<dt>(b)</dt><dd>one or more subsequent successive transferees;
+
+</dd>
+
+</dl></dl></dl>
+
+this section has effect as if paragraph&#160;(1)(c) (which deals with deductions) were ignored.
+
+_Notice to allow transferee to work out how this section applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(6)</dt><dd>The transferor must give the transferee a notice containing enough
+
+information about the transferor's holding of the asset for the transferee to
+
+work out how this section applies to the transferee's holding of it.</dd> <dt>(7)</dt><dd>The transferor must give the notice within 6 months after the end of the transferee's year of income in which the disposal mentioned in subsection&#160;(1) occurred, or within a longer period allowed by the Commissioner.</dd> <dt>(8)</dt><dd>The transferee must keep the notice until the end of 5 years after the earlier of these events: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the transferee disposes of the asset;</dd>
+
+<dt>(b)</dt><dd>the asset is lost or destroyed.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	30 penalty units.
+
+<dl compact=""><dl compact="">
+
+<dt>(9)</dt><dd>The _Criminal Code_ applies to the offence in subsection&#160;(8).
+
+</dd> </dl></dl>
+
+62  Subsection 82AM(2)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+63  Subsection 170(10A)
+
+Before "73BM,", insert ", 73BA, 73BF,".
+
+64  Subsection 632(2)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+65  Subsection 642(2)
+
+After "73B,", insert "73BA,".
+
+66  Subsection 57-85(3) of Schedule&#160;2D (table item&#160;13)
+
+Omit "and 73BH", substitute ", 73BA, 73BH and 73Y".
+
+67  Subsection 57-110(2) of Schedule&#160;2D (table item&#160;7)
+
+Omit "and section&#160;73BM", substitute "and sections&#160;73BF and 73BM".
+
+68  Subsection 57-110(2) of Schedule&#160;2D (table item&#160;7)
+
+Omit "or 73BH", substitute ", 73BA or 73BH". 
+
+_Income Tax Assessment Act 1997_
+
+69  Section&#160;10-5 (table item headed "research &amp; development")
+
+After "plant", insert ", assets".
+
+70  Section&#160;10-5 (table item headed "research &amp; development")
+
+After "to (27C),", insert "73BF,".
+
+71  Section&#160;10-5 (table item headed "research &amp; development")
+
+Before ", 73BM(4)", insert ", 73BF(4), (6)".
+
+72  Section&#160;20-5 (table item&#160;5)
+
+Before ", 73BM(4)", insert ", 73BF(4),".
+
+73  Subsection 20-30(2) (table item&#160;2.8)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+74  Subsection 40-45(1)
 
 Repeal the subsection.
 
-## 75  At the end of section 40-65
+75  At the end of section&#160;40-65
 
 Add:
 
-Exception: expenditure deductible under research and development provisions
+_Exception: expenditure deductible under research and development provisions_
 
-             (6)  If you can deduct an amount under section 73BA of the _Income Tax Assessment Act 1936_(or could if you had not chosen a tax offset under section 73I of that Act) for the asset:
+<dl compact=""><dl compact="">
 
-                     (a)  for a period before the first period for which you can deduct an amount for the asset under this Division; or
+<dt>(6)</dt><dd>If you can deduct an amount under section&#160;73BA of the _Income Tax Assessment Act 1936_(or could if you had not chosen a tax offset under
 
-                     (b)  for a period that starts at the same time as the first period for which you can deduct an amount for the asset under this Division;
+section&#160;73I of that Act) for the asset:
 
-you must, for the purposes of this Division, use the same method as you used, or use, for the asset for the purposes of working out the deduction under section 73BA.
+</dd> </dl></dl>
 
-## 76  At the end of section 40-95
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for a period before the first period for which you can deduct an amount
+
+for the asset under this Division; or</dd>
+
+<dt>(b)</dt><dd>for a period that starts at the same time as the first period for which
+
+you can deduct an amount for the asset under this Division;
+
+</dd>
+
+</dl></dl></dl>
+
+you must, for the purposes of this Division, use the same method as you used, or use, for the asset for the purposes of working out the deduction under section&#160;73BA.
+
+76  At the end of section&#160;40-95
 
 Add:
 
-Note:          Section 73BG of the _Income Tax Assessment Act 1936_ modifies the way in which the effective life of a depreciating asset is worked out for certain companies. That section applies if it is reasonably likely that the asset will be used for the purpose of the carrying on by or on behalf of the company of research and development activities (as defined in section 73B of that Act).
+<dl compact=""><dl compact="">
 
-## 77  Paragraph 40-215(2)(a)
+Note:	Section&#160;73BG of the _Income Tax Assessment Act 1936_ modifies the way in which the effective life of a depreciating asset
 
-Omit “section 73B”, substitute “sections 73B and 73BA”.
+is worked out for certain companies. That section applies if it is reasonably
 
-## 78  At the end of paragraph 40-215(2)(a)
+likely that the asset will be used for the purpose of the carrying on by or on
+
+behalf of the company of research and development activities (as defined in
+
+section&#160;73B of that Act).
+
+ </dl></dl>
+
+77  Paragraph 40-215(2)(a)
+
+Omit "section&#160;73B", substitute "sections&#160;73B and 73BA".
+
+78  At the end of paragraph 40-215(2)(a)
 
 Add:
 
-Note:          Paragraph (a) does not have the effect that deductions for the same amount of any such expenditure will be allowable under both this Division and section 73B or 73BA. Such an outcome is prevented by subsection 40-25(2) (including as applied by section 73BC for the purposes of section 73BA) and subsections 73B(20) and 73BA(7).
+<dl compact=""><dl compact="">
 
-## 79  After section 40-290
+Note:	Paragraph&#160;(a) does not have the effect that deductions
+
+for the same amount of any such expenditure will be allowable under both this
+
+Division and section&#160;73B or 73BA. Such an outcome is prevented by
+
+subsection 40-25(2) (including as applied by section&#160;73BC for the purposes
+
+of section&#160;73BA) and subsections 73B(20) and 73BA(7).
+
+ </dl></dl>
+
+79  After section&#160;40-290
 
 Insert:
 
-##### <a id="40-292"></a>40-292  Adjustments where deductions for decline in value also allowable under section 73BA or 73BH of _Income Tax Assessment Act 1936_
+40-292  Adjustments where deductions for decline in value also allowable under section&#160;73BA or 73BH of Income Tax Assessment Act 1936
 
-Section applies if deductions for decline in value under both this Division and section 73BA
+_Section applies if deductions for decline in value under both this Division and section 73BA_
 
-             (1)  This section applies if:
+<dl compact=""><dl compact="">
 
-                     (a)  a <sup>* </sup>balancing adjustment event occurs for a <sup>* </sup>depreciating asset you <sup>* </sup>held and:
+<dt>(1)</dt><dd>This section applies if:
 
-                              (i)  whose decline in value you worked out under Subdivision 40-B; or
+</dd> </dl></dl>
 
-                             (ii)  whose decline in value you would have worked out under that Subdivision if you had used the asset; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  you also deducted an amount for the asset under section 73BA or 73BH of the _Income Tax Assessment Act 1936_, or could have so deducted an amount if you had not chosen a tax offset under section 73I of that Act, for any income year in which you held the asset.
+<dt>(a)</dt><dd>a <sup>*</sup>balancing adjustment event occurs for a
 
-Section 40-290 to be applied as if use for carrying on research and development activities were use for a taxable purpose
+<sup>*</sup>depreciating asset you <sup>*</sup>held and:
 
-             (2)  If this section applies, you must, in applying section 40-290 (including references in that section to the reduction of deductions under section 40-25) in relation to the <sup>* </sup>depreciating asset, assume that when you used it either for a taxable purpose or for the purpose of the carrying on by or on behalf of you of research and development activities, within the meaning of section 73B of the _Income Tax Assessment Act 1936_, you used it for a taxable purpose.
+</dd>
 
-Increase in amounts deductible or assessable under section 40-285 where 1.25 rate deductions under section 73BA or 73BH
+</dl></dl></dl>
 
-             (3)  If:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  this section applies; and
+<dt>(i)</dt><dd>whose decline in value you worked out under Subdivision&#160;40-B; or</dd>
 
-                     (b)  the amount you deducted under section 73BA or 73BH of the _Income Tax Assessment Act 1936_, as mentioned in paragraph (1)(b) of this section, for at least one income year was worked out by multiplying a notional Division 40 deduction (within the meaning of section 73BA) or a notional Division 42 deduction (within the meaning of section 73BJ) by 1.25;
+<dt>(ii)</dt><dd>whose decline in value you would have worked out under that Subdivision
 
-then subsection (4) applies.
+if you had used the asset; and
 
-             (4)  Any amount (the **_section 40-285 amount_**) that you can deduct, or that is included in your assessable income, for the <sup>* </sup>depreciating asset under section 40-285 (after applying subsection (2) of this section) is increased by the amount worked out using the formula:
+</dd>
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image006.gif)</sub>
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>you also deducted an amount for the asset under section&#160;73BA or 73BH
+
+of the _Income Tax Assessment Act 1936_, or could have so deducted an
+
+amount if you had not chosen a tax offset under section&#160;73I of that Act,
+
+for any income year in which you held the asset.
+
+</dd>
+
+</dl></dl></dl>
+
+_Section 40-290 to be applied as if use for carrying on research and development activities were use for a taxable purpose_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If this section applies, you must, in applying section&#160;40-290
+
+(including references in that section to the reduction of deductions under
+
+section&#160;40-25) in relation to the <sup>*</sup>depreciating asset, assume
+
+that when you used it either for a taxable purpose or for the purpose of the
+
+carrying on by or on behalf of you of research and development activities,
+
+within the meaning of section&#160;73B of the _Income Tax Assessment Act 1936_, you used it for a taxable purpose.
+
+</dd> </dl></dl>
+
+_Increase in amounts deductible or assessable under section 40-285 where 1.25 rate deductions under section 73BA or 73BH_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>this section applies; and</dd>
+
+<dt>(b)</dt><dd>the amount you deducted under section&#160;73BA or 73BH of the _Income Tax Assessment Act 1936_, as mentioned in paragraph&#160;(1)(b) of this
+
+section, for at least one income year was worked out by multiplying a notional
+
+Division&#160;40 deduction (within the meaning of section&#160;73BA) or a
+
+notional Division&#160;42 deduction (within the meaning of section&#160;73BJ)
+
+by 1.25;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+then subsection&#160;(4) applies.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Any amount (the _section 40-285 amount_) that you can
+
+deduct, or that is included in your assessable income, for the
+
+<sup>*</sup>depreciating asset under section&#160;40-285 (after applying
+
+subsection&#160;(2) of this section) is increased by the amount worked out
+
+using the formula:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1207.gif)</sub>
 
 where:
 
-                    <a name="adjusted-section-40-285-amount"></a>**_adjusted section 40-285 amount_** means:
+<def><dl compact=""><dl compact="">
 
-                     (a)  if the section 40-285 amount is a deduction—the amount of the deduction; or
+_adjusted section 40-285 amount_ means:
 
-                     (b)  if the section 40-285 amount is an amount included in your assessable income—so much of the section 40-285 amount as does not exceed the formula component **_total decline in value_**.
+ </dl></dl>
 
-                    <a name="sum-25-rate-notion-division-40-42-duction"></a>**_sum of all 1.25 rate notional Division 40/42 deductions_** means the sum of all notional Division 40 deductions and notional Division 42 deductions (see paragraph (3)(b)) that were multiplied by 1.25 in working out the amounts you deducted for the <sup>* </sup>depreciating asset as mentioned in paragraph (1)(b).
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="total-declin-valu"></a>**_total decline in value_** means the cost of the <sup>* </sup>depreciating asset less its <sup>* </sup>adjustable value.
+<dt>(a)</dt><dd>if the section&#160;40-285 amount is a deduction&#151;the amount of the
 
-## 80  At the end of section 40-425
+deduction; or</dd>
+
+<dt>(b)</dt><dd>if the section&#160;40-285 amount is an amount included in your assessable
+
+income&#151;so much of the section&#160;40-285 amount as does not exceed the
+
+formula component _total decline in value_.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_sum of all 1.25 rate notional Division 40/42 deductions_
+
+means the sum of all notional Division&#160;40 deductions and notional
+
+Division&#160;42 deductions (see paragraph&#160;(3)(b)) that were multiplied by
+
+1.25 in working out the amounts you deducted for the <sup>*</sup>depreciating
+
+asset as mentioned in paragraph&#160;(1)(b). _total decline in value_ means the cost of the <sup>*</sup>depreciating asset less its <sup>*</sup>adjustable value.  </dl></dl>
+
+80  At the end of section&#160;40-425
 
 Add:
 
-Exception: research and development
+_Exception: research and development_
 
-             (8)  You cannot allocate a <sup>* </sup>depreciating asset to a low-value pool if you can deduct an amount for the asset under section 73BA of the _Income Tax Assessment Act 1936_(or could so deduct an amount if you had not chosen a tax offset under section 73I of that Act) for a period before, or starting at the same time as, the allocation has effect.
+<dl compact=""><dl compact="">
 
-## 81  Paragraph 43-70(2)(g)
+<dt>(8)</dt><dd>You cannot allocate a <sup>*</sup>depreciating asset to a low-value pool
 
-Omit “or 73BH”, substitute “, 73BA or 73BH”.
+if you can deduct an amount for the asset under section&#160;73BA of the
 
-## 81A  After subsection 104-235(1)
+_Income Tax Assessment Act 1936_(or could so deduct an amount if you had
+
+not chosen a tax offset under section&#160;73I of that Act) for a period
+
+before, or starting at the same time as, the allocation has effect.
+
+</dd> </dl></dl>
+
+81  Paragraph 43-70(2)(g)
+
+Omit "or 73BH", substitute ", 73BA or 73BH".
+
+81A  After subsection 104-235(1)
 
 Insert:
 
-(1A)However, subsection (1) does not apply if you are an eligible company (within the meaning of section 73B of the _Income Tax Assessment Act 1936_) and the <sup>* </sup>depreciating asset is a section 73BA depreciating asset (within the meaning of section 73BB of that Act).
+<dl compact=""><dl compact="">
 
-          (1B)  **_CGT event K7_**also happens if:
+<dt>(1A)</dt><dd>However, subsection&#160;(1) does not apply if you are an
 
-                     (a)  you are an eligible company; and
+eligible company (within the meaning of section&#160;73B of the _Income Tax Assessment Act 1936_) and the <sup>*</sup>depreciating asset is a
 
-                     (b)  a <sup>* </sup>balancing adjustment event occurs for a section 73BA depreciating asset you <sup>* </sup>held; and
+section&#160;73BA depreciating asset (within the meaning of section&#160;73BB
 
-                     (c)  at some time when you held the asset:
+of that Act).</dd> <dt>(1B)</dt><dd>_CGT event K7_ also happens if: </dd> </dl></dl>
 
-                              (i)  you used it other than for a taxable purpose or the purpose of the carrying on by or on behalf of you of research and development activities (within the meaning of section 73B of the _Income Tax Assessment Act 1936_); or
+<dl compact=""><dl compact=""><dl compact="">
 
-(ii)  you had it installed ready for use other than for a taxable purpose.
+<dt>(a)</dt><dd>you are an eligible company; and</dd>
 
-_Note:       The heading to section 104-235 is altered by inserting “and section 73BA depreciating assets” after “depreciating assets”._
+<dt>(b)</dt><dd>a <sup>*</sup>balancing adjustment event occurs for a section&#160;73BA
 
-## 81B  Paragraph 104-235(4)(a)
+depreciating asset you <sup>*</sup>held; and</dd>
 
-After “<sup>* </sup>depreciating asset”, insert “or the section 73BA depreciating asset”.
+<dt>(c)</dt><dd>at some time when you held the asset:
 
-## 81C  Subsection 104-240(1)
+</dd>
 
-Omit “<sup>* </sup>depreciating asset’s <sup>* </sup>termination value”, substitute “<sup>* </sup>termination value of the <sup>* </sup>depreciating asset or the section 73BA depreciating asset”.
+</dl></dl></dl>
 
-## 81D  Subsection 104-240(1) (definition of _sum of reductions_)
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>you used it other than for a taxable purpose or the purpose of the
+
+carrying on by or on behalf of you of research and development activities
+
+(within the meaning of section&#160;73B of the _Income Tax Assessment Act 1936_); or</dd>
+
+(ii)	you had it installed ready for use other than for a taxable
+
+purpose.
+
+</dl></dl></dl></dl>
+
+Note:	The heading to section&#160;104-235 is altered by inserting "and section&#160;73BA depreciating assets" after "depreciating assets".
+
+81B  Paragraph 104-235(4)(a)
+
+After "<sup>*</sup>depreciating asset", insert "or the section&#160;73BA depreciating asset".
+
+<center>Back to Top</center>
+
+81C  Subsection 104-240(1)
+
+Omit "<sup>*</sup>depreciating asset's <sup>*</sup>termination value", substitute "<sup>*</sup>termination value of the <sup>*</sup>depreciating asset or the section&#160;73BA depreciating asset".
+
+81D  Subsection 104-240(1) (definition of sum of reductions)
 
 Repeal the definition, substitute:
 
-                    <a name="sum-ruction"></a>**_sum of reductions_** is the sum of:
+<def><dl compact=""><dl compact="">
 
-                     (a)  in the case of the <sup>* </sup>depreciating asset—the reductions in your deductions for the asset under section 40-25; or
+_sum of reductions_ is the sum of:
 
-                     (b)  in the case of the section 73BA depreciating asset—the reductions that would have been required under section 40-25 (including as applied for the purposes of section 73BC of the _Income Tax Assessment Act 1936_) on the assumption that when you used the asset either for a taxable purpose or for the purpose of the carrying on by or on behalf of you of research and development activities you used it for a taxable purpose.
+ </dl></dl>
 
-## 81E  Subsection 104-240(1) (definition of _total decline_)
+<dl compact=""><dl compact=""><dl compact="">
 
-After “<sup>* </sup>depreciating asset”, insert “or the section 73BA depreciating asset”.
+<dt>(a)</dt><dd>in the case of the <sup>*</sup>depreciating asset&#151;the reductions in your
 
-## 81F  Subsection 104-240(2)
+deductions for the asset under section&#160;40-25; or</dd>
 
-Omit “<sup>* </sup>depreciating asset’s <sup>* </sup> cost”, substitute “<sup>* </sup>cost of the <sup>* </sup>depreciating asset or the section 73BA depreciating asset”.
+<dt>(b)</dt><dd>in the case of the section&#160;73BA depreciating asset&#151;the reductions
 
-## 82  Subsection 108-55(1) (table item 3)
+that would have been required under section&#160;40-25 (including as applied
 
-Before “or 73BM”, insert “, 73BF”.
+for the purposes of section&#160;73BC of the _Income Tax Assessment Act 1936_) on the assumption that when you used the asset either for a
 
-## 82A  Subsection 118-24(1)
+taxable purpose or for the purpose of the carrying on by or on behalf of you of
 
-Omit “<sup>* </sup>depreciating asset is”, substitute “<sup>* </sup>depreciating asset or a section 73BA depreciating asset (within the meaning of section 73BB of the _Income Tax Assessment Act 1936_) is”.
+research and development activities you used it for a taxable purpose.
 
-_Note:       The heading to section 118-24 is altered by adding at the end “and section 73BA depreciating assets”._
+</dd>
 
-## 82B  Paragraphs 118-24(1)(a), (b) and (c)
+</dl></dl></dl>
 
-Omit “a depreciating”, substitute “an”.
+81E  Subsection 104-240(1) (definition of total decline)
 
-## 83  Subsections 118-35(1), (2) and (3)
+After "<sup>*</sup>depreciating asset", insert "or the section&#160;73BA depreciating asset".
 
-After “73B(27A)”, insert “, 73BF(4)”.
+81F  Subsection 104-240(2)
 
-## 84  At the end of section 328-175
+Omit "<sup>*</sup>depreciating asset's <sup>*</sup> cost", substitute "<sup>*</sup>cost of the <sup>*</sup>depreciating asset or the section&#160;73BA depreciating asset".
+
+82  Subsection 108-55(1) (table item&#160;3)
+
+Before "or 73BM", insert ", 73BF".
+
+82A  Subsection 118-24(1)
+
+Omit "<sup>*</sup>depreciating asset is", substitute "<sup>*</sup>depreciating asset or a section&#160;73BA depreciating asset (within the meaning of section&#160;73BB of the _Income Tax Assessment Act 1936_) is".
+
+Note:	The heading to section&#160;118-24 is altered by adding at the end "and section&#160;73BA depreciating assets".
+
+82B  Paragraphs 118-24(1)(a), (b) and (c)
+
+Omit "a depreciating", substitute "an".
+
+83  Subsections 118-35(1), (2) and (3)
+
+After "73B(27A)", insert ", 73BF(4)".
+
+84  At the end of section&#160;328-175
 
 Add:
 
-Exception: assets previously deductible under research and development provisions
+_Exception: assets previously deductible under research and development provisions_
 
-             (9)  You cannot deduct amounts for a <sup>* </sup>depreciating asset for any period under this Subdivision if you can deduct an amount for the asset under section 73BA of the _Income Tax Assessment Act 1936_(or could so deduct an amount if you had not chosen a tax offset under section 73I of that Act) for the same or an earlier period.
+<dl compact=""><dl compact="">
 
-Industry Research and Development Act 1986
+<dt>(9)</dt><dd>You cannot deduct amounts for a <sup>*</sup>depreciating asset for any
 
-## 85  Subparagraph 39EB(3)(c)(ii)
+period under this Subdivision if you can deduct an amount for the asset under
 
-Omit “or 73BH”, substitute “, 73BA, 73BH or 73Y, or a tax offset under section 73I,”.
+section&#160;73BA of the _Income Tax Assessment Act 1936_(or could so
 
-## 86  Subsection 39EC(1)
+deduct an amount if you had not chosen a tax offset under section&#160;73I of
 
-Omit “or 73BH”, substitute “, 73BA, 73BH or 73Y, or a tax offset under section 73I,”.
+that Act) for the same or an earlier period.
 
-## 87  Subparagraph 39EC(2)(d)(iii)
+</dd> </dl></dl>
 
-Omit “or 73BH”, substitute “, 73BA, 73BH or 73Y, or a tax offset under section 73I,”.
+_Industry Research and Development Act 1986_
 
-## 88  Paragraphs 39EE(1)(c) and (2)(b) and 39EF(2)(b)
+85  Subparagraph 39EB(3)(c)(ii)
 
-Omit “or 73BH”, substitute “, 73BA, 73BH or 73Y, or a tax offset under section 73I,”.
+Omit "or 73BH", substitute ", 73BA, 73BH or 73Y, or a tax offset under section&#160;73I,".
 
-## 89  Subsection 39HH(2) (note)
+86  Subsection 39EC(1)
 
-Omit “or 73BH”, substitute “, 73BA, 73BH or 73Y, or a tax offset under section 73I,”.
+Omit "or 73BH", substitute ", 73BA, 73BH or 73Y, or a tax offset under section&#160;73I,".
 
-## 90  Subparagraph 39M(1)(a)(ii)
+87  Subparagraph 39EC(2)(d)(iii)
 
-After “plant”, insert “, an asset”.
+Omit "or 73BH", substitute ", 73BA, 73BH or 73Y, or a tax offset under section&#160;73I,".
 
-## 91  Paragraph 39N(3)(b)
+88  Paragraphs 39EE(1)(c) and (2)(b) and 39EF(2)(b)
 
-Before “and 73BM(4)”, insert “, 73BF(4)”.
+Omit "or 73BH", substitute ", 73BA, 73BH or 73Y, or a tax offset under section&#160;73I,".
 
-## 92  Application
+89  Subsection 39HH(2) (note)
 
-The amendments made by this Division to the _Income Tax Assessment Act 1936_ and the _Income Tax Assessment Act 1997_ apply to assessments for the income year in which 1 July 2001 occurs and for later income years.
+Omit "or 73BH", substitute ", 73BA, 73BH or 73Y, or a tax offset under section&#160;73I,".
 
-###### Schedule 3—Refundable tax offset
+90  Subparagraph 39M(1)(a)(ii)
 
-Income Tax Assessment Act 1936
+After "plant", insert ", an asset".
 
-## 1  Subsection 73B(1) (definition of _advance R and D expenditure_)
+91  Paragraph 39N(3)(b)
 
-After “research and development expenditure”, insert “that is contracted expenditure”.
+Before "and 73BM(4)", insert ", 73BF(4)".
 
-## 2  After subsection 73B(14)
+92  Application
+
+The amendments made by this Division to the _Income Tax Assessment Act 1936_ and the _Income Tax Assessment Act 1997_ apply to assessments for the income year in which 1&#160;July 2001 occurs and for later income years.
+
+<center>Back to Top</center>
+
+<center>**
+
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001Schedule&#160;3&#151;Refundable tax offset 
+**</center>
+
+_Income Tax Assessment Act 1936_
+
+1  Subsection 73B(1) (definition of advance R and D expenditure)
+
+After "research and development expenditure", insert "that is contracted expenditure".
+
+2  After subsection 73B(14)
 
 Insert:
 
-      (14AA)  A part of an eligible company’s deduction for a year of income under subsection (13) or (14) in respect of a particular amount of research and development expenditure (the **_R&amp;D amount_**) is worked out by multiplying the R&amp;D amount by 1 rather than 1.25 if subsection (14AB) applies to the R&amp;D amount.
+<dl compact=""><dl compact="">
 
-      (14AB)  This subsection applies to an R&amp;D amount of an eligible company for a year of income if:
+<dt>(14AA)</dt><dd>A part of an eligible company's deduction for a year of income under
 
-                     (a)  any other person (within the meaning of section 73H) incurred expenditure during that year of income or an earlier one in respect of all or a part of the things for which the R&amp;D amount was for; and
+subsection&#160;(13) or (14) in respect of a particular amount of research and
 
-                     (b)  the other person was grouped with the eligible company as mentioned in section 73L at the time the expenditure was incurred by the other person.
+development expenditure (the _R&amp;D amount_) is worked out by
 
-      (14AC)  The part of the eligible company’s R&amp;D amount for the year of income that is multiplied by 1.25 under subsection (13) or (14) is:
+multiplying the R&amp;D amount by 1 rather than 1.25 if subsection&#160;(14AB)
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image007.gif)</sub>
+applies to the R&amp;D amount.</dd> <dt>(14AB)</dt><dd>This subsection applies to an R&amp;D amount of an eligible company for a year of income if: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any other person (within the meaning of section&#160;73H) incurred
+
+expenditure during that year of income or an earlier one in respect of all or a
+
+part of the things for which the R&amp;D amount was for; and</dd>
+
+<dt>(b)</dt><dd>the other person was grouped with the eligible company as mentioned in
+
+section&#160;73L at the time the expenditure was incurred by the other person.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(14AC)</dt><dd>The part of the eligible company's R&amp;D amount for the year of
+
+income that is multiplied by 1.25 under subsection&#160;(13) or (14) is:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1208.gif)</sub>
 
 where:
 
-                    <a name="total-group-markup"></a>**_total group markup_** is:
+<def><dl compact=""><dl compact="">
 
-                     (a)  the sum of the amounts derived by persons during the year of income for goods or services in respect of all or a part of the things for which the R&amp;D amount was for while those persons were grouped with the eligible company as mentioned in section 73L; _less_
+_total group markup_ is:
 
-                     (b)  the actual cost to those persons of providing those goods or services.
+ </dl></dl>
 
-      (14AD)  The part of the eligible company’s R&amp;D amount for the year of income that is multiplied by 1 rather than 1.25 is the part of the R&amp;D amount representing the total group markup.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 3  Subparagraph 73C(7)(c)(ii)
+<dt>(a)</dt><dd>the sum of the amounts derived by persons during the year of income for
 
-After “that expenditure”, insert “or would have been allowable under that section if the company had not chosen a tax offset under section 73I”.
+goods or services in respect of all or a part of the things for which the
 
-## 4  At the end of paragraph 73F(2)(b)
+R&amp;D amount was for while those persons were grouped with the eligible
 
-Add “or would have been allowed or allowable if the company had not chosen a tax offset under section 73I”.
+company as mentioned in section&#160;73L; _less_</dd>
 
-## 5  After section 73G
+<dt>(b)</dt><dd>the actual cost to those persons of providing those goods or services.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(14AD)</dt><dd>The part of the eligible company's R&amp;D amount for the year of
+
+income that is multiplied by 1 rather than 1.25 is the part of the R&amp;D
+
+amount representing the total group markup.
+
+</dd> </dl></dl>
+
+3  Subparagraph 73C(7)(c)(ii)
+
+After "that expenditure", insert "or would have been allowable under that section if the company had not chosen a tax offset under section&#160;73I".
+
+4  At the end of paragraph 73F(2)(b)
+
+Add "or would have been allowed or allowable if the company had not chosen a tax offset under section&#160;73I".
+
+5  After section&#160;73G
 
 Insert:
 
-##### <a id="73H"></a>73H  Interpretation
+73H  Interpretation
 
-             (1)  For the purposes of interpretation, sections 73I, 73J, 73K, 72L and 73M are to be read and construed as if they were part of sections 73B, 73BA and 73BH.
+<dl compact=""><dl compact="">
 
-             (2)  In sections 73I, 73J, 73K, 72L and 73M:
+<dt>(1)</dt><dd>For the purposes of interpretation, sections&#160;73I, 73J, 73K, 72L and
 
-                    <a name="affili"></a>**_affiliate_** has the meaning given by section 73M.
+73M are to be read and construed as if they were part of sections&#160;73B,
 
-                    <a name="fix-trust-estat"></a><a name="fix-trust-estat"></a>**_fixed trust estate_**: a trust estate is a **_fixed trust estate_** if persons have fixed entitlements to all of the income and capital of the trust estate.
+73BA and 73BH.</dd> <dt>(2)</dt><dd>In sections&#160;73I, 73J, 73K, 72L and 73M: </dd> </dl></dl>
 
-                    <a name="gambl-suppli"></a>**_gambling supply_** has the meaning given by section 195-1 of the GST Act.
+<def><dl compact=""><dl compact="">
 
-                    <a name="global-gst-amount"></a>**_global GST amount_** has the meaning given by section 195-1 of the GST Act.
+_affiliate_ has the meaning given by section&#160;73M. _fixed trust estate_: a trust estate is a _fixed trust estate_ if persons have fixed entitlements to all of the income and capital of the trust estate. _gambling supply_ has the meaning given by section&#160;195-1 of the GST Act. _global GST amount_ has the meaning given by section&#160;195-1 of the GST Act. _person_ includes (as well as a company):  </dl></dl>
 
-                    <a name="person"></a>**_person_** includes (as well as a company):
+<center>Back to Top</center>
 
-                     (a)  a body politic; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  a partnership; and
+<dt>(a)</dt><dd>a body politic; and</dd>
 
-                     (c)  any other unincorporated association or body of persons; and
+<dt>(b)</dt><dd>a partnership; and</dd>
 
-                     (d)  a trust estate; and
+<dt>(c)</dt><dd>any other unincorporated association or body of persons; and</dd>
 
-                     (e)  a superannuation fund.
+<dt>(d)</dt><dd>a trust estate; and</dd>
 
-                    <a name="group-turnov"></a>**_R&amp;D group turnover_** has the meaning given by section 73K.
+<dt>(e)</dt><dd>a superannuation fund.
 
-                    <a name="taxabl-suppli"></a>**_taxable supply_** includes a supply made in the course of carrying on research and development activities.
+</dd>
 
-                    <a name="tax-offset"></a>**_tax offset_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
+</dl></dl></dl>
 
-                    <a name="valu-suppli"></a><a name="valu-suppli"></a>**_value of the supplies_**: the **_value of the supplies_** a taxpayer makes in a year of income is:
+<def><dl compact=""><dl compact="">
 
-                     (a)  for taxable supplies (if any) the taxpayer made during the year in the course of carrying on a business or in the course of carrying on research and development activities—the value (as defined by section 9-75 of the GST Act) of the supplies; and
+_R&amp;D group turnover_ has the meaning given by
 
-                     (b)  for other supplies the taxpayer made during the year in the course of carrying on a business or in the course of carrying on research and development activities—the prices (as defined by section 9-75 of the GST Act) of the supplies.
+section&#160;73K. _taxable supply_ includes a supply made in the course of carrying on research and development activities. _tax offset_ has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_. _value of the supplies_: the _value of the supplies_ a taxpayer makes in a year of income is:  </dl></dl>
 
-##### <a id="73I"></a>73I  Tax offset instead of deduction under section 73B, 73BA, 73BH or 73Y
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  An eligible company can choose a tax offset instead of a deduction under section 73B, 73BA, 73BH or 73Y for a year of income (the **_tax offset year_**) if it is eligible to make that choice (see section 73J).
+<dt>(a)</dt><dd>for taxable supplies (if any) the taxpayer made during the year in the
 
-             (2)  The choice must be made in the company’s return of income for the tax offset year.
+course of carrying on a business or in the course of carrying on research and
 
-             (3)  The eligible company’s tax offset for the tax offset year is 30 cents for each dollar that the company could, apart from subsection (4), deduct for that year under section 73B, 73BA, 73BH or 73Y.
+development activities&#151;the value (as defined by section&#160;9-75 of the GST
 
-             (4)  An eligible company cannot deduct any amount under section 73B, 73BA, 73BH or 73Y for the tax offset year if it chooses the tax offset for that year.
+Act) of the supplies; and</dd>
 
-Note:          The tax offset is subject to the refundable tax offset rules: see section 67-25 of the _Income Tax Assessment Act 1997_.
+<dt>(b)</dt><dd>for other supplies the taxpayer made during the year in the course of
 
-##### <a id="73J"></a>73J  Eligibility for tax offset
+carrying on a business or in the course of carrying on research and development
 
-             (1)  An eligible company is eligible to choose the tax offset for the tax offset year if:
+activities&#151;the prices (as defined by section&#160;9-75 of the GST Act) of the
 
-                     (a)  it could, apart from subsection 73I(4), deduct an amount under section 73B, 73BA, 73BH or 73Y for that year; and
+supplies.
 
-                     (b)  its aggregate research and development amount for the tax offset year exceeds $20,000; and
+</dd>
 
-                     (c)  the aggregate research and development amount for the tax offset year of the company and of taxpayers with which it is grouped (while they are grouped in that year) is not more than $1,000,000; and
+</dl></dl></dl>
 
-                     (d)  the R&amp;D group turnover of the company for that year is less than $5,000,000.
+73I  Tax offset instead of deduction under section&#160;73B, 73BA, 73BH or 73Y
 
-Note:          Section 73L sets out the taxpayers with which the company is grouped.
+<dl compact=""><dl compact="">
 
-Exception
+<dt>(1)</dt><dd>An eligible company can choose a tax offset instead of a deduction under
 
-             (2)  An eligible company is not eligible to choose the tax offset for the tax offset year if an exempt entity, the affiliates of an exempt entity, an exempt entity together with its affiliates, or 2 or more exempt entities, at any time during the tax offset year, legally or beneficially own, or have the right to acquire, the legal or beneficial ownership of:
+section&#160;73B, 73BA, 73BH or 73Y for a year of income (the _tax offset year_) if it is eligible to make that choice (see section&#160;73J).</dd> <dt>(2)</dt><dd>The choice must be made in the company's return of income for the tax offset year.</dd> <dt>(3)</dt><dd>The eligible company's tax offset for the tax offset year is 30 cents for each dollar that the company could, apart from subsection&#160;(4), deduct for that year under section&#160;73B, 73BA, 73BH or 73Y.</dd> <dt>(4)</dt><dd>An eligible company cannot deduct any amount under section&#160;73B, 73BA, 73BH or 73Y for the tax offset year if it chooses the tax offset for that year. </dd> </dl></dl>
 
-                     (a)  interests in the company that carry between them the right to exercise, or control the exercise of, at least 25% of the voting power in the company; or
+<dl compact=""><dl compact="">
 
-                     (b)  interests in the company that carry between them the right to receive at least 25% of any distribution of income or capital by the company.
+Note:	The tax offset is subject to the refundable tax offset
 
-##### <a id="73K"></a>73K  Meaning of _R&amp;D group turnover_
+rules: see section&#160;67-25 of the _Income Tax Assessment Act 1997_.
 
-             (1)  The **_R&amp;D group turnover_** of an eligible company for a year of income is the sum of:
+ </dl></dl>
 
-                     (a)  the value of the supplies the company made in the year of income; and
+73J  Eligibility for tax offset
 
-                     (b)  the value of the supplies made in the year of income by other persons while they were grouped with the company;
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>An eligible company is eligible to choose the tax offset for the tax
+
+offset year if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>it could, apart from subsection 73I(4), deduct an amount under
+
+section&#160;73B, 73BA, 73BH or 73Y for that year; and</dd>
+
+<dt>(b)</dt><dd>its aggregate research and development amount for the tax offset year
+
+exceeds $20,000; and</dd>
+
+<dt>(c)</dt><dd>the aggregate research and development amount for the tax offset year of
+
+the company and of taxpayers with which it is grouped (while they are grouped
+
+in that year) is not more than $1,000,000; and</dd>
+
+<dt>(d)</dt><dd>the R&amp;D group turnover of the company for that year is less than
+
+$5,000,000.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section&#160;73L sets out the taxpayers with which the
+
+company is grouped.
+
+ </dl></dl>
+
+_Exception_
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>An eligible company is not eligible to choose the tax offset for the tax
+
+offset year if an exempt entity, the affiliates of an exempt entity, an exempt
+
+entity together with its affiliates, or 2 or more exempt entities, at any time
+
+during the tax offset year, legally or beneficially own, or have the right to
+
+acquire, the legal or beneficial ownership of:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>interests in the company that carry between them the right to exercise, or
+
+control the exercise of, at least 25% of the voting power in the company; or</dd>
+
+<dt>(b)</dt><dd>interests in the company that carry between them the right to receive at
+
+least 25% of any distribution of income or capital by the company.
+
+</dd>
+
+</dl></dl></dl>
+
+73K  Meaning of R&amp;D group turnover
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The _R&amp;D group turnover_ of an eligible company for a year
+
+of income is the sum of:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the value of the supplies the company made in the year of income; and</dd>
+
+<dt>(b)</dt><dd>the value of the supplies made in the year of income by other persons
+
+while they were grouped with the company;
+
+</dd>
+
+</dl></dl></dl>
 
 reduced by:
 
-                     (c)  the value of the supplies the company made in the year of income to persons grouped with it while they were grouped with it; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the value of the supplies persons grouped with the company made in the year of income to the company while the company was grouped with them; and
+<dt>(c)</dt><dd>the value of the supplies the company made in the year of income to
 
-                     (e)  the value of the supplies another person made in the year of income to a third person while the other person and the third person were grouped with the company.
+persons grouped with it while they were grouped with it; and</dd>
 
-             (2)  To the extent that the taxable supplies a person makes in a year of income includes gambling supplies, use an amount equal to 11 times the person’s global GST amount for those supplies rather than the value of the supplies in working out the person’s R&amp;D group turnover.
+<dt>(d)</dt><dd>the value of the supplies persons grouped with the company made in the
 
-             (3)  In working out the value of the supplies made by a person, disregard:
+year of income to the company while the company was grouped with them; and</dd>
 
-                     (a)  any supply made to the extent that the consideration for the supply is a payment or a supply by an insurer in settlement of a claim under an insurance policy; and
+<dt>(e)</dt><dd>the value of the supplies another person made in the year of income to a
 
-                     (b)  to the extent that a supply is constituted by a loan—any repayment of principal, and any obligation to repay principal.
+third person while the other person and the third person were grouped with the
 
-##### <a id="73L"></a>73L  Grouped taxpayers
+company.
 
-             (1)  A person is grouped with another person at a time in a year of income if, at that time:
+</dd>
 
-                     (a)  either person controls the other person in the way described in this section; or
+</dl></dl></dl>
 
-                     (b)  both persons are controlled in that way by the same third person; or
+<dl compact=""><dl compact="">
 
-                     (c)  the persons are affiliates of each other.
+<dt>(2)</dt><dd>To the extent that the taxable supplies a person makes in a year of income
 
-             (2)  This section applies to a person that directly controls a second person as if the first person also controlled any other person that is directly, or indirectly by any other application or applications of this section, controlled by the second person.
+includes gambling supplies, use an amount equal to 11 times the person's global
 
-Individuals, companies and fixed trusts
+GST amount for those supplies rather than the value of the supplies in working
 
-             (3)  A person controls another person if the first person, its affiliates or the first person together with the first person’s affiliates:
+out the person's R&amp;D group turnover.</dd> <dt>(3)</dt><dd>In working out the value of the supplies made by a person, disregard: </dd> </dl></dl>
 
-                     (a)  legally or beneficially own, or have the right to acquire the legal or beneficial ownership of, interests in the other person that carry between them the right to receive more than 50% of any distribution of income or capital by the other person; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if the other person is a company—legally or beneficially own, or have the right to acquire the legal or beneficial ownership of, interests in the company that carry between them the right to exercise, or control the exercise of, more than 50% of the voting power in the company.
+<dt>(a)</dt><dd>any supply made to the extent that the consideration for the supply is a
 
-Non-fixed trust estates
+payment or a supply by an insurer in settlement of a claim under an insurance
 
-             (4)  A person controls a trust estate that is not a fixed trust estate if:
+policy; and</dd>
 
-                     (a)  the trustee has made a distribution, in any of the last 4 years of income (except the tax offset year) of $100,000 or more to the person, the person’s affiliates or the person together with the person’s affiliates; or
+<dt>(b)</dt><dd>to the extent that a supply is constituted by a loan&#151;any repayment of
 
-                     (b)  the person, the person’s affiliates or the person together with the person’s affiliates:
+principal, and any obligation to repay principal.
 
-                              (i)  have the power, directly or indirectly, to obtain the beneficial enjoyment of any of the capital or income of the trust estate; or
+</dd>
 
-                             (ii)  are capable of gaining that enjoyment under an agreement; or
+</dl></dl></dl>
 
-                     (c)  a trustee of the trust estate is accustomed or under an obligation (whether formal or informal), or might reasonably be expected, to act in accordance with the directions, instructions or wishes of the person, the person’s affiliates or the person together with the person’s affiliates.
+73L  Grouped taxpayers
 
-Partnerships
+<dl compact=""><dl compact="">
 
-             (5)  A person controls a partnership if the person, the person’s affiliates or the person together with the person’s affiliates have the right to more than 50% of the partnership net income, or have more than a 50% interest in assets used in the partnership business (except assets that are leased to the partnership).
+<dt>(1)</dt><dd>A person is grouped with another person at a time in a year of income if,
 
-             (6)  A partnership (the **_controller_**) controls another person if a partner in the controller, or 2 or more partners in the controller, have the right to receive more than 50% of the partnership net income, or have more than a 50% interest in assets used in the partnership business, and:
+at that time:
 
-                     (a)  if the other person is a company—the same partner, or the same 2 or more partners, have the right to receive more than 50% of any distribution of income or capital by the company, or to exercise, or to control the exercise of, more than 50% of the voting power in the company; or
+</dd> </dl></dl>
 
-                     (b)  if the other person is a fixed trust estate—the same partner, or the same 2 or more partners, have the right to receive more than 50% of any distribution of income or capital by the trustee; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  if the other person is a trust estate that is not a fixed trust estate—a condition in a paragraph of subsection (4) is satisfied for the same partner, or the same 2 or more partners in relation to the trust estate; or
+<dt>(a)</dt><dd>either person controls the other person in the way described in this
 
-                     (d)  if the other person is a partnership—the same partner, or the same 2 or more partners, have the right to receive more than 50% of the partnership net income, or have more than a 50% interest in assets used in the partnership business, of the partnership.
+section; or</dd>
 
-##### <a id="73M"></a>73M  Meaning of _affiliate_
+<dt>(b)</dt><dd>both persons are controlled in that way by the same third person; or</dd>
 
-             (1)  A person is an **_affiliate_** of another person if the person acts, or could reasonably be expected to act, in accordance with the other person’s directions or wishes, or in concert with the other person, in relation to the affairs of the person’s business or research and development expenditure.
+<dt>(c)</dt><dd>the persons are affiliates of each other.
 
-             (2)  Another partner in a partnership in which a person is a partner is not the person’s **_affiliate_** only because the partner acts, or could reasonably be expected to act, in concert with the person in relation to the affairs of the partnership.
+</dd>
 
-## 6  After subsection 82AM(2)
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>This section applies to a person that directly controls a second person as
+
+if the first person also controlled any other person that is directly, or
+
+indirectly by any other application or applications of this section, controlled
+
+by the second person.
+
+</dd> </dl></dl>
+
+_Individuals, companies and fixed trusts_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A person controls another person if the first person, its affiliates or
+
+the first person together with the first person's affiliates:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>legally or beneficially own, or have the right to acquire the legal or
+
+beneficial ownership of, interests in the other person that carry between them
+
+the right to receive more than 50% of any distribution of income or capital by
+
+the other person; or</dd>
+
+<dt>(b)</dt><dd>if the other person is a company&#151;legally or beneficially own, or have the
+
+right to acquire the legal or beneficial ownership of, interests in the company
+
+that carry between them the right to exercise, or control the exercise of, more
+
+than 50% of the voting power in the company.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+_Non-fixed trust estates_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>A person controls a trust estate that is not a fixed trust estate if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the trustee has made a distribution, in any of the last 4 years of income
+
+(except the tax offset year) of $10
+
+00
+
+or more to the person, the person's affiliates or the person together with the
+
+person's affiliates; or</dd>
+
+<dt>(b)</dt><dd>the person, the person's affiliates or the person together with the
+
+person's affiliates:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>have the power, directly or indirectly, to obtain the beneficial enjoyment
+
+of any of the capital or income of the trust estate; or</dd>
+
+<dt>(ii)</dt><dd>are capable of gaining that enjoyment under an agreement; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>a trustee of the trust estate is accustomed or under an obligation
+
+(whether formal or informal), or might reasonably be expected, to act in
+
+accordance with the directions, instructions or wishes of the person, the
+
+person's affiliates or the person together with the person's affiliates.
+
+</dd>
+
+</dl></dl></dl>
+
+_Partnerships_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>A person controls a partnership if the person, the person's affiliates or
+
+the person together with the person's affiliates have the right to more than
+
+50% of the partnership net income, or have more than a 50% interest in assets
+
+used in the partnership business (except assets that are leased to the
+
+partnership).</dd> <dt>(6)</dt><dd>A partnership (the _controller_) controls another person if a partner in the controller, or 2 or more partners in the controller, have the right to receive more than 50% of the partnership net income, or have more than a 50% interest in assets used in the partnership business, and: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the other person is a company&#151;the same partner, or the same 2 or more
+
+partners, have the right to receive more than 50% of any distribution of income
+
+or capital by the company, or to exercise, or to control the exercise of, more
+
+than 50% of the voting power in the company; or</dd>
+
+<dt>(b)</dt><dd>if the other person is a fixed trust estate&#151;the same partner, or the same
+
+2 or more partners, have the right to receive more than 50% of any distribution
+
+of income or capital by the trustee; or</dd>
+
+<dt>(c)</dt><dd>if the other person is a trust estate that is not a fixed trust estate&#151;a
+
+condition in a paragraph of subsection&#160;(4) is satisfied for the same
+
+partner, or the same 2 or more partners in relation to the trust estate; or</dd>
+
+<dt>(d)</dt><dd>if the other person is a partnership&#151;the same partner, or the same 2 or
+
+more partners, have the right to receive more than 50% of the partnership net
+
+income, or have more than a 50% interest in assets used in the partnership
+
+business, of the partnership.
+
+</dd>
+
+</dl></dl></dl>
+
+73M  Meaning of affiliate
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person is an _affiliate_ of another person if the person
+
+acts, or could reasonably be expected to act, in accordance with the other
+
+person's directions or wishes, or in concert with the other person, in relation
+
+to the affairs of the person's business or research and development
+
+expenditure.</dd> <dt>(2)</dt><dd>Another partner in a partnership in which a person is a partner is not the person's _affiliate_ only because the partner acts, or could reasonably be expected to act, in concert with the person in relation to the affairs of the partnership. </dd> </dl></dl>
+
+6  After subsection 82AM(2)
 
 Insert:
 
-          (2A)  A deduction under this Subdivision is not allowable in respect of expenditure in respect of a unit of property where a deduction in respect of the expenditure would have been allowed or allowable under section 73B, 73BA, 73BH or 73Y if a company had not chosen a tax offset under section 73I.
+<dl compact=""><dl compact="">
 
-## 7  Subsection 82KZL(1)
+<dt>(2A)</dt><dd>A deduction under this Subdivision is not allowable in respect of
+
+expenditure in respect of a unit of property where a deduction in respect of
+
+the expenditure would have been allowed or allowable under section&#160;73B,
+
+73BA, 73BH or 73Y if a company had not chosen a tax offset under
+
+section&#160;73I.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+7  Subsection 82KZL(1)
 
 Insert:
 
-                    <a name="research-develop-activ"></a>**_research and development activities_** has the meaning given by section 73B.
+<def><dl compact=""><dl compact="">
 
-## 8  At the end of section 82KZL
+_research and development activities_ has the meaning given by
+
+section&#160;73B.
+
+ </dl></dl>
+
+8  At the end of section&#160;82KZL
 
 Add:
 
-             (3)  This Subdivision has effect as if carrying on research and development activities were carrying on a business.
+<dl compact=""><dl compact="">
 
-## 9  After subsection 632(2)
+<dt>(3)</dt><dd>This Subdivision has effect as if carrying on research and development
 
-Insert:
+activities were carrying on a business.
 
-          (2A)  The deduction is not allowable if a deduction in respect of the expenditure would have been allowed or allowable under section 73B, 73BA, 73BH or 73Y if a company had not chosen a tax offset under section 73I.
+</dd> </dl></dl>
 
-## 10  After subsection 642(2)
-
-Insert:
-
-          (2A)  The deduction is not allowable if a deduction in respect of the expenditure would have been allowed or allowable under section 73B, 73BA, 73BH or 73Y if a company had not chosen a tax offset under section 73I.
-
-Income Tax Assessment Act 1997
-
-## 11  Section 13-1 (after table item headed “rebatable ETP annuity”)
+9  After subsection 632(2)
 
 Insert:
 
-<table>
-<colgroup>
-  <col width="88%">
-  <col width="12%">
-</colgroup>
+<dl compact=""><dl compact="">
 
-<tbody>
-  <tr>
-    <td colspan="2">
-      <div><b>research and development</b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>……………………………………………….</div>
-    </td>
-    <td>
-      <div><b>731</b></div>
-    </td>
-  </tr>
-</tbody></table>
+<dt>(2A)</dt><dd>The deduction is not allowable if a deduction in respect of the
 
-## 12  Paragraph 43-70(2)(g)
+expenditure would have been allowed or allowable under section&#160;73B, 73BA,
 
-After “_1936_”, insert “, or would be allowable under that section of that Act if a company had not chosen a tax offset under section 73I of that Act”.
+73BH or 73Y if a company had not chosen a tax offset under section&#160;73I.
 
-## 13  At the end of section 67-25
+</dd> </dl></dl>
 
-Add:
-
-             (3)  The tax offset available under section 73I of the _Income Tax Assessment Act 1936_ (research and development) is subject to the refundable tax offset rules.
-
-Taxation (Interest on Overpayments and Early Payments) Act 1983
-
-## 14  Subsection 3(1) (at the end of the definition of _income tax crediting amount_)
-
-Add:
-
-               ; or (c)  any tax offset that is subject to the refundable tax offset rules.
-
-Note:          Section 67-25 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset rules.
-
-## 15  Subparagraph 8E(1)(d)(i)
-
-After “rebate”, insert “, except a tax offset that is subject to the refundable tax offset rules,”.
-
-## 16  At the end of subsection 8E(1)
-
-Add:
-
-Note:          Section 67-25 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset rules.
-
-## 17  Subparagraph 8G(1)(d)(i)
-
-After “rebate”, insert “, except a tax offset that is subject to the refundable tax offset rules,”.
-
-## 18  At the end of subsection 8G(1)
-
-Add:
-
-Note:          Section 67-25 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset rules.
-
-## 19  Application
-
-(1)        Subject to subitem (2), the amendments made by this Schedule apply to assessments for the first year of income starting after 30 June 2001 and for later years.
-
-(2)        The amendments made by items 14 to 18 (inclusive) apply to assessments made after 30 June 2001.
-
-###### Schedule 4—Incremental tax incentive
-
-Income Tax Assessment Act 1936
-
-## 1  At the end of paragraph 73C(2)(b)
-
-Add “, or another person has received or become entitled to receive such a recoupment or grant where the other person is, at the time of receipt or entitlement, grouped with the first-mentioned company as mentioned in section 73L”.
-
-## 2  Paragraph 73C(3)(b)
-
-After “that the company”, insert “or the grouped person (see paragraph (2)(b))”.
-
-## 3  Sub-subparagraph 73C(7)(c)(i)(A)
-
-After “in which the company”, insert “or the grouped person (see paragraph (2)(b))”.
-
-## 4  Subparagraph 73C(7)(c)(ii)
-
-After “if the company”, insert “or the grouped person”.
-
-## 5  Before section 74
+10  After subsection 642(2)
 
 Insert:
 
-##### <a id="73P"></a>73P  Interpretation
+<dl compact=""><dl compact="">
 
-             (1)  For the purposes of interpretation, this section and sections 73Q to 73Z (inclusive) are to be read and construed as if they were part of sections 73B, 73BA and 73BH.
+<dt>(2A)</dt><dd>The deduction is not allowable if a deduction in respect of the
 
-             (2)  In sections 73Q to 73Z (inclusive):
+expenditure would have been allowed or allowable under section&#160;73B, 73BA,
 
-                    <a name="y0"></a><a name="aa0"></a>**_AA0_** means a group’s adjustment amount for the **_Y0_** year of income.
+73BH or 73Y if a company had not chosen a tax offset under section&#160;73I.
 
-                    <a name=""></a><a name="aa"></a>**_AA-1_** means a group’s adjustment amount for the **_Y-1_** year of income.
+</dd> </dl></dl>
 
-                    <a name="adjust-amount"></a>**_adjustment amount_** has the meaning given by section 73T.
+_Income Tax Assessment Act 1997_
 
-                    <a name="adjust-balanc"></a>**_adjustment balance_** has the meaning given by section 73V.
+11  Section&#160;13-1 (after table item headed "rebatable ETP annuity")
 
-                    <a name="group-member"></a>**_group member_** means a primary group member or a secondary group member.
+Insert:
 
-                    <a name="group-membership-period"></a>**_group membership period_** of an eligible company has the meaning given by section 73R.
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>research and development</div>
 
-                    <a name="increment-expenditur"></a>**_incremental expenditure_** means expenditure that is research and development expenditure except:
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>.......................................................</div>
 
-                     (a)  expenditure to lease or hire plant; and
+  </td>
+  <td colspan="1" align="left">
+    <div>731</div>
 
-                     (b)  expenditure under a contract to the extent that it is, in substance, for the acquisition of plant and not for the receipt of services.
+  </td>
+</tr></table>12  Paragraph 43-70(2)(g)
 
-                    <a name="person"></a>**_person_** has the same meaning as in section 73H.
+After "_1936_", insert ", or would be allowable under that section of that Act if a company had not chosen a tax offset under section&#160;73I of that Act".
 
-                    <a name="premium-amount"></a>**_premium amount_** has the meaning given by section 73W.
+13  At the end of section&#160;67-25
 
-                    <a name="primari-group-member"></a>**_primary group member_**has the meaning given by section 73R.
+Add:
 
-                    <a name="spend"></a>**_R&amp;D spend_** of an eligible company for a year of income means the sum of:
+<dl compact=""><dl compact="">
 
-                     (a)  the incremental expenditure of the eligible company for the year of income incurred during its group membership period; and
+<dt>(3)</dt><dd>The tax offset available under section&#160;73I of the _Income Tax Assessment Act 1936_ (research and development) is subject to the refundable
 
-                     (b)  the incremental expenditure of each group member of the eligible company for the year of income incurred during its group membership period.
+tax offset rules.
 
-                    <a name="y0"></a><a name="ra0"></a>**_RA0_** means a group’s running average for the **_Y0_** year of income.
+</dd> </dl></dl>
 
-                    <a name=""></a><a name="ra"></a>**_RA-1_** means a group’s running average for the **_Y-1_** year of income.
+_Taxation (Interest on Overpayments and Early Payments) Act 1983_
 
-                    <a name="run-averag"></a>**_running average_** for a particular year of income is worked out under section 73U.
+14  Subsection 3(1) (at the end of the definition of income tax crediting amount)
 
-                    <a name="secondari-group-member"></a>**_secondary group member_** has the meaning given by section 73R.
+Add:
 
-                    <a name="start-grant"></a>**_start grant_** means a subsidy or grant paid to an eligible company:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  under an agreement between the company and the Board entered into under the program known as the R&amp;D Start Program; and
+	; or (c)	any tax offset that is subject to the refundable tax offset rules.
 
-                     (b)  in respect of a year of income in relation to which the company is not registered as mentioned in subsection 73B(10).
+</dl></dl></dl>
 
-                    <a name="viabl-busi"></a>**_viable business_** has the meaning given by section 73R.
+<dl compact=""><dl compact="">
 
-             (3)  For the purposes of the definition of **_incremental expenditure_** in subsection (2), where expenditure under a contract is both for the acquisition of plant and for the provision of services, the expenditure must be apportioned on a reasonable basis between them.
+Note:	Section&#160;67-25 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset
 
-             (4)  None of the expenditure referred to in subsection (3) can be **_incremental expenditure_** if a reasonable apportionment is not possible.
+rules.
 
-             (5)  A company’s **_incremental expenditure_** for a year of income excludes the total group markup of the company for that expenditure (as worked out under subsection 73B(14AC)).
+ </dl></dl>
 
-             (6)  In this section and in sections 73Q, 73R, 73S, 73T, 73U, 73V, 73W, 73X and 73Y, particular years of income are identified by the letter “Y” with a further identifier. Under that system:
+15  Subparagraph 8E(1)(d)(i)
 
-                     (a)  **_Y0_** is the year of income for which an eligible company is working out its assessable income and deductions; and
+After "rebate", insert ", except a tax offset that is subject to the refundable tax offset rules,".
 
-                     (b)  **_Y-1_** means the year of income before the **_Y0_** year of income; and
+16  At the end of subsection 8E(1)
 
-                     (c)  **_Y-2_** means the year of income 2 years before the **_Y0_** year of income; and
+Add:
 
-                     (d)  **_Y-3_** means the year of income 3 years before the **_Y0_** year of income.
+<dl compact=""><dl compact="">
 
-##### <a id="73Q"></a>73Q  Eligibility to claim additional deduction
+Note:	Section&#160;67-25 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset
 
-             (1)  An eligible company is eligible to claim an additional deduction under section 73Y for a year of income (the **_deduction year_**) if the company:
+rules.
 
-                     (a)  can deduct an amount for incremental expenditure under subsection 73B(13) or (14) for the deduction year; and
+ </dl></dl>
 
-                     (b)  has deducted or can deduct an amount for incremental expenditure under that subsection for each of the preceding 3 years of income.
+<center>Back to Top</center>
 
-             (2)  For the purposes of paragraph (1)(b), the eligible company is treated as if it had deducted or can deduct an amount for incremental expenditure under that subsection for each of the preceding 3 years of income if any group member of the eligible company has deducted or can deduct an amount for expenditure of that kind incurred during its group membership period under that subsection for each of those years.
+17  Subparagraph 8G(1)(d)(i)
 
-             (3)  For the purposes of paragraph (1)(b), subsection (2) of this section and subsection 73R(1), the eligible company or any of its group members is treated as if it had deducted or can deduct an amount for incremental expenditure under subsection 73B(13) or (14) for a year of income if the company received a start grant in respect of that year of income.
+After "rebate", insert ", except a tax offset that is subject to the refundable tax offset rules,".
 
-##### <a id="73R"></a>73R  Group members
+18  At the end of subsection 8G(1)
 
-             (1)  This section sets out rules for determining whether an eligible company that has deducted or can deduct an amount under subsection 73B(13) or (14) is a **_group member_** in relation to another company that has deducted or can deduct such an amount. In applying this section, use section 73L to determine whether companies are grouped.
+Add:
 
-             (2)  Work out the **_group members_** of the eligible company and their **_group membership periods_** in this way:
+<dl compact=""><dl compact="">
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+Note:	Section&#160;67-25 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset
+
+rules.
+
+ </dl></dl>
+
+19  Application
+
+(1)	Subject to subitem&#160;(2), the amendments made by this Schedule apply to assessments for the first year of income starting after 30&#160;June 2001 and for later years.
+ (2)	The amendments made by items&#160;14 to 18 (inclusive) apply to assessments made after 30&#160;June 2001.
+
+<center>**
+
+###  TAXATION LAWS AMENDMENT (RESEARCH AND DEVELOPMENT) ACT 2001Schedule&#160;4&#151;Incremental tax incentive 
+**</center>
+
+_Income Tax Assessment Act 1936_
+
+1  At the end of paragraph 73C(2)(b)
+
+Add ", or another person has received or become entitled to receive such a recoupment or grant where the other person is, at the time of receipt or entitlement, grouped with the first-mentioned company as mentioned in section&#160;73L".
+
+2  Paragraph 73(3)(b)
+
+After "that the company", insert "or the grouped person (see paragraph&#160;(2)(b))".
+
+3  Sub-subparagraph 73C(7)(c)(i)(A)
+
+After "in which the company", insert "or the grouped person (see paragraph&#160;(2)(b))".
+
+4  Subparagraph 73C(7)(c)(ii)
+
+After "if the company", insert "or the grouped person".
+
+5  Before section&#160;74
+
+Insert:
+
+73P  Interpretation
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of interpretation, this section and sections&#160;73Q to
+
+73Z (inclusive) are to be read and construed as if they were part of
+
+sections&#160;73B, 73BA and 73BH.</dd> <dt>(2)</dt><dd>In sections&#160;73Q to 73Z (inclusive): </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_AA0_ means a group's adjustment amount for the
+
+_Y0_ year of income. _AA-1_ means a group's adjustment amount for the _Y-1_ year of income. _adjustment amount_ has the meaning given by section&#160;73T. _adjustment balance_ has the meaning given by section&#160;73V. _group member_ means a primary group member or a secondary group member. _group membership period_ of an eligible company has the meaning given by section&#160;73R. _incremental expenditure_ means expenditure that is research and development expenditure except:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>expenditure to lease or hire plant; and</dd>
+
+<dt>(b)</dt><dd>expenditure under a contract to the extent that it is, in substance, for
+
+the acquisition of plant and not for the receipt of services.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_person_ has the same meaning as in section&#160;73H. _premium amount_ has the meaning given by section&#160;73W. _primary group member_ has the meaning given by section&#160;73R. _R&amp;D spend_ of an eligible company for a year of income means the sum of:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the incremental expenditure of the eligible company for the year of income
+
+incurred during its group membership period; and</dd>
+
+<dt>(b)</dt><dd>the incremental expenditure of each group member of the eligible company
+
+for the year of income incurred during its group membership period.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_RA0_ means a group's running average for the
+
+_Y0_ year of income. _RA-1_ means a group's running average for the _Y-1_ year of income. _running average_ for a particular year of income is worked out under section&#160;73U. _secondary group member_ has the meaning given by section&#160;73R. _start grant_ means a subsidy or grant paid to an eligible company:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>under an agreement between the company and the Board entered into under
+
+the program known as the R&amp;D Start Program; and</dd>
+
+<dt>(b)</dt><dd>in respect of a year of income in relation to which the company is not
+
+registered as mentioned in subsection 73B(10).
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_viable business_ has the meaning given by section&#160;73R.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of the definition of _incremental expenditure_ in subsection&#160;(2), where expenditure under a contract
+
+is both for the acquisition of plant and for the provision of services, the
+
+expenditure must be apportioned on a reasonable basis between them.</dd> <dt>(4)</dt><dd>None of the expenditure referred to in subsection&#160;(3) can be _incremental expenditure_ if a reasonable apportionment is not possible.</dd> <dt>(5)</dt><dd>A company's _incremental expenditure_ for a year of income excludes the total group markup of the company for that expenditure (as worked out under subsection 73B(14AC)).</dd> <dt>(6)</dt><dd>In this section and in sections&#160;73Q, 73R, 73S, 73T, 73U, 73V, 73W, 73X and 73Y, particular years of income are identified by the letter "Y" with a further identifier. Under that system: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>_Y0_ is the year of income for which an eligible
+
+company is working out its assessable income and deductions; and</dd>
+
+<dt>(b)</dt><dd>_Y-1_ means the year of income before the
+
+_Y0_ year of income; and</dd>
+
+<dt>(c)</dt><dd>_Y-2_ means the year of income 2 years before the
+
+_Y0_ year of income; and</dd>
+
+<dt>(d)</dt><dd>_Y-3_ means the year of income 3 years before the
+
+_Y0_ year of income.
+
+</dd>
+
+</dl></dl></dl>
+
+73Q  Eligibility to claim additional deduction
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>An eligible company is eligible to claim an additional deduction under
+
+section&#160;73Y for a year of income (the _deduction year_) if the
+
+company:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>can deduct an amount for incremental expenditure under subsection 73B(13)
+
+or (14) for the deduction year; and</dd>
+
+<dt>(b)</dt><dd>has deducted or can deduct an amount for incremental expenditure under
+
+that subsection for each of the preceding 3 years of income.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of paragraph&#160;(1)(b), the eligible company is treated
+
+as if it had deducted or can deduct an amount for incremental expenditure under
+
+that subsection for each of the preceding 3 years of income if any group member
+
+of the eligible company has deducted or can deduct an amount for expenditure of
+
+that kind incurred during its group membership period under that subsection for
+
+each of those years.</dd> <dt>(3)</dt><dd>For the purposes of paragraph&#160;(1)(b), subsection&#160;(2) of this section and subsection 73R(1), the eligible company or any of its group members is treated as if it had deducted or can deduct an amount for incremental expenditure under subsection 73B(13) or (14) for a year of income if the company received a start grant in respect of that year of income. </dd> </dl></dl>
+
+73R  Group members
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section sets out rules for determining whether an eligible company
+
+that has deducted or can deduct an amount under subsection 73B(13) or (14) is a
+
+_group member_ in relation to another company that has deducted or
+
+can deduct such an amount. In applying this section, use section&#160;73L to
+
+determine whether companies are grouped.</dd> <dt>(2)</dt><dd>Work out the _group members_ of the eligible company and their _group membership periods_ in this way: </dd> </dl></dl>
+
+<center>Back to Top</center>
 
 _Method statement_
 
-_Step 1._   Work out, as at the last day of the Y<sub>0</sub> year of income, which companies are grouped with the eligible company. The eligible company and these grouped companies are the **_primary group members_**.
+_Step 1._	Work out, as at the last day of the Y<sub>0</sub> year of income, which companies are grouped with the eligible company. The eligible company and these grouped companies are the _primary group members_.
+ _Step 2._	Work out the day before the last day of the Y<sub>0</sub> year of income, or the first day of the Y<sub>-3</sub> year of income, whichever is the later, when a company that is a primary group member:
 
-_Step 2._   Work out the day before the last day of the Y<sub>0</sub> year of income, or the first day of the Y<sub>-3</sub> year of income, whichever is the later, when a company that is a primary group member:
+	(a)	was controlled, as mentioned in section&#160;73L, by a person other than a person who controlled it as at the last day of the Y<sub>0</sub> year of income; or
+ 	(b)	acted, or could be expected to act, in accordance with the directions or wishes of a person other than a person in accordance with whose directions or wishes it acted, or could be expected to act, as at the last day of the Y<sub>0</sub> year of income.
 
-               (a)     was controlled, as mentioned in section 73L, by a person other than a person who controlled it as at the last day of the Y<sub>0</sub> year of income; or
+	The period between this day and the last day of the Y<sub>0</sub> year of income is that company's _group membership period_.
+ _Step 3._	Any other company that was grouped with a primary group member at a time during the member's group membership period is a _secondary group member_.
+ _Step 4._	Work out the day before the last day of the Y<sub>0</sub> year of income when a secondary group member became grouped with the primary group member as mentioned in step 3, or the first day of the Y<sub>-3</sub> year of income, whichever is the later.
+ _Step 5._	Work out the day before the last day of the Y<sub>0</sub> year of income when the secondary group member was not so grouped with the primary group member. The period between that day and the day worked out under step 4 is the secondary group member's _group membership period_.
 
-               (b)     acted, or could be expected to act, in accordance with the directions or wishes of a person other than a person in accordance with whose directions or wishes it acted, or could be expected to act, as at the last day of the Y<sub>0</sub> year of income.
+_Exception: secondary member leaving with a viable business_
 
-              The period between this day and the last day of the Y<sub>0</sub> year of income is that company’s **_group membership period_**.
+<dl compact=""><dl compact="">
 
-_Step 3._   Any other company that was grouped with a primary group member at a time during the member’s group membership period is a **_secondary group member_**.
+<dt>(3)</dt><dd>The period that would be a secondary group member's group membership
 
-_Step 4._   Work out the day before the last day of the Y<sub>0</sub> year of income when a secondary group member became grouped with the primary group member as mentioned in step 3, or the first day of the Y<sub>-3</sub> year of income, whichever is the later.
+period is treated as never having existed if, at the end of that period when
 
-_Step 5._   Work out the day before the last day of the Y<sub>0</sub> year of income when the secondary group member was not so grouped with the primary group member. The period between that day and the day worked out under step 4 is the secondary group member’s **_group membership period_**.</div>
+the secondary group member stops being grouped with a primary group member, the
 
-Exception: secondary member leaving with a viable business
+secondary group member has a viable business.
 
-             (3)  The period that would be a secondary group member’s group membership period is treated as never having existed if, at the end of that period when the secondary group member stops being grouped with a primary group member, the secondary group member has a viable business.
+</dd> </dl></dl>
 
-Exception: extending group membership period
+_Exception: extending group membership period_
 
-             (4)  The group membership period of a group member of a particular group (the **_current group_**) is extended to include its history period with its former group (see subsection (5)) if, when the company became a group member of the current group, it did so with a viable business.
+<dl compact=""><dl compact="">
 
-Viable business
+<dt>(4)</dt><dd>The group membership period of a group member of a particular group (the
 
-             (5)  A company stops being or starts being a group member of a group with a **_viable business_** if:
+_current group_) is extended to include its history period with its
 
-                     (a)  sufficient assets (including assets that have been used in carrying on research and development activities) are transferred under the transactions involved in the change of control to allow the continued operation of a business; and
+former group (see subsection&#160;(5)) if, when the company became a group
 
-                     (b)  the person or persons that disposed of control of the company agree in writing with the person or persons that gain control that this subsection should apply; and
+member of the current group, it did so with a viable business.
 
-                     (c)  the person or persons that disposed of control of the company provide written details of incremental expenditure incurred by the company during the period (its **_history period_**) it was a group member of its former group.
+</dd> </dl></dl>
 
-Note:          The definition of **_person_** includes trusts, partnerships and other entities as well as companies: see section 73H.
+_Viable business_
 
-             (6)  The written agreement referred to in paragraph (5)(b) must be made, and the written details referred to in paragraph (5)(c) must be provided:
+<dl compact=""><dl compact="">
 
-                     (a)  for a change of control occurring before 1 July 2002—by 30 June 2002; or
+<dt>(5)</dt><dd>A company stops being or starts being a group member of a group with a
 
-                     (b)  otherwise—by the end of the year of income in which the change of control occurs; or
+_viable business_ if:
 
-                     (c)  within a further time allowed by the Commissioner.
+</dd> </dl></dl>
 
-##### <a id="73S"></a>73S  Calculating the amounts relevant to the additional deduction
+<dl compact=""><dl compact=""><dl compact="">
 
-                   If a negative result is obtained from a calculation in section 73T or 73V, that result is taken to be zero.
+<dt>(a)</dt><dd>sufficient assets (including assets that have been used in carrying on
 
-##### <a id="73T"></a>73T  Adjustment amounts
+research and development activities) are transferred under the transactions
 
-             (1)  The **_adjustment amount_** for an eligible company and its group members for the Y<sub>0</sub> year of income is:
+involved in the change of control to allow the continued operation of a
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image008.gif)</sub>
+business; and</dd>
 
-             (2)  The **_adjustment amount_** for an eligible company and its group members for the Y<sub>-1</sub> year of income is:
+<dt>(b)</dt><dd>the person or persons that disposed of control of the company agree in
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image009.gif)</sub>
+writing with the person or persons that gain control that this subsection
 
-Exceptions
+should apply; and</dd>
 
-             (3)  **_AA0_** is zero if:
+<dt>(c)</dt><dd>the person or persons that disposed of control of the company provide
 
-                     (a)  the eligible company or any of its group members was eligible to claim an additional deduction under section 73Y for the Y<sub>-1</sub> year of income; and
+written details of incremental expenditure incurred by the company during the
 
-                     (b)  there has been no change in the control of the eligible company or any of its group members for the Y<sub>0</sub> year of income resulting in:
+period (its _history period_) it was a group member of its former
 
-                              (i)  a company entering or leaving the group with a viable business; and
+group.
 
-                             (ii)  a change to the R&amp;D spend of the eligible company for the Y<sub>-1</sub>, Y<sub>-2</sub> or Y<sub>-3</sub> year of income.
+</dd>
 
-             (4)  **_AA-1_** is zero if:
+</dl></dl></dl>
 
-                     (a)  the eligible company or any of its group members was eligible to claim an additional deduction under section 73Y for the Y<sub>-2</sub> year of income; and
+<dl compact=""><dl compact="">
 
-                     (b)  there has been no change in the control of the eligible company or any of its group members for the Y<sub>0</sub> or Y<sub>-1</sub> year of income resulting in:
+Note:	The definition of _person_ includes trusts,
 
-                              (i)  a company entering or leaving the group with a viable business; and
+partnerships and other entities as well as companies: see section&#160;73H.
 
-                             (ii)  a change to the R&amp;D spend of the eligible company for the Y<sub>-1</sub>, Y<sub>-2</sub> or Y<sub>-3</sub> year of income.
+ </dl></dl>
 
-##### <a id="73U"></a>73U  Running averages
+<dl compact=""><dl compact="">
 
-             (1)  The **_running average_** for the Y<sub>0</sub> year of income is one-third of the sum of the R&amp;D spend of the eligible company for each of the Y<sub>-1</sub>, Y<sub>-2</sub>, and Y<sub>-3</sub> years of income.
+<dt>(6)</dt><dd>The written agreement referred to in paragraph&#160;(5)(b) must be made,
 
-             (2)  The **_running average_** for the **_Y-1_** year of income is one-half of the sum of the R&amp;D spend of the eligible company for each of the 2 years of income before the year for which RA<sub>-1</sub> is worked out.
+and the written details referred to in paragraph&#160;(5)(c) must be provided:
 
-##### <a id="73V"></a>73V  Adjustment balance
+</dd> </dl></dl>
 
-             (1)  The **_adjustment balance_** is, if the R&amp;D spend of the eligible company for the Y<sub>-1</sub> year of income is less than or equal to RA<sub>-1</sub>:
+<dl compact=""><dl compact=""><dl compact="">
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image010.gif)</sub>
+<dt>(a)</dt><dd>for a change of control occurring before 1&#160;July 2002&#151;by 30&#160;June
 
-             (2)  Otherwise, the **_adjustment balance_** is:
+2002; or</dd>
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00282/Html/7CC5F91BBE685428CA256FE3001FF369/$FILE/image011.gif)</sub>
+<dt>(b)</dt><dd>otherwise&#151;by the end of the year of income in which the change of control
+
+occurs; or</dd>
+
+<dt>(c)</dt><dd>within a further time allowed by the Commissioner.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+73S  Calculating the amounts relevant to the additional deduction
+
+<dl compact=""><dl compact="">
+
+		If a negative result is obtained from a calculation in section&#160;73T or
+
+73V, that result is taken to be zero.
+
+ </dl></dl>
+
+73T  Adjustment amounts
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The _adjustment amount_ for an eligible company and its group
+
+members for the Y<sub>0</sub> year of income is:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1209.gif)</sub>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The _adjustment amount_ for an eligible company and its group
+
+members for the Y<sub>-1</sub> year of income is:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1210.gif)</sub>
+
+_Exceptions_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>_AA0_ is zero if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the eligible company or any of its group members was eligible to claim an
+
+additional deduction under section&#160;73Y for the Y<sub>-1</sub> year of
+
+income; and</dd>
+
+<dt>(b)</dt><dd>there has been no change in the control of the eligible company or any of
+
+its group members for the Y<sub>0</sub> year of income resulting in:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a company entering or leaving the group with a viable business; and</dd>
+
+<dt>(ii)</dt><dd>a change to the R&amp;D spend of the eligible company for the
+
+Y<sub>-1</sub>, Y<sub>-2</sub> or Y<sub>-3</sub> year of income.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>_AA-1_ is zero if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the eligible company or any of its group members was eligible to claim an
+
+additional deduction under section&#160;73Y for the Y<sub>-2</sub> year of
+
+income; and</dd>
+
+<dt>(b)</dt><dd>there has been no change in the control of the eligible company or any of
+
+its group members for the Y<sub>0</sub> or Y<sub>-1</sub> year of income
+
+resulting in:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a company entering or leaving the group with a viable business; and</dd>
+
+<dt>(ii)</dt><dd>a change to the R&amp;D spend of the eligible company for the
+
+Y<sub>-1</sub>, Y<sub>-2</sub> or Y<sub>-3</sub> year of income.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+73U  Running averages
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The _running average_ for the Y<sub>0</sub> year of income is
+
+one-third of the sum of the R&amp;D spend of the eligible company for each of
+
+the Y<sub>-1</sub>, Y<sub>-2</sub>, and Y<sub>-3</sub> years of income.</dd> <dt>(2)</dt><dd>The _running average_ for the _Y-1_ year of income is one-half of the sum of the R&amp;D spend of the eligible company for each of the 2 years of income before the year for which RA<sub>-1</sub> is worked out. </dd> </dl></dl>
+
+73V  Adjustment balance
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The _adjustment balance_ is, if the R&amp;D spend of the
+
+eligible company for the Y<sub>-1</sub> year of income is less than or equal to
+
+RA<sub>-1</sub>:
+
+</dd> </dl></dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1211.gif)</sub>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Otherwise, the _adjustment balance_ is:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01247/Html/1A6CC28AD1956EF8CA256F7100566252/$FILE/1212.gif)</sub>
 
 reduced by the R&amp;D spend of the eligible company for the Y<sub>-1</sub> year of income.
 
-             (3)  The **_adjustment balance_** is zero if:
+<dl compact=""><dl compact="">
 
-                     (a)  the eligible company or any of its group members was eligible to claim an additional deduction under section 73Y for the Y<sub>-1</sub> year of income; and
+<dt>(3)</dt><dd>The _adjustment balance_ is zero if:
 
-                     (b)  there has been no change in the control of the eligible company or any of its group members for the Y<sub>0</sub> year of income resulting in:
+</dd> </dl></dl>
 
-                              (i)  a company entering or leaving the group with a viable business; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  a change to the R&amp;D spend of the eligible company for the Y<sub>-1</sub>, Y<sub>-2</sub> or Y<sub>-3</sub> year of income.
+<dt>(a)</dt><dd>the eligible company or any of its group members was eligible to claim an
 
-##### <a id="73W"></a>73W  Premium amount
+additional deduction under section&#160;73Y for the Y<sub>-1</sub> year of
 
-                   The **_premium amount_** of the eligible company, together with each group member for the Y<sub>0</sub> year of income, is the R&amp;D spend of the eligible company for the Y<sub>0</sub> year of income less:
+income; and</dd>
 
-                     (a)  the running average for the Y<sub>0</sub> year of income; and
+<dt>(b)</dt><dd>there has been no change in the control of the eligible company or any of
 
-                     (b)  the adjustment balance.
+its group members for the Y<sub>0</sub> year of income resulting in:
 
-##### <a id="73X"></a>73X  Apportionment between group members
+</dd>
 
-             (1)  The premium amount is distributed between each of the group members (the **_increasing members_**) that increased its incremental expenditure incurred during its group membership period for the Y<sub>0</sub> year of income over its incremental expenditure incurred during its group membership period for the Y<sub>-1</sub> year of income.
+</dl></dl></dl>
 
-             (2)  The amount distributed to each of the increasing members is the percentage of the premium amount represented by that increasing member’s increase in incremental expenditure incurred during its group membership period for the Y<sub>0</sub> year of income compared to the total amount of increase in incremental expenditure incurred in that year by all of the increasing members during their group membership periods.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (3)  If there is only one increasing member for the Y<sub>0</sub> year of income, all of the premium amount is distributed to that company.
+<dt>(i)</dt><dd>a company entering or leaving the group with a viable business; and</dd>
 
-##### <a id="73Y"></a>73Y  Additional deduction
+<dt>(ii)</dt><dd>a change to the R&amp;D spend of the eligible company for the
 
-             (1)  The object of this section is to provide a tax incentive, in the form of a deduction, to make eligible companies more internationally competitive by:
+Y<sub>-1</sub>, Y<sub>-2</sub> or Y<sub>-3</sub> year of income.
 
-                     (a)  encouraging the development by eligible companies of innovative products, processes and services; and
+</dd>
 
-                     (b)  increasing investment by eligible companies in defined research and development activities; and
+</dl></dl></dl></dl>
 
-                     (c)  promoting the technological advancement of eligible companies through a focus on innovation and high technical risk in defined research and development activities; and
+73W  Premium amount
 
-                     (d)  encouraging the use by eligible companies of strategic research and development planning; and
+<dl compact=""><dl compact="">
 
-                     (e)  creating an environment that is conducive to increased commercialisation of new processes and product technologies developed by eligible companies.
+		The _premium amount_ of the eligible company, together with each
+
+group member for the Y<sub>0</sub> year of income, is the R&amp;D spend of the
+
+eligible company for the Y<sub>0</sub> year of income less:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the running average for the Y<sub>0</sub> year of income; and</dd>
+
+<dt>(b)</dt><dd>the adjustment balance.
+
+</dd>
+
+</dl></dl></dl>
+
+73X  Apportionment between group members
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The premium amount is distributed between each of the group members (the
+
+_increasing members_) that increased its incremental expenditure
+
+incurred during its group membership period for the Y<sub>0</sub> year of
+
+income over its incremental expenditure incurred during its group membership
+
+period for the Y<sub>-1</sub> year of income.</dd> <dt>(2)</dt><dd>The amount distributed to each of the increasing members is the percentage of the premium amount represented by that increasing member's increase in incremental expenditure incurred during its group membership period for the Y<sub>0</sub> year of income compared to the total amount of increase in incremental expenditure incurred in that year by all of the increasing members during their group membership periods.</dd> <dt>(3)</dt><dd>If there is only one increasing member for the Y<sub>0</sub> year of income, all of the premium amount is distributed to that company. </dd> </dl></dl>
+
+73Y  Additional deduction
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The object of this section is to provide a tax incentive, in the form of a
+
+deduction, to make eligible companies more internationally competitive by:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>encouraging the development by eligible companies of innovative products,
+
+processes and services; and</dd>
+
+<dt>(b)</dt><dd>increasing investment by eligible companies in defined research and
+
+development activities; and</dd>
+
+<dt>(c)</dt><dd>promoting the technological advancement of eligible companies through a
+
+focus on innovation and high technical risk in defined research and development
+
+activities; and</dd>
+
+<dt>(d)</dt><dd>encouraging the use by eligible companies of strategic research and
+
+development planning; and</dd>
+
+<dt>(e)</dt><dd>creating an environment that is conducive to increased commercialisation
+
+of new processes and product technologies developed by eligible companies.
+
+</dd>
+
+</dl></dl></dl>
 
 The benefits of the tax incentive are targeted by being limited to particular expenditure on certain defined activities.
 
-             (2)  Each of the companies that have all or part of the premium amount distributed to it can deduct the lesser of:
+<dl compact=""><dl compact="">
 
-                     (a)  50% of that amount for the year of income for which it is distributed; or
+<dt>(2)</dt><dd>Each of the companies that have all or part of the premium amount
 
-                     (b)  50% of the amount of incremental expenditure incurred by the company in the Y<sub>0</sub> year of income that is eligible for a deduction under section 73B at the rate of 125%.
+distributed to it can deduct the lesser of:
 
-Note:          The paragraph (2)(b) amount may be less than the paragraph (2)(a) amount because of sections 73C, 73CA or 73CB.
+</dd> </dl></dl>
 
-##### <a id="73Z"></a>73Z  Anti-avoidance
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  This section applies to a company if:
+<dt>(a)</dt><dd>50% of that amount for the year of income for which it is distributed;
 
-                     (a)  the company requests an amendment to an assessment for a year of income to reduce the amount of its research and development expenditure for a year of income; and
+or</dd>
 
-                     (b)  the Commissioner is of the opinion that the purpose of the proposed amendment is to increase the company’s entitlement to a deduction under section 73Y for any year of income.
+<dt>(b)</dt><dd>50% of the amount of incremental expenditure incurred by the company in
 
-             (2)  The amount of that reduction is ignored in working out the company’s incremental expenditure for any year of income.
+the Y<sub>0</sub> year of income that is eligible for a deduction under
 
-## 6  Paragraph 82KZM(1)(c)
+section&#160;73B at the rate of 125%.
 
-After “section 51”, insert “, 73B, 73BA, 73BH or 73Y”.
+</dd>
 
-## 7  Paragraph 82KZMA(1)(a)
+</dl></dl></dl>
 
-Before “section 8-1”, insert “section 73B, 73BA, 73BH or 73Y of this Act or”.
+<dl compact=""><dl compact="">
 
-## 8  Paragraph 82KZME(1)(a)
+Note:	The paragraph&#160;(2)(b) amount may be less than the
 
-Before “section 8-1”, insert “section 73B, 73BA, 73BH or 73Y of this Act or”.
+paragraph&#160;(2)(a) amount because of sections&#160;73C, 73CA or 73CB.
 
-## 9  Paragraph 82KZMF(2)(a)
+ </dl></dl>
 
-Before “section 8-1”, insert “section 73B, 73BA, 73BH or 73Y of this Act or”.
+73Z  Anti-avoidance
 
-## 10  Subsection 170(10A)
+<dl compact=""><dl compact="">
 
-Omit “or 73D”, substitute “, 73D, 73I or 73Y”.
+<dt>(1)</dt><dd>This section applies to a company if:
 
-## 11  Application
+</dd> </dl></dl>
 
-The amendments made by this Schedule apply to expenditure incurred in the first year of income starting after 30 June 2001.
+<dl compact=""><dl compact=""><dl compact="">
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; PADDING-TOP: 1pt; BORDER-BOTTOM: medium none">
+<dt>(a)</dt><dd>the company requests an amendment to an assessment for a year of income to
 
- </div>
+reduce the amount of its research and development expenditure for a year of
 
-_Minister’s second reading speech made in—_
+income; and</dd>
 
-_House of Representatives on 27 June 2001_
+<dt>(b)</dt><dd>the Commissioner is of the opinion that the purpose of the proposed
 
-_Senate on 20 August 2001_
+amendment is to increase the company's entitlement to a deduction under
 
-<div>
+section&#160;73Y for any year of income.
 
-<table height="22" hspace="0" vspace="0">
-<colgroup>
-  <col width="NaN%">
-</colgroup>
+</dd>
 
-<tbody>
-  <tr>
-    <td align="left" height="22">
-      <div>(111/01)</div>
-    </td>
-  </tr>
-</tbody></table></div>
+</dl></dl></dl>
 
- 
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The amount of that reduction is ignored in working out the company's
+
+incremental expenditure for any year of income.
+
+</dd> </dl></dl>
+
+6  Paragraph 82KZM(1)(c)
+
+After "section&#160;51", insert ", 73B, 73BA, 73BH or 73Y".
+
+7  Paragraph 82KZMA(1)(a)
+
+Before "section&#160;8-1", insert "section&#160;73B, 73BA, 73BH or 73Y of this Act or".
+
+8  Paragraph 82KZME(1)(a)
+
+Before "section&#160;8-1", insert "section&#160;73B, 73BA, 73BH or 73Y of this Act or".
+
+9  Paragraph 82KZMF(2)(a)
+
+Before "section&#160;8-1", insert "section&#160;73B, 73BA, 73BH or 73Y of this Act or".
+
+10  Subsection 170(10A)
+
+Omit "or 73D", substitute ", 73D, 73I or 73Y".
+
+11  Application
+
+The amendments made by this Schedule apply to expenditure incurred in the first year of income starting after 30&#160;June 2001.
+
+  <center>**
+
+###  Note 
+**</center>  [_Minister&apos;s second reading speech made in_
+ _House of Representatives on 27 June 2001_
+ _Senate on 20 August 2001_]
+ (111/01)
+
+</def></def>
+
+</def></def>
+
+</def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def>
+
+</def></def>
+
+</def></def>
+
+
+
+
+
+
+
+
