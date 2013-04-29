@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00698/Html/a12435dc-9316-4777-90f0-1d34a70778ce_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00439/Html/fe3a310a-e65b-4bac-b37d-87bd2c047562_files/image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 4 October 2012
+This compilation was prepared on 4 May 2012
  taking into account amendments up to Act No. 25 of 2012
 
 The text of any of those amendments not in force
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 Reader’s Guide
 
@@ -609,7 +610,7 @@ Note:          This subsection is a civil penalty provision (s
 
 ##### <a id="15"></a>15  Responsible Minister to be notified of significant events
 
-             (1)  If a Commonwealth authority, or any of its subsidiaries, decides to do any of the following things, the directors of the Commonwealth authority must immediately give the responsible Minister written particulars of the decision:
+             (1)  If a Commonwealth authority, or any of its subsidiaries, proposes to do any of the following things, the directors of the Commonwealth authority must immediately give the responsible Minister written particulars of the proposal:
 
                      (a)  form a company or participate in the formation of a company;
 
@@ -623,7 +624,7 @@ Note:          This subsection is a civil penalty provision (s
 
                       (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
 
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether particulars are required to be given under subsection (1).
+             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
 
 ##### <a id="16"></a>16  Keeping responsible Minister and Finance Minister informed
 
@@ -1101,7 +1102,7 @@ Effect of contravention by director
 
                             involving duties or interests that conflict with their duties or interests as a director.
 
-##### <a id="27J"></a>27J  Restrictions on voting
+##### <a id="27J"></a>27J  Restrictions on voting
 
 Restrictions on voting and being present
 
@@ -1393,7 +1394,7 @@ Note:          This is a civil penalty provision (see Schedule
 
                      (a)  the directors of an interjurisdictional authority to give an interim report, for a period mentioned in subsection 13(1), to a State/Territory Minister;
 
-                     (b)  the directors of an interjurisdictional authority to give written particulars under subsection 15(1) to a State/Territory Minister;
+                     (b)  the directors of an interjurisdictional authority to give written particulars of a proposal mentioned in subsection 15(1) to a State/Territory Minister;
 
                      (c)  a State/Territory Minister to give written guidelines under subsection 15(2) to the directors of an interjurisdictional authority;
 
@@ -1565,7 +1566,7 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="40"></a>40  Responsible Minister to be notified of significant events
 
-             (1)  If a wholly‑owned Commonwealth company, or any of its subsidiaries, decides to do any of the following things, the directors of the Commonwealth company must immediately give the responsible Minister written particulars of the decision:
+             (1)  If a wholly‑owned Commonwealth company, or any of its subsidiaries, proposes to do any of the following things, the directors of the Commonwealth company must immediately give the responsible Minister written particulars of the proposal:
 
                      (a)  form a company or participate in the formation of a company;
 
@@ -1579,7 +1580,7 @@ Note:          This is a civil penalty provision (see Schedule
 
                       (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
 
-             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether particulars are required to be given under subsection (1).
+             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether a proposal is covered bysubsection (1).
 
 ##### <a id="41"></a>41  Keeping responsible Minister and Finance Minister informed
 
@@ -1939,7 +1940,7 @@ No one else may apply
 
              (5)  Subclause (4) does not exclude the operation of the _Director of Public Prosecutions Act 1983_. 
 
-##### <a id="7"></a>7  Time limit for application for a declaration or order
+##### <a id="7"></a>7  Time limit for application for a declaration or order
 
                    Proceedings for a declaration of contravention, a pecuniary penalty order, or a compensation order, may be started no later than 6 years after the contravention.
 
@@ -2627,7 +2628,7 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
   </td>
   <td>
     <div>Schedule 2 (items 1–7): 5 Apr 2012 
-Schedule 2 (items 8–14): 4 Oct 2012</div>
+Schedule 2 (items 8–14): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (items 7, 11–14)</div>
@@ -3115,14 +3116,6 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
   <td>
     <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 25, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3623,14 +3616,6 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -3731,14 +3716,6 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
   <td>
     <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 25, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4118,6 +4095,65 @@ _(h)_     Subsection 2(1) (items 5 and 6) of the _Financial Framework 
   </td>
 </tr></table>
 
+### Note 2
+
+_Financial Framework Legislation Amendment Act (No. 1) 2012
+ (No. 25, 2012)_
+
+The following amendments commence on 4 October 2012 unless proclaimed earlier:
+
+## Schedule 2
+
+## 8  Section 15
+
+Repeal the section, substitute:
+
+##### <a id="15"></a>15  Responsible Minister to be notified of significant events
+
+             (1)  If a Commonwealth authority, or any of its subsidiaries, decides to do any of the following things, the directors of the Commonwealth authority must immediately give the responsible Minister written particulars of the decision:
+
+                     (a)  form a company or participate in the formation of a company;
+
+                     (b)  participate in a significant partnership, trust, unincorporated joint venture or similar arrangement;
+
+                     (c)  acquire or dispose of a significant shareholding in a company;
+
+                     (d)  acquire or dispose of a significant business;
+
+                     (e)  commence or cease a significant business activity;
+
+                      (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
+
+             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether particulars are required to be given under subsection (1).
+
+## 9  Paragraph 33A(2)(b)
+
+Omit “of a proposal mentioned in subsection 15(1)”, substitute “under subsection 15(1)”.
+
+## 10  Section 40
+
+Repeal the section, substitute:
+
+##### <a id="40"></a>40  Responsible Minister to be notified of significant events
+
+             (1)  If a wholly‑owned Commonwealth company, or any of its subsidiaries, decides to do any of the following things, the directors of the Commonwealth company must immediately give the responsible Minister written particulars of the decision:
+
+                     (a)  form a company or participate in the formation of a company;
+
+                     (b)  participate in a significant partnership, trust, unincorporated joint venture or similar arrangement;
+
+                     (c)  acquire or dispose of a significant shareholding in a company;
+
+                     (d)  acquire or dispose of a significant business;
+
+                     (e)  commence or cease a significant business activity;
+
+                      (f)  make a significant change in the nature or extent of its interest in a significant partnership, trust, unincorporated joint venture or similar arrangement.
+
+             (2)  The responsible Minister may give written guidelines to the directors that are to be used by the directors in deciding whether particulars are required to be given under subsection (1).
+
+As at 4 May 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4264,6 +4300,10 @@ The amendments made by this Part apply in relation to the following:
                      (a)  budget estimates for a financial year starting on or after 1 July 2012;
 
                      (b)  budget estimates for any other period starting after 1 July 2012 in respect of which a direction is given on or after the commencement of this Part.
+
+The following provisions commence on 4 October 2012 unless proclaimed earlier:
+
+## Schedule 2
 
 ## 11  Application
 
