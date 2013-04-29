@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00371/Html/96464a66-54fc-42b2-85ec-4f8d43dafb41_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00755/Html/TradexScheme1999WD02_image001.gif)
 
 # Tradex Scheme Act 1999
 
 **Act No. 185 of 1999 as amended**
 
-This compilation was prepared on 13 May 2011
+This compilation was prepared on 23 November 2010
  taking into account amendments up to Act No. 124 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -31,8 +31,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [5](#5).            Core criteria for applying for or holding a tradex order
 
 [6](#6).            Disqualifying circumstances
-
-[6A](#6A).         Continuity of partnerships
 
 [7](#7).            Act not to extend to external Territories
 
@@ -70,7 +68,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19A](#19A).       Revocation of tradex order if holder cannot be contacted
 
-[20](#20).          Where individual holder dies or non‑individual holder ceases to exist
+[20](#20).          Where individual holder dies or incorporated holder ceases to exist
 
 **Part 6—Liability to pay tradex duty in respect of nominated goods in certain circumstances**
 
@@ -144,9 +142,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Delegation
 
-[48A](#48A).       Treatment of partnerships
-
 [49](#49).          Regulations
+
+**Part 12—Transitional**
+
+[50](#50).          Existing users under the Texco Scheme
 
 **Notes** 
 
@@ -196,9 +196,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="enter-home-consumpt"></a>**_enter for home consumption_** means enter for home consumption under section 68 of the _Customs Act 1901_.
 
-                    <a name="export"></a>**_exportation_**, in relation to goods, includes the exportation of other goods in which the first‑mentioned goods are incorporated.
+                    <a name="export"></a>**_exportation_**, in relation to goods, includes the exportation of other goods in which the first-mentioned goods are incorporated.
 
-                    <a name="extern-administered-bodi-corpor"></a>**_externally‑administered body corporate_** means a body corporate:
+                    <a name="extern-administered-bodi-corpor"></a>**_externally-administered body corporate_** means a body corporate:
 
                      (a)  that is being wound up under the _Corporations Act 2001_; or
 
@@ -216,13 +216,7 @@ and includes a body corporate that has, under the law of a State or internal Ter
 
                     <a name="ident-card"></a>**_identity card_** means an identity card issued under subsection 45(2).
 
-                    <a name="inelig"></a>**_ineligible_**: a person is ineligible to apply for, or to hold, a tradex order if:
-
-                     (a)  where the person is an individual—the person is an insolvent under administration; or
-
-                     (b)  where the person is a body corporate—the person is an externally‑administered body corporate; or
-
-                     (c)  where the person is a partnership—any of the partners is an insolvent under administration or an externally‑administered body corporate.
+                    <a name="inelig"></a>**_ineligible_**: a person is ineligible to apply for, or to hold, a tradex order if the person is an insolvent under administration or an externally-administered body corporate.
 
                     <a name="infring-notic"></a>**_infringement notice_** means a notice served under section 33.
 
@@ -254,16 +248,6 @@ where the terms of the agreement have not been fully complied with.
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against section 6 of the _Crimes Act 1914_, or against section 11.1, 11.4 or 11.5 of the _Criminal Code_, in relation to an offence against this Act.
 
-                    <a name="person"></a>**_person_** means:
-
-                     (a)  an individual; or
-
-                     (b)  a body corporate; or
-
-                     (c)  a partnership.
-
-Note:          See also section 48A (partnerships).
-
                     <a name="premis"></a>**_premises_** includes any place (whether enclosed or built on, or not) and, in particular, includes:
 
                      (a)  a building, wharf or other structure; and
@@ -282,7 +266,7 @@ Note:          See also section 48A (partnerships).
 
                     <a name="secretari"></a>**_Secretary_** means Secretary of the Department.
 
-                    <a name="texco-scheme"></a>**_Texco Scheme_** means the administrative scheme of that name that was in force immediately before the commencement of this Act under Customs By‑law 9640056 for the purposes of item 21 of Schedule 4 to the _Customs Tariff Act 1995_.
+                    <a name="texco-scheme"></a>**_Texco Scheme_** means the administrative scheme of that name that was in force immediately before the commencement of this Act under Customs By-law 9640056 for the purposes of item 21 of Schedule 4 to the _Customs Tariff Act 1995_.
 
                     <a name="tradex-duti"></a>**_tradex duty_** means the tax known as tradex duty that is payable under section 21, as imposed by the _Tradex Duty Imposition (Excise) Act 1999_, the _Tradex Duty Imposition (Customs) Act 1999_ or the _Tradex Duty Imposition (General) Act 1999_.
 
@@ -302,7 +286,7 @@ Note:          See also section 48A (partnerships).
 
                      (c)  that the nominated goods will be exported within one year after their entry for home consumption; and
 
-                     (d)  that adequate record‑keeping and accounting systems are in place in respect of nominated goods until they are exported.
+                     (d)  that adequate record-keeping and accounting systems are in place in respect of nominated goods until they are exported.
 
              (2)  The **_core criteria_** for the holding by a person of a tradex order are:
 
@@ -316,7 +300,7 @@ Note:          See also section 48A (partnerships).
 
                      (c)  that every exportation of nominated goods occurred within one year after their entry for home consumption; and
 
-                     (d)  that adequate record‑keeping and accounting systems are in place in respect of nominated goods until they are exported.
+                     (d)  that adequate record-keeping and accounting systems are in place in respect of nominated goods until they are exported.
 
 Note:          The Secretary has power to extend periods referred to in paragraphs (1)(c) and (2)(c) (see section 43).
 
@@ -324,13 +308,9 @@ Note:          The Secretary has power to extend periods refer
 
                    **_Disqualifying circumstances_** exist in relation to a person who is the holder of a tradex order if:
 
-                     (a)  any of the core criteria for the holding of the order have not been complied with, except where the only effect of the non‑compliance was to render the person liable to pay tradex duty and the person has paid the duty in accordance with section 21; or
+                     (a)  any of the core criteria for the holding of the order have not been complied with, except where the only effect of the non-compliance was to render the person liable to pay tradex duty and the person has paid the duty in accordance with section 21; or
 
-                     (b)  the person gave information, or a document, to the Secretary or to an authorised officer in connection with an application for, or for a variation of, the order or an application for, or for a variation of, another tradex order, being information or a document that:
-
-                              (i)  if the person is an individual or body corporate—the person knew, or ought to have known, to be false or misleading in a material particular; or
-
-                             (ii)  if the person is a partnership—any of the partners knew, or ought to have known, to be false or misleading in a material particular; or
+                     (b)  the person gave information, or a document, to the Secretary or to an authorised officer in connection with an application for, or for a variation of, the order or an application for, or for a variation of, another tradex order, being information or a document that the person knew, or ought to have known, to be false or misleading in a material particular; or
 
                      (c)  the person was ineligible to apply for the order; or
 
@@ -341,10 +321,6 @@ Note:          The Secretary has power to extend periods refer
                               (i)  nominated goods; or
 
                              (ii)  nominated goods in relation to another tradex order that is or has been held by the person.
-
-##### <a id="6A"></a>6A  Continuity of partnerships
-
-                   For the purposes of this Act, a change in the composition of a partnership does not affect the continuity of the partnership.
 
 ##### <a id="7"></a>7  Act not to extend to external Territories
 
@@ -404,7 +380,7 @@ Note:          The Secretary has power to extend a period refe
 
                      (b)  particulars of the measures proposed to be taken to ensure that the requirements of the regulations will be met in relation to the nominated goods;
 
-                     (c)  particulars of the record‑keeping or accounting systems that are in place in respect of the nominated goods until they are exported;
+                     (c)  particulars of the record-keeping or accounting systems that are in place in respect of the nominated goods until they are exported;
 
                      (d)  any other information relevant to the Secretary’s consideration of the application.
 
@@ -418,11 +394,7 @@ Note:          The Secretary has power to extend a period refe
 
                      (b)  the applicant is not ineligible to apply for the tradex order; and
 
-                     (c)  the applicant has not given to the Secretary or to an authorised officer for the purposes of this Act any information or document that:
-
-                              (i)  if the applicant is an individual or body corporate—the applicant knew, or ought to have known, to be false or misleading in a material particular; or
-
-                             (ii)  if the applicant is a partnership—any of the partners knew, or ought to have known, to be false or misleading in a material particular; and
+                     (c)  the applicant has not given to the Secretary or to an authorised officer for the purposes of this Act any information or document that the applicant knew, or ought to have known, to be false or misleading in a material particular; and
 
                      (d)  the applicant has not failed to pay tradex duty in accordance with section 21 in respect of nominated goods in relation to another tradex order that is or has been held by the applicant;
 
@@ -726,9 +698,9 @@ Note:          A decision under subsection (1) to revoke a t
 
              (3)  If a tradex order is revoked under this section, the Secretary must enter in the Register a statement that the order has been revoked and the date on which the revocation comes into force.
 
-##### <a id="20"></a>20  Where individual holder dies or non‑individual holder ceases to exist
+##### <a id="20"></a>20  Where individual holder dies or incorporated holder ceases to exist
 
-                   If the Secretary becomes aware that the Register contains particulars of a tradex order that was held by an individual who has died or by a body corporate or partnership that has ceased to exist, the Secretary must cause to be entered in the Register a statement that the individual has died or the body corporate or partnership has ceased to exist and the date on which the individual died or the body corporate or partnership ceased to exist.
+                   If the Secretary becomes aware that the Register contains particulars of a tradex order that was held by an individual who has died or by a body corporate that has ceased to exist, the Secretary must cause to be entered in the Register a statement that the individual has died or the body corporate has ceased to exist and the date on which the individual died or the body corporate ceased to exist.
 
 ## Part 6—Liability to pay tradex duty in respect of nominated goods in certain circumstances
 
@@ -826,9 +798,9 @@ Note:          The Secretary has power to extend the period re
 
                              (ii)  which are relevant to whether any disqualifying circumstances exist in relation to the holder;
 
-                     (b)  to require the holder to demonstrate to the officer the operation of any record‑keeping or accounting system used in respect of the nominated goods;
+                     (b)  to require the holder to demonstrate to the officer the operation of any record-keeping or accounting system used in respect of the nominated goods;
 
-                     (c)  to conduct testing of any such record‑keeping or accounting system in order to determine its accuracy in respect of the nominated goods;
+                     (c)  to conduct testing of any such record-keeping or accounting system in order to determine its accuracy in respect of the nominated goods;
 
                      (d)  if the holder has indicated, or documents made available by the holder indicate, that nominated goods have been, are, or may be, on particular premises—subject to subsection (1), to enter the premises;
 
@@ -844,7 +816,7 @@ Note:          The Secretary has power to extend the period re
 
                               (i)  any documents referred to in paragraph (f); or
 
-                             (ii)  any record‑keeping or accounting system referred to in paragraph (b); or
+                             (ii)  any record-keeping or accounting system referred to in paragraph (b); or
 
                             (iii)  the nominated goods.
 
@@ -896,7 +868,7 @@ Note:          The Secretary has power to extend the period sp
 
                      (c)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of the offence, that the requirement is a requirement made by subsection 9(6).
 
@@ -912,13 +884,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of the offence, that the requirement is a requirement made by section 15.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="28"></a>28  Failure to pay tradex duty
+##### <a id="28"></a>28  Failure to pay tradex duty
 
              (1)  A person is guilty of an offence if:
 
@@ -926,7 +898,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the person fails to pay the duty within the period applicable under subsection 21(3).
 
-                    Maximum penalty: An amount equal to the amount of tradex duty that was not paid by the person within the period applicable under subsection 21(3).
+                    Maximum penalty:    An amount equal to the amount of tradex duty that was not paid by the person within the period applicable under subsection 21(3).
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
@@ -940,7 +912,7 @@ Note:          For the meaning of **_strict liability_**, see 
 
                      (b)  the person fails to comply with the requirement.
 
-                    Maximum penalty: 30 penalty units.
+                    Maximum penalty:    30 penalty units.
 
              (2)  For the purposes of an offence against subsection (1), strict liability applies to the physical element of the offence, that the requirement is a requirement made by section 22.
 
@@ -954,7 +926,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the person refuses or fails to comply with the requirement.
 
-                    Maximum penalty: 60 penalty units.
+                    Maximum penalty:    60 penalty units.
 
              (2)  A person is not entitled:
 
@@ -974,7 +946,7 @@ on the ground that the answer to the question or the making available of the doc
 
                    The occupier of premises entered by an authorised officer under paragraph 24(2)(d) is guilty of an offence if the occupier fails to provide the officer with all reasonable facilities and assistance for the effective exercise of the officer’s powers.
 
-                    Maximum penalty: 10 penalty units.
+                    Maximum penalty:    10 penalty units.
 
 ##### <a id="32"></a>32  False or misleading statements
 
@@ -986,7 +958,7 @@ on the ground that the answer to the question or the making available of the doc
 
                      (c)  the person knows that the answer or document is false or misleading in that particular.
 
-                    Maximum penalty: Imprisonment for 12 months.
+                    Maximum penalty:    Imprisonment for 12 months.
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court that convicts an individual of an offence to impose a fine instead of, or in addition to, a term of imprisonment. The maximum fine that a court can impose on the individual is worked out by multiplying the maximum term of imprisonment (in months) by 5, and then multiplying the amount of a penalty unit by the resulting number. The amount of a penalty unit is stated in section 4AA of that Act.
 
@@ -1022,7 +994,7 @@ Note:          The Secretary has power to extend periods state
 
              (2)  An infringement notice may contain any other matters that the Secretary considers necessary.
 
-             (3)  The penalty to be specified in an infringement notice under paragraph (1)(d) is an amount equal to one‑fifth of the tradex duty that was not paid by the person on whom the notice is served within the period applicable under subsection 21(3).
+             (3)  The penalty to be specified in an infringement notice under paragraph (1)(d) is an amount equal to one-fifth of the tradex duty that was not paid by the person on whom the notice is served within the period applicable under subsection 21(3).
 
 ##### <a id="35"></a>35  Withdrawal of infringement notice
 
@@ -1146,7 +1118,7 @@ Note 2:       For the right to have a decision on reconsideration re
 
                      (d)  a decision of the Secretary under section 19 or 19A revoking a tradex order.
 
-Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision‑maker must give to persons whose interests are affected by the decision a notification of the making of the decision and of their right to have the decision reviewed. In notifying any such persons, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
+Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision-maker must give to persons whose interests are affected by the decision a notification of the making of the decision and of their right to have the decision reviewed. In notifying any such persons, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
 ##### <a id="40A"></a>40A  Evidentiary matters in relation to tradex duty liability
 
@@ -1256,7 +1228,7 @@ is evidence of those matters.
 
                      (c)  the person fails to return the identity card as required by subsection (4).
 
-                    Maximum penalty: 1 penalty unit.
+                    Maximum penalty:    1 penalty unit.
 
              (6)  In this section:
 
@@ -1274,35 +1246,9 @@ is evidence of those matters.
 
                    The Secretary may, by writing, delegate to an officer of, or a person employed in, the Department all or any of the Secretary’s functions and powers under this Act.
 
-##### <a id="48A"></a>48A  Treatment of partnerships
-
-             (1)  This Act applies to a partnership as if it were a person, but with the changes set out in this section.
-
-             (2)  An obligation that would otherwise be imposed on the partnership by this Act is imposed on each partner instead, but may be discharged by any of the partners.
-
-             (3)  If under this Act a notice or other document is given to a partner of the partnership in accordance with whichever of the following is applicable:
-
-                     (a)  section 28A of the _Acts Interpretation Act 1901_;
-
-                     (b)  regulations made for the purposes of paragraph 49(d);
-
-the notice or document is taken to have been given to the partnership.
-
-             (4)  The partners are jointly and severally liable to pay an amount that would otherwise be payable by the partnership under this Act.
-
-             (5)  An offence against this Act that would otherwise be committed by the partnership is taken to have been committed by each partner.
-
-             (6)  A partner does not commit an offence because of subsection (5) if the partner:
-
-                     (a)  does not know of the circumstances that constitute the contravention of the provision concerned; or
-
-                     (b)  knows of those circumstances but takes all reasonable steps to correct the contravention as soon as possible after the partner becomes aware of those circumstances.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (6)—see subsection 13.3(3) of the _Criminal Code_.
-
 ##### <a id="49"></a>49  Regulations
 
-                   The Governor‑General may make regulations prescribing all matters:
+                   The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1313,6 +1259,18 @@ including regulations about:
                      (c)  how applications, requests or notices under this Act are to be made or given to or lodged with the Secretary or an authorised officer; and
 
                      (d)  how notices or other documents under this Act are to be given by the Secretary or an authorised officer.
+
+## Part 12—Transitional
+
+##### <a id="50"></a>50  Existing users under the Texco Scheme
+
+                   If a person:
+
+                     (a)  was, immediately before the commencement of this Act, a user, in relation to goods of a particular kind or description, under the Texco Scheme; and
+
+                     (b)  had, before that commencement, given a written notice to the Secretary (however the notice was expressed) to the effect that the person wished to import goods of that kind or description under the Tradex Scheme;
+
+the Secretary must, as soon as practicable, make under section 11, in respect of goods of that kind or description, such a tradex order as would have been made if the person had duly made an application for the order under section 10.
 
 # Notes to the _Tradex Scheme Act 1999_
 
@@ -1470,7 +1428,7 @@ Remainder: Royal Assent</div>
     <div>18 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 13 May 2011 ( <i>see</i>F2011L00745) 
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1518,7 +1476,7 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 80, 2004; No. 18, 2008; Nos. 4 and 124, 2010</div>
+    <div>am. No. 55, 2001; No. 80, 2004; No. 18, 2008; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1531,22 +1489,6 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3</b></div>
   </td>
   <td>
@@ -1555,18 +1497,10 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
+    <div>Ss. 10, 11</div>
   </td>
   <td>
     <div>am. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 18, 2008; No. 124, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1623,22 +1557,6 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
   </td>
   <td>
     <div>ad. No. 18, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 20</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1728,31 +1646,111 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
   <td>
     <div>am. No. 18, 2008</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 12</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 2010</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Tradex Scheme Amendment Act 2010 (No. 124, 2010)_
+
+The following amendments commence on 18 May 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 4 (definition of _ineligible_)
+
+Repeal the definition, substitute:
+
+                    <a name="inelig"></a>**_ineligible_**: a person is ineligible to apply for, or to hold, a tradex order if:
+
+                     (a)  where the person is an individual—the person is an insolvent under administration; or
+
+                     (b)  where the person is a body corporate—the person is an externally-administered body corporate; or
+
+                     (c)  where the person is a partnership—any of the partners is an insolvent under administration or an externally-administered body corporate.
+
+## 2  Section 4
+
+Insert:
+
+                    <a name="person"></a>**_person_** means:
+
+                     (a)  an individual; or
+
+                     (b)  a body corporate; or
+
+                     (c)  a partnership.
+
+Note:          See also section 48A (partnerships).
+
+## 3  Paragraph 6(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  the person gave information, or a document, to the Secretary or to an authorised officer in connection with an application for, or for a variation of, the order or an application for, or for a variation of, another tradex order, being information or a document that:
+
+                              (i)  if the person is an individual or body corporate—the person knew, or ought to have known, to be false or misleading in a material particular; or
+
+                             (ii)  if the person is a partnership—any of the partners knew, or ought to have known, to be false or misleading in a material particular; or
+
+## 4  After section 6
+
+Insert:
+
+##### <a id="6A"></a>6A  Continuity of partnerships
+
+                   For the purposes of this Act, a change in the composition of a partnership does not affect the continuity of the partnership.
+
+## 5  Paragraph 11(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  the applicant has not given to the Secretary or to an authorised officer for the purposes of this Act any information or document that:
+
+                              (i)  if the applicant is an individual or body corporate—the applicant knew, or ought to have known, to be false or misleading in a material particular; or
+
+                             (ii)  if the applicant is a partnership—any of the partners knew, or ought to have known, to be false or misleading in a material particular; and
+
+## 6  Section 20
+
+After “body corporate” (wherever occurring), insert “or partnership”.
+
+_Note:       The heading to section 20 is altered by omitting “incorporated” and substituting “non-individual”._
+
+## 7  After section 48
+
+Insert:
+
+##### <a id="48A"></a>48A  Treatment of partnerships
+
+             (1)  This Act applies to a partnership as if it were a person, but with the changes set out in this section.
+
+             (2)  An obligation that would otherwise be imposed on the partnership by this Act is imposed on each partner instead, but may be discharged by any of the partners.
+
+             (3)  If under this Act a notice or other document is given to a partner of the partnership in accordance with whichever of the following is applicable:
+
+                     (a)  section 28A of the _Acts Interpretation Act 1901_;
+
+                     (b)  regulations made for the purposes of paragraph 49(d);
+
+the notice or document is taken to have been given to the partnership.
+
+             (4)  The partners are jointly and severally liable to pay an amount that would otherwise be payable by the partnership under this Act.
+
+             (5)  An offence against this Act that would otherwise be committed by the partnership is taken to have been committed by each partner.
+
+             (6)  A partner does not commit an offence because of subsection (5) if the partner:
+
+                     (a)  does not know of the circumstances that constitute the contravention of the provision concerned; or
+
+                     (b)  knows of those circumstances but takes all reasonable steps to correct the contravention as soon as possible after the partner becomes aware of those circumstances.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (6)—see subsection 13.3(3) of the _Criminal Code_.
+
+## 9  Part 12
+
+Repeal the Part.
+
+As at 23 November 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1772,13 +1770,13 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -1786,21 +1784,21 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -1812,9 +1810,9 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -1822,11 +1820,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -1838,7 +1836,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -1850,9 +1848,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -1875,6 +1873,8 @@ The amendment of subsection 5(2) of the _Tradex Scheme Act 1999_ made by this Sc
 * * *
 
 _Tradex Scheme Amendment Act 2010 (No. 124, 2010)_
+
+The following provision commences on 18 May 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
