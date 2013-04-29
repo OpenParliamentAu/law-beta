@@ -1,139 +1,136 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02040/Html/AusCentIntAgRes82_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02039/Html/AusCenAgriRes82_image001.jpg)
 
 # Australian Centre for International Agricultural Research Act 1982
 
-**Act No. 9 of 1982 as amended**
+REPRINT 2
 
-This compilation was prepared on 31 January 2000
- taking into account amendments up to Act No. 146 of 1999
+Reprinted as in force on 24 March 1998
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
-
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+(includes amendments up to Act No. 152 of 1997)
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).               Short title [_see_ Note 1]                                                                           
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).               Commencement [_see_ Note 1]                                                                 
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).               Interpretation                                                                                         
 
 **Part II—The Australian Centre for International Agricultural Research**
 
-[4](#4).            Establishment of Centre                                                                      3
+[4](#4).               Establishment of Centre                                                                         
 
-[5](#5).            Functions                                                                                             3
+[5](#5).               Functions                                                                                               
 
-[6](#6).            Powers of Centre                                                                                 4
+[6](#6).               Powers of Centre                                                                                   
 
 **Part III—The Board of Management of the Centre**
 
-[7](#7).            Establishment and functions of Board                                                 5
+[7](#7).               Establishment and functions of Board                                                   
 
-[8](#8).            Constitution of Board                                                                          5
+[8](#8).               Constitution of Board                                                                            
 
-[9](#9).            Chair of Board                                                                                     5
+[9](#9).               Chair of Board                                                                                        
 
-[10](#10).          Acting members                                                                                   6
+[10](#10).             Acting members                                                                                     
 
-[11](#11).          Termination of appointment                                                               7
+[11](#11).             Termination of appointment                                                                  
 
-[12](#12).          Resignation                                                                                          8
+[12](#12).             Resignation                                                                                             
 
-[13](#13).          Disclosure of interests                                                                         8
+[13](#13).             Disclosure of interests                                                                           
 
-[14](#14).          Meetings of Board                                                                               8
+[14](#14).             Meetings of Board                                                                                 
 
-[15](#15).          Delegation by Board                                                                            9
+[15](#15).             Delegation by Board                                                                              
 
-[16](#16).          Directions by Minister                                                                      10
+[16](#16).             Directions by Minister                                                                          
 
 **Part IV—The Policy Advisory Council**
 
-[17](#17).          Establishment of Council                                                                   11
+[17](#17).             Establishment of Council                                                                     
 
-[18](#18).          Function of Council                                                                           11
+[18](#18).             Function of Council                                                                             
 
-[19](#19).          Constitution of Council                                                                     11
+[19](#19).             Constitution of Council                                                                       
 
-[20](#20).          President to keep Council informed                                                  12
+[20](#20).             President to keep Council informed                                                     
 
-[21](#21).          Termination of appointment                                                             12
+[21](#21).             Termination of appointment                                                                
 
-[22](#22).          Resignation                                                                                        13
+[22](#22).             Resignation                                                                                           
 
-[23](#23).          Meetings of Council                                                                          13
+[23](#23).             Meetings of Council                                                                             
 
 **Part V—The Director of the Centre**
 
-[24](#24).          Office of Director                                                                              15
+[24](#24).             Office of Director                                                                                 
 
-[25](#25).          Terms and conditions of appointment etc                                         15
+[25](#25).             Terms and conditions of appointment etc                                           
 
-[26](#26).          Leave of absence                                                                                15
+[26](#26).             Leave of absence                                                                                  
 
-[27](#27).          Termination of appointment                                                             15
+[27](#27).             Termination of appointment                                                                
 
-[28](#28).          Resignation                                                                                        16
+[28](#28).             Resignation                                                                                           
 
-[29](#29).          Acting Director                                                                                  16
+[29](#29).             Acting Director                                                                                    
 
 **Part VI—Staff and consultants**
 
-[30](#30).          Staff                                                                                                   18
+[30](#30).             Staff                                                                                                      
 
-[31](#31).          Arrangements relating to staff                                                           18
+[31](#31).             Arrangements relating to staff                                                              
 
-[32](#32).          Engagement of consultants etc                                                           18
+[32](#32).             Engagement of consultants etc                                                             
 
 **Part VII—Finance**
 
-[33](#33).          Establishment of Reserve                                                                  19
+[33](#33).             Establishment of Reserve                                                                     
 
-[34](#34).          Payments into Reserve                                                                      19
+[34](#34).             Payments into Reserve                                                                        
 
-[35](#35).          Payments from Reserve                                                                     19
+[35](#35).             Payments from Reserve                                                                       
 
-[36](#36).          Estimates                                                                                           19
+[36](#36).             Estimates                                                                                              
 
-[37](#37).          Limit on certain contracts                                                                  20
+[37](#37).             Limit on certain contracts                                                                    
 
-[38](#38).          Exemption from taxation                                                                   20
+[38](#38).             Exemption from taxation                                                                      
 
 **Part VIII—Miscellaneous**
 
-[39](#39).          Annual report                                                                                    21
+[39](#39).             Annual report                                                                                       
 
-[40](#40).          Remuneration                                                                                     21
+[40](#40).             Remuneration                                                                                       
 
-[41](#41).          Delegation by Minister                                                                      22
+[41](#41).             Delegation by Minister                                                                        
 
-[42](#42).          Regulations                                                                                        22
+[42](#42).             Regulations                                                                                           
 
-**Notes** 
-
- 
+#  
 
 ## An Act to encourage research for the purpose of identifying, or finding solutions to, agricultural problems of developing countries
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Centre for International Agricultural Research Act 1982_.
+This Act may be cited as the _Australian Centre for International Agricultural Research Act 1982_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+This Act shall come into operation on a date to be fixed by Proclamation.
 
 ##### <a id="3"></a>3  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+In this Act, unless the contrary intention appears:
 
                     <a name="agricultur-research"></a>**_agricultural research_** means scientific, technical, economic or socio-economic research in connection with agriculture, and includes the publication of reports, periodicals, books and papers in connection with any such research.
 
@@ -178,6 +175,8 @@ Prepared by the Office of Legislative Drafting,
                     <a name="reserv"></a>**_Reserve_** means the reserve established by section 33.
 
 ## Part II—The Australian Centre for International Agricultural Research
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="4"></a>4  Establishment of Centre
 
@@ -230,6 +229,8 @@ Prepared by the Office of Legislative Drafting,
              (3)  Notwithstanding anything contained in this Act, any money or other property held by the Centre upon trust or accepted by the Centre subject to a condition shall not be dealt with except in accordance with the obligations of the Centre as trustee of the trust or as the person who has accepted the money or other property subject to the condition, as the case may be.
 
 ## Part III—The Board of Management of the Centre
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="7"></a>7  Establishment and functions of Board
 
@@ -311,9 +312,9 @@ the Governor-General shall terminate the appointment of that member.
 
              (3)  For the purposes of subsection (2), an appointed member of the Board shall not be deemed to be present at a meeting of the Board by reason only of the presence at that meeting of a person appointed under section 10 to act as that appointed member.
 
-##### <a id="12"></a>12  Resignation
+##### <a id="12"></a>12  Resignation
 
-                   An appointed member of the Board may resign his office by writing signed by him and delivered to the Governor-General.
+An appointed member of the Board may resign his office by writing signed by him and delivered to the Governor-General.
 
 ##### <a id="13"></a>13  Disclosure of interests
 
@@ -383,9 +384,11 @@ the Governor-General shall terminate the appointment of that member.
 
 ## Part IV—The Policy Advisory Council
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="17"></a>17  Establishment of Council
 
-                   There is hereby established a Council by the name of the Policy Advisory Council.
+There is hereby established a Council by the name of the Policy Advisory Council.
 
 ##### <a id="18"></a>18  Function of Council
 
@@ -411,7 +414,7 @@ the Governor-General shall terminate the appointment of that member.
 
                      (b)  the Director;
 
-                     (c)  the person for the time being occupying, or performing the duties of, the position in the Australian Public Service known as Director-General, Australian International Development Assistance Bureau, or a person nominated by the Director-General; and
+                     (c)  the person for the time being occupying, or performing the duties of, the office in the Australian Public Service known as Director-General, Australian International Development Assistance Bureau, or a person nominated by the Director-General; and
 
                      (d)  not fewer than 9 nor more than 11 other members.
 
@@ -445,7 +448,7 @@ the Governor-General shall terminate the appointment of that member.
 
 ##### <a id="20"></a>20  President to keep Council informed
 
-                   The President shall ensure that the Council is kept adequately informed with respect to the affairs of the Centre.
+The President shall ensure that the Council is kept adequately informed with respect to the affairs of the Centre.
 
 ##### <a id="21"></a>21  Termination of appointment
 
@@ -461,7 +464,7 @@ the Minister shall terminate the appointment of that member.
 
 ##### <a id="22"></a>22  Resignation
 
-                   An appointed member of the Council may resign his office by writing signed by him and delivered to the Minister.
+An appointed member of the Council may resign his office by writing signed by him and delivered to the Minister.
 
 ##### <a id="23"></a>23  Meetings of Council
 
@@ -489,6 +492,8 @@ the Minister shall terminate the appointment of that member.
 
 ## Part V—The Director of the Centre
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="24"></a>24  Office of Director
 
              (1)  There shall be a Director of the Centre, who shall be appointed by the Governor-General.
@@ -503,7 +508,7 @@ the Minister shall terminate the appointment of that member.
 
 ##### <a id="26"></a>26  Leave of absence
 
-             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  Subject to section 87E of the _Public Service Act 1922_, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  The Minister may grant to the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
@@ -523,7 +528,7 @@ the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="28"></a>28  Resignation
 
-                   The Director may resign his office by writing signed by him and delivered to the Governor-General.
+The Director may resign his office by writing signed by him and delivered to the Governor-General.
 
 ##### <a id="29"></a>29  Acting Director
 
@@ -555,19 +560,19 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ## Part VI—Staff and consultants
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="30"></a>30  Staff
 
-             (1)  The staff of the Centre shall be persons engaged under the _Public Service Act 1999_.
+             (1)  The staff of the Centre shall be persons appointed or employed under the _Public Service Act 1922_.
 
-             (2)  For the purposes of the _Public Service Act 1999_:
+             (2)  The Director has all the powers of, or exercisable by, a Secretary under the _Public Service Act 1922_, in so far as those powers relate to the branch of the Australian Public Service comprising the staff referred to in subsection (1), as if that branch were a separate Department of the Australian Public Service.
 
-                     (a)  the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
-
-                     (b)  the Director is the Head of that Statutory Agency.
+             (3)  For the purposes of section 26 of the _Public Service Act 1922_, the Director shall be deemed to be a Secretary.
 
 ##### <a id="31"></a>31  Arrangements relating to staff
 
-             (1)  The Board may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_) or with a body (other than a company or an association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the Agency or body to be made available to the Centre.
+             (1)  The Board may arrange with the Secretary of a Department of the Australian Public Service or with a body (other than a company or an association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the Department or body to be made available to the Centre.
 
              (2)  The Board may enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Centre.
 
@@ -578,6 +583,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
              (2)  The terms and conditions of the engagement of a person under subsection (1) are such as are determined by the Board.
 
 ## Part VII—Finance
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="33"></a>33  Establishment of Reserve
 
@@ -595,7 +602,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="35"></a>35  Payments from Reserve
 
-                   Amounts standing to the credit of the Reserve may be paid out:
+Amounts standing to the credit of the Reserve may be paid out:
 
                      (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Centre in the performance of its functions or the exercise of its powers under this Act; and
 
@@ -619,9 +626,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="38"></a>38  Exemption from taxation
 
-                   The Centre is not subject to taxation under a law of the Commonwealth or of a State or Territory.
+The Centre is not subject to taxation under a law of the Commonwealth or of a State or Territory.
 
 ## Part VIII—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="39"></a>39  Annual report
 
@@ -635,7 +644,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
 
-##### <a id="40"></a>40  Remuneration
+##### <a id="40"></a>40  Remuneratio<a id="n"></a>n
 
              (1)  This section applies to the following persons:
 
@@ -661,15 +670,17 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="42"></a>42  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
-# Notes to the _Australian Centre for International Agricultural Research Act 1982_
+* * *
 
-### Note 1
+# NOTE
 
-The _Australian Centre for International Agricultural Research Act 1982_ as shown in this compilation comprises Act No. 9, 1982 amended as indicated in the Tables below.
+1\.   The _Australian Centre for International Agricultural Research Act 1982_ as shown in this reprint comprises Act No. 9, 1982 amended as indicated in the Tables below.
 
-### Table of Acts
+Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -680,25 +691,39 @@ The _Australian Centre for International Agricultural Research Act 1982_ as show
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Australian Centre for International Agricultural Research Act 1982</div>
@@ -870,58 +895,35 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 144-149): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 
 _(b)_    The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 
 _(c)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
-                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+                 “(4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.”
 
 _(d)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
 
-                  (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+                 “(7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.”
 
 _(e)_     The _Australian Centre for International Agricultural Research Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.”
 
 _(f)_      The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 4 (item 20) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
 _(g)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 2 (items 216-225) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(h)_ The _Australian Centre for International Agricultural Research Act 1982_ was amended by Schedule 1 (items 144-149) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”
 
 ## Table of Amendments
 
@@ -931,19 +933,21 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>S. 3</div>
@@ -1021,7 +1025,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 146, 1999</div>
+    <div>am. No. 170, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1042,14 +1046,6 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27</div>
   </td>
   <td>
@@ -1061,7 +1057,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 30, 31</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 146, 1999</div>
+    <div>am. No. 63, 1984</div>
   </td>
 </tr>
 <tr>
