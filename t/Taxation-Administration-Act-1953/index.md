@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00512/Html/acd450e9-efdf-4a5d-a2e1-2dad507a3739_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00234/Html/524b13a9-4b6f-47c6-9a3b-a38b7f28c4bc_files/image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 15 June 2012
- taking into account amendments up to Act No. 39 of 2012
+This compilation was prepared on 1 January 2012
+ taking into account amendments up to Act No. 147 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1–18
@@ -22,7 +22,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2–10
+                                     Notes 2–8
                                      Tables A and B
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -164,8 +164,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8B](#8B).         Interpretation
 
-[8C](#8C).         Failure to comply with requirements under taxation law 
- [_see_ Note 7]
+[8C](#8C).         Failure to comply with requirements under taxation law
 
 [8D](#8D).         Failure to answer questions when attending before the Commissioner etc 
 
@@ -438,8 +437,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act (except Schedule 1), unless the contrary intention appears:
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by Schedule 1.
-
                     <a name="asio"></a>**_ASIO_** means the Australian Security Intelligence Organisation.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
@@ -517,10 +514,6 @@ Note:          Chapter 2 of the Criminal Code sets out the g
 ##### <a id="3AA"></a>3AA  Schedule 1
 
              (1)  Schedule 1 has effect.
-
-Definitions in Schedule 1 do not apply to rest of Act
-
-          (1A)  So far as a provision in Schedule 1 gives an expression a particular meaning, the provision does _not_ also have effect for the purposes of this Act (other than Schedule 1), except as provided in this Act (other than Schedule 1).
 
 Application of interpretation provisions of Income Tax Assessment Act 1997
 
@@ -1774,7 +1767,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00512/Html/acd450e9-efdf-4a5d-a2e1-2dad507a3739_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00234/Html/524b13a9-4b6f-47c6-9a3b-a38b7f28c4bc_files/image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -2265,7 +2258,6 @@ Note:          Subsection 2(2) specifies laws that are not tax
              (4)  Unless the contrary intention appears, a reference in paragraph (2)(a) or (b) to a conviction of a person of an offence includes a reference to the making of an order under section 19B of the _Crimes Act 1914_ in relation to the person in respect of the offence.
 
 ##### <a id="8C"></a>8C  Failure to comply with requirements under taxation law
- <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 7]</span>
 
              (1)  A person who refuses or fails, when and as required under or pursuant to a taxation law to do so:
 
@@ -2799,7 +2791,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00512/Html/acd450e9-efdf-4a5d-a2e1-2dad507a3739_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00234/Html/524b13a9-4b6f-47c6-9a3b-a38b7f28c4bc_files/image003.gif)
 
 where:
 
@@ -2873,7 +2865,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
                      (a)  provision is made by or under a taxation law or legislation described in paragraph 202(e) of the _Income Tax Assessment Act 1936_ for the person to quote the number; or
 
-                     (b)  the first‑mentioned person requires or requests the number to be quoted in connection with that person exercising powers or performing functions under, or in relation to, or complying with an obligation imposed by, a taxation law or a law of the Commonwealth of the kind referred to in paragraph 202(c), (d), (g), (ga), (h), (haa), (ha), (hb), (hc), (i), (ia), (j), (kb), (la) or (m) of the _Income Tax Assessment Act 1936_; or
+                     (b)  the first‑mentioned person requires or requests the number to be quoted in connection with that person exercising powers or performing functions under, or in relation to, or complying with an obligation imposed by, a taxation law or a law of the Commonwealth of the kind referred to in paragraph 202(c), (d), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (kb), (la) or (m) of the _Income Tax Assessment Act 1936_; or
 
                      (c)  the first‑mentioned person requires or requests the number to be quoted in connection with the first‑mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
 
@@ -2905,9 +2897,9 @@ Note:          A defendant bears an evidential burden in relat
 
           (1A)  Subsection (1) does not apply:
 
-                     (a)  to the extent required or permitted by, or reasonably necessary in order to comply with an obligation imposed by, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (haa), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
+                     (a)  to the extent required or permitted by, or reasonably necessary in order to comply with an obligation imposed by, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
 
-                     (b)  in connection with the first‑mentioned person exercising powers or performing functions under, or in relation to, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (haa), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
+                     (b)  in connection with the first‑mentioned person exercising powers or performing functions under, or in relation to, a taxation law or a law of the Commonwealth of a kind referred to in paragraph 202(c), (d), (e), (g), (ga), (h), (ha), (hb), (hc), (i), (ia), (j), (ka), (kb), (la), (m), (o) or (q) of the _Income Tax Assessment Act 1936_; or
 
                      (c)  in connection with the first‑mentioned person acting on the other person’s behalf in the conduct of the other person’s affairs.
 
