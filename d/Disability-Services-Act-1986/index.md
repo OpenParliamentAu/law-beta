@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00301/Html/DisabilityServices1986WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00589/Html/DisabilityServices1986WD02_image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 20 April 2007
- taking into account amendments up to Act No. 65 of 2007
+This compilation was prepared on 4 October 2006
+ taking into account amendments up to Act No. 108 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -888,7 +888,7 @@ whether or not the grant is still being received at the relevant time.
 
                      (b)  an employment service in respect of which a transitional grant is being received.
 
-##### <a id="14D"></a>14D  Powers
+##### <a id="14D"></a>14D  Powers
 
                    Subject to this Part, a Disability Standards Review Panel has power to do all things necessary or convenient to be done in connection with the performance of its functions.
 
@@ -1040,7 +1040,7 @@ the Minister may make available to the public, in any way the Minister thinks fi
 
                             the extent to which the State or eligible organisation complied with the applicable standards in respect of the provision of the service.
 
-##### <a id="15"></a>15  Agreements in respect of terms and conditions of grants
+##### <a id="15"></a>15  Agreements in respect of terms and conditions of grants
 
              (1)  If the Minister approves the making of a grant of financial assistance to an eligible organisation under this Part, the financial assistance is not payable unless the Minister, on the Commonwealth’s behalf, enters into an agreement with the eligible organisation containing the same terms and conditions on which the financial assistance was granted.
 
@@ -1122,7 +1122,7 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
                      (b)  comply with the guidelines formulated under section 5 that are applicable to the exercise of the power.
 
-             (2)  The Secretary must not, on or after 1 January 2005, give an approval under subsection 20(1) to the provision of rehabilitation programs for a person unless:
+             (2)  The Secretary must not, on or after 1 Janu ary 2005, give an approval under subsection 20(1) to the provision of rehabilitation programs for a person unless:
 
                      (a)  the person providing the program holds a current certificate of compliance in respect of the provision of rehabilitation programs; or
 
@@ -1187,12 +1187,6 @@ the Secretary may, on the Commonwealth’s behalf, approve the provision of the 
                      (a)  after that person requests the Secretary, in writing, to stop the provision of the program; or
 
                      (b)  after the time determined by the Secretary under subsection (1A).
-
-       (1AA)  Paragraph (1)(a) does not apply to the provision of a rehabilitation program to a person if:
-
-                     (a)  the person is required to undertake a specified activity under the _Social Security Act 1991_; and
-
-                     (b)  that activity is, or includes, the rehabilitation program.
 
           (1A)  The Secretary may determine that provision of a rehabilitation program must end after a specified time.
 
@@ -1945,24 +1939,6 @@ Schedule 8 (items 87–93): Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007</div>
-  </td>
-  <td>
-    <div>65, 2007</div>
-  </td>
-  <td>
-    <div>15 Apr 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–5, 8–16): \[ <i>see</i>Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7, 10) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Disability Services Act 1986_ was amended by Part 3 (sections 11 and 12) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1990_, subsection 2(1) of which provides as follows:
@@ -2190,6 +2166,8 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     </div>
   </td>
 </tr></table>
+
+ 
 
 ## Table of Amendments
 
@@ -2827,7 +2805,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div></div>
   </td>
   <td>
-    <div>am. No. 154, 2005; No. 65, 2007</div>
+    <div>am. No. 154, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2943,140 +2921,6 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
   </td>
 </tr></table>
 
-### Note 2
-
-_Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007 (No. 65, 2007)_
-
-The following amendments commence on 1 July 2007:
-
-## Schedule 1
-
-## 1  Section 4
-
-Insert:
-
-                    <a name="commonwealth-employe"></a>**_Commonwealth employee_** means:
-
-                     (a)  an APS employee; or
-
-                     (b)  an employee of a body (whether incorporated or not) established for a public purpose by, or under, a law of the Commonwealth.
-
-## 2  Section 4 (definition of _officer_)
-
-Repeal the definition, substitute:
-
-                    <a name="offic"></a>**_officer_** means:
-
-                     (a)  a Commonwealth employee; or
-
-                     (b)  a person who performs services on behalf of the Department under a contract made between the person and the Commonwealth; or
-
-                     (c)  an employee of a person referred to in paragraph (b).
-
-## 3  Paragraph 19(1)(b)
-
-After “guidelines”, insert “(if any)”.
-
-## 4  Subsection 19(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The Secretary must not take measures, or enter into arrangements, under subsection 20(1) for the provision of a rehabilitation program for persons in the target group unless:
-
-                     (a)  the person providing the program holds a current certificate of compliance in respect of the provision of rehabilitation programs; or
-
-                     (b)  the Secretary is satisfied that there are exceptional circumstances relating to one or more persons in the target group that justify the taking of measures, or the entry into the arrangements, despite the person providing the program not holding such a certificate.
-
-             (3)  Despite subsection (2), the Secretary may enter into an arrangement with a provider of rehabilitation programs who does not hold a current certificate of compliance in respect of the provision of rehabilitation programs if:
-
-                     (a)  the arrangement is for the provision of rehabilitation programs for a period of less than 12 months; or
-
-                     (b)  the Secretary is satisfied that the provider is likely to hold such a certificate at the end of the period of 12 months after the day on which the arrangement commences.
-
-## 5  Section 20
-
-Repeal the section, substitute:
-
-##### <a id="20"></a>20  Provision of rehabilitation programs
-
-             (1)  Subject to section 21, the Secretary may (on the Commonwealth’s behalf) take measures, or enter into arrangements, to provide to persons in the target group such rehabilitation programs, and any follow-up programs, that the Secretary considers necessary or desirable.
-
-             (2)  Without limiting the generality of subsection (1), the Secretary may, for the purposes of a rehabilitation program (including any follow-up program), provide, or arrange for the provision of, the following:
-
-                     (a)  employment and vocational training, educational courses and programs, and mobility and other independent living training;
-
-                     (b)  diagnostic and assessment services, occupational therapy, physiotherapy, speech therapy, and counselling and social work services;
-
-                     (c)  accommodation, transportation and personal support services;
-
-                     (d)  prostheses and aids, including:
-
-                              (i)  home and work-place modifications; and
-
-                             (ii)  modifications to vehicles, appliances and equipment;
-
-                     (e)  the maintenance and repair of prostheses and aids;
-
-                      (f)  books, tools of trade and other equipment and appliances;
-
-                     (g)  any other goods and services the Secretary considers necessary or desirable.
-
-             (3)  In connection with the provision of rehabilitation programs (including follow-up programs), the Secretary may, on behalf of the Commonwealth:
-
-                     (a)  provide; or
-
-                     (b)  arrange for the provision of;
-
-such buildings, plant, equipment, amenities, facilities and other things as the Secretary considers necessary or desirable, including, but not limited to, accommodation, transportation, and recreational, leisure and social amenities and facilities.
-
-## 8  Subsection 22(1)
-
-Repeal the subsection, substitute:
-
-             (1)  Subject to subsections (1A) and (1B), the Commonwealth is to bear the cost of, and incidental to, a rehabilitation program provided for a pensioner or beneficiary.
-
-## 9  Subsection 22(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Subject to subsection (3), the cost, as determined by the Secretary, of and incidental to a rehabilitation program provided for a person who is not a pensioner or beneficiary is to be borne by the person.
-
-## 11  Paragraphs 27(1)(c), (d) and (e)
-
-Omit “an officer”, substitute “a Commonwealth employee”.
-
-## 12  Subsection 27(2)
-
-Omit “An officer”, substitute “A Commonwealth employee”.
-
-## 13  Subsection 27(2)
-
-Omit “the officer” (wherever occurring), substitute “the Commonwealth employee”.
-
-## 14  Subsection 27(7)
-
-Omit “an officer”, substitute “a Commonwealth employee”.
-
-## 15  Subsection 33(1)
-
-Omit “an officer”, substitute “an APS employee in the Department”.
-
-## 16  Section 34
-
-Repeal the section, substitute:
-
-##### <a id="34"></a>34  Delegation by Secretary
-
-             (1)  The Secretary may, by writing signed by the Secretary:
-
-                     (a)  delegate to an officer all or any of the powers of the Secretary under Part III; and
-
-                     (b)  delegate to an APS employee in the Department all or any of the Secretary’s other powers under this Act, other than the power to give approvals under subsection 6B(1).
-
-             (2)  In exercising powers under the delegation, the delegate must comply with any directions of the Secretary.
-
-As at 20 April 2007 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3113,41 +2957,5 @@ _Employment and Workplace Relations Legislation Amendment (Welfare to Work and O
 ## 5  Application provision
 
 The amendments of the _Disability Services Act 1986_ made by this Schedule apply to all rehabilitation programs being considered for approval on or after the commencement of this Schedule.
-
-* * *
-
-_Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007 (No. 65, 2007)_
-
-## Schedule 1
-
-## 7  Application
-
-The amendment made by item 6 applies to a rehabilitation program that:
-
-                     (a)  is being provided to a person at the commencement of this item; or
-
-                     (b)  commences to be provided to a person on or after the commencement of this item.
-
-The following provision commences on 1 July 2007:
-
-## Schedule 1
-
-## 10  Saving
-
-(1)        Despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a determination that:
-
-                     (a)  was made, before the commencement of that item, under that subsection; and
-
-                     (b)  was in force immediately before that commencement;
-
-continues in force after that commencement as if the repeal had not occurred.
-
-(2)        To avoid doubt, despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a direction that:
-
-                     (a)  was given, before the commencement of that item, under subsection 22(3) of that Act in relation to subsection 22(2) of that Act; and
-
-                     (b)  was in force immediately before that commencement;
-
-continues in force after that commencement as if the repeal had not occurred.
 
  
