@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00284/Html/6e1f5da4-a38e-46bc-b68f-eea4038f82a7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00247/Html/9b9b68f6-06d4-4a03-addb-c152311ee104_files/image001.gif)
 
 # Nuclear Non‑Proliferation (Safeguards) Act 1987
 
 **Act No. 8 of 1987 as amended**
 
-This compilation was prepared on 9 March 2012
- taking into account amendments up to Act No. 3 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -256,7 +256,7 @@ Definitions
 
              (2)  A further object of this Act is to give effect to certain obligations that Australia has as a party to the Physical Protection Convention.
 
-##### <a id="4"></a>4  Interpretation
+##### <a id="4"></a>4  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -326,7 +326,7 @@ and includes any photograph, model or other thing from which such information ma
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
-                     (a)  an aircraft registered, or required to be registered, under regulations made under the _Civil Aviation Act 1988_; or
+                     (a)  an aircraft registered or required to be registered in accordance with the Air Navigation Regulations as an Australian aircraft;
 
                      (b)  an aircraft that is owned by, or is in the possession or control of, the Commonwealth or an authority of the Commonwealth; or
 
@@ -472,7 +472,11 @@ and, subject to subsection (3), includes such an agreement as amended from tim
 
              (6)  Where a person gives another person, or allows another person to take, possession of associated technology, the first‑mentioned person shall, for the purposes of this Act, be taken to have communicated to that other person the information that is contained in, or that may be obtained or deduced from, that associated technology.
 
-             (7)  Declarations made under the definitions of **_associated equipment_**, **_associated material_** and **_associated technology_** in subsection (1) are legislative instruments.
+             (7)  Sections 48, 48A, 48B, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply to declarations made under the definitions of **_associated equipment_**, **_associated material_** and **_associated technology_** in subsection (1) as if in those provisions references to regulations were references to declarations, references to a regulation were references to a provision of a declaration and references to repeal were references to revocation.
+
+             (8)  Declarations made under the definitions of **_associated equipment_**, **_associated material_** and **_associated technology_** in subsection (1) shall not be taken to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such declarations as they apply to statutory rules.
+
+             (9)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (8) of this section, the reference in the first‑mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
 
            (10)  A reference in this Act to an inspection by an Agency inspector includes a reference to access by the inspector.
 
@@ -648,7 +652,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the making of the declaration is not inconsistent with Australia’s obligations under any prescribed international agreement.
 
-             (5)  The Minister may, in writing, vary or revoke a declaration made under subsection (1) or (3).
+             (5)  The Minister may, by notice in writing published in the _Gazette_, vary or revoke a declaration made under subsection (1) or (3).
 
              (6)  The Minister shall revoke a declaration made under subsection (1) exempting nuclear material from the application of this Part if the nuclear material:
 
@@ -660,9 +664,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (8)  The Minister shall not make a declaration under subsection (7) exempting an associated item from the application of this Part unless the making of the declaration is not inconsistent with Australia’s obligations under any prescribed international agreement.
 
-             (9)  The Minister may, in writing, vary or revoke a declaration made under subsection (7).
+             (9)  The Minister may, by notice in writing published in the _Gazette_, vary or revoke a declaration made under subsection (7).
 
-           (10)  A declaration, or a variation or revocation of a declaration, made under this section is a legislative instrument.
+           (10)  Sections 48, 48A, 48B, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply to declarations made under this section as if in those provisions references to regulations were references to declarations, references to a regulation were references to a provision of a declaration and references to repeal were references to revocation.
+
+           (11)  Declarations made under this section shall not be taken to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such declarations as they apply to statutory rules.
+
+           (12)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (11) of this section, the reference in the first‑mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
 
 ##### <a id="12"></a>12  Application for permit
 
@@ -2202,7 +2210,7 @@ and to exercise relevant powers (within the meaning of section 59), the entry 
 
              (1)  The Minister:
 
-                     (a)  may, by legislative instrument, make orders, not inconsistent with this Act or the regulations, to be complied with by the holders of permits or authorities; and
+                     (a)  may make orders, not inconsistent with this Act or the regulations, to be complied with by the holders of permits or authorities; and
 
                      (b)  may, in writing, give directions, not inconsistent with this Act or the regulations, to be complied with by the holder of a permit or authority.
 
@@ -2219,6 +2227,12 @@ and to exercise relevant powers (within the meaning of section 59), the entry 
                      (c)  in the case of an authority granted under section 18—any matter referred to in paragraph 18(4)(a), (b) or (d).
 
              (3)  Where a direction given under this section is inconsistent with an order made under this section, the direction shall prevail and the order shall, to the extent of the inconsistency, be of no effect.
+
+             (4)  Sections 48, 48A, 48B, 49, 49A and 50 of the _Acts Interpretation Act 1901_ apply to orders made under this section as if in those provisions references to regulations were references to orders, references to a regulation were references to a provision of an order and references to repeal were references to revocation.
+
+             (5)  Orders made under this section shall not be taken to be statutory rules within the meaning of the _Statutory Rules Publication Act 1903_, but subsections 5(3) to (3C) (inclusive) of that Act apply in relation to such orders as they apply to statutory rules.
+
+             (6)  For the purposes of the application of subsection 5(3B) of the _Statutory Rules Publication Act 1903_ in accordance with subsection (5) of this section, the reference in the first‑mentioned subsection to the Minister of State for Sport, Recreation and Tourism shall be read as a reference to the Minister administering this Act.
 
              (7)  A direction given under subsection (1) to the holder of a permit or authority shall have endorsed on it or attached to it a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_ and to subsection 22(8) of this Act, application may be made to the Administrative Appeals Tribunal, by or on behalf of a person whose interests are affected by a decision of the Minister, pursuant to subsection (1) of this section, giving a direction to be complied with by the holder of the permit or authority, for review of the decision.
 
@@ -3060,7 +3074,7 @@ The number, intensity, duration, timing and mode of routine inspections in respe
 
 (b)   For facilities, other than reactors or sealed storage installations, involving plutonium or uranium enriched to more than 5%, the maximum total of routine inspection per year shall be determined by allowing for each such facility 305ÖE man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms. The maximum established for any such facility shall not, however, be less than 1.5 man‑years of inspection; and 
 
-(c)   For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man‑year of inspection plus 0.4![](http://www.comlaw.gov.au/Details/C2012C00284/Html/6e1f5da4-a38e-46bc-b68f-eea4038f82a7_files/image002.gif)E man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
+(c)   For facilities not covered by paragraphs (a) or (b), the maximum total of routine inspection per year shall be determined by allowing for each such facility one third of a man‑year of inspection plus 0.4![](http://www.comlaw.gov.au/Details/C2012C00247/Html/9b9b68f6-06d4-4a03-addb-c152311ee104_files/image002.gif)E man‑days of inspection per year, where E is the inventory or annual throughput of nuclear material, whichever is greater, expressed in effective kilograms.
 
 Australia and the Agency may agree to amend the figures for the maximum inspection effort specified in this Article, upon determination by the Board that such amendment is reasonable.
 
@@ -4307,24 +4321,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Nuclear Terrorism Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>3, 2012</div>
-  </td>
-  <td>
-    <div>6 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–7): \[ <i>see</i>Note 3] 
-Schedule 2: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
@@ -4405,7 +4401,7 @@ _(e)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was am
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 99, 1988; No. 196, 1992; No. 3, 1995; No. 150, 1997; No. 146, 1999; No. 35, 2001; No. 132, 2003; No. 50, 2007; No. 3, 2012</div>
+    <div>am. No. 99, 1988; No. 196, 1992; No. 3, 1995; No. 150, 1997; No. 146, 1999; No. 35, 2001; No. 132, 2003; No. 50, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4453,7 +4449,7 @@ _(e)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was am
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 99, 1988; No. 3, 1995; No. 3, 2012</div>
+    <div>am. No. 99, 1988; No. 3, 1995</div>
   </td>
 </tr>
 <tr>
@@ -5013,7 +5009,7 @@ _(e)_     The _Nuclear Non‑Proliferation (Safeguards) Act 1987_ was am
     <div>S. 73</div>
   </td>
   <td>
-    <div>am. No. 99, 1988; No. 132, 2003; No. 50, 2007; No. 3, 2012</div>
+    <div>am. No. 99, 1988; No. 132, 2003; No. 50, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5039,247 +5035,7 @@ Repeal the definition, substitute:
 
                     <a name="nuclear-facil"></a>**_nuclear facility_** has the same meaning as in the Physical Protection Convention.
 
-As at 9 March 2012 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Nuclear Terrorism Legislation Amendment Act 2012 (No. 3, 2012)_
-
-The following amendments commence on Proclamation. However, if the provision(s) do not commence within the period of 1 month beginning on the day the International Convention for the Suppression of Acts of Nuclear Terrorism, done at New York on 13 April 2005, comes into force for Australia, they commence on the day after the end of that period:
-
-## Schedule 1
-
-## 1  At the end of section 3
-
-Add:
-
-             (3)  A further object of this Act is to give effect to certain obligations that Australia has as a party to the Nuclear Terrorism Convention.
-
-## 2  Subsection 4(1)
-
-Insert:
-
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
-
-## 3  Subsection 4(1)
-
-Insert:
-
-                    <a name="immigr-minist"></a>**_Immigration Minister_** means the Minister administering the _Migration Act 1958_.
-
-## 4  Subsection 4(1)
-
-Insert:
-
-                    <a name="nuclear-terror-convent"></a>**_Nuclear Terrorism Convention_** means the International Convention for the Suppression of Acts of Nuclear Terrorism, done at New York on 13 April 2005, as amended and in force for Australia from time to time.
-
-Note:          In 2012, the text of the Convention was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
-
-## 5  Section 8 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="8"></a>8  Application of Act (other than Division 2A of Part III)
-
-## 6  Before subsection 8(1)
-
-Insert:
-
-          (1A)  This section does not apply in relation to Division 2A of Part III (which deals with offences relating to the Nuclear Terrorism Convention).
-
-## 7  After Division 2 of Part III
-
-Insert:
-
-### Division 2A—Offences relating to nuclear terrorism
-
-##### <a id="38A"></a>38A  ADF members not liable for prosecution
-
-                   Nothing in this Division makes a member of the Australian Defence Force acting in connection with the defence or security of Australia liable to be prosecuted for an offence.
-
-##### <a id="38B"></a>38B  Definitions
-
-                   In this Division:
-
-                    <a name="devic"></a><a name="convent-devic"></a>**_Convention device_** has the same meaning as **_device_** has in the Nuclear Terrorism Convention.
-
-                    <a name="state-govern-facil"></a><a name="govern-facil"></a>**_government facility_** has the same meaning as **_State or government facility_**has in the Nuclear Terrorism Convention.
-
-                    <a name="nuclear-facil"></a>**_nuclear facility_** has the same meaning as in the Nuclear Terrorism Convention.
-
-                    <a name="radioact-materi"></a>**_radioactive material_** has the same meaning as in the Nuclear Terrorism Convention.
-
-##### <a id="38C"></a>38C  Possessing radioactive material or Convention device, or making Convention device
-
-Possession of radioactive material or Convention device
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person possesses material or a thing; and
-
-                     (b)  the material or thing is radioactive material or a Convention device; and
-
-                     (c)  the person intends to use the material or device, or to make it available to be used, to cause:
-
-                              (i)  the death of, or serious bodily injury to, an individual; or
-
-                             (ii)  substantial damage to property or to the environment.
-
-                    Penalty:  Imprisonment for 20 years.
-
-Making a Convention device
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person makes a thing; and
-
-                     (b)  the thing is a Convention device; and
-
-                     (c)  the person intends to use the device, or to make it available to be used, to cause:
-
-                              (i)  the death of, or serious bodily injury to, an individual; or
-
-                             (ii)  substantial damage to property or to the environment.
-
-                    Penalty:  Imprisonment for 20 years.
-
-##### <a id="38D"></a>38D  Using radioactive material, or using or damaging Convention device or nuclear facility
-
-Using radioactive material
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person uses material; and
-
-                     (b)  the material is radioactive material; and
-
-                     (c)  the person intends the use of the material:
-
-                              (i)  to cause the death of, or serious bodily injury to, an individual; or
-
-                             (ii)  to cause substantial damage to property or to the environment; or
-
-                            (iii)  to compel a person or group of persons (including an international organisation or a legislative, executive or judicial institution of the Commonwealth, a State or a Territory, or of a foreign country) to do or refrain from doing any act or thing.
-
-                    Penalty:  Imprisonment for 20 years.
-
-Using or damaging Convention device
-
-             (2)  A person commits an offence if:
-
-                     (a)  the person uses or damages a thing; and
-
-                     (b)  the thing is a Convention device; and
-
-                     (c)  the person intends the use of, or damage to, the thing:
-
-                              (i)  to cause the death of, or serious bodily injury to, an individual; or
-
-                             (ii)  to cause substantial damage to property or to the environment; or
-
-                            (iii)  to compel a person or group of persons (including an international organisation or a legislative, executive or judicial institution of the Commonwealth, a State or a Territory, or of a foreign country) to do or refrain from doing any act or thing.
-
-                    Penalty:  Imprisonment for 20 years.
-
-Using or damaging nuclear facility
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person uses or damages a facility; and
-
-                     (b)  the facility is a nuclear facility; and
-
-                     (c)  the use or damage causes radioactive material to be released, or creates a risk of radioactive material being released; and
-
-                     (d)  the person intends the use of, or damage to, the facility:
-
-                              (i)  to cause the death of, or serious bodily injury to, an individual; or
-
-                             (ii)  to cause substantial damage to property or to the environment; or
-
-                            (iii)  to compel a person or group of persons (including an international organisation or a legislative, executive or judicial institution of the Commonwealth, a State or a Territory, or of a foreign country) to do or refrain from doing any act or thing.
-
-                    Penalty:  Imprisonment for 20 years.
-
-##### <a id="38E"></a>38E  Threats and demands
-
-             (1)  A person commits an offence if the person threatens to do an act that would be an offence against section 38D.
-
-                    Penalty:  Imprisonment for 20 years.
-
-             (2)  A person (the **_offender_**) commits an offence if:
-
-                     (a)  the offender demands that another person:
-
-                              (i)  create material, a thing or a facility; or
-
-                             (ii)  allow the offender, or another person, access to, or control of, material, a thing or a facility; or
-
-                            (iii)  make material, a thing or a facility available to the offender or another person; and
-
-                     (b)  the material, thing or facility is (or would, if created, be) radioactive material, a Convention device or a nuclear facility; and
-
-                     (c)  the demand is made by force or threat of force, or by any form of intimidation.
-
-                    Penalty:  Imprisonment for 20 years.
-
-##### <a id="38F"></a>38F  Jurisdictional requirement
-
-                   A person commits an offence under this Division only if one or more of the following paragraphs applies:
-
-                     (a)  the conduct constituting the alleged offence occurs:
-
-                              (i)  wholly or partly in Australia; or
-
-                             (ii)  wholly or partly on board an Australian ship or an Australian aircraft;
-
-                     (b)  at the time of the alleged offence, the person is an Australian citizen;
-
-                     (c)  at the time of the alleged offence, the person is a stateless person whose habitual residence is in Australia;
-
-                     (d)  the conduct is subject to the jurisdiction of another State Party to the Nuclear Terrorism Convention established in accordance with paragraph 1 or 2 of Article 9 of the Convention, and the person is in Australia;
-
-                     (e)  the alleged offence is committed against a government facility of the Commonwealth, or of a State or Territory, that is located outside Australia;
-
-                      (f)  the alleged offence is committed against:
-
-                              (i)  an Australian citizen; or
-
-                             (ii)  a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory;
-
-                     (g)  by engaging in the conduct constituting the alleged offence, the person intends to compel a legislative, executive or judicial institution of the Commonwealth, a State or a Territory to do or omit to do an act.
-
-Note:          A person commits an offence under this Division even if the conduct occurs in circumstances to which the Nuclear Terrorism Convention does not apply because of Article 3.
-
-##### <a id="38G"></a>38G  Double jeopardy and foreign offences
-
-                   If a person has been convicted or acquitted of an offence in respect of conduct under the law of a foreign country, the person cannot be convicted of an offence under this Division in respect of that conduct.
-
-##### <a id="38H"></a>38H  Attorney‑General’s consent needed to bring proceedings for offence under this Division
-
-             (1)  Proceedings for an offence under this Division must not be commenced without the Attorney‑General’s written consent.
-
-             (2)  However, a person may be arrested, charged, remanded in custody, or released on bail, in connection with an offence under this Division before the necessary consent has been given.
-
-##### <a id="38J"></a>38J  Evidentiary certificates
-
-             (1)  The Foreign Affairs Minister may issue a certificate stating any of the following matters:
-
-                     (a)  that the Nuclear Terrorism Convention entered into force for Australia on a specified day;
-
-                     (b)  that the Convention remains in force for Australia or any other State Party  on a specified day;
-
-                     (c)  a matter relevant to the establishment of jurisdiction by a State Party under paragraph 1 or 2 of Article 9 of the Convention.
-
-             (2)  The Immigration Minister may issue a certificate stating that:
-
-                     (a)  a person is or was an Australian citizen at a particular time; or
-
-                     (b)  a person is or was a stateless person whose habitual residence is or was in Australia at a particular time.
-
-             (3)  In any proceedings for an offence under this Division, a certificate under this section is prima facie evidence of the matters in the certificate.
-
-As at 9 March 2012 the amendments are not incorporated in this compilation.
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
