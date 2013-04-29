@@ -1,912 +1,158 @@
-**
+**<b>
 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910 
-**
+### <center><name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - Reprinted as at 31 December 1983 (HISTACT CHAP 3445 #DATE 31:12:1983) </name></center>
+</b>** *1* The Northern Territory Acceptance Act 1910 as shown in this reprint comprises Act No. 20, 1910 amended as indicated in the Tables below.<lf>    (The citation "Northern Territory Acceptance Act 1910" is provided for by the Amendments Incorporation Act 1905 and the Acts Citation Act 1976.)<lf>                                  Table of Acts<lf> ----------------------------------------------------------------------------- <lf> Application, <lf>                                                                     saving<lf>                            Number     Date      Date of             or<lf> transitional <lf>     Act                    and year   of Assent commencement provisions<lf> ----------------------------------------------------------------------------- <lf>     Northern Territory<lf>     Acceptance Act 1910    20, 1910   16 Nov<lf>                                       1910      1 Jan 1911 (see<lf>                                                 Gazette 1910, p.<lf>                                                 1901)<lf>     Northern Territory<lf>     Acceptance Act 1919    24, 1919   28 Oct<lf>                                       1919      1 Jan 1920 (see<lf>                                                 Gazette 1919, p.<lf>                                                 2486)               -<lf>     Northern Australia<lf>     Act 1926(a)            16, 1926   4 June<lf>                                       1926      1 Feb 1927 (see<lf>                                                 Gazette 1927, p.<lf>                                                 137)                -<lf>     Northern Territory<lf>     Acceptance Act 1952    13, 1952   30 May<lf>                                       1952      27 June 1952        -<lf>     Statute Law<lf>     Revision Act 1973      216, 1973  19 Dec<lf>                                       1973      31 Dec 1973         Ss. 9 (1)<lf>                                                                     and 10<lf>     Tarcoola to Alice<lf>     Springs Railway<lf>     Act 1974               86, 1974   18 Oct<lf>                                       1974      24 Jan 1975 (see<lf>                                                 Gazette 1975, No.<lf>                                                 S10, p. 1)          -<lf> ----------------------------------------------------------------------------- (a)  The Northern Australia Act 1926 was repealed by the Northern Territory (Administration) Act 1931 (No. 5, 1931); the Northern Territory (Administration) Act 1931 was repealed by the Northern Territory (Self-Government) Act 1978 (No. 58, 1978).<lf>                               Table of Amendments<lf>                 ad. = added or inserted  am. = amended  rep. =<lf>                    repealed  rs. = repealed and substituted<lf> ----------------------------------------------------------------------------- <lf>     Provision affected       How affected<lf> ----------------------------------------------------------------------------- <lf>     S. 3  . . . . . . . .    rep. No. 216, 1973<lf>     Ss. 8, 9  . . . . . .    rep. No. 16, 1926<lf>     S. 10 . . . . . . . .    am. No. 13, 1952<lf>     Ss. 11-13 . . . . . .    rep. No. 16, 1926<lf>     S. 14 . . . . . . . .    am. No. 24, 1919; No. 86, 1974<lf>     S. 16 . . . . . . . .    rep. No. 216, 1973<lf>     S. 18 . . . . . . . .    rep. No. 216, 1973<lf> ----------------------------------------------------------------------------- </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-###  Compilation Information 
-**
+                              PART  I-PRELIMINARY<lf> <p>Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  4\.       Interpretation<lf> <p>                    PART  II-ACCEPTANCE  OF  THE  NORTHERN  TERRITORY<lf> <p>  5\.       Approval of Agreement<lf> <p>  6\.       Acceptance of the Northern Territory<lf> <p>  7\.       Continuance of laws<lf>            Powers and functions under Commonwealth law<lf>            Powers and functions under State law<lf> <p>  10\.      Continuance of estates and interests<lf> <p>                 PART  III-PROVISIONS  FOR  CARRYING  OUT  THE  AGREEMENT<lf> <p>  14\.      Obligations of Commonwealth<lf>            (a)  To assume responsibility for State loans in respect of<lf>                 Northern Territory<lf>                 Compensation for portion of overland telegraph line<lf>            (b)  To construct Transcontinental Railway<lf>            (c)  To acquire Port Augusta Railway<lf>            (e)  To pay for Port Augusta Railway<lf>            (g)  To allow State to connect with railways<lf>            (h)  To allow State reasonable running powers<lf> <p>  15\.      Authority to construct railway to Western Australia<lf> <p>  17\.      Powers, &c., in relation to the working of railways<lf> <p>  19\.      Act not to be deemed to appropriate revenues or moneys<lf> <p>                                 THE  SCHEDULE<lf> <p>                        Agreement dated 7 December 1907<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></p></lf></p></lf></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to provide for the Acceptance of the Northern Territory as a Territory under the Authority of the Commonwealth and for the carrying out of the Agreement for the Surrender and Acceptance<lf> </lf></sect>
+**<b>
 
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - PREAMBLE Preamble </name>
+</b>** 
 
+## SECT
+<sect> WHEREAS by certain Letters Patent of Her late Majesty Queen Victoria, bearing date the sixth day of July, One thousand eight hundred and sixty-three, and signed by warrant under the Queen's Sign Manual, the Northern Territory as defined in this Act was annexed to the Province of South Australia: 
 
+  And whereas by the Constitution Act the Province of South Australia, including the Northern Territory of South Australia, became a part of the Commonwealth by the name of the State of South Australia: 
 
+  And whereas by the Constitution it is provided that the Parliament may make laws for the government of any territory surrendered by any State to and accepted by the Commonwealth: 
 
-**
+  And whereas the Commonwealth and the State of South Australia have entered into an Agreement for the surrender to and acceptance by the Commonwealth of the Northern Territory, subject to approval by the Parliaments of the Commonwealth and of the said State: 
 
-###  Long Title 
-**
-**
+  And whereas the Parliament of the State of South Australia has by an Act intituled "The Northern Territory Surrender Act 1907" approved of the said Agreement: 
 
-###  Preamble 
-**
+  And whereas it is desirable to approve and ratify the said Agreement, and to provide for the acceptance by the Commonwealth of the Northern Territory, and to make provision for the carrying out of the Agreement: 
 
+  Be it therefore enacted by the King's Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows: 
+</sect>
+**<b>
 
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - PART I  PART I-PRELIMINARY </name>
+</b>** 
+**<b>
 
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Northern Territory Acceptance Act 1910.*1*<lf> 
 
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</lf></sect>
+**<b>
 
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 2 Commencement </name>
+</b>** 
 
-**
+## SECT
+<sect>   2\. This Act shall commence on a day to be fixed by proclamation.*1*<lf> 
 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910<part>Part&#160;I&#151;Preliminary </part>
-**
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Northern Territory Acceptance Act 1910_.
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</lf></sect>
+**<b>
 
- 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 2  Commencement [_see_ Note 1] 
-This Act shall commence on a day to be fixed by proclamation.
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 4 Interpretation </name>
+</b>** 
 
- 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 4  Interpretation 
-In this Act, unless the contrary intention appears:
+## SECT
+<sect>   4\. In this Act, unless the contrary intention appears-<lf>   "The Agreement" means the Agreement made between the Commonwealth and the State of South Australia for the surrender and acceptance of the Northern Territory, which Agreement is set out in the Schedule to this Act;<lf>   "The Northern Territory" means that part of Australia which lies to the northward of the twenty-sixth parallel of South Latitude and between the one hundred and twenty-ninth and one hundred and thirty-eighth degrees of East Longitude, together with the bays and gulfs therein, and all and every the islands adjacent to any part of the mainland within such limits as aforesaid, with their rights, members, and appurtenances;<lf>   "South Australia proper" means South Australia not including the Northern Territory. </lf></lf></lf></sect>
+**<b>
 
- 
-<dl compact=""><dl compact="">
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - PART II  PART II-ACCEPTANCE OF THE NORTHERN TERRITORY </name>
+</b>** 
+**<b>
 
-_The Agreement_ means the Agreement made between the Commonwealth
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 5 Approval of Agreement </name>
+</b>** 
 
-and the State of South Australia for the surrender and acceptance of the
+## SECT
+<sect>   5\. The Agreement is by this Act ratified and approved. </sect>
+**<b>
 
-Northern Territory, which Agreement is set out in the Schedule to this Act. _The Northern Territory_ means that part of Australia which lies to the northward of the twenty-sixth parallel of South Latitude and between the one hundred and twenty-ninth and one hundred and thirty-eighth degrees of East Longitude, together with the bays and gulfs therein, and all and every the islands adjacent to any part of the mainland within such limits as aforesaid, with their rights, members, and appurtenances. _South Australia proper_ means South Australia not including the Northern Territory.  </dl></dl>
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 6 Acceptance of the Northern Territory </name>
+</b>** 
 
-<center>Back to Top</center>
+## SECT
+<sect>   6\. (1) The Northern Territory is by this Act declared to be accepted by the Commonwealth as a Territory under the authority of the Commonwealth, by the name of the Northern Territory of Australia. 
 
-<center>**
+  (2) Without limiting the effect of the acceptance, the acceptance includes the Palmerston and Pine Creek Railway and all the State's right, title, interest in, and control of, all State real and personal property and privileges in the said Territory (except moneys held by or on behalf of or to the credit of, or due or accruing due to, the State at the date of the acceptance), whether held by or vested in the Crown, or by or in any Commissioner, authority, or person, or otherwise, for State purposes. 
+</sect>
+**<b>
 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910<part>Part&#160;II&#151;Acceptance of the Northern Territory </part>
-**</center>
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 7 Continuance of laws </name>
+</b>** 
 
-**
+## SECT
+<sect>   7\. (1) All laws in force in the Northern Territory at the time of the acceptance shall continue in force, but may be altered or repealed by or under any law of the Commonwealth.<lf> 
 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 5  Approval of Agreement 
-**
+Powers and functions under Commonwealth law<lf>   (2) Where, by any law of the Commonwealth in force in the Northern Territory at the time of the acceptance, any power or function is vested in any officer in relation to the State of South Australia, that power or function shall, in relation to the Northern Territory, be vested in and exercised or performed by such officer as the Governor-General directs.<lf> <p>Powers and functions under State law<lf>   (3) Where, by any law of the State of South Australia in force in the Northern Territory at the time of the acceptance, any power or function is vested in the Governor of the State of South Australia, or in the Governor of that State with the advice of his Executive Council, or in any authority of that State, that power or function, in relation to the Northern Territory, shall be vested in and exercised or performed by the Governor-General, or the Governor-General in Council, or the authority exercising similar powers and functions under the Commonwealth, as the case requires, or as the Governor-General directs. <p></p></lf></p></lf></lf>
+</lf></sect>
+**<b>
 
- <dl compact="">
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 10 Continuance of estates and interests </name>
+</b>** 
 
-		The Agreement is by this Act ratified and approved.
+## SECT
+<sect>   10\. All estates and interests, held by any person from the State of South Australia within the Northern Territory at the time of the acceptance, shall, subject to Ordinances in force under the Northern Territory (Administration) Act 1910-1949*2*, continue to be held from the Commonwealth on the same terms and conditions as they were held from the State. 
 
- </dl>
+*2* S. 10-The Northern Territory (Administration) Act 1910 was repealed by the Northern Territory (Self-Government) Act 1978 (No. 58, 1978).<lf> </lf>
+</sect>
+**<b>
 
-**
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - PART III  PART III-PROVISIONS FOR CARRYING OUT THE AGREEMENT </name>
+</b>** 
+**<b>
 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 6  Acceptance of the Northern Territory 
-**
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 14 Obligations of Commonwealth </name>
+</b>** 
 
- <dl compact="">
+## SECT
+<sect>   14\. The Commonwealth, in consideration of the surrender of the Northern Territory and property of the State of South Australia therein, and the grant of the rights in the Agreement mentioned to acquire and to construct railways in South Australia proper, shall-<lf> To assume responsibility for State loans in respect of Northern Territory<lf>   (a)  Be responsible for the indebtedness of the State in respect of the Northern Territory as from the date of acceptance of such surrender and shall relieve the State from the said indebtedness in the following manner: 
 
-<dt>(1)</dt><dd>The Northern Territory is by this Act declared to be accepted by the
+      I By annually reimbursing the State the amount of the annual interest paid by it in connexion with the loans in respect of the Northern Territory; by paying annually into a Commonwealth Sinking Fund the amounts which the State has undertaken to pay into such a fund in connexion with the said loans; and by paying and redeeming at or before maturity the said loans.<lf>      II By paying the amount of the deficit (or Advance account) in respect of<lf> the Northern Territory to the said State in such manner as may be agreed upon. If the amount cannot be agreed upon it shall be determined by arbitration.<lf> Compensation for portion of overland telegraph line<lf>      Provided that, notwithstanding anything contained in the Agreement, the<lf> Commonwealth shall, if the Governor of the State of South Australia so requires, in lieu of being responsible for the indebtedness of the State in respect of that portion of the Overland Telegraph Line which is in the Northern Territory, compensate the State of South Australia for that portion of the line in accordance with section eighty-five of the Constitution. <p>To construct Transcontinental Railway<lf>   (b)  Construct or cause to be constructed a railway line from Port Darwin southwards to a point on the northern boundary of South Australia proper (which railway with a railway from a point on the Port Augusta Railway to connect therewith is hereinafter referred to as The Transcontinental Railway). <p>To acquire Port Augusta Railway<lf>   (c)  At the time of such surrender acquire from the State at the price and on the terms hereinafter mentioned the Port Augusta Railway including the lands now used for and reserved for such railway together with all stations and other buildings sidings wharfs and other accessories used in connexion with the working of the said railway except the railway carriages trucks and other movable plant and rolling-stock. <p>To pay for Port Augusta Railway<lf>   (e)  Pay the price of the said Port Augusta Railway by becoming responsible on the date of the sale and transfer thereof to the Commonwealth for the amount of the loans raised by the State for the purpose of constructing the said railway and used therefor and by annually reimbursing the State the interest payable thereon and by paying annually into a Commonwealth Sinking Fund the amounts which the State has undertaken to pay into such a fund in connexion with the said loans until the said loans are paid and redeemed by the Commonwealth as or before they become due. <p>To allow State to connect with railways<lf>   (g)  Allow the State to connect any new railway, constructed by the State in South Australia proper after the date of the Agreement, with any railways acquired or constructed by the Commonwealth in South Australia proper. <p>To allow State reasonable running powers<lf>   (h)  Allow the State reasonable running powers and rights on such conditions as may be agreed upon or in default of agreement as may be determined by arbitration on all railways acquired or constructed by the Commonwealth in South Australia proper and (without limitation of the scope of such powers and rights) the use on such conditions as aforesaid of the stations yards buildings and other accessories at Quorn and Port Augusta and the wharf at Port Augusta used in connexion with the working of the said railway but not so as to interfere with the proper control working and maintenance of the railways of the Commonwealth. <p></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf></lf></lf></lf>
+</lf></lf></sect>
+**<b>
 
-Commonwealth as a Territory under the authority of the Commonwealth, by the
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 15 Authority to construct railway to Western Australia </name>
+</b>** 
 
-name of the Northern Territory of Australia. </dd> <dt>(2)</dt><dd>Without limiting the effect of the acceptance, the acceptance includes the Palmerston and Pine Creek Railway and all the State's right, title, interest in, and control of, all State real and personal property and privileges in the said Territory (except moneys held by or on behalf of or to the credit of, or due or accruing due to, the State at the date of the acceptance), whether held by or vested in the Crown, or by or in any Commissioner, authority, or person, or otherwise, for State purposes. </dd> </dl>
+## SECT
+<sect>   15\. The Commonwealth may construct, or authorize the construction of, or cause to be constructed, a railway westerly from any point on the Port Augusta Railway through South Australia proper to any point on the western boundary line of South Australia proper, by a route to be determined by the Parliament of the Commonwealth, with all proper stations, approaches, works, and conveniences connected therewith and necessary therefor, and may maintain and work such railway when constructed. </sect>
+**<b>
 
-**
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 17 Powers, &c., in relation to the working of railways </name>
+</b>** 
 
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 7  Continuance of laws 
-**
+## SECT
+<sect>   17\. For the purpose of maintaining and working any of the railways required or authorized by this Act to be constructed or acquired, and in relation to those railways, the Commonwealth, or any authority constituted or appointed by or under the Commonwealth, shall have all such powers, functions, rights, privileges, and immunities, as the South Australian Railways Commissioner or other similar authority has at the date of the Agreement in relation to the State Railways of the State, so far as those powers, functions, rights, privileges, and immunities, are applicable. </sect>
+**<b>
 
- <dl compact="">
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SECT 19 Act not to be deemed to appropriate revenues or moneys </name>
+</b>** 
 
-<dt>(1)</dt><dd>All laws in force in the Northern Territory at the time of the acceptance
+## SECT
+<sect>   19\. Nothing in this Act shall be taken to be an appropriation of any revenues or moneys. </sect>
+**<b>
 
-shall continue in force, but may be altered or repealed by or under any law of
+### <name>NORTHERN TERRITORY ACCEPTANCE ACT 1910 - SCHEDULE </name>
+</b>** 
 
-the Commonwealth.
+## SCH
+<sch>                                THE  SCHEDULE*3*<lf> AGREEMENT made the seventh day of December One thousand nine hundred and seven<lf> BETWEEN THE COMMONWEALTH OF AUSTRALIA (hereinafter referred to as the<lf> Commonwealth) of the one part and THE STATE OF SOUTH AUSTRALIA (hereinafter<lf> referred to as the State) of the other part WITNESSETH that subject as<lf> hereinafter mentioned to the approval of the Parliaments of the said<lf> Commonwealth and the said State and for the mutual considerations hereinafter<lf> appearing IT IS HEREBY AGREED that the State shall on the terms and conditions<lf> hereinafter appearing surrender to the Commonwealth the Northern Territory and<lf> shall sell and transfer to the Commonwealth the Port Augusta Railway and shall<lf> permit the Commonwealth to construct or cause to be constructed in South<lf> Australia proper the railways hereinafter mentioned to the northern and western<lf> boundaries of South Australia proper from any points on the Port Augusta Railway and shall permit the Commonwealth to maintain and work the said railways when so acquired and constructed.<lf> 
 
-</dd> </dl>
-
-_Powers and functions under Commonwealth law_
-
-<dl compact="">
-
-<dt>(2)</dt><dd>Where, by any law of the Commonwealth in force in the Northern Territory
-
-at the time of the acceptance, any power or function is vested in any officer
-
-in relation to the State of South Australia, that power or function shall, in
-
-relation to the Northern Territory, be vested in and exercised or performed by
-
-such officer as the Governor-General directs.
-
-</dd> </dl>
-
-_Powers and functions under State law_
-
-<dl compact="">
-
-<dt>(3)</dt><dd>Where, by any law of the State of South Australia in force in the Northern
-
-Territory at the time of the acceptance, any power or function is vested in the
-
-Governor of the State of South Australia, or in the Governor of that State with
-
-the advice of his Executive Council, or in any authority of that State, that
-
-power or function, in relation to the Northern Territory, shall be vested in
-
-and exercised or performed by the Governor-General, or the Governor-General in
-
-Council, or the authority exercising similar powers and functions under the
-
-Commonwealth, as the case requires, or as the Governor-General directs.
-
-</dd> </dl>
-
-**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 10  Continuance of estates and interests  
-**
-
- <dl compact="">
-
-		All estates and interests, held by any person from the State of South
-
-Australia within the Northern Territory at the time of the acceptance, shall,
-
-subject to Ordinances in force under the _Northern Territory (Administration) Act 1910-1949_, continue to be held from the Commonwealth on the same terms
-
-and conditions as they were held from the State.
-
- </dl>
-
-<center>**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910<part>Part  III&#151;Provisions for carrying out the Agreement </part>
-**</center>
-
-**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 14  Obligations of Commonwealth  
-**
-
- <dl compact="">
-
-		The Commonwealth, in consideration of the surrender of the Northern Territory
-
-and property of the State of South Australia therein, and the grant of the
-
-rights in the Agreement mentioned to acquire and to construct railways in South
-
-Australia proper, shall:
-
- </dl>
-
-_To assume responsibility for State loans in respect of Northern Territory_
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Be responsible for the indebtedness of the State in respect of the
-
-Northern Territory as from the date of acceptance of such surrender and shall
-
-relieve the State from the said indebtedness in the following manner:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	I	By annually reimbursing the State the amount of the annual interest paid by
-
-it in connexion with the loans in respect of the Northern Territory; by paying
-
-annually into a Commonwealth Sinking Fund the amounts which the State has
-
-undertaken to pay into such a fund in connexion with the said loans; and by
-
-paying and redeeming at or before maturity the said loans.
-
-	II	By paying the amount of the deficit (or Advance account) in respect of the
-
-Northern Territory to the said State in such manner as may be agreed upon. If
-
-the amount cannot be agreed upon it shall be determined by arbitration.
-
-</dl></dl></dl></dl>
-
-_Compensation for portion of overland telegraph line_
-
-Provided that, notwithstanding anything contained in the Agreement, the Commonwealth shall, if the Governor of the State of South Australia so requires, in lieu of being responsible for the indebtedness of the State in respect of that portion of the Overland Telegraph Line which is in the Northern Territory, compensate the State of South Australia for that portion of the line in accordance with section eighty-five of the Constitution.
-
-_To construct Transcontinental Railway_
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>Construct or cause to be constructed a railway line from Port Darwin
-
-southwards to a point on the northern boundary of South Australia proper (which
-
-railway with a railway from a point on the Port Augusta Railway to connect
-
-therewith is hereinafter referred to as The Transcontinental Railway).
-
-</dd>
-
-</dl></dl></dl>
-
-_To acquire Port Augusta Railway_
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>At the time of such surrender acquire from the State at the price and on
-
-the terms hereinafter mentioned the Port Augusta Railway including the lands
-
-now used for and reserved for such railway together with all stations and other
-
-buildings sidings wharfs and other accessories used in connexion with the
-
-working of the said railway except the railway carriages trucks and other
-
-movable plant and rolling-stock.
-
-</dd>
-
-</dl></dl></dl>
-
-_To pay for Port Augusta Railway_
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(e)</dt><dd>Pay the price of the said Port Augusta Railway by becoming responsible on
-
-the date of the sale and transfer thereof to the Commonwealth for the amount of
-
-the loans raised by the State for the purpose of constructing the said railway
-
-and used therefor and by annually reimbursing the State the interest payable
-
-thereon and by paying annually into a Commonwealth Sinking Fund the amounts
-
-which the State has undertaken to pay into such a fund in connexion with the
-
-said loans until the said loans are paid and redeemed by the Commonwealth as or
-
-before they become due.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 15  Authority to construct railway to Western Australia 
-**
-
- The Commonwealth may construct, or authorize the construction of, or cause to be constructed, a railway westerly from any point on the Port Augusta Railway through South Australia proper to any point on the western boundary line of South Australia proper, by a route to be determined by the Parliament of the Commonwealth, with all proper stations, approaches, works, and conveniences connected therewith and necessary therefor, and may maintain and work such railway when constructed. 
-
-**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 17  Powers etc. in relation to the working of railways 
-**
-
- <dl compact="">
-
-		For the purpose of maintaining and working any of the railways required or
-
-authorized by this Act to be constructed or acquired, and in relation to those
-
-railways, the Commonwealth, or any authority constituted or appointed by or
-
-under the Commonwealth, shall have all such powers, functions, rights,
-
-privileges, and immunities, as the South Australian Railways Commissioner or
-
-other similar authority has at the date of the Agreement in relation to the
-
-State Railways of the State, so far as those powers, functions, rights,
-
-privileges, and immunities, are applicable.
-
- </dl>
-
-**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910- SECT 19  Act not to be deemed to appropriate revenues or moneys 
-**
-
- <dl compact="">
-
-		Nothing in this Act shall be taken to be an appropriation of any revenues or
-
-moneys.
-
- </dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910The Schedule [_see_ Note 2] 
-**</center>
-
- AGREEMENT made the seventh day of December One thousand nine hundred and seven BETWEEN THE COMMONWEALTH OF AUSTRALIA (hereinafter referred to as the Commonwealth) of the one part and THE STATE OF SOUTH AUSTRALIA (hereinafter referred to as the State) of the other part WITNESSETH that subject as hereinafter mentioned to the approval of the Parliaments of the said Commonwealth and the said State and for the mutual considerations hereinafter appearing IT IS HEREBY AGREED that the State shall on the terms and conditions hereinafter appearing surrender to the Commonwealth the Northern Territory and shall sell and transfer to the Commonwealth the Port Augusta Railway and shall permit the Commonwealth to construct or cause to be constructed in South Australia proper the railways hereinafter mentioned to the northern and western boundaries of South Australia proper from any points on the Port Augusta Railway and shall permit the Commonwealth to maintain and work the said railways when so acquired and constructed.
- THE TERMS AND CONDITIONS of this Agreement are as follows:
-
-<dl compact="">
-
-<dt>(1)</dt><dd>The Commonwealth in consideration of the surrender of the Northern
-
-Territory and property of the State therein and the grant of the rights
-
-hereinafter mentioned to acquire and to construct railways in South Australia
-
-proper shall&#151;
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Be responsible for the indebtedness of the State in respect of the
-
-Northern Territory as from the date of acceptance of such surrender and shall
-
-relieve the State from the said indebtedness in the following manner:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-	I	By annually reimbursing the State the amount of the annual interest paid by
-
-it in connexion with the loans in respect of the Northern Territory; by paying
-
-annually into a Commonwealth Sinking Fund the amounts the State has undertaken
-
-to pay into such a fund in connexion with the said loans; and by paying and
-
-redeeming at or before maturity the said loans.
-
-	II	By paying the amount of the deficit (or Advance account) in respect of the
-
-Northern Territory to the said State in such manner as may be agreed upon. If
-
-the amount cannot be agreed upon it shall be determined by arbitration.
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>Construct or cause to be constructed a railway line from Port Darwin
-
-southwards to a point on the northern boundary of South Australia proper (which
-
-railway with the railway from a point on the Port Augusta Railway to connect
-
-therewith is hereinafter referred to as The Transcontinental Railway).</dd>
-
-<dt>(c)</dt><dd>At the time of such surrender acquire from the State at the price and on
-
-the terms hereinafter mentioned the Port Augusta Railway including the lands
-
-now used for and reserved for such railway together with all stations and other
-
-buildings sidings wharfs and other accessories used in connexion with the
-
-working of the said railway except the railway carriages trucks and other
-
-moveable plant and rolling-stock.</dd>
-
-<dt>(d)</dt><dd>Construct or cause to be constructed as part of the Transcontinental
-
-Railway a railway from a point on the Port Augusta Railway to connect with the
-
-other part of the Transcontinental Railway at a point on the northern boundary
-
-of South Australia proper.</dd>
-
-<dt>(e)</dt><dd>Pay the price of the said Port Augusta Railway by becoming responsible on
-
-the date of the sale and transfer thereof to the Commonwealth for the amount of
-
-the loans raised by the State for the purpose of constructing the said railway
-
-and used therefor and by annually reimbursing the State the interest payable
-
-thereon and by paying annually into a Commonwealth Sinking Fund the amounts the
-
-State has undertaken to pay into such a fund in connexion with the said loans
-
-until the said loans are paid and redeemed by the Commonwealth as or before
-
-they become due.</dd>
-
-<dt>(f)</dt><dd>Give and continue to give to the State and its citizens equal facilities
-
-at least in transport of goods and passengers on the Port Augusta Railway to
-
-those provided by the State Government at the present time and at rates not
-
-exceeding those at present in force.</dd>
-
-<dt>(g)</dt><dd>Allow the State to connect any new railway hereafter constructed by the
-
-State in South Australia proper with any railways acquired or constructed by
-
-the Commonwealth in South Australia proper.</dd>
-
-<dt>(h)</dt><dd>Allow the State reasonable running powers and rights on such conditions as
-
-may be agreed upon or in default of agreement as may be determined by
-
-arbitration on all railways acquired or constructed by the Commonwealth in
-
-South Australia proper and (without limitation of the scope of such powers and
-
-rights) the use on such conditions as aforesaid of the stations yards buildings
-
-and other accessories at Quorn and Port Augusta and at the wharf at Port
-
-Augusta used in connexion with the working of the said railway but not so as to
-
-interfere with the proper control working and maintenance of the railways of
-
-the Commonwealth.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>The State in consideration of the covenants and agreements by the
-
-Commonwealth herein contained shall&#151;
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>Surrender to the Commonwealth the Northern Territory and without
-
-limitation of the effect of such general words such surrender shall include the
-
-railway from Port Darwin southwards known as "The Palmerston and Pine Creek
-
-Railway" and all the State's right title interest in and control of all State
-
-real and personal property and privileges in the Northern Territory (except
-
-moneys held by or on behalf of or to the credit of or due or accruing due to
-
-the State at the date of the acceptance of such surrender) whether held by or
-
-vested in the Crown or by or in any Commissioner authority or person or
-
-otherwise for State purposes.</dd>
-
-<dt>(b)</dt><dd>At the time of such surrender sell and transfer to the Commonwealth and
-
-consent to the acquisition by the Commonwealth of the Port Augusta Railway
-
-including the lands now used for and reserved for such railway together with
-
-all stations and other buildings sidings wharves and other accessories used in
-
-connexion with the working of the said railway except the railway carriages
-
-trucks and other movable plant and rolling-stock and shall authorize by
-
-legislation the Commonwealth to maintain and work such railway when so
-
-acquired. The price of such railway shall be the cost of construction of the
-
-railway and stations and wharves and other buildings and accessories used
-
-therewith (including the cost of resumptions) without interest added but shall
-
-not include any expenditure on maintenance works. If the cost of construction
-
-cannot be agreed upon such cost shall be determined by arbitration.</dd>
-
-<dt>(c)</dt><dd>At the time of such surrender authorize by legislation the Commonwealth to
-
-do all that is necessary to enable the Commonwealth to make surveys acquire the
-
-necessary lands and to construct or cause to be constructed a railway in South
-
-Australia proper from any point on the Port Augusta Railway to a point on the
-
-northern boundary line of South Australia proper to connect with that part of
-
-the Transcontinental Railway to be built in the Northern Territory from Port
-
-Darwin southwards to the northern boundary of South Australia proper and to
-
-maintain and work such railway when constructed; and to get all timber ballast
-
-and other material necessary for such construction in South Australia proper by
-
-paying compensation in accordance with the provisions of the State Acts at
-
-present in force payable by the State when constructing State railways.</dd>
-
-<dt>(d)</dt><dd>At the time of such surrender authorize by legislation the Commonwealth,
-
-in the same way and to the same extent as in the last preceding sub-clause
-
-mentioned to do all that is necessary to enable the Commonwealth to construct
-
-or cause to be constructed a railway westerly from any point on the Port
-
-Augusta Railway through South Australia proper to any point on the western
-
-boundary line of South Australia proper by a route to be determined by the
-
-Parliament of the Commonwealth and to maintain and work such railway when
-
-constructed.</dd>
-
-<dt>(e)</dt><dd>At the time of such surrender authorize by legislation the Commonwealth
-
-for the purpose of constructing the said railways to exercise at least all the
-
-powers and privileges held by the State in the Railway Construction Acts at
-
-present in force in the State of South Australia as if the railways referred to
-
-were being constructed by the State.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(3)</dt><dd>In consideration of the Commonwealth becoming responsible for the
-
-indebtedness of the State in respect of the Northern Territory in manner before
-
-mentioned the State hereby releases the Commonwealth from the liability imposed
-
-by the Commonwealth of Australia Constitution Act on the Commonwealth to
-
-compensate the State for any State properties within such Northern Territory
-
-vested in the Commonwealth in connexion with any departments of the State
-
-transferred to the Commonwealth under the provisions of the said
-
-Constitution.</dd> <dt>(4)</dt><dd>This Agreement shall not in any way be binding until and unless approved by the respective Parliaments of the Commonwealth and the State and legislation is passed enabling the Commonwealth and the State to legally carry out the aforesaid surrender and acceptance of the Northern Territory and the Parliament of the State has consented to the acquisition by the Commonwealth of the Port Augusta Railway and to the construction by the Commonwealth of the other railways in South Australia proper mentioned in this Agreement on the terms hereinbefore mentioned.</dd> <dt>(5)</dt><dd>When any dispute or matter authorized or directed by this Agreement to be settled by arbitration shall have arisen then unless the parties hereto concur in the appointment of a single arbitrator such matter shall be referred for decision to two arbitrators one to be appointed by the Prime Minister for the time being of the Commonwealth and one by the Premier for the time being of the State and such arbitration shall be subject as nearly as practicable to the laws relating to arbitration in force in the State. </dd> </dl>
-
-<center>DEFINITIONS</center>
-
-<center>Back to Top</center>
-
-In this Agreement unless the contrary intention appears&#151;
- "The Northern Territory" means so much of the State of South Australia as lies to the northward of the twenty-sixth parallel of south latitude and between the one hundred and twenty ninth and one hundred and thirty-eighth degrees of east longitude together with the bays and gulfs therein and all and every the islands adjacent to any part of the mainland within such limits as aforesaid with their rights members and appurtenances.
- "The Palmerston and Pine Creek Railway" means the railway authorized to be made and maintained pursuant to the "_Palmerston and Pine Creek Railway Act 1883_."
- "The Port Augusta Railway" means the railway from Port Augusta to Oodnadatta authorized to be made and maintained pursuant to Acts No.&#160;26 of 1876: No.&#160;226 of 1881: No.&#160;281 of 1883: and No.&#160;413 of 1887.
- "South Australia Proper" means South Australia not including the Northern Territory.
-
-IN WITNESS whereof the Honourable Alfred Deakin (Prime Minister of the Commonwealth of Australia) for and on behalf of the said Commonwealth and the Honourable Thomas Price (Premier of the State of South Australia) for and on behalf of the said State have hereunto set their hands and seals the day and year first above written.
- SIGNED SEALED AND DELIVERED 
-by the above-named ALFRED DEAKIN 
-in the presence of&#151;					(L.S.) ALFRED DEAKIN.
- 	LITTLETON E. GROOM.
- SIGNED SEALED AND DELIVERED by the
- above-named THOMAS PRICE 
-in the presence of&#151;					(L.S.) THOMAS PRICE.
- 	LAURENCE O'LOUGHLIN. 
-
-<center>**
-
-###  NORTHERN TERRITORY ACCEPTANCE ACT 1910<centreit>Notes to the _Northern Territory Acceptance Act 1910_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Northern Territory Acceptance Act 1910_ as shown in this compilation comprises Act No.&#160;20, 1910 amended as indicated in the Tables below.
- All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this compilation. For subsequent information _see_ Table A.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and Year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Northern Territory Acceptance Act 1910</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>20, 1910</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>16 Nov 1910</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Jan 1911( <i>see Gazette</i>1910, p. 1901)</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Northern Territory Acceptance Act 1919</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>24, 1919</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>28 Oct 1919</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Jan 1920 ( <i>see Gazette</i>1919, p. 2486)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Northern Australia Act 1926</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>16, 1926</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>4&#160;June 1926</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Feb 1927 ( <i>see Gazette</i>1927, p. 137)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Northern Territory Acceptance Act 1952</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>13, 1952</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>30&#160;May 1952</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>27&#160;June 1952</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law Revision Act 1973</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>216, 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>19 Dec 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>31 Dec 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Ss. 9(1) and 10</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Tarcoola to Alice Springs Railway Act 1974</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>86, 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>18 Oct 1974</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>24 Jan 1975 ( <i>see Gazette</i>1975, No. S10, p. 1)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Australian National Railways Commission Sale Act 1997</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>96, 1997</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>30&#160;June 1997</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;4 (items&#160;8, 9): 1 Nov 2000 ( <i>see Gazette</i>2000, No. S562) <i>(a)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Sch. 4 (item&#160;9) \[ <i>see</i>Table A]</div>
-
-  </td>
-</tr></table>_(a) Back to Top_ The _Northern Territory Acceptance Act 1910_ was amended by Schedule&#160;4 (item&#160;8) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(5) of which provides as follows:
-
-	(5)	The remaining items of Schedule&#160;3 and Schedule&#160;4 commence on a day to be fixed by Proclamation. The day must not be earlier than the later of the day proclaimed for the purposes of subsection&#160;(2) and the day proclaimed for the purposes of subsection&#160;(3). 
-
-**Table of Amendments**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 8, 9</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;16, 1926</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 10</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;13, 1952</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 11-13</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;16, 1926</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 14</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;24, 1919; No.&#160;86, 1974; NO. 96, 1997</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 16</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 18</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;216, 1973</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr></table> <center>**
-
-###  <b>Note 2</b>
-**</center>
-
-The Schedule&#151;The Agreement set forth in the Schedule has been varied by a further Agreement which is set forth in the Schedule to the _Northern Territory Acceptance Act 1919_. A reprint of the _Northern Territory Acceptance Act 1919_ is published separately.
-
-**Table A**
-
-**Application, saving or transitional provisions**
-
-_Australian National Railways Commission Sale Act 1997_(No.&#160;96, 1997)
-
-**Schedule&#160;4**
- **9  Transitional&#151;agreement**
-
-After the commencement of this item, the _Northern Territory Acceptance Act 1910_ applies as if paragraphs (1)(g) and (h) of the Agreement set out in the Schedule to that Act were omitted.
-
- 
-
-
+THE TERMS AND CONDITIONS of this Agreement are as follows:-<lf>   (1) The Commonwealth in consideration of the surrender of the Northern<lf> Territory and property of the State therein and the grant of the rights<lf> hereinafter mentioned to acquire and to construct railways in South Australia<lf> proper shall-<lf>   (a)  Be responsible for the indebtedness of the State in respect of the<lf> Northern Territory as from the date of acceptance of such surrender and shall<lf> relieve the State from the said indebtedness in the following manner:<lf>      I By annually reimbursing the State the amount of the annual interest paid<lf> by it in connexion with the loans in respect of the Northern Territory; by<lf> paying annually into a Commonwealth Sinking Fund the amounts the State has<lf> undertaken to pay into such a fund in connexion with the said loans; and by<lf> paying and redeeming at or before maturity the said loans.<lf> <p>    II By paying the amount of the deficit (or Advance account) in respect of<lf> the Northern Territory to the said State in such manner as may be agreed upon.<lf> If the amount cannot be agreed upon it shall be determined by arbitration.<lf> <p>  (b)  Construct or cause to be constructed a railway line from Port Darwin<lf> southwards to a point on the northern boundary of South Australia proper (which<lf> railway with the railway from a point on the Port Augusta Railway to connect<lf> therewith is hereinafter referred to as The Transcontinental Railway).<lf> <p>  (c)  At the time of such surrender acquire from the State at the price and on<lf> the terms hereinafter mentioned the Port Augusta Railway including the lands now used for and reserved for such railway together with all stations and other<lf> buildings sidings wharfs and other accessories used in connexion with the<lf> working of the said railway except the railway carriages trucks and other<lf> moveable plant and rolling-stock.<lf> <p>  (d)  Construct or cause to be constructed as part of the Transcontinental<lf> Railway a railway from a point on the Port Augusta Railway to connect with the<lf> other part of the Transcontinental Railway at a point on the northern boundary<lf> of South Australia proper.<lf> <p>  (e)  Pay the price of the said Port Augusta Railway by becoming responsible on the date of the sale and transfer thereof to the Commonwealth for the amount of<lf> the loans raised by the State for the purpose of constructing the said railway<lf> and used therefor and by annually reimbursing the State the interest payable<lf> thereon and by paying annually into a Commonwealth Sinking Fund the amounts the<lf> State has undertaken to pay into such a fund in connexion with the said loans<lf> until the said loans are paid and redeemed by the Commonwealth as or before they become due.<lf> <p>  (f)  Give and continue to give to the State and its citizens equal facilities<lf> at least in transport of goods and passengers on the Port Augusta Railway to<lf> those provided by the State Government at the present time and at rates not<lf> exceeding those at present in force.<lf> <p>  (g)  Allow the State to connect any new railway hereafter constructed by the<lf> State in South Australia proper with any railways acquired or constructed by the Commonwealth in South Australia proper.<lf> <p>  (h)  Allow the State reasonable running powers and rights on such conditions<lf> as may be agreed upon or in default of agreement as may be determined by<lf> arbitration on all railways acquired or constructed by the Commonwealth in South Australia proper and (without limitation of the scope of such powers and rights) the use on such conditions as aforesaid of the stations yards buildings and<lf> other accessories at Quorn and Port Augusta and at the wharf at Port Augusta<lf> used in connexion with the working of the said railway but not so as to<lf> interfere with the proper control working and maintenance of the railways of the Commonwealth.<lf> <p>  (2) The State in consideration of the covenants and agreements by the<lf> Commonwealth herein contained shall-<lf>   (a)  Surrender to the Commonwealth the Northern Territory and without<lf> limitation of the effect of such general words such surrender shall include the<lf> railway from Port Darwin southwards known as "The Palmerston and Pine Creek<lf> Railway" and all the State's right title interest in and control of all State<lf> real and personal property and privileges in the Northern Territory (except<lf> moneys held by or on behalf of or to the credit of or due or accruing due to the State at the date of the acceptance of such surrender) whether held by or vested in the Crown or by or in any Commissioner authority or person or otherwise for<lf> State purposes.<lf> <p>  (b)  At the time of such surrender sell and transfer to the Commonwealth and<lf> consent to the acquisition by the Commonwealth of the Port Augusta Railway<lf> including the lands now used for and reserved for such railway together with all stations and other buildings sidings wharves and other accessories used in<lf> connexion with the working of the said railway except the railway carriages<lf> trucks and other movable plant and rolling-stock and shall authorize by<lf> legislation the Commonwealth to maintain and work such railway when so acquired. The price of such railway shall be the cost of construction of the railway and<lf> stations and wharves and other buildings and accessories used therewith<lf> (including the cost of resumptions) without interest added but shall not include any expenditure on maintenance works. If the cost of construction cannot be<lf> agreed upon such cost shall be determined by arbitration.<lf> <p>  (c)  At the time of such surrender authorize by legislation the Commonwealth<lf> to do all that is necessary to enable the Commonwealth to make surveys acquire<lf> the necessary lands and to construct or cause to be constructed a railway in<lf> South Australia proper from any point on the Port Augusta Railway to a point on<lf> the northern boundary line of South Australia proper to connect with that part<lf> of the Transcontinental Railway to be built in the Northern Territory from Port<lf> Darwin southwards to the northern boundary of South Australia proper and to<lf> maintain and work such railway when constructed; and to get all timber ballast<lf> and other material necessary for such construction in South Australia proper by<lf> paying compensation in accordance with the provisions of the State Acts at<lf> present in force payable by the State when constructing State railways.<lf> <p>  (d)  At the time of such surrender authorize by legislation the Commonwealth,<lf> in the same way and to the same extent as in the last preceding sub-clause<lf> mentioned to do all that is necessary to enable the Commonwealth to construct or cause to be constructed a railway westerly from any point on the Port Augusta<lf> Railway through South Australia proper to any point on the western boundary line of South Australia proper by a route to be determined by the Parliament of the<lf> Commonwealth and to maintain and work such railway when constructed.<lf> <p>  (e)  At the time of such surrender authorize by legislation the Commonwealth<lf> for the purpose of constructing the said railways to exercise at least all the<lf> powers and privileges held by the State in the Railway Construction Acts at<lf> present in force in the State of South Australia as if the railways referred to<lf> were being constructed by the State.<lf> <p>  (3) In consideration of the Commonwealth becoming responsible for the<lf> indebtedness of the State in respect of the Northern Territory in manner before<lf> mentioned the State hereby releases the Commonwealth from the liability imposed<lf> by the Commonwealth of Australia Constitution Act on the Commonwealth to<lf> compensate the State for any State properties within such Northern Territory<lf> vested in the Commonwealth in connexion with any departments of the State<lf> transferred to the Commonwealth under the provisions of the said Constitution.<lf> <p>  (4) This Agreement shall not in any way be binding until and unless approved<lf> by the respective Parliaments of the Commonwealth and the State and legislation<lf> is passed enabling the Commonwealth and the State to legally carry out the<lf> aforesaid surrender and acceptance of the Northern Territory and the Parliament<lf> of the State has consented to the acquisition by the Commonwealth of the Port<lf> Augusta Railway and to the construction by the Commonwealth of the other<lf> railways in South Australia proper mentioned in this Agreement on the terms<lf> hereinbefore mentioned.<lf> <p>  (5) When any dispute or matter authorized or directed by this Agreement to be<lf> settled by arbitration shall have arisen then unless the parties hereto concur<lf> in the appointment of a single arbitrator such matter shall be referred for<lf> decision to two arbitrators one to be appointed by the Prime Minister for the<lf> time being of the Commonwealth and one by the Premier for the time being of the<lf> State and such arbitration shall be subject as nearly as practicable to the laws relating to arbitration in force in the State.<lf> <p>                                  DEFINITIONS<lf>   In this Agreement unless the contrary intention appears-<lf>   "The Northern Territory" means so much of the State of South Australia as<lf> lies to the northward of the twenty-sixth parallel of south latitude and between the one hundred and twenty ninth and one hundred and thirty-eighth degrees of<lf> east longitude together with the bays and gulfs therein and all and every the<lf> islands adjacent to any part of the mainland within such limits as aforesaid<lf> with their rights members and appurtenances.<lf> <p>  "The Palmerston and Pine Creek Railway" means the railway authorized to be<lf> made and maintained pursuant to the "Palmerston and Pine Creek Railway Act<lf>  1883."<lf>   "The Port Augusta Railway" means the railway from Port Augusta to Oodnadatta<lf> authorized to be made and maintained pursuant to Acts No. 26 of 1876: No. 226 of 1881: No. 281 of 1883: and No. 413 of 1887.<lf> <p>  "South Australia Proper" means South Australia not including the Northern<lf> Territory.<lf> <p>  IN WITNESS whereof the Honourable Alfred Deakin (Prime Minister of the<lf> Commonwealth of Australia) for and on behalf of the said Commonwealth and the<lf> Honourable Thomas Price (Premier of the State of South Australia) for and on<lf> behalf of the said State have hereunto set their hands and seals the day and<lf> year first above written.<lf> <p>SIGNED SEALED AND DELIVERED by the<lf> above-named ALFRED DEAKIN in the presence of-         (L.S.) ALFRED DEAKIN.<lf>              LITTLETON E. GROOM.<lf> <p>SIGNED SEALED AND DELIVERED by the<lf> above-named THOMAS PRICE in the presence of-          (L.S.) THOMAS PRICE.<lf>             LAURENCE O'LOUGHLIN.<lf> <p>*3* The Schedule-The Agreement set forth in the Schedule has been varied by a further Agreement which is set forth in the Schedule to the Northern Territory Acceptance Act 1919\. A reprint of the Northern Territory Acceptance Act 1919 is published separately.<lf> </lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
