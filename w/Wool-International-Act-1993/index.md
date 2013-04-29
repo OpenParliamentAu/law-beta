@@ -1,7 +1,7 @@
 
 Wool International Act 1993
 Act No. 64 of 1993 as amended
-This compilation was prepared on 27 September 2001 taking into account amendments up to Act No. 113 of 2001
+This compilation was prepared on 20 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -186,7 +186,7 @@ Part 4B—Distribution of surplus money of WoolStock Australia Limited among reg
 	(1)	The surplus money of WoolStock Australia Limited consists of any money of WoolStock Australia Limited that, in the opinion of WoolStock Australia Limited, is not required to be set aside for payment or application by WoolStock Australia Limited (other than for payment of distributions under this Part).
 	(2)	WoolStock Australia Limited must distribute its surplus money by way of:
 	(a)	one or more interim distributions; and
-	(b)	a final distribution, to be made as soon as practicable after the last stockpile wool is disposed of.
+	(b)	a final distribution, to be made as soon as practicable after the end of the financial year in which the last stockpile wool is disposed of.
 	(3)	The amount of each distribution is to be determined by WoolStock Australia Limited.
 	(4)	WoolStock Australia Limited must determine an operative day for each distribution. For the purposes of this Act, the amount of the distribution becomes available at the end of the operative day.
 Note:	The distribution is paid to the persons who are registered equity holders when the amount becomes available. See section 22F.
@@ -358,11 +358,6 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (items 563-566): 15 July 2001 (see Gazette 2001, No. S285) (f)
 Ss. 4‑14
-Wool International Amendment Act 2001
-113, 2001
-18 Sept 2001
-18 Sept 2001
-—
 
 (a)	Parts 10-12 (ss. 73-87) of the Wool International Act 1993 were repealed by Schedule 1 (item 26) of the Wool International Amendment Act 1997 before a date was fixed for the commencement.
 (b)	The Wool International Act 1993 was amended by Schedule 2 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1995, subsection 2(1) of which provides as follows: 
@@ -516,8 +511,6 @@ S. 22P
 ad. No. 108, 1997
 
 rs. No. 40, 1999
-
-am. No. 113, 2001
 S. 22Q	
 ad. No. 108, 1997
 
