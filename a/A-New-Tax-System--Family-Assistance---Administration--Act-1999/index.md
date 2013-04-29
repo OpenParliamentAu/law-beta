@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 30 November 2012
- taking into account amendments up to Act No. 154 of 2012
+This compilation was prepared on 14 August 2012
+ taking into account amendments up to Act No. 98 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -535,7 +536,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [61A](#61A).       Variation where failure to notify that the service has ceased to provide care to child
 
-        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6**
+        **Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of  Part 6**
 
 [62](#62).          Variation where failure to provide information relevant to conditional eligibility etc 
 
@@ -599,29 +600,29 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision AAA—Election to have child care rebate paid in various ways**
 
-65EAAAA Individual may elect to have child care rebate paid in 
- various ways
+65EAAAAIndividual may elect to have child care rebate paid in various 
+ ways
 
-65EAAAB Period in which election has effect
+65EAAABPeriod in which election has effect
 
-65EAAAC Where no election made for an income year
+65EAAACWhere no election made for an income year
 
         **Subdivision AAB—Weekly payments of child care rebate**
 
-65EAAA Weekly payments of child care rebate
+65EAAAWeekly payments of child care rebate
 
-65EAAB Where individual elects to have child care rebate paid weekly 
+65EAABWhere individual elects to have child care rebate paid weekly 
  to approved child care service
 
-65EAAC Where individual elects to have child care rebate paid weekly 
+65EAACWhere individual elects to have child care rebate paid weekly 
  into own bank account
 
-65EAAD Revising a calculation of weekly child care rebate
+65EAADRevising a calculation of weekly child care rebate
 
-65EAAE If weekly payment is to an approved child care service, notice 
+65EAAEIf weekly payment is to an approved child care service, notice 
  of revised calculation must be given to the service
 
-65EAAF Effect of revised calculation—payment to the individual
+65EAAFEffect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1393,18 +1394,18 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGA Conduct contravening more than one civil penalty provision
+219TSGAConduct contravening more than one civil penalty provision
 
-219TSGB Civil proceedings after criminal proceedings
+219TSGBCivil proceedings after criminal proceedings
 
-219TSGC Criminal proceedings during civil proceedings
+219TSGCCriminal proceedings during civil proceedings
 
-219TSGD Criminal proceedings after civil proceedings
+219TSGDCriminal proceedings after civil proceedings
 
-219TSGE Evidence given in proceedings for penalty not admissible in 
+219TSGEEvidence given in proceedings for penalty not admissible in 
  criminal proceedings
 
-219TSGF Minister requiring person to assist in applications for civil 
+219TSGFMinister requiring person to assist in applications for civil 
  penalty orders
 
     **Division 2—Infringement notices**
@@ -2413,7 +2414,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -2467,7 +2468,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -4920,7 +4921,7 @@ Upfront part
 
                      (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -5124,7 +5125,7 @@ Requirements for claim by individual to be effective
 
                             (iii)  be accompanied by any documents;
 
-                            required by the Secretary; and
+                            required by the Secretary; and
 
                      (b)  the bank account requirement set out in section 49G must be satisfied in relation to the claim; and
 
@@ -6420,7 +6421,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -6474,7 +6475,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image002.gif)
 
 where:
 
@@ -7727,7 +7728,8 @@ Consequence of Secretary later finding out that child is receiving care from the
 
 the Secretary must vary the determination to undo the effect mentioned in subsection (1).
 
-#### Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of Part 6
+#### Subdivision R—Variations of determinations because of failure to meet requirements arising under Division 1 of 
+ Part 6
 
 ##### <a id="62"></a>62  Variation where failure to provide information relevant to conditional eligibility etc.
 
@@ -9009,7 +9011,7 @@ Form etc. of claim
 
                      (c)  in the case of a claim for payment of single income family supplement in substitution because of the death of another individual—the tax file number requirement in section 65KC must be satisfied in relation to the claim.
 
-##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
+##### <a id="65KB"></a>65KB  Tax file number requirement to be satisfied for claims for a past period
 
              (1)  This section sets out the tax file number requirement that must be satisfied in relation to a claim for the purposes of paragraph 65KA(2)(b) (which states what is required for certain claims to be effective).
 
@@ -10449,7 +10451,7 @@ the amount of the cheque is a debt due by the person to the Commonwealth.
 
 the recipient and the other person are jointly and severally liable to pay the debt.
 
-##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
+##### <a id="76"></a>76  Data‑matching Program (Assistance and Tax) Act debts
 
                    If:
 
@@ -10595,7 +10597,7 @@ the determination ceases to have effect from and including the day on which the 
 
              (7)  The Secretary may cancel or vary the determination by written notice given to the person.
 
-##### <a id="78B"></a>78B  Administrative charge
+##### <a id="78B"></a>78B  Administrative charge
 
              (1)  When a person first becomes liable to pay interest under section 78 in respect of the outstanding amount of a particular debt, the person is liable to pay an administrative charge of $50 in respect of the outstanding amount of that debt.
 
@@ -11283,7 +11285,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00895/Html/f7e00989-c110-48bf-bc2f-a2d9522ea8d2_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00661/Html/cdc94a6a-228c-41d8-af2b-01aecc22684e_files/image004.gif)
 
 where:
 
@@ -13763,566 +13765,4 @@ if the record, disclosure or use made of the information by the person is made:
 
              (3)  The Minister may, by legislative instrument, specify additional purposes relating to other programs administered by the Department for which protected information may be obtained under subsection (1), or recorded, disclosed or otherwise used under subsection (2).
 
-             (5)  An instrument under subsection (3) does not take effect until the end of the period in which it could be disallowed in either House of the Parliament.
-
-##### <a id="163"></a>163  Offence: unauthorised access to protected information
-
-             (1)  If:
-
-                     (a)  a person intentionally obtains information; and
-
-                     (b)  the person is not authorised under the family assistance law to obtain the information; and
-
-                     (c)  the person knows or ought reasonably to know that the information is protected information;
-
-the person is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
-
-             (2)  Strict liability applies to the element of an offence against subsection (1) that a person not authorised to do something is not authorised under the family assistance law to do that thing.
-
-##### <a id="164"></a>164  Offence: unauthorised use of protected information
-
-             (1)  If:
-
-                     (a)  a person intentionally:
-
-                              (i)  makes a record of; or
-
-                             (ii)  discloses to any other person; or
-
-                            (iii)  otherwise makes use of;
-
-                            information; and
-
-                     (b)  the person is not authorised or required under:
-
-                              (i)  the family assistance law; or
-
-                             (ii)  the _Social Security Act 1991_; or
-
-                            (iii)  the _Social Security (Administration) Act 1999_;
-
-                            to make the record, disclosure or use of the information that is made by the person; and
-
-                     (c)  the person knows or ought reasonably to know that the information is protected information;
-
-the person is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
-
-             (2)  Strict liability applies to the element of an offence against subsection (1) that a person not authorised or required to do something is not authorised or required to do that thing under:
-
-                     (a)  the family assistance law; or
-
-                     (b)  the _Social Security Act 1991_; or
-
-                     (c)  the _Social Security (Administration) Act 1999_.
-
-##### <a id="165"></a>165  Offence: soliciting disclosure of protected information
-
-             (1)  If:
-
-                     (a)  a person (the **_first person_**) solicits the disclosure of protected information from an officer or another person; and
-
-                     (b)  the disclosure would be in contravention of this Division; and
-
-                     (c)  the first person knows or ought reasonably to know that the information is protected information;
-
-the first person is guilty of an offence (whether or not any protected information is actually disclosed) punishable on conviction by imprisonment for a term not exceeding 2 years.
-
-             (2)  Strict liability applies to paragraph (1)(b).
-
-##### <a id="166"></a>166  Offence: offering to supply protected information
-
-             (1)  A person must not offer to supply (whether to a particular person or otherwise) information about another person, knowing the information to be protected information.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (2)  A person must not hold himself or herself out as being able to supply (whether to a particular person or otherwise) information about another person, knowing the information to be protected information.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (3)  Nothing in subsection (1) or (2) makes an officer acting in the performance or exercise of his or her powers, duties or functions under the family assistance law guilty of an offence.
-
-##### <a id="167"></a>167  Protection of certain documents etc. from production to court etc.
-
-                   An officer must not, except for the purposes of the family assistance law, be required:
-
-                     (a)  to produce any document in his or her possession; or
-
-                     (b)  to disclose any matter or thing of which he or she had notice;
-
-because of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law, to:
-
-                     (c)  a court; or
-
-                     (d)  a tribunal; or
-
-                     (e)  an authority; or
-
-                      (f)  a person;
-
-having power to require the production of documents or the answering of questions.
-
-##### <a id="168"></a>168  Disclosure of information by Secretary
-
-             (1)  Despite sections 164 and 167, the Secretary may:
-
-                     (a)  if the Secretary certifies that it is necessary in the public interest to do so in a particular case or class of cases—disclose information acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law to such persons and for such purposes as the Secretary determines; or
-
-                     (b)  disclose any such information:
-
-                              (i)  to the Secretary of a Department of State of the Commonwealth or to the head of an authority of the Commonwealth for the purposes of that Department or authority; or
-
-                             (ii)  to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it; or
-
-                            (iii)  to the Chief Executive Centrelink for the purposes of a centrelink program; or
-
-                            (iv)  to the Chief Executive Medicare for the purposes of a medicare program.
-
-             (2)  In giving certificates for the purposes of paragraph (1)(a), the Secretary must act in accordance with guidelines (if any) from time to time in force under section 169.
-
-             (3)  In disclosing information under paragraph (1)(b), the Secretary must act in accordance with guidelines (if any) from time to time in force under section 169.
-
-             (4)  In spite of any other provision of this Part, the Secretary may disclose information of a kind referred to in paragraph (a) or (b) of the definition of **_protected information_** in subsection 3(1) to a person who is the payment nominee or correspondence nominee, within the meaning of Part 8B, of the person to whom the information relates (the **_principal_**) as if the nominee were the principal.
-
-##### <a id="169"></a>169  Guidelines for exercise of Secretary’s disclosure powers
-
-                   The Minister may, by legislative instrument, make guidelines for the exercise of either or both of the following:
-
-                     (a)  the Secretary’s power to give certificates for the purposes of paragraph 168(1)(a);
-
-                     (b)  the Secretary’s power under paragraph 168(1)(b).
-
-##### <a id="169A"></a>169A  Disclosure of information—child care tax offset
-
-             (1)  The Secretary may, for the purposes of the administration of the child care tax offset provided by Subdivision 61‑IA of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law.
-
-             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for the purposes of the administration of the child care tax offset provided by Subdivision 61‑IA of the _Income Tax Assessment Act 1997._
-
-             (3)  This section does not limit the powers of the Secretary under section 168.
-
-##### <a id="169B"></a>169B  Disclosure of information—education expenses tax offset
-
-             (1)  The Secretary may, for the purposes of the administration of the education expenses tax offset provided by Subdivision 61‑M of the _Income Tax Assessment Act 1997_, give the Commissioner of Taxation relevant information about people, including their tax file numbers, acquired by an officer in the exercise of the officer’s powers, or the performance of the officer’s duties or functions, under the family assistance law.
-
-             (2)  Information (including tax file numbers) given to the Commissioner of Taxation under subsection (1) may be used only for purposes relating to the education expenses tax offset provided by Subdivision 61‑M of the _Income Tax Assessment Act 1997_.
-
-             (3)  This section does not limit the powers of the Secretary under section 168.
-
-##### <a id="170"></a>170  Officer’s declaration
-
-                   An officer must make a declaration in a form approved by the Minister or the Secretary if required to do so by the Minister or the Secretary for the purposes of the family assistance law.
-
-### Division 3—False statements etc.
-
-#### Subdivision A—Preliminary
-
-##### <a id="171"></a>171  Application of Division
-
-                   This Division extends to:
-
-                     (a)  acts, omissions, matters and things outside Australia, whether or not in a foreign country; and
-
-                     (b)  all persons, irrespective of their nationality, who are making, or have made, a claim for family assistance; and
-
-                     (c)  all persons, irrespective of their nationality, who have become entitled to, or been paid, family assistance; and
-
-                     (d)  all persons, irrespective of their nationality, in respect of whom determinations of conditional eligibility for child care benefit by fee reduction are in force; and
-
-                     (e)  all persons, irrespective of their nationality, who are eligible for child care benefit by fee reduction under section 47 of the Family Assistance Act.
-
-#### Subdivision B—Offences
-
-##### <a id="172"></a>172  False statement in connection with claim
-
-                   A person contravenes this section if:
-
-                     (a)  the person makes a statement; and
-
-                     (b)  the statement is false or misleading; and
-
-                     (c)  the person is reckless as to whether the statement is false or misleading; and
-
-                     (d)  the statement is made in connection with, or in support of, the person’s or any other person’s claim for family assistance.
-
-##### <a id="173"></a>173  False statement to deceive
-
-             (1)  A person contravenes this section if:
-
-                     (a)  the person makes a statement; and
-
-                     (b)  the statement is false or misleading; and
-
-                     (c)  the person is reckless as to whether the statement is false or misleading; and
-
-                     (d)  the person is reckless as to whether the statement:
-
-                              (i)  deceives, or might deceive, an officer or an approved child care service exercising powers, or performing duties or functions, under the family assistance law; or
-
-                             (ii)  affects, or might affect, an entitlement to a payment of family assistance under the family assistance law; or
-
-                            (iii)  affects, or might affect, the rate of a payment of family assistance under the family assistance law; or
-
-                            (iv)  affects, or might affect, conditional eligibility for child care benefit by fee reduction, a weekly limit of hours, a CCB % or a schooling % applicable to a person, or the rate at which or amount in which fee reduction is applicable; or
-
-                             (v)  affects, or might affect, a person’s eligibility for the special grandparent rate for a child; or
-
-                          (via)  affects, or might affect, eligibility for child care rebate under subsection 57EAA(1) of the Family Assistance Act, or the amount of child care rebate applicable under Subdivision AAB of Division 4AA of Part 3; or
-
-                            (vi)  affects, or might affect, eligibility for child care rebate under subsection 57EA(1) of the Family Assistance Act, or the amount of child care rebate applicable under Subdivision AA of Division 4AA of Part 3.
-
-             (2)  For the purposes of an offence against section 177 that relates to a contravention of subsection (1) of this section, strict liability applies to the following elements of the offence:
-
-                     (a)  the element that a power, duty or function is a power, duty or function under the family assistance law;
-
-                     (b)  the element that a payment is a payment under the family assistance law.
-
-##### <a id="174"></a>174  False statement or document
-
-             (1)  A person contravenes this subsection if:
-
-                     (a)  the person makes a statement or presents a document to an officer or an approved child care service exercising powers, or performing duties or functions, under the family assistance law; and
-
-                     (b)  the statement or document is false in any particular; and
-
-                     (c)  the person is reckless as to whether the statement or document is false in any particular.
-
-             (2)  For the purposes of an offence against section 177 that relates to a contravention of subsection (1) of this section, strict liability applies to the element of the offence that a power, duty or function is a power, duty or function under the family assistance law.
-
-##### <a id="175"></a>175  Obtaining payment where no entitlement
-
-                   A person contravenes this section if:
-
-                     (a)  the person obtains a payment of family assistance (other than child care rebate for a week under Subdivision AAB or for a quarter under Subdivision AA of Division 4AA of Part 3); and
-
-                     (b)  the person does so knowing that he or she is:
-
-                              (i)  not entitled to the payment; or
-
-                             (ii)  only entitled to part of the payment.
-
-##### <a id="175AA"></a>175AA  Obtaining child care rebate for a quarter if ineligible
-
-                   A person contravenes this section if:
-
-                     (a)  the person obtains a payment of child care rebate for a week under Subdivision AAB or for a quarter under Subdivision AA of Division 4AA of Part 3; and
-
-                     (b)  the person does so knowing that he or she is:
-
-                              (i)  ineligible for the payment; or
-
-                             (ii)  only eligible for part of the payment.
-
-##### <a id="175A"></a>175A  Obtaining fee reductions where no conditional eligibility or eligibility
-
-             (1)  An individual must not obtain fee reductions if the individual has not been determined to be conditionally eligible for child care benefit by fee reduction.
-
-             (2)  An individual must not obtain an incorrect amount of fee reductions.
-
-             (3)  If an approved child care service is not eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for care provided by the service to a child at risk, the service must not, in respect of the child, obtain a payment under section 219Q or subsection 219QA(2) in respect of fee reduction.
-
-          (3A)  For the purposes of an offence against section 177 that relates to a contravention of subsection (3) of this section, strict liability applies to the following elements of the offence:
-
-                     (a)  the element that a child care service’s lack of eligibility for a child care benefit is a lack of eligibility under section 47 of the Family Assistance Act;
-
-                     (b)  the element that a payment in respect of fee reduction is paid to the service under section 219Q or subsection 219QA(2).
-
-             (4)  If an approved child care service is eligible under section 47 of the Family Assistance Act for child care benefit by fee reduction for care provided by the service to a child at risk, the service must not obtain an incorrect amount of a payment under section 219Q or section 219QA in respect of fee reduction.
-
-          (4A)  For the purposes of an offence against section 177 that relates to a contravention of subsection (4) of this section, strict liability applies to the following elements of the offence:
-
-                     (a)  the element that a child care service’s eligibility for a child care benefit is an eligibility under section 47 of the Family Assistance Act;
-
-                     (b)  the element that an incorrect amount of a payment is an incorrect amount of a payment under section 219Q or subsection 219QA(2).
-
-##### <a id="176"></a>176  Payment or fee reductions obtained by fraud
-
-             (1)  A person contravenes this subsection if:
-
-                     (a)  the person obtains:
-
-                              (i)  a payment of family assistance; or
-
-                             (ii)  fee reductions; or
-
-                            (iii)  in the case of an approved child care service—an amount is paid under section 219Q or subsection 219QA(2) in respect of fee reduction, under section 219QC or subsection 219QD(2) in respect of child care rebate or under section 219RA as an enrolment advance; or
-
-                            (iv)  in the case of an approved child care service—a payment under section 219RD (business continuity payments); and
-
-                     (b)  the person does so:
-
-                              (i)  by means of impersonation; or
-
-                             (ii)  by fraudulent means.
-
-             (2)  For the purposes of an offence against section 177 that relates to a contravention of subsection (1) of this section, strict liability applies to:
-
-                     (a)  the element of the offence that a payment in respect of fee reduction is paid to the service under section 219Q or subsection 219QA(2); and
-
-                    (aa)  the element of the offence that a payment in respect of child care rebate is paid to the service under section 219QC or subsection 219QD(2); and
-
-                     (b)  the element of the offence that an enrolment advance is paid under section 219RA; and
-
-                     (c)  the element of the offence that a payment is made under section 219RD.
-
-             (3)  A person contravenes this subsection if:
-
-                     (a)  the person makes a statement; and
-
-                     (b)  the statement is false or misleading; and
-
-                     (c)  the person is reckless as to whether the statement is false or misleading; and
-
-                     (d)  as a result the person obtains:
-
-                              (i)  a payment of family assistance; or
-
-                             (ii)  fee reductions; or
-
-                            (iii)  in the case of an approved child care service—an amount is paid under section 219Q or subsection 219QA(2) in respect of fee reduction, under section 219QC or subsection 219QD(2) in respect of child care rebate or under section 219RA as an enrolment advance; or
-
-                            (iv)  in the case of an approved child care service—a payment under section 219RD (business continuity payments).
-
-             (4)  For the purposes of an offence against section 177 that relates to a contravention of subsection (3) of this section, strict liability applies to:
-
-                     (a)  the element of the offence that a payment in respect of fee reduction is paid to the service under section 219Q or subsection 219QA(2); and
-
-                    (aa)  the element of the offence that a payment in respect of child care rebate is paid to the service under section 219QC or subsection 219QD(2); and
-
-                     (b)  the element of the offence that an enrolment advance is paid under section 219RA; and
-
-                     (c)  the element of the offence that a payment is made under section 219RD.
-
-#### Subdivision C—Penalties
-
-##### <a id="177"></a>177  Penalty for contravention of Subdivision B
-
-                   A person who contravenes a provision of Subdivision B is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 12 months.
-
-##### <a id="178"></a>178  Repayment of family assistance
-
-             (1)  If a person is convicted of an offence against section 177, the court may:
-
-                     (a)  impose a penalty in respect of the offence; and
-
-                     (b)  order the person to pay the Commonwealth an amount equal to any amount paid by way of family assistance, fee reductions, payments in respect of fee reduction, payments in respect of weekly child care rebate, enrolment advances or payments under section 219RD because of the act, failure or omission that constituted the offence.
-
-             (2)  In spite of anything in this Act or any other law, a person is not to be imprisoned for failing to pay an amount payable to the Commonwealth under paragraph (1)(b).
-
-             (3)  For the purposes of this section, an amount of family assistance is taken to be paid to a person if that amount is applied against a liability of that person or another person for:
-
-                     (a)  a primary tax; or
-
-                     (b)  a debt under this Act or the _Social Security Act 1991_.
-
-##### <a id="179"></a>179  Penalty where person convicted of more than one offence
-
-             (1)  Subject to subsection (2), if a person is convicted of more than one offence against section 177, the court may, if it thinks fit, impose one penalty for all the offences.
-
-             (2)  A single penalty imposed under subsection (1) must not exceed the sum of the maximum penalties that could be imposed if a separate penalty were imposed for each offence.
-
-#### Subdivision D—Procedural matters
-
-##### <a id="180"></a>180  Joining of charges
-
-                   Charges against the same person for a number of offences against section 177 may be joined in one complaint, information or declaration if those charges:
-
-                     (a)  are founded on the same facts; or
-
-                     (b)  form a series of offences of the same or a similar character; or
-
-                     (c)  are part of a series of offences of the same or a similar character.
-
-##### <a id="181"></a>181  Particulars of each offence
-
-                   If 2 or more charges are included in the same complaint, information or declaration, particulars of each offence charged are to be set out in a separate paragraph.
-
-##### <a id="182"></a>182  Trial of joined charges
-
-                   If charges are joined, the charges are to be tried together unless:
-
-                     (a)  the court considers it just that any charge should be tried separately; and
-
-                     (b)  the court makes an order to that effect.
-
-##### <a id="183"></a>183  Evidentiary effect of Secretary’s certificate
-
-             (1)  For the purposes of paragraph 178(1)(b), a certificate signed by the Secretary is evidence of the matters specified in the certificate.
-
-             (2)  The certificate may specify:
-
-                     (a)  the person to whom an amount of family assistance has been paid because of an act, a failure or an omission for which the person or another person has been convicted of an offence against section 177; and
-
-                     (b)  the amount paid; and
-
-                     (c)  the act, failure or omission that caused the amount to be paid.
-
-##### <a id="184"></a>184  Enforcement of court certificate as judgment
-
-                   If:
-
-                     (a)  a court makes an order under paragraph 178(1)(b); and
-
-                     (b)  the clerk or other appropriate officer of the court gives a certificate specifying:
-
-                              (i)  the amount ordered to be paid to the Commonwealth; and
-
-                             (ii)  the person by whom the amount is to be paid; and
-
-                     (c)  the certificate is filed in a court (which may be the court that made the order) that has civil jurisdiction to the extent of the amount to be paid;
-
-the certificate is enforceable in all respects as a final judgment of the court in which the certificate is filed.
-
-## Part 7—Liability of certain employers and principals for offences
-
-### Division 1—Interpretation
-
-##### <a id="185"></a>185  State of mind of a person
-
-                   A reference in this Part to the state of mind of a person includes a reference to:
-
-                     (a)  the knowledge, intention, opinion, belief or purpose of the person; and
-
-                     (b)  the person’s reasons for the intention, opinion, belief or purpose.
-
-##### <a id="188"></a>188  Offence
-
-                   A reference in this Part to an offence against this Act includes a reference to:
-
-                     (a)  an offence against this Act that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_; or
-
-                     (b)  an offence created by:
-
-                              (i)  section 11.1, 11.4 or 11.5 of the _Criminal Code_; or
-
-                             (ii)  section 6 of the _Crimes Act 1914_;
-
-                            that relates to this Act.
-
-### Division 3—Proceedings against non‑corporations
-
-##### <a id="191"></a>191  State of mind of individual
-
-                   If, in proceedings for an offence against this Act in respect of conduct engaged in by a person other than a corporation, it is necessary to establish the state of mind of the person, it is sufficient to show that:
-
-                     (a)  the conduct was engaged in by an employee or agent of the person within the scope of his or her actual or apparent authority; and
-
-                     (b)  the employee or agent had that state of mind.
-
-##### <a id="192"></a>192  Conduct of employee or agent
-
-                   If:
-
-                     (a)  conduct is engaged in on behalf of a person other than a corporation by an employee or agent of the person; and
-
-                     (b)  the conduct is within the scope of the employee’s actual or apparent authority;
-
-the conduct is taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in by the person unless the person establishes that he or she took reasonable precautions, and exercised due diligence, to avoid the conduct.
-
-##### <a id="193"></a>193  Exclusion of imprisonment as penalty for certain offences
-
-                   Despite any other provision of this Act, if:
-
-                     (a)  a person is convicted of an offence; and
-
-                     (b)  the person would not have been convicted if sections 191 and 192 had not been in force;
-
-the person is not liable to be punished by imprisonment for that offence.
-
-## Part 8—Approval of child care services and registered carers
-
-### Division 1—Approval of child care services
-
-##### <a id="194"></a>194  Application for approval
-
-Who may apply
-
-             (1)  A person who operates, or proposes to operate, any of the following kinds of child care service:
-
-                     (a)  a centre based long day care service;
-
-                     (b)  a family day care service;
-
-                   (ba)  an in‑home care service;
-
-                     (c)  an occasional care service;
-
-                     (d)  an outside school hours care service;
-
-may apply to the Secretary to have the service approved for the purposes of the family assistance law.
-
-Exception—person is a registered carer
-
-             (2)  However, a person cannot make an application under subsection (1) if the person is a registered carer.
-
-Form of application
-
-             (3)  An application under subsection (1) must:
-
-                     (a)  be made in a form and manner required by the Secretary; and
-
-                     (b)  state which of the kinds of service mentioned in subsection (1) the service is; and
-
-                     (c)  contain any information required by the Secretary; and
-
-                     (d)  be accompanied by any documents required by the Secretary; and
-
-                     (e)  in the case where a determination under section 206 is in force—be accompanied by the fee (if any) prescribed by the regulations for the making of applications under subsection (1).
-
-##### <a id="195"></a>195  Approval of child care services
-
-Approval
-
-             (1)  The Secretary must approve a child care service for the purposes of the family assistance law if the Secretary is satisfied that:
-
-                     (a)  an application has been made in accordance with section 194 to have the service approved; and
-
-                     (b)  the service is of the kind stated in the application; and
-
-                   (ba)  if the operator of the service is a large long day care centre operator—the operator is financially viable and is likely to remain so; and
-
-                     (c)  the service satisfies any eligibility rules applicable to the service under paragraph 205(1)(a); and
-
-                     (d)  in the case where the service is covered by a determination in force under section 206—if the service were to be approved, child care places would be allocated to the service under section 207.
-
-          (1A)  For the purpose of paragraph (1)(ba), in determining whether the operator of the child care service is financially viable, and likely to remain so, the Secretary must have regard to any financial information provided under section 219GA in relation to the operator. The Secretary may take into account any other matters he or she considers relevant.
-
-             (3)  If the Secretary approves the service, the Secretary must give the applicant a certificate of approval, stating:
-
-                     (a)  the kind of approved child care service; and
-
-                     (b)  the day from which the approval operates.
-
-             (4)  For the purposes of paragraph (3)(b), the day from which the approval is expressed to operate:
-
-                     (a)  may be a day before the day the Secretary approves the service; but
-
-                     (b)  must not be a day that is earlier than 6 months before the day on which the application for the approval was made.
-
-Refusal
-
-             (5)  The Secretary must refuse to approve a child care service for the purposes of the family assistance law if the Secretary is not satisfied of one or more of the matters referred to in subsection (1).
-
-             (6)  If the Secretary refuses to approve a child care service for the purposes of the family assistance law, the Secretary must give the applicant notice of:
-
-                     (a)  the refusal; and
-
-                     (b)  the reasons for the refusal; and
-
-                     (c)  the applicant’s rights under this Act to seek a review of the refusal decision.
-
-##### <a id="195A"></a>195A  Obligations and permissions of an approved child care service are those of the operator
-
-                   For the purposes of the family assistance law:
-
-                     (a)  when an obligation is imposed by that law on an approved child care service it is taken to be imposed on the person operating the service; and
-
-                     (b)  when a permission is conferred by that law on an approved child care service it is taken to be conferred on the person operating the service.
-
-##### <a id="196"></a>196  Conditions for continued approval—compliance with rules and laws
-
-Eligibility requirements
-
-             (1)  It is a condition for the continued approval of an approved child care service that the service satisfies any eligibility rules that are from time to time applicable to the service under paragraph 205(1)(b).
-
-Compliance with family assistance law
-
-   �
+             (5)  An instrument under subsection (3) does 
