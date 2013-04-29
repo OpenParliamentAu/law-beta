@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00364/Html/b1a52cb3-fb7c-477b-9d6c-27f6b1f3c84e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00868/Html/1a06d7f5-b999-4ed5-9858-067c3410f12c_files/image001.gif)
 
 # Submarine Cables and Pipelines Protection Act 1963
 
 **Act No. 61 of 1963 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 27 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -73,6 +73,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  that is not a submarine cable (within the meaning of Schedule 3A to the _Telecommunications Act 1997_) in a protection zone (within the meaning of that Schedule).
 
              (2)  In subsection (1):
+
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="high-sea"></a>**_high seas_** has the same meaning as in the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982.
 
@@ -288,7 +290,7 @@ of Assent</div>
       <div>1 Oct 2001</div>
     </td>
     <td>
-      <div>Schedule 4: Royal Assent</div>
+      <div>Schedule 4: Royal Assent <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -339,13 +341,17 @@ of Assent</div>
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (item 1073) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (item 1073) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
 </thead></table>
+
+_(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Schedule 4 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -391,7 +397,7 @@ of Assent</div>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 149, 2001; No. 104, 2005; No. 46, 2011</div>
+    <div>am. No. 149, 2001; No. 104, 2005</div>
   </td>
 </tr>
 <tr>
@@ -443,6 +449,20 @@ of Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1073  Subsection 5(2) (definition of _exclusive economic zone_)
+
+Repeal the definition.
+
+As at 27 October 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -458,6 +478,8 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
