@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00312/Html/28179090-3df3-432b-affb-3f0a3ca808ab_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00001/Html/NatTransNetSaleAct98_image001.gif)
 
 # National Transmission Network Sale Act 1998
 
 **Act No. 130 of 1998 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 140 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,83 +14,83 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Definitions                                                                                           1
+[3](#3).            Definitions
 
-[4](#4).            Crown to be bound                                                                              5
+[4](#4).            Crown to be bound
 
-[5](#5).            External Territories                                                                               5
+[5](#5).            External Territories
 
-[6](#6).            Extra‑territorial operation                                                                     5
+[6](#6).            Extra-territorial operation
 
 **Part 2—Sale of the National Transmission Network**
 
-[7](#7).            Fixtures on non‑Commonwealth land                                                  6
+[7](#7).            Fixtures on non-Commonwealth land
 
-[8](#8).            Effect of Lands Acquisition Act on past grants etc  of interests in land 6
+[8](#8).            Effect of Lands Acquisition Act on past grants etc  of interests in land
 
-[9](#9).            Transfer of assets and liabilities                                                           7
+[9](#9).            Transfer of assets and liabilities
 
-[10](#10).          Exemption from stamp duty and other taxes                                        8
+[10](#10).          Exemption from stamp duty and other taxes
 
-[11](#11).          Registration of transfers of land                                                           8
+[11](#11).          Registration of transfers of land
 
-[12](#12).          Part does not place person in breach of contract etc                             9
+[12](#12).          Part does not place person in breach of contract etc 
 
 **Part 3—Access to services etc.**
 
-[13](#13).          Deemed application of telecommunications access regime                 10
+[13](#13).          Deemed application of telecommunications access regime
 
-[14](#14).          Nominated services                                                                            10
+[14](#14).          Nominated services
 
-[15](#15).          Nominated customers                                                                         11
+[15](#15).          Nominated customers
 
-[16](#16).          Miscellaneous modifications of telecommunications access regime   12
+[16](#16).          Miscellaneous modifications of telecommunications access regime
 
-[17](#17).          Relationship with other access regimes                                              13
+[17](#17).          Relationship with other access regimes
 
 **Part 4—Restrictions on transfer of assets**
 
-[18](#18).          Minister’s approval required for transfers of original assets or replacement assets  15
+[18](#18).          Minister’s approval required for transfers of original assets or replacement assets
 
 **Part 5—Transmitter licences**
 
-[19](#19).          Transfer of transmitter licences to ABC and SBS                              16
+[19](#19).          Transfer of transmitter licences to ABC and SBS
 
 **Part 6—Powers and immunities of NTC or declared successor**
 
-[20](#20).          Deemed application of telecommunications carrier rules                    17
+[20](#20).          Deemed application of telecommunications carrier rules
 
-[21](#21).          Miscellaneous modifications of telecommunications carrier rules      17
+[21](#21).          Miscellaneous modifications of telecommunications carrier rules
 
 **Part 7—Miscellaneous**
 
-[22](#22).          Declared successors                                                                           18
+[22](#22).          Declared successors
 
-[23](#23).          Delegation                                                                                          18
+[23](#23).          Delegation
 
-[24](#24).          Immunity from State and Territory regulatory laws                           18
+[24](#24).          Immunity from State and Territory regulatory laws
 
-[25](#25).          Application of Competition and Consumer Act to sale of shares in NTC                20
+[25](#25).          Application of Competition and Consumer Act to sale of shares in NTC
 
-[26](#26).          Lands Acquisition Act does not apply                                               20
+[26](#26).          Lands Acquisition Act does not apply
 
-[27](#27).          Commonwealth records                                                                     20
+[27](#27).          Commonwealth records
 
-[28](#28).          Compensation for acquisition of property                                          20
+[28](#28).          Compensation for acquisition of property
 
-[29](#29).          Disallowable instruments                                                                   21
+[29](#29).          Disallowable instruments
 
-[30](#30).          Regulations                                                                                        21
+[30](#30).          Regulations
 
 **Notes** 
 
@@ -168,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  any other organisation specified by the Minister, in writing, for the purposes of this paragraph.
 
-                    <a name="exempt-re-transmiss"></a>**_exempt re‑transmission_** means a re‑transmission covered by section 212 of the Broadcasting Services Act.
+                    <a name="exempt-re-transmiss"></a>**_exempt re-transmission_** means a re-transmission covered by section 212 of the Broadcasting Services Act.
 
                     <a name="govern-bodi"></a>**_government body_** means:
 
@@ -194,7 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="nomin-servic"></a>**_nominated service_** has the meaning given by section 14.
 
-                    <a name="non-profit-bodi"></a>**_non‑profit body_** means an incorporated body that:
+                    <a name="non-profit-bodi"></a>**_non-profit body_** means an incorporated body that:
 
                      (a)  is not carried on for the purposes of profit or gain to its individual members; and
 
@@ -256,17 +256,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act extends to all the external Territories.
 
-##### <a id="6"></a>6  Extra‑territorial operation
+##### <a id="6"></a>6  Extra-territorial operation
 
                    This Act extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
 
 ## Part 2—Sale of the National Transmission Network
 
-##### <a id="7"></a>7  Fixtures on non‑Commonwealth land
+##### <a id="7"></a>7  Fixtures on non-Commonwealth land
 
              (1)  The Minister for Finance and Administration may, by notice in the _Gazette_, declare that this section applies to network facilities specified in the notice.
 
-             (2)  At the end of the day on which the notice is published, any specified network facility that is a fixture on non‑Commonwealth land:
+             (2)  At the end of the day on which the notice is published, any specified network facility that is a fixture on non-Commonwealth land:
 
                      (a)  is severed from the land and remains severed; and
 
@@ -278,7 +278,7 @@ by force of this section.
 
                     <a name="network-facil"></a>**_network facility_** means any asset used, or formerly used, by the Commonwealth in connection with the transmission of a broadcasting service.
 
-                    <a name="non-commonwealth-land"></a>**_non‑Commonwealth land_** means land not owned by the Commonwealth.
+                    <a name="non-commonwealth-land"></a>**_non-Commonwealth land_** means land not owned by the Commonwealth.
 
 ##### <a id="8"></a>8  Effect of Lands Acquisition Act on past grants etc. of interests in land
 
@@ -430,7 +430,7 @@ Note:          The assets and liabilities that can be transfer
 
                      (b)  access to sites or telecommunications transmission towers for purposes connected with national broadcasting services or ancillary services.
 
-             (3)  A non‑profit body is a nominated customer for the purposes of access to sites or telecommunications transmission towers, where that access is for community or educational purposes connected with an open narrowcasting television service.
+             (3)  A non-profit body is a nominated customer for the purposes of access to sites or telecommunications transmission towers, where that access is for community or educational purposes connected with an open narrowcasting television service.
 
              (4)  A community broadcasting licensee is a nominated customer for the purposes of:
 
@@ -442,17 +442,17 @@ Note:          The assets and liabilities that can be transfer
 
              (6)  A commercial broadcasting licensee is a nominated customer for the purposes of access to sites or telecommunications transmission towers for purposes connected with providing a commercial broadcasting service in a declared remote area.
 
-             (7)  A non‑profit body is a nominated customer for the purposes of:
+             (7)  A non-profit body is a nominated customer for the purposes of:
 
-                     (a)  the carriage of broadcasting services for the purpose of an exempt re‑transmission; and
+                     (a)  the carriage of broadcasting services for the purpose of an exempt re-transmission; and
 
-                     (b)  access to sites or telecommunications transmission towers for purposes connected with an exempt re‑transmission.
+                     (b)  access to sites or telecommunications transmission towers for purposes connected with an exempt re-transmission.
 
              (8)  A government body is a nominated customer for the purposes of:
 
-                     (a)  the carriage of broadcasting services for the purpose of an exempt re‑transmission; and
+                     (a)  the carriage of broadcasting services for the purpose of an exempt re-transmission; and
 
-                     (b)  access to sites or telecommunications transmission towers for purposes connected with an exempt re‑transmission.
+                     (b)  access to sites or telecommunications transmission towers for purposes connected with an exempt re-transmission.
 
              (9)  The same person or body can be a nominated customer under more than one of the preceding subsections.
 
@@ -586,7 +586,7 @@ Note:          The assets and liabilities that can be transfer
 
              (1)  The Minister may, by writing, delegate any of the Minister’s powers under this Act to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an SES employee or acting SES employee in the Department.
 
@@ -706,7 +706,7 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
 
 ##### <a id="30"></a>30  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -812,24 +812,7 @@ of Assent</div>
     <div>15 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 68, 69): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 102): 19 Apr 2011</div>
+    <div>Schedule 1 (items 68, 69): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -842,7 +825,7 @@ _(a)_     The _National Transmission Network Sale Act 1998_ was amended 
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010_ provides as follows:
+_(b)_    Subsection 2(1) (item 5) of the _Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -931,10 +914,10 @@ _(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislat
   </td>
   <td>
     <div>
-      1 January 2011
+      1 January 2011
     </div>
     <div>
-      (paragraph (b) applies)
+      (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -962,7 +945,7 @@ _(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislat
   </tr>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div><b>Part 1</b></div>
     </td>
     <td>
       <div></div>
@@ -973,12 +956,12 @@ _(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislat
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. Nos. 103 and 140, 2010</div>
+      <div>am. Nos. 103 and 140, 2010</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 3</b></div>
+      <div><b>Part 3</b></div>
     </td>
     <td>
       <div></div>
@@ -997,7 +980,7 @@ _(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislat
       <div>S. 16</div>
     </td>
     <td>
-      <div>am. Nos. 103 and 140, 2010</div>
+      <div>am. Nos. 103 and 140, 2010</div>
     </td>
   </tr>
   <tr>
@@ -1010,7 +993,7 @@ _(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislat
   </tr>
   <tr>
     <td>
-      <div><b>Part 7</b></div>
+      <div><b>Part 7</b></div>
     </td>
     <td>
       <div></div>
@@ -1022,7 +1005,7 @@ _(b)_     Subsection 2(1) (item 5) of the _Telecommunications Legislat
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
