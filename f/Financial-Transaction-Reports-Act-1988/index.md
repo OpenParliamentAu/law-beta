@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00148/Html/FinancTransReports1988_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00621/Html/FinancTransReports1988_image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 6 April 2009
- taking into account amendments up to Act No. 27 of 2009
+This compilation was prepared on 2 December 2008
+ taking into account amendments up to Act No. 124 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1446,7 +1446,7 @@ the cash dealer commits an offence against this subsection.
 
                      (c)  made under section 89, 195 or 196 of the _Retirement Savings Accounts Act 1997_; or
 
-                    (ca)  made in accordance with Part 3 or 3A of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_; or
+                    (ca)  made in accordance with section 17 or 18 of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_; or
 
                      (d)  that are used to make payments of insurance premiums in accordance with the terms and conditions of the account.
 
@@ -2364,7 +2364,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
                      (b)  that is given to the institution by or on behalf of the person (whether or not the document is signed by or on behalf of the person).
 
-##### <a id="40E"></a>40E  Meaning of _minimum retention period_
+##### <a id="40E"></a>40E  Meaning of _minimum retention period_
 
                    The **_minimum retention period_**, in relation to a financial transaction document of a financial institution, is:
 
@@ -4152,23 +4152,6 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 1) Act 2009</div>
-  </td>
-  <td>
-    <div>27, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 42): 27 Mar 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Financial Transaction Reports Act 1988_ was amended by sections 20–23 only of the _Crimes Legislation Amendment Act 1991_, subsections 2(1) and (2) of which provide as follows: 
@@ -5539,7 +5522,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Cou
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 4, 1990; No. 164, 1992; No. 33, 1997; No. 62, 1997 (as am. by No. 41, 2003); No. 128, 1999; No. 24, 2001; No. 170, 2006; No. 27, 2009</div>
+    <div>am. No. 4, 1990; No. 164, 1992; No. 33, 1997; No. 62, 1997 (as am. by No. 41, 2003); No. 128, 1999; No. 24, 2001; No. 170, 2006</div>
   </td>
 </tr>
 <tr>
@@ -6661,7 +6644,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (__Western Australia__) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
@@ -6753,7 +6736,7 @@ _Anti-Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 (3)        This item does not limit section 25B of the _Acts Interpretation Act 1901_.
 
-## 160  Terms and conditions of appointment—AUSTRAC CEO
+## 160  Terms and conditions of appointment—AUSTRAC CEO
 
 (1)        This item applies to an instrument that:
 
