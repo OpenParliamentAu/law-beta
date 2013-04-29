@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00006/Html/37496479-39b5-4161-8cca-d4a7099bc106_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00544/Html/c8a6f85f-71ca-41c3-b642-0aab02442a54_files/image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 15 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -1745,7 +1745,7 @@ Note:          The kind of operations authorised by the AOC in
 
                    An application for an AOC must be in a form approved by CASA.
 
-##### <a id="27AB"></a>27AB  Lodgment of manuals
+##### <a id="27AB"></a>27AB  Lodgment of manuals
 
              (2)  If an applicant for an AOC is (or will be) required by the regulations or Civil Aviation Orders to have any of the following manuals, the applicant must lodge the current or proposed version of the manual concerned:
 
@@ -2361,7 +2361,7 @@ Note:          Section 11J of the Civil Aviation Act 1990 of
 
 Note:          CASA must consult the Director of CAA New Zealand if CASA proposes to take action that would or might affect ANZA activities in New Zealand (see section 26C).
 
-##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New Zealand AOC with ANZA privileges
+##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New Zealand AOC with ANZA privileges
 
              (1)  The regulations may provide that specified regulations made under this Act do not apply in relation to all or specified ANZA activities in Australian territory authorised by a New Zealand AOC with ANZA privileges.
 
@@ -2457,7 +2457,7 @@ Note:          This subsection may require CASA to endorse a d
 
                     <a name="civil-aviat-authoris"></a>**_civil aviation authorisation_** includes an AOC.
 
-##### <a id="30B"></a>30B  Variation and termination of exclusion order
+##### <a id="30B"></a>30B  Variation and termination of exclusion order
 
              (1)  If a Court makes an order under subsection 30A(1):
 
@@ -4339,7 +4339,7 @@ Note:          As a member of the governing body, the Director
 
                    A Board member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          A Board member is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A Board member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="56"></a>56  Remuneration and allowances
 
@@ -4415,7 +4415,7 @@ the Minister may terminate the appointment of all Board members or particular Bo
 
 ##### <a id="62"></a>62  Acting Chair
 
-                   The Minister may appoint a person to act as the Chair if the Deputy Chair is unable to act as the Chair:
+             (1)  The Minister may appoint a person to act as the Chair if the Deputy Chair is unable to act as the Chair:
 
                      (a)  during a vacancy in the office of the Chair, whether or not an appointment has previously been made to the office; or
 
@@ -4425,11 +4425,21 @@ the Minister may terminate the appointment of all Board members or particular Bo
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="63"></a>63  Acting Board members
 
-                   The Minister may appoint a person to act as a Board member (other than the Chair):
+             (1)  The Minister may appoint a person to act as a Board member (other than the Chair):
 
                      (a)  during a vacancy in the office of a Board member (other than the Chair), whether or not an appointment has previously been made to the office; or
 
@@ -4439,7 +4449,17 @@ Note:          For rules that apply to acting appointments, se
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ### Division 3—Board procedures
 
@@ -4539,7 +4559,7 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
              (1)  The Director is to be appointed by the Board by written instrument, on a full‑time basis.
 
-Note:          The Director  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The Director can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  Before appointing the Director, the Board must consult the Minister.
 
@@ -4605,7 +4625,7 @@ Note:          The Director  may be reappointed: see section�
 
 ##### <a id="82"></a>82  Acting Director
 
-                   The Board may appoint a person to act as Director:
+             (1)  The Board may appoint a person to act as Director:
 
                      (a)  during a vacancy in the office of Director, (whether or not an appointment has previously been made to the office); or
 
@@ -4615,7 +4635,17 @@ Note:          The Director  may be reappointed: see section�
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ### Division 2—Staff of CASA
 
@@ -4627,7 +4657,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="84"></a>84  Consultants
 
-                   CASA may engage consultants to assist in the performance of its functions.
+                   CASA may engage consultants to assist in the performance of its functions.
 
 ## Part VIII—Miscellaneous
 
@@ -5975,7 +6005,7 @@ S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
     <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (item 14): 23 May 2009</div>
+    <div>Schedule 2 (item 14): 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -5992,7 +6022,7 @@ S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
     <div>8 July 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (item 15): 5 Aug 2009</div>
+    <div>Schedule 3 (item 15): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -6009,8 +6039,8 @@ S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 6): Royal Assent 
-Schedule 5 (item 137(a)): <i>(y)</i></div>
+    <div>Schedule 1 (item 6): Royal Assent 
+Schedule 5 (item 137(a)): <i>(y)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6027,7 +6057,7 @@ Schedule 5 (item 137(a)): <i>(y)</i></div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 46, 47): 19 Apr 2011</div>
+    <div>Schedule 5 (items 46, 47): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -6044,10 +6074,10 @@ Schedule 5 (item 137(a)): <i>(y)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 349–359) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 349–359) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -6484,13 +6514,14 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
 <table>
 <colgroup>
   <col width="26%">
+  <col width="0%">
   <col width="52%">
   <col width="21%">
 </colgroup>
 
 <thead>
   <tr>
-    <td>
+    <td colspan="2">
       <div>
         <b>
           Provision(s)
@@ -6519,7 +6550,7 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
       2\. Schedule 1
     </div>
   </td>
-  <td>
+  <td colspan="2">
     <div>
       The later of:
     </div>
@@ -6539,6 +6570,12 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
       (paragraph (b) applies)
     </div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(v)_ Subsection 2(1) (items 2, 3 and 5) of the _Civil Aviation Legislation Amendment (Mutual Recognition with New Zealand) Act 2006_ provides as follows:
@@ -9773,14 +9810,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 55</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 56</div>
   </td>
   <td>
@@ -9901,22 +9930,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 62</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 62A</div>
   </td>
   <td>
@@ -9953,22 +9966,6 @@ of Div. 2 of Part IIIA</div>
   </td>
   <td>
     <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 63</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10165,14 +10162,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 74(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 75</div>
   </td>
   <td>
@@ -10293,7 +10282,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 81</div>
+    <div>Ss. 81, 82</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
@@ -10305,38 +10294,6 @@ of Div. 2 of Part IIIA</div>
   </td>
   <td>
     <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 82</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10972,6 +10929,68 @@ of Div. 2 of Part IIIA</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 349  Section 55 (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 350  Subsection 62(1)
+
+Omit “(1)”.
+
+## 351  At the end of subsection 62(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 352  Subsection 62(2)
+
+Repeal the subsection.
+
+## 353  Subsection 63(1)
+
+Omit “(1)”.
+
+## 354  At the end of subsection 63(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 355  Subsection 63(2)
+
+Repeal the subsection.
+
+## 356  Subsection 74(1) (note)
+
+Repeal the note, substitute:
+
+Note:          The Director  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 357  Subsection 82(1)
+
+Omit “(1)”.
+
+## 358  At the end of subsection 82(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 359  Subsection 82(2)
+
+Repeal the subsection.
+
+As at 15 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11282,6 +11301,8 @@ The amendments made by Part 2 of this Schedule apply to copying or disclosure 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
