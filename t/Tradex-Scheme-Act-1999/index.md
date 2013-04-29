@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00755/Html/TradexScheme1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00108/Html/TradexScheme1999WD02_image001.gif)
 
 # Tradex Scheme Act 1999
 
 **Act No. 185 of 1999 as amended**
 
-This compilation was prepared on 23 November 2010
- taking into account amendments up to Act No. 124 of 2010
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1278,9 +1278,9 @@ the Secretary must, as soon as practicable, make under section 11, in respect 
 
 The _Tradex Scheme Act 1999_ as shown in this compilation comprises Act No. 185, 1999 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 ### Table of Acts
 
@@ -1415,24 +1415,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tradex Scheme Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>124, 2010</div>
-  </td>
-  <td>
-    <div>18 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 8)</div>
   </td>
 </tr></table>
 
@@ -1648,110 +1630,6 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
   </td>
 </tr></table>
 
-### Note 2
-
-_Tradex Scheme Amendment Act 2010 (No. 124, 2010)_
-
-The following amendments commence on 18 May 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Section 4 (definition of _ineligible_)
-
-Repeal the definition, substitute:
-
-                    <a name="inelig"></a>**_ineligible_**: a person is ineligible to apply for, or to hold, a tradex order if:
-
-                     (a)  where the person is an individual—the person is an insolvent under administration; or
-
-                     (b)  where the person is a body corporate—the person is an externally-administered body corporate; or
-
-                     (c)  where the person is a partnership—any of the partners is an insolvent under administration or an externally-administered body corporate.
-
-## 2  Section 4
-
-Insert:
-
-                    <a name="person"></a>**_person_** means:
-
-                     (a)  an individual; or
-
-                     (b)  a body corporate; or
-
-                     (c)  a partnership.
-
-Note:          See also section 48A (partnerships).
-
-## 3  Paragraph 6(b)
-
-Repeal the paragraph, substitute:
-
-                     (b)  the person gave information, or a document, to the Secretary or to an authorised officer in connection with an application for, or for a variation of, the order or an application for, or for a variation of, another tradex order, being information or a document that:
-
-                              (i)  if the person is an individual or body corporate—the person knew, or ought to have known, to be false or misleading in a material particular; or
-
-                             (ii)  if the person is a partnership—any of the partners knew, or ought to have known, to be false or misleading in a material particular; or
-
-## 4  After section 6
-
-Insert:
-
-##### <a id="6A"></a>6A  Continuity of partnerships
-
-                   For the purposes of this Act, a change in the composition of a partnership does not affect the continuity of the partnership.
-
-## 5  Paragraph 11(1)(c)
-
-Repeal the paragraph, substitute:
-
-                     (c)  the applicant has not given to the Secretary or to an authorised officer for the purposes of this Act any information or document that:
-
-                              (i)  if the applicant is an individual or body corporate—the applicant knew, or ought to have known, to be false or misleading in a material particular; or
-
-                             (ii)  if the applicant is a partnership—any of the partners knew, or ought to have known, to be false or misleading in a material particular; and
-
-## 6  Section 20
-
-After “body corporate” (wherever occurring), insert “or partnership”.
-
-_Note:       The heading to section 20 is altered by omitting “incorporated” and substituting “non-individual”._
-
-## 7  After section 48
-
-Insert:
-
-##### <a id="48A"></a>48A  Treatment of partnerships
-
-             (1)  This Act applies to a partnership as if it were a person, but with the changes set out in this section.
-
-             (2)  An obligation that would otherwise be imposed on the partnership by this Act is imposed on each partner instead, but may be discharged by any of the partners.
-
-             (3)  If under this Act a notice or other document is given to a partner of the partnership in accordance with whichever of the following is applicable:
-
-                     (a)  section 28A of the _Acts Interpretation Act 1901_;
-
-                     (b)  regulations made for the purposes of paragraph 49(d);
-
-the notice or document is taken to have been given to the partnership.
-
-             (4)  The partners are jointly and severally liable to pay an amount that would otherwise be payable by the partnership under this Act.
-
-             (5)  An offence against this Act that would otherwise be committed by the partnership is taken to have been committed by each partner.
-
-             (6)  A partner does not commit an offence because of subsection (5) if the partner:
-
-                     (a)  does not know of the circumstances that constitute the contravention of the provision concerned; or
-
-                     (b)  knows of those circumstances but takes all reasonable steps to correct the contravention as soon as possible after the partner becomes aware of those circumstances.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (6)—see subsection 13.3(3) of the _Criminal Code_.
-
-## 9  Part 12
-
-Repeal the Part.
-
-As at 23 November 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1869,25 +1747,5 @@ The amendment of subsection 5(1) of the _Tradex Scheme Act 1999_ made by this Sc
 ## 7  Application—amendment of subsection 5(2)
 
 The amendment of subsection 5(2) of the _Tradex Scheme Act 1999_ made by this Schedule applies in relation to nominated goods exported on or after the commencement of this Schedule (whether the tradex order in respect of which the goods are nominated goods was made before or after that commencement).
-
-* * *
-
-_Tradex Scheme Amendment Act 2010 (No. 124, 2010)_
-
-The following provision commences on 18 May 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 8  Transitional
-
-Despite the amendments made by this Part, the _Tradex Scheme Act 1999_ continues to apply, after the commencement of this item, in relation to:
-
-                     (a)  an application made under section 10 of the _Tradex Scheme Act 1999_ before that commencement; or
-
-                     (b)  a tradex order made in response to an application referred to in paragraph (a); or
-
-                     (c)  any matter or thing connected with, or arising out of, a tradex order referred to in paragraph (b);
-
-as if those amendments had not been made.
 
  
