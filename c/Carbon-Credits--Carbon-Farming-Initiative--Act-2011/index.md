@@ -1,11 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image001.gif)
 
 # Carbon Credits (Carbon Farming Initiative) Act 2011
 
 **Act No. 101 of 2011 as amended**
 
-This compilation was prepared on 8 December 2011
+This compilation was prepared on 30 November 2011
  taking into account amendments up to Act No. 132 of 2011
+
+[**Note**: Sections 3–307 of this Act are not in force, _see_ s. 2(1) and Note 1]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -442,8 +444,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [150](#150).        An Australian carbon credit unit is personal property
 
-[150A](#150A).     Ownership of Australian carbon credit unit
-
 [151](#151).        Transfer of Australian carbon credit units
 
 [152](#152).        Transmission of Australian carbon credit units by assignment
@@ -457,8 +457,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [156](#156).        Transfer of Australian carbon credit units to another Registry account held by the transferor
 
 [157](#157).        Exchange of Kyoto Australian carbon credit units for Kyoto units
-
-[157A](#157A).     Registration of equitable interests in relation to an Australian carbon credit unit
 
 [158](#158).        Equitable interests in relation to an Australian carbon credit unit
 
@@ -678,8 +676,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [233](#233).        Simplified outline
 
-[234](#234).        Scheme to avoid existing liability to pay administrative 
- penalty
+[234](#234).        Scheme to avoid existing liability to pay administrative penalty
 
 [235](#235).        Scheme to avoid future liability to pay administrative penalty
 
@@ -951,10 +948,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
     <div>they commence on the day after the end of that period.</div>
   </td>
   <td>
-    <div>8 December 2011
-
-(
-      <i>see</i>F2011L02581)</div>
+    <div> </div>
   </td>
 </tr></table>
 
@@ -1298,7 +1292,7 @@ to the Administrator, where the application, information, notice, submission or 
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="foreign-account"></a>**_foreign account_**, when used in relation to an Australian carbon credit unit, means an account kept within a foreign registry.
+                    <a name="foreign-account"></a>**_foreign account_**, when used in relation to an Australian carbon credit unit, means an account kept within a foreign non‑Kyoto registry.
 
                     <a name="foreign-countri"></a>**_foreign country_** includes a region where:
 
@@ -1312,7 +1306,7 @@ to the Administrator, where the application, information, notice, submission or 
 
                      (e)  a foreign country is responsible for the region’s international relations.
 
-                    <a name="foreign-registri"></a>**_foreign registry_** has the same meaning as in the _Australian National Registry of Emissions Units Act 2011_.
+                    <a name="foreign-non-kyoto-registri"></a>**_foreign non‑Kyoto registry_** has the same meaning as in the _Australian National Registry of Emissions Units Act 2011_.
 
                     <a name="freehold-land-right-land"></a>**_freehold land rights land_** means land, where:
 
@@ -1770,7 +1764,7 @@ there are taken to be 4 offices of member of the Domestic Offsets Integrity Comm
 
              (5)  For the purposes of this Act, if a notice is transmitted to the Administrator by means of an electronic communication, the notice is taken to have been transmitted on the day on which the electronic communication is dispatched.
 
-             (6)  Subsection (5) of this section has effect despite section 14A of the _Electronic Transactions Act 1999_.
+             (6)  Subsection (5) of this section has effect despite subsections 14(3) and (4) of the _Electronic Transactions Act 1999_.
 
              (7)  This section does not, by implication, limit the regulations that may be made under the _Electronic Transactions Act 1999_.
 
@@ -1980,7 +1974,7 @@ Unit entitlement
 
              (2)  The number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image002.gif)
 
 where:
 
@@ -2000,12 +1994,6 @@ where:
 
 of the net abatement number.
 
-Prescribed non‑CFI offsets scheme
-
-          (2A)  If the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme, the number worked out using the formula in subsection (2) is to be reduced by the number ascertained in accordance with the regulations.
-
-Rounding down
-
              (3)  If the number worked out using the formula in subsection (2) is not a whole number, the number is to be rounded to the nearest whole number (with a number ending in .5 being rounded down).
 
              (4)  For the purposes of subsection (3), zero is taken to be a whole number.
@@ -2022,7 +2010,7 @@ Unit entitlement—prescribed native forest protection projects
 
              (2)  If the project is a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image003.gif)
 
 where:
 
@@ -2048,7 +2036,7 @@ Unit entitlement—other native forest protection projects
 
              (3)  If the project is not a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image004.gif)
 
 where:
 
@@ -2072,10 +2060,6 @@ where:
 
 of the net sequestration number.
 
-Prescribed non‑CFI offsets scheme
-
-          (3A)  If the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme, the number worked out using the formula in subsection (2) or (3) is to be reduced by the number ascertained in accordance with the regulations.
-
 Rounding down
 
              (4)  If the number worked out using the formula in subsection (2) or (3) is not a whole number, the number is to be rounded to the nearest whole number (with a number ending in .5 being rounded down).
@@ -2093,10 +2077,6 @@ Note:          For **_emissions avoidance offsets project_**, 
 Unit entitlement
 
              (2)  The number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the total number of tonnes in the amount that, under the applicable methodology determination for the reporting period, is the carbon dioxide equivalent net abatement amount for the project in relation to the reporting period.
-
-Prescribed non‑CFI offsets scheme
-
-             (3)  If the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme, the number of tonnes referred to in subsection (2) is to be reduced by the number ascertained in accordance with the regulations.
 
 ##### <a id="19"></a>19  Cancellation of units issued in respect of a project that is subject to the voluntary automatic unit cancellation regime
 
@@ -2178,9 +2158,7 @@ Note:          The Administrator has a function of providing a
 
                      (e)  if:
 
-                              (i)  the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme; and
-
-                            (ia)  the prescribed non‑CFI offsets scheme is specified in regulations made for the purposes of this subparagraph; and
+                              (i)  the project area for the project was, or the project areas for the project were, wholly or partly covered by a prescribed non‑CFI offsets scheme; and
 
                              (ii)  the applicant is entitled to make a request under section 92 in relation to the project;
 
@@ -2350,7 +2328,9 @@ Criteria for declaration
 
                       (l)  the project meets the eligibility requirements (if any) specified in the regulations; and
 
-                    (m)  the project is not an excluded offsets project.
+                    (m)  the project is not an excluded offsets project; and
+
+                     (n)  the project area is not, or the project areas are not, wholly or partly covered by a prescribed non‑CFI offsets scheme.
 
 Note 1:       Methodology determinations are made under section 106.
 
@@ -2874,10 +2854,6 @@ Entries
 
              (4)  Paragraph (1)(a) of this section does not, by implication, limit the application of subsection 13(3) of the _Legislative Instruments Act 2003_ to another instrument under this Act.
 
-          (4A)  Paragraph (1)(b) does not apply to a requirement of a kind specified in the regulations.
-
-          (4B)  Subsection (4A) does not, by implication, limit the application of subsection 13(3) of the _Legislative Instruments Act 2003_ to another instrument under this Act.
-
              (5)  If:
 
                      (a)  the Domestic Offsets Integrity Committee gives advice to the Minister under subsection (2) in relation to a particular kind of project; and
@@ -2890,35 +2866,13 @@ Entries
 
 the Minister must, as soon as practicable after making the decision, cause a copy of the Domestic Offset Integrity Committee’s advice under subsection (2) to be published on the Department’s website.
 
-Regulations
-
-             (6)  If:
-
-                     (a)  regulations specifying a particular kind of project were made for the purposes of paragraph (1)(a), in accordance with section 4 of the _Acts Interpretation Act 1901_, during the period:
-
-                              (i)  beginning at the commencement of section 1; and
-
-                             (ii)  ending at the commencement of section 3; and
-
-                     (b)  before recommending to the Governor‑General that those regulations should be made, the Minister requested the Interim Domestic Offsets Integrity Committee to advise the Minister about whether such a project should, or should not, be specified in those regulations; and
-
-                     (c)  the Minister had regard to any such advice;
-
-this Act has effect, and is taken always to have had effect, as if the Minister had, before recommending to the Governor‑General that those regulations should be made:
-
-                     (d)  requested the Domestic Offsets Integrity Committee to advise the Minister about whether such a project should, or should not, be specified in those regulations; and
-
-                     (e)  complied with paragraph (3)(c); and
-
-                      (f)  complied with subsection (5).
-
 ### Division 7—Net total number of Australian carbon credit units issued in relation to an eligible offsets project
 
 ##### <a id="42"></a>42  Net total number of Australian carbon credit units issued in relation to an eligible offsets project
 
                    For the purposes of this Act, the **_net total number_** of Australian carbon credit units issued in relation to an eligible offsets project in accordance with Part 2 is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image005.gif)
 
 ### Division 8—Applicable carbon sequestration right
 
@@ -4034,11 +3988,9 @@ an eligible offsets project must give the Administrator an offsets report for a
 
 period that is expressed to be a reporting period for the project.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The first reporting period
+<li class="BoxList" style="margin-left:21.25pt">•      The first reporting period must
 
-must begin when the declaration of the project under section 27 took
-
-effect.</li>
+begin when the declaration of the project under section 27 took effect.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Each subsequent reporting
 
@@ -4794,11 +4746,9 @@ Determination
 
                      (a)  paragraphs 89(1)(b), 90(1)(b) and 91(1)(b) had not been enacted; and
 
-                     (b)  the net total number of Australian carbon credit units mentioned in subsections 89(3), 90(3) and 91(3) were increased by the number specified in the determination; and
+                     (b)  the net total number of Australian carbon credit units mentioned in subsections 89(3), 90(3) and 91(3) were increased by the number specified in the determination.
 
-                     (c)  if the project is a landfill legacy emissions avoidance project—paragraph 41(1)(b) had not been enacted.
-
-             (3)  The Administrator must not make a determination under subsection (2) unless the Administrator is satisfied that the project area is or was, or the project areas are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme that is specified in regulations made for the purposes of subparagraph 23(1)(e)(ia).
+             (3)  The Administrator must not make a determination under subsection (2) unless the Administrator is satisfied that the project area was, or the project areas were, wholly or partly covered by a prescribed non‑CFI offsets scheme.
 
              (4)  In making a determination under subsection (2), the Administrator must comply with the regulations.
 
@@ -5152,7 +5102,7 @@ Restraining injunctions
 
 ##### <a id="104"></a>104  Other powers of the Federal Court unaffected
 
-                   The powers conferred on the Federal Court under this Division are in addition to, and not instead of, any other powers of the Court, whether conferred by this Act or otherwise.
+                   The powers conferred on the Federal Court under this Division are in addition to, and not instead of, any other powers of the Court, whether conferred by this Act or otherwise.
 
 ## Part 9—Methodology determinations
 
@@ -5894,43 +5844,9 @@ Scope
 
              (2)  To avoid doubt, the proposal did not have to be in the form of a draft methodology determination.
 
-Effect
+Effect of application
 
              (3)  The person’s application has effect, after the commencement of this section, as if it were an application under section 108 for the endorsement of the proposal.
-
-             (4)  If:
-
-                     (a)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee published on the Department’s website:
-
-                              (i)  the proposal; and
-
-                             (ii)  a notice inviting the public to make a submission to the Committee on the proposal by a specified time limit; and
-
-                     (b)  the time limit was not shorter than 30 days;
-
-this Act has effect, and is taken always to have had effect, as if the Domestic Offsets Integrity Committee had complied with paragraph 112(5)(a) and subsection 112(6) in relation to the proposal.
-
-             (5)  If:
-
-                     (a)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee received any submissions in accordance with a notice referred to in subsection (4) in relation to the proposal; and
-
-                     (b)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee:
-
-                              (i)  considered the submissions; and
-
-                             (ii)  published the submissions on the Department’s website;
-
-this Act has effect, and is taken always to have had effect, as if the Domestic Offsets Integrity Committee had complied with paragraph 112(5)(b) and subsection 112(11) in relation to the proposal.
-
-             (6)  Subparagraph (5)(b)(ii) does not apply in relation to a particular submission made by a person if the person has requested the Interim Domestic Offsets Integrity Committee not to publish the submission on the ground that publication of the submission could reasonably be expected to substantially prejudice the commercial interests of the person or another person.
-
-             (7)  If:
-
-                     (a)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee received any submissions in accordance with a notice referred to in subsection (4) in relation to a proposal; and
-
-                     (b)  paragraph (5)(b) does not apply in relation to the submissions;
-
-this Act has effect, and is taken always to have had effect, as if the Domestic Offsets Integrity Committee had received the submissions under subsection 112(5) within the time limit referred to in subparagraph 112(5)(a)(ii).
 
 ##### <a id="132"></a>132  Transitional—pre‑commencement endorsement of proposal
 
@@ -6192,7 +6108,7 @@ Service of documents
 
 the document is taken to have been given to each of the multiple project proponents.
 
-##### <a id="138"></a>138  Eligible voluntary action taken by nominee
+##### <a id="138"></a>138  Eligible voluntary action taken by nominee
 
 Scope
 
@@ -6454,20 +6370,6 @@ Registry accounts for Australian carbon credit units.</li>
 
                    An Australian carbon credit unit is personal property and, subject to sections 152 and 153, is transmissible by assignment, by will and by devolution by operation of law.
 
-##### <a id="150A"></a>150A  Ownership of Australian carbon credit unit
-
-             (1)  The registered holder of an Australian carbon credit unit:
-
-                     (a)  is the legal owner of the unit; and
-
-                     (b)  may, subject to this Act and the _Australian National Registry of Emissions Units Act 2011_, deal with the unit as its legal owner and give good discharges for any consideration for any such dealing.
-
-             (2)  Subsection (1) only protects a person who deals with the registered holder of the unit as a purchaser:
-
-                     (a)  in good faith for value; and
-
-                     (b)  without notice of any defect in the title of the registered holder.
-
 ##### <a id="151"></a>151  Transfer of Australian carbon credit units
 
                    For the purposes of this Act, if there is an entry for an Australian carbon credit unit in a Registry account (the **_first Registry account_**) kept by a person (the **_first person_**):
@@ -6486,7 +6388,7 @@ Registry accounts for Australian carbon credit units.</li>
 
 ##### <a id="152"></a>152  Transmission of Australian carbon credit units by assignment
 
-             (1)  A transmission by assignment of an Australian carbon credit unit for which there is an entry in a Registry account is of no force until:
+             (1)  A transmission by assignment of an Australian carbon credit unit is of no force until:
 
                      (a)  the transferor, by electronic notice transmitted to the Administrator, instructs the Administrator to transfer the unit from the relevant Registry account kept by the transferor to a Registry account kept by the transferee; and
 
@@ -6508,11 +6410,7 @@ Registry accounts for Australian carbon credit units.</li>
 
 Scope
 
-             (1)  This section applies if an Australian carbon credit unit for which there is an entry in a Registry account is transmitted from a person (the **_transferor_**) to another person (the **_transferee_**) by any lawful means other than by a transfer under section 152.
-
-Effect of transmission
-
-          (1A)  The transmission is of no force until the Administrator transfers the Australian carbon credit unit under subsection (7) or (8).
+             (1)  This section applies if an Australian carbon credit unit is transmitted from a person (the **_transferor_**) to another person (the **_transferee_**) by any lawful means other than by a transfer under section 152.
 
 Declaration of transmission
 
@@ -6674,12 +6572,6 @@ Compliance with instruction
 
              (5)  The Registry must set out a record of the instruction under paragraph (1)(b).
 
-##### <a id="157A"></a>157A  Registration of equitable interests in relation to an Australian carbon credit unit
-
-             (1)  The regulations may make provision for or in relation to the registration in the Registry of equitable interests in relation to Australian carbon credit units.
-
-             (2)  Subsection (1) does not apply to an equitable interest that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
-
 ##### <a id="158"></a>158  Equitable interests in relation to an Australian carbon credit unit
 
              (1)  This Act does not affect:
@@ -6736,7 +6628,7 @@ publish certain information about the operation of this Act.</li>
 
                    The Administrator must:
 
-                     (a)  within 6 months after the commencement of this section, publish on the Administrator’s website a statement setting out a concise description of the characteristics of Australian carbon credit units; and
+                     (a)  before 31 December 2011, publish on the Administrator’s website a statement setting out a concise description of the characteristics of Australian carbon credit units; and
 
                      (b)  keep that statement up‑to‑date.
 
@@ -7352,7 +7244,7 @@ No units relinquished
 
              (2)  If, by the compliance deadline, the person has not relinquished any Australian carbon credit units in order to comply with the requirement, the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image006.gif)
 
 where:
 
@@ -7374,7 +7266,7 @@ Relinquishment of insufficient units
 
 the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00941/Html/8ef8fec4-40dc-4561-9aec-84eeef09e387_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00925/Html/347d5003-682f-4671-ad4a-06cdbfd0e7c4_files/image007.gif)
 
 where:
 
@@ -7572,7 +7464,7 @@ No limitation
 
              (2)  The Administrator may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 185(2)(c).
 
-##### <a id="188"></a>188  Administrator may retain documents
+##### <a id="188"></a>188  Administrator may retain documents
 
              (1)  The Administrator may take, and retain for as long as is necessary, possession of a document produced under subsection 185(2).
 
@@ -8420,9 +8312,9 @@ Note:          Part 21 provides for pecuniary penalties for 
 
 contravenes a civil penalty provision, and an executive officer of the body
 
-corporate was involved in the contravention, the officer will contravene a civil
+corporate was involved in the contravention, the officer will contravene a
 
-penalty provision.</li>
+civil penalty provision.</li>
 
 * * *
 
@@ -9412,7 +9304,7 @@ Note:          See sections 20 and 33A of the _Acts Interpre
 
                    The Administrator is to be assisted by APS employees in the Department who are made available for the purpose by the Secretary.
 
-##### <a id="251"></a>251  Other persons assisting the Administrator
+##### <a id="251"></a>251  Other persons assisting the Administrator
 
                    The Administrator may also be assisted:
 
@@ -9496,7 +9388,11 @@ Note:          A Domestic Offsets Integrity Committee member i
 
 in at least one field of expertise that is relevant to the functions of the Domestic Offsets Integrity Committee.
 
-             (3)  The Minister must ensure that the Chair of the Domestic Offsets Integrity Committee is not a person covered by subsection (4).
+             (3)  The Minister must ensure that:
+
+                     (a)  the Chair of the Domestic Offsets Integrity Committee is not a person covered by subsection (4); and
+
+                     (b)  a majority of the other Domestic Offsets Integrity Committee members are not persons covered by subsection (4).
 
              (4)  This subsection applies to the following persons:
 
@@ -9512,7 +9408,7 @@ in at least one field of expertise that is relevant to the functions of the Dome
 
                      (b)  holds or performs the duties of an Executive Level 2 position, or an equivalent position, in the Department.
 
-             (6)  The Minister must ensure that at least one, and not more than 2, Domestic Offsets Integrity Committee members are officers of the Commonwealth Scientific and Industrial Research Organisation nominated by the Chief Executive of the Commonwealth Scientific and Industrial Research Organisation.
+             (6)  The Minister must ensure that one Domestic Offsets Integrity Committee member is an officer of the Commonwealth Scientific and Industrial Research Organisation nominated by the Chief Executive of the Commonwealth Scientific and Industrial Research Organisation.
 
              (7)  A Domestic Offsets Integrity Committee member holds office on a part‑time basis.
 
@@ -9874,9 +9770,7 @@ Scope
 
                      (a)  the Greenhouse and Energy Data Officer;
 
-                     (b)  Low Carbon Australia Limited (ACN 141 478 748);
-
-                   (ba)  the Australian Transaction Reports and Analysis Centre;
+                     (b)  Australian Carbon Trust Limited (ACN 141 478 748);
 
                      (c)  a prescribed professional disciplinary body;
 
@@ -10078,7 +9972,7 @@ Meaning of expressions
 
 ##### <a id="280"></a>280  Disclosure of publicly available information
 
-                   An entrusted public official may disclose protected information if it has already been lawfully made available to the public.
+                   An entrusted public official may disclose protected information if it is already publicly available.
 
 ##### <a id="281"></a>281  Disclosure of summaries or statistics
 
@@ -10290,7 +10184,7 @@ Conditions
 
              (8)  An instrument under subsection (6) is not a legislative instrument.
 
-##### <a id="284"></a>284  Disclosure for purposes of review of Act
+##### <a id="284"></a>284  Disclosure for purposes of review of Act
 
                    An entrusted public official may disclose protected information to a person if:
 
@@ -10646,6 +10540,8 @@ Subsequent reviews
 
 The _Carbon Credits (Carbon Farming Initiative) Act 2011_ as shown in this compilation comprises Act No. 101, 2011 amended as indicated in the Tables below.
 
+Sections 3–307 of this Act are not in force, _see_ s. 2(1).
+
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -10691,7 +10587,7 @@ of Assent</div>
     <div>15 Sept 2011</div>
   </td>
   <td>
-    <div>Ss. 3–307: 8 Dec 2011 ( <i>see</i>F2011L02581) 
+    <div>Ss. 3–307: ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -10712,314 +10608,10 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (items 51–59, 
 61–97, 99, 215A, 220A): \[ <i>see</i>s. 2(1), Note 2 and Table A] 
 Schedule 1 (items 257–258A): \[ <i>see</i>Note 2] 
-Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
+Schedule 5: \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>Sch. 1 (items 215A, 220A)</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 16(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16–18</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision F</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 131(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 152, 153</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 157A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 12</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 162</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 26</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 257</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 27</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 276</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 280</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr></table>
 
@@ -11357,7 +10949,239 @@ Government response to recommendations
 
                      (c)  such other persons as the Minister considers relevant.
 
-As at 8 December 2011 the amendments are not incorporated in this compilation.
+The following amendments commence on the day section 3 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_ commences:
+
+## Schedule 5
+
+## 1  Section 5 (definition of _foreign account_)
+
+Omit “foreign non‑Kyoto registry”, substitute “foreign registry”.
+
+## 2  Section 5 (definition of _foreign non‑Kyoto registry_)
+
+Repeal the definition.
+
+## 3  Section 5
+
+Insert:
+
+                    <a name="foreign-registri"></a>**_foreign registry_** has the same meaning as in the _Australian National Registry of Emissions Units Act 2011_.
+
+## 4  Subsection 7(6)
+
+Omit “subsections 14(3) and (4)”, substitute “section 14A”.
+
+## 5  After subsection 16(2)
+
+Insert:
+
+Prescribed non‑CFI offsets scheme
+
+          (2A)  If the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme, the number worked out using the formula in subsection (2) is to be reduced by the number ascertained in accordance with the regulations.
+
+## 6  Before subsection 16(3)
+
+Insert:
+
+Rounding down
+
+## 7  After subsection 17(3)
+
+Insert:
+
+Prescribed non‑CFI offsets scheme
+
+          (3A)  If the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme, the number worked out using the formula in subsection (2) or (3) is to be reduced by the number ascertained in accordance with the regulations.
+
+## 8  At the end of section 18
+
+Add:
+
+Prescribed non‑CFI offsets scheme
+
+             (3)  If the project area for the project is or was, or the project areas for the project are or were, wholly or partly covered by a prescribed non‑CFI offsets scheme, the number of tonnes referred to in subsection (2) is to be reduced by the number ascertained in accordance with the regulations.
+
+## 9  Subparagraph 23(1)(e)(i)
+
+Omit “was, or the project areas for the project were”, substitute “is or was, or the project areas for the project are or were”.
+
+## 10  After subparagraph 23(1)(e)(i)
+
+Insert:
+
+                            (ia)  the prescribed non‑CFI offsets scheme is specified in regulations made for the purposes of this subparagraph; and
+
+## 11  Paragraph 27(4)(m)
+
+Omit “project; and”, substitute “project.”.
+
+## 12  Paragraph 27(4)(n)
+
+Repeal the paragraph.
+
+## 13  After subsection 41(4)
+
+Insert:
+
+          (4A)  Paragraph (1)(b) does not apply to a requirement of a kind specified in the regulations.
+
+          (4B)  Subsection (4A) does not, by implication, limit the application of subsection 13(3) of the _Legislative Instruments Act 2003_ to another instrument under this Act.
+
+## 14  At the end of section 41
+
+Add:
+
+Regulations
+
+             (6)  If:
+
+                     (a)  regulations specifying a particular kind of project were made for the purposes of paragraph (1)(a), in accordance with section 4 of the _Acts Interpretation Act 1901_, during the period:
+
+                              (i)  beginning at the commencement of section 1; and
+
+                             (ii)  ending at the commencement of section 3; and
+
+                     (b)  before recommending to the Governor‑General that those regulations should be made, the Minister requested the Interim Domestic Offsets Integrity Committee to advise the Minister about whether such a project should, or should not, be specified in those regulations; and
+
+                     (c)  the Minister had regard to any such advice;
+
+this Act has effect, and is taken always to have had effect, as if the Minister had, before recommending to the Governor‑General that those regulations should be made:
+
+                     (d)  requested the Domestic Offsets Integrity Committee to advise the Minister about whether such a project should, or should not, be specified in those regulations; and
+
+                     (e)  complied with paragraph (3)(c); and
+
+                      (f)  complied with subsection (5).
+
+## 15  At the end of subsection 95(2)
+
+Add:
+
+             ; and (c)  if the project is a landfill legacy emissions avoidance project—paragraph 41(1)(b) had not been enacted.
+
+## 16  Subsection 95(3)
+
+Omit “was, or the project areas were”, substitute “is or was, or the project areas are or were”.
+
+## 17  At the end of subsection 95(3)
+
+Add “that is specified in regulations made for the purposes of subparagraph 23(1)(e)(ia)”.
+
+## 18  Subsection 131(3) (heading)
+
+Repeal the heading, substitute:
+
+Effect
+
+## 19  At the end of section 131
+
+Add:
+
+             (4)  If:
+
+                     (a)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee published on the Department’s website:
+
+                              (i)  the proposal; and
+
+                             (ii)  a notice inviting the public to make a submission to the Committee on the proposal by a specified time limit; and
+
+                     (b)  the time limit was not shorter than 30 days;
+
+this Act has effect, and is taken always to have had effect, as if the Domestic Offsets Integrity Committee had complied with paragraph 112(5)(a) and subsection 112(6) in relation to the proposal.
+
+             (5)  If:
+
+                     (a)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee received any submissions in accordance with a notice referred to in subsection (4) in relation to the proposal; and
+
+                     (b)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee:
+
+                              (i)  considered the submissions; and
+
+                             (ii)  published the submissions on the Department’s website;
+
+this Act has effect, and is taken always to have had effect, as if the Domestic Offsets Integrity Committee had complied with paragraph 112(5)(b) and subsection 112(11) in relation to the proposal.
+
+             (6)  Subparagraph (5)(b)(ii) does not apply in relation to a particular submission made by a person if the person has requested the Interim Domestic Offsets Integrity Committee not to publish the submission on the ground that publication of the submission could reasonably be expected to substantially prejudice the commercial interests of the person or another person.
+
+             (7)  If:
+
+                     (a)  before the commencement of this section, the Interim Domestic Offsets Integrity Committee received any submissions in accordance with a notice referred to in subsection (4) in relation to a proposal; and
+
+                     (b)  paragraph (5)(b) does not apply in relation to the submissions;
+
+this Act has effect, and is taken always to have had effect, as if the Domestic Offsets Integrity Committee had received the submissions under subsection 112(5) within the time limit referred to in subparagraph 112(5)(a)(ii).
+
+## 20  After section 150
+
+Insert:
+
+##### <a id="150A"></a>150A  Ownership of Australian carbon credit unit
+
+             (1)  The registered holder of an Australian carbon credit unit:
+
+                     (a)  is the legal owner of the unit; and
+
+                     (b)  may, subject to this Act and the _Australian National Registry of Emissions Units Act 2011_, deal with the unit as its legal owner and give good discharges for any consideration for any such dealing.
+
+             (2)  Subsection (1) only protects a person who deals with the registered holder of the unit as a purchaser:
+
+                     (a)  in good faith for value; and
+
+                     (b)  without notice of any defect in the title of the registered holder.
+
+## 21  Subsection 152(1)
+
+After “Australian carbon credit unit”, insert “for which there is an entry in a Registry account”.
+
+## 22  Subsection 153(1)
+
+After “Australian carbon credit unit”, insert “for which there is an entry in a Registry account”.
+
+## 22A  After subsection 153(1)
+
+Insert:
+
+Effect of transmission
+
+          (1A)  The transmission is of no force until the Administrator transfers the Australian carbon credit unit under subsection (7) or (8).
+
+## 23  After section 157
+
+Insert:
+
+##### <a id="157A"></a>157A  Registration of equitable interests in relation to an Australian carbon credit unit
+
+             (1)  The regulations may make provision for or in relation to the registration in the Registry of equitable interests in relation to Australian carbon credit units.
+
+             (2)  Subsection (1) does not apply to an equitable interest that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
+
+## 24  Paragraph 162(a)
+
+Omit “before 31 December 2011”, substitute “within 6 months after the commencement of this section”.
+
+## 25  Subsection 257(3)
+
+Repeal the subsection, substitute:
+
+             (3)  The Minister must ensure that the Chair of the Domestic Offsets Integrity Committee is not a person covered by subsection (4).
+
+## 26  Subsection 257(6)
+
+Omit “one Domestic Offsets Integrity Committee member is an officer”, substitute “at least one, and not more than 2, Domestic Offsets Integrity Committee members are officers”.
+
+## 27  Paragraph 276(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  Low Carbon Australia Limited (ACN 141 478 748);
+
+                   (ba)  the Australian Transaction Reports and Analysis Centre;
+
+## 28  Section 280
+
+Omit “is already publicly available”, substitute “has already been lawfully made available to the public”.
+
+As at 30 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
