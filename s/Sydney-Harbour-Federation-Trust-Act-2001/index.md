@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00319/Html/8abbc363-472b-40eb-aff9-6c88a7909ed6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00560/Html/SydneyHarbFedTrust2001WD02_image001.gif)
 
 # Sydney Harbour Federation Trust Act 2001
 
 **Act No. 2 of 2001 as amended**
 
-**\[Note: This Act is to be repealed as soon as practicable after the end of 19 September 2033, _see_ section 66]**
+**\[Note: This Act is to be repealed as soon as practicable after the end of****19 September 2033****, _see_ section 66]**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 26 September 2007
+ taking into account amendments up to Act No. 151 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -16,7 +16,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -214,7 +214,7 @@ Preamble
 
                          The Parliament intends to conserve and preserve land in the Sydney Harbour region for the benefit of present and future generations of Australians. The land is being vacated by the Department of Defence and includes land at North Head, Middle Head, Georges Heights, Woolwich and Cockatoo Island. Suitable land with significant environmental and heritage values will be returned to the people of   Australia.
 
-                   The Parliament intends to establish the Sydney Harbour Federation Trust as a transitional body to manage the land and facilitate its return in good order. The Trust will transfer suitable land to New South Wales for inclusion in the national parks and reserves system.
+                   The Parliament intends to establish the Sydney Harbour Federation Trust as a transitional body to manage the land and facilitate its return in good order. The Trust will transfer suitable land to New   South Wales for inclusion in the national parks and reserves system.
 
 ## Part 1—Preliminary
 
@@ -250,8 +250,6 @@ is situated.
 
                     <a name="execut-director"></a>**_Executive Director_** means the Executive Director of the Trust.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="harbour-land"></a>**_Harbour land_** means land in the Sydney Harbour region and includes Sydney Harbour’s river systems, catchment area and North and South Head.
 
                     <a name="interest"></a>**_interest_**, in relation to land, means:
@@ -270,7 +268,7 @@ is situated.
 
                     <a name="plan-area"></a>**_plan area_** means the land covered by a plan under section 27.
 
-                    <a name="public-employe"></a>**_public employee_** means a person who is a full‑time member, officer or employee of:
+                    <a name="public-employe"></a>**_public employee_** means a person who is a full-time member, officer or employee of:
 
                      (a)  the Australian Public Service; or
 
@@ -356,9 +354,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (d)  to establish and manage suitable Trust land as a park on behalf of the Commonwealth as the national government;
 
-                     (e)  to co‑operate with other Commonwealth bodies that have a connection with any Harbour land in managing that land;
+                     (e)  to co-operate with other Commonwealth bodies that have a connection with any Harbour land in managing that land;
 
-                      (f)  to co‑operate with New South Wales, affected councils and the community in furthering the above objects.
+                      (f)  to co-operate with New   South Wales, affected councils and the community in furthering the above objects.
 
 ##### <a id="7"></a>7  Functions
 
@@ -372,7 +370,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (d)  to develop draft plans in respect of Trust land and any other Harbour land in furthering the objects, and performing other functions, of the Trust;
 
-                     (e)  to rehabilitate, remediate, develop, enhance and manage Trust land, by itself or in co‑operation with other institutions or persons, in accordance with the plans;
+                     (e)  to rehabilitate, remediate, develop, enhance and manage Trust land, by itself or in co-operation with other institutions or persons, in accordance with the plans;
 
                       (f)  to make recommendations to the Minister on:
 
@@ -396,7 +394,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  acquire, hold and dispose of real and personal property;
 
-                     (c)  enter into agreements with New South Wales and affected councils;
+                     (c)  enter into agreements with New   South Wales and affected councils;
 
                      (d)  accept gifts, grants, bequests and devises made to it;
 
@@ -452,13 +450,13 @@ then the Minister must invite New South Wales to recommend persons to be appoint
 
           (3A)  Another of the members must be an elected member of an affected council.
 
-             (4)  The Minister must not appoint a person as a member if, immediately after the appointment of the person, more than one‑half of the members of the Trust would be public employees.
+             (4)  The Minister must not appoint a person as a member if, immediately after the appointment of the person, more than one-half of the members of the Trust would be public employees.
 
              (5)  The appointment of a member is not invalid because of a defect or irregularity in connection with the member’s appointment.
 
 ##### <a id="13"></a>13  Terms of office of members
 
-             (1)  A member is to be appointed on a part‑time basis.
+             (1)  A member is to be appointed on a part-time basis.
 
              (2)  A member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
@@ -842,7 +840,7 @@ Note:          The Trust can also charge a reasonable fee for 
 
              (4)  A licence that is not for a fixed term must be revoked before a plan takes effect for any of the area over which the licence is granted.
 
-             (5)  If a lease or fixed‑term licence is in force for an area when a plan takes effect, then the plan takes effect except to the extent that it interferes with the operation of the lease or licence in that area.
+             (5)  If a lease or fixed-term licence is in force for an area when a plan takes effect, then the plan takes effect except to the extent that it interferes with the operation of the lease or licence in that area.
 
              (6)  A lease or licence that contravenes this section or subsection 38A(2) or (3) is void.
 
@@ -862,7 +860,7 @@ Note:          The Trust can also charge a reasonable fee for 
 
 ##### <a id="41"></a>41  Term of office of Executive Director
 
-             (1)  The Executive Director is to be appointed on a full‑time basis.
+             (1)  The Executive Director is to be appointed on a full-time basis.
 
              (2)  The Executive Director holds office for the period determined by the Minister on the recommendation of the Trust. The period must be specified in the instrument of appointment.
 
@@ -1068,7 +1066,7 @@ Note:          Subdivision B of Division 4 of Part 3 of th
 
              (1)  There is payable to the Trust such money as is appropriated by the Parliament.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Trust.
+             (2)  The Minister for Finance and Administration may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Trust.
 
 ##### <a id="60"></a>60  Application of money
 
@@ -1276,7 +1274,7 @@ all or any of the functions and powers conferred on the Trust by this Act.
 
 ##### <a id="73"></a>73  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1450,11 +1448,13 @@ _Note:       See subsection 21(1)._
   </td>
 </tr></table>
 
+ 
+
 # Notes to the _Sydney Harbour Federation Trust Act 2001_
 
 ### Note 1
 
-The _Sydney__ Harbour__ Federation Trust Act 2001_ as shown in this compilation comprises Act No. 2, 2001 amended as indicated in the Tables below.
+The _Sydney__ __Harbour__ Federation Trust Act 2001_ as shown in this compilation comprises Act No. 2, 2001 amended as indicated in the Tables below.
 
 For cessation details of this Act _see_ section 66.
 
@@ -1494,7 +1494,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Sydney Harbour Federation Trust Act 2001</div>
+    <div>Sydney  Harbour Federation Trust Act 2001</div>
   </td>
   <td>
     <div>2, 2001</div>
@@ -1559,23 +1559,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 209, 210): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1603,38 +1586,6 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 62</div>
   </td>
   <td>
@@ -1659,14 +1610,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 66</div>
   </td>
   <td>
@@ -1683,26 +1626,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 1</div>
   </td>
   <td>
     <div>am. No. 97, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1724,7 +1651,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -1732,12 +1659,14 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
+ 
 
  
