@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 7 August 2012
+This compilation was prepared on 29 June 2012
  taking into account amendments up to Act No. 87 of 2012
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
@@ -191,8 +191,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [88A](#88A).       Prescription of certain pharmaceutical benefits authorised only in certain circumstances
 
 [89](#89).          Pharmaceutical benefits to be supplied only on prescription etc 
-
-[89A](#89A).       When pharmaceutical benefits may be supplied by approved pharmacists without prescription
 
 [90](#90).          Approved pharmacists [_see_ Note 1]
 
@@ -1226,7 +1224,7 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
 
                     <a name="commun"></a>**_communicated_**, in relation to a prescription, means communicated directly or indirectly.
 
-                    <a name="commun-prescript"></a>**_communicated prescription_** means a prescription that is communicated to an approved pharmacist in the circumstances and manner set out in regulations made for the purposes of paragraph 89(a).
+                    <a name="commun-prescript"></a>**_communicated prescription_** means a prescription that is communicated to an approved pharmacist in the circumstances and manner set out in regulations made for the purposes of paragraph 89(a).
 
                     <a name="concession-beneficiari"></a>**_concessional beneficiary_** means:
 
@@ -1380,7 +1378,7 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
 
                     <a name="price-agreem"></a>**_price agreement_** means an agreement under section 85AD.
 
-                    <a name="price-determin"></a>**_price determination_** means a determination under subsection 85B(2).
+                    <a name="price-determin"></a>**_price determination_** means a determination under subsection 85B(2).
 
                     <a name="record-form"></a>**_record form_** means a pharmaceutical benefits prescription record form, or an out‑patient medication prescription record form, issued under section 84D.
 
@@ -2117,7 +2115,7 @@ Regulations
 
                     <a name="applic-amount"></a>**_applicable amount_**, in relation to a supply of out‑patient medication made by a public hospital to a person during a relevant entitlement period, means the amount that, under the determination applicable for that period, is to be taken to have been paid to the hospital for the supply of medication.
 
-##### <a id="84C"></a>84C  Eligibility for concession and entitlement cards
+##### <a id="84C"></a>84C  Eligibility for concession and entitlement cards
 
        (1AA)  A person who is both a general patient and an eligible person at any time during a relevant entitlement period is eligible to be issued with a concession card if:
 
@@ -2597,13 +2595,9 @@ Pharmaceutical benefits that can only be supplied under special arrangements
 
                      (c)  determine the manner of administration that may, in a prescription, be directed to be used in relation to the pharmaceutical benefit.
 
-          (2A)  The Minister may determine that particular conditions must be satisfied when writing a prescription to which a determination under paragraph (2)(a) or (b) applies.
-
              (3)  The regulations may make provision authorizing the variation of the application, in relation to persons included in a class of persons, of a determination under paragraph (2)(a) or (b) and, where such a variation is made, the determination shall be deemed to have effect as varied.
 
-          (3A)  The Minister may determine rules that must be applied when deciding whether to authorise a variation under regulations made for the purposes of subsection (3).
-
-             (4)  A determination made under subsection (1), (2), (2A) or (3A) is a legislative instrument.
+             (4)  A copy of each determination made by the Minister under this section shall be published in the _Gazette_.
 
 ##### <a id="85AB"></a>85AB  Minister may determine that a listed drug is on F1 or F2
 
@@ -2929,7 +2923,7 @@ Requirement in respect of prescription (other than communicated prescription) co
 
                      (c)  a medicare number is not retained in the approved supplier’s records in accordance with section 86D as such a number; and
 
-                     (d)  the approved supplier is satisfied that the person to whom the prescription relates is included within a class of persons identified by the Minister in a determination under subsection 86E(1);
+                     (d)  the approved supplier is satisfied that the person to whom the prescription relates is included within a class of persons identified by the Minister in a determination under subsection 86E(1);
 
 the approved supplier must:
 
@@ -2955,7 +2949,7 @@ the approved supplier must, after the written version of the prescription is rec
 
 Note 1:       Subsection 99(7) sets out the consequences of a failure ultimately to supply a medicare number or special number to the Chief Executive Medicare or, in the case of a medicare number that is so supplied, of a discrepancy with a medicare number held in the records of the Chief Executive Medicare.
 
-Note 2:       If, because a medicare number is not provided and a special number is not applicable, a person pays the full amount to an approved supplier for the supply of a pharmaceutical benefit, the person may be entitled to an appropriate refund from the Commonwealth (see subsection 87A(2)).
+Note 2:       If, because a medicare number is not provided and a special number is not applicable, a person pays the full amount to an approved supplier for the supply of a pharmaceutical benefit, the person may be entitled to an appropriate refund from the Commonwealth (see subsection 87A(2)).
 
 ##### <a id="86D"></a>86D  Power of approved suppliers to record and retain medicare numbers and expiry dates
 
@@ -3353,53 +3347,7 @@ PBS prescriber responsible for storage and security
 
 Note:       Sometimes the person will still be entitled to receive the pharmaceutical benefit if the pharmacist is approved later. See subsection 99(3B).
 
-                     (b)  in accordance with the provisions of section 89A, section 92, section 93, section 93AA, section 93A or section 94.
-
-##### <a id="89A"></a>89A  When pharmaceutical benefits may be supplied by approved pharmacists without prescription
-
-             (1)  An approved pharmacist may, at or from premises in respect of which the pharmacist is for the time being approved, supply a pharmaceutical benefit without a prescription for that supply if:
-
-                     (a)  the pharmaceutical benefit is covered by an instrument made under subsection (3); and
-
-                     (b)  the supply is made in accordance with conditions that are specified in an instrument made under subsection (3).
-
-             (2)  If an approved pharmacist makes a supply in accordance with subsection (1), then this Act (other than paragraph 89(a)) applies in relation to the supply as if:
-
-                     (a)  a person had presented the pharmacist with a prescription that:
-
-                              (i)  had been written by a PBS prescriber in accordance with this Act and the regulations; and
-
-                             (ii)  did not contain a medicare number; and
-
-                     (b)  a reference in this Part to a prescription for the supply of a pharmaceutical benefit to a person who is a holder of a concession card or an entitlement card included a reference to a supply made in accordance with subsection (1) to a person who is a holder of a concession card or an entitlement card on the day of the supply; and
-
-                     (c)  the following provisions were omitted:
-
-                              (i)  subsection 84(2A) and paragraph 84(10)(a);
-
-                             (ii)  section 84AA;
-
-                            (iii)  subparagraph 86B(3)(b)(i) and paragraph 86B(4)(e);
-
-                            (iv)  paragraphs 86C(3)(c) and (6)(e);
-
-                             (v)  paragraph 92A(1)(ca); and
-
-                     (d)  the words “, in accordance with section 84AA,” in the definitions of **_concessional benefit prescription_**, **_concession card prescription_** and **_entitlement card prescription_** in subsection 84(1) were omitted.
-
-             (3)  The Minister may, by legislative instrument, determine:
-
-                     (a)  the pharmaceutical benefits that may be supplied by an approved pharmacist without a prescription; and
-
-                     (b)  the conditions that must be satisfied when making a supply of those pharmaceutical benefits.
-
-             (4)  The Minister must publish statistics annually for each pharmaceutical item supplied under subsection (1).
-
-             (5)  The Minister must: 
-
-                     (a)  cause a written report to be prepared of a review of this section no more than two years from the commencement of the section; and
-
-                     (b)  cause a copy of the report to be laid before each House of the Parliament within six months of the commencement of the review.
+                     (b)  in accordance with the provisions of section 92, section 93, section 93AA, section 93A or section 94.
 
 ##### <a id="90"></a>90  Approved pharmacists<span style="font-size: 9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
@@ -3790,8 +3738,6 @@ the Secretary must, by notice in writing given to the person granted that permis
                      (a)  the pharmaceutical benefits or classes of pharmaceutical benefits that may be supplied under this section to patients receiving treatment in prescribed institutions; and
 
                      (b)  the conditions under which such pharmaceutical benefits may be supplied to, and held by, prescribed institutions.
-
-Note:          Subsection 33(3A) of the _Acts Interpretation Act 1901_ applies to a determination under subsection (2). This means that, for example, a determination could determine conditions for private hospitals that are different from conditions that are determined for residential care services.
 
              (3)  A copy of each determination made by the Minister under subsection (2) is to be published in the _Gazette_.
 
@@ -4373,11 +4319,11 @@ Subdivision CA sets out the circumstances in which price reductions are required
 
 Subdivision D provides for other price reductions for pharmaceutical items (including for combination items in some cases). These price reductions:
 
-<li class="BoxList" style="margin-left:21.25pt">(a)   are triggered when Subdivision
+<li class="BoxList" style="margin-left:21.25pt">(a)   are triggered when
 
-B applies to require a 16% price reduction to a new brand of a pharmaceutical
+Subdivision B applies to require a 16% price reduction to a new brand of a
 
-item; or</li>
+pharmaceutical item; or</li>
 
 <li class="BoxList" style="margin-left:21.25pt">(b)   are triggered when
 
@@ -4697,7 +4643,7 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image002.gif)
 
 Apportioning if quantities different
 
@@ -4807,7 +4753,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image002.gif)
 
 Section does not limit Minister’s powers
 
@@ -5332,7 +5278,7 @@ this section applies to the listed brand of the pharmaceutical item on 1 Augus
 
              (4)  The percentages prescribed for each brand of the pharmaceutical item must not total more than 25%.
 
-##### <a id="99ACL"></a>99ACL  Staged price reduction: staged reductions under section 99ACK causing statutory price reductions for other brands of pharmaceutical items having the drug
+##### <a id="99ACL"></a>99ACL  Staged price reduction: staged reductions under section 99ACK causing statutory price reductions for other brands of pharmaceutical items having the drug
 
              (1)  This section applies to a listed brand (the **_existing brand_**) of a pharmaceutical item (the **_existing item_**) on a day (the **_reduction day_**) if, on the reduction day:
 
@@ -5712,7 +5658,7 @@ Claimed price reduction
 
 then, for the purposes of that determination, on the reduction day the claimed price for the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image003.gif)
 
 where:
 
@@ -6360,7 +6306,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image004.gif)
 
 where:
 
@@ -6374,7 +6320,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image005.gif)
 
 where:
 
@@ -6426,7 +6372,7 @@ where:
 
 ##### <a id="99L"></a>99L  Determination of rules by Minister
 
-             (1)  The Minister must, by writing, determine the rules subject to which the Authority is to make recommendations under subsection 99K(1).
+             (1)  The Minister must, by writing, determine the rules subject to which the Authority is to make recommendations under subsection 99K(1).
 
              (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -7488,7 +7434,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00607/Html/0b58c468-65fc-43d8-8048-4ed8a7b14944_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00568/Html/6cbc5bb6-6a77-48f9-9471-a6a4d50d19ca_files/image006.gif)
 
 where:
 
@@ -11906,7 +11852,7 @@ Remainder: Royal Assent</div>
     <div>14 Nov 1995</div>
   </td>
   <td>
-    <div>1 Feb 1996 ( <i>see</i>s. 2 and <i>Gazette</i>1996, No. GN2)</div>
+    <div>1 Feb 1996 ( <i>see</i>s. 2 and <i>Gazette</i>1996, No. GN2)</div>
   </td>
   <td>
     <div>—</div>
@@ -12033,7 +11979,7 @@ Remainder: 1 Jan 1997</div>
     <div>17 Apr 1997</div>
   </td>
   <td>
-    <div>1 July 1997 ( <i>see</i>s. 2)</div>
+    <div>1 July 1997 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -12102,7 +12048,7 @@ Remainder: 1 Jan 1997</div>
     <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 5: (items 3, 4): <i>(zzja)</i></div>
+    <div>Schedule 5: (items 3, 4): <i>(zzja)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -12119,7 +12065,7 @@ Remainder: 1 Jan 1997</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 963–972): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(zzk)</i></div>
+    <div>Schedule 2 (items 963–972): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(zzk)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -12153,7 +12099,7 @@ Remainder: 1 Jan 1997</div>
     <div>11 Dec 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 345, 346):20 Mar 1998 <i>(zzm)</i></div>
+    <div>Schedule 1 (items 345, 346):20 Mar 1998 <i>(zzm)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 346) \[ <i>see</i>Table A]</div>
@@ -12170,8 +12116,8 @@ Remainder: 1 Jan 1997</div>
     <div>17 Apr 1998</div>
   </td>
   <td>
-    <div>Schedule 3 (items 2, 3): 1 May 1998 <i>(zzn)</i> 
-Schedule 3 (items 1, 4–16): Royal Assent <i>(zzn)</i></div>
+    <div>Schedule 3 (items 2, 3): 1 May 1998 <i>(zzn)</i> 
+Schedule 3 (items 1, 4–16): Royal Assent <i>(zzn)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -12188,10 +12134,10 @@ Schedule 3 (items 1, 4–16): Royal Assent <i>(zzn)</i></div>
     <div>24 Apr 1998</div>
   </td>
   <td>
-    <div>Schedules 1–3, Schedule 4 (items 1–14) and Schedules 5, 6, 9 and Schedule 10 (items 5, 8, 11): Royal Assent <i>(zzo)</i> 
-Schedule 4 (items 15–22): 1 July 1998 <i>(zzo)</i> 
+    <div>Schedules 1–3, Schedule 4 (items 1–14) and Schedules 5, 6, 9 and Schedule 10 (items 5, 8, 11): Royal Assent <i>(zzo)</i> 
+Schedule 4 (items 15–22): 1 July 1998 <i>(zzo)</i> 
 Schedule 10 (item 4): 16 Dec 1995 <i>(zzo)</i> 
-Schedule 10 (items 6, 7): 29 May 1995 <i>(zzo)</i> 
+Schedule 10 (items 6, 7): 29 May 1995 <i>(zzo)</i> 
 Schedule 10 (item 9): 16 Dec 1995 <i>(zzo)</i> 
 Schedule 10 (item 10): 1 Jan 1997 <i>(zzo)</i></div>
   </td>
@@ -12215,7 +12161,7 @@ Sch. 6 (item 13)
     <div>17 June 1998</div>
   </td>
   <td>
-    <div>Schedule 13 (items 43–47): 1 July 1998 <i>(zzp)</i></div>
+    <div>Schedule 13 (items 43–47): 1 July 1998 <i>(zzp)</i></div>
   </td>
   <td>
     <div>Sch. 13 (item 46) 
@@ -12267,7 +12213,7 @@ Sch. 6 (item 13)
     <div>9 Apr 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 43–49) and Schedule 3 (items 3, 4): 1 July 1999 <i>(zzs)</i></div>
+    <div>Schedule 2 (items 43–49) and Schedule 3 (items 3, 4): 1 July 1999 <i>(zzs)</i></div>
   </td>
   <td>
     <div>Sch. 3 (items 3, 4) \[ <i>see</i>Table A]</div>
@@ -12423,7 +12369,7 @@ Remainder: 18 Jan 2001</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 628–637): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(zzv)</i></div>
+    <div>Schedule 1 (items 628–637): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(zzv)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -12440,7 +12386,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 96–98): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(zzw)</i></div>
+    <div>Schedule 10 (items 96–98): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(zzw)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -12457,9 +12403,9 @@ Remainder: 18 Jan 2001</div>
     <div>8 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 and Schedule 2 (items 1–51): 1 Jan 2000 ( <i>see Gazette</i>1999, No. S635) <i>(zzx)</i> 
-Schedule 2 (items 52–64): <i>(zzx)</i> 
-Schedule 3 (items 71–80): 1 Jan 1999 <i>(zzx)</i></div>
+    <div>Schedule 1 and Schedule 2 (items 1–51): 1 Jan 2000 ( <i>see Gazette</i>1999, No. S635) <i>(zzx)</i> 
+Schedule 2 (items 52–64): <i>(zzx)</i> 
+Schedule 3 (items 71–80): 1 Jan 1999 <i>(zzx)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 13, 21, 51, 52) 
@@ -12477,7 +12423,7 @@ Sch. 2 (items 43, 45, 49–51, 64) \[ <i>see</i>Table A]</div>
     <div>27 June 2000</div>
   </td>
   <td>
-    <div>11 Aug 2000 ( <i>see Gazette</i>2000, No. S435)</div>
+    <div>11 Aug 2000 ( <i>see Gazette</i>2000, No. S435)</div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -12494,8 +12440,9 @@ Sch. 2 (items 43, 45, 49–51, 64) \[ <i>see</i>Table A]</div>
     <div>28 June 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 3–9, 11–15): 1 July 2000 
-Schedule 1 (items 2, 10): 30 June 2000 <i>(zzy)</i> 
+    <div>Schedule 1 (items 1, 3–9, 
+11–15): 1 July 2000 
+Schedule 1 (items 2, 10): 30 June 2000 <i>(zzy)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -12513,7 +12460,8 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -12568,7 +12516,7 @@ Schedule 3: <i>(zzz)
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 340–389): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zzza)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 340–389): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zzza)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -12654,8 +12602,8 @@ Schedule 3: <i>(zzz)
     <div>8 Oct 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–7): Royal Assent 
-Schedule 1 (items 8, 9): 5 Nov 2002</div>
+    <div>Schedule 1 (items 1–7): Royal Assent 
+Schedule 1 (items 8, 9): 5 Nov 2002</div>
   </td>
   <td>
     <div>—</div>
@@ -12706,13 +12654,13 @@ Schedule 1 (items 8, 9): 5 Nov 2002</div>
     <div>27 Feb 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–27): 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, S125) 
-Schedule 1 (items 28–40): 1 July 2004 
-Schedule 1 (items 58, 65–69, 71, 73): 23 Apr 2004 ( <i>see</i> <i>Gazette</i>2004, No. S125) 
+    <div>Schedule 1 (items 1–27): 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, S125) 
+Schedule 1 (items 28–40): 1 July 2004 
+Schedule 1 (items 58, 65–69, 71, 73): 23 Apr 2004 ( <i>see</i> <i>Gazette</i>2004, No. S125) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 17, 54, 59, 64, 73) 
+    <div>Sch. 1 (items 17, 54, 59, 64, 73) 
 Sch. 1 (item 28A) (ad. by 31, 2005, Sch. 2 \[item 1]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -12778,11 +12726,11 @@ Sch. 1 (item 28A) (ad. by 31, 2005, Sch. 2 \[item 1]) \[ <i>see</i>Table A
     <div>21 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–4, 7–22, 24–35): Royal Assent 
+    <div>Schedule 1 (items 1–4, 7–22, 24–35): Royal Assent 
 Schedule 2: 19 May 2004</div>
   </td>
   <td>
-    <div>Sch. 1 (items 10, 35) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 10, 35) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -12796,7 +12744,7 @@ Schedule 2: 19 May 2004</div>
     <div>27 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 3 (items 30–32): 1 July 2004 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 30–32): 1 July 2004 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -12831,7 +12779,7 @@ Schedule 2: 19 May 2004</div>
   </td>
   <td>
     <div>Schedule 1 (item 6): Royal Assent 
-Schedule 1 (items 7–14): 13 Jan 2005</div>
+Schedule 1 (items 7–14): 13 Jan 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -13047,8 +12995,8 @@ Remainder: Royal Assent</div>
     <div>3 May 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 3, 4) and Schedule 2: 1 July 2006 
-Schedule 1 (items 5, 6): <i> (zzzd) </i>  
+    <div>Schedule 1 (items 3, 4) and Schedule 2: 1 July 2006 
+Schedule 1 (items 5, 6): <i> (zzzd) </i>  
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -13135,11 +13083,11 @@ Remainder: Royal Assent</div>
     <div>30 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 Dec 2006 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1 and 2: 1 Dec 2006 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13153,7 +13101,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–7): 12 Dec 2006</div>
+    <div>Schedule 1 (items 4–7): 12 Dec 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -13239,8 +13187,8 @@ Remainder: Royal Assent</div>
     <div>28 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 12, 13, 36, 43): 1 Jan 2008 
-Schedule 2: 29 Sept 2007 
+    <div>Schedule 1 (items 12, 13, 36, 43): 1 Jan 2008 
+Schedule 2: 29 Sept 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -13261,7 +13209,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (items 1–3, 5): 1 April 2007 
 Schedule 1 (items 4–4B, 6): 29 Sept 2007 
 Schedule 2 (items 1–6, 8–11): 1 Aug 2007 
-Schedule 2 (item 7): <i> (zzze) </i> 
+Schedule 2 (item 7): <i> (zzze) </i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -13279,7 +13227,7 @@ Remainder: Royal Assent</div>
     <div>25 June 2008</div>
   </td>
   <td>
-    <div>Schedule 2: 26 June 2008 
+    <div>Schedule 2: 26 June 2008 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -13297,7 +13245,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 9 (items 15–29): 1 Jan 2009</div>
+    <div>Schedule 9 (items 15–29): 1 Jan 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -13314,7 +13262,7 @@ Remainder: Royal Assent</div>
     <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 43–45): 23 May 2009</div>
+    <div>Schedule 2 (items 43–45): 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -13331,7 +13279,7 @@ Remainder: Royal Assent</div>
     <div>25 June 2009</div>
   </td>
   <td>
-    <div>Schedule 11 (items 5–9): <i> (zzzf) </i></div>
+    <div>Schedule 11 (items 5–9): <i> (zzzf) </i></div>
   </td>
   <td>
     <div>—</div>
@@ -13383,8 +13331,8 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 67–112): 13 Apr 2010 
-Schedule 2 (items 19–21): 1 July 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 67–112): 13 Apr 2010 
+Schedule 2 (items 19–21): 1 July 2010 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -13401,7 +13349,7 @@ Schedule 2 (items 19–21): 1 July 2010 ( <i>see</i>s. 2(1))</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 39–46) and Schedule 7: <i>(zzzg)</i></div>
+    <div>Schedule 5 (items 39–46) and Schedule 7: <i>(zzzg)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
@@ -13454,7 +13402,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1: 1 Feb 2011 
-Schedules 2–4, Schedule 6 (items 1–27, 30–33) and Schedule 7: 1 Dec 2010 
+Schedules 2–4, Schedule 6 (items 1–27, 
+30–33) and Schedule 7: 1 Dec 2010 
 Schedule 5: 1 Apr 2012</div>
   </td>
   <td>
@@ -13508,10 +13457,10 @@ Schedule 4 (item 654): <i>(zzzh)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13525,7 +13474,7 @@ Schedule 4 (item 654): <i>(zzzh)</i></div>
     <div>26 July 2011</div>
   </td>
   <td>
-    <div>Schedule 3 (items 20–55): 27 July 2011</div>
+    <div>Schedule 3 (items 20–55): 27 July 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -13542,7 +13491,7 @@ Schedule 4 (item 654): <i>(zzzh)</i></div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2012</div>
+    <div>Schedules 1–3: \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 3) and Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
@@ -28534,7 +28483,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 131, 1980; No. 94, 1986; No. 111, 2007; No. 8, 2012</div>
+    <div>am. No. 131, 1980; No. 94, 1986; No. 111, 2007</div>
   </td>
 </tr>
 <tr>
@@ -28854,7 +28803,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 72, 1959; No. 60, 1976; No. 132, 1978; No. 94, 1986; No. 19, 1998; No. 169, 2007; No. 29, 2010 ; No. 8, 2012</div>
+    <div>am. No. 72, 1959; No. 60, 1976; No. 132, 1978; No. 94, 1986; No. 19, 1998; No. 169, 2007; No. 29, 2010</div>
   </td>
 </tr>
 <tr>
@@ -28863,14 +28812,6 @@ Part VII</div>
   </td>
   <td>
     <div>ad. No. 50, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89A</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2012</div>
   </td>
 </tr>
 <tr>
@@ -29055,14 +28996,6 @@ Part VII</div>
   </td>
   <td>
     <div>ad. No. 19, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 93A(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 8, 2012</div>
   </td>
 </tr>
 <tr>
@@ -32799,6 +32732,98 @@ Omit “section 105AC requires”, substitute “sections 105AC of this Act 
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
+### Note 3
+
+_National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012 (No. 8, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 1  Paragraph 89(b)
+
+After “provisions of”, insert “section 89A,”.
+
+## 2  After section 89
+
+Insert:
+
+##### <a id="89A"></a>89A  When pharmaceutical benefits may be supplied by approved pharmacists without prescription
+
+             (1)  An approved pharmacist may, at or from premises in respect of which the pharmacist is for the time being approved, supply a pharmaceutical benefit without a prescription for that supply if:
+
+                     (a)  the pharmaceutical benefit is covered by an instrument made under subsection (3); and
+
+                     (b)  the supply is made in accordance with conditions that are specified in an instrument made under subsection (3).
+
+             (2)  If an approved pharmacist makes a supply in accordance with subsection (1), then this Act (other than paragraph 89(a)) applies in relation to the supply as if:
+
+                     (a)  a person had presented the pharmacist with a prescription that:
+
+                              (i)  had been written by a PBS prescriber in accordance with this Act and the regulations; and
+
+                             (ii)  did not contain a medicare number; and
+
+                     (b)  a reference in this Part to a prescription for the supply of a pharmaceutical benefit to a person who is a holder of a concession card or an entitlement card included a reference to a supply made in accordance with subsection (1) to a person who is a holder of a concession card or an entitlement card on the day of the supply; and
+
+                     (c)  the following provisions were omitted:
+
+                              (i)  subsection 84(2A) and paragraph 84(10)(a);
+
+                             (ii)  section 84AA;
+
+                            (iii)  subparagraph 86B(3)(b)(i) and paragraph 86B(4)(e);
+
+                            (iv)  paragraphs 86C(3)(c) and (6)(e);
+
+                             (v)  paragraph 92A(1)(ca); and
+
+                     (d)  the words “, in accordance with section 84AA,” in the definitions of **_concessional benefit prescription_**, **_concession card prescription_** and **_entitlement card prescription_** in subsection 84(1) were omitted.
+
+             (3)  The Minister may, by legislative instrument, determine:
+
+                     (a)  the pharmaceutical benefits that may be supplied by an approved pharmacist without a prescription; and
+
+                     (b)  the conditions that must be satisfied when making a supply of those pharmaceutical benefits.
+
+             (4)  The Minister must publish statistics annually for each pharmaceutical item supplied under subsection (1).
+
+             (5)  The Minister must: 
+
+                     (a)  cause a written report to be prepared of a review of this section no more than two years from the commencement of the section; and
+
+                     (b)  cause a copy of the report to be laid before each House of the Parliament within six months of the commencement of the review.
+
+## Schedule 2
+
+## 1  At the end of subsection 93A(2)
+
+Add:
+
+Note:          Subsection 33(3A) of the _Acts Interpretation Act 1901_ applies to a determination under subsection (2). This means that, for example, a determination could determine conditions for private hospitals that are different from conditions that are determined for residential care services.
+
+## Schedule 3
+
+## 1  After subsection 85A(2)
+
+Insert:
+
+          (2A)  The Minister may determine that particular conditions must be satisfied when writing a prescription to which a determination under paragraph (2)(a) or (b) applies.
+
+## 2  After subsection 85A(3)
+
+Insert:
+
+          (3A)  The Minister may determine rules that must be applied when deciding whether to authorise a variation under regulations made for the purposes of subsection (3).
+
+## 3  Subsection 85A(4)
+
+Repeal the subsection, substitute:
+
+             (4)  A determination made under subsection (1), (2), (2A) or (3A) is a legislative instrument.
+
+As at 29 June 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, Saving or Transitional Provisions
@@ -32821,7 +32846,7 @@ _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997
 
 ## Schedule 1
 
-## 346  Saving: person transferred from sole parent pension to benefit PP (partnered)
+## 346  Saving: person transferred from sole parent pension to benefit PP (partnered)
 
              (1)  This item applies to a person:
 
@@ -33772,6 +33797,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 * * *
 
 _National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012 (No. 8, 2012)_
+
+The following provisions commence on 1 July 2012:
 
 ## Schedule 1
 
