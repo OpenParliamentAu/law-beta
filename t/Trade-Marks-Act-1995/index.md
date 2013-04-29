@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00161/Html/71f2cdfa-a5be-4b53-9e4f-bc4a8fb3cbbd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00067/Html/f09cc3e3-53a3-456b-9be0-3c6ba0afffcb_files/image001.gif)
 
 # Trade Marks Act 1995
 
 **Act No. 119 of 1995 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 5 January 2012
  taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force 
@@ -92,7 +92,7 @@ That Act is repealed by this Act. It contained the legislation that previously a
 
 The list of Acts cited above is not exhaustive. Other Acts may also affect the operation or interpretation of this Act. 
 
-![](http://www.comlaw.gov.au/Details/C2012C00161/Html/71f2cdfa-a5be-4b53-9e4f-bc4a8fb3cbbd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00067/Html/f09cc3e3-53a3-456b-9be0-3c6ba0afffcb_files/image002.gif)
 
 # Contents
 
@@ -416,7 +416,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
     **Division 2—Interests in, and rights in respect of, registered trade marks**
 
-[113](#113).        Application for registration of interest or right in trade mark
+[113](#113).        Application to have claims to interest etc  recorded
 
 [114](#114).        Record of claims to interest etc 
 
@@ -426,7 +426,7 @@ The list of Acts cited above is not exhaustive. Other Acts may also affect the o
 
     **Division 3—Interests in, and rights in respect of, unregistered trade marks**
 
-[117](#117).        Application for recording of interest or right in trade mark
+[117](#117).        Application to have claims to interest etc  recorded
 
 [118](#118).        Record of claims to interest etc 
 
@@ -1035,18 +1035,6 @@ Note:          See section 213.
 
                     <a name="person"></a>**_person_** includes a body of persons, whether incorporated or not.
 
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
                     <a name="precessor-titl"></a>**_predecessor in title_**, in relation to a person who claims to be the owner of a trade mark, means:
 
                      (a)  if the trade mark was assigned or transmitted to one or more than one other person before it was assigned or transmitted to the first‑mentioned person—that other person or any one of those other persons; or
@@ -1375,23 +1363,9 @@ Note:          For **_registered trade mark_** see section 6
 
 Note:          For **_registered owner_** see section 6.
 
-          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with a trade mark.
-
-Note:          For **_PPSA security interest_** see section 6.
-
              (3)  Equities in relation to a registered trade mark may be enforced against the registered owner, except to the prejudice of a purchaser in good faith for value.
 
 Note:          For **_registered owner_** and **_registered trade mark_** see section 6.
-
-             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
-
-Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as trade marks) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
-
-(a)    Part 2.5 (taking personal property free of security interests);
-
-(b)    Part 2.6 (priority between security interests);
-
-(c)    Chapter 4 (enforcement of security interests).
 
 ##### <a id="23"></a>23  Limitation on rights if similar trade marks etc. registered by different persons
 
@@ -3205,25 +3179,19 @@ Note:          For **_registered trade mark_** see section 6
 
 ### Division 2—Interests in, and rights in respect of, registered trade marks
 
-##### <a id="113"></a>113  Application for registration of interest or right in trade mark
+##### <a id="113"></a>113  Application to have claims to interest etc. recorded
 
-Scope
+             (1)  If:
 
-             (1)  This section applies in relation to an interest in, or right in respect of, a registered trade mark, if the interest or right may not be recorded in the Register under Part 10.
+                     (a)  a person (other than the registered owner of the trade mark) claims to have an interest in, or a right in respect of, a registered trade mark; and
 
-Application for registration of interest or right
+                     (b)  this interest or right may not be recorded in the Register under Part 10;
 
-             (2)  A person claiming the interest or right may apply to the Registrar to have particulars of the claim recorded in the Register.
+the person and the registered owner of the trade mark may together apply to the Registrar to have particulars of the claim recorded in the Register.
 
-             (3)  The application must:
+             (2)  The application must be in an approved form and must be filed in accordance with the regulations.
 
-                     (a)  be in an approved form; and
-
-                     (b)  be accompanied by proof to the reasonable satisfaction of the Registrar of the applicant’s entitlement to the claimed interest or right; and
-
-                     (c)  be filed in accordance with the regulations.
-
-Note:          For **_registered trade mark_**, **_approved form_** and **_file_** see section 6.
+Note:          For **_registered owner_**,**_registered trade mark_**,**_approved form_** and **_file_** see section 6.
 
 ##### <a id="114"></a>114  Record of claims to interest etc.
 
@@ -3247,25 +3215,19 @@ the Registrar must enter those particulars in the Register.
 
 ### Division 3—Interests in, and rights in respect of, unregistered trade marks
 
-##### <a id="117"></a>117  Application for recording of interest or right in trade mark
+##### <a id="117"></a>117  Application to have claims to interest etc. recorded
 
-Scope
+             (1)  If:
 
-             (1)  This section applies in relation to an interest in, or right in respect of, a trade mark, if a person has applied for the registration of the trade mark.
+                     (a)  a person has applied for the registration of a trade mark; and
 
-Application for recording of interest or right
+                     (b)  another person claims to have an interest in, or a right in respect of, the trade mark;
 
-             (2)  A person claiming the interest or right may apply to the Registrar for a record to be kept of the claim.
+they may together apply to the Registrar for a record to be kept of the other person’s claim.
 
-             (3)  The application must:
+             (2)  The application must be in an approved form and must be filed in accordance with the regulations.
 
-                     (a)  be in an approved form; and
-
-                     (b)  be accompanied by proof to the reasonable satisfaction of the Registrar of the applicant’s entitlement to the claimed interest or right; and
-
-                     (c)  be filed in accordance with the regulations.
-
-Note:          For **_registered trade mark_**, **_approved form_** and **_file_** see section 6.
+Note:          For **_approved form_** and **_file_** see section 6.
 
 ##### <a id="118"></a>118  Record of claims to interest etc.
 
@@ -3459,7 +3421,7 @@ Note:          For **_prescribed court_** see section 190.
 
                      (b)  at the option of the plaintiff but subject to section 127, damages or an account of profits.
 
-##### <a id="127"></a>127  Special case—plaintiff not entitled to damages etc.
+##### <a id="127"></a>127  Special case—plaintiff not entitled to damages etc.
 
                    If:
 
@@ -3849,7 +3811,7 @@ Note 2:       For **_month_** see section 6.
 
 ##### <a id="144"></a>144  Modification in relation to Norfolk Island etc.
 
-                   The regulations may provide for the modification or adaptation of this Part in its application to:
+                   The regulations may provide for the modification or adaptation of this Part in its application to:
 
                      (a)  Norfolk Island; or
 
@@ -4838,12 +4800,6 @@ Note:          See section 116 about records of claims to in
              (2)  A copy of, or an extract from, the Register that is certified by the Registrar to be a true record or extract is admissible in any proceedings as if it were the original.
 
              (3)  If the Register or a part of the Register is kept by using a computer, a document certified by the Registrar as reproducing in writing a computer record of all or any of the particulars comprised in the Register or in that part of the Register is admissible in any proceedings as evidence of those particulars.
-
-             (4)  This section does not apply in relation to any particular or other matter entered in the Register in relation to a PPSA security interest.
-
-Note 1:       For **_PPSA security interest_** see section 6.
-
-Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
 ##### <a id="211"></a>211  Evidence—certified copies of documents
 
@@ -6191,7 +6147,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 18–24): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 2 (items 18–24): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 24)</div>
@@ -6225,7 +6181,7 @@ Remainder: Royal Assent</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 30): <i>(f)</i></div>
+    <div>Schedule 3 (item 30): \[ <i>see</i> <i>(f)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -6479,7 +6435,8 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
   </td>
   <td>
     <div>
-      30 January 2012
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -6552,7 +6509,7 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 91, 1997; No. 100, 1998; Nos. 144 and 146, 1999; No. 117, 2000; No. 99, 2001; No. 48, 2003; Nos. 106 and 114, 2006; No. 131, 2009; Nos. 96, 98 and 103, 2010</div>
+    <div>am. No. 91, 1997; No. 100, 1998; Nos. 144 and 146, 1999; No. 117, 2000; No. 99, 2001; No. 48, 2003; Nos. 106 and 114, 2006; Nos. 98 and 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6600,7 +6557,7 @@ _(f)_      Subsection 2(1) (item 19) of the _Personal Property Securit
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 114, 2006; No. 131, 2009</div>
+    <div>am. No. 114, 2006</div>
   </td>
 </tr>
 <tr>
@@ -7360,46 +7317,6 @@ Part 8</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 117</div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 12</b></div>
   </td>
   <td>
@@ -8091,22 +8008,6 @@ Relocated from s. 155(2)</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 20</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 210</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 21</b></div>
   </td>
   <td>
@@ -8337,6 +8238,145 @@ Relocated from s. 155(2)</div>
     <div>am. No. 91, 1997</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 2
+
+## 18  Section 6
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means:
+
+                     (a)  a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act); or
+
+                     (b)  a transitional security interest within the meaning of that Act, and to which Division 4 of Part 9.4 of that Act applies.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
+
+## 19  After subsection 22(2)
+
+Insert:
+
+          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with a trade mark.
+
+Note:          For **_PPSA security interest_** see section 6.
+
+## 20  At the end of section 22
+
+Add:
+
+             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
+
+Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as trade marks) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
+
+(a)    Part 2.5 (taking personal property free of security interests);
+
+(b)    Part 2.6 (priority between security interests);
+
+(c)    Chapter 4 (enforcement of security interests).
+
+## 21  Section 113
+
+Repeal the section, substitute:
+
+##### <a id="113"></a>113  Application for registration of interest or right in trade mark
+
+Scope
+
+             (1)  This section applies in relation to an interest in, or right in respect of, a registered trade mark, if the interest or right may not be recorded in the Register under Part 10.
+
+Application for registration of interest or right
+
+             (2)  A person claiming the interest or right may apply to the Registrar to have particulars of the claim recorded in the Register.
+
+             (3)  The application must:
+
+                     (a)  be in an approved form; and
+
+                     (b)  be accompanied by proof to the reasonable satisfaction of the Registrar of the applicant’s entitlement to the claimed interest or right; and
+
+                     (c)  be filed in accordance with the regulations.
+
+Note:          For **_registered trade mark_**, **_approved form_** and **_file_** see section 6.
+
+## 22  Section 117
+
+Repeal the section, substitute:
+
+##### <a id="117"></a>117  Application for recording of interest or right in trade mark
+
+Scope
+
+             (1)  This section applies in relation to an interest in, or right in respect of, a trade mark, if a person has applied for the registration of the trade mark.
+
+Application for recording of interest or right
+
+             (2)  A person claiming the interest or right may apply to the Registrar for a record to be kept of the claim.
+
+             (3)  The application must:
+
+                     (a)  be in an approved form; and
+
+                     (b)  be accompanied by proof to the reasonable satisfaction of the Registrar of the applicant’s entitlement to the claimed interest or right; and
+
+                     (c)  be filed in accordance with the regulations.
+
+Note:          For **_registered trade mark_**, **_approved form_** and **_file_** see section 6.
+
+## 23  At the end of section 210
+
+Add:
+
+             (4)  This section does not apply in relation to any particular or other matter entered in the Register in relation to a PPSA security interest.
+
+Note 1:       For **_PPSA security interest_** see section 6.
+
+Note 2:       Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
+
+As at 5 January 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+
+The following amendment commences immediately after 30 January 2012:
+
+## Schedule 3
+
+## 30  Section 6 (definition of _PPSA security interest_)
+
+Repeal the definition, substitute:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+_Note:       This amendment replaces the definition inserted by item 18 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
+
+As at 5 January 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8589,7 +8629,7 @@ The amendments made by item 50 apply to notices given under section 132 of t
 
 The amendment made by item 61 applies to information published or otherwise made available after the commencement of this item.
 
-## 69  Application
+## 69  Application
 
 The amendments made by items 66 and 68 apply to applications made after the commencement of this item.
 
@@ -8633,6 +8673,8 @@ The amendment made by item 84 applies to trade marks whose registration expire
 
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
+
+The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 2
 
