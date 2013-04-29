@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00577/Html/35af9e1c-f22c-4d22-85f5-e0a97175740b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00454/Html/SuperSuperLevyImpos98WD02_image001.gif)
 
 # Superannuation Supervisory Levy Imposition Act 1998
 
 **Act No. 60 of 1998 as amended**
 
-This compilation was prepared on 31 July 2012
- taking into account amendments up to Act No. 92 of 2012
+This compilation was prepared on 6 July 2010
+ taking into account amendments up to Act No. 82 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -54,7 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act binds the Crown in each of its capacities.
 
-##### <a id="4"></a>4  External Territories
+##### <a id="4"></a>4  External  Territories
 
                    This Act extends to each external Territory.
 
@@ -126,7 +126,7 @@ Note:          The unrestricted levy percentage is as determin
 
              (2)  If the levy imposition day for the trustee of a superannuation entity for the financial year is later than 1 July in the financial year, the amount of levy payable by the trustee for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00577/Html/35af9e1c-f22c-4d22-85f5-e0a97175740b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00454/Html/SuperSuperLevyImpos98WD02_image002.gif)
 
              (3)  The Treasurer is, by legislative instrument, to determine:
 
@@ -144,13 +144,11 @@ Note:          The unrestricted levy percentage is as determin
 
           (4A)  A determination under subsection (3) may make different provision for different classes of superannuation entity.
 
-             (5)  Without limiting subsection (3), the Treasurer may make more than one determination, for a financial year, about any or all of the matters referred to in that subsection.
-
 ##### <a id="8"></a>8  Calculation of indexation factor
 
              (1)  The indexation factor for a financial year is the number worked out by:
 
-                     (a)  dividing the index number for the March quarter immediately preceding that financial year by the index number for the March quarter immediately preceding that first‑mentioned March quarter; and
+                     (a)  dividing the index number for the March quarter immediately preceding that financial year by the index number for the March quarter immediately preceding that first-mentioned March quarter; and
 
                      (b)  adding 0.030 to the number worked out under paragraph (a).
 
@@ -164,7 +162,7 @@ Note:          The unrestricted levy percentage is as determin
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations for the purposes of subsection 2(2).
+                   The Governor-General may make regulations for the purposes of subsection 2(2).
 
 # Notes to the _Superannuation Supervisory Levy Imposition Act 1998_
 
@@ -338,23 +336,6 @@ of Assent</div>
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Supervisory Levy Imposition Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>92, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 2)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -393,7 +374,7 @@ of Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 37, 2002; No. 18, 2005; No. 154, 2007; No. 82, 2010; No. 92, 2012</div>
+    <div>am. No. 37, 2002; No. 18, 2005; No. 154, 2007; No. 82, 2010</div>
   </td>
 </tr>
 <tr>
@@ -431,7 +412,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
-(1)       The regulations may deal with matters of a transitional, saving or application nature relating to:
+(1)        The regulations may deal with matters of a transitional, saving or application nature relating to:
 
                      (a)  the transition from the application of provisions of the replaced legislation to the application of provisions of the _Banking Act 1959_, the _Life Insurance Act 1995_, the _Financial Sector (Transfers of Business) Act 1999_, the _Financial Sector (Shareholdings) Act 1998_ or the _Australian Prudential Regulation Authority Act 1998_; or
 
@@ -439,7 +420,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  the amendments and repeals made by the Schedules to this Act.
 
-(2)       Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
+(2)        Without limiting subitem (1), the regulations may provide for a matter to be dealt with, wholly or partly, in any of the following ways:
 
                      (a)  by applying (with or without modifications) to the matter:
 
@@ -453,9 +434,9 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  by specifying a particular consequence of the matter, or of an outcome of the matter, for the purposes of a law of the Commonwealth.
 
-(3)       Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
+(3)        Without limiting subitems (1) and (2), the regulations may provide for the continued effect, for the purposes of a provision of a law of the Commonwealth, of a thing done or instrument made, or a class of things done or instruments made, before the transfer date under or for the purposes of a provision of a law of a State or Territory. In the case of an instrument or class of instruments, the regulations may provide for the instrument or instruments to continue to have effect subject to modifications.
 
-(4)       Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
+(4)        Without limiting subitem (3), regulations providing for the continued effect of things done or instruments made may permit all or any of the following matters to be determined in writing by a specified person, or by a person included in a specified class of persons:
 
                      (a)  the identification of a thing done or instrument made, or a class of things done or instruments made, that is to continue to have effect;
 
@@ -463,15 +444,15 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (c)  any modifications subject to which an instrument made, or a class of instruments made, is to continue to have effect.
 
-(5)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
+(5)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations for the purposes of this item:
 
                      (a)  may be expressed to take effect from a date before the regulations are notified in the _Gazette_; and
 
                      (b)  may provide for a determination of a kind referred to in subitem (4) to take effect from a date before the determination is made (including a date before the regulations are notified in the _Gazette_).
 
-(6)       In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
+(6)        In this item, a reference to a **_law_**, whether of the Commonwealth or of a State or Territory, includes a reference to an instrument made under such a law.
 
-(7)       In this item:
+(7)        In this item:
 
                     <a name="replac-legisl"></a>**_replaced legislation_** means:
 
@@ -487,13 +468,13 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                       (f)  the **Friendly Societies (Victoria) Act 1996**of Victoria, and any Act of another State or of a Territory that provides for the application, as a law of the State or Territory, of the Code set out in the Schedule to the **Friendly Societies (Victoria) Act 1996**of Victoria; and
 
-                     (g)  the _Friendly Societies (Western Australia) Act 1999_; and
+                     (g)  the _Friendly Societies (__Western   Australia__) Act 1999_; and
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
 ## 23  Power to make regulations
 
-The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
 * * *
 
@@ -503,11 +484,11 @@ _Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
 ## 42  Application provisions
 
-(1)       The _Superannuation (Excluded Funds) Taxation Act 1987_ continues to apply to the lodgment of a return in respect of the 1998‑99 year of income as if the repeals and amendments of provisions of that Act made by this Schedule had not happened.
+(1)        The _Superannuation (Excluded Funds) Taxation Act 1987_ continues to apply to the lodgment of a return in respect of the 1998-99 year of income as if the repeals and amendments of provisions of that Act made by this Schedule had not happened.
 
-(2)       The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
+(2)        The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
 
-(3)       Until 1 April 2000, the _Superannuation (Resolution of Complaints) Act 1993_ continues to apply to a fund that was an excluded fund immediately before the later of:
+(3)        Until 1 April 2000, the _Superannuation (Resolution of Complaints) Act 1993_ continues to apply to a fund that was an excluded fund immediately before the later of:
 
                      (a)  1 July 1999; and
 
@@ -529,17 +510,6 @@ The amendments made by this Schedule apply in relation to levy payable for:
                      (a)  the financial year commencing on 1 July 2005; and
 
                      (b)  each succeeding financial year.
-
-* * *
-
-_Superannuation Supervisory Levy Imposition Amendment Act 2012 
- (No. 92, 2012)_
-
-## Schedule 1
-
-## 2  Application
-
-The amendment made by this Schedule applies from 1 July 2012.
 
  
 
