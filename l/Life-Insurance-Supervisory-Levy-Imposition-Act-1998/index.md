@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00548/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00564/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
 
 # Life Insurance Supervisory Levy Imposition Act 1998
 
 **Act No. 57 of 1998 as amended**
 
-This compilation was prepared on 17 October 2008
- taking into account amendments up to Act No. 92 of 2008
+This compilation was prepared on 27 September 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Act binds the Crown
 
-                   This Act binds the Crown in each of its capacities.
+                   This Act binds the Crown in each of its capacities.
 
 ##### <a id="4"></a>4  External  Territories
 
@@ -106,7 +106,7 @@ Note:          The unrestricted levy percentage is as determin
 
              (2)  If the levy imposition day for the life insurance company for the financial year is later than 1 July in the financial year, the amount of levy payable by the life insurance company for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00548/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00564/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
 
              (3)  The Treasurer is, by legislative instrument, to determine:
 
@@ -257,23 +257,6 @@ of Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>First Home Saver Accounts (Further Provisions) Amendment Act 2008</div>
-    </td>
-    <td>
-      <div>92, 2008</div>
-    </td>
-    <td>
-      <div>30 Sept 2008</div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 6): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 ## Table of Amendments
@@ -324,30 +307,13 @@ of Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_First Home Saver Accounts (Further Provisions) Amendment Act 2008
- (No. 92, 2008)_
-
-The following amendment commences on 1 July 2009:
-
-## Schedule 3
-
-## 6  After subsection 7(4)
-
-Insert:
-
-          (4A)  An amount determined under paragraph (3)(d) as a life insurance company’s asset value must exclude an amount equal to the total balances of all FHSAs (within the meaning of the _First Home Saver Accounts Act 2008_) provided by the life insurance company.
-
-As at 17 October 2008 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)_
 
-## Schedule 8
+<h7 class="ActHead7">Schedule 8</h7>
 
 ## 22  Regulations may deal with transitional, saving or application matters
 
@@ -420,7 +386,7 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
 _Life Insurance Supervisory Levy Imposition Amendment Act 2005 
  (No. 16, 2005)_
 
-## Schedule 1
+<h7 class="ActHead7">Schedule 1</h7>
 
 ## 7  Application and transitional
 
