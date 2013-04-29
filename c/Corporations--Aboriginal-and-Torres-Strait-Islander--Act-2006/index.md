@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00079/Html/1cad5b77-8c87-430a-b4d6-890c8874e44b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00400/Html/478057e5-0dbb-427a-a27f-c013b9d41430_files/image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 30 January 2013
- taking into account amendments up to Act No. 180 of 2012
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -65,7 +66,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [6‑50](#6‑50).       External administration
 
-[6‑55](#6‑55).       Transfer of registration, deregistration and unclaimed property
+[6‑55](#6‑55).       Transfer of registration, deregistration and unclaimed 
+ property
 
 [6‑60](#6‑60).       Offences
 
@@ -649,7 +651,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [201‑120](#201‑120). Objections to right to vote (replaceable rule—see section 60‑1)
 
-[201‑125](#201‑125). How voting is carried out (replaceable rule—see section 60‑1)
+[201‑125](#201‑125). How voting is carried out (replaceable rule—see 
+ section 60‑1)
 
 [201‑130](#201‑130). Matters on which a poll may be demanded
 
@@ -1249,7 +1252,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [418‑5](#418‑5).     Form of registers
 
-[418‑10](#418‑10).   Register of Aboriginal and Torres Strait Islander Corporations
+[418‑10](#418‑10).   Register of Aboriginal and Torres Strait Islander 
+ Corporations
 
 [418‑15](#418‑15).   Register of Disqualified Officers
 
@@ -1967,7 +1971,7 @@ The Parliament of Australia enacts:
 
              (2)  Each provision of this Act applies, according to its tenor, in relation to acts and omissions outside this jurisdiction.
 
-##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
+##### <a id="1‑20"></a>1‑20  Act applies regardless of residence, place of formation etc.
 
                    Each provision of this Act applies according to its tenor to:
 
@@ -2033,7 +2037,7 @@ Note:       Many of the provisions in this Act apply only in relatio
 
              (2)  Chapter 4 also deals with the register of members that the corporation is required to keep, and with protection of the rights and interests of members of the corporation.
 
-##### <a id="6‑20"></a>6‑20  Meetings
+##### <a id="6‑20"></a>6‑20  Meetings
 
              (1)  Chapter 5 sets out some rules for the calling and holding of general meetings and annual general meetings of an Aboriginal and Torres Strait Islander corporation.
 
@@ -3067,7 +3071,7 @@ Note 2:       For abbreviations that can be used on a seal, see sect
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
+##### <a id="42‑30"></a>42‑30  Vesting of property in corporation on registration
 
 Application of section
 
@@ -4700,7 +4704,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 to the effect that the special resolution was passed in accordance with the internal governance rules.
 
-Note:          A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of subsection (1) or (2). See sections 265‑40 and 386‑10.
+Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
 ##### <a id="69‑25"></a>69‑25  Special administrator to lodge copy of constitutional changes
 
@@ -5211,7 +5215,7 @@ with the Registrar within 28 days after the resolution is passed.
 
                     Penalty:  5 penalty units.
 
-Note:          A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of this section. See sections 265‑40 and 386‑10.
+Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
              (3)  An offence against subsection (2) is an offence of strict liability.
 
@@ -5505,7 +5509,7 @@ Note:          If the corporation is not to be the occupier of
 
 Note 1:       For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-Note 2:       A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of subsection (5), (6) or (7). See sections 265‑40 and 386‑10.
+Note 2:       See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
 ##### <a id="112‑10"></a>112‑10  Registrar may change address of registered office to a director’s address
 
@@ -5913,7 +5917,7 @@ Note:          Section 158‑5 deals with observers.
 
 ### Division 147—Obligations of members
 
-##### <a id="147‑1"></a>147‑1  Obligation to contribute on winding up
+##### <a id="147‑1"></a>147‑1  Obligation to contribute on winding up
 
                    If an Aboriginal and Torres Strait Islander corporation’s constitution provides that the members must contribute to the property of the corporation on winding up then the members must so contribute. Otherwise, the members are not liable to contribute.
 
@@ -6847,7 +6851,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
 Note 1:       For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-Note 2:       A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of this section. See sections 265‑40 and 386‑10.
+Note 2:       See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
 ##### <a id="180‑40"></a>180‑40  Correction of register of members or register of former members
 
@@ -8633,7 +8637,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
                     Penalty:  10 penalty units.
 
-##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
+##### <a id="257‑40"></a>257‑40  Effectiveness of acts by secretaries
 
              (1)  An act done by a secretary is effective even if his or her appointment, or the continuance of his or her appointment, is invalid because the Aboriginal and Torres Strait Islander corporation or secretary did not comply with the corporation’s constitution or any provision of this Act.
 
@@ -8863,29 +8867,31 @@ Use of information—directors, other officers and employees
 
 ##### <a id="265‑40"></a>265‑40  Responsibility of secretaries for certain contraventions
 
-Responsibilities of secretaries
+             (1)  A secretary of an Aboriginal and Torres Strait Islander corporation commits an offence if the corporation contravenes:
 
-             (1)  A secretary of an Aboriginal and Torres Strait Islander corporation contravenes this subsection if the corporation contravenes any of the following provisions:
+                     (a)  subsection 69‑20(1) or (2) (requirement to lodge copy of constitutional changes); or
 
-                     (a)  subsection 69‑20(1) or (2) (requirement to lodge copy of constitutional changes);
+                     (b)  section 88‑1 (requirement to lodge material about change of name); or
 
-                     (b)  section 88‑1 (requirement to lodge material about change of name);
+                     (c)  subsection 112‑5(5), (6) or (7) (requirements about registered office); or
 
-                     (c)  subsection 112‑5(5), (6) or (7) (requirements about registered office);
+                     (d)  section 180‑35 (requirement to give copy of register of members or register of former members); or
 
-                     (d)  section 180‑35 (requirement to give copy of register of members or register of former members);
+                     (e)  subsection 304‑5(1), (3), (5) or (6) (requirement to lodge details of directors and secretaries); or
 
-                     (e)  subsection 304‑5(1), (3), (5) or (6) (requirement to lodge details of directors and secretaries);
-
-                      (f)  section 330‑10 (requirement to lodge general report);
+                      (f)  section 330‑10 (requirement to lodge general report); or
 
                      (g)  section 348‑1 (requirement to lodge annual report).
 
-Note:          This subsection is a civil penalty provision (see section 386‑1).
+                    Penalty:  5 penalty units.
 
-Defence of reasonable steps
+             (2)  An offence based on subsection (1) is an offence of strict liability.
 
-             (2)  A person does not contravene subsection (1) in relation to a corporation’s contravention of a provision mentioned in that subsection if the person shows that he or she took reasonable steps to ensure that the corporation complied with the provision.
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (3)  A person does not contravene subsection (1) if they show that they took all reasonable steps to ensure that the corporation complied with the section.
+
+Note:          A defendant bears a legal burden in relation to a matter mentioned in subsection (3) (see section 13.4 of the _Criminal Code_).
 
 ##### <a id="265‑45"></a>265‑45  Meaning of reasonable reliance on information or advice provided by others
 
@@ -9951,7 +9957,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The corporation must lodge a notice setting out the text of the resolution within 28 days after the resolution is passed.
 
-##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
+##### <a id="290‑50"></a>290‑50  Declaration by court of substantial compliance
 
              (1)  The Court may declare that the conditions provided for in this Division have been satisfied if it finds that they have been substantially satisfied.
 
@@ -10123,7 +10129,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note 1:       For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-Note 2:       A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of subsection (1), (3), (5) or (6). See sections 265‑40 and 386‑10.
+Note 2:       See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
 ##### <a id="304‑10"></a>304‑10  Director, alternate director, secretary and contact person must give information to corporation
 
@@ -10543,7 +10549,7 @@ Note 2:       Unless exempted, failure to lodge the general report w
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-Note:          A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of this section. See sections 265‑40 and 386‑10.
+Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
              (2)  The time for lodgment is:
 
@@ -11455,7 +11461,7 @@ The Corporations Act auditor independence provisions apply with the modification
 
 #### Subdivision 339‑E—Auditor’s powers and duties
 
-##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
+##### <a id="339‑85"></a>339‑85  Auditor’s power to obtain information
 
                    The auditor:
 
@@ -11733,7 +11739,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     Penalty:  25 penalty units or imprisonment for 6 months, or both.
 
-Note:          A secretary of an Aboriginal and Torres Strait Islander corporation may be liable for a civil penalty for a contravention of this section. See sections 265‑40 and 386‑10.
+Note:          See also section 265‑40 for offences committed by the secretary of an Aboriginal and Torres Strait Islander corporation.
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
@@ -12161,8 +12167,6 @@ Meaning of **civil penalty provisions**and declarations
 
                      (a)  subsections 265‑1(1), 265‑5(1) and (2), 265‑10(1) and (2) and 265‑15(1) and (2) (officers’ duties);
 
-                    (aa)  subsection 265‑40(1) (secretaries’ responsibilities);
-
                      (b)  subsection 284‑5(2)(related parties rules);
 
                      (c)  subsection 363‑1(1) (requirements for record keeping and reports);
@@ -12206,10 +12210,6 @@ Pecuniary penalties
                              (ii)  materially prejudices the ability of the Aboriginal and Torres Strait Islander corporation affected by the contravention to pay its creditors; or
 
                             (iii)  is serious.
-
-Responsibilities of secretaries for certain corporate contraventions
-
-          (1A)  Without limiting subsection (1), if a declaration of contravention by a person of subsection 265‑40(1) has been made under section 386‑1, a Court may order the person to pay the Commonwealth a pecuniary penalty of up to $3,000.
 
 Penalty a civil debt etc.
 
@@ -13147,7 +13147,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ### Division 450—Purposes for which powers under this Part may be exercised
 
-##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
+##### <a id="450‑1"></a>450‑1  Purposes for which power under this Part may be exercised
 
                    A power conferred by this Part may only be exercised:
 
@@ -20059,23 +20059,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Liability for Corporate Fault Reform Act 2012</div>
-  </td>
-  <td>
-    <div>180, 2012</div>
-  </td>
-  <td>
-    <div>10 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 7–16): 11 Dec 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
@@ -20302,22 +20285,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Division 69</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 69‑20</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3‑4</b></div>
   </td>
   <td>
@@ -20338,46 +20305,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No. 127, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 88</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 88‑1(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3‑7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 112</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 112‑5</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
@@ -20442,30 +20369,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4‑5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 180</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 180‑35</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
@@ -20566,22 +20469,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Division 265</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 265‑40</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6‑5</b></div>
   </td>
   <td>
@@ -20630,30 +20517,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Part 6‑7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 304</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 304‑5</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Chapter 7</b></div>
   </td>
   <td>
@@ -20670,22 +20533,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Division 330</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 330‑10(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 333</b></div>
   </td>
   <td>
@@ -20698,54 +20545,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No. 38, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 348</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 348‑1(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 386</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 386‑1</div>
-  </td>
-  <td>
-    <div>am. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 386‑10</div>
-  </td>
-  <td>
-    <div>am. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
