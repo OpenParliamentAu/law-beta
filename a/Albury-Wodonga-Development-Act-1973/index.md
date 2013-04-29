@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01843/Html/AlburyWodongaDev73_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01842/Html/AlburyWodongaDev73_image001.gif)
 
 # Albury-Wodonga Development Act 1973
 
 **Act No. 189 of 1973 as amended**
 
-This compilation was prepared on 22 October 2001
- taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 2 June 2000 
+ taking into account amendments up to Act No. 46 of 2000
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -26,8 +26,6 @@ Prepared by the Office of Legislative Drafting,
 [4](#4).            Act to bind Crown                                                                               2
 
 [5](#5).            Powers of Australian Minister [_see_ Note 2]                                       2
-
-[5AA](#5AA).      Application of the _Criminal Code_                                                       2
 
 **Part IA—Albury-Wodonga Area Development Winding-up Agreement**
 
@@ -75,7 +73,7 @@ Prepared by the Office of Legislative Drafting,
 
 [16](#16).          Disclosure of interest by members                                                    11
 
-[17](#17).          Condition of service—appointed member                                         12
+[17](#17).          Condition of service—appointed member                                         11
 
 [18](#18).          Acting appointments                                                                         12
 
@@ -107,71 +105,95 @@ Prepared by the Office of Legislative Drafting,
 
 **Part VII—Miscellaneous**
 
-[32](#32).          Annual Report                                                                                   20
+[32](#32).          Annual Report                                                                                   19
 
-[33](#33).          Annual financial statement                                                                20
+[33](#33).          Annual financial statement                                                                19
 
-[34](#34).          Regulations                                                                                        21
+[34](#34).          Regulations                                                                                        20
 
 **Schedule 1—Albury-Wodonga Area Development Agreement** 
 
 **PART I—GENERAL**
 
-[Definitions](#Definitions).                                                                                                       23
+[Definitions](#Definitions).                                                                                                       22
 
-[Commencement](#Commencement).                                                                                               24
+[Commencement](#Commencement).                                                                                               23
 
-[Albury-Wodonga Area](#Albury-Wodonga Area).                                                                                    25
+[Albury-Wodonga Area](#Albury-Wodonga Area).                                                                                    24
 
 **PART II—ORGANIZATION**
 
-[Ministerial Council](#Ministerial Council).                                                                                          30
+[Ministerial Council](#Ministerial Council).                                                                                          29
 
-[Development Corporation](#Development Corporation).                                                                               31
+[Development Corporation](#Development Corporation).                                                                               30
 
-[Staff of Development Corporation](#Staff of Development Corporation).                                                                  34
+[Staff of Development Corporation](#Staff of Development Corporation).                                                                  33
 
-[State Corporations](#State Corporations).                                                                                           34
+[State Corporations](#State Corporations).                                                                                           33
 
-[Consultative Council](#Consultative Council).                                                                                       36
+[Consultative Council](#Consultative Council).                                                                                       35
 
 **PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS**
 
-[Development Plan and Financial Programme](#Development Plan and Financial Programme).                                                  38
+[Development Plan and Financial Programme](#Development Plan and Financial Programme).                                                  37
 
-[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         43
+[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         42
 
-[Accounts of Corporations](#Accounts of Corporations).                                                                               44
+[Accounts of Corporations](#Accounts of Corporations).                                                                               43
 
-[Revenue and Repayment of Loans](#Revenue and Repayment of Loans).                                                                  44
+[Revenue and Repayment of Loans](#Revenue and Repayment of Loans).                                                                  43
 
 **PART IV—RESPONSIBILITY FOR ASSETS**
 
-[Responsibility of Corporations for Sites and Buildings](#Responsibility of Corporations for Sites and Buildings).                                  46
+[Responsibility of Corporations for Sites and Buildings](#Responsibility of Corporations for Sites and Buildings).                                  45
 
 **Schedule 2—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1)**
 
-[Definitions](#Definitions).                                                                                                       47
+[Definitions](#Definitions).                                                                                                       46
 
-[Development Corporation](#Development Corporation).                                                                               48
+[Development Corporation](#Development Corporation).                                                                               47
 
-[State Corporations](#State Corporations).                                                                                           50
+[State Corporations](#State Corporations).                                                                                           49
 
-[Consultative Council Advisory Committees](#Consultative Council Advisory Committees).                                                   52
+[Consultative Council Advisory Committees](#Consultative Council Advisory Committees).                                                   51
 
-[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         52
+[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         51
 
 **Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2)**
 
-[Definitions](#Definitions).                                                                                                       54
+[Definitions](#Definitions).                                                                                                       53
 
-[Ministerial Council](#Ministerial Council).                                                                                          55
+[Ministerial Council](#Ministerial Council).                                                                                          54
 
-[Development Corporation](#Development Corporation).                                                                               55
+[Development Corporation](#Development Corporation).                                                                               54
 
-[State Corporations](#State Corporations).                                                                                           59
+[State Corporations](#State Corporations).                                                                                           58
 
-[Notes](#Notes).                                                                                                               63
+**Notes to the _Albury-Wodonga Development Act 1973_**
+
+[20](#20).          Delegation by Corporation                                                                76
+
+**Part IVA—Winding-up plan and annual operational plans**
+
+[20A](#20A).       Winding-up plan                                                                                76
+
+[20B](#20B).       Annual operational plans                                                                   77
+
+**Part IVB—Transfers of assets, contracts and liabilities from State bodies to the Corporation**
+
+[20C](#20C).       Definitions                                                                                         78
+
+[20D](#20D).       Transfer of assets to Corporation                                                     78
+
+[20E](#20E).        Transfer of contractual rights and obligations to Corporation          79
+
+[20F](#20F).        Transfer of liabilities to Corporation                                                 81
+
+[20G](#20G).       This Part does not authorise the imposition of taxation                   82
+
+[20H](#20H).       Compensation—constitutional safety-net                                        82
+
+[31A](#31A).       Delegation by Minister                                                                      83
 
 ## An Act relating to the Development of the Albury-Wodonga Area
 
@@ -224,12 +246,6 @@ Prepared by the Office of Legislative Drafting,
              (1)  Where functions and powers (including functions and powers referred to in subsection (2)) are conferred on the Australian Minister by this Act, the Minister shall exercise them in accordance with the Agreement.
 
              (2)  The Australian Minister may exercise all or any of the functions and powers relating to a designated area conferred on him or her by or under a State Act.
-
-##### <a id="5AA"></a>5AA  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ## Part IA—Albury-Wodonga Area Development Winding-up Agreement
 
@@ -433,10 +449,6 @@ shall, as soon as possible after the relevant facts have come to his or her know
 
              (3)  A member who fails to comply with subsection (1) or paragraph (2)(a) is guilty of an offence and is punishable, upon conviction, by a fine not exceeding $500.
 
-             (4)  An offence under subsection (3) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
 ##### <a id="17"></a>17  Condition of service—appointed member
 
                    Subject to this Act, the appointed members hold office on such terms and conditions as the Ministerial Council determines.
@@ -585,10 +597,6 @@ but not otherwise.
 
              (8)  A person who contravenes subsection (7) is guilty of an offence punishable, upon conviction, by a fine not exceeding $200.
 
-             (9)  An offence under subsection (8) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
 ##### <a id="31"></a>31  Liability to taxation
 
              (1)  Subject to subsection (2), the Corporation is not subject to taxation under any law of the Commonwealth or of a State or Territory.
@@ -645,9 +653,9 @@ AND WHEREAS the intentions of the three Governments are—
 
 NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:— 
 
-PART I—GENERAL
+## PART I—GENERAL
 
-Definitions 
+##### Definitions 
 
 1.  In this agreement, unless the contrary intention appears—
 
@@ -681,7 +689,7 @@ Definitions
 
 ‘the Ministerial Council’ means the Ministerial Council provided for in clause 4 hereof.
 
-Commencement 
+##### Commencement 
 
 2.  (1)   This agreement, other than this sub-clause and sub-clauses (2), (5) and (6) of this clause, shall have no force or effect and shall not be binding on any of the parties hereto unless and until it is approved by the respective Parliaments of Australia, the State of New South Wales and the State of Victoria, but upon being so approved by those Parliaments, it shall be of full force and effect and binding on the parties. 
 
@@ -723,7 +731,7 @@ Commencement
 
 for the purpose of giving effect to this agreement. 
 
-Albury-Wodonga Area
+##### Albury-Wodonga Area
 
 3.(1)   For the purposes of this agreement, the Albury-Wodonga Area means an area of land in the State of New South Wales and the State of Victoria approximately five thousand (5,000) square kilometres in total extent contained within the boundaries set out in sub-clause (2) of this clause. 
 
@@ -793,9 +801,9 @@ Albury-Wodonga Area
 
           (c)     a reference to the Governor of Victoria is a reference to the person administering the Government of Victoria with the advice of the Executive Council of that State at the date of the relevant proclamation or the giving of the relevant approval, as the case may be. 
 
-PART II—ORGANIZATION
+## PART II—ORGANIZATION
 
-Ministerial Council 
+##### Ministerial Council 
 
 4.(1)   For the purposes of this agreement there shall be a Ministerial Council consisting of three members—an Australian Minister, a New South Wales Minister and a Victorian Minister. 
 
@@ -817,7 +825,7 @@ Ministerial Council
 
 (7)   Each of the members of the Ministerial Council shall be informed forthwith in writing of each of the decisions made at meetings of the Development Corporation.
 
-Development Corporation 
+##### Development Corporation 
 
 5.  (1)   The Albury-Wodonga Development Corporation will be a corporation aggregate consisting of five members of whom three—the Chairman and the two Deputy Chairmen—will be executive members and two will be part-time members, appointed by the Governor-General, or the person who is at the date of the relevant appointment the person administering the Government of Australia, acting with the advice of the Federal Executive Council, and holding office— 
 
@@ -889,7 +897,7 @@ Development Corporation
 
 (16) The Ministerial Council may give directions to the Development Corporation concerning the performance of its functions, the exercise of its powers and its procedure, and the Development Corporation shall comply with those directions. 
 
-Staff of Development Corporation
+##### Staff of Development Corporation
 
 6.  (1)   The terms and conditions of employment of officers and employees of the Development Corporation will be determined as provided for in the Australian Act. 
 
@@ -899,7 +907,7 @@ Staff of Development Corporation
 
 (4)   The staff establishment of the Development Corporation shall be as approved from time to time by the Ministerial Council. 
 
-State Corporations
+##### State Corporations
 
 7.  (1)   There will be two State Corporations, namely— 
 
@@ -949,7 +957,7 @@ each of which will be a corporation aggregate consisting of three members appoin
 
 (11) In this clause, ‘the constituting State’ means the State by the Act of whose Parliament the relevant State Corporation was constituted. 
 
-Consultative Council
+##### Consultative Council
 
 8.  (1)   For the purposes of this agreement, there shall be a Consultative Council constituted, subject to sub-clause (2) of this clause, as determined from time to time by the Ministerial Council. 
 
@@ -975,9 +983,9 @@ Consultative Council
 
 (7)   The Development Corporation shall make suitable arrangements for secretarial services for and meetings of the Consultative Council. 
 
-PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS
+## PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS
 
-Development Plan and Financial Programme 
+##### Development Plan and Financial Programme 
 
 9.  (1)   The Development Corporation shall prepare and submit for consideration to the Ministerial Council each year by a date determined by the Ministerial Council a comprehensive proposed forward plan for development of the growth complex (to be called ‘the Proposed Albury-Wodonga Development Plan’ for the period to which it relates and in this clause referred to as ‘the Plan’)— 
 
@@ -1069,7 +1077,7 @@ Development Plan and Financial Programme
 
 (11) The programme covering the commencement of the development of the growth complex during the financial year 1973/74 and the sources of the funds to cover that programme shall be as agreed between the three Governments. 
 
-Operating Expenses of Development Corporation 
+##### Operating Expenses of Development Corporation 
 
 10.  (1) (a)   Subject to paragraph (b) of this sub-clause, the expenses of operating the Development Corporation, the State Corporations and the Consultative Council (in this Agreement referred to as “operating expenses”), as distinct from direct capital expenditure by any of those corporations, shall be borne by the Development Corporation. 
 
@@ -1103,13 +1111,13 @@ Operating Expenses of Development Corporation
 
 (6)   Administrative expenses shall comprise all operating expenses that are not developmental expenses. 
 
-Accounts of Corporations 
+##### Accounts of Corporations 
 
 11.   (1)   The Development Corporation and each of the State Corporations shall cause to be kept proper accounts and records of their respective transactions and affairs in accordance with appropriate accounting principles and each shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorized and that adequate control is maintained over the assets belonging to it or in its custody or control and over the incurring of liabilities by it. 
 
 (2)   The Development Corporation shall each year cause to be prepared in respect of the immediately preceding financial year, by a date and in a form determined by the Ministerial Council, a consolidated statement of revenue received and expenditure incurred by the Development Corporation and the State Corporations during that financial year and shall submit them to the Ministerial Council as directed by it. 
 
-Revenue and Repayment of Loans 
+##### Revenue and Repayment of Loans 
 
 12.   (1)   All revenues payable in respect of the use of land vested in a State Corporation or of buildings or other works responsibility for which has passed to a State Corporation shall be payable to that State Corporation until other arrangements are made in that behalf by the parties hereto. 
 
@@ -1125,9 +1133,9 @@ Revenue and Repayment of Loans
 
           (c)     the three Governments will consult to determine whether the outstanding balance should be dealt with otherwise than on the basis referred to in paragraph (b) of this sub-clause.
 
-PART IV—RESPONSIBILITY FOR ASSETS
+## PART IV—RESPONSIBILITY FOR ASSETS
 
-Responsibility of Corporations for Sites and Buildings
+##### Responsibility of Corporations for Sites and Buildings
 
 13.   (1)   The Development Corporation shall, during the period of construction, have possession of each building or other work that it constructs or arranges to have constructed and the site of each such building or other work. 
 
@@ -1145,7 +1153,7 @@ IN WITNESS WHEREOF this agreement has been respectively signed for and on behalf
 <tr>
   <td></td>
   <td>
-    <img width="473" height="324" src="http://www.comlaw.gov.au/Details/C2004C01843/Html/AlburyWodongaDev73_image002.gif">
+    <img width="473" height="324" src="http://www.comlaw.gov.au/Details/C2004C01842/Html/AlburyWodongaDev73_image002.gif">
   </td>
 </tr></table>    
 
@@ -1165,7 +1173,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 (2)   The Australian, New South Wales and Victorian Governments will submit this agreement for approval to their respective Parliaments as soon as practicable after the date of this agreement. 
 
-Definitions
+##### Definitions
 
 3.    Clause 1 of the principal agreement is amended by inserting after the definition of “land” the following definitions: 
 
@@ -1173,7 +1181,7 @@ Definitions
 
 ‘Mayor of the Rural City of Wodonga’ means the person for the time being elected to that office under the provisions of the Local Government Act 1958 of the State of Victoria;”. 
 
-Development Corporation
+##### Development Corporation
 
 4.    (1)   Sub-clause 5 (1) of the principal agreement is amended by deleting the word “five” and substituting the word “eight” and by deleting the word “two” where second occurring and substituting the word “five”  and further by deleting all words appearing after the words “part-time members”.
 
@@ -1207,7 +1215,7 @@ Development Corporation
 
 (4)   Sub-clause 5 (7) of the principal agreement is amended by deleting the words “three persons” and substituting the words “a majority of the members for the time being holding office provided that there shall be present at least one executive member.”. 
 
-State Corporations
+##### State Corporations
 
 5.  (1)   Sub-clause 7 (1) of the principal agreement is amended by deleting all words after the words “consisting of” and substituting the words “eight members of whom three—the Chairman and the two Deputy Chairmen—will be executive members and five will be part-time members.”. 
 
@@ -1259,17 +1267,17 @@ State Corporations
 
 6.    Clause 8 of the principal agreement is deleted and the following clause substituted: 
 
-Consultative Council Advisory Committees
+##### Consultative Council Advisory Committees
 
 “8.   The Development Corporation may establish advisory committees for the purpose of advising it in respect of the carrying out of its functions.”. 
 
-Operating Expenses of Development Corporation
+##### Operating Expenses of Development Corporation
 
 7.    Sub-clause 10 (1) (a) of the principal agreement is amended by deleting the words “the Consultative Council” and substituting the words “advisory committees”. 
 
 IN WITNESS WHEREOF this agreement has been respectively signed for and on behalf of the parties hereto on the day and year first above-written.
 
-![](http://www.comlaw.gov.au/Details/C2004C01843/Html/AlburyWodongaDev73_image003.gif) 
+![](http://www.comlaw.gov.au/Details/C2004C01842/Html/AlburyWodongaDev73_image003.gif) 
 
 # Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2) 
 
@@ -1286,7 +1294,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 2.    This agreement, other than this clause, shall have no force or effect and shall not be binding on any of the parties unless and until it is approved by the Parliaments of Australia, the State of New South Wales and the State of Victoria, but upon being so approved by all of those Parliaments, it shall be of full force and effect and binding on the parties.
 
-Definitions 
+##### Definitions 
 
 3.    Clause 1 of the principal agreement is amended by: 
 
@@ -1312,13 +1320,13 @@ Definitions
 
        (b)   altering the reference to paragraph (c) to paragraph (b). 
 
-Ministerial Council 
+##### Ministerial Council 
 
 5.    Sub-clause 4 (2) of the principal agreement is amended by deleting paragraph (a) and substituting the following paragraph: 
 
               “(a) The members of the Ministerial Council will be the Australian Minister for Immigration, Local Government and Ethnic Affairs, the New South Wales Minister for Business and Consumer Affairs and the Victorian Minister for Manufacturing and Industry Development.” 
 
-Development Corporation 
+##### Development Corporation 
 
 6.    Clause 5 of the principal agreement is deleted and the following clause substituted: 
 
@@ -1400,7 +1408,7 @@ Development Corporation
 
 (16) The Ministerial Council may give directions to the Development Corporation concerning the performance of its functions, the exercise of its powers and its procedure, and the Development Corporation shall comply with those directions.” 
 
-State Corporations 
+##### State Corporations 
 
 7.    Clause 7 of the principal agreement is deleted and the following clause substituted: 
 
@@ -1490,8 +1498,8 @@ All relevant information pertaining to application, saving or transitional provi
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
-  <col width="23%">
+  <col width="18%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
@@ -1789,26 +1797,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 65-71) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[see Table A]</div>
-    </td>
-  </tr>
-</thead></table>
+</tr></table>
+
+ 
 
 _(a)_     The _Albury-Wodonga Development Act 1973_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
@@ -1876,6 +1867,8 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
 
 **_Victorian Repeal Act_** means an Act of Victoria that repeals the _Albury-Wodonga Agreement Act 1973_ of Victoria.
 
+ 
+
 ## Table of Amendments
 
 <table>
@@ -1919,14 +1912,6 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
   </td>
   <td>
     <div>am. No. 60, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5AA</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2060,18 +2045,10 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
+    <div>Ss. 15, 16</div>
   </td>
   <td>
     <div>am. No. 96, 1979; No. 60, 1991 (as am. by No. 43, 1996)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1979; No. 60, 1991 (as am. by No. 43, 1996); No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2159,7 +2136,7 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 60, 1991; No. 143, 2001</div>
+    <div>am. No. 60, 1991</div>
   </td>
 </tr>
 <tr>
@@ -2227,17 +2204,19 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
   </td>
 </tr></table>
 
+ 
+
 ### Note 2
 
 Section 5—Schedule 2 (items 154, 155) of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ provides as follows:
 
-Schedule 2
+## Schedule 2
 
-154  Section 5
+## 154  Section 5
 
 Omit “Chairman” (wherever occurring), substitute “Chair”.
 
-155  Subsection 5(1)
+## 155  Subsection 5(1)
 
 Omit “Chairmen”, substitute “Chairs”.
 
@@ -2249,19 +2228,19 @@ _Albury-Wodonga Development Amendment Act 2000 (No. 46, 2000)_
 
 The following amendments commence 6 months after a prescribed date, if not proclaimed earlier:
 
-Schedule 1
+## Schedule 1
 
-3  Subsection 3(1) (definition of Agreement)
+## 3  Subsection 3(1) (definition of _Agreement_)
 
 Repeal the definition.
 
-4  Subsection 3(1)
+## 4  Subsection 3(1)
 
 Insert:
 
                     <a name="annual-oper-plan"></a>**_annual operational plan_** means a plan prepared under subsection 20B(1).
 
-5  Subsection 3(1)
+## 5  Subsection 3(1)
 
 Insert:
 
@@ -2271,19 +2250,19 @@ Insert:
 
                      (b)  any right, power, privilege or immunity, whether actual, contingent or prospective.
 
-6  Subsection 3(1) (definition of Council representative)
+## 6  Subsection 3(1) (definition of _Council representative_)
 
 Repeal the definition.
 
-7  Subsection 3(1) (definition of Deputy Chairperson)
+## 7  Subsection 3(1) (definition of _Deputy Chairperson_)
 
 Repeal the definition.
 
-8  Subsection 3(1) (definition of executive member)
+## 8  Subsection 3(1) (definition of _executive member_)
 
 Repeal the definition.
 
-9  Subsection 3(1)
+## 9  Subsection 3(1)
 
 Insert:
 
@@ -2297,37 +2276,37 @@ Insert:
 
                      (b)  that had as one of its elements the establishment of the Corporation by this Act.
 
-10  Subsection 3(1)
+## 10  Subsection 3(1)
 
 Insert:
 
                     <a name="land"></a>**_land_** includes an interest in land.
 
-11  Subsection 3(1)
+## 11  Subsection 3(1)
 
 Insert:
 
                     <a name="liabil"></a>**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
 
-12  Subsection 3(1)
+## 12  Subsection 3(1)
 
 Insert:
 
                     <a name="wind-plan"></a>**_winding-up plan_** means a plan prepared under subsection 20A(1).
 
-13  Subsection 3(2)
+## 13  Subsection 3(2)
 
 Repeal the subsection.
 
-14  Section 5
+## 14  Section 5
 
 Repeal the section.
 
-15  Part II
+## 15  Part II
 
 Repeal the Part.
 
-16  Paragraphs 8(1)(a), (b), (c), (d) and (e)
+## 16  Paragraphs 8(1)(a), (b), (c), (d) and (e)
 
 Repeal the paragraphs, substitute:
 
@@ -2349,7 +2328,7 @@ Repeal the paragraphs, substitute:
 
                      (e)  if requested by or on behalf of the Commonwealth, or by or on behalf of an authority of the Commonwealth, to do so—to act as the agent of the Commonwealth, or the authority of the Commonwealth, in relation to the disposal of land in the Albury-Wodonga region.
 
-17  Subsection 8(2)
+## 17  Subsection 8(2)
 
 Omit all the words after “has” (second occurring), substitute:
 
@@ -2359,15 +2338,15 @@ power:
 
                      (b)  either directly or by arrangement with other persons, to construct buildings and works and carry on services.
 
-18  Subsection 8(3)
+## 18  Subsection 8(3)
 
 Omit “Australian”.
 
-19  Subsection 8(3)
+## 19  Subsection 8(3)
 
 Omit “Agreement”, substitute “Winding-up Agreement”.
 
-20  Subsection 8(5)
+## 20  Subsection 8(5)
 
 Repeal the subsection, substitute:
 
@@ -2383,15 +2362,15 @@ Repeal the subsection, substitute:
 
           (5B)  For the purposes of subsection (3), if an Act of Victoria, or a part of such an Act, confers or imposes on the Corporation functions, powers or duties of a kind that were previously conferred or imposed on the Albury-Wodonga (Victoria) Corporation, that Act or that part of that Act, as the case may be, is taken to confer or impose those functions, powers or duties for purposes that are complementary to this Act.
 
-21  Subsection 8(6)
+## 21  Subsection 8(6)
 
 Omit “directions given to it by the Ministerial Council”, substitute “written directions given to it by the Minister”.
 
-22  Subsection 8(7)
+## 22  Subsection 8(7)
 
 Omit “Agreement”, substitute “Winding-up Agreement”.
 
-23  At the end of section 8
+## 23  At the end of section 8
 
 Add:
 
@@ -2409,11 +2388,11 @@ does not, by implication:
 
            (10)  It is the intention of the Parliament that subsection (1) is not to apply to the exclusion of a law of New South Wales or Victoria to the extent to which that law is capable of operating concurrently with that subsection.
 
-24  Paragraphs 10(1)(b), (c) and (d)
+## 24  Paragraphs 10(1)(b), (c) and (d)
 
 Repeal the paragraphs.
 
-25  Subsections 10(3) and (4)
+## 25  Subsections 10(3) and (4)
 
 Repeal the subsections, substitute:
 
@@ -2425,107 +2404,107 @@ Repeal the subsections, substitute:
 
 unless he or she appears to the Minister to be qualified for appointment because of his or her knowledge and understanding of issues relating to the development of the Albury-Wodonga region.
 
-26  Subsections 10(7) and (8)
+## 26  Subsections 10(7) and (8)
 
 Repeal the subsections.
 
-27  Subsection 11(3)
+## 27  Subsection 11(3)
 
 Repeal the subsection.
 
-28  Subsection 12(3)
+## 28  Subsection 12(3)
 
 Omit “Australian”.
 
-29  Paragraph 15(2)(f)
+## 29  Paragraph 15(2)(f)
 
 Omit “being an executive member,”.
 
-30  Paragraph 16(1)(b)
+## 30  Paragraph 16(1)(b)
 
 Omit “Area”, substitute “Albury-Wodonga region”.
 
-31  Subsection 16(2)
+## 31  Subsection 16(2)
 
 Omit “Ministerial Council”, substitute “Minister”.
 
-32  Section 17
+## 32  Section 17
 
 Omit “Ministerial Council”, substitute “Minister”.
 
-33  Subsection 18(1)
+## 33  Subsection 18(1)
 
 Omit “Subject to subsection (2), where”, substitute “Where”.
 
-34  Subsection 18(1)
+## 34  Subsection 18(1)
 
 Omit “or a Deputy Chairperson”.
 
-35  Subsection 18(1)
+## 35  Subsection 18(1)
 
 Omit “or an office of Deputy Chairperson”.
 
-36  Subsection 18(1)
+## 36  Subsection 18(1)
 
 Omit “Australian”.
 
-37  Subsection 18(1)
+## 37  Subsection 18(1)
 
 Omit “or acting Deputy Chairperson”.
 
-38  Subsection 18(2)
+## 38  Subsection 18(2)
 
 Repeal the subsection.
 
-39  Subsection 18(3)
+## 39  Subsection 18(3)
 
 Omit “or acting Deputy Chairperson”.
 
-40  Subsection 18(4)
+## 40  Subsection 18(4)
 
 Omit “or acting Deputy Chairperson”.
 
-41  Subsection 18(4)
+## 41  Subsection 18(4)
 
 Omit “or Deputy Chairperson, as the case may be”.
 
-42  Subsection 18(5)
+## 42  Subsection 18(5)
 
 Omit “Australian”.
 
-43  Subsections 18(6), (6A), (6B) and (6C)
+## 43  Subsections 18(6), (6A), (6B) and (6C)
 
 Repeal the subsections.
 
-44  Subsection 18(7)
+## 44  Subsection 18(7)
 
 Omit “Australian”.
 
-45  Subsection 18(8)
+## 45  Subsection 18(8)
 
 Omit “Ministerial Council”, substitute “Minister”.
 
-46  Subsection 19(2)
+## 46  Subsection 19(2)
 
 Omit “Deputy Chairmen”, substitute “appointed members”.
 
-47  Subsection 19(3)
+## 47  Subsection 19(3)
 
 Repeal the subsection.
 
-48  Subsection 19(4)
+## 48  Subsection 19(4)
 
 Omit “, including at least one executive member”.
 
-49  Subsection 19(6)
+## 49  Subsection 19(6)
 
 Omit “a Deputy Chairperson”, substitute “an appointed member”.
 
-50  Section 20
+## 50  Section 20
 
 Repeal the section, substitute:
 
-20  Delegation by Corporation
+##### <a id="20"></a>20  Delegation by Corporation
 
              (1)  The Corporation may, by writing, delegate any or all of its functions and powers to:
 
@@ -2535,13 +2514,13 @@ Repeal the section, substitute:
 
              (2)  The delegate is, in the exercise of the function or power delegated under subsection (1), subject to the directions of the Corporation.
 
-51  After Part IV
+## 51  After Part IV
 
 Insert:
 
-Part IVA—Winding-up plan and annual operational plans
+## Part IVA—Winding-up plan and annual operational plans
 
-20A  Winding-up plan
+##### <a id="20A"></a>20A  Winding-up plan
 
              (1)  The Corporation must:
 
@@ -2569,7 +2548,7 @@ Note:          The period mentioned in paragraph 8(1)(a) is th
 
              (9)  The Corporation must comply with a direction under subsection (8).
 
-20B  Annual operational plans
+##### <a id="20B"></a>20B  Annual operational plans
 
              (1)  Before the beginning of each financial year, the Corporation must:
 
@@ -2597,9 +2576,9 @@ Note:          The period mentioned in paragraph 8(1)(a) is th
 
              (7)  The Corporation must comply with a direction under subsection (6).
 
-Part IVB—Transfers of assets, contracts and liabilities from State bodies to the Corporation
+## Part IVB—Transfers of assets, contracts and liabilities from State bodies to the Corporation
 
-20C  Definitions
+##### <a id="20C"></a>20C  Definitions
 
                    In this Part:
 
@@ -2617,7 +2596,7 @@ Part IVB—Transfers of assets, contracts and liabilities from State bodies to t
 
                      (b)  in relation to Victoria—means the Albury-Wodonga (Victoria) Corporation.
 
-20D  Transfer of assets to Corporation
+##### <a id="20D"></a>20D  Transfer of assets to Corporation
 
              (1)  It is the intention of the Parliament that a law of New South Wales or Victoria may:
 
@@ -2651,7 +2630,7 @@ Matters incidental to transfer
 
                             that the Corporation is substituted for the relevant State body as a party to the proceedings to the extent to which the proceedings relate to the asset.
 
-20E  Transfer of contractual rights and obligations to Corporation
+##### <a id="20E"></a>20E  Transfer of contractual rights and obligations to Corporation
 
              (1)  It is the intention of the Parliament that a law of New South Wales or Victoria may:
 
@@ -2691,7 +2670,7 @@ Matters incidental to transfer
 
                             that the Corporation is substituted for the relevant State body as a party to the proceedings to the extent to which the proceedings relate to those rights or obligations.
 
-20F  Transfer of liabilities to Corporation
+##### <a id="20F"></a>20F  Transfer of liabilities to Corporation
 
              (1)  It is the intention of the Parliament that a law of New South Wales or Victoria may:
 
@@ -2729,11 +2708,11 @@ Matters incidental to transfer
 
                             that the Corporation is substituted for the relevant State body as a party to the proceedings to the extent to which the proceedings relate to the liability.
 
-20G  This Part does not authorise the imposition of taxation
+##### <a id="20G"></a>20G  This Part does not authorise the imposition of taxation
 
                    This Part does not authorise the imposition of taxation within the meaning of section 55 of the Constitution.
 
-20H  Compensation—constitutional safety-net
+##### <a id="20H"></a>20H  Compensation—constitutional safety-net
 
              (1)  If:
 
@@ -2751,39 +2730,39 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
-52  Subsection 21(5)
+## 52  Subsection 21(5)
 
 Omit “for purposes related to the development of the growth complex”.
 
-53  Paragraph 26(1)(a)
+## 53  Paragraph 26(1)(a)
 
 Repeal the paragraph.
 
-54  Subsection 28(1)
+## 54  Subsection 28(1)
 
 Omit “Agreement” (wherever occurring), substitute “Winding-up Agreement”.
 
-55  Section 29
+## 55  Section 29
 
 Repeal the section.
 
-56  Subsection 30(1)
+## 56  Subsection 30(1)
 
 Omit “Australian”.
 
-57  Subsection 30(3)
+## 57  Subsection 30(3)
 
 Omit “Australian”.
 
-58  Subsection 30(4)
+## 58  Subsection 30(4)
 
 Repeal the subsection.
 
-59  Before section 32
+## 59  Before section 32
 
 Insert:
 
-31A  Delegation by Minister
+##### <a id="31A"></a>31A  Delegation by Minister
 
              (1)  The Minister may, by writing, delegate to:
 
@@ -2797,27 +2776,27 @@ all or any of the Minister’s powers under this Act (other than section 5A).
 
              (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister.
 
-60  Paragraph 32(a)
+## 60  Paragraph 32(a)
 
 Omit all the words after “Finance,”, substitute “of the Corporation’s operations during that year together with financial statements in respect of that year; and”.
 
-61  Paragraph 32(b)
+## 61  Paragraph 32(b)
 
 Omit “Australian Minister, for presentation to the Parliament; and”, substitute “Minister, for presentation to the Parliament.”.
 
-62  Paragraph 32(c)
+## 62  Paragraph 32(c)
 
 Repeal the paragraph.
 
-63  Section 33
+## 63  Section 33
 
 Omit “Australian”.
 
-64  Schedules 1, 2 and 3
+## 64  Schedules 1, 2 and 3
 
 Repeal the Schedules.
 
-As at 22 October 2001 the amendments are not incorporated in this compilation.
+As at 2 June 2000 the amendments are not incorporated in this compilation.
 
  
 
@@ -2829,48 +2808,38 @@ _Albury-Wodonga Development Amendment Act 2000 (No. 46, 2000)_
 
 The following provisions commence 6 months after a prescribed date, if not proclaimed earlier:
 
-Schedule 1
+## Schedule 1
 
-65  Application—subsection 10(3) of the Albury-Wodonga Development Act 1973
+## 65  Application—subsection 10(3) of the _Albury-Wodonga Development Act 1973_
 
 Subsection 10(3) of the _Albury-Wodonga Development Act 1973_ as amended by this Act applies to appointments made after the commencement of this item.
 
-66  Application—subsection 10(7) of the Albury-Wodonga Development Act 1973
+## 66  Application—subsection 10(7) of the _Albury-Wodonga Development Act 1973_
 
 Despite the repeal of subsection 10(7) of the _Albury-Wodonga Development Act 1973_ by this Schedule, that subsection continues to apply, in relation to appointments made before the commencement of this item, as if that repeal had not happened.
 
-67  Transitional—chief executive officer
+## 67  Transitional—chief executive officer
 
 To avoid doubt, the amendments of the _Albury-Wodonga Development Act 1973_ made by this Schedule do not affect the continuity of anything done under section 10A of that Act before the commencement of this item.
 
-68  Transitional—section 17 of the Albury-Wodonga Development Act 1973
+## 68  Transitional—section 17 of the _Albury-Wodonga Development Act 1973_
 
 (1)        This item applies to a determination that was in force under section 17 of the _Albury-Wodonga Development Act 1973_ immediately before the commencement of this item.
 
 (2)        The determination has effect, after the commencement of this item, as if it were a determination made by the Minister under section 17 of the _Albury-Wodonga Development Act 1973_ as amended by this Act.
 
-69  Transitional—subsection 18(8) of the Albury-Wodonga Development Act 1973
+## 69  Transitional—subsection 18(8) of the _Albury-Wodonga Development Act 1973_
 
 (1)        This item applies to a determination that was in force under subsection 18(8) of the _Albury-Wodonga Development Act 1973_ immediately before the commencement of this item.
 
 (2)        The determination has effect, after the commencement of this item, as if it were a determination made by the Minister under subsection 18(8) of the _Albury-Wodonga Development Act 1973_ as amended by this Act.
 
-70  Transitional—subsection 20B(1) of the Albury-Wodonga Development Act 1973
+## 70  Transitional—subsection 20B(1) of the _Albury-Wodonga Development Act 1973_
 
 Subsection 20B(1) of the _Albury-Wodonga Development Act 1973_ applies to a financial year that commences after the commencement of this item.
 
-71  Application—paragraph 32(a) of the Albury-Wodonga Development Act 1973
+## 71  Application—paragraph 32(a) of the _Albury-Wodonga Development Act 1973_
 
 Despite the amendment of paragraph 32(a) of the _Albury-Wodonga Development Act 1973_ made by this Schedule, that paragraph continues to apply, in relation to a financial year during any part of which a State Corporation is in existence, as if that amendment had not been made.
-
-* * *
-
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
-
-4  Application of Amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
