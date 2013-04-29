@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00563/Html/0af349c5-1c06-42d6-be7d-d5bd589e8e88_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00273/Html/5f37e6f4-a6ad-4d14-b22d-bfadedb9e0c5_files/image001.gif)
 
 # Air Navigation Act 1920
 
 **Act No. 50 of 1920 as amended**
 
-This compilation was prepared on 22 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 11—Protocol relating to an amendment to Article 56 of the Convention on International Civil Aviation Signed at Montreal on 6 October 1989** 
 
-**Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990** 
+**Schedule 12—Protocol relating to an amendment to Article 50 (a) of the Convention on International Civil Aviation Signed at Montreal on 26 October 1990** 
 
 **Notes** 
 
@@ -3598,23 +3598,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 52) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follows:
@@ -3999,8 +3982,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   <td>
     <div>
       10 March 2005
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -6719,20 +6701,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 52  Subsection 11A(4) (definition of _Australian citizen_)
-
-Repeal the definition.
-
-As at 22 July 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6897,21 +6865,5 @@ _Aviation Legislation Amendment (International Airline Licences and Carriers’ 
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 **_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
