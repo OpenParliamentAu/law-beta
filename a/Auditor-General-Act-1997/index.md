@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00529/Html/ae035ea3-788f-4d47-9eb4-87ad95999554_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00112/Html/AuditGeneral997_image001.gif)
 
-# Auditor‑General Act 1997
+# Auditor-General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 12 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 27 February 2009
+ taking into account amendments up to Act No. 8 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,9 +14,9 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
-## An Act to provide for the appointment of an Auditor‑General, to set out the functions of the Auditor‑General, and for related purposes
+## An Act to provide for the appointment of an Auditor-General, to set out the functions of the Auditor-General, and for related purposes
 
 Readers Guide
 
@@ -24,7 +24,7 @@ Readers Guide
 
 Overview of this Act
 
-                   This Act establishes an office of Auditor‑General for the Commonwealth and sets out the Auditor‑General’s functions. This Act also establishes the Australian National Audit Office and provides for the appointment of an Independent Auditor to audit the Office.
+                   This Act establishes an office of Auditor-General for the Commonwealth and sets out the Auditor-General’s functions. This Act also establishes the Australian National Audit Office and provides for the appointment of an Independent Auditor to audit the Office.
 
 Summary of this Act
 
@@ -32,17 +32,17 @@ Summary of this Act
 
         Part 2  **_Interpretation:_** This Part contains definitions of terms that are frequently used throughout this Act.
 
-        Part 3  **_The Auditor‑General:_** This Part establishes the office of Auditor‑General. Schedule 1 deals with administrative matters relating to the office of Auditor‑General, such as the Auditor‑General’s appointment, conditions, resignation and removal.
+        Part 3  **_The Auditor-General:_** This Part establishes the office of Auditor-General. Schedule 1 deals with administrative matters relating to the office of Auditor-General, such as the Auditor-General’s appointment, conditions, resignation and removal.
 
-        Part 4  **_Main functions and powers of the Auditor‑General:_** This Part set out the functions and powers of the Auditor‑General.
+        Part 4  **_Main functions and powers of the Auditor-General:_** This Part set out the functions and powers of the Auditor-General.
 
-        Part 5  **_Information‑gathering powers and secrecy:_** This Part gives the Auditor‑General various powers to gather information. It also places restrictions on the disclosure or publication of information.
+        Part 5  **_Information-gathering powers and secrecy:_** This Part gives the Auditor-General various powers to gather information. It also places restrictions on the disclosure or publication of information.
 
         Part 6  **_The Australian National Audit Office:_** This Part establishes the Australian National Audit Office.
 
         Part 7  **_Audit of the Australian National Audit Office:_**This Part establishes an office of Independent Auditor. The functions of the Independent Auditor are to audit the financial statements of the Australian National Audit Office and to carry out performance audits of the Office. Schedule 2 deals with administrative matters relating to the office of Independent Auditor, such as the Independent Auditor’s appointment, conditions, resignation and removal.
 
-        Part 8  **_Miscellaneous:_**This Part deals with miscellaneous matters such as a Commonwealth indemnity for people carrying out Auditor‑General functions.
+        Part 8  **_Miscellaneous:_**This Part deals with miscellaneous matters such as a Commonwealth indemnity for people carrying out Auditor-General functions.
 
 Related legislation
 
@@ -72,17 +72,17 @@ Related legislation
 
 [5](#5).            Definitions
 
-**Part 3—The Auditor‑General**
+**Part 3—The Auditor-General**
 
-[7](#7).            Auditor‑General
+[7](#7).            Auditor-General
 
-[8](#8).            Independence of the Auditor‑General
+[8](#8).            Independence of the Auditor-General
 
-[9](#9).            Appointment, conditions etc  for Auditor‑General
+[9](#9).            Appointment, conditions etc  for Auditor-General
 
-[10](#10).          Auditor‑General to have regard to audit priorities of Parliament etc 
+[10](#10).          Auditor-General to have regard to audit priorities of Parliament etc 
 
-**Part 4—Main functions and powers of the Auditor‑General** 
+**Part 4—Main functions and powers of the Auditor-General** 
 
     **Division 1—Statement audits**
 
@@ -132,21 +132,21 @@ Related legislation
 
 [28](#28).          Annual report for the Australian National Audit Office
 
-[29](#29).          Delegation by Auditor‑General
+[29](#29).          Delegation by Auditor-General
 
-**Part 5—Information‑gathering powers and secrecy** 
+**Part 5—Information-gathering powers and secrecy** 
 
-    **Division 1—Information‑gathering powers**
+    **Division 1—Information-gathering powers**
 
-[30](#30).          Relationship of information‑gathering powers with other laws
+[30](#30).          Relationship of information-gathering powers with other laws
 
-[31](#31).          Purpose for which information‑gathering powers may be used
+[31](#31).          Purpose for which information-gathering powers may be used
 
-[32](#32).          Power of Auditor‑General to obtain information
+[32](#32).          Power of Auditor-General to obtain information
 
 [33](#33).          Access to premises etc 
 
-[35](#35).          Self‑incrimination no excuse
+[35](#35).          Self-incrimination no excuse
 
     **Division 2—Confidentiality of information**
 
@@ -182,7 +182,7 @@ Related legislation
 
     **Division 3—Miscellaneous**
 
-[47](#47).          Independent Auditor to have same access powers etc  as Auditor‑General
+[47](#47).          Independent Auditor to have same access powers etc  as Auditor-General
 
 [48](#48).          Confidentiality of information
 
@@ -192,7 +192,7 @@ Related legislation
 
 [50](#50).          Guaranteed availability of parliamentary appropriations
 
-[51](#51).          Auditor‑General may approve expenditure
+[51](#51).          Auditor-General may approve expenditure
 
 [53](#53).          Joint Committee of Public Accounts and Audit may request draft estimates for Audit Office
 
@@ -204,13 +204,13 @@ Related legislation
 
 [57](#57).          Regulations
 
-**Schedule 1—Appointment, conditions of appointment etc. for Auditor‑General**
+**Schedule 1—Appointment, conditions of appointment etc. for Auditor-General**
 
-[1](#1).            Appointment of Auditor‑General
+[1](#1).            Appointment of Auditor-General
 
-[2](#2).            Minister must refer recommendation for appointment of Auditor‑General to the Joint Committee of Public Accounts and Audit
+[2](#2).            Minister must refer recommendation for appointment of Auditor-General to the Joint Committee of Public Accounts and Audit
 
-[3](#3).            Remuneration of Auditor‑General
+[3](#3).            Remuneration of Auditor-General
 
 [4](#4).            Recreation leave etc 
 
@@ -240,7 +240,7 @@ Related legislation
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Auditor‑General Act 1997_.
+                   This Act may be cited as the _Auditor-General Act 1997_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -264,7 +264,7 @@ Related legislation
 
                     <a name="audit-offic"></a>**_Audit Office_** means the Australian National Audit Office established by section 38.
 
-                    <a name="auditor-gener-function"></a>**_Auditor‑General function_** means a function that the Auditor‑General has under this Act or any other Act, and includes any function that the Auditor‑General has when acting as auditor under the _Corporations Act 2001_.
+                    <a name="auditor-gener-function"></a>**_Auditor-General function_** means a function that the Auditor-General has under this Act or any other Act, and includes any function that the Auditor-General has when acting as auditor under the _Corporations Act 2001_.
 
                     <a name="chief-execut"></a>**_Chief Executive_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
 
@@ -273,8 +273,6 @@ Related legislation
 Note:          Subsection (2) is also relevant to determining whether a body is a Commonwealth authority for the purposes of this Act.
 
                     <a name="commonwealth-compani"></a>**_Commonwealth company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="director"></a>**_director_**, in relation to a Commonwealth company or a subsidiary of a Commonwealth company, has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_.
 
@@ -318,21 +316,21 @@ Note:          Subsection (2) is also relevant to determinin
 
              (2)  The issue of whether a body corporate is a Commonwealth authority for the purpose of this Act is to be determined by reference to the definition in section 7 of the _Commonwealth Authorities and Companies Act 1997_ and is not affected by any provision in a law that states that the body corporate is not a Commonwealth authority for the purposes of that Act.
 
-## Part 3—The Auditor‑General
+## Part 3—The Auditor-General
 
-##### <a id="7"></a>7  Auditor‑General
+##### <a id="7"></a>7  Auditor-General
 
-             (1)  There is to be an Auditor‑General for the Commonwealth.
+             (1)  There is to be an Auditor-General for the Commonwealth.
 
-             (2)  Whenever a vacancy occurs in the office of Auditor‑General, an appointment must be made to the office as soon as practicable.
+             (2)  Whenever a vacancy occurs in the office of Auditor-General, an appointment must be made to the office as soon as practicable.
 
-##### <a id="8"></a>8  Independence of the Auditor‑General
+##### <a id="8"></a>8  Independence of the Auditor-General
 
-             (1)  The Auditor‑General is an independent officer of the Parliament.
+             (1)  The Auditor-General is an independent officer of the Parliament.
 
-             (2)  The functions, powers, rights, immunities and obligations of the Auditor‑General are as specified in this Act and other laws of the Commonwealth. There are no implied functions, powers, rights, immunities or obligations arising from the Auditor‑General being an independent officer of the Parliament.
+             (2)  The functions, powers, rights, immunities and obligations of the Auditor-General are as specified in this Act and other laws of the Commonwealth. There are no implied functions, powers, rights, immunities or obligations arising from the Auditor-General being an independent officer of the Parliament.
 
-             (3)  The powers of the Parliament to act in relation to the Auditor‑General are as specified in or applying under this Act and other laws of the Commonwealth. For this purpose, **_Parliament_** includes:
+             (3)  The powers of the Parliament to act in relation to the Auditor-General are as specified in or applying under this Act and other laws of the Commonwealth. For this purpose, **_Parliament_** includes:
 
                      (a)  each House of the Parliament; and
 
@@ -340,9 +338,9 @@ Note:          Subsection (2) is also relevant to determinin
 
                      (c)  the committees of each House of the Parliament and joint committees of both Houses of the Parliament.
 
-There are no implied powers of the Parliament arising from the Auditor‑General being an independent officer of the Parliament.
+There are no implied powers of the Parliament arising from the Auditor-General being an independent officer of the Parliament.
 
-             (4)  Subject to this Act and to other laws of the Commonwealth, the Auditor‑General has complete discretion in the performance or exercise of his or her functions or powers. In particular, the Auditor‑General is not subject to direction from anyone in relation to:
+             (4)  Subject to this Act and to other laws of the Commonwealth, the Auditor-General has complete discretion in the performance or exercise of his or her functions or powers. In particular, the Auditor-General is not subject to direction from anyone in relation to:
 
                      (a)  whether or not a particular audit is to be conducted; or
 
@@ -350,58 +348,52 @@ There are no implied powers of the Parliament arising from the Auditor‑General
 
                      (c)  the priority to be given to any particular matter.
 
-##### <a id="9"></a>9  Appointment, conditions etc. for Auditor‑General
+##### <a id="9"></a>9  Appointment, conditions etc. for Auditor-General
 
-                   Schedule 1 sets out the conditions of appointment and other matters that have effect in relation to the office of Auditor‑General.
+                   Schedule 1 sets out the conditions of appointment and other matters that have effect in relation to the office of Auditor-General.
 
-##### <a id="10"></a>10  Auditor‑General to have regard to audit priorities of
+##### <a id="10"></a>10  Auditor-General to have regard to audit priorities of
  Parliament etc.
 
-                   In performing or exercising his or her functions or powers, the Auditor‑General must have regard to:
+                   In performing or exercising his or her functions or powers, the Auditor-General must have regard to:
 
                      (a)  the audit priorities of the Parliament determined by the Joint Committee of Public Accounts and Audit under paragraph 8(1)(m) of the _Public Accounts and Audit Committee Act 1951_; and
 
                      (b)  any reports made by that Committee under paragraph 8(1)(h) or 8(1)(i) of that Act.
 
-## Part 4—Main functions and powers of the Auditor‑General
+## Part 4—Main functions and powers of the Auditor-General
 
 ### Division 1—Statement audits
 
 ##### <a id="11"></a>11  Agencies
 
-                   The Auditor‑General’s functions include auditing financial statements of Agencies in accordance with the _Financial Management and Accountability Act 1997_.
+                   The Auditor-General’s functions include auditing financial statements of Agencies in accordance with the _Financial Management and Accountability Act 1997_.
 
 ##### <a id="12"></a>12  Commonwealth authorities and subsidiaries
 
-                   The Auditor‑General’s functions include auditing financial statements of Commonwealth authorities and their subsidiaries in accordance with the _Commonwealth Authorities and Companies Act 1997_.
+                   The Auditor-General’s functions include auditing financial statements of Commonwealth authorities and their subsidiaries in accordance with the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="13"></a>13  Commonwealth companies and subsidiaries
 
-                   The Auditor‑General’s functions include auditing financial statements of Commonwealth companies and their subsidiaries in accordance with the _Commonwealth Authorities and Companies Act 1997_.
+                   The Auditor-General’s functions include auditing financial statements of Commonwealth companies and their subsidiaries in accordance with the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="14"></a>14  Audit fees for statement audits
 
-             (1)  A person or body whose financial statements are audited as mentioned in:
-
-                     (a)  section 12 or 13 of this Act; or
-
-                     (b)  subsection 30(3) of the _Governance of Australian Government Superannuation Schemes Act 2011_;
-
-is liable to pay audit fees for the audit, based on a scale of fees determined by the Auditor‑General.
+             (1)  A person or body whose financial statements are audited as mentioned in section 12 or 13 is liable to pay audit fees for the audit, based on a scale of fees determined by the Auditor-General.
 
              (2)  Fees are payable within 30 days after issue of a payment claim. Payment claims for instalments may be issued before the audit is completed.
 
-             (3)  The Auditor‑General, on behalf of the Commonwealth, may recover unpaid fees as a debt in a court of competent jurisdiction.
+             (3)  The Auditor-General, on behalf of the Commonwealth, may recover unpaid fees as a debt in a court of competent jurisdiction.
 
-             (4)  In the annual report under section 28, the Auditor‑General must include details of the basis on which the Auditor‑General determined the audit fees that applied during the financial year concerned.
+             (4)  In the annual report under section 28, the Auditor-General must include details of the basis on which the Auditor-General determined the audit fees that applied during the financial year concerned.
 
 ### Division 2—Performance audits
 
 ##### <a id="15"></a>15  Agencies
 
-             (1)  The Auditor‑General may at any time conduct a performance audit of an Agency.
+             (1)  The Auditor-General may at any time conduct a performance audit of an Agency.
 
-             (2)  As soon as practicable after completing the report on the audit, the Auditor‑General must:
+             (2)  As soon as practicable after completing the report on the audit, the Auditor-General must:
 
                      (a)  cause a copy of the report to be tabled in each House of the Parliament; and
 
@@ -409,19 +401,19 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (c)  give a copy of the report to the Chief Executive of the Agency.
 
-          (2A)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+          (2A)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
              (3)  For the purposes of this section, an Agency is taken not to include any persons who are employed or engaged under the _Members of Parliament (Staff) Act 1984_ and who are allocated to the Agency by regulations for the purposes of the definition of **_Agency_** in section 5 of the _Financial Management and Accountability Act 1997_.
 
 ##### <a id="16"></a>16  Commonwealth authorities and subsidiaries
 
-             (1)  The Auditor‑General may at any time conduct a performance audit of a Commonwealth authority (other than a GBE), or of any of its subsidiaries.
+             (1)  The Auditor-General may at any time conduct a performance audit of a Commonwealth authority (other than a GBE), or of any of its subsidiaries.
 
-             (2)  The Auditor‑General may conduct a performance audit of a Commonwealth authority that is a GBE, or of any of its subsidiaries, if the responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit requests the audit. The Finance Minister is to consult with the responsible Minister before making a request.
+             (2)  The Auditor-General may conduct a performance audit of a Commonwealth authority that is a GBE, or of any of its subsidiaries, if the responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit requests the audit. The Finance Minister is to consult with the responsible Minister before making a request.
 
-             (3)  Nothing prevents the Auditor‑General from asking a responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2). 
+             (3)  Nothing prevents the Auditor-General from asking a responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2). 
 
-             (4)  As soon as practicable after completing the report on an audit under this section, the Auditor‑General must:
+             (4)  As soon as practicable after completing the report on an audit under this section, the Auditor-General must:
 
                      (a)  cause a copy of the report to be tabled in each House of the Parliament; and
 
@@ -429,17 +421,17 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (c)  give a copy of the report to an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority in relation to which the audit was conducted.
 
-             (5)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+             (5)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
 ##### <a id="17"></a>17  Commonwealth companies and subsidiaries
 
-             (1)  The Auditor‑General may at any time conduct a performance audit of a Commonwealth company (other than a GBE), or of any of its subsidiaries.
+             (1)  The Auditor-General may at any time conduct a performance audit of a Commonwealth company (other than a GBE), or of any of its subsidiaries.
 
-             (2)  The Auditor‑General may conduct a performance audit of a wholly owned Commonwealth company that is a GBE, or of any of its subsidiaries, if the responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit requests the audit. The Finance Minister is to consult with the responsible Minister before making a request.
+             (2)  The Auditor-General may conduct a performance audit of a wholly owned Commonwealth company that is a GBE, or of any of its subsidiaries, if the responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit requests the audit. The Finance Minister is to consult with the responsible Minister before making a request.
 
-             (3)  Nothing prevents the Auditor‑General from asking a responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
+             (3)  Nothing prevents the Auditor-General from asking a responsible Minister, the Finance Minister or the Joint Committee of Public Accounts and Audit to make a particular request under subsection (2).
 
-             (4)  As soon as practicable after completing the report on an audit under this section, the Auditor‑General must:
+             (4)  As soon as practicable after completing the report on an audit under this section, the Auditor-General must:
 
                      (a)  cause a copy of the report to be tabled in each House of the Parliament; and
 
@@ -447,17 +439,17 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (c)  give a copy of the report to a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company in relation to which the audit was conducted.
 
-          (4A)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+          (4A)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
              (5)  In this section:
 
-                    <a name="compani"></a><a name="commonwealth"></a><a name="wholli-owned"></a>**_wholly‑owned_****_Commonwealth_****_company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997._
+                    <a name="compani"></a><a name="commonwealth"></a><a name=""></a><a name="wholli-owned"></a>**_wholly-owned_****_Commonwealth_****_company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997._
 
 ##### <a id="18"></a>18  General performance audit
 
-             (1)  The Auditor‑General may at any time conduct a review or examination of a particular aspect of the operations of the whole or part of the Commonwealth public sector, being a review or examination that is not limited to the operations of only one Agency, body or person.
+             (1)  The Auditor-General may at any time conduct a review or examination of a particular aspect of the operations of the whole or part of the Commonwealth public sector, being a review or examination that is not limited to the operations of only one Agency, body or person.
 
-             (2)  As soon as practicable after completing the report on an audit under this section, the Auditor‑General must:
+             (2)  As soon as practicable after completing the report on an audit under this section, the Auditor-General must:
 
                      (a)  cause a copy of the report to be tabled in each House of the Parliament; and
 
@@ -473,7 +465,7 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (g)  to the extent that the report relates to the operations of a person—give a copy of the report to the person.
 
-             (3)  The Auditor‑General may give a copy of, or an extract from, the report to any other person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+             (3)  The Auditor-General may give a copy of, or an extract from, the report to any other person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
              (4)  In this section:
 
@@ -481,25 +473,25 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
 ##### <a id="19"></a>19  Comments on proposed report
 
-             (1)  After preparing a proposed report on an audit of an Agency under section 15, the Auditor‑General must give a copy of the proposed report to the Chief Executive of the Agency.
+             (1)  After preparing a proposed report on an audit of an Agency under section 15, the Auditor-General must give a copy of the proposed report to the Chief Executive of the Agency.
 
-             (2)  After preparing a proposed report on an audit of a body under section 16 or 17, the Auditor‑General must give a copy of the proposed report to:
+             (2)  After preparing a proposed report on an audit of a body under section 16 or 17, the Auditor-General must give a copy of the proposed report to:
 
                      (a)  if the body is a Commonwealth authority or a subsidiary of a Commonwealth authority—an officer of the Commonwealth authority or the subsidiary of the Commonwealth authority; or
 
                      (b)  if the body is a Commonwealth company or a subsidiary of a Commonwealth company—a director or senior manager of the Commonwealth company or the subsidiary of the Commonwealth company.
 
-             (3)  After preparing a proposed report on an audit under section 15, 16, 17 or 18, the Auditor‑General may give a copy of, or an extract from, the proposed report to any person (including a Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+             (3)  After preparing a proposed report on an audit under section 15, 16, 17 or 18, the Auditor-General may give a copy of, or an extract from, the proposed report to any person (including a Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
-             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor‑General within 28 days after receiving the proposed report, or the extract from the proposed report, the Auditor‑General must consider those comments before preparing a final report.
+             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor-General within 28 days after receiving the proposed report, or the extract from the proposed report, the Auditor-General must consider those comments before preparing a final report.
 
-             (5)  The Auditor‑General must, in the final report, include all written comments received under subsection (4).
+             (5)  The Auditor-General must, in the final report, include all written comments received under subsection (4).
 
 ### Division 3—Audits etc. by arrangement
 
 ##### <a id="20"></a>20  Audits etc. by arrangement
 
-             (1)  The Auditor‑General may enter into an arrangement with any person or body:
+             (1)  The Auditor-General may enter into an arrangement with any person or body:
 
                      (a)  to audit financial statements of the person or body; or
 
@@ -507,15 +499,15 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (c)  to provide services to the person or body that are of a kind commonly performed by auditors.
 
-             (2)  An arrangement may provide for the payment of fees to the Auditor‑General. The fees are to be received by the Auditor‑General on behalf of the Commonwealth.
+             (2)  An arrangement may provide for the payment of fees to the Auditor-General. The fees are to be received by the Auditor-General on behalf of the Commonwealth.
 
-             (3)  The Auditor‑General must not perform functions under this section for a purpose that is outside the Commonwealth’s legislative power.
+             (3)  The Auditor-General must not perform functions under this section for a purpose that is outside the Commonwealth’s legislative power.
 
 ### Division 4—Functions under other Acts
 
 ##### <a id="21"></a>21  Acting as auditor under the Corporations Act
 
-             (1)  The Auditor‑General may accept appointment under the _Corporations Act 2001_ as the auditor of:
+             (1)  The Auditor-General may accept appointment under the _Corporations Act 2001_ as the auditor of:
 
                      (a)  a subsidiary of a Commonwealth authority; or
 
@@ -523,37 +515,37 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
                      (c)  any other company in which the Commonwealth has a controlling interest.
 
-             (2)  This section does not, by implication, limit the Auditor‑General’s power to enter into arrangements under section 20.
+             (2)  This section does not, by implication, limit the Auditor-General’s power to enter into arrangements under section 20.
 
 ##### <a id="22"></a>22  Functions under other Acts
 
-                   The Auditor‑General’s functions include any functions given to the Auditor‑General by any other Act.
+                   The Auditor-General’s functions include any functions given to the Auditor-General by any other Act.
 
 ### Division 5—Miscellaneous functions and powers
 
 ##### <a id="23"></a>23  Provision of advice or information
 
-             (1)  The Auditor‑General may provide advice or information to a person or body relating to the Auditor‑General’s responsibilities if, in the Auditor‑General’s opinion, it is in the Commonwealth’s interests to provide the information or advice.
+             (1)  The Auditor-General may provide advice or information to a person or body relating to the Auditor-General’s responsibilities if, in the Auditor-General’s opinion, it is in the Commonwealth’s interests to provide the information or advice.
 
              (2)  In this section:
 
-                    <a name="auditor-gener-respons"></a>**_Auditor‑General’s responsibilities_** means:
+                    <a name="auditor-gener-respons"></a>**_Auditor-General’s responsibilities_** means:
 
-                     (a)  the Auditor‑General’s functions and powers; and
+                     (a)  the Auditor-General’s functions and powers; and
 
-                     (b)  any matter which the Auditor‑General could consider when exercising those functions and powers.
+                     (b)  any matter which the Auditor-General could consider when exercising those functions and powers.
 
 ##### <a id="23A"></a>23A  Provision of information for performance audits
 
                    A person (the **_information holder_**) may disclose information to another person (the **_recipient_**) if:
 
-                     (a)  the information was obtained or generated by the information holder in the course of performing an Auditor‑General function; and
+                     (a)  the information was obtained or generated by the information holder in the course of performing an Auditor-General function; and
 
                      (b)  the information is provided to the recipient to assist the information holder in conducting a performance audit under Division 2, or a performance audit under an arrangement entered into under Division 3.
 
 ##### <a id="24"></a>24  Auditing standards
 
-                   The Auditor‑General must, by notice in the _Gazette_, set auditing standards that are to be complied with by persons performing any of the following functions:
+                   The Auditor-General must, by notice in the _Gazette_, set auditing standards that are to be complied with by persons performing any of the following functions:
 
                      (a)  an audit referred to in Division 1 or 2;
 
@@ -563,45 +555,45 @@ is liable to pay audit fees for the audit, based on a scale of fees determined b
 
 ##### <a id="25"></a>25  Extra reports to Parliament
 
-             (1)  The Auditor‑General may at any time cause a report to be tabled in either House of the Parliament on any matter.
+             (1)  The Auditor-General may at any time cause a report to be tabled in either House of the Parliament on any matter.
 
-             (2)  The Auditor‑General must give a copy of the report to the Prime Minister, the Finance Minister and to any other Minister who, in the Auditor‑General’s opinion, has a special interest in the report.
+             (2)  The Auditor-General must give a copy of the report to the Prime Minister, the Finance Minister and to any other Minister who, in the Auditor-General’s opinion, has a special interest in the report.
 
 ##### <a id="26"></a>26  Extra reports to Ministers
 
-             (1)  The Auditor‑General must bring to the attention of the responsible Minister any important matter that comes to the attention of the Auditor‑General while:
+             (1)  The Auditor-General must bring to the attention of the responsible Minister any important matter that comes to the attention of the Auditor-General while:
 
                      (a)  conducting an audit referred to in Division 1; or
 
                      (b)  performing functions as an auditor under the _Corporations Act 2001_.
 
-For this purpose,**_important matter_**means any matter that, in the Auditor‑General’s opinion, is important enough to justify it being brought to the attention of the responsible Minister.
+For this purpose,**_important matter_**means any matter that, in the Auditor-General’s opinion, is important enough to justify it being brought to the attention of the responsible Minister.
 
-             (2)  The Auditor‑General may at any time give a report to any Minister on any matter.
+             (2)  The Auditor-General may at any time give a report to any Minister on any matter.
 
 ##### <a id="27"></a>27  Contracting outsiders to assist with audits
 
-                   The Auditor‑General, on behalf of the Commonwealth, may engage any person under contract to assist in the performance of any Auditor‑General function.
+                   The Auditor-General, on behalf of the Commonwealth, may engage any person under contract to assist in the performance of any Auditor-General function.
 
 ##### <a id="28"></a>28  Annual report for the Australian National Audit Office
 
-                   As soon as practicable after 30 June in each year, the Auditor‑General must:
+                   As soon as practicable after 30 June in each year, the Auditor-General must:
 
                      (a)  prepare a report on the operations of the Audit Office during that year; and
 
                      (b)  cause a copy of the report to be tabled in each House of the Parliament.
 
-##### <a id="29"></a>29  Delegation by Auditor‑General
+##### <a id="29"></a>29  Delegation by Auditor-General
 
-             (1)  The Auditor‑General may, by written instrument, delegate any of the Auditor‑General’s powers or functions under any Act to an FMA official.
+             (1)  The Auditor-General may, by written instrument, delegate any of the Auditor-General’s powers or functions under any Act to an FMA official.
 
-             (2)  In exercising powers or functions under the delegation, the official must comply with any directions of the Auditor‑General.
+             (2)  In exercising powers or functions under the delegation, the official must comply with any directions of the Auditor-General.
 
-## Part 5—Information‑gathering powers and secrecy
+## Part 5—Information-gathering powers and secrecy
 
-### Division 1—Information‑gathering powers
+### Division 1—Information-gathering powers
 
-##### <a id="30"></a>30  Relationship of information‑gathering powers with other laws
+##### <a id="30"></a>30  Relationship of information-gathering powers with other laws
 
                    The operation of sections 32 and 33:
 
@@ -615,9 +607,9 @@ For this purpose,**_important matter_**means any matter that, in the Auditor‑G
 
                      (b)  is not limited by any other law (whether made before or after the commencement of this Act), except to the extent that the other law expressly excludes the operation of section 32 or 33.
 
-##### <a id="31"></a>31  Purpose for which information‑gathering powers may be used
+##### <a id="31"></a>31  Purpose for which information-gathering powers may be used
 
-                   The powers under sections 32 and 33 may be used for the purpose of, or in connection with, any Auditor‑General function, except:
+                   The powers under sections 32 and 33 may be used for the purpose of, or in connection with, any Auditor-General function, except:
 
                      (a)  an audit or other function under section 20; or
 
@@ -625,25 +617,25 @@ For this purpose,**_important matter_**means any matter that, in the Auditor‑G
 
                      (c)  preparing a report under section 25 or 26.
 
-##### <a id="32"></a>32  Power of Auditor‑General to obtain information
+##### <a id="32"></a>32  Power of Auditor-General to obtain information
 
-             (1)  The Auditor‑General may, by written notice, direct a person to do all or any of the following:
+             (1)  The Auditor-General may, by written notice, direct a person to do all or any of the following:
 
-                     (a)  to provide the Auditor‑General with any information that the Auditor‑General requires;
+                     (a)  to provide the Auditor-General with any information that the Auditor-General requires;
 
-                     (b)  to attend and give evidence before the Auditor‑General or an authorised official;
+                     (b)  to attend and give evidence before the Auditor-General or an authorised official;
 
-                     (c)  to produce to the Auditor‑General any documents in the custody or under the control of the person.
+                     (c)  to produce to the Auditor-General any documents in the custody or under the control of the person.
 
 Note:          A proceeding under paragraph (1)(b) is a “judicial proceeding” for the purposes of Part III of the _Crimes Act 1914_. The Crimes Act prohibits certain conduct in relation to judicial proceedings.
 
-             (2)  The Auditor‑General may direct that:
+             (2)  The Auditor-General may direct that:
 
-                     (a)  the information or answers to questions be given either orally or in writing (as the Auditor‑General requires);
+                     (a)  the information or answers to questions be given either orally or in writing (as the Auditor-General requires);
 
                      (b)  the information or answers to questions be verified or given on oath or affirmation.
 
-The oath or affirmation is an oath or affirmation that the information or evidence the person will give will be true, and may be administered by the Auditor‑General or by an authorised official.
+The oath or affirmation is an oath or affirmation that the information or evidence the person will give will be true, and may be administered by the Auditor-General or by an authorised official.
 
              (3)  A person must comply with a direction under this section.
 
@@ -657,11 +649,11 @@ Note 2:       Section 4AA of the _Crimes Act 1914_ sets the curren
 
              (5)  In this section:
 
-                    <a name="authorised-offici"></a>**_authorised official_**means an FMA official who is authorised by the Auditor‑General, in writing, to exercise powers or perform functions under this section.
+                    <a name="authorised-offici"></a>**_authorised official_**means an FMA official who is authorised by the Auditor-General, in writing, to exercise powers or perform functions under this section.
 
 ##### <a id="33"></a>33  Access to premises etc.
 
-             (1)  The Auditor‑General or an authorised official:
+             (1)  The Auditor-General or an authorised official:
 
                      (a)  may, at all reasonable times, enter and remain on any premises occupied by the Commonwealth, a Commonwealth authority or a Commonwealth company; and
 
@@ -669,7 +661,7 @@ Note 2:       Section 4AA of the _Crimes Act 1914_ sets the curren
 
                      (c)  may examine, make copies of or take extracts from any document.
 
-             (2)  An authorised official is not entitled to enter or remain on premises if he or she fails to produce a written authority on being asked by the occupier to produce proof of his or her authority. For this purpose, **_written authority_** means an authority signed by the Auditor‑General that states that the official is authorised to exercise powers under this Division.
+             (2)  An authorised official is not entitled to enter or remain on premises if he or she fails to produce a written authority on being asked by the occupier to produce proof of his or her authority. For this purpose, **_written authority_** means an authority signed by the Auditor-General that states that the official is authorised to exercise powers under this Division.
 
              (3)  If an authorised official enters, or proposes to enter, premises under this section, the occupier must provide the official with all reasonable facilities for the effective exercise of powers under this section.
 
@@ -683,11 +675,11 @@ Note 3:       Section 149.1 of the _Criminal Code_ deals with obst
 
              (4)  In this section:
 
-                    <a name="authorised-offici"></a>**_authorised official_**means an FMA official who is authorised by the Auditor‑General, in writing, to exercise powers or perform functions under this section.
+                    <a name="authorised-offici"></a>**_authorised official_**means an FMA official who is authorised by the Auditor-General, in writing, to exercise powers or perform functions under this section.
 
                     <a name="premis"></a>**_premises_**includes any land or place.
 
-##### <a id="35"></a>35  Self‑incrimination no excuse
+##### <a id="35"></a>35  Self-incrimination no excuse
 
                    A person is not excused from producing a document or answering a question under section 32 on the ground that the answer, or the production of the document, might tend to incriminate the person or make the person liable to a penalty. However, neither:
 
@@ -701,13 +693,13 @@ is admissible in evidence against the person in any criminal proceedings (other 
 
 ##### <a id="36"></a>36  Confidentiality of information
 
-             (1)  If a person has obtained information in the course of performing an Auditor‑General function, the person must not disclose the information except in the course of performing an Auditor‑General function or for the purpose of any Act that gives functions to the Auditor‑General.
+             (1)  If a person has obtained information in the course of performing an Auditor-General function, the person must not disclose the information except in the course of performing an Auditor-General function or for the purpose of any Act that gives functions to the Auditor-General.
 
                     Penalty:  Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-             (2)  Subsection (1) does not prevent the Auditor‑General from disclosing particular information to the Commissioner of the Australian Federal Police if the Auditor‑General is of the opinion that the disclosure is in the public interest.
+             (2)  Subsection (1) does not prevent the Auditor-General from disclosing particular information to the Commissioner of the Australian Federal Police if the Auditor-General is of the opinion that the disclosure is in the public interest.
 
           (2A)  Subsection (1) does not prevent a person (the **_information holder_**) from disclosing information to another person under section 23A if the information holder does so in the circumstances permitted by that section.
 
@@ -717,7 +709,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the information is disclosed in circumstances permitted by section 23A; and
 
-                     (c)  the information is not disclosed to the person because the person is performing an Auditor‑General function; and
+                     (c)  the information is not disclosed to the person because the person is performing an Auditor-General function; and
 
                      (d)  the person uses or discloses the information.
 
@@ -725,23 +717,23 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-          (2C)  Subsection (2B) does not apply if the Auditor‑General has consented to the use or disclosure.
+          (2C)  Subsection (2B) does not apply if the Auditor-General has consented to the use or disclosure.
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (2C): see subsection 13.3(3) of the _Criminal Code_.
 
-             (3)  A person who receives a proposed report, or an extract from a proposed report, under section 19 must not disclose any of the information in the report, or the extract, except with the consent of the Auditor‑General.
+             (3)  A person who receives a proposed report, or an extract from a proposed report, under section 19 must not disclose any of the information in the report, or the extract, except with the consent of the Auditor-General.
 
-                    Penalty for a contravention of this subsection:     Imprisonment for 2 years.
+                    Penalty for a contravention of this subsection:          Imprisonment for 2 years.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ##### <a id="37"></a>37  Sensitive information not to be included in public reports
 
-             (1)  The Auditor‑General must not include particular information in a public report if:
+             (1)  The Auditor-General must not include particular information in a public report if:
 
-                     (a)  the Auditor‑General is of the opinion that disclosure of the information would be contrary to the public interest for any of the reasons set out in subsection (2); or
+                     (a)  the Auditor-General is of the opinion that disclosure of the information would be contrary to the public interest for any of the reasons set out in subsection (2); or
 
-                     (b)  the Attorney‑General has issued a certificate to the Auditor‑General stating that, in the opinion of the Attorney‑General, disclosure of the information would be contrary to the public interest for any of the reasons set out in subsection (2).
+                     (b)  the Attorney-General has issued a certificate to the Auditor-General stating that, in the opinion of the Attorney-General, disclosure of the information would be contrary to the public interest for any of the reasons set out in subsection (2).
 
              (2)  The reasons are:
 
@@ -757,7 +749,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                       (f)  any other reason that could form the basis for a claim by the Crown in right of the Commonwealth in a judicial proceeding that the information should not be disclosed.
 
-             (3)  The Auditor‑General cannot be required, and is not permitted, to disclose to:
+             (3)  The Auditor-General cannot be required, and is not permitted, to disclose to:
 
                      (a)  a House of the Parliament; or
 
@@ -767,27 +759,27 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 information that subsection (1) prohibits being included in a public report.
 
-             (4)  If the Auditor‑General omits particular information from a public report because the Attorney‑General has issued a certificate under paragraph (1)(b) in relation to the information, the Auditor‑General must state in the report:
+             (4)  If the Auditor-General omits particular information from a public report because the Attorney-General has issued a certificate under paragraph (1)(b) in relation to the information, the Auditor-General must state in the report:
 
                      (a)  that information (which does not have to be identified) has been omitted from the report; and
 
-                     (b)  the reason or reasons (in terms of subsection (2)) why the Attorney‑General issued the certificate.
+                     (b)  the reason or reasons (in terms of subsection (2)) why the Attorney-General issued the certificate.
 
-             (5)  If, because of subsection (1), the Auditor‑General:
+             (5)  If, because of subsection (1), the Auditor-General:
 
                      (a)  decides not to prepare a public report; or
 
                      (b)  omits particular information from a public report;
 
-the Auditor‑General may prepare a report under this subsection that includes the information concerned. The Auditor‑General must give a copy of each report under this subsection to the Prime Minister, the Finance Minister and any responsible Minister.
+the Auditor-General may prepare a report under this subsection that includes the information concerned. The Auditor-General must give a copy of each report under this subsection to the Prime Minister, the Finance Minister and any responsible Minister.
 
              (6)  In this section:
 
-                    <a name="inform"></a>**_information_** includes written comments on the proposed report or the extract that are received by the Auditor‑General under subsection 19(4).
+                    <a name="inform"></a>**_information_** includes written comments on the proposed report or the extract that are received by the Auditor-General under subsection 19(4).
 
                     <a name="public-report"></a>**_public report_**means a report that is to be tabled in either House of the Parliament.
 
-                    <a name="state"></a>**_State_**includes a self‑governing Territory.
+                    <a name="state"></a>**_State_**includes a self-governing Territory.
 
 ## Part 6—The Australian National Audit Office
 
@@ -795,29 +787,29 @@ the Auditor‑General may prepare a report under this subsection that includes t
 
              (1)  There is established an Office called the Australian National Audit Office.
 
-             (2)  The Audit Office consists of the Auditor‑General and the staff referred to in section 40.
+             (2)  The Audit Office consists of the Auditor-General and the staff referred to in section 40.
 
 ##### <a id="39"></a>39  Function
 
-                   The function of the Audit Office is to assist the Auditor‑General in performing the Auditor‑General’s functions.
+                   The function of the Audit Office is to assist the Auditor-General in performing the Auditor-General’s functions.
 
 ##### <a id="40"></a>40  Staff
 
              (1)  The staff of the Audit Office are to be persons engaged under the _Public Service Act 1999_.
 
-Note:          Under section 27, the Auditor‑General may also engage persons under contract.
+Note:          Under section 27, the Auditor-General may also engage persons under contract.
 
           (1A)  For the purposes of the _Public Service Act 1999_:
 
-                     (a)  the Auditor‑General and the APS employees assisting the Auditor‑General together constitute a Statutory Agency; and
+                     (a)  the Auditor-General and the APS employees assisting the Auditor-General together constitute a Statutory Agency; and
 
-                     (b)  the Auditor‑General is the Head of that Statutory Agency.
+                     (b)  the Auditor-General is the Head of that Statutory Agency.
 
-             (2)  Directions to staff of the Audit Office relating to the performance of the Auditor‑General’s functions may only be given by:
+             (2)  Directions to staff of the Audit Office relating to the performance of the Auditor-General’s functions may only be given by:
 
-                     (a)  the Auditor‑General; or
+                     (a)  the Auditor-General; or
 
-                     (b)  a member of the staff of the Audit Office authorised to give such directions by the Auditor‑General.
+                     (b)  a member of the staff of the Audit Office authorised to give such directions by the Auditor-General.
 
 ## Part 7—Audit of the Australian National Audit Office
 
@@ -841,15 +833,15 @@ Note:          Under section 27, the Auditor‑General may a
 
 ##### <a id="44"></a>44  Audit of annual financial statements
 
-             (1)  After preparing the annual financial statements for the Audit Office under section 49 of the _Financial Management and Accountability Act 1997_, the Auditor‑General must give the statements to the Independent Auditor.
+             (1)  After preparing the annual financial statements for the Audit Office under section 49 of the _Financial Management and Accountability Act 1997_, the Auditor-General must give the statements to the Independent Auditor.
 
-             (2)  The Independent Auditor must audit the statements in accordance with section 57 of the _Financial Management and Accountability Act 1997_. For this purpose, references in that section to the Auditor‑General are to be read as references to the Independent Auditor.
+             (2)  The Independent Auditor must audit the statements in accordance with section 57 of the _Financial Management and Accountability Act 1997_. For this purpose, references in that section to the Auditor-General are to be read as references to the Independent Auditor.
 
 ##### <a id="45"></a>45  Performance audit
 
              (1)  The Independent Auditor may at any time conduct a performance audit of the Audit Office.
 
-             (2)  After preparing a proposed report on an audit, the Independent Auditor must give a copy of the proposed report to the Auditor‑General. If the Auditor‑General gives written comments to the Independent Auditor within 28 days after receiving the proposed report, the Independent Auditor must consider those comments before preparing a final report.
+             (2)  After preparing a proposed report on an audit, the Independent Auditor must give a copy of the proposed report to the Auditor-General. If the Auditor-General gives written comments to the Independent Auditor within 28 days after receiving the proposed report, the Independent Auditor must consider those comments before preparing a final report.
 
              (3)  As soon as practicable after completing the report on the audit, the Independent Auditor must:
 
@@ -861,17 +853,17 @@ Note:          Under section 27, the Auditor‑General may a
 
 ##### <a id="46"></a>46  Sensitive information not to be included in public reports
 
-                   Section 37 applies to the Independent Auditor as if references in that section to the Auditor‑General were references to the Independent Auditor.
+                   Section 37 applies to the Independent Auditor as if references in that section to the Auditor-General were references to the Independent Auditor.
 
 ### Division 3—Miscellaneous
 
-##### <a id="47"></a>47  Independent Auditor to have same access powers etc. as Auditor‑General
+##### <a id="47"></a>47  Independent Auditor to have same access powers etc. as Auditor-General
 
-                   Division 1 of Part 5 applies in relation to the performance of functions under this Part in the same way as it applies in relation to the performance of Auditor‑General functions. For that purpose:
+                   Division 1 of Part 5 applies in relation to the performance of functions under this Part in the same way as it applies in relation to the performance of Auditor-General functions. For that purpose:
 
-                     (a)  references in that Division to an Auditor‑General function are to be read as references to a function of the Independent Auditor under this Part; and
+                     (a)  references in that Division to an Auditor-General function are to be read as references to a function of the Independent Auditor under this Part; and
 
-                     (b)  other references in that Division to the Auditor‑General are to be read as references to the Independent Auditor.
+                     (b)  other references in that Division to the Auditor-General are to be read as references to the Independent Auditor.
 
 ##### <a id="48"></a>48  Confidentiality of information
 
@@ -895,23 +887,23 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The Finance Minister must issue drawing rights under section 27 of the _Financial Management and Accountability Act 1997_ that cover in full the amounts that the Parliament appropriates for the purposes of the Audit Office.
 
-##### <a id="51"></a>51  Auditor‑General may approve expenditure
+##### <a id="51"></a>51  Auditor-General may approve expenditure
 
-                   The Auditor‑General has authority to approve a proposal to spend money under an appropriation for the Audit Office.
+                   The Auditor-General has authority to approve a proposal to spend money under an appropriation for the Audit Office.
 
-Note:          The Auditor‑General’s power under this section may be delegated under section 29.
+Note:          The Auditor-General’s power under this section may be delegated under section 29.
 
 ##### <a id="53"></a>53  Joint Committee of Public Accounts and Audit may request draft estimates for Audit Office
 
-             (1)  The Joint Committee of Public Accounts and Audit may request the Auditor‑General to submit to the Committee draft estimates for the Audit Office for a financial year before the annual Commonwealth budget for that financial year.
+             (1)  The Joint Committee of Public Accounts and Audit may request the Auditor-General to submit to the Committee draft estimates for the Audit Office for a financial year before the annual Commonwealth budget for that financial year.
 
-             (2)  The Auditor‑General must comply with the request in time to allow the Committee to consider the draft estimates and make recommendations on them before the budget.
+             (2)  The Auditor-General must comply with the request in time to allow the Committee to consider the draft estimates and make recommendations on them before the budget.
 
 Note:          For the Committee’s powers to consider draft estimates and make recommendations, see paragraphs 8(1)(j) and (l) of the _Public Accounts and Audit Committee Act 1951_.
 
 ##### <a id="54"></a>54  Provision of information to the Finance Minister
 
-             (1)  This section applies to a requirement under section 50 of the _Financial Management and Accountability Act 1997_ for the Auditor‑General to give the Finance Minister financial statements or information.
+             (1)  This section applies to a requirement under section 50 of the _Financial Management and Accountability Act 1997_ for the Auditor-General to give the Finance Minister financial statements or information.
 
              (2)  To be effective, the requirement must be in writing.
 
@@ -921,7 +913,7 @@ Note:          For the Committee’s powers to consider draft 
 
 ##### <a id="55"></a>55  Indemnity
 
-             (1)  The Commonwealth must indemnify a person for any liability that the person incurs for an act or omission of the person in the course of performing an Auditor‑General function.
+             (1)  The Commonwealth must indemnify a person for any liability that the person incurs for an act or omission of the person in the course of performing an Auditor-General function.
 
              (2)  The indemnity does not apply if the liability arose from an act or omission in bad faith.
 
@@ -949,31 +941,31 @@ Note:          Section 4AA of the _Crimes Act 1914_ sets the
 
 ##### <a id="57"></a>57  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule 1—Appointment, conditions of appointment etc. for Auditor‑General
+# Schedule 1—Appointment, conditions of appointment etc. for Auditor-General
 
 _Note:       See section 9._
 
-##### <a id="1"></a>1  Appointment of Auditor‑General
+##### <a id="1"></a>1  Appointment of Auditor-General
 
-             (1)  The Auditor‑General is to be appointed by the Governor‑General, on the recommendation of the Minister, for a term of 10 years.
+             (1)  The Auditor-General is to be appointed by the Governor-General, on the recommendation of the Minister, for a term of 10 years.
 
-Note:          The effect of section 19A of the _Acts Interpretation Act 1901_ is that “the Minister” refers to the Minister who administers this clause. The administration of Acts or particular provisions of Acts is allocated by Administrative Arrangements Orders made by the Governor‑General.
+Note:          The effect of section 19A of the _Acts Interpretation Act 1901_ is that “the Minister” refers to the Minister who administers this clause. The administration of Acts or particular provisions of Acts is allocated by Administrative Arrangements Orders made by the Governor-General.
 
-             (2)  The Auditor‑General holds office on a full‑time basis.
+             (2)  The Auditor-General holds office on a full-time basis.
 
-             (3)  For the purposes of the _Superannuation Act 1976_ and the Trust Deed under the _Superannuation Act 1990_, the minimum retiring age for the Auditor‑General is 55\. However, if the instrument of appointment specifies a younger age, then the younger age applies.
+             (3)  For the purposes of the _Superannuation Act 1976_ and the Trust Deed under the _Superannuation Act 1990_, the minimum retiring age for the Auditor-General is 55\. However, if the instrument of appointment specifies a younger age, then the younger age applies.
 
-             (4)  A person cannot be appointed as Auditor‑General if the person has previously been appointed as Auditor‑General under this Act or under the _Audit Act 1901_.
+             (4)  A person cannot be appointed as Auditor-General if the person has previously been appointed as Auditor-General under this Act or under the _Audit Act 1901_.
 
-##### <a id="2"></a>2  Minister must refer recommendation for appointment of Auditor‑General to the Joint Committee of Public Accounts and Audit
+##### <a id="2"></a>2  Minister must refer recommendation for appointment of Auditor-General to the Joint Committee of Public Accounts and Audit
 
-             (1)  The Minister must not make a recommendation to the Governor‑General under clause 1 unless:
+             (1)  The Minister must not make a recommendation to the Governor-General under clause 1 unless:
 
                      (a)  the Minister has referred the proposed recommendation to the Joint Committee of Public Accounts and Audit for approval; and
 
@@ -983,11 +975,11 @@ Note:          The effect of section 19A of the _Acts Interp
 
 Note:          Section 8A of the _Public Accounts and Audit Committee Act 1951_ deals with  how the Joint Committee of Public Accounts and Audit approves proposals.
 
-##### <a id="3"></a>3  Remuneration of Auditor‑General
+##### <a id="3"></a>3  Remuneration of Auditor-General
 
-             (1)  The Auditor‑General is to be paid the remuneration that is determined by the Remuneration Tribunal. However, if no determination of that remuneration by the Tribunal is in operation, the Auditor‑General is to be paid the remuneration that is prescribed by the regulations.
+             (1)  The Auditor-General is to be paid the remuneration that is determined by the Remuneration Tribunal. However, if no determination of that remuneration by the Tribunal is in operation, the Auditor-General is to be paid the remuneration that is prescribed by the regulations.
 
-             (2)  The Auditor‑General is to be paid such allowances as are prescribed by the regulations.
+             (2)  The Auditor-General is to be paid such allowances as are prescribed by the regulations.
 
              (3)  This clause has effect subject to the _Remuneration Tribunal Act 1973_.
 
@@ -995,19 +987,19 @@ Note:          Section 8A of the _Public Accounts and Audit 
 
 ##### <a id="4"></a>4  Recreation leave etc.
 
-             (1)  The Auditor‑General has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  The Auditor-General has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant the Auditor‑General other leave of absence on such terms and conditions as the Minister determines. The terms and conditions may include terms and conditions relating to remuneration.
+             (2)  The Minister may grant the Auditor-General other leave of absence on such terms and conditions as the Minister determines. The terms and conditions may include terms and conditions relating to remuneration.
 
 ##### <a id="5"></a>5  Resignation
 
-                   The Auditor‑General may resign by giving the Governor‑General a signed resignation notice.
+                   The Auditor-General may resign by giving the Governor-General a signed resignation notice.
 
 ##### <a id="6"></a>6  Removal from office etc.
 
-             (1)  The Governor‑General may remove the Auditor‑General from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor‑General praying for the removal of the Auditor‑General on the ground of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may remove the Auditor-General from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor-General praying for the removal of the Auditor-General on the ground of misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must remove the Auditor‑General from office if the Auditor‑General does any of the following:
+             (2)  The Governor-General must remove the Auditor-General from office if the Auditor-General does any of the following:
 
                      (a)  becomes bankrupt;
 
@@ -1017,41 +1009,41 @@ Note:          Section 8A of the _Public Accounts and Audit 
 
                      (d)  assigns his or her remuneration for the benefit of his or her creditors.
 
-             (3)  If the Auditor‑General is:
+             (3)  If the Auditor-General is:
 
                      (a)  an eligible employee for the purposes of the _Superannuation Act 1976_; or
 
                      (b)  a member of the superannuation scheme established by the Trust Deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
-the Governor‑General may, with the consent of the Auditor‑General, retire the Auditor‑General from office on the ground of physical or mental incapacity.
+the Governor-General may, with the consent of the Auditor-General, retire the Auditor-General from office on the ground of physical or mental incapacity.
 
-             (4)  For the purposes of the _Superannuation Act 1976_, the Auditor‑General is taken to have been retired from office on the ground of invalidity if:
+             (4)  For the purposes of the _Superannuation Act 1976_, the Auditor-General is taken to have been retired from office on the ground of invalidity if:
 
-                     (a)  the Auditor‑General is removed or retired from office on the ground of physical or mental incapacity; and
+                     (a)  the Auditor-General is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  CSC gives a certificate under section 54C of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 1976_) gives a certificate under section 54C of that Act.
 
-             (5)  For the purposes of the _Superannuation Act 1990_, the Auditor‑General is taken to have been retired from office on the ground of invalidity if:
+             (5)  For the purposes of the _Superannuation Act 1990_, the Auditor-General is taken to have been retired from office on the ground of invalidity if:
 
-                     (a)  the Auditor‑General is removed or retired from office on the ground of physical or mental incapacity; and
+                     (a)  the Auditor-General is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  CSC gives a certificate under section 13 of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 1990_) gives a certificate under section 13 of that Act.
 
-             (6)  For the purposes of the _Superannuation Act 2005_, the Auditor‑General is taken to have been retired from office on the ground of invalidity if:
+             (6)  For the purposes of the _Superannuation Act 2005_, the Auditor-General is taken to have been retired from office on the ground of invalidity if:
 
-                     (a)  the Auditor‑General is removed or retired from office on the ground of physical or mental incapacity; and
+                     (a)  the Auditor-General is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  CSC gives an approval and certificate under section 43 of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 2005_) gives an approval and certificate under section 43 of that Act.
 
 ##### <a id="7"></a>7  Acting appointment
 
-             (1)  The Minister may appoint a person to act as Auditor‑General:
+             (1)  The Minister may appoint a person to act as Auditor-General:
 
-                     (a)  if there is a vacancy in the office of Auditor‑General, whether or not an appointment has previously been made to the office; or
+                     (a)  if there is a vacancy in the office of Auditor-General, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Auditor‑General is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Auditor-General is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
 
@@ -1063,7 +1055,7 @@ the Governor‑General may, with the consent of the Auditor‑General, retire th
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-             (3)  A person acting under this section is entitled to the same remuneration and allowances as apply to the office of Auditor‑General. The Consolidated Revenue Fund is appropriated for the payment of the remuneration and allowances.
+             (3)  A person acting under this section is entitled to the same remuneration and allowances as apply to the office of Auditor-General. The Consolidated Revenue Fund is appropriated for the payment of the remuneration and allowances.
 
 Note:          Section 33A of the _Acts Interpretation Act 1901_ has rules that apply to acting appointments.
 
@@ -1073,15 +1065,15 @@ _Note:       See section 42._
 
 ##### <a id="1"></a>1  Appointment of Independent Auditor
 
-             (1)  The Independent Auditor is to be appointed by the Governor‑General, on the recommendation of the Minister, for a term of at least 3 years and not more than 5 years.
+             (1)  The Independent Auditor is to be appointed by the Governor-General, on the recommendation of the Minister, for a term of at least 3 years and not more than 5 years.
 
-             (2)  The Independent Auditor holds office on a part‑time basis.
+             (2)  The Independent Auditor holds office on a part-time basis.
 
-Note:          The effect of section 19A of the _Acts Interpretation Act 1901_ is that “the Minister” refers to the Minister who administers this clause. The administration of Acts or particular provisions of Acts is allocated by Administrative Arrangements Orders made by the Governor‑General.
+Note:          The effect of section 19A of the _Acts Interpretation Act 1901_ is that “the Minister” refers to the Minister who administers this clause. The administration of Acts or particular provisions of Acts is allocated by Administrative Arrangements Orders made by the Governor-General.
 
 ##### <a id="2"></a>2  Minister must refer recommendation for appointment of Independent Auditor to the Joint Committee of Public Accounts and Audit
 
-             (1)  The Minister must not make a recommendation to the Governor‑General under clause 1 unless:
+             (1)  The Minister must not make a recommendation to the Governor-General under clause 1 unless:
 
                      (a)  the Minister has referred the proposed recommendation to the Joint Committee of Public Accounts and Audit for approval; and
 
@@ -1099,13 +1091,13 @@ Note:          Section 8A of the _Public Accounts and Audit 
 
 ##### <a id="4"></a>4  Resignation
 
-                   The Independent Auditor may resign by giving the Governor‑General a signed resignation notice.
+                   The Independent Auditor may resign by giving the Governor-General a signed resignation notice.
 
 ##### <a id="5"></a>5  Removal from office etc.
 
-             (1)  The Governor‑General may remove the Independent Auditor from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor‑General praying for the removal of the Independent Auditor on the ground of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may remove the Independent Auditor from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor-General praying for the removal of the Independent Auditor on the ground of misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must remove the Independent Auditor from office if the Independent Auditor does any of the following:
+             (2)  The Governor-General must remove the Independent Auditor from office if the Independent Auditor does any of the following:
 
                      (a)  becomes bankrupt;
 
@@ -1121,27 +1113,27 @@ Note:          Section 8A of the _Public Accounts and Audit 
 
                      (b)  a member of the superannuation scheme established by the Trust Deed under the _Superannuation Act 1990_; or
 
-                     (c)  an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
+                     (c)  an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_;
 
-the Governor‑General may, with the consent of the Independent Auditor, retire the Independent Auditor from office on the ground of physical or mental incapacity.
+the Governor-General may, with the consent of the Independent Auditor, retire the Independent Auditor from office on the ground of physical or mental incapacity.
 
              (4)  For the purposes of the _Superannuation Act 1976_, the Independent Auditor is taken to have been retired from office on the ground of invalidity if:
 
                      (a)  the Independent Auditor is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  CSC gives a certificate under section 54C of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 1976_) gives a certificate under section 54C of that Act.
 
              (5)  For the purposes of the _Superannuation Act 1990_, the Independent Auditor is taken to have been retired from office on the ground of invalidity if:
 
                      (a)  the Independent Auditor is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  CSC gives a certificate under section 13 of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 1990_) gives a certificate under section 13 of that Act.
 
              (6)  For the purposes of the _Superannuation Act 2005_, the Independent Auditor is taken to have been retired from office on the ground of invalidity if:
 
                      (a)  the Independent Auditor is removed or retired from office on the ground of physical or mental incapacity; and
 
-                     (b)  CSC gives an approval and certificate under section 43 of that Act.
+                     (b)  the Board (within the meaning of the _Superannuation Act 2005_) gives an approval and certificate under section 43 of that Act.
 
 ##### <a id="6"></a>6  Acting appointment
 
@@ -1207,7 +1199,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Auditor‑General Act 1997</div>
+    <div>Auditor-General Act 1997</div>
   </td>
   <td>
     <div>151, 1997</div>
@@ -1324,138 +1316,17 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 1 (items 29, 30)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 77–83) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–11): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_ The _Auditor‑General Act 1997_ was amended by Schedule 1 (items 104–106) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(a)_ The _Auditor-General Act 1997_ was amended by Schedule 1 (items 104–106) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_ The _Auditor‑General Act 1997_ was amended by Schedule 3 (items 36–40) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(b)_ The _Auditor-General Act 1997_ was amended by Schedule 3 (items 36–40) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-_(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1509,7 +1380,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 8, 2009; No. 58, 2011</div>
+    <div>am. No. 55, 2001; No. 8, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1526,22 +1397,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1757,7 +1612,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 146, 1999; No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1773,51 +1628,9 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 77  Subsection 56(3) (definition of _modifications_)
-
-Repeal the definition.
-
-## 78  At the end of subclause 7(1) of Schedule 1
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 79  Subclause 7(2) of Schedule 1
-
-Repeal the subclause.
-
-## 80  Subclause 7(3) of Schedule 1 (note)
-
-Repeal the note.
-
-## 81  Subclause 6(1) of Schedule 2
-
-Omit “(1)”.
-
-## 82  At the end of subclause 6(1) of Schedule 2
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 83  Subclause 6(2) of Schedule 2
-
-Repeal the subclause.
-
-As at 12 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1827,9 +1640,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1839,9 +1652,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1849,20 +1662,19 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2007 
- (No. 166, 2007)_
+_Financial Framework Legislation Amendment Act (No. 1) 2007 (No. 166, 2007)_
 
 ## Schedule 1
 
 ## 13  Saving—agreements for “net appropriations”
 
-(1)       Despite the amendment made by item 1, section 52 of the _Auditor‑General Act 1997_ (as in force immediately before the commencement of that item) continues to apply after that commencement in relation to agreements entered into before that commencement.
+(1)        Despite the amendment made by item 1, section 52 of the _Auditor-General Act 1997_ (as in force immediately before the commencement of that item) continues to apply after that commencement in relation to agreements entered into before that commencement.
 
 * * *
 
@@ -1877,21 +1689,5 @@ The amendments made by this Schedule (other than items 21 and 22) apply to rep
 ## 30  Application—items 21 and 22
 
 The amendments made by items 21 and 22 of this Schedule apply to the use or disclosure of information on or after the commencement of those items.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
