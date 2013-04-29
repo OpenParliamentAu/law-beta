@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00769/Html/d71f5ddd-13aa-41db-acb9-6fc18b16d321_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00487/Html/ClassificationPFandCG1995_WD02_image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 26 November 2010
- taking into account amendments up to Act No. 127 of 2010
+This compilation was prepared on 13 July 2010
+ taking into account amendments up to Act No. 93 of 2010
 
 [**Note**: Part 10 ceases to have effect on 18 August 2012, _see_ section 115]
 
@@ -406,7 +406,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Purpose
 
-                   The purpose of this Act is to provide for the classification of publications, films and computer games for the Australian Capital Territory. This Act is intended to form part of a Commonwealth/State/Territory scheme for the classification of publications, films and computer games and for the enforcement of those classifications.
+                   The purpose of this Act is to provide for the classification of publications, films and computer games for the Australian   Capital Territory. This Act is intended to form part of a Commonwealth/State/Territory scheme for the classification of publications, films and computer games and for the enforcement of those classifications.
 
 Note:          Provisions dealing with the consequences of not having material classified and the enforcement of classification decisions are to be found in complementary laws of the States and Territories.
 
@@ -498,7 +498,7 @@ but does not include:
 
                      (d)  to assess or refuse to assess the likely classification of an unclassified film or an unclassified computer game; or
 
-                   (da)  to revoke an assessment of the likely classification of an unclassified film or an unclassified computer game; or
+                    (da)  to revoke an assessment of the likely classification of an unclassified film or an unclassified computer game; or
 
                      (e)  to decline to deal with or to deal further with an application under this Act; or
 
@@ -510,7 +510,7 @@ but does not include:
 
                       (i)  to revoke the classification of a film or computer game under section 21A; or
 
-                    (ia)  to revoke the classification of a film under section 21AA; or
+                     (ia)  to revoke the classification of a film under section 21AA; or
 
                       (j)  to revoke the classification of, or consumer advice for, a publication, film or computer game under section 22B; or
 
@@ -1014,7 +1014,7 @@ Note:          Provisions that require sellers and exhibitors 
 
                      (b)  it directly or indirectly provides instruction on the doing of a terrorist act; or
 
-                     (c)  it directly praises the doing of a terrorist act in circumstances where there is a substantial risk that such praise might have the effect of leading a person (regardless of his or her age or any mental impairment (within the meaning of section 7.3 of the _Criminal Code_) that the person might suffer) to engage in a terrorist act.
+                     (c)  it directly praises the doing of a terrorist act in circumstances where there is a risk that such praise might have the effect of leading a person (regardless of his or her age or any mental impairment (within the meaning of section 7.3 of the _Criminal Code_) that the person might suffer) to engage in a terrorist act.
 
              (3)  A publication, film or computer game does not advocate the doing of a terrorist act if it depicts or describes a terrorist act, but the depiction or description could reasonably be considered to be done merely as part of public discussion or debate or as entertainment or satire.
 
@@ -1308,7 +1308,7 @@ the Board may decline to deal with the application.
 
                     (ca)  accompanied by a copy of the game unless the game is an amusement or circuit board game that, in the opinion of the Board, is physically impracticable to submit to the Board’s premises for classification; and
 
-                   (cb)  if the application is for classification of a computer game that is an add-on—accompanied by a copy of the computer game into which the add-on is capable of generating new elements or additional levels; and
+                    (cb)  if the application is for classification of a computer game that is an add-on—accompanied by a copy of the computer game into which the add-on is capable of generating new elements or additional levels; and
 
                      (d)  accompanied by the prescribed fee for that category of game; and
 
@@ -1472,7 +1472,7 @@ Note:          The Minister’s determination under section 
 
              (2)  Subsection (1A) or (1) does not prevent a publication, film or computer game from being classified if the application for the classification was an enforcement application.
 
-##### <a id="22A"></a>22A  Applications for classification for enforcement purposes
+##### <a id="22A"></a>22A  Applications for classification for enforcement purposes
 
              (1)  An application for classification of a publication, film or computer game that is an enforcement application must be:
 
@@ -1616,7 +1616,7 @@ Note 2:       The regulations may prescribe circumstances in which a
 
                      (a)  the Director has reasonable grounds to believe that a publication is a submittable publication; and
 
-                     (b)  the publication is being published in the Australian Capital Territory, or the Director has reasonable grounds to believe that it will be published in the Australian Capital Territory;
+                     (b)  the publication is being published in the Australian Capital Territory, or the Director has reasonable grounds to believe that it will be published in the Australian   Capital Territory;
 
 the Director may, by notice in writing given to the publisher of the publication, require the publisher to submit an application for classification of the publication, or of subsequent issues of the publication, by the Board.
 
@@ -1632,7 +1632,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (5)  It is a defence to a prosecution for an offence against subsection (3) if the defendant proves that he or she did not intend to:
 
-                     (a)  publish the publication in the Australian Capital Territory; or
+                     (a)  publish the publication in the Australian   Capital Territory; or
 
                      (b)  cause, authorise, permit or licence the publication to be published in the Australian Capital Territory.
 
@@ -1658,7 +1658,7 @@ the Director may, by notice in writing given to the publisher of the film, requi
 
              (5)  It is a defence to a prosecution for an offence against subsection (3) if the defendant proves that he or she did not intend to:
 
-                     (a)  publish the film in the Australian Capital Territory; or
+                     (a)  publish the film in the Australian   Capital Territory; or
 
                      (b)  cause, authorise, permit or licence the film to be published in the Australian Capital Territory.
 
@@ -1670,7 +1670,7 @@ the Director may, by notice in writing given to the publisher of the film, requi
 
                      (a)  the Director has reasonable grounds to believe that a computer game is likely to contain contentious material; and
 
-                     (b)  the computer game is being published in the Australian Capital Territory, or the Director has reasonable grounds to believe that it will be published in the Australian Capital Territory;
+                     (b)  the computer game is being published in the Australian Capital Territory, or the Director has reasonable grounds to believe that it will be published in the Australian   Capital Territory;
 
 the Director may, by notice in writing given to the publisher of the game, require the publisher to submit an application for classification of the game.
 
@@ -1906,7 +1906,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  publish the publication, film or computer game in the Australian Capital Territory; or
 
-                     (b)  cause, authorise, permit or licence the publication, film or computer game to be published in the Australian Capital Territory.
+                     (b)  cause, authorise, permit or licence the publication, film or computer game to be published in the Australian   Capital Territory.
 
 ### Division 2—Advertising of unclassified films and unclassified computer games
 
@@ -2478,7 +2478,7 @@ the Deputy Director is to act as the Director during the vacancy, absence or ina
 
 ##### <a id="77A"></a>77A  Powers of Convenor under State/Territory laws
 
-                   The Convenor may exercise powers conferred on him or her by a provision of a law of a State or the Northern Territory that corresponds to section 44A.
+                   The Convenor may exercise powers conferred on him or her by a provision of a law of a State or the Northern   Territory that corresponds to section 44A.
 
 ### Division 3—Procedure of the Review Board
 
@@ -3308,7 +3308,7 @@ the responsible officer must return the material to the owner. Otherwise the req
 
 ##### <a id="115"></a>115  Sunset provision [_see_ Note 1]
 
-                   This Part ceases to have effect at the end of the period of 5 years beginning on the day after the day on which the _Northern Territory__National Emergency Response Act 2007_ receives the Royal Assent.
+                   This Part ceases to have effect at the end of the period of 5 years beginning on the day after the day on which the _Northern   Territory__National Emergency Response Act 2007_ receives the Royal Assent.
 
 # Notes to the _Classification (Publications, Films and Computer Games) Act 1995_
 
@@ -3654,30 +3654,13 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>National Security Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>127, 2010</div>
-  </td>
-  <td>
-    <div>24 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): 25 Nov 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Classification (Publications, Films and Computer Games) Act 1995_ was amended by Schedule 2 only of the _Law and Justice Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Classification (Publications, Films and Computer Games) Act 1995_ was amended by Schedule 1 (items 293–296) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Classification (Publications, Films and Computer Games) Act 1995_ was amended by Schedule 1 (items 293–296) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -3935,14 +3918,6 @@ _(d)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>ad. No. 179, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 127, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5212,9 +5187,9 @@ _Classification (Publications, Films and Computer Games) Amendment Act 2004 (N
 
 ## 16  Application of amendments
 
-(1)       The amendments made by this Schedule apply to the doing of things at or after the commencement of this Schedule.
+(1)        The amendments made by this Schedule apply to the doing of things at or after the commencement of this Schedule.
 
-(2)       The insertion of subsection 7(4) by item 6 of this Schedule does not affect the interpretation of section 7 of the _Classification (Publications, Films and Computer Games) Act 1995_ as in force before the inclusion of the subsection.
+(2)        The insertion of subsection 7(4) by item 6 of this Schedule does not affect the interpretation of section 7 of the _Classification (Publications, Films and Computer Games) Act 1995_ as in force before the inclusion of the subsection.
 
 ## 17  Conversion of certain pre-commencement classifications of films to equivalent new classifications
 
@@ -5407,13 +5382,13 @@ The amendments made by this Schedule do not affect the validity, for the purpose
 
 ## 20  Markings for classifications
 
-(1)       After this Schedule commences, the Director may, under subsection 8(1) of the _Classification (Publications, Films and Computer Games) Act 1995_, determine:
+(1)        After this Schedule commences, the Director may, under subsection 8(1) of the _Classification (Publications, Films and Computer Games) Act 1995_, determine:
 
                      (a)  markings for types of classifications that existed before the commencement of this Schedule; and
 
                      (b)  the manner in which the markings are to be displayed.
 
-(2)       To avoid doubt, the Director may under subitem (1) determine:
+(2)        To avoid doubt, the Director may under subitem (1) determine:
 
                      (a)  a marking that is the same as a marking that the Director has determined for a type of classification that exists after this Schedule commences; and
 
@@ -5421,7 +5396,7 @@ The amendments made by this Schedule do not affect the validity, for the purpose
 
 ## 21  Giving of certain documents referring to former types of classifications
 
-(1)       To avoid doubt, if:
+(1)        To avoid doubt, if:
 
                      (a)  after the commencement of this Schedule, the Director is required under section 27 of the _Classification (Publications, Films and Computer Games) Act 1995_ to give a copy of a classification certificate or of a notice under section 26 of that Act; and
 
@@ -5429,7 +5404,7 @@ The amendments made by this Schedule do not affect the validity, for the purpose
 
 the Director must give a copy of the classification certificate or notice that was issued, despite the certificate or notice referring to a type of classification that is no longer set out in section 7 of that Act.
 
-(2)       To avoid doubt, if:
+(2)        To avoid doubt, if:
 
                      (a)  after the commencement of this Schedule, the Director is required under section 87 of the _Classification (Publications, Films and Computer Games) Act 1995_ to give a certificate about action taken, or not taken, under that Act; and
 
@@ -5455,9 +5430,9 @@ then, on and after that commencement, the person is taken to have completed trai
 
 ## 19  Application provision—annual report
 
-(1)       The amendment made by item 9 of this Schedule applies to annual reports required to be given after the commencement of that item.
+(1)        The amendment made by item 9 of this Schedule applies to annual reports required to be given after the commencement of that item.
 
-(2)       Section 67 of the _Classification (Publications, Films and Computer Games) Act 1995_, as in force immediately before the commencement of item 9 of this Schedule, continues to apply as if subsection 67(1) were as follows:
+(2)        Section 67 of the _Classification (Publications, Films and Computer Games) Act 1995_, as in force immediately before the commencement of item 9 of this Schedule, continues to apply as if subsection 67(1) were as follows:
 
              (1)  As soon as practicable after the end of the financial year in which item 9 of Schedule 1 to the _Classification (Publications, Films and Computer Games) Amendment Act 2007_ commences, the Director must give to the Minister:
 
@@ -5467,11 +5442,11 @@ then, on and after that commencement, the person is taken to have completed trai
 
 ## 20  Application provision—audit
 
-(1)       The amendment made by item 11 of this Schedule applies to financial years that commence on or after the commencement of that item.
+(1)        The amendment made by item 11 of this Schedule applies to financial years that commence on or after the commencement of that item.
 
-(2)       This subitem applies if, before the commencement of item 11 of this Schedule, the Auditor-General had not complied with section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_ for the financial year in which that item commences.
+(2)        This subitem applies if, before the commencement of item 11 of this Schedule, the Auditor-General had not complied with section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_ for the financial year in which that item commences.
 
-(3)       If subitem (2) applies, section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_, as in force immediately before the commencement of item 11 of this Schedule, continues to apply as if subsection 69(1) were as follows:
+(3)        If subitem (2) applies, section 69 of the _Classification (Publications, Films and Computer Games) Act 1995_, as in force immediately before the commencement of item 11 of this Schedule, continues to apply as if subsection 69(1) were as follows:
 
              (1)  The Auditor-General must, within 3 months after the end of the financial year in which item 11 of Schedule 1 to the _Classification (Publications, Films and Computer Games) Amendment Act 2007_ commences, inspect and audit:
 
@@ -5489,39 +5464,39 @@ Despite the repeal of section 70 of the _Classification (Publications, Films a
 
 ## 27  Application provisions
 
-(1)       The amendments made by items 2 and 8 of this Schedule apply to decisions made, and actions taken, by the Convenor before or after the commencement of those items.
+(1)        The amendments made by items 2 and 8 of this Schedule apply to decisions made, and actions taken, by the Convenor before or after the commencement of those items.
 
-(2)       The amendments made by items 3 and 4 of this Schedule apply to publications, films and computer games that are classified by the Review Board on or after the commencement of those items, whether the application for review of the decision in relation to the publication, film or computer game is made before or after the commencement of those items.
+(2)        The amendments made by items 3 and 4 of this Schedule apply to publications, films and computer games that are classified by the Review Board on or after the commencement of those items, whether the application for review of the decision in relation to the publication, film or computer game is made before or after the commencement of those items.
 
-(3)       The amendment made by item 5 of this Schedule applies to applications made to the Director on or after the commencement of that item.
+(3)        The amendment made by item 5 of this Schedule applies to applications made to the Director on or after the commencement of that item.
 
-(4)       The amendment made by item 7 of this Schedule applies to the making of a requirement on or after the commencement of that item, in relation to applications for review that are made before or after commencement.
+(4)        The amendment made by item 7 of this Schedule applies to the making of a requirement on or after the commencement of that item, in relation to applications for review that are made before or after commencement.
 
-(5)       The amendments made by items 13 and 26 of this Schedule apply in relation to judicial or other proceedings commenced after the commencement of those items, whether the thing was done before or after the commencement of those items.
+(5)        The amendments made by items 13 and 26 of this Schedule apply in relation to judicial or other proceedings commenced after the commencement of those items, whether the thing was done before or after the commencement of those items.
 
-(6)       The amendment made by item 16 of this Schedule applies in relation to decisions of the Director made on or after the commencement of that item.
+(6)        The amendment made by item 16 of this Schedule applies in relation to decisions of the Director made on or after the commencement of that item.
 
-(7)       The amendments made by items 17 and 18 of this Schedule apply in relation to applications made on or after the commencement of those items.
+(7)        The amendments made by items 17 and 18 of this Schedule apply in relation to applications made on or after the commencement of those items.
 
-(8)       The amendment made by item 19 of this Schedule applies in relation to:
+(8)        The amendment made by item 19 of this Schedule applies in relation to:
 
                      (a)  applications for review made on or after the commencement of that item; and
 
                      (b)  annual reports given to the Minister under section 85 of the _Classification (Publications, Films and Computer Games) Act 1995_ for the financial year in which the item commences, and for later financial years.
 
-(9)       The amendments made by items 21 to 24 of this Schedule apply in relation to applications made on or after the commencement of those items.
+(9)        The amendments made by items 21 to 24 of this Schedule apply in relation to applications made on or after the commencement of those items.
 
-(10)     The amendment made by item 25 of this Schedule applies in relation to decisions of the Director or Convenor made on or after the commencement of that item.
+(10)      The amendment made by item 25 of this Schedule applies in relation to decisions of the Director or Convenor made on or after the commencement of that item.
 
 ## 28  Transitional provision—fee waiver principles
 
-(1)       This item applies to written principles that were:
+(1)        This item applies to written principles that were:
 
                      (a)  determined under subsection 91(1A) of the _Classification (Publications, Films and Computer Games) Act 1995_; and
 
                      (b)  in force immediately before the commencement of item 22 of this Schedule.
 
-(2)       The written principles have effect, and may be dealt with, in relation to the waiver of fees by the Director under subsection 91(1) of the _Classification (Publications, Films and Computer Games) Act 1995_ (as amended by this Act) after the commencement of item 22 of this Schedule, as if they had been determined under subsection 91(1B) of the _Classification (Publications, Films and Computer Games) Act 1995_ as inserted by this Act.
+(2)        The written principles have effect, and may be dealt with, in relation to the waiver of fees by the Director under subsection 91(1) of the _Classification (Publications, Films and Computer Games) Act 1995_ (as amended by this Act) after the commencement of item 22 of this Schedule, as if they had been determined under subsection 91(1B) of the _Classification (Publications, Films and Computer Games) Act 1995_ as inserted by this Act.
 
 ## 29  Transitional provision—powers of the Director
 
@@ -5535,17 +5510,17 @@ Despite the amendment made to section 44A of the _Classification (Publications
 
 ## 13  Application of amendments
 
-(1)       The amendments made by items 1 to 4 and item 6 of this Schedule apply to applications for classification of films made on or after the commencement of those items.
+(1)        The amendments made by items 1 to 4 and item 6 of this Schedule apply to applications for classification of films made on or after the commencement of those items.
 
-(2)       The amendment made by item 5 of this Schedule applies to applications for classification of films and computer games made on or after the commencement of that item.
+(2)        The amendment made by item 5 of this Schedule applies to applications for classification of films and computer games made on or after the commencement of that item.
 
-(3)       On and after the commencement of item 7 of this Schedule, the amendment made by that item applies to films (**_new films_**) that are contained on one device and consist only of 2 or more classified films:
+(3)        On and after the commencement of item 7 of this Schedule, the amendment made by that item applies to films (**_new films_**) that are contained on one device and consist only of 2 or more classified films:
 
                      (a)  whether the new films were created before or after the commencement of that item; and
 
                      (b)  whether the classified films were classified before or after the commencement of that item.
 
-(4)       The amendment made by item 8 of this Schedule applies to modifications made to classified films after the commencement of that item, whether the film was classified before or after the commencement of that item.
+(4)        The amendment made by item 8 of this Schedule applies to modifications made to classified films after the commencement of that item, whether the film was classified before or after the commencement of that item.
 
 ## Schedule 4
 
@@ -5565,15 +5540,15 @@ that are made on or after the commencement of that item.
 
 ## 13  Transitional provision—determined markings
 
-(1)       This item applies to a determination that was in force under section 8 of the _Classification (Publications, Films and Computer Games) Act 1995_ immediately before the commencement of item 12 of this Schedule.
+(1)        This item applies to a determination that was in force under section 8 of the _Classification (Publications, Films and Computer Games) Act 1995_ immediately before the commencement of item 12 of this Schedule.
 
-(2)       The determination has effect, after the commencement of that item, as if it had been made under section 8 of the _Classification (Publications, Films and Computer Games) Act 1995_ as amended by this Schedule.
+(2)        The determination has effect, after the commencement of that item, as if it had been made under section 8 of the _Classification (Publications, Films and Computer Games) Act 1995_ as amended by this Schedule.
 
 * * *
 
 _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007 (No. 128, 2007)_
 
-##### <a id="3"></a>3  Northern Territory (Self-Government) Act
+##### <a id="3"></a>3  Northern   Territory (Self-Government) Act
 
                    Section 49 of the _Northern   Territory__(Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
 
@@ -5624,7 +5599,7 @@ The following amendment commences at the end of 31 December 2010 and amends the 
 
 Repeal the sections.
 
-As at 26 November 2010 the amendment is not incorporated in this compilation.
+As at 13 July 2010 the amendment is not incorporated in this compilation.
 
 * * *
 
@@ -5644,9 +5619,9 @@ _Classification (Publications, Films and Computer Games) Amendment (Assessments 
 
 ## 13  Transitional regulations
 
-(1)       The Governor-General may make regulations providing for matters of a transitional nature in relation to the advertising of unclassified films that have been granted a certificate of exemption.
+(1)        The Governor-General may make regulations providing for matters of a transitional nature in relation to the advertising of unclassified films that have been granted a certificate of exemption.
 
-(2)       In this item:
+(2)        In this item:
 
 **_certificate of exemption_** means a certificate of exemption granted by the Board under section 33 of the _Classification (Publications, Films and Computer Games) Act 1995_, as in force before its repeal by item 9 of this Schedule.
 
