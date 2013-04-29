@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00315/Html/961548d9-b830-40c7-946e-629b267179cf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00194/Html/88525e24-113c-4082-9fe9-435bd7c49940_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 22 April 2011
+This compilation was prepared on 19 April 2011
  taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
@@ -1093,6 +1093,8 @@ Remuneration Tribunal;
              (k)  decisions of any of the following authorities in respect of their commercial activities:
 
 Australian Honey Board
+
+Australian Industry Development Corporation
 
 Australian Meat and Live‑stock Corporation
 
@@ -2403,7 +2405,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(w)</i></div>
     <div>5 June 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 22 Apr 2011 ( <i>see</i>F2011L00637) <i>(za)</i></div>
+    <div>Schedule 2 (item 1): \[ <i>see</i> <i>(za)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3716,7 +3718,7 @@ _(z)_ The _Income Tax (Consequential Amendments) Act 1997_ was amended by Schedu
 
 _(za)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 1) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities.
+                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities. [_see_ Note 2]
 
 _(zb)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 4 (item 1) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(5) of which provides as follows:
 
@@ -4441,7 +4443,7 @@ _(zs)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Am
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 1982; No. 144, 1983; Nos. 76, 159 and 164, 1984; No. 153, 1986; No. 141, 1987; Nos. 5, 63, 111 and 127, 1988; Nos. 150, 153 and 159, 1989; Nos. 77 and 118, 1990; No. 149, 1991; No. 196, 1992; No. 85, 1995; Nos. 67, 96, 150 and 152, 1997; No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); Nos. 9, 57 and 172, 2000; No. 32, 2003; Nos. 30, 62 and 151, 2004; Nos. 89 and 111, 2005; SLI 2006 No. 50; No. 86, 2006; No. 144, 2008; No. 127, 2010; No. 5, 2011</div>
+    <div>am. No. 111, 1982; No. 144, 1983; Nos. 76, 159 and 164, 1984; No. 153, 1986; No. 141, 1987; Nos. 5, 63, 111 and 127, 1988; Nos. 150, 153 and 159, 1989; Nos. 77 and 118, 1990; No. 149, 1991; No. 196, 1992; No. 85, 1995; Nos. 96, 150 and 152, 1997; No. 146, 1999; Statutory Rules 1999 No. 301 (as am. by Statutory Rules 2000 No. 332); Nos. 9, 57 and 172, 2000; No. 32, 2003; Nos. 30, 62 and 151, 2004; Nos. 89 and 111, 2005; SLI 2006 No. 50; No. 86, 2006; No. 144, 2008; No. 127, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4461,6 +4463,20 @@ _(zs)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Am
   </td>
 </tr></table>
 
+### Note 2
+
+_AIDC   Sale Act 1997 (No. 67, 1997)_
+
+The following amendment commences on proclamation:
+
+## Schedule 2
+
+## 1  Paragraph (k) of Schedule 2
+
+Omit “Australian Industry Development Corporation”.
+
+As at 19 April 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4475,8 +4491,7 @@ The amendments made by items 17, 18 and 19 do not allow a decision made under 
 
 * * *
 
-_Federal Magistrates (Consequential Amendments) Act 1999 
- (No. 194, 1999)_
+_Federal Magistrates (Consequential Amendments) Act 1999 (No. 194, 1999)_
 
 ## Schedule 4  
 
@@ -4614,8 +4629,7 @@ Reviewable Territory decisions—continued effect of orders made before the comm
 
 * * *
 
-_Jurisdiction of Courts (Miscellaneous Amendments) Act 2000 
- (No. 161, 2000)_
+_Jurisdiction of Courts (Miscellaneous Amendments) Act 2000 (No. 161, 2000)_
 
 ## Schedule 1
 
@@ -4633,8 +4647,7 @@ The enactment of this Schedule does not imply that the Parliament did not intend
 
 * * *
 
-_Migration Legislation Amendment (Judicial Review) Act 2001 
- (No. 134, 2001)_
+_Migration Legislation Amendment (Judicial Review) Act 2001 (No. 134, 2001)_
 
 ## Schedule 1
 
