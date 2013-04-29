@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00389/Html/DataMatchPrAT1990WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00487/Html/DataMatchPrAT1990WD02HYP_image001.gif)
 
 # Data-matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 8 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 1 September 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 3—Amendments of the Privacy Act 1988** 
 
-**Schedule—Data-matching Program (Assistance and Tax) Guidelines** 
+**Schedule—Data-matching Program (Assistance and Tax) Guidelines [_see_ Note 2]** 
 
 Scope of Operation
 
@@ -70,7 +70,7 @@ Basis of Program
 
 Technical Standards in relation to data quality, integrity and security
 
-Safeguards for individuals affected by the results of programs
+Safeguards for individuals affected by the results of the program
 
 Record Controls
 
@@ -900,8 +900,6 @@ For the purposes of this guideline **_final completion of the action_** means:
 
 The _Data-matching Program (Assistance and Tax) Act 1990_ as shown in this compilation comprises Act No. 20, 1991 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010, see_ Act No. 51, 2010.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 7 December 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
@@ -1694,24 +1692,6 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 27–31): \[ <i>see (zb)</i>and Note 2] 
-Schedule 7: <i>(zb)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by section 39 only of the _Social Security Legislation Amendment Act (No. 2) 1991_, subsection 2(4) of which provides as follows:
@@ -1796,7 +1776,7 @@ _(o)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (3)   The following provisions commence on 1 January 1996:
+                 (3)   The following provisions commence on 1 Janu ary 1996:
 
                               (a)   Parts 1 and 3 of Schedule 2.
 
@@ -1871,99 +1851,6 @@ _(za)_   The _Data-matching Program (Assistance and Tax) Act 1990_ was amend
                               (c)   item 1 of Schedule 4;
 
                          commence on 1 January 2001.
-
-_(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2132,56 +2019,6 @@ _(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (R
     <div>rep. No. 111, 1998</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 5
-
-## 27  Subsection 10(5) (definition of _sampling procedures_)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner in relation to matters that relate to the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_)”.
-
-## 28  Section 12
-
-Repeal the section, substitute:
-
-##### <a id="12"></a>12  Guidelines relating to privacy
-
-             (1)  The matching agency and the source agencies must comply with guidelines issued under this section.
-
-             (2)  The Information Commissioner may, by legislative instrument, issue guidelines relating to the matching of data under this Act.
-
-             (3)  The function conferred by subsection (2) is a privacy function for the purposes of the _Australian Information Commissioner Act 2010_.
-
-             (4)  After the end of each financial year, each agency must give the Information Commissioner, and cause to be laid before each House of the Parliament, a report including the matters relating to the data-matching program carried out during the financial year that are specified for the purposes of this subsection in guidelines issued under this section.
-
-             (5)  After the 3-year period ending on 30 June 1998, and after each successive 3-year period, each agency must give the Minister responsible for the agency a report for presentation to the Parliament including all the details relating to the data-matching program carried out during the period that are specified for the purposes of this subsection in guidelines issued under this section.
-
-Note:          Section 34C of the _Acts Interpretation Act 1901_ sets time limits for giving reports to Ministers and for presentation of reports to the Parliament.
-
-             (6)  Despite section 12 of the _Legislative Instruments Act 2003_, guidelines issued under this section take effect from:
-
-                     (a)  the first day on which the guidelines are no longer subject to disallowance; or
-
-                     (b)  if the guidelines make provision for their commencement after that day—in accordance with that provision.
-
-## 29  Subsection 13(1) (definition of _Commissioner_)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner acting in the performance of the privacy functions (within the meaning of the _Australian Information Commissioner Act 2010_)”.
-
-## 30  Subsection 14(2)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-## 31  Schedule
-
-Repeal the Schedule.
-
-As at 8 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
