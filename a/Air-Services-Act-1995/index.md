@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00569/Html/c1181c48-b6f2-443e-8478-9a475be53bfc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00327/Html/d38bfe83-92fa-403a-82a7-80e5eb4c4b5e_files/image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 26 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1956,23 +1956,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 61–64) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
@@ -2146,8 +2129,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   <td>
     <div>
       10 March 2005
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -2478,37 +2460,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 26 July 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 61  At the end of subsections 33(1), (3) and (4)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 62  Subsection 33(5)
-
-Repeal the subsection.
-
-## 63  At the end of subsection 41(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 64  Subsection 41(4)
-
-Repeal the subsection.
-
-As at 26 July 2011 the amendments are not incorporated in this compilation.
+As at 19 April 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2685,21 +2637,5 @@ The following provision commences on 1 February 2012 or an earlier time determin
             The amendment of the _Air Services Act 1995_ made by item 1 of this Schedule does not apply in relation to a floating charge if the floating charge was created before the time that item commences.
 
 _Note:       Item 1 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
