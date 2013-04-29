@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00072/Html/40cd9139-6004-451b-9717-98984ecb7b27_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00847/Html/536a7a25-65b6-421f-8a59-53bcb8ddb1a4_files/image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 24 January 2013
- taking into account amendments up to Act No. 173 of 2012
+This compilation was prepared on 12 November 2012
+ taking into account amendments up to Act No. 137 of 2012
 
 **Volume 1** includes:     Table of Contents
          User’s guide
@@ -31,13 +31,13 @@ The operation of amendments that have been incorporated may be
          Schedule 3 (Chapter 74 to Chapter 97)
 
 **Volume 6** includes:      Table of Contents
-         Schedules 4–9
+         Schedules 4–8
 
 **Volume 7** includes:      Note 1
          Table of Acts
          Act Notes
          Table of Amendments
-         Notes 2–5
+         Note 2
          Table A
 
 Prepared by the Office of Parliamentary Counsel, Canberra
@@ -81,8 +81,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [13D](#13D).       When goods are Chilean originating goods
 
 [13E](#13E).        When goods are ASEAN‑Australia‑New Zealand (AANZ) originating goods
-
-[13F](#13F).        When goods are Malaysian originating goods
 
 [14](#14).          Application of rates of duty in relation to countries and places
 
@@ -154,15 +152,15 @@ The operation of the Act
 
 Note:          The text of the Agreement is set out in Australian Treaty Series 1995 No. 8\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
 
-                   The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3\. However, the rate of duty for US originating goods is determined under Schedule 5, the rate of duty for Thai originating goods is determined under Schedule 6, the rate of duty for Chilean originating goods is determined under Schedule 7, the rate of duty for ASEAN‑Australia‑New Zealand (AANZ) originating goods is determined under Schedule 8 and the rate of duty for Malaysian originating goods is determined under Schedule 9.
+                   The rate of duty applicable to particular goods is determined by the classification to which those goods belong and, in most cases, by reference to Schedule 3\. However, the rate of duty for US originating goods is determined under Schedule 5, the rate of duty for Thai originating goods is determined under Schedule 6, the rate of duty for Chilean originating goods is determined under Schedule 7 and the rate of duty for ASEAN‑Australia‑New Zealand (AANZ) originating goods is determined under Schedule 8.
 
-                   Under Schedule 4, goods imported into Australia in specified circumstances, including goods imported for use by particular persons or bodies or in particular industries, may be subject to a lesser rate of duty than the nominal rate applying under Schedule 3, 5, 6, 7, 8 or 9.
+                   Under Schedule 4, goods imported into Australia in specified circumstances, including goods imported for use by particular persons or bodies or in particular industries, may be subject to a lesser rate of duty than the nominal rate applying under Schedule 3, 5, 6, 7 or 8.
 
-                   Rates of duty under Schedules 3, 5, 6, 7, 8 and 9, and concessional rates of duty under Schedule 4, may vary according to the date of importation of the goods concerned, the country or place from which the goods are imported, or both of these circumstances.
+                   Rates of duty under Schedules 3, 5, 6, 7 and 8, and concessional rates of duty under Schedule 4, may vary according to the date of importation of the goods concerned, the country or place from which the goods are imported, or both of these circumstances.
 
 The organisation of the Act
 
-                   The Act consists of 3 Parts and 9 Schedules.
+                   The Act consists of 3 Parts and 8 Schedules.
 
                    Part 1 deals with key concepts required for an understanding of the organisation and operation of the Customs Tariff.
 
@@ -185,8 +183,6 @@ The organisation of the Act
                    Schedule 7 sets out the rate of duty for Chilean originating goods.
 
                    Schedule 8 sets out the rate of duty for ASEAN‑Australia‑New Zealand (AANZ) originating goods.
-
-                   Schedule 9 sets out the rate of duty for Malaysian originating goods.
 
 ## An Act to impose duties of Customs, to repeal the _Customs Tariff Act 1987_, and for related purposes
 
@@ -284,11 +280,7 @@ The organisation of the Act
 
                      (e)  the third column of the table in Schedule 7; or
 
-                      (f)  the third column of the table in Schedule 8; or
-
-                     (g)  the third column of the table in Schedule 9.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
+                      (f)  the third column of the table in Schedule 8.
 
                     <a name="subhead"></a>**_subheading_** means a subheading of a heading.
 
@@ -408,9 +400,7 @@ Note 2:       The text of the Convention is set out in Australian Tr
 
                    (bc)  the third column of an item in the table in Schedule 7 that applies to goods; or
 
-                   (bd)  the third column of an item in the table in Schedule 8 that applies to goods; or
-
-                   (be)  the third column of an item in the table in Schedule 9 that applies to goods;
+                   (bd)  the third column of an item in the table in Schedule 8 that applies to goods;
 
 has effect from a specified date if that date preceded by the word “From” is specified in:
 
@@ -424,9 +414,7 @@ has effect from a specified date if that date preceded by the word “From” is
 
                      (g)  the third column of that item in the table in Schedule 7; or
 
-                     (h)  the third column of that item in the table in Schedule 8; or
-
-                      (i)  the third column of that item in the table in Schedule 9;
+                     (h)  the third column of that item in the table in Schedule 8;
 
 as the case may be in relation to that rate.
 
@@ -442,9 +430,7 @@ as the case may be in relation to that rate.
 
                    (bc)  the third column of an item in the table in Schedule 7 that applies to goods; or
 
-                   (bd)  the third column of an item in the table in Schedule 8 that applies to goods; or
-
-                   (be)  the third column of an item in the table in Schedule 9 that applies to goods;
+                   (bd)  the third column of an item in the table in Schedule 8 that applies to goods;
 
 has effect from a specified day, then, in working out the duty in respect of goods of that kind, or goods that are part of goods of that kind, that are entered for home consumption:
 
@@ -489,10 +475,6 @@ has effect from a specified day, then, in working out the duty in respect of goo
 ##### <a id="13E"></a>13E  When goods are ASEAN‑Australia‑New Zealand (AANZ) originating goods
 
                    For the purposes of this Act, goods are AANZ originating goods if, and only if, they are AANZ originating goods under Division 1G of Part VIII of the _Customs Act 1901_.
-
-##### <a id="13F"></a>13F  When goods are Malaysian originating goods
-
-                   For the purposes of this Act, goods are Malaysian originating goods if, and only if, they are Malaysian originating goods under Division 1H of Part VIII of the _Customs Act 1901_.
 
 ##### <a id="14"></a>14  Application of rates of duty in relation to countries and places
 
@@ -552,9 +534,7 @@ has effect from a specified day, then, in working out the duty in respect of goo
 
                              (v)  are not Chilean originating goods; and
 
-                            (vi)  are not AANZ originating goods; and
-
-                           (vii)  are not Malaysian originating goods;
+                            (vi)  are not AANZ originating goods;
 
                             by reference to the general rate set out in the third column of the tariff classification under which the goods are classified;
 
@@ -640,15 +620,9 @@ Note:       See also subsection (2A).
 
                               (i)  if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 8—by reference to the rate of duty set out in column 3 of that item; or
 
-                             (ii)  otherwise—Free;
+                             (ii)  otherwise—Free.
 
 Note:       See also subsections (3) and (4).
-
-                     (o)  if the goods are Malaysian originating goods:
-
-                              (i)  if the goods are classified to a heading or subheading in Schedule 3 that is specified in column 2 of an item in the table in Schedule 9—by reference to the rate of duty set out in column 3 of that item; or
-
-                             (ii)  otherwise—Free.
 
 US originating goods
 
@@ -858,9 +832,7 @@ other than goods to which another phrase contained in that tariff classification
 
                      (d)  under an item in the table in Schedule 7 that applies to the goods; or
 
-                     (e)  under an item in the table in Schedule 8 that applies to the goods; or
-
-                      (f)  under an item in the table in Schedule 9 that applies to the goods.
+                     (e)  under an item in the table in Schedule 8 that applies to the goods.
 
              (2)  For the purposes of subsection (1), the amount of duty payable in respect of goods under an item in Schedule 4 is an amount of duty worked out as follows:
 
@@ -876,9 +848,7 @@ other than goods to which another phrase contained in that tariff classification
 
                              (v)  are not Chilean originating goods; and
 
-                            (vi)  are not AANZ originating goods; and
-
-                           (vii)  are not Malaysian originating goods;
+                            (vi)  are not AANZ originating goods;
 
                             by reference to the general rate set out in the third column of that item;
 
@@ -960,12 +930,6 @@ other than goods to which another phrase contained in that tariff classification
 
                               (i)  if “AANZ” is specified in relation to a rate of duty set out in the third column of that item—by reference to that rate of duty; or
 
-                             (ii)  otherwise—Free;
-
-                     (o)  if the goods are Malaysian originating goods:
-
-                              (i)  if a rate of duty that applies in relation to Malaysia is set out in the third column of that item—by reference to that rate of duty; or
-
                              (ii)  otherwise—Free.
 
 Least rate of duty
@@ -999,12 +963,6 @@ Least rate of duty
                      (e)  the rate column of an item in the table in Schedule 8 that relates to a subheading in Schedule 3:
 
                               (i)  that is specified in column 2 of that item in the table in Schedule 8; and
-
-                             (ii)  that appears in column 1 of the Table below, opposite that excise item; and
-
-                      (f)  the rate column of an item in the table in Schedule 9 that relates to a subheading in Schedule 3:
-
-                              (i)  that is specified in column 2 of that item in the table in Schedule 9; and
 
                              (ii)  that appears in column 1 of the Table below, opposite that excise item;
 
@@ -1534,7 +1492,7 @@ Gasoline for use as fuel in aircraft
 
                      (c)  subheading 2710.99.61 in Schedule 3;
 
-                     (d)  a table item that is in Schedule 5, 6, 7, 8 or 9 and relates to a subheading described in paragraph (a), (b) or (c).
+                     (d)  a table item that is in Schedule 5, 6, 7 or 8 and relates to a subheading described in paragraph (a), (b) or (c).
 
 Kerosene for use as fuel in aircraft
 
@@ -1546,7 +1504,7 @@ Kerosene for use as fuel in aircraft
 
                      (c)  subheading 2710.99.40 in Schedule 3;
 
-                     (d)  a table item that is in Schedule 5, 6, 7, 8 or 9 and relates to a subheading described in paragraph (a), (b) or (c).
+                     (d)  a table item that is in Schedule 5, 6, 7 or 8 and relates to a subheading described in paragraph (a), (b) or (c).
 
 Application of replacement rate
 
