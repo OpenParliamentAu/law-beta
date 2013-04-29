@@ -1,7 +1,7 @@
 
 Seafarers Rehabilitation and Compensation Levy Collection Act 1992
 Act No. 232 of 1992 as amended
-This compilation was prepared on 2 November 2001 taking into account amendments up to Act No. 142 of 2001
+This compilation was prepared on 22 March 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -11,20 +11,19 @@ Contents
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-3A	Application of Criminal Code	2
 4	Number of seafarer berths on which levy is payable	2
 5	Due date for payment	2
 6	Employers to give returns and information	2
-7	Offences relating to returns	3
-8	Recovery of levy	4
-9	Detention of ship	4
-10	Levy taken to be levy in relation to a ship for certain purposes of the Admiralty Act	4
-11	Appointment of authorised persons	4
+7	Offences relating to returns	2
+8	Recovery of levy	3
+9	Detention of ship	3
+10	Levy taken to be levy in relation to a ship for certain purposes of the Admiralty Act	3
+11	Appointment of authorised persons	3
 12	Access to premises and books	4
-13	Warrants to enter premises	5
-14	Identity cards	6
+13	Warrants to enter premises	4
+14	Identity cards	5
 15	Delegation by Secretary	6
-16	Regulations	7
+16	Regulations	6
 Notes		9
 
 An Act relating to the collection of levy imposed by the Seafarers Rehabilitation and Compensation Levy Act 1992
@@ -52,9 +51,6 @@ quarter means:
 	(b)	each later period of 3 months.
 seafarer has the same meaning as in the Compensation Act.
 seafarer berth has the same meaning as in the Compensation Act.
-3A  Application of Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 4  Number of seafarer berths on which levy is payable
 		A reference in this Act to the number of seafarer berths on a prescribed ship is a reference to the number of seafarer berths on the ship on the first day of each quarter.
 5  Due date for payment
@@ -64,19 +60,13 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 	(a)	a statement of the number of seafarer berths on each prescribed ship in respect of which the employer employed or engaged seafarers on the first day of the quarter; and
 	(b)	such other information, relating to those berths as is specified in the form.
 7  Offences relating to returns
-	(1)	A person must not refuse or fail to give a return that he or she is required to give under section 6.
+	(1)	A person must not, without reasonable excuse, knowingly refuse or fail to give a return that he or she is required to give under section 6.
 Penalty:	5 penalty units.
-	(1A)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the Criminal Code).
-	(1B)	For the purposes of an offence against subsection (1), strict liability applies to the physical element, that the person is required to give a return under section 6.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(2)	A person must not give a return that does not contain all or any of the information required by section 6 to be included in the return.
+	(2)	A person must not, without reasonable excuse:
+	(a)	knowingly give a return that does not contain all or any of the information required by section 6 to be included in the return; or
+	(b)	give, for the purposes of this Act, a return that contains a statement that the person knows to be false or misleading in a material particular.
 Penalty:	20 penalty units.
-	(2A)	Subsection (2) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the Criminal Code).
-	(2B)	For the purposes of an offence against subsection (2), strict liability applies to the physical element, that the person is required under section 6 to include information in a return.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(3)	A person is not excused from giving a return on the ground that the return might tend to incriminate the person, but any return given, and any information or thing (including any document) obtained as a direct or indirect consequence of the giving of the return, is not admissible in evidence against the person in criminal proceedings, other than proceedings for an offence against subsection (2) or section 137.1 or 137.2 of the Criminal Code in relation to giving the return.
+	(3)	A person is not excused from giving a return on the ground that the return might tend to incriminate the person, but any return given, and any information or thing (including any document) obtained as a direct or indirect consequence of the giving of the return, is not admissible in evidence against the person in criminal proceedings, other than proceedings for an offence against subsection (2).
 8  Recovery of levy
 		Levy payable on a seafarer berth may be recovered by the Commonwealth as a debt due to the Commonwealth.
 9  Detention of ship
@@ -118,11 +108,7 @@ the Magistrate may issue a warrant authorising the applicant to enter the premis
 	(b)	be in a form approved by the Secretary.
 	(3)	If an authorised person proposes to enter premises otherwise than in accordance with a warrant issued under subsection 13(2), the authorised person must produce his or her identity card to the occupier of the premises for the occupier's inspection and, if the authorised person fails to do so, the authorised person is not entitled to enter the premises under subsection 12(1).
 	(4)	If a person to whom an identity card has been issued ceases to be an authorised person, the person must immediately return the identity card to a person designated, in writing, by the Secretary.
-	(5)	A person who contravenes subsection (4) is guilty of an offence punishable upon conviction by a fine not exceeding one penalty unit.
-	(6)	Subsection (5) does not apply if the person has a reasonable excuse.
-Note:	A defendant bears an evidential burden in relation to the matter in subsection (6) (see subsection 13.3(3) of the Criminal Code).
-	(7)	Subsection (5) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(5)	A person who, without reasonable excuse, contravenes subsection (4) is guilty of an offence punishable upon conviction by a fine not exceeding one penalty unit.
 15  Delegation by Secretary
 	(1)	The Secretary may, in writing, delegate all or any of his or her powers or functions under this Act (other than powers under section 11) to a person in the Department:
 	(a)	who is an SES employee or acting SES employee; or
@@ -143,7 +129,6 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 Notes to the Seafarers Rehabilitation and Compensation Levy Collection Act 1992
 Note 1
 The Seafarers Rehabilitation and Compensation Levy Collection Act 1992 as shown in this compilation comprises Act No. 232, 1992 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A. 
 Table of Acts
 Act
 Number  and year
@@ -160,36 +145,17 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 809, 810): 5 Dec 1999 (see Gazette 1999, No. S584) (a)
 —
-Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001
-142, 2001
-1 Oct 2001
-S. 4 and Schedule 1 (items 133‑139): 2 Oct 2001 (b)
-S. 4
 
 (a)	The Seafarers Rehabilitation and Compensation Levy Collection Act 1992 was amended by Schedule 1 (items 809 and 810) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(b)	The Seafarers Rehabilitation and Compensation Levy Collection Act 1992 was amended by Schedule 1 (items 133‑139) only of the Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 3A	
-ad. No. 142, 2001
-S. 7	
-am. No. 142, 2001
 S. 11	
 rs. No. 146, 1999
-S. 14	
-am. No. 142, 2001
 S. 15	
 am. No. 146, 1999
-Table A
-Application, saving or transitional provisions
-Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
