@@ -1,206 +1,207 @@
-![](http://www.comlaw.gov.au/Details/C2007C00560/Html/SydneyHarbFedTrust2001WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00438/Html/5D2F678B2361D425CA25703B001C2012/$FILE/image001.gif)
 
 # Sydney Harbour Federation Trust Act 2001
 
 **Act No. 2 of 2001 as amended**
 
-**\[Note: This Act is to be repealed as soon as practicable after the end of****19 September 2033****, _see_ section 66]**
+**\[Note: For details of future repeal of this Act, _see_ section 66]**
 
-This compilation was prepared on 26 September 2007
- taking into account amendments up to Act No. 151 of 2007
+This compilation was prepared on 11 July 2005
+taking into account amendments up to Act No. 97 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        4
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               4
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           4
 
-[4](#4).            Act binds the Crown
+[4](#4).            Act binds the Crown                                                                           4
 
 **Part 2—Establishment of the Trust**
 
-[5](#5).            Establishment
+[5](#5).            Establishment                                                                                      4
 
-[6](#6).            Objects
+[6](#6).            Objects                                                                                                 4
 
-[7](#7).            Functions
+[7](#7).            Functions                                                                                             4
 
-[8](#8).            Powers
+[8](#8).            Powers                                                                                                 4
 
-[9](#9).            Minister may give directions
+[9](#9).            Minister may give directions                                                               4
 
 **Part 3—Constitution of the Trust**
 
-[10](#10).          Membership of the Trust
+[10](#10).          Membership of the Trust                                                                    4
 
-[11](#11).          Invitations to NSW to recommend members
+[11](#11).          Invitations to NSW to recommend members                                       4
 
-[12](#12).          Appointment of members
+[12](#12).          Appointment of members                                                                   4
 
-[13](#13).          Terms of office of members
+[13](#13).          Terms of office of members                                                                 4
 
-[14](#14).          Acting appointments
+[14](#14).          Acting appointments                                                                           4
 
-[15](#15).          Additional terms and conditions of appointment of members
+[15](#15).          Additional terms and conditions of appointment of members            4
 
-[16](#16).          Outside employment of members
+[16](#16).          Outside employment of members                                                       4
 
-[17](#17).          Remuneration and allowances of members
+[17](#17).          Remuneration and allowances of members                                          4
 
-[18](#18).          Leave of absence
+[18](#18).          Leave of absence                                                                                  4
 
-[19](#19).          Resignation
+[19](#19).          Resignation                                                                                          4
 
-[20](#20).          Termination of appointment of members
+[20](#20).          Termination of appointment of members                                            4
 
 **Part 4—Trust land**
 
-[21](#21).          Vesting by Minister of land in the Trust
+[21](#21).          Vesting by Minister of land in the Trust                                             4
 
-[22](#22).          Vesting of Trust land
+[22](#22).          Vesting of Trust land                                                                           4
 
-[23](#23).          Minister may make arrangements
+[23](#23).          Minister may make arrangements                                                        4
 
-[24](#24).          Transfer of Trust land
+[24](#24).          Transfer of Trust land                                                                         4
 
-[25](#25).          Lands Acquisition Act not to apply
+[25](#25).          Lands Acquisition Act not to apply                                                   4
 
 **Part 5—Plans**
 
-[26](#26).          Trust to prepare plans
+[26](#26).          Trust to prepare plans                                                                         4
 
-[27](#27).          Plan areas
+[27](#27).          Plan areas                                                                                             4
 
-[28](#28).          Content of plans
+[28](#28).          Content of plans                                                                                  4
 
-[29](#29).          Consultation on proposal to prepare draft plan
+[29](#29).          Consultation on proposal to prepare draft plan                                  4
 
-[30](#30).          Consultation on draft plan
+[30](#30).          Consultation on draft plan                                                                   4
 
-[31](#31).          Minister to approve plans
+[31](#31).          Minister to approve plans                                                                   4
 
-[32](#32).          Action on referral by Minister
+[32](#32).          Action on referral by Minister                                                            4
 
-[33](#33).          Rejection of draft plan
+[33](#33).          Rejection of draft plan                                                                         4
 
-[34](#34).          Notification of plan
+[34](#34).          Notification of plan                                                                             4
 
-[35](#35).          Commencement and implementation of plans
+[35](#35).          Commencement and implementation of plans                                     4
 
-[36](#36).          Amendment to plans
+[36](#36).          Amendment to plans                                                                           4
 
-[36A](#36A).       Submissions to be publicly available
+[36A](#36A).       Submissions to be publicly available                                                   4
 
-[37](#37).          Commonwealth etc  to act in accordance with plans
+[37](#37).          Commonwealth etc  to act in accordance with plans                           4
 
-[38](#38).          Transitional—interim Trust actions
+[38](#38).          Transitional—interim Trust actions                                                    4
 
-[38A](#38A).       Transitional—activities before plans take effect
+[38A](#38A).       Transitional—activities before plans take effect                                 4
 
-[38B](#38B).       Transitional—leases and licences  granted before plans take effect
+[38B](#38B).       Transitional—leases and licences  granted before plans take effect     4
 
 **Part 6—Executive Director, staff and consultants**
 
-[39](#39).          Executive Director
+[39](#39).          Executive Director                                                                               4
 
-[40](#40).          Duties of the Executive Director
+[40](#40).          Duties of the Executive Director                                                         4
 
-[41](#41).          Term of office of Executive Director
+[41](#41).          Term of office of Executive Director                                                   4
 
-[42](#42).          Acting appointments
+[42](#42).          Acting appointments                                                                           4
 
-[43](#43).          Additional terms and conditions of appointment of Executive Director
+[43](#43).          Additional terms and conditions of appointment of Executive Director 4
 
-[44](#44).          Outside employment of Executive Director
+[44](#44).          Outside employment of Executive Director                                        4
 
-[45](#45).          Leave of absence
+[45](#45).          Leave of absence                                                                                  4
 
-[46](#46).          Resignation
+[46](#46).          Resignation                                                                                          4
 
-[47](#47).          Termination of appointment of Executive Director
+[47](#47).          Termination of appointment of Executive Director                            4
 
-[48](#48).          Employees
+[48](#48).          Employees                                                                                           4
 
-[49](#49).          Consultants
+[49](#49).          Consultants                                                                                          4
 
 **Part 7—Meetings of the Trust**
 
-[50](#50).          Times and places of meetings
+[50](#50).          Times and places of meetings                                                              4
 
-[51](#51).          Notice of meetings
+[51](#51).          Notice of meetings                                                                               4
 
-[52](#52).          Presiding at meetings
+[52](#52).          Presiding at meetings                                                                           4
 
-[53](#53).          Quorum
+[53](#53).          Quorum                                                                                                4
 
-[54](#54).          Voting at meetings
+[54](#54).          Voting at meetings                                                                               4
 
-[54A](#54A).       Minutes of meetings
+[54A](#54A).       Minutes of meetings                                                                            4
 
-[55](#55).          Conduct of meetings
+[55](#55).          Conduct of meetings                                                                            4
 
-[56](#56).          Resolutions without meetings
+[56](#56).          Resolutions without meetings                                                             4
 
 **Part 8—Advisory committees**
 
-[57](#57).          Community advisory committees
+[57](#57).          Community advisory committees                                                       4
 
-[57A](#57A).       The Trust’s obligations to community advisory committees
+[57A](#57A).       The Trust’s obligations to community advisory committees             4
 
-[58](#58).          Technical advisory committees
+[58](#58).          Technical advisory committees                                                           4
 
 **Part 9—Finance**
 
-[59](#59).          Appropriation of money
+[59](#59).          Appropriation of money                                                                     4
 
-[60](#60).          Application of money
+[60](#60).          Application of money                                                                         4
 
-[61](#61).          Interim Trust costs etc 
+[61](#61).          Interim Trust costs etc                                                                        4
 
-[62](#62).          Borrowing
+[62](#62).          Borrowing                                                                                            4
 
-[63](#63).          Trust may give security
+[63](#63).          Trust may give security                                                                       4
 
-[64](#64).          Contracts
+[64](#64).          Contracts                                                                                             4
 
-[64A](#64A).       Leases over 25 years
+[64A](#64A).       Leases over 25 years                                                                            4
 
-[65](#65).          Liability to taxation
+[65](#65).          Liability to taxation                                                                             4
 
 **Part 10—Repeal of this Act**
 
-[66](#66).          Repeal of this Act [_see_ Note 1]
+[66](#66).          Repeal of this Act                                                                                4
 
-[67](#67).          Transfer of assets
+[67](#67).          Transfer of assets                                                                                4
 
-[68](#68).          Transfer of liabilities
+[68](#68).          Transfer of liabilities                                                                            4
 
-[69](#69).          Residual assets and liabilities
+[69](#69).          Residual assets and liabilities                                                               4
 
 **Part 11—Miscellaneous**
 
-[70](#70).          Annual report
+[70](#70).          Annual report                                                                                      4
 
-[70A](#70A).       Fees for documents
+[70A](#70A).       Fees for documents                                                                              4
 
-[71](#71).          Exemption from certain State laws
+[71](#71).          Exemption from certain State laws                                                      4
 
-[72](#72).          Delegation
+[72](#72).          Delegation                                                                                            4
 
-[73](#73).          Regulations
+[73](#73).          Regulations                                                                                          4
 
 **Schedule 1—Defence land to be vested in the Trust and remain in public ownership** 
 
@@ -208,13 +209,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act to establish the Sydney Harbour Federation Trust, and for related purposes
 
 Preamble
 
-                         The Parliament intends to conserve and preserve land in the Sydney Harbour region for the benefit of present and future generations of Australians. The land is being vacated by the Department of Defence and includes land at North Head, Middle Head, Georges Heights, Woolwich and Cockatoo Island. Suitable land with significant environmental and heritage values will be returned to the people of   Australia.
+                         The Parliament intends to conserve and preserve land in the Sydney Harbour region for the benefit of present and future generations of Australians. The land is being vacated by the Department of Defence and includes land at North Head, Middle Head, Georges Heights, Woolwich and Cockatoo Island. Suitable land with significant environmental and heritage values will be returned to the people of Australia.
 
-                   The Parliament intends to establish the Sydney Harbour Federation Trust as a transitional body to manage the land and facilitate its return in good order. The Trust will transfer suitable land to New   South Wales for inclusion in the national parks and reserves system.
+                   The Parliament intends to establish the Sydney Harbour Federation Trust as a transitional body to manage the land and facilitate its return in good order. The Trust will transfer suitable land to New South Wales for inclusion in the national parks and reserves system.
 
 ## Part 1—Preliminary
 
@@ -356,7 +360,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (e)  to co-operate with other Commonwealth bodies that have a connection with any Harbour land in managing that land;
 
-                      (f)  to co-operate with New   South Wales, affected councils and the community in furthering the above objects.
+                      (f)  to co-operate with New South Wales, affected councils and the community in furthering the above objects.
 
 ##### <a id="7"></a>7  Functions
 
@@ -394,7 +398,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  acquire, hold and dispose of real and personal property;
 
-                     (c)  enter into agreements with New   South Wales and affected councils;
+                     (c)  enter into agreements with New South Wales and affected councils;
 
                      (d)  accept gifts, grants, bequests and devises made to it;
 
@@ -1118,9 +1122,7 @@ for:
 
                      (a)  enter into a contract involving the payment or receipt by the Trust of an amount exceeding $1,000,000; or
 
-                     (b)  enter into a lease or licence of Trust land for a period that ends after the end of 19 September 2033.
-
-Note:       This Act commenced on 20 September 2001.
+                     (b)  enter into a lease or licence of Trust land for a period that ends after the end of 10 years from the commencement of this Act.
 
              (2)  Paragraph (1)(a) does not apply to the investment of money by the Trust in accordance with section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
@@ -1138,11 +1140,9 @@ Note:       This Act commenced on 20 September 2001.
 
 ## Part 10—Repeal of this Act
 
-##### <a id="66"></a>66  Repeal of this Act [_see_ Note 1]
+##### <a id="66"></a>66  Repeal of this Act
 
-             (1)  As soon as practicable after the end of 19 September 2033, the Minister must, by notice published in the _Gazette_, specify a day on which this Act is to be repealed.
-
-Note:          This Act commenced on 20 September 2001.
+             (1)  As soon as practicable after the end of 10 years from the commencement of this Act, the Minister must, by notice published in the _Gazette_, specify a day on which this Act is to be repealed.
 
              (2)  This Act is repealed at the beginning of that day.
 
@@ -1320,6 +1320,7 @@ all or any of the functions and powers conferred on the Trust by this Act.
 
                       (s)  any matter incidental to or connected with any of the above.
 
+
 # Schedule 1—Defence land to be vested in the Trust and remain in public ownership
 
 _Note:       See subsections 21(1) and 24(1) and section 63._
@@ -1359,43 +1360,46 @@ _ _
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Middle Head and Georges Heights in the Parish of Willoughby, County of
-      Cumberland</div>
-  </td>
-  <td>
-    <div>Lots 202 and 203 in Deposited Plan 1022020; Lot 2 in Deposited Plan 541799;
-      Lot 19 in Deposited Plan 233157; Lot 1 in Deposited Plan 831153; Lot 106
-      in Deposited Plan 1079507</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Woolwich in the Parish of Hunters Hill, County of Cumberland</div>
-  </td>
-  <td>
-    <div>Lot 4 in Deposited Plan 573213 (“Horse Paddock”) and Lot 1 in Deposited
-      Plan 223852 (“Goat Paddock”)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Cockatoo Island</div>
-  </td>
-  <td>
-    <div>Lot 1 in Deposited Plan 549630</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Middle Head and Georges Heights in the Parish of Willoughby, County of
+        Cumberland</div>
+    </td>
+    <td>
+      <div>Lots 202 and 203 in Deposited Plan 1022020; Lot 2 in Deposited Plan 541799;
+        Lot 19 in Deposited Plan 233157; Lot 1 in Deposited Plan 831153; Lot 106
+        in Deposited Plan 1079507</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Woolwich in the Parish of Hunters Hill, County of Cumberland</div>
+    </td>
+    <td>
+      <div>Lot 4 in Deposited Plan 573213 (“Horse Paddock”) and Lot 1 in Deposited
+        Plan 223852 (“Goat Paddock”)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Cockatoo Island</div>
+    </td>
+    <td>
+      <div>Lot 1 in Deposited Plan 549630</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Schedule 2—Other land to be vested in the Trust
 
@@ -1434,29 +1438,30 @@ _Note:       See subsection 21(1)._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Middle Head and Georges Heights in the Parish of Willoughby, County of
-      Cumberland</div>
-  </td>
-  <td>
-    <div>Lots 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 18 in Deposited
-      Plan 233157; Lots 104 and 105 in Deposited Plan 1079507</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Middle Head and Georges Heights in the Parish of Willoughby, County of
+        Cumberland</div>
+    </td>
+    <td>
+      <div>Lots 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 18 in Deposited
+        Plan 233157; Lots 104 and 105 in Deposited Plan 1079507</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 # Notes to the _Sydney Harbour Federation Trust Act 2001_
 
 ### Note 1
 
 The _Sydney__ __Harbour__ Federation Trust Act 2001_ as shown in this compilation comprises Act No. 2, 2001 amended as indicated in the Tables below.
-
-For cessation details of this Act _see_ section 66.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
@@ -1478,11 +1483,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1492,74 +1499,60 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Sydney  Harbour Federation Trust Act 2001</div>
-  </td>
-  <td>
-    <div>2, 2001</div>
-  </td>
-  <td>
-    <div>20 Mar 2001</div>
-  </td>
-  <td>
-    <div>20 Sept 2001</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 172–174): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 174)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment and Heritage Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>97, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sydney Harbour Federation Trust Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>151, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Sydney  Harbour Federation Trust Act 2001</div>
+    </td>
+    <td>
+      <div>2, 2001</div>
+    </td>
+    <td>
+      <div>20 Mar 2001</div>
+    </td>
+    <td>
+      <div>20 Sept 2001</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 172–174): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 174)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment and Heritage Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>97, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1584,62 +1577,33 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 151, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 64(1)(b)</div>
-  </td>
-  <td>
-    <div>ad. No. 151, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 151, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 66(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 151, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 97, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>am. No. 97, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>am. No. 97, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2</div>
+    </td>
+    <td>
+      <div>am. No. 97, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1666,6 +1630,7 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
 
  
 
