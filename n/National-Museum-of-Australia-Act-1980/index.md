@@ -1,72 +1,70 @@
 
 National Museum of Australia Act 1980
 Act No. 115 of 1980 as amended 
-This compilation was prepared on 27 March 2000 taking into account amendments up to Act No. 156 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Consolidated as in force on 24 June 1999
+(includes amendments up to Act No. 152 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
-
 Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-Part II—The National Museum of Australia	4
-4	Establishment of Museum	4
-5	Gallery of Aboriginal Australia	4
-6	Functions of Museum	5
-7	Powers of Museum	5
-8	Land and historical material for Museum	7
-9	Disposal of historical material in national historical collection	7
-9A	Disposal of historical material not in national historical collection	8
-Part III—The Council of the Museum	9
-10	Establishment of Council	9
-12	Directions by Minister	9
-13	Membership of Council	9
-14	Deputy Chair	10
-15	Deputies of part‑time members	11
-16	Remuneration etc.	11
-17	Termination of appointment	12
-18	Resignation	12
-20	Meetings of Council	12
-21	Committees of Council	14
-22	Delegation by Council	14
-Part IV—The Director of the Museum	16
-23	Office of Director	16
-24	Terms and conditions of appointment etc.	16
-25	Remuneration etc.	16
-26	Leave of absence	16
-27	Termination of appointment [see Note 2]	17
-28	Resignation	17
-29	Acting Director	17
-Part V—Staff and consultants	20
-30	Staff	20
-31	Arrangements relating to staff	20
-32	Engagement of consultants etc.	20
-Part VI—Finance	21
-33	Moneys payable to Museum	21
-35	Application of moneys held by Museum	21
-37	Limit on contracts	21
-38	Extra matters to be included in annual report	22
-39	Exemption from taxation	22
-Part VII—Miscellaneous	23
-41	Supply of liquor on premises of Museum	23
-42	Delegation	23
-43	Copyright	23
-44	Regulations	23
-Notes		25
+Part I—Preliminary	2
+1	Short title [see Note 1]	2
+2	Commencement [see Note 1]	2
+3	Interpretation	2
+Part II—The National Museum of Australia	5
+4	Establishment of Museum	5
+5	Gallery of Aboriginal Australia	5
+6	Functions of Museum	6
+7	Powers of Museum	6
+8	Land and historical material for Museum	8
+9	Disposal of historical material in national historical collection	9
+9A	Disposal of historical material not in national historical collection	9
+Part III—The Council of the Museum	11
+10	Establishment of Council	11
+12	Directions by Minister	11
+13	Membership of Council	11
+14	Deputy Chair	12
+15	Deputies of part-time members	13
+16	Remuneration etc.	13
+17	Termination of appointment	14
+18	 Resignation	14
+20	Meetings of Council	14
+21	Committees of Council	16
+22	Delegation by Council	16
+Part IV—The Director of the Museum	18
+23	Office of Director	18
+24	Terms and conditions of appointment etc.	18
+25	Remuneration etc.	18
+26	Leave of absence	19
+27	Termination of appointment [see Note 2]	19
+28	Resignation	19
+29	Acting Director	20
+Part V—Staff and consultants	22
+30	Staff	22
+31	Arrangements relating to staff	22
+32	Engagement of consultants etc.	22
+Part VI—Finance	24
+33	Moneys payable to Museum	24
+35	Application of moneys held by Museum	24
+37	Limit on contracts	24
+38	Extra matters to be included in annual report	25
+39	Exemption from taxation	25
+Part VII—Miscellaneous	26
+41	Supply of liquor on premises of Museum	26
+42	Delegation	26
+43	Copyright	26
+44	Regulations	27
+Notes 		29
+
 An Act to make provision for the establishment of a National Museum of Australia
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the National Museum of Australia Act 1980.
 2  Commencement [see Note 1]
 		This Act shall come into operation on the day on which it receives the Royal Assent.
 3  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
-appoint includes re‑appoint.
+appoint includes re-appoint.
 Australian history includes:
 	(a)	the natural history of Australia; and
 	(b)	the history of the interaction of man with the Australian natural environment.
@@ -74,7 +72,7 @@ Australian natural environment includes all aspects of the surroundings of man i
 Chair means the Chair of the Council.
 Council means the Council of the National Museum of Australia.
 Deputy Chair  means the Deputy Chair of the Council.
-deputy part‑time member means a person appointed under section 15 to be the deputy of a part‑time member.
+deputy part-time member means a person appointed under section 15 to be the deputy of a part-time member.
 Director means the Director of the National Museum of Australia.
 historical material means material (whether in written form or in any other form) relating to Australian history.
 member means a member of the Council.
@@ -83,15 +81,14 @@ national historical collection means:
 	(a)	all historical material that was in the ownership of the Museum at the time when the Statute Law (Miscellaneous Provisions) Act (No. 2) 1985  received the Royal Assent other than any such material that the Council determines should not be in the national historical collection;
 	(b)	such historical material that was in the possession of the Museum at the time referred to in paragraph (a) as the Council determines should be included in the national historical collection; and
 	(c)	such historical material that comes into the ownership or possession of the Museum after the time referred to in paragraph (a) as the Council determines should be included in the national historical collection.
-part‑time member means a member appointed to be a part‑time member.
+part-time member means a member appointed to be a part-time member.
 	(2)	For the purposes of the definitions of Australian history and Australian natural environment in subsection (1), Australia includes:
 	(a)	every external Territory; and
 	(b)	the continental shelf, within the meaning of the Seas and Submerged Lands Act 1973, that is adjacent to the coast of Australia or of an external Territory.
 	(3)	For the purposes of subsection (2), external Territory includes any territory that was formerly a Territory referred to in section 122 of the Constitution (including a Territory administered by Australia under a Trusteeship Agreement) but has ceased to be a Territory referred to in that section.
 	(4)	Any determination made by the Council for the purposes of the definition of national historical collection in subsection (1) shall be based upon criteria, and made in accordance with guidelines, approved by the Minister.
-
 Part II—The National Museum of Australia
-  
+Do not delete : Division placeholder
 4  Establishment of Museum
 	(1)	There is established by this Act a National Museum of Australia.
 	(2)	The Museum:
@@ -147,7 +144,7 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Museum.
 	(a)	is unfit for the collection; or
 	(b)	is not required as part of the collection;
 the Council may resolve that the historical material be disposed of by sale, gift or destruction.
-	(2)	Where the Council is satisfied that the exchange of historical material in the national historical collection for other historical material would be advantageous to the collection, the Council may resolve that the first‑mentioned historical material be disposed of in exchange for that other historical material.
+	(2)	Where the Council is satisfied that the exchange of historical material in the national historical collection for other historical material would be advantageous to the collection, the Council may resolve that the first-mentioned historical material be disposed of in exchange for that other historical material.
 	(3)	The Council shall not resolve that historical material be disposed of by destruction unless the Council is satisfied that the material has no saleable value.
 	(4)	Where:
 	(a)	the Council has resolved, in accordance with this section, that historical material be disposed of; and
@@ -161,9 +158,8 @@ the Museum may dispose of that historical material accordingly.
 	(a)	the Council has resolved, in accordance with this section, that historical material be disposed of; and
 	(b)	if the value of the historical material exceeds $20,000, the Minister has approved of the disposal;
 the Museum may dispose of the historical material accordingly.
-
 Part III—The Council of the Museum
-  
+Do not delete : Division placeholder
 10  Establishment of Council
 	(1)	There is established by this section a Council by the name of the Council of the National Museum of Australia.
 	(2)	The Council is responsible for the conduct and control of the affairs of the Museum and, subject to sections 5 and 12, the policy of the Museum with respect to any matter shall be determined by the Council.
@@ -176,43 +172,43 @@ Part III—The Council of the Museum
 	(a)	a Chair;
 	(b)	the Director; and
 	(c)	not less than 7 nor more than 10 other members.
-	(2)	The members, other than the Director, shall be appointed by the Governor‑General having regard to their knowledge and experience with respect to matters relating to Australian history or with respect to any other area of knowledge relevant to the affairs of the Museum.
+	(2)	The members, other than the Director, shall be appointed by the Governor-General having regard to their knowledge and experience with respect to matters relating to Australian history or with respect to any other area of knowledge relevant to the affairs of the Museum.
 	(3)	A member, other than the Director:
-	(a)	shall be appointed to be a part‑time member; and
-	(b)	holds office for such term, not exceeding 3 years, as is fixed by the Governor‑General in the instrument of his or her appointment.
+	(a)	shall be appointed to be a part-time member; and
+	(b)	holds office for such term, not exceeding 3 years, as is fixed by the Governor-General in the instrument of his or her appointment.
 	(4)	The performance of the functions, or the exercise of the powers, of the Council is not affected by reason only of there being a vacancy or vacancies in the membership of the Council.
-	(5)	The appointment of a person as a part‑time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
+	(5)	The appointment of a person as a part-time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
 14  Deputy Chair
 	(1)	There shall be a Deputy Chair of the Council who shall be elected by the members from among the members referred to in paragraph 13(1)(c).
 	(2)	A member elected as the Deputy Chair:
 	(a)	holds office as the Deputy Chair for the period fixed by the Council at the time of his or her election, but that period shall not extend beyond the expiration of the term for which he or she is holding office as a member at that time; and
-	(b)	is eligible for re‑election.
+	(b)	is eligible for re-election.
 	(3)	The Deputy Chair may resign his or her office by writing signed by him or her and delivered to the Chair.
 	(4)	The election of a person as the Deputy Chair is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her election.
 	(5)	The validity of anything done by a person purporting to be the Deputy Chair shall not be called in question on the ground that there is a defect or irregularity in or in connection with his or her election as the Deputy Chair, that he or she has ceased to be the Deputy Chair or that the occasion for him or her to perform the functions, or exercise the powers, of the Deputy Chair had not arisen or had ceased.
-15  Deputies of part‑time members
-	(1)	A part‑time member may, with the approval of the Minister, appoint a person, other than a member, to be his or her deputy.
-	(2)	A part‑time member may revoke the appointment of a person as his or her deputy, but the revocation is not effective until the member has given notice of it, in writing, to the Minister.
-	(3)	A deputy part‑time member may resign his or her office by writing signed by him or her and delivered to the Minister.
-	(4)	A deputy part‑time member is entitled, in the event of the absence of the member of whom he or she is the deputy from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be a member.
-	(5)	The appointment of a person as a deputy part‑time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
+15  Deputies of part-time members
+	(1)	A part-time member may, with the approval of the Minister, appoint a person, other than a member, to be his or her deputy.
+	(2)	A part-time member may revoke the appointment of a person as his or her deputy, but the revocation is not effective until the member has given notice of it, in writing, to the Minister.
+	(3)	A deputy part-time member may resign his or her office by writing signed by him or her and delivered to the Minister.
+	(4)	A deputy part-time member is entitled, in the event of the absence of the member of whom he or she is the deputy from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be a member.
+	(5)	The appointment of a person as a deputy part-time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
 16  Remuneration etc.
 	(1)	This section applies to a person who is:
-	(a)	a part‑time member;
-	(b)	a deputy part‑time member; or
+	(a)	a part-time member;
+	(b)	a deputy part-time member; or
 	(c)	a member of a committee constituted under section 21 other than a member of the Council.
 	(2)	A person to whom this section applies shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 	(3)	A person to whom this section applies shall be paid such allowances as are prescribed.
 	(4)	This section has effect subject to the Remuneration Tribunal Act 1973.
 17  Termination of appointment
-	(1)	The Governor‑General may terminate the appointment of a part‑time member by reason of the misbehaviour or physical or mental incapacity of that member.
-	(2)	If a part‑time member:
+	(1)	The Governor-General may terminate the appointment of a part‑time member by reason of the misbehaviour or physical or mental incapacity of that member.
+	(2)	If a part-time member:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 	(b)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council; or
-	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
-the Governor‑General shall terminate the appointment of that member.
-18  Resignation
-		A part‑time member may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
+the Governor-General shall terminate the appointment of that member.
+18   Resignation
+		A part-time member may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 20  Meetings of Council
 	(1)	The Chair or, if for any reason the Chair is unable to act, the Deputy Chair:
 	(a)	shall convene such meetings of the Council as he or she considers necessary for the efficient conduct of its business; and
@@ -223,7 +219,7 @@ the Governor‑General shall terminate the appointment of that member.
 	(5)	In the event of the absence of both the Chair and the Deputy Chair from a meeting of the Council, the members present shall elect one of their number to preside at that meeting.
 	(6)	At a meeting of the Council, 7 members constitute a quorum.
 	(7)	Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
-	(8)	In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first‑mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
+	(8)	In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first-mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
 	(9)	The Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall keep minutes of those proceedings.
 	(10)	If the Council so determines, a member of the Council may participate in, and form part of a quorum at, a meeting of the Council by means of any of the following methods of communication:
 	(a)	telephone;
@@ -237,7 +233,7 @@ the Governor‑General shall terminate the appointment of that member.
 	(2)	A committee may be constituted wholly by members of the Council or partly by members of the Council and partly by other persons.
 22  Delegation by Council
 	(1)	Subject to this section, the Council may, by resolution, either generally or as otherwise provided by the resolution, delegate all or any of its powers under this Act (except this power of delegation) to the Director, to any other member or to a member of the staff of the Museum.
-	(2)	A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Council.
+	 (2)	A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Council.
 	(3)	A delegate is, in the exercise of a power so delegated, subject to the directions of the Council.
 	(4)	A delegation of a power under this section:
 	(a)	may be revoked by resolution of the Council (whether or not constituted by the persons constituting the Council at the time the power was delegated);
@@ -246,34 +242,33 @@ the Governor‑General shall terminate the appointment of that member.
 	(5)	Section 34A of the Acts Interpretation Act 1901 applies in relation to a delegation under this section as if the Council were a person.
 	(6)	A certificate signed by the Chair stating any matter with respect to the delegation of a power under this section is prima facie evidence of that matter.
 	(7)	A document purporting to be a certificate mentioned in subsection (6) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
-
 Part IV—The Director of the Museum
-  
+Do not delete : Division placeholder
 23  Office of Director
-	(1)	There shall be a Director of the National Museum of Australia, who shall be appointed by the Governor‑General.
+	(1)	There shall be a Director of the National Museum of Australia, who shall be appointed by the Governor-General.
 	(2)	The Director is the executive member of the Council and shall, subject to and in accordance with the general directions of the Council, manage the affairs of the Museum.
 24  Terms and conditions of appointment etc.
 	(1)	The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment.
 	(2)	A person who has attained the age of 65 years shall not be appointed as the Director and a person shall not be appointed as the Director for a period that extends beyond the day on which he or she will attain the age of 65 years.
-	 (3)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+	 (3)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 25  Remuneration etc.
 	(1)	The Director shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 	(2)	The Director shall be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 26  Leave of absence
-	(1)	The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(1)	Subject to section 87E of the Public Service Act 1922, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The Minister may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
-27  Termination of appointment [see Notes 2 and 3]
-	(1)	The Governor‑General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
+27  Termination of appointment [see Note 2]
+	(1)	The Governor-General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
 	(2)	If the Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
-	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months;
-	(c)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council;
+	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months;
+	(c)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council;
 	(d)	engages in paid employment outside the duties of his or her office without the approval of the Minister; or
 	(e)	fails to comply with his or her obligations under section 19;
-the Governor‑General shall terminate the appointment of the Director.
+the Governor-General shall terminate the appointment of the Director.
 28  Resignation
-		The Director may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+		The Director may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 29  Acting Director
 	(1)	The Minister may appoint a person to act in the place of the Director:
 	(a)	during a vacancy in the office of the Director, whether or not an appointment has previously been made to the office; or
@@ -283,27 +278,25 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(3)	The Minister may:
 	(a)	subject to this Act, determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director; and
 	(b)	terminate such an appointment at any time.
-	(4)	Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+	(4)	Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 	(5)	The appointment of a person to act as Director ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Minister.
 	(6)	While a person is acting as Director, he or she has and may exercise all the powers, and shall perform all the functions, of the Director under this Act.
 	(7)	A person who is acting as Director may attend a meeting of the Council and, in relation to a meeting that he or she so attends, shall, for the purposes of this Act, be deemed to be the Director.
 	(8)	The appointment of a person under subsection (1) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
 	(9)	The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
-
 Part V—Staff and consultants
-  
+Do not delete : Division placeholder
 30  Staff
-	(1)	Subject to section 31, the staff of the Museum shall be persons engaged under the Public Service Act 1999.
-	(2)	For the purposes of the Public Service Act 1999:
-	(a)	the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
-	(b)	the Director is the Head of that Statutory Agency.
+	(1)	Subject to section 31, the staff of the Museum shall be persons appointed or employed under the Public Service Act 1922.
+	(2)	The Director has all the powers of, or exercisable by, a Secretary under the Public Service Act 1922, in so far as those powers relate to the branch of the Australian Public Service comprising the staff referred to in subsection (1), as if that branch were a separate Department of the Australian Public Service.
+	(3)	For the purposes of section 26 of the Public Service Act 1922, the Director shall be deemed to be a Secretary.
+	(4)	The members of the staff referred to in subsection (1) shall perform their functions and duties in accordance with the directions of the Director.
 31  Arrangements relating to staff
-	(1)	The Council may arrange with an Agency Head (within the meaning of the Public Service Act 1999) or with a body (other than a company or association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the body to be made available to the Museum.
+	(1)	The Council may arrange with the Secretary of a Department of the Australian Public Service or with a body (other than a company or association) established for a public purpose by or under a law of the Commonwealth for the services of officers or employees of the body to be made available to the Museum.
 	(2)	The Council may enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Museum.
 32  Engagement of consultants etc.
 	(1)	The Director may, on behalf of the Museum, engage persons having suitable qualifications and experience as consultants to the Museum.
 	(2)	The terms and conditions of the engagement of a person under subsection (1) are such as are determined by the Director.
-
 Part VI—Finance
 33  Moneys payable to Museum
 	(1)	There are payable to the Museum such moneys as are appropriated, from time to time, by the Parliament for the purposes of the Museum.
@@ -322,9 +315,8 @@ Part VI—Finance
 	(4)	A report prepared by the members under section 9 of the Commonwealth Authorities and Companies Act 1997 must set out all directions given by the Minister, during the period to which the report relates, to the Museum or to the Council.
 39  Exemption from taxation
 		The Museum is not subject to taxation under a law of Australia or of a State or Territory.
-
 Part VII—Miscellaneous
-  
+Do not delete : Division placeholder
 41  Supply of liquor on premises of Museum
 	(1)	The regulations may make provision for and in relation to the sale, supply, disposal, possession or control of liquor on premises in the Australian Capital Territory owned by or under the control of the Museum.
 	(2)	The law of the Australian Capital Territory relating to the sale, supply and disposal of liquor does not apply with respect to premises in respect of which regulations are in force under subsection (1).
@@ -336,21 +328,23 @@ Part VII—Miscellaneous
 43  Copyright
 		Nothing in this Act authorizes the Museum to commit any breach of copyright.
 44  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 	(a)	for regulating, restricting or prohibiting the entry of persons onto any land or building, or any part of any land or building, owned by or under the control of the Museum, and for regulating the conduct of persons on any such land or building, or any part of any such land or building, including making provision for and in relation to the removal of persons from any such land or building, or any part of any such land or building;
 	(b)	for fixing charges for entry onto any land, or into any building, owned by, or under the control of, the Museum;
 	(c)	for regulating, restricting or prohibiting the making, using, printing, publishing, exhibiting, selling or offering for sale of replicas, photographs, representations or copies of historical material forming part of the national historical collection; and
-	(d)	for prescribing penalties not exceeding a fine of $500 for offences against the regulations.
+	(d)	for prescribing penalties not exceeding a fine of $500 for offences against the regulations. 
 
 Notes to the National Museum of Australia Act 1980
 Note 1
-The National Museum of Australia Act 1980 as shown in this compilation comprises Act No. 115, 1980 amended as indicated in the Tables below. 
+The National Museum of Australia Act 1980 as shown in this consolidation comprises Act No. 115, 1980 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Museum of Australia Act 1980
 115, 1980
 8 Sept 1980
@@ -409,35 +403,25 @@ S. 3 (2)
 Maritime Legislation Amendment Act 1994
 20, 1994
 15 Feb 1994
-1 Aug 1994 (see Gazette 1994, No. S289)
+1 Aug 1994 (see Gazette 1994, No. S289)
 —
 Statute Law Revision Act 1996
 43, 1996
 25 Oct 1996
-Schedule 4 (items 106, 107) and Schedule 5 (items 96‑98): Royal Assent (h)
+Schedule 4 (items 106, 107) and Schedule 5 (items 96-98): Royal Assent (h)
 — 
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 1004‑1017) (see Gazette 1997, No. GN49) (i)
-—
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 655-658): 5 Dec 1999 (see Gazette 1999, No. S584) (j)
-—
-Corporate Law Economic Reform Program Act 1999
-156, 1999
-24 Nov 1999
-Schedule 10 (items 102, 103): 13 Mar 2000 (see Gazette 2000, No. S114) (k)
+Schedule 2 (items 1004-1010, 1012-1017) (see Gazette 1997, No. GN49) (i)
 —
 
 (a)	The National Museum of Australia Act 1980 was amended by subsection 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
 	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 (b)	The National Museum of Australia Act 1980 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 (c)	The National Museum of Australia Act 1980 was amended by section 45 only of the Public Service and Statutory Authorities Amendment Act 1985, subsection 2(7) of which provides as follows:
-	(7)	The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+	(7)	The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 (d)	The Public Service and Statutory Authorities Amendment Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsection 2(19) of which provides as follows:
 	(19)	The amendments of the Public Service and Statutory Authorities Amendment Act 1985 made by this Act shall be deemed to have come into operation immediately after section 45 of that Act came into operation.
 	Section 45 came into operation on 8 January 1986.
@@ -447,18 +431,11 @@ Schedule 10 (items 102, 103): 13 Mar 2000 (see Gazette 2000, No. S114) (k)
 	(14)	The amendment of the National Museum of Australia Act 1980 made by this Act shall be deemed to have come into operation on 16 December 1985.
 (g)	The National Museum of Australia Act 1980 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-(h)	The National Museum of Australia Act 1980 was amended by Schedule 4 (items 106 and 07) and Schedule 5 (items 96‑98) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
+(h)	The National Museum of Australia Act 1980 was amended by Schedule 4 (items 106, 107) and Schedule 5 (items 96-98) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(i)	The National Museum of Australia Act 1980 was amended by Schedule 2 (items 1004‑1017) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997 subsection 2(2) of which provides as follows:
+(i)	The National Museum of Australia Act 1980 was amended by Schedule 2 (items 1004-1010, 1012-1017) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997 subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(j)	The National Museum of Australia Act 1980 was amended by Schedule 1 (items 655-658) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-(k)	The National Museum of Australia Act 1980  was amended by Schedule 10 (items 106 and 107) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
-	(c)	the items in Schedules 10, 11 and 12.
 
-Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -497,7 +474,7 @@ am. No. 43, 1996; No. 152, 1997
 Ss. 15, 16	
 am. No. 43, 1996
 S. 17	
-am. No. 152, 1997; No. 156, 1999
+am. No. 152, 1997
 S. 18	
 am. No. 43, 1996
 S. 19	
@@ -514,14 +491,12 @@ Ss. 24, 25
 am. No. 43, 1996
 S. 26	
 rs. No. 179, 1991
-
-am. No. 146, 1999
 S. 27	
 am. No. 179, 1991; No. 43, 1996
 Ss. 28, 29	
 am. No. 43, 1996
 Ss. 30, 31	
-am. No. 63, 1984; No. 146, 1999
+am. No. 63, 1984
 S. 32	
 am. No. 166, 1985 (as am. by No. 76, 1986); No. 193, 1985
 S. 34	
@@ -546,13 +521,6 @@ Section 27(2)(e)—Schedule 2 (item 1011) of the Audit (Transitional and Miscell
 Schedule 2
 1011  Paragraph 27(2)(e)
 Omit “his obligations under section 19”, substitute “section 21 of the Commonwealth Authorities and Companies Act 1997”.
-The proposed amendment was misdescribed and is not incorporated in this compilation.
-Note 3
-Section 27(2)(e)—Schedule 10 (item 103) of the Corporate Law Economic Reform Program Act 1999 provides as follows:
-Schedule 10
-103  Paragraph 27(2)(e)
-Omit “21”, substitute “27F to 27J”.
-The proposed amendment was misdescribed and is not incorporated in this compilation.
-
+The proposed amendment was misdescribed and is not incorporated in this consolidation.
 
 
