@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00501/Html/12e613c6-92d0-4015-9819-b32dadf8b2ee_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00586/Html/010cd946-92ee-478f-aa58-8ab5416f0816_files/image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 4 July 2011
- taking into account amendments up to Act No. 60 of 2011
+This compilation was prepared on 17 December 2009
+ taking into account amendments up to Act No. 133 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -162,17 +162,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40C](#40C).       Definitions
 
-[40D](#40D).       Meaning of _customer‑generated financial transaction document_
+[40D](#40D).       Meaning of _customer-generated financial transaction document_
 
 [40E](#40E).        Meaning of _minimum retention period_
 
     **Division 2—Retaining financial transaction documents**
 
-[40F](#40F).        Customer‑generated financial transaction documents not relating to operation of accounts
+[40F](#40F).        Customer-generated financial transaction documents not relating to operation of accounts
 
 [40G](#40G).       Releasing original documents if required by law
 
-[40H](#40H).       Customer‑generated financial transaction documents relating to operation of accounts
+[40H](#40H).       Customer-generated financial transaction documents relating to operation of accounts
 
 [40J](#40J).        Retaining other financial transaction documents
 
@@ -201,8 +201,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part VII—Miscellaneous**
 
 [41](#41).          Act not to limit Commissioner’s powers
-
-[41A](#41A).       Exemptions by the AUSTRAC CEO
 
 [42](#42).          _Administrative Decisions (Judicial Review) Act 1977_ not to apply to decisions under this Act
 
@@ -284,7 +282,7 @@ Note:          Section 40C defines **_account_** for the pur
 
                              (v)  if the account is held in trust—that fact and the prescribed details of the trustees and beneficiaries of the trust.
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit‑taking institution) means:
+                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means:
 
                      (a)  a body corporate that is an ADI for the purposes of the _Banking Act 1959_; or
 
@@ -298,7 +296,7 @@ Note:          Section 40C defines **_account_** for the pur
 
                     <a name="approved-cash-carrier"></a>**_approved cash carrier_** means a cash dealer declared by the AUSTRAC CEO to be an approved cash carrier under section 8.
 
-                    <a name="austrac"></a>**_AUSTRAC_** means the Australian Transaction Reports and Analysis Centre continued in existence by the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+                    <a name="austrac"></a>**_AUSTRAC_** means the Australian Transaction Reports and Analysis Centre continued in existence by the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
                     <a name="austrac-ceo"></a>**_AUSTRAC CEO_** means the Chief Executive Officer of AUSTRAC.
 
@@ -352,7 +350,7 @@ Note:          Section 40C defines **_account_** for the pur
 
                             (ib)  remitting or transferring currency or prescribed commercial instruments, or making electronic funds transfers, into or out of Australia on behalf of other persons or arranging for such remittance or transfer; or
 
-                             (ii)  preparing pay‑rolls on behalf of other persons in whole or in part from currency collected; or
+                             (ii)  preparing pay-rolls on behalf of other persons in whole or in part from currency collected; or
 
                             (iii)  delivering currency (including payrolls);
 
@@ -376,7 +374,7 @@ Note:          Section 40C defines **_account_** for the pur
 
 or under regulations made under either of those Acts.
 
-                    <a name="commenc-provid-design-servic"></a>**_commence to provide a designated service_** has the same meaning as in the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+                    <a name="commenc-provid-design-servic"></a>**_commence to provide a designated service_** has the same meaning as in the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
                     <a name="commerci-good-carrier"></a>**_commercial goods carrier_** means a person who, in the normal course of a lawful business, carries goods or mail for reward.
 
@@ -384,7 +382,7 @@ or under regulations made under either of those Acts.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
-                    <a name="co-oper-hous-societi"></a>**_co‑operative housing society_** means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
+                    <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.
 
                     <a name="currenc"></a>**_currency_** means the coin and paper money of Australia or of a foreign country that:
 
@@ -392,15 +390,15 @@ or under regulations made under either of those Acts.
 
                      (b)  circulates as, and is customarily used and accepted as, a medium of exchange in the country of issue.
 
-                    <a name="custom-gener-financi-transact-docum"></a>**_customer‑generated financial transaction document_** has the meaning given by section 40D.
+                    <a name="custom-gener-financi-transact-docum"></a>**_customer-generated financial transaction document_** has the meaning given by section 40D.
 
                     <a name="custom-offic"></a>**_customs officer_** means the Chief Executive Officer of Customs or an officer of customs within the meaning of the _Customs Act 1901_.
 
-                    <a name="design-servic"></a>**_designated service_** has the same meaning as in the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+                    <a name="design-servic"></a>**_designated service_** has the same meaning as in the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
                     <a name="design-servic-transact"></a>**_designated service transaction_**: if:
 
-                     (a)  a reporting entity provides, or commences to provide, a designated service to a customer (within the meaning of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_); and
+                     (a)  a reporting entity provides, or commences to provide, a designated service to a customer (within the meaning of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_); and
 
                      (b)  the provision of the service involves a transaction;
 
@@ -414,7 +412,7 @@ the transaction is a **_designated service transaction_**.
 
                      (a)  an ADI; or
 
-                     (b)  a co‑operative housing society;
+                     (b)  a co-operative housing society;
 
 and, in Part VIA, includes:
 
@@ -444,7 +442,7 @@ and, in Part VIA, includes:
 
                      (a)  health insurance business within the meaning of Division 121 of the _Private Health Insurance Act 2007_ carried on by a private health insurer within the meaning of that Act; or
 
-                     (b)  business undertaken by a person, being an innkeeper or lodging‑house keeper, relating only to the person’s liability in respect of goods belonging to another person and in the possession or under the control of a guest at the inn or lodging‑house of which the first‑mentioned person is the innkeeper or lodging‑house keeper or deposited with the innkeeper or lodging‑house keeper for safe custody; or
+                     (b)  business undertaken by a person, being an innkeeper or lodging-house keeper, relating only to the person’s liability in respect of goods belonging to another person and in the possession or under the control of a guest at the inn or lodging-house of which the first-mentioned person is the innkeeper or lodging-house keeper or deposited with the innkeeper or lodging-house keeper for safe custody; or
 
                      (c)  the business of insuring property of a religious organisation where the person carrying on the business does not carry on any other insurance business.
 
@@ -480,15 +478,15 @@ arranges contracts of insurance in Australia or elsewhere, and includes an insur
 
                     <a name="minimum-retent-period"></a>**_minimum retention period_** has the meaning given by section 40E.
 
-                    <a name="non-report-cash-transact"></a>**_non‑reportable cash transaction_** means a cash transaction:
+                    <a name="non-report-cash-transact"></a>**_non-reportable cash transaction_** means a cash transaction:
 
                      (a)  to which a cash dealer is a party; and
 
                      (b)  that is not a significant cash transaction or is an exempt cash transaction; and
 
-                     (c)  that is not a designated service transaction that occurred after the commencement of Division 3 of Part 3 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+                     (c)  that is not a designated service transaction that occurred after the commencement of Division 3 of Part 3 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
-                    <a name="non-report-transfer"></a>**_non‑reportable transfer_**, in relation to currency, means a transfer of currency out of Australia or into Australia in respect of which a report under section 15 is not required.
+                    <a name="non-report-transfer"></a>**_non-reportable transfer_**, in relation to currency, means a transfer of currency out of Australia or into Australia in respect of which a report under section 15 is not required.
 
                     <a name="offici"></a>**_official_**, in relation to a Royal Commission, means:
 
@@ -526,7 +524,7 @@ that shows that name as the person’s name.
 
                     <a name="public-author"></a>**_public authority_** means an authority or body, whether a body corporate or not, established or incorporated for a public purpose by or under a law of the Commonwealth or of a State or Territory.
 
-                    <a name="report-entiti"></a>**_reporting entity_** has the same meaning as in the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+                    <a name="report-entiti"></a>**_reporting entity_** has the same meaning as in the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
                     <a name="report-period"></a>**_reporting period_**, in relation to a significant cash transaction, means:
 
@@ -684,7 +682,7 @@ unless:
 
                             (iii)  the transaction is a designated service transaction.
 
-          (1A)  Subsection (1) does not apply in relation to a transaction if the cash dealer complies with section 43 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in relation to the transaction.
+          (1A)  Subsection (1) does not apply in relation to a transaction if the cash dealer complies with section 43 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the transaction.
 
              (2)  The report shall be prepared in the approved form, contain the reportable details of the transaction and be signed by the cash dealer or otherwise authenticated by the cash dealer in a way approved by the AUSTRAC CEO.
 
@@ -798,7 +796,7 @@ the transaction is also an exempt transaction so far as the cash dealer is conce
 
                      (c)  the transaction consists of a withdrawal from an account maintained by the customer with the institution;
 
-                     (d)  the withdrawal is made for pay‑roll purposes;
+                     (d)  the withdrawal is made for pay-roll purposes;
 
                      (e)  the customer regularly withdraws, from that account, currency of a value not less than $10,000 to pay the customer’s staff and employees; and
 
@@ -950,7 +948,7 @@ the person, subject to subsections (2), (3) and (4), commits an offence agains
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (1B)  Subsection (1) does not apply if the transfer occurred after the commencement of Division 1 of Part 4 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+          (1B)  Subsection (1) does not apply if the transfer occurred after the commencement of Division 1 of Part 4 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (1B) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -976,7 +974,7 @@ the person commits an offence against this subsection.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (5B)  Subsection (5) does not apply if the currency was transferred after the commencement of Division 1 of Part 4 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_.
+          (5B)  Subsection (5) does not apply if the currency was transferred after the commencement of Division 1 of Part 4 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (5B) (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -1010,7 +1008,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                      (b)  to another person for carriage to a place outside Australia by that other person or by a third person;
 
-the time when the currency is taken out of Australia is the time when it is irrevocably committed by the first‑mentioned person to the Australian Postal Corporation or to the other person, as the case may be.
+the time when the currency is taken out of Australia is the time when it is irrevocably committed by the first-mentioned person to the Australian Postal Corporation or to the other person, as the case may be.
 
           (7B)  For the purposes of paragraph (7A)(a), the time at which currency is brought into Australia by a person is:
 
@@ -1098,7 +1096,7 @@ the time when the currency is taken out of Australia is the time when it is irre
 
                      (c)  the transaction is a designated service transaction.
 
-          (3B)  Subsection (1) does not apply in relation to a transaction if the solicitor, corporation or partnership complies with section 43 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in relation to the transaction.
+          (3B)  Subsection (1) does not apply in relation to a transaction if the solicitor, corporation or partnership complies with section 43 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the transaction.
 
              (4)  In this section:
 
@@ -1178,7 +1176,7 @@ give such further information as is specified in the request to the extent to wh
 
                      (c)  the transaction is a designated service transaction.
 
-          (4B)  Subsection (1) or (1A) does not apply in relation to a transaction if the cash dealer complies with section 41 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in relation to the transaction.
+          (4B)  Subsection (1) or (1A) does not apply in relation to a transaction if the cash dealer complies with section 41 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the transaction.
 
              (5)  An action, suit or proceeding does not lie against:
 
@@ -1198,13 +1196,13 @@ in relation to any action by the cash dealer or person taken:
 
                      (b)  that information has been communicated to the AUSTRAC CEO; or
 
-                     (c)  any other information from which the person to whom the information is disclosed could reasonably be expected to infer that the suspicion had been formed or that the first‑mentioned information had been communicated.
+                     (c)  any other information from which the person to whom the information is disclosed could reasonably be expected to infer that the suspicion had been formed or that the first-mentioned information had been communicated.
 
        (5AA)  If a cash dealer gives further information pursuant to a request under subsection (4), the cash dealer must not disclose to anyone else:
 
                      (a)  that the information has been given; or
 
-                     (b)  any other information from which the person to whom the information is disclosed could reasonably be expected to infer that the first‑mentioned information had been given.
+                     (b)  any other information from which the person to whom the information is disclosed could reasonably be expected to infer that the first-mentioned information had been given.
 
           (5B)  A cash dealer who contravenes subsection (5A) or (5AA) is guilty of an offence punishable, upon conviction, by imprisonment for not more than 2 years.
 
@@ -1296,7 +1294,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 the dealer must, before the reporting time, prepare a report of the instruction.
 
-          (1A)  Subsection (1) does not apply in relation to an instruction if the cash dealer complies with section 45 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in relation to the instruction.
+          (1A)  Subsection (1) does not apply in relation to an instruction if the cash dealer complies with section 45 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in relation to the instruction.
 
              (2)  The report must be in the approved form and include the prescribed details.
 
@@ -1400,15 +1398,15 @@ the judgment must not be recognised or enforced in Australia.
 
                              (ii)  becomes a signatory of such an account with a cash dealer.
 
-          (1A)  Subparagraphs (1)(a)(i) and (b)(i) do not apply if the account is opened after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service.
+          (1A)  Subparagraphs (1)(a)(i) and (b)(i) do not apply if the account is opened after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service.
 
           (1B)  Subparagraphs (1)(a)(ii) and (b)(ii) do not apply if:
 
-                     (a)  the person becomes a signatory of the account after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  the person becomes a signatory of the account after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  either:
 
-                              (i)  the account is opened after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service; or
+                              (i)  the account is opened after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service; or
 
                              (ii)  the account was opened before the commencement of that Division in circumstances that would have amounted to the provision of a designated service if all the provisions of Parts 1 and 2 of that Act had been in force at the relevant time.
 
@@ -1528,7 +1526,7 @@ the court may make such orders as it thinks fit in relation to that amount, incl
 
              (2)  Subsection (1) does not apply to information obtained by the cash dealer before the commencement of Part 2 of the _Crimes Legislation Amendment Act 1992_.
 
-##### <a id="20A"></a>20A  Identification record
+##### <a id="20A"></a>20A  Identification record
 
              (1)  For the purposes of this Act, a cash dealer has an identification record for a signatory to an account if, and only if:
 
@@ -1602,15 +1600,15 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                      (d)  if the signatory is an Aborigine or Torres Strait Islander—which is a traditional name of the signatory.
 
-          (1A)  This section does not apply to an individual who wishes to open an account if the account is opened after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service.
+          (1A)  This section does not apply to an individual who wishes to open an account if the account is opened after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service.
 
           (1B)  This section does not apply to an individual who wishes to become a signatory to an account with an identifying cash dealer in a name by which the individual intends to be commonly known if:
 
-                     (a)  the individual wishes to become a signatory to the account in that name after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  the individual wishes to become a signatory to the account in that name after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  either:
 
-                              (i)  the account is opened after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service; or
+                              (i)  the account is opened after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service; or
 
                              (ii)  the account was opened before the commencement of that Division in circumstances that would have amounted to the provision of a designated service if all the provisions of Parts 1 and 2 of that Act had been in force at the relevant time.
 
@@ -1694,7 +1692,7 @@ Transferor ADI to give records to transferee ADI
 
              (2)  The transferor ADI must comply with whichever of the following rules is applicable:
 
-                     (a)  if the record relates wholly to the transferred account—the transferor ADI must give the record to the transferee ADI within the 120‑day period beginning 30 days before the transfer;
+                     (a)  if the record relates wholly to the transferred account—the transferor ADI must give the record to the transferee ADI within the 120-day period beginning 30 days before the transfer;
 
                      (b)  if the record relates partly to the transferred account and partly to an account that is not so transferred or proposed to be so transferred—the transferor ADI must:
 
@@ -1702,7 +1700,7 @@ Transferor ADI to give records to transferee ADI
 
                              (ii)  give the copy to the transferee ADI;
 
-                            within the 120‑day period beginning 30 days before the transfer.
+                            within the 120-day period beginning 30 days before the transfer.
 
 Offence
 
@@ -1754,15 +1752,15 @@ When section applies
 
                      (b)  the record relates wholly or partly to a closed account; and
 
-                     (c)  the transferor ADI complies with an obligation imposed on it under subsection 23A(2) in relation to another ADI (the **_transferee ADI_**) during the 120‑day period mentioned in that subsection; and
+                     (c)  the transferor ADI complies with an obligation imposed on it under subsection 23A(2) in relation to another ADI (the **_transferee ADI_**) during the 120-day period mentioned in that subsection; and
 
-                     (d)  the transferor ADI and the transferee ADI agree in writing that so much of the record as relates to the closed account should be transferred by the transferor ADI to the transferee ADI during that 120‑day period.
+                     (d)  the transferor ADI and the transferee ADI agree in writing that so much of the record as relates to the closed account should be transferred by the transferor ADI to the transferee ADI during that 120-day period.
 
 Transferor ADI may give records to transferee ADI
 
              (2)  The transferor ADI may: 
 
-                     (a)  if the record relates wholly to the closed account—give the record to the transferee ADI within that 120‑day period; or
+                     (a)  if the record relates wholly to the closed account—give the record to the transferee ADI within that 120-day period; or
 
                      (b)  if the record relates partly to the closed account and partly to some other account (whether active or otherwise):
 
@@ -1770,7 +1768,7 @@ Transferor ADI may give records to transferee ADI
 
                              (ii)  give the copy to the transferee ADI;
 
-                            within that 120‑day period.
+                            within that 120-day period.
 
 Transferor ADI released from obligations under section 23
 
@@ -1838,9 +1836,9 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                      (b)  the employer made the application for the account on behalf of the employee.
 
-             (9)  This section does not apply in relation to the opening of an account if the account is opened after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service.
+             (9)  This section does not apply in relation to the opening of an account if the account is opened after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ in circumstances that amount to the provision of a designated service.
 
-           (10)  This section does not apply in relation to the operation of an account after the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ if:
+           (10)  This section does not apply in relation to the operation of an account after the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ if:
 
                      (a)  the account was opened in circumstances that amount to the provision of a designated service; or
 
@@ -1860,7 +1858,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 ##### <a id="24C"></a>24C  Bullion seller to hold identification record for other parties to bullion transaction
 
-             (1)  A bullion seller must not, before the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_, enter into a bullion transaction unless the seller has an identification record for the other party, or for each other party, to the transaction.
+             (1)  A bullion seller must not, before the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_, enter into a bullion transaction unless the seller has an identification record for the other party, or for each other party, to the transaction.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -1876,7 +1874,7 @@ whether or not the procedure was carried out in connection with the transaction.
 
 ##### <a id="24D"></a>24D  Bullion seller to keep documents
 
-             (1)  If a bullion seller makes or obtains a record of any information in the course of obtaining information identifying a party to a bullion transaction that occurred before the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_, the seller must retain the record or a copy of it for seven years after the day on which the transaction occurs.
+             (1)  If a bullion seller makes or obtains a record of any information in the course of obtaining information identifying a party to a bullion transaction that occurred before the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_, the seller must retain the record or a copy of it for seven years after the day on which the transaction occurs.
 
              (2)  If any information is part of information identifying a party to 2 or more bullion transactions entered into by the bullion seller, subsection (1) applies as if the reference to the day on which the transaction occurs were a reference to the day on which the last of those transactions occurs.
 
@@ -1942,7 +1940,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  retaining such reports.
 
-          (2A)  For the purpose of monitoring the compliance of a cash dealer who is an approved cash carrier with the record‑keeping obligations referred to in section 8, the officer may inspect:
+          (2A)  For the purpose of monitoring the compliance of a cash dealer who is an approved cash carrier with the record-keeping obligations referred to in section 8, the officer may inspect:
 
                      (a)  records containing reportable details (within the meaning of that section) of significant cash transactions to which the cash dealer is a party that are kept at, or accessible from, the premises; and
 
@@ -2082,7 +2080,7 @@ Note:          If a body corporate is convicted of an offence,
 
              (1)  A person commits an offence against this section if:
 
-                     (a)  the person is a party to 2 or more non‑reportable cash transactions; and
+                     (a)  the person is a party to 2 or more non-reportable cash transactions; and
 
                      (b)  having regard to:
 
@@ -2108,7 +2106,7 @@ Note:          If a body corporate is convicted of an offence,
 
              (2)  A person commits an offence against this section if:
 
-                     (a)  the person conducts 2 or more non‑reportable transfers of currency; and
+                     (a)  the person conducts 2 or more non-reportable transfers of currency; and
 
                      (b)  having regard to:
 
@@ -2172,7 +2170,7 @@ the court may grant an injunction in such terms as the court determines to be ap
 
 ##### <a id="33"></a>33  Questioning and search powers
 
-             (1)  Any person who is about to leave Australia before the commencement of Division 1 of Part 4 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ shall, if requested to do so by an officer:
+             (1)  Any person who is about to leave Australia before the commencement of Division 1 of Part 4 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ shall, if requested to do so by an officer:
 
                      (a)  declare whether or not the person has with him or her any Australian currency or foreign currency;
 
@@ -2182,7 +2180,7 @@ the court may grant an injunction in such terms as the court determines to be ap
 
                      (d)  produce to the officer any Australian currency or foreign currency that the person has with him or her.
 
-             (2)  Any person who arrives in Australia before the commencement of Division 1 of Part 4 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_ shall, if requested to do so by an officer:
+             (2)  Any person who arrives in Australia before the commencement of Division 1 of Part 4 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ shall, if requested to do so by an officer:
 
                      (a)  declare whether or not the person has with him or her any Australian currency or foreign currency;
 
@@ -2246,7 +2244,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
              (1)  Where an officer has reasonable grounds to believe that a person is guilty of an offence against section 15, the officer may arrest the person without warrant.
 
-             (2)  Where an officer has reasonable grounds to believe that a person has assaulted any officer in the execution of that officer’s duties, the first‑mentioned officer may arrest the person without warrant.
+             (2)  Where an officer has reasonable grounds to believe that a person has assaulted any officer in the execution of that officer’s duties, the first-mentioned officer may arrest the person without warrant.
 
              (3)  A person must not resist, obstruct or prevent the arrest of any person under this section.
 
@@ -2278,9 +2276,9 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the bo
 
                      (a)  by a servant or agent of the person within the scope of his or her actual or apparent authority; or
 
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first‑mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
 
-shall be deemed, for the purposes of this Act, to have been engaged in by the first‑mentioned person unless the first‑mentioned person establishes that that person took reasonable precautions and exercised due diligence to avoid the conduct.
+shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person unless the first-mentioned person establishes that that person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the reasons for the intention, opinion, belief or purpose.
 
@@ -2338,19 +2336,19 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
                      (b)  a safety deposit box.
 
-                    <a name="financi-transact-docum"></a>**_financial transaction document_**, in relation to a financial institution, means any document that relates to a financial transaction carried out, before the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_, by the institution in its capacity as a financial institution and, without limiting the generality of this, includes a document relating to:
+                    <a name="financi-transact-docum"></a>**_financial transaction document_**, in relation to a financial institution, means any document that relates to a financial transaction carried out, before the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_, by the institution in its capacity as a financial institution and, without limiting the generality of this, includes a document relating to:
 
                      (a)  the opening, operating or closing of an account held with the institution; and
 
                      (b)  the opening or use of a safety deposit box held with the institution.
 
-##### <a id="40D"></a>40D  Meaning of _customer‑generated financial transaction document_
+##### <a id="40D"></a>40D  Meaning of _customer-generated financial transaction document_
 
                    In this Part:
 
-                    <a name="custom-gener-financi-transact-docum"></a>**_customer‑generated financial transaction document_**, in relation to a financial institution, means a financial transaction document of the institution:
+                    <a name="custom-gener-financi-transact-docum"></a>**_customer-generated financial transaction document_**, in relation to a financial institution, means a financial transaction document of the institution:
 
-                     (a)  that relates to one or more of the following financial transactions carried out before the commencement of Division 1 of Part 2 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_:
+                     (a)  that relates to one or more of the following financial transactions carried out before the commencement of Division 1 of Part 2 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_:
 
                               (i)  the opening or closing by a person of an account with the institution;
 
@@ -2378,11 +2376,11 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 ### Division 2—Retaining financial transaction documents
 
-##### <a id="40F"></a>40F  Customer‑generated financial transaction documents not relating to operation of accounts
+##### <a id="40F"></a>40F  Customer-generated financial transaction documents not relating to operation of accounts
 
              (1)  A financial institution is guilty of an offence if:
 
-                     (a)  it does not retain, for the minimum retention period, the original of a customer‑generated financial transaction document; and
+                     (a)  it does not retain, for the minimum retention period, the original of a customer-generated financial transaction document; and
 
                      (b)  the document does not relate to the operation of an account held with the institution; and
 
@@ -2422,11 +2420,11 @@ Note 1:       For **_strict liability_**, see section 6.1 of the _
 
 Note 2:       This section does not apply to documents relating to certain transferred accounts (see sections 40L and 40P).
 
-##### <a id="40H"></a>40H  Customer‑generated financial transaction documents relating to operation of accounts
+##### <a id="40H"></a>40H  Customer-generated financial transaction documents relating to operation of accounts
 
              (1)  A financial institution is guilty of an offence if:
 
-                     (a)  it does not retain, for the minimum retention period, either the original or a copy of a customer‑generated financial transaction document; and
+                     (a)  it does not retain, for the minimum retention period, either the original or a copy of a customer-generated financial transaction document; and
 
                      (b)  the document relates to the operation of an account held with the institution; and
 
@@ -2452,7 +2450,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  A financial institution is guilty of an offence if:
 
-                     (a)  it does not retain, for the minimum retention period, either the original or a copy of a financial transaction document that is not a customer‑generated financial transaction document; and
+                     (a)  it does not retain, for the minimum retention period, either the original or a copy of a financial transaction document that is not a customer-generated financial transaction document; and
 
                      (b)  retaining the document is necessary to preserve a record of the transactions concerned; and
 
@@ -2488,19 +2486,19 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                              (ii)  an arrangement between the transferor ADI and the transferee ADI; and
 
-                     (c)  the transferor ADI intentionally fails to give the relevant document to the transferee ADI within the 120‑day period beginning 30 days before the transfer of the account.
+                     (c)  the transferor ADI intentionally fails to give the relevant document to the transferee ADI within the 120-day period beginning 30 days before the transfer of the account.
 
                     Penalty:  10 penalty units.
 
 ##### <a id="40L"></a>40L  Compliant transferor ADIs released from retention obligations
 
-                   Sections 40F to 40J do not apply to the transferor ADI, in relation to the document, if it gave the original and all copies of the document to the transferee ADI within the 120‑day period beginning 30 days before the transfer of the account.
+                   Sections 40F to 40J do not apply to the transferor ADI, in relation to the document, if it gave the original and all copies of the document to the transferee ADI within the 120-day period beginning 30 days before the transfer of the account.
 
 Note:          A defendant bears an evidential burden in relation to the defence in this section (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="40M"></a>40M  Retention obligations of transferee ADIs
 
-                   If the transferee ADI is given the original and all copies of the document within the 120‑day period beginning 30 days before the transfer of the account, this Part applies to the transferee ADI in relation to the document as follows:
+                   If the transferee ADI is given the original and all copies of the document within the 120-day period beginning 30 days before the transfer of the account, this Part applies to the transferee ADI in relation to the document as follows:
 
                      (a)  if the document was covered by paragraphs 40F(1)(a) to (d)—as if the document were covered by those paragraphs in relation to the transferee ADI;
 
@@ -2518,23 +2516,23 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the transferor ADI has given another document (the **_first document_**) relating to the same account to the transferee ADI in accordance with section 40K; and
 
-Note:       Paragraph 40K(1)(c) requires the document to have been given during a 120‑day period.
+Note:       Paragraph 40K(1)(c) requires the document to have been given during a 120-day period.
 
                      (b)  the second document is in the transferor ADI’s possession in fulfilment of an obligation imposed on it by section 40F, subsection 40G(1) or section 40H or 40J; and
 
                      (c)  the second document relates to a closed account; and
 
-                     (d)  the transferor ADI and the transferee ADI agree in writing that the second document should be given by the transferor ADI to the transferee ADI within the 120‑day period relating to the giving of the first document.
+                     (d)  the transferor ADI and the transferee ADI agree in writing that the second document should be given by the transferor ADI to the transferee ADI within the 120-day period relating to the giving of the first document.
 
 ##### <a id="40P"></a>40P  Compliant transferor ADIs released from retention obligations
 
-                   Sections 40F to 40J do not apply to the transferor ADI, in relation to the second document, if it gave the original or a copy of that document to the transferee ADI within the 120‑day period relating to the giving of the first document.
+                   Sections 40F to 40J do not apply to the transferor ADI, in relation to the second document, if it gave the original or a copy of that document to the transferee ADI within the 120-day period relating to the giving of the first document.
 
 Note:          A defendant bears an evidential burden in relation to the defence in this section (see subsection 13.3(3) of the _Criminal Code_).
 
 ##### <a id="40Q"></a>40Q  Retention obligations of transferee ADIs
 
-                   If the transferee ADI is given the original or a copy of the second document within the 120‑day period relating to the giving of the first document, this Part applies to the transferee ADI in relation to the second document as follows:
+                   If the transferee ADI is given the original or a copy of the second document within the 120-day period relating to the giving of the first document, this Part applies to the transferee ADI in relation to the second document as follows:
 
                      (a)  if the second document was covered by paragraphs 40F(1)(a) to (d)—as if the second document were covered by those paragraphs in relation to the transferee ADI;
 
@@ -2570,24 +2568,6 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    Nothing in this Act limits any power that the Commissioner has, under any other law, to obtain information.
 
-##### <a id="41A"></a>41A  Exemptions by the AUSTRAC CEO
-
-             (1)  The AUSTRAC CEO may, by written instrument, exempt a specified person from one or more specified provisions of this Act.
-
-Note:          For specification by class, see the _Acts Interpretation Act 1901_.
-
-             (2)  An exemption may apply:
-
-                     (a)  unconditionally; or
-
-                     (b)  subject to specified conditions.
-
-             (3)  A person to whom a condition specified in an exemption applies must comply with the condition.
-
-             (4)  A copy of an exemption must be made available on AUSTRAC’s website.
-
-             (5)  An instrument under subsection (1) is not a legislative instrument.
-
 ##### <a id="42"></a>42  _Administrative Decisions (Judicial Review) Act 1977_ not to apply to decisions under this Act
 
                    The _Administrative Decisions (Judicial Review) Act 1977_ does not apply to decisions under this Act, other than a decision by the AUSTRAC CEO under subsection 17B(4) or 19(2) or (3).
@@ -2602,7 +2582,7 @@ Note:          For specification by class, see the _Acts Inter
 
 ##### <a id="43"></a>43  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3925,7 +3905,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Terrorism Act (No. 2) 2005</div>
+    <div>Anti-Terrorism Act (No. 2) 2005</div>
   </td>
   <td>
     <div>144, 2005</div>
@@ -3963,7 +3943,7 @@ S. 2(1) (items 8, 10, 11, 13–19) (am. by 170, 2006, Sch. 1 \[items
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -4032,7 +4012,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -4049,7 +4029,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -4087,7 +4067,7 @@ Schedule 1 (items 58, 79, 90–92, 113, 120, 122, 124, 129, 130,
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007</div>
   </td>
   <td>
     <div>52, 2007</div>
@@ -4139,7 +4119,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007</div>
   </td>
   <td>
     <div>52, 2007</div>
@@ -4222,23 +4202,6 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
   </td>
   <td>
     <div>Sch. 3 (items 44, 45) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Combating the Financing of People Smuggling and Other Measures Act 2011</div>
-  </td>
-  <td>
-    <div>60, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -4378,7 +4341,7 @@ _(j)_      The _Financial Transaction Reports Act 1988_ was amended by
 
                       (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
 _(k)_     The _Financial Transaction Reports Act 1988_ was amended by Schedule 1 (items 1 and 2) only of the _Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
@@ -4428,7 +4391,7 @@ _(s)_ The _Financial Transaction Reports Act 1988_ was amended by Schedule 6 o
 
                  (5)   The remainder of this Act commences on the 28th day after the day on which it receives the Royal Assent.
 
-_(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the _Anti‑Terrorism Act (No. 2) 2005_ provides as follows:
+_(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the _Anti-Terrorism Act (No. 2) 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4477,7 +4440,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4500,7 +4463,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4523,7 +4486,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4546,7 +4509,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4569,7 +4532,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4592,7 +4555,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4615,7 +4578,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4638,7 +4601,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4661,7 +4624,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4684,7 +4647,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4703,7 +4666,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
   </td>
   <td>
@@ -4713,7 +4676,7 @@ _(t)_      Subsection 2(1) (items 8, 10, 11, 13–19 and 24) of the 
   </td>
 </tr></table>
 
-_(ta)_    Subsection 2(1) (item 3) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
+_(ta)_    Subsection 2(1) (item 3) of the _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4758,7 +4721,7 @@ _(ta)_    Subsection 2(1) (item 3) of the _Anti‑Money Laundering and C
   <td>
     <div>
       Immediately after the commencement of section 2 of the
-        <i>Anti‑Terrorism Act (No. 2) 2005</i>.
+        <i>Anti-Terrorism Act (No. 2) 2005</i>.
     </div>
   </td>
   <td>
@@ -4813,11 +4776,11 @@ _(u)_     Subsection 2(1) (item 2) of the _Financial Transaction Repor
   <td>
     <div>
       Immediately after the commencement of item 10 of Schedule 9 to the
-        <i>Anti‑Terrorism Act (No. 2) 2005</i>.
+        <i>Anti-Terrorism Act (No. 2) 2005</i>.
     </div>
     <div>
       However, if section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences
         before 14 December 2006, the provision(s) do not commence at all.
     </div>
   </td>
@@ -4828,7 +4791,7 @@ _(u)_     Subsection 2(1) (item 2) of the _Financial Transaction Repor
   </td>
 </tr></table>
 
-_(ua)_   Subsection 2(1) (item 21) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
+_(ua)_   Subsection 2(1) (item 21) of the _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4883,7 +4846,7 @@ _(ua)_   Subsection 2(1) (item 21) of the _Anti‑Money Laundering and Cou
   </td>
 </tr></table>
 
-_(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
+_(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4928,7 +4891,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -4950,7 +4913,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -4972,7 +4935,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -4994,7 +4957,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -5016,7 +4979,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -5038,7 +5001,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -5060,7 +5023,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -5082,7 +5045,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   <td>
     <div>
       At the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences.
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences.
     </div>
     <div>
       However, if that section commences before 14 December 2006, the provision(s)
@@ -5096,7 +5059,7 @@ _(v)_     Subsection 2(1) (items 5, 7, 9, 11, 13, 15, 17, 19) of the _
   </td>
 </tr></table>
 
-_(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007_ provides as follows:
+_(w)_    Subsection 2(1) (item 6A) of the _Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -5141,7 +5104,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and C
   <td>
     <div>
       Immediately after the commencement of item 56 of Schedule 1 to the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions
+        <i>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions
           and Consequential Amendments) Act 2006</i>.
     </div>
   </td>
@@ -6521,14 +6484,6 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and C
 </tr>
 <tr>
   <td>
-    <div>S. 41A</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 42</div>
   </td>
   <td>
@@ -6716,7 +6671,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
 ## 23  Power to make regulations
 
-The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
 * * *
 
@@ -6738,11 +6693,11 @@ _Suppression of the Financing of Terrorism Act 2002 (No. 66, 2002)_
 
 For the purposes of subsection 27(1B) of the _Financial Transaction Reports Act 1988_ as amended by this Schedule, neither of the following is affected by the amendments of that Act by this Schedule:
 
-                     (a)  an authorisation conferred on the Anti‑Corruption Commission of Western Australia by the Director;
+                     (a)  an authorisation conferred on the Anti-Corruption Commission of Western Australia by the Director;
 
                      (b)  an undertaking by that Commission to the Director.
 
-## 21  Application—items 1‑8
+## 21  Application—items 1-8
 
 The amendments made by items 1 to 8 of this Schedule apply to transactions completed on or after the day on which this Schedule commences.
 
@@ -6754,7 +6709,7 @@ _Australian Crime Commission Establishment Act 2002 (No. 125, 2002)_
 
 ## 226  Transitional regulations
 
-(1)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
+(1)       The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
 
 (2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
@@ -6770,9 +6725,9 @@ The amendments of the _Financial Transaction Reports Act 1988_ made by this Sche
 
 * * *
 
-_Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
+_Anti-Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
-##### <a id="4"></a>4  Review of anti‑terrorism laws
+##### <a id="4"></a>4  Review of anti-terrorism laws
 
              (1)  The Council of Australian Governments agreed on 27 September 2005 that the Council would, after 5 years, review the operation of:
 
@@ -6780,11 +6735,11 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
                      (b)  certain State laws.
 
-             (2)  If a copy of the report in relation to the review is given to the Attorney‑General, the Attorney‑General must cause a copy of the report to be laid before each House of Parliament within 15 sitting days after the Attorney‑General receives the copy of the report.
+             (2)  If a copy of the report in relation to the review is given to the Attorney-General, the Attorney-General must cause a copy of the report to be laid before each House of Parliament within 15 sitting days after the Attorney-General receives the copy of the report.
 
 * * *
 
-## _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_(No. 170, 2006)
+## _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_(No. 170, 2006)
 
 ## 159  Instrument of appointment—AUSTRAC CEO
 
@@ -6796,7 +6751,7 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 (2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
 
-                     (a)  it had been made under subsection 214(1) of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  it had been made under subsection 214(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
@@ -6810,9 +6765,9 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
                      (b)  was made under subsection 36(2) of the _Financial Transaction Reports Act 1988_.
 
-(2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument (to the extent to which it deals with matters not covered by the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_) has effect, after the commencement of this item, as if:
+(2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument (to the extent to which it deals with matters not covered by the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_) has effect, after the commencement of this item, as if:
 
-                     (a)  it had been made under section 220 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  it had been made under section 220 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
@@ -6828,7 +6783,7 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 (2)       The instrument has effect, after the commencement of this item, as if:
 
-                     (a)  it had been made under subsection 221(1) of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  it had been made under subsection 221(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
@@ -6844,7 +6799,7 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 (2)       If the person who held office as Director of AUSTRAC immediately before the commencement of this item remains in office as the AUSTRAC CEO after the commencement of this item, the instrument has effect, after the commencement of this item, as if:
 
-                     (a)  it had been made under subsection 216(2) of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  it had been made under subsection 216(2) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
@@ -6860,7 +6815,7 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 (2)       The instrument has effect, after the commencement of this item, as if:
 
-                     (a)  it had been made under subsection 222(1) of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  it had been made under subsection 222(1) of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the instrument to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
@@ -6876,7 +6831,7 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 (2)       The agreement or determination has effect, after the commencement of this item, as if:
 
-                     (a)  it had been made under subsection 225(1) or (2), as the case requires, of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; and
+                     (a)  it had been made under subsection 225(1) or (2), as the case requires, of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; and
 
                      (b)  a reference in the agreement or determination to the Director of AUSTRAC were a reference to the AUSTRAC CEO.
 
@@ -6884,11 +6839,11 @@ _Anti‑Terrorism Act (No. 2) 2005 (No. 144, 2005)_
 
 ## 165  Transitional regulations
 
-The Governor‑General may make regulations prescribing matters of a transitional nature relating to:
+The Governor-General may make regulations prescribing matters of a transitional nature relating to:
 
                      (a)  the amendments made by this Act; or
 
-                     (b)  the enactment of this Act or the Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006.
+                     (b)  the enactment of this Act or the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
 
 * * *
 
