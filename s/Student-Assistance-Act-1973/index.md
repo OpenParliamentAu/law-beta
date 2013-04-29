@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image001.gif)
 
 # Student Assistance Act 1973
 
 **Act No. 155 of 1973 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 6 July 2010
+ taking into account amendments up to Act No. 79 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -70,9 +70,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12KA](#12KA).    Cooling off period for financial supplement contract
 
-[12KB](#12KB).     Person may waive right to cancel contract
+[12KB](#12KB).    Person may waive right to cancel contract
 
 [12L](#12L).        Financial supplement contract exempt from certain laws and taxes
+
+[12M](#12M).      Students (Financial Supplement) Account
+
+[12N](#12N).       How payments of financial supplement are to be made
 
     **Division 4—Payments under financial supplement contract to stop in certain circumstances**
 
@@ -90,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12S](#12S).        What happens if student fails to notify change in circumstances
 
-[12T](#12T).        Payments to stop if student is found never to have been eligible for financial supplement
+[12T](#12T).       Payments to stop if student is found never to have been eligible for financial supplement
 
 [12U](#12U).       What happens if financial supplement was paid because of provision of false or misleading information
 
@@ -104,15 +108,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12Y](#12Y).       Indexation amount
 
-[12Z](#12Z).        Notice to student of amount outstanding in respect of financial supplement
+[12Z](#12Z).       Notice to student of amount outstanding in respect of financial supplement
 
-[12ZA](#12ZA).     Rights of student during contract period to make repayments in respect of financial supplement
+[12ZA](#12ZA).    Rights of student during contract period to make repayments in respect of financial supplement
 
 [12ZB](#12ZB).     What happens at end of contract period
 
 [12ZC](#12ZC).     Notice to student
 
-[12ZD](#12ZD).     Requests for correction of notices
+[12ZD](#12ZD).    Requests for correction of notices
 
     **Division 6—Indebtedness existing after termination date** 
 
@@ -122,9 +126,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12ZF](#12ZF).     FS debt and accumulated FS debt
 
-[12ZG](#12ZG).     Accumulated FS debt discharges earlier debts
+[12ZG](#12ZG).    Accumulated FS debt discharges earlier debts
 
-[12ZH](#12ZH).     Notice and a certificate to Commissioner
+[12ZH](#12ZH).    Notice and a certificate to Commissioner
 
         **Subdivision B—Voluntary discharge of indebtedness**
 
@@ -134,37 +138,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision C—Requirement to discharge indebtedness**
 
-[12ZK](#12ZK).     Compulsory payments in respect of accumulated FS debt
+[12ZK](#12ZK).    Compulsory payments in respect of accumulated FS debt
 
 [12ZL](#12ZL).     Repayment income
 
 [12ZLA](#12ZLA).  Minimum repayment income
 
-[12ZLB](#12ZLB).   Repayable debt for an income year
+[12ZLB](#12ZLB).  Repayable debt for an income year
 
-[12ZLC](#12ZLC).   Amounts payable to the Commonwealth
+[12ZLC](#12ZLC).  Amounts payable to the Commonwealth
 
 [12ZLD](#12ZLD).  Publishing indexed amounts
 
         **Subdivision D—Returns and assessments**
 
-[12ZM](#12ZM).    Assessment
+[12ZM](#12ZM).   Assessment
 
-[12ZN](#12ZN).     Application of tax legislation
+[12ZN](#12ZN).    Application of tax legislation
 
-[12ZNA](#12ZNA).  Charges and administrative penalties for failing to meet obligations
+[12ZNA](#12ZNA). Charges and administrative penalties for failing to meet obligations
 
 [12ZNB](#12ZNB).  Pay as you go (PAYG) withholding
 
 [12ZNC](#12ZNC).  Provisional tax
 
-[12ZND](#12ZND).  Pay as you go (PAYG) instalments
+[12ZND](#12ZND). Pay as you go (PAYG) instalments
 
-[12ZO](#12ZO).     How notices of assessment may be served
+[12ZO](#12ZO).    How notices of assessment may be served
 
 [12ZP](#12ZP).     Power of Commissioner to defer assessment or reduce assessment to nil
 
-[12ZQ](#12ZQ).     Review of decision of Commissioner
+[12ZQ](#12ZQ).    Review of decision of Commissioner
 
         **Subdivision E—Miscellaneous**
 
@@ -174,7 +178,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12ZT](#12ZT).     Indebtedness discharged by death
 
-[12ZU](#12ZU).     Secrecy
+[12ZU](#12ZU).    Secrecy
 
     **Division 7—General**
 
@@ -182,7 +186,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12ZW](#12ZW).    Application of the Bankruptcy Act
 
-[12ZX](#12ZX).     What happens if a decision of Secretary is set aside or varied
+[12ZX](#12ZX).    What happens if a decision of Secretary is set aside or varied
 
 [12ZY](#12ZY).     Notices of assignment
 
@@ -378,13 +382,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Student Assistance Act 1973_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
 ##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
+
+                    <a name="account"></a>**_Account_** means the Students (Financial Supplement) Account continued in existence by section 12M.
 
                     <a name="accumulated-f-debt"></a>**_accumulated FS debt_** has the meaning given by subsection 12ZF(2) or (3).
 
@@ -490,7 +496,7 @@ and includes a bank.
 
                      (b)  subsection 246(3), or any other prescribed provision, of the _Social Security Act 1947_;
 
-                   (ba)  section 1229 or 1229A, or any other prescribed provision, of the _Social Security Act 1991_;
+                    (ba)  section 1229 or 1229A, or any other prescribed provision, of the _Social Security Act 1991_;
 
                      (c)  subsection 205(5), or any other prescribed provision, of the _Veterans’ Entitlements Act 1986_.
 
@@ -612,7 +618,7 @@ Note:          An application under the Student Financial Supp
 
 ##### <a id="5A"></a>5A  Extension of Act
 
-                   This Act extends to the Territory of Christmas Island and to the Territory of Cocos (Keeling) Islands.
+                   This Act extends to the Territory of Christmas   Island and to the Territory of Cocos (Keeling) Islands.
 
 ##### <a id="5B"></a>5B  Secretary to have general administration
 
@@ -880,6 +886,26 @@ the payment is taken not to be a payment of financial supplement if an amount eq
 
              (2)  An application for the payment of financial supplement, a financial supplement contract, or an act or thing done or transaction entered into under such a contract, is not subject to taxation under any law of a State or Territory.
 
+##### <a id="12M"></a>12M  Students (Financial Supplement) Account
+
+             (1)  There is continued in existence the Students (Financial Supplement) Account.
+
+Note:          The Account was established by subsection 5(3) of the _Financial Management Legislation Amendment Act 1999_.
+
+             (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
+
+##### <a id="12N"></a>12N  How payments of financial supplement are to be made
+
+             (1)  A participating corporation that is liable to make a payment in respect of financial supplement to a student under a financial supplement contract must, unless the agreement between the corporation and the Commonwealth under section 12D otherwise provides, make the payment to the Commonwealth as its agent for the purpose of passing on the amount of the payment to the student in accordance with subsection (2).
+
+             (2)  An amount equal to any amount paid by a participating corporation to the Commonwealth under subsection (1) in respect of a student is to be credited to the Account and:
+
+                     (a)  when it is credited to the Account, an amount equal to that amount is to be  paid by the Commonwealth to the student on behalf of the corporation and debited  from the Account; and
+
+                     (b)  the amount so paid to the student is taken to be an amount paid to the student by the corporation in discharge of its liability under the contract to pay that amount to the student.
+
+             (3)  If, after an amount paid by a participating corporation to the Commonwealth in respect of a student under subsection (1) is credited to the Account, it is found, for any reason, not to be possible to pass on the amount to the student under paragraph (2)(a), an amount equal to the first-mentioned amount is to be paid as soon as practicable by the Commonwealth  to the corporation and debited from the Account.
+
 ### Division 4—Payments under financial supplement contract to stop in certain circumstances
 
 ##### <a id="12P"></a>12P  Explanation of Division
@@ -1068,13 +1094,13 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (b)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image002.gif)
 
                             and
 
                      (c)  no amount is taken to be outstanding under the contract after the notice is given but the student is liable to pay to the Commonwealth the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image003.gif)
 
              (3)  In the formula in paragraph (2)(c):
 
@@ -1094,7 +1120,7 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (c)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract as at the time when the corporation ceased to make payments under the contract or at the end of 4 weeks after the time the notice was given, whichever is the earlier, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image004.gif)
 
                      (d)  the indebtedness of the student to the Commonwealth under the contract as a result of the assignment is discharged by force of this paragraph.
 
@@ -1118,7 +1144,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (1)  Subject to this section, **_the amount outstanding_** under the contract at any time after the contract was entered into and before 1 June in the year next following the year in respect of which the contract was entered into is the amount worked out in relation to the contract, as at that time, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image005.gif)
 
              (2)  In subsection (1):
 
@@ -1132,7 +1158,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="amount-outstanding"></a>**_the amount outstanding_** under the contract is taken to be the amount worked out in relation to the period concerned using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image006.gif)
 
              (4)  For the purposes of the application of the formula in subsection (3) in relation to a time (**_the relevant time_**) within a period of 12 months beginning on 1 June (**_the relevant 12 months_**):
 
@@ -1144,7 +1170,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="index-factor"></a>**_indexation factor_** means the number worked out to 3 decimal places in relation to the relevant 12 months using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image007.gif)
 
                     <a name="later-refer-period"></a>**_later reference period_**means the period of 12 months immediately before the relevant 12 months.
 
@@ -1168,7 +1194,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the amount outstanding under the contract at the relevant time exceeds the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image002.gif)
 
 and the amount of the excess constitutes the indexation amount in relation to the contract at the relevant time.
 
@@ -1196,11 +1222,11 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (7)  If the student makes a repayment in respect of the amount outstanding under the contract that is less than the amount outstanding under the contract, the student is entitled for the purposes of this Part, in respect of the amount outstanding under the contract, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image008.gif)
 
           (7A)  If the student makes a repayment in respect of the amount outstanding under the contract that equals that amount, the student is entitled, for the purposes of this Act, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image009.gif)
 
              (8)  If, apart from this subsection, an amount worked out under subsection (7) or (7A) would be an amount of dollars and cents, the amount is to be rounded to the nearest dollar (rounding 50 cents upwards).
 
@@ -1274,7 +1300,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  If, at the end of the contract period in relation to a financial supplement contract between a participating corporation and another person, there was an amount outstanding under the contract, the person incurs on 1 June immediately following the end of that period a debt (**_FS debt_**) to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image010.gif)
 
 where:
 
@@ -1286,7 +1312,7 @@ where:
 
              (3)  If an FS debt or FS debts of a person that existed on 1 June in a year (**_the later date_**) are, or include, an FS debt or FS debts that existed on 1 June in the immediately preceding year (**_the earlier date_**), the person incurs on the later date an **_accumulated FS debt_** to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image011.gif)
 
 where:
 
@@ -1298,7 +1324,7 @@ where:
 
              (4)  The reference in subsection (3) to the adjusted accumulated FS debt of a person at the earlier date is a reference to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image012.gif)
 
 where:
 
@@ -1320,7 +1346,7 @@ where:
 
              (6)  The factor to be calculated for the purposes of the definition of **_indexation factor_** in subsection (1) or (3) in determining an FS debt or the accumulated FS debt of a person at 1 June in a year (**_the relevant year_**) is the number worked out to 3 decimal places using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image013.gif)
 
              (7)  If an indexation factor calculated in accordance with subsection (6) would end with a number greater than 4 if it were worked out to 4 decimal places, the indexation factor is increased by 0.001.
 
@@ -1846,7 +1872,7 @@ then:
 
                              (ii)  if subparagraph (a)(ii) applies—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image014.gif)
 
              (4)  Any amount paid to the Commonwealth by or under the authority of the person in relation to the recoverable amount is:
 
@@ -2166,7 +2192,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image015.gif)
 
 where:
 
@@ -2184,9 +2210,9 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
                    Assume that the Minister has specified an interest rate of 10%.
 
-Result:        The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
+Result:       The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00849/Html/f4721324-12d9-41ef-b63b-ec19204a9709_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00449/Html/StudntAssistnceA73_WD02_image016.gif)
 
                    As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
@@ -2346,13 +2372,21 @@ Note:          Part 2 of Schedule 11 to the_Social Securit
 
                     (aa)  making provision in relation to the furnishing of information by applicants under the Student Financial Supplement Scheme or by persons who are parties to financial supplement contracts; and
 
-                   (ab)  making provision in relation to the furnishing of information relating to persons whose income or assets are required to be taken into account for the purpose of calculating a benefit under a current special educational assistance scheme; and
+                    (ab)  making provision in relation to the furnishing of information relating to persons whose income or assets are required to be taken into account for the purpose of calculating a benefit under a current special educational assistance scheme; and
 
                     (ac)  making provision in relation to the furnishing of information relating to persons whose income or assets are required to be taken into account for the purpose of determining the eligibility of a person to obtain financial supplement; and
 
                      (b)  making provision for and in relation to the giving of notices and other documents under this Act; and
 
-                     (d)  prescribing penalties, not exceeding a fine of $1,000 or imprisonment for 6 months, or both, for offences against the regulations.
+                     (d)  prescribing penalties, not exceeding a fine of $1,000 or imprisonment for 6 months, or both, for offences against the regulations; and
+
+                      (f)  making provision in relation to:
+
+                              (i)  the times at which; and
+
+                             (ii)  the manner in which;
+
+                            payments are to be made to a person by the Commonwealth in respect of a debiting of the Account.
 
              (2)  Regulations may also be made under this section to prescribe matters in relation to any transitional matters (including prescribing any saving or application provisions) arising out of:
 
@@ -2544,11 +2578,11 @@ Note:          Meaning of **_given_**—sections 28A and 29 
 
 (a)     to a natural person if the notice is: 
 
-·<span style="font:7.0pt " new="">           </span>delivered personally; or 
+·<span style="font:7.0pt " new="">            </span>delivered personally; or 
 
-·<span style="font:7.0pt " new="">           </span>left at the last known address of the person; or 
+·<span style="font:7.0pt " new="">            </span>left at the last known address of the person; or 
 
-·<span style="font:7.0pt " new="">           </span>sent by prepaid post to the last known address of the person; and 
+·<span style="font:7.0pt " new="">            </span>sent by prepaid post to the last known address of the person; and 
 
 (b)     to a body corporate if the notice is left at, or sent by prepaid post to, the head office or a registered office or a principal office of the body corporate.
 
@@ -3288,7 +3322,7 @@ if the record, disclosure or use made of the information by the person is made:
 
                      (d)  for the purposes of this Act (including the purposes of the administration of the ABSTUDY scheme); or
 
-                   (da)  for the purposes of the _Dental Benefits Act 2008_; or
+                    (da)  for the purposes of the _Dental Benefits Act 2008_; or
 
                      (e)  for the purpose for which the information was disclosed to the person under section 354 or 355.
 
@@ -4687,30 +4721,13 @@ Schedule 2 (items 12–25, 27): 1 July 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (items 19–22): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Student Assistance Act 1973_ was amended by Part XXXIX (sections 218–237) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows: 
 
                (12)   The remaining provisions of this Act shall come into operation on the twenty–eighth day after the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Student Assistance Act 1973_ was amended by subsection 151(5) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
+_(b)_    The _Student Assistance Act 1973_ was amended by subsection 151(5) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
@@ -4765,9 +4782,9 @@ _(l)_      The _Student Assistance Act 1973_ was amended by Schedule�
 _(m)_    The _Student Assistance Act 1973_ was amended by Schedule 2 (item 12), Schedule 3 (items 10–13), Schedule 4 (items 2–4), Schedule 5 (items 2, 8–11, 77–119, 129–132 and 135), Schedule 6 (items 7 and 8), Schedule 7 (items 45–64, 73–77), Schedule 8 (items 9, 10 and 27), Schedule 9 (item 4), Schedule 10 (items 36–40), Schedule 12 (items 40–64), Schedule 13, Schedule 17 (items 9–14), Schedule 18 (items 36–38, 44–47, 80–96, 99, 100 and 
  106–109) and Schedule 21 (items 2, 4, 6 and 8) only of the _Social Security Legislation Amendment (Budget and Other Measures) Act 1996_, subsections 2(2)–(7) of which provide as follows: 
 
-                  (2)   Schedules 3, 6 and 19, Parts 1, 2 and 5 of Schedule 5 and Part 1 of Schedule 21 commence on 1 January 1997.
+                  (2)   Schedules 3, 6 and 19, Parts 1, 2 and 5 of Schedule 5 and Part 1 of Schedule 21 commence on 1 January  1997.
 
-                  (3)   Schedules 8, 9, 10, 11, 12 and 17, Parts 3 and 4 of Schedule 5 and Part 2 of Schedule 21 commence on 20 March 1997.
+                  (3)   Schedules 8, 9, 10, 11, 12 and 17, Parts 3 and 4 of Schedule 5 and Part 2 of Schedule 21 commence on 20 March  1997.
 
                   (4)   Schedules 1, 2, 14, 15 and 16 commence on 1 July 1997\. 
 
@@ -4931,7 +4948,7 @@ The amendment history of the _Student Assistance Act 1973_ after renumbering by 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009; No. 148, 2010</div>
+    <div>am. No. 26, 1982; Nos. 72 and 120, 1984; No. 137, 1985; No. 114, 1986; No. 35, 1988; Nos. 76 and 171, 1989; Nos. 70, 95 and 147, 1991; No. 138, 1992; Nos. 68 and 183, 1994; No. 155, 1995; Nos. 6, 29 and 152, 1997; Nos. 40, 45 and 48, 1998; No. 146, 1999; No. 31, 2002; No. 8, 2005; No. 47, 2006; No. 184, 2007; No. 149, 2008; No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5482,14 +5499,6 @@ rep. No. 45, 1998</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12N</div>
   </td>
   <td>
@@ -5502,14 +5511,6 @@ rep. No. 45, 1998</div>
   </td>
   <td>
     <div>am. No. 152, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7251,7 +7252,7 @@ No. 138, 1992 (as am. by No. 43, 1996)</div>
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 137, 1985; No. 35, 1988; No. 95, 1991; No. 138, 1992; No. 183, 1994; No. 152, 1997; No. 45, 1998; No. 8, 2005; No. 148, 2010</div>
+    <div>am. No. 72, 1984; No. 137, 1985; No. 35, 1988; No. 95, 1991; No. 138, 1992; No. 183, 1994; No. 152, 1997; No. 45, 1998; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12698,7 +12699,7 @@ Certain provisions of the _Student Assistance Act 1973_ as amended were repealed
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part V</div>
+    <div>Heading to Div. 4 of Part V .</div>
   </td>
   <td>
     <div>rep. No. 72, 1984</div>
@@ -12913,7 +12914,7 @@ In this Part, unless the contrary intention appears:
 
 ## 131  Transitional provisions—AUSTUDY payment for period ending on 3 July 1998
 
-(1)       If:
+(1)        If:
 
                      (a)  a payment of a benefit under the AUSTUDY scheme (including an advance payment) was made before the commencement day to a person in respect of a period that ends at the end of 3 July 1998; and
 
@@ -12921,9 +12922,9 @@ In this Part, unless the contrary intention appears:
 
 that payment is taken to have been lawfully made as if the SA Act as in force immediately before the commencement day had continued in force.
 
-(2)       To avoid doubt, subitem (1) does not affect the working out of an amount of student assistance benefit overpayment under Part 6 of the SA Act.
+(2)        To avoid doubt, subitem (1) does not affect the working out of an amount of student assistance benefit overpayment under Part 6 of the SA Act.
 
-(3)       In spite of any provision in any other legislation:
+(3)        In spite of any provision in any other legislation:
 
                      (a)  a person’s receipt of a benefit under the AUSTUDY scheme as referred to in subitem (1), to the extent that it relates to a period beginning on 1 July 1998 and ending at the end of 3 July 1998, is to be disregarded in working out the person’s entitlement to any youth allowance or austudy payment under the _Social Security Act 1991_; and
 
@@ -12931,7 +12932,7 @@ that payment is taken to have been lawfully made as if the SA Act as in force im
 
 ## 132  Transitional provisions—claims and applications
 
-(1)       If:
+(1)        If:
 
                      (a)  a person lodged an application for a benefit under the AUSTUDY scheme under the SA Act as in force before the commencement day; and
 
@@ -12941,7 +12942,7 @@ that payment is taken to have been lawfully made as if the SA Act as in force im
 
 the application has effect, on and after that day, as if the SA Act as in force immediately before that day had continued in force.
 
-(2)       If:
+(2)        If:
 
                      (a)  a person lodges a claim for a youth training allowance under the SA Act on or after the commencement day; and
 
@@ -12949,7 +12950,7 @@ the application has effect, on and after that day, as if the SA Act as in force 
 
 the claim has effect as if it had been made immediately before that day and that Act as in force immediately before that day had continued in force.
 
-(3)       If:
+(3)        If:
 
                      (a)  one of the following circumstances applies:
 
@@ -12961,13 +12962,13 @@ the claim has effect as if it had been made immediately before that day and that
 
 the application has effect as if it had been made immediately before that day and the SA Act as in force immediately before that day had continued in force.
 
-(4)       Nothing in this item permits the granting of a benefit under the AUSTUDY scheme, a youth training allowance or a financial supplement for a period after the commencement day.
+(4)        Nothing in this item permits the granting of a benefit under the AUSTUDY scheme, a youth training allowance or a financial supplement for a period after the commencement day.
 
 _Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
 
 ## 133  Transitional provisions—review of decisions made before commencement day
 
-(1)       Subject to subitem (4), if:
+(1)        Subject to subitem (4), if:
 
                      (a)  an applicable decision might have been reviewed by the Secretary under section 303 of the SA Act before the commencement day; but
 
@@ -12981,7 +12982,7 @@ then, on and after that day:
 
 as if the SA Act as in force immediately before that day had continued in force.
 
-(2)       Subject to subitem (4), if:
+(2)        Subject to subitem (4), if:
 
                      (a)  a person might have applied to the Secretary, the SSAT or the AAT for a review of an applicable decision under Part 9 of the SA Act before the commencement day; but
 
@@ -12995,7 +12996,7 @@ then, on and after that day:
 
 as if the SA Act as in force immediately before that day had continued in force.
 
-(3)       Subject to subitem (4), if:
+(3)        Subject to subitem (4), if:
 
                      (a)  an application to the Secretary, the SSAT or the AAT for a review of an applicable decision under Part 9 of the SA Act was made before the commencement day; and
 
@@ -13003,11 +13004,11 @@ as if the SA Act as in force immediately before that day had continued in force.
 
 then, on and after that day, the application and any review (including any further review) resulting from that application have effect as if the SA Act as in force immediately before that day had continued in force.
 
-(4)       The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), (2) or (3), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme, a youth training allowance or Financial Supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
+(4)        The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), (2) or (3), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme, a youth training allowance or Financial Supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
 
 _Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
 
-(5)       For the purposes of this item, if an applicable decision was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in this item to an applicable decision includes a reference to:
+(5)        For the purposes of this item, if an applicable decision was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in this item to an applicable decision includes a reference to:
 
                      (a)  if a decision has been affirmed in connection with that review or further review—the decision as affirmed; or
 
@@ -13017,7 +13018,7 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
 ## 134  Transitional provisions—review of decisions made on or after commencement day
 
-(1)       Subject to subitem (2), if:
+(1)        Subject to subitem (2), if:
 
                      (a)  on or after the commencement day an officer made a decision in relation to the AUSTUDY scheme, or in relation to the Student Financial Supplement Scheme in connection with the AUSTUDY scheme, under:
 
@@ -13029,11 +13030,11 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
 the person has that right as if the SA Act as in force immediately before the commencement day had continued in force.
 
-(2)       The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme or the payment of a financial supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
+(2)        The Secretary, an authorised review officer, the SSAT or the AAT, when determining a review because of the operation of subitem (1), may make a decision in relation to the payment of a benefit under the AUSTUDY scheme or the payment of a financial supplement only to the extent that the payment is in respect of a period that ends before the commencement day.
 
 _Note:       Section 56 of the SA Act is amended by this Schedule to enable regulations to be made to modify provisions in this Part of the Schedule so as to allow payments of AUSTUDY benefit to be made to a person for a period ending on 3 July 1998 in specified circumstances._
 
-(3)       For the purposes of this item, if a decision referred to in paragraph (1)(a) was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in subitem (1) to that decision includes a reference to:
+(3)        For the purposes of this item, if a decision referred to in paragraph (1)(a) was the original decision that has been the subject of a review, or further review, by the Secretary, an authorised review officer, the SSAT or the AAT in accordance with the SA Act, a reference in subitem (1) to that decision includes a reference to:
 
                      (a)  if a decision has been affirmed in connection with that review or further review—the decision as affirmed; or
 
@@ -13043,7 +13044,7 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
 ## 135  Transitional provisions—obligations to waive the right to recover amounts
 
-(1)       In this item:
+(1)        In this item:
 
                     <a name="applied-provision"></a>**_applied provisions_** means the provisions applied by subsection 43(2) of the SA Act as in force before the commencement day.
 
@@ -13061,7 +13062,7 @@ _Note:       Section 56 of the SA Act is amended by this Schedule 
 
                      (b)  the Secretary to the Department of Social Security.
 
-(2)       If a Secretary was, immediately before the commencement day, obliged to waive the right to recover a recoverable amount under the applied provisions, then, on and after the commencement day, the Secretary to the Department of Employment, Education, Training and Youth Affairs is taken to be obliged to waive that right as if:
+(2)        If a Secretary was, immediately before the commencement day, obliged to waive the right to recover a recoverable amount under the applied provisions, then, on and after the commencement day, the Secretary to the Department of Employment, Education, Training and Youth Affairs is taken to be obliged to waive that right as if:
 
                      (a)  in the case of an obligation under subsection 290B(1) of the applied provisions, the obligation were an obligation under subsection 43E(1) of the SA Act; and
 
@@ -13079,7 +13080,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -13089,7 +13090,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -13121,11 +13122,11 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -13147,7 +13148,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -13161,7 +13162,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -13197,9 +13198,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor-General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -13348,7 +13349,7 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 
 ## 102  Application
 
-(1)       The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
+(1)        The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
 
 Table showing new Part, Division and section numbers of the _Student Assistance Act 1973_ after renumbering by the _Student Assistance Amendment Act (No. 2) 1989_ (No. 171, 1989).
 
@@ -13846,7 +13847,7 @@ Table showing new Part, Division and section numbers of the _Student Assistance 
 </tr>
 <tr>
   <td>
-    <div>Part  VA</div>
+    <div>Part   VA</div>
   </td>
   <td>
     <div>Part 6</div>
