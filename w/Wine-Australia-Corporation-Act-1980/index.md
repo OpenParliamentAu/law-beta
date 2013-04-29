@@ -1,542 +1,488 @@
-![Commonwealth Coat of Arms](http://www.comlaw.gov.au/Details/C2013C00135/Html/316c9b7c-3b75-4bd3-bcec-4ba302fd1ade_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00401/Html/447008c5-58cd-4c95-a54e-6a89a300f0a6_files/image001.gif)
 
 # Wine Australia Corporation Act 1980
 
-No. 161, 1980 as amended
+**Act No. 161 of 1980 as amended**
 
-**Compilation start date:**28 March 2013
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 127 of 2011
 
-**Includes amendments up to:**Act No. 17, 2013
+The text of any of those amendments not in force
+ on that date is appended in the Notes section
 
-**About this compilation**
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
 
-**The compiled Act**
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
-This is a compilation of the _Wine Australia Corporation Act 1980_ as amended and in force on 28 March 2013\. It includes any amendment affecting the compiled Act to that date.
-
-This compilation was prepared on 8 April 2013.
-
-The notes at the end of this compilation (the **_endnotes_**) include information about amending Acts and instruments and the amendment history of each amended provision.
-
-**Uncommenced provisions and amendments**
-
-If a provision of the compiled Act is affected by an uncommenced amendment, the text of the uncommenced amendment is set out in the endnotes.
-
-**Application, saving and transitional provisions for amendments**
-
-If the operation of an amendment is affected by an application, saving or transitional provision, the provision is set out in the endnotes.
-
-**Modifications**
-
-If a provision of the compiled Act is affected by a textual modification that is in force, the text of the modifying provision is set out in the endnotes. 
-
-**Provisions ceasing to have effect**
-
-If a provision of the compiled Act has expired or otherwise ceased to have effect in accordance with a provision of the Act, details of the provision are set out in the endnotes.
-
-Contents
+# Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title                                                                                              1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Objects                                                                                                 1
+[3](#3).            Objects
 
-[4](#4).            Interpretation                                                                                        1
+[4](#4).            Interpretation
 
-[4A](#4A).         Extension to external Territories                                                         10
+[4A](#4A).         Extension to external Territories
 
-[4B](#4B).         Application of the _Criminal Code_                                                      10
+[4B](#4B).         Application of the _Criminal Code_
 
-[5A](#5A).         Declared winemakers organisations                                                   10
+[5A](#5A).         Declared winemakers organisations
 
-[5B](#5B).         Declared wine grape growers organisation                                        10
+[5B](#5B).         Declared wine grape growers organisation
 
-[5C](#5C).         Meaning of _description and presentation_                                          10
+[5C](#5C).         Meaning of _description and presentation_
 
-[5D](#5D).         Where wine or grape extract originates                                              11
+[5D](#5D).         Where wine or grape extract originates
 
 **Part II—Wine Australia Corporation**
 
-[6](#6).            Establishment of Corporation                                                             12
+[6](#6).            Establishment of Corporation
 
-[7](#7).            Functions of Corporation                                                                   12
+[7](#7).            Functions of Corporation
 
-[8](#8).            Powers of Corporation                                                                       12
+[8](#8).            Powers of Corporation
 
-[10](#10).          Power to enter into arrangements etc                                                  16
+[10](#10).          Power to enter into arrangements etc 
 
-[11](#11).          Committees                                                                                        16
+[11](#11).          Committees
 
 **Part III—Constitution and meetings of the Corporation**
 
-[12](#12).          Nature of Corporation                                                                        17
+[12](#12).          Nature of Corporation
 
-[13](#13).          Membership of Corporation                                                               17
+[13](#13).          Membership of Corporation
 
-[14](#14).          Term of office of members                                                                 18
+[14](#14).          Term of office of members
 
-[15](#15).          Deputy Chairperson                                                                           18
+[15](#15).          Deputy Chairperson
 
-[16](#16).          Leave of absence                                                                                19
+[16](#16).          Leave of absence
 
-[17](#17).          Resignation of members                                                                     19
+[17](#17).          Resignation of members
 
-[20](#20).          Termination of appointments                                                              19
+[20](#20).          Termination of appointments
 
-[21](#21).          Disclosure of interests by members of Corporation                           20
+[21](#21).          Disclosure of interests by members of Corporation
 
-[22](#22).          Meetings of Corporation                                                                    20
+[22](#22).          Meetings of Corporation
 
 **Part IVA—Wine Australia Corporation Selection Committee**
 
-[29AA](#29AA).    Interpretation                                                                                      22
+[29AA](#29AA).    Interpretation
 
-[29A](#29A).       Establishment of Committee                                                               22
+[29A](#29A).       Establishment of Committee
 
-[29B](#29B).       Functions of Committee                                                                     22
+[29B](#29B).       Functions of Committee
 
-[29C](#29C).       Powers of Committee                                                                         22
+[29C](#29C).       Powers of Committee
 
-[29D](#29D).       Minister may request nominations                                                     22
+[29D](#29D).       Minister may request nominations
 
-[29E](#29E).        Selection of persons by Committee                                                    23
+[29E](#29E).        Selection of persons by Committee
 
-[29F](#29F).        Nomination                                                                                        23
+[29F](#29F).        Nomination
 
-[29G](#29G).       Minister may reject nominations                                                        24
+[29G](#29G).       Minister may reject nominations
 
-[29H](#29H).       Membership of Committee                                                                 24
+[29H](#29H).       Membership of Committee
 
-[29J](#29J).        Acting Presiding Member                                                                  25
+[29J](#29J).        Acting Presiding Member
 
-[29K](#29K).       Casual vacancy                                                                                   25
+[29K](#29K).       Casual vacancy
 
-[29L](#29L).        Remuneration and allowances of members of Committee                  25
+[29L](#29L).        Remuneration and allowances of members of Committee
 
-[29M](#29M).      Leave of absence                                                                                25
+[29M](#29M).      Leave of absence
 
-[29N](#29N).       Resignation                                                                                        26
+[29N](#29N).       Resignation
 
-[29P](#29P).        Termination of appointment of members of Committee                     26
+[29P](#29P).        Termination of appointment of members of Committee
 
-[29Q](#29Q).       Disclosure of interests by members of Committee                             26
+[29Q](#29Q).       Disclosure of interests by members of Committee
 
-[29R](#29R).       Meetings of Committee                                                                      27
+[29R](#29R).       Meetings of Committee
 
-[29S](#29S).        Resolutions without meetings                                                            28
+[29S](#29S).        Resolutions without meetings
 
-[29T](#29T).        Staff and consultants                                                                          28
+[29T](#29T).        Staff and consultants
 
-[29TA](#29TA).     Annual report                                                                                     28
+[29TA](#29TA).     Annual report
 
 **Part IVB—Annual general meeting of the industry**
 
-[29U](#29U).       Interpretation                                                                                      30
+[29U](#29U).       Interpretation
 
-[29V](#29V).       List of producers                                                                                30
+[29V](#29V).       List of producers
 
-[29W](#29W).      Corporation to convene annual general meeting                                 31
+[29W](#29W).      Corporation to convene annual general meeting
 
-[29X](#29X).       Purpose of annual general meeting                                                     31
+[29X](#29X).       Purpose of annual general meeting
 
-[29Y](#29Y).       Conduct of annual general meeting                                                    32
+[29Y](#29Y).       Conduct of annual general meeting
 
-[29ZA](#29ZA).     Minister to be notified of resolutions                                                 32
+[29ZA](#29ZA).     Minister to be notified of resolutions
 
 **Part V—Staff**
 
-[30](#30).          Employees                                                                                          33
+[30](#30).          Employees
 
 **Part VA—Operation of Corporation** 
 
     **Division 1—Corporate plans**
 
-[31](#31).          Corporation to develop corporate plans                                              34
+[31](#31).          Corporation to develop corporate plans
 
-[31A](#31A).       Agreement to corporate plans                                                             34
+[31A](#31A).       Agreement to corporate plans
 
-[31B](#31B).       Variation of corporate plans by Corporation                                      35
+[31B](#31B).       Variation of corporate plans by Corporation
 
-[31C](#31C).       Variations of corporate plans at request of Minister                           36
+[31C](#31C).       Variations of corporate plans at request of Minister
 
-[31D](#31D).       Date of effect of variations                                                                 36
+[31D](#31D).       Date of effect of variations
 
-[31E](#31E).        Notice of variation of corporate plans                                                36
+[31E](#31E).        Notice of variation of corporate plans
 
     **Division 2—Annual operational plans**
 
-[31F](#31F).        Corporation to develop annual operational plans                                37
+[31F](#31F).        Corporation to develop annual operational plans
 
-[31G](#31G).       Agreement to annual operational plans                                               37
+[31G](#31G).       Agreement to annual operational plans
 
-[31H](#31H).       Variation of annual operational plans                                                 38
+[31H](#31H).       Variation of annual operational plans
 
-[31J](#31J).        Notice of variation of annual operational plan                                    38
+[31J](#31J).        Notice of variation of annual operational plan
 
     **Division 3—Directions**
 
-[31K](#31K).       Directions to Corporation and Geographical Indications Committee  39
+[31K](#31K).       Directions to Corporation and Geographical Indications Committee
 
 **Part VI—Finance**
 
-[31L](#31L).        Corporation’s component of wine grapes levy                                   41
+[31L](#31L).        Corporation’s component of wine grapes levy
 
-[32](#32).          Payments to Corporation                                                                    41
+[32](#32).          Payments to Corporation
 
-[33](#33).          Payments by Corporation to Commonwealth                                     42
+[33](#33).          Payments by Corporation to Commonwealth
 
-[34](#34).          Borrowing                                                                                          43
+[34](#34).          Borrowing
 
-[34A](#34A).       Corporation may give security                                                           44
+[34A](#34A).       Corporation may give security
 
-[34B](#34B).       Borrowings not otherwise permitted                                                  44
+[34B](#34B).       Borrowings not otherwise permitted
 
-[35](#35).          Application of money of Corporation                                                44
+[35](#35).          Application of money of Corporation
 
-[38](#38).          Extra matters to be included in annual report                                      45
+[38](#38).          Extra matters to be included in annual report
 
-[39](#39).          Liability to taxation                                                                             45
+[39](#39).          Liability to taxation
 
 **Part VIA—Label integrity program** 
 
     **Division 1—Preliminary**
 
-[39A](#39A).       Object of Part                                                                                     46
+[39A](#39A).       Object of Part
 
-[39B](#39B).       Operation of Part                                                                                46
+[39B](#39B).       Operation of Part
 
-[39C](#39C).       Persons to whom this Part applies                                                     47
+[39C](#39C).       Persons to whom this Part applies
 
     **Division 2—Records relating to label claims**
 
-[39F](#39F).        Obligation to keep records                                                                 48
+[39F](#39F).        Obligation to keep records
 
-[39G](#39G).       When certain details are not required to be kept                                 49
+[39G](#39G).       When certain details are not required to be kept
 
-[39H](#39H).       Details required under section 39F                                                     50
+[39H](#39H).       Details required under section 39F
 
-[39J](#39J).        Offences relating to record‑keeping requirements                              51
+[39J](#39J).        Offences relating to record‑keeping requirements
 
-[39K](#39K).       Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods    52
+[39K](#39K).       Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods
 
-[39L](#39L).        Time for bringing prosecutions                                                          53
+[39L](#39L).        Time for bringing prosecutions
 
-[39M](#39M).      Single wines and blends etc                                                               53
+[39M](#39M).      Single wines and blends etc 
 
-[39ZAA](#39ZAA).  Corporation may require records                                                        54
+[39ZAA](#39ZAA).  Corporation may require records
 
-[39ZAB](#39ZAB).  Failure to comply with section 39ZAA notice                                    54
+[39ZAB](#39ZAB).  Failure to comply with section 39ZAA notice
 
-[39ZAC](#39ZAC).  Corporation may retain records                                                          54
+[39ZAC](#39ZAC).  Corporation may retain records
 
     **Division 3—Inspection**
 
-[39ZA](#39ZA).     Appointment of inspectors                                                                 56
+[39ZA](#39ZA).     Appointment of inspectors
 
-[39ZB](#39ZB).     Identity cards                                                                                      56
+[39ZB](#39ZB).     Identity cards
 
-[39ZC](#39ZC).     Monitoring powers of inspectors—exercised with consent               57
+[39ZC](#39ZC).     Monitoring powers of inspectors—exercised with consent
 
-[39ZD](#39ZD).     Monitoring warrants                                                                          57
+[39ZD](#39ZD).     Monitoring warrants
 
-[39ZE](#39ZE).     Offence powers of inspectors—exercised with consent                     58
+[39ZE](#39ZE).     Offence powers of inspectors—exercised with consent
 
-[39ZF](#39ZF).     Offence related warrants                                                                    58
+[39ZF](#39ZF).     Offence related warrants
 
-[39ZG](#39ZG).     Discovery of evidence                                                                        59
+[39ZG](#39ZG).     Discovery of evidence
 
-[39ZH](#39ZH).     Power to require persons to answer questions and produce documents 60
+[39ZH](#39ZH).     Power to require persons to answer questions and produce documents
 
-[39ZI](#39ZI).      Search warrants by telephone and other electronic means                  61
+[39ZI](#39ZI).      Search warrants by telephone and other electronic means
 
-[39ZIA](#39ZIA).   Offences relating to warrants by telephone and other electronic means 63
+[39ZIA](#39ZIA).   Offences relating to warrants by telephone and other electronic means
 
     **Division 4—Use of records and results of inspection**
 
-[39ZJ](#39ZJ).      Corporation to assist enforcement of laws on description of wine     65
+[39ZJ](#39ZJ).      Corporation to assist enforcement of laws on description of wine
 
-[39ZK](#39ZK).     Proceedings not to lie against Corporation etc                                    65
+[39ZK](#39ZK).     Proceedings not to lie against Corporation etc 
 
-[39ZL](#39ZL).     Corporation may assist in relation to levy                                          65
+[39ZL](#39ZL).     Corporation may assist in relation to levy
 
 **Part VIB—Protection of geographical indications and other terms** 
 
     **Division 1—Preliminary**
 
-[40](#40).          Interpretation                                                                                      67
+[40](#40).          Interpretation
 
-[40A](#40A).       Object of Part                                                                                     67
+[40A](#40A).       Object of Part
 
-[40B](#40B).       Additional operation of Part                                                               67
+[40B](#40B).       Additional operation of Part
 
     **Division 2—Provisions relating to sale, export or import of wine** 
 
         **Subdivision A—Sale, export or import of wine with a false description and presentation**
 
-[40C](#40C).       Offence—sale, export or import of wine with a false description and presentation  69
+[40C](#40C).       Offence—sale, export or import of wine with a false description and presentation
 
-[40D](#40D).       False descriptions and presentations                                                  69
+[40D](#40D).       False descriptions and presentations
 
-[40DA](#40DA).    Circumstances in which description and presentation is not false—general             70
+[40DA](#40DA).    Circumstances in which description and presentation is not false—general
 
-[40DB](#40DB).    Circumstances in which description and presentation is not false—inclusion of registered traditional expressions 72
+[40DB](#40DB).    Circumstances in which description and presentation is not false—inclusion of registered traditional expressions
 
         **Subdivision B—Sale, export or import of wine with a misleading description and presentation**
 
-[40E](#40E).        Sale, export or import of wine with a misleading description and presentation        74
+[40E](#40E).        Sale, export or import of wine with a misleading description and presentation
 
-[40F](#40F).        Misleading descriptions and presentations                                         74
+[40F](#40F).        Misleading descriptions and presentations
 
-[40FA](#40FA).     Circumstances in which description and presentation is not misleading—general    77
+[40FA](#40FA).     Circumstances in which description and presentation is not misleading—general
 
-[40FB](#40FB).     Circumstances in which description and presentation is not misleading—inclusion of registered traditional expressions                                                                                                           78
+[40FB](#40FB).     Circumstances in which description and presentation is not misleading—inclusion of registered traditional expressions
 
         **Subdivision C—Other provisions relating to sale, export or import of wine**
 
-[40G](#40G).       Sale, export or import of wine in contravention of registered conditions of use       79
+[40G](#40G).       Sale, export or import of wine in contravention of registered conditions of use
 
-[40J](#40J).        Exception for certain wines                                                                81
+[40J](#40J).        Exception for certain wines
 
-[40K](#40K).       Prosecution of offences                                                                      81
+[40K](#40K).       Prosecution of offences
 
-[40M](#40M).      Application of national food standards to wines imported from foreign countries   82
+[40M](#40M).      Application of national food standards to wines imported from foreign countries
 
     **Division 3—Establishment, function and powers of Geographical Indications Committee**
 
-[40N](#40N).       Establishment of Committee                                                               84
+[40N](#40N).       Establishment of Committee
 
-[40P](#40P).        Function and powers of Committee                                                   84
+[40P](#40P).        Function and powers of Committee
 
     **Division 4—Australian geographical indications** 
 
         **Subdivision A—What this Division is about**
 
-[40PA](#40PA).     What this Division is about                                                                85
+[40PA](#40PA).     What this Division is about
 
         **Subdivision B—Powers of Committee to determine geographical indications**
 
-[40Q](#40Q).       Power of Committee to determine geographical indications               85
+[40Q](#40Q).       Power of Committee to determine geographical indications
 
-[40QA](#40QA).    Committee must await decisions under Subdivision D                      85
+[40QA](#40QA).    Committee must await decisions under Subdivision D
 
         **Subdivision C—Applications for determinations of geographical indications**
 
-[40R](#40R).       Applications for determinations                                                         86
+[40R](#40R).       Applications for determinations
 
         **Subdivision D—Objections to determination of geographical indications based on pre‑existing trade mark rights**
 
-[40RA](#40RA).    Notice to be given of proposed geographical indication                     86
+[40RA](#40RA).    Notice to be given of proposed geographical indication
 
-[40RB](#40RB).     Grounds of objection to the determination of a geographical indication 87
+[40RB](#40RB).     Grounds of objection to the determination of a geographical indication
 
-[40RC](#40RC).     Consideration of objections                                                                89
+[40RC](#40RC).     Consideration of objections
 
-[40RD](#40RD).    Notice to be given of decision                                                            90
+[40RD](#40RD).    Notice to be given of decision
 
-[40RE](#40RE).     Decision that ground of objection no longer exists                            91
+[40RE](#40RE).     Decision that ground of objection no longer exists
 
-[40RF](#40RF).     Appeals                                                                                              91
+[40RF](#40RF).     Appeals
 
-[40RG](#40RG).    Decisions made under this Division not to affect rights under Trade Marks Act     92
+[40RG](#40RG).    Decisions made under this Division not to affect rights under Trade Marks Act
 
         **Subdivision E—Determinations of geographical indications**
 
-[40SA](#40SA).     When may a determination be made under this Subdivision?             93
+[40SA](#40SA).     When may a determination be made under this Subdivision?
 
-[40S](#40S).        Consultation by the Committee                                                          94
+[40S](#40S).        Consultation by the Committee
 
-[40T](#40T).        Making of determinations                                                                  94
+[40T](#40T).        Making of determinations
 
-[40U](#40U).       Interim determination                                                                         95
+[40U](#40U).       Interim determination
 
-[40V](#40V).       Publication of notice of interim determination                                    95
+[40V](#40V).       Publication of notice of interim determination
 
-[40W](#40W).      Final determination                                                                             95
+[40W](#40W).      Final determination
 
-[40X](#40X).       Publication of notice of final determination                                        95
+[40X](#40X).       Publication of notice of final determination
 
-[40Y](#40Y).       Review of final determination                                                            96
+[40Y](#40Y).       Review of final determination
 
-[40Z](#40Z).        Date of effect of final determination                                                   97
+[40Z](#40Z).        Date of effect of final determination
 
     **Division 4A—Omission of Australian registered geographical indications** 
 
         **Subdivision A—What this Division is about**
 
-[40ZAA](#40ZAA).  What this Division is about                                                                98
+[40ZAA](#40ZAA).  What this Division is about
 
         **Subdivision B—Omission of Australian GIs for non‑use**
 
-[40ZAB](#40ZAB).  Power of Committee to determine that an Australian GI should be omitted from the Register 98
+[40ZAB](#40ZAB).  Power of Committee to determine that an Australian GI should be omitted from the Register
 
-[40ZAC](#40ZAC).  Application                                                                                         98
+[40ZAC](#40ZAC).  Application
 
-[40ZAD](#40ZAD).  Further information concerning an application                                   99
+[40ZAD](#40ZAD).  Further information concerning an application
 
-[40ZAE](#40ZAE).  Notice by Committee                                                                          99
+[40ZAE](#40ZAE).  Notice by Committee
 
-[40ZAF](#40ZAF).  Determination by Committee                                                              99
+[40ZAF](#40ZAF).  Determination by Committee
 
-[40ZAG](#40ZAG).  Notice of determination                                                                    100
+[40ZAG](#40ZAG).  Notice of determination
 
-[40ZAH](#40ZAH).  AAT review of a determination                                                        101
+[40ZAH](#40ZAH).  AAT review of a determination
 
-[40ZAI](#40ZAI).   Date of effect of determination to omit GI                                        101
+[40ZAI](#40ZAI).   Date of effect of determination to omit GI
 
         **Subdivision C—Omission of Australian GIs because no longer required**
 
-[40ZAJ](#40ZAJ).   Application                                                                                       102
+[40ZAJ](#40ZAJ).   Application
 
-[40ZAK](#40ZAK).  Further information concerning an application                                 102
+[40ZAK](#40ZAK).  Further information concerning an application
 
-[40ZAL](#40ZAL).  Notice by Committee                                                                        103
+[40ZAL](#40ZAL).  Notice by Committee
 
-[40ZAM](#40ZAM). Meaning of interested person                                                           103
+[40ZAM](#40ZAM). Meaning of interested person
 
-[40ZAN](#40ZAN).  Determination by Committee                                                            104
+[40ZAN](#40ZAN).  Determination by Committee
 
-[40ZAO](#40ZAO).  Notice of determination                                                                    104
+[40ZAO](#40ZAO).  Notice of determination
 
-[40ZAP](#40ZAP).  Date of effect of determination to omit Australian GI                      104
+[40ZAP](#40ZAP).  Date of effect of determination to omit Australian GI
 
     **Division 4B—Foreign geographical indications and translations**
 
-[40ZAQ](#40ZAQ).  Determination of foreign geographical indications and translations 105
+[40ZAQ](#40ZAQ).  Determination of foreign geographical indications and translations
 
-[40ZAR](#40ZAR).  Appeals against decisions of Registrar of Trade Marks                   106
+[40ZAR](#40ZAR).  Appeals against decisions of Registrar of Trade Marks
 
-[40ZAS](#40ZAS).  Decisions not to affect rights under Trade Marks Act                      107
+[40ZAS](#40ZAS).  Decisions not to affect rights under Trade Marks Act
 
-[40ZAT](#40ZAT).  Determinations for the omission from the Register of foreign geographical indications and translations 107
+[40ZAT](#40ZAT).  Determinations for the omission from the Register of foreign geographical indications and translations
 
     **Division 5—Register of Protected Geographical Indications and Other Terms**
 
-[40ZA](#40ZA).     Registrar                                                                                           108
+[40ZA](#40ZA).     Registrar
 
-[40ZB](#40ZB).     Functions of Registrar                                                                      108
+[40ZB](#40ZB).     Functions of Registrar
 
-[40ZC](#40ZC).     Register of Protected Geographical Indications and Other Terms    108
+[40ZC](#40ZC).     Register of Protected Geographical Indications and Other Terms
 
-[40ZD](#40ZD).     Contents of Register                                                                         109
+[40ZD](#40ZD).     Contents of Register
 
-[40ZE](#40ZE).     Inspection of Register                                                                      113
+[40ZE](#40ZE).     Inspection of Register
 
     **Division 6—Inspection**
 
-[40ZF](#40ZF).     Inspection powers                                                                            115
+[40ZF](#40ZF).     Inspection powers
 
 **Part VII—Miscellaneous**
 
-[41A](#41A).       Remuneration and allowances of members of Corporation etc         116
+[41A](#41A).       Remuneration and allowances of members of Corporation etc 
 
-[43](#43).          Delegation                                                                                        117
+[43](#43).          Delegation
 
-[44](#44).          Offences in relation to export of grape products                              117
+[44](#44).          Offences in relation to export of grape products
 
-[44AA](#44AA).    Time for bringing prosecutions                                                        118
+[44AA](#44AA).    Time for bringing prosecutions
 
-[44AB](#44AB).    Injunctions                                                                                       118
+[44AB](#44AB).    Injunctions
 
-[44A](#44A).       Conduct by directors, servants or agents                                          119
+[44A](#44A).       Conduct by directors, servants or agents
 
-[45](#45).          Operation of certain laws not restricted                                            121
+[45](#45).          Operation of certain laws not restricted
 
-[46](#46).          Regulations                                                                                      121
+[46](#46).          Regulations
 
 **Part VIII—Repeal of certain Acts and consequent transitional provisions**
 
-[47](#47).          Interpretation                                                                                    124
+[47](#47).          Interpretation
 
-[49](#49).          Rights etc  of Board to vest in Corporation etc                                 124
+[49](#49).          Rights etc  of Board to vest in Corporation etc 
 
-[50](#50).          Instrument etc  not liable to stamp duty etc                                       124
+[50](#50).          Instrument etc  not liable to stamp duty etc 
 
-[51](#51).          Application of moneys of Corporation                                             125
+[51](#51).          Application of moneys of Corporation
 
-[53](#53).          Employees of Board                                                                         125
+[53](#53).          Employees of Board
 
-[54](#54).          Report on operations of Board                                                         125
+[54](#54).          Report on operations of Board
 
-[55](#55).          Regulations                                                                                      126
+[55](#55).          Regulations
 
-Schedule—Administrative provisions relating to the Geographical Indications Committee
+**Schedule—Administrative provisions relating to the Geographical Indications Committee**
 
-[1](#1).            Interpretation                                                                                    127
+[1](#1).            Interpretation
 
-[2](#2).            Membership of Committee                                                               127
+[2](#2).            Membership of Committee
 
-[3](#3).            Acting Presiding Member                                                                128
+[3](#3).            Acting Presiding Member
 
-[4](#4).            Alternate members of the Committee                                               128
+[4](#4).            Alternate members of the Committee
 
-[5](#5).            Term of office                                                                                  129
+[5](#5).            Term of office
 
-[6](#6).            Resignation                                                                                      129
+[6](#6).            Resignation
 
-[7](#7).            Termination of appointment                                                             129
+[7](#7).            Termination of appointment
 
-[8](#8).            Leave of absence                                                                              129
+[8](#8).            Leave of absence
 
-[9](#9).            Disclosure of interests by Committee members                               130
+[9](#9).            Disclosure of interests by Committee members
 
-[10](#10).          Meetings                                                                                          130
+[10](#10).          Meetings
 
-[11](#11).          Staff and consultants                                                                        131
+[11](#11).          Staff and consultants
 
-[12](#12).          Information for inclusion in Corporation’s annual report                 132
+[12](#12).          Information for inclusion in Corporation’s annual report
 
-**Endnotes** 
-
-    **Endnote 1—Legislation history** 
-
-    **Endnote 2—Amendment history** 
-
-    **Endnote 3—Application, saving and transitional provisions**
-
-[Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No](#Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No). 32, 1999)           152
-
-[Agriculture, Fisheries and Forestry Legislation Amendment Act (No](#Agriculture, Fisheries and Forestry Legislation Amendment Act (No). 2) 1999 (No  170, 1999)           152
-
-[Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No](#Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No). 115, 2001)      152
-
-[Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No](#Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No). 159, 2001)            153
-
-[US Free Trade Agreement Implementation Act 2004 (No](#US Free Trade Agreement Implementation Act 2004 (No). 120, 2004)           153
-
-[Australian Wine and Brandy Corporation Amendment Act (No](#Australian Wine and Brandy Corporation Amendment Act (No). 1) 2007 (No  92, 2007)      153
-
-[Australian Wine and Brandy Corporation Amendment Act 2010 (No](#Australian Wine and Brandy Corporation Amendment Act 2010 (No). 98, 2010)   154
-
-[Acts Interpretation Amendment Act 2011 (No](#Acts Interpretation Amendment Act 2011 (No). 46, 2011)                              156
-
-[Financial Framework Legislation Amendment Act (No](#Financial Framework Legislation Amendment Act (No). 1) 2011 (No  89, 2011) 156
-
-[Agriculture, Fisheries and Forestry Legislation Amendment Act (No](#Agriculture, Fisheries and Forestry Legislation Amendment Act (No). 1) 2013 (No  17, 2013)             157
-
-    **Endnote 4—Uncommenced amendments** 
-
-    **Endnote 5—Misdescribed amendments** 
-
-    **Endnote 6—Modifications**
-
-[A](#A).C T  Self‑Government (Consequential Provisions) Regulations (1989 No  3) 160
-
- 
+**Notes** 
 
 ## An Act to establish a Wine Australia Corporation, and for related purposes
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Wine Australia Corporation Act 1980_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Sections 1 and 2 and subsection 13(4) shall come into operation on the date on which this Act receives the Royal Assent.
+             (1)  Sections 1 and 2 and subsection 13(4) shall come into operation on the date on which this Act receives the Royal Assent.
 
              (2)  The remaining provisions of this Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -580,7 +526,7 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Corporation.
 
-                    <a name="commenc-date"></a>**_commencing date_** means the date fixed under subsection 2(2).
+                    <a name="commenc-date"></a>**_commencing date_** means the date fixed under subsection 2(2).
 
                     <a name="corpor-plan"></a>**_corporate plan_** means a plan developed by the Corporation and approved by the Minister in accordance with Division 1 of Part VA.
 
@@ -588,7 +534,7 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="corpor"></a>**_corporation_**, in Part VIB, means a body corporate that:
 
-                     (a)  is a foreign corporation within the meaning of paragraph 51(xx) of the Constitution; or
+                     (a)  is a foreign corporation within the meaning of paragraph 51(xx) of the Constitution; or
 
                      (b)  is a trading corporation within the meaning of that paragraph that is formed within the limits of Australia; or
 
@@ -606,7 +552,9 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="descript"></a>**_description_**, in relation to wine, has a meaning affected by section 5C.
 
-                    <a name="design-foreign-countri"></a>**_designated foreign country_** has the meaning given by subsection 40K(3).
+                    <a name="design-foreign-countri"></a>**_designated foreign country_** has the meaning given by subsection 40K(3).
+
+                    <a name="direct-sale"></a>**_direct sale_** means a sale of wine goods to a consumer.
 
                     <a name="dri-grape"></a>**_dried grapes_** means grapes containing less than 60% of moisture.
 
@@ -754,7 +702,7 @@ and this Act shall be construed and administered accordingly.
 
                     <a name="princip-employe"></a>**_principal employee_** means the person holding the position of principal employee (however described) of the Corporation.
 
-                    <a name="protect-date"></a>**_protection date_** for a registered traditional expression has the meaning given by subsection 40DB(6).
+                    <a name="protect-date"></a>**_protection date_** for a registered traditional expression has the meaning given by subsection 40DB(6).
 
                     <a name="regist"></a>**_Register_** means the Register of Protected Geographical Indications and Other Terms kept under section 40ZC.
 
@@ -790,7 +738,7 @@ means a condition of use included in the Register that is applicable to the geog
 
                     <a name="regist-trade-mark"></a>**_Register of Trade Marks_** means the register kept under section 207 of the _Trade Marks Act 1995_.
 
-                    <a name="registrar"></a>**_Registrar_** means the Registrar of Protected Geographical Indications and Other Terms established under subsection 40ZA(1).
+                    <a name="registrar"></a>**_Registrar_** means the Registrar of Protected Geographical Indications and Other Terms established under subsection 40ZA(1).
 
                     <a name="relev-agenc"></a>**_relevant agency_** has the meaning given by section 39ZL.
 
@@ -840,7 +788,7 @@ References to country
 
 Harvesting grapes
 
-          (2A)  For the purposes of the definition of **_vintage_**, grapes that are harvested on or after 1 September in a calendar year, and before or on 31 December of that calendar year, are taken to have been harvested in the next calendar year.
+          (2A)  For the purposes of the definition of **_vintage_**, grapes that are harvested on or after 1 July in a calendar year, and before or on 31 December of that calendar year, are taken to have been harvested in the next calendar year.
 
 Parties to prescribed wine trading agreements
 
@@ -868,7 +816,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="5C"></a>5C  Meaning of _description and presentation_ 
 
-                   In this Act, a reference to the description and presentation with which wine is sold, exported or imported is a reference to all names (including business names) or other descriptions, references (including addresses), indications, signs, designs and trade marks used to distinguish the wine and appearing:
+                   In this Act, a reference to the description and presentation with which wine is sold, exported or imported is a reference to all names (including business names) or other descriptions, references (including addresses), indications, signs, designs and trade marks used to distinguish the wine and appearing:
 
                      (a)  on the container (including on the device used to seal the container or on a label affixed to the container), on any tag attached to the container or, if the container is a bottle, on the sheathing covering the neck of the bottle; or
 
@@ -878,7 +826,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  in advertisements relating to the wine.
 
-##### <a id="5D"></a>5D  Where wine or grape extract originates
+##### <a id="5D"></a>5D  Where wine or grape extract originates
 
                    For the purposes of this Act:
 
@@ -970,7 +918,7 @@ Requirements for determinations by the Corporation
 
                      (a)  subject to the _Administrative Appeals Tribunal Act 1975_, application may be made, by or on behalf of any person whose interests are affected by the determination, to the Administrative Appeals Tribunal for review of the determination; and
 
-                     (b)  unless subsection 28(4) of that Act applies, application may be made in accordance with section 28 of that Act by or on behalf of the person for a statement in writing setting out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the determination.
+                     (b)  unless subsection 28(4) of that Act applies, application may be made in accordance with section 28 of that Act by or on behalf of the person for a statement in writing setting out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the determination.
 
           (2D)  Any failure to comply with subsection (2C) in relation to a determination does not affect the validity of the determination.
 
@@ -980,9 +928,9 @@ Review of determinations
 
            (2F)  Section 29 of the _Administrative Appeals Tribunal Act 1975_ has effect in relation to an application for review of a determination as if the following subsections were inserted after subsection (1):
 
-                 ‘(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
+                 ‘(1A)  Despite paragraph (1)(d) and subsection (2), an application to the Tribunal for review of a determination made under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made within 28 days after notice of the determination is published in accordance with subsection 8(2B) of that Act.
 
-                 ‘(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.’.
+                 ‘(1B)  Despite subsection (8), an application under subsection (7) in respect of a determination under paragraph 8(2)(aa), (ac) or (ad) of the _Wine Australia Corporation Act 1980_ must be made before the time fixed by subsection (1A) ends.’.
 
 Inclusion of particulars in the Register
 
@@ -996,7 +944,7 @@ Inclusion of particulars in the Register
 
 Consistency with corporate and operational plans
 
-             (3)  Subject to subsection 31K(4), the Corporation shall endeavour to ensure, to the extent that it is practicable to do so, that the performance at any time of its functions and the exercise at any time of its powers is consistent with, and designed to give effect to, the provisions of any corporate plan and of any annual operational plan in force at that time.
+             (3)  Subject to subsection 31K(4), the Corporation shall endeavour to ensure, to the extent that it is practicable to do so, that the performance at any time of its functions and the exercise at any time of its powers is consistent with, and designed to give effect to, the provisions of any corporate plan and of any annual operational plan in force at that time.
 
 ##### <a id="10"></a>10  Power to enter into arrangements etc.
 
@@ -1062,9 +1010,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="14"></a>14  Term of office of members
 
-             (1)  Subject to this Act, the Chairperson or a member referred to in paragraph 13(1)(c) holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but he or she is eligible for re‑appointment.
+             (1)  Subject to this Act, the Chairperson or a member referred to in paragraph 13(1)(c) holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but he or she is eligible for re‑appointment.
 
-             (5)  Whenever a vacancy occurs in the office of Chairperson or of a member referred to in paragraph 13(1)(c) before the expiration of the person’s term of office, the Minister may, in accordance with, and subject to, section 13, appoint a person to the office for the remainder of that period.
+             (5)  Whenever a vacancy occurs in the office of Chairperson or of a member referred to in paragraph 13(1)(c) before the expiration of the person’s term of office, the Minister may, in accordance with, and subject to, section 13, appoint a person to the office for the remainder of that period.
 
 ##### <a id="15"></a>15  Deputy Chairperson
 
@@ -1104,7 +1052,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-                     (c)  being a member to whom subsection 40(7) applies, fails, without reasonable excuse, to comply with the condition referred to in that subsection; or
+                     (c)  being a member to whom subsection 40(7) applies, fails, without reasonable excuse, to comply with the condition referred to in that subsection; or
 
                      (d)  is absent from 3 consecutive meetings of the Corporation otherwise than:
 
@@ -1148,7 +1096,7 @@ the Minister shall terminate the appointment of the member.
 
 ##### <a id="29AA"></a>29AA  Interpretation
 
-                   In this Part:
+                   In this Part:
 
                     <a name="committe"></a>**_Committee_** means the Wine Australia Corporation Selection Committee.
 
@@ -1162,7 +1110,7 @@ the Minister shall terminate the appointment of the member.
 
                    The functions of the Committee are:
 
-                     (a)  to select persons to be nominated for appointment as members of the Corporation referred to in paragraph 13(1)(c); and
+                     (a)  to select persons to be nominated for appointment as members of the Corporation referred to in paragraph 13(1)(c); and
 
                      (b)  to nominate persons so selected to the Minister for appointment as members of the Corporation.
 
@@ -1174,13 +1122,13 @@ the Minister shall terminate the appointment of the member.
 
                    The Minister may, by notice in writing given to the Presiding Member, request the Committee to give to the Minister, within the period specified in the notice:
 
-                     (a)  written nominations of persons for appointment as members of the Corporation referred to in paragraph 13(1)(c); or
+                     (a)  written nominations of persons for appointment as members of the Corporation referred to in paragraph 13(1)(c); or
 
                      (b)  where a casual vacancy occurs in the office of a member of the Corporation referred to in paragraph (a)—a written nomination of a person for appointment to that office.
 
 ##### <a id="29E"></a>29E  Selection of persons by Committee
 
-             (1)  The Committee shall not nominate a person for appointment as a member of the Corporation unless the person possesses one or more of the qualifications referred to in subsection 13(4).
+             (1)  The Committee shall not nominate a person for appointment as a member of the Corporation unless the person possesses one or more of the qualifications referred to in subsection 13(4).
 
              (2)  The Committee shall not nominate a person for appointment as a member of the Corporation if:
 
@@ -1254,7 +1202,7 @@ Note:          For rules that apply to acting appointments, se
 
              (2)  A member shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_, other than subsections 7(9) and (13) of that Act.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_, other than subsections 7(9) and (13) of that Act.
 
 ##### <a id="29M"></a>29M  Leave of absence
 
@@ -1422,7 +1370,7 @@ Note:          The annual reporting obligations for the Corpor
 
 ##### <a id="29ZA"></a>29ZA  Minister to be notified of resolutions
 
-                   The Corporation shall, when making a recommendation referred to in subclause 9(1) of Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_ or subclause 5(1) of Schedule 13 to the _Primary Industries (Customs) Charges Act 1999_, notify the Minister of any resolution relating to the recommendation passed or defeated at the most recent annual general meeting, of the number of votes cast for the resolution and of the number of votes cast against the resolution.
+                   The Corporation shall, when making a recommendation referred to in subclause 9(1) of Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_ or subclause 5(1) of Schedule 13 to the _Primary Industries (Customs) Charges Act 1999_, notify the Minister of any resolution relating to the recommendation passed or defeated at the most recent annual general meeting, of the number of votes cast for the resolution and of the number of votes cast against the resolution.
 
 ## Part V—Staff
 
@@ -1596,7 +1544,7 @@ whichever is the later.
 
 ##### <a id="31L"></a>31L  Corporation’s component of wine grapes levy
 
-                   For the purposes of this Act, the **_Corporation’s component of wine grapes levy_** is an amount of levy covered by paragraph 7(1)(a) of Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_.
+                   For the purposes of this Act, the **_Corporation’s component of wine grapes levy_** is an amount of levy covered by paragraph 7(1)(a) of Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_.
 
 ##### <a id="32"></a>32  Payments to Corporation
 
@@ -1610,9 +1558,9 @@ whichever is the later.
 
                    (ad)  so much of the amounts (if any) received by the Commonwealth under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of wine export charge; and
 
-                     (a)  so much of the amounts from time to time received by the Commonwealth as levy under the repealed _Wine Grapes Levy Act 1979_ as is so received by virtue of subsection 6(1), other than paragraph 6(1)(b) of that Act; and
+                     (a)  so much of the amounts from time to time received by the Commonwealth as levy under the repealed _Wine Grapes Levy Act 1979_ as is so received by virtue of subsection 6(1), other than paragraph 6(1)(b) of that Act; and
 
-                     (b)  so much of the amounts (if any) received by the Commonwealth under section 5 of the repealed _Wine Grapes Levy Collection Act 1979_ or section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of levy referred to in subsection 6(1), other than paragraph 6(1)(b), of the repealed _Wine Grapes Levy Act 1979_; and
+                     (b)  so much of the amounts (if any) received by the Commonwealth under section 5 of the repealed _Wine Grapes Levy Collection Act 1979_ or section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ as is attributable to non‑payment of levy referred to in subsection 6(1), other than paragraph 6(1)(b), of the repealed _Wine Grapes Levy Act 1979_; and
 
                      (c)  so much of the amounts from time to time received by the Commonwealth as charge under the repealed _Wine Export Charge Act 1997_ as is received because of section 6 of that Act; and
 
@@ -1620,7 +1568,7 @@ whichever is the later.
 
 ##### <a id="33"></a>33  Payments by Corporation to Commonwealth
 
-             (1)  Where a refund is made by the Commonwealth in accordance with section 7 of the repealed _Wine Grapes Levy Collection Act 1979_ or section 18 of the _Primary Industries Levies and Charges Collection Act 1991_ in respect of an amount that has been paid or overpaid to the Commonwealth by way of an amount of levy that is payable to the Commonwealth by virtue of subsection 6(1), other than paragraph 6(1)(b), of the repealed _Wine Grapes Levy Act 1979_, the Corporation shall pay to the Commonwealth an amount equal to the amount of the refund.
+             (1)  Where a refund is made by the Commonwealth in accordance with section 7 of the repealed _Wine Grapes Levy Collection Act 1979_ or section 18 of the _Primary Industries Levies and Charges Collection Act 1991_ in respect of an amount that has been paid or overpaid to the Commonwealth by way of an amount of levy that is payable to the Commonwealth by virtue of subsection 6(1), other than paragraph 6(1)(b), of the repealed _Wine Grapes Levy Act 1979_, the Corporation shall pay to the Commonwealth an amount equal to the amount of the refund.
 
              (2)  If a refund is made by the Commonwealth in accordance with section 18 of the _Primary Industries Levies and Charges Collection Act 1991_ in respect of an amount that has been paid or overpaid to the Commonwealth by way of an amount of charge that is payable to the Commonwealth because of section 6 of the repealed _Wine Export Charge Act 1997_, the Corporation must pay to the Commonwealth an amount equal to the amount of the refund.
 
@@ -1684,13 +1632,13 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
                    The Corporation may give security over the whole or any part of its land or other assets for:
 
-                     (a)  the repayment by the Corporation of money borrowed by the Corporation under paragraph 34(1)(a) and the payment by the Corporation of interest (including any interest on that interest) on money so borrowed; or
+                     (a)  the repayment by the Corporation of money borrowed by the Corporation under paragraph 34(1)(a) and the payment by the Corporation of interest (including any interest on that interest) on money so borrowed; or
 
-                     (b)  the payment by the Corporation of amounts (including any interest) that the Corporation is liable to pay with respect to money raised by the Corporation under paragraph 34(1)(b).
+                     (b)  the payment by the Corporation of amounts (including any interest) that the Corporation is liable to pay with respect to money raised by the Corporation under paragraph 34(1)(b).
 
 ##### <a id="34B"></a>34B  Borrowings not otherwise permitted
 
-                   The Corporation shall not borrow money, or raise money otherwise than by borrowing, except in accordance with section 34.
+                   The Corporation shall not borrow money, or raise money otherwise than by borrowing, except in accordance with section 34.
 
 ##### <a id="35"></a>35  Application of money of Corporation
 
@@ -1702,7 +1650,7 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
                    (ab)  in payment to the Commonwealth of amounts equal to the expenses incurred by the Commonwealth in relation to:
 
-                              (i)  the collection or recovery of amounts referred to in paragraph 32(aa), (ab), (ac), (ad), (a) or (b); or
+                              (i)  the collection or recovery of amounts referred to in paragraph 32(aa), (ab), (ac), (ad), (a) or (b); or
 
                              (ii)  the administration of section 32;
 
@@ -1740,7 +1688,7 @@ Note:          The Federal Court may grant an injunction under
 
                      (a)  a record keeper who is one of the following (a **_constitutional corporation or partnership_**):
 
-                              (i)  a foreign corporation, within the meaning of paragraph 51(xx) of the Constitution;
+                              (i)  a foreign corporation, within the meaning of paragraph 51(xx) of the Constitution;
 
                              (ii)  a trading or financial corporation formed within the limits of the Commonwealth, within the meaning of that paragraph;
 
@@ -1818,9 +1766,9 @@ Note:          This Part applies only to the extent that the w
 
                       (l)  any other details in relation to the wine goods that are prescribed by the regulations for the purposes of this section.
 
-Note 1:       Records are required to be kept only to the extent that wine goods originate in Australia (see subsection 39C(4)).
+Note 1:       Records are required to be kept only to the extent that wine goods originate in Australia (see subsection 39C(4)).
 
-Note 2:       See section 39G (which deals with when certain details are not required to be kept) and section 39H (which deals with details required under section 39F).
+Note 2:       See sections 39G and 39H for additional rules relating to the requirements of this section.
 
 Note 3:       A person commits an offence if the person fails to keep a record in accordance with this subsection (see section 39J).
 
@@ -1840,7 +1788,7 @@ Note:          A person commits an offence if the person fails
 
 Requirement to provide and keep a copy of a record in relation to supply of wine goods
 
-             (3)  A person who is required to keep a record under subsection (1) must, on the day the person supplies the wine goods, provide a copy of the record kept under paragraphs (1)(h), (j) and (k) to the person to whom the wine goods are supplied.
+             (3)  A person who is required to keep a record under subsection (1) must, on the day the person supplies the wine goods, provide a copy of the record kept under paragraphs (1)(h), (j) and (k) to the person to whom the wine goods are supplied (except as provided by subsection 39G(2)).
 
 Note:          A person commits an offence if the person fails to provide a copy of a record in accordance with this subsection (see section 39K).
 
@@ -1860,29 +1808,29 @@ Grape growers not required to keep certain records
 
              (1)  A person who grows grapes is not required to keep a record showing details required under paragraphs 39F(1)(c) to (f) in relation to the grapes grown.
 
-Suppliers and receivers, and their agents, not required to keep certain records
+Direct sales
 
-             (2)  If:
+             (2)  A person is not required to keep a record showing details required under paragraphs 39F(1)(h) to (k) in relation to wine goods that are sold by the person in direct sales. However, if the person does not keep such a record, the person must instead keep a record showing:
 
-                     (a)  a person:
+                     (a)  the period during which wine goods were sold by the person in direct sales; and
 
-                              (i)  supplies or receives wine goods that are packaged in a container for the purpose of sale of the wine goods to a consumer; or
+                     (b)  the total quantity of those wine goods sold by the person during the period; and
 
-                             (ii)  is an agent who, on behalf of a person covered by subparagraph (i), takes possession of wine goods that are packaged in a container for the purpose of sale of the wine goods to a consumer; and
+                     (c)  the vintage, variety and prescribed geographical indication of those wine goods sold by the person during the period.
 
-                     (b)  before the wine goods are sold to a consumer, the person has not taken any steps to change or affect any label claims made about the wine goods;
+A copy of a record kept in accordance with this section is not required to be provided under subsection 39F(3).
 
-the person is not required to keep a record showing details required under paragraphs 39F(1)(e) to (l) in relation to that supply, receipt or taking possession of the wine goods.
+             (3)  The period referred to in paragraph (2)(a) of this section must not be longer than one year.
 
 ##### <a id="39H"></a>39H  Details required under section 39F
 
 Variety of wines
 
-             (1)  Details required under paragraph 39F(1)(f) or (k) or subparagraph 39F(1)(g)(i) may show any name by which a variety of wine goods is known (if the variety is known by more than one name).
+             (1)  Details required under paragraph 39F(1)(f) or (k) or subparagraph 39F(1)(g)(i) may show any name by which a variety of wine goods is known (if the variety is known by more than one name).
 
 Identity of a person
 
-             (2)  Details required under paragraph 39F(1)(a),(d) or (i) must include:
+             (2)  Details required under paragraph 39F(1)(a),(d) or (i) must include:
 
                      (a)  sufficient particulars of a person’s name and address to identify the person; and
 
@@ -1890,7 +1838,7 @@ Identity of a person
 
 Manufacturing wine
 
-             (3)  Details required under paragraph 39F(1)(g) in relation to wine goods must be in a form that allows:
+             (3)  Details required under paragraph 39F(1)(g) in relation to wine goods must be in a form that allows:
 
                      (a)  an audit trail containing a history of the changes to the wine goods to be readily traced from the record; and
 
@@ -1898,7 +1846,7 @@ Manufacturing wine
 
 Blends
 
-             (4)  Details required under subsection 39F(1) in relation to wine that is a blend of wines (the **_blended wines_**) of different vintages, varieties or prescribed geographical indications, must show:
+             (4)  Details required under subsection 39F(1) in relation to wine that is a blend of wines (the **_blended wines_**) of different vintages, varieties or prescribed geographical indications, must show:
 
                      (a)  what proportions of the blend are represented by each blended wine; and
 
@@ -1906,7 +1854,7 @@ Blends
 
 Grape extract
 
-             (5)  Details required under subsection 39F(1) in relation to grape extract derived from grapes of different vintages, varieties or prescribed geographical indications must show:
+             (5)  Details required under subsection 39F(1) in relation to grape extract derived from grapes of different vintages, varieties or prescribed geographical indications must show:
 
                      (a)  what proportions of the wine goods are derived from each kind of grape; and
 
@@ -1920,9 +1868,9 @@ Failure to keep a record in accordance with requirements
 
                      (a)  the person is a person to whom this Part applies; and
 
-                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
+                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
 
-                     (c)  the person has not kept a record in accordance with subsection 39F(1) or (2), or section 39H, in relation to the wine goods.
+                     (c)  the person has not kept a record in accordance with subsection 39F(1) or (2), or section 39G or 39H, in relation to the wine goods.
 
                     Penalty:  2 years imprisonment.
 
@@ -1932,7 +1880,7 @@ Label claims not supported by records
 
                      (a)  the person is a person to whom this Part applies; and
 
-                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
+                     (b)  the person is required to keep records in relation to wine goods under subsections 39F(1) and (2); and
 
                      (c)  the person makes a label claim in relation to the wine goods; and
 
@@ -1950,7 +1898,7 @@ Keeping a false or misleading record
 
                      (a)  the person is a person to whom this Part applies; and
 
-                     (b)  the person is required to keep records under subsections 39F(1) and (2) in relation to wine goods; and
+                     (b)  the person is required to keep records under subsections 39F(1) and (2) in relation to wine goods; and
 
                      (c)  a record kept by the person under those subsections is false or misleading; and
 
@@ -1960,7 +1908,7 @@ Keeping a false or misleading record
 
              (4)  Subsection (3) does not apply if the record is not false or misleading in a material particular.
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4). (See subsection 13.3(3) of the _Criminal Code_.)
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (4). (See subsection 13.3(3) of the _Criminal Code_.)
 
 ##### <a id="39K"></a>39K  Offences relating to requirement to provide and keep a copy of a record in relation to the supply of wine goods
 
@@ -1970,7 +1918,7 @@ Failure to provide a copy of a record in relation to the supply of wine goods
 
                      (a)  the person is a person to whom this Part applies; and
 
-                     (b)  the person is required to provide a copy of a record in relation to wine goods under subsection 39F(3); and
+                     (b)  the person is required to provide a copy of a record in relation to wine goods under subsection 39F(3); and
 
                      (c)  the person does not provide a copy in accordance with that subsection in relation to the wine goods.
 
@@ -1982,7 +1930,7 @@ Failure to keep a copy of a record in relation to the supply of wine goods
 
                      (a)  the person is a person to whom this Part applies; and
 
-                     (b)  the person is provided with a copy of a record in relation to wine goods under subsection 39F(4); and
+                     (b)  the person is provided with a copy of a record in relation to wine goods under subsection 39F(4); and
 
                      (c)  the person does not keep the copy in accordance with that subsection in relation to the wine goods.
 
@@ -2030,7 +1978,7 @@ in order to prove an offence under section 39J if the prosecution proves that,
 
              (2)  Subsection (1) does not apply if complying with the notice would tend to incriminate the person.
 
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (2). (See subsection 13.3(3) of the _Criminal Code_.)
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2). (See subsection 13.3(3) of the _Criminal Code_.)
 
 ##### <a id="39ZAC"></a>39ZAC  Corporation may retain records
 
@@ -2224,7 +2172,7 @@ Note:          An inspector may also exercise powers under thi
 
              (3)  Subsection (2) does not apply if the answer to the question, or the producing of the document, would tend to incriminate the person.
 
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (3). (See subsection 13.3(3) of the _Criminal Code_.)
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (3). (See subsection 13.3(3) of the _Criminal Code_.)
 
 ##### <a id="39ZI"></a>39ZI  Search warrants by telephone and other electronic means
 
@@ -2238,7 +2186,7 @@ Voice communication
 
 Information
 
-             (3)  Before applying for the warrant, the inspector must prepare an information of the kind mentioned in subsection 39ZD(2) or 39ZF(2) in relation to the wine premises that sets out the grounds on which the warrant is sought. If it is necessary to do so, the inspector may apply for the warrant before the information is sworn or affirmed.
+             (3)  Before applying for the warrant, the inspector must prepare an information of the kind mentioned in subsection 39ZD(2) or 39ZF(2) in relation to the wine premises that sets out the grounds on which the warrant is sought. If it is necessary to do so, the inspector may apply for the warrant before the information is sworn or affirmed.
 
 Issue of warrant
 
@@ -2454,7 +2402,7 @@ Note:          The Federal Court may grant an injunction under
 
                     Penalty:  Imprisonment for 2 years.
 
-Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
+Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
 
              (2)  The description and presentation may be false even if it indicates the country, region or locality (as the case may be) in which the wine originated.
 
@@ -2590,19 +2538,19 @@ Inclusion of business name
 
 then the description and presentation is not false merely because it includes that business name.
 
-             (5)  Subsection (4) does not limit subsection 40DA(3).
+             (5)  Subsection (4) does not limit subsection 40DA(3).
 
 Definition of **protection date**
 
              (6)  In this Act, the **_protection date_** for a registered traditional expression is:
 
-                     (a)  if the traditional expression is registered in relation to an agreement country under paragraph 40ZD(2A)(a):
+                     (a)  if the traditional expression is registered in relation to an agreement country under paragraph 40ZD(2A)(a):
 
                               (i)  unless subparagraph (ii) applies—the date on which the prescribed wine‑trading agreement to which that country is a party was signed; or
 
                              (ii)  if that agreement is modified after that date to include the traditional expression and paragraph (b) does not apply—the date on which the agreement is so modified; or
 
-                     (b)  if the traditional expression is registered in relation to a foreign country (whether or not an agreement country) under paragraph 40ZD(2A)(b)—the date on which the traditional expression is registered.
+                     (b)  if the traditional expression is registered in relation to a foreign country (whether or not an agreement country) under paragraph 40ZD(2A)(b)—the date on which the traditional expression is registered.
 
 #### Subdivision B—Sale, export or import of wine with a misleading description and presentation
 
@@ -2620,7 +2568,7 @@ Definition of **protection date**
 
                     Penalty:  Imprisonment for 2 years.
 
-Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
+Note:          A court may impose a maximum fine of 120 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914._)
 
              (2)  The description and presentation may be misleading even if it indicates the country, region or locality (as the case may be) in which the wine originated.
 
@@ -2768,7 +2716,7 @@ Inclusion of business name
 
 then the description and presentation is not misleading merely because it includes that business name.
 
-             (4)  Subsection (3) does not limit subsection 40F(5).
+             (4)  Subsection (3) does not limit subsection 40F(5).
 
 #### Subdivision C—Other provisions relating to sale, export or import of wine
 
@@ -2786,7 +2734,7 @@ then the description and presentation is not misleading merely because it includ
 
                     Penalty:  Imprisonment for 1 year.
 
-Note:          A court may impose a maximum fine of 60 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914_.)
+Note:          A court may impose a maximum fine of 60 penalty units instead of, or in addition to, a term of imprisonment. A body corporate that is convicted of an offence may be fined up to 5 times that maximum fine. (See subsections 4B(2) and (3) of the _Crimes Act 1914_.)
 
 Indication or term registered for more than one place
 
@@ -2800,7 +2748,7 @@ Indication or term registered for more than one place
 
                      (d)  the description and presentation indicates that the wine originated in that country, region or locality.
 
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
 
 Indication or term is registered additional term for particular wine
 
@@ -2824,7 +2772,7 @@ Indication or term is registered additional term for particular wine
 
                              (ii)  if subparagraph (b)(ii) applies—the wine originated in that country, region or locality, and the description and presentation indicates that the wine originated in that country, region or locality.
 
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. (See subsection 13.3(3) of the _Criminal Code_.)
 
 ##### <a id="40J"></a>40J  Exception for certain wines
 
@@ -2832,7 +2780,7 @@ Note:          The defendant bears an evidential burden in rel
 
                     <a name="small-quantiti"></a>**_small quantities_**, in relation to wines, means quantities declared by the regulations to be small quantities of wines for the purposes of this section.
 
-                    <a name="offenc-provision"></a>**_the offence provisions_** means subsections 40C(1), 40E(1) and 40G(1).
+                    <a name="offenc-provision"></a>**_the offence provisions_** means subsections 40C(1), 40E(1) and 40G(1).
 
              (2)  The offence provisions do not apply in relation to wines manufactured before the commencement of this Part.
 
@@ -2950,7 +2898,7 @@ Note:          Geographical indications, and translations of s
 
              (2)  A determination by the Committee is to be in writing signed by the Presiding Member of the Committee.
 
-##### <a id="40QA"></a>40QA  Committee must await decisions under Subdivision D
+##### <a id="40QA"></a>40QA  Committee must await decisions under Subdivision D
 
                    The Committee must not do a thing under Subdivision E in respect of a proposed GI unless the requirements of Subdivision D have been complied with.
 
@@ -2982,7 +2930,7 @@ Note:          Geographical indications, and translations of s
 
                      (b)  the Committee is considering determining a geographical indication (the **_proposed GI_**) on its own initiative under section 40Q; or
 
-                     (c)  after an application under section 40R has been made, the Committee is considering, under paragraph 40T(3)(b), determining a geographical indication (the **_proposed GI_**) that is different from the GI proposed in the application.
+                     (c)  after an application under section 40R has been made, the Committee is considering, under paragraph 40T(3)(b), determining a geographical indication (the **_proposed GI_**) that is different from the GI proposed in the application.
 
              (2)  The notice must:
 
@@ -3100,7 +3048,7 @@ the Registrar of Trade Marks may make the recommendation. The recommendation mus
 
 Note 1:       For example, it may be reasonable for the Registrar of Trade Marks to make such a recommendation if the Registrar of Trade Marks is satisfied that the proposed GI was in use before the trade mark rights arose.
 
-Note 2:       If a recommendation is made under subsection (3), the Committee may determine the GI (see subsection 40SA(4)).
+Note 2:       If a recommendation is made under subsection (3), the Committee may determine the GI (see subsection 40SA(4)).
 
              (4)  In determining under paragraph (3)(b) whether it is reasonable in the circumstances to make the recommendation to the Committee, the Registrar of Trade Marks must have regard to Australia’s international obligations.
 
@@ -3112,7 +3060,7 @@ Regulations
 
 Notice to be given by Registrar of Trade Marks
 
-             (1)  After the Registrar of Trade Marks has made a decision under section 40RC in relation to the proposed GI, the Registrar of Trade Marks must, in writing, inform the following of the outcome of the decision and of any recommendation that has been made under subsection 40RC(3):
+             (1)  After the Registrar of Trade Marks has made a decision under section 40RC in relation to the proposed GI, the Registrar of Trade Marks must, in writing, inform the following of the outcome of the decision and of any recommendation that has been made under subsection 40RC(3):
 
                      (a)  the person who proposed the GI, if there was an application under section 40R for the GI;
 
@@ -3128,7 +3076,7 @@ Notice to be given by Committee
 
                      (b)  stating that a decision of the Registrar of Trade Marks has been made in relation to the proposed GI; and
 
-                     (c)  setting out the terms of the decision and any recommendation made under subsection 40RC(3) in relation to the proposed GI.
+                     (c)  setting out the terms of the decision and any recommendation made under subsection 40RC(3) in relation to the proposed GI.
 
              (3)  The notice under subsection (2) is to be published in the manner that the Committee thinks appropriate.
 
@@ -3142,7 +3090,7 @@ Notice to be given by Committee
 
 the Registrar of Trade Marks may, in writing, make a decision that the ground of objection no longer exists.
 
-Note:          If the Registrar of Trade Marks makes a decision under this section, the Committee may determine the GI (see subsection 40SA(5)).
+Note:          If the Registrar of Trade Marks makes a decision under this section, the Committee may determine the GI (see subsection 40SA(5)).
 
              (2)  Regulations may set out the procedure to be followed in making a decision under subsection (1). The procedures may include the charging of fees, the holding of hearings and the taking of evidence.
 
@@ -3150,9 +3098,9 @@ Note:          If the Registrar of Trade Marks makes a decisio
 
              (1)  An appeal lies to the Federal Court against a decision of the Registrar of Trade Marks, made under:
 
-                     (a)  subsection 40RC(2) (a decision that a ground of objection is or is not made out); and
+                     (a)  subsection 40RC(2) (a decision that a ground of objection is or is not made out); and
 
-                     (b)  subsection 40RC(3) (a recommendation that a proposed GI be determined or a refusal to make such a recommendation); and
+                     (b)  subsection 40RC(3) (a recommendation that a proposed GI be determined or a refusal to make such a recommendation); and
 
                      (c)  section 40RE (a decision that a ground of objection no longer exists or a refusal to make such a decision).
 
@@ -3198,7 +3146,7 @@ Note:          If the Registrar of Trade Marks makes a decisio
 
 Grounds of objection not made out
 
-             (2)  The Committee may determine a GI that was the subject of a decision under subsection 40RC(2), if:
+             (2)  The Committee may determine a GI that was the subject of a decision under subsection 40RC(2), if:
 
                      (a)  all appeals against, or reviews of, the decision (if any) in relation to the GI have been finalised; and
 
@@ -3208,11 +3156,11 @@ If grounds for objection made out and person agrees to determination of GI
 
              (3)  The Committee may determine a GI that is the subject of a decision that a ground of objection has been made out, if the person who objected to the determination of the GI has agreed, by notice in writing given to the Committee, to the determination of the GI.
 
-If grounds for objection made out and a recommendation is made under subsection 40RC(3)
+If grounds for objection made out and a recommendation is made under subsection 40RC(3)
 
              (4)  The Committee may determine a GI that is the subject of a decision that a ground of objection has been made out, if:
 
-                     (a)  a recommendation has been made to the Committee under subsection 40RC(3) that the GI should be determined despite the ground of objection having been made out; and
+                     (a)  a recommendation has been made to the Committee under subsection 40RC(3) that the GI should be determined despite the ground of objection having been made out; and
 
                      (b)  all appeals against, or reviews of, the decision that the GI should be determined (if any) have been finalised; and
 
@@ -3280,7 +3228,7 @@ If grounds for objection made out and a decision is made under section 40RE
 
                      (a)  subject to the _Administrative Appeals Tribunal Act 1975_, application may be made, by or on behalf of any person whose interests are affected by the determination, to the Administrative Appeals Tribunal for review of the determination; and
 
-                     (b)  unless subsection 28(4) of that Act applies, application may be made in accordance with section 28 of that Act by or on behalf of that person for a statement in writing setting out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the determination; and
+                     (b)  unless subsection 28(4) of that Act applies, application may be made in accordance with section 28 of that Act by or on behalf of that person for a statement in writing setting out the findings on material questions of fact, referring to the evidence or other material on which those findings were based and giving the reasons for the determination; and
 
                      (c)  if a decision has been made under section 40RC before the final determination, no application to the Administrative Appeals Tribunal may be made in respect of that decision under section 40RC. An appeal lies to the Federal Court under section 40RF from a decision under section 40RC.
 
@@ -3322,7 +3270,7 @@ Note:          Determinations for the omission of geographical
 
              (2)  The grounds for omission are that an Australian GI is not in use (see Subdivision B) or is no longer required (see Subdivision C).
 
-Note:          Subsection 40ZD(3) also deals with changes to the Register.
+Note:          Subsection 40ZD(3) also deals with changes to the Register.
 
              (3)  The regulations may modify the operation of this Division to remove any inconsistency with the operation of regulations made for the purposes of Division 4B.
 
@@ -3406,9 +3354,9 @@ Meaning of special circumstances
 
              (1)  Application may be made to the Administrative Appeals Tribunal for review of the determination made under section 40ZAF.
 
-             (2)  Despite paragraph 29(1)(d) and subsection 29(2) of the _Administrative Appeals Tribunal Act 1975_, an application to the Tribunal for review of a determination under section 40ZAF must be made within 28 days after notice of the determination is published in accordance with section 40ZAG.
+             (2)  Despite paragraph 29(1)(d) and subsection 29(2) of the _Administrative Appeals Tribunal Act 1975_, an application to the Tribunal for review of a determination under section 40ZAF must be made within 28 days after notice of the determination is published in accordance with section 40ZAG.
 
-             (3)  Despite subsection 29(8) of the _Administrative Appeals Tribunal Act 1975_, an application under subsection 29(7) of that Act in respect of a determination under section 40ZAF must be made before the time fixed by subsection (2) of this section ends.
+             (3)  Despite subsection 29(8) of the _Administrative Appeals Tribunal Act 1975_, an application under subsection 29(7) of that Act in respect of a determination under section 40ZAF must be made before the time fixed by subsection (2) of this section ends.
 
 ##### <a id="40ZAI"></a>40ZAI  Date of effect of determination to omit GI
 
@@ -3468,15 +3416,15 @@ then the application is taken never to have been made.
 
                               (i)  interested persons in relation to the GI (see section 40ZAM); and
 
-                             (ii)  members of the organisations referred to in subsection 40ZAJ(2); and
+                             (ii)  members of the organisations referred to in subsection 40ZAJ(2); and
 
-                            (iii)  the organisations referred to in subsection 40ZAJ(2);
+                            (iii)  the organisations referred to in subsection 40ZAJ(2);
 
                             to object to the omission of the GI from the Register by making written submissions to the Committee within the period of not less than one month that is stated in the notice.
 
 ##### <a id="40ZAM"></a>40ZAM  Meaning of interested person
 
-                   For the purposes of subparagraph 40ZAL(b)(i), an interested person in relation to an Australian GI is a person who the Committee is satisfied is:
+                   For the purposes of subparagraph 40ZAL(b)(i), an interested person in relation to an Australian GI is a person who the Committee is satisfied is:
 
                      (a)  a winemaker who makes wine for commercial purposes from grapes grown in the region or locality indicated by the GI; or
 
@@ -3552,7 +3500,7 @@ Role of Registrar of Trade Marks
 
 ##### <a id="40ZAR"></a>40ZAR  Appeals against decisions of Registrar of Trade Marks
 
-             (1)  An appeal lies to the Federal Court against such decisions of the Registrar of Trade Marks as are prescribed by the regulations (being decisions under regulations made for the purposes of subsection 40ZAQ(3)).
+             (1)  An appeal lies to the Federal Court against such decisions of the Registrar of Trade Marks as are prescribed by the regulations (being decisions under regulations made for the purposes of subsection 40ZAQ(3)).
 
              (2)  The jurisdiction of the Federal Court to hear and determine appeals against prescribed decisions is exclusive of the jurisdiction of any other court except the jurisdiction of the High Court under section 75 of the Constitution.
 
@@ -3840,7 +3788,7 @@ it is a condition of the person’s holding the office under this Act held by th
 
 ##### <a id="43"></a>43  Delegation
 
-             (1)  The Corporation may, either generally or as otherwise provided by the instrument of delegation, by writing under its common seal, delegate to a person or to a committee established under section 11 any of its powers under this Act, other than its powers under subsection 30(2) or this power of delegation.
+             (1)  The Corporation may, either generally or as otherwise provided by the instrument of delegation, by writing under its common seal, delegate to a person or to a committee established under section 11 any of its powers under this Act, other than its powers under subsection 30(2) or this power of delegation.
 
              (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Corporation.
 
@@ -4042,13 +3990,13 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="51"></a>51  Application of moneys of Corporation
 
-                   The moneys of the Corporation may be applied in payment or discharge of the debts, liabilities and obligations referred to in paragraph 49(1)(b).
+                   The moneys of the Corporation may be applied in payment or discharge of the debts, liabilities and obligations referred to in paragraph 49(1)(b).
 
 ##### <a id="53"></a>53  Employees of Board
 
              (1)  A person who, immediately before the commencing date, was employed by the Board shall, by virtue of this subsection, be deemed to be, on that date, engaged as an employee of the Corporation under section 30.
 
-             (2)  Terms and conditions of employment applicable to a person referred to in subsection (1) immediately before the commencing date shall, by virtue of this subsection, be deemed to be terms and conditions of employment determined under subsection 30(2), but those terms and conditions may, at any time after the commencing date, be varied under that subsection.
+             (2)  Terms and conditions of employment applicable to a person referred to in subsection (1) immediately before the commencing date shall, by virtue of this subsection, be deemed to be terms and conditions of employment determined under subsection 30(2), but those terms and conditions may, at any time after the commencing date, be varied under that subsection.
 
 ##### <a id="54"></a>54  Report on operations of Board
 
@@ -4076,7 +4024,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                     <a name="member"></a>**_member_** means the Presiding Member or a nominated member of the Committee. 
 
-                    <a name="nomin-member"></a>**_nominated member_** means a member of the Committee referred to in paragraph 2(1)(b), (c) or (d).
+                    <a name="nomin-member"></a>**_nominated member_** means a member of the Committee referred to in paragraph 2(1)(b), (c) or (d).
 
                     <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of the Committee.
 
@@ -4196,7 +4144,7 @@ Note:          A different process for resolving questions may
 
              (9)  The minutes must record each decision made by the Committee and the reasons for the decision. 
 
-           (10)  If one or more members are prescribed by the regulations for the purposes of paragraph 2(1)(d):
+           (10)  If one or more members are prescribed by the regulations for the purposes of paragraph 2(1)(d):
 
                      (a)  the number of members that constitutes a quorum at a meeting of the Committee is the number (being a number greater than 2) prescribed by the regulations for the purposes of this paragraph; and
 
@@ -4214,83 +4162,63 @@ Note:          A different process for resolving questions may
 
                    As soon as practicable after the end of each financial year, the Committee must give to the Corporation any information relating to the Committee’s operations during that year that the Corporation reasonably requires for the purpose of preparing a report in relation to that year under section 63H of the _Audit Act 1901_.
 
-Endnotes
+# Notes to the _Wine Australia Corporation Act 1980_
 
-Endnote 1—Legislation history
+### Note 1
 
-This endnote sets out details of the legislation history of the _Wine Australia Corporation Act 1980._
+The _Wine Australia Corporation Act 1980_ as shown in this compilation comprises Act No. 161, 1980 amended as indicated in the Tables below. 
+
+For application, saving or transitional provisions made by Schedule 1 (item 6) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 14 May 1999 is not included in this compilation. For subsequent information _see_ Table A.
+
+The _Wine Australia Corporation Act 1980_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+
+### Table of Acts
 
 <table>
 <colgroup>
-  <col width="26%">
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="23%">
   <col width="14%">
-  <col width="14%">
-  <col width="26%">
-  <col width="20%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>
-        <b>
-          Act
-        </b>
-      </div>
+      <div>Act</div>
     </td>
     <td>
-      <div>
-        <b>
-          Number and year
-        </b>
-      </div>
+      <div>Number 
+and year</div>
     </td>
     <td>
-      <div>
-        <b>
-          Assent date
-        </b>
-      </div>
+      <div>Date 
+of Assent</div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement date
-        </b>
-      </div>
+      <div>Date of commencement</div>
     </td>
     <td>
-      <div>
-        <b>
-          Application, saving and transitional provisions
-        </b>
-      </div>
+      <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Australian Wine and Brandy Corporation Act 1980
-    </div>
+    <div>Australian Wine and Brandy Corporation Act 1980</div>
   </td>
   <td>
-    <div>
-      161, 1980
-    </div>
+    <div>161, 1980</div>
   </td>
   <td>
-    <div>
-      10 Dec 1980
-    </div>
+    <div>10 Dec 1980</div>
   </td>
   <td>
-    <div>
-      ss. 1, 2 and 13(4): Royal Assent
-
-Remainder: 1 July 1981 (
-        <i>see Gazette</i>1981, No. S123)
-    </div>
+    <div>Ss. 1, 2 and 13(4): Royal Assent 
+Remainder: 1 July 1981 ( <i>see Gazette</i>1981, No. S123)</div>
   </td>
   <td>
     <div></div>
@@ -4298,1041 +4226,18 @@ Remainder: 1 July 1981 (
 </tr>
 <tr>
   <td>
-    <div>
-      Export Control (Miscellaneous Amendments) Act 1982
-    </div>
+    <div>Export Control (Miscellaneous Amendments) Act 1982</div>
   </td>
   <td>
-    <div>
-      48, 1982
-    </div>
+    <div>48, 1982</div>
   </td>
   <td>
-    <div>
-      9 June 1982
-    </div>
+    <div>9 June 1982</div>
   </td>
   <td>
-    <div>
-      1 Jan 1983
-      (
-        <i>see</i>s. 2 and
-        <i>Gazette</i>1982, No. G48, p. 2)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1984
-    </div>
-  </td>
-  <td>
-    <div>
-      72, 1984
-    </div>
-  </td>
-  <td>
-    <div>
-      25 June 1984
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3: 23 July 1984
-        <i>(a)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 5(1)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 2) 1984
-    </div>
-  </td>
-  <td>
-    <div>
-      165, 1984
-    </div>
-  </td>
-  <td>
-    <div>
-      25 Oct 1984
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3: Royal Assent
-        <i>(b)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 2(32) and 6(1)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
-    </div>
-  </td>
-  <td>
-    <div>
-      65, 1985
-    </div>
-  </td>
-  <td>
-    <div>
-      5 June 1985
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3: 3 July 1985
-        <i>(c)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Australian Wine and Brandy Corporation Amendment Act 1986
-    </div>
-  </td>
-  <td>
-    <div>
-      60, 1986
-    </div>
-  </td>
-  <td>
-    <div>
-      24 June 1986
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 1, 2, 3(1), 5, 14, 19 and 30: Royal Assent
-
-Remainder: 1 July 1986
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 29 and 30
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Primary Industries (Recovery of Levy Collection Expenses) Act 1988
-    </div>
-  </td>
-  <td>
-    <div>
-      51, 1988
-    </div>
-  </td>
-  <td>
-    <div>
-      15 June 1988
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3: Royal Assent
-        <i>(d)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Australian Wine and Brandy Corporation Amendment Act 1989
-    </div>
-  </td>
-  <td>
-    <div>
-      144, 1989
-    </div>
-  </td>
-  <td>
-    <div>
-      23 Nov 1989
-    </div>
-  </td>
-  <td>
-    <div>
-      1 Jan 1990
-    </div>
-  </td>
-  <td>
-    <div>
-      ss. 6 and 10
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Primary Industries Levies and Charges Collection (Consequential Provisions)
-        Act 1991
-    </div>
-  </td>
-  <td>
-    <div>
-      26, 1991
-    </div>
-  </td>
-  <td>
-    <div>
-      1 Mar 1991
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 1991 (
-        <i>see</i>s. 2)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Australian Wine and Brandy Corporation Amendment Act 1992
-    </div>
-  </td>
-  <td>
-    <div>
-      137, 1992
-    </div>
-  </td>
-  <td>
-    <div>
-      11 Nov 1992
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4: 9 Dec 1992
-
-Remainder: Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Australian Wine and Brandy Corporation Amendment Act 1993
-    </div>
-  </td>
-  <td>
-    <div>
-      93, 1993
-    </div>
-  </td>
-  <td>
-    <div>
-      16 Dec 1993
-    </div>
-  </td>
-  <td>
-    <div>
-      16 Dec 1993
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 15(2)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 2) 1994
-    </div>
-  </td>
-  <td>
-    <div>
-      129, 1994
-    </div>
-  </td>
-  <td>
-    <div>
-      21 Oct 1994
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 3: 1 Dec 1994
-        <i>(e)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Competition Policy Reform Act 1995
-    </div>
-  </td>
-  <td>
-    <div>
-      88, 1995
-    </div>
-  </td>
-  <td>
-    <div>
-      20 July 1995
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 77: 6 Nov 1995 (
-        <i>see Gazette</i>1995, No. S423) (
-        <i>f)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law Revision Act 1996
-    </div>
-  </td>
-  <td>
-    <div>
-      43, 1996
-    </div>
-  </td>
-  <td>
-    <div>
-      25 Oct 1996
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (item 19):
-        <i>(g)</i>
-
-Schedule 4 (items 1, 48, 49): Royal Assent
-        <i>(g)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Wine Export Charge (Consequential Amendments) Act 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      86, 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      27 June 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      27 June 1997 (
-        <i>see</i>s. 2)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Audit (Transitional and Miscellaneous) Amendment Act 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      152, 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      24 Oct 1997
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (items 554–567): 1 Jan 1998 (
-        <i>see Gazette</i>1997, No. GN49) (
-        <i>h)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Primary Industries and Energy Legislation Amendment Act (No. 1) 1998
-    </div>
-  </td>
-  <td>
-    <div>
-      102, 1998
-    </div>
-  </td>
-  <td>
-    <div>
-      30 July 1998
-    </div>
-  </td>
-  <td>
-    <div>
-      30 July 1998
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Primary Industries Levies and Charges (Consequential Amendments) Act 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      32, 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      14 May 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 5 (Part 1): 1 July 1999
-        <i>(i)
-
-        </i>Schedule 5 (Parts 2, 3): 1 Jan 2000
-        <i>(i)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 5 (Part 3): \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Public Employment (Consequential and Transitional) Amendment Act 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      146, 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      11 Nov 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (item 277): 5 Dec 1999 (
-        <i>see Gazette</i>1999, No. S584) (
-        <i>j)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        as amended by
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
-        2000
-    </div>
-  </td>
-  <td>
-    <div>
-      121, 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      5 Oct 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (item 8): 11 Nov 1999
-        <i>(ja)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Corporate Law Economic Reform Program Act 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      156, 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      24 Nov 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 10 (items 63, 64): 13 Mar 2000 (
-        <i>see Gazette</i>2000, No. S114) (
-        <i>k)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2)
-        1999
-    </div>
-  </td>
-  <td>
-    <div>
-      170, 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      10 Dec 1999
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 7: Royal Assent
-        <i>(l)</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 7 (item 16) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
-        2000
-    </div>
-  </td>
-  <td>
-    <div>
-      121, 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      5 Oct 2000
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (item 8): 11 Nov 1999
-
-Remainder: 5 Dec 2000 (
-        <i>see Gazette</i>2000, No. S612)
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment (Application
-        of Criminal Code) Act 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      115, 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      18 Sept 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      16 Oct 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      s. 4 \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      159, 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      1 Oct 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      29 Oct 2001
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 97) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
-        2003
-    </div>
-  </td>
-  <td>
-    <div>
-      38, 2003
-    </div>
-  </td>
-  <td>
-    <div>
-      2 May 2003
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1: 3 May 2003
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      US Free Trade Agreement Implementation Act 2004
-    </div>
-  </td>
-  <td>
-    <div>
-      120, 2004
-    </div>
-  </td>
-  <td>
-    <div>
-      16 Aug 2004
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 3: 1 Jan 2005
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (item 16) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Australian Wine and Brandy Corporation Amendment Act (No. 1) 2007
-    </div>
-  </td>
-  <td>
-    <div>
-      92, 2007
-    </div>
-  </td>
-  <td>
-    <div>
-      22 June 2007
-    </div>
-  </td>
-  <td>
-    <div>
-      22 June 2007
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (item 8) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law Revision Act 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      73, 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      3 July 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 4 (items 87, 88): 4 July 2008
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Stocktake (Regulatory and Other Laws) Act 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      111, 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      16 Nov 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (item 1): 17 Nov 2009
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Australian Wine and Brandy Corporation Amendment Act 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      98, 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      6 July 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 1 (items 1–69, 77–80) and Schedule 2: 1 Sept 2010 (
-        <i>see</i>F2010L02117)
-
-Schedule 3 (items 1–17, 19–21): 3 Aug 2010
-
-Schedule 3 (item 18): 1 Sept 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 1 (items
-
-77–80), Sch. 2 (items 36, 37) and Sch. 3 (items 19–21) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Financial Framework Legislation Amendment Act 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      148, 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      17 Dec 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 4 (items 1–11): 18 Dec 2010
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Statute Law Revision Act 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      5, 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      22 Mar 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 7 (item 148): 19 Apr 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      —
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Acts Interpretation Amendment Act 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      46, 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      27 June 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (items 1191–1198) and Schedule 3 (items 10, 11): 27 Dec 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 3 (items 10, 11) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Financial Framework Legislation Amendment Act (No. 1) 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      89, 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      4 Aug 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 8: 5 Aug 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Sch. 8 (item 3) \[
-        <i>see</i>Endnote 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Business Names Registration (Transitional and Consequential Provisions)
-        Act 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      127, 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      3 Nov 2011
-    </div>
-  </td>
-  <td>
-    <div>
-      Schedule 2 (item 26): 20 Apr 2012 (
-        <i>see</i>s. 2(1))
-    </div>
+    <div>1 Jan 1983 ( <i>see</i> 
+s. 2 and <i>Gazette</i>1982, No. G48, 
+p. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -5340,4174 +4245,3404 @@ Schedule 3 (item 18): 1 Sept 2010
 </tr>
 <tr>
   <td>
-    <div>
-      Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1)
-        2013
-    </div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
   </td>
   <td>
-    <div>
-      17, 2013
-    </div>
+    <div>72, 1984</div>
   </td>
   <td>
-    <div>
-      27 March 2013
-    </div>
+    <div>25 June 1984</div>
   </td>
   <td>
-    <div>
-      Schedules 1 and 2: 28 Mar 2013
-    </div>
+    <div>S. 3: 23 July 1984 <i>(a)</i></div>
   </td>
   <td>
-    <div>
-      Sch. 1 (item 6) \[
-        <i>see</i>Endnote 3]
-    </div>
+    <div>S. 5(1)</div>
   </td>
-</tr></table>
-
-_(a)_             The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
-
-                   (1)  Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-
-_(b)_             The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
-
-                   (7)  The amendment of the _Australian Wine and Brandy Corporation Act 1980_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
-
-_(c)_              The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
-
-                   (1)  Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-
-_(d)_             The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries (Recovery of Levy Collection Expenses) Act 1988_, subsection 2(1) of which provides as follows:
-
-                   (1)  Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
-
-_(e)_              The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
-
-                   (3)  The amendments made by this Act to the _Australian Wine and Brandy Corporation Act 1980_ commence on the first day of the second month that begins after the day on which this Act receives the Royal Assent.
-
-_(f)_              The _Wine Australia Corporation Act 1980_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
-
-                   (2)  Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
-
-_(g)_             The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (item 19) and Schedule 4 (items 1, 48, 49) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
-
-                   (1)  Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-
-                   (2)  Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
-
-                  Item 19 is taken to have commenced immediately after the commencement of section 20 of the _Australian Wine and Brandy Corporation Amendment Act 1993_.
-
-                  Section 20 commenced on 16 December 1993\. 
-
-_(h)_ The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (items 554–567) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
-
-                  (2) Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(i)_              The _Wine Australia Corporation Act 1980_ was amended by Schedule 5 (Parts 1–3) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsections 2(1) and (2)(d) of which provides as follows:
-
-                   (1)  Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
-
-                   (2)  The following provisions commence on 1 January 2000:
-
-                          (d)   Parts 2 and 3 of Schedule 5\. 
-
-_(j)_              The _Wine Australia Corporation Act 1980_ was amended by Schedule 1 (item 277) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows: 
-
-                   (1)  In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                   (2)  Subject to this section, this Act commences at the commencing time.
-
-_(ja)_ The _Public Employment (Consequential and Transitional) Amendment Act 1999_ was amended by Schedule 2 (item 8) only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000_, subsection 2(3) of which provides as follows:
-
-                   (3)  Item 8 of Schedule 2 is taken to have commenced on the day on which the _Public Employment (Consequential and Transitional) Amendment Act 1999_ received the Royal Assent.
-
-_(k)_              The _Wine Australia Corporation Act 1980_ was amended by Schedule 10 (items 63 and 64) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows: 
-
-                   (2)  The following provisions commence on a day or days to be fixed by Proclamation:
-
-                           (c)   the items in Schedules 10, 11 and 12.
-
-_(l)_              The _Wine Australia Corporation Act 1980_ was amended by Schedule 7 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows: 
-
-                   (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-Endnote 2—Amendment history
-
-This endnote sets out the amendment history of the _Wine Australia Corporation Act 1980__._
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="70%">
-</colgroup>
-
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+  </td>
+  <td>
+    <div>165, 1984</div>
+  </td>
+  <td>
+    <div>25 Oct 1984</div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i>(b)</i></div>
+  </td>
+  <td>
+    <div>Ss. 2(32) and 6(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+  </td>
+  <td>
+    <div>65, 1985</div>
+  </td>
+  <td>
+    <div>5 June 1985</div>
+  </td>
+  <td>
+    <div>S. 3: 3 July 1985 <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Wine and Brandy Corporation Amendment Act 1986</div>
+  </td>
+  <td>
+    <div>60, 1986</div>
+  </td>
+  <td>
+    <div>24 June 1986</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2, 3(1), 5, 14, 19 and 30: Royal Assent 
+Remainder: 1 July 1986</div>
+  </td>
+  <td>
+    <div>Ss. 29 and 30</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries (Recovery of Levy Collection Expenses) Act 1988</div>
+  </td>
+  <td>
+    <div>51, 1988</div>
+  </td>
+  <td>
+    <div>15 June 1988</div>
+  </td>
+  <td>
+    <div>S. 3: Royal Assent <i>(d)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Wine and Brandy Corporation Amendment Act 1989</div>
+  </td>
+  <td>
+    <div>144, 1989</div>
+  </td>
+  <td>
+    <div>23 Nov 1989</div>
+  </td>
+  <td>
+    <div>1 Jan 1990</div>
+  </td>
+  <td>
+    <div>Ss. 6 and 10</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991</div>
+  </td>
+  <td>
+    <div>26, 1991</div>
+  </td>
+  <td>
+    <div>1 Mar 1991</div>
+  </td>
+  <td>
+    <div>1 July 1991 ( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Wine and Brandy Corporation Amendment Act 1992</div>
+  </td>
+  <td>
+    <div>137, 1992</div>
+  </td>
+  <td>
+    <div>11 Nov 1992</div>
+  </td>
+  <td>
+    <div>S. 4: 9 Dec 1992 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Wine and Brandy Corporation Amendment Act 1993</div>
+  </td>
+  <td>
+    <div>93, 1993</div>
+  </td>
+  <td>
+    <div>16 Dec 1993</div>
+  </td>
+  <td>
+    <div>16 Dec 1993</div>
+  </td>
+  <td>
+    <div>S. 15(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 2) 1994</div>
+  </td>
+  <td>
+    <div>129, 1994</div>
+  </td>
+  <td>
+    <div>21 Oct 1994</div>
+  </td>
+  <td>
+    <div>S. 3: 1 Dec 1994 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Competition Policy Reform Act 1995</div>
+  </td>
+  <td>
+    <div>88, 1995</div>
+  </td>
+  <td>
+    <div>20 July 1995</div>
+  </td>
+  <td>
+    <div>S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td>
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 19): <i>(g)</i> 
+Schedule 4 (items 1, 48, 49): Royal Assent <i>(g)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Wine Export Charge (Consequential Amendments) Act 1997</div>
+  </td>
+  <td>
+    <div>86, 1997</div>
+  </td>
+  <td>
+    <div>27 June 1997</div>
+  </td>
+  <td>
+    <div>27 June 1997 ( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>152, 1997</div>
+  </td>
+  <td>
+    <div>24 Oct 1997</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 554–567): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries and Energy Legislation Amendment Act (No. 1) 1998</div>
+  </td>
+  <td>
+    <div>102, 1998</div>
+  </td>
+  <td>
+    <div>30 July 1998</div>
+  </td>
+  <td>
+    <div>30 July 1998</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Primary Industries Levies and Charges (Consequential Amendments) Act 1999</div>
+  </td>
+  <td>
+    <div>32, 1999</div>
+  </td>
+  <td>
+    <div>14 May 1999</div>
+  </td>
+  <td>
+    <div>Schedule 5 (Part 1): 1 July 1999 <i>(i) 
+ </i>Schedule 5 (Parts 2, 3): 1 Jan 2000 <i>(i)</i></div>
+  </td>
+  <td>
+    <div>Sch. 5 (Part 3): \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 277): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>121, 2000</div>
+  </td>
+  <td>
+    <div>5 Oct 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 8): 11 Nov 1999 <i>(ja)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporate Law Economic Reform Program Act 1999</div>
+  </td>
+  <td>
+    <div>156, 1999</div>
+  </td>
+  <td>
+    <div>24 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 10 (items 63, 64): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(k)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999</div>
+  </td>
+  <td>
+    <div>170, 1999</div>
+  </td>
+  <td>
+    <div>10 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 7: Royal Assent <i>(l)</i></div>
+  </td>
+  <td>
+    <div>Sch. 7 (item 16) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>121, 2000</div>
+  </td>
+  <td>
+    <div>5 Oct 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 8): 11 Nov 1999 
+Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
 <thead>
   <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted exp. = expired or ceased to have effect</div>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision affected
-        </b>
-      </div>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
     </td>
     <td>
-      <div>
-        <b>
-          How affected
-        </b>
-      </div>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003</div>
+    </td>
+    <td>
+      <div>38, 2003</div>
+    </td>
+    <td>
+      <div>2 May 2003</div>
+    </td>
+    <td>
+      <div>Schedule 1: 3 May 2003</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>US Free Trade Agreement Implementation Act 2004</div>
+    </td>
+    <td>
+      <div>120, 2004</div>
+    </td>
+    <td>
+      <div>16 Aug 2004</div>
+    </td>
+    <td>
+      <div>Schedule 3: 1 Jan 2005</div>
+    </td>
+    <td>
+      <div>Sch. 3 (item 16) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Wine and Brandy Corporation Amendment Act (No. 1) 2007</div>
+    </td>
+    <td>
+      <div>92, 2007</div>
+    </td>
+    <td>
+      <div>22 June 2007</div>
+    </td>
+    <td>
+      <div>22 June 2007</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 8) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2008</div>
+    </td>
+    <td>
+      <div>73, 2008</div>
+    </td>
+    <td>
+      <div>3 July 2008</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 87, 88): 4 July 2008</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Stocktake (Regulatory and Other Laws) Act 2009</div>
+    </td>
+    <td>
+      <div>111, 2009</div>
+    </td>
+    <td>
+      <div>16 Nov 2009</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 1): 17 Nov 2009</div>
+    </td>
+    <td>
+      <div>—</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      Title....................................
-    </div>
+    <div>Australian Wine and Brandy Corporation Amendment Act 2010</div>
   </td>
   <td>
-    <div>
-      am. No. 148, 2010
-    </div>
+    <div>98, 2010</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part I
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 1......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 3......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subhead. to s. 4(3) .............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 4......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and
-        170, 1999; No. 120, 2004; Nos. 98 and 148, 2010; No. 17, 2013
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 4.........................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 4A...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 4B...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 5......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 5A...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 5B...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 5C...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 5D...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part II
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Part II................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 6......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 7......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subheads. to s. 8(1), (2) ....
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subhead. to s. 8(2A) ..........
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subhead. to s. 8(2E) ..........
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subhead. to s. 8(2G) ..........
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subhead. to s. 8(3) .............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 8......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 93, 1993; No. 38, 2003; Nos. 98 and 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 9......................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 144, 1989; No. 115, 2001; No. 73, 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 11....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part III
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 12(1) ..................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 13....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 92, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 14....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. Nos. 72 and 165, 1984
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 159, 2001; No. 92, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 15....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 92, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 16, 17............................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 18, 19............................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 20....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 152, 1997; No. 156, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 21....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 152 1997; No. 156, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 22....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Part IV ...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 23–29............................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part IVA
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Part IVA............
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Part IVA .............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29AA..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 29B–29H.......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29J..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 46, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 29J......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 46, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29K.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29L.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 43, 1996
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 29M, 29N......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 29P................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 29P–29T........................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29TA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 92, 2007
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part IVB
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Part IVB .............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29U.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 129, 1994; No. 86, 1997; No. 32, 1999; No. 121, 2000
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29V.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 129, 1994
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 86, 1997; No. 32, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 29W–29Y......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 129, 1994
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29Z.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 144, 1989; No. 129, 1994; No. 32, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 121, 2000
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 29ZA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 32, 1999; No. 121, 2000
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part V
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 30....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 102, 1998; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part VA
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Part VA ..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 65, 1985
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 31A–31E.......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31F..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31G.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 89, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31H.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31J..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31K.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part VI
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 31L.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 32, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 32....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 144, 1989; No. 26, 1991; No. 86, 1997; No. 32, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 33....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 144, 1989; No. 26, 1991; No. 86, 1997; No. 32, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 34....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 34A, 34B.......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 35....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 51, 1988; No. 93, 1993; No. 152 1997; No. 32, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 36....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 37....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 38..................
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 38....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 93, 1993; No. 152, 1997; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 38A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part VIA
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Part VIA .............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 39A.....................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39B.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39C.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 39D, 39E.......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39EA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39F..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 17, 2013
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note 2 to s. 39F(1)..............
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 17, 2013
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39G.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 17, 2013
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39H.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39J..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 17, 2013
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39K.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39L.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39M................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39N.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 39P–39R........................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39S..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 39T–39V.......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39W................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39X.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 39Y...............
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39Y.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39Z.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 43, 1996
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZAAA.........................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 137, 1992
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 170, 1999; No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZAA............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 137, 1992
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZAB............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 137, 1992
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZAC............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 137, 1992
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZB...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 115, 2001; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZC...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 39ZC...................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZD...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Notes 1, 2 to s. 39ZD(1) ....
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZE...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZF...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Notes 1, 2 to s. 39ZF(1) .....
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZG...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 137, 1992
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZH...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZI................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZIA.............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZJ................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 88, 1995; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZK...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 39ZL...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 86, 1997; Nos. 32, 146 and 170 , 1999; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part VIB
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Part VIB............
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Part VIB .............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 1
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40 ...................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Renumbered s. 41A ...........
-    </div>
-  </td>
-  <td>
-    <div>
-      No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40A.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 40A.....................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40B.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 2
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subdiv. A of Div. 2.............
-
-of Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40C ................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40D ................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 102, 1998
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40DA..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40DB...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 127, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subdiv. B of Div. 2.............
-
-of Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40E ................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40F .................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 102, 1998
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40FA ..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40FB...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 127, 2011
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Subdiv. C of......
-
-Div. 2 of Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40G ................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40H.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40J, 40K........................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40L.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 40M...............
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subhead. to s. 40M(2) .......
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40M................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 3
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40N.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40P..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 120, 2004; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 4
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subdiv. A of Div. 4 of........
-
-Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40PA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 40PA(1) .............
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Subdiv. B of......
-
-Div. 4 of Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40Q.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40QA..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Subdiv. C of......
-
-Div. 4 of Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40R.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision D
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Subdiv. D of Div. 4 of........
-
-Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40RA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40RB...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40RC–40RG..................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision E
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Subdiv. E of......
-
-Div. 4 of Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40SA...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40S..................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40T.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 120, 2004; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40U–40W......................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40X.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40Y.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 148, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 40Y(1) ...............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40Z.................................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 4A
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Div. 4A of.........
-
-Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Div. 4A of Part VIB............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision A
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40ZAA............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Note to s. 40ZAA(1) ..........
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision B
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40ZAB–40ZAI..............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Subdivision C
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40ZAJ–40ZAP...............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 120, 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 4B
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Div. 4B of Part VIB.............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40ZAQ–40ZAT.............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 5
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to Div. 5 of............
-
-Part VIB
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      ss. 40ZA, 40ZB .................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Heading to s. 40ZC.............
-    </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40ZC ..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40ZD ..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      am. No. 38, 2003; No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40ZE ..............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 93, 1993
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Division 6
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      Div. 6 of Part VIB...............
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 40ZF...............................
-    </div>
-  </td>
-  <td>
-    <div>
-      ad. No. 170, 1999
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rs. No. 98, 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <b>
-        Part VII
-      </b>
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 41A (formerly s. 40) ......
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 93, 1993; No. 43, 1996
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 41....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      rep. No. 152, 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      s. 42....................................
-    </div>
-  </td>
-  <td>
-    <div>
-      am. No. 60, 1986; No. 144, 1989; No. 137, 1992; No. 115, 2001
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> </div>
-  </td>
   <td>
-    <div>
-      rep. No. 98, 2010
-    </div>
+    <div>6 July 2010</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 43....................................
-    </div>
+    <div>Schedule 1 (items 1–69, 77–80) and Schedule 2: 1 Sept 2010 ( <i>see</i>F2010L02117) 
+Schedule 3 (items 1–17, 19–21): 3 Aug 2010 
+Schedule 3 (item 18): 1 Sept 2010</div>
   </td>
   <td>
-    <div>
-      am. No. 60, 1986; No. 102, 1998
-    </div>
+    <div>Sch. 1 (items 
+77–80), Sch. 2 (items 36, 37) and Sch. 3 (items 
+19–21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div>
-      s. 44....................................
-    </div>
-  </td>
   <td>
-    <div>
-      am. No. 60, 1986; No. 144, 1989; No. 170, 1999; No. 115, 2001; No. 98,
-        2010
-    </div>
+    <div>Financial Framework Legislation Amendment Act 2010</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 44AA..............................
-    </div>
+    <div>148, 2010</div>
   </td>
   <td>
-    <div>
-      ad. No. 38, 2003
-    </div>
+    <div>17 Dec 2010</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 44AB...............................
-    </div>
+    <div>Schedule 4 (items 1–11): 18 Dec 2010</div>
   </td>
   <td>
-    <div>
-      ad. No. 98, 2010
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div> </div>
-  </td>
   <td>
-    <div>
-      am. No. 98, 2010
-    </div>
+    <div>Statute Law Revision Act 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 44A.................................
-    </div>
+    <div>5, 2011</div>
   </td>
   <td>
-    <div>
-      ad. No. 144, 1989
-    </div>
+    <div>22 Mar 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div> </div>
+    <div>Schedule 7 (item 148): 19 Apr 2011</div>
   </td>
   <td>
-    <div>
-      am. No. 115, 2001
-    </div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div>
-      s. 45....................................
-    </div>
-  </td>
   <td>
-    <div>
-      rs. No. 48, 1982
-    </div>
+    <div>Acts Interpretation Amendment Act 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 46....................................
-    </div>
+    <div>46, 2011</div>
   </td>
   <td>
-    <div>
-      am. No. 60, 1986; No. 144, 1989; No. 121, 2000; No. 38, 2003; No. 98,
-        2010
-    </div>
+    <div>27 June 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      <b>
-        Part VIII
-      </b>
-    </div>
+    <div>Schedule 2 (items 1191–1198) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>
-
-    </div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div>
-      s. 48....................................
-    </div>
-  </td>
   <td>
-    <div>
-      rep. No. 93, 1993
-    </div>
+    <div>Financial Framework Legislation Amendment Act (No. 1) 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 50....................................
-    </div>
+    <div>89, 2011</div>
   </td>
   <td>
-    <div>
-      am. No. 73, 2008; No. 5, 2011
-    </div>
+    <div>4 Aug 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      s. 52....................................
-    </div>
+    <div>Schedule 8: 5 Aug 2011</div>
   </td>
   <td>
-    <div>
-      rep. No. 111, 2009
-    </div>
+    <div>Sch. 8 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div>
-      <b>
-        Schedule
-      </b>
-    </div>
-  </td>
   <td>
-    <div>
-
-    </div>
+    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>
-      Schedule.............................
-    </div>
+    <div>127, 2011</div>
   </td>
   <td>
-    <div>
-      rs. No. 93, 1993
-    </div>
+    <div>3 Nov 2011</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div> </div>
+    <div>Schedule 2 (item 26): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
-    <div>
-      am. No. 98, 2010; Nos. 46 and 89, 2011
-    </div>
+    <div>—</div>
   </td>
 </tr></table>
 
-Endnote 3—Application, saving and transitional provisions
+_(a)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
-This endnote sets out application, saving and transitional provisions for amendments of the _Wine Australia Corporation Act 1980__._
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 
-For application, saving and transitional provisions made by Schedule 1 (item 6) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
+_(b)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(7) of which provides as follows:
 
-Application, saving and transitional provisions prior to 14 May 1999 are not included in this endnote.
+                 (7)   The amendment of the _Australian Wine and Brandy Corporation Act 1980_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
 
-Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No. 32, 1999)
+_(c)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+
+_(d)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries (Recovery of Levy Collection Expenses) Act 1988_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_     The _Wine Australia Corporation Act 1980_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
+
+                 (3)   The amendments made by this Act to the _Australian Wine and Brandy Corporation Act 1980_ commence on the first day of the second month that begins after the day on which this Act receives the Royal Assent.
+
+_(f)_      The _Wine Australia Corporation Act 1980_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
+
+                 (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
+
+_(g)_     The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (item 19) and Schedule 4 (items 1, 48, 49) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+
+         Item 19 is taken to have commenced immediately after the commencement of section 20 of the _Australian Wine and Brandy Corporation Amendment Act 1993_.
+
+         Section 20 commenced on 16 December 1993\. 
+
+_(h)_ The _Wine Australia Corporation Act 1980_ was amended by Schedule 2 (items 554–567) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+         (2)  Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(i)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 5 (Parts 1–3) only of the _Primary Industries Levies and Charges (Consequential Amendments) Act 1999_, subsections 2(1) and (2)(d) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the commencement of section 1 of the _Primary Industries (Excise) Levies Act 1999_.
+
+                 (2)   The following provisions commence on 1 January 2000:
+
+                              (d)   Parts 2 and 3 of Schedule 5\. 
+
+_(j)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 1 (item 277) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows: 
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(ja)_ The _Public Employment (Consequential and Transitional) Amendment Act 1999_ was amended by Schedule 2 (item 8) only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2000_, subsection 2(3) of which provides as follows:
+
+                 (3)   Item 8 of Schedule 2 is taken to have commenced on the day on which the _Public Employment (Consequential and Transitional) Amendment Act 1999_ received the Royal Assent.
+
+_(k)_     The _Wine Australia Corporation Act 1980_ was amended by Schedule 10 (items 63 and 64) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows: 
+
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+
+                              (c)   the items in Schedules 10, 11 and 12.
+
+_(l)_      The _Wine Australia Corporation Act 1980_ was amended by Schedule 7 only of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999_, subsection 2(1) of which provides as follows: 
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>am. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 4(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 26, 1991; No. 93, 1993; No. 152, 1997; Nos. 32 and 170, 1999; No. 120, 2004; Nos. 98 and 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 4</div>
+  </td>
+  <td>
+    <div>ad. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4B</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>rep. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5B</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5C</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5D</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part II</div>
+  </td>
+  <td>
+    <div>rs. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>am. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 8(1), (2)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 8(2A)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 8(2E)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 8(2G)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 8(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 93, 1993; No. 38, 2003; Nos. 98 and 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 144, 1989; No. 115, 2001; No. 73, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 12(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 92, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. Nos. 72 and 165, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 159, 2001; No. 92, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 92, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 16, 17</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 18, 19</div>
+  </td>
+  <td>
+    <div>rep. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 152, 1997; No. 156, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 152 1997; No. 156, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IV</div>
+  </td>
+  <td>
+    <div>rep. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 23–29</div>
+  </td>
+  <td>
+    <div>rep. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IVA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part IVA</div>
+  </td>
+  <td>
+    <div>rs. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IVA</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29AA</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29A</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 29B–29H</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29J</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 46, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 29J</div>
+  </td>
+  <td>
+    <div>ad. No. 46, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29K</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29L</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 29M, 29N</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 29P</div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 29P–29T</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29TA</div>
+  </td>
+  <td>
+    <div>ad. No. 92, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IVB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IVB</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29U</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 129, 1994; No. 86, 1997; No. 32, 1999; No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29V</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 129, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 1997; No. 32, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 29W–29Y</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 129, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29Z</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 144, 1989; No. 129, 1994; No. 32, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 32, 1999; No. 121, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 102, 1998; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VA</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>rep. No. 65, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 31A–31E</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31F</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31G</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 89, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31H</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31J</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31K</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31L</div>
+  </td>
+  <td>
+    <div>ad. No. 32, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 144, 1989; No. 26, 1991; No. 86, 1997; No. 32, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 144, 1989; No. 26, 1991; No. 86, 1997; No. 32, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>rs. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 34A, 34B</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 51, 1988; No. 93, 1993; No. 152 1997; No. 32, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>rep. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38</div>
+  </td>
+  <td>
+    <div>rs. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 93, 1993; No. 152, 1997; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38A</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIA</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39A</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 39A</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39B</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39C</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 39D, 39E</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39EA</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39F</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992; No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 39G, 39H</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 39J, 39K</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39L</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39M</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39N</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 39P–39R</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39S</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 39T–39V</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39W</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39X</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 39Y</div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39Y</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39Z</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZAAA</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 170, 1999; No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZAA</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZAB</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZAC</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 39ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Notes 1, 2 to s. 39ZD(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZE</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Notes 1, 2 to s. 39ZF(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZG</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZH</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZI</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZIA</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZJ</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 88, 1995; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZK</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39ZL</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 1997; Nos. 32, 146 and 170 , 1999; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VIB</div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Renumbered s. 41A .......</div>
+  </td>
+  <td>
+    <div>No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40A</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 40A</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40B</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. A of Div. 2 
+of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40C</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40D</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 102, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40DA</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40DB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 127, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. B of Div. 2 
+of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40E</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40F</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 102, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40FA</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40FB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 127, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. C of 
+Div. 2 of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40G</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40H</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40J, 40K</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40L</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 40M</div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 40M(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40M</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40N</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40P</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. A of Div. 4 of 
+Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40PA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 40PA(1)</div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 4 of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40Q</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40QA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. C of 
+Div. 4 of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40R</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 4 of 
+Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40RA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40RB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40RC–40RG</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. E of 
+Div. 4 of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40SA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40S</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40T</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40U–40W</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40X</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40Y</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 148, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 40Y(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40Z</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4A of 
+Part VIB</div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40ZAA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 40ZAA(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40ZAB–40ZAI</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40ZAJ–40ZAP</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4B of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40ZAQ–40ZAT</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 of 
+Part VIB</div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 40ZA, 40ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 40ZC</div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2003; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40ZE</div>
+  </td>
+  <td>
+    <div>ad. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part VIB</div>
+  </td>
+  <td>
+    <div>ad. No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 170, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41A (formerly s. 40)</div>
+  </td>
+  <td>
+    <div>am. No. 93, 1993; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 144, 1989; No. 137, 1992; No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 102, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 144, 1989; No. 170, 1999; No. 115, 2001; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44AA</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44AB</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44A</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>rs. No. 48, 1982</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 60, 1986; No. 144, 1989; No. 121, 2000; No. 38, 2003; No. 98, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>rep. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 73, 2008; No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>rep. No. 111, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule</div>
+  </td>
+  <td>
+    <div>rs. No. 93, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 98, 2010; Nos. 46 and 89, 2011</div>
+  </td>
+</tr></table>
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No. 32, 1999)_
 
 ## Schedule 5  
 
@@ -9517,7 +7652,9 @@ Primary Industries Levies and Charges (Consequential Amendments) Act 1999 (No.�
 
 Unless the contrary intention appears, regulations made for the purposes of section 29Z of the _Australian Wine and Brandy Corporation Act 1980_ apply, in relation to levy imposed by Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed _Wine Grapes Levy Act 1979_.
 
-Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No. 170, 1999)
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No. 170, 1999)_
 
 ## Schedule 7  
 
@@ -9525,7 +7662,9 @@ Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 2) 1999 (No
 
 The amendments made by items 6 to 15 apply to wines and grape extracts that are begun to be manufactured after the commencement of this item.
 
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -9533,7 +7672,9 @@ Agriculture, Fisheries and Forestry Legislation Amendment (Application of Crimin
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)
+* * *
+
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
 
 ## Schedule 1
 
@@ -9541,7 +7682,9 @@ Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-US Free Trade Agreement Implementation Act 2004 (No. 120, 2004)
+* * *
+
+_US Free Trade Agreement Implementation Act 2004 (No. 120, 2004)_
 
 ## Schedule 3
 
@@ -9549,7 +7692,10 @@ US Free Trade Agreement Implementation Act 2004 (No. 120, 2004)
 
 The amendments made by items 1 to 15 of this Schedule apply to applications for determination of geographical indications that have not been finally determined under section 40W of the _Australian Wine and Brandy Corporation Act 1980_ on the day this item commences.
 
-Australian Wine and Brandy Corporation Amendment Act (No. 1) 2007 (No. 92, 2007)
+* * *
+
+_Australian Wine and Brandy Corporation Amendment Act (No. 1) 2007
+ (No. 92, 2007)_
 
 ## Schedule 1
 
@@ -9557,7 +7703,9 @@ Australian Wine and Brandy Corporation Amendment Act (No. 1) 2007 (No. 92, 2
 
 The amendment made by item 7  applies in relation to the operations of the Committee during the financial year commencing on 1 July 2007 and during subsequent financial years.
 
-Australian Wine and Brandy Corporation Amendment Act 2010 (No. 98, 2010)
+* * *
+
+_Australian Wine and Brandy Corporation Amendment Act 2010 (No. 98, 2010)_
 
 ## Schedule 1
 
@@ -9638,7 +7786,7 @@ The amendment made by the item of this Schedule listed in column 1 of the table 
     <div>Item 25</div>
   </td>
   <td>
-    <div>Terms and conditions determined under subsection 30(2)</div>
+    <div>Terms and conditions determined under subsection 30(2)</div>
   </td>
 </tr>
 <tr>
@@ -9649,7 +7797,7 @@ The amendment made by the item of this Schedule listed in column 1 of the table 
     <div>Item 26</div>
   </td>
   <td>
-    <div>Terms and conditions determined under subsection 30(3)</div>
+    <div>Terms and conditions determined under subsection 30(3)</div>
   </td>
 </tr>
 <tr>
@@ -9671,7 +7819,8 @@ The amendment made by the item of this Schedule listed in column 1 of the table 
     <div>Item 31</div>
   </td>
   <td>
-    <div>A form approved by the Australian Wine and Brandy Corporation under paragraph 39ZB(2)(b)</div>
+    <div>A form approved by the Australian Wine and Brandy Corporation under paragraph
+      39ZB(2)(b)</div>
   </td>
 </tr></table>
 
@@ -9689,7 +7838,9 @@ The amendment made by item 14 of this Schedule applies to the export of a grap
 
 The amendment made by item 15 of this Schedule applies to conduct engaged in, or proposed to be engaged in, after the commencement of this Part.
 
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)
+* * *
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
@@ -9701,7 +7852,9 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
-Financial Framework Legislation Amendment Act (No. 1) 2011 (No. 89, 2011)
+* * *
+
+_Financial Framework Legislation Amendment Act (No. 1) 2011 (No. 89, 2011)_
 
 ## Schedule 8
 
@@ -9709,47 +7862,13 @@ Financial Framework Legislation Amendment Act (No. 1) 2011 (No. 89, 2011)
 
 The amendment made by item 2 of this Schedule applies in relation to the appointment of a member made after the commencement of that item.
 
-Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2013 (No. 17, 2013)
+## Table B
 
-## Schedule 1
+### Modifications
 
-## 6  Application
+_A.C.T. Self‑Government (Consequential Provisions) Regulations _
 
-(1)       The amendments made by this Schedule apply in relation to a supply, receipt or taking possession of wine goods that occurs on or after the commencement of this Schedule.
-
-(2)       If:
-
-                     (a)  apart from this item, a person would have been required by section 39F of the old Act to keep a record showing details required under paragraph 39F(1)(e), (f), (g), (h), (i), (j), (k) or (l) of the old Act in relation to wine goods; and
-
-                     (b)  the person would not be required to keep such a record in relation to the wine goods on or after the commencement of this Schedule;
-
-then, despite Division 2 of Part VIA of the old Act, the person is taken not to have been required to keep the record.
-
-(3)       If, apart from this item, a person was required by subsection 39G(2) of the old Act to keep a record in relation to wine goods then, despite Division 2 of Part VIA of the old Act, the person is taken not to have been required to keep the record.
-
-(4)       In this item:
-
-**_old Act_** means the _Wine Australia Corporation Act 1980_ as in force immediately before the commencement of this Schedule.
-
-Endnote 4—Uncommenced amendments
-
-This endnote sets out amendments of the _Wine Australia Corporation Act 1980_ that have not yet commenced.
-
-There are no uncommenced amendments.
-
-Endnote 5—Misdescribed amendments
-
-This endnote sets out amendments of the _Wine Australia Corporation Act 1980_ that have been misdescribed.
-
-There are no misdescribed amendments.
-
-Endnote 6—Modifications
-
-This endnote sets out modifications of the _Wine Australia Corporation Act 1980__._
-
-A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3)
-
-##### Subsection 40(9) (renumbered section 41A):
+##### Subsection 40(9) (renumbered section 41A):
 
                    Omit the subsection, substitute:
 
