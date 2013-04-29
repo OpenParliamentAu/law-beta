@@ -1,7 +1,7 @@
 
 Proceeds of Crime Act 1987
 Act No. 87 of 1987 as amended
-This compilation was prepared on 2 November 2001 taking into account amendments up to Act No. 135 of 2001
+This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -51,105 +51,105 @@ Division 4—Forfeiture in case of serious offence	45
 30A	Extension of waiting period	48
 31	Recovery of property to which section 30 applies	49
 32	Effect of quashing of conviction	52
-Division 5—Miscellaneous	54
-33	Person with interest in forfeited property may buy back the interest	54
-34	Buying out other interests in forfeited property	55
-Part IIA—Confiscated Assets Reserve	56
-34A	Establishment of Reserve	56
-34B	Payments into Reserve	56
-34C	Payments out of Reserve	57
-34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	58
-34E	Determinations by Official Trustee about suspended and distributable funds	58
-Part III—Control of property liable to confiscation	60
-Division 1—Search powers	60
-35	Powers to search for, and seize, tainted property	60
-36	Search warrants in relation to tainted property	61
-37	Search warrants may be granted by telephone	63
-38	Searches in emergencies	65
-39	Responsibility for seized property	66
-40	Return of seized property	67
-41	Issue of search warrants by Territory courts in relation to interstate indictable offences	70
-42	Search for and seizure of tainted property in relation to foreign offences	71
-Division 2—Restraining orders	76
-43	Restraining orders	76
-44	Grounds for making restraining order	78
-45	Notice of application for restraining order	81
-45A	Extension of certain restraining orders	81
-46	Persons who may appear and adduce evidence	82
-47	Notice of restraining orders	82
-48	Court may make further orders	83
-48A	Order for taxation of legal expenses to be met out of restrained property	88
-49	Official Trustee to discharge pecuniary penalty	89
-50	Charge on property subject to restraining order	93
-51	Registration of restraining orders	94
-52	Contravention of restraining orders	95
-53	Duties of Official Trustee	95
-54	Protection of Official Trustee from personal liability in certain cases	96
-55	Costs etc. payable to Official Trustee	98
-56	Court may revoke restraining orders	98
-57	When restraining order ceases to be in force	99
-58	Notice of applications under this Division	103
-59	Interim restraining order may be made in respect of foreign offence	103
-60	Registered foreign restraining orders—general	105
-61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	105
-62	Registered foreign restraining orders—undertakings	107
-63	Discharge of certain registered foreign pecuniary penalty orders	107
-64	Registered foreign restraining orders—charge on property subject to order	109
-65	Registered foreign restraining orders—time when order ceases to be in force	111
-Part IV—Information gathering powers	112
-Division 1—Production orders	112
-66	Production orders	112
-67	Variation of production orders	115
-68	Failure to comply with production order	116
-69	Production orders in relation to foreign offences	116
-Division 2—Search powers	118
-70	Powers to search for, and seize, documents relevant to locating etc. property	118
-71	Search warrant for location etc. of property	118
-72	Search warrants in relation to foreign offences	121
-Division 3—Monitoring orders	123
-73	Monitoring orders	123
-74	Existence and operation of monitoring order not to be disclosed	124
-75	Monitoring orders in relation to foreign offences	126
-Division 4—Obligations of financial institutions	127
-76	Interpretation	127
-77	Retention of records by financial institutions	128
-78	Register of original documents	129
-78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	130
-78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	131
-Part V—Offences	134
-Division 1—Money laundering	134
-81	Money laundering	134
-82	Possession etc. of property suspected of being proceeds of crime	135
-Division 3—Miscellaneous	136
-84	Prosecution of offences	136
-85	Conduct by directors, servants or agents	136
-Part VI—Enforcement of State orders in Territories	138
-Division 1—Interstate restraining orders	138
-86	Registration of interstate restraining orders	138
-87	Effect of registration	138
-88	Duration of registration	139
-89	Cancellation of registration	139
-90	Charge on property subject to registered interstate restraining order	139
-91	Powers of Official Trustee in relation to interstate restraining orders	141
-Division 2—Interstate forfeiture orders	142
-92	Registration of interstate forfeiture orders	142
-93	Effect of registration	142
-94	Duration of registration	142
-95	Cancellation of registration	143
-Division 3—Miscellaneous	144
-96	Interim registration of facsimile copies	144
-Part VII—Miscellaneous	145
-96A	Organised fraud orders	145
-97	Dealings with forfeited property	146
-98	State and Territory courts to have jurisdiction	147
-99	Standard of proof	148
-100	Appeals	148
-101	Costs	149
-102	Legal assistance	150
-102A	Indemnification of Official Trustee	150
-103	Operation of other laws not affected	151
-104	Regulations	151
-Notes		153
+Division 5—Miscellaneous	53
+33	Person with interest in forfeited property may buy back the interest	53
+34	Buying out other interests in forfeited property	54
+Part IIA—Confiscated Assets Reserve	55
+34A	Establishment of Reserve	55
+34B	Payments into Reserve	55
+34C	Payments out of Reserve	56
+34D	Transfer of balance of distributable funds to Consolidated Revenue Fund	57
+34E	Determinations by Official Trustee about suspended and distributable funds	57
+Part III—Control of property liable to confiscation	59
+Division 1—Search powers	59
+35	Powers to search for, and seize, tainted property	59
+36	Search warrants in relation to tainted property	60
+37	Search warrants may be granted by telephone	62
+38	Searches in emergencies	64
+39	Responsibility for seized property	65
+40	Return of seized property	66
+41	Issue of search warrants by Territory courts in relation to interstate indictable offences	69
+42	Search for and seizure of tainted property in relation to foreign offences	70
+Division 2—Restraining orders	75
+43	Restraining orders	75
+44	Grounds for making restraining order	77
+45	Notice of application for restraining order	80
+45A	Extension of certain restraining orders	80
+46	Persons who may appear and adduce evidence	81
+47	Notice of restraining orders	81
+48	Court may make further orders	82
+48A	Order for taxation of legal expenses to be met out of restrained property	87
+49	Official Trustee to discharge pecuniary penalty	88
+50	Charge on property subject to restraining order	92
+51	Registration of restraining orders	93
+52	Contravention of restraining orders	93
+53	Duties of Official Trustee	94
+54	Protection of Official Trustee from personal liability in certain cases	95
+55	Costs etc. payable to Official Trustee	97
+56	Court may revoke restraining orders	97
+57	When restraining order ceases to be in force	98
+58	Notice of applications under this Division	101
+59	Interim restraining order may be made in respect of foreign offence	102
+60	Registered foreign restraining orders—general	104
+61	Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property	104
+62	Registered foreign restraining orders—undertakings	106
+63	Discharge of certain registered foreign pecuniary penalty orders	106
+64	Registered foreign restraining orders—charge on property subject to order	108
+65	Registered foreign restraining orders—time when order ceases to be in force	110
+Part IV—Information gathering powers	111
+Division 1—Production orders	111
+66	Production orders	111
+67	Variation of production orders	114
+68	Failure to comply with production order	115
+69	Production orders in relation to foreign offences	115
+Division 2—Search powers	117
+70	Powers to search for, and seize, documents relevant to locating etc. property	117
+71	Search warrant for location etc. of property	117
+72	Search warrants in relation to foreign offences	120
+Division 3—Monitoring orders	122
+73	Monitoring orders	122
+74	Existence and operation of monitoring order not to be disclosed	123
+75	Monitoring orders in relation to foreign offences	125
+Division 4—Obligations of financial institutions	126
+76	Interpretation	126
+77	Retention of records by financial institutions	127
+78	Register of original documents	128
+78A	Active ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	129
+78B	Closed ADI accounts transferred to another ADI—obligations of ADIs in relation to documents	130
+Part V—Offences	133
+Division 1—Money laundering	133
+81	Money laundering	133
+82	Possession etc. of property suspected of being proceeds of crime	134
+Division 3—Miscellaneous	135
+84	Prosecution of offences	135
+85	Conduct by directors, servants or agents	135
+Part VI—Enforcement of State orders in Territories	137
+Division 1—Interstate restraining orders	137
+86	Registration of interstate restraining orders	137
+87	Effect of registration	137
+88	Duration of registration	138
+89	Cancellation of registration	138
+90	Charge on property subject to registered interstate restraining order	138
+91	Powers of Official Trustee in relation to interstate restraining orders	140
+Division 2—Interstate forfeiture orders	141
+92	Registration of interstate forfeiture orders	141
+93	Effect of registration	141
+94	Duration of registration	141
+95	Cancellation of registration	142
+Division 3—Miscellaneous	143
+96	Interim registration of facsimile copies	143
+Part VII—Miscellaneous	144
+96A	Organised fraud orders	144
+97	Dealings with forfeited property	145
+98	State and Territory courts to have jurisdiction	146
+99	Standard of proof	147
+100	Appeals	147
+101	Costs	148
+102	Legal assistance	149
+102A	Indemnification of Official Trustee	149
+103	Operation of other laws not affected	150
+104	Regulations	150
+Notes		151
 
 An Act to provide for confiscation of the proceeds of crime, and for related purposes
 Part I—Preliminary
@@ -996,7 +996,7 @@ and the police officer believes, on reasonable grounds, that it is necessary to 
 	(2)	Where:
 	(a)	a police officer seizes property under this Division; and
 	(b)	the officer believes on reasonable grounds that the property will afford evidence as to the commission of an offence that is the subject of a special investigation being conducted by the National Crime Authority;
-the Chair of the National Crime Authority shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.
+the Chairman of the National Crime Authority shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.
 	(3)	In this section:
 special investigation has the same meaning as in the National Crime Authority Act 1984.
 40  Return of seized property
@@ -1044,7 +1044,7 @@ the responsible custodian shall deal with the property as required by the order.
 	(10)	In this section:
 responsible custodian, in relation to property seized under this Division, means:
 	(a)	if subsection 39(1) applies to the property—the Commissioner; or
-	(b)	if subsection 39(2) applies to the property—to the Chair of the National Crime Authority.
+	(b)	if subsection 39(2) applies to the property—to the Chairman of the National Crime Authority.
 41  Issue of search warrants by Territory courts in relation to interstate indictable offences
 	(1)	This Division (other than section 40) applies to the issue of search warrants in a Territory as if:
 	(a)	a reference in this Division to an offence included a reference to an interstate indictable offence; and
@@ -2183,12 +2183,7 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 41: (k)
-S. 4(1) and (2) [see Table A]
-National Crime Authority Legislation Amendment Act 2001
-135, 2001
-1 Oct 2001
-Schedules 1‑7, 9‑12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 13 Oct 2001 (see Gazette 2001, No. S428) Remainder: Royal Assent
-—
+S. 4(1), (2) [see Table A]
 (a)	The Proceeds of Crime Act 1987 was amended by sections 34-50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
 	(1)	Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. 
 	(2)	Parts II, VI, VII, VIII (other than section 47) and IX and Schedule 4 shall come into operation on the day on which this Act receives the Royal Assent.
@@ -2304,10 +2299,8 @@ S. 36
 am. No. 120, 1987 
 S. 38 	
 am. No. 120, 1987 
-S. 39 	
-am. No. 135, 2001
 S. 40 	
-am. No. 120, 1987; No. 135, 2001 
+am. No. 120, 1987 
 S. 43 	
 am. No. 120, 1987; No. 120, 1988; No. 123, 1991 
 S. 44 	
