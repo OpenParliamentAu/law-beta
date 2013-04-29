@@ -1,7 +1,7 @@
 
 Industry Research and Development Act 1986
 Act No. 89 of 1986 as amended
-This compilation was prepared on 31 July 2002 taking into account amendments up to Act No. 57 of 2002
+This compilation was prepared on 18 June 2002 taking into account amendments up to Act No. 170 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -1199,17 +1199,7 @@ Taxation Laws Amendment (Research and Development) Act 2001
 170, 2001
 1 Oct 2001
 Schedule 1 (items 2-2B, 7): Royal Assent (i) Schedule 2 (items 45-50): 29 Jan 2001 (i) Schedule 2 (items 85-91): (i)
-Sch. 1 (item 2B) and Sch. 2 (item 51) [see Table A] S. 2(3) (am. by 57, 2002, Sch. 12 (item 63))
-as amended by
-
-
-
-
-Taxation Laws Amendment Act (No. 2) 2002 
-57, 2002
-3 July 2002
-Schedule 12 (item 63): (j)
-—
+Sch. 1 (item 2B) and Sch. 2 (item 51) [see Table A]
 
 (a)	The Industry Research and Development Act 1986 was amended by sections 91‑112 only of the Taxation Laws Amendment Act (No. 5) 1992, subsection 2(1) of which provides as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
@@ -1235,21 +1225,8 @@ Schedule 12 (item 63): (j)
 (i)	The Industry Research and Development Act 1986 was amended by Schedule 1 (item 2, 2A and 7) and Schedule 2 (items 45-50 and 85-91) only of the Taxation Laws Amendment (Research and Development) Act 2001, section 2 of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
-	(3)	Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Schedule 1 to the New Business Tax System (Capital Allowances) Act 2001.
-(j)	The Taxation Laws Amendment (Research and Development) Act 2001 was amended by Schedule 12 (item 63) only of the Taxation Laws Amendment Act (No. 2) 2002, subsection 2(1) (item 61) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-61.  Schedule 12, item 63
-Immediately after section 2 of the Taxation Laws Amendment (Research and Development) Act 2001 commenced
-1 October 2001
-
+	(3)	Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of the New Business Tax System (Capital Allowances) Act 2001.
+	The New Business Tax System (Capital Allowances) Act 2001 has 3 commencement dates.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
