@@ -1,1012 +1,1564 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="A4223E22CE951A34CA256FBD00043B6A/$FILE/image001.png"></v:imagedata></v:shape>
+**
 
-# Snowy Mountains Engineering Corporation Limited <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place></st1:city> Act 1993<o:p></o:p>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993 
+**
 
-**Act No. 54 of 1993 as amended<o:p></o:p>**
 
-This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="3" month="3">3 March 2005</st1:date>
-taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
+**
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section<o:p></o:p>
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
-# Contents
 
-**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+**
 
-[4](#4).            The sale day<span style="mso-tab-count: 1 dotted">                                                                                         </span>
+###  Long Title 
+**
+**
 
-**Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations<span style="mso-tab-count: 1">          </span>**
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<part>Part 1&#151;Preliminary </part>
+**
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_.
 
-[Sections 5, 6](#Sections 5, 6).                                                                                                       
+ 
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Sections 1, 2, 3, 4 and 38 commence on the day on which this Act receives
 
-**Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations<span style="mso-tab-count: 1"> </span>**
+the Royal Assent.</dd> <dt>(2)</dt><dd>Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.</dd> <dt>(3)</dt><dd>Section 37 of this Act commences on a day to be fixed by Proclamation.</dd> <dt>(4)</dt><dd>A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if the day fixed is the sale day.</dd> <dt>(5)</dt><dd>If a provision of this Act does not commence within the period of 2 years beginning on the day on which this Act receives the Royal Assent, it is taken to have been repealed on the day after the period ends. </dd> 
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 3  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[Sections 7, 8](#Sections 7, 8).                                                                                                       
+</dd> 
+<dl compact=""><dl compact="">
 
-**Part 4—Transitional and saving provisions<span style="mso-tab-count: 1">                                                             </span>** 
+_DFRDB Act_ means the _Defence Force Retirement and Death Benefits Act 1973_. _employee_ includes apprentice. _Long Service Leave Act_ means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the commencement of Part 2 of this Act. _Maternity Leave Act_ means the _Maternity Leave (Commonwealth Employees) Act 1973_. _sale day_ means the day declared under section 4\. _share_, in relation to a body corporate, means a share in the body's share capital. _SMEC_ means the body corporate known before the sale day as the Snowy Mountains Engineering Corporation Limited by whatever name called, and in whatever form that body corporate takes, from time to time. _SMEC body_ means SMEC or a SMEC subsidiary. _SMEC subsidiary_ means a body corporate that is a subsidiary of SMEC. _SRC Act_ means the _Safety Rehabilitation and Compensation Act 1988_. _Supervisory Mechanisms Act_ means the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_. _voting share_ has the same meaning as in the _Corporations Act 2001_.  </dl></dl>
 
-    **Division 1—Transitional and saving provisions in relation to long service leave<span style="mso-tab-count: 1">           </span>**
+<dl compact="">
 
-[9](#9).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+<dt>(2)</dt><dd>For the purposes of this Act, the question whether a body corporate is a
 
-[10](#10).          Long service leave for employees with less than 10 years service<span style="mso-tab-count: 1 dotted">      </span>
+subsidiary of another body corporate is to be determined in the same manner as
 
-[11](#11).          Payments in lieu of long service leave for employees with less than 10 years service<span style="mso-tab-count: 1">            </span>
+that question is determined under the _Corporations Act 2001_.
 
-[12](#12).          Payments on the death of an employee<span style="mso-tab-count: 1 dotted">                                               </span>
+</dd> </dl>
 
-[13](#13).          Employee’s long service leave credit for the purposes of sections 10 and 11<span style="mso-tab-count: 1">         </span>
+<center>Back to Top</center>
 
-[14](#14).          Division not to affect an employee’s post-sale long service leave rights<span style="mso-tab-count: 1">                </span>
+**
 
-[15](#15).          Saving—Long Service Leave Act<span style="mso-tab-count: 1 dotted">                                                       </span>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 4  The sale day 
+**
 
-    **Division 2—Transitional and saving provisions relating to the Safety Rehabilitation and Compensation Act 1988<span style="mso-tab-count: 1">                                                                                                  </span>**
+ <dl compact="">
 
-[16](#16).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+<dt>(1)</dt><dd>The Minister for Finance must, by notice in the _Gazette_, declare
 
-[17](#17).          Continued application of SRC Act<span style="mso-tab-count: 1 dotted">                                                    </span>
+the day described in subsection (2) to be the sale day.</dd> <dt>(2)</dt><dd>The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.</dd> <dt>(3)</dt><dd>The notice must be published within 14 days after the specified day. </dd> </dl>
 
-[18](#18).          Transitional provisions relating to the SRC Act that relate to SMEC employees and former SMEC employees<span style="mso-tab-count: 1"> </span>
+<center>**
 
-[19](#19).          Transitional provisions relating to Division 4A of Part VII of the SRC Act<span style="mso-tab-count: 1">          </span>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<part>Part 2&#151;Amendment of the Long Service Leave (Commonwealth Employees) Regulations (sections 5 and 6) </part>
+**</center>
 
-[20](#20).          Transitional provision relating to section 128A of the SRC Act<span style="mso-tab-count: 1 dotted">      </span>
+Note:
+ The amendments made by this Part are incorporated in the current compilation on SCALEplus of the Long Service Leave (Commonwealth Employees) Regulations.
+ For access to the wording of the amendments made by this Part, click here. 
 
-[21](#21).          Notification of amount of salary etc  paid to employees of SMEC<span style="mso-tab-count: 1 dotted">  </span>
+<center>**
 
-[22](#22).          Amendment of declarations under the SRC Act<span style="mso-tab-count: 1 dotted">                                </span>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<part>Part 3&#151;Amendment of the Maternity Leave (Commonwealth Employees) Regulations (sections 7 and 8) </part>
+**</center>
 
-    **Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits<span style="mso-tab-count: 1">                                                                                                     </span>**
+Note:
+ The amendments made by this Part are incorporated in the current compilation on SCALEplus of the Maternity Leave (Commonwealth Employees) Regulations..
+ For access to the wording of the amendments made by this Part, click here. <dl compact=""> 
 
-[23](#23).          Saving—deferred benefits under the _Superannuation Act 1922_<span style="mso-tab-count: 1 dotted">         </span>
+</dl>  
 
-[24](#24).          Saving—deferred benefits under the _Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">         </span>
+<center>**
 
-[25](#25).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<part>Part 4&#151;Transitional and saving provisions </part>
+**</center>
 
-[26](#26).          Saving—deferred benefits under the DFRDB Act<span style="mso-tab-count: 1 dotted">                            </span>
+<center>**
 
-[27](#27).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act<span style="mso-tab-count: 1">                </span>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<division>Division 1&#151;Transitional and saving provisions in relation to long service leave </division> 
+**</center>
 
-[28](#28).          Application—_Superannuation Act 1922_<span style="mso-tab-count: 1 dotted">                                           </span>
+**
 
-[29](#29).          Application—_Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                                           </span>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 9  Interpretation 
+**
 
-[30](#30).          Application—_Superannuation Act 1990_<span style="mso-tab-count: 1 dotted">                                           </span>
+ <dl compact="">
 
-    **Division 4—Other transitional and saving provisions<span style="mso-tab-count: 1">                              </span>**
+<dt>(1)</dt><dd>Unless the contrary intention appears, expressions used in this Division
 
-[31](#31).          Transitional maternity leave provisions relating to employees of SMEC who are not on maternity leave immediately before the sale day<span style="mso-tab-count: 1 dotted">                                                                             </span>
+that are also used in the Long Service Leave Act have the same respective
 
-[32](#32).          Transitional maternity leave provisions relating to employees of SMEC who are on maternity leave on or before the sale day<span style="mso-tab-count: 1 dotted">                                                                                              </span>
+meanings as in that Act.</dd> <dt>(2)</dt><dd>In this Division: </dd> </dl>
 
-[33](#33).          Saving—_Crimes (Superannuation Benefits) Act 1989_<span style="mso-tab-count: 1 dotted">                        </span>
+<def><dl compact=""><dl compact="">
 
-[34](#34).          Saving—DPP Act<span style="mso-tab-count: 1 dotted">                                                                              </span>
+_combined service period_, in relation to an employee, means the
 
-[35](#35).          Saving—_Judiciary Act 1903_<span style="mso-tab-count: 1 dotted">                                                               </span>
+total of:
 
-**Part 5—Other provisions relating to the sale of SMEC<span style="mso-tab-count: 1">                                 </span>**
+ </dl></dl>
 
-[36](#36).          SMEC not to be established by or under an Act or established by the Commonwealth<span style="mso-tab-count: 1">        </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[37](#37).          Removal of SMEC’s tax losses<span style="mso-tab-count: 1 dotted">                                                         </span>
+<dt>(a)</dt><dd>the period that is, immediately before the sale day, the employee's period
 
-[38](#38).          Exemption from State and Territory taxes and fees<span style="mso-tab-count: 1 dotted">                          </span>
+of service for the purposes of the Long Service Leave Act; and</dd>
 
-[39](#39).          Regulations connected with the sale of SMEC<span style="mso-tab-count: 1 dotted">                                  </span>
+<dt>(b)</dt><dd>the period starting on the sale day during which the employee continues to
 
-[40](#40).          Cessation of mobility rights<span style="mso-tab-count: 1 dotted">                                                              </span>
+be an employee of SMEC.
 
-[41](#41).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_<span style="mso-tab-count: 1"> </span>
+</dd>
 
-[42](#42).          Ending SMEC’s liability under the _Commonwealth Borrowing Levy Act 1987_<span style="mso-tab-count: 1">      </span>
+</dl></dl></dl>
 
-[43](#43).          A SMEC body not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_<span style="mso-tab-count: 1 dotted">                                                                       </span>
+<def><dl compact=""><dl compact="">
 
-[44](#44).          Amendments of other Acts<span style="mso-tab-count: 1 dotted">                                                               </span>
+_employee_ includes a person employed in a full-time or a part-time
 
-**Schedule—Amendments of other Acts<span style="mso-tab-count: 1">                                                                     </span>** 
+capacity. _law_ means:  </dl></dl>
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+<dl compact=""><dl compact=""><dl compact="">
 
+<dt>(a)</dt><dd>a law of the Commonwealth or of a State or Territory; or</dd>
 
-## An Act relating to the sale of the Snowy Mountains Engineering Corporation Limited, and for related purposes 
+<dt>(b)</dt><dd>regulations or any other instrument (other than an award, determination or
 
-## Part 1—Preliminary
+industrial agreement) made under such a law.
 
-##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+</dd>
 
-                   This Act may be cited as the _Snowy Mountains Engineering Corporation Limited_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_.
+</dl></dl></dl>
 
-##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
+<def><dl compact=""><dl compact="">
 
-             (1)  Section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2, 3, 4 and 38 commence on the day on which this Act receives the Royal Assent.
+_post-sale long service leave rights_, in relation to an employee,
 
-             (2)  Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.
+means any long service leave rights an employee acquires under an award,
 
-             (3)  Section 37 of this Act commences on a day to be fixed by Proclamation.
+determination, industrial agreement or law (other than this Act) on or after
 
-             (4)  A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if the day fixed is the sale day.
+the sale day.
 
-             (5)  If a provision of this Act does not commence within the period of 2 years beginning on the day on which this Act receives the Royal Assent, it is taken to have been repealed on the day after the period ends.
+ </dl></dl>
 
-##### <a id="3"></a>3  Interpretation
+<center>Back to Top</center>
 
-             (1)  In this Act, unless the contrary intention appears:
+**
 
-                    <a name="dfrdb-act"></a>**_DFRDB Act_** means the _Defence Force Retirement and Death Benefits Act 1973_.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 10  Long service leave for employees with less than 10 years service 
+**
 
-                    <a name="employe"></a>**_employee_** includes apprentice.
+<dl compact="">
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the commencement of Part 2 of this Act.
+<dt>(1)</dt><dd>This section provides that, in certain circumstances, SMEC may grant long
 
-                    <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_.
+service leave to an employee whose period of service for the purposes of the
 
-                    <a name="sale-dai"></a>**_sale day_** means the day declared under section 4.
+Long Service Leave Act was less than 10 years.</dd> <dt>(2)</dt><dd>This section applies in relation to a person who was an employee of SMEC immediately before the sale day if, at that time, the employee's period of service for the purposes of the Long Service Leave Act was less than 10 years.</dd> <dt>(3)</dt><dd>This section does not apply in relation to an employee who stops being an employee of SMEC by dying. Section 12 covers those employees.</dd> <dt>(4)</dt><dd>If, from and after the sale day, the employee continues to be employed by SMEC until his or her combined service period is at least 10 years, SMEC may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subsection 13(1).</dd> <dt>(5)</dt><dd>If: </dd> </dl>
 
-                    <a name="share"></a>**_share_**, in relation to a body corporate, means a share in the body’s share capital.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="smec"></a>**_SMEC_** means the body corporate known before the sale day as the Snowy Mountains Engineering Corporation Limited by whatever name called, and in whatever form that body corporate takes, from time to time.
+<dt>(a)</dt><dd>the employee is to stop being an employee of SMEC on or after reaching the
 
-                    <a name="smec-bodi"></a>**_SMEC body_** means SMEC or a SMEC subsidiary.
+minimum retiring age, or because of retrenchment; and</dd>
 
-                    <a name="smec-subsidiari"></a>**_SMEC subsidiary_** means a body corporate that is a subsidiary of SMEC.
+<dt>(b)</dt><dd>the employee's combined service period at the time when he or she is to
 
-                    <a name="src-act"></a>**_SRC Act_** means the _Safety Rehabilitation and Compensation Act 1988_.
+stop being an employee of SMEC is at least one year;
 
-                    <a name="supervisori-mechan-act"></a>**_Supervisory Mechanisms Act_** means the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_.
+</dd>
 
-                    <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Corporations Act 2001_.
+</dl></dl></dl>
 
-             (2)  For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate is to be determined in the same manner as that question is determined under the _Corporations Act 2001_.
+SMEC may grant the employee long service leave on full salary for a period up to the employee's long service leave credit under subsection 13(1).
 
-##### <a id="4"></a>4  The sale day
+<dl compact="">
 
-             (1)  The Minister for Finance must, by notice in the _Gazette_, declare the day described in subsection (2) to be the sale day.
+<dt>(6)</dt><dd>If a period of long service leave may be granted to an employee under
 
-             (2)  The day to be specified in the notice is the day that, in the opinion of the Minister for Finance, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
+subsection (4) or (5), SMEC may, if the employee asks in writing, grant the
 
-             (3)  The notice must be published within 14 days after the specified day.
+employee long service leave on half salary for a period not exceeding twice
 
+that first-mentioned period.</dd> <dt>(7)</dt><dd>Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee stops being an employee.</dd> <dt>(8)</dt><dd>For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if: </dd> </dl>
 
-## Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations <o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### Sections<a id=" 5, 6"></a> 5, 6
+<dt>(a)</dt><dd>that section applied to the employee; and</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+<dt>(b)</dt><dd>for the expression "section 16 or 17" in that section there were
 
-**Note:<o:p></o:p>**
+substituted the expression "section 10 of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_".
 
-The amendments made by this Part are incorporated in the compilation on FRLI.
+</dd>
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 54 of 1993.</div>
+</dl></dl></dl>
 
-<o:p> </o:p>
+**
 
-## Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations <o:p></o:p>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 11  Payments in lieu of long service leave for employees with less than 10 years service 
+**
 
-##### Sections<a id=" 7, 8"></a> 7, 8
+<dl compact="">
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+<dt>(1)</dt><dd>This section provides that, in certain circumstances, SMEC must pay an
 
-**Note:<o:p></o:p>**
+amount in respect of long service leave to an employee who has not used all of
 
-The amendments made by this Part are incorporated in the compilation on FRLI.
+his or her long service leave credit by taking long service leave under section
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 54 of 1993.</div>
+10.</dd> <dt>(2)</dt><dd>This section applies in relation to a person who was an employee of SMEC immediately before the sale day if, at that time, the employee's period of service for the purposes of the Long Service Leave Act was less than 10 years.</dd> <dt>(3)</dt><dd>This section does not apply in relation to an employee who stops being an employee of SMEC by dying. Section 12 covers those employees.</dd> <dt>(4)</dt><dd>Subject to subsection (7), if the employee stops being an employee of SMEC on or after the day on which his or her combined service period reaches 10 years, SMEC must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 13(2).</dd> <dt>(5)</dt><dd>Subject to subsection (7), if: </dd> </dl>
 
+<dl compact=""><dl compact=""><dl compact="">
 
-## Part 4—Transitional and saving provisions
+<dt>(a)</dt><dd>the employee stops being an employee of SMEC, on or after reaching the
 
-### Division 1—Transitional and saving provisions in relation to long service leave
+minimum retiring age, or because of retrenchment; and</dd>
 
-##### <a id="9"></a>9  Interpretation
+<dt>(b)</dt><dd>at that time, the employee's combined service period is at least one year;
 
-             (1)  Unless the contrary intention appears, expressions used in this Division that are also used in the Long Service Leave Act have the same respective meanings as in that Act.
+</dd>
 
-             (2)  In this Division:
-
-                    <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
-
-                     (a)  the period that is, immediately before the sale day, the employee’s period of service for the purposes of the Long Service Leave Act; and
-
-                     (b)  the period starting on the sale day during which the employee continues to be an employee of SMEC.
-
-                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
-
-                    <a name="law"></a>**_law_** means:
-
-                     (a)  a law of the Commonwealth or of a State or Territory; or
-
-                     (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
-
-                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the sale day.
-
-##### <a id="10"></a>10  Long service leave for employees with less than 10 years service
-
-             (1)  This section provides that, in certain circumstances, SMEC may grant long service leave to an employee whose period of service for the purposes of the Long Service Leave Act was less than 10 years.
-
-             (2)  This section applies in relation to a person who was an employee of SMEC immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
-
-             (3)  This section does not apply in relation to an employee who stops being an employee of SMEC by dying. Section 12 covers those employees.
-
-             (4)  If, from and after the sale day, the employee continues to be employed by SMEC until his or her combined service period is at least 10 years, SMEC may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 13(1).
-
-             (5)  If:
-
-                     (a)  the employee is to stop being an employee of SMEC on or after reaching the minimum retiring age, or because of retrenchment; and
-
-                     (b)  the employee’s combined service period at the time when he or she is to stop being an employee of SMEC is at least one year;
-
-SMEC may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 13(1).
-
-             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), SMEC may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice that first-mentioned period.
-
-             (7)  Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee stops being an employee.
-
-             (8)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 20 of the Long Service Leave Act if:
-
-                     (a)  that section applied to the employee; and
-
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 10 of the _Snowy Mountains Engineering Corporation Limited_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_”.
-
-##### <a id="11"></a>11  Payments in lieu of long service leave for employees with less than 10 years service
-
-             (1)  This section provides that, in certain circumstances, SMEC must pay an amount in respect of long service leave to an employee who has not used all of his or her long service leave credit by taking long service leave under section 10.
-
-             (2)  This section applies in relation to a person who was an employee of SMEC immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
-
-             (3)  This section does not apply in relation to an employee who stops being an employee of SMEC by dying. Section 12 covers those employees.
-
-             (4)  Subject to subsection (7), if the employee stops being an employee of SMEC on or after the day on which his or her combined service period reache<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>0 years, SMEC must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 13(2).
-
-             (5)  Subject to subsection (7), if:
-
-                     (a)  the employee stops being an employee of SMEC, on or after reaching the minimum retiring age, or because of retrenchment; and
-
-                     (b)  at that time, the employee’s combined service period is at least one year;
+</dl></dl></dl>
 
 SMEC must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 13(2).
 
-             (6)  Subject to subsection (7), if:
+<dl compact="">
 
-                     (a)  the employee stops being an employee of SMEC; and
+<dt>(6)</dt><dd>Subject to subsection (7), if:
 
-                     (b)  SMEC is satisfied that the employee left SMEC because of ill health that justified his or her so leaving; and
+</dd> </dl>
 
-                     (c)  when the employee left, his or her combined service period was at least one year;
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the employee stops being an employee of SMEC; and</dd>
+
+<dt>(b)</dt><dd>SMEC is satisfied that the employee left SMEC because of ill health that
+
+justified his or her so leaving; and</dd>
+
+<dt>(c)</dt><dd>when the employee left, his or her combined service period was at least
+
+one year;
+
+</dd>
+
+</dl></dl></dl>
 
 SMEC must pay him or her an amount equal to full salary in respect of his or her long service leave credit under subsection 13(2).
 
-             (7)  An employee may, by written notice given to SMEC before the employee stops being an employee of SMEC:
+<dl compact="">
 
-                     (a)  ask SMEC not to make a payment to the employee under this section; or
+<dt>(7)</dt><dd>An employee may, by written notice given to SMEC before the employee stops
 
-                     (b)  ask SMEC to make a payment under subsection (4), (5) or (6) of a specified amount that is less than the amount that would otherwise be payable under that subsection.
+being an employee of SMEC:
 
-             (8)  SMEC must comply with a request made under subsection (7).
+</dd> </dl>
 
-             (9)  For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  that section applied to the employee; and
+<dt>(a)</dt><dd>ask SMEC not to make a payment to the employee under this section; or</dd>
 
-                     (b)  for the expression “section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>6 and 17” in that section there were substituted the expression “section 11 of the _Snowy Mountains Engineering Corporation Limited_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_”.
+<dt>(b)</dt><dd>ask SMEC to make a payment under subsection (4), (5) or (6) of a specified
 
-##### <a id="12"></a>12  Payments on the death of an employee
+amount that is less than the amount that would otherwise be payable under that
 
-             (1)  This section applies in relation to a person who was an employee of SMEC immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
+subsection.
 
-             (2)  If:
+</dd>
 
-                     (a)  on or after the sale day, the employee dies; and
+</dl></dl></dl>
 
-                     (b)  immediately before his or her death, the employee was an employee of SMEC; and
+<dl compact="">
 
-                     (c)  immediately before his or her death, the employee’s combined service period was at least one year; and
+<dt>(8)</dt><dd>SMEC must comply with a request made under subsection (7).</dd> <dt>(9)</dt><dd>For the purposes of this section, the rate of salary to be used in working out the full salary of an employee is the rate that would be applicable to the employee under section 21 of the Long Service Leave Act if: </dd> </dl>
 
-                     (d)  immediately before his or her death, the employee had one or more dependants;
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that section applied to the employee; and</dd>
+
+<dt>(b)</dt><dd>for the expression "sections 16 and 17" in that section there were
+
+substituted the expression "section 11 of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_".
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 12  Payments on the death of an employee 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>This section applies in relation to a person who was an employee of SMEC
+
+immediately before the sale day if, at that time, the employee's period of
+
+service for the purposes of the Long Service Leave Act was less than 10
+
+years.</dd> <dt>(2)</dt><dd>If: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on or after the sale day, the employee dies; and</dd>
+
+<dt>(b)</dt><dd>immediately before his or her death, the employee was an employee of SMEC;
+
+and</dd>
+
+<dt>(c)</dt><dd>immediately before his or her death, the employee's combined service
+
+period was at least one year; and</dd>
+
+<dt>(d)</dt><dd>immediately before his or her death, the employee had one or more
+
+dependants;
+
+</dd>
+
+</dl></dl></dl>
 
 SMEC must make a payment to a dependant or to 2 or more dependants of the employee.
 
-             (3)  The total amount of the payment or payments is the amount that would have been payable to the employee under section 11 if, on the day of his or her death, the employee had instead stopped being an employee of SMEC on or after reaching the minimum retiring age.
+<dl compact="">
 
-             (4)  If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if:
+<dt>(3)</dt><dd>The total amount of the payment or payments is the amount that would have
 
-                     (a)  that section applied to an employee of SMEC; and
+been payable to the employee under section 11 if, on the day of his or her
 
-                     (b)  a reference in that section to the approving authority were a reference to SMEC; and
+death, the employee had instead stopped being an employee of SMEC on or after
 
-                     (c)  the section were further modified as set out in the following table: 
+reaching the minimum retiring age.</dd> <dt>(4)</dt><dd>If subsection (2) applies, section 23 of the Long Service Leave Act has effect as if: </dd> </dl>
 
-TABLE
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>that section applied to an employee of SMEC; and</dd>
 
-<table>
-<colgroup>
-  <col width="21%">
-  <col width="39%">
-  <col width="39%">
-</colgroup>
+<dt>(b)</dt><dd>a reference in that section to the approving authority were a reference to
 
-<tbody>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal"> Provision <o:p></o:p>  </i> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal"> Omit this expression <o:p></o:p>  </i> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> <i style="mso-bidi-font-style: normal"> Insert this expression <o:p></o:p>  </i> </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>section 23 <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>this Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>section 12 of the <i style="mso-bidi-font-style: normal">Snowy Mountains Engineering Corporation Limited</i>  <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal"> Sale </i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal"> Act 1993 </i>  <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>subsections 23(2) and (3) <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>subsection 16(7) or 17(5) <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>section 12 of the <i style="mso-bidi-font-style: normal">Snowy Mountains Engineering Corporation Limited</i>  <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal"> Sale </i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal"> Act 1993 </i>  <o:p></o:p> </div>
-    </td>
-  </tr>
-</tbody></table>
+SMEC; and</dd>
 
-##### <a id="13"></a>13  Employee’s long service leave credit for the purposes of section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>0 and 11
+<dt>(c)</dt><dd>the section were further modified as set out in the following table:
 
-             (1)  For the purposes of section 10, an employee’s long service leave credit is equal to the long service leave credit that the employee would have had under the Long Service Leave Act for the period:
+</dd>
 
-                     (a)  starting when the employee started his or her period of service; and
+</dl></dl></dl>
 
-                     (b)  ending on the sale day;
+<center>TABLE</center>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Omit this expression</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Insert this expression</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>section 23</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>this Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>section 12 of the <i>Snowy Mountains Engineering Corporation Limited Sale Act 1993</i></div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>subsections 23(2) and (3)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>subsection 16(7) or 17(5)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>section 12 of the <i>Snowy Mountains Engineering Corporation Limited Sale Act 1993</i></div>
+
+  </td>
+</tr></table>
+
+<center>Back to Top</center>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 13  Employee's long service leave credit for the purposes of sections 10 and 11 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of section 10, an employee's long service leave credit is
+
+equal to the long service leave credit that the employee would have had under
+
+the Long Service Leave Act for the period:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>starting when the employee started his or her period of service; and</dd>
+
+<dt>(b)</dt><dd>ending on the sale day;
+
+</dd>
+
+</dl></dl></dl>
 
 if the employee had been retrenched on the sale day.
 
-             (2)  For the purposes of section 11, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1), reduced by any long service leave credits used under section 10.
+<dl compact="">
 
-##### <a id="14"></a>14  Division not to affect an employee’s post-sale long service leave rights
+<dt>(2)</dt><dd>For the purposes of section 11, an employee's long service leave credit is
 
-                   To avoid doubt, it is declared that this Division does not affect an employee’s post-sale long service leave rights.
+the employee's long service leave credit worked out under subsection (1),
 
-##### <a id="15"></a>15  Saving—Long Service Leave Act
+reduced by any long service leave credits used under section 10.
 
-                   If, immediately before the sale day, the period of service under the Long Service Leave Act of an employee of SMEC was at least 10 years, then:
+</dd> </dl>
 
-                     (a)  despite the amendment of the Long Service Leave (Commonwealth Employees) Regulations by this Act, the employee’s accrued rights under that Act continue; and
+**
 
-                     (b)  that Act has effect after the sale day as if SMEC were the approving authority in relation to the employee for the purposes of that Act.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 14  Division not to affect an employee's post-sale long service leave rights 
+**
 
-<o:p> </o:p>
+<dl compact="">
 
-### Division 2—Transitional and saving provisions relating to the Safety Rehabilitation and Compensation Act 1988
+		To avoid doubt, it is declared that this Division does not affect an
 
-##### <a id="16"></a>16  Interpretation
+employee's post-sale long service leave rights.
 
-                   Unless the contrary intention appears, expressions used in this Division that are also used in the SRC Act have the same respective meanings as in that Act.
+ </dl>
 
-##### <a id="17"></a>17  Continued application of SRC Act
+**
 
-                   If SMEC stops being a Commonwealth authority for the purposes of the SRC Act, the SRC Act continues to apply in relation to SMEC to the extent, and in the manner, set out in this Division.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 15  Saving&#151;Long Service Leave Act 
+**
 
-##### <a id="18"></a>18  Transitional provisions relating to the SRC Act that relate to SMEC employees and former SMEC employees
+ <dl compact="">
 
-             (1)  The SRC Act continues to apply on and after the sale day in relation to:
+		If, immediately before the sale day, the period of service under the Long
 
-                     (a)  injuries suffered by employees of SMEC before the sale day; and
+Service Leave Act of an employee of SMEC was at least 10 years, then:
 
-                     (b)  loss of, or damage to, property incurred by employees of SMEC before the sale day;
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>despite the amendment of the Long Service Leave (Commonwealth Employees)
+
+Regulations by this Act, the employee's accrued rights under that Act continue;
+
+and</dd>
+
+<dt>(b)</dt><dd>that Act has effect after the sale day as if SMEC were the approving
+
+authority in relation to the employee for the purposes of that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<division>Division 2&#151;Transitional and saving provisions relating to the Safety Rehabilitation and Compensation Act 1988 </division> 
+**</center>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 16  Interpretation 
+**
+
+ <dl compact="">
+
+		Unless the contrary intention appears, expressions used in this Division that
+
+are also used in the SRC Act have the same respective meanings as in that Act.
+
+ </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 17  Continued application of SRC Act 
+**
+
+ <dl compact="">
+
+		If SMEC stops being a Commonwealth authority for the purposes of the SRC Act,
+
+the SRC Act continues to apply in relation to SMEC to the extent, and in the
+
+manner, set out in this Division.
+
+ </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 18  Transitional provisions relating to the SRC Act that relate to SMEC employees and former SMEC employees 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>The SRC Act continues to apply on and after the sale day in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>injuries suffered by employees of SMEC before the sale day; and</dd>
+
+<dt>(b)</dt><dd>loss of, or damage to, property incurred by employees of SMEC before the
+
+sale day;
+
+</dd>
+
+</dl></dl></dl>
 
 including employees who had stopped being employees of SMEC before the sale day.
 
-             (2)  For the purposes of subsection (1), the SRC Act continues to apply as if:
+<dl compact="">
 
-                     (a)  SMEC continues to be a Commonwealth authority; and
+<dt>(2)</dt><dd>For the purposes of subsection (1), the SRC Act continues to apply as if:
 
-                     (b)  the chief executive officer of SMEC (however described) continues to be the principal officer of a Commonwealth authority.
+</dd> </dl>
 
-##### <a id="19"></a>19  Transitional provisions relating to Division 4A of Part VII of the SRC Act
+<center>Back to Top</center>
 
-             (1)  On and after the sale day, Division 4A of Part VII of the SRC Act applies to SMEC as if:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  SMEC continues to be a Commonwealth authority; and
+<dt>(a)</dt><dd>SMEC continues to be a Commonwealth authority; and</dd>
 
-                     (b)  SMEC is not required to pay a premium under that Division in respect of that part of a financial year which occurs after the sale day; and
+<dt>(b)</dt><dd>the chief executive officer of SMEC (however described) continues to be
 
-                     (c)  the following word and paragraph were added at the end of subsection 96H(1): 
+the principal officer of a Commonwealth authority.
 
-                            “; or (f)   in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
+</dd>
 
-             (2)  If, 60 days after the sale day, an amount of premium payable by SMEC to Comcare in respect of a period before the sale day remains unpaid, the amount is a debt due to the Commonwealth and payable to Comcare.
+</dl></dl></dl>
 
-##### <a id="20"></a>20  Transitional provision relating to section 128A of the SRC Act
+**
 
-                   On and after the sale day, section 128A of the SRC Act continues to apply to SMEC as if SMEC continues to be a prescribed Commonwealth authority for the purposes of that section.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 19  Transitional provisions relating to Division 4A of Part VII of the SRC Act 
+**
 
-##### <a id="21"></a>21  Notification of amount of salary etc. paid to employees of SMEC
+<dl compact="">
 
-                   The chief executive officer (however described) of SMEC must notify the Commission, within 28 days after the sale day, of the amount of salary, wages or pay paid to employees of SMEC in the period starting on 1 July in the financial year in which the sale day occurs and ending on the day before the sale day.
+<dt>(1)</dt><dd>On and after the sale day, Division 4A of Part VII of the SRC Act applies
 
-##### <a id="22"></a>22  Amendment of declarations under the SRC Act
+to SMEC as if:
 
-             (1)  A notice published in the _Gazette_ before the sale day that declares SMEC to be a body corporate to which the SRC Act applies for the purposes of paragraph (c) of the definition of **_Commonwealth authority_** in subsection 4(1) of the SRC Act has effect from and including the sale day as if it did not contain a reference to SMEC.
+</dd> </dl>
 
-             (2)  Subsection (1) does not prevent the declaration, as affected by that subsection, being amended or revoked by the Minister.
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>SMEC continues to be a Commonwealth authority; and</dd>
 
-### Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits
+<dt>(b)</dt><dd>SMEC is not required to pay a premium under that Division in respect of
 
-##### <a id="23"></a>23  Saving—deferred benefits under the _Superannuation Act 1922_
+that part of a financial year which occurs after the sale day; and</dd>
 
-             (1)  This section applies if, immediately before the sale day, an employee of a SMEC body was a person to whom deferred benefits were applicable under section 119W of the _Superannuation Act 1922_.
+<dt>(c)</dt><dd>the following word and paragraph were added at the end of subsection
 
-             (2)  For the purposes of Division 3 of Part XA of the _Superannuation Act 1922_, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a SMEC body.
+96H(1):
 
-             (3)  This section is subject to Division 3 of Part XA of the _Superannuation Act 1922_.
+</dd>
 
-##### <a id="24"></a>24  Saving—deferred benefits under the _Superannuation Act 1976_
+</dl></dl></dl>
 
-             (1)  This section applies if, immediately before the sale day, an employee of a SMEC body was a person to whom deferred benefits were applicable under section 139 of the _Superannuation Act 1976_.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (2)  For the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, an employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a SMEC body.
+	"; or (f)	in the case of an authority&#151;the authority is not required to pay a
 
-             (3)  This section is subject to Division 3 of Part IX of the _Superannuation Act 1976_.
+premium under this Division in respect of part of a financial year.".
 
-##### <a id="25"></a>25  Saving—period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_
+</dl></dl></dl></dl>
 
-             (1)  This section applies if, immediately before the sale day, a period of employment of a person by a SMEC body was a period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_.
+<dl compact="">
 
-             (2)  Despite employment by a SMEC body having stopped being eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the period of employment continues to be a period of eligible employment for the purposes of that Division.
+<dt>(2)</dt><dd>If, 60 days after the sale day, an amount of premium payable by SMEC to
 
-##### <a id="26"></a>26  Saving—deferred benefits under the DFRDB Act
+Comcare in respect of a period before the sale day remains unpaid, the amount
 
-             (1)  This section applies if, immediately before the sale day, an employee of a SMEC body was a person to whom deferred benefits were applicable under section 78 of the DFRDB Act.
+is a debt due to the Commonwealth and payable to Comcare.
 
-             (2)  For the purposes of Division 3 of Part IX of the DFRDB Act, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a SMEC body.
+</dd> </dl>
 
-             (3)  This section is subject to Division 3 of Part IX of the DFRDB Act.
+**
 
-##### <a id="27"></a>27  Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 20  Transitional provision relating to section 128A of the SRC Act 
+**
 
-             (1)  This section applies if, immediately before the sale day, a period of employment of a person by a SMEC body was a period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act.
+<dl compact="">
 
-             (2)  Despite employment by a SMEC body having stopped being eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act, the period of employment continues to be a period of eligible employment for the purposes of that Division.
+		On and after the sale day, section 128A of the SRC Act continues to apply to
 
-##### <a id="28"></a>28  Application—_Superannuation Act 1922_
+SMEC as if SMEC continues to be a prescribed Commonwealth authority for the
 
-                   On and after the sale day, section 145 of the _Superannuation Act 1922_ does not apply in relation to SMEC.
+purposes of that section.
 
-##### <a id="29"></a>29  Application—_Superannuation Act 1976_
+ </dl>
 
-                   On and after the sale day, SMEC is not an approved authority for the purposes of the _Superannuation Act 1976_.
+**
 
-##### <a id="30"></a>30  Application—_Superannuation Act 1990_
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 21  Notification of amount of salary etc. paid to employees of SMEC 
+**
 
-                   On and after the sale day, SMEC is not an approved authority for the purposes of the _Superannuation Act 1990_.
+<dl compact="">
 
-<o:p> </o:p>
+		The chief executive officer (however described) of SMEC must notify the
 
-### Division 4—Other transitional and saving provisions 
+Commission, within 28 days after the sale day, of the amount of salary, wages
 
-##### <a id="31"></a>31  Transitional maternity leave provisions relating to employees of SMEC who are not on maternity leave immediately before the sale day
+or pay paid to employees of SMEC in the period starting on 1 July in the
 
-             (1)  This section applies if:
+financial year in which the sale day occurs and ending on the day before the
 
-                     (a)  immediately before the sale day, a person was a female employee of SMEC; and
+sale day.
 
-                     (b)  within 12 months after the sale day, the person would have been entitled to begin leave granted under the Maternity Leave Act if SMEC had continued to be a prescribed authority for the purposes of that Act.
+ </dl>
 
-             (2)  On and after the sale day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which she would have been entitled to leave as if SMEC continued to be a prescribed authority for the purposes of that Act.
+**
 
-##### <a id="32"></a>32  Transitional maternity leave provisions relating to employees of SMEC who are on maternity leave on or before the sale day
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 22  Amendment of declarations under the SRC Act 
+**
 
-             (1)  This section applies if:
+ <dl compact="">
 
-                     (a)  immediately before the sale day, a person was a female employee of SMEC; and
+<dt>(1)</dt><dd>A notice published in the _Gazette_ before the sale day that declares
 
-                     (b)  on the sale day, the person is on leave granted under the Maternity Leave Act.
+SMEC to be a body corporate to which the SRC Act applies for the purposes of
 
-             (2)  On and after the sale day, the Maternity Leave Act continues to apply to the person in relation to the confinement in respect of which the leave was granted as if SMEC continued to be a prescribed authority for the purposes of that Act.
+paragraph (c) of the definition of _Commonwealth authority_ in
 
-##### <a id="33"></a>33  Saving—_Crimes (Superannuation Benefits) Act 1989_
+subsection 4(1) of the SRC Act has effect from and including the sale day as if
 
-             (1)  Subject to subsection (2), if a person who was an employee of SMEC before the sale day committed a corruption offence while such an employee, then, on and after the sale day, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect of the offence as if SMEC continued to be a Commonwealth authority.
+it did not contain a reference to SMEC.</dd> <dt>(2)</dt><dd>Subsection (1) does not prevent the declaration, as affected by that subsection, being amended or revoked by the Minister. </dd> </dl>
 
-             (2)  A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by SMEC after the sale day.
+<center>**
 
-             (3)  A superannuation scheme in relation to which employer contributions or benefits are paid or payable by SMEC is not a superannuation scheme for the purposes of the _Crimes (Superannuation Benefits) Act 1989_ in respect of a corruption offence committed by a person after the sale day.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<division>Division 3&#151;Transitional and saving provisions in relation to superannuation and other retirement benefits </division> 
+**</center>
 
-             (4)  Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only specify that an amount paid to the Commonwealth before the sale day by or on behalf of SMEC, belongs to the Commonwealth.
+**
 
-             (5)  If:
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 23  Saving&#151;deferred benefits under the _Superannuation Act 1922_ 
+**
 
-                     (a)  a person who was an employee of SMEC before the sale day committed a corruption offence while such an employee; and
+<dl compact="">
 
-                     (b)  the person was paid benefits before, on or after the sale day out of the Consolidated Revenue Fund;
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, an employee of a
+
+SMEC body was a person to whom deferred benefits were applicable under section
+
+119W of the _Superannuation Act 1922_.</dd> <dt>(2)</dt><dd>For the purposes of Division 3 of Part XA of the _Superannuation Act 1922_, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a SMEC body.</dd> <dt>(3)</dt><dd>This section is subject to Division 3 of Part XA of the _Superannuation Act 1922_. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 24  Saving&#151;deferred benefits under the _Superannuation Act 1976_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, an employee of a
+
+SMEC body was a person to whom deferred benefits were applicable under section
+
+139 of the _Superannuation Act 1976_.</dd> <dt>(2)</dt><dd>For the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, an employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a SMEC body.</dd> <dt>(3)</dt><dd>This section is subject to Division 3 of Part IX of the _Superannuation Act 1976_. </dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 25  Saving&#151;period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, a period of
+
+employment of a person by a SMEC body was a period of eligible employment for
+
+the purposes of Division 3 of Part IX of the _Superannuation Act 1976_.</dd> <dt>(2)</dt><dd>Despite employment by a SMEC body having stopped being eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_, the period of employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 26  Saving&#151;deferred benefits under the DFRDB Act 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, an employee of a
+
+SMEC body was a person to whom deferred benefits were applicable under section
+
+78 of the DFRDB Act.</dd> <dt>(2)</dt><dd>For the purposes of Division 3 of Part IX of the DFRDB Act, the employee is taken to continue in public employment on and after the sale day while the employee continues to be employed by a SMEC body.</dd> <dt>(3)</dt><dd>This section is subject to Division 3 of Part IX of the DFRDB Act. </dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 27  Saving&#151;period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if, immediately before the sale day, a period of
+
+employment of a person by a SMEC body was a period of eligible employment for
+
+the purposes of Division 3 of Part IX of the DFRDB Act.</dd> <dt>(2)</dt><dd>Despite employment by a SMEC body having stopped being eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act, the period of employment continues to be a period of eligible employment for the purposes of that Division. </dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 28  Application&#151;_Superannuation Act 1922_ 
+**
+
+ <dl compact="">
+
+		On and after the sale day, section 145 of the _Superannuation Act 1922_ does not apply in relation to SMEC.
+
+ </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 29  Application&#151;_Superannuation Act 1976_ 
+**
+
+ <dl compact="">
+
+		On and after the sale day, SMEC is not an approved authority for the purposes
+
+of the _Superannuation Act 1976_.
+
+ </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 30  Application&#151;_Superannuation Act 1990_ 
+**
+
+ <dl compact="">
+
+		On and after the sale day, SMEC is not an approved authority for the purposes
+
+of the _Superannuation Act 1990_.
+
+ </dl>
+
+<center>**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<division>Division 4&#151;Other transitional and saving provisions </division> 
+**</center>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 31  Transitional maternity leave provisions relating to employees of SMEC who are not on maternity leave immediately before the sale day 
+**
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>immediately before the sale day, a person was a female employee of SMEC;
+
+and</dd>
+
+<dt>(b)</dt><dd>within 12 months after the sale day, the person would have been entitled
+
+to begin leave granted under the Maternity Leave Act if SMEC had continued to
+
+be a prescribed authority for the purposes of that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>On and after the sale day, the Maternity Leave Act continues to apply to
+
+the person in relation to the confinement in respect of which she would have
+
+been entitled to leave as if SMEC continued to be a prescribed authority for
+
+the purposes of that Act.
+
+</dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 32  Transitional maternity leave provisions relating to employees of SMEC who are on maternity leave on or before the sale day 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>immediately before the sale day, a person was a female employee of SMEC;
+
+and</dd>
+
+<dt>(b)</dt><dd>on the sale day, the person is on leave granted under the Maternity Leave
+
+Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>On and after the sale day, the Maternity Leave Act continues to apply to
+
+the person in relation to the confinement in respect of which the leave was
+
+granted as if SMEC continued to be a prescribed authority for the purposes of
+
+that Act.
+
+</dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 33  Saving&#151;_Crimes (Superannuation Benefits) Act 1989_ 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection (2), if a person who was an employee of SMEC before
+
+the sale day committed a corruption offence while such an employee, then, on
+
+and after the sale day, the _Crimes (Superannuation Benefits) Act 1989_ continues to apply in relation to the person in respect of the offence as
+
+if SMEC continued to be a Commonwealth authority.</dd> <dt>(2)</dt><dd>A superannuation order may not be made under the _Crimes (Superannuation Benefits) Act 1989_ in relation to employer contributions or benefits paid or payable to a superannuation scheme by SMEC after the sale day.</dd> <dt>(3)</dt><dd>A superannuation scheme in relation to which employer contributions or benefits are paid or payable by SMEC is not a superannuation scheme for the purposes of the _Crimes (Superannuation Benefits) Act 1989_ in respect of a corruption offence committed by a person after the sale day.</dd> <dt>(4)</dt><dd>Despite paragraph 19(3)(d) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only specify that an amount paid into the Consolidated Revenue Fund before the sale day by or on behalf of SMEC, belongs to the Commonwealth.</dd> <dt>(5)</dt><dd>If: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person who was an employee of SMEC before the sale day committed a
+
+corruption offence while such an employee; and</dd>
+
+<dt>(b)</dt><dd>the person was paid benefits before, on or after the sale day out of the
+
+Consolidated Revenue Fund;
+
+</dd>
+
+</dl></dl></dl>
 
 then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 1989_, an order under that paragraph may only specify that an amount equal to the total benefits paid out of the Consolidated Revenue Fund be paid to the Commonwealth.
 
-             (6)  Unless the contrary intention appears, expressions used in this section that are also used in the _Crimes (Superannuation Benefits) Act 1989_ have the same respective meanings as in that Act.
+<dl compact="">
 
-##### <a id="34"></a>34  Saving—DPP Act
+<dt>(6)</dt><dd>Unless the contrary intention appears, expressions used in this section
 
-             (1)  Despite the DPP Act ceasing to apply to certain acts, omissions or proceedings in connection with SMEC because SMEC stops being an authority of the Commonwealth for the purposes of that Act, that Act continues to apply in relation to:
+that are also used in the _Crimes (Superannuation Benefits) Act 1989_ have
 
-                     (a)  acts or omissions that occurred before the sale day; and
+the same respective meanings as in that Act.
 
-                     (b)  the taking of civil remedies connected with or arising out of a prosecution that relates to acts or omissions referred to in paragraph (a).
+</dd> </dl>
 
-             (2)  In this section:
+<center>Back to Top</center>
 
-                    <a name="dpp-act"></a>**_DPP Act_** means the _Director of Public Prosecutions Act 1983_.
+**
 
-##### <a id="35"></a>35  Saving—_Judiciary Act 1903_
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 34  Saving&#151;DPP Act 
+**
 
-             (1)  Despite section 36 of this Act, section 55E of the _Judiciary Act 1903_ continues to apply in relation to:
+ <dl compact="">
 
-                     (a)  any proceedings to which SMEC is a party that were started before the sale day; and
+<dt>(1)</dt><dd>Despite the DPP Act ceasing to apply to certain acts, omissions or
 
-                     (b)  any matter that an authorised person, by signed writing, certifies is a matter in relation to which SMEC gave written instructions before the sale day to the Australian Government Solicitor;
+proceedings in connection with SMEC because SMEC stops being an authority of
+
+the Commonwealth for the purposes of that Act, that Act continues to apply in
+
+relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>acts or omissions that occurred before the sale day; and</dd>
+
+<dt>(b)</dt><dd>the taking of civil remedies connected with or arising out of a
+
+prosecution that relates to acts or omissions referred to in paragraph (a).
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_DPP Act_ means the _Director of Public Prosecutions Act 1983_.
+
+ </dl></dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 35  Saving&#151;_Judiciary Act 1903_ 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Despite section 36 of this Act, section 55E of the _Judiciary Act 1903_ continues to apply in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any proceedings to which SMEC is a party that were started before the sale
+
+day; and</dd>
+
+<dt>(b)</dt><dd>any matter that an authorised person, by signed writing, certifies is a
+
+matter in relation to which SMEC gave written instructions before the sale day
+
+to the Australian Government Solicitor;
+
+</dd>
+
+</dl></dl></dl>
 
 as if SMEC were a body established under an Act.
 
-             (2)  A document purporting to be a certificate under subsection (1) is, unless the contrary is established, to be taken to be such a certificate.
+<dl compact="">
 
-             (3)  In this section:
+<dt>(2)</dt><dd>A document purporting to be a certificate under subsection (1) is, unless
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+the contrary is established, to be taken to be such a certificate.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
 
-                     (a)  the Secretary to the Attorney-General’s Department; or
+<def><dl compact=""><dl compact="">
 
-                     (b)  an SES employee, or acting SES employee, in that Department.
+_authorised person_ means:
 
-<o:p> </o:p>
+ </dl></dl>
 
-## Part 5—Other provisions relating to the sale of SMEC
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="36"></a>36  SMEC not to be established by or under an Act or established by the Commonwealth
+<dt>(a)</dt><dd>the Secretary to the Attorney-General's Department; or</dd>
 
-             (1)  On and after the sale day, SMEC is not taken for the purposes of a law to be:
+<dt>(b)</dt><dd>an SES employee, or acting SES employee, in that Department.
 
-                     (a)  established by or under an Act; or
+</dd>
 
-                     (b)  established by the Commonwealth;
+</dl></dl></dl>
+
+<center>**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<part>Part 5&#151;Other provisions relating to the sale of SMEC </part>
+**</center>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 36  SMEC not to be established by or under an Act or established by the Commonwealth 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>On and after the sale day, SMEC is not taken for the purposes of a law to
+
+be:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>established by or under an Act; or</dd>
+
+<dt>(b)</dt><dd>established by the Commonwealth;
+
+</dd>
+
+</dl></dl></dl>
 
 unless a law expressly provides otherwise.
 
-             (2)  To avoid doubt, it is declared that subsection (1) does not affect the operation of the _Snowy Mountains Engineering Corporation Act 1970_ or any other law before the commencement of this section.
+<dl compact="">
 
-             (3)  In subsections (1) and (2):
+<dt>(2)</dt><dd>To avoid doubt, it is declared that subsection (1) does not affect the
 
-                    <a name="law"></a>**_law_** means:
+operation of the _Snowy Mountains Engineering Corporation Act 1970_ or any
 
-                     (a)  an Act of the Commonwealth or of a State or Territory; and
+other law before the commencement of this section.</dd> <dt>(3)</dt><dd>In subsections (1) and (2): </dd> </dl>
 
-                     (b)  regulations or other instrument made under such an Act.
+<def><dl compact=""><dl compact="">
 
-##### <a id="37"></a>37  Removal of SMEC’s tax losses
+_law_ means:
 
-             (1)  A loss incurred by SMEC in a year of income ending before the year of income in which the sale day occurs is not allowable as a deduction in a year of income ending on or after the sale day.
+ </dl></dl>
 
-             (2)  Subsection (1) has effect despite anything in the _Income Tax Assessment Act 1936_ and, in particular, sections 79E, 79EA, 79EB, 79F, 80, 80AAA and 80AA of that Act.
+<center>Back to Top</center>
 
-             (3)  Unless the contrary intention appears, expressions used in subsection (1) that are also used in the _Income Tax Assessment Act 1936_ have the same respective meanings as in that Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  SMEC cannot deduct in the 1997-98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.
+<dt>(a)</dt><dd>an Act of the Commonwealth or of a State or Territory; and</dd>
 
-             (5)  This section has effect despite anything and, in particular, Division 36 and Subdivision 195-A of that Act.
+<dt>(b)</dt><dd>regulations or other instrument made under such an Act.
 
-             (6)  Unless the contrary intention appears, an expression has the same meaning in subsection (4) as in the _Income Tax Assessment Act 1997_.
+</dd>
 
-##### <a id="38"></a>38  Exemption from State and Territory taxes and fees
+</dl></dl></dl>
 
-             (1)  No tax is payable under a law of a State or a Territory in respect of:
+**
 
-                     (a)  an exempt matter; or
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 37  Removal of SMEC's tax losses 
+**
 
-                     (b)  anything done (including a transaction entered into or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, an exempt matter.
+ <dl compact="">
 
-             (2)  An authorised person may, in writing, certify that:
+<dt>(1)</dt><dd>A loss incurred by SMEC in a year of income ending before the year of
 
-                     (a)  a specified matter or thing is an exempt matter; or
+income in which the sale day occurs is not allowable as a deduction in a year
 
-                     (b)  a specified thing was done (including a transaction entered into, or an instrument or document made, executed, lodged or given) because of, or for a purpose connected with or arising out of, a specified exempt matter.
+of income ending on or after the sale day.</dd> <dt>(2)</dt><dd>Subsection (1) has effect despite anything in the _Income Tax Assessment Act 1936_ and, in particular, sections 79E, 79EA, 79EB, 79F, 80, 80AAA and 80AA of that Act.</dd> <dt>(3)</dt><dd>Unless the contrary intention appears, expressions used in subsection (1) that are also used in the _Income Tax Assessment Act 1936_ have the same respective meanings as in that Act.</dd> <dt>(4)</dt><dd>SMEC cannot deduct in the 1997-98 income year or a later income year a tax loss incurred in an income year ending before the income year in which the sale day occurs.</dd> <dt>(5)</dt><dd>This section has effect despite anything and, in particular, Division&#160;36 and Subdivision 195-A of that Act.</dd> <dt>(6)</dt><dd>Unless the contrary intention appears, an expression has the same meaning in subsection (4) as in the _Income Tax Assessment Act 1997_. </dd> </dl>
 
-             (3)  A certificate under subsection (2) is, in all courts and for all purposes, evidence of the matter stated in the certificate.
+**
 
-             (4)  In this section:
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 38  Exemption from State and Territory taxes and fees 
+**
 
-                    <a name="authorised-person"></a>**_authorised person_** means:
+ <dl compact="">
 
-                     (a)  the Minister for Finance; or
+<dt>(1)</dt><dd>No tax is payable under a law of a State or a Territory in respect of:
 
-                     (b)  the Secretary to the Department of Finance; or
+</dd> </dl>
 
-                     (c)  an SES employee, or acting SES employee, in that Department, authorised by the Secretary, in writing, for the purposes of this section.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="exempt-matter"></a>**_exempt matter_** means:
+<dt>(a)</dt><dd>an exempt matter; or</dd>
 
-                     (a)  the issue or allotment of shares by SMEC to the Commonwealth or another person on or before the sale day; or
+<dt>(b)</dt><dd>anything done (including a transaction entered into or an instrument or
 
-                     (b)  an agreement between the Commonwealth and another person relating to the sale, issue or allotment of shares in SMEC; or
+document made, executed, lodged or given) because of, or for a purpose
 
-                     (c)  the transfer of shares in SMEC by the Commonwealth or a nominee of the Commonwealth to another person; or
+connected with or arising out of, an exempt matter.
 
-                     (d)  the receipt of money (whether before, on or after the sale day) by the Commonwealth, SMEC or another person acting on behalf of the Commonwealth or SMEC from persons who are, on or before the sale day, buying or subscribing for shares in SMEC; or
+</dd>
 
-                     (e)  the operation of this Act.
+</dl></dl></dl>
 
-                    <a name="tax"></a>**_tax_** means:
+<dl compact="">
 
-                     (a)  stamp duty or any other tax; and
+<dt>(2)</dt><dd>An authorised person may, in writing, certify that:
 
-                     (b)  a fee (other than a fee payable under the _Corporations Act 2001_);
+</dd> </dl>
 
-but does not include a tax or fee (other than a fee payable under the _Corporations Act 2001_) specified in a notice signed by the Minister for Finance and published in the _Gazette_.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="39"></a>39  Regulations connected with the sale of SMEC
+<dt>(a)</dt><dd>a specified matter or thing is an exempt matter; or</dd>
 
-             (1)  Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply to regulations made under any Act that:
+<dt>(b)</dt><dd>a specified thing was done (including a transaction entered into, or an
 
-                     (a)  are connected with the sale of SMEC; and
+instrument or document made, executed, lodged or given) because of, or for a
 
-                     (b)  include a declaration that the Governor-General is satisfied that they are connected with the sale of SMEC; and
+purpose connected with or arising out of, a specified exempt matter.
 
-                     (c)  are expressed to take effect on the sale day.
+</dd>
 
-             (2)  Regulations covered by subsection (1) take effect on the sale day.
+</dl></dl></dl>
 
-##### <a id="40"></a>40  Cessation of mobility rights
+<dl compact="">
 
-             (1)  If Division 2 or 3 of Part IV of the _Public Service Act 1922_ applied to an employee of SMEC immediately before the sale day, then that Division stops applying to the employee on the sale day.
+<dt>(3)</dt><dd>A certificate under subsection (2) is, in all courts and for all purposes,
 
-             (2)  If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of SMEC immediately before the sale day, then:
+evidence of the matter stated in the certificate.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl>
 
-                     (a)  the _Officers’ Rights Declaration Act 1928_; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  Division 4 of Part IV of the _Public Service Act 1922_;
+_authorised person_ means:
 
-stop applying to the employee on the sale day.
+ </dl></dl>
 
-##### <a id="41"></a>41  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  If SMEC has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the sale day occurs, then SMEC is entitled to be paid the amount worked out using the following formula: 
+<dt>(a)</dt><dd>the Minister for Finance; or</dd>
 
-<v:shape id="_x0000_i1026" style="WIDTH: 156pt; HEIGHT: 27.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="A4223E22CE951A34CA256FBD00043B6A/$FILE/image003.wmz"></v:imagedata></v:shape>
+<dt>(b)</dt><dd>the Secretary to the Department of Finance; or</dd>
+
+<dt>(c)</dt><dd>an SES employee, or acting SES employee, in that Department, authorised by
+
+the Secretary, in writing, for the purposes of this section.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_exempt matter_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the issue or allotment of shares by SMEC to the Commonwealth or another
+
+person on or before the sale day; or</dd>
+
+<dt>(b)</dt><dd>an agreement between the Commonwealth and another person relating to the
+
+sale, issue or allotment of shares in SMEC; or</dd>
+
+<dt>(c)</dt><dd>the transfer of shares in SMEC by the Commonwealth or a nominee of the
+
+Commonwealth to another person; or</dd>
+
+<dt>(d)</dt><dd>the receipt of money (whether before, on or after the sale day) by the
+
+Commonwealth, SMEC or another person acting on behalf of the Commonwealth or
+
+SMEC from persons who are, on or before the sale day, buying or subscribing for
+
+shares in SMEC; or</dd>
+
+<dt>(e)</dt><dd>the operation of this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_tax_ means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>stamp duty or any other tax; and</dd>
+
+<dt>(b)</dt><dd>a fee (other than a fee payable under the _Corporations Act 2001_);
+
+</dd>
+
+</dl></dl></dl>
+
+but does not include a tax or fee (other than a fee payable under the _Corporations Act 2001_) specified in a notice signed by the Minister for Finance and published in the _Gazette_. 
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 39  Regulations connected with the sale of SMEC 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply
+
+to regulations made under any Act that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>are connected with the sale of SMEC; and</dd>
+
+<dt>(b)</dt><dd>include a declaration that the Governor-General is satisfied that they are
+
+connected with the sale of SMEC; and</dd>
+
+<dt>(c)</dt><dd>are expressed to take effect on the sale day.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Regulations covered by subsection (1) take effect on the sale day.
+
+</dd> </dl>
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 40  Cessation of mobility rights 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If Division 2 or 3 of Part IV of the _Public Service Act 1922_ applied to an employee of SMEC immediately before the sale day, then that
+
+Division stops applying to the employee on the sale day.</dd> <dt>(2)</dt><dd>If Division 4 of Part IV of the _Public Service Act 1922_ applied to an employee of SMEC immediately before the sale day, then: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _Officers&apos; Rights Declaration Act 1928_; and</dd>
+
+<dt>(b)</dt><dd>Division 4 of Part IV of the _Public Service Act 1922_;
+
+</dd>
+
+</dl></dl></dl>
+
+stop applying to the employee on the sale day. 
+
+**
+
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 41  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If SMEC has paid a contribution to the cost of the administration of the
+
+_Occupational Health and Safety (Commonwealth Employment) Act 1991_ under
+
+section 67H of that Act in respect of the financial year in which the sale day
+
+occurs, then SMEC is entitled to be paid the amount worked out using the
+
+following formula:
+
+</dd> </dl>
+
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00795/Html/EBE174CCAD426865CA256F710050D51F/$FILE/1202.gif)</sub>
 
 where:
 
-                    <a name="contribut"></a>**_Contribution_** means the contribution paid by SMEC in respect of that financial year.
+<def><dl compact=""><dl compact="">
 
-                    <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.
+_Contribution_ means the contribution paid by SMEC in respect of
 
-             (2)  An amount to which SMEC is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+that financial year. _No. of refund days_ means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.  </dl></dl>
 
-##### <a id="42"></a>42  Ending SMEC’s liability under the _Commonwealth Borrowing Levy Act 1987_
+<dl compact="">
 
-             (1)  Subject to subsection (2), SMEC is not liable on or after the sale day to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the sale day.
+<dt>(2)</dt><dd>An amount to which SMEC is entitled under subsection (1) must be paid out
 
-             (2)  Subsection (1) does not apply in relation to an amount of levy that was payable before the sale day.
+of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-##### <a id="43"></a>43  A SMEC body not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+</dd> </dl>
 
-             (1)  A notice published in the _Gazette_ before the sale day that declares a SMEC body to be an eligible body for the purposes of the Supervisory Mechanisms Act has effect on and after the sale day as if it did not contain a reference to a SMEC body.
+**
 
-             (2)  A notice published in the _Gazette_ before the sale day that declares a SMEC body to be a relevant body for the purposes of the Supervisory Mechanisms Act has effect on and after the sale day as if it did not contain a reference to a SMEC body.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 42  Ending SMEC's liability under the _Commonwealth Borrowing Levy Act 1987_ 
+**
 
-             (3)  Neither subsection (1) nor (2) prevents the declaration as affected by that subsection being amended or revoked by the Minister.
+<dl compact="">
 
-             (4)  In subsection (3):
+<dt>(1)</dt><dd>Subject to subsection (2), SMEC is not liable on or after the sale day to
 
-                    <a name="minist"></a>**_Minister_** has the same meaning as in the Supervisory Mechanisms Act.
+pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the sale day.</dd> <dt>(2)</dt><dd>Subsection (1) does not apply in relation to an amount of levy that was payable before the sale day. </dd> </dl>
 
-##### <a id="44"></a>44  Amendments of other Acts
+<center>Back to Top</center>
 
-                   The Acts specified in the Schedule are amended as set out in the Schedule.
+**
 
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 43  A SMEC body not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ 
+**
 
-# Schedule—Amendments of other Acts 
+<dl compact="">
 
-_Section 44_
+<dt>(1)</dt><dd>A notice published in the _Gazette_ before the sale day that declares
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
+a SMEC body to be an eligible body for the purposes of the Supervisory
 
-**Note:<o:p></o:p>**
+Mechanisms Act has effect on and after the sale day as if it did not contain a
 
-The amendments made by this Schedule are incorporated in the current compilations on SCALEplus.
+reference to a SMEC body.</dd> <dt>(2)</dt><dd>A notice published in the _Gazette_ before the sale day that declares a SMEC body to be a relevant body for the purposes of the Supervisory Mechanisms Act has effect on and after the sale day as if it did not contain a reference to a SMEC body.</dd> <dt>(3)</dt><dd>Neither subsection (1) nor (2) prevents the declaration as affected by that subsection being amended or revoked by the Minister.</dd> <dt>(4)</dt><dd>In subsection (3): </dd> </dl>
 
-_Administrative Decisions (Judicial Review) Act 1977_
+<def><dl compact=""><dl compact="">
 
-_Commonwealth Borrowing Levy Act 1987_
+_Minister_ has the same meaning as in the Supervisory Mechanisms Act.
 
-_National Crime Authority Act 1984_<span style="FONT-SIZE: 9pt">\[now cited as _Australian Crime Commission Act 2002_]</span>
+ </dl></dl>
 
-_Occupational Health and Safety (Commonwealth Employment)Act 1991_
+**
 
-_Snowy Mountains Engineering Corporation Act 1970_
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993- SECT 44  Amendments of other Acts 
+**
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 54, 1993.</div>
+ <dl compact="">
 
+		The Acts specified in the Schedule are amended as set out in the Schedule.
 
-# Notes to the _<span style="mso-no-proof: yes">Snowy Mountains Engineering Corporation Limited Sale Act 1993</span>_
+ </dl>
 
-### Note 1
+<center>**
 
-The _Snowy Mountains Engineering Corporation Limited_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_ as shown in this compilation comprises Act No. 54, 1993 amended as indicated in the Tables below.
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993Schedule&#151;Amendments of other Acts 
+**</center>
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+Section 44	
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.<o:p></o:p>
+Note:
+ The amendments made by this Schedule are incorporated in the current compilations on SCALEplus.
+ _Administrative Decisions (Judicial Review) Act 1977_
+ _Commonwealth Borrowing Levy Act 1987_
+ _National Crime Authority Act 1984_
+ _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+ _Snowy Mountains Engineering Corporation Act 1970_
+ For access to the wording of the amendments made by this Schedule, click here. 
 
-## Table of Acts
+<center>**
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="17%">
-  <col width="1%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
+###  SNOWY MOUNTAINS ENGINEERING CORPORATION LIMITED SALE ACT 1993<centreit>Notes to the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ </centreit>
+**</center>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
- </div>
-    </td>
-    <td colspan="2">
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Snowy Mountains Engineering Corporation Limited <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place> </st1:city>Act 1993</div>
-    </td>
-    <td>
-      <div>54, 1993</div>
-    </td>
-    <td colspan="2">
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="27" month="10">27 Oct 1993</st1:date></div>
-    </td>
-    <td>
-      <div>Ss. 1–4 and 38: Royal Assent 
-S. 37: 9 Nov 1993 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1993, No. S371) 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="9" month="11">9 Nov 1993</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1993, No. S334) 
+**Note 1**
 
-</div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Income Tax (Consequential Amendments) Act 1997</div>
-    </td>
-    <td>
-      <div>39, 1997</div>
-    </td>
-    <td colspan="2">
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="17" month="4">17 Apr 1997</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="1" month="7">1 July 1997</st1:date></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td colspan="2">
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 819, 820): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-    </td>
-    <td>
-      <div>55, 2001</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="28" month="6">28 June 2001</st1:date></div>
-    </td>
-    <td colspan="2">
-      <div>Ss. 4–14 and Schedule 3 (items 479–481): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="7">15 July 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S285) <i style="mso-bidi-font-style: normal">(b)</i></div>
-    </td>
-    <td>
-      <div>Ss. 4–14</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>8, 2005</div>
-    </td>
-    <td colspan="2">
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
-    </td>
-    <td>
-      <div>S. 4 and Schedule 1 (items 365, 496): Royal Assent</div>
-    </td>
-    <td>
-      <div>S. 4 and Sch. 1 (item 496)</div>
-    </td>
-  </tr>
-  <tr height="0">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody></table>
+The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ as shown in this compilation comprises Act No. 54, 1993 amended as indicated in the Tables below.
+ For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
+**Table of Acts**
 
-_(a)_     The _Snowy Mountains Engineering Corporation Limited_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_ was amended by Schedule 1 (items 819 and 820) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
-_(b)_ The _Snowy Mountains Engineering Corporation Limited_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_ was amended by Schedule 3 (items 479–481) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+  </td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
 
-                 (3)   Subject to subsections <st1:time minute="56" hour="9">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Snowy Mountains Engineering Corporation Limited Sale Act 1993</i></div>
 
-## Table of Amendments
+  </td>
+  <td colspan="1" align="left">
+    <div>54, 1993</div>
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+  </td>
+  <td colspan="1" align="left">
+    <div>27 Oct 1993</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted    am. = amended    rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 3 </div>
-    </td>
-    <td>
-      <div>am. No. 55, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 33 </div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 35 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 37 </div>
-    </td>
-    <td>
-      <div>am. No. 39, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 38 </div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999; No. 55, 2001</div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 1-4 and 38: Royal Assent 
+S. 37: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S371) 
+Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
 
+  </td>
+  <td colspan="1" align="left">
 
-## Table A
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Income Tax (Consequential Amendments) Act 1997</i></div>
 
-### Application, saving or transitional provisions
+  </td>
+  <td colspan="1" align="left">
+    <div>39, 1997</div>
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+  </td>
+  <td colspan="1" align="left">
+    <div>17 Apr 1997</div>
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+  </td>
+  <td colspan="1" align="left">
+    <div>1 July 1997</div>
 
-             (1)  If:
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-                     (a)  a decision or action is taken or another thing is made, given or done; and
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1999</div>
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Nov 1999</div>
 
-             (2)  In this section:
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items 819, 820): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-## Schedule 1
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporations (Repeals, Consequentials and Transitionals) Act 2001</i></div>
 
-## 496  Saving provision—Finance Minister’s determinations
+  </td>
+  <td colspan="1" align="left">
+    <div>55, 2001</div>
 
-If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+  </td>
+  <td colspan="1" align="left">
+    <div>28 June 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14 and Schedule 3 (items 479-481): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 4-14</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>_(a)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was amended by Schedule 1 (items 819 and 820) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+_(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was amended by Schedule 3 (items 479-481) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+	(3)	Subject to subsections&#160;(4) to (10), Schedule&#160;3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 55, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 35</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 146, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 37</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 39, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 38</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 146, 1999; No. 55, 2001</div>
+
+  </td>
+</tr></table>
+
+</def>
+
+</def></def>
+
+</def></def>
+
+</def></def></def>
+
+</def></def></def>
 
 
-<o:p> </o:p>
