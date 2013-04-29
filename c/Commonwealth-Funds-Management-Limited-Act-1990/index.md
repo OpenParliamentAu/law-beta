@@ -1,84 +1,81 @@
-![](http://www.comlaw.gov.au/Details/C2010C00847/Html/CwealthFundsMgmtLtd1990_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00738/Html/CwealthFundsMgmtLtd1990_image001.gif)
 
 # Commonwealth Funds Management Limited Act 1990
 
 **Act No. 13 of 1991 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 30 July 2002
+ taking into account amendments up to Act No. 63 of 2002
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
+Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[5](#5).            Operation of Act
+[5](#5).            Operation of Act                                                                                 3
 
-[6](#6).            Modification of Act—references to _Companies Act 1981_
+[6](#6).            Modification of Act—references to _Companies Act 1981_                  3
 
 **Part 2—Creation of capital structure and other steps prior to conversion of Company into public company**
 
-[7](#7).            Share capital of Company
+[7](#7).            Share capital of Company                                                                   4
 
-[8](#8).            Issue of shares in Company
+[8](#8).            Issue of shares in Company                                                                4
 
-[9](#9).            New name of Company
+[9](#9).            New name of Company                                                                       5
 
-[10](#10).          Company to apply to be registered as company etc 
+[10](#10).          Company to apply to be registered as company etc                           5
 
 **Part 3—Conversion of Company into a public company**
 
-[11](#11).          Effect of Part—summary
+[11](#11).          Effect of Part—summary                                                                    7
 
-[12](#12).          Company taken to be registered under Companies Act
+[12](#12).          Company taken to be registered under Companies Act                      7
 
-[13](#13).          Memorandum and Articles of Company
+[13](#13).          Memorandum and Articles of Company                                             8
 
-[14](#14).          Membership of Company
+[14](#14).          Membership of Company                                                                   8
 
-[16](#16).          Accounting records
+[16](#16).          Accounting records                                                                              8
 
-[17](#17).          Accounts
+[17](#17).          Accounts                                                                                              9
 
-[18](#18).          Operation of section 25B of the Acts Interpretation Act
+[18](#18).          Operation of section 25B of the Acts Interpretation Act                   9
 
 **Part 6—Staff matters**
 
-[29](#29).          Employment of staff members continues after transition
+[29](#29).          Employment of staff members continues after transition                 10
 
-[30](#30).          Act not to affect certain matters relating to staff members
+[30](#30).          Act not to affect certain matters relating to staff members               10
 
-[31](#31).          Effect of sections 29 and 30
+[31](#31).          Effect of sections 29 and 30                                                              11
 
-[32](#32).          Variation of terms and conditions of employment
+[32](#32).          Variation of terms and conditions of employment                            11
 
 **Part 8—Miscellaneous**
 
-[40](#40).          Judicial notice of Company’s seal
+[40](#40).          Judicial notice of Company’s seal                                                     12
 
-[48](#48).          Regulations
+[48](#48).          Regulations                                                                                        12
 
-**Part 9—Amendments of the Superannuation Act 1976** 
+**Part 9—Amendments of the Superannuation Act 1976**
 
-Sections 49 to 64
+[Sections 49 to 64](#Sections 49 to 64).                                                                                             13
 
-**Part 10—Amendments of the Superannuation Act 1990** 
+**Part 10—Amendments of the Superannuation Act 1990**
 
-Sections 65 to 69
+[Sections 65 to 69](#Sections 65 to 69).                                                                                             14
 
 **Notes** 
 
@@ -86,11 +83,11 @@ Sections 65 to 69
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Commonwealth Funds Management Limited Act 1990_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 1]</span>
 
              (1)  Part 1 and section 48 commence on the day on which this Act receives the Royal Assent.
 
@@ -180,6 +177,8 @@ Sections 65 to 69
 
              (1)  As from the commencement of this Part, the Company is to have an authorised and issued share capital divided into shares of $1 each.
 
+             (2)  The amount of the issued share capital is equal to the amount paid to the Company under subsection 8(2).
+
              (3)  As from the transition, this section has effect subject to the _Corporations Act 2001_.
 
 ##### <a id="8"></a>8  Issue of shares in Company
@@ -187,6 +186,8 @@ Sections 65 to 69
              (1)  In this section:
 
                     <a name="minimum-share-capit"></a>**_minimum share capital_** means the minimum amount that, under the _Corporations Act 2001_, may be the share capital (made up of shares of $1 each) of a company registered as a public company limited by shares.
+
+             (2)  On the commencement of this Part, an amount equal to the minimum share capital is payable to the Company out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (3)  As soon as it is practicable for the Company to do so, the Company must apply that amount in paying up, in full, shares in the Company.
 
@@ -402,7 +403,7 @@ the Company must treat the whole of the first-mentioned period as a period durin
 
 ## Part 9—Amendments of the Superannuation Act 1976
 
-##### Section<a id="s 49 to 64"></a>s 49 to 64
+##### Sections 49 to 64
 
 * * *
 
@@ -416,7 +417,7 @@ For access to the wording of the amendments made by this Part _see_ Act No. 13, 
 
 ## Part 10—Amendments of the Superannuation Act 1990
 
-##### Section<a id="s 65 to 69"></a>s 65 to 69
+##### Sections 65 to 69
 
 * * *
 
@@ -447,27 +448,25 @@ For application, saving or transitional provisions made by the _Corporations (Re
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td>
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div><i> Commonwealth Funds Management Limited Act 1990 </i></div>
@@ -479,8 +478,8 @@ of Assent</div>
     <div>21 Jan 1991</div>
   </td>
   <td>
-    <div>Part 1 (ss. 1–6) and s. 48: Royal Assent 
-Part 2 (ss. 7–10), Parts 4 and 5 (ss. 19–28): 1 Mar 1991 
+    <div>Part 1 (ss. 1-6) and s. 48: Royal Assent 
+Part 2 (ss. 7-10), Parts 4 and 5 (ss. 19-28): 1 Mar 1991 
 Ss. 50(2) and 55: ( <i>see </i>s. 2(6)) 
 Remainder: 1 July 1991</div>
   </td>
@@ -499,12 +498,12 @@ Remainder: 1 July 1991</div>
     <div>20 Nov 1996</div>
   </td>
   <td>
-    <div>Sections 13–19, 62 and Schedule 1 (item 10): Royal Assent <i>(a)</i> 
-Schedule 1 (items 1, 2, 5–9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) <i>(a)</i> 
+    <div>Sections 13-19, 62 and Schedule 1 (item 10): Royal Assent <i>(a)</i> 
+Schedule 1 (items 1, 2, 5-9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) <i>(a)</i> 
 Schedule 1 (items 3, 4): <i>(a)</i> </div>
   </td>
   <td>
-    <div>Ss. 13–19 and 62</div>
+    <div>Ss. 13-19 and 62</div>
   </td>
 </tr>
 <tr>
@@ -586,31 +585,14 @@ Schedule 1 (items 3, 4): <i>(a)</i> </div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 127–130): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    <div>Ss. 4-14 and Schedule 3 (items 127-130): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><i> Financial </i> <i> Framework Legislation Amendment Act 2010 </i></div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 11): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Ss. 4-14</div>
   </td>
 </tr></table>
 
-_(a)_     The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 1 (items 1–11) only of the _CFM Sale Act 1996_, subsections 2(1)–(3) of which provide as follows:
+_(a)_     The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 1 (items 1-11) only of the _CFM Sale Act 1996_, subsections 2(1)-(3) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -731,7 +713,7 @@ _(c)_     The _Commonwealth Funds Management Limited Act 1990_ was amend
 
          The sale day occurred on 23 December 1996 (_see Gazette_ 1997, No. S8).
 
-_(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (items 127–130) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (items 127-130) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
@@ -739,41 +721,24 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 
 <table>
 <colgroup>
-  <col width="0%">
-  <col width="33%">
+  <col width="34%">
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div>Provision affected</div>
   </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
+<tr>
   <td>
     <div>S. 3</div>
   </td>
@@ -783,9 +748,6 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
@@ -794,52 +756,21 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 58, 1996; No. 55, 2001; No. 148, 2010</div>
+    <div>am. No. 58, 1996; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div></div>
-  </td>
   <td>
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 148, 2010</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
   <td>
     <div>S. 15</div>
   </td>
@@ -849,9 +780,6 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
     <div>S. 18</div>
   </td>
   <td>
@@ -860,10 +788,7 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Part 4</div>
+    <div>Part 4 (ss. 19-24)</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
@@ -871,10 +796,7 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Ss. 19–24</div>
+    <div>Ss. 19-24</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
@@ -882,10 +804,7 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Part 5</div>
+    <div>Part 5 (ss. 25-28)</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
@@ -893,19 +812,13 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Ss. 25–27</div>
+    <div>Ss. 25-27</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div></div>
-  </td>
   <td>
     <div>S. 28</div>
   </td>
@@ -915,20 +828,6 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
     <div>Ss. 33, 34</div>
   </td>
   <td>
@@ -937,10 +836,7 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Part 7</div>
+    <div>Part 7 (ss. 35-38)</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
@@ -948,19 +844,13 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Ss. 35–38</div>
+    <div>Ss. 35-38</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div></div>
-  </td>
   <td>
     <div>S. 39</div>
   </td>
@@ -970,30 +860,13 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Ss. 41–44</div>
+    <div>Ss. 41-44</div>
   </td>
   <td>
     <div>rep. No. 58, 1996</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div></div>
-  </td>
   <td>
     <div>S. 45</div>
   </td>
@@ -1003,9 +876,6 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
     <div>Ss. 46, 47</div>
   </td>
   <td>
@@ -1014,19 +884,11 @@ _(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
     <div>S. 48</div>
   </td>
   <td>
     <div>am. No. 58, 1996</div>
   </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
  
