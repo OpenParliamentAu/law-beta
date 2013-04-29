@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00753/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00016/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003
 
 **Act No. 117 of 2003 as amended**
 
-This compilation was prepared on 22 November 2010
- taking into account amendments up to Act No. 119 of 2010
+This compilation was prepared on 1 January 2010
+ taking into account amendments up to Act No. 103 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -330,7 +330,7 @@ Definitions
 
                     <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in the _Offshore Petroleum (Safety) Regulations 2009_.
+                    <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_.
 
              (9)  If the regulations referred to in the definition of **_safety case in force in relation to a facility_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
 
@@ -372,24 +372,6 @@ Amount of safety case levy
 
              (7)  Subsection (6) does not limit subsection 33(3A) of the _Acts Interpretation Act 1901_.
 
-Transitional
-
-          (7A)  If, at a particular time during the period:
-
-                     (a)  beginning at the start of 1 January 2010; and
-
-                     (b)  ending at the end of 31 December 2012;
-
-a pipeline safety management plan is in force in relation to a pipeline that is a facility, this section has effect as if, at that time, a safety case was in force in relation to the facility.
-
-          (7B)  For the purposes of the application of this section in relation to a facility located, or proposed to be located, in the designated coastal waters of a State or the Northern Territory, if, at a particular time during the period:
-
-                     (a)  beginning at the start of 1 January 2010; and
-
-                     (b)  ending at the end of 31 December 2012;
-
-a safety case is in force in relation to the facility (within the meaning of regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_, as those last-mentioned regulations were in force immediately before the end of 31 December 2009), this section has effect as if, at that time, a safety case was in force in relation to the facility.
-
 Definitions
 
              (8)  For the purposes of the application of this section in relation to the designated coastal waters of a State or of the Northern   Territory:
@@ -406,11 +388,9 @@ Definitions
 
                     <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the applicable State or Territory safety law.
 
-                    <a name="forc-relat-pipelin"></a><a name="pipelin-safeti-manag-plan"></a>**_pipeline safety management plan_** **_in force in relation to a pipeline_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Pipelines) Regulations 2001_, as those last-mentioned regulations were in force immediately before the end of 31 December 2009.
-
                     <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in the applicable State or Territory safety law.
 
-                    <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Offshore Petroleum (Safety) Regulations 2009_.
+                    <a name="safeti-case-forc-relat-facil"></a>**_safety case in force in relation to a facility_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_.
 
              (9)  If the regulations referred to in the definition of **_safety case in force in relation to a facility_** in subsection (8) are renamed, that definition is amended by omitting the old name and substituting the new name.
 
@@ -533,24 +513,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 7, 12, 13)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>119, 2010</div>
-  </td>
-  <td>
-    <div>16 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Jan 2010 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 5, 6)</div>
   </td>
 </tr></table>
 
@@ -783,7 +745,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009; No. 119, 2010</div>
+    <div>am. No. 19, 2006; No. 120, 2008; No. 103, 2009</div>
   </td>
 </tr>
 <tr>
@@ -807,7 +769,7 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 19, 2006; No. 103, 2009; No. 119, 2010</div>
+    <div>am. No. 19, 2006; No. 103, 2009</div>
   </td>
 </tr>
 <tr>
@@ -998,23 +960,5 @@ The amendments made by this Part apply in relation to a pipeline safety manageme
 the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_ is taken to have had effect as if each reference in that Act to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ were a reference to the _Offshore Petroleum Act 2006_.
 
 (2)        Subitem (1) is enacted for the avoidance of doubt.
-
-* * *
-
-_Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 2010 (No. 119, 2010)_
-
-## Schedule 1
-
-## 5  Application of amendment—subsection 7(8) of the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
-
-(1)        The amendment made by item 1 applies in relation to a safety case in force at the start of a year if that year starts on or after 1 January 2010.
-
-(2)        The amendment made by item 1 applies in relation to a safety case in force during a part of a year (but not in force at the start of that year) if that part of the year starts on or after 1 January 2010.
-
-## 6  Application of amendment—subsection 8(8) of the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
-
-(1)        The amendment made by item 4 applies in relation to a safety case in force at the start of a year if that year starts on or after 1 January 2010.
-
-(2)        The amendment made by item 4 applies in relation to a safety case in force during a part of a year (but not in force at the start of that year) if that part of the year starts on or after 1 January 2010.
 
  
