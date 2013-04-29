@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00474/Html/327e2d2d-c5bc-4498-9fbc-4cfbc6ac786c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00831/Html/CrimesTaxationOffences1980WD02_image001.gif)
 
 # Crimes (Taxation Offences) Act 1980
 
 **Act No. 156 of 1980 as amended**
 
-This compilation was prepared on 23 May 2012
- taking into account amendments up to Act No. 18 of 2012
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -108,11 +108,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fring-benefit-tax-assess-act"></a>**_Fringe Benefits Tax Assessment Act_** means the _Fringe Benefits Tax Assessment Act 1986_.
 
-                    <a name="gst"></a>**_GST_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="gst"></a>**_GST_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999_.
 
-                    <a name="gst-law"></a>**_GST law_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="gst-law"></a>**_GST law_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="incom-tax"></a>**_income tax_** means:
 
@@ -126,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (ca)  any initial payment of income tax that is required to be made under former Division 1B of Part VI of the Income Tax Assessment Act; and
 
-                   (cb)  any amount payable to the Commissioner under former Division 1C of Part VI of the Income Tax Assessment Act;
+                    (cb)  any amount payable to the Commissioner under former Division 1C of Part VI of the Income Tax Assessment Act;
 
                      (d)  any amount payable under former section 220AAE, 220AAM or 220AAR, or former subsection 221EAA(1), of the Income Tax Assessment Act; and
 
@@ -134,7 +134,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (g)  any amount payable to the Commissioner under former subsection 220AS(1) or 221YHH(1), former subsection 221YHZC(3) or 221YHZD(1), (1A) or (1B), former subparagraph 221YHZD(2)(b)(ii), former subsection 221YN(1) or (4), 221YQ(1), 221ZC(1) or (4), 221ZD(1), 221ZN(1) or 221ZO(1) or former section 221ZP of the Income Tax Assessment Act; and
 
-                    (ga)  any amount payable to the Commissioner under Subdivision 16‑A or 16‑B in Schedule 1 to the _Taxation Administration Act 1953_; and
+                    (ga)  any amount payable to the Commissioner under Subdivision 16-A or 16-B in Schedule 1 to the _Taxation Administration Act 1953_; and
 
                      (h)  an amount payable to the Commissioner under Division 8 or 9 of Part VI of the Income Tax Assessment Act; and
 
@@ -142,11 +142,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="incom-tax-assess-act"></a>**_Income Tax Assessment Act_** means the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_.
 
-                    <a name="luxuri-car-tax"></a>**_luxury car tax_** has the meaning given by section 27‑1 of the Luxury Car Tax Act.
+                    <a name="luxuri-car-tax"></a>**_luxury car tax_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
 
                     <a name="act"></a><a name="luxuri-car-tax"></a>**_Luxury Car Tax_** **_Act_** means the _A New Tax System (Luxury Car Tax) Act 1999_.
 
-                    <a name="law"></a><a name="luxuri-car-tax"></a>**_luxury car tax_** **_law_** has the meaning given by section 27‑1 of the Luxury Car Tax Act.
+                    <a name="law"></a><a name="luxuri-car-tax"></a>**_luxury car tax_** **_law_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
 
                     <a name="petroleum-resourc-rent-tax"></a>**_petroleum resource rent tax_** means:
 
@@ -172,11 +172,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  every person (including a company) having or taking upon himself or herself the administration or control of income or property affected by any express or implied trust, or acting in any fiduciary capacity, or having the possession, control or management of the income or property of a person under any legal or other disability.
 
-                    <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33‑1 of the Wine Equalisation Tax Act.
+                    <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33-1 of the Wine Equalisation Tax Act.
 
                     <a name="act"></a><a name="wine-equalis-tax"></a>**_Wine Equalisation Tax_** **_Act_** means the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
-                    <a name="law"></a><a name="wine-tax"></a>**_wine tax_** **_law_** has the meaning given by section 33‑1 of the Wine Equalisation Tax Act.
+                    <a name="law"></a><a name="wine-tax"></a>**_wine tax_** **_law_** has the meaning given by section 33-1 of the Wine Equalisation Tax Act.
 
              (2)  In this Act:
 
@@ -272,7 +272,7 @@ the person is guilty of an offence.
 
                      (b)  is, in any way, by act or omission, directly or indirectly concerned in, or party to, the entry by another person (including a company) into an arrangement or transaction;
 
-knowing or believing that the arrangement or transaction is being entered into by the other person with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the first‑mentioned person is guilty of an offence.
+knowing or believing that the arrangement or transaction is being entered into by the other person with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the first-mentioned person is guilty of an offence.
 
              (2)  Where:
 
@@ -286,7 +286,7 @@ knowing or believing that the arrangement or transaction is being entered into b
 
                      (b)  income tax becomes due and payable by the company or trustee;
 
-the first‑mentioned person is guilty of an offence.
+the first-mentioned person is guilty of an offence.
 
                     Penalty:  Imprisonment for 10 years or 1,000 penalty units, or both.
 
@@ -300,7 +300,7 @@ the first‑mentioned person is guilty of an offence.
 
                      (c)  is, in any way, by act or omission, directly or indirectly concerned in, or party to, the entry by another person (including a company) into an arrangement or transaction;
 
-knowing or believing that the arrangement or transaction will secure, or will be likely to secure, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the first‑mentioned person is guilty of an offence.
+knowing or believing that the arrangement or transaction will secure, or will be likely to secure, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the first-mentioned person is guilty of an offence.
 
                     Penalty:  Imprisonment for 10 years or 1,000 penalty units, or both.
 
@@ -318,7 +318,7 @@ knowing or believing that the arrangement or transaction will secure, or will be
 
                      (b)  income tax becomes due and payable by the company or trustee;
 
-the first‑mentioned person is guilty of an offence.
+the first-mentioned person is guilty of an offence.
 
                     Penalty:  Imprisonment for 10 years or 1,000 penalty units, or both.
 
@@ -352,7 +352,7 @@ neither subsection (1) nor subsection (2) applies to or in relation to that 
 
                                         (A)  the sale value of the goods, for the purposes of the Income Tax Assessment Act, will be altered by the Commissioner in pursuance of a power to do so conferred on him or her by some one or other of those Acts; or
 
-                                        (B)  in a case to which clause (A) does not apply—the whole, or a substantial part, of the price payable for selling or leasing the goods has been, or is to be, paid to a person (including a company) other than the first‑mentioned company or trustee otherwise than on account of the first‑mentioned company or trustee, whether or not as agent for the first‑mentioned company or trustee;
+                                        (B)  in a case to which clause (A) does not apply—the whole, or a substantial part, of the price payable for selling or leasing the goods has been, or is to be, paid to a person (including a company) other than the first-mentioned company or trustee otherwise than on account of the first-mentioned company or trustee, whether or not as agent for the first-mentioned company or trustee;
 
                              (ii)  that income tax will become payable in relation to the transaction; and
 
@@ -804,7 +804,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Sales Tax (Off‑shore Installations) Amendment Act 1987</div>
+    <div>Sales Tax (Off-shore Installations) Amendment Act 1987</div>
   </td>
   <td>
     <div>140, 1987</div>
@@ -1326,47 +1326,13 @@ Schedule 16 (item 1): <i>(m)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>14, 2012</div>
-  </td>
-  <td>
-    <div>29 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 3–6): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum Resource Rent Tax Assessment Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>18, 2012</div>
-  </td>
-  <td>
-    <div>29 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 6): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No.1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Part II (sections 3 and 4) only of the _Taxation Laws Amendment (Tax File Numbers) Act 1988_, subsection 2(1) of which provides as follows:
+_(b)_    The _Crimes (Taxation Offences) Act 1980_ was amended by Part II (sections 3 and 4) only of the _Taxation Laws Amendment (Tax File Numbers) Act 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on the day on which the _Privacy Act 1988_ commences.
 
@@ -1603,7 +1569,7 @@ _(n)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div>Note to Heading to Part II.</div>
+    <div>Note to Heading to Part II</div>
   </td>
   <td>
     <div>ad. No. 176, 1999</div>
@@ -1970,99 +1936,6 @@ _(n)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
   </td>
 </tr></table>
 
-### Note 2
-
-_Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012 (No. 14, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 3
-
-## 3  Subsection 3(1)
-
-Insert:
-
-                    <a name="mrrt"></a>**_MRRT_** means:
-
-                     (a)  MRRT within the meaning of the _Minerals Resource Rent Tax Act 2012_; and
-
-                     (b)  shortfall interest charge (within the meaning of subsection 995‑1(1) of the _Income Tax Assessment Act 1997_) under section 280‑101 in Schedule 1 to the _Taxation Administration Act 1953_; and
-
-                     (c)  an instalment under Division 115 in that Schedule.
-
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="mrrt-law"></a>**_MRRT law_** has the meaning given by section 300‑1 of the _Minerals Resource Rent Tax Act 2012_.
-
-## 5  Part II (at the end of note to heading)
-
-Add:
-
-; (j)             minerals resource rent tax (see Part XI).
-
-## 6  At the end of the Act
-
-Add:
-
-## Part XI—Offences relating to minerals resource rent tax
-
-##### <a id="21"></a>21  Application of Part I and Part II in relation to minerals resource rent tax
-
-             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
-
-                     (a)  a reference in any of those provisions to income tax were a reference to MRRT; and
-
-                     (b)  a reference in any of those provisions to future income tax were a reference to future MRRT; and
-
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the MRRT law; and
-
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys were a reference to MRRT moneys.
-
-             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1) of this section:
-
-                     (a)  a reference in any of those provisions to the MRRT payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction is to be read as a reference to some or all of the MRRT due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
-
-                     (b)  a reference in any of those provisions to future MRRT payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction is to be read as a reference to some or all of the MRRT that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
-
-                     (c)  a reference in any of those provisions, other than subsections 10(1) and (2), in relation to a company or trustee, to MRRT moneys is to be read as a reference to:
-
-                              (i)  MRRT payable by the company or trustee; and
-
-                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of MRRT; and
-
-                     (d)  a reference in subsections 10(1) and (2) to MRRT moneys shall be read as a reference to MRRT that has been assessed under Schedule 1 to the _Taxation Administration Act 1953_.
-
-             (3)  In applying subsection 10(2), and sections 11 and 12, in accordance with subsections (1) and (2) of this section, the liability of a company or trustee in respect of MRRT moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner amending the assessment (otherwise than as a result of an objection being allowed or to give effect to a decision of the Administrative Appeals Tribunal or a court).
-
-As at 23 May 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Petroleum Resource Rent Tax Assessment Amendment Act 2012 
- (No. 18, 2012)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 6
-
-## 6  Subsection 3(1) (paragraph (a) of the definition of _petroleum resource rent tax_)
-
-Repeal the paragraph, substitute:
-
-                     (a)  tax imposed by any of the following:
-
-                              (i)  the _Petroleum Resource Rent Tax (Imposition—General) Act 2012_;
-
-                             (ii)  the _Petroleum Resource Rent Tax (Imposition—Customs) Act 2012_;
-
-                            (iii)  the _Petroleum Resource Rent Tax (Imposition—Excise) Act 2012_;
-
-                            as assessed under the _Petroleum Resource Rent Tax Assessment Act 1987_; and
-
-As at 23 May 2012 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2090,7 +1963,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2120,17 +1993,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
