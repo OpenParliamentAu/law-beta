@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00178/Html/899eac4c-7dc2-4268-914f-4925f6396d68_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00788/Html/27fb5d09-a825-4c2d-832a-1e69ec4ee81a_files/image001.gif)
 
 # Future Fund Act 2006
 
 **Act No. 12 of 2006 as amended**
 
-This compilation was prepared on 1 February 2012
+This compilation was prepared on 27 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -570,7 +570,7 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="person"></a>**_person_** (except in Division 7 of Part 4) includes a partnership.
 
-Note:          See also subsection 2C(1) of the _Acts Interpretation Act 1901_.
+Note:          See also paragraph 22(1)(a) of the _Acts Interpretation Act 1901_.
 
                     <a name="realis"></a>**_realise_** includes redeem or dispose of.
 
@@ -1168,7 +1168,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
              (2)  Board members are to be appointed by the responsible Ministers by written instrument.
 
-Note:          A Board member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (3)  A person is not eligible for appointment as a Board member unless the responsible Ministers are satisfied that the person has:
 
@@ -1210,7 +1210,7 @@ Note:          A Board member is not an employee of the Common
 
              (2)  A Board member holds office for the period that is specified in the instrument of appointment. The period must not exceed 5 years.
 
-Note:          A Board member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          For re‑appointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="41"></a>41  Remuneration and allowances of Board members
 
@@ -1268,8 +1268,6 @@ Acting Chair
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
 Acting Board member (other than the Chair)
 
              (2)  The nominated Minister may appoint a person to act as a Board member (other than the Chair):
@@ -1277,8 +1275,6 @@ Acting Board member (other than the Chair)
                      (a)  during a vacancy in the office of a Board member (other than the Chair), whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when a Board member (other than the Chair) is absent from duty or Australia, or is, for any reason, unable to perform the duties of the office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
 Qualifications
 
@@ -1291,6 +1287,20 @@ Qualifications
 unless the person is eligible for appointment as a Board member.
 
 Note:          See subsections 38(3) and (4).
+
+Validation
+
+             (4)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See section 33A of the _Acts Interpretation Act 1901_.
 
 ### Division 4—Meetings
 
@@ -2096,7 +2106,7 @@ to:
 
                      (d)  an SES employee, or acting SES employee, in a Department.
 
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In exercising powers under a delegation, the delegate must comply with any directions of the nominated Minister.
 
@@ -2118,7 +2128,7 @@ to:
 
                       (f)  an SES employee, or acting SES employee, in the Agency.
 
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In exercising powers under a delegation, the delegate must comply with any directions of the Board.
 
@@ -2947,7 +2957,7 @@ Remainder: Royal Assent</div>
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (items 643–649) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 643–649) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11)</div>
@@ -3126,7 +3136,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008; No. 46, 2011</div>
+    <div>am. No. 161, 2007; No. 155, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3355,46 +3365,6 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>Note to s. 38(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 46(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 6</b></div>
   </td>
   <td>
@@ -3523,34 +3493,10 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>S. 83A</div>
+    <div>Ss. 83A, 83B</div>
   </td>
   <td>
     <div>ad. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 83A(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83B</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 83B(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3665,6 +3611,50 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>am. No. 8, 2010</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 643  Section 5 (note at the end of the definition of _person_)
+
+Omit “paragraph 22(1)(a)”, substitute “subsection 2C(1)”.
+
+## 644  Subsection 38(2) (note)
+
+Repeal the note, substitute:
+
+Note:          A Board member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 645  Subsection 40(2) (note)
+
+Repeal the note, substitute:
+
+Note:          A Board member  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 646  At the end of subsections 46(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 647  Subsection 46(4)
+
+Repeal the subsection.
+
+## 648  Subsection 83A(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+## 649  Subsection 83B(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 27 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3835,6 +3825,8 @@ The amendment made by item 2 of Schedule 2 does not imply that, at a time be
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
