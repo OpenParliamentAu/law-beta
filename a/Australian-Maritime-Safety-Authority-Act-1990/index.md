@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00246/Html/AustMaritSafeAuth90_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00175/Html/AustMaritSafeAuth90_WD02_image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 7 April 2009
  taking into account amendments up to Act No. 20 of 2009
 
 The text of any of those amendments not in force
@@ -234,7 +234,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (3)  The question whether a company is a subsidiary of the Authority is to be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the _Companies Act 1981_.
 
-##### <a id="4"></a>4  Extension to external Territories
+##### <a id="4"></a>4  Extension to external Territories
 
                    This Act extends to all external Territories.
 
@@ -272,7 +272,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                              (ii)  an authority or agency of the Commonwealth, a State or either of those Territories; and
 
-                    (cb)  to cooperate with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft and ships; and
+                    (cb)  to co-operate with the Executive Director of Transport Safety Investigation in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to ships; and
 
                      (d)  to perform such other functions as are conferred on it by or under any other Act; and
 
@@ -400,7 +400,7 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (d)  efficiency of maritime transportation.
 
-##### <a id="12"></a>12  Consultation
+##### <a id="12"></a>12  Consultation
 
                    In the performance of its functions and the exercise of its powers, the Authority must, where appropriate, consult with government, commercial, industrial, consumer and other relevant bodies and organisations.
 
@@ -1504,7 +1504,7 @@ Royal Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 69): 1 July 2009</div>
+    <div>Schedule 1 (item 69): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1739,7 +1739,7 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 71, 1992; No. 130, 1997; No. 19, 2003; No. 20, 2009</div>
+    <div>am. No. 71, 1992; No. 130, 1997; No. 19, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2070,6 +2070,22 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
     <div>am. No. 95, 1995</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Transport Safety Investigation Amendment Act 2009 (No. 20, 2009)_
+
+The following amendment commences on 1 July 2009:
+
+## Schedule 1
+
+## 69  Paragraph 6(1)(cb)
+
+Repeal the paragraph, substitute:
+
+                    (cb)  to cooperate with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft and ships; and
+
+As at 7 April 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
