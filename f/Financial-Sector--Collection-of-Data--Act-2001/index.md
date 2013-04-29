@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00076/Html/FinanSectorCollectData2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00416/Html/FinanSectorColectData2001_WD02_image001.gif)
 
 # Financial Sector (Collection of Data) Act 2001
 
 **Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -248,7 +248,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  the corporation is a private health insurer within the meaning of the _Private Health Insurance Act 2007_; or
 
-                     (e)  the corporation is registered under section 21 of the _Life Insurance Act 1995_; or
+                     (e)  the corporation is registered under the _Life Insurance Act 1995_; or
 
                       (f)  the sole or principal business in   Australia of the corporation is insurance business within the meaning of the _Insurance Act 1973_; or
 
@@ -1104,7 +1104,7 @@ Remainder: Royal Assent</div>
     <div>27 Aug 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 203): 27 Feb 2010</div>
+    <div>Schedule 1 (item 203): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1191,7 +1191,7 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 32, 2007; No. 75, 2009</div>
+    <div>am. No. 32, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1274,6 +1274,20 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
     <div>am. No. 55, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendment commences on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 203  Paragraph 7(2)(e)
+
+After “under”, insert “section 21 of”.
+
+As at 4 September 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
