@@ -1,7 +1,7 @@
 
 Australian Hearing Services Act 1991
 Act No. 169 of 1991 as amended
-This compilation was prepared on 26 September 2001 taking into account amendments up to Act No. 111 of 2001
+This compilation was prepared on 24 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -13,7 +13,6 @@ Part 1—Preliminary	1
 2	Commencement	1
 4	Interpretation	1
 6	Act to bind Crown	3
-6A	Application of the Criminal Code	3
 Part 2—Establishment, functions and powers of authority	4
 7	Establishment of Authority	4
 8	Functions	4
@@ -98,7 +97,6 @@ Part 8—Repeal, consequential amendment and transitional provision	40
 Schedule—Official symbol of the National Acoustic Laboratories	41
 Schedule 2—Official symbol of Australian Hearing Services	41
 Notes		43
-
 An Act to establish an authority to be known as Australian Hearing Services, and for related purposes
 Part 1—Preliminary
   
@@ -131,9 +129,6 @@ voucher‑holder has the same meaning as in the Hearing Services Administration 
 	(2)	The question whether a company is a subsidiary of the Authority is to be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the Corporations Act 2001.
 6  Act to bind Crown
 		This Act binds the Crown in each of its capacities.
-6A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part 2—Establishment, functions and powers of authority
   
@@ -681,7 +676,7 @@ Notes to the Australian Hearing Services Act 1991
 Note 1
 The Australian Hearing Services Act 1991 as shown in this compilation comprises Act No. 169, 1991 amended as indicated in the Tables below. 
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
+For all other relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -758,11 +753,6 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 41): 15 July 2001 (see Gazette 2001, No. S285) (j)
 Ss. 4‑14
-Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001
-111, 2001
-17 Sept 2001
-17 Sept 2001
-S. 4
 
 (a)	The Australian Hearing Services Act 1991 was amended by Part 5 (sections 46‑48) only of the Health, Housing and Community Services Legislation Amendment Act 1992, subsection 2(5) of which provides as follows: 
 	(5)	Part 5 commences: 
@@ -804,8 +794,6 @@ S. 5
 am. No. 136, 1992; Nos. 61 and 76, 1993; Nos. 78 and 116, 1994; No. 84, 1996; No. 82, 1997
 
 rep. No. 82, 1997
-S. 6A 	
-ad. No. 111, 2001
 Note to s. 7(2) 	
 ad. No. 152, 1997
 S. 8	
@@ -951,9 +939,4 @@ Note:	A liability or instrument may be specified by name, by inclusion in a spec
 (6)	If a declaration is in force under subitem (2), regulation 3H of the Health Insurance Commission Regulations has effect as if:
 	(a)	the reference in subregulation 3H(2) of those regulations to Authority included a reference to the Commonwealth; and
 	(b)	the first reference in subregulation 3H(3) of those regulations to the Authority included a reference to the Authority.
-
-Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
