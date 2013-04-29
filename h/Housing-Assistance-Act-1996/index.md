@@ -1,58 +1,58 @@
-![](http://www.comlaw.gov.au/Details/C2006C00577/Html/HousingAssistance96_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00873/Html/D2841FE4D76BD644CA257163001F6A99/$FILE/image001.gif)
 
 # Housing Assistance Act 1996
 
 **Act No. 24 of 1996 as amended**
 
-This compilation was prepared on 4 October 2006
- taking into account amendments up to Act No. 108 of 2006
+This compilation was prepared on 30 March 2000
+taking into account amendments up to Act No. 146 of 1999
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, 
+Canberra
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        4
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   4
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           4
 
-[4](#4).            Objects
+[4](#4).            Objects                                                                                                 5
 
-[5](#5).            Form of inter-government housing agreement
+[5](#5).            Form of inter-government housing agreement                                     6
 
-[6](#6).            Inter-government housing agreements
+[6](#6).            Inter-government housing agreements                                                 7
 
-[7](#7).            Grants to States for housing
+[7](#7).            Grants to States for housing                                                                8
 
-[8](#8).            Payments for research, development, demonstration and evaluation
+[8](#8).            Payments for research, development, demonstration and evaluation  8
 
-[9](#9).            State expenditure from its own resources
+[9](#9).            State expenditure from its own resources                                            9
 
-[10](#10).          Minister may authorise payments if no agreement in force in first assistance year
+[10](#10).          Minister may authorise payments if no agreement in force in first assistance year                9
 
-[11](#11).          Payments to be made out of money appropriated
+[11](#11).          Payments to be made out of money appropriated                            10
 
-[12](#12).          Determinations to be in writing
+[12](#12).          Determinations to be in writing                                                         10
 
-[13](#13).          Delegation
+[13](#13).          Delegation                                                                                          10
 
-[14](#14).          Annual report by Minister
+[14](#14).          Annual report by Minister                                                                11
 
-[15](#15).          Regulations
+[15](#15).          Regulations                                                                                        11
 
-[16](#16).          Schedule(s)
+[16](#16).          Schedule(s)                                                                                         11
 
 **Schedule 1—Amendment of the Housing Assistance Act 1989** 
 
 **Notes** 
+
 
 ## An Act to assist people to obtain access to housing that is affordable and appropriate to their needs, and for related purposes
 
@@ -78,7 +78,7 @@ Preamble
 
                      (d)  the enactment of legislation such as the _Human Rights and Equal Opportunity Commission Act 1986_.
 
-                   Accordingly the Parliament considers that the provision, by the Governments of the Commonwealth, the States, the Australian   Capital Territory and the Northern Territory, of housing assistance to people requiring access to affordable and appropriate housing is essential to reduce poverty and its effects on individuals and on the community as a whole.
+                   Accordingly the Parliament considers that the provision, by the Governments of the Commonwealth, the States, the Australian Capital Territory and the Northern Territory, of housing assistance to people requiring access to affordable and appropriate housing is essential to reduce poverty and its effects on individuals and on the community as a whole.
 
                    The Parliament therefore intends that:
 
@@ -90,7 +90,7 @@ Preamble
 
                      (h)  housing assistance for which money is provided under this Act will have as its express objective the obtaining of benefits by the people who receive the assistance in ways that are effective and ensure that money provided is spent efficiently and is properly accounted for.
 
-                   In giving effect to the above intentions, the Parliament recognises that it is desirable for the Governments of the Commonwealth, the States, the Australian Capital Territory and the Northern   Territory to:
+                   In giving effect to the above intentions, the Parliament recognises that it is desirable for the Governments of the Commonwealth, the States, the Australian Capital Territory and the Northern Territory to:
 
                       (i)  work together in providing access to affordable appropriate housing and work in cooperation with local governing bodies, as appropriate, in view of the regulatory and other functions of those bodies with respect to the design, planning and management of cities and towns; and
 
@@ -101,6 +101,7 @@ Preamble
                    The Parliament regards it as essential that, in giving effect to these intentions, housing assistance funded under this Act will be planned and delivered so as to take full account of the range of factors that contribute to the quality of life of the people receiving the assistance.
 
                    These factors include the liveability of communities, and equality of opportunity, non-discrimination, and respect for dignity and self-esteem, for people receiving housing assistance.
+
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -132,7 +133,7 @@ Preamble
 
                     <a name="local-govern-bodi"></a>**_local governing body_** has the same meaning as in the Local Government (Financial Assistance) Act 1995.
 
-                    <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
+                    <a name="state"></a>**_State_** includes the Australian Capital Territory and the Northern Territory.
 
                     <a name="state-hous-expenditur"></a>**_State housing expenditure_**, in relation to a State and in respect of an assistance year, means the total amount that the State has spent, or proposes to spend, out of its own financial resources in respect of that year in relation to housing in accordance with an inter-government housing agreement.
 
@@ -176,7 +177,7 @@ Housing assistance to be implemented through inter-government agreements
 
 ##### <a id="5"></a>5  Form of inter-government housing agreement
 
-(1)  For the purposes of this Act, the Minister may, by legislative instrument, determine a form of agreement dealing with the provision of housing assistance.
+(1)  For the purposes of this Act, the Minister may determine a form of agreement dealing with the provision of housing assistance.
 
              (2)  If the form is varied or revoked, the variation or revocation does not affect the validity of an inter-government housing agreement entered into before the variation or revocation took effect. 
 
@@ -202,21 +203,19 @@ Housing assistance to be implemented through inter-government agreements
 
                       (j)  arrangements for the evaluation of such an agreement.
 
-             (4)  Section 42 of the _Legislative Instruments Act 2003_ applies to an instrument determining, varying or revoking a form of agreement under subsection (1).
-
-Note:          Section 42 of the _Legislative Instruments Act 2003_ deals with disallowance of legislative instruments.
+             (4)  An instrument determining, varying or revoking a form of agreement under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="6"></a>6  Inter-government housing agreements
 
-(1)  This section applies if an instrument (the **_legislative instrument_**) is in force under section 5.
+(1)  This section applies if an instrument (the **_disallowable instrument_**) is in force under section 5.
 
-             (2)  The Commonwealth may make an agreement or agreements with a State or States substantially in accordance with the form set out in the legislative instrument in so far as that form is applicable to the State or States concerned.
+             (2)  The Commonwealth may make an agreement or agreements with a State or States substantially in accordance with the form set out in the disallowable instrument in so far as that form is applicable to the State or States concerned.
 
              (3)  The Commonwealth may make, with the other party or parties to an inter-government housing agreement, a subsidiary agreement or subsidiary agreements for the purpose of giving effect to the inter-government housing agreement.
 
 (4)  Subject to subsection (5), the Commonwealth may agree with the other party or parties to an inter-government housing agreement, or to a subsidiary agreement referred to in subsection (3), to vary the agreement or to revoke the agreement and make a new agreement under subsection (2) or (3), as the case may be, in place of the revoked agreement.
 
-             (5)  An inter-government housing agreement may not be varied if the agreement as varied would not be substantially in accordance with the form set out in the legislative instrument so far as that form is applicable to the State or States that are parties to the agreement.
+             (5)  An inter-government housing agreement may not be varied if the agreement as varied would not be substantially in accordance with the form set out in the disallowable instrument so far as that form is applicable to the State or States that are parties to the agreement.
 
 ##### <a id="7"></a>7  Grants to States for housing
 
@@ -306,6 +305,7 @@ The Governor-General may make regulations prescribing matters necessary or conve
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
+
 # Schedule 1—Amendment of the Housing Assistance Act 1989
 
 ## 1  Section 3 (definition of _grant year_)
@@ -313,6 +313,7 @@ The Governor-General may make regulations prescribing matters necessary or conve
 Omit “1999”, substitute “1996”.
 
  
+
 
 # Notes to the _Housing Assistance Act 1996_
 
@@ -331,84 +332,73 @@ The _Housing Assistance Act 1996_ as shown in this compilation comprises Act No.
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
-and year</div>
-  </td>
-  <td>
-    <div>Date 
-of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Housing Assistance Act 1996</div>
-  </td>
-  <td>
-    <div>24, 1996</div>
-  </td>
-  <td>
-    <div>28 June 1996</div>
-  </td>
-  <td>
-    <div>Ss. 1–6 and 
-12–16:Royal Assent 
-Remainder: 1 July 1996</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 516–518): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>108, 2006</div>
-  </td>
-  <td>
-    <div>27 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 96–99): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year 
+ </div>
+    </td>
+    <td>
+      <div>Date 
+of Assent 
+ </div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Housing Assistance Act 1996</div>
+    </td>
+    <td>
+      <div>24, 1996</div>
+    </td>
+    <td>
+      <div>28 June 1996</div>
+    </td>
+    <td>
+      <div>Ss. 1-6 and 12-16:Royal Assent 
+Remiander: 1 July 1996 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 516-518): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_     The _Housing Assistance Act 1996_ was amended by Schedule 1 (items 516–518) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+_(a)_     The _Housing Assistance Act 1996_ was amended by Schedule 1 (items 516-518) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
+
 
 ## Table of Amendments
 
@@ -433,29 +423,24 @@ _(a)_     The _Housing Assistance Act 1996_ was amended by Schedule 1 (i
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Ss. 5, 6</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
  
