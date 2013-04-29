@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image001.gif)
 
 # ACIS Administration Act 1999
 
 **Act No. 139 of 1999 as amended**
 
-This compilation was prepared on 4 January 2010
- taking into account amendments up to Act No. 136 of 2009
+This compilation was prepared on 8 October 2009
+ taking into account amendments up to Act No. 94 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -378,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Consequential amendments** 
 
-Customs Act 1901                                                                                                    109
+Customs Act 1901                                                                                                    110
 
 **Notes** 
 
@@ -402,21 +402,25 @@ Customs Act 1901                     �
 
              (1)  This Act sets up ACIS for the purpose set out in section 3\. Under ACIS, participants receive duty credit which can be applied against customs duty payable, or paid, on certain eligible imports (item 41E of Schedule 4 to the Tariff and subsection 74A(1) of this Act).
 
-          (1A)  There are 2 stages in ACIS:
+          (1A)  There are 3 stages in ACIS:
 
                      (a)  Stage 1—the period commencing on the scheme commencement date and ending 31 December 2005; and
 
-                     (b)  Stage 2—the period commencing on 1 January 2006 and ending on 31 December 2010.
+                     (b)  Stage 2—the period commencing on 1 January 2006 and ending on 31 December 2010; and
+
+                     (c)  Stage 3—the period commencing on 1 January 2011 and ending on 31 December 2015.
 
              (2)  Each ACIS Stage has a cap on the value of certain duty credit that may be entered in the ACIS ledger in respect of that stage. The stage caps are as follows:
 
                      (a)  ACIS Stage 1—$2,000,000,000;
 
-                     (b)  ACIS Stage 2—$2,000,000,000.
+                     (b)  ACIS Stage 2—$2,000,000,000;
+
+                     (c)  ACIS Stage 3—$1,000,000,000.
 
 There are also personal limits on each participant in respect of each ACIS year (see section 54).
 
-          (2A)  In ACIS Stage 2, the stage cap will be divided into separate funding pools—one for MVPs and the other for participants who are not MVPs (see section 55).
+          (2A)  In ACIS Stages 2 and 3, the stage cap will be divided into separate funding pools—one for MVPs and the other for participants who are not MVPs (see section 55).
 
              (3)  In ACIS Stage 2, the R&amp;D scheme operates to provide to MVPs, within the funding pool for MVPs, duty credits that are unmodulated type J investment credits (see Part 5A).
 
@@ -494,13 +498,15 @@ Note 2:       If the specified penalty is imprisonment only, section
 
                     <a name="aci-lgere"></a>**_ACIS ledger_** means the ledger established by the Secretary under section 62.
 
-                    <a name="aci-stage"></a>**_ACIS Stage_** means ACIS Stage 1 or ACIS Stage 2.
+                    <a name="aci-stage"></a>**_ACIS Stage_** means ACIS Stage 1, ACIS Stage 2 or ACIS Stage 3.
 
                     <a name="aci-stage"></a>**_ACIS Stage 1_** means the period commencing on the scheme commencement date and ending on 31 December 2005.
 
                     <a name="aci-stage"></a>**_ACIS Stage 2_** means the period commencing on 1 January 2006 and ending on 31 December 2010.
 
-                    <a name="aci-year"></a>**_ACIS year_** means the year commencing on the scheme commencement date and each succeeding year before the year commencing 1 January 2011.
+                    <a name="aci-stage"></a>**_ACIS Stage 3_** means the period commencing on 1 January 2011 and ending on 31 December 2015.
+
+                    <a name="aci-year"></a>**_ACIS year_** means the year commencing on the scheme commencement date and each succeeding year before the year commencing 1 January 2016.
 
                     <a name="acp"></a>**_ACP_** means a person registered as an automotive component producer under section 26 _._
 
@@ -594,7 +600,9 @@ whether that engine is a dressed or undressed engine, whether it is a short or l
 
                      (a)  for ACIS Stage 1—the quarter ending on 31 December 2005; and
 
-                     (b)  for ACIS Stage 2—the quarter ending on 31 December 2010.
+                     (b)  for ACIS Stage 2—the quarter ending on 31 December 2010; and
+
+                     (c)  for ACIS Stage 3—the quarter ending on 31 December 2015.
 
                     <a name="mvp-own-us"></a>**_for the MVP’s own use_**, in relation to type B investment and type C investment, has the meaning provided for in the regulations, if regulations have been made under subsection (4).
 
@@ -968,7 +976,7 @@ Regulations may provide for certain matters relating to research and development
 
                              (ii)  the amount that is to be the maximum claimable value in relation to that kind of allowable research and development for the purposes of this Act.
 
-##### <a id="6B"></a>6B  Plant and equipment sold by participant
+##### 6B  Plant and equipment sold by participant
 
                    If approved plant and equipment is sold by, or on behalf of, a participant, the investment in that plant and equipment is to be treated, for the purposes of the operation of sections 43, 44, 46, 48 and 50, with effect from the start of the quarter in which that sale took place, as if the investment had never occurred.
 
@@ -1802,7 +1810,7 @@ Note:          Unmodulated type J investment credit is worked 
 
              (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit to be issued to the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image002.gif)
 
 where:
 
@@ -1810,13 +1818,11 @@ where:
 
 Note:          The definition of **_production value_** refers to **_MVP production_**. **_MVP production_** includes production of motor vehicles. A passenger motor vehicle or specified load-carrying vehicle is a motor vehicle for the purposes of ACIS.
 
-                    <a name=""></a>**_B_** is 7.5%.
-
-                    <a name=""></a>**_C_** is the production value of MVP production by that MVP in the quarter concerned (other than passenger motor vehicles, and specified load-carrying vehicles, that are sold in the Australian or New Zealand markets).
+                    <a name=""></a>**_B_** is the general tariff rate applying to imports of passenger motor vehicles at the time the sales described in component A of the formula took place.
 
              (2)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated capped production credit for the MVP for that quarter in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image003.gif)
 
 where:
 
@@ -1824,7 +1830,7 @@ where:
 
                     <a name=""></a>**_B_** has the meaning provided in subsection (1).
 
-                    <a name=""></a>**_C_** has the meaning provided in subsection (1).
+                    <a name=""></a>**_C_** is the production value of MVP production by that MVP in the quarter concerned (other than passenger motor vehicles, and specified load-carrying vehicles, that are sold in the Australian or New   Zealand markets).
 
                     <a name="ca"></a>**_CA_** is the total amount of other Commonwealth assistance (if any) received by the MVP in relation to the production described in component A of the formula and to the production described in component C of the formula.
 
@@ -1832,7 +1838,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type A investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image004.gif)
 
 where:
 
@@ -1848,7 +1854,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type B investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image005.gif)
 
 where:
 
@@ -1864,7 +1870,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type C investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image006.gif)
 
 where:
 
@@ -1882,7 +1888,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type D investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image007.gif)
 
 where:
 
@@ -1898,7 +1904,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type E investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image008.gif)
 
 where:
 
@@ -1916,7 +1922,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type F investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image009.gif)
 
 where:
 
@@ -1932,7 +1938,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type G investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image010.gif)
 
 where:
 
@@ -1950,7 +1956,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type H investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image011.gif)
 
 where:
 
@@ -1966,7 +1972,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type I investment in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00032/Html/ACISAdmin1999_WD02HYP_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image012.gif)
 
 where:
 
@@ -2058,11 +2064,22 @@ Note:          Unmodulated type J investment credit can only b
   <td>
     <div>$2,000,000,000</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>ACIS Stage 3</div>
+  </td>
+  <td>
+    <div>$1,000,000,000</div>
+  </td>
 </tr></table>
 
-Stage 2 cap divided between MVPs and others
+Stage 2 and 3 caps divided between MVPs and others
 
-             (2)  In ACIS Stage 2, the stage cap will be divided into funding pools of amounts available to be entered in the ACIS ledger for MVPs and amounts available to be entered in the ledger for participants who are not MVPs.
+             (2)  In ACIS Stages 2 and 3, the stage cap will be divided into funding pools of amounts available to be entered in the ACIS ledger for MVPs and amounts available to be entered in the ledger for participants who are not MVPs.
 
 Note:          See the guidelines made under section 55 for how the division is to occur.
 
@@ -2264,7 +2281,7 @@ Scheme a disallowable instrument
 
              (2)  The ledger may be kept in an electronic form.
 
-             (3)  The ledger is to be divided into 2 parts—one part for duty credits issued in respect of each ACIS Stage.
+             (3)  The ledger is to be divided into 3 parts—one part for duty credits issued in respect of each ACIS Stage.
 
 ##### <a id="63"></a>63  Information to be kept in ledger
 
@@ -2842,7 +2859,7 @@ the person is not entitled to the duty credit.
 
 the person is liable to pay to the Commonwealth an unearned credit liability.
 
-##### <a id="96"></a>96  Amount of unearned credit liability
+##### <a id="96"></a>96  Amount of unearned credit liability
 
                    The amount of an unearned credit liability of a person is an amount equal to the amount of duty credit to which the person is not entitled.
 
@@ -3238,17 +3255,21 @@ the AAT’s decision can only be given effect to if:
 
 # Schedule 1—Consequential amendments
 
-<h9 class="ActHead9">Customs Act 1901</h9>
+<h9 class="ActHead9">Customs Act 1901
+
+ </h9>
 
 * * *
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilation on ComLaw of the _Customs Act 1901._
+ The amendments made by this Schedule are incorporated in the compilation on ComLaw of the _Customs Act 1901._
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 139, 1999.
+ For access to the wording of the amendments made by this Schedule, _see_ Act No. 139, 1999.
 
 * * *
+
+ 
 
 # Notes to the _ACIS Administration Act 1999_
 
@@ -3371,10 +3392,10 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 6–8): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(c)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 6–8): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(c)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -3388,7 +3409,7 @@ of Assent</div>
     <div>10 Oct 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–4): 1 Jan 2001 
+    <div>Schedule 1 (items 1–4): 1 Jan 2001 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3406,7 +3427,7 @@ Remainder: Royal Assent</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–10): 11 October 2003</div>
+    <div>Schedule 1 (items 1–10): 11 October 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -3460,41 +3481,7 @@ Sch. 1 (items 88, 91) (am. by 94, 2009, Sch. 1 \[items 20, 21])</div>
     <div>29 Sept 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 20, 21): 1 Jan 2010</div>
-  </td>
-  <td>
-    <div>S. 2 (rs. by 136, 2009, Sch. 1 \[item 1])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ACIS Administration Amendment (Application) Act 2009</div>
-  </td>
-  <td>
-    <div>136, 2009</div>
-  </td>
-  <td>
-    <div>15 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): 15 Dec 2009</div>
+    <div>Schedule 1 (items 20, 21): \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div>—</div>
@@ -3511,7 +3498,7 @@ Sch. 1 (items 88, 91) (am. by 94, 2009, Sch. 1 \[items 20, 21])</div>
     <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 190, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+    <div>Schedule 1 (items 190, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
   </td>
   <td>
     <div>Sch. 1 (items 212, 213, 215)</div>
@@ -3581,42 +3568,7 @@ Sch. 1 (items 88, 91) (am. by 94, 2009, Sch. 1 \[items 20, 21])</div>
     <div>29 Sept 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–19A): 1 Jan 2010</div>
-  </td>
-  <td>
-    <div>S. 2 (rs. by 136, 2009, Sch. 1 \[item 1]) 
-Sch. 1 (item 19A) (ad. by 136, 2009, Sch. 1 \[item 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ACIS Administration Amendment (Application) Act 2009</div>
-  </td>
-  <td>
-    <div>136, 2009</div>
-  </td>
-  <td>
-    <div>15 Dec 2009</div>
-  </td>
-  <td>
-    <div>15 Dec 2009</div>
+    <div>Schedule 1 (items 1–19): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3689,7 +3641,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 21 and 96, 2003; No. 94, 2009</div>
+    <div>am. Nos. 21 and 96, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3697,7 +3649,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 83, 2002; Nos. 21 and 96, 2003; No. 80, 2004; No. 94, 2009</div>
+    <div>am. No. 149, 2000; No. 83, 2002; Nos. 21 and 96, 2003; No. 80, 2004</div>
   </td>
 </tr>
 <tr>
@@ -3945,7 +3897,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 83, 2002; No. 96, 2003; No. 94, 2009</div>
+    <div>am. No. 149, 2000; No. 83, 2002; No. 96, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4046,26 +3998,10 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 53(2)</div>
-  </td>
-  <td>
-    <div>am. No. 94, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 53</div>
   </td>
   <td>
     <div>rs. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 94, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4222,15 +4158,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003; No. 94, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
+    <div>Ss. 62, 63</div>
   </td>
   <td>
     <div>am. No. 96, 2003</div>
@@ -4549,6 +4477,104 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
   </td>
 </tr></table>
 
+### Note 2
+
+_ACIS Administration Amendment Act 2009 (No. 94, 2009)_
+
+The following amendments commence on 1 July 2010:
+
+## Schedule 1
+
+## 1  Subsection 4(1A)
+
+Omit “3 stages”, substitute “2 stages”.
+
+## 2  Paragraph 4(1A)(b)
+
+Omit “2010; and”, substitute “2010.”.
+
+## 3  Paragraph 4(1A)(c)
+
+Repeal the paragraph.
+
+## 4  Paragraph 4(2)(b)
+
+Omit “$2,000,000,000;”, substitute “$2,000,000,000.”.
+
+## 5  Paragraph 4(2)(c)
+
+Repeal the paragraph.
+
+## 6  Subsection 4(2A)
+
+Omit “ACIS Stages 2 and 3”, substitute “ACIS Stage 2”.
+
+## 7  Subsection 6(1) (definition of _ACIS Stage_)
+
+Omit “ACIS Stage 1, ACIS Stage 2 or ACIS Stage 3”, substitute “ACIS Stage 1 or ACIS Stage 2”.
+
+## 8  Subsection 6(1) (definition of _ACIS Stage 3_)
+
+Repeal the definition.
+
+## 9  Subsection 6(1) (definition of _ACIS year_)
+
+Omit “1 January 2016”, substitute “1 January 2011”.
+
+## 10  Subsection 6(1) (paragraph (b) of the definition of _final quarter_)
+
+Omit “2010; and”, substitute “2010.”.
+
+## 11  Subsection 6(1) (paragraph (c) of the definition of _final quarter_)
+
+Repeal the paragraph.
+
+## 12  Subsection 42(1) (formula)
+
+Repeal the formula, substitute:
+
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image013.gif)
+
+## 13  Subsection 42(1) (definition of _B_)
+
+Repeal the definition, substitute:
+
+                    <a name=""></a>**_B_** is 7.5%.
+
+## 14  Subsection 42(1)
+
+Insert:
+
+                    <a name=""></a>**_C_** is the production value of MVP production by that MVP in the quarter concerned (other than passenger motor vehicles, and specified load-carrying vehicles, that are sold in the Australian or New Zealand markets).
+
+## 15  Subsection 42(2) (formula)
+
+Repeal the formula, substitute:
+
+![](http://www.comlaw.gov.au/Details/C2009C00467/Html/ACISAdmin1999_WD02_image014.gif)
+
+## 16  Subsection 42(2) (definition of _C_)
+
+Repeal the definition, substitute:
+
+                    <a name=""></a>**_C_** has the meaning provided in subsection (1).
+
+## 17  Subsection 53(1) (table item 3)
+
+Repeal the item.
+
+## 18  Subsection 53(2)
+
+Omit “ACIS Stages 2 and 3”, substitute “ACIS Stage 2”.
+
+_Note:       The heading to subsection 53(2) is altered by omitting “and 3 caps” and substituting “cap”._
+
+## 19  Subsection 62(3)
+
+Omit “3 parts”, substitute “2 parts”.
+
+As at 8 October 2009 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4575,9 +4601,9 @@ _ACIS Administration Amendment Act 2003 (No. 96, 2003)_
 
 ## Schedule 1
 
-## 88  Participants in ACIS
+## \[NOTE]  88  Participants in ACIS
 
-A person who was a participant in ACIS immediately before the commencement of this item continues to be a participant during ACIS Stage 2 unless:
+A person who was a participant in ACIS immediately before the commencement of this item continues to be a participant during ACIS Stage 2 and ACIS Stage 3 unless:
 
                      (a)  the participant is deregistered under Part 11 of the _ACIS Administration Act 1999_; or
 
@@ -4591,13 +4617,29 @@ A modulation of unmodulated capped production credit in relation to an MVP made 
 
 Items 79 to 86 apply to an application for review of an original decision under section 112 or 113 of the _ACIS Administration Act 1999_ that is  made on or after the commencement of this item.
 
-## 91  Application
+## \[NOTE]  91  Application
 
 The amendment made by item 87 applies as follows:
 
-                     (a)  in relation to a participant who was a participant immediately before item 87 commences, the Minister may publish the information referred to in that item in respect of an ACIS year in ACIS Stage 2;
+                     (a)  in relation to a participant who was a participant immediately before item 87 commences, the Minister may publish the information referred to in that item in respect of an ACIS year in ACIS Stage 2 or ACIS Stage 3;
 
                      (b)  in relation to a person who becomes a participant on or after the commencement of item 87, the Minister may publish the information referred to in that item from the day that the person becomes a participant in ACIS.
+
+_\[NOTE]:  ACIS Administration Amendment Act 2009 (No. 94, 2009)_
+
+The following amendments commence on 1 July 2010 and amend the _ACIS Administration Amendment Act 2003_ (No. 96, 2003) as follows:
+
+## Schedule 1
+
+## 20  Item 88 of Schedule 1
+
+Omit “and ACIS Stage 3”.
+
+## 21  Paragraph 91(a) of Schedule 1
+
+Omit “or ACIS Stage 3”.
+
+As at 8 October 2009 the amendments are not incorporated in this compilation.
 
 * * *
 
@@ -4697,17 +4739,5 @@ _ACIS Administration Amendment (Unearned Credit Liability) Act 2007
 ## 4  Application
 
 The amendments made by this Schedule apply in relation to duty credits issued in respect of a quarter after the final quarter for ACIS Stage 1.
-
-* * *
-
-_ACIS Administration Amendment Act 2009 (No. 94, 2009)_
-
-## Schedule 1
-
-19A  Application
-
-(1)        The amendments made by items 12 to 14 of this Schedule apply to working out unmodulated uncapped production credit to be issued for a quarter beginning on or after 1 January 2010.
-
-(2)        The amendments made by items 15 and 16 of this Schedule apply to working out unmodulated capped production credit for a quarter beginning on or after 1 January 2010.
 
  
