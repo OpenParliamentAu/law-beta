@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00582/Html/EE279BA8E077F01CCA25707C0081B1C5/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00548/Html/7522A950B42B8C85CA25706D001FE198/$FILE/image001.gif)
 
 # Submarine Cables and Pipelines Protection Act 1963
 
 **Act No. 61 of 1963 as amended**
 
-This compilation was prepared on 20 September 2005
+This compilation was prepared on 30 August 2005
 taking into account amendments up to Act No. 104 of 2005
 
 The text of any of those amendments not in force 
@@ -20,29 +20,29 @@ Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Saving of other laws
+[3](#3).            Saving of other laws                                                                             1
 
-[4](#4).            Extension of Act to Territories
+[4](#4).            Extension of Act to Territories                                                            1
 
-[5](#5).            Act applies only to cables and pipelines beneath the high seas
+[5](#5).            Act applies only to cables and pipelines beneath the high seas          1
 
-[5A](#5A).         Application of the _Criminal Code_
+[5A](#5A).         Application of the _Criminal Code_                                                       2
 
-[6](#6).            Act binds Crown
+[6](#6).            Act binds Crown                                                                                 2
 
-[7](#7).            Persons not to break or injure submarine cables or pipelines
+[7](#7).            Persons not to break or injure submarine cables or pipelines              2
 
-[8](#8).            Liability for breaking or injuring a cable or pipeline
+[8](#8).            Liability for breaking or injuring a cable or pipeline                            2
 
-[9](#9).            Indemnity for loss of anchor etc
+[9](#9).            Indemnity for loss of anchor etc                                                          2
 
-[10](#10).          Punishment of offences
+[10](#10).          Punishment of offences                                                                       2
 
-[11](#11).          Jurisdiction of courts
+[11](#11).          Jurisdiction of courts                                                                           2
 
 **Notes** 
 
@@ -69,11 +69,7 @@ Canberra
 
 ##### <a id="5"></a>5  Act applies only to cables and pipelines beneath the high seas
 
-             (1)  This Act applies only to a submarine cable or pipeline, or that part of a submarine cable or pipeline:
-
-                     (a)  that is beneath the high seas or in the exclusive economic zone; and
-
-                     (b)  that is not a submarine cable (within the meaning of Schedule 3A to the _Telecommunications Act 1997_) in a protection zone (within the meaning of that Schedule).
+             (1)  A reference in this Act to a submarine cable or pipeline shall be read as a reference only to a cable or pipeline beneath the high seas or in the exclusive economic zone  or to such part of a cable or pipeline as is beneath the high seas or in the exclusive economic zone. 
 
              (2)  In subsection (1):
 
@@ -314,7 +310,7 @@ of Assent
         <div>23 Aug 2005</div>
       </td>
       <td>
-        <div>Schedule 1 (item 1): 20 Sept 2005</div>
+        <div>Schedule 1 (item 1): \[ <i>see</i>Note 2]</div>
       </td>
       <td>
         <div>—</div>
@@ -374,7 +370,7 @@ _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Sc
       <div>S. 5</div>
     </td>
     <td>
-      <div>am. No. 149, 2001; No. 104, 2005</div>
+      <div>am. No. 149, 2001</div>
     </td>
   </tr>
   <tr>
@@ -420,6 +416,27 @@ _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Sc
 </tbody></table>
 
 
+### Note 2
+
+_Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005 (No. 104, 2005)_
+
+The following amendment commences on 20 September 2005:
+
+## Schedule 1
+
+## 1  Subsection 5(1)
+
+Repeal the subsection, substitute:
+
+             (1)  This Act applies only to a submarine cable or pipeline, or that part of a submarine cable or pipeline:
+
+                     (a)  that is beneath the high seas or in the exclusive economic zone; and
+
+                     (b)  that is not a submarine cable (within the meaning of Schedule 3A to the _Telecommunications Act 1997_) in a protection zone (within the meaning of that Schedule).
+
+As at 30 August 2005 the amendment is not incorporated in this compilation.
+
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -432,5 +449,7 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
+
+ 
 
  
