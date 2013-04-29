@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00690/Html/bea9478d-aafd-4a77-8f26-30f7423b3f0a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00176/Html/05990ef4-2076-4b4f-8fbf-4aaf154c67a4_files/image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 1 October 2012
- taking into account amendments up to Act No. 107 of 2012
+This compilation was prepared on 1 February 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -221,8 +222,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [55ZH](#55ZH).     Legal Services Directions and legal professional privilege
 
-[55ZI](#55ZI).      Anything done under Legal Services Directions not 
- actionable
+[55ZI](#55ZI).      Anything done under Legal Services Directions not actionable
 
 **Part IX—Suits by and against the Commonwealth and the States**
 
@@ -522,7 +522,7 @@ Quorum of Justices on appeals from State Supreme Courts
 
 ##### <a id="22"></a>22  Quorum for granting leave to appeal to the Queen in Council or to High Court
 
-                   Applications to the High Court for a certificate that a question as to the limits _inter se_ of the Constitutional powers of the Commonwealth and those of any State or States, or as to the limits _inter se_ of the Constitutional powers of any two or more States, which has been decided by the High Court, is one which ought to be determined by the Queen in Council, shall be heard and determined by a Full Court consisting of not less than three Justices.
+                   Applications to the High Court for a certificate that a question as to the limits _inter se_ of the Constitutional powers of the Commonwealth and those of any State or States, or as to the limits _inter se_ of the Constitutional powers of any two or more States, which has been decided by the High Court, is one which ought to be determined by the Queen in Council, shall be heard and determined by a Full Court consisting of not less than three Justices.
 
 ##### <a id="23"></a>23  Decision in case of difference of opinion
 
@@ -592,7 +592,7 @@ for it to have no reasonable prospect of success.
 
 ## Part IV—Original jurisdiction of the High Court
 
-##### <a id="30"></a>30  Original jurisdiction conferred
+##### <a id="30"></a>30  Original jurisdiction conferred
 
                    In addition to the matters in which original jurisdiction is conferred on the High Court by the Constitution, the High Court shall have original jurisdiction:
 
@@ -2378,7 +2378,7 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
                      (c)  subject to such further modifications or adaptations as are provided for in regulations made under paragraph 88(cb) of this Act.
 
-             (3)  Despite the fact that section 16 of the _Legislative Instruments Act 2003_ does not apply in relation to rules of court made by the Court under this Act or another Act, the Office of Parliamentary Counsel (established by subsection 2(1) of the _Parliamentary Counsel Act 1970_) may provide assistance in the drafting of any of those Rules if the Chief Justice so desires.
+             (3)  Despite the fact that section 16 of the _Legislative Instruments Act 2003_ does not apply in relation to rules of court made by the Court under this Act or another Act, the Department may provide assistance in the drafting of any of those Rules if the Chief Justice so desires.
 
 ##### <a id="88"></a>88  Regulations
 
@@ -4089,23 +4089,6 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Counsel and Other Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>107, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 11): 1 Oct 2012 ( <i>see</i>F2012L01963)</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -6933,7 +6916,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div>S. 86</div>
   </td>
   <td>
-    <div>am. No. 5, 1906; No. 5, 1937; No. 50, 1959; No. 138, 1979; No. 157, 1989; No. 140, 2003; No. 107, 2012</div>
+    <div>am. No. 5, 1906; No. 5, 1937; No. 50, 1959; No. 138, 1979; No. 157, 1989; No. 140, 2003</div>
   </td>
 </tr>
 <tr>
@@ -7253,7 +7236,7 @@ _Migration Litigation Reform Act 2005 (No. 137, 2005)_
 
 ## Schedule 1
 
-## 40  Definitions
+## 40  Definitions
 
 In this Part:
 
@@ -7325,7 +7308,7 @@ Note:          Just before the commencement of this Schedule, 
 
 (3)       If a court, or a non‑judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
 
-## 9  Rights and liabilities declared in certain cases
+## 9  Rights and liabilities declared in certain cases
 
 The rights and liabilities of all persons are, by force of this item, declared to be, and always to have been, the same as if each ineffective order of a court of summary jurisdiction had been an order made by that court, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
 
