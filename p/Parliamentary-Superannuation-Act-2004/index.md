@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00111/Html/ParliamentarySuperan2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00632/Html/ParliamentarySuperan2004_image001.gif)
 
 # Parliamentary Superannuation Act 2004
 
 **Act No. 72 of 2004 as amended**
 
-This compilation was prepared on 21 March 2007
- taking into account amendments up to Act No. 15 of 2007
+This compilation was prepared on 26 October 2006
+ taking into account amendments up to Act No. 115 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -216,7 +216,7 @@ but does not include a Minister of State.
 
              (1)  For the purposes of this Act, a fund or scheme is a **_complying superannuation fund_** at a particular time if, and only if:
 
-                     (a)  the fund or scheme is a complying superannuation fund for the purposes of the _Income Tax Assessment Act 1997_ in relation to the year of income in which the time occurs; and
+                     (a)  the fund or scheme is a complying superannuation fund for the purposes of Part IX of the _Income Tax Assessment Act 1936_ in relation to the year of income in which the time occurs; and
 
                      (b)  the fund or scheme is a superannuation fund as defined by subsection 6(1) of the _Income Tax Assessment Act 1936_.
 
@@ -536,110 +536,6 @@ Remainder: 24 June 2004</div>
   <td>
     <div>Sch. 1 (item 2)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 273, 406(1)–(3)): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 406(1)–(3))</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Simplified Superannuation) Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
-    </div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -665,22 +561,6 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 15, 2007</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div><b>Part 2</b></div>
@@ -721,24 +601,5 @@ The amendment made by item 1 of this Schedule applies to contributions in resp
                      (a)  the month in which this item commences; and
 
                      (b)  each later month.
-
-* * *
-
-_Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)_
-
-## Schedule 1
-
-## 406  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
-
-(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
-
-                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
-
-                     (b)  Divisions 301 to 307 of that Act.
 
  
