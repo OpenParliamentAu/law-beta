@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01459/Html/ANTSGSTT99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01458/Html/ANTSGSTT99_image001.gif)
 
 # A New Tax System (Goods and Services Tax Transition) Act 1999
 
 **Act No. 57 of 1999 as amended**
 
-This compilation was prepared on 9 April 2003 
- taking into account amendments up to Act No. 12 of 2003
+This compilation was prepared on 20 November 2002 
+ taking into account amendments up to Act No. 97 of 2002
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -17,85 +17,85 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+1             Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+2             Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Schedule(s)
+3             Schedule(s)                                                                                           1
 
-[4](#4).            Overview
+4             Overview                                                                                             2
 
-[5](#5).            Definitions
+5             Definitions                                                                                           2
 
-[6](#6).            Time of supply or acquisition
+6             Time of supply or acquisition                                                             2
 
-[6A](#6A).         Trading periods spanning midnight on 30 June 2000
+6A          Trading periods spanning midnight on 30 June 2000                          3
 
-**Part 2—Start of GST**
+**Part 2—Start of GST** 
 
-[7](#7).            Start of GST
+7             Start of GST                                                                                        6
 
-[8](#8).            Effect on sales tax
+8             Effect on sales tax                                                                                6
 
-[9](#9).            GST registration before 1 July 2000
+9             GST registration before 1 July 2000                                                   7
 
-[10](#10).          Invoice or consideration before 1 July 2000
+10           Invoice or consideration before 1 July 2000                                        7
 
-[11](#11).          Supply of rights exercisable on or after 1 July 2000
+11           Supply of rights exercisable on or after 1 July 2000                           7
 
-**Part 3—Agreements spanning 1 July 2000**
+**Part 3—Agreements spanning 1 July 2000** 
 
-[12](#12).          Progressive or periodic supplies
+12           Progressive or periodic supplies                                                          9
 
-[13](#13).          Existing agreements: no opportunity to review
+13           Existing agreements: no opportunity to review                                 10
 
-[14](#14).          Rights granted for life
+14           Rights granted for life                                                                        11
 
-[15](#15).          Funeral agreements
+15           Funeral agreements                                                                            12
 
-**Part 4—Stock on hand on 1 July 2000**
+**Part 4—Stock on hand on 1 July 2000** 
 
-[16](#16).          Special GST credit for sales tax paid on stock
+16           Special GST credit for sales tax paid on stock                                  13
 
-[16A](#16A).       Special GST credit for certain alcoholic beverages on which duty has increased
+16A        Special GST credit for certain alcoholic beverages on which duty has increased    14
 
-[16AB](#16AB).    Special GST credit for certain alcoholic beverages on which duty has decreased
+16AB     Special GST credit for certain alcoholic beverages on which duty has decreased    15
 
-[16B](#16B).       Special GST credit for certain alcoholic beverages on which duty would not previously have been paid
+16B        Special GST credit for certain alcoholic beverages on which duty would not previously have been paid              16
 
-[16C](#16C).       Special petroleum credits
+16C        Special petroleum credits                                                                   16
 
-[17](#17).          Stock later applied for private or domestic purpose
+17           Stock later applied for private or domestic purpose                         17
 
-[18](#18).          Second-hand goods
+18           Second-hand goods                                                                            18
 
 **Part 5—Special transitional rules**
 
-[19](#19).          Construction agreements made before 1 July 2000
+19           Construction agreements made before 1 July 2000                           19
 
-[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998
+19A        Sales of motor vehicles held under operating leases since 2 December 1998           20
 
-[19B](#19B).       Sales etc  of cars held on 1 July 2000 for the purpose of rental
+[19B        Sales etc](#19B        Sales etc). of cars held on 1 July 2000 for the purpose of rental        20
 
-[20](#20).          Phasing in input tax credits for motor vehicles etc 
+[20           Phasing in input tax credits for motor vehicles etc](#20           Phasing in input tax credits for motor vehicles etc).                           24
 
-[21](#21).          Acupuncture, naturopathy and herbal medicine
+21           Acupuncture, naturopathy and herbal medicine                                26
 
-[22](#22).          Insured event before 1 July 2000
+22           Insured event before 1 July 2000                                                      26
 
-[23](#23).          Input tax credits relating to compulsory third party schemes
+23           Input tax credits relating to compulsory third party schemes          27
 
-[24](#24).          Gambling
+24           Gambling                                                                                            27
 
-[24A](#24A).       Unredeemed vouchers
+24A        Unredeemed vouchers                                                                        28
 
-[24B](#24B).       Commissioner may make determinations relating to rounding
+24B        Commissioner may make determinations relating to rounding          28
 
-[24C](#24C).       Supplies from certain coin-operated devices may be input taxed
+24C        Supplies from certain coin-operated devices may be input taxed     29
 
-**Part 6—Regulations**
+**Part 6—Regulations** 
 
-[25](#25).          Regulations
+25           Regulations                                                                                        30
 
 **Schedule 1—Amendment of the sales tax law** 
 
@@ -831,7 +831,7 @@ Amount of the special credit
 
              (8)  However, if the car was covered by an eligible short-term lease, the amount of the special credit is an amount equal to:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01459/Html/ANTSGSTT99_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01458/Html/ANTSGSTT99_image002.gif)</sub>
 
 where:
 
@@ -919,7 +919,7 @@ Note:          Paragraph 48-40(2)(a) of the GST Act prevents s
 
           (4B)  Subsection (2) does not apply if you make the acquisition or importation before 23 May 2001 with the intention of granting an eligible short-term lease. However, the amount of any input tax credit you are entitled to on the acquisition or importation is reduced by an amount equal to:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01459/Html/ANTSGSTT99_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01458/Html/ANTSGSTT99_image003.gif)</sub>
 
 where:
 
@@ -985,11 +985,9 @@ subsection (1) does not apply, and the settlement does not give rise to any adju
 
              (1)  You are not entitled to an input tax credit for:
 
-                     (a)  a premium, contribution or similar payment made under, or a levy paid in connection with, a compulsory third party scheme, if the premium, contribution or similar payment relates to a period commencing before 1 July 2003; or
+                     (a)  a premium, contribution or similar payment made under, or a levy paid in connection with, a compulsory third party scheme before 1 July 2003; or
 
-                     (b)  a premium paid, in respect of a period of cover commencing before 1 July 2003, on an insurance policy issued under a compulsory third party scheme.
-
-       (1AA)  It does not matter, for the purposes of subsection (1), whether the payment occurred before, on or after 1 July 2003.
+                     (b)  a premium paid, before 1 July 2003, on an insurance policy issued under a compulsory third party scheme.
 
           (1A)  If, because of subsection (1), you are not entitled to an input tax credit for an acquisition you make, section 29-70 of the GST Act (which is about tax invoices) does not apply in relation to the supply to which the acquisition relates.
 
@@ -1083,13 +1081,9 @@ Note:          If a supply is input taxed, there is no entitle
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus of the _Sales Tax Assessment Act 1992_ and the _Sales Tax (Exemptions and Classifications) Act 1992._
 
-_Sales Tax Assessment Act 1992_ 
-
-_Sales Tax (Exemptions and Classifications) Act 1992._
-
-For access to the wording of the amendments made by this Schedule click here [_A New Tax System (Goods and Services Tax Transition) Act 1999_ No. 77, 1999].
+For access to the wording of the amendments made by this Schedule click here [_Sales Tax Assessment Act 1992_ No. 114, 1992], [_Sales Tax (Exemptions and Classifications) Act 1992_ No. 119, 1992].
 
 * * *
 
@@ -1112,27 +1106,25 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="13%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td>
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>A New Tax System (Goods and Services Tax Transition) Act 1999</div>
@@ -1161,7 +1153,7 @@ of Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1–12): <i>(a)</i></div>
+    <div>Schedule 6 (items 1-12): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1196,9 +1188,9 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 6 (item 7), 
-Schedule 8 (items 6, 7) and Schedule 11 (items 13A, 14–16, 16A–16E): <i>(c)</i> 
+Schedule 8 (items 6, 7) and Schedule 11 (items 13A, 14-16, 16A-16E): <i>(c)</i> 
 Schedule 10 (items 1A, 1B): <i>(c)</i> 
-Schedule 10A (items 2–4): Royal Assent <i>(c)</i></div>
+Schedule 10A (items 2-4): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>Ss. 2(2), (4) (am. by 156, 2000, Sch. 7 (items 16, 17))</div>
@@ -1267,9 +1259,9 @@ Schedule 6 (item 41): 1 July 2000 <i>(d)</i></div>
     <div>30 June 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (items 69–78): 23 May 2001 
-Schedule 2 (items 48–52): 1 Jan 2001 
-Schedule 3 (items 34–36): 1 Apr 2001 
+    <div>Schedule 1 (items 69-78): 23 May 2001 
+Schedule 2 (items 48-52): 1 Jan 2001 
+Schedule 3 (items 34-36): 1 Apr 2001 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1292,27 +1284,11 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 1) 2003</div>
-  </td>
-  <td>
-    <div>12, 2003</div>
-  </td>
-  <td>
-    <div>2 Apr 2003</div>
-  </td>
-  <td>
-    <div>Schedule 1: 29 Aug 2001 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 4)</div>
-  </td>
 </tr></table>
 
-_(a)_    The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 6 (items 1–12) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(12) of which provides as follows:
+ 
+
+_(a)_    The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 6 (items 1-12) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(12) of which provides as follows:
 
                (12)   Schedule 6 (other than items 13 and 14) commences, or is taken to have commenced, immediately after the commencement of the _A New Tax System (Goods and Services Tax Transition) Act 1999_.
 
@@ -1339,6 +1315,8 @@ _(d)_     The _A New Tax System (Goods and Services Tax Transition) Act 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
                  (2)   Items 41 and 44 to 46 of Schedule 6 are taken to have commenced on 1 July 2000.
+
+ 
 
 ## Table of Amendments
 
@@ -1579,7 +1557,7 @@ ad. = added or inserted      am. = amended      rep. = repea
     <div></div>
   </td>
   <td>
-    <div>am. No. 92, 2000; No. 12, 2003</div>
+    <div>am. No. 92, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1623,6 +1601,8 @@ ad. = added or inserted      am. = amended      rep. = repea
   </td>
 </tr></table>
 
+ 
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1631,7 +1611,7 @@ _Taxation Laws Amendment Act (No. 8) 2000 (No. 156, 2000)_
 
 ## Schedule 1
 
-18  Application
+## 18  Application
 
 The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting on or after 1 July 2000.
 
@@ -1639,20 +1619,10 @@ The amendments made by this Schedule apply, and are taken to have applied, in re
 
 _Taxation Laws Amendment Act (No. 3) 2001 (No. 73, 2001)_
 
-Schedule 1
+## Schedule 1
 
-78  Application
+## 78  Application
 
 The amendments made by this Part of this Schedule apply in relation to acquisitions and importations made on or after 23 May 2001.
-
-* * *
-
-_Taxation Laws Amendment Act (No. 1) 2003 (No. 12, 2003)_
-
-Schedule 4
-
-4  Application
-
-The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting, or that started, on or after 1 July 2000.
 
  
