@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00747/Html/ProtectionSeaCivilLiabilityBunkOilPollDamage2008_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00175/Html/ProtectionSeaCivilLiabilityBunkOilPollDamage2008_image001.gif)
 
 # Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008
 
 **Act No. 76 of 2008 as amended**
 
-This compilation was prepared on 11 November 2010
- taking into account amendments up to Act No. 116 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -93,8 +93,6 @@ Contents
 [24](#24).          Review of decisions
 
 **Part 4—Other matters**
-
-[24A](#24A).       Responder immunity
 
 [25](#25).          No time limit for prosecution
 
@@ -237,8 +235,6 @@ Note:          In 2008, the text of the Convention was accessi
 
                     <a name="coastal-sea"></a>**_coastal sea_** of Australia or an external Territory has the same meaning as in subsection 15B(4) of the _Acts Interpretation Act 1901_.
 
-                    <a name="constitut-corpor"></a>**_constitutional corporation_** means a corporation to which paragraph 51(xx) of the Constitution applies.
-
                     <a name="domest-voyag-ship"></a>**_domestic voyage ship_** has the meaning given by subsection 10(3).
 
                     <a name="enforc-offic"></a>**_enforcement officer_** means:
@@ -276,8 +272,6 @@ Note:          See also sections 28 (partnerships) and 29 (u
                     <a name="secretari-gener"></a>**_Secretary-General_** has the same meaning as in the Bunker Oil Convention.
 
                     <a name="ship"></a>**_ship_** has the same meaning as in the Bunker Oil Convention.
-
-                    <a name="shipown"></a>**_shipowner_** has the same meaning as in the Bunker Oil Convention.
 
 ##### <a id="4"></a>4  Crown to be bound
 
@@ -770,47 +764,7 @@ Ship registered in foreign country that is not a Convention country
 
 ## Part 4—Other matters
 
-##### <a id="24A"></a>24A  Responder immunity
-
-             (1)  Subject to this section, no civil action, suit or proceeding lies against a person in relation to anything done, or omitted to be done, reasonably and in good faith by the person in relation to preventing or minimising pollution damage occurring in Australia or the exclusive economic zone of Australia.
-
-Note:          This section also applies in relation to the coastal sea of Australia and an external Territory: see section 15B of the _Acts Interpretation Act 1901_.
-
-Exceptions
-
-             (2)  Subsection (1) does not prevent an action, suit or proceeding from being brought against the shipowner or shipowners concerned (including on the basis of vicarious liability).
-
-             (3)  Subsection (1) does not apply in relation to anything done, or omitted to be done:
-
-                     (a)  with intent to cause damage; or
-
-                     (b)  recklessly and with knowledge that damage would probably result.
-
-Scope of section
-
-             (4)  Subsection (1) has effect:
-
-                     (a)  in relation to anything done, or omitted to be done, by:
-
-                              (i)  a constitutional corporation; or
-
-                             (ii)  a director, officer, employee or agent of a constitutional corporation in the capacity of such a director, officer, employee or agent; and
-
-                     (b)  in relation to anything done, or omitted to be done, outside Australia; and
-
-                     (c)  in relation to anything done, or omitted to be done, in the course of, or in relation to, any of the following:
-
-                              (i)  trade or commerce between Australia and places outside Australia;
-
-                             (ii)  trade or commerce among the States;
-
-                            (iii)  trade or commerce within a Territory, between a State and a Territory or between 2 Territories; and
-
-                     (d)  in relation to anything done, or omitted to be done, by the Commonwealth or an authority of the Commonwealth.
-
-             (5)  For the purposes of paragraph (4)(b), **_outside Australia_** means outside the baseline from which the breadth of the territorial sea (within the meaning of the _Seas and Submerged Lands Act 1973_) is measured under section 7 of that Act.
-
-##### <a id="25"></a>25  No time limit for prosecution
+##### <a id="25"></a>25  No time limit for prosecution
 
                    A prosecution for an offence against this Act may be brought at any time.
 
@@ -878,9 +832,7 @@ Interpretation
 
 ### Note 1
 
-The _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_ as shown in this compilation comprises Act No. 76, 2008 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+The _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_ as shown in this compilation comprises Act No. 76, 2008 amended as indicated in the Tables below. 
 
 ### Table of Acts
 
@@ -948,31 +900,14 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Protection of the Sea Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>116, 2010</div>
-  </td>
-  <td>
-    <div>9 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2: 10 Nov 2010</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 4)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1003,36 +938,8 @@ Remainder: Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 8 and 116, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 116, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Protection of the Sea Legislation Amendment Act 2010 (No. 116, 2010)_
-
-## Schedule 2
-
-## 4  Application
-
-The amendment made by item 3 applies in relation to anything done, or omitted to be done, on or after the commencement of that item.
 
  
