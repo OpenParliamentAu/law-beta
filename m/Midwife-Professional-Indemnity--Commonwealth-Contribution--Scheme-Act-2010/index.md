@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00838/Html/f0a38c14-7ec2-41e9-a873-f46ba1cf61ca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00490/Html/e5958090-76f3-42b4-95df-14a92b81dfb7_files/image001.gif)
 
 # Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010
 
 **Act No. 30 of 2010 as amended**
 
-This compilation was prepared on 21 November 2012
+This compilation was prepared on 1 July 2011
  taking into account amendments up to Act No. 47 of 2011
 
 The text of any of those amendments not in force
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -163,7 +164,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 2—Apportionment certificates**
 
-[51](#51).          When may the Chief Executive Medicare issue an apportionment certificate in relation to a claim?
+[51](#51).          When may the Chief Executive Medicare issue an apportionment certificate in relation to a claim? [_see_ Note 2]
 
 [52](#52).          Chief Executive Medicare must not issue an apportionment certificate in certain situations relating to court judgments or orders
 
@@ -277,7 +278,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_.
 
@@ -1951,7 +1952,7 @@ Step 3.   Add together:
 
              (4)  The **_interest rate adjustment_** for a financial year is the number worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00838/Html/f0a38c14-7ec2-41e9-a873-f46ba1cf61ca_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00490/Html/e5958090-76f3-42b4-95df-14a92b81dfb7_files/image002.gif)
 
 where:
 
@@ -2232,7 +2233,7 @@ Note:          Failure to comply with this section is an offen
 
 ### Division 2—Apportionment certificates
 
-##### <a id="51"></a>51  When may the Chief Executive Medicare issue an apportionment certificate in relation to a claim?
+##### <a id="51"></a>51  When may the Chief Executive Medicare issue an apportionment certificate in relation to a claim? <span style="font-size: 9.0pt;font-weight:normal">[_see_ Note 2]</span>
 
              (1)  The Chief Executive Medicare may issue a certificate (an **_apportionment certificate_**) in relation to a claim against a midwife if:
 
@@ -2262,11 +2263,11 @@ Note:          Failure to comply with this section is an offen
 
              (5)  The apportionment certificate may be different from the apportionment proposed in the application if the Chief Executive Medicare is satisfied that the alternative apportionment is reasonable.
 
-             (6)  For the purposes of being satisfied that an apportionment is reasonable, the Chief Executive Medicare may have regard to:
+             (6)  For the purposes of being satisfied that an apportionment is reasonable, the Medicare CEO may have regard to:
 
                      (a)   the information provided with the application; and
 
-                     (b)  any other information that the Chief Executive Medicare considers appropriate.
+                     (b)  any other information that the Medicare CEO considers appropriate.
 
              (7)  However, the Chief Executive Medicare is not required to have regard to any information beyond the information that was included in the application.
 
@@ -3333,7 +3334,7 @@ and, in particular, prescribing penalties, not exceeding 10 penalty units, for o
 
 ### Note 1
 
-The _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_ as shown in this compilation comprises Act No. 30, 2010 amended as indicated in the Tables below.
+The _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_ as shown in this compilation comprises Act No. 30, 2010 amended as indicated in the Tables below. 
 
 ### Table of Acts
 
@@ -3403,40 +3404,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 24): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Midwife Professional Indemnity Legislation Amendment Act 2011</div>
   </td>
   <td>
@@ -3446,98 +3413,10 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): Royal Assent</div>
+    <div>Schedule 1 (items 1, 2): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (item 20) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      20\. Schedule 2, items 22 to 24
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Human Services Legislation Amendment Act 2011</i>for the commencement
-        of Part 1 of Schedule 4 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
   </td>
 </tr></table>
 
@@ -4292,5 +4171,17 @@ _(a)_     Subsection 2(1) (item 20) of the _Statute Law Revision Act 201
     <div>am. No. 32, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+Subsection 51(6)—Schedule 4 (item 395) of the _Human Services Legislation Amendment Act 2011_ (No. 32, 2011) provides as follows:
+
+## Schedule 4
+
+## 395  Subsections 51(2) to (7)
+
+Omit “Medicare CEO”, substitute “Chief Executive Medicare”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
 
  
