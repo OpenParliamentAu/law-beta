@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00855/Html/7f4c6470-d920-46ac-b356-3c5f59051dfb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00489/Html/OffshorePetRoy2006_image001.gif)
 
 # Offshore Petroleum (Royalty) Act 2006
 
 **Act No. 18 of 2006 as amended**
 
-This compilation was prepared on 21 October 2011
- taking into account amendments up to Act No. 110 of 2011
+This compilation was prepared on 16 October 2009
+ taking into account amendments up to Act No. 102 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -56,7 +56,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            Definition
 
-[2](#2).            Pre‑commencement royalty periods
+[2](#2).            Pre-commencement royalty periods
 
 [3](#3).            Transitional—eligible instruments
 
@@ -64,11 +64,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Transitional—rate of royalty
 
-[6](#6).            Re‑enactment of the _Petroleum (Submerged Lands) (Royalty) Act 1967_
+[6](#6).            Re-enactment of the _Petroleum (Submerged Lands) (Royalty) Act 1967_
 
 **Notes** 
 
-## An Act to impose a royalty on petroleum recovered from the North West Shelf, and for related purposes
+## An Act to impose a royalty on petroleum recovered from the North   West Shelf, and for related purposes
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -547,7 +547,7 @@ _Note:       See section 17._
 
                     <a name="elig-instrum"></a>**_eligible instrument_** means a determination, a direction, an approval, an agreement or any other instrument.
 
-##### <a id="2"></a>2  Pre‑commencement royalty periods
+##### <a id="2"></a>2  Pre-commencement royalty periods
 
              (1)  Despite the repeal of the _Petroleum (Submerged Lands) (Royalty) Act 1967_, that Act continues to apply, in relation to royalty for a royalty period that began before the commencement of this clause, as if that repeal had not happened.
 
@@ -603,9 +603,9 @@ _Note:       See section 17._
 
                      (b)  the reference in item 4 of the table in that subsection to the initial petroleum production licence (within the meaning of section 182 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_) included a reference to the original licence as defined by subsection 51(1) of the repealed _Petroleum (Submerged Lands) Act 1967_.
 
-##### <a id="6"></a>6  Re‑enactment of the _Petroleum (Submerged Lands) (Royalty) Act 1967_
+##### <a id="6"></a>6  Re-enactment of the _Petroleum (Submerged Lands) (Royalty) Act 1967_
 
-                   This Act re‑enacts the _Petroleum (Submerged Lands) (Royalty) Act 1967_ with certain modifications.
+                   This Act re-enacts the _Petroleum (Submerged Lands) (Royalty) Act 1967_ with certain modifications.
 
 Note:          Section 15AC of the _Acts Interpretation Act 1901_ provides that if an Act has expressed an idea in a particular form of words, and a later Act appears to have expressed the same idea in a different form of words for the purpose of using a clearer style, the ideas shall not be taken to be different merely because different forms of words were used.
 
@@ -614,8 +614,6 @@ Note:          Section 15AC of the _Acts Interpretation Act 
 ### Note 1
 
 The _Offshore Petroleum (Royalty) Act 2006_ as shown in this compilation comprises Act No. 18, 2006 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -709,27 +707,6 @@ Schedule 4 (items 5A–5C): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Royalty) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>110, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 4–6)</div>
   </td>
   <td>
     <div></div>
@@ -1018,145 +995,5 @@ _(a)_ Subsection 2(1) (items 2–4 and 6) of the _Offshore Petroleum Amendment (
     <div>am. No. 117, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Offshore Petroleum (Royalty) Amendment Act 2011 (No. 110, 2011)_
-
-The following amendments commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
-
-## Schedule 1
-
-## 1A  Section 4
-
-Insert:
-
-                    <a name="state-minist"></a>**_State Minister_** means the responsible State Minister of Western Australia.
-
-## 1  Paragraphs 6(4)(a) and (b)
-
-Omit “Designated Authority”, substitute “State Minister”.
-
-## 2  Paragraph 6(4)(c)
-
-Omit “Designated Authority’s”, substitute “State Minister’s”.
-
-## 3  Subsection 9(1)
-
-Omit “Designated Authority”, substitute “State Minister”.
-
-## 3A  Paragraph 10(1)(a)
-
-Omit “Designated Authority”, substitute “State Minister”.
-
-## 3B  Paragraphs 10(1)(b) and (c)
-
-Repeal the paragraphs, substitute:
-
-                     (b)  is not payable in relation to petroleum if:
-
-                              (i)  the State Minister is satisfied that the petroleum was used by the registered holder of the petroleum exploration permit, petroleum retention lease or petroleum production licence for the purposes of petroleum exploration operations or operations for the recovery of petroleum; and
-
-                             (ii)  the use did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act; and
-
-                     (c)  is not payable in relation to petroleum if:
-
-                              (i)  the State Minister is satisfied that the petroleum has been flared or vented in connection with operations for the recovery of petroleum; and
-
-                             (ii)  the flaring or venting did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act.
-
-## 3C  Subsection 10(2)
-
-Repeal the subsection, substitute:
-
-             (2)  If petroleum has been recovered by the registered holder of:
-
-                     (a)  a petroleum exploration permit; or
-
-                     (b)  a petroleum retention lease; or
-
-                     (c)  a petroleum production licence;
-
-royalty under this Act is not payable in relation to the petroleum because of that recovery if:
-
-                     (d)  the State Minister is satisfied that the petroleum has been returned to a natural reservoir; and
-
-                     (e)  the return of the petroleum to the reservoir did not contravene the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ or regulations under that Act.
-
-## 3D  Section 11
-
-Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
-
-## 3E  Section 12
-
-Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
-
-## 3F  Section 13
-
-Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
-
-## 3G  Section 14
-
-Omit “Designated Authority” (wherever occurring), substitute “State Minister”.
-
-## 3H  Subsection 15(1)
-
-Omit “Designated Authority”, substitute “State Minister”.
-
-## 3J  After section 16
-
-Insert:
-
-##### <a id="16A"></a>16A  Delegation by State Minister
-
-                   The State Minister may, by written instrument, delegate to an employee of Western Australia any or all of the powers or functions of the State Minister under this Act.
-
-As at 21 October 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Offshore Petroleum (Royalty) Amendment Act 2011 (No. 110, 2011)_
-
-The following provisions commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
-
-## Schedule 1
-
-## 4  Transitional—instruments
-
-(1)       This item applies to an instrument if:
-
-                     (a)  the instrument was in force immediately before the commencement of this item; and
-
-                     (b)  the instrument was made or given, by the Designated Authority for an offshore area, under, or for the purposes of, a particular provision of the _Offshore Petroleum (Royalty) Act 2006_(other than paragraph 10(1)(b) or (c) or subsection 10(2)).
-
-(2)       The instrument has effect, after the commencement of this item, as if it had been made or given:
-
-                     (a)  by the State Minister; and
-
-                     (b)  under, or for the purposes of, the corresponding provision of that Act as amended by this Schedule.
-
-## 5  Transitional—acts of Designated Authority to be attributed to the State Minister etc.
-
-(1)       This item applies to an act or thing (other than the making or giving of an instrument) that was done before the commencement of this item:
-
-                     (a)  by, or in relation to, the Designated Authority for an offshore area; and
-
-                     (b)  under, or for the purposes of, a particular provision of the _Offshore Petroleum (Royalty) Act 2006_(other than paragraph 10(1)(b) or (c) or subsection 10(2)).
-
-(2)       The act or thing has effect, after the commencement of this item, as if it had been done:
-
-                     (a)  by, or in relation to, the State Minister; and
-
-                     (b)  under, or for the purposes of, the corresponding provision of that Act as amended by this Schedule.
-
-## 6  Application of amendments—exemptions from royalty
-
-(1)       The amendments of section 10 of the _Offshore Petroleum (Royalty) Act 2006_ made by this Schedule, in so far as the amendments relate to a use of petroleum, apply to a use that occurs after the commencement of this item.
-
-(2)       The amendments of section 10 of the _Offshore Petroleum (Royalty) Act 2006_ made by this Schedule, in so far as the amendments relate to the flaring or venting of petroleum, apply to flaring or venting that occurs after the commencement of this item.
-
-(3)       The amendments of section 10 of the _Offshore Petroleum (Royalty) Act 2006_ made by this Schedule, in so far as the amendments relate to the return of petroleum to a natural reservoir, apply to a return that occurs after the commencement of this item.
 
  
