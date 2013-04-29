@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 4 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 4 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -895,7 +895,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -915,7 +915,7 @@ work
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image003.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image003.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1072,7 +1072,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image011.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image004.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image006.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image007.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image005.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image009.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image003.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image010.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image011.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1095,7 +1095,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1201,7 +1201,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image020.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image014.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image013.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image015.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image016.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image017.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image018.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image019.gif)![](http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image020.gif)
 
   <table align="left">
 <colgroup>
@@ -1219,7 +1219,7 @@ stage are not published.</span></div>
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2010C00159/Html/Patents1990WD02_image021.gif">
+    <img width="401" height="704" src="http://www.comlaw.gov.au/Details/C2010C00052/Html/Patents1990WD02_image021.gif">
   </td>
 </tr>
 <tr>
@@ -1539,7 +1539,7 @@ but only if a patent application for the invention is made within the prescribed
 
                      (a)  any information given by, or with the consent of, the nominated person or the patentee, or his or her predecessor in title, to any of the following, but to no other person or organisation:
 
-                              (i)  the Commonwealth or a State or Territory, or an authority of the Commonwealth or a State or Territory;
+                              (i)  the Commonwealth or a State or Territory, or an authority of the Commonwealth of a State or Territory;
 
                              (ii)  a person authorised by the Commonwealth or a State or Territory to investigate the invention; and
 
@@ -3694,7 +3694,7 @@ Note:          Those proceedings are in the Federal Court, whi
 
              (2)  A patent application is to be treated as having been withdrawn if, and only if, the applicant lodges a written notice of withdrawal signed by the applicant.
 
-##### <a id="142"></a>142  Lapsing of applications <span style="font-size:9.0pt; font-weight:normal">[_see also_ Table B]</span>
+##### <a id="142"></a>142  Lapsing of applications <span style="font-size:9.0pt;font-weight:normal">[_see also_ Table B]</span>
 
              (1)  A provisional application for a patent lapses at the end of the period prescribed for the purpose of section 38 or, if that period is extended, at the end of the period as so extended.
 
@@ -4626,7 +4626,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
 ##### <a id="212"></a>212  Copies of examination reports to be communicated
 
-                   A copy of each report relating to an examination or a re-examination under this Act must, subject to Chapters 15 and 17, be given to the applicant or patentee, as the case requires.
+                   A copy of each report relating to an examination or a re-examination under this Act must, subject to Chapters 15 and 17, be given to the applicant or patentee, as the case requires.
 
 ##### <a id="213"></a>213  Making and signing applications etc.  
 
@@ -4652,7 +4652,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
              (2)  Subsection (1) does not apply in relation to the Commissioner’s power to direct an applicant to request an examination.
 
-##### <a id="217"></a>217  Assessors
+##### <a id="217"></a>217  Assessors
 
                    A prescribed court may, if it thinks fit, call in the aid of an assessor to assist it in the hearing and trial or determination of any proceedings under this Act.
 
@@ -4810,7 +4810,7 @@ the prescribed provisions have effect for the protection or compensation of pers
 
                      (c)  a decision of the Director under subsection 147(2) or (3), section 149 or subsection 152(1).
 
-             (2)  Where a person who makes a decision mentioned in subsection (1) gives the person or persons affected by the decision written notice of the making of the decision, the notice must include a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal for review of the decision to which the notice relates by or on behalf of the person or persons whose interests are affected by the decision.
+             (2)  Where a person who makes a decision mentioned in subsection (1) gives the person or persons affected by the decision written notice of the making of the decision, the notice must include a statement to the effect that, subject to the _Administrative Appeals Tribunal Act 1975_, application may be made to the Administrative Appeals Tribunal for review of the decision to which the notice relates by or on behalf of the person or persons whose interests are affected by the decision.
 
              (3)  Failure to comply with subsection (2) in relation to a decision does not affect the validity of the decision.
 
@@ -4832,7 +4832,7 @@ the prescribed provisions have effect for the protection or compensation of pers
 
                      (a)  section 6 of the _Crimes Act 1914_ that relates to this Act or the regulations; or
 
-                     (b)  section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the _Criminal Code_ that relates to this Act or the regulations.
+                     (b)  section 11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_ that relates to this Act or the regulations.
 
              (6)  Where:
 
@@ -5112,7 +5112,7 @@ and such a patent is not invalid, so far as the invention is claimed in any clai
 
                    Any report, order or direction made or given under the 1952 Act and in force immediately before the commencing day continues to have effect on and after that day as if it had been made or given under a corresponding provision of this Act.
 
-##### <a id="238"></a>238  The Commissioner and Deputy Commissioner
+##### <a id="238"></a>238  The Commissioner and Deputy Commissioner
 
                    The persons holding office as Commissioner of Patents and Deputy Commissioner of Patents immediately before the commencing day continue to hold those respective offices on and after that day.
 
@@ -5720,7 +5720,7 @@ Sch. 2 \[items 2(2), 7] (am. by 99, 2001, Sch. 2 \[items 1, 2]) \[ <i>see</i>Tab
     <div>Ss. 4–14 and Schedule 3 (item 401): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(e)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5828,7 +5828,7 @@ Schedules 10 and 12 (item 4): 27 Mar 2007
 Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
-    <div>Sch. 5 (item 2), Sch. 6 (item 2), Sch. 7 (item 4), Sch. 8 (item 9), Sch. 9 (item 2) and Sch. 10 (item 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 5 (item 2), Sch. 6 (item 2), Sch. 7 (item 4), Sch. 8 (item 9), Sch. 9 (item 2) and Sch. 10 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5846,40 +5846,6 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>Sch. 2 (item 15) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 22): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 39): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -6169,7 +6135,7 @@ _(g)_ Subsection 2(1) (item 20) of the _Statute Law Revision Act 2005_ provide
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 140, 2000; No. 8, 2010</div>
+    <div>am. No. 140, 2000</div>
   </td>
 </tr>
 <tr>
@@ -7736,7 +7702,7 @@ of Chapt. 6</div>
     <div>S. 225</div>
   </td>
   <td>
-    <div>am. No. 140, 2001; No. 4, 2010</div>
+    <div>am. No. 140, 2001</div>
   </td>
 </tr>
 <tr>
@@ -7885,7 +7851,7 @@ Note 1:       The _Personal Property Securities Act 2009_ applies to
 
 Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
 
-As at 4 March 2010 the amendments are not incorporated in this compilation.
+As at 4 February 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
