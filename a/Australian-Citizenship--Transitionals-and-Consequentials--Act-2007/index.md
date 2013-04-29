@@ -1,19 +1,36 @@
-![](http://www.comlaw.gov.au/Details/C2007C00309/Html/AusCitizenshipTransCons2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00455/Html/AusCitizenshipTransCons2007_image001.gif)
 
 # Australian Citizenship (Transitionals and Consequentials) Act 2007
 
 **Act No. 21 of 2007 as amended**
 
-This compilation was prepared on 20 April 2007
+This compilation was prepared on 24 September 2009
 
-**\[This Act is to be amended by Act No. 63 of 2007]**
+**\[This Act was amended by Act No. 63 of 2007; No. 85 of 2008; No. 90 of 2009]**
 
 **Amendments from Act No. 63 of 2007**
 
-\[Schedule 1 (item 66) repeals item 39 of Schedule 1
- Schedule 1 (item 67) repeals item 22 of Schedule 3
+\[Schedule 1 (item 66) repealed item 39 of Schedule 1
+ Schedule 1 (item 67) repealed item 22 of Schedule 3
 
-Schedule 1 (items 66 and 67) commence immediately before the commencement of Schedules 1 and 3 to the _Australian Citizenship (Transitionals and Consequentials) Act 2007_.  However, the amendments may not commence at all, _see_ s. 2(1) (item 4). The amendments have not been incorporated]
+Schedule 1 (items 66 and 67) commenced immediately before 1 July 2007]
+
+**Amendments from Act No. 85 of 2008**
+
+\[Schedule 5 (item 17) repealed and substituted item 5B of Schedule 3
+ Schedule 5 (item 18) amended item 7 of Schedule 3
+
+Schedule 5 (items 17 and 18) commenced immediately before 1 July 2007]
+
+For application provision _see_ Act No. 85, 2008, Schedule 5 (item 19)
+
+**Amendment from Act No. 90 of 2009**
+
+\[Schedule 2 (item 7) amended item 5B of Schedule 3
+
+Schedule 2 (item 7) commenced on 21 September 2009]
+
+For application provision _see_ Act No. 90, 2009, Schedule 2 (item 8)
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -62,11 +79,9 @@ Electronic Transactions Act 1999                
 
 Financial Transaction Reports Act 1988                                                               7
 
-Higher Education Funding Act 1988                                                                      7
+Higher Education Funding Act 1988                                                                      8
 
 Legislative Instruments Act 2003                                                                             9
-
-Migration Act 1958                                                                                                     9
 
 Qantas Sale Act 1992                                                                                                 9
 
@@ -84,7 +99,7 @@ Immigration (Education) Act 1971                
 
 Part 1—Provisions relating to the enactment of the Australian Citizenship Act 2007 12
 
-Part 2—Provisions relating to the amendments made by Schedules 1 and 2 to this Act           21
+Part 2—Provisions relating to the amendments made by Schedules 1 and 2 to this Act           22
 
 ## An Act to provide for transitional and consequential matters relating to the enactment of the _Australian Citizenship Act 2007_, and for other purposes
 
@@ -159,7 +174,7 @@ The Parliament of Australia enacts:
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div> </div>
+    <div>15 March 2007</div>
   </td>
 </tr>
 <tr>
@@ -171,7 +186,8 @@ The Parliament of Australia enacts:
       <i>Australian Citizenship Act 2007</i>commence.</div>
   </td>
   <td>
-    <div> </div>
+    <div>1 July 2007 (
+      <i>see</i>F2007L01653)</div>
   </td>
 </tr></table>
 
@@ -397,7 +413,7 @@ Repeal the paragraphs.
 
 Omit “under any”, substitute “under either”.
 
-<h9 class="ActHead9">Higher Education Funding Act 1988</h9>
+<h9 class="ActHead9" style="page-break-after:avoid">Higher Education Funding Act 1988</h9>
 
 ## 32  Section 3 (definition of _permanent resident_)
 
@@ -405,7 +421,7 @@ Repeal the definition, substitute:
 
                     <a name="perman-resid"></a>**_permanent resident_** has the same meaning as in the _Australian Citizenship Act 2007_.
 
-## 33  Section 3 (definition of _permanent visa_)
+## 33  Section 3 (definition of _permanent visa_)
 
 Repeal the definition, substitute:
 
@@ -449,12 +465,6 @@ Repeal the item, substitute:
     </div>
   </td>
 </tr></table>
-
-<h9 class="ActHead9">Migration Act 1958</h9>
-
-## 39  Paragraph 336D(2)(g)
-
-Omit “_Australian Citizenship Act 1948_”, substitute “_Australian Citizenship Act 2007_”.
 
 <h9 class="ActHead9">Qantas Sale Act 1992</h9>
 
@@ -632,17 +642,17 @@ _Note:       The effect of this item is that if a person ceases to b
 
 (2)        Paragraphs 19C(2)(e) and (f) of the new Act apply as if a reference to Subdivision A included a reference to section 10B, 10C or 11 of the old Act (about citizenship by descent).
 
-## 5B  Citizenship by conferral—persons who are permanent residents at commencement
+5B  Citizenship by conferral—persons who are permanent residents at commencement
 
-If:
+(1)        This item applies if:
 
                      (a)  a person is a permanent resident (worked out under the old Act) immediately before the commencement day; and
 
-                     (b)  the person makes an application under subsection 21(1) of the new Act within the period of 3 years beginning on the commencement day;
+                     (b)  the person makes an application under subsection 21(1) of the new Act within the period of 3 years beginning on the commencement day.
 
-then, for the purposes of that application, subsections 22(1) to (2), (4A) and (5A) of the new Act do not apply and the following subsections of section 22 of the new Act apply instead:
+(2)        In applying section 22 of the new Act to an application covered by subitem (1), subsections 22(1) to (2), (4A) and (5A) of the new Act do not apply and the following subsections of section 22 of the new Act apply instead:
 
-             (1)  For the purposes of section 21, a person satisfies the **_residence requirement_** if the person has been present in Australia as a permanent resident for:
+             (1)  For the purposes of section 21, a person satisfies the **_general residence requirement_** if the person has been present in Australia as a permanent resident for:
 
                      (a)  a total period of at least 1 year in the period of 2 years before the day the person made the application; and
 
@@ -659,6 +669,8 @@ then, for the purposes of that application, subsections 22(1) to (2), (4A) and (
                      (a)  confined in a prison; or
 
                      (b)  confined in a psychiatric institution by order of a court made in connection with proceedings for an offence against an Australian law in relation to the person.
+
+(3)        In applying section 22 of the new Act to an application covered by subitem (1), subsections 22(5), (6) and (11) of the new Act have effect as if the reference in those subsections to “paragraph (1)(c)” were a reference to “subsection (1)” (as applied by subitem (2) of this item).
 
 ## 6  Revocation of citizenship by conferral under the new Act
 
@@ -768,6 +780,8 @@ _Note:       The new application will be assessed under the provisio
 
                      (b)  the person was not present in Australia during that period but was a permanent resident during that period.
 
+(9)        In applying section 22 of the new Act to a new application covered by subitem (2), subsections 22(5), (6) and (11) of the new Act have effect as if the reference in those subsections to “paragraph (1)(c)” were a reference to “subsection (1)” (as applied by subitem (8) of this item).
+
 ## 8  Person granted certificate of citizenship under the old Act but not an Australian citizen under the old Act
 
 (1)        If:
@@ -859,15 +873,5 @@ The amendment made by item 1 of Schedule 2 applies in relation to:
                      (a)  a person in respect of which an obligation under section 4C of the _Immigration (Education) Act 1971_ begins on or after the commencement day; or
 
                      (b)  a person in respect of which an obligation under that section began before the commencement day, but only if that obligation has not ceased before the commencement day.
-
-## 22  Transitional—_Migration Act 1958_
-
-(1)        This item applies to an authorisation that:
-
-                     (a)  is in force under section 336D of the _Migration Act 1958_ immediately before the commencement day; and
-
-                     (b)  specifies the purpose of making decisions under the _Australian Citizenship Act 1948_ or the regulations made under that Act.
-
-(2)        The authorisation has effect on and after that day as if it were an authorisation in force under that section that specified the purpose of making decisions under the _Australian Citizenship Act 2007_ or the regulations made under that Act.
 
  
