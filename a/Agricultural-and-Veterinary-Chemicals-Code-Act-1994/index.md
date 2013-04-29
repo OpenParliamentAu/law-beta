@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00810/Html/2813cd85-4e62-4762-9386-fd5a9e55704e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00004/Html/63437267-b295-410b-9110-8f16403c2863_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 12 November 2012
- taking into account amendments up to Act No. 147 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -797,7 +798,7 @@ the Minister may, by signed writing, make orders with respect to that matter tha
 
              (9)  An order is to be interpreted subject to the Agvet Code of the participating Territories and it is intended that if, apart from this subsection, a provision of an order would have been interpreted as being inconsistent with that Code, the provision is nevertheless to be valid in so far as it is not so inconsistent.
 
-##### <a id="8"></a>8  Compensation
+##### <a id="8"></a>8  Compensation
 
              (1)  In this section:
 
@@ -2272,7 +2273,7 @@ to perform the functions of a co‑ordinator under this Code.
 
                              (v)  contains information about the chemical and physical properties of the product other than confidential commercial information; and
 
-                            (vi)  contains information in relation to the product of a kind prescribed for the purposes of paragraph (f) of the definition of **_Safety Data Sheet_**in section 5 of the _Industrial Chemicals (Notification and Assessment) Act 1989_; and
+                            (vi)  contains information in relation to the product of a kind prescribed for the purposes of paragraph (f) of the definition of **_Material Safety Data Sheet_**in section 5 of the _Industrial Chemicals (Notification and Assessment) Act 1989_; and
 
                      (b)  which, if there is a note known as a Guidance Note for Completion of a Material Safety Data Sheet published by the National Occupational Health and Safety Commission, is prepared in accordance with that note.
 
@@ -2616,7 +2617,7 @@ in order to ensure that the product’s residues fall to or below the maximum li
 
 ##### <a id="8A"></a>8A  Application of the _Criminal Code_
 
-                   Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Code.
+                   Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Code.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -6003,7 +6004,7 @@ Note:          The defendant bears an evidential burden in rel
 
                     Penalty:  300 penalty units.
 
-##### <a id="88"></a>88  Certain notices not to be published
+##### <a id="88"></a>88  Certain notices not to be published
 
              (1)  In this section:
 
@@ -8087,7 +8088,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00810/Html/2813cd85-4e62-4762-9386-fd5a9e55704e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00004/Html/63437267-b295-410b-9110-8f16403c2863_files/image002.gif)
 
 where:
 
@@ -8317,7 +8318,7 @@ the following paragraphs apply:
 
                      (d)  any particulars of trials or laboratory experiments or other information given to the APVMA under a provision of the repealed Act in connection with the application are taken to have been given to the APVMA under the provision of that Code that corresponds to that provision of the repealed Act.
 
-##### <a id="180"></a>180  Reconsideration of existing clearances for registration
+##### <a id="180"></a>180  Reconsideration of existing clearances for registration
 
                    If:
 
@@ -8474,7 +8475,7 @@ of Assent</div>
     <div>24 Mar 1994</div>
   </td>
   <td>
-    <div>15 Mar 1995 ( <i>see</i>s. 2)</div>
+    <div>15 Mar 1995 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div></div>
@@ -8804,23 +8805,6 @@ Schedule 1 (item 5): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Chemicals (Notification and Assessment) Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>147, 2012</div>
-  </td>
-  <td>
-    <div>6 Nov 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -9268,7 +9252,7 @@ _(e)_ Subsection 2(1) (items 2–6) of the _Food Standards Australia New Zealand
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007; No. 113, 2010; No. 46, 2011; No. 147, 2012</div>
+    <div>am. No. 22, 1997; No. 13, 2003; Nos. 79 and 120, 2004; No. 98, 2007; No. 113, 2010; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12125,7 +12109,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 ## Schedule 1
 
-## 7B  Labels approved under existing law
+## 7B  Labels approved under existing law
 
 (1)       If a label was, immediately before commencement, an approved label within the meaning of the old law, then:
 
