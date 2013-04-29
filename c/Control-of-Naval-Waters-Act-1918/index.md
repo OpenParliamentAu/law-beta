@@ -1,52 +1,49 @@
-![](http://www.comlaw.gov.au/Details/C2004C00175/Html/a42cda60-e47b-49c7-847c-f3e1615ac88f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03020/Html/ContNavWaters18_image001.gif)
 
 # Control of Naval Waters Act 1918
 
 **Act No. 28 of 1918 as amended**
 
-This compilation was prepared on 23 December 2003
- taking into account amendments up to Act No. 135 of 2003
+This compilation was prepared on 31 October 2001
+ taking into account amendments up to Act No. 141 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
-
 Prepared by the Office of Legislative Drafting,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Interpretation
+[2](#2).            Interpretation                                                                                       1
 
-[3](#3).            Extension of Act to Territories
+[3](#3).            Extension of Act to Territories                                                            2
 
-[3AA](#3AA).      Application of the _Criminal Code_
+[3AA](#3AA).      Application of the _Criminal Code_                                                       2
 
-[3A](#3A).         Declaration of vessels as exempt vessels
+[3A](#3A).         Declaration of vessels as exempt vessels                                             3
 
-[3B](#3B).         Declaration of waters as naval waters
+[3B](#3B).         Declaration of waters as naval waters                                                 3
 
-[3C](#3C).         Appointment of superintendents
+[3C](#3C).         Appointment of superintendents                                                        3
 
-[4](#4).            Power to make regulations
+[4](#4).            Power to make regulations                                                                   3
 
-[5](#5).            Construction of certain buildings etc  may be prohibited
+[5](#5).            Construction of certain buildings etc  may be prohibited                    5
 
-[6](#6).            Power of superintendent to give directions concerning vessels within naval waters etc 
+[6](#6).            Power of superintendent to give directions concerning vessels within naval waters etc         6
 
-[6A](#6A).         Power of superintendent to give directions concerning aircraft, vehicles or vessels on foreshore of naval waters etc 
+[6A](#6A).         Power of superintendent to give directions concerning aircraft, vehicles or vessels on foreshore of naval waters etc                                                                                                              6
 
-[7](#7).            Power to remove vessel, wreck etc 
+[7](#7).            Power to remove vessel, wreck etc                                                      7
 
-[8](#8).            Recovery of expenses of removal of vessels etc 
+[8](#8).            Recovery of expenses of removal of vessels etc                                  8
 
-[9](#9).            Service of summons etc 
+[9](#9).            Service of summons etc                                                                       8
 
-[10](#10).          Offences, where to be deemed to have been committed
+[10](#10).          Offences, where to be deemed to have been committed                      9
 
 **Notes** 
 
@@ -66,7 +63,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="defenc-land"></a>**_defence land_** means land used by the Commonwealth for purposes related to the defence of the Commonwealth, and includes:
 
-                     (a)  land set apart for, or dedicated to, a public purpose, being a purpose related to the defence of the Commonwealth, by the Governor‑General under section 122 of the _Lands Acquisition Act 1989_; and
+                     (a)  land set apart for, or dedicated to, a public purpose, being a purpose related to the defence of the Commonwealth, by the Governor-General under section 122 of the _Lands Acquisition Act 1989_; and
 
                      (b)  land reserved under a law of a Territory for a purpose related to the defence of the Commonwealth.
 
@@ -114,7 +111,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="3A"></a>3A  Declaration of vessels as exempt vessels
 
-                   The Governor‑General may, by Proclamation, declare all vessels, or a specified vessel, belonging to, or used by, the naval forces of a specified country to be exempt vessels or an exempt vessel, as the case may be, for the purposes of this Act.
+                   The Governor-General may, by Proclamation, declare all vessels, or a specified vessel, belonging to, or used by, the naval forces of a specified country to be exempt vessels or an exempt vessel, as the case may be, for the purposes of this Act.
 
 ##### <a id="3B"></a>3B  Declaration of waters as naval waters
 
@@ -124,17 +121,17 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  waters that are wholly within a distance of 2 nautical miles from the limits of defence land on which there is not an installation.
 
-             (2)  The Governor‑General may, by Proclamation, declare that specified waters, being waters to which this section applies, are naval waters for the purposes of this Act.
+             (2)  The Governor-General may, by Proclamation, declare that specified waters, being waters to which this section applies, are naval waters for the purposes of this Act.
 
 ##### <a id="3C"></a>3C  Appointment of superintendents
 
-             (1)  The Governor‑General may, by instrument in writing, appoint a person to be the superintendent of such naval waters as are specified in the instrument.
+             (1)  The Governor-General may, by instrument in writing, appoint a person to be the superintendent of such naval waters as are specified in the instrument.
 
              (2)  An appointment under subsection (1) may specify the person to whom the appointment relates by reference to the office or position that the person holds or the functions or duties that the person performs.
 
 ##### <a id="4"></a>4  Power to make regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters and things which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for the purpose of carrying out or giving effect to the control of naval waters, and in particular for the following:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and things which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for the purpose of carrying out or giving effect to the control of naval waters, and in particular for the following:
 
                      (a)  for regulating the mooring or anchoring of vessels within, or so as not to obstruct navigation into in or out of, naval waters;
 
@@ -186,7 +183,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (o)  for prescribing penalties, not exceeding $1,000 or imprisonment for 6 months, for any contravention of, or failure to comply with, the regulations.
 
-             (2)  Without limiting the generality of the power of the Governor‑General to make regulations under this section, the regulations may:
+             (2)  Without limiting the generality of the power of the Governor-General to make regulations under this section, the regulations may:
 
                      (a)  prohibit the doing of an act or thing absolutely; or
 
@@ -210,7 +207,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the master fails to comply with the direction.
 
-                    Maximum penalty: $1,000.
+                    Maximum penalty:    $1,000.
 
           (2A)  An offence under subsection (2) is an offence of strict liability.
 
@@ -286,7 +283,7 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="31%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
   <col width="22%">
@@ -313,7 +310,17 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
+</thead></table>
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Control of Naval Waters Act 1918</div>
@@ -393,7 +400,7 @@ of Assent</div>
     <div>5 Feb 1991</div>
   </td>
   <td>
-    <div>Ss. 10–13 and 16–18: 1 July 1990 
+    <div>Ss. 10-13 and 16-18: 1 July 1990 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -412,101 +419,24 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
-Schedule 1 (items 3, 4): 15 Dec 2001</div>
+Schedule 1 (items 3, 4): 2 Oct 2001 <i>(a)</i></div>
   </td>
   <td>
-    <div>S. 4 \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> as amended by </b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 28): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
+_(a)_ The _Control of Naval waters Act 1918_ was amended by Schedule 1 (items 3 and 4) only of the _Defence Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(2) of which provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+                 (2)   Part 1 of Schedule 1 commences on the later of:
 
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
+                              (a)   the day on which Chapter 2 of the _Criminal Code_ commences; and
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b> Commencement information </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b> Column 1 </b></div>
-    </td>
-    <td>
-      <div><b> Column 2 </b></div>
-    </td>
-    <td>
-      <div><b> Column 3 </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b> Provision(s) </b></div>
-    </td>
-    <td>
-      <div><b> Commencement </b></div>
-    </td>
-    <td>
-      <div><b> Date/Details </b></div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>9\. Schedule 2, item 28</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of section 2 of the <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i> </div>
-  </td>
-  <td>
-    <div>1 October 2001</div>
-  </td>
-</tr></table>
+                              (b)   the day after the day on which this Act receives the Royal Assent.
 
 ## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
@@ -514,21 +444,14 @@ _(a)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendme
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>S. 2</div>
@@ -571,7 +494,7 @@ _(a)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendme
 </tr>
 <tr>
   <td>
-    <div>Ss. 3A–3C</div>
+    <div>Ss. 3A-3C</div>
   </td>
   <td>
     <div>ad. No. 8, 1978</div>
@@ -645,7 +568,5 @@ _Defence Legislation Amendment (Application of Criminal Code) Act 2001  (No.�
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
- 
 
  
