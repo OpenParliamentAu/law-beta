@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2004C01673/Html/EqualOppWomWkpl99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01672/Html/EqualOppWomWkpl99_image001.gif)
 
 # Equal Opportunity for Women in the Workplace Act 1999
 
 **Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 19 May 2003
+This compilation was prepared on 15 January 2003
  taking into account amendments up to Act No. 127 of 2002
 
 The text of any of those amendments not in force
@@ -212,7 +212,7 @@ but does not include the Commonwealth, a State, a Territory or an authority.
 
                     <a name="trade-union"></a>**_trade union_** means:
 
-                     (a)  an association of employees that is an organisation within the meaning of Schedule 1B to the _Workplace Relations Act 1996_; or
+                     (a)  an association of employees that is an organisation within the meaning of the _Workplace Relations Act 1996_; or
 
                      (b)  a trade union within the meaning of a State Act or law of a Territory.
 
@@ -1047,7 +1047,7 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002</div>
+    <div>Workplace Relations Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002</div>
   </td>
   <td>
     <div>105, 2002</div>
@@ -1056,7 +1056,7 @@ Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
     <div>14 Nov 2002</div>
   </td>
   <td>
-    <div>Schedule 3 (item 47): 12 May 2003 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. GN49)</div>
+    <div>Schedule 3 (item 47) \[ <i>see (i)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1122,6 +1122,99 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
 
                  (3)   Items 12, 13, 14, 24, 27, 28, 29, 30, 34, 44, 46, 47, 48, 55 and 57 of Schedule 1, items 90, 91 and 101 of Schedule 2, and items 2 and 6 to 11 of Schedule 3 commence 28 days after the day on which this Act receives the Royal Assent.
 
+_(i)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 47) only of the _Workplace Relations Amendment (Registration and Accountability of Organisations) Act 2002_, subsection 2(1) (items 2 and 25) and (3) of which provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>2\. Schedules 1 and 2</div>
+  </td>
+  <td>
+    <div>A single day to be fixed by Proclamation, subject to subsection (3)</div>
+  </td>
+  <td>
+    <div>12 May 2003 \[ <i>see Gazette</i>2002, No. GN49]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>25\. Schedule 3, item 47</div>
+  </td>
+  <td>
+    <div>At the same time as the provisions covered by item 2 of this table</div>
+  </td>
+  <td>
+    <div>12 May 2003 \[ <i>see</i>Note 2]</div>
+  </td>
+</tr></table>
+
+ 
+
 ## Table of Amendments
 
 <table>
@@ -1180,7 +1273,7 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; Nos. 105 and 127, 2002</div>
+    <div>am. Nos. 80 and 87, 1988; No. 30, 1989; Nos. 105 and 181, 1992; No. 60, 1996; No. 183, 1999; No. 55, 2001; No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -1447,6 +1540,22 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>am. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Workplace Relations Legislation Amendment (Registration and Accountability of Organisations) (Consequential Provisions) Act 2002 (No. 105, 2002)_
+
+The following amendment commences on 12 May 2003:
+
+## Schedule 3
+
+## 47  Subsection 3(1) (paragraph (a) of the definition of _trade union_)
+
+Omit “the _Workplace Relations Act 1996_”, substitute “Schedule 1B to the _Workplace Relations Act 1996_”.
+
+As at 15 January 2003 the amendment is not incorporated in this compilation.
+
+ 
 
 ## Table A
 
