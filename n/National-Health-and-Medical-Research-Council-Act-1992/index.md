@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00734/Html/NatHeaMedResCou1992WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00359/Html/NatHeaMedResCou1992WD02_image001.gif)
 
 # National Health and Medical Research Council Act 1992
 
 **Act No. 225 of 1992 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 June 2010
  taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force
@@ -294,6 +294,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="princip-committe"></a>**_Principal Committee_** means a committee established, or taken to be established, by the Minister under section 35.
 
+                    <a name="privaci-commission"></a>**_Privacy Commissioner_** means the Privacy Commissioner within the meaning of the _Privacy Act 1988_.
+
                     <a name="public-health-research"></a>**_public health research_** includes the study of the health of a community or population for purposes directed at improving or protecting the health of that community or population.
 
                     <a name="regulatori-recommend"></a>**_regulatory recommendation_** means a recommendation of the CEO that is intended to be given legal effect in a State by legislation of that State.
@@ -492,7 +494,7 @@ Note:          This section does not apply if the recommendati
 
              (4)  The Council must have regard to any submissions received pursuant to the invitation referred to in subparagraph (3)(a)(iii) before providing the recommendation to the CEO.
 
-##### <a id="13"></a>13  Consultation about guidelines
+##### <a id="13"></a>13  Consultation about guidelines
 
                    Before:
 
@@ -1384,9 +1386,9 @@ if:
 
                      (b)  the Commissioner believes that a complaint concerning the action:
 
-                              (i)  could have been made by the complainant to the Information Commissioner under Part V of the _Privacy Act 1988_; and
+                              (i)  could have been made by the complainant to the Privacy Commissioner under Part V of the _Privacy Act 1988_; and
 
-                             (ii)  could be more conveniently or effectively dealt with by the Information Commissioner;
+                             (ii)  could be more conveniently or effectively dealt with by the Privacy Commissioner;
 
 the Commissioner may decide:
 
@@ -1402,13 +1404,13 @@ the Commissioner may decide:
 
 the Commissioner must:
 
-                     (c)  transfer the complaint to the Information Commissioner; and
+                     (c)  transfer the complaint to the Privacy Commissioner; and
 
-                     (d)  give to the Information Commissioner any information or documents relating to the complaint that are in the possession, or under the control, of the Commissioner; and
+                     (d)  give to the Privacy Commissioner any information or documents relating to the complaint that are in the possession, or under the control, of the Commissioner; and
 
                      (e)  as soon as possible after transferring the complaint, give the complainant a written notice that informs the complainant of the transfer.
 
-             (6)  A complaint transferred under subsection (5) is taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_.
+             (6)  A complaint transferred under subsection (5) is taken to be a complaint made to the Privacy Commissioner under Part V of the _Privacy Act 1988_.
 
 ### Division 2—Procedure and powers of Commissioner
 
@@ -1999,14 +2001,15 @@ Remainder: Royal Assent</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 48–51) and Schedule 7: <i>(e)</i></div>
+    <div>Schedule 5 (items 48–51): \[ <i>see</i> <i>(e)</i>and Note 2] 
+Schedule 7: <i>(e)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr></table>
 
-_(a)_     The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
+_(a)_    The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2111,7 +2114,8 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -2160,7 +2164,7 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 149, 1995; No. 152, 1997; No. 6, 2000; Nos. 8 and 32, 2005; No. 50, 2006; No. 51, 2010</div>
+    <div>am. No. 149, 1995; No. 152, 1997; No. 6, 2000; Nos. 8 and 32, 2005; No. 50, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3120,7 +3124,7 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. No. 50, 2006; No. 51, 2010</div>
+    <div>am. No. 50, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3315,6 +3319,32 @@ _(e)_Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform
     <div>rep. No. 50, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 5
+
+## 48  Section 4 (definition of _Privacy Commissioner_)
+
+Repeal the definition.
+
+## 49  Subparagraphs 61(4)(b)(i) and (ii)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+## 50  Paragraphs 61(5)(c) and (d)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+## 51  Subsection 61(6)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3628,7 +3658,7 @@ Determinations are not legislative instruments
 
 (7)        A determination made under subitem (3) is not a legislative instrument.
 
-## 133  Continued effect of certain instruments made under the old law
+## 133  Continued effect of certain instruments made under the old law
 
 An instrument:
 
