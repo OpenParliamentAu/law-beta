@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00386/Html/18760ed6-b0fc-44ae-94f4-3d1ba38caee3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00291/Html/d936d49a-ca1d-4ed7-adc0-70797dbb01ec_files/image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -380,7 +380,7 @@ Note:          **_Participant in the voucher system_** is defi
 
 ### Division 3—Participants in the voucher system
 
-##### <a id="13"></a>13  Participants in the voucher system
+##### <a id="13"></a>13  Participants in the voucher system
 
              (1)  The Minister may, by writing, determine that:
 
@@ -1212,23 +1212,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 276, 277): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Hearing Services Administration Act 1997_ was amended by Schedule 1 (items 35–37) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(1) of which provides as follows:
@@ -1394,28 +1377,6 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
     <div>am. No. 111, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 276  Section 4
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 277  Subsection 21(10) (paragraph (d) of the definition of _body_)
-
-Repeal the paragraph, substitute:
-
-                     (d)  the Chief Executive Medicare.
-
-As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
