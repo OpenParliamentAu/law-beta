@@ -1,11 +1,11 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="1AB80ADEC9C54E1ECA256FE1001DAAEB/$FILE/image001.png"></v:imagedata></v:shape><o:p></o:p>
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="C3F609C7C289A6B3CA256FB900344EAA/$FILE/image001.png"></v:imagedata></v:shape><o:p></o:p>
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992<o:p></o:p>
 
 **Act No. 262 of 1992 as amended<o:p></o:p>**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="7" month="4">7 April 2005</st1:date>
-taking into account amendments up to Act No. 42 of 2005<o:p></o:p>
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="3">1 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force on that date is appended in the Notes section<o:p></o:p>
 
@@ -50,215 +50,215 @@ Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bott
 
 [10](#10).          Minister may give directions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[11](#11).          Delegation by APVMA<span style="mso-tab-count: 1 dotted">                                                                       </span>
+[11](#11).          Delegation by APVMA<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-**Part 3—Constitution and meetings of APVMA<span style="mso-tab-count: 1">                                                     </span>**
+**Part 3—Constitution and meetings of APVMA<span style="mso-tab-count: 1">                                                   </span>**
 
-[12](#12).          APVMA is body corporate etc <span style="mso-tab-count: 1 dotted">                                                          </span>
+[12](#12).          APVMA is body corporate etc <span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[13](#13).          Constitution of APVMA<span style="mso-tab-count: 1 dotted">                                                                    </span>
+[13](#13).          Constitution of APVMA<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[14](#14).          Appointment of directors<span style="mso-tab-count: 1 dotted">                                                                    </span>
+[14](#14).          Appointment of directors<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[15](#15).          Deputy Chairperson<span style="mso-tab-count: 1 dotted">                                                                            </span>
+[15](#15).          Deputy Chairperson<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[16](#16).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                           </span>
+[16](#16).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[17](#17).          Term of office<span style="mso-tab-count: 1 dotted">                                                                                      </span>
+[17](#17).          Term of office<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[18](#18).          Directors hold office on part-time basis<span style="mso-tab-count: 1 dotted">                                              </span>
+[18](#18).          Directors hold office on part-time basis<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[19](#19).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                              </span>
+[19](#19).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[20](#20).          Directors may receive other benefits<span style="mso-tab-count: 1 dotted">                                                   </span>
+[20](#20).          Directors may receive other benefits<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[21](#21).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                  </span>
+[21](#21).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[22](#22).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+[22](#22).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[23](#23).          Disclosure of interests in resolutions without formal meetings<span style="mso-tab-count: 1 dotted">          </span>
+[23](#23).          Disclosure of interests in resolutions without formal meetings<span style="mso-tab-count: 1 dotted">        </span>
 
-[24](#24).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                               </span>
+[24](#24).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[25](#25).          Terms and conditions of appointment not provided for by Act<span style="mso-tab-count: 1 dotted">         </span>
+[25](#25).          Terms and conditions of appointment not provided for by Act<span style="mso-tab-count: 1 dotted">       </span>
 
-[26](#26).          Meetings of APVMA<span style="mso-tab-count: 1 dotted">                                                                          </span>
+[26](#26).          Meetings of APVMA<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[27](#27).          Resolutions without formal meetings<span style="mso-tab-count: 1 dotted">                                                  </span>
+[27](#27).          Resolutions without formal meetings<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[28](#28).          Establishment of committees<span style="mso-tab-count: 1 dotted">                                                               </span>
+[28](#28).          Establishment of committees<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[29](#29).          Meetings of committees<span style="mso-tab-count: 1 dotted">                                                                      </span>
+[29](#29).          Meetings of committees<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[30](#30).          Arrangements relating to staff etc <span style="mso-tab-count: 1 dotted">                                                       </span>
+[30](#30).          Arrangements relating to staff etc <span style="mso-tab-count: 1 dotted">                                                     </span>
 
-**Part 4—Chief Executive Officer<span style="mso-tab-count: 1">                                                                                     </span>**
+**Part 4—Chief Executive Officer<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[31](#31).          Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                                                        </span>
+[31](#31).          Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[32](#32).          Duties<span style="mso-tab-count: 1 dotted">                                                                                                  </span>
+[32](#32).          Duties<span style="mso-tab-count: 1 dotted">                                                                                                </span>
 
-[33](#33).          Appointment<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+[33](#33).          Appointment<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[34](#34).          Term of appointment<span style="mso-tab-count: 1 dotted">                                                                          </span>
+[34](#34).          Term of appointment<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[35](#35).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                              </span>
+[35](#35).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[36](#36).          Chief Executive Officer may receive other benefits<span style="mso-tab-count: 1 dotted">                             </span>
+[36](#36).          Chief Executive Officer may receive other benefits<span style="mso-tab-count: 1 dotted">                           </span>
 
-[37](#37).          Terms and conditions of appointment<span style="mso-tab-count: 1 dotted">                                                </span>
+[37](#37).          Terms and conditions of appointment<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[38](#38).          Chief Executive Officer not to engage in other paid employment<span style="mso-tab-count: 1 dotted">       </span>
+[38](#38).          Chief Executive Officer not to engage in other paid employment<span style="mso-tab-count: 1 dotted">     </span>
 
-[39](#39).          Leave of absence for recreation<span style="mso-tab-count: 1 dotted">                                                            </span>
+[39](#39).          Leave of absence for recreation<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[40](#40).          Leave of absence for other purposes<span style="mso-tab-count: 1 dotted">                                                   </span>
+[40](#40).          Leave of absence for other purposes<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[41](#41).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+[41](#41).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[42](#42).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                         </span>
+[42](#42).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[43](#43).          Acting Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                                            </span>
+[43](#43).          Acting Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[44](#44).          Delegation by the Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                          </span>
+[44](#44).          Delegation by the Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                        </span>
 
-**Part 5—Employees and consultants<span style="mso-tab-count: 1">                                                                             </span>**
+**Part 5—Employees and consultants<span style="mso-tab-count: 1">                                                                           </span>**
 
-[45](#45).          Employees<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+[45](#45).          Employees<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[46](#46).          Staff to be made available to the APVMA<span style="mso-tab-count: 1 dotted">                                          </span>
+[46](#46).          Staff to be made available to the APVMA<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[47](#47).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+[47](#47).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[48](#48).          Human resources development program<span style="mso-tab-count: 1 dotted">                                             </span>
+[48](#48).          Human resources development program<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[49](#49).          Merit principle to apply<span style="mso-tab-count: 1 dotted">                                                                     </span>
+[49](#49).          Merit principle to apply<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-**Part 6—Corporate and annual operational plans<span style="mso-tab-count: 1">                                                  </span>**
+**Part 6—Corporate and annual operational plans<span style="mso-tab-count: 1">                                                </span>**
 
-[50](#50).          Development of corporate plan<span style="mso-tab-count: 1 dotted">                                                           </span>
+[50](#50).          Development of corporate plan<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[51](#51).          Approval of corporate plan<span style="mso-tab-count: 1 dotted">                                                                 </span>
+[51](#51).          Approval of corporate plan<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[52](#52).          Variation of corporate plan by APVMA<span style="mso-tab-count: 1 dotted">                                            </span>
+[52](#52).          Variation of corporate plan by APVMA<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[53](#53).          Variation at request of Minister<span style="mso-tab-count: 1 dotted">                                                          </span>
+[53](#53).          Variation at request of Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[54](#54).          Date of effect of variations<span style="mso-tab-count: 1 dotted">                                                                  </span>
+[54](#54).          Date of effect of variations<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[55](#55).          Development of annual operational plan<span style="mso-tab-count: 1 dotted">                                             </span>
+[55](#55).          Development of annual operational plan<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[56](#56).          Approval of annual operational plan<span style="mso-tab-count: 1 dotted">                                                   </span>
+[56](#56).          Approval of annual operational plan<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[57](#57).          Variation of annual operational plan<span style="mso-tab-count: 1 dotted">                                                    </span>
+[57](#57).          Variation of annual operational plan<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-**Part 7—Finance<span style="mso-tab-count: 1">                                                                                                                        </span>**
+**Part 7—Finance<span style="mso-tab-count: 1">                                                                                                                      </span>**
 
-[58](#58).          Appropriation of money<span style="mso-tab-count: 1 dotted">                                                                     </span>
+[58](#58).          Appropriation of money<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[59](#59).          When payments to be made to APVMA<span style="mso-tab-count: 1 dotted">                                            </span>
+[59](#59).          When payments to be made to APVMA<span style="mso-tab-count: 1 dotted">                                          </span>
 
-[59A](#59A).       APVMA may give receipts on behalf of the Commonwealth<span style="mso-tab-count: 1 dotted">             </span>
+[59A](#59A).       APVMA may give receipts on behalf of the Commonwealth<span style="mso-tab-count: 1 dotted">           </span>
 
-[60](#60).          Money of APVMA<span style="mso-tab-count: 1 dotted">                                                                             </span>
+[60](#60).          Money of APVMA<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[62](#62).          Expenditure of money of the APVMA<span style="mso-tab-count: 1 dotted">                                               </span>
+[62](#62).          Expenditure of money of the APVMA<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[63](#63).          Borrowing of money<span style="mso-tab-count: 1 dotted">                                                                            </span>
+[63](#63).          Borrowing of money<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[64](#64).          Guarantee of borrowings<span style="mso-tab-count: 1 dotted">                                                                     </span>
+[64](#64).          Guarantee of borrowings<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[65](#65).          Borrowing not otherwise permitted<span style="mso-tab-count: 1 dotted">                                                    </span>
+[65](#65).          Borrowing not otherwise permitted<span style="mso-tab-count: 1 dotted">                                                  </span>
 
-[66](#66).          APVMA may give security<span style="mso-tab-count: 1 dotted">                                                                 </span>
+[66](#66).          APVMA may give security<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[67](#67).          Exemption from tax<span style="mso-tab-count: 1 dotted">                                                                             </span>
+[67](#67).          Exemption from tax<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[68](#68).          Annual report of APVMA<span style="mso-tab-count: 1 dotted">                                                                  </span>
+[68](#68).          Annual report of APVMA<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[69](#69).          Trust money<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+[69](#69).          Trust money<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[69AA](#69AA).    Delegation by Finance Minister<span style="mso-tab-count: 1 dotted">                                                          </span>
+[69AA](#69AA).    Delegation by Finance Minister<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-**Part 7A—Importation, manufacture and exportation of chemicals<span style="mso-tab-count: 1">            </span>** 
+**Part 7A—Importation, manufacture and exportation of chemicals<span style="mso-tab-count: 1">          </span>** 
 
-    **Division 1—Interpretation<span style="mso-tab-count: 1">                                                                                         </span>**
+    **Division 1—Interpretation<span style="mso-tab-count: 1">                                                                                       </span>**
 
-[69A](#69A).       Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+[69A](#69A).       Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-    **Division 2—Importation, manufacture and exportation<span style="mso-tab-count: 1">                             </span>**
+    **Division 2—Importation, manufacture and exportation<span style="mso-tab-count: 1">                           </span>**
 
-[69B](#69B).       Importation offence<span style="mso-tab-count: 1 dotted">                                                                             </span>
+[69B](#69B).       Importation offence<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
 [69CA](#69CA).    Providing information about certain chemical products etc  to comply with international agreements<span style="mso-tab-count: 1">  </span>
 
 [69CB](#69CB).     Providing information about certain chemical products etc  under international consideration<span style="mso-tab-count: 1">               </span>
 
-[69CC](#69CC).     Relevant agency to provide information to other countries<span style="mso-tab-count: 1 dotted">                </span>
+[69CC](#69CC).     Relevant agency to provide information to other countries<span style="mso-tab-count: 1 dotted">              </span>
 
 [69CD](#69CD).    Offences relating to providing information under sections 69CA and 69CB<span style="mso-tab-count: 1">          </span>
 
-[69C](#69C).       Prohibition on import, manufacture, use or export of certain chemical products etc  under international agreements<span style="mso-tab-count: 1 dotted">                                                                                                             </span>
+[69C](#69C).       Prohibition on import, manufacture, use or export of certain chemical products etc  under international agreements<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
 
-[69D](#69D).       Export of chemical products<span style="mso-tab-count: 1 dotted">                                                                </span>
+[69D](#69D).       Export of chemical products<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[69E](#69E).        Annual returns<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+[69E](#69E).        Annual returns<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[69EA](#69EA).     Keeping of records<span style="mso-tab-count: 1 dotted">                                                                               </span>
+[69EA](#69EA).     Keeping of records<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[69EAA](#69EAA).  Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+[69EAA](#69EAA).  Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-    **Division 3—Powers of entry, search and seizure<span style="mso-tab-count: 1">                                          </span>**
+    **Division 3—Powers of entry, search and seizure<span style="mso-tab-count: 1">                                        </span>**
 
-[69EB](#69EB).     Searches to monitor compliance with Part<span style="mso-tab-count: 1 dotted">                                          </span>
+[69EB](#69EB).     Searches to monitor compliance with Part<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[69EC](#69EC).     Offence-related searches and seizures<span style="mso-tab-count: 1 dotted">                                                 </span>
+[69EC](#69EC).     Offence-related searches and seizures<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[69ED](#69ED).     Offence-related warrants<span style="mso-tab-count: 1 dotted">                                                                     </span>
+[69ED](#69ED).     Offence-related warrants<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[69EE](#69EE).     Announcement before entry<span style="mso-tab-count: 1 dotted">                                                                </span>
+[69EE](#69EE).     Announcement before entry<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[69EF](#69EF).     Details of warrant to be given to occupier<span style="mso-tab-count: 1 dotted">                                           </span>
+[69EF](#69EF).     Details of warrant to be given to occupier<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[69EG](#69EG).     Use of equipment to examine or process things<span style="mso-tab-count: 1 dotted">                                  </span>
+[69EG](#69EG).     Use of equipment to examine or process things<span style="mso-tab-count: 1 dotted">                                </span>
 
-[69EH](#69EH).     Use of electronic equipment at premises<span style="mso-tab-count: 1 dotted">                                             </span>
+[69EH](#69EH).     Use of electronic equipment at premises<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[69EI](#69EI).      Compensation for damage to electronic equipment<span style="mso-tab-count: 1 dotted">                             </span>
+[69EI](#69EI).      Compensation for damage to electronic equipment<span style="mso-tab-count: 1 dotted">                           </span>
 
-[69EJ](#69EJ).      Copies of seized things to be given<span style="mso-tab-count: 1 dotted">                                                     </span>
+[69EJ](#69EJ).      Copies of seized things to be given<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[69EK](#69EK).     Return of things that are seized<span style="mso-tab-count: 1 dotted">                                                           </span>
+[69EK](#69EK).     Return of things that are seized<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[69EL](#69EL).     Court of summary jurisdiction may permit a thing to be kept<span style="mso-tab-count: 1 dotted">            </span>
+[69EL](#69EL).     Court of summary jurisdiction may permit a thing to be kept<span style="mso-tab-count: 1 dotted">          </span>
 
-[69EM](#69EM).    Warrants may be granted by telephone in urgent circumstances<span style="mso-tab-count: 1 dotted">         </span>
+[69EM](#69EM).    Warrants may be granted by telephone in urgent circumstances<span style="mso-tab-count: 1 dotted">       </span>
 
-[69EN](#69EN).     Power of inspector to require information or documents<span style="mso-tab-count: 1 dotted">                    </span>
+[69EN](#69EN).     Power of inspector to require information or documents<span style="mso-tab-count: 1 dotted">                  </span>
 
-[69EO](#69EO).     False or misleading information or document<span style="mso-tab-count: 1 dotted">                                      </span>
+[69EO](#69EO).     False or misleading information or document<span style="mso-tab-count: 1 dotted">                                    </span>
 
-    **Division 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                        </span>**
+    **Division 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[69EP](#69EP).     Hearings<span style="mso-tab-count: 1 dotted">                                                                                               </span>
+[69EP](#69EP).     Hearings<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
 [69EQ](#69EQ).     Self-incrimination to be a reasonable excuse for non-compliance with requirement<span style="mso-tab-count: 1">                </span>
 
-[69ER](#69ER).     Copying of documents<span style="mso-tab-count: 1 dotted">                                                                        </span>
+[69ER](#69ER).     Copying of documents<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[69ES](#69ES).      Evidential certificates<span style="mso-tab-count: 1 dotted">                                                                           </span>
+[69ES](#69ES).      Evidential certificates<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[69ET](#69ET).     Forfeiture<span style="mso-tab-count: 1 dotted">                                                                                             </span>
+[69ET](#69ET).     Forfeiture<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[69EU](#69EU).     Conduct by directors, servants and agents<span style="mso-tab-count: 1 dotted">                                          </span>
+[69EU](#69EU).     Conduct by directors, servants and agents<span style="mso-tab-count: 1 dotted">                                        </span>
 
-**Part 7B—Modification of the Agvet Codes for the purpose of giving effect to paragraph 3 of Article 39 of the TRIPS Agreement<span style="mso-tab-count: 1">                                                                                      </span>**
+**Part 7B—Modification of the Agvet Codes for the purpose of giving effect to paragraph 3 of Article 39 of the TRIPS Agreement<span style="mso-tab-count: 1">                                                                                    </span>**
 
-[69EV](#69EV).     Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+[69EV](#69EV).     Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[69EW](#69EW).    Modification of Agvet Codes<span style="mso-tab-count: 1 dotted">                                                              </span>
+[69EW](#69EW).    Modification of Agvet Codes<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[69EX](#69EX).     Application of Part<span style="mso-tab-count: 1 dotted">                                                                              </span>
+[69EX](#69EX).     Application of Part<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
 [69EY](#69EY).     APVMA not to grant current application except in certain circumstances<span style="mso-tab-count: 1">             </span>
 
@@ -268,39 +268,39 @@ Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bott
 
 [69EZB](#69EZB).  Power of APVMA to use information obtained by it for other purposes not to be affected<span style="mso-tab-count: 1"> </span>
 
-**Part 8—Miscellaneous<span style="mso-tab-count: 1">                                                                                                         </span>**
+**Part 8—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[69F](#69F).        Appointment of inspectors<span style="mso-tab-count: 1 dotted">                                                                 </span>
+[69F](#69F).        Appointment of inspectors<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[69G](#69G).       Approval of analysts<span style="mso-tab-count: 1 dotted">                                                                           </span>
+[69G](#69G).       Approval of analysts<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[69H](#69H).       Exemptions from liability for damages<span style="mso-tab-count: 1 dotted">                                                </span>
+[69H](#69H).       Exemptions from liability for damages<span style="mso-tab-count: 1 dotted">                                              </span>
 
 [69J](#69J).        Documents or substances held by APVMA at commencement of Agvet Codes<span style="mso-tab-count: 1">    </span>
 
-[70](#70).          Acts done by APVMA<span style="mso-tab-count: 1 dotted">                                                                       </span>
+[70](#70).          Acts done by APVMA<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[71](#71).          Delegation by Minister<span style="mso-tab-count: 1 dotted">                                                                        </span>
+[71](#71).          Delegation by Minister<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[73](#73).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+[73](#73).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Part 9—Transitional provisions<span style="mso-tab-count: 1">                                                                                      </span>**
+**Part 9—Transitional provisions<span style="mso-tab-count: 1">                                                                                    </span>**
 
-[74](#74).          Staff<span style="mso-tab-count: 1 dotted">                                                                                                     </span>
+[74](#74).          Staff<span style="mso-tab-count: 1 dotted">                                                                                                   </span>
 
-[75](#75).          Transfers of certain assets to APVMA<span style="mso-tab-count: 1 dotted">                                               </span>
+[75](#75).          Transfers of certain assets to APVMA<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[76](#76).          Agreements etc —Minister may make arrangements<span style="mso-tab-count: 1 dotted">                          </span>
+[76](#76).          Agreements etc —Minister may make arrangements<span style="mso-tab-count: 1 dotted">                        </span>
 
-[77](#77).          Estimates<span style="mso-tab-count: 1 dotted">                                                                                             </span>
+[77](#77).          Estimates<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[78](#78).          Money paid in advance to Commonwealth<span style="mso-tab-count: 1 dotted">                                         </span>
+[78](#78).          Money paid in advance to Commonwealth<span style="mso-tab-count: 1 dotted">                                       </span>
 
 [79](#79).          Rights in respect of services and facilities formerly provided by Department<span style="mso-tab-count: 1">       </span>
 
-[80](#80).          Delegations<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+[80](#80).          Delegations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                              </span>**
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
 
 <o:p></o:p>
 
@@ -389,7 +389,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
           (1A)  The functions of the APVMA include the following:<o:p></o:p>
 
-                     (a)  to assess the suitability for sale in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of active constituents for proposed or existing chemical products, chemical products and labels for containers for chemical products;<o:p></o:p>
+                     (a)  to assess the suitability for sale in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> of active constituents for proposed or existing chemical products, chemical products and labels for containers for chemical products;<o:p></o:p>
 
                      (b)  to provide information to the Governments and authorities of the Commonwealth, the States and the participating Territories about approved active constituents for proposed or existing chemical products, registered chemical products, registered listed chemical products, reserved chemical products and approved labels for containers for chemical products and to co-operate with those Governments and authorities on matters relating to the management and control of chemical products;<o:p></o:p>
 
@@ -553,7 +553,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  cause a copy of that notice to be laid before each House of the Parliament within 15 sitting days of that House after the publication of the notice in the _Gazette_.<o:p></o:p>
 
-             (4)  Subsection (3) does not apply in relation to a particular direction if the Minister determines, in writing, that compliance with the subsection is undesirable because it would, or would be likely to, be prejudicial to the national interest of <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.<o:p></o:p>
+             (4)  Subsection (3) does not apply in relation to a particular direction if the Minister determines, in writing, that compliance with the subsection is undesirable because it would, or would be likely to, be prejudicial to the national interest of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.<o:p></o:p>
 
              (5)  Section 28 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the APVMA.<o:p></o:p>
 
@@ -637,7 +637,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  the office of Chairperson is vacant (whether or not an appointment has previously been made to that office); or<o:p></o:p>
 
-                     (b)  the Chairperson is absent from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of that office;<o:p></o:p>
+                     (b)  the Chairperson is absent from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of that office;<o:p></o:p>
 
 the Deputy Chairperson is to act as Chairperson.<o:p></o:p>
 
@@ -657,7 +657,7 @@ the Deputy Chairperson is to act as Chairperson.<o:p></o:p>
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to the office; or<o:p></o:p>
 
-                     (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office of Deputy Chairperson.<o:p></o:p>
+                     (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office of Deputy Chairperson.<o:p></o:p>
 
              (2)  A director has, when acting as Deputy Chairperson, all the powers, duties and rights of the Deputy Chairperson including those mentioned in subsections 15(6) and (7).<o:p></o:p>
 
@@ -665,7 +665,7 @@ the Deputy Chairperson is to act as Chairperson.<o:p></o:p>
 
                      (a)  during a vacancy in the office of that director, whether or not an appointment has previously been made to the office; or<o:p></o:p>
 
-                     (b)  during any period, or during all periods, when that director is absent from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.<o:p></o:p>
+                     (b)  during any period, or during all periods, when that director is absent from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.<o:p></o:p>
 
              (4)  A person has, when acting as a director, all the powers, duties and rights of a director.<o:p></o:p>
 
@@ -1079,7 +1079,7 @@ whichever is the later.<o:p></o:p>
 
 ##### <a id="54"></a>54  Date of effect of variations<o:p></o:p>
 
-                   If:<o:p></o:p>
+                   If:<o:p></o:p>
 
                      (a)  a corporate plan has come into force; and<o:p></o:p>
 
@@ -1137,7 +1137,9 @@ whichever is the later.<o:p></o:p>
 
                      (a)  fees received by the Commonwealth under this Act, under the _Agricultural and Veterinary Chemicals Act 1988_ or under the Agvet Codes or Agvet Regulations; and<o:p></o:p>
 
-                    (aa)  any amounts of levy, late payment penalty or understatement penalty paid to the Commonwealth under any Act providing for the collection of a levy imposed in respect of the disposal of chemical products; and<o:p></o:p>
+                    (aa)  any amounts of levy or late payment penalty paid to the Commonwealth under any Act providing for the collection of a levy imposed in respect of the disposal of chemical products; and<o:p></o:p>
+
+                    (ab)  any amounts of levy or late payment penalty paid to the Commonwealth under section 16 of the _Agricultural and Veterinary Chemical Products (Collection of Interim Levy) Act 1994_; and<o:p></o:p>
 
                      (b)  any amounts paid by a State to the Commonwealth for the purposes of the APVMA.<o:p></o:p>
 
@@ -1277,13 +1279,13 @@ whichever is the later.<o:p></o:p>
 
              (1)  A person must not:<o:p></o:p>
 
-                     (a)  import into <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>:<o:p></o:p>
+                     (a)  import into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>:<o:p></o:p>
 
                               (i)  an active constituent for a proposed or existing chemical product that is neither an approved active constituent nor an exempt active constituent; or<o:p></o:p>
 
                              (ii)  a chemical product that is not a registered chemical product, a registered listed chemical product, a reserved chemical product or an exempt chemical product; or<o:p></o:p>
 
-                     (b)  arrange for the importation into <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, on behalf of another person who, at the time of the arrangements, is neither a resident of, nor carrying on business in, <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of such an active constituent or chemical product.<o:p></o:p>
+                     (b)  arrange for the importation into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, on behalf of another person who, at the time of the arrangements, is neither a resident of, nor carrying on business in, <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, of such an active constituent or chemical product.<o:p></o:p>
 
                     Penalty:  300 penalty units.<o:p></o:p>
 
@@ -1329,13 +1331,13 @@ Regulations may prescribe information about import etc. of certain chemicals
 
              (2)  For the purposes of complying with a prescribed agreement or arrangement, the regulations may prescribe the following information in respect of a prescribed active constituent for a proposed or existing chemical product, or a prescribed chemical product:
 
-                     (a)  information about the import of the constituent or product into <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (a)  information about the import of the constituent or product into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (b)  information about the manufacture or use of the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (b)  information about the manufacture or use of the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (c)  information about other dealings with the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (c)  information about other dealings with the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (d)  information about the export of the constituent or product from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+                     (d)  information about the export of the constituent or product from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
              (3)  For each constituent or product, the regulations must identify the relevant international agreement or arrangement.
 
@@ -1351,7 +1353,7 @@ Note 2:       Section 69C might prohibit or restrict the import, m
 
 Commencement of regulations
 
-             (6)  A regulation made for the purposes of this section in respect of a constituent or product may be expressed to come into force when the relevant international agreement or arrangement enters into force for <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, but must not be expressed to come into force before that time.
+             (6)  A regulation made for the purposes of this section in respect of a constituent or product may be expressed to come into force when the relevant international agreement or arrangement enters into force for <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, but must not be expressed to come into force before that time.
 
 ##### <a id="69CB"></a>69CB  Providing information about certain chemical products etc. under international consideration
 
@@ -1359,33 +1361,33 @@ Regulations may prescribe constituents and products
 
              (1)  The regulations may prescribe the following active constituents for a proposed or existing chemical product, or the following chemical products, for the purposes of this section:
 
-                     (a)  a constituent or product that is the subject of an international agreement or arrangement that has not entered into force for <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (a)  a constituent or product that is the subject of an international agreement or arrangement that has not entered into force for <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
                      (b)  a constituent or product that is the subject of consideration:
 
-                              (i)  by an international organisation, or by an organ of or a body established by an international organisation, or by <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> together with any other country; and
+                              (i)  by an international organisation, or by an organ of or a body established by an international organisation, or by <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> together with any other country; and
 
-                             (ii)  in relation to an international agreement or arrangement (including one that has not entered into force for <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>) or in relation to negotiations for an international agreement or arrangement.
+                             (ii)  in relation to an international agreement or arrangement (including one that has not entered into force for <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>) or in relation to negotiations for an international agreement or arrangement.
 
 Regulations may prescribe information about import etc. of such constituents or products
 
              (2)  The regulations may prescribe the following information in respect of a prescribed constituent or product:
 
-                     (a)  information about the import of the constituent or product into <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (a)  information about the import of the constituent or product into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (b)  information about the manufacture or use of the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (b)  information about the manufacture or use of the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (c)  information about other dealings with the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (c)  information about other dealings with the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (d)  information about the export of the constituent or product from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+                     (d)  information about the export of the constituent or product from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 Constitutional basis for this section
 
-             (3)  The reference in paragraphs (2)(b) and (c) to the manufacture or use of, or other dealings with, a constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is confined to the following:
+             (3)  The reference in paragraphs (2)(b) and (c) to the manufacture or use of, or other dealings with, a constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> is confined to the following:
 
                      (a)  the manufacture or use of, or other dealings with, the constituent or product in Australia by trading corporations formed within the limits of the Commonwealth, or foreign corporations, within the meaning of paragraph 51(xx) of the Constitution;
 
-                     (b)  the manufacture or use of, or other dealings with, the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> for supply in the course of trade and commerce:
+                     (b)  the manufacture or use of, or other dealings with, the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> for supply in the course of trade and commerce:
 
                               (i)  with other countries; or
 
@@ -1395,7 +1397,7 @@ Constitutional basis for this section
 
                             (iv)  between a State and a Territory or between 2 Territories;
 
-                     (c)  the manufacture or use of, or other dealings with, the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> for supply to, or to an authority or instrumentality of, the Commonwealth or a Territory;
+                     (c)  the manufacture or use of, or other dealings with, the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> for supply to, or to an authority or instrumentality of, the Commonwealth or a Territory;
 
                      (d)  the manufacture or use of, or other dealings with, the constituent or product in a Territory.
 
@@ -1413,9 +1415,9 @@ Note:          A person who fails to provide the information o
 
                      (a)  the movements into or out of Australia of an active constituent or chemical product prescribed in regulations made under section 69CA or 69CB;
 
-                     (b)  the manufacture or use of such a constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (b)  the manufacture or use of such a constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (c)  any other dealing with such a constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+                     (c)  any other dealing with such a constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
              (2)  A relevant agency may provide the information in such terms and on such conditions as the agency thinks fit, having regard to:
 
@@ -1471,13 +1473,13 @@ Regulations may prohibit import etc. of certain chemical products under internat
 
              (1)  If an active constituent for a proposed or existing chemical product, or a chemical product, is the subject of an international agreement or arrangement prescribed for the purposes of this section, the regulations may prohibit any one or more of the following:
 
-                     (a)  the import of the constituent or product into <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (a)  the import of the constituent or product into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (b)  the manufacture or use of the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (b)  the manufacture or use of the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (c)  any other dealing with the constituent or product in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
+                     (c)  any other dealing with the constituent or product in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
-                     (d)  the export of the constituent or product from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+                     (d)  the export of the constituent or product from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
 The prohibition may be either absolute or subject to such conditions or restrictions as are prescribed.
 
@@ -1493,7 +1495,7 @@ Requirements for making regulations<o:p></o:p>
 
                      (b)  a period of 30 days has elapsed since the notice was published.<o:p></o:p>
 
-          (2A)  A regulation made for the purposes of subsection (1) in respect of a constituent or product may be expressed to come into force when the relevant international agreement or arrangement enters into force for <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, but must not be expressed to come into force before that time.
+          (2A)  A regulation made for the purposes of subsection (1) in respect of a constituent or product may be expressed to come into force when the relevant international agreement or arrangement enters into force for <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, but must not be expressed to come into force before that time.
 
 Offence for contravening conditions or restrictions<o:p></o:p>
 
@@ -1541,7 +1543,7 @@ is proposed to be exported to a foreign country, the APVMA may, on its own initi
 
 ##### <a id="69E"></a>69E  Annual returns<o:p></o:p>
 
-             (1)  Subject to subsection (2), a person who imports into, manufactures in, or exports from, <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>:<o:p></o:p>
+             (1)  Subject to subsection (2), a person who imports into, manufactures in, or exports from, <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>:<o:p></o:p>
 
                      (a)  active constituents for proposed or existing chemical products; or<o:p></o:p>
 
@@ -1563,7 +1565,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 Records relating to compliance with sections 69B, 69C and 69E
 
-             (1)  A person who imports into, manufactures in, or exports from, <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> an active constituent for a proposed or existing chemical product, or a chemical product, must:<o:p></o:p>
+             (1)  A person who imports into, manufactures in, or exports from, <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> an active constituent for a proposed or existing chemical product, or a chemical product, must:<o:p></o:p>
 
                      (a)  keep any records relating to the importation, manufacture or exportation that are reasonably necessary to enable the APVMA to find out whether sections 69B, 69C and 69E have been complied with; and<o:p></o:p>
 
@@ -1573,7 +1575,7 @@ Records relating to compliance with sections 69B, 69C and 69E
 
 Records relating to import etc. of chemical products prescribed under section 69CA, 69CB or 69C
 
-          (1A)  A person who imports into <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, manufactures, uses or deals with  in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or exports from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, an active constituent or chemical product prescribed in regulations made under section 69CA, 69CB or 69C must:
+          (1A)  A person who imports into <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, manufactures, uses or deals with  in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or exports from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, an active constituent or chemical product prescribed in regulations made under section 69CA, 69CB or 69C must:
 
                      (a)  keep any records relating to the import, manufacture, use, dealing or export that are reasonably necessary to enable the Department to find out whether those sections have been complied with; and
 
@@ -2049,7 +2051,7 @@ the individual is not liable to be punished by imprisonment for that offence.<o:
 
 ##### <a id="69EW"></a>69EW  Modification of Agvet Codes<o:p></o:p>
 
-             (1)  This Part modifies the Agvet Codes for the purpose of giving effect to <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s obligations under paragraph 3 of Article 39 of the Agreement on Trade-Related Aspects of Intellectual Property Rights set out in Annex 1C to the Marrakesh Agreement establishing the World Trade Organization, done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Marrakesh</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="15" month="4">15 April 1994</st1:date>.<o:p></o:p>
+             (1)  This Part modifies the Agvet Codes for the purpose of giving effect to <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s obligations under paragraph 3 of Article 39 of the Agreement on Trade-Related Aspects of Intellectual Property Rights set out in Annex 1C to the Marrakesh Agreement establishing the World Trade Organization, done at <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Marrakesh</st1:place></st1:city> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="15" month="4">15 April 1994</st1:date>.<o:p></o:p>
 
 Note:          The English text of the Marrakesh Agreement establishing the World Trade Organization is set out in Australian Treaty Series 1995 No. 8.<o:p></o:p>
 
@@ -2061,7 +2063,7 @@ Note:          The English text of the Marrakesh Agreement est
 
                      (a)  the APVMA cannot grant the application without using information (the **_relevant information_**) given to the APVMA in connection with a previous application (the **_previous application_**) made to the APVMA (other than a previous application made before the commencement of this Part or after the commencement of Division 4A of Part 2 of the Code set out in the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_) for approval of an active constituent for a proposed or existing chemical product; and<o:p></o:p>
 
-                     (b)  the relevant information has not been made publicly available in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and<o:p></o:p>
+                     (b)  the relevant information has not been made publicly available in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and<o:p></o:p>
 
                      (c)  at the time immediately before the previous application was made, no application had been made to the APVMA for approval of the active constituent to which that application related.<o:p></o:p>
 
@@ -2739,23 +2741,6 @@ Remainder: Royal Assent <o:p></o:p>
         <div>S. 4, Sch. 1 (item 496) and Sch. 2 (item 174)</div>
       </td>
     </tr>
-    <tr>
-      <td>
-        <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
-      </td>
-      <td>
-        <div>42, 2005</div>
-      </td>
-      <td>
-        <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="4">1 Apr 2005</st1:date></div>
-      </td>
-      <td>
-        <div>Schedule 1 (items 41, 42): Royal Assent</div>
-      </td>
-      <td>
-        <div>—</div>
-      </td>
-    </tr>
   </thead>
 </tbody></table>
 
@@ -3304,7 +3289,7 @@ _(f)_      The _Agricultural and Veterinary Chemicals (Administration)
       <div>S. 58  <o:p></o:p></div>
     </td>
     <td>
-      <div>am. Nos. 37 and 76, 1994; No. 59, 1996; No. 79, 2004; Nos. 8 and 42, 2005 <o:p></o:p></div>
+      <div>am. Nos. 37 and 76, 1994; No. 59, 1996; No. 79, 2004; No. 8, 2005 <o:p></o:p></div>
     </td>
   </tr>
   <tr>
