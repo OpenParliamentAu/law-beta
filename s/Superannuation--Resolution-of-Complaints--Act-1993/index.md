@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00356/Html/468041a5-d7aa-4071-9795-734b11f41132_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00104/Html/SupernResComplnts1993_WD02_image001.gif)
 
 # Superannuation (Resolution of Complaints) Act 1993
 
 **Act No. 80 of 1993 as amended**
 
-This compilation was prepared on 9 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -26,7 +26,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interpretation
 
-[4](#4).            Definition of decision made by a trustee, insurer, RSA provider or another decision‑maker
+[4](#4).            Definition of decision made by a trustee, insurer, RSA provider or another decision-maker
 
 [4AA](#4AA).      Application of the _Criminal Code_
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4—Complaints, procedural matters relating to complaints and complaints the Tribunal cannot deal with**
 
-[14AA](#14AA).    Complaints may be made about discretionary or non‑discretionary decisions
+[14AA](#14AA).    Complaints may be made about discretionary or non-discretionary decisions
 
 [14](#14).          Complaints about decisions of trustees other than decisions to admit persons to life policy funds
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Power to treat a complaint as having been withdrawn
 
-[22A](#22A).       Tribunal may refer complaint or part complaint to other complaint‑handling body
+[22A](#22A).       Tribunal may refer complaint or part complaint to other complaint-handling body
 
 [23](#23).          Right to representation in relation to a complaint
 
@@ -280,8 +280,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="conduct"></a>**_conduct_** includes acts, omissions and representations.
 
-                    <a name="consum-affair-minist"></a>**_Consumer Affairs Minister_** means the Minister administering Schedule 2 to the _Competition and Consumer Act 2010._
-
                     <a name="death-benefit"></a>**_death benefit_** means:
 
                      (a)  a benefit:
@@ -314,7 +312,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iii)  that is provided in accordance with subsection 15(3) or paragraph 15(4)(c) of the _Retirement Savings Accounts Act 1997_.
 
-                    <a name="decision-maker"></a>**_decision‑maker_**, in relation to a complaint relating to a disability benefit (whether under a contract of insurance or otherwise), means a person who the Tribunal has decided under paragraph 18(1)(d) is responsible for determining either or both of the existence and the extent of the disability (whether total and permanent or otherwise).
+                    <a name="decision-maker"></a>**_decision-maker_**, in relation to a complaint relating to a disability benefit (whether under a contract of insurance or otherwise), means a person who the Tribunal has decided under paragraph 18(1)(d) is responsible for determining either or both of the existence and the extent of the disability (whether total and permanent or otherwise).
 
                     <a name="disabl-benefit"></a>**_disability benefit_** means:
 
@@ -340,7 +338,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a complaint about a decision of the trustee of a fund that is declared by the regulations to be a fund to which this Act does not apply; or
 
-                   (ab)  a complaint about a decision of an RSA provider in relation to an RSA that is declared by the regulations to be an RSA provider to which this Act does not apply; or
+                    (ab)  a complaint about a decision of an RSA provider in relation to an RSA that is declared by the regulations to be an RSA provider to which this Act does not apply; or
 
                      (b)  a complaint about a matter declared by the regulations to be a matter about which complaints may not be made under this Act.
 
@@ -434,7 +432,7 @@ Note 2:       For definitions of **_APRA_**, **_ASIC_**, **_approved
 
                      (b)  a life policy issued by the insurer and maintained by a trustee for the purposes of a life policy fund; or
 
-                   (ba)  a contract of insurance where the premiums are paid from an RSA;
+                    (ba)  a contract of insurance where the premiums are paid from an RSA;
 
 includes a reference to:
 
@@ -444,13 +442,13 @@ includes a reference to:
 
              (4)  A reference in this Act to a representative of an RSA provider includes a reference to an agent, employee or officer of the RSA provider, or of an associate of the RSA provider, who engages in conduct in relation to an RSA.
 
-##### <a id="4"></a>4  Definition of decision made by a trustee, insurer, RSA provider or another decision‑maker
+##### <a id="4"></a>4  Definition of decision made by a trustee, insurer, RSA provider or another decision-maker
 
-                   For the purposes of this Act, a trustee, an insurer, an RSA provider or another decision‑maker, makes a decision if:
+                   For the purposes of this Act, a trustee, an insurer, an RSA provider or another decision-maker, makes a decision if:
 
-                     (a)  the trustee, insurer, RSA provider or other decision‑maker, or a person acting for the trustee, insurer, RSA provider or other decision‑maker, makes, or fails to make, a decision; or
+                     (a)  the trustee, insurer, RSA provider or other decision-maker, or a person acting for the trustee, insurer, RSA provider or other decision-maker, makes, or fails to make, a decision; or
 
-                     (b)  the trustee, insurer, RSA provider or other decision‑maker, or a person acting for the trustee, insurer, RSA provider or other decision‑maker, engages in any conduct, or fails to engage in any conduct, in relation to making a decision.
+                     (b)  the trustee, insurer, RSA provider or other decision-maker, or a person acting for the trustee, insurer, RSA provider or other decision-maker, engages in any conduct, or fails to engage in any conduct, in relation to making a decision.
 
 ##### <a id="4AA"></a>4AA  Application of the _Criminal Code_
 
@@ -528,13 +526,13 @@ Note:          For the definition of **_self managed superannu
 
              (1)  The Tribunal consists of a Chairperson, a Deputy Chairperson and not fewer than 7 other members.
 
-             (2)  The Tribunal Chairperson and the Tribunal Deputy Chairperson are to be appointed by the Governor‑General.
+             (2)  The Tribunal Chairperson and the Tribunal Deputy Chairperson are to be appointed by the Governor-General.
 
-          (2A)  The Tribunal Chairperson may be appointed to hold office either on a full‑time basis or on a part time‑basis.
+          (2A)  The Tribunal Chairperson may be appointed to hold office either on a full-time basis or on a part time-basis.
 
-          (2B)  The Tribunal Deputy Chairperson may be appointed to hold office either on a full‑time basis or on a part time‑basis.
+          (2B)  The Tribunal Deputy Chairperson may be appointed to hold office either on a full-time basis or on a part time-basis.
 
-             (3)  The Tribunal members, other than the Tribunal Chairperson and Deputy Chairperson, are to be appointed by the Minister and hold office on a part‑time basis.
+             (3)  The Tribunal members, other than the Tribunal Chairperson and Deputy Chairperson, are to be appointed by the Minister and hold office on a part-time basis.
 
 ##### <a id="7A"></a>7A  Tribunal Chairperson
 
@@ -564,13 +562,13 @@ is not eligible to be appointed as Tribunal Chairperson or Deputy Chairperson.
 
              (3)  A person may be appointed as a Tribunal member only if:
 
-                     (a)  in the case of the Tribunal Chairperson or Deputy Chairperson—the Governor‑General is of the opinion; or
+                     (a)  in the case of the Tribunal Chairperson or Deputy Chairperson—the Governor-General is of the opinion; or
 
                      (b)  in any other case—the Minister is of the opinion;
 
 that the person is qualified for appointment because of his or her knowledge of, or experience in, matters of kinds in respect of which complaints may be made to the Tribunal.
 
-             (4)  Two of the Tribunal members, other than the Tribunal Chairperson and Deputy Chairperson, are to be appointed after the Minister has consulted the Consumer Affairs Minister about their appointment.
+             (4)  Two of the Tribunal members, other than the Tribunal Chairperson and Deputy Chairperson, are to be appointed after the Minister has consulted the Minister for Consumer Affairs about their appointment.
 
 ##### <a id="9"></a>9  Constitution of Tribunal
 
@@ -610,11 +608,11 @@ that the person is qualified for appointment because of his or her knowledge of,
 
                      (b)  a constitutional corporation that is a trustee of a fund; or
 
-                   (ba)  an RSA provider; or
+                    (ba)  an RSA provider; or
 
-                   (bb)  an insurer; or
+                    (bb)  an insurer; or
 
-                   (bc)  an RSA; or
+                    (bc)  an RSA; or
 
                      (c)  any other business.
 
@@ -668,7 +666,7 @@ that are fair, economical, informal and quick.
 
 ## Part 4—Complaints, procedural matters relating to complaints and complaints the Tribunal cannot deal with
 
-##### <a id="14AA"></a>14AA  Complaints may be made about discretionary or non‑discretionary decisions
+##### <a id="14AA"></a>14AA  Complaints may be made about discretionary or non-discretionary decisions
 
              (1)  To avoid doubt, a complaint may be made under this Part about a decision whether or not the decision involved the exercise of a discretion.
 
@@ -896,7 +894,7 @@ Note:          See section 3 for the definition of **_annuit
 
                      (b)  section 12 of the _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_; or
 
-                     (c)  section 390‑5 in Schedule 1 to the _Taxation Administration Act 1953_;
+                     (c)  section 390-5 in Schedule 1 to the _Taxation Administration Act 1953_;
 
 setting out an amount or amounts in respect of a person, the person may make a complaint (other than an excluded complaint) to the Tribunal that the decision to set out the amount or amounts in the statement was unfair or unreasonable.
 
@@ -906,7 +904,7 @@ setting out an amount or amounts in respect of a person, the person may make a c
 
                      (b)  section 12 of the _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_; or
 
-                     (c)  section 390‑5 in Schedule 1 to the _Taxation Administration Act 1953_;
+                     (c)  section 390-5 in Schedule 1 to the _Taxation Administration Act 1953_;
 
 is also given by the provider a notice setting out the prescribed period within which the person must complain to the Tribunal about the decision, the person may only make a complaint to the Tribunal under this section within that period.
 
@@ -922,7 +920,7 @@ is also given by the provider a notice setting out the prescribed period within 
 
              (2)  The Tribunal cannot deal with a complaint under section 14A unless the complainant, or the person through whom the complainant claims to have an interest in the life policy fund to which the complaint relates, was admitted to the fund on or after the day on which the _Superannuation Industry (Supervision) Legislation Amendment Act 1995_ receives the Royal Assent (the **_Assent day_**).
 
-             (3)  Subsection (2) does not imply that if a person was admitted as a member of a life policy fund (however described) before the Assent day, that person, or a person claiming an interest in the fund through the first‑mentioned person, cannot make a complaint under section 14, whether before, on or after that day, about the decision of the trustee to admit the first‑mentioned person as a member of the fund.
+             (3)  Subsection (2) does not imply that if a person was admitted as a member of a life policy fund (however described) before the Assent day, that person, or a person claiming an interest in the fund through the first-mentioned person, cannot make a complaint under section 14, whether before, on or after that day, about the decision of the trustee to admit the first-mentioned person as a member of the fund.
 
              (4)  The Tribunal cannot deal with a complaint under section 15A unless the interest of the complainant, or of the person through whom the complainant claims to have that interest, in the annuity policy to which the complaint relates:
 
@@ -1236,7 +1234,7 @@ the Tribunal must take reasonable steps to help the complainant.
 
                      (a)  a person has made a complaint under section 14; and
 
-                     (b)  the Tribunal decides, under subsection 18(1), that an insurer or other decision‑maker or any other person should be joined as a party to the complaint;
+                     (b)  the Tribunal decides, under subsection 18(1), that an insurer or other decision-maker or any other person should be joined as a party to the complaint;
 
 the Tribunal must, by notice in writing given to the new party and to all of the existing parties to the complaint:
 
@@ -1422,7 +1420,7 @@ of that decision and the reasons for that decision.
 
                      (b)  to the other party, or each of the other parties, to the complaint.
 
-##### <a id="22A"></a>22A  Tribunal may refer complaint or part complaint to other complaint‑handling body
+##### <a id="22A"></a>22A  Tribunal may refer complaint or part complaint to other complaint-handling body
 
              (1)  If, in relation to a complaint or a part of a complaint, the Tribunal is satisfied that another body (other than a court) having power to deal with the complaint or that part of the complaint is prescribed for the purpose of this subsection:
 
@@ -1509,7 +1507,7 @@ the party may be represented by an agent.
     <div>14</div>
   </td>
   <td>
-    <div>insurer or other decision‑maker</div>
+    <div>insurer or other decision-maker</div>
   </td>
 </tr>
 <tr>
@@ -1542,7 +1540,7 @@ the party may be represented by an agent.
     <div>15F</div>
   </td>
   <td>
-    <div>insurer or other decision‑maker</div>
+    <div>insurer or other decision-maker</div>
   </td>
 </tr>
 <tr>
@@ -1564,17 +1562,17 @@ the party may be represented by an agent.
     <div>15J</div>
   </td>
   <td>
-    <div>RSA provider or other decision‑maker</div>
+    <div>RSA provider or other decision-maker</div>
   </td>
 </tr></table>
 
-             (4)  The Tribunal may, on a request being made by the trustee, an insurer, the RSA provider or another decision‑maker, allow the trustee, insurer, RSA provider or other decision‑maker to give a summary of all documents or relevant parts of documents referred to in subsection (1), (2) or (3), as the case requires, within the period allowed by the Tribunal for the purpose.
+             (4)  The Tribunal may, on a request being made by the trustee, an insurer, the RSA provider or another decision-maker, allow the trustee, insurer, RSA provider or other decision-maker to give a summary of all documents or relevant parts of documents referred to in subsection (1), (2) or (3), as the case requires, within the period allowed by the Tribunal for the purpose.
 
              (5)  A request under subsection (4) must be made within the period allowed for giving the Tribunal copies of documents or parts of documents under subsection (1), (2) or (3) or such longer period as the Tribunal allows under that subsection.
 
              (6)  If:
 
-                     (a)  in relation to a complaint under section 14, a person other than an insurer or other decision‑maker is notified under subsection 17A(1); or
+                     (a)  in relation to a complaint under section 14, a person other than an insurer or other decision-maker is notified under subsection 17A(1); or
 
                      (b)  in relation to a complaint under section 14A, a person other than an insurer is notified under subsection 17A(2); or
 
@@ -1582,7 +1580,7 @@ the party may be represented by an agent.
 
 that the person has been joined as a party to the complaint, the Tribunal may, by notice in writing given to the person before, or while, the complaint is being dealt with, require the person to give to the Tribunal, within a period specified in the notice or such longer period as the Tribunal allows, copies of such documents relevant to the complaint as the Tribunal specifies in the notice.
 
-             (7)  The trustee, insurer, RSA provider, other decision‑maker or any other person joined as a party to the complaint, must not intentionally or recklessly refuse or fail to comply with this section.
+             (7)  The trustee, insurer, RSA provider, other decision-maker or any other person joined as a party to the complaint, must not intentionally or recklessly refuse or fail to comply with this section.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -1720,39 +1718,39 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="26"></a>26  Operation and implementation of a decision that is subject to a complaint
 
-             (1)  Subject to this section, making a complaint under section 14 to the Tribunal concerning a decision of a trustee does not affect the operation of the decision, or, if an insurer or other decision‑maker is joined as a party to the complaint, of a decision of the insurer or other decision‑maker, or prevent the taking of action to implement any such decision.
+             (1)  Subject to this section, making a complaint under section 14 to the Tribunal concerning a decision of a trustee does not affect the operation of the decision, or, if an insurer or other decision-maker is joined as a party to the complaint, of a decision of the insurer or other decision-maker, or prevent the taking of action to implement any such decision.
 
           (1A)  Subject to this section, making a complaint under section 15B to the Tribunal concerning a decision of an insurer under an annuity policy does not affect the operation of the decision of the insurer or prevent the taking of action to implement any such decision.
 
        (1AA)  Subject to this section, making a complaint under section 15CA about a decision of a superannuation provider to set out an amount in a statement given to the Commissioner of Taxation does not prevent the Commissioner from taking any action on the basis of the amount set out in the statement.
 
-          (1B)  Subject to this section, making a complaint under section 15F to the Tribunal concerning a decision of an RSA provider in relation to an RSA does not affect the operation of the decision of the RSA provider or, if an insurer or other decision‑maker is joined as a party to the complaint, of a decision of the insurer or other decision‑maker, or prevent the taking of action to implement any such decision.
+          (1B)  Subject to this section, making a complaint under section 15F to the Tribunal concerning a decision of an RSA provider in relation to an RSA does not affect the operation of the decision of the RSA provider or, if an insurer or other decision-maker is joined as a party to the complaint, of a decision of the insurer or other decision-maker, or prevent the taking of action to implement any such decision.
 
-          (1C)  Subject to this section, making a complaint under section 15J to the Tribunal concerning a decision of an insurer in relation to a contract of insurance entered in connection with an RSA does not affect the operation of the decision of the insurer or, if an RSA provider or other decision‑maker is joined as a party to the complaint, of a decision of the RSA provider or other decision‑maker, or prevent the taking of action to implement any such decision.
+          (1C)  Subject to this section, making a complaint under section 15J to the Tribunal concerning a decision of an insurer in relation to a contract of insurance entered in connection with an RSA does not affect the operation of the decision of the insurer or, if an RSA provider or other decision-maker is joined as a party to the complaint, of a decision of the RSA provider or other decision-maker, or prevent the taking of action to implement any such decision.
 
-             (2)  The Tribunal may, on a request being made by a person making a complaint under section 14, if the Tribunal thinks that it is desirable to do so after taking into account the interest of any persons who may be affected by the request, make such order or orders staying or otherwise affecting the operation or implementation of the whole or part of the decision of the trustee concerned, or, if appropriate, of an insurer or other decision‑maker whose decision is relevant to the subject matter of the complaint.
+             (2)  The Tribunal may, on a request being made by a person making a complaint under section 14, if the Tribunal thinks that it is desirable to do so after taking into account the interest of any persons who may be affected by the request, make such order or orders staying or otherwise affecting the operation or implementation of the whole or part of the decision of the trustee concerned, or, if appropriate, of an insurer or other decision-maker whose decision is relevant to the subject matter of the complaint.
 
           (2A)  The Tribunal may, on a request being made by a person making a complaint under section 15B concerning a decision of an insurer under an annuity policy, if it thinks it is desirable to do so after taking into account the interests of any persons who may be affected by the request, make such order or orders staying or otherwise affecting the operation or implementation of the whole or part of a decision of the insurer.
 
        (2AA)  The Tribunal may, on a request being made by a person making a complaint under section 15CA about a decision of a superannuation provider to set out an amount, in a statement given to the Commissioner of Taxation, as an amount of surchargeable contributions, if it thinks it is desirable to do so after taking into account the interests of any person who may be affected by the request, make an order preventing the Commissioner from taking any action on the basis of the amount set out in the statement.
 
-          (2B)  The Tribunal may, on a request being made by a person making a complaint under section 15F concerning a decision of an RSA provider in relation to an RSA, if it thinks it is desirable to do so after taking into account the interests of any persons who may be affected by the request, make an order or orders staying or otherwise affecting the operation or implementation of the whole or part of a decision of the RSA provider or, if appropriate, of an insurer or other decision‑maker whose decision is relevant to the subject matter of the complaint.
+          (2B)  The Tribunal may, on a request being made by a person making a complaint under section 15F concerning a decision of an RSA provider in relation to an RSA, if it thinks it is desirable to do so after taking into account the interests of any persons who may be affected by the request, make an order or orders staying or otherwise affecting the operation or implementation of the whole or part of a decision of the RSA provider or, if appropriate, of an insurer or other decision-maker whose decision is relevant to the subject matter of the complaint.
 
-          (2C)  The Tribunal may, on a request being made by a person making a complaint under section 15J concerning a decision of an insurer in relation to a contract of insurance entered in connection with an RSA, if it thinks it is desirable to do so after taking into account the interests of any persons who may be affected by the request, make an order or orders staying or otherwise affecting the operation or implementation of the whole or part of a decision of the insurer, or if appropriate, of an RSA provider or other decision‑maker whose decision is relevant to the subject matter of the complaint.
+          (2C)  The Tribunal may, on a request being made by a person making a complaint under section 15J concerning a decision of an insurer in relation to a contract of insurance entered in connection with an RSA, if it thinks it is desirable to do so after taking into account the interests of any persons who may be affected by the request, make an order or orders staying or otherwise affecting the operation or implementation of the whole or part of a decision of the insurer, or if appropriate, of an RSA provider or other decision-maker whose decision is relevant to the subject matter of the complaint.
 
-             (3)  If an order is in force under subsection (2), (2A), (2AA), (2B) or (2C) (including an order that has previously been varied on one or more occasions under this subsection), the Tribunal may, on a request being made by a party to the complaint make an order varying or revoking the first‑mentioned order.
+             (3)  If an order is in force under subsection (2), (2A), (2AA), (2B) or (2C) (including an order that has previously been varied on one or more occasions under this subsection), the Tribunal may, on a request being made by a party to the complaint make an order varying or revoking the first-mentioned order.
 
              (4)  The Tribunal must not:
 
-                     (a)  make an order under subsection (2), (2A), (2AA), (2B) or (2C) unless the relevant decision‑maker has been given a reasonable opportunity to make a submission to the Tribunal in relation to the matter; or
+                     (a)  make an order under subsection (2), (2A), (2AA), (2B) or (2C) unless the relevant decision-maker has been given a reasonable opportunity to make a submission to the Tribunal in relation to the matter; or
 
                      (b)  make an order varying or revoking an order in force under subsection (2), (2A), (2AA), (2B) or (2C) (including an order that has previously been varied on one or more occasions under subsection (3)) unless:
 
                               (i)  the complainant; and
 
-                             (ii)  the decision‑maker concerned; and
+                             (ii)  the decision-maker concerned; and
 
-                            (iii)  if the order under subsection (2), (2A), (2AA), (2B) or (2C) has previously been varied by an order or orders under subsection (3)—the person or persons who requested the making of the last‑mentioned order or orders;
+                            (iii)  if the order under subsection (2), (2A), (2AA), (2B) or (2C) has previously been varied by an order or orders under subsection (3)—the person or persons who requested the making of the last-mentioned order or orders;
 
                             have been given a reasonable opportunity to make submissions to the Tribunal in relation to the matter.
 
@@ -1814,7 +1812,7 @@ require the party or other person to attend a conciliation conference.
 
                      (a)  telephone; or
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
@@ -1874,7 +1872,7 @@ the Tribunal must treat the complaint as withdrawn under section 21.
 
                      (a)  telephone; or
 
-                     (b)  closed‑circuit television; or
+                     (b)  closed-circuit television; or
 
                      (c)  any other means of communication.
 
@@ -1902,25 +1900,25 @@ the Tribunal must treat the complaint as withdrawn under section 21.
 
                      (b)  subject to subsection (6), must make a determination in accordance with subsection (3).
 
-             (2)  If an insurer or other decision‑maker has been joined as a party to a complaint under section 14:
+             (2)  If an insurer or other decision-maker has been joined as a party to a complaint under section 14:
 
-                     (a)  the Tribunal must, when reviewing the trustee’s decision, also review any decision of the insurer or other decision‑maker that is relevant to the complaint; and
+                     (a)  the Tribunal must, when reviewing the trustee’s decision, also review any decision of the insurer or other decision-maker that is relevant to the complaint; and
 
-                     (b)  for that purpose, has all the powers, obligations and discretions that are conferred on the insurer or other decision‑maker; and
+                     (b)  for that purpose, has all the powers, obligations and discretions that are conferred on the insurer or other decision-maker; and
 
                      (c)  subject to subsection (6), must make a determination in accordance with subsection (3).
 
-             (3)  On reviewing the decision of a trustee, insurer or other decision‑maker that is the subject of, or relevant to, a complaint under section 14, the Tribunal must make a determination in writing:
+             (3)  On reviewing the decision of a trustee, insurer or other decision-maker that is the subject of, or relevant to, a complaint under section 14, the Tribunal must make a determination in writing:
 
                      (a)  affirming the decision; or
 
-                     (b)  remitting the matter to which the decision relates to the trustee, insurer or other decision‑maker for reconsideration in accordance with the directions of the Tribunal; or
+                     (b)  remitting the matter to which the decision relates to the trustee, insurer or other decision-maker for reconsideration in accordance with the directions of the Tribunal; or
 
                      (c)  varying the decision; or
 
                      (d)  setting aside the decision and substituting a decision for the decision so set aside.
 
-             (4)  The Tribunal may only exercise its determination‑making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the trustee’s decision that is the subject of the complaint no longer exists.
+             (4)  The Tribunal may only exercise its determination-making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the trustee’s decision that is the subject of the complaint no longer exists.
 
              (5)  The Tribunal must not do anything under subsection (3) that would be contrary to law, to the governing rules of the fund concerned and, if a contract of insurance between an insurer and trustee is involved, to the terms of the contract.
 
@@ -1928,7 +1926,7 @@ the Tribunal must treat the complaint as withdrawn under section 21.
 
                      (a)  the complainant; and
 
-                     (b)  so far as concerns a complaint regarding the payment of a death benefit—any person (other than the complainant, a trustee, insurer or decision‑maker) who:
+                     (b)  so far as concerns a complaint regarding the payment of a death benefit—any person (other than the complainant, a trustee, insurer or decision-maker) who:
 
                               (i)  has become a party to the complaint; and
 
@@ -1968,7 +1966,7 @@ was fair and reasonable in the circumstances.
 
              (4)  On reviewing a decision of the trustee that is the subject of a complaint under section 14A, the Tribunal may do all or any of the following:
 
-                     (a)  cancel the complainant’s membership of the fund to which the complaint relates or of any sub‑plan of the fund;
+                     (a)  cancel the complainant’s membership of the fund to which the complaint relates or of any sub-plan of the fund;
 
                      (b)  vary the governing rules of the fund in their application to the complainant;
 
@@ -2006,7 +2004,7 @@ if it is satisfied that the decision, in its operation in relation to the compla
 
                      (b)  declaring that, in all the circumstances of the case, action of a kind referred to in paragraph (a) is not appropriate.
 
-             (3)  The Tribunal may only exercise its determination‑making power under subsection (2) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the conduct of the insurer, or of a representative of the insurer that is the subject of the complaint no longer exists.
+             (3)  The Tribunal may only exercise its determination-making power under subsection (2) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the conduct of the insurer, or of a representative of the insurer that is the subject of the complaint no longer exists.
 
              (4)  The Tribunal must not make a determination under subsection (2) to take action of a kind referred to in paragraph (2)(a) in respect of a complaint under section 15A concerning the conduct of an insurer or of a representative of an insurer, if the Tribunal is of the view that the conduct of the insurer, or of the insurer’s representative, was fair and reasonable in all the circumstances.
 
@@ -2028,7 +2026,7 @@ if it is satisfied that the decision, in its operation in relation to the compla
 
                      (d)  setting aside the decision and substituting a decision for the decision so set aside.
 
-             (3)  The Tribunal may only exercise its determination‑making power under subsection (2) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the conduct of the insurer, or of a representative of the insurer, that is the subject of the complaint no longer exists.
+             (3)  The Tribunal may only exercise its determination-making power under subsection (2) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the conduct of the insurer, or of a representative of the insurer, that is the subject of the complaint no longer exists.
 
              (4)  The Tribunal must not do anything under subsection (2) that would be contrary to law or to the provisions of the annuity policy.
 
@@ -2062,7 +2060,7 @@ was fair and reasonable in all the circumstances.
 
                      (d)  setting aside the decision and substituting a decision for the decision so set aside.
 
-             (3)  The Tribunal may only exercise its determination‑making power under subsection (2) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the superannuation provider’s decision to which the complaint relates no longer exists.
+             (3)  The Tribunal may only exercise its determination-making power under subsection (2) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness, or both, that the Tribunal has determined to exist in relation to the superannuation provider’s decision to which the complaint relates no longer exists.
 
              (4)  The Tribunal must not do anything under subsection (2) that would be contrary to law.
 
@@ -2114,7 +2112,7 @@ was fair and reasonable in all the circumstances.
 
                      (b)  declaring that, in all the circumstances of the case, action of a kind referred to in paragraph (a) is not appropriate.
 
-             (6)  The Tribunal may only exercise its determination‑making power under paragraph (3)(a) or (5)(a) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the conduct that is the subject of the complaint, no longer exists.
+             (6)  The Tribunal may only exercise its determination-making power under paragraph (3)(a) or (5)(a) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the conduct that is the subject of the complaint, no longer exists.
 
 ##### <a id="37E"></a>37E  Tribunal powers—complaints under section 15F
 
@@ -2142,7 +2140,7 @@ was fair and reasonable in all the circumstances.
 
                      (d)  setting aside the decision and substituting a decision for the decision so set aside.
 
-             (4)  The Tribunal may only exercise its determination‑making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the RSA provider’s decision that is the subject of the complaint, no longer exists.
+             (4)  The Tribunal may only exercise its determination-making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the RSA provider’s decision that is the subject of the complaint, no longer exists.
 
              (5)  The Tribunal must not do anything under subsection (3) that would be contrary to law or to the terms and conditions of the RSA or the contract of insurance.
 
@@ -2204,7 +2202,7 @@ was fair and reasonable in all the circumstances.
 
                      (b)  declaring that, in all the circumstances of the case, action of a kind referred to in paragraph (a) is not appropriate.
 
-             (6)  The Tribunal may only exercise its determination‑making power under paragraph (3)(a) or (5)(a) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the conduct that is the subject of the complaint, no longer exists.
+             (6)  The Tribunal may only exercise its determination-making power under paragraph (3)(a) or (5)(a) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the conduct that is the subject of the complaint, no longer exists.
 
 ##### <a id="37G"></a>37G  Tribunal powers—complaints under section 15J
 
@@ -2232,7 +2230,7 @@ was fair and reasonable in all the circumstances.
 
                      (d)  setting aside the decision and substituting a decision for the decision so set aside.
 
-             (4)  The Tribunal may only exercise its determination‑making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the insurer’s decision that is the subject of the complaint, no longer exists.
+             (4)  The Tribunal may only exercise its determination-making power under subsection (3) for the purpose of placing the complainant as nearly as practicable in such a position that the unfairness, unreasonableness or both, that the Tribunal has determined to exist in relation to the insurer’s decision that is the subject of the complaint, no longer exists.
 
              (5)  The Tribunal must not do anything under subsection (3) that would be contrary to law or to the terms and conditions of the contract of insurance or the RSA.
 
@@ -2286,9 +2284,9 @@ was fair and reasonable in all the circumstances.
 
              (2)  The Tribunal may specify in a determination that the determination is not to come into operation until a later date specified in the determination and, if a later date is so specified, the determination comes into operation on that date.
 
-             (3)  A decision of a trustee, insurer, RSA provider or other decision‑maker as varied by the Tribunal, or a decision made by the Tribunal in substitution for a decision of a trustee, insurer, RSA provider or other decision‑maker:
+             (3)  A decision of a trustee, insurer, RSA provider or other decision-maker as varied by the Tribunal, or a decision made by the Tribunal in substitution for a decision of a trustee, insurer, RSA provider or other decision-maker:
 
-                     (a)  is, for all purposes (other than the making of a complaint about the decision) taken to be a decision of a trustee, insurer, RSA provider or other decision‑maker concerned; and
+                     (a)  is, for all purposes (other than the making of a complaint about the decision) taken to be a decision of a trustee, insurer, RSA provider or other decision-maker concerned; and
 
                      (b)  on the coming into operation of the determination by the Tribunal, unless the Tribunal otherwise orders, has effect, and is taken to have had effect, on and from the day on which the original decision has or had effect.
 
@@ -2360,7 +2358,7 @@ the Court or a Judge of the Court may make such order or orders staying or other
 
                      (c)  the determination of the Tribunal or a part of that determination;
 
-                     (d)  the whole or part of the trustee’s decision that is complained of or of a decision of an insurer or other decision‑maker who is a party to the complaint;
+                     (d)  the whole or part of the trustee’s decision that is complained of or of a decision of an insurer or other decision-maker who is a party to the complaint;
 
 as the Court thinks appropriate to secure the effectiveness of the hearing and determination of the appeal.
 
@@ -2400,7 +2398,7 @@ the Court or a Judge of the Court may make such order or orders preventing the C
 
 as the Court thinks appropriate to secure the effectiveness of the hearing and determination of the appeal.
 
-             (3)  If an order is in force under subsection (2), (2A), (2B) or (2C) (including an order that has previously been varied on one or more occasions under this subsection), the Court or a Judge of the Court may make an order varying or revoking the first‑mentioned order.
+             (3)  If an order is in force under subsection (2), (2A), (2B) or (2C) (including an order that has previously been varied on one or more occasions under this subsection), the Court or a Judge of the Court may make an order varying or revoking the first-mentioned order.
 
              (4)  An order in force under subsection (2), (2A), (2B) or (2C) (including an order that has previously been varied on one or more occasions under subsection (3)):
 
@@ -2428,7 +2426,7 @@ as the Court thinks appropriate to secure the effectiveness of the hearing and d
 
              (1)  The Tribunal Chairperson and Deputy Chairperson hold office, subject to this Division, for such periods, not exceeding 5 years, as are specified in their respective instruments of appointment.
 
-             (2)  The Tribunal Chairperson and Deputy Chairperson hold office on such terms and conditions (if any) in respect of matters not provided for by this Division as are determined by the Governor‑General.
+             (2)  The Tribunal Chairperson and Deputy Chairperson hold office on such terms and conditions (if any) in respect of matters not provided for by this Division as are determined by the Governor-General.
 
 ##### <a id="50"></a>50  Remuneration and allowances
 
@@ -2448,13 +2446,13 @@ as the Court thinks appropriate to secure the effectiveness of the hearing and d
 
 ##### <a id="52"></a>52  Resignation
 
-                   The Tribunal Chairperson or Deputy Chairperson may resign from office by delivering to the Governor‑General a signed notice of resignation.
+                   The Tribunal Chairperson or Deputy Chairperson may resign from office by delivering to the Governor-General a signed notice of resignation.
 
 ##### <a id="53"></a>53  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Tribunal Chairperson or Deputy Chairperson for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Tribunal Chairperson or Deputy Chairperson for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of the Tribunal Chairperson or Deputy Chairperson if that person:
+             (2)  The Governor-General must terminate the appointment of the Tribunal Chairperson or Deputy Chairperson if that person:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
@@ -2596,7 +2594,7 @@ consents to the lawyer complying with the requirement.
 
              (2)  Subject to subsection (3), and to sections 64, 64A and 65, the person must not directly or indirectly:
 
-                     (a)  make a record of, or disclose to any person or court, any information acquired by the first‑mentioned person in connection with a complaint made to the Tribunal under this Act or the review under this Act of a decision or conduct in respect of which such a complaint was made; or
+                     (a)  make a record of, or disclose to any person or court, any information acquired by the first-mentioned person in connection with a complaint made to the Tribunal under this Act or the review under this Act of a decision or conduct in respect of which such a complaint was made; or
 
                      (b)  produce to any person or court a document so acquired.
 
@@ -2624,9 +2622,9 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  any information or material relating to that complaint or part of a complaint;
 
-to a complaint‑handling body to which the Tribunal has decided to refer the complaint, or that part of the complaint, under subsection 22A(1).
+to a complaint-handling body to which the Tribunal has decided to refer the complaint, or that part of the complaint, under subsection 22A(1).
 
-          (3B)  A member of the Tribunal, or a member of ASIC’s staff made available under subsection 62(2), must not disclose to a particular complaint‑handling body:
+          (3B)  A member of the Tribunal, or a member of ASIC’s staff made available under subsection 62(2), must not disclose to a particular complaint-handling body:
 
                      (a)  a complaint or part of a complaint; or
 
@@ -2728,7 +2726,7 @@ that reveals personal information relating to an individual unless the individua
 
 ##### <a id="68"></a>68  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2740,7 +2738,7 @@ that reveals personal information relating to an individual unless the individua
 
 The _Superannuation (Resolution of Complaints) Act 1993_ as shown in this compilation comprises Act No. 80, 1993 amended as indicated in the Tables below.
 
-Part 7A ceased to have effect on 13 September 1999 (_see_ s. 48F and _Gazette_ 1999, No. S423) and was repealed by Act No. 116, 2003 on 28 November 2003.
+Part 7A ceased to have effect on  13 September 1999 (_see_ s. 48F and _Gazette_ 1999, No. S423) and was repealed by Act No. 116, 2003 on 28 November 2003.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -3167,7 +3165,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
 </tr>
 <tr>
   <td>
-    <div>Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
+    <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
   </td>
   <td>
     <div>111, 2003</div>
@@ -3249,38 +3247,21 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 207, 208): 19 April 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsection 2(4) of the _Superannuation Industry (Supervision) Legislation Amendment Act 1994_ provides as follows:
+_(a)_    Subsection 2(4) of the _Superannuation Industry (Supervision) Legislation Amendment Act 1994_ provides as follows:
 
                  (4)   Divisions 1 and 2 of Part 3 commence, or are taken to have commenced, as the case requires, immediately after the commencement of the _Superannuation (Resolution of Complaints) Act 1993._
 
          The _Superannuation (Resolution of Complaints) Act 1993_ came into operation on 1 July 1994.
 
-_(b)_     The _Superannuation (Resolution of Complaints) Act 1993_ was amended by Schedule 5 (items 1–102) only of the _Superannuation Industry (Supervision) Legislation Amendment Act 1995_, subsections 2(1) and (4) of which provide as follows:
+_(b)_    The _Superannuation (Resolution of Complaints) Act 1993_ was amended by Schedule 5 (items 1–102) only of the _Superannuation Industry (Supervision) Legislation Amendment Act 1995_, subsections 2(1) and (4) of which provide as follows:
 
                  (1)   Sections 1, 2 and 3, subsection 4(1), section 5, Schedules 1 and 2, items 1, 6, 10, 22 to 27, 30 to 33, 71 to 75 and 86 of Schedule 4 and items 1 to 7, 10 to 12, 25 to 71, 73 to 78, paragraphs (a), (b) and (c) of item 95, paragraphs (a) and (b) of item 96 and items 97 to 102 of Schedule 5 commence on the day on which this Act receives the Royal Assent.
 
                  (4)   The remaining items of Schedule 5 commence on a day to be fixed by Proclamation.
 
-_(ba)_   Subsection 2(1) (item 59) of the _Statute Law Revision Act 2002_ provides as follows:
+_(ba)_  Subsection 2(1) (item 59) of the _Statute Law Revision Act 2002_ provides as follows:
 
 <table>
 <colgroup>
@@ -3527,7 +3508,7 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 140, 1994; No. 144, 1995; Nos. 62, 71 and 191, 1997; Nos. 54 and 118, 1998; Nos. 61 and 123, 2001; No. 116, 2003; No. 5, 2011</div>
+    <div>am. No. 140, 1994; No. 144, 1995; Nos. 62, 71 and 191, 1997; Nos. 54 and 118, 1998; Nos. 61 and 123, 2001; No. 116, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3647,7 +3628,7 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 144, 1995; No. 62, 1997; No. 5, 2011</div>
+    <div>am. No. 144, 1995; No. 62, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4527,7 +4508,7 @@ _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 200
 
 * * *
 
-_Superannuation (Government Co‑contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
+_Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
 
 ## Schedule 1
 
@@ -4545,6 +4526,8 @@ _Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9, 2007)_
 
             The amendments made by this Schedule apply in relation to things that are done and events that occur on or after 1 July 2007.
 
-_Note:       For transitional rules about provisions related to the application of Division 292 of the Income Tax Assessment Act 1997 in the period from 10 May 2006 to 30 June 2007, see section 292‑80 of the Income Tax (Transitional Provisions) Act 1997._
+_Note:       For transitional rules about provisions related to the application of Division 292 of the Income Tax Assessment Act 1997 in the period from 10 May 2006 to 30 June 2007, see section 292-80 of the Income Tax (Transitional Provisions) Act 1997._
+
+ 
 
  
