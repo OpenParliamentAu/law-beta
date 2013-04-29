@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00738/Html/b2d5c97b-adaf-4a21-bcc4-8514a4d52b90_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00216/Html/04ac2db3-b5be-4fcd-b647-fa4c9d377e32_files/image001.gif)
 
 # Defence Housing Australia Act 1987
 
 **Act No. 101 of 1987 as amended**
 
-This compilation was prepared on 12 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1283,7 +1283,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 4 (items 66–68): Royal Assent <i>(b)</i></div>
+    <div>Schedule 4 (items 66‑68): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1457,23 +1457,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 523–529) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2382,48 +2365,6 @@ _(h)_ Subsection 2(1) (items 11 and 12) of the _Statute Law Revision Act 2008_ p
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 523  At the end of subsections 23(1), (2) and (2A)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 524  Subsections 23(3) to (9)
-
-Repeal the subsections.
-
-## 525  Subsection 27(3) (note)
-
-Omit “subsection 33(4A)”, substitute “section 33AA”.
-
-## 526  Paragraph 54(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 527  Subsection 54(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue to act as Managing Director for more than 12 months.”.
-
-## 528  At the end of subsection 54(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 529  Subsections 54(2) to (5) and (7)
-
-Repeal the subsections.
-
-As at 12 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2475,21 +2416,5 @@ The amendment made by Schedule 1 to subsection 47(1) of the _Defence Housing A
 (1)       This item applies in relation to a tax that is payable by reference to a period.
 
 (2)       In respect of such a tax, section 62A of the _Defence Housing Australia Act 1987_ applies in relation to such periods starting on or after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
