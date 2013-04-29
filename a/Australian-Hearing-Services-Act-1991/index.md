@@ -1,7 +1,7 @@
 
 Australian Hearing Services Act 1991
 Act No. 169 of 1991 as amended
-This compilation was prepared on 24 July 2001 taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 21 March 2000 taking into account amendments up to Act No. 156 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -38,7 +38,7 @@ Division 3—Provisions relating to appointed Directors	13
 25	Terms of office	13
 26	Terms and conditions of appointment not provided for by Act	13
 27	Remuneration and allowances	13
-28	Leave of absence	14
+28	Leave of absence	13
 29	Resignation	14
 30	Outside employment	14
 31	Termination of appointment	14
@@ -81,7 +81,7 @@ Part 7—Miscellaneous	29
 65	Review of decisions by Administrative Appeals Tribunal	30
 66	Person not to use protected names or protected symbols	30
 67	Confidential information	32
-68	Arrangements with other Commonwealth Departments, States and Territories	35
+68	Arrangements with other Commonwealth Departments, States and Territories	34
 69	Delegation by Minister	35
 70	Delegation by Authority	35
 72	Transfers of certain Commonwealth assets to Authority	35
@@ -90,13 +90,14 @@ Part 7—Miscellaneous	29
 75	Rights etc. in respect of services and facilities formerly provided by Department	37
 76	Substitution of Authority for Commonwealth in contracts etc.	38
 77	Regulations	38
-Part 8—Repeal, consequential amendment and transitional provision	40
-78	Repeal of the Acoustic Laboratories Act 1948	40
-79	Amendment of the National Health Act 1953	40
-80	Acoustic Laboratories Regulations to continue in force	40
-Schedule—Official symbol of the National Acoustic Laboratories	41
-Schedule 2—Official symbol of Australian Hearing Services	41
-Notes		43
+Part 8—Repeal, consequential amendment and transitional provision	39
+78	Repeal of the Acoustic Laboratories Act 1948	39
+79	Amendment of the National Health Act 1953	39
+80	Acoustic Laboratories Regulations to continue in force	39
+Schedule—Official symbol of the National Acoustic Laboratories	40
+Schedule 2—Official symbol of Australian Hearing Services	40
+Notes to the Australian Hearing Services Act 1991	41
+
 An Act to establish an authority to be known as Australian Hearing Services, and for related purposes
 Part 1—Preliminary
   
@@ -126,7 +127,7 @@ special purpose Director means a Director appointed under paragraph 15(1)(d).
 staff means the staff of the Authority.
 trust money means money received and held by the Authority on trust.
 voucher‑holder has the same meaning as in the Hearing Services Administration Act 1997.
-	(2)	The question whether a company is a subsidiary of the Authority is to be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the Corporations Act 2001.
+	(2)	The question whether a company is a subsidiary of the Authority is to be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the Corporations Law.
 6  Act to bind Crown
 		This Act binds the Crown in each of its capacities.
 
@@ -675,8 +676,7 @@ Section 66
 Notes to the Australian Hearing Services Act 1991
 Note 1
 The Australian Hearing Services Act 1991 as shown in this compilation comprises Act No. 169, 1991 amended as indicated in the Tables below. 
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
-For all other relevant information pertaining to application, saving or transitional provisions see Table A.
+For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -748,11 +748,6 @@ Corporate Law Economic Reform Program Act 1999
 24 Nov 1999
 Schedule 10 (items 88, 89): 13 Mar 2000 (see Gazette 2000, No. S114) (i)
 —
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 41): 15 July 2001 (see Gazette 2001, No. S285) (j)
-Ss. 4‑14
 
 (a)	The Australian Hearing Services Act 1991 was amended by Part 5 (sections 46‑48) only of the Health, Housing and Community Services Legislation Amendment Act 1992, subsection 2(5) of which provides as follows: 
 	(5)	Part 5 commences: 
@@ -778,8 +773,6 @@ Ss. 4‑14
 (i)	The Australian Hearing Services Act 1991 was amended by Schedule 10 (items 88 and 89) only of the Corporate Law Economic Reform Program Act 1999, subsections 2(2)(c) of which provides as follows:
 	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
 	(c)	the items in Schedules 10, 11 and 12. 
-(j)	The Australian Hearing Services Act 1991 was amended by Schedule 3 (item 41) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -789,7 +782,7 @@ am. No. 82, 1997
 S. 3	
 rep. No. 82, 1997
 S. 4 	
-am. No. 136, 1992; No. 82, 1997; No. 55, 2001 
+am. No. 136, 1992; No. 82, 1997 
 S. 5 	
 am. No. 136, 1992; Nos. 61 and 76, 1993; Nos. 78 and 116, 1994; No. 84, 1996; No. 82, 1997
 
