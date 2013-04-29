@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00194/Html/FoodStandAusNZ1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00030/Html/FoodStandAusNZ1991_image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 28 December 2008
+ taking into account amendments up to Act No. 98 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -601,7 +601,7 @@ Declaration not subject to disallowance or sunsetting
 
                    The Authority satisfies a requirement under this Act to give **_public notice_** of a particular matter by:
 
-                     (a)  publishing notice of the matter on the Authority’s website; and
+                     (a)  publishing notice of the matter on the Authority’s Internet site; and
 
                      (b)  giving written notice of the matter to each appropriate government agency; and
 
@@ -887,7 +887,7 @@ Note:          See also the definitions of **_produce_** and *
 
                      (e)  any written policy guidelines formulated by the Council for the purposes of this paragraph and notified to the Authority.
 
-             (3)  If any policy guidelines formulated by the Council for the purposes of paragraph (2)(e) are notified to the Authority, the Authority must publish the guidelines on the Authority’s website.
+             (3)  If any policy guidelines formulated by the Council for the purposes of paragraph (2)(e) are notified to the Authority, the Authority must publish the guidelines on the Authority’s Internet site.
 
           (3A)  Policy guidelines formulated by the Council for the purposes of paragraph (2)(e) must not be inconsistent with the objectives set out in subsection (1).
 
@@ -2003,7 +2003,7 @@ Note:          Subdivision H requires the Authority to propose
 
                      (c)  call for written submissions on matters relevant to the proposal to be given to the Authority within the period specified in the notice (the **_submission period_**).
 
-##### <a id="73"></a>73  Matters to which Authority must have regard in making a decision under section 60
+##### <a id="73"></a>73  Matters to which Authority must have regard in making a decision under section 60
 
                    The Authority must have regard to all submissions made during the submission period in making a decision under section 60.
 
@@ -2261,7 +2261,7 @@ the Council must, within 60 days after the notification:
 
                      (b)  give the Authority a copy of the notice; and
 
-                     (c)  publish a copy of the notice on the internet and in a newspaper circulating in each State or Territory and in New   Zealand.
+                     (c)  publish a copy of the notice on the Internet and in a newspaper circulating in each State or Territory and in New   Zealand.
 
 ##### <a id="87"></a>87  Publication of standard or variation
 
@@ -2341,7 +2341,7 @@ Publication requirements
 
                             available for inspection by the public;
 
-                     (d)  the Authority must publish on the Authority’s website a copy of:
+                     (d)  the Authority must publish on the Authority’s Internet site a copy of:
 
                               (i)  the notice; and
 
@@ -2639,7 +2639,7 @@ Note:          The Board must not delegate its powers to act o
 
                      (c)  publish a copy of the notice:
 
-                              (i)  on the internet; and
+                              (i)  on the Internet; and
 
                              (ii)  in a generally circulating newspaper, in each State or Territory and in New Zealand.
 
@@ -2667,7 +2667,7 @@ Note:          The Board must not delegate its powers to act o
 
                             available for inspection by the public; and
 
-                     (d)  publish on the Authority’s website a copy of:
+                     (d)  publish on the Authority’s Internet site a copy of:
 
                               (i)  the notice; and
 
@@ -3303,7 +3303,7 @@ the person is not entitled to remuneration under this Act.
 
              (5)  The Board must establish and maintain a system for the declaration and registration of material personal interests of its members.
 
-             (6)  The entries recorded in the register of members’ interests must be published by the Board on the Authority’s website.
+             (6)  The entries recorded in the register of members’ interests must be published by the Board on the Authority’s Internet site.
 
 ##### <a id="126"></a>126  Resignation
 
@@ -4146,25 +4146,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 77, 78)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 49–51, 53, 54): Royal Assent 
-Schedule 5 (item 52): \[ <i>see (h)</i>and Note 3] 
-Schedule 5 (item 137(a)): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Food Standards__Australia__New Zealand__Act 1991_ was amended by Schedule 2 (items 191–200) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -4530,96 +4511,6 @@ _(g)_     Subsection 2(1) (items 2–6, 8 and 9) of the _Food Standard
   </td>
 </tr></table>
 
-_(h)_     Subsection 2(1) (items 31, 32 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      32\. Schedule 5, item 52
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 5 of Schedule 3 to the
-        <i>Food Standards Australia New Zealand Amendment Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr></table>
-
 The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ appears in the Table below. For repealed provisions up to and including Act No. 98, 2007 see the Repeal Table.
 
 ## Table of Amendments
@@ -4711,23 +4602,7 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
 </tr>
 <tr>
   <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
+    <div>Ss. 7, 8</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
@@ -4882,7 +4757,7 @@ The amendment history of the _Food Standards__Australia__New Zealand__Act 1991_ 
     <div></div>
   </td>
   <td>
-    <div>am. No. 81, 2001; Nos. 8 and 98, 2007; No. 8, 2010</div>
+    <div>am. No. 81, 2001; Nos. 8 and 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -5737,26 +5612,10 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 85</div>
+    <div>Ss. 85–87</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 86, 87</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5825,26 +5684,10 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 98–105</div>
+    <div>Ss. 98–106</div>
   </td>
   <td>
     <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>ad. No. 98, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6054,7 +5897,7 @@ No. 81, 2001</div>
     <div>S. 125</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 81, 2001; No. 98, 2007; No. 8, 2010</div>
+    <div>am. No. 152, 1997; No. 81, 2001; No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -7398,10 +7241,7 @@ Certain provisions of the _Food Standards Australia New Zealand Act 1991_, as am
 
 ### Note 2
 
-_Food Standards Australia New Zealand Amendment Act 2007
- (No. 98, 2007) (as amended by the Statute Law Revision Act 2010 (No. 8, 2010))_
-
-The amendment made by the _Statute Law Revision Act 2010_ commenced on 1 March 2010 and has been incorporated into this Note.
+_Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 The following amendments commence on the day on which an amendment of the Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed at Wellington on 5 December 1995, enters into force to reduce from two to one the number of occasions on which the Council may request the Authority to review a draft standard or a draft variation of a standard. However, the amendments may not commence at all, _see_ subsection 2(1) (item 8):
 
@@ -7521,7 +7361,7 @@ Note:          The Board must not delegate its powers to act o
 
                      (c)  publish a copy of the notice:
 
-                              (i)  on the internet; and
+                              (i)  on the Internet; and
 
                              (ii)  in a generally circulating newspaper, in each State or Territory and in New Zealand.
 
@@ -7583,21 +7423,7 @@ Repeal the paragraph, substitute:
 
                       (i)  subsection 87(2); or
 
-As at 5 March 2010 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Statute Law Revision Act 2010 (No. 8, 2010)_
-
-The following amendment commences immediately after the commencement of item 5 of Schedule 3 to the _Food Standards Australia New Zealand Amendment Act 2007_:
-
-## Schedule 5
-
-## 52  Paragraph 92(d)
-
-Omit “Internet site”, substitute “website”.
-
-As at 5 March 2010 the amendment is not incorporated in this compilation.
+As at 28 December 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -7646,7 +7472,7 @@ The amendment made by item 35 applies to the members of the Authority (includi
 
 * * *
 
-_Australia New Zealand Food Authority Amendment Act 1999 (No. 200, 1999)_
+_Australia New Zealand Food Authority Amendment Act 1999 (No. 200, 1999)_
 
 ## Schedule 1  
 
@@ -7674,7 +7500,7 @@ In this Part:
 
 * * *
 
-_Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
+_Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
 
 ##### <a id="2"></a>2  Commencement
 
@@ -8038,7 +7864,7 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 
 * * *
 
-_Food Standards Australia   New Zealand Amendment Act 2007 (No. 98, 2007)_
+_Food Standards Australia   New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 ## Schedule 1
 
