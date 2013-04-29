@@ -1,136 +1,66 @@
 
+
+
+
+
 New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001
-Act No. 77 of 2001 as amended
-This compilation was prepared on 29 July 2002
-[This Act was amended by Act No. 57 of 2002]
-Amendments from Act No. 57 of 2002
-[Schedule 12 (item 44) amended Item 219 of Schedule 2 Schedule 12 (item 45) amended Item 230 of Schedule 2 Schedule 12 (items 44 and 45) commenced on 20 June 2001]
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
+
+No. 77, 2001
+
+
+
+
+
+New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001
+
+No. 77, 2001
+
+
+
+
+An Act to implement the New Business Tax System by amending the law relating to taxation, and for related purposes
   
   
 Contents
-1	Short title	1
-2	Commencement	1
-3	Schedule(s)	1
-Schedule 1—Transitional provisions	2
-Income Tax (Transitional Provisions) Act 1997	2
-Division 40—Capital allowances	2
-Subdivision 40‑B—Core provisions	2
-40‑10	Plant	3
-40‑12	Plant acquired after 30 June 2001	4
-40‑15	Recalculating effective life	5
-40‑20	IRUs	5
-40‑25	Software	5
-40‑30	Spectrum licences	6
-40‑33	Datacasting transmitter licences	6
-40‑35	Mining unrecouped expenditure	7
-40‑40	Transport expenditure	9
-40‑45	Intellectual property	11
-40‑50	Forestry roads and timber mill buildings	12
-40‑55	Environmental impact assessment	13
-40‑60	Pooling under Subdivision 42‑L of the former Act	13
-40‑65	Substituted accounting periods	14
-40‑70	References to amounts deducted and reductions in deductions	17
-40‑75	Mining expenditure incurred after 1 July 2001 on an asset	18
-40‑77	Mining, quarrying or prospecting rights or information held before 1 July 2001	19
-40‑80	Other expenditure incurred after 1 July 2001 on a depreciating asset	20
-40‑85	Excess deductions	21
-Subdivision 40‑C—Cost	21
-40‑230	Car limit	21
-Subdivision 40‑D—Balancing adjustments	21
-40‑285	Balancing adjustments	22
-40‑290	Reduction of deductions under former Act etc.	23
-40‑295	Later year relief	24
-40‑340	Roll‑overs	24
-40‑345	Balancing adjustments for depreciating assets that retain CGT indexation	27
-Subdivision 40‑E—Low‑value and software development pools	28
-40‑420	Low‑value pools under Division 42 continue	28
-40‑425	Allocating depreciating assets to low‑value pools	29
-40‑450	Software development pools	29
-Subdivision 40‑F—Primary production depreciating assets	29
-40‑515	Water facilities, grapevines and horticultural plants	29
-40‑520	Special rule for water facilities you no longer hold	30
-40‑525	Amounts deducted for water facilities	30
-Subdivision 40‑G—Capital expenditure of primary producers and other landholders	30
-40‑645	Electricity supply and telephone lines	31
-40‑650	Special rule for land that you no longer hold	31
-40‑670	Farm consultants	32
-Subdivision 40‑I—Capital expenditure that is deductible over time	32
-40‑825	Genuine prospectors	32
-Schedule 2—General consequential amendments	32
-Airports (Transitional) Act 1996	32
-49B	Special rules for fixtures that are depreciating assets—Income Tax Assessment Act 1997	2
-50B	Acquisition of depreciating asset from the Commonwealth—Division 40 of the Income Tax Assessment Act 1997	3
-51B	Acquisition of depreciating asset from the FAC—Division 40 of the Income Tax Assessment Act 1997	4
-A New Tax System (Goods and Services Tax) Act 1999	4
-A New Tax System (Luxury Car Tax) Act 1999	5
-Bounty and Capitalisation Grants (Textile Yarns) Act 1981	5
-Bounty (Computers) Act 1984	6
-Bounty (Machine Tools and Robots) Act 1985	6
-Defence Act 1903	6
-Income Tax Assessment Act 1936	7
-Subdivision 57‑N—Division not applicable in respect of certain plant	33
-57‑130	Plant or depreciating assets covered by Subdivision 58‑B of the Income Tax Assessment Act 1997	33
-Income Tax Assessment Act 1997	34
-15‑40	Providing mining, quarrying or prospecting information	42
-17‑35	Certain sections not to apply to certain assets or expenditure	42
-Subdivision 27‑A—General	47
-27‑35	Certain sections not to apply to certain assets or expenditure	47
-Subdivision 27‑B—Division 40	47
-27‑80	Cost or opening adjustable value of depreciating assets reduced for input tax credits	48
-27‑85	Cost or opening adjustable value of depreciating assets reduced: decreasing adjustments	50
-27‑87	Certain decreasing adjustments included in assessable income	51
-27‑90	Cost or opening adjustable value of depreciating assets increased: increasing adjustments	51
-27‑92	Certain increasing adjustments can be deducted	52
-27‑95	Balancing adjustment events	52
-27‑100	Pooling	53
-27‑105	Other Division 40 expenditure	57
-27‑110	Input tax credit etc. relating to 2 or more things	58
-28‑30	Capital allowances	58
-28‑55	Capital allowances	59
-43‑45	Certain anti‑avoidance provisions	59
-43‑72	Meaning of forestry road, timber operation and timber mill building	61
-45‑40	Meaning of plant and written down value	63
-Division 58—Capital allowances for depreciating assets previously owned by an exempt entity	65
-Guide to Division 58	65
-58‑1	What this Division is about	65
-Subdivision 58‑A—Application	65
-58‑5	Application of Division	66
-58‑10	When an asset is acquired in connection with the acquisition of a business	67
-Subdivision 58‑B—Calculating decline in value of privatised assets under Division 40	68
-58‑60	Purpose of rules in this Subdivision	68
-58‑65	Choice of method to work out cost of privatised asset	68
-58‑70	Application of Division 40	69
-58‑75	Meaning of notional written down value	70
-58‑80	Meaning of undeducted pre‑existing audited book value	71
-58‑85	Pre‑existing audited book value of depreciating asset	72
-58‑90	Method for transition entity	73
-104‑235	Balancing adjustment events for depreciating assets: CGT event K7	75
-104‑240	Working out capital gain or loss for CGT event K7: general case	75
-104‑245	Working out capital gain or loss for CGT event K7: pooled assets	76
-108‑60	Depreciating asset that is part of a building is a separate asset	77
-118‑24	Depreciating assets	82
-Subdivision 124‑K—Depreciating assets	84
-124‑655	Roll‑over for depreciating assets	84
-Subdivision 138‑B—Value shifts involving depreciating asset that is plant: reductions of direct interests	85
-138‑370	Condition for applying this Division to depreciating asset group	86
-900‑120	Written evidence of depreciating asset expense	91
-Income Tax Rates Act 1986	107
-Social Security Act 1991	108
-Veterans’ Entitlements Act 1986	109
-Schedule 3—Taxation Laws Amendment Act (No. 1) 2001	111
-Taxation Laws Amendment Act (No. 1) 2001	111
+1	Short title	2
+2	Commencement	2
+3	Schedule(s)	2
+Schedule 1—Transitional provisions	3
+Income Tax (Transitional Provisions) Act 1997	3
+Schedule 2—General consequential amendments	33
+Airports (Transitional) Act 1996	33
+A New Tax System (Goods and Services Tax) Act 1999	36
+A New Tax System (Luxury Car Tax) Act 1999	37
+Bounty and Capitalisation Grants (Textile Yarns) Act 1981	37
+Bounty (Computers) Act 1984	37
+Bounty (Machine Tools and Robots) Act 1985	38
+Defence Act 1903	38
+Income Tax Assessment Act 1936	38
+Income Tax Assessment Act 1997	66
+Income Tax Rates Act 1986	138
+Social Security Act 1991	139
+Veterans’ Entitlements Act 1986	139
+Schedule 3—Taxation Laws Amendment Act (No. 1) 2001	142
+Taxation Laws Amendment Act (No. 1) 2001	142
+
+
+New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001
+No. 77, 2001
+
+
+
 An Act to implement the New Business Tax System by amending the law relating to taxation, and for related purposes
-1  Short title 
+[Assented to 30 June 2001]
+The Parliament of Australia enacts:
+1  Short title
 		This Act may be cited as the New Business Tax System (Capital Allowances—Transitional and Consequential) Act 2001.
-2  Commencement 
+2  Commencement
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 	(2)	Schedule 3 commences, or is taken to have commenced, just after the commencement of the Taxation Laws Amendment Act (No. 1) 2001.
 3  Schedule(s)
 		Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
-
-Schedule 1—Transitional provisions
+
+Schedule 1—Transitional provisions
   
 Income Tax (Transitional Provisions) Act 1997
 1  Before Division 41
@@ -592,8 +522,8 @@ Table of sections
 40‑825	Genuine prospectors
 40‑825  Genuine prospectors
 		The exemption provided by section 330‑60 of the former Act continues to apply to ordinary income derived before 20 August 2001.
-
-Schedule 2—General consequential amendments
+
+Schedule 2—General consequential amendments
   
 Airports (Transitional) Act 1996
 1  Section 48A
@@ -1873,7 +1803,7 @@ Repeal the section, substitute:
 28‑30  Capital allowances
 		If a *balancing adjustment event occurs for the *car, you will need to refer to the capital allowances rules in Division 40 to find out how using this method affects the operation of those rules. See section 40‑370 (about balancing adjustments for some cars).
 219  Subsection 28‑45(2)
-Omit “*car depreciation limit”, substitute “*car limit”.
+Omit “car depreciation limit”, substitute “*car limit”.
 220  Subsection 28‑45(2) (note)
 Repeal the note, substitute:
 Note:	Section 40‑230 deals with the car limit.
@@ -1935,7 +1865,7 @@ Repeal the Division.
 229  Paragraph 45‑5(1)(a)
 Omit “depreciation of *plant”, substitute “the decline in value of *plant”.
 230  Paragraph 45‑5(1)(b)
-Omit “you owned or were the *quasi‑owner of the plant”, substitute “you *held the plant”.
+Omit “you owned or were the quasi‑owner of the *plant”, substitute “you *held the plant”.
 231  Paragraphs 45‑5(3)(a) and (b)
 Repeal the paragraphs, substitute:
 	(a)	you have deducted or can deduct an amount for the *plant’s decline in value; and
@@ -2922,5 +2852,12 @@ Repeal the subsection, substitute:
 Note:	Division 20 deals with amounts included to reverse the effect of past deductions.
 6  Application
 The amendments made by this Schedule apply to arrangements entered into on or after 1 July 2001.
+
+
+[Minister’s second reading speech made in—
+House of Representatives on 24 May 2001
+Senate on 26 June 2001]
+
+(64/01)
       
 
