@@ -1,546 +1,437 @@
-![](http://www.comlaw.gov.au/Details/C2005C00293/Html/AFE1A1C382C46545CA256FE4000728F2/$FILE/image001.gif)
+**
 
-# Telecommunications (Carrier Licence Charges) Act 1997
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997 
+**
 
-**Act No. 49 of 1997 as amended**
 
-This compilation was prepared on 8 April 2005
-taking into account amendments up to Act No. 46 of 2005
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
 
 
-# Contents
 
-**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Act to bind Crown
+**
 
-[4](#4).            Extension to eligible Territories
+###  Long Title 
+**
+Telecommunications Act 1997
+**
 
-[5](#5).            Interpretation
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997<part>Part&#160;1&#151;Introduction </part>
+**
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Telecommunications (Carrier Licence Charges) Act 1997_.
 
-**Part 2—Application charge**
+ 
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>Subject to this section, this Act commences on the day on which it
 
-[6](#6).            Definition of _charge_
+receives the Royal Assent.</dd> <dt>(2)</dt><dd>If the day on which this Act receives the Royal Assent is a later day than 5&#160;June 1997, this Act is taken to have commenced on 5&#160;June 1997\. </dd> 
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 3  Act to bind Crown 
+This Act binds the Crown in right of each of the States, of the Australian
 
-[7](#7).            Imposition of charge
+Capital Territory, of the Northern Territory and of Norfolk Island.
 
-[8](#8).            By whom charge payable
+ 
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 4  Extension to eligible Territories 
+This Act extends to each eligible Territory.
 
-[9](#9).            Amount of charge
+ 
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 5  Interpretation 
+In this Act:
 
-[10](#10).          Maximum charge
+ 
+<dl compact=""><dl compact="">
 
-**Part 3—Annual charge**
+_ACA_ means the Australian Communications Authority. _ACCC_ means the Australian Competition and Consumer Commission. _carrier_ has the same meaning as in the _Telecommunications Act 1997_. _carrier licence_ has the same meaning as in the _Telecommunications Act 1997_. _eligible Territory_ has the same meaning as in the _Telecommunications Act 1997_.  </dl></dl>
 
-[11](#11).          Definition of _charge_
+<center>**
 
-[12](#12).          Imposition of charge
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997<part>Part&#160;2&#151;Application charge </part>
+**</center>
 
-[13](#13).          By whom charge payable
+**
 
-[14](#14).          Amount of charge
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 6  Definition of _charge_ 
+**
 
-[15](#15).          Limit on total of charges [_see_ Note 2]
+ <dl compact="">
 
-**Part 4—Transitional**
+		In this Part:
 
-[16](#16).          Exercise of powers by AUSTEL before 1 July 1997—application charge
+ </dl>
 
-**Notes** 
+<center>Back to Top</center>
 
- 
+<def><dl compact=""><dl compact="">
 
+_charge_ means charge imposed by this Part.
 
-## An Act to impose charges in relation to carrier licences under the _Telecommunications Act 1997_
+ </dl></dl>
 
-## Part 1—Introduction
+**
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 7  Imposition of charge 
+**
 
-                   This Act may be cited as the _Telecommunications (Carrier Licence Charges) Act 1997_.
+ <dl compact="">
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+		Charge is imposed on an application for a carrier licence.
 
-             (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+ </dl>
 
-             (2)  If the day on which this Act receives the Royal Assent is a later day than 5 June 1997, this Act is taken to have commenced on 5 June 1997.
+**
 
-##### <a id="3"></a>3  Act to bind Crown
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 8  By whom charge payable 
+**
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
+ <dl compact="">
 
-##### <a id="4"></a>4  Extension to eligible Territories
+		Charge imposed on an application for a carrier licence is payable by the
 
-                   This Act extends to each eligible Territory.
+applicant.
 
-##### <a id="5"></a>5  Interpretation
+ </dl>
 
-                   In this Act:
+**
 
-                    <a name="aca"></a>**_ACA_** means the Australian Communications Authority.
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 9  Amount of charge 
+**
 
-                    <a name="accc"></a>**_ACCC_** means the Australian Competition and Consumer Commission.
+ <dl compact="">
 
-                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
+<dt>(1)</dt><dd>The amount of charge imposed on an application for a carrier licence is
 
-                    <a name="carrier-licenc"></a>**_carrier licence_** has the same meaning as in the _Telecommunications Act 1997_.
+the amount ascertained in accordance with a written determination made by the
 
-                    <a name="elig-territori"></a>**_eligible Territory_** has the same meaning as in the _Telecommunications Act 1997_.
+ACA.</dd> <dt>(2)</dt><dd>A determination under subsection&#160;(1) is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
 
-## Part 2—Application charge
+**
 
-##### <a id="6"></a>6  Definition of _charge_
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 10  Maximum charge 
+**
 
-                   In this Part:
+ <dl compact="">
 
-                    <a name="charg"></a>**_charge_** means charge imposed by this Part.
+	The amount of charge imposed on an application for a carrier licence
 
-##### <a id="7"></a>7  Imposition of charge
+must not exceed $100,000.
 
-                   Charge is imposed on an application for a carrier licence.
+ </dl>
 
-##### <a id="8"></a>8  By whom charge payable
+<center>**
 
-                   Charge imposed on an application for a carrier licence is payable by the applicant.
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997<part>Part&#160;3&#151;Annual charge </part>
+**</center>
 
-##### <a id="9"></a>9  Amount of charge
+**
 
-             (1)  The amount of charge imposed on an application for a carrier licence is the amount ascertained in accordance with a written determination made by the ACA.
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 11  Definition of _charge_ 
+**
 
-             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+ <dl compact="">
 
-##### <a id="10"></a>10  Maximum charge
+		In this Part:
 
-  The amount of charge imposed on an application for a carrier licence must not exceed $100,000.
+ </dl>
 
-## Part 3—Annual charge
+<def><dl compact=""><dl compact="">
 
-##### <a id="11"></a>11  Definition of _charge_
+_charge_ means charge imposed by this Part.
 
-                   In this Part:
+ </dl></dl>
 
-                    <a name="charg"></a>**_charge_** means charge imposed by this Part.
+**
 
-##### <a id="12"></a>12  Imposition of charge
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 12  Imposition of charge 
+**
 
-                   Charge is imposed on a carrier licence that is in force at the beginning of a financial year, where the financial year begins on or after 1 July 1998.
+ <dl compact="">
 
-##### <a id="13"></a>13  By whom charge payable
+		Charge is imposed on a carrier licence that is in force at the beginning of a
 
-                   Charge imposed on a carrier licence is payable by the holder of the licence.
+financial year, where the financial year begins on or after 1&#160;July 1998.
 
-##### <a id="14"></a>14  Amount of charge
+ </dl>
 
-             (1)  The amount of charge imposed on a carrier licence is the amount ascertained in accordance with a written determination made by the ACA.
+**
 
-             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 13  By whom charge payable 
+**
 
-##### <a id="15"></a>15  Limit on total of charges [_see_ Note 2]
+ <dl compact="">
 
-             (1)  The total of the charges that are imposed on carrier licences in force at the beginning of a financial year must not exceed the sum of:
+		Charge imposed on a carrier licence is payable by the holder of the licence.
 
-                     (a)  the amount determined, by a written instrument made by the ACA, to be the proportion of the ACA’s costs for the immediately preceding financial year that is attributable to the ACA’s telecommunications functions and powers; and
+ </dl>
 
-                     (b)  the amount determined, by a written instrument made by the ACCC, to be the proportion of the ACCC’s costs for the immediately preceding financial year that is attributable to the ACCC’s telecommunications functions and powers; and
+**
 
-                     (c)  the amount determined, by a written instrument made by the ACA, to be the proportion of the Commonwealth’s contribution to the budget of the International Telecommunication Union for the calendar year in which the beginning of the financial year occurs that is to be recovered from carriers; and
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 14  Amount of charge 
+**
 
-                     (d)  the amount determined, in a written instrument made by the Minister, to be the estimated total amount of grants likely to be made during the financial year under section 593 of the _Telecommunications Act 1997_; and 
+ <dl compact="">
 
-                     (e)  the amount determined by the Industry Minister, by written instrument, to be the proportion of the Commonwealth’s costs for the immediately preceding financial year that is attributable to the administration of Part 2 of Schedule 1 to the _Telecommunications Act 1997_.
+<dt>(1)</dt><dd>The amount of charge imposed on a carrier licence is the amount
 
-             (2)  An instrument under subsection (1) must be notified in the _Gazette_ before the day on which the charges referred to in subsection (1) become due for payment.
+ascertained in accordance with a written determination made by the ACA.</dd> <dt>(2)</dt><dd>A determination under subsection&#160;(1) is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
 
-             (3)  An instrument under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+**
 
-             (4)  In this section:
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 15  Limit on total of charges [_see_ Note 2] 
+**
 
-                    <a name="aca-telecommun-function"></a>**_ACA’s telecommunications functions_** has the same meaning as in the _Australian Communications Authority Act 1997_.
+ <dl compact="">
 
-                    <a name="aca-telecommun-power"></a>**_ACA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_.
+<dt>(1)</dt><dd>The total of the charges that are imposed on carrier licences in force at
 
-                    <a name="accc-telecommun-function-power"></a>**_ACCC’s telecommunications functions and powers_** has the same meaning as in the _Telecommunications Act 1997_.
+the beginning of a financial year must not exceed the sum of:
 
-                    <a name="cost"></a>**_cost_**:
+</dd> </dl>
 
-                     (a)  in relation to the ACA, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACA; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in relation to the ACCC, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACCC.
+<dt>(a)</dt><dd>the amount determined, by a written instrument made by the ACA, to be the
 
-                    <a name="industri-minist"></a>**_Industry Minister_** means the Minister for Industry, Science and Tourism.
+proportion of the ACA's costs for the immediately preceding financial year that
 
-## Part 4—Transitional
+is attributable to the ACA's telecommunications functions and powers; and</dd>
 
-##### <a id="16"></a>16  Exercise of powers by AUSTEL before 1 July 1997—application charge
+<dt>(b)</dt><dd>the amount determined, by a written instrument made by the ACCC, to be the
 
-             (1)  Before 1 July 1997, Part 2 has effect as if a reference in that Part to the ACA were a reference to AUSTEL. 
+proportion of the ACCC's costs for the immediately preceding financial year
 
-             (2)  Anything done by AUSTEL under Part 2 before 1 July 1997 has effect, on and after 1 July 1997, as if it had been done by the ACA.
+that is attributable to the ACCC's telecommunications functions and powers;
 
-             (3)  In this section:
+and</dd>
 
-                    <a name="austel"></a>**_AUSTEL_** means the Australian Telecommunications Authority.
+<dt>(c)</dt><dd>the amount determined, by a written instrument made by the ACA, to be the
 
+proportion of the Commonwealth's contribution to the budget of the
 
-# Notes to the _Telecommunications (Carrier Licence Charges) Act 1997_
+International Telecommunication Union for the calendar year in which the
 
-### Note 1
+beginning of the financial year occurs that is to be recovered from carriers;
 
-The _Telecommunications (Carrier Licence Charges) Act 1997_ as shown in this compilation comprises Act No. 49, 1997 amended as indicated in the Tables below.
+and</dd>
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+<dt>(d)</dt><dd>the amount determined, in a written instrument made by the Minister, to be
 
-### Table of Acts
+the estimated total amount of grants likely to be made during the financial
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="17%">
-  <col width="20%">
-  <col width="16%">
-</colgroup>
+year under section&#160;593 of the _Telecommunications Act 1997_; and </dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Carrier Licence Charges) Act 1997</div>
-    </td>
-    <td>
-      <div>49, 1997</div>
-    </td>
-    <td>
-      <div>22 Apr 1997</div>
-    </td>
-    <td>
-      <div>22 Apr 1997</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Carrier Licence Charges) Amendment Act 1998</div>
-    </td>
-    <td>
-      <div>68, 1998</div>
-    </td>
-    <td>
-      <div>30 June 1998</div>
-    </td>
-    <td>
-      <div>30 June 1998</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Telecommunications (Carrier Licence Charges) Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>46, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedules 1 and 2: \[ <i>see</i> <i>(a)</i>, Note 3 and Table A] 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 2</div>
-    </td>
-  </tr>
-</thead>
-<tbody></tbody></table>
-
-
-_(a)_ Subsection 2(1) (item 2) of the _Telecommunications (Carrier Licence Charges) Amendment Act 2005_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2\. Schedules 1 and 2
-      </div>
-    </td>
-    <td>
-      <div>
-        At the same time as section 6 of the
-          <i>Australian Communications and Media Authority Act 2005</i>commences.
-      </div>
-    </td>
-    <td>
-      <div>
-        \[
-          <i>see</i>Note 3 and Table A]
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 15</div>
-    </td>
-    <td>
-      <div>am. No. 68, 1998</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-### Note 2
-
-Section 15(4)—Schedule 1 (item 2) of the _Telecommunications (Carrier Licence Charges) Amendment Act 1998_ provides as follows:
-
-## Schedule 1
-
-## 2  Subsection 15(4) (at the end of the definition of costs)
-
-Add:
-
-             ; and (c)  in relation to the Commonwealth, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the Commonwealth.
+<dt>(e)</dt><dd>the amount determined by the Industry Minister, by written instrument, to
+
+be the proportion of the Commonwealth's costs for the immediately preceding
+
+financial year that is attributable to the administration of Part&#160;2 of
+
+Schedule&#160;1 to the _Telecommunications Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An instrument under subsection&#160;(1) must be notified in the _Gazette_ before the day on which the charges referred to in subsection&#160;(1)
+
+become due for payment.</dd> <dt>(3)</dt><dd>An instrument under subsection&#160;(1) is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_ACA&apos;s telecommunications functions_ has the same meaning as in the
+
+_Australian Communications Authority Act 1997_. _ACA&apos;s telecommunications powers_ has the same meaning as in the _Telecommunications Act 1997_. _ACCC&apos;s telecommunications functions and powers_ has the same meaning as in the _Telecommunications Act 1997_. _cost_:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in relation to the ACA, means an amount that, in accordance with
+
+accrual-based accounting principles, is treated as a cost of the ACA; and</dd>
+
+<dt>(b)</dt><dd>in relation to the ACCC, means an amount that, in accordance with
+
+accrual-based accounting principles, is treated as a cost of the ACCC.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_Industry Minister_ means the Minister for Industry, Science and
+
+Tourism.
+
+ </dl></dl>
+
+<center>**
+
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997<part>Part&#160;4&#151;Transitional </part>
+**</center>
+
+**
+
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997- SECT 16  Exercise of powers by AUSTEL before 1&#160;July 1997&#151;application charge 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Before 1&#160;July 1997, Part&#160;2 has effect as if a reference in that
+
+Part to the ACA were a reference to AUSTEL. </dd> <dt>(2)</dt><dd>Anything done by AUSTEL under Part&#160;2 before 1&#160;July 1997 has effect, on and after 1&#160;July 1997, as if it had been done by the ACA.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_AUSTEL_ means the Australian Telecommunications Authority.
+
+ </dl></dl>
+
+<center>**
+
+###  TELECOMMUNICATIONS (CARRIER LICENCE CHARGES) ACT 1997<centreit>Notes to the _Telecommunications (Carrier Licence Charges) Act 1997_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Telecommunications (Carrier Licence Charges) Act 1997_ as shown in this compilation comprises Act No.&#160;49, 1997 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Telecommunications (Carrier Licence Charges) Act 1997</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>49, 1997</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>22 Apr 1997</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>22 Apr 1997</div>
+
+  </th>
+  <th colspan="1" align="left">
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Telecommunications (Carrier Licence Charges) Amendment Act 1998</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>68, 1998</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>30&#160;June 1998</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>30&#160;June 1998</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>&#151;</div>
+
+  </th>
+</tr></table>**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 15</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;68, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr></table>  <center>**
+
+###  Note 2 
+**</center>  **Note 2**
+
+Section&#160;15(4)&#151;Schedule&#160;1 (item&#160;2) of the _Telecommunications (Carrier Licence Charges) Amendment Act 1998_ provides as follows:
+
+**Schedule&#160;1** **2  Subsection 15(4) (at the end of the definition of costs)** Add:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+	; and (c)	in relation to the Commonwealth, means an amount that, in accordance
+
+with accrual-based accounting principles, is treated as a cost of the
+
+Commonwealth.
+
+</dl></dl></dl>
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
-### Note 3
+</def></def></def>
 
-_Telecommunications (Carrier Licence Charges) Amendment Act 2005 
-(No. 46, 2005)
-_
-
-The following amendments commence on 1 July 2005 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Section 5 (definition of _ACA_)
-
-Repeal the definition.
-
-## 2  Section 5
-
-Insert:
-
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
-
-## 3  Subsection 9(1)
-
-Omit “ACA”, substitute “ACMA”.
-
-## 4  Subsection 14(1)
-
-Omit “ACA”, substitute “ACMA”.
-
-## 5  Paragraph 15(1)(a)
-
-Omit “ACA”, substitute “ACMA”.
-
-## 6  Paragraph 15(1)(a)
-
-Omit “ACA’s” (wherever occurring), substitute “ACMA’s”.
-
-## 7  Paragraph 15(1)(c)
-
-Omit “ACA”, substitute “ACMA”.
-
-## 8  Subsection 15(4) (definition of _ACA’s telecommunications functions_)
-
-Repeal the definition.
-
-## 9  Subsection 15(4) (definition of _ACA’s telecommunications powers_)
-
-Repeal the definition.
-
-## 10  Subsection 15(4)
-
-Insert:
-
-                    <a name="acma-telecommun-function"></a>**_ACMA’s telecommunications functions_** has the same meaning as in the _Telecommunications Act 1997_.
-
-## 11  Subsection 15(4)
-
-Insert:
-
-                    <a name="acma-telecommun-power"></a>**_ACMA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_.
-
-## 12  Subsection 15(4) (paragraph (a) of the definition of _cost_)
-
-Omit “ACA” (wherever occurring), substitute “ACMA”.
-
-## 13  Part 4
-
-Repeal the Part.
-
-As at 8 April 2005 the amendments are not incorporated in this compilation.
+</def></def>
 
 
-## Table A
-
-### Application, saving or transitional provisions
-
-_Telecommunications (Carrier Licence Charges) Amendment Act 2005 
-(No. 46, 2005)
-_
-
-The following provisions commence on 1 July 2005 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  Definitions
-
-In this Schedule:
-
-**_Imposition Act_** means the _Telecommunications (Carrier Licence Charges) Act 1997_.
-
-**_transition time_** means the commencement of this Schedule.
-
-## 2  Continued effect of amount determinations
-
-A determination made by the ACA under subsection 9(1) or 14(1), or paragraph 15(1)(a) or (c), of the Imposition Act that was in force immediately before the transition time has effect on and after the transition time as if it had been made by the ACMA under that subsection or paragraph as amended by Schedule 1 to this Act.
-
-## 3  ACMA’s costs include ACA’s costs
-
-(1)        For the purpose of paragraph 15(1)(a) of the Imposition Act as amended by this Schedule, a reference to the ACMA’s costs for a financial year includes a reference to the ACA’s costs for that financial year.
-
-(2)        The ACA’s costs for a financial year are to be determined as if the amendments made by Schedule 1 to this Act to the definition of **_cost_** in subsection 15(4) of the Imposition Act had not been made.
-
-
- 
