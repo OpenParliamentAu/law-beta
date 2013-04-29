@@ -1,87 +1,86 @@
 
+
 International Air Services Commission Act 1992 
 Act No. 103 of 1992 as amended
-This compilation was prepared on 7 January 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 3 February 1999
+(includes amendments up to Act No. 95, 1998)
+Prepared by the Office of Legislative Drafting Attorney‑General’s Department, Canberra
 
 Contents
-Part 1—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement	1
-3	Object of Act	1
-4	Interpretation	1
-5	Available capacity	4
-Part 2—Key provisions	5
-6	The International Air Services Commission	5
-7	Determinations allocating capacity	5
-8	Renewal of determinations	6
-9	Effect of determinations on the making of operational decisions	7
-10	Review of determinations	7
-11	Policy statements	8
-Part 3—Allocation of available capacity	9
-Division 1—Determinations allocating capacity	9
-12	Applications relating to available capacity	9
-14	Requirements of applications	9
-15	Content of determinations	10
-16	Notification of determinations	11
-Division 2—Renewal of determinations	13
-17	Consideration of renewals	13
-18	Renewal of interim determinations	13
-19	Content of determinations	14
-20	Notification of renewals	14
-Division 3—Review of determinations	15
-21	Applications for variation of determinations	15
-22	Submissions about reviews	15
-23	Decisions on review for cause	16
-24	Decisions on applications for variation	16
-25	Decisions on transfer applications	17
-26	Assessments of public benefit	17
-27	Notification of decisions	17
-Division 4—Surrender of allocated capacity	18
-27AA	Surrender of allocated capacity	18
-Part 4—The Commission’s procedure	19
-Division 1—General	19
-27A	Meetings of Commission	19
-28	Commission to act informally etc.	19
-Division 2—Hearings	21
-30	Commission may hold hearings	21
-31	Evidence on oath etc.	21
-32	Representation	21
-33	Hearings to be public except in special circumstances	21
-34	Summons to give evidence	22
-35	Failure of witness to attend	22
-36	False information	22
-37	Refusal to provide information etc.	22
-38	Allowances to witnesses	23
-Part 5—Membership of the Commission	24
-39	Constitution of Commission	24
-40	Appointment of members	24
-41	Qualification of members	24
-42	Term of appointment	25
-43	Remuneration and allowances	25
-44	Leave of absence	25
-45	Resignation	25
-46	Termination of appointment	25
-47	Disclosure of interests	26
-48	Acting appointments	27
-Part 6—Miscellaneous	28
-49	Register of available capacity	28
-50	Secretary to notify Commission of making etc. of operational decisions	28
-51	Protection of members etc.	28
-52	Publication of notices	29
-53	Annual report	29
-54	Pre‑existing capacity	29
-54A	Pre‑existing capacity under special bilateral arrangement	30
-54B	Pre‑existing capacity	31
-55	Regulations	31
-Notes		33
+Part 1—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement	
+3	Object of Act	
+4	Interpretation	
+5	Available capacity	
+Part 2—Key provisions	
+6	The International Air Services Commission	
+7	Determinations allocating capacity	
+8	Renewal of determinations	
+9	Effect of determinations on the making of operational decisions	
+10	Review of determinations	
+11	Policy statements	
+Part 3—Allocation of available capacity	
+Division 1—Determinations allocating capacity	
+12	Applications relating to available capacity	
+14	Requirements of applications	
+15	Content of determinations	
+16	Notification of determinations	
+Division 2—Renewal of determinations	
+17	Consideration of renewals	
+18	Renewal of interim determinations	
+19	Content of determinations	
+20	Notification of renewals	
+Division 3—Review of determinations	
+21	Applications for variation of determinations	
+22	Submissions about reviews	
+23	Decisions on review for cause	
+24	Decisions on applications for variation	
+25	Decisions on transfer applications	
+26	Assessments of public benefit	
+27	Notification of decisions	
+Division 4—Surrender of allocated capacity	
+27AA	Surrender of allocated capacity	
+Part 4—The Commission’s procedure	
+Division 1—General	
+27A	Meetings of Commission	
+28	Commission to act informally etc.	
+Division 2—Hearings	
+30	Commission may hold hearings	
+31	Evidence on oath etc.	
+32	Representation	
+33	Hearings to be public except in special circumstances	
+34	Summons to give evidence	
+35	Failure of witness to attend	
+36	False information	
+37	Refusal to provide information etc.	
+38	Allowances to witnesses	
+Part 5—Membership of the Commission	
+39	Constitution of Commission	
+40	Appointment of members	
+41	Qualification of members	
+42	Term of appointment	
+43	Remuneration and allowances	
+44	Leave of absence	
+45	Resignation	
+46	Termination of appointment	
+47	Disclosure of interests	
+48	Acting appointments	
+Part 6—Miscellaneous	
+49	Register of available capacity	
+50	Secretary to notify Commission of making etc. of operational decisions	
+51	Protection of members etc.	
+52	Publication of notices	
+53	Annual report	
+54	Pre‑existing capacity	
+54A	Pre‑existing capacity under special bilateral arrangement	
+54B	Pre‑existing capacity	
+55	Regulations	
+
 An Act to establish the International Air Services Commission, and for related purposes
+Do not delete : Chapter placeholder
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the International Air Services Commission Act 1992.
 2  Commencement
@@ -129,9 +128,8 @@ wholly‑owned subsidiary has the same meaning as in the Corporations Law.
 5  Available capacity
 	(1)	Subject to subsection (2) of this section and subsection 9(2A), capacity is taken to be available capacity for the purposes of this Act if operational decisions are not in force in relation to that capacity.
 	(2)	If the Commission makes a determination, the capacity to which it relates is taken not to be available capacity during the period beginning when the determination is made and ending when the Secretary advises the Commission under section 50 in relation to the capacity.
-
 Part 2—Key provisions
-  
+Do not delete : Division placeholder
 6  The International Air Services Commission
 	(1)	The International Air Services Commission is established.
 	(2)	The functions of the Commission are:
@@ -193,7 +191,6 @@ Note:	Division 3 of Part 3 is about reviewing determinations. Part 4 is about th
 	(a)	must not deal with the making of a particular determination or decision by the Commission; and
 	(b)	is invalid to the extent that it purports to deal with such a matter.
 	(5)	The policy statements are disallowable instruments for the purposes of section 46A of the Acts Interpretation Act 1901.
-
 Part 3—Allocation of available capacity
 Division 1—Determinations allocating capacity
 Note:	This Division is about making determinations under section 7.
@@ -248,7 +245,6 @@ the determination must include a condition stating the extent to which changes i
 	(b)	publish, in such manner as it thinks appropriate, a notice stating:
 	(i)	that the determination has been made; and
 	(ii)	where copies of the determination and reasons may be obtained.
-
 Division 2—Renewal of determinations
 Note:	This Division is about renewing determinations under section 8.
 17  Consideration of renewals
@@ -281,7 +277,6 @@ Note:	Section 52 is about publication of notices.
 	(b)	publish, in such manner as it thinks appropriate, a notice stating:
 	(i)	that the determination has been made; and
 	(ii)	where copies of the determination and reasons may be obtained.
-
 Division 3—Review of determinations
 Note:	This Division is about reviewing determinations under section 10.
 21  Applications for variation of determinations
@@ -330,7 +325,6 @@ the Commission must vary the determination as requested in the application.
 	(b)	publish a notice stating:
 	(i)	that the decision has been made; and
 	(ii)	where copies of the decision and reasons may be obtained.
-
 Division 4—Surrender of allocated capacity
 27AA  Surrender of allocated capacity
 	(1)	An Australian carrier to whom a determination allocates capacity may at any time request the Commission to revoke the determination.
@@ -341,7 +335,6 @@ Division 4—Surrender of allocated capacity
 	(4)	As soon as practicable after making a decision revoking a determination under this section, the Commission must:
 	(a)	make copies of the decision available to the public; and
 	(b)	publish a notice stating that the decision has been made and where copies of it may be obtained.
-
 Part 4—The Commission’s procedure
 Division 1—General
 27A  Meetings of Commission
@@ -364,7 +357,6 @@ Division 1—General
 	(e)	may inform itself on anything relevant to a matter before it in any way it thinks fit; and
 	(f)	may receive information or submissions orally or by written statements; and
 	(g)	may, in respect of a matter before it, consult such persons as it thinks fit.
-
 Division 2—Hearings
 30  Commission may hold hearings
 	(1)	For the purposes of the performance of its functions, the Commission may hold hearings.
@@ -408,9 +400,8 @@ Penalty:	$5,000.
 	(a)	if the witness was summoned on the application of a party to the proceedings—by that party; or
 	(b)	in any other case—by the Commonwealth;
 such allowances for travelling and other expenses in relation to his or her attendance as are prescribed.
-
 Part 5—Membership of the Commission
-  
+Do not delete : Division placeholder
 39  Constitution of Commission
 	(1)	The Commission consists of the following members:
 	(a)	a Chairperson;
@@ -435,7 +426,7 @@ Part 5—Membership of the Commission
 	(2)	The members are to be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 44  Leave of absence
-	(1)	If a member is appointed on a full‑time basis, the member has such recreation leave entitlements as the Remuneration Tribunal determines.
+	(1)	Subject to section 87E of the Public Service Act 1922, if a member is appointed on a full‑time basis, the member has such recreation leave entitlements as the Remuneration Tribunal determines.
 	(2)	The Minister may grant the Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
 	(3)	The Chairperson may grant leave of absence to any other member on such terms and conditions as the Chairperson determines.
 45  Resignation
@@ -470,9 +461,8 @@ then:
 	(c)	the appointment had ceased to have effect; or
 	(d)	the occasion for the person to act had not arisen or had ceased.
 Note:	See section 33A of the Acts Interpretation Act 1901 for acting appointments.
-
 Part 6—Miscellaneous
-  
+Do not delete : Division placeholder
 49  Register of available capacity
 	(1)	The Secretary must cause a register of all available capacity to be prepared and kept up to date.
 	(3)	The Secretary must take all reasonable steps to ensure that the register is available for inspection by any person without charge.
@@ -533,15 +523,16 @@ pre‑existing capacity means capacity that came into existence before the comme
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 	(2)	In particular, the Governor‑General may make regulations providing for procedures to be followed by the Commission in performing its functions, including time limits within which such procedures must be completed. 
 
-Notes to the International Air Services Commission Act 1992
-Note 1
-The International Air Services Commission Act 1992 as shown in this compilation comprises Act No. 103, 1992 amended as indicated in the Tables below. 
+NOTE
+1. 	The International Air Services Commission Act 1992 as shown in this reprint comprises Act No. 103, 1992 amended as indicated in the Tables below. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 International Air Services Commission Act 1992
 103, 1992
 30 June 1992
@@ -555,22 +546,14 @@ International Air Services Commission Amendment Act 1994
 Aviation Legislation Amendment Act (No. 1) 1998
 95, 1998
 23 July 1998
-24 Jan 1999 (a)
-—
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 550): 5 Dec 1999 (see Gazette 1999, No. S584) (b)
+23 Jan 1999 (a)
 —
 
 (a)	The International Air Services Commission Act 1992 was amended by Schedule 2 (items 1‑22) only of the Aviation Legislation Amendment Act (No. 1) 1998, subsections 2(1) and (3) of which provide as follows:
 	(1)	Subject to subsections (2) and (3), Schedule 1 (other than items 9, 10 and 11) and Schedule 5 commence on a day or days to be fixed by Proclamation.
 	(3)	If Schedule 5 does not commence under subsection (1) within 6 months after the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
-(b)	The International Air Services Commission Act 1992 was amended by Schedule 1 (item 550) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -618,8 +601,6 @@ S. 34
 am. No. 139, 1994
 S. 39	
 am. No. 139, 1994
-S. 44	
-am. No. 146, 1999
 S. 47	
 rs. No. 139, 1994
 S. 50	
