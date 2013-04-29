@@ -1,333 +1,55 @@
-**
+**<b>
 
-###  UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 
-**
+### <center><name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - Reprinted as at 31 December 1983 (HISTACT CHAP 691 #DATE 31:12:1983) </name></center>
+</b>** *1* Act No. 24, 1947; assented to 10 June 1947; commenced 8 July 1947.<lf> </lf>
+**<b>
 
+### <name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-###  Compilation Information 
-**
+Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Approval of Constitution<lf> <p>                                 THE  SCHEDULE<lf> <p>Constitution of the United Nations Educational, Scientific and Cultural<lf>                                   Organization<lf> </lf></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
+### <name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to approve the Constitution of the United Nations Educational, Scientific and Cultural Organization </sect>
+**<b>
 
-**
+### <name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - PREAMBLE </name>
+</b>** 
 
-###  Long Title 
-**
+## SECT
+<sect> WHEREAS at the City of London on the sixteenth day of November, One thousand nine hundred and forty-five, an organization known as the United NaTIONS Educational, Scientific and Cultural Organization was formed and the constitution of that Organization was agreed upon:<lf>   AND WHEREAS the Constitution of the Organization has been signed on behalf of Australia:<lf>   AND WHEREAS acceptance of the Constitution by the Commonwealth of Australia was effected by Instrument of Acceptance deposited with the Government of the United Kingdom on the eleventh day of June, One thousand nine hundred and forty-six:<lf>   AND WHEREAS it is desirable that the Constitution of the Organization should be approved by the Parliament:<lf> </lf></lf></lf></lf></sect>
+**<b>
 
-**
+### <name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - SECT 1 Short title </name>
+</b>** 
 
-###  Preamble 
-**
-WHEREAS at the City of London on the sixteenth day of November, One thousand
+## SECT
+<sect>   1\. This Act may be cited as the United Nations Educational, Scientific and Cultural Organization Act 1947.*1* 
 
-nine hundred and forty-five, an organization known as the United Nations
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
-Educational, Scientific and Cultural Organization was formed and the
+### <name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - SECT 2 Approval of Constitution </name>
+</b>** 
 
-constitution of that Organization was agreed upon:  AND WHEREAS the Constitution of the Organization has been signed on behalf of Australia:  AND WHEREAS acceptance of the Constitution by the Commonwealth of Australia was effected by Instrument of Acceptance deposited with the Government of the United Kingdom on the eleventh day of June, One thousand nine hundred and forty-six:  AND WHEREAS it is desirable that the Constitution of the Organization should be approved by the Parliament:  BE it therefore enacted by the King's Most Excellent Majesty, the Senate and the House of Representatives of the Commonwealth of Australia, as follows:  
-###  UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947- SECT 1  Short title \[see Note 1]  
-This Act may be cited as the _United Nations Educational, Scientific and Cultural Organization Act 1947_.
+## SECT
+<sect>   2\. The Constitution of the United Nations Educational, Scientific and Cultural Organization (a copy of which is set out in the Schedule to this Act) is approved. </sect>
+**<b>
 
- 
-###  UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947- SECT 2  Approval of Constitution  
-The Constitution of the United Nations Educational, Scientific and Cultural
+### <name>UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947 - SCHEDULE 1 </name>
+</b>** 
 
-Organization (a copy of which is set out in the Schedule to this Act) is
+## SCH
+<sch>                                  THE  SCHEDULE<lf>         CONSTITUTION  OF  THE  UNITED  NATIONS  EDUCATIONAL,  SCIENTIFIC<lf>                           AND  CULTURAL  ORGANIZATION<lf>        THE  GOVERNMENTS  OF  THE  STATES  PARTIES  TO  THIS  CONSTITUTION<lf>                     ON  BEHALF  OF  THEIR  PEOPLES  DECLARE,<lf>   that since wars begin in the minds of men, it is in the minds of men that the<lf> defences of peace must be constructed;<lf>   that ignorance of each other's ways and lives has been a common cause,<lf> throughout the history of mankind, of that suspicion and mistrust between the<lf> peoples of the world through which their differences have all too often broken<lf> into war;<lf>   that the great and terrible war which has now ended was a war made possible by <lf> the denial of the democratic principles of the dignity, equality and mutual<lf> respect of men, and by the propagation, in their place, through ignorance and<lf> prejudice, of the doctrine of the inequality of men and races;<lf>   that the wide diffusion of culture, and the education of humanity for justice<lf> and liberty and peace are indispensable to the dignity of man and constitute a<lf> sacred duty which all the nations must fulfil in a spirit of mutual assistance<lf> and concern;<lf>   that a peace based exclusively upon the political and economic arrangements of <lf> governments would not be a peace which could secure the unanimous, lasting and<lf> sincere support of the peoples of the world, and that the peace must therefore<lf> be founded, if it is not to fail, upon the intellectual and moral solidarity of<lf> mankind.<lf> 
 
-approved.
-
- 
-**
-
-###  UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947The Schedule&#151;Constitution of the United Nations Educational, Scientific and Cultural Organization 
-**
-<center>THE GOVERNMENTS OF THE STATES PARTIES TO THIS CONSTITUTION ON BEHALF OF
-
-THEIR PEOPLES DECLARE,</center>
-
- 
-
-
-
-
-
-FOR THESE REASONS,
-
-
-Back to Top
-
-
-IN CONSEQUENCE WHEREOF
-
-
-ARTICLE I
-
-_Purposes and Functions_
-
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>collaborate in the work of advancing the mutual knowledge and
-
-understanding of peoples, through all means of mass communication and to that
-
-end recommend such international agreements as may be necessary to promote the
-
-free flow of ideas by word and image;</dd>
-
-<dt>(b)</dt><dd>give fresh impulse to popular education and to the spread of culture;
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact=""><dl compact="">
-
-	by collaborating with Members, at their request, in the development of
-
-educational activities;
-
-	by instituting collaboration among the nations to advance the ideal of
-
-equality of educational opportunity without regard to race, sex or any
-
-distinctions, economic or social;
-
-	by suggesting educational methods best suited to prepare the children of the
-
-world for the responsibilities of freedom;
-
-</dl></dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>maintain, increase and diffuse knowledge;
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact=""><dl compact="">
-
-	by assuring the conservation and protection of the world's inheritance of
-
-books, works of art and monuments of history and science, and recommending to
-
-the nations concerned the necessary international conventions;
-
-	by encouraging cooperation among the nations in all branches of intellectual
-
-activity, including the international exchange of persons active in the fields
-
-of education, science and culture and the exchange of publications, objects of
-
-artistic and scientific interest and other materials of information;
-
-	by initiating methods of international cooperation calculated to give the
-
-people of all countries access to the printed and published materials produced
-
-by any of them.
-
-</dl></dl></dl>
-
-ARTICLE II 
-
-_Membership_
-
-
-
-
-
-ARTICLE III
-
-_Organs_
-
-
-
-Back to Top
-
-ARTICLE IV
-
-_The General Conference_
-
-Composition
-
-
-Functions
-
-
-
-
-
-
-
-Voting
-
-
-Procedure
-
-
-
-
-
-Observers
-
-
-ARTICLE V 
-
-_Executive Board_
-
-Composition
-
-
-
-
-
-Functions
-
-
-Back to Top
-
-
-
-
-
-
-
-
-ARTICLE VI 
-
-_Secretariat_
-
-
-
-
-
-
-
-ARTICLE VII
-
-_National Co-operating Bodies_
-
-
-
-
-ARTICLE VIII
-
-_Reports by Member States_
-
-
-ARTICLE IX 
-
-_Budget_
-
-
-
-
-Back to Top
-
-
-ARTICLE X
-
-_Relations with the United Nations Organization_
-
-
-ARTICLE XI
-
-_Relations with other specialized international Organizations and agencies_
-
-
-
-
-
-ARTICLE XII
-
-_Legal Status of the Organization_
-
-
-ARTICLE XIII
-
-_Amendments_
-
-
-
-ARTICLE XIV
-
-_Interpretation_
-
-
-
-ARTICLE XV
-
-_Entry into Force_
-
-
-
-
-
-
-
-(Here follow signatures of the participating countries.)
-
-
-
-
-
-
-**
-
-###  UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION ACT 1947<centreit>Notes to the _United Nations Educational, Scientific And Cultural Organization Act 1947_ </centreit>
-**
-Note 1
-Table of Acts
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_United Nations Educational, Scientific And Cultural Organization Act 1947_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>24, 1947</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>10 June 1947</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 July 1947</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-
-
-
-
+                              FOR  THESE  REASONS,<lf>   the States parties to this Constitution, believing in full and equal<lf> opportunities for education for all, in the unrestricted pursuit of objective<lf> truth, and in the free exchange of ideas and knowledge, are agreed and<lf> determined to develop and to increase the means of communication between their<lf> peoples and to employ these means for the purposes of mutual understanding and a <lf> truer and more perfect knowledge of each other's lives;<lf>                             IN  CONSEQUENCE  WHEREOF<lf>   they do hereby create the United Nations Educational, Scientific and Cultural<lf> Organization for the purpose of advancing, through the educational and<lf> scientific and cultural relations of the peoples of the world, the objectives of <lf> international peace and of the common welfare of mankind for which the United<lf> Nations Organization was established and which its Charter proclaims.<lf> <p>                                   ARTICLE  I<lf>                              Purposes and Functions<lf>   1\. The purpose of the Organization is to contribute to peace and security by<lf> promoting collaboration among the nations through education, science and culture <lf> in order to further universal respect for justice, for the rule of law and for<lf> the human rights and fundamental freedoms which are affirmed for the peoples of<lf> the world, without distinction of race, sex, language or religion, by the<lf> Charter of the United Nations.<lf> <p>  2\. To realize this purpose the Organization will:<lf>   (a)  collaborate in the work of advancing the mutual knowledge and<lf> understanding of peoples, through all means of mass communication and to that<lf> end recommend such international agreements as may be necessary to promote the<lf> free flow of ideas by word and image;<lf>   (b)  give fresh impulse to popular education and to the spread of culture;<lf> by collaborating with Members, at their request, in the development of<lf> educational activities;<lf> by instituting collaboration among the nations to advance the ideal of equality<lf> of educational opportunity without regard to race, sex or any distinctions,<lf> economic or social;<lf> by suggesting educational methods best suited to prepare the children of the<lf> world for the responsibilities of freedom;<lf>   (c)  maintain, increase and diffuse knowledge;<lf> by assuring the conservation and protection of the world's inheritance of books, <lf> works of art and monuments of history and science, and recommending to the<lf> nations concerned the necessary international conventions;<lf> by encouraging cooperation among the nations in all branches of intellectual<lf> activity, including the international exchange of persons active in the fields<lf> of education, science and culture and the exchange of publications, objects of<lf> artistic and scientific interest and other materials of information;<lf> by initiating methods of international cooperation calculated to give the people <lf> of all countries access to the printed and published materials produced by any<lf> of them.<lf> <p>  3\. With a view to preserving the independence, integrity and fruitful<lf> diversity of the cultures and educational systems of the States Members of this<lf> Organization, the Organization is prohibited from intervening in matters which<lf> are essentially within their domestic jurisdiction.<lf> <p>                                  ARTICLE  II<lf>                                    Membership<lf>   1\. Membership of the United Nations Organization shall carry with it the right <lf> to membership of the United Nations Educational, Scientific and Cultural<lf> Organization.<lf> <p>  2\. Subject to the conditions of the agreement between this Organization and<lf> the United Nations Organization, approved pursuant to Article X of this<lf> Constitution, States not members of the United Nations Organization may be<lf> admitted to membership of the Organization, upon recommendation of the Executive <lf> Board, by a two-thirds majority vote of the General Conference.<lf> <p>  3\. Members of the Organization which are suspended from the exercise of the<lf> rights and privileges of membership of the United Nations Organization shall,<lf> upon the request of the latter, be suspended from the rights and privileges of<lf> this Organization.<lf> <p>  4\. Members of the Organization which are expelled from the United Nations<lf> Organization shall automatically cease to be members of this Organization.<lf> <p>                                  ARTICLE  III<lf>                                      Organs<lf>   The Organization shall include a General Conference, an Executive Board and a<lf> Secretariat.<lf> <p>                                  ARTICLE  IV<lf>                              The General Conference<lf> A. Composition<lf>   1\. The General Conference shall consist of the representatives of the States<lf> Members of the Organization. The Government of each Member State shall appoint<lf> not more than five delegates, who shall be selected after consultation with the<lf> National Commission, if established, or with educational, scientific and<lf> cultural bodies.<lf> <p>B. Functions<lf>   2\. The General Conference shall determine the policies and the main lines of<lf> work of the Organization. It shall take decisions on programmes drawn up by the<lf> Executive Board.<lf> <p>  3\. The General Conference shall, when it deems it desirable, summon<lf> international conferences on education, the sciences and humanities and the<lf> dissemination of knowledge.<lf> <p>  4\. The General Conference shall, in adopting proposals for submission to the<lf> Member States, distinguish between recommendations and international conventions <lf> submitted for their approval. In the former case a majority vote shall suffice;<lf> in the latter case a two-thirds majority shall be required. Each of the Member<lf> States shall submit recommendations or conventions to its competent authorities<lf> within a period of one year from the close of the session of the General<lf> Conference at which they were adopted.<lf> <p>  5\. The General Conference shall advise the United Nations Organization on the<lf> educational, scientific and cultural aspects of matters of concern to the<lf> latter, in accordance with the terms and procedure agreed upon between the<lf> appropriate authorities of the two Organizations.<lf> <p>  6\. The General Conference shall receive and consider the reports submitted<lf> periodically by Member States as provided by Article VIII.<lf> <p>  7\. The General Conference shall elect the members of the Executive Board and,<lf> on the recommendation of the Board, shall appoint the Director-General.<lf> <p>C. Voting<lf>   8\. Each Member State shall have one vote in the General Conference. Decisions<lf> shall be made by a simple majority except in cases in which a two-thirds<lf> majority is required by the provisions of this Constitution. A majority shall be <lf> a majority of the Members present and voting.<lf> <p>D. Procedure<lf>   9\. The General Conference shall meet annually in ordinary session; it may meet <lf> in extraordinary session on the call of the Executive Board. At each session the <lf> location of its next session shall be designated by the General Conference and<lf> shall vary from year to year.<lf> <p>  10\. The General Conference shall, at each session, elect a President and other <lf> officers and adopt rules of procedure.<lf> <p>  11\. The General Conference shall set up special and technical committees and<lf> such other subordinate bodies as may be necessary for its purposes.<lf> <p>  12\. The General Conference shall cause arrangements to be made for public<lf> access to meetings, subject to such regulations as it shall prescribe.<lf> <p>E. Observers<lf>   13\. The General Conference, on the recommendation of the Executive Board and<lf> by a two-thirds majority may, subject to its rules of procedure, invite as<lf> observers at specified sessions of the Conference or of its commissions<lf> representatives of international organizations, such as those referred to in<lf> Article XI, paragraph 4.<lf> <p>                                   ARTICLE  V<lf>                                 Executive Board<lf> A. Composition<lf>   1\. The Executive Board shall consist of eighteen members elected by the<lf> General Conference from among the delegates appointed by the Member States,<lf> together with the President of the Conference who shall sit ex officio<lf> in an advisory capacity.<lf> <p>  2\. In electing the members of the Executive Board the General Conference shall <lf> endeavour to include persons competent in the arts, the humanities, the<lf> sciences, education and the diffusion of ideas, and qualified by their<lf> experience and capacity to fulfil the administrative and executive duties of the <lf> Board. It shall also have regard to the diversity of cultures and a balanced<lf> geographical distribution. Not more than one national of any Member State shall<lf> serve on the Board at any one time, the President of the Conference excepted.<lf> <p>  3\. The elected members of the Executive Board shall serve for a term of three<lf> years, and shall be immediately eligible for a second term, but shall not serve<lf> consecutively for more than two terms. At the first election eighteen members<lf> shall be elected of whom one third shall retire at the end of the first year and <lf> one third at the end of the second year, the order of retirement being<lf> determined immediately after the election by the drawing of lots. Thereafter six <lf> members shall be elected each year.<lf> <p>  4\. In the event of the death or resignation of one of its members, the<lf> Executive Board shall appoint, from among the delegates of the Member State<lf> concerned, a substitute, who shall serve until the next session of the General<lf> Conference which shall elect a member for the remainder of the term.<lf> <p>B. Functions<lf>   5\. The Executive Board, acting under the authority of the General Conference,<lf> shall be responsible for the execution of the programme adopted by the<lf> Conference and shall prepare its agenda and programme of work.<lf> <p>  6\. The Executive Board shall recommend to the General Conference the admission <lf> of new members to the Organization.<lf> <p>  7\. Subject to decisions of the General Conference, the Executive Board shall<lf> adopt its own rules of procedure. It shall elect its officers from among its<lf> members.<lf> <p>  8\. The Executive Board shall meet in regular session at least twice a year and <lf> may meet in special session if convoked by the Chairman on his own initiative or <lf> upon the request of six members of the Board.<lf> <p>  9\. The Chairman of the Executive Board shall present to the General<lf> Conference, with or without comment, the annual report of the Director-General<lf> on the activities of the Organization, which shall have been previously<lf> submitted to the Board.<lf> <p>  10\. The Executive Board shall make all necessary arrangements to consult the<lf> representatives of international organizations or qualified persons concerned<lf> with questions within its competence.<lf> <p>  11\. The members of the Executive Board shall exercise the powers delegated to<lf> them by the General Conference on behalf of the Conference as a whole and not as <lf> representatives of their respective Governments.<lf> <p>                                  ARTICLE  VI<lf>                                   Secretariat<lf>   1\. The Secretariat shall consist of a Director-General and such staff as may<lf> be required.<lf> <p>  2\. The Director-General shall be nominated by the Executive Board and<lf> appointed by the General Conference for a period of six years, under such<lf> conditions as the Conference may approve, and shall be eligible for<lf> re-appointment. He shall be the chief administrative officer of the<lf> Organization.<lf> <p>  3\. The Director-General, or a deputy designated by him, shall participate,<lf> without the right to vote, in all meetings of the General Conference, of the<lf> Executive Board, and of the committees of the Organization. He shall formulate<lf> proposals for appropriate action by the Conference and the Board.<lf> <p>  4\. The Director-General shall appoint the staff of the Secretariat in<lf> accordance with staff regulations to be approved by the General Conference.<lf> Subject to the paramount consideration of securing the highest standards of<lf> integrity, efficiency and technical competence, appointment to the staff shall<lf> be on as wide a geographical basis as possible.<lf> <p>  5\. The responsibilities of the Director-General and of the staff shall be<lf> exclusively international in character. In the discharge of their duties they<lf> shall not seek or receive instructions from any Government or from any authority <lf> external to the Organization. They shall refrain from any action which might<lf> prejudice their position as international officials. Each State Member of the<lf> Organization undertakes to respect the international character of the<lf> responsibilities of the Director-General and the staff, and not to seek to<lf> influence them in the discharge of their duties.<lf> <p>  6\. Nothing in this Article shall preclude the Organization from entering into<lf> special arrangements within the United Nations Organization for common services<lf> and staff and for the interchange of personnel.<lf> <p>                                  ARTICLE  VII<lf>                           National Co-operating Bodies<lf>   1\. Each Member State shall make such arrangements as suit its particular<lf> conditions for the purpose of associating its principal bodies interested in<lf> educational, scientific and cultural matters with the work of the Organization,<lf> preferably by the formation of a National Commission broadly representative of<lf> the Government and such bodies.<lf> <p>  2\. National Commissions or national co-operating bodies, where they exist,<lf> shall act in an advisory capacity to their respective delegations to the General <lf> Conference and to their Governments in matters relating to the Organization and<lf> shall function as agencies of liaison in all matters of interest to it.<lf> <p>  3\. The Organization may, on the request of a Member State, delegate, either<lf> temporarily or permanently, a member of its Secretariat to serve on the National <lf> Commission of that State, in order to assist in the development of its work.<lf> <p>                                 ARTICLE  VIII<lf>                             Reports by Member States<lf>   Each Member State shall report periodically to the Organization, in a manner<lf> to be determined by the General Conference, on its laws, regulations and<lf> statistics relating to educational, scientific and cultural life and<lf> institutions, and on the action taken upon the recommendations and conventions<lf> referred to in Article IV, paragraph 4.<lf> <p>                                  ARTICLE  IX<lf>                                      Budget<lf>   1\. The budget shall be administered by the Organization.<lf> <p>  2\. The General Conference shall approve and give final effect to the budget<lf> and to the apportionment of financial responsibility among the States Members of <lf> the Organization subject to such arrangement with the United Nations as may be<lf> provided in the agreement to be entered into pursuant to Article X.<lf> <p>  3\. The Director-General, with the approval of the Executive Board, may receive <lf> gifts, bequests, and subventions directly from Governments, public and private<lf> institutions, associations and private persons.<lf> <p>                                   ARTICLE  X<lf>                  Relations with the United Nations Organization<lf>   This Organization shall be brought into relation with the United Nations<lf> Organization, as soon as practicable, as one of the specialized agencies<lf> referred to in Article 57 of the Charter of the United Nations. This<lf> relationship shall be effected through an agreement with the United Nations<lf> Organization under Article 63 of the Charter, which agreement shall be subject<lf> to the approval of the General Conference of this Organization. The agreement<lf> shall provide for effective co-operation between the two Organizations in the<lf> pursuit of their common purposes, and at the same time shall recognize the<lf> autonomy of this Organization, within the fields of its competence as defined in <lf> this Constitution. Such agreement may, among other matters, provide for the<lf> approval and financing of the budget of the Organization by the General Assembly <lf> of the United Nations.<lf> <p>                                  ARTICLE  XI<lf>    Relations with other specialized international Organizations and agencies<lf>   1\. This Organization may co-operate with other specialized inter-governmental<lf> organizations and agencies whose interests and activities are related to its<lf> purposes. To this end the Director-General, acting under the general authority<lf> of the Executive Board, may establish effective working relationships with such<lf> organizations and agencies and establish such joint committees as may be<lf> necessary to assure effective co-operation. Any formal arrangements entered into <lf> with such organizations or agencies shall be subject to the approval of the<lf> Executive Board.<lf> <p>  2\. Whenever the General Conference of this Organization and the competent<lf> authorities or any other specialized inter-governmental organizations or<lf> agencies whose purposes and functions lie within the competence of this<lf> Organization, deem it desirable to effect a transfer of their resources and<lf> activities to this Organization, the Director-General, subject to the approval<lf> of the Conference, may enter into mutually acceptable arrangements for this<lf> purpose.<lf> <p>  3\. This Organization may make appropriate arrangements with other<lf> inter-governmental organizations for reciprocal representation at meetings.<lf> <p>  4\. The United Nations Educational, Scientific and Cultural Organization may<lf> make suitable arrangements for consultation and co-operation with<lf> non-governmental international organizations concerned with matters within its<lf> competence, and may invite them to undertake specific tasks. Such co-operation<lf> may also include appropriate participation by representatives of such<lf> organizations on advisory committees set up by the General Conference.<lf> <p>                                  ARTICLE  XII<lf>                         Legal Status of the Organization<lf>   The provisions of Articles 104 and 105 of the Charter of the United Nations<lf> Organization concerning the legal status of that Organization, its privileges<lf> and immunities shall apply in the same way to this Organization.<lf> <p>                                 ARTICLE  XIII<lf>                                    Amendments<lf>   1\. Proposals for amendments to this Constitution shall become effective upon<lf> receiving the approval of the General Conference by a two-thirds majority;<lf> provided, however, that those amendments which involve fundamental alterations<lf> in the aims of the Organization or new obligations for the Member States shall<lf> require subsequent acceptance on the part of two-thirds of the Member States<lf> before they come into force. The draft texts of proposed amendments shall be<lf> communicated by the Director-General to the Member States at least six months in <lf> advance of their consideration by the General Conference.<lf> <p>  2\. The General Conference shall have power to adopt by a two-thirds majority<lf> rules of procedure for carrying out the provisions of this Article.<lf> <p>                                  ARTICLE  XIV<lf>                                  Interpretation<lf>   1\. The English and French texts of this Constitution shall be regarded as<lf> equally authoritative.<lf> <p>  2\. Any question or dispute concerning the interpretation of this Constitution<lf> shall be referred for determination to the International Court of Justice or to<lf> an arbitral tribunal, as the General Conference may determine under its rules of <lf> procedure.<lf> <p>                                  ARTICLE  XV<lf>                                 Entry into Force<lf>   1\. This Constitution shall be subject to acceptance. The instruments of<lf> acceptance shall be deposited with the Government of the United Kingdom.<lf> <p>  2\. This Constitution shall remain open for signature in the archives of the<lf> Government of the United Kingdom. Signature may take place either before or<lf> after the deposit of the instrument of acceptance. No acceptance shall be valid<lf> unless preceded or followed by signature.<lf> <p>  3\. This Constitution shall come into force when it has been accepted by twenty <lf> of its signatories. Subsequent acceptances shall take effect immediately.<lf> <p>  4\. The Government of the United Kingdom will inform all members of the United<lf> Nations of the receipt of all instruments of acceptance and of the date on which <lf> the Constitution comes into force in accordance with the preceding paragraph.<lf> <p>  In faith whereof, the undersigned, duly authorized to that effect, have signed <lf> this Constitution in the English and French languages, both texts being equally<lf> authentic.<lf> <p>  Done in London the sixteenth day of November, 1945 in a single copy, in the<lf> English and French languages, of which certified copies will be communicated by<lf> the Government of the United Kingdom to the Governments of all the Members of<lf> the United Nations.<lf> <p>  (Here follow signatures of the participating countries.)<lf> </lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></p></lf></lf></p></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></p></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
