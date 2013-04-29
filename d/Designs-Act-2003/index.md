@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00125/Html/DesignsAct2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00583/Html/DesignsAct2003_image001.gif)
 
 # Designs Act 2003
 
 **Act No. 147 of 2003 as amended**
 
-This compilation was prepared on 27 March 2007
+This compilation was prepared on 9 October 2006
  taking into account amendments up to Act No. 106 of 2006
 
 The text of any of those amendments not in force 
@@ -397,10 +397,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part 4—Review of the Registrar’s decisions**
 
 [136](#136).        Review by Administrative Appeals Tribunal
-
-**Part 4A—Doing act after end of period otherwise provided for doing it**
-
-[136A](#136A).     Doing act when Designs Office reopens after end of period otherwise provided for doing act
 
 **Part 5—Extensions of time**
 
@@ -2620,8 +2616,6 @@ Part 3 contains offence provisions.
 
 Part 4 sets out decisions that are reviewable by the Administrative Appeals Tribunal.
 
-Part 4A lets an act be done after the period otherwise provided for doing the act if that period ends on a day when the Designs Office or a sub-office is not open for business.
-
 Part 5 gives the Registrar the power to extend the time within which specified things must be done.
 
 Part 6 sets out regulation-making powers and other provisions dealing with miscellaneous matters.
@@ -2801,40 +2795,6 @@ Note:          A defendant bears an evidential burden in relat
              (4)  In this section:
 
                     <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
-
-## Part 4A—Doing act after end of period otherwise provided for doing it
-
-##### <a id="136A"></a>136A  Doing act when Designs Office reopens after end of period otherwise provided for doing act
-
-             (1)  If the last day of a period provided by this Act (except this section) or the regulations for doing an act is a day when the Designs Office, or a sub-office of the Designs Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub-office is open for business.
-
-             (2)  For the purposes of this section, the Designs Office, or a sub-office of the Designs Office, is taken not to be open for business on a day:
-
-                     (a)  declared by regulations to be a day on which the office or sub-office is not open for business; or
-
-                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub-office is not open for business.
-
-Declarations
-
-             (3)  A declaration mentioned in paragraph (2)(a) or (b) may identify the day by reference to its being declared a public holiday by or under a law of a State or Territory. This does not limit the way the declaration may identify the day.
-
-             (4)  A declaration mentioned in paragraph (2)(b):
-
-                     (a)  may be made before, on or after the day; and
-
-                     (b)  is not a legislative instrument.
-
-Relationship with other law
-
-             (5)  This section has effect despite the rest of this Act.
-
-             (6)  Subsection 36(2) of the _Acts Interpretation Act 1901_ does not apply in relation to the act mentioned in subsection (1) of this section.
-
-Exception for prescribed act
-
-             (7)  This section does not apply to a prescribed act.
-
-Note:          Subsection 36(2) of the _Acts Interpretation Act 1901_ is relevant to a prescribed act.
 
 ## Part 5—Extensions of time
 
@@ -3249,7 +3209,7 @@ Remainder: Royal Assent</div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 2): 27 Mar 2007 
+    <div>Schedule 12 (items 1, 2): \[ <i>see</i>Note 2] 
 Schedule 15 (item 1): 28 Sept 2006</div>
   </td>
   <td>
@@ -3295,54 +3255,64 @@ Schedule 15 (item 1): 28 Sept 2006</div>
   <td>
     <div>am. No. 106, 2006</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div> <b>Chapter 11</b> </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div> <b>Part 1</b> </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 129</div>
-  </td>
-  <td>
-    <div>am. No. 106, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4A of Chap. 11</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 136A</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2006</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Intellectual Property Laws Amendment Act 2006 (No. 106, 2006)_
+
+The following amendments commence on 27 March 2007 unless proclaimed earlier:
+
+## Schedule 12
+
+## 1  Section 129 (after the paragraph relating to Part 4)
+
+Insert:
+
+* * *
+
+Part 4A lets an act be done after the period otherwise provided for doing the act if that period ends on a day when the Designs Office or a sub-office is not open for business.
+
+* * *
+
+## 2  After Part 4 of Chapter 11
+
+Insert:
+
+## Part 4A—Doing act after end of period otherwise provided for doing it
+
+##### <a id="136A"></a>136A  Doing act when Designs Office reopens after end of period otherwise provided for doing act
+
+             (1)  If the last day of a period provided by this Act (except this section) or the regulations for doing an act is a day when the Designs Office, or a sub-office of the Designs Office, is not open for business, the act may be done in prescribed circumstances on the next day when the office or sub-office is open for business.
+
+             (2)  For the purposes of this section, the Designs Office, or a sub-office of the Designs Office, is taken not to be open for business on a day:
+
+                     (a)  declared by regulations to be a day on which the office or sub-office is not open for business; or
+
+                     (b)  declared, by a prescribed person in writing published in the prescribed way, to be a day on which the office or sub-office is not open for business.
+
+Declarations
+
+             (3)  A declaration mentioned in paragraph (2)(a) or (b) may identify the day by reference to its being declared a public holiday by or under a law of a State or Territory. This does not limit the way the declaration may identify the day.
+
+             (4)  A declaration mentioned in paragraph (2)(b):
+
+                     (a)  may be made before, on or after the day; and
+
+                     (b)  is not a legislative instrument.
+
+Relationship with other law
+
+             (5)  This section has effect despite the rest of this Act.
+
+             (6)  Subsection 36(2) of the _Acts Interpretation Act 1901_ does not apply in relation to the act mentioned in subsection (1) of this section.
+
+Exception for prescribed act
+
+             (7)  This section does not apply to a prescribed act.
+
+Note:          Subsection 36(2) of the _Acts Interpretation Act 1901_ is relevant to a prescribed act.
+
+As at 9 October 2006 the amendments are not incorporated in this compilation.
 
  
