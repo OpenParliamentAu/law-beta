@@ -1,218 +1,71 @@
-**
+**<b>
 
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 
-**
+### <center><name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - Reprinted as at 31 July 1982 (HISTACT CHAP 593 #DATE 31:07:1982) </name></center>
+</b>** *1*Act No. 121, 1975; assented to and commenced 11 November 1975.<lf> <lf> </lf></lf>
+**<b>
 
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS 
 
-###  Compilation Information 
-**
+<lf> Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  3\.       Approval of execution of Agreement<lf> <p>  4\.       Appropriation<lf> <p><lf>                                     SCHEDULE<lf> <p><lf>                                    AGREEMENT<lf> <p><lf>                                 ----------------<lf> <p><lf> </lf></p></lf></lf></p></lf></lf></p></lf></lf></p></lf></p></lf></p></lf></p></lf></p></lf></lf>
+</tt></tables>
+**<b>
 
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act relating to the Provision of Financial Assistance to New South Wales for the purpose of the Abatement of Pollution resulting from Mine Wastes at Captains Flat </sect>
+**<b>
 
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - SECT. 1\. Short title </name>
+</b>** 
 
-**
+## SECT
+<sect>   1\. This Act may be cited as the Captains Flat (Abatement of Pollution) Agreement Act 1975.*1* 
 
-###  Long Title 
-**
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
-		This Act may be cited as the _Captains Flat (Abatement of Pollution) Agreement Act 1975_.
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - SECT. 2\. Commencement </name>
+</b>** 
 
- </dl>
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975- SECT 2  Commencement [_see_ Note 1] 
-<dl compact="">
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-		This Act shall come into operation on the day on which it receives the Royal
+<lf> See notes to first article of this CHAPTER. </lf>
+</sect>
+**<b>
 
-Assent.
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - SECT. 3\. Approval of execution of Agreement </name>
+</b>** 
 
- </dl>
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975- SECT 3  Approval of execution of Agreement 
-<dl compact="">
+## SECT
+<sect>   3\. The execution, on behalf of the Government of Australia, of an agreement between that Government and the Government of New South Wales substantially in accordance with the form set out in the Schedule is approved. 
 
-		The execution, on behalf of the Government of Australia, of an agreement
+<lf> </lf>
+</sect>
+**<b>
 
-between that Government and the Government of New South Wales substantially in
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - SECT. 4\. Appropriation </name>
+</b>** 
 
-accordance with the form set out in the Schedule is approved.
+## SECT
+<sect>   4\. (1) Amounts payable to the Government of New South Wales in accordance with the agreement referred to in section 3 may be paid, by way of financial assistance to New South Wales, out of the Consolidated Revenue Fund, which is appropriated accordingly. 
 
- </dl>
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975- SECT 4  Appropriation 
-<dl compact="">
+<lf>   (2) Financial assistance under this section is granted upon the conditions contained in the agreement referred to in section 3\. <p><lf>                                 ---------------- </lf></p></lf>
+</sect>
+**<b>
 
-<dt>(1)</dt><dd>Amounts payable to the Government of New South Wales in accordance with
+### <name>CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975 - SCHEDULE </name>
+</b>** 
 
-the agreement referred to in section&#160;3&#160;may be paid, by way of
+## SCH
+<sch>                                     SCHEDULE<lf>                                                                        Section 3 <lf>   AN AGREEMENT made the          day of                             One thousand nine hundred and seventy-five between-<lf> <lf>   THE GOVERNMENT OF THE COMMONWEALTH (in this agreement called "Australia") of the one part; and<lf> <lf>   THE GOVERNMENT OF THE STATE OF NEW SOUTH WALES (in this agreement called "New South Wales") of the other part. 
 
-financial assistance to New South Wales, out of the Consolidated Revenue Fund,
-
-which is appropriated accordingly.</dd> <dt>(2)</dt><dd>Financial assistance under this section is granted upon the conditions contained in the agreement referred to in section&#160;3\. </dd> </dl>
-**
-
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975<part>Schedule </part>
-**
-
-
-
-
-
-
-
-
-PART I&#151;INTERPRETATION
-
-
-
-Back to Top
-
-
-
-
-
-
-
-
-
-
-
-
-
-PART II&#151;OPERATION OF AGREEMENT
-
-
-
-PART III&#151;PROGRAMS
-
-
-
-
-
-
-
-
-
-PART IV&#151;FINANCIAL ASSISTANCE
-
-
-
-
-Back to Top
-
-
-
-
-
-
-PART V&#151;PAYMENTS AND ADVANCES
-
-
-
-
-
-
-
-
-
-PART VI&#151;PAYMENTS BY STATE
-
-
-
-
-
-
-
-
-Back to Top
-
-
-
-
-PART VII&#151;GENERAL
-
-
-
-
-
-
-
-
-
-
-
-**
-
-###  CAPTAINS FLAT (ABATEMENT OF POLLUTION) AGREEMENT ACT 1975<centreit>Notes to the _Captains Flat (Abatement of Pollution) Agreement Act 1975_ </centreit>
-**
-Note 1
-Captains Flat (Abatement of Pollution) Agreement Act 1975
-Table of Acts
-
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Captains Flat (Abatement of Pollution) Agreement Act 1975_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>121, 1975</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>11 Nov 1975</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>11 Nov 1975</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-
-
-
-
+<lf>   WHEREAS-<lf> <lf>   (A)  Australia and New South Wales mutually recognize that it is desirable in<lf> the public interest that pollution of the Molonglo River emanating from the mine and mine waste dumps at Captains Flat should be abated in order to protect the<lf> river and Lake Burley Griffin;<lf> <lf>   (B)  the two Governments accordingly have decided that the works, both capital and maintenance, that are necessary for that purpose will be established and<lf> carried out by their respective authorities and propose that the costs of<lf> carrying out the works shall be financed as provided in this agreement;<lf> <lf>   (C)  the Australian Parliament has authorized the execution of this agreement<lf> on behalf of Australia and the provision of financial assistance in accordance<lf> with its provisions:<lf> <lf>   NOW IT IS HEREBY AGREED as follows:<lf> <lf> <lf>                              PART  I-INTERPRETATION<lf> <lf>   1\. In this agreement unless inconsistent with the subject matter or a contrary intention appears-<lf> <lf>   "appropriate Minister", in relation to the State, means the Minister having for the time being the administration for New South Wales of the matters to<lf> which this agreement relates and, if those matters are at any time administered<lf> by more than one Minister, means the Minister or each of the Ministers having<lf> for the time being the administration for New South Wales of the matters to<lf> which the relevant provision of this agreement relates or to which this<lf> agreement relates, according to the requirements of the context;<lf> <lf>   "approved body" means a body approved by the Minister for the purposes of this agreement, being-<lf> <lf>        (i)  an authority of the State; or<lf> <lf>       (ii)  a local governing body of the State;<lf> <lf>   "approved program" means a program approved as provided by clauses 5 and 6;<lf>   "the Minister" means the Minister for Urban and Regional Development or such other Minister of Australia as is for the time being administering the Act by<lf> which the execution of this agreement is approved by the Australian Parliament;<lf> <lf>   "the State" means the State of New South Wales; and<lf>   "the Treasurer" means the Treasurer of Australia. <p><lf>   2\. In this agreement, unless the context otherwise requires-<lf> <lf>   (a)  a reference to a Minister includes such other Minister of Australia or of New South Wales, as the case may be, who is for the time being acting for the<lf> Minister referred to;<lf> <lf>   (b)  a reference to a clause refers to the relevant clause of this agreement<lf> and a reference to a sub-clause refers to the relevant sub-clause of the clause<lf> in which the reference appears; and<lf> <lf>   (c)  words in the singular include the plural and words in the plural include<lf> the singular.<lf> <p><lf> <lf>                        PART  II-OPERATION  OF  AGREEMENT<lf> <lf>   3\. This agreement shall be deemed to have commenced to operate on the 1st July 1974 and acts or things consistent with its provisions that have been done by or on behalf of a party since that date in anticipation of it so coming into force<lf> shall be regarded as having been done under and in accordance with its<lf> provisions.<lf> <p><lf>   4\. This agreement shall not affect or in any way derogate from the rights and<lf> obligations in relation to the Queanbeyan and Molonglo Rivers of either party<lf> under or by virtue of the provisions of the Agreement which was made the 18th<lf> day of October 1909 and which was approved by the Seat of Government Acceptance<lf> Act 1909 and the Seat of Government Surrender Act, 1909 of their respective<lf> Parliaments.<lf> <p><lf>                                PART  III-PROGRAMS<lf> <lf>   5\. (1) The programs to which this agreement applies shall be programs that the Minister, in consultation with the appropriate Minister for New South Wales,<lf> approves for the purposes of this agreement, being programs of, or relating to,<lf> capital or maintenance works to be carried out either by New South Wales or by<lf> an approved body for abating pollution from mine wastes in the area of Captains<lf> Flat.<lf> <p><lf>   (2) The approval of a program by the Minister referred in sub-clause (1) may<lf> have been given prior to the coming into force of this agreement.<lf> <p><lf>   6\. An approved program shall be varied in accordance with such variations as<lf> the Minister, in consultation with the appropriate Minister of New South Wales,<lf> may approve and references to this agreement to an approved program shall be<lf> references to the relevant program as so varied.<lf> <p><lf>   7\. Where the Minister, with the agreement of the appropriate Minister of New<lf> South Wales, has attached conditions to the approval of a program or of a<lf> variation of an approved program, the conditions shall be applicable to the<lf> approved program for the purposes of the operation of this agreement.<lf> <p><lf>   8\. Arrangements for or in connection with the carrying out of an approved<lf> program shall be as from time to time agreed between Australia and New South<lf> Wales.<lf> <p><lf>   9\. Australia and New South Wales acknowledge and agree that each approved<lf> program will be carried out as approved by the Minister, upon and subject to any conditions applicable under clause 7 and in accordance with any arrangements<lf> referred to in clause 8 and undertake to do all acts and things necessary to<lf> ensure that their respective obligations in these respects are carried out.<lf> <p><lf>   10\. New South Wales shall use its best endeavours to ensure that land,<lf> buildings and other improvements to be used for purposes nominated in an<lf> approved program shall, unless and until otherwise agreed between the parties,<lf> be used for those purposes and only for those purposes.<lf> <p><lf>   11\. The appropriate Minister of New South Wales shall from time to time at the request of the Minister furnish to the Minister such information relating to an<lf> approved program as is reasonably required by the Minister in connection with<lf> that approved program.<lf> <p><lf>                          PART  IV-FINANCIAL  ASSISTANCE<lf> <lf>   12\. (1) Australia will, subject to and in accordance with the provisions of<lf> this agreement, provide financial assistance to New South Wales (hereafter in<lf> this agreement referred to as "financial assistance") in respect of<lf> expenditure by New South Wales or by an approved body in accordance with<lf> approved programs.<lf> <p><lf>   (2) The financial assistance shall, except as provided in clause 13, be<lf> equivalent to the expenditure in respect of the approved programs but, in<lf> respect of capital works, shall not exceed in total the amount of Two million<lf> five hundred thousand dollars ($2,500,000).<lf> <p><lf>   13\. (1) Financial assistance in respect of expenditure on capital works shall<lf> be-<lf> <lf>   (a)  as to four fifths of the financial assistance-by way of non-repayable,<lf> non-interest bearing grant; and<lf> <lf>   (b)  as to one fifth of the financial assistance-by way of interest bearing,<lf> repayable loan.<lf> <p><lf>   (2)  Financial assistance in respect of expenditure on maintenance works shall be by way of non-repayable, non-interest bearing grant and shall be limited to<lf> an amount which is equal to one half of the expenditure to which the financial<lf> assistance relates but which does not exceed at any time the amount that has<lf> been contributed by New South Wales towards meeting that expenditure.<lf> <p><lf>   14\. Financial assistance in respect of expenditure by an approved body shall,<lf> unless otherwise agreed between Australia and New South Wales, be made available by New South Wales to that approved body on conditions that are equivalent to<lf> the conditions that are applicable to the provision of the financial assistance<lf> in accordance with this agreement.<lf> <p><lf>                    PART V-PAYMENTS AND ADVANCES<lf> <lf>   15\. Subject to the provisions of this agreement, payments of<lf> financial assistance will be made by Australia to New South Wales from<lf> time to time at the request of New South Wales.<lf> <p><lf>   16\. New South Wales shall not be entitled to a payment of financial<lf> assistance in respect of any expenditure unless New South Wales has<lf> furnished to the Treasurer-<lf> <lf>   (a) a statement of that expenditure in accordance with a form approved<lf> by the Treasurer accompanied by a certificate of the Auditor-General<lf> of the State certifying, to the extent practicable, inter alia, that in<lf> his opinion the amounts shown in the statement as having been expended<lf> were expended in accordance with the relevant approved program; and<lf> <lf>   (b) such further information, if any, in respect of that expenditure<lf> as the Treasurer may reasonably require.<lf> <p><lf>   17\. (1) The Treasurer may, at such times and in such amounts as he<lf> thinks fit, make advances on account of payments of financial<lf> assistance that may become payable in accordance with this<lf> agreement.<lf> <p><lf>   (2) An amount or part of an amount advanced to New South Wales under<lf> this clause may be deducted from a payment of financial assistance<lf> that subsequently becomes payable.<lf> <p><lf>   (3) If in respect of an approved program the total amount of the<lf> payments under clause 15 and the advances under this clause made to<lf> New south Wales exceeds the total amount of financial assistance<lf> payable in accordance with this agreement in respect of that approved<lf> program the amount of the excess shall be repaid by New South Wales<lf> to Australia at the request of the Treasurer.<lf> <p><lf>   (4) New South Wales shall ensure that an amount, or any part of an<lf> amount, advanced to New South Wales under this clause and not repaid<lf> under sub-clause (3) is not used or applied except for the purpose of<lf> meeting or reimbursing, as the case may be, the expenditure to which<lf> the advance relates.<lf> <p><lf>                      PART VI-PAYMENTS BY STATE<lf> <lf>   18\. (1) New South Wales shall pay interest in respect of the<lf> financial assistance by way of loan referred to in paragraph (1) (b)<lf> of clause 13 at the long-term bond rate provided for by sub-clause (3).<lf> <p><lf>   (2) The interest payable by New South Wales shall accrue from the<lf> date on which an advance or payment is made on so much of the<lf> advance or payment as has not been repaid in accordance with clause 19<lf> or, in the case of an advance, refunded under sub-clause (3) of<lf> clause 17.<lf> <p><lf>   (3) For the purposes of sub-clause (1), the long term bond rate, in<lf> relation to any interest, is the rate that is equivalent to the rate of<lf> yield to maturity of the long-term loan of the last loan-raising by the<lf> Australian Government in Australia for public subscription before the<lf> date on which the advance or payment in respect of which the interest is<lf> payble was made.<lf> <p><lf>   (4) The amount of the interest that has accrued in accordance with<lf> this clause in respect of an advance or payment shall be calculated as<lf> at, and shall be payable by New South Wales on, each fifteenth day of<lf> January and July up to and including the fifteenth day of January or of<lf> July that immediately precedes the date on which repayments commence in<lf> respect of the advance or payment in accordance with clause 19.<lf> <p><lf>   (5) Interest that accrues in accordance with this clause after the<lf> fifteenth day of January or of July that immediately precedes the day<lf> on which repayments commence in respect of an advance or payment in<lf> accordance with clause 19 shall be payable by New South Wales as<lf> provided in that clause.<lf> <p><lf>   19\. (1) Subject to the provisions of this clause, each of the<lf> payments of financial assistance referred to in paragraph (1) (b) of<lf> clause 13 and all of the advances of that financial assistance that are<lf> not rfunded under sub-clause (3) of clause 17, together with the<lf> interest thereon referred to in sub-clause (5) of clause 18, shall be<lf> repayable by New South Wales by 40 equal consecutive half-yearly<lf> instalments, the first instalment to be made on the fifteenth day of<lf> January or the fifteenth day of July that next occurs after the<lf> expiration of two years from the date on which the payment or<lf> advance was made to New South Wales and subsequent instalments to be<lf> made on each succeeding fiteenth day of July and fifteenth day of<lf> January.<lf> <p><lf>   (2) In addition to paying half-yearly instalments in accordance<lf> with sub-clause (1) New South Wales may on the fifteenth day of<lf> January or the fifteenth day of July in any year, after having<lf> given the Treasurer notice in writing of at least one month of its<lf> intention to do so, pay to Australia an amount of 100,000 dollars or<lf> a multiple thereof.<lf> <p><lf>   (3) Interest shall accrue on an amount paid by New South Wales under<lf> sub-clause (2) at the rate that is applicable in accordance with clause<lf> 18 to the payment or advance of financial assistance with respect to<lf> which the amount is paid by New South Wales, the interest to be<lf> calculated from the date of payment and compounded with half-yearly rests<lf> on each fifteenth day of January and of July.<lf> <p><lf>   (4) When on any fifteenth day of January or of July the payment due<lf> by New South Wales under sub-clause (1) exceeds the amount by which the<lf> unrepaid balance of the relevant payment or advance, together with<lf> unpaid interest on the payment or advance up to and including that date,<lf> exceeds the total of the amounts paid by New South Wales to Australia<lf> in accordance with sub-clause (2) with respect to that payment or<lf> advance, together with interest accrued on those amounts up to and<lf> including that date under sub-clause (3), New South Wales shall pay to<lf> Australia the amount of the second mentioned excess in liew of the<lf> amount of the payment due under sub-clause (1) and no further payment<lf> shall be required to be made by New South Wales to Australia under<lf> this clause in respect of that payment or advance.<lf> <p><lf>                            PART VII-GENERAL<lf> <lf>   20\. (1) The accounts, books, vouchers, documents and other records<lf> relating to the carrying out of approved programs shall be subject to<lf> audit.<lf> <p><lf>   (2) A report by the Auditor-General of the State on the audit and on<lf> the financial statements shall be furnished by New South Wales to the<lf> Treasurer for every year in respect of each approved program. Each<lf> report shall, inter alia, indicate to the extent practicable whether in<lf> the opinion of the Auditor-General-<lf> <lf>   (a) the financial statements are based on proper accounts and<lf> records and are in agreement with those accounts and records; and<lf> <lf>   (b) the receipt and expenditure of moneys are in accordance with<lf> this agreement;<lf> <lf> and shall include<lf> reference to such other matters arising out of the audit and<lf> financial statements as the Auditor-General considers should be<lf> reported to the Treasurer.<lf> <p><lf> </lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></sch>
