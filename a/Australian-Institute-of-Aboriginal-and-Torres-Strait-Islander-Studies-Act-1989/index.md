@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00313/Html/bccf00c8-ab26-4326-a45c-5f477f0fd517_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00096/Html/AusInstATSIStudies1989WD02_image001.gif)
 
 # Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
 **Act No. 149 of 1989 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 24 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -184,25 +184,25 @@ Sections 66 and 67
 
 **Notes** 
 
-## An Act to establish an Australian Institute of Aboriginal and Torres Strait Islander Studies, and for related purposes
+## An Act to establish an Australian Institute of Aboriginal and Torres  Strait Islander Studies, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_.
+                   This Act may be cited as the _Australian Institute of Aboriginal and__Torres Strait__Islander Studies Act 1989_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act commences on the commencement of the _Aboriginal and Torres Strait Islander Commission Act 1989_.
+                   This Act commences on the commencement of the _Aboriginal and__Torres Strait__Islander Commission Act 1989_.
 
-Note:          The _Aboriginal and Torres Strait Islander Commission Act 1989_ was renamed the _Aboriginal and Torres Strait Islander Act 2005_. See item 3 of Schedule 1 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 2005_.
+Note:          The _Aboriginal and Torres Strait Islander Commission Act 1989_ was renamed the _Aboriginal and__Torres Strait__Islander Act 2005_. See item 3 of Schedule 1 to the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 2005_.
 
 ##### <a id="3"></a>3  Interpretation
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="aborigin-torr-strait-island-studi"></a>**_Aboriginal and Torres Strait Islander studies_** means research and study in relation to aspects of the culture, history and society of Aboriginal persons or Torres Strait Islanders.
+                    <a name="island-studi"></a><a name="torr-strait"></a><a name="aborigin"></a>**_Aboriginal and_****_Torres Strait_****_Islander studies_** means research and study in relation to aspects of the culture, history and society of Aboriginal persons or Torres Strait Islanders.
 
                     <a name="aborigin-person"></a>**_Aboriginal person_** means a person of the Aboriginal race of Australia.
 
@@ -216,8 +216,6 @@ Note:          The _Aboriginal and Torres Strait Islander Comm
 
                     <a name="elected-councillor"></a>**_elected Councillor_** means a Councillor referred to in paragraph 12(1)(a).
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="institut"></a>**_Institute_** means the Australian Institute of Aboriginal and Torres Strait Islander Studies established by section 4.
 
                     <a name="institut-rule"></a>**_Institute rules_** means rules made by the Council under section 48.
@@ -228,7 +226,7 @@ Note:          The _Aboriginal and Torres Strait Islander Comm
 
                     <a name="torr-strait-island"></a>**_Torres Strait Islander_** means a descendant of an indigenous inhabitant of the Torres Strait Islands.
 
-                    <a name="tsra"></a>**_TSRA_** means the Torres Strait Regional Authority established by Part 3A of the _Aboriginal and Torres Strait Islander Act 2005_.
+                    <a name="tsra"></a>**_TSRA_** means the Torres Strait Regional Authority established by Part 3A of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
 
 ##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
@@ -300,7 +298,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (1)  The following persons are, subject to this Part, members of the Institute:
 
-                     (a)  all persons who, immediately before the commencement of this section, were members of the Australian Institute of Aboriginal Studies;
+                     (a)  all persons who, immediately before the commencement of this section, were members of the Australian Institute  of Aboriginal Studies;
 
                      (b)  all persons who, immediately before that commencement, were listed in a register maintained by the Australian Institute of Aboriginal Studies as associate members or corresponding members of that Institute;
 
@@ -354,7 +352,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  4 other persons appointed by the Minister, being persons who are Aboriginal persons or Torres Strait Islanders.
 
-             (2)  All the Councillors hold office on a part‑time basis.
+             (2)  All the Councillors hold office on a part-time basis.
 
 ##### <a id="13"></a>13  Responsibilities of Council
 
@@ -402,7 +400,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  shall not continue so to act for more than 6 months; and
 
-                     (b)  shall not be re‑appointed to act during that vacancy for a period that would be continuous with the period of 6 months from the date when the person first started acting during that vacancy.
+                     (b)  shall not be re-appointed to act during that vacancy for a period that would be continuous with the period of 6 months from the date when the person first started acting during that vacancy.
 
              (4)  The Minister shall not appoint a person to act in an office of appointed Councillor unless, having regard to section 12, the person could be appointed to that office.
 
@@ -482,7 +480,7 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
              (1)  There shall be a Principal of the Institute who shall be appointed by the Council.
 
-             (2)  The Principal shall, subject to subsection (3), manage the day‑to‑day administration of the Institute.
+             (2)  The Principal shall, subject to subsection (3), manage the day-to-day administration of the Institute.
 
              (3)  The Principal shall, in managing the administration of the Institute and in exercising any powers conferred on the Principal by this Act, act in accordance with any policies determined, and any directions given, by the Council in writing.
 
@@ -568,7 +566,7 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
              (1)  There is payable to the Institute such money as is appropriated by the Parliament for the purposes of the Institute.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money so appropriated is to be paid to the Institute.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, money so appropriated is to be paid to the Institute.
 
 ##### <a id="38"></a>38  Application of money held by Institute
 
@@ -620,7 +618,7 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
                    The Institute may, by writing under its seal, delegate any or all of its functions and powers to the Principal or to a member of the staff of the Institute.
 
-##### <a id="45"></a>45  Remuneration and allowances
+##### <a id="45"></a>45  Remuneration and allowances
 
              (1)  The following provisions apply in relation to the holder of an office who is, by a provision of this Act, entitled to remuneration and allowances in accordance with this section:
 
@@ -654,7 +652,7 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -704,7 +702,7 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
 ##### <a id="49"></a>49  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -848,9 +846,9 @@ whichever is earlier.
 
                              (ii)  states that the estate or interest has, because of that section, become an asset of the new Institute; and
 
-                            (iii)  is signed by an officer of the Attorney‑General’s Department authorised by the Secretary of that Department to give such certificates;
+                            (iii)  is signed by an officer of the Attorney-General’s Department authorised by the Secretary to that Department to give such certificates;
 
-                            is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the new Institute duly executed under the laws in force in that State or Territory.
 
@@ -926,7 +924,7 @@ For access to the wording of the amendments made by this Division,_see_ Act  No.
 
 ### Note 1
 
-The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
+The _Australian Institute of Aboriginal and__Torres  Strait__Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1028,7 +1026,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 316–323): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
+    <div>Schedule 2 (items 316–323: 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -1172,23 +1170,6 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 26, 27) and Schedule 7 (item 20): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1205,11 +1186,11 @@ _(a)_     The _Australian Institute of Aboriginal and Torres Strait Isla
 
                               (b)   Part 28 (other than Subdivision A of Division 2) and Schedules 2 and 3.
 
-_(b)_ The _Australian Institute of Aboriginal and  Torres Strait Islander Studies Act 1989_ was amended by Schedule 2 (items 316–323) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(b)_ The _Australian Institute of Aboriginal and__Torres  Strait__Islander Studies Act 1989_ was amended by Schedule 2 (items 316–323) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(c)_ The _Australian Institute of Aboriginal and  Torres Strait Islander Studies Act 1989_ was amended by Schedule 2 (items 192–194) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(c)_ The _Australian Institute of Aboriginal and__Torres Strait__Islander Studies Act 1989_ was amended by Schedule 2 (items 192–194) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1265,7 +1246,7 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 1, 1994; No. 32, 2005; No. 5, 2011</div>
+    <div>am. No. 1, 1994; No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1386,14 +1367,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1523,14 +1496,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   <td>
     <div>rep. No. 152, 1997</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -1541,9 +1506,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1553,9 +1518,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1563,9 +1528,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -1579,7 +1544,7 @@ _Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation 
 
 * * *
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
 ## Schedule 1
 
@@ -1631,17 +1596,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
