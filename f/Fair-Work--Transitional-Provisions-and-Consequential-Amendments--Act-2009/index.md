@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2013C00073/Html/8579c215-0a19-463e-8dd2-f1815a2f115b_files/image001.png)
+![](http://www.comlaw.gov.au/Details/C2013C00047/Html/31669341-c771-447e-bde8-334924892f3c_files/image001.png)
 
 # Fair Work (Transitional Provisions and Consequential Amendments) Act 2009
 
 **Act No. 55 of 2009 as amended**
 
-This compilation was prepared on 25 January 2013
+This compilation was prepared on 19 December 2012
  taking into account amendments up to Act No. 175 of 2012
 
 The text of any of those amendments not in force
@@ -47,199 +47,199 @@ Part 3—Variation and termination of transitional instruments     �
 
 Part 4—Transitional instruments and the Australian Fair Pay and Conditions Standard               41
 
-Part 5—Transitional instruments and the FW Act                                       43
+Part 5—Transitional instruments and the FW Act                                       42
 
-Division 1—Interaction between transitional instruments and the National Employment Standards            43
+Division 1—Interaction between transitional instruments and the National Employment Standards            42
 
-Division 2—Interaction between transitional instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                 45
+Division 2—Interaction between transitional instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                 44
 
-Division 3—Other general provisions about how the FW Act applies in relation to transitional instruments 50
+Division 3—Other general provisions about how the FW Act applies in relation to transitional instruments 49
 
-Part 6—Preservation of redundancy provisions in agreements etc.     53
+Part 6—Preservation of redundancy provisions in agreements etc.     52
 
-Part 7—Victorian employment agreements                                                     58
+Part 7—Victorian employment agreements                                                     57
 
-Part 8—Transitional pay equity order taken to have been made by FWA—Division 2B State reference transitional awards                                                                                     59
+Part 8—Transitional pay equity order taken to have been made by FWA—Division 2B State reference transitional awards                                                                                     58
 
 **Schedule 3A—Treatment of State awards and State employment agreements of Division 2B referring States** 
 
-Part 1—Preliminary                                                                                                      61
+Part 1—Preliminary                                                                                                      60
 
-Part 2—Division 2B State instruments                                                              62
+Part 2—Division 2B State instruments                                                              61
 
-Part 3—Variation and termination of Division 2B State instruments 77
+Part 3—Variation and termination of Division 2B State instruments 76
 
-Part 4—Transition of employees from Division 2B State awards to FW Act modern awards   83
+Part 4—Transition of employees from Division 2B State awards to FW Act modern awards   82
 
-Division 1—FWA required to consider varying modern awards etc.                83
+Division 1—FWA required to consider varying modern awards etc.                82
 
-Division 1A—Transitional pay equity order taken to have been made by FWA—Division 2B State awards               85
+Division 1A—Transitional pay equity order taken to have been made by FWA—Division 2B State awards               84
 
-Division 2—Avoiding reductions in take‑home pay                                           87
+Division 2—Avoiding reductions in take‑home pay                                           86
 
-Part 5—Division 2B State instruments and the FW Act                          91
+Part 5—Division 2B State instruments and the FW Act                          90
 
-Division 1—Interaction between Division 2B State instruments and the National Employment Standards 91
+Division 1—Interaction between Division 2B State instruments and the National Employment Standards 90
 
-Division 2—Interaction between Division 2B State instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                 93
+Division 2—Interaction between Division 2B State instruments and FW Act modern awards, enterprise agreements and workplace determinations                                                                 92
 
-Division 3—Other general provisions about how the FW Act applies in relation to Division 2B State instruments      97
+Division 3—Other general provisions about how the FW Act applies in relation to Division 2B State instruments      96
 
-Part 6—Ongoing operation of State laws for transitional purposes  100
+Part 6—Ongoing operation of State laws for transitional purposes    99
 
 **Schedule 4—National Employment Standards** 
 
-Part 1—Preliminary                                                                                                    106
+Part 1—Preliminary                                                                                                    105
 
-Part 2—Continued application of WR Act minimum entitlements provisions (other than wages) during bridging period                                                                                           107
+Part 2—Continued application of WR Act minimum entitlements provisions (other than wages) during bridging period                                                                                           106
 
-Part 3—Operation of the National Employment Standards                  109
+Part 3—Operation of the National Employment Standards                  108
 
-Division 1—Operation in relation to employees other than Division 2B State reference employees               109
+Division 1—Operation in relation to employees other than Division 2B State reference employees               108
 
-Division 2—Operation in relation to Division 2B State reference employees 113
+Division 2—Operation in relation to Division 2B State reference employees 112
 
 **Schedule 5—Modern awards (other than modern enterprise awards and State reference public sector modern awards)** 
 
-Part 1—Preliminary                                                                                                    118
+Part 1—Preliminary                                                                                                    117
 
-Part 2—The WR Act award modernisation process                                  119
+Part 2—The WR Act award modernisation process                                  118
 
-Part 3—Avoiding reductions in take‑home pay                                          125
+Part 3—Avoiding reductions in take‑home pay                                          124
 
 **Schedule 6—Modern enterprise awards** 
 
-Part 1—Preliminary                                                                                                    129
+Part 1—Preliminary                                                                                                    128
 
-Part 2—The enterprise instrument modernisation process                      130
+Part 2—The enterprise instrument modernisation process                      129
 
-Division 1—Enterprise instruments                                                                      130
+Division 1—Enterprise instruments                                                                      129
 
-Division 2—The enterprise instrument modernisation process                       132
+Division 2—The enterprise instrument modernisation process                       131
 
-Division 3—Avoiding reductions in take‑home pay                                         139
+Division 3—Avoiding reductions in take‑home pay                                         138
 
-Division 4—Application of the FW Act                                                               141
+Division 4—Application of the FW Act                                                               140
 
-Part 3—Amendments                                                                                                143
+Part 3—Amendments                                                                                                142
 
-Fair Work Act 2009                                                                                                 143
+Fair Work Act 2009                                                                                                 142
 
 **Schedule 6A—State reference public sector modern awards** 
 
-Part 1—Preliminary                                                                                                    151
+Part 1—Preliminary                                                                                                    150
 
-Part 2—The State reference public sector transitional award modernisation process       152
+Part 2—The State reference public sector transitional award modernisation process       151
 
-Division 1—State reference public sector transitional awards                        152
+Division 1—State reference public sector transitional awards                        151
 
-Division 2—The State reference public sector transitional award modernisation process 153
+Division 2—The State reference public sector transitional award modernisation process 152
 
-Division 3—Avoiding reductions in take‑home pay                                         159
+Division 3—Avoiding reductions in take‑home pay                                         158
 
-Division 4—Application of the FW Act                                                               162
+Division 4—Application of the FW Act                                                               161
 
 **Schedule 7—Enterprise agreements and workplace determinations made under the FW Act** 
 
-Part 1—Preliminary                                                                                                    163
+Part 1—Preliminary                                                                                                    162
 
-Part 2—Transitional provisions relating to the application of the no‑disadvantage test to enterprise agreements made and varied during bridging period             164
+Part 2—Transitional provisions relating to the application of the no‑disadvantage test to enterprise agreements made and varied during bridging period             163
 
-Division 1—Enterprise agreements and variations made during bridging period must pass no‑disadvantage test       164
+Division 1—Enterprise agreements and variations made during bridging period must pass no‑disadvantage test       163
 
-Division 2—The no‑disadvantage test                                                                 165
+Division 2—The no‑disadvantage test                                                                 164
 
-Part 3—Other requirements and modifications applying to making and varying enterprise agreements during the bridging period                                                                   173
+Part 3—Other requirements and modifications applying to making and varying enterprise agreements during the bridging period                                                                   172
 
-Division 1—Requirements relating to approval                                                 173
+Division 1—Requirements relating to approval                                                 172
 
-Division 2—Base rate of pay                                                                                174
+Division 2—Base rate of pay                                                                                173
 
-Division 3—No extensions of time                                                                       174
+Division 3—No extensions of time                                                                       173
 
-Division 4—State and Territory laws dealing with long service leave            175
+Division 4—State and Territory laws dealing with long service leave            174
 
-Part 4—Transitional provisions to apply the better off overall test after end of bridging period if award modernisation not yet completed                                                     176
+Part 4—Transitional provisions to apply the better off overall test after end of bridging period if award modernisation not yet completed                                                     175
 
-Part 4A—Transitional provisions to apply the better off overall test to enterprise agreements that cover Division 2B State award covered employees                             180
+Part 4A—Transitional provisions to apply the better off overall test to enterprise agreements that cover Division 2B State award covered employees                             179
 
-Part 5—Transitional provisions relating to workplace determinations made under the FW Act                184
+Part 5—Transitional provisions relating to workplace determinations made under the FW Act                183
 
-Part 6—Interaction with Australian Fair Pay and Conditions Standard during bridging period               187
+Part 6—Interaction with Australian Fair Pay and Conditions Standard during bridging period               186
 
-Part 7—Transitional provision about the operation of the better off overall test if a transitional pay equity order applies                                                                                                189
+Part 7—Transitional provision about the operation of the better off overall test if a transitional pay equity order applies                                                                                                188
 
 **Schedule 8—Workplace agreements and workplace determinations made under the WR Act** 
 
-Part 1—Preliminary                                                                                                    190
+Part 1—Preliminary                                                                                                    189
 
-Part 2—Transitional provisions relating to workplace agreements     191
+Part 2—Transitional provisions relating to workplace agreements     190
 
-Division 1—Transitional provisions relating to collective agreements made before the WR Act repeal day 191
+Division 1—Transitional provisions relating to collective agreements made before the WR Act repeal day 190
 
-Division 2—Transitional provisions relating to variations of collective agreements made before the WR Act repeal day                                                                                                             194
+Division 2—Transitional provisions relating to variations of collective agreements made before the WR Act repeal day                                                                                                             193
 
-Division 3—Transitional provisions relating to pre‑WR Act repeal day terminations of collective agreements            197
+Division 3—Transitional provisions relating to pre‑WR Act repeal day terminations of collective agreements            196
 
-Division 4—Transitional provisions relating to ITEAs made before the WR Act repeal day            199
+Division 4—Transitional provisions relating to ITEAs made before the WR Act repeal day            198
 
-Division 5—Transitional provisions relating to variations of ITEAs made before the WR Act repeal day    201
+Division 5—Transitional provisions relating to variations of ITEAs made before the WR Act repeal day    200
 
-Division 6—Transitional provisions relating to pre‑WR Act repeal day terminations of ITEAs       203
+Division 6—Transitional provisions relating to pre‑WR Act repeal day terminations of ITEAs       202
 
-Division 7—Transitional provisions relating to making ITEAs during the bridging period 205
+Division 7—Transitional provisions relating to making ITEAs during the bridging period 204
 
-Division 8—Applying the no‑disadvantage test where there is a transmission or transfer of business            208
+Division 8—Applying the no‑disadvantage test where there is a transmission or transfer of business            207
 
-Division 9—Miscellaneous                                                                                     212
+Division 9—Miscellaneous                                                                                     211
 
-Part 3—Transitional provisions relating to workplace determinations made under the WR Act               213
+Part 3—Transitional provisions relating to workplace determinations made under the WR Act               212
 
 **Schedule 9—Minimum wages** 
 
-Part 1—Preliminary                                                                                                    216
+Part 1—Preliminary                                                                                                    215
 
-Part 2—Special provisions relating to FWA’s first annual wage review 217
+Part 2—Special provisions relating to FWA’s first annual wage review 216
 
-Part 3—Continued application of WR Act provisions about minimum wages    219
+Part 3—Continued application of WR Act provisions about minimum wages    218
 
-Division 1—General provisions                                                                             219
+Division 1—General provisions                                                                             218
 
-Division 2—Special provisions about transitional APCSs                                222
+Division 2—Special provisions about transitional APCSs                                221
 
-Division 3—Special provisions about the FMW, special FMWs and the default casual loading      222
+Division 3—Special provisions about the FMW, special FMWs and the default casual loading      221
 
-Part 4—Universal application of minimum wages to employees: transitional instruments            225
+Part 4—Universal application of minimum wages to employees: transitional instruments            224
 
-Part 5—Provisions relating to Division 2B State instruments              228
+Part 5—Provisions relating to Division 2B State instruments              227
 
-Division 1—Universal application of minimum wages to employees: Division 2B State reference employees            228
+Division 1—Universal application of minimum wages to employees: Division 2B State reference employees            227
 
-Division 2—Other matters                                                                                      231
+Division 2—Other matters                                                                                      230
 
 **Schedule 10—Equal remuneration** 
 
-Part 1—Preliminary                                                                                                    232
+Part 1—Preliminary                                                                                                    231
 
-Part 2—Equal remuneration orders under the FW Act                            233
+Part 2—Equal remuneration orders under the FW Act                            232
 
-Part 3—Equal remuneration orders under the WR Act                           234
+Part 3—Equal remuneration orders under the WR Act                           233
 
 **Schedule 11—Transfer of business** 
 
-Part 1—Preliminary                                                                                                    235
+Part 1—Preliminary                                                                                                    234
 
-Part 2—Transmissions of business occurring before WR Act repeal day               236
+Part 2—Transmissions of business occurring before WR Act repeal day               235
 
-Part 3—Transfers of business occurring on or after WR Act repeal day                242
+Part 3—Transfers of business occurring on or after WR Act repeal day                241
 
-Division 1—Transfers of business: transitional instruments                            242
+Division 1—Transfers of business: transitional instruments                            241
 
-Division 2—Transfer of preserved redundancy provisions during bridging period              243
+Division 2—Transfer of preserved redundancy provisions during bridging period              242
 
-Division 3—Transfer of entitlements under the AFPCS during bridging period 247
+Division 3—Transfer of entitlements under the AFPCS during bridging period 246
 
-Division 4—Transfers of business: Division 2B State instruments                 248
+Division 4—Transfers of business: Division 2B State instruments                 247
 
 **Schedule 12—General protections** 
 
@@ -247,17 +247,17 @@ Division 4—Transfers of business: Division 2B State instruments   �
 
 **Schedule 13—Bargaining and industrial action** 
 
-Part 1—Preliminary                                                                                                    255
+Part 1—Preliminary                                                                                                    254
 
-Part 2—Bargaining                                                                                                     256
+Part 2—Bargaining                                                                                                     255
 
-Part 3—Industrial action                                                                                         258
+Part 3—Industrial action                                                                                         257
 
-Part 4—Protected action ballots                                                                          262
+Part 4—Protected action ballots                                                                          261
 
-Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement or collective State employment agreement                                                              266
+Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement or collective State employment agreement                                                              265
 
-Part 6—Payments relating to periods of industrial action                      268
+Part 6—Payments relating to periods of industrial action                      267
 
 **Schedule 14—Right of entry** 
 
@@ -267,33 +267,33 @@ Part 6—Payments relating to periods of industrial action      �
 
 **Schedule 17—Amendments relating to the Fair Work Divisions of the Federal Court and the Federal Magistrates Court** 
 
-Part 1—Amendments to the Federal Court of Australia Act 1976   295
+Part 1—Amendments to the Federal Court of Australia Act 1976   294
 
-Federal Court of Australia Act 1976                                                                   295
+Federal Court of Australia Act 1976                                                                   294
 
-Part 2—Amendments to the Federal Magistrates Act 1999                 299
+Part 2—Amendments to the Federal Magistrates Act 1999                 298
 
-Federal Magistrates Act 1999                                                                              299
+Federal Magistrates Act 1999                                                                              298
 
-Part 3—Other amendments                                                                                    303
+Part 3—Other amendments                                                                                    302
 
-Administrative Decisions (Judicial Review) Act 1977                                     303
+Administrative Decisions (Judicial Review) Act 1977                                     302
 
-Part 4—Application and transitional provisions                                          304
+Part 4—Application and transitional provisions                                          303
 
-Part 5—Jurisdiction of courts                                                                               306
+Part 5—Jurisdiction of courts                                                                               305
 
 **Schedule 18—Institutions** 
 
-Part 1—Initial appointment of FWA Members                                           309
+Part 1—Initial appointment of FWA Members                                           308
 
-Part 2—WR Act bodies and WR Act offices                                              312
+Part 2—WR Act bodies and WR Act offices                                              311
 
-Part 3—Transitional role for Fair Work Ombudsman and Inspectors 317
+Part 3—Transitional role for Fair Work Ombudsman and Inspectors 316
 
-Part 4—Miscellaneous                                                                                              320
+Part 4—Miscellaneous                                                                                              319
 
-Fair Work Act 2009                                                                                                 324
+Fair Work Act 2009                                                                                                 323
 
 **Schedule 19—Dealing with disputes** 
 
@@ -303,49 +303,49 @@ Fair Work Act 2009                    �
 
 **Schedule 22—Registered organisations** 
 
-Part 1—Main amendments                                                                                     331
+Part 1—Main amendments                                                                                     330
 
-Workplace Relations Act 1996                                                                             331
+Workplace Relations Act 1996                                                                             330
 
-Part 2—State and federal organisations                                                          344
+Part 2—State and federal organisations                                                          343
 
-Workplace Relations Act 1996                                                                             344
+Workplace Relations Act 1996                                                                             343
 
-Part 3—Representation orders                                                                              356
+Part 3—Representation orders                                                                              355
 
-Workplace Relations Act 1996                                                                             356
+Workplace Relations Act 1996                                                                             355
 
-Part 4—References to Schedules to the Workplace Relations Act   362
+Part 4—References to Schedules to the Workplace Relations Act   361
 
-Fair Work Act 2009                                                                                                 362
+Fair Work Act 2009                                                                                                 361
 
-Workplace Relations Act 1996                                                                             362
+Workplace Relations Act 1996                                                                             361
 
-Part 5—References to the Workplace Relations Act etc.                       371
+Part 5—References to the Workplace Relations Act etc.                       370
 
-Workplace Relations Act 1996                                                                             371
+Workplace Relations Act 1996                                                                             370
 
-Part 6—References to the Commission etc.                                                  379
+Part 6—References to the Commission etc.                                                  378
 
-Workplace Relations Act 1996                                                                             379
+Workplace Relations Act 1996                                                                             378
 
-Part 7—References to the Registrar etc.                                                         393
+Part 7—References to the Registrar etc.                                                         392
 
-Fair Work Act 2009                                                                                                 393
+Fair Work Act 2009                                                                                                 392
 
-Workplace Relations Act 1996                                                                             393
+Workplace Relations Act 1996                                                                             392
 
-Part 8—References to awards and collective agreements                      410
+Part 8—References to awards and collective agreements                      409
 
-Fair Work Act 2009                                                                                                 410
+Fair Work Act 2009                                                                                                 409
 
-Workplace Relations Act 1996                                                                             410
+Workplace Relations Act 1996                                                                             409
 
-Part 9—Transitional provisions etc.                                                                   415
+Part 9—Transitional provisions etc.                                                                   414
 
 **Schedule 23—Other amendments of the FW Act** 
 
-Fair Work Act 2009                                                                                                 419
+Fair Work Act 2009                                                                                                 418
 
 **Notes** 
 
@@ -791,13 +791,7 @@ In the transitional Schedules:
 
 **_enterprise preserved collective State agreement_**: see subitem 2(3) of Schedule 6.
 
-**_Fair Work Australia_** or **_FWA_** means the body referred to in section 575 of the FW Act, as in force immediately before the commencement of Part 1 of Schedule 9 to the _Fair Work Amendment Act 2012_.
-
-**_FWA_**: see Fair Work Australia _._
-
 **_FW Act_**: see item 3 of this Schedule.
-
-**_FWA member_** has the same meaning as in the FW Act, as in force immediately before the commencement of Part 1 of Schedule 9 to the _Fair Work Amendment Act 2012_.
 
 **_FW (safety net provisions) commencement da_** y means the day on which Parts 2‑2, 2‑3 and 2‑6 of the FW Act commence.
 
@@ -1123,11 +1117,11 @@ _Note:       For the purposes of transition from the WR Act to the F
 
 (b)    provide for the continued operation of the WR Act (including in modified form) in relation to conduct that occurs on or after the WR Act repeal day.
 
-## 12  FWC to take over some processes
+## 12  FWA to take over some processes
 
 (1)       On and after the WR Act repeal day:
 
-                     (a)  an application, other than an interim application, that could have been made to any of the following because of item 11 may be made only to the FWC:
+                     (a)  an application, other than an interim application, that could have been made to any of the following because of item 11 may be made only to FWA:
 
                               (i)  the Commission;
 
@@ -1137,15 +1131,15 @@ _Note:       For the purposes of transition from the WR Act to the F
 
                             (iv)  a Registrar; and
 
-                     (b)  an appeal to the Commission that could have been instituted because of item 11 may be instituted only as an appeal to the FWC; and
+                     (b)  an appeal to the Commission that could have been instituted because of item 11 may be instituted only as an appeal to FWA; and
 
-                     (c)  a process (however described), other than an interim process, that could have been initiated by the Commission on its own motion because of item 11 may be initiated only by the FWC; and
+                     (c)  a process (however described), other than an interim process, that could have been initiated by the Commission on its own motion because of item 11 may be initiated only by FWA; and
 
-                     (d)  a matter that could have been referred to the Commission under section 46PW of the _Australian Human Rights Commission Act 1986_ because of item 11 is to be referred only to the FWC.
+                     (d)  a matter that could have been referred to the Commission under section 46PW of the _Australian Human Rights Commission Act 1986_ because of item 11 is to be referred only to FWA.
 
 (2)       For the purposes of subitem (1), a law of the Commonwealth that relates to an application, appeal, process or matter referred to in that subitem is to be read:
 
-                     (a)  as if a reference to a WR Act body or WR Act office were a reference to the FWC, as necessary; and
+                     (a)  as if a reference to a WR Act body or WR Act office were a reference to FWA, as necessary; and
 
                      (b)  with any other necessary modifications.
 
@@ -1167,7 +1161,7 @@ The regulations may do one or more of the following:
 
                     (aa)  provide that subitem 11(1A) does not apply in relation to specified processes;
 
-                     (b)  provide for any other matter that, because of item 11, could have been dealt with by a WR Act body or a person holding a WR Act office to be dealt with by the FWC, or by the FWC only.
+                     (b)  provide for any other matter that, because of item 11, could have been dealt with by a WR Act body or a person holding a WR Act office to be dealt with by FWA, or by FWA only.
 
 ###### Schedule 3—Continued existence of awards, workplace agreements and certain other WR Act instruments
 
@@ -1451,9 +1445,9 @@ _Note:       Most of the State and Territory interaction rules were 
 
 ## 6  References in transitional instruments to the Australian Industrial Relations Commission etc.
 
-(1)       If a provision of a transitional instrument confers a power or function on the Australian Industrial Relations Commission, that provision has effect on and after the WR Act repeal day as if references in it to the Commission were instead references to the FWC.
+(1)       If a provision of a transitional instrument confers a power or function on the Australian Industrial Relations Commission, that provision has effect on and after the WR Act repeal day as if references in it to the Commission were instead references to FWA.
 
-(2)       If a provision of a transitional instrument confers a power or function on the Industrial Registrar or a Deputy Industrial Registrar, that provision has effect on and after the WR Act repeal day as if references in it to the Industrial Registrar or a Deputy Industrial Registrar were instead references to the General Manager of the FWC.
+(2)       If a provision of a transitional instrument confers a power or function on the Industrial Registrar or a Deputy Industrial Registrar, that provision has effect on and after the WR Act repeal day as if references in it to the Industrial Registrar or a Deputy Industrial Registrar were instead references to the General Manager of FWA.
 
 (3)       This item has effect subject to:
 
@@ -1509,11 +1503,11 @@ those regulations continue to have effect on and after that day as if made for t
 
                      (a)  references in the clauses to the transitional period (including references to the end of the transitional period) were omitted; and
 
-                     (b)  a reference in the clauses to the Commission were instead a reference to the FWC; and
+                     (b)  a reference in the clauses to the Commission were instead a reference to FWA; and
 
-                     (c)  a reference in the clauses to a Registrar were instead a reference to the General Manager of the FWC; and
+                     (c)  a reference in the clauses to a Registrar were instead a reference to the General Manager of FWA; and
 
-                     (d)  a reference in the clauses to the Rules of the Commission were instead a reference to the procedural rules of the FWC.
+                     (d)  a reference in the clauses to the Rules of the Commission were instead a reference to the procedural rules of FWA.
 
 (3)       Subitem (2) has effect unless the context otherwise requires and subject to the regulations.
 
@@ -1557,7 +1551,7 @@ _Note:       The references in paragraphs (1)(a) and (2)(a) to a p
 
 ## 10  All kinds of transitional instrument: variation to remove ambiguities etc.
 
-(1)       On application by a person covered by a transitional instrument, the FWC may make a determination varying the instrument:
+(1)       On application by a person covered by a transitional instrument, FWA may make a determination varying the instrument:
 
                      (a)  to remove an ambiguity or uncertainty in the instrument; or
 
@@ -1571,7 +1565,7 @@ _Note:       For variation of a transitional instrument to resolve a
 
 ## 11  All kinds of transitional instrument: variation on referral by AHRC
 
-(1)       This item applies if a transitional instrument is referred to the FWC under section 46PW of the _Australian Human Rights Commission Act 1986_ (which deals with discriminatory industrial instruments).
+(1)       This item applies if a transitional instrument is referred to FWA under section 46PW of the _Australian Human Rights Commission Act 1986_ (which deals with discriminatory industrial instruments).
 
 (2)       If the instrument is an award‑based transitional instrument, section 161 of the FW Act applies in relation to the referral of the instrument as if the instrument were a modern award.
 
@@ -1579,25 +1573,25 @@ _Note:       For variation of a transitional instrument to resolve a
 
 ## 12  Awards: continued application of WR Act provisions about variation and revocation
 
-(1)       Subject to this item, Divisions 5 (other than subsections 554(1) to (4)) and 6 of Part 10 of the WR Act continue to apply on and after the WR Act repeal day in relation to transitional instruments that are awards as if references to the Commission were instead references to the FWC.
+(1)       Subject to this item, Divisions 5 (other than subsections 554(1) to (4)) and 6 of Part 10 of the WR Act continue to apply on and after the WR Act repeal day in relation to transitional instruments that are awards as if references to the Commission were instead references to FWA.
 
 _Note:       Items 10 and 11 apply instead of subsections 554(1) to (4) of the WR Act._
 
-(2)       The FWC must perform its powers and functions under Divisions 5 and 6 in a way that furthers the objects of Part 10 of the WR Act.
+(2)       FWA must perform its powers and functions under Divisions 5 and 6 in a way that furthers the objects of Part 10 of the WR Act.
 
 (3)       An award cannot be varied or revoked under Division 5 or 6 after the end of the bridging period, except as follows:
 
                      (a)  an award can be varied after the end of the bridging period under section 553 of the WR Act;
 
-                     (b)  an award can be varied or revoked after the end of the bridging period as a result of the FWC continuing to deal with a matter that it was dealing with before the end of the bridging period.
+                     (b)  an award can be varied or revoked after the end of the bridging period as a result of FWA continuing to deal with a matter that it was dealing with before the end of the bridging period.
 
-## 12A  State reference transitional awards: variation and revocation
+## 12A  State reference transitional awards: variation and revocation
 
 General provisions
 
 (1)       Subject to this item, Divisions 5 (other than subsections 554(1) to (4)) and 6 of Part 10 of the WR Act apply on and after the WR Act repeal day in relation to transitional instruments that are State reference transitional awards as if:
 
-                     (a)  references to the Commission were instead references to the FWC; and
+                     (a)  references to the Commission were instead references to FWA; and
 
                      (b)  references to an award included references to a State reference transitional award.
 
@@ -1609,7 +1603,7 @@ _Note 2:    For variation of State reference common rules, see the provisi
 
 _Note:       For variation of terms relating to wages after the end of the bridging period, see subitems (4) to (6)._
 
-(3)       The FWC must perform its powers and functions under Divisions 5 and 6 in a way that furthers the objects of Part 10 of the WR Act.
+(3)       FWA must perform its powers and functions under Divisions 5 and 6 in a way that furthers the objects of Part 10 of the WR Act.
 
 Special provisions about variation or revocation after the end of the bridging period
 
@@ -1619,9 +1613,9 @@ Special provisions about variation or revocation after the end of the bridging p
 
                      (b)  terms of a State reference transitional award relating to wages can be varied after the end of the bridging period in an annual wage review under the FW Act as provided for in subitem (5);
 
-                     (c)  a State reference transitional award can be varied after the end of the bridging period as a result of the FWC continuing to deal with a matter that it was dealing with before the end of the bridging period.
+                     (c)  a State reference transitional award can be varied after the end of the bridging period as a result of FWA continuing to deal with a matter that it was dealing with before the end of the bridging period.
 
-(5)       In an annual wage review, the FWC may make a determination varying terms of a State reference transitional award relating to wages.
+(5)       In an annual wage review, FWA may make a determination varying terms of a State reference transitional award relating to wages.
 
 (6)       For the purpose of subitem (5), Division 3 of Part 2‑6 of the FW Act (other than section 292) applies to terms of a State reference transitional award relating to wages in the same way as it applies to a modern award.
 
@@ -1645,7 +1639,7 @@ _Note:       This subitem has effect subject to Part 3 of Schedule
 
 Subdivision C of Division 7 of Part 2‑4 of the FW Act (which deals with termination of enterprise agreements by employers and employees) applies in relation to a collective agreement‑based transitional instrument as if a reference to an enterprise agreement included a reference to a collective agreement‑based transitional instrument.
 
-## 16  Collective agreement‑based transitional instruments: termination by the FWC
+## 16  Collective agreement‑based transitional instruments: termination by FWA
 
 (1)       Subdivision D of Division 7 of Part 2‑4 of the FW Act (which deals with termination of enterprise agreements after their nominal expiry date) applies in relation to a collective agreement‑based transitional instrument as if a reference to an enterprise agreement included a reference to a collective agreement‑based transitional instrument.
 
@@ -1661,19 +1655,19 @@ Subdivision C of Division 7 of Part 2‑4 of the FW Act (which deals with te
 
                      (c)  the signatures must be witnessed.
 
-(2)       The termination has no effect unless it has been approved by the FWC.
+(2)       The termination has no effect unless it has been approved by FWA.
 
-(3)       The employer or employee may apply to the FWC for approval of the termination agreement. The application must be made:
+(3)       The employer or employee may apply to FWA for approval of the termination agreement. The application must be made:
 
                      (a)  within 14 days after the termination agreement was made; or
 
-                     (b)  if in all the circumstances the FWC considers it fair to extend that period—within such further period as the FWC allows.
+                     (b)  if in all the circumstances FWA considers it fair to extend that period—within such further period as FWA allows.
 
-(4)       If an application for the FWC to approve the termination agreement is made under subitem (3), the FWC must approve the termination of the instrument if:
+(4)       If an application for FWA to approve the termination agreement is made under subitem (3), FWA must approve the termination of the instrument if:
 
-                     (a)  the FWC is satisfied that the requirements of subitem (1) have been complied with; and
+                     (a)  FWA is satisfied that the requirements of subitem (1) have been complied with; and
 
-                     (b)  the FWC is satisfied that there are no other reasonable grounds for believing that the employee has not agreed to the termination.
+                     (b)  FWA is satisfied that there are no other reasonable grounds for believing that the employee has not agreed to the termination.
 
 (5)       If the termination is approved under subitem (4), the termination operates from the day specified in the decision to approve the termination.
 
@@ -1703,15 +1697,15 @@ _Note 1:    For compliance with this obligation, see subitem 3(1) of Sched
 
 _Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8)._
 
-(7)       The conditional termination must accompany any application to the FWC for approval of the proposed enterprise agreement under section 185 of the FW Act.
+(7)       The conditional termination must accompany any application to FWA for approval of the proposed enterprise agreement under section 185 of the FW Act.
 
 _Note 1:    For compliance with this obligation, see subitem 3(2) of Schedule 16._
 
-_Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8), or the validity of an approval by the FWC of the proposed enterprise agreement._
+_Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8), or the validity of an approval by FWA of the proposed enterprise agreement._
 
 (8)       If the requirements of subitems (2) to (5) have been complied with in relation to the conditional termination, the transitional instrument terminates when the proposed enterprise agreement comes into operation.
 
-## 19  Individual agreement‑based transitional instruments: unilateral termination with the FWC’s approval
+## 19  Individual agreement‑based transitional instruments: unilateral termination with FWA’s approval
 
 (1)       This item applies to an employer or employee:
 
@@ -1723,15 +1717,15 @@ _Note 2:    Failure to comply with this obligation does not affect the ope
 
                      (a)  make a written declaration that identifies the transitional instrument and that states that the employer or employee wants to terminate the transitional instrument; and
 
-                     (b)  apply to the FWC for the approval of the termination.
+                     (b)  apply to FWA for the approval of the termination.
 
 (3)       The employer or employee cannot make an application as mentioned in paragraph (2)(b) unless, at least 14 days before the day on which the application is made, the employer or employee gives the other of them a notice complying with the following requirements:
 
                      (a)  the notice must identify the transitional instrument;
 
-                     (b)  the notice must state that the employer or employee intends to apply to the FWC for approval of the termination of the instrument;
+                     (b)  the notice must state that the employer or employee intends to apply to FWA for approval of the termination of the instrument;
 
-                     (c)  the notice must state that, if the FWC approves the termination, the transitional instrument will terminate on the 90th day after the day on which the FWC makes the approval decision;
+                     (c)  the notice must state that, if FWA approves the termination, the transitional instrument will terminate on the 90th day after the day on which FWA makes the approval decision;
 
                      (d)  if the notice is given by the employer:
 
@@ -1741,13 +1735,13 @@ _Note 2:    Failure to comply with this obligation does not affect the ope
 
                      (e)  the notice must comply with any other requirements of the regulations.
 
-(4)       The FWC must approve the termination if the FWC is satisfied that:
+(4)       FWA must approve the termination if FWA is satisfied that:
 
                      (a)  the transitional instrument applies to the employer and the employee; and
 
                      (b)  the requirements of subitems (2) and (3) have been complied with.
 
-(5)       If the FWC approves the termination, the transitional instrument terminates on the 90th day after the day on which the FWC makes the approval decision.
+(5)       If FWA approves the termination, the transitional instrument terminates on the 90th day after the day on which FWA makes the approval decision.
 
 ## 20  Sunsetting rules for various transitional instruments
 
@@ -1819,7 +1813,7 @@ _Note 2:    Schedule 9 provides for the continued application of the min
 
 (2)       AFPCS interaction rules of the kind referred to in paragraph (4)(b) do not continue to apply after the end of the bridging period.
 
-_Note:       This may result in an employee becoming entitled to a rate of pay under a transitional APCS that is higher than was required to be paid to the employee under a transitional instrument during the bridging period. If that occurs, the employer may apply to the FWC for a determination to phase‑in the effect of the increase (see item 14 of Schedule 9)._
+_Note:       This may result in an employee becoming entitled to a rate of pay under a transitional APCS that is higher than was required to be paid to the employee under a transitional instrument during the bridging period. If that occurs, the employer may apply to FWA for a determination to phase‑in the effect of the increase (see item 14 of Schedule 9)._
 
 (3)       If, immediately before the end of the bridging period, an AFPCS interaction rule of the kind referred to in paragraph (4)(b) produced the result that an employee to whom a transitional instrument applied was not covered by the obligation in subsection 182(1) or (2) of the WR Act in relation to a transitional APCS, the employee becomes covered by that obligation in relation to that transitional APCS from the end of the bridging period.
 
@@ -1845,13 +1839,13 @@ _Note 2:    Division 3 (which contains other general provisions about ho
 
 _Note 3:    References to the National Employment Standards include a reference to the extended parental leave provisions and the extended notice of termination provisions (see sections 746 and 761 of the FW Act)._
 
-(1A)     If there is a dispute about the application of this item which must be resolved by the FWC in accordance with item 26, the FWC may compare the entitlements which are in dispute:
+(1A)     If there is a dispute about the application of this item which must be resolved by FWA in accordance with item 26, FWA may compare the entitlements which are in dispute:
 
                      (a)  on a ‘line-by-line’ basis, comparing individual terms; or
 
                      (b)  on a ‘like-by-like’ basis, comparing entitlements according to particular subject areas; or
 
-                     (c)  using any combination of the above approaches the FWC sees fit.
+                     (c)  using any combination of the above approaches FWA sees fit.
 
 (2)       Subitem (1) does not affect a term of a transitional instrument that is permitted by a provision of the National Employment Standards as it has effect under item 24.
 
@@ -1899,7 +1893,7 @@ the employee is taken to qualify for the shiftworker annual leave entitlement fo
 
 ## 26  Resolving difficulties about application of this Division
 
-(1)       On application by a person covered  by a transitional instrument, the FWC may make a determination varying the transitional instrument:
+(1)       On application by a person covered  by a transitional instrument, FWA may make a determination varying the transitional instrument:
 
                      (a)  to resolve an uncertainty or difficulty relating to the interaction between the instrument and the National Employment Standards; or
 
@@ -2619,19 +2613,19 @@ _Note:       This subitem applies whether or not the source award in
 
 (2)       Item 13 of this Schedule does not apply in relation to the term.
 
-_Note:       Item 13 would otherwise result in references in the term to a State industrial body having effect as if they were references to the FWC._
+_Note:       Item 13 would otherwise result in references in the term to a State industrial body having effect as if they were references to FWA._
 
 (2A)     However, if the term provides for disputes relating to matters arising under the source agreement to be settled by a State industrial body, then, despite anything in the source agreement or a law of the source State:
 
                      (a)  the State industrial body may settle, or decline to settle, such a dispute; and
 
-                     (b)  the FWC may settle such a dispute if the State industrial body:
+                     (b)  FWA may settle such a dispute if the State industrial body:
 
                               (i)  ceases to exist; or
 
                              (ii)  declines to settle the dispute.
 
-(3)       The FWC must, on application in accordance with subitem (4), vary the term in accordance with the application.
+(3)       FWA must, on application in accordance with subitem (4), vary the term in accordance with the application.
 
 (4)       For the purpose of subitem (3), an application must be made:
 
@@ -2721,9 +2715,9 @@ _Note:       Item 13 would otherwise result in references in the t
 
 ## 13  References in Division 2B State instruments to State industrial bodies
 
-(1)       Subject to subitem (2), if a term of a Division 2B State instrument is expressed to confer a power or function on a State industrial body, that term has effect as if references in it to the body were instead references to the FWC.
+(1)       Subject to subitem (2), if a term of a Division 2B State instrument is expressed to confer a power or function on a State industrial body, that term has effect as if references in it to the body were instead references to FWA.
 
-(2)       If a term of a Division 2B State instrument is expressed to confer a power or function on the registrar, or a deputy registrar, of a State industrial body, that term has effect on and after the Division 2B referral commencement as if references in it to the registrar or a deputy registrar were instead references to the General Manager of the FWC.
+(2)       If a term of a Division 2B State instrument is expressed to confer a power or function on the registrar, or a deputy registrar, of a State industrial body, that term has effect on and after the Division 2B referral commencement as if references in it to the registrar or a deputy registrar were instead references to the General Manager of FWA.
 
 (3)       This item has effect subject to:
 
@@ -2813,7 +2807,7 @@ _Note:       For how the kinds of matters covered by this item and i
 
 ## 19  Variation to remove ambiguities etc.
 
-(1)       On application by a person covered by a Division 2B State instrument, the FWC may make a determination varying the instrument:
+(1)       On application by a person covered by a Division 2B State instrument, FWA may make a determination varying the instrument:
 
                      (a)  to remove an ambiguity or uncertainty in the instrument; or
 
@@ -2827,7 +2821,7 @@ _Note:       For variation of a Division 2B State instrument to re
 
 ## 20  Variation on referral by Australian Human Rights Commission
 
-(1)       This item applies if a Division 2B State instrument is referred to the FWC under section 46PW of the _Australian Human Rights Commission Act 1986_ (which deals with discriminatory industrial instruments).
+(1)       This item applies if a Division 2B State instrument is referred to FWA under section 46PW of the _Australian Human Rights Commission Act 1986_ (which deals with discriminatory industrial instruments).
 
 (2)       If the instrument is a Division 2B State award, section 161 of the FW Act applies in relation to the referral of the instrument as if the instrument were a modern award.
 
@@ -2847,7 +2841,7 @@ _Note:       Schedule 6 (modern enterprise awards) applies to Divi
 
 Subdivision C of Division 7 of Part 2‑4 of the FW Act (which deals with termination of enterprise agreements by employers and employees) applies in relation to a collective Division 2B State employment agreement as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement.
 
-## 23  Collective Division 2B State employment agreements: termination by the FWC
+## 23  Collective Division 2B State employment agreements: termination by FWA
 
 Subdivision D of Division 7 of Part 2‑4 of the FW Act (which deals with termination of enterprise agreements after their nominal expiry date) applies in relation to a collective Division 2B State employment agreement as if a reference to an enterprise agreement included a reference to a collective Division 2B State employment agreement.
 
@@ -2861,19 +2855,19 @@ Subdivision D of Division 7 of Part 2‑4 of the FW Act (which deals with te
 
                      (c)  the signatures must be witnessed.
 
-(2)       The termination has no effect unless it has been approved by the FWC.
+(2)       The termination has no effect unless it has been approved by FWA.
 
-(3)       The employer or employee may apply to the FWC for approval of the termination agreement. The application must be made:
+(3)       The employer or employee may apply to FWA for approval of the termination agreement. The application must be made:
 
                      (a)  within 14 days after the termination agreement was made; or
 
-                     (b)  if in all the circumstances the FWC considers it fair to extend that period—within such further period as the FWC allows.
+                     (b)  if in all the circumstances FWA considers it fair to extend that period—within such further period as FWA allows.
 
-(4)       If an application for the FWC to approve the termination agreement is made under subitem (3), the FWC must approve the termination of the Division 2B agreement if:
+(4)       If an application for FWA to approve the termination agreement is made under subitem (3), FWA must approve the termination of the Division 2B agreement if:
 
-                     (a)  the FWC is satisfied that the requirements of subitem (1) have been complied with; and
+                     (a)  FWA is satisfied that the requirements of subitem (1) have been complied with; and
 
-                     (b)  the FWC is satisfied that there are no other reasonable grounds for believing that the employee has not agreed to the termination.
+                     (b)  FWA is satisfied that there are no other reasonable grounds for believing that the employee has not agreed to the termination.
 
 (5)       If the termination is approved under subitem (4), the termination operates from the day specified in the decision to approve the termination.
 
@@ -2903,15 +2897,15 @@ _Note 1:    For compliance with this obligation, see subitem 4B(1) of Sche
 
 _Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8)._
 
-(7)       The conditional termination must accompany any application to the FWC for approval of the proposed enterprise agreement under section 185 of the FW Act.
+(7)       The conditional termination must accompany any application to FWA for approval of the proposed enterprise agreement under section 185 of the FW Act.
 
 _Note 1:    For compliance with this obligation, see subitem 4B(2) of Schedule 16._
 
-_Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8), or the validity of an approval by the FWC of the proposed enterprise agreement._
+_Note 2:    Failure to comply with this obligation does not affect the operation of subitem (8), or the validity of an approval by FWA of the proposed enterprise agreement._
 
 (8)       If the requirements of subitems (2) to (5) have been complied with in relation to the conditional termination, the Division 2B agreement terminates when the proposed enterprise agreement comes into operation.
 
-## 26  Individual Division 2B State employment agreements: unilateral termination with the FWC’s approval
+## 26  Individual Division 2B State employment agreements: unilateral termination with FWA’s approval
 
 (1)       This item applies to an employer or employee:
 
@@ -2923,25 +2917,25 @@ _Note 2:    Failure to comply with this obligation does not affect the ope
 
                      (a)  make a written declaration that identifies the Division 2B agreement and that states that the employer or employee wants to terminate the agreement; and
 
-                     (b)  apply to the FWC for the approval of the termination.
+                     (b)  apply to FWA for the approval of the termination.
 
 (3)       The employer or employee cannot make an application as mentioned in paragraph (2)(b) unless, at least 14 days before the day on which the application is made, the employer or employee gives the other of them a notice complying with the following requirements:
 
                      (a)  the notice must identify the Division 2B agreement;
 
-                     (b)  the notice must state that the employer or employee intends to apply to the FWC for approval of the termination of the agreement;
+                     (b)  the notice must state that the employer or employee intends to apply to FWA for approval of the termination of the agreement;
 
-                     (c)  the notice must state that, if the FWC approves the termination, the agreement will terminate on the 90th day after the day on which the FWC makes the approval decision;
+                     (c)  the notice must state that, if FWA approves the termination, the agreement will terminate on the 90th day after the day on which FWA makes the approval decision;
 
                      (d)  the notice must comply with any other requirements of the regulations.
 
-(4)       The FWC must approve the termination if the FWC is satisfied that:
+(4)       FWA must approve the termination if FWA is satisfied that:
 
                      (a)  the Division 2B agreement applies to the employer and the employee; and
 
                      (b)  the requirements of subitems (2) and (3) have been complied with.
 
-(5)       If the FWC approves the termination, the Division 2B agreement terminates on the 90th day after the day on which the FWC makes the approval decision.
+(5)       If FWA approves the termination, the Division 2B agreement terminates on the 90th day after the day on which FWA makes the approval decision.
 
 ## 27  Meaning of _nominal expiry date_ of Division 2B State employment agreement
 
@@ -3109,15 +3103,15 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
 Employees
 
-(1)       If the FWC is satisfied that an employee, or a class of employees, to whom a modern award applies has suffered a reduction in take‑home pay to which item 31 applies, the FWC may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that the FWC considers appropriate to remedy the situation.
+(1)       If FWA is satisfied that an employee, or a class of employees, to whom a modern award applies has suffered a reduction in take‑home pay to which item 31 applies, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
 
 Outworkers
 
-(2)       If the FWC is satisfied that an outworker, or a class of outworkers, to whom outworker terms in a modern award relate has suffered a reduction in take‑home pay to which item 31 applies, the FWC may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the outworker or outworkers that the FWC considers appropriate to remedy the situation.
+(2)       If FWA is satisfied that an outworker, or a class of outworkers, to whom outworker terms in a modern award relate has suffered a reduction in take‑home pay to which item 31 applies, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the outworker or outworkers that FWA considers appropriate to remedy the situation.
 
 General provisions
 
-(3)       The FWC may make a take‑home pay order only on application by:
+(3)       FWA may make a take‑home pay order only on application by:
 
                      (a)  an employee or outworker who has suffered a reduction in take‑home pay to which item 31 applies; or
 
@@ -3125,17 +3119,17 @@ General provisions
 
                      (c)  a person acting on behalf of a class of such employees or outworkers.
 
-(4)       If the FWC is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, or an outworker or a class of outworkers, the FWC may dismiss any later application that is made under these provisions in relation to the same employee or employees, or the same outworker or outworkers.
+(4)       If FWA is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, or an outworker or a class of outworkers, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees, or the same outworker or outworkers.
 
 ## 33  Ensuring that take‑home pay orders are confined to the circumstances for which they are needed
 
-(1)       The FWC must not make a take‑home pay order under item 32 in relation to an employee or class of employees, or an outworker or a class of outworkers, if:
+(1)       FWA must not make a take‑home pay order under item 32 in relation to an employee or class of employees, or an outworker or a class of outworkers, if:
 
-                     (a)  the FWC considers that the reduction in take‑home pay is minor or insignificant; or
+                     (a)  FWA considers that the reduction in take‑home pay is minor or insignificant; or
 
-                     (b)  the FWC is satisfied that the employee or employees, or outworker or outworkers, have been adequately compensated in other ways for the reduction.
+                     (b)  FWA is satisfied that the employee or employees, or outworker or outworkers, have been adequately compensated in other ways for the reduction.
 
-(2)       The FWC must ensure that a take‑home pay order is expressed so that:
+(2)       FWA must ensure that a take‑home pay order is expressed so that:
 
                      (a)  it does not apply to an employee or outworker unless the employee or outworker has actually suffered a reduction in take‑home pay to which item 31 applies; and
 
@@ -3173,13 +3167,13 @@ _Note 2:    Division 3 (which contains other general provisions about ho
 
 _Note 3:    References to the National Employment Standards include a reference to the extended parental leave provisions and the extended notice of termination provisions (see sections 746 and 761 of the FW Act)._
 
-(2)       If there is a dispute about the application of this item which must be resolved by the FWC in accordance with item 40, the FWC may compare the entitlements which are in dispute:
+(2)       If there is a dispute about the application of this item which must be resolved by FWA in accordance with item 40, FWA may compare the entitlements which are in dispute:
 
                      (a)  on a ‘line‑by‑line’ basis, comparing individual terms; or
 
                      (b)  on a ‘like‑by‑like’ basis, comparing entitlements according to particular subject areas; or
 
-                     (c)  using any combination of the above approaches the FWC sees fit.
+                     (c)  using any combination of the above approaches FWA sees fit.
 
 (3)       Subitem (1) does not affect a term of a Division 2B State instrument that is permitted by a provision of the National Employment Standards as it has effect under item 38.
 
@@ -3221,7 +3215,7 @@ _Note:       If the employee qualifies for the shiftworker annual le
 
 ## 40  Resolving difficulties about application of this Division
 
-(1)       On application by a person covered  by a Division 2B State instrument, the FWC may make a determination varying the instrument:
+(1)       On application by a person covered  by a Division 2B State instrument, FWA may make a determination varying the instrument:
 
                      (a)  to resolve an uncertainty or difficulty relating to the interaction between the instrument and the National Employment Standards; or
 
@@ -3895,25 +3889,25 @@ _Note:       Enterprise award etc. modernisation is provided for in 
 
                      (c)  the likely effects on the relevant industry or industry sector of any modern award that the Commission is considering, or is proposing to make, including on productivity, labour costs and the regulatory burden on businesses.
 
-## 3  Variation and termination of certain transitional instruments etc. to take account of Part 10A award modernisation process<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+## 3  Variation and termination of certain transitional instruments etc. to take account of Part 10A award modernisation process
 
-(1)       The FWC must, as soon as practicable after a modern award (other than the miscellaneous modern award) made in the Part 10A award modernisation process comes into operation (and subject to subitem (3)):
+(1)       FWA must, as soon as practicable after a modern award (other than the miscellaneous modern award) made in the Part 10A award modernisation process comes into operation (and subject to subitem (3)):
 
-                     (a)  terminate any of the following (**_modernisable instruments_**) that the FWC considers are completely replaced by the modern award:
+                     (a)  terminate any of the following (**_modernisable instruments_**) that FWA considers are completely replaced by the modern award:
 
                               (i)  award‑based transitional instruments;
 
                              (ii)  transitional APCSs; and
 
-                     (b)  if the FWC considers that the modern award only partly replaces a modernisable instrument—vary the coverage terms of the modernisable instrument accordingly.
+                     (b)  if FWA considers that the modern award only partly replaces a modernisable instrument—vary the coverage terms of the modernisable instrument accordingly.
 
 _Note 1:    The main provisions about transitional instruments are in Schedule 3, and the main provisions about transitional APCSs are in Schedule 9._
 
 _Note 2:    This item does not limit the effect of any other provision of this Act under which a modernisable instrument ceases to cover a person from a time earlier than when the instrument is terminated or varied under this item._
 
-(2)       As soon as practicable after all modern awards made in the Part 10A modernisation process have come into operation, the FWC must (subject to subitem (3)) terminate any remaining modernisable instruments.
+(2)       As soon as practicable after all modern awards made in the Part 10A modernisation process have come into operation, FWA must (subject to subitem (3)) terminate any remaining modernisable instruments.
 
-(3)       However, the FWC must not, under this item:
+(3)       However, FWA must not, under this item:
 
                      (a)  terminate a modernisable instrument that is an enterprise instrument or a State reference public sector transitional award, or that covers employees who are also covered by an enterprise instrument or a State reference public sector transitional award; or
 
@@ -3925,11 +3919,11 @@ _Note 1:    Item 9 of Schedule 6 deals with termination and variation 
 
 _Note 2:    Item 10 of Schedule 6A deals with termination and variation of State reference public sector transitional awards to take account of the State reference public sector transitional award modernisation process._
 
-(4)       The FWC may establish a process for making decisions under this item to terminate or vary one or more modernisable instruments.
+(4)       FWA may establish a process for making decisions under this item to terminate or vary one or more modernisable instruments.
 
-(5)       The FWC may advise persons or bodies about that process in any way the FWC considers appropriate.
+(5)       FWA may advise persons or bodies about that process in any way FWA considers appropriate.
 
-(6)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of the FWC) has effect as if subsection (2) of that section included a reference to FWA’s powers under subitem (5).
+(6)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of FWA) has effect as if subsection (2) of that section included a reference to FWA’s powers under subitem (5).
 
 ## 4  How the FW Act applies to modern awards made in the Part 10A award modernisation process
 
@@ -3945,11 +3939,11 @@ _Note 2:    Item 10 of Schedule 6A deals with termination and variatio
 
 ## 5  Variations to deal with minor problems attributable to award modernisation starting before enactment of FW Act
 
-(1)       If the FWC considers that there is a minor or technical problem with a modern award that is attributable to the fact that the Part 10A award modernisation process started before the enactment of the FW Act, the FWC may make a determination varying the modern award to resolve the problem.
+(1)       If FWA considers that there is a minor or technical problem with a modern award that is attributable to the fact that the Part 10A award modernisation process started before the enactment of the FW Act, FWA may make a determination varying the modern award to resolve the problem.
 
-_Note:       Certain modern awards may, for example, contain references to concepts or provisions that are not consistent with the FW Act as enacted. This variation power allows the FWC to fix such references._
+_Note:       Certain modern awards may, for example, contain references to concepts or provisions that are not consistent with the FW Act as enacted. This variation power allows FWA to fix such references._
 
-(2)       The FWC may make the determination:
+(2)       FWA may make the determination:
 
                      (a)  on its own initiative; or
 
@@ -3961,37 +3955,37 @@ _Note:       Certain modern awards may, for example, contain referen
 
 ## 6  Review of all modern awards (other than modern enterprise awards and State reference public sector modern awards) after first 2 years
 
-(1)       As soon as practicable after the second anniversary of the FW (safety net provisions) commencement day, the FWC must conduct a review of all modern awards, other than modern enterprise awards and State reference public sector modern awards.
+(1)       As soon as practicable after the second anniversary of the FW (safety net provisions) commencement day, FWA must conduct a review of all modern awards, other than modern enterprise awards and State reference public sector modern awards.
 
-_Note:       The review required by this item is in addition to the annual wage reviews and 4 yearly reviews of modern awards that the FWC is required to conduct under the FW Act._
+_Note:       The review required by this item is in addition to the annual wage reviews and 4 yearly reviews of modern awards that FWA is required to conduct under the FW Act._
 
-(2)       In the review, the FWC must consider whether the modern awards:
+(2)       In the review, FWA must consider whether the modern awards:
 
                      (a)  achieve the modern awards objective; and
 
                      (b)  are operating effectively, without anomalies or technical problems arising from the Part 10A award modernisation process.
 
-(2A)     The review must be such that each modern award is reviewed in its own right. However, this does not prevent the FWC from reviewing 2 or more modern awards at the same time.
+(2A)     The review must be such that each modern award is reviewed in its own right. However, this does not prevent FWA from reviewing 2 or more modern awards at the same time.
 
-(3)       The FWC may make a determination varying any of the modern awards in any way that the FWC considers appropriate to remedy any issues identified in the review.
+(3)       FWA may make a determination varying any of the modern awards in any way that FWA considers appropriate to remedy any issues identified in the review.
 
 _Note:       Any variation of a modern award must comply with the requirements of the FW Act relating to the content of modern awards (see Subdivision A of Division 3 of Part 2‑3 of the FW Act)._
 
-(4)       The modern awards objective applies to the FWC making a variation under this item, and the minimum wages objective also applies if the variation relates to modern award minimum wages.
+(4)       The modern awards objective applies to FWA making a variation under this item, and the minimum wages objective also applies if the variation relates to modern award minimum wages.
 
-(5)       The FWC may advise persons or bodies about the review in any way the FWC considers appropriate.
+(5)       FWA may advise persons or bodies about the review in any way FWA considers appropriate.
 
-(6)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of the FWC) has effect as if subsection (2) of that section included a reference to the FWC’s powers under subitem (5).
+(6)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of FWA) has effect as if subsection (2) of that section included a reference to FWA’s powers under subitem (5).
 
 ## 7  Review of transitional arrangements included in modern awards
 
 (1)       If:
 
-                     (a)  a modern award includes terms (**_review terms_**) under which the FWC may review transitional arrangements included in the award; and
+                     (a)  a modern award includes terms (**_review terms_**) under which FWA may review transitional arrangements included in the award; and
 
                      (b)  the review terms, and the transitional arrangements, were included in the award in the Part 10A award modernisation process;
 
-the FWC may:
+FWA may:
 
                      (c)  review the award in accordance with the review terms; and
 
@@ -4039,15 +4033,15 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
 Employees
 
-(1)       If the FWC is satisfied that an employee, or a class of employees, to whom a modern award applies has suffered a modernisation‑related reduction in take‑home pay, the FWC may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that the FWC considers appropriate to remedy the situation.
+(1)       If FWA is satisfied that an employee, or a class of employees, to whom a modern award applies has suffered a modernisation‑related reduction in take‑home pay, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
 
 Outworkers
 
-(2)       If the FWC is satisfied that an outworker, or a class of outworkers, to whom outworker terms in a modern award relate has suffered a modernisation‑related reduction in take‑home pay, the FWC may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the outworker or outworkers that the FWC considers appropriate to remedy the situation.
+(2)       If FWA is satisfied that an outworker, or a class of outworkers, to whom outworker terms in a modern award relate has suffered a modernisation‑related reduction in take‑home pay, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the outworker or outworkers that FWA considers appropriate to remedy the situation.
 
 General provisions
 
-(3)       The FWC may make a take‑home pay order only on application by:
+(3)       FWA may make a take‑home pay order only on application by:
 
                      (a)  an employee or outworker who has suffered a modernisation‑related reduction in take‑home pay; or
 
@@ -4055,17 +4049,17 @@ General provisions
 
                      (c)  a person acting on behalf of a class of such employees or outworkers.
 
-(4)       If the FWC is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, or an outworker or a class of outworkers, the FWC may dismiss any later application that is made under these provisions in relation to the same employee or employees, or the same outworker or outworkers.
+(4)       If FWA is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, or an outworker or a class of outworkers, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees, or the same outworker or outworkers.
 
 ## 10  Ensuring that take‑home pay orders are confined to the circumstances for which they are needed
 
-(1)       The FWC must not make a take‑home pay order in relation to an employee or class of employees, or an outworker or a class of outworkers, if:
+(1)       FWA must not make a take‑home pay order in relation to an employee or class of employees, or an outworker or a class of outworkers, if:
 
-                     (a)  the FWC considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
+                     (a)  FWA considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
 
-                     (b)  the FWC is satisfied that the employee or employees, or outworker or outworkers, have been adequately compensated in other ways for the reduction.
+                     (b)  FWA is satisfied that the employee or employees, or outworker or outworkers, have been adequately compensated in other ways for the reduction.
 
-(2)       The FWC must ensure that a take‑home pay order is expressed so that:
+(2)       FWA must ensure that a take‑home pay order is expressed so that:
 
                      (a)  it does not apply to an employee or outworker unless the employee or outworker has actually suffered a modernisation‑related reduction in take‑home pay; and
 
@@ -4191,7 +4185,7 @@ _Note:       However, an enterprise instrument or a modern enterpris
 
 (1)       The **_enterprise instrument modernisation process_** is the process of making modern awards under this Division to replace enterprise instruments.
 
-(2)       On application, the FWC may make a modern award (a **_modern enterprise award_**) to replace an enterprise instrument.
+(2)       On application, FWA may make a modern award (a **_modern enterprise award_**) to replace an enterprise instrument.
 
 (3)       The application may be made only:
 
@@ -4201,7 +4195,7 @@ _Note:       However, an enterprise instrument or a modern enterpris
 
 (4)       A modern enterprise award must be made by a Full Bench.
 
-(5)       In deciding whether or not to make a modern enterprise award, and in determining the content of that award, the FWC must take into account the following:
+(5)       In deciding whether or not to make a modern enterprise award, and in determining the content of that award, FWA must take into account the following:
 
                      (a)  the circumstances that led to the making of the enterprise instrument rather than an instrument of more general application;
 
@@ -4221,19 +4215,19 @@ _Note:       However, an enterprise instrument or a modern enterpris
 
 _Note:       A variation referred to in paragraph (c) may, for example, be a variation to reflect the outcome of the AFPC’s final wage review under the WR Act, or to include transitional arrangements in the modern award._
 
-(5A)     If the FWC makes a modern enterprise award before the FW (safety net provisions) commencement day, the modern enterprise award must not be expressed to commence on a day earlier than the FW (safety net provisions) commencement day.
+(5A)     If FWA makes a modern enterprise award before the FW (safety net provisions) commencement day, the modern enterprise award must not be expressed to commence on a day earlier than the FW (safety net provisions) commencement day.
 
 _Note:       For when a modern enterprise award is in operation, see item 17._
 
 (6)       The regulations may deal with other matters relating to the enterprise instrument modernisation process.
 
-## 5  Enterprise instruments: termination by the FWC
+## 5  Enterprise instruments: termination by FWA
 
-(1)       A person covered by an enterprise instrument may apply to the FWC for the FWC to terminate the instrument.
+(1)       A person covered by an enterprise instrument may apply to FWA for FWA to terminate the instrument.
 
 (2)       The application may be made only during the period starting on the WR Act repeal day and ending at the end of 31 December 2013.
 
-(3)       If an application for the FWC to terminate the enterprise instrument is made under subitem (1), the FWC may:
+(3)       If an application for FWA to terminate the enterprise instrument is made under subitem (1), FWA may:
 
                      (a)  terminate the enterprise instrument; or
 
@@ -4241,7 +4235,7 @@ _Note:       For when a modern enterprise award is in operation, see
 
                      (c)  decide to treat the application as if it were an application under item 4.
 
-(4)       In making a decision under subitem (3), the FWC must take into account the following:
+(4)       In making a decision under subitem (3), FWA must take into account the following:
 
                      (a)  the circumstances that led to the making of the enterprise instrument rather than an instrument of more general application;
 
@@ -4261,13 +4255,13 @@ _Note:       For when a modern enterprise award is in operation, see
 
 _Note:       A variation referred to in paragraph (c) may, for example, be a variation to reflect the outcome of the AFPC’s final wage review under the WR Act, or to include transitional arrangements in the modern award._
 
-(5)       If the FWC terminates the enterprise instrument, the termination operates from the day specified in the decision to terminate the instrument, being a day that is not earlier than the FW (safety net provisions) commencement day.
+(5)       If FWA terminates the enterprise instrument, the termination operates from the day specified in the decision to terminate the instrument, being a day that is not earlier than the FW (safety net provisions) commencement day.
 
 ## 6  The modern enterprise awards objective
 
-(1)       The modern awards objective and the minimum wages objective apply to the FWC making a modern enterprise award under this Division.
+(1)       The modern awards objective and the minimum wages objective apply to FWA making a modern enterprise award under this Division.
 
-(2)       However, in applying the modern awards objective and the minimum wages objective, the FWC must recognise that modern enterprise awards may provide terms and conditions tailored to reflect employment arrangements that have been developed in relation to the relevant enterprises. This is the **_modern enterprise awards objective_**.
+(2)       However, in applying the modern awards objective and the minimum wages objective, FWA must recognise that modern enterprise awards may provide terms and conditions tailored to reflect employment arrangements that have been developed in relation to the relevant enterprises. This is the **_modern enterprise awards objective_**.
 
 _Note 1:    See also item 11 (enterprise instrument modernisation process is not intended to result in reduction in take‑home pay)._
 
@@ -4285,7 +4279,7 @@ Increases in entitlements
 
 Industry‑specific redundancy schemes
 
-(3)       If a modern award includes an industry‑specific redundancy scheme in relation to a particular industry, and the FWC makes a modern enterprise award that covers persons who operate in that industry, the FWC may include the industry‑specific redundancy scheme in the modern enterprise award.
+(3)       If a modern award includes an industry‑specific redundancy scheme in relation to a particular industry, and FWA makes a modern enterprise award that covers persons who operate in that industry, FWA may include the industry‑specific redundancy scheme in the modern enterprise award.
 
 ## 8  Coverage terms
 
@@ -4359,9 +4353,9 @@ _Note:       For example, in some industries, managerial employees h
 
 ## 9  Variation and termination of certain instruments to take account of enterprise instrument modernisation process
 
-(1)       If the FWC makes a modern enterprise award to replace an enterprise preserved collective State agreement, the agreement terminates when the modern award comes into operation.
+(1)       If FWA makes a modern enterprise award to replace an enterprise preserved collective State agreement, the agreement terminates when the modern award comes into operation.
 
-(2)       The FWC must, as soon as practicable after a modern enterprise award that is made to replace an enterprise instrument comes into operation:
+(2)       FWA must, as soon as practicable after a modern enterprise award that is made to replace an enterprise instrument comes into operation:
 
                      (a)  terminate the enterprise instrument (if it has not already terminated under subitem (1)); and
 
@@ -4379,25 +4373,25 @@ _Note 1:    The main provisions about transitional instruments are in Sche
 
 _Note 2:    This item does not limit the effect of any other provision of this Act under which a modernisable instrument ceases to cover a person from a time earlier than when the instrument is terminated or varied under this item._
 
-(3)       If the FWC decides not to make a modern enterprise award to replace an enterprise instrument, the instrument terminates when that decision comes into operation.
+(3)       If FWA decides not to make a modern enterprise award to replace an enterprise instrument, the instrument terminates when that decision comes into operation.
 
-(3A)     Despite subitem (3), if, before the FW (safety net provisions) commencement day, the FWC makes a decision not to make a modern enterprise award to replace an enterprise instrument, the decision must not come into operation before the FW (safety net provisions) commencement day.
+(3A)     Despite subitem (3), if, before the FW (safety net provisions) commencement day, FWA makes a decision not to make a modern enterprise award to replace an enterprise instrument, the decision must not come into operation before the FW (safety net provisions) commencement day.
 
 (4)       If, by the end of the period specified in paragraph 4(3)(b), no application under item 4 or 5 has been made in relation to an enterprise instrument, the instrument terminates at the end of that period.
 
-(5)       As soon as practicable after all modern enterprise awards made in the enterprise instrument modernisation process have come into operation, the FWC must terminate any remaining modernisable instruments.
+(5)       As soon as practicable after all modern enterprise awards made in the enterprise instrument modernisation process have come into operation, FWA must terminate any remaining modernisable instruments.
 
 ## 10  Notification of the cut‑off for the enterprise instrument modernisation process
 
-(1)       The FWC must, at least 6 months before the end of the period specified in paragraph 4(3)(b), advise any persons still covered by an enterprise instrument:
+(1)       FWA must, at least 6 months before the end of the period specified in paragraph 4(3)(b), advise any persons still covered by an enterprise instrument:
 
                      (a)  that the period for making applications under items 4 and 5 ends on 31 December 2013; and
 
                      (b)  of the consequences for the enterprise instrument if an application in relation to the instrument is not made.
 
-(2)       The FWC may give that advice by any means it considers appropriate.
+(2)       FWA may give that advice by any means it considers appropriate.
 
-(3)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of the FWC) has effect as if subsection (2) of that section included a reference to the FWC’s functions and powers under this item.
+(3)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of FWA) has effect as if subsection (2) of that section included a reference to FWA’s functions and powers under this item.
 
 <h8 class="ActHead8">Division 3—Avoiding reductions in take‑home pay</h8>
 
@@ -4425,9 +4419,9 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
 ## 12  Orders remedying reductions in take‑home pay
 
-(1)       If the FWC is satisfied that an employee, or a class of employees, to whom a modern enterprise award applies has suffered a modernisation‑related reduction in take‑home pay, the FWC may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that the FWC considers appropriate to remedy the situation.
+(1)       If FWA is satisfied that an employee, or a class of employees, to whom a modern enterprise award applies has suffered a modernisation‑related reduction in take‑home pay, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
 
-(2)       The FWC may make a take‑home pay order only on application by:
+(2)       FWA may make a take‑home pay order only on application by:
 
                      (a)  an employee who has suffered a modernisation‑related reduction in take‑home pay; or
 
@@ -4435,17 +4429,17 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
                      (c)  a person acting on behalf of a class of such employees.
 
-(3)       If the FWC is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, the FWC may dismiss any later application that is made under these provisions in relation to the same employee or employees.
+(3)       If FWA is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees.
 
 ## 13  Ensuring that take‑home pay orders are confined to the circumstances for which they are needed
 
-(1)       The FWC must not make a take‑home pay order in relation to an employee or class of employees if:
+(1)       FWA must not make a take‑home pay order in relation to an employee or class of employees if:
 
-                     (a)  the FWC considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
+                     (a)  FWA considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
 
-                     (b)  the FWC is satisfied that the employee or employees have been adequately compensated in other ways for the reduction.
+                     (b)  FWA is satisfied that the employee or employees have been adequately compensated in other ways for the reduction.
 
-(2)       The FWC must ensure that a take‑home pay order is expressed so that:
+(2)       FWA must ensure that a take‑home pay order is expressed so that:
 
                      (a)  it does not apply to an employee unless the employee has actually suffered a modernisation‑related reduction in take‑home pay; and
 
@@ -4841,13 +4835,13 @@ then, for the purposes of this Act, the current award is taken instead to consti
 
 ## 4  Making State reference public sector modern awards on application
 
-(1)       An employer or organisation that is covered by a State reference public sector transitional award (the **_current award_**) may apply to the FWC for the making of a State reference public sector modern award (the **_proposed award_**).
+(1)       An employer or organisation that is covered by a State reference public sector transitional award (the **_current award_**) may apply to FWA for the making of a State reference public sector modern award (the **_proposed award_**).
 
 (2)       The application may be made only during the period starting on the WR Act repeal day and ending at the end of 31 December 2013.
 
 (3)       The application must specify the employers, employees and organisations (the **_proposed parties_**) proposed to be covered by the proposed award.
 
-(4)       The FWC must consider the application, and must make a State reference public sector modern award covering the proposed parties if the FWC is satisfied that:
+(4)       FWA must consider the application, and must make a State reference public sector modern award covering the proposed parties if FWA is satisfied that:
 
                      (a)  the proposed parties are covered by State reference public sector transitional awards; and
 
@@ -4857,15 +4851,13 @@ _Note:       The proposed parties will cease to be covered by State 
 
 ## 5  Terminating State reference public sector transitional awards on application
 
-(1)       An employer or organisation that is covered by a State reference public sector transitional award (the **_current award_**) may apply to the FWC or the Commission to terminate the current award.
-
-_Note:       The Commission ceased to exist on 31 December 2009: see item 7 of Schedule 18._
+(1)       An employer or organisation that is covered by a State reference public sector transitional award (the **_current award_**) may apply to FWA or the Commission to terminate the current award.
 
 (2)       The application may be made only during the period starting on the WR Act repeal day and ending at the end of 31 December 2013.
 
-(3)       The FWC or the Commission must not terminate the current award unless the FWC or the Commission is satisfied that the employees who are covered by the current award will, if the current award is terminated, be covered by a modern award (other than the miscellaneous modern award) that, at the time of the termination, is or is likely to be in operation and that is appropriate for them.
+(3)       FWA or the Commission must not terminate the current award unless FWA or the Commission is satisfied that the employees who are covered by the current award will, if the current award is terminated, be covered by a modern award (other than the miscellaneous modern award) that, at the time of the termination, is or is likely to be in operation and that is appropriate for them.
 
-(4)       In deciding whether to terminate the current award, the FWC or the Commission must take into account the following:
+(4)       In deciding whether to terminate the current award, FWA or the Commission must take into account the following:
 
                      (a)  the circumstances that led to the making of the current award;
 
@@ -4879,21 +4871,23 @@ _Note:       The Commission ceased to exist on 31 December 2009: s
 
                       (f)  any other matter prescribed by the regulations.
 
-(5)       If the FWC or the Commission terminates the current award, the termination operates from the day specified in the decision to terminate the current award, being a day that is not earlier than the FW (safety net provisions) commencement day.
+(5)       If FWA or the Commission terminates the current award, the termination operates from the day specified in the decision to terminate the current award, being a day that is not earlier than the FW (safety net provisions) commencement day.
 
-(6)       If the Commission terminates the current award, the termination is taken, after the Commission has ceased to exist, to have been made by the FWC.
+(6)       If the Commission terminates the current award, the termination is taken, after the Commission has ceased to exist, to have been made by FWA.
 
-## 6  Further obligation of the FWC to make or vary State reference public sector modern awards at end of application period
+_Note:       Schedule 18 provides for when the Commission ceases to exist._
 
-If, at the end of the period referred to in subitem 4(2), there are one or more State reference public sector transitional awards that still cover some employers and employees, the FWC must make, or (in accordance with section 168L of the FW Act) vary the coverage of, one or more State reference public sector modern awards so that all those employers and employees are covered by State reference public sector modern awards.
+## 6  Further obligation of FWA to make or vary State reference public sector modern awards at end of application period
+
+If, at the end of the period referred to in subitem 4(2), there are one or more State reference public sector transitional awards that still cover some employers and employees, FWA must make, or (in accordance with section 168L of the FW Act) vary the coverage of, one or more State reference public sector modern awards so that all those employers and employees are covered by State reference public sector modern awards.
 
 _Note:       The employers and employees will cease to be covered by the State reference public sector transitional awards when they start to be covered by a State reference public sector modern award that is in operation: see item 29 of Schedule 3._
 
 ## 7  The State reference public sector modern awards objective
 
-(1)       If the FWC is required by item 4 or 6 to make a State reference public sector modern award, the modern awards objective and the minimum wages objective apply to the making of the modern award.
+(1)       If FWA is required by item 4 or 6 to make a State reference public sector modern award, the modern awards objective and the minimum wages objective apply to the making of the modern award.
 
-(2)       However, in applying the modern awards objective and the minimum wages objective, the FWC must recognise:
+(2)       However, in applying the modern awards objective and the minimum wages objective, FWA must recognise:
 
                      (a)  the need to facilitate arrangements for State reference public sector employers and State reference public sector employees that are appropriately adapted to the effective administration of a State; and
 
@@ -4953,7 +4947,7 @@ How coverage etc. is expressed
 
 (1)       If a State reference public sector modern award completely replaces a State reference public sector transitional award, the transitional award terminates when the modern award comes into operation.
 
-(2)       If a State reference public sector modern award partially replaces a State reference public sector transitional award, the FWC must, as soon as practicable after the modern award comes into operation, vary the transitional award so that employees who are covered by the modern award are no longer covered by the transitional award.
+(2)       If a State reference public sector modern award partially replaces a State reference public sector transitional award, FWA must, as soon as practicable after the modern award comes into operation, vary the transitional award so that employees who are covered by the modern award are no longer covered by the transitional award.
 
 (3)       For the purposes of this item:
 
@@ -4965,15 +4959,15 @@ _Note:       This item does not limit the effect of any other provis
 
 ## 11  Notification of the cut‑off for the State reference public sector transitional award modernisation process
 
-(1)       The FWC must, at least 6 months before the end of the period specified in subitem 4(2), advise any persons still covered by a State reference public sector transitional award:
+(1)       FWA must, at least 6 months before the end of the period specified in subitem 4(2), advise any persons still covered by a State reference public sector transitional award:
 
                      (a)  that the period for making applications under items 4 and 5 ends on 31 December 2013; and
 
-                     (b)  that the FWC will, at the end of that period, commence the State reference public sector transitional award modernisation process in relation to the transitional award for any employees and employers who are still covered by the transitional award at that time.
+                     (b)  that FWA will, at the end of that period, commence the State reference public sector transitional award modernisation process in relation to the transitional award for any employees and employers who are still covered by the transitional award at that time.
 
-(2)       The FWC may give that advice by any means it considers appropriate.
+(2)       FWA may give that advice by any means it considers appropriate.
 
-(3)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of the FWC) has effect as if subsection (2) of that section included a reference to the FWC’s functions and powers under this item.
+(3)       Section 625 of the FW Act (which deals with delegation by the President of functions and powers of FWA) has effect as if subsection (2) of that section included a reference to FWA’s functions and powers under this item.
 
 ## 12  Regulations dealing with other matters
 
@@ -5005,9 +4999,9 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
 ## 14  Orders remedying reductions in take‑home pay
 
-(1)       If the FWC is satisfied that an employee, or a class of employees, to whom a State reference public sector modern award applies has suffered a modernisation‑related reduction in take‑home pay, the FWC may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that the FWC considers appropriate to remedy the situation.
+(1)       If FWA is satisfied that an employee, or a class of employees, to whom a State reference public sector modern award applies has suffered a modernisation‑related reduction in take‑home pay, FWA may make any order (a **_take‑home pay order_**) requiring, or relating to, the payment of an amount or amounts to the employee or employees that FWA considers appropriate to remedy the situation.
 
-(2)       The FWC may make a take‑home pay order only on application by:
+(2)       FWA may make a take‑home pay order only on application by:
 
                      (a)  an employee who has suffered a modernisation‑related reduction in take‑home pay; or
 
@@ -5015,17 +5009,17 @@ _Note:       Deductions permitted by section 324 of the FW Act may
 
                      (c)  a person acting on behalf of a class of such employees.
 
-(3)       If the FWC is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, the FWC may dismiss any later application that is made under these provisions in relation to the same employee or employees.
+(3)       If FWA is satisfied that an application for a take‑home pay order has already been made in relation to an employee or a class of employees, FWA may dismiss any later application that is made under these provisions in relation to the same employee or employees.
 
 ## 15  Ensuring that take‑home pay orders are confined to the circumstances for which they are needed
 
-(1)       The FWC must not make a take‑home pay order in relation to an employee or class of employees if:
+(1)       FWA must not make a take‑home pay order in relation to an employee or class of employees if:
 
-                     (a)  the FWC considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
+                     (a)  FWA considers that the modernisation‑related reduction in take‑home pay is minor or insignificant; or
 
-                     (b)  the FWC is satisfied that the employee or employees have been adequately compensated in other ways for the reduction.
+                     (b)  FWA is satisfied that the employee or employees have been adequately compensated in other ways for the reduction.
 
-(2)       The FWC must ensure that a take‑home pay order is expressed so that:
+(2)       FWA must ensure that a take‑home pay order is expressed so that:
 
                      (a)  it does not apply to an employee unless the employee has actually suffered a modernisation‑related reduction in take‑home pay; and
 
@@ -5387,21 +5381,21 @@ Non‑greenfields agreements
 
 (2)       Despite section 193 of the FW Act, if the enterprise agreement is not a greenfields agreement, the agreement passes the better off overall test under that section only if:
 
-                     (a)  the FWC is satisfied as referred to in subsection (1) of that section in relation to the agreement; and
+                     (a)  FWA is satisfied as referred to in subsection (1) of that section in relation to the agreement; and
 
-                     (b)  the FWC is satisfied, as at the test time, that each unmodernised award covered employee, and each prospective unmodernised award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant award‑based transitional instrument and transitional APCS applied to the employee.
+                     (b)  FWA is satisfied, as at the test time, that each unmodernised award covered employee, and each prospective unmodernised award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant award‑based transitional instrument and transitional APCS applied to the employee.
 
 Greenfields agreements
 
 (3)       Despite section 193 of the FW Act, if the enterprise agreement is a greenfields agreement, the agreement passes the better off overall test under that section only if:
 
-                     (a)  the FWC is satisfied as referred to in subsection (3) of that section in relation to the agreement; and
+                     (a)  FWA is satisfied as referred to in subsection (3) of that section in relation to the agreement; and
 
-                     (b)  the FWC is satisfied, as at the test time, that each prospective unmodernised award covered employee for the agreement would be better off overall if the agreement applied to the employee than if the relevant award‑based transitional instrument and transitional APCS  applied to the employee.
+                     (b)  FWA is satisfied, as at the test time, that each prospective unmodernised award covered employee for the agreement would be better off overall if the agreement applied to the employee than if the relevant award‑based transitional instrument and transitional APCS  applied to the employee.
 
-FWC may assume employee better off overall in certain circumstances
+FWA may assume employee better off overall in certain circumstances
 
-(4)       For the purposes of determining whether an enterprise agreement passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant modern award or relevant award‑based transitional instrument and transitional APCS  applied to that class, the FWC is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
+(4)       For the purposes of determining whether an enterprise agreement passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant modern award or relevant award‑based transitional instrument and transitional APCS  applied to that class, FWA is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
 
 State reference transitional awards or common rules: transitional APCSs not relevant
 
@@ -5417,23 +5411,23 @@ _Note:       State reference transitional awards or common rules con
 
                      (b)  one or more of the employees who are covered by the agreement is an unmodernised award covered employee.
 
-(2)       Despite subsections 211(4) and (5) of the FW Act, subitems (3) and (4) apply in relation to the variation for the purposes of the FWC being satisfied that the agreement as proposed to be varied passes the better off overall test.
+(2)       Despite subsections 211(4) and (5) of the FW Act, subitems (3) and (4) apply in relation to the variation for the purposes of FWA being satisfied that the agreement as proposed to be varied passes the better off overall test.
 
 Modification of the better off overall test
 
-(3)       An enterprise agreement as proposed to be varied passes the better off overall test if the FWC is satisfied, as at the test time, that:
+(3)       An enterprise agreement as proposed to be varied passes the better off overall test if FWA is satisfied, as at the test time, that:
 
                      (a)  each award covered employee, and each prospective award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant modern award applied to the employee; and
 
                      (b)  each unmodernised award covered employee, and each prospective unmodernised award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant award‑based transitional instrument and transitional APCS applied to the employee.
 
-FWC may assume employee better off overall in certain circumstances
+FWA may assume employee better off overall in certain circumstances
 
-(4)       For the purposes of determining whether the enterprise agreement as proposed to be varied passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant modern award or relevant award‑based transitional instrument and transitional APCS  applied to that class, the FWC is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
+(4)       For the purposes of determining whether the enterprise agreement as proposed to be varied passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant modern award or relevant award‑based transitional instrument and transitional APCS  applied to that class, FWA is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
 
-FWC must disregard individual flexibility arrangement
+FWA must disregard individual flexibility arrangement
 
-(5)       For the purposes of determining whether an enterprise agreement as proposed to be varied passes the better off overall test, the FWC must disregard any individual flexibility arrangement that has been agreed to by an award covered employee and his or her employer under the flexibility term in the agreement.
+(5)       For the purposes of determining whether an enterprise agreement as proposed to be varied passes the better off overall test, FWA must disregard any individual flexibility arrangement that has been agreed to by an award covered employee and his or her employer under the flexibility term in the agreement.
 
 State reference transitional awards or common rules: transitional APCSs not relevant
 
@@ -5459,9 +5453,9 @@ In this Part:
 
 **_test time_**:
 
-                     (a)  for the purposes of item 18—means the time the application for approval of the agreement by the FWC was made under section 185 of the FW Act; and
+                     (a)  for the purposes of item 18—means the time the application for approval of the agreement by FWA was made under section 185 of the FW Act; and
 
-                     (b)  for the purposes of item 19—means the time the application for approval of the variation of the enterprise agreement by the FWC was made under section 210 of that Act.
+                     (b)  for the purposes of item 19—means the time the application for approval of the variation of the enterprise agreement by FWA was made under section 210 of that Act.
 
 **_unmodernised award covered employee_**, for an enterprise agreement, means an employee who:
 
@@ -5485,9 +5479,9 @@ Non‑greenfields agreements
 
 (2)       Despite section 193 of the FW Act, if the enterprise agreement is not a greenfields agreement, the agreement passes the better off overall test under that section only if:
 
-                     (a)  the FWC is satisfied as referred to in subsection (1) of that section, and paragraph (2)(b) of item 18 of this Schedule, in relation to the agreement (to the extent that those provisions are applicable); and
+                     (a)  FWA is satisfied as referred to in subsection (1) of that section, and paragraph (2)(b) of item 18 of this Schedule, in relation to the agreement (to the extent that those provisions are applicable); and
 
-                     (b)  the FWC is satisfied, as at the test time, that each Division 2B State award covered employee, and each prospective Division 2B State award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
+                     (b)  FWA is satisfied, as at the test time, that each Division 2B State award covered employee, and each prospective Division 2B State award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
 
 _Note:       Section 193 of the FW Act and item 18 of this Schedule deal with testing enterprise agreements against other instruments (such as modern awards). An enterprise agreement to which this subitem applies will not be tested against one or more such other instruments in relation to Division 2B State award covered employees._
 
@@ -5495,15 +5489,15 @@ Greenfields agreements
 
 (3)       Despite section 193 of the FW Act, if the enterprise agreement is a greenfields agreement, the agreement passes the better off overall test under that section only if:
 
-                     (a)  the FWC is satisfied as referred to in subsection (3) of that section and paragraph (3)(b) of item 18 of this Schedule in relation to the agreement (to the extent that those provisions are applicable); and
+                     (a)  FWA is satisfied as referred to in subsection (3) of that section and paragraph (3)(b) of item 18 of this Schedule in relation to the agreement (to the extent that those provisions are applicable); and
 
-                     (b)  the FWC is satisfied, as at the test time, that each prospective Division 2B State award covered employee for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
+                     (b)  FWA is satisfied, as at the test time, that each prospective Division 2B State award covered employee for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
 
 _Note:       Section 193 of the FW Act and item 18 of this Schedule deal with testing enterprise agreements against other instruments (such as modern awards). An enterprise agreement to which this subitem applies will not be tested against one or more such other instruments in relation to prospective Division 2B State award covered employees._
 
-FWC may assume employee better off overall in certain circumstances
+FWA may assume employee better off overall in certain circumstances
 
-(4)       For the purposes of determining whether an enterprise agreement passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant Division 2B State award applied to that class, the FWC is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
+(4)       For the purposes of determining whether an enterprise agreement passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant Division 2B State award applied to that class, FWA is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
 
 ## 20B  Application of better off overall test to variation of enterprise agreements that cover Division 2B State award covered employees
 
@@ -5513,27 +5507,27 @@ FWC may assume employee better off overall in certain circumstances
 
                      (b)  one or more of the employees covered by the agreement is a Division 2B State award covered employee.
 
-(2)       Despite subsections 211(4) and (5) of the FW Act, subitems (3) and (4) apply in relation to the variation for the purposes of the FWC being satisfied that the agreement as proposed to be varied passes the better off overall test.
+(2)       Despite subsections 211(4) and (5) of the FW Act, subitems (3) and (4) apply in relation to the variation for the purposes of FWA being satisfied that the agreement as proposed to be varied passes the better off overall test.
 
 Modification of the better off overall test
 
 (3)       An enterprise agreement as proposed to be varied passes the better off overall test only if:
 
-                     (a)  the FWC is satisfied, as at the test time, as mentioned in subitem 19(3) of this Schedule in relation to the agreement as proposed to be varied (to the extent that subitem 19(3) is applicable); and
+                     (a)  FWA is satisfied, as at the test time, as mentioned in subitem 19(3) of this Schedule in relation to the agreement as proposed to be varied (to the extent that subitem 19(3) is applicable); and
 
-                     (b)  the FWC is satisfied, as at the test time, that each Division 2B State award covered employee, and each prospective Division 2B State award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
+                     (b)  FWA is satisfied, as at the test time, that each Division 2B State award covered employee, and each prospective Division 2B State award covered employee, for the agreement would be better off overall if the agreement applied to the employee than if the relevant Division 2B State award applied to the employee.
 
 _Note:       Item 19 of this Schedule deals with testing enterprise agreements as proposed to be varied against other instruments (such as modern awards). A variation to which this subitem applies will not be tested against one or more such other instruments in relation to Division 2B State award covered employees._
 
-FWC may assume employee better off overall in certain circumstances
+FWA may assume employee better off overall in certain circumstances
 
-(4)       For the purposes of determining whether the enterprise agreement as proposed to be varied passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant Division 2B State award applied to that class, the FWC is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
+(4)       For the purposes of determining whether the enterprise agreement as proposed to be varied passes the better off overall test, if a class of employees to which a particular employee belongs would be better off if the agreement applied to that class than if the relevant Division 2B State award applied to that class, FWA is entitled to assume, in the absence of evidence to the contrary, that the employee would be better off overall if the agreement applied to the employee.
 
-FWC must disregard individual flexibility arrangement
+FWA must disregard individual flexibility arrangement
 
-(5)       For the purposes of determining whether an enterprise agreement as proposed to be varied passes the better off overall test, the FWC must disregard any individual flexibility arrangement that has been agreed to by a Division 2B State award covered employee and his or her employer under the flexibility term in the agreement.
+(5)       For the purposes of determining whether an enterprise agreement as proposed to be varied passes the better off overall test, FWA must disregard any individual flexibility arrangement that has been agreed to by a Division 2B State award covered employee and his or her employer under the flexibility term in the agreement.
 
-## 20C  Definitions
+## 20C  Definitions
 
 In this Part:
 
@@ -5563,9 +5557,9 @@ In this Part:
 
 **_test time_**:
 
-                     (a)  for the purposes of item 20A—means the time the application for approval of the enterprise agreement by the FWC was made under section 185 of the FW Act; and
+                     (a)  for the purposes of item 20A—means the time the application for approval of the enterprise agreement by FWA was made under section 185 of the FW Act; and
 
-                     (b)  for the purposes of item 20B—means the time the application for approval of the variation of the enterprise agreement by the FWC was made under section 210 of that Act.
+                     (b)  for the purposes of item 20B—means the time the application for approval of the variation of the enterprise agreement by FWA was made under section 210 of that Act.
 
 <h7 class="ActHead7">Part 5—Transitional provisions relating to workplace determinations made under the FW Act</h7>
 
@@ -5581,9 +5575,9 @@ Subsection 262(3) of the FW Act (which deals with a general requirement relating
 
                      (a)  the collective agreement‑based transitional instrument has ceased to operate; and
 
-                     (b)  the FWC considers that it is appropriate in the circumstances to make the workplace determination.
+                     (b)  FWA considers that it is appropriate in the circumstances to make the workplace determination.
 
-(3)       In making a decision for the purposes of paragraph (2)(b) of this item, the FWC must take into account the objects set out in section 241 of the FW Act.
+(3)       In making a decision for the purposes of paragraph (2)(b) of this item, FWA must take into account the objects set out in section 241 of the FW Act.
 
 ## 23  Core terms of workplace determinations—assessment of determination made during bridging period against the no disadvantage test
 
@@ -5669,7 +5663,7 @@ Meaning of **workplace determination**
 
                      (a)  an application for approval of the agreement or variation has been made under the FW Act; and
 
-                     (b)  the FWC must decide whether the agreement, or the agreement as proposed to be varied, passes the better off overall test; and
+                     (b)  FWA must decide whether the agreement, or the agreement as proposed to be varied, passes the better off overall test; and
 
                      (c)  an employer covered by the agreement, or the agreement as proposed to be varied, is an employer to which a transitional pay equity order applies; and
 
@@ -6467,7 +6461,7 @@ If a transitional minimum wage instrument terminates, it ceases to cover (and ca
 
 ## 10  Variation of transitional APCS in annual wage reviews under the FW Act
 
-(1)       In an annual wage review, the FWC may make a determination varying a transitional APCS.
+(1)       In an annual wage review, FWA may make a determination varying a transitional APCS.
 
 (2)       For that purpose, Division 3 of Part 2‑6 of the FW Act (other than section 292) applies to a transitional APCS in the same way as it applies to a modern award.
 
@@ -6537,9 +6531,9 @@ the base rate of pay payable to the employee under the transitional instrument (
 
 _Note:       The AFPCS interaction rules may affect the base rate of pay payable to an employee (see item 22 of Schedule 3)._
 
-## 14  FWC may make determinations to phase‑in the effect of rate increases resulting from item 13  etc.
+## 14  FWA may make determinations to phase‑in the effect of rate increases resulting from item 13  etc.
 
-(1)       On application by an employer to whom a transitional instrument applies, the FWC may make a determination the effect of which is to phase‑in the effect of increases in base rates of pay that would otherwise take effect on a particular day because of:
+(1)       On application by an employer to whom a transitional instrument applies, FWA may make a determination the effect of which is to phase‑in the effect of increases in base rates of pay that would otherwise take effect on a particular day because of:
 
                      (a)  item 13; or
 
@@ -6547,9 +6541,9 @@ _Note:       The AFPCS interaction rules may affect the base rate of
 
 _Note:       Under subitem 22(2) of Schedule 3, AFPCS interaction rules that provide for instruments to prevail over the Australian Fair Pay and Conditions Standard stop applying when the bridging period ends. That may result in an employee becoming entitled to a higher rate of pay under a transitional APCS._
 
-(2)       The FWC must not make a determination under this item in relation to an employer unless it is satisfied that the determination is necessary to ensure the ongoing viability of the employer’s enterprise.
+(2)       FWA must not make a determination under this item in relation to an employer unless it is satisfied that the determination is necessary to ensure the ongoing viability of the employer’s enterprise.
 
-(3)       Item 13, and subitem 22(2) of Schedule 3, have effect in relation to an employer subject to any determinations the FWC makes under this item.
+(3)       Item 13, and subitem 22(2) of Schedule 3, have effect in relation to an employer subject to any determinations FWA makes under this item.
 
 ## 15  Enterprise agreement base rate of pay not to be less than transitional minimum wage instrument rate
 
@@ -6609,13 +6603,13 @@ the base rate of pay payable to the employee under the Division 2B State emplo
 
 (4)       If the agreement rate is less than the employee’s order rate, the Division 2B State employment agreement has effect in relation to the employee as if the agreement rate were equal to the employee’s order rate.
 
-## 18  FWC may make determinations to phase‑in the effect of rate increases resulting from item 16 or 17  etc.
+## 18  FWA may make determinations to phase‑in the effect of rate increases resulting from item 16 or 17  etc.
 
-(1)       On application by an employer to whom a Division 2B State instrument applies, the FWC may make a determination the effect of which is to phase‑in the effect of increases in base rates of pay that would otherwise take effect on a particular day because of item 16 or 17.
+(1)       On application by an employer to whom a Division 2B State instrument applies, FWA may make a determination the effect of which is to phase‑in the effect of increases in base rates of pay that would otherwise take effect on a particular day because of item 16 or 17.
 
-(2)       The FWC must not make a determination under this item in relation to an employer unless it is satisfied that the determination is necessary to ensure the ongoing viability of the employer’s enterprise.
+(2)       FWA must not make a determination under this item in relation to an employer unless it is satisfied that the determination is necessary to ensure the ongoing viability of the employer’s enterprise.
 
-(3)       Items 16 and 17 have effect in relation to an employer subject to any determinations the FWC makes under this item.
+(3)       Items 16 and 17 have effect in relation to an employer subject to any determinations FWA makes under this item.
 
 ## 19  Award/agreement free Division 2B State reference employee not to be paid less than State minimum amount
 
@@ -6651,7 +6645,7 @@ the base rate of pay payable to the employee under the Division 2B State emplo
 
 ## 20  Variation of Division 2B State awards in annual wage reviews under the FW Act
 
-(1)       In an annual wage review, the FWC may make a determination varying terms of a Division 2B State award relating to wages.
+(1)       In an annual wage review, FWA may make a determination varying terms of a Division 2B State award relating to wages.
 
 (2)       For that purpose, Division 3 of Part 2‑6 of the FW Act (other than section 292) applies to terms of a Division 2B State award relating to wages in the same way as it applies to a modern award.
 
@@ -6707,7 +6701,7 @@ _Note:       A term of a modern award, an enterprise agreement or an
 
 continues to have effect on and after the WR Act repeal day.
 
-(2)       A WR Act equal remuneration order may be varied or revoked by the FWC under subsections 603(1) and (2) of the FW Act as if it were an order made under Part 2‑7 of the FW Act.
+(2)       A WR Act equal remuneration order may be varied or revoked by FWA under subsections 603(1) and (2) of the FW Act as if it were an order made under Part 2‑7 of the FW Act.
 
 ## 5  Inconsistency with certain instruments and orders
 
@@ -6725,7 +6719,7 @@ continues to have effect on and after the WR Act repeal day.
 
                      (b)  an enterprise agreement;
 
-                     (c)  an FWC order;
+                     (c)  an FWA order;
 
                      (d)  a transitional instrument that is an award or a State reference transitional award or common rule;
 
@@ -7139,7 +7133,7 @@ _Note:       Transfers of business affecting transitional instrument
 
 (6)       Paragraph 319(1)(b) of the FW Act applies in relation to the transfer of business as if the words “(other than an individual Division 2B State employment agreement)” were inserted after the words “a transferable instrument”.
 
-(7)       If a transferable instrument that is a Division 2B State award starts to cover the new employer in relation to the transfer of business as mentioned in paragraph 313(1)(a) of the FW Act, the FWC cannot make an order under paragraph 319(1)(c) of the FW Act.
+(7)       If a transferable instrument that is a Division 2B State award starts to cover the new employer in relation to the transfer of business as mentioned in paragraph 313(1)(a) of the FW Act, FWA cannot make an order under paragraph 319(1)(c) of the FW Act.
 
 ###### Schedule 12—General protections
 
@@ -7357,7 +7351,7 @@ apply, on and after the WR Act repeal day, in relation to an agreement‑based t
 
 _Note:       The effect of this provision is that an employee who is covered by an agreement‑based transitional instrument or a Division 2B State employment agreement may not organise or engage in industrial action until after the nominal expiry date of the instrument or agreement has passed. However, this does not apply to an individual agreement‑based transitional instrument, or an individual Division 2B State employment agreement, in relation to which a conditional termination has been made._
 
-(3)       For the purposes of subitem (1), the reference in subsection 417(1) of the FW Act to the day on which an enterprise agreement was approved by the FWC is taken to be a reference to the day on which the agreement‑based transitional instrument or the Division 2B State employment agreement became such an instrument or agreement.
+(3)       For the purposes of subitem (1), the reference in subsection 417(1) of the FW Act to the day on which an enterprise agreement was approved by FWA is taken to be a reference to the day on which the agreement‑based transitional instrument or the Division 2B State employment agreement became such an instrument or agreement.
 
 ## 5  Applications on foot under sections 496 and 497 of the WR Act
 
@@ -7527,7 +7521,7 @@ An authorised ballot agent in relation to a protected action ballot conducted be
 
 <h7 class="ActHead7">Part 5—Effect of conduct engaged in while bargaining for WR Act collective agreement or collective State employment agreement</h7>
 
-## 18  FWC may take into account conduct engaged in by bargaining representatives while bargaining for collective agreement
+## 18  FWA may take into account conduct engaged in by bargaining representatives while bargaining for collective agreement
 
 (1)       This item applies if:
 
@@ -7549,7 +7543,7 @@ An authorised ballot agent in relation to a protected action ballot conducted be
 
                      (d)  the employers who would be covered by the proposed enterprise agreement would have been bound by the proposed collective State employment agreement, had it come into operation.
 
-(2)       If this item applies because of subitem (1) or (1A), the FWC may take into account the conduct referred to in that subitem:
+(2)       If this item applies because of subitem (1) or (1A), FWA may take into account the conduct referred to in that subitem:
 
                      (a)  in deciding whether it is reasonable in all the circumstances to make a bargaining order or a scope order in relation to the proposed enterprise agreement; and
 
@@ -7641,9 +7635,9 @@ The FW Act applies as if:
 
                      (b)  the reference in paragraph 510(1)(d) of the FW Act to “this Act” (being the FW Act) included a reference to the WR Act as in force from time to time and the reference in that paragraph to “this Part” (being Part 3‑4 of the FW Act) included a reference to Part 15 of the WR Act; and
 
-                     (c)  the reference in paragraph 510(4)(a) of the FW Act to the FWC not having previously taken action under subsection (1) against the permit holder included a reference to the Registrar not having taken action against the permit holder under subsection 744(4) of the WR Act, as in force from time to time; and
+                     (c)  the reference in paragraph 510(4)(a) of the FW Act to FWA not having previously taken action under subsection (1) against the permit holder included a reference to the Registrar not having taken action against the permit holder under subsection 744(4) of the WR Act, as in force from time to time; and
 
-                     (d)  the references in paragraphs 510(4)(b) and (c) of the FW Act to the FWC having taken action under subsection (1) against the permit holder included a reference to the Registrar having taken action against the permit holder under subsection 744(4) of the WR Act, as in force from time to time.
+                     (d)  the references in paragraphs 510(4)(b) and (c) of the FW Act to FWA having taken action under subsection (1) against the permit holder included a reference to the Registrar having taken action against the permit holder under subsection 744(4) of the WR Act, as in force from time to time.
 
 ## 7  Continued application of WR Act
 
@@ -7651,7 +7645,7 @@ The FW Act applies as if:
 
 (2)       Any suspension or revocation of, or imposition of conditions on, an entry permit under the WR Act (as it continues to apply because of item 11 of Schedule 2) is also taken to have been done under the FW Act.
 
-(3)       Despite item 11 of Schedule 2, disputes about the operation of Part 15 of the WR Act that could, because of that item, have been dealt with under section 772 of that Act, may be dealt with only by the FWC under section 505 of the FW Act.
+(3)       Despite item 11 of Schedule 2, disputes about the operation of Part 15 of the WR Act that could, because of that item, have been dealt with under section 772 of that Act, may be dealt with only by FWA under section 505 of the FW Act.
 
 (4)       For the purposes of subitem (3), section 505 of the FW Act applies:
 
@@ -7709,7 +7703,7 @@ _Note 2:    An injunction may not be granted in relation to a contraventio
 
 _Note:       This subitem is a civil remedy provision (see item 16, and Part 4‑1 of the FW Act)._
 
-(2)       A bargaining representative who applies to the FWC for approval of an enterprise agreement must not contravene subitem 18(7) of Schedule 3.
+(2)       A bargaining representative who applies to FWA for approval of an enterprise agreement must not contravene subitem 18(7) of Schedule 3.
 
 _Note:       This subitem is a civil remedy provision (see item 16, and Part 4‑1 of the FW Act)._
 
@@ -7743,7 +7737,7 @@ _Note 2:    An injunction may not be granted in relation to a contraventio
 
 _Note:       This subitem is a civil remedy provision (see item 16, and Part 4‑1 of the FW Act)._
 
-(2)       A bargaining representative who applies to the FWC for approval of an enterprise agreement must not contravene subitem 25(7) of Schedule 3A.
+(2)       A bargaining representative who applies to FWA for approval of an enterprise agreement must not contravene subitem 25(7) of Schedule 3A.
 
 _Note:       This subitem is a civil remedy provision (see item 16, and Part 4‑1 of the FW Act)._
 
@@ -7947,9 +7941,9 @@ _Note:       This subitem is a civil remedy provision (see item 16
 
                      (c)  the employee has consented, in writing, to the disclosure.
 
-_Note 1:    Personal information given to the FWC, the Australian Electoral Commission or another protected action ballot agent under Division 8 of Part 3‑3 of the FW Act may be regulated under the Privacy Act 1988._
+_Note 1:    Personal information given to FWA, the Australian Electoral Commission or another protected action ballot agent under Division 8 of Part 3‑3 of the FW Act may be regulated under the Privacy Act 1988._
 
-_Note 2:    The President of the FWC may, in certain circumstances, disclose, or authorise the disclosure of, information acquired by the FWC or a member of the staff of the FWC, in the course of performing functions or exercising powers as the FWC (see section 655 of the FW Act)._
+_Note 2:    The President of FWA may, in certain circumstances, disclose, or authorise the disclosure of, information acquired by FWA or a member of the staff of FWA, in the course of performing functions or exercising powers as FWA (see section 655 of the FW Act)._
 
 (3)       In this item:
 
@@ -7983,7 +7977,7 @@ _Note:       This subitem is a civil remedy provision (see item 16
 
 _Note 1:    If the protected ballot information is personal information, it may be regulated under the Privacy Act 1988._
 
-_Note 2:    The President of the FWC may, in certain circumstances, disclose, or authorise the disclosure of, information acquired by the FWC or a member of the staff of the FWC, in the course of performing functions or exercising powers as the FWC (see section 655 of the FW Act)._
+_Note 2:    The President of FWA may, in certain circumstances, disclose, or authorise the disclosure of, information acquired by FWA or a member of the staff of FWA, in the course of performing functions or exercising powers as FWA (see section 655 of the FW Act)._
 
 (3)       In this item:
 
@@ -9456,15 +9450,9 @@ _Note:       The terms and conditions of a person who is taken to ha
 
 Section 609 of the FW Act has effect, in relation to any time at which the President is the only FWA Member, as if the words “After consulting the other FWA Members,” were omitted from subsection (1) of that section.
 
-## 4  Seniority of FWA members who become FWC members
+## 4  Seniority of FWA Members
 
-For the purposes of section 619 of the FW Act, the seniority of persons who:
-
-                     (a)  are taken to have been appointed as Deputy Presidents of FWA under item 1 of this Schedule; and
-
-                     (b)  continue to hold office as Deputy Presidents of the FWC under Part 9 of Schedule 3 to the FW Act;
-
-is to be determined in accordance with the precedence assigned to them as members of the Commission under section 65 of the WR Act.
+The seniority of persons taken to be appointed as Deputy Presidents of FWA under item 1 of this Schedule is, for the purposes of section 619 of the FW Act, to be determined in accordance with the precedence assigned to them as members of the Commission under section 65 of the WR Act.
 
 ## 5  Procedural rules
 
@@ -9737,7 +9725,7 @@ _Note:       As an example of the effect of this Act, at the cessati
 
 ## 9  Information acquired under WR Act
 
-Section 655 of the FW Act has effect as if information acquired, before the WR Act repeal day, by a WR Act body or a person holding a WR Act office in the course of performing functions or exercising powers as such a body or in such an office were information acquired by the FWC in the course of performing functions or exercising powers as the FWC.
+Section 655 of the FW Act has effect as if information acquired, before the WR Act repeal day, by a WR Act body or a person holding a WR Act office in the course of performing functions or exercising powers as such a body or in such an office were information acquired by FWA in the course of performing functions or exercising powers as FWA.
 
 _Note:       Item 16 makes provision for information acquired by a member of the Office of the Workplace Ombudsman to be treated, for the purposes of section 718 of the FW Act, as if it were acquired by the Fair Work Ombudsman._
 
@@ -9821,19 +9809,19 @@ _Note:       Item 16 makes provision for information acquired by a
 
 (2)       The Fair Work Ombudsman may enter into an arrangement with the Workplace Authority Director to provide assistance to the Workplace Authority Director for the purpose of performing functions on and after the WR Act repeal day.
 
-## 11  Performance of functions etc. after cessation time
+## 11  Transfer of functions to FWA at cessation time
 
-(1)       After the cessation time for a WR Act body or a WR Act office, the powers, functions and duties of the body or office are to be exercised and performed by the FWC.
+(1)       After the cessation time for a WR Act body or a WR Act office, the powers, functions and duties of the body or office are to be exercised and performed by FWA.
 
 _Note:       For WR Act body, WR Act office and cessation time, see subitem 7(1)._
 
 (2)       For the purposes of subitem (1), a law of the Commonwealth that relates to the body or office is, for the purposes of its application after the cessation time, to be read:
 
-                     (a)  as if a reference to the body or office were a reference to the FWC, as necessary; and
+                     (a)  as if a reference to the body or office were a reference to FWA, as necessary; and
 
                      (b)  with any other necessary modifications.
 
-(3)       Despite subitem (1), the Minister may, by writing, determine that a power, function or duty of a WR Act body or a WR Act office is to be exercised or performed, after the cessation time for the body or office, by a body or person other than the FWC.
+(3)       Despite subitem (1), the Minister may, by writing, determine that a power, function or duty of a WR Act body or a WR Act office is to be exercised or performed, after the cessation time for the body or office, by a body or person other than FWA.
 
 (4)       A determination under subitem (3):
 
@@ -9841,7 +9829,7 @@ _Note:       For WR Act body, WR Act office and cessation time, see 
 
                      (b)  is not a legislative instrument.
 
-(5)       If the FWC, or another body or person, deals after the cessation time for a WR Act body or a WR Act office with a matter that was being dealt with by the WR Act body or a person holding the WR Act office, the FWC or the other body or person, as the case requires, must take into account everything done by, or in relation to, the WR Act body or a person holding the WR Act office, in relation to the matter.
+(5)       If FWA, or another body or person, deals after the cessation time for a WR Act body or a WR Act office with a matter that was being dealt with by the WR Act body or a person holding the WR Act office, FWA or the other body or person, as the case requires, must take into account everything done by, or in relation to, the WR Act body or a person holding the WR Act office, in relation to the matter.
 
 ## 11A  Workplace inspectors to become Fair Work Inspectors
 
@@ -9975,11 +9963,11 @@ Section 844 of the WR Act continues to apply, on and after the WR Act repeal d
 
 ## 20A  Report about unfair dismissal
 
-(1)       The General Manager of the FWC must prepare a written report about the first 3 years operation of the unfair dismissal system.
+(1)       The General Manager of FWA must prepare a written report about the first 3 years operation of the unfair dismissal system.
 
 (2)       The report must deal with the experiences employers, and in particular small and medium‑sized enterprise employers, and employees have had with the unfair dismissal system.
 
-(3)       To prepare the report, the General Manager of the FWC may do the following:
+(3)       To prepare the report, the General Manager of FWA may do the following:
 
                      (a)  seek public submissions;
 
@@ -10001,19 +9989,19 @@ Section 844 of the WR Act continues to apply, on and after the WR Act repeal d
 
                      (e)  the number of applicants found to have been unfairly dismissed, and of those applicants:
 
-                              (i)  the number whose reinstatement was ordered by the FWC; and
+                              (i)  the number whose reinstatement was ordered by FWA; and
 
-                             (ii)  the number awarded compensation by the FWC, and the amounts of that compensation; and
+                             (ii)  the number awarded compensation by FWA, and the amounts of that compensation; and
 
                             (iii)  the number dismissed by a small business employer; and
 
-                      (f)  the number of unfair dismissal applications that were made after the period of 14 days specified in paragraph 394(2)(a) of the FW Act and the number of those applications that were allowed by the FWC under subsection 394(3) of the FW Act; and
+                      (f)  the number of unfair dismissal applications that were made after the period of 14 days specified in paragraph 394(2)(a) of the FW Act and the number of those applications that were allowed by FWA under subsection 394(3) of the FW Act; and
 
                      (g)  the number of unfair dismissal applications discontinued, and the stages at which those applications were discontinued; and
 
                      (h)  the amounts of compensation paid, or the other remedies provided, when unfair dismissal applications were settled.
 
-(5)       The General Manager of the FWC must give the Minister the report as soon as practicable and, in any event, within 6 months after the end of the period mentioned in subitem (1).
+(5)       The General Manager of FWA must give the Minister the report as soon as practicable and, in any event, within 6 months after the end of the period mentioned in subitem (1).
 
 (6)       The Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
 
@@ -10143,13 +10131,13 @@ Repeal the Schedule.
 
 (2)       The WR Act applies in relation to a dispute mentioned in any of paragraphs (1)(a) to (c) in the way that it applied, before the WR Act repeal day, in relation to a like dispute.
 
-## 2  Disputes to be dealt with by the FWC
+## 2  Disputes to be dealt with by FWA
 
-(1)       Anything that could, or would, have been done by, or in relation to, the Commission or the Industrial Registrar because of item 1 may only be done by, or in relation to, the FWC.
+(1)       Anything that could, or would, have been done by, or in relation to, the Commission or the Industrial Registrar because of item 1 may only be done by, or in relation to, FWA.
 
 (2)       For the purposes of subitem (1), the WR Act is to be read:
 
-                     (a)  as if a reference to the Commission or the Industrial Registrar were a reference to the FWC, as necessary; and
+                     (a)  as if a reference to the Commission or the Industrial Registrar were a reference to FWA, as necessary; and
 
                      (b)  with any other necessary modifications.
 
@@ -10161,7 +10149,7 @@ Repeal the Schedule.
 
 (4)       Subitem (1) applies despite subsection 595(1) of the FW Act.
 
-_Note:       That subsection allows the FWC to deal with a dispute only if the FWC is expressly authorised to do so under the FW Act._
+_Note:       That subsection allows FWA to deal with a dispute only if FWA is expressly authorised to do so under the FW Act._
 
 ###### Schedule 20—WR Act transitional awards etc.
 
@@ -10179,21 +10167,21 @@ _Note 1:    In addition to provisions of this Schedule, Part 3 of Schedu
 
 _Note 2:    Compliance with continuing Schedule 6 instruments is dealt with in Schedule 16._
 
-## 2  General modifications of references to the Australian Industrial Relations Commission etc.<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+## 2  General modifications of references to the Australian Industrial Relations Commission etc.
 
 (1)       Continued Schedule 6 applies as if:
 
-                     (a)  a reference in that Schedule to the Australian Industrial Relations Commission (or the Commission) were a reference to the FWC; and
+                     (a)  a reference in that Schedule to the Australian Industrial Relations Commission (or the Commission) were a reference to FWA; and
 
-                     (b)  without limiting paragraph (a)—a reference in that Schedule to a member of the Commission (or a Commissioner) were a reference to an FWC member; and
+                     (b)  without limiting paragraph (a)—a reference in that Schedule to a member of the Commission (or a Commissioner) were a reference to an FWA member; and
 
-                     (c)  a reference in that Schedule to the President were a reference to the President of the FWC; and
+                     (c)  a reference in that Schedule to the President were a reference to the President of FWA; and
 
-                     (d)  a reference in that Schedule to a Presidential Member were a reference to the President, or a Deputy President, of the FWC; and
+                     (d)  a reference in that Schedule to a Presidential Member were a reference to the President, or a Deputy President, of FWA; and
 
-                     (e)  a reference in that Schedule to a Full Bench were a reference to a Full Bench of the FWC; and
+                     (e)  a reference in that Schedule to a Full Bench were a reference to a Full Bench of FWA; and
 
-                      (f)  a reference in that Schedule to a Registrar or the Industrial Registrar were a reference to the General Manager of the FWC; and
+                      (f)  a reference in that Schedule to a Registrar or the Industrial Registrar were a reference to the General Manager of FWA; and
 
                      (g)  from the time when FWA completes its first annual wage review:
 
@@ -10201,7 +10189,7 @@ _Note 2:    Compliance with continuing Schedule 6 instruments is dealt w
 
                              (ii)  without limiting subparagraph (i)—a reference in  that Schedule to wage‑setting decisions of the AFPC were a reference to determinations made by FWA in annual wage reviews; and
 
-                     (h)  a reference in that Schedule to the Rules of the Commission were a reference to the procedural rules of the FWC; and
+                     (h)  a reference in that Schedule to the Rules of the Commission were a reference to the procedural rules of FWA; and
 
                       (i)  a reference to “this Act” (being the WR Act) in any of the following provisions of that Schedule were a reference to “this Act” as defined in section 12 of the FW Act:
 
@@ -10217,11 +10205,11 @@ _Note 2:    Compliance with continuing Schedule 6 instruments is dealt w
 
 _Note:       For example, paragraph (1)(a) does not apply if the reference is to something that the Australian Industrial Relations Commission did before the WR Act repeal day (or before the reform commencement)._
 
-## 3  Modifications relating to how the FWC is to perform functions under continued Schedule 6
+## 3  Modifications relating to how FWA is to perform functions under continued Schedule 6
 
-(1)       Section 578 of the FW Act applies to the performance of the FWC’s functions under continued Schedule 6 as if the reference in paragraph 578(a) to “the objects of this Act, and any objects of the part of the Act” were a reference to the objects of continued Schedule 6.
+(1)       Section 578 of the FW Act applies to the performance of FWA’s functions under continued Schedule 6 as if the reference in paragraph 578(a) to “the objects of this Act, and any objects of the part of the Act” were a reference to the objects of continued Schedule 6.
 
-(2)       Sections 589 to 597 of the FW Act do not apply to the performance of the FWC’s functions under this Schedule.
+(2)       Sections 589 to 597 of the FW Act do not apply to the performance of FWA’s functions under this Schedule.
 
 ## 4  Modifications relating to transmission of business
 
@@ -10257,7 +10245,7 @@ Clause 3 of continued Schedule 6 has effect as if:
 
 ## 7  Modifications relating to secret ballots
 
-(1)       The new ballots compliance provisions (see subitem (2)) apply in relation to a secret ballot ordered by the FWC under continued Schedule 6 as if:
+(1)       The new ballots compliance provisions (see subitem (2)) apply in relation to a secret ballot ordered by FWA under continued Schedule 6 as if:
 
                      (a)  the order were a protected action ballot order; and
 
@@ -10459,7 +10447,7 @@ Insert:
 
                     <a name="fwa-member"></a>**_FWA Member_** has the same meaning as in the Fair Work Act, but does not include a Minimum Wage Panel Member (within the meaning of that Act).
 
-## 19  Section 6 of Schedule 1
+## 19  Section 6 of Schedule 1
 
 Insert:
 
@@ -10885,7 +10873,7 @@ Insert:
 
 ##### <a id="154A"></a>154A  Branch autonomy
 
-                   The rules of an organisation may provide for the autonomy of a branch in matters affecting members of the branch only and matters concerning the participation of the branch in a State workplace relations system.
+                   The rules of an organisation may provide for the autonomy of a branch in matters affecting members of the branch only and matters concerning the participation of the branch in a State workplace relations system.
 
 ##### <a id="154B"></a>154B  Branch funds
 
@@ -11331,7 +11319,7 @@ a reference in this section to the organisation includes a reference to the asso
 
                    An order under subsection 137A(1) or (2) may be subject to conditions or limitations.
 
-##### <a id="137E"></a>137E  Organisation must comply with order
+##### <a id="137E"></a>137E  Organisation must comply with order
 
              (1)  An organisation to which an order under subsection 137A(1) or (2) applies must comply with the order.
 
@@ -12071,7 +12059,7 @@ Omit “the Commission”, substitute “FWA”.
 
 Omit “The Commission”, substitute “FWA”.
 
-## 258  Paragraph 19(1)(e) of Schedule 1
+## 258  Paragraph 19(1)(e) of Schedule 1
 
 Omit “the Commission”, substitute “FWA”.
 
@@ -12473,7 +12461,7 @@ Omit “the Commission”, substitute “FWA”.
 
 _Note:       The heading to section 157 of Schedule 1 is altered by omitting “Commission” and substituting “FWA”._
 
-## 351  Subsection 157(1) of Schedule 1
+## 351  Subsection 157(1) of Schedule 1
 
 Omit “the Commission’s”, substitute “FWA’s”.
 
@@ -12741,7 +12729,7 @@ Omit “Industrial Registrar”, substitute “General Manager”.
 
 Omit “a Registrar”, substitute “the General Manager”.
 
-## 411  Section 31 of Schedule 1
+## 411  Section 31 of Schedule 1
 
 Omit “Industrial Registrar”, substitute “General Manager”.
 
@@ -13027,7 +13015,7 @@ _Note:       The heading to section 233 of Schedule 1 is altered
 
 Omit “a Registrar”, substitute “the General Manager”.
 
-## 479  Subsection 234(4) of Schedule 1
+## 479  Subsection 234(4) of Schedule 1
 
 Omit “A Registrar”, substitute “The General Manager”.
 
@@ -13291,7 +13279,7 @@ Omit “a Registrar”, substitute “the General Manager”.
 
 _Note:       The heading to section 331 of Schedule 1 is altered by omitting “Registrar” and substituting “General Manager”._
 
-## 541  Subsection 331(1) of Schedule 1
+## 541  Subsection 331(1) of Schedule 1
 
 Omit “the Registrar”, substitute “the General Manager”.
 
@@ -13493,7 +13481,7 @@ Omit “a collective agreement” (first occurring), substitute “an enterprise
 
 Omit “an award” (second occurring), substitute “a modern award”.
 
-## 588  Subparagraph 28(1)(a)(i) of Schedule 1
+## 588  Subparagraph 28(1)(a)(i) of Schedule 1
 
 Omit “a collective agreement” (second occurring), substitute “an enterprise agreement”.
 
@@ -13774,8 +13762,6 @@ Repeal the paragraphs, substitute:
   </td>
 </tr></table>
 
-_Note:       For how the thing has effect after the commencement of Part 1 of Schedule 9 to the Fair Work Amendment Act 2012 (which changes the name of Fair Work Australia to become the Fair Work Commission, etc.), see Part 10 of Schedule 3 to the FW Act._
-
 (2)       Without limiting subitem (1), a reference in that subitem to a thing being done in relation to a person or body includes a reference to:
 
                      (a)  an application, request, statement, objection, disclosure, direction or referral being made or given to, or lodged with, the person or body; and
@@ -13914,8 +13900,6 @@ _Note:       For how the thing has effect after the commencement of 
   </td>
 </tr></table>
 
-_Note:       For how the instrument has effect after the commencement of Part 1 of Schedule 9 to the Fair Work Amendment Act 2012 (which changes the name of Fair Work Australia to become the Fair Work Commission, etc.), see section 25B of the Acts Interpretation Act 1901._
-
 (2)       Subject to subitem (3), a reference in the instrument to a provision of Schedule 1 to the WR Act is to be construed, after the commencement of this item, as a reference to the same provision of the _Fair Work (Registered Organisations) Act 2009_.
 
 (3)       Subitem (2) does not apply to a reference that is expressed as a reference to a provision as in force at a time that is before the commencement of this item.
@@ -13938,7 +13922,7 @@ The _Fair Work (Registered Organisations) Act 2009_ applies as if:
 
 ## 624  Register of organisations kept under paragraph 13(1)(a) of Schedule 1 to the WR Act
 
-The register of organisations kept by the Industrial Registry under paragraph 13(1)(a) of Schedule 1 to the WR Act in its form immediately before the commencement of this item is taken, after that commencement, to be the register of organisations kept by the FWC under paragraph 13(1)(a) of the _Fair Work (Registered Organisations) Act 2009_.
+The register of organisations kept by the Industrial Registry under paragraph 13(1)(a) of Schedule 1 to the WR Act in its form immediately before the commencement of this item is taken, after that commencement, to be the register of organisations kept by FWA under paragraph 13(1)(a) of the _Fair Work (Registered Organisations) Act 2009_.
 
 ## 625  Application of paragraph 73(2)(c) of Schedule 1 to the WR Act
 
@@ -14301,7 +14285,7 @@ of Assent</div>
     <div>25 June 2009</div>
   </td>
   <td>
-    <div><i>See</i>s. 2(1)</div>
+    <div><i>See</i>s.2(1)</div>
   </td>
   <td>
     <div></div>
@@ -14389,7 +14373,7 @@ Schedule 3 (items 17A–17E): Royal Assent</div>
     <div>4 Dec 2012</div>
   </td>
   <td>
-    <div>Schedule 9 (items 1096–1258): 1 Jan 2013</div>
+    <div>Schedule 9 (items 1096–1258): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -14588,7 +14572,7 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
     <div>Item 2</div>
   </td>
   <td>
-    <div>am. Nos. 54 and 124, 2009; No. 174, 2012</div>
+    <div>am. Nos. 54 and 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14617,26 +14601,10 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div>Heading to item 12</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 12</div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14705,14 +14673,6 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 8A</div>
   </td>
   <td>
@@ -14721,26 +14681,10 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -14756,15 +14700,7 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
     <div>Item 11</div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -14777,62 +14713,6 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 16</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 17</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to item 18(7)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 19</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 19</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 20</div>
   </td>
   <td>
@@ -14841,50 +14721,10 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 22(2)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 5</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 23</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 26</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -15065,22 +14905,6 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 8(2)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 9</div>
   </td>
   <td>
@@ -15129,14 +14953,6 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 14</div>
   </td>
   <td>
@@ -15177,151 +14993,7 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div>Item 18</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 19</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 21</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 22</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 23</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 23</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 24</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 25</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to item 25(7)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 26</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 26</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 27</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 28</div>
+    <div>Items 18–28</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
@@ -15377,63 +15049,7 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div>Item 31</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 32</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 33</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 34</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 35</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 36</div>
+    <div>Items 31–36</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
@@ -15457,50 +15073,10 @@ _(a)_ Subsection 2(1) (items 5–7) of the _Fair Work (State Referral and Conseq
 </tr>
 <tr>
   <td>
-    <div>Item 37</div>
+    <div>Items 37–40</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 38</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 39</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 40</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -15654,7 +15230,7 @@ of Schedule 4</div>
     <div>Item 3</div>
   </td>
   <td>
-    <div>am. No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -15677,22 +15253,6 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 5(1)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to item 6</div>
   </td>
   <td>
@@ -15704,47 +15264,7 @@ No. 54, 2009</div>
     <div>Item 6</div>
   </td>
   <td>
-    <div>am. No. 54, 2009; No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 6(1)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -15789,46 +15309,6 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 5</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to item 9</div>
   </td>
   <td>
@@ -15840,7 +15320,7 @@ No. 54, 2009</div>
     <div>Item 9</div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -15849,38 +15329,6 @@ No. 54, 2009</div>
   </td>
   <td>
     <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -15957,26 +15405,10 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Item 3</div>
+    <div>Items 3, 4</div>
   </td>
   <td>
     <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -15992,116 +15424,12 @@ No. 54, 2009</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to item 5(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 5(6)</div>
-  </td>
-  <td>
-    <div>rep. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 6</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 8</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 11</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
+    <div>Items 6–12</div>
   </td>
   <td>
     <div>ad. No. 54, 2009</div>
@@ -16117,63 +15445,7 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 14</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 15</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 16</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 17</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18</div>
+    <div>Items 13–18</div>
   </td>
   <td>
     <div>ad. No. 54, 2009</div>
@@ -16269,50 +15541,10 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to item 18(4)</div>
+    <div>Items 18, 19</div>
   </td>
   <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009; No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to item 19(4)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to item 19(5)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 19</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009; No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -16333,74 +15565,10 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to item 20A(4)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20A</div>
+    <div>Items 20A–20C</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to item 20B(4)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to item 20B(5)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16417,14 +15585,6 @@ No. 54, 2009</div>
   </td>
   <td>
     <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 22</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16457,14 +15617,6 @@ No. 54, 2009</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16533,22 +15685,6 @@ No. 54, 2009</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -16562,22 +15698,6 @@ of Schedule 9</div>
   </td>
   <td>
     <div>rs. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 14</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 14</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16606,47 +15726,7 @@ of Schedule 9</div>
 </tr>
 <tr>
   <td>
-    <div>Item 16</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 17</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 18</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 19</div>
+    <div>Items 16–19</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
@@ -16666,14 +15746,6 @@ of Schedule 9</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16710,18 +15782,10 @@ of Schedule 9</div>
 </tr>
 <tr>
   <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 5</div>
   </td>
   <td>
-    <div>am. No. 54, 2009; No. 174, 2012</div>
+    <div>am. No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -16816,34 +15880,10 @@ of Schedule 11</div>
 </tr>
 <tr>
   <td>
-    <div>Item 14</div>
+    <div>Items 14–16</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 15</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 16</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -16955,7 +15995,7 @@ of Schedule 11</div>
     <div>Item 4</div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -17020,7 +16060,7 @@ of Schedule 13</div>
     <div>Heading to item 18</div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -17028,7 +16068,7 @@ of Schedule 13</div>
     <div>Item 18</div>
   </td>
   <td>
-    <div>am. No. 124, 2009; No. 174, 2012</div>
+    <div>am. No. 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -17065,22 +16105,6 @@ of Schedule 13</div>
 </tr>
 <tr>
   <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 15</b></div>
   </td>
   <td>
@@ -17105,34 +16129,10 @@ of Schedule 13</div>
 </tr>
 <tr>
   <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4A</div>
+    <div>Items 4A, 4B</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -17145,42 +16145,10 @@ of Schedule 13</div>
 </tr>
 <tr>
   <td>
-    <div>Item 12</div>
+    <div>Items 12, 13</div>
   </td>
   <td>
     <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to item 12(2)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to item 12(2)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>am. No. 124, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to item 13(2)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -17197,54 +16165,6 @@ of Schedule 13</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>rs. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 11</div>
-  </td>
-  <td>
-    <div>rs. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 11</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -17284,39 +16204,7 @@ of Schedule 13</div>
     <div>Item 20A</div>
   </td>
   <td>
-    <div>am. No. 5, 2011; No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 19</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 2</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 2(4)</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
+    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -17333,38 +16221,6 @@ of Schedule 13</div>
   </td>
   <td>
     <div>rs. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to item 3</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -17401,51 +16257,697 @@ of Schedule 13</div>
 </tr>
 <tr>
   <td>
-    <div>Note to item 621(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to item 622(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 623A</div>
   </td>
   <td>
     <div>ad. No. 124, 2009</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 624</div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
 </tr></table>
 
 ### Note 2
 
-Subitem 3(6) of Schedule 5 and paragraph 2(1)(g) of Schedule 20—Schedule 9 (items 1144 and 1252) of the _Fair Work Amendment Act 2012_ (No. 174, 2012) provide as follows:
+_Fair Work Amendment Act 2012 (No. 174, 2012)_
+
+The following amendments commence on 1 January 2013:
 
 ## Schedule 9
+
+## 1096  Item 2 of Schedule 2
+
+Insert:
+
+                    <a name="fwa"></a>**_FWA_**: see Fair Work Australia.
+
+## 1097  Item 2 of Schedule 2
+
+Insert:
+
+                    <a name="fwa"></a><a name="fair-work-australia"></a>**_Fair Work Australia_** or **_FWA_** means the body referred to in section 575 of the FW Act, as in force immediately before the commencement of Part 1 of Schedule 9 to the _Fair Work Amendment Act 2012_.
+
+## 1098  Item 2 of Schedule 2
+
+Insert:
+
+                    <a name="fwa-member"></a>**_FWA member_** has the same meaning as in the FW Act, as in force immediately before the commencement of Part 1 of Schedule 9 to the _Fair Work Amendment Act 2012_.
+
+## 1099  Item 12 of Schedule 2 (heading)
+
+Omit “**FWA**”, substitute “**FWC**”.
+
+## 1100  Items 12 and 13 of Schedule 2
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1101  Subitems 6(1) and (2) of Schedule 3
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1102  Paragraphs 8A(2)(b), (c) and (d) of Schedule 3
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1103  Subitems 10(1), 11(1) and 12(1) of Schedule 3
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1104  Subitem 12(2) of Schedule 3
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1105  Paragraphs 12(3)(b) and 12A(1)(a) of Schedule 3
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1106  Subitem 12A(3) of Schedule 3
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1107  Subitems 12A(4) and (5) of Schedule 3
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1108  Item 16 of Schedule 3 (heading)
+
+Omit “**FWA**”, substitute “**the** **FWC**”.
+
+## 1109  Subitems 17(2), (3) and (4) of Schedule 3
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1110  Subitem 18(7) of Schedule 3
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1111  Item 19 of Schedule 3 (heading)
+
+Omit “**FWA’s**”, substitute “**the** **FWC’s**”.
+
+## 1112  Paragraphs 19(2)(b), (3)(b) and (c) of Schedule 3
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1113  Subitem 19(4) of Schedule 3
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1114  Subitem 19(4) of Schedule 3
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1115  Subitem 19(5) of Schedule 3
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1116  Subitem 22(2) of Schedule 3 (note)
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1117  Subitems 23(1A) and 26(1) of Schedule 3
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1118  Subitem 8(2) of Schedule 3A (note)
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1119  Paragraph 8(2A)(b) of Schedule 3A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1120  Subitem 8(3) of Schedule 3A
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1121  Items 13, 19 and 20 of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1122  Item 23 of Schedule 3A (heading)
+
+Omit “**FWA**”, substitute “**the** **FWC**”.
+
+## 1123  Items 24 and 25 of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1124  Item 26 of Schedule 3A (heading)
+
+Omit “**FWA’s**”, substitute “**the** **FWC’s**”.
+
+## 1125  Subitems 26(2) and (3) of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1126  Subitem 26(4) of Schedule 3A
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1127  Subitem 26(4) of Schedule 3A
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1128  Subitem 26(5) of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1129  Subitems 32(1) and (2) of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1130  Subitem 32(3) of Schedule 3A
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1131  Subitem 32(4) of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1132  Subitem 33(1) of Schedule 3A
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1133  Paragraphs 33(1)(a) and (b) of Schedule 3A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1134  Subitem 33(2) of Schedule 3A
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1135  Subitem 37(2) of Schedule 3A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1136  Subitem 40(1) of Schedule 3A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1137  Subitem 3(1) of Schedule 5
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1138  Paragraphs 3(1)(a) and (b) of Schedule 5
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1139  Subitems 3(2) and (3) of Schedule 5
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1140  Subitem 3(4) of Schedule 5
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1141  Subitem 3(5) of Schedule 5
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1142  Subitem 3(5) of Schedule 5
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1143  Subitem 3(6) of Schedule 5
+
+Omit “FWA”, substitute “the FWC”.
 
 ## 1144  Subitem 3(6) of Schedule 5
 
 Omit “FWC’s”, substitute “the FWC’s”.
 
+## 1145  Subitem 5(1) of Schedule 5
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1146  Subitem 5(2) of Schedule 5
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1147  Subitems 6(1), (2) and (2A) of Schedule 5
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1148  Subitem 6(3) of Schedule 5
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1149  Subitem 6(3) of Schedule 5
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1150  Subitem 6(4) of Schedule 5
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1151  Subitem 6(5) of Schedule 5
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1152  Subitem 6(5) of Schedule 5
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1153  Subitem 6(6) of Schedule 5
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1154  Subitem 6(6) of Schedule 5
+
+Omit “FWA’s”, substitute “the FWC’s”.
+
+## 1155  Subitem 7(1) of Schedule 5
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1156  Subitems 9(1) and (2) of Schedule 5
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1157  Subitem 9(3) of Schedule 5
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1158  Subitem 9(4) of Schedule 5
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1159  Subitem 10(1) of Schedule 5
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1160  Paragraphs 10(1)(a) and (b) of Schedule 5
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1161  Subitem 10(2) of Schedule 5
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1162  Subitems 4(2), (5) and (5A) of Schedule 6
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1163  Item 5 of Schedule 6 (heading)
+
+Omit “**FWA**”, substitute “**the FWC**”.
+
+## 1164  Items 5, 6 and 7 of Schedule 6
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1165  Subitem 9(1) of Schedule 6
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1166  Subitem 9(2) of Schedule 6
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1167  Subitems 9(3), (3A) and (5) of Schedule 6
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1168  Subitems 10(1) and (2) of Schedule 6
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1169  Subitem 10(3) of Schedule 6
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1170  Subitem 10(3) of Schedule 6
+
+Omit “FWA’s”, substitute “the FWC’s”.
+
+## 1171  Subitem 12(1) of Schedule 6
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1172  Subitem 12(2) of Schedule 6
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1173  Subitem 12(3) of Schedule 6
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1174  Subitem 13(1) of Schedule 6
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1175  Paragraphs 13(1)(a) and (b) of Schedule 6
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1176  Subitem 13(2) of Schedule 6
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1177  Subitem 4(1) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1178  Subitem 4(4) of Schedule 6A
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1179  Subitem 4(4) of Schedule 6A
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1180  Subitem 5(1) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1181  At the end of subitem 5(1) of Schedule 6A
+
+Add:
+
+_Note:       The Commission ceased to exist on 31 December 2009: see item 7 of Schedule 18._
+
+## 1182  Subitem 5(3) of Schedule 6A
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1183  Subitem 5(3) of Schedule 6A
+
+Omit “FWA” (second occurring), substitute “the FWC”.
+
+## 1184  Subitems 5(4), (5) and (6) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1185  Subitem 5(6) of Schedule 6A (note)
+
+Repeal the note.
+
+## 1186  Item 6 of Schedule 6A (heading)
+
+Omit “**FWA**”, substitute “**the FWC**”.
+
+## 1187  Item 6 of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1188  Subitems 7(1) and (2) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1189  Subitem 10(2) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1190  Subitem 11(1) of Schedule 6A
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1191  Paragraph 11(1)(b) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1192  Subitem 11(2) of Schedule 6A
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1193  Subitem 11(3) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1194  Subitem 11(3) of Schedule 6A
+
+Omit “FWA’s”, substitute “the FWC’s”.
+
+## 1195  Subitem 14(1) of Schedule 6A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1196  Subitem 14(2) of Schedule 6A
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1197  Subitem 14(3) of Schedule 6A
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1198  Subitem 15(1) of Schedule 6A
+
+Omit “FWA” (first occurring), substitute “The FWC”.
+
+## 1199  Paragraphs 15(1)(a) and (b) of Schedule 6A
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1200  Subitem 15(2) of Schedule 6A
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1201  Paragraphs 18(2)(a) and (b) and (3)(a) and (b) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1202  Subitem 18(4) of Schedule 7 (heading)
+
+Omit “_FWA_”, substitute “_FWC_”.
+
+## 1203  Subitem 18(4) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1204  Subitems 19(2) and (3) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1205  Subitem 19(4) of Schedule 7 (heading)
+
+Omit “_FWA_”, substitute “_FWC_”.
+
+## 1206  Subitem 19(4) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1207  Subitem 19(5) of Schedule 7 (heading)
+
+Omit “_FWA_”, substitute “_FWC_”.
+
+## 1208  Subitem 19(5) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1209  Item 20 of Schedule 7 (paragraphs (a) and (b) of the definition of _test time_)
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1210  Paragraphs 20A(2)(a) and (b) and (3)(a) and (b) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1211  Subitem 20A(4) of Schedule 7 (heading)
+
+Omit “_FWA_”, substitute “_FWC_”.
+
+## 1212  Subitem 20A(4) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1213  Subitems 20B(2) and (3) of Schedule 7
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1214  Subitem 20B(4) of Schedule 7 (heading)
+
+Omit “_FWA_”, substitute “_FWC_”.
+
+## 1215  Subitem 20B(4) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1216  Subitem 20B(5) of Schedule 7 (heading)
+
+Omit “_FWA_”, substitute “_FWC_”.
+
+## 1217  Subitem 20B(5) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1218  Item 20C of Schedule 7 (paragraphs (a) and (b) of the definition of _test time_)
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1219  Subitems 22(2) and (3) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1220  Paragraph 28(1)(b) of Schedule 7
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1221  Subitem 10(1) of Schedule 9
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1222  Item 14 of Schedule 9 (heading)
+
+Omit “**FWA**”, substitute “**FWC**”.
+
+## 1223  Subitem 14(1) of Schedule 9
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1224  Subitem 14(2) of Schedule 9
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1225  Subitem 14(3) of Schedule 9
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1226  Item 18 of Schedule 9 (heading)
+
+Omit “**FWA**”, substitute “**FWC**”.
+
+## 1227  Subitem 18(1) of Schedule 9
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1228  Subitem 18(2) of Schedule 9
+
+Omit “FWA”, substitute “The FWC”.
+
+## 1229  Subitem 18(3) of Schedule 9
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1230  Subitem 20(1) of Schedule 9
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1231  Subitem 4(2) of Schedule 10
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1232  Paragraph 5(2)(c) of Schedule 10
+
+Omit “FWA”, substitute “FWC”.
+
+## 1233  Subitem 16(7) of Schedule 11
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1234  Subitem 4(3) of Schedule 13
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1235  Item 18 of Schedule 13 (heading)
+
+Omit “**FWA**”, substitute “**FWC**”.
+
+## 1236  Subitem 18(2) of Schedule 13
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1237  Paragraphs 6(c) and (d) of Schedule 14
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1238  Subitem 7(3) of Schedule 14
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1239  Subitem 3(2) of Schedule 16
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1240  Subitem 4B(2) of Schedule 16
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1241  Subitem 12(2) of Schedule 16 (notes 1 and 2)
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1242  Subitem 13(2) of Schedule 16 (note 2)
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1243  Item 4 of Schedule 18
+
+Repeal the item, substitute:
+
+4  Seniority of FWA members who become FWC members
+
+For the purposes of section 619 of the FW Act, the seniority of persons who:
+
+                     (a)  are taken to have been appointed as Deputy Presidents of FWA under item 1 of this Schedule; and
+
+                     (b)  continue to hold office as Deputy Presidents of the FWC under Part 9 of Schedule 3 to the FW Act;
+
+is to be determined in accordance with the precedence assigned to them as members of the Commission under section 65 of the WR Act.
+
+## 1244  Item 9 of Schedule 18
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1245  Item 11 of Schedule 18 (heading)
+
+Repeal the heading, substitute:
+
+11  Performance of functions etc. after cessation time
+
+## 1246  Item 11 of Schedule 18
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1247  Item 20A of Schedule 18
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1248  Item 2 of Schedule 19 (heading)
+
+Omit “**FWA**”, substitute “**the FWC**”.
+
+## 1249  Item 2 of Schedule 19
+
+Omit “FWA” (wherever occurring), substitute “the FWC”.
+
+## 1250  Paragraph 2(1)(a) of Schedule 20
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1251  Paragraph 2(1)(b) of Schedule 20
+
+Omit “FWA”, substitute “FWC”.
+
 ## 1252  Paragraphs 2(1)(c), (d), (e), (f), (g) and (h) of Schedule 20
 
 Omit “FWA”, substitute “the FWC”.
 
-The proposed amendments were misdescribed and are not incorporated in this compilation.
+## 1253  Item 3 of Schedule 20 (heading)
+
+Omit “**FWA**”, substitute “**the FWC**”.
+
+## 1254  Subitems 3(1) and (2) of Schedule 20
+
+Omit “FWA’s”, substitute “the FWC’s”.
+
+## 1255  Subitem 7(1) of Schedule 20
+
+Omit “FWA”, substitute “the FWC”.
+
+## 1256  At the end of subitem 621(1) of Schedule 22
+
+Add:
+
+_Note:       For how the thing has effect after the commencement of Part 1 of Schedule 9 to the Fair Work Amendment Act 2012 (which changes the name of Fair Work Australia to become the Fair Work Commission, etc.), see Part 10 of Schedule 3 to the FW Act._
+
+## 1257  At the end of subitem 622(1) of Schedule 22
+
+Add:
+
+_Note:       For how the instrument has effect after the commencement of Part 1 of Schedule 9 to the Fair Work Amendment Act 2012 (which changes the name of Fair Work Australia to become the Fair Work Commission, etc.), see section 25B of the Acts Interpretation Act 1901._
+
+## 1258  Item 624 of Schedule 22
+
+Omit “FWA”, substitute “the FWC”.
+
+As at 19 December 2012 the amendments are not incorporated in this compilation.
 
  
