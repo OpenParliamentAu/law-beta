@@ -1,118 +1,118 @@
-![](http://www.comlaw.gov.au/Details/C2011C00274/Html/9efe680f-82fa-4049-8392-c85942d87754_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00303/Html/NatMuseumAust80_image001.gif)
 
 # National Museum of Australia Act 1980
 
 **Act No. 115 of 1980 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 6 November 2001
+ taking into account amendments up to Act No. 159 of 2001
 
-The text of any of those amendments not in force
+The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
+The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
 **Part II—The National Museum of Australia**
 
-[4](#4).            Establishment of Museum
+[4](#4).            Establishment of Museum                                                                   4
 
-[5](#5).            Gallery of Aboriginal Australia
+[5](#5).            Gallery of Aboriginal Australia                                                           4
 
-[6](#6).            Functions of Museum
+[6](#6).            Functions of Museum                                                                         5
 
-[7](#7).            Powers of Museum
+[7](#7).            Powers of Museum                                                                             5
 
-[8](#8).            Land and historical material for Museum
+[8](#8).            Land and historical material for Museum                                            7
 
-[9](#9).            Disposal of historical material in national historical collection
+[9](#9).            Disposal of historical material in national historical collection           8
 
-[9A](#9A).         Disposal of historical material not in national historical collection
+[9A](#9A).         Disposal of historical material not in national historical collection     8
 
 **Part III—The Council of the Museum**
 
-[10](#10).          Establishment of Council
+[10](#10).          Establishment of Council                                                                   10
 
-[12](#12).          Directions by Minister
+[12](#12).          Directions by Minister                                                                      10
 
-[13](#13).          Membership of Council
+[13](#13).          Membership of Council                                                                     10
 
-[14](#14).          Deputy Chair
+[14](#14).          Deputy Chair                                                                                     11
 
-[15](#15).          Deputies of part‑time members
+[15](#15).          Deputies of part-time members                                                         12
 
-[16](#16).          Remuneration etc 
+[16](#16).          Remuneration etc                                                                               12
 
-[17](#17).          Termination of appointment
+[17](#17).          Termination of appointment                                                             13
 
-[18](#18).          Resignation
+[18](#18).          Resignation                                                                                        13
 
-[20](#20).          Meetings of Council
+[20](#20).          Meetings of Council                                                                          13
 
-[21](#21).          Committees of Council
+[21](#21).          Committees of Council                                                                      15
 
-[22](#22).          Delegation by Council
+[22](#22).          Delegation by Council                                                                       15
 
 **Part IV—The Director of the Museum**
 
-[23](#23).          Office of Director
+[23](#23).          Office of Director                                                                              17
 
-[24](#24).          Terms and conditions of appointment etc 
+[24](#24).          Terms and conditions of appointment etc                                         17
 
-[25](#25).          Remuneration etc 
+[25](#25).          Remuneration etc                                                                               17
 
-[26](#26).          Leave of absence
+[26](#26).          Leave of absence                                                                                17
 
-[27](#27).          Termination of appointment
+[27](#27).          Termination of appointment                                                             18
 
-[28](#28).          Resignation
+[28](#28).          Resignation                                                                                        18
 
-[29](#29).          Acting Director
+[29](#29).          Acting Director                                                                                  18
 
 **Part V—Staff and consultants**
 
-[30](#30).          Staff
+[30](#30).          Staff                                                                                                   21
 
-[31](#31).          Arrangements relating to staff
+[31](#31).          Arrangements relating to staff                                                           21
 
-[32](#32).          Engagement of consultants etc 
+[32](#32).          Engagement of consultants etc                                                           21
 
 **Part VI—Finance**
 
-[33](#33).          Moneys payable to Museum
+[33](#33).          Moneys payable to Museum                                                            22
 
-[34](#34).          National Museum of Australia Fund
+[34](#34).          National Museum of Australia Fund                                                 22
 
-[35](#35).          Application of moneys held by Museum
+[35](#35).          Application of moneys held by Museum                                         23
 
-[37](#37).          Limit on contracts
+[37](#37).          Limit on contracts                                                                              23
 
-[38](#38).          Extra matters to be included in annual report
+[38](#38).          Extra matters to be included in annual report                                    23
 
-[39](#39).          Exemption from taxation
+[39](#39).          Exemption from taxation                                                                   23
 
 **Part VII—Miscellaneous**
 
-[41](#41).          Supply of liquor on premises of Museum
+[41](#41).          Supply of liquor on premises of Museum                                        24
 
-[42](#42).          Delegation
+[42](#42).          Delegation                                                                                          24
 
-[43](#43).          Copyright
+[43](#43).          Copyright                                                                                          24
 
-[44](#44).          Regulations
+[44](#44).          Regulations                                                                                        24
 
 **Notes** 
 
@@ -132,7 +132,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="australian-histori"></a>**_Australian history_** includes:
 
@@ -148,11 +148,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chair"></a><a name="deputi-chair"></a>**_Deputy Chair_**  means the Deputy **_Chair_** of the Council.
 
-                    <a name="deputi-part-time-member"></a>**_deputy part‑time member_** means a person appointed under section 15 to be the deputy of a part‑time member.
+                    <a name="deputi-part-time-member"></a>**_deputy part-time member_** means a person appointed under section 15 to be the deputy of a part-time member.
 
                     <a name="director"></a>**_Director_** means the Director of the National Museum of Australia.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="histor-materi"></a>**_historical material_** means material (whether in written form or in any other form) relating to Australian history.
 
@@ -168,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  such historical material that comes into the ownership or possession of the Museum after the time referred to in paragraph (a) as the Council determines should be included in the national historical collection.
 
-                    <a name="part-time-member"></a>**_part‑time member_** means a member appointed to be a part‑time member.
+                    <a name="part-time-member"></a>**_part-time member_** means a member appointed to be a part-time member.
 
              (2)  For the purposes of the definitions of **_Australian history_** and **_Australian natural environment_** in subsection (1), **_Australia_** includes:
 
@@ -226,7 +224,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                   (baa)  to exhibit material, whether in written form or in any other form, that relates to Australia’s past, present and future;
 
-                   (ba)  from time to time as the occasion requires, to exhibit, by itself or in collaboration with others, in Australia or elsewhere, material, whether in written form or in any other form and whether relating to Australia or to a foreign country;
+                    (ba)  from time to time as the occasion requires, to exhibit, by itself or in collaboration with others, in Australia or elsewhere, material, whether in written form or in any other form and whether relating to Australia or to a foreign country;
 
                      (c)  to conduct, arrange for or assist in research into matters pertaining to Australian history;
 
@@ -260,9 +258,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                       (j)  to purchase or take on hire, or to accept as a gift or on deposit or loan, and to dispose of or otherwise deal with, furnishings, equipment and other goods;
 
-                    (ja)  to charge such fees and impose such charges (in addition to the charges fixed by regulations) as are reasonable in respect of services rendered by the Museum;
+                     (ja)  to charge such fees and impose such charges (in addition to the charges fixed by regulations) as are reasonable in respect of services rendered by the Museum;
 
-                    (jb)  to raise money for the purposes of the Museum by appropriate means, having regard to the proper performance of the functions of the Museum;
+                     (jb)  to raise money for the purposes of the Museum by appropriate means, having regard to the proper performance of the functions of the Museum;
 
                      (k)  to act as trustee of moneys or other property vested in the Museum on trust; and
 
@@ -300,7 +298,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 the Council may resolve that the historical material be disposed of by sale, gift or destruction.
 
-             (2)  Where the Council is satisfied that the exchange of historical material in the national historical collection for other historical material would be advantageous to the collection, the Council may resolve that the first‑mentioned historical material be disposed of in exchange for that other historical material.
+             (2)  Where the Council is satisfied that the exchange of historical material in the national historical collection for other historical material would be advantageous to the collection, the Council may resolve that the first-mentioned historical material be disposed of in exchange for that other historical material.
 
              (3)  The Council shall not resolve that historical material be disposed of by destruction unless the Council is satisfied that the material has no saleable value.
 
@@ -354,17 +352,17 @@ the Museum may dispose of the historical material accordingly.
 
                      (c)  not less than 7 nor more than 10 other members.
 
-             (2)  The members, other than the Director, shall be appointed by the Governor‑General having regard to their knowledge and experience with respect to matters relating to Australian history or with respect to any other area of knowledge relevant to the affairs of the Museum.
+             (2)  The members, other than the Director, shall be appointed by the Governor-General having regard to their knowledge and experience with respect to matters relating to Australian history or with respect to any other area of knowledge relevant to the affairs of the Museum.
 
              (3)  A member, other than the Director:
 
-                     (a)  shall be appointed to be a part‑time member; and
+                     (a)  shall be appointed to be a part-time member; and
 
-                     (b)  holds office for such term, not exceeding 3 years, as is fixed by the Governor‑General in the instrument of his or her appointment.
+                     (b)  holds office for such term, not exceeding 3 years, as is fixed by the Governor-General in the instrument of his or her appointment.
 
              (4)  The performance of the functions, or the exercise of the powers, of the Council is not affected by reason only of there being a vacancy or vacancies in the membership of the Council.
 
-             (5)  The appointment of a person as a part‑time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
+             (5)  The appointment of a person as a part-time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
 
 ##### <a id="14"></a>14  Deputy Chair
 
@@ -374,7 +372,7 @@ the Museum may dispose of the historical material accordingly.
 
                      (a)  holds office as the Deputy Chair for the period fixed by the Council at the time of his or her election, but that period shall not extend beyond the expiration of the term for which he or she is holding office as a member at that time; and
 
-                     (b)  is eligible for re‑election.
+                     (b)  is eligible for re-election.
 
              (3)  The Deputy Chair may resign his or her office by writing signed by him or her and delivered to the Chair.
 
@@ -382,25 +380,25 @@ the Museum may dispose of the historical material accordingly.
 
              (5)  The validity of anything done by a person purporting to be the Deputy Chair shall not be called in question on the ground that there is a defect or irregularity in or in connection with his or her election as the Deputy Chair, that he or she has ceased to be the Deputy Chair or that the occasion for him or her to perform the functions, or exercise the powers, of the Deputy Chair had not arisen or had ceased.
 
-##### <a id="15"></a>15  Deputies of part‑time members
+##### <a id="15"></a>15  Deputies of part-time members
 
-             (1)  A part‑time member may, with the approval of the Minister, appoint a person, other than a member, to be his or her deputy.
+             (1)  A part-time member may, with the approval of the Minister, appoint a person, other than a member, to be his or her deputy.
 
-             (2)  A part‑time member may revoke the appointment of a person as his or her deputy, but the revocation is not effective until the member has given notice of it, in writing, to the Minister.
+             (2)  A part-time member may revoke the appointment of a person as his or her deputy, but the revocation is not effective until the member has given notice of it, in writing, to the Minister.
 
-             (3)  A deputy part‑time member may resign his or her office by writing signed by him or her and delivered to the Minister.
+             (3)  A deputy part-time member may resign his or her office by writing signed by him or her and delivered to the Minister.
 
-             (4)  A deputy part‑time member is entitled, in the event of the absence of the member of whom he or she is the deputy from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be a member.
+             (4)  A deputy part-time member is entitled, in the event of the absence of the member of whom he or she is the deputy from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be a member.
 
-             (5)  The appointment of a person as a deputy part‑time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
+             (5)  The appointment of a person as a deputy part-time member is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
 
 ##### <a id="16"></a>16  Remuneration etc.
 
              (1)  This section applies to a person who is:
 
-                     (a)  a part‑time member;
+                     (a)  a part-time member;
 
-                     (b)  a deputy part‑time member; or
+                     (b)  a deputy part-time member; or
 
                      (c)  a member of a committee constituted under section 21 other than a member of the Council.
 
@@ -412,9 +410,9 @@ the Museum may dispose of the historical material accordingly.
 
 ##### <a id="17"></a>17  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a part‑time member by reason of the misbehaviour or physical or mental incapacity of that member.
+             (1)  The Governor-General may terminate the appointment of a part-time member by reason of the misbehaviour or physical or mental incapacity of that member.
 
-             (2)  If a part‑time member:
+             (2)  If a part-time member:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
@@ -422,11 +420,11 @@ the Museum may dispose of the historical material accordingly.
 
                      (c)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Governor‑General shall terminate the appointment of that member.
+the Governor-General shall terminate the appointment of that member.
 
 ##### <a id="18"></a>18  Resignation
 
-                   A part‑time member may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+                   A part-time member may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="20"></a>20  Meetings of Council
 
@@ -448,7 +446,7 @@ the Governor‑General shall terminate the appointment of that member.
 
              (7)  Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 
-             (8)  In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first‑mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
+             (8)  In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first-mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
 
              (9)  The Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall keep minutes of those proceedings.
 
@@ -498,7 +496,7 @@ the Governor‑General shall terminate the appointment of that member.
 
 ##### <a id="23"></a>23  Office of Director
 
-             (1)  There shall be a Director of the National Museum of Australia, who shall be appointed by the Governor‑General.
+             (1)  There shall be a Director of the National Museum of Australia, who shall be appointed by the Governor-General.
 
              (2)  The Director is the executive member of the Council and shall, subject to and in accordance with the general directions of the Council, manage the affairs of the Museum.
 
@@ -506,7 +504,7 @@ the Governor‑General shall terminate the appointment of that member.
 
              (1)  The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment.
 
-             (3)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (3)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="25"></a>25  Remuneration etc.
 
@@ -524,7 +522,7 @@ the Governor‑General shall terminate the appointment of that member.
 
 ##### <a id="27"></a>27  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
+             (1)  The Governor-General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
 
              (2)  If the Director:
 
@@ -538,11 +536,11 @@ the Governor‑General shall terminate the appointment of that member.
 
                      (e)  fails to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Governor‑General shall terminate the appointment of the Director.
+the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="28"></a>28  Resignation
 
-                   The Director may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+                   The Director may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="29"></a>29  Acting Director
 
@@ -604,7 +602,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (1)  There are payable to the Museum such moneys as are appropriated, from time to time, by the Parliament for the purposes of the Museum.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Museum.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Museum.
 
 ##### <a id="34"></a>34  National Museum of Australia Fund
 
@@ -674,7 +672,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="44"></a>44  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  for regulating, restricting or prohibiting the entry of persons onto any land or building, or any part of any land or building, owned by or under the control of the Museum, and for regulating the conduct of persons on any such land or building, or any part of any such land or building, including making provision for and in relation to the removal of persons from any such land or building, or any part of any such land or building;
 
@@ -683,6 +681,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
                      (c)  for regulating, restricting or prohibiting the making, using, printing, publishing, exhibiting, selling or offering for sale of replicas, photographs, representations or copies of historical material forming part of the national historical collection; and
 
                      (d)  for prescribing penalties not exceeding a fine of $500 for offences against the regulations.
+
+ 
 
 # Notes to the _National Museum of Australia Act 1980_
 
@@ -704,27 +704,25 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td colspan="2">
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Museum of Australia Act 1980</div>
@@ -943,7 +941,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td colspan="2">
-    <div>Schedule 4 (items 106, 107) and Schedule 5 (items 96–98): Royal Assent <i>(h)</i></div>
+    <div>Schedule 4 (items 106, 107) and Schedule 5 (items 96-98): Royal Assent <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -960,7 +958,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 1004–1017) ( <i>see Gazette</i>1997, No. GN49) <i>(i)</i></div>
+    <div>Schedule 2 (items 1004-1017) ( <i>see Gazette</i>1997, No. GN49) <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -977,7 +975,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 655–658): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
+    <div>Schedule 1 (items 655-658): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1035,23 +1033,6 @@ Remainder: Royal Assent</div>
       <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 5 (items 157, 158): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead>
 <tr height="0">
   <td></td>
@@ -1066,13 +1047,13 @@ _(a)_     The _National Museum of Australia Act 1980_ was amended by sub
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
-_(b)_     The _National Museum of Australia Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _National Museum of Australia Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _National Museum of Australia Act 1980_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows:
 
-                 (7)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                 (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(d)_     The _Public Service and Statutory Authorities Amendment Act 1985_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(19) of which provides as follows:
 
@@ -1092,15 +1073,15 @@ _(g)_     The _National Museum of Australia Act 1980_ was amended by sec
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(h)_     The _National Museum of Australia Act 1980_ was amended by Schedule 4 (items 106 and 07) and Schedule 5 (items 96–98) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(h)_     The _National Museum of Australia Act 1980_ was amended by Schedule 4 (items 106 and 07) and Schedule 5 (items 96-98) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(i)      The National Museum of Australia Act 1980_ was amended by Schedule 2 (items 1004–1017) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ subsection 2(2) of which provides as follows:
+_(i)      The National Museum of Australia Act 1980_ was amended by Schedule 2 (items 1004-1017) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(j)_      The _National Museum of Australia Act 1980_ was amended by Schedule 1 (items 655–658) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(j)_      The _National Museum of Australia Act 1980_ was amended by Schedule 1 (items 655-658) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1120,35 +1101,25 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
   <col width="68%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Title</div>
   </td>
   <td>
     <div>am. No. 193, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1164,15 +1135,7 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 193, 1985; No. 20, 1994; No. 152, 1997; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 193, 1985; No. 20, 1994; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1245,14 +1208,6 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
   </td>
   <td>
     <div>am. No. 179, 1991; No. 3, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1345,14 +1300,6 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
@@ -1409,14 +1356,6 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
 </tr>
 <tr>
   <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 30, 31</div>
   </td>
   <td>
@@ -1429,22 +1368,6 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
   </td>
   <td>
     <div>am. No. 166, 1985 (as am. by No. 76, 1986); No. 193, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1501,14 +1424,6 @@ _(k)_     _The National Museum of Australia Act 1980_  was amended by Sc
   </td>
   <td>
     <div>am. No. 193, 1985; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
