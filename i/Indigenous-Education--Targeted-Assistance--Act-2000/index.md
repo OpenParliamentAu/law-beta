@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00008/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00262/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 142 of 2008
+This compilation was prepared on 3 July 2008
+ taking into account amendments up to Act No. 47 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -60,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11C](#11C).       Certifying agreement payments duly spent or committed
 
-[11D](#11D).       Reporting other funds used to advance the objects of this Act [_see_ Note 2]
+[11D](#11D).       Reporting other funds used to advance the objects of this Act
 
         **Subdivision C—Specific conditions about educational accountability**
 
@@ -82,15 +82,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [14A](#14A).       Appropriations for non-ABSTUDY payments—2005 to 2008 quadrennium
 
-[14B](#14B).       Appropriations for non-ABSTUDY payments—2009 to 2012 quadrennium
-
 [15](#15).          Appropriations operate separately
 
 **Part 5—Other matters**
 
 [17](#17).          Delegation
 
-[17A](#17A).       Annual report
+[17A](#17A).       Annual Report
 
 [18](#18).          Regulations
 
@@ -112,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Making of agreements
 
-             (1)  This Act allows the Minister to make an agreement with an education provider or other person or body authorising the making of payments during the 2001 to 2013 calendar years.
+             (1)  This Act allows the Minister to make an agreement with an education provider or other person or body authorising the making of payments during the 2001 to 2009 calendar years.
 
 Agreements with education providers
 
@@ -146,7 +144,7 @@ Recovery of payments
 
                              (ii)  face-to-face education; and
 
-                     (b)  is provided at a higher education provider or a vocational education and training institution; and
+                     (b)  is provided at a higher education institution or a vocational education and training institution; and
 
                      (c)  is approved as a mixed mode away-from-base course under the ABSTUDY Scheme.
 
@@ -172,9 +170,9 @@ Recovery of payments
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
-                    <a name="fund-year"></a>**_funding year_** means the 2001 calendar year, the 2013 calendar year, or any calendar year between those years.
+                    <a name="fund-year"></a>**_funding year_** means the 2001 calendar year, the 2009 calendar year, or any calendar year between those years.
 
-                    <a name="higher-educ-provid"></a>**_higher education provider_** has the same meaning as in section 16-1 of the _Higher Education Support Act 2003_.
+                    <a name="higher-educ-institut"></a>**_higher education institution_** means an institution within the meaning of section 4 of the _Higher Education Funding Act 1988_.
 
                     <a name="indigen-person"></a>**_Indigenous person_** means:
 
@@ -386,13 +384,13 @@ Amount of the payments
 
                      (b)  specifying whether the payments to the party for  the funding year have been spent (or committed to be spent) in that year for the purposes specified in the agreement.
 
-##### <a id="11D"></a>11D  Reporting other funds used to advance the objects of this Act [_see_ Note 2]
+##### <a id="11D"></a>11D  Reporting other funds used to advance the objects of this Act
 
              (1)  There must be a condition that each other party report how the party has advanced, and intends to advance, the objects of this Act from funds coming from sources other than the following:
 
                      (a)  this Act;
 
-                     (b)  an Education Assistance Act (within the meaning of the _Schools Assistance Act 2008_);
+                     (b)  the _States Grants (Primary and Secondary Education Assistance) Act 2000_ (the **_States Grants Act_**);
 
                      (c)  any Act:
 
@@ -529,7 +527,7 @@ Appropriations—starting amounts
     </td>
     <td>
       <div>
-        <b>for the period starting on…</b>
+        <b>for the period starting on...</b>
       </div>
     </td>
     <td>
@@ -600,112 +598,6 @@ Increasing starting amounts
 
              (2)  The regulations may make provision for increasing an amount mentioned in subsection (1) by reference to changes in a specified index.
 
-##### <a id="14B"></a>14B  Appropriations for non-ABSTUDY payments—2009 to 2012 quadrennium
-
-Appropriations—starting amounts
-
-             (1)  Each amount specified in the following table (as increased in accordance with subsection (2)) is appropriated out of the Consolidated Revenue Fund for the purpose of making non-ABSTUDY payments during the specified period.
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="24%">
-  <col width="36%">
-  <col width="30%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Appropriations for non-ABSTUDY payments</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Starting amount</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>for the period starting on ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>and ending on ...</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>$159,430,000</div>
-  </td>
-  <td>
-    <div>1 January 2009</div>
-  </td>
-  <td>
-    <div>30 June 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>$163,778,000</div>
-  </td>
-  <td>
-    <div>1 January 2010</div>
-  </td>
-  <td>
-    <div>30 June 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>$159,559,000</div>
-  </td>
-  <td>
-    <div>1 January 2011</div>
-  </td>
-  <td>
-    <div>30 June 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>$157,731,000</div>
-  </td>
-  <td>
-    <div>1 January 2012</div>
-  </td>
-  <td>
-    <div>30 June 2013</div>
-  </td>
-</tr></table>
-
-Increasing starting amounts
-
-             (2)  The regulations may make provision for increasing an amount mentioned in the table in subsection (1) by reference to changes in a specified index.
-
 ##### <a id="15"></a>15  Appropriations operate separately
 
                    Each provision of this Part that appropriates money out of the Consolidated Revenue Fund operates separately from the other provisions that so appropriate money.
@@ -720,9 +612,25 @@ Increasing starting amounts
 
                      (b)  an APS employee in the Department.
 
-##### <a id="17A"></a>17A  Annual report
+##### <a id="17A"></a>17A  Annual Report
 
-                   As soon as practicable after the end of each funding year, the Minister must cause to be laid before each House of the Parliament a report dealing, in relation to the year, with payments and performance information under agreements made under this Act.
+                   As soon as practicable after the end of each funding year, the Minister must cause a report dealing with the following, in relation to that year, to be laid before each House of the Parliament:
+
+                     (a)  performance information, in relation to each State and Territory and in relation to the government and non-government sector, contained in the National Report on Schooling in Australia;
+
+                     (b)  information relating to Indigenous students contained in any performance reports of the Ministerial Council for Employment, Education, Training and Youth Affairs;
+
+                     (c)  the progress of the National Indigenous Literacy and Numeracy Strategy;
+
+                     (d)  the number of Indigenous enrolments in the pre-school sector;
+
+                     (e)  the year 10 and year 12 retention rates for Indigenous students;
+
+                      (f)  the number of Indigenous enrolments in post-compulsory education and training;
+
+                     (g)  the number of Indigenous students completing post-compulsory education and training;
+
+                     (h)  payments made under agreements made under this Act, including totals of such payments in relation to each State and Territory and in relation to the government and non-government sector.
 
 ##### <a id="18"></a>18  Regulations
 
@@ -924,24 +832,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Education Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>142, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1: Royal Assent 
-Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 8)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -980,7 +870,7 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
     <div>Ss. 3, 4</div>
   </td>
   <td>
-    <div>am. No. 145, 2004; No. 142, 2008</div>
+    <div>am. No. 145, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1066,26 +956,10 @@ Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 11C</div>
+    <div>Ss. 11C, 11D</div>
   </td>
   <td>
     <div>ad. No. 145, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11D</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 142, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1163,48 +1037,12 @@ Part 3</div>
 </tr>
 <tr>
   <td>
-    <div>S. 14B</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 16</div>
   </td>
   <td>
     <div>rep. No. 145, 2004</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>rs. No. 142, 2008</div>
-  </td>
 </tr></table>
-
-### Note 2
-
-Subparagraphs 11D(1)(c)(i) and (ii)—Schedule 2 (item 9) of the _Education Legislation Amendment Act 2008_ (No. 142, 2008) provides as follows: 
-
-## Schedule 2
-
-## 9  Subparagraphs 11D(1)(c)(i) and (ii)
-
-Omit “State Grants Act”, substitute “Education Assistance Acts”.
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 ## Table A
 
@@ -1218,15 +1056,5 @@ _Indigenous Education (Targeted Assistance) Amendment Act 2004
 ## 10  Application of amendments to agreements
 
 The amendments of the _Indigenous Education (Targeted Assistance) Act 2000_ made by this Part apply in relation to agreements made under that Act after the commencement of this Part.
-
-* * *
-
-_Education Legislation Amendment Act 2008 (No. 142, 2008)_
-
-## Schedule 1
-
-## 8  Application
-
-The amendment made by item 7 of this Schedule applies in relation to the 2009 funding year and later funding years.
 
  
