@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00369/Html/f078dc9c-304b-4b47-bbc1-cc22c9c1f384_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00452/Html/10ae9896-1ef4-45e8-a441-b49385b0153f_files/image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 28 March 2012
- taking into account amendments up to Act No. 12 of 2012
+This compilation was prepared on 29 June 2011
+ taking into account amendments up to Act No. 41 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -220,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  income tax as defined in subsection 6(1) of the Tax Act; or
 
-                     (b)  Medicare Levy payable in accordance with Part VIIB of the Tax Act.
+                     (b)  levy payable in accordance with Part VIIB of the Tax Act.
 
                     <a name="incom-tax-criting-amount"></a>**_income tax crediting amount_**, in relation to income tax payable by a person for a year of income, means:
 
@@ -2443,23 +2443,6 @@ Sch. 16 (item 37) \[ <i>see</i>Table A]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2011 Measures No. 9) Act 2012</div>
-  </td>
-  <td>
-    <div>12, 2012</div>
-  </td>
-  <td>
-    <div>21 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 247, 248): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 248) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ provides as follows:
@@ -2962,7 +2945,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; No. 12, 2012</div>
+    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3810,7 +3793,7 @@ _Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)_
 
 (2)       The amendments apply to the extent that the period for which the person is liable to pay the general interest charge occurs on or after 1 July 1999.
 
-## 402  Application
+## 402  Application
 
 (1)       This item applies to amendments made by items 16, 17, 81 to 87, 275, 276, 364, 366, 368 and 371.
 
@@ -4123,15 +4106,5 @@ The amendment made by item 45 applies to income years, statutory accounting pe
 ## 50  Transitional
 
 If subparagraph 10(1)(a)(iii) of the _Taxation (Interest on Overpayments and Early Payments) Act 1983_ (as in force before the commencement of item 49) could apply to a taxpayer, that subparagraph continues to apply despite the amendment made by that item.
-
-* * *
-
-_Tax Laws Amendment (2011 Measures No. 9) Act 2012 (No. 12, 2012)_
-
-## Schedule 6
-
-## 248  Application of amendments
-
-The amendments made by this Part apply to income years starting on or after 1 July 2008.
 
  
