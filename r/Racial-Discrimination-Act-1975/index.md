@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00013/Html/a1969565-0e29-4d96-b7d2-a396517b00ac_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00236/Html/834f9d76-166b-41c1-a99f-4d33050dfe5f_files/image001.gif)
 
 # Racial Discrimination Act 1975
 
 **Act No. 52 of 1975 as amended**
 
-This compilation was prepared on 7 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 14 February 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -169,8 +170,6 @@ BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representative
 
                     <a name="princip-execut"></a>**_principal executive_**, in relation to a Commonwealth agency, has the same meaning as in Part V of the _Privacy Act 1988_.
 
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
-
                     <a name="rel"></a>**_relative_**, in relation to a person, means a person who is related to the first‑mentioned person by blood, marriage, affinity or adoption and includes a person who is wholly or mainly dependent on, or is a member of the household of, the first‑mentioned person.
 
                     <a name="residenti-accommod"></a>**_residential accommodation_** includes accommodation in a dwelling‑house, flat, hotel, motel or boarding‑house or on a camping ground.
@@ -249,13 +248,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  This Part does not apply to:
 
-                     (a)  any provision of the governing rules (within the meaning of the _Australian Charities and Not‑for‑profits Commission Act 2012_) of a registered charity, if the provision:
-
-                              (i)  confers charitable benefits; or
-
-                             (ii)  enables charitable benefits to be conferred;
-
-                            on persons of a particular race, colour or national or ethnic origin; or
+                     (a)  any provision of a deed, will or other instrument, whether made before or after the commencement of this Part, that confers charitable benefits, or enables charitable benefits to be conferred, on persons of a particular race, colour or national or ethnic origin; or
 
                      (b)  any act done in order to comply with such a provision.
 
@@ -733,7 +726,7 @@ _Article_ 2
 
 (c)     Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists;
 
-(d)     Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;
+(d)      Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;
 
 (e)     Each State Party undertakes to encourage, where appropriate, integrationist multi‑racial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
 
@@ -1314,9 +1307,9 @@ and 4</div>
     <div>13 Oct 1999</div>
   </td>
   <td>
-    <div>Ss. 4–20 and Schedule 1 (items 63–84): 13 Apr 2000 
+    <div>Ss. 4–20 and Schedule 1 (items 63–84): 13 Apr 2000 
 S. 21: Royal Assent 
-S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
+S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
   </td>
   <td>
     <div>Ss. 4–22 \[ <i>see</i>Table A]</div>
@@ -1333,7 +1326,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 760): 5 Dec 1999 ( <i>see</i>s. 2 and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (item 760): 5 Dec 1999 ( <i>see</i>s. 2 and <i>Gazette</i>1999, No. S584)</div>
   </td>
   <td>
     <div>—</div>
@@ -1350,7 +1343,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (items 347, 348, 418, 419): 24 May 2001</div>
+    <div>Schedule 2 (items 347, 348, 418, 419): 24 May 2001</div>
   </td>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
@@ -1419,7 +1412,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
   </td>
   <td>
     <div>Schedule 3 (items 60–70, 
-167–178) and Schedule 4 (items 1–5): 5 Aug 2009</div>
+167–178) and Schedule 4 (items 1–5): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -1439,24 +1432,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>Schedule 2 (items 968, 969) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 191, 192): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1613,7 +1589,7 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 18, 1980 (as am. by No. 25, 1981); No. 126, 1986; No. 38, 1988; No. 179, 1992; No. 133, 1999; No. 73, 2008; No. 70, 2009; No. 169, 2012</div>
+    <div>am. No. 18, 1980 (as am. by No. 25, 1981); No. 126, 1986; No. 38, 1988; No. 179, 1992; No. 133, 1999; No. 73, 2008; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1670,14 +1646,6 @@ _(c)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3217,7 +3185,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="22"></a>22  Transitional—powers of a Secretary
 
-                   A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the _Human Rights and Equal Opportunity Commission Act 1986_ has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
+                   A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the _Human Rights and Equal Opportunity Commission Act 1986_ has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
 
 * * *
 
