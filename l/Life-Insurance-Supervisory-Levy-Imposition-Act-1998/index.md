@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00090/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00419/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
 
 # Life Insurance Supervisory Levy Imposition Act 1998
 
 **Act No. 57 of 1998 as amended**
 
-This compilation was prepared on 27 February 2010
+This compilation was prepared on 4 September 2009
  taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to impose a levy on companies registered under section 21 of the _Life Insurance Act 1995_
+## An Act to impose a levy on companies registered under the _Life Insurance Act 1995_
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  in any other case—the day, during the financial year, on which the life insurance company becomes a life insurance company.
 
-                    <a name="life-insur-compani"></a>**_life insurance company_** means a company that is registered under section 21 of the _Life Insurance Act 1995_.
+                    <a name="life-insur-compani"></a>**_life insurance company_** means a company that is registered under the _Life Insurance Act 1995_.
 
                     <a name="statutori-upper-limit"></a>**_statutory upper limit_** means:
 
@@ -106,7 +106,7 @@ Note:          The unrestricted levy percentage is as determin
 
              (2)  If the levy imposition day for the life insurance company for the financial year is later than 1 July in the financial year, the amount of levy payable by the life insurance company for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00090/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00419/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
 
              (3)  The Treasurer is, by legislative instrument, to determine:
 
@@ -287,7 +287,7 @@ of Assent</div>
       <div>27 Aug 2009</div>
     </td>
     <td>
-      <div>Schedule 1 (items 216, 217): 27 Feb 2010</div>
+      <div>Schedule 1 (items 216, 217): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -317,21 +317,13 @@ of Assent</div>
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>am. No. 75, 2009</div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 16, 2005; No. 75, 2009</div>
+    <div>am. No. 16, 2005</div>
   </td>
 </tr>
 <tr>
@@ -350,6 +342,24 @@ of Assent</div>
     <div>am. No. 44, 1999; No. 16, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
+
+The following amendments commence on 27 February 2010 unless proclaimed earlier:
+
+## Schedule 1
+
+## 216  Title
+
+After “**under**”, insert “**section 21 of**”.
+
+## 217  Section 5 (definition of _life insurance company_)
+
+After “under”, insert “section 21 of”.
+
+As at 4 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
