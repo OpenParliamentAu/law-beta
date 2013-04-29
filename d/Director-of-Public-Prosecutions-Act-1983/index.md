@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00111/Html/60f5ef74-3a6d-42da-a899-a91d5ca9bd0c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00534/Html/14360226-eddb-4e81-bbf3-6aaa550d17ba_files/image001.gif)
 
 # Director of Public Prosecutions Act 1983
 
 **Act No. 113 of 1983 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 14 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
@@ -880,8 +880,6 @@ he or she is not capable of being retired from office on the ground of invalidit
 
                      (b)  during any period, or during all periods, when the person holding that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
           (1A)  The Associate Director is to act in the office of Director:
 
                      (a)  during a vacancy in that office; and
@@ -890,7 +888,7 @@ Note:          For rules that apply to acting appointments, se
 
 except when a person appointed under subsection (1) is acting in that position.
 
-Note:          For rules that apply to persons acting as the Director, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
              (3)  The Attorney‑General may:
 
@@ -898,7 +896,17 @@ Note:          For rules that apply to persons acting as the D
 
                      (b)  terminate an appointment under this section at any time.
 
+             (4)  Where a person is acting in the office of Director during a period mentioned in paragraph (1)(b) and that office becomes vacant while that person is so acting, that person may continue so to act until the Attorney‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
              (5)  Sections 20, 24 and 25 apply in relation to a person appointed under this section to act in the office of Director in like manner as they apply in relation to the Director.
+
+             (6)  The appointment of a person to act in the office of Director ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Attorney‑General.
+
+             (7)  While a person is acting in the office of Director, he or she has and may exercise all the powers, and shall perform all the functions, of the Director, and where a person, while so acting, does an act in the exercise or performance of a power or function of the Director, the act shall, for the purposes of this Act, be deemed to have been done by the Director.
+
+             (8)  The validity of anything done by or in relation to a person purporting to act in the office of Director under an appointment made under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
+
+             (9)  The validity of anything done by or in relation to the Associate Director while purporting to act in the office of Director is not invalid merely because the occasion to act had not arisen or had ceased.
 
 ##### <a id="26A"></a>26A  Acting appointments—Associate Director
 
@@ -906,11 +914,21 @@ Note:          For rules that apply to persons acting as the D
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to it; or
 
-                     (b)  during any period, or during all periods, when the Associate Director is absent from duty or from Australia or is, for any reason, unable to perform the functions of the office.
+                     (b)  during any period, or during all periods, when the Associate Director is absent from duty or from Australia or is, for any reason, unable to perform the functions of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
              (2)  Sections 20, 24 and 25 apply to a person appointed under this section to act in the office of Associate Director in the same way as they apply to the Associate Director.
+
+             (3)  Anything done by or in relation to a person purporting to act under such an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="27"></a>27  Staff
 
@@ -1882,7 +1900,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002 No. GN44)</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 536–542) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 536–542) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td colspan="2">
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2294,34 +2312,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Ss. 24, 25</div>
+    <div>Ss. 24–26</div>
   </td>
   <td>
     <div>am. No. 28, 1991; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 43, 1996; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2330,22 +2324,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
   <td>
     <div>ad. No. 28, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2421,6 +2399,50 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 536  At the end of subsection 26(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 537  At the end of subsection 26(1A)
+
+Add:
+
+Note:          For rules that apply to persons acting as the Director, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 538  Subsections 26(2), (4) and (6) to (9)
+
+Repeal the subsections.
+
+## 539  Paragraph 26A(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 540  Subsection 26A(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 541  At the end of subsection 26A(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 542  Subsection 26A(3)
+
+Repeal the subsection.
+
+As at 14 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving and transitional provisions
@@ -2480,6 +2502,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
