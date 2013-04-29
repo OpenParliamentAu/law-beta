@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00529/Html/HorticultureMarkResDevServRepConseqProvis2000_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00363/Html/HorticultureMarkResDevServRepConseqProvis2000HYP_image001.gif)
 
 # Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000
 
 **Act No. 163 of 2000 as amended**
 
-This compilation was prepared on 20 November 2009
- taking into account amendments up to Act No. 111 of 2009
+This compilation was prepared on 22 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -71,6 +71,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [20](#20).          References in certain instruments
 
 [21](#21).          Certificates in relation to assets
+
+[22](#22).          Saving: levies and charges
 
     **Division 4—Transfer of staff** 
 
@@ -166,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 3—References to Administrative Appeals Tribunal** 
 
-Horticulture Marketing and Research and Development Services Act 2000 34
+Horticulture Marketing and Research and Development Services Act 2000 36
 
 **Schedule 4—Operation of the Privacy Act** 
 
@@ -496,6 +498,42 @@ Note:          For the meaning of **_assets official_**, see s
 
              (3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
 
+##### <a id="22"></a>22  Saving: levies and charges
+
+             (1)  Amounts equal to the following are to be paid to the industry services body:
+
+                     (a)  amounts of levy or charge that are received by the Commonwealth, but not paid out of the Consolidated Revenue Fund under the _Australian Horticultural Corporation Act 1987_ or the _Horticultural Research and Development Corporation Act 1987_, before the transfer day;
+
+                     (b)  amounts that are payable to the Horticultural Research and Development Corporation under section 46 of the _Horticultural Research and Development Corporation Act 1987_, but not paid out of the Consolidated Revenue Fund under that Act, before the transfer day;
+
+                     (c)  amounts that:
+
+                              (i)  are payable to the Australian Horticultural Corporation or the Australian Dried Fruits Board by virtue of section 47 or 115Q of the _Australian Horticultural Corporation Act 1987_, or to the Horticultural Research and Development Corporation by virtue of section 45 of the _Horticultural Research and Development Corporation Act 1987_; and
+
+                             (ii)  are not covered by paragraph (a); and
+
+                            (iii)  are not paid out of the Consolidated Revenue Fund under that Act before the transfer day.
+
+             (2)  Amounts payable under this section are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+             (3)  In this section:
+
+                    <a name="charg"></a>**_charge_** means:
+
+                     (a)  charge imposed by subclause 2(1) of Schedule 10 to the _Primary Industries (Customs) Charges Act 1999_ at a rate set under subclause 3(3), 3(4) or 3(5) of that Schedule; and
+
+                     (b)  amounts a person is liable to pay under subsection 7(3) of the _Primary Industries Levies and Charges Collection Act 1991_; and
+
+                     (c)  amounts payable by way of penalty under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ in relation to charge referred to in paragraph (a) and amounts referred to in paragraph (b).
+
+                    <a name="levi"></a>**_levy_** means:
+
+                     (a)  levy imposed under subclause 2(1) of Schedule 15 to the _Primary Industries (Excise) Levies Act 1999_ at a rate set under subclause 4(1), 4(2) or 4(3) of that Schedule; and
+
+                     (b)  amounts a person is liable to pay under subsection 7(1) or (2) of the _Primary Industries Levies and Charges Collection Act 1991_; and
+
+                     (c)  amounts payable by way of penalty under section 15 of the _Primary Industries Levies and Charges Collection Act 1991_ in relation to levy referred to in paragraph (a) and amounts referred to in paragraph (b).
+
 ### Division 4—Transfer of staff
 
 #### Subdivision A—Preliminary
@@ -700,7 +738,7 @@ the industry services body may grant the employee long service leave on full sal
 
                      (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 37 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_”.
 
-##### <a id="38"></a>38  Payments in lieu of long service leave for employees with less than 10 years service
+##### <a id="38"></a>38  Payments in lieu of long service leave for employees with less than 10 years service
 
              (1)  This section applies to a person:
 
@@ -1102,24 +1140,7 @@ Remainder: 21 Dec 2000 ( <i>see</i>s. 2(1))</div>
       <div>25 June 2009</div>
     </td>
     <td>
-      <div>Schedule 4 (item 4): <i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Stocktake (Regulatory and Other Laws) Act 2009</div>
-    </td>
-    <td>
-      <div>111, 2009</div>
-    </td>
-    <td>
-      <div>16 Nov 2009</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 17): 17 Nov 2009</div>
+      <div>Schedule 4 (item 3): <i>(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1141,38 +1162,6 @@ _(b)_    Subsection 2(1) (item 10) of the _Fair Work (State Referral and C
 </colgroup>
 
 <thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
   <tr>
     <td>
       <div>
@@ -1241,58 +1230,10 @@ _(b)_    Subsection 2(1) (item 10) of the _Fair Work (State Referral and C
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
     <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 111, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1305,18 +1246,18 @@ _(b)_    Subsection 2(1) (item 10) of the _Fair Work (State Referral and C
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 45</div>
   </td>
   <td>
     <div>am. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr></table>
 
