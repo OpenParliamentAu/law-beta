@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00438/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00139/Html/IndigenousEducTargetAssti2000_WD02_image001.gif)
 
 # Indigenous Education (Targeted Assistance) Act 2000
 
 **Act No. 147 of 2000 as amended**
 
-This compilation was prepared on 5 July 2010
- taking into account amendments up to Act No. 87 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 142 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -250,7 +250,7 @@ Note:          If there is only one such party, references in 
 
                      (c)  that the rate of participation of Indigenous people in other secondary and post-secondary education is equivalent to that of other Australians.
 
-##### <a id="8"></a>8  Object of Act—increasing involvement of Indigenous people in educational decisions
+##### <a id="8"></a>8  Object of Act—increasing involvement of Indigenous people in educational decisions
 
                    It is an object of this Act to increase the involvement of Indigenous people in the making of decisions concerning education by:
 
@@ -664,7 +664,7 @@ Appropriations—starting amounts
     <div>2</div>
   </td>
   <td>
-    <div>$167,058,000</div>
+    <div>$163,778,000</div>
   </td>
   <td>
     <div>1 January 2010</div>
@@ -678,7 +678,7 @@ Appropriations—starting amounts
     <div>3</div>
   </td>
   <td>
-    <div>$163,703,000</div>
+    <div>$159,559,000</div>
   </td>
   <td>
     <div>1 January 2011</div>
@@ -692,7 +692,7 @@ Appropriations—starting amounts
     <div>4</div>
   </td>
   <td>
-    <div>$161,236,000</div>
+    <div>$157,731,000</div>
   </td>
   <td>
     <div>1 January 2012</div>
@@ -834,7 +834,7 @@ of Assent</div>
     <div>14 Dec 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): Royal Assent</div>
+    <div>Schedule 1 (tems 1–3): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -972,23 +972,6 @@ Schedule 2 (items 8, 9): 1 Jan 2009 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>Schedule 2 (item 4): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Education (Targeted Assistance) Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>87, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>1 Jan 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1310,14 +1293,6 @@ Part 3</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 87, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 16</div>
   </td>
   <td>
@@ -1360,7 +1335,7 @@ _Education Legislation Amendment Act 2008 (No. 142, 2008)_
 
 ## Schedule 1
 
-## 8  Application
+## 8  Application
 
 The amendment made by item 7 of this Schedule applies in relation to the 2009 funding year and later funding years.
 
