@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00733/Html/caf64a08-c069-43cf-b00f-9ebeb2080ebb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00085/Html/04deee1e-b6e2-4e7c-8942-4473164b532e_files/image001.gif)
 
-# Australian   Institute of Aboriginal and Torres Strait Islander Studies Act 1989
+# Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
 **Act No. 149 of 1989 as amended**
 
-This compilation was prepared on 11 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -139,11 +140,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [49](#49).          Regulations
 
-**Part 11—Transitional provisions** 
+**Part 11—Consequential and transitional provisions** 
 
     **Division 1—Preliminary**
 
 [50](#50).          Interpretation
+
+    **Division 2—Repeal**
+
+[51](#51).          Repeal
 
     **Division 3—Transitional provisions**
 
@@ -173,6 +178,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [65](#65).          Exemption from taxation
 
+    **Division 4—Consequential amendments of other Acts** 
+
+Sections 66 and 67
+
 **Notes** 
 
 ## An Act to establish an Australian Institute of Aboriginal and Torres Strait Islander Studies, and for related purposes
@@ -183,7 +192,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                    This Act may be cited as the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the commencement of the _Aboriginal and Torres Strait Islander Commission Act 1989_.
 
@@ -707,7 +716,7 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
                              (ii)  in the case of a body corporate—$5,000.
 
-## Part 11—Transitional provisions
+## Part 11—Consequential and transitional provisions
 
 ### Division 1—Preliminary
 
@@ -742,6 +751,12 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
                      (d)  under which money is, or may become, payable, or any other property is to be, or may become liable to be, transferred, to or by the old Institute;
 
 being an instrument subsisting immediately before the commencement.
+
+### Division 2—Repeal
+
+##### <a id="51"></a>51  Repeal
+
+                   The _Australian Institute of Aboriginal Studies Act 1964_ is repealed.
 
 ### Division 3—Transitional provisions
 
@@ -884,6 +899,24 @@ as if:
 ##### <a id="65"></a>65  Exemption from taxation
 
                    An instrument is not subject to stamp duty or any other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing, that the instrument was made or given because of, or for a purpose connected with, this Division.
+
+### Division 4—Consequential amendments of other Acts
+
+##### Sections<a id=" 66 and 67"></a> 66 and 67  
+
+* * *
+
+**Note:**
+
+The amendments made by sections 66 and 67 are incorporated in the compilations on ComLaw.
+
+_Remuneration Tribunal Act 1973_
+
+_Sales Tax (Exemptions and Classifications) Act 1992_.\[repealed by Act No. 101, 2006, Sch. 5]
+
+For access to the wording of the amendments made by this Division,_see_ Act  No. 149, 1989.
+
+* * *
 
 # Notes to the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_
 
@@ -1080,7 +1113,7 @@ Remainder: 24 May 2001</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch 1\. (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1111,7 +1144,7 @@ Remainder: 24 May 2001</div>
     <div>14 Sept 2006</div>
   </td>
   <td colspan="2">
-    <div>Schedule 5 (item 21) and Schedule 6 (items 5–11): Royal Assent</div>
+    <div>Schedule 5 (item 21) and Schedule 6 (items 5–11): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 
@@ -1166,24 +1199,7 @@ Remainder: 24 May 2001</div>
     <div>Schedule 2 (items 171–173) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td colspan="2">
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 11, 12): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -1462,7 +1478,7 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
     <div>Heading to s. 42</div>
   </td>
   <td>
-    <div>am. No. 1, 1994; No. 152, 1997; No. 32, 2005</div>
+    <div>am. No. 152, 1997; No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1478,7 +1494,7 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
     <div>Heading to s. 43</div>
   </td>
   <td>
-    <div>am. No. 1, 1994; No. 32, 2005</div>
+    <div>am. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1531,30 +1547,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 11</div>
-  </td>
-  <td>
-    <div>rs. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part 11</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -1575,30 +1567,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   </td>
   <td>
     <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 11</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
