@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00370/Html/FEEA14F685AE5C70CA25702600029DE6/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00294/Html/88B83E65B3420206CA256FE400072A7E/$FILE/image001.gif)
 
 # Datacasting Charge (Imposition) Act 1998
 
-**Act No. 98 of 1998 as amended**
+**Act No. 98 of 1998 as amended**
 
-This compilation was prepared on 1 July 2005
-taking into account amendments up to Act No. 49 of 2005
+This compilation was prepared on 8 April 2005
+taking into account amendments up to Act No. 49 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -19,9 +19,9 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title _see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement _see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]
 
 [3](#3).            Interpretation
 
@@ -42,11 +42,11 @@ Attorney-General’s Department, Canberra
 
 ## An Act to impose a charge in relation to the provision of datacasting services by the ABC, the SBS and commercial television licensees
 
-##### <a id="1"></a>1  Short title _see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Datacasting Charge (Imposition) Act 1998_.
+                   This Act may be cited as the _Datacasting Charge (Imposition) Act 1998_.
 
-##### <a id="2"></a>2  Commencement _see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the day on which it receives the Royal Assent.
 
@@ -54,7 +54,7 @@ Attorney-General’s Department, Canberra
 
                    In this Act:
 
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+                    <a name="aca"></a>**_ACA_** means the Australian Communications Authority.
 
                     <a name="bsa-datacast-licenc"></a>**_BSA datacasting licence_** means a datacasting licence under Schedule 6 to the _Broadcasting Services Act 1992_.
 
@@ -94,17 +94,17 @@ Attorney-General’s Department, Canberra
 
                              (ii)  was not a designated teletext service; and
 
-                     (e)  a determination under section 7 is in force at the beginning of the financial year;
+                     (e)  a determination under section 7 is in force at the beginning of the financial year;
 
 charge is imposed on the transmitter licence in respect of the financial year.
 
 ##### <a id="7"></a>7  Amount of charge
 
-             (1)  The amount of charge imposed on a transmitter licence in respect of a financial year is the amount ascertained in accordance with a written determination made by the ACMA.
+             (1)  The amount of charge imposed on a transmitter licence in respect of a financial year is the amount ascertained in accordance with a written determination made by the ACA.
 
-Note:          Under section 14 of the _Australian Communications and Media Authority Act 2005_, the Minister may give the ACMA directions in relation to the performance of its functions and the exercise of its powers.
+Note:          Under section 12 of the _Australian Communications Authority Act 1997_, the Minister may give the ACA directions in relation to the performance of its functions and the exercise of its powers.
 
-             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="8"></a>8  By whom charge is payable
 
@@ -115,7 +115,7 @@ Note:          Under section 14 of the _Australian Communica
 
 ### Note 1
 
-The _Datacasting Charge (Imposition) Act 1998_ as shown in this compilation comprises Act No. 98, 1998 amended as indicated in the Tables below.
+The _Datacasting Charge (Imposition) Act 1998_ as shown in this compilation comprises Act No. 98, 1998 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -162,10 +162,10 @@ of Assent
       <div>98, 1998</div>
     </td>
     <td>
-      <div>27 July 1998</div>
+      <div>27 July 1998</div>
     </td>
     <td>
-      <div>27 July 1998</div>
+      <div>27 July 1998</div>
     </td>
     <td>
       <div></div>
@@ -199,12 +199,103 @@ of Assent
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+      <div>Schedules 1 and 2: \[ <i>see</i> <i>(a)</i>, Note 2 and Table A] 
 Remainder: Royal Assent 
 </div>
     </td>
     <td>
       <div>Sch. 2</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_ Subsection 2(1) (item 2) of the _Datacasting Charge (Imposition) Amendment Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedules 1 and 2
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 2 and Table A]
+      </div>
     </td>
   </tr>
 </tbody></table>
@@ -239,7 +330,7 @@ Remainder: Royal Assent
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. No. 109, 2000; No. 49, 2005</div>
+      <div>am. No. 109, 2000</div>
     </td>
   </tr>
   <tr>
@@ -247,35 +338,52 @@ Remainder: Royal Assent
       <div>S. 6</div>
     </td>
     <td>
-      <div>am. No. 109, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 49, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 7(1)</div>
-    </td>
-    <td>
-      <div>rs. No. 49, 2005</div>
+      <div>am. No. 109, 2000</div>
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Datacasting Charge (Imposition) Amendment Act 2005 (No. 49, 2005)_
+
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 3 (definition of _ACA_)
+
+Repeal the definition.
+
+## 2  Section 3
+
+Insert:
+
+                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+
+## 3  Subsection 7(1)
+
+Omit “by the ACA”, substitute “by the ACMA”.
+
+## 4  Subsection 7(1) (note)
+
+Repeal the note, substitute:
+
+Note:          Under section 14 of the _Australian Communications and Media Authority Act 2005_, the Minister may give the ACMA directions in relation to the performance of its functions and the exercise of its powers.
+
+As at 8 April 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Datacasting Charge (Imposition) Amendment Act 2005 (No. 49, 2005)_
+_Datacasting Charge (Imposition) Amendment Act 2005 (No. 49, 2005)_
 
-## Schedule 2
+The following provisions commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 2
 
 ## 1  Definitions
 
