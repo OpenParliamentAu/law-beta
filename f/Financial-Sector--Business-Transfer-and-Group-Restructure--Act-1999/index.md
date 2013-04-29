@@ -1,21 +1,20 @@
-![](http://www.comlaw.gov.au/Details/C2007C00574/Html/08A897A6A9B70E78CA257368000D4BB7/$FILE/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00430/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 27 September 2007
-taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 4 July 2007
+ taking into account amendments up to Act No. 117 of 2007
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+ on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+ affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
-
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -187,7 +186,6 @@ Attorney-General’s Department, Canberra
 
 **Notes** 
 
-
 ## An Act to provide for transfers of business between some kinds of financial institutions, and to make provision in relation to internal restructures within some groups of financial institutions
 
 ## Part 1—Preliminary
@@ -244,7 +242,7 @@ Attorney-General’s Department, Canberra
 
                     <a name="established"></a>**_established_**—a body is established in a State or Territory if:
 
-                     (a)  it is registered under the _Corporations Act 2001_ and is taken, under section 119A or subsection 1378(4) of that Act, to be registered in that State or Territory; or
+                     (a)  it is registered under the _Corporations Act 2001_ and is taken, under section 119A or subsection 1378(4) of that Act, to be registered in that State or Territory; or
 
                      (b)  it is established by or under a law of that State or Territory.
 
@@ -340,7 +338,7 @@ Attorney-General’s Department, Canberra
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="6"></a>6  External Territories
+##### <a id="6"></a>6  External  Territories
 
                    This Act extends to every external Territory.
 
@@ -1554,7 +1552,9 @@ the receiving body is liable to pay to the person compensation of a reasonable a
 
 ##### <a id="46"></a>46  Transfer rules
 
-                   APRA may, by legislative instrument, make rules prescribing all matters required or permitted by this Act to be prescribed by transfer rules.
+             (1)  APRA may, in writing, make rules prescribing all matters required or permitted by this Act to be prescribed by transfer rules.
+
+             (2)  Rules made by APRA under subsection (1) are a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="47"></a>47  Regulations
 
@@ -1564,14 +1564,13 @@ the receiving body is liable to pay to the person compensation of a reasonable a
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-
 # Notes to the _Financial Sector (Business Transfer and Group Restructure) Act 1999_
 
 ### Note 1
 
 The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ as shown in this compilation comprises Act No. 45, 1999 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1593,13 +1592,11 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year 
- </div>
+and year</div>
     </td>
     <td>
       <div>Date 
-of Assent 
- </div>
+of Assent</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1609,161 +1606,136 @@ of Assent
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Financial Sector (Transfers of Business) Act 1999</div>
-    </td>
-    <td>
-      <div>45, 1999</div>
-    </td>
-    <td>
-      <div>17 June 1999</div>
-    </td>
-    <td>
-      <div>1 July 1999 
-( <i>see</i>s. 2) 
-</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-    </td>
-    <td>
-      <div>55, 2001</div>
-    </td>
-    <td>
-      <div>28 June 2001</div>
-    </td>
-    <td>
-      <div>Ss. 4–14 and Schedule 3 (items 192–194): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
-    </td>
-    <td>
-      <div>Ss. 4–14 
-\[ <i>see</i>Note 1] 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
-    </td>
-    <td>
-      <div>37, 2002</div>
-    </td>
-    <td>
-      <div>26 June 2002</div>
-    </td>
-    <td>
-      <div>Schedule 3: 27 June 2002 <i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
-    </td>
-    <td>
-      <div>42, 2003</div>
-    </td>
-    <td>
-      <div>24 June 2003</div>
-    </td>
-    <td>
-      <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 3</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-    </td>
-    <td>
-      <div>101, 2006</div>
-    </td>
-    <td>
-      <div>14 Sept 2006</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 80) and Schedule 6 (items 1, 6–11): 
-Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 6 
-(items 1, 6–11) 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006</div>
-    </td>
-    <td>
-      <div>147, 2006</div>
-    </td>
-    <td>
-      <div>6 Dec 2006</div>
-    </td>
-    <td>
-      <div>6 Dec 2006</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment (Restructures) Act 2007</div>
-    </td>
-    <td>
-      <div>117, 2007</div>
-    </td>
-    <td>
-      <div>28 June 2007</div>
-    </td>
-    <td>
-      <div>28 June 2007</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-    </td>
-    <td>
-      <div>154, 2007</div>
-    </td>
-    <td>
-      <div>24 Sept 2007</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 35, 36): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div>Financial Sector (Transfers of Business) Act 1999</div>
+  </td>
+  <td>
+    <div>45, 1999</div>
+  </td>
+  <td>
+    <div>17 June 1999</div>
+  </td>
+  <td>
+    <div>1 July 1999 
+( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+  </td>
+  <td>
+    <div>55, 2001</div>
+  </td>
+  <td>
+    <div>28 June 2001</div>
+  </td>
+  <td>
+    <div>Ss. 4–14 and Schedule 3 (items 192–194): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+  </td>
+  <td>
+    <div>Ss. 4–14 
+\[ <i>see</i>Note 1]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
+  </td>
+  <td>
+    <div>37, 2002</div>
+  </td>
+  <td>
+    <div>26 June 2002</div>
+  </td>
+  <td>
+    <div>Schedule 3: 27 June 2002 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>42, 2003</div>
+  </td>
+  <td>
+    <div>24 June 2003</div>
+  </td>
+  <td>
+    <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
+  </td>
+  <td>
+    <div>101, 2006</div>
+  </td>
+  <td>
+    <div>14 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 80) and Schedule 6 (items 1, 6–11): 
+Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 6 
+(items 1, 6–11)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006</div>
+  </td>
+  <td>
+    <div>147, 2006</div>
+  </td>
+  <td>
+    <div>6 Dec 2006</div>
+  </td>
+  <td>
+    <div>6 Dec 2006</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Sector Legislation Amendment (Restructures) Act 2007</div>
+  </td>
+  <td>
+    <div>117, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
 
 _(a)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ was amended by Schedule 3 (items 192–194) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ was amended by Schedule 3 only of the _Financial Sector Legislation Amendment Act (No. 1) 2002_, subsection 2(1) (item 2) of which provides as follows:
+_(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ was amended by Schedule 3 only of the _Financial Sector Legislation Amendment Act (No. 1) 2002_, subsection 2(1) (item 2) of which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1831,26 +1803,23 @@ _(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ 
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        2\. Schedules 1 to 3
-      </div>
-    </td>
-    <td>
-      <div>
-        The day after the day on which this Act receives the Royal Assent
-      </div>
-    </td>
-    <td>
-      <div>
-        27 June 2002
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div>
+      2\. Schedules 1 to 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after the day on which this Act receives the Royal Assent
+    </div>
+  </td>
+  <td>
+    <div>
+      27 June 2002
+    </div>
+  </td>
+</tr></table>
 
 ## Table of Amendments
 
@@ -1875,267 +1844,255 @@ _(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ 
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>am. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 1</div>
-    </td>
-    <td>
-      <div>rs. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7A</div>
-    </td>
-    <td>
-      <div>ad. No. 147, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>am. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>am. No. 37, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 4A</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 36A</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 36B–36F</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 36G, 36H</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 36J, 36K</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 36L–36N</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 36P–36R</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 5</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 36S</div>
-    </td>
-    <td>
-      <div>ad. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 5</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 39</div>
-    </td>
-    <td>
-      <div>am. No. 55, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 6</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 41</div>
-    </td>
-    <td>
-      <div>am. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 43</div>
-    </td>
-    <td>
-      <div>am. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 45</div>
-    </td>
-    <td>
-      <div>am. No. 117, 2007</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 46</div>
-    </td>
-    <td>
-      <div>am. No. 154, 2007</div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 1</div>
+  </td>
+  <td>
+    <div>rs. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 147, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 37, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36A</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 36B–36F</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 36G, 36H</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 36J, 36K</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 36L–36N</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 36P–36R</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36S</div>
+  </td>
+  <td>
+    <div>ad. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 117, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>am. No. 117, 2007</div>
+  </td>
+</tr></table>
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Australian Prudential Regulation Authority Amendment Act 2003
-(No. 42, 2003)
-_
+ (No. 42, 2003)_
 
-## Schedule 3
+## Schedule 3
 
 ## 1  Definitions
 
@@ -2193,15 +2150,12 @@ An approval in force, immediately before the commencement of the amendments, und
 
 (2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
+* * *
 
 _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
-(No. 101, 2006)
-_
+ (No. 101, 2006)_
 
-## Schedule 6
+## Schedule 6
 
 ## 1  Application of Schedule 1 and 2 amendments
 
@@ -2274,7 +2228,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
 
  
 
