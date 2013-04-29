@@ -1,152 +1,151 @@
-![](http://www.comlaw.gov.au/Details/C2008C00414/Html/ForAcqTakeOve1975WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00050/Html/ForAcqTakeOve1975WD02_files/image002.gif)
 
 # Foreign Acquisitions and Takeovers Act 1975
 
 **Act No. 92 of 1975 as amended**
 
-This compilation was prepared on 14 July 2008
- taking into account amendments up to Act No. 73 of 2008
-
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+This compilation was prepared on <st1:date month="1" day="1" year="2005">1 January 2005</st1:date>
+ taking into account amendments up to Act No. 120 of 2004
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+ affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, <st1:city><st1:place>Canberra</st1:place></st1:city>
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary<span style="mso-tab-count:1">                                                                                                                </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[3](#3).            Transitional provisions
+[3](#3).            Transitional provisions<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[4](#4).            Additional operation of Act
+[4](#4).            Additional operation of Act<span style="mso-tab-count:1 dotted">                                                                </span>
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation<span style="mso-tab-count:1 dotted">                                                                                       </span>
 
-[5A](#5A).         Ordinarily resident non-citizens
+[5A](#5A).         Ordinarily resident non-citizens<span style="mso-tab-count:1 dotted">                                                        </span>
 
-[6](#6).            Associates
+[6](#6).            Associates<span style="mso-tab-count:1 dotted">                                                                                          </span>
 
-[7](#7).            Australian business
+[7](#7).            Australian business<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[8](#8).            Control of voting power
+[8](#8).            Control of voting power<span style="mso-tab-count:1 dotted">                                                                    </span>
 
-[9](#9).            Substantial and controlling interests in corporations
+[9](#9).            Substantial and controlling interests in corporations<span style="mso-tab-count:1 dotted">                         </span>
 
-[9A](#9A).         Substantial interests in trust estates
+[9A](#9A).         Substantial interests in trust estates<span style="mso-tab-count:1 dotted">                                                  </span>
 
-[10](#10).          Holding corporations and subsidiaries
+[10](#10).          Holding corporations and subsidiaries<span style="mso-tab-count:1 dotted">                                               </span>
 
-[11](#11).          Interests in shares
+[11](#11).          Interests in shares<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[12](#12).          Interests in assets
+[12](#12).          Interests in assets<span style="mso-tab-count:1 dotted">                                                                              </span>
 
-[12A](#12A).       Interests in Australian urban land
+[12A](#12A).       Interests in Australian urban land<span style="mso-tab-count:1 dotted">                                                      </span>
 
-[12B](#12B).       Interests in trust estates
+[12B](#12B).       Interests in trust estates<span style="mso-tab-count:1 dotted">                                                                    </span>
 
-[12C](#12C).       Tracing of substantial interests in corporations and trust estates
+[12C](#12C).       Tracing of substantial interests in corporations and trust estates<span style="mso-tab-count:1 dotted">     </span>
 
-[13](#13).          Prescribed corporations
+[13](#13).          Prescribed corporations<span style="mso-tab-count:1 dotted">                                                                     </span>
 
-[13A](#13A).       Exempt dealings
+[13A](#13A).       Exempt dealings<span style="mso-tab-count:1 dotted">                                                                                 </span>
 
-[13B](#13B).       Valuation of assets for purposes of section 13A
+[13B](#13B).       Valuation of assets for purposes of section 13A<span style="mso-tab-count:1 dotted">                              </span>
 
-[13C](#13C).       Australian urban land corporations
+[13C](#13C).       Australian urban land corporations<span style="mso-tab-count:1 dotted">                                                   </span>
 
-[13D](#13D).       Australian urban land trust estates
+[13D](#13D).       Australian urban land trust estates<span style="mso-tab-count:1 dotted">                                                    </span>
 
-[14](#14).          Voting power
+[14](#14).          Voting power<span style="mso-tab-count:1 dotted">                                                                                     </span>
 
-[15](#15).          Application of Act
+[15](#15).          Application of Act<span style="mso-tab-count:1 dotted">                                                                            </span>
 
-[16](#16).          Extra-territorial operation of Act
+[16](#16).          Extra-territorial operation of Act<span style="mso-tab-count:1 dotted">                                                       </span>
 
-[17](#17).          Persons obliged to comply with Act
+[17](#17).          Persons obliged to comply with Act<span style="mso-tab-count:1 dotted">                                                 </span>
 
-**Part IA—Exempt foreign investments**
+**Part IA—Exempt foreign investments<span style="mso-tab-count: 1">                                                                      </span>**
 
-[17A](#17A).       Exempt foreign investments in prescribed corporations etc 
+[17A](#17A).       Exempt foreign investments in prescribed corporations etc <span style="mso-tab-count:1 dotted">             </span>
 
-[17B](#17B).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign investors
+[17B](#17B).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign investors<span style="mso-tab-count:1">  </span>
 
-[17C](#17C).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign government investors
+[17C](#17C).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign government investors<span style="mso-tab-count:1 dotted">                                                                                            </span>
 
-[17D](#17D).       Exempt foreign investments in financial sector companies etc 
+[17D](#17D).       Exempt foreign investments in financial sector companies etc <span style="mso-tab-count:1 dotted">         </span>
 
-[17E](#17E).        Prescribed foreign investor
+[17E](#17E).        Prescribed foreign investor<span style="mso-tab-count:1 dotted">                                                                </span>
 
-[17F](#17F).        Foreign government investor
+[17F](#17F).        Foreign government investor<span style="mso-tab-count:1 dotted">                                                             </span>
 
-[17G](#17G).       Prescribed foreign government investor
+[17G](#17G).       Prescribed foreign government investor<span style="mso-tab-count:1 dotted">                                             </span>
 
-[17H](#17H).       Prescribed sensitive sector
+[17H](#17H).       Prescribed sensitive sector<span style="mso-tab-count:1 dotted">                                                                 </span>
 
-**Part II—Control of takeovers and other transactions**
+**Part II—Control of takeovers and other transactions<span style="mso-tab-count:1">                                     </span>**
 
-[18](#18).          Acquisitions of shares
+[18](#18).          Acquisitions of shares<span style="mso-tab-count:1 dotted">                                                                       </span>
 
-[19](#19).          Acquisitions of assets
+[19](#19).          Acquisitions of assets<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[20](#20).          Arrangements relating to directorate of corporations
+[20](#20).          Arrangements relating to directorate of corporations<span style="mso-tab-count:1 dotted">                        </span>
 
-[21](#21).          Arrangements relating to control of Australian businesses
+[21](#21).          Arrangements relating to control of Australian businesses<span style="mso-tab-count:1 dotted">               </span>
 
-[21A](#21A).       Acquisitions of interests in Australian urban land
+[21A](#21A).       Acquisitions of interests in Australian urban land<span style="mso-tab-count:1 dotted">                            </span>
 
-[22](#22).          Interim orders
+[22](#22).          Interim orders<span style="mso-tab-count:1 dotted">                                                                                    </span>
 
-[23](#23).          Revocation of orders
+[23](#23).          Revocation of orders<span style="mso-tab-count:1 dotted">                                                                          </span>
 
-[24](#24).          Publication of orders
+[24](#24).          Publication of orders<span style="mso-tab-count:1 dotted">                                                                          </span>
 
-[25](#25).          Effect of notification of transactions
+[25](#25).          Effect of notification of transactions<span style="mso-tab-count:1 dotted">                                                 </span>
 
-[26](#26).          Compulsory notification of certain section 18 transactions
+[26](#26).          Compulsory notification of certain section 18 transactions<span style="mso-tab-count:1 dotted">              </span>
 
-[26A](#26A).       Compulsory notification of certain section 21A transactions
+[26A](#26A).       Compulsory notification of certain section 21A transactions<span style="mso-tab-count:1 dotted">           </span>
 
-[27](#27).          Form of notification
+[27](#27).          Form of notification<span style="mso-tab-count:1 dotted">                                                                           </span>
 
-[28](#28).          Notification of options
+[28](#28).          Notification of options<span style="mso-tab-count:1 dotted">                                                                      </span>
 
-**Part III—Miscellaneous**
+**Part III—Miscellaneous<span style="mso-tab-count:1">                                                                                                   </span>**
 
-[30](#30).          Offences
+[30](#30).          Offences<span style="mso-tab-count:1 dotted">                                                                                             </span>
 
-[31](#31).          Offences by officers of corporations
+[31](#31).          Offences by officers of corporations<span style="mso-tab-count:1 dotted">                                                 </span>
 
-[35](#35).          Powers of court to enforce Treasurer’s orders
+[35](#35).          Powers of court to enforce Treasurer’s orders<span style="mso-tab-count:1 dotted">                                  </span>
 
-[36](#36).          Treasurer may require information
+[36](#36).          Treasurer may require information<span style="mso-tab-count:1 dotted">                                                    </span>
 
-[37](#37).          Effect of Act on other laws
+[37](#37).          Effect of Act on other laws<span style="mso-tab-count:1 dotted">                                                               </span>
 
-[38](#38).          Validity of acts done in contravention of Act
+[38](#38).          Validity of acts done in contravention of Act<span style="mso-tab-count:1 dotted">                                   </span>
 
-[38A](#38A).       Anti-avoidance
+[38A](#38A).       Anti-avoidance<span style="mso-tab-count:1 dotted">                                                                                   </span>
 
-[39](#39).          Regulations
+[39](#39).          Regulations<span style="mso-tab-count:1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
+
+<o:p> </o:p>
 
 ## An Act relating to the foreign acquisition of certain land interests and to the foreign control of certain business enterprises and mineral rights
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Foreign Acquisitions and Takeovers Act 1975_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act shall come into operation on a date to be fixed by Proclamation.
 
@@ -184,27 +183,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (3)  Without prejudice to its effect apart from this subsection, this Act also has, by force of this subsection, the effect it would have if references in sections 19 and 21 to a foreign person were references to:
 
-                     (a)  a natural person not ordinarily resident in Australia;
+                     (a)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                     (b)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest;
+                     (b)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a controlling interest;
 
-                     (c)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest;
+                     (c)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate controlling interest;
 
-                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
-                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
+                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest.
 
              (4)  Without prejudice to its effect apart from this subsection, this Act also has, by force of this subsection, the effect it would have if:
 
                      (a)  references in sections 19 and 21 to a foreign person were references to:
 
-                              (i)  a natural person not ordinarily resident in Australia;
+                              (i)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                             (ii)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest;
+                             (ii)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a controlling interest;
 
-                            (iii)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest;
+                            (iii)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate controlling interest;
 
-                            (iv)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                            (iv)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
                              (v)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest; and
 
@@ -214,13 +213,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  references in sections 19 and 21 to a foreign person were references to:
 
-                              (i)  a natural person not ordinarily resident in Australia;
+                              (i)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                             (ii)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest;
+                             (ii)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a controlling interest;
 
-                            (iii)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest;
+                            (iii)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate controlling interest;
 
-                            (iv)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                            (iv)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
                              (v)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest; and
 
@@ -228,15 +227,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (6)  Without prejudice to its effect apart from this subsection, this Act also has, by force of this subsection, the effect it would have if references in section 21A to a foreign person were references to:
 
-                     (a)  a natural person not ordinarily resident in Australia;
+                     (a)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                     (b)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest;
+                     (b)  a corporation (other than a foreign corporation) in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest;
 
                      (c)  a corporation (other than a foreign corporation) in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest;
 
-                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
-                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
+                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest.
 
 ##### <a id="5"></a>5  Interpretation
 
@@ -252,13 +251,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="asset"></a>**_asset_** includes an interest in an asset.
 
-                    <a name="australia"></a>**_Australia_** includes the external Territories to which this Act extends.
+                    <a name="australia"></a><st1:country-region><st1:place>**_Australia_**</st1:place></st1:country-region> includes the external Territories to which this Act extends.
 
                     <a name="australian-corpor"></a>**_Australian corporation_** means a corporation of a kind referred to in paragraph 13(1)(a), (b) or (c).
 
-                    <a name="australian-rural-land"></a>**_Australian rural land_** means land situated in Australia that is used wholly and exclusively for carrying on a business of primary production.
+                    <a name="australian-rural-land"></a>**_Australian rural land_** means land situated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> that is used wholly and exclusively for carrying on a business of primary production.
 
-                    <a name="australian-urban-land"></a>**_Australian urban land_** means land situated in Australia that is not Australian rural land.
+                    <a name="australian-urban-land"></a>**_Australian urban land_** means land situated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> that is not Australian rural land.
 
                     <a name="australian-urban-land-corpor"></a>**_Australian urban land corporation_** means a corporation to which section 13C applies.
 
@@ -280,15 +279,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="foreign-person"></a>**_foreign person_** means:
 
-                     (a)  a natural person not ordinarily resident in Australia;
+                     (a)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                     (b)  a corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest;
+                     (b)  a corporation in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a controlling interest;
 
-                     (c)  a corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest;
+                     (c)  a corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate controlling interest;
 
-                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
-                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
+                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest.
 
                     <a name="interest-australian-urban-land"></a>**_interest in Australian urban land_** has the meaning given by section 12A.
 
@@ -372,23 +371,23 @@ and references to an arrangement shall be construed accordingly.
 
              (5)  In this Act, a reference to entering into an agreement or arrangement includes a reference to altering or varying an agreement or arrangement.
 
-             (6)  In this Act, an act done or proposed to be done by an agent on behalf of his or her principal shall be deemed to be done or proposed to be done by his or her principal.
+             (6)  In this Act, an act done or proposed to be done by an agent on behalf of his principal shall be deemed to be done or proposed to be done by his principal.
 
              (8)  A reference in this Act to an offence against this Act or against a particular provision of this Act includes a reference to an offence consisting of an attempt to commit such an offence.
 
 ##### <a id="5A"></a>5A  Ordinarily resident non-citizens
 
-             (1)  For the purposes of this Act, a natural person who is not an Australian citizen is ordinarily resident in Australia at a particular time if and only if:
+             (1)  For the purposes of this Act, a natural person who is not an Australian citizen is ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> at a particular time if and only if:
 
                      (a)  the person has actually been in Australia during 200 or more days in the period of 12 months immediately preceding that time; and
 
                      (b)  at that time, either:
 
-                              (i)  the person is in Australia and the person’s continued presence in Australia is not subject to any limitation as to time imposed by law; or
+                              (i)  the person is in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> and the person’s continued presence in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> is not subject to any limitation as to time imposed by law; or
 
-                             (ii)  the person is not in Australia but, immediately before the person’s most recent departure from Australia, the person’s continued presence in Australia was not subject to any limitation as to time imposed by law.
+                             (ii)  the person is not in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> but, immediately before the person’s most recent departure from <st1:country-region><st1:place>Australia</st1:place></st1:country-region>, the person’s continued presence in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> was not subject to any limitation as to time imposed by law.
 
-             (2)  For the purposes of paragraph (1)(b), but without otherwise limiting the generality of that paragraph, a person’s continued presence in Australia is subject to a limitation as to time imposed by law if the person is an unlawful non-citizen within the meaning of the _Migration Act 1958_.
+             (2)  For the purposes of paragraph (1)(b), but without otherwise limiting the generality of that paragraph, a person’s continued presence in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> is subject to a limitation as to time imposed by law if the person is an unlawful non-citizen within the meaning of the _Migration Act 1958_.
 
 ##### <a id="6"></a>6  Associates
 
@@ -424,9 +423,9 @@ and references to an arrangement shall be construed accordingly.
 
 ##### <a id="7"></a>7  Australian business
 
-             (1)  A reference in this Act to an Australian business is a reference to a business that is carried on wholly or partly in Australia in anticipation of profit or gain.
+             (1)  A reference in this Act to an Australian business is a reference to a business that is carried on wholly or partly in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> in anticipation of profit or gain.
 
-             (2)  For the purposes of this Act, the holder of a mineral right shall, by virtue of his or her holding that right, be deemed to carry on in Australia, in anticipation of profit or gain, a business of exploiting that right, and that right shall be deemed to be an asset of that business.
+             (2)  For the purposes of this Act, the holder of a mineral right shall, by virtue of his holding that right, be deemed to carry on in Australia, in anticipation of profit or gain, a business of exploiting that right, and that right shall be deemed to be an asset of that business.
 
              (3)  A reference in this Act, other than this section, to an Australian business does not include a reference to a business that is, or is deemed to be, carried on by any of the following persons, whether alone or together with any other person or persons:
 
@@ -498,29 +497,29 @@ that person shall be taken to hold a controlling interest in the corporation, or
 
 ##### <a id="11"></a>11  Interests in shares
 
-             (1)  Subject to this section, a person holds an interest in a share if he or she has any legal or equitable interest in that share.
+             (1)  Subject to this section, a person holds an interest in a share if he has any legal or equitable interest in that share.
 
              (2)  Without limiting the generality of subsection (1), where a person:
 
                      (a)  has entered into a contract to purchase a share;
 
-                     (b)  has a right, otherwise than by reason of having an interest under a trust, to have a share transferred to himself or herself or to his or her order, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not;
+                     (b)  has a right, otherwise than by reason of having an interest under a trust, to have a share transferred to himself or to his order, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not;
 
                      (c)  has the right to acquire a share, or an interest in a share, under an option, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not; or
 
-                     (d)  is entitled (otherwise than by reason of his or her having been appointed a proxy or representative to vote at a meeting of members of a corporation or of a class of its members) to exercise or control the exercise of a right attached to a share, not being a share of which he or she is the registered holder;
+                     (d)  is entitled (otherwise than by reason of his having been appointed a proxy or representative to vote at a meeting of members of a corporation or of a class of its members) to exercise or control the exercise of a right attached to a share, not being a share of which he is the registered holder;
 
 that person shall be deemed to hold an interest in that share.
 
-             (3)  A person shall not be deemed not to hold an interest in a share by reason only that he or she holds the interest in the share jointly with another person.
+             (3)  A person shall not be deemed not to hold an interest in a share by reason only that he holds the interest in the share jointly with another person.
 
              (4)  It is immaterial, for the purpose of determining whether a person holds an interest in a share, that the interest cannot be related to a particular share.
 
              (5)  There shall be disregarded:
 
-                     (a)  an interest in a share of a person whose ordinary business includes the lending of money if he or she holds the interest solely by way of security for the purposes of a moneylending agreement;
+                     (a)  an interest in a share of a person whose ordinary business includes the lending of money if he holds the interest solely by way of security for the purposes of a moneylending agreement;
 
-                     (b)  an interest of a person in a share, being an interest held by him or her by reason of his or her holding a prescribed office; and
+                     (b)  an interest of a person in a share, being an interest held by him by reason of his holding a prescribed office; and
 
                      (c)  an interest of a prescribed kind in a share, being an interest of such person, or of the persons included in such class of persons, as is prescribed.
 
@@ -652,11 +651,11 @@ the following provisions have effect for the purposes of this Act:
 
                      (d)  a foreign corporation that, on its last accounting date, held assets the sum of the values of which exceeded $20,000,000 or such other amount as is prescribed, being assets consisting of all or any of the following:
 
-                              (i)  land situated in Australia (including legal and equitable interests in such land);
+                              (i)  land situated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> (including legal and equitable interests in such land);
 
                              (ii)  mineral rights;
 
-                            (iii)  shares in a corporation incorporated in Australia;
+                            (iii)  shares in a corporation incorporated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
                      (e)  a foreign corporation that was, on its last accounting date, a holding corporation of an Australian corporation or Australian corporations, where the sum of the values on that date of the assets of the Australian corporation or Australian corporations exceeded $20,000,000 or such other amount as is prescribed;
 
@@ -704,7 +703,7 @@ the following provisions have effect for the purposes of this Act:
 
 ##### <a id="13B"></a>13B  Valuation of assets for purposes of section 13A
 
-             (1)  For the purposes of Part IA, or in determining whether a corporation is an exempt corporation, in relation to the application of section 18 or 26, the value of a corporation’s total assets at a particular time is:
+             (1)  For the purposes of <st1:place><st1:city>Part</st1:city> <st1:state>IA</st1:state></st1:place>, or in determining whether a corporation is an exempt corporation, in relation to the application of section 18 or 26, the value of a corporation’s total assets at a particular time is:
 
                      (a)  where the corporation is not a holding corporation:
 
@@ -720,7 +719,7 @@ the following provisions have effect for the purposes of this Act:
 
              (2)  For the purposes of subparagraphs (1)(a)(ii) and (b)(ii) in relation to the application of section 18, the value of the issued shares of a corporation, or the aggregate value of the issued shares of a group of corporations, is the value ascertained under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00414/Html/ForAcqTakeOve1975WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00050/Html/ForAcqTakeOve1975WD02_files/image004.gif)
 
 where:
 
@@ -736,7 +735,7 @@ where:
 
              (3)  For the purposes of subparagraphs (1)(a)(ii) and (b)(ii) in relation to the application of section 26, the value of the issued shares of a corporation, or the aggregate value of the issued shares of a group of corporations, is the value ascertained under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00414/Html/ForAcqTakeOve1975WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00050/Html/ForAcqTakeOve1975WD02_files/image004.gif)
 
 where:
 
@@ -748,7 +747,7 @@ where:
 
              (4)  For the purposes of Part IA, or in determining whether a business is an exempt business, in relation to the application of section 19, the value of a business’ total assets is the consideration for the acquisition referred to in that section.
 
-             (5)  For the purposes of Part IA, or in determining whether a corporation is an exempt corporation, in relation to the application of section 20, the value of a corporation’s total assets at a particular time is:
+             (5)  For the purposes of <st1:place><st1:city>Part</st1:city> <st1:state>IA</st1:state></st1:place>, or in determining whether a corporation is an exempt corporation, in relation to the application of section 20, the value of a corporation’s total assets at a particular time is:
 
                      (a)  where the corporation is not a holding corporation—the value of those assets as shown in the last balance-sheet of the corporation audited before that time or, if no balance-sheet was audited before that time, as shown at that time in the accounting records of the corporation; or
 
@@ -810,11 +809,13 @@ the value of those assets as shown shall be taken to be their value for the purp
 
 ##### <a id="16"></a>16  Extra-territorial operation of Act
 
-                   This Act applies both within and outside   Australia and extends to every external Territory other than Papua New Guinea.
+                   This Act applies both within and outside <st1:country-region><st1:place>Australia</st1:place></st1:country-region> and extends to every external Territory other than <st1:country-region><st1:place>Papua   New Guinea</st1:place></st1:country-region>.
 
 ##### <a id="17"></a>17  Persons obliged to comply with Act
 
-                   The obligation to comply with this Act extends to all natural persons, whether resident in Australia or not and whether Australian citizens or not, and to all corporations, whether incorporated or carrying on business in Australia or not.
+                   The obligation to comply with this Act extends to all natural persons, whether resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or not and whether Australian citizens or not, and to all corporations, whether incorporated or carrying on business in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or not.
+
+<o:p> </o:p>
 
 ## Part IA—Exempt foreign investments
 
@@ -988,7 +989,7 @@ Note:          For specification by class, see subsection 13(3
 
                      (c)  an entity mentioned in paragraph (a) holds an interest in the entity that satisfies the conditions specified in the regulations.
 
-##### <a id="17G"></a>17G  Prescribed foreign government investor
+##### <a id="17G"></a>17G  Prescribed foreign government investor
 
                    An entity is a **_prescribed foreign government investor_** if:
 
@@ -1003,6 +1004,8 @@ Note:          For specification by class, see subsection 13(3
                      (a)  the conditions specified in the regulations are satisfied in relation to the prescribed foreign investor; and
 
                      (b)  the conditions specified in the regulations are satisfied in relation to the kind of business activity.
+
+<o:p> </o:p>
 
 ## Part II—Control of takeovers and other transactions
 
@@ -1028,7 +1031,7 @@ Note:          For specification by class, see subsection 13(3
 
 the Treasurer may make an order prohibiting the proposed acquisition or all or any of the proposed acquisitions, or the proposed issue, as the case may be.
 
-             (3)  Where the Treasurer makes an order under subsection (2) prohibiting a proposed acquisition of shares in a corporation, he or she may also make an order in relation to a specified foreign person, or in relation to a specified foreign person and specified associates, or the persons included in a specified class of associates, of that person, directing that that person shall not, or none of those persons shall, whether alone or together with any other or others of them:
+             (3)  Where the Treasurer makes an order under subsection (2) prohibiting a proposed acquisition of shares in a corporation, he may also make an order in relation to a specified foreign person, or in relation to a specified foreign person and specified associates, or the persons included in a specified class of associates, of that person, directing that that person shall not, or none of those persons shall, whether alone or together with any other or others of them:
 
                      (a)  be in a position to control more of the total voting power in the corporation than:
 
@@ -1054,9 +1057,9 @@ the Treasurer may make an order prohibiting the proposed acquisition or all or a
 
 the Treasurer may make an order directing the person who acquired the shares to dispose of those shares within a specified time to any person or persons approved in writing by the Treasurer.
 
-             (5)  Before the expiration of the time specified in an order made under subsection (4) or of that time as extended under this subsection, the Treasurer may, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
+             (5)  Before the expiration of the time specified in an order made under subsection (4) or of that time as extended under this subsection, the Treasurer may, by writing signed by him, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
-             (6)  The Treasurer shall not refuse to approve a person for the purposes of subsection (4) unless he or she is satisfied that the person is a foreign person and that it would be contrary to the national interest for that person to acquire the shares concerned.
+             (6)  The Treasurer shall not refuse to approve a person for the purposes of subsection (4) unless he is satisfied that the person is a foreign person and that it would be contrary to the national interest for that person to acquire the shares concerned.
 
              (7)  For the purposes of this section:
 
@@ -1070,9 +1073,9 @@ the Treasurer may make an order directing the person who acquired the shares to 
 
              (1)  In this section, **_foreign person_** means:
 
-                     (a)  a foreign corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest; or
+                     (a)  a foreign corporation in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a controlling interest; or
 
-                     (b)  a foreign corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest.
+                     (b)  a foreign corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate controlling interest.
 
              (2)  Where the Treasurer is satisfied that:
 
@@ -1088,7 +1091,7 @@ the Treasurer may make an order directing the person who acquired the shares to 
 
 the Treasurer may make an order prohibiting the proposed acquisition or all or any of the proposed acquisitions, as the case may be.
 
-             (3)  Where the Treasurer makes an order under subsection (2) prohibiting a proposed acquisition of assets of an Australian business, he or she may also make an order in relation to a specified foreign person, or in relation to a specified foreign person and specified associates, or the persons included in a specified class of associates, of that person, directing that that person shall not, or none of those persons shall, whether alone or together with any other or others of them, acquire any interests in assets of that business, or acquire any such interests except to a specified extent.
+             (3)  Where the Treasurer makes an order under subsection (2) prohibiting a proposed acquisition of assets of an Australian business, he may also make an order in relation to a specified foreign person, or in relation to a specified foreign person and specified associates, or the persons included in a specified class of associates, of that person, directing that that person shall not, or none of those persons shall, whether alone or together with any other or others of them, acquire any interests in assets of that business, or acquire any such interests except to a specified extent.
 
              (4)  Where a person has acquired assets of an Australian business carried on solely by a prescribed corporation or prescribed corporations, and the Treasurer is satisfied that:
 
@@ -1102,9 +1105,9 @@ the Treasurer may make an order prohibiting the proposed acquisition or all or a
 
 the Treasurer may make an order directing the person who acquired the assets to dispose of those assets within a specified time to any person or persons approved in writing by the Treasurer.
 
-             (5)  Before the expiration of the time specified in an order made under subsection (4) or of that time as extended under this subsection, the Treasurer may, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
+             (5)  Before the expiration of the time specified in an order made under subsection (4) or of that time as extended under this subsection, the Treasurer may, by writing signed by him, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
-             (6)  The Treasurer shall not refuse to approve a person for the purposes of subsection (4) unless he or she is satisfied that the person is a foreign person and that it would be contrary to the national interest for that person to acquire the assets concerned.
+             (6)  The Treasurer shall not refuse to approve a person for the purposes of subsection (4) unless he is satisfied that the person is a foreign person and that it would be contrary to the national interest for that person to acquire the assets concerned.
 
              (7)  For the purposes of this section:
 
@@ -1148,7 +1151,7 @@ the Treasurer may make an order prohibiting the entering into of the proposed ag
 
 the Treasurer may, for the purpose of restoring the control of the corporation as closely as possible to the position in which it was before the agreement was entered into or the alteration was made or for the purpose of preventing the occurrence of a change in the control of the corporation of a kind mentioned in paragraph (a), as the case may be, make orders directing specified persons to do within a specified time, or refrain from doing, specified acts or acts of a specified kind.
 
-             (4)  Where a time is specified in an order made under subsection (3), the Treasurer may, before the expiration of that time or of that time as extended under this subsection, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
+             (4)  Where a time is specified in an order made under subsection (3), the Treasurer may, before the expiration of that time or of that time as extended under this subsection, by writing signed by him, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
              (5)  For the purposes of this section:
 
@@ -1164,9 +1167,9 @@ the Treasurer may, for the purpose of restoring the control of the corporation a
 
                     <a name="foreign-person"></a>**_foreign person_** means:
 
-                     (a)  a foreign corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a controlling interest; or
+                     (a)  a foreign corporation in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a controlling interest; or
 
-                     (b)  a foreign corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate controlling interest.
+                     (b)  a foreign corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate controlling interest.
 
              (2)  Where the Treasurer is satisfied that:
 
@@ -1194,7 +1197,7 @@ the Treasurer may make an order prohibiting the entering into of the proposed ar
 
 the Treasurer may, for the purpose of restoring the control of the business as closely as possible to the position in which it was before the arrangement was entered into or terminated or for the purpose of preventing the occurrence of a change in the control of the business of a kind referred to in paragraph (a), as the case may be, make orders directing specified persons to do within a specified time, or refrain from doing, specified acts or acts of a specified kind.
 
-             (4)  Where a time is specified in an order made under subsection (3), the Treasurer may, before the expiration of that time or of that time as extended under this subsection, by writing signed by him or her, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
+             (4)  Where a time is specified in an order made under subsection (3), the Treasurer may, before the expiration of that time or of that time as extended under this subsection, by writing signed by him, extend or further extend that time or that time as so extended, and in that event the order has effect as if the time as so extended or further extended had been specified in the order.
 
              (5)  For the purposes of this section:
 
@@ -1208,9 +1211,9 @@ the Treasurer may, for the purpose of restoring the control of the business as c
 
                     <a name="foreign-person"></a>**_foreign person_** means:
 
-                     (a)  a foreign corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                     (a)  a foreign corporation in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
-                     (b)  a foreign corporation in which 2 or more persons, each of whom is a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
+                     (b)  a foreign corporation in which 2 or more persons, each of whom is a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest.
 
              (2)  Where the Treasurer is satisfied that:
 
@@ -1246,7 +1249,7 @@ directing that that person shall not, or none of those persons shall, whether al
 
 ##### <a id="22"></a>22  Interim orders
 
-             (1)  For the purpose of enabling due consideration to be given to the question whether an order should be made under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2), the Treasurer may make an order of the kind that he or she would be empowered to make under that subsection if it were applicable.
+             (1)  For the purpose of enabling due consideration to be given to the question whether an order should be made under subsection 18(2), 19(2), 20(2), 21(2) or 21A(2), the Treasurer may make an order of the kind that he would be empowered to make under that subsection if it were applicable.
 
              (2)  An order made under this section has effect for such period, not exceeding 90 days after the coming into operation of the order, as is specified in the order.
 
@@ -1256,7 +1259,7 @@ directing that that person shall not, or none of those persons shall, whether al
 
 ##### <a id="24"></a>24  Publication of orders
 
-                   An order made by the Treasurer under this Part shall be made in writing signed by him or her, shall be published in the _Gazette_ within 10 days after the date on which it is made, and comes into operation:
+                   An order made by the Treasurer under this Part shall be made in writing signed by him, shall be published in the _Gazette_ within 10 days after the date on which it is made, and comes into operation:
 
                      (a)  except in a case to which paragraph (b) applies—on the date of publication; or
 
@@ -1350,21 +1353,21 @@ the Treasurer is not empowered:
 
              (1)  In this section, **_person to whom this section applies_** means:
 
-                     (a)  a natural person not ordinarily resident in Australia;
+                     (a)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                     (b)  a corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest;
+                     (b)  a corporation in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest;
 
-                     (c)  a corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest;
+                     (c)  a corporation in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest;
 
-                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
-                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
+                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest.
 
              (2)  Where a person to whom this section applies:
 
-                     (a)  enters into an agreement by virtue of which he or she acquires a substantial shareholding in an Australian corporation and did not, before entering into the agreement, furnish to the Treasurer a notice stating his or her intention to enter into that agreement; or
+                     (a)  enters into an agreement by virtue of which he acquires a substantial shareholding in an Australian corporation and did not, before entering into the agreement, furnish to the Treasurer a notice stating his intention to enter into that agreement; or
 
-                     (b)  having furnished a notice to the Treasurer stating his or her intention to enter into an agreement by virtue of which he or she is to acquire a substantial shareholding in an Australian corporation, enters into that agreement before:
+                     (b)  having furnished a notice to the Treasurer stating his intention to enter into an agreement by virtue of which he is to acquire a substantial shareholding in an Australian corporation, enters into that agreement before:
 
                               (i)  the expiration of 40 days after the date on which the notice was received by the Treasurer; or
 
@@ -1386,7 +1389,7 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 
                      (a)  the shares were subscribed for in pursuance of a resolution by the corporation or the directors of the corporation agreeing to make available a number of shares specified in, or ascertained in accordance with, the resolution for allotment to persons who were registered as the holders of shares in the corporation on a date specified in the resolution; and
 
-                     (b)  the number of shares for which the shareholder so subscribed bears to the total number of shares made available for allotment in pursuance of the resolution as nearly as practicable the same proportion as the number of issued shares in the corporation held by him or her immediately before the date specified in the resolution bears to the total number of issued shares in the corporation immediately before that date.
+                     (b)  the number of shares for which the shareholder so subscribed bears to the total number of shares made available for allotment in pursuance of the resolution as nearly as practicable the same proportion as the number of issued shares in the corporation held by him immediately before the date specified in the resolution bears to the total number of issued shares in the corporation immediately before that date.
 
              (5)  For the purposes of subsection (4), it is immaterial that the shares in the corporation comprise 2 or more classes of shares to which different rights are attached.
 
@@ -1394,9 +1397,9 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 
              (6)  In this section, a reference to an agreement by virtue of which a person acquires a substantial shareholding in a corporation is a reference to an agreement by virtue of which the person acquires any interests in any shares in the corporation where:
 
-                     (a)  he or she already holds a substantial interest in the corporation; or
+                     (a)  he already holds a substantial interest in the corporation; or
 
-                     (b)  upon the acquisition by him or her of those interests, or of those interests and of any interests in other shares in the corporation, being interests that he or she has offered to acquire, he or she would hold a substantial interest in the corporation.
+                     (b)  upon the acquisition by him of those interests, or of those interests and of any interests in other shares in the corporation, being interests that he has offered to acquire, he would hold a substantial interest in the corporation.
 
              (7)  For the purposes of subsection (6), a reference to a person offering to acquire interests in shares includes a reference to a person making or publishing a statement, however expressed, that expressly or impliedly invites a holder of interests in shares to offer to dispose of interests in shares.
 
@@ -1404,15 +1407,15 @@ the person shall not be taken, for the purposes of that subsection, to have ente
 
              (1)  In this section, **_person to whom this section applies_** means:
 
-                     (a)  a natural person not ordinarily resident in Australia;
+                     (a)  a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region>;
 
-                     (b)  a corporation in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest;
+                     (b)  a corporation in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest;
 
-                     (c)  a corporation in which 2 or more persons, each of whom is a natural person not ordinarily resident in Australia or a foreign corporation hold an aggregate substantial interest;
+                     (c)  a corporation in which 2 or more persons, each of whom is a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation hold an aggregate substantial interest;
 
-                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in Australia or a foreign corporation holds a substantial interest; or
+                     (d)  the trustee of a trust estate in which a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation holds a substantial interest; or
 
-                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in Australia or a foreign corporation, hold an aggregate substantial interest.
+                     (e)  the trustee of a trust estate in which 2 or more persons, each of whom is either a natural person not ordinarily resident in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> or a foreign corporation, hold an aggregate substantial interest.
 
              (2)  Where a person to whom this section applies:
 
@@ -1456,15 +1459,17 @@ the person shall not be taken, for the purposes of subsection (2), to have ent
 
                    A notice furnished in accordance with section 25 stating that a person proposes to acquire an option to acquire a share or asset has effect as if it included a statement that the person proposes to exercise that option.
 
+<o:p> </o:p>
+
 ## Part III—Miscellaneous
 
 ##### <a id="30"></a>30  Offences
 
              (1)  A person who contravenes or fails to comply with an order made under Part II is guilty of an offence against this section.
 
-             (2)  Where a person has been convicted of an offence consisting of a contravention, or failure to comply with, an order made under Part II and the contravention or failure continues after he or she has been so convicted, the person is guilty of a further offence against this section.
+             (2)  Where a person has been convicted of an offence consisting of a contravention, or failure to comply with, an order made under Part II and the contravention or failure continues after he has been so convicted, the person is guilty of a further offence against this section.
 
-             (3)  Where an order made under Part II requires a person to do anything within a particular time and the person fails to do that thing within that time, the person shall be deemed to continue to fail to comply with the order until he or she does that thing.
+             (3)  Where an order made under Part II requires a person to do anything within a particular time and the person fails to do that thing within that time, the person shall be deemed to continue to fail to comply with the order until he does that thing.
 
              (4)  A person who is convicted of an offence against this section is punishable by a fine not exceeding 500 penalty units or imprisonment for a period not exceeding 2 years, or both.
 
@@ -1536,15 +1541,15 @@ the person shall not be taken, for the purposes of subsection (2), to have ent
 
              (7)  The Court may, by order, rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
 
-           (10)  In this section, **_Australian subsidiary_**, in relation to a foreign corporation, means a corporation incorporated in Australia that is a subsidiary of that foreign corporation.
+           (10)  In this section, **_Australian subsidiary_**, in relation to a foreign corporation, means a corporation incorporated in <st1:country-region><st1:place>Australia</st1:place></st1:country-region> that is a subsidiary of that foreign corporation.
 
 ##### <a id="36"></a>36  Treasurer may require information
 
-             (1)  Where the Treasurer has reason to believe that a person is capable of giving information or producing documents relating to matters that are relevant to the exercise by the Treasurer of his or her powers under this Act, he or she may, by notice in writing served on that person, require that person:
+             (1)  Where the Treasurer has reason to believe that a person is capable of giving information or producing documents relating to matters that are relevant to the exercise by the Treasurer of his powers under this Act, he may, by notice in writing served on that person, require that person:
 
-                     (a)  to furnish, within the time and in the manner specified in the notice, any such information to him or her by writing signed by that person or, in the case of a corporation, by a competent officer of the corporation; or
+                     (a)  to furnish, within the time and in the manner specified in the notice, any such information to him by writing signed by that person or, in the case of a corporation, by a competent officer of the corporation; or
 
-                     (b)  to produce, in accordance with the notice, any such documents to him or her or to a person specified in the notice acting on his or her behalf.
+                     (b)  to produce, in accordance with the notice, any such documents to him or to a person specified in the notice acting on his behalf.
 
              (2)  A person who does not comply with a notice under subsection (1) is guilty of an offence punishable, on conviction, by a fine not exceeding 20 penalty units or imprisonment for 12 months, or both.
 
@@ -1552,7 +1557,7 @@ the person shall not be taken, for the purposes of subsection (2), to have ent
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2A), (see subsection 13.3(3) of the _Criminal Code_).
 
-             (3)  A person is not excused from furnishing information or producing a document in pursuance of this section on the ground that the information or document might tend to incriminate him or her, but his or her answer to any question asked in the notice, or his or her furnishing of any other information in pursuance of the notice, is not admissible in evidence against him or her in any criminal proceedings other than proceedings under this Act.
+             (3)  A person is not excused from furnishing information or producing a document in pursuance of this section on the ground that the information or document might tend to incriminate him, but his answer to any question asked in the notice, or his furnishing of any other information in pursuance of the notice, is not admissible in evidence against him in any criminal proceedings other than proceedings under this Act.
 
 ##### <a id="37"></a>37  Effect of Act on other laws
 
@@ -1586,13 +1591,13 @@ the Treasurer may make any order under this Act that the Treasurer would have be
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Foreign Acquisitions and Takeovers Act 1975_
+# Notes to the _<span style="mso-no-proof:yes">Foreign Acquisitions and Takeovers Act 1975</span>_
 
 ### Note 1
 
 The _Foreign Acquisitions and Takeovers Act 1975_ as shown in this compilation comprises Act No. 92, 1975 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date month="11" day="24" year="2000">24 November  2000</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1634,13 +1639,13 @@ of Assent</div>
     <div>92, 1975</div>
   </td>
   <td>
-    <div>28 Aug 1975</div>
+    <div><st1:date month="8" day="28" year="1975">28 Aug 1975</st1:date></div>
   </td>
   <td>
-    <div>1 Jan 1976 ( <i>see Gazette</i>1975, No. S267)</div>
+    <div><st1:date month="1" day="1" year="1976">1 Jan 1976</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1975, No. S267)</div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
@@ -1651,11 +1656,11 @@ of Assent</div>
     <div>93, 1976</div>
   </td>
   <td>
-    <div>20 Sept 1976</div>
+    <div><st1:date month="9" day="20" year="1976">20 Sept 1976</st1:date></div>
   </td>
   <td>
     <div>Ss. 1, 2, 3(2), 5, 9, 11 and 12: Royal Assent 
-Remainder: 1 Jan 1976</div>
+Remainder: <st1:date month="1" day="1" year="1976">1 Jan 1976</st1:date></div>
   </td>
   <td>
     <div>Ss. 11 and 12</div>
@@ -1669,10 +1674,10 @@ Remainder: 1 Jan 1976</div>
     <div>19, 1979</div>
   </td>
   <td>
-    <div>28 Mar 1979</div>
+    <div><st1:date month="3" day="28" year="1979">28 Mar 1979</st1:date></div>
   </td>
   <td>
-    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+    <div>Parts II–XVII (ss. 3–123): <st1:date month="5" day="15" year="1979">15 May 1979</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1687,11 +1692,11 @@ Remainder: Royal Assent</div>
     <div>74, 1981</div>
   </td>
   <td>
-    <div>18 June 1981</div>
+    <div><st1:date month="6" day="18" year="1981">18 June 1981</st1:date></div>
   </td>
   <td>
     <div>Part XII (ss. 
-185–187): Royal Assent <i>(a)</i></div>
+185–187): Royal Assent <i style="mso-bidi-font-style:normal">(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1705,10 +1710,10 @@ Remainder: Royal Assent</div>
     <div>14, 1989</div>
   </td>
   <td>
-    <div>13 Apr 1989</div>
+    <div><st1:date month="4" day="13" year="1989">13 Apr 1989</st1:date></div>
   </td>
   <td>
-    <div>1 Aug 1989 ( <i>see Gazette</i>1989, No. S240)</div>
+    <div><st1:date month="8" day="1" year="1989">1 Aug 1989</st1:date>( <i style="mso-bidi-font-style:normal">see Gazette</i>1989, No. S240)</div>
   </td>
   <td>
     <div>S. 32</div>
@@ -1722,10 +1727,10 @@ Remainder: Royal Assent</div>
     <div>60, 1994</div>
   </td>
   <td>
-    <div>9 Apr 1994</div>
+    <div><st1:date month="4" day="9" year="1994">9 Apr 1994</st1:date></div>
   </td>
   <td>
-    <div>S. 85: 1 Sept 1994 <i>(b)</i></div>
+    <div>S. 85: <st1:date month="9" day="1" year="1994">1 Sept 1994</st1:date> <i style="mso-bidi-font-style:normal">(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1739,10 +1744,10 @@ Remainder: Royal Assent</div>
     <div>20, 1997</div>
   </td>
   <td>
-    <div>7 Apr 1997</div>
+    <div><st1:date month="4" day="7" year="1997">7 Apr 1997</st1:date></div>
   </td>
   <td>
-    <div>Schedule 2 (item 5): Royal Assent <i>(c)</i></div>
+    <div>Schedule 2 (item 5): Royal Assent <i style="mso-bidi-font-style:normal">(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1756,10 +1761,10 @@ Remainder: Royal Assent</div>
     <div>61, 1998</div>
   </td>
   <td>
-    <div>29 June 1998</div>
+    <div><st1:date month="6" day="29" year="1998">29 June 1998</st1:date></div>
   </td>
   <td>
-    <div>Schedule 4 (item 10): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(d)</i></div>
+    <div>Schedule 4 (item 10): <st1:date month="7" day="1" year="1998">1 July 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1998, No. S317) <i style="mso-bidi-font-style: normal">(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1773,14 +1778,14 @@ Remainder: Royal Assent</div>
     <div>137, 2000</div>
   </td>
   <td>
-    <div>24 Nov 2000</div>
+    <div><st1:date month="11" day="24" year="2000">24 Nov 2000</st1:date></div>
   </td>
   <td>
     <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+Remainder: <st1:date month="5" day="24" year="2001">24 May 2001</st1:date></div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1791,12 +1796,12 @@ Remainder: 24 May 2001</div>
     <div>31, 2001</div>
   </td>
   <td>
-    <div>28 Apr 2001</div>
+    <div><st1:date month="4" day="28" year="2001">28 Apr 2001</st1:date></div>
   </td>
   <td>
     <div>Ss. 1–3, Schedule 1 (items 1–4) and Schedule 2: Royal Assent 
-Schedule 1 (items 171, 172): 18 Jan 2001 ( <i>see</i>s. 2(2)) 
-Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
+Schedule 1 (items 171, 172): <st1:date month="1" day="18" year="2001">18 Jan 2001</st1:date>( <i style="mso-bidi-font-style:normal">see</i>s. 2(2)) 
+Remainder: <st1:date month="12" day="15" year="2001">15 Dec 2001</st1:date>( <i style="mso-bidi-font-style:normal">see</i>s. 2(4))</div>
   </td>
   <td>
     <div>—</div>
@@ -1810,27 +1815,10 @@ Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
     <div>120, 2004</div>
   </td>
   <td>
-    <div>16 Aug 2004</div>
+    <div><st1:date month="8" day="16" year="2004">16 Aug 2004</st1:date></div>
   </td>
   <td>
     <div>Schedule 5: 1 Jan 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 295–298): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -1846,7 +1834,7 @@ _(b)_    The _Foreign Acquisitions and Takeovers Act 1975_ was amended by 
 
                  (3)   The remaining provisions of this Act commence immediately after the commencement of section 3 of the _Migration Reform Act 1992_.
 
- Section 3 commenced on 1 September 1994.
+ Section 3 commenced on <st1:date month="9" day="1" year="1994">1 September 1994</st1:date>.
 
 _(c)_     The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule 2 (item 5) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
@@ -1867,21 +1855,21 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed    rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>Title</div>
+    <div>Title </div>
   </td>
   <td>
     <div>rs. No. 14, 1989</div>
@@ -1889,15 +1877,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b style="mso-bidi-font-weight:normal">Part I <o:p></o:p> </b></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 1</div>
+    <div>S. 1 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -1905,7 +1893,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
+    <div>S. 3 </div>
   </td>
   <td>
     <div>am. No. 93, 1976; No. 19, 1979</div>
@@ -1913,7 +1901,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>S. 4 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -1921,15 +1909,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
+    <div>S. 5 </div>
   </td>
   <td>
-    <div>am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998; No. 120, 2004; No. 73, 2008</div>
+    <div>am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998; No. 120, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 5A</div>
+    <div>S. 5A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -1937,7 +1925,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
     <div>am. No. 60, 1994</div>
@@ -1945,7 +1933,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
+    <div>Ss. 6, 7 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -1953,15 +1941,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1989; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
+    <div>S. 8 </div>
   </td>
   <td>
     <div>am. No. 93, 1976</div>
@@ -1969,7 +1949,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
+    <div>S. 9 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -1977,7 +1957,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 9A</div>
+    <div>S. 9A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -1985,15 +1965,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12A–12C</div>
+    <div>Ss. 12A–12C </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2001,7 +1973,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
+    <div>S. 13 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -2009,7 +1981,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 13A</div>
+    <div>S. 13A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2017,7 +1989,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 13B</div>
+    <div>S. 13B </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2025,7 +1997,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
     <div>am. No. 120, 2004</div>
@@ -2033,7 +2005,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Ss. 13C, 13D</div>
+    <div>Ss. 13C, 13D </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2041,7 +2013,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
+    <div>S. 15 </div>
   </td>
   <td>
     <div>am. No. 93, 1976</div>
@@ -2049,15 +2021,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Part</b> <b>IA</b></div>
+    <div><st1:place> <st1:city> <b style="mso-bidi-font-weight: normal">Part</b> </st1:city> <st1:state> <b style="mso-bidi-font-weight:normal">IA</b> </st1:state> </st1:place></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part IA</div>
+    <div><st1:place> <st1:city>Part</st1:city> <st1:state>IA</st1:state> </st1:place> </div>
   </td>
   <td>
     <div>ad. No. 120, 2004</div>
@@ -2065,7 +2037,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Ss. 17A–17H</div>
+    <div>Ss. 17A–17H </div>
   </td>
   <td>
     <div>ad. No. 120, 2004</div>
@@ -2073,15 +2045,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b style="mso-bidi-font-weight:normal">Part II <o:p></o:p> </b></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part II</div>
+    <div>Heading to Part II </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -2089,15 +2061,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Ss. 18–21</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
+    <div>S. 21A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2105,31 +2069,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 22</div>
+    <div>Ss. 22–24 </div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1989</div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1989; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
+    <div>S. 25 </div>
   </td>
   <td>
     <div>am. No. 14, 1989; No. 31, 2001</div>
@@ -2137,7 +2085,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
+    <div>S. 26 </div>
   </td>
   <td>
     <div>rs. No. 93, 1976</div>
@@ -2145,15 +2093,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
-    <div>am. No. 74, 1981; No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
+    <div>am. No. 74, 1981; No. 14, 1989; No. 31, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 26A</div>
+    <div>S. 26A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2161,7 +2109,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
     <div>am. No. 31, 2001</div>
@@ -2169,7 +2117,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 27</div>
+    <div>S. 27 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -2177,7 +2125,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 28</div>
+    <div>S. 28 </div>
   </td>
   <td>
     <div>rs. No. 93, 1976</div>
@@ -2185,7 +2133,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 29</div>
+    <div>S. 29 </div>
   </td>
   <td>
     <div>rep. No. 93, 1976</div>
@@ -2193,23 +2141,23 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b style="mso-bidi-font-weight:normal">Part III <o:p></o:p> </b></div>
   </td>
   <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 32</div>
+    <div>S. 30 </div>
+  </td>
+  <td>
+    <div>am. No. 14, 1989; No. 31, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -2217,7 +2165,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
     <div>rep. No. 31, 2001</div>
@@ -2225,7 +2173,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 33</div>
+    <div>S. 33 </div>
   </td>
   <td>
     <div>rep. No. 20, 1997</div>
@@ -2233,7 +2181,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 34</div>
+    <div>S. 34 </div>
   </td>
   <td>
     <div>rep. No. 14, 1989</div>
@@ -2241,7 +2189,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 35</div>
+    <div>S. 35 </div>
   </td>
   <td>
     <div>am. No. 14, 1989</div>
@@ -2249,15 +2197,15 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
+    <div>S. 36 </div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
+    <div>am. No. 14, 1989; No. 31, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 36A</div>
+    <div>S. 36A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2265,7 +2213,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
   <td>
     <div>rep. No. 137, 2000</div>
@@ -2273,7 +2221,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 38</div>
+    <div>S. 38 </div>
   </td>
   <td>
     <div>rs. No. 93, 1976</div>
@@ -2281,7 +2229,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 38A</div>
+    <div>S. 38A </div>
   </td>
   <td>
     <div>ad. No. 14, 1989</div>
@@ -2293,7 +2241,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 ### Application, saving or transitional provisions
 
 _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) 
- Act 2000 (No. 137, 2000)_
+ Act 2000 (No. 137, 2000)<o:p></o:p>_
 
 ## Schedule 2
 
@@ -2323,6 +2271,4 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
- 
-
- 
+<o:p> </o:p>
