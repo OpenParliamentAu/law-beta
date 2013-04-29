@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00087/Html/b5a45392-9e0d-4a79-b05d-f52f89d30427_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00506/Html/b00b3dc5-a46d-464c-b4d7-cbb9862ac068_files/image001.gif)
 
 # Agricultural and Veterinary Chemicals Act 1994
 
 **Act No. 36 of 1994 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 6 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -18,75 +18,75 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         2
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement \[s _ee_ Note 1]                                                               2
+[2](#2).            Commencement \[s _ee_ Note 1]
 
-[3](#3).            Object                                                                                                   2
+[3](#3).            Object
 
-[4](#4).            Definitions                                                                                           2
+[4](#4).            Definitions
 
-[5](#5).            Jervis Bay Territory                                                                             5
+[5](#5).            Jervis Bay Territory
 
-[6](#6).            Extension to external Territories                                                           5
+[6](#6).            Extension to external Territories
 
 **Part 2—The Agvet Code, and the Agvet Regulations, of the participating Territories**
 
-[7](#7).            Application of Agvet Code in the participating Territories                   6
+[7](#7).            Application of Agvet Code in the participating Territories
 
-[8](#8).            Application of Agvet Regulations in the participating Territories         6
+[8](#8).            Application of Agvet Regulations in the participating Territories
 
-[9](#9).            Agvet Code of the participating Territories taken to be an Act             7
+[9](#9).            Agvet Code of the participating Territories taken to be an Act
 
-[10](#10).          Relationship between the Agvet Code and Agvet Regulations of the participating Territories and the laws of a participating Territory                                                                           7
+[10](#10).          Relationship between the Agvet Code and Agvet Regulations of the participating Territories and the laws of a participating Territory
 
 **Part 3—Citing the Agvet Code and the Agvet Regulations**
 
-[11](#11).          References to Agvet Code and Agvet Regulations of other jurisdictions 8
+[11](#11).          References to Agvet Code and Agvet Regulations of other jurisdictions
 
-[12](#12).          References to Agvet Codes and Agvet Regulations                             8
+[12](#12).          References to Agvet Codes and Agvet Regulations
 
 **Part 4—Application of Agvet Codes to the Crown**
 
-[13](#13).          Agvet Code of the participating Territories                                        10
+[13](#13).          Agvet Code of the participating Territories
 
-[14](#14).          Agvet Code of other jurisdictions                                                      10
+[14](#14).          Agvet Code of other jurisdictions
 
-[15](#15).          Crown not liable to prosecution                                                         10
+[15](#15).          Crown not liable to prosecution
 
-[16](#16).          This Part overrides the prerogative                                                     10
+[16](#16).          This Part overrides the prerogative
 
 **Part 5—Performance of functions that corresponding laws of States confer on Commonwealth authorities and officers**
 
-[17](#17).          Ministers                                                                                            11
+[17](#17).          Ministers
 
-[18](#18).          Commonwealth authorities and officers                                             11
+[18](#18).          Commonwealth authorities and officers
 
-[18A](#18A).       Conferral of duties, functions and powers                                         11
+[18A](#18A).       Conferral of duties, functions and powers
 
-[19](#19).          _Gazette_ notices under corresponding laws                                         12
+[19](#19).          _Gazette_ notices under corresponding laws
 
 **Part 6—Jurisdiction of courts**
 
-[20](#20).          Jurisdiction of Federal Court and courts of Territories                       13
+[20](#20).          Jurisdiction of Federal Court and courts of Territories
 
-[21](#21).          Exercise of jurisdiction under cross‑vesting provisions                     13
+[21](#21).          Exercise of jurisdiction under cross‑vesting provisions
 
 **Part 7—Miscellaneous**
 
-[22](#22).          Orders                                                                                                14
+[22](#22).          Orders
 
-[23](#23).          Manufacturing principles                                                                   14
+[23](#23).          Manufacturing principles
 
-[24](#24).          Repeal and transitional provisions                                                      14
+[24](#24).          Repeal and transitional provisions
 
-[25](#25).          Regulations                                                                                        15
+[25](#25).          Regulations
 
 **Part 8—Imposition of fees and taxes**
 
-[26](#26).          Fees (including taxes)                                                                        16
+[26](#26).          Fees (including taxes)
 
 **Notes** 
 
@@ -126,7 +126,7 @@ Recognising:
 
              (2)  This Act has effect, and is to be interpreted, accordingly.
 
-             (3)  Despite subsection (1) and section 9, this Act, the _Agricultural and Veterinary Chemicals Code Act 1994_ and the Agvet Code of the participating Territories are not, for the purposes of section 2H of the _Acts Interpretation Act 1901_, Acts providing for the administration or government of a Territory.
+             (3)  Despite subsection (1) and section 9, this Act, the _Agricultural and Veterinary Chemicals Code Act 1994_ and the Agvet Code of the participating Territories are not, for the purposes of subsection 22(3) of the _Acts Interpretation Act 1901_, Acts providing for the administration or government of a Territory.
 
 ##### <a id="4"></a>4  Definitions
 
@@ -488,7 +488,7 @@ of Assent</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
+    <div>Schedule 2 (item 1): 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
   </td>
   <td>
     <div>—</div>
@@ -505,7 +505,7 @@ of Assent</div>
     <div>30 May 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (items 28–30): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(a)</i></div>
+    <div>Schedule 1 (items 28–30): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -523,7 +523,7 @@ of Assent</div>
   </td>
   <td>
     <div>S. 2(6): Royal Assent <i>(b)</i> 
-Schedule 3 (item 1): 1 July 2002 ( <i>see Gazette</i>2002, No. GN30) <i>(b)</i></div>
+Schedule 3 (item 1): 1 July 2002 ( <i>see Gazette</i>2002, No. GN30) <i>(b)</i></div>
   </td>
   <td>
     <div>S. 2(6)</div>
@@ -558,7 +558,7 @@ Remainder: Royal Assent</div>
     <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–6): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30)</div>
+    <div>Schedule 1 (items 1–6): 30 July 2004 ( <i>see Gazette</i>2004, No. GN30)</div>
   </td>
   <td>
     <div>—</div>
@@ -572,7 +572,7 @@ Remainder: Royal Assent</div>
     <div>103, 2010</div>
   </td>
   <td>
-    <div>13 July 2010</div>
+    <div>13 July 2010</div>
   </td>
   <td>
     <div>Schedule 6 (item 151): 1 Jan 2011</div>
@@ -589,13 +589,13 @@ Remainder: Royal Assent</div>
     <div>46, 2011</div>
   </td>
   <td>
-    <div>27 June 2011</div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 45) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 45) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -656,14 +656,6 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -755,6 +747,20 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 45  Subsection 3(3)
+
+Omit “subsection 22(3)”, substitute “section 2H”.
+
+As at 6 July 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -780,6 +786,8 @@ The amendment made by item 2 of this Schedule applies in relation to matters a
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
