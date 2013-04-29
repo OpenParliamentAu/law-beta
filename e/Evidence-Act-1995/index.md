@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00203/Html/390b8aaa-c0f4-4cef-a581-c70c5147edcc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00374/Html/EvidenceAct1995_WD02_image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -652,13 +652,13 @@ Note 2:       **_ACT court_** and **_federal court_** are defined in
 
 Note 3:       Some provisions of this Act extend beyond proceedings in federal courts or ACT courts. These provisions deal with:
 
-·<span style="font:7.0pt " new="">         </span>extension of specified provisions to cover proceedings in all Australian courts (section 5); 
+·<span style="font:7.0pt " new="">          </span>extension of specified provisions to cover proceedings in all Australian courts (section 5); 
 
-·<span style="font:7.0pt " new="">         </span>faith and credit to be given to documents properly authenticated (section 185); 
+·<span style="font:7.0pt " new="">          </span>faith and credit to be given to documents properly authenticated (section 185); 
 
-·<span style="font:7.0pt " new="">         </span>swearing of affidavits for use in Australian courts exercising federal jurisdiction or similar jurisdiction (section 186);
+·<span style="font:7.0pt " new="">          </span>swearing of affidavits for use in Australian courts exercising federal jurisdiction or similar jurisdiction (section 186);
 
-·<span style="font:7.0pt " new="">         </span>abolition of the privilege against self-incrimination for bodies corporate (section 187).
+·<span style="font:7.0pt " new="">          </span>abolition of the privilege against self-incrimination for bodies corporate (section 187).
 
 Note 4:       See section 79 of the _Judiciary Act 1903_ for the application of this Act to proceedings in a State court exercising federal jurisdiction.
 
@@ -680,7 +680,7 @@ Note 4:       See section 79 of the _Judiciary Act 1903_ for the a
 
                      (a)  an appeal from a court of a State, including an appeal from a court of a State exercising federal jurisdiction; or
 
-                     (b)  an appeal from a court of the Northern Territory or an external Territory; or
+                     (b)  an appeal from a court of the Northern   Territory or an external Territory; or
 
                      (c)  on or after the day fixed by Proclamation under subsection (6)—an appeal from an ACT court; or
 
@@ -868,9 +868,9 @@ However, this subsection ceases to apply to a regulation once it is amended afte
 
                      (a)  provisions of the Evidence Act 1971 of the Australian Capital Territory that are specified in the regulations;
 
-                     (b)  any other Act of the Australian Capital Territory;
+                     (b)  any other Act of the Australian   Capital Territory;
 
-                     (c)  an Ordinance of the Australian Capital Territory;
+                     (c)  an Ordinance of the Australian   Capital Territory;
 
                      (d)  an Imperial Act or State Act in force in the Australian Capital Territory;
 
@@ -1488,7 +1488,7 @@ to the court or to that other party.
 
 ## Part 2.2—Documents
 
-##### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+#####   
 
 ##### <a id="47"></a>47  Definitions
 
@@ -1644,7 +1644,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2010C00203/Html/390b8aaa-c0f4-4cef-a581-c70c5147edcc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00374/Html/EvidenceAct1995_WD02_image002.gif)
 
  
 
@@ -1702,37 +1702,37 @@ Note:          Subsection (2A) was inserted as a response to
 
 Note:          Specific exceptions to the hearsay rule are as follows: 
 
-·<span style="font:7.0pt " new="">         </span>evidence relevant for a non-hearsay purpose (section 60); 
+·<span style="font:7.0pt " new="">          </span>evidence relevant for a non-hearsay purpose (section 60); 
 
-·<span style="font:7.0pt " new="">         </span>first-hand hearsay: 
+·<span style="font:7.0pt " new="">          </span>first-hand hearsay: 
 
 –    civil proceedings, if the maker of the representation is unavailable (section 63) or available (section 64);
 
 –    criminal proceedings, if the maker of the representation is unavailable (section 65) or available (section 66); 
 
-·<span style="font:7.0pt " new="">         </span>contemporaneous statements about a person’s health etc. (section 66A);
+·<span style="font:7.0pt " new="">          </span>contemporaneous statements about a person’s health etc. (section 66A);
 
-·<span style="font:7.0pt " new="">         </span>business records (section 69);
+·<span style="font:7.0pt " new="">          </span>business records (section 69);
 
-·<span style="font:7.0pt " new="">         </span>tags and labels (section 70);
+·<span style="font:7.0pt " new="">          </span>tags and labels (section 70);
 
-·<span style="font:7.0pt " new="">         </span>electronic communications (section 71);
+·<span style="font:7.0pt " new="">          </span>electronic communications (section 71);
 
-·<span style="font:7.0pt " new="">         </span>Aboriginal and Torres Strait Islander traditional laws and customs (section 72);
+·<span style="font:7.0pt " new="">          </span>Aboriginal and Torres Strait Islander traditional laws and customs (section 72);
 
-·<span style="font:7.0pt " new="">         </span>marriage, family history or family relationships (section 73); 
+·<span style="font:7.0pt " new="">          </span>marriage, family history or family relationships (section 73); 
 
-·<span style="font:7.0pt " new="">         </span>public or general rights (section 74); 
+·<span style="font:7.0pt " new="">          </span>public or general rights (section 74); 
 
-·<span style="font:7.0pt " new="">         </span>use of evidence in interlocutory proceedings (section 75); 
+·<span style="font:7.0pt " new="">          </span>use of evidence in interlocutory proceedings (section 75); 
 
-·<span style="font:7.0pt " new="">         </span>admissions (section 81); 
+·<span style="font:7.0pt " new="">          </span>admissions (section 81); 
 
-·<span style="font:7.0pt " new="">         </span>representations about employment or authority (subsection 87(2)); 
+·<span style="font:7.0pt " new="">          </span>representations about employment or authority (subsection 87(2)); 
 
-·<span style="font:7.0pt " new="">         </span>exceptions to the rule excluding evidence of judgments and convictions (subsection 92(3)); 
+·<span style="font:7.0pt " new="">          </span>exceptions to the rule excluding evidence of judgments and convictions (subsection 92(3)); 
 
-·<span style="font:7.0pt " new="">         </span>character of and expert opinion about accused persons (sections 110 and 111). 
+·<span style="font:7.0pt " new="">          </span>character of and expert opinion about accused persons (sections 110 and 111). 
 
                    Other provisions of this Act, or of other laws, may operate as further exceptions.
 
@@ -2002,7 +2002,7 @@ Note 1:       Sections 48, 49, 50, 146, 147 and subsection 150(1) 
 
 Note 2:       Section 182 gives this section a wider application in relation to Commonwealth records.
 
-##### <a id="70"></a>70  Exception: contents of tags, labels and writing
+##### <a id="70"></a>70  Exception: contents of tags, labels and writing
 
              (1)  The hearsay rule does not apply to a tag or label attached to, or writing placed on, an object (including a document) if the tag or label or writing may reasonably be supposed to have been so attached or placed:
 
@@ -2084,21 +2084,21 @@ Note 3:       **_Electronic communication_** is defined in the Dicti
 
 Note:          Specific exceptions to the opinion rule are as follows: 
 
-·<span style="font:7.0pt " new="">         </span>summaries of voluminous or complex documents (subsection 50(3)); 
+·<span style="font:7.0pt " new="">          </span>summaries of voluminous or complex documents (subsection 50(3)); 
 
-·<span style="font:7.0pt " new="">         </span>evidence relevant otherwise than as opinion evidence (section 77); 
+·<span style="font:7.0pt " new="">          </span>evidence relevant otherwise than as opinion evidence (section 77); 
 
-·<span style="font:7.0pt " new="">         </span>lay opinion (section 78); 
+·<span style="font:7.0pt " new="">          </span>lay opinion (section 78); 
 
-·<span style="font:7.0pt " new="">         </span>Aboriginal and Torres Strait Islander traditional laws and customs (section 78A);
+·<span style="font:7.0pt " new="">          </span>Aboriginal and Torres Strait Islander traditional laws and customs (section 78A);
 
-·<span style="font:7.0pt " new="">         </span>expert opinion (section 79); 
+·<span style="font:7.0pt " new="">          </span>expert opinion (section 79); 
 
-·<span style="font:7.0pt " new="">         </span>admissions (section 81); 
+·<span style="font:7.0pt " new="">          </span>admissions (section 81); 
 
-·<span style="font:7.0pt " new="">         </span>exceptions to the rule excluding evidence of judgments and convictions (subsection 92(3)); 
+·<span style="font:7.0pt " new="">          </span>exceptions to the rule excluding evidence of judgments and convictions (subsection 92(3)); 
 
-·<span style="font:7.0pt " new="">         </span>character of and expert opinion about accused persons (sections 110 and 111).
+·<span style="font:7.0pt " new="">          </span>character of and expert opinion about accused persons (sections 110 and 111).
 
                    Other provisions of this Act, or of other laws, may operate as further exceptions.
 
@@ -2162,17 +2162,17 @@ Note:          **_Admission_** is defined in the Dictionary.
 
 Note:          Specific exclusionary rules relating to admissions are as follows: 
 
-·<span style="font:7.0pt " new="">         </span>evidence of admissions that is not first-hand (section 82); 
+·<span style="font:7.0pt " new="">          </span>evidence of admissions that is not first-hand (section 82); 
 
-·<span style="font:7.0pt " new="">         </span>use of admissions against third parties (section 83); 
+·<span style="font:7.0pt " new="">          </span>use of admissions against third parties (section 83); 
 
-·<span style="font:7.0pt " new="">         </span>admissions influenced by violence etc. (section 84); 
+·<span style="font:7.0pt " new="">          </span>admissions influenced by violence etc. (section 84); 
 
-·<span style="font:7.0pt " new="">         </span>unreliable admissions of accused persons (section 85); 
+·<span style="font:7.0pt " new="">          </span>unreliable admissions of accused persons (section 85); 
 
-·<span style="font:7.0pt " new="">         </span>records of oral questioning of accused persons (section 86). 
+·<span style="font:7.0pt " new="">          </span>records of oral questioning of accused persons (section 86). 
 
-_Example_: D admits to W, his best friend, that he sexually assaulted           V. In D’s trial for the sexual assault, the prosecution     may lead evidence from W:
+_Example_: D admits to W, his best friend, that he sexually assaulted V. In D’s trial for the sexual assault, the prosecution may lead evidence from W:
 
 (a)     that D made the admission to W as proof of the truth of that admission; and
 
@@ -2470,15 +2470,15 @@ Note 2:       Section 101A was inserted as a response to the decis
 
 Note 1:       Specific exceptions to the credibility rule are as follows:
 
-·<span style="font:7.0pt " new="">         </span>evidence adduced in cross-examination (sections 103 and 104);
+·<span style="font:7.0pt " new="">          </span>evidence adduced in cross-examination (sections 103 and 104);
 
-·<span style="font:7.0pt " new="">         </span>evidence in rebuttal of denials (section 106);
+·<span style="font:7.0pt " new="">          </span>evidence in rebuttal of denials (section 106);
 
-·<span style="font:7.0pt " new="">         </span>evidence to re-establish credibility (section 108);
+·<span style="font:7.0pt " new="">          </span>evidence to re-establish credibility (section 108);
 
-·<span style="font:7.0pt " new="">         </span>evidence of persons with specialised knowledge (section 108C);
+·<span style="font:7.0pt " new="">          </span>evidence of persons with specialised knowledge (section 108C);
 
-·<span style="font:7.0pt " new="">         </span>character of accused persons (section 110).
+·<span style="font:7.0pt " new="">          </span>character of accused persons (section 110).
 
 Other provisions of this Act, or of other laws, may operate as further exceptions.
 
@@ -3126,7 +3126,7 @@ Note:          Subsection 69ZX(4) and section 100C of the _F
 
 cannot be used against the person. However, this does not apply to a criminal proceeding in respect of the falsity of the evidence.
 
-Note:          Subsection 128(7) differs from subsection 128(7) of the NSW Act. The NSW provision refers to a NSW Court instead of an Australian Court.
+Note:          Subsection 128(7) differs from subsection 128(7) of the NSW Act. The NSW provision refers to a NSW Court instead of an Australian   Court.
 
              (8)  Subsection (7) has effect despite any challenge, review, quashing or calling into question on any ground of the decision to give, or the validity of, the certificate concerned.
 
@@ -3162,7 +3162,7 @@ Note 2:       Clause 3 of Part 2 of the Dictionary sets out what
 
 Note 3:       The NSW Act does not contain provisions corresponding to subsections (12) to (15).
 
-Note 4:       Subsections (8) and (9) were inserted as a response to the decision of the High Court of Australia in _Cornwell v The Queen_ \[2007] HCA 12 (22 March 2007).
+Note 4:       Subsections (8) and (9) were inserted as a response to the decision of the High Court of Australia in _Cornwell v The Queen_ \[2007] HCA 12 (22 March 2007).
 
 ##### <a id="128A"></a>128A  Privilege in respect of self-incrimination—exception for certain orders etc
 
@@ -4120,7 +4120,7 @@ Note:          Section 182 gives this Division a wider appli
 
              (4)  Despite subsection (3), the court may give the other party leave to make a request relating to evidence of the conviction after the end of that 21 day period if it is satisfied that there is good reason to do so.
 
-             (5)  If a party has served on another party a copy of a document that it intends to tender in evidence, the other party may only make a request relating to the document if the request is made within 21 days after service of the copy.
+             (5)  If a party has served on another party a copy of a document that it intends to tender in evidence, the other party may only make a request relating to the document if the request is made within 21 days after service of the copy.
 
              (6)  If the copy of the document served under subsection (5) is accompanied by, or has endorsed on it, a notice stating that the document is to be tendered to prove the contents of another document, the other party may only make a request relating to the other document if the request is made within 21 days after service of the copy.
 
@@ -4136,7 +4136,7 @@ Note:          Section 182 gives this Division a wider appli
 
                      (c)  an order that the evidence in relation to which the request was made is not to be admitted in evidence;
 
-                     (d)  such order with respect to adjournment or costs as is just.   
+                     (d)  such order with respect to adjournment or costs as is just.        
 
              (2)  If the party had, within a reasonable time after receiving the request, informed the other party that it refuses to comply with the request, any application under subsection (1) by the other party must be made within a reasonable time after being so informed.
 
@@ -4707,7 +4707,7 @@ is to be heard and determined in the jury’s absence.
 
                      (c)  whether the evidence to be adduced in the course of that hearing would be admitted if adduced at another stage of the hearing (other than in another hearing to decide a preliminary question or, in a criminal proceeding, a hearing in relation to sentencing).
 
-             (6)  Subsection 128(10) does not apply to a hearing to decide a preliminary question.
+             (6)  Subsection 128(8) does not apply to a hearing to decide a preliminary question.
 
              (7)  In the application of Chapter 3 to a hearing to determine a preliminary question, the facts in issue are taken to include the fact to which the hearing relates.
 
@@ -4885,7 +4885,7 @@ _Section 3_
 
 ## Part 1—Definitions 
 
-                    <a name="act-court"></a>**_ACT court_** means the Supreme Court of the Australian Capital Territory or any other court of the Australian Capital Territory, and includes a person or body that, in performing a function or exercising a power under a law of the Australian Capital Territory, is required to apply the laws of evidence. 
+                    <a name="act-court"></a>**_ACT court_** means the Supreme Court of the Australian   Capital Territory or any other court of the Australian Capital Territory, and includes a person or body that, in performing a function or exercising a power under a law of the Australian Capital Territory, is required to apply the laws of evidence. 
 
 Note:          The NSW Act does not include this definition.
 
@@ -5517,7 +5517,7 @@ Royal Assent <i>(d)</i></div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 434–437): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 434–437): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5534,7 +5534,7 @@ Royal Assent <i>(d)</i></div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 24): 24 Nov 2000 <i>(f)</i></div>
+    <div>Schedule 12 (items 1, 24): 24 Nov 2000 <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5551,7 +5551,7 @@ Royal Assent <i>(d)</i></div>
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 25, 34, 35)</div>
@@ -5585,10 +5585,10 @@ Royal Assent <i>(d)</i></div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5602,7 +5602,7 @@ Royal Assent <i>(d)</i></div>
     <div>5 July 2002</div>
   </td>
   <td>
-    <div>Schedule 6 (items 16–18): 5 Jan 2003</div>
+    <div>Schedule 6 (items 16–18): 5 Jan 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -5670,7 +5670,7 @@ Royal Assent <i>(d)</i></div>
     <div>22 May 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 8): 1 July 2006</div>
+    <div>Schedule 3 (items 1, 8): 1 July 2006</div>
   </td>
   <td>
     <div>Sch. 3 (item 8)</div>
@@ -5687,7 +5687,8 @@ Royal Assent <i>(d)</i></div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 26 July 2007</div>
+    <div>Schedule 1: 26 July 2007 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -5744,30 +5745,13 @@ Royal Assent <i>(d)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 26): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Evidence Act 1995_ was amended by Schedule 2 only of the _Family Law Reform (Consequential Amendments) Act 1995_, subsection 2(5) of which provides as follows:
 
                  (5)   Schedule 2 commences 14 days after the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Evidence Act 1995_ was amended by Schedule 2 (item 54) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+_(b)_    The _Evidence Act 1995_ was amended by Schedule 2 (item 54) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
                  (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
@@ -6078,7 +6062,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
 </tr>
 <tr>
   <td>
-    <div>Renumbered Note 1 .....</div>
+    <div>Renumbered Note 1 .......</div>
   </td>
   <td>
     <div>No. 125, 1999</div>
@@ -6438,7 +6422,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
 </tr>
 <tr>
   <td>
-    <div>Renumbered Note 1 .....</div>
+    <div>Renumbered Note 1 .......</div>
   </td>
   <td>
     <div>No. 34, 1997</div>
@@ -6526,8 +6510,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of 
-Part 3.7</div>
+    <div>Heading to Div. 3 of Part 3.7</div>
   </td>
   <td>
     <div>ad. No. 135, 2008</div>
@@ -7017,7 +7000,7 @@ of Part 4.6</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -7085,14 +7068,6 @@ of Part 4.6</div>
   </td>
   <td>
     <div>am. No. 135, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7170,19 +7145,19 @@ In this Part:
 
 Evidence given by police officers
 
-(1)       Section 33 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to a police officer included a reference to a person who was a member or special member of the Australian Federal Police at any time before the commencing time.
+(1)        Section 33 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to a police officer included a reference to a person who was a member or special member of the Australian Federal Police at any time before the commencing time.
 
 Exclusion of records of oral questioning
 
-(2)       Section 86 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to an investigating official included a reference to a person who was a member or special member of the Australian Federal Police at any time before the commencing time.
+(2)        Section 86 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to an investigating official included a reference to a person who was a member or special member of the Australian Federal Police at any time before the commencing time.
 
 Exclusion of evidence of identification by pictures
 
-(3)       Section 115 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to a police officer included a reference to a person who was a member or special member of the Australian Federal Police at any time before the commencing time.
+(3)        Section 115 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to a police officer included a reference to a person who was a member or special member of the Australian Federal Police at any time before the commencing time.
 
 Proof of certain matters
 
-(4)       Section 171 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to an authorised person included a reference to a person who was:
+(4)        Section 171 of the _Evidence Act 1995_ as in force at and after the commencing time applies as if a reference in that section to an authorised person included a reference to a person who was:
 
                      (a)  a member of the Australian Federal Police at or above the rank of sergeant; or
 
@@ -7192,7 +7167,7 @@ at any time before the commencing time.
 
 Fingerprint affidavits
 
-(5)       Section 180 of the _Evidence Act 1995_ as in force at and after the commencing time applies to an affidavit made under that section at any time before the commencing time in the same way as it does to an affidavit made under that section at or after the commencing time.
+(5)        Section 180 of the _Evidence Act 1995_ as in force at and after the commencing time applies to an affidavit made under that section at any time before the commencing time in the same way as it does to an affidavit made under that section at or after the commencing time.
 
 ## 34  Warrants or writs etc. may continue to be executed
 
@@ -7212,9 +7187,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -7249,25 +7224,25 @@ _Evidence Amendment Act 2008 (No. 135, 2008)_
 
 ## 95  Proceedings already begun
 
-(1)       Subject to this Part, the amendments made by this Schedule do not apply in relation to proceedings the hearing of which began before the commencement of this Schedule.
+(1)        Subject to this Part, the amendments made by this Schedule do not apply in relation to proceedings the hearing of which began before the commencement of this Schedule.
 
-(2)       The _Evidence Act 1995_, as in force immediately before that commencement, continues to apply in relation to proceedings the hearing of which began before that commencement.
+(2)        The _Evidence Act 1995_, as in force immediately before that commencement, continues to apply in relation to proceedings the hearing of which began before that commencement.
 
 ## 96  Admissions
 
-(1)       The amendment made by this Schedule to section 85 of the _Evidence Act 1995_ does not apply in relation to admissions made before the commencement of this Schedule.
+(1)        The amendment made by this Schedule to section 85 of the _Evidence Act 1995_ does not apply in relation to admissions made before the commencement of this Schedule.
 
-(2)       That section, as in force immediately before that commencement, continues to apply in relation to admissions made before that commencement.
+(2)        That section, as in force immediately before that commencement, continues to apply in relation to admissions made before that commencement.
 
 ## 97  Failure or refusal to answer questions etc.
 
-(1)       The amendment made by this Schedule to section 89 of the _Evidence Act 1995_ does not apply in relation to any failure or refusal, before the commencement of this Schedule:
+(1)        The amendment made by this Schedule to section 89 of the _Evidence Act 1995_ does not apply in relation to any failure or refusal, before the commencement of this Schedule:
 
                      (a)  to answer one or more questions; or
 
                      (b)  to respond to a representation.
 
-(2)       That section, as in force immediately before that commencement, continues to apply in relation to any such failure or refusal before that commencement.
+(2)        That section, as in force immediately before that commencement, continues to apply in relation to any such failure or refusal before that commencement.
 
 ## 98  Prior operation of notice provisions
 
