@@ -1,7 +1,7 @@
 
 Registration of Deaths Abroad Act 1984 
 Act No. 169 of 1984 as amended
-This compilation was prepared on 26 May 2001 taking into account amendments up to Act No. 35 of 2001
+This compilation was prepared on 24 January 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -13,7 +13,6 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
 4	Application of Act	4
-4A	Application of the Criminal Code	4
 5	Registrar of Deaths Abroad	4
 6	Acting Registrar	5
 7	Register of Deaths Abroad	6
@@ -22,7 +21,7 @@ Part II—Registration of deaths	7
 9	Certain disappearances to be taken to be deaths	7
 10	Applications for registration	8
 11	Form of application for registration	9
-12	Registration of death	10
+12	Registration of death	11
 13	Registration of death on basis of knowledge of registering officer	11
 14	Registration prohibited in certain circumstances	12
 15	Method of registration	12
@@ -37,11 +36,10 @@ Part III—Miscellaneous	14
 23	Evidence	19
 24	Offences	20
 25	Delegation by Minister	20
-26	Delegation by Registrar	20
+26	Delegation by Registrar	21
 27	Review of decisions	21
 28	Regulations	22
-Notes to the Registration of Deaths Abroad Act 1984	23
-4	Application of amendments	28
+Notes		23
 An Act to provide for the registration of the deaths of Australian citizens who have died abroad and of certain other persons
 Part I—Preliminary
   
@@ -76,7 +74,7 @@ prescribed person means a person who:
 	(a)	is an Australian citizen; or
 	(b)	ordinarily resides in Australia or in an external Territory; or
 	(c)	is in receipt of a pension, allowance or benefit under the Social Security Act 1991; or
-	(d)	is in receipt of a pension, allowance or benefit under the Repatriation Act 1920.
+	(d)	is in receipt of a pension, allowance or benefit under the Repatriation Act 1920;
 Register means the Register of Deaths Abroad kept in pursuance of section 7.
 registering officer means:
 	(a)	the Registrar;
@@ -106,9 +104,6 @@ ship means any kind of vessel capable of navigating the high seas and includes:
 	(6)	A child shall be taken to have been born alive for the purposes of this Act if the child has breathed after having been completely expelled or extracted from the body of the mother of the child.
 4  Application of Act
 		This Act applies both within and outside Australia and extends to every external Territory.
-4A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 5  Registrar of Deaths Abroad
 	(1)	For the purposes of this Act, there shall be a Registrar of Deaths Abroad, who shall be appointed by the Minister.
 	(2)	The Minister shall not appoint a person to be the Registrar unless the person is engaged under the Public Service Act 1999.
@@ -312,8 +307,10 @@ and a document purporting to be such a copy or extract shall, unless the contrar
 and a document purporting to be a Certificate of Death Abroad shall, unless the contrary is proved, be deemed to be a valid Certificate of Death Abroad.
 	(4)	In this section, Certificate of Death Abroad has the same meaning as it has in section 21.
 24  Offences
+	(1)	A person shall not make an application under subsection 10(1) or (2) that, to the knowledge of the person, contains information that is false or misleading in a material particular.
+	(2)	A person shall not make to a registering officer who is making inquiries under subsection 12(3) a statement that, to the knowledge of the person, is false or misleading in a material particular.
 	(3)	A registering officer shall not complete a Certificate of Death Abroad that, to the knowledge of the officer, contains information that is false or misleading in a material particular.
-	(4)	A person shall not falsify, or intentionally do an act that causes the mutilation of, a Certificate of Death Abroad, a copy of a Certificate of Death Abroad, the Register, or a copy of, or extract from, an entry in the Register.
+	(4)	A person shall not falsify or wilfully mutilate a Certificate of Death Abroad, a copy of a Certificate of Death Abroad, the Register, or a copy of, or extract from, an entry in the Register.
 Penalty:	$1,000.
 25  Delegation by Minister
 	(1)	The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to the person holding or performing the duties of the office of Secretary to the Department all or any of his powers under this Act, other than this power of delegation.
@@ -348,7 +345,6 @@ and, in particular, providing for the manner of giving notices under this Act.
 Notes to the Registration of Deaths Abroad Act 1984
 Note 1
 The Registration of Deaths Abroad Act 1984 as shown in this compilation comprises Act No. 169, 1984 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 28 April 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -385,11 +381,7 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 769‑771): 5 Dec 1999 (see Gazette 1999, No. S584) (d)
 —
-Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001
-35, 2001
-28 Apr 2001
-26 May 2001
-S. 4
+
 (a)	2.	This Act commences immediately after the Social Security Act 1991 commences.
 	The Social Security Act 1991 came into operation on 1 July 1991.
 (b)	2.	This Act commences on 1 January 1995 immediately after the commencement of the Student Assistance (Youth Training Allowance) Amendment Act 1994.
@@ -404,19 +396,9 @@ Provision affected
 How affected
 S. 3	
 am. No. 63, 1988; No. 70, 1991; No. 184, 1994; No. 45, 1998
-S. 4A	
-ad. No. 35, 2001
 Ss. 5, 6	
 am. No. 146, 1999
-S. 24	
-am. No. 35, 2001
 S. 26	
 am. No. 146, 1999
 
-Table A
-Application, saving or transitional provisions
-Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
