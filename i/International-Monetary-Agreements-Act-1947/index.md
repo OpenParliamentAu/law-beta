@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00436/Html/InteMoneAgmts1947WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00425/Html/InteMoneAgmts1947WD02_image001.gif)
 
 # International Monetary Agreements Act 1947
 
 **Act No. 5 of 1947 as amended**
 
-This compilation was prepared on 18 September 2009
- taking into account amendments up to Act No. 82 of 2009
+This compilation was prepared on 9 September 2009
+ taking into account amendments up to Act No. 57 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -86,11 +86,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="bank"></a>**_Bank_** means the International Bank for Reconstruction and Development referred to in the Bank Agreement.
 
-                    <a name="bank-agreem"></a>**_Bank Agreement_** means the Articles of Agreement of the International Bank for Reconstruction and Development set out in Schedule 2, as amended in accordance with the resolution of the Board of Governors of that Bank set out in Schedule 3 and as amended by any other amendment of the Articles of Agreement that has entered into force for Australia.
+                    <a name="bank-agreem"></a>**_Bank Agreement_** means the Articles of Agreement of the International Bank for Reconstruction and Development set out in Schedule 2, as amended in accordance with the resolution of the Board of Governors of that Bank set out in Schedule 3.
 
                     <a name="fund"></a>**_Fund_** means the International Monetary Fund referred to in the Fund Agreement.
 
-                    <a name="fund-agreem"></a>**_Fund Agreement_** means the Articles of Agreement of the International Monetary Fund set out in Schedule 1, as amended by any amendment of the Articles of Agreement that has entered into force for Australia.
+                    <a name="fund-agreem"></a>**_Fund Agreement_** means the Articles of Agreement of the International Monetary Fund set out in Schedule 1.
 
                     <a name="new-arrang-borrow"></a>**_New Arrangements to Borrow_** means Decision No. 11428-(97/6), dated 27 January 1997, of the Executive Board of the Fund, a copy of which is set out in Schedule 4.
 
@@ -2727,7 +2727,7 @@ Section 3.  _Inauguration of the Bank_
 
      (_a_)  As soon as this Agreement enters into force under Section 1 of this Article, each member shall appoint a governor and the member to whom the largest number of shares is allocated in Schedule A shall call the first meeting of the Board of Governors.
 
-     (_b_)  At the first meeting of the Board of Governors, arrangements shall be made for the selection of provisional executive directors. The governments of the five countries, to which the largest number of shares are allocated in Schedule A, shall appoint provisional executive directors. If one or more of such governments have not become members, the executive directorships which they would be entitled to fill shall remain vacant until they become members, or until  January 1, 1946, whichever is the earlier. Seven provisional executive directors shall be elected in accordance with the provisions of Schedule B and shall remain in office until the date of the first regular election of executive directors which shall be held as soon as practicable after January 1, 1946.
+     (_b_)  At the first meeting of the Board of Governors, arrangements shall be made for the selection of provisional executive directors. The governments of the five countries, to which the largest number of shares are allocated in Schedule A, shall appoint provisional executive directors. If one or more of such governments have not become members, the executive directorships which they would be entitled to fill shall remain vacant until they become members, or until January 1, 1946, whichever is the earlier. Seven provisional executive directors shall be elected in accordance with the provisions of Schedule B and shall remain in office until the date of the first regular election of executive directors which shall be held as soon as practicable after January 1, 1946.
 
      (_c_)  The Board of Governors may delegate to the provisional executive directors any powers except those which may not be delegated to the Executive Directors.
 
@@ -4221,23 +4221,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>82, 2009</div>
-  </td>
-  <td>
-    <div>10 Sept 2009</div>
-  </td>
-  <td>
-    <div>10 Sept 2009</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _International Monetary Agreements Act 1963_ was repealed by section 3 of the _International Monetary Agreements Act 1968_ without a date for its commencement having been fixed. Section 3 commenced on 9 December 1968.
@@ -4294,7 +4277,7 @@ _(a)_     The _International Monetary Agreements Act 1963_ was repealed 
     <div></div>
   </td>
   <td>
-    <div>am. No. 97, 1978; No. 127, 1997; Nos. 57 and 82, 2009</div>
+    <div>am. No. 97, 1978; No. 127, 1997; No. 57, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4636,16 +4619,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Act 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
-* * *
-
-_International Monetary Agreements Amendment Act 2009 (No. 82, 2009)_
-
-## Schedule 1
-
-## 3  Application
-
-The amendments made by this Schedule apply in relation to amendments that enter into force for Australia on or after the commencement of this item (regardless of whether the amendments were proposed before, on or after that commencement).
 
  
 * * *
