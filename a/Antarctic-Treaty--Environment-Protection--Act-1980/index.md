@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00102/Html/AntarcticTreatEnviroProt80_2002_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00347/Html/AntarcticTreatEnviroProt80_2002_image001.gif)
 
 # Antarctic Treaty (Environment Protection) Act 1980
 
 **Act No. 103 of 1980 as amended**
 
-This compilation was prepared on 24 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 11 June 2007
+ taking into account amendments up to Act No. 164 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -344,7 +344,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
              (2)  Unless the contrary intention appears, a reference in this Act to a virus or bacterium shall be read as including a reference to an article containing, or an article, animal or plant infected by, a virus or bacterium.
 
-             (3)  A reference in this Act to an offence shall be read as including a reference to an offence against section 6 of the _Crimes Act 1914_, or against section 11.1, 11.4 or 11.5 of the _Criminal Code_, in relation to this Act.
+             (3)  A reference in this Act to an offence shall be read as including a reference to an offence created by section 6, 7, 7A or 86 of the _Crimes Act 1914_ in relation to this Act.
 
              (4)  A reference in this Act to a member of the Australian Federal Police or to a member of a police force shall be read as including a reference to a special member of the Australian Federal Police.
 
@@ -3183,23 +3183,6 @@ Schedule 1 (items 28–30): 24 Nov 2002 <i>(e)</i></div>
     <div>Sch. 1 (items 
 89–92) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 4): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(4) of which provides as follows: 
@@ -3292,7 +3275,7 @@ _(e)_     The _Antarctic Treaty (Environment Protection) Act 1980_ was a
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 65, 1985; No. 63, 1988; No. 156, 1992; No. 164, 2006; No. 4, 2010</div>
+    <div>am. No. 65, 1985; No. 63, 1988; No. 156, 1992; No. 164, 2006</div>
   </td>
 </tr>
 <tr>
