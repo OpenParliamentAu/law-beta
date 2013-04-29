@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00192/Html/7dd13203-ad5b-4c33-9ce6-c0ac2ca652fd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00903/Html/81784b93-ee83-45c5-a26d-f87134397da2_files/image001.gif)
 
 # Wine Australia Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 31 January 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force
@@ -1180,13 +1180,35 @@ the Minister shall terminate the appointment of the member.
 
 ##### <a id="29J"></a>29J  Acting Presiding Member
 
-                   The Minister may appoint a person to act as Presiding Member:
+             (1)  The Minister may appoint a person to act as Presiding Member:
 
                      (a)  during a vacancy in the office of Presiding Member (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Presiding Member is absent from Australia or is, for any other reason, unable to perform the functions of the office of Presiding Member.
+                     (b)  during any period, or during all periods, when the Presiding Member is absent from Australia or is, for any other reason, unable to perform the functions of the office of Presiding Member;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as the Presiding Member.
+
+             (4)  The Minister may terminate an appointment made under subsection (1) at any time.
+
+             (5)  Where a person is acting as Presiding Member in accordance with paragraph (1)(b) and the office of Presiding Member becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+
+             (6)  The appointment of a person to act as Presiding Member ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+
+             (7)  While a person is acting as Presiding Member, the person has and may exercise all the powers, and shall perform all the functions, of the Presiding Member under this Act.
+
+             (8)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="29K"></a>29K  Casual vacancy
 
@@ -2858,7 +2880,7 @@ Minister may suspend operation of section
 
 ### Division 3—Establishment, function and powers of Geographical Indications Committee
 
-##### <a id="40N"></a>40N  Establishment of Committee
+##### <a id="40N"></a>40N  Establishment of Committee
 
                    A committee to be known as the Geographical Indications Committee is established.
 
@@ -3452,7 +3474,7 @@ Submission made
 
              (2)  If a submission has been made to the Committee, the Committee must make a determination in writing not to omit the GI from the Register.
 
-##### <a id="40ZAO"></a>40ZAO  Notice of determination
+##### <a id="40ZAO"></a>40ZAO  Notice of determination
 
                    The Presiding Member of the Committee must cause:
 
@@ -4048,13 +4070,21 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="3"></a>3  Acting Presiding Member 
 
-                   The Chairperson of the Corporation may appoint a person to act as the Presiding Member: 
+             (1)  The Chairperson of the Corporation may appoint a person to act as the Presiding Member: 
 
                      (a)  during a vacancy in the office of Presiding Member (whether or not an appointment has previously been made to the office); or 
 
                      (b)  during any period, or during all periods, when the Presiding Member is absent from Australia or is, for any other reason, unable to perform the functions of the Presiding Member. 
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Nothing done by or in relation to a person purporting to act under this section is ineffective on any one or more of the following grounds: 
+
+                     (a)  the occasion for the person’s appointment to act had not arisen; 
+
+                     (b)  there is a technical defect or irregularity in connection with the person’s appointment; 
+
+                     (c)  the person’s appointment had ceased to have effect; 
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="4"></a>4  Alternate members of the Committee
 
@@ -4167,8 +4197,6 @@ Note:          A different process for resolving questions may
 ### Note 1
 
 The _Wine Australia Corporation Act 1980_ as shown in this compilation comprises Act No. 161, 1980 amended as indicated in the Tables below. 
-
-For application, saving or transitional provisions made by Schedule 1 (item 6) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 14 May 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -4685,7 +4713,7 @@ Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
       <div>16 Aug 2004</div>
     </td>
     <td>
-      <div>Schedule 3: 1 Jan 2005</div>
+      <div>Schedule 3: 1 Jan 2005</div>
     </td>
     <td>
       <div>Sch. 3 (item 16) \[ <i>see</i>Table A]</div>
@@ -4736,7 +4764,7 @@ Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
       <div>16 Nov 2009</div>
     </td>
     <td>
-      <div>Schedule 1 (item 1): 17 Nov 2009</div>
+      <div>Schedule 1 (item 1): 17 Nov 2009</div>
     </td>
     <td>
       <div>—</div>
@@ -4756,11 +4784,11 @@ Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
   <td>
     <div>Schedule 1 (items 1–69, 77–80) and Schedule 2: 1 Sept 2010 ( <i>see</i>F2010L02117) 
 Schedule 3 (items 1–17, 19–21): 3 Aug 2010 
-Schedule 3 (item 18): 1 Sept 2010</div>
+Schedule 3 (item 18): 1 Sept 2010</div>
   </td>
   <td>
     <div>Sch. 1 (items 
-77–80), Sch. 2 (items 36, 37) and Sch. 3 (items 
+77–80), Sch. 2 (items 36, 37) and Sch. 3 (items 
 19–21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -4792,7 +4820,7 @@ Schedule 3 (item 18): 1 Sept 2010</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 7 (item 148): 19 Apr 2011</div>
+    <div>Schedule 7 (item 148): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4809,10 +4837,10 @@ Schedule 3 (item 18): 1 Sept 2010</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1191–1198) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1191–1198) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4843,7 +4871,7 @@ Schedule 3 (item 18): 1 Sept 2010</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 26): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    <div>Schedule 2 (item 26): \[ <i>see</i>s. 2(1) and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -5365,39 +5393,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>Ss. 29B–29H</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29J</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 29J</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29K</div>
+    <div>Ss. 29B–29K</div>
   </td>
   <td>
     <div>ad. No. 60, 1986</div>
@@ -7594,11 +7590,57 @@ Part VIB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2010; Nos. 46 and 89, 2011</div>
+    <div>am. No. 98, 2010; No. 89, 2011</div>
   </td>
 </tr></table>
 
 ### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1191  Subsection 29J(1)
+
+Omit “(1)”.
+
+## 1192  Paragraph 29J(1)(b)
+
+Omit “Presiding Member;”, substitute “Presiding Member.”.
+
+## 1193  Subsection 29J(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue to act for more than 12 months.”.
+
+## 1194  At the end of subsection 29J(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1195  Subsections 29J(2) to (8)
+
+Repeal the subsections.
+
+## 1196  Subclause 3(1) of the Schedule
+
+Omit “(1)”.
+
+## 1197  At the end of subclause 3(1) of the Schedule
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1198  Subclause 3(2) of the Schedule
+
+Repeal the subclause.
+
+As at 11 November 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
 
 _Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
 
@@ -7610,7 +7652,7 @@ The following amendment commences at the same time as section 3 of the _Business
 
 After “Territory”, insert “or on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
 
-As at 31 January 2012 the amendment is not incorporated in this compilation.
+As at 11 November 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -7816,6 +7858,8 @@ The amendment made by item 15 of this Schedule applies to conduct engaged in, 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
