@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00610/Html/d74ed1a3-ddf4-40de-83d4-261d90acc44b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00418/Html/06faf9ef-2e6f-4baa-bb4e-4236e67a2f0d_files/image001.gif)
 
 # Australian National Registry of Emissions Units Act 2011
 
 **Act No. 99 of 2011 as amended**
 
-This compilation was prepared on 30 June 2012
- taking into account amendments up to Act No. 84 of 2012
+This compilation was prepared on 1 May 2012
+ taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -406,14 +406,6 @@ about dealings with:</li>
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
                     <a name="australian-carbon-crite-unit"></a>**_Australian carbon credit unit_** has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
-                    <a name="busi-dai"></a>**_business day_** means a day that is not:
-
-                     (a)  a Saturday; or
-
-                     (b)  a Sunday; or
-
-                     (c)  a public holiday in the Australian Capital Territory.
 
                     <a name="certifi-emiss-ruction"></a>**_certified emission reduction_** means a certified emission reduction issued outside Australia in accordance with the relevant provisions of the Kyoto rules.
 
@@ -1171,26 +1163,6 @@ Note:          Part 7 provides for pecuniary penalties for b
 
              (3)  Subsection (2) does not limit subsection (1).
 
-          (3A)  Regulations made for the purposes of subsection (1) may:
-
-                     (a)  make provision for identifying Registry accounts that are **_restricted Registry accounts_** for the purposes of this section; and
-
-                     (b)  restrict or limit the operation of restricted Registry accounts.
-
-          (3B)  Regulations made for the purposes of subsection (3A) may:
-
-                     (a)  prohibit, restrict or limit the transfer of units from a restricted Registry account; or
-
-                     (b)  prohibit, restrict or limit the transfer of units to a restricted Registry account; or
-
-                     (c)  prohibit, restrict or limit the issue of carbon units to a restricted Registry account.
-
-          (3C)  Subsection (3B) does not limit subsection (3A).
-
-          (3D)  Subsections (3A) and (3B) do not limit subsection (1).
-
-          (3E)  Section 28C does not limit subsections (3A) and (3B) of this section.
-
 Requirement
 
              (4)  If the holder of a Registry account is subject to a requirement under regulations made for the purposes of subsection (1) or (2), the holder must comply with that requirement.
@@ -1247,7 +1219,7 @@ to or from a Registry account kept in the name of a person.
 
 Regulator may defer giving effect to the instruction
 
-             (2)  The Regulator may defer giving effect to the instruction, for a period that ends not later than the end of the fifth business day after the day on which the instruction was received, if the Regulator is satisfied that it is prudent to do so in order to:
+             (2)  The Regulator may defer giving effect to the instruction, for a period not exceeding 48 hours, if the Regulator is satisfied that it is prudent to do so in order to:
 
                      (a)  ensure the integrity of the Registry; or
 
@@ -3036,10 +3008,10 @@ For all relevant information pertaining to application, saving or transitional p
 
 <table>
 <colgroup>
-  <col width="28%">
+  <col width="29%">
   <col width="17%">
-  <col width="17%">
-  <col width="21%">
+  <col width="16%">
+  <col width="20%">
   <col width="17%">
 </colgroup>
 
@@ -3093,29 +3065,13 @@ Remainder: Royal Assent</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 5–7, 13, 15, 43–46, 215A): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
-Schedule 1 (items 229–256): \[ <i>see</i>Note 2] 
+    <div>Schedule 1 (items 5–7, 13, 15, 
+43–46, 215A): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
+Schedule 1 (items 229–256): \[ <i>see</i>Note 2] 
 Schedule 4: 8 Dec 2011</div>
   </td>
   <td>
     <div>Sch. 1 (item 215A)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>84, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4: 29 June 2012</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -3123,8 +3079,8 @@ Schedule 4: 8 Dec 2011</div>
 
 <table>
 <colgroup>
-  <col width="33%">
-  <col width="67%">
+  <col width="32%">
+  <col width="68%">
 </colgroup>
 
 <thead>
@@ -3152,18 +3108,10 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
+    <div>Ss. 3, 4</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3368,23 +3316,7 @@ Schedule 4: 8 Dec 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
+    <div>Ss. 26–28</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
@@ -3419,7 +3351,7 @@ Schedule 4: 8 Dec 2011</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 84, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3981,7 +3913,7 @@ Repeal the definition, substitute:
 
                      (b)  in relation to an Australian carbon credit unit—has the same meaning as in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
-## 235  Section 4 (before paragraph (a) of the definition of _registered holder_)
+## 235  Section 4 (before paragraph (a) of the definition of _registered holder_)
 
 Insert:
 
@@ -4029,7 +3961,7 @@ Cancellation or transfer of units
 
 Repeal the heading.
 
-## 242  Before subsection 17(1)
+## 242  Before subsection 17(1)
 
 Insert:
 
@@ -4119,7 +4051,7 @@ Repeal the section, substitute:
 
 ##### <a id="58"></a>58  Simplified outline
 
-                   The following is a simplified outline of this Part:
+                   The following is a simplified outline of this Part:
 
 * * *
 
@@ -4273,7 +4205,7 @@ request the Regulator to cancel any or all of those units.</li>
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
-As at 30 June 2012 the amendments are not incorporated in this compilation.
+As at 1 May 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
