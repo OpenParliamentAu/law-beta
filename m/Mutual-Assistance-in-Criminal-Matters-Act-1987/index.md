@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00116/Html/a3971220-c7bf-48ef-aa7c-5a7877dc32c0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00588/Html/39cbb436-5fac-4d40-8ef9-0c6637f4d28e_files/image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 12 January 2012
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 1 August 2011
+ taking into account amendments up to Act No. 83 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -422,6 +422,8 @@ whether arising under Australian law or a law of a foreign country.
 
                     <a name="crimin-proceing"></a>**_criminal proceeding_**, in relation to an offence, means a trial of a person for the offence or a committal proceeding in respect of the offence.
 
+                    <a name="dpp"></a>**_DPP_** means the Director of Public Prosecutions.
+
                     <a name="enforc-agenc"></a>**_enforcement agency_** has the same meaning as in the Proceeds of Crime Act.
 
                     <a name="evidenti-materi"></a>**_evidential material_** means a thing relevant to a proceeding or investigation, including such a thing in electronic form.
@@ -569,10 +571,6 @@ when the person knows that, or is reckless of whether or not, the money or other
                     <a name="proce-jurisdict"></a>**_proceeds jurisdiction_** has the same meaning as in the Proceeds of Crime Act.
 
                     <a name="proce-crime-act"></a>**_Proceeds of Crime Act_** means the _Proceeds of Crime Act 2002_.
-
-                    <a name="proce-crime-author"></a>**_proceeds of crime authority_** has the same meaning as in the Proceeds of Crime Act.
-
-Note:          Under that Act, the proceeds of crime authority is either the Commissioner of the Australian Federal Police or the Director of Public Prosecutions (see the definition of **_proceeds of crime authority_** in section 338 of that Act).
 
                     <a name="proce-crime-law"></a>**_proceeds of crime law_** means:
 
@@ -1372,7 +1370,7 @@ if the order was made in respect of a serious offence.
 
                              (ii)  the conviction and the order are not subject to further appeal in the foreign country;
 
-the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order in a specified court.
+the Attorney‑General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
 
              (2)  If a foreign country that is specified in regulations made for the purposes of this subsection requests the Attorney‑General to make arrangements for the enforcement of:
 
@@ -1388,7 +1386,7 @@ the Attorney‑General may authorise a proceeds of crime authority, in writing, 
 
                              (ii)  some or all of the property available to satisfy the order is reasonably suspected of being located in Australia;
 
-the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order in a specified court.
+the Attorney‑General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
 
              (3)  If a foreign country requests the Attorney‑General to make arrangements for the enforcement of a foreign restraining order, against property that is reasonably suspected of being located in Australia, that is:
 
@@ -1396,21 +1394,21 @@ the Attorney‑General may authorise a proceeds of crime authority, in writing, 
 
                      (b)  if the foreign country is specified in regulations made for the purposes of subsection (2)—made in respect of the alleged commission of a foreign serious offence (whether or not the identity of the person who committed the offence is known);
 
-the Attorney‑General may authorise a proceeds of crime authority, in writing, to apply for the registration of the order in a specified court.
+the Attorney‑General may authorise the DPP, in writing, to apply for the registration of the order in a specified court.
 
              (4)  The court that the Attorney‑General specifies under subsection (1), (2) or (3) must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
 ##### <a id="34A"></a>34A  Registration of foreign orders
 
-             (1)  If a proceeds of crime authority applies to a court for registration of a foreign order in accordance with an authorisation under this Subdivision, the court must register the order accordingly, unless the court is satisfied that it would be contrary to the interests of justice to do so.
+             (1)  If the DPP applies to a court for registration of a foreign order in accordance with an authorisation under this Subdivision, the court must register the order accordingly, unless the court is satisfied that it would be contrary to the interests of justice to do so.
 
-             (2)  The proceeds of crime authority must give notice of the application:
+             (2)  The DPP must give notice of the application:
 
-                     (a)  to specified persons the authority has reason to suspect may have an interest in the property; and
+                     (a)  to specified persons the DPP has reason to suspect may have an interest in the property; and
 
                      (b)  to such other persons as the court directs.
 
-             (3)  However, the court may consider the application without notice having been given if the proceeds of crime authority requests the court to do so.
+             (3)  However, the court may consider the application without notice having been given if the DPP requests the court to do so.
 
              (4)  If a foreign pecuniary penalty order or a foreign restraining order is registered in a court under this Subdivision:
 
@@ -1430,9 +1428,9 @@ the Attorney‑General may authorise a proceeds of crime authority, in writing, 
 
              (2)  In particular, section 68 of the _Proceeds of Crime Act 2002_ applies in relation to the forfeiture order as if:
 
-                     (a)  the reference in subparagraph 68(1)(b)(i) of that Act to a proceeds of crime authority having applied for the order were a reference to the foreign forfeiture order having been made; and
+                     (a)  the reference in subparagraph 68(1)(b)(i) of that Act to the DPP having applied for the order were a reference to the foreign forfeiture order having been made; and
 
-                     (b)  subparagraph 68(1)(b)(ii) of that Act did not apply if the person in question died after the authority applied for registration of the order under section 34A of this Act.
+                     (b)  subparagraph 68(1)(b)(ii) of that Act did not apply if the person in question died after the DPP applied for registration of the order under section 34A of this Act.
 
              (3)  Subject to section 34C, property that is subject to a foreign forfeiture order registered under this Subdivision may be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney‑General or of a person authorised by the Attorney‑General in writing for the purposes of this subsection.
 
@@ -1492,9 +1490,9 @@ Period for applying
 
 Procedural matters
 
-             (8)  A person who applies under subsection (1) must give to the proceeds of crime authority authorised under section 34 notice, as prescribed, of the application.
+             (8)  A person who applies under subsection (1) must give to the DPP notice, as prescribed, of the application.
 
-             (9)  That proceeds of crime authority is to be a party to proceedings on an application under subsection (1). The Attorney‑General may intervene in the proceedings.
+             (9)  The DPP is to be a party to proceedings on an application under subsection (1). The Attorney‑General may intervene in the proceedings.
 
 ##### <a id="34D"></a>34D  Enforcement of foreign pecuniary penalty orders
 
@@ -1540,7 +1538,7 @@ Note:          Division 3 of this Part contains further prov
 
 ##### <a id="34G"></a>34G  Cancelling registration
 
-             (1)  The Attorney‑General may direct the proceeds of crime authority authorised under section 34 to apply to a court in which:
+             (1)  The Attorney‑General may direct the DPP to apply to a court in which:
 
                      (a)  a foreign pecuniary penalty order; or
 
@@ -1554,7 +1552,7 @@ has been registered under this Subdivision for cancellation of the registration.
 
                      (b)  cancellation of the order is appropriate having regard to the arrangements entered into between Australia and the foreign country in relation to the enforcement of orders of that kind.
 
-             (3)  The court to which a proceeds of crime authority applies in accordance with a direction under subsection (1) must cancel the registration accordingly.
+             (3)  The court to which the DPP applies in accordance with a direction under subsection (1) must cancel the registration accordingly.
 
 ##### <a id="34H"></a>34H  Certain provisions of the Proceeds of Crime Act not to apply
 
@@ -1576,13 +1574,13 @@ has been registered under this Subdivision for cancellation of the registration.
 
                      (c)  the foreign country requests the Attorney‑General to obtain the issue of a restraining order against the property;
 
-the Attorney‑General may authorise a proceeds of crime authority to apply to a specified court for a restraining order against that property in respect of the offence.
+the Attorney‑General may authorise the DPP to apply to a specified court for a restraining order against that property in respect of the offence.
 
              (2)  The court specified must be a court with proceeds jurisdiction in a State or Territory in which the property, or some or all of the property, is reasonably suspected of being located.
 
-##### <a id="34K"></a>34K  Applying for and making restraining orders
+##### <a id="34K"></a>34K  Applying for and making restraining orders
 
-             (1)  If so authorised, a proceeds of crime authority may apply for such a restraining order against that property in respect of the offence.
+             (1)  If so authorised, the DPP may apply for such a restraining order against that property in respect of the offence.
 
              (2)  Part 2‑1 of the Proceeds of Crime Act applies to the application, and to any restraining order made as a result.
 
@@ -1590,7 +1588,7 @@ the Attorney‑General may authorise a proceeds of crime authority to apply to a
 
                      (a)  references in that Part to an indictable offence were references to the foreign serious offence; and
 
-                     (b)  references in that Part to a court with proceeds jurisdiction were references to the court specified in the authorisation under section 34J of this Act; and
+                     (b)  references in that Part to a court with proceeds jurisdiction were references to the court specified in the DPP’s authorisation under section 34J of this Act; and
 
                      (c)  in a case to which subparagraph 34J(1)(a)(i) applies:
 
@@ -1632,7 +1630,7 @@ the court must grant the application if the court is satisfied that:
 
                      (a)  at the end of the period of 30 days commencing on the day on which the order is made; or
 
-                     (b)  if the court that made the restraining order, on application made by the proceeds of crime authority authorised under section 34J before the end of the period referred to in paragraph (a), extends the period of operation of the order—at the end of the period as so extended.
+                     (b)  if the court that made the restraining order, on application made by the DPP before the end of the period referred to in paragraph (a), extends the period of operation of the order—at the end of the period as so extended.
 
              (2)  However, the restraining order ceases to have effect upon the registration of a foreign restraining order against the property under Subdivision A if that registration occurs before the end of the period referred to in paragraph (1)(a) or (b) (as the case requires).
 
@@ -1970,19 +1968,19 @@ Effect of foreign forfeiture orders being registered or obtained
 
                    The court that registers a foreign restraining order under Subdivision A of Division 2 may order the Official Trustee to take custody and control of all or a specified part of property covered by the restraining order if:
 
-                     (a)  the proceeds of crime authority authorised under section 34 applies for the order; and
+                     (a)  the DPP applies for the order; and
 
                      (b)  the court is satisfied that it is required in the circumstances.
 
 ##### <a id="35A"></a>35A  Procedural matters
 
-             (1)  A proceeds of crime authority that applies for an order under section 35 in respect of property must give written notice of the application to:
+             (1)  The DPP must give written notice of an application for an order under section 35 in respect of property to:
 
                      (a)  the owner of the property; and
 
-                     (b)  any other person the authority has reason to believe may have an interest in the property.
+                     (b)  any other person the DPP has reason to believe may have an interest in the property.
 
-             (2)  The court may, at any time before finally determining the application, direct the proceeds of crime authority to give or publish notice of the application:
+             (2)  The court may, at any time before finally determining the application, direct the DPP to give or publish notice of the application:
 
                      (a)  to a specified person or class of persons; and
 
@@ -2018,7 +2016,7 @@ Effect of foreign forfeiture orders being registered or obtained
 
                      (b)  makes an order under section 35 in relation to property;
 
-may, upon application of a person who claims an interest in the property, make an order as to the giving or carrying out of an undertaking, on behalf of the Commonwealth by the proceeds of crime authority authorised under section 34, with respect to payment of damages or costs relating to the registration, making or operation of the order.
+may, upon application of a person who claims an interest in the property, make an order as to the giving or carrying out of an undertaking, by the DPP on behalf of the Commonwealth, with respect to payment of damages or costs relating to the registration, making or operation of the order.
 
 ##### <a id="35F"></a>35F  Order to discharge certain registered foreign pecuniary penalty orders
 
@@ -2050,7 +2048,7 @@ the court in which the foreign pecuniary penalty order is registered may, by ord
 
              (4)  The execution of the deed or instrument by the person appointed by an order under subsection (3) has the same force and validity as if the deed or instrument had been executed by the person who owned or had the interest in the property.
 
-##### <a id="35G"></a>35G  Official Trustee to carry out orders
+##### <a id="35G"></a>35G  Official Trustee to carry out orders
 
              (1)  As soon as practicable after an order is made under subsection 35F(1) covering property that is money, the Official Trustee must:
 
@@ -2124,7 +2122,7 @@ the registration of the foreign restraining order or the foreign pecuniary penal
 
              (1)  A registration authority that keeps a register of property of a particular kind may record in the register a charge created by section 35J on property of that kind.
 
-             (2)  The registration authority may only do so on the application of the proceeds of crime authority authorised under section 34 or the Official Trustee.
+             (2)  The registration authority may only do so on the application of the DPP or the Official Trustee.
 
              (3)  Each person who subsequently deals with the property is taken to have notice of the charge for the purposes of paragraph 35K(c).
 
@@ -3151,7 +3149,7 @@ Remainder: 8 Jan 1993</div>
     <div>27 June 2002</div>
   </td>
   <td>
-    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
+    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
 Remainder: 28 June 2002</div>
   </td>
   <td>
@@ -3187,7 +3185,7 @@ Remainder: 28 June 2002</div>
   </td>
   <td>
     <div>Ss. 1–3: Royal Assent 
-Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
+Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
   </td>
   <td>
     <div>—</div>
@@ -3204,7 +3202,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44
     <div>31 Aug 2004</div>
   </td>
   <td>
-    <div>Schedule 5 (items 10–16): 28 Sept 2004</div>
+    <div>Schedule 5 (items 10–16): 28 Sept 2004</div>
   </td>
   <td>
     <div>—</div>
@@ -3272,7 +3270,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (items 3, 4): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 3 (items 3, 4): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3306,27 +3304,10 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44
     <div>25 July 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 5–9): Royal Assent</div>
+    <div>Schedule 1 (items 5–9): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 8, 9) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 218–239): 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 239) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 8, 9) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3402,7 +3383,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002; No. 174, 2011</div>
+    <div>am. No. 66, 1988; No. 164, 1992; No. 40, 1996; No. 22, 2001; No. 86, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3767,14 +3748,6 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 34A</div>
   </td>
   <td>
@@ -3786,52 +3759,12 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 83 and 174, 2011</div>
+    <div>am. No. 83, 2011</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 34B, 34C</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 34D–34F</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34G</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34H</div>
+    <div>Ss. 34B–34H</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
@@ -3847,42 +3780,10 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div>Ss. 34J, 34K</div>
+    <div>Ss. 34J–34M</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34L</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34M</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3991,15 +3892,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35A</div>
+    <div>Ss. 35A–35H</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
@@ -4007,71 +3900,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 35B–35D</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35E</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 35F–35H</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 35J, 35K</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35L</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35M</div>
+    <div>Ss. 35J–35M</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
@@ -4378,7 +4207,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 
 _Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 3
 
@@ -4392,7 +4221,7 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges created by this section after the commencement of subsection (4) (which is at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-## 4  Subsection 35L(4) (definition of _registration authority_)
+## 4  Subsection 35L(4) (definition of _registration authority_)
 
 Repeal the definition, substitute:
 
@@ -4404,7 +4233,7 @@ Repeal the definition, substitute:
 
 Note:       The _Personal Property Securities Act 2009_ provides for the registration of such data if regulations are made for the purposes of paragraph 148(c) of that Act.
 
-As at 12 January 2012 the amendments are not incorporated in this compilation.
+As at 1 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4448,20 +4277,6 @@ The amendments made by this Schedule apply in relation to an application for reg
 
 The amendments made by this Schedule do not affect the validity of the registration of a foreign order by a court before the day on which this item commences.
 
-* * *
-
-_Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
-
-## Schedule 2
-
-## 239  Application of amendments—the _Mutual Assistance in Criminal Matters Act 1987_
-
-(1)       The amendments of the _Mutual Assistance in Criminal Matters Act 1987_ made by items 218 to 238 of this Schedule apply as set out in this item.
-
-(2)       The amendments apply in relation to requests by a foreign country to the Attorney‑General under that Act, to foreign orders and to proceedings under that Act that are made, registered (in the case of foreign orders) or started (in the case of proceedings) before, at or after the commencement of those items.
-
-(3)       The amendments apply under subitem (2) of this item regardless of whether the conduct giving rise to those requests or proceedings occurred, or is suspected to have occurred, before, at or after the commencement of those items.
-
 ## Table B
 
 ### Modifications
@@ -4476,7 +4291,7 @@ Omit the definition, substitute the following definition:
 
                      (a)  in relation to the Australian Capital Territory—the Chief Minister of the Australian Capital Territory; and
 
-                     (b)  in relation to the Northern Territory—the Administrator of the Northern Territory.”.
+                     (b)  in relation to the Northern Territory—the Administrator of the Northern Territory;”.
 
 ## Subsection 3 (1): (Definition of _State_):
 
