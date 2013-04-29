@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00532/Html/310967eb-d2aa-46af-97e2-f3cd4b59e27f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00522/Html/TelecommunicationsUSL1997_image001.gif)
 
 # Telecommunications (Universal Service Levy) Act 1997
 
 **Act No. 53 of 1997 as amended**
 
-This compilation was prepared on 1 July 2012
- taking into account amendments up to Act No. 44 of 2012
+This compilation was prepared on 20 November 2009
+ taking into account amendments up to Act No. 111 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,25 +14,25 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement
 
-[3](#3).            Act to bind Crown                                                                               1
+[3](#3).            Act to bind Crown
 
-[4](#4).            Extension to external Territories                                                           1
+[4](#4).            Extension to external Territories
 
-[5](#5).            Definition                                                                                             1
+[5](#5).            Definition
 
-[6](#6).            Imposition of levy                                                                                1
+[6](#6).            Imposition of levy
 
-[7](#7).            Amount of levy                                                                                    2
+[7](#7).            Amount of levy
 
-[8](#8).            Participating person liable to pay levy                                                  2
+[8](#8).            Participating person liable to pay levy
 
 **Notes** 
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Extension to external Territories
 
-                   This Act extends to each external Territory referred to in  section 8B of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
+                   This Act extends to each external Territory referred to in  section 8B of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
 ##### <a id="5"></a>5  Definition
 
@@ -60,13 +60,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="particip-person"></a>**_participating person_** has the same meaning as in Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
 
-##### <a id="6"></a>6  Imposition of levy
+#####  <a id="6"></a>6  Imposition of levy
 
                    If a participating person has a levy debit balance for a claim period because of section 20S of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_, levy is imposed on that balance.
 
-Note:          The last claim period will end on or before 30 June 2012: see section 8D of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
-
-##### <a id="7"></a>7  Amount of levy 
+#####  <a id="7"></a>7  Amount of levy 
 
                    The amount of a levy that this Act imposes on a levy debit balance for a claim period is equal to that balance.
 
@@ -93,27 +91,25 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td>
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Telecommunications (Universal Service Levy) Act 1997</div>
@@ -176,35 +172,18 @@ of Assent</div>
     <div>16 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 103): 17 Nov 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Legislation Amendment (Universal Service Reform) Act 2012</div>
-  </td>
-  <td>
-    <div>44, 2012</div>
-  </td>
-  <td>
-    <div>16 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 107): 1 July 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 103): 17 Nov 2009</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     Section 2 of the _Telecommunications (Universal Service Levy) Amendment Act 2000_ provides as follows:
+_(a)_     Section 2 of the _Telecommunications (Universal Service Levy) Amendment Act 2000_ provides as follows:
 
                     2   This Act commences, or is taken to have commenced, immediately after the commencement of Schedule 1 to the _Telecommunications (Consumer Protection and Service Standards) Amendment Act (No. 2) 2000_.
 
-         Schedule 1 commenced on 1 July 2000.
+         Schedule 1 commenced on 1 July 2000.
 
 ## Table of Amendments
 
@@ -214,27 +193,25 @@ _(a)_     Section 2 of the _Telecommunications (Universal Service Levy
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 51, 1999; No. 111, 2009</div>
+    <div>am. No. 51, 1999; No. 111, 2009</div>
   </td>
 </tr>
 <tr>
@@ -271,14 +248,6 @@ _(a)_     Section 2 of the _Telecommunications (Universal Service Levy
 </tr>
 <tr>
   <td>
-    <div>Note to s. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
@@ -296,7 +265,7 @@ _(a)_     Section 2 of the _Telecommunications (Universal Service Levy
 
 ## Table A
 
-_Telecommunications (Universal Service Levy) Amendment Act 1999
+_Telecommunications (Universal Service Levy) Amendment Act 1999 
  (No. 51, 1999)_
 
 ## Schedule 1
@@ -313,8 +282,7 @@ the _Telecommunications (Universal Service Levy) Act 1997_ continues to apply, a
 
 * * *
 
-_Telecommunications (Universal Service Levy) Amendment Act 2000 
- No. 131, 2000)_
+_Telecommunications (Universal Service Levy) Amendment Act 2000 (No. 131, 2000)_
 
 ## Schedule 1
 
