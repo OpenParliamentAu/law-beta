@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00488/Html/CustTariff95Vol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00277/Html/CustTariff95Vol1_WD02_image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 6 July 2010
- taking into account amendments up to Act No. 85 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 **Volume 1** includes:       Table of Contents
          User’s guide
@@ -253,7 +253,7 @@ The organisation of the Act
 
                     <a name="prefer-countri"></a>**_Preference Country_** means:
 
-                     (b)  Papua   New Guinea; or
+                     (b)  Papua New Guinea; or
 
                      (c)  a Forum Island Country; or
 
