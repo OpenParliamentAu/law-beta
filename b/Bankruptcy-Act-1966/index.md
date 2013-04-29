@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00710/Html/229aca3c-cfa2-416c-838d-fc8981ee0916_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00266/Html/7e373821-0a49-4603-a107-0780844d0310_files/image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 1 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -172,7 +172,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [49](#49).          Change of petitioners [_see_ Table B]
 
-[50](#50).          Taking control of debtor’s property before sequestration [_see_ Table B]
+[50](#50).          Taking control of debtor’s property before sequestration 
+ [_see_ Table B]
 
 [51](#51).          Costs of prosecuting creditor’s petition
 
@@ -349,8 +350,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [74A](#74A).       Variation of composition or scheme of arrangement
 
-[75](#75).          Effect of composition or scheme of arrangement 
- [_see_ Table B]
+[75](#75).          Effect of composition or scheme of arrangement [_see_ Table B]
 
 [76](#76).          Application of Part VIII to trustee of a composition or arrangement
 
@@ -489,13 +489,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116](#116).        Property divisible among creditors [_see_ Table B]
 
-[117](#117).        Policies of insurance against liabilities to third parties [_see_ Table B]
+[117](#117).        Policies of insurance against liabilities to third parties 
+ [_see_ Table B]
 
 [118](#118).        Execution by creditor against property of debtor who becomes a bankrupt etc  [_see_ Table B]
 
 [119](#119).        Duties of sheriff after receiving notice of presentation of petition etc  [_see_ Table B]
 
-[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  [_see_ Table B]
+[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  
+ [_see_ Table B]
 
 [120](#120).        Undervalued transactions
 
@@ -564,8 +566,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [136](#136).        Right to pay off mortgages [_see_ Table B]
 
-[137](#137).        Right of trustee to inspect goods held as security 
- [_see_ Table B]
+[137](#137).        Right of trustee to inspect goods held as security [_see_ Table B]
 
 [138](#138).        Limitation of trustee’s power in respect of copyright, patents etc  [_see_ Table B]
 
@@ -718,8 +719,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [139ZK](#139ZK).   Persons to whom Subdivision applies [_see_ Table B]
 
-[139ZL](#139ZL).   Official Receiver may require persons to make payments 
- [_see_ Table B]
+[139ZL](#139ZL).   Official Receiver may require persons to make payments [_see_ Table B]
 
 [139ZM](#139ZM).  Power of Court to set aside notice
 
@@ -849,8 +849,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [155J](#155J).      After termination of registration
 
-[155K](#155K).     Payment of fees etc  for application, registration and 
- extension
+[155K](#155K).     Payment of fees etc  for application, registration and extension
 
 [156A](#156A).     Consent to act as trustee [_see_ Table B]
 
@@ -1122,7 +1121,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [189AA](#189AA).  Court orders with effect during period of control of debtor’s property
 
-[189AB](#189AB).  Charge over debtor’s property that is subject to control 
+[189AB](#189AB).  Charge over debtor’s property that is subject to control
  [_see_ Table B]
 
 [189AC](#189AC).  Right of indemnity for controlling trustee
@@ -3087,7 +3086,7 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
              (5)  An appeal does not lie from a decision of the Federal Court or the Federal Magistrates Court in relation to the transfer of a proceeding under this Act to the Family Court.
 
-##### <a id="35B"></a>35B  Family Court of Western Australia
+##### <a id="35B"></a>35B  Family Court of Western Australia
 
              (1)  Sections 27, 35 (other than subsection (1A)) and 35A apply to the Family Court of Western Australia in a corresponding way to the way in which they apply to the Family Court of Australia.
 
@@ -3373,7 +3372,7 @@ the Court may, on a petition presented by a creditor, make a sequestration order
 
              (6)  A secured creditor to whom subsection (5) applies who fails to surrender his or her security when requested to do so by the trustee in accordance with that subsection is guilty of contempt of court.
 
-##### <a id="45"></a>45  Creditor’s petition against partnership
+##### <a id="45"></a>45  Creditor’s petition against partnership
 
              (1)  A creditor of a partnership may present a petition against the partnership if he or she is entitled to present a petition against any one of the members of the partnership in respect of a partnership debt.
 
@@ -8071,7 +8070,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00710/Html/229aca3c-cfa2-416c-838d-fc8981ee0916_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00266/Html/7e373821-0a49-4603-a107-0780844d0310_files/image002.gif)
 
                     where:
 
@@ -13797,7 +13796,7 @@ and, for the purposes of enabling the secured creditor, or a person claiming thr
 
                      (c)  surety or in the nature of a surety for the debtor.
 
-##### <a id="231"></a>231  Application of general provisions of Act to personal insolvency agreements
+##### <a id="231"></a>231  Application of general provisions of Act to personal insolvency agreements
 
              (1)  Sections 77, 77A, 77AA, 77C, 77D, 77E, 77F, 78 (other than paragraphs 78(1)(a), (b) and (c)) and 81 apply, with the prescribed modifications (if any), in relation to a debtor who has executed a personal insolvency agreement as if:
 
@@ -15772,7 +15771,7 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (6)  The formula for the purposes of subsections (2), (3) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00710/Html/229aca3c-cfa2-416c-838d-fc8981ee0916_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00266/Html/7e373821-0a49-4603-a107-0780844d0310_files/image003.gif)
 
 where:
 
@@ -16278,8 +16277,7 @@ Remainder: 1 June 1977</div>
   <td>
     <div>Ss. 1, 2, 3(1), 4–6, 8, 13, 14, 18–20, 23–25, 29, 30, 
 36–41, 45, 46, 47(1), (3), 48, 
-52–54, 56, 63, 
-66–68, 71, 73(1), 79, 89, 91, 93–95, 97, 99, 105, 115, 117, 120–123, 126, 128, 129, 131, 133, 135, 143, 149, 150, 153, 155–162, 165–170, 174 and 176: Royal Assent 
+52–54, 56, 63, 66‑68, 71, 73(1), 79, 89, 91, 93–95, 97, 99, 105, 115, 117, 120–123, 126, 128, 129, 131, 133, 135, 143, 149, 150, 153, 155‑162, 165–170, 174 and 176: Royal Assent 
 Remainder: 1 Feb 1981 ( <i>see Gazette</i>1980, No. S282)</div>
   </td>
   <td>
@@ -16566,7 +16564,7 @@ Ss. 4(1)(f), 9–11, 19, 24–29, 31, 32, 34–37, 46, 47,
 Ss. 6, 16–18, 
 20–22, 30, 38, 41, 59, 60, 62–65, 
 68–79, 82, 86, 87, 90, 99 and 100: 31 July 1989 ( <i>see Gazette</i>1989, No. S245) 
-Ss. 14, 42–44 and 51: 1 Mar 1988 ( <i>see Gazette</i>1988, No. S49) 
+Ss. 14, 42‑44 and 51: 1 Mar 1988 ( <i>see Gazette</i>1988, No. S49) 
 Remainder: 13 Jan 1988</div>
   </td>
   <td>
@@ -17944,23 +17942,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 289–291) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -24315,4 +24296,3172 @@ No. 44, 1996 (as am. by No. 11, 1997); No. 11, 1997; No. 24, 2001</div>
     <div>S. 181</div>
   </td>
   <td>
-    <div>am. No. 1
+    <div>am. No. 12, 1980; No. 74, 1981; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 181A</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 182</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 24, 2001; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 183, 184</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 184A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IX</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IX</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 
+of Part IX</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 185(1)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 185A(1)</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185A, 185B</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 185C</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185C–185E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185EA–185ED</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185F</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185G</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185I</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185J</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185K</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185L</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3A of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185LA–185LE</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185LEA</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185LF, 185LG</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185M</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185M(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185M(3)</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185MA–185MD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185N</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 86 and 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185NA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185P</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185P(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185P(3)</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185PA–185PD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Q</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185QA</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185R</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185S</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185S</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185T</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185U</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185V</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185V</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 7 of Part IX</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 185W</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185W</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185W(2)</div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185X</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185XA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Y</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185Y</div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Z</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185ZCA, 185ZCB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 8 of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186B–186D</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186F–186H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186J–186L</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186LA–186LE</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186M</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186N</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186P, 186Q</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part X</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part X</div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 187</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 187A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 188</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 189</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AC</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 189A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 190</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 119, 1987; No. 44, 1996; No. 86, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 191</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 192</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 193</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 195</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 197</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 198</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 199</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 200</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 201–203</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 204</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 204</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 205A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 206</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 206</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 207</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 209</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 209</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 211</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 212C–212F</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 213</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 214</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 215A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 216</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 216</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 217</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 217</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 218</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 218</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 220</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 220</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 221</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 222</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 222A–222D</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 225</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 225</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 226</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 227</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 227</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 228</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 229</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 230</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 232</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 233</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 234</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 234A, 234B</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 6 
+of Part X</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 238</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 239</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 240</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 240A, 240B</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 241</div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 242</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 244</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 245</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 246</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 246</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 34, 2006; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 247</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 119, 1987; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 247A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 248</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 248A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 249</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 38, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 249A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 250</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 251, 252</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 252A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 8, 2005; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 252B, 252C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253</div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 115, 1990; No. 73, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253C</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253D</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253E</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253F</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 254</div>
+  </td>
+  <td>
+    <div>am. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 254</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 74, 1981; No. 44, 1996; No. 80, 2004; No. 8, 2005; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 255</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 256</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 257</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 258</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 259</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 260</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 261</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 262</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 62, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 137, 2000; No. 80, 2004; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264D</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264E</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 131, 2002; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 265(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 265A</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 266</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004; No. 44, 2007; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001; No. 34, 2006; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </
