@@ -1,7 +1,7 @@
 
 Equal Employment Opportunity (Commonwealth Authorities) Act 1987
 Act No. 20 of 1987 as amended
-This compilation was prepared on 19 January 2001 taking into account amendments up to Act No. 145 of 2000
+This compilation was prepared on 23 February 2000 taking into account amendments up to Act No. 183 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -17,7 +17,7 @@ Part II—Programs	5
 5	Relevant authorities required to develop etc. programs	5
 6	Contents of program	5
 7	Regard to be had to program	6
-Part III—Reports by relevant authorities	7
+Part III—Reports By relevant authorities	7
 9	Annual program report	7
 10	Special report upon request	8
 11	Minister may make recommendations	8
@@ -44,6 +44,7 @@ authority means:
 but does not include any of the following:
 	(c)	a relevant employer as defined in section 3 of the Affirmative Action (Equal Employment Opportunity for Women) Act 1986;
 	(d)	the Australian Dairy Corporation;
+	(e)	the Australian Wool Research and Promotion Organisation.
 designated group means any of the following classes of persons:
 	(a)	members of the Aboriginal race of Australia or persons who are descendants of indigenous inhabitants of the Torres Strait Islands;
 	(b)	persons who have migrated to Australia and whose first language is not English, and the children of such persons;
@@ -110,7 +111,7 @@ Part II—Programs
 7  Regard to be had to program
 		A relevant authority shall take any action necessary to give effect to its program and any person who exercises powers in relation to employment matters in the authority shall have regard to the program in exercising those powers. 
 
-Part III—Reports by relevant authorities
+Part III—Reports By relevant authorities
 9  Annual program report
 	(1)	A relevant authority shall:
 	(a)	prepare a report (in this section called a program report) on the development and implementation of its program during each period of 12 months commencing on the operative day in relation to the authority or the anniversary of that day; and
@@ -172,11 +173,6 @@ Equal Opportunity for Women in the Workplace Amendment Act 1999
 22 Dec 1999
 Schedules 1 and 3: 1 Jan 2000 Remainder: Royal Assent
 —
-Wool Services Privatisation Act 2000
-145, 2000
-7 Dec 2000
-Schedule 1: 1 Jan 2001 (see Gazette 2000, No. S638)  Remainder: Royal Assent
-—
 (a)	The Equal Employment Opportunity (Commonwealth Authorities) Act 1987 was amended by Schedule 1 (items 424-433) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
@@ -185,7 +181,7 @@ ad. = added or inserted      am. = amended      rep. = repealed      rs. = repea
 Provision affected
 How affected
 S. 3	
-am. No. 146, 1999; No. 145, 2000
+am. No. 146, 1999
 S. 8	
 rep. No. 146, 1999
 Ss. 9, 10	
