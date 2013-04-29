@@ -1,152 +1,145 @@
-![](http://www.comlaw.gov.au/Details/C2007C00355/Html/d7becac4-43c2-4712-a5be-fddc5a41edb2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00236/Html/CircuitLayoutsAct1989_image001.gif)
 
 # Circuit Layouts Act 1989
 
 **Act No. 28 of 1989 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Extension to external Territories
+[3](#3).            Extension to external Territories                                                          1
 
-[4](#4).            Act binds the Crown
+[4](#4).            Act binds the Crown                                                                           1
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                       1
 
-[6](#6).            Residence not affected by temporary absence
+[6](#6).            Residence not affected by temporary absence                                    3
 
-[7](#7).            Application to circuit layouts made before commencement
+[7](#7).            Application to circuit layouts made before commencement               3
 
-[8](#8).            Commercial exploitation
+[8](#8).            Commercial exploitation                                                                      4
 
-[9](#9).            Exclusive right
+[9](#9).            Exclusive right                                                                                      4
 
-[10](#10).          Making an eligible layout
+[10](#10).          Making an eligible layout                                                                     4
 
-[11](#11).          Originality
+[11](#11).          Originality                                                                                            4
 
-[12](#12).          Licence of owner of EL rights
+[12](#12).          Licence of owner of EL rights                                                              5
 
-[13](#13).          Substantial part of eligible layout
+[13](#13).          Substantial part of eligible layout                                                        5
 
-[14](#14).          References to all joint makers
+[14](#14).          References to all joint makers                                                              5
 
-[15](#15).          References to any one or more joint makers
+[15](#15).          References to any one or more joint makers                                        5
 
 **Part II—EL rights in eligible layouts** 
 
     **Division 1—Ownership and nature of EL rights**
 
-[16](#16).          Ownership of EL rights
+[16](#16).          Ownership of EL rights                                                                       6
 
-[17](#17).          Nature of EL rights
+[17](#17).          Nature of EL rights                                                                              6
 
-[18](#18).          EL rights to subsist without regard to makers who are not eligible persons
+[18](#18).          EL rights to subsist without regard to makers who are not eligible persons           7
 
     **Division 2—Infringement of EL rights**
 
-[19](#19).          Infringement
+[19](#19).          Infringement                                                                                         8
 
     **Division 3—Acts that are not infringements of EL rights**
 
-[20](#20).          Innocent commercial exploitation
+[20](#20).          Innocent commercial exploitation                                                        9
 
-[21](#21).          Copying for private use
+[21](#21).          Copying for private use                                                                       9
 
-[22](#22).          Copying for research or teaching purposes
+[22](#22).          Copying for research or teaching purposes                                       10
 
-[23](#23).          Evaluation or analysis
+[23](#23).          Evaluation or analysis                                                                        10
 
-[24](#24).          Commercial exploitation of eligible layouts previously exploited under licence
+[24](#24).          Commercial exploitation of eligible layouts previously exploited under licence     10
 
-[25](#25).          Use for purposes of defence or security
+[25](#25).          Use for purposes of defence or security                                           11
 
 **Part III—Remedies for infringements of El rights** 
 
     **Division 1—Preliminary**
 
-[26](#26).          Application of Part to counterclaims
+[26](#26).          Application of Part to counterclaims                                                13
 
     **Division 2—Actions by owner of EL rights**
 
-[27](#27).          Actions for infringement
+[27](#27).          Actions for infringement                                                                    14
 
-[28](#28).          Limitation of actions
+[28](#28).          Limitation of actions                                                                          14
 
     **Division 3—Proceedings where EL rights subject to exclusive licence**
 
-[29](#29).          Application
+[29](#29).          Application                                                                                        15
 
-[30](#30).          Rights of exclusive licensee
+[30](#30).          Rights of exclusive licensee                                                                15
 
-[31](#31).          Joinder of owner or exclusive licensee as a party
+[31](#31).          Joinder of owner or exclusive licensee as a party                              15
 
-[32](#32).          Defences available against exclusive licensee
+[32](#32).          Defences available against exclusive licensee                                     16
 
-[33](#33).          Assessment of damages where exclusive licence granted
+[33](#33).          Assessment of damages where exclusive licence granted                   16
 
-[34](#34).          Apportionment of profits between owner and exclusive licensee
+[34](#34).          Apportionment of profits between owner and exclusive licensee     16
 
-[35](#35).          Separate actions in relation to the same infringement
+[35](#35).          Separate actions in relation to the same infringement                        16
 
-[36](#36).          Liability for costs
+[36](#36).          Liability for costs                                                                              17
 
     **Division 4—Proof of facts in actions**
 
-[37](#37).          Presumptions as to subsistence and ownership of EL rights
+[37](#37).          Presumptions as to subsistence and ownership of EL rights            18
 
-[38](#38).          Affidavit evidence
+[38](#38).          Affidavit evidence                                                                              18
 
-[39](#39).          Evidentiary labels
+[39](#39).          Evidentiary labels                                                                              18
 
     **Division 5—Jurisdiction and appeals**
 
-[40](#40).          Exercise of jurisdiction
+[40](#40).          Exercise of jurisdiction                                                                       20
 
-[41](#41).          Appeals
+[41](#41).          Appeals                                                                                             20
 
 **Part IV—Miscellaneous**
 
-[42](#42).          Eligible foreign countries
+[42](#42).          Eligible foreign countries                                                                    21
 
-[43](#43).          Limitation on power of courts to grant relief in proceedings under this Act
+[43](#43).          Limitation on power of courts to grant relief in proceedings under this Act           21
 
-[44](#44).          Prospective ownership of EL rights
+[44](#44).          Prospective ownership of EL rights                                                  21
 
-[45](#45).          Assignments and licences of EL rights
+[45](#45).          Assignments and licences of EL rights                                              22
 
-[46](#46).          Groundless threats of legal proceedings
+[46](#46).          Groundless threats of legal proceedings                                            22
 
-[47](#47).          Jurisdiction of Federal Court of Australia
+[47](#47).          Jurisdiction of Federal Court of Australia                                         23
 
-[48](#48).          Regulations
+[48](#48).          Regulations                                                                                        23
 
-[49](#49).          Consequential amendments of other Acts
+[49](#49).          Consequential amendments of other Acts                                         23
 
 **Schedule—Consequential amendments** 
-
-Copyright Act 1968                                                                                                   24
-
-Designs Act 1906                                                                                                       24
-
-Trade Practices Act 1974                                                                                         24
 
 **Notes** 
 
@@ -178,7 +171,9 @@ Trade Practices Act 1974                  �
 
                     <a name="action"></a>**_action_** means a proceeding of a civil nature between parties, and includes a counterclaim.
 
-                    <a name="circuit-layout"></a>**_circuit layout_** means a representation, fixed in any material form, of the three‑dimensional location of the active and passive elements and interconnections making up an integrated circuit.
+                    <a name="australian-protect-person"></a>**_Australian protected person_** has the same meaning as in regulation 5 of the Australian Citizenship Regulations.
+
+                    <a name="circuit-layout"></a>**_circuit layout_** means a representation, fixed in any material form, of the three-dimensional location of the active and passive elements and interconnections making up an integrated circuit.
 
                     <a name="commerci-exploited"></a>**_commercially exploited_** has the meaning given in section 8.
 
@@ -192,7 +187,7 @@ Trade Practices Act 1974                  �
 
                     <a name="elig-person"></a>**_eligible person_** means:
 
-                     (a)  an Australian citizen or a person resident in Australia;
+                     (a)  an Australian citizen, an Australian protected person or a person resident in Australia;
 
                      (b)  a body corporate incorporated by or under a law in force in a State or Territory;
 
@@ -218,13 +213,13 @@ Trade Practices Act 1974                  �
 
                      (a)  in relation to future EL rights that are not the subject of an agreement of the kind referred to in subsection 44(1)—the person who will be the owner of those rights when they come into existence; or
 
-                     (b)  in relation to future EL rights that are the subject of such an agreement‑the person in whom those rights will vest under that subsection when they come into existence.
+                     (b)  in relation to future EL rights that are the subject of such an agreement-the person in whom those rights will vest under that subsection when they come into existence.
 
                     <a name="protect-period"></a>**_protection period_**, in relation to an eligible layout, means the period beginning on the day on which the layout was made and ending:
 
-                     (a)  if the layout is first commercially exploited within 10 calendar years after the calendar year in which the layout was made‑at the end of the tenth calendar year after the calendar year in which the layout was first commercially exploited; and
+                     (a)  if the layout is first commercially exploited within 10 calendar years after the calendar year in which the layout was made-at the end of the tenth calendar year after the calendar year in which the layout was first commercially exploited; and
 
-                     (b)  in any other case‑at the end of the period of 10 calendar years after the calendar year in which the layout was made.
+                     (b)  in any other case-at the end of the period of 10 calendar years after the calendar year in which the layout was made.
 
 ##### <a id="6"></a>6  Residence not affected by temporary absence
 
@@ -486,9 +481,9 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
                    Where an action to which section 31 applies is brought and the owner of the EL rights and the exclusive licensee are not both plaintiffs in the action, the court, in assessing damages in respect of an infringement of a kind referred to in that section, shall:
 
-                     (a)  if the plaintiff is the exclusive licensee‑take into account any liabilities to which the licence is subject; and
+                     (a)  if the plaintiff is the exclusive licensee-take into account any liabilities to which the licence is subject; and
 
-                     (b)  whether the plaintiff is the owner of the EL rights or the exclusive licensee‑take into account any pecuniary remedy already awarded to the other party under section 27 in respect of that infringement, or any right of action exercisable by the other party under that section in respect of that infringement.
+                     (b)  whether the plaintiff is the owner of the EL rights or the exclusive licensee-take into account any pecuniary remedy already awarded to the other party under section 27 in respect of that infringement, or any right of action exercisable by the other party under that section in respect of that infringement.
 
 ##### <a id="34"></a>34  Apportionment of profits between owner and exclusive licensee
 
@@ -518,7 +513,7 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
                      (a)  EL rights shall be presumed to subsist in the circuit layout to which the action relates if the defendant does not put in issue the question whether those rights subsist in the layout; and
 
-                     (b)  where EL rights subsist in the layout‑the plaintiff shall be presumed to be the owner of the rights if he or she claims to be the owner of the rights and the defendant does not put in issue the question of ownership.
+                     (b)  where EL rights subsist in the layout-the plaintiff shall be presumed to be the owner of the rights if he or she claims to be the owner of the rights and the defendant does not put in issue the question of ownership.
 
 ##### <a id="38"></a>38  Affidavit evidence
 
@@ -528,7 +523,7 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
                      (b)  the ownership, at a particular time, of the EL rights in that layout.
 
-             (2)  If a party to an action requires in good faith that a person who made an affidavit referred to in subsection (1) that is proposed to be used in the action be cross‑examined with respect to the matters in the affidavit, the affidavit may not be used in the action unless the person appears as a witness for such cross‑examination or the court, in its discretion, permits the affidavit to be used without the person’s so appearing.
+             (2)  If a party to an action requires in good faith that a person who made an affidavit referred to in subsection (1) that is proposed to be used in the action be cross-examined with respect to the matters in the affidavit, the affidavit may not be used in the action unless the person appears as a witness for such cross-examination or the court, in its discretion, permits the affidavit to be used without the person’s so appearing.
 
 ##### <a id="39"></a>39  Evidentiary labels
 
@@ -580,7 +575,7 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
                              (ii)  Australia, although not a party to the convention, has taken all necessary steps to become such a party; or
 
-                     (b)  the Governor‑General is satisfied that, although the foreign country is not a party to such a convention, provision is or will be made under the law of that country under which adequate protection is or will be given to circuit layouts made by persons referred to in paragraph (a) or (b) of the definition of **_eligible person_** in section 5 and to circuit layouts first commercially exploited in Australia.
+                     (b)  the Governor-General is satisfied that, although the foreign country is not a party to such a convention, provision is or will be made under the law of that country under which adequate protection is or will be given to circuit layouts made by persons referred to in paragraph (a) or (b) of the definition of **_eligible person_** in section 5 and to circuit layouts first commercially exploited in Australia.
 
 ##### <a id="43"></a>43  Limitation on power of courts to grant relief in proceedings under this Act
 
@@ -612,7 +607,7 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
 ##### <a id="46"></a>46  Groundless threats of legal proceedings
 
-             (1)  Where a person, by means of circulars, advertisements or otherwise, threatens a person with an action or proceeding in respect of an infringement of EL rights, then, whether or not the person making the threat is the owner of the EL rights, or an exclusive licensee, a person aggrieved may bring an action against the first‑mentioned person and may obtain a declaration to the effect that the threat is unjustifiable, and an injunction against the continuance of the threat, and may recover such damages (if any) as the person aggrieved has sustained, unless the first‑mentioned person satisfies the court that the acts in respect of which the action or proceeding was threatened constituted, or would constitute, an infringement of EL rights.
+             (1)  Where a person, by means of circulars, advertisements or otherwise, threatens a person with an action or proceeding in respect of an infringement of EL rights, then, whether or not the person making the threat is the owner of the EL rights, or an exclusive licensee, a person aggrieved may bring an action against the first-mentioned person and may obtain a declaration to the effect that the threat is unjustifiable, and an injunction against the continuance of the threat, and may recover such damages (if any) as the person aggrieved has sustained, unless the first-mentioned person satisfies the court that the acts in respect of which the action or proceeding was threatened constituted, or would constitute, an infringement of EL rights.
 
              (2)  The mere notification of the existence of any EL right does not constitute a threat of an action or proceeding within the meaning of this section.
 
@@ -626,7 +621,7 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
 ##### <a id="48"></a>48  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed for carrying out or giving effect to this Act.
 
 ##### <a id="49"></a>49  Consequential amendments of other Acts
 
@@ -636,45 +631,19 @@ the owner or licensee, as the case may be, is not entitled, except with the leav
 
 _Section 49_
 
-<h9 class="ActHead9">Copyright Act 1968</h9>
+* * *
 
-## Subsection 10(1) (definition of _artistic work_)
+**Note:**
 
-Add at the end of the definition after paragraph (c) “but does not include a circuit layout within the meaning of the _Circuit Layouts Act 1989_”.
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-<h9 class="ActHead9">Designs Act 1906</h9>
+_Copyright Act 1968_
 
-## Subsection 4(1) (definition of _article_)
+_Designs Act 1906_<span style="font-size:9.0pt">\[repealed by Act No. 147, 2003, section 150]</span>
 
-Add at the end of the definition “, but does not include an integrated circuit, or part of an integrated circuit, within the meaning of the _Circuit Layouts Act 1989_, or a mask used to make such a circuit”.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 28, 1989.
 
-## After section 6
-
-Insert the following section in Part I:
-
-<a id="7"></a>7**Certain registrations not to be renewed**
-
-                   In spite of any other provision of this Act, where before the commencement of Part II of the _Circuit Layouts Act 1989_ a design applicable to an integrated circuit, or part of an integrated circuit, within the meaning of that Act, or a design applicable to a mask used to make such a circuit, was registered under this Act, that registration shall not be renewed at any time on or after that commencement.
-
-<h9 class="ActHead9">Trade Practices Act 1974</h9>
-
-## Subparagraph 51(3)(a)(i)
-
-Omit “or of a copyright”, substitute “, of a copyright or of EL rights within the meaning of the _Circuit Layouts Act 1989_,”.
-
-## Subparagraph 51(3)(a)(ii)
-
-Omit “or of a copyright”, substitute “, of a copyright or of such EL rights,”.
-
-## Subparagraph 51(3)(a)(iv)
-
-Omit “or” (last occurring).
-
-## Paragraph 51(3)(a)
-
-Add at the end of the paragraph the following word and subparagraph:
-
-                     ; or (vi)  the eligible layout in which the EL rights subsist.
+* * *
 
 # Notes to the _Circuit Layouts Act 1989_
 
@@ -760,8 +729,7 @@ Remainder: 1 Oct 1990 ( <i>see Gazette</i>1990, S261)</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 6, 7): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -800,7 +768,7 @@ _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sectio
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 115, 1990; No. 21, 2007</div>
+    <div>am. No. 115, 1990</div>
   </td>
 </tr>
 <tr>
@@ -835,5 +803,26 @@ _(a)_     The _Circuit Layouts Act 1989_ was amended by Part 3 (sectio
     <div>am. No. 115, 1990</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendments commence on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 6  Section 5 (definition of _Australian protected person_)
+
+Repeal the definition.
+
+## 7  Section 5 (paragraph (a) of the definition of _eligible person_)
+
+Omit “citizen, an Australian protected person”, substitute “citizen”.
+
+As at 2 April 2007 the amendments are not incorporated in this compilation.
+
+ 
 
  
