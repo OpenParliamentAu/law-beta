@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00044/Html/82b2549b-d931-46ab-aae7-3f691d01c870_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00792/Html/8a91a264-c773-4b8c-a59d-db9ef1b2600e_files/image001.gif)
 
 # Australian Trade Commission Act 1985
 
 **Act No. 186 of 1985 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 27 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -312,7 +312,7 @@ Terms and conditions
 
                    The CEO holds office on a full‑time basis.
 
-##### <a id="54"></a>54  Remuneration and allowances
+##### <a id="54"></a>54  Remuneration and allowances
 
              (1)  The CEO is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the CEO is to be paid the remuneration that is prescribed.
 
@@ -326,13 +326,23 @@ Terms and conditions
 
 ##### <a id="56"></a>56  Acting CEO
 
-                   The Minister may appoint a person to act as the CEO:
+             (1)  The Minister may appoint a person to act as the CEO:
 
                      (a)  during a vacancy in the office of the CEO (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="57"></a>57  Leave of absence
 
@@ -1017,7 +1027,7 @@ Sch. 4 (item 16) (rep. by 100, 2011, Sch. 1 \[item 3]) \[ <i>see</i>Note 1]<
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (items 277–279) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 277–279) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1107,7 +1117,7 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 129, 1989; No. 149, 1991; Nos. 44 and 152, 1997; No. 146, 1999; No. 56, 2006</div>
+    <div>am. No. 129, 1989; No. 149, 1991; Nos. 44 and 152; 1997; No. 146, 1999; No. 56, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1123,7 +1133,7 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 44, 1997</div>
+    <div>am. No. 44 1997</div>
   </td>
 </tr>
 <tr>
@@ -1172,14 +1182,6 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
   </td>
   <td>
     <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 56, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1588,22 +1590,6 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
   </td>
   <td>
     <div>rs. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 56</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2071,6 +2057,30 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 277  Subsection 56(1)
+
+Omit “(1)”.
+
+## 278  Subsection 56(1) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 279  Subsection 56(2)
+
+Repeal the subsection.
+
+As at 27 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2152,6 +2162,8 @@ continues to have effect after the commencing time as if it had been done by the
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
