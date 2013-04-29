@@ -1,10 +1,10 @@
 
 Fuel Quality Standards Act 2000
-Act No. 153 of 2000 as amended
-This compilation was prepared on 10 December 2003 taking into account amendments up to Act No. 127 of 2003
+Act No. 153 of 2000 as amended
+This compilation was prepared on 8 September 2003 taking into account amendments up to Act No. 118 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
   
@@ -12,107 +12,104 @@ Contents
 Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
-3	Objects of Act	1
+3	Main object of Act	1
 4	Definitions	1
-5	Applicable fuel standard for fuel supplies	4
-6	Act binds the Crown	4
+5	Applicable fuel standard for fuel supplies	3
+6	Act binds the Crown	3
 7	External Territories	4
 8	Relationship to other Commonwealth laws	4
 9	Relationship to State and Territory laws	4
-10	Offences	5
-Part 2—Regulation of fuel and fuel additives	6
-Division 1—Overview	6
-11	Overview of Part	6
-Division 2—Supply of fuel	7
-12	Complying with fuel standards	7
-12A	Complying with fuel quality information standards	7
-Division 3—Approvals	9
-13	Grant of approval	9
-14	Application for approval	9
-15	Criteria for granting approval	9
-16	Conditions of approval	9
-17	Condition about informing people of obligations	10
-17A	Approvals and reasons for approvals to be made public	10
-18	Person must not contravene conditions of approval	10
-Division 4—Fuel documentation	12
-19	Supplies of fuel to be accompanied by documentation	12
-Division 5—Alteration of fuel	13
-20	Altering fuel the subject of a fuel standard	13
-Division 6—Fuel standards and fuel quality information standards	14
-21	Making fuel standards	14
-22	Guidelines for more stringent fuel standards	14
-22A	Making fuel quality information standards	15
-24	Fuel Standards Consultative Committee	15
-24A	Consultation	15
-25	Membership of Committee	16
-26	Procedures of Committee	17
-27	Expert advisers	17
-28	Remuneration	17
-29	Appointment conditions of committee members etc.	18
-Division 7—Supply and importation of fuel additives	19
-30	Supply of a fuel additive	19
-31	Importation of a fuel additive	19
-Division 8—Register of Prohibited Fuel Additives	20
-32	Minister to keep Register	20
-33	Inspection of the Register	20
-34	Notice of proposed entries in the Register	20
-35	Minister to consider submissions and make a decision	21
-36	Guidelines for making a decision	21
-Part 3—Enforcement	23
-Division 1—Overview	23
-37	Overview of Part	23
-Division 2—Appointment of inspectors and identity cards	24
-38	Appointment of inspectors	24
-39	Identity card	24
-Division 3—Monitoring powers	26
-40	Powers available to inspectors for monitoring compliance	26
-41	Monitoring powers	26
-42	Inspector on premises under warrant may require persons to answer questions etc.	28
-Division 4—Offence‑related powers	29
-43	Searches and seizures related to offences	29
-44	Offence‑related powers	29
-Division 5—Obligations and incidental powers of inspectors	32
-45	Inspector must produce identity card on request	32
-46	Consent	32
-47	Announcement before entry	32
-48	Details of warrant to be given to occupier etc.	33
-49	Use of electronic equipment already at premises	33
-50	Securing electronic equipment for use by experts	33
-51	Compensation for damage to electronic equipment	34
-Division 6—Occupier’s rights and responsibilities	36
-52	Occupier entitled to be present during search	36
-53	Occupier to provide inspector with all facilities and assistance	36
-Division 7—General provisions relating to seizure	37
-54	Copies of seized things to be provided	37
-55	Receipts for things seized	37
-56	Return of seized things	37
-57	Magistrate may permit a thing to be retained	38
-58	Disposal of goods if there is no owner or owner cannot be located	39
-Division 7A—Analysing samples taken under this Part etc.	40
-58A	How sample is to be dealt with	40
-58B	Evidentiary certificates in relation to certain matters	41
-Division 8—Warrants	44
-59	Monitoring warrants	44
-60	Offence‑related warrants	45
-61	Offence‑related warrants by telephone, telex, fax etc.	46
-62	Offences relating to warrants	48
-Division 9—Powers of magistrates	49
-63	Powers conferred on magistrates in their personal capacity	49
-64	Immunity of magistrates	49
-Division 10—Injunctions	50
-65	Injunctions	50
-Part 4—Record keeping and reporting obligations	52
-66	Record keeping	52
-67	Annual statements	52
-Part 5—Other matters	54
-68	Delegation by Minister	54
-69	Delegation by Secretary	54
-70	Review of decisions	54
-71	Annual report	55
-72	Review of operation of Act	56
-73	Regulations	56
-Notes	57
-
+10	Offences	4
+Part 2—Regulation of fuel and fuel additives	5
+Division 1—Overview	5
+11	Overview of Part	5
+Division 2—Supply of fuel	6
+12	Supply of fuel	6
+Division 3—Approvals	7
+13	Grant of approval	7
+14	Application for approval	7
+15	Criteria for granting approval	7
+16	Conditions of approval	7
+17	Condition about informing people of obligations	8
+17A	Approvals and reasons for approvals to be made public	8
+18	Person must not contravene conditions of approval	8
+Division 4—Fuel documentation	10
+19	Supplies of fuel to be accompanied by documentation	10
+Division 5—Alteration of fuel	11
+20	Altering fuel the subject of a fuel standard	11
+Division 6—Fuel standards	12
+21	Making of standards	12
+22	Guidelines for more stringent standards	12
+24	Fuel Standards Consultative Committee	13
+24A	Consultation	13
+25	Membership of Committee	13
+26	Procedures of Committee	14
+27	Expert advisers	14
+28	Remuneration	14
+29	Appointment conditions of committee members etc.	15
+Division 7—Supply and importation of fuel additives	16
+30	Supply of a fuel additive	16
+31	Importation of a fuel additive	16
+Division 8—Register of Prohibited Fuel Additives	17
+32	Minister to keep Register	17
+33	Inspection of the Register	17
+34	Notice of proposed entries in the Register	17
+35	Minister to consider submissions and make a decision	17
+36	Guidelines for making a decision	18
+Part 3—Enforcement	19
+Division 1—Overview	19
+37	Overview of Part	19
+Division 2—Appointment of inspectors and identity cards	20
+38	Appointment of inspectors	20
+39	Identity card	20
+Division 3—Monitoring powers	22
+40	Powers available to inspectors for monitoring compliance	22
+41	Monitoring powers	22
+42	Inspector on premises under warrant may require persons to answer questions etc.	24
+Division 4—Offence‑related powers	25
+43	Searches and seizures related to offences	25
+44	Offence‑related powers	25
+Division 5—Obligations and incidental powers of inspectors	28
+45	Inspector must produce identity card on request	28
+46	Consent	28
+47	Announcement before entry	28
+48	Details of warrant to be given to occupier etc.	29
+49	Use of electronic equipment already at premises	29
+50	Securing electronic equipment for use by experts	29
+51	Compensation for damage to electronic equipment	30
+Division 6—Occupier’s rights and responsibilities	32
+52	Occupier entitled to be present during search	32
+53	Occupier to provide inspector with all facilities and assistance	32
+Division 7—General provisions relating to seizure	33
+54	Copies of seized things to be provided	33
+55	Receipts for things seized	33
+56	Return of seized things	33
+57	Magistrate may permit a thing to be retained	34
+58	Disposal of goods if there is no owner or owner cannot be located	35
+Division 7A—Analysing samples taken under this Part etc.	36
+58A	How sample is to be dealt with	36
+58B	Evidentiary certificates in relation to certain matters	37
+Division 8—Warrants	40
+59	Monitoring warrants	40
+60	Offence‑related warrants	41
+61	Offence‑related warrants by telephone, telex, fax etc.	42
+62	Offences relating to warrants	44
+Division 9—Powers of magistrates	45
+63	Powers conferred on magistrates in their personal capacity	45
+64	Immunity of magistrates	45
+Division 10—Injunctions	46
+65	Injunctions	46
+Part 4—Record keeping and reporting obligations	48
+66	Record keeping	48
+67	Annual statements	48
+Part 5—Other matters	50
+68	Delegation by Minister	50
+69	Delegation by Secretary	50
+70	Review of decisions	50
+71	Annual report	51
+72	Review of operation of Act	52
+73	Regulations	52
+Notes	53
 An Act to regulate activities involving fuel and fuel additives, and for related purposes
 Part 1—Preliminary
   
@@ -120,13 +117,11 @@ Part 1—Preliminary
 		This Act may be cited as the Fuel Quality Standards Act 2000.
 2  Commencement [see Note 1]
 		This Act commences on a day or days to be fixed by Proclamation.
-3  Objects of Act
-		The objects of this Act are to:
-	(a)	regulate the quality of fuel supplied in Australia in order to:
-	(i)	reduce the level of pollutants and emissions arising from the use of fuel that may cause environmental and health problems; and
-	(ii)	facilitate the adoption of better engine technology and emission control technology; and
-	(iii)	allow the more effective operation of engines; and
-	(b)	ensure that, where appropriate, information about fuel is provided when the fuel is supplied.
+3  Main object of Act
+		The main object of this Act is to regulate the quality of fuel supplied in Australia in order to:
+	(a)	reduce the level of pollutants and emissions arising from the use of fuel that may cause environmental and health problems; and
+	(b)	facilitate the adoption of better engine technology and emission control technology; and
+	(c)	allow the more effective operation of engines.
 4  Definitions
 	(1)	In this Act, unless the contrary intention appears:
 approval means an approval under section 13.
@@ -151,7 +146,6 @@ evidential material means any of the following:
 	(c)	a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of committing any such offence.
 fuel has the meaning given by the regulations.
 fuel additive has the meaning given by the regulations.
-fuel quality information standard means a standard under section 22A.
 fuel standard means a standard under section 21.
 Note:	See also section 5.
 inspector means a person appointed as an inspector under section 38.
@@ -167,7 +161,6 @@ premises means:
 	(c)	a vehicle, vessel or aircraft; or
 	(d)	a part of any such premises.
 Register means the Register of Prohibited Fuel Additives kept under section 32.
-regulated person has the meaning given by subsection 13(1).
 Secretary means the Secretary of the Department.
 supply means supply (including re‑supply) by way of sale, exchange or gift.
 thing includes a substance, and a thing in electronic or magnetic form.
@@ -185,9 +178,7 @@ Note:	A fuel standard may apply more stringently in respect of supplies of the f
 		The provisions of this Act are in addition to, and not in substitution for, the requirements of any other law of the Commonwealth.
 9  Relationship to State and Territory laws
 	(1)	Subject to this section, it is the intention of the Parliament that this Act is not to apply to the exclusion of a law of a State or Territory to the extent that the law is capable of operating concurrently with this Act.
-	(2)	It is the intention of the Parliament that, to the extent prescribed by the regulations, this Act is to apply to the exclusion of a law of a State or Territory relating to:
-	(a)	the supply of fuel that is the subject of a fuel standard; or
-	(b)	a supply of fuel that is subject to a fuel quality information standard.
+	(2)	It is the intention of the Parliament that, to the extent prescribed by the regulations, this Act is to apply to the exclusion of a law of a State or Territory relating to the supply of fuel that is the subject of a fuel standard.
 10  Offences
 	(1)	The Criminal Code applies to all offences against this Act.
 	(2)	If a maximum penalty is specified:
@@ -201,45 +192,33 @@ Part 2—Regulation of fuel and fuel additives
 Division 1—Overview
 11  Overview of Part
 This Part sets out a regulatory regime in relation to activities involving fuel and fuel additives.
-Division 2 creates offences relating to supplying fuel that does not comply with fuel standards and to supplies of fuel that do not comply with fuel quality information standards.
-Division 3 deals with the granting of approvals to vary a fuel standard or a fuel quality information standard.
+Division 2 creates an offence relating to the supply of fuel that does not comply with a fuel standard.
+Division 3 deals with the granting of approvals to vary a fuel standard.
 Division 4 deals with fuel documentation that is required for certain supplies of fuel in Australia.
 Division 5 creates an offence relating to the alteration of fuel.
-Division 6 deals with the making of fuel standards and fuel quality information standards and the consultation required beforehand.
+Division 6 deals with the making of fuel standards and the consultation required beforehand.
 Division 7 creates offences relating to the supply or importation of a fuel additive that is covered by an entry in the Register of Prohibited Fuel Additives.
 Division 8 deals with keeping the Register and the process to be followed before entries are made in it.
 
 Division 2—Supply of fuel
-12  Complying with fuel standards
+12  Supply of fuel
 	(1)	A person is guilty of an offence if:
 	(a)	the person supplies fuel in Australia that is the subject of a fuel standard; and
 	(b)	the person is a constitutional corporation or a Commonwealth entity or the person supplies the fuel in the course of constitutional trade or commerce; and
 	(c)	the fuel does not comply with the standard; and
 	(e)	if any person holds an approval that varies the standard in respect of the supply—the fuel does not comply with the standard as varied; and
 	(f)	the supply is not in order to comply with a direction or order under an emergency law.
-Maximum penalty:	500 penalty units.
+Maximum penalty:	1,000 penalty units.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(2)	However, the person is not guilty of the offence if the person believes on reasonable grounds that the fuel that is supplied will be further processed for the purpose of bringing the fuel into compliance with the standard or the standard as varied.
 Note:	A defendant bears an evidential burden in relation to the matter in subsection (2): see subsection 13.3(3) of the Criminal Code.
-	(3)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-12A  Complying with fuel quality information standards
-	(1)	A person is guilty of an offence if:
-	(a)	the person supplies fuel in Australia; and
-	(b)	the person is a constitutional corporation or a Commonwealth entity or the person supplies the fuel in the course of constitutional trade or commerce; and
-	(c)	the supply is subject to a fuel quality information standard; and
-	(d)	the supply does not comply with the fuel quality information standard; and
-	(e)	if any person holds an approval that varies the fuel quality information standard in respect of the supply—the supply does not comply with the fuel quality information standard as varied; and
-	(f)	the supply is not in order to comply with a direction or order under an emergency law.
-Maximum penalty:	60 penalty units.
-	(2)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 
 Division 3—Approvals
 13  Grant of approval
-	(1)	The Minister may grant to any person an approval in writing that varies a fuel standard or a fuel quality information standard in a specified way in respect of specified supplies of the fuel by:
+	(1)	The Minister may grant to any person an approval in writing that, in respect of specified fuel that is the subject of a fuel standard, varies the standard in a specified way in respect of specified supplies of the fuel by:
 	(a)	that person; or
 	(b)	any other specified person (a regulated person).
-	(2)	An approval under subsection (1) comes into force on the day specified in the approval and remains in force for the period specified in the approval.
+	(2)	An approval under subsection (1) comes into force on the day specified in the approval and remains in force for the period specified in the approval.
 14  Application for approval
 	(1)	An application for an approval must be made in accordance with the regulations.
 	(2)	The application must be accompanied by the application fee (if any) prescribed by the regulations.
@@ -258,13 +237,14 @@ Division 3—Approvals
 	(1)	It is a condition of an approval that its holder, within the period prescribed by the regulations, inform any regulated person, to whom a particular condition of the approval applies, of the following:
 	(a)	the particular condition, including any variation of it;
 	(b)	any revocation of the approval.
+Note:	For regulated person, see section 13.
 	(2)	Requirements in relation to the manner in which information is provided under subsection (1) may be prescribed by the regulations.
 	(3)	If such requirements are prescribed, it is a condition of the approval that its holder comply with the requirements.
 17A  Approvals and reasons for approvals to be made public
-		As soon as practicable after granting an approval under section 13, the Minister must cause to be published in the Gazette a notice containing the following information:
+		As soon as practicable after granting an approval under section 13, the Minister must cause to be published in the Gazette a notice containing the following information:
 	(a)	the name of the person to whom the approval has been granted;
 	(b)	the period of operation of the approval;
-	(c)	details of the approved variation of the fuel standard or fuel quality information standard;
+	(c)	details of the approved variation of the fuel standard;
 	(d)	reasons for granting the approval.
 18  Person must not contravene conditions of approval
 Holder of approval
@@ -274,6 +254,7 @@ Holder of approval
 	(c)	the action or omission contravenes a condition of the approval; and
 	(d)	the holder knows that the action or omission contravenes the condition or is reckless as to whether or not the action or omission contravenes the condition.
 Maximum penalty:	100 penalty units.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 Regulated person
 	(2)	A regulated person is guilty of an offence if:
 	(a)	the person intentionally takes an action or omits to take an action; and
@@ -282,10 +263,12 @@ Regulated person
 	(d)	the person has knowledge of the condition; and
 	(e)	the person knows that the action or omission contravenes the condition or is reckless as to whether or not the action or omission contravenes the condition.
 Maximum penalty:	100 penalty units.
+Note 1:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+Note 2:	For regulated person, see section 13.
 
 Division 4—Fuel documentation
 19  Supplies of fuel to be accompanied by documentation
-	(1)	If:
+		If:
 	(a)	a person (the supplier) supplies fuel in Australia to another person and the fuel is the subject of a fuel standard; and
 	(b)	the supplier is a constitutional corporation or a Commonwealth entity or the supplier supplies the fuel in the course of constitutional trade or commerce; and
 	(c)	the other person is not the end‑user of the fuel;
@@ -293,8 +276,7 @@ the supplier must, within the period prescribed by the regulations, provide the 
 	(d)	a statement as to whether or not the fuel complies with the standard; and
 	(e)	any other information relating to the fuel that is prescribed by the regulations.
 Maximum penalty:	60 penalty units.
-	(2)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Division 5—Alteration of fuel
 20  Altering fuel the subject of a fuel standard
@@ -308,13 +290,12 @@ Division 5—Alteration of fuel
 	(ii)	any person held an approval varying the standard in respect of that supply;
 		the fuel as altered does not comply with that standard as varied (whether or not the fuel complied with that standard as varied before the alteration).
 Note:	See section 5 for the applicable standard in respect of that supply.
-Maximum penalty:	500 penalty units.
+Maximum penalty:	1,000 penalty units.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(2)	For the purposes of subsection (1), base standard means the standard determined under section 21, disregarding the application of subsection 21(2).
-	(3)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 
-Division 6—Fuel standards and fuel quality information standards
-21  Making fuel standards
+Division 6—Fuel standards
+21  Making of standards
 Base standard
 	(1)	The Minister may, in writing, determine that specified matters constitute a fuel standard in respect of a specified kind of fuel.
 More stringent standard
@@ -323,35 +304,21 @@ Minister must not give preference
 	(3)	In applying subsection (2), the Minister must not give preference (within the meaning of section 99 of the Constitution) to one State or part of a State over another State or part of a State.
 Determinations are disallowable
 	(4)	A determination under this section is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-Regard to be had to objects of Act
-	(5)	In making a determination under this section, the Minister must have regard to the objects of this Act.
-22  Guidelines for more stringent fuel standards
+Regard to be had to main object of Act
+	(5)	In making a determination under this section, the Minister must have regard to the main object of this Act.
+22  Guidelines for more stringent standards
 	(1)	The Minister must develop written guidelines that he or she must have regard to in applying subsection 21(2).
 	(2)	The guidelines are a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-22A  Making fuel quality information standards
-Minister may determine fuel quality information standards
-	(1)	The Minister may, in writing, determine a fuel quality information standard for a specified supply of a specified kind of fuel.
-Content of fuel quality information standards
-	(2)	A fuel quality information standard must specify:
-	(a)	the information about the fuel that the Minister is satisfied should, in the public interest, be provided in connection with the supply; and
-	(b)	the way in which that information is to be provided.
-Minister must not give preference
-	(3)	In determining a fuel quality information standard, the Minister must not give preference (within the meaning of section 99 of the Constitution) to one State or part of a State over another State or part of a State.
-Determinations are disallowable
-	(4)	A determination under this section is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-Regard to be had to objects of Act
-	(5)	In making a determination under this section, the Minister must have regard to the objects of this Act.
 24  Fuel Standards Consultative Committee
 		The Fuel Standards Consultative Committee is established.
 24A  Consultation
 	(1)	The Minister must consult the Fuel Standards Consultative Committee:
-	(a)	before granting an approval under section 13; and
-	(b)	before making a determination under section 21; and
-	(ba)	before making a determination under section 22A; and
+	(a)	before granting an approval under section 13; and
+	(b)	before making a determination under section 21; and
 	(c)	before making a decision under subsection 35(2); and
-	(d)	in preparing guidelines under section 22.
-	(2)	The requirement to consult the Committee before granting an approval under section 13 includes the requirement to consult the Committee in respect of the period for which the approval is to be in force.
-	(3)	The Minister is not required to consult the Committee in relation to a determination made under section 21 within 6 months after the commencement of that section.
+	(d)	in preparing guidelines under section 22.
+	(2)	The requirement to consult the Committee before granting an approval under section 13 includes the requirement to consult the Committee in respect of the period for which the approval is to be in force.
+	(3)	The Minister is not required to consult the Committee in relation to a determination made under section 21 within 6 months after the commencement of that section.
 	(4)	The Minister must have regard to any recommendations of the Committee arising out of the consultation.
 25  Membership of Committee
 	(1)	The Committee consists of such members as the Minister determines.
@@ -389,20 +356,18 @@ Part‑time office
 
 Division 7—Supply and importation of fuel additives
 30  Supply of a fuel additive
-	(1)	A person is guilty of an offence if:
+		A person is guilty of an offence if:
 	(a)	the person supplies a fuel additive in Australia; and
 	(b)	the person is a constitutional corporation or a Commonwealth entity or the person supplies the fuel additive in the course of constitutional trade or commerce; and
 	(c)	the fuel additive is covered by an entry in the Register.
-Maximum penalty:	250 penalty units.
-	(2)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+Maximum penalty:	500 penalty units.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 31  Importation of a fuel additive
-	(1)	A person is guilty of an offence if:
+		A person is guilty of an offence if:
 	(a)	the person imports a fuel additive into Australia; and
 	(b)	the fuel additive is covered by an entry in the Register.
-Maximum penalty:	250 penalty units.
-	(2)	Subsection (1) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+Maximum penalty:	500 penalty units.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Division 8—Register of Prohibited Fuel Additives
 32  Minister to keep Register
@@ -468,7 +433,8 @@ Offence
 	(b)	the person ceases to be an inspector; and
 	(c)	the person does not return the identity card to the Secretary as soon as practicable.
 Maximum penalty:	1 penalty unit.
-	(4)	Subsection (3) is an offence of strict liability.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(4)	This offence is one of strict liability.
 Note:	For strict liability, see section 6.1 of the Criminal Code.
 Defence: card lost or destroyed
 	(5)	However, the person is not guilty of the offence if the identity card was lost or destroyed.
@@ -521,6 +487,7 @@ How powers to be exercised
 	(b)	produce any book, record or document requested by the inspector.
 	(2)	A person is guilty of an offence if the person refuses or fails to comply with a requirement under subsection (1).
 Maximum penalty:	Imprisonment for 6 months.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(3)	A person is excused from complying with a requirement under subsection (1) if the answer to the question or the production of the book, record or document might tend to incriminate the person or expose the person to a penalty.
 Note:	A defendant bears an evidential burden in relation to the matter in subsection (3), see subsection 13.3(3) of the Criminal Code.
 
@@ -633,6 +600,7 @@ Division 6—Occupier’s rights and responsibilities
 	(1)	The occupier of premises in relation to which a warrant is being exercised, or another person who apparently represents the occupier, must provide the inspector executing the warrant and any person assisting that inspector with all reasonable facilities and assistance for the effective exercise of their powers.
 	(2)	A person is guilty of an offence if the person fails to comply with the obligation set out in subsection (1).
 Maximum penalty:	30 penalty units.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Division 7—General provisions relating to seizure
 54  Copies of seized things to be provided
@@ -801,6 +769,7 @@ the court must assume, unless the contrary is proved, that the exercise of the p
 62  Offences relating to warrants
 	(1)	An inspector must not make, in an application for a warrant, a statement that the inspector knows to be false or misleading in a material particular.
 Maximum penalty:	Imprisonment for 2 years.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(2)	An inspector must not:
 	(a)	state in a document that purports to be a form of warrant under section 61 the name of a magistrate unless that magistrate issued the warrant; or
 	(b)	state on a form of warrant under that section a matter that, to the inspector’s knowledge, departs in a material particular from the form authorised by the magistrate; or
@@ -809,6 +778,7 @@ Maximum penalty:	Imprisonment for 2 years.
 	(ii)	departs in a material particular from the terms authorised by a magistrate under that section; or
 	(d)	give to a magistrate a form of warrant under that section that is not the form of warrant that the inspector purported to execute.
 Maximum penalty:	Imprisonment for 2 years.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Division 9—Powers of magistrates
 63  Powers conferred on magistrates in their personal capacity
@@ -825,14 +795,14 @@ Grant of injunction
 	(a)	a person has refused or failed, is refusing or failing, or is about to refuse or fail, to do a thing; and
 	(b)	the refusal or failure is, or would be, an offence against this Act;
 the Court may, on the application of the Minister or any other aggrieved person, grant an injunction requiring the person to do the thing.
-	(2A)	An individual is taken to be a person aggrieved by the conduct, refusal or failure mentioned in subsection (1) or (2) if:
+	(2A)	An individual is taken to be a person aggrieved by the conduct, refusal or failure mentioned in subsection (1) or (2) if:
 	(a)	the individual is an Australian citizen or ordinarily resident in Australia; and
 	(b)	at any time in the 2 years immediately before the conduct, refusal or failure, the individual has engaged in a series of activities in Australia for protection or conservation of, or research into, the environment.
-	(2B)	An organisation or association (whether incorporated or not) is taken to be a person aggrieved by the conduct, refusal or failure mentioned in subsection (1) or (2) if:
+	(2B)	An organisation or association (whether incorporated or not) is taken to be a person aggrieved by the conduct, refusal or failure mentioned in subsection (1) or (2) if:
 	(a)	the organisation or association is incorporated, or was otherwise established, in Australia; and
 	(b)	at any time in the 2 years immediately before the conduct, refusal or failure, the organisation or association has engaged in a series of activities in Australia for protection or conservation of, or research into, the environment; and
 	(c)	at the time of the conduct, refusal or failure, the objects or purposes of the organisation or association included protection or conservation of, or research into, the environment.
-	(2C)	To avoid doubt, subsections (2A) and (2B) extend the meaning of the term aggrieved person for the purposes of an application to the Court under this section.
+	(2C)	To avoid doubt, subsections (2A) and (2B) extend the meaning of the term aggrieved person for the purposes of an application to the Court under this section.
 	(3)	The power of the Court to grant an injunction may be exercised:
 	(a)	whether or not it appears to the Court that the person intends to engage, or to continue to engage, in conduct of that kind; and
 	(b)	whether or not the person has previously engaged in conduct of that kind.
@@ -851,7 +821,8 @@ Part 4—Record keeping and reporting obligations
 	(b)	the person is a constitutional corporation or a Commonwealth entity or the person supplies the fuel in the course of constitutional trade or commerce;
 the person must keep and maintain records in relation to such supplies in accordance with the regulations.
 Maximum penalty:	60 penalty units.
-	(2)	Subsection (1) is an offence of strict liability.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(2)	This offence is one of strict liability.
 Note:	For strict liability, see section 6.1 of the Criminal Code.
 67  Annual statements
 Producers
@@ -877,16 +848,16 @@ Content of statement
 Offence
 	(5)	A person is guilty of an offence if the person contravenes a requirement of this section.
 Maximum penalty:	60 penalty units.
-	(6)	Subsection (5) is an offence of strict liability.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(6)	This offence is one of strict liability.
 Note:	For strict liability, see section 6.1 of the Criminal Code.
 
 Part 5—Other matters
   
 68  Delegation by Minister
 	(1)	The Minister may, in writing, delegate to the Secretary, an SES employee or an acting SES employee all or any of the Minister’s powers or functions under this Act, other than the following:
-	(a)	granting an approval under section 13;
-	(b)	making a determination under section 21;
-	(c)	making a determination under section 22A.
+	(a)	granting an approval under section 13;
+	(b)	making a determination under section 21.
 	(2)	The delegate must, in exercising powers or functions under the delegation, comply with any directions of the Minister.
 69  Delegation by Secretary
 	(1)	The Secretary may, in writing, delegate to an SES employee or an acting SES employee all or any of the Secretary’s powers or functions under this Act.
@@ -899,14 +870,14 @@ Part 5—Other matters
 	(d)	a decision to vary or revoke an approval;
 	(e)	a decision to enter, or not to enter, a fuel additive, or a class of fuel additives, in the Register;
 	(f)	a decision to remove, or not to remove, a fuel additive, or a class of fuel additives, from the Register.
-	(2)	For the purposes of an application to the Administrative Appeals Tribunal under this section, the meaning of the term person whose interests are affected in section 27 of the Administrative Appeals Tribunal Act 1975 is extended by subsections (3) and (4) of this section.
-	(3)	An individual is taken to be a person whose interests are affected by a decision mentioned in subsection (1) if:
+	(2)	For the purposes of an application to the Administrative Appeals Tribunal under this section, the meaning of the term person whose interests are affected in section 27 of the Administrative Appeals Tribunal Act 1975 is extended by subsections (3) and (4) of this section.
+	(3)	An individual is taken to be a person whose interests are affected by a decision mentioned in subsection (1) if:
 	(a)	the individual is an Australian citizen or ordinarily resident in Australia; and
-	(b)	at any time in the 2 years immediately before the decision mentioned in subsection (1), the individual has engaged in a series of activities in Australia for protection or conservation of, or research into, the environment.
-	(4)	An organisation or association (whether incorporated or not) is taken to be a person whose interests are affected by a decision mentioned in subsection (1) if:
+	(b)	at any time in the 2 years immediately before the decision mentioned in subsection (1), the individual has engaged in a series of activities in Australia for protection or conservation of, or research into, the environment.
+	(4)	An organisation or association (whether incorporated or not) is taken to be a person whose interests are affected by a decision mentioned in subsection (1) if:
 	(a)	the organisation or association is incorporated, or was otherwise established, in Australia; and
-	(b)	at any time in the 2 years immediately before the decision mentioned in subsection (1), the organisation or association has engaged in a series of activities in Australia for protection or conservation of, or research into, the environment; and
-	(c)	at the time of the decision mentioned in subsection (1), the objects or purposes of the organisation or association included protection or conservation of, or research into, the environment.
+	(b)	at any time in the 2 years immediately before the decision mentioned in subsection (1), the organisation or association has engaged in a series of activities in Australia for protection or conservation of, or research into, the environment; and
+	(c)	at the time of the decision mentioned in subsection (1), the objects or purposes of the organisation or association included protection or conservation of, or research into, the environment.
 71  Annual report
 	(1)	The Secretary must, as soon as practicable after the end of each financial year, prepare and give to the Minister a report on the operation of this Act during the year.
 	(2)	The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of the day on which the report is given to the Minister.
@@ -928,7 +899,7 @@ independent review means a review undertaken by persons who:
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Notes to the Fuel Quality Standards Act 2000
 Note 1
-The Fuel Quality Standards Act 2000 as shown in this compilation comprises Act No. 153, 2000 amended as indicated in the Tables below.
+The Fuel Quality Standards Act 2000 as shown in this compilation comprises Act No. 153, 2000 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -943,14 +914,9 @@ Ss. 1–11, 13–18, 21–29, 32–36 and 68–73: 23 Mar 2001 (see Gazette 2001
 Environmental Legislation Amendment Act 2001
 118, 2001
 18 Sept 2001
-Schedule 2 (items 2, 4–8, 10, 11): Royal Assent (a) Schedule 2 (items 3, 9, 12, 13): (a)
+Schedule 2 (items 2, 4–8, 10, 11): Royal Assent (a) Schedule 2 (items 3, 9, 12, 13): (a)
 —
-Fuel Quality Standards Amendment Act 2003
-127, 2003
-5 Dec 2003
-5 Dec 2003
-—
-(a)	The Fuel Quality Standards Act 2000 was amended by Schedule 2 (items 2–13) only of the Environmental Legislation Amendment Act 2001, subsections 2(1) and (3)(a) of which provide as follows:
+(a)	The Fuel Quality Standards Act 2000 was amended by Schedule 2 (items 2–13) only of the Environmental Legislation Amendment Act 2001, subsections 2(1) and (3)(a) of which provide as follows:
 	(1)	Sections 1, 2 and 3 and items 1, 4, 5, 6, 7 and 14 of Schedule 2 commence on the day on which this Act receives the Royal Assent.
 	(3)	Items 2, 3 and 8 to 13 of Schedule 2 commence as follows:
 	(a)	if Parts 4 to 10 of the Administrative Review Tribunal Act 2001 have not commenced before the day on which this Act receives the Royal Assent:
@@ -961,134 +927,34 @@ Table of Amendments
 ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
 Provision affected
 How affected
-Part 1
+Part 2
 
-S. 3	
-rs. No. 127, 2003
-S. 4	
-am. No. 127, 2003
-S. 9	
-am. No. 127, 2003
-Part 2
-
-Division 1
-
-S. 11	
-am. No. 127, 2003
-Division 2
-
-Heading to s. 12	
-rs. No. 127. 2003
-S. 12	
-am. No. 127, 2003
-Note to s. 12(1)	
-rep. No. 127, 2003
-S. 12A	
-ad. No. 127, 2003
-Division 3
-
-S. 13	
-am. No. 127, 2003
-Note to s. 17(1)	
-rep. No. 127, 2003
-S. 17A	
-am. No. 127, 2003
-Note to s. 18(1)	
-rep. No. 127, 2003
-Notes 1 and 2 to s. 18(2)	
-rep. No. 127, 2003
-Division 4
-
-S. 19	
-am. No. 127, 2003
-Note to s. 19	
-rep. No. 127, 2003
-Division 5
-
-S. 20	
-am. No. 127, 2003
-Note to s. 20(1)	
-rep. No. 127, 2003
-Division 6
-
-Heading to Div. 6 of Part 2	
-rs. No. 127, 2003
-Heading to s. 21	
-am. No. 127, 2003
-S. 21	
-am. No. 127, 2003
-Subhead. to s. 21(5)	
-am. No. 127, 2003
-Heading to s. 22	
-am. No. 127, 2003
-S. 22A	
-ad. No. 127, 2003
-S. 24A	
-am. No. 127, 2003
-Division 7
-
-S. 30	
-am. No. 127, 2003
-Note to s. 30	
-rep. No. 127, 2003
-S. 31	
-am. No. 127, 2003
-Note to s. 31	
-rep. No. 127, 2003
-Division 8
+Division 8
 
 S. 35 	
-am. No. 118, 2001
-Part 3
+am. No. 118, 2001
+Part 3
 
-Division 1
+Division 1
 
 S. 37 	
-am. No. 118, 2001
-Division 2
-
-S. 39	
-am. No. 127, 2003
-Note to s. 39(3)	
-rep. No. 127, 2003
-Division 3
+am. No. 118, 2001
+Division 3
 
 Note to s. 41(1) 	
-ad. No. 118, 2001
-Note to s. 42(2)	
-rep. No. 127, 2003
-Division 4
+ad. No. 118, 2001
+Division 4
 
 Note to s. 44(1) 	
-ad. No. 118, 2001
-Division 6
+ad. No. 118, 2001
+Division 7A
 
-Note to s. 53(2)	
-rep. No. 127, 2003
-Division 7A
-
-Division 7A of Part 3 	
-ad. No. 118, 2001
+Division 7A of Part 3 	
+ad. No. 118, 2001
 Ss. 58A, 58B 	
-ad. No. 118, 2001
-Division 8
+ad. No. 118, 2001
+Part 5
 
-Note to s. 62(1) and (2)	
-rep. No. 127, 2003
-Part 4
-
-S. 66	
-am. No. 127, 2003
-Note to s. 66(1)	
-rep. No. 127, 2003
-S. 67	
-am. No. 127, 2003
-Note to s. 67(5)	
-rep. No. 127, 2003
-Part 5
-
-S. 68	
-am. No. 127, 2003
 S. 70 	
-am. No. 118, 2001
+am. No. 118, 2001
 
