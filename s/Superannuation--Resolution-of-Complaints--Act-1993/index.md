@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00357/Html/60c63d5b-b039-4497-be20-d3c40b82199b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00818/Html/1280b9b1-03d9-4c86-b17d-41c346a42349_files/image001.gif)
 
 # Superannuation (Resolution of Complaints) Act 1993
 
 **Act No. 80 of 1993 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 4 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -483,6 +483,8 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
              (3)  This Act applies with such modifications (if any) as are prescribed in relation to a person who is a qualifying person because of regulations made for the purposes of this section.
 
              (4)  In this section:
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
                     <a name="qualifi-person"></a>**_qualifying person_** means:
 
@@ -2480,23 +2482,25 @@ as the Court thinks appropriate to secure the effectiveness of the hearing and d
 
                      (b)  during any period, or during all periods, when the Tribunal Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Tribunal Chairperson.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
           (1A)  The Minister may appoint a person who is eligible to be appointed as Tribunal Deputy Chairperson to act as Tribunal Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Tribunal Deputy Chairperson (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period or during all periods when the Tribunal Deputy Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Tribunal Deputy Chairperson.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person who is eligible to be appointed as Tribunal Chairperson to act as Tribunal Chairperson in relation to a particular complaint where the Tribunal Chairperson has given a notice under subsection 10(1).
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
           (2A)  The Minister may appoint a person who is eligible to be appointed as Tribunal Deputy Chairperson to act as Tribunal Deputy Chairperson in relation to a particular complaint if the Tribunal Deputy Chairperson has given a notice under subsection 10(1).
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  Anything done by or in relation to a person purporting to act under subsection (1), (1A), (2) or (2A) is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment has not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ### Division 2—Administrative provisions relating to other Tribunal members
 
@@ -2736,19 +2740,19 @@ that reveals personal information relating to an individual unless the individua
 
 The _Superannuation (Resolution of Complaints) Act 1993_ as shown in this compilation comprises Act No. 80, 1993 amended as indicated in the Tables below.
 
-Part 7A ceased to have effect on 13 September 1999 (_see_ s. 48F and _Gazette_ 1999, No. S423) and was repealed by Act No. 116, 2003 on 28 November 2003.
+Part 7A ceased to have effect on 13 September 1999 (_see_ s. 48F and _Gazette_ 1999, No. S423) and was repealed by Act No. 116, 2003 on 28 November 2003.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
-### Table of Acts
+## Table of Acts
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="13%">
-  <col width="17%">
+  <col width="32%">
+  <col width="14%">
+  <col width="18%">
   <col width="23%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -2800,11 +2804,10 @@ of Assent</div>
     <div>28 Nov 1994</div>
   </td>
   <td>
-    <div>Div. 1 (s. 49) and Div. 2 (ss. 50, 51) of Part 3 
-(ss. 49–51): <i>(a)</i> 
-Div. 5 (ss. 12, 13), Div. 12 (ss. 28–31) and Div. 15 
-(ss. 36–39) of Part 2: 1 Dec 1993 
-Div. 7 (ss. 17, 18), Div. 8 (ss. 19, 20), Div. 11 (ss. 26, 27) and Div. 17 (ss. 42, 43) of Part 2: 26 Dec 1994 
+    <div>Div. 1 (s. 49) and Div. 2 (ss. 50, 51) of Part 3 (ss. 
+49–51): <i>(a)</i> 
+Div. 5 (ss. 12, 13), Div. 12 (ss. 28–31) and Div. 15 (ss. 36–39) of Part 2: 1 Dec 1993 
+Div. 7 (ss. 17, 18), Div. 8 (ss. 19, 20), Div. 11 (ss. 26, 27) and Div. 17 (ss. 42, 43) of Part 2: 26 Dec 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2932,7 +2935,7 @@ Schedule 5 (items 8, 9,
   </td>
   <td>
     <div>Sch. 19 (item 36) \[ <i>see</i>Table A] 
-S. 2(17) (am. by 24, 2000, Sch. 11 \[item 2])</div>
+S. 2(17) (am. by 24, 2000, Sch. 11 \[item 2])</div>
   </td>
 </tr>
 <tr>
@@ -3189,7 +3192,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>27 Nov 2003</div>
   </td>
   <td>
-    <div>Schedule 7: 28 Nov 2003</div>
+    <div>Schedule 7: 28 Nov 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -3274,10 +3277,10 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1096–1098) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1096–1098) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3605,14 +3608,6 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
   </td>
   <td>
     <div>ad. No. 61, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4292,39 +4287,7 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     <div>S. 54</div>
   </td>
   <td>
-    <div>am. No. 144, 1995; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54(2A)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 144, 1995</div>
   </td>
 </tr>
 <tr>
@@ -4488,13 +4451,37 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1096  Subsection 4B(4) (definition of _modifications_)
+
+Repeal the definition.
+
+## 1097  At the end of subsections 54(1), (1A), (2) and (2A)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1098  Subsection 54(3)
+
+Repeal the subsection.
+
+As at 4 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)_
 
-## Schedule 19
+## Schedule 19  
 
 ## 36  Instruments made and things done before the APRA commencement by the Commissioner under Acts now administered by ASIC
 
@@ -4604,6 +4591,8 @@ _Note:       For transitional rules about provisions related to the 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
