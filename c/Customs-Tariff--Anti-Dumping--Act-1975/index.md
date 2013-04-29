@@ -1,17 +1,21 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C03317/Html/CustTarAntiDum75_image001.gif)
+#  
+
+# ![](http://www.comlaw.gov.au/Details/C2004C03316/Html/CustTarAntiDum75_image001.gif)
+
+#  
 
 # Customs Tariff (Anti-Dumping) Act 1975
 
 Act No. 76 of 1975 as amended
 
-Consolidated as in force on 1 September 1998
+Consolidated as in force on 5 June 1998
 
-(includes amendments up to Act No. 80 of 1998)
+(includes amendments up to Act No. 15 of 1996)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
-# Contents
+Contents
 
 [1](#1).               Short title [_see_ Note 1]                                                                           
 
@@ -27,7 +31,7 @@ Prepared by the Office of Legislative Drafting,
 
 [10](#10).             Countervailing duties                                                                             
 
-[11](#11).             Third country countervailing duties                                                       
+[11](#11).             Third country countervailing duties                                                     
 
 [12](#12).             Interim duty not to exceed security taken                                           
 
@@ -205,9 +209,13 @@ does not exceed that non-injurious price.
 
 ##### <a id="10"></a>10  Countervailing duties
 
-             (1)  There is imposed, and there must be collected and paid, on goods to which this subsection applies by virtue of a notice under subsection 269TJ(1) or (2) of the Customs Act a special duty of Customs, to be known as countervailing duty.
+             (1)  There is imposed, and there must be collected and paid, on goods to which this subsection applies by virtue of a notice under subsection 269TJ(1), (2), (4), (5) or (6) of the Customs Act a special duty of Customs, to be known as countervailing duty.
 
-             (2)  The countervailing duty on goods to which this section applies is to be calculated in accordance with subsection (3E).
+             (2)  The countervailing duty on goods to which this section applies is to be calculated:
+
+                     (a)  if this section applies by virtue of a notice under subsection 269TJ(1) or (2) under the Customs Act—in accordance with subsection (3E); and
+
+                     (b)  if this section applies by virtue of a notice under subsection 269TJ(4), (5) or (6) of the Customs Act—in accordance with subsection (5).
 
              (3)  Pending final assessment of the countervailing duty payable on goods subject of a notice under subsection 269TJ(1) or (2) of the Customs Act, an interim countervailing duty is payable on those goods.
 
@@ -251,9 +259,29 @@ does not exceed the non-injurious price of goods of that kind, as ascertained, o
 
                              (ii)  the lower of the sum of the amounts that the Minister ascertains to be the export price of, and the countervailable subsidy in respect of, those particular goods and the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice under subsection 269TJ(1) or (2).
 
-          (5B)  Where the Minister signs a notice under subsection (3B), the Minister shall cause a copy of that notice to be published in the _Gazette_ unless in the opinion of the Minister, the publication of that notice would adversely affect the business or commercial interests of any person.
+             (4)  Subject to subsection (5), the countervailing duty in respect of other goods to which this section applies is:
 
-             (6)  A notice under subsection (3B) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.
+                     (a)  in the case of goods to which this section applies by virtue of a notice under subsection 269TJ(4) of the Customs Act—an amount equal to the amount of the countervailable subsidy in respect of the goods; or
+
+                     (b)  in the case of goods to which this section applies by virtue of a notice under subsection 269TJ(5) or (6) of the Customs Act, an amount equal to:
+
+                              (i)  if the prescribed assistance that has been paid or granted, directly or indirectly, in relation to the goods was financial assistance—the amount of that financial assistance; or
+
+                             (ii)  if the prescribed assistance that has been granted, directly or indirectly, in relation to the goods was not financial assistance, whichever of the following is determined by the Minister to be appropriate:
+
+                                        (A)  the cost of granting that assistance;
+
+                                        (B)  the value of that assistance to the person to whom it was granted.
+
+             (5)  The Minister may, by notice in writing signed by the Minister, direct that the countervailing duty in respect of goods referred to in subsection (4) is an amount to be ascertained by reference to the value, or to the weight or other measure of quantity, of the goods less the amount, if any, by which that amount exceeds the countervailing duty that would be payable in respect of the goods under subsection (4), and the notice has effect accordingly.
+
+          (5B)  Where the Minister signs a notice under subsection (3B) or (5), the Minister shall cause a copy of that notice to be published in the _Gazette_ unless in the opinion of the Minister, the publication of that notice would adversely affect the business or commercial interests of any person.
+
+             (6)  A notice under subsection (3B) or (5) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.
+
+             (7)  If the Minister has determined, under subsection 269TJ(8) of the Customs Act, the amount of the countervailable subsidy in relation to goods to which this section applies by virtue of a notice under subsection 269TJ(1), (2) or (4) of that Act, that amount is to be taken to be the amount of that countervailable subsidy for the purposes of this section.
+
+          (7A)  Where the Minister has determined, under subsection 269TJ(9) of the Customs Act, the amount, cost or value of prescribed assistance in relation to goods to which this section applies by virtue of a notice under subsection 269TJ(5) or (6) of that Act, that amount, cost or value is to be taken to be the amount, cost or value of that prescribed assistance in relation to those goods for the purposes of this section.
 
              (8)  The Minister may, by notice in writing, exempt goods from interim countervailing duty or countervailing duty if he or she is satisfied:
 
@@ -353,6 +381,8 @@ The special duties of Customs payable under this Act are in addition to such oth
 
 ### Table of Acts
 
+* * *
+
 <table>
 <colgroup>
   <col width="30%">
@@ -362,25 +392,39 @@ The special duties of Customs payable under this Act are in addition to such oth
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Customs Tariff (Anti-Dumping) Act 1975</div>
@@ -496,7 +540,7 @@ p. 3)</div>
     <div>14 June 1983</div>
   </td>
   <td>
-    <div>1 July 1983 ( <i>see</i>s. 2 and <i>Gazette</i>1983, No. S136, p. 3)</div>
+    <div>1 July 1983 ( <i>see</i>s. 2 and <i>Gazette</i>1983, No. S136, p. 3)</div>
   </td>
   <td>
     <div>—</div>
@@ -616,7 +660,7 @@ s. 2 and <i>Gazette</i> 1987, No. S351)</div>
     <div>15 June 1988</div>
   </td>
   <td>
-    <div>Ss. 1 and 2: 15 June 1988 
+    <div>Ss. 1 and 2: 15 June 1988 
 Ss. 4(a) and 5: 15 Oct 1987 Remainder: 1 Sept 1988 ( <i>see</i>s. 2(3) and <i>Gazette</i>1988, No. S217)</div>
   </td>
   <td>
@@ -761,23 +805,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1998</div>
-  </td>
-  <td>
-    <div>80, 1998</div>
-  </td>
-  <td>
-    <div>2 July 1998</div>
-  </td>
-  <td>
-    <div>24 July 1998 ( <i>see</i>s. 2 and <i>Gazette</i>1998, No. GN29)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -790,8 +817,7 @@ _(a)_     The _Customs Tariff (Anti-Dumping) Act 1975_ was amended by se
 
 _(b)_    The _Customs Tariff (Miscellaneous Amendments) Act 1987_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(11) of which provides as follows:
 
-               “(11)   The amendments of the _Customs Tariff (Miscellaneous Amendments) Act 1987_ made by this Act shall come into operation on the commencement of the 
- first-mentioned Act.”
+               “(11)   The amendments of the _Customs Tariff (Miscellaneous Amendments) Act 1987_ made by this Act shall come into operation on the commencement of the first-mentioned Act.”
 
 _(c)_     The _Customs Tariff (Anti-Dumping) Amendment Act (No. 2) 1992_ was amended by Schedule 3 (item 18) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
@@ -800,6 +826,8 @@ _(c)_     The _Customs Tariff (Anti-Dumping) Amendment Act (No. 2) 1992_
 _(d)_ Section 2 of the _Customs Tariff (Miscellaneous Amendments) Act 1996_ provides as follows:
 
                   “2.   This Act commences on 1 July 1996 immediately after the commencement of the _Customs Tariff Act 1995_.” 
+
+ 
 
 ## Table of Amendments
 
@@ -995,7 +1023,7 @@ _(d)_ Section 2 of the _Customs Tariff (Miscellaneous Amendments) Act 1996_ prov
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 66, 1981; Nos. 68, 114 and 136, 1982; No. 20, 1983; No. 1, 1984; No. 39, 1985; No. 76, 1987; No. 69, 1988; No. 173, 1989; Nos. 90 and 206, 1992; No. 151, 1994; No. 15, 1996; No. 80, 1998</div>
+    <div>am. No. 66, 1981; Nos. 68, 114 and 136, 1982; No. 20, 1983; No. 1, 1984; No. 39, 1985; No. 76, 1987; No. 69, 1988; No. 173, 1989; Nos. 90 and 206, 1992; No. 151, 1994; No. 15, 1996</div>
   </td>
 </tr>
 <tr>
