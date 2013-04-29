@@ -1,290 +1,290 @@
-![](http://www.comlaw.gov.au/Details/C2006C00190/Html/E2534C77CF38D440CA25715600210724/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="D50E8F031CE37A5DCA256FD5000D8D60/$FILE/image001.png"></v:imagedata></v:shape>
 
 # National Health and Medical Research Council Act 1992
 
-**Act No. 225 of 1992 as amended**
+**Act No. 225 of 1992 as amended**
 
-This compilation was prepared on 12 April 2006
-taking into account amendments up to Act No. 30 of 2006
+This compilation was prepared on 31 March 2005 
+taking into account amendments up to Act No. 32 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Object of the Act etc                                                                           1
+[3](#3).            Object of the Act etc <span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[4](#4).            Interpretation                                                                                       1
+[4](#4).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[5](#5).            Act to bind Crown                                                                               4
+[5](#5).            Act to bind Crown<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[5A](#5A).         Application of the _Criminal Code_                                                       5
+[5A](#5A).         Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-**Part 2—Establishment and functions of the Council**
+**Part 2—Establishment and functions of the Council<span style="mso-tab-count: 1">                                           </span>**
 
-[6](#6).            Establishment                                                                                      6
+[6](#6).            Establishment<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[7](#7).            Functions of the Council                                                                     6
+[7](#7).            Functions of the Council<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[8](#8).            Ethics guidelines                                                                                  7
+[8](#8).            Ethics guidelines<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[9](#9).            Reference of matters to the Council by the Minister                          7
+[9](#9).            Reference of matters to the Council by the Minister<span style="mso-tab-count: 1 dotted">                          </span>
 
-[10](#10).          Minister may give directions to the Council                                       7
+[10](#10).          Minister may give directions to the Council<span style="mso-tab-count: 1 dotted">                                       </span>
 
-**Part 3—Powers and duties of the Council** 
+**Part 3—Powers and duties of the Council<span style="mso-tab-count: 1">                                                                 </span>** 
 
-    **Division 1—Powers**
+    **Division 1—Powers<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[11](#11).          Powers of the Council                                                                         9
+[11](#11).          Powers of the Council<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[11A](#11A).       Publication of timetable                                                                       9
+[11A](#11A).       Publication of timetable<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-    **Division 2—Public consultation**
+    **Division 2—Public consultation<span style="mso-tab-count: 1">                                                                            </span>**
 
-[12](#12).          Consultation by the Council before making a regulatory recommendation or engaging in certain other activities  10
+[12](#12).          Consultation by the Council before making a regulatory recommendation or engaging in certain other activities<span style="mso-tab-count: 1">  </span>
 
-[13](#13).          Consultation by the Council before issuing guidelines                      11
+[13](#13).          Consultation by the Council before issuing guidelines<span style="mso-tab-count: 1 dotted">                      </span>
 
-[14](#14).          Council may take interim action as a matter of urgency                    11
+[14](#14).          Council may take interim action as a matter of urgency<span style="mso-tab-count: 1 dotted">                    </span>
 
-[14A](#14A).       Approval by Council of guidelines                                                    12
+[14A](#14A).       Approval by Council of guidelines<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[14B](#14B).       Consultation by Council may be dispensed with or modified in certain circumstances          13
+[14B](#14B).       Consultation by Council may be dispensed with or modified in certain circumstances<span style="mso-tab-count: 1">          </span>
 
-[15](#15).          Council must develop procedures                                                     13
+[15](#15).          Council must develop procedures<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-    **Division 3—Strategic plans**
+    **Division 3—Strategic plans<span style="mso-tab-count: 1">                                                                                     </span>**
 
-[16](#16).          Strategic plans                                                                                    14
+[16](#16).          Strategic plans<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[17](#17).          Review of each plan                                                                           14
+[17](#17).          Review of each plan<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[18](#18).          Approval, commencement and tabling of strategic plans                  14
+[18](#18).          Approval, commencement and tabling of strategic plans<span style="mso-tab-count: 1 dotted">                  </span>
 
-[19](#19).          Variation of strategic plans                                                                15
+[19](#19).          Variation of strategic plans<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-**Part 4—Constitution and meetings of the Council** 
+**Part 4—Constitution and meetings of the Council<span style="mso-tab-count: 1">                                             </span>** 
 
-    **Division 1—Constitution of the Council**
+    **Division 1—Constitution of the Council<span style="mso-tab-count: 1">                                                           </span>**
 
-[20](#20).          Constitution of the Council                                                               17
+[20](#20).          Constitution of the Council<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[21](#21).          Appointment of members                                                                 18
+[21](#21).          Appointment of members<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[23](#23).          Acting appointments                                                                         19
+[23](#23).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[24](#24).          Remuneration and allowances of Chairperson of the Council           20
+[24](#24).          Remuneration and allowances of Chairperson of the Council<span style="mso-tab-count: 1 dotted">           </span>
 
-[25](#25).          Remuneration and allowances of other Council members                 20
+[25](#25).          Remuneration and allowances of other Council members<span style="mso-tab-count: 1 dotted">                 </span>
 
-[26](#26).          Leave of absence                                                                                21
+[26](#26).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[27](#27).          Resignation                                                                                        21
+[27](#27).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[28](#28).          Termination of appointment                                                             21
+[28](#28).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[29](#29).          Disclosure of interests                                                                       22
+[29](#29).          Disclosure of interests<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-    **Division 2—Procedure of the Council**
+    **Division 2—Procedure of the Council<span style="mso-tab-count: 1">                                                               </span>**
 
-[30](#30).          Meetings of the Council                                                                    24
+[30](#30).          Meetings of the Council<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[31](#31).          Quorum                                                                                              24
+[31](#31).          Quorum<span style="mso-tab-count: 1 dotted">                                                                                              </span>
 
-[32](#32).          Conduct of meetings                                                                          25
+[32](#32).          Conduct of meetings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[33](#33).          Council may determine a matter without meeting                             25
+[33](#33).          Council may determine a matter without meeting<span style="mso-tab-count: 1 dotted">                             </span>
 
-[34](#34).          Voting                                                                                                25
+[34](#34).          Voting<span style="mso-tab-count: 1 dotted">                                                                                                </span>
 
-**Part 5—Committees**
+**Part 5—Committees<span style="mso-tab-count: 1">                                                                                                            </span>**
 
-[35](#35).          Principal Committees                                                                        26
+[35](#35).          Principal Committees<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[36](#36).          Constitution of and appointment to the Australian Health Ethics Committee       28
+[36](#36).          Constitution of and appointment to the Australian Health Ethics Committee<span style="mso-tab-count: 1">       </span>
 
-[37](#37).          Executive Committee                                                                         29
+[37](#37).          Executive Committee<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[37A](#37A).       Provisions relating to meetings of Principal Committees and the Executive Committee and appointment and duties of Deputy Chairpersons of those Committees                                      30
+[37A](#37A).       Provisions relating to meetings of Principal Committees and the Executive Committee and appointment and duties of Deputy Chairpersons of those Committees<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[38](#38).          Matters concerning a Principal Committee or the Executive Committee to be determined by the Council            31
+[38](#38).          Matters concerning a Principal Committee or the Executive Committee to be determined by the Council<span style="mso-tab-count: 1">            </span>
 
-[39](#39).          Working committees                                                                          31
+[39](#39).          Working committees<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[40](#40).          Arrangements to assist committees                                                   32
+[40](#40).          Arrangements to assist committees<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[41](#41).          Remuneration and allowances of committee members and others     33
+[41](#41).          Remuneration and allowances of committee members and others<span style="mso-tab-count: 1 dotted">     </span>
 
-[42](#42).          Leave of absence for committee members                                         33
+[42](#42).          Leave of absence for committee members<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[43](#43).          Resignation of committee members                                                   34
+[43](#43).          Resignation of committee members<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[44](#44).          Termination of appointment of committee members                        34
+[44](#44).          Termination of appointment of committee members<span style="mso-tab-count: 1 dotted">                        </span>
 
-**Part 5A—Chief Executive Officer**
+**Part 5A—Chief Executive Officer<span style="mso-tab-count: 1">                                                                               </span>**
 
-[44A](#44A).       Chief Executive Officer                                                                      36
+[44A](#44A).       Chief Executive Officer<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[44B](#44B).       Appointment                                                                                     36
+[44B](#44B).       Appointment<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[44C](#44C).       Remuneration                                                                                     36
+[44C](#44C).       Remuneration<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[44D](#44D).       Resignation                                                                                        37
+[44D](#44D).       Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[44E](#44E).        Other terms and conditions                                                               37
+[44E](#44E).        Other terms and conditions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[44F](#44F).        Acting appointment                                                                           37
+[44F](#44F).        Acting appointment<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-**Part 6—Staff, consultants and work arrangements**
+**Part 6—Staff, consultants and work arrangements<span style="mso-tab-count: 1">                                           </span>**
 
-[45](#45).          Staff of the Council                                                                            38
+[45](#45).          Staff of the Council<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[46](#46).          Engagement of consultants                                                                38
+[46](#46).          Engagement of consultants<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[47](#47).          Council may arrange provision of facilities                                       38
+[47](#47).          Council may arrange provision of facilities<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[48](#48).          Council may make arrangements relating to various matters             39
+[48](#48).          Council may make arrangements relating to various matters<span style="mso-tab-count: 1 dotted">             </span>
 
-**Part 7—Medical Research Endowment Account**
+**Part 7—Medical Research Endowment Account<span style="mso-tab-count: 1">                                                </span>**
 
-[49](#49).          Medical Research Endowment Account                                            40
+[49](#49).          Medical Research Endowment Account<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[50](#50).          Credit of amounts to Account                                                           40
+[50](#50).          Credit of amounts to Account<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[51](#51).          Purposes of the Account                                                                   40
+[51](#51).          Purposes of the Account<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[52](#52).          Application of gifts or bequests                                                        41
+[52](#52).          Application of gifts or bequests<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[53](#53).          Money repaid to the Commonwealth                                               41
+[53](#53).          Money repaid to the Commonwealth<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[54](#54).          Transitional provision—Medical Research Endowment Fund         41
+[54](#54).          Transitional provision—Medical Research Endowment Fund<span style="mso-tab-count: 1 dotted">         </span>
 
-**Part 8—Commissioner of Complaints** 
+**Part 8—Commissioner of Complaints<span style="mso-tab-count: 1">                                                                       </span>** 
 
-    **Division 1—Establishment and functions of Commissioner of Complaints**
+    **Division 1—Establishment and functions of Commissioner of Complaints<span style="mso-tab-count: 1">         </span>**
 
-[55](#55).          Commissioner of Complaints                                                            43
+[55](#55).          Commissioner of Complaints<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[56](#56).          Functions of Commissioner                                                               43
+[56](#56).          Functions of Commissioner<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[57](#57).          Who may complain                                                                            43
+[57](#57).          Who may complain<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[58](#58).          Grounds for complaint                                                                      43
+[58](#58).          Grounds for complaint<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[59](#59).          How to make a complaint                                                                  44
+[59](#59).          How to make a complaint<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[60](#60).          Commissioner to investigate complaints                                           44
+[60](#60).          Commissioner to investigate complaints<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[61](#61).          Discretion not to investigate                                                              44
+[61](#61).          Discretion not to investigate<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-    **Division 2—Procedure and powers of Commissioner**
+    **Division 2—Procedure and powers of Commissioner<span style="mso-tab-count: 1">                              </span>**
 
-[62](#62).          Council to be informed of investigation                                             47
+[62](#62).          Council to be informed of investigation<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[63](#63).          Procedure of Commissioner                                                               47
+[63](#63).          Procedure of Commissioner<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[64](#64).          Co-operation with Commissioner                                                     47
+[64](#64).          Co-operation with Commissioner<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[65](#65).          Immunity from penalty                                                                     48
+[65](#65).          Immunity from penalty<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[66](#66).          Reports by Commissioner                                                                 48
+[66](#66).          Reports by Commissioner<span style="mso-tab-count: 1 dotted">                                                                 </span>
 
-[67](#67).          Recommendations                                                                              48
+[67](#67).          Recommendations<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[68](#68).          Annual report of Commissioner                                                        49
+[68](#68).          Annual report of Commissioner<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-    **Division 3—Appointment, terms and conditions of Commissioner**
+    **Division 3—Appointment, terms and conditions of Commissioner<span style="mso-tab-count: 1">   </span>**
 
-[69](#69).          Appointment of Commissioner                                                         50
+[69](#69).          Appointment of Commissioner<span style="mso-tab-count: 1 dotted">                                                         </span>
 
-[70](#70).          Terms and conditions of appointment of Commissioner                  50
+[70](#70).          Terms and conditions of appointment of Commissioner<span style="mso-tab-count: 1 dotted">                  </span>
 
-[71](#71).          Period of Commissioner’s appointment                                            50
+[71](#71).          Period of Commissioner’s appointment<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[72](#72).          Commissioner may enter into arrangements with Department         50
+[72](#72).          Commissioner may enter into arrangements with Department<span style="mso-tab-count: 1 dotted">         </span>
 
-[73](#73).          Acting appointment                                                                           51
+[73](#73).          Acting appointment<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[74](#74).          Remuneration and allowances                                                            51
+[74](#74).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[75](#75).          Leave of absence                                                                                51
+[75](#75).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[76](#76).          Disclosure of interests of Commissioner in relation to investigation 51
+[76](#76).          Disclosure of interests of Commissioner in relation to investigation<span style="mso-tab-count: 1 dotted"> </span>
 
-[77](#77).          Termination of appointment of Commissioner                                 52
+[77](#77).          Termination of appointment of Commissioner<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[78](#78).          Commissioner to protect personal information                                 53
+[78](#78).          Commissioner to protect personal information<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[79](#79).          Protection from civil actions                                                              53
+[79](#79).          Protection from civil actions<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-**Part 9—Miscellaneous**
+**Part 9—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[80](#80).          Confidential commercial information                                                 54
+[80](#80).          Confidential commercial information<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[81](#81).          Protection from civil actions                                                              57
+[81](#81).          Protection from civil actions<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[82](#82).          Delegation                                                                                          57
+[82](#82).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[83](#83).          Annual reports                                                                                   58
+[83](#83).          Annual reports<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[84](#84).          Exemption from taxation                                                                   59
+[84](#84).          Exemption from taxation<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[85](#85).          Regulations                                                                                        59
+[85](#85).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Part 10—Transitional**
+**Part 10—Transitional<span style="mso-tab-count: 1">                                                                                                          </span>**
 
-[86](#86).          Existing Council membership                                                            60
+[86](#86).          Existing Council membership<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[87](#87).          Existing Council activities                                                                  60
+[87](#87).          Existing Council activities<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[88](#88).          Existing Medical Research Committee                                              61
+[88](#88).          Existing Medical Research Committee<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[89](#89).          Other existing Principal Committees                                                 61
+[89](#89).          Other existing Principal Committees<span style="mso-tab-count: 1 dotted">                                                 </span>
 
-[90](#90).          Existing ethics guidelines                                                                   62
+[90](#90).          Existing ethics guidelines<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[91](#91).          References in other laws to NHMRC Statement etc                         62
+[91](#91).          References in other laws to NHMRC Statement etc <span style="mso-tab-count: 1 dotted">                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
 
 ## An Act to establish a National Health and Medical Research Council, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _National Health and Medical Research Council Act 1992_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
-             (1)  Subject to subsection (2), the provisions of this Act commence on a day or days to be fixed by Proclamation.
+             (1)  Subject to subsection (2), the provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-             (2)  If a provision of this Act does not commence under subsection (1) within the period of 6 months commencing on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+             (2)  If a provision of this Act does not commence under subsection (1) within the period of 6 months commencing on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Object of the Act etc.
 
              (1)  The object of this Act is to make provision for a national body to pursue activities designed:
 
-                     (a)  to raise the standard of individual and public health throughout Australia; and
+                     (a)  to raise the standard of individual and public health throughout <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
 
                      (b)  to foster the development of consistent health standards between the various States and Territories; and
 
-                     (c)  to foster medical research and training and public health research and training throughout Australia; and
+                     (c)  to foster medical research and training and public health research and training throughout <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
 
                      (d)  to foster consideration of ethical issues relating to health.
 
@@ -298,11 +298,11 @@ Attorney-General’s Department, Canberra
 
                     <a name="appointed-member"></a>**_appointed member_** means:
 
-                     (a)  in relation to the Council—a member of the Council who holds office under a paragraph in section 20, other than paragraph 20(b) or (c); or
+                     (a)  in relation to the Council—a member of the Council who holds office under a paragraph in section 20, other than paragraph 20(b) or (c); or
 
                      (b)  in relation to a committee—a member of the committee who holds office as a result of an appointment to that office.
 
-                    <a name="chief-execut-offic"></a>**_Chief Executive Officer_** means the Chief Executive Officer referred to in section 44A.
+                    <a name="chief-execut-offic"></a>**_Chief Executive Officer_** means the Chief Executive Officer referred to in section 44A.
 
                     <a name="chief-offic"></a>**_chief officer_** means:
 
@@ -314,7 +314,7 @@ Attorney-General’s Department, Canberra
 
                     <a name="committe"></a>**_committee_** means a Principal Committee, the Executive Committee or a working committee.
 
-                    <a name="commission"></a>**_Commissioner_** means the Commissioner of Complaints appointed under section 69 and includes a person appointed under section 76 to act as the Commissioner of Complaints in relation to a particular complaint.
+                    <a name="commission"></a>**_Commissioner_** means the Commissioner of Complaints appointed under section 69 and includes a person appointed under section 76 to act as the Commissioner of Complaints in relation to a particular complaint.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means a body, whether incorporated or not, established by, or by or under a law of, the Commonwealth.
 
@@ -326,25 +326,25 @@ Attorney-General’s Department, Canberra
 
                     <a name="court"></a>**_court_** includes a tribunal, authority or person having power to require a person to produce documents or answer questions.
 
-                    <a name="execut-committe"></a>**_Executive Committee_** means the committee established under section 37.
+                    <a name="execut-committe"></a>**_Executive Committee_** means the committee established under section 37.
 
                     <a name="health-minist"></a>**_Health Minister_**, in relation to a State or Territory, means the Minister who has the primary responsibility for health in that State or Territory.
 
                     <a name="interest"></a>**_interest_** means any direct or indirect, pecuniary or non-pecuniary interest.
 
-                    <a name="interim-regulatori-recommend"></a>**_interim regulatory recommendation_** means a regulatory recommendation made in the circumstances referred to in section 14.
+                    <a name="interim-regulatori-recommend"></a>**_interim regulatory recommendation_** means a regulatory recommendation made in the circumstances referred to in section 14.
 
                     <a name="mical-research"></a>**_medical research_** includes the laboratory-based or clinical study, or group or community-based study of the causes, treatment and prevention of human diseases and also includes dental research.
 
-                    <a name="nhmrc-order"></a>**_NHMRC Order_** means the Order in Council dated 23 August 1991 and cited as the National Health and Medical Research Council Order.
+                    <a name="nhmrc-order"></a>**_NHMRC Order_** means the Order in Council dated <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="23" month="8">23 August 1991</st1:date> and cited as the National Health and Medical Research Council Order.
 
-                    <a name="previou-fund"></a>**_previous Fund_** means the Fund known as the Medical Research Endowment Fund and established under the _Medical Research Endowment Act 1937_ as a Trust Account for the purposes of section 62A of the _Audit Act 1901_.
+                    <a name="previou-fund"></a>**_previous Fund_** means the Fund known as the Medical Research Endowment Fund and established under the _Medical Research Endowment Act 1937_ as a Trust Account for the purposes of section 62A of the _Audit Act 1901_.
 
-                    <a name="princip-committe"></a>**_Principal Committee_** means a committee established, or taken to be established, by the Minister under section 35.
+                    <a name="princip-committe"></a>**_Principal Committee_** means a committee established, or taken to be established, by the Minister under section 35.
 
                     <a name="privaci-commission"></a>**_Privacy Commissioner_** means the Privacy Commissioner within the meaning of the _Privacy Act 1988_.
 
-                    <a name="proclaim-dai"></a>**_proclaimed day_** means the day fixed by Proclamation for the commencement of section 6.
+                    <a name="proclaim-dai"></a>**_proclaimed day_** means the day fixed by Proclamation for the commencement of section 6.
 
                     <a name="public-health-research"></a>**_public health research_** includes the study of the health of a community or population for purposes directed at improving or protecting the health of that community or population.
 
@@ -366,13 +366,13 @@ and includes any unreasonable delay by the Council or Committee in relation to i
 
                     <a name="state-territori-member"></a>**_State or Territory member_** means a member of the Council appointed under paragraph 20(d).
 
-                    <a name="territori"></a>**_Territory_** means the Australian Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** means the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> or the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.
 
-                    <a name="work-committe"></a>**_working committee_** means a committee established under section 39.
+                    <a name="work-committe"></a>**_working committee_** means a committee established under section 39.
 
 ##### <a id="5"></a>5  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of the Australian Capital Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state>, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="5A"></a>5A  Application of the _Criminal Code_
 
@@ -380,7 +380,9 @@ and includes any unreasonable delay by the Council or Committee in relation to i
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part 2—Establishment and functions of the Council
+<o:p> </o:p>
+
+## Part 2—Establishment and functions of the Council
 
 ##### <a id="6"></a>6  Establishment
 
@@ -412,7 +414,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                              (v)  ethical issues relating to health; and
 
-                     (b)  to advise, and make recommendations to, the Commonwealth, the States and Territories on the matters referred to in paragraph (a); and
+                     (b)  to advise, and make recommendations to, the Commonwealth, the States and Territories on the matters referred to in paragraph (a); and
 
                      (c)  to make recommendations to the Commonwealth on expenditure:
 
@@ -432,7 +434,7 @@ including recommendations on the application of the Account; and
 
              (2)  The guidelines for the conduct of medical research involving humans must be issued precisely as developed by the Principal Committee known as the Australian Health Ethics Committee and provided to the Council for the purpose.
 
-             (3)  Sections 13, 14, 14A and 14B and the procedures developed and published by the Council under section 15 apply to the activities of the Australian Health Ethics Committee in developing guidelines for the conduct of medical research involving humans as if the references in sections 13, 14, 14A and 14B to the Council were references to that Committee and as if the procedures under section 15 had been developed to assist the Committee.
+             (3)  Sections 13, 14, 14A and 14B and the procedures developed and published by the Council under section 15 apply to the activities of the Australian Health Ethics Committee in developing guidelines for the conduct of medical research involving humans as if the references in sections 13, 14, 14A and 14B to the Council were references to that Committee and as if the procedures under section 15 had been developed to assist the Committee.
 
 ##### <a id="9"></a>9  Reference of matters to the Council by the Minister
 
@@ -442,27 +444,29 @@ including recommendations on the application of the Account; and
 
 ##### <a id="10"></a>10  Minister may give directions to the Council
 
-             (1)  Subject to subsection (2), the Minister may give written directions to the Council as to the performance of its functions or the exercise of its powers.
+             (1)  Subject to subsection (2), the Minister may give written directions to the Council as to the performance of its functions or the exercise of its powers.
 
-             (2)  Directions given by the Minister under subsection (1) must be of a general nature only, and, in particular, the Minister is not entitled to direct the Council:
+             (2)  Directions given by the Minister under subsection (1) must be of a general nature only, and, in particular, the Minister is not entitled to direct the Council:
 
                      (a)  to recommend the allocation of research funds to a particular person, organisation, State or Territory; or
 
                      (b)  as to the manner of the Council’s treatment of particular scientific, technical or ethical issues.
 
-             (3)  The Council must comply with any direction given by the Minister under subsection (1).
+             (3)  The Council must comply with any direction given by the Minister under subsection (1).
 
              (4)  If the Minister gives a direction to the Council, the Minister must cause a statement setting out particulars of, and of the reasons for, the direction to be laid before each House of the Parliament within 15 sitting days of that House after giving the direction.
 
-## Part 3—Powers and duties of the Council
+<o:p> </o:p>
 
-### Division 1—Powers
+## Part 3—Powers and duties of the Council
+
+### Division 1—Powers
 
 ##### <a id="11"></a>11  Powers of the Council
 
              (1)  The Council has power to do all things necessary or convenient to be done in relation to the performance of its functions.
 
-             (2)  Without limiting subsection (1), the Council may:
+             (2)  Without limiting subsection (1), the Council may:
 
                      (a)  accept gifts, grants, bequests and advances made to the Council (whether on trust or otherwise) and act as trustee of money or other property vested in the Council on trust; and
 
@@ -476,11 +480,13 @@ including recommendations on the application of the Account; and
 
                    A timetable and procedures to assist the Council to make recommendations to the Commonwealth on the application of the Account under paragraph 7(1)(c) must be published each year, in the manner and form specified in the regulations.
 
-### Division 2—Public consultation
+<o:p> </o:p>
+
+### Division 2—Public consultation
 
 ##### <a id="12"></a>12  Consultation by the Council before making a regulatory recommendation or engaging in certain other activities
 
-             (1)  Subject to sections 14 and 14B, before the Council:
+             (1)  Subject to sections 14 and 14B, before the Council:
 
                      (a)  makes a regulatory recommendation; or
 
@@ -494,7 +500,7 @@ the Council must consult persons or bodies in accordance with the steps set out 
 
                      (b)  inviting persons or bodies to make submissions relating to the proposed recommendation or activity in accordance with the procedures, and within the period, specified in the notice.
 
-             (3)  As soon as practicable after the end of the period specified under paragraph (2)(b), the Council must, having regard to any submissions received pursuant to the invitation referred to in that paragraph:
+             (3)  As soon as practicable after the end of the period specified under paragraph (2)(b), the Council must, having regard to any submissions received pursuant to the invitation referred to in that paragraph:
 
                      (a)  prepare a draft of the regulatory recommendation that the Council proposes to make or an outline of the prescribed activity in which the Council proposes to engage and publish a notice, in the manner and form specified in the regulations:
 
@@ -506,11 +512,11 @@ the Council must consult persons or bodies in accordance with the steps set out 
 
                      (b)  publish, in the manner and form specified in the regulations, a notice stating that it no longer proposes to make the recommendation or engage in the prescribed activity.
 
-             (4)  The Council must have regard to any submissions received pursuant to the invitation referred to in subparagraph (3)(a)(iii) before making the recommendation or engaging in the activity.
+             (4)  The Council must have regard to any submissions received pursuant to the invitation referred to in subparagraph (3)(a)(iii) before making the recommendation or engaging in the activity.
 
 ##### <a id="13"></a>13  Consultation by the Council before issuing guidelines
 
-             (1)  Subject to sections 14 and 14B, before the Council issues guidelines, the Council must:
+             (1)  Subject to sections 14 and 14B, before the Council issues guidelines, the Council must:
 
                      (a)  prepare a draft of the guidelines that the Council proposes to issue; and
 
@@ -522,19 +528,19 @@ the Council must consult persons or bodies in accordance with the steps set out 
 
                             (iii)  inviting persons or bodies to make submissions relating to the draft guidelines in accordance with the procedures, and within the period, specified in the notice.
 
-             (2)  The Council must have regard to any submissions received pursuant to the invitation referred to in subparagraph (1)(b)(iii) before issuing the guidelines.
+             (2)  The Council must have regard to any submissions received pursuant to the invitation referred to in subparagraph (1)(b)(iii) before issuing the guidelines.
 
 ##### <a id="14"></a>14  Council may take interim action as a matter of urgency
 
              (1)  If a matter:
 
-                     (a)  would ordinarily be the subject of a regulatory recommendation made, or guidelines issued, after public consultation in accordance with section 12 or 13; and
+                     (a)  would ordinarily be the subject of a regulatory recommendation made, or guidelines issued, after public consultation in accordance with section 12 or 13; and
 
                      (b)  must, in the opinion of the Council, for any reason, be dealt with urgently;
 
 the Council may make an interim regulatory recommendation or issue interim guidelines without first undertaking one or more of the steps set out in that section.
 
-             (2)  If the Council makes an interim regulatory recommendation, or issues interim guidelines, without inviting submissions in accordance with paragraph 12(3)(a) or 13(1)(b), the Council must, within 30 days after making the interim recommendation or issuing the interim guidelines, publish a notice, in the manner and form specified in the regulations:
+             (2)  If the Council makes an interim regulatory recommendation, or issues interim guidelines, without inviting submissions in accordance with paragraph 12(3)(a) or 13(1)(b), the Council must, within 30 days after making the interim recommendation or issuing the interim guidelines, publish a notice, in the manner and form specified in the regulations:
 
                      (a)  setting out its reasons for making the interim recommendation or issuing the interim guidelines; and
 
@@ -548,11 +554,11 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
                      (b)  revoke the interim recommendation or guidelines.
 
-             (4)  Where the Council fails, within 30 days after the end of the period referred to in paragraph (2)(c), to take any action under subsection (3) in relation to an interim regulatory recommendation or interim guidelines, the Council is to be treated as having revoked the interim recommendation or guidelines.
+             (4)  Where the Council fails, within 30 days after the end of the period referred to in paragraph (2)(c), to take any action under subsection (3) in relation to an interim regulatory recommendation or interim guidelines, the Council is to be treated as having revoked the interim recommendation or guidelines.
 
 ##### <a id="14A"></a>14A  Approval by Council of guidelines
 
-                   The Council may approve guidelines prepared by another person or body if, and only if, the Council is satisfied that the other person or body, before submitting the guidelines to the Council for its approval:
+                   The Council may approve guidelines prepared by another person or body if, and only if, the Council is satisfied that the other person or body, before submitting the guidelines to the Council for its approval:
 
                      (a)  prepared a draft of the guidelines that it proposed to submit to the Council; and
 
@@ -564,33 +570,35 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
                             (iii)  inviting persons or bodies to make submissions relating to the draft in accordance with the procedures, and within the period, specified in the notice; and
 
-                     (c)  had regard to any submissions received pursuant to the invitation referred to in subparagraph (b)(iii).
+                     (c)  had regard to any submissions received pursuant to the invitation referred to in subparagraph (b)(iii).
 
 ##### <a id="14B"></a>14B  Consultation by Council may be dispensed with or modified in certain circumstances
 
-             (1)  If the Council is satisfied that a proposed regulatory recommendation, or proposed prescribed activity, referred to in section 12, or proposed guidelines referred to in section 13 or 14A, raise issues that are of minor significance only, the Council may omit all or any of the steps set out in section 12, 13 or 14A, as the case may be.
+             (1)  If the Council is satisfied that a proposed regulatory recommendation, or proposed prescribed activity, referred to in section 12, or proposed guidelines referred to in section 13 or 14A, raise issues that are of minor significance only, the Council may omit all or any of the steps set out in section 12, 13 or 14A, as the case may be.
 
-             (2)  If the Council proposes to omit all or any of the steps set out in section 12, 13 or 14A, the Council must publish a notice, in the manner and form, and within the period, specified in the regulations, stating its reasons for so proposing.
+             (2)  If the Council proposes to omit all or any of the steps set out in section 12, 13 or 14A, the Council must publish a notice, in the manner and form, and within the period, specified in the regulations, stating its reasons for so proposing.
 
 ##### <a id="15"></a>15  Council must develop procedures
 
                    The Council must develop and publish procedures to assist persons or bodies to make submissions under this Division.
 
-### Division 3—Strategic plans
+<o:p> </o:p>
+
+### Division 3—Strategic plans
 
 ##### <a id="16"></a>16  Strategic plans
 
-             (1)  The Council must develop, and prepare in writing, for each successive period referred to in subsections (4) and (5), a strategic plan setting out:
+             (1)  The Council must develop, and prepare in writing, for each successive period referred to in subsections (4) and (5), a strategic plan setting out:
 
                      (a)  the Council’s assessment of the major national health issues that are likely to arise during the period; and
 
                      (b)  the manner in which the Council proposes to perform its functions in dealing with those issues during the period.
 
-             (2)  Without limiting the generality of subsection (1), each strategic plan must contain a national strategy for medical research and public health research.
+             (2)  Without limiting the generality of subsection (1), each strategic plan must contain a national strategy for medical research and public health research.
 
              (3)  Before preparing a strategic plan, the Council must consult with the Minister on the matters proposed for inclusion in the plan.
 
-             (4)  The first strategic plan is to relate to the period commencing on the proclaimed day and ending on 30 June 1994.
+             (4)  The first strategic plan is to relate to the period commencing on the proclaimed day and ending on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="30" month="6">30 June 1994</st1:date>.
 
              (5)  Each subsequent strategic plan is to relate to the period of 3 years commencing at the end of the period to which the immediately preceding strategic plan relates.
 
@@ -608,9 +616,9 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
              (3)  Each subsequent strategic plan must be given to the Minister before the end of the period to which the immediately preceding plan relates.
 
-                   This subsection has effect subject to subsection (6).
+                   This subsection has effect subject to subsection (6).
 
-             (4)  Each subsequent strategic plan must take into account the review of the immediately preceding strategic plan prepared and given to the Minister in accordance with section 17.
+             (4)  Each subsequent strategic plan must take into account the review of the immediately preceding strategic plan prepared and given to the Minister in accordance with section 17.
 
              (5)  After receiving a strategic plan, the Minister must either:
 
@@ -654,9 +662,11 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
                      (c)  the plan as so varied continues in force after it is so varied as if it were the original strategic plan.
 
-## Part 4—Constitution and meetings of the Council
+<o:p> </o:p>
 
-### Division 1—Constitution of the Council
+## Part 4—Constitution and meetings of the Council
+
+### Division 1—Constitution of the Council
 
 ##### <a id="20"></a>20  Constitution of the Council
 
@@ -672,7 +682,7 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
                      (e)  an officer of the Department nominated by the Minister;
 
-                      (f)  a person having knowledge of the health needs of Aboriginal persons or Torres Strait Islanders;
+                      (f)  a person having knowledge of the health needs of Aboriginal persons or Torres Strait Islanders;<o:p></o:p>
 
                      (g)  a person with expertise in health care training;
 
@@ -740,7 +750,7 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
              (5)  An appointed member, other than the Chairperson, must be appointed on a part-time basis only.
 
-             (6)  An appointed member holds office for the period, not exceeding 3 years, that is specified in the instrument of appointment, but is eligible for reappointment.
+             (6)  An appointed member holds office for the period, not exceeding 3 years, that is specified in the instrument of appointment, but is eligible for reappointment.
 
 ##### <a id="23"></a>23  Acting appointments
 
@@ -748,7 +758,7 @@ the Council may make an interim regulatory recommendation or issue interim guide
 
                      (a)  the office of Chairperson is vacant; or
 
-                     (b)  the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the functions of Chairperson;
+                     (b)  the Chairperson is absent from duty or from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the functions of Chairperson;
 
 the Minister may appoint a member, other than the Chief Executive Officer, to act as Chairperson.
 
@@ -756,9 +766,9 @@ the Minister may appoint a member, other than the Chief Executive Officer, to ac
 
                      (a)  the office of an appointed member other than the Chairperson is vacant; or
 
-                     (b)  an appointed member, other than the Chairperson, is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of appointed member;
+                     (b)  an appointed member, other than the Chairperson, is absent from duty or from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any other reason, unable to perform the functions of the office of appointed member;
 
-the Minister may, subject to subsection (3), appoint a person to act as the appointed member.
+the Minister may, subject to subsection (3), appoint a person to act as the appointed member.
 
              (3)  The Minister may appoint a person to act as a member referred to in paragraph 20(f), (g), (h), (i), (j), (k), (l), (m), (n), (o), (p) or (q) only if the person has the background, knowledge or expertise specified in the applicable paragraph.
 
@@ -792,7 +802,7 @@ the Chairperson is not, unless the Minister otherwise directs in writing, entitl
 
 ##### <a id="25"></a>25  Remuneration and allowances of other Council members
 
-             (1)  Subject to subsection (2), a Council member, other than the Chairperson, is to be paid:
+             (1)  Subject to subsection (2), a Council member, other than the Chairperson, is to be paid:
 
                      (a)  such remuneration, by way of sitting fees, as is determined by the Remuneration Tribunal but, if no determination of the Tribunal is in force, such remuneration as is prescribed; and
 
@@ -806,9 +816,9 @@ the Chairperson is not, unless the Minister otherwise directs in writing, entitl
 
 the member is not entitled to remuneration under this Act.
 
-          (2A)  Subsection (2) does not prevent remuneration of the Chief Executive Officer as described in section 44C.
+          (2A)  Subsection (2) does not prevent remuneration of the Chief Executive Officer as described in section 44C.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="26"></a>26  Leave of absence
 
@@ -834,15 +844,15 @@ the member is not entitled to remuneration under this Act.
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
-                     (b)  is absent, except on leave of absence granted under section 26:
+                     (b)  is absent, except on leave of absence granted under section 26:
 
                               (i)  in the case of a full-time Chairperson for 14 consecutive days or for 28 days in any 12 months; or
 
-                             (ii)  in the case of a part-time appointed member, from 3 consecutive meetings of the Council; or
+                             (ii)  in the case of a part-time appointed member, from 3 consecutive meetings of the Council; or
 
-                     (c)  fails, without reasonable excuse, to comply with an obligation imposed by section 29.
+                     (c)  fails, without reasonable excuse, to comply with an obligation imposed by section 29.
 
-             (3)  The Minister must terminate the appointment of a person appointed under paragraph 20(d) on the nomination of the Minister (the nominator) having administrative responsibility for a State or Territory health instrumentality if the nominator asks the Minister to terminate that person’s appointment.
+             (3)  The Minister must terminate the appointment of a person appointed under paragraph 20(d) on the nomination of the Minister (the nominator) having administrative responsibility for a State or Territory health instrumentality if the nominator asks the Minister to terminate that person’s appointment.<o:p></o:p>
 
              (4)  If the Minister terminates a member’s appointment, the Minister must give the member a written notice:
 
@@ -864,7 +874,7 @@ a written statement of any interest the Chairperson or the member has that may r
 
              (2)  A member who has an interest in a matter being considered or about to be considered by the Council at a Council meeting or otherwise must, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of the interest at a Council meeting or, if the matter is to be decided before a Council meeting takes place, to the Minister or Chairperson.
 
-             (3)  A member who has disclosed an interest in a matter under subsection (2) must not, unless the Minister or the Chairperson otherwise determines:
+             (3)  A member who has disclosed an interest in a matter under subsection (2) must not, unless the Minister or the Chairperson otherwise determines:
 
                      (a)  be present when the Council considers the matter; or
 
@@ -874,13 +884,15 @@ a written statement of any interest the Chairperson or the member has that may r
 
              (5)  A member’s disclosure, given otherwise than at a Council meeting, must be recorded in the minutes of the first Council meeting after the disclosure.
 
-### Division 2—Procedure of the Council
+<o:p> </o:p>
+
+### Division 2—Procedure of the Council
 
 ##### <a id="30"></a>30  Meetings of the Council
 
              (1)  The Chairperson must convene at least one Council meeting in each calendar year and may convene such other Council meetings as he or she considers necessary for the Council to perform its functions efficiently.
 
-             (2)  If the Chairperson receives a written request signed by at least 10 members of the Council, the Chairperson must convene a meeting of the Council.
+             (2)  If the Chairperson receives a written request signed by at least 10 members of the Council, the Chairperson must convene a meeting of the Council.
 
              (3)  Members of the Council must be given reasonable notice of a meeting.
 
@@ -890,11 +902,11 @@ a written statement of any interest the Chairperson or the member has that may r
 
 ##### <a id="31"></a>31  Quorum
 
-             (1)  Subject to subsections (2) and (3), a quorum at a Council meeting is constituted by a majority of the members.
+             (1)  Subject to subsections (2) and (3), a quorum at a Council meeting is constituted by a majority of the members.
 
              (2)  If, at a meeting, the Council proposes to make a regulatory recommendation or an interim regulatory recommendation, the quorum at the meeting must include a majority of the State and Territory members.
 
-             (3)  If the Commonwealth member or a State or Territory member is unable to attend a Council meeting, attendance at the meeting by another nominee of the Minister, or of the Minister having administrative responsibility for the State or Territory health instrumentality concerned, as the case requires, is to be treated as attendance by the member.
+             (3)  If the Commonwealth member or a State or Territory member is unable to attend a Council meeting, attendance at the meeting by another nominee of the Minister, or of the Minister having administrative responsibility for the State or Territory health instrumentality concerned, as the case requires, is to be treated as attendance by the member.<o:p></o:p>
 
 ##### <a id="32"></a>32  Conduct of meetings
 
@@ -918,7 +930,9 @@ a written statement of any interest the Chairperson or the member has that may r
 
              (2)  The member presiding at a Council meeting has a deliberative vote, and, if there is an equality of votes, also has a casting vote.
 
-## Part 5—Committees
+<o:p> </o:p>
+
+## Part 5—Committees
 
 ##### <a id="35"></a>35  Principal Committees
 
@@ -930,7 +944,7 @@ a written statement of any interest the Chairperson or the member has that may r
 
                      (b)  to monitor the use of assistance provided from the Account; and
 
-                     (c)  to advise the Council on matters relating to medical research and public health research, including the quality and scope of such research in Australia; and
+                     (c)  to advise the Council on matters relating to medical research and public health research, including the quality and scope of such research in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and
 
                      (d)  such other functions as the Minister from time to time determines.
 
@@ -942,7 +956,7 @@ a written statement of any interest the Chairperson or the member has that may r
 
                      (c)  such other functions as the Minister from time to time determines.
 
-             (4)  Where guidelines are issued by the Council under subsection (3), such guidelines are to be laid before each House of the Parliament within 15 sitting days of that House of the issuing of the guidelines.
+             (4)  Where guidelines are issued by the Council under subsection (3), such guidelines are to be laid before each House of the Parliament within 15 sitting days of that House of the issuing of the guidelines.
 
              (5)  The Minister may establish such other Principal Committees as the Minister thinks are necessary to assist the Council to carry out any of its functions, and the Minister may abolish any such Committee.
 
@@ -952,9 +966,9 @@ a written statement of any interest the Chairperson or the member has that may r
 
                      (b)  must have as its Chairperson a person who is not a member of the Research Committee.
 
-             (7)  The Minister must determine the name and functions of a Principal Committee established under subsection (5).
+             (7)  The Minister must determine the name and functions of a Principal Committee established under subsection (5).
 
-             (8)  The Australian Health Ethics Committee is constituted as provided in section 36.
+             (8)  The Australian Health Ethics Committee is constituted as provided in section 36.
 
              (9)  A Principal Committee other than the Australian Health Ethics Committee must be constituted by:
 
@@ -964,11 +978,11 @@ a written statement of any interest the Chairperson or the member has that may r
 
            (10)  The Minister must not determine:
 
-                     (a)  any functions of the Research Committee additional to those referred to in paragraphs (2)(a), (b) and (c); or
+                     (a)  any functions of the Research Committee additional to those referred to in paragraphs (2)(a), (b) and (c); or
 
-                     (b)  any functions of the Australian Health Ethics Committee additional to those referred to in paragraph (3)(a) or (b); or
+                     (b)  any functions of the Australian Health Ethics Committee additional to those referred to in paragraph (3)(a) or (b); or
 
-                     (c)  the name and functions of a Principal Committee established under subsection (5); or
+                     (c)  the name and functions of a Principal Committee established under subsection (5); or
 
                      (d)  the number of members to be appointed to a Principal Committee other than the Australian Health Ethics Committee; or
 
@@ -1016,7 +1030,7 @@ unless the Minister has sought and received the advice of the Council in relatio
 
              (2)  There must be included among the members of the Committee individuals who collectively have membership of all the other Principal Committees.
 
-             (3)  Subject to subsections (4), (5) and (6), the Minister must appoint the members of the Australian Health Ethics Committee.
+             (3)  Subject to subsections (4), (5) and (6), the Minister must appoint the members of the Australian Health Ethics Committee.
 
              (4)  The Minister must not appoint a person as Chairperson unless:
 
@@ -1024,7 +1038,7 @@ unless the Minister has sought and received the advice of the Council in relatio
 
                      (b)  the Minister is satisfied that the person has expertise relevant to the functions of the Committee.
 
-             (5)  The Minister must not appoint the member referred to in paragraph 36(1)(b) unless:
+             (5)  The Minister must not appoint the member referred to in paragraph 36(1)(b) unless:
 
                      (a)  the Minister has consulted with the Health Minister of each State or Territory; and
 
@@ -1032,23 +1046,23 @@ unless the Minister has sought and received the advice of the Council in relatio
 
              (6)  The Minister must:
 
-                     (a)  before appointing the member referred to in paragraph 36(1)(c), seek nominations from such bodies representing the legal profession as are prescribed for the purpose; and
+                     (a)  before appointing the member referred to in paragraph 36(1)(c), seek nominations from such bodies representing the legal profession as are prescribed for the purpose; and
 
-                     (b)  before appointing the members referred to in paragraphs 36(1)(d), (f) and (h), seek nominations from such learned academies as are prescribed for the purpose; and
+                     (b)  before appointing the members referred to in paragraphs 36(1)(d), (f) and (h), seek nominations from such learned academies as are prescribed for the purpose; and
 
-                     (c)  before appointing the member referred to in paragraph 36(1)(e), seek nominations from such peak religious bodies as are prescribed for the purpose; and
+                     (c)  before appointing the member referred to in paragraph 36(1)(e), seek nominations from such peak religious bodies as are prescribed for the purpose; and
 
-                     (d)  before appointing the member referred to in paragraph 36(1)(g), seek nominations from such peak public health bodies as are prescribed for the purpose; and
+                     (d)  before appointing the member referred to in paragraph 36(1)(g), seek nominations from such peak public health bodies as are prescribed for the purpose; and
 
-                     (e)  before appointing the member referred to in paragraph 36(1)(i), seek nominations from such bodies representing the medical profession as are prescribed for the purpose; and
+                     (e)  before appointing the member referred to in paragraph 36(1)(i), seek nominations from such bodies representing the medical profession as are prescribed for the purpose; and
 
-                      (f)  before appointing the member referred to in paragraph 36(1)(j), seek nominations from such bodies representing the nursing and allied health professions as are prescribed for the purpose; and
+                      (f)  before appointing the member referred to in paragraph 36(1)(j), seek nominations from such bodies representing the nursing and allied health professions as are prescribed for the purpose; and
 
-                     (g)  before appointing the member referred to in paragraph 36(1)(k), seek nominations from such bodies responsible for maintaining professional medical standards as are prescribed for the purpose; and
+                     (g)  before appointing the member referred to in paragraph 36(1)(k), seek nominations from such bodies responsible for maintaining professional medical standards as are prescribed for the purpose; and
 
-                     (h)  before appointing the member referred to in paragraph 36(1)(l), seek nominations from such peak consumer organisations as are prescribed for the purpose; and
+                     (h)  before appointing the member referred to in paragraph 36(1)(l), seek nominations from such peak consumer organisations as are prescribed for the purpose; and
 
-                      (i)  before appointing the member referred to in paragraph 36(1)(m), seek nominations from such peak bodies representing people with a disability as are prescribed for the purpose.
+                      (i)  before appointing the member referred to in paragraph 36(1)(m), seek nominations from such peak bodies representing people with a disability as are prescribed for the purpose.
 
 ##### <a id="37"></a>37  Executive Committee
 
@@ -1064,7 +1078,7 @@ unless the Minister has sought and received the advice of the Council in relatio
 
                      (d)  such number of other Council members as the Council determines.
 
-             (3)  The members referred to in paragraph (2)(d) are to be appointed by the Council as part-time members for a period, not exceeding 3 years, specified in the instrument of appointment.
+             (3)  The members referred to in paragraph (2)(d) are to be appointed by the Council as part-time members for a period, not exceeding 3 years, specified in the instrument of appointment.
 
              (4)  Each member so appointed holds office for a period, not exceeding 3 years, that is specified in the instrument of appointment, but is eligible for reappointment.
 
@@ -1092,7 +1106,7 @@ unless the Minister has sought and received the advice of the Council in relatio
 
              (4)  If the Chairperson of a Principal Committee or of the Executive Committee is absent from Australia or is unable because of illness or for any other reason to perform any of the functions or duties, or exercise any of the powers, of his or her office, the Deputy Chairperson of that Committee may perform those functions or duties or exercise those powers.
 
-             (5)  When the Deputy Chairperson of a Principal Committee or of the Executive Committee is performing functions or duties or exercising powers under subsection (4), a reference in this Act to the Chairperson of that Committee is taken to be a reference to the Deputy Chairperson of that Committee.
+             (5)  When the Deputy Chairperson of a Principal Committee or of the Executive Committee is performing functions or duties or exercising powers under subsection (4), a reference in this Act to the Chairperson of that Committee is taken to be a reference to the Deputy Chairperson of that Committee.
 
 ##### <a id="38"></a>38  Matters concerning a Principal Committee or the Executive Committee to be determined by the Council
 
@@ -1124,7 +1138,7 @@ unless the Minister has sought and received the advice of the Council in relatio
 
              (4)  A member of the working committee holds office for the period, not exceeding 3 years, that is specified in the instrument of appointment, but is eligible for reappointment.
 
-             (5)  If the Council or a Principal Committee establishes a working committee under subsection (1), the Council or the Principal Committee, as the case may be, must determine:
+             (5)  If the Council or a Principal Committee establishes a working committee under subsection (1), the Council or the Principal Committee, as the case may be, must determine:
 
                      (a)  the functions of the working committee; and
 
@@ -1148,19 +1162,19 @@ unless the Minister has sought and received the advice of the Council in relatio
 
              (1)  The Chairperson of a committee may enter into an arrangement for a person or persons to help the committee carry out its functions.
 
-             (2)  An arrangement under subsection (1) may provide for the assistance to be provided on such terms and conditions, other than terms and conditions relating to remuneration and allowances, as the Chairperson thinks appropriate.
+             (2)  An arrangement under subsection (1) may provide for the assistance to be provided on such terms and conditions, other than terms and conditions relating to remuneration and allowances, as the Chairperson thinks appropriate.
 
 ##### <a id="41"></a>41  Remuneration and allowances of committee members and others
 
              (1)  If the Chairperson of the Council is also a member of a committee, he or she is to be paid, in respect of his or her duties as such a member, such allowances as are prescribed.
 
-             (2)  Subject to subsection (4), a member of a committee (other than the Chairperson of the Council) is to be paid, in respect of his or her duties as a committee member:
+             (2)  Subject to subsection (4), a member of a committee (other than the Chairperson of the Council) is to be paid, in respect of his or her duties as a committee member:
 
                      (a)  such remuneration, by way of sitting fees, as is determined by the Remuneration Tribunal but, if no determination of that Tribunal is in force, such remuneration as is prescribed; and
 
                      (b)  such allowances as are prescribed.
 
-             (3)  A person who, under an arrangement made under section 40 or 48, assists the committee to carry out its functions, is entitled to be paid such allowances as are prescribed.
+             (3)  A person who, under an arrangement made under section 40 or 48, assists the committee to carry out its functions, is entitled to be paid such allowances as are prescribed.
 
              (4)  If a member of a committee:
 
@@ -1204,13 +1218,13 @@ the member is not entitled to remuneration under this Act in respect of the perf
 
 for misbehaviour or for physical or mental incapacity.
 
-             (2)  The appropriate authority must terminate the appointment of a person referred to in paragraph (1)(a), (b) or (c) if the person:
+             (2)  The appropriate authority must terminate the appointment of a person referred to in paragraph (1)(a), (b) or (c) if the person:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
-                     (b)  is absent, except on leave of absence granted under section 42, without a reasonable excuse; or
+                     (b)  is absent, except on leave of absence granted under section 42, without a reasonable excuse; or
 
-                     (c)  fails, without reasonable excuse, to disclose any interest required to be disclosed under section 29 or because of a determination under subparagraph 38(b)(vi) or 39(5)(b)(vi).
+                     (c)  fails, without reasonable excuse, to disclose any interest required to be disclosed under section 29 or because of a determination under subparagraph 38(b)(vi) or 39(5)(b)(vi).
 
              (3)  If a person’s appointment is terminated, the appropriate authority must give the person a written notice:
 
@@ -1230,7 +1244,9 @@ for misbehaviour or for physical or mental incapacity.
 
                      (d)  in the case of a working committee established by a Principal Committee—the Chairperson of that Principal Committee.
 
-## Part 5A—Chief Executive Officer
+<o:p> </o:p>
+
+## Part 5A—Chief Executive Officer
 
 ##### <a id="44A"></a>44A  Chief Executive Officer
 
@@ -1286,7 +1302,9 @@ for misbehaviour or for physical or mental incapacity.
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-## Part 6—Staff, consultants and work arrangements
+<o:p> </o:p>
+
+## Part 6—Staff, consultants and work arrangements
 
 ##### <a id="45"></a>45  Staff of the Council
 
@@ -1298,7 +1316,7 @@ for misbehaviour or for physical or mental incapacity.
 
                      (a)  a member of the staff of the Council;
 
-                     (b)  an officer or employee of the Department performing services under arrangements made under subsection (2);
+                     (b)  an officer or employee of the Department performing services under arrangements made under subsection (2);
 
                      (c)  an officer or employee mentioned in paragraph 48(1)(d) performing services under arrangements with a person mentioned in paragraph 48(1)(a) or (b).
 
@@ -1326,11 +1344,13 @@ for:
 
                      (d)  the services of officers or employees of that Agency, Department or authority to be made available to the Council or a committee; or
 
-                     (e)  officers or employees of that Agency, Department or authority and the members or staff of the Council, the members of a committee, or persons assisting a committee under section 40, to co-operate in the performance of their functions; or
+                     (e)  officers or employees of that Agency, Department or authority and the members or staff of the Council, the members of a committee, or persons assisting a committee under section 40, to co-operate in the performance of their functions; or
 
                       (f)  the resources of that Agency, Department or authority to be made available to be used by the Council, a committee or such a person.
 
              (2)  The Council may make arrangements with the chief officer of a State or Territory Department or authority relating to any matter within the scope of the Council’s functions, including arrangements for the Council to undertake activities on behalf of a State or Territory Department or authority.
+
+<o:p> </o:p>
 
 ## Part 7—Medical Research Endowment Account
 
@@ -1366,23 +1386,23 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (b)  any other purpose that is prescribed for the purpose of this section.
 
-             (2)  Subject to subsection (2A), assistance under subsection (1) is to be provided in such cases and subject to such conditions as the Minister, acting on the advice of the Council, determines.
+             (2)  Subject to subsection (2A), assistance under subsection (1) is to be provided in such cases and subject to such conditions as the Minister, acting on the advice of the Council, determines.
 
-          (2A)  The Chief Executive Officer must notify the recipients of grants of assistance by the date set out in the timetable published under section 11A for that category of grants.
+          (2A)  The Chief Executive Officer must notify the recipients of grants of assistance by the date set out in the timetable published under section 11A for that category of grants.
 
-             (3)  Without limiting the generality of the conditions to which a grant of assistance can be made under subparagraphs (1)(a)(i), (ii) or (iii), such assistance must not be provided unless the recipient agrees to comply with guidelines in force under subparagraph 7(1)(a)(v) that relate to the conduct of medical research involving humans.
+             (3)  Without limiting the generality of the conditions to which a grant of assistance can be made under subparagraphs (1)(a)(i), (ii) or (iii), such assistance must not be provided unless the recipient agrees to comply with guidelines in force under subparagraph 7(1)(a)(v) that relate to the conduct of medical research involving humans.
 
 ##### <a id="52"></a>52  Application of gifts or bequests
 
-             (1)  Despite anything in this Act (other than subsection (2) of this section) or in the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act), any money that is:
+             (1)  Despite anything in this Act (other than subsection (2) of this section) or in the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act), any money that is:
 
-                     (a)  held by the Minister on trust for the purposes of the Account; or
+                     (a)  held by the Minister for Finance on trust for the purposes of the Account; or
 
-                     (b)  accepted by the Minister for the purposes of the Account subject to a condition;
+                     (b)  accepted by the Minister for Finance for the purposes of the Account subject to a condition;
 
-is not to be dealt with except in accordance with the obligations of the Minister as trustee of the trust or as the person who has accepted the money subject to the condition, as the case may be.
+is not to be dealt with except in accordance with the obligations of the Minister for Finance as trustee of the trust or as the person who has accepted the money subject to the condition, as the case may be.
 
-             (2)  Separate accounts are to be kept of each sum of money standing to the credit of the Account that represents an amount to which subsection (1) has a separate application.
+             (2)  Separate accounts are to be kept of each sum of money standing to the credit of the Account that represents an amount to which subsection (1) has a separate application.
 
 ##### <a id="53"></a>53  Money repaid to the Commonwealth
 
@@ -1400,19 +1420,21 @@ is not to be dealt with except in accordance with the obligations of the Ministe
 
                      (b)  money had been accepted by the Minister for Finance for the purposes of the previous Fund subject to a condition;
 
-section 52 applies, on and after that day, in relation to so much of the Fund as represents that money or the income derived from the investment of that money as if:
+section 52 applies, on and after that day, in relation to so much of the Fund as represents that money or the income derived from the investment of that money as if:
 
                      (c)  that money were held by the Minister for Finance on trust for the purposes of the Fund; or
 
                      (d)  that money had been accepted by the Minister for Finance for the purposes of the Fund subject to that condition.
 
-             (4)  Despite the repeal of the _Medical Research Endowment Act 1937_, section 9 of that Act continues in force on and after the proclaimed day in relation to a year ending before the proclaimed day as if that repeal had not been made.
+             (4)  Despite the repeal of the _Medical Research Endowment Act 1937_, section 9 of that Act continues in force on and after the proclaimed day in relation to a year ending before the proclaimed day as if that repeal had not been made.
 
-             (5)  If the proclaimed day is not a 1 January, section 83 has effect, in respect of the year in which the proclaimed day is included, as if references in that section to a recommendation under paragraph (1)(c) included not only a recommendation for the application of the Fund but also for the application of the previous Fund.
+             (5)  If the proclaimed day is not a 1 January, section 83 has effect, in respect of the year in which the proclaimed day is included, as if references in that section to a recommendation under paragraph (1)(c) included not only a recommendation for the application of the Fund but also for the application of the previous Fund.
 
-## Part 8—Commissioner of Complaints
+<o:p> </o:p>
 
-### Division 1—Establishment and functions of Commissioner of Complaints
+## Part 8—Commissioner of Complaints
+
+### Division 1—Establishment and functions of Commissioner of Complaints
 
 ##### <a id="55"></a>55  Commissioner of Complaints
 
@@ -1438,7 +1460,7 @@ in the course of a reviewable action.
 
 ##### <a id="57"></a>57  Who may complain
 
-                   A person whose interests are affected by a reviewable action may apply to the Commissioner to investigate a complaint concerning the action made on one or more of the grounds set out in section 58.
+                   A person whose interests are affected by a reviewable action may apply to the Commissioner to investigate a complaint concerning the action made on one or more of the grounds set out in section 58.
 
 ##### <a id="58"></a>58  Grounds for complaint
 
@@ -1480,7 +1502,7 @@ in the course of a reviewable action.
 
 ##### <a id="60"></a>60  Commissioner to investigate complaints
 
-                   Subject to section 61, the Commissioner must investigate a complaint concerning reviewable action.
+                   Subject to section 61, the Commissioner must investigate a complaint concerning reviewable action.
 
 ##### <a id="61"></a>61  Discretion not to investigate
 
@@ -1512,7 +1534,7 @@ if:
 
                      (b)  the Commissioner believes that a complaint concerning the action:
 
-                              (i)  could have been made by the complainant to the Privacy Commissioner under Part V of the _Privacy Act 1988_; and
+                              (i)  could have been made by the complainant to the Privacy Commissioner under Part V of the _Privacy Act 1988_; and
 
                              (ii)  could be more conveniently or effectively dealt with by the Privacy Commissioner;
 
@@ -1522,7 +1544,7 @@ the Commissioner may decide:
 
                      (d)  to discontinue any investigation of the complaint already commenced.
 
-             (5)  If the Commissioner decides, under subsection (4):
+             (5)  If the Commissioner decides, under subsection (4):
 
                      (a)  not to investigate a complaint; or
 
@@ -1536,9 +1558,11 @@ the Commissioner must:
 
                      (e)  as soon as possible after transferring the complaint, give the complainant a written notice that informs the complainant of the transfer.
 
-             (6)  A complaint transferred under subsection (5) is taken to be a complaint made to the Privacy Commissioner under Part V of the _Privacy Act 1988_.
+             (6)  A complaint transferred under subsection (5) is taken to be a complaint made to the Privacy Commissioner under Part V of the _Privacy Act 1988_.
 
-### Division 2—Procedure and powers of Commissioner
+<o:p> </o:p>
+
+### Division 2—Procedure and powers of Commissioner
 
 ##### <a id="62"></a>62  Council to be informed of investigation
 
@@ -1570,13 +1594,13 @@ that the Commissioner has reasonable grounds for believing are relevant to the i
 
                      (b)  a member of the Council;
 
-                     (c)  a member of the staff of the Council referred to in section 45;
+                     (c)  a member of the staff of the Council referred to in section 45;
 
                      (d)  a member of a committee;
 
-                     (e)  a consultant engaged under section 46;
+                     (e)  a consultant engaged under section 46;
 
-                      (f)  a person assisting a committee in the performance of its functions under an arrangement under section 40 or 48.
+                      (f)  a person assisting a committee in the performance of its functions under an arrangement under section 40 or 48.
 
 ##### <a id="65"></a>65  Immunity from penalty
 
@@ -1596,15 +1620,15 @@ in response to a request from the Commissioner, the person is not subject to any
 
                    If the Commissioner:
 
-                     (a)  has investigated a complaint concerning reviewable action under section 60; and
+                     (a)  has investigated a complaint concerning reviewable action under section 60; and
 
-                     (b)  concludes that the action was affected by one of the grounds of complaint set out in section 58;
+                     (b)  concludes that the action was affected by one of the grounds of complaint set out in section 58;
 
 the Commissioner:
 
                      (c)  must report to the Council about the complaint; and
 
-                     (d)  may make one or more of the recommendations set out in section 67 to the Council in relation to the complaint.
+                     (d)  may make one or more of the recommendations set out in section 67 to the Council in relation to the complaint.
 
 ##### <a id="67"></a>67  Recommendations
 
@@ -1632,7 +1656,9 @@ the Commissioner:
 
                    The Commissioner must, as soon as practicable after the end of each calendar year, give the Council a written report of the Commissioner’s activities during that year.
 
-### Division 3—Appointment, terms and conditions of Commissioner
+<o:p> </o:p>
+
+### Division 3—Appointment, terms and conditions of Commissioner
 
 ##### <a id="69"></a>69  Appointment of Commissioner
 
@@ -1656,7 +1682,7 @@ the Commissioner:
 
              (1)  The Commissioner holds office for the period determined by the Minister and specified in the Commissioner’s instrument of appointment.
 
-             (2)  The period determined by the Minister under subsection (1) must not exceed 3 years.
+             (2)  The period determined by the Minister under subsection (1) must not exceed 3 years.
 
              (3)  The Commissioner is eligible for reappointment.
 
@@ -1716,13 +1742,13 @@ the Commissioner:
 
              (2)  If, in relation to the investigation of a complaint:
 
-                     (a)  the Commissioner discloses an interest under subsection (1); and
+                     (a)  the Commissioner discloses an interest under subsection (1); and
 
                      (b)  the complainant or the Minister does not agree to the Commissioner proceeding with the investigation;
 
 the Minister may appoint a person to perform the functions and exercise the powers of the Commissioner in relation to the complaint.
 
-             (3)  A person appointed by the Minister under subsection (2) is to be appointed:
+             (3)  A person appointed by the Minister under subsection (2) is to be appointed:
 
                      (a)  on such terms and conditions; and
 
@@ -1730,7 +1756,7 @@ the Minister may appoint a person to perform the functions and exercise the powe
 
 as the Minister determines.
 
-             (4)  Any recommendation made by a person appointed under subsection (2) in relation to a complaint has the same effect as if it had been made by the Commissioner.
+             (4)  Any recommendation made by a person appointed under subsection (2) in relation to a complaint has the same effect as if it had been made by the Commissioner.
 
 ##### <a id="77"></a>77  Termination of appointment of Commissioner
 
@@ -1740,9 +1766,9 @@ as the Minister determines.
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors to make an assignment of his or her remuneration for their benefit; or
 
-                     (b)  without reasonable excuse is absent except on leave of absence granted under section 75; or
+                     (b)  without reasonable excuse is absent except on leave of absence granted under section 75; or
 
-                     (c)  fails, without reasonable excuse, to comply with the obligation imposed by section 76.
+                     (c)  fails, without reasonable excuse, to comply with the obligation imposed by section 76.
 
              (3)  If the Minister terminates the Commissioner’s appointment, the Minister must give the Commissioner a written notice:
 
@@ -1770,9 +1796,11 @@ if the Commissioner has such possession or notice because of the performance or 
 
 ##### <a id="79"></a>79  Protection from civil actions
 
-                   No civil proceedings may be brought against the Commissioner or a person assisting the Commissioner under an arrangement made under section 72 in relation to loss, damage, or injury of any kind suffered by a person in the course of the proper performance or exercise of the functions or powers of the Commissioner or of the person assisting the Commissioner under this Act.
+                   No civil proceedings may be brought against the Commissioner or a person assisting the Commissioner under an arrangement made under section 72 in relation to loss, damage, or injury of any kind suffered by a person in the course of the proper performance or exercise of the functions or powers of the Commissioner or of the person assisting the Commissioner under this Act.
 
-## Part 9—Miscellaneous
+<o:p> </o:p>
+
+## Part 9—Miscellaneous
 
 ##### <a id="80"></a>80  Confidential commercial information
 
@@ -1780,7 +1808,7 @@ if the Commissioner has such possession or notice because of the performance or 
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
 
-                    <a name="inform-provid"></a>**_information provider_** means a person who provides confidential commercial information to a person referred to in subsection (2).
+                    <a name="inform-provid"></a>**_information provider_** means a person who provides confidential commercial information to a person referred to in subsection (2).
 
              (2)  A person who is:
 
@@ -1788,11 +1816,11 @@ if the Commissioner has such possession or notice because of the performance or 
 
                      (b)  the Commissioner; or
 
-                     (c)  a member of the staff of the Council referred to in section 45; or
+                     (c)  a member of the staff of the Council referred to in section 45; or
 
                      (d)  a member of a committee; or
 
-                     (e)  a consultant engaged under section 46; or
+                     (e)  a consultant engaged under section 46; or
 
                       (f)  a person assisting a committee or the Commissioner in the performance of functions under this Act;
 
@@ -1804,11 +1832,11 @@ must not disclose any information in respect of any matter under consideration b
 
                     Penalty:  Imprisonment for 2 years
 
-             (3)  Subsection (2) does not apply to anything done in the performance of duties, or in the exercise of powers or functions, under this Act.
+             (3)  Subsection (2) does not apply to anything done in the performance of duties, or in the exercise of powers or functions, under this Act.
 
-             (4)  Subsection (2) does not preclude the disclosure of confidential commercial information to a court in any proceeding, but the court must do all things necessary to prevent disclosure of that information to any other person, except for the purposes of the proceedings.
+             (4)  Subsection (2) does not preclude the disclosure of confidential commercial information to a court in any proceeding, but the court must do all things necessary to prevent disclosure of that information to any other person, except for the purposes of the proceedings.
 
-             (5)  Despite subsection (2), the Chairperson may deal with confidential commercial information acquired by a member, consultant or person assisting a committee referred to in that subsection because of being such a member, consultant or person assisting a committee, in the following ways:
+             (5)  Despite subsection (2), the Chairperson may deal with confidential commercial information acquired by a member, consultant or person assisting a committee referred to in that subsection because of being such a member, consultant or person assisting a committee, in the following ways:
 
                      (a)  if the Minister certifies in writing that it is necessary in the public interest for the information to be disclosed to a specified person, the Chairperson may disclose the information to that person;
 
@@ -1816,7 +1844,7 @@ must not disclose any information in respect of any matter under consideration b
 
                      (c)  if, in the Chairperson’s opinion, the information provider has expressly or impliedly authorised another person to receive the information, the Chairperson may disclose the information to that other person.
 
-             (6)  Despite subsection (2), the Commissioner may deal with confidential commercial information acquired by the Commissioner or a person assisting the Commissioner because of being the Commissioner or a person assisting the Commissioner, in the following ways:
+             (6)  Despite subsection (2), the Commissioner may deal with confidential commercial information acquired by the Commissioner or a person assisting the Commissioner because of being the Commissioner or a person assisting the Commissioner, in the following ways:
 
                      (a)  if the Minister certifies in writing that it is necessary in the public interest for the information to be disclosed to a specified person, the Commissioner may disclose the information to that person;
 
@@ -1824,7 +1852,7 @@ must not disclose any information in respect of any matter under consideration b
 
                      (c)  if, in the Commissioner’s opinion, the information provider has expressly or impliedly authorised another person to receive the information, the Commissioner may disclose the information to that other person.
 
-             (7)  The Chairperson or the Commissioner must not disclose any confidential information under paragraph (5)(c) or (6)(c) unless he or she:
+             (7)  The Chairperson or the Commissioner must not disclose any confidential information under paragraph (5)(c) or (6)(c) unless he or she:
 
                      (a)  has notified the information provider in writing of his or her intention to disclose the information; and
 
@@ -1840,9 +1868,9 @@ must not disclose any information in respect of any matter under consideration b
 
                      (b)  any person under the control of that person or body;
 
-is subject to the same obligations as a person referred to in subsection (2) who had acquired the information in the circumstances set out in that subsection.
+is subject to the same obligations as a person referred to in subsection (2) who had acquired the information in the circumstances set out in that subsection.
 
-             (9)  Despite subsection (2), the Chairperson may permit the information to be disclosed to:
+             (9)  Despite subsection (2), the Chairperson may permit the information to be disclosed to:
 
                      (a)  the Secretary to a Commonwealth Department; or
 
@@ -1852,15 +1880,15 @@ is subject to the same obligations as a person referred to in subsection (2) w
 
                      (d)  a person assisting a committee;
 
-for the purposes of giving effect to arrangements entered into under section 40 or 48.
+for the purposes of giving effect to arrangements entered into under section 40 or 48.
 
-           (10)  Despite subsection (2), the Commissioner may permit the information to be disclosed to a person assisting the Commissioner for the purposes of giving effect to an arrangement entered into under section 72.
+           (10)  Despite subsection (2), the Commissioner may permit the information to be disclosed to a person assisting the Commissioner for the purposes of giving effect to an arrangement entered into under section 72.
 
            (11)  A person:
 
                      (a)  to whom this section applies; and
 
-                     (b)  to whom confidential commercial information is disclosed under subsection (9) for the purposes of an arrangement under section 40 or 48; and
+                     (b)  to whom confidential commercial information is disclosed under subsection (9) for the purposes of an arrangement under section 40 or 48; and
 
                      (c)  who knows, or has reasonable grounds for believing, that the information is confidential commercial information;
 
@@ -1868,23 +1896,23 @@ must not at any time, directly or indirectly, disclose the information to any pe
 
                     Penalty:  Imprisonment for 2 years
 
-           (12)  Subsection (11) applies to a person who is or was:
+           (12)  Subsection (11) applies to a person who is or was:
 
                      (a)  a Secretary or chief officer of a Commonwealth or State Department; or
 
                      (b)  a chief officer of a Commonwealth or State authority; or
 
-                     (c)  a person under the control of a person mentioned in paragraph (a) or (b).
+                     (c)  a person under the control of a person mentioned in paragraph (a) or (b).
 
-           (13)  The powers conferred by subsections (9) and (10) are in addition to, and not in derogation of, the powers conferred by subsections (5) and (6).
+           (13)  The powers conferred by subsections (9) and (10) are in addition to, and not in derogation of, the powers conferred by subsections (5) and (6).
 
-           (14)  Nothing in subsection (5), (6), (9) or (10) is to be taken to limit the generality of subsection (4) or the operation of subsection (3).
+           (14)  Nothing in subsection (5), (6), (9) or (10) is to be taken to limit the generality of subsection (4) or the operation of subsection (3).
 
 ##### <a id="81"></a>81  Protection from civil actions
 
              (1)  No civil proceedings may be brought against a member in relation to loss, damage or injury of any kind suffered by a person in the course of the proper performance or exercise of the member’s functions or powers under this Act.
 
-             (2)  In subsection (1):
+             (2)  In subsection (1):
 
                     <a name="member"></a>**_member_** means the following:
 
@@ -1902,17 +1930,7 @@ must not at any time, directly or indirectly, disclose the information to any pe
 
 ##### <a id="82"></a>82  Delegation
 
-             (1)  The Minister may delegate the power of the Minister under section 23 to the Secretary to the Department.
-
-          (1A)  The Minister may delegate to the Chief Executive Officer or to an APS employee in the Department the power of the Minister to deal with any money:
-
-                     (a)  held by the Minister on trust for the purposes of the Account; or
-
-                     (b)  accepted by the Minister for the purposes of the Account subject to a condition;
-
-in accordance with the obligations of the Minister as trustee of the trust or as the person who has accepted the money subject to the condition, as the case may be.
-
-          (1B)  However, the Minister must not delegate the power if doing so would be inconsistent with the terms of the trust or with the condition.
+             (1)  The Minister may delegate the power of the Minister under section 23 to the Secretary to the Department.
 
              (2)  The Council may, by resolution, delegate all or any of its powers to all or any of the following:
 
@@ -1926,11 +1944,9 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
                      (c)  the Chief Executive Officer.
 
-             (3)  A Principal Committee may delegate all or any of its powers, including a power delegated to it by the Council, to a working committee established under section 39.
+             (3)  A Principal Committee may delegate all or any of its powers, including a power delegated to it by the Council, to a working committee established under section 39.
 
              (4)  A delegate must exercise a power delegated by the Minister, the Council or a Principal Committee in accordance with any directions of the Minister, the Council or the Principal Committee, as the case requires.
-
-          (4A)  In the case of a delegation under subsection (1A), the Minister must not issue a direction that would be inconsistent with the terms of the trust, or with the condition, mentioned in that subsection.
 
              (5)  A delegation by the Council or by a Principal Committee continues in force despite a change in membership of the Council or Principal Committee, as the case requires.
 
@@ -1938,7 +1954,7 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
              (1)  The Council must, as soon as practicable after the end of each calendar year, give to the Minister a written report of its operations during that year.
 
-             (2)  Without limiting subsection (1), the report must include the following:
+             (2)  Without limiting subsection (1), the report must include the following:
 
                      (a)  details of the membership of the Council;
 
@@ -1950,9 +1966,9 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
                      (e)  details of all recommendations made by the Council during the year to the Commonwealth in the performance of its function under paragraph 7(1)(c);
 
-                      (f)  details of any matter referred to the Council by the Minister under section 9;
+                      (f)  details of any matter referred to the Council by the Minister under section 9;
 
-                     (g)  details of any direction given by the Minister to the Council during the year under section 10;
+                     (g)  details of any direction given by the Minister to the Council during the year under section 10;
 
                      (h)  a copy of the Commissioner’s annual report to the Council for the year;
 
@@ -1962,9 +1978,9 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
 ##### <a id="84"></a>84  Exemption from taxation
 
-             (1)  Subject to subsection (2), the Council is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+             (1)  Subject to subsection (2), the Council is not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
-             (2)  The regulations may provide that subsection (1) does not apply in relation to taxation under a specified law.
+             (2)  The regulations may provide that subsection (1) does not apply in relation to taxation under a specified law.
 
 ##### <a id="85"></a>85  Regulations
 
@@ -1974,15 +1990,17 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
                      (b)  necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
-## Part 10—Transitional
+<o:p> </o:p>
+
+## Part 10—Transitional
 
 ##### <a id="86"></a>86  Existing Council membership
 
-             (1)  The persons who, immediately before the proclaimed day, had been members of the National Health and Medical Research Council established by the NHMRC Order by virtue of an appointment are to be taken, with effect from that day, to have been appointed by the Minister to the Council established under this Act and to be entitled to continue to hold office as members of the Council until 31 December 1993.
+             (1)  The persons who, immediately before the proclaimed day, had been members of the National Health and Medical Research Council established by the NHMRC Order by virtue of an appointment are to be taken, with effect from that day, to have been appointed by the Minister to the Council established under this Act and to be entitled to continue to hold office as members of the Council until 31 December 1993.
 
-             (2)  The persons who, immediately before the proclaimed day, had been members of the National Health and Medical Research Council established by the NHMRC Order by virtue of being chairpersons of Principal Committees established under that Order are to be taken, with effect from that day, because of the operation of section 88 or 89, as the case requires, to be members of the Council established under this Act and to continue to hold office as members of the Council until 31 December 1993 unless the Principal Committee concerned is abolished before that day.
+             (2)  The persons who, immediately before the proclaimed day, had been members of the National Health and Medical Research Council established by the NHMRC Order by virtue of being chairpersons of Principal Committees established under that Order are to be taken, with effect from that day, because of the operation of section 88 or 89, as the case requires, to be members of the Council established under this Act and to continue to hold office as members of the Council until 31 December 1993 unless the Principal Committee concerned is abolished before that day.
 
-             (3)  The person who, immediately before the proclaimed day, had been a member of the National Health and Medical Research Council established by the NHMRC Order, by virtue of being the Secretary to the Council as so established, is to be taken, with effect from that day, to continue to be the Secretary to the Council established by this Act as if the Secretary to the Department had designated the office held by that person in the Department for the purposes of section 22.
+             (3)  The person who, immediately before the proclaimed day, had been a member of the National Health and Medical Research Council established by the NHMRC Order, by virtue of being the Secretary to the Council as so established, is to be taken, with effect from that day, to continue to be the Secretary to the Council established by this Act as if the Secretary to the Department had designated the office held by that person in the Department for the purposes of section 22.
 
 ##### <a id="87"></a>87  Existing Council activities
 
@@ -1996,9 +2014,9 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
                      (b)  the Minister had determined as the constitution of the Committee, a constitution corresponding to the constitution of the Committee as set out in the Order.
 
-             (2)  The persons who, immediately before the proclaimed day, had been members of the Medical Research Committee as established by the NHMRC Order are to be taken, with effect from that day, to have been duly appointed to the Committee as continued in existence under subsection (1) and to be entitled to continue to hold office as members of that Committee until 31 December 1993.
+             (2)  The persons who, immediately before the proclaimed day, had been members of the Medical Research Committee as established by the NHMRC Order are to be taken, with effect from that day, to have been duly appointed to the Committee as continued in existence under subsection (1) and to be entitled to continue to hold office as members of that Committee until 31 December 1993.
 
-             (3)  Any act, matter or thing that was, immediately before the proclaimed day, being done to, by or in respect of the Medical Research Committee as established by the NHMRC Order may, on or after that day, be continued as an act, matter or thing being done to, by or in respect of that Committee as continued in existence under subsection (1).
+             (3)  Any act, matter or thing that was, immediately before the proclaimed day, being done to, by or in respect of the Medical Research Committee as established by the NHMRC Order may, on or after that day, be continued as an act, matter or thing being done to, by or in respect of that Committee as continued in existence under subsection (1).
 
 ##### <a id="89"></a>89  Other existing Principal Committees
 
@@ -2008,28 +2026,28 @@ in accordance with the obligations of the Minister as trustee of the trust or as
 
                      (b)  the Minister had determined as the name, functions and constitution of each committee, a name, functions and constitution, corresponding to the name, functions and constitution set out in the Order.
 
-             (2)  The persons who, immediately before the proclaimed day, had been members of a particular Principal Committee established by the NHMRC Order, other than the Medical Research Committee, are to be taken, with effect from that day, to have been appointed by the Minister to the respective committee as continued in force under subsection (1) and to be entitled to continue to hold office as members of that committee until 31 December 1993 unless the committee as continued in force is abolished before that day.
+             (2)  The persons who, immediately before the proclaimed day, had been members of a particular Principal Committee established by the NHMRC Order, other than the Medical Research Committee, are to be taken, with effect from that day, to have been appointed by the Minister to the respective committee as continued in force under subsection (1) and to be entitled to continue to hold office as members of that committee until 31 December 1993 unless the committee as continued in force is abolished before that day.
 
-             (3)  Any act, matter or thing that was, immediately before the proclaimed day, being done to, by or in respect of a Principal Committee established by the NHMRC Order other than the Medical Research Committee may, on and after that day, be continued as an act, matter or thing being done to, by or in respect of, that committee as continued in existence under subsection (1).
+             (3)  Any act, matter or thing that was, immediately before the proclaimed day, being done to, by or in respect of a Principal Committee established by the NHMRC Order other than the Medical Research Committee may, on and after that day, be continued as an act, matter or thing being done to, by or in respect of, that committee as continued in existence under subsection (1).
 
 ##### <a id="90"></a>90  Existing ethics guidelines
 
-                   The guidelines entitled the“NHMRC Statement on Human Experimentation and Supplementary Notes” in force immediately before the proclaimed day are taken, with effect from that day and with the exception of the Supplementary Note 4, to be in force as if they had been made under subparagraph 7(1)(a)(v) and in compliance with section 8 until they are revised by the Council under this Act.
+                   The guidelines entitled the“NHMRC Statement on Human Experimentation and Supplementary Notes” in force immediately before the proclaimed day are taken, with effect from that day and with the exception of the Supplementary Note 4, to be in force as if they had been made under subparagraph 7(1)(a)(v) and in compliance with section 8 until they are revised by the Council under this Act.
 
 ##### <a id="91"></a>91  References in other laws to NHMRC Statement etc.
 
-                   In any Commonwealth law, or in any document issued under such a law:
+                   In any Commonwealth law, or in any document issued under such a law:
 
                      (a)  a reference to the NHMRC Statement on Human Experimentation and Supplementary Notes is to be treated, on and after the proclaimed day, as if it were a reference to the guidelines in force, or taken to be in force, from time to time, under subparagraph 7(1)(a)(v) of this Act, that relate to the conduct of medical research involving humans; and
 
                      (b)  a reference either to a particular Supplementary Note to that Statement, or to the Statement itself, is to be treated, on and after that day, as if it were a reference to such of those guidelines as relate in particular to the matters the subject of that Supplementary Note or that Statement. 
 
 
-# Notes to the _National Health and Medical Research Council Act 1992_
+# Notes to the _<span style="mso-no-proof: yes">National Health and Medical Research Council Act 1992</span>_
 
 ### Note 1
 
-The _National Health and Medical Research Council Act 1992_ as shown in this compilation comprises Act No. 225, 1992 amended as indicated in the Tables below.
+The _National Health and Medical Research Council Act 1992_ as shown in this compilation comprises Act No. 225, 1992 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2047,23 +2065,23 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
@@ -2076,27 +2094,27 @@ of Assent
       <div>225, 1992</div>
     </td>
     <td>
-      <div>24 Dec 1992</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="24" month="12">24 Dec 1992</st1:date></div>
     </td>
     <td>
-      <div>24 June 1993</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="24" month="6">24 June 1993</st1:date></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Health and Community Services Legislation Amendment Act (No. 2) 1993</div>
+      <div>Health and Community Services Legislation Amendment Act (No. 2) 1993</div>
     </td>
     <td>
       <div>76, 1993</div>
     </td>
     <td>
-      <div>25 Nov 1993</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="25" month="11">25 Nov 1993</st1:date></div>
     </td>
     <td>
-      <div>Ss. 22 and 23: Royal Assent <i>(a)</i></div>
+      <div>Ss. 22 and 23: Royal Assent <i style="mso-bidi-font-style: normal">(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2104,16 +2122,16 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Human Services and Health Legislation Amendment Act (No. 3) 1995</div>
+      <div>Human Services and Health Legislation Amendment Act (No. 3) 1995</div>
     </td>
     <td>
       <div>149, 1995</div>
     </td>
     <td>
-      <div>16 Dec 1995</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="16" month="12">16 Dec 1995</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 79–81): Royal Assent <i>(b)</i></div>
+      <div>Schedule 1 (items 79–81): Royal Assent <i style="mso-bidi-font-style: normal">(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2127,10 +2145,10 @@ of Assent
       <div>152, 1997</div>
     </td>
     <td>
-      <div>24 Oct 1997</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2 (items 973–984): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+      <div>Schedule 2 (items 973–984): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(c)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -2144,10 +2162,10 @@ of Assent
       <div>146, 1999</div>
     </td>
     <td>
-      <div>11 Nov 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 638–644): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+      <div>Schedule 1 (items 638–644): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(d) <o:p></o:p> </i></div>
     </td>
     <td>
       <div>—</div>
@@ -2161,13 +2179,13 @@ of Assent
       <div>6, 2000</div>
     </td>
     <td>
-      <div>7 Mar 2000</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="7" month="3">7 Mar 2000</st1:date></div>
     </td>
     <td>
-      <div>7 Mar 2000</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="7" month="3">7 Mar 2000</st1:date></div>
     </td>
     <td>
-      <div>Sch. 1 (item 17)</div>
+      <div>Sch. 1 (item 17)</div>
     </td>
   </tr>
   <tr>
@@ -2178,10 +2196,10 @@ of Assent
       <div>111, 2001</div>
     </td>
     <td>
-      <div>17 Sept 2001</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="17" month="9">17 Sept 2001</st1:date></div>
     </td>
     <td>
-      <div>17 Sept 2001</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="17" month="9">17 Sept 2001</st1:date></div>
     </td>
     <td>
       <div>S. 4</div>
@@ -2195,18 +2213,18 @@ of Assent
       <div>8, 2005</div>
     </td>
     <td>
-      <div>22 Feb 2005</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
     </td>
     <td>
       <div>S. 4 and Schedule 1 (items 191–201, 496): Royal Assent</div>
     </td>
     <td>
-      <div>S. 4 and Sch. 1 (item 496)</div>
+      <div>S. 4 and Sch. 1 (item 496)</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
+      <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005 <o:p></o:p></div>
     </td>
     <td>
       <div>32, 2005</div>
@@ -2215,45 +2233,28 @@ of Assent
       <div>22 Mar 2005</div>
     </td>
     <td>
-      <div>Schedule 4 (items 25–29): 24 Mar 2005</div>
+      <div>Schedule 4 (items 25–29): 24 Mar 2005</div>
     </td>
     <td>
-      <div>Sch. 4 (item 27)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-    </td>
-    <td>
-      <div>30, 2006</div>
-    </td>
-    <td>
-      <div>6 Apr 2006</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 33–36): 7 Apr 2006</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 36)</div>
+      <div>Sch. 4 (item 27)</div>
     </td>
   </tr>
 </tbody></table>
 
 
-_(a)_     The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
+_(a)_     The _National Health and Medical Research Council Act 1992_ was amended by sections 22 and 23 only of the _Health and Community Services Legislation Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_    The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 79–81) only of the _Human Services and Health Legislation Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
+_(b)_    The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 79–81) only of the _Human Services and Health Legislation Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 2 (items 973–984) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(c)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 2 (items 973–984) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(d)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 638–644) only of the _Public Employment (Consequential and Transitional) Amendment Act 19997_, subsections 2(1) and (2) of which provide as follows:
+_(d)_     The _National Health and Medical Research Council Act 1992_ was amended by Schedule 1 (items 638–644) only of the _Public Employment (Consequential and Transitional) Amendment Act 19997_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -2271,22 +2272,102 @@ _(d)_     The _National Health and Medical Research Council Act 1992_ wa
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4 </div>
+    </td>
+    <td>
+      <div>am. No. 149, 1995; No. 152, 1997; No. 6, 2000; Nos. 8 and 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A </div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8 </div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11A </div>
+    </td>
+    <td>
+      <div>ad. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
       <div></div>
@@ -2294,482 +2375,394 @@ _(d)_     The _National Health and Medical Research Council Act 1992_ wa
   </tr>
   <tr>
     <td>
-      <div>S. 4</div>
+      <div>Ss. 12, 13 </div>
     </td>
     <td>
-      <div>am. No. 149, 1995; No. 152, 1997; No. 6, 2000; Nos. 8 and 32, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 111, 2001</div>
+      <div>rs. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 2</b></div>
+      <div>S. 14 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 8, 2005</div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 8</div>
+      <div>Ss. 14A, 14B </div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 1</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11A</div>
-    </td>
-    <td>
-      <div>ad. No. 6, 2000</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div>S. 16 </div>
     </td>
     <td>
-      <div>am. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 12, 13</div>
+      <div>Heading to s. 18 </div>
     </td>
     <td>
-      <div>rs. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>am. No. 6, 2000</div>
+      <div>rs. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 14A, 14B</div>
+      <div>Ss. 18, 19 </div>
     </td>
     <td>
-      <div>ad. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 16</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 18</div>
-    </td>
-    <td>
-      <div>rs. No. 6, 2000</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 18, 19</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 1</b></div>
+      <div>S. 20 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20</div>
-    </td>
-    <td>
-      <div>am. No. 6, 2000; No. 32, 2005</div>
+      <div>am. No. 6, 2000; No. 32, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 21</div>
+      <div>S. 21 </div>
     </td>
     <td>
-      <div>am. No. 149, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
+      <div>am. No. 149, 1995</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div>S. 22 </div>
     </td>
     <td>
-      <div>rep. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23</div>
-    </td>
-    <td>
-      <div>am. No. 6, 2000</div>
+      <div>am. No. 146, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 25</div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26</div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
+      <div>rep. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 28</div>
+      <div>S. 23 </div>
     </td>
     <td>
-      <div>am. No. 32, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 31</div>
+      <div>S. 25 </div>
     </td>
     <td>
-      <div>am. No. 32, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 5</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 35</div>
+      <div>S. 26 </div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 36</div>
-    </td>
-    <td>
-      <div>am. No. 76, 1993; No. 149, 1995</div>
+      <div>am. No. 146, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 37</div>
+      <div>S. 28 </div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 37A</div>
-    </td>
-    <td>
-      <div>ad. No. 6, 2000</div>
+      <div>am. No. 32, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 38, 39</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 42–44</div>
-    </td>
-    <td>
-      <div>am. No. 6, 2000</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 5A</b></div>
+      <div>S. 31 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 6, 2000</div>
+      <div>am. No. 32, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 44A–44F</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>ad. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 6</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 45</div>
+      <div>S. 35 </div>
     </td>
     <td>
-      <div>am. No. 146, 1999; No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 48</div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
+      <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 7</b></div>
+      <div>S. 36 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 7</div>
-    </td>
-    <td>
-      <div>rs. No. 152, 1997; No. 8, 2005</div>
+      <div>am. No. 76, 1993; No. 149, 1995</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 49, 50</div>
+      <div>S. 37 </div>
     </td>
     <td>
-      <div>rs. No. 152, 1997; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 51</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 8, 2005</div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 51</div>
+      <div>S. 37A </div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 52</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 8, 2005; No. 30, 2006</div>
+      <div>ad. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 53</div>
+      <div>Ss. 38, 39 </div>
     </td>
     <td>
-      <div>rs. No. 152, 1997; No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005</div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 8</b></div>
+      <div>Ss. 42–44 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 56</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 5A <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 67</div>
+      <div>Part 5A </div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 72</div>
+      <div>Ss. 44A–44F </div>
     </td>
     <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 9</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 6, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 81</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 6 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 6, 2000</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 82</div>
+      <div>S. 45 </div>
     </td>
     <td>
-      <div>am. No. 6, 2000; No. 30, 2006</div>
+      <div>am. No. 146, 1999; No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 7 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 7 </div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49, 50 </div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 51 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 6, 2000; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53 </div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am.  No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 8 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56 </div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67 </div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 9 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 81, 82 </div>
+    </td>
+    <td>
+      <div>am. No. 6, 2000</div>
     </td>
   </tr>
 </tbody></table>
@@ -2779,19 +2772,17 @@ _(d)_     The _National Health and Medical Research Council Act 1992_ wa
 
 ### Application, saving or transitional provisions
 
-_Health Legislation Amendment Act (No. 2) 2000 (No. 6, 2000)_
+_Health Legislation Amendment Act (No. 2) 2000 (No. 6, 2000)<o:p></o:p>_
 
-## Schedule 1
+## Schedule 1
 
 ## 17  Application
 
-The amendments of sections 16, 18 and 19 of the _National Health and Medical Research Council Act 1992_ made by this Schedule apply in relation to strategic plans for periods starting after 30 June 2000.
+The amendments of sections 16, 18 and 19 of the _National Health and Medical Research Council Act 1992_ made by this Schedule apply in relation to strategic plans for periods starting after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date>.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
-
-_Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)_
+_Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -2799,11 +2790,9 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
-
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -2819,47 +2808,23 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
+* * *
 
 _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
 
-(No. 32, 2005)_
+(No. 32, 2005)<o:p></o:p>_
 
-## Schedule 4
+## Schedule 4<o:p></o:p>
 
-## 27  Saving provision
+## 27  Saving provision<o:p></o:p>
 
-A person who was appointed by the Minister under section 21 of the _National Health and Medical Research Council Act 1992_, as in force immediately before the day Schedules 1 and 2 to this Act commence, continues to hold office, on and after that day, for the balance of the term of the person’s appointment, as if the person had been duly appointed by the Minister as a person having knowledge of the health needs of Aboriginal persons or Torres Strait Islanders in accordance with the requirements of that Act as amended by this Act.
-
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
-
-_Financial Framework Legislation Amendment Act (No. 1) 2006 (No. 30, 2006)_
-
-## Schedule 1
-
-## 36  Transitional
-
-If, immediately before the commencement of this item:
-
-                     (a)  money was held on trust by the Minister for Finance for the purposes of the Account within the meaning of the _National Health and Medical Research Council Act 1992_; or
-
-                     (b)  money that had been accepted by the Minister for Finance for the purposes of that Account subject to a condition was held by the Minister for Finance;
-
-then, for the purposes of section 52 of the _National Health and Medical Research Council Act 1992_ as amended by this Part, the money is instead:
-
-                     (c)  if paragraph (a) applies—held on trust for the same purposes by the Minister mentioned in that section; or
-
-                     (d)  if paragraph (b) applies—held and accepted subject to the same condition by the Minister mentioned in that section.
+A person who was appointed by the Minister under section 21 of the _National Health and Medical Research Council Act 1992_, as in force immediately before the day Schedules 1 and 2 to this Act commence, continues to hold office, on and after that day, for the balance of the term of the person’s appointment, as if the person had been duly appointed by the Minister as a person having knowledge of the health needs of Aboriginal persons or Torres Strait Islanders in accordance with the requirements of that Act as amended by this Act.<o:p></o:p>
 
 
- 
+<o:p> </o:p>
