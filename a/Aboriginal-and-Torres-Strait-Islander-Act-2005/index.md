@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 33 of 2010
+This compilation was prepared on 24 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -604,6 +604,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [222](#222).        State or Territory officer may act on certificate
 
+**Schedule 1—List of places for inclusion in regions whose boundaries are determined by the Minister** 
+
 **Schedule 2—Method of counting votes and determining successful candidates at elections for 2 or more members for a TSRA ward** 
 
 **Schedule 2A—Method of determining the successful candidate at an election for a single member for a TSRA ward**
@@ -1182,7 +1184,7 @@ is a purpose for which the TSRA could, in the performance of its functions, make
 
                      (b)  an authority of the State of Queensland (including a local government body);
 
-for the purpose of furthering the social, economic or cultural development of Torres Strait Islanders, or Aboriginal persons, living in the Torres  Strait area.
+for the purpose of furthering the social, economic or cultural development of Torres Strait Islanders, or Aboriginal persons, living in the Torres Strait area.
 
              (2)  The TSRA may make a loan of money to:
 
@@ -1748,7 +1750,7 @@ Members taken to have resigned from TSRA in certain circumstances
 
 the TSRA may, in writing, declare that it is so satisfied.
 
-Member living outside his or her ward in the Torres  Strait area
+Member living outside his or her ward in the Torres Strait area
 
           (1A)  If the TSRA is satisfied that a member of the TSRA for a TSRA ward:
 
@@ -1944,7 +1946,7 @@ Statement to be laid before Parliament if Chairperson removed from office
 
              (3)  The Minister must not grant to the Chairperson of the TSRA leave of absence for a continuous period of more than 6 months unless the grant of that leave is required or expressly permitted by any other law of the Commonwealth.
 
-##### <a id="144"></a>144  Provisions relating to Deputy Chairpersons
+##### <a id="144"></a>144  Provisions relating to Deputy Chairpersons
 
              (1)  The Deputy Chairperson of the TSRA holds office on a part-time basis.
 
@@ -4272,7 +4274,7 @@ Second category A year
 
              (1)  On the first business day in the second category A year, there is to be credited to the Land Account the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image002.gif)
 
 where:
 
@@ -4284,7 +4286,7 @@ Later category A years
 
              (2)  On the first business day in each later category A year, there is to be credited to the Land Account the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image003.gif)
 
 where:
 
@@ -4322,7 +4324,7 @@ Target amount—second category A year
 
              (2)  For the purposes of this section, the **_target amount_** for the second category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image004.gif)
 
 where:
 
@@ -4332,7 +4334,7 @@ Target amount—later category A years
 
              (3)  For the purposes of this section, the **_target amount_** for a later category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image005.gif)
 
 where:
 
@@ -4360,7 +4362,7 @@ Designated funding amount—second category A year
 
              (4)  For the purposes of this Division, the **_designated funding amount_** for the second category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image006.gif)
 
 where:
 
@@ -4370,7 +4372,7 @@ Designated funding amount—third category A year
 
              (5)  For the purposes of this Division, the **_designated funding amount_** for the third category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image007.gif)
 
 where:
 
@@ -4382,7 +4384,7 @@ Designated funding amount—fourth category A year
 
              (6)  For the purposes of this Division, the **_designated funding amount_** for the fourth category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image008.gif)
 
 where:
 
@@ -4394,7 +4396,7 @@ Designated funding amount—later category A years
 
              (7)  For the purposes of this Division, the designated funding amount for a later category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image007.gif)
 
 where:
 
@@ -4430,7 +4432,7 @@ Indexation factor—category A year
 
              (1)  The indexation factor for a category A year is worked out using the following formula (and then rounded under subsection (3)):
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image009.gif)
 
 where:
 
@@ -4444,7 +4446,7 @@ Indexation factor—category B year
 
              (2)  The indexation factor for a category B year is worked out using the following formula (and then rounded under subsection (3)):
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image010.gif)
 
 where:
 
@@ -4620,7 +4622,7 @@ Borrowing limit—second category A year
 
              (4)  For the purposes of this section, the **_borrowing limit_** for the second category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image011.gif)
 
 where:
 
@@ -4630,7 +4632,7 @@ Borrowing limit—third category A year
 
              (5)  For the purposes of this section, the **_borrowing limit_** for the third category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image012.gif)
 
 where:
 
@@ -4646,7 +4648,7 @@ Borrowing limit—fifth category A year
 
              (7)  For the purposes of this section, the **_borrowing limit_** for the fifth category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image013.gif)
 
 where:
 
@@ -4656,7 +4658,7 @@ Borrowing limit—later financial years
 
              (8)  For the purposes of this section, the **_borrowing limit_** for a later financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image012.gif)
 
 where:
 
@@ -4716,7 +4718,7 @@ Guarantee limit—second category A year
 
              (3)  For the purposes of this section, the **_guarantee limit_** for the second category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image014.gif)
 
 where:
 
@@ -4726,7 +4728,7 @@ Guarantee limit—third category A year
 
              (4)  For the purposes of this section, the **_guarantee limit_** for the third category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image015.gif)
 
 where:
 
@@ -4742,7 +4744,7 @@ Guarantee limit—fifth category A year
 
              (6)  For the purposes of this section, the **_guarantee limit_** for the fifth category A year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image013.gif)
 
 where:
 
@@ -4752,7 +4754,7 @@ Guarantee limit—later financial years
 
              (7)  For the purposes of this section, the **_guarantee limit_** for a later financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00098/Html/AbTorStrIsland2005_image015.gif)
 
 where:
 
@@ -5636,9 +5638,203 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
  
 
+# Schedule 1—List of places for inclusion in regions whose boundaries are determined by the Minister
+
+_Note:       See subsection 91(1)_
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>Places included in regions</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Adelaide</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Alice Springs</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Apatula</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ballarat</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Bourke</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Brisbane</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broome</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cairns</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ceduna</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Coffs Harbour</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cooktown</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Darwin</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Derby</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Geraldton</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Hobart</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Jabiru</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Kalgoorlie</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Katherine</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Kununurra</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Mt Isa</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Narrogin</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Nhulunbuy</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Perth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Port Augusta</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Queanbeyan</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Rockhampton</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Roma</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>South Hedland</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Sydney</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tamworth</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tennant Creek</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Townsville</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Wagga Wagga</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Wangaratta</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Warburton</div>
+  </td>
+</tr></table>
+
 # Schedule 2—Method of counting votes and determining successful candidates at elections for 2 or more members for a TSRA ward
 
-_Note:       See section 143E._
+_Sections 111 and 143E_
 
 1.                In a TSRA ward election for 2 or more members for the ward concerned, the scrutiny shall be conducted, and the several vacancies shall be filled, in the manner set out in this Schedule.
 
@@ -5766,7 +5962,7 @@ and any continuing candidate who has received a number of votes equal to or grea
 
 # Schedule 2A—Method of determining the successful candidate at an election for a single member for a TSRA ward
 
-_Note:       See section 143E._
+_Sections 111 and 143E_
 
 ##### <a id="1"></a>1  Absolute majority required for election
 
@@ -6683,23 +6879,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 10 (item 1): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>33, 2010</div>
-  </td>
-  <td>
-    <div>13 Apr 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1–3): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -13426,6 +13605,14 @@ No. 30, 2006</div>
 </tr>
 <tr>
   <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Schedule 1</div>
   </td>
   <td>
@@ -13450,14 +13637,6 @@ No. 30, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 33, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 2</b></div>
   </td>
   <td>
@@ -13470,15 +13649,6 @@ No. 30, 2006</div>
   </td>
   <td>
     <div>rs. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to heading of 
-Schedule 2</div>
-  </td>
-  <td>
-    <div>rs. No. 33, 2010</div>
   </td>
 </tr>
 <tr>
@@ -13503,15 +13673,6 @@ Schedule 2</div>
   </td>
   <td>
     <div>rs. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to heading of 
-Schedule 2A</div>
-  </td>
-  <td>
-    <div>rs. No. 33, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15527,7 +15688,7 @@ If, immediately before Regional Councils abolition day, proceedings to which a R
 
 (3)        If a document purports to be a certificate under subitem (1) signed by a person purporting to be an authorised officer, judicial notice must be taken of the signature of the person and of the fact that the person is or was an authorised officer.
 
-## 52  Exemption from taxation
+## 52  Exemption from taxation
 
 (1)        Any transfer or other dealing under this Part, and any instrument facilitating or evidencing such a transfer or other dealing, is not subject to stamp duty or other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing:
 
@@ -15543,8 +15704,8 @@ Despite the repeal of section 196 of the _Aboriginal and Torres Strait Islande
 
 * * *
 
-_Aboriginal  Land Rights (Northern Territory) Amendment Act 2006
- (No. 93, 2006)_
+_Aboriginal Land Rights (Northern Territory) Amendment Act 2006
+  (No. 93, 2006)_
 
 ## Schedule 1
 
