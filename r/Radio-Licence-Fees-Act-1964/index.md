@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image001.gif)
 
 # Radio Licence Fees Act 1964
 
 **Act No. 119 of 1964 as amended**
 
-This compilation was prepared on 1 July 2005
+This compilation was prepared on 8 April 2005
 taking into account amendments up to Act No. 53 of 2005
 
 The text of any of those amendments not in force
@@ -20,23 +20,23 @@ Canberra
 
 # Contents
 
-[1](#1).            Short title _see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Incorporation of Broadcasting Act                                                      1
+[3](#3).            Incorporation of Broadcasting Act
 
-[4](#4).            Interpretation                                                                                       1
+[4](#4).            Interpretation
 
-[5](#5).            Licence fees                                                                                          2
+[5](#5).            Licence fees
 
-[6](#6).            Amount of fees                                                                                    2
+[6](#6).            Amount of fees
 
-[6A](#6A).         Change of accounting period—effect on fees payable                         4
+[6A](#6A).         Change of accounting period—effect on fees payable
 
-[7](#7).            Earnings of subsidiary companies etc                                                  5
+[7](#7).            Earnings of subsidiary companies etc 
 
-[8](#8).            Regulations                                                                                          6
+[8](#8).            Regulations
 
 **Notes** 
 
@@ -61,7 +61,7 @@ Canberra
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+                    <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established by the _Broadcasting Services Act 1992_.
 
                     <a name="gross-earning"></a>**_gross earnings_**, in respect of a licence in respect of a period, means the gross earnings of the licensee during that period from the broadcasting, by the service provided under the licence, of advertisements or other material.
 
@@ -97,23 +97,23 @@ a fee of an amount equal to the relevant percentage of the gross earnings in res
 
                      (a)  where those gross earnings are less than $5,000,000—the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image002.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image002.gif)</sub>;
 
                      (b)  where those gross earnings are not less than $5,000,000 but are less than $6,000,000—the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image003.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image003.gif)</sub>;
 
                      (c)  where those gross earnings are not less than $6,000,000 but are less than $7,000,000—the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image004.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image004.gif)</sub>;
 
                      (d)  where those gross earnings are not less than $7,000,000 but are less than $10,000,000—the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image005.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image005.gif)</sub>;
 
                      (e)  where those gross earnings are not less than $10,000,000—whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image006.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image006.gif)</sub>;
 
                             where **_A_** is the number of dollars in those gross earnings.
 
@@ -151,29 +151,29 @@ section 6 applies in relation to the fee payable on the anniversary referred t
 
                                          (a)  where **_A_**is less than $5,000,000—the percentage ascertained in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image007.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image007.gif)</sub>;
 
                                          (b)  where **_A_** is not less than $5,000,000 but is less than $6,000,000—the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image008.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image008.gif)</sub>;
 
                                          (c)  where **_A_** is not less than $6,000,000 but is less than $7,000,000—the percentage ascertained in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image009.gif)</sub>;
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image009.gif)</sub>;
 
                                          (d)  where **_A_**is not less than $7,000,000 but is less than $10,000,000—the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image010.gif)</sub>; or
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image010.gif)</sub>; or
 
                                          (e)  where **_A_** is not less than $10,000,000—whichever is the lesser of 3.25% or the percentage ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image011.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image011.gif)</sub>
 
                                                where:
 
                     <a name=""></a>**_A_** is the amount ascertained in accordance with the formula: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2005C00380/Html/81BD0C143283D6F2CA257026000D8FD5/$FILE/image012.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2005C00297/Html/148D66C45FE6491DCA256FE400091D38/$FILE/image012.gif)</sub>
 
                     <a name=""></a>**_B_** is the number of dollars in the gross earnings in respect of the licence during the period; and
 
@@ -181,13 +181,13 @@ section 6 applies in relation to the fee payable on the anniversary referred t
 
 ##### <a id="7"></a>7  Earnings of subsidiary companies etc.
 
-                   Where the ACMA is of the opinion that:
+                   Where the ABA is of the opinion that:
 
                      (a)  an amount, or part of an amount, earned during any period by a person other than a licensee would, if the licensee and that person were the same person, form part of the gross earnings in respect of the licence in respect of that period for the purposes of this Act; and
 
                      (b)  a relationship exists between the licensee and the other person (whether by reason of any shareholding or of any agreement or arrangement, or for any other reason) of such a kind that the amount or the part of the amount, as the case may be, should, for the purposes of this Act, be treated as part of the gross earnings in respect of the licence in respect of that period;
 
-the ACMA may direct that the amount or the part of the amount, as the case may be, shall be so treated.
+the ABA may direct that the amount or the part of the amount, as the case may be, shall be so treated.
 
 ##### <a id="8"></a>8  Regulations
 
@@ -204,7 +204,7 @@ the ACMA may direct that the amount or the part of the amount, as the case may b
 
 The _Radio Licence Fees Act 1964_ as shown in this compilation comprises Act No.  119, 1964 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 April 2005 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 1 April 2005 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -507,8 +507,8 @@ of Assent
       <div>6 Dec 1991</div>
     </td>
     <td>
-      <div>Ss. 3, 6 and 8: 1 Jan 1992 
-Ss. 7 and 9: 31 Dec 1992 
+      <div>Ss. 3, 6 and 8: 1 Jan 1992 
+Ss. 7 and 9: 31 Dec 1992 
 Remainder: 3 Jan 1992 
 
 </div>
@@ -528,7 +528,7 @@ Remainder: 3 Jan 1992
       <div>30 June 1992</div>
     </td>
     <td>
-      <div>Ss. 5(2), 6 and 7: 30 Dec 1992 
+      <div>Ss. 5(2), 6 and 7: 30 Dec 1992 
 Ss. 16, 18, 19, 20(1) and 21: <i>(b)</i> 
 Ss. 22–25: 1 Jan 1992 
 Remainder: Royal Assent 
@@ -569,7 +569,7 @@ s. 2 and <i>Gazette</i>1992, No. GN38)
       <div>8 Oct 1997</div>
     </td>
     <td>
-      <div>Schedule 1 (items 1–3, 5–10): 8 Oct 1997 
+      <div>Schedule 1 (items 1–3, 5–10): 8 Oct 1997 
 Schedule 1 (item 4): 5 Oct 1992 <i>(c)</i> 
 </div>
     </td>
@@ -588,7 +588,7 @@ Schedule 1 (item 4): 5 Oct 1992 <i>(c)</i>
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+      <div>Schedules 1 and 2: \[ <i>see</i> <i>(d)</i>, Note 2 and Table A] 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -614,6 +614,96 @@ _(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 
                  (1)   Subject to subsection (2), sections 1, 2 and 3, and the items of Schedule 1 other than item 4, commence on the day on which this Act receives the Royal Assent.
 
                  (2)   Item 4 of Schedule 1 is taken to have commenced on 5 October 1992.
+
+_(d)_ Subsection 2(1) (item 2) of the _Radio Licence Fees Amendment Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedules 1 and 2
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 2 and Table A]
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 
 ## Table of Amendments
@@ -677,7 +767,7 @@ _(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 68, 1985; No. 66, 1987; No. 146, 1988; No. 184,1991; No. 105, 1992; No. 142, 1997; No. 53, 2005</div>
+      <div>am. No. 68, 1985; No. 66, 1987; No. 146, 1988; No. 184,1991; No. 105, 1992; No. 142, 1997</div>
     </td>
   </tr>
   <tr>
@@ -789,7 +879,7 @@ _(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 
       <div>S. 7</div>
     </td>
     <td>
-      <div>am. No. 68, 1985; No. 142, 1997; No. 53, 2005</div>
+      <div>am. No. 68, 1985; No. 142, 1997</div>
     </td>
   </tr>
   <tr>
@@ -827,13 +917,40 @@ _(c)_     The _Radio Licence Fees Act 1964_ was amended by Schedule 1 
 </tbody></table>
 
 
+### Note 2
+
+_Radio Licence Fees Amendment Act 2005 (No. 53, 2005)_
+
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 4(1) (definition of _ABA_)
+
+Repeal the definition.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+
+## 3  Section 7
+
+Omit “ABA” (wherever occurring), substitute “ACMA”.
+
+As at 8 April 2005 the amendments are not incorporated in this compilation.
+
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Radio Licence Fees Amendment Act 2005 (No. 53, 2005)_
+_Radio Licence Fees Amendment Act 2005 (No. 53, 2005)_
 
-## Schedule 2
+The following provisions commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 2
 
 ## 1  Definitions
 
