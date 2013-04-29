@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00243/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00548/Html/LifeInsurSuperLevImpos98_WD02_image001.gif)
 
 # Life Insurance Supervisory Levy Imposition Act 1998
 
 **Act No. 57 of 1998 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 17 October 2008
  taking into account amendments up to Act No. 92 of 2008
 
 The text of any of those amendments not in force
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Act binds the Crown
 
-                   This Act binds the Crown in each of its capacities.
+                   This Act binds the Crown in each of its capacities.
 
 ##### <a id="4"></a>4  External  Territories
 
@@ -106,7 +106,7 @@ Note:          The unrestricted levy percentage is as determin
 
              (2)  If the levy imposition day for the life insurance company for the financial year is later than 1 July in the financial year, the amount of levy payable by the life insurance company for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00243/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00548/Html/LifeInsurSuperLevImpos98_WD02_image002.gif)
 
              (3)  The Treasurer is, by legislative instrument, to determine:
 
@@ -121,8 +121,6 @@ Note:          The unrestricted levy percentage is as determin
                      (d)  how a **_life insurance company’s asset value_** is to be worked out.
 
              (4)  An amount determined under subsection (3) as the maximum restricted levy amount must not exceed the statutory upper limit as at the time when the determination is made.
-
-          (4A)  An amount determined under paragraph (3)(d) as a life insurance company’s asset value must exclude an amount equal to the total balances of all FHSAs (within the meaning of the _First Home Saver Accounts Act 2008_) provided by the life insurance company.
 
              (5)  The Treasurer’s determination under paragraph (3)(d) of how a life insurance company’s asset value is to be worked out is to include, but is not limited to, a determination of the day as at which the life insurance company’s asset value is to be worked out. That day must be:
 
@@ -270,7 +268,7 @@ of Assent</div>
       <div>30 Sept 2008</div>
     </td>
     <td>
-      <div>Schedule 3 (item 6): 1 July 2009</div>
+      <div>Schedule 3 (item 6): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -314,7 +312,7 @@ of Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 16, 2005; No. 154, 2007; No. 92, 2008</div>
+    <div>am. No. 16, 2005; No. 154, 2007</div>
   </td>
 </tr>
 <tr>
@@ -325,6 +323,23 @@ of Assent</div>
     <div>am. No. 44, 1999; No. 16, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_First Home Saver Accounts (Further Provisions) Amendment Act 2008
+ (No. 92, 2008)_
+
+The following amendment commences on 1 July 2009:
+
+## Schedule 3
+
+## 6  After subsection 7(4)
+
+Insert:
+
+          (4A)  An amount determined under paragraph (3)(d) as a life insurance company’s asset value must exclude an amount equal to the total balances of all FHSAs (within the meaning of the _First Home Saver Accounts Act 2008_) provided by the life insurance company.
+
+As at 17 October 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
