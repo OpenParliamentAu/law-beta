@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02814/Html/CoalMinLSLPayrollLC92_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02813/Html/CoalMinLSLP92_image001.gif)
 
 # Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992
 
 **Act No. 61 of 1992 as amended**
 
-This compilation was prepared on 26 July 2001
- taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 18 June 2001
+ taking into account amendments up to Act No. 48 of 1998
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -69,7 +69,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="elig-wage"></a>**_eligible wages_** means remuneration or allowances (including production-related bonuses) paid to an eligible employee in respect of employment by virtue of which he or she is an eligible employee, whether or not paid under a relevant industrial instrument, but does not include overtime, penalty rates, the cost or value of benefits provided to an eligible employee otherwise than as remuneration or allowances, or any other allowances which, because of their nature, an eligible employee is not entitled to be paid during a period of long service leave.
 
-                    <a name="financi-statem"></a>**_financial statements_**, in relation to a company in relation to a financial year of the company, means the company’s financial statements for that year for the purposes of the _Corporations Act 2001_.
+                    <a name="financi-statem"></a>**_financial statements_**, in relation to a company in relation to a financial year of the company, means the company’s financial statements for that year for the purposes of the Corporations Law.
 
                     <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40 of the Funding Act.
 
@@ -141,7 +141,7 @@ then:
 
                              (ii)  in a case to which paragraph (b) applies—the amount worked out in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C02814/Html/CoalMinLSLPayrollLC92_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C02813/Html/CoalMinLSLP92_image002.gif)</sub>
 
              (4)  In this section:
 
@@ -205,7 +205,7 @@ the Corporation may remit the additional levy or part of the additional levy.
 
 ##### <a id="10"></a>10  Audited accounts and certificates to be provided to Corporation
 
-             (1)  If a company, at any time during a financial year of the company, employed eligible employees, the auditor of the company appointed under the _Corporations Act 2001_ must give to the Corporation, not later than 6 months after the end of that year, a certificate stating whether, in the opinion of the auditor, the company has paid all amounts of levy, or amounts of additional levy under section 7, that the company was required to pay in respect of that year.
+             (1)  If a company, at any time during a financial year of the company, employed eligible employees, the auditor of the company appointed under the Corporations Law must give to the Corporation, not later than 6 months after the end of that year, a certificate stating whether, in the opinion of the auditor, the company has paid all amounts of levy, or amounts of additional levy under section 7, that the company was required to pay in respect of that year.
 
                     Penalty:  $1,000.
 
@@ -355,16 +355,14 @@ and, in particular:
 
 The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ as shown in this compilation comprises Act No. 61 of 1992 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
 ### Table of Acts
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="27%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
+  <col width="18%">
+  <col width="23%">
   <col width="16%">
 </colgroup>
 
@@ -420,32 +418,17 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4-14 and Schedule 3 (items 101, 102): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4-14</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 1 (item 34) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(a)_ Section 2 of the _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ provides as follows:
+
+                   2.   This Act commences on the same day as the _Coal Mining Industry (Long Service Leave) Payroll Levy Act 1992_.
+
+         The _Coal Mining Industry (Long Service Leave) Payroll Levy Act 1992_ came into operation on 26 June 1993.
+
+_(b)_    The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 1 (item 34) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
-
-_(b)_ The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act 1992_ was amended by Schedule 3 (items 101 and 102) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
 ## Table of Amendments
 
@@ -470,26 +453,10 @@ _(b)_ The _Coal Mining Industry (Long Service Leave) Payroll Levy Collection Act
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
     <div>am. No. 48, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
