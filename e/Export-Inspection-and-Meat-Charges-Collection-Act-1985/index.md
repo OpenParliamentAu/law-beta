@@ -1,7 +1,7 @@
 
 Export Inspection and Meat Charges Collection Act 1985
 Act No. 27 of 1985 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 16 October 2000 taking into account amendments up to Act No. 101 of 1993
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -171,8 +171,9 @@ Penalty:
 10  Offences relating to returns etc.
 	(1)	A person shall not, without reasonable excuse, refuse or fail to submit a return or provide information that is required by or under this Act or the regulations to be submitted or provided.
 	(2)	A person is not excused from submitting a return or providing information that the person is required by or under this Act or the regulations to submit or provide on the ground that the return or information might tend to incriminate the person, but any return or information so submitted or provided is not admissible in evidence against the person in:
-	(a)	criminal proceedings other than proceedings for an offence against subsection (1) of this section or an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Act; or
+	(a)	criminal proceedings other than proceedings for an offence against subsection (1) or (3); or
 	(b)	proceedings for recovery of a penalty payable under section 11.
+	(3)	A person shall not knowingly present a document, make a statement or submit a return, that is false or misleading in a material particular, to a person performing duties in relation to this Act.
 Penalty:	
 	(a)	in the case of a natural person—$1,000 or imprisonment for 6 months, or both; or
 	(b)	in the case of a body corporate—$5,000.
@@ -254,13 +255,13 @@ and, in particular:
 Notes to the Export Inspection and Meat Charges Collection Act 1985
 Note 1
 The Export Inspection and Meat Charges Collection Act 1985 as shown in this compilation comprises Act No. 27, 1985 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Export Inspection Charge Collection Act 1985
 27, 1985
 22 May 1985
@@ -291,14 +292,10 @@ Export Inspection Charges Laws Amendment Act 1993
 22 Dec 1993
 1 Jan 1994
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Export Inspection and Meat Charges Collection Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(13) of which provides as follows:
 	(13)	The amendments of the Export Inspection Charges Collection Act 1985 made by this Act shall come into operation on a day to be fixed by Proclamation for the purposes of this subsection.
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -339,7 +336,7 @@ am. No. 115, 1985
 S. 9	
 am. No. 115, 1985; No. 25, 1988
 S. 10	
-am. No. 115, 1985; No. 137, 2000
+am. No. 115, 1985
 S. 11	
 am. No. 115, 1985; No. 141, 1987
 S. 12	
@@ -360,21 +357,4 @@ S. 16A
 ad. No. 115, 1985
 S. 16B	
 ad. No. 101, 1993 
-Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
