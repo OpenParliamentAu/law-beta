@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00415/Html/e6279064-d622-4247-9bdb-2cdd7123fc79_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00390/Html/2d77c071-d586-4367-9003-7717936a3746_files/image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 30 April 2012
- taking into account amendments up to Act No. 24 of 2012
+This compilation was prepared on 27 March 2012
+ taking into account amendments up to Act No. 7 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -348,7 +348,7 @@ Mutual Assistance in Criminal Matters Act 1987           �
 
                     <a name="enhanc-equip"></a>**_enhancement equipment_**, in relation to a surveillance device, means equipment capable of enhancing a signal, image or other information obtained by the use of the surveillance device.
 
-                    <a name="law-enforc-offic"></a><a name="feral-law-enforc-offic"></a>**_federal law enforcement officer_** means a law enforcement officer referred to in paragraph (a), (aa) or (b) of the definition of **_law enforcement officer_**.
+                    <a name="law-enforc-offic"></a><a name="feral-law-enforc-offic"></a>**_federal law enforcement officer_** means a law enforcement officer referred to in paragraph (a) or (b) of the definition of **_law enforcement officer_**.
 
                     <a name="independ-commiss-against-corrupt"></a>**_Independent Commission Against Corruption_** means the Independent Commission Against Corruption constituted by the _Independent Commission Against Corruption Act 1988_ of New South Wales.
 
@@ -880,7 +880,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
 the law enforcement officer is not subject to any civil or criminal liability for any act done in the proper execution of that warrant before the officer is made aware of the revocation.
 
-##### <a id="21"></a>21  Discontinuance of use of surveillance device under warrant
+##### <a id="21"></a>21  Discontinuance of use of surveillance device under warrant
 
              (1)  This section applies if a surveillance device warrant is issued to a law enforcement officer.
 
@@ -2599,23 +2599,6 @@ Schedule 3 (item 53) and Schedule 4 (item 4): \[ <i>see</i>Note 2]</di
   <td>
     <div>Sch. 3 (item 69)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Powers and Offences) Act 2012</div>
-  </td>
-  <td>
-    <div>24, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 53): 5 Apr 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 19) of the _Anti‑Terrorism Act (No. 2) 2005_ provides as follows:
@@ -2863,7 +2846,7 @@ _(c)_     Subsection 2(1) (item 17) of the _Statute Law Revision Act 2
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 86 and 170, 2006; Nos. 52 and 104, 2007; No. 95, 2008; No. 32, 2009; No. 4, 2010; No. 24, 2012</div>
+    <div>am. Nos. 86 and 170, 2006; Nos. 52 and 104, 2007; No. 95, 2008; No. 32, 2009; No. 4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3181,7 +3164,7 @@ Insert:
 
                     <a name="mutual-assist-authoris"></a>**_mutual assistance authorisation_** means an authorisation under subsection 15CA(1) of the _Mutual Assistance in Criminal Matters Act 1987._
 
-As at 30 April 2012 the amendments are not incorporated in this compilation.
+As at 27 March 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
