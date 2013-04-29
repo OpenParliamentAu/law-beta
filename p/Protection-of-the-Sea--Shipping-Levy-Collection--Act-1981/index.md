@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00154/Html/193c01f6-880a-40aa-836e-fa91fb2f2890_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00042/Html/ProtecSeaShipLevyColl1981_image001.gif)
 
 # Protection of the Sea (Shipping Levy Collection) Act 1981
 
 **Act No. 35 of 1981 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 2 February 2010
  taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Exemption in respect of ship in an Australian port by reason of an emergency etc 
 
-[6](#6).            Exempt periods in relation to foreign‑going ships
+[6](#6).            Exempt periods in relation to foreign-going ships
 
 [7](#7).            Time for payment of levy
 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an authorised person.
 
-                    <a name="foreign-go-ship"></a>**_foreign‑going ship_** means a ship that is engaged in making overseas voyages.
+                    <a name="foreign-go-ship"></a>**_foreign-going ship_** means a ship that is engaged in making overseas voyages.
 
                     <a name="levi"></a>**_levy_** means levy imposed by the Levy Act.
 
@@ -128,11 +128,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  of sheltering or undergoing repairs.
 
-##### <a id="6"></a>6  Exempt periods in relation to foreign‑going ships
+##### <a id="6"></a>6  Exempt periods in relation to foreign-going ships
 
-             (1)  In the application of this Act and the Levy Act in relation to a foreign‑going ship in respect of a quarter, regard shall not be had to a time when the ship was in an Australian port during the period (if any) that, in accordance with subsection (2), is the exempt period in relation to the ship for the quarter.
+             (1)  In the application of this Act and the Levy Act in relation to a foreign-going ship in respect of a quarter, regard shall not be had to a time when the ship was in an Australian port during the period (if any) that, in accordance with subsection (2), is the exempt period in relation to the ship for the quarter.
 
-             (2)  Where levy is payable in respect of a foreign‑going ship for a quarter, the exempt period in relation to the ship for the next succeeding quarter is so much of that succeeding quarter as occurs before the expiration of a period of 3 months from the earliest time during the first‑mentioned quarter when the ship was in an Australian port, other than a time by reference to which levy was not payable in respect of the ship for that quarter.
+             (2)  Where levy is payable in respect of a foreign-going ship for a quarter, the exempt period in relation to the ship for the next succeeding quarter is so much of that succeeding quarter as occurs before the expiration of a period of 3 months from the earliest time during the first-mentioned quarter when the ship was in an Australian port, other than a time by reference to which levy was not payable in respect of the ship for that quarter.
 
 ##### <a id="7"></a>7  Time for payment of levy
 
@@ -140,11 +140,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8"></a>8  Payments on account of levy
 
-             (1)  Subject to subsection (5), there is payable on the first day of a quarter, on account of levy that may become payable for that quarter in respect of a ship, being a ship to which the Levy Act applies other than a foreign‑going ship, an amount equal to the amount of levy that may become so payable.
+             (1)  Subject to subsection (5), there is payable on the first day of a quarter, on account of levy that may become payable for that quarter in respect of a ship, being a ship to which the Levy Act applies other than a foreign-going ship, an amount equal to the amount of levy that may become so payable.
 
              (2)  Subject to subsection (5), where:
 
-                     (a)  on any day in a quarter, light dues become payable in respect of a foreign‑going ship, being a ship to which the Levy Act applies; and
+                     (a)  on any day in a quarter, light dues become payable in respect of a foreign-going ship, being a ship to which the Levy Act applies; and
 
                      (b)  an amount has not previously become payable under this section on account of levy that may become payable in respect of the ship for that quarter;
 
@@ -152,7 +152,7 @@ there is payable on that day, on account of levy that may become so payable, an 
 
              (3)  Where:
 
-                     (a)  a foreign‑going ship, being a ship to which the Levy Act applies, is in an Australian port at any time during a quarter; and
+                     (a)  a foreign-going ship, being a ship to which the Levy Act applies, is in an Australian port at any time during a quarter; and
 
                      (b)  an amount has not previously become payable under this section on account of levy that may become payable in respect of the ship for that quarter;
 
@@ -204,11 +204,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  A reference in this section to levy payable in respect of a ship shall be read as including a reference to an amount that, under section 8, is payable on account of levy that may become payable in respect of the ship.
 
-             (4)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
-
 ##### <a id="13"></a>13  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, prescribing penalties not exceeding $200 for offences against the regulations.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, prescribing penalties not exceeding $200 for offences against the regulations.
 
 # Notes to the _Protection of the Sea (Shipping Levy Collection) Act 1981_
 
@@ -330,7 +328,7 @@ of Assent</div>
       <div>14 Dec 2009</div>
     </td>
     <td>
-      <div>Schedule 3 (item 14): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+      <div>Schedule 3 (item 14): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -346,8 +344,8 @@ _(a)_     The _Protection of the Sea (Shipping Levy Collection) Act 1981
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="32%">
+  <col width="68%">
 </colgroup>
 
 <thead>
@@ -394,9 +392,26 @@ _(a)_     The _Protection of the Sea (Shipping Levy Collection) Act 1981
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 143, 2001; No. 131, 2009</div>
+    <div>am. No. 143, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009 
+ (No. 131, 2009)_
+
+The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 3
+
+## 14  At the end of section 12
+
+Add:
+
+             (4)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
+
+As at 2 February 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
