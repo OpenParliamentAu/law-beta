@@ -1,46 +1,55 @@
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image001.gif)
 
 # Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005
 
 **Act No. 154 of 2005 as amended**
 
-This compilation was prepared on 20 September 2006
+This compilation was prepared on 1 July 2006
 
 **\[This Act was amended by SLI 2006 No. 50; Act No. 64 of 2006]**
 
 **Amendments from SLI 2006 No. 50**
 
-\[Schedule 13 (item 1) amended Schedule 1 (item 6)
- Schedule 13 (item 2) amended Schedule 2 (item 10)
- Schedule 13 (items 3–5) amended Schedule 4 (item 7)
- Schedule 13 (items 6 and 7) amended Schedule 5 (item 15)
- Schedule 13 (items 8 and 9) amended Schedule 7 (item 28)
- Schedule 13 (items 10 and 11) amended Schedule 8 (item 2)
- Schedule 13 (item 12) amended Schedule 8 (item 3)
- Schedule 13 (items 13 and 14) amended Schedule 10 (item 11)
- Schedule 13 (items 15–22) amended Schedule 11 (item 2)
- Schedule 13 (item 23) amended Schedule 11 (item 8)
+\[Schedule 13 (item 1) amended Schedule 1 (item 6);
+Schedule 13 (item 2) amended Schedule 2 (item 10);
+Schedule 13 (items 3–5) amended Schedule 4 (item 7);
+Schedule 13 (items 6 and 7) amended Schedule 5 (item 15);
+Schedule 13 (items 8 and 9) amended Schedule 7 (item 28);
+Schedule 13 (items 10 and 11) amended Schedule 8 (item 2);
+Schedule 13 (item 12) amended Schedule 8 (item 3);
+Schedule 13 (items 13 and 14) amended Schedule 10 (item 11);
+Schedule 13 (items 15–22) amended Schedule 11 (item 2);
+Schedule 13 (item 23) amended Schedule 11 (item 8);
 
 Schedule 3 (items 1 to 23) commenced on 27 March 2006]
 
 **Amendments from Act No. 64 of 2006**
 
-\[Schedule 14 (item 4) amended Schedule 7 (item 74)
- Schedule 14 (item 5) amended Schedule 7 (item 77)
- Schedule 14 (item 6) amended Schedule 16 (item 8)
- Schedule 14 (item 7) amended Schedule 17 (item 33)
- Schedule 14 (item 8) amended Schedule 18 (item 21)
- Schedule 14 (item 9) amended Schedule 19 (item 27)
- Schedule 14 (item 10) amended Schedule 20 (item 35)
- Schedule 14 (item 11) amended Schedule 22 (item 31)
- Schedule 14 (item 12) repealed and substituted Schedule 22 (item 36)
+\[Schedule 14 (item 4) amended Schedule 7 (item 74);
+Schedule 14 (item 5) amended Schedule 7 (item 77);
+Schedule 14 (item 11) amended Schedule 22 (item 31);
+Schedule 14 (item 12) repealed and substituted Schedule 22 (item 36);
+Schedule 14 (items 4, 5, 11, 12) commenced on 
 
-Schedule 14 (items 4 and 5) commenced immediately after 1 July 2006
- Schedule 14 (items 6–10) commenced immediately after 20 September 2006
- Schedule 14 (items 11 and 12) commenced immediately before 1 July 2006]
+1 July 2006;
+
+(These amendments are incorporated into this compilation.)
+
+Schedule 14 (item 6) amends Schedule 16 (item 8);
+Schedule 14 (item 7) amends Schedule 17 (item 33);
+Schedule 14 (item 8) amends Schedule 18 (item 21);
+Schedule 14 (item 9) amends Schedule 19 (item 27);
+Schedule 14 (item 10) amends Schedule 20 (item 35);
+Schedule 14 (items 6–10) commences on 
+
+20 September 2006;
+
+(These amendments are not incorporated into this compilation.)]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -296,9 +305,10 @@ Family and Community Services Legislation Amendment (Australians Working Togethe
 
 Social Security Act 1991                                                                                        254
 
+
 ## An Act to amend the social security law, and for other purposes
 
-[_Assented to 14 December 2005_]
+[_Assented to__14 December 2005_]
 
 The Parliament of Australia enacts:
 
@@ -360,561 +370,563 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Schedule 1, Part 1</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Schedule 1, Part 2</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 1, Part 3</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of Schedule 1 to the
-      <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5\. Schedule 2, Part 1</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6\. Schedule 2, Part 2</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Schedule 2, Part 3</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8\. Schedule 3</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9\. Schedule 4, Parts 1 and 2</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10\. Schedule 4, Part 3</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11\. Schedule 5, Part 1</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12\. Schedule 5, items 3 to 14</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13\. Schedule 5, item 15</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of Schedule 1 to the
-      <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14\. Schedule 5, items 16 to 44</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15\. Schedule 5, Part 3</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16\. Schedule 6 Part 1</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17\. Schedule 6 Part 2</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18\. Schedule 7, Part 1</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19\. Schedule 7, items 3 to 27</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20\. Schedule 7, item 28</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of Schedule 1 to the
-      <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21\. Schedule 7, items 29 to 72</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22\. Schedule 7, Parts 3 and 4</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23\. Schedule 8</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24\. Schedule 9</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25\. Schedule 10, items 1 to 10</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26\. Schedule 10, item 11</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of Schedule 1 to the
-      <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>27\. Schedule 10, items 12 to 42</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>28\. Schedule 10, Parts 2 and 3</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>29\. Schedule 11</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>30\. Schedule 12</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>31\. Schedule 13</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>32\. Schedule 14, Part 1</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>33\. Schedule 14, Part 2</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>34\. Schedule 15</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>35\. Schedule 16</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>36\. Schedule 17, Parts 1 to 5</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>37\. Schedule 17, Part 6</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>38\. Schedule 18, Part 1</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>39\. Schedule 18, Part 2</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>40\. Schedule 19, Parts 1 to 3</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>41\. Schedule 19, Part 4</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>42\. Schedule 20, Part 1</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>43\. Schedule 20, Part 2</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44\. Schedule 21</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45\. Schedule 22, Part 1</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>46\. Schedule 22, Parts 2 to 4</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>47\. Schedule 22, Part 5</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>48\. Schedule 22, Part 6</div>
-  </td>
-  <td>
-    <div>20 September 2006.</div>
-  </td>
-  <td>
-    <div>20 September 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>49\. Schedule 23, items 1 to 5</div>
-  </td>
-  <td>
-    <div>1 July 2006.</div>
-  </td>
-  <td>
-    <div>1 July 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>50\. Schedule 23, items 6 and 7</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Schedule 1, Part 1</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Schedule 1, Part 2</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 1, Part 3</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of Schedule 1 to the
+        <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5\. Schedule 2, Part 1</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Schedule 2, Part 2</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Schedule 2, Part 3</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8\. Schedule 3</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9\. Schedule 4, Parts 1 and 2</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10\. Schedule 4, Part 3</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11\. Schedule 5, Part 1</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12\. Schedule 5, items 3 to 14</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13\. Schedule 5, item 15</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of Schedule 1 to the
+        <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14\. Schedule 5, items 16 to 44</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15\. Schedule 5, Part 3</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16\. Schedule 6 Part 1</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17\. Schedule 6 Part 2</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18\. Schedule 7, Part 1</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19\. Schedule 7, items 3 to 27</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20\. Schedule 7, item 28</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of Schedule 1 to the
+        <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21\. Schedule 7, items 29 to 72</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22\. Schedule 7, Parts 3 and 4</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23\. Schedule 8</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24\. Schedule 9</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25\. Schedule 10, items 1 to 10</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26\. Schedule 10, item 11</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of Schedule 1 to the
+        <i>Workplace Relations Amendment (Work Choices) Act 2005</i>.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>27\. Schedule 10, items 12 to 42</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>28\. Schedule 10, Parts 2 and 3</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>29\. Schedule 11</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>30\. Schedule 12</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31\. Schedule 13</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>32\. Schedule 14, Part 1</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>33\. Schedule 14, Part 2</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>34\. Schedule 15</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>35\. Schedule 16</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>36\. Schedule 17, Parts 1 to 5</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>37\. Schedule 17, Part 6</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>38\. Schedule 18, Part 1</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>39\. Schedule 18, Part 2</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>40\. Schedule 19, Parts 1 to 3</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>41\. Schedule 19, Part 4</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>42\. Schedule 20, Part 1</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>43\. Schedule 20, Part 2</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44\. Schedule 21</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>45\. Schedule 22, Part 1</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>46\. Schedule 22, Parts 2 to 4</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>47\. Schedule 22, Part 5</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>48\. Schedule 22, Part 6</div>
+    </td>
+    <td>
+      <div>20 September 2006.</div>
+    </td>
+    <td>
+      <div>20 September 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>49\. Schedule 23, items 1 to 5</div>
+    </td>
+    <td>
+      <div>1 July 2006.</div>
+    </td>
+    <td>
+      <div>1 July 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>50\. Schedule 23, items 6 and 7</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -923,6 +935,7 @@ Note:          This table relates only to the provisions of th
 ##### <a id="3"></a>3  Schedule(s)
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+
 
 ###### Schedule 1—Definitions and other interpretative provisions
 
@@ -1656,7 +1669,7 @@ the rate of the person’s disability support pension is increased by an amount 
 
 merely by participating in an approved program of work for income support payment in accordance with the terms of an agreement with the Secretary for the purposes of this Part.
 
-## 17  Subparagraph 1223(7)(b)(iv)
+## 17  Subparagraph 1223(7)(b)(iv)
 
 Before “parenting payment” (wherever occurring), insert “disability support pension,”.
 
@@ -3244,7 +3257,7 @@ Revocation of requirement to participate in an approved program of work
 
 Repeal the sections, substitute:
 
-##### <a id="544C"></a>544C  Youth Allowance Activity Agreements—principal carers
+##### <a id="544C"></a>544C  Youth Allowance Activity Agreements—principal carers
 
              (1)  A Youth Allowance Activity Agreement that:
 
@@ -3312,7 +3325,7 @@ Add:
 
 ##### <a id="547AB"></a>547AB  Situations where allowance not payable for failure to comply with certain requirements
 
-                   A youth allowance is not payable to a person if the person refuses or fails, without reasonable excuse, to comply with a requirement made of the person under section 67, 68 or 192 of the Administration Act.
+                   A youth allowance is not payable to a person if the person refuses or fails, without reasonable excuse, to comply with a requirement made of the person under section 67, 68 or 192 of the Administration Act.
 
 ## 46  Subdivision D of Division 2 of Part 2.11 of Chapter 2
 
@@ -3954,7 +3967,7 @@ Repeal the point, substitute:
 
 Operation of points 1067L-D20 and 1067L-D21
 
- 1067L-D22  Points 1067L-D20 and 1067L-D21 have effect even if the person who has made the claim:
+1067L-D22  Points 1067L-D20 and 1067L-D21 have effect even if the person who has made the claim:
 
                      (a)  is subject to a liquid assets test waiting period or an income maintenance period in respect of the allowance claimed; or
 
@@ -4528,7 +4541,7 @@ Add:
 
 _Note:       The heading to section 603F is altered by omitting “from requirement to satisfy activity test” and substituting “—end of person’s maximum exemption period”._
 
-## 59  Section 604
+## 59  Section 604
 
 Repeal the section.
 
@@ -4544,7 +4557,7 @@ Insert:
 
           (2C)  Subsections (1) and (2) do not apply to a person at a time during which, under section 602B or 602C, the person is not required to satisfy the activity test.
 
-## 62  At the end of section 605
+## 62  At the end of section 605
 
 Add:
 
@@ -5030,7 +5043,7 @@ Repeal the item.
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  At the end of subsection 661(1)
+## 1  At the end of subsection 661(1)
 
 Add:
 
@@ -5284,7 +5297,7 @@ Omit “661, 664A,”, substitute “661, 663, 663B, 663D, 663F, 664A, 664BA,”
 
 After “661”, insert “, 663”.
 
-## 6  Subsection 665(3)
+## 6  Subsection 665(3)
 
 After “section”, insert “663D,”.
 
@@ -6322,50 +6335,52 @@ Repeal the item, substitute:
   <col width="39%">
 </colgroup>
 
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>
-      <b>Mobility allowance</b>
-    </div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>57.</div>
-  </td>
-  <td>
-    <div>mobility allowance for a person qualified under section 1035</div>
-  </td>
-  <td>
-    <div>MA rate (standard)</div>
-  </td>
-  <td>
-    <div>\[subsection 1044(1)]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>58.</div>
-  </td>
-  <td>
-    <div>mobility allowance for a person qualified under section 1035A</div>
-  </td>
-  <td>
-    <div>MA rate (increased)</div>
-  </td>
-  <td>
-    <div>\[subsection 1044(1A)]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>
+        <b>Mobility allowance</b>
+      </div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>57.</div>
+    </td>
+    <td>
+      <div>mobility allowance for a person qualified under section 1035</div>
+    </td>
+    <td>
+      <div>MA rate (standard)</div>
+    </td>
+    <td>
+      <div>\[subsection 1044(1)]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>58.</div>
+    </td>
+    <td>
+      <div>mobility allowance for a person qualified under section 1035A</div>
+    </td>
+    <td>
+      <div>MA rate (increased)</div>
+    </td>
+    <td>
+      <div>\[subsection 1044(1A)]</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 11  Subsection 1191(1) (table item 34)
 
@@ -6385,27 +6400,29 @@ Insert:
   <col width="16%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>34A.</div>
-  </td>
-  <td>
-    <div>MA rate (increased)</div>
-  </td>
-  <td>
-    <div>1 January</div>
-  </td>
-  <td>
-    <div>June</div>
-  </td>
-  <td>
-    <div>highest June quarter before the reference quarter (but not earlier than
-      June 2006 quarter)</div>
-  </td>
-  <td>
-    <div>$0.10</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>34A.</div>
+    </td>
+    <td>
+      <div>MA rate (increased)</div>
+    </td>
+    <td>
+      <div>1 January</div>
+    </td>
+    <td>
+      <div>June</div>
+    </td>
+    <td>
+      <div>highest June quarter before the reference quarter (but not earlier than
+        June 2006 quarter)</div>
+    </td>
+    <td>
+      <div>$0.10</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 13  Subsection 1192(3)
 
@@ -7003,23 +7020,19 @@ Note:          For **_principal carer_** see subsections 5(15)
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-                   Note:             Module F contains provisions that may apply to working out the ordinary income of a person, and the ordinary income of a partner of the person, for the purposes of disability support pension.
-
-* * *
+                   Note:             Module F contains provisions that may apply to working out the ordinary income of a person, and the ordinary income of a partner of the person, for the purposes of disability support pension.</div>
 
 ## 2  Point 1064-E1 (method statement, step 1, note)
 
 Repeal the note, substitute:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
                    Note 1:          For the treatment of the ordinary income of members of a couple see point 1064-E2.
 
-                   Note 2:          Module F contains provisions that may apply to working out the ordinary income of a person, and the ordinary income of a partner of the person, for the purposes of disability support pension.
-
-* * *
+                   Note 2:          Module F contains provisions that may apply to working out the ordinary income of a person, and the ordinary income of a partner of the person, for the purposes of disability support pension.</div>
 
 ## 3  At the end of point 1064-E2
 
@@ -7195,23 +7208,19 @@ Definitions
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-                   Note:             Module G contains provisions that may apply to working out, under this Rate Calculator, the ordinary income of a person, and the ordinary income of a partner of the person.
-
-* * *
+                   Note:             Module G contains provisions that may apply to working out, under this Rate Calculator, the ordinary income of a person, and the ordinary income of a partner of the person.</div>
 
 ## 6  Point 1066A-F1 (method statement, step 1, note)
 
 Repeal the note, substitute:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
                    Note 1:          For the treatment of the ordinary income of members of a couple see point 1066A-F2.
 
-                   Note 2:          Module G contains provisions that may apply to working out, under this Rate Calculator, the ordinary income of a person, and the ordinary income of a partner of the person.
-
-* * *
+                   Note 2:          Module G contains provisions that may apply to working out, under this Rate Calculator, the ordinary income of a person, and the ordinary income of a partner of the person.</div>
 
 ## 7  Section 1066A (after Module F)
 
@@ -7309,7 +7318,7 @@ the person is taken to receive in a payment fortnight or part of a payment fortn
 
                      (d)  multiplying the daily rate by the number of days in the payment fortnight that are also in the period.
 
- 1066A-G11  If the Secretary is satisfied that a person is in severe financial hardship because the person has incurred unavoidable or reasonable expenditure while an income maintenance period applies to the person, the Secretary may determine that the whole, or any part, of the period does not apply to the person.
+1066A-G11  If the Secretary is satisfied that a person is in severe financial hardship because the person has incurred unavoidable or reasonable expenditure while an income maintenance period applies to the person, the Secretary may determine that the whole, or any part, of the period does not apply to the person.
 
 Note 1:       For **_in severe financial hardship_** see subsection 19C(2) (person who is not a member of a couple) and subsection 19C(3) (person who is a member of a couple).
 
@@ -7323,7 +7332,7 @@ Note 3:       If an income maintenance period applies to a person, t
 
 When a person receives a leave payment or a termination payment
 
- 1066A-G12  For the purposes of points 1066A-G3 to 1066A-G11 (inclusive), a person (the **_first person_**) is taken to receive a leave payment or termination payment if:
+1066A-G12  For the purposes of points 1066A-G3 to 1066A-G11 (inclusive), a person (the **_first person_**) is taken to receive a leave payment or termination payment if:
 
                      (a)  the payment is made to another person:
 
@@ -7337,7 +7346,7 @@ When a person receives a leave payment or a termination payment
 
 Single payment in respect of different kinds of termination payments
 
- 1066A-G13  If a person who is covered by point 1066A-G5 receives a single payment in respect of different kinds of termination payments, then, for the purposes of the application of points 1066A-G3 to 1066A-G12 (inclusive):
+1066A-G13  If a person who is covered by point 1066A-G5 receives a single payment in respect of different kinds of termination payments, then, for the purposes of the application of points 1066A-G3 to 1066A-G12 (inclusive):
 
                      (a)  each part of the payment that is in respect of a different kind of termination payment is taken to be a separate payment; and
 
@@ -7345,7 +7354,7 @@ Single payment in respect of different kinds of termination payments
 
 Definitions
 
- 1066A-G14  In this Module:
+1066A-G14  In this Module:
 
                     <a name="leav-payment"></a>**_leave payment_** includes a payment in respect of sick leave, annual leave, maternity leave and long service leave.
 
@@ -7375,7 +7384,7 @@ Definitions
 
 ## 8  Application provision
 
-The amendments made by this Schedule apply in relation to termination payments or leave payments to which a person becomes entitled, or that a person receives, on or after 20 September 2006.
+The amendments made by this Schedule apply in relation to claims for social security payments made on or after 20 September 2006.
 
 ###### Schedule 17—Youth Allowance Rate Calculator
 
@@ -7397,11 +7406,11 @@ Facts:            Alice’s partner Martin has an ordinary
 
 Result:           Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067G-H27 of:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image002.gif)
 
                       Alice’s partner income reduction under point 1067G-H28 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image003.gif)
 
 ## 3  Points 1067G-H32 and 1067G-H33
 
@@ -7409,7 +7418,7 @@ Repeal the points, substitute:
 
 Lower range reduction
 
- 1067G-H32  The person’s lower range reduction is an amount equal to 50% of the part of the person’s ordinary income excess that does not exceed:
+1067G-H32  The person’s lower range reduction is an amount equal to 50% of the part of the person’s ordinary income excess that does not exceed:
 
                      (a)  if the person is undertaking full-time study at any time in the fortnight in respect of which a youth allowance may be payable—$80; or
 
@@ -7419,7 +7428,7 @@ Lower range reduction
 
 Upper range reduction
 
- 1067G-H33  The person’s upper range reduction is an amount equal to 60% of the part (if any) of the person’s ordinary income excess that exceeds:
+1067G-H33  The person’s upper range reduction is an amount equal to 60% of the part (if any) of the person’s ordinary income excess that exceeds:
 
                      (a)  if the person is undertaking full-time study at any time in the fortnight in respect of which a youth allowance may be payable—$80; or
 
@@ -7439,7 +7448,7 @@ After “Table BB”, insert “or point 1067G-B3A”.
 
 Insert:
 
- 1067G-B3A Despite point 1067G-B3, if a person:
+1067G-B3A Despite point 1067G-B3, if a person:
 
                      (a)  is independent (see section 1067A) and is not a long term income support student (see section 1067F); and
 
@@ -7449,7 +7458,7 @@ Insert:
 
 the person’s maximum basic rate is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image004.gif)
 
 where:
 
@@ -7491,7 +7500,7 @@ Insert:
 
 No pharmaceutical allowance for full-time students and new apprentices without temporary incapacity exemptions
 
- 1067G-C2A Pharmaceutical allowance is not to be added to a person’s maximum basic rate if the person:
+1067G-C2A Pharmaceutical allowance is not to be added to a person’s maximum basic rate if the person:
 
                      (a)  does not have a temporary incapacity exemption under section 542A; and
 
@@ -7515,11 +7524,9 @@ Add:
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 2A._ Work out the amount per fortnight (if any) for youth disability supplement using Module D below.
-
-* * *
+_Step 2A._ Work out the amount per fortnight (if any) for youth disability supplement using Module D below.</div>
 
 ## 10  Section 1067G (after Module C)
 
@@ -7553,41 +7560,45 @@ Omit the table item, substitute:
   <col width="42%">
 </colgroup>
 
-<tr>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div>
-      <b>Youth disability supplement</b>
-    </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4A.</div>
-  </td>
-  <td>
-    <div>Youth disability supplement payable to a disability support pensioner,
-      or to a recipient of youth allowance, who is under 21</div>
-  </td>
-  <td>
-    <div>youth disability supplement</div>
-  </td>
-  <td>
-    <div>\[Pension Rate Calculator D—point 1066A-C1—the annual rate]
+<tbody>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <b>Youth disability supplement</b>
+      </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4A.</div>
+    </td>
+    <td>
+      <div>Youth disability supplement payable to a disability support pensioner,
+        or to a recipient of youth allowance, who is under 21</div>
+    </td>
+    <td>
+      <div>youth disability supplement</div>
+    </td>
+    <td>
+      <div>\[Pension Rate Calculator D—point 1066A-C1—the annual rate]
 
 \[Pension Rate Calculator E—point 1066B-C1—the annual rate]
 
-\[Youth Allowance Rate Calculator—point 1067G-D1—the fortnightly rate]</div>
-  </td>
-</tr></table>
+\[Youth Allowance Rate Calculator—point 1067G-D1—the fortnightly rate]
+
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 12  Section 1198C
 
@@ -7739,7 +7750,7 @@ _Note:       The heading to point 1067G-H4 is replaced by the headin
 
 ## 33  Application
 
-The amendments made by this Part apply in relation to termination payments to which a person becomes entitled, or that a person receives, on or after 20 September 2006.
+The amendments made by this Part apply in relation to claims for youth allowance made on or after 20 September 2006.
 
 ###### Schedule 18—Austudy Payment Rate Calculator
 
@@ -7761,11 +7772,11 @@ Facts:            Alice’s partner Martin has an ordinary
 
 Result:           Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067L-D26 of:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image002.gif)
 
                       Alice’s partner income reduction under point 1067L-D27 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image003.gif)
 
 ## 3  Point 1067L-D32
 
@@ -7863,7 +7874,7 @@ Insert:
 
                     <a name="rundanc-payment"></a>**_redundancy payment_** does not include a qualifying eligible termination payment within the meaning of Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_.
 
-## 19  Point 1067L-D15 (definition of _roll-over_)
+## 19  Point 1067L-D15 (definition of _roll-over_)
 
 After “leave payment”, insert “or lump sum redundancy payment”.
 
@@ -7881,7 +7892,7 @@ _Note:       The heading to point 1067L-D3 is replaced by the headin
 
 ## 21  Application provision
 
-The amendments made by this Part apply in relation to termination payments to which a person becomes entitled, or that a person receives, on or after 20 September 2006.
+The amendments made by this Part apply in relation to claims for austudy payment made on or after 20 September 2006.
 
 ###### Schedule 19—Benefit Rate Calculator B
 
@@ -7903,11 +7914,11 @@ _Facts:_ Susan’s partner Colin has an ordinary income of $800\. Assume that th
 
 _Application:_ Colin’s ordinary income exceeds the partner income free area. He therefore has a partner income excess under point 1068-G10 of:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image002.gif)
 
                      Susan’s partner income reduction under point 1068-G11 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image003.gif)
 
 ## 3  Point 1068-G15
 
@@ -7947,7 +7958,7 @@ Maximum basic rate for certain newstart allowance recipients
 
 the person’s maximum basic rate is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00494/Html/EmployWorkRelLegAmWelfWorkOthMeas2005_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image004.gif)
 
 where:
 
@@ -8097,7 +8108,17 @@ _Note:       The heading to point 1068-G7 is replaced by the heading
 
 ## 27  Application
 
-The amendments made by this Part apply in relation to termination payments to which a person becomes entitled, or that a person receives, on or after 20 September 2006.
+The amendments made by this Part apply in relation to claims for the following types of payments made on or after 20 September 2006:
+
+                     (a)  newstart allowance;
+
+                     (b)  sickness allowance;
+
+                     (c)  partner allowance;
+
+                     (d)  mature age allowance;
+
+                     (e)  widow allowance.
 
 ###### Schedule 20—Parenting Payment Rate Calculators
 
@@ -8243,7 +8264,7 @@ _Note:       The heading to point 1068B-D11 is altered by omitting �
 
 Omit “leave” (last occurring).
 
-## 25  Point 1068B-D13
+## 25  Point 1068B-D13
 
 Omit “leave”, substitute “termination”.
 
@@ -8313,7 +8334,7 @@ _Note:       The heading to point 1068B-D7 is replaced by the headin
 
 ## 35  Application provision
 
-The amendments made by this Part apply in relation to termination payments to which a person becomes entitled, or that a person receives, on or after 20 September 2006.
+The amendments made by this Part apply in relation to claims for parenting payment made on or after 20 September 2006.
 
 ###### Schedule 21—Overpayments and debt recovery
 
@@ -8743,7 +8764,7 @@ Omit “give a person notice”, substitute “notify a person”.
 
 ## 31  Paragraph 64(4)(a)
 
-Omit “gives a person a notice”, substitute “notifies a person”.
+Omit “gives a person a notice”, substitute “”.
 
 ## 32  Subsection 64(4)
 
@@ -9039,8 +9060,29 @@ Repeal the section.
 
 Repeal the subsection.
 
-<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; PADDING-TOP: 1pt; BORDER-BOTTOM: medium none">
 
-</div>
+ </div>
+
+[_Minister’s second reading speech made in—_
+
+_House of Representatives on__9 November 2005_
+
+_Senate on__1 December 2005_]
+
+<div>
+
+<table align="left" vspace="0" hspace="0">
+<colgroup>
+  <col width="NaN%">
+</colgroup>
+
+<tbody>
+  <tr>
+    <td align="left">
+      <div>(179/05)</div>
+    </td>
+  </tr>
+</tbody></table></div>
 
  
