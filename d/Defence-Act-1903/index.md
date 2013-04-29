@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00270/Html/437db277-7562-49f7-8763-06bc99282bb0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00225/Html/b1787c81-0681-44a0-8b2f-b6a57f10cff6_files/image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 1 March 2012
+This compilation was prepared on 31 January 2012
  taking into account amendments up to Act No. 183 of 2011
 
 The text of any of those amendments not in force
@@ -912,23 +912,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  Unless the contrary intention appears, in this Act or in any other law:
 
-                     (a)  a reference to the Naval Forces or the Navy is to be read as a reference to the Australian Navy; and
+                     (a)  a reference to the Naval Forces or the Navy shall be read as a reference to the Australian Navy;
 
-                     (b)  a reference to the Military Forces or the Army is to be read as a reference to the Australian Army; and
+                     (b)  a reference to the Military Forces or the Army shall be read as a reference to the Australian Army;
 
-                     (c)  a reference to the Air Force is to be read as a reference to the Australian Air Force; and
+                     (c)  a reference to the Air Force shall be read as a reference to the Australian Air Force;
 
-                     (d)  a reference to the Chief of the Defence Force is to be read as a reference to the Chief of the Defence Force appointed under section 9; and
+                     (d)  a reference to the Chief of the Defence Force shall be read as a reference to the Chief of the Defence Force appointed under section 9;
 
-                     (e)  a reference to the Vice Chief of the Defence Force is to be read as a reference to the Vice Chief of the Defence Force appointed under section 9AA; and
+                     (e)  a reference to the Chief of Navy shall be read as a reference to the Chief of Navy appointed under section 9;
 
-                      (f)  a reference to the Chief of Navy is to be read as a reference to the Chief of Navy appointed under section 9; and
+                      (f)  a reference to the Chief of Army shall be read as a reference to the Chief of Army appointed under section 9;
 
-                     (g)  a reference to the Chief of Army is to be read as a reference to the Chief of Army appointed under section 9; and
+                     (g)  a reference to the Chief of Air Force shall be read as a reference to the Chief of Air Force appointed under section 9; and
 
-                     (h)  a reference to the Chief of Air Force is to be read as a reference to the Chief of Air Force appointed under section 9; and
-
-                      (i)  a reference to a service chief is to be read as a reference to the Chief of Navy, the Chief of Army or the Chief of Air Force, as the case requires.
+                     (h)  a reference to a service chief shall be read as a reference to the Chief of Navy, the Chief of Army or the Chief of Air Force, as the case requires.
 
              (3)  For the purposes of Part IV, a person is taken to have a conscientious belief in relation to a matter if the person’s belief in respect of that matter:
 
@@ -3150,7 +3148,7 @@ Note:          Section 46AA of the _Acts Interpretation Act 
 
              (9)  In this section, a reference to this Act does not include a reference to the regulations.
 
-##### <a id="58E"></a>58E  Delegation
+##### <a id="58E"></a>58E  Delegation
 
                    The regulations may make provision for and in relation to the delegation by the Minister of his power to make determinations with respect to such of the matters with respect to which determinations may be made as are specified in the regulations.
 
@@ -3628,7 +3626,7 @@ are liable, when called upon under section 60, to serve in the Defence Force.
 
              (2)  Subject to this Part, a determination under subsection (1) is final and binding for all purposes.
 
-##### <a id="61CD"></a>61CD  Parties to the hearing of an application
+##### <a id="61CD"></a>61CD  Parties to the hearing of an application
 
                    In this Part, the parties to the hearing of an application by a Conscientious Objection Tribunal are the applicant and the Commonwealth.
 
@@ -3992,8 +3990,6 @@ Note:          The defendant bears an evidential burden in rel
 
              (1)  The body known immediately before the commencement of this subsection as the Australian Cadet Corps is continued in existence with the new name, Australian Army Cadets.
 
-Constitution of the Australian Army Cadets
-
              (2)  The Australian Army Cadets consists of:
 
                      (a)  persons appointed in accordance with the regulations to be officers in that body;
@@ -4002,23 +3998,17 @@ Constitution of the Australian Army Cadets
 
                      (b)  subject to subsections (5) and (6), persons who volunteer, and are accepted, in accordance with the regulations as cadets in that body.
 
-Relationship to the Army
-
              (3)  A person appointed to be an officer or instructor in the Australian Army Cadets does not become a member of the Army by virtue of that appointment.
 
              (4)  A cadet in the Australian Army Cadets is not a member of the Army.
 
-Age requirements for cadets
-
-             (5)  A person is not entitled to volunteer, or to be accepted, as a cadet unless he or she:
+             (5)  A person is not entitled to volunteer, or to be accepted, as a cadet unless he:
 
                      (a)  has attained such age as is prescribed; and
 
                      (b)  has not attained the age of 20 years.
 
-             (6)  A person ceases to be a cadet when he or she attains the age of 21 years or such lower age as is prescribed.
-
-Regulations about the Australian Army Cadets
+             (6)  A person ceases to be a cadet when he attains the age of 21 years or such lower age as is prescribed.
 
              (7)  The regulations may make provision for and in relation to the organization, maintenance, regulation, control and discipline of the Australian Army Cadets, and, in particular, for and in relation to:
 
@@ -4028,11 +4018,7 @@ Regulations about the Australian Army Cadets
 
              (8)  In subsection (7), **_member_** means an officer, instructor or cadet in the Australian Army Cadets.
 
-Administration of the Australian Army Cadets
-
-             (9)  Subject to the regulations, to any determinations in force under section 58B, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Army is to administer the Australian Army Cadets.
-
-           (10)  A direction of the Chief of the Defence Force under subsection (9) is subject to, and must be in accordance with, any directions of the Minister.
+             (9)  Subject to the regulations, to any determinations in force under section 58B and to the directions of the Minister, the Chief of Army shall administer the Australian Army Cadets.
 
 ## Part VI—Special powers in relation to defence
 
@@ -4786,7 +4772,7 @@ Production of identity card as soon as practicable after detaining a person
 
              (5)  A defence security official is not entitled to restrain and detain, or stop and detain, a person under this Part unless, as soon as practicable after restraining and detaining, or stopping and detaining, the person, the official produces his or her identity card for inspection by the person.
 
-##### <a id="72C"></a>72C  Persons to be informed of offence
+##### <a id="72C"></a>72C  Persons to be informed of offence
 
              (1)  A defence security official who, in accordance with this Part, exercises a power on the basis that the official reasonably believes that a person has committed, or may commit, a criminal offence must inform the person of the offence.
 
@@ -6868,8 +6854,6 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
 ##### <a id="120A"></a>120A  Delegation
 
-Delegations by the Governor‑General
-
              (2)  The Governor‑General may, by instrument in writing, delegate all or any of his or her powers under subsections 116C(5) and 116C(5A) to:
 
                      (a)  an officer of the Army who holds the rank of Major‑General or a higher rank; or
@@ -6885,8 +6869,6 @@ Delegations by the Governor‑General
                      (b)  an officer of the Navy who holds the rank of Vice‑Admiral or a higher rank; or
 
                      (c)  an officer of the Air Force who holds the rank of Air Marshal or a higher rank.
-
-Delegations of jointly held powers by the Secretary and Chief of the Defence Force
 
           (3A)  The Secretary and the Chief of the Defence Force may, by instrument in writing signed by each of them, delegate all or any of the powers that they hold jointly under subsections 9A(1) and (2) to issue the instructions known as Defence Instructions (General) to:
 
@@ -6904,10 +6886,6 @@ Delegations of jointly held powers by the Secretary and Chief of the Defence For
 
           (3D)  To avoid doubt, the powers of delegation under subsections (3A) and (3B) extend only to the powers of the Secretary and the Chief of the Defence Force to issue Defence Instructions (General), and not to any other powers that the Secretary and the Chief of the Defence Force have under that section.
 
-Delegations by the Chief of the Defence Force
-
-       (3DA)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force, his or her power under subsection 62(9).
-
           (3E)  The Chief of the Defence Force may, by instrument in writing, delegate his or her power under section 93A to:
 
                      (a)  an officer of the Army who holds the rank of Brigadier or a higher rank; or
@@ -6916,9 +6894,7 @@ Delegations by the Chief of the Defence Force
 
                      (c)  an officer of the Air Force who holds the rank of Air Commodore or a higher rank.
 
-Delegations by the Chief of Army
-
-             (4)  The Chief of Army may, by instrument in writing, delegate to an officer of the Army all or any of his or her powers under sections 50, 50D and 123A.
+             (4)  The Chief of Army may, by instrument in writing, delegate to an officer of the Army all or any of his powers under sections 50, 50D and 123A.
 
        (4AA)  The Chief of Army may, in writing, delegate to an officer of the Army who holds a rank not below the rank of Brigadier his or her powers under subsection 9A(3) to issue Defence Instructions (Army) and section 93A.
 
@@ -6928,9 +6904,7 @@ Delegations by the Chief of Army
 
                      (b)  an APS employee who holds, or performs the duties of, an Executive Level 1 position, or an equivalent or higher position, in the Department.
 
-Delegations by the Chief of Navy
-
-          (4A)  The Chief of Navy may, by instrument in writing, delegate to an officer of the Navy his or her powers under sections 50D and 123A.
+          (4A)  The Chief of Navy may, by instrument in writing, delegate to an officer of the Navy his powers under sections 50D and 123A.
 
        (4AB)  The Chief of Navy may, by instrument in writing, delegate to an officer of the Navy who holds a rank not below the rank of Commodore his or her powers under subsection 9A(3) to issue Defence Instructions (Navy) and section 93A.
 
@@ -6940,9 +6914,7 @@ Delegations by the Chief of Navy
 
                      (b)  an APS employee who holds, or performs the duties of, an Executive Level 1 position, or an equivalent or higher position, in the Department.
 
-Delegations by the Chief of Air Force
-
-          (4B)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force his or her powers under sections 50D and 123A.
+          (4B)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force his powers under sections 50D and 123A.
 
           (4C)  The Chief of Air Force may, by instrument in writing, delegate to an officer of the Air Force who holds a rank not below the rank of Air Commodore his or her powers under subsection 9A(3) to issue Defence Instructions (Air Force) and section 93A.
 
@@ -6951,8 +6923,6 @@ Delegations by the Chief of Air Force
                      (a)  an officer of the Air Force who holds the rank of Wing Commander or a higher rank; or
 
                      (b)  an APS employee who holds, or performs the duties of, an Executive Level 1 position, or an equivalent or higher position, in the Department.
-
-General provisions about delegations
 
              (5)  A delegation under this section may be made either generally or otherwise as provided in the instrument of delegation.
 
@@ -7071,7 +7041,7 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
 ##### <a id="122"></a>122  Appointments etc. not invalid because of defect etc. in connection with appointment
 
-                   The appointment of an officer of the Australian Navy, the Australian Army or the Australian Air Force, the enlistment of a sailor, soldier or airman, and any extension of such an appointment or enlistment is not invalid because of a defect or irregularity in connection with the appointment, enlistment or extension, as the case may be.
+                   The appointment of an officer of the Australian Navy, the Australian Army or the Australian Air Force, the enlistment of a sailor, soldier or airman, and any extension of such an appointment or enlistment is not invalid because of a defect or irregularity in connection with the appointment, enlistment or extension, as the case may be.
 
 ##### <a id="122AA"></a>122AA  Taxation consequences of disposals of assets to defence companies
 
@@ -8106,7 +8076,7 @@ S. 56: 29 July 1977 ( <i>see Gazette</i>1977, No. S151) <i>(b)</i></div>
   </td>
   <td>
     <div>Ss. 14(2), (3), 16(2), 23(2), (4), (5), 24(2), 28(2), 35(2), 36(2), 41(2), 55(2) and 59(2) 
-S. 23(3) (am. by 164, 1984, s. 120)</div>
+S. 23(3) (am. by 164, 1984, s. 120)</div>
   </td>
 </tr>
 <tr>
@@ -8212,7 +8182,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Ss. 3(2), 
 11–13 and 15–17 
-S. 14 (am. by 80, 1982, s. 83)</div>
+S. 14 (am. by 80, 1982, s. 83)</div>
   </td>
 </tr>
 <tr>
@@ -8943,7 +8913,7 @@ S. 27: 18 Apr 1995 <i>(l)</i></div>
 Schedule 1 (items 3, 11.3): Royal Assent <i>(m)</i></div>
   </td>
   <td>
-    <div>S. 3(2), Sch. 1 (item 11)</div>
+    <div>S. 3(2), Sch. 1 (item 11)</div>
   </td>
 </tr>
 <tr>
@@ -9229,7 +9199,7 @@ Remainder: 19 Apr 2001</div>
   <td>
     <div>Sch. 1 (item 3), Sch. 2 (items 
 88–90, 
-93–95), Sch. 3 (item 7) and Sch. 4 (item 3) \[ <i>see</i>Table A]</div>
+93–95), Sch. 3 (item 7) and Sch. 4 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -9299,7 +9269,7 @@ Schedule 1 (items 5–36):15 Dec 2001</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 36) \[ <i>see</i>Table A] 
-S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
+S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
   </td>
 </tr>
 <tr>
@@ -9783,7 +9753,7 @@ Schedule 3: 2 Aug 2010</div>
     <div>6 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 17–35): 1 Mar 2012 ( <i>see</i>F2012L00395)</div>
+    <div>Schedule 1 (items 17–35): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -10432,7 +10402,7 @@ _(zc)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Conseq
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 12, 1904; No. 30, 1910; No. 36, 1917; No. 16, 1918; Nos. 13 and 74, 1939; No. 71, 1949; No. 59, 1951; No. 72, 1956; No. 92, 1964; No. 51, 1965; No. 216, 1973; No. 96, 1975; No. 4, 1977; No. 132, 1979; No. 61, 1981; Nos. 80 and 153, 1982; No. 164, 1984; No. 65, 1987; No. 104, 1988; No. 91, 1992; No. 1, 1997; No. 10, 2001; No. 142, 2005; Nos. 5 and 183, 2011</div>
+    <div>am. No. 12, 1904; No. 30, 1910; No. 36, 1917; No. 16, 1918; Nos. 13 and 74, 1939; No. 71, 1949; No. 59, 1951; No. 72, 1956; No. 92, 1964; No. 51, 1965; No. 216, 1973; No. 96, 1975; No. 4, 1977; No. 132, 1979; No. 61, 1981; Nos. 80 and 153, 1982; No. 164, 1984; No. 65, 1987; No. 104, 1988; No. 91, 1992; No. 1, 1997; No. 10, 2001; No. 142, 2005; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -14713,38 +14683,6 @@ Div. 4 of Part IIIAAA</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 62(2), (3).</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 62(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 62(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 62(9)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 62</div>
   </td>
   <td>
@@ -14772,7 +14710,7 @@ Div. 4 of Part IIIAAA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 132, 1979; No. 104, 1988; No. 1, 1997; No. 135, 2003; No. 183, 2011</div>
+    <div>am. No. 96, 1975; No. 132, 1979; No. 104, 1988; No. 1, 1997; No. 135, 2003</div>
   </td>
 </tr>
 <tr>
@@ -17354,54 +17292,6 @@ Part VIIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 120A(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 120A(3A)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 120A(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 120A(4A)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 120A(4B)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 120A(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 120A</div>
   </td>
   <td>
@@ -17421,7 +17311,7 @@ Part VIIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 65, 1985; No. 76, 1986; No. 65, 1987; No. 75, 1990; No. 95, 1993; No. 1, 1997; No. 116, 1999; No. 10, 2001; No. 26, 2005; No. 95, 2010; No. 183, 2011</div>
+    <div>am. No. 164, 1984; No. 65, 1985; No. 76, 1986; No. 65, 1987; No. 75, 1990; No. 95, 1993; No. 1, 1997; No. 116, 1999; No. 10, 2001; No. 26, 2005; No. 95, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18951,6 +18841,138 @@ Subsection 4(1), definition of **_Time of War_**—For Proclamations relating to
 ### Note 3
 
 Section 63 and subsection 124(1)—Subsection 45(3) of the _Naval Defence Act 1910_ provides that the power to make regulations contained in section 45 of that Act is in addition to any power to make regulations contained in the _Defence Act 1903_.
+
+### Note 4
+
+_Defence Legislation Amendment Act 2011 (No. 183, 2011)_
+
+The following amendments commence on 6 June 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 17  Paragraphs 4(2)(a) to (h)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  a reference to the Naval Forces or the Navy is to be read as a reference to the Australian Navy; and
+
+                     (b)  a reference to the Military Forces or the Army is to be read as a reference to the Australian Army; and
+
+                     (c)  a reference to the Air Force is to be read as a reference to the Australian Air Force; and
+
+                     (d)  a reference to the Chief of the Defence Force is to be read as a reference to the Chief of the Defence Force appointed under section 9; and
+
+                     (e)  a reference to the Vice Chief of the Defence Force is to be read as a reference to the Vice Chief of the Defence Force appointed under section 9AA; and
+
+                      (f)  a reference to the Chief of Navy is to be read as a reference to the Chief of Navy appointed under section 9; and
+
+                     (g)  a reference to the Chief of Army is to be read as a reference to the Chief of Army appointed under section 9; and
+
+                     (h)  a reference to the Chief of Air Force is to be read as a reference to the Chief of Air Force appointed under section 9; and
+
+                      (i)  a reference to a service chief is to be read as a reference to the Chief of Navy, the Chief of Army or the Chief of Air Force, as the case requires.
+
+## 18  Before subsection 62(2)
+
+Insert:
+
+Constitution of the Australian Army Cadets
+
+## 19  Before subsection 62(3)
+
+Insert:
+
+Relationship to the Army
+
+## 20  Before subsection 62(5)
+
+Insert:
+
+Age requirements for cadets
+
+## 21  Subsections 62(5) and (6)
+
+After “he”, insert “or she”.
+
+## 22  Before subsection 62(7)
+
+Insert:
+
+Regulations about the Australian Army Cadets
+
+## 23  Before subsection 62(9)
+
+Insert:
+
+Administration of the Australian Army Cadets
+
+## 24  Subsection 62(9)
+
+Omit “and to the directions of the Minister, the Chief of Army shall”, substitute “, to any directions of the Minister and to any directions of the Chief of the Defence Force, the Chief of Army is to”.
+
+## 25  At the end of section 62
+
+Add:
+
+           (10)  A direction of the Chief of the Defence Force under subsection (9) is subject to, and must be in accordance with, any directions of the Minister.
+
+## 26  Before subsection 120A(2)
+
+Insert:
+
+Delegations by the Governor‑General
+
+## 27  Before subsection 120A(3A)
+
+Insert:
+
+Delegations of jointly held powers by the Secretary and Chief of the Defence Force
+
+## 28  After subsection 120A(3D)
+
+Insert:
+
+Delegations by the Chief of the Defence Force
+
+       (3DA)  The Chief of the Defence Force may, by instrument in writing, delegate to the Vice Chief of the Defence Force, his or her power under subsection 62(9).
+
+## 29  Before subsection 120A(4)
+
+Insert:
+
+Delegations by the Chief of Army
+
+## 30  Subsection 120A(4)
+
+After “his”, insert “or her”.
+
+## 31  Before subsection 120A(4A)
+
+Insert:
+
+Delegations by the Chief of Navy
+
+## 32  Subsection 120A(4A)
+
+After “his”, insert “or her”.
+
+## 33  Before subsection 120A(4B)
+
+Insert:
+
+Delegations by the Chief of Air Force
+
+## 34  Subsection 120A(4B)
+
+After “his”, insert “or her”.
+
+## 35  Before subsection 120A(5)
+
+Insert:
+
+General provisions about delegations
+
+As at 31 January 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
