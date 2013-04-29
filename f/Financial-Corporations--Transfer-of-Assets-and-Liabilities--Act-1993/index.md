@@ -1,7 +1,7 @@
 
 Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 Act No. 97 of 1993 as amended 
-This compilation was prepared on 2 July 2003 taking into account amendments up to Act No. 42 of 2003
+This compilation was prepared on 12 May 2003 taking into account amendments up to Act No. 16 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -207,8 +207,7 @@ in respect, or as a result, of the transfer of an asset or liability or in respe
 acquisition of property and just terms have the same respective meanings as in paragraph 51(xxxi) of the Constitution.
 12  Delegation
 		The Treasurer may by signed instrument delegate his or her powers under paragraph 7(6)(a) to:
-	(a)	APRA (the Australian Prudential Regulation Authority); or
-	(aa)	an APRA member, within the meaning of the Australian Prudential Regulation Authority Act 1998; or
+	(a)	APRA, or a member of APRA’s board of management; or
 	(b)	an APRA staff member, within the meaning of the Australian Prudential Regulation Authority Act 1998.
 
 Part 3—Income tax relief for transfers
@@ -761,12 +760,7 @@ New Business Tax System (Consolidation and Other Measures) Act) 2003
 16, 2003
 11 Apr 2003
 Schedule 20 (items 1–8): (m)
-Sch. 20 (item 8)
-Australian Prudential Regulation Authority Amendment Act 2003
-42, 2003
-24 June 2003
-Schedules 1–3: 1 July 2003 (see Gazette 2003, No. S230) Remainder: Royal Assent
-Sch. 3
+Sch. 20 (item 8) [see Table A]
 (a)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 5 (item 14) only of the Taxation Laws Amendment Act (No. 2) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Financial Corporations (Transfer of Assets and Liabilities) Act 1993 was amended by Schedule 4 only of the Financial Laws Amendment Act 1997, subsections 2(1) and (2A) of which provide follows:
@@ -843,7 +837,7 @@ am. No. 107, 1997; No. 48, 1998; No. 24, 2000; No. 55, 2001; No. 33, 2002
 S. 10	
 am. No. 39, 1997
 S. 12	
-am. No. 54, 1998; No. 42, 2003
+am. No. 54, 1998
 S. 13	
 am. No. 39, 1997
 S. 15	
@@ -1036,35 +1030,4 @@ Schedule 20
 (1)	The amendments of the Financial Corporations (Transfer of Assets and Liabilities) Act 1993 made by this Schedule apply to assessments for the income year including 1 July 2002 and later income years.
 (2)	In this item:
 income year has the same meaning as in the Income Tax Assessment Act 1997.
-
-Australian Prudential Regulation Authority Amendment Act 2003 (No. 42, 2003)
-Schedule 3
-1  Definitions
-In this Schedule:
-amended Act means the Australian Prudential Regulation Authority Act 1998 as in force after the commencement of the amendments.
-commencement of the amendments means the commencement of the amendments made by Schedule 1.
-old Act means the Australian Prudential Regulation Authority Act 1998 as in force immediately before the commencement of the amendments.
-2  APRA’s corporate existence is continued
-(1)	The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (APRA) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
-Note:	Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA.
-(2)	However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
-Note:	These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed.
-3  Continued protection from liability
-Section 58 of the old Act continues to apply in relation to conduct, before the commencement of the amendments, of APRA’s Board, a member of APRA’s Board or an agent of a member of APRA’s Board.
-Note:	The reference to a member of APRA’s Board covers APRA’s Chief Executive Officer.
-4  Continued effect of certain delegations
-(1)	A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
-(2)	A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
-(3)	A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
-Note:	Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments.
-5  Continued effect of determinations of terms and conditions for staff and consultants
-A determination of terms and conditions in force, immediately before the commencement of the amendments, under subsection 45(2) or 47(2) of the old Act continues to have effect after that commencement as if it were a determination by APRA under that subsection of the amended Act.
-6  Continued effect of approvals under paragraph 56(5)(b)
-An approval in force, immediately before the commencement of the amendments, under paragraph 56(5)(b) of the old Act continues to have effect after that commencement as if it were an approval by APRA under that paragraph of the amended Act.
-7  Continued or extended effect of certain regulations
-(1)	Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of Act covered by this section in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of prudential regulation framework law in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
-(2)	Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
-8  Delegations by ASIC to APRA staff members
-(1)	Subsection 102(2A) of the Australian Securities and Investments Commission Act 2001 has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
-(2)	For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
