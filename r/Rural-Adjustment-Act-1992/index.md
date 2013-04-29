@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00215/Html/0ba689ad-bea0-4a57-847f-fcaa4ad4c690_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00292/Html/RuralAdjusAct_image001.gif)
 
-# Rural Adjustment Act 1992
+# Rural Adjustment Act 1992 
 
 **Act No. 240 of 1992 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 6 July 2009
+ taking into account amendments up to Act No. 53 of 2009
 
 The text of any of these amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -148,7 +147,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  to promote a better financial, technical and management performance from the farm sector; and
 
-                     (b)  to provide support, either directly or indirectly, to farmers who have prospects of sustainable long‑term profitability with a view to improving the productivity of their farm units; and
+                     (b)  to provide support, either directly or indirectly, to farmers who have prospects of sustainable long-term profitability with a view to improving the productivity of their farm units; and
 
                      (c)  in the case of direct support to farmers—to provide that support in a way that ensures that the farmers who are supported become financially independent of that support within a reasonable period; and
 
@@ -158,7 +157,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  grants for the purposes of farm training, planning, appraisal, support services and rural adjustment research; and
 
-                     (e)  to support farmers who do not have prospects of sustainable long‑term profitability to leave the farm sector; and
+                     (e)  to support farmers who do not have prospects of sustainable long-term profitability to leave the farm sector; and
 
                       (f)  to enable grants of money to be made to persons other than farmers for purposes relating to rural adjustment; and
 
@@ -212,7 +211,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  not more than 7 other members.
 
-             (2)  The members are to be appointed by the Minister, and are to be appointed on a part‑time basis.
+             (2)  The members are to be appointed by the Minister, and are to be appointed on a part-time basis.
 
              (3)  Of the members referred to in paragraph (1)(b):
 
@@ -254,7 +253,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="10"></a>10  Staff
 
-                   The Chairperson may make arrangements with the Secretary of the Department for the services of officers or employees of the Department to be made available to the Council.
+                   The Chairperson may make arrangements with the Secretary to the Department for the services of officers or employees of the Department to be made available to the Council.
 
 ### Division 3—Administrative provisions
 
@@ -560,7 +559,7 @@ This subsection does not, by implication, limit the generality of subsection (1)
 
 ##### <a id="23"></a>23  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
@@ -651,7 +650,7 @@ of Assent</div>
     <div>12 Apr 1995</div>
   </td>
   <td>
-    <div>S. 3 (items 29‑50): Royal Assent <i>(b)</i></div>
+    <div>S. 3 (items 29-50): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>S. 3 (item 50)</div>
@@ -759,30 +758,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 120): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Rural Adjustment Act 1992_ was amended by the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows:
 
                  (6)   The amendment of the _Rural Adjustment Act 1992_ made by the Schedule is taken to have commenced on 1 July 1993.
 
-_(b)_     The _Rural Adjustment Act 1992_ was amended by the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+_(b)_    The _Rural Adjustment Act 1992_ was amended by the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -941,14 +923,6 @@ _(f)_      The _Rural Adjustment Act 1992_ was amended by Schedule 6 o
   </td>
   <td>
     <div>am. No. 170, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
