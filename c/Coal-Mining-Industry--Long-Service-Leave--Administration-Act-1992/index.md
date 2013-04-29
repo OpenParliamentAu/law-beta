@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00264/Html/a286be01-40fe-4c03-ac0d-3cfc8397d898_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00058/Html/4cad5dd3-5c0e-412a-8f78-ecd1b51ccb39_files/image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 5 February 2010
+ taking into account amendments up to Act No. 127 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,137 +18,137 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Object
+[3](#3).            Object                                                                                                   1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                        2
 
-[5](#5).            Act to bind Crown
+[5](#5).            Act to bind Crown                                                                               4
 
 **Part 2—Establishment, functions and powers of Corporation**
 
-[6](#6).            Establishment of Corporation
+[6](#6).            Establishment of Corporation                                                               5
 
-[7](#7).            Functions of Corporation
+[7](#7).            Functions of Corporation                                                                     5
 
-[8](#8).            Powers of Corporation
+[8](#8).            Powers of Corporation                                                                         6
 
 **Part 3—Board of Directors of the Corporation** 
 
     **Division 1—Constitution of the Board**
 
-[9](#9).            The Board
+[9](#9).            The Board                                                                                            7
 
-[10](#10).          Board to manage affairs of Corporation
+[10](#10).          Board to manage affairs of Corporation                                               7
 
-[11](#11).          Guidelines for managing affairs of Corporation
+[11](#11).          Guidelines for managing affairs of Corporation                                   7
 
-[12](#12).          Constitution of the Board
+[12](#12).          Constitution of the Board                                                                     7
 
-[13](#13).          Appointment of Directors
+[13](#13).          Appointment of Directors                                                                    8
 
-[14](#14).          Appointment of Chairperson and Deputy Chairperson
+[14](#14).          Appointment of Chairperson and Deputy Chairperson                        9
 
     **Division 2—Meetings of the Board**
 
-[15](#15).          Convening of meetings
+[15](#15).          Convening of meetings                                                                      10
 
-[16](#16).          Presiding at meetings
+[16](#16).          Presiding at meetings                                                                         10
 
-[17](#17).          Quorum
+[17](#17).          Quorum                                                                                              10
 
-[18](#18).          Voting at meetings
+[18](#18).          Voting at meetings                                                                             11
 
-[19](#19).          Conduct of meetings
+[19](#19).          Conduct of meetings                                                                          11
 
-[20](#20).          Resolutions without meetings
+[20](#20).          Resolutions without meetings                                                            11
 
-[21](#21).          Records relating to meetings
+[21](#21).          Records relating to meetings                                                              11
 
     **Division 3—Provisions relating to Directors**
 
-[23](#23).          Term of appointment
+[23](#23).          Term of appointment                                                                          12
 
-[24](#24).          Remuneration and allowances
+[24](#24).          Remuneration and allowances                                                            12
 
-[25](#25).          Leave of absence
+[25](#25).          Leave of absence                                                                                12
 
-[26](#26).          Resignation
+[26](#26).          Resignation                                                                                        12
 
-[27](#27).          Outside employment
+[27](#27).          Outside employment                                                                          13
 
-[28](#28).          Termination of appointment
+[28](#28).          Termination of appointment                                                               13
 
-[29](#29).          Terms and conditions of appointment not provided for by Act
+[29](#29).          Terms and conditions of appointment not provided for by Act          13
 
-[31](#31).          Acting Chairperson and acting Deputy Chairperson
+[31](#31).          Acting Chairperson and acting Deputy Chairperson                          13
 
-[32](#32).          Acting Director
+[32](#32).          Acting Director                                                                                  14
 
 **Part 4—Staff of the Corporation**
 
-[33](#33).          Employees
+[33](#33).          Employees                                                                                          16
 
-[34](#34).          Consultants
+[34](#34).          Consultants                                                                                        16
 
 **Part 5—Finance**
 
-[35](#35).          Transfer of previous Fund to Corporation
+[35](#35).          Transfer of previous Fund to Corporation                                         17
 
-[36](#36).          Payments to Corporation
+[36](#36).          Payments to Corporation                                                                    17
 
-[37](#37).          Borrowing
+[37](#37).          Borrowing                                                                                          18
 
-[38](#38).          Corporation may give security
+[38](#38).          Corporation may give security                                                           18
 
-[39](#39).          Application to the Corporation of the Commonwealth Authorities and Companies Act
+[39](#39).          Application to the Corporation of the Commonwealth Authorities and Companies Act           18
 
 **Part 6—The Coal Mining Industry (Long Service Leave) Fund**
 
-[40](#40).          Establishment of the Fund
+[40](#40).          Establishment of the Fund                                                                  20
 
-[41](#41).          Application of the Fund
+[41](#41).          Application of the Fund                                                                     20
 
-[42](#42).          Investment of the Fund
+[42](#42).          Investment of the Fund                                                                      20
 
-[43](#43).          Sufficiency of the Fund
+[43](#43).          Sufficiency of the Fund                                                                      21
 
 **Part 7—Payments out of the Fund**
 
-[44](#44).          Reimbursement of employers in respect of payments for long service leave
+[44](#44).          Reimbursement of employers in respect of payments for long service leave            24
 
-[45](#45).          Reimbursement of employers in respect of certain past payments for long service leave
+[45](#45).          Reimbursement of employers in respect of certain past payments for long service leave         25
 
-[46](#46).          Reimbursement of employer if employee ceases to be eligible employee
+[46](#46).          Reimbursement of employer if employee ceases to be eligible employee 25
 
-[47](#47).          Reimbursement of overpayment of payroll levy
+[47](#47).          Reimbursement of overpayment of payroll levy                                 26
 
-[48](#48).          Payments to employees if employer being wound up
+[48](#48).          Payments to employees if employer being wound up                        26
 
-[48A](#48A).       Payments to former Oakdale employees
+[48A](#48A).       Payments to former Oakdale employees                                            27
 
-[48B](#48B).       Payments in respect of former employees of companies being wound up etc 
+[48B](#48B).       Payments in respect of former employees of companies being wound up etc          28
 
-[49](#49).          Board may determine claims for payment
+[49](#49).          Board may determine claims for payment                                          29
 
 **Part 8—Miscellaneous**
 
-[50](#50).          Delegation
+[50](#50).          Delegation                                                                                          30
 
-[51](#51).          Expenses of Corporation
+[51](#51).          Expenses of Corporation                                                                    30
 
-[52](#52).          Remuneration and allowances of Directors
+[52](#52).          Remuneration and allowances of Directors                                        30
 
-[53](#53).          Transitional
+[53](#53).          Transitional                                                                                        31
 
-[54](#54).          Regulations
+[54](#54).          Regulations                                                                                        31
 
-[55](#55).          Review of Act
+[55](#55).          Review of Act                                                                                    31
 
 **Notes** 
 
@@ -221,8 +221,6 @@ Note:          For prescription or declaration by class, see s
                     <a name="employ"></a>**_employer_** means a national system employer as defined in section 14 of the _Fair Work Act 2009_.
 
                     <a name="employ-repres-director"></a>**_employer‑representative Director_** means a Director referred to in subsection 13(2) or (3).
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40.
 
@@ -482,7 +480,7 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
              (2)   The Chairperson or Deputy Chairperson may resign from the office of Chairperson or Deputy Chairperson by writing signed by him or her and delivered to the Minister but a resignation from such an office does not affect his or her appointment as a Director.
 
-##### <a id="27"></a>27  Outside employment
+##### <a id="27"></a>27  Outside employment
 
                    A Director must not engage in any paid employment that, in the Minister’s opinion, conflicts with the proper performance of the Director’s functions.
 
@@ -566,7 +564,7 @@ the Deputy Chairperson is to act as Chairperson.
 
 ##### <a id="35"></a>35  Transfer of previous Fund to Corporation
 
-             (1)  Upon the commencement of this section, the amount in the Trust Fund standing to the credit of the previous Fund is payable to the Corporation, and the Finance Minister must arrange for the payment to be made as soon as practicable after that commencement.
+             (1)  Upon the commencement of this section, the amount in the Trust Fund standing to the credit of the previous Fund is payable to the Corporation, and the Minister for Finance must arrange for the payment to be made as soon as practicable after that commencement.
 
              (2)  Upon the making of the payment, the _States Grants (Coal Mining Industry Long Service Leave) Act 1949_ is, by force of this subsection, repealed.
 
@@ -582,7 +580,7 @@ the Deputy Chairperson is to act as Chairperson.
 
              (2)  The amounts that, but for this subsection, would be payable out of the Consolidated Revenue Fund to the Corporation under subsection (1) are reduced by such amount or amounts as are determined by the Minister to represent the expenses incurred by the Commonwealth in procuring the enactment, and in connection with the administration, of this Act, the Payroll Levy Act and the Payroll Levy Collection Act.
 
-             (3)  The Finance Minister may give directions as to the amounts and times of payments to the Corporation under this section.
+             (3)  The Minister for Finance may give directions as to the amounts and times of payments to the Corporation under this section.
 
              (4)  The Consolidated Revenue Fund is appropriated for the purposes of this section.
 
@@ -702,7 +700,7 @@ does not exceed $50,000 or, if a higher amount is prescribed, that higher amount
 
              (2)  For the purposes of subsection (1), the maximum reimbursable amount in respect of an eligible employee is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00264/Html/a286be01-40fe-4c03-ac0d-3cfc8397d898_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00058/Html/4cad5dd3-5c0e-412a-8f78-ecd1b51ccb39_files/image002.gif)
 
 where:
 
@@ -870,7 +868,7 @@ any of the Corporation’s powers and functions under this Act or the Payroll Le
 
 any of the Board’s powers under this Act or the Payroll Levy Collection Act other than the power to revoke or vary a decision made by the Board.
 
-             (3)  The Minister may, by signed writing, delegate to a person performing the duties of an office in the Department, the Minister’s powers under this Act other than the Minister’s powers under section 13, 14, 31 or 32.
+             (3)  The Minister may, by signed writing, delegate to a person performing the duties of an office in the Department of Industrial Relations, the Minister’s powers under this Act other than the Minister’s powers under section 13, 14, 31 or 32.
 
 ##### <a id="51"></a>51  Expenses of Corporation
 
@@ -1114,24 +1112,7 @@ Remainder: Royal Assent</div>
     <div>1 Jan 2010</div>
   </td>
   <td>
-    <div>Sch. 1 (item 7) and Sch. 2 (item 1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 50, 51) and Schedule 6 (item 22): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch.1 (item 7) and Sch. 2 (item 1)</div>
   </td>
 </tr></table>
 
@@ -1293,7 +1274,7 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009; No. 5, 2011</div>
+    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1378,14 +1359,6 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Ss. 35, 36</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 39</div>
   </td>
   <td>
@@ -1438,22 +1411,6 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
 
