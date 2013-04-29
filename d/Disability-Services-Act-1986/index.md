@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00331/Html/d6ba8da1-ca56-421f-9cf4-c19788100a27_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00362/Html/DisabilityServices1986WD02_image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 65 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -138,7 +138,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23](#23).          Recovery of costs of rehabilitation programs borne by the Commonwealth
 
-[24](#24).          Training allowance and living‑away‑from‑home allowance
+[24](#24).          Training allowance and living-away-from-home allowance
 
 [25](#25).          Arrangements for provision of rehabilitation programs
 
@@ -194,7 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  assist persons with disabilities to achieve positive outcomes, such as increased independence, employment opportunities and integration in the community; and
 
-                            (iii)  are provided in ways that promote in the community a positive image of persons with disabilities and enhance their self‑esteem;
+                            (iii)  are provided in ways that promote in the community a positive image of persons with disabilities and enhance their self-esteem;
 
                      (d)  to ensure that the outcomes achieved by persons with disabilities by the provision of services for them are taken into account in the granting of financial assistance for the provision of such services;
 
@@ -230,7 +230,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  an employee of a person referred to in paragraph (b).
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
 ##### <a id="5"></a>5  Principles, objectives and guidelines
 
@@ -386,9 +386,9 @@ whichever first occurs.
 
                     <a name="advocaci-servic"></a>**_advocacy services_** means:
 
-                     (a)  self‑advocacy services, namely, services to assist persons with disabilities to develop or maintain the personal skills and self‑confidence necessary to enable them to represent their own interests in the community;
+                     (a)  self-advocacy services, namely, services to assist persons with disabilities to develop or maintain the personal skills and self-confidence necessary to enable them to represent their own interests in the community;
 
-                     (b)  citizen‑advocacy services, namely, services to facilitate persons in the community to assist:
+                     (b)  citizen-advocacy services, namely, services to facilitate persons in the community to assist:
 
                               (i)  persons with disabilities; or
 
@@ -396,7 +396,7 @@ whichever first occurs.
 
                             to represent their interests in the community; or
 
-                     (c)  group‑advocacy services, namely, services to facilitate community organisations to represent the interests of groups of persons with disabilities.
+                     (c)  group-advocacy services, namely, services to facilitate community organisations to represent the interests of groups of persons with disabilities.
 
                     <a name="applic-standard"></a>**_applicable standards_** for a service means:
 
@@ -404,13 +404,13 @@ whichever first occurs.
 
                      (b)  for an employment service in respect of which a transitional grant is being received—the standards referred to in paragraph 12AB(2)(c).
 
-                    <a name="competit-employ-train-placem-servic"></a>**_competitive employment training and placement services_** means services (also known as open employment services) to assist persons with disabilities to obtain and retain, or retain, paid employment in the work‑force, and includes:
+                    <a name="competit-employ-train-placem-servic"></a>**_competitive employment training and placement services_** means services (also known as open employment services) to assist persons with disabilities to obtain and retain, or retain, paid employment in the work-force, and includes:
 
                      (a)  services to increase the independence, productivity or integration of persons with disabilities in work settings; and
 
                      (b)  employment preparation, and employment and vocational training services; and
 
-                     (c)  services to assist the transition of persons with disabilities from special education, or employment in supported work settings, to paid employment in the work‑force.
+                     (c)  services to assist the transition of persons with disabilities from special education, or employment in supported work settings, to paid employment in the work-force.
 
                     <a name="disabl-employ-standard"></a>**_disability employment standards_** means the standards determined by the Minister under paragraph 5A(1)(b) in relation to the provision of an employment service.
 
@@ -462,7 +462,7 @@ and, without limiting the generality of the above, includes a service of any of 
 
                      (g)  services included in a class of services approved by the Minister under section 9A.
 
-                    <a name="independ-live-train-servic"></a>**_independent living training services_** means services to assist persons with disabilities to develop or maintain the personal skills and self‑confidence necessary to enhance their independence, and self‑reliance, in the community.
+                    <a name="independ-live-train-servic"></a>**_independent living training services_** means services to assist persons with disabilities to develop or maintain the personal skills and self-confidence necessary to enhance their independence, and self-reliance, in the community.
 
                     <a name="inform-servic"></a>**_information services_** means services to facilitate access to information by:
 
@@ -478,7 +478,7 @@ and includes:
 
                     <a name="order"></a>**_orders_** means the orders made by the Minister under section 14F.
 
-                    <a name="pre-2002-03-grant"></a>**_pre‑2002‑03 grant_** has the meaning given by subsection 12AA(1).
+                    <a name="pre-2002-03-grant"></a>**_pre-2002-03 grant_** has the meaning given by subsection 12AA(1).
 
                     <a name="print-disabl-servic"></a>**_print disability services_** means services to facilitate access to, or the use of, printed materials by persons who, because of disabilities, are unable to read, hold or manipulate printed materials in standard form.
 
@@ -606,7 +606,7 @@ and includes:
 
                      (b)  determine the time or times at which, and the instalments (if any) in which, the financial assistance is to be paid; and
 
-                   (ba)  if the State or eligible organisation providing the eligible service has not previously received a grant of financial assistance under this Part in respect of the provision of the service—determine a day by which the State or eligible organisation must meet the eligibility standards in respect of the provision of the service; and
+                    (ba)  if the State or eligible organisation providing the eligible service has not previously received a grant of financial assistance under this Part in respect of the provision of the service—determine a day by which the State or eligible organisation must meet the eligibility standards in respect of the provision of the service; and
 
                      (c)  specify any other terms and conditions on which the financial assistance is granted.
 
@@ -704,7 +704,7 @@ and includes:
 
              (1)  Subject to subsection (2), this Subdivision authorises the giving of approval in certain circumstances to the making, during the transitional period, of grants of financial assistance to a State or eligible organisation in respect of an employment service if, and only if:
 
-                     (a)  approval was given under this Part as previously in force for a grant (the **_pre‑2002‑03 grant_**) of financial assistance in respect of the service that related to the financial year that began on 1 July 2001; and
+                     (a)  approval was given under this Part as previously in force for a grant (the **_pre-2002-03 grant_**) of financial assistance in respect of the service that related to the financial year that began on 1 July 2001; and
 
                      (b)  payment of, or payment of at least one instalment of, the grant has been made.
 
@@ -742,7 +742,7 @@ Note:          The _Disability Services Act 1986_ as previousl
 
                              (ii)  the State or organisation has given a written notice to the Minister, in accordance with the procedure set out in the relevant guidelines formulated under section 5, stating its intention to seek to obtain such a certificate on or before that day; and
 
-                     (c)  the Minister is satisfied that the State or organisation is meeting the standards that were the applicable standards in respect of the service under this Act as in force when the pre‑2002‑03 grant was approved.
+                     (c)  the Minister is satisfied that the State or organisation is meeting the standards that were the applicable standards in respect of the service under this Act as in force when the pre-2002-03 grant was approved.
 
              (3)  The Minister may make determinations for the purposes of subparagraph (2)(b)(i) and may vary such a determination so as to fix a later day than the day specified in the determination. However, the day specified in a determination, or in a determination as varied, cannot be later than 31 December 2004.
 
@@ -914,7 +914,7 @@ whether or not the grant is still being received at the relevant time.
 
 ##### <a id="14F"></a>14F  Minister may make orders
 
-                   The Minister may, by legislative instrument, make orders providing for the following matters:
+                   The Minister may, by legislative instrument, make orders providing for the following matters:
 
                      (a)  the notice requirements to be complied with before the Minister makes a declaration under section 14G;
 
@@ -1096,7 +1096,7 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="rehabilit-program"></a>**_rehabilitation program_** means a rehabilitation program under this Part, and, except in section 20, includes a follow‑up program under this Part.
+                    <a name="rehabilit-program"></a>**_rehabilitation program_** means a rehabilitation program under this Part, and, except in section 20, includes a follow-up program under this Part.
 
                     <a name="rehabilit-program-standard"></a>**_rehabilitation program standards_** means the standards determined by the Minister under paragraph 5A(1)(c) in relation to the provision of rehabilitation programs.
 
@@ -1142,9 +1142,9 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
 ##### <a id="20"></a>20  Provision of rehabilitation programs
 
-             (1)  Subject to section 21, the Secretary may (on the Commonwealth’s behalf) take measures, or enter into arrangements, to provide to persons in the target group such rehabilitation programs, and any follow‑up programs, that the Secretary considers necessary or desirable.
+             (1)  Subject to section 21, the Secretary may (on the Commonwealth’s behalf) take measures, or enter into arrangements, to provide to persons in the target group such rehabilitation programs, and any follow-up programs, that the Secretary considers necessary or desirable.
 
-             (2)  Without limiting the generality of subsection (1), the Secretary may, for the purposes of a rehabilitation program (including any follow‑up program), provide, or arrange for the provision of, the following:
+             (2)  Without limiting the generality of subsection (1), the Secretary may, for the purposes of a rehabilitation program (including any follow-up program), provide, or arrange for the provision of, the following:
 
                      (a)  employment and vocational training, educational courses and programs, and mobility and other independent living training;
 
@@ -1154,7 +1154,7 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
                      (d)  prostheses and aids, including:
 
-                              (i)  home and work‑place modifications; and
+                              (i)  home and work-place modifications; and
 
                              (ii)  modifications to vehicles, appliances and equipment;
 
@@ -1164,7 +1164,7 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
                      (g)  any other goods and services the Secretary considers necessary or desirable.
 
-             (3)  In connection with the provision of rehabilitation programs (including follow‑up programs), the Secretary may, on behalf of the Commonwealth:
+             (3)  In connection with the provision of rehabilitation programs (including follow-up programs), the Secretary may, on behalf of the Commonwealth:
 
                      (a)  provide; or
 
@@ -1304,7 +1304,7 @@ whichever is the lesser amount.
 
              (9)  Where the Secretary is satisfied that special circumstances exist by reason of which the whole or a part of an amount paid to, or recovered by, the Commonwealth by or from the person liable to pay compensation should be paid to the person entitled to receive compensation, the Secretary may make a payment accordingly.
 
-           (10)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+           (10)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
            (11)  This section has effect, in relation to the Commonwealth or an authority of the Commonwealth, notwithstanding the provisions of any other Act.
 
@@ -1316,7 +1316,7 @@ whichever is the lesser amount.
 
            (13)  A reference in subsection (5), (5A) or (12) to a person liable to pay compensation includes a reference to an insurer who, under a contract of insurance, is liable to indemnify the person liable to pay the compensation against such liability.
 
-##### <a id="24"></a>24  Training allowance and living‑away‑from‑home allowance
+##### <a id="24"></a>24  Training allowance and living-away-from-home allowance
 
              (1)  Where a person is undertaking a rehabilitation program that consists of, or includes, employment or vocational training, the Secretary may approve payment of a training allowance to the person.
 
@@ -1324,17 +1324,17 @@ whichever is the lesser amount.
 
              (3)  The Minister:
 
-                     (a)  shall determine different rates of training allowance for the purposes of subsection (2) in respect of persons undertaking full‑time employment or vocational training and persons undertaking part‑time employment or vocational training; and
+                     (a)  shall determine different rates of training allowance for the purposes of subsection (2) in respect of persons undertaking full-time employment or vocational training and persons undertaking part-time employment or vocational training; and
 
                      (b)  may determine different rates of training allowance in respect of different classes of persons having regard to their age.
 
-             (4)  Where the Secretary is satisfied that a person to whom payment of a training allowance has been approved is required to live away from the person’s usual place of residence for the purpose of undertaking employment or vocational training, the Secretary may approve payment to the person of a living‑away‑from‑home allowance, in addition to the training allowance, at the rate determined, by legislative instrument, by the Minister for the purposes of this subsection.
+             (4)  Where the Secretary is satisfied that a person to whom payment of a training allowance has been approved is required to live away from the person’s usual place of residence for the purpose of undertaking employment or vocational training, the Secretary may approve payment to the person of a living-away-from-home allowance, in addition to the training allowance, at the rate determined, by legislative instrument, by the Minister for the purposes of this subsection.
 
              (5)  Allowances under this section are payable from such dates, in respect of such periods, in such instalments and at such times as the Secretary determines.
 
              (6)  The following provisions apply in relation to allowances under this section as if an allowance under this section were an age pension under the _Social Security Act 1991_:
 
-                     (a)  subsection 1223(1) and paragraph 1223(1AB)(d) (debt arising from recipient’s contravention) and sections 1233 to 1237 (recovery, write‑off and waiver) of the _Social Security Act 1991_;
+                     (a)  subsection 1223(1) and paragraph 1223(1AB)(d) (debt arising from recipient’s contravention) and sections 1233 to 1237 (recovery, write-off and waiver) of the _Social Security Act 1991_;
 
                      (b)  sections 44, 55 and 57 (method of payment), 58 (claim for amounts owing at recipient’s death) and 60, 61 and 62 (protection of payment) of the _Social Security (Administration) Act 1999_.
 
@@ -1364,7 +1364,7 @@ whichever is the lesser amount.
 
              (5)  Where the Secretary affirms, revokes or varies a decision, the Secretary shall, by notice in writing served on the person who made the request, inform the person of the result of the reconsideration of the decision and the reasons for affirming, revoking or varying the decision, as the case may be.
 
-Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires a decision‑maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
+Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires a decision-maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
              (6)  Applications may be made to the Administrative Appeals Tribunal for review of reviewable decisions that have been affirmed or varied under subsection (4).
 
@@ -1398,7 +1398,7 @@ the Secretary may, by notice served on the person, require the person:
 
              (4)  A person is not excused from furnishing information, producing a document or giving evidence pursuant to a notice under subsection (1) on the ground that the information or evidence, or the production of the document, may tend to incriminate the person, but any information furnished, document produced or evidence given pursuant to a notice under subsection (1), and any information or thing (including any document) obtained as a direct or indirect consequence of the furnishing of the information, production of the document or giving of the evidence, as the case may be, is not admissible in evidence against the person in any criminal proceedings, other than proceedings for an offence against subsection (3).
 
-             (5)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+             (5)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
              (6)  This section does not require a person to furnish information, produce a document or give evidence to the extent that in doing so the person would contravene a law of the Commonwealth.
 
@@ -1408,7 +1408,7 @@ the Secretary may, by notice served on the person, require the person:
 
              (1)  A person shall, if the Secretary so directs, before performing any duties or exercising any powers under this Part, make before a Justice of the Peace or a Commissioner for Declarations a declaration in accordance with a form approved for the purpose by the Secretary.
 
-             (2)  Subject to subsection (5), a person shall not, directly or indirectly, make a record of, or divulge to any person, any information with respect to the affairs of another person acquired by the first‑mentioned person in the performance of duties or exercise of powers under this Part.
+             (2)  Subject to subsection (5), a person shall not, directly or indirectly, make a record of, or divulge to any person, any information with respect to the affairs of another person acquired by the first-mentioned person in the performance of duties or exercise of powers under this Part.
 
           (2A)  Subsection (2) does not apply if the person records or divulges the information in the performance of duties or exercise of powers under this Part or for the purposes of the administration of the _Social Security Act 1991_.
 
@@ -1472,7 +1472,7 @@ a person may be required:
 
                     (aa)  the power to determine standards under subsection 5A(1); and
 
-                   (ab)  the power to approve key performance indicators under subsection 5A(2); and
+                    (ab)  the power to approve key performance indicators under subsection 5A(2); and
 
                      (b)  the power to give approvals for the purposes of the definition of **_research or development activity_** in section 7; and
 
@@ -1480,7 +1480,7 @@ a person may be required:
 
                     (ca)  the power to give approvals under section 9A; and
 
-                   (cb)  the power to make orders under section 14F; and
+                    (cb)  the power to make orders under section 14F; and
 
                      (d)  the power to make determinations under section 24; and
 
@@ -1506,7 +1506,7 @@ a person may be required:
 
 ##### <a id="36"></a>36  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1520,9 +1520,9 @@ and, in particular, may make regulations prescribing fines not exceeding $1,000 
 
 The _Disability Services Act 1986_ as shown in this compilation comprises Act No. 129, 1986 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+The _Disability Services Act 1986_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended). The modifications are not incorporated in this compilation.
 
-The _Disability Services Act 1986_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (as amended). The modifications are not incorporated in this compilation.
+All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1713,7 +1713,7 @@ No. S190)</div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
     <div>164, 1994</div>
@@ -1953,30 +1953,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 7, 10, 17) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 53): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Disability Services Act 1986_ was amended by Part 3 (sections 11 and 12) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1990_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     Section 2 of the _Social Security (Rewrite) Transition Act 1991_ provides as follows:
+_(b)_    Section 2 of the _Social Security (Rewrite) Transition Act 1991_ provides as follows:
 
                    2.   This Act commences immediately after the _Social Security Act 1991_ commences.
 
@@ -2004,9 +1987,9 @@ _(f)_      The _Disability Services Act 1986_ was amended by sections�
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(g)_     The _Disability Services Act 1986_ was amended by section 26 only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
+_(g)_     The _Disability Services Act 1986_ was amended by section 26 only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
 
-                 (3)   Divisions 3 and 7 of Part 2 commence on 20 March 1995, immediately after the commencement of Divisions 6 and 7 of Part 2 of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act 1994_.
+                 (3)   Divisions 3 and 7 of Part 2 commence on 20 March 1995, immediately after the commencement of Divisions 6 and 7 of Part 2 of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act 1994_.
 
 _(h)_     Section 2 of the _Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994_ provides as follows:
 
@@ -2127,10 +2110,12 @@ _(o)_     Subsection 2(1) (item 8) of the _Higher Education Support (T
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -2248,7 +2233,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 28, 2002; No. 65, 2007; No. 5, 2011</div>
+    <div>am. No. 28, 2002; No. 65, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2645,7 +2630,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3B of Part II</div>
+    <div>Heading to Div. 3B of Part II.</div>
   </td>
   <td>
     <div>rs. No. 28, 2002</div>
@@ -2987,7 +2972,7 @@ _Disability Services Amendment (Improved Quality Assurance) Act 2002
 
 A determination made by the Minister that was in force under paragraph 9C(a) of the _Disability Services Act 1986_ immediately before the commencement of item 2 continues in force as if it had been made by the Minister under paragraph 5A(1)(a) inserted in that Act by that item but applies only in relation to eligibility services within the meaning of that Act as amended by this Schedule.
 
-## 52  Transitional—pre‑2002‑03 grants of financial assistance under Disability Services Act
+## 52  Transitional—pre-2002-03 grants of financial assistance under Disability Services Act
 
 Despite the amendments made by this Schedule, the _Disability Services Act 1986_ as in force immediately before the commencement of this item continues to apply in respect of grants of financial assistance in respect of employment services approved before 1 July 2002 as if those amendments had not been made.
 
@@ -3017,7 +3002,7 @@ The amendment made by item 6 applies to a rehabilitation program that:
 
 ## 10  Saving
 
-(1)       Despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a determination that:
+(1)        Despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a determination that:
 
                      (a)  was made, before the commencement of that item, under that subsection; and
 
@@ -3025,7 +3010,7 @@ The amendment made by item 6 applies to a rehabilitation program that:
 
 continues in force after that commencement as if the repeal had not occurred.
 
-(2)       To avoid doubt, despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a direction that:
+(2)        To avoid doubt, despite the repeal of subsection 22(2) of the _Disability Services Act 1986_ by item 9, a direction that:
 
                      (a)  was given, before the commencement of that item, under subsection 22(3) of that Act in relation to subsection 22(2) of that Act; and
 
