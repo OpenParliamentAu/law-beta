@@ -1,150 +1,153 @@
-![](http://www.comlaw.gov.au/Details/C2010C00864/Html/CSLSaleAct1993WD02HYP_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="678AFF3929DEDD8CCA256FB900307155/$FILE/image001.png"></v:imagedata></v:shape>
 
-# CSL Sale Act 1993
+# CSL <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place></st1:city> Act 1993<o:p></o:p>
 
-**Act No. 88 of 1993 as amended**
+**Act No. 88 of 1993 as amended<o:p></o:p>**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="2" month="3">2 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
+
 
 # Contents
 
-**Part 1—Preliminary** 
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>** 
 
-    **Division 1—Short title and commencement**
+    **Division 1—Short title and commencement<span style="mso-tab-count: 1">                                                     </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-    **Division 2—Interpretation**
+    **Division 2—Interpretation<span style="mso-tab-count: 1">                                                                                         </span>**
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[4](#4).            The sale day
+[4](#4).            The sale day<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-**Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961**
+**Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961<span style="mso-tab-count: 1">               </span>**
 
-Sections 5-7
+[Sections 5-7](#Sections 5-7).                                                                                                       
 
-[8](#8).            Other amendments
+[8](#8).            Other amendments<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-**Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
+**Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations<span style="mso-tab-count: 1">          </span>**
 
-Sections 9, 10
+[Sections 9, 10](#Sections 9, 10).                                                                                                     
 
-**Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations** 
+**Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations<span style="mso-tab-count: 1"> </span>**
 
-Sections 11, 12
+[Sections 11, 12](#Sections 11, 12).                                                                                                   
 
-**Part 5—Amendment of the Proceeds of Crime Regulations** 
+**Part 5—Amendment of the Proceeds of Crime Regulations<span style="mso-tab-count: 1">                          </span>**
 
-Sections 13, 14
+[Sections 13, 14](#Sections 13, 14).                                                                                                   
 
-**Part 6—Transitional and saving provisions** 
+**Part 6—Transitional and saving provisions<span style="mso-tab-count: 1">                                                             </span>** 
 
-    **Division 1—Transitional and saving provisions in relation to long service leave**
+    **Division 1—Transitional and saving provisions in relation to long service leave<span style="mso-tab-count: 1">           </span>**
 
-[15](#15).          Interpretation
+[15](#15).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[16](#16).          Long service leave for employees with less than 10 years service
+[16](#16).          Long service leave for employees with less than 10 years service<span style="mso-tab-count: 1 dotted">      </span>
 
-[17](#17).          Payments in lieu of long service leave for employees with less than 10 years service
+[17](#17).          Payments in lieu of long service leave for employees with less than 10 years service<span style="mso-tab-count: 1">            </span>
 
-[18](#18).          Payments on the death of an employee
+[18](#18).          Payments on the death of an employee<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[19](#19).          Employee’s long service leave credit for the purposes of sections 16 and 17
+[19](#19).          Employee’s long service leave credit for the purposes of sections 16 and 17<span style="mso-tab-count: 1">         </span>
 
-[20](#20).          Division not to affect an employee’s post-sale long service leave rights
+[20](#20).          Division not to affect an employee’s post-sale long service leave rights<span style="mso-tab-count: 1">                </span>
 
-[21](#21).          Saving—Long Service Leave Act
+[21](#21).          Saving—Long Service Leave Act<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-    **Division 2—Transitional and saving provisions relating to the Safety, Rehabilitation and Compensation Act 1988**
+    **Division 2—Transitional and saving provisions relating to the Safety, Rehabilitation and Compensation Act 1988<span style="mso-tab-count: 1">                                                                                                  </span>**
 
-[22](#22).          Interpretation
+[22](#22).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[23](#23).          Continued application of SRC Act
+[23](#23).          Continued application of SRC Act<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[24](#24).          Transitional provisions relating to the SRC Act that relate to CSL body employees and former CSL body employees
+[24](#24).          Transitional provisions relating to the SRC Act that relate to CSL body employees and former CSL body employees<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
 
-[25](#25).          Transitional provisions relating to Division 4A of Part VII of the SRC Act
+[25](#25).          Transitional provisions relating to Division 4A of Part VII of the SRC Act<span style="mso-tab-count: 1">          </span>
 
-[26](#26).          Transitional provision relating to Part VIIIA of the SRC Act
+[26](#26).          Transitional provision relating to Part VIIIA of the SRC Act<span style="mso-tab-count: 1 dotted">          </span>
 
-[27](#27).          Transitional provision relating to section 128A of the SRC Act
+[27](#27).          Transitional provision relating to section 128A of the SRC Act<span style="mso-tab-count: 1 dotted">      </span>
 
-[28](#28).          Notification of amount of salary etc  paid to employees of a CSL body
+[28](#28).          Notification of amount of salary etc  paid to employees of a CSL body<span style="mso-tab-count: 1">                </span>
 
-[29](#29).          Refund of licence fee paid under the SRC Act
+[29](#29).          Refund of licence fee paid under the SRC Act<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[30](#30).          Amendment of declarations under the SRC Act
+[30](#30).          Amendment of declarations under the SRC Act<span style="mso-tab-count: 1 dotted">                                </span>
 
-    **Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits**
+    **Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits<span style="mso-tab-count: 1">                                                                                                     </span>**
 
-[31](#31).          Saving—deferred benefits under the _Superannuation Act 1922_
+[31](#31).          Saving—deferred benefits under the _Superannuation Act 1922_<span style="mso-tab-count: 1 dotted">         </span>
 
-[32](#32).          Saving—deferred benefits under the _Superannuation Act 1976_
+[32](#32).          Saving—deferred benefits under the _Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">         </span>
 
-[33](#33).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_
+[33](#33).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the _Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
 
-[34](#34).          Saving—deferred benefits under the DFRDB Act
+[34](#34).          Saving—deferred benefits under the DFRDB Act<span style="mso-tab-count: 1 dotted">                            </span>
 
-[35](#35).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act
+[35](#35).          Saving—period of eligible employment for the purposes of Division 3 of Part IX of the DFRDB Act<span style="mso-tab-count: 1">                </span>
 
-[36](#36).          Application—_Superannuation Act 1922_
+[36](#36).          Application—_Superannuation Act 1922_<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[37](#37).          Application—_Superannuation Act 1976_
+[37](#37).          Application—_Superannuation Act 1976_<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[38](#38).          Application—_Superannuation Act 1990_
+[38](#38).          Application—_Superannuation Act 1990_<span style="mso-tab-count: 1 dotted">                                           </span>
 
-    **Division 4—Other transitional and saving provisions**
+    **Division 4—Other transitional and saving provisions<span style="mso-tab-count: 1">                              </span>**
 
-[39](#39).          Transitional maternity leave provisions relating to employees of CSL who are not on maternity leave immediately before the sale day
+[39](#39).          Transitional maternity leave provisions relating to employees of CSL who are not on maternity leave immediately before the sale day<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[40](#40).          Transitional maternity leave provisions relating to employees of CSL who are on maternity leave on or before the sale day
+[40](#40).          Transitional maternity leave provisions relating to employees of CSL who are on maternity leave on or before the sale day<span style="mso-tab-count: 1 dotted">                                                                                                     </span>
 
-[41](#41).          Saving—_Crimes (Superannuation Benefits) Act 1989_
+[41](#41).          Saving—_Crimes (Superannuation Benefits) Act 1989_<span style="mso-tab-count: 1 dotted">                        </span>
 
-[42](#42).          Saving—_Commonwealth Serum Laboratories Act 1961_
+[42](#42).          Saving—_Commonwealth Serum Laboratories Act 1961_<span style="mso-tab-count: 1 dotted">                   </span>
 
-[43](#43).          Saving—DPP Act
+[43](#43).          Saving—DPP Act<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[44](#44).          Saving—_Judiciary Act 1903_
+[44](#44).          Saving—_Judiciary Act 1903_<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[45](#45).          Saving—_Proceeds of Crime Act 1987_
+[45](#45).          Saving—_Proceeds of Crime Act 1987_<span style="mso-tab-count: 1 dotted">                                                </span>
 
-**Part 7—Other provisions relating to the sale of CSL**
+**Part 7—Other provisions relating to the sale of CSL<span style="mso-tab-count: 1">                                      </span>**
 
-[46](#46).          CSL not to be established by or under an Act or established by the Commonwealth
+[46](#46).          CSL not to be established by or under an Act or established by the Commonwealth<span style="mso-tab-count: 1">            </span>
 
-[47](#47).          Exemption from State and Territory taxes and fees
+[47](#47).          Exemption from State and Territory taxes and fees<span style="mso-tab-count: 1 dotted">                          </span>
 
-[48](#48).          Regulations connected with the sale of CSL
+[48](#48).          Regulations connected with the sale of CSL<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[49](#49).          Cessation of mobility rights
+[49](#49).          Cessation of mobility rights<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[50](#50).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+[50](#50).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_<span style="mso-tab-count: 1"> </span>
 
-[51](#51).          CSL body not to be eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+[51](#51).          CSL body not to be eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[52](#52).          Ending CSL’s liability under the _Commonwealth Borrowing Levy Act 1987_
+[52](#52).          Ending CSL’s liability under the _Commonwealth Borrowing Levy Act 1987_<span style="mso-tab-count: 1">          </span>
 
-[53](#53).          Amendments of other Acts
+[53](#53).          Amendments of other Acts<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-**Schedule 1—Other amendments of the Commonwealth Serum Laboratories Act 1961** 
+**Schedule 1—Other amendments of the Commonwealth Serum Laboratories Act 1961<span style="mso-tab-count: 1">    </span>** 
 
-**Schedule 2—Amendments of other Acts** 
+**Schedule 2—Amendments of other Acts<span style="mso-tab-count: 1">                                                                 </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+
 
 ## An Act relating to the sale of CSL Limited, and for related purposes
 
@@ -152,19 +155,21 @@ Sections 13, 14
 
 ### Division 1—Short title and commencement
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
 
-                   This Act may be cited as the _CSL__Sale__Act 1993_.
+                   This Act may be cited as the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
              (1)  Part 1 and sections 7 and 47 commence on the day on which this Act receives the Royal Assent.
 
              (2)  Sections 8 to 46 (inclusive) and sections 48 to 53 (inclusive) commence on the sale day.
 
-             (3)  Sections 5 and 6 are taken to have commenced on 22 February 1991.
+             (3)  Sections 5 and 6 are taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="22" month="2">22 February 1991</st1:date>.
 
-             (4)  If a provision of this Act has not commenced before 31 December 1994, the provision is taken to have been repealed on that day.
+             (4)  If a provision of this Act has not commenced before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="31" month="12">31 December 1994</st1:date>, the provision is taken to have been repealed on that day.
+
+<o:p> </o:p>
 
 ### Division 2—Interpretation
 
@@ -208,65 +213,67 @@ Sections 13, 14
 
              (3)  The notice must be published within 14 days after the specified day.
 
+<o:p> </o:p>
+
 ## Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961
 
 ##### Sections <a id="5-7"></a>5-7
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Part are incorporated in the compilation on SCALEplus.
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.
-
-* * *
+For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
 
 ##### <a id="8"></a>8  Other amendments
 
                    The Principal Act is further amended as set out in Schedule 1.
 
+<o:p> </o:p>
+
 ## Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
 
 ##### Sections<a id=" 9, 10"></a> 9, 10
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Part are incorporated in the compilation on FRLI.
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.
+For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
 
-* * *
+<o:p> </o:p>
 
 ## Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations
 
 ##### Sections<a id=" 11, 12"></a> 11, 12
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Part are incorporated in the compilation on FRLI.
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.
+For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
 
-* * *
+<o:p> </o:p>
 
 ## Part 5—Amendment of the Proceeds of Crime Regulations
 
 ##### Sections<a id=" 13, 14"></a> 13, 14
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Part are incorporated in the compilation on FRLI.
 
-For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.
+For access to the wording of the amendments made by this Part, _see_ Act No. 88 of 1993.</div>
 
-* * *
+<o:p> </o:p>
 
 ## Part 6—Transitional and saving provisions
 
@@ -320,7 +327,7 @@ the CSL body may grant the employee long service leave on full salary for a peri
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 16 of the _CSL__Sale__Act 1993_”.
+                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 16 of the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_”.
 
 ##### <a id="17"></a>17  Payments in lieu of long service leave for employees with less than 10 years service
 
@@ -362,7 +369,7 @@ the CSL body must pay him or her an amount equal to full salary in respect of hi
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 17 of the _CSL__Sale__Act 1993_”.
+                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 17 of the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_”.
 
 ##### <a id="18"></a>18  Payments on the death of an employee
 
@@ -397,39 +404,41 @@ TABLE
   <col width="38%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Provision</div>
-  </td>
-  <td>
-    <div>Omit this expression</div>
-  </td>
-  <td>
-    <div>Insert this expression</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>section 23</div>
-  </td>
-  <td>
-    <div>this Act</div>
-  </td>
-  <td>
-    <div>section 18 of the <i>CSL</i> <i>Sale</i> <i>Act 1993</i></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>subsections 23(2) and (3)</div>
-  </td>
-  <td>
-    <div>subsection 16(7) or 17(5)</div>
-  </td>
-  <td>
-    <div>section 18 of the <i>CSL</i> <i>Sale</i> <i>Act 1993</i></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Provision</div>
+    </td>
+    <td>
+      <div>Omit this expression</div>
+    </td>
+    <td>
+      <div>Insert this expression</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>section 23</div>
+    </td>
+    <td>
+      <div>this Act</div>
+    </td>
+    <td>
+      <div>section 18 of the <i style="mso-bidi-font-style: normal">CSL</i> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Sale</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Act 1993</i></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>subsections 23(2) and (3)</div>
+    </td>
+    <td>
+      <div>subsection 16(7) or 17(5)</div>
+    </td>
+    <td>
+      <div>section 18 of the <i style="mso-bidi-font-style: normal">CSL</i> <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <i style="mso-bidi-font-style: normal">Sale</i> </st1:place> </st1:city> <i style="mso-bidi-font-style: normal">Act 1993</i></div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="19"></a>19  Employee’s long service leave credit for the purposes of sections 16 and 17
 
@@ -454,6 +463,10 @@ To avoid doubt it is declared that this Division does not affect an employee’s
                      (a)  despite the amendment of the Long Service Leave (Commonwealth Employees) Regulations by this Act the employee’s accrued rights under that Act continue; and
 
                      (b)  that Act has effect after the sale day in relation to the employee as if CSL were an approving authority for the purposes of that Act.
+
+<o:p> </o:p>
+
+<o:p> </o:p>
 
 ### Division 2—Transitional and saving provisions relating to the Safety, Rehabilitation and Compensation Act 1988
 
@@ -513,13 +526,15 @@ including employees who have stopped being employees of a CSL body before the sa
 
              (1)  If a CSL body has paid a licence fee in respect of the licence fee year in which the sale day occurs under section 107R of the SRC Act, the CSL body is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00864/Html/CSLSaleAct1993WD02HYP_image002.gif)
+<v:shape id="_x0000_i1026" style="WIDTH: 143.25pt; HEIGHT: 42pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="678AFF3929DEDD8CCA256FB900307155/$FILE/image003.wmz"></v:imagedata></v:shape>
 
 where:
 
                     <a name="licenc-fee"></a>**_Licence fee_** means the fee paid under section 107R of the SRC Act in respect of the licence fee year in which the sale day occurs.
 
                     <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the licence fee year in which the sale day occurs.
+
+             (2)  An amount to which a CSL body is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund which is appropriated accordingly.
 
              (3)  In this section:
 
@@ -530,6 +545,8 @@ where:
              (1)  A notice published in the _Gazette_ before the sale day that declares a CSL body to be a body corporate to which the SRC Act applies for the purposes of the definition of **_Commonwealth authority_** in subsection 4(1) of the SRC Act is to have effect on and after the sale day as if it did not contain a reference to the CSL body.
 
              (2)  Subsection (1) does not prevent the declaration, as affected by that subsection, being amended or revoked by the Minister.
+
+<o:p> </o:p>
 
 ### Division 3—Transitional and saving provisions in relation to superannuation and other retirement benefits
 
@@ -580,6 +597,8 @@ where:
 ##### <a id="38"></a>38  Application—_Superannuation Act 1990_
 
                    On and after the sale day, a CSL body is not an approved authority for the purposes of the _Superannuation Act 1990_.
+
+<o:p> </o:p>
 
 ### Division 4—Other transitional and saving provisions
 
@@ -667,7 +686,9 @@ as if CSL were a body established by an Act.
 
              (2)  Unless the contrary intention appears, expressions used in this section that are also used in the _Proceeds of Crime Act 1987_ have the same respective meanings as in that Act.
 
-## Part 7—Other provisions relating to the sale of CSL
+<o:p> </o:p>
+
+## Part 7—Other provisions relating to the sale of CSL<o:p></o:p>
 
 ##### <a id="46"></a>46  CSL not to be established by or under an Act or established by the Commonwealth
 
@@ -765,13 +786,15 @@ stop applying to the employee on the sale day.
 
              (1)  If a CSL body has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the sale day occurs, then the CSL body is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00864/Html/CSLSaleAct1993WD02HYP_image003.gif)
+<v:shape id="_x0000_i1027" style="WIDTH: 147pt; HEIGHT: 42pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="678AFF3929DEDD8CCA256FB900307155/$FILE/image005.wmz"></v:imagedata></v:shape>
 
 where:
 
                     <a name="contribut"></a>**_Contribution_** means the contribution paid by the CSL body in respect of that financial year.
 
                     <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.
+
+             (2)  An amount to which a CSL body is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="51"></a>51  CSL body not to be eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
 
@@ -795,29 +818,30 @@ where:
 
                    The Acts specified in Schedule 2 are amended as set out in that Schedule.
 
-# Schedule 1—Other amendments of the Commonwealth Serum Laboratories Act 1961
+
+# <span style="mso-bookmark: CurrentFind"><span class="CharChapNo">Schedule 1</span>—<span class="CharChapText">Other amendments of the Commonwealth Serum Laboratories Act 1961</span></span><span style="mso-bookmark: CurrentFind"></span>
 
 _Section 8_
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Schedule are incorporated in the  compilation on SCALEplus.
 
 Commonwealth Serum Laboratories Act 1961
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.</div>
 
-* * *
+<o:p> </o:p>
 
 # Schedule 2—Amendments of other Acts
 
 _Section 53_
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
 The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
@@ -827,15 +851,14 @@ Commonwealth Borrowing Levy Act 1987
 
 Insurance Act 1973
 
-National Crime Authority Act 1984<span style="font-size: 9.0pt;font-style:normal"> \[now cited as</span><span style="font-size:9.0pt"> </span>Australian Crime Commission Act 2002<span style="font-size:9.0pt;font-style:normal">]</span>
+National Crime Authority Act 1984<span style="FONT-SIZE: 9pt; FONT-STYLE: normal"> \[now cited as</span><span style="FONT-SIZE: 9pt"> </span>Australian Crime Commission Act 2002<span style="FONT-SIZE: 9pt; FONT-STYLE: normal">]</span>
 
 Occupational Health and Safety (Commonwealth Employment) Act 1991
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.</div>
 
-* * *
 
-# Notes to the _CSL Sale Act 1993_
+# Notes to the _<span style="mso-no-proof: yes">CSL Sale Act 1993</span>_
 
 ### Note 1
 
@@ -857,100 +880,91 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>CSL Sale Act 1993</div>
-  </td>
-  <td>
-    <div>88, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>Part 1, ss. 7 and 47: Royal Assent 
-Ss. 5 and 6: 22 Feb 1991 
-Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 353, 354): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 126, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 12): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>CSL <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sale</st1:place> </st1:city>Act 1993</div>
+    </td>
+    <td>
+      <div>88, 1993</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="30" month="11">30 Nov 1993</st1:date></div>
+    </td>
+    <td>
+      <div>Part 1, ss. 7 and 47: Royal Assent 
+Ss. 5 and 6: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="22" month="2">22 Feb 1991</st1:date> 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="3" month="6">3 June 1994</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1994, No. S209) 
 
-_(a)_     The _CSL__Sale__Act 1993_ was amended by Schedule 1 (items 353 and 354) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 353, 354): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 126, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_     The _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_ was amended by Schedule 1 (items 353 and 354) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
+
 
 ## Table of Amendments
 
@@ -963,96 +977,51 @@ _(a)_     The _CSL__Sale__Act 1993_ was amended by Schedule 1 (items 353
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 6</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 29</div>
-    </td>
-    <td>
-      <div>am. No. 148, 2010</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 4</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 41 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -1068,12 +1037,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
 
- 
+<o:p> </o:p>
