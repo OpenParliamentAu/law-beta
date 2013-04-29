@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00931/Html/89fdb602-8369-4431-ad20-067baa4116bb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00142/Html/ca6cb006-b146-44ef-a175-6f5c9d6de01b_files/image001.gif)
 
 # Australian Postal Corporation Act 1989
 
 **Act No. 64 of 1989 as amended**
 
-This compilation was prepared on 14 December 2012
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 24 January 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -469,8 +470,6 @@ and includes:
 
                     <a name="postal-articl"></a>**_postal article_** means an article of a kind that, under the terms and conditions on which Australia Post supplies postal services, may be carried by post.
 
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
-
                     <a name="reserv-servic"></a>**_reserved services_** means the activities that Australia Post has, because of section 29, the exclusive right to engage in.
 
                     <a name="standard-postal-articl"></a>**_standard postal article_** means, subject to the regulations, a postal article that satisfies all of the following criteria:
@@ -515,7 +514,7 @@ and includes:
 
 ##### <a id="8"></a>8  Extension of Act to certain external Territories
 
-                   This Act extends to the external Territories (other than Norfolk Island).
+                   This Act extends to the external Territories (other than Norfolk Island).
 
 ##### <a id="9"></a>9  Extension of Act to offshore areas
 
@@ -931,11 +930,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (e)  there is a separate receptacle at a service centre of the service for the lodgment and collection of letters carried by the service that are sent to the person or sent by the person;
 
-                      (f)  the person:
-
-                              (i)  is a registered charity; or
-
-                             (ii)  is a government agency, partnership, educational institution, health or community service provider or other person carrying on a business or other undertaking not of a private or domestic nature, but is not a charity.
+                      (f)  the person is a government agency, partnership, educational institution, health or community service provider, charity, religious institution or other person carrying on a business or other undertaking not of a private or domestic nature.
 
           (1D)  Carriage of a letter from a service centre of a document exchange service to a person who is a member of the service is not covered by subparagraph (1)(ma)(iv) if the sender has addressed the letter using only a postal address.
 
@@ -1033,7 +1028,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (3)  The terms and conditions of a bulk interconnection service are not required to be limited to the matters mentioned in this section.
 
-##### <a id="32B"></a>32B  Regulations may provide for inquiries into certain disputes about bulk services
+##### <a id="32B"></a>32B  Regulations may provide for inquiries into certain disputes about bulk services
 
              (1)  The regulations may provide:
 
@@ -1797,7 +1792,7 @@ Note:          For rules that apply to acting appointments, se
 
              (2)  The terms and conditions of employment shall be determined by Australia Post.
 
-##### <a id="90"></a>90  Australia Post as employer
+##### <a id="90"></a>90  Australia Post as employer
 
                    Australia Post shall endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non‑discriminatory employment practices and other matters.
 
@@ -3030,7 +3025,7 @@ the amount shall be paid into an account kept by Australia Post called the Uncla
 
                      (b)  a right, power or privilege over, or in relation to, the land.
 
-##### <a id="100"></a>100  Public Works Committee Act
+##### <a id="100"></a>100  Public Works Committee Act
 
                    The _Public Works Committee Act 1969_ does not apply in relation to Australia Post.
 
@@ -3445,7 +3440,7 @@ S. 77: 6 Nov 1995 ( <i>see Gazette</i>1995, No. S423) <i>(d)</i></div>
     <div>Ss. 4–14 and Schedule 3 (item 62): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(n)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -3564,7 +3559,7 @@ Remainder: Royal Assent</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (item 3): 22 Nov 2008</div>
+    <div>Schedule 3 (item 3): 22 Nov 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -3581,7 +3576,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 2): 10 Dec 2008</div>
+    <div>Schedule 3 (items 1, 2): 10 Dec 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -3650,7 +3645,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 36, 37): 19 Apr 2011</div>
+    <div>Schedule 5 (items 36, 37): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3670,24 +3665,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 228–233) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 151, 152): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3775,8 +3753,8 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -3807,7 +3785,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 152, 1997; No. 69, 2004; No. 5, 2011; No. 169, 2012</div>
+    <div>am. No. 142, 1994; No. 152, 1997; No. 69, 2004; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4047,7 +4025,7 @@ _(n)_ The _Australian Postal Corporation Act 1989_ was amended by Schedule 3 (
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 142, 1994; No. 43, 1996; No. 69, 2004; No. 169, 2012</div>
+    <div>am. No. 142, 1994; No. 43, 1996; No. 69, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4971,7 +4949,7 @@ _Tax Law Improvement Act 1997 (No. 121, 1997)_
 
 ##### <a id="4"></a>4  Application of amendments
 
-                   An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
 
 * * *
 
