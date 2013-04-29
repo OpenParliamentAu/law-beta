@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00847/Html/536a7a25-65b6-421f-8a59-53bcb8ddb1a4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00673/Html/3eeaae12-c7f0-40f7-9784-6af5af4d9bab_files/image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 12 November 2012
- taking into account amendments up to Act No. 137 of 2012
+This compilation was prepared on 5 September 2012
+ taking into account amendments up to Act No. 85 of 2012
 
 **Volume 1** includes:     Table of Contents
          User’s guide
@@ -40,7 +40,8 @@ The operation of amendments that have been incorporated may be
          Note 2
          Table A
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -3294,14 +3295,6 @@ VC</div>
   </td>
   <td>
     <div>SA</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Serbia</div>
-  </td>
-  <td>
-    <div>RS</div>
   </td>
 </tr>
 <tr>
