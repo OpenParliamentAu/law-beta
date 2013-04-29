@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02155/Html/AusInstMariSci72_image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C02154/Html/AusInstMariSci72_image001.gif)
 
 # Australian Institute of Marine Science Act 1972 
 
 **Act No. 55 of 1972 as amended**
 
-This compilation was prepared on 5 November 2001
- taking into account amendments up to Act No. 159 of 2001
+This compilation was prepared on 22 March 2000
+ taking into account amendments up to Act No. 156 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,7 +15,7 @@ Prepared by the Office of Legislative Drafting,
 
  
 
-# Contents
+## Contents
 
 **Part I—Preliminary**
 
@@ -81,7 +81,7 @@ Prepared by the Office of Legislative Drafting,
 
 [29](#29).          Director not to undertake any other work                                         11
 
-[30](#30).          Acting Director                                                                                  11
+[30](#30).          Acting Director                                                                                  12
 
 [31](#31).          Oath or affirmation                                                                            13
 
@@ -119,7 +119,7 @@ Prepared by the Office of Legislative Drafting,
 
 **The Schedule** 
 
-**Notes** 
+**Notes to the _Australian Institute of Marine Science Act 1972_** 
 
 ## An Act relating to the Australian Institute of Marine Science
 
@@ -363,6 +363,8 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
              (1)  Subject to this Act, the Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Governor-General determines, but is eligible for re-appointment.
 
+             (2)  A person who has attained the age of 65 years shall not be appointed as the Director, and a person shall not be appointed as the Director for a period that extends beyond the date on which the person will attain the age of 65 years.
+
 ##### <a id="23"></a>23  Functions of Director
 
                    Subject to the general direction of the Council, the Director shall manage the affairs of the Institute.
@@ -411,7 +413,7 @@ the Governor-General shall remove the Director from office.
 
 ##### <a id="30"></a>30  Acting Director
 
-             (1)  The Minister may appoint a person to act in the office of Director:
+             (1)  The Minister may appoint a person who has not attained the age of 65 years to act in the office of Director:
 
                      (a)  during a vacancy in the office; or
 
@@ -429,7 +431,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (b)  terminate such an appointment at any time.
 
-             (5)  An appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
+             (5)  An appointment of a person under subsection (1) ceases to have effect if the person attains the age of 65 years or resigns the appointment by writing signed by the person and delivered to the Minister.
 
              (6)  While a person is acting in the office of Director, the person has and may exercise all the powers, and shall perform all the functions, of the Director.
 
@@ -549,17 +551,13 @@ AFFIRMATION
 
 The _Australian Institute of Marine Science Act 1972_ as shown in this compilation comprises Act No. 55, 1972 amended as indicated in the Tables below. 
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
-  <col width="0%">
+  <col width="16%">
   <col width="18%">
-  <col width="0%">
   <col width="22%">
   <col width="14%">
 </colgroup>
@@ -568,11 +566,11 @@ All relevant information pertaining to application, saving or transitional provi
   <td>
     <div>Act</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Number 
 and year</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Date 
 of Assent</div>
   </td>
@@ -587,13 +585,13 @@ of Assent</div>
   <td>
     <div>Australian Institute of Marine Science Act 1972</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>55, 1972</div>
   </td>
   <td>
     <div>9 June 1972</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>1 July 1972 ( <i>see Gazette</i>1972, No. 53, p. 5)</div>
   </td>
   <td>
@@ -604,13 +602,13 @@ of Assent</div>
   <td>
     <div>Australian Institute of Marine Science Act 1973</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>61, 1973</div>
   </td>
   <td>
     <div>18 June 1973</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>18 June 1973</div>
   </td>
   <td>
@@ -621,13 +619,13 @@ of Assent</div>
   <td>
     <div>Statute Law Revision Act 1973</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>216, 1973</div>
   </td>
   <td>
     <div>19 Dec 1973</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>31 Dec 1973</div>
   </td>
   <td>
@@ -638,13 +636,13 @@ of Assent</div>
   <td>
     <div>Administrative Changes (Consequential Provisions) Act 1978</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>36, 1978</div>
   </td>
   <td>
     <div>12 June 1978</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>12 June 1978</div>
   </td>
   <td>
@@ -655,13 +653,13 @@ of Assent</div>
   <td>
     <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>65, 1985</div>
   </td>
   <td>
     <div>5 June 1985</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>S. 3: 3 July 1985 <i>(a)</i></div>
   </td>
   <td>
@@ -672,13 +670,13 @@ of Assent</div>
   <td>
     <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>76, 1986</div>
   </td>
   <td>
     <div>24 June 1986</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>S. 3: Royal Assent <i>(b)</i></div>
   </td>
   <td>
@@ -689,13 +687,13 @@ of Assent</div>
   <td>
     <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>168, 1986</div>
   </td>
   <td>
     <div>18 Dec 1986</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>S. 3: Royal Assent <i>(c)</i></div>
   </td>
   <td>
@@ -706,13 +704,13 @@ of Assent</div>
   <td>
     <div>as amended by</div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
   <td>
     <div></div>
   </td>
-  <td colspan="2">
+  <td>
     <div></div>
   </td>
   <td>
@@ -723,13 +721,13 @@ of Assent</div>
   <td>
     <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>141, 1987</div>
   </td>
   <td>
     <div>18 Dec 1987</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>S. 3: Royal Assent <i>(d)</i></div>
   </td>
   <td>
@@ -740,13 +738,13 @@ of Assent</div>
   <td>
     <div>Industrial Relations Legislation Amendment Act 1991</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>122, 1991</div>
   </td>
   <td>
     <div>27 June 1991</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
 Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
@@ -759,13 +757,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>199, 1991</div>
   </td>
   <td>
     <div>18 Dec 1991</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>18 Dec 1991</div>
   </td>
   <td>
@@ -776,13 +774,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Industry, Technology and Commerce Legislation Amendment Act 1992</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>168, 1992</div>
   </td>
   <td>
     <div>11 Dec 1992</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Part 5 (ss. 14, 15): 30 July 1975 
 Remainder: Royal Assent</div>
   </td>
@@ -794,13 +792,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Statute Law Revision Act 1996</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>43, 1996</div>
   </td>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 4 (items 28-30): Royal Assent <i>(e)</i></div>
   </td>
   <td>
@@ -811,13 +809,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>152, 1997</div>
   </td>
   <td>
     <div>24 Oct 1997</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 2 (items 338-346): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(f)</i></div>
   </td>
   <td>
@@ -828,13 +826,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>146, 1999</div>
   </td>
   <td>
     <div>11 Nov 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 1 (items 198, 199): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
   </td>
   <td>
@@ -845,61 +843,18 @@ Remainder: Royal Assent</div>
   <td>
     <div>Corporate Law Economic Reform Program Act 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>156, 1999</div>
   </td>
   <td>
     <div>24 Nov 1999</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 10 (items 38, 39): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td colspan="2">
-    <div>1 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
 _(a)_     The _Australian Institute of Marine Science Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -1126,7 +1081,7 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 159, 2001</div>
+    <div>am. No. 76, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1191,14 +1146,6 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
   </td>
   <td>
     <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1385,22 +1332,6 @@ _(h)_     The _Australian Institute of Marine Science Act 1972_ was amen
     <div>am. No. 76, 1986</div>
   </td>
 </tr></table>
-
- 
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
-
-Schedule 1
-
-97  Application of amendments
-
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
 
  
 
