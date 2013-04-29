@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00701/Html/DataMatchPrAT1990WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00548/Html/DataMatchPrAT1990WD02_image001.gif)
 
 # Data-matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 1 October 2010
+This compilation was prepared on 5 August 2010
  taking into account amendments up to Act No. 105 of 2010
 
 The text of any of those amendments not in force
@@ -79,8 +79,6 @@ No New Databank
 Reports and Monitoring by the Privacy Commissioner
 
 **Notes** 
-
- 
 
 ## An Act to provide for the matching of data in relation to certain assistance and tax and to amend the _Privacy Act 1988_ 
 
@@ -250,9 +248,9 @@ Reports and Monitoring by the Privacy Commissioner
 
                              (ii)  the Student Financial Supplement Scheme established under Chapter 2B of the _Social Security Act 1991_ as in force before the commencement of Schedule 2 to the _Youth Allowance Consolidation Act 2000_; or
 
-                     (d)  any pension, allowance or other benefit or assistance given under the _Veterans’ Entitlements Act 1986_; or
+                     (d)  any pension, allowance or other benefit or assistance given under the _Veterans’ Entitlements Act 1986_;
 
-                  (daa)  any compensation or other benefit given under the _Military Rehabilitation and Compensation Act 2004_; or
+                  (daa)  any compensation or other benefit given under the _Military Rehabilitation and Compensation Act 2004_;
 
                     (da)  any youth training allowance given under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; or
 
@@ -260,13 +258,11 @@ Reports and Monitoring by the Privacy Commissioner
 
                     (dc)  childcare rebate under the _Childcare Rebate Act 1993_ as in force immediately before its repeal; or
 
-                    (dd)  family assistance within the meaning of the _A New Tax System (Family Assistance) Act 1999_; or
+                    (dd)  family assistance within the meaning of the _A New Tax System (Family Assistance) Act 1999_;
 
                     (de)  a payment of fee relief under the _Child Care Act 1972_ or any other payment known as Childcare assistance (fee relief) dealt with by the Department of Social Security or by the Services Delivery Agency; or
 
-                    (df)  child care assistance or child care rebate under the _Child Care Payments Act 1997_; or
-
-                     (e)  an instalment of parental leave pay under the _Paid Parental Leave Act 2010_;
+                    (df)  child care assistance or child care rebate under the _Child Care Payments Act 1997_;
 
 and, in relation to a person, means personal assistance given to, or claimed by, the person.
 
@@ -1728,7 +1724,7 @@ Schedule 7: <i>(zb)</i></div>
     <div>14 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 34, 35) and Schedule 2 (items 1, 2): 1 Oct 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 34, 35) and Schedule 2 (items 1, 2): \[ <i>see</i>s. 2(1), Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
@@ -2030,7 +2026,7 @@ _(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (R
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 115, 175 and 194, 1991; Nos. 81, 138 and 229, 1992; No. 121, 1993; Nos. 55, 109, 164, 174 and 184, 1994; Nos. 104, 105, 106 and 143, 1995; Nos. 43 and 84, 1996; Nos. 29, 39, 109, 197 and 202, 1997; No. 45, 1998; No. 83, 1999; No. 106, 2000; No. 52, 2004; Nos. 63 and 73, 2008; No. 105, 2010</div>
+    <div>am. Nos. 115, 175 and 194, 1991; Nos. 81, 138 and 229, 1992; No. 121, 1993; Nos. 55, 109, 164, 174 and 184, 1994; Nos. 104, 105, 106 and 143, 1995; Nos. 43 and 84, 1996; Nos. 29, 39, 109, 197 and 202, 1997; No. 45, 1998; No. 83, 1999; No. 106, 2000; No. 52, 2004; Nos. 63 and 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2202,7 +2198,28 @@ Omit “Privacy Commissioner”, substitute “Information Commissioner”.
 
 Repeal the Schedule.
 
-As at 1 October 2010 the amendments are not incorporated in this compilation.
+As at 5 August 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Paid Parental Leave (Consequential Amendments) Act 2010 
+ (No. 105, 2010)_
+
+The following amendments commence on 1 October 2010:
+
+## Schedule 1
+
+## 34  Subsection 3(1) (at the end of paragraphs (d), (daa) and (dd) of the definition of _personal assistance_)
+
+Add “or”.
+
+## 35  Subsection 3(1) (after paragraph (df) of the definition of _personal assistance_)
+
+Insert:
+
+                 or (e)  an instalment of parental leave pay under the _Paid Parental Leave Act 2010_;
+
+As at 5 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2253,6 +2270,8 @@ The amendment made by item 1 applies in relation to seniors health cards grant
 
 _Paid Parental Leave (Consequential Amendments) Act 2010 
  (No. 105, 2010)_
+
+The following provisions commence 1 October 2010:
 
 ## Schedule 2
 
