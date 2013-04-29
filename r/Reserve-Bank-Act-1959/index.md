@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00514/Html/ReserveBank1959_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00129/Html/ReserveBank1959_WD02_image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 27 July 2010
- taking into account amendments up to Act No. 82 of 2010
+This compilation was prepared on 20 March 2009
+ taking into account amendments up to Act No. 105 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1195,7 +1195,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="86"></a>86  Priority of debts due by other ADIs
 
-                   Notwithstanding anything contained in any law relating to the winding-up of companies, but subject to subsection 13A(3) of the _Banking Act 1959_, debts due to the Bank by an ADI shall, in the winding-up, have priority over all other debts.
+                   Notwithstanding anything contained in any law relating to the winding-up of companies, but subject to subsection 13A(3) of the _Banking Act 1959_, debts due to the Bank by an ADI shall, in the winding-up, have priority over all other debts other than debts due to the Commonwealth.
 
 ##### <a id="87"></a>87  Validity of acts and transactions of Bank
 
@@ -2071,23 +2071,6 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   </td>
   <td colspan="2">
     <div>Schedule 1 (item 59): <i>(s)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>82, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (item 27): 27 July 2010</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -3663,7 +3646,7 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>S. 86</div>
   </td>
   <td>
-    <div>am. No. 118, 1973; No. 48, 1998; No. 82, 2010</div>
+    <div>am. No. 118, 1973; No. 48, 1998</div>
   </td>
 </tr>
 <tr>
