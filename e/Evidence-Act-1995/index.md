@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00757/Html/f2cedd13-62cd-4281-a0de-8f5cb999bb10_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00203/Html/390b8aaa-c0f4-4cef-a581-c70c5147edcc_files/image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 16 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -88,7 +88,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Parties may question witnesses
 
-[28](#28).          Order of examination in chief, cross‑examination and re‑examination
+[28](#28).          Order of examination in chief, cross-examination and re-examination
 
 [29](#29).          Manner and form of questioning witnesses and their responses
 
@@ -106,15 +106,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [36](#36).          Person may be examined without subpoena or other process
 
-    **Division 4—Examination in chief and re‑examination**
+    **Division 4—Examination in chief and re-examination**
 
 [37](#37).          Leading questions
 
 [38](#38).          Unfavourable witnesses
 
-[39](#39).          Limits on re‑examination
+[39](#39).          Limits on re-examination
 
-    **Division 5—Cross‑examination**
+    **Division 5—Cross-examination**
 
 [40](#40).          Witness called in error
 
@@ -168,13 +168,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [59](#59).          The hearsay rule—exclusion of hearsay evidence
 
-[60](#60).          Exception: evidence relevant for a non‑hearsay purpose
+[60](#60).          Exception: evidence relevant for a non-hearsay purpose
 
 [61](#61).          Exceptions to the hearsay rule dependent on competency
 
-    **Division 2—First‑hand hearsay**
+    **Division 2—First-hand hearsay**
 
-[62](#62).          Restriction to “first‑hand” hearsay
+[62](#62).          Restriction to “first-hand” hearsay
 
 [63](#63).          Exception: civil proceedings if maker not available
 
@@ -224,7 +224,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [81](#81).          Hearsay and opinion rules: exception for admissions and related representations
 
-[82](#82).          Exclusion of evidence of admissions that is not first‑hand
+[82](#82).          Exclusion of evidence of admissions that is not first-hand
 
 [83](#83).          Exclusion of evidence of admissions as against third parties
 
@@ -278,13 +278,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [102](#102).        The credibility rule
 
-[103](#103).        Exception: cross‑examination as to credibility
+[103](#103).        Exception: cross-examination as to credibility
 
-[104](#104).        Further protections: cross‑examination of accused
+[104](#104).        Further protections: cross-examination of accused
 
 [106](#106).        Exception: rebutting denials by other evidence
 
-[108](#108).        Exception: re‑establishing credibility
+[108](#108).        Exception: re-establishing credibility
 
     **Division 3—Credibility of persons who are not witnesses**
 
@@ -302,9 +302,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [110](#110).        Evidence about character of accused persons
 
-[111](#111).        Evidence about character of co‑accused
+[111](#111).        Evidence about character of co-accused
 
-[112](#112).        Leave required to cross‑examine about character of accused or co‑accused
+[112](#112).        Leave required to cross-examine about character of accused or co-accused
 
 **Part 3.9—Identification evidence**
 
@@ -340,19 +340,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [126](#126).        Loss of client legal privilege: related communications and documents
 
-    **Division 1A—Journalists’ privilege**
+    **Division 1A—Professional confidential relationship privilege**
 
-[126G](#126G).     Definitions
+[126A](#126A).     Definitions
 
-[126H](#126H).     Protection of journalists’ sources
+[126B](#126B).     Exclusion of evidence of protected confidences
+
+[126C](#126C).     Loss of professional confidential relationship privilege: consent
+
+[126D](#126D).     Loss of professional confidential relationship privilege: misconduct
+
+[126E](#126E).      Ancillary orders
+
+[126F](#126F).      Application of Division
 
     **Division 2—Other privileges**
 
 [127](#127).        Religious confessions
 
-[128](#128).        Privilege in respect of self‑incrimination in other proceedings
+[128](#128).        Privilege in respect of self-incrimination in other proceedings
 
-[128A](#128A).     Privilege in respect of self‑incrimination—exception for certain orders etc
+[128A](#128A).     Privilege in respect of self-incrimination—exception for certain orders etc
 
     **Division 3—Evidence excluded in the public interest**
 
@@ -365,8 +373,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 4—General**
 
 [131A](#131A).     Extended application of Division 1A
-
-[131B](#131B).     Extended application of Division 1A etc  to all proceedings for Commonwealth offences
 
 [132](#132).        Court to inform of rights to make applications and objections
 
@@ -516,7 +522,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [186](#186).        Swearing of affidavits before justices of the peace, notaries public and lawyers
 
-[187](#187).        Abolition of the privilege against self‑incrimination for bodies corporate
+[187](#187).        Abolition of the privilege against self-incrimination for bodies corporate
 
 [188](#188).        Impounding documents
 
@@ -550,7 +556,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            References to businesses
 
-[2](#2).            References to examination in chief, cross‑examination and re‑examination
+[2](#2).            References to examination in chief, cross-examination and re-examination
 
 [3](#3).            References to civil penalties
 
@@ -570,7 +576,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          References to children and parents
 
-[11](#11).          References to de facto partners
+[11](#11).          References to de facto partners
 
 **Notes** 
 
@@ -652,7 +658,7 @@ Note 3:       Some provisions of this Act extend beyond proceedings 
 
 ·<span style="font:7.0pt " new="">         </span>swearing of affidavits for use in Australian courts exercising federal jurisdiction or similar jurisdiction (section 186);
 
-·<span style="font:7.0pt " new="">         </span>abolition of the privilege against self‑incrimination for bodies corporate (section 187).
+·<span style="font:7.0pt " new="">         </span>abolition of the privilege against self-incrimination for bodies corporate (section 187).
 
 Note 4:       See section 79 of the _Judiciary Act 1903_ for the application of this Act to proceedings in a State court exercising federal jurisdiction.
 
@@ -1002,7 +1008,7 @@ Note:          See sections 30 and 31 for examples of assist
 
                      (a)  the Sovereign;
 
-                     (b)  the Governor‑General;
+                     (b)  the Governor-General;
 
                      (c)  the Governor of a State;
 
@@ -1038,7 +1044,7 @@ Note:          **_Associated defendant_** is defined in the Di
 
              (1)  This section applies only in a criminal proceeding.
 
-             (2)  A person who, when required to give evidence, is the spouse, de facto partner, parent or child of a defendant may object to being required:
+             (2)  A person who, when required to give evidence, is the spouse, de facto partner, parent or child of a defendant may object to being required:
 
                      (a)  to give evidence; or
 
@@ -1098,21 +1104,21 @@ Note:          This section differs from section 19 of the N
 
              (3)  The judge or any party (other than the prosecutor) may comment on a failure to give evidence by a person who, at the time of the failure, was:
 
-                     (a)  the defendant’s spouse or de facto partner; or
+                     (a)  the defendant’s spouse or de facto partner; or
 
                      (b)  a parent or child of the defendant.
 
-             (4)  However, unless the comment is made by another defendant in the proceeding, a comment of a kind referred to in subsection (3) must not suggest that the spouse, de facto partner, parent or child failed to give evidence because:
+             (4)  However, unless the comment is made by another defendant in the proceeding, a comment of a kind referred to in subsection (3) must not suggest that the spouse, de facto partner, parent or child failed to give evidence because:
 
                      (a)  the defendant was guilty of the offence concerned; or
 
-                     (b)  the spouse, de facto partner, parent or child believed that the defendant was guilty of the offence concerned.
+                     (b)  the spouse, de facto partner, parent or child believed that the defendant was guilty of the offence concerned.
 
              (5)  If:
 
                      (a)  2 or more persons are being tried together for an indictable offence; and
 
-                     (b)  comment is made by any of those persons on the failure of any of those persons or of the spouse or de facto partner, or a parent or child, of any of those persons to give evidence;
+                     (b)  comment is made by any of those persons on the failure of any of those persons or of the spouse or de facto partner, or a parent or child, of any of those persons to give evidence;
 
 the judge may, in addition to commenting on the failure to give evidence, comment on any comment of a kind referred to in paragraph (b).
 
@@ -1178,13 +1184,13 @@ the judge may, in addition to commenting on the failure to give evidence, commen
 
                    A party may question any witness, except as provided by this Act.
 
-##### <a id="28"></a>28  Order of examination in chief, cross‑examination and re‑examination
+##### <a id="28"></a>28  Order of examination in chief, cross-examination and re-examination
 
                    Unless the court otherwise directs:
 
-                     (a)  cross‑examination of a witness is not to take place before the examination in chief of the witness; and
+                     (a)  cross-examination of a witness is not to take place before the examination in chief of the witness; and
 
-                     (b)  re‑examination of a witness is not to take place before all other parties who wish to do so have cross‑examined the witness.
+                     (b)  re-examination of a witness is not to take place before all other parties who wish to do so have cross-examined the witness.
 
 ##### <a id="29"></a>29  Manner and form of questioning witnesses and their responses
 
@@ -1276,17 +1282,17 @@ to give evidence and to produce documents or things even if a subpoena or other 
 
              (3)  A party who inspects a document or thing produced to the court because of subsection (1) need not use the document in evidence.
 
-### Division 4—Examination in chief and re‑examination
+### Division 4—Examination in chief and re-examination
 
 ##### <a id="37"></a>37  Leading questions
 
-             (1)  A leading question must not be put to a witness in examination in chief or in re‑examination unless:
+             (1)  A leading question must not be put to a witness in examination in chief or in re-examination unless:
 
                      (a)  the court gives leave; or
 
                      (b)  the question relates to a matter introductory to the witness’s evidence; or
 
-                     (c)  no objection is made to the question and (leaving aside the party conducting the examination in chief or re‑examination) each other party to the proceeding is represented by an Australian legal practitioner, legal counsel or prosecutor; or
+                     (c)  no objection is made to the question and (leaving aside the party conducting the examination in chief or re-examination) each other party to the proceeding is represented by an Australian legal practitioner, legal counsel or prosecutor; or
 
                      (d)  the question relates to a matter that is not in dispute; or
 
@@ -1300,7 +1306,7 @@ Note:          **_Leading question_** is defined in the Dictio
 
 ##### <a id="38"></a>38  Unfavourable witnesses
 
-             (1)  A party who called a witness may, with the leave of the court, question the witness, as though the party were cross‑examining the witness, about:
+             (1)  A party who called a witness may, with the leave of the court, question the witness, as though the party were cross-examining the witness, about:
 
                      (a)  evidence given by the witness that is unfavourable to the party; or
 
@@ -1308,13 +1314,13 @@ Note:          **_Leading question_** is defined in the Dictio
 
                      (c)  whether the witness has, at any time, made a prior inconsistent statement.
 
-             (2)  Questioning a witness under this section is taken to be cross‑examination for the purposes of this Act (other than section 39).
+             (2)  Questioning a witness under this section is taken to be cross-examination for the purposes of this Act (other than section 39).
 
              (3)  The party questioning the witness under this section may, with the leave of the court, question the witness about matters relevant only to the witness’s credibility.
 
 Note:          The rules about admissibility of evidence relevant only to credibility are set out in Part 3.7.
 
-             (4)  Questioning under this section is to take place before the other parties cross‑examine the witness, unless the court otherwise directs.
+             (4)  Questioning under this section is to take place before the other parties cross-examine the witness, unless the court otherwise directs.
 
              (5)  If the court so directs, the order in which the parties question the witness is to be as the court directs.
 
@@ -1324,29 +1330,29 @@ Note:          The rules about admissibility of evidence relev
 
                      (b)  the matters on which, and the extent to which, the witness has been, or is likely to be, questioned by another party.
 
-             (7)  A party is subject to the same liability to be cross‑examined under this section as any other witness if:
+             (7)  A party is subject to the same liability to be cross-examined under this section as any other witness if:
 
                      (a)  a proceeding is being conducted in the name of the party by or on behalf of an insurer or other person; and
 
                      (b)  the party is a witness in the proceeding.
 
-##### <a id="39"></a>39  Limits on re‑examination
+##### <a id="39"></a>39  Limits on re-examination
 
-                   On re‑examination:
+                   On re-examination:
 
-                     (a)  a witness may be questioned about matters arising out of evidence given by the witness in cross‑examination; and
+                     (a)  a witness may be questioned about matters arising out of evidence given by the witness in cross-examination; and
 
                      (b)  other questions may not be put to the witness unless the court gives leave.
 
-### Division 5—Cross‑examination
+### Division 5—Cross-examination
 
 ##### <a id="40"></a>40  Witness called in error
 
-                   A party is not to cross‑examine a witness who has been called in error by another party and has not been questioned by that other party about a matter relevant to a question to be determined in the proceeding.
+                   A party is not to cross-examine a witness who has been called in error by another party and has not been questioned by that other party about a matter relevant to a question to be determined in the proceeding.
 
 ##### <a id="41"></a>41  Improper questions
 
-             (1)  The court must disallow a question put to a witness in cross‑examination, or inform the witness that it need not be answered, if the court is of the opinion that the question (referred to as a **_disallowable question_**):
+             (1)  The court must disallow a question put to a witness in cross-examination, or inform the witness that it need not be answered, if the court is of the opinion that the question (referred to as a **_disallowable question_**):
 
                      (a)  is misleading or confusing; or
 
@@ -1386,15 +1392,15 @@ Note:          A person must not, without the express permissi
 
 ##### <a id="42"></a>42  Leading questions
 
-             (1)  A party may put a leading question to a witness in cross‑examination unless the court disallows the question or directs the witness not to answer it.
+             (1)  A party may put a leading question to a witness in cross-examination unless the court disallows the question or directs the witness not to answer it.
 
              (2)  Without limiting the matters that the court may take into account in deciding whether to disallow the question or give such a direction, it is to take into account the extent to which:
 
                      (a)  evidence that has been given by the witness in examination in chief is unfavourable to the party who called the witness; and
 
-                     (b)  the witness has an interest consistent with an interest of the cross‑examiner; and
+                     (b)  the witness has an interest consistent with an interest of the cross-examiner; and
 
-                     (c)  the witness is sympathetic to the party conducting the cross‑examination, either generally or about a particular matter; and
+                     (c)  the witness is sympathetic to the party conducting the cross-examination, either generally or about a particular matter; and
 
                      (d)  the witness’s age, or any mental, intellectual or physical disability to which the witness is subject, may affect the witness’s answers.
 
@@ -1406,25 +1412,25 @@ Note:          **_Leading question_** is defined in the Dictio
 
 ##### <a id="43"></a>43  Prior inconsistent statements of witnesses
 
-             (1)  A witness may be cross‑examined about a prior inconsistent statement alleged to have been made by the witness whether or not:
+             (1)  A witness may be cross-examined about a prior inconsistent statement alleged to have been made by the witness whether or not:
 
                      (a)  complete particulars of the statement have been given to the witness; or
 
                      (b)  a document containing a record of the statement has been shown to the witness.
 
-             (2)  If, in cross‑examination, a witness does not admit that he or she has made a prior inconsistent statement, the cross‑examiner is not to adduce evidence of the statement otherwise than from the witness unless, in the cross‑examination, the cross‑examiner:
+             (2)  If, in cross-examination, a witness does not admit that he or she has made a prior inconsistent statement, the cross-examiner is not to adduce evidence of the statement otherwise than from the witness unless, in the cross-examination, the cross-examiner:
 
                      (a)  informed the witness of enough of the circumstances of the making of the statement to enable the witness to identify the statement; and
 
                      (b)  drew the witness’s attention to so much of the statement as is inconsistent with the witness’s evidence.
 
-             (3)  For the purpose of adducing evidence of the statement, a party may re‑open the party’s case.
+             (3)  For the purpose of adducing evidence of the statement, a party may re-open the party’s case.
 
 ##### <a id="44"></a>44  Previous representations of other persons
 
-             (1)  Except as provided by this section, a cross‑examiner must not question a witness about a previous representation alleged to have been made by a person other than the witness.
+             (1)  Except as provided by this section, a cross-examiner must not question a witness about a previous representation alleged to have been made by a person other than the witness.
 
-             (2)  A cross‑examiner may question a witness about the representation and its contents if:
+             (2)  A cross-examiner may question a witness about the representation and its contents if:
 
                      (a)  evidence of the representation has been admitted; or
 
@@ -1434,17 +1440,17 @@ Note:          **_Leading question_** is defined in the Dictio
 
                      (a)  the document must be produced to the witness;
 
-                     (b)  if the document is a tape recording, or any other kind of document from which sounds are reproduced—the witness must be provided with the means (for example, headphones) to listen to the contents of the document without other persons present at the cross‑examination hearing those contents;
+                     (b)  if the document is a tape recording, or any other kind of document from which sounds are reproduced—the witness must be provided with the means (for example, headphones) to listen to the contents of the document without other persons present at the cross-examination hearing those contents;
 
                      (c)  the witness must be asked whether, having examined (or heard) the contents of the document, the witness stands by the evidence that he or she has given;
 
-                     (d)  neither the cross‑examiner nor the witness is to identify the document or disclose any of its contents.
+                     (d)  neither the cross-examiner nor the witness is to identify the document or disclose any of its contents.
 
              (4)  A document that is so used may be marked for identification.
 
 ##### <a id="45"></a>45  Production of documents
 
-             (1)  This section applies if a party is cross‑examining or has cross‑examined a witness about:
+             (1)  This section applies if a party is cross-examining or has cross-examined a witness about:
 
                      (a)  a prior inconsistent statement alleged to have been made by the witness that is recorded in a document; or
 
@@ -1468,11 +1474,11 @@ to the court or to that other party.
 
              (4)  Subsection (3) does not permit the court to admit a document or evidence that is not admissible because of Chapter 3.
 
-             (5)  The mere production of a document to a witness who is being cross‑examined does not give rise to a requirement that the cross‑examiner tender the document.
+             (5)  The mere production of a document to a witness who is being cross-examined does not give rise to a requirement that the cross-examiner tender the document.
 
 ##### <a id="46"></a>46  Leave to recall witnesses
 
-             (1)  The court may give leave to a party to recall a witness to give evidence about a matter raised by evidence adduced by another party, being a matter on which the witness was not cross‑examined, if the evidence concerned has been admitted and:
+             (1)  The court may give leave to a party to recall a witness to give evidence about a matter raised by evidence adduced by another party, being a matter on which the witness was not cross-examined, if the evidence concerned has been admitted and:
 
                      (a)  it contradicts evidence about the matter given by the witness in examination in chief; or
 
@@ -1638,7 +1644,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2011C00757/Html/f2cedd13-62cd-4281-a0de-8f5cb999bb10_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00203/Html/390b8aaa-c0f4-4cef-a581-c70c5147edcc_files/image002.gif)
 
  
 
@@ -1696,9 +1702,9 @@ Note:          Subsection (2A) was inserted as a response to
 
 Note:          Specific exceptions to the hearsay rule are as follows: 
 
-·<span style="font:7.0pt " new="">         </span>evidence relevant for a non‑hearsay purpose (section 60); 
+·<span style="font:7.0pt " new="">         </span>evidence relevant for a non-hearsay purpose (section 60); 
 
-·<span style="font:7.0pt " new="">         </span>first‑hand hearsay: 
+·<span style="font:7.0pt " new="">         </span>first-hand hearsay: 
 
 –    civil proceedings, if the maker of the representation is unavailable (section 63) or available (section 64);
 
@@ -1722,7 +1728,7 @@ Note:          Specific exceptions to the hearsay rule are as 
 
 ·<span style="font:7.0pt " new="">         </span>admissions (section 81); 
 
-·<span style="font:7.0pt " new="">         </span>representations about employment or authority (subsection 87(2)); 
+·<span style="font:7.0pt " new="">         </span>representations about employment or authority (subsection 87(2)); 
 
 ·<span style="font:7.0pt " new="">         </span>exceptions to the rule excluding evidence of judgments and convictions (subsection 92(3)); 
 
@@ -1738,7 +1744,7 @@ _Examples:_
 
 (3)    W had bought a video cassette recorder and written down its serial number on a document. Unless an exception to the hearsay rule applies, the document is inadmissible to prove that a video cassette recorder later found in D’s possession was the video cassette recorder bought by W.
 
-##### <a id="60"></a>60  Exception: evidence relevant for a non‑hearsay purpose
+##### <a id="60"></a>60  Exception: evidence relevant for a non-hearsay purpose
 
              (1)  The hearsay rule does not apply to evidence of a previous representation that is admitted because it is relevant for a purpose other than proof of an asserted fact.
 
@@ -1748,7 +1754,7 @@ Note:          Subsection (2) was inserted as a response to 
 
              (3)  However, this section does not apply in a criminal proceeding to evidence of an admission.
 
-Note:          The admission might still be admissible under section 81 as an exception to the hearsay rule if it is “first‑hand” hearsay: see section 82.
+Note:          The admission might still be admissible under section 81 as an exception to the hearsay rule if it is “first-hand” hearsay: see section 82.
 
 ##### <a id="61"></a>61  Exceptions to the hearsay rule dependent on competency
 
@@ -1760,9 +1766,9 @@ Note:          For the admissibility of such contemporaneous r
 
              (3)  For the purposes of this section, it is presumed, unless the contrary is proved, that when the representation was made the person who made it was competent to give evidence about the asserted fact.
 
-### Division 2—First‑hand hearsay
+### Division 2—First-hand hearsay
 
-##### <a id="62"></a>62  Restriction to “first‑hand” hearsay
+##### <a id="62"></a>62  Restriction to “first-hand” hearsay
 
              (1)  A reference in this Division (other than in subsection (2)) to a previous representation is a reference to a previous representation that was made by a person who had personal knowledge of an asserted fact.
 
@@ -1830,9 +1836,9 @@ Note:          Section 67 imposes notice requirements relati
 
              (3)  The hearsay rule does not apply to evidence of a previous representation made in the course of giving evidence in an Australian or overseas proceeding if, in that proceeding, the defendant in the proceeding to which this section is being applied:
 
-                     (a)  cross‑examined the person who made the representation about it; or
+                     (a)  cross-examined the person who made the representation about it; or
 
-                     (b)  had a reasonable opportunity to cross‑examine the person who made the representation about it.
+                     (b)  had a reasonable opportunity to cross-examine the person who made the representation about it.
 
 Note:          Section 67 imposes notice requirements relating to this subsection.
 
@@ -1842,13 +1848,13 @@ Note:          Section 67 imposes notice requirements relati
 
                      (b)  is admitted into evidence in the criminal proceeding because of subsection (3);
 
-cannot be used against a defendant who did not cross‑examine, and did not have a reasonable opportunity to cross‑examine, the person about the representation.
+cannot be used against a defendant who did not cross-examine, and did not have a reasonable opportunity to cross-examine, the person about the representation.
 
-             (5)  For the purposes of subsections (3) and (4), a defendant is taken to have had a reasonable opportunity to cross‑examine a person if the defendant was not present at a time when the cross‑examination of a person might have been conducted but:
+             (5)  For the purposes of subsections (3) and (4), a defendant is taken to have had a reasonable opportunity to cross-examine a person if the defendant was not present at a time when the cross-examination of a person might have been conducted but:
 
                      (a)  could reasonably have been present at that time; and
 
-                     (b)  if present could have cross‑examined the person.
+                     (b)  if present could have cross-examined the person.
 
              (6)  Evidence of the making of a representation to which subsection (3) applies may be adduced by producing a transcript, or a recording, of the representation that is authenticated by:
 
@@ -2034,7 +2040,7 @@ Note 3:       **_Electronic communication_** is defined in the Dicti
 
 ##### <a id="72"></a>72  Exception: Aboriginal and Torres Strait Islander traditional laws and customs
 
-                   The hearsay rule does not apply to evidence of a representation about the existence or non‑existence, or the content, of the traditional laws and customs of an Aboriginal or Torres Strait Islander group.
+                   The hearsay rule does not apply to evidence of a representation about the existence or non-existence, or the content, of the traditional laws and customs of an Aboriginal or Torres Strait Islander group.
 
 ##### <a id="73"></a>73  Exception: reputation as to relationships and age
 
@@ -2078,7 +2084,7 @@ Note 3:       **_Electronic communication_** is defined in the Dicti
 
 Note:          Specific exceptions to the opinion rule are as follows: 
 
-·<span style="font:7.0pt " new="">         </span>summaries of voluminous or complex documents (subsection 50(3)); 
+·<span style="font:7.0pt " new="">         </span>summaries of voluminous or complex documents (subsection 50(3)); 
 
 ·<span style="font:7.0pt " new="">         </span>evidence relevant otherwise than as opinion evidence (section 77); 
 
@@ -2116,7 +2122,7 @@ _Examples:_
 
 ##### <a id="78A"></a>78A  Exception: Aboriginal and Torres Strait Islander traditional laws and customs
 
-                   The opinion rule does not apply to evidence of an opinion expressed by a member of an Aboriginal or Torres Strait Islander group about the existence or non‑existence, or the content, of the traditional laws and customs of the group.
+                   The opinion rule does not apply to evidence of an opinion expressed by a member of an Aboriginal or Torres Strait Islander group about the existence or non-existence, or the content, of the traditional laws and customs of the group.
 
 ##### <a id="79"></a>79  Exception: opinions based on specialised knowledge
 
@@ -2156,7 +2162,7 @@ Note:          **_Admission_** is defined in the Dictionary.
 
 Note:          Specific exclusionary rules relating to admissions are as follows: 
 
-·<span style="font:7.0pt " new="">         </span>evidence of admissions that is not first‑hand (section 82); 
+·<span style="font:7.0pt " new="">         </span>evidence of admissions that is not first-hand (section 82); 
 
 ·<span style="font:7.0pt " new="">         </span>use of admissions against third parties (section 83); 
 
@@ -2166,13 +2172,13 @@ Note:          Specific exclusionary rules relating to admissi
 
 ·<span style="font:7.0pt " new="">         </span>records of oral questioning of accused persons (section 86). 
 
-_Example_:    D admits to W, his best friend, that he sexually assaulted V. In D’s trial for the sexual assault, the prosecution may lead evidence from W:
+_Example_: D admits to W, his best friend, that he sexually assaulted           V. In D’s trial for the sexual assault, the prosecution     may lead evidence from W:
 
 (a)     that D made the admission to W as proof of the truth of that admission; and
 
 (b)     that W formed the opinion that D was sane when he made the admission.
 
-##### <a id="82"></a>82  Exclusion of evidence of admissions that is not first‑hand
+##### <a id="82"></a>82  Exclusion of evidence of admissions that is not first-hand
 
                    Section 81 does not prevent the application of the hearsay rule to evidence of an admission unless:
 
@@ -2464,11 +2470,11 @@ Note 2:       Section 101A was inserted as a response to the decis
 
 Note 1:       Specific exceptions to the credibility rule are as follows:
 
-·<span style="font:7.0pt " new="">         </span>evidence adduced in cross‑examination (sections 103 and 104);
+·<span style="font:7.0pt " new="">         </span>evidence adduced in cross-examination (sections 103 and 104);
 
 ·<span style="font:7.0pt " new="">         </span>evidence in rebuttal of denials (section 106);
 
-·<span style="font:7.0pt " new="">         </span>evidence to re‑establish credibility (section 108);
+·<span style="font:7.0pt " new="">         </span>evidence to re-establish credibility (section 108);
 
 ·<span style="font:7.0pt " new="">         </span>evidence of persons with specialised knowledge (section 108C);
 
@@ -2478,9 +2484,9 @@ Other provisions of this Act, or of other laws, may operate as further exception
 
 Note 2:       Sections 108A and 108B deal with the admission of credibility evidence about a person who has made a previous representation but who is not a witness.
 
-##### <a id="103"></a>103  Exception: cross‑examination as to credibility
+##### <a id="103"></a>103  Exception: cross-examination as to credibility
 
-             (1)  The credibility rule does not apply to evidence adduced in cross‑examination of a witness if the evidence could substantially affect the assessment of the credibility of the witness.
+             (1)  The credibility rule does not apply to evidence adduced in cross-examination of a witness if the evidence could substantially affect the assessment of the credibility of the witness.
 
              (2)  Without limiting the matters to which the court may have regard for the purposes of subsection (1), it is to have regard to:
 
@@ -2488,13 +2494,13 @@ Note 2:       Sections 108A and 108B deal with the admission of cr
 
                      (b)  the period that has elapsed since the acts or events to which the evidence relates were done or occurred.
 
-##### <a id="104"></a>104  Further protections: cross‑examination of accused
+##### <a id="104"></a>104  Further protections: cross-examination of accused
 
              (1)  This section applies only to credibility evidence in a criminal proceeding and so applies in addition to section 103.
 
-             (2)  A defendant must not be cross‑examined about a matter that is relevant to the assessment of the defendant’s credibility, unless the court gives leave.
+             (2)  A defendant must not be cross-examined about a matter that is relevant to the assessment of the defendant’s credibility, unless the court gives leave.
 
-             (3)  Despite subsection (2), leave is not required for cross‑examination by the prosecutor about whether the defendant:
+             (3)  Despite subsection (2), leave is not required for cross-examination by the prosecutor about whether the defendant:
 
                      (a)  is biased or has a motive to be untruthful; or
 
@@ -2502,7 +2508,7 @@ Note 2:       Sections 108A and 108B deal with the admission of cr
 
                      (c)  has made a prior inconsistent statement.
 
-             (4)  Leave must not be given for cross‑examination by the prosecutor under subsection (2) unless evidence adduced by the defendant has been admitted that:
+             (4)  Leave must not be given for cross-examination by the prosecutor under subsection (2) unless evidence adduced by the defendant has been admitted that:
 
                      (a)  tends to prove that a witness called by the prosecutor has a tendency to be untruthful; and
 
@@ -2514,9 +2520,9 @@ Note 2:       Sections 108A and 108B deal with the admission of cr
 
                      (b)  the investigation of the offence for which the defendant is being prosecuted.
 
-             (6)  Leave is not to be given for cross‑examination by another defendant unless:
+             (6)  Leave is not to be given for cross-examination by another defendant unless:
 
-                     (a)  the evidence that the defendant to be cross‑examined has given includes evidence adverse to the defendant seeking leave to cross‑examine; and
+                     (a)  the evidence that the defendant to be cross-examined has given includes evidence adverse to the defendant seeking leave to cross-examine; and
 
                      (b)  that evidence has been admitted.
 
@@ -2524,7 +2530,7 @@ Note 2:       Sections 108A and 108B deal with the admission of cr
 
              (1)  The credibility rule does not apply to evidence that is relevant to a witness’s credibility and that is adduced otherwise than from the witness if:
 
-                     (a)  in cross‑examination of the witness:
+                     (a)  in cross-examination of the witness:
 
                               (i)  the substance of the evidence was put to the witness; and
 
@@ -2544,15 +2550,15 @@ Note 2:       Sections 108A and 108B deal with the admission of cr
 
                      (e)  has knowingly or recklessly made a false representation while under an obligation, imposed by or under an Australian law or a law of a foreign country, to tell the truth.
 
-##### <a id="108"></a>108  Exception: re‑establishing credibility
+##### <a id="108"></a>108  Exception: re-establishing credibility
 
-             (1)  The credibility rule does not apply to evidence adduced in re‑examination of a witness.
+             (1)  The credibility rule does not apply to evidence adduced in re-examination of a witness.
 
              (3)  The credibility rule does not apply to evidence of a prior consistent statement of a witness if:
 
                      (a)  evidence of a prior inconsistent statement of the witness has been admitted; or
 
-                     (b)  it is or will be suggested (either expressly or by implication) that evidence given by the witness has been fabricated or re‑constructed (whether deliberately or otherwise) or is the result of a suggestion;
+                     (b)  it is or will be suggested (either expressly or by implication) that evidence given by the witness has been fabricated or re-constructed (whether deliberately or otherwise) or is the result of a suggestion;
 
 and the court gives leave to adduce the evidence of the prior consistent statement.
 
@@ -2642,7 +2648,7 @@ credibility evidence about the person who made the representation is not admissi
 
              (3)  If evidence adduced to prove (directly or by implication) that a defendant is a person of good character in a particular respect has been admitted, the hearsay rule, the opinion rule, the tendency rule and the credibility rule do not apply to evidence adduced to prove (directly or by implication) that the defendant is not a person of good character in that respect.
 
-##### <a id="111"></a>111  Evidence about character of co‑accused
+##### <a id="111"></a>111  Evidence about character of co-accused
 
              (1)  The hearsay rule and the tendency rule do not apply to evidence of a defendant’s character if:
 
@@ -2654,9 +2660,9 @@ credibility evidence about the person who made the representation is not admissi
 
              (2)  If such evidence has been admitted, the hearsay rule, the opinion rule and the tendency rule do not apply to evidence adduced to prove that that evidence should not be accepted.
 
-##### <a id="112"></a>112  Leave required to cross‑examine about character of accused or co‑accused
+##### <a id="112"></a>112  Leave required to cross-examine about character of accused or co-accused
 
-                   A defendant must not be cross‑examined about matters arising out of evidence of a kind referred to in this Part unless the court gives leave.
+                   A defendant must not be cross-examined about matters arising out of evidence of a kind referred to in this Part unless the court gives leave.
 
 ## Part 3.9—Identification evidence
 
@@ -2812,9 +2818,9 @@ was under an express or implied obligation not to disclose its contents, whether
 
                      (a)  an Australian lawyer; and
 
-                     (b)  an Australian‑registered foreign lawyer; and
+                     (b)  an Australian-registered foreign lawyer; and
 
-                     (c)  an overseas‑registered foreign lawyer or a natural person who, under the law of a foreign country, is permitted to engage in legal practice in that country; and
+                     (c)  an overseas-registered foreign lawyer or a natural person who, under the law of a foreign country, is permitted to engage in legal practice in that country; and
 
                      (d)  an employee or agent of a lawyer referred to in paragraph (a), (b) or (c).
 
@@ -2952,29 +2958,111 @@ Note:
 
 _Example:_    A lawyer advises his client to understate her income for the previous year to evade taxation because of her potential tax liability “as set out in my previous letter to you dated 11 August 1994”. In proceedings against the taxpayer for tax evasion, evidence of the contents of the letter dated 11 August 1994 may be admissible (even if that letter would otherwise be privileged) to enable a proper understanding of the second letter.
 
-### Division 1A—Journalists’ privilege
+### Division 1A—Professional confidential relationship privilege
 
-##### <a id="126G"></a>126G  Definitions
+##### <a id="126A"></a>126A  Definitions
 
              (1)  In this Division:
 
-                    <a name="inform"></a>**_informant_** means a person who gives information to a journalist in the normal course of the journalist’s work in the expectation that the information may be published in a news medium.
+                    <a name="harm"></a>**_harm_** includes actual physical bodily harm, financial loss, stress or shock, damage to reputation or emotional or psychological harm (such as shame, humiliation and fear).
 
-                    <a name="journalist"></a>**_journalist_** means a person who is engaged and active in the publication of news and who may be given information by an informant in the expectation that the information may be published in a news medium.
+                    <a name="confid"></a><a name="protect-confid"></a>**_protected confidence_** means a communication made by a person in confidence to a journalist (in this Division called the **_confidant_**):
 
-                    <a name="new-mium"></a>**_news medium_** means any medium for the dissemination to the public or a section of the public of news and observations on news.
+                     (a)  in the course of a relationship in which the confidant was acting in a professional capacity; and
 
-##### <a id="126H"></a>126H  Protection of journalists’ sources
+                     (b)  when the confidant was under an express or implied obligation not to disclose its contents, whether or not the obligation arises under law or can be inferred from the nature of the relationship between the person and the confidant.
 
-             (1)  If a journalist has promised an informant not to disclose the informant’s identity, neither the journalist nor his or her employer is compellable to answer any question or produce any document that would disclose the identity of the informant or enable that identity to be ascertained.
+Note:          This definition differs from the corresponding definition in subsection 126A(1) of the NSW Act, which is not limited to communications to journalists.
 
-             (2)  The court may, on the application of a party, order that subsection (1) is not to apply if it is satisfied that, having regard to the issues to be determined in that proceeding, the public interest in the disclosure of evidence of the identity of the informant outweighs:
+                    <a name="protect-confid"></a>**_protected confider_** means a person who made a protected confidence.
 
-                     (a)  any likely adverse effect of the disclosure on the informant or any other person; and
+                    <a name="protect-ident-inform"></a>**_protected identity information_** means information about, or enabling a person to ascertain, the identity of the person who made a protected confidence.
 
-                     (b)  the public interest in the communication of facts and opinion to the public by the news media and, accordingly also, in the ability of the news media to access sources of facts.
+             (2)  For the purposes of this Division, a communication may be made in confidence even if it is made in the presence of a third party if the third party’s presence is necessary to facilitate communication.
 
-             (3)  An order under subsection (2) may be made subject to such terms and conditions (if any) as the court thinks fit.
+##### <a id="126B"></a>126B  Exclusion of evidence of protected confidences
+
+             (1)  The court may direct that evidence not be adduced in a proceeding if the court finds that adducing it would disclose:
+
+                     (a)  a protected confidence; or
+
+                     (b)  the contents of a document recording a protected confidence; or
+
+                     (c)  protected identity information.
+
+             (2)  The court may give such a direction:
+
+                     (a)  on its own initiative; or
+
+                     (b)  on the application of the protected confider or confidant concerned (whether or not either is a party).
+
+             (3)  The court must give such a direction if it is satisfied that:
+
+                     (a)  it is likely that harm would or might be caused (whether directly or indirectly) to a protected confider if the evidence is adduced; and
+
+                     (b)  the nature and extent of the harm outweighs the desirability of the evidence being given.
+
+             (4)  Without limiting the matters that the court may take into account for the purposes of this section, it is to take into account the following matters:
+
+                     (a)  the probative value of the evidence in the proceeding;
+
+                     (b)  the importance of the evidence in the proceeding;
+
+                     (c)  the nature and gravity of the relevant offence, cause of action or defence and the nature of the subject matter of the proceeding;
+
+                     (d)  the availability of any other evidence concerning the matters to which the protected confidence or protected identity information relates;
+
+                     (e)  the likely effect of adducing evidence of the protected confidence or protected identity information, including the likelihood of harm, and the nature and extent of harm that would be caused to the protected confider;
+
+                      (f)  the means (including any ancillary orders that may be made under section 126E) available to the court to limit the harm or extent of the harm that is likely to be caused if evidence of the protected confidence or the protected identity information is disclosed;
+
+                     (g)  if the proceeding is a criminal proceeding—whether the party seeking to adduce evidence of the protected confidence or protected identity information is a defendant or the prosecutor;
+
+                     (h)  whether the substance of the protected confidence or the protected identity information has already been disclosed by the protected confider or any other person.
+
+The court must also take into account, and give the greatest weight to, any risk of prejudice to national security (within the meaning of section 8 of the _National Security Information (Criminal and Civil Proceedings) Act 2004_).
+
+             (5)  The court must state its reasons for giving or refusing to give a direction under this section.
+
+##### <a id="126C"></a>126C  Loss of professional confidential relationship privilege: consent
+
+                   This Division does not prevent the adducing of evidence given with the consent of the protected confider concerned.
+
+##### <a id="126D"></a>126D  Loss of professional confidential relationship privilege: misconduct
+
+             (1)  This Division does not prevent the adducing of evidence of a communication made or the contents of a document prepared in the furtherance of the commission of a fraud or an offence or the commission of an act that renders a person liable to a civil penalty.
+
+             (2)  For the purposes of this section, if the commission of the fraud, offence or act is a fact in issue and there are reasonable grounds for finding that:
+
+                     (a)  the fraud, offence or act was committed; and
+
+                     (b)  a communication was made or document prepared in furtherance of the commission of the fraud, offence or act;
+
+the court may find that the communication was so made or document so prepared.
+
+##### <a id="126E"></a>126E  Ancillary orders
+
+                   Without limiting any action the court may take to limit the possible harm, or extent of the harm, likely to be caused by the disclosure of evidence of a protected confidence or protected identity information, the court may:
+
+                     (a)  order that all or part of the evidence be heard in camera; and
+
+                     (b)  make such orders relating to the suppression of publication of all or part of the evidence given before the court as, in its opinion, are necessary to protect the safety and welfare of the protected confider.
+
+##### <a id="126F"></a>126F  Application of Division
+
+             (1)  This Division does not apply in relation to a proceeding the hearing of which began before the commencement of this Division.
+
+             (2)  This Division applies in relation to a protected confidence within the meaning of this Division whether made before or after the commencement of this Division.
+
+Note:          The NSW Act includes a subsection (3) relating to sexual assault communications privilege.
+
+             (4)  The court may give a direction under this Division in respect of a protected confidence or protected identity information whether or not the protected confidence or protected identity information is privileged under another section of this Part or would be so privileged except for a limitation or restriction imposed by that section.
+
+Note:          Subsection 69ZX(4) and section 100C of the _Family Law Act 1975_ have the effect of modifying this Division as it applies to certain proceedings under that Act.
+
+             (5)  In this section:
+
+                    <a name="commenc-division"></a>**_commencement of this Division_** means the commencement of Schedule 1 to the _Evidence Amendment (Journalists’ Privilege) Act 2007_.
 
 ### Division 2—Other privileges
 
@@ -2994,7 +3082,7 @@ _Example:_    A lawyer advises his client to understate her income for the
 
                     <a name="religi-confess"></a>**_religious confession_** means a confession made by a person to a member of the clergy in the member’s professional capacity according to the ritual of the church or religious denomination concerned.
 
-##### <a id="128"></a>128  Privilege in respect of self‑incrimination in other proceedings
+##### <a id="128"></a>128  Privilege in respect of self-incrimination in other proceedings
 
              (1)  This section applies if a witness objects to giving particular evidence, or evidence on a particular matter, on the ground that the evidence may tend to prove that the witness:
 
@@ -3074,9 +3162,9 @@ Note 2:       Clause 3 of Part 2 of the Dictionary sets out what
 
 Note 3:       The NSW Act does not contain provisions corresponding to subsections (12) to (15).
 
-Note 4:       Subsections (8) and (9) were inserted as a response to the decision of the High Court of Australia in _Cornwell v The Queen_ \[2007] HCA 12 (22 March 2007).
+Note 4:       Subsections (8) and (9) were inserted as a response to the decision of the High Court of Australia in _Cornwell v The Queen_ \[2007] HCA 12 (22 March 2007).
 
-##### <a id="128A"></a>128A  Privilege in respect of self‑incrimination—exception for certain orders etc
+##### <a id="128A"></a>128A  Privilege in respect of self-incrimination—exception for certain orders etc
 
              (1)  In this section:
 
@@ -3278,35 +3366,27 @@ the court may find that the communication was so made or the document was so pre
 
 ##### <a id="131A"></a>131A  Extended application of Division 1A
 
-             (1)  This section applies if, in response to a disclosure requirement, a person claims that they are not compellable to answer any question or produce any document that would disclose the identity of the informant (within the meaning of section 126H) or enable that identity to be ascertained.
+             (1)  If:
 
-          (1A)  A party that seeks disclosure pursuant to a disclosure requirement may apply to the court for an order, under section 126H, that subsection 126H(1) does not apply in relation to the information or document.
+                     (a)  a person is required by a disclosure requirement to give information, or to produce a document, which would result in the disclosure of a communication, a document or its contents or other information of a kind referred to in Division 1A; and
+
+                     (b)  the person objects to giving that information or providing that document;
+
+the court must determine the objection by applying the provisions of Division 1A with any necessary modifications as if the objection to giving information or producing the document were an objection to the giving or adducing of evidence.
 
              (2)  In this section, **_disclosure requirement_** means a court process or court order that requires the disclosure of information or a document and includes the following:
 
                      (a)  a summons or subpoena to produce documents or give evidence;
 
-                     (b)  pre‑trial discovery;
+                     (b)  pre-trial discovery;
 
-                     (c)  non‑party discovery;
+                     (c)  non-party discovery;
 
                      (d)  interrogatories;
 
                      (e)  a notice to produce;
 
                       (f)  a request to produce a document under Division 1 of Part 4.6.
-
-##### <a id="131B"></a>131B  Extended application of Division 1A etc. to all proceedings for Commonwealth offences
-
-                   In addition to their application under section 4 to all proceedings in a federal court or an ACT court, Division 1A and section 131A apply to all proceedings in any other Australian court for an offence against a law of the Commonwealth, including proceedings that:
-
-                     (a)  relate to bail; or
-
-                     (b)  are interlocutory proceedings or proceedings of a similar kind; or
-
-                     (c)  are heard in chambers; or
-
-                     (d)  relate to sentencing.
 
 ##### <a id="132"></a>132  Court to inform of rights to make applications and objections
 
@@ -3368,7 +3448,7 @@ is not to be admitted unless the desirability of admitting the evidence outweigh
 
                      (b)  the importance of the evidence in the proceeding; and
 
-                     (c)  the nature of the relevant offence, cause of action or defence and the nature of the subject‑matter of the proceeding; and
+                     (c)  the nature of the relevant offence, cause of action or defence and the nature of the subject-matter of the proceeding; and
 
                      (d)  the gravity of the impropriety or contravention; and
 
@@ -3448,7 +3528,7 @@ Part 4.5 requires judges to warn juries about the potential unreliability of c
 
                      (a)  the nature of the cause of action or defence; and
 
-                     (b)  the nature of the subject‑matter of the proceeding; and
+                     (b)  the nature of the subject-matter of the proceeding; and
 
                      (c)  the gravity of the matters alleged.
 
@@ -3482,9 +3562,9 @@ have been proved if it is satisfied that they have been proved on the balance of
 
                      (a)  an Act, a State Act, an Act or Ordinance of a Territory or an Imperial Act in force in Australia; or
 
-                     (b)  a regulation, rule or by‑law made, or purporting to be made, under such an Act or Ordinance; or
+                     (b)  a regulation, rule or by-law made, or purporting to be made, under such an Act or Ordinance; or
 
-                     (c)  a Proclamation or order of the Governor‑General, the Governor of a State or the Administrator or Executive of a Territory made, or purporting to be made, under such an Act or Ordinance; or
+                     (c)  a Proclamation or order of the Governor-General, the Governor of a State or the Administrator or Executive of a Territory made, or purporting to be made, under such an Act or Ordinance; or
 
                      (d)  an instrument of a legislative character (for example, a rule of court) made, or purporting to be made, under such an Act or Ordinance, being an instrument that is required by or under a law to be published, or the making of which is required by or under a law to be notified, in any government or official gazette (by whatever name called).
 
@@ -3608,7 +3688,7 @@ Note:          This subsection differs from subsection 150(1) 
 
                      (a)  the Sovereign; or
 
-                     (b)  the Governor‑General; or
+                     (b)  the Governor-General; or
 
                      (c)  the Governor of a State; or
 
@@ -3670,7 +3750,7 @@ is what it purports to be and was published on the day on which it purports to h
 
                      (b)  the doing of an act:
 
-                              (i)  by the Governor‑General or by the Governor of a State or the Administrator of a Territory; or
+                              (i)  by the Governor-General or by the Governor of a State or the Administrator of a Territory; or
 
                              (ii)  by a person authorised or empowered to do the act by an Australian law or a law of a foreign country;
 
@@ -4040,7 +4120,7 @@ Note:          Section 182 gives this Division a wider appli
 
              (4)  Despite subsection (3), the court may give the other party leave to make a request relating to evidence of the conviction after the end of that 21 day period if it is satisfied that there is good reason to do so.
 
-             (5)  If a party has served on another party a copy of a document that it intends to tender in evidence, the other party may only make a request relating to the document if the request is made within 21 days after service of the copy.
+             (5)  If a party has served on another party a copy of a document that it intends to tender in evidence, the other party may only make a request relating to the document if the request is made within 21 days after service of the copy.
 
              (6)  If the copy of the document served under subsection (5) is accompanied by, or has endorsed on it, a notice stating that the document is to be tendered to prove the contents of another document, the other party may only make a request relating to the other document if the request is made within 21 days after service of the copy.
 
@@ -4136,7 +4216,7 @@ Note:          Section 182 gives this Division a wider appli
   <td>
     <div>Hearsay exceptions for
       <b>
-        <i>first‑hand</i>
+        <i>first-hand</i>
       </b>hearsay</div>
   </td>
 </tr>
@@ -4215,7 +4295,7 @@ Note:          The table differs from the table in subsection 
 
                      (c)  a special member of the Australian Federal Police (within the meaning of the _Australian Federal Police Act 1979_); or
 
-                     (d)  a person authorised by the Attorney‑General for the purposes of this section.
+                     (d)  a person authorised by the Attorney-General for the purposes of this section.
 
 Note:          Subsection 169(3) of the NSW Act differs from subsection (3).
 
@@ -4245,9 +4325,9 @@ Note:          Subsection 169(3) of the NSW Act differs from s
 
                      (d)  a copy of the statute, proclamation, treaty or act of state that is proved to be an examined copy.
 
-             (2)  A reference in this section to a statute of a foreign country includes a reference to a regulation or by‑law of the country.
+             (2)  A reference in this section to a statute of a foreign country includes a reference to a regulation or by-law of the country.
 
-##### <a id="175"></a>175  Evidence of law reports of foreign countries
+##### <a id="175"></a>175  Evidence of law reports of foreign countries
 
              (1)  Evidence of the unwritten or common law of a foreign country may be adduced by producing a book containing reports of judgments of courts of the country if the book is or would be used in the courts of the country to inform the courts about the unwritten or common law of the country.
 
@@ -4361,7 +4441,7 @@ Note:          Section 91 excludes evidence of certain judgm
 
              (1)  The service, giving or sending under an Australian law of a written notification, notice, order or direction may be proved by affidavit of the person who served, gave or sent it.
 
-             (2)  A person who, for the purposes of a proceeding, makes an affidavit referred to in this section is not, because of making the affidavit, excused from attending for cross‑examination if required to do so by a party to the proceeding. 
+             (2)  A person who, for the purposes of a proceeding, makes an affidavit referred to in this section is not, because of making the affidavit, excused from attending for cross-examination if required to do so by a party to the proceeding. 
 
 # Chapter 5—Miscellaneous
 
@@ -4579,7 +4659,7 @@ may be sworn before any justice of the peace, notary public or Australian lawyer
 
 Note:          The NSW Act has no equivalent provision for section 186.
 
-##### <a id="187"></a>187  Abolition of the privilege against self‑incrimination for bodies corporate
+##### <a id="187"></a>187  Abolition of the privilege against self-incrimination for bodies corporate
 
              (1)  This section applies if, under a law of the Commonwealth or the Australian Capital Territory or in a proceeding in a federal court or an ACT court, a body corporate is required to:
 
@@ -4649,7 +4729,7 @@ is to be heard and determined in the jury’s absence.
 
 in relation to particular evidence or generally.
 
-Note:          Matters related to evidence in child‑related proceedings (within the meaning of section 69ZM of the _Family Law Act 1975_) are dealt with by that Act.
+Note:          Matters related to evidence in child-related proceedings (within the meaning of section 69ZM of the _Family Law Act 1975_) are dealt with by that Act.
 
              (2)  In a criminal proceeding, a defendant’s consent is not effective for the purposes of subsection (1) unless:
 
@@ -4743,11 +4823,11 @@ extend to enabling the court to make such orders as the court thinks fit (includ
 
 ##### <a id="194"></a>194  Witnesses failing to attend proceedings
 
-                   *                 *                   *                  *                   * 
+                   *               *                 *                 *                 *
 
 Note:          The NSW Act includes a provision about the consequences of a witness failing to appear when called in any civil or criminal proceedings.
 
-##### <a id="195"></a>195  Prohibited question not to be published
+##### <a id="195"></a>195  Prohibited question not to be published
 
              (1)  A person must not, without the express permission of a court, print or publish:
 
@@ -4767,13 +4847,13 @@ Note 2:       Subsection 195(2) does not appear in the NSW Act, beca
 
 ##### <a id="196"></a>196  Proceedings for offences
 
-                   *                 *                   *                  *                   * 
+                   *               *                 *                 *                 *
 
 Note:          The NSW Act includes a provision about procedure for dealing with offences against the Act or regulations.
 
 ##### <a id="197"></a>197  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -4825,7 +4905,7 @@ Note:          The NSW Act does not include this definition.
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
-                    <a name="court"></a><a name="australian"></a>**_Australian_** **_court_** means: 
+                    <a name="australian"></a>**_Australian_** court means: 
 
                      (a)  the High Court; or 
 
@@ -4853,7 +4933,7 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                     <a name="australian-practis-certif"></a>**_Australian practising certificate_** means a practising certificate granted under a law of a State or Territory specified in the regulations.
 
-                    <a name="australian-regist-foreign-lawyer"></a>**_Australian‑registered foreign lawyer_** means a person who is registered as a foreign lawyer under a law of a State or Territory specified in the regulations.
+                    <a name="australian-regist-foreign-lawyer"></a>**_Australian-registered foreign lawyer_** means a person who is registered as a foreign lawyer under a law of a State or Territory specified in the regulations.
 
                     <a name="australian-statistician"></a>**_Australian Statistician_** means the Australian Statistician referred to in subsection 5(2) of the _Australian Bureau of Statistics Act 1975_, and includes any person to whom the powers of the Australian Statistician under section 12 of the _Census and Statistics Act 1905_ have been delegated. 
 
@@ -4885,7 +4965,7 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                               (i)  by or under a law of the Commonwealth or of a Territory (other than the Australian Capital Territory, the Northern Territory or Norfolk Island); or
 
-                             (ii)  by the Governor‑General; or
+                             (ii)  by the Governor-General; or
 
                             (iii)  by a Minister.
 
@@ -4923,7 +5003,7 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                               (i)  by or under a law of the Commonwealth or of a Territory (other than the Australian Capital Territory, the Northern Territory or Norfolk Island); or
 
-                             (ii)  by the Governor‑General; or
+                             (ii)  by the Governor-General; or
 
                             (iii)  by a Minister; or
 
@@ -4931,9 +5011,9 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                     <a name="commonwealth-owned-bodi-corpor"></a>**_Commonwealth owned body corporate_** means a body corporate that, were the Commonwealth a body corporate, would, for the purposes of the _Corporations Act 2001_, be: 
 
-                     (a)  a wholly‑owned subsidiary of the Commonwealth; or 
+                     (a)  a wholly-owned subsidiary of the Commonwealth; or 
 
-                     (b)  a wholly‑owned subsidiary of another body corporate that is, under this definition, a Commonwealth owned body corporate because of the application of paragraph (a) (including the application of that paragraph together with another application or other applications of this paragraph). 
+                     (b)  a wholly-owned subsidiary of another body corporate that is, under this definition, a Commonwealth owned body corporate because of the application of paragraph (a) (including the application of that paragraph together with another application or other applications of this paragraph). 
 
                     <a name="commonwealth-record"></a>**_Commonwealth record_** means a record made by: 
 
@@ -4947,7 +5027,7 @@ Note:          See clause 9 of Part 2 of the Dictionary fo
 
                               (i)  by or under a law of the Commonwealth or of a Territory (other than the Australian Capital Territory, the Northern Territory or Norfolk Island); or 
 
-                             (ii)  by the Governor‑General; or 
+                             (ii)  by the Governor-General; or 
 
                             (iii)  by a Minister; or 
 
@@ -4977,11 +5057,11 @@ Note:          The NSW Act includes a definition of **_court_*
 
 but does not include a prosecution for an offence that is a prescribed taxation offence within the meaning of Part III of the _Taxation Administration Act 1953_. 
 
-                    <a name="cross-examin"></a>**_cross‑examination_** is defined in subclause 2(2) of Part 2 of this Dictionary. 
+                    <a name="cross-examin"></a>**_cross-examination_** is defined in subclause 2(2) of Part 2 of this Dictionary. 
 
-                    <a name="cross-examin"></a>**_cross‑examiner_** means a party who is cross‑examining a witness. 
+                    <a name="cross-examin"></a>**_cross-examiner_** means a party who is cross-examining a witness. 
 
-                    <a name="de-facto-partner"></a>**_de facto partner_** is defined in clause 11 of Part 2 of this Dictionary.
+                    <a name="de-facto-partner"></a>**_de facto partner_** is defined in clause 11 of Part 2 of this Dictionary.
 
                     <a name="docum"></a>**_document_** means any record of information, and includes: 
 
@@ -5021,7 +5101,7 @@ Note:          The NSW Act does not include this definition.
 
 Note 1:       The definition of **_government or official gazette_** differs from the definition of the same expression in the NSW Act.
 
-Note 2:       The NSW Act includes definitions of **_Governor of a State_** and **_Governor‑General_**. Those terms are not defined in this Act because they are defined in sections 16A and 16B of the _Acts Interpretation Act 1901_.
+Note 2:       The NSW Act includes definitions of **_Governor of a State_** and **_Governor-General_**. Those terms are not defined in this Act because they are defined in sections 16A and 16B of the _Acts Interpretation Act 1901_.
 
                     <a name="hearsai-rule"></a>**_hearsay rule_** means subsection 59(1). 
 
@@ -5045,7 +5125,7 @@ Note 2:       The NSW Act includes definitions of **_Governor of a S
 
                     <a name="joint-sit"></a>**_joint sitting_** means: 
 
-                     (a)  in relation to the Parliament—a joint sitting of the members of the Senate and of the House of Representatives convened by the Governor‑General under section 57 of the Constitution or convened under any Act; or 
+                     (a)  in relation to the Parliament—a joint sitting of the members of the Senate and of the House of Representatives convened by the Governor-General under section 57 of the Constitution or convened under any Act; or 
 
                      (b)  in relation to a bicameral legislature of a State—a joint sitting of both Houses of the legislature convened under a law of the State. 
 
@@ -5061,7 +5141,7 @@ Note 2:       The NSW Act includes definitions of **_Governor of a S
 
                     <a name="legal-counsel"></a>**_legal counsel_** means an Australian lawyer employed in or by a government agency or other body who by law is exempted from holding an Australian practising certificate, or who does not require an Australian practising certificate, to engage in legal practice in the course of that employment.
 
-Note:          Examples of legal counsel are in‑house counsel and government solicitors.
+Note:          Examples of legal counsel are in-house counsel and government solicitors.
 
                     <a name="legisl-assembli"></a>**_Legislative Assembly_** means any present or former Legislative Assembly of a Territory, and includes the Australian Capital Territory House of Assembly. 
 
@@ -5069,7 +5149,7 @@ Note:          Examples of legal counsel are in‑house counse
 
                     <a name="opinion-rule"></a>**_opinion rule_** means section 76\. 
 
-                    <a name="oversea-regist-foreign-lawyer"></a>**_overseas‑registered foreign lawyer_** means a natural person who is properly registered to engage in legal practice in a foreign country by an entity in the country having the function, conferred by the law of the country, of registering persons to engage in legal practice in the country.
+                    <a name="oversea-regist-foreign-lawyer"></a>**_overseas-registered foreign lawyer_** means a natural person who is properly registered to engage in legal practice in a foreign country by an entity in the country having the function, conferred by the law of the country, of registering persons to engage in legal practice in the country.
 
                     <a name="parent"></a>**_parent_** includes the meaning given in subclause 10(2) of Part 2 of this Dictionary. 
 
@@ -5109,7 +5189,7 @@ and includes the records of the proceedings of, and papers presented to:
 
                       (f)  a legislature of a foreign country, including a House or committee (however described) of such a legislature. 
 
-                    <a name="re-examin"></a>**_re‑examination_** is defined in subclauses 2(3) and (4) of Part 2 of this Dictionary. 
+                    <a name="re-examin"></a>**_re-examination_** is defined in subclauses 2(3) and (4) of Part 2 of this Dictionary. 
 
                     <a name="regist"></a>**_registered_**, in relation to legal practice in a foreign country, means having all necessary licences, approvals, admissions, certificates or other forms of authorisation (including practising certificates) required by or under legislation for engaging in legal practice in that country.
 
@@ -5159,15 +5239,15 @@ and includes the records of the proceedings of, and papers presented to:
 
                      (b)  a business engaged in or carried on outside Australia. 
 
-##### 2  References to examination in chief, cross‑examination and re‑examination 
+##### 2  References to examination in chief, cross-examination and re-examination 
 
-             (1)  A reference in this Act to **_examination in chief_** of a witness is a reference to the questioning of a witness by the party who called the witness to give evidence, not being questioning that is re‑examination.
+             (1)  A reference in this Act to **_examination in chief_** of a witness is a reference to the questioning of a witness by the party who called the witness to give evidence, not being questioning that is re-examination.
 
-             (2)  A reference in this Act to **_cross‑examination_** of a witness is a reference to the questioning of a witness by a party other than the party who called the witness to give evidence. 
+             (2)  A reference in this Act to **_cross-examination_** of a witness is a reference to the questioning of a witness by a party other than the party who called the witness to give evidence. 
 
-             (3)  A reference in this Act to **_re‑examination_** of a witness is a reference to the questioning of a witness by the party who called the witness to give evidence, being questioning (other than further examination in chief with the leave of the court) conducted after the cross‑examination of the witness by another party.
+             (3)  A reference in this Act to **_re-examination_** of a witness is a reference to the questioning of a witness by the party who called the witness to give evidence, being questioning (other than further examination in chief with the leave of the court) conducted after the cross-examination of the witness by another party.
 
-             (4)  If a party has recalled a witness who has already given evidence, a reference in this Act to re‑examination of a witness does not include a reference to the questioning of the witness by that party before the witness is questioned by another party. 
+             (4)  If a party has recalled a witness who has already given evidence, a reference in this Act to re-examination of a witness does not include a reference to the questioning of the witness by that party before the witness is questioned by another party. 
 
 ##### 3  References to civil penalties
 
@@ -5255,7 +5335,7 @@ and includes the records of the proceedings of, and papers presented to:
 
              (1)  A reference in this Act to a child of a person includes a reference to: 
 
-                     (a)  an adopted child or ex‑nuptial child of the person; or 
+                     (a)  an adopted child or ex-nuptial child of the person; or 
 
                      (b)  a child living with the person as if the child were a member of the person’s family.
 
@@ -5263,17 +5343,17 @@ and includes the records of the proceedings of, and papers presented to:
 
                      (a)  an adoptive parent of the person; or 
 
-                     (b)  if the person is an ex‑nuptial child—the person’s natural father; or 
+                     (b)  if the person is an ex-nuptial child—the person’s natural father; or 
 
                      (c)  the person with whom a child is living as if the child were a member of the person’s family.
 
-##### <a id="11"></a>11  References to de facto partners
+##### <a id="11"></a>11  References to de facto partners
 
-             (1)  A reference in this Act to a de facto partner of a person is a reference to a person who is in a de facto relationship with the person.
+             (1)  A reference in this Act to a de facto partner of a person is a reference to a person who is in a de facto relationship with the person.
 
-             (2)  A person is in a de facto relationship with another person if the two persons have a relationship as a couple and are not legally married.
+             (2)  A person is in a de facto relationship with another person if the two persons have a relationship as a couple and are not legally married.
 
-             (3)  In determining whether two persons are in a de facto relationship, all the circumstances of the relationship are to be taken into account, including such of the following matters as are relevant in the circumstances of the particular case:
+             (3)  In determining whether two persons are in a de facto relationship, all the circumstances of the relationship are to be taken into account, including such of the following matters as are relevant in the circumstances of the particular case:
 
                      (a)  the duration of the relationship;
 
@@ -5295,7 +5375,7 @@ and includes the records of the proceedings of, and papers presented to:
 
                      (a)  whether the persons are different sexes or the same sex;
 
-                     (b)  whether either of the persons is legally married to someone else or in another de facto relationship.
+                     (b)  whether either of the persons is legally married to someone else or in another de facto relationship.
 
 # Notes to the _Evidence Act 1995_
 
@@ -5437,7 +5517,7 @@ Royal Assent <i>(d)</i></div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 434–437): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+    <div>Schedule 1 (items 434–437): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5454,7 +5534,7 @@ Royal Assent <i>(d)</i></div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 12 (items 1, 24): 24 Nov 2000 <i>(f)</i></div>
+    <div>Schedule 12 (items 1, 24): 24 Nov 2000 <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5471,7 +5551,7 @@ Royal Assent <i>(d)</i></div>
     <div>7 Mar 2000</div>
   </td>
   <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
   </td>
   <td>
     <div>Sch. 3 (items 20, 25, 34, 35)</div>
@@ -5505,10 +5585,10 @@ Royal Assent <i>(d)</i></div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 174, 175): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -5522,7 +5602,7 @@ Royal Assent <i>(d)</i></div>
     <div>5 July 2002</div>
   </td>
   <td>
-    <div>Schedule 6 (items 16–18): 5 Jan 2003</div>
+    <div>Schedule 6 (items 16–18): 5 Jan 2003</div>
   </td>
   <td>
     <div>—</div>
@@ -5590,7 +5670,7 @@ Royal Assent <i>(d)</i></div>
     <div>22 May 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 8): 1 July 2006</div>
+    <div>Schedule 3 (items 1, 8): 1 July 2006</div>
   </td>
   <td>
     <div>Sch. 3 (item 8)</div>
@@ -5604,10 +5684,10 @@ Royal Assent <i>(d)</i></div>
     <div>116, 2007</div>
   </td>
   <td>
-    <div>28 June 2007</div>
+    <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 26 July 2007</div>
+    <div>Schedule 1 (items 1, 2): 26 July 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -5624,11 +5704,11 @@ Royal Assent <i>(d)</i></div>
     <div>4 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–99) and Schedule 2 (items 1–13): 1 Jan 2009</div>
+    <div>Schedule 1 (items 1–99) and Schedule 2 (items 1–13): 1 Jan 2009</div>
   </td>
   <td>
     <div>Sch. 1 (items 
-95–99) and Sch. 2 (item 13)</div>
+95–99) and Sch. 2 (item 13)</div>
   </td>
 </tr>
 <tr>
@@ -5639,10 +5719,10 @@ Royal Assent <i>(d)</i></div>
     <div>33, 2009</div>
   </td>
   <td>
-    <div>22 May 2009</div>
+    <div>22 May 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (item 30): 23 May 2009</div>
+    <div>Schedule 2 (item 30): 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -5656,7 +5736,7 @@ Royal Assent <i>(d)</i></div>
     <div>70, 2009</div>
   </td>
   <td>
-    <div>8 July 2009</div>
+    <div>8 July 2009</div>
   </td>
   <td>
     <div>Schedule 3 (item 32): 5 Aug 2009</div>
@@ -5676,44 +5756,10 @@ Royal Assent <i>(d)</i></div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 26): Royal Assent</div>
+    <div>Schedule 1 (item 26): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Evidence Amendment (Journalists’ Privilege) Act 2011</div>
-  </td>
-  <td>
-    <div>21, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3): 13 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 566) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -5811,7 +5857,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 140, 1995; No. 135, 2008</div>
+    <div>am. No. 140, 1995; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5835,7 +5881,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 125, 1999; No. 135, 2008</div>
+    <div>am. No. 125, 1999; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5907,7 +5953,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; No. 135, 2008</div>
+    <div>am. No. 34, 1997; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6059,7 +6105,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>S. 50</div>
   </td>
   <td>
-    <div>am. No. 125, 1999; No. 135, 2008</div>
+    <div>am. No. 125, 1999; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6083,7 +6129,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>Introductory Note</div>
   </td>
   <td>
-    <div>am. No. 135, 2008</div>
+    <div>am. No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6107,7 +6153,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 125, 1999; No. 135, 2008</div>
+    <div>am. No. 125, 1999; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6171,7 +6217,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>Ss. 64, 65</div>
   </td>
   <td>
-    <div>am. No. 125, 1999; No. 135, 2008</div>
+    <div>am. No. 125, 1999; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6344,7 +6390,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
 </tr>
 <tr>
   <td>
-    <div>Div. 1 of Part 3.7</div>
+    <div>Div. 1 of Part 3.7</div>
   </td>
   <td>
     <div>ad. No. 135, 2008</div>
@@ -6368,7 +6414,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 3.7</div>
+    <div>Heading to Div. 2 of Part 3.7</div>
   </td>
   <td>
     <div>ad. No. 135, 2008</div>
@@ -6467,7 +6513,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
     <div>S. 108</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; No. 135, 2008</div>
+    <div>am. No. 34, 1997; No. 135, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6481,7 +6527,7 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
 <tr>
   <td>
     <div>Heading to Div. 3 of 
-Part 3.7</div>
+Part 3.7</div>
   </td>
   <td>
     <div>ad. No. 135, 2008</div>
@@ -6521,7 +6567,7 @@ Part 3.7</div>
 </tr>
 <tr>
   <td>
-    <div>Div. 4 of Part 3.7</div>
+    <div>Div. 4 of Part 3.7</div>
   </td>
   <td>
     <div>ad. No. 135, 2008</div>
@@ -6625,18 +6671,10 @@ Part 3.7</div>
 </tr>
 <tr>
   <td>
-    <div>Div. 1A of Part 3.10</div>
+    <div>Div. 1A of Part 3.10</div>
   </td>
   <td>
     <div>ad. No. 116, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 21, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6645,22 +6683,6 @@ Part 3.7</div>
   </td>
   <td>
     <div>ad. No. 116, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 21, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 126G, 126H</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6745,22 +6767,6 @@ Part 3.7</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131B</div>
-  </td>
-  <td>
-    <div>ad. No. 21, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3.11</b></div>
   </td>
   <td>
@@ -6769,7 +6775,7 @@ Part 3.7</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 3.11</div>
+    <div>Heading to Part 3.11</div>
   </td>
   <td>
     <div>rs. No. 135, 2008</div>
@@ -6929,7 +6935,7 @@ Part 3.7</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 4.5</div>
+    <div>Heading to Part 4.5</div>
   </td>
   <td>
     <div>rs. No. 135, 2008</div>
@@ -7142,25 +7148,9 @@ of Part 4.6</div>
     <div>Dictionary</div>
   </td>
   <td>
-    <div>am. No. 34, 1997; Nos. 125 and 146, 1999; No. 9, 2000; No. 55, 2001; No. 64, 2002; No. 126, 2003; No. 135, 2008; No. 33, 2009</div>
+    <div>am. No. 34, 1997; Nos. 125 and 146, 1999; No. 9, 2000; No. 55, 2001; No. 64, 2002; No. 126, 2003; No. 135, 2008; No. 33, 2009</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 566  After subsection 3(1)
-
-Insert:
-
-          (1A)  The Dictionary at the end of this Act is part of this Act.
-
-As at 16 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -7222,7 +7212,7 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)       The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
 (2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
@@ -7253,7 +7243,7 @@ The amendments made by Part 1 of this Schedule apply:
 
 * * *
 
-_Evidence Amendment Act 2008 (No. 135, 2008)_
+_Evidence Amendment Act 2008 (No. 135, 2008)_
 
 ## Schedule 1
 
@@ -7299,20 +7289,4 @@ Section 128A of the _Evidence Act 1995_ as inserted by this Schedule does not 
 
 The amendments made by this Schedule do not apply in relation to proceedings the hearing of which began before the commencement of this item.
 
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
- 
+_ _
