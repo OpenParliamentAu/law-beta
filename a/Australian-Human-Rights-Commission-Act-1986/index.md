@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00724/Html/AusHumanRightsComm1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00393/Html/AusHumanRightsComm1986_WD02_image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 June 2010
  incorporating amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force
@@ -20,233 +20,233 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[4](#4).            Operation of State and Territory laws                                              10
+[4](#4).            Operation of State and Territory laws
 
-[5](#5).            Extension to external Territories                                                        10
+[5](#5).            Extension to external Territories
 
-[6](#6).            Extent to which Act binds the Crown                                               10
+[6](#6).            Extent to which Act binds the Crown
 
-[6A](#6A).         Application of the _Criminal Code_                                                     10
+[6A](#6A).         Application of the _Criminal Code_
 
 **Part II—Australian Human Rights Commission** 
 
     **Division 1—Establishment and Constitution of Commission**
 
-[7](#7).            Australian Human Rights Commission                                             11
+[7](#7).            Australian Human Rights Commission
 
-[8](#8).            Constitution of Commission                                                             11
+[8](#8).            Constitution of Commission
 
-[8A](#8A).         The President                                                                                     12
+[8A](#8A).         The President
 
-[8B](#8B).         The Human Rights Commissioner                                                     12
+[8B](#8B).         The Human Rights Commissioner
 
-[9](#9).            Arrangement for appointment of the holder of a judicial office of a State               12
+[9](#9).            Arrangement for appointment of the holder of a judicial office of a State
 
-[10](#10).          Appointment of Judge as member not to affect tenure etc               13
+[10](#10).          Appointment of Judge as member not to affect tenure etc 
 
     **Division 2—Duties, functions and powers of Commission**
 
-[10A](#10A).       Duties of Commission                                                                       14
+[10A](#10A).       Duties of Commission
 
-[11](#11).          Functions of Commission                                                                  14
+[11](#11).          Functions of Commission
 
-[13](#13).          Powers of Commission                                                                      17
+[13](#13).          Powers of Commission
 
-[14](#14).          Form of examinations or inquiries to be at discretion of Commission etc               17
+[14](#14).          Form of examinations or inquiries to be at discretion of Commission etc 
 
-[15](#15).          Commission may engage in consultations                                         19
+[15](#15).          Commission may engage in consultations
 
-[16](#16).          Inter-governmental arrangements                                                       19
+[16](#16).          Inter-governmental arrangements
 
-[18](#18).          Declarations by Minister                                                                   20
+[18](#18).          Declarations by Minister
 
-[19](#19).          Delegation                                                                                          20
+[19](#19).          Delegation
 
     **Division 3—Functions relating to human rights**
 
-[19A](#19A).       Division applies to victimisation offences                                        22
+[19A](#19A).       Division applies to victimisation offences
 
-[20](#20).          Performance of functions relating to human rights                            22
+[20](#20).          Performance of functions relating to human rights
 
-[21](#21).          Power to obtain information and documents                                     25
+[21](#21).          Power to obtain information and documents
 
-[22](#22).          Power to examine witnesses                                                              26
+[22](#22).          Power to examine witnesses
 
-[23](#23).          Failure to comply with requirement                                                  27
+[23](#23).          Failure to comply with requirement
 
-[24](#24).          Disclosure of information or contents of documents                        27
+[24](#24).          Disclosure of information or contents of documents
 
-[26](#26).          Offences relating to administration of Act                                        30
+[26](#26).          Offences relating to administration of Act
 
-[27](#27).          Commission to give opportunity for making of submissions           31
+[27](#27).          Commission to give opportunity for making of submissions
 
-[28](#28).          Nature of settlements                                                                        32
+[28](#28).          Nature of settlements
 
-[29](#29).          Reports to contain recommendations                                                32
+[29](#29).          Reports to contain recommendations
 
     **Division 4—Functions relating to equal opportunity in employment**
 
-[30](#30).          Interpretation etc                                                                               34
+[30](#30).          Interpretation etc 
 
-[31](#31).          Functions of Commission relating to equal opportunity                  34
+[31](#31).          Functions of Commission relating to equal opportunity
 
-[32](#32).          Performance of functions relating to equal opportunity                   36
+[32](#32).          Performance of functions relating to equal opportunity
 
-[33](#33).          Application of certain provisions of Division 3                                37
+[33](#33).          Application of certain provisions of Division 3
 
-[34](#34).          Nature of settlements                                                                        38
+[34](#34).          Nature of settlements
 
-[35](#35).          Reports to contain recommendations                                                38
+[35](#35).          Reports to contain recommendations
 
     **Division 5—Administrative provisions**
 
-[36](#36).          Acting President and Human Rights Commissioner                          41
+[36](#36).          Acting President and Human Rights Commissioner
 
-[37](#37).          Terms and conditions of appointment                                              42
+[37](#37).          Terms and conditions of appointment
 
-[38](#38).          Remuneration and allowances                                                            42
+[38](#38).          Remuneration and allowances
 
-[39](#39).          Leave of absence                                                                                42
+[39](#39).          Leave of absence
 
-[40](#40).          Resignation                                                                                        43
+[40](#40).          Resignation
 
-[41](#41).          Termination of appointment                                                             43
+[41](#41).          Termination of appointment
 
-[42](#42).          Disclosure of interests                                                                       44
+[42](#42).          Disclosure of interests
 
-[43](#43).          Staff                                                                                                   44
+[43](#43).          Staff
 
-[43A](#43A).       Commission may make administrative services available to the Information Commissioner  44
+[43A](#43A).       Commission may make administrative services available to the Privacy Commissioner
 
-[44](#44).          Meetings of the Commission                                                             44
+[44](#44).          Meetings of the Commission
 
-[45](#45).          Annual report                                                                                    45
+[45](#45).          Annual report
 
-[46](#46).          Reports to be tabled in Parliament                                                    45
+[46](#46).          Reports to be tabled in Parliament
 
     **Division 6—Corporate plan**
 
-[46AA](#46AA).    Corporate plan                                                                                   46
+[46AA](#46AA).    Corporate plan
 
-[46AB](#46AB).    Matters to be included in corporate plan                                          46
+[46AB](#46AB).    Matters to be included in corporate plan
 
-[46AC](#46AC).    Corporate plans to be given to Minister                                           46
+[46AC](#46AC).    Corporate plans to be given to Minister
 
 **Part IIA—Aboriginal and Torres Strait Islander Social Justice Commissioner** 
 
     **Division 1—Establishment and functions**
 
-[46A](#46A).       Interpretation                                                                                     47
+[46A](#46A).       Interpretation
 
-[46B](#46B).       Aboriginal and Torres Strait Islander Social Justice Commissioner  47
+[46B](#46B).       Aboriginal and Torres Strait Islander Social Justice Commissioner
 
-[46C](#46C).       Functions of the Commission that are to be performed by the Commissioner       47
+[46C](#46C).       Functions of the Commission that are to be performed by the Commissioner
 
     **Division 2—Administrative provisions**
 
-[46D](#46D).       Terms and conditions of appointment                                              50
+[46D](#46D).       Terms and conditions of appointment
 
-[46E](#46E).        Remuneration                                                                                     50
+[46E](#46E).        Remuneration
 
-[46F](#46F).        Leave of absence                                                                                50
+[46F](#46F).        Leave of absence
 
-[46G](#46G).       Outside employment                                                                         50
+[46G](#46G).       Outside employment
 
-[46H](#46H).       Resignation                                                                                        51
+[46H](#46H).       Resignation
 
-[46I](#46I).         Termination of appointment                                                             51
+[46I](#46I).         Termination of appointment
 
-[46J](#46J).        Acting Commissioner                                                                        51
+[46J](#46J).        Acting Commissioner
 
     **Division 3—Miscellaneous**
 
-[46K](#46K).       Commissioner may obtain information from government agencies   53
+[46K](#46K).       Commissioner may obtain information from government agencies
 
-[46L](#46L).        Commissioner must give information to the Commission                 54
+[46L](#46L).        Commissioner must give information to the Commission
 
-[46M](#46M).      Minister must table etc  report of Commissioner                             54
+[46M](#46M).      Minister must table etc  report of Commissioner
 
 **Part IIB—Redress for unlawful discrimination** 
 
     **Division 1—Conciliation by the President**
 
-[46P](#46P).        Lodging a complaint                                                                           55
+[46P](#46P).        Lodging a complaint
 
-[46PA](#46PA).     Amendment of complaint                                                                  56
+[46PA](#46PA).     Amendment of complaint
 
-[46PB](#46PB).     Conditions for lodging a representative complaint                            56
+[46PB](#46PB).     Conditions for lodging a representative complaint
 
-[46PC](#46PC).     Additional rules applying to representative complaints                   56
+[46PC](#46PC).     Additional rules applying to representative complaints
 
-[46PD](#46PD).     Referral of complaint to President                                                     57
+[46PD](#46PD).     Referral of complaint to President
 
-[46PE](#46PE).     Complaints against the President, Commission or a Commissioner 57
+[46PE](#46PE).     Complaints against the President, Commission or a Commissioner
 
-[46PF](#46PF).     Inquiry by President                                                                          57
+[46PF](#46PF).     Inquiry by President
 
-[46PG](#46PG).     Withdrawal of complaint                                                                   58
+[46PG](#46PG).     Withdrawal of complaint
 
-[46PH](#46PH).     Termination of complaint                                                                  58
+[46PH](#46PH).     Termination of complaint
 
-[46PI](#46PI).      President’s power to obtain information                                           59
+[46PI](#46PI).      President’s power to obtain information
 
-[46PJ](#46PJ).      Directions to attend compulsory conference                                     60
+[46PJ](#46PJ).      Directions to attend compulsory conference
 
-[46PK](#46PK).     Proceedings at compulsory conference                                              61
+[46PK](#46PK).     Proceedings at compulsory conference
 
-[46PL](#46PL).     Failure to attend compulsory conference                                          62
+[46PL](#46PL).     Failure to attend compulsory conference
 
-[46PM](#46PM).    Failure to give information or produce documents                            62
+[46PM](#46PM).    Failure to give information or produce documents
 
-[46PN](#46PN).     False or misleading information                                                         63
+[46PN](#46PN).     False or misleading information
 
     **Division 2—Proceedings in the Federal Court and the Federal Magistrates Court**
 
-[46PO](#46PO).     Application to court if complaint is terminated                                64
+[46PO](#46PO).     Application to court if complaint is terminated
 
-[46PP](#46PP).     Interim injunction to maintain status quo etc                                    65
+[46PP](#46PP).     Interim injunction to maintain status quo etc 
 
-[46PQ](#46PQ).     Right of representation                                                                      66
+[46PQ](#46PQ).     Right of representation
 
-[46PR](#46PR).     Court not bound by technicalities                                                     66
+[46PR](#46PR).     Court not bound by technicalities
 
-[46PS](#46PS).      Report by President to court                                                             66
+[46PS](#46PS).      Report by President to court
 
-[46PT](#46PT).     Assistance by Commission                                                               67
+[46PT](#46PT).     Assistance by Commission
 
-[46PU](#46PU).     Assistance in proceedings before the court                                       67
+[46PU](#46PU).     Assistance in proceedings before the court
 
-[46PV](#46PV).     _Amicus curiae_ function of Commission members                             67
+[46PV](#46PV).     _Amicus curiae_ function of Commission members
 
 **Part IIC—Referral of discriminatory awards and determinations to other bodies**
 
-[46PW](#46PW).    Referral of discriminatory industrial instruments to the Fair Work Australia         69
+[46PW](#46PW).    Referral of discriminatory industrial instruments to the Fair Work Australia
 
-[46PX](#46PX).     Referral of discriminatory determinations to the Remuneration Tribunal               70
+[46PX](#46PX).     Referral of discriminatory determinations to the Remuneration Tribunal
 
-[46PY](#46PY).     Referral of discriminatory determinations to the Defence Force Remuneration Tribunal       71
+[46PY](#46PY).     Referral of discriminatory determinations to the Defence Force Remuneration Tribunal
 
 **Part III—Miscellaneous**
 
-[47](#47).          Declaration of international instruments                                           74
+[47](#47).          Declaration of international instruments
 
-[48](#48).          Protection from civil actions                                                              74
+[48](#48).          Protection from civil actions
 
-[49](#49).          Non-disclosure of private information                                              75
+[49](#49).          Non-disclosure of private information
 
-[49A](#49A).       Information stored otherwise than in written form                           77
+[49A](#49A).       Information stored otherwise than in written form
 
-[49B](#49B).       Jurisdiction of Federal Court and Federal Magistrates Court           77
+[49B](#49B).       Jurisdiction of Federal Court and Federal Magistrates Court
 
-[49C](#49C).       Compensation for acquisition of property                                        77
+[49C](#49C).       Compensation for acquisition of property
 
-[50](#50).          Regulations                                                                                        77
+[50](#50).          Regulations
 
 **Schedule 1—Convention concerning Discrimination in respect of Employment and Occupation** 
 
@@ -432,6 +432,8 @@ but does not include any distinction, exclusion or preference:
 
                     <a name="presid"></a>**_President_** means President of the Commission.
 
+                    <a name="privaci-commission"></a>**_Privacy Commissioner_** means the Privacy Commissioner appointed under the _Privacy Act 1988_.
+
                     <a name="propos-enact"></a>**_proposed enactment_** means:
 
                      (a)  a proposed law introduced into the Parliament of the Commonwealth or the legislature of a Territory;
@@ -542,7 +544,7 @@ and includes any conduct that is an offence under:
 
 the person may be prosecuted and convicted either under that law of the State or Territory or under this Act, but nothing in this subsection renders a person liable to be punished more than once in respect of the same act or omission.
 
-##### <a id="5"></a>5  Extension to external Territories
+##### <a id="5"></a>5  Extension to external Territories
 
                    This Act extends to every external Territory.
 
@@ -874,17 +876,17 @@ to a member of the Commission other than the Human Rights Commissioner.
 
                      (a)  a complaint has been made to the Commission in relation to an act or practice; and
 
-                     (b)  because the Commission is of the opinion that the subject-matter of the complaint could be more effectively or conveniently dealt with by the Information Commissioner in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the _Privacy Act 1988_, the Commission decides not to inquire, or not to continue to inquire, into that act or practice;
+                     (b)  because the Commission is of the opinion that the subject-matter of the complaint could be more effectively or conveniently dealt with by the Privacy Commissioner in the performance of the functions referred to in paragraph 27(1)(a) or 28(1)(b) or (c) of the _Privacy Act 1988_, the Commission decides not to inquire, or not to continue to inquire, into that act or practice;
 
 the Commission shall:
 
-                     (c)  transfer the complaint to the Information Commissioner;
+                     (c)  transfer the complaint to the Privacy Commissioner;
 
                      (d)  forthwith give notice in writing to the complainant stating that the complaint has been so transferred; and
 
-                     (e)  give to the Information Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Commission.
+                     (e)  give to the Privacy Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Commission.
 
-          (4B)  A complaint transferred under subsection (4A) shall be taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_.
+          (4B)  A complaint transferred under subsection (4A) shall be taken to be a complaint made to the Privacy Commissioner under Part V of the _Privacy Act 1988_.
 
              (5)  Where it appears to the Commission that:
 
@@ -1378,9 +1380,9 @@ the Governor-General shall terminate the appointment of that member.
 
                      (b)  the President is the Head of that Statutory Agency.
 
-##### <a id="43A"></a>43A  Commission may make administrative services available to the Information Commissioner
+##### <a id="43A"></a>43A  Commission may make administrative services available to the Privacy Commissioner
 
-                   The Commission may make administrative services available to the Information Commissioner for the purpose of assisting the Information Commissioner in the performance of his or her functions under the _Australian Information Commissioner Act 2010_ or any other Act.
+                   The Commission may make administrative services available to the Privacy Commissioner for the purpose of assisting the Privacy Commissioner in the performance of his or her functions under the _Privacy Act 1988_ or any other Act.
 
 ##### <a id="44"></a>44  Meetings of the Commission
 
@@ -2990,7 +2992,7 @@ _Proclaims_ this Declaration on the Rights of Disabled Persons and calls for nat
 
 The _Australian Human Rights Commission Act 1986_ as shown in this compilation comprises Act No. 125, 1986 amended as indicated in the Tables below.
 
-The _Australian Human Rights Commission Act 1986_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
+The _Australian Human Rights Commission Act 1986_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
 
@@ -3641,7 +3643,7 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>4 Nov 2005</div>
   </td>
   <td>
-    <div>Schedules 1–8: 2 Dec 2005 
+    <div>Schedules 1–8: 2 Dec 2005 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3659,7 +3661,7 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>Schedule 5 (items 32, 73–75): <i>(l)</i></div>
@@ -3679,14 +3681,14 @@ Remainder: Royal Assent</div>
     <div>70, 2009</div>
   </td>
   <td>
-    <div>8 July 2009</div>
+    <div>8 July 2009</div>
   </td>
   <td>
     <div>Schedule 2 (items 91, 92) and Schedule 3 (items 34–38, 
 119–166): 5 Aug 2009</div>
   </td>
   <td>
-    <div>Sch. 3 (items 130, 148, 153, 155, 158) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 130, 148, 153, 155, 158) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3720,10 +3722,11 @@ Remainder: Royal Assent</div>
     <div>51, 2010</div>
   </td>
   <td>
-    <div>31 May 2010</div>
+    <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 4–8) and Schedule 7: <i>(m)</i></div>
+    <div>Schedule 5 (items 4–8): \[ <i>see (m)</i>and Note 2] 
+Schedule 7: <i>(m)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
@@ -3961,7 +3964,7 @@ _(k)_ Subsection 2(1) (items 6 and 7) and (4) of the _Age Discrimination (Cons
 
                  (4)   If the _Age Discrimination Act 2004_ does not commence before the commencement of item 21 of Schedule 1 to the _Australian Human Rights Commission Legislation Act 2004_, item 22 of Schedule 2 to this Act does not commence at all.
 
-_The Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendments made by Schedule 1 (items 22–25) did not commence.
+_The Australian Human Rights Commission Legislation Bill 2004_ was not enacted. Therefore the amendments made by Schedule 1 (items 22–25) did not commence.
 
 _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
@@ -4013,7 +4016,7 @@ _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -4032,7 +4035,7 @@ _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -4093,7 +4096,8 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -4150,7 +4154,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010</div>
+    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4286,7 +4290,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 75, 1990; No. 132, 1992; Nos. 133 and 161, 1999; No. 40, 2004; No. 128, 2005; No. 70, 2009</div>
+    <div>am. No. 141, 1987; No. 75, 1990; No. 132, 1992; Nos. 133 and 161, 1999; No. 40, 2004; No. 128, 2005; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4358,7 +4362,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; No. 70, 2009; No. 51, 2010</div>
+    <div>am. No. 119, 1988; No. 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4366,7 +4370,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 75, 1990; No. 128, 2005</div>
+    <div>am. No. 75, 1990; No. 128, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4510,7 +4514,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>Heading to s. 43A</div>
   </td>
   <td>
-    <div>am. No. 2, 2000; No. 51, 2010</div>
+    <div>am. No. 2, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4526,7 +4530,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>am. No. 2, 2000; No. 51, 2010</div>
+    <div>am. No. 2, 2000</div>
   </td>
 </tr>
 <tr>
@@ -5006,7 +5010,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>rs. SLI 2006 No. 50</div>
+    <div>rs. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -5014,7 +5018,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 54 and 124, 2009</div>
+    <div>am. Nos. 54 and 124, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5121,6 +5125,38 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>am. No. 194, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 5
+
+## 4  Subsection 3(1) (definition of _Privacy Commissioner_)
+
+Repeal the definition.
+
+## 5  Paragraphs 20(4A)(b), (c) and (e)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+## 6  Subsection 20(4B)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+## 7  Section 43A
+
+Omit “Privacy Commissioner” (wherever occurring), substitute “Information Commissioner”.
+
+_Note:       The heading to section 43A is altered by omitting “Privacy Commissioner” and substituting “Information Commissioner”._
+
+## 8  Section 43A
+
+Omit “_Privacy Act 1988_”, substitute “_Australian Information Commissioner Act 2010_”.
+
+As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
